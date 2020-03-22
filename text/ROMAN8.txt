@@ -1,0 +1,70 @@
+﻿[ROMAN8]
+;0x02318497=~s~You need a car.
+0x02318497=~s~你需要一辆车。
+
+;0x035D468E=~s~Chase after ~r~Vlad.
+0x035D468E=~s~追上~r~Vlad。
+
+;0x1400A835=~s~Vlad is fleeing in his car. Get back to your ~b~vehicle~s~ and chase after him.
+0x1400A835=~s~Vlad开着车跑了。回到你的~b~载具~s~上去追他。
+
+;0x26864D40=~s~Get back in your ~b~vehicle.
+0x26864D40=~s~回到你的~b~载具~s~上。
+
+;0x3F4B4C3D=~s~You've left ~b~Roman ~s~behind.
+0x3F4B4C3D=~s~你把~b~Roman~s~落下了。
+
+;0x49F66193=~s~When locked on, the reticule will flash if an execution can be performed on the character.
+0x49F66193=~s~若能实施处决，准心在目标锁定时将会闪烁。
+
+;0x639D14F4=~s~Vlad is fleeing in his car. Get back in ~b~Roman's car~s~ and chase after him.
+0x639D14F4=~s~Vlad开着车跑了。返回~b~Roman的车~s~去追他。
+
+;0x74F2B79F=~r~Vlad~s~ is escaping out the back of the bar. Chase after him.
+0x74F2B79F=~r~Vlad~s~从酒吧后门跑了。追上他。
+
+;0x851649FE=~s~Go with Roman and look for Vlad at ~y~Comrades.
+0x851649FE=~s~和Roman一起去~y~Comrades~s~找Vlad。
+
+;0x9245F245=~r~Vlad's~s~ crashed his car. He's trying to escape on foot.
+0x9245F245=~r~Vlad~s~撞坏了他的车。他想要徒步逃跑。
+
+;0x9A90841A=~r~Roman is out of action.
+0x9A90841A=~r~Roman无法行动。
+
+;0xA9631297=~s~Go inside the ~y~bar.
+0xA9631297=~s~进入~y~酒吧。
+
+;0xACDEA8B6=~s~Go to ~y~Comrades.
+0xACDEA8B6=~s~前往~y~Comrades。
+
+;0xBB34B63A=~s~Wait for ~b~Roman.
+0xBB34B63A=~s~等待~b~Roman。
+
+;0xCC67D8A0=~s~Don't let ~r~Vlad~s~ escape.
+0xCC67D8A0=~s~别让~r~Vlad~s~跑了。
+
+;0xCC8AE6CE=~s~Get in ~b~Roman's car.
+0xCC8AE6CE=~s~进入~b~Roman的车。
+
+;0xCE9EDD12=~s~To perform an execution on Vlad, lock on to him and fire. When locked on, the reticule will flash if an execution can be performed.
+0xCE9EDD12=~s~瞄准锁定Vlad后开火可对Vlad实施处决。若能实施处决，准心在锁定时将会闪烁。
+
+;0xD5E76112=~s~To perform an execution on Vlad, aim at him and fire. When locked on, the reticule will flash if an execution can be performed.
+0xD5E76112=~s~瞄准Vlad后开火可对Vlad实施处决。若能实施处决，准心在目标锁定时将会闪烁。
+
+;0xDFA67F1D=~s~Get to the car, Roman
+0xDFA67F1D=~s~上车，Roman
+
+;0xE10E01F0=~s~When equipped with a pistol, you can perform an execution on certain characters.
+0xE10E01F0=~s~装备手枪时，你可以对某些角色实施处决。
+
+;0xEB22D676=~s~Vlad is getting away.
+0xEB22D676=~s~Vlad就要跑了。
+
+;0xEF685F05=~r~Vlad~s~ is getting away.
+0xEF685F05=~r~Vlad~s~就要跑了。
+
+;0xFDD4FBDA=~r~Vlad has escaped.
+0xFDD4FBDA=~r~Vlad逃掉了。
+

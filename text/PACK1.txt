@@ -1,0 +1,94 @@
+﻿[PACK1]
+;0x04143B3E=~s~Continue ~y~outside~s~ the docks.
+0x04143B3E=~s~到码头~y~外面~s~继续。
+
+;0x077AE5C8=~s~Go to the ~y~lockup.
+0x077AE5C8=~s~前往~y~车库。
+
+;0x07E7A4EE=~s~Press ~PAD_X~ to climb onto an object.
+0x07E7A4EE=~s~按~PAD_X~爬上障碍物。
+
+;0x20BFEB47=~s~Go to the ~y~harbor warehouse.
+0x20BFEB47=~s~前往~y~码头仓库。
+
+;0x4D8CB033=~s~Press ~PAD_Y~ to drop down.
+0x4D8CB033=~s~按~PAD_Y~松手跳下。
+
+;0x50EECBA0=~b~Packie ~s~is in trouble. Help him take out the ~r~Triads.
+0x50EECBA0=~b~Packie~s~身陷困境，帮他干掉~r~Triads。
+
+;0x5E6EE6A0=~s~Steal the ~b~truck.
+0x5E6EE6A0=~s~偷走~b~卡车。
+
+;0x60DAE988=~s~When in a vehicle, you can cycle to the Grenades in your inventory by pressing ~PAD_X~.
+0x60DAE988=~s~在载具中时，你可以按~PAD_X~切换至武器栏中的手雷。
+
+;0x6C43EDA1=~s~Use ~PAD_LSTICK_LEFT~ and ~PAD_LSTICK_RIGHT~ to shimmy.
+0x6C43EDA1=~s~使用~PAD_LSTICK_LEFT~和~PAD_LSTICK_RIGHT~左右移动。
+
+;0x736A9EB3=~s~Leave the van and exit the lockup.
+0x736A9EB3=~s~留下货车，离开车库。(BETA)
+
+;0x74D5B01B=~r~The truck has been destroyed.~s~
+0x74D5B01B=~r~卡车被毁了。~s~
+
+;0x7E0D49DB=~s~When in a vehicle, you can cycle to the Grenades in your inventory by pressing ~INPUT_VEH_NEXT_WEAPON~.
+0x7E0D49DB=~s~在载具中时，你可以按~INPUT_VEH_NEXT_WEAPON~切换至武器栏中的手雷。
+
+;0x8FC30DB7=~s~Get into the ~b~truck.
+0x8FC30DB7=~s~进入~b~卡车。
+
+;0x951EEE6F=~s~Climb down the mini cabin to get to the ground.
+0x951EEE6F=~s~爬下小屋，下到地面。
+
+;0x9E99F1F5=~s~Continue to the ~y~harbor warehouse.
+0x9E99F1F5=~s~到~y~码头仓库~s~继续。
+
+;0xA02DF04C=~s~Escape in the van back to Packie's ~y~lockup.
+0xA02DF04C=~s~开货车逃回Packie的~y~车库。~s~(BETA)
+
+;0xA558747E=~s~Get back to ~b~Packie.
+0xA558747E=~s~回去找~b~Packie。
+
+;0xA9E4E973=~s~When in a vehicle, you can cycle to the Grenades in your inventory by pressing ~INPUT_VEH_NEXT_WEAPON~.
+0xA9E4E973=~s~在载具中时，你可以按~INPUT_VEH_NEXT_WEAPON~切换至武器栏中的手雷。
+
+;0xA9E76951=~s~Drive ~y~outside~s~ of the docks.
+0xA9E76951=~s~开到码头~y~外面。
+
+;0xAE7806B5=~s~Follow ~b~Packie~s~ up on to the roof.
+0xAE7806B5=~s~跟随~b~Packie~s~爬上屋顶。
+
+;0xAEF9AC7D=~s~When in a vehicle, you can cycle to the Grenades in your inventory with ~PAD_LT~.
+0xAEF9AC7D=~s~在载具中时，你可以用~PAD_LT~切换至武器栏中的手雷。
+
+;0xAFB5973C=~s~Reverse the van out of the warehouse.
+0xAFB5973C=~s~倒车出库。(BETA)
+
+;0xB1FFF918=~s~Jump into the ledge to perform a hanging grab.
+0xB1FFF918=~s~跳向横档以抓住它。
+
+;0xBBB5A0C1=~s~Wait for ~b~Packie~s~ to get in the truck.~s~
+0xBBB5A0C1=~s~等待~b~Packie~s~上车。~s~
+
+;0xC8E98AD4=~s~Get into the ~b~loaded van.
+0xC8E98AD4=~s~进入~b~装满货的货车。(BETA)
+
+;0xCB8E4910=~r~Packie is dead.~s~
+0xCB8E4910=~r~Packie死了。~s~
+
+;0xE2EDFDB8=~s~Wait for ~b~Packie~s~ to get in the truck.
+0xE2EDFDB8=~s~等待~b~Packie~s~上车。
+
+;0xE9F3FDAC=~s~Get into the ~b~car.
+0xE9F3FDAC=~s~上~b~车。
+
+;0xEC398237=~s~Follow ~b~Packie.
+0xEC398237=~s~跟随~b~Packie。
+
+;0xF2B48D3D=~s~You can pull the pin by holding ~INPUT_VEH_ATTACK~. Release ~INPUT_VEH_ATTACK~ to drop the grenade clear of your vehicle.
+0xF2B48D3D=~s~按住~INPUT_VEH_ATTACK~拉拉环。松开~INPUT_VEH_ATTACK~将手雷扔下载具。
+
+;0xF3E886D7=~s~You are too far away from ~b~Packie.~s~ Go back and get him.
+0xF3E886D7=~s~你离~b~Packie~s~太远了，回去带上他。
+

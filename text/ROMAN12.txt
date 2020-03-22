@@ -1,0 +1,46 @@
+﻿[ROMAN12]
+;0x024887CD=~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.
+0x024887CD=~s~瞄准时按~PAD_RSTICK_NONE~切换缩放倍率。
+
+;0x09BD17BC=~s~Go to the ~y~warehouse~s~ where Roman is being held.
+0x09BD17BC=~s~前往Roman所在的~y~仓库。
+
+;0x10A2B21F=~r~Roman has been executed.
+0x10A2B21F=~r~Roman被撕票了。
+
+;0x16F3F2FB=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ when aiming to switch between differing levels of zoom.
+0x16F3F2FB=~s~瞄准时使用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~切换缩放倍率。
+
+;0x182F9DBF=~s~Hold ~INPUT_ATTACK~ halfway before firing to increase accuracy.
+0x182F9DBF=~s~开火前半按~INPUT_ATTACK~以提高精度。
+
+;0x3525100F=~s~Aim carefully to take out the kidnapper and free Roman.
+0x3525100F=~s~仔细瞄准，击倒绑匪，解救Roman。
+
+;0x5C0544A4=~r~Roman has been abandoned.
+0x5C0544A4=~r~Roman被抛弃了。
+
+;0x5E58BFC4=~s~Use higher levels of zoom to increase accuracy.
+0x5E58BFC4=~s~使用更高的缩放倍率增加精度。
+
+;0x6BB4E29E=~s~Use Free-Aim to take out the kidnapper and free Roman.
+0x6BB4E29E=~s~使用自由瞄准击倒绑匪，解救Roman。
+
+;0x756EDE56=~s~Follow ~b~Roman.
+0x756EDE56=~s~跟随~b~Roman。
+
+;0x801209E8=~s~Wait for ~b~Roman~s~
+0x801209E8=~s~等待~b~Roman~s~
+
+;0x8DA92516=~s~You left ~b~Roman~s~ behind.
+0x8DA92516=~s~你把~b~Roman~s~落下了。
+
+;0x96003080=~b~Roman~s~ is on the top floor. Rescue him.
+0x96003080=~b~Roman~s~在顶楼，去救他。
+
+;0xEE90072D=~r~Roman is dead.
+0xEE90072D=~r~Roman死了。
+
+;0xF08A6BF7=~s~Take Roman back to the ~y~Bohan safehouse.
+0xF08A6BF7=~s~带Roman回~y~Bohan的安全屋。
+

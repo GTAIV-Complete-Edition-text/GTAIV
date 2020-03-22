@@ -1,0 +1,64 @@
+﻿[PLAYBY3]
+;0x18A61A1F=~s~Backup has arrived to protect the last ~r~leader.~s~ Take him down.
+0x18A61A1F=~s~已有增援前来保护最后一个~r~领袖。~s~解决他。
+
+;0x290CBAEC=~s~Go to the construction site and find the first ~r~Union leader.
+0x290CBAEC=~s~前往建筑工地，找到第一个~r~工会领袖。
+
+;0x36CAD668=~s~Take out the ~r~lookouts.
+0x36CAD668=~s~解决~r~哨卫。
+
+;0x39E15BB5=~s~You've been spotted. Get to the ~r~first leader~s~ and take him out.
+0x39E15BB5=~s~你被发现了。找到~r~第一个领袖，~s~做掉他。
+
+;0x516D8BC9=~s~Use the sniper rifle to take them out.
+0x516D8BC9=~s~用狙击步枪解决他们。
+
+;0x5C9C36FA=~s~Go to the ~g~car~s~ in the alley downtown.
+0x5C9C36FA=~s~进入停在市中心小巷的~g~车。
+
+;0x60BA2A62=~s~Playboy has left the weapons in a ~g~car~s~ in an alley downtown.
+0x60BA2A62=~s~Playboy在市中心的小巷的~g~车~s~里放了武器。
+
+;0x6676F2D8=~r~The car holding the weapons has been destroyed.
+0x6676F2D8=~r~放有武器的车被毁了。
+
+;0x6F0446F6=~s~Get in the ~g~car~s~ to retrieve weapons.
+0x6F0446F6=~s~上~g~车~s~获取武器。
+
+;0x738D8D15=~r~Playboy was abandoned.
+0x738D8D15=~r~Playboy被抛弃了。
+
+;0x796CE016=~s~To throw a grenade, free aim or lock on to a target then press ~INPUT_ATTACK~ to pull the pin. Release ~INPUT_ATTACK~ to throw the grenade.
+0x796CE016=~s~要投掷手雷，自由瞄准或锁定一个目标，然后按~INPUT_ATTACK~拉环，松开~INPUT_ATTACK~掷出手雷。
+
+;0x84C22F7E=~r~The last Union leader got away.
+0x84C22F7E=~r~最后一个工会领袖跑了。
+
+;0x8A367D5A=~s~Strike out the ~r~Union leaders.
+0x8A367D5A=~s~解决~r~工会领袖们。
+
+;0x8A981972=~s~You left ~b~Playboy~s~ behind.
+0x8A981972=~s~你落下了~b~Playboy。
+
+;0x8D4C0A99=~s~To throw a grenade, aim at a target then press ~INPUT_ATTACK~ to pull the pin. Release ~INPUT_ATTACK~ to throw the grenade.
+0x8D4C0A99=~s~要投掷手雷，瞄准目标后按~INPUT_ATTACK~拉环，松开~INPUT_ATTACK~掷出手雷。
+
+;0x95B21451=~s~You'll see better from a good vantage point.
+0x95B21451=~s~有利位置的视野会更好。
+
+;0xA544F083=~r~Playboy is dead.
+0xA544F083=~r~Playboy死了。
+
+;0xAC0C451C=~s~When not aiming press then release ~INPUT_ATTACK~ to drop a grenade.
+0xAC0C451C=~s~未进行瞄准时，按下~INPUT_ATTACK~后松开可原地扔雷。
+
+;0xC31FEF2C=~s~There are lookouts on 3 of the cranes.
+0xC31FEF2C=~s~三台起重机上有哨卫在。
+
+;0xD9C32089=~s~The longer you hold ~INPUT_ATTACK~ the shorter the fuse will become.
+0xD9C32089=~s~~INPUT_ATTACK~按得越久，引爆时间就越短。
+
+;0xEC1DC02F=~s~Take down the next ~r~Union leader.
+0xEC1DC02F=~s~解决下一个~r~工会领袖。
+

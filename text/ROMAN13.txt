@@ -1,0 +1,106 @@
+﻿[ROMAN13]
+;0x0589F840=~r~Talbot is dead, you are no closer to finding Florian Cravic.~s~
+0x0589F840=~r~Talbot死了，你离找到Florian Cravic又远了一步。~s~
+
+;0x0728F232=~s~Lose your wanted level.
+0x0728F232=~s~降低你的通缉度。
+
+;0x0F463F58=~r~Talbot is lost.~s~
+0x0F463F58=~r~Talbot迷路了。~s~
+
+;0x1C72FFD7=~s~Go and find ~y~Florian~s~.
+0x1C72FFD7=~s~去找~y~Florian。~s~
+
+;0x1C89EF63=~s~Get a car and pick up ~b~Roman.
+0x1C89EF63=~s~找辆车去接~b~Roman。
+
+;0x21E4F705=~s~Beat ~r~Talbot~s~ enough to make him talk.
+0x21E4F705=~s~打到~r~Talbot~s~开口为止。
+
+;0x4CAF1217=~s~Niko, where you going?~s~
+0x4CAF1217=~s~Niko，你要去哪儿？~s~
+
+;0x5D5BEDF2=~s~Wait for ~b~Talbot~s~ and ~b~Roman.
+0x5D5BEDF2=~s~等待~b~Talbot~s~和~b~Roman。
+
+;0x656B224B=~s~We're getting closer~s~
+0x656B224B=~s~我们很近了。~s~
+
+;0x69895894=~r~The car was destroyed.~s~
+0x69895894=~r~车子毁了。~s~
+
+;0x6D7B71A1=~r~You lost him.~s~
+0x6D7B71A1=~r~你失去了他。~s~
+
+;0x735DDDE5=~s~Pay attention to Talbot's directions.
+0x735DDDE5=~s~注意Talbot的指引。
+
+;0x736D9D29=~s~Go to pick up ~y~Roman.
+0x736D9D29=~s~去接~y~Roman。
+
+;0x7FBC90FA=~r~Roman has been injured.~s~
+0x7FBC90FA=~r~Roman受伤了。~s~
+
+;0x8723A6B7=~s~Go to ~y~Florian's apartment.
+0x8723A6B7=~s~前往~y~Florian的公寓。
+
+;0x87B642A6=~s~Get in a car with 2 passenger seats.
+0x87B642A6=~s~找一辆有两个乘客席的车。
+
+;0x8D7C6B54=~s~Follow Talbot's directions.
+0x8D7C6B54=~s~跟从Talbot的导航。
+
+;0x8F32D5FB=~s~Go back and get ~b~Talbot.
+0x8F32D5FB=~s~回去带上~b~Talbot。
+
+;0xA6077F48=~s~Go and see ~y~Talbot.
+0xA6077F48=~s~去找~y~Talbot。
+
+;0xA61B0283=~s~Get a car.
+0xA61B0283=~s~找一辆车。
+
+;0xA8B9111B=~s~When in a car, Talbot will give directions as you approach a junction.
+0xA8B9111B=~s~在车上时，每逢路口Talbot就会给出方向。
+
+;0xB96819EB=~s~Get a four door car.
+0xB96819EB=~s~找一辆四门的车。
+
+;0xC84CF72B=~s~Put the phone away and listen to Talbot.
+0xC84CF72B=~s~别看手机了，听Talbot说话。
+
+;0xC9519445=~s~There are not enough seats for Talbot and Roman.
+0xC9519445=~s~没有足够的位置给Talbot和Roman坐。
+
+;0xCD4DAA50=~s~Are you Crazy!? You're going against the traffic!.
+0xCD4DAA50=~s~你疯了吗！？你这是违反交规！
+
+;0xCD63CE00=~s~Wait for ~b~Roman.
+0xCD63CE00=~s~等待~b~Roman。
+
+;0xDB32699D=~s~Wait for ~b~Talbot.
+0xDB32699D=~s~等待~b~Talbot。
+
+;0xDD2132B6=~s~Go back and get ~b~Roman~s~ and ~b~Talbot.
+0xDD2132B6=~s~回去带上~b~Roman~s~和~b~Talbot。
+
+;0xE1A6F99A=~s~Go and see ~b~Talbot.
+0xE1A6F99A=~s~去找~b~Talbot。
+
+;0xEE5C3E40=~r~Roman is dead.~s~
+0xEE5C3E40=~r~Roman死了。~s~
+
+;0xEEE29415=~s~Pick up ~b~Roman.
+0xEEE29415=~s~去接~b~Roman。
+
+;0xEFBA12B0=~s~Get a car for you and Roman.
+0xEFBA12B0=~s~给你和Roman找辆车。
+
+;0xF0EADF34=~r~Talbot has been injured.~s~
+0xF0EADF34=~r~Talbot受伤了。~s~
+
+;0xF4315F8A=~s~Get in a car and follow Talbot's directions.
+0xF4315F8A=~s~找一辆车，跟从Talbot的导航。
+
+;0xFA3CAC90=~s~Go back and get ~b~Roman.
+0xFA3CAC90=~s~回去带上~b~Roman。
+

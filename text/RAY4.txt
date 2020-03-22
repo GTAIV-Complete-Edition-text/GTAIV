@@ -1,0 +1,49 @@
+﻿[RAY4]
+;0x1F34CBF5=~r~You attacked Johnny.
+0x1F34CBF5=~r~你攻击了Johnny。
+
+;0x2D81688E=~r~Johnny has been injured.
+0x2D81688E=~r~Johnny受伤了。
+
+;0x35D72FC8=~s~Flee the museum before the cops arrive in full force.
+0x35D72FC8=~s~在警察完全集结之前逃离博物馆。
+
+;0x3817B49D=~s~Lose your wanted level.
+0x3817B49D=~s~降低你的通缉度。
+
+;0x3F134294=~s~Escape the ~y~Libertonian.
+0x3F134294=~s~逃离~y~自由城博物馆。
+
+;0x546C3663=~r~Isaac is dead.
+0x546C3663=~r~Isaac死了。
+
+;0x556D6F48=~s~Meet Johnny at the side entrance to the ~y~Libertonian.
+0x556D6F48=~s~到~y~自由城博物馆~s~的侧门找Johnny。
+
+;0x64B745C1=~s~Mission Passed.
+0x64B745C1=~s~任务通过。
+
+;0x6A98199D=~s~Go to the ~y~Libertonian~s~ between 9pm and 3am.
+0x6A98199D=~s~在早上9点到下午3点间去~y~自由城博物馆。
+
+;0x84394C8B=~s~Lose Isaac's crew.
+0x84394C8B=~s~甩掉Isaac的手下。
+
+;0x8966D73A=~s~Meet ~b~Johnny~s~ at the side entrance to the Libertonian.
+0x8966D73A=~s~去自由城博物馆的侧门找~b~Johnny。
+
+;0x9CC4FDF6=~s~Come back between 9pm and 3am.
+0x9CC4FDF6=~s~在晚上9点到凌晨3点之间回来。
+
+;0xA8EA702C=~s~Placeholder Cutscene.
+0xA8EA702C=~s~Placeholder Cutscene。
+
+;0xC6A59AD4=~r~Johnny is dead.
+0xC6A59AD4=~r~Johnny死了。
+
+;0xDC2FC5E8=~r~Mission Failed.
+0xDC2FC5E8=~r~任务失败。
+
+;0xF0EA2643=~s~Go back to ~y~Ray.
+0xF0EA2643=~s~回去找~y~Ray。
+

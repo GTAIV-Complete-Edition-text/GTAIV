@@ -1,0 +1,136 @@
+﻿[PUZZLE]
+;0x003C2D18=If a group of four blocks of the same color are arranged to form a square they will become a larger block of that color.
+0x003C2D18=当一组同色方块形成正方形时，它们会变成一个同色的大方块。
+
+;0x01FEEAD7=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.
+0x01FEEAD7=按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~继续。
+
+;0x1116952A=~s~NEXT
+0x1116952A=~s~下一个
+
+;0x1339B4FB=~s~EXIT GAME
+0x1339B4FB=~s~退出游戏
+
+;0x1BE36031=~s~LEVEL
+0x1BE36031=~s~等级
+
+;0x1E6F074F=For each of these larger blocks that are removed the power bar will increase.
+0x1E6F074F=每消除一个大方块，能量槽就会填充一格。
+
+;0x1EFDECEC=~s~EXIT TUTORIAL
+0x1EFDECEC=~s~退出教程
+
+;0x23FB748A=These larger blocks are removed from the grid by destroying a normal sequence of same colored blocks.
+0x23FB748A=消除大方块并不会消除相邻的同色方块。
+
+;0x2999CD2E=~s~CONFIRM
+0x2999CD2E=~s~确认
+
+;0x2C4E6829=~s~SCORE
+0x2C4E6829=~s~得分
+
+;0x45B21ABE=YOU SCORED
+0x45B21ABE=你的得分
+
+;0x620A8E95=It takes four large blocks to completely fill the power bar.
+0x620A8E95=需要消除四个大方块才能填满能量槽。
+
+;0x6B70C390=Once removed from the grid any blocks above those removed will fall down to fill the empty spaces.
+0x6B70C390=方块消除后，原先在其上方的方块就会下落填补空位。
+
+;0x6BF824BE=~s~x ~1~
+0x6BF824BE=~s~x ~1~
+
+;0x6DB4A5E9=Once the power bar has been filled once you can use a power up by pressing either ~PAD_X~, ~PAD_Y~, ~PAD_A~ or ~PAD_B~.
+0x6DB4A5E9=能量槽填满后，你可以按下~PAD_X~~PAD_Y~~PAD_A~~PAD_B~中的一个发动能量特技。
+
+;0x6F323527=~s~POWER
+0x6F323527=~s~能量
+
+;0x7064C936=~e~
+0x7064C936=~e~
+
+;0x7C1E675D=~PAD_UP~
+0x7C1E675D=~PAD_UP~
+
+;0x7F11C8A3=A maximum of three power up uses can be stored for future use by repeatedly filling up the power bar.
+0x7F11C8A3=能量槽可反复填充，但最多只能储存三个能量特技。
+
+;0x7F385CDF=~PAD_DOWN~
+0x7F385CDF=~PAD_DOWN~
+
+;0x8B75152F=PRESS ~PAD_A~ TO EXIT TUTORIAL
+0x8B75152F=按~PAD_A~退出教程
+
+;0x8F332E2D=~s~CONTINUE
+0x8F332E2D=~s~继续
+
+;0x9286F221=QUIT
+0x9286F221=退出
+
+;0x974E12C3=~s~HI SCORE
+0x974E12C3=~s~最高分
+
+;0x9FD82C5A=Each time empty spaces are removed the score for each block removal gets multiplied.
+0x9FD82C5A=每次消除都会增加消除单位方块可得的分数。
+
+;0x9FFAB8D7=~s~SPECIAL
+0x9FFAB8D7=~s~特技
+
+;0xA385A618=THE PUZZLE GAME YOU'VE PLAYED BEFORE
+0xA385A618=你　从　前　玩　过　的　益　智　游　戏
+
+;0xAFB2961A=HI-SCORES
+0xAFB2961A=排行榜
+
+;0xB3D0D44B=Blocks are removed by forming a sequence of four or more similarly colored blocks so their faces are touching.
+0xB3D0D44B=将四个及以上的同色方块连在一起可消除方块。
+
+;0xB58ACB11=~s~SELECT CHARACTER
+0xB58ACB11=~s~选择字母
+
+;0xBEC1135B=The falling block is rotated around the central axis by pressing either ~INPUT_KB_LEFT~ or ~INPUT_KB_RIGHT~, or using ~PAD_LSTICK_LEFTRIGHT~.
+0xBEC1135B=使用~INPUT_KB_LEFT~~INPUT_KB_RIGHT~或~PAD_LSTICK_LEFTRIGHT~可绕中轴旋转下落的方块。
+
+;0xC082FFF0=~INPUT_FRONTEND_CANCEL~
+0xC082FFF0=~INPUT_FRONTEND_CANCEL~
+
+;0xC2B60456=~INPUT_FRONTEND_ACCEPT~
+0xC2B60456=~INPUT_FRONTEND_ACCEPT~
+
+;0xC586FE95=Once the power bar has been filled once you can use a power up by pressing either ~INPUT_FRONTEND_MINIGAME_1~, ~INPUT_FRONTEND_MINIGAME_2~, ~INPUT_FRONTEND_MINIGAME_3~ or ~INPUT_FRONTEND_MINIGAME_4~.
+0xC586FE95=能量槽填满后，你可以按下~INPUT_FRONTEND_MINIGAME_1~~INPUT_FRONTEND_MINIGAME_2~~INPUT_FRONTEND_MINIGAME_3~~INPUT_FRONTEND_MINIGAME_4~中的一个发动能量特技。
+
+;0xC682D44B=TUTORIAL
+0xC682D44B=教程
+
+;0xC72DA8AD=START
+0xC72DA8AD=开始
+
+;0xC8CFA20D=Randomly colored blocks are created at the top of the screen and will fall down the grid.
+0xC8CFA20D=随机颜色的方块会从屏幕顶端落下。
+
+;0xCAC6D93E=~s~BACK
+0xCAC6D93E=~s~返回
+
+;0xCC98E93B=~s~SCROLL
+0xCC98E93B=~s~移动
+
+;0xD88E418A=The aim of the game is to prevent the colored blocks from reaching the top of the grid.
+0xD88E418A=此游戏以不让彩色方块堆到网格顶端为目标。
+
+;0xDA712CBD=YOU'LL NEED TO DO BETTER THAN THAT TO ENTER THE HI-SCORE TABLE!
+0xDA712CBD=你需要更高的得分才能登录排行榜！
+
+;0xDB557E6F=~s~SELECT
+0xDB557E6F=~s~选择
+
+;0xE6E6B85A=GAME OVER
+0xE6E6B85A=GAME OVER
+
+;0xEB43D97F=~1~
+0xEB43D97F=~1~
+
+;0xF101F7DC=Using ~PAD_DPAD_DOWN~ or ~PAD_LSTICK_DOWN~ will increase the speed at which the blocks fall.
+0xF101F7DC=使用~PAD_DPAD_DOWN~或~PAD_LSTICK_DOWN~可加快方块的下落。
+

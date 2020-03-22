@@ -1,0 +1,166 @@
+﻿[POOL]
+;0x0D3E72AE=~g~Striped ball pocketed.
+0x0D3E72AE=~g~花色球入袋。
+
+;0x102AB08C=Use ~PAD_RSTICK_DOWN~ then ~PAD_RSTICK_UP~ to take a shot.~n~Press ~INPUT_FRONTEND_CANCEL~ to return to aiming.~n~Press ~INPUT_PICKUP~ to leave table.
+0x102AB08C=先~PAD_RSTICK_DOWN~后~PAD_RSTICK_UP~进行击球。~n~按~INPUT_FRONTEND_CANCEL~重新瞄准。~n~按~INPUT_PICKUP~离开球桌。
+
+;0x2222547B=Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Use ~PAD_RSTICK_ALL~ to position cue tip.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_FRONTEND_ACCEPT~ to enter shooting mode.~n~Press ~PAD_BACK~ for overhead view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~
+0x2222547B=用~PAD_LSTICK_LEFTRIGHT~调整瞄准角度。~n~用~PAD_RSTICK_ALL~选择球杆击球位置。~n~按住~PAD_X~微调。~n~按~INPUT_FRONTEND_ACCEPT~进入击球模式。~n~按~PAD_BACK~使用俯视视角。~n~按~INPUT_PICKUP~离开球桌。~n~~a~
+
+;0x2722BBF3=Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_ATTACK~ to enter shooting mode.~n~Press ~PAD_BACK~ for normal view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~
+0x2722BBF3=用~PAD_LSTICK_LEFTRIGHT~调整瞄准角度。~n~按住~PAD_X~微调。~n~按~INPUT_ATTACK~进入击球模式。~n~按~PAD_BACK~使用俯视视角。~n~按~INPUT_PICKUP~离开台球桌。~n~~a~
+
+;0x2A13D29A=~g~Pocket the 8-Ball to win!
+0x2A13D29A=~g~打入8号球以获胜！
+
+;0x34CA79CB=You are leaving the pool game, you have ~1~ seconds to return to the pool table or the match will be abandoned.
+0x34CA79CB=你要退出台球比赛了, 你有~1~秒钟返回球桌，否则比赛将被放弃。
+
+;0x391C8A9F=~r~Scratch. Pocketed wrong color. Pocketed 8-Ball.
+0x391C8A9F=~r~犯规。错误花色的球入袋。8号球入袋。
+
+;0x3B325867=Nice shot!
+0x3B325867=好球！
+
+;0x3B8F0906=Wager:
+0x3B8F0906=赌金:
+
+;0x3DA99A0F=~y~You win.
+0x3DA99A0F=~y~你赢了。
+
+;0x44615191=~r~Scratch. Missed all balls. Pocketed 8-Ball.
+0x44615191=~r~白球入袋。一球未中。8号球入袋。
+
+;0x4471DB71=Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_FRONTEND_ACCEPT~ to enter shooting mode.~n~Press ~PAD_BACK~ for normal view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~
+0x4471DB71=用~PAD_LSTICK_LEFTRIGHT~调整瞄准角度。~n~按住~PAD_X~微调。~n~按~INPUT_FRONTEND_ACCEPT~进入击球模式。~n~按~PAD_BACK~使用俯视视角。~n~按~INPUT_PICKUP~离开球桌。~n~~a~
+
+;0x4BBBE2F1=Press ~INPUT_ATTACK~ to approach table.
+0x4BBBE2F1=按~INPUT_ATTACK~靠近台球桌。
+
+;0x4E0A6F1B=Press ~INPUT_ATTACK~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~
+0x4E0A6F1B=按~INPUT_ATTACK~继续。~n~按~INPUT_PICKUP~退出。~n~~a~
+
+;0x50AC3076=Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~
+0x50AC3076=按~INPUT_FRONTEND_ACCEPT~继续。~n~按~INPUT_PICKUP~退出。~n~~a~
+
+;0x5357C12E=~g~8-Ball pocketed.
+0x5357C12E=~g~8号球入袋。
+
+;0x56B89AB7=Player 1:
+0x56B89AB7=玩家 1:
+
+;0x574E9CF1=~r~Scratch. Ball jumped off table.
+0x574E9CF1=~r~犯规。球从台球桌跳出。
+
+;0x58E4CB33=~r~Scratch. Ball jumped off table. Pocketed 8-Ball
+0x58E4CB33=~r~犯规。球从台球桌跳出。8号球入袋。
+
+;0x5A894F5C=~r~Scratch. No rail hit. Pocketed 8-Ball
+0x5A894F5C=~r~犯规。主球没有触边。8号球入袋。
+
+;0x5C4AD308=~g~No balls pocketed.
+0x5C4AD308=~g~没有球入袋。
+
+;0x6114B07D=~r~Scratch. No rail hit.
+0x6114B07D=~r~犯规。主球没有触边。
+
+;0x617BA8FF=Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Use ~PAD_RSTICK_ALL~ to position cue tip.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_ATTACK~ to enter shooting mode.~n~Press ~PAD_BACK~ for overhead view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~
+0x617BA8FF=用~PAD_LSTICK_LEFTRIGHT~旋转。~n~用~PAD_RSTICK_ALL~选择球杆击球位置。~n~按住~PAD_X~微调。~n~按~INPUT_ATTACK~进入击球模式。~n~按~PAD_BACK~使用俯视视角。~n~按~INPUT_PICKUP~离开球桌。~n~~a~
+
+;0x65836585=~g~Balls successfully pocketed.
+0x65836585=~g~球成功入袋。
+
+;0x6EAACBA9=~r~Scratch. Pocketed 8-Ball.
+0x6EAACBA9=~r~犯规。8号球入袋。
+
+;0x72E737B3=~g~You must hit a striped colored ball.
+0x72E737B3=~g~你必须打进一个花色球。
+
+;0x73163D64=~g~Solid ball pocketed.
+0x73163D64=~g~全色球入袋。
+
+;0x766F7EC6=$~1~
+0x766F7EC6=$~1~
+
+;0x7B350B53=~r~Scratch. Pocketed cue ball. Pocketed 8-Ball.
+0x7B350B53=~r~犯规。母球入袋。8号球入袋。
+
+;0x80686F24=~r~Scratch. Pocketed wrong color.
+0x80686F24=~r~犯规。错误花色的球入袋。
+
+;0x80D5D8E3=~g~Solid balls pocketed.
+0x80D5D8E3=~g~全色球入袋。
+
+;0x82F4961A=Press ~INPUT_FRONTEND_ACCEPT~ to approach table.
+0x82F4961A=按~INPUT_FRONTEND_ACCEPT~靠近台球桌。
+
+;0x84531A8D=Pride and honor
+0x84531A8D=自豪与荣耀
+
+;0x8ABF249B=Press ~INPUT_FRONTEND_CANCEL~ to show help.~n~~a~
+0x8ABF249B=按~INPUT_FRONTEND_CANCEL~显示按键提示。~n~~a~
+
+;0x90860F5F=~r~Scratch. Pocketed cue ball.
+0x90860F5F=~r~犯规。母球入袋。
+
+;0x92F337CD=Pool game abandoned
+0x92F337CD=已放弃桌球游戏
+
+;0x9A3822C3=~r~Scratch. Hit wrong ball first.
+0x9A3822C3=~r~犯规。最先撞击的球种类错误。
+
+;0x9EF7DC81=~g~You must hit a solid colored ball.
+0x9EF7DC81=~g~你必须击中一个全色球。
+
+;0x9FDC17EB=~g~Striped balls pocketed.
+0x9FDC17EB=~g~花色球入袋。
+
+;0xA515A346=Press ~INPUT_ATTACK~ to continue.~n~~a~
+0xA515A346=按~INPUT_ATTACK~继续。~n~~a~
+
+;0xA57E60C5=~r~Scratch. Hit wrong ball first. Pocketed 8-Ball.
+0xA57E60C5=~r~犯规。最先撞击的球种类错误。8号球入袋。
+
+;0xABE8C624=~r~Scratch. Missed all balls.
+0xABE8C624=~r~犯规。一球未中。
+
+;0xAEA15FBF=Use ~PAD_LSTICK_ALL~ to position cue ball.~n~Press ~INPUT_ATTACK~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~
+0xAEA15FBF=用~PAD_LSTICK_ALL~放置母球。~n~按~INPUT_ATTACK~继续。~n~按~INPUT_PICKUP~退出。~n~~a~
+
+;0xB5080CB7=Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~~a~
+0xB5080CB7=按~INPUT_FRONTEND_ACCEPT~继续。~n~~a~
+
+;0xC82106B4=Are you sure you want to quit?
+0xC82106B4=你确定你要退出？
+
+;0xC9052242=Use ~PAD_LSTICK_ALL~ to position cue ball.~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~
+0xC9052242=用~PAD_LSTICK_ALL~放置母球。~n~按~INPUT_FRONTEND_ACCEPT~继续。~n~按~INPUT_PICKUP~退出。~n~~a~
+
+;0xCF9C7830=In one motion, pull the ~INPUT_MOUSE_UD~ backward and quickly thrust it forward. ~n~Press ~INPUT_FRONTEND_CANCEL~ to return to aiming.~n~Press ~INPUT_PICKUP~ to leave table.
+0xCF9C7830=一气呵成，拉动~INPUT_MOUSE_UD~，先后拉然后快速前推。~n~按~INPUT_FRONTEND_CANCEL~重新瞄准。~n~按~INPUT_PICKUP~离开台球桌。
+
+;0xD23FBEF8=~g~8-Ball pocketed from break.
+0xD23FBEF8=~g~8号球一杆得分。
+
+;0xD8EBF5A7=Open
+0xD8EBF5A7=开启
+
+;0xDAEE61D2=Ball Assignment
+0xDAEE61D2=桌球分配
+
+;0xDCC649C4=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the pool game.
+0xDCC649C4=按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~返回桌球游戏。
+
+;0xDF3407B5=~g~You may hit any colored ball.
+0xDF3407B5=~g~你可以击打任何有色球。
+
+;0xEAD555B3=Opposition:
+0xEAD555B3=对手:
+
+;0xF0509B0F=~r~You lose.
+0xF0509B0F=~r~你输了。
+
+;0xFF5B8EEE=Press ~INPUT_FRONTEND_ACCEPT~ to play again.~n~Press ~INPUT_PICKUP~ to quit.
+0xFF5B8EEE=按~INPUT_FRONTEND_ACCEPT~再来一局。~n~按~INPUT_PICKUP~退出。
+
