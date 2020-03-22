@@ -1,0 +1,124 @@
+﻿[FFDAUD]
+;0x00E57E01=~z~Hi, how can I help you?
+0x00E57E01=~z~嗨，你需要点什么？
+
+;0x01107E53=~z~Hello, are you ready to order?
+0x01107E53=~z~你好，你需要点些什么？
+
+;0x03F88674=100
+0x03F88674=100
+
+;0x052699EE=100
+0x052699EE=100
+
+;0x0625BCEC=~z~Goodbye, have a nice day.
+0x0625BCEC=~z~再见，祝你今天愉快
+
+;0x0A2A908B=~z~Yes, what can I get you?
+0x0A2A908B=~z~你需要点什么？
+
+;0x105EF4A8=FFD_BURGER_BYE
+0x105EF4A8=FFD_BURGER_BYE
+
+;0x108ED1BE=~z~Bye, thanks for eating at Burger Shot.
+0x108ED1BE=~z~再见，感谢光临Burger Shot.
+
+;0x3311D56F=100
+0x3311D56F=100
+
+;0x36A8CFBF=~z~Ay, hombre! That is disgusting!
+0x36A8CFBF=~z~啊老兄，太恶心了。
+
+;0x37FC3E14=100
+0x37FC3E14=100
+
+;0x3A6BD3E2=FFD_FOOD_SERVE_MEAL
+0x3A6BD3E2=FFD_FOOD_SERVE_MEAL
+
+;0x490E3E6E=FFD_FOOD_WHAT_WANT
+0x490E3E6E=FFD_FOOD_WHAT_WANT
+
+;0x5CF190BB=~z~Goodbye.
+0x5CF190BB=~z~再见
+
+;0x62AD3694=100
+0x62AD3694=100
+
+;0x664A92A6=FFD_FOOD_PLAYER_SICK
+0x664A92A6=FFD_FOOD_PLAYER_SICK
+
+;0x7228DACA=FFD_CLUCK_HI
+0x7228DACA=FFD_CLUCK_HI
+
+;0x73FE5BCA=FFD_BURGER_HI
+0x73FE5BCA=FFD_BURGER_HI
+
+;0x74DEEAC4=FFD_CLUCK_BYE
+0x74DEEAC4=FFD_CLUCK_BYE
+
+;0x83F70DA6=FFD_FOOD_BOUGHT_ENOUGH
+0x83F70DA6=FFD_FOOD_BOUGHT_ENOUGH
+
+;0x9007C785=100
+0x9007C785=100
+
+;0x9E55400A=100
+0x9E55400A=100
+
+;0x9F5D7C84=~z~There.
+0x9F5D7C84=~z~来
+
+;0x9FF6FDCB=~z~Here.
+0x9FF6FDCB=~z~来
+
+;0xA1B02233=FFD_THANKS
+0xA1B02233=FFD_THANKS
+
+;0xA27282C2=~z~Here it is.
+0xA27282C2=~z~来
+
+;0xA448E4C2=100
+0xA448E4C2=100
+
+;0xADB85CD6=100
+0xADB85CD6=100
+
+;0xBB214D19=~z~Bye!
+0xBB214D19=~z~拜拜！
+
+;0xBB2310B7=~z~Ay, get outta here man!
+0xBB2310B7=~z~嘿！给我滚出去！
+
+;0xC84B2B07=~z~I ain't serving you no more.
+0xC84B2B07=~z~我不会给你点餐了。
+
+;0xCC07B816=~z~Hi, welcome to Cluckin' Bell, what can I get for you?
+0xCC07B816=~z~嗨！欢迎来到Cluckin' Bell你要点些什么？
+
+;0xD4426661=~z~Here you go.
+0xD4426661=~z~来了。
+
+;0xD6B1DF2D=~z~Thanks for choosing Burger Shot, where the burgers are bleedin' tasty.
+0xD6B1DF2D=~z~感谢光临Burger Shot，这里的汉堡绝对美味。
+
+;0xDA5F92AB=~z~Thanks!
+0xDA5F92AB=~z~谢了！
+
+;0xDE765CF3=~z~Hello, welcome to Cluckin' Bell, how can I help you?
+0xDE765CF3=~z~你好，欢迎来到Cluckin' Bell，你需要点些什么？
+
+;0xE3CB7960=~z~Hi, welcome to Burger Shot, how can I help you?
+0xE3CB7960=~z~嗨！欢迎来到Burger Shot，你需要点些什么？
+
+;0xE8A4AF35=~z~Gracias.
+0xE8A4AF35=~z~谢谢
+
+;0xEF32DA9C=~z~Hi, what can I get you?
+0xEF32DA9C=~z~嗨，你想吃点什么？
+
+;0xF0E17C33=~z~No way, I ain't givin' you no more food.
+0xF0E17C33=~z~没门，我不会给你点餐了！
+
+;0xFB82D974=~z~Ay, man, now I gotta clean that shit up!
+0xFB82D974=~z~哎，现在我还得清理这破玩意。
+

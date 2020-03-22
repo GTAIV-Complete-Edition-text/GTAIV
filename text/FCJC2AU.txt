@@ -1,0 +1,509 @@
+﻿;注：
+;1.我不懂LJ在说什么 LJ的话是我瞎编的
+;2.Niko在说什么我也不太清楚 是按大意编的
+
+[FCJC2AU]
+;0x02307484=~z~I'm trying! You keep talking.
+0x02307484=~z~我是想啊！你一直在说话。
+
+;0x05BFF006=FCJ2_JACOB_CONVERSATION_11_CK
+0x05BFF006=FCJ2_JACOB_CONVERSATION_11_CK
+
+;0x0A914844=FCJ2_JACOB_CONVERSATION_10_BG
+0x0A914844=FCJ2_JACOB_CONVERSATION_10_BG
+
+;0x0AC6AB33=FCJ2_JACOB_CONVERSATION_13_EB
+0x0AC6AB33=FCJ2_JACOB_CONVERSATION_13_EB
+
+;0x0B5A652E=~z~Don't deal wit cocaine, everything end up fine.
+0x0B5A652E=~z~不碰可卡因，一切都会好好的。
+
+;0x0DBE914E=~z~Rhaatid, Niko.
+0x0DBE914E=~z~好吧，Niko。
+
+;0x0E6FF548=FCJ2_JACOB_CONVERSATION_14_FB
+0x0E6FF548=FCJ2_JACOB_CONVERSATION_14_FB
+
+;0x0FEAC120=FCJ2_JACOB_CONVERSATION_14_FE
+0x0FEAC120=FCJ2_JACOB_CONVERSATION_14_FE
+
+;0x10A5E6D3=~z~Rum is I-tal. It made from the earth and it put you in tune with it. It's a natural ting.
+0x10A5E6D3=~z~朗姆酒就是了。它源于大地，让你回归大地。是自然的东西。
+
+;0x11EE4025=~z~Seen, Niko. you, me, Badman, we all crazy living de life we live.
+0x11EE4025=~z~你看，Niko。你、我、Badman，我们都疯狂地过着疯狂的日子。
+
+;0x1292F764=FCJ2_JACOB_CONVERSATION_10_BA
+0x1292F764=FCJ2_JACOB_CONVERSATION_10_BA
+
+;0x14E17CE1=FCJ2_JACOB_CONVERSATION_10_BB
+0x14E17CE1=FCJ2_JACOB_CONVERSATION_10_BB
+
+;0x1647630B=FCJ2_JACOB_CONVERSATION_14_FA
+0x1647630B=FCJ2_JACOB_CONVERSATION_14_FA
+
+;0x168F9D42=~z~Hold you corner, rasta, shhh.
+0x168F9D42=~z~就此打住，好兄弟，嘘。
+
+;0x1722A43B=FCJ2_JACOB_CONVERSATION_13_EF
+0x1722A43B=FCJ2_JACOB_CONVERSATION_13_EF
+
+;0x1B70ACB2=~z~and you are watching your neighbor's house blowing up on the international news channel.
+0x1B70ACB2=~z~你就能在国际新闻台上看见你邻居的家夷为平地了。
+
+;0x22D51460=~z~This shit is spiritual man. Let me see clearly, hear the I-rations, let I and I enjoy life, and give I and I I-tection.
+0x22D51460=~z~这玩意是精神上的，兄弟。让我看清、听清，让咱俩享受生活，给咱俩乐趣。
+
+;0x260558F4=~z~We gonna have a whole heap of relaxation. A whole bunch of chilling it out. Of silence, yes? Seen?
+0x260558F4=~z~我们要来一大票的娱乐。爽他一大票。享受宁静，对吧？是吧？
+
+;0x262A11EF=~z~I didn't think I deserved any more when they weren't getting any.
+0x262A11EF=~z~我觉得既然他们的年岁停止了，那我也不配继续下去。
+
+;0x26364483=~z~Sadly, is not the case.
+0x26364483=~z~可惜不是这样的。
+
+;0x277E1D5D=~z~Yes - from what I understand he's pretty wild, but aren't we all?
+0x277E1D5D=~z~对－据我所知他是很狂野，但我们不都是吗？
+
+;0x287FC96A=FCJ2_JACOB_CONVERSATION_10_BK
+0x287FC96A=FCJ2_JACOB_CONVERSATION_10_BK
+
+;0x28CEC1C0=~z~Hold your fucking corner, rasta - I was being quiet.
+0x28CEC1C0=~z~你他妈才打住呢，好兄弟－我很安静的。
+
+;0x291FCA6E=~z~De whole Jam dung getting greedy off a des coke money. It a turn dread against dread.
+0x291FCA6E=~z~整个牙买加帮都为这可卡因钱贪红了眼。变成了互相内斗。
+
+;0x29AE4C1B=FCJ2_JACOB_CONVERSATION_10_BL
+0x29AE4C1B=FCJ2_JACOB_CONVERSATION_10_BL
+
+;0x2AFE0CC5=~z~I hear you.
+0x2AFE0CC5=~z~明白了。
+
+;0x2EA4740E=FCJ2_JACOB_CONVERSATION_13_EE
+0x2EA4740E=FCJ2_JACOB_CONVERSATION_13_EE
+
+;0x2EABC105=FCJ2_JACOB_CONVERSATION_11_CJ
+0x2EABC105=FCJ2_JACOB_CONVERSATION_11_CJ
+
+;0x2F3D150A=~z~That's that shit that's shutting down life.
+0x2F3D150A=~z~就是那种终结生活的狗屁。
+
+;0x30133CC4=FCJ2_JACOB_CONVERSATION_10_BI
+0x30133CC4=FCJ2_JACOB_CONVERSATION_10_BI
+
+;0x311CB0EF=~z~Whatever you say.
+0x311CB0EF=~z~随你说吧。
+
+;0x315E892B=FCJ2_JACOB_CONVERSATION_12_DG
+0x315E892B=FCJ2_JACOB_CONVERSATION_12_DG
+
+;0x321A2FAC=100010100010100010100100100100100100100100100100010
+0x321A2FAC=100010100010100010100100100100100100100100100100010
+
+;0x323B32D7=~z~Him want to be inna de mafia business, big time rude boy, all de time want mash up de place and broke down de place, seen?
+0x323B32D7=~z~他想掺和黑手党的事，大家伙诶莽娃，所有妄图染指这事的家伙最后都没好下场，懂？
+
+;0x32525A75=~z~Then, the West takes notice
+0x32525A75=~z~然后，西方注意到了
+
+;0x32E2AF61=FCJ2_JACOB_CONVERSATION_14_FN
+0x32E2AF61=FCJ2_JACOB_CONVERSATION_14_FN
+
+;0x33207AC6=FCJ2_JACOB_CONVERSATION_13_EC
+0x33207AC6=FCJ2_JACOB_CONVERSATION_13_EC
+
+;0x34DCB832=~z~No - cocaine is a bad business, but this whole life is a bad business.
+0x34DCB832=~z~对－可卡因不是什么好东西，但整个人生也不是好东西。
+
+;0x35DA0E0A=FCJ2_JACOB_CONVERSATION_14_FF
+0x35DA0E0A=FCJ2_JACOB_CONVERSATION_14_FF
+
+;0x3752B440=~z~Shit, I stopped counting birthdays when I saw my friends die back home.
+0x3752B440=~z~靠，自从我在老家看见我的朋友们死去后，我就没记着生日了。
+
+;0x3884691F=~z~I wish my country had an excuse as good as cocaine for their fighting.
+0x3884691F=~z~我倒是希望我的国家是有一个像可卡因这样的好理由才发动战争。
+
+;0x3AA06563=~z~Then why you keep talking?
+0x3AA06563=~z~那你还一直说话干嘛？
+
+;0x3AFCECC3=FCJ2_JACOB_CONVERSATION_13_EI
+0x3AFCECC3=FCJ2_JACOB_CONVERSATION_13_EI
+
+;0x3CD8F1E0=~z~Nah man, he be selling it, and it making him gravalicious.
+0x3CD8F1E0=~z~不是，兄弟，他是在卖这个，这个让他变得贪婪。
+
+;0x3D12B0B5=~z~Crazy rastas like I an' I, we don't listen to Babylon.
+0x3D12B0B5=~z~像咱俩这样的疯子兄弟，我们不听条子的。
+
+;0x3DE717D6=~z~No one I liked. I might have robbed some sane people, but I did not stick around for conversation.
+0x3DE717D6=~z~我喜欢的里面没有。我可能抢劫过正常人，但我不会留在那儿跟他们聊天。
+
+;0x3F5DB547=~z~Doing that shit instead of really experiencing the world, the spiritual side.
+0x3F5DB547=~z~做那种屁事而不是真正体验世界，精神层面的。
+
+;0x3FEF75AF=~z~One village fought another. Friends had to fight friends.
+0x3FEF75AF=~z~村庄与村庄相互开战，朋友与朋友被迫为敌。
+
+;0x40EAD587=010100010100010100
+0x40EAD587=010100010100010100
+
+;0x42D0D402=~z~Badman? Why?
+0x42D0D402=~z~Badman？怎么了？
+
+;0x4318FC0A=~z~Why do you ask?
+0x4318FC0A=~z~你问这干嘛？
+
+;0x442F24AE=~z~Cops chasing us, gangsters trying to rip us off, it ain't an easy life, that's for sure.
+0x442F24AE=~z~条子查我们，黑道杀我们，生活很不易，那是肯定的。
+
+;0x44A65F88=FCJ2_JACOB_CONVERSATION_14_FD
+0x44A65F88=FCJ2_JACOB_CONVERSATION_14_FD
+
+;0x45F75A67=~z~Man me right hand man, but him big inna de cocaine ting and him want bring it in from jam dung, seen? And it no good.
+0x45F75A67=~z~兄啊，我是副手，但他这老大搞这可卡因，他想把东西从牙买加弄过来，懂？这样不好。
+
+;0x4637D231=FCJ2_JACOB_CONVERSATION_11_CH
+0x4637D231=FCJ2_JACOB_CONVERSATION_11_CH
+
+;0x46C20358=~z~War ruined my country, Jacob.
+0x46C20358=~z~战争毁灭了我的祖国，Jacob。
+
+;0x4852DF5B=~z~You stick with your schisms and your isms, bad boy.
+0x4852DF5B=~z~你就坚持你的宗教和主义吧，坏小子。
+
+;0x498A9FFE=~z~Relax!
+0x498A9FFE=~z~放松！
+
+;0x4B300686=~z~I'm not.
+0x4B300686=~z~我没有。
+
+;0x4D96E98E=~z~Easy now, star, me worry about everthing with badman, you know?
+0x4D96E98E=~z~放松，兄弟，我现在担心Badman的各种事，你知道吗？
+
+;0x4F87F96C=010100010100010100100010100190010
+0x4F87F96C=010100010100010100100010100190010
+
+;0x52D0DC31=~z~It us a keep de world moving and jamming. Is us, and we make de world I-tal.
+0x52D0DC31=~z~那就是我们让世界运作、停止。是我们，我们让世界存在。
+
+;0x54029CD3=FCJ2_JACOB_CONVERSATION_10_BJ
+0x54029CD3=FCJ2_JACOB_CONVERSATION_10_BJ
+
+;0x57CF3C87=~z~Okay.
+0x57CF3C87=~z~好的。
+
+;0x5837FEE8=~z~Man, me worry about him, you know?
+0x5837FEE8=~z~兄啊，我很担心他，知道吗？
+
+;0x58455E38=FCJ2_JACOB_CONVERSATION_14_FH
+0x58455E38=FCJ2_JACOB_CONVERSATION_14_FH
+
+;0x58ACE7E9=~z~We give the world it's life and it's madness, you know.
+0x58ACE7E9=~z~我们给了世界生机与疯狂，你要知道。
+
+;0x5A12502C=~z~Sure, Jacob, it is. What I have seen of it at least.
+0x5A12502C=~z~确实，Jacob，是这样的。依我来看也是。
+
+;0x5AA11039=FCJ2_JACOB_CONVERSATION_14_FM
+0x5AA11039=FCJ2_JACOB_CONVERSATION_14_FM
+
+;0x5B815352=~z~People say it be the rules, the laws that make the world work, you know? But maybe it ain't dat way.
+0x5B815352=~z~人们说是规则、法律让世界运作，你知道吗？不过可能不是那样的。
+
+;0x5BFBACE5=FCJ2_JACOB_CONVERSATION_12_DF
+0x5BFBACE5=FCJ2_JACOB_CONVERSATION_12_DF
+
+;0x5C1E82F0=FCJ2_JACOB_CONVERSATION_14_FO
+0x5C1E82F0=FCJ2_JACOB_CONVERSATION_14_FO
+
+;0x5C6C38CA=FCJ2_JACOB_CONVERSATION_12_DE
+0x5C6C38CA=FCJ2_JACOB_CONVERSATION_12_DE
+
+;0x5CD1468B=~z~I mean, I'm trying not to worry too much about the things that are messed up. Relax, you know, have some fun.
+0x5CD1468B=~z~意思是，我尽量不去想那些已经乱七八糟的事情。放松，你也知道，找点乐子。
+
+;0x60738F4B=~z~What's going on, Jacob?
+0x60738F4B=~z~最近怎么样，Jacob？
+
+;0x64DAD6B2=~z~Whappen Niko?
+0x64DAD6B2=~z~怎么了，Niko？
+
+;0x660B21AE=100010100010010010010100010100100010100100100100010010
+0x660B21AE=100010100010010010010100010100100010100100100100010010
+
+;0x6736C766=FCJ2_JACOB_CONVERSATION_13_EH
+0x6736C766=FCJ2_JACOB_CONVERSATION_13_EH
+
+;0x676744A2=~z~No Jacob, go for it.
+0x676744A2=~z~没事，Jacob，你问吧。
+
+;0x6AB8E25A=~z~Cool.
+0x6AB8E25A=~z~酷。
+
+;0x6ABFC901=FCJ2_JACOB_CONVERSATION_12_DP
+0x6ABFC901=FCJ2_JACOB_CONVERSATION_12_DP
+
+;0x6C4CF4A1=~z~Since you got to Liberty City, you meet anyone what wasn't crazy?
+0x6C4CF4A1=~z~你来到自由城以后，有见过不疯狂的人吗？
+
+;0x6F8CC0E6=FCJ2_JACOB_CONVERSATION_12_DQ
+0x6F8CC0E6=FCJ2_JACOB_CONVERSATION_12_DQ
+
+;0x71467EDC=~z~Maybe it's this madness, this crazy shit, that make de world go round.
+0x71467EDC=~z~也许就是这种疯狂、这种病态狂热，让世界运转的。
+
+;0x7170A21E=FCJ2_JACOB_CONVERSATION_11_CB
+0x7170A21E=FCJ2_JACOB_CONVERSATION_11_CB
+
+;0x745AAB42=FCJ2_JACOB_CONVERSATION_11_CG
+0x745AAB42=FCJ2_JACOB_CONVERSATION_11_CG
+
+;0x7536E041=~z~Alright, Niko, you mind me ask you a serious question?
+0x7536E041=~z~好吧，Niko，介意我问你一个严肃的问题吗？
+
+;0x75BCCA0E=FCJ2_JACOB_CONVERSATION_10_BD
+0x75BCCA0E=FCJ2_JACOB_CONVERSATION_10_BD
+
+;0x79DE5C41=FCJ2_JACOB_CONVERSATION_12_DJ
+0x79DE5C41=FCJ2_JACOB_CONVERSATION_12_DJ
+
+;0x7C283DEA=~z~I drink.
+0x7C283DEA=~z~酒我喝的。
+
+;0x7CAF5BB3=FCJ2_JACOB_CONVERSATION_11_CM
+0x7CAF5BB3=FCJ2_JACOB_CONVERSATION_11_CM
+
+;0x7E504EF5=~z~Seen. Vodka be from de earth too. Inna Jam Dung we have de rum, where you from de rum is de vodka.
+0x7E504EF5=~z~懂了。伏特加也是源于大地。在牙买加我们喝朗姆酒，在你老家你喝伏特加。
+
+;0x7F00F296=FCJ2_JACOB_CONVERSATION_13_EG
+0x7F00F296=FCJ2_JACOB_CONVERSATION_13_EG
+
+;0x80006175=FCJ2_JACOB_CONVERSATION_11_CL
+0x80006175=FCJ2_JACOB_CONVERSATION_11_CL
+
+;0x805A0DA0=~z~All good, Jacob, all good. Or at least, I'm trying not to think too much about things.
+0x805A0DA0=~z~挺好，Jacob，挺好。不过至少，我尽量不在各种事情上想太多。
+
+;0x8078A47E=FCJ2_JACOB_CONVERSATION_14_FG
+0x8078A47E=FCJ2_JACOB_CONVERSATION_14_FG
+
+;0x81A648E6=~z~Niko, how old are you now?
+0x81A648E6=~z~Niko，你今年几岁了？
+
+;0x83F6FAA7=FCJ2_JACOB_CONVERSATION_12_DB
+0x83F6FAA7=FCJ2_JACOB_CONVERSATION_12_DB
+
+;0x88274E13=FCJ2_JACOB_CONVERSATION_11_CC
+0x88274E13=FCJ2_JACOB_CONVERSATION_11_CC
+
+;0x88D2ADAC=~z~The world be a fucked up place, Niko. A place rammed up with fuckery.
+0x88D2ADAC=~z~这地方真是糟透了，Niko。一个全是烂人的地方。
+
+;0x8A0C6F51=FCJ2_JACOB_CONVERSATION_12_DN
+0x8A0C6F51=FCJ2_JACOB_CONVERSATION_12_DN
+
+;0x8AA24BCF=~z~That's just bucky massa hitting our backs, making de slave ship keep moving.
+0x8AA24BCF=~z~都是那些有钱的奴隶主鞭打我们，让贩奴船不断往来的。
+
+;0x8CD6037C=FCJ2_JACOB_CONVERSATION_12_DH
+0x8CD6037C=FCJ2_JACOB_CONVERSATION_12_DH
+
+;0x8D26E204=FCJ2_JACOB_CONVERSATION_14_FL
+0x8D26E204=FCJ2_JACOB_CONVERSATION_14_FL
+
+;0x8E12A911=~z~Yeah man, I hear That. We gonna have some fun, we gonna sit and enjoy a lickle silence, and enjoy de world as it turns
+0x8E12A911=~z~对，兄弟，我懂。我们是得找点乐子，我们应该享受小小的宁静，趁着地球还在转多享受一会儿。
+
+;0x9000FF0E=FCJ2_JACOB_CONVERSATION_11_CN
+0x9000FF0E=FCJ2_JACOB_CONVERSATION_11_CN
+
+;0x908C0184=FCJ2_JACOB_CONVERSATION_11_CO
+0x908C0184=FCJ2_JACOB_CONVERSATION_11_CO
+
+;0x920EDB9D=FCJ2_JACOB_CONVERSATION_9_AB
+0x920EDB9D=FCJ2_JACOB_CONVERSATION_9_AB
+
+;0x92919FDC=FCJ2_JACOB_CONVERSATION_10_BM
+0x92919FDC=FCJ2_JACOB_CONVERSATION_10_BM
+
+;0x92D54B9F=FCJ2_JACOB_CONVERSATION_14_FI
+0x92D54B9F=FCJ2_JACOB_CONVERSATION_14_FI
+
+;0x9912FF34=FCJ2_JACOB_CONVERSATION_14_FQ
+0x9912FF34=FCJ2_JACOB_CONVERSATION_14_FQ
+
+;0x9913E8B2=~z~That's just dem downpressors in grey suits, making us waste our life filling out forms and ting.
+0x9913E8B2=~z~就是那些穿灰衣的压迫者，让我们浪费生命去填表啥的的。
+
+;0x99F36AB2=~z~If I deal wit cocaine, everyting end up raas clot mash up, seen?
+0x99F36AB2=~z~一碰可卡因，什么都他妈完了，懂？
+
+;0x9F6B1BCA=FCJ2_JACOB_CONVERSATION_11_CP
+0x9F6B1BCA=FCJ2_JACOB_CONVERSATION_11_CP
+
+;0xA27251D0=~z~How you mean?
+0xA27251D0=~z~这是什么意思？
+
+;0xA2C017D8=~z~Herb be the most spiritual, y'know, messa man. You smoke it, it open your mind to be what's going on in the earth.
+0xA2C017D8=~z~大麻是最精神的，知道不，很劲，兄弟。你抽一口，它就开阔了你的思维，让你的思维与大地融为一体。
+
+;0xA5139EBB=FCJ2_JACOB_CONVERSATION_10_BC
+0xA5139EBB=FCJ2_JACOB_CONVERSATION_10_BC
+
+;0xA9444AC1=FCJ2_JACOB_CONVERSATION_12_DA
+0xA9444AC1=FCJ2_JACOB_Cu tink things like daONVERSATION_12_DA
+
+;0xAB9F2996=~z~It be de same. It put you in touch with de spiritual side.
+0xAB9F2996=~z~都一样。都能让你接触精神深处。
+
+;0xABCF1D37=~z~That's some deep shit, man. Some deep shit.
+0xABCF1D37=~z~那他妈有点深刻啊，兄弟。有点深刻。
+
+;0xAD011886=100010010100100010100100010100100100010
+0xAD011886=100010010100100010100100010100100100010
+
+;0xADEA2060=FCJ2_JACOB_CONVERSATION_11_CI
+0xADEA2060=FCJ2_JACOB_CONVERSATION_11_CI
+
+;0xB04650A5=FCJ2_JACOB_CONVERSATION_11_CA
+0xB04650A5=FCJ2_JACOB_CONVERSATION_11_CA
+
+;0xB2619B9E=FCJ2_JACOB_CONVERSATION_13_EA
+0xB2619B9E=FCJ2_JACOB_CONVERSATION_13_EA
+
+;0xB2BF1C51=FCJ2_JACOB_CONVERSATION_9_AA
+0xB2BF1C51=FCJ2_JACOB_CONVERSATION_9_AA
+
+;0xB492DEF8=~z~What made you come outta you own country, what ruined it for you?
+0xB492DEF8=~z~你为什么要背井离乡，是被什么给毁了吗？
+
+;0xC0835B3A=FCJ2_JACOB_CONVERSATION_12_DM
+0xC0835B3A=FCJ2_JACOB_CONVERSATION_12_DM
+
+;0xC1128F10=100010100010100100010100010100010100010100010100
+0xC1128F10=100010100010100100010100010100010100010100010100
+
+;0xC26D8552=FCJ2_JACOB_CONVERSATION_12_DL
+0xC26D8552=FCJ2_JACOB_CONVERSATION_12_DL
+
+;0xC5EAD16E=~z~You tink things like dat, but, you don't smoke trees. You need a spiritual edge, you know. You take anything?
+0xC5EAD16E=~z~你想着这种事，但你不抽大麻。你需要一个精神寄托，你也知道。有什么爱好吗？
+
+;0xC8790236=FCJ2_JACOB_CONVERSATION_12_DR
+0xC8790236=FCJ2_JACOB_CONVERSATION_12_DR
+
+;0xC92B6BEC=FCJ2_JACOB_CONVERSATION_14_FC
+0xC92B6BEC=FCJ2_JACOB_CONVERSATION_14_FC
+
+;0xC968583E=FCJ2_JACOB_CONVERSATION_14_FJ
+0xC968583E=FCJ2_JACOB_CONVERSATION_14_FJ
+
+;0xC99EF439=FCJ2_JACOB_CONVERSATION_12_DO
+0xC99EF439=FCJ2_JACOB_CONVERSATION_12_DO
+
+;0xCAC60DA4=~z~We should be fighting Babylon, but instead we are fight one another.
+0xCAC60DA4=~z~我们应该一起跟条子对着干，而不是自己内部掐架。
+
+;0xCDA80B74=~z~Whatever you say, messa. Whatever you say.
+0xCDA80B74=~z~随你说吧，老兄。随你说吧。
+
+;0xCEA99583=~z~Badman is putting coke in his spliffs?
+0xCEA99583=~z~Badman在他的麻里面放可卡因？
+
+;0xD02BF2AF=~z~Thanks Jacob, but I'm alright with the shots of vodka. They fuck me up enough.
+0xD02BF2AF=~z~谢了Jacob，但我喝伏特加就够了。这玩意已经够烈了。
+
+;0xD460CC5D=FCJ2_JACOB_CONVERSATION_13_EJ
+0xD460CC5D=FCJ2_JACOB_CONVERSATION_13_EJ
+
+;0xD5094C4E=FCJ2_JACOB_CONVERSATION_13_EK
+0xD5094C4E=FCJ2_JACOB_CONVERSATION_13_EK
+
+;0xDA2896C4=FCJ2_JACOB_CONVERSATION_10_BF
+0xDA2896C4=FCJ2_JACOB_CONVERSATION_10_BF
+
+;0xDB10D26B=~z~That's just Babylon keeping a rasta down.
+0xDB10D26B=~z~那只是条子唬人的东西。
+
+;0xDB773661=FCJ2_JACOB_CONVERSATION_12_DK
+0xDB773661=FCJ2_JACOB_CONVERSATION_12_DK
+
+;0xDCF9F5F2=FCJ2_JACOB_CONVERSATION_9_AF
+0xDCF9F5F2=FCJ2_JACOB_CONVERSATION_9_AF
+
+;0xDF09362A=~z~Rastas be fighting one another, when they should be cotching and smoking de herb together. Badman included.
+0xDF09362A=~z~好兄弟们互相干架，本来他们应该在一起抽草的，Badman也是。
+
+;0xDFC48E3C=~z~How you doing?
+0xDFC48E3C=~z~你怎么样？
+
+;0xE06FB90F=~z~He ain't the dread he used to be. He used to be righteous man, now him a bad seed. It de coke dat he's doing, you know.
+0xE06FB90F=~z~他老兄已经不是以前的他了。以前他是个正直的人，现在他是个坏胚子。都是他在吸的可卡因害的，你也知道。
+
+;0xE4FE7F3B=FCJ2_JACOB_CONVERSATION_9_AD
+0xE4FE7F3B=FCJ2_JACOB_CONVERSATION_9_AD
+
+;0xE6B519BF=FCJ2_JACOB_CONVERSATION_14_FP
+0xE6B519BF=FCJ2_JACOB_CONVERSATION_14_FP
+
+;0xE8A787DC=~z~Sure, I think you could be onto something there.
+0xE8A787DC=~z~当然，我想你说到点子上了。
+
+;0xE9039212=FCJ2_JACOB_CONVERSATION_11_CE
+0xE9039212=FCJ2_JACOB_CONVERSATION_11_CE
+
+;0xE95986BD=FCJ2_JACOB_CONVERSATION_9_AC
+0xE95986BD=FCJ2_JACOB_CONVERSATION_9_AC
+
+;0xE9A396FA=FCJ2_JACOB_CONVERSATION_11_CF
+0xE9A396FA=FCJ2_JACOB_CONVERSATION_11_CF
+
+;0xEC8F34A5=FCJ2_JACOB_CONVERSATION_10_BH
+0xEC8F34A5=FCJ2_JACOB_CONVERSATION_10_BH
+
+;0xEF472D41=~z~All good, me breda, all good. Me get a whole heap of Kali from Jam dung, from me cousin, him just bring it up.
+0xEF472D41=~z~都挺好，兄弟，都挺好。我从牙买加弄到了一整车草，我亲戚给的，他刚送来。
+
+;0xEFF2D009=~z~Gwan man, hard ears, relax. Unwind.
+0xEFF2D009=~z~继续，兄弟，很叛逆嘛，放松，放轻松。
+
+;0xF05458D8=~z~I look at Badman and tink what could be turning him into the man he's becoming. He's being ruined, you know, Niko?
+0xF05458D8=~z~我看着Badman在想，他为什么会变成现在这样。他已经被毁了，知道吗，Niko？
+
+;0xF1841E02=FCJ2_JACOB_CONVERSATION_9_AE
+0xF1841E02=FCJ2_JACOB_CONVERSATION_9_AE
+
+;0xF2EE4D3B=FCJ2_JACOB_CONVERSATION_12_DI
+0xF2EE4D3B=FCJ2_JACOB_CONVERSATION_12_DI
+
+;0xF3B9607A=FCJ2_JACOB_CONVERSATION_12_DD
+0xF3B9607A=FCJ2_JACOB_CONVERSATION_12_DD
+
+;0xF613CD42=FCJ2_JACOB_CONVERSATION_10_BE
+0xF613CD42=FCJ2_JACOB_CONVERSATION_10_BE
+
+;0xF6DCB446=FCJ2_JACOB_CONVERSATION_14_FK
+0xF6DCB446=FCJ2_JACOB_CONVERSATION_14_FK
+
+;0xF8436686=FCJ2_JACOB_CONVERSATION_12_DC
+0xF8436686=FCJ2_JACOB_CONVERSATION_12_DC
+
+;0xF9ECB961=~z~Alright, Rum be a spiritual ting. It wake up your senses and point dem out to de world around you.
+0xF9ECB961=~z~好吧，朗姆酒是精神上的好东西。它能唤醒你的感觉，然后将它们指给你周围的世界。
+
+;0xFCF13B91=FCJ2_JACOB_CONVERSATION_11_CD
+0xFCF13B91=FCJ2_JACOB_CONVERSATION_11_CD
+
+;0xFD67C982=~z~Oh, well no wonder you're good.
+0xFD67C982=~z~噢，好吧，怪不得你挺好。
+
+;0xFE584238=~z~I drink vodka.
+0xFE584238=~z~我喝伏特加。
+
+;0xFECB957D=FCJ2_JACOB_CONVERSATION_13_ED
+0xFECB957D=FCJ2_JACOB_CONVERSATION_13_ED
+

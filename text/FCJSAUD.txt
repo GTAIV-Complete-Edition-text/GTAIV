@@ -1,0 +1,823 @@
+﻿;注：
+;1.Beta很多 未翻译 无视之
+
+[FCJSAUD]
+;0x00413582=~z~Hey, star - I got what you wanted.
+0x00413582=~z~Hey, star - I got what you wanted.
+
+;0x006BA417=100
+0x006BA417=100
+
+;0x01558230=100
+0x01558230=100
+
+;0x021019BF=FCJ_ACT_CALL_REQ_SPEC_NORTHWOOd
+0x021019BF=FCJ_ACT_CALL_REQ_SPEC_NORTHWOOd
+
+;0x0240AFF2=010
+0x0240AFF2=010
+
+;0x0412F667=~z~Meet me at City Hall now.
+0x0412F667=~z~Meet me at City Hall now.
+
+;0x05A33CA5=~z~Right you are star.
+0x05A33CA5=~z~Right you are star.
+
+;0x06CF8E0C=100
+0x06CF8E0C=100
+
+;0x077E1D14=FCJ_ACT_CALL_REQ_SPEC_HOVE_BEACH
+0x077E1D14=FCJ_ACT_CALL_REQ_SPEC_HOVE_BEACH
+
+;0x0780439B=FCJ_ACT_CALL_REQ_SPEC_NORMANDY
+0x0780439B=FCJ_ACT_CALL_REQ_SPEC_NORMANDY
+
+;0x078EB9B1=~z~Yeah man, check this shit out ma bredren.
+0x078EB9B1=~z~好啊兄弟，看看这家伙吧，兄弟。
+
+;0x09F7F21D=~z~Yeah man, me have di heavy firepower ya need, ya know man?
+0x09F7F21D=~z~对，兄弟，我有你要的重火力吗，懂吧兄弟？
+
+;0x0AD19298=100
+0x0AD19298=100
+
+;0x0BA71DC4=100
+0x0BA71DC4=100
+
+;0x0D078831=FCJ_ACT_CALL_REQ_SPEC_CERVESA_HEIGHTS
+0x0D078831=FCJ_ACT_CALL_REQ_SPEC_CERVESA_HEIGHTS
+
+;0x0F0A688E=FCJ_ACT_CALL_REQ_SPEC_FISHMARKET_SOUTH
+0x0F0A688E=FCJ_ACT_CALL_REQ_SPEC_FISHMARKET_SOUTH
+
+;0x0FC0EC80=100
+0x0FC0EC80=100
+
+;0x1011E886=~z~Pick me up a' - em, the gardens yo, Northern Gardens.
+0x1011E886=~z~来接我吧，在那什么，在Northern Gardens。
+
+;0x1040B871=FCJ_ACT_CALL_REQ_SPEC_LANCASTER
+0x1040B871=FCJ_ACT_CALL_REQ_SPEC_LANCASTER
+
+;0x10FE32A7=100
+0x10FE32A7=100
+
+;0x11B1A512=FCJ_ACT_PLJ_GETCALL_SPEC_END
+0x11B1A512=FCJ_ACT_PLJ_GETCALL_SPEC_END
+
+;0x1293B79F=FCJ_ACT_CALL_REQ_SPEC_MEADOWS_PARK
+0x1293B79F=FCJ_ACT_CALL_REQ_SPEC_MEADOWS_PARK
+
+;0x12EA5F29=100
+0x12EA5F29=100
+
+;0x12FDAF9C=~z~Yo Niko, I your bredaman, Jacob. Listen, we been friends for a long time, seen? Phone me up if you need to buy some guns, seen?
+0x12FDAF9C=~z~哟，Niko，我是你的好兄弟，Jacob，我们已经是朋友很久了，对吧？你要是需要买枪就打给我，懂？
+
+;0x13D9EDEC=~z~Niko, me there a' Fortside, link up.
+0x13D9EDEC=~z~Niko, me there a' Fortside, link up.
+
+;0x145BBCD9=100
+0x145BBCD9=100
+
+;0x145CB3B9=100
+0x145CB3B9=100
+
+;0x148B86BA=100
+0x148B86BA=100
+
+;0x14F0536C=100
+0x14F0536C=100
+
+;0x157DE078=~z~Yeah man, meet me down at Purgatory.
+0x157DE078=~z~好，兄弟，到Purgatory来找我。
+
+;0x15B67F49=FCJ_ACT_CALL_REQ_SPEC_NORTH_GARDENS
+0x15B67F49=FCJ_ACT_CALL_REQ_SPEC_NORTH_GARDENS
+
+;0x15BCED83=~z~Yo, link me down a' Middle Park West now.
+0x15BCED83=~z~Yo, link me down a' Middle Park West now.
+
+;0x1688AE02=FCJ_ACT_CALL_REQ_SPEC_STAR_JUNCTION
+0x1688AE02=FCJ_ACT_CALL_REQ_SPEC_STAR_JUNCTION
+
+;0x16990D48=100
+0x16990D48=100
+
+;0x16C51EDF=FCJ_ACT_CALL_REQ_SPEC_NORTH_HOLLAND
+0x16C51EDF=FCJ_ACT_CALL_REQ_SPEC_NORTH_HOLLAND
+
+;0x16F0C7EB=FCJ_ACT_CALL_REQ_SPEC_GENERIC
+0x16F0C7EB=FCJ_ACT_CALL_REQ_SPEC_GENERIC
+
+;0x17470CBB=~z~All de heat is right here, seen?
+0x17470CBB=~z~东西都在这儿了，看？
+
+;0x18832911=FCJ_ACT_CALL_REQ_SPEC_ACTER_INDUSTRIAL
+0x18832911=FCJ_ACT_CALL_REQ_SPEC_ACTER_INDUSTRIAL
+
+;0x195D80EA=FCJ_ACT_CALL_REQ_SPEC_MIDDLE_PARK
+0x195D80EA=FCJ_ACT_CALL_REQ_SPEC_MIDDLE_PARK
+
+;0x19C30047=~z~Had enough o' dis.
+0x19C30047=~z~我受够了。
+
+;0x19F9DCD2=100
+0x19F9DCD2=100
+
+;0x1C90AA16=~z~Yo, meet me at Cerveza Heights.
+0x1C90AA16=~z~哟，到Cerveza Heights来找我。
+
+;0x1DF7DFB1=100
+0x1DF7DFB1=100
+
+;0x1EC2BFD4=FCJ_ACT_CALL_REQ_SPEC_LITTLE_BAY
+0x1EC2BFD4=FCJ_ACT_CALL_REQ_SPEC_LITTLE_BAY
+
+;0x1ECC5C59=100
+0x1ECC5C59=100
+
+;0x20229B58=~z~I and I best clear outta here before Babylon arrive.
+0x20229B58=~z~我最好在条子过来前走人。
+
+;0x21CB5DC5=~z~Der be an explosion.
+0x21CB5DC5=~z~这玩意很猛。
+
+;0x2215F1B7=100
+0x2215F1B7=100
+
+;0x22AD4B2B=FCJ_ACT_CALL_REQ_SPEC_LEFTWOOD
+0x22AD4B2B=FCJ_ACT_CALL_REQ_SPEC_LEFTWOOD
+
+;0x23EEFCDD=~z~Whappen star? I got the tings a' you wanted yo.
+0x23EEFCDD=~z~Whappen star? I got the tings a' you wanted yo.
+
+;0x24675E13=~z~One love, Niko. I and I be seeing each other real soon.
+0x24675E13=~z~再见，Niko。我们很快就会再见面的。
+
+;0x2573A914=~z~I got some teeth inna here ya know, bredren.
+0x2573A914=~z~我这儿有点家伙，你懂的，兄弟。
+
+;0x2786BC89=FCJ_ACT_CALL_REQ_SPEC_AIRPORT
+0x2786BC89=FCJ_ACT_CALL_REQ_SPEC_AIRPORT
+
+;0x28DA8B47=~z~Why ya fucking around and ting?
+0x28DA8B47=~z~Why ya fucking around and ting?
+
+;0x2B073B5E=~z~Star, me down East Holland man, yo, link up.
+0x2B073B5E=~z~Star, me down East Holland man, yo, link up.
+
+;0x2BCEA46A=~z~Yo, me not having no more o' dis.
+0x2BCEA46A=~z~哟，我这儿待不下去了。
+
+;0x2BD1C62F=100
+0x2BD1C62F=100
+
+;0x2C004E5E=FCJ_ACT_CALL_REQ_SPEC_NO
+0x2C004E5E=FCJ_ACT_CALL_REQ_SPEC_NO
+
+;0x2C580343=~z~There it be and ting.
+0x2C580343=~z~就是这些了。
+
+;0x2D7A03AA=~z~Yeah, just meet me up at Triangle.
+0x2D7A03AA=~z~Yeah, just meet me up at Triangle.
+
+;0x2E4759D6=100
+0x2E4759D6=100
+
+;0x3109C040=~z~Everyting a mafia don could want inna dis shit.
+0x3109C040=~z~连黑手党教父想要的东西都在这里面了。
+
+;0x315CDF14=010
+0x315CDF14=010
+
+;0x32774001=~z~Cha, me need fe get outta here me bredren, later.
+0x32774001=~z~擦，我得赶紧离开这儿了，兄弟，回见。
+
+;0x34579A56=~z~Jacob, I need some of that hardware you promised me.
+0x34579A56=~z~Jacob，我需要一些你之前和我说过的真家伙。
+
+;0x362E72AE=~z~Meet me at Tudor.
+0x362E72AE=~z~到Tudor来找我。
+
+;0x375FFEB7=~z~Yo, pick me up a' Middle Park East now.
+0x375FFEB7=~z~Yo, pick me up a' Middle Park East now.
+
+;0x381E253D=FCJ_ACT_CALL_REQ_SPEC_EAST_HOLLAND
+0x381E253D=FCJ_ACT_CALL_REQ_SPEC_EAST_HOLLAND
+
+;0x38CE8443=~z~Thanks Jacob - I appreciate that.
+0x38CE8443=~z~谢了，Jacob，我很感激。
+
+;0x3A392E04=~z~Ya been blacking up too much me breda?
+0x3A392E04=~z~Ya been blacking up too much me breda?
+
+;0x3ACCDFBD=~z~Righteous, bredren. Good fe see de I.
+0x3ACCDFBD=~z~真好，兄弟。很高兴见到你。
+
+;0x3ACD1696=FCJ_ACT_SPEC_SLEEPING_YES
+0x3ACD1696=FCJ_ACT_SPEC_SLEEPING_YES
+
+;0x3B017DE8=100
+0x3B017DE8=100
+
+;0x3DA470A7=FCJ_GREET
+0x3DA470A7=FCJ_GREET
+
+;0x3EDF36E4=100
+0x3EDF36E4=100
+
+;0x3F1E9CBA=100
+0x3F1E9CBA=100
+
+;0x3FBA8360=FCJ_ACT_CALL_REQ_SPEC_EASTON
+0x3FBA8360=FCJ_ACT_CALL_REQ_SPEC_EASTON
+
+;0x402AB1FC=~z~Jacob, I need to get a hold of a weapon. Can you help me?
+0x402AB1FC=~z~Jacob，我需要来把武器，你能帮我吗？
+
+;0x404C95E1=~z~Keep outta trouble bredren. I an' I see ya soon.
+0x404C95E1=~z~别惹什么麻烦，兄弟。我们之后见。
+
+;0x40C353E3=FCJ_ACT_CALL_REQ_SPEC_BEECHWOOD_CITY
+0x40C353E3=FCJ_ACT_CALL_REQ_SPEC_BEECHWOOD_CITY
+
+;0x41262CDF=~z~It all there, me breda.
+0x41262CDF=~z~都在这儿了，兄弟。
+
+;0x4128D48B=~z~Yeah, pick me up a' Lower Easton.
+0x4128D48B=~z~好啊，来Lower Easton接我。
+
+;0x43929144=FCJ_ACT_CALL_REQ_SPEC_FISHMARKET_NORTH
+0x43929144=FCJ_ACT_CALL_REQ_SPEC_FISHMARKET_NORTH
+
+;0x43A23D96=~z~Ye Niko man, me down a' Normandy, link me up now.
+0x43A23D96=~z~Ye Niko man, me down a' Normandy, link me up now.
+
+;0x43A8E772=100
+0x43A8E772=100
+
+;0x44F9A0DC=~z~Yo, meet me a' Outlook Park star.
+0x44F9A0DC=~z~Yo, meet me a' Outlook Park star.
+
+;0x46DC721D=~z~Pick me up at Fishmarket South.
+0x46DC721D=~z~Pick me up at Fishmarket South.
+
+;0x473CB82D=100
+0x473CB82D=100
+
+;0x482E3BFD=FCJ_ACT_CALL_REQ_SPEC_THE_TRIANGLE
+0x482E3BFD=FCJ_ACT_CALL_REQ_SPEC_THE_TRIANGLE
+
+;0x496FCC71=~z~Niko, ya need fe calm yourself down.
+0x496FCC71=~z~Niko, ya need fe calm yourself down.
+
+;0x4A0516D9=100
+0x4A0516D9=100
+
+;0x4A39EDD2=~z~Yeah man, ya can find me at Lancaster man, just come for me, nuh?
+0x4A39EDD2=~z~好，兄弟，你到Lancaster来找我，兄弟，过来找我，好吧？
+
+;0x4D669639=~z~Yo, me can't hook you up again y'know, star. Just gimme some time to get some merchandise, seen?
+0x4D669639=~z~哟，我现在没法帮你，兄弟。给我点时间经营经营，好吧？
+
+;0x4E195131=~z~Whappen, rasta, I got de ting dem for you.
+0x4E195131=~z~Whappen, rasta, I got de ting dem for you.
+
+;0x4EDEAB43=100
+0x4EDEAB43=100
+
+;0x50FA373C=~z~Later my youth. Call me and ting.
+0x50FA373C=~z~回见，小伙子，有空打给我。
+
+;0x52407F93=~z~Yo, I an' I should be geting outta here bredren.
+0x52407F93=~z~Yo, I an' I should be geting outta here bredren.
+
+;0x531EC312=~z~Whappen rasta? What you doing?
+0x531EC312=~z~Whappen rasta? What you doing?
+
+;0x53217551=100
+0x53217551=100
+
+;0x53FF4EFE=100
+0x53FF4EFE=100
+
+;0x541CD565=~z~Yo. You wake me up. It better be important y'know?
+0x541CD565=~z~Yo. You wake me up. It better be important y'know?
+
+;0x54261D5F=FCJ_ACT_CALL_REQ_SPEC_INDUSTRIAL
+0x54261D5F=FCJ_ACT_CALL_REQ_SPEC_INDUSTRIAL
+
+;0x54B62549=010
+0x54B62549=010
+
+;0x5506F3A0=~z~Hey Jacob, listen. I don't need the hardware no more.
+0x5506F3A0=~z~Hey Jacob, listen. I don't need the hardware no more.
+
+;0x5559A723=FCJ_ACT_CALL_REQ_SPEC_PRESIDENTS_CITY
+0x5559A723=FCJ_ACT_CALL_REQ_SPEC_PRESIDENTS_CITY
+
+;0x558A6C18=100
+0x558A6C18=100
+
+;0x5736E7FF=~z~Cha, Niko. What kind of fuckery's a go on?
+0x5736E7FF=~z~Cha, Niko. What kind of fuckery's a go on?
+
+;0x57964FEB=FCJ_ACT_CALL_REQ_SPEC_BERCHAMN
+0x57964FEB=FCJ_ACT_CALL_REQ_SPEC_BERCHAMN
+
+;0x57D1DA36=~z~I an' I got nuff guns ya know, my youth.
+0x57D1DA36=~z~我这儿的枪很多，你也懂，小伙子。
+
+;0x58184DC7=~z~Yeah man, me see you at Chinatown.
+0x58184DC7=~z~Yeah man, me see you at Chinatown.
+
+;0x59B7D022=FCJ_TRUNK
+0x59B7D022=FCJ_TRUNK
+
+;0x5A22C98D=~z~Later on Niko. Easy.
+0x5A22C98D=~z~Later on Niko. Easy.
+
+;0x5D9A56A0=~z~No problem Niko.
+0x5D9A56A0=~z~没问题，Niko。
+
+;0x5E12E6B8=~z~What? You feeling this?
+0x5E12E6B8=~z~怎么样？感受到了吗？
+
+;0x5E31B681=100
+0x5E31B681=100
+
+;0x5F369D68=FCJ_ACT_CALL_REQ_SPEC_MEADOWS_HILLS
+0x5F369D68=FCJ_ACT_CALL_REQ_SPEC_MEADOWS_HILLS
+
+;0x60B19C6F=FCJ_ACT_CALL_REQ_SPEC_SCHOTTLE
+0x60B19C6F=FCJ_ACT_CALL_REQ_SPEC_SCHOTTLE
+
+;0x620440B0=FCJ_ACT_CALL_REQ_SPEC_CASTLE_GARDENS
+0x620440B0=FCJ_ACT_CALL_REQ_SPEC_CASTLE_GARDENS
+
+;0x628FA03B=~z~No problem Niko, just meet me at the Exchange.
+0x628FA03B=~z~No problem Niko, just meet me at the Exchange.
+
+;0x69DBFAED=FCJ_ACT_CALL_SPEC_END
+0x69DBFAED=FCJ_ACT_CALL_SPEC_END
+
+;0x6D19318F=FCJ_ACT_CALL_REQ_SPEC_WILLIS
+0x6D19318F=FCJ_ACT_CALL_REQ_SPEC_WILLIS
+
+;0x6E979AA5=~z~Sorry man - I need your help. I need some equipment.
+0x6E979AA5=~z~Sorry man - I need your help. I need some equipment.
+
+;0x71162BC2=~z~Hey, listen, Jacob - it's all cool. I don't need that hardware anymore.
+0x71162BC2=~z~Hey, listen, Jacob - it's all cool. I don't need that hardware anymore.
+
+;0x7179F4BD=~z~No problem man, meet me a' Meadows Park man.
+0x7179F4BD=~z~No problem man, meet me a' Meadows Park man.
+
+;0x7405E395=FCJ_ACT_GETCALL_SPEC
+0x7405E395=FCJ_ACT_GETCALL_SPEC
+
+;0x748C35F9=FCJ_ACT_CALL_REQ_SPEC_FIREFLY_ISLAND
+0x748C35F9=FCJ_ACT_CALL_REQ_SPEC_FIREFLY_ISLAND
+
+;0x755C8F26=~z~A'ight, pick dem up a' Meadow Hills.
+0x755C8F26=~z~A'ight, pick dem up a' Meadow Hills.
+
+;0x76FDA460=~z~No problem man, just meet I an' I at Hove Beach.
+0x76FDA460=~z~没问题，兄弟，到Hove Beach来找我。
+
+;0x78DC4E54=100
+0x78DC4E54=100
+
+;0x792AA529=100
+0x792AA529=100
+
+;0x7947D105=~z~Yo, Niko, meet me at Steinway.
+0x7947D105=~z~哟，Niko，到Steinway来找我。
+
+;0x7AF5D1C9=FCJ_ACT_CALL_REQ_SPEC_HATTON_GARDENs
+0x7AF5D1C9=FCJ_ACT_CALL_REQ_SPEC_HATTON_GARDENs
+
+;0x7B73C891=~z~Yo, just meet me a' Firefly Projects.
+0x7B73C891=~z~Yo, just meet me a' Firefly Projects.
+
+;0x7BDA2AAF=~z~Yo, meet me at Castle Gardens now.
+0x7BDA2AAF=~z~Yo, meet me at Castle Gardens now.
+
+;0x7C180ECF=100
+0x7C180ECF=100
+
+;0x7D27D33C=100
+0x7D27D33C=100
+
+;0x7ED095A7=010
+0x7ED095A7=010
+
+;0x7F3B29BD=100
+0x7F3B29BD=100
+
+;0x80E5D084=~z~No problem Niko man, jus meet me a' South Slopes.
+0x80E5D084=~z~没问题，Niko兄弟，到South Slopes来找我。
+
+;0x8151BE3D=100
+0x8151BE3D=100
+
+;0x8208B08A=~z~Meet me a' Port Tudor.
+0x8208B08A=~z~Meet me a' Port Tudor.
+
+;0x8262B1F0=~z~Whappen? Why you gwan and wake me up?
+0x8262B1F0=~z~Whappen? Why you gwan and wake me up?
+
+;0x83C54D2F=~z~Yo man, meet me pon Firefly Island.
+0x83C54D2F=~z~Yo man, meet me pon Firefly Island.
+
+;0x84DCA695=~z~What you doing, man?
+0x84DCA695=~z~What you doing, man?
+
+;0x85AE3B4C=100
+0x85AE3B4C=100
+
+;0x85D83F89=100
+0x85D83F89=100
+
+;0x878FF317=FCJ_ACT_CALL_REQ_SPEC_PURGATORY
+0x878FF317=FCJ_ACT_CALL_REQ_SPEC_PURGATORY
+
+;0x88080DBA=~z~Yea star, me down a' Northwood man, link up.
+0x88080DBA=~z~Yea star, me down a' Northwood man, link up.
+
+;0x8AF2535A=~z~Sorry, Jacob - it's real important - I need some hardware.
+0x8AF2535A=~z~Sorry, Jacob - it's real important - I need some hardware.
+
+;0x8B772EE9=100
+0x8B772EE9=100
+
+;0x8BA6DD2F=FCJ_ACT_CALL_REQ_SPEC_TUDOR
+0x8BA6DD2F=FCJ_ACT_CALL_REQ_SPEC_TUDOR
+
+;0x8BEF8CB8=100
+0x8BEF8CB8=100
+
+;0x8C6A9D8C=FCJ_GO
+0x8C6A9D8C=FCJ_GO
+
+;0x8DC3568B=~z~Pick me up a' Little Italy.
+0x8DC3568B=~z~Pick me up a' Little Italy.
+
+;0x8E3633C5=100
+0x8E3633C5=100
+
+;0x8EECC012=FCJ_MESS
+0x8EECC012=FCJ_MESS
+
+;0x8F1C2EF6=FCJ_ACT_PLJ_CALL_CANCEL_SPEC
+0x8F1C2EF6=FCJ_ACT_PLJ_CALL_CANCEL_SPEC
+
+;0x8FB171AC=FCJ_ACT_CALL_REQ_SPEC_CHARGE_ISLAND
+0x8FB171AC=FCJ_ACT_CALL_REQ_SPEC_CHARGE_ISLAND
+
+;0x91355FCA=FCJ_ACT_CALL_REQ_SPEC_LOWER_EASTON
+0x91355FCA=FCJ_ACT_CALL_REQ_SPEC_LOWER_EASTON
+
+;0x914355C2=FCJ_ACT_CALL_REQ_SPEC_SOUTH_SLOPES
+0x914355C2=FCJ_ACT_CALL_REQ_SPEC_SOUTH_SLOPES
+
+;0x924C9A3E=100
+0x924C9A3E=100
+
+;0x92E50AA6=100
+0x92E50AA6=100
+
+;0x9393CBB1=FCJ_ACT_SPEC_GOODBYE
+0x9393CBB1=FCJ_ACT_SPEC_GOODBYE
+
+;0x945D24BE=FCJ_ACT_CALL_REQ_SPEC_COLONY_ISLAND
+0x945D24BE=FCJ_ACT_CALL_REQ_SPEC_COLONY_ISLAND
+
+;0x954573EB=~z~Me down South Bohan man, just link up star, link up.
+0x954573EB=~z~Me down South Bohan man, just link up star, link up.
+
+;0x96D67488=~z~Me down Little Bay man, link up, link up.
+0x96D67488=~z~Me down Little Bay man, link up, link up.
+
+;0x97D46B22=100
+0x97D46B22=100
+
+;0x9815C10F=100
+0x9815C10F=100
+
+;0x9992C3F2=100
+0x9992C3F2=100
+
+;0x9997C106=FCJ_ACT_CALL_REQ_SPEC_THE_EXCHANGE
+0x9997C106=FCJ_ACT_CALL_REQ_SPEC_THE_EXCHANGE
+
+;0x9A2B703A=FCJ_ACT_CALL_REQ_SPEC_MIDDLE_PARK_EAST
+0x9A2B703A=FCJ_ACT_CALL_REQ_SPEC_MIDDLE_PARK_EAST
+
+;0x9A6B6B4E=~z~Yeah man, meet me round Chase Point, man, link up, link up.
+0x9A6B6B4E=~z~好的，兄弟，到Chase Point来找我，兄弟，要快，要快。
+
+;0x9BCD5693=FCJ_ACT_CALL_REQ_SPEC_CITY_HALL
+0x9BCD5693=FCJ_ACT_CALL_REQ_SPEC_CITY_HALL
+
+;0x9E0637EC=~z~Meet me down at Colony Island now.
+0x9E0637EC=~z~到Colony Island来找我。
+
+;0x9F2AD87E=~z~You get dis one, you win rasta.
+0x9F2AD87E=~z~这个归你了，你赢了好兄弟。
+
+;0x9FB5EFEE=FCJ_ACT_CALL_REQ_SPEC_SOUTH_BOHAN
+0x9FB5EFEE=FCJ_ACT_CALL_REQ_SPEC_SOUTH_BOHAN
+
+;0x9FD57D20=~z~Sorry, man - I need some help. I need some hardware, know what I mean?
+0x9FD57D20=~z~Sorry, man - I need some help. I need some hardware, know what I mean?
+
+;0xA34F1C1E=100
+0xA34F1C1E=100
+
+;0xA3603DBA=FCJ_ACT_SPEC_INJURED
+0xA3603DBA=FCJ_ACT_SPEC_INJURED
+
+;0xA3A1DC8A=~z~Irie, Niko. Gimme a call, nuh?
+0xA3A1DC8A=~z~好了，Niko。有空打给我，好吧？
+
+;0xA47434CE=100
+0xA47434CE=100
+
+;0xA6220753=FCJ_ACT_PLJ_CALL_REQ_SPEC
+0xA6220753=FCJ_ACT_PLJ_CALL_REQ_SPEC
+
+;0xA79F4AA9=~z~Yo, sorry rasta, yo. I don't have nuthin for ya right now, man. Try again later.
+0xA79F4AA9=~z~哟，抱歉好兄弟，哟。我现在没东西能给你，兄弟。改天吧。
+
+;0xA976D9E2=FCJ_ACT_CALL_REQ_SPEC_DOWNTOWN
+0xA976D9E2=FCJ_ACT_CALL_REQ_SPEC_DOWNTOWN
+
+;0xAB504802=FCJ_ACT_CALL_REQ_SPEC_PORT_TUDOR
+0xAB504802=FCJ_ACT_CALL_REQ_SPEC_PORT_TUDOR
+
+;0xACE942FB=~z~Yo, me down Varsity Heights y'know, link up, star.
+0xACE942FB=~z~哟，我在Varsity Heights，懂吧，速来，兄弟。
+
+;0xAD0842E8=FCJ_ACT_CALL_REQ_SPEC_FIREFLY_PROJECTS
+0xAD0842E8=FCJ_ACT_CALL_REQ_SPEC_FIREFLY_PROJECTS
+
+;0xAD64F4F2=~z~Don't miss.
+0xAD64F4F2=~z~别走火了。
+
+;0xADF2A887=FCJ_ACT_CALL_REQ_SPEC_MIDDLE_PARK_WEST
+0xADF2A887=FCJ_ACT_CALL_REQ_SPEC_MIDDLE_PARK_WEST
+
+;0xAE200CED=FCJ_ACT_SPEC_CAR_DAMAGE
+0xAE200CED=FCJ_ACT_SPEC_CAR_DAMAGE
+
+;0xAEECC391=FCJ_ACT_CALL_REQ_SPEC_OUTLOOK_PARK
+0xAEECC391=FCJ_ACT_CALL_REQ_SPEC_OUTLOOK_PARK
+
+;0xAF0854CF=100
+0xAF0854CF=100
+
+;0xB104D2A0=~z~Yo star, just pick me up at the Presidents City now.
+0xB104D2A0=~z~Yo star, just pick me up at the Presidents City now.
+
+;0xB12DA940=100
+0xB12DA940=100
+
+;0xB14A2116=FCJ_ACT_CALL_REQ_EAST_ISLAND_CITY
+0xB14A2116=FCJ_ACT_CALL_REQ_EAST_ISLAND_CITY
+
+;0xB182D846=100
+0xB182D846=100
+
+;0xB29242B5=~z~Yeah man, me down a' Westdyke man, link up.
+0xB29242B5=~z~好啊，兄弟，我在Westdyke，兄弟，速来。
+
+;0xB3938157=~z~You're a dangerous man ya know Niko Bellic, BOOM, BOOM!
+0xB3938157=~z~你这个人很危险啊，Niko Bellic，砰，砰！
+
+;0xB4AD8268=FCJ_ACT_SPEC_GREETING
+0xB4AD8268=FCJ_ACT_SPEC_GREETING
+
+;0xB5DA5180=100
+0xB5DA5180=100
+
+;0xB6EAFFE0=~z~Easy now, star.
+0xB6EAFFE0=~z~放松，兄弟。
+
+;0xB6EB3C57=~z~No problem Niko, meet me at Schottler.
+0xB6EB3C57=~z~没问题，Niko，到Schottler来找我。
+
+;0xB9A07B5F=FCJ_ACT_CALL_REQ_SPEC_ACTER
+0xB9A07B5F=FCJ_ACT_CALL_REQ_SPEC_ACTER
+
+;0xBA7386ED=~z~Be safe, rude boy.
+0xBA7386ED=~z~注意安全，莽娃。
+
+;0xBBBB03A2=~z~Yo, see you Downtown.
+0xBBBB03A2=~z~Yo, see you Downtown.
+
+;0xBC469AFF=~z~Meet me down a' Leftwood.
+0xBC469AFF=~z~Meet me down a' Leftwood.
+
+;0xBD2D37CF=~z~Sorry man - I've got a problem. I need your help. I need a tool if you know what I mean?
+0xBD2D37CF=~z~Sorry man - I've got a problem. I need your help. I need a tool if you know what I mean?
+
+;0xBD5ECB7C=100
+0xBD5ECB7C=100
+
+;0xBE998A22=100
+0xBE998A22=100
+
+;0xC0BAD20D=FCJ_ACT_CALL_REQ_SPEC_CHASE_POINT
+0xC0BAD20D=FCJ_ACT_CALL_REQ_SPEC_CHASE_POINT
+
+;0xC19A0328=~z~Yo, pick me up a' North Holland, now.
+0xC19A0328=~z~哟，到North Holland来找我，现在。
+
+;0xC1D6CBC3=~z~Meet you pon the Boulevard man, yo link up star, link up.
+0xC1D6CBC3=~z~Meet you pon the Boulevard man, yo link up star, link up.
+
+;0xC614764A=~z~Wha'gwan Niko? How's it going?
+0xC614764A=~z~怎么了，Niko？近况如何？
+
+;0xC67A1511=~z~You wolf man you know Niko?
+0xC67A1511=~z~You wolf man you know Niko?
+
+;0xC7644BBF=100
+0xC7644BBF=100
+
+;0xC8C72394=~z~See you later, rasta.
+0xC8C72394=~z~之后见，好兄弟。
+
+;0xC99579E9=~z~No problem, me meet you at Fishmarket North.
+0xC99579E9=~z~No problem, me meet you at Fishmarket North.
+
+;0xCA1E766B=~z~Yo, pick me up at Charge Island now.
+0xCA1E766B=~z~哟，到Charge Island来拿货。
+
+;0xCAC022DD=FCJ_ACT_PLJ_REQ_SPEC_SLEEP
+0xCAC022DD=FCJ_ACT_PLJ_REQ_SPEC_SLEEP
+
+;0xCAF6000D=~z~Dat's me main man, Niko.
+0xCAF6000D=~z~这是我的主要库存，Niko。
+
+;0xCB8AFB73=100
+0xCB8AFB73=100
+
+;0xCBE9A996=100
+0xCBE9A996=100
+
+;0xCC1D6269=100
+0xCC1D6269=100
+
+;0xCC66C132=100
+0xCC66C132=100
+
+;0xCC9EBB16=FCJ_ACT_SPEC_BORED
+0xCC9EBB16=FCJ_ACT_SPEC_BORED
+
+;0xCCE72478=FCJ_ACT_CALL_REQ_SPEC_YES_STEINWAY
+0xCCE72478=FCJ_ACT_CALL_REQ_SPEC_YES_STEINWAY
+
+;0xCD8953A6=100
+0xCD8953A6=100
+
+;0xCE7DF39D=100
+0xCE7DF39D=100
+
+;0xCE97C371=FCJ_BYE
+0xCE97C371=FCJ_BYE
+
+;0xD09AB56E=~z~Ye dun know, ye dun know man, Middle Park.
+0xD09AB56E=~z~Ye dun know, ye dun know man, Middle Park.
+
+;0xD161A4ED=~z~Yeah man, just pick me up at Easton.
+0xD161A4ED=~z~Yeah man, just pick me up at Easton.
+
+;0xD29228FC=100
+0xD29228FC=100
+
+;0xD2CF8E79=100
+0xD2CF8E79=100
+
+;0xD5896B42=100
+0xD5896B42=100
+
+;0xD6EEB8C2=~z~Yeah man, see you at Acter.
+0xD6EEB8C2=~z~Yeah man, see you at Acter.
+
+;0xD704DB1F=~z~Wha'gwan? You wake us up.
+0xD704DB1F=~z~Wha'gwan? You wake us up.
+
+;0xD797BDFA=~z~Yo, link me down a' Hatton Gardens now.
+0xD797BDFA=~z~Yo, link me down a' Hatton Gardens now.
+
+;0xD85038BD=~z~Yo, you vexing me now, fassy one.
+0xD85038BD=~z~Yo, you vexing me now, fassy one.
+
+;0xDA5C2BEF=FCJ_ACT_CALL_REQ_SPEC_VARSITY_HEIGHTS
+0xDA5C2BEF=FCJ_ACT_CALL_REQ_SPEC_VARSITY_HEIGHTS
+
+;0xDB513AF9=100
+0xDB513AF9=100
+
+;0xDB8C3DEE=~z~Yo, me see you a' Willis.
+0xDB8C3DEE=~z~哟，我们Willis见。
+
+;0xDCBEE2CF=~z~Okay man, jus meet me a' Suffolk.
+0xDCBEE2CF=~z~好吧，兄弟，到Suffolk来找我。
+
+;0xDE6157D7=100
+0xDE6157D7=100
+
+;0xDF1D14E2=100
+0xDF1D14E2=100
+
+;0xE092F188=~z~Yo, me see you at Beechwood City.
+0xE092F188=~z~Yo, me see you at Beechwood City.
+
+;0xE47AD3D0=FCJ_ACT_CALL_REQ_SPEC_SUFFOLK
+0xE47AD3D0=FCJ_ACT_CALL_REQ_SPEC_SUFFOLK
+
+;0xE4C12496=~z~I hot-stepping outta here Niko. See ya.
+0xE4C12496=~z~我先跑路了，Niko。再见。
+
+;0xE65E66EC=~z~Hurry up now Niko man!
+0xE65E66EC=~z~快点，Niko兄弟！
+
+;0xE6A495A5=~z~Yo, pick me up at de airport.
+0xE6A495A5=~z~Yo, pick me up at de airport.
+
+;0xE87E910A=~z~No problem man, meet me at East island City.
+0xE87E910A=~z~No problem man, meet me at East island City.
+
+;0xE93E7F92=~z~Wa mek ya wake me up?
+0xE93E7F92=~z~Wa mek ya wake me up?
+
+;0xEA836815=~z~Pick me up a' Star Junction now.
+0xEA836815=~z~Pick me up a' Star Junction now.
+
+;0xEAFBB02A=FCJ_ACT_CALL_REQ_SPEC_WESTDYKE
+0xEAFBB02A=FCJ_ACT_CALL_REQ_SPEC_WESTDYKE
+
+;0xEBB2E96B=~z~Be cool ya know, Niko.
+0xEBB2E96B=~z~Be cool ya know, Niko.
+
+;0xED2804F2=~z~No problem man, me see you at Berchem.
+0xED2804F2=~z~没问题，兄弟，我们Berchem见。
+
+;0xEE11FB27=FCJ_ACT_CALL_REQ_SPEC_CHINATOWN
+0xEE11FB27=FCJ_ACT_CALL_REQ_SPEC_CHINATOWN
+
+;0xEE1C430F=FCJ_ACT_CALL_REQ_SPEC_FORTSIDE
+0xEE1C430F=FCJ_ACT_CALL_REQ_SPEC_FORTSIDE
+
+;0xEE3C4C20=FCJ_GUN_CHAT
+0xEE3C4C20=FCJ_GUN_CHAT
+
+;0xEEFF83B4=100
+0xEEFF83B4=100
+
+;0xEFAAC976=~z~Wha'gwan Niko? Good fe see de man.
+0xEFAAC976=~z~怎么样啊，Niko？很高兴见到你，兄弟。
+
+;0xEFCAEEE4=100
+0xEFCAEEE4=100
+
+;0xEFE055A9=FCJ_ACT_CALL_REQ_SPEC_BOULEVARD
+0xEFE055A9=FCJ_ACT_CALL_REQ_SPEC_BOULEVARD
+
+;0xF1209BDC=~z~Cha! What ya are do Niko?
+0xF1209BDC=~z~Cha! What ya are do Niko?
+
+;0xF1BD187A=~z~I got the guns you know, Niko.
+0xF1BD187A=~z~I got the guns you know, Niko.
+
+;0xF201640B=100
+0xF201640B=100
+
+;0xF3F8717E=FCJ_STUFF
+0xF3F8717E=FCJ_STUFF
+
+;0xF3FE8B4D=~z~Yo, meet me down a' Industrial yo.
+0xF3FE8B4D=~z~Yo, meet me down a' Industrial yo.
+
+;0xF49AC537=FCJ_ACT_CALL_REQ_SPEC_LITTLE_ITALY
+0xF49AC537=FCJ_ACT_CALL_REQ_SPEC_LITTLE_ITALY
+
+;0xF6DC48CC=~z~Yo, dis rasta be getting outta here. Later.
+0xF6DC48CC=~z~Yo, dis rasta be getting outta here. Later.
+
+;0xF7826450=~z~I see ya Acter Industrial.
+0xF7826450=~z~我们Acter Industrial见。
+
+;0xF8E35967=100
+0xF8E35967=100
+
+;0xFD6DE4FC=~z~Wicked Niko, yah here.
+0xFD6DE4FC=~z~恶人啊，Niko，你来啦。
+
+;0xFDDBF131=100
+0xFDDBF131=100
+

@@ -1,0 +1,115 @@
+﻿[FIN2]
+;0x03350416=~s~Lose your wanted level.
+0x03350416=~s~降低你的通缉度。
+
+;0x04994340=~r~You abandoned the boat.
+0x04994340=~r~你抛弃了船。
+
+;0x08635696=~s~Get on the ~b~bike.
+0x08635696=~s~骑上~b~摩托。
+
+;0x0DFDCC56=~s~Repeatedly tap ~INPUT_JUMP~ to climb into the chopper.
+0x0DFDCC56=~s~连按~INPUT_JUMP~爬上直升机。
+
+;0x13D26C7C=~s~Jacob is waiting for you in a ~b~car~s~ in Alderney.
+0x13D26C7C=~s~Jacob在Alderney的一辆~b~车~s~上等你。
+
+;0x161CF209=~s~Follow Pegorino's ~r~goons~s~ they'll lead you to Pegorino.
+0x161CF209=~s~尾随Pegorino的~r~手下~s~找到Pegorino。
+
+;0x20263B62=~r~Little Jacob was abandoned.
+0x20263B62=~r~Little Jacob被抛弃了。
+
+;0x270AC9F8=~s~Get back in the ~b~helicopter.
+0x270AC9F8=~s~回到~b~直升机~s~上。
+
+;0x2A738EF4=~r~You destroyed the bike.
+0x2A738EF4=~r~你毁掉了摩托。
+
+;0x2BEB6625=~r~You killed Pegorino's men.
+0x2BEB6625=~r~你杀掉了Pegorino的手下。
+
+;0x2F30DA48=~s~Get back in the ~b~car.
+0x2F30DA48=~s~回到~b~车~s~上。
+
+;0x38C16D65=~s~Chase ~r~Pegorino's goons.
+0x38C16D65=~s~跟随~r~Pegorino的手下。
+
+;0x4037B557=~s~Chase ~r~Pegorino. ~s~Stick to the coastline, do not lose him.
+0x4037B557=~s~追击~r~Pegorino。~s~沿着海岸线走，别跟丢了。
+
+;0x45681912=~r~Roman is dead.
+0x45681912=~r~Roman死了。
+
+;0x4D9460F7=~s~Accelerate off the ~y~jetty~s~ to jump.
+0x4D9460F7=~s~加速冲上~y~栈桥~s~起跳。
+
+;0x4DDE55C9=~r~The helicopter was destroyed.
+0x4DDE55C9=~r~直升机毁掉了。
+
+;0x5807BE81=~r~You can't chase Pegorino's men if they don't have a vehicle.
+0x5807BE81=~r~没有载具你追不上Pegorino 的人。
+
+;0x5DB2F572=~r~You abandoned the bike.
+0x5DB2F572=~r~你抛弃了车。
+
+;0x6249D305=~r~The car was destroyed.
+0x6249D305=~r~车被毁了。
+
+;0x720DA9DD=~s~Roman and Jacob are waiting for you in a ~b~car~s~ in Alderney.
+0x720DA9DD=~s~Roman和Jacob在Alderney的一辆~b~车~s~上等你。
+
+;0x74A477BA=~r~Dimitri got away.
+0x74A477BA=~r~Dimitri跑了。
+
+;0x7DCCE76F=~s~Get underneath Little Jacob's ~b~chopper.
+0x7DCCE76F=~s~开到Little Jacob的~b~直升机~s~下方。
+
+;0x7EB58BAC=~r~Pegorino got away.
+0x7EB58BAC=~r~Pegorino跑了。
+
+;0x7FD0949E=~s~Repeatedly tap ~PAD_A~ to climb into the chopper.
+0x7FD0949E=~s~连按~PAD_A~爬上直升机。
+
+;0x90C72FCF=~r~Little Jacob and Roman were abandoned.
+0x90C72FCF=~r~Little Jacob和Roman被抛弃了。
+
+;0x9160D377=Press ~INPUT_VEH_ATTACK2~ to fire the helicopter miniguns.
+0x9160D377=按~INPUT_VEH_ATTACK2~用机载机枪射击。
+
+;0x957E3BCD=~s~Get in the ~b~boat.
+0x957E3BCD=~s~上~b~船。
+
+;0x95DF35C3=~r~Dimitri~s~ is inside the old casino. Find him.
+0x95DF35C3=~r~Dimitri~s~在旧赌场中。找到他。
+
+;0x9A1D427B=~r~Pegorino's goons got away.
+0x9A1D427B=~r~Pegorino的手下跑了。
+
+;0xA7E08803=~s~Get low and stay close to ~r~Dimitri.
+0xA7E08803=~s~降低高度，跟紧~r~Dimitri。
+
+;0xBAA0BB02=~s~Chase ~r~Pegorino.
+0xBAA0BB02=~s~追击~r~Pegorino。
+
+;0xC573992B=~r~Little Jacob is dead.
+0xC573992B=~r~Little Jacob死了。
+
+;0xDD4FF2E1=~s~Get low and stay close to ~r~Pegorino.
+0xDD4FF2E1=~s~降低高度，跟紧~r~Pegorino。
+
+;0xE160E648=~r~Pegorino's goon got away.
+0xE160E648=~r~Pegorino的手下跑了。
+
+;0xE3EF8DAF=~r~Pegorino~s~ is inside the old casino. Find him.
+0xE3EF8DAF=~r~Pegorino~s~在旧赌场中。找到他。
+
+;0xF15A1CC2=~r~The boat was destroyed.
+0xF15A1CC2=~r~船被毁了。
+
+;0xF55D2191=~s~Chase ~r~Dimitri
+0xF55D2191=~s~追击~r~Dimitri。
+
+;0xFF27B85D=~r~You abandoned the helicopter.
+0xFF27B85D=~r~你抛弃了直升机。
+

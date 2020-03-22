@@ -1,0 +1,79 @@
+﻿[ELIZA1]
+;0x2E82DD1D=~s~Take down the ~r~last man ~s~before he makes a getaway in the van.
+0x2E82DD1D=~s~在~r~最后一个人~s~开货车逃走之前干掉他。
+
+;0x402B006D=~s~Protect Packie.
+0x402B006D=~s~保护Packie。
+
+;0x444B02F3=~s~Hold ~INPUT_AIM~ to look through the scope of the rifle, when it is equipped.
+0x444B02F3=~s~装备狙击枪时，~n~按住~INPUT_AIM~透过瞄准镜瞄准。
+
+;0x53F92809=~s~Make your way to the ~y~vantage point.
+0x53F92809=~s~前往~y~制高点。
+
+;0x553D5D64=~r~ Packie was injured. You failed to protect him.~s~
+0x553D5D64=~r~Packie受伤了。你没能保护好他。~s~
+
+;0x56CAA7F2=~s~Press ~INPUT_ATTACK~ to fire.
+0x56CAA7F2=~s~按~INPUT_ATTACK~开火。
+
+;0x5790620A=~r~ One of the attackers got away.~s~
+0x5790620A=~r~其中一个袭击者逃走了。~s~
+
+;0x6641CC9A=~s~Take out all of the ~r~attackers.
+0x6641CC9A=~s~干掉所有~r~袭击者。
+
+;0x764817F1=~s~Lose your wanted level.~s~
+0x764817F1=~s~降低你的通缉度。~s~
+
+;0x79EEF3F4=~s~Go to the ~y~building~s~ in South Bohan.
+0x79EEF3F4=~s~前往South Bohan的~y~楼房。
+
+;0x7A746F45=~s~Use ~PAD_LSTICK_UP~ to zoom in. ~s~Use ~PAD_LSTICK_DOWN~ to zoom out.
+0x7A746F45=~s~用~PAD_LSTICK_UP~放大。~s~用~PAD_LSTICK_DOWN~缩小。
+
+;0x82ED38C3=~r~ The meeting has been cancelled. Don't break up the meeting when you don't have to.~s~
+0x82ED38C3=~r~会面取消了，不要在没有必要的时候打断会面。~s~
+
+;0x8B2E9673=Packie and his associate have arrived. Watch over the meeting with the sniper rifle.
+0x8B2E9673=Packie和他的同伙已经到了。用狙击步枪监视会面。
+
+;0x90E59C37=~s~Shoot through the windshield to hit the driver.
+0x90E59C37=~s~射击挡风玻璃以伤害司机。
+
+;0xBF2278B0=~s~Use ~PAD_RSTICK_ALL~ to aim.
+0xBF2278B0=~s~用~PAD_RSTICK_ALL~瞄准。
+
+;0xC0B17BBE=~s~Use ~INPUT_SNIPER_ZOOM_OUT~ to zoom out.
+0xC0B17BBE=~s~用~INPUT_SNIPER_ZOOM_OUT~缩小。
+
+;0xC6C3CC96=~s~Use ~INPUT_SNIPER_ZOOM_IN~ to zoom in. ~s~Use ~INPUT_SNIPER_ZOOM_OUT~ to zoom out.
+0xC6C3CC96=~s~用~INPUT_SNIPER_ZOOM_IN~放大。~s~用~INPUT_SNIPER_ZOOM_OUT~缩小。
+
+;0xC95409B3=~s~Press ~PAD_LB~ or ~PAD_B~ to fire.
+0xC95409B3=~s~按~PAD_LB~或~PAD_B~开火。
+
+;0xDCDA9585=~s~Use ~PAD_LSTICK_ALL~ to aim.
+0xDCDA9585=~s~用~PAD_LSTICK_ALL~瞄准。
+
+;0xDF6C0257=~s~Watch over the meeting.
+0xDF6C0257=~s~监视会面。
+
+;0xE81C4A93=~s~When crouching, the accuracy of the rifle increases.
+0xE81C4A93=~s~蹲下时，狙击步枪的射击精度将会提高。
+
+;0xF092BCF5=~s~Use ~INPUT_SNIPER_ZOOM_IN_ALTERNATE~ to zoom in. ~s~Use ~INPUT_SNIPER_ZOOM_OUT_ALTERNATE~ to zoom out.
+0xF092BCF5=~s~使用~INPUT_SNIPER_ZOOM_IN_ALTERNATE~放大。~s~使用~INPUT_SNIPER_ZOOM_OUT_ALTERNATE~缩小。
+
+;0xF19DA6BA=~b~Packie~s~ is in trouble find him and help him.
+0xF19DA6BA=~b~Packie~s~有麻烦了，找到并帮助他。
+
+;0xF2DC65C9=~s~Go to the roof and pick up the ~g~sniper rifle.
+0xF2DC65C9=~s~去屋顶拿~g~狙击步枪。
+
+;0xF3FEEBBC=~s~Hold ~PAD_RB~ to look through scope of the rifle when it is equipped.
+0xF3FEEBBC=~s~装备狙击枪时，~n~按住~PAD_RB~透过瞄准镜瞄准。
+
+;0xF59EB0CB=~s~Use ~INPUT_AIM~ to look through the scope of the rifle, when it is equipped.
+0xF59EB0CB=~s~装备狙击枪时，~n~按住~INPUT_AIM~透过瞄准镜瞄准。
+

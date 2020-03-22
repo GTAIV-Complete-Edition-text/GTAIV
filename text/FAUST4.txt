@@ -1,0 +1,73 @@
+﻿[FAUST4]
+;0x07DDDF9E=~r~Faustin's daughter is dead.
+0x07DDDF9E=~r~Faustin的女儿死了。
+
+;0x1C23BE1A=Use ~PAD_LSTICK_UPDOWN~ to shift your weight forwards and backwards when on a bike.
+0x1C23BE1A=用~PAD_LSTICK_UPDOWN~前后移动你在摩托车上的重心。
+
+;0x1E4F3865=Press ~INPUT_VEH_BRAKE~ to brake.
+0x1E4F3865=按~INPUT_VEH_BRAKE~刹车。
+
+;0x2DE3E19A=Use ~PAD_SIXAXIS_PITCH~ to shift your weight forwards and backwards when on a bike.
+0x2DE3E19A=用~PAD_SIXAXIS_PITCH~前后移动你在摩托车上的重心。
+
+;0x2F2753F0=~r~The biker got away.
+0x2F2753F0=~r~飞车党跑掉了。
+
+;0x3806944D=The ~r~biker~s~ is getting away, catch up with him on a ~b~bike~s~ then take him out.
+0x3806944D=~r~飞车党~s~正在逃跑，骑~b~摩托车~s~跟着他，然后干掉他。
+
+;0x4775BC96=~s~When free aiming or locked onto a target use ~INPUT_MOVE_LEFT~ and press ~INPUT_JUMP~ to roll.
+0x4775BC96=~s~自由射击或锁定目标时，用~INPUT_MOVE_LEFT~+~INPUT_JUMP~侧滚。
+
+;0x57EFA99A=Press ~INPUT_VEH_ACCELERATE~ to accelerate. Use ~PAD_LSTICK_LEFTRIGHT_VEH~ to steer a bike.
+0x57EFA99A=按~INPUT_VEH_ACCELERATE~加速。用~PAD_LSTICK_LEFTRIGHT_VEH~控制行驶方向。
+
+;0x5B2DA4FA=~s~Chase down all the ~r~bikers~s~ and wipe them out.
+0x5B2DA4FA=~s~跟着这些~r~飞车党，~s~消灭他们。
+
+;0x5C64348A=Press ~INPUT_VEH_ATTACK~ to use a weapon while on a bike.
+0x5C64348A=按~INPUT_VEH_ATTACK~以在摩托车上使用武器。
+
+;0x70B55D30=Press ~INPUT_VEH_ACCELERATE~ to accelerate. Use ~PAD_LSTICK_LEFTRIGHT~ to steer a bike.
+0x70B55D30=按~INPUT_VEH_ACCELERATE~加速。用~PAD_LSTICK_LEFTRIGHT~控制行驶方向。
+
+;0x71C287C4=Go to ~y~Firefly Island.
+0x71C287C4=前往~y~Firefly Island。
+
+;0x7F1FAD13=~s~PLACEHOLDER CUTSCENE.
+0x7F1FAD13=~s~PLACEHOLDER CUTSCENE.
+
+;0x82D4744B=~s~Get on the ~b~bike ~s~and chase him down.
+0x82D4744B=~s~骑上~b~摩托车，~s~跟着他。
+
+;0x8FF4135E=Get back on the ~b~bike,~s~ the biker is getting away.
+0x8FF4135E=回到~b~摩托车~s~上，飞车党要跑掉了。
+
+;0x95DD5E84=~s~You can blow up gas pumps.
+0x95DD5E84=~s~你可以引爆油罐。
+
+;0x9FD7ED65=~s~Rolling will help you avoid gun fire.
+0x9FD7ED65=~s~侧滚能帮助你躲避子弹。
+
+;0xA7F13E80=~s~The ~r~biker~s~ is heading into the gas station.
+0xA7F13E80=~s~~r~飞车党~s~正在向加油站驶去。
+
+;0xAE26D80E=Use ~PAD_RSTICK_ALL~ to look around whilst on a bike.
+0xAE26D80E=用~PAD_RSTICK_ALL~在摩托车上查看四周。
+
+;0xB0C96763=Press ~INPUT_VEH_ACCELERATE~ to accelerate. Use ~PAD_SIXAXIS_ROLL~ to steer a bike.
+0xB0C96763=按~INPUT_VEH_ACCELERATE~加速。用~PAD_SIXAXIS_ROLL~控制行驶方向。
+
+;0xB7ACDDF7=~s~Take out the ~r~biker.
+0xB7ACDDF7=~s~消灭~r~飞车党。
+
+;0xB9B1C460=~s~When aiming use ~PAD_LSTICK_LEFTRIGHT~ and press ~INPUT_JUMP~ to roll.
+0xB9B1C460=~s~瞄准时，用~PAD_LSTICK_LEFTRIGHT~+~INPUT_JUMP~侧滚。
+
+;0xC41B3AFF=~s~Gas stations are full of explosive objects.
+0xC41B3AFF=~s~加油站里充满了易爆品。
+
+;0xF1395AC1=Use ~INPUT_VEH_KEY_UD~ to shift your weight forwards and backwards when on a bike.
+0xF1395AC1=用~INPUT_VEH_KEY_UD~前后移动你在摩托车上的重心。
+

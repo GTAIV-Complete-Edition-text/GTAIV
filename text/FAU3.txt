@@ -1,0 +1,22 @@
+﻿[FAU3]
+;0x0479206B=~r~Lenny got on the train. You didn't get to the station in time~s~
+0x0479206B=~r~Lenny上车了。你没能及时赶到车站。~s~
+
+;0x1D7FB946=~s~Press ~PAD_LB~ to shoot while driving with a gun.
+0x1D7FB946=~s~按~PAD_LB~在驾驶时射击。
+
+;0x1DF4BE12=~s~Go to ~y~Guantanamo Ave~s~ in South Bohan.
+0x1DF4BE12=~s~前往~y~South Bohan~s~的Guantanamo大道。
+
+;0x1F71410B=~s~Take down ~r~Lenny~s~ on the station platform.
+0x1F71410B=~s~干掉站台上的~r~Lenny。
+
+;0xAA4E1C1F=~r~Lenny got away.~s~
+0xAA4E1C1F=~r~Lenny跑掉了。~s~
+
+;0xE87D04A1=~s~Press ~INPUT_ATTACK~ to shoot while driving with a gun.
+0xE87D04A1=~s~按~INPUT_ATTACK~在驾驶时射击。
+
+;0xE9BE55A6=~s~Take down ~r~Lenny.~s~ Do not let him escape.
+0xE9BE55A6=~s~干掉~r~Lenny。~s~别让他跑了。
+

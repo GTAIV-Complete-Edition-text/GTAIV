@@ -1,0 +1,85 @@
+﻿[ESCAPE]
+;0x00FF0F81=8
+0x00FF0F81=8
+
+;0x0855EB88=All for One
+0x0855EB88=多对一
+
+;0x0B2023C3=2
+0x0B2023C3=2
+
+;0x0BB13B14=Game Type
+0x0BB13B14=游戏类型
+
+;0x2C974253=~r~The getaway boat is on land, it needs to get back into water.
+0x2C974253=~r~逃亡用的船被搞到陆地上了，它需要回到水里。
+
+;0x2EC8EB14=6
+0x2EC8EB14=6
+
+;0x30E5E57A=Rounds
+0x30E5E57A=回合数
+
+;0x3BFFC2AE=Head to the ~b~getaway vehicle.
+0x3BFFC2AE=前往~b~逃亡车辆。
+
+;0x4994C395=The ~COL_NET_2~cops~s~ have been alerted. Get to the ~b~getaway vehicle.
+0x4994C395=~COL_NET_2~条子~s~已接到警报。前往~b~逃亡车辆。
+
+;0x4AD5A538=GAME IS ABOUT TO END
+0x4AD5A538=游戏即将结束
+
+;0x4BF36295=You are the team's Boss.
+0x4BF36295=你是团队的老大了。
+
+;0x4CC2AA6C=A crook has got into the getaway vehicle.
+0x4CC2AA6C=一名盗贼已经进入了逃亡载具。
+
+;0x56EB3B5C=10
+0x56EB3B5C=10
+
+;0x5DFEEC69=The ~COL_NET_1~crooks~s~ have been spotted, they are highly dangerous. Take them down.
+0x5DFEEC69=~COL_NET_1~盗贼们~s~已经被发现，他们极度危险。干掉他们。
+
+;0x6E89575E=The boss needs to stay in the vehicle - the game will end shortly if he doesn't.
+0x6E89575E=团队老大需要待在载具里-如果他不的话游戏很快会结束。
+
+;0x79B56DD7=WAITING FOR VIP TO BE SELECTED.
+0x79B56DD7=等待VIP选择。
+
+;0x7F11C29A=A Crook needs to stay in the vehicle - the game will end shortly.
+0x7F11C29A=盗贼需要待在车里-游戏将很快结束。
+
+;0x8CC09740=Some of the crooks have got into the getaway vehicle.
+0x8CC09740=一些盗贼已经进入了逃亡载具。
+
+;0x8D444F8B=The Boss has reached the getaway vehicle.
+0x8D444F8B=团队老大已经抵达了逃亡载具。
+
+;0x8E28B313=The Boss has been taken out.
+0x8E28B313=团队老大被干掉了。
+
+;0x977BE462=~r~The getaway vehicle has been destroyed. The round will end shortly.
+0x977BE462=~r~逃亡载具已被摧毁。本回合即将结束。
+
+;0x9AFB86E9=LEAVE
+0x9AFB86E9=离开
+
+;0xBDCE4649=You are the boss, make your way to the ~b~getaway vehicle.
+0xBDCE4649=你是团队老大，赶快前往~b~逃亡载具。
+
+;0xCC23E2F4=Protect the ~COL_NET_1~Boss.
+0xCC23E2F4=保护~COL_NET_1~老大。
+
+;0xDA1DBD1B=~r~The getaway vehicle has been flipped. The round will end shortly.
+0xDA1DBD1B=~r~逃亡载具翻了。本回合即将结束。
+
+;0xDCF94776=4
+0xDCF94776=4
+
+;0xEDC5A63B=Find the ~COL_NET_1~Boss~s~ and take him out.
+0xEDC5A63B=找到~COL_NET_1~老大~s~并干掉他。
+
+;0xF512C502=One for All
+0xF512C502=一对多
+

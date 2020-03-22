@@ -1,0 +1,618 @@
+﻿;注：
+;1.中间有一段是Packie唱爱尔兰民谣Danny Boy，我基本是照李敖的译本填的，所以看上去和原文差别较大 如某个单独的「当」字
+;2.有一句我译成了「清醒的跟欧阳修一样」 原文是「sober as a lord」 直译是「清醒的像个领主」 然而原梗是「drunk as a lord」和「sober as a judge」 也就是想表达醉到乱说话的状态 不过中文没这说法 我就拿醉翁填上去了
+;3.对这篇的修订 还是直接到游戏里约Packie喝酒 酒后对话看着没问题就过了吧...
+
+[FCPDCAU]
+;0x0097E5AE=FCP2_DRUNK6_FA
+0x0097E5AE=FCP2_DRUNK6_FA
+
+;0x07762513=FCP2_DRUNK2_BG
+0x07762513=FCP2_DRUNK2_BG
+
+;0x07D282CC=FCP2_DRUNK5_ED
+0x07D282CC=FCP2_DRUNK5_ED
+
+;0x0879F71E=FCP2_DRUNK3_CB
+0x0879F71E=FCP2_DRUNK3_CB
+
+;0x08F191C2=~z~Fucking America, you're right but I'm a fucking Irishman.
+0x08F191C2=~z~操蛋的美国，你说的没错，但我他妈是爱尔兰人。
+
+;0x09384EE7=FCP2_DRUNK6_FG
+0x09384EE7=FCP2_DRUNK6_FG
+
+;0x09FFCBC5=~z~Me too, but I don't want to fuck you.
+0x09FFCBC5=~z~我也是，但我不想操你。
+
+;0x0A064B40=FCP2_DRUNK5_EJ
+0x0A064B40=FCP2_DRUNK5_EJ
+
+;0x0AF847E6=FCP2_DRUNK4_DL
+0x0AF847E6=FCP2_DRUNK4_DL
+
+;0x0C4B46C8=FCP2_DRUNK3_CN
+0x0C4B46C8=FCP2_DRUNK3_CN
+
+;0x0DB1D8B2=100100100010010010100010010100100100010100100100100100010
+0x0DB1D8B2=100100100010010010100010010100100100010100100100100100010
+
+;0x0DEB7CF5=FCP2_DRUNK6_FP
+0x0DEB7CF5=FCP2_DRUNK6_FP
+
+;0x0F85EC1D=FCP2_DRUNK4_DH
+0x0F85EC1D=FCP2_DRUNK4_DH
+
+;0x0FAC8A90=FCP2_DRUNK3_CL
+0x0FAC8A90=FCP2_DRUNK3_CL
+
+;0x100FC895=FCP2_DRUNK3_CO
+0x100FC895=FCP2_DRUNK3_CO
+
+;0x174E1515=FCP2_DRUNK6_FB
+0x174E1515=FCP2_DRUNK6_FB
+
+;0x179C1382=~z~Man, I gotta straighten meself out. I can't go on like this. I'm a fucking mess.
+0x179C1382=~z~兄弟，我就直接说我的想法了。我不能再这么下去了。我现在他妈是一团糟。
+
+;0x1B209A7D=~z~I have to say, I missed it on my travels. Maybe one day.
+0x1B209A7D=~z~不得不说，我还真没去过。说不定会去一次。
+
+;0x1B739D15=~z~Oh Danny Boy,
+0x1B739D15=~z~哦，Danny Boy，
+
+;0x1BFA6FBA=~z~Ha ha, a comedian, ladies and gents.
+0x1BFA6FBA=~z~哈哈，说相声的，女士们先生们。
+
+;0x1C2A814A=FCP2_DRUNK4_DF
+0x1C2A814A=FCP2_DRUNK4_DF
+
+;0x1C6E2E03=FCP2_DRUNK3_CZ
+0x1C6E2E03=FCP2_DRUNK3_CZ
+
+;0x1D35F7F4=FCP2_DRUNK1_AE
+0x1D35F7F4=FCP2_DRUNK1_AE
+
+;0x1E928E3F=~z~You think I'd still need chop if I was burning in Hell, Niko?
+0x1E928E3F=~z~你觉得我都下地狱了，还会需要抽大麻烟吗，Niko？
+
+;0x21EC361A=FCP2_DRUNK3_CD
+0x21EC361A=FCP2_DRUNK3_CD
+
+;0x2A1E3A6A=~z~I love you so.
+0x2A1E3A6A=~z~我如此爱你，等你徘徊。
+
+;0x2A56F760=FCP2_DRUNK3_CV
+0x2A56F760=FCP2_DRUNK3_CV
+
+;0x2B8D48A1=FCP2_DRUNK3_CK
+0x2B8D48A1=FCP2_DRUNK3_CK
+
+;0x2D523EE0=~z~You ever been to Ireland, Niko?
+0x2D523EE0=~z~你有去过爱尔兰吗，Niko？
+
+;0x2DAC3FA2=~z~I'm drunk and coked up every night - I doubt I'll see another six months and if it's much longer...
+0x2DAC3FA2=~z~我每晚都会喝酒、嗑药－我都怀疑我能不能再活上6个月甚至更久...
+
+;0x2DAD7A01=FCP2_DRUNK6_FL
+0x2DAD7A01=FCP2_DRUNK6_FL
+
+;0x2EB60D64=FCP2_DRUNK1_AI
+0x2EB60D64=FCP2_DRUNK1_AI
+
+;0x2F3C4346=~z~From glen to glen,
+0x2F3C4346=~z~幽谷成排，
+
+;0x30CBB150=FCP2_DRUNK4_DM
+0x30CBB150=FCP2_DRUNK4_DM
+
+;0x31EA9E2F=~z~Alright, ummm. I guess I'd like to hear that. Recite away, Niko.
+0x31EA9E2F=~z~行吧，唔。我还是有兴趣听的。你背吧，Niko。
+
+;0x345DE2A2=FCP2_DRUNK5_EE
+0x345DE2A2=FCP2_DRUNK5_EE
+
+;0x3679A2BE=FCP2_DRUNK5_EI
+0x3679A2BE=FCP2_DRUNK5_EI
+
+;0x372E2F4B=FCP2_DRUNK5_EN
+0x372E2F4B=FCP2_DRUNK5_EN
+
+;0x37358605=FCP2_DRUNK3_CU
+0x37358605=FCP2_DRUNK3_CU
+
+;0x37451F00=FCP2_DRUNK2_BE
+0x37451F00=FCP2_DRUNK2_BE
+
+;0x37735322=~z~I ain't never left Liberty City.
+0x37735322=~z~我从没离开过自由城。
+
+;0x38DBD82C=~z~Whatever.
+0x38DBD82C=~z~随你吧。
+
+;0x395730D7=FCP2_DRUNK4_DK
+0x395730D7=FCP2_DRUNK4_DK
+
+;0x3A315928=~z~And all the flowers are dying
+0x3A315928=~z~玫瑰难怀。
+
+;0x3C5DE074=FCP2_DRUNK6_FE
+0x3C5DE074=FCP2_DRUNK6_FE
+
+;0x3D14B483=~z~You must remain very silent. It is a long poem.
+0x3D14B483=~z~你必须保持安静，非常安静。是首长诗。
+
+;0x3D6EFE67=~z~I'm pissed and I'm saying stupid shit, about shit,
+0x3D6EFE67=~z~我醉了，然后就会说胡话的胡话，
+
+;0x3E730073=~z~You're sick, you're all fucking sick, every last one of you.
+0x3E730073=~z~你们都是混蛋，你们全他妈是混蛋，每个人都是。
+
+;0x3F3D1E60=FCP2_DRUNK6_FO
+0x3F3D1E60=FCP2_DRUNK6_FO
+
+;0x3F99E781=FCP2_DRUNK3_CP
+0x3F99E781=FCP2_DRUNK3_CP
+
+;0x40D1D2BD=~z~Couldn't tell you Packie. I wouldn't know.
+0x40D1D2BD=~z~说不清，Packie。我不知道。
+
+;0x426B3E49=FCP2_DRUNK5_EH
+0x426B3E49=FCP2_DRUNK5_EH
+
+;0x441C3AA4=FCP2_DRUNK1_AG
+0x441C3AA4=FCP2_DRUNK1_AG
+
+;0x449DE4F8=FCP2_DRUNK4_DE
+0x449DE4F8=FCP2_DRUNK4_DE
+
+;0x44BE7FCF=FCP2_DRUNK5_EF
+0x44BE7FCF=FCP2_DRUNK5_EF
+
+;0x47EF74A4=~z~Tis you, 'tis you,
+0x47EF74A4=~z~你，你，
+
+;0x48A488C3=FCP2_DRUNK3_CY
+0x48A488C3=FCP2_DRUNK3_CY
+
+;0x48D58554=FCP2_DRUNK3_CR
+0x48D58554=FCP2_DRUNK3_CR
+
+;0x4995F775=~z~I ain't going to make old bones, I know that, but I'd like to hit thirty!
+0x4995F775=~z~我肯定是活不久的，这我知道，但我想至少得活到30岁！
+
+;0x49B1F79F=~z~I've only been in me dreams, Niko. In me dreams.
+0x49B1F79F=~z~我只在梦里去过，Niko。在梦里。
+
+;0x4A3DD1CD=FCP2_DRUNK6_FJ
+0x4A3DD1CD=FCP2_DRUNK6_FJ
+
+;0x4BFD7CC8=~z~The pipes, the pipes are calling,
+0x4BFD7CC8=~z~当风笛呼唤，
+
+;0x4E6100FD=~z~I wasn't gonna get smart.
+0x4E6100FD=~z~我也没想抖机灵。
+
+;0x4F288316=~z~Or when the valley's
+0x4F288316=~z~当
+
+;0x4F5BD911=~z~If I did I would not speak it to you. In this country all you got is rap music.
+0x4F5BD911=~z~我要是知道也不会在这里跟你说，这个国家只有嘻哈音乐。
+
+;0x4FC184EF=FCP2_DRUNK6_FD
+0x4FC184EF=FCP2_DRUNK6_FD
+
+;0x51D674C6=~z~That's where I'm going, Niko boy. That's where I'm heading.
+0x51D674C6=~z~我就是要去那儿的，Niko仔。我朝着那儿前进。
+
+;0x52C589D0=~z~Shut up.
+0x52C589D0=~z~闭嘴。
+
+;0x53166280=FCP2_DRUNK1_AD
+0x53166280=FCP2_DRUNK1_AD
+
+;0x540E4C36=FCP2_DRUNK2_BB
+0x540E4C36=FCP2_DRUNK2_BB
+
+;0x54382106=FCP2_DRUNK5_ES
+0x54382106=FCP2_DRUNK5_ES
+
+;0x54FB4EBB=FCP2_DRUNK6_FF
+0x54FB4EBB=FCP2_DRUNK6_FF
+
+;0x55062D99=~z~The whole of me life, no one ever let me be, do this Packie, go there, hit him, touch me there...
+0x55062D99=~z~我这辈子，还没人不管我过，做这个Packie，去哪里，去打他，摸我这儿...
+
+;0x5667E841=FCP2_DRUNK6_FH
+0x5667E841=FCP2_DRUNK6_FH
+
+;0x5B45DA1D=FCP2_DRUNK3_CH
+0x5B45DA1D=FCP2_DRUNK3_CH
+
+;0x5CD33D2F=~z~and I'm going to hell and the world is ugly
+0x5CD33D2F=~z~而且我会下地狱，而且世界很丑恶，
+
+;0x5EF3A414=~z~Or in shadow,
+0x5EF3A414=~z~任四处阴霾。
+
+;0x5FE9A40E=~z~Goin' to a federal penetentiarery... penetentiary don't count as leavin' Liberty City.
+0x5FE9A40E=~z~进联邦监狱...监狱可不能算离开自由城。
+
+;0x60D17BFC=~z~I am just fucking with you, Packie. I don't know no fucking poetry.
+0x60D17BFC=~z~我逗你玩呢，Packie。我他妈根本不懂什么诗歌。
+
+;0x6879B538=~z~Oh man, I can't take it. I can't fucking take it. Shoot me.
+0x6879B538=~z~噢，兄弟，我受不了了，我他妈受不了了。毙了我吧。
+
+;0x68F6C977=FCP2_DRUNK5_EG
+0x68F6C977=FCP2_DRUNK5_EG
+
+;0x69440CE1=~z~Same as booze, religion, sodomy and fighting is.
+0x69440CE1=~z~和狂饮、宗教、鸡奸、打架一样。
+
+;0x6992707A=FCP2_DRUNK6_FM
+0x6992707A=FCP2_DRUNK6_FM
+
+;0x6B2576BD=~z~Fuck you! I was a choir boy! A cherub!
+0x6B2576BD=~z~操你妈！我曾经也参加过唱诗班！是个小天使！
+
+;0x6C71089C=FCP2_DRUNK5_EO
+0x6C71089C=FCP2_DRUNK5_EO
+
+;0x6CAA200A=FCP2_DRUNK5_EL
+0x6CAA200A=FCP2_DRUNK5_EL
+
+;0x6D3540E6=~z~Fuck you. I'm not drunk. I'm sober as a lord.
+0x6D3540E6=~z~操你妈，我没醉。我现在清醒的跟欧阳修一样。
+
+;0x6DAD4187=~z~Oh Danny Boy,
+0x6DAD4187=~z~哦，Danny Boy，
+
+;0x70ACE4E6=~z~What are you talking about?
+0x70ACE4E6=~z~你在说什么呢？
+
+;0x70B025D6=FCP2_DRUNK5_EM
+0x70B025D6=FCP2_DRUNK5_EM
+
+;0x71CF1CD1=~z~Fighting, burning, eating, drinking and snorting our way through eternity in Hell.
+0x71CF1CD1=~z~打架、燃烧、吃饭、喝酒、吸粉，一路通向永恒地狱。
+
+;0x72B577CB=FCP2_DRUNK3_CW
+0x72B577CB=FCP2_DRUNK3_CW
+
+;0x7372213D=~z~Poetry is in the blood of an Irishman.
+0x7372213D=~z~诗歌是流在爱尔兰人骨子里的。
+
+;0x7524CE8E=~z~prison like everyone does...
+0x7524CE8E=~z~和别人一样进监狱...
+
+;0x766591E0=FCP2_DRUNK1_AL
+0x766591E0=FCP2_DRUNK1_AL
+
+;0x77463FA5=~z~No, Niko, no, no, no. I wasn't meaning anything like that.
+0x77463FA5=~z~不，Niko，不不不。我不是那个意思。
+
+;0x78CB1208=~z~An angel sent down to live amongst men... that's what they told me...
+0x78CB1208=~z~被派到地上活在人上的天使...他们是这么说的...
+
+;0x78DD42D3=~z~I don't gotta have an agenda to tell a friend he's a fucking prince.
+0x78DD42D3=~z~我可没有打算跟一个朋友说他他他妈是个流氓。
+
+;0x78EEA01A=FCP2_DRUNK2_BC
+0x78EEA01A=FCP2_DRUNK2_BC
+
+;0x7B305AA9=~z~Sure.
+0x7B305AA9=~z~肯定的。
+
+;0x7C925D5F=~z~I'm going to Ireland though, Niko. I'm gonna fucking go. Mark me words.
+0x7C925D5F=~z~但我会去爱尔兰的，Niko。我他妈回去的。记住这句话。
+
+;0x7C9CA71C=FCP2_DRUNK1_AC
+0x7C9CA71C=FCP2_DRUNK1_AC
+
+;0x7D8B3CB6=FCP2_DRUNK4_DO
+0x7D8B3CB6=FCP2_DRUNK4_DO
+
+;0x7EE5E538=FCP2_DRUNK3_CC
+0x7EE5E538=FCP2_DRUNK3_CC
+
+;0x7F857200=FCP2_DRUNK3_CX
+0x7F857200=FCP2_DRUNK3_CX
+
+;0x815F6783=~z~When summer's in the meadow,
+0x815F6783=~z~当草原尽夏，
+
+;0x82EE6A21=~z~I'll end up in
+0x82EE6A21=~z~最后我会
+
+;0x84FDCF67=~z~You're fun when you're drunk.
+0x84FDCF67=~z~你喝醉的样子真有趣。
+
+;0x85FE938D=100010100100100010100100100100100100100010100
+0x85FE938D=100010100100100010100100100100100100100010100
+
+;0x86883931=FCP2_DRUNK2_BA
+0x86883931=FCP2_DRUNK2_BA
+
+;0x873502FB=FCP2_DRUNK5_EB
+0x873502FB=FCP2_DRUNK5_EB
+
+;0x881A1011=~z~Sure it is.
+0x881A1011=~z~是很深奥。
+
+;0x8868D9CF=100010100100100100010100100100100010100100100100010100010100010
+0x8868D9CF=100010100100100100010100100100100010100100100100010100010100010
+
+;0x89644A8C=~z~Fuck me, I'm pissed.
+0x89644A8C=~z~我操，我醉了。
+
+;0x89E11383=~z~because people ain't gonna care and they're gonna be walking over your dead body anyway...
+0x89E11383=~z~因为没人会在意，他们只会踏过你的尸体...
+
+;0x8B0BE730=~z~But, point taken - I'd tell my pa he was a fucking prince if he'd rack up some rails for me.
+0x8B0BE730=~z~我同意你的看法，不过要是我爸给我弄一堆粉的话，我也跟他说他是流氓的。
+
+;0x8B40DBCB=FCP2_DRUNK5_EK
+0x8B40DBCB=FCP2_DRUNK5_EK
+
+;0x8B72D104=FCP2_DRUNK1_AF
+0x8B72D104=FCP2_DRUNK1_AF
+
+;0x8BB5384F=FCP2_DRUNK6_FN
+0x8BB5384F=FCP2_DRUNK6_FN
+
+;0x8E060DE1=FCP2_DRUNK5_EC
+0x8E060DE1=FCP2_DRUNK5_EC
+
+;0x8E26E1D1=FCP2_DRUNK4_DA
+0x8E26E1D1=FCP2_DRUNK4_DA
+
+;0x8E65D724=~z~You do not mind that it is in my language.
+0x8E65D724=~z~不是英语你别介意啊。
+
+;0x8F923F96=~z~and song and good times and tears!
+0x8F923F96=~z~与欢乐时光与泪水的歧途！
+
+;0x9147F8DB=100010100100010100100
+0x9147F8DB=100010100100010100100
+
+;0x91805584=FCP2_DRUNK4_DJ
+0x91805584=FCP2_DRUNK4_DJ
+
+;0x93376BDA=~z~Fuck it, quite frankly, I'd rather be a fucking puddle of piss...
+0x93376BDA=~z~去他的吧，说句实话，我他妈宁可做一滩尿...
+
+;0x96B1A1EB=FCP2_DRUNK3_CE
+0x96B1A1EB=FCP2_DRUNK3_CE
+
+;0x96D8E80A=~z~I too like poetry. We have much in my country. Let me recite some to you.
+0x96D8E80A=~z~我也喜欢诗。我们老家有很多诗。我给你背两首。
+
+;0x97AED6A1=FCP2_DRUNK3_CQ
+0x97AED6A1=FCP2_DRUNK3_CQ
+
+;0x97CDC4D8=FCP2_DRUNK1_AJ
+0x97CDC4D8=FCP2_DRUNK1_AJ
+
+;0x9946DFD2=FCP2_DRUNK6_FU
+0x9946DFD2=FCP2_DRUNK6_FU
+
+;0x9A68B4AE=~z~horsemen pass by. That's some deep fucking shit.
+0x9A68B4AE=~z~骑者且前行。他妈有点深奥。
+
+;0x9B7A7017=FCP2_DRUNK1_AA
+0x9B7A7017=FCP2_DRUNK1_AA
+
+;0x9B98E34B=FCP2_DRUNK5_EP
+0x9B98E34B=FCP2_DRUNK5_EP
+
+;0x9BA7B710=~z~On his grave it says something like don't get worked up about life and death
+0x9BA7B710=~z~在他的墓碑上写着什么不要纠结生死，
+
+;0x9BD53B36=~z~I don't know, I'm pissed,
+0x9BD53B36=~z~我不知道，我醉了，
+
+;0x9D340B84=~z~Then, if I was talking to my pa I'd be burning in the Seventh Circle of fucking Hell.
+0x9D340B84=~z~然后，要是我跟我爸说了，我他妈就会下十八层地狱了。
+
+;0x9D50DB13=~z~You didn't seem like you were on a good path, when we meet, I mean.
+0x9D50DB13=~z~我们刚见面的时候你好像也没走在不是歧路的路上。
+
+;0x9EF77462=FCP2_DRUNK4_DI
+0x9EF77462=FCP2_DRUNK4_DI
+
+;0x9FB6B826=FCP2_DRUNK3_CJ
+0x9FB6B826=FCP2_DRUNK3_CJ
+
+;0xA49AEF02=FCP2_DRUNK3_CI
+0xA49AEF02=FCP2_DRUNK3_CI
+
+;0xA62D90D2=FCP2_DRUNK4_DB
+0xA62D90D2=FCP2_DRUNK4_DB
+
+;0xA7545234=~z~What?
+0xA7545234=~z~说什么？
+
+;0xA7AA3418=FCP2_DRUNK3_CA
+0xA7AA3418=FCP2_DRUNK3_CA
+
+;0xA8A9675F=FCP2_DRUNK1_AK
+0xA8A9675F=FCP2_DRUNK1_AK
+
+;0xAB665744=FCP2_DRUNK3_CG
+0xAB665744=FCP2_DRUNK3_CG
+
+;0xACD4916C=~z~I've heard about Europe - it's near Ireland, only the people there are backwards and hairy...
+0xACD4916C=~z~我听说过欧洲，就在爱尔兰边上，只是那里人比较原始，毛很长...
+
+;0xAD8137D5=FCP2_DRUNK4_DD
+0xAD8137D5=FCP2_DRUNK4_DD
+
+;0xAD81DAC4=~z~swans and all types of shit.
+0xAD81DAC4=~z~天鹅和各种各样的狗屁。
+
+;0xB007007F=~z~you're leading me astray, Niko!
+0xB007007F=~z~你把我引上了歧途，Niko！
+
+;0xB04EA608=~z~and this is called being a man?
+0xB04EA608=~z~这样能算是做人吗？
+
+;0xB23848AA=~z~Before you get smart...
+0xB23848AA=~z~在你抖机灵前...
+
+;0xB5E6D019=~z~You're drunk, shut up.
+0xB5E6D019=~z~你喝醉了，闭嘴。
+
+;0xB8875C1D=FCP2_DRUNK6_FS
+0xB8875C1D=FCP2_DRUNK6_FS
+
+;0xB8FA211F=FCP2_DRUNK3_CS
+0xB8FA211F=FCP2_DRUNK3_CS
+
+;0xBB353987=FCP2_DRUNK5_ER
+0xBB353987=FCP2_DRUNK5_ER
+
+;0xBE0E7FA8=~z~Niko, man, Niko, I just want to say, I just want to say, I just want to say something.
+0xBE0E7FA8=~z~Niko，兄弟，Niko，我只是想说，我只是想说，我只是想说点东西。
+
+;0xBE3A3437=~z~Whereas you're really civilized here.
+0xBE3A3437=~z~哪有你们这儿那么文明。
+
+;0xBE3CBCA7=100010100100100100100010100100100010
+0xBE3CBCA7=100010100100100100100010100100100010
+
+;0xBF457E4B=~z~He wrote about fighting and dreaming and fucking
+0xBF457E4B=~z~他写的诗都是打架做梦还有操
+
+;0xC0E09E25=FCP2_DRUNK6_FK
+0xC0E09E25=FCP2_DRUNK6_FK
+
+;0xC170CA84=FCP2_DRUNK4_DG
+0xC170CA84=FCP2_DRUNK4_DG
+
+;0xC4F1442A=~z~You like poetry, Niko? I fucking love it.
+0xC4F1442A=~z~你喜欢诗歌吗，Niko？我太他妈喜欢了。
+
+;0xC68F770D=FCP2_DRUNK6_FT
+0xC68F770D=FCP2_DRUNK6_FT
+
+;0xC6B92DE3=~z~Leading down a no good path of wine and women
+0xC6B92DE3=~z~引上满是酒与女人与歌
+
+;0xC7E8553B=~z~Fuck you.
+0xC7E8553B=~z~操你妈。
+
+;0xC8A9A2CE=FCP2_DRUNK3_CM
+0xC8A9A2CE=FCP2_DRUNK3_CM
+
+;0xCD95FF77=~z~Shoot me, in the head.
+0xCD95FF77=~z~打头，一枪毙命。
+
+;0xCDBD0041=~z~Must go and I must bide.
+0xCDBD0041=~z~天涯远引，而我，我在此长埋。
+
+;0xCF7192CE=100010100100100100010100100100100100100100100100100100100100100100100100100
+0xCF7192CE=100010100100100100010100100100100100100100100100100100100100100100100100100
+
+;0xD254A489=~z~Cannot say that I do.
+0xD254A489=~z~没听说过。
+
+;0xD2DAA940=~z~Let me think, shut up and let me think, let me be.
+0xD2DAA940=~z~我想想，你闭嘴我想想，别管我。
+
+;0xD2EF0AAD=~z~The summer's gone,
+0xD2EF0AAD=~z~当夏日已尽，
+
+;0xD4588CEE=~z~Oh Danny Boy,
+0xD4588CEE=~z~哦，Danny Boy，
+
+;0xD479C964=~z~Again.
+0xD479C964=~z~又这样。
+
+;0xD5289080=~z~Hushed and white with snow
+0xD5289080=~z~雪地全白。
+
+;0xD9A3275A=FCP2_DRUNK5_EQ
+0xD9A3275A=FCP2_DRUNK5_EQ
+
+;0xDC217DAD=~z~and unkind and full of idiots,
+0xDC217DAD=~z~还很恶意，还全是傻逼，
+
+;0xDEABCBC3=FCP2_DRUNK2_BF
+0xDEABCBC3=FCP2_DRUNK2_BF
+
+;0xE0A92621=~z~And down the mountain side,
+0xE0A92621=~z~飘荡山间，
+
+;0xE306AC3C=~z~Tis I'll be here in sunshine,
+0xE306AC3C=~z~任晴空万里，
+
+;0xE32A7F86=~z~We'll be fighting at the kitchen table for the rest of eternity.
+0xE32A7F86=~z~我和我爸会在余下的永生中接着在餐桌上打架的。
+
+;0xE45C19D3=~z~Fuck me, Niko boy. Fuck me sideways.
+0xE45C19D3=~z~操我，Niko仔，侧面上我。
+
+;0xE59302E8=~z~I'm civilized. I know a lot about civilization, I went there once.
+0xE59302E8=~z~我很文明，我也很懂文明，那边我去过一次。
+
+;0xE595CB0B=~z~Fucking Yeats and shit. You know him?
+0xE595CB0B=~z~那什么叶慈还是谁的，你听说过吗？
+
+;0xE6BD06AB=~z~Sounds fun. Promise to invite me around when you're there.
+0xE6BD06AB=~z~听起来挺有趣的。你下去以后记得邀请我参观。
+
+;0xEB34F6DA=~z~A-gain... a-fucking-gain,
+0xEB34F6DA=~z~又－这样...又他妈这样，
+
+;0xED843FCF=~z~But come ye back,
+0xED843FCF=~z~若你能归还，
+
+;0xEE24C527=FCP2_DRUNK6_FR
+0xEE24C527=FCP2_DRUNK6_FR
+
+;0xF38A2A62=FCP2_DRUNK4_DC
+0xF38A2A62=FCP2_DRUNK4_DC
+
+;0xF3DF2671=FCP2_DRUNK6_FI
+0xF3DF2671=FCP2_DRUNK6_FI
+
+;0xF4821863=FCP2_DRUNK2_BD
+0xF4821863=FCP2_DRUNK2_BD
+
+;0xF4FF5139=FCP2_DRUNK6_FQ
+0xF4FF5139=FCP2_DRUNK6_FQ
+
+;0xF5416AE2=FCP2_DRUNK5_EA
+0xF5416AE2=FCP2_DRUNK5_EA
+
+;0xF60D21EF=FCP2_DRUNK1_AB
+0xF60D21EF=FCP2_DRUNK1_AB
+
+;0xF619BD4E=~z~I don't got no coke if that's you're thinking.
+0xF619BD4E=~z~我完全不知道你在想什么。
+
+;0xF66F8CF3=~z~I'm drunk and stupid tonight.
+0xF66F8CF3=~z~今晚我醉了，有点犯蠢。
+
+;0xF6BB6D56=~z~We got more poets than bottles of whiskey and that's saying a fucking lot.
+0xF6BB6D56=~z~我们的诗歌他妈比威士忌瓶子还多，这他妈能说明很多了。
+
+;0xF74AA657=~z~Didn't like much, went back to the madhouse... fuck me, I'm drunk.
+0xF74AA657=~z~不大喜欢，跟进了疯人院一样...我操，我醉了。
+
+;0xFC12A897=FCP2_DRUNK4_DN
+0xFC12A897=FCP2_DRUNK4_DN
+
+;0xFC2BDB69=FCP2_DRUNK6_FC
+0xFC2BDB69=FCP2_DRUNK6_FC
+
+;0xFD4AF07C=FCP2_DRUNK3_CF
+0xFD4AF07C=FCP2_DRUNK3_CF
+
+;0xFEA1C2AD=~z~and I have so much inside me, but I can't express so I gets fucked up and goes and hits a cunt...
+0xFEA1C2AD=~z~而我心里埋了太多，但我不能说，所以就会去乱搞，就会去叫鸡...
+
+;0xFFA92E53=FCP2_DRUNK1_AH
+0xFFA92E53=FCP2_DRUNK1_AH
+

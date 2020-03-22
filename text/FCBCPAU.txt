@@ -1,0 +1,604 @@
+﻿[FCBCPAU]
+;0x0106C034=FCB2_ACT_PBR_GETCALL_LIFT_YES
+0x0106C034=FCB2_ACT_PBR_GETCALL_LIFT_YES
+
+;0x01876723=FCB_ACT_PBR_GETCALL_GAMES_YES
+0x01876723=FCB_ACT_PBR_GETCALL_GAMES_YES
+
+;0x0222A393=~z~Sure, let's go for a ride in your chopper. I'll pick you up in the next hour.
+0x0222A393=~z~当然，我们乘你的直升机去转转吧。我一小时内来接你。
+
+;0x0291A961=~z~Hey man, I been putting it to South Slopes hard but it's getting tired, bro. Can you pick me up?
+0x0291A961=~z~嘿，兄弟，我人在South Slopes，不过现在有点累了，兄弟。你能来接我吗？
+
+;0x0324883F=100
+0x0324883F=100
+
+;0x03BF1037=010
+0x03BF1037=010
+
+;0x06C58E4A=100
+0x06C58E4A=100
+
+;0x07CD46EC=~z~Nicky, babe, can you pick me up from my place?
+0x07CD46EC=~z~Nicky，宝贝，你能来我家接我吗？
+
+;0x09847A9A=~z~How about we do some gaming?
+0x09847A9A=~z~我们去玩两把如何？
+
+;0x0BB7AB89=~z~Hey, man, I'm in your home town of Hove Beach. Will you pick me up?
+0x0BB7AB89=~z~嘿，兄弟，我在你Hove Beach老家。你能来接我吗？
+
+;0x0C9D9EF6=FCB_ACT_GETCALL_GREET
+0x0C9D9EF6=FCB_ACT_GETCALL_GREET
+
+;0x0F54362B=FCB_ACT_GETCALL_EAT
+0x0F54362B=FCB_ACT_GETCALL_EAT
+
+;0x1080B3EF=100
+0x1080B3EF=100
+
+;0x12A45827=100
+0x12A45827=100
+
+;0x12C75749=~z~You and me should go for a ride in my chopper bro! Big pimpin' baby. You in?
+0x12C75749=~z~我们应该乘我的直升机出去转转，兄弟！大家伙。你来吗？
+
+;0x159F1725=~z~Strippers sound good, man. I should be at your place in the next hour.
+0x159F1725=~z~脱衣舞听起来不错，兄弟。我大概一小时内到你地方。
+
+;0x16FC9519=~z~NB, I think you and me, we know each other well enough now to hit up a strip club together. You in?
+0x16FC9519=~z~NB我想你我已经熟到可以一起去脱衣舞俱乐部了。你来吗？
+
+;0x18A56E9A=010
+0x18A56E9A=010
+
+;0x18CBD47C=~z~Sure Brucie, we'll go see something. I'll come get you in the next hour.
+0x18CBD47C=~z~当然，Brucie，我们去看点东西吧。我一小时内来接你。
+
+;0x1A044DE8=FCB_ACT_GETCALL_EAT_FIRST
+0x1A044DE8=FCB_ACT_GETCALL_EAT_FIRST
+
+;0x1A3814CD=100
+0x1A3814CD=100
+
+;0x1A46439F=010
+0x1A46439F=010
+
+;0x1A558496=100
+0x1A558496=100
+
+;0x1DB6F08C=100
+0x1DB6F08C=100
+
+;0x20ACC2E9=100
+0x20ACC2E9=100
+
+;0x216E0CAA=~z~Nice one, NB. See you then.
+0x216E0CAA=~z~好啊，NB。之后见。
+
+;0x2215C0A0=~z~How about you and me roll big baby, in a powerboat?
+0x2215C0A0=~z~我们一起去划船好吗，大宝贝？
+
+;0x26378199=FCB_ACT_PBR_GETCALL_BOAT_YES
+0x26378199=FCB_ACT_PBR_GETCALL_BOAT_YES
+
+;0x265BE8CA=100
+0x265BE8CA=100
+
+;0x26C9CF26=010
+0x26C9CF26=010
+
+;0x277C86CB=100
+0x277C86CB=100
+
+;0x29509AEA=010
+0x29509AEA=010
+
+;0x296F7B32=~z~Hey! I'm on Firefly Island. Did you know this place was closed? Fuck! Will you give me a lift?
+0x296F7B32=~z~嘿！我在Firefly Island。你知道这地儿关门了吗？操！你能来接我吗？
+
+;0x29B2AD81=~z~Sorry Brucie, I'm not in the gaming mood.
+0x29B2AD81=~z~Sorry Brucie, I'm not in the gaming mood.
+
+;0x29DD75B8=100
+0x29DD75B8=100
+
+;0x2B85F9F0=~z~Alright Brucie, let's go see a show. I'll pick you up within the hour.
+0x2B85F9F0=~z~好吧，Brucie，我们去看表演吧。我一小时内来接你。
+
+;0x2D2E3FEF=~z~There you are. I need a ride, Nicky. I'm Downtown here, bro.
+0x2D2E3FEF=~z~你接了啊。我要搭个车，Nicky。我现在在Downtown这里，兄弟。
+
+;0x2E56590A=~z~Sorry man, I can't go drinking right now.
+0x2E56590A=~z~抱歉，兄弟，我现在没法去喝酒。
+
+;0x2F3E03BE=FCB2_DA
+0x2F3E03BE=FCB2_DA
+
+;0x2FC141D3=FCB2_BA
+0x2FC141D3=FCB2_BA
+
+;0x304031E1=~z~I'll get some food with you, Brucie. I'll pick you up in the next hour.
+0x304031E1=~z~我会跟你来吃一顿的，Brucie。我一小时内来接你。
+
+;0x311322BA=010
+0x311322BA=010
+
+;0x32D618E1=FCB2_IA
+0x32D618E1=FCB2_IA
+
+;0x376B6B4B=~z~I think you and me should hit the river in a powerboat, bro.
+0x376B6B4B=~z~我想我们应该一起开船去乘风破浪，兄弟。
+
+;0x39284C1C=FCB2_MA
+0x39284C1C=FCB2_MA
+
+;0x3DE52E59=~z~I ain't in the mood to eat. Sorry Brucie.
+0x3DE52E59=~z~我没心情吃东西。抱歉，Brucie。
+
+;0x3FA5F9DC=100
+0x3FA5F9DC=100
+
+;0x40859764=~z~Sorry Brucie, you're going to have to pay for a taxi.
+0x40859764=~z~抱歉，Brucie，你得自己打的了。
+
+;0x40DEB91A=~z~Hey, Niko. I need a lift. Can you come by my pad?
+0x40DEB91A=~z~嘿，Niko。我需要搭车，你能来我家一趟吗？
+
+;0x415815D2=~z~Hey, NB. I'm in Willis of all places. Can you come pick me up?
+0x415815D2=~z~嘿，NB。我现在在Willis。你能来接我吗？
+
+;0x427F0419=FCB_ACT_PBR_GETCALL_BOWL_NO
+0x427F0419=FCB_ACT_PBR_GETCALL_BOWL_NO
+
+;0x42BC25BA=~z~Sorry, Brucie. I can't roll with you in a powerboat right now. Another time.
+0x42BC25BA=~z~抱歉，Brucie。我现在没法跟你去划船。改天吧。
+
+;0x43645390=100
+0x43645390=100
+
+;0x4420F1F7=~z~Nicky, I'm in Beechwood City. Get me out of this shithole. Pick me up, man.
+0x4420F1F7=~z~Nicky，我在Beechwood City。带我离开这鬼地方。来接我，兄弟。
+
+;0x44AA1D96=~z~How about we go see a show, Nicky, huh?
+0x44AA1D96=~z~我们去看场表演如何，Nicky，哈？
+
+;0x45655C2B=~z~We can go eat together. Wait for me at your place for an hour.
+0x45655C2B=~z~我们可以一起去吃一顿。你在你家等我一小时。
+
+;0x45D186C4=~z~How about we take a ride in my chopper.
+0x45D186C4=~z~我们乘直升机出去转转如何。
+
+;0x47D86745=~z~Nicky, I'm in Outlook Park. Bro, everyone thinks I'm cruising for ass. Will you pick me up?
+0x47D86745=~z~Nicky，我在Outlook Park。兄弟，所有人都觉得我是来找男人的。你能来接我吗？
+
+;0x4889DF97=010
+0x4889DF97=010
+
+;0x490E2A8F=100
+0x490E2A8F=100
+
+;0x4914A908=FCB_ACT_PBR_GETCALL_BOWL_YES
+0x4914A908=FCB_ACT_PBR_GETCALL_BOWL_YES
+
+;0x4A4F2FCD=100
+0x4A4F2FCD=100
+
+;0x4BF603CE=~z~Alright, Brucie. Let's go watch some strippers. Wait for me for an hour.
+0x4BF603CE=~z~好的，Brucie。我们去看会儿脱衣舞吧。等我一小时。
+
+;0x506EC11F=~z~Shit man, I'd love to but not right now. Another time.
+0x506EC11F=~z~我靠，兄弟，我很想去啊，不过现在没空。改天吧。
+
+;0x511558AE=FCB_ACT_PBR_GETCALL_DRINK_NO
+0x511558AE=FCB_ACT_PBR_GETCALL_DRINK_NO
+
+;0x521E8727=FCB2_ACT_PBR_GETCALL_LIFT_NO
+0x521E8727=FCB2_ACT_PBR_GETCALL_LIFT_NO
+
+;0x527BB939=~z~Why don't the two big dogs hit up a show? How about it?
+0x527BB939=~z~大伙一起去看场表演如何？你说怎么样？
+
+;0x53165D89=~z~Nicky, Nicky, I need to ride in style, bro. Will you come pick me up at my place?
+0x53165D89=~z~Nicky，Nicky，我需要专人来接我，兄弟。你能来我家接我吗？
+
+;0x54116CD5=~z~NB - if you are anything like Roman you'll want to do some gaming with me. How about it, bro?
+0x54116CD5=~z~NB，你要是很像Roman的话就会想和我去玩两把的。你觉得如何，兄弟？
+
+;0x57845001=010
+0x57845001=010
+
+;0x57A69927=~z~Ok man, I'll try to collect you within the next hour.
+0x57A69927=~z~好的兄弟，我尽量一小时内来接你。
+
+;0x57DD2A8B=FCB_ACT_GETCALL_HELI_FIRST
+0x57DD2A8B=FCB_ACT_GETCALL_HELI_FIRST
+
+;0x5C5096CB=FCB_ACT_GETCALL_GAMES
+0x5C5096CB=FCB_ACT_GETCALL_GAMES
+
+;0x5C847065=~z~Wouldn't normally ask this Nicky, but I need a lift. Can you pick me up at my place?
+0x5C847065=~z~我一般不会这么要求，Nicky，不过我需要搭个车。你能来我家接我吗？
+
+;0x5F793B4F=~z~Shit, I've got stuff to do, Brucie. I can't get a drink right now.
+0x5F793B4F=~z~我靠，我还有事要做呢，Brucie。我现在没空喝酒。
+
+;0x640E91C9=~z~Hey NB, we been kicking it a bit now man. How about you and me hit the bowling alley, yeah?
+0x640E91C9=~z~嘿，NB，我们最近有点熟了，兄弟。我们一起去打会儿保龄球如何？
+
+;0x64C506B0=~z~Niko, it's Brucie baby.
+0x64C506B0=~z~Niko，我是宝贝Brucie。
+
+;0x66815E13=~z~I ain't really in the mood to get horny with you. Sorry.
+0x66815E13=~z~我现在没心情跟你出去浪。抱歉。
+
+;0x670970EB=FCB2_CA
+0x670970EB=FCB2_CA
+
+;0x697163F3=~z~I don't really want to go check out chicks right now. Another time.
+0x697163F3=~z~我现在不太想去看鸡。改天吧。
+
+;0x6C2E46BA=~z~Nicky, I thought I had a line on some good shit in the Firefly Projects but it was bogus. Will you collect me up here?
+0x6C2E46BA=~z~Nicky，本来我以为能在Firefly公屋社区弄到点好东西，不过是假的。你能来这儿接我吗？
+
+;0x70638A48=~z~Nicky, thank god you picked up, I need a lift outta Schottler, it ain't cool, bro.
+0x70638A48=~z~Nicky，谢天谢地你接电话了，我在Schottler，需要搭个车，情况不大好，兄弟。
+
+;0x707E1742=~z~Not right now, man. Maybe we'll go for a chopper ride some other time.
+0x707E1742=~z~现在不行，兄弟。要么我们改天再乘直升机出去吧。
+
+;0x7097E8A1=FCB_ACT_GETCALL_DRINK_FIRST
+0x7097E8A1=FCB_ACT_GETCALL_DRINK_FIRST
+
+;0x70FFFCD1=FCB2_FA
+0x70FFFCD1=FCB2_FA
+
+;0x719710D0=~z~There you are, big guy. I've been hitting it in Cerveza Heights. Will you give me a lift, bro?
+0x719710D0=~z~你接了啊，大家伙。我现在在Cerveza Heights，你能载我一程吗，兄弟？
+
+;0x7244BEDF=FCB_ACT_GETCALL_BOWL_FIRST
+0x7244BEDF=FCB_ACT_GETCALL_BOWL_FIRST
+
+;0x724BF7D9=FCB_ACT_PBR_CALL_SHOW_NO
+0x724BF7D9=FCB_ACT_PBR_CALL_SHOW_NO
+
+;0x72BF04E5=~z~Yo, Nicky. I need a lift. I'm out in Steinway.
+0x72BF04E5=~z~哟，Nicky，我需要搭车。我现在在Steinway。
+
+;0x72FA3783=100
+0x72FA3783=100
+
+;0x7438C848=~z~Okay, man. Wait for me at your house for an hour.
+0x7438C848=~z~好的，兄弟。在你家等我一小时。
+
+;0x770B2B3C=~z~NB - It's your man Brucie.
+0x770B2B3C=~z~NB，是你兄弟Brucie。
+
+;0x7817EB50=~z~You wanna roll with the heavy bling in my chopper?
+0x7817EB50=~z~你想跟我的华丽直升机一起出去吗？
+
+;0x781B3A03=~z~Sweet, Niko, Sweet. Catch you then bro.
+0x781B3A03=~z~好啊，Niko，好啊。待会儿见，兄弟。
+
+;0x78D4CBC4=~z~Not now Brucie, I want to stay in the real world for the time being.
+0x78D4CBC4=~z~Not now Brucie, I want to stay in the real world for the time being.
+
+;0x7A9BB482=FCB2_KA
+0x7A9BB482=FCB2_KA
+
+;0x7B8A4DCD=~z~Niko man, I ain't no desperate cat but I haven't heard from you in a while. What the fuck?
+0x7B8A4DCD=~z~Niko兄弟，也不是说我很饥渴，但我很久没接到过你的电话了。搞啥子呢？
+
+;0x814D1BCA=FCB2_AA
+0x814D1BCA=FCB2_AA
+
+;0x8214A7A6=FCB_ACT_GETCALL_BOAT_FIRST
+0x8214A7A6=FCB_ACT_GETCALL_BOAT_FIRST
+
+;0x87106DF7=~z~Sure thing Brucie, I'll meet you at your house in the next hour.
+0x87106DF7=~z~当然了，Brucie。一小时内我来你家找你。
+
+;0x872F92FC=~z~Hey! How about we hit up the bowling alley, bro?
+0x872F92FC=~z~嘿！我们去打会儿保龄球如何，兄弟？
+
+;0x87A7910F=FCB2_GA
+0x87A7910F=FCB2_GA
+
+;0x895BE970=~z~Nicky. I don't want no excuses or nothing but why the fuck haven't you called me. Shit.
+0x895BE970=~z~Nicky。我不想听什么借口理由，不过你丫为什么不给我打电话。操。
+
+;0x8B349AD9=100
+0x8B349AD9=100
+
+;0x8D00A561=100
+0x8D00A561=100
+
+;0x9127DF75=~z~Yo, yo, yo, yo. Niko it's Brucie, baby.
+0x9127DF75=~z~哟哟哟哟。Niko，我是Brucie，宝贝。
+
+;0x92373ACA=~z~Not now Brucie, sorry man.
+0x92373ACA=~z~现在不行，Brucie，抱歉兄弟。
+
+;0x93392476=FCB_ACT_GETCALL_SHOW_FIRST
+0x93392476=FCB_ACT_GETCALL_SHOW_FIRST
+
+;0x9352E3CB=~z~NB, what's up?
+0x9352E3CB=~z~NB，近况如何？
+
+;0x93E55816=FCB2_JA
+0x93E55816=FCB2_JA
+
+;0x956E890B=FCB_ACT_PBR_GETCALL_EAT_YES
+0x956E890B=FCB_ACT_PBR_GETCALL_EAT_YES
+
+;0x96A36173=FCB2_EA
+0x96A36173=FCB2_EA
+
+;0x996C9192=~z~How about you and me go drop some serious dollars at a bar, bro?
+0x996C9192=~z~你我一起去酒吧一掷千金如何，兄弟？
+
+;0x9AE0039E=FCB_ACT_GETCALL_IRATE
+0x9AE0039E=FCB_ACT_GETCALL_IRATE
+
+;0x9E4DD27C=FCB_ACT_PBR_CALL_STRIP_NO
+0x9E4DD27C=FCB_ACT_PBR_CALL_STRIP_NO
+
+;0x9E5E6F4A=~z~Sorry man, I'm not that hungry. Another time.
+0x9E5E6F4A=~z~抱歉兄弟，我还不饿。改天吧。
+
+;0x9FDAA748=~z~Wanna play some video games, bro?
+0x9FDAA748=~z~Wanna play some video games, bro?
+
+;0xA3F331BF=~z~Alright man, I'll be there within the hour.
+0xA3F331BF=~z~好的兄弟，我一小时内来。
+
+;0xA4032378=100
+0xA4032378=100
+
+;0xA409DE6F=~z~I'm busy man, call someone else.
+0xA409DE6F=~z~我很忙，兄弟，你找别人吧。
+
+;0xA6468B76=010
+0xA6468B76=010
+
+;0xA697AB27=~z~You an' me have been friends for a while and we ain't even got some food together. What up with that bro? Let's eat!
+0xA697AB27=~z~你和我交上朋友有一会儿了，我们都还没去吃过饭。你意下如何？一起去吃一顿吧！
+
+;0xA6CB487A=~z~Nicky, I shouldn't be the one making this call. We were friends and now you're leaving me on the fucking line, man. Fuck.
+0xA6CB487A=~z~Nicky，这个电话不该是我打给你的。我们交了朋友，然后你现在就弃我而去了，兄弟。操。
+
+;0xAA23DCC2=100
+0xAA23DCC2=100
+
+;0xACB30D0F=100
+0xACB30D0F=100
+
+;0xADA2F916=FCB_ACT_PBR_GETCALL_BOAT_NO
+0xADA2F916=FCB_ACT_PBR_GETCALL_BOAT_NO
+
+;0xAEAAF3B1=~z~Can't do it right now man, try the subway.
+0xAEAAF3B1=~z~现在不行，兄弟，你乘地铁吧。
+
+;0xAEDFBC78=~z~Why don't we go get us a drink?
+0xAEDFBC78=~z~一起去喝一杯如何？
+
+;0xAFF8CC80=FCB_ACT_GETCALL_STRIP
+0xAFF8CC80=FCB_ACT_GETCALL_STRIP
+
+;0xB0494A6B=~z~Sure man, you might have to wait an hour, but no longer.
+0xB0494A6B=~z~当然，兄弟，你可能得等一个小时，但不会超过一个小时的。
+
+;0xB13B4828=FCB_ACT_PBR_GETCALL_DRINK_YES
+0xB13B4828=FCB_ACT_PBR_GETCALL_DRINK_YES
+
+;0xB150713A=FCB_ACT_GETCALL_REJECT
+0xB150713A=FCB_ACT_GETCALL_REJECT
+
+;0xB1A6A42F=100
+0xB1A6A42F=100
+
+;0xB327C66C=FCB_ACT_GETCALL_BOWL
+0xB327C66C=FCB_ACT_GETCALL_BOWL
+
+;0xB414ED81=FCB_ACT_PBR_GETCALL_GAMES_NO
+0xB414ED81=FCB_ACT_PBR_GETCALL_GAMES_NO
+
+;0xB4442026=100
+0xB4442026=100
+
+;0xB5D29262=~z~Alright Niko. I'll hang with someone else. Call me soon.
+0xB5D29262=~z~好吧，Niko。那我找别人陪我。有空给我打电话。
+
+;0xB5E5680B=FCB_ACT_GETCALL_STRIP_FIRST
+0xB5E5680B=FCB_ACT_GETCALL_STRIP_FIRST
+
+;0xB901ECE7=~z~Nicky, man, every winner needs a back-up. You need a wingman bitch, so don't leave Brucie in the cold... Jesus!
+0xB901ECE7=~z~Nicky，兄弟，每个赢家的背后都有一根支柱。你需要一个僚机，贱人，别让Brucie在那手脚发凉...天哪！
+
+;0xBA01A3BF=100
+0xBA01A3BF=100
+
+;0xBBBF5955=~z~Alright, Brucie. Let's go drinking. I'll pick you up in the next hour.
+0xBBBF5955=~z~好吧，Brucie。我们去喝酒吧。我一小时内来接你。
+
+;0xBC6DFD78=~z~So...you wanna to go bowling?
+0xBC6DFD78=~z~那...你想去打保龄球吗？
+
+;0xBCC747A4=~z~How about we go check out some naked bitches?
+0xBCC747A4=~z~我们去看一些裸体小贱人如何？
+
+;0xBD54967B=FCB_ACT_PBR_CALL_STRIP_YES
+0xBD54967B=FCB_ACT_PBR_CALL_STRIP_YES
+
+;0xBE576687=~z~Cool, wait there, should be there in the next hour.
+0xBE576687=~z~酷哦，你等着，我一小时内应该能到。
+
+;0xBE9DDA2E=010
+0xBE9DDA2E=010
+
+;0xC108E61A=010
+0xC108E61A=010
+
+;0xC2CE1D63=FCB_ACT_GETCALL_DRINK
+0xC2CE1D63=FCB_ACT_GETCALL_DRINK
+
+;0xC2D0DA2E=~z~Shit, Brucie. I ain't in a bowling mood right now. Some other time.
+0xC2D0DA2E=~z~我靠，Brucie，我现在没心情打保龄球。以后再说吧。
+
+;0xC3B083E2=010
+0xC3B083E2=010
+
+;0xC454C1CE=100
+0xC454C1CE=100
+
+;0xC4BA4718=~z~Nick, babe. You got to start treating me right, man. Take me to a show.
+0xC4BA4718=~z~Nick。宝贝，你得对我好点，兄弟。带我去看表演吧。
+
+;0xC73B1539=100
+0xC73B1539=100
+
+;0xC77118AF=100
+0xC77118AF=100
+
+;0xC9FE0FC6=FCB_ACT_GETCALL_SHOW
+0xC9FE0FC6=FCB_ACT_GETCALL_SHOW
+
+;0xCA2CE26F=~z~You wanna go to a gentlemen's club?
+0xCA2CE26F=~z~你想去绅士俱乐部吗？
+
+;0xCA2E4F60=FCB2_ACT_PBR_CALL_HELI_NO
+0xCA2E4F60=FCB2_ACT_PBR_CALL_HELI_NO
+
+;0xCAB6AFFD=FCB_ACT_PBR_CALL_SHOW_YES
+0xCAB6AFFD=FCB_ACT_PBR_CALL_SHOW_YES
+
+;0xCB54B5F8=~z~A chopper ride sounds good. I'll come by your place in the next hour.
+0xCB54B5F8=~z~乘直升机转转听起来不错。我一小时内来你家。
+
+;0xCC10BEDE=~z~I was just getting jacked up thinking about hanging with you. Shit! Another time, bro.
+0xCC10BEDE=~z~我真是脑子被驴踢了才会想跟你一起出去。操！下次再说吧，兄弟。
+
+;0xCCA57243=~z~You and me is depriving the women of Libery City of the hottest bodies out, baby. Let's go for a drink, man.
+0xCCA57243=~z~你我要把自由城最性感的胴体都上遍，宝贝。我们去喝一杯吧，兄弟。
+
+;0xCD468446=FCB_ACT_PBR_GETCALL_EAT_NO
+0xCD468446=FCB_ACT_PBR_GETCALL_EAT_NO
+
+;0xCEB10A71=~z~A powerboat ride could be fun, Brucie. I'll come pick you up in an hour.
+0xCEB10A71=~z~划船会很有趣的，Brucie。我一小时内来接你。
+
+;0xCED54865=FCB2_HA
+0xCED54865=FCB2_HA
+
+;0xCF633FB0=~z~I don't feel like sitting around laughing, Brucie. Maybe another time.
+0xCF633FB0=~z~我不太想去坐着傻笑，Brucie。下次再说吧。
+
+;0xD000DCED=100
+0xD000DCED=100
+
+;0xD223023F=FCB_ACT_GETCALL_HELI
+0xD223023F=FCB_ACT_GETCALL_HELI
+
+;0xD3E81A49=100
+0xD3E81A49=100
+
+;0xD45A0A76=~z~Brucie, we should get a drink. I'll get you from your place in the next hour.
+0xD45A0A76=~z~Brucie，我们该去喝一杯。我一小时内来你家接你。
+
+;0xD50B7EA3=~z~Sorry Brucie, you caught me at a bad time. I can't go bowling with you.
+0xD50B7EA3=~z~抱歉，Brucie，你打来的不是时候。我没法跟你去打保龄球。
+
+;0xD7A5B9B7=010
+0xD7A5B9B7=010
+
+;0xD7D6AF27=100
+0xD7D6AF27=100
+
+;0xD93F63C1=100
+0xD93F63C1=100
+
+;0xDA13EA08=100
+0xDA13EA08=100
+
+;0xDA3E5B39=~z~Alright, NB. If that's how you're playing it. We're gonna hang real soon though.
+0xDA3E5B39=~z~好吧，NB。如果这样的话，我们还是过几天再出去吧。
+
+;0xDA77DDBA=100
+0xDA77DDBA=100
+
+;0xDA85A05E=010
+0xDA85A05E=010
+
+;0xDAAD5644=~z~I'm not in the mood for laughs, Brucie. Another time.
+0xDAAD5644=~z~我没心情笑，Brucie。下次吧。
+
+;0xDAC22E80=FCB_ACT_GETCALL_VERYIRATE
+0xDAC22E80=FCB_ACT_GETCALL_VERYIRATE
+
+;0xDB50D7F5=FCB2_ACT_PBR_CALL_HELI_YES
+0xDB50D7F5=FCB2_ACT_PBR_CALL_HELI_YES
+
+;0xDC28CC15=010
+0xDC28CC15=010
+
+;0xDED273E9=~z~Sorry Brucie, I ain't in the mood to go airborne. Another time maybe.
+0xDED273E9=~z~抱歉，Brucie，我现在没心情上天。还是改天再说吧。
+
+;0xE07567A7=~z~Sure thing, Niko. Hit me up soon though.
+0xE07567A7=~z~没问题，Niko。不过记得给我打电话。
+
+;0xE146AF9C=~z~Powerboating, I'm into that. Wait for me at your place for an hour.
+0xE146AF9C=~z~划船，我来啊。在你家等我一小时。
+
+;0xE2FBE318=FCB2_LA
+0xE2FBE318=FCB2_LA
+
+;0xE5D7DFB6=FCB2_A_PA
+0xE5D7DFB6=FCB2_A_PA
+
+;0xE5DB87E2=~z~Let's go bowling. I'll come collect you within the hour.
+0xE5DB87E2=~z~那就去打保龄球吧。我一小时内来接你。
+
+;0xE6296B8E=100
+0xE6296B8E=100
+
+;0xE7264C53=010
+0xE7264C53=010
+
+;0xE73FEE00=010
+0xE73FEE00=010
+
+;0xE851DB2C=~z~Let's go get some food, man.
+0xE851DB2C=~z~我们去吃一顿吧，兄弟。
+
+;0xE9F02ECC=~z~NB, you wanna feel the sea air in your face, huh? Why don't we go for a powerboat ride dude?
+0xE9F02ECC=~z~NB，你想体验一下迎面吹来凉爽的风吗，哈？我们一起去划船如何？
+
+;0xEB24E0D2=~z~How about you and me do some serious carb loading, bro?
+0xEB24E0D2=~z~你我一起去摄入一些碳水如何，兄弟？
+
+;0xF03E1862=010
+0xF03E1862=010
+
+;0xF2687443=FCB_ACT_GETCALL_BOAT
+0xF2687443=FCB_ACT_GETCALL_BOAT
+
+;0xF41EA265=~z~NB, at the airport I am. Will you pick me up?
+0xF41EA265=~z~NB，现在我在机场。你能来接我吗？
+
+;0xF5572A26=FCB_ACT_GETCALL_GAMES_FIRST
+0xF5572A26=FCB_ACT_GETCALL_GAMES_FIRST
+
+;0xF6F1AA0E=~z~Bowling sounds good, Brucie, I'll see you in the next hour.
+0xF6F1AA0E=~z~保龄球听起来不错，Brucie。我们一小时内见。
+
+;0xF6F3C05F=~z~Nicky, I'm stuck out in Meadows Park. Will you come pick me up?
+0xF6F3C05F=~z~Nicky，我被困在Meadows Park了。你能来接我吗？
+
+;0xF8F53266=FCB_ACT_GETCALL_ACCEPT
+0xF8F53266=FCB_ACT_GETCALL_ACCEPT
+
+;0xFA58DF50=100
+0xFA58DF50=100
+

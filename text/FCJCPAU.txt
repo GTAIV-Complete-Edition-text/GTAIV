@@ -1,0 +1,712 @@
+﻿;注：
+;1.Beta一大堆 都没翻 无视吧
+
+[FCJCPAU]
+;0x0048D0B8=~z~Me down Willis, link me up.
+0x0048D0B8=~z~Me down Willis, link me up.
+
+;0x0093E44A=100
+0x0093E44A=100
+
+;0x040DAB0A=FCJ_ACT_CALL_HOSP_CANCEL_LOLIKE
+0x040DAB0A=FCJ_ACT_CALL_HOSP_CANCEL_LOLIKE
+
+;0x05AAC113=FCJ_ACT_CALL_HOSP_CANCEL_HILIKE
+0x05AAC113=FCJ_ACT_CALL_HOSP_CANCEL_HILIKE
+
+;0x05BB3FD7=~z~Sure - I'd like a drink. I'll be there in the hour.
+0x05BB3FD7=~z~Sure - I'd like a drink. I'll be there in the hour.
+
+;0x066263A1=100
+0x066263A1=100
+
+;0x07A02D91=~z~Yo, mek we go a' the strip club, yo?
+0x07A02D91=~z~Yo, mek we go a' the strip club, yo?
+
+;0x09527A8E=~z~Yo me need a lift man, can you pick me up a' Steinway?
+0x09527A8E=~z~Yo me need a lift man, can you pick me up a' Steinway?
+
+;0x0AF95A23=~z~Yo, me at BOABO man, come pick me up.
+0x0AF95A23=~z~Yo, me at BOABO man, come pick me up.
+
+;0x0B2C80D0=FCJ_ACT_PLJ_GETCALL_STRIP_YES
+0x0B2C80D0=FCJ_ACT_PLJ_GETCALL_STRIP_YES
+
+;0x0B6C3AC0=~z~Star, me down Meadows Park man, gimme a ride now star, link up.
+0x0B6C3AC0=~z~Star, me down Meadows Park man, gimme a ride now star, link up.
+
+;0x0D0CD76C=~z~Rasta, it's me.
+0x0D0CD76C=~z~兄弟，是我。
+
+;0x0D28B075=~z~No, Jacob - I can't get food just now.
+0x0D28B075=~z~No, Jacob - I can't get food just now.
+
+;0x0D5CD44C=FCJ_ACT_GETCALL_LIFT_AIRPORT
+0x0D5CD44C=FCJ_ACT_GETCALL_LIFT_AIRPORT
+
+;0x0E837858=~z~Yo, me breda. Long time we had no business, man. Mek we play some pool or someting.
+0x0E837858=~z~Yo, me breda. Long time we had no business, man. Mek we play some pool or someting.
+
+;0x0EA72C72=~z~Me down Firefly Projects star, just link up man, me need a ride man, pronto.
+0x0EA72C72=~z~我现在在Firefly公屋社区，尽快过来兄弟，我需要你接我，兄弟，快。
+
+;0x0F55CE69=FCJ_ACT_PLJ_GETCALL_LIFT_YES
+0x0F55CE69=FCJ_ACT_PLJ_GETCALL_LIFT_YES
+
+;0x104BBF9C=~z~Yo, me need some transportation from Rotterdam Hill man, can you pick me up?
+0x104BBF9C=~z~Yo, me need some transportation from Rotterdam Hill man, can you pick me up?
+
+;0x1117D152=~z~No, I can't go drinking just now.
+0x1117D152=~z~No, I can't go drinking just now.
+
+;0x1171251D=010
+0x1171251D=010
+
+;0x11F69CA5=100
+0x11F69CA5=100
+
+;0x13CC8F92=FCJ_ACT_GETCALL_POOL
+0x13CC8F92=FCJ_ACT_GETCALL_POOL
+
+;0x176045A7=FCJ_ACT_GETCALL_REJECT
+0x176045A7=FCJ_ACT_GETCALL_REJECT
+
+;0x19E7CC6E=FCJ_ACT_GETCALL_EAT_FIRST
+0x19E7CC6E=FCJ_ACT_GETCALL_EAT_FIRST
+
+;0x1AC072D3=~z~Niko, it's me, Jacob.
+0x1AC072D3=~z~Niko，是我，Jacob。
+
+;0x1B5FCCE3=~z~No - I can't at the moment.
+0x1B5FCCE3=~z~No - I can't at the moment.
+
+;0x1B6571B2=~z~A long time we're at work me good friend, me could go watch a show or something.
+0x1B6571B2=~z~我们工作了多久了，好朋友，该去看场表演之类的。
+
+;0x1BE40EF3=~z~Respect, me see ya soon.
+0x1BE40EF3=~z~敬你，之后见。
+
+;0x1D6E67D4=~z~Yes, I'm hungry too. I'll come over in the next hour.
+0x1D6E67D4=~z~Yes, I'm hungry too. I'll come over in the next hour.
+
+;0x1DF6CD9D=100
+0x1DF6CD9D=100
+
+;0x1E9D7E4A=010
+0x1E9D7E4A=010
+
+;0x1F494FEE=FCJ_ACT_PLJ_GETCALL_HOSP_NO
+0x1F494FEE=FCJ_ACT_PLJ_GETCALL_HOSP_NO
+
+;0x1F65780D=~z~Niko, it's a long time since when I hear from you.
+0x1F65780D=~z~Niko，好久没接到你的电话了。
+
+;0x1FCBFF82=010
+0x1FCBFF82=010
+
+;0x20B3A31B=FCJ_ACT_PLJ_GETCALL_DRINK_NO
+0x20B3A31B=FCJ_ACT_PLJ_GETCALL_DRINK_NO
+
+;0x22FB22DE=100
+0x22FB22DE=100
+
+;0x235E44FF=FCJ_ACT_CALL_SHOW
+0x235E44FF=FCJ_ACT_CALL_SHOW
+
+;0x2427BD92=100
+0x2427BD92=100
+
+;0x24B8C0ED=100
+0x24B8C0ED=100
+
+;0x2990AA4C=~z~Great Niko - see you soon.
+0x2990AA4C=~z~好的Niko－一会儿见。
+
+;0x2BB6933F=FCJ_ACT_GETCALL_LIFT_BOABO
+0x2BB6933F=FCJ_ACT_GETCALL_LIFT_BOABO
+
+;0x2E41BB8F=FCJ_ACT_GETCALL_STRIP_FIRST
+0x2E41BB8F=FCJ_ACT_GETCALL_STRIP_FIRST
+
+;0x2F8C0E46=~z~I'd love to, but I'm in the middle of something.
+0x2F8C0E46=~z~我也很想去，不过我现在有事。
+
+;0x2FADDC5F=100
+0x2FADDC5F=100
+
+;0x30651907=100
+0x30651907=100
+
+;0x32ECCD53=~z~Okay, bad boy - just call me when you have some time.
+0x32ECCD53=~z~Okay, bad boy - just call me when you have some time.
+
+;0x3317921E=100
+0x3317921E=100
+
+;0x342F7CDD=~z~Me down at Cerveza Heights man, link me up.
+0x342F7CDD=~z~Me down at Cerveza Heights man, link me up.
+
+;0x3680C42C=~z~Yeah, man. Me see you here soon.
+0x3680C42C=~z~好，兄弟。我等你过来。
+
+;0x37BE2430=~z~Wanna play a lickle bit o' pool or something, me breda?
+0x37BE2430=~z~Wanna play a lickle bit o' pool or something, me breda?
+
+;0x37F2C10A=~z~Me down at Firefly Island man, link up man, me need a ride, man.
+0x37F2C10A=~z~Me down at Firefly Island man, link up man, me need a ride, man.
+
+;0x395FA85A=100
+0x395FA85A=100
+
+;0x39D4BCA3=~z~Sorry, I've got some serious shit on just now, Jacob. I can't help just now.
+0x39D4BCA3=~z~抱歉，我现在有点麻烦事要处理，Jacob。现在没法帮你。
+
+;0x39F312F2=~z~Me need some transportation from Rotterdam Hill, can you pick me up?
+0x39F312F2=~z~Me need some transportation from Rotterdam Hill, can you pick me up?
+
+;0x3BDADBBB=~z~Star, me down at South Slopes man, yo link up star. Me need a ride man, me need a ride.
+0x3BDADBBB=~z~Star, me down at South Slopes man, yo link up star. Me need a ride man, me need a ride.
+
+;0x3C61E03D=~z~No problem, man. Hit me up when you're free.
+0x3C61E03D=~z~没问题，兄弟。等你有空了再打给我。
+
+;0x3D4BCF04=100
+0x3D4BCF04=100
+
+;0x3D4EA4D9=100
+0x3D4EA4D9=100
+
+;0x402DC49B=~z~Yo, me need a lift from BOABO.
+0x402DC49B=~z~Yo, me need a lift from BOABO.
+
+;0x43885C47=010
+0x43885C47=010
+
+;0x46266377=~z~Me check the man here.
+0x46266377=~z~我等你来。
+
+;0x46628A54=100
+0x46628A54=100
+
+;0x46B106BA=FCJ_ACT_GETCALL_LIFT_FIREFLY_ISLANDS
+0x46B106BA=FCJ_ACT_GETCALL_LIFT_FIREFLY_ISLANDS
+
+;0x479B5830=~z~Sorry, Jacob - I'm kind of busy - you'll have to make your own way home.
+0x479B5830=~z~抱歉，Jacob，我有点忙，你得自己回去了。
+
+;0x48DCC228=FCJ_ACT_PLJ_GETCALL_DARTS_NO
+0x48DCC228=FCJ_ACT_PLJ_GETCALL_DARTS_NO
+
+;0x4A0148B6=~z~You wanna play some pool?
+0x4A0148B6=~z~你想来打局台球吗？
+
+;0x4A4965B7=~z~Star, me down Firefly Island man, link up man, me need a ride man, link up star, link up.
+0x4A4965B7=~z~Star, me down Firefly Island man, link up man, me need a ride man, link up star, link up.
+
+;0x4B0CBA23=100
+0x4B0CBA23=100
+
+;0x4C4139C1=FCJ_ACT_GETCALL_LIFT_SOUTH_SLOPES
+0x4C4139C1=FCJ_ACT_GETCALL_LIFT_SOUTH_SLOPES
+
+;0x4CC85E6E=~z~No. I can't do darts just now.
+0x4CC85E6E=~z~No. I can't do darts just now.
+
+;0x4D858342=~z~Yeah, I'll be there within the hour, Jacob.
+0x4D858342=~z~好的，我一小时内就到，Jacob。
+
+;0x4DBB552E=FCJ_ACT_GETCALL_SHOW_FIRST
+0x4DBB552E=FCJ_ACT_GETCALL_SHOW_FIRST
+
+;0x4EBD3B1D=FCJ_ACT_GETCALL_HOSP_REJ_LOLIKE
+0x4EBD3B1D=FCJ_ACT_GETCALL_HOSP_REJ_LOLIKE
+
+;0x4ECC15A7=~z~Pool? Yeah, sounds good. And i've got nothing serious going on - I'll head over to your place.
+0x4ECC15A7=~z~台球？好啊，这主意不错。刚好我也没什么要紧事，我这就来接你。
+
+;0x4ECF1421=100
+0x4ECF1421=100
+
+;0x52E41E00=FCJ_ACT_GETCALL_LIFT_EAST_ISLAND_CITY
+0x52E41E00=FCJ_ACT_GETCALL_LIFT_EAST_ISLAND_CITY
+
+;0x544F9E0B=100
+0x544F9E0B=100
+
+;0x55694118=100
+0x55694118=100
+
+;0x59A2F823=~z~Not right now, Jacob.
+0x59A2F823=~z~现在不行，Jacob。
+
+;0x5A8ECD0C=FCJ_ACT_GETCALL_HOSP_REJ_HILIKE
+0x5A8ECD0C=FCJ_ACT_GETCALL_HOSP_REJ_HILIKE
+
+;0x5C9B0B20=~z~Yo, all we do is business, yo? Mek we just go a the strip club or something.
+0x5C9B0B20=~z~Yo, all we do is business, yo? Mek we just go a the strip club or something.
+
+;0x5E52EF77=~z~Yo, star, me down Hove Beach man, me need a ride man, link up star, link up.
+0x5E52EF77=~z~Yo, star, me down Hove Beach man, me need a ride man, link up star, link up.
+
+;0x5EC99AD4=FCJ_ACT_PLJ_CALL_HOSP_CANCEL
+0x5EC99AD4=FCJ_ACT_PLJ_CALL_HOSP_CANCEL
+
+;0x601E384B=~z~Yes, why not - I'm on my way over.
+0x601E384B=~z~Yes, why not - I'm on my way over.
+
+;0x610A033F=FCJ_ACT_PLJ_GETCALL_POOL_YES
+0x610A033F=FCJ_ACT_PLJ_GETCALL_POOL_YES
+
+;0x628E7F03=100
+0x628E7F03=100
+
+;0x62E6910E=100
+0x62E6910E=100
+
+;0x65E75C31=~z~Let's go play some darts.
+0x65E75C31=~z~我们去玩把飞镖吧。
+
+;0x666DCF0B=100
+0x666DCF0B=100
+
+;0x666F22F0=100
+0x666F22F0=100
+
+;0x688A5F41=FCJ_ACT_PLJ_GETCALL_STRIP_NO
+0x688A5F41=FCJ_ACT_PLJ_GETCALL_STRIP_NO
+
+;0x6BF370CC=~z~Yo, can you pick me up from the airport?
+0x6BF370CC=~z~Yo, can you pick me up from the airport?
+
+;0x6C22F69D=~z~Yo, you wanna go down the strip club, Mr. Mention?
+0x6C22F69D=~z~哟，想去脱衣舞俱乐部吗，常提起先生？
+
+;0x6CF1E3AD=~z~Star, me bored y'know. You wanna go for a drink?
+0x6CF1E3AD=~z~Star, me bored y'know. You wanna go for a drink?
+
+;0x6D5303A3=100
+0x6D5303A3=100
+
+;0x6DB449B7=100
+0x6DB449B7=100
+
+;0x6DC614D6=FCJ_ACT_PLJ_GETCALL_HOSP_YES
+0x6DC614D6=FCJ_ACT_PLJ_GETCALL_HOSP_YES
+
+;0x6FBDED4C=100
+0x6FBDED4C=100
+
+;0x6FECE1A3=010
+0x6FECE1A3=010
+
+;0x7302E2C1=FCJ_ACT_GETCALL_LIFT_HOVE_BEACH
+0x7302E2C1=FCJ_ACT_GETCALL_LIFT_HOVE_BEACH
+
+;0x7369A852=~z~Yo star, me Downtown man, can come pick me up.
+0x7369A852=~z~Yo star, me Downtown man, can come pick me up.
+
+;0x7435F8CE=~z~Mek we go play some darts?
+0x7435F8CE=~z~Mek we go play some darts?
+
+;0x767A3865=100
+0x767A3865=100
+
+;0x76B34ABB=010
+0x76B34ABB=010
+
+;0x77E71482=FCJ_ACT_PLJ_GETCALL_POOL_NO
+0x77E71482=FCJ_ACT_PLJ_GETCALL_POOL_NO
+
+;0x7866EEA9=FCJ_ACT_GETCALL_LIFT_MEADOWS_HILLS
+0x7866EEA9=FCJ_ACT_GETCALL_LIFT_MEADOWS_HILLS
+
+;0x7AE19851=FCJ_ACT_PLJ_GETCALL_DARTS_YES
+0x7AE19851=FCJ_ACT_PLJ_GETCALL_DARTS_YES
+
+;0x7B3B5CCA=100
+0x7B3B5CCA=100
+
+;0x7ECDAA91=~z~Absolutely. I'm on my way.
+0x7ECDAA91=~z~Absolutely. I'm on my way.
+
+;0x8105CBBD=~z~I can't play pool just now, man - I got some shit to deal with.
+0x8105CBBD=~z~I can't play pool just now, man - I got some shit to deal with.
+
+;0x81678783=FCJ_ACT_GETCALL_IRATE
+0x81678783=FCJ_ACT_GETCALL_IRATE
+
+;0x831EBAAC=~z~Yes, definitely. I will be there in the next hour.
+0x831EBAAC=~z~好啊，当然啦。我一小时内到。
+
+;0x833231E6=~z~Jacob, sorry, man, something serious has come up. I can't make it to the hospital.
+0x833231E6=~z~Jacob, sorry, man, something serious has come up. I can't make it to the hospital.
+
+;0x83820E38=010
+0x83820E38=010
+
+;0x86C1C709=~z~Yo star, me there at Outlook Park man, can you link me up man? Me need a ride.
+0x86C1C709=~z~Yo star, me there at Outlook Park man, can you link me up man? Me need a ride.
+
+;0x87D5737F=~z~Niko, me hungry, man. You wanna get something fe eat?
+0x87D5737F=~z~Niko, me hungry, man. You wanna get something fe eat?
+
+;0x880EF796=~z~It's alright, man. Just hit me up when you're free.
+0x880EF796=~z~也没事，兄弟。等你有空了就打给我。
+
+;0x89BEA086=FCJ_ACT_GETCALL_VERYIRATE
+0x89BEA086=FCJ_ACT_GETCALL_VERYIRATE
+
+;0x8A6CB65C=100
+0x8A6CB65C=100
+
+;0x8B5DC58D=FCJ_ACT_GETCALL_DRINK_FIRST
+0x8B5DC58D=FCJ_ACT_GETCALL_DRINK_FIRST
+
+;0x8B92CA10=~z~Sorry, Jacob - I'm busy right now. I can't at the moment.
+0x8B92CA10=~z~抱歉，Jacob，我现在很忙。没法子来。
+
+;0x8BB8E123=~z~No Jacob, I can't just now.
+0x8BB8E123=~z~不了，Jacob，我现在没空。
+
+;0x8F7E7216=~z~Yeah sure - I'll pick you up in the next sixty minutes.
+0x8F7E7216=~z~好啊，当然－我会在60分钟内来接你的。
+
+;0x94BEAA9B=~z~Why not? I'm bored as hell. I'll come over in the next hour.
+0x94BEAA9B=~z~Why not? I'm bored as hell. I'll come over in the next hour.
+
+;0x94E1B711=~z~What? You too busy to help a friend?
+0x94E1B711=~z~What? You too busy to help a friend?
+
+;0x9505EE10=010
+0x9505EE10=010
+
+;0x95DF4529=~z~Yo, Niko. Them have let me out of the hospital. Can you pick me up?
+0x95DF4529=~z~哟，Niko。他们同意我出院了，你能来接我吗？
+
+;0x988CA77B=100
+0x988CA77B=100
+
+;0x98C4AE03=FCJ_ACT_GETCALL_ACCEPT
+0x98C4AE03=FCJ_ACT_GETCALL_ACCEPT
+
+;0x993E494D=FCJ_ACT_PLJ_GETCALL_SHOW_YES
+0x993E494D=FCJ_ACT_PLJ_GETCALL_SHOW_YES
+
+;0x99FA9A38=~z~Let's have a drink now, star.
+0x99FA9A38=~z~一起去喝一杯吧，兄弟。
+
+;0x9CBCF12F=010
+0x9CBCF12F=010
+
+;0x9CE6734F=010
+0x9CE6734F=010
+
+;0x9DCE6D86=FCJ_ACT_GETCALL_GREET
+0x9DCE6D86=FCJ_ACT_GETCALL_GREET
+
+;0x9DFDB7F5=010
+0x9DFDB7F5=010
+
+;0x9E096EFD=~z~Sorry, man - I can't do that just now.
+0x9E096EFD=~z~Sorry, man - I can't do that just now.
+
+;0xA1CD4781=FCJ_ACT_GETCALL_HOSP_REJ_MEDLIKE
+0xA1CD4781=FCJ_ACT_GETCALL_HOSP_REJ_MEDLIKE
+
+;0xA2FB5393=~z~A show? Yeah, why not? I'll come over and pick you up within the hour.
+0xA2FB5393=~z~A show? Yeah, why not? I'll come over and pick you up within the hour.
+
+;0xA423E1B2=~z~Yo, Niko, I'm coming out today, man. Can you pick me up at the hospital?
+0xA423E1B2=~z~哟，Niko，今天我出院，兄弟。你能来医院接我吗？
+
+;0xA6A74E6C=~z~Sure - I'll come over in the next hour.
+0xA6A74E6C=~z~当然，我一小时内就到。
+
+;0xAB74984C=~z~Me down at East Hook, star, me need a ride, man. Can ya link me up?
+0xAB74984C=~z~Me down at East Hook, star, me need a ride, man. Can ya link me up?
+
+;0xAB79DBDE=100
+0xAB79DBDE=100
+
+;0xAC393EB5=~z~Let's go for a drink.
+0xAC393EB5=~z~Let's go for a drink.
+
+;0xACDD9104=FCJ_ACT_GETCALL_DARTS
+0xACDD9104=FCJ_ACT_GETCALL_DARTS
+
+;0xAD3E0D7C=~z~Niko, can you pick me up a' me house man, me need a lift?
+0xAD3E0D7C=~z~Niko, can you pick me up a' me house man, me need a lift?
+
+;0xAD9909E0=~z~Yo, Niko, me vexed when me nuh hear from you.
+0xAD9909E0=~z~Yo, Niko, me vexed when me nuh hear from you.
+
+;0xAE57BE7D=FCJ_ACT_GETCALL_EAT
+0xAE57BE7D=FCJ_ACT_GETCALL_EAT
+
+;0xAF200746=100
+0xAF200746=100
+
+;0xAFD95EAD=FCJ_ACT_GETCALL_LIFT_MEADOWS_PARK
+0xAFD95EAD=FCJ_ACT_GETCALL_LIFT_MEADOWS_PARK
+
+;0xB0E4496C=~z~You got time for some food?
+0xB0E4496C=~z~You got time for some food?
+
+;0xB2B4A6CC=~z~Yo, star, me down East Hook, man. Link up, star, me need a ride.
+0xB2B4A6CC=~z~Yo, star, me down East Hook, man. Link up, star, me need a ride.
+
+;0xB2C2243F=100
+0xB2C2243F=100
+
+;0xB3831D7B=100
+0xB3831D7B=100
+
+;0xB4075FCF=010
+0xB4075FCF=010
+
+;0xB4E66A9C=100
+0xB4E66A9C=100
+
+;0xB5512A9D=~z~Yo, thanks, me breda.
+0xB5512A9D=~z~哟，谢了，兄弟。
+
+;0xB5E3E762=FCJ_ACT_GETCALL_LIFT_HOME
+0xB5E3E762=FCJ_ACT_GETCALL_LIFT_HOME
+
+;0xB5F3293A=~z~Whappen rasta?
+0xB5F3293A=~z~你好吗好兄弟？
+
+;0xB62D21A5=010
+0xB62D21A5=010
+
+;0xB679615F=~z~You wan' go see a show?
+0xB679615F=~z~You wan' go see a show?
+
+;0xB72704E1=FCJ_ACT_GETCALL_LIFT_DOWNTOWN
+0xB72704E1=FCJ_ACT_GETCALL_LIFT_DOWNTOWN
+
+;0xB76FFE01=~z~Star, yeah, me down Firefly Projects, man, link up star, me need a ride.
+0xB76FFE01=~z~Star, yeah, me down Firefly Projects, man, link up star, me need a ride.
+
+;0xB7749D8B=~z~Whappen to you, rasta? Are we spar today?
+0xB7749D8B=~z~Whappen to you, rasta? Are we spar today?
+
+;0xB89AD041=FCJ_ACT_PLJ_GETCALL_EAT_NO
+0xB89AD041=FCJ_ACT_PLJ_GETCALL_EAT_NO
+
+;0xB8F99802=FCJ_ACT_GETCALL_DARTS_FIRST
+0xB8F99802=FCJ_ACT_GETCALL_DARTS_FIRST
+
+;0xBA5EB18E=FCJ_ACT_PLJ_GETCALL_SHOW_NO
+0xBA5EB18E=FCJ_ACT_PLJ_GETCALL_SHOW_NO
+
+;0xBB28F0CC=FCJ_ACT_GETCALL_LIFT_FIREFLY_PROJECTS
+0xBB28F0CC=FCJ_ACT_GETCALL_LIFT_FIREFLY_PROJECTS
+
+;0xBB950BAA=~z~Yo, me down at Cerveza Heights man, link me up.
+0xBB950BAA=~z~Yo, me down at Cerveza Heights man, link me up.
+
+;0xBD0E5E24=~z~Yo star, wha'gwan? Yeah, me down South Slopes man, yo, link up star, me need a ride.
+0xBD0E5E24=~z~Yo star, wha'gwan? Yeah, me down South Slopes man, yo, link up star, me need a ride.
+
+;0xC0B196AD=~z~Yo, me down at Beechwood, man. Link up, star, me need a ride.
+0xC0B196AD=~z~Yo, me down at Beechwood, man. Link up, star, me need a ride.
+
+;0xC310C355=FCJ_ACT_GETCALL_LIFT_CERVESA_HEIGHTS
+0xC310C355=FCJ_ACT_GETCALL_LIFT_CERVESA_HEIGHTS
+
+;0xC34A2D71=090
+0xC34A2D71=090
+
+;0xC595AB16=~z~I can't just now.
+0xC595AB16=~z~我现在来不了。
+
+;0xC63A878A=FCJ_ACT_CALL_HOSP_CANCEL_MEDLIKE
+0xC63A878A=FCJ_ACT_CALL_HOSP_CANCEL_MEDLIKE
+
+;0xC68DAEA4=FCJ_ACT_GETCALL_STRIP
+0xC68DAEA4=FCJ_ACT_GETCALL_STRIP
+
+;0xC6EA19E6=~z~Sure Jacob - I'm on my way - be there in an hour.
+0xC6EA19E6=~z~当然，Jacob，我这就来。一小时内到。
+
+;0xC717CE2A=~z~One love, rasta.
+0xC717CE2A=~z~再见，兄弟。
+
+;0xC7387614=~z~Yo, you want get some food?
+0xC7387614=~z~Yo, you want get some food?
+
+;0xC893C427=~z~Niko, can you pick me up in my yard man? Me need a lift.
+0xC893C427=~z~Niko, can you pick me up in my yard man? Me need a lift.
+
+;0xC90CD246=~z~Sorry man, I can't do a show right now - I've got a problem I've got to deal with.
+0xC90CD246=~z~Sorry man, I can't do a show right now - I've got a problem I've got to deal with.
+
+;0xCBA644F5=100
+0xCBA644F5=100
+
+;0xCD4CB564=FCJ_ACT_PLJ_GETCALL_LIFT_NO
+0xCD4CB564=FCJ_ACT_PLJ_GETCALL_LIFT_NO
+
+;0xCE963276=~z~Yo me down a' Beechwood City, man, come pick me up.
+0xCE963276=~z~Yo me down a' Beechwood City, man, come pick me up.
+
+;0xCF61E1EE=FCJ_ACT_PLJ_GETCALL_EAT_YES
+0xCF61E1EE=FCJ_ACT_PLJ_GETCALL_EAT_YES
+
+;0xD02B61D4=~z~Yo star, me Downtown star, me need a ride.
+0xD02B61D4=~z~Yo star, me Downtown star, me need a ride.
+
+;0xD11F2675=~z~Me down a' East Island City star, link up right pronto.
+0xD11F2675=~z~Me down a' East Island City star, link up right pronto.
+
+;0xD169DB0C=100
+0xD169DB0C=100
+
+;0xD1B0FDD0=~z~No problem, man. Me find someone else.
+0xD1B0FDD0=~z~没问题，兄弟。我会找别人的。
+
+;0xD2DF77CB=~z~No problems, man. Me mek meself get home.
+0xD2DF77CB=~z~No problems, man. Me mek meself get home.
+
+;0xD52BD460=~z~Me need a lift from Meadow Hills, come pick me up.
+0xD52BD460=~z~Me need a lift from Meadow Hills, come pick me up.
+
+;0xD67912D6=FCJ_ACT_GETCALL_POOL_FIRST
+0xD67912D6=FCJ_ACT_GETCALL_POOL_FIRST
+
+;0xD736201B=100
+0xD736201B=100
+
+;0xD7F94FDD=~z~I'd enjoy that but I'm in the middle of something.
+0xD7F94FDD=~z~我是很想来，但是我现在有点忙。
+
+;0xD842BE25=~z~Sure I'll come over and pick you up.
+0xD842BE25=~z~好的，我肯定会来接你的。
+
+;0xD88FCCE8=FCJ_ACT_GETCALL_HOSP_ASK
+0xD88FCCE8=FCJ_ACT_GETCALL_HOSP_ASK
+
+;0xD89BBD49=~z~Okay, no problem. I'll be there in an hour.
+0xD89BBD49=~z~好的，没问题，我一小时内就来。
+
+;0xDB4F76CB=~z~No, Jacob, I can't do a show just now.
+0xDB4F76CB=~z~No, Jacob, I can't do a show just now.
+
+;0xDC32B86B=FCJ_ACT_GETCALL_LIFT_OUTLOOK_PARK
+0xDC32B86B=FCJ_ACT_GETCALL_LIFT_OUTLOOK_PARK
+
+;0xDCAA0C70=~z~Darts? Sure. I'll pick you up in the next hour.
+0xDCAA0C70=~z~Darts? Sure. I'll pick you up in the next hour.
+
+;0xDD7D148B=~z~Yo, wa mek you such a selfish bloodclot, Niko?
+0xDD7D148B=~z~Yo, wa mek you such a selfish bloodclot, Niko?
+
+;0xDDA0569E=FCJ_ACT_GETCALL_LIFT_EAST_HOOK
+0xDDA0569E=FCJ_ACT_GETCALL_LIFT_EAST_HOOK
+
+;0xDDE5EECB=~z~Niko, me breda, me need a lift man, can you pick me up a' me house?
+0xDDE5EECB=~z~Niko，兄弟，我需要搭个车，兄弟。你能来我家接我吗？
+
+;0xDDF25FC5=~z~Yo, me need a lift from Meadows Park.
+0xDDF25FC5=~z~哟，我需要你来Meadows Park接我。
+
+;0xDEF9F778=~z~Yo star, wha'gwan, man? Me there at Outlook Park, man. Me need a ride yo.
+0xDEF9F778=~z~Yo star, wha'gwan, man? Me there at Outlook Park, man. Me need a ride yo.
+
+;0xDEFE2577=~z~Yeah man, no problem, man - just call me when you're free.
+0xDEFE2577=~z~行兄弟，没问题，兄弟－等你有空了再打给我。
+
+;0xDF306A25=FCJ_ACT_GETCALL_DRINK
+0xDF306A25=FCJ_ACT_GETCALL_DRINK
+
+;0xE3B54BA1=~z~Me down a' East Island City man, just pick me up, seen?
+0xE3B54BA1=~z~Me down a' East Island City man, just pick me up, seen?
+
+;0xE43A4FC9=010
+0xE43A4FC9=010
+
+;0xE45B72BF=~z~Yo, I'm at Meadow Hills, me need a link man, ride up.
+0xE45B72BF=~z~Yo, I'm at Meadow Hills, me need a link man, ride up.
+
+;0xE9619016=~z~Wha'gwan, me breda? It's me, Jacob.
+0xE9619016=~z~怎么了，兄弟？是我，Jacob。
+
+;0xE97CB9AF=010
+0xE97CB9AF=010
+
+;0xEA7E7725=FCJ_ACT_GETCALL_LIFT_STEINWAY
+0xEA7E7725=FCJ_ACT_GETCALL_LIFT_STEINWAY
+
+;0xEA8878C3=100
+0xEA8878C3=100
+
+;0xEE2B1599=~z~What mek it so long me no hear from you?
+0xEE2B1599=~z~What mek it so long me no hear from you?
+
+;0xEE83AD2E=~z~Me down Willis, come pick me up.
+0xEE83AD2E=~z~Me down Willis, come pick me up.
+
+;0xF0E7CA00=~z~Sure man - I'm on my way.
+0xF0E7CA00=~z~当然，兄弟，我这就来。
+
+;0xF0F20564=FCJ_ACT_GETCALL_LIFT_WILLIS
+0xF0F20564=FCJ_ACT_GETCALL_LIFT_WILLIS
+
+;0xF1A90947=FCJ_ACT_GETCALL_LIFT_ROTTERDAM_HILL
+0xF1A90947=FCJ_ACT_GETCALL_LIFT_ROTTERDAM_HILL
+
+;0xF1A957C2=~z~Yes, me good friend, lets go a show.
+0xF1A957C2=~z~Yes, me good friend, lets go a show.
+
+;0xF2536E25=~z~Ah gwan about your bloodclot business then, boy.
+0xF2536E25=~z~Ah gwan about your bloodclot business then, boy.
+
+;0xF3DB22A9=FCJ_ACT_GETCALL_LIFT_BEACHWOOD_HILL
+0xF3DB22A9=FCJ_ACT_GETCALL_LIFT_BEACHWOOD_HILL
+
+;0xF64DB603=~z~Yo. Whappen to my friend, Niko?
+0xF64DB603=~z~哟，我朋友这是怎么了，Niko？
+
+;0xF67693DA=~z~Yo, star. You wanna play some darts or something?
+0xF67693DA=~z~哟，兄弟，你想来把飞镖啥的吗？
+
+;0xF6B6A06C=~z~Niko, me breda, me need a favor man, can you pick me up a' me house?
+0xF6B6A06C=~z~Niko, me breda, me need a favor man, can you pick me up a' me house?
+
+;0xF718C89F=~z~No problem, man. Me find another way.
+0xF718C89F=~z~没问题，兄弟。我会去找别人的。
+
+;0xF76DB3DC=010
+0xF76DB3DC=010
+
+;0xF7A35730=~z~Star, me down Steinway man, me need a ride man, link up.
+0xF7A35730=~z~兄弟，我在Steinway，需要搭个车，兄弟，快来。
+
+;0xF7F0AB76=100
+0xF7F0AB76=100
+
+;0xF91AB87A=100
+0xF91AB87A=100
+
+;0xF96E861B=100
+0xF96E861B=100
+
+;0xFA8037A6=FCJ_ACT_GETCALL_HOSP_ACCEPT
+0xFA8037A6=FCJ_ACT_GETCALL_HOSP_ACCEPT
+
+;0xFC602BE3=~z~Star, me down a' Hove Beach man, link up man, me need a ride man, link up.
+0xFC602BE3=~z~Star, me down a' Hove Beach man, link up man, me need a ride man, link up.
+
+;0xFCA2122B=~z~Yo, I need a lift from the airport.
+0xFCA2122B=~z~Yo, I need a lift from the airport.
+
+;0xFD8B383A=100
+0xFD8B383A=100
+
+;0xFE33FA03=100
+0xFE33FA03=100
+
+;0xFE554DA3=FCJ_ACT_PLJ_GETCALL_DRINK_YES
+0xFE554DA3=FCJ_ACT_PLJ_GETCALL_DRINK_YES
+

@@ -1,0 +1,38 @@
+﻿[FIN1B]
+;0x0E7B4A6E=~s~Get off the ship.
+0x0E7B4A6E=~s~下船。
+
+;0x410A2F8B=~s~Go to the cargo hold and get revenge on ~r~Dimitri.
+0x410A2F8B=~s~进入货舱，向~r~Dimitri~s~复仇。
+
+;0x599CE0B0=~s~Get back on land.
+0x599CE0B0=~s~回到岸上。
+
+;0x5B7F387E=~s~Finish off ~r~Dimitri.
+0x5B7F387E=~s~终结~r~Dimitri。
+
+;0x65B27D83=~s~Go to the cargo hold's ~y~exit.~s~
+0x65B27D83=~s~前往货舱的~y~出口。~s~
+
+;0x6BB817F8=~s~Press ~INPUT_PICKUP~ to operate the controls.
+0x6BB817F8=~s~按~INPUT_PICKUP~操作控制杆。
+
+;0x889199CF=~s~The doors to the cargo hold are controlled from the bridge.
+0x889199CF=~s~货舱舱门的开闭由舰桥控制。
+
+;0x99DA3C60=~s~Find a way to get to Dimitri, and get your revenge.
+0x99DA3C60=~s~设法接近Dimitri，完成你的复仇。
+
+;0xA406757E=~s~Operate the ~y~controls ~s~to open the cargo hold.
+0xA406757E=~s~操作~y~控制杆~s~打开货舱舱门。
+
+;0xBE5681DB=~s~Go to the ~y~bridge.
+0xBE5681DB=~s~攻入~y~舰桥。
+
+;0xDD0BC2BA=~s~The Russians are loading heroin onto the cargo ship.
+0xDD0BC2BA=~s~俄国人正在将海洛因运上货船。
+
+;0xEEB36609=~s~Dimitri is supervising the operation in the ship's hold.
+0xEEB36609=~s~Dimitri在下层货舱监督装货。
+
+ 
