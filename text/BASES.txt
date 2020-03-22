@@ -1,0 +1,55 @@
+﻿[BASES]
+;0x020FF742=Lost Turf
+0x020FF742=已失去的地盘
+
+;0x249073B8=Take over the opposition's ~COL_NET_1~turf,~s~ be careful to protect your ~COL_NET_2~own~s~ while you're at it.
+0x249073B8=占领敌方~COL_NET_1~地盘，~s~同时注意保护己方~COL_NET_2~地盘。
+
+;0x39B52D4D=Taking Turf
+0x39B52D4D=争夺中的地盘
+
+;0x3AD7C4C0=Turf ~1~% taken over.
+0x3AD7C4C0=地盘~1~%已被占领。
+
+;0x3AEE23CC=An enemy is nearby, turf cannot be taken over.
+0x3AEE23CC=附近有敌人，无法占领地盘。
+
+;0x5CD0924C=30 mins
+0x5CD0924C=30分钟
+
+;0x666EFBB6=Gained Turf
+0x666EFBB6=已占领的地盘
+
+;0x77C9C83E=20 mins
+0x77C9C83E=20分钟
+
+;0x7DD09779=Bohan
+0x7DD09779=Bohan
+
+;0x8A256CF5=10 mins
+0x8A256CF5=10分钟
+
+;0x8C7E34D4=Dukes/Broker
+0x8C7E34D4=Dukes/Broker
+
+;0x96AB8655=Duration
+0x96AB8655=持续时间
+
+;0x99264E24=Alderney
+0x99264E24=Alderney
+
+;0x9AE39C50=Location
+0x9AE39C50=地点
+
+;0xA74FEA7B=Random
+0xA74FEA7B=随机
+
+;0xABD9738A=Algonquin
+0xABD9738A=Algonquin
+
+;0xD3A87FFA=$1000
+0xD3A87FFA=$1000
+
+;0xF8FD1C92=Take over the opposition's ~COL_NET_2~turf,~s~ be careful to protect your ~COL_NET_1~own~s~ while you're at it.
+0xF8FD1C92=占领敌方~COL_NET_2~地盘，~s~同时注意保护己方~COL_NET_1~地盘。
+

@@ -1,0 +1,52 @@
+﻿[CIA2]
+;0x06C3EE2F=Your contact will send you a picture of the target. Read the message when it arrives.
+0x06C3EE2F=你的联络人将发给你目标的照片，收到短信时阅读。
+
+;0x072F52A6=~s~Press ~PAD_LB~ to leave the police computer.
+0x072F52A6=按~PAD_LB~退出警用电脑。
+
+;0x095F721E=~s~Lose your wanted level.
+0x095F721E=~s~降低你的通缉度。
+
+;0x59064E5F=~s~Go to Dimayev's ~y~hangout.
+0x59064E5F=~s~前往Dimayev的~y~所在地。
+
+;0x5E5D8F97=~s~Get a cop car.
+0x5E5D8F97=~s~找辆警车。
+
+;0x65A5208D=Press ~ACCEPT~ to mark Dimayev's hangout on the radar.
+0x65A5208D=按~ACCEPT~在小地图上标记Dimayev的所在地。
+
+;0x695B2AAD=~s~Press ~PAD_DPAD_DOWN~ to read the text of a photo message.
+0x695B2AAD=~s~按~PAD_DPAD_DOWN~阅读彩信文本。
+
+;0x78FC473B=To search the database using a photo on your phone, first select "Search Police Records".
+0x78FC473B=要用手机上的照片搜索数据库，首先请选择「搜索警方记录」。
+
+;0x7A074AFE=~s~Get in a cop car. Your contact has left one across the street from the U. L. Paper office.
+0x7A074AFE=~s~进入一辆警车，你的联系人已经在U. L. Paper办公室的对街留了一辆给你。
+
+;0x871EEA69=~s~Stop the car.
+0x871EEA69=~s~停车。
+
+;0x8A5D1663=~s~Dimayev is there with his ~r~guards.~s~ Eliminate them all.
+0x8A5D1663=~s~Dimayev和他的~r~保镖~s~在一起，消灭他们。
+
+;0x9F0E136A=Choose "Search by Photo"
+0x9F0E136A=选择「据照片搜索」
+
+;0xB1D438F6=Press ~ACCEPT~ to upload a photo.
+0xB1D438F6=按~ACCEPT~上传照片。
+
+;0xC1828F2D=~s~Press ~PAD_LB~ to access the police computer.
+0xC1828F2D=~s~按~PAD_LB~访问警用电脑。
+
+;0xCCB8F8D2=Use the police computer to locate your target.
+0xCCB8F8D2=利用警用电脑定位目标。
+
+;0xDF369DD5=Check the photo message your contact has just sent you.
+0xDF369DD5=查看你的联系人发送给你的彩信。
+
+;0xEA07F243=~s~Access the police computer.
+0xEA07F243=~s~访问警用电脑。
+

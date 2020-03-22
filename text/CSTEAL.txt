@@ -1,0 +1,112 @@
+﻿[CSTEAL]
+;0x05EAA663=Location
+0x05EAA663=地点
+
+;0x138D813F=Get the car to the ~y~dropoff point.
+0x138D813F=让汽车到达~y~投放点。
+
+;0x25FC7849=All of the parking spaces were successfully filled.
+0x25FC7849=所有的停车位都已成功填满。
+
+;0x2F1DBDAE=Car Type
+0x2F1DBDAE=汽车类型
+
+;0x2FB91684=Off
+0x2FB91684=关闭
+
+;0x32488833=You have destroyed the vehicle.
+0x32488833=你毁了你的载具。
+
+;0x35B4E2A6=Close
+0x35B4E2A6=近
+
+;0x3D8BB229=Hard
+0x3D8BB229=难
+
+;0x3E85C79C=Delivered Car
+0x3E85C79C=交付的汽车
+
+;0x4896B632=Get the car to the final ~y~dropoff point.
+0x4896B632=让车去到最后的~y~投放点。
+
+;0x57C42880=10 mins
+0x57C42880=10分钟
+
+;0x58C70636=Alderney
+0x58C70636=Alderney
+
+;0x5B53EDB9=Normal
+0x5B53EDB9=普通
+
+;0x667E45F4=15 mins
+0x667E45F4=15分钟
+
+;0x6C84CCCB=Go and collect a ~g~vehicle.
+0x6C84CCCB=去收集~g~载具。
+
+;0x6D66B6EC=Car Spotted
+0x6D66B6EC=发现车
+
+;0x7297005B=Go and get the ~b~Car.
+0x7297005B=去得到~b~车。
+
+;0x7DC26F46=Go and get a ~b~vehicle.
+0x7DC26F46=去得到一辆~b~载具。
+
+;0x8754E351=Random
+0x8754E351=随机
+
+;0x8BA01A1B=Sports
+0x8BA01A1B=运动
+
+;0x8BAD121A=Car Spawning
+0x8BAD121A=生成汽车
+
+;0x9E85BFE6=Regular
+0x9E85BFE6=定期
+
+;0xA5D55D7A=A ~g~vehicle~s~ containing drugs has been spotted. Go and get it.
+0xA5D55D7A=一辆装了毒品的~g~载具~s~被发现了。去得到它。
+
+;0xB1CC8A5D=Take the car to a ~y~dropoff.
+0xB1CC8A5D=把车开到~y~投放点。
+
+;0xB989EC0A=30 mins
+0xB989EC0A=30分钟
+
+;0xC45AAB98=Car Destroyed
+0xC45AAB98=车坏了
+
+;0xC5B282A3=Far
+0xC5B282A3=远
+
+;0xD21B8CFF=A vehicle has been stolen and is being taken to a ~y~dropoff.
+0xD21B8CFF=一辆车被盗，正在被带到~y~投放点。
+
+;0xD46FC12C=Take the car to the ~y~dropoff.
+0xD46FC12C=把车带到~y~投放点。
+
+;0xDF63936D=Algonquin
+0xDF63936D=Algonquin
+
+;0xE45BEFAA=A.I. Level
+0xE45BEFAA=A.I.级别
+
+;0xEAE5384D=Duration
+0xEAE5384D=期间
+
+;0xEBE5AE91=Car Entered
+0xEBE5AE91=车辆已进入
+
+;0xF174378E=Dukes/Broker
+0xF174378E=Dukes/Broker
+
+;0xF42A113C=The target car has been destroyed.
+;0xF42A113C=目标车辆被毁了。(1.2.0.30中移除)
+
+;0xF67A4B20=A vehicle is being taken to the final ~y~dropoff.
+0xF67A4B20=一辆载具正被带到最后的~y~投放点。
+
+;0xFF15F515=Get the car stuffed with drugs to the ~y~dropoff point.
+0xFF15F515=把装满毒品的车送到~y~投放点。
+

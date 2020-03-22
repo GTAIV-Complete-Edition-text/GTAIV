@@ -1,0 +1,103 @@
+﻿[BELL3]
+;0x0187858D=~s~Stop the ~r~convoy.
+0x0187858D=~s~截停~r~车队。
+
+;0x02777C22=~r~Mission Failed. -PH-
+0x02777C22=~r~任务失败。-PH-
+
+;0x03712F95=~s~Take out the ~r~target.
+0x03712F95=~s~干掉~r~目标。
+
+;0x0922C43C=~s~Take out the ~r~target~s~ leaving the police station.
+0x0922C43C=~s~干掉正在离开警局的~r~目标。
+
+;0x0C67E7AF=Migration Control
+0x0C67E7AF=迁移管制
+
+;0x0CBD10AD=~r~A target got away.
+0x0CBD10AD=~r~一个目标逃走了。
+
+;0x1A3A630F=~s~Take out the ~r~target.
+0x1A3A630F=~s~干掉~r~目标。
+
+;0x42B8CA53=~s~Wipe out the ~r~targets~s~ making the deal.
+0x42B8CA53=~s~消灭正在交易的~r~目标。~s~
+
+;0x4315BA35=~s~Take down the ~r~targets.
+0x4315BA35=~s~干掉~r~目标。
+
+;0x43F9D17D=~s~Eliminate the ~r~target.
+0x43F9D17D=~s~消灭~r~目标。
+
+;0x5073E5C9=~s~Enter the ~y~Burger Shot.
+0x5073E5C9=~s~进入~y~Burger Shot。
+
+;0x50ACEAE3=~s~Go to the ~r~target's location.
+0x50ACEAE3=~s~前往~r~目标所在地。
+
+;0x5118EDFB=~s~Take out the ~r~targets~s~ and all their ~r~bodyguards.
+0x5118EDFB=~s~干掉~r~目标~s~与他们的所有~r~保镖。
+
+;0x5D1183AC=~s~Call Bell.
+0x5D1183AC=~s~打电话给Bell。
+
+;0x70D5AA68=~s~You've been led into an ambush. Take out the ~r~attackers.
+0x70D5AA68=~s~你中了埋伏，消灭~r~袭击者。
+
+;0x8BCE667A=Taken Out
+0x8BCE667A=下车受死
+
+;0x90B31897=~r~The target got away.
+0x90B31897=~r~目标逃走了。
+
+;0x9938DE92=~s~Chase down the ~r~target.
+0x9938DE92=~s~追击~r~目标。
+
+;0x99FCFE76=~s~The helipad is above the Booth Tunnel entrance. Take out the ~r~target~s~ before they escape.
+0x99FCFE76=~s~停机坪位于Booth隧道入口上方，在~r~目标~s~逃走前消灭他们。
+
+;0x9D710CB8=Target
+0x9D710CB8=目标
+
+;0x9E758BC8=Bailing Out for Good
+0x9E758BC8=终生保释
+
+;0xAC4FAA75=~s~Your contact will leave you weapons and body armor for each job.
+0xAC4FAA75=~s~你的联络人会为你的每份差事留下武器与防弹衣。
+
+;0xB1B23826=~s~Mission ~g~Passed.
+0xB1B23826=~s~任务~g~通过。
+
+;0xB7D73946=~s~Go back to the payphone when you want to do another hit.
+0xB7D73946=~s~想再次进行暗杀时，就回到这个公用电话亭。
+
+;0xC130D13E=Industrial Action
+0xC130D13E=工业行动
+
+;0xC718BA55=~s~Find a way to reach the ~r~target.
+0xC718BA55=~s~设法接近~r~目标。~s~
+
+;0xD1DA7291=Derelict Target
+0xD1DA7291=废弃建筑
+
+;0xE4C49869=R.U.B. Down
+0xE4C49869=富家骑手之死
+
+;0xEB48590F=~s~The ~r~target~s~ is fleeing. Take them out.
+0xEB48590F=~r~目标~s~正在逃跑，消灭他们。
+
+;0xF0262F14=Water Hazard
+0xF0262F14=水上危机
+
+;0xF25C2D77=~s~Take out them ~r~all.
+0xF25C2D77=~s~把他们~r~全部~s~消灭。
+
+;0xF75D3D9A=Dead End
+0xF75D3D9A=死路一条
+
+;0xFA384350=Hook, Line and Sinker
+0xFA384350=饵咸钩直
+
+;0xFC8A41D3=~s~Chase down and eliminate the ~r~target.
+0xFC8A41D3=~s~追击~r~目标，~s~消灭他。
+

@@ -1,0 +1,67 @@
+﻿[BELL6]
+;0x03045166=~s~Tap ~ACCEPT~ repeatedly to climb back onto the truck.
+0x03045166=~s~连按~ACCEPT~重新爬上卡车。
+
+;0x0677F79D=~s~Drive the truck to the ~y~old mansion.
+0x0677F79D=~s~将卡车开到~y~老宅。
+
+;0x0BAD25BA=~s~Make your way to the front of the truck.
+0x0BAD25BA=~s~爬到卡车前端。
+
+;0x1833A330=~s~Use ~PAD_SIXAXIS_RELOAD~ to hang on while the truck goes around corners.
+0x1833A330=~s~卡车转弯时，用~PAD_SIXAXIS_RELOAD~抓牢卡车。
+
+;0x1933CE09=~s~Tap ~INPUT_JUMP~ repeatedly to pull yourself onto the truck's roof.
+0x1933CE09=~s~连按~INPUT_JUMP~爬到卡车顶部。
+
+;0x286041DE=~s~Tap ~INPUT_JUMP~ repeatedly to climb back onto the truck.
+0x286041DE=~s~连按~INPUT_JUMP~重新爬上卡车。
+
+;0x4010E377=~s~Tap ~ACCEPT~ repeatedly to climb back onto the truck.
+0x4010E377=~s~连按~ACCEPT~重新爬上卡车。
+
+;0x56631D43=~s~Use ~PAD_LSTICK_UP~ to advance to the front of the cab.
+0x56631D43=~s~用~PAD_LSTICK_UP~前进到驾驶室前方。
+
+;0x6590BB9E=~s~Use ~PAD_LSTICK_DOWN~ to hang on while the truck goes around corners.
+0x6590BB9E=~s~卡车转弯时，用~PAD_LSTICK_DOWN~抓牢卡车。
+
+;0x79E2E442=~s~Use ~PAD_LSTICK_LEFT~ and ~PAD_LSTICK_RIGHT~ to roll left and right.
+0x79E2E442=~s~用~PAD_LSTICK_LEFT~和~PAD_LSTICK_RIGHT~左右翻滚。
+
+;0x892F3EC5=~s~Go to the ~y~alley.
+0x892F3EC5=~s~前往~y~小巷。
+
+;0x96254905=~s~The ~b~truck~s~ is escaping. Move to its rear to grab on.
+0x96254905=~b~卡车~s~正在驶离，跑到车尾扒上卡车。
+
+;0xA0E699BF=~r~You have abandoned the truck.
+0xA0E699BF=~r~你抛弃了卡车。
+
+;0xA622974E=~r~The H was destroyed.
+0xA622974E=~r~海洛因被毁了。
+
+;0xA626E908=~s~Steal the ~b~truck.
+0xA626E908=~s~窃取~b~卡车。~s~
+
+;0xBCF7EA6F=~s~Tap ~PAD_A~ repeatedly to pull yourself onto the truck's roof.
+0xBCF7EA6F=~s~连按~PAD_A~爬到卡车顶部。
+
+;0xC24161E6=~r~The truck with the H in it got away.
+0xC24161E6=~r~装有海洛因的卡车逃掉了。
+
+;0xCB85F9F0=~s~Use ~PAD_SIXAXIS_PITCH~ to advance to the front of the cab.
+0xCB85F9F0=~s~用~PAD_SIXAXIS_PITCH~前进到驾驶室前方。
+
+;0xD9A3DA29=~s~Use ~PAD_SIXAXIS_ROLL~ to roll left and right.
+0xD9A3DA29=~s~用~PAD_SIXAXIS_ROLL~左右翻滚。
+
+;0xEFDDA59C=~s~Get back in the ~b~truck.
+0xEFDDA59C=~s~回到~b~卡车~s~上。
+
+;0xF607AB8F=~s~Lose your wanted level.
+0xF607AB8F=~s~降低你的通缉度。
+
+;0xFFEA0E34=~s~Climb onto the back of the truck.
+0xFFEA0E34=~s~爬上卡车尾部。
+

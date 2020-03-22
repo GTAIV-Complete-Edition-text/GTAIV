@@ -1,0 +1,85 @@
+﻿[BRUCIE3]
+;0x05F6C3F4=~s~Go to the internet cafe.
+0x05F6C3F4=~s~前往网吧。
+
+;0x09CB8B22=~s~When ready, stand up and take out a weapon. Press ~PAD_LT~ to get up.
+0x09CB8B22=~s~准备好后就站起来掏出武器。按~PAD_LT~起身。
+
+;0x1E8F7CED=~r~You failed to lure French Tom out of hiding.
+0x1E8F7CED=~r~你没能吸引French Tom现身。
+
+;0x2BAE964B=~s~Reply positively to French Tom's email to confirm the date.
+0x2BAE964B=~s~积极回复French Tom的邮件以确认约会。
+
+;0x31F0A3AF=~s~You have sent a date request to French Tom. Log off.
+0x31F0A3AF=~s~你已向French Tom发送了约会请求。注销。
+
+;0x3DFBBAE5=~s~Allow some time for French Tom to check Lovemeet and email you his reply.
+0x3DFBBAE5=~s~耐心等待French Tom上Lovemeet看见消息后回复你的邮件。
+
+;0x41DF438C=~s~Click on the LOVEMEET link.
+0x41DF438C=~s~点击LOVEMEET的链接。
+
+;0x47F989B6=~r~You missed your date with French Tom.
+0x47F989B6=~r~你错过了和French Tom的约会。
+
+;0x50435F74=~s~French Tom hasn't arrived. Wait in the diner.
+0x50435F74=~s~French Tom还没到，在餐馆等他。
+
+;0x5257639C=~s~You have refused a date with French Tom. Log off.
+0x5257639C=~s~你拒绝了和French Tom的约会。注销。
+
+;0x53A1E711=~s~Click on the WEB icon.
+0x53A1E711=~s~点击WEB图标。
+
+;0x6230118B=~s~Lose your wanted level before meeting French Tom.
+0x6230118B=~s~在和French Tom约会之前，降低你的通缉度。
+
+;0x637540AD=~r~You abandoned the date.
+0x637540AD=~r~你放弃了约会。
+
+;0x658D0AE7=~s~Find French Tom and click the MORE button underneath his picture to view his profile.
+0x658D0AE7=~s~找到French Tom，点击他照片下方的「更多」以浏览他的资料。
+
+;0x6CD4D368=~r~French Tom got away.
+0x6CD4D368=~r~French Tom跑了。
+
+;0x72D2A492=~s~Go back to the diner and meet French Tom.
+0x72D2A492=~s~回到餐馆去见French Tom。
+
+;0x7746AE5A=~s~French Tom is registered in the male section. Click on the MALE button.
+0x7746AE5A=~s~French Tom注册的资料是男性。点击「MALE」。
+
+;0x7E8ABCD6=~s~To arrange a meeting, scroll to the bottom of the page and click on the DATE button.
+0x7E8ABCD6=~s~要安排约会，滚动到页面底部，点击「约会」。
+
+;0x8DE753D3=~s~Go to the diner and meet French Tom.
+0x8DE753D3=~s~去餐馆见French Tom。
+
+;0x8F940F52=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to scroll.
+0x8F940F52=~s~用~INPUT_MOUSE_WHEEL_UP~与~INPUT_MOUSE_WHEEL_DOWN~滚动页面。
+
+;0x91C2E346=~s~Get back on the computer and check Lovemeet for FRENCH TOM.
+0x91C2E346=~s~重新登录电脑，查看FRENCH TOM的Lovemeet。
+
+;0xA64732B7=~s~Use ~PAD_RSTICK_UP~ and ~PAD_RSTICK_DOWN~ to scroll.
+0xA64732B7=~s~用~PAD_RSTICK_UP~和~PAD_RSTICK_DOWN~滚动。
+
+;0xA97B8AFF=~s~You have a new email. Check your inbox.
+0xA97B8AFF=~s~你收到了新邮件，检查你的收件箱。
+
+;0xB3179E33=~s~French Tom is inside the diner. Look for him.
+0xB3179E33=~s~French Tom在餐馆里。寻找他。
+
+;0xCC64BABD=~s~Lose your wanted level.
+0xCC64BABD=~s~降低你的通缉度。
+
+;0xD4E561CE=~s~Take down ~r~French Tom.
+0xD4E561CE=~s~干掉~r~French Tom。
+
+;0xEEE71485=~s~When ready, stand up and take out a weapon. Press ~INPUT_PICKUP~ to get up.
+0xEEE71485=~s~准备好后就站起来掏出武器。按~INPUT_PICKUP~起身。
+
+;0xF31E9E44=~s~Use a computer to get on love-meet.net and find FRENCH TOM.
+0xF31E9E44=~s~用电脑登录love-meet.net并找到FRENCH TOM。
+

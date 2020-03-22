@@ -1,0 +1,96 @@
+﻿[DERRIC3]
+;0x0E32C8C5=~s~Block off the ~y~Booth Tunnel.
+0x0E32C8C5=~s~封堵~y~Booth隧道。
+
+;0x1AD4371E=~r~The Stockade has been destroyed.
+0x1AD4371E=~r~囚车被毁了。
+
+;0x2ED80A0F=~s~Blow up the ~r~Patriot.
+0x2ED80A0F=~s~炸掉那辆~r~Patriot。
+
+;0x34A7137D=~s~Ditch the truck in the ~y~quiet location.
+0x34A7137D=~s~找个~y~偏僻的地方~s~处理囚车。
+
+;0x37179B92=~s~Get back in the ~b~Stockade.
+0x37179B92=~s~回到~b~囚车~s~上。
+
+;0x4057B69F=~s~Mission Passed.
+0x4057B69F=~s~任务完成。
+
+;0x4080AD60=~s~Get the ~b~truck.
+0x4080AD60=~s~取得~b~卡车。
+
+;0x42FA076D=~r~Mission Failed.
+0x42FA076D=~r~任务失败。
+
+;0x4B6CC338=~s~Take Aiden to the ~y~cliffs.
+0x4B6CC338=~s~带Aiden去~y~悬崖。
+
+;0x5195508D=~s~Lose your wanted level.
+0x5195508D=~s~降低你的通缉度。
+
+;0x57EBDA06=~s~Get back in the ~b~escape car.
+0x57EBDA06=~s~回到~b~逃跑用车~s~上。
+
+;0x611DEE9A=~s~Take out the ~r~escorts.
+0x611DEE9A=~s~干掉~r~护卫。
+
+;0x66E5F7FA=~s~Get to the ~y~escape car.
+0x66E5F7FA=~s~取得~y~逃亡车。
+
+;0x67C97CF5=~s~Get back in the ~b~truck.
+0x67C97CF5=~s~进入~b~卡车。
+
+;0x720C9187=~s~Get ready to attack.
+0x720C9187=~s~准备发动攻击。
+
+;0x7D39A6CD=~s~Steal the ~b~Stockade.
+0x7D39A6CD=~s~偷走~b~囚车。
+
+;0x83D8351E=~s~Wait for ~b~Packie.
+0x83D8351E=~s~等待~b~Packie.
+
+;0x939BD391=~s~Shoot the ~g~logs~s~ off the flatbed.
+0x939BD391=~s~把~g~木材~s~打下平板车。
+
+;0x983FB1F7=~r~The flatbed has been destroyed.
+0x983FB1F7=~r~平板车被毁坏了。
+
+;0xA3D97520=~s~Kill ~r~Aiden.
+0xA3D97520=~s~杀了~r~Aiden。
+
+;0xA7E1FC1D=~s~Wait for the convoy.
+0xA7E1FC1D=~s~等待押运车队。
+
+;0xAA5F822C=~s~Move out of the Stockade's path.
+0xAA5F822C=~s~走出Stockade小径。
+
+;0xAD64DC41=~r~Packie is dead.
+0xAD64DC41=~r~Packie死了。
+
+;0xB24BE60F=~r~Aiden is dead. His body will be found.
+0xB24BE60F=~r~Aiden死了。他的尸体会被发现的。
+
+;0xC098AE9E=~s~Drive through the park to reach the cliffs.
+0xC098AE9E=~s~驾车穿过公园到达悬崖。
+
+;0xC0BE82F4=~r~Aiden has escaped.
+0xC0BE82F4=~r~Aiden跑掉了。
+
+;0xC4A5CEE7=~s~Park the truck across the two markers to block the tunnel.
+0xC4A5CEE7=~s~将卡车横停在两个标记之间以封堵隧道。
+
+;0xD5865879=~s~Go and talk to ~b~Packie.
+0xD5865879=~s~去跟~b~Packie~s~交谈。
+
+;0xDC2C65C5=~s~You are leaving ~b~Packie~s~ behind.
+0xDC2C65C5=~s~你要把~b~Packie~s~落下了。
+
+;0xE6604E37=~r~The escape car has been destroyed.
+0xE6604E37=~r~逃亡车已经被毁坏。
+
+;0xF36C1338=~s~Pick up the ~g~rocket launcher.
+0xF36C1338=~s~拿起~g~火箭发射器。
+
+;0xF3C1E8FA=~r~You have abandoned Packie.
+0xF3C1E8FA=~r~你抛弃了Packie。
