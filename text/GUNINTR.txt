@@ -1,0 +1,115 @@
+﻿[GUNINTR]
+;0x0841107C=Use ~PAD_RSTICK_DOWN~ while locked onto a target to focus your aim on his leg.
+0x0841107C=锁定目标时，用~PAD_RSTICK_DOWN~瞄准目标腿部。
+
+;0x146149AC=Use ~PAD_RSTICK_UP~ while locked onto a target to focus your aim on his leg.
+0x146149AC=锁定目标时，用~PAD_RSTICK_UP~瞄准目标腿部。
+
+;0x190F2703=~r~You left Dimitri in the shop.~s~
+0x190F2703=~r~你把Dimitri落在了店里。~s~
+
+;0x22F366D0=With ~INPUT_AIM~ held down halfway, use ~PAD_RSTICK_ALL~ to ~h~free aim.
+0x22F366D0=半按~INPUT_AIM~时，使用~PAD_RSTICK_ALL~~h~自由瞄准
+
+;0x266EF18D=Take Dimitri to the ~y~sex shop~s~ on Delaware Avenue.
+0x266EF18D=带Dimitri去Delaware大道上的~y~成人用品店。
+
+;0x28237882=Go get ~b~Dimitri~s~ and bring him back to Faustin's house.
+0x28237882=接上~b~Dimitri，~s~送他回Faustin家。
+
+;0x2A22DC6C=~s~Lose your wanted level.
+0x2A22DC6C=~s~降低你的通缉度。
+
+;0x2DBB505B=~r~The porn shop guys were injured.~s~
+0x2DBB505B=~r~A片店的人受伤了。~s~
+
+;0x344DD291=Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to ~h~aim.
+0x344DD291=使用~INPUT_AIM~和~PAD_RSTICK_ALL~~h~瞄准。
+
+;0x3B0423F3=Follow ~b~Dimitri~s~ out of the shop.
+0x3B0423F3=跟随~b~Dimitri~s~离开商店。
+
+;0x51975F72=Use ~PAD_RSTICK_ALL~ while aiming to focus your aim on his leg.
+0x51975F72=瞄准时用~PAD_RSTICK_ALL~瞄准目标腿部。
+
+;0x58785130=Don't leave ~b~Dimitri~s~ in the shop.
+0x58785130=别把~b~Dimitri~s~落在店里。
+
+;0x672656FF=~s~You left ~b~Dimitri~s~ behind.
+0x672656FF=~s~你丢下了~b~Dimitri。~s~
+
+;0x6743F74E=Injure the Joseph's associates, not Joseph.
+0x6743F74E=伤害Joseph的同伙，而不是Joseph。
+
+;0x7252BB15=~s~Lose your wanted level.
+0x7252BB15=~s~降低你的通缉度。
+
+;0x76F414CA=Go with Dimitri to the ~y~gun store.
+0x76F414CA=和Dimitri一起去~y~枪店。
+
+;0x8C4B4340=With ~INPUT_ATTACK~ held, use ~INPUT_AIM~ and the ~PAD_RSTICK_ALL~ to free aim while firing.
+0x8C4B4340=按住~INPUT_ATTACK~时，使用~INPUT_AIM~和~PAD_RSTICK_ALL~在开火时自由瞄准。
+
+;0x8E7BFE06=Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim at targets.
+0x8E7BFE06=用~INPUT_AIM~和~PAD_RSTICK_ALL~瞄准目标。
+
+;0x90DB4AC8=Head into the ~y~gun store.
+0x90DB4AC8=前往~y~枪店。
+
+;0x987FDA09=Dimitri is dead.
+0x987FDA09=Dimitri死了。
+
+;0x9A92DBAB=Hold ~INPUT_AIM~ to lock onto a target.
+0x9A92DBAB=按住~INPUT_AIM~锁定目标。
+
+;0x9D3764D8=Placeholder for MOCAP cutscene.
+0x9D3764D8=Placeholder for MOCAP cutscene.
+
+;0xA029E965=Purchase a ~g~Micro SMG.
+0xA029E965=购买一把~g~微型SMG。
+
+;0xA08BE9D9=Get back to ~b~Dimitri.
+0xA08BE9D9=回去找~b~Dimitri。
+
+;0xA4103D03=~r~You were supposed to shoot him in the leg.~s~
+0xA4103D03=~r~你要打的是他的腿。~s~
+
+;0xAEF87EDC=With ~PAD_LB~ held, use the ~PAD_RSTICK_ALL~ free aim while firing.
+0xAEF87EDC=按住~PAD_LB~时，使用~PAD_RSTICK_ALL~在开火时自由瞄准。
+
+;0xB8009A7A=Target the ~r~guy~s~ in the middle.
+0xB8009A7A=瞄准中间的~r~那个人。~s~
+
+;0xBF5A1C2C=Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim at a target.
+0xBF5A1C2C=用~INPUT_AIM~和~PAD_RSTICK_ALL~瞄准目标。
+
+;0xCA2E3ED5=Target ~r~Joseph~s~ to intimidate him.
+0xCA2E3ED5=瞄准~r~Joseph~s~以胁迫他。
+
+;0xCAE6BCC2=Use ~PAD_RSTICK_LEFTRIGHT~ while locked on to aim at targets to the left and right of the current target.
+0xCAE6BCC2=锁定目标时，用~PAD_RSTICK_LEFTRIGHT~切换锁定的目标。
+
+;0xCDB7C5E8=Shoot the ~r~porn actor~s~ in the leg.
+0xCDB7C5E8=打断那个~r~AV男优~s~的腿。
+
+;0xCE6591B1=~r~All of your ammo was wasted.~s~
+0xCE6591B1=~r~你把子弹浪费光了。~s~
+
+;0xD556865B=Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to focus your aim on his leg.
+0xD556865B=用~INPUT_AIM~和~PAD_RSTICK_ALL~瞄准他的腿部。
+
+;0xE00434EE=~r~Dimitri is dead.~s~
+0xE00434EE=~r~Dimitri死了。~s~
+
+;0xE54F717F=Visit the Gun Store whenever you need guns and ammo.
+0xE54F717F=需要枪支和弹药时就去枪店看看吧。
+
+;0xE96A7865=Enter the ~y~shop.
+0xE96A7865=进入~y~商店。
+
+;0xF5B09429=Take Dimitri to ~y~Faustin's house.
+0xF5B09429=带Dimitri回~y~Faustin家。
+
+;0xFFF774D4=~r~The gun shop worker was injured.~s~
+0xFFF774D4=~r~枪店员工受伤了。~s~
+

@@ -1,0 +1,37 @@
+﻿[JIMMY4]
+;0x0BABC85A=~r~Ray got away.
+0x0BABC85A=~r~Ray逃走了。
+
+;0x1DFA6CF7=~r~Ray was spooked.
+0x1DFA6CF7=~r~Ray被惊动了。
+
+;0x1E4E6DAF=~s~Head over to ~y~East Holland~s~ and look for Ray.
+0x1E4E6DAF=~s~前往~y~East Holland~s~找寻Ray的踪迹。
+
+;0x484A430E=~s~Lose your wanted level.
+0x484A430E=~s~降低你的通缉度。
+
+;0x6BB409E1=~s~Don't get too close or you might be spotted.
+0x6BB409E1=~s~不要跟得太近，否则你会被发现的。
+
+;0x7EA1AFBC=~s~You need a car.
+0x7EA1AFBC=~s~你需要一辆车。
+
+;0xA1067485=~s~You were spotted!
+0xA1067485=~s~你被发现了！
+
+;0xC2C936A6=~s~Exterminate ~r~Ray and his bodyguards.
+0xC2C936A6=~s~除掉~r~Ray和他的保镖。
+
+;0xD5085B24=~s~Watch out for ~r~Ray's~s~ bodyguards.
+0xD5085B24=~s~小心~r~Ray~s~的保镖。
+
+;0xE3A2F859=~s~Drive up to the pay kiosk. The toll is $5.
+0xE3A2F859=~s~开车通过收费站，过路费5美元。
+
+;0xEAE506CD=~s~Slow down to pay the toll, you don't want to attract attention.
+0xEAE506CD=~s~付费时减速慢行，不要引起注意。
+
+;0xFA26A550=~s~Press ~PAD_LB~ to raise the barrier.
+0xFA26A550=~s~按~PAD_LB~以升起栏杆。
+

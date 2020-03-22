@@ -1,0 +1,70 @@
+﻿[FRANCI4]
+;0x036B33BB=Enter the ~y~building.
+0x036B33BB=进入~y~大楼。
+
+;0x0E8A5F42=There is ~g~ammo~s~ for the sniper rifle in the car.
+0x0E8A5F42=车里有狙击步枪的~g~弹药。
+
+;0x18AC5E3D=Go to the ~y~rooftop.
+0x18AC5E3D=前往~y~屋顶。
+
+;0x27DCD288=To access the keypad press ~INPUT_PHONE_TAKE_OUT~ from the initial cellphone screen.
+0x27DCD288=在主屏幕按~INPUT_PHONE_TAKE_OUT~调出拨号盘。
+
+;0x2C68B34C=~r~The dealer got away.~s~
+0x2C68B34C=~r~毒贩跑了。~s~
+
+;0x39F676BB=Navigate the mobile keypad using ~PAD_DPAD_ALL~. Select your desired input using ~INPUT_PHONE_ACCEPT~. To make a phone call select the phone icon on the top left of the keypad.
+0x39F676BB=使用~PAD_DPAD_ALL~选择键盘上的数字，用~INPUT_PHONE_ACCEPT~输入目标数字。选中键盘左上角的电话图标呼出。
+
+;0x3D9E3D69=Take the ~g~sniper rifle~s~ from the car.
+0x3D9E3D69=去车里拿~g~狙击步枪。
+
+;0x4033C294=Obtain a ~g~sniper_rifle.
+0x4033C294=去弄一把~g~狙击步枪。
+
+;0x45F25264=Leave the rooftop.
+0x45F25264=离开屋顶。
+
+;0x4F4F60CB=You need a sniper rifle.
+0x4F4F60CB=你需要一把狙击步枪。
+
+;0x56D7F42F=~r~The car has been destroyed. ~s~
+0x56D7F42F=~r~车子被毁了。~s~
+
+;0x5717B0FD=To dial a number with your phone you will need to access the phone. Press ~INPUT_PHONE_TAKE_OUT~ to activate the phone.
+0x5717B0FD=要用号码呼叫，你需要拿出手机。按~INPUT_PHONE_TAKE_OUT~拿出手机。
+
+;0x63EF75CA=Call Francis.
+0x63EF75CA=打给Francis。
+
+;0x64E78BFB=Go to a gun shop and obtain a sniper rifle.
+0x64E78BFB=去枪店买一把狙击步枪。
+
+;0x6738E841=~s~Hunt the ~r~dealer~s~ down.
+0x6738E841=~s~追击~r~毒贩。
+
+;0x71EAA601=Obtain ~g~ammo~s~ for the sniper rifle.
+0x71EAA601=去弄一些狙击枪的~g~子弹。
+
+;0x870B5042=Get the sniper rifle from the ~g~car.
+0x870B5042=去~g~车~s~里拿狙击步枪。
+
+;0x96796F1E=Go to the gun shop and obtain ammo for the sniper rifle.
+0x96796F1E=去枪店购买狙击步枪子弹。
+
+;0xB192FAE0=~s~Lure the ~r~dealer~s~ into the open and take him out.
+0xB192FAE0=~s~诱导目标~r~毒贩~s~进入视线范围，干掉他。
+
+;0xB901A6A9=~R~You lost the dealer.~S~
+0xB901A6A9=~R~你跟丢了毒贩。~S~
+
+;0xBCE5BBF6=Get ammo for your sniper rifle from the ~g~car.
+0xBCE5BBF6=去~g~车~s~里拿取狙击枪弹药。
+
+;0xEB4309FB=~r~Your cover is blown.~s~
+0xEB4309FB=~r~你的伪装暴露了。~s~
+
+;0xED6CE0FC=Make your way to the dealer's apartment off ~y~Denver Avenue.
+0xED6CE0FC=前往毒贩所在的~y~Denver大道~s~上的公寓。
+

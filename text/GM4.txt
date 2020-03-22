@@ -1,0 +1,48 @@
+﻿[GM4]
+;0x323C3839=~r~The car was trashed.~s~
+0x323C3839=~r~车子被毁了。~s~
+
+;0x390A6139=~s~Get a car.
+0x390A6139=~s~找一辆车。
+
+;0x528CCD90=~s~Go to the ~y~safehouse.
+0x528CCD90=~s~前往~y~安全屋。
+
+;0x5DDE3F55=~r~Packie was injured.~s~
+0x5DDE3F55=~r~Packie受伤了。~s~
+
+;0x608A327C=~s~Get in the ~b~car~s~ Packie left you.
+0x608A327C=~s~进入Packie留给你的~b~车。
+
+;0x744AA65B=~r~Gracie is dead.~s~
+0x744AA65B=~r~Gracie死了。~s~
+
+;0xA8F8C11C=~s~Get in any car.
+0xA8F8C11C=~s~随便找辆车。
+
+;0xAD07EF36=~r~Gracie has been rescued.
+0xAD07EF36=~r~Gracie被救走了。
+
+;0xBD4C0883=~s~Don't damage the car or you will kill Gracie.
+0xBD4C0883=~s~不要损坏汽车，否则会害死Gracie。
+
+;0xC6BAFCA0=~s~Get in the ~b~car.
+0xC6BAFCA0=~s~上~b~车。
+
+;0xC940850B=~s~You need to lose the ~r~cars~s~ first.
+0xC940850B=~s~你得先甩掉~r~追兵。
+
+;0xD21EB6B0=~s~Lose your wanted level.
+0xD21EB6B0=~s~降低你的通缉度。
+
+;0xD2A34DBB=~s~Go to the ~y~safehouse.
+0xD2A34DBB=~s~前往~y~安全屋。
+
+;0xD4D798D5=~s~Go to the ~y~safehouse.
+0xD4D798D5=~s~前往~y~安全屋。
+
+;0xE185B475=~s~Now take the girl to the ~y~safehouse.
+0xE185B475=~s~现在带着女孩去~y~安全屋。
+
+;0xE5F43B0E=~s~The Ancelottis are on to you, get to the ~y~safehouse~s~ quickly.
+0xE5F43B0E=~s~Ancelotti家族的人来找你了，尽快前往~y~安全屋。~s~

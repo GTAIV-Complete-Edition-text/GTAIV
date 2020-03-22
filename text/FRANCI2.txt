@@ -1,0 +1,205 @@
+﻿;注：
+;1、没翻的都是Beta文本 无视即可
+
+[FRANCI2]
+;0x0644304E=~s~Mr. Goldberg...
+0x0644304E=~s~Goldberg先生...
+
+;0x0B3859F0=~r~You drove a vehicle into the building.
+0x0B3859F0=~r~你将载具驶入了大楼。
+
+;0x13918C21=~s~You got an interview.
+0x13918C21=~s~你有一个面试。
+
+;0x166069B0=~s~Use the ~y~intercom~s~ to contact reception.
+0x166069B0=~s~使用~y~对讲机~s~联系前台。
+
+;0x18478BE6=~s~Take the files to ~y~Francis.
+0x18478BE6=~s~将档案交给~y~Francis。
+
+;0x18ECDF11=~s~Scroll down and submit your resume.
+0x18ECDF11=~s~下拉提交你的简历。
+
+;0x1AB1D3E2=~s~Files
+0x1AB1D3E2=~s~档案
+
+;0x1D8FFE9F=~r~You were removed from the building.
+0x1D8FFE9F=~r~你被赶出了大楼。
+
+;0x1F4F021D=~r~Goldberg survived.
+0x1F4F021D=~r~Goldberg还活着。
+
+;0x21C6288A=~s~One Day Later (Demo Text)
+0x21C6288A=~s~One Day Later (Demo Text)
+
+;0x2957BEA8=~s~Doors are now unlocked.
+0x2957BEA8=~s~门现在解锁了。
+
+;0x29E12F19=~s~Lose your wanted level.
+0x29E12F19=~s~降低你的通辑度。
+
+;0x2C50771F=~s~You still need the files.
+0x2C50771F=~s~你还需要档案。
+
+;0x321BA7B6=~r~You got a wanted level.
+0x321BA7B6=~r~你还有通辑度。
+
+;0x324CD092=~s~Security have locked all the exits.
+0x324CD092=~s~保安已经锁上了全部出口。
+
+;0x34879646=~s~Click on Submit Resume.
+0x34879646=~s~点击「提交简历」。
+
+;0x379AD433=~s~Go to the ~y~interview.
+0x379AD433=~s~前去~y~面试。
+
+;0x38D732B5=~s~Get out of the office.
+0x38D732B5=~s~离开律师行。
+
+;0x458B770F=~s~Use the computer at the ~y~Security Reception ~s~to unlock the doors.
+0x458B770F=~s~使用~y~安保台~s~的电脑解锁所有门。
+
+;0x4759BBEA=~s~Press ~INPUT_PICKUP~ to exit.
+0x4759BBEA=~s~按~INPUT_PICKUP~离开。
+
+;0x5592867B=~s~Retrieve the ~g~files.
+0x5592867B=~s~拿走~g~档案。
+
+;0x5EAD7A49=~s~Follow the ~b~receptionist~s~ to Goldberg's office.
+0x5EAD7A49=~s~跟着~b~前台小姐~s~去Goldberg的办公室。
+
+;0x61FD7131=~s~Go to the careers page.
+0x61FD7131=~s~访问「人才招聘」页面。
+
+;0x66DC112A=~r~Mission Failed.
+0x66DC112A=~r~任务失败。
+
+;0x66F71134=~s~Threaten Goldberg by aiming your gun at him.
+0x66F71134=~s~用枪瞄准Goldberg威胁他。
+
+;0x7150BDF7=~s~Go into ~y~Goldberg's office.
+0x7150BDF7=~s~进入~y~Goldberg的办公室。
+
+;0x80E89015=~s~Mission Passed.
+0x80E89015=~s~任务完成。
+
+;0x855E6612=~s~Call Francis.
+0x855E6612=~s~打给Francis。
+
+;0x8AE4D7DB=~r~Goldberg escaped.
+0x8AE4D7DB=~r~Goldberg跑了。
+
+;0x8E08DE8F=~s~Logon to a computer and use the internet.
+0x8E08DE8F=~s~登录一台电脑，上网。
+
+;0x9204C431=~s~Press ~INPUT_PICKUP~ to get up.
+0x9204C431=~s~按~INPUT_PICKUP~起身。
+
+;0x95C56C90=~s~Go to ~y~Perseus.
+0x95C56C90=~s~前往~y~Perseus。
+
+;0x97797104=~r~You caused too much disruption.
+0x97797104=~r~你制造了太多混乱。
+
+;0xA02983C4=~r~The files were not taken from the office.
+0xA02983C4=~r~未从办公室拿走档案。
+
+;0xA55AEA5C=Come in, I'll buzz you through.
+0xA55AEA5C=请进，我会帮你开门的。
+
+;0xA79BEF5F=~s~Press ~INPUT_PICKUP~ to take a seat.
+0xA79BEF5F=~s~按~INPUT_PICKUP~坐下。
+
+;0xA9BB8070=~s~Click on the web icon.
+0xA9BB8070=~s~点击WEB图标。
+
+;0xAA45AFDC=~s~Wait outside ~y~Goldberg's office.
+0xAA45AFDC=~s~在~y~Goldberg的办公室~s~外等候。
+
+;0xB0EE8F77=~s~You need to wear a suit and tie with smart shoes for the interview.
+0xB0EE8F77=~s~你需要西装革履打领带才能参加面试。
+
+;0xB786B012=~s~Buy yourself a suit.
+0xB786B012=~s~给自己买套西装。
+
+;0xB99DA0D5=~s~Press ~INPUT_PICKUP~ to use the intercom.
+0xB99DA0D5=~s~按~INPUT_PICKUP~使用对讲机。
+
+;0xBAD550FF=~s~Escape from the building.
+0xBAD550FF=~s~逃出大楼。
+
+;0xBAF21607=...
+0xBAF21607=...
+
+;0xBB1F384F=~r~You missed the interview.
+0xBB1F384F=~r~你错过了面试。
+
+;0xBCBA54C5=~s~Take the evidence to ~y~Francis.
+0xBCBA54C5=~s~将证据交给~y~Francis。
+
+;0xCA265551=~s~Go to an Internet cafe.
+0xCA265551=~s~找一家网吧。
+
+;0xCCB3F4BC=~s~You retrieved the ~g~files.
+0xCCB3F4BC=~s~你拿到了~g~档案。
+
+;0xCEDC89B3=~s~This exit is locked.
+0xCEDC89B3=~s~出口被锁住了。
+
+;0xCF68DFEA=~s~Kill ~r~Goldberg.
+0xCF68DFEA=~s~杀了~r~Goldberg。
+
+;0xD0454DBF=~s~Click the link on the lawyer's advertisement or enter their web address.
+0xD0454DBF=~s~点击律师行广告或输入他们的网址。
+
+;0xD0B5E284=~s~Find and steal the ~b~evidence.
+0xD0B5E284=~s~找到并偷走~b~证据。
+
+;0xD59FEE84=~s~When you are ready stand up and aim your gun at Goldberg. Press ~INPUT_PICKUP~ to get up.
+0xD59FEE84=~s~准备好后就起身瞄准Goldberg，按~INPUT_PICKUP~起身。
+
+;0xD5F8EF62=~r~You attacked Security.
+0xD5F8EF62=~r~你攻击了保安。
+
+;0xDCEC9ED8=~s~Reply to the Lawyer's email.
+0xDCEC9ED8=~s~回复律师行的邮件。
+
+;0xDCF47AED=~s~Access the Lawyer website and apply for the job.
+0xDCF47AED=~s~访问律师行的网站，应聘工作。
+
+;0xDF7CDF1C=~s~Click on the "Unlock" button to open the doors.
+0xDF7CDF1C=~s~点击「解锁」按钮开门。
+
+;0xE0722CDE=~s~Try the exits on the ground floor.
+0xE0722CDE=~s~试试地面层的门。
+
+;0xE323874F=~s~Go to your ~y~interview.
+0xE323874F=~s~去参加你的~y~面试。
+
+;0xE69190A3=~r~You didn't conceal your weapon.
+0xE69190A3=~r~你没有藏住你的武器。
+
+;0xEB533BA5=~s~Check your email.
+0xEB533BA5=~s~检查你的邮件。
+
+;0xEBDC04F0=~s~Access the lawyer website.
+0xEBDC04F0=~s~访问律所的网站。
+
+;0xF08419AD=~s~Morning of the interview.
+0xF08419AD=~s~Morning of the interview.
+
+;0xF12F0280=~s~Press ~INPUT_PICKUP~ to take files.
+0xF12F0280=~s~按~INPUT_PICKUP~拿走档案。
+
+;0xF1D524B2=~s~Get back in your suit.
+0xF1D524B2=~s~穿上西装回去。
+
+;0xF3CB42EE=~s~Go to the ~b~reception.
+0xF3CB42EE=~s~去~b~前台。
+
+;0xF8603440=~r~You attacked office workers.
+0xF8603440=~r~你攻击了律师行职员。
+
+;0xFD72281C=~s~Leave the Internet cafe.
+0xFD72281C=~s~离开网吧。
+

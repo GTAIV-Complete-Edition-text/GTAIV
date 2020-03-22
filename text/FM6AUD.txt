@@ -1,0 +1,1022 @@
+﻿;注：
+;1、没翻的都是Beta文本 无视即可
+;2、翻译：LCPD爱拉登            初校：sheenthing
+
+[FM6AUD]
+;0x008FEC3D=~z~Okay Niko. Time to get out of here but I ain't leaving my poor dead brother to the mercy of them animals.
+0x008FEC3D=~z~好了Niko。该离开这儿了，但我不会把我死了的可怜哥哥扔在这儿任那些禽兽处置的。
+
+;0x0138F11D=~z~Yeah, well, there ain't a lot more that coulda been done.
+0x0138F11D=~z~对，确实，也没什么别的能做的了。
+
+;0x027FC8EF=~z~Things ain't pretty out here. Stay in the church.
+0x027FC8EF=~z~外面情况不太妙，待在教堂里面。
+
+;0x034B9E87=~z~Jesus, we lost Derrick, the poor bastard.
+0x034B9E87=~z~天哪，我们失去了Derrick，可怜的混蛋。
+
+;0x035FDA0D=FM6_YB
+0x035FDA0D=FM6_YB
+
+;0x045C753E=~z~Only a petty hood, Packie? You're involved in more shit than that.
+0x045C753E=~z~你还小混混，Packie？你可不止那么点。
+
+;0x05FFE0C5=~z~I was thinking you only kept those hitmen away from the church to protect my sister.
+0x05FFE0C5=~z~我是在想你干掉教堂前的那群杀手是为了保护我妹妹。
+
+;0x069234DA=~z~They've sent a whole van load. Hold 'em back, Niko.
+0x069234DA=~z~They've sent a whole van load. Hold 'em back, Niko.
+
+;0x07247304=FM6_A_EA
+0x07247304=FM6_A_EA
+
+;0x0755486F=~z~Frankie's plot is in the graveyard on Colony Island, Niko. Can we put him in the ground?
+0x0755486F=~z~Frankie的坟在Colony岛的墓园，Niko。我们去把他安葬了吧。
+
+;0x07BFA7D8=100
+0x07BFA7D8=100
+
+;0x07D557E0=292
+0x07D557E0=292
+
+;0x08BD05D9=~z~That's why I normally tie breeze blocks to 'em and throw 'em in the Humboldt.
+0x08BD05D9=~z~所以我平常都会把人绑上砖头扔Humboldt河里。
+
+;0x09A35B43=~z~You don't got no respect.
+0x09A35B43=~z~你们这些不懂得尊重的。
+
+;0x0A1579EC=FM6_ZC
+0x0A1579EC=FM6_ZC
+
+;0x0A9A6A08=~z~Go, go, go, go.
+0x0A9A6A08=~z~Go, go, go, go.
+
+;0x0AFC3C3F=~z~They're really giving it to us, Niko.
+0x0AFC3C3F=~z~他们是真的想搞我们，Niko。
+
+;0x0DC34450=102
+0x0DC34450=102
+
+;0x0DCFFD3C=FM6_DF
+0x0DCFFD3C=FM6_DF
+
+;0x0E21F067=~z~This is place of God. Jesus Christ! Can't these people shoot at us on another day?
+0x0E21F067=~z~这里是上帝的地方。基督耶稣啊！这些人就不能改天再来袭击我们吗？
+
+;0x0E34F862=FM6_DA
+0x0E34F862=FM6_DA
+
+;0x0F16C07C=~z~Keep my family covered, alright?
+0x0F16C07C=~z~保护我的家人，好吧？
+
+;0x0F754F5E=100
+0x0F754F5E=100
+
+;0x1088D5B7=~z~and a man of beliefs. God asks us to show faith
+0x1088D5B7=~z~也是一个有信仰的人。上帝让我们展现信仰
+
+;0x115330CD=~z~I'll do my best, Packie.
+0x115330CD=~z~我会尽力的，Packie。
+
+;0x13F4334D=FM6_ZH
+0x13F4334D=FM6_ZH
+
+;0x141DD37B=FM6_XE
+0x141DD37B=FM6_XE
+
+;0x14E47D04=FM6_A_IA
+0x14E47D04=FM6_A_IA
+
+;0x15E8FC7B=FM6_HA
+0x15E8FC7B=FM6_HA
+
+;0x182F8BC5=~z~Anyway, I'm not here for Francis. I am here for you and Packie.
+0x182F8BC5=~z~总之，我不是为了Francis来的，我是为了你和Packie来的。
+
+;0x1A94A7B9=~z~It don't look like they're following us no more, thank fuck.
+0x1A94A7B9=~z~看来他们没有再追上来了，谢他妈的。
+
+;0x1B71F5C9=~z~Watch the car coming along the sidewalk, Niko.
+0x1B71F5C9=~z~Watch the car coming along the sidewalk, Niko.
+
+;0x1B9A3E44=~z~I don't reckon they can throw much more at us.
+0x1B9A3E44=~z~我不觉得他们还能发动更多攻势。
+
+;0x1BA07515=~z~-Let's go inside, it's gonna be alright.~n~-Come on, come on!
+0x1BA07515=~z~－都赶紧进去，不会有事的。~n~－进来，进来！
+
+;0x1C80D3D9=102
+0x1C80D3D9=102
+
+;0x1D542F07=~z~He's having a hard death too if this is anything to go by. I never knew it was so difficult to put a body in the ground.
+0x1D542F07=~z~照这么说死后也没好到哪儿去。我还真不知道把尸体下葬会这么麻烦。
+
+;0x21A069C3=~z~Of course, Packie.
+0x21A069C3=~z~当然可以，Packie。
+
+;0x21CF4B4D=~z~Fuck. Francis was an asshole but he didn't deserve to end up on the road like that.
+0x21CF4B4D=~z~Fuck. Francis was an asshole but he didn't deserve to end up on the road like that.
+
+;0x21E716DC=010100
+0x21E716DC=010100
+
+;0x24260E7C=FM6_LA
+0x24260E7C=FM6_LA
+
+;0x245BBC56=~z~If Derrick was alive we wouldn't be in this situation.
+0x245BBC56=~z~要是Derrick还活着，我们也不会有这么大压力。
+
+;0x24E7C1B9=FM6_A_HA
+0x24E7C1B9=FM6_A_HA
+
+;0x24FB76C5=100010100100010100100010100100
+0x24FB76C5=100010100100010100100010100100
+
+;0x2529BA0F=100
+0x2529BA0F=100
+
+;0x2628A074=~z~What in the hell is this, don't these people have any damn respect? It's my own brother's funeral!
+0x2628A074=~z~这他妈是什么玩意，这群人都他妈不懂尊重的吗？这是我亲哥哥的葬礼诶！
+
+;0x26D68608=FM6_XI
+0x26D68608=FM6_XI
+
+;0x26E83A55=~z~Anyway, maybe our curse is just us McRearys being screw ups.
+0x26E83A55=~z~算了，可能我们McReary家族的诅咒就是成为一群废物。
+
+;0x270BFA2B=FM6_XF
+0x270BFA2B=FM6_XF
+
+;0x290E7C3C=~z~Finally, it's time to say goodbye to my brother. Amen.
+0x290E7C3C=~z~终于，是时候和我的哥哥道别了。阿门。
+
+;0x2A25328A=FM6_DG
+0x2A25328A=FM6_DG
+
+;0x2A282FB6=~z~Cops are just regular guys trying to survive.
+0x2A282FB6=~z~条子也只是一种努力生存的人。
+
+;0x2A3A6BCA=FM6_A_FB
+0x2A3A6BCA=FM6_A_FB
+
+;0x2A74CFEA=~z~Now, if you all please will join me in the procession to the cemetery.
+0x2A74CFEA=~z~现在请你们同我一道，进入前往墓园的车队。
+
+;0x2BA3E3C9=~z~It's only consecrated ground for a brother of mine.
+0x2BA3E3C9=~z~我的哥哥当然是要葬在墓地里的。
+
+;0x2D38B8C5=~z~Gerry would love to be here shooting you too.
+0x2D38B8C5=~z~Gerry也会想来射爆你们的。
+
+;0x2E1F0AD7=~z~Like I said, thanks. Give me a call sometime, Niko.
+0x2E1F0AD7=~z~我也说了，谢了。改天给我打个电话吧，Niko。
+
+;0x2E5524A2=~z~I am pleased Gerry picked his fight with you.
+0x2E5524A2=~z~Gerry选你们做对手我很高兴。
+
+;0x2EE612E3=~z~You've got a strange family.
+0x2EE612E3=~z~你的家庭真奇怪。
+
+;0x2FD8FD0E=FM6_ZN
+0x2FD8FD0E=FM6_ZN
+
+;0x3197587F=~z~There's a lot to be sorry for on this day, Niko. But you ain't to blame for none of it. I'll speak to ya soon.
+0x3197587F=~z~今天需要抱歉的事情多了去了，Niko。但是都不能怪你。我会尽快再和你联系的。
+
+;0x3197B27E=010100100
+0x3197B27E=010100100
+
+;0x31AF0B7C=100
+0x31AF0B7C=100
+
+;0x320E587B=~z~Is that what you suggest we do with your brother?
+0x320E587B=~z~你是想说我们该这样处理你哥哥喽？
+
+;0x32472022=~z~Another fucking car load, Jesus.
+0x32472022=~z~他妈又是一车，天哪。
+
+;0x341A5986=FM6_A_HB
+0x341A5986=FM6_A_HB
+
+;0x3565E2D6=FM6_WA
+0x3565E2D6=FM6_WA
+
+;0x379276D3=~z~Bye, bye, Francis.
+0x379276D3=~z~拜拜，Francis。
+
+;0x38236B47=~z~-Amen.~n~-Amen
+0x38236B47=~z~－阿门。~n~－阿门。
+
+;0x3948DD92=~z~Niko, get behind the wheel of that Romero. You, me, and my brother are getting out of here.
+0x3948DD92=~z~Niko，你去开那辆Romero。你，我，我哥要一起离开这里。
+
+;0x3BD68748=~z~There's a whole lot a air where the back doors should be, Niko. Go easy on her or my brother'll fall out.
+0x3BD68748=~z~后面该有门的地方门没了，Niko。好好开车，别让我哥掉出来。
+
+;0x3DB1A9FC=~z~I did not come for Derrick, I came for you and Packie.
+0x3DB1A9FC=~z~我不是因为Derrick来的，我是因为你和Packie来的。
+
+;0x3E898337=100
+0x3E898337=100
+
+;0x3F2F5936=FM6_DD
+0x3F2F5936=FM6_DD
+
+;0x3F68B086=FM6_EF
+0x3F68B086=FM6_EF
+
+;0x3F75C2C7=~z~I guess me brother ain't making it into the ground.
+0x3F75C2C7=~z~看来我的哥哥没法入土了。
+
+;0x40164824=~z~Gerry was right to screw with you.
+0x40164824=~z~Gerry搞你们是搞对了。
+
+;0x401E6517=FM6_KA
+0x401E6517=FM6_KA
+
+;0x4098B648=~z~Who doesn't?
+0x4098B648=~z~谁不是呢？
+
+;0x40C3B7F4=FM6_EB
+0x40C3B7F4=FM6_EB
+
+;0x41684992=FM6_A_JA
+0x41684992=FM6_A_JA
+
+;0x42A7FAA0=~z~I'm sorry about Derrick's casket, Packie.
+0x42A7FAA0=~z~Derrick的棺材这样我很抱歉，Packie。
+
+;0x45EBF6D8=~z~Alright Niko, it's time to go but we're taking my brother with us. Can you drive the Romero?
+0x45EBF6D8=~z~好了Niko，该走了，不过我们得把我哥带上。这辆Romero你能开吗？
+
+;0x4633DE28=FM6_HB
+0x4633DE28=FM6_HB
+
+;0x46D52FF8=~z~Don't let 'em get my family, Niko.
+0x46D52FF8=~z~Don't let 'em get my family, Niko.
+
+;0x47784A95=392
+0x47784A95=392
+
+;0x4A1523C5=~z~Shit, we lost the back doors. Don't lose my brother too. Go easy there, Niko.
+0x4A1523C5=~z~靠，我们后门没了。别把我哥也弄没了。好好开车，Niko。
+
+;0x4A2D4971=~z~The most I ever expected from them was to put flowers on their coffins.
+0x4A2D4971=~z~我最能指望他们的就只有在他们的棺材上献花了。
+
+;0x4A3D2886=102
+0x4A3D2886=102
+
+;0x4A6C6CA5=FM6_YF
+0x4A6C6CA5=FM6_YF
+
+;0x4AC913F1=~z~Yeah, well, Gerry got stung by the law because of the shit he was involved in.
+0x4AC913F1=~z~对，行吧，Gerry因为他牵扯的事被法律制裁。
+
+;0x4ACA4965=FM6_ED
+0x4ACA4965=FM6_ED
+
+;0x4AFFC267=~z~Shit, I never thought I'd be on the run from some Albanian gangsters with a cop in the car.
+0x4AFFC267=~z~靠，我从来没想过我会在车里有个条子的时候被一些阿尔巴尼亚黑帮追杀。
+
+;0x4B114012=FM6_ZK
+0x4B114012=FM6_ZK
+
+;0x4B88EB7E=FM6_YA
+0x4B88EB7E=FM6_YA
+
+;0x4C10A6F6=~z~Check the alleyway, Niko. Cover the fucking alleyway.
+0x4C10A6F6=~z~注意巷子，Niko。火力覆盖那条狗屁巷子。
+
+;0x4C4C404D=~z~Jesus, they're coming out of that van. Keep 'em away from the church.
+0x4C4C404D=~z~Jesus, they're coming out of that van. Keep 'em away from the church.
+
+;0x4E18CFBB=400040400040040040400
+0x4E18CFBB=400040400040040040400
+
+;0x4F4292C7=~z~That's a valid point, Niko. Who knows what sort of situation we'd be in?
+0x4F4292C7=~z~这倒也是，Niko。谁知道我们会怎么样呢？
+
+;0x4FFC463E=~z~If this ain't a fucking beating I don't know what is.
+0x4FFC463E=~z~要是这他妈不是干架的话，我就不知道是什么了。
+
+;0x50D86598=~z~There ain't no way we're making it to the graveyard now, is there?
+0x50D86598=~z~现在我们没法子去墓园了，是吧？
+
+;0x512CD8C7=102012
+0x512CD8C7=102012
+
+;0x51B5705A=FM6_QA
+0x51B5705A=FM6_QA
+
+;0x52E2EDBD=~z~You damn disrespectful bastards.
+0x52E2EDBD=~z~你们这群毫无尊重的混蛋。
+
+;0x52E9EF8A=~z~Eat shit, McRearys.
+0x52E9EF8A=~z~吃屎去吧，McReary家族！
+
+;0x54853707=FM6_A_KA
+0x54853707=FM6_A_KA
+
+;0x54CCF2D5=102
+0x54CCF2D5=102
+
+;0x558D5B9C=FM6_YM
+0x558D5B9C=FM6_YM
+
+;0x5981E531=FM6_A_LA
+0x5981E531=FM6_A_LA
+
+;0x5B1FB49E=~z~One brother in jail, another killed and the funeral attacked. You can't tell me this is just bad luck.
+0x5B1FB49E=~z~一个哥哥进了监狱，另一个被杀了，他的葬礼还被人袭击。这已经不是能用运气差解释的了。
+
+;0x5C3FC3C9=FM6_IB
+0x5C3FC3C9=FM6_IB
+
+;0x5D1346AB=FM6_XA
+0x5D1346AB=FM6_XA
+
+;0x5D53C97C=~z~Hold 'em back, Niko. They're coming through the alley.
+0x5D53C97C=~z~阻止他们，Niko。他们从巷子里过来了。
+
+;0x5D6040D6=FM6_MA
+0x5D6040D6=FM6_MA
+
+;0x5EBB18DB=~z~What for?
+0x5EBB18DB=~z~谢什么？
+
+;0x60A98EC4=100
+0x60A98EC4=100
+
+;0x60DA5A29=FM6_A_FC
+0x60DA5A29=FM6_A_FC
+
+;0x60E76A9E=FM6_ZL
+0x60E76A9E=FM6_ZL
+
+;0x621087A3=~z~Fuck you, McReary.
+0x621087A3=~z~操你妈，McReary。
+
+;0x628701F7=FM6_YP
+0x628701F7=FM6_YP
+
+;0x62D56D5F=~z~Watch that van, Niko. There's more of 'em coming out.
+0x62D56D5F=~z~Watch that van, Niko. There's more of 'em coming out.
+
+;0x62EE3150=~z~This has got to be about the deal Gerry fucked up between the Ancelottis and those Albanians.
+0x62EE3150=~z~这肯定和Gerry搞乱Ancelotti家族和阿尔巴尼亚人的事情有关系。
+
+;0x635E7A7F=~z~Make a run for the cars! Quickly!
+0x635E7A7F=~z~都赶紧上车！快！
+
+;0x637CFB9E=~z~While no one is suggesting he was an angel, none of us are...
+0x637CFB9E=~z~虽然没人认为他是一个天使，我们都不认为...
+
+;0x63DAF64E=~z~It means a lot - you coming here and helping this messed up family of mine.
+0x63DAF64E=~z~意义很大，你能来这里给我一团糟的家族帮忙。
+
+;0x646224CB=FM6_DB
+0x646224CB=FM6_DB
+
+;0x64D01E7C=~z~Sure you did, Niko.
+0x64D01E7C=~z~当然了，Niko。
+
+;0x661DCA9E=~z~Maybe bad shit just happens when you got a family made up of dirty cops,
+0x661DCA9E=~z~坏事是会发生的，如果你家里有肮脏的条子，
+
+;0x6634CAC8=~z~How'd you figure?
+0x6634CAC8=~z~此话怎讲？
+
+;0x66358175=~z~-Oh my God!~n~-Come on, Come one, get inside!
+0x66358175=~z~－噢，上帝！~n~－快点，进来，都进来！
+
+;0x66BBBC1D=~z~I am sorry that we weren't able to bury your brother, Packie.
+0x66BBBC1D=~z~很抱歉，没能让你的哥哥下葬，Packie。
+
+;0x68592646=FM6_YD
+0x68592646=FM6_YD
+
+;0x689585CF=~z~Derrick gave so much of himself and will be so sorely missed by us all.
+0x689585CF=~z~Derrick自己奉献了太多，他会受到我们的强烈思念。
+
+;0x690E3C88=100010
+0x690E3C88=100010
+
+;0x693A32D3=FM6_DE
+0x693A32D3=FM6_DE
+
+;0x69F607CE=~z~I think we got 'em! Make a run for the cars!
+0x69F607CE=~z~我想我们解决他们了！赶紧上车！
+
+;0x6A855974=102
+0x6A855974=102
+
+;0x6AA84992=~z~We all have our ways of coping, Packie. That was Derrick's. He had a hard life.
+0x6AA84992=~z~我们都有自己的解决方式，Packie。Derrick是那么做的。他活着的时候也没好过。
+
+;0x6BF65EBA=102012
+0x6BF65EBA=102012
+
+;0x6C4ABE1F=FM6_A_EB
+0x6C4ABE1F=FM6_A_EB
+
+;0x6CAD983F=~z~Shit, there's a car coming along the sidewalk.
+0x6CAD983F=~z~Shit, there's a car coming along the sidewalk.
+
+;0x6DAE16EF=~z~They've sent more of the bastards.
+0x6DAE16EF=~z~他们又派来了更多混蛋。
+
+;0x6DB5F9D7=FM6_ZM
+0x6DB5F9D7=FM6_ZM
+
+;0x6DBA112F=~z~Christ! The casket's about to fall out.
+0x6DBA112F=~z~天哪！棺材要掉出来了。
+
+;0x6E0499E0=~z~I'm sorry for your loss.
+0x6E0499E0=~z~你的丧兄我很遗憾。
+
+;0x6EE958D6=~z~that is why God put us on earth and not in heaven.
+0x6EE958D6=~z~因此上帝才会将我们置于大地而非天堂。
+
+;0x6F13B88F=FM6_YH
+0x6F13B88F=FM6_YH
+
+;0x6FD5232C=~z~You killed us, now we kill you.
+0x6FD5232C=~z~你杀我们的人，现在我们来杀你了。
+
+;0x7002ECDA=FM6_A_KB
+0x7002ECDA=FM6_A_KB
+
+;0x70EDBD40=~z~Thanks, Niko.
+0x70EDBD40=~z~谢了，Niko。
+
+;0x711E90D9=~z~Derrick never had many friends, he sort of lived in his own head.
+0x711E90D9=~z~Derrick的朋友向来不多，他有点活在自己的世界里。
+
+;0x716EFACC=~z~There goes my brother, Derrick.
+0x716EFACC=~z~我的哥哥走了，Derrick。
+
+;0x738BBBF3=~z~Tell yourself you did it out of the grace of your own heart rather than for another piece of your anatomy.
+0x738BBBF3=~z~告诉自己你那么做是出于内心的善良，而不是为了你的解剖记录。
+
+;0x76AB1BF6=~z~Thanks, Niko.
+0x76AB1BF6=~z~谢了，Niko。
+
+;0x77E76E31=~z~Consider us fucking backlashed then.
+0x77E76E31=~z~那就当我们是被报复了吧。
+
+;0x78BE6FDB=~z~We're a family cursed. I'm telling you that now.
+0x78BE6FDB=~z~我们家族受到了诅咒，我跟你说实话吧。
+
+;0x7A2F022A=FM6_XB
+0x7A2F022A=FM6_XB
+
+;0x7BE52BAC=~z~Get out of the church, come on!
+0x7BE52BAC=~z~离开教堂，快！
+
+;0x7CB3629E=FM6_XJ
+0x7CB3629E=FM6_XJ
+
+;0x7D35A6D2=~z~Can't we call for backup or something?
+0x7D35A6D2=~z~我们就不能叫点支援吗？
+
+;0x7E23774A=~z~And while no one is suggesting he was an angel, none of us are,
+0x7E23774A=~z~虽然没人认为他是一个天使，我们都不认为，
+
+;0x7E66854F=~z~This must be a hard day for you, Packie. I'm sorry.
+0x7E66854F=~z~今天你肯定很难过，Packie。我很抱歉。
+
+;0x7ECF6A32=FM6_ZA
+0x7ECF6A32=FM6_ZA
+
+;0x7F373D52=~z~They're coming along the sidewalk, Niko. Hold fast.
+0x7F373D52=~z~They're coming along the sidewalk, Niko. Hold fast.
+
+;0x8042B640=~z~Niko. My brother's about to hit the road.
+0x8042B640=~z~Niko，我哥哥要掉地上了。
+
+;0x80F87632=~z~Derrick needed good dose of smack to cope with most of the situations that life threw at him. You gotta admit that.
+0x80F87632=~z~面对生活甩到他脸上的各种情况，Derrick都会需要大剂量的麻药才能解决。这点还是要承认的。
+
+;0x82173ED7=FM6_YN
+0x82173ED7=FM6_YN
+
+;0x82B1BA07=~z~-Amen.~n~-Amen.
+0x82B1BA07=~z~－阿门。~n~－阿门。
+
+;0x82B983D5=~z~If you're going to fuck up an Albanian gang's arrangement with the Mafia, there might be some backlash.
+0x82B983D5=~z~你要是想搞烂阿尔巴尼亚帮和黑手党的关系，是会遭到报复的。
+
+;0x8482AECC=~z~My ma's the only one in the family who thought he deserved a burial.
+0x8482AECC=~z~我妈是家里唯一一个认为该给他办葬礼的人。
+
+;0x849E11D3=102
+0x849E11D3=102
+
+;0x84F1FE2E=102
+0x84F1FE2E=102
+
+;0x855E6621=~z~Like I said, thanks. Give me a call sometime, Niko.
+0x855E6621=~z~我也说了，谢了。改天给我打个电话吧，Niko。
+
+;0x85786678=FM6_YG
+0x85786678=FM6_YG
+
+;0x85EA86D8=~z~and a man of beliefs. God asks us to show faith and that is what he did, in his way.
+0x85EA86D8=~z~也是一个有信仰的人。上帝让我们展现信仰，这就是他的行动，他的做法。
+
+;0x86E34CEF=FM6_YJ
+0x86E34CEF=FM6_YJ
+
+;0x870762EA=~z~I did it for all of you.
+0x870762EA=~z~我那么做是因为你。
+
+;0x8754BD45=~z~What for?
+0x8754BD45=~z~谢什么？
+
+;0x87D835F5=~z~Shit, we're taking a pounding.
+0x87D835F5=~z~靠，我们受到了严重损伤。
+
+;0x8808C251=FM6_A_NA
+0x8808C251=FM6_A_NA
+
+;0x89EC5BCF=~z~Ain't you got no thoughts for the dead?
+0x89EC5BCF=~z~你们都不替死者考虑的吗？
+
+;0x8A11CFB6=~z~There's more coming. Watch out, Niko.
+0x8A11CFB6=~z~There's more coming. Watch out, Niko.
+
+;0x8D7A50BD=FM6_RA
+0x8D7A50BD=FM6_RA
+
+;0x8DE20463=100100010100010100100010100100010100100010100100100
+0x8DE20463=100100010100010100100010100100010100100010100100100
+
+;0x8FAE3081=FM6_IA
+0x8FAE3081=FM6_IA
+
+;0x8FBF920D=~z~I don't think they're after us no more, Niko.
+0x8FBF920D=~z~我想他们没有再追过来了，Niko。
+
+;0x8FE2742E=FM6_FA
+0x8FE2742E=FM6_FA
+
+;0x9021DE1A=~z~I gave up on my brothers a long time ago.
+0x9021DE1A=~z~我很久以前就对我的哥哥们不抱希望了。
+
+;0x91086592=~z~You fucked up a good thing, McRearys.
+0x91086592=~z~You fucked up a good thing, McRearys.
+
+;0x918F4963=~z~We ain't looking pretty, man.
+0x918F4963=~z~情况不太妙啊，兄弟。
+
+;0x91D2B27D=~z~They're coming through the alleyway, Niko. Watch the alleyway.
+0x91D2B27D=~z~他们从那条巷子来了，Niko。注意巷子。
+
+;0x92A15A4C=~z~I don't know.
+0x92A15A4C=~z~我不知道。
+
+;0x92B5D1D2=~z~No, you dumb European fuck, I meant my brother, Francis. It was a joke.
+0x92B5D1D2=~z~屁，你个欧洲白痴，我说的是我哥，Francis。就是开个玩笑。
+
+;0x935661BC=~z~Jesus, how'd that fuckin' happen?
+0x935661BC=~z~Jesus, how'd that fuckin' happen?
+
+;0x948C241B=~z~but he was a committed family man,
+0x948C241B=~z~但他是一个尽心尽力的顾家男人，
+
+;0x948E277E=~z~I don't know why your brother got killed but it looks like the funeral was shot up because of the shit Gerry was into.
+0x948E277E=~z~我不知道你的哥哥为什么被杀，但看来对葬礼的袭击和Gerry的所作所为有关。
+
+;0x965B615A=~z~and that is what he did, in his way.
+0x965B615A=~z~这就是他的行动，他的做法。
+
+;0x97CF6D67=FM6_YQ
+0x97CF6D67=FM6_YQ
+
+;0x97EB6B69=~z~Jesus Christ, there's more of them.
+0x97EB6B69=~z~Jesus Christ, there's more of them.
+
+;0x98425600=FM6_EA
+0x98425600=FM6_EA
+
+;0x9B92FF1C=~z~I'm gonna teach ya for doing this at my brother's funeral.
+0x9B92FF1C=~z~你们在我哥哥的葬礼这么搞，老子要教训教训你们。
+
+;0x9BFC0CD3=~z~Now that Francis is on his way to the graveyard, and Gerald is behind bars all I gots left is that smack-head Derrick.
+0x9BFC0CD3=~z~现在Francis在下葬路上，Gerald在酒吧狂饮，我这儿剩下的就一个满脑子麻药的Derrick。
+
+;0x9C498091=~z~This is a religious place!
+0x9C498091=~z~这里是宗教的地方！
+
+;0x9F18FDDA=FM6_VA
+0x9F18FDDA=FM6_VA
+
+;0x9FC07D57=~z~I'm not. I'm sorry for Ma.
+0x9FC07D57=~z~我不遗憾，我替妈遗憾。
+
+;0xA16EFE66=FM6_YO
+0xA16EFE66=FM6_YO
+
+;0xA1ADAC1D=100
+0xA1ADAC1D=100
+
+;0xA2A5304D=~z~Get in the Romero.
+0xA2A5304D=~z~上那辆Romero。
+
+;0xA2EF1306=100
+0xA2EF1306=100
+
+;0xA361ED08=~z~This ain't good, Niko.
+0xA361ED08=~z~情况不妙啊，Niko。
+
+;0xA388F473=FM6_XG
+0xA388F473=FM6_XG
+
+;0xA3E61181=~z~We are on to you, Micky bastards.
+0xA3E61181=~z~我们来干你了，爱尔兰鸟人。
+
+;0xA495FEDE=~z~I don't wanna lose my brother, Niko. Come on.
+0xA495FEDE=~z~我可不想把哥哥丢了，Niko。给力点。
+
+;0xA4ECFEE3=~z~Down, everybody get down!
+0xA4ECFEE3=~z~躲起来，所有人都躲起来！
+
+;0xA649D6E6=FM6_ZI
+0xA649D6E6=FM6_ZI
+
+;0xA883FD6E=~z~Are you suggesting that I'm a fucking cop? I thought that you would know better than that.
+0xA883FD6E=~z~你丫这是想说老子是条子吗？我还以为你很清楚我是什么人的。
+
+;0xA8EBCCBD=100
+0xA8EBCCBD=100
+
+;0xA9830A0F=FM6_XH
+0xA9830A0F=FM6_XH
+
+;0xA9A0556B=FM6_YI
+0xA9A0556B=FM6_YI
+
+;0xA9B9A84E=~z~You've got Katie.
+0xA9B9A84E=~z~你还有Katie。
+
+;0xAA7C13B6=~z~Alright, man. We're burying Derrick in the graveyard in Steinway. Let's get there.
+0xAA7C13B6=~z~好了，老兄。我们要把Derrick葬在Steinway的墓园。去那儿吧。
+
+;0xABDBB0C5=100
+0xABDBB0C5=100
+
+;0xACB6C5F4=~z~She will, Packie.
+0xACB6C5F4=~z~她会的，Packie。
+
+;0xAE2C88BB=~z~You know, I'm still not that fond of the guy, even in his death.
+0xAE2C88BB=~z~你也知道，我还是不大喜欢那家伙，他死了也一样。
+
+;0xAE38246E=~z~At a funeral, Jesus - you scum!
+0xAE38246E=~z~葬礼诶，天哪－一群败类！
+
+;0xAE81B1D4=~z~Come on, move it.
+0xAE81B1D4=~z~Come on, move it.
+
+;0xAEB8078D=~z~Alright, we're fucking here. Let's bury this bastard.
+0xAEB8078D=~z~好了，终于他妈到了。把这混蛋埋了吧。
+
+;0xB079ADA1=FM6_UA
+0xB079ADA1=FM6_UA
+
+;0xB0919482=FM6_A_KA
+0xB0919482=FM6_A_KA
+
+;0xB0E18475=FM6_ZO
+0xB0E18475=FM6_ZO
+
+;0xB3EE9C80=~z~The trials of humanity were sometimes too much for him to bear,
+0xB3EE9C80=~z~人性的审判对他来说有点难以承受，
+
+;0xB495A4BD=~z~Shit, there's more. Protect my family.
+0xB495A4BD=~z~我靠，那边来了一群。保护我的家人。
+
+;0xB578A032=FM6_OA
+0xB578A032=FM6_OA
+
+;0xB6115795=~z~This must be some of those Albanian guys Gerry was fucking with.
+0xB6115795=~z~这些肯定是Gerry之前惹上的阿尔巴尼亚人。
+
+;0xB61B9DD6=FM6_JA
+0xB61B9DD6=FM6_JA
+
+;0xB7E2A4A8=FM6_EC
+0xB7E2A4A8=FM6_EC
+
+;0xB914DA48=FM6_ZE
+0xB914DA48=FM6_ZE
+
+;0xB95CEDBC=~z~Francis gave so much of himself and will be sorely missed by us all.
+0xB95CEDBC=~z~Francis自己奉献了太多，他会受到我们的强烈思念。
+
+;0xBA9A5050=~z~Is not that I don't like cops, you do what you do to get by.
+0xBA9A5050=~z~不是说我不喜欢条子，为了生存该做的事还是得做。
+
+;0xBAA2B8C6=~z~You have taste of own medicine, McRearys.
+0xBAA2B8C6=~z~你们该自食其果了，McReary家的。
+
+;0xBC0D1288=~z~This must be a hard day for you, Packie. I'm sorry.
+0xBC0D1288=~z~今天你肯定很难过，Packie。我很抱歉。
+
+;0xBC57B7B3=FM6_A_GA
+0xBC57B7B3=FM6_A_GA
+
+;0xBC89A330=~z~Okay, this is it. We can put him in the ground now.
+0xBC89A330=~z~好了，就是这儿了。现在我们可以把他下葬了。
+
+;0xBD205E79=FM6_SA
+0xBD205E79=FM6_SA
+
+;0xBD542076=~z~I'm sorry about Francis's casket, Packie.
+0xBD542076=~z~Francis棺材的事我很抱歉，Packie。
+
+;0xBE07B0B2=~z~but he was a committed family man,
+0xBE07B0B2=~z~但他是一个尽心尽力的顾家男人，
+
+;0xBFADBD31=~z~Most I ever expected from them was to put flowers on their coffins.
+0xBFADBD31=~z~我最能指望他们的就只有在他们的棺材上献花了。
+
+;0xC066DFE8=~z~Jesus, there's another car. It's like a whole damn army.
+0xC066DFE8=~z~天哪，又是一辆。这他妈是支军队吧。
+
+;0xC09B57E9=FM6_YC
+0xC09B57E9=FM6_YC
+
+;0xC0A1CAF8=~z~Pathetic Americans, you thought we would not find you.
+0xC0A1CAF8=~z~可悲的美国人，你以为我们找不着你们吗。
+
+;0xC0E42E42=~z~Swiftly running out, Niko. Ain't got that many left.
+0xC0E42E42=~z~很快就要没了，Niko。没剩几个了。
+
+;0xC13E5757=~z~Which ain't gonna get used, I might add.
+0xC13E5757=~z~而且多半还用不到它，要我说。
+
+;0xC1C1DD3D=FM6_DC
+0xC1C1DD3D=FM6_DC
+
+;0xC23676FA=~z~I think we've finally lost 'em.
+0xC23676FA=~z~我想我们终于甩掉他们了。
+
+;0xC2A553C0=FM6_TA
+0xC2A553C0=FM6_TA
+
+;0xC3E1B425=~z~Hell of a fucking time to be making jokes about your dead brother.
+0xC3E1B425=~z~现在开你死去哥哥的玩笑也太他妈不是时候了。
+
+;0xC5F9F87A=~z~That means the men is in for a bad time but Katie's gonna make it out the other side. She'll stay clean and come out good.
+0xC5F9F87A=~z~就是说家族的男人会很糟，但Katie会不一样的。她会洁身自好有好结果的。
+
+;0xC61BCA0D=~z~Who doesn't?
+0xC61BCA0D=~z~谁不是呢？
+
+;0xC61CD8D8=FM6_A_DA
+0xC61CD8D8=FM6_A_DA
+
+;0xC68A99AB=FM6_ZG
+0xC68A99AB=FM6_ZG
+
+;0xC9544866=~z~Shit, Niko. Calm it or we'll lose my brother.
+0xC9544866=~z~靠，Niko。冷静点，不然我哥哥就要掉了。
+
+;0xCA86100E=~z~-Francis was a good boy.~n~-You must have faith.
+0xCA86100E=~z~－Francis是个好孩子。~n~－你一定要有信仰。
+
+;0xCAAAA98F=100
+0xCAAAA98F=100
+
+;0xCAF14244=~z~I guess you've got enough brothers to hate one of them.
+0xCAF14244=~z~我想你是哥哥太多，讨厌一个也无所谓。
+
+;0xCC20479D=100
+0xCC20479D=100
+
+;0xCC49F3AF=~z~Guys like you don't like cops. Being here, helping us out... I appreciate it.
+0xCC49F3AF=~z~像你这样的人都不喜欢条子。你能来，还帮了我们...我很感激。
+
+;0xCD2129DB=~z~Dammit. We're some back doors light, Niko. The fucking casket better not fall out. Go easy.
+0xCD2129DB=~z~干他，我们现在后门大开，Niko。那个破烂棺材最好别掉出来，好好开车。
+
+;0xCDB47A83=~z~Another car full, Niko. This is a full on assault.
+0xCDB47A83=~z~又是一车，Niko。这是有备而来的袭击。
+
+;0xCE0B5725=~z~Christ, that didn't have to happen.
+0xCE0B5725=~z~Christ, that didn't have to happen.
+
+;0xCEB0BEF3=FM6_ZJ
+0xCEB0BEF3=FM6_ZJ
+
+;0xD1D1C969=~z~He should a got one just for her. Later on, Niko.
+0xD1D1C969=~z~为了她也得办一场。回见，Niko。
+
+;0xD21A66FD=102
+0xD21A66FD=102
+
+;0xD2586E65=~z~You fucked with us, we will fuck with you.
+0xD2586E65=~z~你敢干我们，我们就会来干你。
+
+;0xD25E7C91=010100100
+0xD25E7C91=010100100
+
+;0xD32CDB76=~z~I'm sorry for your loss.
+0xD32CDB76=~z~你的丧兄我很遗憾。
+
+;0xD37BDB57=FM6_A_AA
+0xD37BDB57=FM6_A_AA
+
+;0xD486E6E3=~z~You have a strange family.
+0xD486E6E3=~z~你的家庭真奇怪。
+
+;0xD4FFDEA2=~z~Now, if you will all please join me, in the procession to the cemetery.
+0xD4FFDEA2=~z~现在请你们同我一道，进入前往墓园的车队。
+
+;0xD52296CB=~z~and smack-heads, and gangsters, and petty hoods.
+0xD52296CB=~z~还有麻药上脑的，还有黑道，还有小混混。
+
+;0xD625EA67=100
+0xD625EA67=100
+
+;0xD6CC7119=~z~We are not as stupid as you think, Irishmen.
+0xD6CC7119=~z~我们没你想的那么蠢，爱尔兰佬。
+
+;0xD82A20E3=FM6_A_HC
+0xD82A20E3=FM6_A_HC
+
+;0xD94C076C=~z~What are you waiting for? Go!
+0xD94C076C=~z~What are you waiting for? Go!
+
+;0xDB26B1EF=100
+0xDB26B1EF=100
+
+;0xDBA3ED05=~z~My brother's about to fall out the back of this thing. Christ, Niko.
+0xDBA3ED05=~z~我哥哥快从车后面掉下去了。天哪，Niko。
+
+;0xDC4323F4=FM6_A_BA
+0xDC4323F4=FM6_A_BA
+
+;0xDC9B02EE=~z~There will be more funerals in your family.
+0xDC9B02EE=~z~你家的葬礼还得办上几场。
+
+;0xDCD0AD83=010100100
+0xDCD0AD83=010100100
+
+;0xDED6F93F=~z~We got more of these bastards coming. Hold them off.
+0xDED6F93F=~z~又来了一群混蛋，阻止他们。
+
+;0xDEE8CA38=FM6_A_MA
+0xDEE8CA38=FM6_A_MA
+
+;0xDF9671CF=FM6_EE
+0xDF9671CF=FM6_EE
+
+;0xE0116A03=FM6_XD
+0xE0116A03=FM6_XD
+
+;0xE16B6F38=~z~I guess that's what turning cop'll do to a fraternal relationship.
+0xE16B6F38=~z~大概是当上条子对兄弟关系造成的影响吧。
+
+;0xE1DFCC40=~z~More people didn't have to die at a McReary funeral. I'll see you round.
+0xE1DFCC40=~z~More people didn't have to die at a McReary funeral. I'll see you round.
+
+;0xE1E17865=~z~that is why God put us on earth and not in heaven.
+0xE1E17865=~z~因此上帝才会将我们置于大地而非天堂。
+
+;0xE2EE40DE=~z~The trials of humanity were sometimes too much for him to bear,
+0xE2EE40DE=~z~人性的审判对他来说有点难以承受，
+
+;0xE31C3A98=~z~You're a sick man, Niko. I'd fucking slap you if I didn't love ya so much.
+0xE31C3A98=~z~真是恶心，Niko。要不是我太爱你，我都要一巴掌糊你脸上了。
+
+;0xE592130D=~z~Ain't no more McRearys ending up in caskets today.
+0xE592130D=~z~今天不能再有McReary家的人进棺材了。
+
+;0xE59358CC=FM6_ZF
+0xE59358CC=FM6_ZF
+
+;0xE5D100BA=~z~I'm not. I'm sorry for Ma.
+0xE5D100BA=~z~我不遗憾，我替妈遗憾。
+
+;0xE7931316=~z~Stay back, me and Niko will handle this.
+0xE7931316=~z~退后，我和Niko会解决的。
+
+;0xE7A8DD79=~z~Niko, are you gonna help me stop these bastards from killing any more McRearys?
+0xE7A8DD79=~z~Niko，你能帮我阻止这些混蛋杀掉更多McReary家的人吗？
+
+;0xEA19334C=~z~Shit, it looks like we got more of 'em coming. Man up, Niko.
+0xEA19334C=~z~靠，看来还有更多人来。干他们，Niko。
+
+;0xEA6A7718=~z~Cover my family, Niko.
+0xEA6A7718=~z~Cover my family, Niko.
+
+;0xEAB59340=~z~Oh my God get the hell out of the way!
+0xEAB59340=~z~噢上帝，不要挡在里边！
+
+;0xEB637D4A=~z~Niko, will you help me protect my family?
+0xEB637D4A=~z~Niko，你能帮我保护我的家人吗？
+
+;0xECC456C3=400040400400040400
+0xECC456C3=400040400400040400
+
+;0xECCE655B=FM6_A_KC
+0xECCE655B=FM6_A_KC
+
+;0xEED4C44B=FM6_ZD
+0xEED4C44B=FM6_ZD
+
+;0xEEED8C1E=FM6_YK
+0xEEED8C1E=FM6_YK
+
+;0xEEFC93B6=~z~We're about to lose my brother, Niko!
+0xEEFC93B6=~z~我哥哥就要掉了，Niko！
+
+;0xEF2AE566=~z~There can't be a lot more where they came from, right?
+0xEF2AE566=~z~应该不会再来一波了吧，对吧？
+
+;0xEF95E7AC=~z~You're fucking right it's a hard day.
+0xEF95E7AC=~z~You're fucking right it's a hard day.
+
+;0xEFCB0BD0=FM6_NA
+0xEFCB0BD0=FM6_NA
+
+;0xF01DB0DE=FM6_GA
+0xF01DB0DE=FM6_GA
+
+;0xF0D5F7D6=FM6_A_CA
+0xF0D5F7D6=FM6_A_CA
+
+;0xF0E4C4F7=102
+0xF0E4C4F7=102
+
+;0xF19E278A=100100010100010010010100100100010100100100010
+0xF19E278A=100100010100010010010100100100010100100100010
+
+;0xF1C961F3=~z~Only a McReary family funeral would get shot up like this, Niko.
+0xF1C961F3=~z~只有McReary家族的葬礼会像这样被持枪袭击，Niko。
+
+;0xF1DB5262=~z~Other members of my family'll be more upset. See ya, Niko.
+0xF1DB5262=~z~我家的其他人会更伤心的。再见，Niko。
+
+;0xF1FC939C=FM6_YL
+0xF1FC939C=FM6_YL
+
+;0xF25F7F2C=~z~There ain't no way we're making it to the graveyard now, is there?
+0xF25F7F2C=~z~现在我们没法子去墓园了，是吧？
+
+;0xF319D9D3=~z~If Derrick was alive he'd need a shit load of horse to deal with the stress of this situation.
+0xF319D9D3=~z~要是Derrick还活着，这么大的压力下他得打上一大堆麻药。
+
+;0xF483C1F5=FM6_YE
+0xF483C1F5=FM6_YE
+
+;0xF48AF2B5=102
+0xF48AF2B5=102
+
+;0xF62857F4=102
+0xF62857F4=102
+
+;0xF777A407=~z~I gave up on my brothers a long time ago.
+0xF777A407=~z~我很久以前就对我的哥哥们不抱希望了。
+
+;0xF7B94438=~z~I coulda fucking guessed you'd bring her up.
+0xF7B94438=~z~我就他妈知道你会提起她。
+
+;0xF83CB469=~z~Don't come out of the fucking church.
+0xF83CB469=~z~别他妈从教堂里出来。
+
+;0xF8CE1232=FM6_BA
+0xF8CE1232=FM6_BA
+
+;0xF909AFE8=~z~I don't know.
+0xF909AFE8=~z~我不知道。
+
+;0xF91D9882=~z~Don't these scum let up for a second.
+0xF91D9882=~z~这些人渣就不能消停会儿吗。
+
+;0xF9A55FD0=~z~Modesty's one of the few virtues I'm blessed with, Niko.
+0xF9A55FD0=~z~谦虚是少数我与生俱来的美德之一，Niko。
+
+;0xFA7C183F=FM6_A_FA
+0xFA7C183F=FM6_A_FA
+
+;0xFB1941BF=FM6_PA
+0xFB1941BF=FM6_PA
+
+;0xFC2A2A44=FM6_XC
+0xFC2A2A44=FM6_XC
+
+;0xFCEDCDFF=~z~As if my mother hasn't gone through enough without a bunch of goons shooting up her son's funeral.
+0xFCEDCDFF=~z~就算没那么多混蛋开枪大闹他儿子的葬礼，我母亲也已经受了够多苦了。
+
+;0xFD639C65=FM6_CA
+0xFD639C65=FM6_CA
+
+;0xFD665F2E=FM6_ZB
+0xFD665F2E=FM6_ZB
+
+;0xFE5C03C8=~z~It looks like that's all of 'em for now.
+0xFE5C03C8=~z~看来就这么些人了。
+

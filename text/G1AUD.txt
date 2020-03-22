@@ -1,0 +1,850 @@
+﻿[G1AUD]
+;0x010D54F6=~z~If I get out of this, punks like Dimitri Rascalov are going to wish they never got off the boat here.
+0x010D54F6=~z~要是我活下来了，Dimitri Rascalov这种混蛋就要后悔自己乘船来这儿了。
+
+;0x0207DED6=SFX_PAUSE_4000
+0x0207DED6=SFX_PAUSE_4000
+
+;0x0210A091=~z~When I'm done at the podium, Mayor Ochoa is going to be dedicating half his annual budget to cleaning this problem up.
+0x0210A091=~z~演讲结束后，Ochoa市长肯定会把财年预算的一半拿出来解决这个问题。
+
+;0x02C10FA4=~z~This isn't City Hall.
+0x02C10FA4=~z~市政厅还没到。
+
+;0x02D5AC57=G1_A_DC
+0x02D5AC57=G1_A_DC
+
+;0x03312413=G1_YO
+0x03312413=G1_YO
+
+;0x0484E761=~z~You did good. Heard you had some trouble along the way.
+0x0484E761=~z~干得漂亮。听说你路上遇到了麻烦。
+
+;0x07324AE7=~z~Isn't that the famous American dream?
+0x07324AE7=~z~那不就是著名的美国梦吗？
+
+;0x07E1F857=~z~You are quite a popular man, Mr. Jefferson.
+0x07E1F857=~z~你可真受欢迎，Jefferson先生。
+
+;0x07E59604=~z~Sure.
+0x07E59604=~z~明白。
+
+;0x0AF5B3E4=SFX_PAUSE_4000
+0x0AF5B3E4=SFX_PAUSE_4000
+
+;0x0BB18EA4=~z~Don't go too far.
+0x0BB18EA4=~z~别走太远。
+
+;0x0E82845F=090
+0x0E82845F=090
+
+;0x0ECBC0F4=SFX_PAUSE_4000
+0x0ECBC0F4=SFX_PAUSE_4000
+
+;0x0F3F55A6=G1_AA
+0x0F3F55A6=G1_AA
+
+;0x115AA7F3=~z~So you're the one who's getting involved with that nonsense for my...
+0x115AA7F3=~z~看来你就是那个助纣为虐的人，协助我...
+
+;0x118D7CFD=G1_ZC
+0x118D7CFD=G1_ZC
+
+;0x11F84E0A=~z~Clock the fire escape.
+0x11F84E0A=~z~防火梯上面。
+
+;0x1201943C=~z~And I care about my legacy.
+0x1201943C=~z~我还在乎我的遗产。
+
+;0x12129F4A=~z~Okay. Good. What do you want me to do?
+0x12129F4A=~z~好吧。行。你想让我做什么？
+
+;0x12654E8E=G1_EA
+0x12654E8E=G1_EA
+
+;0x1320791C=~z~They won't stop at anything, these people.
+0x1320791C=~z~他们这些人不会善罢甘休的。
+
+;0x13BF0E8C=~z~Alright Jon, I'll come see you after the speech.
+0x13BF0E8C=~z~好吧,Jon，演讲完毕之后我来找你。
+
+;0x13FFC258=G1_A_BC
+0x13FFC258=G1_A_BC
+
+;0x1576A22E=~z~You need to stick to me.
+0x1576A22E=~z~你得跟着我。
+
+;0x181D7F6D=~z~I just got a call from Bobby Jefferson's people
+0x181D7F6D=~z~Bobby Jefferson的人刚给我打了电话，
+
+;0x18F3EE6A=~z~The American dream's a fairy tale. It was never meant to be taken literally.
+0x18F3EE6A=~z~美国梦简直就是一个童话，它永远不可能真正实现。
+
+;0x18FE1626=G1_ZE
+0x18FE1626=G1_ZE
+
+;0x1914B774=202
+0x1914B774=202
+
+;0x19278B92=~z~They don't respect anything.
+0x19278B92=~z~他们目中无人，什么都不在乎。
+
+;0x193C5032=G1_A_BD
+0x193C5032=G1_A_BD
+
+;0x195BC28D=190190190190190190190190190190190190190190190190190190190
+0x195BC28D=190190190190190190190190190190190190190190190190190190190
+
+;0x19C039B9=~z~Niko Bellic, right?
+0x19C039B9=~z~Niko Bellic是吧？
+
+;0x1A550FFE=100100010
+0x1A550FFE=100100010
+
+;0x1AB68F0B=G1_XB
+0x1AB68F0B=G1_XB
+
+;0x1CA2EB18=G1_HA
+0x1CA2EB18=G1_HA
+
+;0x1DF0317D=~z~Yeah, well uh... you know...
+0x1DF0317D=~z~是啊，呃，你懂的...
+
+;0x1EDF9988=G1_A_CF
+0x1EDF9988=G1_A_CF
+
+;0x1F7197A1=G1_XC
+0x1F7197A1=G1_XC
+
+;0x20593BD7=~z~A good friend of mine is coming into town to give a speech
+0x20593BD7=~z~我的一位好友要在城里演讲，
+
+;0x20D6B64F=G1_QA
+0x20D6B64F=G1_QA
+
+;0x219EE440=G1_WB
+0x219EE440=G1_WB
+
+;0x21F084AF=010100100100010
+0x21F084AF=010100100100010
+
+;0x22AB37A3=G1_A_CB
+0x22AB37A3=G1_A_CB
+
+;0x22E7ACE5=G1_ZA
+0x22E7ACE5=G1_ZA
+
+;0x23A37EA3=~z~Let's go down this alleyway. Find a vehicle.
+0x23A37EA3=~z~我们沿着这条小巷走吧，找辆车。
+
+;0x240DEA30=G1_YK
+0x240DEA30=G1_YK
+
+;0x2412E1B3=G1_A_BH
+0x2412E1B3=G1_A_BH
+
+;0x24774413=~z~being brought here from wherever it is he's hiding,
+0x24774413=~z~从天涯海角给你送过来，
+
+;0x250DD43D=~z~Where're you going?
+0x250DD43D=~z~你去哪儿？
+
+;0x25373DDB=G1_A_CA
+0x25373DDB=G1_A_CA
+
+;0x2584EF9F=G1_A_BB
+0x2584EF9F=G1_A_BB
+
+;0x26611BF8=~z~telling me that you were too busy screwing around to get him to City Hall?
+0x26611BF8=~z~说你忙着搞破坏，没空送他去市政厅？
+
+;0x26FA542D=~z~Yeah, that's me.
+0x26FA542D=~z~对，是我。
+
+;0x27B070B9=G1_ZO
+0x27B070B9=G1_ZO
+
+;0x2805294D=~z~If I get my hands on these bastards...
+0x2805294D=~z~如果我抓住这些混蛋...
+
+;0x294D7706=G1_A_DA
+0x294D7706=G1_A_DA
+
+;0x2B536966=G1_RD
+0x2B536966=G1_RD
+
+;0x2B71BD3D=G1_MA
+0x2B71BD3D=G1_MA
+
+;0x2D22EAB1=G1_RB
+0x2D22EAB1=G1_RB
+
+;0x2ECE3BF3=~z~You can always rely on those Russians to try something.
+0x2ECE3BF3=~z~总能指望那些俄国人来点新花样。
+
+;0x2EE7C4E1=~z~half the LCPD will be learning Russian and patrolling Hove Beach.
+0x2EE7C4E1=~z~LCPD有一半都会学俄语，在Hove Beach巡逻。
+
+;0x3002A0F6=~z~Well, we both watch out for one another then. We wouldn't survive in this shitty world if we didn't.
+0x3002A0F6=~z~我们得互相提防，否则很难在这糟糕的世界生存下来。
+
+;0x3044C797=~z~Don't mention it.
+0x3044C797=~z~别提了。
+
+;0x318D8AF7=SFX_PAUSE_4000
+0x318D8AF7=SFX_PAUSE_4000
+
+;0x324E0F57=~z~I don't know who you are, but you got me here.
+0x324E0F57=~z~我不知道你是谁，但你护送我到这儿了。
+
+;0x32C4E0AE=~z~Switzerland or some shit.
+0x32C4E0AE=~z~不论瑞士还是哪里。
+
+;0x33663602=~z~Hey, fucking around's a full time job.
+0x33663602=~z~嘿，搞破坏可是全职工作。
+
+;0x34807322=~z~I don't have time for this.
+0x34807322=~z~我没空等在这里。
+
+;0x36B56869=100010100100010100
+0x36B56869=100010100100010100
+
+;0x391B610F=~z~he's being blackmailed.
+0x391B610F=~z~正在被勒索。
+
+;0x3932C2A0=100100010100100100
+0x3932C2A0=100100010100100100
+
+;0x3A015FE8=G1_MB
+0x3A015FE8=G1_MB
+
+;0x3A4E282B=G1_A_DB
+0x3A4E282B=G1_A_DB
+
+;0x3B12AE2C=G1_AB
+0x3B12AE2C=G1_AB
+
+;0x3BA5D434=G1_A_CE
+0x3BA5D434=G1_A_CE
+
+;0x3FB6667E=~z~The speech is fine, Jon. Before Mayor Ochoa knows it,
+0x3FB6667E=~z~演讲挺不错的，Jon。但仅限于Ochoa市长知道之前。
+
+;0x3FF81814=G1_A_EA
+0x3FF81814=G1_A_EA
+
+;0x41D8D2E7=~z~Kid, you are something else. I haven't had someone bust my balls like that in years.
+0x41D8D2E7=~z~小子，你跟别人不同。我好多年没被人这么耍了。
+
+;0x42CA3005=190190190190190190190190190190190190190190190190190
+0x42CA3005=190190190190190190190190190190190190190190190190190
+
+;0x435CBC1C=~z~We're not on a sightseeing tour. Get back to the convoy.
+0x435CBC1C=~z~我们不是来观光的。回到车队里。
+
+;0x439E0753=~z~I guess we keep making the same mistakes no matter how old we get. Goodbye.
+0x439E0753=~z~看来不论年纪多大，都会犯同样的错误。再见。
+
+;0x463CCA14=~z~Check down the street.
+0x463CCA14=~z~注意路上。
+
+;0x47740648=~z~Stay close if you want to survive.
+0x47740648=~z~如果想活下来就跟紧。
+
+;0x485F2C31=~z~I'll explain that important cultural difference to one of these Russian gangsters if our paths cross.
+0x485F2C31=~z~再遇上的话，我可要好好给某个俄国黑道解释下重要的文化差异。
+
+;0x491207C0=~z~and I still care, care how I look,
+0x491207C0=~z~我还在乎，在乎我的形象，
+
+;0x491D2662=SFX_PAUSE_4000
+0x491D2662=SFX_PAUSE_4000
+
+;0x496AA1EC=G1_RA
+0x496AA1EC=G1_RA
+
+;0x4AA9457F=~z~I'm gonna go and move the barriers.
+0x4AA9457F=~z~我先过去把路障移开。
+
+;0x4B34F92F=SFX_PAUSE_4000
+0x4B34F92F=SFX_PAUSE_4000
+
+;0x4B560588=~z~By them damn Russians.
+0x4B560588=~z~该死的俄国人干的。
+
+;0x4B58B320=~z~That's it.
+0x4B58B320=~z~就这样。
+
+;0x4C998ED3=~z~it's ridiculous.
+0x4C998ED3=~z~太荒唐了。
+
+;0x4D131442=~z~Thank you.
+0x4D131442=~z~谢谢你。
+
+;0x4D682E67=G1_RE
+0x4D682E67=G1_RE
+
+;0x4EC676CF=~z~I can't believe they're trying this.
+0x4EC676CF=~z~简直不敢相信他们居然尝试这样做。
+
+;0x51217178=~z~You made a dying man smile,
+0x51217178=~z~你让一个将死之人笑了，
+
+;0x51B4A546=~z~Don't say that, Jon. You'll be feeling like a teenager again in no time.
+0x51B4A546=~z~别这么说，Jon。马上你就会感到如获新生了。
+
+;0x55D84B84=G1_YM
+0x55D84B84=G1_YM
+
+;0x5694B266=~z~dear friend James Pegorino.
+0x5694B266=~z~亲爱的朋友James Pegorino。
+
+;0x57FB07A9=~z~I hadn't been in a fire fight since my army days.
+0x57FB07A9=~z~从军队退伍以来我还没参与过火拼呢。
+
+;0x59F2E412=~z~Another road block, this definitely wasn't mentioned on the traffic report.
+0x59F2E412=~z~这里也封了，之前的路况报告肯定没写这个。
+
+;0x5B6CC0FA=~z~Get back in the car.
+0x5B6CC0FA=~z~回到车上。
+
+;0x5C0562C5=~z~Goes to show, some immigrants have the best interest of the country in their hearts.
+0x5C0562C5=~z~恰好说明，一些移民是真心在为国家利益着想。
+
+;0x5C4317C7=SFX_PAUSE_4000
+0x5C4317C7=SFX_PAUSE_4000
+
+;0x5D1F7B2F=~z~Jon, you sound terrible.
+0x5D1F7B2F=~z~Jon，你的声音听起来很糟糕。
+
+;0x5E16DAFE=G1_A_BE
+0x5E16DAFE=G1_A_BE
+
+;0x5EA4F647=G1_A_AA
+0x5EA4F647=G1_A_AA
+
+;0x5F3BE162=100100
+0x5F3BE162=100100
+
+;0x618D4857=~z~Here.
+0x618D4857=~z~这边。
+
+;0x62B0EAB3=100
+0x62B0EAB3=100
+
+;0x642166F9=010100100100
+0x642166F9=010100100100
+
+;0x657431F5=~z~Yeah, all the best.
+0x657431F5=~z~是啊，祝一切顺利。
+
+;0x671F2780=~z~Courage under fire.
+0x671F2780=~z~生死豪情。
+
+;0x67936B95=~z~Take a deep breath, Jon.
+0x67936B95=~z~深呼吸，Jon。
+
+;0x681A7ACA=200020200020
+0x681A7ACA=200020200020
+
+;0x69F4876C=G1_DA
+0x69F4876C=G1_DA
+
+;0x6AECC615=~z~Let me tell you - that faggot friend of yours, Bernie Crane?
+0x6AECC615=~z~我告诉你－你那个死基佬朋友，Bernie Crane？
+
+;0x6C5C11D2=G1_GB
+0x6C5C11D2=G1_GB
+
+;0x6D9D147B=G1_A_FA
+0x6D9D147B=G1_A_FA
+
+;0x6E0BD0A7=G1_A_CD
+0x6E0BD0A7=G1_A_CD
+
+;0x6E34D78D=~z~on the new threat to Liberty City -
+0x6E34D78D=~z~主题是自由城的新威胁－
+
+;0x6EDBCC93=~z~His boyfriend...
+0x6EDBCC93=~z~他的男友...
+
+;0x6F115566=~z~Come on. Keep close.
+0x6F115566=~z~来啊，跟上。
+
+;0x6F4AADCA=~z~but don't think about screwing up or screwing with me again, or we'll have a real problem.
+0x6F4AADCA=~z~但是别再想着搞破坏或者搞我了，否则就要追悔莫及了。
+
+;0x703F18B9=~z~Easy boy.
+0x703F18B9=~z~放松，小子。
+
+;0x7218E5E2=~z~I'm going to bring up everything we discussed.
+0x7218E5E2=~z~我们讨论过的所有内容都会提到。
+
+;0x7250DEBD=~z~He's coming in from upstate.
+0x7250DEBD=~z~他要从郊区过来。
+
+;0x74C3EEC4=~z~-I don't know what the...~n~-Spare me, please,
+0x74C3EEC4=~z~－你在说什...~n~－饶了我吧！
+
+;0x77034C67=G1_ZG
+0x77034C67=G1_ZG
+
+;0x7783E4A3=~z~All people. Even you, even me, an old man facing the end...
+0x7783E4A3=~z~所有人。不管是你还是我－一个垂死的老人...
+
+;0x78C4113B=G1_IA
+0x78C4113B=G1_IA
+
+;0x79A29FBE=G1_MA
+0x79A29FBE=G1_MA
+
+;0x79AC7990=~z~Stay in convoy with us all the way to City Hall, alright?
+0x79AC7990=~z~和我们在同一车队里前往市政厅，好吗？
+
+;0x7A0C31B2=~z~They're coming up the road.
+0x7A0C31B2=~z~他们从路那边来了！
+
+;0x7A0E2982=~z~You think you know a better route?
+0x7A0E2982=~z~你比车队认识路？
+
+;0x7A4A6A34=~z~care that when I shit myself, the pretty nurse has to clean it up...
+0x7A4A6A34=~z~在乎我屎拉身上的时候，漂亮护士还得来收拾干净...
+
+;0x7B6DA1F1=SFX_PAUSE_4000
+0x7B6DA1F1=SFX_PAUSE_4000
+
+;0x7B6E7200=~z~Russian organized crime.
+0x7B6E7200=~z~俄国犯罪组织。
+
+;0x7FD279C0=~z~He'll be at Grand Easton Terminal on Bismarck.
+0x7FD279C0=~z~他会在Bismarck的Grand Easton车站。
+
+;0x81C41EFA=~z~In Europe the politicians are as crooked as the gangsters.
+0x81C41EFA=~z~在欧洲，政治家和黑帮一样奸诈。
+
+;0x824FFA4F=G1_A_CC
+0x824FFA4F=G1_A_CC
+
+;0x86B78D75=~z~You ain't gonna hear no speech at City Hall today.
+0x86B78D75=~z~今天市政厅不会有演讲了。
+
+;0x872BCADC=~z~They come to this country and think that it's for the taking.
+0x872BCADC=~z~他们来到这个国家，自认为是来赚钱的。
+
+;0x873D6DC3=G1_XF
+0x873D6DC3=G1_XF
+
+;0x88202BAE=~z~Thanks for the advice.
+0x88202BAE=~z~感谢你的忠告。
+
+;0x88A28C84=~z~I got a feeling some people ain't gonna want that speech to happen.
+0x88A28C84=~z~我有预感，有些人不想让演讲顺利进行。
+
+;0x88D033A5=G1_WA
+0x88D033A5=G1_WA
+
+;0x892663E4=010
+0x892663E4=010
+
+;0x89C518C6=~z~Uh, someone here to see you.
+0x89C518C6=~z~呃，有个人找你。
+
+;0x8A72EE27=~z~John's boys better get me out of this.
+0x8A72EE27=~z~John手下的伙计们最好帮我摆脱这一切。
+
+;0x8B7A3266=~z~American gangsters like Jon Gravelli understand the way life works, they get the limits of their power.
+0x8B7A3266=~z~像Jon Gravelli这样的美国黑道了解人生的规律，他们知道自己的能力是有极限的。
+
+;0x8BD271F5=~z~You guys waiting for me?
+0x8BD271F5=~z~你们在等我吗？
+
+;0x8D599C8F=~z~Those are the wonders of modern medicine.
+0x8D599C8F=~z~这都是现代医学的奇迹。
+
+;0x8E39160E=~z~Hostiles on the roof.
+0x8E39160E=~z~屋顶有敌人。
+
+;0x8F6EC01C=G1_YJ
+0x8F6EC01C=G1_YJ
+
+;0x8F918F5E=~z~So it might as well be me.
+0x8F918F5E=~z~那还是我来吧。
+
+;0x8FE31561=~z~thank you. It made me laugh...
+0x8FE31561=~z~谢谢。我听的笑死了...
+
+;0x9170D847=~z~Where do you think you're going?
+0x9170D847=~z~你这是想往哪儿开？
+
+;0x925614E3=~z~I know, it's a terrible tragedy.
+0x925614E3=~z~我知道，实在是悲剧啊。
+
+;0x944AC407=~z~Yeah, sure. You are as clean as the driven snow.
+0x944AC407=~z~对，没错。您可就一清二白了。
+
+;0x947517C5=~z~These Russian fucking bastards are trying to finish us.
+0x947517C5=~z~这些俄国混帐东西想消灭我们。
+
+;0x9563487C=SFX_PAUSE_4000
+0x9563487C=SFX_PAUSE_4000
+
+;0x96652809=~z~Maybe the guy you love, this Dimitri Rascalov, has an interest in keeping this story out the press.
+0x96652809=~z~或许你最爱的，这个Dimitri Rascalov，就不太想让这件事见诸报端。
+
+;0x97F32982=~z~Up on the roof.
+0x97F32982=~z~屋顶上面。
+
+;0x999BCF95=G1_YA
+0x999BCF95=G1_YA
+
+;0x99EB2971=~z~My pleasure.
+0x99EB2971=~z~不客气。
+
+;0x9BB29815=G1_XD
+0x9BB29815=G1_XD
+
+;0x9BD9EF0D=G1_AE
+0x9BD9EF0D=G1_AE
+
+;0x9C0FBD5B=~z~C'mon.
+0x9C0FBD5B=~z~来吧。
+
+;0x9D59F84D=~z~Over there.
+0x9D59F84D=~z~在那边。
+
+;0x9EB0D9CF=~z~I'll talk to you later.
+0x9EB0D9CF=~z~待会儿再跟你聊。
+
+;0xA042B0C0=~z~Yes.
+0xA042B0C0=~z~是的。
+
+;0xA1145A2C=G1_A_BG
+0xA1145A2C=G1_A_BG
+
+;0xA4130925=~z~I feel safe here when I know I've got your people looking out for me.
+0xA4130925=~z~当我知道你的人在关照我时，我感到很安全。
+
+;0xA43D6BE6=G1_A_BA
+0xA43D6BE6=G1_A_BA
+
+;0xA49C396F=~z~But if it wasn't me, it would just be someone else.
+0xA49C396F=~z~就算没有我，也会有别的王朝。
+
+;0xA5B03A3B=~z~What do you want me to do about it?
+0xA5B03A3B=~z~对此你想让我怎么做？
+
+;0xA5FED139=~z~I'm here to see Mr. Gravelli. I was sent by a mutual friend.
+0xA5FED139=~z~我来找Gravelli先生，是一个旧相识派我来的。
+
+;0xA6249207=100100010100100100010010
+0xA6249207=100100010100100100010010
+
+;0xA650A555=SFX_PAUSE_4000
+0xA650A555=SFX_PAUSE_4000
+
+;0xA6B9D05F=G1_QB
+0xA6B9D05F=G1_QB
+
+;0xA7B90E3D=~z~You've got to get us to the Civic Citadel.
+0xA7B90E3D=~z~你一定要把我送到市政厅。
+
+;0xA7BC79BE=~z~I'll tell Jon you did well.
+0xA7BC79BE=~z~干得不错，我会告诉Jon的。
+
+;0xA866365D=100100100
+0xA866365D=100100100
+
+;0xAA0E6DC8=290290
+0xAA0E6DC8=290290
+
+;0xAA55112E=~z~That's when the people from abroad smell weakness.
+0xAA55112E=~z~就是那时候，那些外国人准备趁虚而入。
+
+;0xAB1574C8=G1_YC
+0xAB1574C8=G1_YC
+
+;0xAB1D5640=~z~I expected better from a man with your reputation.
+0xAB1D5640=~z~我对你的大名可没有那么低的预期。
+
+;0xAB5A8EEF=~z~Control yourself.
+0xAB5A8EEF=~z~别乱开车。
+
+;0xAB6A45B3=~z~The police have a file on you an inch thick... in exchange for that...
+0xAB6A45B3=~z~你一英尺*厚的警方档案...这就是报酬...~n~(注：约30.5厘米)
+
+;0xACA0DB1D=~z~Jon. How are you?
+0xACA0DB1D=~z~Jon，你还好吗？
+
+;0xAD1CBEB1=190
+0xAD1CBEB1=190
+
+;0xADA110A7=~z~Come on, cowboy. Get back in line.
+0xADA110A7=~z~拜托，牛仔。别离开车队。
+
+;0xAEF16F34=G1_RC
+0xAEF16F34=G1_RC
+
+;0xAF23F9B9=~z~They don't understand that things are different here.
+0xAF23F9B9=~z~他们不知道这里另有一套规矩。
+
+;0xAFDBBE08=~z~How are we supposed to compete with these immigrant criminals when they want it so bad?
+0xAFDBBE08=~z~这些移民犯罪者如狼似虎，我们怎么可能打得过？
+
+;0xB037382C=~z~Thank Jon Gravelli, he's the one paying me to be here.
+0xB037382C=~z~是Jon Gravelli，他付钱让我来的。
+
+;0xB0EE22DB=~z~Jon. It's great to be back in Liberty City.
+0xB0EE22DB=~z~Jon，回到自由城的感觉真好。
+
+;0xB103CF2D=G1_YI
+0xB103CF2D=G1_YI
+
+;0xB3235C50=100
+0xB3235C50=100
+
+;0xB3B3F1BC=292
+0xB3B3F1BC=292
+
+;0xB3F5DD86=~z~People are so damn vain.
+0xB3F5DD86=~z~现在人太虚荣了。
+
+;0xB64063DF=~z~Follow me, Mr Jefferson.
+0xB64063DF=~z~跟着我，Jefferson先生。
+
+;0xB6C0DDB8=~z~and take control of rackets my family has run for fifty years.
+0xB6C0DDB8=~z~就想夺取我的家族五十年来的江山。
+
+;0xB6CD01AB=G1_UB
+0xB6CD01AB=G1_UB
+
+;0xB73C4A3C=G1_XA
+0xB73C4A3C=G1_XA
+
+;0xB79C8AC7=G1_YQ
+0xB79C8AC7=G1_YQ
+
+;0xB7EFDEBA=~z~They want him to put certain contracts up for tender,
+0xB7EFDEBA=~z~他们想逼他拿出某些合同招标，
+
+;0xB923E122=~z~windows, bus lines, cleaning. Ones we control.
+0xB923E122=~z~擦窗，公交，环卫。我们的蛋糕。
+
+;0xBA1DD28C=~z~You're working with me, aren't you Mr. Gravelli? See you later.
+0xBA1DD28C=~z~你跟我联手了，不是吗，Gravelli先生？待会儿见。
+
+;0xBB575192=G1_XE
+0xBB575192=G1_XE
+
+;0xBBB80CA1=G1_UA
+0xBBB80CA1=G1_UA
+
+;0xBCB636C8=G1_QD
+0xBCB636C8=G1_QD
+
+;0xBCEE79E2=~z~What do you mean? Bobby Jefferson is dead?
+0xBCEE79E2=~z~你什么意思？Bobby Jefferson死了？
+
+;0xBD0EB257=~z~This is a city vehicle.
+0xBD0EB257=~z~这是公家的车。
+
+;0xBD46F028=~z~Some people.
+0xBD46F028=~z~部分吧。
+
+;0xBE6AAA36=SFX_PAUSE_4000
+0xBE6AAA36=SFX_PAUSE_4000
+
+;0xC0378572=~z~I'm an old man.
+0xC0378572=~z~我是个老头了。
+
+;0xC05D251C=SFX_PAUSE_4000
+0xC05D251C=SFX_PAUSE_4000
+
+;0xC159EA65=G1_JA
+0xC159EA65=G1_JA
+
+;0xC24E0DAB=292
+0xC24E0DAB=292
+
+;0xC38F9901=G1_ZI
+0xC38F9901=G1_ZI
+
+;0xC3D23D09=~z~We were driving with those other cars for a reason.
+0xC3D23D09=~z~选择车队同行不是没有原因的。
+
+;0xC670649E=~z~I don't know what I would have done if you hadn't held your head back there. Thank you, son.
+0xC670649E=~z~如果没有你在背后支持我，我甚至不知道事情会成什么样。谢谢你，小伙子。
+
+;0xC744340A=G1_ZK
+0xC744340A=G1_ZK
+
+;0xC84B9272=~z~Oh course. I'm coming to see you as soon as I've delivered the speech.
+0xC84B9272=~z~当然。演讲一结束我就来找你。
+
+;0xCA6D953A=G1_KA
+0xCA6D953A=G1_KA
+
+;0xCB4806CA=~z~You mean fifty years of you bleeding the city dry might finally come to an end?
+0xCB4806CA=~z~就是说你敲骨吸髓五十年的王朝，现在终于要崩塌了？
+
+;0xCBABA3C0=G1_LA
+0xCBABA3C0=G1_LA
+
+;0xCC4142BB=G1_YE
+0xCC4142BB=G1_YE
+
+;0xCD22B3B3=G1_YS
+0xCD22B3B3=G1_YS
+
+;0xCE26D8D1=~z~This country is falling apart. There's no law anymore. Jesus.
+0xCE26D8D1=~z~这个国家正在分崩离析，哪有什么法律可言，天呐。
+
+;0xCFBC57B2=~z~Watch it.
+0xCFBC57B2=~z~当心点。
+
+;0xD2D56343=~z~More hostiles.
+0xD2D56343=~z~又来了一批。
+
+;0xD2F60E80=~z~It looks like these men really want you dead, Mr. Jefferson.
+0xD2F60E80=~z~看来他们想来真的啊，Jefferson先生。
+
+;0xD31CC2A2=~z~No Jon, if it's your problem, it's my problem as well.
+0xD31CC2A2=~z~不，Jon。你的麻烦，那就是我的麻烦。
+
+;0xD4168C02=100
+0xD4168C02=100
+
+;0xD6F53849=~z~You see something?
+0xD6F53849=~z~看见什么了？
+
+;0xD75DA9E1=~z~in exchange for that guy you've been asking about
+0xD75DA9E1=~z~还会把你一直在找的人
+
+;0xD96F4E4B=~z~If you're going to try to take out a politician, you better take him out for sure.
+0xD96F4E4B=~z~如果你想干掉一个政治家，最好能确保他死了。
+
+;0xD9845F0D=G1_YG
+0xD9845F0D=G1_YG
+
+;0xD9ED53D5=G1_A_BF
+0xD9ED53D5=G1_A_BF
+
+;0xDCCFE569=100100
+0xDCCFE569=100100
+
+;0xDD1B2A70=~z~I've worked hard for this, this line of work.
+0xDD1B2A70=~z~我在这行拼了，拼了很久。
+
+;0xDD78DAB5=G1_WD
+0xDD78DAB5=G1_WD
+
+;0xDDC01F83=100
+0xDDC01F83=100
+
+;0xDFEC7C5C=~z~That's what happens when you try taking control out of the hands of people like Jon Gravelli, I guess.
+0xDFEC7C5C=~z~当你尝试从Jon Gravelli这样的人手中夺走权利时，就会发生这种情况。
+
+;0xE00450BE=G1_ZQ
+0xE00450BE=G1_ZQ
+
+;0xE131AD7F=010
+0xE131AD7F=010
+
+;0xE1797B2C=~z~Hold on a minute.
+0xE1797B2C=~z~你停一停。
+
+;0xE1B8908D=G1_AD
+0xE1B8908D=G1_AD
+
+;0xE244B363=~z~I want you to work with me.
+0xE244B363=~z~我想让你跟我干。
+
+;0xE38E6289=~z~That was a mistake they didn't want to make.
+0xE38E6289=~z~他们犯了不该犯的错误。
+
+;0xE506C54B=~z~Make sure our boy gets to City Hall.
+0xE506C54B=~z~确保我们的人到达市政厅。
+
+;0xE8527AC3=~z~They're on the stairs.
+0xE8527AC3=~z~他们在楼梯上。
+
+;0xE8ED12CC=~z~Don't worry about me. You should be putting all your energy into getting better.
+0xE8ED12CC=~z~别担心我。你应该全心全意地把自己变好。
+
+;0xEB3B8DD4=~z~You've got to get us to the Civic Citadel.
+0xEB3B8DD4=~z~你一定要把我送到市政厅。
+
+;0xEC49753C=SFX_PAUSE_4000
+0xEC49753C=SFX_PAUSE_4000
+
+;0xECBC71C6=SFX_PAUSE_4000
+0xECBC71C6=SFX_PAUSE_4000
+
+;0xED27346F=292
+0xED27346F=292
+
+;0xEDCA6097=~z~I ain't got much time left.
+0xEDCA6097=~z~也时日无多了。
+
+;0xEF79C787=~z~More Russians wanting to kill you, how about that?
+0xEF79C787=~z~又是来杀你的俄国人，感觉如何啊？
+
+;0xEFA1C7EE=G1_ZP
+0xEFA1C7EE=G1_ZP
+
+;0xEFDDCFF5=~z~Now, some Russian assholes think they can march in
+0xEFDDCFF5=~z~现在一些俄国混蛋初来乍到
+
+;0xF02617C6=G1_CA
+0xF02617C6=G1_CA
+
+;0xF1754142=~z~Mr. Gravelli. I took that friend of yours to City Hall. He should be giving his speech any minute.
+0xF1754142=~z~Gravelli先生。你那个朋友已经送到市政厅了。应该就要发表演讲了。
+
+;0xF3135FC1=~z~Eyes up.
+0xF3135FC1=~z~往上看。
+
+;0xF3650FB2=SFX_PAUSE_4000
+0xF3650FB2=SFX_PAUSE_4000
+
+;0xF3DE042C=~z~He doesn't want to start getting reckless with the lives of Liberty City voters.
+0xF3DE042C=~z~他不会想草菅自由城选民的命的。
+
+;0xF44F5778=~z~In exchange for what?
+0xF44F5778=~z~报酬是什么？
+
+;0xF68C62B6=~z~Our mutual friend told me everything.
+0xF68C62B6=~z~我们的旧相识都告诉我了。
+
+;0xF690E404=G1_QC
+0xF690E404=G1_QC
+
+;0xF6DBF21E=G1_FA
+0xF6DBF21E=G1_FA
+
+;0xF8571861=010
+0xF8571861=010
+
+;0xF92EFEFC=~z~Driver, why is this road closed? Is there a problem?
+0xF92EFEFC=~z~司机，路怎么封了？出什么状况了？
+
+;0xF9AA926E=G1_ZM
+0xF9AA926E=G1_ZM
+
+;0xFBCE7C0F=190
+0xFBCE7C0F=190
+
+;0xFC4932F6=G1_GA
+0xFC4932F6=G1_GA
+
+;0xFC6AF201=~z~Get the client out of here. We'll hold these guys back.
+0xFC6AF201=~z~把我们的客人带走。我们来拖住这些人！
+
+;0xFC78728B=~z~Up there.
+0xFC78728B=~z~上面。
+
+;0xFE6AD3EC=~z~Come on, Mr. Jefferson. Let's get out of here.
+0xFE6AD3EC=~z~快走，Jefferson先生。赶紧离开这里。
+
+;0xFE72A546=G1_A_GA
+0xFE72A546=G1_A_GA
+

@@ -1,0 +1,652 @@
+﻿[GCM2AUD]
+;0x0154AAD9=~z~Where is this? Not what we agreed at all.
+0x0154AAD9=~z~这是哪里？这根本不是我们要去的地方。
+
+;0x02A27FF5=~z~Why are you late? Don't tell me... something came up. Let's go.
+0x02A27FF5=~z~为什么你迟到了？不要告诉我出了什么事...出发吧。
+
+;0x02BEC0D4=~z~Place looks great!
+0x02BEC0D4=~z~这个地方看起来太棒了！
+
+;0x02BF4544=~z~You're wearing the same clothes. What's wrong with you?
+0x02BF4544=~z~你怎么总穿一样的衣服。你怎么了？
+
+;0x02FE5689=~z~I can't believe we're late - all of your stupid messing around ruined everything.
+0x02FE5689=~z~我真不敢相信我们迟到了——你的愚钝毁了一切。
+
+;0x05B8CAC9=GCM_ACT_ARRIVE_STANDARD
+0x05B8CAC9=GCM_ACT_ARRIVE_STANDARD
+
+;0x061EF044=100
+0x061EF044=100
+
+;0x0693761F=~z~I like your hat - really suits you.
+0x0693761F=~z~我很喜欢你的帽子，真的非常适合你。
+
+;0x0ABF032E=100
+0x0ABF032E=100
+
+;0x0AE12DD4=~z~Hey there, you look good. Let's find a car.
+0x0AE12DD4=~z~嘿，我在这，你看起来很棒。让我们找辆车。
+
+;0x0B13808F=~z~I still really like this car.
+0x0B13808F=~z~我真的很喜欢这辆车。
+
+;0x0B4E8E5F=100
+0x0B4E8E5F=100
+
+;0x0BF706B3=GCM_ACT_ARRIVEF_LATE
+0x0BF706B3=GCM_ACT_ARRIVEF_LATE
+
+;0x0C177A65=~z~I'm so glad you've taken off that silly hat.
+0x0C177A65=~z~我很高兴你摘下来那一顶可笑的帽子。
+
+;0x0CDB6326=GCM_ACT_PMI_GLASSHAT_BAD
+0x0CDB6326=GCM_ACT_PMI_GLASSHAT_BAD
+
+;0x0D58A35B=100
+0x0D58A35B=100
+
+;0x0D60B2DB=GCM_ACT_PMI_NOGLASS_BAD
+0x0D60B2DB=GCM_ACT_PMI_NOGLASS_BAD
+
+;0x0E58FB21=100
+0x0E58FB21=100
+
+;0x0F1EE6CA=~z~Is that top new? Sorry, but what were you thinking?
+0x0F1EE6CA=~z~那是新的吗？抱歉 我不知道你在想什么？
+
+;0x13454C06=~z~Let's go find a car or something.
+0x13454C06=~z~让我们找辆车或其他交通工具。
+
+;0x134E0CE2=100
+0x134E0CE2=100
+
+;0x14329086=~z~Hey, nice bike, by the way.
+0x14329086=~z~顺便说一句，摩托车不错。
+
+;0x14A7D17F=~z~I'm really not in the mood for this, Niko.
+0x14A7D17F=~z~我在想真的没有心情去做这个，Niko。
+
+;0x15206597=~z~Oooh, expensive - where do you get the money for this kind of place?
+0x15206597=~z~哦，太豪华了。你从哪里弄来的钱住这种地方？
+
+;0x1B99F310=~z~Did you bring those shoes with you from Europe? They don't really work.
+0x1B99F310=~z~那些是你从欧洲带来的鞋吗？它们真的没有卵用。
+
+;0x1B9DD96E=~z~I preferred the old car.
+0x1B9DD96E=~z~我更喜欢你以前那辆车。
+
+;0x1C4EC7C9=GCM_ACT_ARRIVE_DARTS_LAST
+0x1C4EC7C9=GCM_ACT_ARRIVE_DARTS_LAST
+
+;0x1CFC2460=~z~I still love this car.
+0x1CFC2460=~z~我仍然喜欢这辆车。
+
+;0x1D832B7A=GCM_ACT_PMI_SAME_BAD
+0x1D832B7A=GCM_ACT_PMI_SAME_BAD
+
+;0x1E1F5F4B=100
+0x1E1F5F4B=100
+
+;0x1E8EFBAA=~z~New pants - very nice.
+0x1E8EFBAA=~z~新裤子，非常漂亮。
+
+;0x1F5A1B1C=GCM_ACT_ARRIVE_DARTS_BEFORE
+0x1F5A1B1C=GCM_ACT_ARRIVE_DARTS_BEFORE
+
+;0x239ED27F=~z~Okay, let's get going.
+0x239ED27F=~z~好吧，我们出发。
+
+;0x24A3502E=~z~You're wearing my favorite outfit.
+0x24A3502E=~z~你穿的这件衣服我很喜欢。
+
+;0x2677F543=100
+0x2677F543=100
+
+;0x280E65A3=100
+0x280E65A3=100
+
+;0x28619749=~z~I like this place - it's full of such weird characters.
+0x28619749=~z~我喜欢这个地方，这里充满着奇异的东西。
+
+;0x298D0EA8=~z~Okay, I've had enough of this bullshit. I guess I'll find my own way home.
+0x298D0EA8=~z~好吧，我受够了你这些废话。我想我会找到回家的路。
+
+;0x29BD9087=~z~I still cannot bear this car.
+0x29BD9087=~z~我仍然受不了这辆车。
+
+;0x29C7F5C2=~z~Did you sell the old car? I miss it.
+0x29C7F5C2=~z~你把之前那辆车卖了吗？我喜欢它。
+
+;0x2BDDD63D=~z~I love simple, homely places like this.
+0x2BDDD63D=~z~我喜欢这样简约、朴素的地方。
+
+;0x2C3114C9=GCM_ACT_PMI_LEGS_GOOD
+0x2C3114C9=GCM_ACT_PMI_LEGS_GOOD
+
+;0x2CDB6CA6=GCM_ACT_ARRIVE_SHOW_LATE
+0x2CDB6CA6=GCM_ACT_ARRIVE_SHOW_LATE
+
+;0x2D1998BF=~z~Hey, nice pants.
+0x2D1998BF=~z~嘿，不错的裤子。
+
+;0x2D5352C2=~z~Mmm, okay - this place looks like it might be fun.
+0x2D5352C2=~z~嗯，好吧-这个地方看起来可能会很有趣。
+
+;0x30CD5709=~z~Shall we get a taxi, or walk?
+0x30CD5709=~z~我们坐的士还是走路？
+
+;0x31486069=GCM_ACT_CAR_NEW_BAD
+0x31486069=GCM_ACT_CAR_NEW_BAD
+
+;0x32EA6C62=GCM_ACT_ARRIVE_LATE
+0x32EA6C62=GCM_ACT_ARRIVE_LATE
+
+;0x335871F2=~z~Nice to see you. Come on, let's go.
+0x335871F2=~z~见到你很高兴。来吧，我们出发。
+
+;0x36419496=~z~Great - I could do with some cheering up.
+0x36419496=~z~太棒了，我们做些什么振作起来。
+
+;0x36EEF4C5=~z~I love that outfit. I remember it.
+0x36EEF4C5=~z~我很喜欢你这套衣服。我会记住的。
+
+;0x37D2AB33=~z~What's wrong with you? I guess I'll make my own way home, you freak.
+0x37D2AB33=~z~你怎么了？我想我会自己回家的，你这个怪人。
+
+;0x37E3075B=100
+0x37E3075B=100
+
+;0x38B54A8F=~z~Do you know that some criminals meet at bowling alleys because the ambient sound drowns out bugs?
+0x38B54A8F=~z~你知道吗？有些罪犯在保龄球馆里聚会，是因为周围的声音盖过了窃听器。
+
+;0x3A293417=~z~Isn't that the same thing you wore last time?
+0x3A293417=~z~这不是你上次穿的那件衣服吗?
+
+;0x3B6033CC=~z~Surely you can get a nicer car than this?
+0x3B6033CC=~z~你肯定能买一辆比这更好的车吧?
+
+;0x3DC3026D=~z~Good for you to wear the same outfit - I like it.
+0x3DC3026D=~z~很高兴看到你又穿这件衣服，我喜欢。
+
+;0x3E0CF1B8=GCM_ACT_ARRIVEC_NOTLATE
+0x3E0CF1B8=GCM_ACT_ARRIVEC_NOTLATE
+
+;0x3F99F74F=~z~This place looks okay.
+0x3F99F74F=~z~这个地方看起来不赖。
+
+;0x3FB6FDEF=~z~These kind of places remind me of where I grew up.
+0x3FB6FDEF=~z~这些地方让我想起了我小时候。
+
+;0x40065151=100
+0x40065151=100
+
+;0x400A1F18=~z~This place looks okay.
+0x400A1F18=~z~这个地方看起来不赖。
+
+;0x41AFF851=GCM_ACT_ARRIVE_POOL_BEFORE
+0x41AFF851=GCM_ACT_ARRIVE_POOL_BEFORE
+
+;0x438C1F07=100
+0x438C1F07=100
+
+;0x43B969A8=~z~Thank God you're not wearing that stupid hat.
+0x43B969A8=~z~谢天谢地，你总算没有戴那顶可笑的帽子。
+
+;0x44A7A857=~z~This bar looks okay.
+0x44A7A857=~z~这个酒吧看起来还不错。
+
+;0x459433D1=100
+0x459433D1=100
+
+;0x480BB82A=~z~Great - I could do with forgetting my troubles for a bit.
+0x480BB82A=~z~太好了 这样我就可以忘掉一些烦人的事。
+
+;0x48341BAC=~z~Thank God you took off those silly glasses.
+0x48341BAC=~z~谢天谢地，你终于把你那傻乎乎的眼睛摘了。
+
+;0x4A3302A0=~z~Darts again? Okay.
+0x4A3302A0=~z~又玩飞镖？好的。
+
+;0x4B5A55E1=~z~Is that a new top? Very nice.
+0x4B5A55E1=~z~这是新款式？很不错。
+
+;0x4DBEBA55=~z~Memory Lanes, again, ooh. Bowling's a real thing for you, huh?
+0x4DBEBA55=~z~又是这条路，哦。你很喜欢保龄球，嗯？
+
+;0x4DF75BB3=~z~What is that? Haven't you got any new clothes?
+0x4DF75BB3=~z~那是什么？你难道一件新衣服都没有了吗？
+
+;0x4F134058=~z~You seem to swap cars a lot - I liked the other one.
+0x4F134058=~z~你似乎经常换车——我更喜欢上次那辆。
+
+;0x505A9F36=~z~I like simple places like this.
+0x505A9F36=~z~我很喜欢像这样简约的地方。
+
+;0x513D7199=~z~I'm bored, can you take me home, please? NOW.
+0x513D7199=~z~我有点累了，你能送我回家吗？现在。
+
+;0x51590AD0=~z~I don't really like that hat, Niko.
+0x51590AD0=~z~我真的不喜欢你这顶帽子，Niko。
+
+;0x52E2E5BC=GCM_ACT_PMI_LEGS_BAD
+0x52E2E5BC=GCM_ACT_PMI_LEGS_BAD
+
+;0x53500E68=~z~This is a nice car, I haven't seen it before.
+0x53500E68=~z~这是一辆不错的车，我之前没有见过它。
+
+;0x542BA1B4=100
+0x542BA1B4=100
+
+;0x56ED5103=100
+0x56ED5103=100
+
+;0x59361A38=~z~I like the new car.
+0x59361A38=~z~我喜欢这辆新车。
+
+;0x59D1E531=~z~Bowling, this could be interesting.
+0x59D1E531=~z~保龄球，这应该会很有趣。
+
+;0x5A02FA8B=~z~I like this place - it's so exotic.
+0x5A02FA8B=~z~我喜欢这里，很有异国情调。
+
+;0x5ACD9490=GCM_ACT_ARRIVE_POOL_NOT
+0x5ACD9490=GCM_ACT_ARRIVE_POOL_NOT
+
+;0x5B39E526=GCM_ACT_ARRIVE_CLUB_GENERIC
+0x5B39E526=GCM_ACT_ARRIVE_CLUB_GENERIC
+
+;0x5E243AC9=~z~I love places like this.
+0x5E243AC9=~z~我非常喜爱这种地方。
+
+;0x60AFA97D=~z~That hat - it doesn't really work for you.
+0x60AFA97D=~z~那顶帽子对你没什么用。
+
+;0x60F4E3C8=GCM_ACT_CAR_SAME_GOOD
+0x60F4E3C8=GCM_ACT_CAR_SAME_GOOD
+
+;0x61813E86=100
+0x61813E86=100
+
+;0x621A604F=GCM_ACT_CAR_SAME_BAD
+0x621A604F=GCM_ACT_CAR_SAME_BAD
+
+;0x6247CB76=~z~Oh, you are wearing that again, good.
+0x6247CB76=~z~哦，你又穿了那件衣服，很好看。
+
+;0x63960231=GCM_ACT_PMI_FEET_BAD
+0x63960231=GCM_ACT_PMI_FEET_BAD
+
+;0x63AB8132=~z~You must really love pool.
+0x63AB8132=~z~你一定很热爱桌球。
+
+;0x64528E13=GCM_ACT_PMI_HAT_GOOD
+0x64528E13=GCM_ACT_PMI_HAT_GOOD
+
+;0x659732F6=~z~I didn't know you had a new car, I like it.
+0x659732F6=~z~我不知道你还有一辆新车，我喜欢它。
+
+;0x67BDBE78=GCM_ACT_ARRIVE_POOL_LAST
+0x67BDBE78=GCM_ACT_ARRIVE_POOL_LAST
+
+;0x67FB388D=GCM_ACT_PMI_SAME_GOOD
+0x67FB388D=GCM_ACT_PMI_SAME_GOOD
+
+;0x686A276D=GCM_ACT_ARRIVE_PUB_GENERIC
+0x686A276D=GCM_ACT_ARRIVE_PUB_GENERIC
+
+;0x68FCB9C5=~z~This new car is certainly an improvement.
+0x68FCB9C5=~z~这辆新车确实是一种改善。
+
+;0x6A172640=GCM_ACT_PMI_NOHAT_GOOD
+0x6A172640=GCM_ACT_PMI_NOHAT_GOOD
+
+;0x6B2B6300=100
+0x6B2B6300=100
+
+;0x6CA694F6=~z~I hope the food's as nice as the reputation says it is.
+0x6CA694F6=~z~我希望这里的食物它的名声那样好吃。
+
+;0x6D6479FE=GCM_ACT_ARRIVE_BOWL_BEFORE
+0x6D6479FE=GCM_ACT_ARRIVE_BOWL_BEFORE
+
+;0x6E026D67=100
+0x6E026D67=100
+
+;0x6F64ADDB=~z~Niko, no offense, but this is really boring - can you take me home?
+0x6F64ADDB=~z~Niko，无意冒犯 但这真的非常无聊，你能带我回家吗？
+
+;0x6FB39CAD=GCM_ACT_PMI_HAT_BAD
+0x6FB39CAD=GCM_ACT_PMI_HAT_BAD
+
+;0x6FE38DB8=GCM_ACT_ARRIVE_BOWL_NOT
+0x6FE38DB8=GCM_ACT_ARRIVE_BOWL_NOT
+
+;0x72446B6F=~z~You're wearing that? Good, you look good.
+0x72446B6F=~z~你戴着那个？很好，你看起来很棒。
+
+;0x72F204BB=~z~Hey, you want to bowl again? You must really like it?
+0x72F204BB=~z~嘿，你想再来一碗吗？你一定会喜欢的。
+
+;0x74670AFF=~z~A new car? Why?
+0x74670AFF=~z~一辆新车？怎么回事？
+
+;0x788C1004=GCM_ACT_CAR_NEW_GOOD
+0x788C1004=GCM_ACT_CAR_NEW_GOOD
+
+;0x792B9583=100
+0x792B9583=100
+
+;0x79C1097C=GCM_ACT_ARRIVE_DARTS_NOT
+0x79C1097C=GCM_ACT_ARRIVE_DARTS_NOT
+
+;0x79CB611E=100
+0x79CB611E=100
+
+;0x7AD7E831=100
+0x7AD7E831=100
+
+;0x7B1A0C6E=100
+0x7B1A0C6E=100
+
+;0x7D8930BA=100
+0x7D8930BA=100
+
+;0x7F9D4DB4=~z~Those pants are criminal, pardon the pun...
+0x7F9D4DB4=~z~那些裤子是罪犯，原谅这个双关语...
+
+;0x813095D2=~z~Those glasses look kind of silly.
+0x813095D2=~z~这些眼镜看起来有点蠢。
+
+;0x81EE6C00=~z~Nice bike, Niko.
+0x81EE6C00=~z~摩托车不错，Niko。
+
+;0x81F6261D=~z~I have to be honest, I preferred the other car.
+0x81F6261D=~z~说实话，我更喜欢之前那辆车。
+
+;0x82B637F6=GCM_ACT_PMI_TORSO_BAD
+0x82B637F6=GCM_ACT_PMI_TORSO_BAD
+
+;0x84B3E2A3=~z~We're back at Memory Lanes, eh?
+0x84B3E2A3=~z~我们又回到了那条路上，嗯？
+
+;0x8657CBDB=~z~I like that top - is it new?
+0x8657CBDB=~z~我喜欢那个款式，是新的吗？
+
+;0x8768843E=~z~How are we going to travel?
+0x8768843E=~z~我们怎样去玩？
+
+;0x88136368=GCM_ACT_PMI_NOHAT_BAD
+0x88136368=GCM_ACT_PMI_NOHAT_BAD
+
+;0x88BA098E=~z~Interesting place, I think - I hope we have fun.
+0x88BA098E=~z~我想这是个有趣的地方，希望我们玩得开心。
+
+;0x8D289503=~z~You're late, by the way. Let's go.
+0x8D289503=~z~顺便说一句，你迟到了。出发吧。
+
+;0x8FAB871C=100
+0x8FAB871C=100
+
+;0x90D3067D=100
+0x90D3067D=100
+
+;0x911F9025=GCM_ACT_BORED_LEAVING
+0x911F9025=GCM_ACT_BORED_LEAVING
+
+;0x912BD07A=100
+0x912BD07A=100
+
+;0x92F81429=~z~I guess we're playing darts again, then?
+0x92F81429=~z~我猜我们是不是又去玩飞镖？
+
+;0x9343F377=GCM_ACT_ARRIVem_NOTLATE
+0x9343F377=GCM_ACT_ARRIVem_NOTLATE
+
+;0x93C1ED06=100
+0x93C1ED06=100
+
+;0x94D0129A=~z~I love that hat.
+0x94D0129A=~z~我喜欢那个帽子。
+
+;0x95D95570=100
+0x95D95570=100
+
+;0x964CE842=~z~I've read all about this place - supposed to be great.
+0x964CE842=~z~我读过关于这个地方的所有资料——应该很棒。
+
+;0x9697DFBD=~z~Darts? I haven't done that for the longest time.
+0x9697DFBD=~z~飞镖吗？我很久没玩了。
+
+;0x9BF6329E=~z~They have watches in your country? I'm sorry. I'm just crabby. Let's go.
+0x9BF6329E=~z~你们国家有手表吗？我很抱歉。我只是有点生气。走吧。
+
+;0x9C48C6C5=GCM_ACT_PMI_NOGLASS_GOOD
+0x9C48C6C5=GCM_ACT_PMI_NOGLASS_GOOD
+
+;0x9DE855E3=GCM_ACT_BORED_TAKEHOME
+0x9DE855E3=GCM_ACT_BORED_TAKEHOME
+
+;0x9FAC3814=~z~Pool? what a great idea...
+0x9FAC3814=~z~台球？多么好的主意...
+
+;0xA170F46A=~z~I'd love for you to tell me stuff about yourself while we bowl.
+0xA170F46A=~z~我很想在吃饭的时候听你讲你的故事。
+
+;0xA45BA267=100
+0xA45BA267=100
+
+;0xA54CF23B=~z~This isn't what we agreed at all.
+0xA54CF23B=~z~这根本不是我们决定好的。
+
+;0xA7555B75=~z~Are those shoes new? They're great, they really suit you.
+0xA7555B75=~z~这是新鞋吗？它们很棒 真的非常适合你。
+
+;0xA95DAF26=100
+0xA95DAF26=100
+
+;0xAC4C0120=GCM_ACT_PMI_FEET_GOOD
+0xAC4C0120=GCM_ACT_PMI_FEET_GOOD
+
+;0xAD3589C2=100
+0xAD3589C2=100
+
+;0xAE8C44DF=~z~This sure is a nice car, is it new?
+0xAE8C44DF=~z~这真的是一辆好车。
+
+;0xAEEB7147=~z~Okay, next time you buy glasses, you should take a girl with you to check they look okay.
+0xAEEB7147=~z~好吧，下次你买眼镜的时候，你应该带个女孩一起去看看。
+
+;0xAF5B5CAE=~z~Darts? Again? Okay. But we should do something else sometime.
+0xAF5B5CAE=~z~飞镖？又来？但是下次我们应该做些其他的事。
+
+;0xB22D2516=100
+0xB22D2516=100
+
+;0xB312DEE1=~z~Pool? Cool. Haven't played for ages.
+0xB312DEE1=~z~台球？牛逼。我之前没玩过。
+
+;0xB4805F31=100
+0xB4805F31=100
+
+;0xB50776D9=~z~New shoes, nice.
+0xB50776D9=~z~新鞋，很好看。
+
+;0xB55265F6=GCM_ACT_DIFF_ACTIVITY_NO
+0xB55265F6=GCM_ACT_DIFF_ACTIVITY_NO
+
+;0xB57BF63A=~z~You look much better without those glasses.
+0xB57BF63A=~z~你不戴眼镜看起来比以前好多了。
+
+;0xB59C2E3D=~z~It's a shame you're not wearing that hat I liked.
+0xB59C2E3D=~z~你没戴我喜欢的那顶帽子真是遗憾。
+
+;0xB75C2139=~z~Okay - I haven't played darts for ages.
+0xB75C2139=~z~好吧，我有一段时间没玩飞镖了。
+
+;0xB785388E=100
+0xB785388E=100
+
+;0xB79F0CBB=100
+0xB79F0CBB=100
+
+;0xB7F0452E=100
+0xB7F0452E=100
+
+;0xB929F939=~z~I think you look good in that outfit - I liked it last time.
+0xB929F939=~z~我觉得你穿那套衣服很好看-上次那件我很喜欢。
+
+;0xB97450DD=GCM_ACT_CAR_NONE
+0xB97450DD=GCM_ACT_CAR_NONE
+
+;0xBDBDA080=~z~Hey - you're late... let's go find a car or something.
+0xBDBDA080=~z~嘿-你迟到了...我们去找辆车吧。
+
+;0xBEED3637=GCM_ACT_PMI_TORSO_GOOD
+0xBEED3637=GCM_ACT_PMI_TORSO_GOOD
+
+;0xBFC4979C=~z~Hey Niko, you look well, let's find a car.
+0xBFC4979C=~z~嘿Niko，你看起来很好 让我们找辆车。
+
+;0xC03CFE71=~z~Darts? Again? Well, I do enjoy it.
+0xC03CFE71=~z~飞镖？又来？好吧，我很享受这个。
+
+;0xC03E3309=~z~I'd enjoy darts - it'll make a change.
+0xC03E3309=~z~我很享受飞镖，但我们下次需要做出改变。
+
+;0xC04B48AB=GCM_ACT_PMI_GLASSHAT_GOOD
+0xC04B48AB=GCM_ACT_PMI_GLASSHAT_GOOD
+
+;0xC196CD4D=~z~Pool? Again? There are other ways to spend your time, Niko.
+0xC196CD4D=~z~桌球？又来？应该还有其他方法来消磨时间，Niko。
+
+;0xC1D66B73=~z~Hey, I really like the new car, Niko.
+0xC1D66B73=~z~嘿，我真的很喜欢这辆新车，Niko。
+
+;0xC304D46E=~z~What were you thinking when you put on those pants?
+0xC304D46E=~z~你穿裤子的时候在想些什么东西？
+
+;0xC69C98B8=~z~Hey Niko, let's go.
+0xC69C98B8=~z~嘿Niko，我们走吧。
+
+;0xCAA0F899=~z~What a great pair of glasses - they really suit you.
+0xCAA0F899=~z~这一副眼镜太棒了，它们很适合你。
+
+;0xCAE69153=~z~I wonder what'll be on? Sometimes it's awful.
+0xCAE69153=~z~我想知道发生了什么？有些时候很糟。
+
+;0xCB3BE3BC=100
+0xCB3BE3BC=100
+
+;0xCB52D1FD=~z~This is going to be great, thanks Niko.
+0xCB52D1FD=~z~这一定会很棒的，谢谢你Niko。
+
+;0xCE30C740=100
+0xCE30C740=100
+
+;0xCEE50E62=100
+0xCEE50E62=100
+
+;0xCFB2DF2C=~z~You're not wearing the same clothes are you?
+0xCFB2DF2C=~z~你不穿同样的衣服吗？
+
+;0xD0AB42E5=100
+0xD0AB42E5=100
+
+;0xD22A7E8C=100
+0xD22A7E8C=100
+
+;0xD2786F10=~z~Pool's quite fun, but there are other pastimes.
+0xD2786F10=~z~台球非常有趣，但是没有别的消磨时间的方法了吗？
+
+;0xD2EC1E50=GCM_ACT_ARRIVE_SHOW_CABARET
+0xD2EC1E50=GCM_ACT_ARRIVE_SHOW_CABARET
+
+;0xD3C38ADE=~z~Those glasses really suit you.
+0xD3C38ADE=~z~这些眼睛真的很适合你。
+
+;0xD42BF8E5=~z~Thanks - we're late - what a great date. Genius.
+0xD42BF8E5=~z~感谢，我们迟到了，多么好的一天啊。你可真是个天才。
+
+;0xD52DD913=GCM_ACT_ARRIVE_BOWL_LAST
+0xD52DD913=GCM_ACT_ARRIVE_BOWL_LAST
+
+;0xD5EDE5B5=~z~Pool? Again... okay.
+0xD5EDE5B5=~z~桌球？又来...好吧。
+
+;0xD749D61C=GCM_ACT_ARRIVE_SHOW_COMEDY
+0xD749D61C=GCM_ACT_ARRIVE_SHOW_COMEDY
+
+;0xD8E33D45=~z~Hey there, handsome - come on, let's get going.
+0xD8E33D45=~z~嘿，帅哥，来吧我们出发。
+
+;0xDAFA5469=GCM_ACT_ARRIVEF_NOTLATE
+0xDAFA5469=GCM_ACT_ARRIVEF_NOTLATE
+
+;0xDE4277DC=~z~Classy.
+0xDE4277DC=~z~优秀。
+
+;0xE17C02BE=~z~What the hell are you wearing, the same clothes?
+0xE17C02BE=~z~你他妈的穿都是什么，同样的衣服？
+
+;0xE448E351=100
+0xE448E351=100
+
+;0xE6E157C4=100
+0xE6E157C4=100
+
+;0xEBE2CD35=~z~Are we going to walk or get a taxi?
+0xEBE2CD35=~z~我们步行还是打的？
+
+;0xECE21FE2=100
+0xECE21FE2=100
+
+;0xED8CC4B7=100
+0xED8CC4B7=100
+
+;0xEDE417A5=~z~Those shoes are pretty weird.
+0xEDE417A5=~z~那双鞋很古怪。
+
+;0xEF0B8647=~z~What's this? This isn't what we said. I don't want to do this just now.
+0xEF0B8647=~z~这是什么？我们不是这样说的。我现在不想这么做。
+
+;0xEF4A2A69=~z~I tell you what I miss you in those glasses.
+0xEF4A2A69=~z~我告诉你我有多想念你那些眼镜。
+
+;0xF0B70AD4=100
+0xF0B70AD4=100
+
+;0xF1ABDE08=~z~Hey - you know you're late, don't you? Let's go.
+0xF1ABDE08=~z~嘿，你知道你迟到了吗？我们走吧。
+
+;0xF32DA621=~z~Can't you afford any new clothes?
+0xF32DA621=~z~你难道买不起新衣服吗？
+
+;0xF3D9FFBC=GCM_ACT_ARRIVE_HIGHEND
+0xF3D9FFBC=GCM_ACT_ARRIVE_HIGHEND
+
+;0xF4F8E20A=~z~Yeah, I think we'll have some fun here.
+0xF4F8E20A=~z~是的，我想我们会玩得很开心的。
+
+;0xF6218E76=~z~Why did you change cars?
+0xF6218E76=~z~为什么你换车了？
+
+;0xF675427D=GCM_ACT_ARRIVE_PUB_FAVORITE
+0xF675427D=GCM_ACT_ARRIVE_PUB_FAVORITE
+
+;0xF8B6B471=~z~Where's the hat? It really suited you.
+0xF8B6B471=~z~你的帽子在哪里?它真的很适合你。
+
+;0xFA1C69A8=~z~Shall we go by taxi, or walk or...?
+0xFA1C69A8=~z~我们打的去，还是步行去，还是...?
+
+;0xFCDD4247=~z~Is that new, that top? You should have checked the mirror before you bought it.
+0xFCDD4247=~z~那是新的吗?你应该在买之前用镜子照照。
+
+;0xFD2075C6=~z~Cabaret - I wonder what's on? The crowd always scares me at this place.
+0xFD2075C6=~z~歌舞厅，我想知道在演什么？那里的人群让我有点小怕。
+
+;0xFD454653=~z~Those glasses kind of suited you, Niko. I miss them.
+0xFD454653=~z~这些眼镜很适合你，Niko。我想它们。
+

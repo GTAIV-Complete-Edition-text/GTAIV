@@ -1,0 +1,76 @@
+﻿[GM5]
+;0x0130893D=~s~Take out ~r~Bulgarin's men.
+0x0130893D=~s~干掉~r~Bulgarin的手下。
+
+;0x0866218A=~s~Take down the ~r~reinforcements.
+0x0866218A=~s~干掉~r~敌方增援。
+
+;0x1624DDD5=~s~When on a ladder, use ~INPUT_SPRINT~ and ~PAD_LSTICK_DOWN~ to slide down quickly.~s~
+0x1624DDD5=~s~在梯子上时, 使用~INPUT_SPRINT~和~PAD_LSTICK_DOWN~快速下滑。~s~
+
+;0x2245B5AE=~s~ Take Packie back to his ~y~Ma's House~s~ in Dukes.
+0x2245B5AE=~s~送Packie回在Dukes的~y~他母亲的房子。~s~
+
+;0x33A4DDF5=~s~When on a ladder, press ~INPUT_SPRINT~ and use ~PAD_LSTICK_DOWN~ to slide down quickly.~s~
+0x33A4DDF5=~s~在梯子上时，按下~INPUT_SPRINT~并使用~PAD_LSTICK_DOWN~快速下滑。~s~
+
+;0x35A2E04D=~s~When on a ladder, press ~PAD_Y~ to slide down quickly.~s~
+0x35A2E04D=~s~在梯子上时，按~PAD_Y~快速下滑。~s~
+
+;0x3C5C8B62=~s~Continue to the ~y~Charge Island Sewage Works.
+0x3C5C8B62=~s~继续前往~y~Charge岛污水处理厂。
+
+;0x47EB8294=~s~Continue to the ~y~exchange point.
+0x47EB8294=~s~继续前往~y~交易点。
+
+;0x4ABB9B85=~s~Get back into ~b~Packie's car.
+0x4ABB9B85=~s~回到~b~Packie的车~s~上。
+
+;0x4E5B3633=~r~ Gracie drowned.
+0x4E5B3633=~r~Gracie淹死了。
+
+;0x53636499=~s~Follow~b~Packie.
+0x53636499=~s~跟随~b~Packie。
+
+;0x7F2E0469=~s~Go to ~b~Packie's car~s~ in Northwood.
+0x7F2E0469=~s~去Northwood找~b~Packie的车。~s~
+
+;0x802B199A=~r~Gracie is dead.
+0x802B199A=~r~Gracie死了。
+
+;0x860D124F=~s~Go around the back to the ~y~exchange point.
+0x860D124F=~s~从后面绕到~y~交易点。
+
+;0x87222788=~r~The car was destroyed.
+0x87222788=~r~车被毁了。
+
+;0x8D6BA0E4=~s~Drive to the ~y~Charge Island Sewage Works.
+0x8D6BA0E4=~s~驾车前往~y~Charge Island污水处理厂。
+
+;0xAAA9EE97=~r~ Packie and Gracie are dead.
+0xAAA9EE97=~r~Packie和Gracie死了。
+
+;0xAB390798=~s~ Take Packie back to his ~y~Ma's House~s~ in Dukes.
+0xAB390798=~s~送Packie回在Dukes的~y~他母亲的房子。~s~
+
+;0xB1D169D7=~s~Make your way across to the ~y~walkway.
+0xB1D169D7=~s~穿过~y~步道。
+
+;0xBC81FF10=~s~Wait for ~b~Packie~s~ to get in the car.
+0xBC81FF10=~s~等待~b~Packie~s~上车。
+
+;0xEF616F45=~s~Go to the ~y~meeting point~s~ upstairs.
+0xEF616F45=~s~前往在二楼的~y~会面点。
+
+;0xF038C3F2=~s~Take out the last of ~r~Bulgarin's men.
+0xF038C3F2=~s~干掉残余的~r~Bulgarin的手下。
+
+;0xF0B3C01E=~s~ You are too far away from ~b~Packie.~s~ Go back and get him.
+0xF0B3C01E=~s~ 你离~b~Packie太远了。~s~回去找他。
+
+;0xF1AF7CA1=~r~Packie is dead.
+0xF1AF7CA1=~r~Packie死了。
+
+;0xF8E4D9E8=~s~Lose your wanted level.
+0xF8E4D9E8=~s~降低你的通缉度。
+

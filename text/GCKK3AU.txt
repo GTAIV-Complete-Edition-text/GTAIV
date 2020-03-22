@@ -1,0 +1,704 @@
+﻿[GCKK3AU]
+;0x02924F29=~z~We're both adults, Kiki. Why don't you ask me into your place?
+0x02924F29=~z~我们都是成年人了，Kiki。为什么不让我进去坐坐呢？
+
+;0x02A72075=010
+0x02A72075=010
+
+;0x030EB231=GCKK_ACT_LEAVE_FASTFOOD
+0x030EB231=GCKK_ACT_LEAVE_FASTFOOD
+
+;0x033579B2=~z~Let's go, Kiki.
+0x033579B2=~z~走吧，Kiki。
+
+;0x03B2F8BE=100
+0x03B2F8BE=100
+
+;0x03BC1434=~z~That is hilarious.
+0x03BC1434=~z~真是有够好笑的呢。
+
+;0x03F13663=~z~Your language is so beautiful, Niko. It's such a shame you've got to speak English the whole time.
+0x03F13663=~z~你们那的语言真美，Niko。在这你还得说英语真是太可惜了。
+
+;0x0562C791=100
+0x0562C791=100
+
+;0x056CA75E=~z~Well, have fun in there.
+0x056CA75E=~z~好吧，就在这玩一下吧
+
+;0x0622AAAC=100
+0x0622AAAC=100
+
+;0x08BBF138=GCKK_ACT_END_BAD
+0x08BBF138=GCKK_ACT_END_BAD
+
+;0x08D97C79=100
+0x08D97C79=100
+
+;0x09609D31=~z~I'll be thinking about you... a lot.
+0x09609D31=~z~我会想你的...很想。
+
+;0x0CA0B5CA=~z~Goodbye, Kiki.
+0x0CA0B5CA=~z~再见，Kiki。
+
+;0x0CC298B4=~z~This is going to be amazing. I might cry with happiness.
+0x0CC298B4=~z~不敢相信。我可能要感动哭了。
+
+;0x0D5965C3=~z~You know, you're probably right. I'll see you soon.
+0x0D5965C3=~z~你可能是对的吧。再见。
+
+;0x0EC467A0=100
+0x0EC467A0=100
+
+;0x102C4FB0=~z~Niko, you really dominated me on that dart board. I loved it!
+0x102C4FB0=~z~Niko，你在飞镖方面真的很有统治力呢。我喜欢！
+
+;0x1073FA43=~z~I hear they've got bowling alleys at American Air Force bases overseas. Is that where you learnt how to do it?
+0x1073FA43=~z~我听说美国空军的海外基地里有保龄球馆。你是在那学的吗？
+
+;0x12D2D426=~z~Do you ever get so happy that you feel like crying, Niko? That what I'm feeling right now.
+0x12D2D426=~z~你有没有过因为太开心而想哭的时候，Niko？我现在就是这感觉。
+
+;0x148EF676=100
+0x148EF676=100
+
+;0x170D04EC=GCKK_ACT_DATEFINISHED_AGAIN
+0x170D04EC=GCKK_ACT_DATEFINISHED_AGAIN
+
+;0x1788CB96=~z~Later on.
+0x1788CB96=~z~稍后再说。
+
+;0x19378753=~z~Shit, add insult to fucking injury, Niko. Sorry, I'm not one of your cheap whores, okay?
+0x19378753=~z~靠，这真他妈是雪上加霜，Niko。对不起啊，我不是你的贱婊子们，懂？
+
+;0x1B0BD977=~z~I really didn't think there was any way I wouldn't enjoy being taken out. But this wasn't fun. Goodbye.
+0x1B0BD977=~z~我真想不出我会为什么不想和你出去玩。但确实没意思。再见。
+
+;0x1B353338=~z~Ummm.
+0x1B353338=~z~呃。
+
+;0x1EDD108C=010
+0x1EDD108C=010
+
+;0x20D68569=100
+0x20D68569=100
+
+;0x21DD0964=GCKK_ACT_PKI_END_KISS
+0x21DD0964=GCKK_ACT_PKI_END_KISS
+
+;0x22E3E44A=100
+0x22E3E44A=100
+
+;0x22ECC996=100
+0x22ECC996=100
+
+;0x24B2B6B8=~z~Were you ashamed to be bowling with me, Niko? That's why you stopped, wasn't it?
+0x24B2B6B8=~z~和我打保龄球让你感到羞耻吗，Niko？这就是你不打的理由，是吗？
+
+;0x25976787=GCKK_ACT_BORED_GETTING
+0x25976787=GCKK_ACT_BORED_GETTING
+
+;0x2737235A=~z~I'm not going to get played by you, Niko. I'm not stupid.
+0x2737235A=~z~我不会再被你耍了，Niko。我不是傻子。
+
+;0x27603EFE=~z~Congratulations, Niko. Good game.
+0x27603EFE=~z~牛逼嗷，Niko。给你打出GG。
+
+;0x27B75C2A=~z~Ha ha ha ha.
+0x27B75C2A=~z~哈、哈、哈、哈。
+
+;0x28D06E25=~z~Enjoy yourself.
+0x28D06E25=~z~祝你玩得愉快。
+
+;0x29361C74=~z~Don't leave me out here in the cold, Kiki. Invite me in.
+0x29361C74=~z~别留我一人独自在这冷风中，Kiki。邀我进去吧。
+
+;0x2BC359FC=GCKK_ACT_DATEFINISHED_GOOD
+0x2BC359FC=GCKK_ACT_DATEFINISHED_GOOD
+
+;0x2CFD4D41=~z~Okay.
+0x2CFD4D41=~z~好。
+
+;0x2D4A40C3=GCKK_ACT_BOWL_LEAVE_LOST
+0x2D4A40C3=GCKK_ACT_BOWL_LEAVE_LOST
+
+;0x30492829=~z~Alright, I get it.
+0x30492829=~z~行，知道了。
+
+;0x31D6C3FA=GCKK_ACT_PKI_END_REJECT_RESPONSE
+0x31D6C3FA=GCKK_ACT_PKI_END_REJECT_RESPONSE
+
+;0x31F2F0A1=~z~Oh my God.
+0x31F2F0A1=~z~我的天。
+
+;0x330D1FB5=~z~Niko, are you trying to fatten me up? I like this place but I can't eat here again.
+0x330D1FB5=~z~Niko。你是想把我喂肥吗？我喜欢这，但是我也不能次次吃这啊。
+
+;0x36B8074D=~z~Niko, I wish this date could go on forever, but it's got to end, doesn't it?
+0x36B8074D=~z~Niko，我希望这场约会能一直持续下去，但是天下没有不散的筵席，不是吗？
+
+;0x37971C62=GCKK_ACT_PKI_END_YES
+0x37971C62=GCKK_ACT_PKI_END_YES
+
+;0x379A79A4=~z~Call me, okay? Call me soon.
+0x379A79A4=~z~给我打电话，可好？晚些时候再给我打电话。
+
+;0x381ABA3D=~z~How about I keep you company inside?
+0x381ABA3D=~z~我和你一起进去怎么样？
+
+;0x38BCC4AB=100
+0x38BCC4AB=100
+
+;0x3AF4A46D=~z~You are an amazing man, Niko.
+0x3AF4A46D=~z~你真的神了，Niko。
+
+;0x3B1AF560=~z~This is really going to mean something, Niko. Come in.
+0x3B1AF560=~z~这真的将会很有意义的，Niko。进来吧。
+
+;0x3B340323=~z~That is too much.
+0x3B340323=~z~过分了
+
+;0x3B5E40C4=~z~Kiki, I don't want to have to say goodbye to you out here. How about I come in?
+0x3B5E40C4=~z~Kiki，我不想和你在这说再见。让我进去如何？
+
+;0x3CA20FF6=GCKK_ACT_SHOW_RESPONSE_NEG
+0x3CA20FF6=GCKK_ACT_SHOW_RESPONSE_NEG
+
+;0x3DEFE304=GCKK_ACT_END_GOOD
+0x3DEFE304=GCKK_ACT_END_GOOD
+
+;0x3E31850A=~z~I'm starting to get suspicious, Niko. Why haven't we gotten there yet?
+0x3E31850A=~z~我有点慌，Niko。为什么我们还没到？
+
+;0x3E66C087=~z~See you, sweetie.
+0x3E66C087=~z~再见，亲爱的。
+
+;0x3E708754=~z~Fine. You'll call me, right?
+0x3E708754=~z~好吧，你会给我打电话的，对吧？
+
+;0x3ECAFA63=~z~Alright then.
+0x3ECAFA63=~z~好吧好吧。
+
+;0x3ED334B4=100
+0x3ED334B4=100
+
+;0x3EFBEB4A=~z~Can't you even finish bowling with me? Are you that keen to get off with some other whore?
+0x3EFBEB4A=~z~你就不能和我完整的打一场？这么着急去和你的其他婊子上床？
+
+;0x4088E12B=GCKK_ACT_LEAVE_WALK
+0x4088E12B=GCKK_ACT_LEAVE_WALK
+
+;0x40B50A77=~z~Fuck me. I'm buzzed. Man, those cocktails have got a kick.
+0x40B50A77=~z~遭重了。我耳鸣了。真的，这鸡尾酒有点东西。
+
+;0x411EE848=~z~You really didn't have to spend that money, Niko. I'm not impressed by conspicuous consumption.
+0x411EE848=~z~你真的不用花那笔钱，Niko。我不喜欢花钱买虚荣。
+
+;0x447353FA=~z~Another time then, Kiki? I'll call you.
+0x447353FA=~z~下次再说好吧，Kiki？我会打电话给你的。
+
+;0x44D35334=~z~Sorry for beating you, Niko. I couldn't help it.
+0x44D35334=~z~赢了你真是不好意思，Niko。我控制不住了。~n~【这个地方是打了Niko还是赢了Niko不清楚】
+
+;0x44F3A3C4=~z~This has been so much fun. But I'm kinda worn out though.
+0x44F3A3C4=~z~这挺有意思的。但我有点累了。
+
+;0x4582A319=~z~How about we find something else to do now?
+0x4582A319=~z~我们现在找点其他事做怎么样？
+
+;0x4683A993=~z~So long.
+0x4683A993=~z~再见。
+
+;0x47A05778=GCKK_ACT_LEAVE_STANDARD
+0x47A05778=GCKK_ACT_LEAVE_STANDARD
+
+;0x47FC578F=~z~Okay then.
+0x47FC578F=~z~好吧。
+
+;0x490ADF7B=GCKK_ACT_PKI_END_GOOD_Y
+0x490ADF7B=GCKK_ACT_PKI_END_GOOD_Y
+
+;0x49DA4238=~z~You are so misunderstood, Niko.
+0x49DA4238=~z~你被误会了，Niko。
+
+;0x49E88E0F=GCKK_ACT_BOWL_LEAVE_DRAW
+0x49E88E0F=GCKK_ACT_BOWL_LEAVE_DRAW
+
+;0x4A09655A=~z~Niko, if you've got a problem with a dominant female who can beat you at pool, then maybe you're dating the wrong girl.
+0x4A09655A=~z~Niko，如果你和一个能在台球上赢下你的女强人闹矛盾，那你可能约错妹子了。
+
+;0x4A1674CF=~z~Will you take me home?
+0x4A1674CF=~z~你会带我回家的对吧？
+
+;0x4ACCEA85=~z~Yeah, give me all the STDs you've caught off those other cheap whores. Shame on you, Niko.
+0x4ACCEA85=~z~对，把你从那些婊子身上得到的性病都传染给我。真可耻啊，Niko。
+
+;0x4D5B4F6E=GCKK_ACT_LEAVE_SHOW_COMEDY
+0x4D5B4F6E=GCKK_ACT_LEAVE_SHOW_COMEDY
+
+;0x4D80A7BC=~z~Stop it!
+0x4D80A7BC=~z~够了！
+
+;0x4E0D6C10=100
+0x4E0D6C10=100
+
+;0x5041A258=~z~My ex-boyfriend used to take me here before he got sentenced.
+0x5041A258=~z~在我的前男友被判刑前他经常带我来这。
+
+;0x516A95FD=~z~That was really nice, Niko. I feel like I'm really getting to know you.
+0x516A95FD=~z~你人还意外的挺不错的，Niko。我觉得我开始有点懂你的心意了。
+
+;0x52E5AED8=~z~Whoa. Those drinks were strong weren't they?
+0x52E5AED8=~z~哇哦。那些酒挺烈的吧？
+
+;0x558DF4A9=~z~I don't often lose, Niko.
+0x558DF4A9=~z~我很少输的，Niko。
+
+;0x5618EFEB=~z~Bye, Niko.
+0x5618EFEB=~z~再见，Niko。
+
+;0x576FC786=GCKK_ACT_DIFF_FASTFOOD_NO
+0x576FC786=GCKK_ACT_DIFF_FASTFOOD_NO
+
+;0x57C5479E=~z~I don't want to go home yet. Is there something else you'd like to do now?
+0x57C5479E=~z~我还不想回家呢。你还想玩点别的吗？
+
+;0x57EFB886=~z~Niko, are you taking me somewhere or what?
+0x57EFB886=~z~Niko，咱这是去哪？
+
+;0x5810F0F2=100
+0x5810F0F2=100
+
+;0x589BEAD2=~z~Niko, I can't eat here now. There are too many painful memories of Tremaine.
+0x589BEAD2=~z~Niko，在这我吃不下饭。在这我就想起了Tremaine，痛苦的回忆。
+
+;0x58A97ADB=GCKK_ACT_LEAVE_HIGHEND
+0x58A97ADB=GCKK_ACT_LEAVE_HIGHEND
+
+;0x58D16D82=GCKK_ACT_LEAVE_PUB_GENERIC
+0x58D16D82=GCKK_ACT_LEAVE_PUB_GENERIC
+
+;0x5B0BACE8=~z~Hey, I thought you were taking me home.
+0x5B0BACE8=~z~嘿，我还以为你要带我回家呢。
+
+;0x5B10296A=~z~Alright then.
+0x5B10296A=~z~好吧。
+
+;0x5B6A68D6=100
+0x5B6A68D6=100
+
+;0x5E8C3040=~z~I enjoyed that, Niko. You're a good conversationalist.
+0x5E8C3040=~z~Niko，你很健谈，我很喜欢。
+
+;0x5EDD7BA0=GCKK_ACT_PKI_END_GOOD_N
+0x5EDD7BA0=GCKK_ACT_PKI_END_GOOD_N
+
+;0x5F25138D=010
+0x5F25138D=010
+
+;0x5F536D2A=~z~Niko, I feel like we were destined to meet each other.
+0x5F536D2A=~z~Niko，我感觉我们的相遇是命中注定的。
+
+;0x60858995=~z~Jesus, Niko. This was hardly even a date.
+0x60858995=~z~天哪，Niko。这很难算是一场约会。
+
+;0x6096CF5D=100
+0x6096CF5D=100
+
+;0x624D7800=100
+0x624D7800=100
+
+;0x6468D102=100
+0x6468D102=100
+
+;0x6568AB73=~z~Can you take me back to my place?
+0x6568AB73=~z~你能带我回家吗？
+
+;0x6655242D=010
+0x6655242D=010
+
+;0x690538E9=GCKK_ACT_PKI_END_BONK
+0x690538E9=GCKK_ACT_PKI_END_BONK
+
+;0x69233A3C=GCKK_ACT_BOWL_LEAVE_ABANDON
+0x69233A3C=GCKK_ACT_BOWL_LEAVE_ABANDON
+
+;0x6952C2AA=~z~You're so clever with that pool cue, Niko.
+0x6952C2AA=~z~你那台球杆子使得挺溜的，Niko。
+
+;0x6A13BE91=100
+0x6A13BE91=100
+
+;0x6BE973B5=GCKK_ACT_POOL_LEAVE_DRAW
+0x6BE973B5=GCKK_ACT_POOL_LEAVE_DRAW
+
+;0x6C664F9D=~z~I thought you were taking me home, Niko.
+0x6C664F9D=~z~我还以为你要带我回家呢，Niko。
+
+;0x6F2BF834=~z~I really felt like we got close on this date. It can't go on forever though.
+0x6F2BF834=~z~我真的感觉我们在约会中亲近了不少。然而我们不能一直约就是了。
+
+;0x6F5E3153=100
+0x6F5E3153=100
+
+;0x70A3A500=~z~It's hard to say goodbye but we have to.
+0x70A3A500=~z~我也不想但是我觉得我们应该在这说再见了。
+
+;0x7136ECE0=~z~Umm, you're going to call me aren't you?
+0x7136ECE0=~z~嗯，你会给我打电话的是吧？
+
+;0x7163C385=~z~Bring me home, will you?
+0x7163C385=~z~你能带我回家吗？
+
+;0x7201BF0B=100
+0x7201BF0B=100
+
+;0x741DEB93=~z~That was so nice, Niko. I don't care what they say about health risks, that stuff tastes good.
+0x741DEB93=~z~真的很不错，Niko。不管他们说这东西对健康多有害，我就是觉得真香。
+
+;0x77AA4FF6=~z~I'd like it if you dropped me back at my place.
+0x77AA4FF6=~z~我希望你能送我回家。
+
+;0x78232F89=GCKK_ACT_LEAVE_PUB_FAVOURITE
+0x78232F89=GCKK_ACT_LEAVE_PUB_FAVOURITE
+
+;0x78ACDA02=GCKK_ACT_DATEFINISHED_OK
+0x78ACDA02=GCKK_ACT_DATEFINISHED_OK
+
+;0x7AEAFE7C=~z~I feel like you're stalling, Niko. Why is taking so long to get there?
+0x7AEAFE7C=~z~我感觉你磨磨蹭蹭的，Niko。为什么这么久才到？
+
+;0x7BF0C09E=~z~I don't understand why we stopped. Have you got sick of me?
+0x7BF0C09E=~z~为什么我们停下了。你烦我了？
+
+;0x7C210913=~z~What's the chances of finishing on a tie? I guess we're perfectly matched, aren't we?
+0x7C210913=~z~以平局结束的概率真的好小，我觉得我们是天造地设的一对儿，你觉得呢？
+
+;0x7C4F762A=~z~Oh well, this has been fun.
+0x7C4F762A=~z~哦，挺有趣的。
+
+;0x7EFAFFCA=~z~Man, oh man. I think I should have stopped drinking three beers ago.
+0x7EFAFFCA=~z~天，哦我的天。我觉得我不该喝那最后三杯酒。
+
+;0x7F434003=100
+0x7F434003=100
+
+;0x80D36248=~z~Can you bring me home?
+0x80D36248=~z~你能送我回家吗？
+;0x80DA2644=100
+0x80DA2644=100
+
+;0x81009C15=GCKK_ACT_PKI_END_KISS_RESPONSE
+0x81009C15=GCKK_ACT_PKI_END_KISS_RESPONSE
+
+;0x811BF01F=010
+0x811BF01F=010
+
+;0x8330671E=~z~Drop me home please.
+0x8330671E=~z~送我回家，谢谢。
+
+;0x85BC557F=~z~I'd like to come in with you, Kiki.
+0x85BC557F=~z~我喜欢带你来这，Kiki。
+
+;0x8A1BD08F=GCKK_ACT_PKI_END_REJECT
+0x8A1BD08F=GCKK_ACT_PKI_END_REJECT
+
+;0x8BBE469B=010
+0x8BBE469B=010
+
+;0x8F126BC6=GCKK_ACT_DARTS_LEAVE_ABANDON
+0x8F126BC6=GCKK_ACT_DARTS_LEAVE_ABANDON
+
+;0x8F7F9C8A=~z~This has been swell, Niko.
+0x8F7F9C8A=~z~太棒了，Niko。
+
+;0x8FAEB6BB=GCKK_ACT_POOL_LEAVE_ABANDON
+0x8FAEB6BB=GCKK_ACT_POOL_LEAVE_ABANDON
+
+;0x901D2C5D=~z~There's nothing I want more than to be both physically and emotionally close to you. Not tonight though.
+0x901D2C5D=~z~我也想和你在感情上和肉体上和你亲近，但不是今晚。
+
+;0x9026B878=~z~How about you take me somewhere else now? That's if you're not tired of me yet.
+0x9026B878=~z~带我去其他地方怎么样？如果你还不烦我的话。
+
+;0x92057551=~z~I hope you're not intimidated by my beating you, Niko.
+0x92057551=~z~我赢了，希望你不要被吓到，Niko。
+
+;0x94BD18BF=100
+0x94BD18BF=100
+
+;0x94F3E19A=~z~Enjoy the memories then. Goodbye.
+0x94F3E19A=~z~那就好好享受回忆吧，再见。
+
+;0x9693066B=~z~You're really good at bowling, Niko.
+0x9693066B=~z~你真的很擅长打保龄球，Niko。
+
+;0x98553401=~z~That was so nice, you don't have to spend money for me to have a good time.
+0x98553401=~z~真不错，其实你不用花钱就可以让我玩的开心。
+
+;0x9A09C55E=100
+0x9A09C55E=100
+
+;0x9A7F8395=100
+0x9A7F8395=100
+
+;0x9AF4F9A2=~z~See you really soon, Niko.
+0x9AF4F9A2=~z~再见，Niko。
+
+;0x9D334689=~z~I need it to really mean something when we're together physically. Not tonight, Niko.
+0x9D334689=~z~我需要让我们在一起的那一晚更有意义。所以今天不行，Niko。
+
+;0x9DE59C88=~z~It'd be nice if you took me home now.
+0x9DE59C88=~z~如果你现在带我回家就太好了。
+
+;0x9E661CF8=GCKK_ACT_BORED_HOME
+0x9E661CF8=GCKK_ACT_BORED_HOME
+
+;0xA172F4C7=~z~I feel like I really understand you now, Niko.
+0xA172F4C7=~z~我觉得我真的懂你了，Niko。
+
+;0xA21BCCE1=~z~I thought you were taking me somewhere.
+0xA21BCCE1=~z~我还有以为你要带我去哪呢。
+
+;0xA6355C0C=~z~Goodbye then.
+0xA6355C0C=~z~再见。
+
+;0xA835D6D4=GCKK_ACT_SHOW_RESPONSE_POS
+0xA835D6D4=GCKK_ACT_SHOW_RESPONSE_POS
+
+;0xA85DC7DD=~z~That man was very amusing.
+0xA85DC7DD=~z~那家伙挺好玩的。
+
+;0xA89CB1F6=~z~I'd like a lift home, if that's okay?
+0xA89CB1F6=~z~开车带我回家，可以吗？
+
+;0xA9E5ED6F=~z~This date has been amazing. We're really breaking down barriers. Maybe we should call it a day though.
+0xA9E5ED6F=~z~这次约会真的太棒了，我真的觉得我们之间的隔阂变少了。不过也许我们今天就到这吧。
+
+;0xAAF11DE0=GCKK_ACT_PKI_END_NO_RESPONSE
+0xAAF11DE0=GCKK_ACT_PKI_END_NO_RESPONSE
+
+;0xAB6A6286=~z~Why are we leaving? Do you have to get back to some cheap whore or something?
+0xAB6A6286=~z~我们为什么就走了？你急着去找一些贱婊还是什么的？
+
+;0xAC71E506=~z~Niko, I'm scared of getting close to you. I can't invite you in.
+0xAC71E506=~z~Niko，我现在还是有点怕你。我不能邀你进来。
+
+;0xACE87FC5=100
+0xACE87FC5=100
+
+;0xAD40E32B=~z~Niko, I'm taking time out from work to be here. Can we do something?
+0xAD40E32B=~z~Niko，我是推掉了工作出来的，我们能好好玩玩吗？
+
+;0xB2647CDB=~z~Why don't we do something else now?
+0xB2647CDB=~z~为什么我们不能干点别的？
+
+;0xB479E7B7=100
+0xB479E7B7=100
+
+;0xB4AB434E=100
+0xB4AB434E=100
+
+;0xB7741AC5=~z~Wow! Who'd have thought I was so good at bowling?
+0xB7741AC5=~z~哇！谁想得到我保龄球打得这么好？
+
+;0xB82EE1A0=~z~I bet you finish the games you start with your other whores.
+0xB82EE1A0=~z~我赌你已经和你的其他婊子玩得很尽兴了。
+
+;0xC2728BCA=100
+0xC2728BCA=100
+
+;0xC2AE3F03=~z~I guess there isn't a winner then.
+0xC2AE3F03=~z~我想应该没有人赢。
+
+;0xC2F60376=~z~I've had a nice time, Niko.
+0xC2F60376=~z~我玩得很开心，Niko。
+
+;0xC3C3C92C=GCKK_ACT_DARTS_LEAVE__LOST
+0xC3C3C92C=GCKK_ACT_DARTS_LEAVE__LOST
+
+;0xC4C5192F=GCKK_ACT_POOL_LEAVE_WON
+0xC4C5192F=GCKK_ACT_POOL_LEAVE_WON
+
+;0xC509D2D3=~z~Why are we stopping? Have you got to run to some cheap whore?
+0xC509D2D3=~z~为什么我们不玩了？你急着去找你的贱婊们？
+
+;0xC6E45651=~z~Did you take me out just to humiliate me, Niko? Show me some respect.
+0xC6E45651=~z~你带我出来就是为了羞辱我吗，Niko？给我点尊重好不好。
+
+;0xC739D608=~z~Whatever you say, Kiki.
+0xC739D608=~z~随你怎么说吧，Kiki。
+
+;0xC7660012=~z~I don't like a man who won't finish what he's started, Niko.
+0xC7660012=~z~我不喜欢有始无终的男人，Niko。
+
+;0xC945BE68=~z~I've got to compete with men as part of my career, it's no real surprise I beat you.
+0xC945BE68=~z~我在我的职业生涯中，与男人竞争是常事，赢了你不奇怪。
+
+;0xC98C9F51=100
+0xC98C9F51=100
+
+;0xCA438027=GCKK_ACT_DARTS_LEAVE_DRAW
+0xCA438027=GCKK_ACT_DARTS_LEAVE_DRAW
+
+;0xCB4C4879=~z~That really taught me a lot about your culture, Niko. Thank you for sharing it with me.
+0xCB4C4879=~z~那真的让我更好地了解了你的文化，Niko。谢谢你与我分享那些。
+
+;0xCC572CD2=GCKK_ACT_LEAVE_SHOW_CABARET
+0xCC572CD2=GCKK_ACT_LEAVE_SHOW_CABARET
+
+;0xCCF8B6C5=100
+0xCCF8B6C5=100
+
+;0xCD36C7D4=100
+0xCD36C7D4=100
+
+;0xCF3DE879=~z~Hey, now that I've brought you back here, are you going to invite me in?
+0xCF3DE879=~z~嘿，既然我带你回来了，你想邀我进去吗？
+
+;0xD06E97FE=~z~It was a bit degrading but funny all the same.
+0xD06E97FE=~z~虽然有点丢人，但是还是挺有趣的。
+
+;0xD262BDAD=100
+0xD262BDAD=100
+
+;0xD390274B=100
+0xD390274B=100
+
+;0xD4469F5C=~z~Come on, Niko. It can't be that hard to get me home. Why is it taking so long?
+0xD4469F5C=~z~搞错没有，Niko，带我回家很难吗？，为什么要这么久？
+
+;0xD4F9A0C2=~z~Ummm, Niko, it sure is taking a long time to get me home, isn't it?
+0xD4F9A0C2=~z~嗯，Niko，带我回家肯定要很长时间，对吧？
+
+;0xD5069D55=~z~Let's go inside.
+0xD5069D55=~z~我们进去吧。
+
+;0xD520A7CB=~z~Niko, you're sweet.
+0xD520A7CB=~z~Niko，你真好。
+
+;0xD55F36FE=GCKK_ACT_BOWL_LEAVE_WON
+0xD55F36FE=GCKK_ACT_BOWL_LEAVE_WON
+
+;0xD58DC652=GCKK_ACT_PKI_END_NO
+0xD58DC652=GCKK_ACT_PKI_END_NO
+
+;0xD5B072F5=~z~Sure, Kiki, sure.
+0xD5B072F5=~z~当然，Kiki，当然。
+
+;0xD7F4CC8A=010
+0xD7F4CC8A=010
+
+;0xD919390A=GCKK_ACT_END_BAD_RESP
+0xD919390A=GCKK_ACT_END_BAD_RESP
+
+;0xD9B13F84=~z~What sort of girl do you think I am, Niko?
+0xD9B13F84=~z~你认为我是什么样的女孩，Niko？
+
+;0xDB328176=~z~Well you're being sensible for both of us. Thank you. I'll call you, Kiki.
+0xDB328176=~z~你把我们的关系处理得很好。谢谢。我会给你打电话的，Kiki。
+
+;0xDC38AD8C=GCKK_ACT_DATEFINISHED_HOME
+0xDC38AD8C=GCKK_ACT_DATEFINISHED_HOME
+
+;0xDD4BC684=GCKK_ACT_POOL_LEAVE_LOST
+0xDD4BC684=GCKK_ACT_POOL_LEAVE_LOST
+
+;0xDEA0EBC3=~z~There's nothing like sharing a moment like this with someone you care about, is there?
+0xDEA0EBC3=~z~没有什么比和你在乎的人分享这样的时刻更好的了，不是吗?
+
+;0xDEF487EE=~z~It would mean a lot to me if I could come inside, Kiki.
+0xDEF487EE=~z~如果你能邀我进去，对我来说会有很大意义，Kiki。
+
+;0xE0B5E74D=~z~Whoa. I thought you were going to keep an eye on my drinking, Niko.
+0xE0B5E74D=~z~哇啊。我以为你会管管我喝酒的呢，Niko。
+
+;0xE226C37D=~z~I'm gonna remember this moment for ever. It's so special.
+0xE226C37D=~z~我将永远记住这一刻。它如此特别。
+
+;0xE2460D18=~z~I think it's time to put an end to this date.
+0xE2460D18=~z~我想是时候结束这场约会了。
+
+;0xE3E1F8C2=100
+0xE3E1F8C2=100
+
+;0xE4D986BA=GCKK_ACT_PKI_END_RESPONSE
+0xE4D986BA=GCKK_ACT_PKI_END_RESPONSE
+
+;0xE60E57C9=~z~Can't stand sitting next to me, is that it? I can't believe you couldn't even wait until the end of the show.
+0xE60E57C9=~z~坐在我旁边都忍不了，是吗?我真不敢相信你都等不及看完这场节目。
+
+;0xE69E1FBE=100
+0xE69E1FBE=100
+
+;0xEC0D20A6=~z~I can tell your mind has been on your other cheap whores all night, Niko.
+0xEC0D20A6=~z~我知道你整晚都在想着你的那些贱婊，Niko。
+
+;0xECDC23BD=~z~This date could keep going inside your place if you invite me in. How about it?
+0xECDC23BD=~z~如果你邀我进去，我们还能接着约会。你觉得呢?
+
+;0xEDFC4204=~z~That place is full of bankers and lawyers. I'm not interested in guys like that. Don't turn into one of them.
+0xEDFC4204=~z~那地方到处都是银行家和律师，我对那种家伙不感兴趣。别变成他们那样的人。
+
+;0xEE173117=~z~So you think I'm cheap like your other whores! Thanks a lot, Niko.
+0xEE173117=~z~所以你觉得我和你的其他婊子一样贱！谢谢你啊，Niko。
+
+;0xEE8FA988=~z~I had a really good time, Niko. I can't tell you how nice it is to be taken out on a date.
+0xEE8FA988=~z~我玩的很开心，Niko。和你出去约会真是无法形容的好。
+
+;0xEEB8DB02=GCKK_ACT_LEAVE_CLUB_GENERIC
+0xEEB8DB02=GCKK_ACT_LEAVE_CLUB_GENERIC
+
+;0xEF8EF814=100
+0xEF8EF814=100
+
+;0xF26037FC=GCKK_ACT_DARTS_LEAVE_WON
+0xF26037FC=GCKK_ACT_DARTS_LEAVE_WON
+
+;0xF38E03A1=~z~I'm going home now.
+0xF38E03A1=~z~我要回家了。
+
+;0xF3C65932=~z~We're so perfectly matched, Niko.
+0xF3C65932=~z~我们天造地设，Niko。
+
+;0xF48FC2EC=100
+0xF48FC2EC=100
+
+;0xF5524513=GCKK_ACT_DATEFINISHED_BAD
+0xF5524513=GCKK_ACT_DATEFINISHED_BAD
+
+;0xF5A7365F=~z~You'll be on my mind then, Kiki. I'll see you soon.
+0xF5A7365F=~z~我会想你的，Kiki。下次再见。
+
+;0xF76BF780=~z~My time is really valuable, Niko. Can we do something soon?
+0xF76BF780=~z~我的时间很宝贵，Niko。我们能快点做些什么吗？
+
+;0xF7799D58=GCKK_ACT_LEAVE_SHOW_EARLY
+0xF7799D58=GCKK_ACT_LEAVE_SHOW_EARLY
+
+;0xF7DDEC8A=~z~Yeah. Okay.
+0xF7DDEC8A=~z~耶，好啊。
+
+;0xF7E4B816=~z~Well, maybe I'll take you out again, give me your number. I'll see you soon.
+0xF7E4B816=~z~也许我会再邀你出来，给我你的号码吧。那再见啦。
+
+;0xF80D1814=010
+0xF80D1814=010
+
+;0xFA041091=~z~I'll see you round, Kiki.
+0xFA041091=~z~回头见，Kiki。
+
+;0xFA811AFB=~z~You shouldn't have let me drink so much. I'm feeling buzzed.
+0xFA811AFB=~z~你不应该让我喝这么多。我头有点晕了。
+
+;0xFA990114=GCKK_ACT_PKI_END_KISS_AGREE
+0xFA990114=GCKK_ACT_PKI_END_KISS_AGREE
+
+;0xFD82D2AA=100
+0xFD82D2AA=100
+
+;0xFDD7AB07=~z~You really know how to handle those darts, Niko. I wonder what else you're good at?
+0xFDD7AB07=~z~你真的好会玩飞镖，Niko。我在想你还擅长些什么呢?
+
+;0xFE69FC03=~z~It's been so hard resisting you. I'm so pleased that it's time.
+0xFE69FC03=~z~拒绝你真的很难。我不用再拒绝你真是太开心了。

@@ -1,0 +1,888 @@
+﻿[GCKK2AU]
+;0x00085AB8=GCKK_ACT_BORED_LEAVING
+0x00085AB8=GCKK_ACT_BORED_LEAVING
+
+;0x026A9169=~z~Hey, Niko. Let's go shall we?
+0x026A9169=~z~嘿，Niko，我们走吧？
+
+;0x02B09B8B=~z~Does your other whore like the new pants?
+0x02B09B8B=~z~你的其他婊子也喜欢你的新裤子吗？
+
+;0x03AA2513=~z~Those glasses are cool, Niko.
+0x03AA2513=~z~眼镜很酷喔，Niko。
+
+;0x03D2EDBE=GCKK_ACT_PKI_FEET_GOOD
+0x03D2EDBE=GCKK_ACT_PKI_FEET_GOOD
+
+;0x05D1072E=GCKK_ACT_ARRIVE_STANDARD
+0x05D1072E=GCKK_ACT_ARRIVE_STANDARD
+
+;0x06F7C074=~z~Oh, Niko. Do you mind if we do something else instead?
+0x06F7C074=~z~噢，Niko，我们可以做点别的吗？如果你不介意的话。
+
+;0x07822D32=010
+0x07822D32=010
+
+;0x08DFB9AE=~z~Only if you don't know how to drive them.
+0x08DFB9AE=~z~除非你不会开车。
+
+;0x0ACC1E0D=GCKK_ACT_CLOTHES_BAD
+0x0ACC1E0D=GCKK_ACT_CLOTHES_BAD
+
+;0x0BDCCCF6=~z~Those shoes are good.
+0x0BDCCCF6=~z~鞋挺不错的。
+
+;0x0C277A94=GCKK_ACT_ARRIVE_CLUB_GENERIC
+0x0C277A94=GCKK_ACT_ARRIVE_CLUB_GENERIC
+
+;0x0E05AC37=100
+0x0E05AC37=100
+
+;0x0E1A19C4=~z~This isn't exactly an exciting car, is it?
+0x0E1A19C4=~z~这车真让人提不起兴致，难道不是吗？
+
+;0x0E48ECCE=GCKK_ACT_PKI_FEET_BAD
+0x0E48ECCE=GCKK_ACT_PKI_FEET_BAD
+
+;0x0EBEECE2=100
+0x0EBEECE2=100
+
+;0x0ECC248B=~z~If you want new shoes, Niko. I can buy them. Don't spend your own money.
+0x0ECC248B=~z~如果你想买双鞋，Niko，我帮你买，你别花自己的钱。
+
+;0x1057AF22=GCKK_ACT_BORED_TAKEHOME
+0x1057AF22=GCKK_ACT_BORED_TAKEHOME
+
+;0x1260A02B=~z~I get discounts.
+0x1260A02B=~z~我可以拿到折扣。
+
+;0x12C65FDE=~z~Niko, please don't spend too much money on me.
+0x12C65FDE=~z~Niko，别在我身上花太多钱。
+
+;0x12ED0AAB=~z~Sorry, Niko. I didn't realize it was going to take this long. I don't think I've got time for this. Can you take me home?
+0x12ED0AAB=~z~对不起，Niko，我真不知道要花这么长时间，我想我可能没空了，你能送我回家吗？
+
+;0x12F4A538=100
+0x12F4A538=100
+
+;0x1501625C=~z~Niko. My schedule is pretty tight at the moment. I can't really wait around for you. Let's go.
+0x1501625C=~z~Niko，我的事情真的很多，我快等不及了，赶紧走吧。
+
+;0x153B9A6D=~z~You didn't just get this car to impress me, did you? Niko!
+0x153B9A6D=~z~你买这辆车不会只是为了在我面前炫耀吧，是不是啊？Niko！
+
+;0x15709FD8=GCKK_ACT_CAR_NEW_BAD
+0x15709FD8=GCKK_ACT_CAR_NEW_BAD
+
+;0x1853516F=GCKK_ACT_CLOTHES_UNUSUAL
+0x1853516F=GCKK_ACT_CLOTHES_UNUSUAL
+
+;0x185D8CAD=~z~Alright, let's go bowling.
+0x185D8CAD=~z~好，我们去打保龄球。
+
+;0x19B47C3D=100
+0x19B47C3D=100
+
+;0x1B955E96=GCKK_ACT_ARRIVE_SHOW_K_WILL
+0x1B955E96=GCKK_ACT_ARRIVE_SHOW_K_WILL
+
+;0x1BE77220=~z~You don't need to take me to a place like this, Niko. Your company is more precious to me than an expensive meal.
+0x1BE77220=~z~你不用带我来这种地方，Niko，对我来说，你的陪伴比这昂贵的一餐更珍贵。
+
+;0x1D47C63C=100
+0x1D47C63C=100
+
+;0x1DB1EDE8=~z~I'd appreciate it if we did something else instead of this. Sorry, Niko.
+0x1DB1EDE8=~z~如果我们能做些别的事情我会很感激你的。真是不好意思，Niko。
+
+;0x1E853AE2=GCKK_ACT_ARRIVE_SHOW_RGERV
+0x1E853AE2=GCKK_ACT_ARRIVE_SHOW_RGERV
+
+;0x1F1BBBC7=~z~This old thing, Niko? I think it's about time you traded in.
+0x1F1BBBC7=~z~还是老衣服？Niko，我想你该换一换了。
+
+;0x2014C17D=GCKK_ACT_ARRIVE_FASTFOOD
+0x2014C17D=GCKK_ACT_ARRIVE_FASTFOOD
+
+;0x213D496D=~z~The new shoes make you look like a pimp.
+0x213D496D=~z~这双鞋让你看起来像个拉皮条的。
+
+;0x214E9AE5=~z~Do you come to this club to pick up your cheap whores? Fine then, pretend I'm a whore.
+0x214E9AE5=~z~你来这接你的其他贱婊？那好吧，我也只能假装是个婊子。
+
+;0x21C1AC74=GCKK_ACT_ARRIVem_NOTLATE
+0x21C1AC74=GCKK_ACT_ARRIVem_NOTLATE
+
+;0x232E995E=~z~Okay, if you're going to be like this, Niko. I'll make my own way home. Call me.
+0x232E995E=~z~好吧，如果是这样的话，Niko，我自己回家了，其他时候再打电话给我。
+
+;0x235B4446=~z~I don't really like being driven around in this car, Niko.
+0x235B4446=~z~我真的不想让你载着我乱转，Niko。
+
+;0x23E17EE9=GCKK_ACT_ARRIVE_PUB_GENERIC
+0x23E17EE9=GCKK_ACT_ARRIVE_PUB_GENERIC
+
+;0x247001D0=~z~Hey, are you LawChick? We met online, I'm Niko Bellic.
+0x247001D0=~z~嘿，是LawChick吗？ 我们线上联系过了，我是Niko Bellic。
+
+;0x2522E8A2=~z~Thank God you lost those glasses, Niko.
+0x2522E8A2=~z~谢天谢地你把那副眼镜摘了，Niko。
+
+;0x25D1883C=~z~Oh, this guy's okay. Let's go see the show.
+0x25D1883C=~z~噢，这些家伙表演得还凑合，去看看吧。
+
+;0x263061AA=~z~Oh, I haven't seen that top before, have I?
+0x263061AA=~z~喔，这件上衣我以前没看过，是吧？
+
+;0x276E3ED2=~z~This car gets me in the mood, Niko.
+0x276E3ED2=~z~看到这辆车我心情都好了不少，Niko。
+
+;0x28B7301B=~z~The ball's in your court, Niko. I'm happy to do whatever you enjoy. It's such a treat for me to be out and about.
+0x28B7301B=~z~决定权在你，Niko。我很乐意和你一起做你喜欢的。对我来说，出去走走就是一件乐事。
+
+;0x28B8DD1A=~z~What's different about you? Oh... yeah, you're not wearing the glasses. Pity.
+0x28B8DD1A=~z~你看起来有点以往不同？哦...对，你没戴你的眼镜，真是可惜。
+
+;0x28DC1477=~z~We're playing darts again, are we? Okay.
+0x28DC1477=~z~我们又来玩飞镖了？好吧。
+
+;0x2B3480BE=100
+0x2B3480BE=100
+
+;0x2B4C9F17=~z~Niko, you look so sweet in those clothes.
+0x2B4C9F17=~z~Niko，这身衣服真好看。
+
+;0x2BC00BD0=~z~Thanks, Kiki.
+0x2BC00BD0=~z~谢了，Kiki。
+
+;0x2DCF520A=100
+0x2DCF520A=100
+
+;0x2FAA0FA2=~z~Please tell me you didn't waste your hard earned money on a new top on my account.
+0x2FAA0FA2=~z~请务必告诉你没为了我而把你的血汗钱花在新上衣上。
+
+;0x302A9E20=GCKK_ACT_CAR_NONE_AA
+0x302A9E20=GCKK_ACT_CAR_NONE_AA
+
+;0x3127E585=GCKK_ACT_CAR_OKAY
+0x3127E585=GCKK_ACT_CAR_OKAY
+
+;0x3170FED0=~z~Hey, your clothes are pretty out there, aren't they?
+0x3170FED0=~z~嘿，衣服挺好看的，不是吗？
+
+;0x31877896=GCKK_ACT_PKI_HINT
+0x31877896=GCKK_ACT_PKI_HINT
+
+;0x34F19961=100
+0x34F19961=100
+
+;0x35170057=~z~New pants, I see.
+0x35170057=~z~新裤子，可以。
+
+;0x355011D1=GCKK_ACT_PKI_HAT_GOOD
+0x355011D1=GCKK_ACT_PKI_HAT_GOOD
+
+;0x358E1CDA=100
+0x358E1CDA=100
+
+;0x36A0DD37=~z~I like the car, Niko.
+0x36A0DD37=~z~我喜欢这车，Niko。
+
+;0x36B728EE=~z~Don't spend your money on a cab, Niko. Let's walk somewhere.
+0x36B728EE=~z~别浪费钱打车，Niko，我们到处走走吧。
+
+;0x380663F9=~z~They'll do, you know.
+0x380663F9=~z~他们会的，你懂。
+
+;0x386F395C=~z~Aren't you a handsome man, Niko.
+0x386F395C=~z~真是个大帅哥哦，Niko。
+
+;0x391DA4C3=~z~I can't do this right now, Niko. My head's not in the right place. I'm sorry.
+0x391DA4C3=~z~我来不了，Niko，我头有点昏，不好意思。
+
+;0x39EB4CBC=100
+0x39EB4CBC=100
+
+;0x3A61BE24=~z~Hey. I thought you stood me up, Niko. Where's your car?
+0x3A61BE24=~z~嘿，我还以为你放我鸽子呢，Niko。你车呢？
+
+;0x3A659073=~z~Okay, why don't we play pool? My ex, Tyrone was falsely accused of beating this guy to death with a pool cue.
+0x3A659073=~z~好吧，为什么我们不打台球呢？我的前任，Tyrone曾经被诬陷用台球杆打死过人。
+
+;0x3C61A911=~z~I hope that top wasn't expensive, Niko.
+0x3C61A911=~z~我希望你的上衣不是太贵的那种，Niko。
+
+;0x3D4F31F1=~z~Niko, pool is really becoming our special game.
+0x3D4F31F1=~z~Niko，台球对我们来说真是特别。
+
+;0x3F625D71=~z~Oh God, I can't think. I'm just happy to be out of the office. It's such hard work at City Hall.
+0x3F625D71=~z~天哪，我也不知道为什么。我只是出了办公室就很开心了，在市政厅工作真是太辛苦了。
+
+;0x3F729A11=~z~Those clothes fit you like an old glove.
+0x3F729A11=~z~这身衣服老适合你了。
+
+;0x404B250A=~z~I liked the old hat, Niko. It reminded me of the good times we've had together.
+0x404B250A=~z~我喜欢你以前的那顶帽子。它让我想起了我们一起度过的欢乐时光。
+
+;0x40C06CEA=~z~A motorbike. Aren't these dangerous?
+0x40C06CEA=~z~一辆摩托车，真是危险。
+
+;0x437282AF=100
+0x437282AF=100
+
+;0x43D4E1B9=100
+0x43D4E1B9=100
+
+;0x445B3ACF=100
+0x445B3ACF=100
+
+;0x452D8B0C=GCKK_ACT_PKI_HAT_BAD
+0x452D8B0C=GCKK_ACT_PKI_HAT_BAD
+
+;0x460C680A=~z~Bowling, Niko? Okay then.
+0x460C680A=~z~打保龄球吗，Niko？好吧。
+
+;0x4621A018=~z~Those pants are good.
+0x4621A018=~z~裤子不错。
+
+;0x473B2E6D=GCKK_ACT_ARRIVE_DARTS_NOT
+0x473B2E6D=GCKK_ACT_ARRIVE_DARTS_NOT
+
+;0x47BF0D0D=~z~Why do you drive this thing, Niko?
+0x47BF0D0D=~z~你为什么开这个，Niko？
+
+;0x487481B0=~z~Hey Niko, it's Kiki. Kiki Jenkins.
+0x487481B0=~z~嘿，Niko，我是Kiki。Kiki Jenkins。
+
+;0x48DF01B3=~z~This is the sort of car you should be driving.
+0x48DF01B3=~z~这车看起来是像你该开的那种。
+
+;0x48E01869=~z~I used to like that old car you drove, Niko.
+0x48E01869=~z~我喜欢你以前开的那辆车，Niko。
+
+;0x49305BC1=~z~Niko. Better late than never, are you parked nearby?
+0x49305BC1=~z~Niko，虽然你迟到了，但也比不到好，你的车停在附近了吗？
+
+;0x494DBC5F=~z~Niko, I've been looking forward to this so much. Let's go.
+0x494DBC5F=~z~Niko，我对这次约会很期待喔，我们走吧。
+
+;0x4B40B1AD=~z~Those clothes really suit you, I've told you that before, haven't I?
+0x4B40B1AD=~z~这身衣服真的很适合你，我以前也讲过对吧？
+
+;0x4B618F49=GCKK_ACT_HINT
+0x4B618F49=GCKK_ACT_HINT
+
+;0x4B91D3BC=~z~Ricky Gervais it is then.
+0x4B91D3BC=~z~Ricky Gervais的表演，好的。
+
+;0x4C4DCB37=~z~Sorry, Niko. I'm not in the mood for this right now.
+0x4C4DCB37=~z~对不起，Niko，我现在心情不好。
+
+;0x4D185371=100
+0x4D185371=100
+
+;0x4D50A734=~z~Okay then, Niko. Let's go on your bike.
+0x4D50A734=~z~好吧，Niko，我们去坐你的摩托吧。
+
+;0x4D97F9DC=~z~I'm not sure really. I don't get that much time off work so I'm just happy to be out.
+0x4D97F9DC=~z~我不太确定。我没有那么多的休息时间，所以能出去转转我就很开心了。
+
+;0x4EEE8C8F=~z~Hey, Niko. Is your car round here somewhere?
+0x4EEE8C8F=~z~嘿，Niko，你的车停在附近了吗？
+
+;0x500DC2DB=GCKK_ACT_PKI_CLOTHES_UNUSAL
+0x500DC2DB=GCKK_ACT_PKI_CLOTHES_UNUSAL
+
+;0x50C8FFAF=100
+0x50C8FFAF=100
+
+;0x51DF1EB5=GCKK_ACT_DIFF_ACTIVITY_NO
+0x51DF1EB5=GCKK_ACT_DIFF_ACTIVITY_NO
+
+;0x521264DF=100
+0x521264DF=100
+
+;0x52792281=~z~Can't you get a new car, Niko?
+0x52792281=~z~你就不能换辆新车吗，Niko？
+
+;0x540A06B8=~z~All sorts of stuff, Niko. Whatever you want to do. I'm sure I'll enjoy it.
+0x540A06B8=~z~无论什么事，Niko，只要你想做，我想我都会很乐意和你一起的。
+
+;0x542270F3=100
+0x542270F3=100
+
+;0x54F3B344=~z~I thought we'd walk for a bit.
+0x54F3B344=~z~我想我们可以走一会儿。
+
+;0x55657DCB=~z~Sorry, Niko. I really do need to get back home. Give me a call, okay?
+0x55657DCB=~z~对不起，Niko，我真的需要回家了，有时间再给我回个电话吧，好吗？
+
+;0x55E64217=GCKK_ACT_PKI_CAR_GOOD
+0x55E64217=GCKK_ACT_PKI_CAR_GOOD
+
+;0x58D718D6=~z~Haven't you got a car?
+0x58D718D6=~z~你没车吗？
+
+;0x5A339B50=GCKK_ACT_ARRIVE_BOWL_BEFORE
+0x5A339B50=GCKK_ACT_ARRIVE_BOWL_BEFORE
+
+;0x5AC6FA0A=100
+0x5AC6FA0A=100
+
+;0x5BE1A7B6=100
+0x5BE1A7B6=100
+
+;0x5CBF2830=~z~Hey, sweetie. Where'd you park your car?
+0x5CBF2830=~z~嘿，亲爱的，你车停在哪了？
+
+;0x5F2FA781=~z~You want to go bowling again? Alright!
+0x5F2FA781=~z~又是保龄球？好的！
+
+;0x60731533=GCKK_ACT_PKI_SAME_GOOD
+0x60731533=GCKK_ACT_PKI_SAME_GOOD
+
+;0x60F11674=~z~I can't just play darts with you the whole time. Are you ashamed to take me anywhere else?
+0x60F11674=~z~我也不能老是和你玩飞镖吧，带我去其他地方不行吗？
+
+;0x6111DD4F=~z~Your clothes really smell of you. It's so sexy.
+0x6111DD4F=~z~你这身衣服让你有种性感的男人味。
+
+;0x612E2209=100
+0x612E2209=100
+
+;0x62E60E49=~z~You're still wearing those flashy clothes, I see.
+0x62E60E49=~z~你还在穿这些华而不实的衣服，行吧。
+
+;0x63AEE508=100
+0x63AEE508=100
+
+;0x64FFA958=GCKK_ACT_ARRIVEF_LATE
+0x64FFA958=GCKK_ACT_ARRIVEF_LATE
+
+;0x65038586=~z~How are we going to get anywhere?
+0x65038586=~z~我们怎么去呢？
+
+;0x6562C7F8=~z~Oh, bowling is it? This is becoming our regular thing. We could have our wedding at a bowling alley.
+0x6562C7F8=~z~哦，是保龄球吗？我们经常在这玩，我想我们可以在保龄球馆举行婚礼。
+
+;0x656BDF24=GCKK_ACT_CAR_SAME_GOOD
+0x656BDF24=GCKK_ACT_CAR_SAME_GOOD
+
+;0x65B2AB62=GCKK_ACT_PKI_CLOTHES_BAD
+0x65B2AB62=GCKK_ACT_PKI_CLOTHES_BAD
+
+;0x66A7CD6B=~z~Aren't we all?
+0x66A7CD6B=~z~我们不都是吗？
+
+;0x67DCFD05=010
+0x67DCFD05=010
+
+;0x685D0C2D=~z~Haven't you got a car?
+0x685D0C2D=~z~你没车吗？
+
+;0x6B317D51=100
+0x6B317D51=100
+
+;0x6CE50CAA=GCKK_ACT_ARRIVE_LATE
+0x6CE50CAA=GCKK_ACT_ARRIVE_LATE
+
+;0x6D1F75E6=~z~Pool, Niko? I'll play pool with you if that's what makes you happy.
+0x6D1F75E6=~z~台球吗，Niko？如果打台球让你很开心的话，我也可以和你打。
+
+;0x6D55C20B=~z~Your clothes are cool.
+0x6D55C20B=~z~衣服挺酷。
+
+;0x6D7486EB=~z~I'm always having financial problems.
+0x6D7486EB=~z~我总是有开支问题。
+
+;0x6ED378D2=~z~That's my favorite outfit of yours.
+0x6ED378D2=~z~你现在这身是我最喜欢的一套。
+
+;0x6F813749=~z~A club, eh? We won't exactly be able to talk in here though, will we?
+0x6F813749=~z~俱乐部？呃，我们是不是要假装不认识？
+
+;0x70B2B5F7=~z~Darts again, is it? Do you practice throwing darts with your other whores?
+0x70B2B5F7=~z~又是飞镖？你和其他婊子在一起的时候也玩飞镖？
+
+;0x7136AAEA=~z~I just don't think those clothes are you, Niko.
+0x7136AAEA=~z~我不认为这些衣服是你的，Niko。
+
+;0x71A41220=100
+0x71A41220=100
+
+;0x73672241=~z~Have you got a car parked somewhere, Niko?
+0x73672241=~z~你车停在哪了，Niko？
+
+;0x7467EF78=~z~I'm not sure this car is really you, Niko.
+0x7467EF78=~z~我不觉得这辆车是你的，Niko。
+
+;0x7469CF99=~z~What a shame, we didn't get here in time for the show.
+0x7469CF99=~z~真遗憾，我们没能赶上演出。
+
+;0x7491AC1E=010
+0x7491AC1E=010
+
+;0x74DAFD8A=~z~Oh, I like the new pants.
+0x74DAFD8A=~z~噢，我喜欢你的新裤子。
+
+;0x7643BB0D=~z~The glasses make you look shifty, Niko. You aren't hiding anything from me, are you?
+0x7643BB0D=~z~这副眼镜然你看起来像个老油条，Niko，你没瞒我什么吧？
+
+;0x765D87E6=~z~I like the fact that you don't need to wear expensive clothes to be cool, Niko.
+0x765D87E6=~z~你不穿昂贵的衣服也可以很帅，我喜欢这一点，Niko。
+
+;0x78315FAB=~z~Tremaine used to take me to places like this, they're so quick and easy.
+0x78315FAB=~z~Tremaine以前带我来过类似的地方，又快又方便。
+
+;0x783A9AA2=~z~I'm not sure about the new hat, Niko.
+0x783A9AA2=~z~我说不准我对你新帽子的感觉，Niko。
+
+;0x78D7730A=090
+0x78D7730A=090
+
+;0x7BDD952C=GCKK_ACT_PKI_NOGLASS_GOOD
+0x7BDD952C=GCKK_ACT_PKI_NOGLASS_GOOD
+
+;0x7CE59109=~z~I can't see cars like this on the street without thinking of you, Niko.
+0x7CE59109=~z~Niko，我在街上看到这样的车我就想到了你。
+
+;0x7E1CB361=100
+0x7E1CB361=100
+
+;0x7E3965FA=GCKK_ACT_CLOTHES_GOOD
+0x7E3965FA=GCKK_ACT_CLOTHES_GOOD
+
+;0x7F269FC6=~z~What're you into, Kiki?
+0x7F269FC6=~z~你喜欢什么？Kiki。
+
+;0x7F5190C8=~z~The Russian Cabaret. This should be interesting, Niko.
+0x7F5190C8=~z~俄罗斯歌舞表演，这应该很有趣，Niko。
+
+;0x80EB68F0=100
+0x80EB68F0=100
+
+;0x8174BB45=~z~Well, at least you came. Let's find something to do.
+0x8174BB45=~z~好吧，至少你来了，我们找点乐子吧。
+
+;0x81C672D5=~z~These places are great. There's no point in spending a lot of money on food.
+0x81C672D5=~z~这地方很赞，在吃上面花太多钱是没有意义的。
+
+;0x81D8AD74=~z~My Niko. You're here. Let's find something to do.
+0x81D8AD74=~z~我的Niko，你来了，我们去找点乐子吧。
+
+;0x82416B44=~z~Oh no, we missed the show. That's such bad luck, Niko.
+0x82416B44=~z~不，我们错过了这场表演，真是倒霉，Niko。
+
+;0x82B62B39=100
+0x82B62B39=100
+
+;0x83B8229B=~z~Isn't it cool that we're comfortable enough with one another to not have to dress up?
+0x83B8229B=~z~我们不用刻意去打扮也可以相处得很舒服，真是太好啦。
+
+;0x84862EF7=100
+0x84862EF7=100
+
+;0x849EB5FE=GCKK_ACT_CAR_NEW_GOOD
+0x849EB5FE=GCKK_ACT_CAR_NEW_GOOD
+
+;0x84B6638C=GCKK_ACT_PKI_NOHAT_GOOD
+0x84B6638C=GCKK_ACT_PKI_NOHAT_GOOD
+
+;0x84F0B646=100
+0x84F0B646=100
+
+;0x86FFD67C=~z~You really don't need to dress up to impress me, Niko.
+0x86FFD67C=~z~你真的不用为了我穿得这么好，Niko。
+
+;0x87ED4B59=~z~We're walking are we, Niko? I love walking with you.
+0x87ED4B59=~z~我们在散步吗，Niko？我喜欢这样。
+
+;0x8846780B=100
+0x8846780B=100
+
+;0x88B848FF=~z~It gets around.
+0x88B848FF=~z~【这到处都是。】
+
+;0x88BEA88C=010
+0x88BEA88C=010
+
+;0x8A6FBE33=GCKK_ACT_CAR_SAME_BAD
+0x8A6FBE33=GCKK_ACT_CAR_SAME_BAD
+
+;0x8A84890B=~z~It's hard for me to concentrate on eating when I'm with you, Niko.
+0x8A84890B=~z~和你在一起的时候，我的注意力都不在吃的上面，Niko。
+
+;0x8BB24C9F=~z~I bet you can run fast in those new shoes.
+0x8BB24C9F=~z~我敢肯定这双新鞋能让你跑得更快。
+
+;0x8BCC98FB=GCKK_ACT_CAR_BAD
+0x8BCC98FB=GCKK_ACT_CAR_BAD
+
+;0x8C7BC092=100
+0x8C7BC092=100
+
+;0x8CF3CF76=100
+0x8CF3CF76=100
+
+;0x8D53C225=100
+0x8D53C225=100
+
+;0x8E0E408F=~z~I miss your old hat, Niko.
+0x8E0E408F=~z~我想你以前的那顶帽子了，Niko。
+
+;0x8E2698A1=GCKK_ACT_ARRIVE_BOWL_NOT
+0x8E2698A1=GCKK_ACT_ARRIVE_BOWL_NOT
+
+;0x900849D3=~z~Niko. Let's go enjoy ourselves.
+0x900849D3=~z~Niko，我们去享受欢乐时光吧。
+
+;0x911FD995=~z~Pool, again? You'd think I'd get better at it.
+0x911FD995=~z~又是台球？你认为我的技术变好了是吧。
+
+;0x91AD9EB0=~z~Niko, your car. You really must be struggling.
+0x91AD9EB0=~z~Niko，你这车啊真是，你的生活一定很困难吧。
+
+;0x92A6A27F=~z~Bowling again, are you hoping to bump into one of your other whores here?
+0x92A6A27F=~z~又是保龄球，你想在这找其他婊子吗？
+
+;0x92A7A10D=100
+0x92A7A10D=100
+
+;0x933361E5=~z~It's so nice to just walk and not worry about cars and stuff.
+0x933361E5=~z~走路就好了，不用想去开什么车。
+
+;0x93DBBAFC=100
+0x93DBBAFC=100
+
+;0x93F19205=010
+0x93F19205=010
+
+;0x9494D0F4=100
+0x9494D0F4=100
+
+;0x94A127D6=GCKK_ACT_ARRIVE_BOWL_LAST
+0x94A127D6=GCKK_ACT_ARRIVE_BOWL_LAST
+
+;0x9578DA14=~z~I like the new hat.
+0x9578DA14=~z~我喜欢这顶新帽子。
+
+;0x959B73B3=~z~Please don't dress up on my account, Niko.
+0x959B73B3=~z~别为了我这么打扮自己，Niko。
+
+;0x96B6B415=~z~Oh, I miss your old car, Niko.
+0x96B6B415=~z~噢，我想你的旧车了，Niko。
+
+;0x973DE6D7=~z~Umm, Niko. Why're you late? You haven't been seeing anyone else have you? Let's go.
+0x973DE6D7=~z~嗯，Niko，你为什么迟到了？你没去见其他女人吧?走吧。
+
+;0x97EBF568=GCKK_ACT_PKI_SAME_BAD
+0x97EBF568=GCKK_ACT_PKI_SAME_BAD
+
+;0x98E416E9=100
+0x98E416E9=100
+
+;0x9A9DCC79=~z~This car just oozes sex, Niko. Maybe that's because you own it.
+0x9A9DCC79=~z~这车散发着性感的气息，Niko，也许是因为这车是你的。
+;0x9ADA6C8E=100
+0x9ADA6C8E=100
+
+;0x9ADFBC6F=~z~I hope you're not trying to impress one of your other whores with this new car. It doesn't impress me.
+0x9ADFBC6F=~z~我希望你不是为了向你的其他婊子炫耀而开的这辆车，它根本就没惊艳到我。
+
+;0x9C1FF8CB=100
+0x9C1FF8CB=100
+
+;0x9C344B76=100
+0x9C344B76=100
+
+;0x9C404930=GCKK_ACT_INTRO
+0x9C404930=GCKK_ACT_INTRO
+
+;0x9D5D8940=~z~Don't hide your eyes behind those glasses, Niko. They're beautiful.
+0x9D5D8940=~z~你的眼睛很好看，Niko，所以别带这种眼镜了。
+
+;0xA12646C0=100
+0xA12646C0=100
+
+;0xA1CA1972=100
+0xA1CA1972=100
+
+;0xA43AF798=~z~That hat's good.
+0xA43AF798=~z~帽子很棒。
+
+;0xA4FD6859=~z~Your eyes are beautiful. I'm so pleased you're not wearing those glasses.
+0xA4FD6859=~z~你的眼睛真的很好看，我求你别再带这种眼镜了。
+
+;0xA566F417=GCKK_ACT_ARRIVE_SHOW_LATE
+0xA566F417=GCKK_ACT_ARRIVE_SHOW_LATE
+
+;0xA6E5AC24=100
+0xA6E5AC24=100
+
+;0xA71F690F=100
+0xA71F690F=100
+
+;0xA7BB213D=GCKK_ACT_PKI_NOHAT_BAD
+0xA7BB213D=GCKK_ACT_PKI_NOHAT_BAD
+
+;0xA7D826F6=GCKK_ACT_PKI_CAR_BIKE
+0xA7D826F6=GCKK_ACT_PKI_CAR_BIKE
+
+;0xA8461674=GCKK_ACT_ARRIVE_POOL_BEFORE
+0xA8461674=GCKK_ACT_ARRIVE_POOL_BEFORE
+
+;0xA86F5786=~z~What happened to your old car, Niko?
+0xA86F5786=~z~你以前那辆车呢，Niko？
+
+;0xA8F45281=~z~This place is so cute. I'm only going to have a couple of drinks though.
+0xA8F45281=~z~这地方真不错，虽然我只想喝两杯完事。
+
+;0xAA0D7E47=~z~Maybe your new hat will grow on me, we'll see.
+0xAA0D7E47=~z~也许有一天我会带上你的帽子，看着吧。
+
+;0xAA80BA95=~z~Okay, Niko. Let's play darts.
+0xAA80BA95=~z~好吧，Niko，玩飞镖咯。
+
+;0xAA9E8D98=~z~Hey. I don't want to sound like a whining girlfriend or anything but please don't make me wait for you. Let's go on our date.
+0xAA9E8D98=~z~嘿，我不想当一个啰嗦的老妈妈，但是我也求你别再迟到了。我们走吧。
+
+;0xAC458640=100
+0xAC458640=100
+
+;0xAE440F90=GCKK_ACT_PKI_CLOTHES_GOOD
+0xAE440F90=GCKK_ACT_PKI_CLOTHES_GOOD
+
+;0xB0493C63=010
+0xB0493C63=010
+
+;0xB094734D=~z~I'd really like to experience your culture with you, Niko. Let's go.
+0xB094734D=~z~我真的想体验你们那边的文化，Niko，我们走吧。
+
+;0xB15CF617=100
+0xB15CF617=100
+
+;0xB21BFEEF=GCKK_ACT_PKI_INTRO
+0xB21BFEEF=GCKK_ACT_PKI_INTRO
+
+;0xB23D9D8B=100
+0xB23D9D8B=100
+
+;0xB2F94AEE=100
+0xB2F94AEE=100
+
+;0xB366C85D=GCKK_ACT_CAR_GOOD
+0xB366C85D=GCKK_ACT_CAR_GOOD
+
+;0xB37971CC=~z~You look so cute when you're playing pool, Niko.
+0xB37971CC=~z~你打台球的样子真的很靓仔，Niko。
+
+;0xB3BCD76D=~z~Niko, you sweetie. You know I like to be driven in cars like this.
+0xB3BCD76D=~z~Niko，小可爱，你知道我喜欢坐这样的车。
+
+;0xB47E12A4=GCKK_ACT_PKI_TORSO_BAD
+0xB47E12A4=GCKK_ACT_PKI_TORSO_BAD
+
+;0xB511DA90=GCKK_ACT_PKI_LEGS_BAD
+0xB511DA90=GCKK_ACT_PKI_LEGS_BAD
+
+;0xB53935D6=GCKK_ACT_ARRIVEC_NOTLATE
+0xB53935D6=GCKK_ACT_ARRIVEC_NOTLATE
+
+;0xB5CA33A4=010
+0xB5CA33A4=010
+
+;0xB8392053=GCKK_ACT_ARRIVE_SHOW_CABARET
+0xB8392053=GCKK_ACT_ARRIVE_SHOW_CABARET
+
+;0xB83EE47F=~z~This is nice, Niko. But anywhere'd be nice with you.
+0xB83EE47F=~z~这地方不错，虽然只要有你什么地方都挺好。
+
+;0xB86059E1=~z~Okay, Niko. I'm really into bowling. That's only if you are though...
+0xB86059E1=~z~好吧，Niko。我真的喜欢打保龄球，只有和你...
+
+;0xB99BF1A1=~z~Hey, I like what you're wearing.
+0xB99BF1A1=~z~你穿这身我很喜欢。
+
+;0xBA18057C=100
+0xBA18057C=100
+
+;0xBAA9F5EC=~z~Oh, drinking? I really shouldn't...
+0xBAA9F5EC=~z~噢，喝酒？我觉得我就不该...
+
+;0xBBA37DEE=~z~It's a shame you don't have that old car anymore.
+0xBBA37DEE=~z~你以前那辆车没了，真是可惜。
+
+;0xBE149DC3=GCKK_ACT_PKI_CLOTHES_OKAY
+0xBE149DC3=GCKK_ACT_PKI_CLOTHES_OKAY
+
+;0xBFA8EC3F=GCKK_ACT_PKI_GLASSHAT_GOOD
+0xBFA8EC3F=GCKK_ACT_PKI_GLASSHAT_GOOD
+
+;0xBFD0E535=~z~Sure, let's play darts. If you enjoy it, that is.
+0xBFD0E535=~z~好，玩飞镖，你喜欢就好。
+
+;0xBFD6FFD4=100
+0xBFD6FFD4=100
+
+;0xC1FEFE47=~z~Oh, cool car.
+0xC1FEFE47=~z~噢，好车。
+
+;0xC3BF9EBC=~z~Same old trusty vehicle. Nice.
+0xC3BF9EBC=~z~还是这辆可靠的车，好哇。
+
+;0xC4F4455A=~z~Where's your car, Niko?
+0xC4F4455A=~z~你车呢，Niko?
+
+;0xC5269F9C=~z~That top's nice.
+0xC5269F9C=~z~那件上衣不错。
+
+;0xC763E8C9=100
+0xC763E8C9=100
+
+;0xCA7F84FA=~z~This car's nice.
+0xCA7F84FA=~z~这车挺好。
+
+;0xCA88A438=010
+0xCA88A438=010
+
+;0xCAA71308=100
+0xCAA71308=100
+
+;0xD00F6100=GCKK_ACT_ARRIVE_DARTS_BEFORE
+0xD00F6100=GCKK_ACT_ARRIVE_DARTS_BEFORE
+
+;0xD0DB2016=100
+0xD0DB2016=100
+
+;0xD121D771=GCKK_ACT_PKI_GLASSHAT_BAD
+0xD121D771=GCKK_ACT_PKI_GLASSHAT_BAD
+
+;0xD1633A03=~z~This old car. I really like it.
+0xD1633A03=~z~又是这辆车，我真的喜欢它。
+
+;0xD28F30C8=~z~Oh, you're not wearing the glasses. That's a shame.
+0xD28F30C8=~z~哦，你没戴眼镜，真是可惜。
+
+;0xD44EF179=GCKK_ACT_CLOTHES_OKAY
+0xD44EF179=GCKK_ACT_CLOTHES_OKAY
+
+;0xD4886BC1=~z~Oh, darts again. Not what I'd normally do but if you're into it...
+0xD4886BC1=~z~哦，又是飞镖，我不经常玩，但是如果你喜欢...
+
+;0xD4B03355=~z~All my ex-boyfriends love this guy, Niko. Come on.
+0xD4B03355=~z~我所有的前男友都喜欢这个，Niko。走吧。
+
+;0xD7A0FC1F=100
+0xD7A0FC1F=100
+
+;0xD80F94F1=~z~Ok, Niko, I'm a busy woman, I haven't got time to be screwing around like this. Can you take me home?
+0xD80F94F1=~z~好吧，Niko，我是个很忙的女人，我没时间陪你乱转，载我回家可以吗？
+
+;0xD8142C8C=~z~I guess so.
+0xD8142C8C=~z~我想也是。
+
+;0xD9307361=100
+0xD9307361=100
+
+;0xDCA9AE1B=GCKK_ACT_PKI_LEGS_GOOD
+0xDCA9AE1B=GCKK_ACT_PKI_LEGS_GOOD
+
+;0xDD30836B=~z~What a good idea, Niko. I sometimes get emotional when I drink so stop me from having too much.
+0xDD30836B=~z~真是个好地方，Niko。有时候我喝酒喝多了会有些情绪化，所以别让我喝太多。
+
+;0xDDF29FA2=GCKK_ACT_PKI_CAR_OKAY
+0xDDF29FA2=GCKK_ACT_PKI_CAR_OKAY
+
+;0xDEC9D07C=100
+0xDEC9D07C=100
+
+;0xDF174823=~z~Katt Williams really tells it like it is. I'm so pleased you brought me here, Niko.
+0xDF174823=~z~Katt Williams说得挺好的，谢谢你带我来这，Niko。
+
+;0xE04557C7=~z~We've got some memories of this car, don't we?
+0xE04557C7=~z~这辆车承载了我们之间的记忆，不是吗？
+
+;0xE35219E8=100
+0xE35219E8=100
+
+;0xE354F3F5=GCKK_ACT_PKI_NOGLASS_BAD
+0xE354F3F5=GCKK_ACT_PKI_NOGLASS_BAD
+
+;0xE3D4B5E6=100
+0xE3D4B5E6=100
+
+;0xE6AA401D=GCKK_ACT_CAR_BIKE
+0xE6AA401D=GCKK_ACT_CAR_BIKE
+
+;0xE6D7F77D=~z~Hey, let's go have some fun.
+0xE6D7F77D=~z~嘿，我们去找点乐子。
+
+;0xE8418663=GCKK_ACT_PKI_CAR_NONE_
+0xE8418663=GCKK_ACT_PKI_CAR_NONE_
+
+;0xE9288824=GCKK_ACT_ARRIVE_POOL_LAST
+0xE9288824=GCKK_ACT_ARRIVE_POOL_LAST
+
+;0xEA5BDF90=~z~We're playing pool again, Niko? If that makes you happy.
+0xEA5BDF90=~z~又是台球，Niko？你开心就好。
+
+;0xECAB0863=010
+0xECAB0863=010
+
+;0xECB2D359=~z~Thanks for getting rid of that hat, Niko. You really do care about what I think.
+0xECB2D359=~z~谢谢你为我拿掉那顶帽子，Niko，你真的很在乎我。
+
+;0xEE0FF35C=~z~You love this old car, don't you Niko?
+0xEE0FF35C=~z~你喜欢你的这辆车，不是吗Niko？
+
+;0xEE1BD1B3=010
+0xEE1BD1B3=010
+
+;0xEEDD26C4=~z~Okay, this is nice. Stop me from drinking too much, okay?
+0xEEDD26C4=~z~好，很好。别让我喝太多，好吗？
+
+;0xEEDF95D6=GCKK_ACT_ARRIVE_PUB_FAVOURITE
+0xEEDF95D6=GCKK_ACT_ARRIVE_PUB_FAVOURITE
+
+;0xEF9539DE=GCKK_ACT_ARRIVEF_NOTLATE
+0xEF9539DE=GCKK_ACT_ARRIVEF_NOTLATE
+
+;0xF0DDB50E=GCKK_ACT_ARRIVE_POOL_NOT
+0xF0DDB50E=GCKK_ACT_ARRIVE_POOL_NOT
+
+;0xF108DFA2=~z~Sorry Niko, but I don't like your car. Does that make me a bad person?
+0xF108DFA2=~z~对不起，Niko，但是我真的不喜欢你的车，它会让我看起来像个坏女人吗？
+
+;0xF12F9BF2=~z~Niko, why're you wearing that stuff? Are you having financial problems?
+0xF12F9BF2=~z~Niko，你咋穿这身玩意儿，你经济上有困难吗？
+
+;0xF329593E=GCKK_ACT_PKI_TORSO_GOOD
+0xF329593E=GCKK_ACT_PKI_TORSO_GOOD
+
+;0xF3DA5A3E=100
+0xF3DA5A3E=100
+
+;0xF446C3CA=~z~This is an expensive car, Niko.
+0xF446C3CA=~z~这车一看就很贵，Niko。
+
+;0xF5D78DE3=GCKK_ACT_ARRIVE_DARTS_LAST
+0xF5D78DE3=GCKK_ACT_ARRIVE_DARTS_LAST
+
+;0xF6892764=GCKK_ACT_ARRIVE_HIGHEND
+0xF6892764=GCKK_ACT_ARRIVE_HIGHEND
+
+;0xF8970EED=~z~Those are nice glasses, Niko.
+0xF8970EED=~z~这眼镜不错，Niko。
+
+;0xF8C34C6F=GCKK_ACT_PKI_CAR_BAD
+0xF8C34C6F=GCKK_ACT_PKI_CAR_BAD
+
+;0xF9D05BBD=GCKK_ACT_CAR_NONE
+0xF9D05BBD=GCKK_ACT_CAR_NONE
+
+;0xFA79EEE7=~z~It's so sweet of you to get rid of that hat. You knew I didn't like it.
+0xFA79EEE7=~z~你能拿掉那顶帽子真是让我太开心，你知道我不喜欢它。
+
+;0xFEC5BDA6=100
+0xFEC5BDA6=100
+

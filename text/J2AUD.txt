@@ -1,0 +1,250 @@
+﻿[J2AUD]
+;0x02237510=~z~Hand something up the ladder. That's how us Italians been doin' things for centuries.
+0x02237510=~z~给自己的上级纳贡。我们意大利人几百年的规矩了。
+
+;0x046BDF93=~z~First up - can you kill this shithead?
+0x046BDF93=~z~首先，你能把这个弱智杀了吗？
+
+;0x06437F26=~z~Listen, some of their boys are in town today, gonna collect their piece of an Alderney bookie ring.
+0x06437F26=~z~听好了，他们家族的人今天在城里，准备去收Alderney一家赌庄的分成。
+
+;0x07E10035=~z~I lost the guy. I couldn't find the deal.
+0x07E10035=~z~我跟丢了。没找到交易地点。
+
+;0x08E55AF8=~z~Tell me this job ain't as crazy as when you and me hit that bank together.
+0x08E55AF8=~z~告诉我，这活不会跟之前我们抢银行那件那么疯狂。
+
+;0x093B907F=J2_IF
+0x093B907F=J2_IF
+
+;0x0B087E1F=J2_EC
+0x0B087E1F=J2_EC
+
+;0x0B5940FD=~z~When you marry a dragon, you gotta expect a few knights are gonna turn up to try to slay him.
+0x0B5940FD=~z~你要是嫁给了恶龙，就会担心有一些勇士出来试图把他杀了。
+
+;0x10661195=~z~Maybe you'll give me a little taste then.
+0x10661195=~z~要么分点给我尝尝味道吧。
+
+;0x13187CEC=~z~Sure.
+0x13187CEC=~z~可以啊。
+
+;0x1972A358=~z~You'll lose your balls if you make a habit of fucking up like this. Come see me soon.
+0x1972A358=~z~你丫在像这次一样搞砸，你的蛋就别想要了。过会儿来找我。
+
+;0x1A7F0ABC=J2_CG
+0x1A7F0ABC=J2_CG
+
+;0x1AECFF07=~z~You mean when Michael died? I couldn't possibly be having that much fun.
+0x1AECFF07=~z~你说Michael死的时候？我当时可没有那么「开心」。
+
+;0x1CDE82EA=~z~Hey, I'm offended. You're havin' fun without me.
+0x1CDE82EA=~z~嘿，我感觉自己被冒犯了。你享乐为什么不带上我。
+
+;0x1DADE5A6=~z~Does that worry you?
+0x1DADE5A6=~z~让你很担心吗？
+
+;0x1E4C9AB5=~z~Hey!
+0x1E4C9AB5=~z~喂！
+
+;0x2118B2FA=~z~Alright.
+0x2118B2FA=~z~有吧。
+
+;0x21D7364D=~z~You disrupt it, and I'll let you keep the money, but make sure you hit the Pavanos real hard! Capiche?
+0x21D7364D=~z~你去干烂他们，钱你自己留着。但你得给我重创Pavano家族！懂？
+
+;0x26FBBBF1=J2_EB
+0x26FBBBF1=J2_EB
+
+;0x2AD44F30=J2_IB
+0x2AD44F30=J2_IB
+
+;0x2C141DE2=J2_DA
+0x2C141DE2=J2_DA
+
+;0x2C8EB739=~z~Is Mr. Pegorino around?
+0x2C8EB739=~z~Pegorino先生在里面吗？
+
+;0x38F35002=~z~Uh, uh... sure, I'll get him.
+0x38F35002=~z~呃，呃...在，在，我去叫他。
+
+;0x396DC996=~z~Nice to see you, Niko.
+0x396DC996=~z~见到你真好，Niko。
+
+;0x3C886BAF=~z~Word is they're at the Diner in Acter. Find 'em, and follow them to the meet.
+0x3C886BAF=~z~他们现在在Acter的餐厅里。找到他们，尾随他们到碰头地点。
+
+;0x3F3FEF48=~z~Was there a nice little haul in it for you?
+0x3F3FEF48=~z~里面有你那份赃款吗？
+
+;0x40044935=~z~Niko, I know you're probably occupied and don't wanna hang out but I thought I'd try. I'm bored.
+0x40044935=~z~Niko我知道你现在很忙而且不愿意和我出去玩，但我现在真的太他妈无聊了。
+
+;0x46FC7600=010100100010100100010
+0x46FC7600=010100100010100100010
+
+;0x48B06F7C=~z~Boss!
+0x48B06F7C=~z~老大！
+
+;0x4D678B9B=~z~Well done, my boy. I hope you made 'em suffer. Teach 'em that Alderney is Pegorino turf.
+0x4D678B9B=~z~干得不错，孩子。希望你让他们吃了苦头。让他们知道Alderney是我Pegorino的地盘！
+
+;0x515DA7B3=J2_BC
+0x515DA7B3=J2_BC
+
+;0x55D387B8=J2_CC
+0x55D387B8=J2_CC
+
+;0x599DA407=~z~I got that stuff, Jimmy.
+0x599DA407=~z~东西到手了，Jimmy。
+
+;0x5CD6971E=J2_CB
+0x5CD6971E=J2_CB
+
+;0x659CF5AF=~z~Hey.
+0x659CF5AF=~z~嘿。
+
+;0x71D441F9=J2_CA
+0x71D441F9=J2_CA
+
+;0x7594B20A=J2_DB
+0x7594B20A=J2_DB
+
+;0x76136B3D=J2_IA
+0x76136B3D=J2_IA
+
+;0x799D9D84=~z~-Nice talking with you.~n~-Whatever.
+0x799D9D84=~z~－和你交谈我很高兴。~n~－哦。
+
+;0x79A6C145=290290290
+0x79A6C145=290290290
+
+;0x7DA7D976=~z~Hey.
+0x7DA7D976=~z~嘿。
+
+;0x8859106F=~z~Too bad, my boy. Doesn't look like there's much in it for you then.
+0x8859106F=~z~不好啊，孩子。看起来没有你的份了。
+
+;0x89F93E3B=~z~Jackasses, all of them, all of you.
+0x89F93E3B=~z~一群混蛋，全这样，没一个好人！
+
+;0x8F0BEE50=J2_CF
+0x8F0BEE50=J2_CF
+
+;0x91AB69A0=100010100100010010
+0x91AB69A0=100010100100010010
+
+;0x9260F5DA=J2_CE
+0x9260F5DA=J2_CE
+
+;0x9475FB64=J2_CD
+0x9475FB64=J2_CD
+
+;0x94F3808C=~z~So, listen... we gotta bit of a problem with the Pavanos.
+0x94F3808C=~z~所以，听好了。我们和Pavano家族有点麻烦。
+
+;0x9A2D7D8A=~z~Shit, Packie. I'm kind of busy chasing down some wiseguys for those guido buddies of yours.
+0x9A2D7D8A=~z~操，Packie。我现在很忙。我在为你老大开车追一些黑手党成员。
+
+;0x9A89B36A=J2_BA
+0x9A89B36A=J2_BA
+
+;0x9C34DAE1=~z~I think that guy works for the Pegorinos.
+0x9C34DAE1=~z~那个人好像是Pegorino家族派的。
+
+;0x9D41292B=J2_IE
+0x9D41292B=J2_IE
+
+;0x9F16AE9E=~z~Fucking slippery wop bastards.
+0x9F16AE9E=~z~狡猾的意大利狗杂种。
+
+;0x9F1B3DF3=~z~I didn't have no time.
+0x9F1B3DF3=~z~我没时间了。
+
+;0xA0E01879=~z~Second... come in here.
+0xA0E01879=~z~然后...过来。
+
+;0xA6B42421=~z~Ahh, fuck.
+0xA6B42421=~z~啊，妈的。
+
+;0xAC46AF32=~z~Yes, I noticed that at your meeting with them.
+0xAC46AF32=~z~是，在你和他们见面的时候我注意到了。
+
+;0xAEE30812=~z~Feds, I think... they always drive past at this time.
+0xAEE30812=~z~FIB吧...他们这个点经常开车路过。
+
+;0xB466AD37=010100
+0xB466AD37=010100
+
+;0xBA994BD7=~z~The way they look at us, we're bottom feeders! Always have been.
+0xBA994BD7=~z~他们纯粹就是把我们家族当作蛀虫！一直都是这样。
+
+;0xBBC36A23=~z~We ain't a real family to them - just a bunch of Guernsey goombas.
+0xBBC36A23=~z~他们就没把我们当真正的家族，只把我们看作Guernsey州*的小老弟。~n~(注：初代GTA的背景城市)
+
+;0xBE2BF90D=J2_IC
+0xBE2BF90D=J2_IC
+
+;0xC110AC6D=~z~Uh... who you waving at?
+0xC110AC6D=~z~呃...你在跟谁打招呼？
+
+;0xC8A8EF77=~z~Anthony - will you shut up? In fact, will you fuck off?
+0xC8A8EF77=~z~Anthony！你他妈能闭嘴吗？直白点，你能滚了吗？
+
+;0xCA7A8795=~z~When things are cool, we're getting fucked.
+0xCA7A8795=~z~利用完我们，就把我们干了。
+
+;0xD0DD944F=~z~Thank you...
+0xD0DD944F=~z~谢谢...
+
+;0xD5932A74=J2_BB
+0xD5932A74=J2_BB
+
+;0xD6E68BF2=~z~Go on, get outta here.
+0xD6E68BF2=~z~好了，你可以滚了。
+
+;0xD72420E8=~z~I'm sorry to hear that.
+0xD72420E8=~z~对此我深表同情。
+
+;0xD7419F4D=~z~Good thing I'm not Italian.
+0xD7419F4D=~z~幸好我不是意大利人。
+
+;0xDA515719=~z~God, they must be desperate.
+0xDA515719=~z~天，他们现在肯定气急败坏。
+
+;0xDB2B3ED2=010100100
+0xDB2B3ED2=010100100
+
+;0xDBD62243=J2_EA
+0xDBD62243=J2_EA
+
+;0xE09C17F4=~z~You too.
+0xE09C17F4=~z~我也是。
+
+;0xE33768E5=~z~Let's lose him on the way to the meet.
+0xE33768E5=~z~去碰头前先把他给甩了。
+
+;0xE3F9A618=~z~Don't come back 'til you get a brain implant, or something.
+0xE3F9A618=~z~没安上脑子前就别回来了，弱智。
+
+;0xE52A9383=~z~I'll talk to you later, Packie.
+0xE52A9383=~z~待会再说，Packie。
+
+;0xE6827750=~z~You have fun. Pick a swell guy to kill - hopefully someone with a young family who'll really miss him...
+0xE6827750=~z~你高兴就好。看上哪个上流人士就杀了吧，他死了家里人多半会很想他的...
+
+;0xEB4CC92D=~z~Yeah, capiche.
+0xEB4CC92D=~z~好的，懂了。
+
+;0xEDBDB237=~z~I got a couple of things I want to talk to you about.
+0xEDBDB237=~z~我有些事想和你说。
+
+;0xEEF5508A=~z~Ahh, sure.
+0xEEF5508A=~z~呃，当然了。
+
+;0xF24442AD=~z~I'm sorry... I... I'm so...
+0xF24442AD=~z~对不起...我...我太...
+
+;0xFD2E7AD5=J2_ID
+0xFD2E7AD5=J2_ID
+

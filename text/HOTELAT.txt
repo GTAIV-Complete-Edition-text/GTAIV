@@ -1,0 +1,42 @@
+﻿[HOTELAT]
+;0x04DE6070=~s~Press ~PAD_Y~ to enter the lift.
+0x04DE6070=~s~按~PAD_Y~进入电梯。
+
+;0x13D86F24=~s~You need to find a way to get to the penthouse suite.
+0x13D86F24=~s~你需要设法前往顶层套房。
+
+;0x23981DE7=~s~Get clear of the hotel.
+0x23981DE7=~s~离开酒店。
+
+;0x5B980DE2=~s~Find your way to the ~y~penthouse.
+0x5B980DE2=~s~设法到达~y~顶层套房。
+
+;0x62AF0FE4=~s~Find a way to the penthouse suite and eliminate ~r~Isaac and the diamond dealers.
+0x62AF0FE4=~s~设法到达顶层套房，干掉~r~Isaac等钻石商人。
+
+;0x662C14AE=~s~Escape from the hotel.
+0x662C14AE=~s~逃离酒店。
+
+;0x695EA96F=~s~Wipe out the ~r~diamond dealers.
+0x695EA96F=~s~干掉所有~r~钻石商人。
+
+;0x8BDE6242=~s~Lose your wanted level.
+0x8BDE6242=~s~降低你的通缉度。
+
+;0xC3A94FA7=~s~You can use the ~y~lift panel~s~ to call the lift.
+0xC3A94FA7=~s~你可以使用~y~控制面板~s~呼叫电梯。
+
+;0xCC7A6FA5=~s~Press ~INPUT_PICKUP~ to call the elevator.
+0xCC7A6FA5=~s~按~INPUT_PICKUP~呼叫电梯。
+
+;0xE28C8F9D=~s~There are various routes to the penthouse.
+0xE28C8F9D=~s~有多种路线可以到达顶层公寓。
+
+;0xF0592B36=~s~Isaac and the diamond dealers are protected by armed bodyguards.
+0xF0592B36=~s~Isaac等钻石商人受到了武装保镖的保护。
+
+;0xF4863164=~s~Go to the ~y~Majestic Hotel.
+0xF4863164=~s~前往~y~Majestic酒店。
+
+;0xF724C4FD=~s~Go to the ~y~Majestic.
+0xF724C4FD=~s~前往~y~Majestic酒店。

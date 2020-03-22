@@ -1,0 +1,700 @@
+﻿;注：
+;1、没翻的都是Beta文本 无视即可
+;2、翻译： LCPD爱拉登       初校及微调：sheenthing
+
+[FM3AUD]
+;0x02C5A0FD=~z~I've always been a good boy, you know me, Ma.
+0x02C5A0FD=~z~我向来都是个好孩子。你是懂我的，妈。
+
+;0x02DF1B75=~z~You in some real shit now!
+0x02DF1B75=~z~你丫摊上大事了！
+
+;0x042F60C3=~z~This really ain't the place for you, tough guy.
+0x042F60C3=~z~这里不是你该来的地方，刺头。
+
+;0x04559A41=~z~Yeah you. Remember, you're doing a real service for the community by getting rid of this scumbag.
+0x04559A41=~z~对，你。记住，你除掉这个小人就是为社会做巨大贡献。
+
+
+;0x05B4C010=~z~And maybe good men will get taken down by that evidence.
+0x05B4C010=~z~而且可能还会有好人因为那份证据被干掉。
+
+;0x075CAA67=~z~You know why?
+0x075CAA67=~z~知道为什么这么说吗？
+
+;0x07A1A589=FM3_NA
+0x07A1A589=FM3_NA
+
+;0x07BA1703=801
+0x07BA1703=801
+
+;0x08155BE8=~z~Clarence told me to dead any fool who don't belong in here.
+0x08155BE8=~z~Clarence跟我说过，干死任何不是这儿人的傻逼。
+
+;0x095C983A=~z~Yo, it's that rat cop McReary. Ain't it?
+0x095C983A=~z~哟，就那个骗子警察McReary，对不对？
+
+;0x0BB2637B=FM3_PC
+0x0BB2637B=FM3_PC
+
+;0x0C426EBA=300
+0x0C426EBA=300
+
+;0x0C554E31=~z~Of course.
+0x0C554E31=~z~肯定的。
+
+;0x0D37B1BD=~z~Yo, you better bounce.
+0x0D37B1BD=~z~哟，你最好走人。
+
+;0x0DC1BB86=100
+0x0DC1BB86=100
+
+;0x1003A650=~z~Enjoy this, bitch.
+0x1003A650=~z~好好享受吧，贱人。
+
+;0x10992C2B=FM3_UA
+0x10992C2B=FM3_UA
+
+;0x1125A788=FM3_RA
+0x1125A788=FM3_RA
+
+;0x1362F51E=FM3_LH
+0x1362F51E=FM3_LH
+
+;0x13B8DDF8=~z~Sure... and the moon is made of cheese and the streets is paved with gold.
+0x13B8DDF8=~z~当然了...月亮是奶酪做的，路上遍地黄金。
+
+;0x149B0171=~z~Going up there would be a dumb play. I'm telling you that.
+0x149B0171=~z~往上走纯属找死，话我就撂这儿了。
+
+;0x1521BFFA=~z~You 'bout to get banged dude!
+0x1521BFFA=~z~你丫等着被射爆吧，兄弟！
+
+;0x1570C580=~z~You're a real fuck up.
+0x1570C580=~z~你丫就是个废物。
+
+;0x165C74E4=FM3_BA
+0x165C74E4=FM3_BA
+
+;0x16943EBE=~z~Francis McReary is the community now?
+0x16943EBE=~z~现在Francis McReary成了社会代言人了？
+
+;0x16AB62DD=~z~Some drug dealer is holed up in a tower block in East Holland.
+0x16AB62DD=~z~某个毒贩藏在East Holland的公寓楼里。
+
+;0x182D7DD1=FM3_PD
+0x182D7DD1=FM3_PD
+
+;0x1862656B=~z~Maybe people make mistakes.
+0x1862656B=~z~犯错可能是人之常情。
+
+;0x1B6D3C5B=~z~Yo, yo, yo. Man, you got me, chill.
+0x1B6D3C5B=~z~哟哟哟，老兄，你赢了，放松。
+
+;0x1BAB701D=~z~Five G's...
+0x1BAB701D=~z~五千...
+
+;0x1FA27D72=FM3_AC
+0x1FA27D72=FM3_AC
+
+;0x201CC5BA=~z~This isn't my choice, the police want you dead.
+0x201CC5BA=~z~这不是我的选择，那个警察要你死。
+
+;0x20B4AD1F=010100100010
+0x20B4AD1F=010100100010
+
+;0x20CB8254=FM3_AA
+0x20CB8254=FM3_AA
+
+;0x20F2786B=~z~Wake up.
+0x20F2786B=~z~别做梦了。
+
+;0x213C771B=~z~How much?
+0x213C771B=~z~多少？
+
+;0x228F3092=SFX_PAUSE_500
+0x228F3092=SFX_PAUSE_500
+
+;0x22F3E9D5=FM3_AI
+0x22F3E9D5=FM3_AI
+
+;0x231161D0=~z~-Good to see you.~n~-I'm sure.
+0x231161D0=~z~－很高兴见到你。~n~－当然了。
+
+;0x2507A24E=~z~Upstairs for residents only. I know your white ass don't live in this shit.
+0x2507A24E=~z~只有住户能上楼，我知道你个白佬不住这儿。
+
+;0x254A43B8=010100100100
+0x254A43B8=010100100100
+
+;0x26E0DF57=~z~Try to get off the ground floor before getting violent.
+0x26E0DF57=~z~引起冲突前最好能先上到二楼。
+
+
+;0x27486A02=~z~No. I don't care about Packie... listen, Ma, I've got to go.
+0x27486A02=~z~不行。我才不管Packie会怎样...听着，妈，我得挂了。
+
+;0x27D0A7DC=~z~Shit, I wouldn't recommend going up there. It ain't gonna end well for you.
+0x27D0A7DC=~z~靠，我不建议你上楼，你下场会很惨的。
+
+;0x29DD9834=400
+0x29DD9834=400
+
+;0x3057F245=~z~Violent... me?
+0x3057F245=~z~冲突...我？
+
+;0x31446EA1=FM3_TA
+0x31446EA1=FM3_TA
+
+;0x3282973A=FM3_AB
+0x3282973A=FM3_AB
+
+;0x331A1ADA=~z~Two?
+0x331A1ADA=~z~两千？
+
+;0x34899EB7=FM3_QD
+0x34899EB7=FM3_QD
+
+;0x35701EA6=200
+0x35701EA6=200
+
+;0x38336BBE=FM3_VA
+0x38336BBE=FM3_VA
+
+;0x38F7CA2A=~z~Only thing you'll find up there is a bunch a people who wanna kick your ass.
+0x38F7CA2A=~z~你在这儿唯一能找到的就是一帮想踹你屁股的人。
+
+;0x3957E190=FM3_LJ
+0x3957E190=FM3_LJ
+
+;0x39B20832=FM3_AI
+0x39B20832=FM3_AI
+
+;0x3AE2026E=~z~Clarence gonna be real pissed that you started this.
+0x3AE2026E=~z~你来这出Clarence会很生气的。
+
+;0x3B75087F=~z~The guys you see are gonna be working for that scumbag in one way or another.
+0x3B75087F=~z~你见到的人基本都是替那个小人卖命的。
+
+;0x3B7D0E47=~z~You might wanna go home...
+0x3B7D0E47=~z~你还是回家吧...
+
+;0x3BB36315=FM3_OA
+0x3BB36315=FM3_OA
+
+;0x3D086BA6=FM3_AC
+0x3D086BA6=FM3_AC
+
+;0x3F2049FD=~z~You come to the wrong project, fool. And you gonna pay for it.
+0x3F2049FD=~z~你来错社区了，傻逼。你会为此付出代价。
+
+;0x40791BF0=~z~This guy is probably out dealing to them.
+0x40791BF0=~z~这人可能要向他们贩毒了。
+
+;0x40D916DF=FM3_ND
+0x40D916DF=FM3_ND
+
+;0x42460A2C=~z~Come on, boss.
+0x42460A2C=~z~求你了，大哥。
+
+;0x45185B15=FM3_EA
+0x45185B15=FM3_EA
+
+;0x468EC1C3=~z~Good money.
+0x468EC1C3=~z~很多钱。
+
+;0x4CF28E08=801
+0x4CF28E08=801
+
+;0x4D179073=500500050
+0x4D179073=500500050
+
+;0x4DADACF0=~z~Anyway, these projects all got the same layout, a staircase leading up on either side.
+0x4DADACF0=~z~总之，这些公屋的设计都差不多，两边各一个楼梯。
+
+;0x4DD0834E=~z~The streets are a little bit cleaner now he's gone. One percent - it's all we can hope for.
+0x4DD0834E=~z~他死了，街道就又干净了一点。百分之一，我们只能奢望这个。
+
+;0x4E7FE25B=FM3_LA
+0x4E7FE25B=FM3_LA
+
+;0x5059923E=FM3_AB
+0x5059923E=FM3_AB
+
+;0x51290550=~z~This ain't looking good for you, bitch.
+0x51290550=~z~This ain't looking good for you, bitch.
+
+;0x5227BF4D=~z~You think this is funny?
+0x5227BF4D=~z~你觉得这好笑吗？
+
+;0x54227401=~z~This ain't the place for you, son. You dead.
+0x54227401=~z~这不是你该来的地方，小子。你死了。
+
+;0x5432613A=~z~You mean five.
+0x5432613A=~z~五千还差不多。
+
+;0x54CCC50A=~z~Sure, Ma. Sure...
+0x54CCC50A=~z~好的，妈。当然...
+
+;0x54EAAF75=~z~He don't like a younger brother with ambition. Tell you what, I'll reform.
+0x54EAAF75=~z~他不喜欢有野心的小兄弟。这么说吧，我会洗心革面的。
+
+;0x565D73EE=FM3_LF
+0x565D73EE=FM3_LF
+
+;0x585C655E=~z~Two G's.
+0x585C655E=~z~两千。
+
+;0x58A392EC=~z~The guys you see are gonna be working for that scumbag in one way or another.
+0x58A392EC=~z~你见到的人基本都是替那个小人卖命的。
+
+;0x58C6788B=300
+0x58C6788B=300
+
+;0x5A416B1C=~z~I need him dealt with.
+0x5A416B1C=~z~我需要有人去解决他。
+
+;0x5ACE3043=~z~Yo cracker, you a long ways from home.
+0x5ACE3043=~z~哟，渣渣，这里不是你家。
+
+;0x5C8220B1=~z~Whatever you say. They don't look much cleaner from where I'm standing.
+0x5C8220B1=~z~随你怎么说吧，从我这儿看也没干净到哪去。
+
+;0x5CA71881=~z~Screw you.
+0x5CA71881=~z~去你妈的。
+
+;0x5CB99C6D=~z~The cops ain't gonna help you in here, they scared as shit.
+0x5CB99C6D=~z~The cops ain't gonna help you in here, they scared as shit.
+
+;0x5D5DC4ED=801
+0x5D5DC4ED=801
+
+;0x5DA256F1=~z~No.
+0x5DA256F1=~z~不知道。
+
+;0x5E0B542B=010100100100100010100010010
+0x5E0B542B=010100100100100010100010010
+
+;0x5E264DE1=~z~I'm outside the project, where is he?
+0x5E264DE1=~z~我到社区外面了，他在哪儿？
+
+;0x5E46523E=~z~You ready to die?
+0x5E46523E=~z~真想死吗？
+
+;0x5F61A1BD=~z~Even the cops be scared to come up here.
+0x5F61A1BD=~z~Even the cops be scared to come up here.
+
+;0x616DB2ED=FM3_AD
+0x616DB2ED=FM3_AD
+
+;0x63D82AAE=~z~I'm gonna put a cap in your dome, fool.
+0x63D82AAE=~z~I'm gonna put a cap in your dome, fool.
+
+;0x676B606B=~z~Should be on the second floor, keeps an eye on all his boys from up there.
+0x676B606B=~z~应该在二楼，楼上有很多他的手下，当心点。
+
+;0x67769860=FM3_LD
+0x67769860=FM3_LD
+
+;0x67DB65DC=FM3_AF
+0x67DB65DC=FM3_AF
+
+;0x6853BEC1=801
+0x6853BEC1=801
+
+;0x6AABCFFE=~z~You're a long way from Star Junction, cracker.
+0x6AABCFFE=~z~这儿离Star Junction*远着呢，渣渣。~n~(以纽约时代广场为原型的区域)
+
+;0x6AD0415B=~z~You did a good thing, Niko. That boy was mean. He had a tongue on him too.
+0x6AD0415B=~z~你做了件好事，Niko。那小子很卑鄙，嘴巴也很能说。
+
+;0x6C0C91F5=FM3_AG
+0x6C0C91F5=FM3_AG
+
+;0x6C4B0B0B=~z~Whatever...
+0x6C4B0B0B=~z~就这样吧...
+
+;0x6C785E90=~z~I surrender. You wouldn't kill an unarmed man, would you?
+0x6C785E90=~z~我投降。你总不会杀一个手无寸铁的人吧？
+
+;0x6D79A04B=200
+0x6D79A04B=200
+
+;0x6DAA7652=~z~The drug dealer is out on the street. Oh no! Lock up the children, Francis.
+0x6DAA7652=~z~现在毒贩子上街了。哦不！快把孩子们锁上，Francis。
+
+;0x6E6993A4=690
+0x6E6993A4=690
+
+;0x6F2AF9F3=FM3_AG
+0x6F2AF9F3=FM3_AG
+
+;0x70306D0A=~z~There be a lot of brothers want to dead your ass in this project.
+0x70306D0A=~z~这个社区里有很多兄弟想弄死你丫。
+
+;0x72999E0C=~z~You know,
+0x72999E0C=~z~你也知道，
+
+;0x735698F6=~z~You know there's no good, and no evil... just shades of fucking gray.
+0x735698F6=~z~你也知道，根本没有善，也没有恶...只有该死的灰色阴影。
+
+;0x745E92B1=~z~Yeah you. Remember, you're doing a real service for the community by getting rid of this scumbag.
+0x745E92B1=~z~对，你。记住，你除掉这个小人就是为社会做巨大贡献。
+
+;0x74AC201B=FM3_QC
+0x74AC201B=FM3_QC
+
+;0x763D2E2E=FM3_AD
+0x763D2E2E=FM3_AD
+
+;0x76EC7ABC=FM3_QE
+0x76EC7ABC=FM3_QE
+
+;0x788476A8=~z~McReary going to think I'm dead. Word.
+0x788476A8=~z~McReary会当我已经死了的。说话算话。
+
+;0x7990B890=~z~Please.
+0x7990B890=~z~求你了。
+
+;0x7AA9F90D=~z~Clarence, is that you again? Can't you deal out on another block?
+0x7AA9F90D=~z~Clarence, is that you again? Can't you deal out on another block?
+
+;0x7D910A4A=FM3_IA
+0x7D910A4A=FM3_IA
+
+;0x7F4D1F20=100100011
+0x7F4D1F20=100100011
+
+;0x7FF16811=FM3_AA
+0x7FF16811=FM3_AA
+
+;0x80966CE7=~z~You don't have to worry about Clarence anymore.
+0x80966CE7=~z~你不用再担心Clarence了。
+
+;0x838C310C=~z~Violent... me?
+0x838C310C=~z~冲突...我？
+
+;0x8482734F=SFX_DIALLING
+0x8482734F=SFX_DIALLING
+
+;0x852604F2=~z~What you doin' round here, whiteboy?
+0x852604F2=~z~你在这里做什么，白仔？
+
+;0x87AB4B96=010010100100100
+0x87AB4B96=010010100100100
+
+;0x88E9158B=~z~If you're makin' a mess in the stairwell, I'm sure as hell not cleaning it up.
+0x88E9158B=~z~If you're makin' a mess in the stairwell, I'm sure as hell not cleaning it up.
+
+;0x88EF4EEE=FM3_AH
+0x88EF4EEE=FM3_AH
+
+;0x89AB9B85=FM3_QB
+0x89AB9B85=FM3_QB
+
+;0x8D1B3186=~z~Listen up yo, get outta here.
+0x8D1B3186=~z~听着你，离开这儿。
+
+;0x8E24A36E=500500050500500500500500500500500
+0x8E24A36E=500500050500500500500500500500500
+
+;0x8EFED072=~z~That's our duty.
+0x8EFED072=~z~那就是我们的责任。
+
+;0x8F6C32E0=FM3_NC
+0x8F6C32E0=FM3_NC
+
+;0x90278175=~z~That's right. We the same, me and you. Look out for each other.
+0x90278175=~z~这就对了。我们都一样，我和你，相互照应。
+
+;0x9096A67B=590
+0x9096A67B=590
+
+;0x90EA4BC8=~z~You're starting to sound like your friend Manny.
+0x90EA4BC8=~z~你这听起来就跟你朋友Manny一样。
+
+;0x92DE40B9=~z~You're the only one who's gonna get locked up, son.
+0x92DE40B9=~z~只有你是要被锁起来的，小子。
+
+;0x93B72FAD=FM3_DA
+0x93B72FAD=FM3_DA
+
+;0x94C2772B=FM3_JA
+0x94C2772B=FM3_JA
+
+;0x95180150=FM3_MA
+0x95180150=FM3_MA
+
+;0x9568F158=FM3_LA_QQQ1
+0x9568F158=FM3_LA_QQQ1
+
+;0x9696B0E6=~z~I told you boys to do your fighting outside.
+0x9696B0E6=~z~I told you boys to do your fighting outside.
+
+;0x99008A67=~z~Hey tourist, you want us to pose for a photo?
+0x99008A67=~z~喂，游客，你要我们摆个姿势合影吗？
+
+;0x9936EE8D=FM3_AE
+0x9936EE8D=FM3_AE
+
+;0x9AE37A0D=FM3_LC
+0x9AE37A0D=FM3_LC
+
+;0x9C2DA411=~z~Thank God for real justice.
+0x9C2DA411=~z~感谢上帝让真正的正义降临。
+
+;0x9D06C457=~z~I'm outside the project, where is he?
+0x9D06C457=~z~我到社区外面了，他在哪儿？
+
+;0x9DA440E7=~z~I'll get out the game. Get a GED or some shit. Make something of my life.
+0x9DA440E7=~z~我会退出游戏，去考个GED*之类的，让人生有所成就。~n~(美国高中同等学历证书)
+
+;0x9E306654=~z~Francis McReary is the community now?
+0x9E306654=~z~现在Francis McReary成了社会代言人了？
+
+;0x9ED9D503=~z~You in the wrong hood homie, raise up.
+0x9ED9D503=~z~你走错地方了，伙计，举起手来。
+
+;0xA21C76AD=~z~You make things one per cent better. That's enough.
+0xA21C76AD=~z~你能让情况好转百分之一，那就够了。
+
+;0xA3641283=~z~Clarence don't want no strangers up in here. That's too bad for you.
+0xA3641283=~z~Clarence不想让外人上楼，很遗憾。
+
+;0xA5ACAA8B=~z~Whatever.
+0xA5ACAA8B=~z~管你啊。
+
+;0xA5B2D80A=~z~Clarence were specific about deading any fools that tried something.
+0xA5B2D80A=~z~Clarence有命令，要干掉任何敢轻举妄动的傻逼。
+
+;0xA73284ED=~z~Excuse me?
+0xA73284ED=~z~抱歉？
+
+;0xA78964C3=~z~Got you now!
+0xA78964C3=~z~干你哦！
+
+;0xA8B129C8=~z~Damn, son, you don't belong round here.
+0xA8B129C8=~z~干诶，小子，你不是这儿的人。
+
+;0xAA0DBBCF=~z~He tried to convince me to let him go. Said he'd get out of town. I finished him anyway.
+0xAA0DBBCF=~z~他试图说服我放了他，说他会离开这里。不过我把他干死了。
+
+;0xABE5702F=FM3_AH
+0xABE5702F=FM3_AH
+
+;0xACDDC856=~z~That was the wrong move.
+0xACDDC856=~z~这步可不行。
+
+;0xACEF0865=400
+0xACEF0865=400
+
+;0xAF7031BC=FM3_PA
+0xAF7031BC=FM3_PA
+
+;0xB0D81738=~z~So listen, I got something I need you to do.
+0xB0D81738=~z~听着，我有点事需要你做。
+
+;0xB290DFC7=~z~I think someone stepped off the tourist trail.
+0xB290DFC7=~z~我想有人偏离观光路线了。
+
+;0xB306C53F=~z~I can go where I like.
+0xB306C53F=~z~老子爱去哪儿去哪儿。
+
+;0xB482B39B=FM3_LE
+0xB482B39B=FM3_LE
+
+;0xB67E4E22=~z~Get out of here. I see you again, you'll wish I had killed you now.
+0xB67E4E22=~z~滚得越远越好。再让我碰到你，你会后悔没有现在就死的。
+
+;0xB7A2B273=FM3_LB
+0xB7A2B273=FM3_LB
+
+;0xB83007FF=FM3_NB
+0xB83007FF=FM3_NB
+
+;0xB8A17DE7=~z~Momma told me not to kill nobody today.
+0xB8A17DE7=~z~妈妈今天刚跟我说过别杀人。
+
+;0xB93BAB3F=~z~Okay you got a deal. Head on up to Vauxite and call me.
+0xB93BAB3F=~z~行吧，就这价吧。你先去Vauxite，然后打给我。
+
+;0xB9C23F3F=~z~You just crossed the line, you punk ass bitch.
+0xB9C23F3F=~z~你过分了，贱人小婊子。
+
+;0xB9CDFA69=FM3_QA
+0xB9CDFA69=FM3_QA
+
+;0xBA936395=~z~This didn't have to go this way.
+0xBA936395=~z~本来没必要这样的。
+
+;0xBB272BD6=~z~This is the last time.
+0xBB272BD6=~z~这是最后一次。
+
+;0xBBFE2CA4=~z~But it'll take me a year to get the evidence. More maybe.
+0xBBFE2CA4=~z~但是光是取证就会花上一年时间，可能还不止。
+
+;0xBF33E61B=~z~Good move. You shouldn't trust a word that comes out of that scum's mouth.
+0xBF33E61B=~z~明智的选择。那个小人嘴里的话一个字都不能信。
+
+;0xBF5C571E=~z~You got the wrong people, son.
+0xBF5C571E=~z~你认错人了，小子。
+
+;0xBF644436=~z~I'm too young to die. Please.
+0xBF644436=~z~我现在死还太早了，求你了。
+
+;0xC09B5572=FM3_PB
+0xC09B5572=FM3_PB
+
+;0xC12D618C=~z~Eat me.
+0xC12D618C=~z~打我啊。
+
+;0xC5F8C4B9=~z~I'd say he was about right.
+0xC5F8C4B9=~z~我会说他说对了。
+
+;0xC60B2C0E=~z~Should be on the second floor, keeps an eye on all his boys from up there.
+0xC60B2C0E=~z~应该在二楼，防着点他的手下，楼上有很多。
+
+;0xC665EDF1=~z~You the boss though, man. You the boss of me.
+0xC665EDF1=~z~不过你是大哥，老兄。你是我大哥。
+
+;0xC6973FA6=~z~If you say so.
+0xC6973FA6=~z~随你说喽。
+
+;0xC6DFC037=~z~By any means necessary.
+0xC6DFC037=~z~用尽一切必要手段。
+
+;0xC773D73D=FM3_LG
+0xC773D73D=FM3_LG
+
+;0xC814A1C4=~z~You're starting to sound like your friend Manny.
+0xC814A1C4=~z~你这听起来就跟你朋友Manny一样。
+
+;0xC876B042=FM3_AE
+0xC876B042=FM3_AE
+
+;0xCB5A355A=FM3_FA
+0xCB5A355A=FM3_FA
+
+;0xCB839D51=~z~It's trash day.
+0xCB839D51=~z~该倒垃圾了。
+
+;0xCCF975A8=FM3_HA
+0xCCF975A8=FM3_HA
+
+;0xCE06B780=~z~Love you too.
+0xCE06B780=~z~我也爱你。
+
+;0xCFF5E633=~z~I need some help up in this bitch.
+0xCFF5E633=~z~来点人帮我解决这个贱人。
+
+;0xD4CE6264=~z~If someone was to tell me you was some fresh off the boat killer with more balls than brains,
+0xD4CE6264=~z~要是有人跟我说你这个刚下船的杀手胆子比脑子肥，
+
+;0xD576F6A8=~z~Shit, I hope you enjoyed your sightseeing tour. It's yo' last.
+0xD576F6A8=~z~操，希望你观光愉快。这是最后一站了。
+
+;0xD59F6D5C=~z~Try to get off the ground floor before getting violent.
+0xD59F6D5C=~z~引起冲突前最好能先上到二楼。
+
+;0xD91964AA=~z~Oh I do say so. I want to make things a bit better.
+0xD91964AA=~z~噢，我是这么说的。我想让情况好转一点。
+
+;0xDC5A3CD2=FM3_SA
+0xDC5A3CD2=FM3_SA
+
+;0xDE849C3A=~z~Fuck you.
+0xDE849C3A=~z~操你妈。
+
+;0xE1467734=~z~The guy's guilty as sin. He is sin.
+0xE1467734=~z~这人罪大恶极，他就是罪恶。
+
+;0xE1618778=~z~Sorry.
+0xE1618778=~z~抱歉。
+
+;0xE3434FC8=FM3_CA
+0xE3434FC8=FM3_CA
+
+;0xE4CEB807=~z~Now you done pissed me off.
+0xE4CEB807=~z~你现在惹毛我了。
+
+;0xE5E3814E=~z~This scumbag's been pushing drugs, pimping women, you name it, he's done it.
+0xE5E3814E=~z~这个小人贩卖毒品、逼良为娼，你能想到的，他都做过。
+
+;0xE63051FE=~z~Don't kill me, boss.
+0xE63051FE=~z~别杀我，大哥。
+
+;0xE70AD81D=FM3_OB
+0xE70AD81D=FM3_OB
+
+;0xE92F481F=090
+0xE92F481F=090
+
+;0xE948E012=081801081081
+0xE948E012=081801081081
+
+;0xE94EBE27=FM3_LI
+0xE94EBE27=FM3_LI
+
+;0xE982194B=~z~Turn off your TVs and come out here to help me deal with this crazy psychopath.
+0xE982194B=~z~都把电视关了，出来帮老子解决这个精神病疯子。
+
+;0xEA368517=090
+0xEA368517=090
+
+;0xEA68B458=500
+0xEA68B458=500
+
+;0xEA6FC094=~z~Always talking his way out of court, willing to compromise anyone to get out of trouble.
+0xEA6FC094=~z~每次都能舌战群儒离开法庭，乐意通过交涉替人摆脱麻烦。
+
+;0xEB72895C=~z~I want to get paid.
+0xEB72895C=~z~我想拿到报酬。
+
+;0xF182229A=FM3_AF
+0xF182229A=FM3_AF
+
+;0xF3131ACD=~z~But this guy, is scum.
+0xF3131ACD=~z~但这个人，就是败类。
+
+;0xF6A117F3=700
+0xF6A117F3=700
+
+;0xF7395CDC=~z~You came into the wrong project.
+0xF7395CDC=~z~你来错社区了。
+
+;0xF84B0C44=~z~You know it's funny, but I see a lot of me in you.
+0xF84B0C44=~z~这么说会有点怪，但你和我有很多相似之处。
+
+;0xF8778C61=~z~Yes. I'll make Commissioner.
+0xF8778C61=~z~好，我会当上局长的。
+
+;0xFB5155DF=~z~Yeah, sure, man.
+0xFB5155DF=~z~对，当然，老兄。
+
+;0xFB886500=FM3_OC
+0xFB886500=FM3_OC
+
+;0xFBD7BDF6=~z~Where my boys at?
+0xFBD7BDF6=~z~老子手下呢？
+
+;0xFC2B2CF9=~z~Oh how much?
+0xFC2B2CF9=~z~哦，多少？
+
+;0xFCAA7D00=~z~Anyway, these projects all got the same layout, a staircase leading up on either side.
+0xFCAA7D00=~z~总之，这些公屋的设计都差不多，两边各一个楼梯。
+
+;0xFD6AB15C=~z~Isn't that police work?
+0xFD6AB15C=~z~那不是警察的工作吗？
+
+;0xFDB52DE1=~z~And you? What do you want?
+0xFDB52DE1=~z~那你呢？你想怎么样？
+
+;0xFE11B527=100
+0xFE11B527=100
+
+;0xFE3A02BD=~z~Take this, you whitetrash asshole.
+0xFE3A02BD=~z~尝尝这个，你这狗逼白皮垃圾。
+
+;0xFE522F17=~z~Sure. Sure you do.
+0xFE522F17=~z~当然了，你肯定想。
+

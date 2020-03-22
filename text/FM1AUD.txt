@@ -1,0 +1,499 @@
+﻿;注：
+;1、没翻的都是Beta文本 无视即可
+;2、翻译：LCPD爱拉登       粗校及微调：sheenthing
+
+[FM1AUD]
+;0x017D4913=~z~Shit, he clearly want this stuff on the news.
+0x017D4913=~z~操，他是真的想让这玩意上新闻。
+
+;0x030005EE=~z~Now obviously I can't go, cause then he gets a picture of me giving him money, and I'm admitting guilt.
+0x030005EE=~z~现在我显然不能去，去了就会被他拍下我给他钱的照片，相当于认罪了。
+
+;0x0679742A=FM1_AB
+0x0679742A=FM1_AB
+
+;0x07FE80CA=~z~I know enough, boy.
+0x07FE80CA=~z~我知道很多，小子。
+
+;0x0822B20E=~z~He was gonna have to take 'em from my cold, dead hand.
+0x0822B20E=~z~想白拿的话就得从我冷冰冰的尸体上拿。
+
+;0x08445D81=FM1_ZE
+0x08445D81=FM1_ZE
+
+;0x090CB61E=FM1_YA
+0x090CB61E=FM1_YA
+
+;0x0C1A3B24=FM1_MA
+0x0C1A3B24=FM1_MA
+
+;0x0CA8841D=100
+0x0CA8841D=100
+
+;0x0CFE5913=FM1_YC
+0x0CFE5913=FM1_YC
+
+;0x14412870=~z~Said to call him from the viewpoint there.
+0x14412870=~z~说是从那边的观景台给他打电话。
+
+;0x146F94C3=200200100010200200100010200200100200200100010200200100200200100010200200100
+0x146F94C3=200200100010200200100010200200100200200100010200200100200200100010200200100
+
+;0x15E7CD98=~z~You know what? He thought that that wasn't such a bad idea.
+0x15E7CD98=~z~你猜怎么着？他觉得这么来其实也不错。
+
+;0x1DA937A0=~z~Call me when you get to the spot.
+0x1DA937A0=~z~到地方了你就打给我。
+
+;0x1E7CED98=~z~I'll get rid of them, let me live.
+0x1E7CED98=~z~我会处理掉照片的，放过我吧。
+
+;0x1F4865F1=SFX_OVERLAP_PHONE
+0x1F4865F1=SFX_OVERLAP_PHONE
+
+;0x201A23CE=~z~Yeah, and there's a lawyer called Tom Goldberg who's real interested.
+0x201A23CE=~z~真的，而且还有一个叫Tom Goldberg的律师对此很感兴趣。
+
+;0x20904CF2=100
+0x20904CF2=100
+
+;0x2309870F=SFX_OVERLAP_PHONE
+0x2309870F=SFX_OVERLAP_PHONE
+
+;0x246CA8E3=FM1_BC
+0x246CA8E3=FM1_BC
+
+;0x24D76B77=~z~Looks like you've been fucking with the wrong cop.
+0x24D76B77=~z~看来你是惹错条子了。
+
+;0x266CBDA6=~z~What do you know, boy?
+0x266CBDA6=~z~知道的有多多，小子？
+
+;0x2683CCF5=~z~Okay.
+0x2683CCF5=~z~好吧。
+
+;0x2CADF9F8=FM1_CD
+0x2CADF9F8=FM1_CD
+
+;0x2CB93D8C=~z~Call me when this exchange is going down. I don't like all the talking. Yeah.
+0x2CB93D8C=~z~等你确定要进行交易了再打给我。我不喜欢一直聊天。没错。
+
+;0x30211FCA=FM1_GA
+0x30211FCA=FM1_GA
+
+;0x329186F3=~z~Call me when this exchange is going down. I don't like all the talking. Yeah.
+0x329186F3=~z~等你确定要进行交易了再打给我。我不喜欢一直聊天。没错。
+
+;0x34D848BB=~z~Not many people get a second chance like this. It's my redemption.
+0x34D848BB=~z~很少有人能像这样获得第二次机会。这是我的救赎。
+
+;0x367C2EDF=~z~Wouldn't it be easier just to pay?
+0x367C2EDF=~z~直接付钱不会更简单点吗？
+
+;0x36A95E1F=~z~I know about you.
+0x36A95E1F=~z~我知道你的事。
+
+;0x372751E4=~z~Push me and this shit is all over Weazel News. I got them on speed dial.
+0x372751E4=~z~惹毛我的话，就等着这些黑料上Weazel新闻吧，我给他们设了一键呼叫。
+
+;0x386D9600=FM1_KC
+0x386D9600=FM1_KC
+
+;0x398BF305=~z~Well... I'm a good man.
+0x398BF305=~z~行...我是一个好人。
+
+;0x39BD5794=~z~Yeah, yeah. We're talking about how you ain't getting no money, but you're still giving up the photos.
+0x39BD5794=~z~对对，我们来谈谈怎么让你一毛不拿但还是交出照片。
+
+;0x39BE124A=FM1_HA
+0x39BE124A=FM1_HA
+
+;0x39F32D19=~z~I'm in the park, now what?
+0x39F32D19=~z~我已经到公园了，然后呢？
+
+;0x3A8F73AC=~z~Yeah ya do. You know that a man's gotta do~n~what a man's gotta do.
+0x3A8F73AC=~z~不，你知道的。该做的就是得做。
+
+;0x3B1964ED=020200200020
+0x3B1964ED=020200200020
+
+;0x3B20B6BB=FM1_CE
+0x3B20B6BB=FM1_CE
+
+;0x3B9EBB9D=SFX_OVERLAP_PHONE
+0x3B9EBB9D=SFX_OVERLAP_PHONE
+
+;0x3BDB5A6C=~z~Good thing Francis is paying then.
+0x3BDB5A6C=~z~幸好Francis肯付钱。
+
+;0x3C73721A=~z~I'm sure he's got your money. Have you got the stuff he wants?
+0x3C73721A=~z~我向你保证他把钱带来了。他要的东西你带了吗？
+
+;0x3EB16E2B=~z~I told you to come here, fucking maggot.
+0x3EB16E2B=~z~就是我叫你来的，狗逼蛆虫。
+
+;0x3EEB3700=FM1_ZB
+0x3EEB3700=FM1_ZB
+
+;0x3FCB3F46=FM1_ZD
+0x3FCB3F46=FM1_ZD
+
+;0x40AD64F4=~z~Yeah, and there's a lawyer called Tom Goldberg who's real interested.
+0x40AD64F4=~z~真的，而且还有一个叫Tom Goldberg的律师对此很感兴趣。
+
+;0x421566E0=~z~Call me when this exchange is going down. I don't like all the talking. Yeah.
+0x421566E0=~z~等你确定要进行交易了再打给我。我不喜欢一直聊天，对。
+
+;0x42B76479=~z~Your sins are absolved, I guess.
+0x42B76479=~z~你的罪行被赦免了，大概。
+
+;0x42CAE91F=FM1_BA
+0x42CAE91F=FM1_BA
+
+;0x44F7FABC=~z~Know what?
+0x44F7FABC=~z~知道些什么？
+
+;0x459EEDF7=~z~Call me when this exchange is going down. I don't like all the talking. Yeah.
+0x459EEDF7=~z~等你确定要进行交易了再打给我。我不喜欢一直聊天，对。
+
+;0x46365840=FM1_BI
+0x46365840=FM1_BI
+
+;0x469B5B4A=SFX_OVERLAP_PHONE
+0x469B5B4A=SFX_OVERLAP_PHONE
+
+;0x483EF497=~z~Shit, it's you again. Money best be the topic of this conversation.
+0x483EF497=~z~操，又是你。这次最好是来谈钱的事儿的。
+
+;0x4A565B8A=FM1_CG
+0x4A565B8A=FM1_CG
+
+;0x4B797968=FM1_ZA
+0x4B797968=FM1_ZA
+
+;0x4CF00AAC=~z~You did? Why?
+0x4CF00AAC=~z~你叫的？为什么？
+
+;0x4D2F605C=FM1_CF
+0x4D2F605C=FM1_CF
+
+;0x4D817E98=~z~Really?
+0x4D817E98=~z~真的？
+
+;0x4FC69E1A=~z~That people ain't perfect... that life is a mess...
+0x4FC69E1A=~z~人无完人...生活不易...
+
+;0x50F46078=FM1_BG
+0x50F46078=FM1_BG
+
+;0x5107ABBF=FM1_KB_QQQ1
+0x5107ABBF=FM1_KB_QQQ1
+
+;0x51430190=~z~Here. He's dead.
+0x51430190=~z~拿着，他死了。
+
+;0x52DEE7A4=~z~This isn't going to end with my death.
+0x52DEE7A4=~z~This isn't going to end with my death.
+
+;0x53258A64=~z~I told McReary I wasn't giving up them photos unless he paid me.
+0x53258A64=~z~我告诉过McReary了，他不给钱我就不交照片。
+
+;0x533C0A0D=~z~Push me and this shit is all over Weazel News. I got them on speed dial.
+0x533C0A0D=~z~惹毛我的话这些黑料就等着上Weazel新闻吧，我给他们设了一键呼叫。
+
+;0x535E77FD=FM1_ZF
+0x535E77FD=FM1_ZF
+
+;0x53C0699C=FM1_BF
+0x53C0699C=FM1_BF
+
+;0x55812993=~z~and I don't look out for you. Know what I mean?
+0x55812993=~z~而不是我来找你。懂我意思吧？
+
+;0x5AD449D6=~z~I shouldn't a got involved.
+0x5AD449D6=~z~I shouldn't a got involved.
+
+;0x5B7C27C4=~z~Were you followed?
+0x5B7C27C4=~z~你被跟踪了吗？
+
+;0x5C917255=~z~Alright. This guy told me to bring the money there and call him.
+0x5C917255=~z~好，这个人让我带着钱到这儿以后给他打电话。
+
+;0x5D10BA0E=~z~I ain't guilty of nothing, other than being a man.
+0x5D10BA0E=~z~我根本没有任何罪行，除了生而为人。
+
+;0x5DB7C741=~z~What? Did he know I had something to do with it? Shit, I got to call him. Don't fuck up again.
+0x5DB7C741=~z~什么？他知不知道你和我有关系？操，我得给他打个电话，别再搞砸了。
+
+;0x5E173ABB=~z~Do you think this is a town that can keep a secret?
+0x5E173ABB=~z~你以为这座城里能藏住什么秘密吗？
+
+;0x5F1174A8=FM1_BE
+0x5F1174A8=FM1_BE
+
+;0x608D8301=~z~There are other copies. Don't do this.
+0x608D8301=~z~There are other copies. Don't do this.
+
+;0x613B4103=~z~I really don't know what you're talking about.
+0x613B4103=~z~我是真不知道你在说什么。
+
+;0x63286B63=FM1_MC
+0x63286B63=FM1_MC
+
+;0x653341EC=010100100100
+0x653341EC=010100100100
+
+;0x67C5C057=~z~Hey... strange seeing you here, officer McReary.
+0x67C5C057=~z~嘿...你咋在这儿呢，McReary警官。
+
+;0x684DA0C7=FM1_BJ
+0x684DA0C7=FM1_BJ
+
+;0x6DFCE7CB=~z~You might want to think about paying the man. He got away.
+0x6DFCE7CB=~z~你还是考虑考虑付钱给他吧，他跑了。
+
+;0x6E2A3F09=~z~He's hungry for McReary's blood and shit. Yeah.
+0x6E2A3F09=~z~他等着吃McReary的人血馒头呢，对。
+
+;0x6EBC458E=FM1_AA
+0x6EBC458E=FM1_AA
+
+;0x6FB13E6C=~z~Great, I can get rid of these now. I feel like a new man.
+0x6FB13E6C=~z~很好，现在我可以处理掉它了。我感觉如获新生。
+
+;0x6FD75F9B=~z~To be honest, I don't really care one way or another.
+0x6FD75F9B=~z~说实话，我根本不在乎你有没有罪。
+
+;0x7148E44C=~z~I don't, but no one else does either. They're under the water along with the guy that had them.
+0x7148E44C=~z~没拿到，不过也没有别人能拿到了。东西已经和带着它的人一起沉到河底了。
+
+;0x71891F33=FM1_YD
+0x71891F33=FM1_YD
+
+;0x74D822DF=FM1_DA
+0x74D822DF=FM1_DA
+
+;0x7C3176F3=~z~I think so.
+0x7C3176F3=~z~我想也是。
+
+;0x7C784EEA=100010100100
+0x7C784EEA=100010100100
+
+;0x7C7A9F39=FM1_KA
+0x7C7A9F39=FM1_KA
+
+;0x7D76B735=SFX_OVERLAP_PHONE
+0x7D76B735=SFX_OVERLAP_PHONE
+
+;0x7DCB74CD=~z~Hello? Who's this?
+0x7DCB74CD=~z~你好？哪位？
+
+;0x7FC113BF=~z~Peace, dude. Chill!
+0x7FC113BF=~z~Peace, dude. Chill!
+
+;0x80C9AA10=100
+0x80C9AA10=100
+
+;0x80E6E5E6=~z~Call me when this exchange is going down. I don't like all the talking. Yeah.
+0x80E6E5E6=~z~等你确定要进行交易了再打给我。我不喜欢一直聊天，对。
+
+;0x81B71944=100
+0x81B71944=100
+
+;0x82AF8719=~z~Tell me you got the stuff?
+0x82AF8719=~z~东西拿到了没？
+
+;0x8394335F=SFX_OVERLAP_PHONE
+0x8394335F=SFX_OVERLAP_PHONE
+
+;0x8438EC06=~z~Yeah. I got it. We're gonna make this shit happen. I don't mess around, you know?
+0x8438EC06=~z~对，在我这儿。这个狗屁交易最好能顺利点。我不是好惹的，懂吗？
+
+;0x84C3FEDF=FM1_AD
+0x84C3FEDF=FM1_AD
+
+;0x85C584C1=~z~Hello? Who's this?
+0x85C584C1=~z~你好？哪位？
+
+;0x8606C6CE=SFX_OVERLAP_PHONE
+0x8606C6CE=SFX_OVERLAP_PHONE
+
+;0x8A711372=~z~Sure. Everybody knows that.
+0x8A711372=~z~当然，是个人都知道。
+
+;0x8DD39D65=~z~At least not tomorrow night that is. I'm watching you.
+0x8DD39D65=~z~至少明晚不会。我会盯着你的。
+
+;0x8FC5D5FD=FM1_ME
+0x8FC5D5FD=FM1_ME
+
+;0x9161B700=~z~I'm in over my head.
+0x9161B700=~z~I'm in over my head.
+
+;0x926F259C=~z~Ahh. shit. You're the guy.
+0x926F259C=~z~Ahh. shit. You're the guy.
+
+;0x928B50BF=FM1_LA
+0x928B50BF=FM1_LA
+
+;0x939D885B=FM1_BB
+0x939D885B=FM1_BB
+
+;0x93FE5633=FM1_CB
+0x93FE5633=FM1_CB
+
+;0x9765B089=~z~That's a weight off my mind. You don't need to be worrying about me knocking on your door in the middle of the night.
+0x9765B089=~z~那我就放心了。你也不用担心我半夜三更来敲你门了。
+
+;0x9C6F8829=FM1_BH
+0x9C6F8829=FM1_BH
+
+;0x9FC43E18=~z~So you look out for me...
+0x9FC43E18=~z~是你主动来找我...
+
+;0xA1A4B7E0=FM1_AC
+0xA1A4B7E0=FM1_AC
+
+;0xA1A6E16B=FM1_IA
+0xA1A6E16B=FM1_IA
+
+;0xA471DCD4=100
+0xA471DCD4=100
+
+;0xA59981E3=FM1_FA
+0xA59981E3=FM1_FA
+
+;0xAA304D96=~z~Yeah, he better have my paper. I ain't fucking around.
+0xAA304D96=~z~是吗，那他最好已经把钱备好了，我他妈不在这附近。
+
+;0xAAFB1918=FM1_ZC
+0xAAFB1918=FM1_ZC
+
+;0xACD65A6A=~z~I was just talking to you.
+0xACD65A6A=~z~I was just talking to you.
+
+;0xAD210456=FM1_LB
+0xAD210456=FM1_LB
+
+;0xAE2E0165=~z~This isn't right.
+0xAE2E0165=~z~情况不妙。
+
+;0xB0BFB082=FM1_BK
+0xB0BFB082=FM1_BK
+
+;0xB1C86C95=100
+0xB1C86C95=100
+
+;0xB3439E73=FM1_BD
+0xB3439E73=FM1_BD
+
+;0xB3448F0B=FM1_YB
+0xB3448F0B=FM1_YB
+
+;0xB5B0A688=FM1_ZG
+0xB5B0A688=FM1_ZG
+
+;0xB6E0110A=SFX_OVERLAP_PHONE
+0xB6E0110A=SFX_OVERLAP_PHONE
+
+;0xB70D1F4B=~z~You're right there.
+0xB70D1F4B=~z~You're right there.
+
+;0xB776D30D=~z~Call me when this exchange is going down. I don't like all the talking. Yeah.
+0xB776D30D=~z~等你确定要进行交易了再打给我。我不喜欢一直聊天，对。
+
+;0xBC445B2C=SFX_OVERLAP_PHONE
+0xBC445B2C=SFX_OVERLAP_PHONE
+
+;0xBE2A2286=FM1_CC
+0xBE2A2286=FM1_CC
+
+;0xC10FA3E9=~z~You know what? Fuck this. I'm getting out of here. The meet's off, buddy.
+0xC10FA3E9=~z~你猜怎么着？见鬼去吧。我这就走。交易终止，伙计。
+
+;0xC15A8144=~z~So there's a guy trying to blackmail me.
+0xC15A8144=~z~有一个人想要勒索我。
+
+;0xC34C28BA=FM1_CA
+0xC34C28BA=FM1_CA
+
+;0xC4238832=~z~I don't know. Thinks he's getting paid though.
+0xC4238832=~z~我不知道。不过他好像有两把刷子。
+
+;0xCBCF5DB8=~z~I don't got all day.
+0xCBCF5DB8=~z~I don't got all day.
+
+;0xCEE516FF=~z~Yeah, he better have my paper. I ain't fucking around.
+0xCEE516FF=~z~是吗，那他最好已经把钱备好了，我他妈不在这附近。
+
+;0xCFB65861=~z~You've got to call him and keep a lookout for someone answering a phone. He won't be far.
+0xCFB65861=~z~你就打给他，留心那些在接电话的人。他就在附近。
+
+;0xD41A19E6=FM1_JA
+0xD41A19E6=FM1_JA
+
+;0xD66A2CBF=~z~The guy's smart. He arranged to do the exchange by the Humboldt River off Silicon Street.
+0xD66A2CBF=~z~这人很聪明，他把交易地点定在了Silicon街的Humboldt河边上。
+
+;0xD9C7AFDA=~z~No doubt.
+0xD9C7AFDA=~z~毫无疑问。
+
+;0xDC7A9824=SFX_OVERLAP_PHONE
+0xDC7A9824=SFX_OVERLAP_PHONE
+
+;0xDDEDED0C=~z~Hey, wait a second. Shit.
+0xDDEDED0C=~z~Hey, wait a second. Shit.
+
+;0xDE7D75EF=~z~That means he's somewhere close and he's got a phone. I'm gonna text you his number.
+0xDE7D75EF=~z~也就是说他就在附近，带着手机。待会儿我把他的电话发你。
+
+;0xE0D97252=~z~Be cool.
+0xE0D97252=~z~别发火。
+
+;0xE0FD6AB2=200200100010200200100200200100010010200200100
+0xE0FD6AB2=200200100010200200100200200100010010200200100
+
+;0xE858F394=FM1_KB
+0xE858F394=FM1_KB
+
+;0xECBC7E81=~z~Something's wrong here.
+0xECBC7E81=~z~Something's wrong here.
+
+;0xED89CBE1=~z~I know you killed Mikhail Faustin. I know a group of Russians want you dead. I know you ain't no saint, boy.
+0xED89CBE1=~z~我知道你杀了Mikhail Faustin。我知道一群俄国人想要你的命。我知道你不是什么好人，小子。
+
+;0xEDF92D92=010100
+0xEDF92D92=010100
+
+;0xF01A4F34=100
+0xF01A4F34=100
+
+;0xF0B6615B=~z~Listen... I did what I did... I made a mistake. That don't make me the devil.
+0xF0B6615B=~z~听着...过去我是做了点事...我犯了个错。但这并不足以让我成为恶人。
+
+;0xF257C84A=~z~He's hungry for McReary's blood and shit. Yeah.
+0xF257C84A=~z~他等着吃McReary的人血馒头呢，对。
+
+;0xF2B037C2=SFX_OVERLAP_PHONE
+0xF2B037C2=SFX_OVERLAP_PHONE
+
+;0xF2F51689=~z~I just wanted the money.
+0xF2F51689=~z~我只是想要点钱。
+
+;0xF2F5DF20=~z~Yeah. I got it. We're gonna make this shit happen. I don't mess around, you know?
+0xF2F5DF20=~z~对，在我这儿。这个狗屁交易最好能顺利点。我不是好惹的，懂吗？
+
+;0xF43FE1B4=~z~A friend. I'm calling about your exchange with McReary.
+0xF43FE1B4=~z~一个朋友。我是打过来问你和McReary的交易的。
+
+;0xF674EB78=~z~I don't know what you're talking about, chief.
+0xF674EB78=~z~我不知道你在说什么，长官。
+
+;0xF9BB64D1=FM1_EA
+0xF9BB64D1=FM1_EA
+
+;0xFA8E16AC=FM1_MB
+0xFA8E16AC=FM1_MB
+
+;0xFDDE7BA7=~z~Who?
+0xFDDE7BA7=~z~谁？
