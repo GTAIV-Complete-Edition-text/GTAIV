@@ -1,0 +1,28 @@
+﻿[WI_SAR1]
+;0x2C974478=Wait for Sara.
+0x2C974478=等待Sara。
+
+;0x4D5285D6=~r~Sara was abandoned.~s~
+0x4D5285D6=~r~Sara被抛弃了。~s~
+
+;0x5ABD20AB=~r~Sara has been killed.~s~
+0x5ABD20AB=~r~Sara被杀了。~s~
+
+;0x6FCE4ACD=You are too far away from ~b~Sara.~s~ Get closer so you can interact with her.
+0x6FCE4ACD=你离~b~Sara~s~太远了。靠近她就能与她互动了。
+
+;0x7F0FE950=Get as far away from Sara's ~r~ex-husband~s~ as possible.
+0x7F0FE950=尽可能远离Sara的~r~前夫。~s~
+
+;0xB8D7DCE3=Take Sara ~y~home.~s~
+0xB8D7DCE3=送Sara~y~回家。~s~
+
+;0xD0E20D13=Get a vehicle.
+0xD0E20D13=获取一辆载具。
+
+;0xDB27219D=Pick ~b~Sara~s~ up.
+0xDB27219D=接上~b~Sara。~s~
+
+;0xF5A956A1=You left ~b~Sara~s~ behind.
+0xF5A956A1=你把~b~Sara~s~落在后面了。
+

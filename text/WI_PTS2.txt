@@ -1,0 +1,22 @@
+﻿[WI_PTS2]
+;0x303A67A4=Pick up ~b~Pathos.
+0x303A67A4=接上~b~Pathos。
+
+;0x895E19EE=~r~Pathos is dead.
+0x895E19EE=~r~Pathos死了。
+
+;0x96BF34B0=~r~You took too long getting to the hospital.
+0x96BF34B0=~r~你在前往医院的路上花费了太长时间。
+
+;0xB4006F32=Get a vehicle.
+0xB4006F32=获取一辆载具。
+
+;0xBE4803C1=Get Pathos to the ~y~hospital~s~, quickly.
+0xBE4803C1=送Pathos去~y~医院，~s~快！
+
+;0xDB2E3D8D=~r~You took too long to get a vehicle.
+0xDB2E3D8D=~r~你获取载具花费了太长时间。
+
+;0xFB257D7B=Take out the ~r~attackers.
+0xFB257D7B=干掉~r~袭击者。
+

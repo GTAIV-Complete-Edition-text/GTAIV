@@ -1,0 +1,31 @@
+﻿[WI_SRA2]
+;0x04DCC206=~r~The assistant has been spooked.
+0x04DCC206=~r~店员受到了惊吓。
+
+;0x1A7A0BF0=~r~Sara is dead.
+0x1A7A0BF0=~r~Sara死了。
+
+;0x3156C715=Go back to the ~b~assistant.
+0x3156C715=回去找~b~店员。~s~
+
+;0x3F986398=~r~You didn't get the box for Sara.
+0x3F986398=~r~你没有为Sara取得盒子。
+
+;0x6548A18C=Pick up the ~g~box.
+0x6548A18C=捡起~g~盒子。
+
+;0x6BA74155=~r~There's blood all over the clothes. They're ruined.
+0x6BA74155=~r~衣服毁了。上面全是血。
+
+;0x88AE6857=Collect the box from the shop ~b~assistant.
+0x88AE6857=从~b~店员~s~那儿取得盒子。
+
+;0xC71DE541=Take the box back to ~y~Pier 45.
+0xC71DE541=带着盒子回~y~Pier 45。
+
+;0xE4018038=You don't have enough cash.
+0xE4018038=你没有足够的钱。
+
+;0xF64024B5=~s~Press ~INPUT_PICKUP~ to buy the item.
+0xF64024B5=~s~按下~INPUT_PICKUP~购买物品。
+

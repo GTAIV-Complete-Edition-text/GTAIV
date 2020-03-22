@@ -1,0 +1,640 @@
+﻿[Rp8AUD]
+;0x007014C9=R8_ZA
+0x007014C9=R8_ZA
+
+;0x029C068C=100
+0x029C068C=100
+
+;0x03D9A848=100
+0x03D9A848=100
+
+;0x0442315C=~z~Don't you pay attention to who has your cars? I've already got one. I'll go right there.
+0x0442315C=~z~你都不知道自己的车在谁手里么？车我开着呢，这就上路。
+
+;0x05791BE8=R8_HA
+0x05791BE8=R8_HA
+
+;0x063718A4=100
+0x063718A4=100
+
+;0x0665FC8B=R8_A_EA
+0x0665FC8B=R8_A_EA
+
+;0x078EBA65=R8_QA
+0x078EBA65=R8_QA
+
+;0x088CA19E=R8_A_CA
+0x088CA19E=R8_A_CA
+
+;0x089BBFFE=R8_A_QA
+0x089BBFFE=R8_A_QA
+
+;0x0BA3B5CA=100
+0x0BA3B5CA=100
+
+;0x0BE5167B=~z~I really appreciate this, cousin. If you want any more work you've got my number.
+0x0BE5167B=~z~我很感激，堂弟。你要是还想接单，直接打给我。
+
+;0x1148615E=010
+0x1148615E=010
+
+;0x13A25BD8=R8_A_LA
+0x13A25BD8=R8_A_LA
+
+;0x1446DB15=~z~I'll get on it.
+0x1446DB15=~z~这就去。
+
+;0x14C4990E=100
+0x14C4990E=100
+
+;0x1521A603=100100010100100010100100
+0x1521A603=100100010100100010100100
+
+;0x1716C1E9=~z~Shit Roman, don't mean to let you down but I can't handle that fare for you. Hope that's cool?
+0x1716C1E9=~z~我操，Roman，我也不想让你失望，不过这单我去不成了。希望不会有事吧?
+
+;0x180D1667=100
+0x180D1667=100
+
+;0x18E8E459=~z~I'm on it, Roman.
+0x18E8E459=~z~我出发了，Roman。
+
+;0x1903E788=~z~The pick up is in Waterdale.
+0x1903E788=~z~去Waterdale接人。
+
+;0x1926E091=100
+0x1926E091=100
+
+;0x1A1FB2F0=~z~Great, Niko. Thanks. If you want more fares just call.
+0x1A1FB2F0=~z~很好，Niko。谢了。要是你还想接单就打个电话过来。
+
+;0x1A603385=R8_CA
+0x1A603385=R8_CA
+
+;0x1C352588=~z~I need more drivers for the cab company. I'll pay you properly.
+0x1C352588=~z~我的的士公司需要更多司机。工资我会照给的。
+
+;0x1C3C8B2D=~z~The fare is taken care of, Roman.
+0x1C3C8B2D=~z~这单已经解决了，Roman。
+
+;0x1D894B5C=R8_A_JA
+0x1D894B5C=R8_A_JA
+
+;0x1F104CAA=100
+0x1F104CAA=100
+
+;0x2209EF69=~z~This is tough luck, NB. No one is calling for cabs. I don't know what's wrong.
+0x2209EF69=~z~时运不齐啊，NB。现在没人叫车。我也不知道怎么回事。
+
+;0x23BAF113=R8_NA
+0x23BAF113=R8_NA
+
+;0x2683DF04=~z~Go to Willis to pick them up.
+0x2683DF04=~z~去Willis接他们。
+
+;0x27DBE712=~z~Take them to East Island City.
+0x27DBE712=~z~带他们去East Island City。
+
+;0x28647CB5=R8_AD
+0x28647CB5=R8_AD
+
+;0x292E0671=~z~Hey Roman, you want me to drive anyone anywhere?
+0x292E0671=~z~喂 Roman，要我去接个人吗？
+
+;0x2A52BDA9=R8_A_BA
+0x2A52BDA9=R8_A_BA
+
+;0x2D1A9A35=R8_AE
+0x2D1A9A35=R8_AE
+
+;0x2E8C80BA=100
+0x2E8C80BA=100
+
+;0x2F9E085A=~z~Alright, the fare called from Northern Gardens.
+0x2F9E085A=~z~行吧，乘客是从Northern Gardens打过来的。
+
+;0x2FA991DA=~z~I'll pick them up.
+0x2FA991DA=~z~我会去接他们的。
+
+;0x2FCE44EC=R8_ZA
+0x2FCE44EC=R8_ZA
+
+;0x35AC39E8=~z~I guess this could not be helped. Call me if you want another fare.
+0x35AC39E8=~z~我是在想这次你可能帮不上忙。想再接单就打给我。
+
+;0x36ED07B7=~z~Come get a cab from the depot.
+0x36ED07B7=~z~来车行拿辆车。
+
+;0x373B7D5C=R8_A_MA
+0x373B7D5C=R8_A_MA
+
+;0x39D89A51=R8_AA
+0x39D89A51=R8_AA
+
+;0x3A233566=R8_AH
+0x3A233566=R8_AH
+
+;0x3AAF1C22=~z~Drop them over in Meadow Hills.
+0x3AAF1C22=~z~送他们去Meadow Hills。
+
+;0x3AF7447E=~z~Okay, Niko. That's too bad. Call me soon if you want another try.
+0x3AF7447E=~z~好吧，Niko。关系不是很大。你要是想再试试的话就打给我。
+
+;0x3B005560=~z~They need to get to Steinway.
+0x3B005560=~z~他们要去Steinway。
+
+;0x3BBA2B89=~z~Roman, I want to take a fare for you.
+0x3BBA2B89=~z~Roman，我想替你跑一单。
+
+;0x3E6730D3=~z~Hey cousin, have you got any fares that need picking up?
+0x3E6730D3=~z~喂，堂兄啊，你那儿有没有什么客人需要我去接的？
+
+;0x3EF55E83=100
+0x3EF55E83=100
+
+;0x3F33F86F=~z~Come collect a car from the depot.
+0x3F33F86F=~z~来我车行拿辆车。
+
+;0x43E58E73=~z~Bring them up to the Concourse.
+0x43E58E73=~z~送他们去Concourse。
+
+;0x4684BF90=~z~On my way, cousin.
+0x4684BF90=~z~我来了，堂兄。
+
+;0x473C40FB=~z~Okay, cousin. I'll do it now.
+0x473C40FB=~z~好的，堂兄。我这就去。
+
+;0x47CD1E6D=R8_YA
+0x47CD1E6D=R8_YA
+
+;0x489D206A=~z~East Island City is where they're heading.
+0x489D206A=~z~他们要去East Island City。
+
+;0x48AF8D60=100100010100100010100100
+0x48AF8D60=100100010100100010100100
+
+;0x49543882=R8_KA
+0x49543882=R8_KA
+
+;0x495B285F=100
+0x495B285F=100
+
+;0x4961A67E=~z~Hey Roman, something's come up. I'm not going to be able to help you out with the fare anymore.
+0x4961A67E=~z~喂，Roman，我突然有点事。不能帮你去接单了。
+
+;0x49B125FE=100
+0x49B125FE=100
+
+;0x4B2A54DF=~z~You are an absolute star, Niko. Come get a cab from the depot.
+0x4B2A54DF=~z~你绝对会是个新星，Niko。来车行拿辆车。
+
+;0x4C3A064B=100
+0x4C3A064B=100
+
+;0x4D4D5F84=100
+0x4D4D5F84=100
+
+;0x4F7985DD=~z~Okay then.
+0x4F7985DD=~z~那好吧。
+
+;0x509A02D2=R8_RA
+0x509A02D2=R8_RA
+
+;0x51DED368=R8_BB
+0x51DED368=R8_BB
+
+;0x527794AD=R8_IA
+0x527794AD=R8_IA
+
+;0x53441620=R8_XA
+0x53441620=R8_XA
+
+;0x545E2993=~z~Okay, go over to Cerveza Heights to pick up the fare.
+0x545E2993=~z~好，去Cerveza Heights接上乘客。
+
+;0x55A5D70B=~z~They're waiting here, in Hove Beach.
+0x55A5D70B=~z~他们就等在这儿，就在Hove Beach。
+
+;0x55BD046A=100
+0x55BD046A=100
+
+;0x56403A23=~z~Can you drop them off at Rotterdam Hill?
+0x56403A23=~z~你能送他们去Rotterdam Hill吗？
+
+;0x5770E2F6=~z~Cousin, I'd like to help you out by taking a fare.
+0x5770E2F6=~z~堂兄，我想开出租帮你点忙。
+
+;0x57BC4DF0=100
+0x57BC4DF0=100
+
+;0x5819DB88=~z~Hopefully things will have picked up later.
+0x5819DB88=~z~希望待会儿会有单子。
+
+;0x58E3F052=~z~Niko, you are doing Bellic Enterprises proud. Come get a cab from the depot.
+0x58E3F052=~z~Niko，你要给Bellic集团长脸啊。来车行拿辆车。
+
+;0x59CFDC76=~z~I have a car already. I'll go do it now.
+0x59CFDC76=~z~车拿到了，这就出发。
+
+;0x5CF26C67=~z~Don't worry, I'm on it.
+0x5CF26C67=~z~别急，我这就去。
+
+;0x5D5AD730=~z~You need to pick them up in Downtown.
+0x5D5AD730=~z~你得去Downtown接他们。
+
+;0x5E339052=R8_JA
+0x5E339052=R8_JA
+
+;0x61345C45=~z~Sure, I've got a fare for you, but you need to get this one where they're going.
+0x61345C45=~z~当然了，是有单子给你，不过这回你可得把人送到喽。
+
+;0x61F4766F=~z~Consider it done.
+0x61F4766F=~z~应该是完成了。
+
+;0x62673D0D=100
+0x62673D0D=100
+
+;0x62D2086C=R8_SA
+0x62D2086C=R8_SA
+
+;0x6402AEEF=~z~Just call me whenever you want to take a fare. You can do as many as you like, Niko.
+0x6402AEEF=~z~等你想接单了就打给我。你想接几单接几单，Niko。
+
+;0x64C23972=010
+0x64C23972=010
+
+;0x651B9B01=010
+0x651B9B01=010
+
+;0x65D65F67=~z~Roman, man. I'm not going to be able to look after that fare. Sorry.
+0x65D65F67=~z~Roman，老哥，这单我接不了了。抱歉。
+
+;0x666D8DC3=~z~Bring them over to Meadow Hills station.
+0x666D8DC3=~z~送他们去Meadow Hills车站。
+
+;0x672F0B76=~z~They're over in Boulevard. Go pick them up.
+0x672F0B76=~z~他们在Boulevard。去接他们。
+
+;0x681278FB=~z~I'm already in one of your cars, I'll go collect them now.
+0x681278FB=~z~我已经在你的车上了，现在就去接他们。
+
+;0x6D67CDB6=R8_GA
+0x6D67CDB6=R8_GA
+
+;0x6DAF2EE2=~z~You're taking them to Bohan Industrial.
+0x6DAF2EE2=~z~然后带他们去Bohan Industrial。
+
+;0x6EC31C10=~z~I would only love you more if you had titties, Niko! Come get a cab from the depot.
+0x6EC31C10=~z~要是你有胸我就更爱你了，Niko！来车行拿辆车。
+
+;0x6F86F8EA=~z~You can collect a cab from the depot, but Niko, you should know that you messing these fares up is really bad for business.
+0x6F86F8EA=~z~你可以去车行拿车，不过Niko，你要知道你的恶劣行为会影响公司名誉。
+
+;0x72B6F169=R8_A_GA
+0x72B6F169=R8_A_GA
+
+;0x73304D4A=~z~There are always more customers.
+0x73304D4A=~z~客户总是有很多的。
+
+;0x7398FAEC=~z~Cousin, I'm sorry about this but I can't do that job anymore.
+0x7398FAEC=~z~堂兄，很不好意思，这活我暂时做不了了。
+
+;0x743CB8C0=~z~The call came from South Slopes.
+0x743CB8C0=~z~顾客人在South Slopes。
+
+;0x749F2C08=100
+0x749F2C08=100
+
+;0x765AD994=~z~I couldn't get them there, Roman. I hope this fuck up doesn't affect your business.
+0x765AD994=~z~人我没能送到，Roman。希望我这次搞砸不会影响你的生意。
+
+;0x768CCC67=~z~They're going to Willis.
+0x768CCC67=~z~他们要去Willis。
+
+;0x78D52430=~z~Sure, Roman. I'm doing it.
+0x78D52430=~z~好的，Roman。我来了。
+
+;0x78EB338E=100
+0x78EB338E=100
+
+;0x7D89B99D=~z~Of course, Niko. Come get a cab from the depot.
+0x7D89B99D=~z~当然，Niko。来车行拿辆车。
+
+;0x7DF395ED=R8_VA
+0x7DF395ED=R8_VA
+
+;0x7E62B595=~z~Their destination is Meadows Park.
+0x7E62B595=~z~他们的目的地是Meadows Park。
+
+;0x7E789CDC=R8_A_FA
+0x7E789CDC=R8_A_FA
+
+;0x7F2A3655=~z~Pick them up from Beechwood City.
+0x7F2A3655=~z~去Beechwood City接他们。
+
+;0x80F61FB5=R8_A_OA
+0x80F61FB5=R8_A_OA
+
+;0x8203B81F=~z~Roman, you got any fares for me?
+0x8203B81F=~z~Roman，有单子给我接吗？
+
+;0x83E3B4C7=~z~You've got to pick them up in Northern Gardens.
+0x83E3B4C7=~z~你要去Northern Gardens接他们。
+
+;0x86957A09=~z~I've let Bellic Enterprises down, I couldn't complete the fare. Sorry.
+0x86957A09=~z~我让Bellic集团失望了，我没能完成任务。抱歉。
+
+;0x86EA36AA=100
+0x86EA36AA=100
+
+;0x8995D94E=R8_EA
+0x8995D94E=R8_EA
+
+;0x8CFB33C4=~z~You are truly a Bellic, thank you cousin. Speak soon.
+0x8CFB33C4=~z~真不愧是Bellic家的人，谢谢你，堂弟。待会再联系。
+
+;0x8D914F3A=~z~Hey Roman, how about I drive someone for you?
+0x8D914F3A=~z~喂 Roman，要不要我替你去拉个人？
+
+;0x8E3C361C=~z~Sure, you can come get a cab from the depot - if you promise to do this right?
+0x8E3C361C=~z~当然，你可以来车行拿车－只要你确保这次不乱搞就成。
+
+;0x90A2519B=R8_AG
+0x90A2519B=R8_AG
+
+;0x90AE5564=~z~Roman, are there any fares going?
+0x90AE5564=~z~Roman，有没有单子好接的？
+
+;0x9111F4DE=~z~I got them where they wanted to go.
+0x9111F4DE=~z~人已经送到目的地了。
+
+;0x93860DF1=~z~Niko, now that you've settled into life in Liberty City,
+0x93860DF1=~z~Niko，现在你已经适应了自由城的生活了，
+
+;0x93DCD02A=100
+0x93DCD02A=100
+
+;0x96E70E31=100
+0x96E70E31=100
+
+;0x9841176B=~z~I was wondering if you could start to help your cousin with the family business?
+0x9841176B=~z~我在想你能不能帮助下你堂兄的家族事业？
+
+;0x98DC9F1D=~z~I thought all I'd been doing since I got here was helping you out.
+0x98DC9F1D=~z~我咋觉得我来这儿以后一直都在帮你呢。
+
+;0x99CC2DED=R8_A_HA
+0x99CC2DED=R8_A_HA
+
+;0x9BA68A13=~z~They're safely dropped off, Roman.
+0x9BA68A13=~z~人都安全送到了，Roman。
+
+;0x9BE4E908=R8_AF
+0x9BE4E908=R8_AF
+
+;0x9DEB6256=~z~The fare is over in Outlook.
+0x9DEB6256=~z~乘客在Outlook。
+
+;0x9DFD84BB=R8_A_RA
+0x9DFD84BB=R8_A_RA
+
+;0x9E745528=010
+0x9E745528=010
+
+;0xA0DE903F=~z~No one's perfect. Call again if you're serious about driving a cab for me.
+0xA0DE903F=~z~人无完人。你要是真想开出租就再打给我。
+
+;0xA215C304=100
+0xA215C304=100
+
+;0xA21C6F8C=~z~Cousin, I just sent out my last cab, I'm sorry. Maybe if you try later.
+0xA21C6F8C=~z~堂弟，我刚把最后一辆车派出去，不好意思。要么你待会儿再问吧。
+
+;0xA2D2131F=~z~The fare is in South Bohan.
+0xA2D2131F=~z~乘客在South Bohan。
+
+;0xA3E87BD8=~z~Roman, I'm doing my bit for Bellic Enterprises. Does anyone need to be picked up?
+0xA3E87BD8=~z~Roman，我想给Bellic集团尽一份力。有没有需要我去接的人？
+
+;0xA405501A=R8_A_KA
+0xA405501A=R8_A_KA
+
+;0xA47F8A9D=~z~You have to pick them up on Firefly Island.
+0xA47F8A9D=~z~你得去Firefly Island接他们。
+
+;0xA67E3A60=~z~You have, you have, but I mean officially.
+0xA67E3A60=~z~确实是，确实是，不过这次是正经的那种。
+
+;0xA844BD63=~z~The fare didn't get where they wanted to go. Sorry Roman.
+0xA844BD63=~z~人没能送到目的地。对不起，Roman。
+
+;0xA9465C94=R8_LA
+0xA9465C94=R8_LA
+
+;0xA9FC3AE1=~z~I thought all I'd been doing since I got here was helping you out.
+0xA9FC3AE1=~z~我咋觉得我来这儿以后一直都在帮你呢。
+
+;0xAC4841B9=010
+0xAC4841B9=010
+
+;0xAC7B8C3D=R8_AC
+0xAC7B8C3D=R8_AC
+
+;0xADE32E8C=~z~It's done, Roman.
+0xADE32E8C=~z~搞定了，Roman。
+
+;0xAFB544AF=100
+0xAFB544AF=100
+
+;0xB0DDCBD9=~z~You need to pick them up in Outlook, next to the park.
+0xB0DDCBD9=~z~你得去Outlook接他们，公园边上。
+
+;0xB14F5002=~z~Niko, now that you've settled into life in Liberty City,
+0xB14F5002=~z~Niko，现在你已经适应了自由城的生活了，
+
+;0xB3F58EC9=100
+0xB3F58EC9=100
+
+;0xB507C112=~z~Go to Bohan Industrial to pick them up, cousin.
+0xB507C112=~z~去Bohan Industrial接他们，堂弟。
+
+;0xB6A0BBC3=~z~This is not so good for Bellic Enterprises. Call again if you want to help the family company.
+0xB6A0BBC3=~z~这对Bellic集团可不太好。你要是想帮家里开的公司就再打给我。
+
+;0xB70340CC=~z~That fare is taken care of, Roman.
+0xB70340CC=~z~这单我搞定了，Roman。
+
+;0xB951B393=R8_A_IA
+0xB951B393=R8_A_IA
+
+;0xBA3F48E9=100
+0xBA3F48E9=100
+
+;0xBA54EBE2=R8_FA
+0xBA54EBE2=R8_FA
+
+;0xBA95DC14=~z~You have, you have, but I mean officially.
+0xBA95DC14=~z~确实是，确实是，不过这次是正经的那种。
+
+;0xBB0AFC04=010
+0xBB0AFC04=010
+
+;0xBB7FD55E=~z~They want to be picked up in Little Bay.
+0xBB7FD55E=~z~他们想让你去Little Bay接他们。
+
+;0xBBDAA5AF=R8_AB
+0xBBDAA5AF=R8_AB
+
+;0xBBFB20CB=~z~Don't worry, Roman. I've already got a cab. I'll go straight there.
+0xBBFB20CB=~z~别担心，Roman。车我已经有了。这就去。
+
+;0xBD5A1624=R8_A_DA
+0xBD5A1624=R8_A_DA
+
+;0xBE290ABC=100
+0xBE290ABC=100
+
+;0xBE57E398=~z~I need more drivers for the cab company. I'll pay you properly.
+0xBE57E398=~z~我的的士公司需要更多司机。工资我会照给的。
+
+;0xBF553108=R8_AB
+0xBF553108=R8_AB
+
+;0xC0F2EDC4=100
+0xC0F2EDC4=100
+
+;0xC1332D34=R8_AH
+0xC1332D34=R8_AH
+
+;0xC31DF39F=~z~I was wondering if you could start to help your cousin with the family business?
+0xC31DF39F=~z~我在想你能不能帮助下你堂兄的家族事业？
+
+;0xC760E7C7=100100
+0xC760E7C7=100100
+
+;0xC958E577=~z~I've done my bit for Bellic Enterprises, cousin.
+0xC958E577=~z~我已经为Bellic集团尽了一份力了，堂兄。
+
+;0xCA0F3975=R8_A_AA
+0xCA0F3975=R8_A_AA
+
+;0xCBCC85D4=~z~Bring them to Fortside.
+0xCBCC85D4=~z~送他们去Fortside。
+
+;0xCCD80D38=R8_TA
+0xCCD80D38=R8_TA
+
+;0xCCD9AB13=R8_A_NA
+0xCCD9AB13=R8_A_NA
+
+;0xCCDD6E9D=~z~You're driving them to Schottler.
+0xCCDD6E9D=~z~把他们送到Schottler。
+
+;0xCD80D5F0=~z~They're going to Boulevard.
+0xCD80D5F0=~z~他们要去Boulevard。
+
+;0xCE3FCCA9=R8_AG
+0xCE3FCCA9=R8_AG
+
+;0xD0941899=100
+0xD0941899=100
+
+;0xD14FD61D=R8_AA
+0xD14FD61D=R8_AA
+
+;0xD3C03CAA=~z~Take them to Cerveza Heights.
+0xD3C03CAA=~z~带他们去Cerveza Heights。
+
+;0xD68E488A=R8_DA
+0xD68E488A=R8_DA
+
+;0xDE2E3C64=100
+0xDE2E3C64=100
+
+;0xE1D2707E=R8_AC
+0xE1D2707E=R8_AC
+
+;0xE2C9326F=~z~Sorry Roman, but something went wrong with the fare. I couldn't get them there.
+0xE2C9326F=~z~抱歉，Roman，不过这单出了点岔子。我没能把他们送到地方。
+
+;0xE37D345D=~z~There are always more customers.
+0xE37D345D=~z~客户总是有很多的。
+
+;0xE42CA564=100
+0xE42CA564=100
+
+;0xE4446857=R8_WA
+0xE4446857=R8_WA
+
+;0xE633F8CC=R8_BA
+0xE633F8CC=R8_BA
+
+;0xE6617C49=100
+0xE6617C49=100
+
+;0xE8044E96=~z~Niko, you make my life so much easier. Thank you. Call me if you want more work.
+0xE8044E96=~z~Niko，有你在我日子轻松多了。谢谢你。还想接单就打过来。
+
+;0xE97DDCFA=R8_OA
+0xE97DDCFA=R8_OA
+
+;0xEAFD5A12=R8_PA
+0xEAFD5A12=R8_PA
+
+;0xEB81D9AC=100
+0xEB81D9AC=100
+
+;0xEBD50054=R8_UA
+0xEBD50054=R8_UA
+
+;0xEC5383FD=~z~Sorry, Niko. No one is looking for cabs at the moment. Call later.
+0xEC5383FD=~z~抱歉，Niko。现在还没人叫车。待会儿再打过来吧。
+
+;0xF044CDEC=~z~Okay then.
+0xF044CDEC=~z~那行吧。
+
+;0xF0EB9474=R8_AE
+0xF0EB9474=R8_AE
+
+;0xF3AF1E1B=R8_AD
+0xF3AF1E1B=R8_AD
+
+;0xF47E6305=~z~Niko, you are a good cousin. I was hoping that you would start to help me.
+0xF47E6305=~z~Niko堂弟你真好。我是有想过你会来帮我。
+
+;0xF4BABC3A=~z~Alright, man. I took care of that fare for you.
+0xF4BABC3A=~z~好了，老哥，这单已经搞定了。
+
+;0xF4F492C1=~z~Roman, come on, I have a car already. I will go straight to get them.
+0xF4F492C1=~z~Roman，别这样，车我已经有了。我直接去接他们了。
+
+;0xF5C5EA19=~z~You are truly a Bellic, thank you cousin. Speak soon.
+0xF5C5EA19=~z~真不愧是Bellic家的人，谢谢你，堂弟。待会再联系。
+
+;0xF78217A3=100
+0xF78217A3=100
+
+;0xFA0FD8FB=100
+0xFA0FD8FB=100
+
+;0xFCB101B5=100
+0xFCB101B5=100
+
+;0xFD4C2C35=R8_AF
+0xFD4C2C35=R8_AF
+
+;0xFD74263E=~z~There aren't any fares at the moment, Niko. You should call back later.
+0xFD74263E=~z~现在没有单子，Niko。你过会儿再打回来吧。
+
+;0xFDBE68DF=~z~Just call me whenever you want to take a fare. You can do as many as you like, Niko.
+0xFDBE68DF=~z~等你想接单了就打给我。你想接几单接几单，Niko。
+
+;0xFDC8156E=~z~Come get a cab from the depot, Niko. Please don't mess this up.
+0xFDC8156E=~z~那你来车行拿车吧，Niko。求你这次别乱搞了。
+
+;0xFE6028B6=R8_MA
+0xFE6028B6=R8_MA
+
+;0xFF1F50EF=~z~Cousin, they have been dropped off.
+0xFF1F50EF=~z~堂兄，人都送到了。
+

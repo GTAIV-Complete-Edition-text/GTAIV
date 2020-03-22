@@ -1,0 +1,52 @@
+﻿[WI_JEF2]
+;0x1085D6E6=Get back in ~B~Jeff's car.
+0x1085D6E6=回到~B~Jeff的车~s~上。
+
+;0x18C99BD1=Get back to ~b~Jeff's car~s~ and finish the job.
+0x18C99BD1=回到~b~Jeff的车~s~上，完成工作。
+
+;0x1E1F7219=Dump the car in water.
+0x1E1F7219=把车开入水中。
+
+;0x22CFFBCA=~b~Jeff: ~s~ has been killed
+0x22CFFBCA=~b~Jeff~s~被杀了。
+
+;0x2687B74D=Enter the ~y~car park~s~ and wait for Jeff to arrive.
+0x2687B74D=进入~y~停车场~s~等待Jeff到达。
+
+;0x34C51F68=Go and speak with ~b~Jeff.
+0x34C51F68=上前与~b~Jeff~s~交谈。
+
+;0x4245BA69=Take the car up to ~y~Walnut Way~s~ where it is quiet and dump it in the water.
+0x4245BA69=开车前往人烟稀少的~y~Walnut路，~s~把车丢到水里。
+
+;0x478544E8=You are too far away from ~b~Jeff.~s~ Make sure he is close so you can interact with him.
+0x478544E8=你离~b~Jeff~s~太远了，靠近并确保能与他互动。
+
+;0x494E7CDA=The body has been disposed of successfully.
+0x494E7CDA=尸体已被成功处理。
+
+;0x95460738=When a car is traveling at high speed, press ~PAD_Y~ to jump from the vehicle.
+0x95460738=在车辆高速行驶时，按~PAD_Y~跳车。
+
+;0x96259653=You have been spotted. Lose your wanted level.
+0x96259653=你被发现了，降低你的通缉度。
+
+;0xA4103228=Enter ~b~Jeff's car.
+0xA4103228=进入~b~Jeff的车。
+
+;0xC5977536=Lose your wanted level.
+0xC5977536=降低你的通缉度。
+
+;0xDC42A288=~r~The car was trashed. The body will be found.~s~
+0xDC42A288=~r~车毁了，尸体会被发现的。~s~
+
+;0xEC100DFB=Wait here until Jeff arrives.
+0xEC100DFB=等待Jeff到达。
+
+;0xF2ABCF5E=~r~Too much attention was drawn to the vehicle.~s~
+0xF2ABCF5E=~r~这辆车吸引了太多的注意力。~s~
+
+;0xF9C2A960=~r~Jeff was abandoned.~s~
+0xF9C2A960=~r~Jeff被抛弃了。~s~
+

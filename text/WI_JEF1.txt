@@ -1,0 +1,91 @@
+﻿[WI_JEF1]
+;0x0A18B0C0=She's slowing down. Get ready to park up.
+0x0A18B0C0=她正在减速，准备停车。
+
+;0x11B82CA5=Press ~INPUT_PHONE_ACCEPT~ to select the phone's main menu.
+0x11B82CA5=按下~INPUT_PHONE_ACCEPT~来选择手机主菜单。
+
+;0x21DA748B=She's slowing down. Get ready to park up. Keep her in sight but don't get too close.
+0x21DA748B=她正在减速，准备停车。确保她在视野内，注意保持距离。
+
+;0x2E7886D7=~s~Leave the Superstar Cafe.
+0x2E7886D7=~s~离开Superstar Cafe。
+
+;0x32FB16F8=~b~Jeff~s~ has been added to your phonebook contacts.
+0x32FB16F8=~b~Jeff~s~已经被添加至你的手机通讯录。
+
+;0x33817037=To take a picture with your phone you will need to access the phone's main menu. Press ~INPUT_PHONE_TAKE_OUT~ to activate the phone.
+0x33817037=从手机的主菜单中可以启动相机，按~INPUT_PHONE_TAKE_OUT~拿出手机。
+
+;0x3B9F2124=Find the ~r~couple.~s~
+0x3B9F2124=找到那对~r~狗男女。~s~
+
+;0x3F8EB047=Follow ~r~Jeff's wife.
+0x3F8EB047=跟踪~r~Jeff的妻子。
+
+;0x44B4B34B=~r~Jeff's wife and her friend are dead.~s~
+0x44B4B34B=~r~Jeff的妻子和她的朋友死了。~s~
+
+;0x4F2EC83F=Here they come.
+0x4F2EC83F=他们来了。
+
+;0x51C254AE=~r~Jeff's wife realized she was being followed.~s~
+0x51C254AE=~r~Jeff的妻子意识到自己被跟踪了。~s~
+
+;0x58AEE949=Use ~PAD_LSTICK_ALL~ to move the camera. Zoom in and out using ~PAD_RSTICK_UPDOWN~. Press ~INPUT_PHONE_ACCEPT~ to capture an image. When taking a photo of a person make sure you get a clear shot of their face.
+0x58AEE949=用~PAD_LSTICK_ALL~移动相机，用~PAD_RSTICK_UPDOWN~进行缩放。按~INPUT_PHONE_ACCEPT~拍照。拍人时确保能拍到脸。
+
+;0x5D3AE457=~r~Jeff's wife's friend is dead.~s~
+0x5D3AE457=~r~Jeff妻子的朋友死了~s~
+
+;0x63FB7920=Keep your distance. You're too close.
+0x63FB7920=保持距离，你靠得太近了。
+
+;0x6AD1BB9A=~r~The couple realized they were being followed.~s~
+0x6AD1BB9A=~r~这对狗男女意识到自己被跟踪了。~s~
+
+;0x762C1D81=Follow ~r~Jeff's wife~s~ but don't get too close.
+0x762C1D81=跟踪~r~Jeff的妻子，~s~但不要靠得太近。
+
+;0x78902249=Stay out of sight. Don't let them get suspicious.
+0x78902249=待在他们的视线外，别让他们起疑。
+
+;0x82BD000C=Once the picture has been sent, wait a short moment for a reply.
+0x82BD000C=发送照片后等待回复。
+
+;0x9185CCF0=Enter the Superstar Cafe and find the ~r~couple.~s~
+0x9185CCF0=进入Superstar Cafe找到那对~r~狗男女。~s~
+
+;0x9F35684F=~r~Jeff's wife didn't get caught.~s~
+0x9F35684F=~r~Jeff的老婆没有被抓到现行。~s~
+
+;0x9FE6547B=Obtain a clear shot of both faces.
+0x9FE6547B=把两人的脸都清楚拍下。
+
+;0xB513E4B9=Press ~INPUT_PHONE_ACCEPT~ to send the picture to a contact.
+0xB513E4B9=按~INPUT_PHONE_ACCEPT~将照片发给联系人。
+
+;0xB81A1A1C=~r~Jeff is dead.~s~
+0xB81A1A1C=~r~Jeff死了~s~
+
+;0xC6B3374E=You have been spotted.
+0xC6B3374E=你被发现了。
+
+;0xD85339DC=From the menu scroll down and select ~h~Camera.~s~ Activate the camera by pressing ~INPUT_PHONE_ACCEPT~.
+0xD85339DC=在菜单中下移选中~h~相机。~s~按~INPUT_PHONE_ACCEPT~启动相机。
+
+;0xE9CA04A3=Take a picture of the ~r~couple.
+0xE9CA04A3=拍下那对~r~狗男女。
+
+;0xEB0A8DFE=Press ~INPUT_PHONE_ACCEPT~ to capture an image on screen.
+0xEB0A8DFE=按~INPUT_PHONE_ACCEPT~拍照。
+
+;0xEBC68174=~r~Jeff's wife is dead.~s~
+0xEBC68174=~r~Jeff的妻子死了。~s~
+
+;0xFB3D2E63=Use ~PAD_RSTICK_ALL~ to move the camera. Zoom in and out using ~PAD_LSTICK_UPDOWN~. Press ~INPUT_PHONE_ACCEPT~ to capture an image. When taking a photo of a person make sure you get a clear shot of their face.
+0xFB3D2E63=用~PAD_LSTICK_ALL~移动相机，用~PAD_RSTICK_UPDOWN~进行缩放。按~INPUT_PHONE_ACCEPT~拍照。拍人时确保能拍到脸。
+
+;0xFC07291D=They are going inside the cafe, wait until they reach the bar and take a photo of the ~r~couple.~s~ Don't get too close.
+0xFC07291D=他们要进入咖啡厅了，等他们到达吧台后并拍下那对~r~狗男女。~s~别靠太近。
+

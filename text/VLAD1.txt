@@ -1,0 +1,145 @@
+﻿[VLAD1]
+;0x0CB2C7A3=~s~Press ~INPUT_MELEE_ATTACK2~ or ~INPUT_MELEE_ATTACK3~ to perform a melee attack.
+0x0CB2C7A3=~s~按~INPUT_MELEE_ATTACK2~或~INPUT_MELEE_ATTACK3~进行近战攻击。
+
+;0x0D68F848=~r~Vlad is dead.
+0x0D68F848=~r~Vlad死了。
+
+;0x116C3636=~s~Throw something through the ~r~window~s~ to show the owner you're serious.
+0x116C3636=~s~找东西砸碎~r~窗玻璃~s~让店主知道你没在开玩笑。
+
+;0x13046B31=~s~Get to the ~b~owner.
+0x13046B31=~s~去找~b~店主。
+
+;0x14E2D7FF=~s~Smash the ~r~vases.
+0x14E2D7FF=~s~砸烂~r~花瓶。
+
+;0x16E71E7F=~s~Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim.
+0x16E71E7F=~s~用~INPUT_AIM~和~PAD_RSTICK_ALL~瞄准。
+
+;0x19FC0135=~s~When on foot press ~INPUT_PICKUP~ to hail a cab.
+0x19FC0135=~s~步行时按~INPUT_PICKUP~叫车。
+
+;0x1A8F635C=~s~Press R3 to look behind.
+0x1A8F635C=~s~按R3向后看。
+
+;0x1AE504EA=~s~Hold ~INPUT_AIM~ to auto aim and use ~PAD_RSTICK_ALL~ to change targets.
+0x1AE504EA=~s~按住~INPUT_AIM~自动瞄准，使用~PAD_RSTICK_ALL~切换目标。
+
+;0x2279732C=~s~Press and hold ~INPUT_AIM~ to target the ~r~vases.
+0x2279732C=~s~按住~INPUT_AIM~来瞄准~r~花瓶。
+
+;0x22B058BE=~s~Beat up the ~r~son.
+0x22B058BE=~s~把~r~店主儿子~s~痛扁一顿。
+
+;0x3176301D=~s~Hold ~INPUT_ENTER~ to enter a cab as a passenger.
+0x3176301D=~s~按住~INPUT_ENTER~作为乘客进入的士。
+
+;0x317BF759=~s~Collect the ~b~money~s~ and take it back to Vlad.
+0x317BF759=~s~把~b~钱~s~带回去给Vlad。
+
+;0x3451FC01=~s~Convince the ~b~owner~s~ to pay.
+0x3451FC01=~s~说服~b~店主~s~付钱。
+
+;0x34CBB377=~s~Hold ~INPUT_AIM~ to auto aim. Half hold ~INPUT_AIM~ to free aim. Use ~PAD_RSTICK_ALL~ to aim.
+0x34CBB377=~s~按住~INPUT_AIM~可以自动瞄准，轻按~INPUT_AIM~可以自由瞄准。使用~PAD_RSTICK_ALL~瞄准。
+
+;0x3CADCCCC=~s~Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to target the ~r~son.
+0x3CADCCCC=~s~使用~INPUT_AIM~和~PAD_RSTICK_ALL~瞄准~r~店主儿子。
+
+;0x4728BC8E=~s~Press ~INPUT_NEXT_WEAPON~ cycle through available weapons. Equip your baseball bat.
+0x4728BC8E=~s~按~INPUT_NEXT_WEAPON~可以切换你的武器。装备你的棒球棍。
+
+;0x473EDEB9=~s~Hold ~INPUT_AIM~ and use ~PAD_RSTICK_ALL~ to free aim.
+0x473EDEB9=~s~按住~INPUT_AIM~后使用~PAD_RSTICK_ALL~来自由瞄准。
+
+;0x538EB402=~s~Get the cash from the ~b~owner.
+0x538EB402=~s~去~b~店主~s~那把钱要过来。
+
+;0x58337DA3=~s~A cab's been hailed.
+0x58337DA3=~s~你叫了一辆的士。
+
+;0x5980033B=~s~Press and release ~INPUT_ATTACK~ to throw. The longer you hold ~INPUT_ATTACK~ the further you will throw.
+0x5980033B=~s~按下~INPUT_ATTACK~后松开进行投掷。~INPUT_ATTACK~按得越久，扔得越远。
+
+;0x5BB9CAD0=~s~The shop is locked.
+0x5BB9CAD0=~s~商店门锁了。
+
+;0x5F721D62=~s~The open palm icon shows that you have an object in your hand that can be thrown.
+0x5F721D62=~s~展开的手掌图标表示你手里有可以投掷的物品。
+
+;0x6E016F5F=~s~Go to the ~y~shop.
+0x6E016F5F=~s~前往~y~商店。
+
+;0x7285C385=~s~Press ~INPUT_PICKUP~ to pick up an object. Only small objects can be picked up.
+0x7285C385=~s~按~INPUT_PICKUP~捡起物品。只有小件物品才能捡起来。
+
+;0x76A4BA89=~s~You can get a cab to take you around the city.
+0x76A4BA89=~s~你可以叫辆的士在城市中往返。
+
+;0x7F8DB7CE=~s~Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to free aim.
+0x7F8DB7CE=~s~使用~INPUT_AIM~和~PAD_RSTICK_ALL~来自由瞄准。
+
+;0x8460673A=~s~Throw the object through the ~r~window~s~ to show the owner you're serious.
+0x8460673A=~s~砸碎~r~窗玻璃~s~让店主知道你没在开玩笑。
+
+;0x92EB044F=~s~Hold ~INPUT_AIM~ to target the ~r~son.
+0x92EB044F=~s~按住~INPUT_AIM~来瞄准~r~店主儿子。
+
+;0x98D166BC=~s~Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to target the ~r~vases.
+0x98D166BC=~s~使用~INPUT_AIM~和~PAD_RSTICK_ALL~来瞄准~r~花瓶。
+
+;0xA3071520=~s~Press ~INPUT_AIM~ to free aim. Use ~PAD_RSTICK_ALL~ to aim.
+0xA3071520=~s~按~INPUT_AIM~自由瞄准，使用~PAD_RSTICK_ALL~来瞄准。
+
+;0xA5783C40=~s~Use ~INPUT_AIM~ to enter free aim. Use ~PAD_RSTICK_ALL~ to aim at targets.
+0xA5783C40=~s~使用~INPUT_AIM~自由瞄准。使用~PAD_RSTICK_ALL~瞄准目标。
+
+;0xB83683CC=~s~Take the money back to ~y~Vlad.
+0xB83683CC=~s~把钱带回去给~y~Vlad。
+
+;0xBD9559A3=~s~Press ~INPUT_MELEE_ATTACK2~ or ~INPUT_MELEE_ATTACK3~ to perform a melee attack.
+0xBD9559A3=~s~按~INPUT_MELEE_ATTACK2~或~INPUT_MELEE_ATTACK3~进行近战攻击。
+
+;0xC8945F9A=~s~Convince the ~b~owner~s~ to pay.
+0xC8945F9A=~s~说服~b~店主~s~付钱。
+
+;0xD2910471=~s~Take the money back to ~y~Vlad.
+0xD2910471=~s~把钱带回去给~y~Vlad。
+
+;0xD57D0B6B=~r~Vlad is dead.
+0xD57D0B6B=~r~Vlad死了。
+
+;0xDBBA4AD3=~s~Now smash the other ~r~window.
+0xDBBA4AD3=~s~现在把另一块~r~窗玻璃~s~砸了。
+
+;0xDC0B958A=~r~The shop owner's son is dead.
+0xDC0B958A=~r~店主的儿子死了。
+
+;0xDF0687EA=~s~Press and release ~INPUT_ATTACK~ to throw. The longer you hold ~INPUT_ATTACK~ the further you will throw.
+0xDF0687EA=~s~按下~INPUT_ATTACK~后松开可以进行投掷。~INPUT_ATTACK~按得越久，扔得越远。
+
+;0xE4485E3A=~s~Make peace with the ~b~owner.
+0xE4485E3A=~s~与~b~店主~s~讲和。
+
+;0xE4788C00=~s~Use ~INPUT_AIM~ to aim.
+0xE4788C00=~s~使用~INPUT_AIM~瞄准。
+
+;0xEA9FE89E=~s~Make peace with the ~b~owner.
+0xEA9FE89E=~s~与~b~店主~s~讲和。
+
+;0xEBAA37C5=~r~The shop owner is dead.
+0xEBAA37C5=~r~店主死了。
+
+;0xEEB56FB5=~s~Go to the ~y~shop.
+0xEEB56FB5=~s~前往~y~商店。
+
+;0xF552C818=~r~The shop owner is dead.
+0xF552C818=~r~店主死了。
+
+;0xF7C6CE0D=~s~Find ~g~something~s~ to throw through the shop window.
+0xF7C6CE0D=~s~找点~g~东西~s~把橱窗砸烂。
+
+;0xFF3391C5=~s~Get the money from the ~b~owner.
+0xFF3391C5=~s~向~b~店主~s~要钱。
+

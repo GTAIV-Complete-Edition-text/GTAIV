@@ -1,0 +1,40 @@
+﻿[TRKBURN]
+;0x0D60F9A0=~s~Trigger the bomb.
+0x0D60F9A0=~s~引爆炸弹。
+
+;0x1EA39C25=~s~Press ~INPUT_PICKUP~ to trigger the bomb.
+0x1EA39C25=~s~按~INPUT_PICKUP~引爆炸弹。
+
+;0x32ED05F3=~r~The truck has been destroyed.
+0x32ED05F3=~r~卡车被摧毁了。
+
+;0x4391DA11=~s~Park the truck inside the ~y~garage.
+0x4391DA11=~s~将卡车停到~y~车库~s~中。
+
+;0x45332A7F=~r~You have abandoned the truck.~s~
+0x45332A7F=~r~你抛弃了卡车。~s~
+
+;0x4A5D7394=~s~Drive to the ~y~garage.
+0x4A5D7394=~s~开车去~y~车库。
+
+;0x6DE33A9F=~s~Get in the ~b~truck.
+0x6DE33A9F=~s~进入~b~卡车。
+
+;0x7B6DC9C8=~s~Be careful, the ~b~truck~s~ can't take much more damage.
+0x7B6DC9C8=~s~当心，这辆~b~卡车~s~将无法承受更多损伤。
+
+;0x7F99DE0C=~s~Go to the old factory and find the ~b~truck.~s~
+0x7F99DE0C=~s~去旧工厂找到~b~卡车。~s~
+
+;0x8D446D75=~s~Be careful or the bomb will detonate.
+0x8D446D75=~s~小心行事，否则炸弹将会爆炸。
+
+;0x9A47877F=~s~Get out of the area.
+0x9A47877F=~s~离开这片区域。
+
+;0xB95E906C=Quicker flashes indicate the explosive is becoming more unstable.
+0xB95E906C=闪烁越快，表示爆炸物越不稳定。
+
+;0xEFECFD88=The flashing light on the back of the truck indicates its condition.
+0xEFECFD88=卡车后部闪烁的指示灯表示它的状况。
+

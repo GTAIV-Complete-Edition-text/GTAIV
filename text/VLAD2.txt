@@ -1,0 +1,31 @@
+﻿[VLAD2]
+;0x73774329=~r~The shop keeper is dead.
+0x73774329=~r~店主死了。
+
+;0x75209C81=Ram the shop keeper's ~R~van~s~ until he stops.
+0x75209C81=撞击店主的~R~面包车，~s~直到他停下来。
+
+;0x85B5E7A6=~r~The shop keeper got away.
+0x85B5E7A6=~r~店主逃走了。
+
+;0xC33A5F72=Press ~INPUT_PHONE_TAKE_OUT~ to display phone. Press ~INPUT_PHONE_ACCEPT~ to instantly read new message.
+0xC33A5F72=按~INPUT_PHONE_TAKE_OUT~拿出手机，按~INPUT_PHONE_ACCEPT~可以直接查看未读消息。
+
+;0xCC19F46D=Press ~INPUT_PHONE_ACCEPT~ and select Delete to wipe the message, or press and hold ~INPUT_PHONE_PUT_AWAY~ to exit.
+0xCC19F46D=按~INPUT_PHONE_ACCEPT~后选择「删除」可以删除短信，按~INPUT_PHONE_PUT_AWAY~退出。
+
+;0xD02E529B=Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the target vehicle.
+0xD02E529B=按住~INPUT_VEH_CIN_CAM~将镜头对准目标车辆。
+
+;0xD80D0C67=The envelope icon above the radar is displayed when you have a new text message. This will fade slightly when it is read.
+0xD80D0C67=小地图上方的信封图标表示你收到了短信，阅读后就会消失。
+
+;0xDE5E6EFB=Chase the ~r~shop keeper.
+0xDE5E6EFB=追上~r~店主。
+
+;0xF18F9551=Go to the ~y~laundromat.
+0xF18F9551=前往~y~自助洗衣店。
+
+;0xFFBE31AE=~r~The shop keeper was spooked and escaped out the front.
+0xFFBE31AE=~r~店主受到了惊吓，从前门逃跑了。
+

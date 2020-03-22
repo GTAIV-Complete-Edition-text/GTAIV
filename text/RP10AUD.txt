@@ -1,0 +1,619 @@
+﻿[RP10AUD]
+;0x00AD3E15=Rp10_A_JG
+0x00AD3E15=Rp10_A_JG
+
+;0x012974E1=RP10_A_SA
+0x012974E1=RP10_A_SA
+
+;0x012C72F3=Rp10_A_JB
+0x012C72F3=Rp10_A_JB
+
+;0x01DB300C=010
+0x01DB300C=010
+
+;0x0270B5BD=200
+0x0270B5BD=200
+
+;0x02CBF891=~z~The Patriot got liberated from its temporary owners. It's in the lockup now, man.
+0x02CBF891=~z~那辆Patriot从他的原主人地方解脱了。现在在车库里，兄弟。
+
+;0x04EBDA80=~z~Excellent, Niko. I'll tell Brucie the good news.
+0x04EBDA80=~z~很棒，Niko。我会告诉Brucie这个好消息的。
+
+;0x051E76E3=RP10_A_ZA
+0x051E76E3=RP10_A_ZA
+
+;0x05316CC6=~z~You ain't coming up on my ride, are you?
+0x05316CC6=~z~你丫该不会是冲着我的车来的吧？
+
+;0x07F3EA55=~z~Alright man, wanted to let you know that I'm not going to be able to get the bike.
+0x07F3EA55=~z~好吧兄弟，我打过来就是知会你一声，车送不到了。
+
+;0x09B1A6ED=~z~Whatever, Brucie. Tell me if there's something else you need.
+0x09B1A6ED=~z~随便来，Brucie。要是还要别的，跟我说一声。
+
+;0x0BF00D8E=~z~Hey man, the bike got trashed so it's not going to be delivered.
+0x0BF00D8E=~z~喂，兄弟，摩托废了，我就不送到你车库里了。
+
+;0x0C7524FB=~z~Thanks, Brucie. Let me know if there's something else you need.
+0x0C7524FB=~z~谢了，Brucie。要是还有什么想要的，就知会我一声。
+
+;0x0DED7639=~z~Go check your emails, Niko. Let's hang out soon, okay?
+0x0DED7639=~z~去看下你的邮箱，Niko。有空出去转转，行吧？
+
+;0x0E39C714=~z~You don't wanna make me angry homie!
+0x0E39C714=~z~你别想惹毛我，伙计！
+
+;0x0EDCC0FD=~z~This lady had a hard night. Go looking somewhere else for what you need.
+0x0EDCC0FD=~z~这姑娘晚上已经很累了。换个地方去找你要的人。(本文本应该是替BR偷车的任务 涉及女人的多为疑似BETA 后略 不标注)
+
+;0x10C9D9B6=~z~Okay, I'm going to tell Brucie. I think we were going to go out hunting for titties later anyway.
+0x10C9D9B6=~z~好的，我会跟Brucie说的。我觉得我们得待会儿再去把妹了。(疑似Roman说的话似乎也是BETA为主 后略 不标注)
+
+;0x10CD8A9E=RP10_A_RA
+0x10CD8A9E=RP10_A_RA
+
+;0x12AAE050=Rp10_A_JA
+0x12AAE050=Rp10_A_JA
+
+;0x130F0018=~z~I trucked that PMP 600 down to the lockup, man.
+0x130F0018=~z~那辆PMP 600我已经运到车库里了，兄弟。
+
+;0x1632BD4C=010
+0x1632BD4C=010
+
+;0x1633BD20=~z~You ain't getting no ransom for me.
+0x1633BD20=~z~你可别想问我要赎金。
+
+;0x17B72B6A=~z~Shit, I thought that was yours.
+0x17B72B6A=~z~操，我还以为那是你的人。
+
+;0x183D92F2=~z~You best be keeping away from my ride, bitch.
+0x183D92F2=~z~你最好离我的车远点，贱人。
+
+;0x196DB850=RP10_A_NA
+0x196DB850=RP10_A_NA
+
+;0x1ABF744D=Rp10_A_JE
+0x1ABF744D=Rp10_A_JE
+
+;0x1BE70DB4=~z~Shit man, the car got screwed up. Sorry.
+0x1BE70DB4=~z~操蛋，兄弟，车子已经烂了。抱歉。
+
+;0x1C4D7467=RP10_A_TA
+0x1C4D7467=RP10_A_TA
+
+;0x1DA595A9=~z~No, he can take care of that all by himself. Brucie is a major motor head.
+0x1DA595A9=~z~不是，那点事他自己就能办好。Brucie是个汽车贩子。
+
+;0x1FDC1198=RP10_A_PA
+0x1FDC1198=RP10_A_PA
+
+;0x20C162F4=~z~Winner! Hello!
+0x20C162F4=~z~赢家！你好！
+
+;0x20E6D286=~z~No way I'm gonna let you nab me, asshole.
+0x20E6D286=~z~我不会让你抓到我的，混蛋。
+
+;0x212719E1=~z~He going to pay me to pump him full of steroids and tell him how great his abs are?
+0x212719E1=~z~他是要付我钱让我给他打类固醇，再跟他吹他的腹肌有多猛吗？
+
+;0x2133BF41=500
+0x2133BF41=500
+
+;0x218AF136=100
+0x218AF136=100
+
+;0x218F8D05=Rp10_A_JB
+0x218F8D05=Rp10_A_JB
+
+;0x228D7D3D=~z~I'll pass on the news to Brucie. Thanks, Niko.
+0x228D7D3D=~z~我会把这消息告诉Brucie的。谢了，Niko。
+
+;0x229EF9B4=590
+0x229EF9B4=590
+
+;0x253A8297=~z~Shit, Niko. I'll go tell Brucie.
+0x253A8297=~z~操，Niko。我会去跟Brucie说的。
+
+;0x267E09F0=100
+0x267E09F0=100
+
+;0x26FADA06=~z~Alright then, man. Tell me if there's something else you want.
+0x26FADA06=~z~那就这样吧，兄弟。还有什么想要的就跟我说一声。
+
+;0x2AACF5A3=~z~Hell - yeah NB! Take that shit, just like we take the bitches we want in the clubs!
+0x2AACF5A3=~z~太他妈棒了，NB！拿去吧，就像我们在夜总会选婊子一样！
+
+;0x2C7F645E=010
+0x2C7F645E=010
+
+;0x2CBC412E=RP10_A_UA
+0x2CBC412E=RP10_A_UA
+
+;0x2DEF7E09=~z~Damn, I ain't gonna get paid for that job.
+0x2DEF7E09=~z~操，那辆车的工钱我拿不到了。
+
+;0x30D27029=~z~We're all booked up buddy, I can't wash shit for ya.
+0x30D27029=~z~我们这儿预订满了，伙计，洗不了你的车。
+
+;0x31F1BB76=~z~Go check your emails, Niko. Let's hang out soon, okay?
+0x31F1BB76=~z~去看下你的邮箱，Niko。有空出去转转，行吧？
+
+;0x32E8E1CD=~z~Hey, isn't that your ride?
+0x32E8E1CD=~z~嘿，那辆不是你的车吗？
+
+;0x33770B23=~z~The car is not going into the lockup, man. I couldn't get it.
+0x33770B23=~z~车我送不到了，兄弟。我失手了。
+
+;0x34C0BFCD=~z~Brucie will pay good for this, Niko. He loves spending money. I'll tell him the news.
+0x34C0BFCD=~z~Brucie会开个好价钱的，Niko。他就喜欢花钱。这好消息我会告诉他的。
+
+;0x34E69369=~z~The fuck you doin?
+0x34E69369=~z~你丫搞毛？
+
+;0x35304042=~z~Alright. The car got messed up, man. It ain't going in the lockup.
+0x35304042=~z~好了，车子毁了，兄弟。不会送到车库去了。
+
+;0x35566B50=100
+0x35566B50=100
+
+;0x35DED483=Rp10_A_JE
+0x35DED483=Rp10_A_JE
+
+;0x36678E40=~z~Look at that baby!
+0x36678E40=~z~瞧瞧它，宝贝！
+
+;0x38759134=~z~You're a fuckin alpha male man, you take what you need, and I love it!
+0x38759134=~z~你老哥可真他妈猛啊，你要的你拿走，我爱死它了！
+
+;0x39547EB9=~z~Yeah, Brucie. If you want another thing, tell me.
+0x39547EB9=~z~行吧，Brucie。你要是还要别的，跟我说一声。
+
+;0x39601D7C=~z~Not cool man.
+0x39601D7C=~z~不太行啊，兄弟。
+
+;0x3E7FD34B=~z~Good, Niko. I bet you receive a big man hug when Brucie next sees you. You're a lucky guy.
+0x3E7FD34B=~z~很好，Niko。我猜下次Brucie见着你准会给你一个大男人的拥抱。你可真走运。
+
+;0x3F0B119F=~z~Okay Brucie, I get the point. Tell me if you need something else.
+0x3F0B119F=~z~好了，Brucie，到地方了。你要是需要别的什么就跟我说。
+
+;0x428C5F76=~z~Niko, my friend Brucie has a business proposition for us.
+0x428C5F76=~z~Niko，我的朋友Brucie有一点业务提议给我们。
+
+;0x434CC2E0=RP10_A_YA
+0x434CC2E0=RP10_A_YA
+
+;0x43AA9369=~z~That's one way of putting it, Brucie. Tell me if you want something else.
+0x43AA9369=~z~这么说也行吧，Brucie。你要是还想要别的就跟我讲。
+
+;0x442CAC8E=~z~The car ain't going to be delivered, sorry man.
+0x442CAC8E=~z~车送不到了，抱歉兄弟。
+
+;0x44C3980F=~z~Hey, I'm trying to do a job. Would ya get lost?
+0x44C3980F=~z~嘿，我这儿忙着呢。你能不能待会儿来？
+
+;0x45032D49=~z~I'm all worn out, so don't go trying to make me do shit I ain't doing.
+0x45032D49=~z~我已经很累了，别让我做不想做的事。
+
+;0x46A6E32F=~z~Hey, I couldn't put the car in the lockup. It got trashed.
+0x46A6E32F=~z~喂，车送不到车库了，已经烂了。
+
+;0x46FCBB5B=400
+0x46FCBB5B=400
+
+;0x47997B98=Rp10_A_JF
+0x47997B98=Rp10_A_JF
+
+;0x48046783=Rp10_A_GA
+0x48046783=Rp10_A_GA
+
+;0x481ABAF1=~z~You European prick!
+0x481ABAF1=~z~你个欧洲屌人！
+
+;0x4875CED5=Rp10_A_JD
+0x4875CED5=Rp10_A_JD
+
+;0x49BF4BA0=~z~I'm going to let Brucie know. Here's hoping he's not too juiced on testosterone from bull sharks.
+0x49BF4BA0=~z~我会跟Brucie讲的。只能希望他牛鲨睾酮磕得不是太多了吧。
+
+;0x4A6F4DDB=~z~Shit, I hope we ain't liable for this.
+0x4A6F4DDB=~z~操，希望这个不会怪我们。
+
+;0x4B7CA581=~z~Buddy, I'm trying to wash this thing here.
+0x4B7CA581=~z~老哥，我是来这儿洗车的。
+
+;0x4C4672EA=~z~He going to pay me to pump him full of steroids and tell him how great his abs are?
+0x4C4672EA=~z~他是要付我钱让我给他打类固醇，再跟他吹他的腹肌有多猛吗？
+
+;0x4CE3C6B5=~z~The Intruder is tucked up safely in the lockup, man.
+0x4CE3C6B5=~z~那辆Intruder我扔你车库里了，兄弟。
+
+;0x4D77ABAB=~z~I ain't being kidnapped.
+0x4D77ABAB=~z~我可没被绑架。
+
+;0x4DE7FE46=~z~Get your cheap ass away from my ride, fool.
+0x4DE7FE46=~z~把你那贱屁股从我车上挪开，傻逼。
+
+;0x4DF1C018=~z~Alright man, getting that car proved to be a bit too difficult. Sorry.
+0x4DF1C018=~z~好吧兄弟，想弄到那辆车确实是有点难。抱歉。
+
+;0x4E1FBC88=~z~You make that shit look easy baby, you're a fuckin' animal!
+0x4E1FBC88=~z~你好像很轻松就搞到手了啊，宝贝，你丫他妈就是个猛兽！
+
+;0x4E367252=~z~Alright man, the car got trashed. I'm sorry.
+0x4E367252=~z~好了兄弟，车成渣了。我很抱歉。
+
+;0x4F657516=~z~Nice one. Brucie will be pleased.
+0x4F657516=~z~干得好，Brucie会很高兴的。
+
+;0x51488F3D=~z~Shit. Get me outta here, quick.
+0x51488F3D=~z~操，快带我出去，快。
+
+;0x51AC1905=~z~Man, this is bullshit. The bike is ruined. I'm not going to be able to get it to the lockup.
+0x51AC1905=~z~哥们，太糟了。摩托毁了，没法送到你车库里了。
+
+;0x54C53D13=~z~Chill the hell out, Brucie. It isn't a big deal. Let me know if you want something else.
+0x54C53D13=~z~你丫冷静点，Brucie。没什么大不了的。你要想要别的就跟我说。
+
+;0x55EF37F2=~z~Ummm, sure Brucie... sure. Just let me know if you want another thing.
+0x55EF37F2=~z~呃，行吧，Brucie...行吧。你要是还想要别的就跟我说一声。
+
+;0x57DCE8B6=~z~I was looking after that thing.
+0x57DCE8B6=~z~那家伙刚才我照看着呢。
+
+;0x59777DBC=Rp10_A_JC
+0x59777DBC=Rp10_A_JC
+
+;0x59BA09BF=~z~Shit, Niko. Brucie might start to like you more than he likes himself, and that's saying something.
+0x59BA09BF=~z~操，Niko。Brucie说不定爱你都要爱过他自己了，这什么意思就不用我说了吧。
+
+;0x5B88EF33=~z~Brucie will not be happy, but what the fuck. He'll just look in the mirror and forget about everything else in the world.
+0x5B88EF33=~z~Brucie不会高兴的，不过去他的吧。他只要看看镜子就会把剩下的事情都给忘了的。
+
+;0x5FE4D858=RP10_A_MA
+0x5FE4D858=RP10_A_MA
+
+;0x60A06575=~z~I wasn't able to get that car, man.
+0x60A06575=~z~车我没能弄到手，兄弟。
+
+;0x60C012AF=010
+0x60C012AF=010
+
+;0x6219EDCF=~z~What the fuck?
+0x6219EDCF=~z~搞毛？
+
+;0x62F8F748=Rp10_A_IA
+0x62F8F748=Rp10_A_IA
+
+;0x6329B795=010
+0x6329B795=010
+
+;0x63F97B0A=RP10_A_VA
+0x63F97B0A=RP10_A_VA
+
+;0x689646D9=~z~Shit man. The bike is trash. It's not going in the lockup.
+0x689646D9=~z~操，兄弟。车只剩个渣了。送不到车库了。
+
+;0x689E7D4C=600
+0x689E7D4C=600
+
+;0x69280FED=~z~All good, Niko. Not everyone can be as perfect as Brucie's abs. Can you believe he actually said that to me the other day?
+0x69280FED=~z~挺好的，Niko。不是所有人都能像Brucie的腹肌一样完美的。你敢信之前他跟我说过这种话吗？
+
+;0x69EB7719=~z~I ain't in the mood for no more nothing tonight. No matter how much you planning on paying me.
+0x69EB7719=~z~今晚我没心情做别的了。你再付我多少钱都不干。
+
+;0x6B72AD30=~z~I think that you and me are going to be Brucie's two favorite immigrants in this city. Good, cousin.
+0x6B72AD30=~z~我觉得咱俩都快成Brucie在这里最喜欢的移民了。很好，堂弟。
+
+;0x6C5183FB=RP10_A_KA
+0x6C5183FB=RP10_A_KA
+
+;0x6E6EB47B=~z~No, he can take care of that all by himself. Brucie is a major motor head.
+0x6E6EB47B=~z~不是，那点事他自己就能办好。Brucie是个汽车贩子。
+
+;0x726B8F92=~z~Don't push me man!
+0x726B8F92=~z~别逼我，哥们！
+
+;0x7542C0C8=~z~Look at you, Niko. I'm proud that you're doing so good for Brucie.
+0x7542C0C8=~z~瞧瞧你，Niko。你替Brucie干得这么好，我很骄傲。
+
+;0x754CC0E4=~z~Good, Niko. You've done well. I'm gonna let Brucie know.
+0x754CC0E4=~z~很好，Niko，干得不错。我会让Brucie知道的。
+
+;0x776EF4EA=Rp10_A_JC
+0x776EF4EA=Rp10_A_JC
+
+;0x777F3C85=~z~Yo, I am trying to conduct a business transaction up in here.
+0x777F3C85=~z~哟，我这里在做商业交易呢。
+
+;0x77E65AD1=010
+0x77E65AD1=010
+
+;0x79C314FE=~z~NB's a winner!
+0x79C314FE=~z~NB是赢家！
+
+;0x7AA88AEC=~z~Hey man, I put that Banshee in the lockup.
+0x7AA88AEC=~z~嘿，兄弟，Banshee我停车库里了。
+
+;0x7AB2B2D2=~z~The NRG 900 is in the lockup now, man.
+0x7AB2B2D2=~z~那辆NRG 900停你车库里了，兄弟。
+
+;0x7ADC1101=~z~I've put that Feltzer in the lockup, man.
+0x7ADC1101=~z~那辆Feltzer已经停车库里了，兄弟。
+
+;0x7B5F08D8=Rp10_A_EA
+0x7B5F08D8=Rp10_A_EA
+
+;0x7CA850EE=~z~He's going to send you emails about all the cars he wants and you're going to get them for him.
+0x7CA850EE=~z~他会发邮件告知你他想要的车，然后你就去帮他弄来。
+
+;0x7F3659A1=RP10_B_DA
+0x7F3659A1=RP10_B_DA
+
+;0x802A2B0F=~z~Whaddya doin', Nicky?
+0x802A2B0F=~z~你这做啥呢，Nicky？
+
+;0x83AA1AE4=~z~Be cool, Brucie. It's not a big deal. Let me know if you need anything else.
+0x83AA1AE4=~z~冷静点，Brucie。没什么大不了的。你要是还想要别的就跟我说。
+
+;0x85491E00=010
+0x85491E00=010
+
+;0x86656557=100
+0x86656557=100
+
+;0x86F2642F=~z~Brucie's going to be real happy. Thanks, Niko. I'll tell him.
+0x86F2642F=~z~Brucie会很高兴的。谢了，Niko。我会告诉他的。
+
+;0x8724648B=~z~If you keep doing this good then Brucie might start asking you to lift weights with him. Watch out.
+0x8724648B=~z~你要是能一直干得这么好，说不定Brucie还会叫你跟他一起举重。自己小心。
+
+;0x874DB013=~z~Niiiice!
+0x874DB013=~z~好嗷嗷嗷！
+
+;0x8D3867F7=~z~Hey, have some respect for the business deal we gots going on.
+0x8D3867F7=~z~喂，我们这儿谈生意呢，放尊重点。
+
+;0x8D83F2A5=~z~Niko, my friend Brucie has a business proposition for us.
+0x8D83F2A5=~z~Niko，我的朋友Brucie有一点业务提议给我们。
+
+;0x8D963F58=~z~Hey man, I couldn't get that car.
+0x8D963F58=~z~喂，兄弟，车我没搞到。
+
+;0x8DF746A9=~z~NB, what the fuck?
+0x8DF746A9=~z~NB，你搞毛？
+
+;0x8EF50B5F=RP10_A_LA
+0x8EF50B5F=RP10_A_LA
+
+;0x90C5595B=~z~You tried at least, I'll tell Brucie that.
+0x90C5595B=~z~你已经尽力了，我会告诉Brucie的。
+
+;0x915AF07D=010
+0x915AF07D=010
+
+;0x93571359=~z~I ain't hanging around here. Let's go.
+0x93571359=~z~我不想在这儿晃悠了，上路吧。
+
+;0x9771D063=~z~I'd like to see you try an take one of my cars NB, not a fuckin chance baby!
+0x9771D063=~z~我倒是想见识下你偷一辆我的车，NB，不过你丫连门都没有宝贝！
+
+;0x9A26E7DF=~z~I got my hands on that Sabre GT. It's in the lockup now.
+0x9A26E7DF=~z~那辆Sabre GT已经到手了，现在在车库里。
+
+;0x9BACE214=~z~NB, don't make me angry!
+0x9BACE214=~z~NB，别逼我发火！
+
+;0x9C3DA817=Rp10_A_JG
+0x9C3DA817=Rp10_A_JG
+
+;0x9DC4F9C1=RP10_A_QA
+0x9DC4F9C1=RP10_A_QA
+
+;0x9E34DDE1=~z~Spot the genetically superior one!
+0x9E34DDE1=~z~瞧瞧这个骨子里就高端的家伙！
+
+;0x9E52C8C0=~z~Thanks, I guess. Tell me if you want help with something else
+0x9E52C8C0=~z~那就多谢了。还有什么要我帮的就告诉我。
+
+;0x9E628838=~z~I've put the PCJ 600 in the lockup now. It's all good.
+0x9E628838=~z~那辆PCJ 600我停在车库里了。成色很好。
+
+;0x9F77B4B4=100010100100010100100
+0x9F77B4B4=100010100100010100100
+
+;0xA007D39F=~z~Brucie. Are your balls okay? You're sounding really angry. Tell me if there's another thing you need.
+0xA007D39F=~z~Brucie，你的蛋还好吗？你听上去好像很生气。要是你还要别的就告诉我。
+
+;0xA0C89BF1=~z~He's going to send you emails about all the cars he wants and you're going to get them for him.
+0xA0C89BF1=~z~他会发邮件告知你他想要的车，然后你就去帮他弄来。
+
+;0xA20D7863=010
+0xA20D7863=010
+
+;0xA258268D=Rp10_A_BA
+0xA258268D=Rp10_A_BA
+
+;0xA281FCD4=~z~Okay, Niko. It happens. I'll tell Brucie.
+0xA281FCD4=~z~好的，Niko。就这样吧，我会告诉Brucie的。
+
+;0xA2C70792=Rp10_A_CA
+0xA2C70792=Rp10_A_CA
+
+;0xA36C868C=~z~The Sanchez is now in the lockup, man. It's a fun little bike.
+0xA36C868C=~z~那辆Sanchez已经在车库里了，兄弟。这辆小车挺有趣的。
+
+;0xA58CB7C4=~z~Get me outta here, like now.
+0xA58CB7C4=~z~带我出去，就现在。
+
+;0xA7A4EF99=~z~Shit Niko, your car skills, and my body, people are gonna be petrified of us!
+0xA7A4EF99=~z~操，Niko，你这车技，我这形体，别人都得被我们吓尿了！
+
+;0xAB4BA396=RP10_B_AA
+0xAB4BA396=RP10_B_AA
+
+;0xAB76B15C=~z~Hey man, I couldn't get that bike. It's not going to be delivered.
+0xAB76B15C=~z~喂，兄弟，摩托我没弄到。送不了了。
+
+;0xAB8A1007=RP10_A_XA
+0xAB8A1007=RP10_A_XA
+
+;0xABCA790C=~z~Spot the alpha male!
+0xABCA790C=~z~老哥你太猛了！
+
+;0xADE0FD41=~z~Well done my friend, well done!
+0xADE0FD41=~z~干得好，我的朋友，干得好！
+
+;0xAEF796EE=~z~Hey, that ain't yours.
+0xAEF796EE=~z~喂，那可不是你的。
+
+;0xB0D26DBF=~z~Ummm. Okay. Tell me if you want another thing.
+0xB0D26DBF=~z~呃，行吧。你要是想要别的就跟我讲。
+
+;0xB20A18DF=100010100100010100100
+0xB20A18DF=100010100100010100100
+
+;0xB28F3F7E=~z~What're you going to do?
+0xB28F3F7E=~z~那你负责什么？
+
+;0xB2946E4C=Rp10_A_AA
+0xB2946E4C=Rp10_A_AA
+
+;0xB3408AB4=~z~Alright man, thought I should let you know that I couldn't get the car. It's not going in the lockup.
+0xB3408AB4=~z~好吧兄弟，我是该让你知道这车我弄不到。不会送到你车库里了。
+
+;0xB3442CB4=010
+0xB3442CB4=010
+
+;0xB39DD483=Rp10_A_JA
+0xB39DD483=Rp10_A_JA
+
+;0xB3B8F28F=Rp10_A_DA
+0xB3B8F28F=Rp10_A_DA
+
+;0xB4AD4FE7=100
+0xB4AD4FE7=100
+
+;0xB540FE11=~z~Yeah, Brucie, whatever. Tell me if there's another thing you need.
+0xB540FE11=~z~行了，Brucie，随便吧。你要是想要别的就直说。
+
+;0xB88114C5=Rp10_A_FA
+0xB88114C5=Rp10_A_FA
+
+;0xBA5CC15D=010
+0xBA5CC15D=010
+
+;0xBA9A08C3=~z~Sure Brucie, I'm going to assume that's the steroids talking. If you want something else, let me know.
+0xBA9A08C3=~z~行，Brucie，我就当这是你药磕多了说出来的话。你要是想要别的，告诉我就成。
+
+;0xBC3A99F4=~z~He's genetically superior, like me!
+0xBC3A99F4=~z~他骨子里就比别人强，和我一样！
+
+;0xC3C52BB8=RP10_B_CA
+0xC3C52BB8=RP10_B_CA
+
+;0xC41AE5DD=010
+0xC41AE5DD=010
+
+;0xC679A484=100
+0xC679A484=100
+
+;0xC72838F2=~z~Stop fuckin' around, NB.
+0xC72838F2=~z~你丫别乱搞，NB。
+
+;0xCF61DA07=Rp10_A_JF
+0xCF61DA07=Rp10_A_JF
+
+;0xD0CEDD0A=RP10_A_WA
+0xD0CEDD0A=RP10_A_WA
+
+;0xD30752A4=010
+0xD30752A4=010
+
+;0xD44D802F=~z~What're you going to do?
+0xD44D802F=~z~你要干什么？
+
+;0xD744C218=~z~Hey, Brucie. You've got that 'roid rage pretty bad. Let me know if you want anything else.
+0xD744C218=~z~嘿，Brucie。你嗑药后的暴怒有点厉害了。要是还想要别的就跟我说一声。
+
+;0xDC0A0591=~z~Shit, how a man meant to do business when you all up in his grill?
+0xDC0A0591=~z~操，你问个不停，这生意还怎么做？
+
+;0xDC710EC9=~z~The car got trashed. It's not going to get delivered.
+0xDC710EC9=~z~车子废了，送不了了。
+
+;0xDE473E87=RP10_A_OA
+0xDE473E87=RP10_A_OA
+
+;0xDE66E100=~z~Hey, I'm sorry but I couldn't get the car, it's not going in the lockup.
+0xDE66E100=~z~喂，我很抱歉，不过这车我弄不到，不会送到你车库里了。
+
+;0xDEA7C961=~z~Great, Brucie. If you need another thing, tell me.
+0xDEA7C961=~z~好的，Brucie。你要是还想要别的，跟我说一声。
+
+;0xE15A3EB1=~z~Don't that belong to you, man?
+0xE15A3EB1=~z~那车是你的吗，兄弟？
+
+;0xE2D88943=010
+0xE2D88943=010
+
+;0xE8A7979A=010
+0xE8A7979A=010
+
+;0xEA09896E=300
+0xEA09896E=300
+
+;0xEA3EAA64=~z~Hey man, the car's screwed. It ain't gonna make it to the lockup.
+0xEA3EAA64=~z~喂，兄弟，那车废了。不会出现在你车库里了。
+
+;0xEAC1728D=~z~Alright, man. I got hold of the Cavalcade.
+0xEAC1728D=~z~好了，兄弟。Cavalcade已经弄到手了。
+
+;0xEAFD4173=700
+0xEAFD4173=700
+
+;0xEB938F4A=~z~Cool, Niko. Thanks for telling me. I'm sure Brucie will be cool.
+0xEB938F4A=~z~酷哦，Niko。多谢你告诉我。我想Brucie会很冷静的。
+
+;0xEC1FAFD3=~z~Come on, I made the introduction. I'm the manager, man.
+0xEC1FAFD3=~z~拜托，是我介绍给你的。我是经纪人，老弟。
+
+;0xEC8E1241=RP10_B_BA
+0xEC8E1241=RP10_B_BA
+
+;0xEDDBEF46=~z~Maybe you've had too much juice Brucie. Tell me if you want something else.
+0xEDDBEF46=~z~你药可能磕得有点多了，Brucie。要是想要别的就跟我说一声。
+
+;0xEDF9F8FD=Rp10_A_HA
+0xEDF9F8FD=Rp10_A_HA
+
+;0xF14D5DCE=010
+0xF14D5DCE=010
+
+;0xF1B70E0F=~z~Don't be a cock!
+0xF1B70E0F=~z~别那么混蛋！
+
+;0xF1D56FBC=~z~Sure, Brucie. Tell me if there's something else you need.
+0xF1D56FBC=~z~确实，Brucie。要别的什么的话就跟我讲。
+
+;0xFBB8999C=~z~Man, how am I gonna explain this?
+0xFBB8999C=~z~天，这我要怎么解释？
+
+;0xFC4DD2FA=~z~Come on, I made the introduction. I'm the manager, man.
+0xFC4DD2FA=~z~拜托，是我介绍给你的。我是经纪人，老弟。
+
+;0xFDC6D5FB=~z~The bike isn't going in the lockup. I couldn't get it.
+0xFDC6D5FB=~z~摩托送不到车库里了，我没法弄到手。
+
+;0xFE51B4C6=~z~Brucie's going to be upset. He's a bit of a child like that. I'll let him know.
+0xFE51B4C6=~z~Brucie会很伤心的，他就是那么个孩子。我会告诉他的。
+
+;0xFEA1EBA2=Rp10_A_JD
+0xFEA1EBA2=Rp10_A_JD
+
+;0xFFE2D5AC=~z~Alright man, hate to say this but the car is real messed up. It ain't gonna be delivered.
+0xFFE2D5AC=~z~好吧兄弟，我也不想这样的，不过这车现在是真废了。不会送来了。
+
