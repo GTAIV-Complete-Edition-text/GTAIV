@@ -1,0 +1,598 @@
+﻿;注：
+;1、含Beta文本 没翻的都是 无视即可
+
+[MF2AUD]
+;0x005C47E0=MF2_XI
+0x005C47E0=MF2_XI
+
+;0x0220CE89=~z~Gravelli is the only man who can get what you need done. He's in Schottler Medical center.
+0x0220CE89=~z~Gravelli是唯一一个可以满足你的需求的人。他在Schottler的医疗中心。
+
+;0x0327A141=MF2_NA
+0x0327A141=MF2_NA
+
+;0x041E9897=100100
+0x041E9897=100100
+
+;0x0467D8FA=MF2_A_EA
+0x0467D8FA=MF2_A_EA
+
+;0x049092F6=MF2_A_BH
+0x049092F6=MF2_A_BH
+
+;0x0536D218=MF2_ZA
+0x0536D218=MF2_ZA
+
+;0x0987F531=~z~I'm pregnant, we were going to say something at the reception.
+0x0987F531=~z~我怀孕了，本来我们要在喝喜酒的时候说点事情的。
+
+;0x09E5EEF3=~z~Hey, you've reached the phone of the future Mrs. Bellic. Leave me or Roman a message and we'll get back to you.
+0x09E5EEF3=~z~嘿，你拨打的是未来的Bellic太太的电话。给我或Roman留个消息，我们会回复你的。
+
+;0x0B5AA9DB=~z~I don't know what she is, but she was lying to us all along and now I'm paying for it.
+0x0B5AA9DB=~z~我不知道她是什么，但她一直以来都在骗我们，现在我为此付出代价了。
+
+;0x0BE6E215=~z~Tell him you were sent by a mutual friend. He's expecting you.
+0x0BE6E215=~z~告诉他是一个旧相识让你来的。他在等你。
+
+;0x0C019D12=~z~Puto, where are the scissors? Where are the fucking scissors?
+0x0C019D12=~z~Puto, where are the scissors? Where are the fucking scissors?
+
+;0x0CB35ED1=MF2_ZC
+0x0CB35ED1=MF2_ZC
+
+;0x0E47A19E=~z~He don't act like it. Piece of shit, when I get my hands on him I'm going to...
+0x0E47A19E=~z~He don't act like it. Piece of shit, when I get my hands on him I'm going to...
+
+;0x0FD7E9FB=~z~I'm already working for a Mafia family. They are scum.
+0x0FD7E9FB=~z~我已经在替一个黑手党家族做事了。他们是人渣。
+
+;0x1176C272=MF2_A_BE
+0x1176C272=MF2_A_BE
+
+;0x1190EC25=100010010100
+0x1190EC25=100010010100
+
+;0x12C2BF5F=MF2_NB
+0x12C2BF5F=MF2_NB
+
+;0x13290450=~z~Bellic, I have your man. He's been flown in. We're going to drop him in the airport cargo area for you.
+0x13290450=~z~Bellic，你要的人在了，马上就飞过来。我们会在机场货运区把他交给你。
+
+;0x15137EED=~z~Give him some of his own medicine - find out if he was serious about me.
+0x15137EED=~z~Give him some of his own medicine - find out if he was serious about me.
+
+;0x15E018E6=~z~Really?
+0x15E018E6=~z~真的？
+
+;0x15FD529A=MF2_YA
+0x15FD529A=MF2_YA
+
+;0x19BA0570=MF2_A_DF
+0x19BA0570=MF2_A_DF
+
+;0x1CD43200=~z~Niko, tell me straight. Was Roman with another woman last night? I swear I'm going to cut his balls off.
+0x1CD43200=~z~Niko, tell me straight. Was Roman with another woman last night? I swear I'm going to cut his balls off.
+
+;0x1F415AF2=~z~So, I hear you've found the big bad monster you were after? Bernie Crane, the muscle Mary. Come on.
+0x1F415AF2=~z~听说你找到你在找的那条大恶龙了？Bernie Crane，就那肌肉玫瑰？得了吧。
+
+;0x1F7C6CDB=MF2_PB
+0x1F7C6CDB=MF2_PB
+
+;0x22945494=SFX_MACHINE_BEEP
+0x22945494=SFX_MACHINE_BEEP
+
+;0x23B9CDA6=MF2_A_CC
+0x23B9CDA6=MF2_A_CC
+
+;0x2687F348=MF2_A_BC
+0x2687F348=MF2_A_BC
+
+;0x27AABC7B=~z~Good thing you haven't been hanging around with them too much. That shit is fucked up. I'm sorry for getting you involved.
+0x27AABC7B=~z~幸好你没跟他们混太久。那边全他妈完了。很抱歉把你牵扯进去了。
+
+;0x284ADBD8=MF2_A_FA
+0x284ADBD8=MF2_A_FA
+
+;0x287ED879=100010
+0x287ED879=100010
+
+;0x2A170187=~z~Hello, you have reached United Liberty Paper Merchants. None of our operatives can come to the phone.
+0x2A170187=~z~您好，您拨打的是United Liberty Paper Merchants(联合自由报报业)。我们的员工暂时无暇接听。
+
+;0x2AE4FD22=MF2_A_BB
+0x2AE4FD22=MF2_A_BB
+
+;0x2BF18462=MF2_A_CA
+0x2BF18462=MF2_A_CA
+
+;0x2D5F2F80=~z~Sure.
+0x2D5F2F80=~z~Sure.
+
+;0x2E1F0FBF=MF2_ZC
+0x2E1F0FBF=MF2_ZC
+
+;0x2EEABFF6=~z~Thank you, Niko. I know you're trying, but a child without a father has a lot to worry about. Trust me on that one.
+0x2EEABFF6=~z~谢谢你，Niko。我知道你尽力了，但是一个没有父亲的孩子会有很多需要担心的。这点你要相信我。
+
+;0x31957441=100010100
+0x31957441=100010100
+
+;0x322DCE8D=~z~I thought I told you to lay low? To keep your head down?
+0x322DCE8D=~z~我想我告诉过你要低调的吧？埋头做事？
+
+;0x342F7929=~z~I'm sorry, I'm excitable.
+0x342F7929=~z~抱歉，我很容易激动。
+
+;0x344DC699=~z~You're out. You've done good things for us and we are grateful. That said, I've given you a lot of protection.
+0x344DC699=~z~你毕业了。你替我们做了很多，我们很感谢你。再说，我们给你的保护已经够多了。
+
+;0x369B9712=MF2_A_CC
+0x369B9712=MF2_A_CC
+
+;0x39F3FE37=MF2_LC
+0x39F3FE37=MF2_LC
+
+;0x3A5DB93E=SFX_MACHINE_BEEP
+0x3A5DB93E=SFX_MACHINE_BEEP
+
+;0x3BC713FD=~z~You think I wouldn't have fingered him in a second if he was your guy?
+0x3BC713FD=~z~要是他就是你要找的人，你觉得我会不直接告诉你吗？
+
+;0x3D53D22B=MF2_A_JA
+0x3D53D22B=MF2_A_JA
+
+;0x3F319ACE=~z~I'm helping you find the man you're after, I'm not some reunite old boyfriends service. Look, I was in the army.
+0x3F319ACE=~z~我正在帮你找你要找的人，我可不是什么老男友重聚服务。听着，我也是当过兵的。
+
+;0x421B6234=~z~No more jobs, is that it? Am I out?
+0x421B6234=~z~没别的差事了，是这样吗？我毕业了？
+
+;0x43DB74DC=~z~Niko. The shit went down with those guys in Bohan. Elizabeta's doing a bid. I think she might have killed Manny.
+0x43DB74DC=~z~Niko，Bohan那些人出事了。Elizabeta坐牢去了，我想她可能还杀了Manny。
+
+;0x4669993A=MF2_LA
+0x4669993A=MF2_LA
+
+;0x4895A466=SFX_MACHINE_BEEP
+0x4895A466=SFX_MACHINE_BEEP
+
+;0x49204782=MF2_A_CB
+0x49204782=MF2_A_CB
+
+;0x49DA0C24=MF2_HE
+0x49DA0C24=MF2_HE
+
+;0x4AF10474=MF2_OA
+0x4AF10474=MF2_OA
+
+;0x4D06F06D=~z~Elizabeta Torres, she's got an apartment on San Quentin in Fortside. Meet me there.
+0x4D06F06D=~z~Elizabeta Torres，她在Fortside的San Quentin大道有间公寓。到那儿找我。
+
+;0x4DB77030=~z~Hey, Niko. It's Mallorie. I've got a personal question for you.
+0x4DB77030=~z~Hey, Niko. It's Mallorie. I've got a personal question for you.
+
+;0x4DDF604C=100010100010
+0x4DDF604C=100010100010
+
+;0x4E68259C=MF2_A_BI
+0x4E68259C=MF2_A_BI
+
+;0x4FF6AF7D=MF2_A_BG
+0x4FF6AF7D=MF2_A_BG
+
+;0x50389385=MF2_HF
+0x50389385=MF2_HF
+
+;0x516373E4=SFX_MACHINE_BEEP
+0x516373E4=SFX_MACHINE_BEEP
+
+;0x54CEE590=MF2_MD
+0x54CEE590=MF2_MD
+
+;0x5577CCFA=MF2_LD
+0x5577CCFA=MF2_LD
+
+;0x5803540A=MF2_A_BA
+0x5803540A=MF2_A_BA
+
+;0x588998DC=100010100100100100010100100
+0x588998DC=100010100100100100010100100
+
+;0x59537894=MF2_A_AB
+0x59537894=MF2_A_AB
+
+;0x5970FE15=~z~Putanesca. There was always something funky about her. I'm real sorry.
+0x5970FE15=~z~贱人。确实一直有关于她的流言。我真的很抱歉。
+
+;0x5ADF5229=~z~I'm sure you do, but you said you'd help me.
+0x5ADF5229=~z~我很确定你也知道，但是你说了会帮我的。
+
+;0x5B935C24=~z~Maybe you have learned something, Bellic. Goodbye and good luck. Try to live a good life.
+0x5B935C24=~z~Maybe you have learned something, Bellic. Goodbye and good luck. Try to live a good life.
+
+;0x5BD3E500=~z~Please leave a message.
+0x5BD3E500=~z~请留下您的消息。
+
+;0x5C730610=~z~Hey Niko, you tired of Manny yet?
+0x5C730610=~z~喂，Niko，你有没有和Manny处腻了？
+
+;0x5CAA9872=MF2_A_AD
+0x5CAA9872=MF2_A_AD
+
+;0x5D3125E2=MF2_HA
+0x5D3125E2=MF2_HA
+
+;0x5DBE8896=MF2_ZD
+0x5DBE8896=MF2_ZD
+
+;0x606DE45A=MF2_YB
+0x606DE45A=MF2_YB
+
+;0x6090AB8D=100
+0x6090AB8D=100
+
+;0x638BB296=100010100
+0x638BB296=100010100
+
+;0x65171EF3=~z~I haven't seen him.
+0x65171EF3=~z~I haven't seen him.
+
+;0x65D441F6=MF2_XC
+0x65D441F6=MF2_XC
+
+;0x67012BFF=~z~From here in, you're alone. Goodbye.
+0x67012BFF=~z~从现在起，只有你一个了。再见。
+
+;0x670445FA=MF2_XB
+0x670445FA=MF2_XB
+
+;0x69DDF8B9=~z~For him, death would have been a release. For me, another stain I do not need.
+0x69DDF8B9=~z~For him, death would have been a release. For me, another stain I do not need.
+
+;0x6B91BA9F=MF2_HB
+0x6B91BA9F=MF2_HB
+
+;0x6C698319=~z~So, you got your revenge. I hope it gave you the satisfaction you were looking for.
+0x6C698319=~z~So, you got your revenge. I hope it gave you the satisfaction you were looking for.
+
+;0x6C9D09C2=~z~I must be getting paranoid. Of course Roman wouldn't. Thanks Niko.
+0x6C9D09C2=~z~I must be getting paranoid. Of course Roman wouldn't. Thanks Niko.
+
+;0x6CEC2766=MF2_XG
+0x6CEC2766=MF2_XG
+
+;0x6D5FF72E=~z~Fuck you.
+0x6D5FF72E=~z~操你妈。
+
+;0x6FB93EF3=~z~Hey Niko.
+0x6FB93EF3=~z~嘿，Niko。
+
+;0x71077E79=~z~You could have told me he was here.
+0x71077E79=~z~你早就可以告诉我他在这儿了。
+
+;0x716CD389=MF2_HH
+0x716CD389=MF2_HH
+
+;0x721C37AD=SFX_MACHINE_BEEP
+0x721C37AD=SFX_MACHINE_BEEP
+
+;0x722874C0=MF2_A_BF
+0x722874C0=MF2_A_BF
+
+;0x72E9BA98=~z~He could be dead in the river for all I care. I just want to put that shit behind me -
+0x72E9BA98=~z~He could be dead in the river for all I care. I just want to put that shit behind me -
+
+;0x73D824EE=MF2_MC
+0x73D824EE=MF2_MC
+
+;0x79E240EE=~z~I've got someone else who might have some work for you.
+0x79E240EE=~z~我还认识一个可能有活儿给你干的人。
+
+;0x7B5E314A=MF2_MA
+0x7B5E314A=MF2_MA
+
+;0x7CBF9D0E=~z~That's exactly right, he's an old school romantic. See you soon, Mal.
+0x7CBF9D0E=~z~完全就是这样，他是那种老派浪漫的人。之后见，Mal。
+
+;0x7DE83DB4=100100100
+0x7DE83DB4=100100100
+
+;0x7EB1DB05=100
+0x7EB1DB05=100
+
+;0x82112500=100010100010100100010100
+0x82112500=100010100010100100010100
+
+;0x82A29B77=100010100100
+0x82A29B77=100010100100
+
+;0x83A52D24=MF2_JC
+0x83A52D24=MF2_JC
+
+;0x88DABA9B=MF2_A_CB
+0x88DABA9B=MF2_A_CB
+
+;0x8AACE283=~z~I was tired of him as soon as I saw him.
+0x8AACE283=~z~刚见到他我就已经腻了。
+
+;0x8B5A7FB1=~z~Come on, Mallorie. Roman wouldn't do something like that to the love of his life.
+0x8B5A7FB1=~z~Come on, Mallorie. Roman wouldn't do something like that to the love of his life.
+
+;0x8C2434B2=~z~I know it gets lonely. I know what it feels like to get close to a man.
+0x8C2434B2=~z~我知道会很孤单，我也知道接近一个人是什么感觉。
+
+;0x911701B6=~z~Roman hasn't spoken to you about anything, has he? Nothing about maybe asking me to marry him?
+0x911701B6=~z~Roman最近没跟你说过什么吧？没说过什么向我求婚吧？
+
+;0x946DB165=MF2_IA
+0x946DB165=MF2_IA
+
+;0x94DFD7B3=MF2_ZD
+0x94DFD7B3=MF2_ZD
+
+;0x95197A32=~z~Hey, this Mallorie. Leave me a message and I'll hit you back.
+0x95197A32=~z~嘿，我是Mallorie。给我留个消息，我会回复的。
+
+;0x95885FF2=MF2_YE
+0x95885FF2=MF2_YE
+
+;0x970ED6C1=100100100100
+0x970ED6C1=100100100100
+
+;0x972E04BA=~z~I've got someone else who might have some work for you.
+0x972E04BA=~z~我还认识一个可能有活儿给你干的人。
+
+;0x98ED3C4F=SFX_MACHINE_BEEP
+0x98ED3C4F=SFX_MACHINE_BEEP
+
+;0x9B30AA6A=MF2_XE
+0x9B30AA6A=MF2_XE
+
+;0x9B7F490B=010
+0x9B7F490B=010
+
+;0x9F8F61CC=~z~I been taking a lot of heat for you, Niko. Start doing me some favors.
+0x9F8F61CC=~z~我已经帮你顶了不少压力了，Niko。麻烦帮我考虑下。
+
+;0xA243EEC9=~z~You have nothing left. Goodbye and good luck.
+0xA243EEC9=~z~You have nothing left. Goodbye and good luck.
+
+;0xA2E66357=~z~You know Roman, he has these other women but you're the only one he loves.
+0xA2E66357=~z~You know Roman, he has these other women but you're the only one he loves.
+
+;0xA3983931=MF2_A_HA
+0xA3983931=MF2_A_HA
+
+;0xA42224CC=100010
+0xA42224CC=100010
+
+;0xA571EFD5=MF2_JB
+0xA571EFD5=MF2_JB
+
+;0xA588C45B=MF2_OB
+0xA588C45B=MF2_OB
+
+;0xA6D82D38=~z~What's up, Mallorie?
+0xA6D82D38=~z~怎么了，Mallorie？
+
+;0xA85EED27=~z~I've already helped you but I'll help you again. Wait for me to be in touch.
+0xA85EED27=~z~我已经帮过你一次了，不过会再帮一次。等我的联络吧。
+
+;0xA9043F30=~z~Don't worry about it. You've got enough on your plate looking after Roman. See you soon.
+0xA9043F30=~z~别担心。你光是照顾Roman就已经够忙了。之后见。
+
+;0xAA70A9A9=~z~Do you know where Vlad is?
+0xAA70A9A9=~z~Do you know where Vlad is?
+
+;0xAAAD9B1C=MF2_XH
+0xAAAD9B1C=MF2_XH
+
+;0xAB5FCEFD=100010100100
+0xAB5FCEFD=100010100100
+
+;0xAC6EA394=010
+0xAC6EA394=010
+
+;0xACA75115=100010100010100010100100100010
+0xACA75115=100010100010100010100100100010
+
+;0xAD98F6AF=MF2_LB
+0xAD98F6AF=MF2_LB
+
+;0xAECED2AC=MF2_HD
+0xAECED2AC=MF2_HD
+
+;0xAF1569C6=100010
+0xAF1569C6=100010
+
+;0xAF7AA93A=~z~The Pegorinos? They're not a family.
+0xAF7AA93A=~z~Pegorino那帮人？他们算不上家族。
+
+;0xB06C12B7=MF2_A_AC
+0xB06C12B7=MF2_A_AC
+
+;0xB0BF923E=MF2_A_ZB
+0xB0BF923E=MF2_A_ZB
+
+;0xB2D0DE03=100010100100
+0xB2D0DE03=100010100100
+
+;0xB33F90C4=~z~What do you want, to make me do more "good things for your cause"?
+0xB33F90C4=~z~What do you want, to make me do more "good things for your cause"?
+
+;0xB3DC49DB=~z~Mallorie, the man who got Roman killed is dead.
+0xB3DC49DB=~z~Mallorie，派人暗杀Roman的人已经死了。
+
+;0xB490C8A9=~z~Thanks and hey, Roman and I decided to be honest with each other last night. He told me about Vlad.
+0xB490C8A9=~z~谢了，噢对，Roman和我昨晚决定对彼此坦诚了。Vlad的事他跟我说了。
+
+;0xB4B8D577=MF2_A_BJ
+0xB4B8D577=MF2_A_BJ
+
+;0xB558FB76=~z~Is your johnson so big you can't keep it in your pants, Bellic? I told you to be calm.
+0xB558FB76=~z~你的弟弟已经大到裤子里装不下了吗，Bellic？我告诉过你要冷静了。
+
+;0xB810BD4A=~z~Elizabeta Torres, she's got an apartment on San Quentin in Fortside. Meet me there.
+0xB810BD4A=~z~Elizabeta Torres，她在Fortside的San Quentin大道有间公寓。到那儿找我。
+
+;0xB8DD268F=MF2_IC
+0xB8DD268F=MF2_IC
+
+;0xB97B2A97=MF2_IE
+0xB97B2A97=MF2_IE
+
+;0xB9CA5318=~z~Yeah, thanks for helping him get rid of the body. He has such fire in his heart.
+0xB9CA5318=~z~对，谢谢你帮他处理尸体。他心里居然还有这种怒火。
+
+;0xBBC287D6=MF2_KA
+0xBBC287D6=MF2_KA
+
+;0xBBF24599=100100100
+0xBBF24599=100100100
+
+;0xBC769B9A=~z~I'll start doing that when you start doing me some.
+0xBC769B9A=~z~等你帮我忙了我就会帮你的。
+
+;0xBEDE2818=MF2_PA
+0xBEDE2818=MF2_PA
+
+;0xBF45C9C1=~z~Niko, I heard that Michelle was a cop or a fed or something, is it true?
+0xBF45C9C1=~z~Niko，听说Michelle好像是个条子还是FIB还是什么的，是真的吗？
+
+;0xBF995FC2=MF2_A_DD
+0xBF995FC2=MF2_A_DD
+
+;0xBFAA541C=~z~Roman and I are getting on well now, and I don't want this shit to jeopardize anything. Thanks Niko.
+0xBFAA541C=~z~Roman and I are getting on well now, and I don't want this shit to jeopardize anything. Thanks Niko.
+
+;0xC004B661=MF2_A_CA
+0xC004B661=MF2_A_CA
+
+;0xC139A321=MF2_A_BD
+0xC139A321=MF2_A_BD
+
+;0xC15E591A=~z~I was tired of him as soon as I saw him.
+0xC15E591A=~z~刚见到他我就已经腻了。
+
+;0xC180F928=MF2_HG
+0xC180F928=MF2_HG
+
+;0xC187B950=MF2_ID
+0xC187B950=MF2_ID
+
+;0xC2F1B742=MF2_ZA
+0xC2F1B742=MF2_ZA
+
+;0xC437B9B0=MF2_YF
+0xC437B9B0=MF2_YF
+
+;0xC621EE94=MF2_JA
+0xC621EE94=MF2_JA
+
+;0xC7F0854D=MF2_XD
+0xC7F0854D=MF2_XD
+
+;0xCAB69CD6=MF2_IB
+0xCAB69CD6=MF2_IB
+
+;0xCB6C8A05=MF2_XF
+0xCB6C8A05=MF2_XF
+
+;0xCC1029C9=MF2_KB
+0xCC1029C9=MF2_KB
+
+;0xCC2CF7E1=~z~I haven't heard anything, but I'm sure it would be a really good thing for both of you.
+0xCC2CF7E1=~z~我还什么都没听说过，不过我敢肯定，这对你们两个都是一件好事。
+
+;0xCCBBE4AD=~z~I don't know what she is, but she was lying to us all along and now I'm paying for it.
+0xCCBBE4AD=~z~我不知道她是什么，但她一直以来都在骗我们，现在我为此付出代价了。
+
+;0xCF897E96=~z~He did?
+0xCF897E96=~z~他说了？
+
+;0xD81A1256=~z~Son?
+0xD81A1256=~z~儿子？
+
+;0xD8A9447D=~z~Putanesca. There was always something funky about her. I'm real sorry.
+0xD8A9447D=~z~贱人。确实一直有关于她的流言。我真的很抱歉。
+
+;0xDDB61AEF=~z~His love for me took over and he just had to kill him.
+0xDDB61AEF=~z~他对我的爱冲昏了他的头脑，他就只能杀了他了。
+
+;0xDECAAEED=100010100100100
+0xDECAAEED=100010100100100
+
+;0xE1980D7C=~z~Bellic, I want to introduce you to John Gravelli, head of the Gambetti family. He needs help.
+0xE1980D7C=~z~Bellic，我想把你介绍给John Gravelli，Gambetti家族的老大。他需要帮助。
+
+;0xE2A19A0A=~z~Now these Russian putas keep calling me asking where he is, like I fucking know.
+0xE2A19A0A=~z~Now these Russian putas keep calling me asking where he is, like I fucking know.
+
+;0xE3836DD3=MF2_JD
+0xE3836DD3=MF2_JD
+
+;0xE3C131B9=~z~Hey, sometimes I just can't help myself.
+0xE3C131B9=~z~嘿，有时候我就是控制不住自己。
+
+;0xE4F32C08=~z~That won't bring him back will it? He'll never even meet his son.
+0xE4F32C08=~z~那他也回不来吧？他永远见不到他的儿子了。
+
+;0xE9047671=MF2_YC
+0xE9047671=MF2_YC
+
+;0xE905FC50=~z~Now, you're useless to me. We need someone who wants something, someone with burning desires.
+0xE905FC50=~z~Now, you're useless to me. We need someone who wants something, someone with burning desires.
+
+;0xEE05892A=100010100100
+0xEE05892A=100010100100
+
+;0xEE98BA80=MF2_A_DC
+0xEE98BA80=MF2_A_DC
+
+;0xF0DB9557=MF2_YD
+0xF0DB9557=MF2_YD
+
+;0xF107070D=~z~I looked at him and realized that revenge was not what I wanted after all.
+0xF107070D=~z~I looked at him and realized that revenge was not what I wanted after all.
+
+;0xF12841D3=~z~I guess when he found out about me and Vlad he couldn't help himself.
+0xF12841D3=~z~我想他发现我跟Vlad的事的时候，他就控制不住自己了。
+
+;0xF1CC183A=MF2_A_AB
+0xF1CC183A=MF2_A_AB
+
+;0xF280990F=MF2_A_AA
+0xF280990F=MF2_A_AA
+
+;0xF346A041=MF2_MB
+0xF346A041=MF2_MB
+
+;0xF3AA5CAA=010100010100010100
+0xF3AA5CAA=010100010100010100
+
+;0xF8264513=~z~Listen, I'll level with you - I stupidly got involved with him to get back at Roman, for all his playing around.
+0xF8264513=~z~Listen, I'll level with you - I stupidly got involved with him to get back at Roman, for all his playing around.
+
+;0xF9B70EF0=MF2_A_DA
+0xF9B70EF0=MF2_A_DA
+
+;0xFB9A4D91=~z~Hey Niko, you tired of Manny yet?
+0xFB9A4D91=~z~喂，Niko，你有没有和Manny处腻了？
+
+;0xFBE9DC6D=MF2_HC
+0xFBE9DC6D=MF2_HC
+
+;0xFC6BF1BF=MF2_XA
+0xFC6BF1BF=MF2_XA
+
+;0xFC95DB4D=~z~Your child will never worry about anything, Mallorie.
+0xFC95DB4D=~z~你的孩子什么都不需要担心了，Mallorie。
+
+;0xFD980E56=~z~Niko, I heard that Michelle was a cop or a fed or something, is it true?
+0xFD980E56=~z~Niko，听说Michelle好像是个条子还是FIB还是什么的，是真的吗？
+
+;0xFF58A3B0=~z~After all that trouble, you didn't even kill him. Remarkable.
+0xFF58A3B0=~z~After all that trouble, you didn't even kill him. Remarkable.
+

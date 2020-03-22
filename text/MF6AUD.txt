@@ -1,0 +1,388 @@
+﻿;注：
+;1、含Beta文本 没翻的都是 无视即可
+
+[MF6AUD]
+;0x09299FF9=MF3_GE
+0x09299FF9=MF3_GE
+
+;0x094EE69E=~z~Sure, you own this city, right?
+0x094EE69E=~z~Sure, you own this city, right?
+
+;0x0A578AE8=MF3_A_VA
+0x0A578AE8=MF3_A_VA
+
+;0x0AB7C5D1=MF3_BA
+0x0AB7C5D1=MF3_BA
+
+;0x0DAF970B=MF3_A_VD
+0x0DAF970B=MF3_A_VD
+
+;0x0ED6C6A1=SFX_MACHINE_BEEP
+0x0ED6C6A1=SFX_MACHINE_BEEP
+
+;0x0F5AA69C=~z~There ain't no bringing back those you love, that the truth, money. No matter how powerful you are.
+0x0F5AA69C=~z~There ain't no bringing back those you love, that the truth, money. No matter how powerful you are.
+
+;0x0FDE2AE2=MF3_DB
+0x0FDE2AE2=MF3_DB
+
+;0x1032F46A=~z~Playboy?
+0x1032F46A=~z~Playboy?
+
+;0x119B3B13=~z~he holding up there and needs help with some shit. You assist his broke ass, I'll send some paper your way.
+0x119B3B13=~z~现在他住在那里，还缺个人给他帮忙。你去帮帮他那把老烂骨头，我会给你钱的。
+
+;0x13E3EC03=SFX_MACHINE_BEEP
+0x13E3EC03=SFX_MACHINE_BEEP
+
+;0x183F0003=~z~I can't tell you what happens when it ends, friend. I can tell you that we'll all find out at some point though.
+0x183F0003=~z~I can't tell you what happens when it ends, friend. I can tell you that we'll all find out at some point though.
+
+;0x1C45C438=~z~You remember my man, Dwayne?
+0x1C45C438=~z~你还记得我哥们Dwayne吗？
+
+;0x1D96AB95=MF3_FC
+0x1D96AB95=MF3_FC
+
+;0x206BFEA3=100100010100
+0x206BFEA3=100100010100
+
+;0x22AF3B72=MF3_A_VA
+0x22AF3B72=MF3_A_VA
+
+;0x26A66525=~z~Yo money, I appreciate what you doing for me. There be so many fake cats out there.
+0x26A66525=~z~哟老弟，我很欣赏你替我做的事。外面的假黑道确实很多。
+
+;0x2844A00E=~z~You popped him, man. He raised me, showed me everything a G need to see. Just tell me it didn't hurt him none.
+0x2844A00E=~z~You popped him, man. He raised me, showed me everything a G need to see. Just tell me it didn't hurt him none.
+
+;0x2B74F37D=MF3_DB
+0x2B74F37D=MF3_DB
+
+;0x2BFA1AB7=MF3_IA
+0x2BFA1AB7=MF3_IA
+
+;0x2D62261F=~z~Hey, it ain't our problem, Playboy - it's yours. That said, I know what I'm going to do.
+0x2D62261F=~z~嘿，那可不是我们的问题，Playboy－是你的问题。这么说吧，我知道我要做什么。
+
+;0x2ED1084C=100100100
+0x2ED1084C=100100100
+
+;0x2F24F84A=MF3_AC
+0x2F24F84A=MF3_AC
+
+;0x305377DE=MF3_C_PB
+0x305377DE=MF3_C_PB
+
+;0x33622098=MF3_CE
+0x33622098=MF3_CE
+
+;0x385D38D3=~z~Yo, streets need you, Niko. They'll pay.
+0x385D38D3=~z~Yo, streets need you, Niko. They'll pay.
+
+;0x3F19CDB8=~z~Playboy? I thought you didn't want to talk to me no more. Too cold hearted?
+0x3F19CDB8=~z~Playboy? I thought you didn't want to talk to me no more. Too cold hearted?
+
+;0x43EE43F5=~z~Drop a message after the beat. Peace.
+0x43EE43F5=~z~请在哔声后留言。再见。
+
+;0x48219419=~z~Yo, streets need you, Niko. They'll pay.
+0x48219419=~z~Yo, streets need you, Niko. They'll pay.
+
+;0x492BB5CB=100100010100
+0x492BB5CB=100100010100
+
+;0x4A0DDC34=~z~Not really my thing, but I'll come if you're paying.
+0x4A0DDC34=~z~Not really my thing, but I'll come if you're paying.
+
+;0x4A0F2D2B=MF3_C_PC
+0x4A0F2D2B=MF3_C_PC
+
+;0x4CD86935=~z~Did it hurt? Tell me it didn't hurt him.
+0x4CD86935=~z~Did it hurt? Tell me it didn't hurt him.
+
+;0x4CE9EA27=~z~How did the big real estate deal go?
+0x4CE9EA27=~z~房地产大生意怎么样？
+
+;0x4DBE0ACF=MF3_FD
+0x4DBE0ACF=MF3_FD
+
+;0x4FD18CF7=MF3_FA
+0x4FD18CF7=MF3_FA
+
+;0x523EEFD8=~z~Yo Money, don't be trifling with me. You made a decision?
+0x523EEFD8=~z~哟，老弟。别跟我耍花招，你决定了吗？
+
+;0x553BC45C=MF3_C_PB
+0x553BC45C=MF3_C_PB
+
+;0x563AB45B=~z~You should have known that when you asked me to kill him. I'm hanging up now, Playboy. Goodbye.
+0x563AB45B=~z~You should have known that when you asked me to kill him. I'm hanging up now, Playboy. Goodbye.
+
+;0x5831B966=100100100
+0x5831B966=100100100
+
+;0x5A334C46=~z~Sure, just got out of the pen, old friends aren't paying him no mind.
+0x5A334C46=~z~当然，刚放出来的那个嘛，老朋友们不会不报答他的。
+
+;0x5B4DABB7=MF3_A_VB
+0x5B4DABB7=MF3_A_VB
+
+;0x5BD87FC9=~z~Yo, streets. I need you to come over here and help me with some aggressive public relations.
+0x5BD87FC9=~z~Yo, streets. I need you to come over here and help me with some aggressive public relations.
+
+;0x601B239C=MF3_AC
+0x601B239C=MF3_AC
+
+;0x62621022=~z~That right - you cold, Niko. Peace and love.
+0x62621022=~z~那就对了－你真冷酷，Niko。再见。
+
+;0x63AF17B1=~z~Niko, shit is getting fucked up. I need to see you at my crib.
+0x63AF17B1=~z~Niko，狗屎玩意出大乱子了，我需要你来我家见我。
+
+;0x64B064AD=MF3_C_PA
+0x64B064AD=MF3_C_PA
+
+;0x64BDD5C8=MF3_DA
+0x64BDD5C8=MF3_DA
+
+;0x66AE3BCC=MF3_FB
+0x66AE3BCC=MF3_FB
+
+;0x689465EB=MF3_DC
+0x689465EB=MF3_DC
+
+;0x68FBD9DD=~z~But, word is born, none of them bitches can bring back my man Dwayne.
+0x68FBD9DD=~z~But, word is born, none of them bitches can bring back my man Dwayne.
+
+;0x6D0C71F8=~z~Yeah, that's what he think. He got friends all over the shop but he living in the past.
+0x6D0C71F8=~z~对，他就这么想的。他的朋友到处都有，不过他还活在过去。
+
+;0x71CFB3F2=~z~Make it a memorial to Union workers who've died in accidents.
+0x71CFB3F2=~z~把它改成死于事故的工会工人的纪念馆。
+
+;0x73908F23=~z~Don't help him out when it fucks up my business interests. Damn, son. That ain't cool.
+0x73908F23=~z~他动到我的生意利益的时候就他妈别帮他。干，小子。那可不好。
+
+;0x74D3DB87=MF3_EC
+0x74D3DB87=MF3_EC
+
+;0x75B228A8=MF3_GC
+0x75B228A8=MF3_GC
+
+;0x7645CBAE=~z~Yo, if you trying to find Playboy you should ask your bitch - ha ha! She probably know where I'm at. Leave a message.
+0x7645CBAE=~z~哟，你要是想找Playboy的话就问你家的婊子吧－哈哈！她可能会知道我在哪儿。留言吧。
+
+;0x7B5D7EA0=~z~I own this city, player. I can look at anyone in this town and they gonna kill for me.
+0x7B5D7EA0=~z~I own this city, player. I can look at anyone in this town and they gonna kill for me.
+
+;0x82B52D6C=~z~You asked me to help out Dwayne, that's what I was doing.
+0x82B52D6C=~z~你让我去帮Dwayne，我就帮他做这个喽。
+
+;0x82F5389A=SFX_MACHINE_BEEP
+0x82F5389A=SFX_MACHINE_BEEP
+
+;0x82FD21B0=MF3_DA
+0x82FD21B0=MF3_DA
+
+;0x84DF1569=~z~I need you to go over to the Governor Greg Johnson projects over in Northwood,
+0x84DF1569=~z~我需要你去Northwood区的Greg Johnson州长公屋，
+
+;0x8619DC86=~z~That cat ain't got no vision, wants to shut down the site and shit.
+0x8619DC86=~z~那个菜鸡没有远见，居然他妈想关停工地。
+
+;0x869A1D96=MF3_C_PD
+0x869A1D96=MF3_C_PD
+
+;0x883DDBD9=~z~You going to fix this Dwayne problem of ours, yeah?
+0x883DDBD9=~z~你会帮我们解决Dwayne的问题吧？
+
+;0x8D5F25BE=100100100100
+0x8D5F25BE=100100100100
+
+;0x91CC5F80=~z~Yo, this is streets. Streets need to sleep, streets need to eat so they don't answer the phone the whole time.
+0x91CC5F80=~z~哟，这里就是街道。街道需要睡觉，街道需要吃饭，所以他们从来不接电话。
+
+;0x9323B1F2=~z~he holding up there and needs help with some shit. You assist his broke ass, I'll send some paper your way.
+0x9323B1F2=~z~现在他住在那里，还缺个人给他帮忙。你去帮帮他那把老烂骨头，我会给你钱的。
+
+;0x93FABFD4=~z~I owe that fool - ain't payback a bitch? Peace out, money.
+0x93FABFD4=~z~我欠那个傻逼的－不是要报答那贱人吗？再见，老弟。
+
+;0x946C50DA=~z~Niko, tell me it weren't you that shot up the strip club in Bohan.
+0x946C50DA=~z~Niko，告诉我在Bohan大闹脱衣舞俱乐部的人不是你。
+
+;0x947792E5=MF3_A_VD
+0x947792E5=MF3_A_VD
+
+;0x9B654275=~z~I owe that fool - ain't payback a bitch? Peace out, money.
+0x9B654275=~z~我欠那个傻逼的－不是要报答那贱人吗？再见，老弟。
+
+;0x9E772F67=~z~This is the X, giving everyone out there some advice. You don't know what you got 'til it's gone. Leave a message.
+0x9E772F67=~z~我是X，正在给别人讲人生经验呢。失去前你也不知道得到了什么。留言吧。
+
+;0xA01A7E5C=MF3_HB
+0xA01A7E5C=MF3_HB
+
+;0xA26D3581=MF3_EB
+0xA26D3581=MF3_EB
+
+;0xA2B6011B=100010100
+0xA2B6011B=100010100
+
+;0xA2CD01CC=MF3_CA
+0xA2CD01CC=MF3_CA
+
+;0xA4AA341A=MF3_A_VC
+0xA4AA341A=MF3_A_VC
+
+;0xA4E89DD3=~z~I'll show you what you can make of yourself when you start hustling.
+0xA4E89DD3=~z~I'll show you what you can make of yourself when you start hustling.
+
+;0xA4EBA640=MF3_AA
+0xA4EBA640=MF3_AA
+
+;0xA6FF4FDD=100100010100100100100
+0xA6FF4FDD=100100010100100100100
+
+;0xA7503DEB=MF3_EA
+0xA7503DEB=MF3_EA
+
+;0xA9B4D07C=~z~Yo Money, don't be trifling with me. You made a decision?
+0xA9B4D07C=~z~哟，老弟。别跟我耍花招，你决定了吗？
+
+;0xAEE4F169=MF3_DC
+0xAEE4F169=MF3_DC
+
+;0xAEF95770=MF3_A_VB
+0xAEF95770=MF3_A_VB
+
+;0xB1535569=MF3_ED
+0xB1535569=MF3_ED
+
+;0xB2C79982=MF3_BB
+0xB2C79982=MF3_BB
+
+;0xB521E166=MF3_JA
+0xB521E166=MF3_JA
+
+;0xB5C3FA0F=MF3_C_PD
+0xB5C3FA0F=MF3_C_PD
+
+;0xB5E9ABAA=MF3_GA
+0xB5E9ABAA=MF3_GA
+
+;0xB88022B3=SFX_MACHINE_BEEP
+0xB88022B3=SFX_MACHINE_BEEP
+
+;0xBB5873C3=~z~You going to fix this Dwayne problem of ours, yeah?
+0xBB5873C3=~z~你会帮我们解决Dwayne的问题吧？
+
+;0xBB638EA1=~z~You remember my man, Dwayne?
+0xBB638EA1=~z~你还记得我兄弟Dwayne吗？
+
+;0xBC13B339=MF3_CB
+0xBC13B339=MF3_CB
+
+;0xBD52D222=100010100010100100
+0xBD52D222=100010100010100100
+
+;0xBF2CD95A=MF3_AB
+0xBF2CD95A=MF3_AB
+
+;0xBF35746D=100010100010
+0xBF35746D=100010100010
+
+;0xC1157A88=MF3_A_VC
+0xC1157A88=MF3_A_VC
+
+;0xC68710E2=~z~Not really my thing, but I'll come if you're paying.
+0xC68710E2=~z~Not really my thing, but I'll come if you're paying.
+
+;0xC6879BA9=MF3_AA
+0xC6879BA9=MF3_AA
+
+;0xC7FB1BA4=~z~Yo money, I appreciate what you doing for me. There be so many fake cats out there.
+0xC7FB1BA4=~z~哟，老弟，我很欣赏你替我做的事。外面的假黑道确实很多。你还记得我哥们，Dwayne吗？
+
+;0xCB566778=100010100100100
+0xCB566778=100010100100100
+
+;0xCC02870F=SFX_MACHINE_BEEP
+0xCC02870F=SFX_MACHINE_BEEP
+
+;0xCC55D70E=MF3_GD
+0xCC55D70E=MF3_GD
+
+;0xCC5F6FC2=100100010100100100100
+0xCC5F6FC2=100100010100100100100
+
+;0xCEFFD595=MF3_CC
+0xCEFFD595=MF3_CC
+
+;0xD2B17964=~z~Now you talking. I got something for you, player. Come to my crib, you been there before.
+0xD2B17964=~z~Now you talking. I got something for you, player. Come to my crib, you been there before.
+
+;0xD466E187=MF3_CF
+0xD466E187=MF3_CF
+
+;0xD4E191FF=100100100010
+0xD4E191FF=100100100010
+
+;0xD66869DF=MF3_HA
+0xD66869DF=MF3_HA
+
+;0xD72A6F37=MF3_GB
+0xD72A6F37=MF3_GB
+
+;0xD7A0296A=SFX_MACHINE_BEEP
+0xD7A0296A=SFX_MACHINE_BEEP
+
+;0xD84DB46F=~z~Yo, streets. I need you to come over here and help me with some aggressive public relations.
+0xD84DB46F=~z~Yo, streets. I need you to come over here and help me with some aggressive public relations.
+
+;0xDEB7D891=MF3_AB
+0xDEB7D891=MF3_AB
+
+;0xE133D880=MF3_C_PA
+0xE133D880=MF3_C_PA
+
+;0xE27AD0A3=~z~Sure, just got out of the pen, old friends aren't paying him no mind.
+0xE27AD0A3=~z~当然，刚放出来的那个嘛，老朋友们不会不报答他的。
+
+;0xE332C383=~z~That right - you cold, Niko. Peace and love.
+0xE332C383=~z~那就对了－你真冷酷，Niko。再见。
+
+;0xECCC9B91=100010100
+0xECCC9B91=100010100
+
+;0xF15232F9=~z~Man, fuck Yusuf Amir. I got bigger problems. Come see me now.
+0xF15232F9=~z~老弟，操他妈的Yusuf Amir。不过还有更大的问题。现在就来找我。
+
+;0xF4AB829F=MF3_CD
+0xF4AB829F=MF3_CD
+
+;0xF5DDE8D9=~z~Hey, it ain't our problem, Playboy - it's yours. That said, I know what I'm going to do.
+0xF5DDE8D9=~z~嘿，那可不是我们的问题，Playboy－是你的问题。这么说吧，我知道我要做什么。
+
+;0xF7024205=~z~I met you with Liz in SoBo. We had some troubles with a UC called Charlie.
+0xF7024205=~z~I met you with Liz in SoBo. We had some troubles with a UC called Charlie.
+
+;0xF8B7FD1D=~z~Yeah, that's what he think. He got friends all over the shop but he living in the past.
+0xF8B7FD1D=~z~对，他就这么想的。他的朋友到处都有，不过他还活在过去。
+
+;0xFA8145D2=100010100
+0xFA8145D2=100010100
+
+;0xFCB89185=MF3_C_PC
+0xFCB89185=MF3_C_PC
+
+;0xFE085015=~z~Yo money, whatup? This is Playboy.
+0xFE085015=~z~Yo money, whatup? This is Playboy.
+
+;0xFFCA3EC6=MF3_HC
+0xFFCA3EC6=MF3_HC
+
+;0xFFD9178F=~z~I need you to go over to the Governor Greg Johnson projects over in Northwood,
+0xFFD9178F=~z~我需要你去Northwood区的Greg Johnson州长公屋，
+

@@ -1,0 +1,112 @@
+﻿[MANNY1]
+;0x01D71795=~s~Get in a vehicle other than a boat.
+0x01D71795=~s~进入一辆非船只的载具。
+
+;0x0B6D80B4=Don't get too close or the dealer will spot you.
+0x0B6D80B4=靠太近的话毒贩会发现你。
+
+;0x0F37B885=To immediately equip weapons use quick swap.~n~Hold ~INPUT_PICKUP~ and press a direction on ~PAD_DPAD_ALL~.
+0x0F37B885=使用快速切换可立刻装备武器。~n~按住~INPUT_PICKUP~后按下~PAD_DPAD_ALL~上的一个方向键。
+
+;0x16A3475C=Press ~PAD_DPAD_RIGHT~ for projectiles, press ~PAD_DPAD_DOWN~ for shotguns, press ~PAD_DPAD_LEFT~ for pistols, and press ~PAD_DPAD_UP~ to switch between assault rifle and submachine gun.
+0x16A3475C=按~PAD_DPAD_RIGHT~选择投掷物，按~PAD_DPAD_DOWN~选择霰弹枪，按~PAD_DPAD_LEFT~选择手枪，按下~PAD_DPAD_UP~可以在突击步枪与冲锋枪间切换。
+
+;0x1B8EC614=~r~The dealer saw you.~s~
+0x1B8EC614=~r~毒贩看到你了。~s~
+
+;0x29ABB5F9=~s~Leave the warehouse.
+0x29ABB5F9=~s~离开仓库。
+
+;0x3E520B83=~s~Shoot out the ~g~door.~s~
+0x3E520B83=~s~把~g~门~s~打烂。
+
+;0x4B1DA5A6=~s~The ~r~dealer~s~ went into the warehouse, get him.
+0x4B1DA5A6=~r~毒贩~s~进入了仓库，干掉他。
+
+;0x54FE60CB=~s~The door is locked.
+0x54FE60CB=~s~门锁住了。
+
+;0x565B926B=Press ~PAD_X~ to focus on the dealer's car.
+0x565B926B=按~PAD_X~将视角对准毒贩的车。
+
+;0x5CE153D7=Each direction on ~PAD_DPAD_ALL~ will bring up a different type of weapon.
+0x5CE153D7=~PAD_DPAD_ALL~上的每个方向键都可以切换到不同类别的武器。
+
+;0x5FD6B352=~s~Get back to ~b~Manny~s~ before he leaves.
+0x5FD6B352=~s~在~b~Manny~s~离开前去找他。
+
+;0x73853E7D=~r~The dealer got away.~s~
+0x73853E7D=~r~毒贩逃走了。~s~
+
+;0x80726AC0=Don't fire your weapon or do anything to attract attention.
+0x80726AC0=别开枪或闹出太大的动静。
+
+;0x92C31E87=~s~Go to the ~y~dealer's place~s~ with Manny.
+0x92C31E87=~s~与Manny一起前往~y~毒贩所在地。~s~
+
+;0x97CC4CC0=~s~Shoot out the door.
+0x97CC4CC0=~s~把门打烂。
+
+;0x9DE93073=~s~Follow the ~r~dealer~s~ to the meet, don't let him know you're following him.
+0x9DE93073=~s~跟踪~r~毒贩~s~去交易现场，不要引起他的注意。
+
+;0xA0335DD1=~s~Wipe out all the ~r~dealers.
+0xA0335DD1=~s~干掉全部~r~毒贩。
+
+;0xA1744AF4=~s~Choose the ~b~last man's~s~ fate.
+0xA1744AF4=~s~决定~b~最后一个人~s~的命运。
+
+;0xAC3B1C57=~r~You've lost Manny.~s~
+0xAC3B1C57=~r~你落下了Manny。~s~
+
+;0xB037B8F0=~r~You damaged the dealer's car.~s~
+0xB037B8F0=~r~你损伤了毒贩的车。~s~
+
+;0xB312DF73=~r~You spooked the dealer.~s~
+0xB312DF73=~r~你惊动了毒贩。~s~
+
+;0xBCC139DC=~s~Lose your wanted level.
+0xBCC139DC=~s~降低你的通缉度。
+
+;0xBE06EF24=PLACEHOLDER FOR MOCAP CUTSCENE
+0xBE06EF24=PLACEHOLDER FOR MOCAP CUTSCENE
+
+;0xC046A69A=~s~Get in a vehicle other than a bus.
+0xC046A69A=~s~进入一辆非公交车的载具。
+
+;0xC40A7596=~s~Get in a vehicle with Manny.
+0xC40A7596=~s~与Manny一起进入一辆载具。
+
+;0xC5B81132=~r~Manny is dead.~s~
+0xC5B81132=~r~Manny死了。~s~
+
+;0xC644149F=~s~Choose the ~r~last man's~s~ fate.
+0xC644149F=~s~决定~r~最后一个人~s~的命运。
+
+;0xCD8D615F=~s~Park ~y~behind~s~ the dealer.
+0xCD8D615F=~s~停到毒贩~y~后面。
+
+;0xDA95D83F=~s~Don't get too close to the ~r~dealer~s~ or he'll spot you. Back off.
+0xDA95D83F=~s~别太靠近~r~毒贩，~s~否则他会看到你。往后退点。
+
+;0xDB2C3131=~r~You left the deal.~s~
+0xDB2C3131=~r~你离开了交易现场。~s~
+
+;0xDEE99D92=~s~Follow the ~r~dealer~s~ to the meet.
+0xDEE99D92=~s~跟踪~r~毒贩~s~到交易现场。
+
+;0xDFB2EA54=~s~Get in a vehicle other than a helicopter.
+0xDFB2EA54=~s~进入一辆非直升机的载具。
+
+;0xE9D2C690=~s~Take down the ~r~dealer.
+0xE9D2C690=~s~干掉~r~毒贩。
+
+;0xEB4C2643=~s~Make sure the ~y~warehouse~s~ is clear.
+0xEB4C2643=~s~确保~y~仓库~s~里没人了。
+
+;0xED440C81=~r~You got a wanted level.~s~
+0xED440C81=~r~你被通缉了。~s~
+
+;0xF7A7686B=~s~Don't leave ~b~Manny~s~ behind.
+0xF7A7686B=~s~别把~b~Manny~s~落下了。
+

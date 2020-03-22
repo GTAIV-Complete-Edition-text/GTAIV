@@ -1,0 +1,34 @@
+﻿[LK_BRU2]
+;0x077D9578=~r~The car has been destroyed.~s~
+0x077D9578=~r~车辆被摧毁了。~s~
+
+;0x4AFF9C7F=~r~The car has been abandoned.~s~
+0x4AFF9C7F=~r~车辆被丢弃了。~s~
+
+;0x4CA29BF1=Lose the cars.
+0x4CA29BF1=甩掉追兵。
+
+;0x55B1B1E3=Go to ~y~Yorktown Ave.~S~
+0x55B1B1E3=前往~y~Yorktown大道。~S~
+
+;0x5B2ABCD1=Get the car back to ~y~Brucie's lockup.
+0x5B2ABCD1=把车开回~y~Brucie的车库。
+
+;0x67725564=Lose your wanted level.
+0x67725564=降低你的通缉度。
+
+;0x680F52CA=~r~The car has been trashed.~s~
+0x680F52CA=~r~车辆已被损毁。~s~
+
+;0x7E547F54=Get back in the ~b~car.
+0x7E547F54=回到~b~车~s~上。
+
+;0xA056472B=Walk round and get the ~B~car.
+0xA056472B=走过去，进入那辆~B~车。
+
+;0xD4AFAC09=Drive to ~y~Brucie's lockup.
+0xD4AFAC09=开到~y~Brucie的车库。
+
+;0xE77FD57D=Get in the ~b~car.~s~
+0xE77FD57D=上~b~车。~s~
+

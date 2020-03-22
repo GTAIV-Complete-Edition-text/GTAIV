@@ -1,0 +1,277 @@
+﻿[MTUT]
+;0x00AA755B=~s~Health and armor are placed around the area in the same way as weapons.
+0x00AA755B=~s~Health and armor are placed around the area in the same way as weapons.
+
+;0x07455FEC=~s~Pick up the health.
+0x07455FEC=~s~Pick up the health.
+
+;0x0A6C0086=~s~Select Games from the Multiplayer menu on your phone.
+0x0A6C0086=~s~Select Games from the Multiplayer menu on your phone.
+
+;0x0BBF0B88=~s~Weapons are placed around the area - their locations are represented on your radar by icons.
+0x0BBF0B88=~s~Weapons are placed around the area - their locations are represented on your radar by icons.
+
+;0x0C2CE951=~s~Use ~PAD_RSTICK_DOWN~ while locked on to a target to focus your aim on his head.
+0x0C2CE951=~s~Use ~PAD_RSTICK_DOWN~ while locked on to a target to focus your aim on his head.
+
+;0x14F8FB53=~s~View the current cash scores.
+0x14F8FB53=~s~View the current cash scores.
+
+;0x1CCB8C85=~s~You can set up the appearance of your multiplayer character on the Player Model screen.
+0x1CCB8C85=~s~You can set up the appearance of your multiplayer character on the Player Model screen.
+
+;0x1D86AF17=~s~In a free-for-all deathmatch game your objective is to kill all other players while surviving for as long as possible.
+0x1D86AF17=~s~In a free-for-all deathmatch game your objective is to kill all other players while surviving for as long as possible.
+
+;0x1E669386=~s~Shoot the car's tires to make it more difficult to drive.
+0x1E669386=~s~Shoot the car's tires to make it more difficult to drive.
+
+;0x1E99EA5B=~s~Leave the game to complete the tutorial.
+0x1E99EA5B=~s~Leave the game to complete the tutorial.
+
+;0x25450257=~s~If you are the host you will be able to change a variety of options such as weapon types, game duration, and auto-aim.
+0x25450257=~s~If you are the host you will be able to change a variety of options such as weapon types, game duration, and auto-aim.
+
+;0x276AC2DF=~s~You can gain an advantage by aiming carefully. Headshots will cause extra damage.
+0x276AC2DF=~s~You can gain an advantage by aiming carefully. Headshots will cause extra damage.
+
+;0x2BF98743=~s~Select Player Match from the Multiplayer menu on your phone.
+0x2BF98743=~s~Select Player Match from the Multiplayer menu on your phone.
+
+;0x2D0E66B5=~s~While riding as a passenger you can perform drivebys. Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to fire.
+0x2D0E66B5=~s~While riding as a passenger you can perform drivebys. Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to fire.
+
+;0x306E5576=~s~Select Menu.
+0x306E5576=~s~Select Menu.
+
+;0x30FBFF5E=~s~You must remain on Charge Island to complete the multiplayer tutorial.
+0x30FBFF5E=~s~You must remain on Charge Island to complete the multiplayer tutorial.
+
+;0x320C9F7F=~s~While riding as a passenger you can also drop grenades from your window. Hold ~INPUT_ATTACK~ to pull the pin, and release to drop the grenade.
+0x320C9F7F=~s~While riding as a passenger you can also drop grenades from your window. Hold ~INPUT_ATTACK~ to pull the pin, and release to drop the grenade.
+
+;0x3796A6FA=~s~If the auto-aim option is set to disallow, you cannot use the targeting system to lock onto opponents.
+0x3796A6FA=~s~If the auto-aim option is set to disallow, you cannot use the targeting system to lock onto opponents.
+
+;0x39069287=~s~The player with the highest score when the game ends is the winner. In a timed game, the remaining time will be displayed in the top right of the screen.
+0x39069287=~s~The player with the highest score when the game ends is the winner. In a timed game, the remaining time will be displayed in the top right of the screen.
+
+;0x397166EC=~s~Your opponents are also represented on the radar by icons. Each has a unique color.
+0x397166EC=~s~Your opponents are also represented on the radar by icons. Each has a unique color.
+
+;0x3EFC133E=~s~Select Leave Game from the phone menu.
+0x3EFC133E=~s~Select Leave Game from the phone menu.
+
+;0x410466DA=~s~The dollar amount in the bottom left of the screen represents the total cash you have earned in ranked games.
+0x410466DA=~s~The dollar amount in the bottom left of the screen represents the total cash you have earned in ranked games.
+
+;0x41763E52=~s~Press ~INPUT_VEH_HEADLIGHT~ to cycle through weapons while in a car.
+0x41763E52=~s~Press ~INPUT_VEH_HEADLIGHT~ to cycle through weapons while in a car.
+
+;0x43F72692=~s~When you are killed, you will spawn in a position close to the action.
+0x43F72692=~s~When you are killed, you will spawn in a position close to the action.
+
+;0x4656BBFD=~s~You can start multiplayer games through the phone.
+0x4656BBFD=~s~You can start multiplayer games through the phone.
+
+;0x4871689E=~s~When free aiming at a target, your first shot will be most accurate.
+0x4871689E=~s~When free aiming at a target, your first shot will be most accurate.
+
+;0x49E9CBA0=~s~Once you join or start a multiplayer game you will enter the lobby screen.
+0x49E9CBA0=~s~Once you join or start a multiplayer game you will enter the lobby screen.
+
+;0x4E15B171=~s~You can leave a game at any time using your phone.
+0x4E15B171=~s~You can leave a game at any time using your phone.
+
+;0x51B8C215=~s~Using the environment and powerful weapons, in the way this player is, will give you the advantage in combat.
+0x51B8C215=~s~Using the environment and powerful weapons, in the way this player is, will give you the advantage in combat.
+
+;0x5BB86F3D=~s~The lobby screen displays both the game mode and its rules, and also has options that you can alter.
+0x5BB86F3D=~s~The lobby screen displays both the game mode and its rules, and also has options that you can alter.
+
+;0x5F4F4BD4=~s~In a multiplayer game you will automatically run when moving. Use ~INPUT_SPRINT~ to sprint.
+0x5F4F4BD4=~s~In a multiplayer game you will automatically run when moving. Use ~INPUT_SPRINT~ to sprint.
+
+;0x5F771E50=~s~At the end of the game the score screen will appear. This represents your deaths, your kills and how much cash you have earned.
+0x5F771E50=~s~At the end of the game the score screen will appear. This represents your deaths, your kills and how much cash you have earned.
+
+;0x60E7A3A5=~s~Use ~INPUT_AIM~ to aim at a target.
+0x60E7A3A5=~s~Use ~INPUT_AIM~ to aim at a target.
+
+;0x63AE1E1C=~s~You can drive, or ride as a passenger, in a vehicle with your teammates.
+0x63AE1E1C=~s~You can drive, or ride as a passenger, in a vehicle with your teammates.
+
+;0x6838EF15=~s~You can identify opponents by the name displayed above their head. The dot next to the name will flash when they are taking damage.
+0x6838EF15=~s~You can identify opponents by the name displayed above their head. The dot next to the name will flash when they are taking damage.
+
+;0x69CE32FE=~s~In other team games, the cash acquired by each team may be divided equally between its members.
+0x69CE32FE=~s~In other team games, the cash acquired by each team may be divided equally between its members.
+
+;0x6DCC1368=~s~The check box denotes when a player is ready.
+0x6DCC1368=~s~The check box denotes when a player is ready.
+
+;0x6DDE12AE=~s~You are currently on the orange team.
+0x6DDE12AE=~s~You are currently on the orange team.
+
+;0x71EBBA97=~s~In a team game you must work together in order to win. Do not shoot your teammates and do your best to help them out.
+0x71EBBA97=~s~In a team game you must work together in order to win. Do not shoot your teammates and do your best to help them out.
+
+;0x752D88FE=~s~The ticker in the top left of the screen keeps you updated about what is going on in the game.
+0x752D88FE=~s~The ticker in the top left of the screen keeps you updated about what is going on in the game.
+
+;0x75A79040=~s~Player ranks will only be displayed in ranked games.
+0x75A79040=~s~Player ranks will only be displayed in ranked games.
+
+;0x796F276E=~s~Go to the ~y~tutorial location.
+0x796F276E=~s~Go to the ~y~tutorial location.
+
+;0x7EC1B553=~s~The players' names are listed on the left. To the right of the player's name are symbols.
+0x7EC1B553=~s~The players' names are listed on the left. To the right of the player's name are symbols.
+
+;0x811541A6=~s~Take out the enemy team with a driveby.
+0x811541A6=~s~Take out the enemy team with a driveby.
+
+;0x82A52BF3=~s~Options are shown on the right of the lobby screen.
+0x82A52BF3=~s~Options are shown on the right of the lobby screen.
+
+;0x856E297F=~s~In a Deathmatch game, you will gain cash for killing other players. The scoring rules for each game type will be displayed on its lobby screen.
+0x856E297F=~s~In a Deathmatch game, you will gain cash for killing other players. The scoring rules for each game type will be displayed on its lobby screen.
+
+;0x8B818B0B=~s~You were killed by a player using high ground to snipe from.
+0x8B818B0B=~s~You were killed by a player using high ground to snipe from.
+
+;0x9038F72D=~s~In multiplayer modes, police will not attempt to bust you, they will only attack you.
+0x9038F72D=~s~In multiplayer modes, police will not attempt to bust you, they will only attack you.
+
+;0x90F3D9B7=~s~The crown icon identifies the host. The host is the player who controls the game settings/options and starts the game.
+0x90F3D9B7=~s~The crown icon identifies the host. The host is the player who controls the game settings/options and starts the game.
+
+;0x9146E209=~s~Do not shoot your teammates.
+0x9146E209=~s~Do not shoot your teammates.
+
+;0x93FB8CCF=~s~The dollar amount in the bottom left of the screen represents the total cash you have earned in multiplayer games.
+0x93FB8CCF=~s~The dollar amount in the bottom left of the screen represents the total cash you have earned in multiplayer games.
+
+;0x95219BD9=~s~Your rank will increase as you acquire cash in multiplayer games. This unlocks new multiplayer models.
+0x95219BD9=~s~Your rank will increase as you acquire cash in multiplayer games. This unlocks new multiplayer models.
+
+;0x981AD526=~s~The star icon indicates the player's rank as a number between 0 and 10.
+0x981AD526=~s~The star icon indicates the player's rank as a number between 0 and 10.
+
+;0x9CC40C6C=~s~~INPUT_PHONE_TAKE_OUT~ bring up phone.
+0x9CC40C6C=~s~~INPUT_PHONE_TAKE_OUT~ bring up phone.
+
+;0x9DC72F96=~s~Weapons, health and armor will always reappear in the same place. Learning where they are located is vital for survival.
+0x9DC72F96=~s~Weapons, health and armor will always reappear in the same place. Learning where they are located is vital for survival.
+
+;0xA3A686C8=~s~Go towards your team.
+0xA3A686C8=~s~Go towards your team.
+
+;0xA627ED87=~s~When locking onto a target for the first time, if you lightly press ~INPUT_ATTACK~ the reticule will reduce in size. This means your first shot will be very accurate.
+0xA627ED87=~s~When locking onto a target for the first time, if you lightly press ~INPUT_ATTACK~ the reticule will reduce in size. This means your first shot will be very accurate.
+
+;0xA78D740B=~s~Your rank will increase as you acquire cash in ranked multiplayer games. This unlocks new multiplayer models.
+0xA78D740B=~s~Your rank will increase as you acquire cash in ranked multiplayer games. This unlocks new multiplayer models.
+
+;0xAAB6740F=~s~Check the current cash scores at any time by pressing ~PAD_DPAD_DOWN~. This also zooms out the radar.
+0xAAB6740F=~s~Check the current cash scores at any time by pressing ~PAD_DPAD_DOWN~. This also zooms out the radar.
+
+;0xADD4A4DB=~s~Access the Player Model screen.
+0xADD4A4DB=~s~Access the Player Model screen.
+
+;0xB5523BA1=~s~Use ~PAD_RSTICK_ALL~ while in free aim to focus your aim on his head.
+0xB5523BA1=~s~Use ~PAD_RSTICK_ALL~ while in free aim to focus your aim on his head.
+
+;0xB80B27E5=~s~When all players are ready, the game will launch. The game will also start after a short interval if the host and the majority of players are ready.
+0xB80B27E5=~s~When all players are ready, the game will launch. The game will also start after a short interval if the host and the majority of players are ready.
+
+;0xB927C533=~s~Highlight Multiplayer by pressing ~PAD_DPAD_DOWN~, then press ~PAD_A~ to select it.
+0xB927C533=~s~Highlight Multiplayer by pressing ~PAD_DPAD_DOWN~, then press ~PAD_A~ to select it.
+
+;0xBD501864=~s~Select Join Match.
+0xBD501864=~s~Select Join Match.
+
+;0xBDF2BB60=~s~Get in the passenger seat of the car.
+0xBDF2BB60=~s~Get in the passenger seat of the car.
+
+;0xC05C5777=~s~Aim for the passengers in the car.
+0xC05C5777=~s~Aim for the passengers in the car.
+
+;0xC0DFA1C6=~s~In a multiplayer game you will automatically run when moving. Hold ~PAD_A~ to sprint.
+0xC0DFA1C6=~s~In a multiplayer game you will automatically run when moving. Hold ~PAD_A~ to sprint.
+
+;0xC45E380A=~s~Select Deathmatch.
+0xC45E380A=~s~Select Deathmatch.
+
+;0xC93F57CE=~s~The mic icon indicates whether you have an Xbox 360 Headset attached or not.
+0xC93F57CE=~s~The mic icon indicates whether you have an Xbox 360 Headset attached or not.
+
+;0xCA11B2C5=~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.
+0xCA11B2C5=~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.
+
+;0xCAEDE8BF=~s~Activate the menu by pressing ~PAD_A~
+0xCAEDE8BF=~s~Activate the menu by pressing ~PAD_A~
+
+;0xCB15CD1C=~s~In some team games, your appearance will be picked for you. All members of a team will have the same appearance.
+0xCB15CD1C=~s~In some team games, your appearance will be picked for you. All members of a team will have the same appearance.
+
+;0xCE9CF3F8=~s~While riding as a passenger you can perform drivebys. Hold ~INPUT_AIM~ and use ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to fire.
+0xCE9CF3F8=~s~While riding as a passenger you can perform drivebys. Hold ~INPUT_AIM~ and use ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to fire.
+
+;0xD23053AE=~s~Select Quick Match.
+0xD23053AE=~s~Select Quick Match.
+
+;0xD2987625=~s~Use ~PAD_RSTICK_UP~ while locked on to a target to focus your aim on his head.
+0xD2987625=~s~Use ~PAD_RSTICK_UP~ while locked on to a target to focus your aim on his head.
+
+;0xD2DB19BD=~s~Hold ~PAD_LT~ to lock on to a target.
+0xD2DB19BD=~s~Hold ~PAD_LT~ to lock on to a target.
+
+;0xD9245AE8=~s~You can select the area of the city that the game will be played in with the Location option.
+0xD9245AE8=~s~You can select the area of the city that the game will be played in with the Location option.
+
+;0xDA27EC1E=~s~The mic icon indicates whether you have a headset or not.
+0xDA27EC1E=~s~The mic icon indicates whether you have a headset or not.
+
+;0xDF559E99=~s~When free aiming or locked onto a target use ~INPUT_MOVE_LEFT~ and press ~INPUT_JUMP~ to roll.
+0xDF559E99=~s~When free aiming or locked onto a target use ~INPUT_MOVE_LEFT~ and press ~INPUT_JUMP~ to roll.
+
+;0xE0FC12F0=~s~Use ~PAD_RSTICK_ALL~ to target while free-aiming.
+0xE0FC12F0=~s~Use ~PAD_RSTICK_ALL~ to target while free-aiming.
+
+;0xE1A637E3=~s~Select Multiplayer.
+0xE1A637E3=~s~Select Multiplayer.
+
+;0xE29A9697=~s~Take out all of the opponents.
+0xE29A9697=~s~Take out all of the opponents.
+
+;0xE3DBE659=~s~Sustained firing of your weapon will cause recoil and bullets will spread inaccurately. The aiming reticule will grow larger to indicate when this is happening.
+0xE3DBE659=~s~Sustained firing of your weapon will cause recoil and bullets will spread inaccurately. The aiming reticule will grow larger to indicate when this is happening.
+
+;0xE422A2D9=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ when aiming to switch between differing levels of zoom.
+0xE422A2D9=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ when aiming to switch between differing levels of zoom.
+
+;0xE559A16D=~s~Your name will be listed as part of your team in the lobby. You can also check the teams by accessing the scoreboard.
+0xE559A16D=~s~Your name will be listed as part of your team in the lobby. You can also check the teams by accessing the scoreboard.
+
+;0xE758A194=~s~Select Player Model from the Multiplayer menu on your phone.
+0xE758A194=~s~Select Player Model from the Multiplayer menu on your phone.
+
+;0xE7A772A0=~s~Hold ~PAD_LT~ to free-aim.
+0xE7A772A0=~s~Hold ~PAD_LT~ to free-aim.
+
+;0xEEA61C2A=~r~You left Charge Island and canceled the multiplayer tutorial.
+0xEEA61C2A=~r~You left Charge Island and canceled the multiplayer tutorial.
+
+;0xF0A132A4=~s~Pick up the weapon.
+0xF0A132A4=~s~Pick up the weapon.
+
+;0xF83C74E7=~s~Press ~INPUT_VEH_NEXT_WEAPON~ to cycle through weapons while in a car.
+0xF83C74E7=~s~Press ~INPUT_VEH_NEXT_WEAPON~ to cycle through weapons while in a car.
+
+;0xFB98CDEB=~s~Many game types - for example, Deathmatch - also have team modes.
+0xFB98CDEB=~s~Many game types - for example, Deathmatch - also have team modes.
+
+;0xFE9C1AB3=~s~Start a Deathmatch game.
+0xFE9C1AB3=~s~Start a Deathmatch game.
+

@@ -1,0 +1,997 @@
+﻿;注：
+;1、含Beta文本 没翻的都是 无视即可
+
+[MF5AUD]
+;0x009BBE48=~z~Yes, well, I will not let these men treat you like that again. I'm sorry for letting you down, Roman.
+0x009BBE48=~z~确实，我不会再让那些人这么对你了。很抱歉之前让你失望了，Roman。
+
+;0x00E5306F=MF3_C_MA
+0x00E5306F=MF3_C_MA
+
+;0x012F69F1=~z~Perhaps. That man who I worked for, Ray Boccino. I was asked to kill him and I did.
+0x012F69F1=~z~也许吧。那个跟我一起做过事的人，Ray Boccino。我被要求去杀了他，而我也确实杀了他。
+
+;0x035C2399=~z~I'm getting married to the beautiful Mallorie. How is the best man?
+0x035C2399=~z~我要娶美丽的Mallorie了。伴郎先生怎么样啊？
+
+;0x03793A81=~z~Niko, there you are. Tell me what's happening in the exciting world of the gun for a hire?
+0x03793A81=~z~Niko，你在啊。告诉我雇佣枪手的刺激世界又有什么发生了吗？
+
+;0x0396D9BE=~z~Fantastic cousin. Mallorie is going to make me the happiest groom on earth. How are you?
+0x0396D9BE=~z~超级棒，堂弟。Mallorie会让我成为世界上最幸福的新郎。你怎么样？
+
+;0x042F155D=MF3_D_AC
+0x042F155D=MF3_D_AC
+
+;0x04EBB519=MF3_C_HD
+0x04EBB519=MF3_C_HD
+
+;0x0563FE56=~z~She's called Kiki, she's a lawyer.
+0x0563FE56=~z~她叫Kiki，是个律师。
+
+;0x05A83EAC=MF3_C_ID
+0x05A83EAC=MF3_C_ID
+
+;0x081A97C0=~z~That's a low blow, NB. Seriously, what're you up to at the moment?
+0x081A97C0=~z~正中要害啊，NB。认真点，现在你又在干啥呢？
+
+;0x08482DE4=~z~Shit NB, I was joking. Who was it this time?
+0x08482DE4=~z~我靠，NB，我就开个玩笑。这次是谁？
+
+;0x086940A3=MF3_C_OG
+0x086940A3=MF3_C_OG
+
+;0x09B39D2B=MF3_C_IG
+0x09B39D2B=MF3_C_IG
+
+;0x0BC03F6A=MF3_C_HE
+0x0BC03F6A=MF3_C_HE
+
+;0x0CB0D278=MF3_C_LA
+0x0CB0D278=MF3_C_LA
+
+;0x0CF3AD0D=MF3_C_DE
+0x0CF3AD0D=MF3_C_DE
+
+;0x0D82FE54=MF3_C_DA
+0x0D82FE54=MF3_C_DA
+
+;0x0DC88F67=~z~That wasn't what I wanted to ask you, I wanted to know what it was like to be kidnapped.
+0x0DC88F67=~z~我不是要问你这个，我要问的是被绑架是怎么样的？
+
+;0x0FAEC092=MF3_C_JG
+0x0FAEC092=MF3_C_JG
+
+;0x108E9720=~z~I don't know, I just met someone in the street. It was weird.
+0x108E9720=~z~I don't know, I just met someone in the street. It was weird.
+
+;0x10CBDBE6=MF3_C_LB
+0x10CBDBE6=MF3_C_LB
+
+;0x10D2552F=~z~This guy called Ray Boccino has had me working with this guy from the Lost biker gang called Johnny,
+0x10D2552F=~z~这个叫Ray Boccino的人让我和一个来自失落摩托帮的Johnny一起做事。
+
+;0x116F755B=~z~Thanks, for putting things in perspective, Roman. Later on.
+0x116F755B=~z~感谢你能提供不同的观点，Roman。回见。
+
+;0x1274CDEB=MF3_C_HF
+0x1274CDEB=MF3_C_HF
+
+;0x12E3C363=~z~Hey Roman.
+0x12E3C363=~z~喂，Roman。
+
+;0x13077A8B=MF3_C_OD
+0x13077A8B=MF3_C_OD
+
+;0x1479307D=~z~Maybe, if you give me tales of a womanizing, gambling addict.
+0x1479307D=~z~可以考虑，只要你给我讲一个沉溺女色和赌博的故事。
+
+;0x14D446FC=~z~Niko, shit, I hope this guy is paying you good for saving his ass.
+0x14D446FC=~z~Niko，我靠，希望被你救了的这人能给多给你点感谢金。
+
+;0x18944F0D=MF3_C_JF
+0x18944F0D=MF3_C_JF
+
+;0x18B6B1EF=R4_UA
+0x18B6B1EF=R4_UA
+
+;0x1935F3DD=100
+0x1935F3DD=100
+
+;0x1A604256=MF3_C_FG
+0x1A604256=MF3_C_FG
+
+;0x1AA6CFA1=MF3_C_GA
+0x1AA6CFA1=MF3_C_GA
+
+;0x1B06BD24=MF3_D_AB
+0x1B06BD24=MF3_D_AB
+
+;0x1BC5BD9A=MF3_D_AA
+0x1BC5BD9A=MF3_D_AA
+
+;0x1DE9EE4F=MF3_C_IC
+0x1DE9EE4F=MF3_C_IC
+
+;0x1E092FA0=~z~You are a Bellic, remember, and you can't help playing the field. You don't want her getting jealous.
+0x1E092FA0=~z~You are a Bellic, remember, and you can't help playing the field. You don't want her getting jealous.
+
+;0x1E55DAE2=010100100010
+0x1E55DAE2=010100100010
+
+;0x1E70F06C=~z~Not quite. I'm working for a family out of Alderney called the Pegorinos.
+0x1E70F06C=~z~不是，我在替一个来自Alderney的Pegorino家族做事。
+
+;0x1EC5338D=~z~I hope you took her back to the apartment and had your way with her, Niko. Did she have nice titties?
+0x1EC5338D=~z~I hope you took her back to the apartment and had your way with her, Niko. Did she have nice titties?
+
+;0x1F3D037A=010100010010010100100010
+0x1F3D037A=010100010010010100100010
+
+;0x201A5323=MF3_C_FC
+0x201A5323=MF3_C_FC
+
+;0x205E9351=~z~Jon Gravelli? The head of the Gambetti crime family. Shit, Niko. This man is very dangerous.
+0x205E9351=~z~Jon Gravelli？Gambetti犯罪家族的老大。我靠，Niko，这个人很危险的。
+
+;0x252167DE=~z~Hello, Niko. How's it going, killed anyone recently?
+0x252167DE=~z~你好，Niko。近况如何啊，有没有又杀了谁？
+
+;0x25279CDB=~z~This man is nearly dead, cousin. He knows the government agent that Michelle forced me to work for.
+0x25279CDB=~z~这人就快死了，堂兄。他认识Michelle逼我替他干活的那个政府人物。
+
+;0x263466AE=MF3_C_ED
+0x263466AE=MF3_C_ED
+
+;0x29314638=~z~I thought this time would come, Niko, but, to be honest,
+0x29314638=~z~我早知道这一刻会来，Niko，不过说实话，
+
+;0x2986731E=MF3_C_EE
+0x2986731E=MF3_C_EE
+
+;0x29EB49D9=~z~It wasn't like that. You don't get it.
+0x29EB49D9=~z~It wasn't like that. You don't get it.
+
+;0x2B4813E4=MF3_CC_PF
+0x2B4813E4=MF3_CC_PF
+
+;0x2B57D0C0=MF3_C_HH
+0x2B57D0C0=MF3_C_HH
+
+;0x2B968CD4=MF3_C_IB
+0x2B968CD4=MF3_C_IB
+
+;0x2BA85EDB=~z~Niko, my cousin. Give me some tales of the Liberty City underworld. I'm curious.
+0x2BA85EDB=~z~Niko，堂弟啊。给我讲点自由城地下世界的故事吧。我很好奇。
+
+;0x2DA066C8=~z~Will you drive me back to the office, cousin? Argh.
+0x2DA066C8=~z~你能送我回车行吗，堂弟？啊。
+
+;0x2DFAD60A=MF3_C_EB
+0x2DFAD60A=MF3_C_EB
+
+;0x2E196FF5=MF3_C_LD
+0x2E196FF5=MF3_C_LD
+
+;0x2E3206A6=MF3_C_EL
+0x2E3206A6=MF3_C_EL
+
+;0x2E360FFA=~z~Shit, Niko, you're involved with one of the five families?
+0x2E360FFA=~z~我靠，Niko，你跟五大家族中的一个扯上关系了？
+
+;0x2FF904B7=~z~There is no cut of the diamonds, the ice got jacked when we tried to sell them.
+0x2FF904B7=~z~没有钻石的分成了，我们卖钻石的时候钻石被人抢了。
+
+;0x305A9565=MF3_C_CD
+0x305A9565=MF3_C_CD
+
+;0x31019319=MF3_C_EJ
+0x31019319=MF3_C_EJ
+
+;0x32CD3826=~z~They say they will give me Darko. You don't know how long I have waited for this, Roman. It is nearly over.
+0x32CD3826=~z~他们说他们会给我Darko。你不知道我为了这一刻已经等了多久，Roman。就快结束了。
+
+;0x33610FCA=MF3_C_MB
+0x33610FCA=MF3_C_MB
+
+;0x350B86CC=MF3_C_EF
+0x350B86CC=MF3_C_EF
+
+;0x3553BD3B=~z~Roman, how are you?
+0x3553BD3B=~z~Roman，你怎么样？
+
+;0x3626FCC1=MF3_C_IE
+0x3626FCC1=MF3_C_IE
+
+;0x36F290C7=~z~They were nice titties, yes?
+0x36F290C7=~z~那对奶子很不错吧，是不是？
+
+;0x375964B5=~z~Come on, NB. I do get it. Liberty is a crazy place.
+0x375964B5=~z~Come on, NB. I do get it. Liberty is a crazy place.
+
+;0x378ACD74=~z~Always, Roman. As much as I can at least when I'm doing the bidding of these Alderney gangsters.
+0x378ACD74=~z~一直这样，Roman。尽力而为嘛，至少在替这些Alderney黑道做事的时候是这样。
+
+;0x38671433=~z~Who is the lucky lady?
+0x38671433=~z~Who is the lucky lady?
+
+;0x39338659=MF3_C_FD
+0x39338659=MF3_C_FD
+
+;0x3995B718=MF3_C_WB
+0x3995B718=MF3_C_WB
+
+;0x3A28DBE3=~z~Roman, good to speak to you. I needed to talk to a friend
+0x3A28DBE3=~z~Roman，很高兴能和你说话。我需要跟一个朋友聊聊。
+
+;0x3A2E9FA5=MF3_C_MD
+0x3A2E9FA5=MF3_C_MD
+
+;0x3A490AE2=MF3_C_JD
+0x3A490AE2=MF3_C_JD
+
+;0x3BBBAB05=~z~At the moment, it's the Mafia.
+0x3BBBAB05=~z~这次的话，是Mafia。
+
+;0x3C096617=010100010100
+0x3C096617=010100010100
+
+;0x3C8F6CF4=~z~I don't know how I'm so successful with the ladies. They just love me.
+0x3C8F6CF4=~z~我真的不知道为什么我这么受女性欢迎。她们就是喜欢我。
+
+;0x3F2605D6=~z~I just hope he's got enough power to be able to find Darko Brevic for me.
+0x3F2605D6=~z~我只希望他的力量足够帮我找到Darko Brevic。
+
+;0x41B055EC=~z~Don't get ahead of yourself, Niko. Be careful around these men. Talk to you soon.
+0x41B055EC=~z~别做力不能及的事情，Niko。和这些人一起的时候当心点。以后再聊。
+
+;0x41E988F2=~z~Hey Roman, I got your text.
+0x41E988F2=~z~喂，Roman，我收到你的短信了。
+
+;0x4420DED5=MF3_C_OE
+0x4420DED5=MF3_C_OE
+
+;0x4462C4ED=010100100
+0x4462C4ED=010100100
+
+;0x44757EF1=~z~There are all types of people here. Most of them ignore you, some of them want to employ you, some of them want to kill you,
+0x44757EF1=~z~There are all types of people here. Most of them ignore you, some of them want to employ you, some of them want to kill you,
+
+;0x447BCC2E=MF3_C_YC
+0x447BCC2E=MF3_C_YC
+
+;0x448C5250=~z~Roman, I apologize again for not being there for you. You have done a lot for me since I got here.
+0x448C5250=~z~Roman，我再次为没来找你道歉。我来这儿以后你已经为我做了很多了。
+
+;0x44C69738=MF3_C_UF
+0x44C69738=MF3_C_UF
+
+;0x4540B262=MF3_C_EH
+0x4540B262=MF3_C_EH
+
+;0x46A01791=MF3_C_FF
+0x46A01791=MF3_C_FF
+
+;0x46C2D0FC=~z~Niko, where are you? I'm at the church now! I'm getting married.
+0x46C2D0FC=~z~Niko，你在哪儿？我现在在教堂了！我要结婚了。
+
+;0x475F7319=MF3_C_RB
+0x475F7319=MF3_C_RB
+
+;0x480AD09E=MF3_C_WC
+0x480AD09E=MF3_C_WC
+
+;0x48B46FC7=~z~Hello there. Behaving yourself are you, NB?
+0x48B46FC7=~z~你好啊，最近挺老实嘛，NB？
+
+;0x48B834B6=MF3_C_EN
+0x48B834B6=MF3_C_EN
+
+;0x49680C9C=100100010010100010
+0x49680C9C=100100010010100010
+
+;0x4A32FD6E=MF3_C_FJ
+0x4A32FD6E=MF3_C_FJ
+
+;0x4A41B7E8=~z~Roman, you'd never believe it but I met this girl on Craplist.
+0x4A41B7E8=~z~Roman, you'd never believe it but I met this girl on Craplist.
+
+;0x4A8F42B8=MF3_C_EM
+0x4A8F42B8=MF3_C_EM
+
+;0x4F50A62B=~z~Wants to be. Keeps talking about being powerful, about getting on the Commission with the five big families.
+0x4F50A62B=~z~他想那样。一直在说要做大做强，说要加入五大家族所在的委员会。
+
+;0x500BBD6A=~z~He just got out of prison and he hasn't got much but... I made the right decision.
+0x500BBD6A=~z~他才刚出狱，身上也没几个子，不过...我做了正确的选择。
+
+;0x511874C4=~z~Good, I feel like I am getting close. I have been working for Jon Gravelli.
+0x511874C4=~z~挺好的，感觉我已经很接近了。我最近在替Jon Gravelli干活。
+
+;0x5277DF65=100010010100100100
+0x5277DF65=100010010100100100
+
+;0x52A0839F=~z~I'm working for this guy, Phil Bell, at the moment. He's better than Ray Boccino.
+0x52A0839F=~z~我现在在和这个人做事，Phil Bell。他这人比Ray Boccino要好。
+
+;0x540565CA=MF3_CC_PE
+0x540565CA=MF3_CC_PE
+
+;0x5579F42B=~z~The choice between some titties and your safety would have been difficult for me as well.
+0x5579F42B=~z~在你和奶子直接选一个的话对我也是个难题。
+
+;0x559BC6CC=MF3_C_EI
+0x559BC6CC=MF3_C_EI
+
+;0x55DD2A95=MF3_C_GI
+0x55DD2A95=MF3_C_GI
+
+;0x57E5239F=~z~Roman, can I ask you a question?
+0x57E5239F=~z~Roman，我能问你个问题吗？
+
+;0x58657441=~z~This cannot happen without my best man.
+0x58657441=~z~没有我的伴郎怎么能行呢？
+
+;0x59B266F2=~z~The Lost? Those guys are meant to be really dangerous, cousin.
+0x59B266F2=~z~Lost？那些人都很危险的，堂弟。
+
+;0x5A0DD6FD=~z~Not when it means me getting beat up and sent to hospital. Come and pick me up, cousin.
+0x5A0DD6FD=~z~那也不是在我被人暴打送进医院的时候啊。过来接我，堂弟。
+
+;0x5BE1DB28=~z~It's all sport, NB. Have some fun with her. Later on, cousin. I'm proud of you.
+0x5BE1DB28=~z~It's all sport, NB. Have some fun with her. Later on, cousin. I'm proud of you.
+
+;0x5BF98FB2=MF3_C_OA
+0x5BF98FB2=MF3_C_OA
+
+;0x5C1F9B58=~z~I've got to go, Roman. I'll talk to you soon.
+0x5C1F9B58=~z~我得挂了，Roman。我会尽快打给你的。
+
+;0x5C793A65=010100100010100100100
+0x5C793A65=010100100010100100100
+
+;0x5E3023ED=~z~A less violent one. I'll speak to you soon, okay?
+0x5E3023ED=~z~不太暴力的一条路。我会再和你联系的，好吧？
+
+;0x5E6341E5=~z~Maybe you should come to the cab office and help me out?
+0x5E6341E5=~z~你能不能来车行帮我一下？
+
+;0x602281DD=MF3_C_WD
+0x602281DD=MF3_C_WD
+
+;0x6121A307=MF3_C_KH
+0x6121A307=MF3_C_KH
+
+;0x61345F50=~z~You better be better than fine, cousin. Get to the church for 10am and remember to wear some nice clothes.
+0x61345F50=~z~你最好比很好还要好，堂弟。早上十点到教堂来，衣服记得穿好点。
+
+;0x61EC689D=~z~You don't want to get caught up in that shit. Take your cut of the diamonds and get out of there.
+0x61EC689D=~z~你不会想招上这种事的。拿走你那份钻石的分成就脱身吧。
+
+;0x6266FF2D=MF3_CC_PD
+0x6266FF2D=MF3_CC_PD
+
+;0x62877BF2=MF3_C_CI
+0x62877BF2=MF3_C_CI
+
+;0x62A1CCCD=~z~Yeah, the head of the family. Is he a big time gangster like in the movies then?
+0x62A1CCCD=~z~嗯，家族老大。那他是不是像电影里演的那种黑帮大佬一样？
+
+;0x6441F7A9=~z~Roman, how's it going?
+0x6441F7A9=~z~Roman，近况如何啊？
+
+;0x64A3B101=~z~Enjoy her, Cousin. Later on.
+0x64A3B101=~z~Enjoy her, Cousin. Later on.
+
+;0x64C127E0=~z~What're they like, NB? The gangsters?
+0x64C127E0=~z~他们怎么样，NB？那些黑道？
+
+;0x67096342=MF3_C_JE
+0x67096342=MF3_C_JE
+
+;0x671885E6=100100010100010010010010100100100010010100
+0x671885E6=100100010100010010010010100100100010010100
+
+;0x671E8AFD=MF3_C_ZA
+0x671E8AFD=MF3_C_ZA
+
+;0x674179D7=MF3_C_EG
+0x674179D7=MF3_C_EG
+
+;0x67ED8516=MF3_C_MF
+0x67ED8516=MF3_C_MF
+
+;0x69716C90=MF3_C_FA
+0x69716C90=MF3_C_FA
+
+;0x69AC7B40=MF3_C_MC
+0x69AC7B40=MF3_C_MC
+
+;0x6B02997B=~z~Don't worry, Roman. I'm on my way.
+0x6B02997B=~z~别着急，Roman。我来了。
+
+;0x6B3FF961=~z~And at least tell me that you got her titties out? Maybe then your betrayal would be worthwhile.
+0x6B3FF961=~z~你至少也得摸到她的奶子吧？那样的话你的背叛倒还算值得。
+
+;0x6B7D4AD3=~z~Shame on you, Niko Bellic. You should know better than this. Who is she? Who'd you take her for?
+0x6B7D4AD3=~z~真是可耻，Niko Bellic。你自己也知道的。她是谁？你绑架她是要干什么？
+
+;0x6BA43EEE=~z~Cousin.
+0x6BA43EEE=~z~Cousin.
+
+;0x6D997E97=~z~Some trust-funder called Alex. I don't really like her but it's something to do, isn't it?
+0x6D997E97=~z~Some trust-funder called Alex. I don't really like her but it's something to do, isn't it?
+
+;0x6E2BF93F=~z~I want you looking good for the wedding.
+0x6E2BF93F=~z~婚礼上希望你能好看点。
+
+;0x6EAE7702=MF3_C_LC
+0x6EAE7702=MF3_C_LC
+
+;0x6ED3FD09=MF3_C_LG
+0x6ED3FD09=MF3_C_LG
+
+;0x6F6A9799=MF3_C_ZE
+0x6F6A9799=MF3_C_ZE
+
+;0x7014E548=~z~Great, Niko. I've got my hands full at the moment with these charming money lenders I know.
+0x7014E548=~z~真好，Niko。现在我和那些友善的借款人们正忙着呢。
+
+;0x702A53E1=~z~Niko, man. What's up?
+0x702A53E1=~z~Niko, man. What's up?
+
+;0x708897AB=MF3_C_GH
+0x708897AB=MF3_C_GH
+
+;0x70E36950=~z~I've been working for Jimmy Pegorino, the head of that Alderney guido family.
+0x70E36950=~z~我最近在替Jimmy Pegorino做事，他是Alderney的一个意大利家族的老大。
+
+;0x72E4DBCF=~z~Roman, you are right about Liberty City. It is a crazy place.
+0x72E4DBCF=~z~Roman, you are right about Liberty City. It is a crazy place.
+
+;0x7327B723=MF3_C_NA
+0x7327B723=MF3_C_NA
+
+;0x733919FF=~z~running around after these diamonds he stole.
+0x733919FF=~z~正在追他偷走的那些钻石。
+
+;0x741D4FC7=~z~It must be difficult, Niko. Maybe there is another path to take.
+0x741D4FC7=~z~一定很艰难吧，Niko。可能还有其它路可走。
+
+;0x760CCA5B=~z~I can't think who else would. Speak to you soon, cousin.
+0x760CCA5B=~z~我也想不到还有谁能找到了。以后再聊，堂兄。
+
+;0x78988410=MF3_C_MH
+0x78988410=MF3_C_MH
+
+;0x7AE1DD69=~z~NB, you are certainly my cousin.
+0x7AE1DD69=~z~NB, you are certainly my cousin.
+
+;0x7B8ED2A6=MF3_C_DD
+0x7B8ED2A6=MF3_C_DD
+
+;0x7BAA088C=MF3_C_HA
+0x7BAA088C=MF3_C_HA
+
+;0x7C77203A=MF3_C_KC
+0x7C77203A=MF3_C_KC
+
+;0x7C7F172B=MF3_C_VB
+0x7C7F172B=MF3_C_VB
+
+;0x7D1A547D=MF3_C_DI
+0x7D1A547D=MF3_C_DI
+
+;0x7D303DD6=~z~Thank you, cousin. Remember to wear some nice clothes.
+0x7D303DD6=~z~谢谢你，堂弟。衣服记得穿好点。
+
+;0x7EA24FBF=~z~You mean like when you sleep with two girls on one night and they turn out to be mother and daughter?
+0x7EA24FBF=~z~你是说一晚上睡了两个女人，结果她们是母女的那种吗？
+
+;0x7F664242=~z~I want you looking good for the happiest day of my life.
+0x7F664242=~z~我希望你在我的大喜之日能好看点。
+
+;0x802EF663=~z~What happened to you, Niko?
+0x802EF663=~z~What happened to you, Niko?
+
+;0x80431F93=MF3_C_VC
+0x80431F93=MF3_C_VC
+
+;0x809F3063=~z~Who says I didn't.
+0x809F3063=~z~谁说我没干的。
+
+;0x80FE14E1=MF3_C_LE
+0x80FE14E1=MF3_C_LE
+
+;0x818D91B1=MF3_C_UE
+0x818D91B1=MF3_C_UE
+
+;0x81B5F45D=MF3_C_RA
+0x81B5F45D=MF3_C_RA
+
+;0x81DEEB4A=~z~He was a cockroach - a pest. But I don't know how long I can keep on dealing in death.
+0x81DEEB4A=~z~他是个蟑螂－害虫。但我不知道这种杀人买卖我还能做多久。
+
+;0x81F7A0D6=~z~He's fine.
+0x81F7A0D6=~z~他很好。
+
+;0x81FED082=100010100010010100100010010
+0x81FED082=100010100010010100100010010
+
+;0x82E13B89=MF3_C_CC
+0x82E13B89=MF3_C_CC
+
+;0x847E9E2A=MF3_C_FE
+0x847E9E2A=MF3_C_FE
+
+;0x85A460B7=MF3_C_OF
+0x85A460B7=MF3_C_OF
+
+;0x86EC01B4=~z~I did everything they said except for give you up, cousin. I was scared shitless.
+0x86EC01B4=~z~他们说的我都照做，除了出卖你，堂弟。我很害怕的。
+
+;0x87DAB296=~z~Anyway, I was seeing Michelle. I thought you wanted me to date her?
+0x87DAB296=~z~再说了，刚才我去找Michelle了。之前不是你想让我去约她吗？
+
+;0x88F77803=100010010100100100100010
+0x88F77803=100010010100100100100010
+
+;0x8A80AE9A=~z~I'm working with that Irish family. She's some mobster's daughter - Gracie Ancelotti.
+0x8A80AE9A=~z~我在给那个爱尔兰家族做事。她是某个黑道的女儿－Gracie Ancelotti。
+
+;0x8A8FB24A=MF3_C_JB
+0x8A8FB24A=MF3_C_JB
+
+;0x8BB9CB12=MF3_C_CH
+0x8BB9CB12=MF3_C_CH
+
+;0x8C3FC1E7=MF3_C_KE
+0x8C3FC1E7=MF3_C_KE
+
+;0x8E27D56A=MF3_C_CG
+0x8E27D56A=MF3_C_CG
+
+;0x8ECCCCD2=~z~This fucked up Irish family, well some of them.
+0x8ECCCCD2=~z~这个什么爱尔兰家族，他们中的几个。
+
+;0x901287DE=~z~No connections to your friends no chance of your girlfriend finding out.
+0x901287DE=~z~No connections to your friends no chance of your girlfriend finding out.
+
+;0x90647F26=~z~He should be paranoid. The Feds are after organized crime in a big way.
+0x90647F26=~z~他是该多疑点。FIB打击组织犯罪的力度可不小。
+
+;0x90DBDED6=~z~Secondly, I don't think that your loan shark friends could hospitalize me. I can look after myself.
+0x90DBDED6=~z~其次，我不觉得你那些高利贷朋友能把我送进医院。我能保护好自己。
+
+;0x90E7B891=MF3_C_GD
+0x90E7B891=MF3_C_GD
+
+;0x91D0D85B=MF3_C_IA
+0x91D0D85B=MF3_C_IA
+
+;0x94A00050=MF3_C_DH
+0x94A00050=MF3_C_DH
+
+;0x94F2C37E=~z~Niko, shit. You're fucking with the mob. The Ancelottis are one of the five old families.
+0x94F2C37E=~z~Niko，我靠。你丫怎么惹了这个帮派。Ancelotti家族是五大家族之一。
+
+;0x95C54E6B=~z~Thank you for taking the time out of your busy schedule to protect me from those crazy loan sharks you attacked, Niko.
+0x95C54E6B=~z~感谢你这个大忙人能抽出时间，从那些你招惹的高利贷疯子手下保护我，Niko。
+
+;0x96666AAC=MF3_C_ZB
+0x96666AAC=MF3_C_ZB
+
+;0x96699467=~z~Your conscience? Have you killed too many people, Niko?
+0x96699467=~z~你的良知？你是杀了太多人了吗，Niko？
+
+;0x9822516F=010100010100010010100
+0x9822516F=010100010100010010100
+
+;0x9883C65D=MF3_C_GF
+0x9883C65D=MF3_C_GF
+
+;0x992390A4=~z~Paranoid about wire taps and helicopters but he seems legitimate.
+0x992390A4=~z~后者整天担心被窃听和直升机，但他就正经多了。
+
+;0x994AF38B=MF3_C_YA
+0x994AF38B=MF3_C_YA
+
+;0x999611DB=100010100100010010100010100010100100
+0x999611DB=100010100100010010100010100010100100
+
+;0x9A0EA7F9=~z~That's what I thought. I've had to kidnap this girl and she's a fucking nightmare.
+0x9A0EA7F9=~z~和我想的一样。我不得不绑架了这个女孩，而她他妈是个噩梦。
+
+;0x9AEFC772=MF3_C_JA
+0x9AEFC772=MF3_C_JA
+
+;0x9BB42743=MF3_C_FL
+0x9BB42743=MF3_C_FL
+
+;0x9CF1E46B=MF3_C_KF
+0x9CF1E46B=MF3_C_KF
+
+;0x9D660299=100100010100100
+0x9D660299=100100010100100
+
+;0x9D7B5FF2=~z~I heard there was a war or something on between the Lost and the Angels of Death.
+0x9D7B5FF2=~z~我听说失落和死亡天使开战了还是怎么样的。
+
+;0x9DDE859C=~z~Look you'll have to have some fun with the nurses because I can't pick you up. See you soon.
+0x9DDE859C=~z~我没法来接你，看来你得和护士们找会儿乐子了。回头见。
+
+;0x9E2C6B91=~z~You're shitting me, NB. No fucking way! Who'd you do it with?
+0x9E2C6B91=~z~你他妈吓我吧，NB。门都没有的！你跟谁一起干的？
+
+;0x9E95F2EA=MF3_C_XA
+0x9E95F2EA=MF3_C_XA
+
+;0x9E9B24EF=~z~I hear you were seen out on the town with a sexy young girl. Who is she?
+0x9E9B24EF=~z~I hear you were seen out on the town with a sexy young girl. Who is she?
+
+;0x9F5F6DE3=~z~Have you seen this bank heist on the news, NB? That's some crazy shit. I bet you wish you'd pulled off a job like that...
+0x9F5F6DE3=~z~你看见了新闻上说的这个银行劫案了吗，NB？那可太他妈疯狂了。我看你肯定也想干这么一票。
+
+;0x9F767279=~z~It's been a fucking hassle and all for nothing.
+0x9F767279=~z~这回他妈惹了一堆麻烦，还他妈啥都没拿到。
+
+;0xA027FED8=010100010100010010100100
+0xA027FED8=010100010100010010100100
+
+;0xA0D602CE=MF3_CC_PB
+0xA0D602CE=MF3_CC_PB
+
+;0xA1E6F5C4=~z~Make sure you get lots of beauty sleep. You need to be at the church at 10am though.
+0xA1E6F5C4=~z~晚上务必要睡得好点。明早十点你就要到教堂了。
+
+;0xA201600D=MF3_C_JC
+0xA201600D=MF3_C_JC
+
+;0xA31B1A14=MF3_C_SA
+0xA31B1A14=MF3_C_SA
+
+;0xA4ECFA14=100
+0xA4ECFA14=100
+
+;0xA529ED34=~z~You shouldn't have borrowed money from them in the first place, Roman.
+0xA529ED34=~z~一开始你就不该问他们借钱的，Roman。
+
+;0xA72667E5=~z~I don't know nothing about this. Give her back as soon as you can. I've got to go, Niko.
+0xA72667E5=~z~具体我也不太清楚。尽快把她放了吧。我得挂了，Niko。
+
+;0xA7869696=010100010100010010010100100010
+0xA7869696=010100010100010010010100100010
+
+;0xA7C4371C=~z~I think it's my conscience. I don't know.
+0xA7C4371C=~z~可能是我的良知吧。我不清楚。
+
+;0xA8ADA19C=~z~Sure Roman, I'll see you at the church. I'm looking forward to it.
+0xA8ADA19C=~z~好的，Roman，我们教堂见。我很期待。
+
+;0xA8ADAE4B=MF3_C_DG
+0xA8ADAE4B=MF3_C_DG
+
+;0xA93324EC=~z~I mean like this Dominican looking guy shot up a deal I was trying to make.
+0xA93324EC=~z~我是说这个多米尼加人先开枪搅乱了我要进行的交易。
+
+;0xA9A7C6DF=~z~Remember to make it clear that you are a red blooded animal though and you won't be tied down
+0xA9A7C6DF=~z~Remember to make it clear that you are a red blooded animal though and you won't be tied down
+
+;0xAA6569F9=MF3_C_MG
+0xAA6569F9=MF3_C_MG
+
+;0xAB08346D=~z~I need to work with these guys. Hopefully they'll be able to find Darko Brevic for me.
+0xAB08346D=~z~我需要和这些人一起做事。他们有希望能帮我找到Darko Brevic。
+
+;0xAB2A70D5=MF3_C_LF
+0xAB2A70D5=MF3_C_LF
+
+;0xAB7E8639=~z~and the other is a heroin addict ex-freedom fighter. Then there's a sister...
+0xAB7E8639=~z~还有一个是个海洛因成瘾的前自由斗士。然后就是一个妹妹...
+
+;0xAB8A20F3=~z~You're an animal, Roman. Nothing can stop you being horny.
+0xAB8A20F3=~z~你这个禽兽，Roman。什么时候都能发情。
+
+;0xAC35C024=~z~Her name is Carmen. I met her on Lovemeet.
+0xAC35C024=~z~Her name is Carmen. I met her on Lovemeet.
+
+;0xAC3991E5=010
+0xAC3991E5=010
+
+;0xAC579A84=MF3_C_YB
+0xAC579A84=MF3_C_YB
+
+;0xAD0D9739=~z~If she was not a friend of Mallorie's it would be me with the smell of tittie on my breath and you who ended up in hospital.
+0xAD0D9739=~z~要不是因为她是Michelle的朋友，呼吸里透着她的奶子味儿的人就会是我，该进医院的就是你了。
+
+;0xAE3DD375=~z~There is the man who chose cooch before his cousin. I hope she was worth it.
+0xAE3DD375=~z~有个人在他堂兄前选了马子，希望那女人是值得的。
+
+;0xAF890971=MF3_C_HC
+0xAF890971=MF3_C_HC
+
+;0xB23109E7=MF3_C_UA
+0xB23109E7=MF3_C_UA
+
+;0xB2AC42F0=MF3_C_DB
+0xB2AC42F0=MF3_C_DB
+
+;0xB54E448A=MF3_C_OC
+0xB54E448A=MF3_C_OC
+
+;0xB5745EC4=~z~Were you an asshole to the people who took you or did you behave yourself?
+0xB5745EC4=~z~你是在绑匪面前做个混蛋还是乖乖听他的？
+
+;0xB57BA559=MF3_C_CF
+0xB57BA559=MF3_C_CF
+
+;0xB5BE49D9=~z~Stay disorganized would be my advice, Niko. Don't let them get you for racketeering.
+0xB5BE49D9=~z~我的建议是保持无组织，Niko。别让他们以涉黑罪逮捕你。
+
+;0xB5DDBB79=MF3_C_DJ
+0xB5DDBB79=MF3_C_DJ
+
+;0xB602D399=~z~Why, what's wrong?
+0xB602D399=~z~咋了，出什么事了吗？
+
+;0xB6EF916B=MF3_C_QA
+0xB6EF916B=MF3_C_QA
+
+;0xB76BBE85=~z~You're an animal, Roman. Nothing can stop you being horny. I'll see you soon.
+0xB76BBE85=~z~你这个禽兽，Roman，什么时候都能发情。我马上来接你。
+
+;0xB859C27E=MF3_C_NE
+0xB859C27E=MF3_C_NE
+
+;0xB9A52286=~z~There are four brothers: two are gangsters, one's a cop
+0xB9A52286=~z~他们有四兄弟：两个黑道，一个条子，
+
+;0xBB670331=MF3_C_FH
+0xBB670331=MF3_C_FH
+
+;0xBBB4E624=MF3_C_FK
+0xBBB4E624=MF3_C_FK
+
+;0xBBDFB0BE=100100010100100
+0xBBDFB0BE=100100010100100
+
+;0xBC08155D=~z~He tried to get me to get rid of a friend of his for him but, uh, I liked the friend better.
+0xBC08155D=~z~他想让我帮他除掉他的一个朋友，不过，呃，我更喜欢他的朋友。
+
+;0xBD222472=MF3_C_ME
+0xBD222472=MF3_C_ME
+
+;0xBD2EEDED=~z~That is a useful profession considering your job, NB. Good work.
+0xBD2EEDED=~z~That is a useful profession considering your job, NB. Good work.
+
+;0xBDF4CC2A=~z~Go home and get some sleep then meet me at the church for 10am.
+0xBDF4CC2A=~z~回家睡个好觉，明早十点来教堂找我。
+
+;0xBE5BAEC1=~z~Sure Roman, I'll see you at the church. I'm looking forward to it.
+0xBE5BAEC1=~z~好的，Roman，我们教堂见。我很期待。
+
+;0xBE92BA43=~z~Firstly Roman, my breath does not smell of titty.
+0xBE92BA43=~z~首先，Roman，我的呼吸里没有奶子味儿。
+
+;0xC4DA99B0=MF3_C_FI
+0xC4DA99B0=MF3_C_FI
+
+;0xC5D15E28=~z~So, he steals the diamonds at the deal and then has to give them back for the girl. What's the big deal?
+0xC5D15E28=~z~所以就是，他在交易的时候偷走了钻石，然后又为了这女孩把钻石交了回来。那有什么？
+
+;0xC61A8838=MF3_C_FB
+0xC61A8838=MF3_C_FB
+
+;0xC7CDD1D1=MF3_CC_PA
+0xC7CDD1D1=MF3_CC_PA
+
+;0xC814F214=MF3_C_KG
+0xC814F214=MF3_C_KG
+
+;0xC9460488=010100010100010100100100010
+0xC9460488=010100010100010100100100010
+
+;0xCA41B1D0=~z~This drug dealer, Playboy X.
+0xCA41B1D0=~z~是个毒贩子，Playboy X。
+
+;0xCA662BE0=MF3_D_AD
+0xCA662BE0=MF3_D_AD
+
+;0xCB57C532=MF3_C_HG
+0xCB57C532=MF3_C_HG
+
+;0xCC3368A7=~z~Niko, I'm getting married tomorrow. Can you believe it?
+0xCC3368A7=~z~Niko，明天我就要结婚了。你敢信吗？
+
+;0xCC446202=MF3_C_OB
+0xCC446202=MF3_C_OB
+
+;0xCE860166=MF3_C_KI
+0xCE860166=MF3_C_KI
+
+;0xCF1191AE=~z~That won't be a problem, Roman. We're not serious. I'll talk to you soon.
+0xCF1191AE=~z~That won't be a problem, Roman. We're not serious. I'll talk to you soon.
+
+;0xD022464B=MF3_C_KB
+0xD022464B=MF3_C_KB
+
+;0xD1B3CBD2=MF3_C_KD
+0xD1B3CBD2=MF3_C_KD
+
+;0xD1B61974=~z~some of them want to fuck you. It's mad cousin. Enjoy the ride.
+0xD1B61974=~z~some of them want to fuck you. It's mad cousin. Enjoy the ride.
+
+;0xD1D925B7=MF3_C_UD
+0xD1D925B7=MF3_C_UD
+
+;0xD21C8564=MF3_C_DC
+0xD21C8564=MF3_C_DC
+
+;0xD3103539=MF3_C_IF
+0xD3103539=MF3_C_IF
+
+;0xD3A91AE1=~z~Not much, cousin. I've gone on a date with this girl I met on Lovemeet.
+0xD3A91AE1=~z~Not much, cousin. I've gone on a date with this girl I met on Lovemeet.
+
+;0xD495FBB1=~z~Hey Roman. You ever wonder if things are just coincidence or if everything is all planned?
+0xD495FBB1=~z~喂，Roman。你有没有想过有些事是巧合，还是说全部都是被计划好的？
+
+;0xD49E4E37=~z~This Dominican looking guy shot the place up.
+0xD49E4E37=~z~被一个多米尼加人开枪搅和了。
+
+;0xD4EF1DB1=~z~Cousin, how's it going?
+0xD4EF1DB1=~z~堂弟，近况如何啊？
+
+;0xD5A45A84=~z~I can tell from your voice that you like her, Cousin. Are you two doing it?
+0xD5A45A84=~z~听你的声音我就知道你喜欢她，堂弟。你们俩好上了吗？
+
+;0xD61A4981=~z~Now that you mention it...
+0xD61A4981=~z~既然你提到了...
+
+;0xD63B0714=MF3_C_ZC
+0xD63B0714=MF3_C_ZC
+
+;0xD6DDCDCD=MF3_C_JH
+0xD6DDCDCD=MF3_C_JH
+
+;0xD82DCD2B=MF3_C_VA
+0xD82DCD2B=MF3_C_VA
+
+;0xD896B7C5=~z~I hope you will be able to relax when you do finally find him, Niko. Speak soon.
+0xD896B7C5=~z~希望你最后找到他的时候能够放松下来，Niko。以后聊。
+
+;0xD9BF709C=~z~How was she cousin? Tell me how she was. I wondered about Michelle when I first met her.
+0xD9BF709C=~z~她怎么样，堂弟？告诉我她怎么样。我第一次见到Michelle就对她好奇了。
+
+;0xDB51DB48=MF3_C_UB
+0xDB51DB48=MF3_C_UB
+
+;0xDBD0D3D9=100010100010100010010100
+0xDBD0D3D9=100010100010100010010100
+
+;0xDCD3F128=MF3_C_GG
+0xDCD3F128=MF3_C_GG
+
+;0xDE8DB781=100100010
+0xDE8DB781=100100010
+
+;0xDEA0C25E=~z~I'll see you soon.
+0xDEA0C25E=~z~我会尽快来找你的。
+
+;0xE099373A=~z~I'll try to. Later on.
+0xE099373A=~z~I'll try to. Later on.
+
+;0xE12F14E3=~z~Then, I've kidnapped this girl and we're handing her over for these same diamonds
+0xE12F14E3=~z~然后我绑架了这个女孩，用同一袋钻石做赎金放了她
+
+;0xE14077C7=MF3_C_WE
+0xE14077C7=MF3_C_WE
+
+;0xE1D775B8=~z~Niko, I'm getting married tomorrow. Can you believe it?
+0xE1D775B8=~z~Niko，明天我就要结婚了。你敢信吗？
+
+;0xE1D81F6E=MF3_C_ZD
+0xE1D81F6E=MF3_C_ZD
+
+;0xE1E01725=MF3_C_OH
+0xE1E01725=MF3_C_OH
+
+;0xE2C6EA88=~z~My heart goes out to you, cousin. I'll talk to you soon.
+0xE2C6EA88=~z~我很同情你，堂弟。我会再联系你的。
+
+;0xE3914AC4=010010
+0xE3914AC4=010010
+
+;0xE44ADAE4=MF3_C_HB
+0xE44ADAE4=MF3_C_HB
+
+;0xE511F95F=~z~A sister? That sounds more my speed than these crazy brothers.
+0xE511F95F=~z~妹妹？这可比那些疯狂的兄弟要和我胃口多了。
+
+;0xE7FD6823=MF3_C_GC
+0xE7FD6823=MF3_C_GC
+
+;0xE81B839C=MF3_C_XC
+0xE81B839C=MF3_C_XC
+
+;0xE835FC0F=MF3_C_EK
+0xE835FC0F=MF3_C_EK
+
+;0xE84519BF=~z~Don't worry, Niko. Call me soon.
+0xE84519BF=~z~别担心，Niko。有空打给我。
+
+;0xEBE64B57=~z~to a monogamous relationship.
+0xEBE64B57=~z~to a monogamous relationship.
+
+;0xED03FEEE=MF3_C_KA
+0xED03FEEE=MF3_C_KA
+
+;0xEECA1AA5=~z~All the more reason why I should have hooked up with Michelle. Everyone would be a winner.
+0xEECA1AA5=~z~那我就更有理由和Michelle在一起了，大家双赢。
+
+;0xEFFC9B76=MF3_CC_PC
+0xEFFC9B76=MF3_CC_PC
+
+;0xF02B32DB=~z~It's not as much of a coincidence as the mother and daughter.
+0xF02B32DB=~z~还没有刚才那对母女来的巧合。
+
+;0xF05F79BF=MF3_C_GB
+0xF05F79BF=MF3_C_GB
+
+;0xF0F93EF0=MF3_C_ND
+0xF0F93EF0=MF3_C_ND
+
+;0xF166990D=MF3_C_GE
+0xF166990D=MF3_C_GE
+
+;0xF2630270=MF3_C_EC
+0xF2630270=MF3_C_EC
+
+;0xF44D4478=MF3_C_NC
+0xF44D4478=MF3_C_NC
+
+;0xF45F42B3=010100010100010010100010100
+0xF45F42B3=010100010100010010100010100
+
+;0xF5218724=~z~Niko, today is going to be the happiest day of my life.
+0xF5218724=~z~Niko，今天是我一生中最幸福的日子。
+
+;0xF530F22E=MF3_C_CE
+0xF530F22E=MF3_C_CE
+
+;0xF5649ACE=MF3_C_XB
+0xF5649ACE=MF3_C_XB
+
+;0xF6259FDA=~z~Who's paying the bills at the moment?
+0xF6259FDA=~z~这次出钱的又是谁？
+
+;0xF7DFF324=MF3_C_UC
+0xF7DFF324=MF3_C_UC
+
+;0xF8578E03=~z~Good, NB. I'll talk to you later on.
+0xF8578E03=~z~那就好，NB。我们以后再聊。
+
+;0xF92F5A1E=~z~The best place to find a woman, NB.
+0xF92F5A1E=~z~The best place to find a woman, NB.
+
+;0xF9414BD1=MF3_C_DF
+0xF9414BD1=MF3_C_DF
+
+;0xF98417D2=MF3_C_EA
+0xF98417D2=MF3_C_EA
+
+;0xFB0F5585=MF3_C_CA
+0xFB0F5585=MF3_C_CA
+
+;0xFB2E0889=100100010
+0xFB2E0889=100100010
+
+;0xFB7F4983=~z~and this Dominican looking guy is there again.
+0xFB7F4983=~z~结果这个多米尼加人又出现了。
+
+;0xFBBCD7BC=MF3_C_CB
+0xFBBCD7BC=MF3_C_CB
+
+;0xFD8B3DDC=MF3_C_WA
+0xFD8B3DDC=MF3_C_WA
+

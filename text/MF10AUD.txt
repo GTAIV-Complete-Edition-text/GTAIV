@@ -1,0 +1,643 @@
+﻿;注：
+;1、含Beta文本 没翻的都是 无视即可
+
+[MF10AUD]
+;0x0482EC21=MF5_AA
+0x0482EC21=MF5_AA
+
+;0x0489931A=~z~It was a gamble and it paid off.
+0x0489931A=~z~It was a gamble and it paid off.
+
+;0x04BBE82B=~z~Don't call when you have nothing.
+0x04BBE82B=~z~Don't call when you have nothing.
+
+;0x05AFD050=~z~We need to talk in person.
+0x05AFD050=~z~We need to talk in person.
+
+;0x05BFC850=MF5_TB
+0x05BFC850=MF5_TB
+
+;0x064EA4CF=MF5_A_CA
+0x064EA4CF=MF5_A_CA
+
+;0x0659356E=~z~with a bottom feeder like you?
+0x0659356E=~z~和你这样的底层人站在一起吗？
+
+;0x091CB09A=MF5_GI
+0x091CB09A=MF5_GI
+
+;0x0944F2E7=~z~I'm not exactly sober, I better not be driving.
+0x0944F2E7=~z~我不是很清醒，最好别开车。
+
+;0x0C89321F=~z~I don't know, I'm just surprised you have not found more success with your... talents.
+0x0C89321F=~z~I don't know, I'm just surprised you have not found more success with your... talents.
+
+;0x111BE294=MF5_SD
+0x111BE294=MF5_SD
+
+;0x11E3BE97=MF5_VG
+0x11E3BE97=MF5_VG
+
+;0x1255D9C0=MF5_SB
+0x1255D9C0=MF5_SB
+
+;0x128C459D=~z~Goodbye.
+0x128C459D=~z~再见。
+
+;0x12DD8382=MF5_UA
+0x12DD8382=MF5_UA
+
+;0x1319025D=100090090100
+0x1319025D=100090090100
+
+;0x13AD2054=MF5_WA
+0x13AD2054=MF5_WA
+
+;0x140EE8B3=~z~Niko, it's Dimitri.
+0x140EE8B3=~z~Niko，我是Dimitri。
+
+;0x158BA61E=~z~The boy you killed was the son of Kenny Petrovic.
+0x158BA61E=~z~你杀的那小子是Kenny Petrovic的儿子。
+
+;0x17DF8DD8=MF5_VH
+0x17DF8DD8=MF5_VH
+
+;0x1801AC4C=~z~I cannot believe that you would steal from my friend Ray Bulgarin twice.
+0x1801AC4C=~z~我真是不能相信，你居然偷了我朋友Ray Bulgarin的东西两次。
+
+;0x192B15AF=~z~We need to talk in person.
+0x192B15AF=~z~We need to talk in person.
+
+;0x1BC787A9=100010100100
+0x1BC787A9=100010100100
+
+;0x1C0EFDD8=~z~We need to talk in person. I'll be on the Firefly Island boardwalk from 5pm to 3am.
+0x1C0EFDD8=~z~We need to talk in person. I'll be on the Firefly Island boardwalk from 5pm to 3am.
+
+;0x1E3ED58A=~z~How can you be too good?
+0x1E3ED58A=~z~How can you be too good?
+
+;0x1F408502=~z~Now that I hear you are friends with Bryce Dawkins and Bernie Crane, I know what it is.
+0x1F408502=~z~现在我听说你跟Bryce Dawkins和Bernie Crane是朋友，就知道哪儿不对了。
+
+;0x217C6690=MF5_VA
+0x217C6690=MF5_VA
+
+;0x2189A23A=MF5_UB
+0x2189A23A=MF5_UB
+
+;0x21B427C4=SFX_MACHINE_BEEP
+0x21B427C4=SFX_MACHINE_BEEP
+
+;0x2248A837=~z~Hey friend, there's no one's here right now.
+0x2248A837=~z~Hey friend, there's no one's here right now.
+
+;0x224C454C=100010100100010100100
+0x224C454C=100010100100010100100
+
+;0x2384C03B=~z~Why don't you just pay him what you owe and we can all get along?
+0x2384C03B=~z~你怎么就不能一次还清，让我们大家都好做点？
+
+;0x23DE7426=MF5_WN
+0x23DE7426=MF5_WN
+
+;0x23E86F92=MF5_CG
+0x23E86F92=MF5_CG
+
+;0x27FA50D9=MF5_DC
+0x27FA50D9=MF5_DC
+
+;0x286F5AE5=~z~They might want to make different decisions. Enjoy your life, I don't want nothing more to do with you.
+0x286F5AE5=~z~They might want to make different decisions. Enjoy your life, I don't want nothing more to do with you.
+
+;0x292E9023=MF5_WE
+0x292E9023=MF5_WE
+
+;0x29CB1896=~z~Alright, discuss it.
+0x29CB1896=~z~Alright, discuss it.
+
+;0x2A9A33E7=~z~Mr. Faustin, does not like to be bothered with trivialities. Goodbye.
+0x2A9A33E7=~z~Mr. Faustin, does not like to be bothered with trivialities. Goodbye.
+
+;0x2AF0FE29=~z~You know why I killed Faustin. It was not my choice.
+0x2AF0FE29=~z~你也知道我杀Faustin的原因。又不是我做的主。
+
+;0x2B3FAE50=MF5_EE
+0x2B3FAE50=MF5_EE
+
+;0x2D86B126=100100
+0x2D86B126=100100
+
+;0x2DFCC699=100100
+0x2DFCC699=100100
+
+;0x2FEBF8E4=~z~You're right. You are lucky now though. This is a good partnership.
+0x2FEBF8E4=~z~You're right. You are lucky now though. This is a good partnership.
+
+;0x3093A1BC=~z~I nearly ran into your cousin the other day. My friends were hanging out with him.
+0x3093A1BC=~z~前两天我差点就碰到你堂兄了。当时我的朋友和他在一起。
+
+;0x3261D90D=010
+0x3261D90D=010
+
+;0x33E6DE8E=~z~So, this is what the dream feels like, this is the victory we longed for.
+0x33E6DE8E=~z~原来，梦想成真是这种感觉，这就是我们渴求的胜利。
+
+;0x34856553=~z~You are in debt to him, Niko.
+0x34856553=~z~你欠他很多，Niko。
+
+;0x34ACAFDA=~z~I will cut you in Niko. Let's be friends.
+0x34ACAFDA=~z~我会分你一笔的，Niko。我们做朋友吧。
+
+;0x36CC779F=~z~Come on, I put you in a position to make a lot of money.
+0x36CC779F=~z~Come on, I put you in a position to make a lot of money.
+
+;0x380D351A=~z~Niko, it is Dimitri. We have something to discuss.
+0x380D351A=~z~Niko, it is Dimitri. We have something to discuss.
+
+;0x3BC731AF=MF5_EA
+0x3BC731AF=MF5_EA
+
+;0x3D2D3AF4=MF5_A_EA
+0x3D2D3AF4=MF5_A_EA
+
+;0x3D6BA4F8=MF5_CA
+0x3D6BA4F8=MF5_CA
+
+;0x3DA0FFBC=~z~There ain't no one here right now. Please leave a message.
+0x3DA0FFBC=~z~现在没有人在，请留言。
+
+;0x3E5C1D54=~z~No, I'm doing my best though.
+0x3E5C1D54=~z~No, I'm doing my best though.
+
+;0x3F6AA790=~z~Niko Bellic, we did not find your body with the others in the warehouse.
+0x3F6AA790=~z~Niko Bellic，我们没在仓库的那些尸体里面里找到你.
+
+;0x3FFF24BF=MF5_FE
+0x3FFF24BF=MF5_FE
+
+;0x4092B264=MF5_VI
+0x4092B264=MF5_VI
+
+;0x41EE4A5D=~z~Persuade them to give up the contracts. We can work together.
+0x41EE4A5D=~z~劝他们放弃感情吧。我们可以合作。
+
+;0x4245451F=~z~I have nothing to say to you.
+0x4245451F=~z~我跟你无话可说。
+
+;0x45344628=MF5_TA
+0x45344628=MF5_TA
+
+;0x464A6CF1=~z~Oh boy, I definitely should be walking home.
+0x464A6CF1=~z~噢天，我真的该走回家。
+
+;0x46DAB799=MF5_BD
+0x46DAB799=MF5_BD
+
+;0x47E8B6CA=MF5_CB
+0x47E8B6CA=MF5_CB
+
+;0x4A47F7E8=~z~I'll be on the Firefly Island boardwalk all evening. I hope to see you there.
+0x4A47F7E8=~z~I'll be on the Firefly Island boardwalk all evening. I hope to see you there.
+
+;0x4BE34633=MF5_CE
+0x4BE34633=MF5_CE
+
+;0x4C6841C5=MF5_CD
+0x4C6841C5=MF5_CD
+
+;0x4F16BEC9=~z~Mr. Faustin does not care about how hard you are trying, he cares about this getting done.
+0x4F16BEC9=~z~Mr. Faustin does not care about how hard you are trying, he cares about this getting done.
+
+;0x4F1D1940=~z~I have followed Mr. Faustin's orders, not much more.
+0x4F1D1940=~z~我只是按Faustin先生的命令做事，没做别的。
+
+;0x4FCB98C4=~z~You have a sharp tongue, Niko. It is only a matter of time before it is cut out of your mouth.
+0x4FCB98C4=~z~你的嘴可真毒啊，Niko。它毒死你自己只是时间问题了。
+
+;0x512F483F=MF5_FC
+0x512F483F=MF5_FC
+
+;0x5206C381=MF5_BA
+0x5206C381=MF5_BA
+
+;0x53222500=MF5_DE
+0x53222500=MF5_DE
+
+;0x5416D332=MF5_CF
+0x5416D332=MF5_CF
+
+;0x54B009A4=~z~I'm not in position to make good decisions right now.
+0x54B009A4=~z~我现在可不是能做出好选择的状态。
+
+;0x54FACA89=MF5_GE
+0x54FACA89=MF5_GE
+
+;0x5817D8EA=~z~You, who has so many enemies?
+0x5817D8EA=~z~就你这样树敌无数的人？
+
+;0x5AA13048=~z~I will speak to people and see what I can do.
+0x5AA13048=~z~我会跟人讨论下，然后看看我有什么能做的的。
+
+;0x5BA15036=~z~Niko, you are doing very well for us. You are good, almost too good.
+0x5BA15036=~z~Niko, you are doing very well for us. You are good, almost too good.
+
+;0x62DCE64B=MF5_QA
+0x62DCE64B=MF5_QA
+
+;0x62E6871E=MF5_WD
+0x62E6871E=MF5_WD
+
+;0x645BC3BD=~z~This is a very dangerous man. He will not take kindly to this.
+0x645BC3BD=~z~这是一个很危险的人物。他不会轻易放过这个的。
+
+;0x64E8C058=~z~We need to talk in person. I'll be on the Firefly Island boardwalk from 5pm to 3am.
+0x64E8C058=~z~We need to talk in person. I'll be on the Firefly Island boardwalk from 5pm to 3am.
+
+;0x64F1AA27=~z~You, if you drink and drive, Niko, you're a bloody idiot.
+0x64F1AA27=~z~你，要是你酒后驾驶，Niko，那你丫真的是傻逼了。
+
+;0x658C741F=MF5_VB
+0x658C741F=MF5_VB
+
+;0x69E37C81=~z~You robbed Bulgarin, you killed Mikhail. You know no more of loyalty than I do.
+0x69E37C81=~z~你抢了Bulgarin，你杀了Mikhail。~n~你的忠诚一点也不比我多。
+
+;0x6B51773E=~z~Is it done yet?
+0x6B51773E=~z~Is it done yet?
+
+;0x6B6D3F68=SFX_MACHINE_BEEP
+0x6B6D3F68=SFX_MACHINE_BEEP
+
+;0x6B6F7C96=100010010100100010100100100100010010010100100
+0x6B6F7C96=100010010100100010100100100100010010010100100
+
+;0x6D3D9817=MF5_EB
+0x6D3D9817=MF5_EB
+
+;0x6E6E9661=100010100100010100100010
+0x6E6E9661=100010100100010100100010
+
+;0x6F1A9845=MF5_FG
+0x6F1A9845=MF5_FG
+
+;0x750A0BDB=MF5_GJ
+0x750A0BDB=MF5_GJ
+
+;0x75A0B1EF=MF5_UD
+0x75A0B1EF=MF5_UD
+
+;0x75DD8F3F=MF5_WL
+0x75DD8F3F=MF5_WL
+
+;0x7705CCBD=~z~What have you got for Mr. Faustin?
+0x7705CCBD=~z~What have you got for Mr. Faustin?
+
+;0x7943F4A3=MF5_DB
+0x7943F4A3=MF5_DB
+
+;0x7A788893=100100010100100100100010100100
+0x7A788893=100100010100100100100010100100
+
+;0x7AAEEBE4=~z~I hope to see you there.
+0x7AAEEBE4=~z~I hope to see you there.
+
+;0x7B3046FC=MF5_RB
+0x7B3046FC=MF5_RB
+
+;0x7B36D6B1=~z~I'm wasted. Maybe I better not drive
+0x7B36D6B1=~z~我已经烂醉如泥了。最好别开车。
+
+;0x7B3E3D0C=~z~I always thought that there was something not quite right about you, Niko.
+0x7B3E3D0C=~z~我一直都觉得你这人哪里不太对，Niko。
+
+;0x7CD8EFF0=100010100100100
+0x7CD8EFF0=100010100100100
+
+;0x8178FDF7=~z~Niko, do you know what you have done?
+0x8178FDF7=~z~Niko，你知道你干了些什么吗？
+
+;0x84C06832=~z~Nothing yet.
+0x84C06832=~z~Nothing yet.
+
+;0x86A031C3=MF5_GK
+0x86A031C3=MF5_GK
+
+;0x87307205=~z~You might want to check in jail or hospital. This city is full of crazy people.
+0x87307205=~z~You might want to check in jail or hospital. This city is full of crazy people.
+
+;0x87C07F2F=SFX_MACHINE_BEEP
+0x87C07F2F=SFX_MACHINE_BEEP
+
+;0x88FDD88B=~z~What do you want, Dimitri?
+0x88FDD88B=~z~你想怎么样，Dimitri？
+
+;0x89D78CDB=~z~I have no debts to Bulgarin, Dimitri.
+0x89D78CDB=~z~我什么都不欠Bulgarin，Dimitri。
+
+;0x8A040F0D=~z~How was I to know?
+0x8A040F0D=~z~我怎么知道？
+
+;0x8B6B7B64=SFX_MACHINE_BEEP
+0x8B6B7B64=SFX_MACHINE_BEEP
+
+;0x8B903A64=MF5_CC
+0x8B903A64=MF5_CC
+
+;0x8C885580=MF5_EC
+0x8C885580=MF5_EC
+
+;0x8D036F25=100010100010100
+0x8D036F25=100010100010100
+
+;0x8D55227A=MF5_A_DB
+0x8D55227A=MF5_A_DB
+
+;0x8E5F4504=~z~Mr. Bulgarin and I were very disappointed.
+0x8E5F4504=~z~Bulgarin先生和我都很失望。
+
+;0x8FD0E631=~z~Stop blackmailing my friends, Dimitri. You do not want to anger me more.
+0x8FD0E631=~z~别再勒索我的朋友了，Dimitri。你不会想再惹毛我一次的。
+
+;0x9063CD99=~z~Only if no news is good news.
+0x9063CD99=~z~Only if no news is good news.
+
+;0x92E340BD=MF5_GH
+0x92E340BD=MF5_GH
+
+;0x935444E4=MF5_A_CB
+0x935444E4=MF5_A_CB
+
+;0x93E741D1=MF5_GB
+0x93E741D1=MF5_GB
+
+;0x94D1C706=MF5_GD
+0x94D1C706=MF5_GD
+
+;0x94F724F3=~z~You weren't. This is Mikhail's craziness.
+0x94F724F3=~z~你是不知道，这就是Mikhail的疯狂。
+
+;0x9558D598=MF5_BC
+0x9558D598=MF5_BC
+
+;0x980A3C2B=090
+0x980A3C2B=090
+
+;0x984D0235=MF5_RA
+0x984D0235=MF5_RA
+
+;0x985850EC=SFX_MACHINE_BEEP
+0x985850EC=SFX_MACHINE_BEEP
+
+;0x9A4659B2=MF5_RB
+0x9A4659B2=MF5_RB
+
+;0x9BD17D5F=~z~I hope to see you there.
+0x9BD17D5F=~z~I hope to see you there.
+
+;0x9C88E157=~z~I was loyal to you, Dimitri. Why did you turn on me?
+0x9C88E157=~z~我对你那么忠诚，Dimitri，为什么你要背叛我？
+
+;0x9CCC7581=MF5_WG
+0x9CCC7581=MF5_WG
+
+;0x9DA96824=~z~You have good news?
+0x9DA96824=~z~You have good news?
+
+;0x9E0FE019=~z~I will smoke you out of any other hiding place you have in this city. See you soon, Niko.
+0x9E0FE019=~z~我会把你们从这个城市中的任何一个藏身处熏出来。~n~日后见，Niko。
+
+;0x9E44E10B=MF5_VE
+0x9E44E10B=MF5_VE
+
+;0x9EECB8A8=MF5_DA
+0x9EECB8A8=MF5_DA
+
+;0x9F251649=MF5_FB
+0x9F251649=MF5_FB
+
+;0xA0106CF6=~z~Then why are you calling me? Goodbye, Niko.
+0xA0106CF6=~z~Then why are you calling me? Goodbye, Niko.
+
+;0xA01979EB=MF5_WI
+0xA01979EB=MF5_WI
+
+;0xA2406846=MF5_RA
+0xA2406846=MF5_RA
+
+;0xA25C40FF=~z~You love to disappoint me, Niko Bellic. You really do.
+0xA25C40FF=~z~你很喜欢让我失望，Niko Bellic。真的喜欢。
+
+;0xA557A186=MF5_FA
+0xA557A186=MF5_FA
+
+;0xA60F091E=MF5_WH
+0xA60F091E=MF5_WH
+
+;0xA7A6F474=100010100100
+0xA7A6F474=100010100100
+
+;0xA8B66F1A=MF5_VF
+0xA8B66F1A=MF5_VF
+
+;0xAA27740B=MF5_QB
+0xAA27740B=MF5_QB
+
+;0xAC3FD1AB=~z~And the only thing I owe you is a bullet through the temple.
+0xAC3FD1AB=~z~欠你的唯一一样东西就是一颗爆头的子弹。
+
+;0xACB339A9=~z~I can barely walk or think, let alone drive.
+0xACB339A9=~z~我路都走不了，头脑也不清楚，更别说要开车了。
+
+;0xAF165A77=~z~I went to the sewage works on Charge Island.
+0xAF165A77=~z~我去过Charge岛的污水处理厂了。
+
+;0xB0E10014=MF5_BB
+0xB0E10014=MF5_BB
+
+;0xB1101CD2=MF5_SA
+0xB1101CD2=MF5_SA
+
+;0xB23DFD79=MF5_TC
+0xB23DFD79=MF5_TC
+
+;0xB52C0EFB=MF5_WK
+0xB52C0EFB=MF5_WK
+
+;0xB79112D5=MF5_FF
+0xB79112D5=MF5_FF
+
+;0xB7E9B4C5=~z~I'll be on the Firefly Island boardwalk from 8pm until 1am.
+0xB7E9B4C5=~z~I'll be on the Firefly Island boardwalk from 8pm until 1am.
+
+;0xB80E6C63=~z~Are you disappointed that I have not found and killed you yet, Dimitri Rascalov?
+0xB80E6C63=~z~是因为我还没把你找出来杀了才失望吗，Dimitri Rascalov？
+
+;0xB93C9ABE=~z~I will find you, Niko. I have burnt you and your cousin out of Hove Beach.
+0xB93C9ABE=~z~我会找到你的，Niko。我已经把你和你堂兄烧出了Hove Beach。
+
+;0xBA565574=~z~~c~Hello, this is Dimitri Rascalov's phone. I cannot answer right now.
+0xBA565574=~z~~c~你好，这是Dimitri Rascalov的电话。我现在没法接听。
+
+;0xBB8E3B31=100010100
+0xBB8E3B31=100010100
+
+;0xBD5D73E6=~z~You will be paid in full, fear not.
+0xBD5D73E6=~z~欠你的会还干净的，别急。
+
+;0xBE29E037=100100
+0xBE29E037=100100
+
+;0xBE85BE1A=MF5_WJ
+0xBE85BE1A=MF5_WJ
+
+;0xBFBF899B=~z~No thanks to you, you piece of shit. You fucked me and Phil with that stunt.
+0xBFBF899B=~z~No thanks to you, you piece of shit. You fucked me and Phil with that stunt.
+
+;0xC1999C41=~z~Not everyone gets lucky.
+0xC1999C41=~z~Not everyone gets lucky.
+
+;0xC1AF8331=MF5_DD
+0xC1AF8331=MF5_DD
+
+;0xC204644B=~z~Driving in this state - not a good idea.
+0xC204644B=~z~这种状态开车－不是个好主意。
+
+;0xC3367742=MF5_XXA
+0xC3367742=MF5_XXA
+
+;0xC6464D23=~z~I wish you had been there. We could have had some fun.
+0xC6464D23=~z~我倒是希望当时你就在，我们还能找点乐子。
+
+;0xC810F0E9=~z~~c~Please leave me a message and I will get back to you.
+0xC810F0E9=~z~~c~请给我留言，之后我会回复的。
+
+;0xC81C631C=100090100
+0xC81C631C=100090100
+
+;0xCB9078ED=MF5_AB
+0xCB9078ED=MF5_AB
+
+;0xCBBB13C0=~z~I am sorry. Or maybe the thugs who failed to kill me should be blamed though.
+0xCBBB13C0=~z~我很抱歉。要么还是去怪那帮没能杀了我的手下吧。
+
+;0xCC72BBD6=~z~I'm kind of busy right now. Liberty City's an interesting place.
+0xCC72BBD6=~z~I'm kind of busy right now. Liberty City's an interesting place.
+
+;0xCDFC961C=MF5_WB
+0xCDFC961C=MF5_WB
+
+;0xCFFB608D=~z~The party got busted up though before I got there.
+0xCFFB608D=~z~只不过派对在我到达前就被搅和了。
+
+;0xD0E11AED=~z~Goodbye.
+0xD0E11AED=~z~再见。
+
+;0xD6BC7407=~z~Niko Bellic.
+0xD6BC7407=~z~Niko Bellic。
+
+;0xD7B43970=~z~Yeah, you should give people the heads up before you gamble with their lives.
+0xD7B43970=~z~Yeah, you should give people the heads up before you gamble with their lives.
+
+;0xD8C4C7FF=MF5_GA
+0xD8C4C7FF=MF5_GA
+
+;0xD9A8D642=~z~This is Niko Bellic.
+0xD9A8D642=~z~This is Niko Bellic.
+
+;0xDB12C02D=~z~You should have thought of that earlier.
+0xDB12C02D=~z~You should have thought of that earlier.
+
+;0xDD47EEFC=MF5_VD
+0xDD47EEFC=MF5_VD
+
+;0xDD66DB85=100090090100
+0xDD66DB85=100090090100
+
+;0xDE515F35=MF5_FH
+0xDE515F35=MF5_FH
+
+;0xDE5CBC90=MF5_A_BA
+0xDE5CBC90=MF5_A_BA
+
+;0xDED439F2=~z~Do not worry, your time will soon come.
+0xDED439F2=~z~别担心，你的时辰马上就要到了。
+
+;0xE1A003A3=MF5_WC
+0xE1A003A3=MF5_WC
+
+;0xE3AB1161=100100100100
+0xE3AB1161=100100100100
+
+;0xE45FE8E2=MF5_WO
+0xE45FE8E2=MF5_WO
+
+;0xE637C8B9=~z~First in Europe and then these diamonds in Liberty City.
+0xE637C8B9=~z~先是在欧洲，然后是自由城的这些钻石。
+
+;0xE9D05A0F=MF5_A_DA
+0xE9D05A0F=MF5_A_DA
+
+;0xEA3AFFC4=MF5_WM
+0xEA3AFFC4=MF5_WM
+
+;0xEB430A93=MF5_SC
+0xEB430A93=MF5_SC
+
+;0xED963636=MF5_EF
+0xED963636=MF5_EF
+
+;0xEDBD60D2=100010100100010010100
+0xEDBD60D2=100010100100010010100
+
+;0xF12DA74C=~z~I hope to see you there.
+0xF12DA74C=~z~I hope to see you there.
+
+;0xF1816D1E=~z~Niko, I heard you got the money. This is great. Everything turned out perfectly.
+0xF1816D1E=~z~Niko, I heard you got the money. This is great. Everything turned out perfectly.
+
+;0xF4A29201=~z~You think I could survive in a cesspit of a city like this by aligning myself
+0xF4A29201=~z~你以为我能在自由城的这种垃圾地带生存是靠
+
+;0xF4DD8891=SFX_MACHINE_BEEP
+0xF4DD8891=SFX_MACHINE_BEEP
+
+;0xF652F1F0=SFX_MACHINE_BEEP
+0xF652F1F0=SFX_MACHINE_BEEP
+
+;0xF7201B75=MF5_BE
+0xF7201B75=MF5_BE
+
+;0xF8B737F0=~z~I made the mistake of working with you before. It's not one I'll repeat. Goodbye.
+0xF8B737F0=~z~之前我就犯了跟你合作的错误，不会再犯了。再见。
+
+;0xF9EDFCD2=SFX_MACHINE_BEEP
+0xF9EDFCD2=SFX_MACHINE_BEEP
+
+;0xFA9E559A=~z~I don't feel so hot, I shouldn't get behind the wheel.
+0xFA9E559A=~z~我感觉不太好，不应该开车。
+
+;0xFB843C78=MF5_UC
+0xFB843C78=MF5_UC
+
+;0xFBF91DCA=MF5_VC
+0xFBF91DCA=MF5_VC
+
+;0xFC5537E9=MF5_WF
+0xFC5537E9=MF5_WF
+
+;0xFCA739E4=~z~Not as much fun as I would have had with Roman, believe me.
+0xFCA739E4=~z~没我能在Roman身上找到的乐子多，相信我。
+
+;0xFD8DF765=~z~I picked through the bodies and yours was not amongst them. Very disappointing.
+0xFD8DF765=~z~我找了一遍尸体，结果你的不在里面。真令人失望。
+
+;0xFDB575FC=100010100100010100
+0xFDB575FC=100010100100010100
+
+;0xFF07B18F=MF5_VJ
+0xFF07B18F=MF5_VJ
+
+;0xFF3B5754=MF5_ED
+0xFF3B5754=MF5_ED
+

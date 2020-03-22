@@ -1,0 +1,856 @@
+﻿;注：
+;1、含Beta文本 没翻的都是 无视即可
+
+[MF13AUD]
+;0x01C186A3=~z~My man is down in Vice fucking City. Shit, you fucking incompetent.
+0x01C186A3=~z~My man is down in Vice fucking City. Shit, you fucking incompetent.
+
+;0x01C5D16D=~z~All I know is that Dimitri is your friend, I do not think he would betray you like this.
+0x01C5D16D=~z~All I know is that Dimitri is your friend, I do not think he would betray you like this.
+
+;0x01D1F403=~z~The person you are speaking to is very different from her.
+0x01D1F403=~z~The person you are speaking to is very different from her.
+
+;0x02F57A92=MF6_PC
+0x02F57A92=MF6_PC
+
+;0x03211994=~z~I remember, what's up Michelle?
+0x03211994=~z~我记得的，什么事，Michelle？
+
+;0x0538C96E=MF6_AAA_FF
+0x0538C96E=MF6_AAA_FF
+
+;0x056744AD=MF6_A_DA
+0x056744AD=MF6_A_DA
+
+;0x057E036C=~z~I would not know. Just making a delivery.
+0x057E036C=~z~I would not know. Just making a delivery.
+
+;0x0604A8E1=~z~Yo Niko, wha'gwan?
+0x0604A8E1=~z~哟Niko，怎么样？
+
+;0x066B1158=MF6_A_BB
+0x066B1158=MF6_A_BB
+
+;0x07FE547B=~z~Should I not be doing business with her?
+0x07FE547B=~z~那我是不是不该和她有往来？
+
+;0x096A7B16=MF6_A_AD
+0x096A7B16=MF6_A_AD
+
+;0x09DDBB56=MF6_TB
+0x09DDBB56=MF6_TB
+
+;0x0A1E4B19=~z~Niko me man, Roman and Mallorie a get married. Big tings!
+0x0A1E4B19=~z~Niko me man, Roman and Mallorie a get married. Big tings!
+
+;0x0B3ED4F1=~z~Liz is a bad gal fo' real, ya know?
+0x0B3ED4F1=~z~Liz is a bad gal fo' real, ya know?
+
+;0x0BCE6582=~z~Is Dimitri giving it to my wife, Ilyena?
+0x0BCE6582=~z~Is Dimitri giving it to my wife, Ilyena?
+
+;0x0BF8ACA7=100010100100010010100100010010100
+0x0BF8ACA7=100010100100010010100100010010100
+
+;0x0C8AF9D5=SFX_MACHINE_BEEP
+0x0C8AF9D5=SFX_MACHINE_BEEP
+
+;0x0D16CFDE=~z~Niko, I am so sorry to hear about those fires. Roman's two places burning down at once.
+0x0D16CFDE=~z~Niko, I am so sorry to hear about those fires. Roman's two places burning down at once.
+
+;0x0E4BC6AE=MF6_BB
+0x0E4BC6AE=MF6_BB
+
+;0x0F7E221C=~z~What fucking good are you if you don't got some shit for me?
+0x0F7E221C=~z~What fucking good are you if you don't got some shit for me?
+
+;0x0FB0D15D=MF6_VF_QQQ1
+0x0FB0D15D=MF6_VF_QQQ1
+
+;0x102890B0=~z~She doesn't exist anymore. The apartment has been cleared out, the phone is about to be cut off.
+0x102890B0=~z~She doesn't exist anymore. The apartment has been cleared out, the phone is about to be cut off.
+
+;0x1089EEF5=~z~You see anything, you will say.
+0x1089EEF5=~z~You see anything, you will say.
+
+;0x1176F2F7=MF6_CE
+0x1176F2F7=MF6_CE
+
+;0x130111CC=~z~You aren't getting involved in that world, are you?
+0x130111CC=~z~你和那个世界没有牵连吧，没有吧？
+
+;0x1431ADD7=100100010100010010
+0x1431ADD7=100100010100010010
+
+;0x1481BC55=~z~I am getting sick of hanging out with Roman all the time. How about I pick you up from your apartment?
+0x1481BC55=~z~反正我每天和Roman一起也腻了。要么我到你的公寓来接你？
+
+;0x159D5872=~z~I hear he was actually successful with ladies even though he was such pig.
+0x159D5872=~z~I hear he was actually successful with ladies even though he was such pig.
+
+;0x15C8F010=~z~Yeah man, me know her, Niko. Even Badman's scared of that girl there.
+0x15C8F010=~z~对，老兄，我认识她，Niko。连Badman都害怕那个女人。
+
+;0x15CFEA13=~z~Tell me about it. For now we should just worry about keeping out of prison. Speak to you soon, man.
+0x15CFEA13=~z~Tell me about it. For now we should just worry about keeping out of prison. Speak to you soon, man.
+
+;0x1613B262=MF6_TD
+0x1613B262=MF6_TD
+
+;0x16E0E372=~z~Was it arson? Is Roman caught up with some gangsters or something?
+0x16E0E372=~z~Was it arson? Is Roman caught up with some gangsters or something?
+
+;0x182FC3B1=~z~You do not normally do what?
+0x182FC3B1=~z~你平常不会怎样？
+
+;0x1A3927A4=MF6_DG
+0x1A3927A4=MF6_DG
+
+;0x1A8326CE=~z~So you get rid of my daughter's biker boyfriend and now you think you can, how you say, ball her?
+0x1A8326CE=~z~So you get rid of my daughter's biker boyfriend and now you think you can, how you say, ball her?
+
+;0x1B0A9861=~z~Thanks, man. I just hope they don't try to get you into the same shit. Later on.
+0x1B0A9861=~z~Thanks, man. I just hope they don't try to get you into the same shit. Later on.
+
+;0x1B412EF2=~z~You haven't been taking another girl there have you?
+0x1B412EF2=~z~You haven't been taking another girl there have you?
+
+;0x1BA49E96=MF6_A_AC
+0x1BA49E96=MF6_A_AC
+
+;0x1D6CA69F=~z~I know Michelle, I really appreciate your concern but I can look after myself.
+0x1D6CA69F=~z~知道了，Michelle。我很感谢你的关心，不过我能照顾好自己。
+
+;0x1F84FD44=100010100010100100
+0x1F84FD44=100010100010100100
+
+;0x200FDE62=MF6_TI
+0x200FDE62=MF6_TI
+
+;0x207C9FE3=MF6_A_CD
+0x207C9FE3=MF6_A_CD
+
+;0x20BEF432=~z~Seen, me bredren. Ya righteous. Badman ain't vexed as he usually is right now.
+0x20BEF432=~z~Seen, me bredren. Ya righteous. Badman ain't vexed as he usually is right now.
+
+;0x213D32B9=MF6_PG
+0x213D32B9=MF6_PG
+
+;0x21F42172=MF6_A_CE
+0x21F42172=MF6_A_CE
+
+;0x222934B1=~z~Niko, I thought I'd call you one last time to apologize. I used you.
+0x222934B1=~z~Niko, I thought I'd call you one last time to apologize. I used you.
+
+;0x235EB287=~z~That's because she's a dealer, Niko. Junkies like the people who supply them with drugs.
+0x235EB287=~z~是因为她是个毒贩，Niko。就是那种给别人提供毒品的人渣。
+
+;0x2450C618=MF6_A_ED
+0x2450C618=MF6_A_ED
+
+;0x24F76981=MF6_TA
+0x24F76981=MF6_TA
+
+;0x251A15DC=MF6_XA
+0x251A15DC=MF6_XA
+
+;0x2567F4BB=MF6_ZE
+0x2567F4BB=MF6_ZE
+
+;0x265CF3DD=100010090100
+0x265CF3DD=100010090100
+
+;0x269C6CA3=MF6_BD
+0x269C6CA3=MF6_BD
+
+;0x26D09B82=~z~Dimitri is not rat like Vlad, but no one can be trusted. No one.
+0x26D09B82=~z~Dimitri is not rat like Vlad, but no one can be trusted. No one.
+
+;0x273F8F7D=MF6_A_DC
+0x273F8F7D=MF6_A_DC
+
+;0x282302FE=~z~Niko man, Badman tell I ya help him wit some Russian bumba clots.
+0x282302FE=~z~Niko man, Badman tell I ya help him wit some Russian bumba clots.
+
+;0x28628F38=~z~Yo, me tink she kicked every ass inna South Bohan, ya know star.
+0x28628F38=~z~Yo, me tink she kicked every ass inna South Bohan, ya know star.
+
+;0x28A5C07C=MF6_A_AB
+0x28A5C07C=MF6_A_AB
+
+;0x28E76520=~z~Hey Niko, it's Michelle. We met with Mallorie, Roman's girlfriend.
+0x28E76520=~z~喂，Niko，我是Michelle。我们见面的时候Mallorie也在，就是Roman的女友。
+
+;0x2903CA77=~z~I never took you for the jealous type, Michelle. I was just there on business. Do not worry.
+0x2903CA77=~z~I never took you for the jealous type, Michelle. I was just there on business. Do not worry.
+
+;0x294165C7=MF6_QD
+0x294165C7=MF6_QD
+
+;0x2C4EAB17=MF6_A_CC
+0x2C4EAB17=MF6_A_CC
+
+;0x2D16D684=MF6_A_EE
+0x2D16D684=MF6_A_EE
+
+;0x2F2AB1AF=MF6_A_CB
+0x2F2AB1AF=MF6_A_CB
+
+;0x319595AD=MF6_A_DD
+0x319595AD=MF6_A_DD
+
+;0x31D3C5F3=~z~Ya need any help, me dere for ya.
+0x31D3C5F3=~z~Ya need any help, me dere for ya.
+
+;0x33028127=MF6_TH
+0x33028127=MF6_TH
+
+;0x33D40F77=MF6_VF
+0x33D40F77=MF6_VF
+
+;0x35654E7D=~z~That's the impression I'm beginning to get.
+0x35654E7D=~z~That's the impression I'm beginning to get.
+
+;0x36AEA038=MF6_VG
+0x36AEA038=MF6_VG
+
+;0x3774E008=MF6_PH
+0x3774E008=MF6_PH
+
+;0x38745CAE=~z~If you need help with anything, Niko. Just speak to me.
+0x38745CAE=~z~如果你有什么需要帮助的，Niko。就跟我说。
+
+;0x3BAE571D=MF6_YA
+0x3BAE571D=MF6_YA
+
+;0x3BC5AFC2=010100010010100100
+0x3BC5AFC2=010100010010100100
+
+;0x3D1BF273=100010010100100100100100010
+0x3D1BF273=100010010100100100100100010
+
+;0x4153BFF9=MF6_A_DB
+0x4153BFF9=MF6_A_DB
+
+;0x41AE5B59=MF6_YB
+0x41AE5B59=MF6_YB
+
+;0x423F7C2F=MF6_QA
+0x423F7C2F=MF6_QA
+
+;0x4387EAC2=~z~Seen, Niko. De mafia dons are in Algonquin. Dem mascots over dere in Alderney.
+0x4387EAC2=~z~Seen, Niko. De mafia dons are in Algonquin. Dem mascots over dere in Alderney.
+
+;0x43FD522E=100010100100
+0x43FD522E=100010100100
+
+;0x4457B5E6=~z~Yeah, maybe that is what happened. See you soon then.
+0x4457B5E6=~z~Yeah, maybe that is what happened. See you soon then.
+
+;0x454BFAF6=~z~There seems to be a pattern emerging, doesn't there Michelle?
+0x454BFAF6=~z~There seems to be a pattern emerging, doesn't there Michelle?
+
+;0x4B020E07=MF6_AAA_FC
+0x4B020E07=MF6_AAA_FC
+
+;0x4D691341=~z~See you soon Michelle, don't get so paranoid, yeah?
+0x4D691341=~z~See you soon Michelle, don't get so paranoid, yeah?
+
+;0x4D6D2E2B=~z~I don't normally do this, but I thought you'd probably be pretty lonely having just moved to Liberty City and all.
+0x4D6D2E2B=~z~平常我不会这样，但是我觉得你刚搬到自由城可能会很寂寞。
+
+;0x4D919200=100100010100100
+0x4D919200=100100010100100
+
+;0x4F6E6AA7=MF6_RA
+0x4F6E6AA7=MF6_RA
+
+;0x511F55B1=MF6_RC
+0x511F55B1=MF6_RC
+
+;0x5388809A=MF6_YG
+0x5388809A=MF6_YG
+
+;0x53D7DE8F=~z~I see you at the wedding, Jacob.
+0x53D7DE8F=~z~I see you at the wedding, Jacob.
+
+;0x541B9627=MF6_UC
+0x541B9627=MF6_UC
+
+;0x545598ED=~z~You did, and now some guy in a suit is using me instead.
+0x545598ED=~z~You did, and now some guy in a suit is using me instead.
+
+;0x5494F691=MF6_XC
+0x5494F691=MF6_XC
+
+;0x54D2B17A=MF6_WD
+0x54D2B17A=MF6_WD
+
+;0x55635851=MF6_VD
+0x55635851=MF6_VD
+
+;0x565AC004=~z~The only time he's calm is when he's taking his pills.
+0x565AC004=~z~The only time he's calm is when he's taking his pills.
+
+;0x5672A730=MF6_AAA_FA
+0x5672A730=MF6_AAA_FA
+
+;0x5721687F=100010100010100010010100
+0x5721687F=100010100010100010010100
+
+;0x57C5A582=MF6_AAA_FE
+0x57C5A582=MF6_AAA_FE
+
+;0x58DAFE22=MF6_CD
+0x58DAFE22=MF6_CD
+
+;0x59CC3169=MF6_A_BD
+0x59CC3169=MF6_A_BD
+
+;0x5A921D68=MF6_UD
+0x5A921D68=MF6_UD
+
+;0x5AC317CD=~z~Niko, you hear anything about dat gal Michelle? She put a lot of pressure pon ya me bredren?
+0x5AC317CD=~z~Niko, you hear anything about dat gal Michelle? She put a lot of pressure pon ya me bredren?
+
+;0x5C34AE23=MF6_PD
+0x5C34AE23=MF6_PD
+
+;0x5C5A24F7=MF6_EG
+0x5C5A24F7=MF6_EG
+
+;0x5D13FBF6=MF6_ZB
+0x5D13FBF6=MF6_ZB
+
+;0x5F161A72=MF6_PF
+0x5F161A72=MF6_PF
+
+;0x603BA429=~z~Call me soon, Niko. I and I should link up sometime, seen?
+0x603BA429=~z~Call me soon, Niko. I and I should link up sometime, seen?
+
+;0x60411FC4=MF6_AC
+0x60411FC4=MF6_AC
+
+;0x62D2681F=100100010100100010
+0x62D2681F=100100010100100010
+
+;0x63807DE0=~z~I do not know if Roman is wise...
+0x63807DE0=~z~I do not know if Roman is wise...
+
+;0x63D6B280=~z~Okay, what's up man? You and Badman got some work for me?
+0x63D6B280=~z~Okay, what's up man? You and Badman got some work for me?
+
+;0x64862B53=~z~Jacob, Michelle was into some strange shit. I got called to an office in Algonquin.
+0x64862B53=~z~Jacob, Michelle was into some strange shit. I got called to an office in Algonquin.
+
+;0x64F83C66=MF6_PA
+0x64F83C66=MF6_PA
+
+;0x654C1CC5=MF6_DA
+0x654C1CC5=MF6_DA
+
+;0x657F349D=100010100010010
+0x657F349D=100010100010010
+
+;0x67DA959F=~z~Why don't you come over to my place whenever? See you soon!
+0x67DA959F=~z~要么有空的时候你就到我家来找我？回头见！
+
+;0x681FE38E=~z~I am in charge, Niko. Not Dimitri.
+0x681FE38E=~z~I am in charge, Niko. Not Dimitri.
+
+;0x683EABE3=MF6_PE
+0x683EABE3=MF6_PE
+
+;0x6872B790=MF6_EB
+0x6872B790=MF6_EB
+
+;0x69A57760=MF6_TE
+0x69A57760=MF6_TE
+
+;0x6C3F025C=MF6_VA
+0x6C3F025C=MF6_VA
+
+;0x6E994080=~z~Niko, how's it going? Me hear ya be working for de Alderney boys, de Pegorinos.
+0x6E994080=~z~Niko, how's it going? Me hear ya be working for de Alderney boys, de Pegorinos.
+
+;0x6EE55120=MF6_PB
+0x6EE55120=MF6_PB
+
+;0x6F7FAC15=MF6_RB
+0x6F7FAC15=MF6_RB
+
+;0x7044C48D=MF6_YE
+0x7044C48D=MF6_YE
+
+;0x70864798=100100100100100
+0x70864798=100100100100100
+
+;0x725986C9=MF6_VB
+0x725986C9=MF6_VB
+
+;0x72E45E2B=~z~Niko, a friend of mine saw you coming out of Perestroika the other day.
+0x72E45E2B=~z~Niko, a friend of mine saw you coming out of Perestroika the other day.
+
+;0x737E58BF=~z~If you even think about her in that way while you jerking off, remind yourself of what I am saying.
+0x737E58BF=~z~If you even think about her in that way while you jerking off, remind yourself of what I am saying.
+
+;0x7490C637=MF6_AA
+0x7490C637=MF6_AA
+
+;0x74EAAFB3=~z~Good, I was wondering if you wanted to go out with me sometime?
+0x74EAAFB3=~z~挺好的，我在想改天你要不要和我一起出来玩？
+
+;0x767F58C7=~z~Maybe I do a few errands for Elizabeta. Nothing serious though. I am no dealer.
+0x767F58C7=~z~也许我是会给Elizabeta做点事，但没那么严重。我不是毒贩。
+
+;0x776F8F08=MF6_BE
+0x776F8F08=MF6_BE
+
+;0x77C567F9=~z~Business? Isn't it owned by some Russian gangster?
+0x77C567F9=~z~Business? Isn't it owned by some Russian gangster?
+
+;0x79EB023E=MF6_WB
+0x79EB023E=MF6_WB
+
+;0x7A095EE1=~z~Seen, me bredren. Roman's a good man as any man to be stuck with ya know, star.
+0x7A095EE1=~z~Seen, me bredren. Roman's a good man as any man to be stuck with ya know, star.
+
+;0x7A0FD21A=100010100100010100100
+0x7A0FD21A=100010100100010100100
+
+;0x7B02894F=~z~He will mourn for a time and then move on, he has chosen this life for his family.
+0x7B02894F=~z~He will mourn for a time and then move on, he has chosen this life for his family.
+
+;0x7BBD6249=~z~Gimme a call if you want hang with Jacob sometime, seen? One love.
+0x7BBD6249=~z~Gimme a call if you want hang with Jacob sometime, seen? One love.
+
+;0x7C195317=MF6_YF
+0x7C195317=MF6_YF
+
+;0x7C48E7C2=MF6_DC
+0x7C48E7C2=MF6_DC
+
+;0x7C5E9FD6=~z~I'm a big boy and I must make my own decisions. See you soon.
+0x7C5E9FD6=~z~我已经是个大男孩子了，必须自己做决定了。之后见。
+
+;0x7D49BB81=MF6_ZA
+0x7D49BB81=MF6_ZA
+
+;0x7DAC08A0=MF6_WC
+0x7DAC08A0=MF6_WC
+
+;0x7DF7DE36=~z~I don't know who this guy was. I think he's government deal or something. They're making me work for them.
+0x7DF7DE36=~z~I don't know who this guy was. I think he's government deal or something. They're making me work for them.
+
+;0x8034DC9F=SFX_MACHINE_BEEP
+0x8034DC9F=SFX_MACHINE_BEEP
+
+;0x817F74C1=~z~But if you did, Niko.
+0x817F74C1=~z~But if you did, Niko.
+
+;0x82728807=~z~Sorry, my friend. I ain't got nothing.
+0x82728807=~z~Sorry, my friend. I ain't got nothing.
+
+;0x83D48A48=MF6_TK
+0x83D48A48=MF6_TK
+
+;0x879A6C17=MF6_EI
+0x879A6C17=MF6_EI
+
+;0x87A1F18A=~z~Rhaatid. She be in dere wit a Babylon agent. A least dem don't send you back home, Niko.
+0x87A1F18A=~z~Rhaatid. She be in dere wit a Babylon agent. A least dem don't send you back home, Niko.
+
+;0x883FFC48=~z~I'm trying to avoid it, Michelle.
+0x883FFC48=~z~我尽量在避免了，Michelle。
+
+;0x8855E0A8=MF6_SE
+0x8855E0A8=MF6_SE
+
+;0x89066033=~z~As an alternative, leave me a message.
+0x89066033=~z~现在如有必要，请给我留言。
+
+;0x8CA3ADC7=100010100100
+0x8CA3ADC7=100010100100
+
+;0x8D532DF0=~z~The responsibility is on his shoulders. Do not listen to Dimitri's paranoia.
+0x8D532DF0=~z~The responsibility is on his shoulders. Do not listen to Dimitri's paranoia.
+
+;0x8D8188CF=MF6_DB
+0x8D8188CF=MF6_DB
+
+;0x90030BD2=~z~Hey, Niko. Mallorie tells me that you are working with Elizabeta Torres now.
+0x90030BD2=~z~喂，Niko。Mallorie跟我说你现在在替Elizabeta Torres干活。
+
+;0x9078114D=~z~I will try.
+0x9078114D=~z~I will try.
+
+;0x907B745B=MF6_SF
+0x907B745B=MF6_SF
+
+;0x93D62DAB=MF6_TJ
+0x93D62DAB=MF6_TJ
+
+;0x943E903B=MF6_EC
+0x943E903B=MF6_EC
+
+;0x94CE5892=MF6_VD_QQQ1
+0x94CE5892=MF6_VD_QQQ1
+
+;0x9758748E=~z~Hey, Michelle, it's Niko. Roman's cousin.
+0x9758748E=~z~喂，Michelle，我是Niko，Roman的堂弟。
+
+;0x99D11F51=MF6_UA
+0x99D11F51=MF6_UA
+
+;0x9A0FD621=100010100010
+0x9A0FD621=100010100010
+
+;0x9A2A0A08=MF6_DD
+0x9A2A0A08=MF6_DD
+
+;0x9A2AAD3D=MF6_WA
+0x9A2AAD3D=MF6_WA
+
+;0x9A691FA0=~z~Roman's my cousin, I get sick of him but I'm stuck with him.
+0x9A691FA0=~z~Roman's my cousin, I get sick of him but I'm stuck with him.
+
+;0x9D78E87A=MF6_BA
+0x9D78E87A=MF6_BA
+
+;0x9DBB74C6=MF6_CA
+0x9DBB74C6=MF6_CA
+
+;0x9DC9B208=MF6_A_EB
+0x9DC9B208=MF6_A_EB
+
+;0x9E31023F=~z~You know, on a date?
+0x9E31023F=~z~就是，约个会？
+
+;0x9E512E68=~z~I think I make myself clear.
+0x9E512E68=~z~I think I make myself clear.
+
+;0x9F01D14D=~z~His son is dead.
+0x9F01D14D=~z~His son is dead.
+
+;0xA4FAAD42=~z~Yeah, beggers can't be choosers, man.
+0xA4FAAD42=~z~Yeah, beggers can't be choosers, man.
+
+;0xA51B0EB6=~z~She pays good, man. You know her?
+0xA51B0EB6=~z~她开的价格很好，老兄。你认识她？
+
+;0xA5E33C23=~z~Goodbye, Niko. Look after yourself.
+0xA5E33C23=~z~Goodbye, Niko. Look after yourself.
+
+;0xA627A355=MF6_QC
+0xA627A355=MF6_QC
+
+;0xA6F9BCCF=MF6_A_BE
+0xA6F9BCCF=MF6_A_BE
+
+;0xA9892996=MF6_DE
+0xA9892996=MF6_DE
+
+;0xAB2826A4=MF6_A_CA
+0xAB2826A4=MF6_A_CA
+
+;0xACA8ABBD=MF6_SC
+0xACA8ABBD=MF6_SC
+
+;0xAD709093=~z~Freak coincidence Michelle. This is only explanation for it. Is a real tragedy.
+0xAD709093=~z~Freak coincidence Michelle. This is only explanation for it. Is a real tragedy.
+
+;0xAE225FBB=~z~It is very important that you be there. Goodbye.
+0xAE225FBB=~z~请你务必要过来。再见。
+
+;0xAE541C29=MF6_ZD
+0xAE541C29=MF6_ZD
+
+;0xAF6C322E=MF6_EA
+0xAF6C322E=MF6_EA
+
+;0xB1AD9090=~z~Yeah, is a real shame. Probably ran off with some woman.
+0xB1AD9090=~z~Yeah, is a real shame. Probably ran off with some woman.
+
+;0xB1B7F466=MF6_QF
+0xB1B7F466=MF6_QF
+
+;0xB283A1BE=MF6_CB
+0xB283A1BE=MF6_CB
+
+;0xB2ACE3EE=MF6_A_EC
+0xB2ACE3EE=MF6_A_EC
+
+;0xB2E6D09B=~z~Nah, man. Dere ain't nothing going on at the moment, ya know.
+0xB2E6D09B=~z~Nah, man. Dere ain't nothing going on at the moment, ya know.
+
+;0xB34CAB19=~z~Wha'gwan me bredren? You been chilling wit Elizabeta Torres?
+0xB34CAB19=~z~怎么回事，我的兄弟？你现在和Elizabeta Torres一起混？
+
+;0xB4283A5F=MF6_CC
+0xB4283A5F=MF6_CC
+
+;0xB48D6C3C=~z~Surely a man like you knows how to source some white?
+0xB48D6C3C=~z~Surely a man like you knows how to source some white?
+
+;0xB71B2FA5=010100010100
+0xB71B2FA5=010100010100
+
+;0xB8B2BF7F=~z~Please call when I can make myself available for all business or personal arrangements.
+0xB8B2BF7F=~z~请在我有空商讨各种商业事宜或私人事务时再拨。
+
+;0xB9BA3C09=MF6_A_EA
+0xB9BA3C09=MF6_A_EA
+
+;0xBA255D20=MF6_ED
+0xBA255D20=MF6_ED
+
+;0xBB6E877E=100010100010
+0xBB6E877E=100010100010
+
+;0xBBDAE5B0=MF6_A_AA
+0xBBDAE5B0=MF6_A_AA
+
+;0xBBED0B31=~z~You're not making this easy for me, are you? I'm asking you out on a date.
+0xBBED0B31=~z~你一定要让我说出来是吧？我在邀请你出来约会。
+
+;0xBCC564B4=MF6_EF
+0xBCC564B4=MF6_EF
+
+;0xBD446654=~z~Do you two know each other? Elizabeta seems to have a lot of friends.
+0xBD446654=~z~你们俩认识？Elizabeta似乎有很多朋友。
+
+;0xBE221FAD=MF6_VC
+0xBE221FAD=MF6_VC
+
+;0xBF46343E=~z~If you guys need anything, just ask. If you guys had got caught up with some bad people, you'd tell me right?
+0xBF46343E=~z~If you guys need anything, just ask. If you guys had got caught up with some bad people, you'd tell me right?
+
+;0xBFCFC41B=~z~Later on. Me call ya.
+0xBFCFC41B=~z~回见，我会打给你的。
+
+;0xC01ECED3=MF6_XD
+0xC01ECED3=MF6_XD
+
+;0xC02F86EC=100100100100010100100100100100
+0xC02F86EC=100100100100010100100100100100
+
+;0xC076224A=MF6_EJ
+0xC076224A=MF6_EJ
+
+;0xC0D79E80=~z~Sure, I was looking to branch out a bit anyway. I'll see you soon.
+0xC0D79E80=~z~当然，我一直在找机会拓宽人脉。我们之后见。
+
+;0xC209D7B9=MF6_QB
+0xC209D7B9=MF6_QB
+
+;0xC2A1CB20=~z~Oh, hi. How's it going?
+0xC2A1CB20=~z~噢，嗨。最近你怎么样？
+
+;0xC2F4331D=~z~Hey, Niko. Did you hear that Vlad has gone missing?
+0xC2F4331D=~z~Hey, Niko. Did you hear that Vlad has gone missing?
+
+;0xC3271C41=~z~Alright man, getting used to a new place, you know. You need any work done?
+0xC3271C41=~z~还行，老兄，还在适应新环境。有什么活儿需要我来吗？
+
+;0xC32E2268=MF6_TG
+0xC32E2268=MF6_TG
+
+;0xC37C9A42=~z~He only tries to prove he is the man with biggest dick.
+0xC37C9A42=~z~He only tries to prove he is the man with biggest dick.
+
+;0xC40B4420=100100010010100100100100
+0xC40B4420=100100010010100100100100
+
+;0xC608FDD7=~z~I do not take kindly to threats or false accusations.
+0xC608FDD7=~z~I do not take kindly to threats or false accusations.
+
+;0xC6F7E702=MF6_YC
+0xC6F7E702=MF6_YC
+
+;0xC7485CAA=~z~Hello, this is Mikhail Faustin.
+0xC7485CAA=~z~你好，我是Mikhail Faustin。
+
+;0xC7BCFA47=~z~I was thinking you might get turned off with us and just wanna hang with your cousin.
+0xC7BCFA47=~z~I was thinking you might get turned off with us and just wanna hang with your cousin.
+
+;0xCA36178D=~z~Niko... friend, listen you got any toot? I need some fucking powder.
+0xCA36178D=~z~Niko... friend, listen you got any toot? I need some fucking powder.
+
+;0xCAB3A8BE=~z~I am sorry, I am still not used to how things work here in America. A date would be good.
+0xCAB3A8BE=~z~很抱歉，我还是不太习惯美国的生活方式。约次会应该也挺好的。
+
+;0xCADB992D=~z~Yeah, who are you? Can you remind me?
+0xCADB992D=~z~是吗，你哪位？能不能给个提示？
+
+;0xCE25CE6C=100010100010100
+0xCE25CE6C=100010100010100
+
+;0xCE3C60F4=~z~Nah, man. She's a real good business woman, ya know star. Just don't get pon her wrong side. Seen?
+0xCE3C60F4=~z~不，老兄。她是一个很好的女商人，你懂的伙计。只是注意别跟她对着干。懂不？
+
+;0xD06DE6B8=~z~Yeah, sure. That could be fun. Yeah, I'd like to get to know you, Niko.
+0xD06DE6B8=~z~好啊，当然了。那会很有趣的。刚好，我也很想了解你，Niko。
+
+;0xD09FFD01=MF6_EH
+0xD09FFD01=MF6_EH
+
+;0xD0C08C4E=~z~Yo, Niko. How's tings?
+0xD0C08C4E=~z~Yo, Niko. How's tings?
+
+;0xD174B8DC=~z~There's always something needs doing y'know. Just come to my place, man on Dillon Street. One love.
+0xD174B8DC=~z~总是有活儿要干的。到我这儿来就成，老兄，在Dillon Street。再见。
+
+;0xD1A9126C=MF6_UB
+0xD1A9126C=MF6_UB
+
+;0xD36D98A0=~z~She is too good for you. I will fucking castrate you.
+0xD36D98A0=~z~She is too good for you. I will fucking castrate you.
+
+;0xD40E213D=MF6_AAA_FB
+0xD40E213D=MF6_AAA_FB
+
+;0xD41B5DE8=~z~Don't let anyone bully you because you're an immigrant.
+0xD41B5DE8=~z~Don't let anyone bully you because you're an immigrant.
+
+;0xD51E7682=MF6_XB
+0xD51E7682=MF6_XB
+
+;0xD5C33ECF=~z~We have no worries about him.
+0xD5C33ECF=~z~We have no worries about him.
+
+;0xD5D741A1=~z~Yo Niko me boy, wha'gwan man? Hows tings going?
+0xD5D741A1=~z~哟，Niko我的小子，怎么了老兄？最近如何啊？
+
+;0xD639C944=~z~Alright, you know, getting by.
+0xD639C944=~z~还行吧，还在适应。
+
+;0xD6702377=MF6_A_BF
+0xD6702377=MF6_A_BF
+
+;0xD720E272=MF6_RD
+0xD720E272=MF6_RD
+
+;0xD8337F3A=MF6_SB
+0xD8337F3A=MF6_SB
+
+;0xD8A8385C=MF6_TC
+0xD8A8385C=MF6_TC
+
+;0xD9E35C80=100010010100100010
+0xD9E35C80=100010010100100010
+
+;0xDBA12E5B=MF6_AAA_FD
+0xDBA12E5B=MF6_AAA_FD
+
+;0xDC353BE0=~z~That doesn't matter. You need to meet me outside the United Liberty Paper building in Algonquin.
+0xDC353BE0=~z~无所谓的，你只要到Algonquin的United Liberty Paper大楼来找我就行了。
+
+;0xDD697084=~z~Nobody will bully me, Michelle. Do not worry.
+0xDD697084=~z~Nobody will bully me, Michelle. Do not worry.
+
+;0xDD7F94E5=MF6_YD
+0xDD7F94E5=MF6_YD
+
+;0xDDD362C6=~z~Yeah, Niko. See you soon.
+0xDDD362C6=~z~好，Niko。之后见。
+
+;0xDF2851A7=~z~That sounds good. See you soon.
+0xDF2851A7=~z~听起来不错，回头见。
+
+;0xDF7F2F5E=~z~Now that I've blown my cover, she has to die.
+0xDF7F2F5E=~z~Now that I've blown my cover, she has to die.
+
+;0xE15DB480=~z~No, no, of course not. This was test.
+0xE15DB480=~z~No, no, of course not. This was test.
+
+;0xE1914009=MF6_A_BA
+0xE1914009=MF6_A_BA
+
+;0xE3CAE466=~z~Yo, me need your help with something, y'know. Will you come to my place on Dillon Street?
+0xE3CAE466=~z~哟，我需要你帮我办点事，好吧。你能到我家来吗？~n~就在Dillon街。
+
+;0xE4A17027=MF6_VE
+0xE4A17027=MF6_VE
+
+;0xE4B48046=~z~Boy, he's done a lot of growing up, ya know. He's a wise dread now.
+0xE4B48046=~z~Boy, he's done a lot of growing up, ya know. He's a wise dread now.
+
+;0xE62D3825=~z~If you want to get something off your chest... I'm a good listener, you know?
+0xE62D3825=~z~如果你有什么心里话想说...我就一个好听众，你知道吗？
+
+;0xE6DDC046=MF6_DF
+0xE6DDC046=MF6_DF
+
+;0xE776E4DC=~z~Jacob, hey, it's Niko, Roman's cousin.
+0xE776E4DC=~z~Jacob，喂，我是Niko，Roman的堂弟。
+
+;0xE8731D8D=MF6_SD
+0xE8731D8D=MF6_SD
+
+;0xE94530F2=MF6_AB
+0xE94530F2=MF6_AB
+
+;0xE9F6E736=~z~He is just another shit from the Old Country, running around with his boys.
+0xE9F6E736=~z~He is just another shit from the Old Country, running around with his boys.
+
+;0xED59E32F=MF6_TF
+0xED59E32F=MF6_TF
+
+;0xEDCCCBF9=~z~Michelle is dead, she only existed to serve a certain purpose.
+0xEDCCCBF9=~z~Michelle is dead, she only existed to serve a certain purpose.
+
+;0xEDED06A6=MF6_ZF
+0xEDED06A6=MF6_ZF
+
+;0xEF0010B5=~z~Yeah, he's a friend of yours so I looked after him.
+0xEF0010B5=~z~Yeah, he's a friend of yours so I looked after him.
+
+;0xEFB2340D=MF6_QE
+0xEFB2340D=MF6_QE
+
+;0xF091E499=~z~Hey, Niko, it's me.
+0xF091E499=~z~喂，Niko，是我。
+
+;0xF198767D=~z~Niko, do not let Dimitri worry you about Kenny Petrovic.
+0xF198767D=~z~Niko, do not let Dimitri worry you about Kenny Petrovic.
+
+;0xF2BE10EF=MF6_BC
+0xF2BE10EF=MF6_BC
+
+;0xF2FB57BB=~z~I have no involvement with your daughter.
+0xF2FB57BB=~z~I have no involvement with your daughter.
+
+;0xF46654C7=MF6_DH
+0xF46654C7=MF6_DH
+
+;0xF4C834D7=MF6_SA
+0xF4C834D7=MF6_SA
+
+;0xF5249FA1=MF6_ZC
+0xF5249FA1=MF6_ZC
+
+;0xF5AE9E26=~z~Let's hang out soon, seen? Hit me up. One love.
+0xF5AE9E26=~z~Let's hang out soon, seen? Hit me up. One love.
+
+;0xF60CEB40=MF6_A_BC
+0xF60CEB40=MF6_A_BC
+
+;0xF700C162=~z~Don't forget that. Me. Remember that.
+0xF700C162=~z~Don't forget that. Me. Remember that.
+
+;0xF70824ED=~z~It is, man. I'm real happy for them.
+0xF70824ED=~z~It is, man. I'm real happy for them.
+
+;0xF8615A9F=MF6_EE
+0xF8615A9F=MF6_EE
+
+;0xF8C93006=~z~Did she kick your ass, man?
+0xF8C93006=~z~Did she kick your ass, man?
+
+;0xFBB0DD19=100010010100100
+0xFBB0DD19=100010010100100
+
+;0xFD4B487C=~z~Niko, you are my employee, you must answer my questions.
+0xFD4B487C=~z~Niko, you are my employee, you must answer my questions.
+

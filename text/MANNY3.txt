@@ -1,0 +1,61 @@
+﻿[MANNY3]
+;0x116700FA=~s~Get in a vehicle.
+0x116700FA=~s~进入一辆载具
+
+;0x1337E5F3=~s~The ~r~target~s~ got into that car. Follow him.
+0x1337E5F3=~r~目标~s~上了那辆车。跟着他。
+
+;0x1EE11AE3=~s~Drive to the ~y~Algonquin Bridge.
+0x1EE11AE3=~s~开车前往~y~Algonquin大桥。
+
+;0x247F2390=~s~Get closer to the ~r~targets~s~ car or you'll lose him.
+0x247F2390=~s~你要跟丢了，离~r~目标~s~近点。
+
+;0x536011B7=~s~Keep close to the ~r~train~s~ and follow it as it goes over the bridges.
+0x536011B7=~s~跟紧从桥上驶过的~r~列车~s~过桥后跟住它。~s~
+
+;0x56402DEA=~s~The ~r~train~s~ has stopped.
+0x56402DEA=~r~列车~s~停下了。
+
+;0x6479B3EA=~s~The target is on that train. Follow the ~r~train~s~ and take him out when he gets off.
+0x6479B3EA=~s~目标在那辆列车上。跟着~r~列车，~s~在他下车后干掉他。
+
+;0x715FFB40=~s~Go to the ~y~Algonquin Bridge.
+0x715FFB40=~s~前往~y~Algonquin大桥。
+
+;0x7A69CF64=~s~You are too close to the ~r~targets~s~ car, back off.
+0x7A69CF64=~s~你离~r~目标~s~的车太近了，退后点。
+
+;0x7EFE490D=~r~You lost the train.~s~
+0x7EFE490D=~r~你跟丢了列车。~s~
+
+;0x85898426=~r~The target got away.~s~
+0x85898426=~r~目标逃走了。~s~
+
+;0x8B36A1EF=Hold ~INPUT_VEH_CIN_CAM~ to focus on the train.
+0x8B36A1EF=按住~INPUT_VEH_CIN_CAM~将镜头对准列车。
+
+;0x923F1341=~s~The ~r~train~s~ has stopped.
+0x923F1341=~r~列车~s~停下了。
+
+;0xBDF19756=~s~Go to the ~y~Algonquin Bridge.
+0xBDF19756=~s~去~y~Algonquin大桥。
+
+;0xBF207FA9=~s~The target didn't get off here. Follow the ~r~train~s~ to the next station.
+0xBF207FA9=~s~目标还没下车。跟着~r~列车~s~到下个车站。
+
+;0xC13CDD0D=~s~Get closer to the ~r~train,~s~ or you will lose it.
+0xC13CDD0D=~s~你要跟丢了，跟紧~r~列车。
+
+;0xC4E79550=The chase camera will focus on the target you are pursuing allowing you track their movements.
+0xC4E79550=追逐视角会将镜头对准目标，便于观察其行进方向。
+
+;0xC8A38260=~s~The ~r~target~s~ got off the train.
+0xC8A38260=~r~目标~s~下车了。
+
+;0xDFF2E086=~s~Take out the ~r~targets.
+0xDFF2E086=~s~干掉~r~目标。
+
+;0xF002629B=~s~Get closer to the ~r~target,~s~ or you will lose them.
+0xF002629B=~s~你要跟丢了，跟紧~r~目标。
+
