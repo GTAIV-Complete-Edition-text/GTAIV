@@ -18,7 +18,7 @@
 0x0B51E063=FCJ2_JACOB_CONVERSATION_3_CC
 
 ;0x0B68CA42=~z~it's all dem spliff he been smoking, man. It don't do him head no good.
-0x0B68CA42=~z~都是因为他一直抽的大麻烟，兄弟。对他的脑子不好。
+0x0B68CA42=~z~都是因为他一直抽的大麻烟，兄弟。那玩意对他的脑子不好。
 
 ;0x0BBC6137=FCJ2_JACOB_CONVERSATION_6_FC
 0x0BBC6137=FCJ2_JACOB_CONVERSATION_6_FC
@@ -60,7 +60,7 @@
 0x1BDE767E=~z~Jacob，你好吗？
 
 ;0x1E19F376=~z~Him speak de truth, man, him know de way, him understand tings properly, you know?
-0x1E19F376=~z~他述说真理，好兄弟，他通晓方向，他对事物理解到位，懂吧？
+0x1E19F376=~z~他述说真理，兄弟，他通晓方向，他对事物理解到位，懂吧？
 
 ;0x1ECFFE2C=FCJ2_JACOB_CONVERSATION_5_EI
 0x1ECFFE2C=FCJ2_JACOB_CONVERSATION_5_EI
@@ -107,7 +107,7 @@
 ;0x35D80F1D=~z~Okay.
 0x35D80F1D=~z~好吧。
 
-;0x36719ABB=~z~Grandad was here back inna the days. Him tell Badman, no badda bawl, don't be feisty.
+;0x36719ABB=~z~Grandad was here back inna the days. Him tell Badman, no badda bawl,  don't be feisty.
 0x36719ABB=~z~爷爷前几天来过这里。他告诉Badman，别再磕了，不要再反抗了。
 
 ;0x388AA43E=FCJ2_JACOB_CONVERSATION_7_GE
@@ -123,7 +123,7 @@
 0x41E848D3=FCJ2_JACOB_CONVERSATION_3_CE
 
 ;0x42AAB32D=~z~Boy, me vex rasta! Badman outta him mind, man. Him lose it.
-0x42AAB32D=~z~兄弟，我现在感觉很糟！Badman疯了，他疯了。
+0x42AAB32D=~z~兄弟，我现在感觉很糟！Badman失去理智了，他疯了。
 
 ;0x433005D3=FCJ2_JACOB_CONVERSATION_7_GJ
 0x433005D3=FCJ2_JACOB_CONVERSATION_7_GJ
@@ -132,7 +132,7 @@
 0x43DAA169=FCJ2_JACOB_CONVERSATION_4_DI
 
 ;0x4509499F=~z~Any money I get I, you know me spend upon sisters or sensemillia. I don't throw my money away, you know.
-0x4509499F=~z~反正我赚到的钱不是拿去泡妹就是拿来吸麻了。我可不会拿钱打水漂懂吧。
+0x4509499F=~z~反正我赚到的钱不是拿去泡妹就是拿来吸麻了。我可不会拿钱打水漂，懂吧。
 
 ;0x4517C175=~z~Really? You know him?
 0x4517C175=~z~真的吗？你认识他？
@@ -141,7 +141,7 @@
 0x452D353E=~z~知道吧？
 
 ;0x457464DE=~z~Problem be when man no pay another man no respect, you know? Each rasta be vital.
-0x457464DE=~z~有人不尊重人就麻烦了懂吧？牙买加帮的人是平等的。
+0x457464DE=~z~有人不尊重人就麻烦了，懂吧？牙买加帮的人是平等的。
 
 ;0x47BF685B=FCJ2_JACOB_CONVERSATION_2_BI
 0x47BF685B=FCJ2_JACOB_CONVERSATION_2_BI
@@ -165,7 +165,7 @@
 0x514DCD7F=~z~恐怕Roman确实会把手头的钱赌得一干二净。
 
 ;0x526D4847=~z~Being a dread, being a rasta, is all about getting respect and ting, you know?
-0x526D4847=~z~就比如牙买加帮的人，一切都离不开获得别人的尊重懂吧？
+0x526D4847=~z~就比如牙买加帮的人，一切都离不开获得别人的尊重，懂吧？
 
 ;0x54185DFD=FCJ2_JACOB_CONVERSATION_8_HB
 0x54185DFD=FCJ2_JACOB_CONVERSATION_8_HB
@@ -207,7 +207,7 @@
 0x61F66522=FCJ2_JACOB_CONVERSATION_1_AC
 
 ;0x62006EE4=~z~Niko, Niko, how's me main man Roman? Him still gambling all his money away?
-0x62006EE4=~z~Niko，Niko，我的哥们Roman近况如何？还是把所有的钱都拿去赌吗？
+0x62006EE4=~z~Niko，Niko，我那哥们Roman近况如何？还是把所有的钱都拿去赌吗？
 
 ;0x62DA7482=FCJ2_JACOB_CONVERSATION_1_AG
 0x62DA7482=FCJ2_JACOB_CONVERSATION_1_AG
@@ -381,7 +381,7 @@
 0xA89907A5=FCJ2_JACOB_CONVERSATION_7_GH
 
 ;0xA8997C15=~z~I am amazed he managed to save enough money to be able to afford the cab depot in the first place.
-0xA8997C15=~z~他能存钱开起出租车公司就让我够意外了。
+0xA8997C15=~z~他能存足够的钱去开个出租车公司就让我够意外了。
 
 ;0xA9878736=FCJ2_JACOB_CONVERSATION_7_GF
 0xA9878736=FCJ2_JACOB_CONVERSATION_7_GF
@@ -414,7 +414,7 @@
 0xB19A9480=FCJ2_JACOB_CONVERSATION_8_HF
 
 ;0xB1CBDEE1=~z~Him are de real selector man. It's an incredeble sound system.
-0xB1CBDEE1=~z~他太会挑歌了。他真的就是为音乐而生。
+0xB1CBDEE1=~z~他太会选歌了。他真的就是为音乐而生。
 
 ;0xB20D7D1C=FCJ2_JACOB_CONVERSATION_6_FK
 0xB20D7D1C=FCJ2_JACOB_CONVERSATION_6_FK
@@ -534,7 +534,7 @@
 0xE7DCDDF0=FCJ2_JACOB_CONVERSATION_4_DL
 
 ;0xE7F40359=~z~Blacking up don't affect I and I de same way, you know. I an' I a chill dread. I don't like that kass kass in the way Badman do.
-0xE7F40359=~z~吸麻对我的作用不一样懂吧。我还很清醒。我不想像Badman那样精神失常。
+0xE7F40359=~z~吸麻并不影响我而且我还跟以前一样，懂吧。我还很清醒。我不想像Badman那样精神失常。
 
 ;0xE7FA8082=~z~Okay, rasta, but, you know, not great, you know?
 0xE7FA8082=~z~挺好的，好兄弟。不过其实，不太好，懂吧？
@@ -543,7 +543,7 @@
 0xE8B166ED=FCJ2_JACOB_CONVERSATION_8_HA
 
 ;0xEAD38F15=~z~The herb make Badman's head work in all type of ways it shouldn't be working. He think his friends are after him.
-0xEAD38F15=~z~那种草对Badman的作用全是预料之外的。他觉得他的朋友都想杀他。
+0xEAD38F15=~z~叶子对Badman的脑子一点好处都没有。他觉得他的朋友都想杀他。
 
 ;0xEB2B842C=~z~It's his paranoia, man. He's smoking too much of that shit. You got to tell him to calm it down.
 0xEB2B842C=~z~他又犯了妄想症了。他吸那玩意儿吸的太多了，你得让他冷静下来啊。
@@ -567,7 +567,7 @@
 0xF4678978=FCJ2_JACOB_CONVERSATION_4_DC
 
 ;0xF90D2B88=~z~He ain't turned on me yet, but one day. You know, one day...
-0xF90D2B88=~z~他还没对我做什么，但迟早啊。真的，迟早啊...
+0xF90D2B88=~z~他还没对我做什么，但只是时间问题啊。真的，只是时间问题...
 
 ;0xFB673B28=FCJ2_JACOB_CONVERSATION_8_HJ
 0xFB673B28=FCJ2_JACOB_CONVERSATION_8_HJ
