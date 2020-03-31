@@ -1,15 +1,15 @@
 ﻿[PICKMAL]
 ;0x008F55C8=~s~The ~BLIP_50~ icon represents a clothes shop, you can visit at any time to buy new clothes.
-0x008F55C8=~s~~BLIP_50~表示服装店，你可以随时去购置新的服装。
+0x008F55C8=~s~图标~BLIP_50~代表服装店，你随时可以前往并购置新服装。
 
 ;0x06649EDA=~s~Get in ~b~Roman's car.
 0x06649EDA=~s~进入~b~Roman的车。
 
 ;0x17A34B60=~s~Use ~PAD_DPAD_LEFTRIGHT~ to cycle between radio stations when in a vehicle.
-0x17A34B60=~s~使用~PAD_DPAD_LEFTRIGHT~可在车上切换电台。
+0x17A34B60=~s~在载具中，你可使用~PAD_DPAD_LEFTRIGHT~来切换电台频道。
 
 ;0x1C16105D=~s~Press ~INPUT_VEH_HORN~ to sound your horn to attract the girls' attention.
-0x1C16105D=~s~按~INPUT_VEH_HORN~鸣笛以引起女孩们的注意。
+0x1C16105D=~s~按~INPUT_VEH_HORN~鸣笛来吸引女孩们的注意。
 
 ;0x29C2EF9F=~s~Hold ~PAD_DPAD_DOWN~ to switch off the radio.
 0x29C2EF9F=~s~长按~PAD_DPAD_DOWN~可关闭收音机。
@@ -21,22 +21,22 @@
 0x4A2C9101=~r~Michelle受伤了。
 
 ;0x4CE12BD6=~s~Take them back to ~y~Michelle's apartment.
-0x4CE12BD6=~s~送她们回~y~Michelle的公寓。
+0x4CE12BD6=~s~将她们送回~y~Michelle的公寓。
 
 ;0x538683BB=~s~Use ~INPUT_TURN_OFF_RADIO~ to switch off the radio.
 0x538683BB=~s~按~INPUT_TURN_OFF_RADIO~可关闭收音机。
 
 ;0x5C008CB1=Buy some new clothes.
-0x5C008CB1=购置些新服装。
+0x5C008CB1=请购置新服装。
 
 ;0x65E5A07B=That should be enough to impress Michelle...
-0x65E5A07B=这样应该足以让Michelle记住我...
+0x65E5A07B=这样应该足以给Michelle留下好印象了...
 
 ;0x6F0F5AC6=~r~Michelle is dead.
 0x6F0F5AC6=~r~Michelle死了。
 
 ;0x6F57F0C3=~s~You left ~b~Mallorie~s~ behind, go back and get her.
-0x6F57F0C3=~s~你把~b~Mallorie~s~落下了，回去接她。
+0x6F57F0C3=~s~你落下~b~Mallorie~s~了，请回去接她。
 
 ;0x7A6749B5=~s~Use ~INPUT_VEH_NEXT_RADIO~ or ~INPUT_VEH_PREV_RADIO~ again to switch the radio back on.
 0x7A6749B5=~s~用~INPUT_VEH_NEXT_RADIO~或~INPUT_VEH_PREV_RADIO~可再次打开收音机。
@@ -48,16 +48,16 @@
 0x82B30221=~r~店员受伤了。
 
 ;0x943CA520=~r~Michelle and Mallorie are dead.
-0x943CA520=~r~Michelle和Mallorie都死了。
+0x943CA520=~r~Michelle和Mallorie死了。
 
 ;0xB2CF3FBD=~s~Go to the ~y~subway station.
 0xB2CF3FBD=~s~前往~y~地铁站。
 
 ;0xB8DA6E5B=~r~The car was trashed.
-0xB8DA6E5B=~r~车子坏了。
+0xB8DA6E5B=~r~车子严重受损。
 
 ;0xB9656F85=~r~You have abandoned the car.~s~
-0xB9656F85=~r~你把车遗弃了。~s~
+0xB9656F85=~r~你遗弃了车子。~s~
 
 ;0xBC0F5239=~s~Get back in the ~b~car.
 0xBC0F5239=~s~回到~b~车~s~上。
@@ -69,11 +69,10 @@
 0xDA4F0948=去Mohawk的服装店买点新衣服。
 
 ;0xE3E159D4=~s~You left ~b~Mallorie ~s~and~b~ Michelle~s~ behind, go back and get them.
-0xE3E159D4=~s~你把~b~Mallorie~s~和~b~Michelle~s~都落下了，回去接她们。
+0xE3E159D4=~s~你把~b~Mallorie~s~和~b~Michelle~s~都落下了，请回去接她们。
 
 ;0xF05472BA=~s~You left ~b~Michelle~s~ behind, go back and get her.
-0xF05472BA=~s~你把~b~Michelle~s~落下了，回去接她。
+0xF05472BA=~s~你落下了~b~Michelle~s~，请回去接她。
 
 ;0xFD5CE27D=~s~Use ~INPUT_VEH_NEXT_RADIO~ or ~INPUT_VEH_PREV_RADIO~ to cycle between radio stations when in a vehicle.
-0xFD5CE27D=~s~使用~INPUT_VEH_NEXT_RADIO~或~INPUT_VEH_PREV_RADIO~可在车上切换电台。
-
+0xFD5CE27D=~s~在载具中，你可使用~INPUT_VEH_NEXT_RADIO~和~INPUT_VEH_PREV_RADIO~来切换电台频道。
