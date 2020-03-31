@@ -3,7 +3,7 @@
 0x00F102BB=~z~好的，Carmen。我一小时后到你那。
 
 ;0x01036601=~z~Carmen don't got the time to be helping you now, Niko. Maybe if you gave her more attention she might be more willing.
-0x01036601=~z~Carmen现在没空帮你，Niko。也许如果你给予她更多关注，她可能会更愿意。
+0x01036601=~z~Carmen现在没空帮你，Niko。也许如果你给予她更多关注，她可能会更乐意。
 
 ;0x020038E6=GCC_ACT_PCA_CALL_SLEEPING
 0x020038E6=GCC_ACT_PCA_CALL_SLEEPING
@@ -12,7 +12,7 @@
 0x02902658=~z~Carmen。
 
 ;0x03BC1BBD=~z~Men don't keep Carmen waiting, you a man, ain't you, Niko?
-0x03BC1BBD=~z~男人可不会让Carmen久等，你是个男人，不是吗，Niko？
+0x03BC1BBD=~z~男人可不会让Carmen久等，你是个男人，对吧，Niko？
 
 ;0x04FC9907=100100100010
 0x04FC9907=100100100010
@@ -60,7 +60,7 @@
 0x109B1108=~z~去你的。
 
 ;0x11AC5A70=~z~It's not like no one else has asked to come get Carmen. She just thought she'd give you first chance. Call her later, okay?
-0x11AC5A70=~z~又不是没人叫Carmen来。她只是想给你第一次机会。待会儿打给她，好吗？
+0x11AC5A70=~z~又不是没人出来约Carmen。她只想给你第一次机会。待会儿打给她，好吗？
 
 ;0x11C8C9E7=~z~Do you want to spend some money on Carmen?
 0x11C8C9E7=~z~你想在Carmen身上花点钱吗？
@@ -114,7 +114,7 @@
 0x23926D7A=~z~你应该带Carmen出去逛逛，在她身上花些钱。
 
 ;0x239ED7D3=~z~Screw you, asshole.
-0x239ED7D3=~z~去你的，混蛋。
+0x239ED7D3=~z~去你妈的，傻逼。
 
 ;0x23AC92C3=GCC_ACT_GETCALL_SPEC_AB
 0x23AC92C3=GCC_ACT_GETCALL_SPEC_AB
@@ -153,7 +153,7 @@
 0x31B9E151=010
 
 ;0x341FCB3E=~z~Sorry, Niko. Carmen is done with you. You don't pay her the attention other men do.
-0x341FCB3E=~z~抱歉，Niko。Carmen和你闹翻了。你没有像其他男人那样关注她。
+0x341FCB3E=~z~抱歉，Niko。Carmen和你结束了。你没有像其他男人那样关注她。
 
 ;0x34E8ED8C=~z~You want to go out on a date?
 0x34E8ED8C=~z~你想出去约会吗？
@@ -378,7 +378,7 @@
 0x8BE70C27=GCC_ACT_CALL_VERYIRATE
 
 ;0x8C637933=~z~Screw you, asshole.
-0x8C637933=~z~去你的，混蛋。
+0x8C637933=~z~去你妈的，傻逼。
 
 ;0x8C95980A=~z~I'm going to see a man tonight, baby. It just look like it ain't gonna be you.
 0x8C95980A=~z~我今晚要去见个男人，宝贝。不过那个男人不是你。
@@ -408,7 +408,7 @@
 0x92AABE6E=GCC_ACT_CALL_DATE_NO_GENERAL
 
 ;0x92F90662=~z~Fine, go jerk off then.
-0x92F90662=~z~好吧，那就滚吧。
+0x92F90662=~z~好吧，滚一边打你飞机去吧。
 
 ;0x948F27B7=GCC_ACT_GETCALL_HOSP_ASK
 0x948F27B7=GCC_ACT_GETCALL_HOSP_ASK
@@ -450,7 +450,7 @@
 0xA3184911=100
 
 ;0xA395A79F=~z~Fuck you.
-0xA395A79F=~z~去你的。
+0xA395A79F=~z~操你妈。
 
 ;0xA40F9D24=010
 0xA40F9D24=010
@@ -528,7 +528,7 @@
 0xBBCA77E9=~z~Carmen，你现在自由了。你和我之间的关系结束了。照顾好你自己。
 
 ;0xBECF8E3A=~z~Fine, go jerk off then.
-0xBECF8E3A=~z~行，那就滚吧。
+0xBECF8E3A=~z~行，滚一边打你飞机去吧。
 
 ;0xBEFF2455=~z~Why don't you take me out somewhere nice?
 0xBEFF2455=~z~你为什么不带我去些好地方呢？
