@@ -6,13 +6,13 @@
 0x009F35EE=100
 
 ;0x01412EFA=~z~You and Carmen look good together when you both rocking designer labels.
-0x01412EFA=~z~你和Carmen穿着名牌衣服站在一起时很好看。
+0x01412EFA=~z~你穿着名牌衣服和Carmen站在一起时很好看。
 
 ;0x02A9B0AF=GCC_ACT_PCA_LEGS_GOOD
 0x02A9B0AF=GCC_ACT_PCA_LEGS_GOOD
 
 ;0x02ACBFCC=~z~A friend of mine drives a bike as well, Niko. Let's go.
-0x02ACBFCC=~z~我的一个朋友也骑车，Niko。我们走吧。
+0x02ACBFCC=~z~我的一个朋友也骑摩托，Niko。我们走吧。
 
 ;0x02C7C215=~z~Hey, we met on the internet, didn't we? Love-meet.net? I'm Niko.
 0x02C7C215=~z~嘿，我们是在网上认识的，不是吗？Love-meet.net？我叫Niko。
@@ -27,7 +27,7 @@
 0x059E0D1A=GCC_ACT_CAR_BIKE
 
 ;0x05B91FD2=~z~All this darts playing is really turning a girl off.
-0x05B91FD2=~z~所有这些飞镖游戏真的让一个女孩感到厌烦。
+0x05B91FD2=~z~所有飞镖游戏都会让女孩感到厌烦。
 
 ;0x0658966D=GCC_ACT_CAR_NEW_BAD
 0x0658966D=GCC_ACT_CAR_NEW_BAD
@@ -57,13 +57,13 @@
 0x1346CCD5=100
 
 ;0x137EBB5D=~z~Darts again? You ain't got no imagination, do you Niko?
-0x137EBB5D=~z~又玩飞镖？你缺乏想象力吧，Niko？
+0x137EBB5D=~z~又玩飞镖？你是不是一点想象力都没有，Niko？
 
 ;0x14429226=~z~I don't know. I just threw on whatever.
 0x14429226=~z~我不知道。管他呢，就扔吧。
 
 ;0x144C25F5=~z~Caraho, Niko! This is a piece of trash, what's the deal with your ride?
-0x144C25F5=~z~Caraho, Niko!这真实垃圾，你的车怎么搞的？
+0x144C25F5=~z~Caraho, Niko!这就是坨垃圾，你的车是怎么搞的？
 
 ;0x14929B5F=~z~Let's get in here, Niko. I hope the barman don't recognize me.
 0x14929B5F=~z~我们进去吧，Niko。希望酒保不要认出我来。
@@ -93,7 +93,7 @@
 0x1FC19480=GCC_ACT_PCA_HAT_GOOD
 
 ;0x20A03BC0=~z~At least you can't have paid much money for this piece of shit car.
-0x20A03BC0=~z~至少你不可能花大价钱买这辆破车。
+0x20A03BC0=~z~至少你不用因为这辆破车花很多钱。
 
 ;0x218E44F1=GCC_ACT_PCA_NOGLASS_BAD
 0x218E44F1=GCC_ACT_PCA_NOGLASS_BAD
@@ -132,7 +132,7 @@
 0x2AB661A2=~z~别去买便宜的眼镜，Niko。它们质量看起来不太好。
 
 ;0x2CAD09FB=~z~Nice new shoes, baby.
-0x2CAD09FB=~z~新鞋子很漂亮。
+0x2CAD09FB=~z~新鞋子很漂亮，宝贝。
 
 ;0x2F1209D2=~z~Niko, you'd look better with no pants than those things.
 0x2F1209D2=~z~Niko，你不穿裤子都比那身好看。
@@ -207,7 +207,7 @@
 0x3E69A14A=GCC_ACT_PCA_HINTA
 
 ;0x3EB40F25=~z~Ohh. I like the new car. It can't have been cheap.
-0x3EB40F25=~z~噢。我喜欢这辆新车。它肯定很贵。
+0x3EB40F25=~z~噢。我喜欢这辆新车。它一定不便宜。
 
 ;0x3ECFDFA7=100
 0x3ECFDFA7=100
@@ -270,7 +270,7 @@
 0x4A093EB9=~z~你把车停哪了？
 
 ;0x4DBE4D6A=~z~Niko, you need a serious style rethink, okay?
-0x4DBE4D6A=~z~Niko，你需要好好考虑下你的风格，好吗？
+0x4DBE4D6A=~z~Niko，你需要好好重新考虑下你的风格，知道吗？
 
 ;0x4E6E975C=~z~Carmen's going to give you some advice. You want to impress a girl, you get a nice car.
 0x4E6E975C=~z~Carmen要给你一些建议。如果你想给一个女孩留下好印象，你就得买辆好车。
@@ -297,7 +297,7 @@
 0x5335C51D=100
 
 ;0x5342D864=~z~Carman ain't feeling this vibe, baby.
-0x5342D864=~z~Carmen没有感受到这种氛围。
+0x5342D864=~z~Carmen感受不到这种氛围，宝贝。
 
 ;0x53A8848E=100
 0x53A8848E=100
@@ -306,7 +306,7 @@
 0x5415F4CD=GCC_ACT_CAR_BAD
 
 ;0x547D0997=~z~I used to play darts with mi Papi.
-0x547D0997=~z~我以前和mi Papi一起玩过飞镖。
+0x547D0997=~z~我以前和我老爸一起玩飞镖。
 
 ;0x5558A98B=GCC_ACT_ARRIVE_POOL_BEFORE
 0x5558A98B=GCC_ACT_ARRIVE_POOL_BEFORE
@@ -318,13 +318,13 @@
 0x56479EBB=100
 
 ;0x59D59D3A=~z~If you ain't gonna spend a lot of money on a hat, there ain't no point in spending any money at all.
-0x59D59D3A=~z~如果你不打算花很多钱买一顶帽子，那么花一分钱都没有任何意义。
+0x59D59D3A=~z~如果你不打算在一顶帽子上花很多钱，那还不如一分钱都别花。
 
 ;0x59DCC189=010
 0x59DCC189=010
 
 ;0x5C2E8484=~z~This car wasn't cool the last time I saw it, and it ain't cool now.
-0x5C2E8484=~z~我上次看到这辆车的时候它并不酷，现在也不酷了。
+0x5C2E8484=~z~我上次看到这辆车的时候它并不酷，现在仍然不酷。
 
 ;0x5E3213A5=010
 0x5E3213A5=010
@@ -393,7 +393,7 @@
 0x6DB7FD3C=GCC_ACT_CAR_SAME_GOOD
 
 ;0x6E7BA91E=~z~This car ain't gonna help you get laid, Niko.
-0x6E7BA91E=~z~在这车里可没办法做爱，Niko。
+0x6E7BA91E=~z~在这种车里可没办法把妹，Niko。
 
 ;0x6ED6D5C9=100
 0x6ED6D5C9=100
@@ -423,7 +423,7 @@
 0x751B244A=~z~那件新上衣很好看，Niko。
 
 ;0x75590EEC=~z~You want to play darts again because it was so fun last time?
-0x75590EEC=~z~你又想玩一次飞镖，因为上次玩得很开心？
+0x75590EEC=~z~你因为上次玩的很开心所以想再来玩一把飞镖？
 
 ;0x7561B1D4=GCC_ACT_PCA_CAR_BAD
 0x7561B1D4=GCC_ACT_PCA_CAR_BAD
@@ -441,7 +441,7 @@
 0x76C3D948=100
 
 ;0x76F0D0B5=~z~Pool again, Niko? You don't got much of a clue about women, do you?
-0x76F0D0B5=~z~又玩台球，Niko？你对女人不太了解，是吗？
+0x76F0D0B5=~z~又玩台球，Niko？你对女人不太了解，对吧？
 
 ;0x77C8595E=GCC_ACT_ARRIVE_DARTS_NOT
 0x77C8595E=GCC_ACT_ARRIVE_DARTS_NOT
@@ -471,7 +471,7 @@
 0x7DEDFB3F=~z~Niko，你不应该再穿那件上衣了。
 
 ;0x7DFE5D1F=~z~That new hat makes you look real rich, Niko. I like it.
-0x7DFE5D1F=~z~那顶新帽子使你看起来很富有，Niko。我喜欢它。
+0x7DFE5D1F=~z~那顶新帽子使你看起来很有钱，Niko。我喜欢它。
 
 ;0x7E5BE4B5=GCC_ACT_ARRIVE_DARTS_LAST
 0x7E5BE4B5=GCC_ACT_ARRIVE_DARTS_LAST
@@ -480,16 +480,16 @@
 0x7F186819=100
 
 ;0x801457CA=~z~Everyone is jealous of Carmen when they see her sitting in this ride with you.
-0x801457CA=~z~每个人看到Carmen和你坐在一起时都会嫉妒她。
+0x801457CA=~z~每个人看到Carmen和你坐在这辆车里时都会嫉妒她。
 
 ;0x802F6181=~z~I'm feeling the vibe of your hat, Niko. It's a real strong look.
-0x802F6181=~z~你感受到了你帽子存在的气息，Niko。它真的太显眼了。
+0x802F6181=~z~我感受到了你帽子存在的气息，Niko。它真的太显眼了。
 
 ;0x81D02546=GCC_ACT_ARRIVE_BOWL_NOT
 0x81D02546=GCC_ACT_ARRIVE_BOWL_NOT
 
 ;0x84C4082D=~z~Shit, Niko. Those are some raggedy-ass clothes you wearing. What's up with that?
-0x84C4082D=~z~靠，Niko。你怎么穿着一身破衣服。这是怎么回事？
+0x84C4082D=~z~靠，Niko。你这身衣服怎么破破烂烂的。怎么回事？
 
 ;0x856B8DEF=100
 0x856B8DEF=100
@@ -519,7 +519,7 @@
 0x8AA25085=~z~嘿，NIko。你要带Carmen去些好地方吗？
 
 ;0x8B63C16D=~z~I ain't walking nowhere, Niko.
-0x8B63C16D=~z~我哪儿也不去，Niko。
+0x8B63C16D=~z~没有车我哪儿也不去，Niko。
 
 ;0x8BD9F383=010
 0x8BD9F383=010
@@ -657,7 +657,7 @@
 0xB14BE120=100
 
 ;0xB2779164=~z~Please tell me you dry cleaned these clothes since I last seen you?
-0xB2779164=~z~请告诉我，自从我上次见到你以来，你把这些衣服干洗了吗？
+0xB2779164=~z~请告诉我，自从我上次见到你以来，你这套衣服干洗过了吗？
 
 ;0xB2AE656F=100
 0xB2AE656F=100
@@ -666,7 +666,7 @@
 0xB2BF8F28=100
 
 ;0xB2DC09EE=~z~It's a piece of crap. My other cars are in the shop. I like your value system, real simple.
-0xB2DC09EE=~z~真是垃圾。我的其他车在商店里。我喜欢你的价值体系，真的很简单。
+0xB2DC09EE=~z~这就是一坨屎。我的其他车在商店里。我喜欢你的价值体系，真的很简单。
 
 ;0xB42F480F=~z~We going to see that fat English guy? He supposed to be funny?
 0xB42F480F=~z~我们要去看那个英国肥佬吗？他应该会很有趣？
@@ -675,13 +675,13 @@
 0xB4357A32=~z~谢谢，我很好。你看起来也不错。
 
 ;0xB56ABF83=~z~We bowling again, Niko? That's gonna be great foreplay.
-0xB56ABF83=~z~我们又打保龄球，Niko？那将是很棒的前戏。
+0xB56ABF83=~z~我们又要打保龄球了，Niko？那将是很棒的前戏。
 
 ;0xB63A03DB=GCC_ACT_PCA_CLOTHES_OKAY
 0xB63A03DB=GCC_ACT_PCA_CLOTHES_OKAY
 
 ;0xB74EE907=~z~You having financial trouble, that's why you have to get this crap car?
-0xB74EE907=~z~你有经济困难，不然你怎么会买这辆破车？
+0xB74EE907=~z~你在经济方面有困难吧，不然你怎么会买这辆破车？
 
 ;0xB845BCA5=~z~Yo, this car remind me of one my papi drives.
 0xB845BCA5=~z~唷，这车让我想起我老爸开的车。
@@ -702,7 +702,7 @@
 0xBA0E2DB8=~z~嘿，Niko，你的车在哪买的？
 
 ;0xBA1E0578=~z~Niko, you ride a motorbike. You like the danger, don't ya?
-0xBA1E0578=~z~Niko，你骑辆摩托车。你喜欢这种冒险，不是吗？
+0xBA1E0578=~z~Niko，你骑辆摩托车。你喜欢冒险，对吧？
 
 ;0xBA8B6F9B=GCC_ACT_ARRIVE_SHOW_RGERV
 0xBA8B6F9B=GCC_ACT_ARRIVE_SHOW_RGERV
@@ -750,7 +750,7 @@
 0xC488823C=010
 
 ;0xC4CED5B7=~z~I feel like I'm going out with my papi when you pick me up in this car.
-0xC4CED5B7=~z~你用这车来接我，我感觉像是跟我老爸一起出去似的。
+0xC4CED5B7=~z~当你用这辆车接我时我感觉像是和我老爸一起出去。
 
 ;0xC4E142E0=100
 0xC4E142E0=100
@@ -795,7 +795,7 @@
 0xCF55B030=GCC_ACT_ARRIVE_BOWL_LAST
 
 ;0xD02FE169=~z~Baby, you always got to be taking Carmen to the bowling alley?
-0xD02FE169=~z~你总是要带Carmen去保龄球馆吗？
+0xD02FE169=~z~宝贝，你用得着每次都带Carmen去保龄球馆吗？
 
 ;0xD0FF9CCB=100
 0xD0FF9CCB=100
@@ -816,10 +816,10 @@
 0xD54EB6B8=100
 
 ;0xD556FC24=~z~My tit job is so much better than the ones these bitches have got.
-0xD556FC24=~z~我的活儿可比这些贱人的好多了。
+0xD556FC24=~z~我的那对大白兔可比这些小婊子的强多了。
 
 ;0xD58EE1BD=~z~I could be a stripper if I wanted the easy money. I got the body for it.
-0xD58EE1BD=~z~如果我想更快地赚钱，我可以当脱衣舞娘。我身材很适合。
+0xD58EE1BD=~z~如果我想赚点快钱，我可以当脱衣舞娘。我身材很适合。
 
 ;0xDAA1860E=100
 0xDAA1860E=100
@@ -885,7 +885,7 @@
 0xF06F1B51=~z~Niko，你看起来一点也不像摩托车手，我应该知道的。来吧。
 
 ;0xF11D2E53=~z~Maybe you pick girls up from the retirement village in this car, but Carmen no like it.
-0xF11D2E53=~z~也许你可以开这辆车去接退休村的女孩，但Carmen不喜欢它。
+0xF11D2E53=~z~也许你可以开这辆车去接敬老院的女孩，但Carmen不喜欢它。
 
 ;0xF2AD7490=GCC_ACT_PCA_FEET_GOOD
 0xF2AD7490=GCC_ACT_PCA_FEET_GOOD
@@ -897,7 +897,7 @@
 0xF739D82B=GCC_ACT_ARRIVE_POOL_NOT
 
 ;0xF8A42333=~z~As a nurse, I have to tell you that those clothes are a health risk.
-0xF8A42333=~z~作为一名护士，我得告诉你，那些衣服对健康有风险。
+0xF8A42333=~z~作为一名护士，我得告诉你，那种衣服对健康有风险。
 
 ;0xF9B7B763=GCC_ACT_CAR_OKAY
 0xF9B7B763=GCC_ACT_CAR_OKAY
