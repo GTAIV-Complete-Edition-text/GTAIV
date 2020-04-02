@@ -96,7 +96,7 @@
 0x2032B075=100
 
 ;0x222F488B=~z~Shall we get a taxi or walk?
-0x222F488B=~z~我们是要打的还是走去？
+0x222F488B=~z~我们是要打出租还是走过去？
 
 ;0x2242EBAB=~z~Okay, let's go bowling again.
 0x2242EBAB=~z~好啊，那就再去打保龄球吧。
@@ -480,7 +480,7 @@
 0xA60778EA=~z~他很有趣。
 
 ;0xA6156CCE=~z~No silly hat today? What a shame!
-0xA6156CCE=~z~今天没带蠢帽子了？太可耻了！
+0xA6156CCE=~z~今天不带蠢帽子了？太可耻了！
 
 ;0xA9400D49=100
 0xA9400D49=100
@@ -711,7 +711,7 @@
 0xE4042FE3=GCK_ACT_PKA_CAR_GOOD
 
 ;0xE4B86797=~z~That old car - I think I preferred it to this one.
-0xE4B86797=~z~老的那辆车－比起那辆我更喜欢这辆。
+0xE4B86797=~z~那辆老车－比起那辆我更喜欢这辆。
 
 ;0xE6B39EE1=~z~I don't want to do this, Niko.
 0xE6B39EE1=~z~我不想这么做，Niko。
@@ -735,7 +735,7 @@
 0xEBFCD75B=~z~很高兴你还是穿着它。
 
 ;0xEC475CBC=~z~Cab or walk? What do you think?
-0xEC475CBC=~z~打的还是走路？你怎么想的？
+0xEC475CBC=~z~打出租还是走路？你怎么想的？
 
 ;0xEC489CF8=100
 0xEC489CF8=100
