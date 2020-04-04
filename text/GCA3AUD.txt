@@ -78,7 +78,7 @@
 0x1C0F27E9=010
 
 ;0x1E0A7107=~z~Woo hoo, Niko beats Alex at pool - a game she incidentally hates. Stop the press.
-0x1E0A7107=~z~呜呼，Niko在台球上打败了Alex，她不擅长台球。别吹了。
+0x1E0A7107=~z~呜呼，Niko在台球上打败了Alex，她其实不擅长台球。别吹了。
 
 ;0x1E8B17E5=~z~Bye then.
 0x1E8B17E5=~z~那再见了。
@@ -258,7 +258,7 @@
 0x54F79303=GCA_ACT_DATEFINISHED_GOOD
 
 ;0x55AEE93B=~z~I'm always going to love that place, the people are so beautiful. I belong there.
-0x55AEE93B=~z~我向来喜欢那个地方，那里的人各个都很美。我属于那里。
+0x55AEE93B=~z~我向来喜欢那个地方，那里每个人都很美。我属于那里。
 
 ;0x55FC8D0A=GCA_ACT_DARTS_LEAVE_LOST
 0x55FC8D0A=GCA_ACT_DARTS_LEAVE_LOST
@@ -417,7 +417,7 @@
 0x88AEC577=~z~希望我没有让你无聊，不是说我会让别人无聊，但我一直在说话。
 
 ;0x89CD10A5=~z~I told you I hate fast-food. I will not let it pass my lips again.
-0x89CD10A5=~z~都跟你说了，我讨厌快餐。我不会再让这种东西下肚了。
+0x89CD10A5=~z~都跟你说了，我讨厌快餐。我不会再让这种东西进我嘴里了。
 
 ;0x89F3FB65=100
 0x89F3FB65=100
@@ -651,7 +651,7 @@
 0xE5324951=GCA_ACT_ARRIVE_WALK_NOT
 
 ;0xE5821A0B=~z~I'll write a blog about you.
-0xE5821A0B=~z~我会就你写一篇博客的。
+0xE5821A0B=~z~我会写一篇关于你的博客的。
 
 ;0xE66514AE=100
 0xE66514AE=100
@@ -666,7 +666,7 @@
 0xE77A9C7D=GCA_ACT_PAL_END_RESPONSE
 
 ;0xE7F4BC01=~z~I'd feel guilty if I didn't escort you all the way into your place.
-0xE7F4BC01=~z~要是我没有护送你回家，我会很自责的。
+0xE7F4BC01=~z~要是我没有护送你回家，我会有负罪感的。
 
 ;0xE88F2444=~z~European girls might be whores, but Americans aren't.
 0xE88F2444=~z~欧洲女孩可能是妓女，但美国的不是。
