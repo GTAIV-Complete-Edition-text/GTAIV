@@ -18,7 +18,7 @@
 0x6BCAD505=降低你的通缉度。
 
 ;0x7C2975C2=~r~The deal was disrupted by police presence.~s~
-0x7C2975C2=~r~交易因警方的出现而终止~s~
+0x7C2975C2=~r~交易因警方在场而终止~s~
 
 ;0x95068D14=~r~The deal was disrupted.~s~
 0x95068D14=~r~交易终止。~s~
@@ -27,7 +27,7 @@
 0xA8E14F31=送Brian去~y~Wappinger。~s~
 
 ;0xB71EEBAC=Get a vehicle.
-0xB71EEBAC=获取一辆载具。
+0xB71EEBAC=找一辆载具。
 
 ;0xB747D196=Pick ~b~Brian~s~ up.
 0xB747D196=接上~b~Brian。~s~

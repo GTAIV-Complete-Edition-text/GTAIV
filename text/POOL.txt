@@ -6,7 +6,7 @@
 0x102AB08C=先~PAD_RSTICK_DOWN~后~PAD_RSTICK_UP~进行击球。~n~按~INPUT_FRONTEND_CANCEL~重新瞄准。~n~按~INPUT_PICKUP~离开球桌。
 
 ;0x2222547B=Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Use ~PAD_RSTICK_ALL~ to position cue tip.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_FRONTEND_ACCEPT~ to enter shooting mode.~n~Press ~PAD_BACK~ for overhead view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~
-0x2222547B=用~PAD_LSTICK_LEFTRIGHT~调整瞄准角度。~n~用~PAD_RSTICK_ALL~控制球杆击球位置。~n~按住~PAD_X~微调。~n~按~INPUT_FRONTEND_ACCEPT~进入击球模式。~n~按~PAD_BACK切换俯视视角。~n~按~INPUT_PICKUP~离开球桌。~n~~a~
+0x2222547B=用~PAD_LSTICK_LEFTRIGHT~调整瞄准角度。~n~用~PAD_RSTICK_ALL~控制球杆击球位置。~n~按住~PAD_X~微调。~n~按~INPUT_FRONTEND_ACCEPT~进入击球模式。~n~按~PAD_BACK~切换俯视视角。~n~按~INPUT_PICKUP~离开球桌。~n~~a~
 
 ;0x2722BBF3=Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_ATTACK~ to enter shooting mode.~n~Press ~PAD_BACK~ for normal view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~
 0x2722BBF3=用~PAD_LSTICK_LEFTRIGHT~调整瞄准角度。~n~按住~PAD_X~微调。~n~按~INPUT_ATTACK~进入击球模式。~n~按~PAD_BACK~切换正常视角。~n~按~INPUT_PICKUP~离开台球桌。~n~~a~
