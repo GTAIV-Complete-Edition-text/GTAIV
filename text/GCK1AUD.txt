@@ -15,13 +15,13 @@
 0x06C8B55D=100
 
 ;0x07AAB9A9=~z~I've only just finished our last date! Another time.
-0x07AAB9A9=~z~我们才刚约过会呢！下次吧。
+0x07AAB9A9=~z~我们才约过会呢！下次吧。
 
 ;0x08BC68FA=100
 0x08BC68FA=100
 
 ;0x09E398FD=~z~Excellent - rejection. My favorite.
-0x09E398FD=~z~很好－拒绝了。我的最爱。
+0x09E398FD=~z~很好－拒绝。我的最爱。
 
 ;0x0C051009=~z~You wanna hang out?
 0x0C051009=~z~你想出去玩吗？
@@ -120,7 +120,7 @@
 0x2EEDA7F3=GCK_ACT_CALL_IRATE
 
 ;0x30DBAF15=~z~Thanks friend... asshole.
-0x30DBAF15=~z~谢了，朋友...混蛋。
+0x30DBAF15=~z~谢了，朋友...傻逼。
 
 ;0x30F35231=~z~I was asleep - call me after 8.
 0x30F35231=~z~我睡了－8点后打给我。
@@ -135,7 +135,7 @@
 0x324C3A58=~z~没事，Niko，那改天吧，也许。
 
 ;0x332B4DF6=~z~I can't, Niko - I'm busy doing something for Ma.
-0x332B4DF6=~z~我没空，Niko－我忙着替妈做事呢。
+0x332B4DF6=~z~我没空，Niko－我忙着替我妈做事呢。
 
 ;0x33848AE4=GCK_ACT_PKA_CALL_LOLIKE
 0x33848AE4=GCK_ACT_PKA_CALL_LOLIKE
@@ -273,7 +273,7 @@
 0x75AF2F8B=~z~好的。之后见。
 
 ;0x77A8410F=~z~Okay - I guess I'll make my own way home.
-0x77A8410F=~z~好的－我想我还是走回去吧。
+0x77A8410F=~z~好的－我想我还是自己走回去吧。
 
 ;0x794C870A=~z~Listen, I haven't heard from you in a while.
 0x794C870A=~z~听着，我有一段时间没接到你的电话了。
@@ -294,7 +294,7 @@
 0x7FEFE77E=~z~我有些家里的事要忙。
 
 ;0x841CC603=~z~You really are a dick. I'm getting out of the hospital you ass! Fuck you.
-0x841CC603=~z~你真的是个屌人。我要出院了你这混蛋！操你妈！
+0x841CC603=~z~你真的是个混蛋。我要出院了你这混蛋！操你妈！
 
 ;0x86070ECB=100
 0x86070ECB=100
@@ -318,13 +318,13 @@
 0x89CB97B2=~z~是你？我还以为你肯定是死了。
 
 ;0x8C50D457=~z~Okay... you're a dick, but I forgive you. Let's try again, shall we? Pick me up in an hour or so.
-0x8C50D457=~z~好吧... 你这个屌人，但我原谅你。我们再试一次，好吗？一小时内来接我。
+0x8C50D457=~z~好吧... 你这个混蛋，但我原谅你。我们再试一次，好吗？一小时内来接我。
 
 ;0x8C8A922B=~z~God, I must be really boring... even you don't want to know me.
 0x8C8A922B=~z~天哪，我这人一定很无聊...连你都不想了解我。
 
 ;0x8E384219=~z~Thanks - for absolutely nothing, Niko.
-0x8E384219=~z~谢谢－因为你什么都没做，Niko。
+0x8E384219=~z~非常感谢你什么都没做，Niko。
 
 ;0x908AF137=~z~Okay. Maybe we'll hang out another time, when you're less busy - maybe not.
 0x908AF137=~z~好的。或许我们可以改天再出去，等你没那么忙的时候－或许不出去了。
@@ -333,7 +333,7 @@
 0x926DB844=~z~好的，我会打回来的。
 
 ;0x927A62BE=~z~Call me when you're willing to try to be a human being.
-0x927A62BE=~z~你要是想做人类了就打给我。
+0x927A62BE=~z~你要是想做个人了就打给我。
 
 ;0x9345325F=100
 0x9345325F=100
@@ -375,7 +375,7 @@
 0xA19ED210=~z~嘿，欧洲，我是美国－也是爱尔兰。
 
 ;0xA1B9FF29=~z~I'm happy to give our friendship another go, because I like you, even though you are a dick. Pick me up in an hour.
-0xA1B9FF29=~z~我很乐意再给我们的友谊一次机会，因为我喜欢你，就算你是个屌人也一样。一小时内来接我。
+0xA1B9FF29=~z~我很乐意再给我们的友谊一次机会，因为我喜欢你，就算你是个混蛋也一样。一小时内来接我。
 
 ;0xA21588A1=~z~How you doing, Kate?
 0xA21588A1=~z~你怎么样，Kate？
@@ -384,7 +384,7 @@
 0xA2D30623=100
 
 ;0xA2F19FFC=~z~You're a fine one to call me after the way you've been treating me... I know - piss off. Call back when you're less annoying.
-0xA2F19FFC=~z~你倒是好，那样对我以后还给我打电话...我知道－滚蛋。等你没那么令人恼火的时候再打回来。
+0xA2F19FFC=~z~你倒是好，那样对我之后还给我打电话...我知道－滚蛋。等你没那么令人恼火的时候再打回来。
 
 ;0xA5678076=GCK_ACT_CALL_HOSP_CANCEL_MEDLIKE
 0xA5678076=GCK_ACT_CALL_HOSP_CANCEL_MEDLIKE
@@ -411,7 +411,7 @@
 0xB3961360=100100
 
 ;0xB42AC26E=~z~I'm too pissed off to speak to you right now, amigo. Call back when I don't think you're a dick...
-0xB42AC26E=~z~我现在很生气，不想和你说话，老兄。等我不再认为你是个屌人后再打回来...
+0xB42AC26E=~z~我现在很生气，不想和你说话，老兄。等我不再认为你是个混蛋后再打回来...
 
 ;0xB448996F=100
 0xB448996F=100
@@ -429,7 +429,7 @@
 0xC0FACA11=010
 
 ;0xC14DB20D=~z~That's weird, because when I woke up, I said to myself, Kate - hopefully you can be stood up by a prick today.
-0xC14DB20D=~z~很奇怪，因为我醒来的时候，我跟自己说，Kate－今天你有希望被一个屌人放鸽子。
+0xC14DB20D=~z~很奇怪，因为我醒来的时候，我跟自己说，Kate－今天你很有希望被一个混蛋放鸽子。
 
 ;0xC1D96AE8=~z~I'd love to, but I'm in the middle of something.
 0xC1D96AE8=~z~我很想去，不过我现在在忙一件事。
