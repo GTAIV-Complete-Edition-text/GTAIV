@@ -1,6 +1,6 @@
 ﻿[FCJAAUD]
 ;0x00D91975=~z~Yo, can ya take me to East Hook?
-0x00D91975=~z~哟，能把我带去East Hook吗？
+0x00D91975=~z~哟，能送我去East Hook吗？
 
 ;0x0127EBFC=~z~Whappen? You wanna check out now?
 0x0127EBFC=~z~咋回事？你想现在就结账吗？
@@ -165,7 +165,7 @@
 0x367D0A85=~z~BETA3
 
 ;0x36C6BBB3=~z~Niko, you a righteous brother, will you take I back to I apartment?
-0x36C6BBB3=~z~Niko，你真是我的好兄弟，能把我带回我的公寓吗？
+0x36C6BBB3=~z~Niko，你真是我的好兄弟，能把我送回我的公寓吗？
 
 ;0x379CC2B7=FCJ_ACT_DARTS_LEAVE_DRAW
 0x379CC2B7=FCJ_ACT_DARTS_LEAVE_DRAW
@@ -183,7 +183,7 @@
 0x3D15481D=FCJ_ACT_ARRIVem_NOTLATE
 
 ;0x3F9CF1C3=~z~Me had a good time, even though the acts was mad.
-0x3F9CF1C3=~z~我觉得很开心，虽然这节目太狂野了。
+0x3F9CF1C3=~z~我觉得很开心，虽然这节目太疯狂了。
 
 ;0x3FB74AA2=100
 0x3FB74AA2=100
@@ -450,7 +450,7 @@
 0x8902141A=100
 
 ;0x89256753=~z~Well played, rasta!
-0x89256753=~z~玩的真不错，好兄弟！
+0x89256753=~z~玩得真不错，好兄弟！
 
 ;0x8B76C5A4=100
 0x8B76C5A4=100
@@ -531,7 +531,7 @@
 0xAC1A6D0D=FCJ_ACT_ARRIVE_LATE
 
 ;0xAC1F590E=~z~Let's get going, me breda.
-0xAC1F590E=BETA34
+0xAC1F590E=我们走吧，好兄弟。
 
 ;0xAC8E0CBB=100
 0xAC8E0CBB=100
@@ -567,7 +567,7 @@
 0xB26A1E0C=100
 
 ;0xB27B8A10=~z~Yeah man, well done, Niko.
-0xB27B8A10=~z~呀好兄弟，玩的不错，Niko。
+0xB27B8A10=~z~呀好兄弟，玩得不错，Niko。
 
 ;0xB48C685C=100
 0xB48C685C=100
@@ -582,7 +582,7 @@
 0xB7264628=100
 
 ;0xB734B82F=~z~Cluckin' Bell! Nice.
-0xB734B82F=~z~Cluckin' Bell！太棒了。
+0xB734B82F=~z~铛铛钟！太棒了。
 
 ;0xBB37F382=FCJ_ACT_LEAVE_STRIP_OK
 0xBB37F382=FCJ_ACT_LEAVE_STRIP_OK
@@ -600,7 +600,7 @@
 0xBCCAFA65=~z~出发吧，好兄弟。
 
 ;0xBD2C0B49=~z~Yeah. Yo that were fun y'know, man.
-0xBD2C0B49=~z~耶。这儿应该很好玩，好兄弟。
+0xBD2C0B49=~z~耶。哟，太劲了，好兄弟。
 
 ;0xBE7E76C6=~z~Respect!
 0xBE7E76C6=BETA36
@@ -639,7 +639,7 @@
 0xC8F0FD8A=FCJ_ACT_TAKE_MEADOWS_HILLS
 
 ;0xC8FA5BBA=~z~Cluckin' Bell? I love that shit rasta.
-0xC8FA5BBA=~z~Cluckin' Bell？我爱死这里了，兄弟。
+0xC8FA5BBA=~z~铛铛钟？我爱死这里了，兄弟。
 
 ;0xC9108C6B=~z~Okay, me breda - you want a good laugh? Follow me.
 0xC9108C6B=BETA39
@@ -708,7 +708,7 @@
 0xD849E8F7=100
 
 ;0xD8CAD31E=~z~Yo, me have a good time ya know, star.
-0xD8CAD31E=~z~哟，我玩的很开心，好兄弟。
+0xD8CAD31E=~z~哟，我玩得很开心，好兄弟。
 
 ;0xD919CD8F=~z~Yo, bad for the heart but great for the soul.
 0xD919CD8F=~z~哟，对身体不好，但能洗涤我的灵魂。
@@ -807,7 +807,7 @@
 0xFA1215B4=~z~玩得好开心，好兄弟。
 
 ;0xFBCFB5E7=~z~Drop me at me yard, man.
-0xFBCFB5E7=~z~把我带去yard就行了，好兄弟。
+0xFBCFB5E7=~z~送我回家，好兄弟。
 
 ;0xFDC0402F=FCJ_ACT_LEAVE_HIGHEND
 0xFDC0402F=FCJ_ACT_LEAVE_HIGHEND

@@ -6,7 +6,7 @@
 0x09C63070=~z~我知道你会讲这些过去的狗屎遭遇，但我觉得你能克服它，你也知道。
 
 ;0x0B31E1FC=~z~I was kept home from school so I could roll joints for my dad. Soon I had different goals.
-0x0B31E1FC=~z~我被关在家里去不了学校，替我爸卷烟。然后我就有了另外的目标。
+0x0B31E1FC=~z~我被关在家里去不了学校，替我爸卷烟。然后我就有了别的目标。
 
 ;0x0E8308B7=FCPC2_SHAME_CM
 0x0E8308B7=FCPC2_SHAME_CM
@@ -15,7 +15,7 @@
 0x0F6BEA30=FCPC2_SCHOOL_DA
 
 ;0x12A0FC6A=~z~then he killed himself - nobody speaks much about it...
-0x12A0FC6A=~z~然后他自杀了－很少有人会提起这回事...
+0x12A0FC6A=~z~然后就自杀了，很少有人会提起这回事...
 
 ;0x17BB86C3=~z~I used to think maybe Gerry had killed him, but I think he killed himself...
 0x17BB86C3=~z~我也想过会不会是Gerry杀了他，但我想应该是自杀的...
@@ -51,7 +51,7 @@
 0x2AF08CD3=FCPC2_NIKO_AM
 
 ;0x2C23752A=~z~No one but me can see what is in my head when I try to sleep at night. No one has the dreams I do.
-0x2C23752A=~z~除了我以外没人知道我试图睡觉前在想什么，没人能做我那样的梦。
+0x2C23752A=~z~只有我知道我试图入睡时脑海中的画面，没人能做我那样的梦。
 
 ;0x2C3DEF0C=FCPC2_NIKO_AR
 0x2C3DEF0C=FCPC2_NIKO_AR
@@ -72,7 +72,7 @@
 0x2F5A49EF=100010100100010100100010100100010100100100100
 
 ;0x2F893AF9=~z~Me mother? She's fucking dying. Has been since the day she was born as far as I can tell.
-0x2F893AF9=~z~我母亲？他他妈要死了。我看她一生下来就是这样的。
+0x2F893AF9=~z~我母亲？她他妈要死了。我看她一生下来就是这样了。
 
 ;0x2F9333BD=FCPC2_SCHOOL_DK
 0x2F9333BD=FCPC2_SCHOOL_DK
@@ -93,7 +93,7 @@
 0x406FEDA4=FCPC2_SHAME_CG
 
 ;0x44D3D543=~z~Fucking stupid world though, isn't it?
-0x44D3D543=~z~真他妈是个傻逼世界，不是吗？
+0x44D3D543=~z~这个傻逼世道啊，不是吗？
 
 ;0x46389EB9=~z~Is very rare to find one word that can sum up a feeling you have.
 0x46389EB9=~z~很难找到一个词来概括你的这种感觉。
@@ -132,7 +132,7 @@
 0x641B9B7A=FCPC2_SCHOOL_DF
 
 ;0x65AFA745=~z~The shame of her children. I don't think I have to spell that one out to you, do I?
-0x65AFA745=~z~她孩子的耻辱。我想这总没必要我拼出来再说一遍吧？
+0x65AFA745=~z~她孩子的耻辱。我想没必要我逐字逐句再说一遍吧？
 
 ;0x67073ACF=~z~I just wish she'd sort her head out - learn to enjoy herself a little bit more.
 0x67073ACF=~z~我只是希望她能换个脑子，学会自己多享点乐。
@@ -144,7 +144,7 @@
 0x688C2863=~z~操，之前我没跟任何人说过这事。
 
 ;0x68974C1D=~z~Very funny. I mean, I never paid any attention at school.
-0x68974C1D=~z~真有趣。我是说，我在学校一点都不注意。
+0x68974C1D=~z~真好笑。我是说，我上学的时候就没注意过。
 
 ;0x6A78AA54=~z~Beaches, hot chicks, fucking who knows what else. I woulda liked it here. I could have been okay.
 0x6A78AA54=~z~沙滩、美女，还有不知道他妈什么玩意。我会喜欢那儿的，我可以好好过的。
@@ -159,13 +159,13 @@
 0x6D61B03C=FCPC2_NIKO_AI
 
 ;0x6F712A79=~z~When your family are drunks and killers, you don't really get all the moral discipline you might hope for.
-0x6F712A79=~z~当你的家人不是酒鬼就是杀手的时候，你是不会有什么道德准则的。
+0x6F712A79=~z~如果你的家人不是酒鬼就是杀手，你是不会有什么道德准则的。
 
 ;0x7192E640=FCPC2_SCHOOL_DJ
 0x7192E640=FCPC2_SCHOOL_DJ
 
 ;0x73EA7A1C=~z~In my language, in English.
-0x73EA7A1C=~z~无论是我的语言，还是英语。
+0x73EA7A1C=~z~无论是我的母语，还是英语。
 
 ;0x740A8D9A=FCPC2_KATE_BH
 0x740A8D9A=FCPC2_KATE_BH
@@ -174,13 +174,13 @@
 0x77453800=FCPC2_KATE_BE
 
 ;0x77750131=~z~You could be fucking right.
-0x77750131=~z~你说的他妈有点道理。
+0x77750131=~z~你说的有点道理。
 
 ;0x78CF4601=FCPC2_SCHOOL_DH
 0x78CF4601=FCPC2_SCHOOL_DH
 
 ;0x7927C7B2=~z~Of course she was gonna go wrong. They coulda ended up in Australia.
-0x7927C7B2=~z~那她当然会走上歧途。他们完全可以了结在澳洲的。
+0x7927C7B2=~z~那她当然会走上歧途。他们完全可以了结在澳大利亚的。
 
 ;0x79F6B8D3=~z~Looks can be deceiving. She can't enjoy herself. No sense of joy.
 0x79F6B8D3=~z~外表是会骗人的。她不会享受自己。没有幸福感。
@@ -189,7 +189,7 @@
 0x7B18130E=~z~你和Roman一直都那么合得来吗？我是说在老家的时候。
 
 ;0x7B4ECDE8=~z~I think that's what really destroyed the family - the old man was a sick pervert.
-0x7B4ECDE8=~z~我想毁灭家族的症结在这儿－那老家伙是个死变态。
+0x7B4ECDE8=~z~我想毁灭家族的症结在这儿——那老家伙是个死变态。
 
 ;0x7C8D45D5=FCPC2_SCHOOL_DG
 0x7C8D45D5=FCPC2_SCHOOL_DG
@@ -204,7 +204,7 @@
 0x82B1B8B4=FCPC2_NIKO_AO
 
 ;0x8504E154=~z~Damn this is all so embarrassing - why did I tell you that?
-0x8504E154=~z~操蛋，这都太他妈羞耻了－我为什么要跟你说？
+0x8504E154=~z~操蛋，这都太他妈羞耻了，我跟你说这些干嘛？
 
 ;0x85EF047A=~z~Good. I also enjoy our friendship.
 0x85EF047A=~z~好，我也很享受我们的友谊。
@@ -279,7 +279,7 @@
 0xA51C5EAB=FCPC2_NIKO_AQ
 
 ;0xA5DBC6A9=~z~Because I don't know... because all I fucking do is cause trouble and then drink and do drugs.
-0xA5DBC6A9=~z~因为我不知道...因为我他妈做的一切就是惹乱子、喝烂醉、吸毒品。
+0xA5DBC6A9=~z~因为我不知道...因为我他妈只会生事喝酒加吸毒。
 
 ;0xA67729F8=FCPC2_FATHER_EF
 0xA67729F8=FCPC2_FATHER_EF
@@ -288,7 +288,7 @@
 0xAA69896B=FCPC2_NIKO_AS
 
 ;0xACF26C2B=~z~At least you know yourself, man. Fuck, I don't know what I am. An Irishman, an American.
-0xACF26C2B=~z~你至少还了解自己，兄弟。操蛋，我都不知道自己是什么。爱尔兰人，美国人。
+0xACF26C2B=~z~你至少还了解自己，兄弟。操蛋，我都不知道自己是什么。是爱尔兰人？是美国人？
 
 ;0xAD85D3A7=~z~Yes, not bad, you know.
 0xAD85D3A7=~z~挺好，还不错，你也知道。
@@ -330,13 +330,13 @@
 0xBC419F77=FCPC2_KATE_BG
 
 ;0xBD2E5186=~z~I didn't say everything. He molested Gerry and me -
-0xBD2E5186=~z~我还没说完。他中出了Gerry和我－
+0xBD2E5186=~z~但我没全说。他猥亵了Gerry和我，
 
 ;0xBFEFECA3=~z~I don't know. Not much. What's up with you and the family?
 0xBFEFECA3=~z~不知道，没怎么样。你和你的家人怎么样？
 
 ;0xC1EE961F=~z~Some people call this shit Catholic guilt. I reckon it's just confusion.
-0xC1EE961F=~z~有人管这叫基督徒之罪。我管这叫疑惑。
+0xC1EE961F=~z~有人管这叫天主教徒之罪。我管这叫困惑。
 
 ;0xC2ECDADF=FCPC2_FATHER_EC
 0xC2ECDADF=FCPC2_FATHER_EC
@@ -363,7 +363,7 @@
 0xCBCCD1B1=FCPC2_NIKO_AJ
 
 ;0xCCAFABA1=~z~My family's just as confused. Are we gangsters or cops? Drunkards or priests?
-0xCCAFABA1=~z~我的家庭也很令人疑惑。我们是黑道还是警察？酒鬼还是神父？
+0xCCAFABA1=~z~我的家庭也很令人困惑。我们是黑道还是警察？酒鬼还是神父？
 
 ;0xCE539798=~z~I've been rucking and getting fucked up for fifteen years. Is this what I was put on the fucking earth for?
 0xCE539798=~z~我已经打架乱搞了十五年了。我生出来真的是为了这些吗？
@@ -381,7 +381,7 @@
 0xD12E4CEC=FCPC2_FATHER_EO
 
 ;0xD489749C=~z~My father was a long way from a saint... I wanted to be an artist.
-0xD489749C=~z~我父亲根本谈不上是圣人...我本来想当个画家。
+0xD489749C=~z~我父亲根本谈不上是好人...我本想当个画家。
 
 ;0xD4BFF191=FCPC2_SCHOOL_DD
 0xD4BFF191=FCPC2_SCHOOL_DD

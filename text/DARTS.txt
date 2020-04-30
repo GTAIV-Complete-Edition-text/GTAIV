@@ -114,7 +114,7 @@
 0xBECCC4D0=游戏目标就是比对手先把分数刚好减少到0。
 
 ;0xC140FB81=~1~! You're bust.
-0xC140FB81=~1~! 你爆镖了。
+0xC140FB81=~1~！你爆镖了。
 
 ;0xCC241A42=Use ~PAD_SIXAXIS_PITCH~ and ~PAD_SIXAXIS_ROLL~ to control your aim then press ~PAD_A~ to throw the dart.
 0xCC241A42=用~PAD_SIXAXIS_PITCH~和~PAD_SIXAXIS_ROLL~控制准星，按~PAD_A~投掷飞镖。

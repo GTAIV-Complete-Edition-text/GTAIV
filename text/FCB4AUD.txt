@@ -25,10 +25,10 @@
 
 ;0x05C3AFCA=~z~You wanna have good time, babes?
 0x05C3AFCA=~z~You wanna have good time, babes?
-0x05C3AFCA=~z~宝贝们，你们想嗨翻天吗？
+0x05C3AFCA=~z~你们想嗨翻天吗，宝贝儿？
 
 ;0x0676F3E9=~z~Alright ladies... you having fun? I'm glad we hooked up, you glad darling?
-0x0676F3E9=~z~美女们玩的开心吗？我们一起出来玩可真好啊，你们喜欢吗？
+0x0676F3E9=~z~美女们玩得开心吗？能遇到你们我很高兴，你们高兴吗？
 
 ;0x06B45B34=FCB3_GIRL_CONVERSATION_5_TF
 0x06B45B34=FCB3_GIRL_CONVERSATION_5_TF
@@ -91,16 +91,16 @@
 0x170D2DB2=FCB3_GIRL_CONVERSATION_2_QB
 
 ;0x18C39882=~z~But I'm also looking to settle down.
-0x18C39882=~z~但是我也很快就会冷静下来。
+0x18C39882=~z~但是，我也期待着安定下来的一天。
 
 ;0x1CF1A0DE=~z~I'm a playboy, I'm a hunter, I'm a swordsman, I'm a rapier thrust into your panties.
-0x1CF1A0DE=~z~我是个花花公子，我是个猎人，我是个剑客，我是渴求着被你的温暖所包裹的一杆黑硬直枪
+0x1CF1A0DE=~z~我是个花花公子，我是个猎人，是个剑客，我是一支刺入你腿间的长剑。
 
 ;0x1D9DD38C=FCB3_GIRL_CONVERSATION_4_SC
 0x1D9DD38C=FCB3_GIRL_CONVERSATION_4_SC
 
 ;0x1E72AAAA=~z~I need someone who understands executive VIP lifestyles,
-0x1E72AAAA=~z~我需要的是一个真正理解上流奢华生活的人，
+0x1E72AAAA=~z~我需要一个真正理解上流奢华生活的人，
 
 ;0x213A26AE=~z~Great! Sounds really practical.
 0x213A26AE=~z~呵呵！听起来可真是可行。
@@ -193,7 +193,7 @@
 0x35C57246=~z~这就是我想要的归宿，我在网上发现了这个酷毙的点子。你们觉得如何，宝贝？
 
 ;0x36101062=~z~After this, we're going back to my place and I'm getting out the massage oil.
-0x36101062=~z~等待会儿我们回去到我的地盘，我家里有按摩精油。
+0x36101062=~z~飞完以后，我们就回我家，我家里有按摩精油。
 
 ;0x3683FB9C=~z~Babes, you ever think that there's more to life?
 0x3683FB9C=~z~宝贝们，有没有想过人生可以更丰富？
@@ -217,10 +217,10 @@
 0x4078FC66=FCB3_ACT_GENERIC_INCAR_KA
 
 ;0x415369A1=~z~I've got a poetic side, babe. Can you tell?
-0x415369A1=~z~亲爱的，现在我诗兴大发。你知道吗？
+0x415369A1=~z~我其实相当文艺的，宝贝儿。没看出来吧？
 
 ;0x41FE5639=~z~Hold on - we're gonna have some fun... man I love flying in these babies -
-0x41FE5639=~z~等等 —— 我们去找些乐子...我真的爱死坐着直升机飞来飞去了 ——
+0x41FE5639=~z~等等，我们马上就要一起快乐了...我超爱坐直升机飞翔了，
 
 ;0x42162458=FCB3_GIRL_CONVERSATION_6_UE
 0x42162458=FCB3_GIRL_CONVERSATION_6_UE
@@ -238,7 +238,7 @@
 0x44FDA6F7=FCB3_GIRL_CONVERSATION_4_SG
 
 ;0x45F0B14A=~z~and a big bank balance. I'm the complete package.
-0x45F0B14A=~z~银行里还有一大笔钱。这么说吧，该有的我都有了。
+0x45F0B14A=~z~钱也有的是。我就是完美情人。
 
 ;0x47565B09=FCB3_HELI_CONVERSATION_3_OA
 0x47565B09=FCB3_HELI_CONVERSATION_3_OA
@@ -247,13 +247,13 @@
 0x4850EF1B=FCB3_GIRL_CONVERSATION_5_TN
 
 ;0x4CCD3DDC=~z~Brucie's gonna put on some good shit for you babes.
-0x4CCD3DDC=~z~Brucie会给你们准备一些真正牛逼的好玩意儿的。
+0x4CCD3DDC=~z~Brucie会给你们上一些真正的牛逼玩意儿的。
 
 ;0x4F9793C4=FCB3_HELI_CONVERSATION_2_NB
 0x4F9793C4=FCB3_HELI_CONVERSATION_2_NB
 
 ;0x4F9C0BF5=~z~let me know what floats your yacht, sinks your swimmer, are you a crunches or lipo girl?
-0x4F9C0BF5=~z~告诉我你是哪一派，八块腹肌和大腹便便谁更能点燃你的欲火？
+0x4F9C0BF5=~z~告诉我什么让你们迷恋，让你们沉醉，你是锻炼型的还是有肉感的？
 
 ;0x50ED4C95=FCB3_HELI_CONVERSATION_1_AC
 0x50ED4C95=FCB3_HELI_CONVERSATION_1_AC
@@ -265,7 +265,7 @@
 0x53674C37=~z~他就是一头猛虎，尽管他看起来像...呃...像一个...
 
 ;0x539ECB7F=~z~What we're gonna do is private bro.
-0x539ECB7F=~z~我才不会告诉你我们待会儿要干嘛呢。
+0x539ECB7F=~z~我才不会告诉你我们待会儿干嘛呢。
 
 ;0x549D1716=FCB3_GIRL_CONVERSATION_6_UA
 0x549D1716=FCB3_GIRL_CONVERSATION_6_UA
@@ -307,7 +307,7 @@
 0x61F0E94A=~z~Niko就是一块未经雕琢的璞玉，但也是那种最顶级的璞玉。
 
 ;0x64A91B92=~z~Man - I fucking love these things.
-0x64A91B92=~z~老兄 —— 我真的爱死这个了。
+0x64A91B92=~z~天，我超爱直升机的。
 
 ;0x6504ADFE=FCB3_GIRL_CONVERSATION_5_TI
 0x6504ADFE=FCB3_GIRL_CONVERSATION_5_TI
@@ -364,16 +364,16 @@
 0x752CB365=FCB3_ACT_GENERIC_INCAR_LM
 
 ;0x754C5755=~z~Tell me about yourselves - let me know your darkest secrets -
-0x754C5755=~z~和我说说你们的故事吧 —— 告诉我你们心底埋藏最深的秘密 ——
+0x754C5755=~z~和我说说你们的故事吧，告诉我你们心中最深处的秘密 ——
 
 ;0x78489B11=FCB3_HELI_CONVERSATION_2_NC
 0x78489B11=FCB3_HELI_CONVERSATION_2_NC
 
 ;0x784DD795=~z~Uh huh.
-0x784DD795=~z~呃，呃。
+0x784DD795=~z~嗯哼。
 
 ;0x7AF763B6=~z~And it couldn't be more true.
-0x7AF763B6=~z~完全同意。
+0x7AF763B6=~z~千真万确啊。
 
 ;0x7C0CB26A=100210100100310100100100210100100100100010100
 0x7C0CB26A=100210100100310100100100210100100100100010100
@@ -409,7 +409,7 @@
 0x89C8FB12=FCB3_GIRL_CONVERSATION_4_SN
 
 ;0x8A1EFB37=~z~I'm looking for a little gaggle of baby Brucies. You know what I mean?
-0x8A1EFB37=~z~我仿佛看到了未来有一群小Brucie环绕在膝下。你懂我的意思吗？
+0x8A1EFB37=~z~我期待自己能够子孙满堂。懂我意思吗？
 
 ;0x8A7CF029=~z~No, they're fucking hot man. They're smoking. We met up in a club and it was intense. Wasn't it babe?
 0x8A7CF029=~z~不，她俩是真的火辣，辣到冒烟。我们在一家夜店认识的，干柴烈火。对不对，宝贝？
@@ -433,13 +433,13 @@
 0x959CF325=FCB3_ACT_GENERIC_INCAR_LD
 
 ;0x9692FF65=~z~everytime I go in one of these I know I'm wheat, not chaff.
-0x9692FF65=~z~每当我坐在它里面的时候我就知道我绝不是弱鸡而是个真正的硬汉。
+0x9692FF65=~z~一坐进直升机我就知道自己是人才，不是废柴。
 
 ;0x9696BBC7=~z~Yeah.
 0x9696BBC7=~z~嗯。
 
 ;0x97D91C72=~z~Tigers, tigers, you know what I mean?
-0x97D91C72=~z~老虎，老虎，明白吗？
+0x97D91C72=~z~猛虎，猛虎，懂我意思吗？
 
 ;0x97DC4B67=FCB3_GIRL_CONVERSATION_6_UH
 0x97DC4B67=FCB3_GIRL_CONVERSATION_6_UH
@@ -469,7 +469,7 @@
 0x9BEE1C1C=~z~好吧，你注意到这些就行了。以及，我不同意，最重要的事情应该是对时间的把控和管理。
 
 ;0x9C9F5EAE=~z~Let me put it another way, I've got great abs, but I've also got a big cock
-0x9C9F5EAE=~z~这么说吧，我四肢发达，第五肢也相当不简单
+0x9C9F5EAE=~z~这么说吧，我腹肌发达，屌也超大，
 
 ;0x9D2BAE79=100010100100100100100010100100100010100100100
 0x9D2BAE79=100010100100100100100010100100100010100100100
@@ -499,7 +499,7 @@
 0xA291F934=FCB3_ACT_GENERIC_INCAR_LL
 
 ;0xA2EB9A5C=~z~I'll be flexing the kind of body you tell your grandkids about.
-0xA2EB9A5C=~z~我爆炸的肌肉一直到你们给自己的孙子讲故事都时候都记忆犹新。
+0xA2EB9A5C=~z~我的肌肉能让你们在给自己孙子讲故事的时候都记忆犹新。
 
 ;0xA46FA132=FCB3_ACT_GENERIC_INCAR_LB
 0xA46FA132=FCB3_ACT_GENERIC_INCAR_LB
@@ -544,10 +544,10 @@
 0xB307BCEA=~z~不明白。
 
 ;0xB3CA555B=~z~Where are you going to find a man like that?
-0xB3CA555B=~z~可是你要到哪里去找这么一个人呢？
+0xB3CA555B=~z~这种人你上哪儿找啊？
 
 ;0xB5273ED3=~z~You're going to oil up my arms and chest, then I'm gonna let you fine ladies watch me do some reps.
-0xB5273ED3=~z~你们负责在我的手臂和胸口抹上油，然后我给你们来表演几组卧推。
+0xB5273ED3=~z~你们负责在我的手臂和胸口上抹油，然后我给你们二位表演几组卧推。
 
 ;0xB55234CF=FCB3_ACT_GENERIC_INCAR_LE
 0xB55234CF=FCB3_ACT_GENERIC_INCAR_LE
@@ -583,7 +583,7 @@
 0xBF554526=FCB3_GIRL_CONVERSATION_2_QI
 
 ;0xC188F0D8=~z~a go getter, a risk taker, a hunter, but soft and gentle.
-0xC188F0D8=~z~一个干劲十足的人，一个冒险者，一个狩猎者，但是温柔又柔软。
+0xC188F0D8=~z~一个上进的人，一个冒险者，一个狩猎者，但又温文尔雅。
 
 ;0xC216836C=FCB3_GIRL_CONVERSATION_4_SM
 0xC216836C=FCB3_GIRL_CONVERSATION_4_SM
@@ -598,7 +598,7 @@
 0xC402FCB9=~z~想跟谁睡跟谁睡。
 
 ;0xC6FBFAB7=~z~Great... I'm glad we hooked up - you girls are gonna have the night of your lives - me and NB - we're tigers, babe,
-0xC6FBFAB7=~z~太棒了...我真高兴能把你们约出来 —— 你们将度过人生中最美妙的一夜 —— 我和NB —— 我们就像老虎一样，宝贝儿，
+0xC6FBFAB7=~z~太棒了...真高兴能约到你们，你们将度过人生中最美妙的一夜，我和NB，就是猛虎下山，宝贝儿，
 
 ;0xC76BB12D=FCB3_GIRL_CONVERSATION_6_UC
 0xC76BB12D=FCB3_GIRL_CONVERSATION_6_UC
@@ -610,7 +610,7 @@
 0xC86EEC0C=~z~Brucie吸引你们的并不是因为他轻抛浪掷挥金如土，是吧二位？
 
 ;0xC8B2E5EA=~z~And if that don't get you hot then call the morgue because you bitches have got to be dead. You looking forward to that?
-0xC8B2E5EA=~z~如果连这个都没法让你们兴奋起来，你们这些死人就该打电话给殡仪馆了。你们对我的身体期待吗，嗯？
+0xC8B2E5EA=~z~要是这都没法让你们兴奋，你们这些死人就该打电话给殡仪馆了。期待我的肉体吗？
 
 ;0xCA55F8EB=~z~Not how many push ups I can do? Nor how long I can go without masturbating?
 0xCA55F8EB=~z~而不是一口气能做多少个俯卧撑，也不是能坚持多久不打手枪。
@@ -638,7 +638,7 @@
 0xD3027C91=FCB3_GIRL_CONVERSATION_1_PL
 
 ;0xD31C0D34=~z~Cool. You know, when you smile, I see a lot of good things. I see farmhouses and kids and a future.
-0xD31C0D34=~z~酷。你知道吗，当你微笑的时候，我从你的眼睛里看到了许多美好的事物。我看到了一个有农舍有小孩的未来
+0xD31C0D34=~z~好。你知道吗，你一微笑，我就能看见许多美好的画面。我看见了农舍、孩子和未来。
 
 ;0xD51125A0=~z~These abs are perfect. You can't get this shit without juicing bro.
 0xD51125A0=~z~这一块块腹肌的线条堪称完美。不吃点类固醇你就永远得不到。
@@ -647,7 +647,7 @@
 0xD6FD4784=FCB3_GIRL_CONVERSATION_4_SB
 
 ;0xD7271C10=~z~Genetically different, man. That's my motto.
-0xD7271C10=~z~人和人是不一样的，老兄。我信奉这一点。
+0xD7271C10=~z~人人生而不同，老兄。这是我的信条。
 
 ;0xD78611B7=~z~Serious wood man, alright, let me tell you.
 0xD78611B7=~z~超硬的，兄弟。好了，听我说句话。
@@ -662,7 +662,7 @@
 0xDA8441AA=FCB3_ACT_GENERIC_INCAR_KF
 
 ;0xDC4FA55E=~z~Alright let's party, then... let's have a good time... you ready to party, babes?
-0xDC4FA55E=~z~好的派对要开始了，之后...让我们纵情声色...宝贝儿们，你们准备好了吗？
+0xDC4FA55E=~z~好的，开始狂欢吧...让我们纵情声色...准备好了吗，宝贝儿们？
 
 ;0xDDB348FF=FCB3_GIRL_CONVERSATION_3_RB
 0xDDB348FF=FCB3_GIRL_CONVERSATION_3_RB
@@ -698,10 +698,10 @@
 0xE31D9AC3=~z~别做梦了。
 
 ;0xE3B7AE6B=~z~Yeah.
-0xE3B7AE6B=~z~喜欢。
+0xE3B7AE6B=~z~高兴。
 
 ;0xE596B8EF=~z~Very funny NB. If I could clone myself, I would.
-0xE596B8EF=~z~问的好。如果我可以克隆一个自己出来，那就找得到。
+0xE596B8EF=~z~问得好，NB。要是能克隆一个我，我会克隆的。
 
 ;0xE5D33865=~z~Man, when I got juice in my veins it's like nothing can touch me. I'm fucking invincible bro.
 0xE5D33865=~z~听我说老兄，当类固醇在我血管中游走的时候，就好像没有任何东西能伤到我。我他妈就是无敌的。
@@ -725,7 +725,7 @@
 0xEC0DBC56=~z~嗯哼？大赢家当然会把自己的时间安排的井井有条。
 
 ;0xEC3B463C=~z~But I haven't met the right person...
-0xEC3B463C=~z~可是我还没有遇到那个对的人...
+0xEC3B463C=~z~但我还没找到合适的人...
 
 ;0xEC69FD17=~z~So what you guys got planned later on?
 0xEC69FD17=~z~所以你们待会儿打算干嘛？

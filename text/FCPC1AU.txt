@@ -60,7 +60,7 @@
 0x13F76E78=~z~Niko仔，最近如何啊？你在做啥呢？
 
 ;0x1561AC12=~z~As the youngest I was always getting me ass kicked. By Derrick, by Gerald...
-0x1561AC12=~z~作为最小的弟弟，我经常北大。被Derrick打，被Gerald打...
+0x1561AC12=~z~作为最小的弟弟，我经常被打。被Derrick打，被Gerald打...
 
 ;0x178BDC41=FCPC1_GRASS_FL
 0x178BDC41=FCPC1_GRASS_FL
@@ -78,7 +78,7 @@
 0x197C503F=~z~也许我们都是伪君子。都是蠢蛋。Francis－你也了解他－他曾想成为神父。
 
 ;0x19D8B524=~z~The fighting bit mainly - drunken fights, sober fights, fights on the subway, fights with the family.
-0x19D8B524=~z~不过打斗部分多一点－醉了打斗、醒着打斗、在地铁上打斗，和家人打斗。
+0x19D8B524=~z~我的话以打斗为主，醉了打斗、醒着打斗、在地铁上打斗，和家人打斗。
 
 ;0x19E57EEC=100010100100100010100100100100100100100010
 0x19E57EEC=100010100100100010100100100100100100100010
@@ -126,7 +126,7 @@
 0x279E50AF=~z~你们家里人小时候经常打架吗？
 
 ;0x28231868=~z~What's up, Niko?
-0x28231868=~z~怎么了，Niko？
+0x28231868=~z~怎么样，Niko？
 
 ;0x28629967=~z~Thanks, I think. I always liked Gerry.
 0x28629967=~z~谢了，我想。我一直都喜欢Gerry。
@@ -198,7 +198,7 @@
 0x3D3F3415=~z~空气里就有一种氛围，这个氛围告诉我－这一次不同于往常的打架。他们没有收手。
 
 ;0x3DA8397A=~z~He was involved in that business and he grassed on some people to avoid doing some serious time.
-0x3DA8397A=~z~他和黑社会有关，然后他为了面掉牢狱之灾告发了某人。
+0x3DA8397A=~z~他和黑社会有关，然后他为了免掉牢狱之灾告发了某人。
 
 ;0x3FACEA56=FCPC1_IRELAND_EF
 0x3FACEA56=FCPC1_IRELAND_EF
@@ -237,7 +237,7 @@
 0x4ADE34BE=FCPC1_FRANCIS_PRIEST_DC
 
 ;0x4B385E92=~z~You sounded just like Gerry when you said that, all cagey and thoughtful, like I might be wearing a wire.
-0x4B385E92=~z~你这么说话就很像Gerry，深沉晦涩，搞得跟我在偷听一样。
+0x4B385E92=~z~你这么说话就很像Gerry，深沉晦涩，搞得跟我在窃听一样。
 
 ;0x4B93346C=~z~Yes.
 0x4B93346C=~z~对。
@@ -246,7 +246,7 @@
 0x4BA36DBE=~z~只有Derrick是个例外。他之前离开我们回老家了。
 
 ;0x4C0B1988=~z~Shit, that sounds like a fucking extract from my diary. It would if I kept a diary at least.
-0x4C0B1988=~z~我靠，你这简直他妈是从我日记里抄下来的，如果我有在写日记的话。
+0x4C0B1988=~z~我靠，你他妈从我日记里抄的吧，如果我有写日记的话。
 
 ;0x4C423076=FCPC1_GERRY_BLOOD_HJ
 0x4C423076=FCPC1_GERRY_BLOOD_HJ
@@ -297,7 +297,7 @@
 0x55C12084=~z~这我倒不知道。
 
 ;0x5656F54F=~z~I don't think you're wearing a wire. My English can be a bit bad.
-0x5656F54F=~z~我没觉得你在偷听。可能是我英语不太好。
+0x5656F54F=~z~我不觉得你在窃听。可能是我英语不太好。
 
 ;0x56B5CAB1=~z~I knew you could understand that grief.
 0x56B5CAB1=~z~我知道你能理解那种痛苦。
@@ -516,7 +516,7 @@
 0x9CFE82AD=~z~我还记得几年前的一个晚上，在我爸死了一段时间后，他浑身是血的回到家。
 
 ;0x9D67F8A0=~z~I'm not sure - but it didn't do him much good, either way. I think it was because of Derrick.
-0x9D67F8A0=~z~我不清楚，但对他肯定也没什么好处，都一样。我想是因为Derrick。
+0x9D67F8A0=~z~我不清楚，但实际上也没给他什么好处。我想是因为Derrick。
 
 ;0x9D6B40C2=~z~I think that was when she realized just what we were like - she was young then. She was never quite the same after that.
 0x9D6B40C2=~z~我想她就是在那时候意识到我们的生活的－当时她还小。在那以后她就性情大变了。
@@ -537,7 +537,7 @@
 0xA12B2B3E=~z~当然，我想也是。所以世上才只有喝醉的和痛苦的两种人吧？
 
 ;0xA1C6816D=~z~Sure... sure. Chaos we all know about. Gerry was the only one who ever tried to live beyond the chaos.
-0xA1C6816D=~z~当然...当然了。我们都知道这种混乱。Gerry是唯一一个尝试活在混乱以外的。
+0xA1C6816D=~z~当然...当然了。我们都知道这种混乱。Gerry是唯一一个尝试活在混乱之外的。
 
 ;0xA1D2F39B=FCPC1_FAM_BG
 0xA1D2F39B=FCPC1_FAM_BG

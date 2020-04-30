@@ -9,7 +9,7 @@
 0x03DF9C70=~z~台球是吧，一小时内来接我。
 
 ;0x05A89463=~z~Alright, alright. If I do enough chop a show might just be bearable. Come get me in the next hour.
-0x05A89463=~z~好吧，好吧。要是我大麻烟抽的够多，可能还是能忍一场表演的。一小时内来接我。
+0x05A89463=~z~好吧，好吧。要是我大麻烟抽得够多，可能还是能忍一场表演的。一小时内来接我。
 
 ;0x05C9D97B=~z~Shit, man. I forgot about your healthy lifestyle. I'll try you later.
 0x05C9D97B=~z~靠，兄弟，我忘了你的养生作息了。之后再打过来。
@@ -114,13 +114,13 @@
 0x2D292BE6=~z~那走吧，我觉得是药的问题，但我有几天没硬了。一小时内来接我。
 
 ;0x2E9F0D6D=~z~Darts? Could be fun if I imagine me old man's head as the bullseye. Pick me up in the next hour.
-0x2E9F0D6D=~z~飞镖？要是我想象我老爹的头就是靶心的话会很有趣的。一小时内来接我。
+0x2E9F0D6D=~z~飞镖？把靶心当作我爸的头的话倒是会很有趣。一小时内来接我。
 
 ;0x2FA53F93=100
 0x2FA53F93=100
 
 ;0x320B78C7=~z~I'll shoot some pool with you, Niko. Pick me up in the next hour.
-0x320B78C7=~z~那我就和你打几球吧，Niko。一小时内来接我。
+0x320B78C7=~z~那就和你打几球吧，Niko。一小时内来接我。
 
 ;0x3211364D=FCP_ACT_PPK_CALL_POOL
 0x3211364D=FCP_ACT_PPK_CALL_POOL
@@ -255,7 +255,7 @@
 0x627C2520=~z~你想去看点什么吗？
 
 ;0x63004F11=~z~I'll wait at the house for an hour. Let's go see a fucking show.
-0x63004F11=~z~我会在家里等你一小时，去看一场傻逼表演吧。
+0x63004F11=~z~我会在家里等你一小时，待会儿就去看猴戏。
 
 ;0x661BB53D=FCP_ACT_CALL_SHOW_NO_RECENT
 0x661BB53D=FCP_ACT_CALL_SHOW_NO_RECENT
@@ -564,7 +564,7 @@
 0xF5D816A4=~z~要不要去浇个愁？
 
 ;0xF913EEEE=~z~How about some darts?
-0xF913EEEE=~z~要么去玩把飞镖？
+0xF913EEEE=~z~要不要去玩把飞镖？
 
 ;0xFB24C7B6=~z~Drinking, Niko? I'm in. Come get me in the next hour.
 0xFB24C7B6=~z~喝酒啊，Niko？我来。一小时内来接我。

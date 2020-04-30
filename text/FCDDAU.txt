@@ -1,6 +1,6 @@
 ﻿[FCDDAU]
 ;0x0026B908=~z~cause you ain't a fucking woman, and you know?
-0x0026B908=~z~因为你他妈的不是一个娘们，你懂吗？
+0x0026B908=~z~因为你丫又不是个娘们，知道吗？
 
 ;0x03AF15A4=~z~I'm a maniac, man... just like you.
 0x03AF15A4=~z~我是个疯子，兄弟...就像你一样。
@@ -15,13 +15,13 @@
 0x09ACD90B=FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EF
 
 ;0x09F182F6=~z~don't be like that. Don't be a dick. God, why are people always assholes?
-0x09F182F6=~z~别那样做。别当杂种。上帝啊，为什么人们都是混蛋？
+0x09F182F6=~z~你别那样。别变成混蛋。上帝啊，为什么人们都是混蛋？
 
 ;0x0D14A5C8=~z~Sure.
 0x0D14A5C8=~z~当然。
 
 ;0x0E0A403C=~z~Man, I am too drunk to think.
-0x0E0A403C=~z~兄弟，我喝的太多，不能思考了。
+0x0E0A403C=~z~兄弟，我喝得太多，不能思考了。
 
 ;0x0E0AF1D4=~z~because I was jealous, because I couldn't handle his success.
 0x0E0AF1D4=~z~因为我嫉妒他，因为我嫉妒他的成功。
@@ -60,7 +60,7 @@
 0x279BE005=FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CD
 
 ;0x27E9BEE6=~z~Don't be like that,
-0x27E9BEE6=~z~别那样做，
+0x27E9BEE6=~z~你别那样，
 
 ;0x29370F9F=FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AF
 0x29370F9F=FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AF
@@ -81,7 +81,7 @@
 0x2A475195=100010100010100010100100100010
 
 ;0x2BC6904B=~z~So you keep drinking, and suddenly you feel like shit.
-0x2BC6904B=~z~所以你继续喝酒，突然你感觉像吃了屎一样。
+0x2BC6904B=~z~于是你一直喝酒，突然像吃了屎一样。
 
 ;0x2C9B92E0=FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EA
 0x2C9B92E0=FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EA
@@ -99,7 +99,7 @@
 0x365F3D3D=FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FK
 
 ;0x3DEB3494=~z~seems people don't want you to disappear, you get that warm, happy glow, you know?
-0x3DEB3494=~z~像是人们不想让你消失，你感到温暖，快乐，满足，懂吗？
+0x3DEB3494=~z~像是没人想你消失，你感到温暖，快乐，满足，懂吗？
 
 ;0x3EC306D4=FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FA
 0x3EC306D4=FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FA
@@ -147,7 +147,7 @@
 0x61B45132=FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FH
 
 ;0x64E40285=~z~It seems, it seems people don't hate you,
-0x64E40285=~z~这像是，这像是人们并不讨厌你，
+0x64E40285=~z~感觉像，感觉像没人讨厌你，
 
 ;0x6C271202=~z~Kill me, Niko.
 0x6C271202=~z~杀了我，Niko。
@@ -183,13 +183,13 @@
 0x8218D11C=FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AJ
 
 ;0x8A68A315=~z~I'm pretty drunk man.
-0x8A68A315=~z~我喝的烂醉，兄弟。
+0x8A68A315=~z~我喝得烂醉，兄弟。
 
 ;0x8A83CEBB=~z~I'm a fucking murderer - I killed my best friend!
 0x8A83CEBB=~z~我他妈是个杀人犯－我杀了我最好的朋友！
 
 ;0x8A99F47C=~z~Dwayne, please shut up, you're drunk.
-0x8A99F47C=~z~【Dwayne】，闭嘴吧，你喝醉了。
+0x8A99F47C=~z~Dwayne，闭嘴吧，你醉了。
 
 ;0x8AB1C55C=FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DE
 0x8AB1C55C=FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DE
@@ -198,7 +198,7 @@
 0x8BCC2335=~z~噢，我感觉我要生病了。
 
 ;0x927FDDBC=~z~You know what, man, I can't fucking stand it,
-0x927FDDBC=~z~你知道吗，兄弟，我他妈的忍不了了，
+0x927FDDBC=~z~你知道吗，兄弟，我他妈受不了了，
 
 ;0x9305DE7F=FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EB
 0x9305DE7F=FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EB
@@ -225,10 +225,10 @@
 0xA22A13D4=FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DB
 
 ;0xA2917DDF=~z~Feeling okay son, o-fucking-kay, you know?
-0xA2917DDF=~z~感觉OK，OJBK，懂吗？
+0xA2917DDF=~z~感觉OK哪，OJBK，懂吗？
 
 ;0xA464B7DA=~z~You know what Niko? I love you man.
-0xA464B7DA=~z~你知道吗？【Niko】，我爱你。
+0xA464B7DA=~z~你知道吗，Niko？我爱你。
 
 ;0xA47C87E8=FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EG
 0xA47C87E8=FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EG
@@ -240,7 +240,7 @@
 0xA65BD673=~z~兄弟，真他妈糟。
 
 ;0xA6FE3D29=~z~Fuck man... I am drunk!
-0xA6FE3D29=~z~操..我喝醉了！
+0xA6FE3D29=~z~操...我醉了！
 
 ;0xAA02125C=FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BK
 0xAA02125C=FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BK
@@ -255,10 +255,10 @@
 0xB12DB81B=~z~你喝多了，闭嘴吧。
 
 ;0xB236537D=~z~Cool. I've been more sober myself.
-0xB236537D=~z~好。我更清醒了。
+0xB236537D=~z~好。我倒是更清醒了。
 
 ;0xBA7B991C=~z~Fuck. I think I'm seeing triple.
-0xBA7B991C=~z~操，我感觉我看东西都有重影。
+0xBA7B991C=~z~操，我好像看东西重影了。
 
 ;0xBC569CCE=~z~Cool.
 0xBC569CCE=~z~很好。
@@ -273,7 +273,7 @@
 0xC8254C86=FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DC
 
 ;0xCC363C91=~z~Too drunk to talk, too drunk to think, too drunk to speak.
-0xCC363C91=~z~不能讨论，不能思考，不能说话。
+0xCC363C91=~z~话说不顺，事搞不清，嘴张不开。
 
 ;0xCC8273CC=FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BE
 0xCC8273CC=FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BE
@@ -288,7 +288,7 @@
 0xCEDD7D62=FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BA
 
 ;0xCF138D3B=~z~I mean you dress like an idiot
-0xCF138D3B=~z~我的意思是你打扮得像个傻逼
+0xCF138D3B=~z~我是说你穿得傻逼，
 
 ;0xD0CD5B4D=~z~do whatever but shut up.
 0xD0CD5B4D=~z~只要闭嘴你干啥都行。
@@ -309,7 +309,7 @@
 0xD5416A01=FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AH
 
 ;0xD6BB519B=~z~Cool. Please be quiet a minute, I'm trying to concentrate.
-0xD6BB519B=~z~好。消停会，我在集中注意力。
+0xD6BB519B=~z~好。那你稍微消停会儿，让我回回神。
 
 ;0xD7469E4B=FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AA
 0xD7469E4B=FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AA
@@ -318,7 +318,7 @@
 0xD99AEF60=FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AC
 
 ;0xDAA2EE01=~z~I mean you go out, you start drinking and then the world seems okay, you know?
-0xDAA2EE01=~z~我指的是你走出去，开始喝酒然后世界变得很好，懂吗？
+0xDAA2EE01=~z~我是说，一出门，一喝酒，然后感觉一切太平，懂吗？
 
 ;0xDC62FB44=FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EH
 0xDC62FB44=FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EH
@@ -339,10 +339,10 @@
 0xE39C9CEC=~z~对我无效。
 
 ;0xE4E58286=~z~And you want to cry, only you can't cry,
-0xE4E58286=~z~然后你想哭，但你不能哭，
+0xE4E58286=~z~然后你就想哭，但你不能哭，
 
 ;0xE700F226=~z~Either that or I got a lot of fingers I never knew about...
-0xE700F226=~z~或者我有很多我不知道的手指
+0xE700F226=~z~不是重影，就是我自己都不知道我有这么多手指头了...
 
 ;0xE7245C8B=~z~That's why we friends. We both mad.
 0xE7245C8B=~z~这就是为什么我们能成为朋友。我们都疯了。
@@ -372,13 +372,13 @@
 0xF89A7CD0=FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FF
 
 ;0xF8A17AFD=~z~I don't know what I'm trying to say. Shit. Well, that's all I got to say.
-0xF8A17AFD=~z~我不知道我在说什么。妈的，好吧，这就是想说的。
+0xF8A17AFD=~z~我不知道我在说什么。妈的，好吧，我就说到这儿吧。
 
 ;0xF8DE7423=FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CE
 0xF8DE7423=FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CE
 
 ;0xF94DE1AF=~z~and you look angry and you're not much fun, and stuff, but I like you.
-0xF94DE1AF=~z~你看上去很愤怒，你不是那么有趣，但我喜欢你。
+0xF94DE1AF=~z~看着很愤怒，也不是很有趣，但我喜欢你。
 
 ;0xF9C4F9C9=FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FG
 0xF9C4F9C9=FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FG

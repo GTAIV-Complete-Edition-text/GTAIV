@@ -132,7 +132,7 @@
 0x2667E21B=~z~反正也没什么事，何不呢，兄弟？
 
 ;0x28307E57=~z~All you wanna do is drink, man - maybe later.
-0x28307E57=~z~All you wanna do is drink, man - maybe later.
+0x28307E57=~z~你就知道喝酒，兄弟，改天再说吧。
 
 ;0x2962BF46=~z~Me can't go look pon some umoden right now y'know, ram goat. Maybe later.
 0x2962BF46=~z~我现在没法去看什么脱衣舞，你也懂，没空。下次吧。
@@ -204,16 +204,16 @@
 0x447A4C53=~z~不了，兄弟。我有点忙，兄弟。之后再打过来吧。
 
 ;0x44CD6547=~z~Sure, me hungry, man. Just pick me up.
-0x44CD6547=~z~Sure, me hungry, man. Just pick me up.
+0x44CD6547=~z~好啊，我刚好饿了，兄弟。来接我吧。
 
 ;0x4524F4A9=FCJ_ACT_PLJ_CALL_LOLIKE
 0x4524F4A9=FCJ_ACT_PLJ_CALL_LOLIKE
 
 ;0x459BBECA=~z~Niko. Maybe later.
-0x459BBECA=~z~Niko. Maybe later.
+0x459BBECA=~z~Niko，改天再说吧。
 
 ;0x45C487CC=~z~You want to get a meal or something?
-0x45C487CC=~z~你想出来吃顿饭啥的吗？
+0x45C487CC=~z~你想出来吃顿饭吗？
 
 ;0x48A52600=~z~You wanna play some pool, man?
 0x48A52600=~z~你想来打局台球吗，兄弟？
@@ -231,7 +231,7 @@
 0x4C82D7E0=100
 
 ;0x4F342E87=~z~Good - I'll come get you.
-0x4F342E87=~z~好－我这就来接你。
+0x4F342E87=~z~好，我这就来接你。
 
 ;0x4F940371=100
 0x4F940371=100
@@ -546,7 +546,7 @@
 0xC5CB6E8C=SFX_MACHINE_BEEP
 
 ;0xC8DB40D5=~z~Nah, man. Me have nuff food inna me belly, man, to last a week - maybe later.
-0xC8DB40D5=~z~算了，兄弟我已经吃的够多了，兄弟，能顶一周吧。下次吧。
+0xC8DB40D5=~z~算了，兄弟我已经吃得够多了，兄弟，能顶一周吧。下次吧。
 
 ;0xC8E91D69=~z~Sorry, Jacob - I didn't realize what the time was.
 0xC8E91D69=~z~抱歉，Jacob－我没仔细看时间。
@@ -567,7 +567,7 @@
 0xCE3AFFFE=~z~整天只想着表演表演表演，是吧？改天吧。
 
 ;0xCE67ACEC=~z~Cool, Jacob - I'll be there in a bit.
-0xCE67ACEC=~z~酷，Jacob－我马上就来。
+0xCE67ACEC=~z~好，Jacob，我马上就来。
 
 ;0xCFC1B342=~z~Thanks! Me like hung around for nothing y'know?
 0xCFC1B342=~z~Thanks! Me like hung around for nothing y'know?
@@ -633,7 +633,7 @@
 0xE5BE7A9B=~z~不了，兄弟。我饱了，兄弟－但是...过段时间吧。
 
 ;0xE6BF8113=~z~Maybe later. Did we nuh just eat, man?
-0xE6BF8113=~z~要么下次吧，我们不是刚出去吃过吗，兄弟？
+0xE6BF8113=~z~以后再说吧，我们不是刚出去吃过吗，兄弟？
 
 ;0xE72F169A=~z~I'm afraid I won't be making the pool - sorry man.
 0xE72F169A=~z~恐怕我没法来打台球了，抱歉，兄弟。

@@ -12,7 +12,7 @@
 0x0262E81B=100
 
 ;0x02B01BC1=~z~That was quick, Niko. You would almost think you didn't want to sit down and converse with your cousin.
-0x02B01BC1=~z~太快了，Niko。感觉你都不想坐下来和你堂兄聊聊了。
+0x02B01BC1=~z~太快了，Niko。感觉都来不及和自己的兄弟坐下来聊上几句。
 
 ;0x02EC753E=~z~That is one funny man, Niko. Good choice.
 0x02EC753E=~z~That is one funny man, Niko. Good choice.
@@ -99,7 +99,7 @@
 0x15960BAF=~z~好的堂兄，我们上球道吧。
 
 ;0x16B7412A=~z~Nothing hits the spot like a Burger Shot, cousin. My fifth chin is all thanks to these guys.
-0x16B7412A=~z~没有什么能像Burger Shot一样对我胃口了，堂弟。我的第五层下巴也得感谢他们。
+0x16B7412A=~z~吃得饱汉堡我喜欢吃，堂弟。我的第五层下巴也得感谢他们。
 
 ;0x18BA68E0=~z~Niko, I don't like to stop things half way though. Ask any lady, I always satisfy.
 0x18BA68E0=~z~Niko，我不喜欢半途而废。找个女人问问，我总是能满足她们。
@@ -234,7 +234,7 @@
 0x490225BF=~z~Niko，我能把一整个吸血鬼堡吸干。这是我的最爱。
 
 ;0x49CE1B64=~z~Niko, good game. You are good at bowling and I'm good with the ladies. We both have skills.
-0x49CE1B64=~z~Niko，打得不错。你很擅长保龄球，我很擅长对付女人。我们都有一技之长。
+0x49CE1B64=~z~Niko，打得不错。你很擅长保龄球，我很擅长对付女人，都有一技之长。
 
 ;0x4A68B141=100
 0x4A68B141=100
@@ -249,7 +249,7 @@
 0x509C3172=FCR2_ACT_ARRIVE_SHOW_CABARET
 
 ;0x518AD463=~z~Bowling, Niko. This is a surprise. You know that I like to beat you though. Let's do it.
-0x518AD463=~z~保龄球，Niko。这到是个惊喜，你也知道我喜欢打败你。来吧。
+0x518AD463=~z~保龄球，Niko。这倒是个惊喜，你也知道我喜欢打败你。来吧。
 
 ;0x5272FD23=100
 0x5272FD23=100
@@ -306,7 +306,7 @@
 0x632066A3=~z~Okay, alright, what's going on?
 
 ;0x6692A5E5=~z~Titties, titties, titties. Let me at them, cousin. Unleash me.
-0x6692A5E5=~z~奶子，奶子，奶子。让我上，堂弟。放开我。
+0x6692A5E5=~z~奶子，奶子，奶子。让我上，堂弟。别拦我。
 
 ;0x66B08AE1=~z~Thank you, cousin. We should hang out again soon.
 0x66B08AE1=~z~谢谢你，堂弟。过段时间我们再出去一次吧。
@@ -471,7 +471,7 @@
 0x9E4CB23A=~z~我们可以在这儿吃顿快餐，堂弟。走吧。
 
 ;0x9EF0580C=~z~NB, my cousin. Why don't we find a car so we can go.
-0x9EF0580C=~z~NB，我的堂弟。我们去找辆车再出发吧。
+0x9EF0580C=~z~NB，好堂弟。我们去找辆车再出发吧。
 
 ;0x9FCE57CB=~z~Fucking Vlad. I cannot help but think of that scumbag in that place.
 0x9FCE57CB=~z~狗逼Vlad。我在这儿不由自主地就会想到那个小人。
@@ -591,7 +591,7 @@
 0xC35BC605=FCR2_ACT_ARRIVE_SHOW_COMEDY
 
 ;0xC35F91AA=~z~I am no longer hungry, cousin. That was good.
-0xC35F91AA=~z~我现在不饿了，堂弟。吃的很好。
+0xC35F91AA=~z~我现在不饿了，堂弟。吃得很好。
 
 ;0xC49EFD1D=FCR2_ACT_DURING_SHOW_POS
 0xC49EFD1D=FCR2_ACT_DURING_SHOW_POS

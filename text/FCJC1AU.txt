@@ -66,7 +66,7 @@
 0x1ECFFE2C=FCJ2_JACOB_CONVERSATION_5_EI
 
 ;0x1EE9EBA8=~z~I ain't saying nothing to him face. You no call no alligator long mouth til you pass him, bredren.
-0x1EE9EBA8=~z~我在他面前已经说不了什么了。除非一只鳄鱼出现在他面前他才会停下来，兄弟。
+0x1EE9EBA8=~z~我放弃跟他当面沟通了。没见到鳄鱼你都不知道鳄鱼嘴到底多长，兄弟。
 
 ;0x220026E9=FCJ2_JACOB_CONVERSATION_2_BJ
 0x220026E9=FCJ2_JACOB_CONVERSATION_2_BJ
@@ -102,7 +102,7 @@
 0x31064506=FCJ2_JACOB_CONVERSATION_6_FI
 
 ;0x312F15D2=~z~You seem to be okay, and you smoke a lot.
-0x312F15D2=~z~你抽的也不少，但你还挺正常。
+0x312F15D2=~z~你抽得也不少，但你还挺正常。
 
 ;0x35D80F1D=~z~Okay.
 0x35D80F1D=~z~好吧。
@@ -312,7 +312,7 @@
 0x9152C615=~z~我也很高兴见到你，Niko。你最近还好吗？
 
 ;0x915AB84D=~z~I don't blame him, maybe Badman should go to Jamaica too?
-0x915AB84D=~z~我不怪他，我是说，或许Badman也应该回牙买加？
+0x915AB84D=~z~说句实话，或许让Badman回牙买加比较合适吧？
 
 ;0x9327E513=~z~The world can mess you up, y know?
 0x9327E513=~z~世界能把你绕晕，知道吗？
@@ -546,7 +546,7 @@
 0xEAD38F15=~z~那种草对Badman的作用全是预料之外的。他觉得他的朋友都想杀他。
 
 ;0xEB2B842C=~z~It's his paranoia, man. He's smoking too much of that shit. You got to tell him to calm it down.
-0xEB2B842C=~z~他又犯了妄想症了。他吸那玩意儿吸的太多了，你得让他冷静下来啊。
+0xEB2B842C=~z~他又犯了妄想症了。他吸那玩意儿吸的太多了，你得劝他冷静啊。
 
 ;0xEBB98254=~z~Mallorie a fine daughta, an him lucky fe have her, you know? Hopefully he won't gamble her away as well.
 0xEBB98254=~z~Mallorie是个好女孩，遇上她是Roman的福气。希望他不会把她也当成赌注押出去。
@@ -586,4 +586,3 @@
 
 ;0xFFE1BE85=~z~Yes.
 0xFFE1BE85=~z~是啊。
-
