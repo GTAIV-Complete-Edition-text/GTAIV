@@ -201,7 +201,7 @@
 0x58D3FBAB=~z~嘿，兄弟，你开玩笑吗？这可不好笑。我不会去的。
 
 ;0x5937326F=~z~That was a good craic, man. Catch you round.
-0x5937326F=~z~玩的很嗨森，兄弟。回头见。
+0x5937326F=~z~玩得很嗨森，兄弟。回头见。
 
 ;0x596DE071=100
 0x596DE071=100
@@ -216,7 +216,7 @@
 0x5D9ED1D0=FCP_ACT_BOWL_LEAVE_DRAW
 
 ;0x5F4DF27B=~z~What's up man, so er, we're gonna need some wheels.
-0x5F4DF27B=~z~怎么了，兄弟，这个，呃，我们得弄辆车。
+0x5F4DF27B=~z~你好啊，兄弟。那个，呃，我们得弄辆车。
 
 ;0x61EB8CBD=100
 0x61EB8CBD=100
@@ -246,7 +246,7 @@
 0x6B05D4D0=~z~操，比起等你我本来有更好的事情可做。现在我们还得去找辆车。
 
 ;0x6B06F626=~z~Top prize for being an asshole goes to Niko. You made us miss the damn show.
-0x6B06F626=~z~为人混蛋一等奖颁给Niko。你搞得我们错过表演了。
+0x6B06F626=~z~为人混蛋一等奖颁给Niko。你搞得我们错过演出了。
 
 ;0x6B388903=~z~You're a fucking loser cunt and you know it.
 0x6B388903=~z~你丫就是个屌丝lowB，你自己也知道。
@@ -294,7 +294,7 @@
 0x7C852B9C=~z~操你妈，要是老子他妈有机会，就再把你的酒都倒了。
 
 ;0x7CD919D2=~z~Your pissing around has made us miss the fucking show. Nice one, Niko.
-0x7CD919D2=~z~你丫到处乱跑搞得我们错过狗屁表演了。很好，Niko。
+0x7CD919D2=~z~你丫到处乱跑搞得我们错过演出了。很好，Niko。
 
 ;0x7D45A1C0=~z~Shit, I love that shit hole. They gotta put something in the drinks there. I'm screwed.
 0x7D45A1C0=~z~我操，我喜欢那个狗屁东西。他们肯定是在那边的酒水里下了料。我不行了。
@@ -309,7 +309,7 @@
 0x826699A3=~z~Niko，你台球打赢我了。不过这也没法让你变好。
 
 ;0x87389E2A=~z~You ready to get your ass thrashed at darts, then?
-0x87389E2A=~z~你有做好在飞镖上输得底裤都不剩的准备吗？
+0x87389E2A=~z~准备好在飞镖上输得底裤都不剩了吗？
 
 ;0x88CEAB04=100
 0x88CEAB04=100
@@ -510,7 +510,7 @@
 0xCC5F97FF=~z~我他妈可是个花花公子，Niko。你可没法在台球上打败我。
 
 ;0xCC967961=~z~Hey, take me back to Ma's.
-0xCC967961=~z~嘿，送我回妈地方。
+0xCC967961=~z~嘿，送我回妈家。
 
 ;0xCE5AEF63=FCP_ACT_DROPOFF
 0xCE5AEF63=FCP_ACT_DROPOFF
@@ -552,7 +552,7 @@
 0xDE79A43D=~z~我们去打保龄球吧，Niko。
 
 ;0xDE7C1D34=~z~Drop me at Ma's, will ya?
-0xDE7C1D34=~z~送我到妈地方，行吧？
+0xDE7C1D34=~z~送我到妈家，行吧？
 
 ;0xDF4202AB=FCP_ACT_ARRIVEH_NOTLATE
 0xDF4202AB=FCP_ACT_ARRIVEH_NOTLATE

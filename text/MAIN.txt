@@ -627,7 +627,7 @@
 0xBCC8322E=选择存储设备
 
 ;0xD85F695C=BACK
-0xD85F695C=后退
+0xD85F695C=返回
 
 ;0x21447B25=SELECT
 0x21447B25=选择
@@ -3883,7 +3883,7 @@
 0x3A67EE0A=Boxville
 
 ;0x1C59EE6F=Bucanneer
-0x1C59EE6F=Bucanneer
+0x1C59EE6F=Buccanneer
 
 ;0xAFBB2CA4=Burrito
 0xAFBB2CA4=Burrito
@@ -5818,7 +5818,7 @@
 0xD86B90D5=载具出口
 
 ;0xEA3D3478=Number of bridges flown under
-0xEA3D3478=飞过桥底次数
+0xEA3D3478=穿桥引线完成数
 
 ;0x12D09910=Longest free fall
 0x12D09910=最长自由落体距离
@@ -7792,19 +7792,19 @@
 0x8AEA16B2=最喜爱的活动
 
 ;0x97C7B06D=Niko and Roman hangout
-0x97C7B06D=Niko与Roman出门
+0x97C7B06D=Niko与Roman常去
 
 ;0xB788EFEF=Niko and Jacob hangout
-0xB788EFEF=Niko与Jacob出门
+0xB788EFEF=Niko与Jacob常去
 
 ;0x347469C8=Niko and Brucie hangout
-0x347469C8=Niko与Brucie出门
+0x347469C8=Niko与Brucie常去
 
 ;0x4226852C=Niko and Dwayne hangout
-0x4226852C=Niko与Dwayne出门
+0x4226852C=Niko与Dwayne常去
 
 ;0x5F00BEE0=Niko and Packie hangout
-0x5F00BEE0=Niko与Packie出门
+0x5F00BEE0=Niko与Packie常去
 
 ;0x6CCB5A75=Favorite shop
 0x6CCB5A75=最喜爱的商店
@@ -8455,7 +8455,7 @@
 0xC42BDFC6=彼岸归航
 
 ;0xB2733C55=No Love Lost
-0xB2733C55=失落之爱﻿
+0xB2733C55=失落之爱
 
 ;0x5F4C9609=Rigged to Blow
 0x5F4C9609=定点爆破
@@ -8743,7 +8743,7 @@
 0x2A63E8E5=彼岸归航
 
 ;0x9F255116=No Love Lost
-0x9F255116=失落之爱﻿
+0x9F255116=失落之爱
 
 ;0xB4F8FBC1=Rigged to Blow
 0xB4F8FBC1=定点爆破
@@ -9997,7 +9997,7 @@
 0x36E3C8C5=~z~~x~你们开狂欢晚会不知会我一声，就都赶着过去了？
 
 ;0xB377C1E3=~z~~x~Three o'clock in the morning, five o'clock in the morning, nine, noon, three... motherfuckers just...
-0xB377C1E3=~z~~x~早上3点钟，早上5点钟，早上9点，中午，3点...这些人就他妈...
+0xB377C1E3=~z~~x~早上3点钟，早上5点钟，9点，中午，3点...这些人就他妈...
 
 ;0x70DC3CB5=~z~~x~If you're not careful, you accidentally be walkin' with 'em...
 0x70DC3CB5=~z~~x~一不留神就跟他们撞上了...
@@ -10120,7 +10120,7 @@
 0x400DFAC1=~z~~x~(评分？)你们以为我他妈来玩游戏的？啊？
 
 ;0x6904CCAE=~z~~x~Sir, let me just say, if you had thirty-five thousand dollars cash,
-0x6904CCAE=~z~~x~「先生，我们就直说了，如果你有3.5万刀现金，
+0x6904CCAE=~z~~x~「先生，我们就直说了，如果你有3.5万刀的额度，
 
 ;0x13492138=~z~~x~I couldn't let you put ten percent down on a car that cost nine dollars,
 0x13492138=~z~~x~我就不能为你要买的9块的车打9折...
@@ -13333,7 +13333,7 @@
 0x53DA3DE5=按~INPUT_PICKUP~购买汽水。
 
 ;0x0DE34CA5=~s~Only ~1~ left to fly under for Achievement.
-0x0DE34CA5=~s~离获得成就还剩 ~1~ 个飞过桥底。
+0x0DE34CA5=~s~离获得成就还剩~1~个穿桥引线。
 
 ;0x1B1F30C2=Press ~PAD_LB~ to sit down.
 0x1B1F30C2=按~PAD_LB~坐下。
@@ -13363,7 +13363,7 @@
 0xB238F58A=~s~前往~y~三角大楼。
 
 ;0xE99B3C30=~s~Go to the ~y~Getalife Building.
-0xE99B3C30=~s~前往~y~Getalife大厦。
+0xE99B3C30=~s~前往~y~GetaLife大厦。
 
 ;0x46D8C643=~S~Go to the ~y~Zirconium Building.
 0x46D8C643=~S~前往~y~Zirconium大厦。
@@ -15393,7 +15393,7 @@
 0xBF0249E4=分钟：~1~
 
 ;0x1EC10207=~s~Press ~INPUT_FRONTEND_ACCEPT~ to get ~a~'s number.~n~Press ~INPUT_FRONTEND_CANCEL~ if you're not interested in dating her for the time being.
-0x1EC10207=~s~按~INPUT_FRONTEND_ACCEPT~获得~a~的电话。~n~若你对与其约会没有兴趣，按~INPUT_FRONTEND_CANCEL~。
+0x1EC10207=~s~按~INPUT_FRONTEND_ACCEPT~向~a~索要电话。~n~若你对与其约会没有兴趣，按~INPUT_FRONTEND_CANCEL~。
 
 ;0x5272945B=~s~Press ~INPUT_FRONTEND_ACCEPT~ to try your luck.~n~Press ~INPUT_FRONTEND_CANCEL~ to say goodbye.
 0x5272945B=~s~按~INPUT_FRONTEND_ACCEPT~碰碰运气。~n~按~INPUT_FRONTEND_CANCEL~进行告别。
@@ -17421,94 +17421,94 @@
 0x35A714F9=在电影式视角模式下，按~INPUT_VEH_HORN~切换慢动作模式。再次按~INPUT_VEH_HORN~可恢复正常速度。
 
 ;0x122ABD52=You have completed the arranged activity with Roman. Take him home or go on another activity if you have found one. You can go on up to 3 additional activities.
-0x122ABD52=你已完成了与 Roman 的预定安排。送他回家或再进行一项其他活动。你最多可以追加三项活动。
+0x122ABD52=你已完成了与Roman的预定安排。送他回家或再进行一项其他活动。你最多可以追加三项活动。
 
 ;0x9676C5EC=You have completed the arranged activity with Jacob. Take him home or go on another activity if you have found one. You can go on up to 3 additional activities.
-0x9676C5EC=你已完成了与 Jacob 的预定安排。送他回家或再进行一项其他活动。你最多可以追加三项活动。
+0x9676C5EC=你已完成了与Jacob的预定安排。送他回家或再进行一项其他活动。你最多可以追加三项活动。
 
 ;0x5310BF09=You have completed the arranged activity with Dwayne. Take him home or go on another activity if you have found one. You can go on up to 3 additional activities.
-0x5310BF09=你已完成了与 Dwayne 的预定安排。送他回家或再进行一项其他活动。你最多可以追加三项活动。
+0x5310BF09=你已完成了与Dwayne的预定安排。送他回家或再进行一项其他活动。你最多可以追加三项活动。
 
 ;0x6EA57632=You have completed the arranged activity with Brucie. Take him home or go on another activity if you have found one. You can go on up to 3 additional activities.
-0x6EA57632=你已完成了与 Brucie 的预定安排。送他回家或再进行一项其他活动。你最多可以追加三项活动。
+0x6EA57632=你已完成了与Brucie的预定安排。送他回家或再进行一项其他活动。你最多可以追加三项活动。
 
 ;0x9DCAD478=You have completed the arranged activity with Packie. Take him home or go on another activity if you have found one. You can go on up to 3 additional activities.
-0x9DCAD478=你已完成了与 Packie 的预定安排。送他回家或再进行一项其他活动。你最多可以追加三项活动。
+0x9DCAD478=你已完成了与Packie的预定安排。送他回家或再进行一项其他活动。你最多可以追加三项活动。
 
 ;0x3D973C27=You have completed the arranged activity with Roman. You have already taken him on 3 additional activities. Take him home.
-0x3D973C27=你已完成了与 Roman 的预定安排。你已追加了三项活动。送他回家。
+0x3D973C27=你已完成了与Roman的预定安排。你已追加了三项活动。送他回家。
 
 ;0x22688E9E=You have completed the arranged activity with Jacob. You have already taken him on 3 additional activities. Take him home.
-0x22688E9E=你已完成了与 Jacob 的预定安排。你已追加了三项活动。送他回家。
+0x22688E9E=你已完成了与Jacob的预定安排。你已追加了三项活动。送他回家。
 
 ;0x0244D917=You have completed the arranged activity with Dwayne. You have already taken him on 3 additional activities. Take him home.
-0x0244D917=你已完成了与 Dwayne 的预定安排。你已追加了三项活动。送他回家。
+0x0244D917=你已完成了与Dwayne的预定安排。你已追加了三项活动。送他回家。
 
 ;0x8C9D6BD6=You have completed the arranged activity with Brucie. You have already taken him on 3 additional activities. Take him home.
-0x8C9D6BD6=你已完成了与 Brucie 的预定安排。你已追加了三项活动。送他回家。
+0x8C9D6BD6=你已完成了与Brucie的预定安排。你已追加了三项活动。送他回家。
 
 ;0xF2952CDC=You have completed the arranged activity with Packie. You have already taken him on 3 additional activities. Take him home.
-0xF2952CDC=你已完成了与 Packie 的预定安排。你已追加了三项活动。送他回家。
+0xF2952CDC=你已完成了与Packie的预定安排。你已追加了三项活动。送他回家。
 
 ;0x7BCF48DF=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Roman home. You'll sober up soon.
-0x7BCF48DF=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送 Roman 回家。很快你就会清醒的。
+0x7BCF48DF=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送Roman回家。很快你就会清醒了。
 
 ;0x7492BA6E=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Jacob home. You'll sober up soon.
-0x7492BA6E=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送 Jacob 回家。很快你就会清醒的。
+0x7492BA6E=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送Jacob回家。很快你就会清醒了。
 
 ;0xC31ED78D=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Dwayne home. You'll sober up soon.
-0xC31ED78D=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送 Dwayne 回家。很快你就会清醒的。
+0xC31ED78D=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送Dwayne回家。很快你就会清醒了。
 
 ;0xDFFA1143=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Brucie home. You'll sober up soon.
-0xDFFA1143=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送 Brucie 回家。很快你就会清醒的。
+0xDFFA1143=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送Brucie回家。很快你就会清醒了。
 
 ;0xB04731D2=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Packie home. You'll sober up soon.
-0xB04731D2=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送 Packie 回家。很快你就会清醒的。
+0xB04731D2=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送Packie回家。很快你就会清醒了。
 
 ;0x8575DBCD=You have arranged to do something with Roman. Pick him up by going towards the ~BLIP_27~ on the radar.
-0x8575DBCD=你已和 Roman 安排了活动。去小地图上的~BLIP_27~接他。
+0x8575DBCD=你已和Roman安排了活动。去小地图上的~BLIP_27~接他。
 
 ;0x55AEFC48=You have arranged to do something with Jacob. Pick him up by going towards the ~BLIP_26~ on the radar.
-0x55AEFC48=你已和 Jacob 安排了活动。去小地图上的~BLIP_26~接他。
+0x55AEFC48=你已和Jacob安排了活动。去小地图上的~BLIP_26~接他。
 
 ;0x2B352755=You have arranged to do something with Dwayne. Pick him up by going towards the ~BLIP_34~ on the radar.
-0x2B352755=你已和 Dwayne 安排了活动。去小地图上的~BLIP_34~接他。
+0x2B352755=你已和Dwayne安排了活动。去小地图上的~BLIP_34~接他。
 
 ;0xD8FB82CF=You have arranged to do something with Brucie. Pick him up by going towards the ~BLIP_32~ on the radar.
-0xD8FB82CF=你已和 Brucie 安排了活动。去小地图上的~BLIP_32~接他。
+0xD8FB82CF=你已和Brucie安排了活动。去小地图上的~BLIP_32~接他。
 
 ;0xA0F292C6=You have arranged to do something with Packie. Pick him up by going towards the ~BLIP_42~ on the radar.
-0xA0F292C6=你已和 Packie 安排了活动。去小地图上的~BLIP_42~接他。
+0xA0F292C6=你已和Packie安排了活动。去小地图上的~BLIP_42~接他。
 
 ;0xAC537747=You can take Roman to any location marked on the radar.
-0xAC537747=你可以带 Roman 去小地图上标记的任何地点。
+0xAC537747=你可以带Roman去小地图上标记的任何地点。
 
 ;0x2722ECEC=You can take Jacob to any location marked on the radar.
-0x2722ECEC=你可以带 Jacob 去小地图上标记的任何地点。
+0x2722ECEC=你可以带Jacob去小地图上标记的任何地点。
 
 ;0xEC72F791=You can take Dwayne to any location marked on the radar.
-0xEC72F791=你可以带 Dwayne 去小地图上标记的任何地点。
+0xEC72F791=你可以带Dwayne去小地图上标记的任何地点。
 
 ;0xB15E8169=You can take Brucie to any location marked on the radar.
-0xB15E8169=你可以带 Brucie 去小地图上标记的任何地点。
+0xB15E8169=你可以带Brucie去小地图上标记的任何地点。
 
 ;0x049C27DF=You can take Packie to any location marked on the radar.
-0x049C27DF=你可以带 Packie 去小地图上标记的任何地点。
+0x049C27DF=你可以带Packie去小地图上标记的任何地点。
 
 ;0x03271D7A=You can cancel an activity after it has been arranged. Use the option on the phone under Roman's name. He will prefer to be warned than stood up.
-0x03271D7A=在安排活动后你仍然可以取消它。使用手机中 Roman 下的选项取消。比起被放鸽子，他更乐意事先得到通知。
+0x03271D7A=在安排活动后你仍然可以取消它。使用手机中Roman下的选项取消。比起被放鸽子，他更乐意事先得到通知。
 
 ;0xE893E84C=You can cancel an activity after it has been arranged. Use the option on the phone under Jacob's name. He will prefer to be warned than stood up.
-0xE893E84C=在安排活动后你仍然可以取消它。使用手机中 Jacob 下的选项取消。比起被放鸽子，他更乐意事先得到通知。
+0xE893E84C=在安排活动后你仍然可以取消它。使用手机中Jacob下的选项取消。比起被放鸽子，他更乐意事先得到通知。
 
 ;0x3AD38CCE=You can cancel an activity after it has been arranged. Use the option on the phone under Dwayne's name. He will prefer to be warned than stood up.
-0x3AD38CCE=在安排活动后你仍然可以取消它。使用手机中 Dwayne 下的选项取消。比起被放鸽子，他更乐意事先得到通知。
+0x3AD38CCE=在安排活动后你仍然可以取消它。使用手机中Dwayne下的选项取消。比起被放鸽子，他更乐意事先得到通知。
 
 ;0x57054531=You can cancel an activity after it has been arranged. Use the option on the phone under Brucie's name. He will prefer to be warned than stood up.
-0x57054531=在安排活动后你仍然可以取消它。使用手机中 Brucie 下的选项取消。比起被放鸽子，他更乐意事先得到通知。
+0x57054531=在安排活动后你仍然可以取消它。使用手机中Brucie下的选项取消。比起被放鸽子，他更乐意事先得到通知。
 
 ;0x8E23B36D=You can cancel an activity after it has been arranged. Use the option on the phone under Packie's name. He will prefer to be warned than stood up.
-0x8E23B36D=在安排活动后你仍然可以取消它。使用手机中 Packie 下的选项取消。比起被放鸽子，他更乐意事先得到通知。
+0x8E23B36D=在安排活动后你仍然可以取消它。使用手机中Packie下的选项取消。比起被放鸽子，他更乐意事先得到通知。
 
 ;0xDAD2C0B3=Take Roman ~y~home.
 0xDAD2C0B3=送Roman~y~回家。
@@ -17910,25 +17910,25 @@
 0x5D818F15=e可乐
 
 ;0x8B486AA2=Heat
-0x8B486AA2=Heat
+0x8B486AA2=炙热
 
 ;0xEB85AB23=Release Gum
-0xEB85AB23=Release Gum
+0xEB85AB23=劲爆口香糖
 
 ;0xD9308679=meTV
 0xD9308679=meTV
 
 ;0x4FDBF3CE=Perseus
-0x4FDBF3CE=Perseus
+0x4FDBF3CE=Perseus服饰
 
 ;0x3DCDCFB2=Honkers
-0x3DCDCFB2=Honkers
+0x3DCDCFB2=Honkers俱乐部
 
 ;0x0F931E0C=Hooker CNT
-0x0F931E0C=Hooker CNT
+0x0F931E0C=CNT新花魁
 
 ;0x350AE8FB=Rusty Brown
-0x350AE8FB=Rusty Brown
+0x350AE8FB=Rusty Brown甜品
 
 ;0x1431B248=Standard Ring
 0x1431B248=默认铃声
@@ -17940,43 +17940,43 @@
 0x8AEC1FBB=响铃 2
 
 ;0xDC39C259=Countryside
-0xDC39C259=Countryside
+0xDC39C259=乡村
 
 ;0xCD2C243E=Fox
-0xCD2C243E=Fox
+0xCD2C243E=狐狸
 
 ;0xC0AE0B42=High Seas
-0xC0AE0B42=High Seas
+0xC0AE0B42=公海
 
 ;0x43F111C6=Malfunction
-0x43F111C6=Malfunction
+0x43F111C6=故障
 
 ;0xB56874B3=Pager
-0xB56874B3=Pager
+0xB56874B3=寻呼机
 
 ;0xA684D6EC=Spy
-0xA684D6EC=Spy
+0xA684D6EC=间谍
 
 ;0x99B2BD48=Teeker
-0x99B2BD48=Teeker
+0x99B2BD48=刷存在
 
 ;0xDDEDEF5A=Text
-0xDDEDEF5A=Text
+0xDDEDEF5A=打字
 
 ;0xA7A482C8=Cool Room
-0xA7A482C8=Cool Room
+0xA7A482C8=凉爽的房间
 
 ;0xB7A322C5=Katja's Waltz
-0xB7A322C5=Katja's Waltz
+0xB7A322C5=Katja华尔兹
 
 ;0x89714662=Laidback
-0x89714662=Laidback
+0x89714662=惬意
 
 ;0xA5367DEC=Solo
-0xA5367DEC=Solo
+0xA5367DEC=独奏
 
 ;0x6EE31146=Swing It
-0x6EE31146=Swing It
+0x6EE31146=即兴
 
 ;0x4A63C844=109
 0x4A63C844=109
@@ -18009,7 +18009,7 @@
 0x0FF156AC=Tonight
 
 ;0xEB3A0D3E=Beheading
-0xEB3A0D3E=Beheading
+0xEB3A0D3E=斩首
 
 ;0xB3C61E63=Champagne
 0xB3C61E63=香槟
@@ -18021,7 +18021,7 @@
 0x2F4E1445=心肺停止
 
 ;0x3A2829F9=Hooker
-0x3A2829F9=妓女
+0x3A2829F9=美国新花魁
 
 ;0x10EED78F=Jet
 0x10EED78F=喷气飞机
@@ -18720,16 +18720,16 @@
 0xFBADB558=睡眠模式
 
 ;0xA6140A26=Mode On
-0xA6140A26=开
+0xA6140A26=启用
 
 ;0x53C1EE57=Mode Off
-0x53C1EE57=关
+0x53C1EE57=禁用
 
 ;0x06C33075=Sleep Mode~n~disable in options menu
 0x06C33075=睡眠模式~n~可在选项菜单中禁用。
 
 ;0x88685437=Turning on Sleep Mode will stop mission calls / texts and may halt the progress of the story. Are you sure?
-0x88685437=启用睡眠模式会阻断一切任务呼叫或短信，可能使剧情进度停滞。你确定吗？
+0x88685437=启用睡眠模式会阻断一切任务呼叫和短信，可能使剧情进度停滞。你确定要启用吗？
 
 ;0xAFFE4048=Are you sure you wish to leave the current game and enter the Video Editor? All unsaved data may be lost.
 0xAFFE4048=你确定要离开当前游戏，启动视频编辑器吗？所有未保存的进度都会丢失。
@@ -23472,7 +23472,7 @@
 0x1AF67A5B=堂弟，要是有哪个性感辣妹打给你这个号码找别无分号的Roman Bellic玩3P，就给她们我的新号！ - Rom
 
 ;0xF1BE27EB=Cuz, you left me in the club. You go home to bang one of the girls? Have fun, you animal. - Rom
-0xF1BE27EB=堂弟，你把我扔在俱乐部了。你是带了一个妞回去睡吗？玩的开心，你这禽兽。 - Rom
+0xF1BE27EB=堂弟，你把我扔在俱乐部了。你是带了一个妞回去睡吗？祝你玩得开心，禽兽。 - Rom
 
 ;0x3E58411E=Cuz, where'd you go? Got left in the club by myself. More titties for me, I guess. Later. - Rom
 0x3E58411E=堂弟，你去哪儿了？我被一个人落在俱乐部里了。也许我能找到更多奶子。回见。 - Rom
@@ -24570,25 +24570,25 @@
 0x8E579A35=Valentino又在给我找麻烦。那条狗欲望太强了。需要出门转转减减压。电话找我。亲亲。 xx
 
 ;0x9E513A28=Imagine what these collagen pumped lips would look like wrapped around your... xx
-0x9E513A28=Imagine what these collagen pumped lips would look like wrapped around your... xx
+0x9E513A28=想象一下这个场景吧，我充满胶原蛋白的嘴唇包围在你的... xx
 
 ;0x70FC5F7F=Daddy spent enough money to buy the village you were born in on these tits. Don't you want to enjoy them? Tres excited. xx
-0x70FC5F7F=Daddy spent enough money to buy the village you were born in on these tits. Don't you want to enjoy them? Tres excited. xx
+0x70FC5F7F=爹地在我的奶子上花的钱都足够买下你出生的那个村子了。你不想来玩弄一下吗？超刺激的。 xx
 
 ;0x7B1E73C3=You like this? All those enemas and squat thrusts were worth it to look this good for you. Big kiss. xx
-0x7B1E73C3=You like this? All those enemas and squat thrusts were worth it to look this good for you. Big kiss. xx
+0x7B1E73C3=你喜欢吗？只要你看着高兴，我的灌肠和各种锻炼就没有白费。亲亲。 xx
 
 ;0x929E940A=You're a little too mysterious, Mr. European. It isn't worth me wasting my hard earned discounts on a man with no sex drive. Tres sorry. xx
-0x929E940A=You're a little too mysterious, Mr. European. It isn't worth me wasting my hard earned discounts on a man with no sex drive. Tres sorry. xx
+0x929E940A=你这人也太神秘了点，欧洲先生。把我辛苦赚来的贵宾特价给你这种性冷淡的人简直就是浪费。十分抱歉。 xx
 
 ;0x4A530374=I can't justify wasting good shopping discounts on you, Niko. My priciest vibrator costs less to maintain, but it gives me multiples. Toodles. xx
-0x4A530374=I can't justify wasting good shopping discounts on you, Niko. My priciest vibrator costs less to maintain, but it gives me multiples. Toodles. xx
+0x4A530374=我找不出把贵宾特价给你用的理由，Niko。我最贵的震动棒比你省钱的多，还能给我N倍的快感。再见。 xx
 
 ;0x5C9D2808=Okay, you've earned it. Welcome back to the world of VIP discounts with glamorous retailers a la Alex Chilton! Call me to set up. Smooches. xx
-0x5C9D2808=Okay, you've earned it. Welcome back to the world of VIP discounts with glamorous retailers a la Alex Chilton! Call me to set up. Smooches. xx
+0x5C9D2808=好了，这是你的奖励。欢迎回到VIP特价的世界，享受Alex Chilton为你带来的魅力商品吧！打电话给我就有优惠。么么。 xx
 
 ;0x2A25437D=Fine, you well hung super stud. The keys to the city are yours! Call me if you want any discounts at tres chic clothing stores. You'll be earning your keep between the sheets tho. xx
-0x2A25437D=Fine, you well hung super stud. The keys to the city are yours! Call me if you want any discounts at tres chic clothing stores. You'll be earning your keep between the sheets tho. xx
+0x2A25437D=好了，你这个超级猛男。城市宝库的钥匙是你的了！如果你买衣服的时候需要优惠，给我打个电话。不过能否长期给你优惠还是要看你在床上的表现哦。 xx
 
 ;0x47D87EE3=PLACEHOLDER
 0x47D87EE3=PLACEHOLDER
@@ -24615,82 +24615,82 @@
 0x06BD0D5E=PLACEHOLDER
 
 ;0x187730D2=It's over, Niko. A chapter in the blog of my life is over. If it's any consolation, I'll get some hot vinewood actor to play you in the movie. xx
-0x187730D2=It's over, Niko. A chapter in the blog of my life is over. If it's any consolation, I'll get some hot vinewood actor to play you in the movie. xx
+0x187730D2=都结束了，Niko。我人生博客的又一个章节画上了句号。不知道这点能不能安慰到你，我会在我的传记电影里找个好麦坞性感男星演你的。 xx
 
 ;0x1F873EEA=Tres sorry. Can't stay in this relationship. All my therapists idea BTW. The rest of your life is going to be an anti-climax. xx
-0x1F873EEA=Tres sorry. Can't stay in this relationship. All my therapists idea BTW. The rest of your life is going to be an anti-climax. xx
+0x1F873EEA=非常抱歉。这种关系无法维系了。顺便，这是我的几个治疗师的一致意见。看来你的余生只能在渐渐衰亡中度过了。 xx
 
 ;0x31C9636E=My relationship with the Mysterious European (you!) Is over. If you don't understand why. Read my LiberatedWoman blog on blogsnobs. xx
-0x31C9636E=My relationship with the Mysterious European (you!) Is over. If you don't understand why. Read my LiberatedWoman blog on blogsnobs. xx
+0x31C9636E=我和神秘欧洲人(你！)的关系结束了。不明白原因的话，自己去blogsnobs读我的博客吧，博客名LiberatedWoman。 xx
 
 ;0x8D31990A=Kiki
 0x8D31990A=Kiki
 
 ;0x6DA3130B=Why'd you miss our date, Niko. I was so excited about seeing you. xoxo
-0x6DA3130B=Why'd you miss our date, Niko. I was so excited about seeing you. xoxo
+0x6DA3130B=我们的约会你咋没来，Niko。本来我很期待见到你的。 xoxo
 
 ;0x24DC017E=Why didn't you show. Were you out with one of your other whores? Go to her... go to her!
-0x24DC017E=Why didn't you show. Were you out with one of your other whores? Go to her... go to her!
+0x24DC017E=你怎么没来。是不是又找哪个婊子去了？找她啊...去找她啊！
 
 ;0x9193DAEC=Why couldn't you come to our date, Niko. Were the police hassling you? It's shoking how they treat immigrants. xoxo
-0x9193DAEC=Why couldn't you come to our date, Niko. Were the police hassling you? It's shoking how they treat immigrants. xoxo
+0x9193DAEC=你怎么不来我们的约会，Niko。是被警察骚扰了吗？他们居然会这样对待移民。 xoxo
 
 ;0x484FC865=I need you so badly and this is how you treat me. It hurts so much. So, so much...
-0x484FC865=I need you so badly and this is how you treat me. It hurts so much. So, so much...
+0x484FC865=我这么需要你，而你却这么对我。实在伤我太深。太深，太深了...
 
 ;0x370DA5E1=Do I deserve to be treated like this? Am I being punished for something I've done? I LOVE YOU!!
-0x370DA5E1=Do I deserve to be treated like this? Am I being punished for something I've done? I LOVE YOU!!
+0x370DA5E1=我只配被你这般对待吗？是我做错了什么你要惩罚我吗？我　爱　你　！　！
 
 ;0x48DCC993=Go to your WHORE. Go to the BITCH. FUCK HER! I'LL FIND HER. SHE'S GOING TO REGRET TAKING YOU FROM ME!!
-0x48DCC993=Go to your WHORE. Go to the BITCH. FUCK HER! I'LL FIND HER. SHE'S GOING TO REGRET TAKING YOU FROM ME!!
+0x48DCC993=找那个　妓　女　去吧。找那个　贱　人　去吧。　干　她　妈　的　！　我　会　找　到　她　的　。　她　会　为　从　我　这　儿　横　刀　夺　爱　后　悔　的　！　！
 
 ;0x361EA417=With client. Can't talk right now. I'm missing you, too. xoxo
-0x361EA417=With client. Can't talk right now. I'm missing you, too. xoxo
+0x361EA417=客户在，讲不了电话。我也很想你。 xoxo
 
 ;0xEDD9937A=I'm a career woman, Niko. I can't spend all my time with you. Thought you'd understand that. Speak soon. xoxo
-0xEDD9937A=I'm a career woman, Niko. I can't spend all my time with you. Thought you'd understand that. Speak soon. xoxo
+0xEDD9937A=我是一个事业型女人，Niko，不可能整天都用来陪你。你应该能理解。之后再聊。 xoxo
 
 ;0x5A996D0C=God, you're so keen. It's nice. I can't talk right now so call in a bit. xoxo
-0x5A996D0C=God, you're so keen. It's nice. I can't talk right now so call in a bit. xoxo
+0x5A996D0C=天哪，你好热情。这挺好。我现在接不了电话，待会儿再打过来。 xoxo
 
 ;0x0EDE25BF=You're just calling to tease me. I don't want to listen to you fucking you're cheal whore. Screw you.
-0x0EDE25BF=You're just calling to tease me. I don't want to listen to you fucking you're cheal whore. Screw you.
+0x0EDE25BF=你只是来嘲笑我的。我不想听你跟我说你那个贱婊的事。去你妈的。
 
 ;0xFE7684F0=You can't just pick me up and put me down when you want. I don't want to be treated like one of your cheap whores. Stop calling me for a while.
-0xFE7684F0=You can't just pick me up and put me down when you want. I don't want to be treated like one of your cheap whores. Stop calling me for a while.
+0xFE7684F0=你不该想起我了来找我，不想我时就晾着我的。我不想被你当作你的那些贱婊对待。暂时别打电话找我了。
 
 ;0x6C37E075=Niko... Niko... I can't do this. Stop calling me.
-0x6C37E075=Niko... Niko... I can't do this. Stop calling me.
+0x6C37E075=Niko...Niko...我做不到。别来找我了。
 
 ;0x49B31B6C=I've been thinking about you, like, a lot. Call me. I need to see you. xoxo
-0x49B31B6C=I've been thinking about you, like, a lot. Call me. I need to see you. xoxo
+0x49B31B6C=我一直在像你，很想你。找我。我需要见到你。 xoxo
 
 ;0x52AFAD61=When you take a time out from seeing those cheap sluts of yours, maybe you could give me a call - take me on a date. xoxo
-0x52AFAD61=When you take a time out from seeing those cheap sluts of yours, maybe you could give me a call - take me on a date. xoxo
+0x52AFAD61=你要是没忙着找你的哪个贱女人，就来约我一次吧，带我出去约会。 xoxo
 
 ;0x436D0EDC=Call me. I need you, Niko. xoxo
-0x436D0EDC=Call me. I need you, Niko. xoxo
+0x436D0EDC=找我。我需要你，Niko。 xoxo
 
 ;0xAE7AE4F6=This is me thinking about how much I love you. xoxo
-0xAE7AE4F6=This is me thinking about how much I love you. xoxo
+0xAE7AE4F6=我正想着自己爱你有多深。 xoxo
 
 ;0x9C2D405B=Under this chest, my heart is beating just for you, Niko. xoxo
-0x9C2D405B=Under this chest, my heart is beating just for you, Niko. xoxo
+0x9C2D405B=在这胸脯之下，我的心脏正在为你跳动，Niko。 xoxo
 
 ;0x8DC5A38C=Is this the type of text message your cheap whores send you?!
-0x8DC5A38C=Is this the type of text message your cheap whores send you?!
+0x8DC5A38C=这是不是就是你那些贱婊会给你发的短信？！
 
 ;0x204BC596=I can't pull any more strings for you, Niko. I'd rather you fucked a thousand men in the prison showers than one more of your cheap whores on the outside.
-0x204BC596=I can't pull any more strings for you, Niko. I'd rather you fucked a thousand men in the prison showers than one more of your cheap whores on the outside.
+0x204BC596=我不能再替你托关系了，Niko。我宁可你在监狱浴室里横扫千军，也不想你在外面跟那些贱婊风情万种。
 
 ;0xE8F6D6ED=I know that things are tough for you here, Niko. But I can't keep the cops off your back anymore. You need to start investing your time in our relationship - it's not a one way street. xoxo
-0xE8F6D6ED=I know that things are tough for you here, Niko. But I can't keep the cops off your back anymore. You need to start investing your time in our relationship - it's not a one way street. xoxo
+0xE8F6D6ED=我知道你在这里的日子不好过，Niko。但我不能继续替你摆平条子了。你该好好投入下我们的关系了。 xoxo
 
 ;0xC4008D01=I can't believe I stopped looking after you, baby. You need me as much as I need you. Call me if you need me to use my DA connections. xoxo
-0xC4008D01=I can't believe I stopped looking after you, baby. You need me as much as I need you. Call me if you need me to use my DA connections. xoxo
+0xC4008D01=我都不敢相信之前我不再替你办事了，宝贝。你离不开我就像我离不开你。如果你需要我在地检那边的关系，打个电话过来。 xoxo
 
 ;0x8CE49EAA=This relationship means so so so much to me, Niko. If anyone in the LCPD tries to touch you I'll have his f - ing balls. Just call me. xoxo
-0x8CE49EAA=This relationship means so so so much to me, Niko. If anyone in the LCPD tries to touch you I'll have his f - ing balls. Just call me. xoxo
+0x8CE49EAA=我们之间的感情对我太太太重要了，Niko。要是LCPD里有人想动你一根毫毛，我就会打爆他的--蛋。需要了就找我。 xoxo
 
 ;0x9A923A05=PLACEHOLDER
 0x9A923A05=PLACEHOLDER
@@ -24717,28 +24717,28 @@
 0x02D8100F=PLACEHOLDER
 
 ;0x1589B572=This is so hard for me but I have to end things. If you love something let it go...
-0x1589B572=This is so hard for me but I have to end things. If you love something let it go...
+0x1589B572=作出这个决定对我来说也很艰难，但还是该一刀两断了。有一种爱叫做放手...
 
 ;0x60624B06=I can't take sharing you with your cheap dirty sluts. You're all theirs. Go to them. We're over.
-0x60624B06=I can't take sharing you with your cheap dirty sluts. You're all theirs. Go to them. We're over.
+0x60624B06=我不能接受跟你的那些下贱婊子分享你。你归她们了，去找她们吧。我们结束了。
 
 ;0x72ACEF9B=It hurts so much. So, so much. We're over, Niko....
-0x72ACEF9B=It hurts so much. So, so much. We're over, Niko....
+0x72ACEF9B=伤得太深了。太太太深了。我们结束了，Niko....
 
 ;0x60394AD0=What does she have that I don't? Tell me! Tell me!!!! - Kiki
-0x60394AD0=What does she have that I don't? Tell me! Tell me!!!! - Kiki
+0x60394AD0=我是哪里比不上她？告诉我啊！告诉我啊！！！！ - Kiki
 
 ;0x7207EE6D=You're testing me, aren't you? You're seeing if I'll stay with you... If I'll keep loving you. What we've got is too strong to come undone, Niko. Xoxoxoxxoxo - Kiki
-0x7207EE6D=You're testing me, aren't you? You're seeing if I'll stay with you... If I'll keep loving you. What we've got is too strong to come undone, Niko. Xoxoxoxxoxo - Kiki
+0x7207EE6D=你在考验我，对吧？你是想观察我会不会专情于你...观察我会不会依然爱你。我们之间的感情是没那么容易消失的，Niko。Xoxoxoxxoxo - Kiki
 
 ;0x3CC683EB=You're sick, Niko. Why do you punish me like this? Do I deserve it? I love you so much. You make me so happy and so sad. I spent last night crying and masturbating. I'm on the edge... X - Kiki
-0x3CC683EB=You're sick, Niko. Why do you punish me like this? Do I deserve it? I love you so much. You make me so happy and so sad. I spent last night crying and masturbating. I'm on the edge... X - Kiki
+0x3CC683EB=你太渣了，Niko。你为什么要这样惩罚我？是我犯错了吗？我这么爱你，你让我如此快乐，又让我如此悲伤。我昨晚一直在哭，一直在自慰。我快受不了了... X - Kiki
 
 ;0x4E8C2776=Who is she??!?!?!!?!?!!?!?!?!!!!???? - Kiki
-0x4E8C2776=Who is she??!?!?!!?!?!!?!?!?!!!!???? - Kiki
+0x4E8C2776=这女人是谁??!?!?!!?!?!!?!?!?!!!!???? - Kiki
 
 ;0xB906FC6A=Am I too fat? Too intellegent? What is it? Why do you keep seeing these cheap whores. Xoxo - Kiki
-0xB906FC6A=Am I too fat? Too intellegent? What is it? Why do you keep seeing these cheap whores. Xoxo - Kiki
+0xB906FC6A=是我太胖吗？还是太聪明了？我哪里不好了？你怎么一直在找那些贱婊？Xoxo - Kiki
 
 ;0xBFAD869B=Niko... Niko... Niiiiko... Nikooooooo cooo cooo cooo - Kiki
 0xBFAD869B=Niko... Niko... Niiiiko... Nikooooooo cooo cooo cooo - Kiki
@@ -24747,70 +24747,70 @@
 0xFA85F23D=Carmen
 
 ;0x8485C47C=Papi, why you no come meet Carmen? She was waiting.
-0x8485C47C=Papi, why you no come meet Carmen? She was waiting.
+0x8485C47C=爸爸，你怎么不来找Carmen？她一直在等你。
 
 ;0x32BEA0EF=Papi, Carmen waited for you, but you no come. You better have a good excuse.
-0x32BEA0EF=Papi, Carmen waited for you, but you no come. You better have a good excuse.
+0x32BEA0EF=爸爸，Carmen在等你，但你没有来。你最好是有正当理由。
 
 ;0xAC881490=Papi, what happened? Why you no meet Carmen? She got her hair did and everything.
-0xAC881490=Papi, what happened? Why you no meet Carmen? She got her hair did and everything.
+0xAC881490=爸爸，怎么了？你怎么不来找Carmen？她做了头发，做了一切准备。
 
 ;0xDA4BF017=Carmen don't get stood up. You an asshole for not meeting her.
-0xDA4BF017=Carmen don't get stood up. You an asshole for not meeting her.
+0xDA4BF017=Carmen不接受被放鸽子。不来见她是你混蛋。
 
 ;0xD115DDAB=Screw you, you think Carmen don't have other men who would kill to date her?
-0xD115DDAB=Screw you, you think Carmen don't have other men who would kill to date her?
+0xD115DDAB=去你妈的，你以为Carmen找不到比你更愿意跟她约会的男友吗？
 
 ;0x816FBE50=That's the last time I get my bikini line waxed for you, asshole.
-0x816FBE50=That's the last time I get my bikini line waxed for you, asshole.
+0x816FBE50=这是我最后一次特意为你做比基尼线脱毛了，混蛋。
 
 ;0xFF6D3A59=Papi, Carmen can't spend her whole time talking to you. Maybe don't call her for a while.
-0xFF6D3A59=Papi, Carmen can't spend her whole time talking to you. Maybe don't call her for a while.
+0xFF6D3A59=爸爸，Carmen也不能一直跟你聊电话啊。暂时先别找她了吧。
 
 ;0xE61307A5=Papi. Carmen real busy at the moment. Why don't you think about how special she is for a few days then call her.
-0xE61307A5=Papi. Carmen real busy at the moment. Why don't you think about how special she is for a few days then call her.
+0xE61307A5=爸爸，Carmen现在真的很忙。你怎么不想几天她有多特别，再打电话找她。
 
 ;0x13E0E340=Papi, Carmen got stuff to do for a while. Call another time.
-0x13E0E340=Papi, Carmen got stuff to do for a while. Call another time.
+0x13E0E340=爸爸，Carmen现在有事要忙。过会儿再打过来吧。
 
 ;0xE0F5EB90=You loco, boy. Stop calling Carmen so much.
-0xE0F5EB90=You loco, boy. Stop calling Carmen so much.
+0xE0F5EB90=你这疯子，小子。别这么频繁地打电话找Carmen。
 
 ;0x72A88EF7=What's your problem? You jealous or something? Stop calling Carmen.
-0x72A88EF7=What's your problem? You jealous or something? Stop calling Carmen.
+0x72A88EF7=你有病吗？你是吃醋了还是咋的？别打电话骚扰Carmen了。
 
 ;0xC38230A9=Carmen don't like getting called like this. You scaring her. She might have to tell her biker friend or her bouncer friend about you. Chill out.
-0xC38230A9=Carmen don't like getting called like this. You scaring her. She might have to tell her biker friend or her bouncer friend about you. Chill out.
+0xC38230A9=Carmen不喜欢一直接到电话，你吓到她了。她可能需要跟她的摩托帮朋友或者门卫朋友说下你了。冷静冷静吧。
 
 ;0x280B79BE=Papi, Carmen wants to get taken out and treated special. Call her.
-0x280B79BE=Papi, Carmen wants to get taken out and treated special. Call her.
+0x280B79BE=爸爸，Carmen想被你带出去，被你特殊对待。快打电话找她。
 
 ;0xB9B21D09=Papi, Carmen needs to forget about all the horrible sick people she had to see today. Call her and take her out.
-0xB9B21D09=Papi, Carmen needs to forget about all the horrible sick people she had to see today. Call her and take her out.
+0xB9B21D09=爸爸，Carmen需要忘记今天她被迫见到的那些变态烂人。打电话找她，带她出去玩吧。
 
 ;0x638D70BD=Papi, Carmen had her hair done and her nails and her bikini line. Don't you want to enjoy it. Call her and take her out.
-0x638D70BD=Papi, Carmen had her hair done and her nails and her bikini line. Don't you want to enjoy it. Call her and take her out.
+0x638D70BD=爸爸，Carmen特意做了头发、指甲，还有比基尼线。你不想来品尝一下吗。打电话找她，带她出去玩吧。
 
 ;0xF565146E=Hey Papi, don't you think this face could be on the front of a magazine or something?
-0xF565146E=Hey Papi, don't you think this face could be on the front of a magazine or something?
+0xF565146E=嘿，爸爸，你看这张漂亮的脸是不是可以上杂志封面了？
 
 ;0x480FB9C2=Papi, you like my tits don't you? They better than most celebrities'. Why ain't Carmen famous yet?
-0x480FB9C2=Papi, you like my tits don't you? They better than most celebrities'. Why ain't Carmen famous yet?
+0x480FB9C2=爸爸，你很喜欢我的奶子吧？我的可比绝大多数名流都棒，可Carmen怎么还没出名呢？
 
 ;0x59D15D45=Papi, you are so lucky. Carmen hasa got to be the hottest girl in this city.
-0x59D15D45=Papi, you are so lucky. Carmen hasa got to be the hottest girl in this city.
+0x59D15D45=爸爸，你真幸运。毕竟Carmen一定是自由城最性感的女孩。
 
 ;0x5076C948=Don't bother calling Carmen about no medical problems no more. She got better things to do than talk to your sick ass.
-0x5076C948=Don't bother calling Carmen about no medical problems no more. She got better things to do than talk to your sick ass.
+0x5076C948=别再找Carmen解决医疗问题了。比起跟你这种烂人聊天，她有的是更好的选择。
 
 ;0x6625F4A6=Carmen bored enough with sick people at work. She don't want to hear your no good ass complain about it too. Don't call her about that no more.
-0x6625F4A6=Carmen bored enough with sick people at work. She don't want to hear your no good ass complain about it too. Don't call her about that no more.
+0x6625F4A6=Carmen每天处理工作上的烂人就够心累了。她不想听再你这个混蛋抱怨来抱怨去了。别再找她疗伤了。
 
 ;0x4D00425F=Okay, Papi. Carmen gonna help you out if you need it. Coz you being so nice to her she'll give you health advice when you call her.
-0x4D00425F=Okay, Papi. Carmen gonna help you out if you need it. Coz you being so nice to her she'll give you health advice when you call her.
+0x4D00425F=好了，爸爸。如果你有需要，Carmen就会帮你的。因为你对她很好，所以你打电话找她她就会给你提供医疗建议。
 
 ;0x5C69E132=Carmen has got to be the best thing ever happened to you, papi. She gonna help you with her nursing again. Just call her when you need help.
-0x5C69E132=Carmen has got to be the best thing ever happened to you, papi. She gonna help you with her nursing again. Just call her when you need help.
+0x5C69E132=遇见Carmen一定是你最美好的经历，爸爸。她会用她的护士技能帮助你的。有需要了就打电话找她。
 
 ;0xA9607B1A=PLACEHOLDER
 0xA9607B1A=PLACEHOLDER
@@ -24837,13 +24837,13 @@
 0x9A55E421=PLACEHOLDER
 
 ;0x6251F41A=It's over, Papi. Stay away from Carmen.
-0x6251F41A=It's over, Papi. Stay away from Carmen.
+0x6251F41A=都结束了，爸爸。就此告别Carmen吧。
 
 ;0x511751A5=Papi, Carmen can't see you no more. She needs to be free.
-0x511751A5=Papi, Carmen can't see you no more. She needs to be free.
+0x511751A5=爸爸，Carmen不能再和你约会了。她需要自由自在的生活。
 
 ;0x8EF6CD5F=Carmen has to end things, Papi. At least you had her for a while...
-0x8EF6CD5F=Carmen has to end things, Papi. At least you had her for a while...
+0x8EF6CD5F=Carmen必须要做个了断了，爸爸。至少你曾经拥有过她...
 
 ;0x7464688C=Kate
 0x7464688C=Kate
@@ -24894,13 +24894,13 @@
 0x6097E4F4=Packie给我讲了一个关于你的有趣的故事。我想和你共度一段友情时光。给我打电话。
 
 ;0x324D8860=Like what you see? (face)
-0x324D8860=Like what you see? (face)
+0x324D8860=喜欢你看见的吗？(脸)
 
 ;0x7CB01D5C=Like what you see? (chest)
-0x7CB01D5C=Like what you see? (chest)
+0x7CB01D5C=喜欢你看见的吗？(胸)
 
 ;0x4FB4C32E=Like what you see? (ass)
-0x4FB4C32E=Like what you see? (ass)
+0x4FB4C32E=喜欢你看见的吗？(臀)
 
 ;0x4A2EB73A=PLACEHOLDER
 0x4A2EB73A=PLACEHOLDER
@@ -24951,31 +24951,31 @@
 0x6F455C2A=French Tom
 
 ;0x9A57BC38=Couldn't make our date. Guess you didn't make me wanna go enough. I'll be there at 8am instead. Xxx
-0x9A57BC38=Couldn't make our date. Guess you didn't make me wanna go enough. I'll be there at 8am instead. Xxx
+0x9A57BC38=约会来不了了。可能是你对我的吸引力还不够大。明早8点老地方见。 Xxx
 
 ;0x861693B6=I got held up by some fucking terrorist bullshit. It's such a fucking ass.I can be there at noon instead. C U then. xxx
 0x861693B6=刚才我被狗屁恐怖分子的破事缠住了。真他妈操蛋。我们中午再去那儿吧。回头见。 xxx
 
 ;0xF815F7B3=I couldn't make it. Meet you in the same place at 6 tonight instead. Xxx
-0xF815F7B3=I couldn't make it. Meet you in the same place at 6 tonight instead. Xxx
+0xF815F7B3=我来不了了。今晚6点老地方见。 Xxx
 
 ;0xE159CA3B=Sorry, I couldn't make it. Doesn't that just make you all the more excited to meet me. I can be there at midnight. Xxx
 0xE159CA3B=抱歉，我来不了了。是不是让你更期待见到我了啊。今天夜里我也能去。 Xxx
 
 ;0x635C4E42=I saw this really fat woman on the subway and had to throw up. She was disgusting. Couldn't make it so will be there at 8 tomorrow morning instead. Xxx
-0x635C4E42=I saw this really fat woman on the subway and had to throw up. She was disgusting. Couldn't make it so will be there at 8 tomorrow morning instead. Xxx
+0x635C4E42=我在地铁上看见了一个胖女人，实在恶心，把我给看吐了。一时半会儿来不了了，还是改到明早8点吧。 Xxx
 
 ;0x531DADC5=I lost my way. Probably my fault for living in ugly Broker not Algonquin. The peope are as disgusting as the buildings here. C U tomorrow at noon instead. Same place. Xxx
-0x531DADC5=I lost my way. Probably my fault for living in ugly Broker not Algonquin. The peope are as disgusting as the buildings here. C U tomorrow at noon instead. Same place. Xxx
+0x531DADC5=我迷路了。可能得怪我住在丑陋的Broker，而不是美好的Algonquin。这里的人和楼都很恶心。明天中午，老地方，不见不散。 Xxx
 
 ;0x3CF78179=Sorry, I was busy making myself look fabulous and couldn't make it. I'll be there tomorrow night at 6.
-0x3CF78179=Sorry, I was busy making myself look fabulous and couldn't make it. I'll be there tomorrow night at 6.
+0x3CF78179=抱歉，刚才我忙着打扮自己，误了时间。我们明晚6点再见吧。
 
 ;0xAEA4E4D2=I forgot about our date. Guess you didn't make enough of an impression. Meet you there tomorrow night at midnight instead. xxx
-0xAEA4E4D2=I forgot about our date. Guess you didn't make enough of an impression. Meet you there tomorrow night at midnight instead. xxx
+0xAEA4E4D2=我忘记我们有约了。可能是你存在感不高吧。明天午夜不见不散。 xxx
 
 ;0x261953BD=Sorry, I met someone who was richer and better looking than you so dated him instead. Should be done with him later in the week so let's meet then. Xxx
-0x261953BD=Sorry, I met someone who was richer and better looking than you so dated him instead. Should be done with him later in the week so let's meet then. Xxx
+0x261953BD=抱歉，我遇见了一个比你有钱又比你好看的人，就先跟他约会了。这周晚些时候应该就能跟他解决了，到时候再见吧。 Xxx
 
 ;0x9689DC33=PLACEHOLDER
 0x9689DC33=PLACEHOLDER
@@ -24996,22 +24996,22 @@
 0x31B0E092=律师行
 
 ;0xC9FCB633=Mr Goldberg would still like to interview you. We shall contact you soon to arrange a new appointment. G.L. and S.
-0xC9FCB633=Mr Goldberg would still like to interview you. We shall contact you soon to arrange a new appointment. G.L. and S.
+0xC9FCB633=Goldberg先生仍会为您进行面试。我们将尽快为您安排新的面试时间，并进行通知。 G.L. and S.
 
 ;0x73B909AD=Mr Goldberg has re-scheduled your interview for tomorrow at 12:00. G.L. and S.
-0x73B909AD=Mr Goldberg has re-scheduled your interview for tomorrow at 12:00. G.L. and S.
+0x73B909AD=Goldberg先生已将您的面试重新安排到了明天中午12:00。 G.L. and S.
 
 ;0xA5A1ED7E=AUTOMATED REPLY: Our offices are currently closed. Your query will receive our fullest attention at the earliest opportunity. Thank you. G.L. and S.
-0xA5A1ED7E=自动回复：现在非本律师行的营业时间。我们将会尽快阅读处理您的应聘申请。感谢您的支持。 G.L.和S.
+0xA5A1ED7E=自动回复：现在非本律师行的营业时间。我们将会尽快阅读处理您的应聘申请。感谢您的支持。 G.L. and S.
 
 ;0xB87892EF=Mr Goldberg has re-scheduled your interview for this evening at 18:00. G.L. and S.
-0xB87892EF=Mr Goldberg has re-scheduled your interview for this evening at 18:00. G.L. and S.
+0xB87892EF=Goldberg先生已将您的面试安排到了今晚18:00。 G.L. and S.
 
 ;0xAAD4F7A8=Mr Goldberg has re-scheduled your interview for tomorrow morning at 08:00. G.L. and S.
-0xAAD4F7A8=Mr Goldberg has re-scheduled your interview for tomorrow morning at 08:00. G.L. and S.
+0xAAD4F7A8=Goldberg先生已将您的面试安排到了明早08:00。 G.L. and S.
 
 ;0xD3FC49F6=Mr Goldberg has re-scheduled your interview for tomorrow evening at 18:00. G.L. and S.
-0xD3FC49F6=Mr Goldberg has re-scheduled your interview for tomorrow evening at 18:00. G.L. and S.
+0xD3FC49F6=Goldberg先生已将您的面试安排到了明晚18:00。 G.L. and S.
 
 ;0xC5DFADBD=PLACEHOLDER
 0xC5DFADBD=PLACEHOLDER
@@ -25077,7 +25077,7 @@
 0xA7FC1EB0=Rotterdam Hill的自由城交管大楼边上有一辆Intruder。
 
 ;0x5E810BAB=Get to the old Burger Shot near the Huntington St station. This Manana is usually parked behind it.
-0x5E810BAB=去Huntington街车站旁边的Burger Shot，这辆Manana一般停在店后面。
+0x5E810BAB=去Huntington街车站旁边的吃得饱汉堡，这辆Manana一般停在店后面。
 
 ;0x50516F4C=Get this Huntley Sport from the LCPD station in Northern Gardens.
 0x50516F4C=去Northern Gardens的警局把这辆Huntley Sport弄来。
@@ -27492,73 +27492,73 @@
 0x8FA00A14=~z~~x~行吧干爹，我不会走远的...
 
 ;0xBE466760=~z~~x~Oh, you don't like me? I coulda changed your mind...
-0xBE466760=~z~~x~Oh, you don't like me? I coulda changed your mind...
+0xBE466760=~z~~x~噢，你不中意我？我会让你回心转意的...
 
 ;0x65308EB8=~z~~x~I want you to touch me like my daddy used to...
-0x65308EB8=~z~~x~I want you to touch me like my daddy used to...
+0x65308EB8=~z~~x~我想让你像我爸爸一样摸我...
 
 ;0x72DF2A15=~z~~x~I bet you'd like to see my poo-poo-la-la?
-0x72DF2A15=~z~~x~I bet you'd like to see my poo-poo-la-la?
+0x72DF2A15=~z~~x~你肯定想看我的摇摇晃晃吧？
 
 ;0x11BB67CB=~z~~x~You're handsome, are you rich?
-0x11BB67CB=~z~~x~You're handsome, are you rich?
+0x11BB67CB=~z~~x~长得还挺帅，你有钱吗？
 
 ;0xDF84835E=~z~~x~Do you listen to Greg and Tony?
-0xDF84835E=~z~~x~Do you listen to Greg and Tony?
+0xDF84835E=~z~~x~你听过Greg和Tony的歌吗？
 
 ;0xAC481CE6=~z~~x~I used to have chlamydia.
-0xAC481CE6=~z~~x~I used to have chlamydia.
+0xAC481CE6=~z~~x~我以前衣原体阳性。
 
 ;0xB9E2B81B=~z~~x~I'm so wet right now!
-0xB9E2B81B=~z~~x~I'm so wet right now!
+0xB9E2B81B=~z~~x~我都湿透了！
 
 ;0x58C4F5DD=~z~~x~You're making my daddy issues go away!
-0x58C4F5DD=~z~~x~You're making my daddy issues go away!
+0x58C4F5DD=~z~~x~你满足了我的恋父情节！
 
 ;0x267A1148=~z~~x~What's an STD?
-0x267A1148=~z~~x~What's an STD?
+0x267A1148=~z~~x~什么是性病？
 
 ;0xEF002255=~z~~x~Math is hard, don't you think?
-0xEF002255=~z~~x~Math is hard, don't you think?
+0xEF002255=~z~~x~数学真难啊，你说呢？
 
 ;0x49B3569E=~z~~x~I need a man to support my meth habit.
-0x49B3569E=~z~~x~I need a man to support my meth habit.
+0x49B3569E=~z~~x~我要找个人替我出冰毒钱。
 
 ;0xD93ABB20=~z~~x~Oh my god, you get me so hot.
-0xD93ABB20=~z~~x~Oh my god, you get me so hot.
+0xD93ABB20=~z~~x~我的天，你让我浑身燥热。
 
 ;0xEB855FB5=~z~~x~My daddy used to molest me.
-0xEB855FB5=~z~~x~My daddy used to molest me.
+0xEB855FB5=~z~~x~我爸以前会猥亵我。
 
 ;0x5DEAC486=~z~~x~I love rubbing my ass on strangers.
-0x5DEAC486=~z~~x~I love rubbing my ass on strangers.
+0x5DEAC486=~z~~x~我喜欢跟陌生人摩擦摩擦。
 
 ;0x7943FB38=~z~~x~God, I'm so fucking horny...
-0x7943FB38=~z~~x~God, I'm so fucking horny...
+0x7943FB38=~z~~x~天哪，我好兴奋啊...
 
 ;0x7772096E=~z~~x~Hey, like to have my tits in your face?
-0x7772096E=~z~~x~Hey, like to have my tits in your face?
+0x7772096E=~z~~x~嘿，你想体验下洗面奶吗？
 
 ;0xA980ED8B=~z~~x~Hey sailor, wanna nice dance?
-0xA980ED8B=~z~~x~Hey sailor, wanna nice dance?
+0xA980ED8B=~z~~x~嘿，水手，想看跳舞吗？
 
 ;0xEBDD7243=~z~~x~Hey can I grind you for money?
-0xEBDD7243=~z~~x~Hey can I grind you for money?
+0xEBDD7243=~z~~x~嘿，能赏脸给我赚点吗？
 
 ;0xDE32D6EE=~z~~x~I'm so wet, mind if I grind on you?
-0xDE32D6EE=~z~~x~I'm so wet, mind if I grind on you?
+0xDE32D6EE=~z~~x~我湿了，能让我为你跳舞吗？
 
 ;0x06D547B5=~z~~x~Wow, that was amazing...
-0x06D547B5=~z~~x~Wow, that was amazing...
+0x06D547B5=~z~~x~哇哦，太精彩了...
 
 ;0xB702A811=~z~~x~I could do that all night.
-0xB702A811=~z~~x~I could do that all night.
+0xB702A811=~z~~x~我可以来上一整夜。
 
 ;0xAA590EBE=~z~~x~You're popping a tent soldier!
-0xAA590EBE=~z~~x~You're popping a tent soldier!
+0xAA590EBE=~z~~x~帐篷都搭起来了，大兵！
 
 ;0xDC8E7328=~z~~x~I think I left a slug-trail!
-0xDC8E7328=~z~~x~I think I left a slug-trail!
+0xDC8E7328=~z~~x~我好像漏出来了！
 
 ;0xB817694F=~z~~x~What, you don't like girls?
 0xB817694F=~z~~x~怎么，你不喜欢女人？
@@ -27597,76 +27597,76 @@
 0x00185D91=~z~~x~你是单对我有感情，还是对所有客人都这样？
 
 ;0x4D23F7AF=~z~~x~Work that ass, baby.
-0x4D23F7AF=~z~~x~Work that ass, baby.
+0x4D23F7AF=~z~~x~放马过来吧，宝贝。
 
 ;0x1AE9133A=~z~~x~Who taught you to do that?
 0x1AE9133A=~z~~x~这是谁教你的？
 
 ;0xF14F400F=~z~~x~Shit, the stuff I would do to you...
-0xF14F400F=~z~~x~Shit, the stuff I would do to you...
+0xF14F400F=~z~~x~妈的，我想对你这样那样...
 
 ;0x2409258A=~z~~x~Are there cameras in this room?
 0x2409258A=~z~~x~房间里有摄像头吗？
 
 ;0x1C8BB3E6=~z~~x~You two are close, ain't you?
-0x1C8BB3E6=~z~~x~You two are close, ain't you?
+0x1C8BB3E6=~z~~x~你俩好像关系很好嘛？
 
 ;0x6F625992=~z~~x~Are you, like, sisters or cousins or something?
-0x6F625992=~z~~x~Are you, like, sisters or cousins or something?
+0x6F625992=~z~~x~你们是那种，亲姐妹还是表姐妹吗？
 
 ;0x811DFD09=~z~~x~Is this shit legal?
-0x811DFD09=~z~~x~Is this shit legal?
+0x811DFD09=~z~~x~这玩意真合法吗？
 
 ;0x440082CF=~z~~x~People back home won't believe you do this shit?
-0x440082CF=~z~~x~People back home won't believe you do this shit?
+0x440082CF=~z~~x~你老家的人都不会相信你在干这行吧？
 
 ;0x55D12670=~z~~x~This is the American Dream.
-0x55D12670=~z~~x~This is the American Dream.
+0x55D12670=~z~~x~这就是美国梦啊。
 
 ;0x6C3F53B4=~z~~x~I am a lucky man to be the meat in this sandwich.
-0x6C3F53B4=~z~~x~I am a lucky man to be the meat in this sandwich.
+0x6C3F53B4=~z~~x~我就是肉夹馍的那块幸运之肉啊。
 
 ;0x0E1A80EB=~z~~x~Thanks for that.
-0x0E1A80EB=~z~~x~Thanks for that.
+0x0E1A80EB=~z~~x~多谢服务。
 
 ;0x8CCC7E4D=~z~~x~Thank you.
-0x8CCC7E4D=~z~~x~Thank you.
+0x8CCC7E4D=~z~~x~谢谢。
 
 ;0x7B34DB1E=~z~~x~That was fun.
-0x7B34DB1E=~z~~x~That was fun.
+0x7B34DB1E=~z~~x~太快乐了。
 
 ;0xB274C9A5=~z~~x~Man, I needed that.
-0xB274C9A5=~z~~x~Man, I needed that.
+0xB274C9A5=~z~~x~天，就喜欢这个。
 
 ;0x0A807FE8=~z~~x~Not a hope!
-0x0A807FE8=~z~~x~Not a hope!
+0x0A807FE8=~z~~x~门都没有！
 
 ;0xF846DB75=~z~~x~Yeah, right!
 0xF846DB75=~z~~x~好啊，来啊！
 
 ;0xAEA5C82C=~z~~x~Are you fuckin' serious?
-0xAEA5C82C=~z~~x~Are you fuckin' serious?
+0xAEA5C82C=~z~~x~你丫想来真的？
 
 ;0x5D332548=~z~~x~Move away from the door!
-0x5D332548=~z~~x~Move away from the door!
+0x5D332548=~z~~x~离门远点！
 
 ;0xA32A3135=~z~~x~I'd be fired if I let you in, now get the fuck outta here!
-0xA32A3135=~z~~x~I'd be fired if I let you in, now get the fuck outta here!
+0xA32A3135=~z~~x~放你进去我就要被炒了，你他妈滚远点！
 
 ;0x93E392A8=~z~~x~You ain't getting in here like that.
-0x93E392A8=~z~~x~You ain't getting in here like that.
+0x93E392A8=~z~~x~你别想就这样进去。
 
 ;0x77BC5A5A=~z~~x~Lookin' like that? Not even for money.
-0x77BC5A5A=~z~~x~Lookin' like that? Not even for money.
+0x77BC5A5A=~z~~x~就这打扮？塞钱都不让你进去。
 
 ;0x265BB79E=~z~~x~Friendly tip, dress better. Now go!
-0x265BB79E=~z~~x~Friendly tip, dress better. Now go!
+0x265BB79E=~z~~x~友情提示，穿得好点。回去吧！
 
 ;0x4AFE80DF=~z~~x~Don't make me laugh - just look at yourself!
-0x4AFE80DF=~z~~x~Don't make me laugh - just look at yourself!
+0x4AFE80DF=~z~~x~我要笑死了，看看你这衰样！
 
 ;0x7C9AE333=~z~~x~We feed the bums around the back.
-0x7C9AE333=~z~~x~We feed the bums around the back.
+0x7C9AE333=~z~~x~流浪汉去后门领饭。
 
 ;0x59C774E1=~z~~x~Okay, that's it - you're done!
 0x59C774E1=~z~~x~好了，够了，你完了！
@@ -27678,16 +27678,16 @@
 0x7E2E3DAE=~z~~x~你给我出去！
 
 ;0xA0978280=~z~~x~Okay, let's bounce!
-0xA0978280=~z~~x~Okay, let's bounce!
+0xA0978280=~z~~x~好了，该滚蛋了！
 
 ;0x12C56BE0=~z~~x~Can't do it, sorry.
-0x12C56BE0=~z~~x~Can't do it, sorry.
+0x12C56BE0=~z~~x~不让进了，抱歉。
 
 ;0xA46F0F35=~z~~x~You shoulda come a bit earlier, sorry.
-0xA46F0F35=~z~~x~You shoulda come a bit earlier, sorry.
+0xA46F0F35=~z~~x~下次早点来吧，抱歉。
 
 ;0x9582F14D=~z~~x~Sorry, we're packed out.
-0x9582F14D=~z~~x~Sorry, we're packed out.
+0x9582F14D=~z~~x~抱歉，客满了。
 
 ;0x26E79428=~z~~x~No can do, maybe another time.
 0x26E79428=~z~~x~不许进，改天再来吧。
@@ -27705,10 +27705,10 @@
 0x6A9A9B7D=~z~~x~明天再来吧。
 
 ;0x4ABFBDA5=~z~~x~Sure, what the hell, it's pretty dead.
-0x4ABFBDA5=~z~~x~Sure, what the hell, it's pretty dead.
+0x4ABFBDA5=~z~~x~行，管他呢，反正都凉透了。
 
 ;0xC4E0B1FD=~z~~x~Hell, why not? We could use the money.
-0xC4E0B1FD=~z~~x~Hell, why not? We could use the money.
+0xC4E0B1FD=~z~~x~真是，何不呢？有钱就好。
 
 ;0xB21A8C71=~z~~x~Normally I wouldn't but, okay.
 0xB21A8C71=~z~~x~通常我不这样，不过行吧。
@@ -27738,34 +27738,34 @@
 0x4AF96E8F=~z~~x~您想稍微放松会儿吗，先生？
 
 ;0x38B2CA02=~z~~x~I'm afraid we've had a few complaints, please tone it down.
-0x38B2CA02=~z~~x~I'm afraid we've had a few complaints, please tone it down.
+0x38B2CA02=~z~~x~之前我们受到了一些投诉，请您体谅我们。
 
 ;0x1EE8966E=~z~~x~I have my eye on you.
-0x1EE8966E=~z~~x~I have my eye on you.
+0x1EE8966E=~z~~x~我会盯着你的。
 
 ;0x8CCBF22B=~z~~x~Is everthing alright? Good.
-0x8CCBF22B=~z~~x~Is everthing alright? Good.
+0x8CCBF22B=~z~~x~都没问题吧？好。
 
 ;0x1131FB01=~z~~x~Please be considerate of our other guests! Or else...
-0x1131FB01=~z~~x~Please be considerate of our other guests! Or else...
+0x1131FB01=~z~~x~请替其他客人考虑一下！否则...
 
 ;0xCAC77E10=~z~~x~Please, come on through.
-0xCAC77E10=~z~~x~Please, come on through.
+0xCAC77E10=~z~~x~请，这边走。
 
 ;0x7FD96839=~z~~x~I got you, go straight in.
-0x7FD96839=~z~~x~I got you, go straight in.
+0x7FD96839=~z~~x~好了，请进吧。
 
 ;0x661A34BB=~z~~x~Hey, welcome back.
-0x661A34BB=~z~~x~Hey, welcome back.
+0x661A34BB=~z~~x~嘿，欢迎回来。
 
 ;0x2347AF17=~z~~x~I'm right here if you need anything.
-0x2347AF17=~z~~x~有什么需要就来找我
+0x2347AF17=~z~~x~有什么需要就来找我。
 
 ;0x11890B9A=~z~~x~Always a pleasure, head on through.
-0x11890B9A=~z~~x~Always a pleasure, head on through.
+0x11890B9A=~z~~x~乐意为您服务，请进吧。
 
 ;0x3EE2664C=~z~~x~Don't do anything I wouldn't do, heheheh.
-0x3EE2664C=~z~~x~Don't do anything I wouldn't do, heheheh.
+0x3EE2664C=~z~~x~别做太过分的事，嘿嘿嘿。
 
 ;0x2D1CC2C1=~z~~x~Your friends are inside already, c'mon.
 0x2D1CC2C1=~z~~x~你的朋友已经到了，进来吧。
@@ -28023,19 +28023,19 @@
 0x7C69B84C=~z~~x~好了，这下你必须走了。
 
 ;0x97A12620=~z~~x~Calm it down a little, alright?
-0x97A12620=~z~~x~Calm it down a little, alright?
+0x97A12620=~z~~x~请稍微冷静点，好吗？
 
 ;0x85DF829D=~z~~x~Let's be quiet, okay?
-0x85DF829D=~z~~x~Let's be quiet, okay?
+0x85DF829D=~z~~x~安静一些，好吗？
 
 ;0xC7B68646=~z~~x~Relax player...
-0xC7B68646=~z~~x~Relax player...
+0xC7B68646=~z~~x~放松，玩家...
 
 ;0x3603E2E3=~z~~x~You wanna watch yourself there?
-0x3603E2E3=~z~~x~You wanna watch yourself there?
+0x3603E2E3=~z~~x~你想被请出去吗？
 
 ;0xEC404F59=~z~~x~I'm gonna ask you to keep yourself in check.
-0xEC404F59=~z~~x~I'm gonna ask you to keep yourself in check.
+0xEC404F59=~z~~x~请您稍微有点自觉。
 
 ;0x1A9CE85E=~z~~x~Hello, this is the LCPD, where would you like us to send an officer?
 0x1A9CE85E=~z~~x~您好，这里是LCPD，请问您想让我们向哪里出警？
@@ -28281,7 +28281,7 @@
 0x442409C2=~z~~x~市政厅。
 
 ;0xB7A39D81=~z~~x~Golfcourse.
-0xB7A39D81=~z~~x~Golfcourse。
+0xB7A39D81=~z~~x~高尔夫球场。
 
 ;0xD197D610=~z~~x~Airport.
 0xD197D610=~z~~x~机场。
@@ -28734,301 +28734,301 @@
 0x4F6DD74E=~z~~x~喂，别精虫上脑了。
 
 ;0xC122BABA=~z~~x~You need to lose the attitude bitch!
-0xC122BABA=~z~~x~You need to lose the attitude bitch!
+0xC122BABA=~z~~x~你什么态度啊，贱人！
 
 ;0x340A98F5=~z~~x~We've got some work to do.
-0x340A98F5=~z~~x~We've got some work to do.
+0x340A98F5=~z~~x~我们有事要做。
 
 ;0x2610FCFE=~z~~x~Oh my god, you are in serious need of a make-over.
-0x2610FCFE=~z~~x~Oh my god, you are in serious need of a make-over.
+0x2610FCFE=~z~~x~我的天哪，你该好好打扮打扮了。
 
 ;0x0941C360=~z~~x~No offence sweetie, but that outfit is hideous!
-0x0941C360=~z~~x~No offence sweetie, but that outfit is hideous!
+0x0941C360=~z~~x~恕我直言，你这外套太丑了！
 
 ;0xFB552787=~z~~x~I'll be honest honey, that look went out in the late eighties!
-0xFB552787=~z~~x~I'll be honest honey, that look went out in the late eighties!
+0xFB552787=~z~~x~说实话，宝贝，你这打扮像是20年前的人！
 
 ;0x9D026AD7=~z~~x~Dear oh dear, we have a fashion felony on our hands!
-0x9D026AD7=~z~~x~Dear oh dear, we have a fashion felony on our hands!
+0x9D026AD7=~z~~x~我滴乖乖，你这人会不会打扮啊！
 
 ;0xF57C97CC=~z~~x~I've gotta tell you, you are looking fine!
-0xF57C97CC=~z~~x~I've gotta tell you, you are looking fine!
+0xF57C97CC=~z~~x~不得不说，你形象挺好！
 
 ;0x03373341=~z~~x~You look hot today honey.
-0x03373341=~z~~x~You look hot today honey.
+0x03373341=~z~~x~今天你好性感啊，甜心。
 
 ;0x17E7DCA2=~z~~x~Wow! I love that look honey!
-0x17E7DCA2=~z~~x~Wow! I love that look honey!
+0x17E7DCA2=~z~~x~哇哦！我喜欢你的样子，甜心！
 
 ;0x2626791F=~z~~x~I love what you've done with that outift!
-0x2626791F=~z~~x~I love what you've done with that outift!
+0x2626791F=~z~~x~我喜欢你对上衣的选择！
 
 ;0xBA1DA10F=~z~~x~Look at you, you've got it going on!
-0xBA1DA10F=~z~~x~Look at you, you've got it going on!
+0xBA1DA10F=~z~~x~瞧瞧，你越来越上道了！
 
 ;0xA3E8EBF7=~z~~x~Hmm, that's an interesting look sir...
-0xA3E8EBF7=~z~~x~Hmm, that's an interesting look sir...
+0xA3E8EBF7=~z~~x~唔，你这打扮还挺有意思的...
 
 ;0x90C9C5B9=~z~~x~I'll be honest, the top works but the bottom is all wrong!
-0x90C9C5B9=~z~~x~I'll be honest, the top works but the bottom is all wrong!
+0x90C9C5B9=~z~~x~有一说一，上衣还行，下面穿的什么玩意！
 
 ;0x3E8AA13C=~z~~x~Wow! That's certainly a brave choice of outfit...
-0x3E8AA13C=~z~~x~Wow! That's certainly a brave choice of outfit...
+0x3E8AA13C=~z~~x~哇哦！这身打扮有点大胆了...
 
 ;0x1DB45F94=~z~~x~That's an... original outfit sir. Kind of works, I suppose.
-0x1DB45F94=~z~~x~That's an... original outfit sir. Kind of works, I suppose.
+0x1DB45F94=~z~~x~你这...挺有个性的。也还可以，大概。
 
 ;0xCA663901=~z~~x~Mmm... mmm, I think I can see where you're going with that look...
-0xCA663901=~z~~x~Mmm... mmm, I think I can see where you're going with that look...
+0xCA663901=~z~~x~唔...唔，我能想到你穿成这样出去的后果...
 
 ;0x1B670F80=~z~~x~No way bitch! We don't want you in here!
-0x1B670F80=~z~~x~No way bitch! We don't want you in here!
+0x1B670F80=~z~~x~贱人滚！别想进我们的店！
 
 ;0xD58783BA=~z~~x~I don't think so - you're not welcome in Perseus.
-0xD58783BA=~z~~x~I don't think so - you're not welcome in Perseus.
+0xD58783BA=~z~~x~不许进来，Perseus不欢迎你。
 
 ;0x4ABA6E1E=~z~~x~Oh, hell no, you're barred asshole.
-0x4ABA6E1E=~z~~x~Oh, hell no, you're barred asshole.
+0x4ABA6E1E=~z~~x~噢，滚蛋，你这混蛋不许入内。
 
 ;0xDEC78F67=~z~~x~Have a great day!
-0xDEC78F67=~z~~x~Have a great day!
+0xDEC78F67=~z~~x~祝你生活愉快！
 
 ;0xD06E72B1=~z~~x~Visit us again soon...
-0xD06E72B1=~z~~x~Visit us again soon...
+0xD06E72B1=~z~~x~欢迎下次光临...
 
 ;0x6A1F2614=~z~~x~Thanks for shopping at Perseus.
-0x6A1F2614=~z~~x~Thanks for shopping at Perseus.
+0x6A1F2614=~z~~x~谢谢惠顾。
 
 ;0x5DD10D78=~z~~x~Hope to see you very soon!
-0x5DD10D78=~z~~x~Hope to see you very soon!
+0x5DD10D78=~z~~x~期待您的下次光顾！
 
 ;0x878C60EE=~z~~x~Come back and see me again.
-0x878C60EE=~z~~x~Come back and see me again.
+0x878C60EE=~z~~x~记得再来找我啊。
 
 ;0x045B27D0=~z~~x~Hey there, welcome to Perseus.
-0x045B27D0=~z~~x~Hey there, welcome to Perseus.
+0x045B27D0=~z~~x~嘿，先生，欢迎光临Perseus。
 
 ;0x1214C343=~z~~x~Hi, thanks for choosing Perseus.
-0x1214C343=~z~~x~Hi, thanks for choosing Perseus.
+0x1214C343=~z~~x~嗨，感谢您选择Perseus。
 
 ;0xE7826E1F=~z~~x~Hiya, welcome to the world of Perseus.
-0xE7826E1F=~z~~x~Hiya, welcome to the world of Perseus.
+0xE7826E1F=~z~~x~你好啊，欢迎来到Perseus的世界。
 
 ;0xF59F0A58=~z~~x~Hello, thank you for visiting Perseus.
-0xF59F0A58=~z~~x~Hello, thank you for visiting Perseus.
+0xF59F0A58=~z~~x~您好，Perseus感谢您的光顾。
 
 ;0x4B06B526=~z~~x~Welcome to Perseus, I'll be your assistant today.
-0x4B06B526=~z~~x~Welcome to Perseus, I'll be your assistant today.
+0x4B06B526=~z~~x~欢迎光临Perseus，我是您的导购。
 
 ;0x89E13B65=~z~~x~You're a fucking lunatic!
-0x89E13B65=~z~~x~You're a fucking lunatic!
+0x89E13B65=~z~~x~你他妈神经病吧！
 
 ;0x7ACA9D38=~z~~x~Are you outta you're fucking mind?
-0x7ACA9D38=~z~~x~Are you outta you're fucking mind?
+0x7ACA9D38=~z~~x~你丫是不是没脑子的？
 
 ;0xE50471AA=~z~~x~Get the fuck outta here - now!
-0xE50471AA=~z~~x~Get the fuck outta here - now!
+0xE50471AA=~z~~x~现在就给我滚出去！
 
 ;0xD77AD697=~z~~x~You need to leave bitch - right now!
-0xD77AD697=~z~~x~You need to leave bitch - right now!
+0xD77AD697=~z~~x~立刻滚蛋，贱人！
 
 ;0xC6C73530=~z~~x~You're a maniac! Get the hell outta here!
-0xC6C73530=~z~~x~You're a maniac! Get the hell outta here!
+0xC6C73530=~z~~x~你这个疯子！快给我滚出去！
 
 ;0x6E20C8F8=~z~~x~Excellent choice, if you don't mind me saying?
-0x6E20C8F8=~z~~x~Excellent choice, if you don't mind me saying?
+0x6E20C8F8=~z~~x~选得好，您没嫌我多嘴吧？
 
 ;0x7FA86C07=~z~~x~That looks so hot on you!
-0x7FA86C07=~z~~x~That looks so hot on you!
+0x7FA86C07=~z~~x~你穿上超性感！
 
 ;0x3EE56A7E=~z~~x~You're gonna break some hearts in that...
-0x3EE56A7E=~z~~x~You're gonna break some hearts in that...
+0x3EE56A7E=~z~~x~这样可以俘获不少芳心...
 
 ;0x10B88E25=~z~~x~That really suits you, brings out your eyes.
-0x10B88E25=~z~~x~That really suits you, brings out your eyes.
+0x10B88E25=~z~~x~很适合你，衬出了你的眼睛。
 
 ;0x529E11EF=~z~~x~You're a man with taste.
-0x529E11EF=~z~~x~You're a man with taste.
+0x529E11EF=~z~~x~先生真有品味。
 
 ;0x6456B560=~z~~x~There's a man who knows what he wants.
-0x6456B560=~z~~x~There's a man who knows what he wants.
+0x6456B560=~z~~x~您的眼光真好。
 
 ;0xFC0164B3=~z~~x~I've got one of those myself.
-0xFC0164B3=~z~~x~I've got one of those myself.
+0xFC0164B3=~z~~x~这款我自己也有。
 
 ;0xD6A119F3=~z~~x~You're gonna look smokin' tonight.
-0xD6A119F3=~z~~x~You're gonna look smokin' tonight.
+0xD6A119F3=~z~~x~今晚你就是最靓的仔。
 
 ;0x74C5FAB1=~z~~x~Calm down, or I'll have to ask you to leave.
-0x74C5FAB1=~z~~x~Calm down, or I'll have to ask you to leave.
+0x74C5FAB1=~z~~x~注意点，不然就只能请您出去了。
 
 ;0xC8B6A6C9=~z~~x~This isn't a playground sweetie, grow up, or get out.
-0xC8B6A6C9=~z~~x~This isn't a playground sweetie, grow up, or get out.
+0xC8B6A6C9=~z~~x~这里不是游乐场，宝贝。不听话就滚蛋。
 
 ;0xC1F59947=~z~~x~Listen sweetie, stop tittying about and buy something!
-0xC1F59947=~z~~x~Listen sweetie, stop tittying about and buy something!
+0xC1F59947=~z~~x~听着宝贝，要买就买，不买滚蛋！
 
 ;0xF3E87D2C=~z~~x~Honey, you're treading a very thin line!
-0xF3E87D2C=~z~~x~Honey, you're treading a very thin line!
+0xF3E87D2C=~z~~x~甜心，你这样很危险！
 
 ;0xDEBA52D0=~z~~x~Get a grip already, you're not in Binko now!
-0xDEBA52D0=~z~~x~Get a grip already, you're not in Binko now!
+0xDEBA52D0=~z~~x~自制一点，这里不是杂牌服装店！
 
 ;0xDD3246D7=~z~~x~Are you crazy? Don't pull that out here!
-0xDD3246D7=~z~~x~Are you crazy? Don't pull that out here!
+0xDD3246D7=~z~~x~你疯了吗？别这么过分！
 
 ;0xEAF3E25A=~z~~x~Oh shit, please, don't shoot me!
-0xEAF3E25A=~z~~x~Oh shit, please, don't shoot me!
+0xEAF3E25A=~z~~x~操蛋，求你了，别打我！
 
 ;0xC1868F80=~z~~x~What the fuck are you doing?
-0xC1868F80=~z~~x~What the fuck are you doing?
+0xC1868F80=~z~~x~你他妈想干啥？
 
 ;0x41C20FF9=~z~~x~Look, take it easy, alright?
-0x41C20FF9=~z~~x~Look, take it easy, alright?
+0x41C20FF9=~z~~x~听着，放轻松，好吗？
 
 ;0x4F70AB56=~z~~x~Put that shit away before I call the cops!
-0x4F70AB56=~z~~x~Put that shit away before I call the cops!
+0x4F70AB56=~z~~x~放下武器，不然我报警了！
 
 ;0x055C9D6A=~z~~x~Nice, that's gonna get you noticed bro...
-0x055C9D6A=~z~~x~Nice, that's gonna get you noticed bro...
+0x055C9D6A=~z~~x~挺好，你会很醒目的，兄弟...
 
 ;0x59E24678=~z~~x~Alright, I bet you're gonna rock that look bro.
-0x59E24678=~z~~x~Alright, I bet you're gonna rock that look bro.
+0x59E24678=~z~~x~好吧，我看你这身能行，兄弟。
 
 ;0x9394B9DC=~z~~x~Good choice bro, got the same thing at home myself.
-0x9394B9DC=~z~~x~Good choice bro, got the same thing at home myself.
+0x9394B9DC=~z~~x~好眼力啊，兄弟，这款我也有一套。
 
 ;0x3E578F63=~z~~x~Nice, the ladies are gonna respond, trust me.
-0x3E578F63=~z~~x~Nice, the ladies are gonna respond, trust me.
+0x3E578F63=~z~~x~漂亮，姑娘们会动心的，真的。
 
 ;0xDE4769CB=~z~~x~Whoa, not cool bro.
-0xDE4769CB=~z~~x~Whoa, not cool bro.
+0xDE4769CB=~z~~x~喔哦，别这样，兄弟。
 
 ;0xF9091F52=~z~~x~Hey, take it outside, alright?
-0xF9091F52=~z~~x~Hey, take it outside, alright?
+0xF9091F52=~z~~x~喂，别在店里闹，懂吗？
 
 ;0xFB4623CC=~z~~x~Listen bro, you damage it, you're payin' for it.
-0xFB4623CC=~z~~x~Listen bro, you damage it, you're payin' for it.
+0xFB4623CC=~z~~x~听着兄弟，你弄坏的，你负责赔。
 
 ;0x7D5D7E6F=~z~~x~Hey, easy bro!
-0x7D5D7E6F=~z~~x~Hey, easy bro!
+0x7D5D7E6F=~z~~x~喂，放松，兄弟！
 
 ;0x4B839ABC=~z~~x~Whoa, take what you want man!
-0x4B839ABC=~z~~x~Whoa, take what you want man!
+0x4B839ABC=~z~~x~喔哦，你自己拿吧，兄弟！
 
 ;0x99A63700=~z~~x~Stay calm dude!
-0x99A63700=~z~~x~Stay calm dude!
+0x99A63700=~z~~x~老哥冷静点！
 
 ;0x4FA67214=~z~~x~What the fuck dude?
-0x4FA67214=~z~~x~What the fuck dude?
+0x4FA67214=~z~~x~老哥你干啥？
 
 ;0x215C9581=~z~~x~I did Wing Chun buddy, I'll kick your ass!
-0x215C9581=~z~~x~I did Wing Chun buddy, I'll kick your ass!
+0x215C9581=~z~~x~爷练过咏春拳，爷要打爆你！
 
 ;0x3333B92F=~z~~x~Alright, throw down Binco-style!
-0x3333B92F=~z~~x~Alright, throw down Binco-style!
+0x3333B92F=~z~~x~拜托，别一幅垃圾样！
 
 ;0x04D2DC6A=~z~~x~Oh yeah? This is LC baby, I've seen some shit, bring it!
-0x04D2DC6A=~z~~x~Oh yeah? This is LC baby, I've seen some shit, bring it!
+0x04D2DC6A=~z~~x~咋了？这可是自由城，小子，爷啥没见过，来啊！
 
 ;0x4EF1DA19=~z~~x~Oh no, not you again bro.
-0x4EF1DA19=~z~~x~Oh no, not you again bro.
+0x4EF1DA19=~z~~x~哦不，你不准进，兄弟。
 
 ;0x7DE337FB=~z~~x~I don't think so, try Binco.
-0x7DE337FB=~z~~x~I don't think so, try Binco.
+0x7DE337FB=~z~~x~你就算了，去穷鬼店吧。
 
 ;0x6BA09376=~z~~x~Nah, not today, not anyday.
-0x6BA09376=~z~~x~Nah, not today, not anyday.
+0x6BA09376=~z~~x~别，今天不行，以后也不行。
 
 ;0xD17A859B=~z~~x~Take it easy bro.
-0xD17A859B=~z~~x~Take it easy bro.
+0xD17A859B=~z~~x~别紧张，兄弟。
 
 ;0x0B2BF8FD=~z~~x~Have a good one.
-0x0B2BF8FD=~z~~x~Have a good one.
+0x0B2BF8FD=~z~~x~您慢走。
 
 ;0xB6F0D088=~z~~x~Later bro.
-0xB6F0D088=~z~~x~Later bro.
+0xB6F0D088=~z~~x~回见，兄弟。
 
 ;0x0D1B5117=~z~~x~Hey, how ya doin today?
-0x0D1B5117=~z~~x~Hey, how ya doin today?
+0x0D1B5117=~z~~x~嘿，你今天好吗？
 
 ;0x315899A1=~z~~x~Hey, you need any help, just holler, name's Mike.
-0x315899A1=~z~~x~Hey, you need any help, just holler, name's Mike.
+0x315899A1=~z~~x~嘿，有什么需求，您喊我，我是Mike。
 
 ;0x41A63A3C=~z~~x~Take your time bro, look around.
-0x41A63A3C=~z~~x~Take your time bro, look around.
+0x41A63A3C=~z~~x~别着急，兄弟，自己转转吧。
 
 ;0xF7463077=~z~~x~Whoa, what the fuck? You don't need that bro!
-0xF7463077=~z~~x~Whoa, what the fuck? You don't need that bro!
+0xF7463077=~z~~x~哇，搞毛啊？没必要这样，兄弟！
 
 ;0x9164E4B6=~z~~x~Easy buddy, just take it easy.
-0x9164E4B6=~z~~x~Easy buddy, just take it easy.
+0x9164E4B6=~z~~x~别啊，老哥，别这样。
 
 ;0x86EECFCA=~z~~x~Listen, I just work here, you can take what you like.
-0x86EECFCA=~z~~x~Listen, I just work here, you can take what you like.
+0x86EECFCA=~z~~x~听着，我就一打工的，店里东西随你拿。
 
 ;0x1071D705=~z~~x~Whoa, dude, were you in a Binco explosion or something?
-0x1071D705=~z~~x~Whoa, dude, were you in a Binco explosion or something?
+0x1071D705=~z~~x~哇，老哥，你是刚从卖抹布的地方出来吗？
 
 ;0x022FBA81=~z~~x~Bro, seriously, you're dressed like my dad dude.
-0x022FBA81=~z~~x~Bro, seriously, you're dressed like my dad dude.
+0x022FBA81=~z~~x~兄弟，说实话，你这穿的跟我爸似的。
 
 ;0xF23E1A9E=~z~~x~Dude, no offence, but did you walk here from Alderney or something?
-0xF23E1A9E=~z~~x~Dude, no offence, but did you walk here from Alderney or something?
+0xF23E1A9E=~z~~x~老哥，有一说一，你这是刚从隔壁Alderney大乡村过来的吗？
 
 ;0x08CA7789=~z~~x~Dude, nice threads.
-0x08CA7789=~z~~x~Dude, nice threads.
+0x08CA7789=~z~~x~老哥，衣服不错。
 
 ;0xFB015BF7=~z~~x~Nice.
-0xFB015BF7=~z~~x~Nice.
+0xFB015BF7=~z~~x~漂亮。
 
 ;0xE3ADAD50=~z~~x~Buddy, I think we've got just what you're after.
-0xE3ADAD50=~z~~x~Buddy, I think we've got just what you're after.
+0xE3ADAD50=~z~~x~伙计，我们这儿应该有你要的款式。
 
 ;0x2FF25044=~z~~x~Ok, thinking of a new look huh?
-0x2FF25044=~z~~x~Ok, thinking of a new look huh?
+0x2FF25044=~z~~x~懂了，你想换种风格是吧？
 
 ;0x89A983B5=~z~~x~Bro, you're in the right place, we can really help you out.
-0x89A983B5=~z~~x~Bro, you're in the right place, we can really help you out.
+0x89A983B5=~z~~x~兄弟，你这是来对店了，找我们准没错。
 
 ;0x9DEBAC39=~z~~x~So, after a new look buddy?
-0x9DEBAC39=~z~~x~So, after a new look buddy?
+0x9DEBAC39=~z~~x~你想换身行头，伙计？
 
 ;0x520FD90E=~z~~x~Nah, no way, I told you the last time.
-0x520FD90E=~z~~x~Nah, no way, I told you the last time.
+0x520FD90E=~z~~x~别，滚蛋，上次就跟你说了。
 
 ;0xF6D42298=~z~~x~You better split before I call LCPD.
-0xF6D42298=~z~~x~You better split before I call LCPD.
+0xF6D42298=~z~~x~你不走我可就报警了啊。
 
 ;0x2DF310D5=~z~~x~My hand is on the alarm, just give me a reason.
-0x2DF310D5=~z~~x~My hand is on the alarm, just give me a reason.
+0x2DF310D5=~z~~x~我已经准备好报警了，你别乱来。
 
 ;0xE6409445=~z~~x~Settle down dude, or you're out.
-0xE6409445=~z~~x~Settle down dude, or you're out.
+0xE6409445=~z~~x~安分点，老哥，不然请你滚蛋。
 
 ;0x62FB8DD9=~z~~x~Bro, this ain't a Binco, tone it down.
-0x62FB8DD9=~z~~x~Bro, this ain't a Binco, tone it down.
+0x62FB8DD9=~z~~x~兄弟，这里不是垃圾店，注意点。
 
 ;0xD0C5E96C=~z~~x~Buddy, I will throw your ass in the street, no problem.
-0xD0C5E96C=~z~~x~Buddy, I will throw your ass in the street, no problem.
+0xD0C5E96C=~z~~x~伙计，我要赶你出去了，来吧。
 
 ;0x612E53FA=~z~~x~Take the stick, Nicky. I'm gonna take the ladies.
-0x612E53FA=~z~~x~Take the stick, Nicky. I'm gonna take the ladies.
+0x612E53FA=~z~~x~你来开，Nicky。我负责把妹。
 
 ;0x726CF677=~z~~x~Yo, Nicky. You're flying this sucker. Me and the chicks will sit back and look good.
-0x726CF677=~z~~x~Yo, Nicky. You're flying this sucker. Me and the chicks will sit back and look good.
+0x726CF677=~z~~x~哟，Nicky。这玩意你来飞。我和姑娘们就坐后面看着。
 
 ;0x7BBB0913=~z~~x~Drive the chopper for us, NB. Okay?
-0x7BBB0913=~z~~x~Drive the chopper for us, NB. Okay?
+0x7BBB0913=~z~~x~替我们开下飞机，NB。OK？
 
 ;0xFBBB88FA=~z~~x~Use your mad red army flying skills on the chopper, NB. I'm gonna use my hard abs to impress these girls.
-0xFBBB88FA=~z~~x~Use your mad red army flying skills on the chopper, NB. I'm gonna use my hard abs to impress these girls.
+0xFBBB88FA=~z~~x~用你的牛逼红军飞行技术开直升机，NB。我要用我的钢铁腹肌征服这些妹子。
 
 ;0x0D4F2C21=~z~~x~Can you drive the chopper for us? You're a fucking winner, Nicky. Don't forget that, bro.
-0x0D4F2C21=~z~~x~Can you drive the chopper for us? You're a fucking winner, Nicky. Don't forget that, bro.
+0x0D4F2C21=~z~~x~能麻烦你替我们开直升机吗？你丫可是赢家啊，Nicky，这可别忘了，兄弟。
 
 ;0x181141A5=~z~~x~The ladies and I are gonna need our hands. You fly the chopper, homie.
-0x181141A5=~z~~x~The ladies and I are gonna need our hands. You fly the chopper, homie.
+0x181141A5=~z~~x~姑娘和我都腾不出手。飞机你开，哥们儿。
 
 ;0xD2C7BC86=~z~~x~Take us over to Broker Bridge. That thing is almost as cut as my delts.
 0xD2C7BC86=~z~~x~带大家去看Broker大桥。那玩意跟我的三角肌一样棱角分明。
@@ -29046,19 +29046,19 @@
 0xDD41589B=~z~~x~要不是我身材这么好，说不定就把你当我的对手了。回去吧，兄弟。
 
 ;0xDCA6DC04=~z~~x~How about we show these ladies Dragon Heart Plaza from the air, bro?
-0xDCA6DC04=~z~~x~How about we show these ladies Dragon Heart Plaza from the air, bro?
+0xDCA6DC04=~z~~x~这次就让她们从空中见识下龙心广场吧，兄弟？
 
 ;0xBF76E918=~z~~x~This is the life, ain't it girls? Flying over the city with a pair of rock hard studs.
-0xBF76E918=~z~~x~This is the life, ain't it girls? Flying over the city with a pair of rock hard studs.
+0xBF76E918=~z~~x~这才是生活啊，姑娘们。与两匹铁打的骏马在城市上空飞翔。
 
 ;0xEBE841F6=~z~~x~Something to tell your grandkids, man. You should go back, homie.
-0xEBE841F6=~z~~x~Something to tell your grandkids, man. You should go back, homie.
+0xEBE841F6=~z~~x~都可以讲给孙子孙女听了。该回去了，哥们儿。
 
 ;0x4AC6875E=~z~~x~You can't pay for a view like that.
-0x4AC6875E=~z~~x~You can't pay for a view like that.
+0x4AC6875E=~z~~x~这种风景花钱都没地方看的。
 
 ;0x3D746CBA=~z~~x~I mean if you could, I'd be able to afford it anyway! Let's head back, Nicky.
-0x3D746CBA=~z~~x~I mean if you could, I'd be able to afford it anyway! Let's head back, Nicky.
+0x3D746CBA=~z~~x~就算真有地方看，我也掏得起那钱！该回去了，Nicky。
 
 ;0xC1CE55AC=~z~~x~I'm feeling religious vibes here, NB. We should pass over the Columbus Cathedral.
 0xC1CE55AC=~z~~x~我有点想去宗教圣地，NB。我们去哥伦布大教堂吧。
@@ -29070,25 +29070,25 @@
 0xA86D95FF=~z~~x~哟，去三角大楼那边吧，Nicky。那里有点好康的给姑娘们看。
 
 ;0x4BFFD3E8=~z~~x~This is how it is when you roll with the big boys, hitting it hard. Let's go back, Nicky.
-0x4BFFD3E8=~z~~x~和纯爷们在一起就是这种感觉，超级稳健。回去吧，Nicky。
+0x4BFFD3E8=~z~~x~和纯爷们在一起就是这种感觉，超级稳健。可以回去了，Nicky。
 
 ;0x798770B5=~z~~x~Why don't we go to the Get a Life Building, NB?
-0x798770B5=~z~~x~Why don't we go to the Get a Life Building, NB?
+0x798770B5=~z~~x~要么这次去GetaLife大厦吧，NB？
 
 ;0x6FB15D09=~z~~x~Buzz the tower. Show them what life really is like for those who know how.
-0x6FB15D09=~z~~x~Buzz the tower. Show them what life really is like for those who know how.
+0x6FB15D09=~z~~x~全速前进。让她们见识下有品味的生活方式。
 
 ;0xBC3D44F9=~z~~x~Man, we're winners. Do you know anyone like us, girls? C'mon, we're fucking beautiful. Head back, Nicky.
-0xBC3D44F9=~z~~x~Man, we're winners. Do you know anyone like us, girls? C'mon, we're fucking beautiful. Head back, Nicky.
+0xBC3D44F9=~z~~x~天，我们是人生赢家。没见过我们这样的吧，姑娘们？真的，我们是一流的。回去吧，Nicky。
 
 ;0xBB7F9295=~z~~x~Head over to that standing erection, homie. Let these ladies check out the length of it.
-0xBB7F9295=~z~~x~Head over to that standing erection, homie. Let these ladies check out the length of it.
+0xBB7F9295=~z~~x~去看那个一柱擎天，哥们儿。让姑娘们见识下它的长度。
 
 ;0x5112E7E2=~z~~x~It's fucking beautiful, man. I love that shit. If I was that big chimp I'd climb it too.
-0x5112E7E2=~z~~x~It's fucking beautiful, man. I love that shit. If I was that big chimp I'd climb it too.
+0x5112E7E2=~z~~x~太鸡巴漂亮了，兄弟。我爱死它了。我是那只大猩猩的话也会爬上去的*。~n~(指电影中金刚爬上当时纽约最高楼的帝国大厦)
 
 ;0x3ED9436F=~z~~x~My arms aren't probably as big as his but fuck it. Hey, head back, Niko.
-0x3ED9436F=~z~~x~My arms aren't probably as big as his but fuck it. Hey, head back, Niko.
+0x3ED9436F=~z~~x~虽说我的四肢没它那么发达，不过都无所谓。嘿，调头，Niko。
 
 ;0x22560C75=~z~~x~Get lower, Nicky.
 0x22560C75=~z~~x~下降啊，Nicky。
@@ -29139,7 +29139,7 @@
 0x12F16FCD=~z~~x~你是真正的绅士，Nicky。大爱，宝贝。
 
 ;0x94647251=~z~~x~That was a wild ride, Nicky. Not as wild as the ride you girls are gonna get later, but, yeah - thanks man.
-0x94647251=~z~~x~That was a wild ride, Nicky. Not as wild as the ride you girls are gonna get later, but, yeah - thanks man.
+0x94647251=~z~~x~这段旅途实在是爽啊，Nicky。不过两位女士待会儿的经历会更爽。谢了兄弟。
 
 ;0x269D16C4=~z~~x~Nicky, you work that thing like a fucking professional, alright? You're a winner just like me, bro.
 0x269D16C4=~z~~x~Nicky，你丫开直升机也太熟练了吧？你也是我这样的人生赢家，兄弟。
@@ -29148,40 +29148,40 @@
 0x78C0BB0A=~z~~x~从来没见过吧，姑娘们，没见过吧？这就是我们的风格，宝贝。向着极限前进。
 
 ;0x8B035F8F=~z~~x~These girls were impressed, Nicky. They don't know that we roll like this everyday. We're winners, man.
-0x8B035F8F=~z~~x~These girls were impressed, Nicky. They don't know that we roll like this everyday. We're winners, man.
+0x8B035F8F=~z~~x~俩姑娘这下终身难忘了，Nicky。她们不知道这是我们的日常生活。我们是赢家啊，兄弟。
 
 ;0x4C2AE1DF=~z~~x~That's it ladies. The show is over. All you get to look at is Brucie's body. Lucky you.
-0x4C2AE1DF=~z~~x~That's it ladies. The show is over. All you get to look at is Brucie's body. Lucky you.
+0x4C2AE1DF=~z~~x~就到这里了，姑娘们。演出结束了。现在你们只需要看着Brucie的身体就行了，你们真走运。
 
 ;0x70FEE207=~z~~x~Shit, homie. I'm starting to get bored of this chopper shit.
-0x70FEE207=~z~~x~Shit, homie. I'm starting to get bored of this chopper shit.
+0x70FEE207=~z~~x~操，哥们儿。直升机这玩意我都快乘腻了。
 
 ;0x833C8682=~z~~x~It costs a lot but no one can tell you're spending the money because you're way up in the fucking sky. You know what I mean?
-0x833C8682=~z~~x~It costs a lot but no one can tell you're spending the money because you're way up in the fucking sky. You know what I mean?
+0x833C8682=~z~~x~直升机超烧钱，但你在天上飞，别人不知道你在烧钱。能明白我的意思吗？
 
 ;0xC8848730=~z~~x~Why don't us players show the girls how we roll? Go check out the Zirconium building.
-0xC8848730=~z~~x~Why don't us players show the girls how we roll? Go check out the Zirconium building.
+0xC8848730=~z~~x~向姑娘们展示下我们两个大赢家的日常吧！去看看Zirconium大楼。
 
 ;0x3FE3EE67=~z~~x~Wassup homie?
-0x3FE3EE67=~z~~x~Wassup homie?
+0x3FE3EE67=~z~~x~怎么了，哥们儿？
 
 ;0x28C5C02B=~z~~x~Hussle baby, Brucie don't wait for no man!
-0x28C5C02B=~z~~x~Hussle baby, Brucie don't wait for no man!
+0x28C5C02B=~z~~x~快点，宝贝，Brucie不等人！
 
 ;0x1C5E275C=~z~~x~Don't you love this country, NB?
-0x1C5E275C=~z~~x~Don't you love this country, NB?
+0x1C5E275C=~z~~x~你会不爱这个国家吗，NB？
 
 ;0x51CE5875=~z~~x~Me and Nicky are the tightest motherfuckers in the city. That's a fact. Cruise back now, homie.
-0x51CE5875=~z~~x~Me and Nicky are the tightest motherfuckers in the city. That's a fact. Cruise back now, homie.
+0x51CE5875=~z~~x~我和Nicky是这座城市最铁的两兄弟，事实如此。返航吧，哥们儿。
 
 ;0x8120B3C3=~z~~x~Let's hit up the driving range, Nicky.
-0x8120B3C3=~z~~x~Let's hit up the driving range, Nicky.
+0x8120B3C3=~z~~x~我们去练球场吧，Nicky。
 
 ;0x92E15744=~z~~x~We can laugh at those silver medallists who don't have the cabbage to buy boats. Ha ha haaa!
-0x92E15744=~z~~x~We can laugh at those silver medallists who don't have the cabbage to buy boats. Ha ha haaa!
+0x92E15744=~z~~x~还能好好笑话笑话那些买不起船的万年老二。哈哈！
 
 ;0xDBF6178C=~z~~x~I could hit a ball harder than any of them, check out these triceps. Head back, Nicky.
-0xDBF6178C=~z~~x~I could hit a ball harder than any of them, check out these triceps. Head back, Nicky.
+0xDBF6178C=~z~~x~我随手来一球都比他们猛，三头肌不是白练的。调头，Nicky。
 
 ;0x9AD5410F=~z~~x~Maybe we should show these ladies some industrial shit. Make it so, Nicky.
 0x9AD5410F=~z~~x~给她们展示些工业风格吧。听我的，Nicky。
@@ -29190,34 +29190,34 @@
 0xD37EFAB8=~z~~x~很壮观吧？比起我小腿的肌肉还是差了些，不过没事。回去吧，Nicky。
 
 ;0x9281E9DA=~z~~x~Let's show these girls those crazy rusted up ships, Nicky. Industrial decline, man.
-0x9281E9DA=~z~~x~Let's show these girls those crazy rusted up ships, Nicky. Industrial decline, man.
+0x9281E9DA=~z~~x~带姑娘们看看那些超炫的铁锈沉船吧，Nicky。工业衰退啊，兄弟。
 
 ;0x84404D57=~z~~x~The exact opposite of me - yeah, scientific progress.
-0x84404D57=~z~~x~The exact opposite of me - yeah, scientific progress.
+0x84404D57=~z~~x~跟我完全相反，我是科学进步。
 
 ;0x05225AB2=~z~~x~Ladies, looking at my body,
-0x05225AB2=~z~~x~Ladies, looking at my body,
+0x05225AB2=~z~~x~姑娘们，看看我的躯体，
 
 ;0xD3A2F7A8=~z~~x~you got to know I think things should be kept in perfect condition. Head back, Niko.
-0xD3A2F7A8=~z~~x~you got to know I think things should be kept in perfect condition. Head back, Niko.
+0xD3A2F7A8=~z~~x~你们一定明白保持完美状态有多重要了。调头，Niko。
 
 ;0x0BAAD064=~z~~x~Watch the boat, Nicky.
-0x0BAAD064=~z~~x~Watch the boat, Nicky.
+0x0BAAD064=~z~~x~别翻船了，Nicky。
 
 ;0xEB648FD8=~z~~x~Easy, Nicky. I don't want to get these clothes wet, man.
-0xEB648FD8=~z~~x~Easy, Nicky. I don't want to get these clothes wet, man.
+0xEB648FD8=~z~~x~放松，Nicky。我可不想把衣服弄湿，兄弟。
 
 ;0x5937EB7D=~z~~x~Come on, homie. The ladies and I don't want to swim.
-0x5937EB7D=~z~~x~Come on, homie. The ladies and I don't want to swim.
+0x5937EB7D=~z~~x~别这样，哥们儿。我和姑娘们没考虑游泳。
 
 ;0xD6F3E6F7=~z~~x~This is an expensive paint job, NB. Not that I give a shit about money. I got shitloads of it.
-0xD6F3E6F7=~z~~x~This is an expensive paint job, NB. Not that I give a shit about money. I got shitloads of it.
+0xD6F3E6F7=~z~~x~这船涂装很贵的，NB。不是说我出不起那钱，要钱我有的是。
 
 ;0xD23CDD89=~z~~x~I like my boat to look as good as my body. Watch the paintwork, homie.
-0xD23CDD89=~z~~x~I like my boat to look as good as my body. Watch the paintwork, homie.
+0xD23CDD89=~z~~x~我希望船能和我的肉体一样完美。别刮花了，兄弟。
 
 ;0x1F5DDB9C=~z~~x~Nicky, the ladies and me are real grateful, brother.
-0x1F5DDB9C=~z~~x~Nicky, the ladies and me are real grateful, brother.
+0x1F5DDB9C=~z~~x~Nicky，我和姑娘们都很感谢你，兄弟。
 
 ;0x2C97F610=~z~~x~Nicely done, Nicky. You are a winner, just like Brucie. Ain't that right, ladies?
 0x2C97F610=~z~~x~真是出色，Nicky。你就是赢家，跟Brucie一样。我没说错吧，女士们？
@@ -29226,31 +29226,31 @@
 0xFADD129B=~z~~x~你随时都可以来上我的船，其实几位女士也可以上，不过她们只想要Brucie。
 
 ;0x86FF2AE5=~z~~x~NB, you must have learned that shit in the red army. Mad crazy. We all love you, bro.
-0x86FF2AE5=~z~~x~NB, you must have learned that shit in the red army. Mad crazy. We all love you, bro.
+0x86FF2AE5=~z~~x~NB，你是在红军学的开船吧。太牛逼了。我们爱死你了，Niko。
 
 ;0x56454972=~z~~x~Thanks for being the pilot, Nicky. I would have let these chicks thank you but I got plans for them. Yeah!
 0x56454972=~z~~x~感谢你替我开船，Nicky。我是想让她俩好好谢谢你，不过她们我早有安排。耶！
 
 ;0x6453658E=~z~~x~Ice cold Nicky, you're a fucking prince. He's a prince, ain't he ladies? Ain't he?
-0x6453658E=~z~~x~Ice cold Nicky, you're a fucking prince. He's a prince, ain't he ladies? Ain't he?
+0x6453658E=~z~~x~冷面无情Nicky，你丫就是个亲王。他就是亲王，你说呢，姑娘们？
 
 ;0x80F9CA71=~z~~x~You wanna be captain, Nicky? I want to give these women all my attention.
-0x80F9CA71=~z~~x~You wanna be captain, Nicky? I want to give these women all my attention.
+0x80F9CA71=~z~~x~船长就你当吧，Nicky？我想全身心投入到两位女士身上。
 
 ;0x3B0CBE94=~z~~x~You're taking charge of the ship, Nicky. I'm taking charge of these ladies.
-0x3B0CBE94=~z~~x~You're taking charge of the ship, Nicky. I'm taking charge of these ladies.
+0x3B0CBE94=~z~~x~你负责掌舵，Nicky。我负责把妹。
 
 ;0x247E9178=~z~~x~Drive the boat for us, homie.
-0x247E9178=~z~~x~Drive the boat for us, homie.
+0x247E9178=~z~~x~替我们开个船，哥们儿。
 
 ;0xDE8C8595=~z~~x~You're the captain, Nicky. Me and these hot chicks are the crew.
-0xDE8C8595=~z~~x~You're the captain, Nicky. Me and these hot chicks are the crew.
+0xDE8C8595=~z~~x~你是船长，Nicky。我跟这两个辣妹只是船员。
 
 ;0x47F65867=~z~~x~Homie, you're going to have to drive. I need both my hands free to handle these chicks.
-0x47F65867=~z~~x~Homie, you're going to have to drive. I need both my hands free to handle these chicks.
+0x47F65867=~z~~x~哥们儿，船只能你来开。我的两只手都要用来把妹。
 
 ;0xA5D81415=~z~~x~Nicky, I need you to drive the boat. That cool?
-0xA5D81415=~z~~x~Nicky, I need you to drive the boat. That cool?
+0xA5D81415=~z~~x~Nicky，我需要你来开船，可以吗？
 
 ;0x9E046E2D=~z~~x~Take us over to the Statue of Happiness. That's some intense shit.
 0x9E046E2D=~z~~x~带大家去看幸福女神像*，那玩意老牛逼了。~n~(配音是Statue of Freedom，与字幕不符)
@@ -29265,100 +29265,100 @@
 0x8A1EE1F9=~z~~x~你们二位根本没心思参观吧。满脑子都是我的胸肌，对不对？我们回去吧，Nicky。
 
 ;0x71256D03=~z~~x~Cruise over to Pier 45, Nicky. We ride in style.
-0x71256D03=~z~~x~Cruise over to Pier 45, Nicky. We ride in style.
+0x71256D03=~z~~x~向45号码头进发，Nicky。我们霸气出航。
 
 ;0x628F68AB=~z~~x~Nicky, man. We're fucking winners. We don't wanna get labelled as sailors or something, ok?
-0x628F68AB=~z~~x~Nicky, man. We're fucking winners. We don't wanna get labelled as sailors or something, ok?
+0x628F68AB=~z~~x~Nicky，兄弟。我们就是牛逼赢家。我们可不想被人当作什么傻逼水手，OK？
 
 ;0x71BD86FF=~z~~x~We're animals, we need to hunt on dry land. I'm done with this boating shit.
-0x71BD86FF=~z~~x~We're animals, we need to hunt on dry land. I'm done with this boating shit.
+0x71BD86FF=~z~~x~我们是猛兽，我们要在陆地上狩猎。开船的事暂时就到这儿了。
 
 ;0xE6EBA870=~z~Wha'gwan Niko? How's it going?
-0xE6EBA870=~z~Wha'gwan Niko? How's it going?
+0xE6EBA870=~z~怎么样，Niko？你还好吗？
 
 ;0x4E76778C=~z~Dat's me main man, Niko.
-0x4E76778C=~z~Dat's me main man, Niko.
+0x4E76778C=~z~是我的好兄弟，Niko。
 
 ;0x0AAEEFF6=~z~Righteous, bredren. Good fe see de I.
-0x0AAEEFF6=~z~Righteous, bredren. Good fe see de I.
+0x0AAEEFF6=~z~正点，兄弟。很高兴见到你。
 
 ;0xD8340B01=~z~Wagwan Niko? Good fe see de man.
-0xD8340B01=~z~Wagwan Niko? Good fe see de man.
+0xD8340B01=~z~你好吗，Niko？很高兴见到你。
 
 ;0xA601A69D=~z~Wicked Niko, yah here.
-0xA601A69D=~z~Wicked Niko, yah here.
+0xA601A69D=~z~赞诶，Niko，你来啦。
 
 ;0xBC0D439C=~z~Yeah man, me have di heavy firepower ya need, ya know man.
-0xBC0D439C=~z~Yeah man, me have di heavy firepower ya need, ya know man.
+0xBC0D439C=~z~是的，兄弟，我有你要的重火力，懂吧。
 
 ;0x6E1D27C9=~z~All de heat is right here, seen?
-0x6E1D27C9=~z~All de heat is right here, seen?
+0x6E1D27C9=~z~家伙都在这儿了，懂？
 
 ;0x97557A39=~z~I got some teeth inna here ya know, bredren.
-0x97557A39=~z~I got some teeth inna here ya know, bredren.
+0x97557A39=~z~我这儿是有点家伙在，兄弟。
 
 ;0x8982DE94=~z~Everyting a mafia don could want innna dis shit.
-0x8982DE94=~z~Everyting a mafia don could want innna dis shit.
+0x8982DE94=~z~混黑帮的需要的东西我全都有。
 
 ;0xB9255713=~z~Yeah man, check this shit out ma bredren.
-0xB9255713=~z~Yeah man, check this shit out ma bredren.
+0xB9255713=~z~是的，兄弟，你尽管挑吧，好兄弟。
 
 ;0xF3FDCCCB=~z~I an' I got nuff guns ya know, my youth.
-0xF3FDCCCB=~z~I an' I got nuff guns ya know, my youth.
+0xF3FDCCCB=~z~我这儿有的是枪懂吧，小子。
 
 ;0x95B01029=~z~What? You feeling this?
-0x95B01029=~z~What? You feeling this?
+0x95B01029=~z~咋了？你没感觉？
 
 ;0xD0B20634=~z~There it be and ting.
-0xD0B20634=~z~There it be and ting.
+0xD0B20634=~z~都在这里了。
 
 ;0x02386940=~z~It all there, me breda.
-0x02386940=~z~It all there, me breda.
+0x02386940=~z~就是这些，好兄弟。
 
 ;0x3A060CC0=~z~Cha! What ya are do Niko?
-0x3A060CC0=~z~Cha! What ya are do Niko?
+0x3A060CC0=~z~擦！你在干什么，Niko？
 
 ;0x742A8108=~z~Why ya fucking around and ting?
-0x742A8108=~z~Why ya fucking around and ting?
+0x742A8108=~z~你他妈在乱搞些什么？
 
 ;0x866A2587=~z~Ya been blacking up too much me breda?
-0x866A2587=~z~Ya been blacking up too much me breda?
+0x866A2587=~z~你是哈草哈多了吗，兄弟？
 
 ;0xDB88CFC3=~z~Niko, ya need fe calm yourself down.
-0xDB88CFC3=~z~Niko, ya need fe calm yourself down.
+0xDB88CFC3=~z~Niko，你要好好冷静一下。
 
 ;0xE9EF6C90=~z~Cha, Niko. What kind of fuckery's a go on?
-0xE9EF6C90=~z~Cha, Niko. What kind of fuckery's a go on?
+0xE9EF6C90=~z~擦，Niko。这他妈是搞毛线？
 
 ;0xA2196369=~z~Cha, me need fe get outta here me bredren, later.
-0xA2196369=~z~Cha, me need fe get outta here me bredren, later.
+0xA2196369=~z~擦，我要先离开这儿了，好兄弟，回见。
 
 ;0x942EC794=~z~I hot stepping outa here Niko. See ya.
-0x942EC794=~z~I hot stepping outa here Niko. See ya.
+0x942EC794=~z~我要细软跑了，Niko。再见。
 
 ;0x82702417=~z~I and I best clear outta here before Babylon arrive.
-0x82702417=~z~I and I best clear outta here before Babylon arrive.
+0x82702417=~z~我最好在条子来之前赶紧跑路。
 
 ;0x74AA088B=~z~Yo, I and I should be geting outta here bredren.
-0x74AA088B=~z~Yo, I and I should be geting outta here bredren.
+0x74AA088B=~z~哟，我们该走人了，兄弟。
 
 ;0x66F26D1C=~z~Yo, dis rasta be getting outta here. Later.
-0x66F26D1C=~z~Yo, dis rasta be getting outta here. Later.
+0x66F26D1C=~z~哟，老兄我要先走一步了。回见。
 
 ;0xB93C303D=~z~One love, Niko. I and I be seeing each other real soon.
-0xB93C303D=~z~One love, Niko. I and I be seeing each other real soon.
+0xB93C303D=~z~再见，Niko。我们马上就会再见的。
 
 ;0x86CACB5B=~z~Irie, Niko. Gimme a call.
-0x86CACB5B=~z~Irie, Niko. Gimme a call.
+0x86CACB5B=~z~好了，Niko。有空找我。
 
 ;0x0466C691=~z~Later my youth. Call me and ting.
-0x0466C691=~z~Later my youth. Call me and ting.
+0x0466C691=~z~回见，小伙子。有空记得找我。
 
 ;0x1224620C=~z~Keep outta trouble bredren. I and I see ya soon.
-0x1224620C=~z~Keep outta trouble bredren. I and I see ya soon.
+0x1224620C=~z~祝你平平安安，兄弟。日后再见。
 
 ;0x00123DE8=~z~Later on Niko. Easy.
-0x00123DE8=~z~Later on Niko. Easy.
+0x00123DE8=~z~回见，Niko。就这。
 
 ;0x8AAE78BF=Dummy label.
 0x8AAE78BF=Dummy label.

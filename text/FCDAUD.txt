@@ -84,7 +84,7 @@
 0x2466AA26=010
 
 ;0x246FB6B0=~z~Hey man, I get emotional when that drink is in me. I can't deal with that shit so soon after last time.
-0x246FB6B0=~z~嘿，老哥，我上次喝酒喝的太嗨了，我现在还没有这么快缓过来。
+0x246FB6B0=~z~嘿，老哥，我上次喝酒喝得太嗨了，我现在还没有这么快缓过来。
 
 ;0x25234EB1=~z~Can you come bowling?
 0x25234EB1=~z~你可以来打保龄球吗？
@@ -265,7 +265,7 @@
 0x5E459499=~z~现在不行，小子。我要改善我的生活。现在最不需要的就是去脱衣舞夜店自找麻烦。
 
 ;0x60F8290C=~z~Bowling? Sure. It'll be just like in the movies. I'll head over to you.
-0x60F8290C=~z~保龄球？当然了，就像在电影里那样，我马上过来。
+0x60F8290C=~z~保龄球？当然了，打保龄球就像活在电影里。我马上过来。
 
 ;0x61C60DFE=~z~I'm bored - you wanna play some video games?
 0x61C60DFE=~z~我有点无聊-你想打游戏吗？
@@ -451,7 +451,7 @@
 0x8EFB908E=~z~嘿兄弟，想出去吃一顿吗？
 
 ;0x8EFED9C0=~z~For real, I need me some cardiac right now. Come get me from my crib.
-0x8EFED9C0=~z~说真的，我现在需要一点心脏病药。帮我从我公寓里拿点来。
+0x8EFED9C0=~z~说真的，我现在是需要点刺激的。来我公寓接我。
 
 ;0x8FFC40D7=FCD_ACT_PDW_CALL_GAMES
 0x8FFC40D7=FCD_ACT_PDW_CALL_GAMES
@@ -664,7 +664,7 @@
 0xCF3EBADB=FCD_ACT_GETCALL_BOWL
 
 ;0xCF64A335=~z~So, you wanna go bowling?
-0xCF64A335=~z~那么，你想去打保龄球吗？
+0xCF64A335=~z~那个，你想打保龄球吗？
 
 ;0xCFC75B23=FCD_ACT_CALL_GAMES_YES
 0xCFC75B23=FCD_ACT_CALL_GAMES_YES
@@ -691,7 +691,7 @@
 0xD3BADEE4=FCD_ACT_CALL_STRIP_NO_GENERAL
 
 ;0xD3FF541C=~z~Dwayne? It's me.
-0xD3FF541C=~z~Dwayne? 是我。
+0xD3FF541C=~z~Dwayne？是我。
 
 ;0xD64C3DD4=~z~You still alive, motherfucker? You lost my number? It's Dwayne, I hope we still tight. Anyway...
 0xD64C3DD4=~z~还没死啊，傻逼东西？把我号码弄丢了？我是Dwayne，希望我们还没断。算了...
@@ -802,7 +802,7 @@
 0xFBC173BB=~z~不了兄弟，我需要保持我的头脑清醒。下次再说吧。
 
 ;0xFC1A282B=~z~We seem to do a lot of eating, son. Maybe later.
-0xFC1A282B=~z~我们好像出去吃的太多了。下次吧。
+0xFC1A282B=~z~我们好像吃得太频繁了。下次吧。
 
 ;0xFD57A2A1=FCD_ACT_ANSWER_PHONE
 0xFD57A2A1=FCD_ACT_ANSWER_PHONE
