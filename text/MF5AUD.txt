@@ -9,13 +9,13 @@
 0x00E5306F=MF3_C_MA
 
 ;0x012F69F1=~z~Perhaps. That man who I worked for, Ray Boccino. I was asked to kill him and I did.
-0x012F69F1=~z~也许吧。那个跟我一起做过事的人，Ray Boccino。我被要求去杀了他，而我也确实杀了他。
+0x012F69F1=~z~也许吧。那个跟我一起做过事的人，Ray Boccino。我被下令去杀了他，而我也确实杀了他。
 
 ;0x035C2399=~z~I'm getting married to the beautiful Mallorie. How is the best man?
 0x035C2399=~z~我要娶美丽的Mallorie了。伴郎先生怎么样啊？
 
 ;0x03793A81=~z~Niko, there you are. Tell me what's happening in the exciting world of the gun for a hire?
-0x03793A81=~z~Niko，你在啊。告诉我雇佣枪手的刺激世界又有什么发生了吗？
+0x03793A81=~z~Niko，你在啊。告诉我雇佣枪手的刺激世界又发生了什么吧？
 
 ;0x0396D9BE=~z~Fantastic cousin. Mallorie is going to make me the happiest groom on earth. How are you?
 0x0396D9BE=~z~超级棒，堂弟。Mallorie会让我成为世界上最幸福的新郎。你怎么样？
@@ -69,7 +69,7 @@
 0x10CBDBE6=MF3_C_LB
 
 ;0x10D2552F=~z~This guy called Ray Boccino has had me working with this guy from the Lost biker gang called Johnny,
-0x10D2552F=~z~这个叫Ray Boccino的人让我和一个来自失落摩托帮的Johnny一起做事。
+0x10D2552F=~z~这个叫Ray Boccino的人让我和来自失落摩托帮的Johnny一起，
 
 ;0x116F755B=~z~Thanks, for putting things in perspective, Roman. Later on.
 0x116F755B=~z~感谢你能提供不同的观点，Roman。回见。
@@ -114,7 +114,7 @@
 0x1DE9EE4F=MF3_C_IC
 
 ;0x1E092FA0=~z~You are a Bellic, remember, and you can't help playing the field. You don't want her getting jealous.
-0x1E092FA0=~z~You are a Bellic, remember, and you can't help playing the field. You don't want her getting jealous.
+0x1E092FA0=~z~你可是Bellic家的，记住，你就是爱脚踏几条船。你也不想她吃醋吧。
 
 ;0x1E55DAE2=010100100010
 0x1E55DAE2=010100100010
@@ -144,7 +144,7 @@
 0x263466AE=MF3_C_ED
 
 ;0x29314638=~z~I thought this time would come, Niko, but, to be honest,
-0x29314638=~z~我早知道这一刻会来，Niko，不过说实话，
+0x29314638=~z~我就知道会有这一刻，Niko，不过说实话，
 
 ;0x2986731E=MF3_C_EE
 0x2986731E=MF3_C_EE
@@ -177,7 +177,7 @@
 0x2E3206A6=MF3_C_EL
 
 ;0x2E360FFA=~z~Shit, Niko, you're involved with one of the five families?
-0x2E360FFA=~z~我靠，Niko，你跟五大家族中的一个扯上关系了？
+0x2E360FFA=~z~我靠，Niko，你跟五大家族之一扯上关系了？
 
 ;0x2FF904B7=~z~There is no cut of the diamonds, the ice got jacked when we tried to sell them.
 0x2FF904B7=~z~没有钻石的分成了，我们卖钻石的时候钻石被人抢了。
@@ -213,7 +213,7 @@
 0x378ACD74=~z~一直这样，Roman。尽力而为嘛，至少在替这些Alderney黑道做事的时候是这样。
 
 ;0x38671433=~z~Who is the lucky lady?
-0x38671433=~z~Who is the lucky lady?
+0x38671433=~z~那个女人命这么好啊？
 
 ;0x39338659=MF3_C_FD
 0x39338659=MF3_C_FD
@@ -231,7 +231,7 @@
 0x3A490AE2=MF3_C_JD
 
 ;0x3BBBAB05=~z~At the moment, it's the Mafia.
-0x3BBBAB05=~z~这次的话，是Mafia。
+0x3BBBAB05=~z~这次的话，是黑手党。
 
 ;0x3C096617=010100010100
 0x3C096617=010100010100
@@ -294,7 +294,7 @@
 0x4A32FD6E=MF3_C_FJ
 
 ;0x4A41B7E8=~z~Roman, you'd never believe it but I met this girl on Craplist.
-0x4A41B7E8=~z~Roman, you'd never believe it but I met this girl on Craplist.
+0x4A41B7E8=~z~Roman，你肯定不敢相信，但我在Craplist约到妹子了。
 
 ;0x4A8F42B8=MF3_C_EM
 0x4A8F42B8=MF3_C_EM
@@ -333,13 +333,13 @@
 0x58657441=~z~没有我的伴郎怎么能行呢？
 
 ;0x59B266F2=~z~The Lost? Those guys are meant to be really dangerous, cousin.
-0x59B266F2=~z~Lost？那些人都很危险的，堂弟。
+0x59B266F2=~z~失落帮？那些人都很危险的，堂弟。
 
 ;0x5A0DD6FD=~z~Not when it means me getting beat up and sent to hospital. Come and pick me up, cousin.
 0x5A0DD6FD=~z~那也不是在我被人暴打送进医院的时候啊。过来接我，堂弟。
 
 ;0x5BE1DB28=~z~It's all sport, NB. Have some fun with her. Later on, cousin. I'm proud of you.
-0x5BE1DB28=~z~It's all sport, NB. Have some fun with her. Later on, cousin. I'm proud of you.
+0x5BE1DB28=~z~就当是玩玩吧，NB。祝你玩得愉快。回见，堂弟。我为你骄傲。
 
 ;0x5BF98FB2=MF3_C_OA
 0x5BF98FB2=MF3_C_OA
@@ -354,7 +354,7 @@
 0x5E3023ED=~z~不太暴力的一条路。我会再和你联系的，好吧？
 
 ;0x5E6341E5=~z~Maybe you should come to the cab office and help me out?
-0x5E6341E5=~z~你能不能来车行帮我一下？
+0x5E6341E5=~z~要么你来车行帮我一下吧？
 
 ;0x602281DD=MF3_C_WD
 0x602281DD=MF3_C_WD
@@ -381,7 +381,7 @@
 0x6441F7A9=~z~Roman，近况如何啊？
 
 ;0x64A3B101=~z~Enjoy her, Cousin. Later on.
-0x64A3B101=~z~Enjoy her, Cousin. Later on.
+0x64A3B101=~z~享用她吧，堂弟。回见。
 
 ;0x64C127E0=~z~What're they like, NB? The gangsters?
 0x64C127E0=~z~他们怎么样，NB？那些黑道？
@@ -414,13 +414,13 @@
 0x6B3FF961=~z~你至少也得摸到她的奶子吧？那样的话你的背叛倒还算值得。
 
 ;0x6B7D4AD3=~z~Shame on you, Niko Bellic. You should know better than this. Who is she? Who'd you take her for?
-0x6B7D4AD3=~z~真是可耻，Niko Bellic。你自己也知道的。她是谁？你绑架她是要干什么？
+0x6B7D4AD3=~z~真是可耻，Niko Bellic。你自己也知道的。她是谁？谁让你绑架她的？
 
 ;0x6BA43EEE=~z~Cousin.
-0x6BA43EEE=~z~Cousin.
+0x6BA43EEE=~z~堂兄。
 
 ;0x6D997E97=~z~Some trust-funder called Alex. I don't really like her but it's something to do, isn't it?
-0x6D997E97=~z~Some trust-funder called Alex. I don't really like her but it's something to do, isn't it?
+0x6D997E97=~z~一个叫Alex的啃老族。我不太喜欢她，不过也是一种消遣，对吧？
 
 ;0x6E2BF93F=~z~I want you looking good for the wedding.
 0x6E2BF93F=~z~婚礼上希望你能好看点。
@@ -435,10 +435,10 @@
 0x6F6A9799=MF3_C_ZE
 
 ;0x7014E548=~z~Great, Niko. I've got my hands full at the moment with these charming money lenders I know.
-0x7014E548=~z~真好，Niko。现在我和那些友善的借款人们正忙着呢。
+0x7014E548=~z~真好，Niko。现在我整忙着对付那些友善的债主呢。
 
 ;0x702A53E1=~z~Niko, man. What's up?
-0x702A53E1=~z~Niko, man. What's up?
+0x702A53E1=~z~Niko，老弟。怎么啦？
 
 ;0x708897AB=MF3_C_GH
 0x708897AB=MF3_C_GH
@@ -453,7 +453,7 @@
 0x7327B723=MF3_C_NA
 
 ;0x733919FF=~z~running around after these diamonds he stole.
-0x733919FF=~z~正在追他偷走的那些钻石。
+0x733919FF=~z~把他偷来的钻石脱手。
 
 ;0x741D4FC7=~z~It must be difficult, Niko. Maybe there is another path to take.
 0x741D4FC7=~z~一定很艰难吧，Niko。可能还有其它路可走。
@@ -465,7 +465,7 @@
 0x78988410=MF3_C_MH
 
 ;0x7AE1DD69=~z~NB, you are certainly my cousin.
-0x7AE1DD69=~z~NB, you are certainly my cousin.
+0x7AE1DD69=~z~NB，真不愧是我的堂弟。
 
 ;0x7B8ED2A6=MF3_C_DD
 0x7B8ED2A6=MF3_C_DD
@@ -528,7 +528,7 @@
 0x85A460B7=MF3_C_OF
 
 ;0x86EC01B4=~z~I did everything they said except for give you up, cousin. I was scared shitless.
-0x86EC01B4=~z~他们说的我都照做，除了出卖你，堂弟。我很害怕的。
+0x86EC01B4=~z~他们说的我都照做，除了出卖你，堂弟。我都快吓死了。
 
 ;0x87DAB296=~z~Anyway, I was seeing Michelle. I thought you wanted me to date her?
 0x87DAB296=~z~再说了，刚才我去找Michelle了。之前不是你想让我去约她吗？
@@ -552,10 +552,10 @@
 0x8E27D56A=MF3_C_CG
 
 ;0x8ECCCCD2=~z~This fucked up Irish family, well some of them.
-0x8ECCCCD2=~z~这个什么爱尔兰家族，他们中的几个。
+0x8ECCCCD2=~z~这个乱糟糟的爱尔兰家族，的几个成员。
 
 ;0x901287DE=~z~No connections to your friends no chance of your girlfriend finding out.
-0x901287DE=~z~No connections to your friends no chance of your girlfriend finding out.
+0x901287DE=~z~不会被朋友看见，不可能被女友发现。
 
 ;0x90647F26=~z~He should be paranoid. The Feds are after organized crime in a big way.
 0x90647F26=~z~他是该多疑点。FIB打击组织犯罪的力度可不小。
@@ -600,7 +600,7 @@
 0x999611DB=100010100100010010100010100010100100
 
 ;0x9A0EA7F9=~z~That's what I thought. I've had to kidnap this girl and she's a fucking nightmare.
-0x9A0EA7F9=~z~和我想的一样。我不得不绑架了这个女孩，而她他妈是个噩梦。
+0x9A0EA7F9=~z~和我想的一样。我不得不绑架这个女孩，而她他妈是个噩梦。
 
 ;0x9AEFC772=MF3_C_JA
 0x9AEFC772=MF3_C_JA
@@ -615,25 +615,25 @@
 0x9D660299=100100010100100
 
 ;0x9D7B5FF2=~z~I heard there was a war or something on between the Lost and the Angels of Death.
-0x9D7B5FF2=~z~我听说失落和死亡天使开战了还是怎么样的。
+0x9D7B5FF2=~z~我听说失落好像跟死亡天使开战了。
 
 ;0x9DDE859C=~z~Look you'll have to have some fun with the nurses because I can't pick you up. See you soon.
 0x9DDE859C=~z~我没法来接你，看来你得和护士们找会儿乐子了。回头见。
 
 ;0x9E2C6B91=~z~You're shitting me, NB. No fucking way! Who'd you do it with?
-0x9E2C6B91=~z~你他妈吓我吧，NB。门都没有的！你跟谁一起干的？
+0x9E2C6B91=~z~你不要骗我，NB。这他妈不可能！你跟谁一起干的？
 
 ;0x9E95F2EA=MF3_C_XA
 0x9E95F2EA=MF3_C_XA
 
 ;0x9E9B24EF=~z~I hear you were seen out on the town with a sexy young girl. Who is she?
-0x9E9B24EF=~z~I hear you were seen out on the town with a sexy young girl. Who is she?
+0x9E9B24EF=~z~听说你在城里跟一个年轻辣妹在一起。她是谁？
 
 ;0x9F5F6DE3=~z~Have you seen this bank heist on the news, NB? That's some crazy shit. I bet you wish you'd pulled off a job like that...
-0x9F5F6DE3=~z~你看见了新闻上说的这个银行劫案了吗，NB？那可太他妈疯狂了。我看你肯定也想干这么一票。
+0x9F5F6DE3=~z~你看过这个银行劫案的新闻了吗，NB？实在是太疯狂了。我看你肯定也想干这么一票...
 
 ;0x9F767279=~z~It's been a fucking hassle and all for nothing.
-0x9F767279=~z~这回他妈惹了一堆麻烦，还他妈啥都没拿到。
+0x9F767279=~z~这回惹了一身麻烦还空手而归。
 
 ;0xA027FED8=010100010100010010100100
 0xA027FED8=010100010100010010100100
@@ -675,7 +675,7 @@
 0xA93324EC=~z~我是说这个多米尼加人先开枪搅乱了我要进行的交易。
 
 ;0xA9A7C6DF=~z~Remember to make it clear that you are a red blooded animal though and you won't be tied down
-0xA9A7C6DF=~z~Remember to make it clear that you are a red blooded animal though and you won't be tied down
+0xA9A7C6DF=~z~不过记得先跟她说好，你是一个血气方刚的猛兽，这样就不会被
 
 ;0xAA6569F9=MF3_C_MG
 0xAA6569F9=MF3_C_MG
@@ -693,7 +693,7 @@
 0xAB8A20F3=~z~你这个禽兽，Roman。什么时候都能发情。
 
 ;0xAC35C024=~z~Her name is Carmen. I met her on Lovemeet.
-0xAC35C024=~z~Her name is Carmen. I met her on Lovemeet.
+0xAC35C024=~z~她叫Carmen。我们在Lovemeet认识的。
 
 ;0xAC3991E5=010
 0xAC3991E5=010
@@ -732,7 +732,7 @@
 0xB5DDBB79=MF3_C_DJ
 
 ;0xB602D399=~z~Why, what's wrong?
-0xB602D399=~z~咋了，出什么事了吗？
+0xB602D399=~z~咋了，出什么事了？
 
 ;0xB6EF916B=MF3_C_QA
 0xB6EF916B=MF3_C_QA
@@ -756,13 +756,13 @@
 0xBBDFB0BE=100100010100100
 
 ;0xBC08155D=~z~He tried to get me to get rid of a friend of his for him but, uh, I liked the friend better.
-0xBC08155D=~z~他想让我帮他除掉他的一个朋友，不过，呃，我更喜欢他的朋友。
+0xBC08155D=~z~他让我帮忙除掉他的一个朋友，不过，呃，我更喜欢他的朋友。
 
 ;0xBD222472=MF3_C_ME
 0xBD222472=MF3_C_ME
 
 ;0xBD2EEDED=~z~That is a useful profession considering your job, NB. Good work.
-0xBD2EEDED=~z~That is a useful profession considering your job, NB. Good work.
+0xBD2EEDED=~z~=对你这个杀手来说还挺有用的嘛，NB。干得好。
 
 ;0xBDF4CC2A=~z~Go home and get some sleep then meet me at the church for 10am.
 0xBDF4CC2A=~z~回家睡个好觉，明早十点来教堂找我。
@@ -810,7 +810,7 @@
 0xCE860166=MF3_C_KI
 
 ;0xCF1191AE=~z~That won't be a problem, Roman. We're not serious. I'll talk to you soon.
-0xCF1191AE=~z~That won't be a problem, Roman. We're not serious. I'll talk to you soon.
+0xCF1191AE=~z~不会有问题的，Roman。我们也就玩玩。我会再跟你聊的。
 
 ;0xD022464B=MF3_C_KB
 0xD022464B=MF3_C_KB
@@ -831,7 +831,7 @@
 0xD3103539=MF3_C_IF
 
 ;0xD3A91AE1=~z~Not much, cousin. I've gone on a date with this girl I met on Lovemeet.
-0xD3A91AE1=~z~Not much, cousin. I've gone on a date with this girl I met on Lovemeet.
+0xD3A91AE1=~z~没什么，堂兄。我跟一个在Lovemeet找到的女孩约会了。
 
 ;0xD495FBB1=~z~Hey Roman. You ever wonder if things are just coincidence or if everything is all planned?
 0xD495FBB1=~z~喂，Roman。你有没有想过有些事是巧合，还是说全部都是被计划好的？
@@ -843,7 +843,7 @@
 0xD4EF1DB1=~z~堂弟，近况如何啊？
 
 ;0xD5A45A84=~z~I can tell from your voice that you like her, Cousin. Are you two doing it?
-0xD5A45A84=~z~听你的声音我就知道你喜欢她，堂弟。你们俩好上了吗？
+0xD5A45A84=~z~听你的声音我就知道你喜欢她，堂弟。你俩好上了吗？
 
 ;0xD61A4981=~z~Now that you mention it...
 0xD61A4981=~z~既然你提到了...
@@ -858,7 +858,7 @@
 0xD82DCD2B=MF3_C_VA
 
 ;0xD896B7C5=~z~I hope you will be able to relax when you do finally find him, Niko. Speak soon.
-0xD896B7C5=~z~希望你最后找到他的时候能够放松下来，Niko。以后聊。
+0xD896B7C5=~z~希望你在找到他之后能够放松下来，Niko。以后聊。
 
 ;0xD9BF709C=~z~How was she cousin? Tell me how she was. I wondered about Michelle when I first met her.
 0xD9BF709C=~z~她怎么样，堂弟？告诉我她怎么样。我第一次见到Michelle就对她好奇了。
@@ -882,7 +882,7 @@
 0xE099373A=~z~I'll try to. Later on.
 
 ;0xE12F14E3=~z~Then, I've kidnapped this girl and we're handing her over for these same diamonds
-0xE12F14E3=~z~然后我绑架了这个女孩，用同一袋钻石做赎金放了她
+0xE12F14E3=~z~然后我绑架了这个女孩，用同一袋钻石做赎金放了她，
 
 ;0xE14077C7=MF3_C_WE
 0xE14077C7=MF3_C_WE
@@ -906,7 +906,7 @@
 0xE44ADAE4=MF3_C_HB
 
 ;0xE511F95F=~z~A sister? That sounds more my speed than these crazy brothers.
-0xE511F95F=~z~妹妹？这可比那些疯狂的兄弟要和我胃口多了。
+0xE511F95F=~z~妹妹？这可比那些疯狂的兄弟要合我胃口多了。
 
 ;0xE7FD6823=MF3_C_GC
 0xE7FD6823=MF3_C_GC
@@ -921,7 +921,7 @@
 0xE84519BF=~z~别担心，Niko。有空打给我。
 
 ;0xEBE64B57=~z~to a monogamous relationship.
-0xEBE64B57=~z~to a monogamous relationship.
+0xEBE64B57=~z~忠贞不二的要求束缚住了。
 
 ;0xED03FEEE=MF3_C_KA
 0xED03FEEE=MF3_C_KA
@@ -933,7 +933,7 @@
 0xEFFC9B76=MF3_CC_PC
 
 ;0xF02B32DB=~z~It's not as much of a coincidence as the mother and daughter.
-0xF02B32DB=~z~还没有刚才那对母女来的巧合。
+0xF02B32DB=~z~还没有我说的那对母女来的巧合。
 
 ;0xF05F79BF=MF3_C_GB
 0xF05F79BF=MF3_C_GB
@@ -972,7 +972,7 @@
 0xF8578E03=~z~那就好，NB。我们以后再聊。
 
 ;0xF92F5A1E=~z~The best place to find a woman, NB.
-0xF92F5A1E=~z~The best place to find a woman, NB.
+0xF92F5A1E=~z~那里最适合泡妞了，NB。
 
 ;0xF9414BD1=MF3_C_DF
 0xF9414BD1=MF3_C_DF
