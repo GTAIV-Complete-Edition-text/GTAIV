@@ -540,7 +540,7 @@
 0xD65D4988=警用巡逻船
 
 ;0x5688AAAC=Health
-0x5688AAAC=生命
+0x5688AAAC=医疗包
 
 ;0xA2921C48=Armor
 0xA2921C48=防弹衣
@@ -600,7 +600,7 @@
 0x5840B100=小刀
 
 ;0x6F225EC3=Health
-0x6F225EC3=生命
+0x6F225EC3=医疗包
 
 ;0x89813A0B=Locations
 0x89813A0B=地点
@@ -14935,7 +14935,7 @@
 0x26E48D62=你离~b~Brian~s~太远了。确保他一直跟你在一起。
 
 ;0x7C05B773=You cannot interact with people in the street when you have a wanted level.
-0x7C05B773=你无法在受到通缉时与路人互动。
+0x7C05B773=你无法在被通缉时与路人互动。
 
 ;0x95BCEAE1=Wait for Brian.
 0x95BCEAE1=等待Brian。
@@ -16965,7 +16965,7 @@
 0xC40B83A4=洗车店一直都开着。
 
 ;0xA00F60D1=~s~You cannot enter the comedy club with a wanted level.
-0xA00F60D1=~s~你无法在受到通缉时进入喜剧俱乐部。
+0xA00F60D1=~s~你无法在被通缉时进入喜剧俱乐部。
 
 ;0xE78C4E7A=~s~Press ~ACCEPT~ to get another dance.~n~Press ~INPUT_PICKUP~ to exit.
 0xE78C4E7A=~s~按~ACCEPT~再跳一支舞。~n~按~INPUT_PICKUP~退出。
@@ -23856,28 +23856,28 @@
 0x7778C08D=我操，小子，你该不会把自己弄死了吧？有空找我出去转转。
 
 ;0x893A6410=Yo, Niko. I hope I aint done nothing to make beef between us. Hit me up and we'll do sumthin.
-0x893A6410=Yo, Niko. I hope I aint done nothing to make beef between us. Hit me up and we'll do sumthin.
+0x893A6410=哟，Niko。希望我没做什么让我们产生间隔的事。打电话找我吧，我们可以出去玩会儿。
 
 ;0x85A5E047=Where u at son? I aint heard nuthin. U doin a bid? U want me to get myself locked up so we can hang out on the inside? Call me.
-0x85A5E047=Where u at son? I aint heard nuthin. U doin a bid? U want me to get myself locked up so we can hang out on the inside? Call me.
+0x85A5E047=你在哪儿，小子？都没联系我。坐牢去了？你想我进来陪你在里面玩吗？打个电话给我。
 
 ;0x1ACC0A91=U said ud pick me up at the hospital - but u didn't show. I hope nothings wrong man. Id be worried but I guess u can look after u self. Dwayne
-0x1ACC0A91=U said ud pick me up at the hospital - but u didn't show. I hope nothings wrong man. Id be worried but I guess u can look after u self. Dwayne
+0x1ACC0A91=你说你会来医院接我，但你没来。希望你没出事。我是很担心，但你应该能照顾好自己。Dwayne
 
 ;0x2A39A96C=Yo, you didn't show at the hospital. Sumthin happen? Want me to give someone a beatin?
-0x2A39A96C=Yo, you didn't show at the hospital. Sumthin happen? Want me to give someone a beatin?
+0x2A39A96C=哟，你没如约来医院。出事了吗？需要我去教训一下谁吗？
 
 ;0xC094D624=Where were u, son. I got enuff to be worried about bein sick without thinking u might be in truble.
-0xC094D624=Where were u, son. I got enuff to be worried about bein sick without thinking u might be in truble.
+0xC094D624=你人呢，小子？光是自己的事我就够头疼了，更别说还要担心你有没有出事了。
 
 ;0xCEE772C9=I done got confused and waited at hospital for u. Damn, Dwaye can be stupid sometimes.
-0xCEE772C9=I done got confused and waited at hospital for u. Damn, Dwaye can be stupid sometimes.
+0xCEE772C9=我一直在医院等你，还很疑惑。妈的，Dwayne偶尔是会犯蠢。
 
 ;0x65099F0F=Yo. U left mE, man. Shit. What I do? I didn't scare U did I. It hard lookin at them grls when U dun the time I hav. WE gotta hang again soon.
-0x65099F0F=Yo. U left mE, man. Shit. What I do? I didn't scare U did I. It hard lookin at them grls when U dun the time I hav. WE gotta hang again soon.
+0x65099F0F=哟。你抛弃了我，兄弟。妈的。我哪做的不对吗？我应该没吓到你吧。有你陪我的时候我都舍不得去看那些女人。有空我们再出去吧。
 
 ;0x73533BA2=Dwayne went and got confused and stayed up in the Gentlemans place. Hope u cool. See ya soon.
-0x73533BA2=Dwayne went and got confused and stayed up in the Gentlemans place. Hope u cool. See ya soon.
+0x73533BA2=Dwayne进了绅士俱乐部，之后他就懵了。希望你没事。再见。
 
 ;0xF178B7FF=PLACEHOLDER
 0xF178B7FF=PLACEHOLDER

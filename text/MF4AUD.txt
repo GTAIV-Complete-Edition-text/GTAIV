@@ -168,7 +168,7 @@
 0x3DE61B20=MF3_B_OA
 
 ;0x3E04C69A=~z~Now he's paid me off and is treating me like an asshole.
-0x3E04C69A=~z~现在他拿钱把我打发掉了，把我当混蛋对待。
+0x3E04C69A=~z~现在他拿钱把我打发掉了，还把我当混蛋。
 
 ;0x3E8F43B8=MF3_B_SI
 0x3E8F43B8=MF3_B_SI
@@ -267,13 +267,13 @@
 0x634308B2=~z~Where are you, cousin? I'm waiting near Perestroika. Get here soon, okay?
 
 ;0x67455947=~z~No, I was referring to a Deputy Police Commissioner called Francis McReary,
-0x67455947=~z~不对，我说的是一个警察局副局长，名字叫Francis McReary，
+0x67455947=~z~不，我说的是一个叫Francis McReary的警察局副局长，
 
 ;0x68636F07=MF3_B_PA
 0x68636F07=MF3_B_PA
 
 ;0x69C91490=~z~Okay, that's cool. Later on, NB.
-0x69C91490=~z~好吧，那很酷。回见，NB。
+0x69C91490=~z~好吧，那样也行。回见，NB。
 
 ;0x69DA3694=~z~Thank you, cousin.
 0x69DA3694=~z~谢谢你，堂弟。
@@ -300,7 +300,7 @@
 0x745CEE2A=MF3_B_PG
 
 ;0x7792B023=~z~The 'roid rage has screwed up his head so I think I'll just be hangin' with him. No more work.
-0x7792B023=~z~嗑药带来的暴躁应该已经毁了他的脑子，所以我想我最多跟他出去玩玩。不会替他办事了。
+0x7792B023=~z~类固醇狂躁已经毁了他的脑子，所以我想我最多跟他出去玩玩。不会替他办事了。
 
 ;0x7BDF0704=MF3_B_UB
 0x7BDF0704=MF3_B_UB
@@ -327,7 +327,7 @@
 0x8548E997=MF3_B_WB
 
 ;0x8569162D=~z~an Irish hood called Packie, an African American drug dealer who calls himself Playboy X,
-0x8569162D=~z~一个叫Packie的爱尔兰混混，一个自称Playboy X的非裔美国人，
+0x8569162D=~z~一个叫Packie的爱尔兰混混，一个自称Playboy X的非裔美国人毒贩，
 
 ;0x85A9B31D=~z~Roman?
 0x85A9B31D=~z~Roman？
@@ -360,7 +360,7 @@
 0x9244C553=~z~嗯，我没事。婚后生活如何？
 
 ;0x951634EC=~z~You're a wild man, NB.
-0x951634EC=~z~你是个狂野的男人，NB。
+0x951634EC=~z~有够猛啊，NB。
 
 ;0x951A74C8=~z~Cousin, how are you?
 0x951A74C8=~z~堂兄，你好吗？
@@ -384,7 +384,7 @@
 0x9CA524F1=MF3_B_SG
 
 ;0x9D3BEB07=~z~If things are looking up now, I hate to think what they were like before I arrived.
-0x9D3BEB07=~z~如果现在这叫有事找上来，那我真的是不敢想我来之前是怎么样的。
+0x9D3BEB07=~z~如果现在这叫好起来了，那我真的是不敢想我来之前的情况。
 
 ;0x9D5CDF0F=MF3_B_UI
 0x9D5CDF0F=MF3_B_UI
@@ -405,7 +405,7 @@
 0xA21864FA=~z~这一切只能怪我，Roman。都是我的错，因为我拒绝了替Pegorino进行交易。
 
 ;0xA288CFD1=~z~neither of whom are doing too good no more, yeah, I guess I have met some interesting people.
-0xA288CFD1=~z~他们俩的情况都不是很好，对了，我想可能是遇到了有趣的人。
+0xA288CFD1=~z~他们俩的情况都不是很好，对了，可能是有几个有趣的人。
 
 ;0xA6C2C4E2=MF3_B_RF
 0xA6C2C4E2=MF3_B_RF
@@ -432,13 +432,13 @@
 0xAAE4BB5E=~z~Yeah, thank you for arranging that, Roman. Will I have to pay for the next one?
 
 ;0xAF808F90=~z~You know, cousin, things have been looking up since you got here.
-0xAF808F90=~z~你也知道，堂弟，自从及来了以后，各种事情都找上来了。
+0xAF808F90=~z~你也知道，堂弟，自从你来了以后，各种事情都好起来了。
 
 ;0xAFB80039=~z~Kate's death was very unfortunate. Niko, don't blame yourself.
 0xAFB80039=~z~Kate的死十分不幸。Niko，不要责怪自己。
 
 ;0xB0366B2C=~z~Please tell me you are talking about twins and bleached blond hair and D-cup titties.
-0xB0366B2C=~z~拜托告诉我你说的是双胞胎，漂白的金发和D杯奶子的那种。
+0xB0366B2C=~z~你说的不会是有漂白的金发和D杯奶子的那种双胞胎吧。
 
 ;0xB198A79D=100010100100100010100
 0xB198A79D=100010100100100010100
@@ -456,13 +456,13 @@
 0xB8645665=~z~Whatever is mine is yours as long as you are hanging out with me.
 
 ;0xB8C8A220=~z~I can't tell what he is saying most of the time, but I like him.
-0xB8C8A220=~z~大多数时间我听不懂他在讲什么，不过我挺喜欢他的。
+0xB8C8A220=~z~他说的话我基本听不懂，不过我挺喜欢他的。
 
 ;0xBB4AEA14=MF3_C_BA
 0xBB4AEA14=MF3_C_BA
 
 ;0xBB7F01BD=~z~Yes it is, Roman. You're right.
-0xBB7F01BD=~z~对，是我，Roman。就是这样。
+0xBB7F01BD=~z~对，我在，Roman。就是这样。
 
 ;0xBBB2D542=~z~Niko, I just found the best site ever. It's called craplist.net and you can get anything on there.
 0xBBB2D542=~z~Niko, I just found the best site ever. It's called craplist.net and you can get anything on there.
@@ -504,7 +504,7 @@
 0xCBEA153E=MF3_B_ZE
 
 ;0xCCF4A547=~z~Sounds like you are having a crazy time. Talk to you soon.
-0xCCF4A547=~z~听起来最近你过得日子很疯狂啊。以后再跟你聊。
+0xCCF4A547=~z~听上去你最近过的日子很疯狂啊。以后再跟你聊。
 
 ;0xCD853BD3=~z~You should, Niko. Stay close to Mallorie and me. We're your family.
 0xCD853BD3=~z~该亲近的，Niko。亲近Mallorie和我。我们是你的家人。
@@ -531,7 +531,7 @@
 0xD32025FA=MF3_B_ZG
 
 ;0xD46CD968=~z~I hear you are working with Little Jacob. He's a good man, Niko, a good man.
-0xD46CD968=~z~听说你现在在跟Little Jacob一起干活。他是个好人，Niko，一个好人。
+0xD46CD968=~z~听说你现在在跟Little Jacob一起做事。他是个好人，Niko，一个好人。
 
 ;0xD5BC2416=MF3_B_XC
 0xD5BC2416=MF3_B_XC
@@ -567,10 +567,10 @@
 0xDF93F8AE=010100010010010100100100
 
 ;0xDFF4F078=~z~Sure I will, Roman. Later on.
-0xDFF4F078=~z~我当然会的，Roman。回见。
+0xDFF4F078=~z~当然会听懂的，Roman。回见。
 
 ;0xE048CBEF=~z~some outlaw biker guy named Johnny, and a doctor who buys dead bodies so he can sell the organs.
-0xE048CBEF=~z~某个叫Johnny的非法摩托客，和一个收购尸体卖出器官的医生。
+0xE048CBEF=~z~某个叫Johnny的飞车党，和一个收购尸体倒卖器官的医生。
 
 ;0xE2D55069=~z~I'm afraid I haven't met these women of your dreams, Roman.
 0xE2D55069=~z~恐怕我是没见过你的这些梦中情人，Roman。
@@ -600,7 +600,7 @@
 0xECBD192F=~z~Shit, Niko, I'm sorry for putting the two of you together.
 
 ;0xED3CE538=~z~That's my cousin, Niko.
-0xED3CE538=~z~是我堂弟啊，Niko。
+0xED3CE538=~z~在吗，我的Niko堂弟。
 
 ;0xEF861EBD=~z~I didn't think she'd be a cop.
 0xEF861EBD=~z~I didn't think she'd be a cop.
@@ -612,7 +612,7 @@
 0xF0B9D83A=100010100100010010100
 
 ;0xF23E94FF=~z~That is your bad English, Niko. Once you have been in America for longer you will understand him perfectly.
-0xF23E94FF=~z~那就是你英语差了，Niko。只要你在美国待的久点，你就能完全听懂他了。
+0xF23E94FF=~z~那就是你英语差了，Niko。只要在美国待久了，你就能完全听懂他说的话了。
 
 ;0xF2F40DB4=~z~You're a human being. Speak to you soon.
 0xF2F40DB4=~z~你是个人类。以后再聊。
