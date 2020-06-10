@@ -57,7 +57,7 @@
 0xB0E974E7=~s~按~INPUT_PHONE_ACCEPT~操作垃圾压缩机。
 
 ;0xB17FF524=~s~Go back and pick up ~b~Tuna~s~ and ~b~Johnny.
-0xB17FF524=~s~回去接上~b~Tuna~s~和~b~Johnny。
+0xB17FF524=~s~回去接~b~Tuna~s~和~b~Johnny。
 
 ;0xB6D5FFE8=~r~The truck has been destroyed.
 0xB6D5FFE8=~r~垃圾车被毁了。
@@ -69,14 +69,14 @@
 0xD96D9DE6=~s~按~PAD_X~操作垃圾压缩机。你必须先把手机收好。
 
 ;0xDC11CB3B=~b~Tuna~s~ and ~b~Johnny~s~ fell off. Go and pick them up.
-0xDC11CB3B=~b~Tuna~s~和~b~Johnny~s~落下了。去把他们接上。
+0xDC11CB3B=~b~Tuna~s~和~b~Johnny~s~摔下去了。去把他们接上。
 
 ;0xE237CAE1=~s~Go back and pick up ~b~Tuna.
-0xE237CAE1=~s~回去并接上~b~Tuna。
+0xE237CAE1=~s~回去接~b~Tuna。
 
 ;0xE9EC66F0=~b~Tuna~s~ fell off. Go and pick him up.
-0xE9EC66F0=~b~Tuna~s~落下了。去把他接上。
+0xE9EC66F0=~b~Tuna~s~摔下去了。去把他接上。
 
 ;0xF4A86FC2=~s~Go back and pick up ~b~Johnny.
-0xF4A86FC2=~s~回去并接上~b~Johnny。
+0xF4A86FC2=~s~回去接~b~Johnny。
 

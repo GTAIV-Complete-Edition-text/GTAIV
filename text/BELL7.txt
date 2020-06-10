@@ -1,6 +1,6 @@
 ﻿[BELL7]
 ;0x009450AE=~s~You've left ~b~someone~s~ behind, go and get him.
-0x009450AE=~s~你落下了~b~某一个人，~s~回去找他。
+0x009450AE=~s~你把~b~某一个人~s~落下了，回去找他。
 
 ;0x032954D0=~r~Frankie is dead.
 0x032954D0=~r~Frankie死了。
@@ -30,7 +30,7 @@
 0x23CB13D3=~s~送Bell和Frankie回~y~安全屋。~s~
 
 ;0x2AD0241D=~s~There is too much heat. Follow ~b~Bell~s~ and ~b~Frankie~s~. ~s~Take out anyone who gets in your way.
-0x2AD0241D=~s~警察太多了。跟随~b~Bell~s~和~b~Frankie。~s~杀出一条血路。
+0x2AD0241D=~s~警察太多了。跟随~b~Bell~s~和~b~Frankie~s~杀出一条血路。
 
 ;0x2B8CA69E=You need a car.
 0x2B8CA69E=你需要一辆车。
@@ -39,13 +39,13 @@
 0x2C3AA5CA=~s~跟紧~b~Bell。
 
 ;0x360EB85A=~s~You've left ~b~Bell~s~ and ~b~Frankie~s~ behind, go back and get them.
-0x360EB85A=~s~你落下了~b~Bell~s~和~b~Frankie，~s~回去找他们。
+0x360EB85A=~s~你把~b~Bell~s~和~b~Frankie~s~落下了，回去找他们。
 
 ;0x3C14C6A6=~s~PLACEHOLDER!~n~Mocap cutscene will play here.
 0x3C14C6A6=~s~PLACEHOLDER!~n~Mocap cutscene will play here.
 
 ;0x49BDE68D=~s~There is too much heat. Follow ~b~Bell~s~.~s~ Take out anyone who get in your way.
-0x49BDE68D=~s~警察太多了。跟随~b~Bell，~s~杀出一条血路。
+0x49BDE68D=~s~警察太多了。跟随~b~Bell~s~杀出一条血路。
 
 ;0x5280F486=~s~Pick up Bell in ~y~Leftwood.
 0x5280F486=~s~去~y~Leftwood~s~接Bell。
@@ -60,13 +60,13 @@
 0x677C1D78=~r~Bell死了。
 
 ;0x6E872A66=~s~You've left ~b~Frankie~s~ behind, go back and get him.
-0x6E872A66=~s~你落下了~b~Frankie，~s~回去找他。
+0x6E872A66=~s~你把~b~Frankie~s~落下了，回去找他。
 
 ;0x7823BEC7=~s~Take Bell to the ~y~safe house.~s~
 0x7823BEC7=~s~送Bell回~y~安全屋。~s~
 
 ;0x7D0A476C=~s~You've left ~b~Bell~s~ behind, go back and get him.
-0x7D0A476C=~s~你落下了~b~Bell，~s~回去找他。
+0x7D0A476C=~s~你把~b~Bell~s~落下了，回去找他。
 
 ;0x8F546C00=~s~Stay close to ~b~Bell~s~ and ~b~Frankie.
 0x8F546C00=~s~跟紧~b~Bell~s~和~b~Frankie。
@@ -105,7 +105,7 @@
 0xF0FAB073=~r~Bell被捕了。
 
 ;0xF25AB43B=~s~You've left ~b~Bell~s~ behind, go back and get him.
-0xF25AB43B=~s~你落下了~b~Bell，~s~回去找他。
+0xF25AB43B=~s~你把~b~Bell~s~落下了，回去找他。
 
 ;0xFA0CC16F=~s~Frankie is down. Get the ~g~H~s~ and leave him behind.
 0xFA0CC16F=~s~Frankie挂了。拿上~g~H~s~后就丢下他。

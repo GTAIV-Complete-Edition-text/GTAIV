@@ -18,7 +18,7 @@
 0x28150767=~s~急救包能补充你的生命值。
 
 ;0x334EFCD4=~r~The runners were not stopped.
-0x334EFCD4=~r~未能截停逃跑的人。
+0x334EFCD4=~r~毒贩逃走了。
 
 ;0x3625A388=~s~Press ~INPUT_COVER~ to come out of cover.
 0x3625A388=~s~按~INPUT_COVER~离开掩体。
@@ -30,7 +30,7 @@
 0x4D593482=~s~开车去~y~后巷。
 
 ;0x572B52BC=~s~Take down all the ~r~drug dealers.
-0x572B52BC=~s~解决所有~r~毒贩。
+0x572B52BC=~s~干掉所有~r~毒贩。
 
 ;0x6D577F14=~s~Return and pick up ~b~Jacob.
 0x6D577F14=~s~回去接~b~Jacob。
@@ -63,7 +63,7 @@
 0xA0A9788A=~s~家具可以用作掩护。
 
 ;0xA4156C8F=~s~Waste the ~r~drug dealers~s~ and save Jacob.
-0xA4156C8F=~s~做掉~r~毒贩们~s~并保护Jacob。
+0xA4156C8F=~s~做掉所有~r~毒贩，~s~保护Jacob。
 
 ;0xAE3800D8=~s~Take Jacob to the town house in ~y~Meadows Park.
 0xAE3800D8=~s~带Jacob去~y~Meadows Park~s~的住宅。
@@ -90,10 +90,10 @@
 0xD941BB7A=~s~在掩体时中用~INPUT_AIM~瞄准目标。
 
 ;0xDEB15730=~s~Don't leave ~b~Jacob~s~ behind.
-0xDEB15730=~s~别落下~b~Jacob。
+0xDEB15730=~s~别把~b~Jacob~s~落下。
 
 ;0xE6499B79=~s~While aiming at a target, press ~INPUT_ATTACK~ to spin out of cover and shoot.
-0xE6499B79=~s~当你瞄准了一个目标的时候。按~INPUT_ATTACK~探出掩体开火。
+0xE6499B79=~s~当你瞄准了一个目标时，按~INPUT_ATTACK~探出掩体开火。
 
 ;0xEA7DDFE5=~s~Use ~PAD_LSTICK_LEFTRIGHT~ to move behind cover.
 0xEA7DDFE5=~s~用~PAD_LSTICK_LEFTRIGHT~在掩体中移动。
@@ -102,7 +102,7 @@
 0xEA7F2BB4=~s~在掩体中按~INPUT_AIM~瞄准目标。
 
 ;0xEC196E6A=~s~Take down the last ~r~drug dealer.
-0xEC196E6A=~s~解决最后一个~r~毒贩。
+0xEC196E6A=~s~干掉最后一个~r~毒贩。
 
 ;0xF2C709F5=~s~Go and pick up ~b~Jacob.
 0xF2C709F5=~s~去接~b~Jacob。

@@ -75,7 +75,7 @@
 0x103A91A7=回复：与LICKINGGOOD的约会请求
 
 ;0x1284064F=You have no messages.
-0x1284064F=你没有新消息。
+0x1284064F=没有收到邮件。
 
 ;0x129C7F88=Heuteri Gerthenaooti
 0x129C7F88=Heuteri Gerthenaooti
@@ -120,7 +120,7 @@
 0x19B18640=libertypaper@eyefind.info
 
 ;0x1A46DBEC=Good to see you online!
-0x1A46DBEC=很高兴能在网上看到你！
+0x1A46DBEC=你终于能上网了！
 
 ;0x1A53416A=Mr Fackler, 'Love Meet' Founder.
 0x1A53416A=Fackler先生，「Love Meet」网站创始人。
@@ -195,7 +195,7 @@
 0x29DF2125=PLACHOLDER
 
 ;0x29FE9F87=Wedding bells?
-0x29FE9F87=什么时候结婚？
+0x29FE9F87=要结婚啦？
 
 ;0x2A40AA65=Thursday
 0x2A40AA65=星期四
@@ -255,7 +255,7 @@
 0x358857AD=PLACHOLDER
 
 ;0x37573A38=Glad you are well.
-0x37573A38=你没事真是太好了。
+0x37573A38=你没事就好。
 
 ;0x37A54999=Travis Young
 0x37A54999=Travis Young
@@ -285,7 +285,7 @@
 0x404E13BB=回复：与GOGETTER的约会请求
 
 ;0x4078A84F=Re: Great News
-0x4078A84F=回复：重磅消息！
+0x4078A84F=回复：好消息
 
 ;0x40AED42E=ligner@goldberglignerandshyster.com
 0x40AED42E=ligner@goldberglignerandshyster.com
@@ -321,7 +321,7 @@
 0x4A13A15A=Konstantin
 
 ;0x4C9625EF=Mother
-0x4C9625EF=Mother
+0x4C9625EF=母亲
 
 ;0x4CA212EF=Move on.
 0x4CA212EF=继续吧。
@@ -333,7 +333,7 @@
 0x4CFFFC15=来找我
 
 ;0x4D0B5CA4=Here for you.
-0x4D0B5CA4=在这。
+0x4D0B5CA4=还有我在。
 
 ;0x4F5A7498=Tuesday
 0x4F5A7498=星期二
@@ -357,7 +357,7 @@
 0x52E8F8A2=vasily123@grype.org
 
 ;0x534E4DFA=Great News
-0x534E4DFA=Great News
+0x534E4DFA=好消息
 
 ;0x5450D1DA=Negative Reply from MISS UNDERSTOOD
 0x5450D1DA=来自MISS UNDERSTOOD的消极回复
@@ -387,7 +387,7 @@
 0x5A5ED4CE=lawchick@love-meet.net
 
 ;0x5BCA031D=Roman.
-0x5BCA031D=Roman.
+0x5BCA031D=Roman。
 
 ;0x5BE8B17C=PLACHOLDER
 0x5BE8B17C=PLACHOLDER
@@ -402,7 +402,7 @@
 0x5E47D687=一个做生意的好机会
 
 ;0x5E7BD9D7=Reply to this email
-0x5E7BD9D7=Reply to this email
+0x5E7BD9D7=回复邮件
 
 ;0x6017E06C=service@eyefind.info
 0x6017E06C=service@eyefind.info
@@ -453,7 +453,7 @@
 0x6A960BED=PLACHOLDER
 
 ;0x6AB317F3=Brucie Owns Reality, Bro!
-0x6AB317F3=只有Brucie才知道什么叫真实，兄弟！
+0x6AB317F3=Brucie支配现实，兄弟！
 
 ;0x6ADA3A3D=RE: Craplist Contact Request
 0x6ADA3A3D=RE: Craplist Contact Request
@@ -468,7 +468,7 @@
 0x6BD11355=PLACHOLDER
 
 ;0x6C44F569=Delete this email
-0x6C44F569=删除这封邮件
+0x6C44F569=删除邮件
 
 ;0x6D3CA1ED=admin@whattheydonotwantyoutoknow.com
 0x6D3CA1ED=admin@whattheydonotwantyoutoknow.com
@@ -516,7 +516,7 @@
 0x743BB24E=出口Cavalcade
 
 ;0x7456B436=Thinking about you.
-0x7456B436=妈妈很担心你。
+0x7456B436=在想你的事。
 
 ;0x745D567A=GAY NIKO_GAY PLACEHOLDER!!!
 0x745D567A=GAY NIKO_GAY PLACEHOLDER!!!
@@ -525,7 +525,7 @@
 0x74D87D1F=Kate
 
 ;0x750F86FE=View photos attached to email
-0x750F86FE=浏览email里的照片附件
+0x750F86FE=查看照片附件
 
 ;0x7686FD70=Amphetarate
 0x7686FD70=Amphetarate
@@ -576,13 +576,13 @@
 0x82143FDB=PLACHOLDER
 
 ;0x82229861=View other photos
-0x82229861=浏览其他图片
+0x82229861=查看其他图片
 
 ;0x826E717C=PLACHOLDER
 0x826E717C=PLACHOLDER
 
 ;0x82A32225=Send this reply
-0x82A32225=发送这个回复
+0x82A32225=发送回复
 
 ;0x82A769DB=PLACHOLDER
 0x82A769DB=PLACHOLDER
@@ -591,7 +591,7 @@
 0x84167E42=很轻松就能挣到大把的钱！
 
 ;0x84294ADF=Pimp your phone!
-0x84294ADF=给你的手机换上新铃声吧！
+0x84294ADF=给手机换个新铃声吧！
 
 ;0x8480F8F9=Negative Reply from THE NICKMEISTER
 0x8480F8F9=来自THE NICKMEISTER的消极回复
@@ -621,7 +621,7 @@
 0x891FEDE5=name5
 
 ;0x8A3EE088=ATTACHMENT
-0x8A3EE088=ATTACHMENT
+0x8A3EE088=附件
 
 ;0x8A4D27B4=RE: Date Request with GOGETTER
 0x8A4D27B4=回复：与GOGETTER的约会请求
@@ -657,7 +657,7 @@
 0x944FF7D3=PLACHOLDER
 
 ;0x9502D162=I am so sorry
-0x9502D162=我很抱歉
+0x9502D162=我很遗憾
 
 ;0x950875B4=RE: Date Request with LawChick
 0x950875B4=回复：与LawChick的约会请求
@@ -708,10 +708,10 @@
 0x9FA806C7=Bigdwayne94@eyefind.info
 
 ;0xA03567C3=Check this!
-0xA03567C3=看这个！
+0xA03567C3=瞧瞧这个！
 
 ;0xA125E0D9=UNREAD
-0xA125E0D9=UNREAD
+0xA125E0D9=未读
 
 ;0xA1369660=Gerryswarez@craplist.net
 0xA1369660=Gerryswarez@craplist.net
@@ -738,7 +738,7 @@
 0xA5129CF8=MAD_MARNIE@eyefind.info
 
 ;0xA540675F=Go back to the email
-0xA540675F=返回email
+0xA540675F=返回邮件正文
 
 ;0xA5619080=RE: Date Request with SoBoHoe
 0xA5619080=回复：与SoBoHoe的约会请求
@@ -783,7 +783,7 @@
 0xB34C6D2F=Eyefind邮件团队
 
 ;0xB351292E=Genetically different baby!
-0xB351292E=感觉我自己基因变种了！
+0xB351292E=骨子里就不同，宝贝儿！
 
 ;0xB42F1CA9=Attention: publishing warning
 0xB42F1CA9=注意：发布警告
@@ -798,7 +798,7 @@
 0xB760347D=回复：与SoBoHoe的约会请求
 
 ;0xB82FBBEB=I miss you.
-0xB82FBBEB=我很想念你。
+0xB82FBBEB=我很想你。
 
 ;0xB9AEC260=PLACHOLDER
 0xB9AEC260=PLACHOLDER
@@ -903,7 +903,7 @@
 0xCDFDBEB8=Konstantin
 
 ;0xCEE2E051=We're something else.
-0xCEE2E051=我们现在是其他的什么东西了。
+0xCEE2E051=我们非同一般。
 
 ;0xCF7272D7=Hirtterberher@eyefind.info
 0xCF7272D7=Hirtterberher@eyefind.info
@@ -948,7 +948,7 @@
 0xD6C82B70=LICKINGGOOD
 
 ;0xD75C693A=INBOX FULL
-0xD75C693A=INBOX FULL
+0xD75C693A=收件箱已满
 
 ;0xD79CA83A=PLACEHOLDER
 0xD79CA83A=PLACEHOLDER
@@ -1140,5 +1140,5 @@
 0xFFACCCC1=PLACHOLDER
 
 ;0xFFCE422B=Check it! Bitches dig men who know their tunes.
-0xFFCE422B=快来看！这些婊子喜欢那些懂她们听歌品味的男人。
+0xFFCE422B=必看！贱人都喜欢知道她们在听什么歌的男人。
 

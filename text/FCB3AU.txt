@@ -9,7 +9,7 @@
 0x04D5B553=~z~「人生是用来挑战你的极限的。」
 
 ;0x050B33B9=~z~Listen, you might learn something important okay.
-0x050B33B9=~z~听着，你可能会学到些很重要的东西，好吧。
+0x050B33B9=~z~听好了，说不定能让你受益终生。
 
 ;0x057F89DC=FCB3_ACT_GENERIC_INCAR_5_EM
 0x057F89DC=FCB3_ACT_GENERIC_INCAR_5_EM
@@ -129,7 +129,7 @@
 0x20E905D9=FCB3_ACT_GENERIC_INCAR_2_BL
 
 ;0x219EECE0=~z~Whatever - you sound confused, pal. I know mine. You wanna hear?
-0x219EECE0=~z~算了，你似乎很迷茫，老兄。我很清楚我的目标，你想听听吗？
+0x219EECE0=~z~算了，你似乎很迷茫，老兄。我是很清楚，想听吗？
 
 ;0x21F09444=~z~Back when I was fat and had a weak jaw. I probably would have bullied me too.
 0x21F09444=~z~以前我很胖，颌骨还弱。要我说我也会去欺负当时的我。
@@ -810,13 +810,13 @@
 0xCC17EBF7=FCB3_ACT_GENERIC_INCAR_1_AH
 
 ;0xCC8EFEF5=~z~Whether steroids give you funny balls. Right?
-0xCC8EFEF5=~z~类固醇是不是会让你蛋不好使。是吗？
+0xCC8EFEF5=~z~类固醇是不是会让你蛋不好使。懂吧？
 
 ;0xCD9E952F=FCB3_ACT_GENERIC_INCAR_1_AJ
 0xCD9E952F=FCB3_ACT_GENERIC_INCAR_1_AJ
 
 ;0xCE290231=~z~Shit man, I'm fucking done with it - alright. If one more person asks me I'm gonna flip alright?
-0xCE290231=~z~我靠，兄弟，我他妈已经受够了，好吧。再有一个人问我我就要气炸了好吧。
+0xCE290231=~z~我靠，兄弟，我他妈已经受够了，好吧。再有一个人问我，我就要气炸了好吧。
 
 ;0xD0526D3A=~z~Tough - it's time you learnt something, okay?
 0xD0526D3A=~z~真是，你现在该知道点东西了，行吧？
@@ -936,7 +936,7 @@
 0xFA01399D=FCB3_ACT_GENERIC_INCAR_4_DM
 
 ;0xFA521E47=~z~Not really.
-0xFA521E47=~z~不太想听。
+0xFA521E47=~z~不太想。
 
 ;0xFCA1DB0D=~z~Okay, so I was this guy who was going nowhere and I changed my life.
 0xFCA1DB0D=~z~好了，你看以前我那么个前途无光的人，改变了自己的人生。

@@ -302,19 +302,20 @@
 0x6C13704B=FCD2_ACT_ARRIVE_CLUCK
 
 ;0x6DD27818=~z~Okay, fine... some other time, I guess.
-0x6DD27818=~z~可以，当然... 下次吧，我估计。
+0x6DD27818=~z~可以，当然...下次吧，大概。
 
 ;0x6F0787CA=~z~Why you so fucking late? Whatever... let's roll.
-0x6F0787CA=~z~你他妈为何如此慢？随便啦... 让我们动身。
+0x6F0787CA=~z~你怎么这么慢？算了...我们走吧。
 
 ;0x6F94BD9F=~z~I appreciate that man - see you soon.
-0x6F94BD9F=~z~我欣赏他 - 再见。
+0x6F94BD9F=~z~谢谢你陪我，兄弟，之后见。
 
 ;0x6FDB2711=~z~Good to see you, let's get out of here.
-0x6FDB2711=~z~很高兴见到你，让我们动身。
+0x6FDB2711=~z~很高兴见到你，我们出发吧。
 
 ;0x71ABE874=~z~Hey Niko - let's find a car.
-0x71ABE874=~z~嘿，Niko－先弄辆车吧。
+0x71ABE874=~z~嘿，Niko，先弄辆车吧。
+
 ;0x71D510BB=~z~See you soon man - that was a lot of fun - you a good guy, Niko.
 0x71D510BB=~z~下次见，老弟。我很高兴。你是个好人，Niko。
 
@@ -322,7 +323,7 @@
 0x726A24DD=100
 
 ;0x7570F2A3=~z~Sorry, man - I've got to cancel the bowling.
-0x7570F2A3=~z~抱歉，伙计 - 我得取消约好的保龄球了。
+0x7570F2A3=~z~抱歉，伙计，我得取消约好的保龄球了。
 
 ;0x77B4BDE6=~z~You think you got game? Let's bowl, bitch.
 0x77B4BDE6=~z~你认为你技术很好？让我们开球，菜鸟。
