@@ -45,7 +45,7 @@
 0x6CD4D368=~r~French Tom跑了。
 
 ;0x72D2A492=~s~Go back to the diner and meet French Tom.
-0x72D2A492=~s~回到餐馆去见French Tom。
+0x72D2A492=~s~回餐馆见French Tom。
 
 ;0x7746AE5A=~s~French Tom is registered in the male section. Click on the MALE button.
 0x7746AE5A=~s~French Tom注册的资料是男性。点击「MALE」。
@@ -60,7 +60,7 @@
 0x8F940F52=~s~用~INPUT_MOUSE_WHEEL_UP~与~INPUT_MOUSE_WHEEL_DOWN~滚动页面。
 
 ;0x91C2E346=~s~Get back on the computer and check Lovemeet for FRENCH TOM.
-0x91C2E346=~s~重新登录电脑，查看FRENCH TOM的Lovemeet。
+0x91C2E346=~s~重新登录电脑，在Lovemeet上寻找FRENCH TOM。
 
 ;0xA64732B7=~s~Use ~PAD_RSTICK_UP~ and ~PAD_RSTICK_DOWN~ to scroll.
 0xA64732B7=~s~用~PAD_RSTICK_UP~和~PAD_RSTICK_DOWN~滚动。
@@ -81,5 +81,5 @@
 0xEEE71485=~s~准备好后就站起来掏出武器。按~INPUT_PICKUP~起身。
 
 ;0xF31E9E44=~s~Use a computer to get on love-meet.net and find FRENCH TOM.
-0xF31E9E44=~s~用电脑登录love-meet.net并找到FRENCH TOM。
+0xF31E9E44=~s~用电脑登录love-meet.net寻找FRENCH TOM。
 

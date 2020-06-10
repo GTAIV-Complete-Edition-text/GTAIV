@@ -6,13 +6,13 @@
 0x176E6EF2=~r~Michael死了。
 
 ;0x1E6D9346=~s~You left ~b~Packie~s~ and ~b~Michael~s~ behind, go back and get them.
-0x1E6D9346=~s~你落下了~b~Packie~s~和~b~Michael，~s~回去带上他们。
+0x1E6D9346=~s~你把~b~Packie~s~和~b~Michael~s~落下了，回去接他们。
 
 ;0x2F39C772=~s~Get back to ~y~Packie's Ma's house.
 0x2F39C772=~s~返回~y~Packie他妈家。
 
 ;0x30B037CB=~s~You left ~b~Packie,~s~ ~b~Derrick~s~ and ~b~Michael~s~ behind, go back and get them.
-0x30B037CB=~s~你落下了~b~Packie，~s~~b~Derrick~s~和~b~Michael，~s~回去带上他们。
+0x30B037CB=~s~你把~b~Packie~s~、~b~Derrick~s~和~b~Michael~s~落下了，回去接他们。
 
 ;0x38E8483B=~r~Packie and Derrick were abandoned.
 0x38E8483B=~r~Packie和Derrick被抛弃了。
@@ -24,10 +24,10 @@
 0x43F76577=~s~跟随~b~Packie~s~和~b~Derrick。
 
 ;0x4B25ECB6=~s~You left ~b~Derrick~s~ and ~b~Michael~s~ behind, go back and get them.
-0x4B25ECB6=~s~你落下了~b~Derrick~s~和~b~Michael，~s~回去带上他们。
+0x4B25ECB6=~s~你把~b~Derrick~s~和~b~Michael~s~落下了，回去接他们。
 
 ;0x56858361=~s~You left ~b~Packie~s~ behind, go back and get him.
-0x56858361=~s~你落下了~b~Packie，~s~回去带上他。
+0x56858361=~s~你把~b~Packie~s~落下了，回去接他。
 
 ;0x591AFD51=~s~Get to ~y~street level.
 0x591AFD51=~s~前往~y~地上层。
@@ -48,7 +48,7 @@
 0x76BB14E4=~s~找一辆四门的车，前往~y~Packie他妈家。
 
 ;0x81CBD9ED=~s~You left ~b~Michael~s~ behind, go back and get him.
-0x81CBD9ED=~s~你落下了~b~Michael，~s~回去带上他。
+0x81CBD9ED=~s~你把~b~Michael~s~落下了，回去接他。
 
 ;0x84641733=~s~Lose your wanted level.
 0x84641733=~s~降低你的通缉度。
@@ -57,7 +57,7 @@
 0x91EC4B46=~s~警察封锁了周边地区。快逃。
 
 ;0x93857D60=~s~You left ~b~Packie~s~ and ~b~Derrick~s~ behind, go back and get them.
-0x93857D60=~s~你落下了~b~Packie~s~和~b~Derrick，~s~回去带上他们。
+0x93857D60=~s~你把~b~Packie~s~和~b~Derrick~s~落下了，回去接他们。
 
 ;0x93FCE855=~r~Derrick is dead.
 0x93FCE855=~r~Derrick死了。
@@ -75,13 +75,13 @@
 0xC9B77461=~r~警察~s~太多了，杀出一条血路。
 
 ;0xCC386EC5=~s~You left ~b~Derrick~s~ behind, go back and get him.
-0xCC386EC5=~s~你落下了~b~Derrick，~s~回去带上他。
+0xCC386EC5=~s~你把~b~Derrick~s~落下了，回去接他。
 
 ;0xD98C5A81=~s~Go to the ~y~bank.
 0xD98C5A81=~s~前往~y~银行。
 
 ;0xDE2E6615=~r~Never leave a man behind. A partner was abandoned.
-0xDE2E6615=~r~永远不要落下人。一个同伙被抛弃了。
+0xDE2E6615=~r~永远不要落下人。有同伙被抛弃了。
 
 ;0xE1268D66=~s~Go to the ~y~service hatch.
 0xE1268D66=~s~前往~y~维护通道。

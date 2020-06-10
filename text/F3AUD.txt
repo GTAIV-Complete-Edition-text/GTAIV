@@ -27,7 +27,7 @@
 0x1362C260=~z~你，
 
 ;0x148C312F=~z~I cannot talk just now. Do what you have to do.
-0x148C312F=~z~我现在不方便说话，该做的你就做。
+0x148C312F=~z~我现在不方便说话，让你做你就做。
 
 ;0x16153617=F3_HC
 0x16153617=F3_HC
@@ -57,7 +57,7 @@
 0x26185485=~z~我知道的屁事比Mikhail能想到的还多，我为什么要告密？
 
 ;0x26DAD5CC=~z~Just one second, Mikhail. It's nobody.
-0x26DAD5CC=~z~稍等片刻，Mikhail。不是谁的电话。
+0x26DAD5CC=~z~就等一会儿，Mikhail。不是谁的电话。
 
 ;0x29A9EEEE=~z~You pathetic idiot.
 0x29A9EEEE=~z~你个可悲的呆子。
@@ -186,7 +186,7 @@
 0x7EF98A40=010100100
 
 ;0x7F45069F=~z~Dimitri, should I do this? Should I kill this boy for Mr. Faustin?
-0x7F45069F=~z~Dimitri，我应该这么做吗？我该替Faustin先生杀了这小子吗？
+0x7F45069F=~z~Dimitri，我该下手吗？我该替Faustin先生杀了这小子吗？
 
 ;0x832A3C57=~z~Very good. I'm proud of you. Good.
 0x832A3C57=~z~很好，我为你骄傲，好。

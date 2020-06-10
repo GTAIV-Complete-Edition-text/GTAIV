@@ -3,7 +3,7 @@
 0x0026B908=~z~因为你丫又不是个娘们，知道吗？
 
 ;0x03AF15A4=~z~I'm a maniac, man... just like you.
-0x03AF15A4=~z~我是个疯子，兄弟...就像你一样。
+0x03AF15A4=~z~我是个疯子，兄弟...跟你一样。
 
 ;0x03CCDD58=~z~You know that?
 0x03CCDD58=~z~你知道吗？
@@ -33,7 +33,7 @@
 0x123664FE=FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AG
 
 ;0x142531A9=~z~Okay great... now, please, let me drive.
-0x142531A9=~z~好，好...现在让我开车吧。
+0x142531A9=~z~好，好...别说了，让我开车。
 
 ;0x146E1771=FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AB
 0x146E1771=FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AB
@@ -153,13 +153,13 @@
 0x6C271202=~z~杀了我，Niko。
 
 ;0x6DEEEA1E=~z~Once, I got drunk and shot somebody, you know that?
-0x6DEEEA1E=~z~曾经，我喝醉了然后开枪射了一个人，你知道吗？
+0x6DEEEA1E=~z~有一次，我喝醉后掏枪打中了人，你知道吗？
 
 ;0x6FD6C77D=FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CG
 0x6FD6C77D=FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CG
 
 ;0x72C7D51B=~z~Cool. Keep quiet for a while then.
-0x72C7D51B=~z~好。消停一会。
+0x72C7D51B=~z~好。消停一会吧。
 
 ;0x76DA7CF5=FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CI
 0x76DA7CF5=FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CI
@@ -174,7 +174,7 @@
 0x7E84B6BD=~z~兄弟，我他妈混蛋。废物混蛋。
 
 ;0x80788F35=~z~I never told nobody that.
-0x80788F35=~z~我从来没有告诉过别人。
+0x80788F35=~z~我从没跟别人说过。
 
 ;0x820E0590=FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CK
 0x820E0590=FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CK
@@ -183,7 +183,7 @@
 0x8218D11C=FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AJ
 
 ;0x8A68A315=~z~I'm pretty drunk man.
-0x8A68A315=~z~我喝得烂醉，兄弟。
+0x8A68A315=~z~我喝得烂醉了，兄弟。
 
 ;0x8A83CEBB=~z~I'm a fucking murderer - I killed my best friend!
 0x8A83CEBB=~z~我他妈是个杀人犯－我杀了我最好的朋友！
@@ -195,7 +195,7 @@
 0x8AB1C55C=FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DE
 
 ;0x8BCC2335=~z~Oh man, I think I'm going to be sick.
-0x8BCC2335=~z~噢，我感觉我要生病了。
+0x8BCC2335=~z~天哪，感觉我快要吐了。
 
 ;0x927FDDBC=~z~You know what, man, I can't fucking stand it,
 0x927FDDBC=~z~你知道吗，兄弟，我他妈受不了了，
@@ -345,7 +345,7 @@
 0xE700F226=~z~不是重影，就是我自己都不知道我有这么多手指头了...
 
 ;0xE7245C8B=~z~That's why we friends. We both mad.
-0xE7245C8B=~z~这就是为什么我们能成为朋友。我们都疯了。
+0xE7245C8B=~z~所以我们能交朋友。我们都是疯子。
 
 ;0xEB9B30CD=FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BJ
 0xEB9B30CD=FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BJ
@@ -384,7 +384,7 @@
 0xF9C4F9C9=FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FG
 
 ;0xFB0281A4=~z~Drunk, drunk, drunk, drunk, drunk.
-0xFB0281A4=~z~醉，醉，醉，醉，醉
+0xFB0281A4=~z~醉，醉，醉，醉，醉。
 
 ;0xFF4E0A37=~z~Man, I am drunk as shit.
 0xFF4E0A37=~z~兄弟，我喝得烂醉如泥。

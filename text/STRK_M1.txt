@@ -3,10 +3,10 @@
 0x0096B801=~r~Packie和Gordon死了。
 
 ;0x02198C0B=~s~You left ~b~Packie~s~ and ~b~Michael~s~ behind, go back and get them.
-0x02198C0B=~s~你落下了~b~Packie~s~和~b~Michael，~s~回去带上他们。
+0x02198C0B=~s~你把~b~Packie~s~和~b~Michael~s~落下了，回去带上他们。
 
 ;0x0696B857=~s~You left ~b~Packie,~s~ ~b~Michael,~s~ and ~b~Gordon~s~ behind, go back and get them.
-0x0696B857=~s~你落下了~b~Packie、Michael~s~和~b~Gordon，~s~回去带上他们。
+0x0696B857=~s~你把~b~Packie~s~、~b~Michael~s~和~b~Gordon~s~落下了，回去带上他们。
 
 ;0x0A7948DE=~s~Get the ~g~cash~s~ from the office.
 0x0A7948DE=~s~去办公室拿走~g~现金。
@@ -36,7 +36,7 @@
 0x29518C28=~s~你需要一辆能够乘下Packie，Gordon和Michael的车。
 
 ;0x2AF9D486=~s~You left ~b~Gordon~s~ behind, go back and get him.
-0x2AF9D486=~s~你落下了~b~Gordon，~s~回去带上他。
+0x2AF9D486=~s~你把~b~Gordon~s~落下了，回去带上他。
 
 ;0x342E1F3B=~r~Gordon and Michael are dead.
 0x342E1F3B=~r~Gordon和Michael死了。
@@ -54,7 +54,7 @@
 0x3EC0DCD8=到仓库外与~b~Packie~s~会合。
 
 ;0x3ED8858C=~s~You left ~b~Packie~s~ and ~b~Gordon~s~ behind, go back and get them.
-0x3ED8858C=~s~你落下了~b~Packie~s~和~b~Gordon，~s~回去带上他们。
+0x3ED8858C=~s~你把~b~Packie~s~和~b~Gordon~s~落下了，回去带上他们。
 
 ;0x3FEF98E2=~s~Hold or repeatedly tap ~INPUT_SPRINT~ to swim faster.
 0x3FEF98E2=~s~按住或连按~INPUT_SPRINT~以游得更快。
@@ -75,7 +75,7 @@
 0x5D1BF10A=~r~Michael死了。
 
 ;0x5EA4C520=~s~You left ~b~Packie~s~ behind, go back and get him.
-0x5EA4C520=~s~你落下了~b~Packie，~s~回去带上他。
+0x5EA4C520=~s~你把~b~Packie~s~落下了，回去带上他。
 
 ;0x6010A2D8=~s~Find a four door car.
 0x6010A2D8=~s~找一辆四门的车。
@@ -84,7 +84,7 @@
 0x659E5261=~s~在船上时，若要急转弯请按~INPUT_VEH_HANDBRAKE~。
 
 ;0x6D59EFAA=~s~You left ~b~Michael~s~ behind, go back and get him.
-0x6D59EFAA=~s~你落下了~b~Michael，~s~回去带上他。
+0x6D59EFAA=~s~你把~b~Michael~s~落下了，回去带上他。
 
 ;0x81FCC45D=~s~Use ~INPUT_VEH_KEY_UD~ to adjust the trim.
 0x81FCC45D=~s~使用~INPUT_VEH_KEY_UD~掌舵。
@@ -93,7 +93,7 @@
 0x98160F81=~s~带Packie回到~y~安全区域。
 
 ;0x9F2C5D1A=~s~You left ~b~Michael~s~ and ~b~Gordon~s~ behind, go back and get them.
-0x9F2C5D1A=~s~你落下了~b~Michael~s~和~b~Gordon，~s~回去带上他们。
+0x9F2C5D1A=~s~你把~b~Michael~s~和~b~Gordon~s~落下了，回去带上他们。
 
 ;0xA6ED04AB=~r~Packie is dead.
 0xA6ED04AB=~r~Packie死了。
