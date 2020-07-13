@@ -2721,6 +2721,15 @@
 ;0x0BEC79C7=Independence FM
 0x0BEC79C7=个人电台
 
+;0x4A2AFBC3=Vice City FM
+0x4A2AFBC3=Vice City FM
+
+;0x4EE20525=Self Actualization FM
+0x4EE20525=Self Actualization FM
+
+;0x68C238E5=Ram Jam FM
+0x68C238E5=Ram Jam FM
+
 ;0x4F5E1150=MP3 Player
 0x4F5E1150=MP3播放器
 
@@ -9388,7 +9397,7 @@
 0x208F059D=~z~~x~之前我从没做过尿检，所以呃...
 
 ;0x4A4058FF=~z~~x~you know, I went to the toilet, filled up this little bottle he gave me, good as gold.
-0x4A4058FF=~z~~x~你也知道，我去了趟厕所，尿满了他给我的小量杯，黄金品质的。
+0x4A4058FF=~z~~x~你也知道，我去了趟厕所，尿满了他给我的小量杯，乖乖照做了。
 
 ;0xFD1C3EB8=~z~~x~Gave it back to him. He went, "Oh, can you strip down to your boxer shorts?".
 0xFD1C3EB8=~z~~x~回去给医生。他问我：「哦，你能把裤子脱下来吗？」
@@ -10171,22 +10180,22 @@
 0x067D51C9=~z~~x~一切都很疯狂。
 
 ;0x57DC2715=~z~~x~Weed is illegal. Ain't that a motherfuck...?
-0x57DC2715=~z~~x~大麻不合法。那他妈不是扯淡么...？
+0x57DC2715=~z~~x~大麻违法。那他妈不是扯淡么...？
 
 ;0x719A5A91=~z~~x~They should have put that in the motherfucking brochure.
-0x719A5A91=~z~~x~就应该把这条写到狗屁宣传册上。
+0x719A5A91=~z~~x~就应该把这条写到傻逼宣传册上。
 
 ;0x4D941281=~z~~x~Feel free to come to Liberty City but weed is illegal.
-0x4D941281=~z~~x~随时欢迎您来自由城，但大麻不合法。
+0x4D941281=~z~~x~随时欢迎您来自由城，但大麻违法。
 
 ;0x5FBCB6D2=~z~~x~Kind of cockamamie shit is this? Weed is illegal.
-0x5FBCB6D2=~z~~x~这他妈有点扯淡吧？大麻不合法。
+0x5FBCB6D2=~z~~x~这他妈有点扯淡吧？大麻违法。
 
 ;0xB2555C06=~z~~x~How the fuck can you make a plant illegal? Weed is just a plant.
 0xB2555C06=~z~~x~你他妈怎么就说一植物不合法了？大麻就一种植物而已。
 
 ;0xC42EFFB9=~z~~x~It's just a plant.
-0xC42EFFB9=~z~~x~人就是种植物。
+0xC42EFFB9=~z~~x~那就是种植物。
 
 ;0x8501815F=~z~~x~It just grows like that and, if you should happen to set it on fire, there are some effects.
 0x8501815F=~z~~x~人长出来就那样，你要不小心把它烧了，才会有点影响。
@@ -10330,7 +10339,7 @@
 0x20BBB636=~z~~x~为什么这里什么事都这么快节奏？
 
 ;0x79B96814=~z~~x~I want to slow down and relax but you can't do that no way cause weed is illegal.
-0x79B96814=~z~~x~我想慢一些休闲点，但你们做不到，因为大麻不合法。
+0x79B96814=~z~~x~我想慢一些休闲点，但你们做不到，因为大麻违法。
 
 ;0x4C1A8CD7=~z~~x~Anyway, that's been all my motherfucking time.
 0x4C1A8CD7=~z~~x~好了，今天他妈就到这儿了。
@@ -13441,7 +13450,7 @@
 0x3603E2A8=你把~b~你的朋友~s~落下了。
 
 ;0x2E696223=Enjoy yourself. Go and see your friend when you're ready to leave.
-0x2E696223=玩得愉快。当你要离开时去找你的朋友。
+0x2E696223=玩得愉快。离开之前记得叫上你的朋友。
 
 ;0x28B5B003=Weapons aren't welcome in the club.
 0x28B5B003=俱乐部中不欢迎武器。
@@ -17085,7 +17094,7 @@
 0x0B6EA343=接~a~之前降低你的通缉度。
 
 ;0x2ECB9351=~s~Hold ~PAD_Y~ to go on this tour. It will cost you $150.
-0x2ECB9351=~s~长按~PAD_Y~参加此次观光。收费$150。
+0x2ECB9351=~s~长按~PAD_Y~参加观光。收费$150。
 
 ;0x491BD709=~s~You don't have enough money to go on a tour.
 0x491BD709=~s~你的钱不够，无法参加观光。
@@ -20291,8 +20300,17 @@
 ;0xD7F86873=Independence FM
 0xD7F86873=个人电台
 
-;0x868DC59F=Off
-0x868DC59F=关
+;0x868DC59F=Vice City FM
+0x868DC59F=Vice City FM
+
+;0xF3C2AC47=Self Actualization FM
+0xF3C2AC47=Self Actualization FM
+
+;0x4207C8D0=Ram Jam FM
+0x4207C8D0=Ram Jam FM
+
+;0xA5090EE1=Off
+0xA5090EE1=关
 
 ;0xBEF91890=Traffic
 0xBEF91890=交通
@@ -31624,4 +31642,163 @@
 
 ;0xA887D151=Zit! Spotted MR. VEGAS: Mus Come a Road
 0xA887D151=Zit! Spotted MR. VEGAS: Mus Come a Road
+
+;0x292AF5DC=Zit! Spotted BOY MEETS GIRL: Waiting For A Star To Fall
+0x292AF5DC=Zit! Spotted BOY MEETS GIRL: Waiting For A Star To Fall
+
+;0x1405CB92=Zit! Spotted SWING OUT SISTER: Breakout
+0x1405CB92=Zit! Spotted SWING OUT SISTER: Breakout
+
+;0x45C7AF15=Zit! Spotted PREFAB SPROUT: When Love Breaks Down
+0x45C7AF15=Zit! Spotted PREFAB SPROUT: When Love Breaks Down
+
+;0x2FA982D9=Zit! Spotted NU SHOOZ: I Can't Wait
+0x2FA982D9=Zit! Spotted NU SHOOZ: I Can't Wait
+
+;0x0BEB3A81=Zit! Spotted MARILLION: Kayleigh
+0x0BEB3A81=Zit! Spotted MARILLION: Kayleigh
+
+;0xF7C391DE=Zit! Spotted TEXAS: I Don't Want A Lover
+0xF7C391DE=Zit! Spotted TEXAS: I Don't Want A Lover
+
+;0x098E3573=Zit! Spotted LISA STANSFIELD FEAT. COLDCUT: People Hold On
+0x098E3573=Zit! Spotted LISA STANSFIELD FEAT. COLDCUT: People Hold On
+
+;0x6683EF5D=Zit! Spotted RE-FLEX: The Politics Of Dancing
+0x6683EF5D=Zit! Spotted RE-FLEX: The Politics Of Dancing
+
+;0x302982A9=Zit! Spotted ROACHFORD: Cuddly Toy
+0x302982A9=Zit! Spotted ROACHFORD: Cuddly Toy
+
+;0x89EDB630=Zit! Spotted NARADA MICHAEL WALDEN: Divine Emotions
+0x89EDB630=Zit! Spotted NARADA MICHAEL WALDEN: Divine Emotions
+
+;0x53B049B6=Zit! Spotted T'PAU: Heart And Soul
+0x53B049B6=Zit! Spotted T'PAU: Heart And Soul
+
+;0xD13AC51D=Zit! Spotted NENEH CHERRY: Buffalo Stance
+0xD13AC51D=Zit! Spotted NENEH CHERRY: Buffalo Stance
+
+;0x2C24F98C=Zit! Spotted BELOUIS SOME: IMAGINATION
+0x2C24F98C=Zit! Spotted BELOUIS SOME: IMAGINATION
+
+;0x306C021A=Zit! Spotted BILLY OCEAN: Caribbean Queen (No More Love On The Run)
+0x306C021A=Zit! Spotted BILLY OCEAN: Caribbean Queen (No More Love On The Run)
+
+;0x46D12EE4=Zit! Spotted CLIMIE FISHER: Love Changes (Everything)
+0x46D12EE4=Zit! Spotted CLIMIE FISHER: Love Changes (Everything)
+
+;0x4960340E=Zit! Spotted CURIOSITY KILLED THE CAT: Misfit
+0x4960340E=Zit! Spotted CURIOSITY KILLED THE CAT: Misfit
+
+;0x5783D055=Zit! Spotted FIVE STAR: Find The Time
+0x5783D055=Zit! Spotted FIVE STAR: Find The Time
+
+;0x6E1DFD89=Zit! Spotted HUE & CRY: Labour Of Love
+0x6E1DFD89=Zit! Spotted HUE & CRY: Labour Of Love
+
+;0x82C9A6E0=Zit! Spotted TERENCE TRENT D'ARBY: Wishing Well
+0x82C9A6E0=Zit! Spotted TERENCE TRENT D'ARBY: Wishing Well
+
+;0xA7596FFF=Zit! Spotted 'TIL TUESDAY: Voices Carry
+0xA7596FFF=Zit! Spotted 'TIL TUESDAY: Voices Carry
+
+;0x7C901999=Zit! Spotted WET WET WET: Wishing I Was Lucky
+0x7C901999=Zit! Spotted WET WET WET: Wishing I Was Lucky
+
+;0x76238CAC=Zit! Spotted ROXETTE: The Look
+0x76238CAC=Zit! Spotted ROXETTE: The Look
+
+;0x95A8CBB6=Zit! Spotted HALL & OATES: Maneater
+0x95A8CBB6=Zit! Spotted HALL & OATES: Maneater
+
+;0x05790E5D=Zit! Spotted ALPHA WAVE MOVEMENT: Artifacts & Prophecies
+0x05790E5D=Zit! Spotted ALPHA WAVE MOVEMENT: Artifacts & Prophecies
+
+;0x6D895E7C=Zit! Spotted ERIK WOLLO: Monument
+0x6D895E7C=Zit! Spotted ERIK WOLLO: Monument
+
+;0x9BC03AE9=Zit! Spotted PETE NAMLOOK: 1st Impression
+0x9BC03AE9=Zit! Spotted PETE NAMLOOK: 1st Impression
+
+;0x4A3097CB=Zit! Spotted AUTECHRE: Bike
+0x4A3097CB=Zit! Spotted AUTECHRE: Bike
+
+;0x7C7AFC5F=Zit! Spotted PETE NAMLOOK & KLAUS SCHULZE FEAT. BILL LASWELL: V/8 - Psychedelic Brunch
+0x7C7AFC5F=Zit! Spotted PETE NAMLOOK & KLAUS SCHULZE FEAT. BILL LASWELL: V/8 - Psychedelic Brunch
+
+;0x1208272F=Zit! Spotted CHILLED BY NATURE: Go Forward (Love Bubble Mix)
+0x1208272F=Zit! Spotted CHILLED BY NATURE: Go Forward (Love Bubble Mix)
+
+;0x3780F124=Zit! Spotted SPACETIME CONTINUUM: Voice of the Earth
+0x3780F124=Zit! Spotted SPACETIME CONTINUUM: Voice of the Earth
+
+;0x4E971F50=Zit! Spotted LARRY HEARD: Cosmology Myth
+0x4E971F50=Zit! Spotted LARRY HEARD: Cosmology Myth
+
+;0x5CE6BBEF=Zit! Spotted ALUCIDNATION: Skygazer (3002 Remix)
+0x5CE6BBEF=Zit! Spotted ALUCIDNATION: Skygazer (3002 Remix)
+
+;0x4E9E1F62=Zit! Spotted COLDCUT: AutumnLeaves (Irresistable Force Mix Trip 2)
+0x4E9E1F62=Zit! Spotted COLDCUT: AutumnLeaves (Irresistable Force Mix Trip 2)
+
+;0x5CC9BBB9=Zit! Spotted TOM MIDDLETON: Moonbathing
+0x5CC9BBB9=Zit! Spotted TOM MIDDLETON: Moonbathing
+
+;0xE9955406=Zit! Spotted SYSTEM 7: Masato Eternity (Original Mix)
+0xE9955406=Zit! Spotted SYSTEM 7: Masato Eternity (Original Mix)
+
+;0x149BAA16=Zit! Spotted MOBY: My Beautiful Sky
+0x149BAA16=Zit! Spotted MOBY: My Beautiful Sky
+
+;0xC2340CA0=Zit! Spotted THE ORB: A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld (Live Mix MK 10)
+0xC2340CA0=Zit! Spotted THE ORB: A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld (Live Mix MK 10)
+
+;0x0C72A11C=Zit! Spotted JEFFREY OSBORNE: Stay With Me Tonight
+0x0C72A11C=Zit! Spotted JEFFREY OSBORNE: Stay With Me Tonight
+
+;0xA3CA4FC9=Zit! Spotted MORRISSEY: Everyday Is Like Sunday
+0xA3CA4FC9=Zit! Spotted MORRISSEY: Everyday Is Like Sunday
+
+;0x9206AADE=Zit! Spotted LEVEL 42: Something About You
+0x9206AADE=Zit! Spotted LEVEL 42: Something About You
+
+;0xAFA9667F=Zit! Spotted RODIGAN INTRO
+0xAFA9667F=Zit! Spotted RODIGAN INTRO
+
+;0xA12B4983=Zit! Spotted BARRINGTON LEVY: Don't Fuss Nor Fight (aka Sweet Reggae Music)
+0xA12B4983=Zit! Spotted BARRINGTON LEVY: Don't Fuss Nor Fight (aka Sweet Reggae Music)
+
+;0x5BBE3EAA=Zit! Spotted INI KAMOZE: Outta Jamaica
+0x5BBE3EAA=Zit! Spotted INI KAMOZE: Outta Jamaica
+
+;0x3DFB0324=Zit! Spotted DAMIAN 'JR GONG' MARLEY: Holiday
+0x3DFB0324=Zit! Spotted DAMIAN 'JR GONG' MARLEY: Holiday
+
+;0x7601F331=Zit! Spotted THE MORWELLS & PRINCE JAMMY: Jammin' For Survival
+0x7601F331=Zit! Spotted THE MORWELLS & PRINCE JAMMY: Jammin' For Survival
+
+;0x684757BC=Zit! Spotted JOHN HOLT: Police In Helicopter
+0x684757BC=Zit! Spotted JOHN HOLT: Police In Helicopter
+
+;0x22A0CC70=Zit! Spotted SUGAR MINOTT: Hard Time Pressure
+0x22A0CC70=Zit! Spotted SUGAR MINOTT: Hard Time Pressure
+
+;0x04E190F2=Zit! Spotted DESMOND DEKKER & THE ACES: 007 (Shanty Town)
+0x04E190F2=Zit! Spotted DESMOND DEKKER & THE ACES: 007 (Shanty Town)
+
+;0x07DF96AA=Zit! Spotted MAJOR LAZER FEAT. TURBULENCE: Anything Goes
+0x07DF96AA=Zit! Spotted MAJOR LAZER FEAT. TURBULENCE: Anything Goes
+
+;0x19243C32=Zit! Spotted PRINCE JAMMY: Jammys A Shine
+0x19243C32=Zit! Spotted PRINCE JAMMY: Jammys A Shine
+
+;0x6B6EE0C6=Zit! Spotted TOOTS & THE MAYTALS: 54-46 Was My Number
+0x6B6EE0C6=Zit! Spotted TOOTS & THE MAYTALS: 54-46 Was My Number
+
+;0x5CB9435B=Zit! Spotted FRANKIE PAUL: Worries In The Dance
+0x5CB9435B=Zit! Spotted FRANKIE PAUL: Worries In The Dance
+
+;0x4EE9A7BC=Zit! Spotted MR. VEGAS: Mus Come a Road
+0x4EE9A7BC=Zit! Spotted MR. VEGAS: Mus Come a Road
 

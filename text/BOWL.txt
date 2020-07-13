@@ -30,7 +30,7 @@
 0x30082D8D=按~INPUT_PICKUP~退出。
 
 ;0x3304DD22=You don't have enough cash to play.
-0x3304DD22=你没有足够的金钱来打球。
+0x3304DD22=你的钱不够，无法打保龄球。
 
 ;0x413B798F=Half Game
 0x413B798F=半场
@@ -102,7 +102,7 @@
 0xC5288287=你以~1~局比赛的优势获胜。
 
 ;0xCEE994ED=Press ~INPUT_PICKUP~ if you want to bowl.
-0xCEE994ED=如果你想打保龄球，按下~INPUT_PICKUP~。
+0xCEE994ED=按~INPUT_PICKUP~打保龄球。
 
 ;0xDA918175=X
 0xDA918175=X
