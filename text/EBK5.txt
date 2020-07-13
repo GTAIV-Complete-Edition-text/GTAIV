@@ -3,7 +3,7 @@
 0x084CC799=PLACEHOLDER
 
 ;0x14554218=You know, I don't think we'd get on. Sorry. - N
-0x14554218=你知道的，我不觉得我们可以。抱歉。- N
+0x14554218=那个，我觉得我们不太合适。抱歉。 - N
 
 ;0x14F78956=PLACEHOLDER
 0x14F78956=PLACEHOLDER
@@ -15,7 +15,7 @@
 0x1A76221F=PLACEHOLDER
 
 ;0x1ED9032B=Life is soo unfair! What I saw happen to you was definitely a case of discrimination. Can't anyone give an honest guy like you a break?! It makes me so angry! If you don't blame me for what happened then let's go on another date. Come get me at my place on F and Brown by
-0x1ED9032B=生活如此不公！我从你身上看到了一个被歧视的案例。难道没有人能给像你这样的老实人一个机会吗？这让我很生气！如果你不怪我，那我们再去约会吧。来吧，来F和Brown的附近接我
+0x1ED9032B=生活如此不公！你的遭遇是被歧视的典型案例。他们就不能放过你这样的老实人吗?!我实在是很生气！如果你没生我气，我们就再约一次吧。我家在F路跟Brown路那边。(
 
 ;0x270A94B2=PLACEHOLDER
 0x270A94B2=PLACEHOLDER
@@ -30,13 +30,13 @@
 0x3B460838=PLACEHOLDER
 
 ;0x3B8EBC96=this Saturday
-0x3B8EBC96=这个星期六
+0x3B8EBC96=前)这周六来找我吧。
 
 ;0x3D35B16A=this Tuesday.
-0x3D35B16A=这个星期二。
+0x3D35B16A=前)这周二来找我吧。
 
 ;0x3FDECFC7=Yeah, I blame you for what happened. You're just like the rest of them. Trying to keep an honest man like me down. Goodbye. - N
-0x3FDECFC7=是的，我想怪你你所发生的一切。你就像其他人一样。试图让我这样人一直老实着。再见
+0x3FDECFC7=是的，我很生你气。你和他们没有差别，只会让我这种老实人失望。再见。 - N
 
 ;0x41B7E0FD=Bye,
 0x41B7E0FD=再见，
@@ -48,7 +48,7 @@
 0x4A1BDAB4=PLACEHOLDER
 
 ;0x4A4EDA16=What happened to you? Did you go off with some other internet bitch rather than meeting me?! Is that the kind of guy you are? Shop for women online like they're pieces of meat and then only go on dates with the leanest cuts? You make me sick. Go to that whore. I'm so much more real than her!
-0x4A4EDA16=你出什么问题了？你是不是跟别的网上的婊子出去鬼混而不是来见我？你就是这样的人吗？难道在网上和女人相亲就像在超市买肉想吃什么肉就吃什么肉吗？你恶心到我了！去找那个鸡吧，我比她真实太多了。
+0x4A4EDA16=你到底在干什么？你是不是在网上找了来的婊子鬼混，就不来找我了?!原来你是这种人吗？在网上选购女人，然后只约最好的那个出门？你恶心到我了！找那个娼妓去吧，我比她现实多了！
 
 ;0x4DDBAD63=PLACEHOLDER
 0x4DDBAD63=PLACEHOLDER
@@ -57,10 +57,10 @@
 0x4F7855EF=PLACEHOLDER
 
 ;0x4F91E49C=Hmm, you sound interesting. I can't believe you've come to America with everything we're doing to the rest of the world and everything we're doing to the disadvantaged here in Liberty City. My place is on F in Little Italy. Come get me by
-0x4F91E49C=嗯，你看起来很有意思。我不敢相信你来美国是带着像我们为世界其他地方所做的目标而来的，我们一直致力于帮助自由城里的弱势群体。来接我吧，我在Little Italy。
+0x4F91E49C=嗯，你这人好像有点意思。我们美国对世界其他地区干了这么多事，自由城对弱者如此不公，没想到你还是来到了这里。我家在Little Italy的F路。(
 
 ;0x581437AA=I'm glad you're feeling better. I'll see you then. - N
-0x581437AA=我很高兴你好些了。我等会儿去见你。- N
+0x581437AA=你身体健康就好。我们之后见。 - N
 
 ;0x5C7C9686=See ya.
 0x5C7C9686=再见。
@@ -69,10 +69,10 @@
 0x5CE7806B=PLACEHOLDER
 
 ;0x5EEAF4D4=this Wednesday
-0x5EEAF4D4=这个星期三
+0x5EEAF4D4=前)这周三来找我吧。
 
 ;0x65D6D32F=I'm pretty sure that what happened to you happened on purpose. You don't want to be around me. - N
-0x65D6D32F=我很确定你做的所有事情都是故意的。你不想和我在一起。- N
+0x65D6D32F=我看你这是存心的，纯粹是不想跟我交往而已。 - N
 
 ;0x6E2270A1=PLACEHOLDER
 0x6E2270A1=PLACEHOLDER
@@ -96,7 +96,7 @@
 0x79CC0B2B=PLACEHOLDER
 
 ;0x7BD49119=I look forward to meeting you. I'll be there. - N
-0x7BD49119=我期待见到你。我一定会去的- N
+0x7BD49119=我很期待与你见面。我会来的。 - N
 
 ;0x80525E31=See ya.
 0x80525E31=再见。
@@ -114,13 +114,13 @@
 0x895718CB=嗨，
 
 ;0x89EACAC7=this Monday.
-0x89EACAC7=这个星期一。
+0x89EACAC7=前)这周一来找我吧。
 
 ;0x8A437213=Bye,
 0x8A437213=再见，
 
 ;0x90BED87B=this Sunday.
-0x90BED87B=这个星期天。
+0x90BED87B=前)这周日来找我吧。
 
 ;0x96680C31=PLACEHOLDER
 0x96680C31=PLACEHOLDER
@@ -141,10 +141,10 @@
 0x9CC6BF92=嘿，
 
 ;0xA2C22314=See ya.
-0xA2C22314=再见，
+0xA2C22314=再见。
 
 ;0xA65D52D7=Hi,
-0xA65D52D7=嘿，
+0xA65D52D7=嗨，
 
 ;0xA98FBCEE=PLACEHOLDER
 0xA98FBCEE=PLACEHOLDER
@@ -174,13 +174,13 @@
 0xC4433FEC=PLACEHOLDER
 
 ;0xC56DE86B=See ya.
-0xC56DE86B=再见，
+0xC56DE86B=再见。
 
 ;0xC6F40454=PLACEHOLDER
 0xC6F40454=PLACEHOLDER
 
 ;0xC7835469=this Friday.
-0xC7835469=这个星期五。
+0xC7835469=前)这周五来找我吧。
 
 ;0xC7BD5C64=PLACEHOLDER
 0xC7BD5C64=PLACEHOLDER
@@ -216,11 +216,11 @@
 0xF13558D6=PLACEHOLDER
 
 ;0xF60E231C=this Thursday.
-0xF60E231C=这个星期四。
+0xF60E231C=前)这周四来找我吧。
 
 ;0xF74C02F6=PLACEHOLDER
 0xF74C02F6=PLACEHOLDER
 
 ;0xFD2DBFD5=Ouch. I'm not feeling so good today. What happened was totally my fault. I definitely don't balme you. You're just a product of your environment and the way that society treats immigrants like you. I really want to spend some time with you. Please can we have another date? Come get me at my place on F and Brown by
-0xFD2DBFD5=哎哟.我今天感觉不太好。事情的发生的完全是我的错。我绝对不会责怪你。你只是因为社会对待你这样的移民的方式而造成的。我真的想和你在一起。我们可以再约会吗？来吧，来F和Brown的附近接我。
+0xFD2DBFD5=哎哟。我今天有点不舒服。都是我不好，我不会怪你的。你只是社会环境和对移民的不公待遇的受害者。我真的很想和你见见。我们可以再约一次吗？我家在F路跟Brown路那边。(
 

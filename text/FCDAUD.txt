@@ -15,7 +15,7 @@
 0x037D9769=010
 
 ;0x049A687F=~z~I'd love to, but i've got some shit going on just now.
-0x049A687F=~z~我挺想去的，但是我现在有点破事儿缠身。
+0x049A687F=~z~我挺想来的，但我现在有点抽不开身。
 
 ;0x04C6AC98=FCD_ACT_CALL_STRIP_YES
 0x04C6AC98=FCD_ACT_CALL_STRIP_YES
@@ -45,7 +45,7 @@
 0x0DBA56CE=100
 
 ;0x0F380FFB=~z~No. I can't do any drinking just now, man.
-0x0F380FFB=~z~不了，我现在不能再喝了，老哥。
+0x0F380FFB=~z~不了，我现在不能喝酒了，老哥。
 
 ;0x11FB9513=FCD_ACT_CALL_EAT_NO_GENERAL
 0x11FB9513=FCD_ACT_CALL_EAT_NO_GENERAL
@@ -63,10 +63,10 @@
 0x17F6683D=FCD_ACT_GETCALL_REJECT
 
 ;0x1965F143=~z~Hey man, it's Dwayne. I've got to start doing some other shit, having some fun. I used to really enjoy bowling. You wanna come with me?
-0x1965F143=~z~喂，兄弟，我是Dwayne，我现在要去做点别的事，找点乐子。我以前很喜欢打保龄球，你要和我一起去吗？
+0x1965F143=~z~喂，兄弟，我是Dwayne，我现在想换换心情，找点乐子。我以前很喜欢打保龄球，你想一起来吗？
 
 ;0x19C3BB4A=~z~I thought you must have lost my number, son. Been a long time. Too long. Don't matter.
-0x19C3BB4A=~z~我想你一定已经没有我的电话号码了，老弟。已经很久很久了，没有关系。
+0x19C3BB4A=~z~我还以为你把我的号码弄丢了，老弟。你太久没找我了，不过没关系。
 
 ;0x1A7D0AD3=FCD_ACT_CALL_STRIP_NO_RECENT
 0x1A7D0AD3=FCD_ACT_CALL_STRIP_NO_RECENT
@@ -75,7 +75,7 @@
 0x1B300B96=FCD_ACT_PBR_GETCALL_DRINK_YES
 
 ;0x211F7235=~z~All you want to do is eat. You got a tape worm or some shit? Maybe later.
-0x211F7235=~z~你唯一想做的就是吃，你是长了寄生虫了还是怎么了？下次再说吧。
+0x211F7235=~z~你就知道吃，你是肚子里长虫了吗？下次再说吧。
 
 ;0x22C21316=100
 0x22C21316=100
@@ -84,16 +84,16 @@
 0x2466AA26=010
 
 ;0x246FB6B0=~z~Hey man, I get emotional when that drink is in me. I can't deal with that shit so soon after last time.
-0x246FB6B0=~z~嘿，老哥，我上次喝酒喝得太嗨了，我现在还没有这么快缓过来。
+0x246FB6B0=~z~嘿，老哥，喝过酒后我容易情绪波动，现在我还没缓过来。
 
 ;0x25234EB1=~z~Can you come bowling?
-0x25234EB1=~z~你可以来打保龄球吗？
+0x25234EB1=~z~来打保龄球吗？
 
 ;0x25D36DC8=~z~Yeah, I'll roll with you, man. Pick me up within the hour.
-0x25D36DC8=~z~当然了，我可以和你一起去，待会来接我。
+0x25D36DC8=~z~当然了，我跟你一起吃，兄弟。一小时内来接我。
 
 ;0x26BC975E=~z~I'd love to Dwayne, but I'm kinda busy just now.
-0x26BC975E=~z~我也挺希望过去的，Dwayne，但是我现在有点忙。
+0x26BC975E=~z~我是想打，Dwayne，但我现在有点忙。
 
 ;0x26C55FBD=010
 0x26C55FBD=010
@@ -108,7 +108,7 @@
 0x2C0E5FDF=~z~终于来了？我好久没接到你的电话了，Niko。没关系。
 
 ;0x2D295EC1=~z~Listen, I wanna go bowling. Can you come?
-0x2D295EC1=~z~听着，我想去打保龄球，你能来吗？
+0x2D295EC1=~z~听着，我想去打保龄球，你来吗？
 
 ;0x2DD87B3E=~z~This is Dwayne. I can't get to the phone. Call back another time. Thank you.
 0x2DD87B3E=~z~我是Dwayne。现在没法接电话，过段时间再找我吧。谢谢。
@@ -117,7 +117,7 @@
 0x2DF20590=100
 
 ;0x2F5B0E13=~z~I was asleep, man... call back after midday.
-0x2F5B0E13=~z~我在睡觉，兄弟...中午以后再找我。
+0x2F5B0E13=~z~我在睡觉，兄弟...过了中午再找我。
 
 ;0x316FC29D=~z~Okay, man, I'll call you again later.
 0x316FC29D=~z~好的兄弟，晚点我再打回来。
@@ -132,7 +132,7 @@
 0x32BC252A=FCD_ACT_GETCALL_ACCEPT
 
 ;0x32E9EA3E=~z~You interested in going bowling?
-0x32E9EA3E=~z~你有兴趣去打保龄球吗？
+0x32E9EA3E=~z~你想去打保龄球吗？
 
 ;0x37FF341E=~z~You're sick, man. All you wanna do is stare at ass. Get yourself a wife. Another time, man.
 0x37FF341E=~z~你真变态，兄弟。整天只想着看屁股。早点结婚吧。改天再说，兄弟。
@@ -153,7 +153,7 @@
 0x3A962782=FCD_ACT_CALL_DRINK_NO_GENERAL
 
 ;0x3AFC4E07=~z~Nah, man. I ain't in the mood for that shit.
-0x3AFC4E07=~z~不了兄弟，我暂时没兴趣。
+0x3AFC4E07=~z~不了兄弟，我现在没那个心情。
 
 ;0x3CB814EE=~z~Hey, it's me - you got time to play video games?
 0x3CB814EE=~z~嗨，是我-你有时间玩游戏吗？
@@ -192,7 +192,7 @@
 0x46BCB2A9=100
 
 ;0x47A9EF11=~z~You can't? okay, I will call later.
-0x47A9EF11=~z~你不行？好吧，我晚点打过来。
+0x47A9EF11=~z~来不了？好吧，下次再找你。
 
 ;0x47FB8833=~z~I'm bored of video games for now, man - it's all you wanna do. Another time.
 0x47FB8833=~z~我现在对打游戏没兴趣－你就想做这个，回见。
@@ -259,13 +259,13 @@
 0x5DFA7756=FCD_ACT_PBR_GETCALL_DRINK_NO
 
 ;0x5E1D2ED2=~z~Hey son, you wanna get something to eat?
-0x5E1D2ED2=~z~老弟，你想吃点啥吗？
+0x5E1D2ED2=~z~老弟，你想去吃点吗？
 
 ;0x5E459499=~z~Not right now, son. I'm trying to get my life together. Last thing I need is getting in trouble down the strip joint.
 0x5E459499=~z~现在不行，小子。我要改善我的生活。现在最不需要的就是去脱衣舞夜店自找麻烦。
 
 ;0x60F8290C=~z~Bowling? Sure. It'll be just like in the movies. I'll head over to you.
-0x60F8290C=~z~保龄球？当然了，打保龄球就像活在电影里。我马上过来。
+0x60F8290C=~z~保龄球？好啊，打保龄球就像活在电影里。我马上过来。
 
 ;0x61C60DFE=~z~I'm bored - you wanna play some video games?
 0x61C60DFE=~z~我有点无聊-你想打游戏吗？
@@ -280,13 +280,13 @@
 0x637492EB=~z~好的，你明显太忙了，没空和我一起出去找乐子。空的时候给我电话。
 
 ;0x63C65620=~z~Aah, I just ate. Call me later.
-0x63C65620=~z~啊，我刚吃过。以后再说。
+0x63C65620=~z~啊，我刚吃过。以后再说吧。
 
 ;0x64013E7B=~z~I'm on my way over.
 0x64013E7B=~z~我现在过来了。
 
 ;0x642A448F=~z~No, man. I can't be getting my drink on just now, son... maybe later.
-0x642A448F=~z~不了，兄弟。我现在不想喝酒，小子...下次吧。
+0x642A448F=~z~不了，兄弟。我现在不能喝酒，小子...下次吧。
 
 ;0x677AFBF3=FCD_ACT_CALL_DRINK_NO_RECENT
 0x677AFBF3=FCD_ACT_CALL_DRINK_NO_RECENT
@@ -322,7 +322,7 @@
 0x6E87600F=~z~你想去喝酒吗？
 
 ;0x6FB64688=~z~Bowling? Okay. No problem. I'll come pick you up.
-0x6FB64688=~z~保龄球？好的。没问题。我会过来接你的。
+0x6FB64688=~z~保龄球？好的。没问题。我这就来接你。
 
 ;0x6FF25A1A=~z~Yeah, a drink would be good. I'll head over to your place within the hour.
 0x6FF25A1A=~z~好，喝点酒挺好的。我一小时内来找你。
@@ -331,7 +331,7 @@
 0x70561219=~z~你想和我一起去脱衣舞俱乐部吗，兄弟？
 
 ;0x70918A06=~z~Not bowling again, man... maybe another time. I can't face that shit just yet.
-0x70918A06=~z~还打保龄球啊，兄弟...以后再说吧。最近我不太想玩这个。
+0x70918A06=~z~还打保龄球啊，兄弟...改天再说吧。最近我不太想来这个。
 
 ;0x70E00FA6=FCD_ACT_PDW_GETCALL_EAT_YES
 0x70E00FA6=FCD_ACT_PDW_GETCALL_EAT_YES
@@ -340,7 +340,7 @@
 0x720844D3=~z~现在不行，小子，下次吧。
 
 ;0x733D223D=~z~Sure man, I could do with a drink. Pick me up in the next hour.
-0x733D223D=~z~当然了兄弟，我现在可以去喝酒。过会来接我。
+0x733D223D=~z~当然了兄弟，喝酒好啊。一小时内来接我。
 
 ;0x740ADD47=~z~Hey, Niko, it's me, Dwayne. Been some time, since I heard from you.
 0x740ADD47=~z~喂，Niko，是我，Dwayne。有段时间没接到你的电话了。
@@ -355,7 +355,7 @@
 0x7688802D=010
 
 ;0x76E3E2F9=~z~Hey man, it's me - been a while since I heard from you.
-0x76E3E2F9=~z~喂，兄弟，是我。好久没接到过你的电话了。
+0x76E3E2F9=~z~喂，兄弟，是我。好久没接到你的电话了。
 
 ;0x77093E0F=FCD_ACT_GETCALL_STRIP_FIRST
 0x77093E0F=FCD_ACT_GETCALL_STRIP_FIRST
@@ -370,7 +370,7 @@
 0x7DD775E4=~z~好啊，何不呢？我这就来你家。
 
 ;0x7DEBA4BA=~z~Bowling? Again? We only just did that shit. Maybe later.
-0x7DEBA4BA=~z~保龄球？还来啊？我们才刚刚玩过，下次吧。
+0x7DEBA4BA=~z~保龄球？还来啊？我们才刚打过，下次吧。
 
 ;0x7E2F2871=~z~Hi, Dwayne.
 0x7E2F2871=~z~嗨，Dwayne。
@@ -406,13 +406,13 @@
 0x842F1476=~z~当然。我不介意去打会儿保龄球，小子。一小时内来接我。
 
 ;0x8479DB22=~z~Yes, I'm pretty hungry. I'll be over to you within an hour.
-0x8479DB22=~z~好啊，我很饿，我马上到你那里。
+0x8479DB22=~z~好啊，我是饿了。我一小时内到你那里。
 
 ;0x852D8D9B=~z~You want to go drinking?
 0x852D8D9B=~z~想去喝点酒吗？
 
 ;0x85BBE385=~z~Talk to bitches and pay them for the privilege? I ain't in the mood, man. Maybe later.
-0x85BBE385=~z~找个婊子付点钱看私人大秀？我没啥兴趣，下次再说吧。
+0x85BBE385=~z~找个婊子付点钱看私人大秀？我没兴趣，下次再说吧。
 
 ;0x863AD6E7=~z~I ain't up to too much you wanna play video games for a bit?
 0x863AD6E7=~z~我没多少时间，你想打会游戏吗？
@@ -430,13 +430,13 @@
 0x88FA0274=FCD_ACT_PDW_CALL_REJECTED
 
 ;0x89D5DFB9=~z~Okay. No problem. Whatever. Call me some other time.
-0x89D5DFB9=~z~好的，没问题。算了。下次再给我电话吧。
+0x89D5DFB9=~z~好的，没问题。算了。有空打我电话。
 
 ;0x8AB68BE9=~z~Cool. I'll swing by your pad.
 0x8AB68BE9=~z~好，我这就来你家。
 
 ;0x8AD1465C=~z~You wanna get something to eat?
-0x8AD1465C=~z~你想吃点什么吗？
+0x8AD1465C=~z~你想去吃点吗？
 
 ;0x8BCDDBBA=~z~All you think about is fucking strippers. You're sick, man. Sick. Another time.
 0x8BCDDBBA=~z~你满脑子就想着脱衣舞女。真他妈变态。下次吧。
@@ -451,7 +451,7 @@
 0x8EFB908E=~z~嘿兄弟，想出去吃一顿吗？
 
 ;0x8EFED9C0=~z~For real, I need me some cardiac right now. Come get me from my crib.
-0x8EFED9C0=~z~说真的，我现在是需要点刺激的。来我公寓接我。
+0x8EFED9C0=~z~说真的，我现在是要来点刺激的。来我公寓接我。
 
 ;0x8FFC40D7=FCD_ACT_PDW_CALL_GAMES
 0x8FFC40D7=FCD_ACT_PDW_CALL_GAMES
@@ -463,16 +463,16 @@
 0x9024B346=FCD_ACT_PDW_CALL_STRIP
 
 ;0x90B5ED6D=~z~Okay. Call me when you less busy.
-0x90B5ED6D=~z~好的。有空你再给我打电话。
+0x90B5ED6D=~z~好的。有空你就给我打电话。
 
 ;0x9268210A=~z~No, man, I don't want to get no drink on just now. Later?
-0x9268210A=~z~不了，兄弟，我不想现在没酒喝，改天吧。
+0x9268210A=~z~不了，兄弟，我现在不想喝酒，改天吧。
 
 ;0x92E5FF91=100
 0x92E5FF91=100
 
 ;0x92F22924=~z~You want to meet up for a drink?
-0x92F22924=~z~你想一起出去喝一杯吗？
+0x92F22924=~z~你想一起去喝一杯吗？
 
 ;0x9403398B=100
 0x9403398B=100
@@ -490,13 +490,13 @@
 0x97177DCD=100
 
 ;0x98137C34=~z~Okay man - I know you got a lot of shit on - call me when you got time for your friends.
-0x98137C34=~z~好的老哥，我知道你现在一堆屁事，空了给兄弟回个电话。
+0x98137C34=~z~好的兄弟，我知道你现在很忙，空了给兄弟回个电话。
 
 ;0x983A9F3A=~z~Sorry Dwayne, I didn't realize what the time was.
 0x983A9F3A=~z~抱歉，Dwayne。我没注意时间。
 
 ;0x99897CFA=~z~Bowling? Yeah, I'd like that, but I'm just in the middle of some things, Dwayne.
-0x99897CFA=~z~保龄球？我是想打，但是我现在有事脱不开身，Dwayne。
+0x99897CFA=~z~保龄球？我是想打，但是我现在有事要忙，Dwayne。
 
 ;0x9ACC8662=010
 0x9ACC8662=010
@@ -505,7 +505,7 @@
 0x9C7EC7AC=~z~不了，我现在没心情社交，饭也刚吃过。以后再说吧。
 
 ;0x9CC1A143=~z~You got time to go bowling just now, son?
-0x9CC1A143=~z~现在有空去打保龄球吗，老弟？
+0x9CC1A143=~z~现在有空打保龄球吗，老弟？
 
 ;0x9E240BB3=FCD_ACT_PDW_CALL_STRIP_YES
 0x9E240BB3=FCD_ACT_PDW_CALL_STRIP_YES
@@ -517,7 +517,7 @@
 0x9ED7C283=~z~好啊，我一直很喜欢玩游戏。在家等我，我马上到。
 
 ;0xA01CD172=~z~Remember me, fool? It's Dwayne. You know - we was buddies for a little bit, anyway...
-0xA01CD172=~z~还记得我吗，傻逼？我是Dwayne。要知道我们以前可是老朋友了，算了...
+0xA01CD172=~z~还记得我吗，傻逼？我是Dwayne。我们以前可是老朋友了，算了...
 
 ;0xA13BCE8F=~z~Bowling? Sure, why not?
 0xA13BCE8F=~z~打保龄球？当然，何不呢？
@@ -535,7 +535,7 @@
 0xA25C0D2F=100
 
 ;0xA567414A=~z~Cool. It'll be fun. I will come over and pick you up.
-0xA567414A=~z~好。感觉会很有趣，我现在过来接你。
+0xA567414A=~z~好，一定会很有趣的。我现在过来接你。
 
 ;0xA59CC00A=100
 0xA59CC00A=100
@@ -544,7 +544,7 @@
 0xA682EAFF=010
 
 ;0xA7394FA4=~z~Not really, but I ain't got shit else to do right now. Pick me up within the hour.
-0xA7394FA4=~z~不是很想，不过我现在也没啥事做。一小时内来接我。
+0xA7394FA4=~z~一般般吧，不过我现在也没啥事做。一小时内来接我。
 
 ;0xA8C2D4F6=~z~You wanna get your drink on, son?
 0xA8C2D4F6=~z~想去喝几杯吗，小子？
@@ -553,10 +553,10 @@
 0xA9477B51=FCD_ACT_GETCALL_GAMES_FIRST
 
 ;0xAA2862FF=~z~No, I don't want to eat just now. Maybe later.
-0xAA2862FF=~z~不了，我现在还不想吃，过会吧。
+0xAA2862FF=~z~不了，我现在不太想吃，下次吧。
 
 ;0xAAB23FCB=~z~Hey, man, it's me.
-0xAAB23FCB=~z~嘿兄弟，是我。
+0xAAB23FCB=~z~喂，兄弟，是我。
 
 ;0xACCABA57=~z~Nah, man. Maybe later.
 0xACCABA57=~z~不了兄弟。下次再说。
@@ -583,16 +583,16 @@
 0xB565BCF5=~z~好，我们一起去吃点吧。我这就来你家接你。
 
 ;0xB655411C=~z~Niko? You still alive? I thought you'd fallen off the face of the fucking earth, son. Well, you back.
-0xB655411C=~z~Niko？你没死啊？我还以为你他妈已经不在地球了，小子。好吧，你回来了。
+0xB655411C=~z~Niko？你没死啊？我还以为你他妈已经人间蒸发了，小子。好吧，你回来了。
 
 ;0xB797534C=~z~Niko, on the real, I'm still real pissed at you for treating me like shit and disrespecting our friendship and shit. Call me later or something.
-0xB797534C=~z~Niko，真的，我还是很生气，因为你这样对我，不尊重我们的友谊。有空记得给我打电话。
+0xB797534C=~z~Niko，说真的，我还是很生气，你居然这样对我，不尊重我们的友谊。有空记得给我打电话。
 
 ;0xB8A29D63=~z~Dwayne, it's Niko.
 0xB8A29D63=~z~Dwayne，我是Niko。
 
 ;0xB96911BA=~z~Thanks man. I know it's a weird request, but it'll be fun. See you soon.
-0xB96911BA=~z~谢了兄弟。我知道这个请求很怪，不过不会让你失望的。待会儿见。
+0xB96911BA=~z~谢了兄弟。我知道这个请求很怪，不过一定会很有趣的。待会儿见。
 
 ;0xBC1BFD0B=~z~Yeah head over to my crib. Should be here for an hour.
 0xBC1BFD0B=~z~恩，朝我家的方向。一小时差不多能到了吧。
@@ -625,10 +625,10 @@
 0xC8698D41=100
 
 ;0xC9019334=~z~Okay, yeah. I'll wait for you for an hour.
-0xC9019334=~z~没问题，我会等你一小时。
+0xC9019334=~z~没问题，我等你一个小时。
 
 ;0xC9D1F7C1=~z~To be honest, I'm still mad at you for disrespecting our friendship and shit. I need time to chill. Call me some other time.
-0xC9D1F7C1=~z~说实话，你不尊重我们之间的友谊的屁事还是让我很气。给我点时间冷静冷静。改天再打过来吧。
+0xC9D1F7C1=~z~说实话，你不尊重我们之间的友谊还是让我很气。我需要冷静一会儿。改天再打过来吧。
 
 ;0xCA6235E8=FCD_ACT_PDW_GETCALL_BOWL_YES
 0xCA6235E8=FCD_ACT_PDW_GETCALL_BOWL_YES
@@ -670,7 +670,7 @@
 0xCFC75B23=FCD_ACT_CALL_GAMES_YES
 
 ;0xD0AD4A48=~z~No, I can't be doing bowling again just now. We only just did that.
-0xD0AD4A48=~z~不了，我现在不能再去打保龄球了，我们刚刚去打过。
+0xD0AD4A48=~z~不了，我现在不打保龄球，我们才刚打过。
 
 ;0xD0D7286C=FCD_ACT_CALL_SLEEP_REPLY
 0xD0D7286C=FCD_ACT_CALL_SLEEP_REPLY
@@ -724,7 +724,7 @@
 0xDDCCDA81=~z~好的，一会儿见。
 
 ;0xDE290063=~z~Again so soon? Man, you got a fucking problem.
-0xDE290063=~z~这么快又来？兄弟，你有毛病吧？
+0xDE290063=~z~不是刚去过？兄弟，你有毛病吧？
 
 ;0xDEC9E622=100
 0xDEC9E622=100
@@ -757,10 +757,10 @@
 0xE990A8DC=~z~听起来挺有趣的，我马上来。
 
 ;0xEA480487=~z~All we ever do is go eat together. Another time, son.
-0xEA480487=~z~我们才刚一起去吃过。改天吧，老弟。
+0xEA480487=~z~我们才刚一起吃过。改天吧，老弟。
 
 ;0xEDAB0C12=~z~You hungry? Wanna grab some food?
-0xEDAB0C12=~z~你饿吗？想不想出去吃顿？
+0xEDAB0C12=~z~你饿吗？想不想出去吃一顿？
 
 ;0xEE34D2E4=~z~Good. I'll be there soon.
 0xEE34D2E4=~z~好的，我马上就到。
@@ -772,16 +772,16 @@
 0xF23D5790=FCD_ACT_CALL_EAT_NO_RECENT
 
 ;0xF2A1D315=~z~I don't wanna get all sad and shit again, I felt real empty after we last went. Sorry, man.
-0xF2A1D315=~z~我不想再被搞一次了，上次之后我感觉真的很空虚。抱歉，兄弟。
+0xF2A1D315=~z~我不想再越喝越愁了，上次喝酒后我真的很空虚。抱歉，兄弟。
 
 ;0xF2F3314E=FCD_ACT_PDW_CALL_GREET
 0xF2F3314E=FCD_ACT_PDW_CALL_GREET
 
 ;0xF403D269=~z~Hey son, it's me.
-0xF403D269=~z~嘿，老弟，是我。
+0xF403D269=~z~喂，老弟，是我。
 
 ;0xF4258A6D=~z~Sure, I'll wait for you for an hour.
-0xF4258A6D=~z~没问题，我等你一个小时。
+0xF4258A6D=~z~没问题，我等你一小时。
 
 ;0xF5D67E55=100
 0xF5D67E55=100
@@ -799,7 +799,7 @@
 0xFB4665A0=~z~喂兄弟，我是Dwayne，你想去绅士俱乐部看屁股吗?
 
 ;0xFBC173BB=~z~No, man. I need to keep my head straight. Maybe later.
-0xFBC173BB=~z~不了兄弟，我需要保持我的头脑清醒。下次再说吧。
+0xFBC173BB=~z~不了兄弟，我需要保持头脑清醒。下次再说吧。
 
 ;0xFC1A282B=~z~We seem to do a lot of eating, son. Maybe later.
 0xFC1A282B=~z~我们好像吃得太频繁了。下次吧。
@@ -811,13 +811,13 @@
 0xFECF7419=~z~好的，我这就来接你。
 
 ;0xFF69AF8F=~z~I'm going to get some food. I wondered if you wanted to hang out?
-0xFF69AF8F=~z~我准备去吃顿饭。你想和我一起吃吗？
+0xFF69AF8F=~z~我准备去吃顿饭。你想和我一起吗？
 
 ;0xFF6B32A7=FCD_ACT_CALL_DRINK_YES
 0xFF6B32A7=FCD_ACT_CALL_DRINK_YES
 
 ;0xFFD9ED85=~z~Drink? Again? You some east European alcoholic, son? Maybe later, man.
-0xFFD9ED85=~z~喝酒？又来？你这个东欧酒鬼。以后再说吧，兄弟。
+0xFFD9ED85=~z~喝酒？又来？你小子就是东欧酒鬼？改天再说吧，兄弟。
 
 ;0xFFEF8C04=~z~Sorry Dwayne - I can't do video games just now - some other time.
 0xFFEF8C04=~z~对不起 Dwayne－我现在暂时不能玩游戏－下次吧。
