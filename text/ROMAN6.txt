@@ -12,7 +12,7 @@
 0x16AD51EC=目标图标会通过上下箭头表示~y~目的地~s~相对于你的位置。
 
 ;0x1AEE5946=You left ~b~Little Jacob~s~ behind, go get him.
-0x1AEE5946=你落下了~b~Little Jacob，~s~回去接他。
+0x1AEE5946=你把~b~Little Jacob~s~落下了，回去找他。
 
 ;0x21E780A3=When locked onto enemies you can switch between targets using ~PAD_RSTICK_LEFTRIGHT~.
 0x21E780A3=锁定敌人时，你可以通过~PAD_RSTICK_LEFTRIGHT~切换目标。

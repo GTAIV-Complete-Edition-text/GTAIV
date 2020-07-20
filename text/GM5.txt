@@ -45,7 +45,7 @@
 0x87222788=~r~车被毁了。
 
 ;0x8D6BA0E4=~s~Drive to the ~y~Charge Island Sewage Works.
-0x8D6BA0E4=~s~驾车前往~y~Charge Island污水处理厂。
+0x8D6BA0E4=~s~驾车前往~y~Charge岛污水处理厂。
 
 ;0xAAA9EE97=~r~ Packie and Gracie are dead.
 0xAAA9EE97=~r~Packie和Gracie死了。
@@ -66,7 +66,7 @@
 0xF038C3F2=~s~干掉残余的~r~Bulgarin的手下。
 
 ;0xF0B3C01E=~s~ You are too far away from ~b~Packie.~s~ Go back and get him.
-0xF0B3C01E=~s~ 你离~b~Packie太远了。~s~回去找他。
+0xF0B3C01E=~s~ 你离~b~Packie~s~太远了。回去找他。
 
 ;0xF1AF7CA1=~r~Packie is dead.
 0xF1AF7CA1=~r~Packie死了。
