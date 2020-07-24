@@ -8311,7 +8311,7 @@
 0x2DE1C396=开始
 
 ;0x1DE02393=Play (Safe Mode)
-0x1DE02393=游玩(安全模式)
+0x1DE02393=开始(安全模式)
 
 ;0x8A20FC13=Benchmark GTA IV
 0x8A20FC13=GTA IV 基准测试
@@ -10192,7 +10192,7 @@
 0x5FBCB6D2=~z~~x~这他妈有点扯淡吧？大麻违法。
 
 ;0xB2555C06=~z~~x~How the fuck can you make a plant illegal? Weed is just a plant.
-0xB2555C06=~z~~x~你他妈怎么就说一植物不合法了？大麻就一种植物而已。
+0xB2555C06=~z~~x~你他妈怎么就说一植物违法了？大麻就一种植物而已。
 
 ;0xC42EFFB9=~z~~x~It's just a plant.
 0xC42EFFB9=~z~~x~那就是种植物。
@@ -24681,7 +24681,7 @@
 0x6C37E075=Niko...Niko...我做不到。别来找我了。
 
 ;0x49B31B6C=I've been thinking about you, like, a lot. Call me. I need to see you. xoxo
-0x49B31B6C=我一直在像你，很想你。找我。我需要见到你。 xoxo
+0x49B31B6C=我一直在想你，很想你。找我。我需要见到你。 xoxo
 
 ;0x52AFAD61=When you take a time out from seeing those cheap sluts of yours, maybe you could give me a call - take me on a date. xoxo
 0x52AFAD61=你要是没忙着找你的哪个贱女人，就来约我一次吧，带我出去约会。 xoxo
@@ -29277,7 +29277,7 @@
 0xB2FA4624=~z~~x~你们二位可比那个鬼神性感多了。我们返航吧，Nicky。
 
 ;0x8806A443=~z~~x~Let's show these ladies some romantic shit. Prove that us alphas got a sensitive side too.
-0x8806A443=~z~~x~今天带两位女士看点浪漫一些的。让她们知道我们猛男也有感性的一面。
+0x8806A443=~z~~x~今天带两位女士看点浪漫的。让她们知道我们猛男也有感性的一面。
 
 ;0x8A1EE1F9=~z~~x~You girls can't even concentrate on this shit. You're thinking about my pecs, right. Let's go back, Nicky.
 0x8A1EE1F9=~z~~x~你们二位根本没心思参观吧。满脑子都是我的胸肌，对不对？我们回去吧，Nicky。

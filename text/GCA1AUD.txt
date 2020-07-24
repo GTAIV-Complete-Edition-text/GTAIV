@@ -9,10 +9,10 @@
 0x0344C120=100
 
 ;0x035B46DA=~z~Okay then Alex, I'll come and get you in the next hour.
-0x035B46DA=~z~好的Alex，我会在一个小时内来接你。
+0x035B46DA=~z~好的，Alex，我会在一个小时内来接你。
 
 ;0x03903762=~z~I'm on my way.
-0x03903762=~z~我在路上了。
+0x03903762=~z~我这就过来。
 
 ;0x055B4DB8=GCA_ACT_CALL_LIKEYES
 0x055B4DB8=GCA_ACT_CALL_LIKEYES
@@ -24,22 +24,22 @@
 0x09F00863=~z~Alex，我是Niko。
 
 ;0x0F21374D=~z~Okay, Alex. I'll try you again later.
-0x0F21374D=~z~好吧，Alex。我稍后再打给你。
+0x0F21374D=~z~好吧，Alex。我以后再打给你。
 
 ;0x0F365701=~z~Oh, you've decided to call, have you?
-0x0F365701=~z~你已经决定打电话了，不是吗？
+0x0F365701=~z~噢，总算想起来打电话找我了是吧？
 
 ;0x0FE98631=~z~Why don't you show me a good time?
-0x0FE98631=~z~咱俩为什么不找点乐子呢？
+0x0FE98631=~z~咱俩一起去找点乐子吧？
 
 ;0x10CD5E46=~z~I'll see you then.
 0x10CD5E46=~z~到时候见。
 
 ;0x11BFD3C1=~z~I'll be by in a bit.
-0x11BFD3C1=~z~我马上就到。
+0x11BFD3C1=~z~我一会儿就到。
 
 ;0x15116A46=~z~Sure, I'll be there in the next hour.
-0x15116A46=~z~好的,我会在一个小时内到达那里。
+0x15116A46=~z~好的，我一小时内就过来。
 
 ;0x16E59C67=GCA_ACT_GETCALL_IRATE
 0x16E59C67=GCA_ACT_GETCALL_IRATE
@@ -48,43 +48,43 @@
 0x1731B5B2=~z~Niko，我是Alex。
 
 ;0x183F5181=~z~Okay, Niko. If that's the way it is, that's the way it is.
-0x183F5181=~z~好的，Niko。如果你觉得应该这样去做，那就这样去做吧。
+0x183F5181=~z~好吧，Niko。既然情况如此，那我也没什么办法。
 
 ;0x19899C0F=~z~My psychiatrist says that I shouldn't be seeing anyone in this emotional state, maybe if you me call back later...
-0x19899C0F=~z~我的心理医生说我现在这种情绪状态最好不要见任何人，也许你可以以后再回电话...
+0x19899C0F=~z~我的心理医生说我现在这种情绪状态最好不要见任何人，你还是以后再打电话找我吧...
 
 ;0x19AC3708=~z~Why don't you and me go do something?
-0x19AC3708=~z~为什么咱俩不找点事干呢？
+0x19AC3708=~z~要么我们一起出去吧？
 
 ;0x1B13CACC=100
 0x1B13CACC=100
 
 ;0x1CD14DEF=~z~There are plenty of guys who'd kill to collect me from the hospital. I'll call one of them.
-0x1CD14DEF=~z~有很多人愿意杀到医院来接我，我会打给他们中的一个的。
+0x1CD14DEF=~z~有的是人愿意来医院接我，我找他们了。
 
 ;0x1D02AE88=~z~How's it going, Alex?
-0x1D02AE88=~z~最近过的怎么样，Alex？
+0x1D02AE88=~z~你好吗，Alex？
 
 ;0x1E948950=~z~Sorry, Alex but I don't memorize your sleeping hours. I'll call you later.
-0x1E948950=~z~抱歉，Alex。我不知道现在是你的睡觉时间，我晚点再打给你。
+0x1E948950=~z~抱歉，Alex。我不知道你现在在睡觉，我晚点再打给你。
 
 ;0x1F43B770=~z~That won't be a problem Niko. I can get you a fifty percent discount for the rest of the day.
-0x1F43B770=~z~没事，Niko。我可以在今天剩下的时间内给你打五折。
+0x1F43B770=~z~没问题，Niko。今天一天我都能给你五折的价。
 
 ;0x20F75AF9=~z~We'll do something another time then. I'll call again later.
-0x20F75AF9=~z~那我们改天再聚。我晚点再打给你。
+0x20F75AF9=~z~那我们改天再聚。之后我再找你。
 
 ;0x2325BA35=~z~I knew you'd do this. I just knew it.
-0x2325BA35=~z~我就知道你会这么做的。
+0x2325BA35=~z~我就知道你会这样，我就知道。
 
 ;0x2752B7A1=~z~You know, I don't feel like seeing you right now. Maybe in a while.
-0x2752B7A1=~z~你懂的，我现在不是很想见你。或许待会再见吧。
+0x2752B7A1=~z~那个，我现在不太想见你。过段时间吧。
 
 ;0x27845657=~z~Hey, it's Alex.
-0x27845657=~z~嗨，我是Alex。
+0x27845657=~z~嘿，我是Alex。
 
 ;0x28CD81E8=~z~Alright, I'll be there soon.
-0x28CD81E8=~z~行吧，我马上就到。
+0x28CD81E8=~z~好，我马上就到。
 
 ;0x28FFC754=100
 0x28FFC754=100
@@ -99,7 +99,7 @@
 0x2C545C11=~z~我是Alex Chilton。有事请留言。
 
 ;0x2CC5E559=~z~Well there's the mysterious European. I was starting to think you were done with me.
-0x2CC5E559=~z~神秘的欧洲人来啦，我都开始觉得你和我已经分手了。
+0x2CC5E559=~z~神秘欧洲人来啦，我差点以为你和我已经分手了。
 
 ;0x2CCA665E=100
 0x2CCA665E=100
@@ -117,19 +117,19 @@
 0x30B755F1=~z~Alex，你好。
 
 ;0x30E32DED=~z~I didn't know you'd be in bed. I'm sorry.
-0x30E32DED=~z~我并不知道你还在睡觉，十分抱歉。
+0x30E32DED=~z~我不知道你还在睡觉，真对不起。
 
 ;0x320BCFE4=GCA_ACT_CALL_LIKENO_2_AB
 0x320BCFE4=GCA_ACT_CALL_LIKENO_2_AB
 
 ;0x335FFFCA=~z~Another time, Alex. We will put on a rain check.
-0x335FFFCA=~z~下次吧，Alex。我们改天再见。
+0x335FFFCA=~z~那就下次吧，Alex。我们改天再见。
 
 ;0x352AB510=~z~Alex, I want to go shopping. Can you get me some money off?
 0x352AB510=~z~Alex，我想去购物。你能给我点折扣吗？
 
 ;0x367A55F0=~z~Niko, I just can't see you right now. I have to put in some serious Daddy time to make sure the card doesn't get cut off.
-0x367A55F0=~z~Niko，我现在真的不能和你见面。我现在必须得多陪我老爸不然我那被我刷爆的信用卡就没人帮我付了。
+0x367A55F0=~z~Niko，我现在不能陪你。我现在得好好陪着我亲爹，否则就没人帮我付信用卡账单了。
 
 ;0x37EE5A08=GCA_ACT_GETCALL_VERYIRATE
 0x37EE5A08=GCA_ACT_GETCALL_VERYIRATE
@@ -141,13 +141,13 @@
 0x39182752=GCA_ACT_CALL_REQ_SPEC_YES
 
 ;0x3E107BF4=~z~Okay, I was getting ready, but fine.
-0x3E107BF4=~z~好了，我刚刚在准备，现在好了。
+0x3E107BF4=~z~好吧，我刚准备的差不多，但也没事。
 
 ;0x3ED6ADFA=~z~I'll be there in a bit.
 0x3ED6ADFA=~z~我马上就到。
 
 ;0x403C3D23=~z~I'll be waiting, Niko.
-0x403C3D23=~z~我会等着你的，Niko。
+0x403C3D23=~z~我等着你，Niko。
 
 ;0x42E3A91D=GCA_ACT_GETCALL_REJECT_VERYIRATE
 0x42E3A91D=GCA_ACT_GETCALL_REJECT_VERYIRATE
@@ -156,25 +156,25 @@
 0x436A034E=010
 
 ;0x43CFF09B=~z~I'm sorry but I've got to see the girls. Maybe another time.
-0x43CFF09B=~z~我很抱歉但我必须得去见妹子们了。下次再说吧。
+0x43CFF09B=~z~我很抱歉，但我跟姐妹们有约在先。下次再说吧。
 
 ;0x44060F5A=~z~Niko, this is Alex calling.
 0x44060F5A=~z~Niko，我是Alex。
 
 ;0x441C0D6C=~z~Alright, well top prize for effort. I'll let you take me out. Come by in the next hour.
-0x441C0D6C=~z~好的，现在给你的努力颁发一等奖。我会让你带我出去。一个小时内来接我吧。
+0x441C0D6C=~z~好了，现在给你的努力颁发一等奖。我允许你带我出去。一个小时内来接我吧。
 
 ;0x44BEC89B=010
 0x44BEC89B=010
 
 ;0x44D8957E=~z~Niko, you picked up. Well it's been a while since I've heard from you.
-0x44D8957E=~z~Niko，你终于接电话了。很久没有听到过你的消息了。
+0x44D8957E=~z~Niko，你终于接电话了。我好久没接到你的联络了。
 
 ;0x45CC0B21=GCA_ACT_GETCALL_REJECT_VERYIRATE
 0x45CC0B21=GCA_ACT_GETCALL_REJECT_VERYIRATE
 
 ;0x45E032CC=~z~From now on I am only dating Americans.
-0x45E032CC=~z~从现在起我只和美国人约会了。
+0x45E032CC=~z~从现在起我只约美国人了。
 
 ;0x479C7A0D=GCA_ACT_CALL_LIKENO_2_AA
 0x479C7A0D=GCA_ACT_CALL_LIKENO_2_AA
@@ -183,7 +183,7 @@
 0x485C3CF0=100
 
 ;0x4B6508C5=~z~What are you doing? Ha fucking ha. I'm asleep. Call me after noon.
-0x4B6508C5=~z~你干什么呢？呵呵。我正睡觉呢。下午再打给我。
+0x4B6508C5=~z~你搞什么啊？呵呵。我正睡觉呢。下午再打给我。
 
 ;0x4C597F10=~z~Why don't you take me out on a date?
 0x4C597F10=~z~为什么不带我出去约会呢？
@@ -198,10 +198,10 @@
 0x4D4FF42E=GCA_ACT_PAL_CALL_DATE
 
 ;0x4F3F67DD=~z~I'm not saying this is over for good but I need a break.
-0x4F3F67DD=~z~我不是说这咱们已经结束了，但我确实需要休息一下。
+0x4F3F67DD=~z~我不是说咱们分了，但我确实需要休息。
 
 ;0x4F9F1F11=~z~Well, I blew off a lot of people to see you but... sure.
-0x4F9F1F11=~z~好吧，我推掉了很多人为了和你见面不过...好吧。
+0x4F9F1F11=~z~好吧，为了跟你约会我推了很多人，不过...好吧。
 
 ;0x50E5D561=100
 0x50E5D561=100
@@ -210,28 +210,28 @@
 0x52F1712B=GCA_ACT_GETCALL_HOSP_REJ_HILIKE
 
 ;0x5353BE27=~z~This is a fucking joke. You never want to go out with me.
-0x5353BE27=~z~这就是一个该死的玩笑。你从未真正想要和我出去玩。
+0x5353BE27=~z~这他妈就是开玩笑。你根本就不想和我出去玩。
 
 ;0x539B9BBD=~z~Alex, how's it going?
-0x539B9BBD=~z~Alex，最近过得怎么样？
+0x539B9BBD=~z~Alex，你好吗？
 
 ;0x53B723A2=~z~Sorry Alex, it's over between us. I can't say I'm going to miss you.
-0x53B723A2=~z~我很抱歉Alex，咱俩之间结束了。我也不知道以后会不会想你。
+0x53B723A2=~z~抱歉，Alex，咱俩之间结束了。我也不知道以后会不会想你。
 
 ;0x53B7E41A=~z~See you in a bit.
-0x53B7E41A=~z~待会见。
+0x53B7E41A=~z~待会儿见。
 
 ;0x54006525=GCA_ACT_ANSWER_PHONE
 0x54006525=GCA_ACT_ANSWER_PHONE
 
 ;0x569B8169=~z~Oh, you picked up. I was starting to think I'd have to get Daddy's private investigator to track you down, Niko.
-0x569B8169=~z~哦，你可算接电话了。我都开始在想我是不是应该让我爸的私家侦探调查你的行踪了，Niko。
+0x569B8169=~z~噢，你可算接电话了。我都在想是不是应该让我爸的私家侦探调查你的行踪了，Niko。
 
 ;0x57BD0D67=~z~Fuck you. I could have done anything now. You were lucky I agreed to see you.
-0x57BD0D67=~z~去你的。我现在明明可以做任何我想做的事。你很幸运我愿意见你。
+0x57BD0D67=~z~操你妈的。本来我有的是选择。选择跟你约会是你的夫妻。
 
 ;0x59B72569=~z~Are you fucking stupid? I'm sleeping. Call me back after noon. I might be awake then.
-0x59B72569=~z~你他妈是龙鸣是吧？我正睡觉呢。下午再打给我。那时候我可能会醒。
+0x59B72569=~z~你他妈白痴吧？我正睡觉呢。下午再打给我。那时候我可能醒着。
 
 ;0x5A354BC8=100
 0x5A354BC8=100
@@ -240,7 +240,7 @@
 0x5C33BB18=100
 
 ;0x5E11D3A3=~z~Shit, I would have been better off putting my energy into a block of wood than you.
-0x5E11D3A3=~z~见鬼，我把自己的精力放在一块木头上都比你更好。
+0x5E11D3A3=~z~妈的，我把心思花在木头上都比花在你身上强。
 
 ;0x61CC381E=~z~Alex, that you?
 0x61CC381E=~z~Alex，是你吗？
@@ -261,13 +261,13 @@
 0x64DB82D6=100
 
 ;0x65FDA9E8=~z~Alex Chilton stood up by a European nobody? My friends will not believe it.
-0x65FDA9E8=~z~Alex Chilton站在一个欧洲人的面前？我的朋友们肯定不信。
+0x65FDA9E8=~z~Alex Chilton被一个欧洲小喽啰给鸽了？我那些朋友肯定不信。
 
 ;0x678B9324=100
 0x678B9324=100
 
 ;0x67DFF6CF=~z~This is a fucking joke. You never want to go out with me.
-0x67DFF6CF=~z~这就是一个该死的玩笑。你从未真正想要和我出去玩。
+0x67DFF6CF=~z~这他妈就是开玩笑。你根本就不想和我出去玩。
 
 ;0x6847539C=100
 0x6847539C=100
@@ -279,19 +279,19 @@
 0x6D0EEDB0=GCA_ACT_PAL_CALL_ACCEPTED
 
 ;0x6DC80029=~z~Thanks Alex, that's kind of you.
-0x6DC80029=~z~Alex，你对我真是太好了，真的牛批。
+0x6DC80029=~z~谢了，Alex，你对我真是太好了。
 
 ;0x70CB1DB4=~z~Be warned Niko, I look like a mess.
-0x70CB1DB4=~z~警惕点Niko，我看起来一团糟。
+0x70CB1DB4=~z~先说好，Niko，我看起来一团糟。
 
 ;0x722EC7D7=010
 0x722EC7D7=010
 
 ;0x734C1F2E=~z~Alex, I'm sorry about this but I can't take you out anymore.
-0x734C1F2E=~z~Alex，我很抱歉但我再也不能带你出去了。
+0x734C1F2E=~z~Alex，很对不起，但我不能带你出去了。
 
 ;0x74AE8DFA=~z~Hey Niko, I was just thinking I like guys I date to look good in case the paps snap us together or something.
-0x74AE8DFA=~z~嗨Niko，我觉得我喜欢跟我约会的人好看一些，这样被狗仔队拍到也不会太尴尬。
+0x74AE8DFA=~z~喂，Niko，其实我比较希望我的约会对象能好看点，这样被狗仔队拍到也不会太尴尬。
 
 ;0x77D3BFCB=100
 0x77D3BFCB=100
@@ -300,28 +300,28 @@
 0x78450623=GCA_ACT_GETCALL_HOSP_REJ_LOLIKE
 
 ;0x794AE71B=~z~Hi Alex. It's Niko.
-0x794AE71B=~z~嗨Alex。我是Niko。
+0x794AE71B=~z~嗨，Alex。我是Niko。
 
 ;0x7D8633A2=~z~Sorry, Alex but I have to cancel our date.
-0x7D8633A2=~z~抱歉，Alex，但我不得不取消我们的约会。
+0x7D8633A2=~z~抱歉，Alex，但我们的约会不得不取消了。
 
 ;0x7FFD1DE4=~z~I am a beautiful flower and I need to be treated with care. And if you do that, I might date you again.
-0x7FFD1DE4=~z~我是一朵娇美并且需要被关爱的小花。如果你能做到的话,我也许会和你再次约会。
+0x7FFD1DE4=~z~我是一枝美丽的鲜花，需要得到精心照顾。能够做到的话，也许还有约会的机会。
 
 ;0x80128E37=~z~Sorry, Niko. But my friends just saw us out again and they might actually think we were serious. Leave it a bit.
-0x80128E37=~z~抱歉，Niko。但我的朋友们刚刚恰好碰见我们又在约会而且她们可能认为咱俩是认真的。别太在意了。
+0x80128E37=~z~抱歉，Niko。但我的朋友刚看见我俩一起出去过，她们可能以为我俩真的在交往了。过几天再说吧。
 
 ;0x8289DABB=~z~Okay, pick me up in the next hour and you can take me out.
-0x8289DABB=~z~好的，一小时内来接我然后带我出去玩。
+0x8289DABB=~z~好的，一小时内来接我，带我出去玩。
 
 ;0x8363D185=~z~Hey Alex, I want to go buy some clothes. Will you get me a discount?
-0x8363D185=~z~嗨Alex，我想去买点衣服，你能给我一点折扣吗？
+0x8363D185=~z~喂，Alex，我想去买点衣服。你能给我点优惠吗？
 
 ;0x83C683C4=~z~Alex. You probably got more important things to worry about like boots or something, but we're over.
-0x83C683C4=~z~Alex。比起我你可能有更重要的事情去关心比如靴子什么的，但我们之间结束了。
+0x83C683C4=~z~Alex。你要烦恼的东西可能很多，比如靴子之类的，但我们之间结束了。
 
 ;0x844CBCE9=~z~Yeah, well actually there's a cute orderly that I'd like to fuck. I'll do that and then get a lift home. Bye.
-0x844CBCE9=~z~对，实际上我有个更可爱更整洁的炮友等着我干。我会去找他然后搭个便车回家的。再见。
+0x844CBCE9=~z~好，刚好有个医院勤杂工跟我对上眼了。我会跟他来一炮然后乘他的车回去的。再见。
 
 ;0x84B99AC7=010
 0x84B99AC7=010
@@ -339,7 +339,7 @@
 0x88E20647=100
 
 ;0x89FD0300=~z~Well this really is a surprise. Guys don't normally wait this long to call me back.
-0x89FD0300=~z~这还真是令人惊喜。其他人通常不会等这么长时间才给我回电话的。
+0x89FD0300=~z~太令我惊讶了。一般人不会过这么久才打电话找我。
 
 ;0x8C0EAC4A=GCA_ACT_GETCALL_HOSP_REJ_MEDLIKE
 0x8C0EAC4A=GCA_ACT_GETCALL_HOSP_REJ_MEDLIKE
@@ -351,19 +351,19 @@
 0x8D50F0CD=010
 
 ;0x8D98B91B=~z~If you think you can just treat me like some slutty European whore then you are sadly mistaken.
-0x8D98B91B=~z~如果你认为你可以像对待那些淫荡的欧洲妓女一样对待我，那你就想错了。
+0x8D98B91B=~z~如果你以为你可以把我当成那些淫荡的欧洲妓女对待，那你就想错了。
 
 ;0x8EC0B686=~z~Alright then, I'll call another time.
 0x8EC0B686=~z~那好吧，有时间我再打给你。
 
 ;0x8EC42B9A=~z~Niko, I cannot get tied down right now. We should leave a bit of a gap between each date.
-0x8EC42B9A=~z~Niko，我现在不能被你束缚住。我们应该在每个约会之间给自己留点空间。
+0x8EC42B9A=~z~Niko，我现在不能被你束缚住。我们应该在两次约会间多留一些时间。
 
 ;0x8F7159E4=010
 0x8F7159E4=010
 
 ;0x90E45218=~z~Wait there, Alex.
-0x90E45218=~z~在那等着我，Alex。
+0x90E45218=~z~等着我，Alex。
 
 ;0x920B3F50=010
 0x920B3F50=010
@@ -372,13 +372,13 @@
 0x94A89F49=100
 
 ;0x95BE189B=~z~Niko, they're letting me out of the clinic and Daddy's driver is busy. Would you pick me up?
-0x95BE189B=~z~Niko，他们让我离开诊所，但我老爸的司机现在很忙。你能来接我吗？
+0x95BE189B=~z~Niko，他们放我出院了，但我老爸的司机很忙。你能来接我吗？
 
 ;0x98162913=~z~Sure, Niko. I tell the stores you're a friend of mine and you'll get a price reduction for the rest of the day.
-0x98162913=~z~好的，Niko。我会告诉店里的人你是我朋友，今天你可以有优惠。
+0x98162913=~z~当然了，Niko。我跟店里的人打声招呼，你今天就能拿到优惠价了。
 
 ;0x989B9B57=~z~Jesus. What sort of guy am I dating? Goodbye.
-0x989B9B57=~z~天啊，我到底在和什么玩意约会？再见。
+0x989B9B57=~z~天啊，我约的这是个什么人啊？再见。
 
 ;0x994035CD=010
 0x994035CD=010
@@ -387,31 +387,31 @@
 0x9B744613=GCA_ACT_GETCALL_SPEC_AA
 
 ;0x9BD2FAAA=~z~Niko, I am not someone you want to fuck things up with. You will regret losing me for the rest of your life.
-0x9BD2FAAA=~z~Niko，我不是那种你可以随便糊弄的人。接下来的一生你都会后悔失去我的。
+0x9BD2FAAA=~z~Niko，我不是你可以随便糊弄的人。失去我你可是要后悔终身的。
 
 ;0x9C1EDF48=~z~My therapist was right. He was totally right about you.
-0x9C1EDF48=~z~看来我的心理医生是对的。他对你的看法完全正确。
+0x9C1EDF48=~z~我的心理医生是对的，原来他对你的看法完全正确。
 
 ;0x9C659F27=~z~Do you want to take me out?
-0x9C659F27=~z~你想带我出去兜个风吗？
+0x9C659F27=~z~你想带我出去转转吗？
 
 ;0x9C7B4708=~z~I'm scared that if we see each other this much someone's going to get hurt. In a while, maybe.
-0x9C7B4708=~z~我担心咱俩见面这么频繁有人可能会吃醋，也许过段时间吧。
+0x9C7B4708=~z~我担心咱俩见面这么频繁，会有人受伤的。还是过段时间吧。
 
 ;0x9D2E1003=~z~Okay Niko, we can go on a date. Come pick me up in the next hour.
-0x9D2E1003=~z~好吧Niko，我们可以约个会。一个小时内来接我吧。
+0x9D2E1003=~z~好的，Niko，我们去约会吧。一小时内来接我。
 
 ;0x9E3DE643=GCA_ACT_CALL_SLEEP_REPLY
 0x9E3DE643=GCA_ACT_CALL_SLEEP_REPLY
 
 ;0x9ECC009C=~z~Girls like me do not get treated like this by guys like you. Deal with yourself, Niko.
-0x9ECC009C=~z~像我这样的女孩得不到像你这样的人的关爱。管好你自己吧，Niko。
+0x9ECC009C=~z~我这样的女孩不该被你这种人这般对待。你好好考虑下，Niko。
 
 ;0xA0178AEC=~z~It's Niko. You think you could arrange some money off for me at a shop?
-0xA0178AEC=~z~我是Niko。你觉得你可以帮我在商店安排一些打折吗？
+0xA0178AEC=~z~我是Niko。你能帮我在店里安排一些优惠吗？
 
 ;0xA4026C9D=~z~If you ever want a discount from a clothes shop in Liberty City, call me and I'll arrange it.
-0xA4026C9D=~z~如果你想要自由城的服装店给你打折的话，尽管给我打电话交给我来安排。
+0xA4026C9D=~z~如果你想在自由城的服装店拿到内部价，打电话找我我来安排。
 
 ;0xA54DE144=GCA_ACT_CALL_DATE_NO_RECENT
 0xA54DE144=GCA_ACT_CALL_DATE_NO_RECENT
@@ -420,16 +420,16 @@
 0xA6563325=GCA_ACT_CALL_DATE_YES
 
 ;0xA6E846B7=~z~Okay. I'll make some calls. I can get you a fifty percent off at the major outlets in Liberty City for the rest of the day.
-0xA6E846B7=~z~好的，我去打几个电话。在今天剩下的时间里我可以让你在自由城的所有Perseus专卖店获得五折优惠。
+0xA6E846B7=~z~好的，我去安排一下。今天一天你都可以在自由城的大商场拿到五折优惠。
 
 ;0xA7B37FB6=~z~See you soon, Alex.
-0xA7B37FB6=~z~再见，Alex。
+0xA7B37FB6=~z~一会儿见，Alex。
 
 ;0xA82788E5=~z~So you're still on the scene, are you?
-0xA82788E5=~z~所以你现在还在忙，对吗？
+0xA82788E5=~z~你现在还活着，对吗？
 
 ;0xA929E065=~z~Niko. I don't want this to get too serious. Maybe we shouldn't see each other this often. Maybe in a while.
-0xA929E065=~z~Niko。我不想让咱俩的关系太紧张。但我们确实不应该这么频繁的见面。或许在一段时间后吧。
+0xA929E065=~z~Niko，我不想让咱俩走得太近。我们还是不要这么频繁地见面了。改天再说吧。
 
 ;0xA95674C9=GCA_ACT_GETCALL_DATE
 0xA95674C9=GCA_ACT_GETCALL_DATE
@@ -441,7 +441,7 @@
 0xAA9A495A=GCA_ACT_PAL_CALL_HOSP_CANCEL
 
 ;0xAA9D3184=~z~Sorry, Alex, but I kind of have a lot on my plate. But maybe another time.
-0xAA9D3184=~z~抱歉，Alex，但我现在有点忙了。改天再见吧。
+0xAA9D3184=~z~抱歉，Alex，但我现在有点忙。改天再见吧。
 
 ;0xAD68B0AF=100
 0xAD68B0AF=100
@@ -456,28 +456,28 @@
 0xAE8A68E8=GCA_ACT_GETCALL_HOSP_ASK
 
 ;0xAF8DA21F=~z~A relationship is not a one way street, Niko. If you don't start going in both directions you might lose me.
-0xAF8DA21F=~z~Niko，谈恋爱可不是走独木桥。如果你不和我走一个方向的话你很可能会失去我的。
+0xAF8DA21F=~z~谈恋爱不是走独木桥，Niko。没有你来我往的话可是会失去我的。
 
 ;0xAFA3B4EE=~z~I'll go on a date with you, Niko. Pick me up in the next hour.
-0xAFA3B4EE=~z~我愿意和你约会，一个小时内来接我吧。
+0xAFA3B4EE=~z~我愿意和你约会，Niko。一小时内来接我吧。
 
 ;0xAFFEDC34=~z~Good news, Alex. You don't have to worry about slumming it no more. We're done.
-0xAFFEDC34=~z~好消息，Alex。你再也不用跟着我受苦了，咱俩到头了。
+0xAFFEDC34=~z~好消息，Alex。你不用担心跟着我会受苦了，咱俩到头了。
 
 ;0xB2C28AB4=100
 0xB2C28AB4=100
 
 ;0xB34362AE=~z~I can't just go helping anybody out. I'd lose my reputation. Why don't you hang out with me more and then maybe we'll talk?
-0xB34362AE=~z~我不能就这么天天帮助别人。我会失去我的声誉的。为什么不多和我一起出去逛逛，然后再接着聊呢？
+0xB34362AE=~z~我不能就这么天天帮你，面子会挂不住的。你多陪我出去的话说不定还有得聊。
 
 ;0xB41B5CBB=~z~Hello Alex.
-0xB41B5CBB=~z~你好Alex。
+0xB41B5CBB=~z~你好，Alex。
 
 ;0xB45190D9=GCA_ACT_GETCALL_REJECT
 0xB45190D9=GCA_ACT_GETCALL_REJECT
 
 ;0xB4A0E228=~z~I'll sort it, Niko. There'll be a discount for the rest of the day. Promise to buy nice clothes though.
-0xB4A0E228=~z~包在我身上，Niko。你今天全天都有五折优惠。不过答应我一定要买件好衣服啊。
+0xB4A0E228=~z~包在我身上，Niko。你今天全天都有五折优惠。一定要买件好衣服啊。
 
 ;0xB74D935B=GCA_ACT_PAL_GETCALL_DATE_NO
 0xB74D935B=GCA_ACT_PAL_GETCALL_DATE_NO
@@ -486,34 +486,34 @@
 0xB9D085B5=GCA_ACT_PAL_CALL_HILIKE
 
 ;0xBA7DB118=~z~I wouldn't ask you to do this if it wasn't absolutely necessary.
-0xBA7DB118=~z~如果不是绝对必要我就不会要求你这样做了。
+0xBA7DB118=~z~要不是情况紧急，我也不会来麻烦你。
 
 ;0xBB1608A0=~z~Sorry Alex but something's come up. I can't get you from the hospital.
-0xBB1608A0=~z~抱歉Alex，但是出现了一些事情我得解决。因此我不能去医院接你了。
+0xBB1608A0=~z~抱歉，Alex，但我突然有急事，不能来医院接你了。
 
 ;0xBF790424=~z~I'll give you another chance, Niko. But this better be the best date of my life though. Come collect me in an hour.
 0xBF790424=~z~我再给你一次机会，Niko。但这最好是我这辈子最棒的约会。一小时内来接我吧。
 
 ;0xC1AD9AD1=~z~My therapist was right. He was totally right about you.
-0xC1AD9AD1=~z~我的心理医生是对的，原来他对你的评价是完全正确的。
+0xC1AD9AD1=~z~我的心理医生是对的，原来他对你的看法完全正确。
 
 ;0xC1C18AD3=~z~Alex here, Niko.
-0xC1C18AD3=~z~我是Alex，Niko.
+0xC1C18AD3=~z~我是Alex，Niko。
 
 ;0xC23D9F62=100
 0xC23D9F62=100
 
 ;0xC2BB46E8=~z~Fine, Niko. I'll call a cab.
-0xC2BB46E8=~z~行吧，Niko。我叫出租好了。
+0xC2BB46E8=~z~好吧，Niko。我自己打的。
 
 ;0xC2F8730F=~z~Niko, time to earn some brownie points. Would you pick me up from the hospital?
 0xC2F8730F=~z~Niko，是时候挣点印象分了。你愿意来医院接我吗？
 
 ;0xC463CBCB=~z~A woman has needs, Niko. If you aren't prepared to meet those needs then she might look elsewhere.
-0xC463CBCB=~z~一个女人是有需求的，Niko。如果你不准备满足这些需求，那她很可能会找其他人。
+0xC463CBCB=~z~女人也是有需求的，Niko。如果你不准备满足这些需求，她可能会去找其他人。
 
 ;0xCA609872=~z~I'd like to see you.
-0xCA609872=~z~我很愿意见你。
+0xCA609872=~z~我很想见到你。
 
 ;0xCE9452E2=GCA_ACT_CALL_LIKENO_1_AA
 0xCE9452E2=GCA_ACT_CALL_LIKENO_1_AA
@@ -522,7 +522,7 @@
 0xCF46AF54=~z~那好吧，Niko。我和姐妹们出去玩好了。
 
 ;0xCFFAE167=~z~Well I'll get someone else to do it, goodbye.
-0xCFFAE167=~z~那我找其他人去做好了，拜拜。
+0xCFFAE167=~z~那我就找其他人来接我了，再见。
 
 ;0xD0299601=GCA_ACT_GETCALL_GREET
 0xD0299601=GCA_ACT_GETCALL_GREET
@@ -531,31 +531,31 @@
 0xD0872790=100
 
 ;0xD1C66E49=~z~I'd like to buy some stuff. Can you arrange a discount for me?
-0xD1C66E49=~z~我想要买点东西。你能安排我一些折扣吗？
+0xD1C66E49=~z~我想去买点东西。你能安排我一些折扣吗？
 
 ;0xD2D739E6=GCA_ACT_GETCALL_ACCEPT
 0xD2D739E6=GCA_ACT_GETCALL_ACCEPT
 
 ;0xD3F33F5C=~z~From now on I am only dating Americans.
-0xD3F33F5C=~z~从现在起我只和美国人谈恋爱了。
+0xD3F33F5C=~z~从现在起我只约美国人了。
 
 ;0xD3F77D95=~z~Sure, I'll let you take me out. Come pick me up in the next hour.
-0xD3F77D95=~z~好吧，你可以带我出去玩了，快来接我吧。
+0xD3F77D95=~z~好啊，你带我出去玩吧。一小时内过来接我。
 
 ;0xD47E15D7=100
 0xD47E15D7=100
 
 ;0xD4891EF7=~z~Sorry Alex. I got more important things to be doing.
-0xD4891EF7=~z~我很抱歉Alex。我有更重要的事要忙。
+0xD4891EF7=~z~抱歉，Alex。我有更重要的事要忙。
 
 ;0xD490CA25=~z~Alright, Niko. Treat me like this then.
-0xD490CA25=~z~好吧, Niko.那就这样对我吧.
+0xD490CA25=~z~好吧，Niko。你就这样对我吧。
 
 ;0xD592992D=~z~Okay, I'll come and pick you up in the next hour.
-0xD592992D=~z~好的, 我在一小时内接你。
+0xD592992D=~z~好的, 我在一小时内来接你。
 
 ;0xD6929384=~z~I feel like you should take me out on a date.
-0xD6929384=~z~我觉得你应该跟我约个会并且带我出去玩。
+0xD6929384=~z~我觉得你应该带我出去约个会。
 
 ;0xD6FDF56B=GCA_ACT_GETCALL_REJECT_IRATE
 0xD6FDF56B=GCA_ACT_GETCALL_REJECT_IRATE
@@ -573,16 +573,16 @@
 0xD9FF8837=~z~在神秘的一天遇上了更神秘的欧洲猛男。
 
 ;0xDC640228=~z~Niko, I am an intellectual, beautiful, and interesting woman. I do not need to see a man who treats me like you do.
-0xDC640228=~z~Niko，我是一个饱腹诗书、貌美如花而且诙谐喜人的女人。我不需要和一个你这样对我的男人见面。
+0xDC640228=~z~Niko，我是一个聪明美丽又有趣的女人。没必要和一个像你这样对我的男人见面。
 
 ;0xDCCEAE29=~z~Hey Alex.
-0xDCCEAE29=~z~你好啊，Alex。
+0xDCCEAE29=~z~嘿，Alex。
 
 ;0xDD8D4BE1=~z~Okay, Niko. I've got a blog to write anyway.
-0xDD8D4BE1=~z~那行吧，Niko，正好我还有篇博客要写呢。
+0xDD8D4BE1=~z~行吧，Niko，正好我还有篇博客要写。
 
 ;0xDE2E6CAB=~z~I'll come collect you then.
-0xDE2E6CAB=~z~那我马上去接你。
+0xDE2E6CAB=~z~那我马上来接你。
 
 ;0xDE545B4D=100
 0xDE545B4D=100
@@ -594,13 +594,13 @@
 0xE0A41FB6=010
 
 ;0xE17ABF1C=~z~Sorry, Niko. No can do now. Maybe if you paid me more attention I'd be able to help you out.
-0xE17ABF1C=~z~抱歉，Niko。现在不能做这个。也许如果你给我更多的关注的话，我就会帮助你。
+0xE17ABF1C=~z~抱歉，Niko。现在不行。如果你给我更多的关注，我可能会帮你。
 
 ;0xE20D331F=~z~The mystery man returns. I did not think I'd be hearing from you again.
-0xE20D331F=~z~神秘人你终于回来啦。我都没想过能再次见到你了。
+0xE20D331F=~z~神秘人终于回归了。我都没想到自己还会接到你的电话。
 
 ;0xE454B6B1=~z~Sure, I can be at your place in the next hour.
-0xE454B6B1=~z~好的，我可以在一小时内到达你的地方。
+0xE454B6B1=~z~好的，我一小时内就到你家。
 
 ;0xE60B63AF=100
 0xE60B63AF=100
@@ -609,19 +609,19 @@
 0xE62FE149=GCA_ACT_PAL_CALL_SLEEPING
 
 ;0xE6C94377=~z~Alex, you're a socialite. Surely you know someone else who'll come pick you up.
-0xE6C94377=~z~Alex，你可是个社交名媛。你肯定认识其他可以接你的人的。
+0xE6C94377=~z~Alex，你可是个社交名媛。总有其他认识的人能来接你吧。
 
 ;0xE6CD500B=GCA_ACT_PAL_CALL_GREET
 0xE6CD500B=GCA_ACT_PAL_CALL_GREET
 
 ;0xE6D26EA8=~z~I'm not used to taking rejection, Niko. Goodbye.
-0xE6D26EA8=~z~我不习惯接受拒绝，Niko。拜拜了。
+0xE6D26EA8=~z~我不习惯被人拒绝，Niko。再见。
 
 ;0xE6E1DE0B=100
 0xE6E1DE0B=100
 
 ;0xE6EE518D=~z~You want to go on a date?
-0xE6EE518D=~z~你想要来个约会吗？
+0xE6EE518D=~z~你想来场约会吗？
 
 ;0xEA0450D4=010
 0xEA0450D4=010
@@ -658,4 +658,3 @@
 
 ;0xFD1B7DE7=~z~It'd be good to do something with you.
 0xFD1B7DE7=~z~只要能和你一起，做点什么都好。
-

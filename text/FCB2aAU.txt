@@ -96,7 +96,7 @@
 0x3C400FC2=100
 
 ;0x3D9BCFAC=~z~Don't worry about it, NB. Another time.
-0x3D9BCFAC=~z~没关系，NB。改天再说。
+0x3D9BCFAC=~z~没关系，NB。改天再约。
 
 ;0x3DED007F=~z~Sorry, Brucie, I can't make it to the hospital.
 0x3DED007F=~z~抱歉，Brucie，我来不了医院了。
@@ -150,7 +150,7 @@
 0x545CFD48=FCB2_ACT_GETCALL_HOSP_REJ_LOLIKE
 
 ;0x547527F0=~z~I just wanted to say - you ever need a lift in the helicopter, gimme a call alright, yeah.
-0x547527F0=~z~跟你打声招呼，你要是需要直升机来载你一程，就给我打个电话，好吧？
+0x547527F0=~z~跟你打声招呼，如果你需要直升机载你一程，就给我打个电话，好吧？
 
 ;0x5B898B69=010
 0x5B898B69=010
@@ -162,10 +162,10 @@
 0x65851314=~z~Brucie，很对不起，我们约好的保龄球必须得取消了。
 
 ;0x67BBEF79=~z~Yeah no worries, man - I know how it is making your way in this game. I'll make my own way home.
-0x67BBEF79=~z~没关系，兄弟，我也知道你在这个游戏中要过来会怎样。我自己回家吧。
+0x67BBEF79=~z~没关系，兄弟，我也知道你在这个游戏里要过来不容易。我自己回家吧。
 
 ;0x688F6C7E=~z~Brucie, can you pick me up in that chopper?
-0x688F6C7E=~z~Brucie，你能用直升机来接我吗？
+0x688F6C7E=~z~Brucie，你能开直升机来接我吗？
 
 ;0x6A8E4741=FCB2_ACT_PBR_CALL_BOAT_CANCEL
 0x6A8E4741=FCB2_ACT_PBR_CALL_BOAT_CANCEL
@@ -189,7 +189,7 @@
 0x7DE7A626=010
 
 ;0x7EE58CEE=~z~Can't actually do that boating with you no more Brucie. Another time.
-0x7EE58CEE=~z~暂时是没法跟你去乘快艇了，Brucie。改天吧。
+0x7EE58CEE=~z~暂时是没法跟你去开快艇了，Brucie。改天吧。
 
 ;0x850A3D40=FCB2_ACT_GETCALL_HOSP_ASK
 0x850A3D40=FCB2_ACT_GETCALL_HOSP_ASK
@@ -228,7 +228,7 @@
 0x98D879FC=~z~当然，没问题，兄弟。
 
 ;0x9FBC5AD7=~z~Brucie - it's Niko - I really need you and your helicopter.
-0x9FBC5AD7=~z~Brucie，我是Niko，我现在急需你和你的直升机。
+0x9FBC5AD7=~z~Brucie，我是Niko，现在急需你和你的直升机。
 
 ;0xA3DE53C1=FCB2_ACT_PBR_CALL_BOWL_CANCEL
 0xA3DE53C1=FCB2_ACT_PBR_CALL_BOWL_CANCEL
@@ -255,7 +255,7 @@
 0xB0B42EE3=FCB2_ACT_GETCALL_HOSP_ACCEPT
 
 ;0xB156382B=~z~Brucie - I'm cool - I don't need the chopper just now after all.
-0xB156382B=~z~Brucie，我好了，我还是不需要刚才说的那个直升机了。
+0xB156382B=~z~Brucie，没事了，刚才说的直升机现在不需要了。
 
 ;0xB274294F=FCB2_ACT_CALL_REQ_SPEC_END
 0xB274294F=FCB2_ACT_CALL_REQ_SPEC_END
@@ -288,7 +288,7 @@
 0xCDB09B82=FCB2_ACT_PBR_CALL_STRIP_CANCEL
 
 ;0xD01F5C9E=~z~Alright, man. Whatever. Hopefully see you soon bro.
-0xD01F5C9E=~z~好吧，兄弟。随你吧。希望尽快再见啊，哥们儿。
+0xD01F5C9E=~z~好吧，兄弟。随你吧。希望早点再见啊，哥们儿。
 
 ;0xD1977DF7=~z~Sorry, man, I'm kind of busy right now.
 0xD1977DF7=~z~抱歉，兄弟，我现在有点忙。
@@ -372,5 +372,5 @@
 0xFE850E2F=~z~你真可悲，Niko。我才是你需要留下印象的人。
 
 ;0xFF8B73F8=~z~Nicky, you woke me up and I'm gonna be puffy in the morning. This better be good, fuck.
-0xFF8B73F8=~z~Nikcy，你吵醒我了，这样的话我白天就会浮肿。最好能好点，操。
+0xFF8B73F8=~z~Nikcy，你吵醒我了，这样的话我白天就会浮肿。最好别出事，操。
 
