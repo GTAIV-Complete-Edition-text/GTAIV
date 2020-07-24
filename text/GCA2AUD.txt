@@ -12,7 +12,7 @@
 0x04287E71=~z~你对这种破烂车的痴迷程度已经用古董风格都解释不了了
 
 ;0x04F7FD6B=~z~I want new experiences, I want to see things that I haven't seen before.
-0x04F7FD6B=~z~我想要新的体验，我想去见识些以前没见过的东西。
+0x04F7FD6B=~z~我想要新的体验，我想见识以前没见过的东西。
 
 ;0x0557062F=~z~Niko, Hi. How are we going to get around?
 0x0557062F=~z~Niko，嗨。我们这是要怎么出行？
@@ -24,7 +24,7 @@
 0x08935866=GCA_ACT_ARRIVE_CLUB_GENERIC
 
 ;0x09552D11=~z~Excuse me if I'm not jumping for joy that we're playing parts again.
-0x09552D11=~z~很抱歉，做这种意料中的事情可不一定会让我惊喜。
+0x09552D11=~z~很抱歉，做这种意料中的事情可不会让我惊喜。
 
 ;0x0A0599EF=~z~I'm surprised that you think an intellectual such as myself would be interested in playing darts again.
 0x0A0599EF=~z~你居然会觉得我这样特立独行的人会对再玩一次飞镖感兴趣？
@@ -42,7 +42,7 @@
 0x0DB87639=~z~要不是因为我很懂，我就会以为你是想灌醉我了。
 
 ;0x0EA54713=~z~I gave my first blowjob in a restroom at this place.
-0x0EA54713=~z~我第一次给人口就是在这里的一个厕所里。
+0x0EA54713=~z~我第一次给人口就是在这里的厕所。
 
 ;0x0F5DF399=GCA_ACT_PAL_CAR_OKAY
 0x0F5DF399=GCA_ACT_PAL_CAR_OKAY
@@ -66,10 +66,10 @@
 0x12FCA82D=100
 
 ;0x13B4B4FF=~z~Umm, Niko. All the shows started a while ago.
-0x13B4B4FF=~z~唔，Niko。这些表演早些时候已经开始了。
+0x13B4B4FF=~z~唔，Niko。这些表演早些时候就开始了。
 
 ;0x1406AB2E=~z~Or something, I guess. I don't think about clothes much.
-0x1406AB2E=~z~别的吧，大概。我对衣服不大上心。
+0x1406AB2E=~z~怪人之外吧，大概。我对衣服不大上心。
 
 ;0x1639D6DB=GCA_ACT_PAL_TORSO_GOOD
 0x1639D6DB=GCA_ACT_PAL_TORSO_GOOD
@@ -78,13 +78,13 @@
 0x16502AE4=~z~你还在开这玩意？那你应该是没能再上一层楼了。
 
 ;0x173C26B3=~z~They love me at this place. I swear, you spend enough money and people forget that you threw up on the manager.
-0x173C26B3=~z~这地方的人很喜欢我。我发誓，只要花的钱够多，别人就会忘记你把店经理给甩了这事。
+0x173C26B3=~z~这地方的人很喜欢我。我发誓，只要花的钱够多，别人就会忘记你把店经理给甩了。
 
 ;0x17982D6F=GCA_ACT_ARRIVE_SHOW_CABARET
 0x17982D6F=GCA_ACT_ARRIVE_SHOW_CABARET
 
 ;0x17E85B61=~z~Okay, if we're not going to do anything you can just take me home.
-0x17E85B61=~z~好吧，要是我们没别的事要做，你就直接送我回家吧。
+0x17E85B61=~z~好吧，要是我们没别的安排，你就直接送我回家吧。
 
 ;0x18B1A4DE=~z~God, you know. I'll try anything once. I tried picking up guys on craplist, didn't I?
 0x18B1A4DE=~z~天，你也知道，我什么都会试一试。我不就试着在craplist上约了人吗？
@@ -99,7 +99,7 @@
 0x19E86F64=~z~Alex Chilton不坐公交，麻烦告诉我你的车就停在附近。
 
 ;0x1A168882=~z~Ahh, I see you've tried to save some money on the top half of your outfit.
-0x1A168882=~z~啊，看得出来，你是想在自己的上衣上多省点钱。
+0x1A168882=~z~啊，看得出来，你想在自己的衣服上多省点钱。
 
 ;0x1A9A7DF5=GCA_ACT_INTRO
 0x1A9A7DF5=GCA_ACT_INTRO
@@ -159,7 +159,7 @@
 0x2D0B06CB=010
 
 ;0x2DDF2E70=~z~It gets where it's meant to go.
-0x2DDF2E70=~z~到地方了。
+0x2DDF2E70=~z~平时开着也不会掉链子。
 
 ;0x2E2210B7=~z~This guy is like, seriously urban. I'm told he's like, very now.
 0x2E2210B7=~z~这人就是，很社会。之前刚有人跟我说他的品行。
@@ -168,7 +168,7 @@
 0x2F28B028=GCA_ACT_ARRIVEC_NOTLATE
 
 ;0x2F6A9656=~z~I'm getting used to those clothes you're wearing.
-0x2F6A9656=~z~我快要习惯你穿着的这身衣服了。
+0x2F6A9656=~z~我都快习惯你穿着的这身衣服了。
 
 ;0x30EE861C=~z~Do you think that anyone in Liberty City in the twenty-first century really eats this type of food? Yuk.
 0x30EE861C=~z~你觉得在21世纪的自由城，还会有人吃这种东西吗？呕。
@@ -219,13 +219,13 @@
 0x3E647668=GCA_ACT_HINT
 
 ;0x3F2C35D9=~z~Well, if that's your only nice outfit you may as well get the most out of it.
-0x3F2C35D9=~z~好吧，要是那是你唯一一件好的外套，倒是该物尽其用。
+0x3F2C35D9=~z~好吧，要是那是你唯一一件的好外套，倒是该物尽其用。
 
 ;0x3F76D12B=~z~It's a shame you're not wearing that hat any more. I found out how much it cost.
-0x3F76D12B=~z~你没有再戴那顶帽子真是可耻。我刚知道它的价格。
+0x3F76D12B=~z~你没有再戴那顶帽子真可惜。我刚知道它的价格。
 
 ;0x3FABB3CA=~z~I'm a white chick but I'm really into street culture and the urban scene. I think I'll really like this.
-0x3FABB3CA=~z~我是一个白人女孩，但我已经融入了街头文化和都市生活。我想我会很喜欢这个的。
+0x3FABB3CA=~z~我是一个白人女孩，但我已经融入了街头文化和都市生活。我大概会喜欢这个的。
 
 ;0x3FF7C665=GCA_ACT_ARRIVEF_NOTLATE
 0x3FF7C665=GCA_ACT_ARRIVEF_NOTLATE
@@ -261,7 +261,7 @@
 0x4A0324D2=GCA_ACT_CAR_SAME_GOOD
 
 ;0x4A5A8AD4=~z~Can you please explain to me what the appeal of really shit cars is? I don't get it.
-0x4A5A8AD4=~z~能不能麻烦你告诉我这些破铜烂铁有什么好的？我是真搞不懂。
+0x4A5A8AD4=~z~麻烦你告诉我这辆破铜烂铁有什么好的？我是真搞不懂。
 
 ;0x4B0DADF1=~z~I think I preferred what you were wearing last time.
 0x4B0DADF1=~z~我还是更喜欢你上次的那套衣服。
@@ -285,7 +285,7 @@
 0x51E4CBD5=~z~谢谢。
 
 ;0x5265181B=~z~Hey Niko, do you mind if we do something else?
-0x5265181B=~z~嘿，Niko，你介意我们再做点别的事情吗？
+0x5265181B=~z~嘿，Niko，你介意我们再做点别的吗？
 
 ;0x53A50C98=~z~What a transformation, thank God you got rid of those glasses.
 0x53A50C98=~z~大变样啊，谢天谢地你终于把那副眼镜扔了。
@@ -297,19 +297,19 @@
 0x53C65F0D=~z~好吧Niko，就算你每次都穿同一套衣服，也麻烦你穿一套当季流行款。
 
 ;0x540A7197=~z~So you didn't dress up for the first date. Why would you?
-0x540A7197=~z~你连初次约会都没有好好打扮，这是为什么？
+0x540A7197=~z~你连初次约会都没有好好打扮。怎么想的？
 
 ;0x543EC2E3=~z~You want to play darts... again? Well this is really a hobby of yours, isn't it, Niko?
-0x543EC2E3=~z~你想玩飞镖...还来啊？这个是你的个人爱好是吧，Niko？
+0x543EC2E3=~z~你又想玩飞镖...？这个是你的个人爱好是吧，Niko？
 
 ;0x54C2DA6E=~z~I am so pleased you got rid of that hat, please say you burned it.
-0x54C2DA6E=~z~很高兴你终于把那帽子扔了，务必告诉我你已经把那玩意烧了。
+0x54C2DA6E=~z~很高兴你终于把那帽子扔了，你已经把那玩意烧了吧。
 
 ;0x55475715=100
 0x55475715=100
 
 ;0x5611A4AA=~z~I'm sick of this shit. I'm getting home myself. I'll see you around, Niko.
-0x5611A4AA=~z~我已经不想玩了，我要自己回家了。我们回头见，Niko。
+0x5611A4AA=~z~我已经受够了，我要自己回家了。我们回头见，Niko。
 
 ;0x56A177F0=100
 0x56A177F0=100
@@ -324,7 +324,7 @@
 0x585A3974=~z~好了，你的车在哪儿？
 
 ;0x58AFA48A=~z~What the fuck is this? I guess I'm about to find out.
-0x58AFA48A=~z~这他妈是啥？大概我马上就会知道了。
+0x58AFA48A=~z~这他妈是啥？我大概马上就知道了。
 
 ;0x59812B98=GCA_ACT_ARRIVE_POOL_NOT
 0x59812B98=GCA_ACT_ARRIVE_POOL_NOT
@@ -339,13 +339,13 @@
 0x5BF2100A=~z~谢天谢地你终于不开那辆垃圾了。开啥都比那辆垃圾好。
 
 ;0x5D48D267=~z~When I last met you I got the impression that you had a good dress sense.
-0x5D48D267=~z~上次遇见你的时候，你给我留下了你很会打扮的印象。
+0x5D48D267=~z~上次遇见你的时候，你的打扮还算有品味。
 
 ;0x5E0E7868=100
 0x5E0E7868=100
 
 ;0x5E264EF4=~z~No, people drive them here as well. Just not people who live in Middle Park East.
-0x5E264EF4=~z~不，这里人也会开这车，只是住在Middle Park East的人不开而已。
+0x5E264EF4=~z~不，这里人也会开这车，只是住在中央公园东的人不开而已。
 
 ;0x5FBDBCCE=100
 0x5FBDBCCE=100
@@ -354,7 +354,7 @@
 0x60C142E5=GCA_ACT_CAR_OKAY
 
 ;0x60C4F272=~z~It's so good that that hat is gone. It made you look like a thug.
-0x60C4F272=~z~你不戴那顶帽子真是太好了，那顶帽子让你看起来像个小混混。
+0x60C4F272=~z~你不戴那顶帽子真是太好了，那顶帽子让你像一个小混混。
 
 ;0x61480412=GCA_ACT_CAR_NONE_AB
 0x61480412=GCA_ACT_CAR_NONE_AB
@@ -363,13 +363,13 @@
 0x61900B63=GCA_ACT_PAL_CLOTHES_GOOD
 
 ;0x62FE3633=~z~Okay, those are some pretty bold choices. Are you hoping to come across as an eccentric or something?
-0x62FE3633=~z~好吧，这套搭配有点大胆。你是想做个怪人还是别的什么？
+0x62FE3633=~z~好吧，这套搭配有点大胆。你是想做个怪人之类的吗？
 
 ;0x647E1250=GCA_ACT_PAL_HAT_GOOD
 0x647E1250=GCA_ACT_PAL_HAT_GOOD
 
 ;0x65A8BE2C=~z~Umm, well you've got to be hungry to eat in a place like this. It hasn't even got a Liberty Tree rosette.
-0x65A8BE2C=~z~唔，你一定是饿疯了才会在这种连Liberty Tree认证都没有的地方吃饭。
+0x65A8BE2C=~z~你一定是饿疯了才会来这里吃饭，这店连Liberty Tree认证都没有。
 
 ;0x661A4253=~z~I didn't think anything could be worse than the car you used to drive, I was wrong.
 0x661A4253=~z~我还以为你上次开的车已经够差了，没想到还有更差的。
@@ -414,16 +414,16 @@
 0x73D8D989=100
 
 ;0x7428519B=~z~I miss those glasses you used to wear. They gave you some class.
-0x7428519B=~z~我很怀念你那副眼镜，能让你看起来比较有分量。
+0x7428519B=~z~我很怀念你那副眼镜，显得你有地位。
 
 ;0x74B1A0E7=~z~Oh, I guess that you feel comfortable in these clothes. Well, at least they're not disgusting.
-0x74B1A0E7=~z~噢，我看你穿着这身衣服似乎很舒服吧。好吧，至少还不算恶心。
+0x74B1A0E7=~z~噢，这身衣服你穿着大概还很舒服吧。好吧，至少还不算恶心。
 
 ;0x75F8F396=100
 0x75F8F396=100
 
 ;0x775DEA5B=~z~Hey, Niko. I hope you aren't planning on carrying me on this date.
-0x775DEA5B=~z~嘿，Niko。你该不会是不想带上我去约会吧。
+0x775DEA5B=~z~嘿，Niko。你该不会打算背着我去约会吧。
 
 ;0x77DD07A8=GCA_ACT_PAL_CAR_BIKE
 0x77DD07A8=GCA_ACT_PAL_CAR_BIKE
@@ -459,7 +459,7 @@
 0x81635F63=~z~Niko，你就不能打扮的正经点吗？那顶帽子让你看起来像个罪犯。
 
 ;0x81731ABB=~z~You really need help in the fashion department, Niko.
-0x81731ABB=~z~你真的需要有人教你什么叫时尚，Niko。
+0x81731ABB=~z~你真的需要有人教你穿衣打扮，Niko。
 
 ;0x882783C8=~z~What aren't I into? I'm just a Liberty city girl. I like shopping, lunches with the girls, cocktails.
 0x882783C8=~z~我能有什么兴趣？我就是个普通的自由城女孩，喜欢购物、和闺蜜一起吃饭还有鸡尾酒。
@@ -474,13 +474,13 @@
 0x89C128F9=~z~嘿，神秘欧洲人，我们走吧。
 
 ;0x89CD7CE5=~z~It's a shame you got rid of those glasses, they made you look sophisticated.
-0x89CD7CE5=~z~你不戴那副眼镜真是可耻，那副眼镜能让起看起来老成点。
+0x89CD7CE5=~z~你不戴那副眼镜真是可惜，那副眼镜能让你看起来老成点。
 
 ;0x8AEFCD63=~z~So, you take the whole "If it ain't broke, don't fix it." attitude to getting dressed then?
-0x8AEFCD63=~z~那，你选衣服是按「缝缝补补又三年」的标准来选的吗？
+0x8AEFCD63=~z~那个，你选衣服是按「缝缝补补又三年」的标准来选的吗？
 
 ;0x8B157D5A=~z~Your ass is giving mine a run for its money in those pants.
-0x8B157D5A=~z~穿着这条裤子，你的屁股都快性感过我了
+0x8B157D5A=~z~穿着这条裤子，你的屁股都快性感过我了。
 
 ;0x8BD42EA6=100
 0x8BD42EA6=100
@@ -501,10 +501,10 @@
 0x917A795D=GCA_ACT_BORED_TAKEHOME
 
 ;0x931862BF=~z~Pool, Niko? Were you in a frat house or something? What next? Keg stands?
-0x931862BF=~z~台球吗，Niko？你当这是开大学生联谊会还是咋地啊？接下来是什么？铁桶倒立？
+0x931862BF=~z~台球吗，Niko？你当这是开大学生联谊会还是什么？接下来是什么？铁桶倒立？
 
 ;0x9330BE36=~z~Oh God, I hope none of my friends sees me out with a man dressed like this.
-0x9330BE36=~z~哦上帝，希望不会被朋友看见我和一个穿成这样的男人一起。
+0x9330BE36=~z~哦上帝，希望不会被朋友看见我和一个穿成这样的男人在一起。
 
 ;0x96C03344=GCA_ACT_PAL_FEET_BAD
 0x96C03344=GCA_ACT_PAL_FEET_BAD
@@ -513,7 +513,7 @@
 0x96DD8CEE=100
 
 ;0x974E773C=~z~I'll explain anything to you that you don't get afterwards.
-0x974E773C=~z~你不懂的部分事后我都会给你解释的。
+0x974E773C=~z~你没听懂的部分之后我会给你解释的。
 
 ;0x98D02D26=~z~I like those shoes, very smart.
 0x98D02D26=~z~我喜欢这双鞋，很时髦。
@@ -540,7 +540,7 @@
 0x9C8A637A=100
 
 ;0x9C8FB0C2=~z~This car is alright, I think we bought my maid one.
-0x9C8FB0C2=~z~这车还可以，我记得好像给我们家女仆的配车就是这款。
+0x9C8FB0C2=~z~这车还可以，跟我家女仆的配车同款。
 
 ;0x9DD62F00=~z~Alright, change of plan. Take me somewhere else.
 0x9DD62F00=~z~好吧，计划有变。带我去别的地方。
@@ -585,7 +585,7 @@
 0xA82F6208=~z~车子不错。我十六岁生日的时候就有了一辆。
 
 ;0xA9F9C0F1=~z~Yeah, I'd be surprised if they let you into any clubs wearing those shoes.
-0xA9F9C0F1=~z~对，要是穿着这种鞋还有俱乐部肯放你进去的话，我就要大吃一惊了。
+0xA9F9C0F1=~z~对，穿着这种鞋还有俱乐部肯放你进去的话，我就要大吃一惊了。
 
 ;0xAA4809FB=~z~If anything, that hat looks expensive, which is so in.
 0xAA4809FB=~z~硬要说的话，帽子看起来挺贵的，戴着很有型。
@@ -603,7 +603,7 @@
 0xACFDD01D=~z~听着，要是你只能开这种垃圾车来接我，我就要让爹地的司机开车送我们了。
 
 ;0xAD5EEDC1=~z~I've said it before, Niko, but I like your car.
-0xAD5EEDC1=~z~虽然之前说过了，Niko，但我喜欢你的车。
+0xAD5EEDC1=~z~我之前也说过，Niko，但我喜欢你的车。
 
 ;0xAE78950B=GCA_ACT_PAL_INTRO
 0xAE78950B=GCA_ACT_PAL_INTRO
@@ -612,13 +612,13 @@
 0xAE874138=010
 
 ;0xAEE37EF7=~z~Ohh, take me where you wanna take me biker boy.
-0xAEE37EF7=~z~哦，想带我去哪儿就带我去哪儿吧，摩托小子。
+0xAEE37EF7=~z~哦，想带我去哪儿就去哪儿吧，摩托小子。
 
 ;0xB0B7BE0B=~z~What happened to your face? It's those cheap glasses.
-0xB0B7BE0B=~z~你脸上是怎么回事？这副便宜货眼镜不太行啊。
+0xB0B7BE0B=~z~你脸上是怎么回事？便宜货眼镜不太行。
 
 ;0xB308C2AD=~z~Eww, never wear those glasses again. They just scream bargain bucket.
-0xB308C2AD=~z~嗷，别戴这副眼睛了。它只会让你显得掉价。
+0xB308C2AD=~z~嗷，别戴这副眼镜了。只会让你掉价。
 
 ;0xB314BD1B=GCA_ACT_PAL_GLASSHAT_GOOD
 0xB314BD1B=GCA_ACT_PAL_GLASSHAT_GOOD
@@ -651,7 +651,7 @@
 0xB8428F75=100
 
 ;0xB896D826=~z~You're chest looks really cut in what you're wearing.
-0xB896D826=~z~你这身衣服很显胸肌。
+0xB896D826=~z~你现在的这身衣服很显胸肌。
 
 ;0xB933330F=GCA_ACT_CAR_NONE_AA
 0xB933330F=GCA_ACT_CAR_NONE_AA
@@ -660,16 +660,16 @@
 0xB98FA4C6=GCA_ACT_ARRIVE_DARTS_LAST
 
 ;0xB9A14B67=~z~Well, getting rid of that old car was the first step toward self-improvement. Well done, Niko.
-0xB9A14B67=~z~很好，扔了那辆破车是你提升自我的第一步。干得好，Niko。
+0xB9A14B67=~z~很好，换掉那辆旧车是你提升自我的第一步。干得好，Niko。
 
 ;0xBA5552AE=100
 0xBA5552AE=100
 
 ;0xBB76ED0F=~z~You really do like cheap cars, don't you Niko?
-0xBB76ED0F=~z~你怎么就那么喜欢这种便宜货呢，Niko？
+0xBB76ED0F=~z~你怎么就那么喜欢这种便宜车呢，Niko？
 
 ;0xBD51A5F6=~z~Oh, darts. This is a real working man's pastime, isn't it.
-0xBD51A5F6=~z~噢，飞镖。这个完全就是打工仔的业余消遣吧？
+0xBD51A5F6=~z~噢，飞镖。这个完全是打工仔的业余消遣吧？
 
 ;0xBEC0655F=~z~Yeah, well maybe you should have done more than buy coke off drug dealers since then?
 0xBEC0655F=~z~行吧，估计之后你做的应该不止是问那个毒贩子买可卡因吧？
@@ -684,7 +684,7 @@
 0xC209B1EC=100
 
 ;0xC2A38E62=~z~Uhh, Niko. I was starting to think I'd been stood up. Umm, I'm not walking by the way.
-0xC2A38E62=~z~呃，Niko。我差点就以为自己被鸽了。唔，顺带一提，要我走着去是不可能的。
+0xC2A38E62=~z~呃，Niko。我差点就以为自己被鸽了。唔，要我走着去是不可能的。
 
 ;0xC40089F3=~z~I'm digging those glasses.
 0xC40089F3=~z~我很中意这副眼镜。
@@ -696,10 +696,10 @@
 0xC71AFCDC=~z~其实上次去脱衣舞俱乐部的时候我也乐在其中。我还学了几招。
 
 ;0xC8D8FEAF=~z~God, are those shoes fashionable back in Europe? You must be so behind the Liberty City trends.
-0xC8D8FEAF=~z~上帝，这种鞋在欧洲该不会还是流行款吧？你这人完全跟不上自由城的时尚潮流。
+0xC8D8FEAF=~z~天哪，这种鞋在欧洲该不会还是流行款吧？你这人完全跟不上自由城的时尚潮流。
 
 ;0xC8DD8213=~z~Okay, well you've wasted my time by being late. Don't waste my time getting me where we're going.
-0xC8DD8213=~z~好了，既然你已经因迟到浪费了我的时间，就不要在路途上多耽搁了。
+0xC8DD8213=~z~好了，你迟到已经浪费了我的时间，就不要在路途上多耽搁了。
 
 ;0xC9F93F84=~z~This is getting boring. I thought we were meant to be on a date? Can you take me home?
 0xC9F93F84=~z~实在是太无聊了，我们不是出来约会的吗？你能送我回家吗？
@@ -711,7 +711,7 @@
 0xCABBED9C=~z~噢，能乘上一辆不是死亡陷阱的车真是好事。感谢你换了辆好车，Niko。
 
 ;0xCACEBF57=~z~God, this place really reminds me of being underage.
-0xCACEBF57=~z~上帝，这地方回让我想起我还没成年的时候。
+0xCACEBF57=~z~上帝，这地方会让我想起我还没成年的时候。
 
 ;0xCAE5D465=GCA_ACT_PAL_GLASSHAT_BAD
 0xCAE5D465=GCA_ACT_PAL_GLASSHAT_BAD
@@ -720,13 +720,13 @@
 0xCB889296=~z~这双鞋很不错，我可以给爹地弄一双。
 
 ;0xCC9ABAD2=~z~It was brave of you to come out in these pants, Niko.
-0xCC9ABAD2=~z~你穿着这种裤子还敢出门真是胆大，Niko。
+0xCC9ABAD2=~z~穿着这种裤子还敢出门，你真是胆大，Niko。
 
 ;0xCD474DE2=010
 0xCD474DE2=010
 
 ;0xCFC192FF=~z~The way I think about it, even if I hate something, I can write a blog about it.
-0xCFC192FF=~z~我的想法就是，即便我讨厌某些东西，我还是能替它写篇博客。
+0xCFC192FF=~z~我的想法就是，即便我讨厌某些东西，我还是能为它写篇博客。
 
 ;0xD0E35198=GCA_ACT_PAL_CLOTHES_OKAY
 0xD0E35198=GCA_ACT_PAL_CLOTHES_OKAY
@@ -738,7 +738,7 @@
 0xD1CA02E6=100
 
 ;0xD3A3487E=~z~These bikes really take me back. Well let's get going, Niko.
-0xD3A3487E=~z~摩托车真的能让我想起很多过去的时光。好了，我们走吧，Niko。
+0xD3A3487E=~z~摩托车能让我想起很多往日时光。好了，我们走吧，Niko。
 
 ;0xD3BCF45A=~z~My girlfriend dated the head chef here, he was really fussy.
 0xD3BCF45A=~z~我闺蜜约过这里的主厨，他真的很挑剔。
@@ -765,7 +765,7 @@
 0xDAB733B3=~z~宝贝，我想是时候换辆新车了，就像，十年前一样。
 
 ;0xDBD1ED0E=~z~I don't normally like hats, but that one works for you.
-0xDBD1ED0E=~z~通常我不大喜欢帽子，但你这顶很合适。
+0xDBD1ED0E=~z~通常我不喜欢帽子，但你这顶很合适。
 
 ;0xDBFBC599=010
 0xDBFBC599=010
@@ -780,19 +780,19 @@
 0xDD9D19B7=100
 
 ;0xDE3C5450=~z~I guess you're having your other clothes washed. I mean, there can't be any other reason to be wearing these.
-0xDE3C5450=~z~你的衣服是不是都拿去洗了？除此以外我也想不到别的什么能让你穿现在这身的理由了。
+0xDE3C5450=~z~你的衣服是不是都拿去洗了？除此以外，我也想不到别的穿现在这身衣服的理由了。
 
 ;0xDF88AF69=~z~I don't like waiting Niko. Let's just go.
 0xDF88AF69=~z~我不喜欢等待，Niko。我们走吧。
 
 ;0xE02A7BE9=~z~Okay, tell me how we're getting where we're going because I don't see a car.
-0xE02A7BE9=~z~好吧，快告诉我我们怎么过去，我连你车都没看见。
+0xE02A7BE9=~z~好吧，快告诉我我们怎么过去，我连你的车都没看见。
 
 ;0xE0BED8CA=100
 0xE0BED8CA=100
 
 ;0xE1398BF7=~z~You were probably expecting some freak was going to kidnap you, right?
-0xE1398BF7=~z~你可能是在期待有人来绑架你对吧？
+0xE1398BF7=~z~你是不是觉得穿太好会被绑架，对吧？
 
 ;0xE452D1C0=~z~Niko, I've been waiting. No fucking wonder when you haven't brought a car.
 0xE452D1C0=~z~Niko，我等很久了。你丫连车都没开来，难怪这么慢。
@@ -801,7 +801,7 @@
 0xE5BF5E21=~z~摩托车？自从在高中约上了一个毒贩子后我就再也没乘过。
 
 ;0xE60E0FCD=~z~Shit, if I see another fucking pool table I'll scream.
-0xE60E0FCD=~z~我靠，要是再让我见着一张狗逼台球桌我就要叫了。
+0xE60E0FCD=~z~我靠，再让我见着傻逼台球桌我就要叫出来了。
 
 ;0xE6695493=100
 0xE6695493=100
@@ -816,7 +816,7 @@
 0xE703E6BE=~z~我只会在必要的时候好好打扮。
 
 ;0xE84524E0=~z~Darling, with clothes as with everything else, you buy cheap, you buy twice. I think you'll be trading in your top.
-0xE84524E0=~z~亲爱的，衣服啊什么的都一样，一分钱一分货。我觉得你该去换一件上衣了。
+0xE84524E0=~z~亲爱的，衣服什么的都一样，一分钱一分货。我觉得你该换一件上衣了。
 
 ;0xE92B5CB6=GCA_ACT_ARRIVE_SHOW_LATE
 0xE92B5CB6=GCA_ACT_ARRIVE_SHOW_LATE
@@ -843,7 +843,7 @@
 0xEF54F41B=~z~嘿，Niko。我们走。
 
 ;0xF002F7DD=~z~Yeah, don't worry Niko. I mean we all make fashion mistakes.
-0xF002F7DD=~z~没事，别担心，Niko。毕竟大家都会在穿搭风格上出错。
+0xF002F7DD=~z~没事，别担心，Niko。毕竟大家都会在穿搭上出错。
 
 ;0xF0115E67=~z~Niko, I don't care how long you've had this car but I hate it.
 0xF0115E67=~z~Niko，我才不管你和这车已经在一起几年了，我很讨厌它。
@@ -888,7 +888,7 @@
 0xFB9125A3=~z~呃，谢了。
 
 ;0xFC64B45D=~z~Well I guess this is a walking date.
-0xFC64B45D=~z~行吧，这次约会大概是要散步了。
+0xFC64B45D=~z~行吧，这次约会大概是要走着去了。
 
 ;0xFCD31774=~z~Niko, I'm starting to worry about you. Do you only want to look at naked women?
 0xFCD31774=~z~Niko，我都要替你担心了。你是不是只想看裸体的女人？
