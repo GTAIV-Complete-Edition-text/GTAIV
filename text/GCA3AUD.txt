@@ -72,7 +72,7 @@
 0x1A34B59D=GCA_ACT_ARRIVE_WALK_LAST
 
 ;0x1B5E22D7=~z~How about you invite me in?
-0x1B5E22D7=~z~你能否请我进来呢？
+0x1B5E22D7=~z~你能否请我进去呢？
 
 ;0x1C0F27E9=010
 0x1C0F27E9=010
@@ -147,7 +147,7 @@
 0x360DA042=~z~我就知道你会对这个故事感兴趣的。我真的很擅长讲述一些别人会喜欢的东西。
 
 ;0x36753CE1=~z~Bland, unmemorable, bad service. I'd give that place three out of ten.
-0x36753CE1=~z~乏味、无趣、服务差。这地方十分制只能打三分。
+0x36753CE1=~z~乏味、无趣、服务差。十分制我只能打三分。
 
 ;0x3720C65E=100
 0x3720C65E=100
@@ -300,7 +300,7 @@
 0x6000AEB5=100
 
 ;0x603F6786=~z~Well don't just stand there, stupid.
-0x603F6786=~z~好了，别傻站着，白痴。
+0x603F6786=~z~好了，别傻愣着，白痴。
 
 ;0x62D05F5F=~z~The fun's over.
 0x62D05F5F=~z~玩乐结束了。
@@ -396,7 +396,7 @@
 0x83E86AD1=~z~真的。
 
 ;0x8545B061=~z~You've shown me a good time, Niko.
-0x8545B061=~z~我跟你一起玩的很开心，Niko。
+0x8545B061=~z~我跟你一起玩得很开心，Niko。
 
 ;0x85D8667E=~z~Goodbye, Alex.
 0x85D8667E=~z~再见，Alex。
@@ -552,7 +552,7 @@
 0xC277019D=~z~Niko，这地方看起来很危险。Algonquin以外的地方有很多杀人案。不过我相信你。
 
 ;0xC3636BEF=~z~As I said, that was repulsive. I am never, I mean ne-ver going there again.
-0xC3636BEF=~z~我说了，那地方很恶心。我再也不会，再也不——会去那里了。
+0xC3636BEF=~z~我说了，那地方很恶心。我再也不会，再也不会去那里了。
 
 ;0xC49D080C=GCA_ACT_PAL_END_NO
 0xC49D080C=GCA_ACT_PAL_END_NO

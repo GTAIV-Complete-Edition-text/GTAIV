@@ -15,13 +15,13 @@
 0x05AAC113=FCJ_ACT_CALL_HOSP_CANCEL_HILIKE
 
 ;0x05BB3FD7=~z~Sure - I'd like a drink. I'll be there in the hour.
-0x05BB3FD7=~z~Sure - I'd like a drink. I'll be there in the hour.
+0x05BB3FD7=~z~好啊，喝酒好啊。我一小时内过来。
 
 ;0x066263A1=100
 0x066263A1=100
 
 ;0x07A02D91=~z~Yo, mek we go a' the strip club, yo?
-0x07A02D91=~z~Yo, mek we go a' the strip club, yo?
+0x07A02D91=~z~哟，一起去脱衣舞俱乐部吧，哟？
 
 ;0x09527A8E=~z~Yo me need a lift man, can you pick me up a' Steinway?
 0x09527A8E=~z~Yo me need a lift man, can you pick me up a' Steinway?
@@ -39,13 +39,13 @@
 0x0D0CD76C=~z~兄弟，是我。
 
 ;0x0D28B075=~z~No, Jacob - I can't get food just now.
-0x0D28B075=~z~No, Jacob - I can't get food just now.
+0x0D28B075=~z~不了，Jacob，我现在没空吃饭。
 
 ;0x0D5CD44C=FCJ_ACT_GETCALL_LIFT_AIRPORT
 0x0D5CD44C=FCJ_ACT_GETCALL_LIFT_AIRPORT
 
 ;0x0E837858=~z~Yo, me breda. Long time we had no business, man. Mek we play some pool or someting.
-0x0E837858=~z~Yo, me breda. Long time we had no business, man. Mek we play some pool or someting.
+0x0E837858=~z~哟，好兄弟。我们很久没聚了吧，兄弟。一起去打会儿桌球吧。
 
 ;0x0EA72C72=~z~Me down Firefly Projects star, just link up man, me need a ride man, pronto.
 0x0EA72C72=~z~我现在在Firefly公屋社区，尽快过来兄弟，我需要你接我，兄弟，快。
@@ -57,7 +57,7 @@
 0x104BBF9C=~z~Yo, me need some transportation from Rotterdam Hill man, can you pick me up?
 
 ;0x1117D152=~z~No, I can't go drinking just now.
-0x1117D152=~z~No, I can't go drinking just now.
+0x1117D152=~z~不，我现在不能去喝酒。
 
 ;0x1171251D=010
 0x1171251D=010
@@ -78,7 +78,7 @@
 0x1AC072D3=~z~Niko，是我，Jacob。
 
 ;0x1B5FCCE3=~z~No - I can't at the moment.
-0x1B5FCCE3=~z~No - I can't at the moment.
+0x1B5FCCE3=~z~不，我现在没空。
 
 ;0x1B6571B2=~z~A long time we're at work me good friend, me could go watch a show or something.
 0x1B6571B2=~z~我们工作了多久了，好朋友，该考虑去看场表演了。
@@ -87,7 +87,7 @@
 0x1BE40EF3=~z~敬你，之后见。
 
 ;0x1D6E67D4=~z~Yes, I'm hungry too. I'll come over in the next hour.
-0x1D6E67D4=~z~Yes, I'm hungry too. I'll come over in the next hour.
+0x1D6E67D4=~z~好啊，正好我也饿了。我一小时内就到。
 
 ;0x1DF6CD9D=100
 0x1DF6CD9D=100
@@ -138,7 +138,7 @@
 0x30651907=100
 
 ;0x32ECCD53=~z~Okay, bad boy - just call me when you have some time.
-0x32ECCD53=~z~Okay, bad boy - just call me when you have some time.
+0x32ECCD53=~z~好吧，小坏蛋，等你有空了记得找我。
 
 ;0x3317921E=100
 0x3317921E=100
@@ -150,7 +150,7 @@
 0x3680C42C=~z~好，兄弟。我等你过来。
 
 ;0x37BE2430=~z~Wanna play a lickle bit o' pool or something, me breda?
-0x37BE2430=~z~你想不想来打一会儿台球啊，好兄弟？
+0x37BE2430=~z~你想不想来打会儿台球啊，好兄弟？
 
 ;0x37F2C10A=~z~Me down at Firefly Island man, link up man, me need a ride, man.
 0x37F2C10A=~z~Me down at Firefly Island man, link up man, me need a ride, man.
@@ -210,7 +210,7 @@
 0x4C4139C1=FCJ_ACT_GETCALL_LIFT_SOUTH_SLOPES
 
 ;0x4CC85E6E=~z~No. I can't do darts just now.
-0x4CC85E6E=~z~No. I can't do darts just now.
+0x4CC85E6E=~z~不了。我现在不想玩飞镖。
 
 ;0x4D858342=~z~Yeah, I'll be there within the hour, Jacob.
 0x4D858342=~z~好的，我一小时内就到，Jacob。
@@ -243,7 +243,7 @@
 0x5A8ECD0C=FCJ_ACT_GETCALL_HOSP_REJ_HILIKE
 
 ;0x5C9B0B20=~z~Yo, all we do is business, yo? Mek we just go a the strip club or something.
-0x5C9B0B20=~z~Yo, all we do is business, yo? Mek we just go a the strip club or something.
+0x5C9B0B20=~z~哟，之前一直忙生计对吧？要不要去脱衣舞俱乐部放松一下？
 
 ;0x5E52EF77=~z~Yo, star, me down Hove Beach man, me need a ride man, link up star, link up.
 0x5E52EF77=~z~Yo, star, me down Hove Beach man, me need a ride man, link up star, link up.
@@ -252,7 +252,7 @@
 0x5EC99AD4=FCJ_ACT_PLJ_CALL_HOSP_CANCEL
 
 ;0x601E384B=~z~Yes, why not - I'm on my way over.
-0x601E384B=~z~Yes, why not - I'm on my way over.
+0x601E384B=~z~好啊，何不呢。我过来了。
 
 ;0x610A033F=FCJ_ACT_PLJ_GETCALL_POOL_YES
 0x610A033F=FCJ_ACT_PLJ_GETCALL_POOL_YES
@@ -279,10 +279,10 @@
 0x6BF370CC=~z~Yo, can you pick me up from the airport?
 
 ;0x6C22F69D=~z~Yo, you wanna go down the strip club, Mr. Mention?
-0x6C22F69D=~z~哟，想去脱衣舞俱乐部吗，常提起先生？
+0x6C22F69D=~z~哟，想去脱衣舞俱乐部吗，懂哥？
 
 ;0x6CF1E3AD=~z~Star, me bored y'know. You wanna go for a drink?
-0x6CF1E3AD=~z~Star, me bored y'know. You wanna go for a drink?
+0x6CF1E3AD=~z~兄弟，我好无聊啊。你想去喝酒吗？
 
 ;0x6D5303A3=100
 0x6D5303A3=100
@@ -306,7 +306,7 @@
 0x7369A852=~z~Yo star, me Downtown man, can come pick me up.
 
 ;0x7435F8CE=~z~Mek we go play some darts?
-0x7435F8CE=~z~Mek we go play some darts?
+0x7435F8CE=~z~要不要去玩会儿飞镖？
 
 ;0x767A3865=100
 0x767A3865=100
@@ -327,10 +327,10 @@
 0x7B3B5CCA=100
 
 ;0x7ECDAA91=~z~Absolutely. I'm on my way.
-0x7ECDAA91=~z~Absolutely. I'm on my way.
+0x7ECDAA91=~z~当然来，我这就过来。
 
 ;0x8105CBBD=~z~I can't play pool just now, man - I got some shit to deal with.
-0x8105CBBD=~z~I can't play pool just now, man - I got some shit to deal with.
+0x8105CBBD=~z~我现在没空打台球，兄弟，我还有事要忙。
 
 ;0x81678783=FCJ_ACT_GETCALL_IRATE
 0x81678783=FCJ_ACT_GETCALL_IRATE
@@ -339,7 +339,7 @@
 0x831EBAAC=~z~好啊，当然啦。我一小时内到。
 
 ;0x833231E6=~z~Jacob, sorry, man, something serious has come up. I can't make it to the hospital.
-0x833231E6=~z~Jacob, sorry, man, something serious has come up. I can't make it to the hospital.
+0x833231E6=~z~Jacob，抱歉，兄弟，突然有点急事。我来不了医院了。
 
 ;0x83820E38=010
 0x83820E38=010
@@ -372,10 +372,10 @@
 0x8F7E7216=~z~好啊，当然－我会在60分钟内来接你的。
 
 ;0x94BEAA9B=~z~Why not? I'm bored as hell. I'll come over in the next hour.
-0x94BEAA9B=~z~Why not? I'm bored as hell. I'll come over in the next hour.
+0x94BEAA9B=~z~何不呢？我刚好很无聊。一小时内就到。
 
 ;0x94E1B711=~z~What? You too busy to help a friend?
-0x94E1B711=~z~What? You too busy to help a friend?
+0x94E1B711=~z~什么？你忙到连朋友都不能帮吗？
 
 ;0x9505EE10=010
 0x9505EE10=010
@@ -393,7 +393,7 @@
 0x993E494D=FCJ_ACT_PLJ_GETCALL_SHOW_YES
 
 ;0x99FA9A38=~z~Let's have a drink now, star.
-0x99FA9A38=~z~一起去喝一杯吧，兄弟。
+0x99FA9A38=~z~一起去干杯吧，兄弟。
 
 ;0x9CBCF12F=010
 0x9CBCF12F=010
@@ -408,13 +408,13 @@
 0x9DFDB7F5=010
 
 ;0x9E096EFD=~z~Sorry, man - I can't do that just now.
-0x9E096EFD=~z~Sorry, man - I can't do that just now.
+0x9E096EFD=~z~抱歉，兄弟，我现在没空。
 
 ;0xA1CD4781=FCJ_ACT_GETCALL_HOSP_REJ_MEDLIKE
 0xA1CD4781=FCJ_ACT_GETCALL_HOSP_REJ_MEDLIKE
 
 ;0xA2FB5393=~z~A show? Yeah, why not? I'll come over and pick you up within the hour.
-0xA2FB5393=~z~A show? Yeah, why not? I'll come over and pick you up within the hour.
+0xA2FB5393=~z~表演？我一定来。一小时内我过来接你。
 
 ;0xA423E1B2=~z~Yo, Niko, I'm coming out today, man. Can you pick me up at the hospital?
 0xA423E1B2=~z~哟，Niko，今天我出院，兄弟。你能来医院接我吗？
@@ -429,7 +429,7 @@
 0xAB79DBDE=100
 
 ;0xAC393EB5=~z~Let's go for a drink.
-0xAC393EB5=~z~Let's go for a drink.
+0xAC393EB5=~z~一起去喝酒吧。
 
 ;0xACDD9104=FCJ_ACT_GETCALL_DARTS
 0xACDD9104=FCJ_ACT_GETCALL_DARTS
@@ -450,7 +450,7 @@
 0xAFD95EAD=FCJ_ACT_GETCALL_LIFT_MEADOWS_PARK
 
 ;0xB0E4496C=~z~You got time for some food?
-0xB0E4496C=~z~You got time for some food?
+0xB0E4496C=~z~有空一起吃顿饭吗？
 
 ;0xB2B4A6CC=~z~Yo, star, me down East Hook, man. Link up, star, me need a ride.
 0xB2B4A6CC=~z~Yo, star, me down East Hook, man. Link up, star, me need a ride.
@@ -480,7 +480,7 @@
 0xB62D21A5=010
 
 ;0xB679615F=~z~You wan' go see a show?
-0xB679615F=~z~You wan' go see a show?
+0xB679615F=~z~你想去看表演吗？
 
 ;0xB72704E1=FCJ_ACT_GETCALL_LIFT_DOWNTOWN
 0xB72704E1=FCJ_ACT_GETCALL_LIFT_DOWNTOWN
@@ -489,7 +489,7 @@
 0xB76FFE01=~z~Star, yeah, me down Firefly Projects, man, link up star, me need a ride.
 
 ;0xB7749D8B=~z~Whappen to you, rasta? Are we spar today?
-0xB7749D8B=~z~Whappen to you, rasta? Are we spar today?
+0xB7749D8B=~z~你还好吗，兄弟？去不去喝酒？
 
 ;0xB89AD041=FCJ_ACT_PLJ_GETCALL_EAT_NO
 0xB89AD041=FCJ_ACT_PLJ_GETCALL_EAT_NO
@@ -534,13 +534,13 @@
 0xC717CE2A=~z~再见，兄弟。
 
 ;0xC7387614=~z~Yo, you want get some food?
-0xC7387614=~z~Yo, you want get some food?
+0xC7387614=~z~哟，你想去吃顿饭吗？
 
 ;0xC893C427=~z~Niko, can you pick me up in my yard man? Me need a lift.
 0xC893C427=~z~Niko, can you pick me up in my yard man? Me need a lift.
 
 ;0xC90CD246=~z~Sorry man, I can't do a show right now - I've got a problem I've got to deal with.
-0xC90CD246=~z~Sorry man, I can't do a show right now - I've got a problem I've got to deal with.
+0xC90CD246=~z~抱歉，兄弟，我现在没空看表演。还有重要的事要忙。
 
 ;0xCBA644F5=100
 0xCBA644F5=100
@@ -567,7 +567,7 @@
 0xD1B0FDD0=~z~没问题，兄弟。我会找别人的。
 
 ;0xD2DF77CB=~z~No problems, man. Me mek meself get home.
-0xD2DF77CB=~z~No problems, man. Me mek meself get home.
+0xD2DF77CB=~z~没问题，兄弟。我自己回去吧。
 
 ;0xD52BD460=~z~Me need a lift from Meadow Hills, come pick me up.
 0xD52BD460=~z~Me need a lift from Meadow Hills, come pick me up.
@@ -582,7 +582,7 @@
 0xD7F94FDD=~z~我是很想来，但是我现在有点忙。
 
 ;0xD842BE25=~z~Sure I'll come over and pick you up.
-0xD842BE25=~z~好的，我肯定会来接你的。
+0xD842BE25=~z~好的，我会来接你的。
 
 ;0xD88FCCE8=FCJ_ACT_GETCALL_HOSP_ASK
 0xD88FCCE8=FCJ_ACT_GETCALL_HOSP_ASK
@@ -591,16 +591,16 @@
 0xD89BBD49=~z~好的，没问题，我一小时内就来。
 
 ;0xDB4F76CB=~z~No, Jacob, I can't do a show just now.
-0xDB4F76CB=~z~No, Jacob, I can't do a show just now.
+0xDB4F76CB=~z~不，Jacob，我现在没空看表演。
 
 ;0xDC32B86B=FCJ_ACT_GETCALL_LIFT_OUTLOOK_PARK
 0xDC32B86B=FCJ_ACT_GETCALL_LIFT_OUTLOOK_PARK
 
 ;0xDCAA0C70=~z~Darts? Sure. I'll pick you up in the next hour.
-0xDCAA0C70=~z~Darts? Sure. I'll pick you up in the next hour.
+0xDCAA0C70=~z~飞镖？好啊。我一小时内来接你。
 
 ;0xDD7D148B=~z~Yo, wa mek you such a selfish bloodclot, Niko?
-0xDD7D148B=~z~Yo, wa mek you such a selfish bloodclot, Niko?
+0xDD7D148B=~z~哟，你这逼怎么这么自私了，Niko？
 
 ;0xDDA0569E=FCJ_ACT_GETCALL_LIFT_EAST_HOOK
 0xDDA0569E=FCJ_ACT_GETCALL_LIFT_EAST_HOOK
@@ -657,10 +657,10 @@
 0xF1A90947=FCJ_ACT_GETCALL_LIFT_ROTTERDAM_HILL
 
 ;0xF1A957C2=~z~Yes, me good friend, lets go a show.
-0xF1A957C2=~z~Yes, me good friend, lets go a show.
+0xF1A957C2=~z~好的，好朋友，一起去看表演吧。
 
 ;0xF2536E25=~z~Ah gwan about your bloodclot business then, boy.
-0xF2536E25=~z~Ah gwan about your bloodclot business then, boy.
+0xF2536E25=~z~啊，你忙你的去吧，小子。
 
 ;0xF3DB22A9=FCJ_ACT_GETCALL_LIFT_BEACHWOOD_HILL
 0xF3DB22A9=FCJ_ACT_GETCALL_LIFT_BEACHWOOD_HILL
@@ -675,7 +675,7 @@
 0xF6B6A06C=~z~Niko, me breda, me need a favor man, can you pick me up a' me house?
 
 ;0xF718C89F=~z~No problem, man. Me find another way.
-0xF718C89F=~z~没问题，兄弟。我会去找别人的。
+0xF718C89F=~z~没问题，兄弟。我自己想办法吧。
 
 ;0xF76DB3DC=010
 0xF76DB3DC=010
@@ -699,7 +699,7 @@
 0xFC602BE3=~z~Star, me down a' Hove Beach man, link up man, me need a ride man, link up.
 
 ;0xFCA2122B=~z~Yo, I need a lift from the airport.
-0xFCA2122B=~z~Yo, I need a lift from the airport.
+0xFCA2122B=~z~哟，能来机场接我吗。
 
 ;0xFD8B383A=100
 0xFD8B383A=100

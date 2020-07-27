@@ -33,7 +33,7 @@
 0x131570BF=~z~Niko，我们已经出去过几次了。我想一起去玩个飞镖。你意下如何？
 
 ;0x144B95B8=~z~Can't do bowling right now, Packie. Another time.
-0x144B95B8=~z~我现在去不了保龄球，Packie。改天吧。
+0x144B95B8=~z~我现在没空打保龄球，Packie。改天吧。
 
 ;0x1794E970=FCP_ACT_GETCALL_DARTS_FIRST
 0x1794E970=FCP_ACT_GETCALL_DARTS_FIRST
@@ -60,7 +60,7 @@
 0x25C72C3D=~z~绅士的俱乐部去不去啊？
 
 ;0x26311219=~z~Alright, man. If you want to hang later call me.
-0x26311219=~z~好吧，兄弟。你要是想出来玩就再打给我。
+0x26311219=~z~好吧，兄弟。你要是想出来玩就来找我。
 
 ;0x2670D6C0=FCP_ACT_GETCALL_DRINK
 0x2670D6C0=FCP_ACT_GETCALL_DRINK
@@ -72,7 +72,7 @@
 0x29E144D1=~z~来玩飞镖吗？
 
 ;0x2B5CD0EB=~z~Let's play some pool?
-0x2B5CD0EB=~z~来打局台球？
+0x2B5CD0EB=~z~来打局台球吧？
 
 ;0x2C0B14A8=010
 0x2C0B14A8=010
@@ -156,7 +156,7 @@
 0x4DBEA8F8=~z~我他妈才不管，就应该把你丫的电话挂了的。
 
 ;0x4EE45A40=~z~We got a plan, Niko. I'll wait for ya.
-0x4EE45A40=~z~我们约好了，Niko。我等着你。
+0x4EE45A40=~z~那就说好了，Niko。我等着你。
 
 ;0x4FDD7374=100
 0x4FDD7374=100
@@ -222,7 +222,7 @@
 0x848CFE54=~z~抱歉，Packie，脱衣舞俱乐部我们得改天再去了。突然有点事情。
 
 ;0x84D2A696=~z~Sure, Packie. Strippers could be cool. I'll collect you within the hour.
-0x84D2A696=~z~好啊，Packie。舞女会很棒的。我一小时内来接你。
+0x84D2A696=~z~好啊，Packie。舞女很棒啊。我一小时内来接你。
 
 ;0x87D1C53E=010
 0x87D1C53E=010
@@ -264,7 +264,7 @@
 0x974A76F9=FCP_ACT_PPK_CALL_POOL_CANCEL
 
 ;0x979E0A07=~z~Hey Niko, they got pool in eastern Europe? Ha - just joking. Let's go play a few racks.
-0x979E0A07=~z~嘿，Niko，东欧有没有台球啊？哈－开玩笑的。我们去打两局吧。
+0x979E0A07=~z~嘿，Niko，东欧有没有台球啊？哈，开玩笑的。我们去打两局吧。
 
 ;0x9AF0AB8A=010
 0x9AF0AB8A=010
