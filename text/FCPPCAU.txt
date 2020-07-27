@@ -36,10 +36,10 @@
 0x0B692B8B=010
 
 ;0x0EBC26D1=~z~Sorry, Niko. Think I might have to get hard later. Just chop for me today. Another time.
-0x0EBC26D1=~z~抱歉，Niko。我想待会儿我还得清醒点。今天先放过我吧。下次吧。
+0x0EBC26D1=~z~抱歉，Niko。我想待会儿我需要保持清醒。今天先放过我吧。下次吧。
 
 ;0x0F9D70CB=~z~I love those places. Come get me from the house in the next hour. Don't think I could take waiting longer than that.
-0x0F9D70CB=~z~我喜欢那种地方，一小时内来我家接我。别以为我会多等一会儿。
+0x0F9D70CB=~z~我喜欢那种地方，一小时内来我家接我。别以为我会多等。
 
 ;0x10615A58=~z~Packie, I'll be there soon.
 0x10615A58=~z~Packie，我马上就到。
@@ -81,10 +81,10 @@
 0x1FCD0666=FCP_ACT_CALL_DRINK_NO_GENERAL
 
 ;0x20E2496C=~z~You're the only stone cold killer I know with a bowling fetish. Find someone else to join you this time, because I'm bowled out.
-0x20E2496C=~z~我只认识你这么一个是保龄球狂的冷血杀手。你还是另请高明，因为我出局了。
+0x20E2496C=~z~我只认识你这么一个是保龄球狂的冷血杀手。你还是另请高明吧，因为我出局了。
 
 ;0x22EB176A=~z~Alright man, I'm up for seeing some chicks. Come get me in the next hour.
-0x22EB176A=~z~好的，兄弟，我刚好想找几个鸡。一小时内来接我。
+0x22EB176A=~z~好的，兄弟，我刚好想看几个辣妹。一小时内来接我。
 
 ;0x24BADF25=010
 0x24BADF25=010
@@ -132,7 +132,7 @@
 0x36167B49=~z~上次才刚去投过飞镖，别以为这么快就能有下一次，改天吧。
 
 ;0x371D75E2=~z~Shit, Niko. You just love that bowling. I'm afraid I ain't as interested as you. You're gonna have to go it alone this time.
-0x371D75E2=~z~我靠，Niko。你就这么喜欢保龄球吗。恐怕我没你那么对它感兴趣。要去你自己去。
+0x371D75E2=~z~我靠，Niko。你就这么喜欢保龄球吗。恐怕我没你那么喜欢它。要去你自己去。
 
 ;0x38025D3D=FCP_ACT_CALL_STRIP_YES
 0x38025D3D=FCP_ACT_CALL_STRIP_YES
@@ -189,7 +189,7 @@
 0x48DC9FBA=~z~我是Patrick McReary，我很可能不记得有给过你电话，或者不记得你是谁。
 
 ;0x499F4860=~z~Why don't we go bowling?
-0x499F4860=~z~要么我们一起去打个保龄球？
+0x499F4860=~z~要么一起去打保龄球吧？
 
 ;0x4A044D9D=~z~Sure Packie, we have an arrangement.
 0x4A044D9D=~z~当然，Packie，我们约好了。
@@ -231,7 +231,7 @@
 0x560EE449=~z~喂，兄弟。
 
 ;0x569B3B37=~z~Ladies, I'm sorry it was a one night stand.
-0x569B3B37=~z~女士们，我很抱歉，但之前那个只是一夜激情。
+0x569B3B37=~z~女士们，我很抱歉，但之前只是一夜激情。
 
 ;0x58F372ED=FCP_ACT_PPK_CALL_BOWL
 0x58F372ED=FCP_ACT_PPK_CALL_BOWL
@@ -267,7 +267,7 @@
 0x66F6176B=FCP_ACT_CALL_DRINK_NO_RECENT
 
 ;0x67A6FAB3=~z~Fuck, Niko. You wanna go back? I don't think I could take it. Maybe in a while.
-0x67A6FAB3=~z~操，Niko。你这就要回去了？我觉得我顶不住。下次吧。
+0x67A6FAB3=~z~操，Niko。你这就又想去了？我觉得我顶不住。下次吧。
 
 ;0x67C799ED=FCP_ACT_PPK_CALL_SLEEPING
 0x67C799ED=FCP_ACT_PPK_CALL_SLEEPING
@@ -294,10 +294,10 @@
 0x75364A94=~z~一起去看场表演如何？
 
 ;0x791FC392=~z~Fuck me, it's you. I was about to start looking for you at the bottom of the Humboldt. Now I just wish you were there. Hmmm.
-0x791FC392=~z~我操，是你啊。我有想过到Humboldt河河底来找你了。现在我到希望你已经在河底了。唔。
+0x791FC392=~z~我操，是你啊。我都想去Humboldt河河底找你了。现在我倒希望你已经在河底了。唔。
 
 ;0x79DE7D18=~z~Didn't think I'd ever say it, but I don't feel like drinking right now. I just threw up blood in me ma's john.
-0x79DE7D18=~z~别以为我之前说过，但我现在没心情喝酒。我刚在我妈家的厕所里咯过血。
+0x79DE7D18=~z~没想到我也会说这种话，但我现在没心情喝酒。我刚在我妈家的厕所里咯过血。
 
 ;0x7A520E2D=~z~You feel like going to get some lap dances?
 0x7A520E2D=~z~你想去看膝上舞吗？
@@ -336,7 +336,7 @@
 0x8F75D0F3=~z~靠，兄弟。我不会那么快就再来陪你打台球。下次再说吧。
 
 ;0x8F7D5F2A=~z~Jesus Niko, don't you fuckin' sleep?! I'm in fuckin' bed and my hangover's telling me I ain't gonna be up 'til 4.
-0x8F7D5F2A=~z~天哪，Niko，你丫不睡觉吗？！我他妈还在床上，我的宿醉让我别在4点前起床。
+0x8F7D5F2A=~z~天哪，Niko，你丫不睡觉吗?!我他妈还在床上，我的宿醉让我别在4点前起床。
 
 ;0x8FDD733A=010
 0x8FDD733A=010
@@ -378,16 +378,16 @@
 0xA72F67E7=~z~想去趟脱衣舞俱乐部吗？
 
 ;0xA8273498=~z~Can't do it Niko. Got people to rob, bully, beat up, etc. etc. Call me some other time.
-0xA8273498=~z~去不了，Niko。还有得去抢劫霸凌打人呢，多的很。改天再打给我吧。
+0xA8273498=~z~去不了，Niko。还得去抢劫霸凌打人呢，多的很。改天再打给我吧。
 
 ;0xAAA0B564=~z~Want to go to a show?
 0xAAA0B564=~z~想去看表演吗？
 
 ;0xAAC4B9CF=~z~Only thing I'd want to do with a pool table right now is snort rails off it. Another time
-0xAAC4B9CF=~z~我想在只想在台球桌上吸粉，下次再说吧。
+0xAAC4B9CF=~z~我现在只想在台球桌上吸粉，下次再说吧。
 
 ;0xAE260147=~z~Alright Niko. We'll go bowling. How about you pick me up in the next hour?
-0xAE260147=~z~好吧，Niko。我们去打保龄球吧。那你一小时内来接我吧。
+0xAE260147=~z~好吧，Niko。我们去打保龄球吧。要么你一小时内来接我？
 
 ;0xAF432EA7=010
 0xAF432EA7=010
@@ -450,7 +450,7 @@
 0xC7E244E8=~z~我们一起去打会儿保龄球如何？
 
 ;0xC96E278E=~z~Pick me up in the next hour. You think you can last that long without killing someone. I'll pay for the pool if you do.
-0xC96E278E=~z~一小时内来接我。你觉得你能忍着不杀人那么久吗，能做到的话这局台球我请客。
+0xC96E278E=~z~一小时内来接我。你觉得你能忍着不杀人那么久吗，能做到的话这局台球我买单。
 
 ;0xC9CB1AC7=100
 0xC9CB1AC7=100
@@ -495,7 +495,7 @@
 0xDA1B56B0=~z~操蛋，Niko，过段时间再他妈打给我。我现在不会和你出来转的。
 
 ;0xDA56EF9F=~z~What the fuck, Niko. I ain't seen you in ages. If you weren't such a scary motherfucker I might not have answered. So...
-0xDA56EF9F=~z~搞什么，Niko。我已经很久都没听说过了。要不是因为你是个恐怖的狗逼玩意，我都未必会接这个电话。所以...
+0xDA56EF9F=~z~搞什么，Niko。好久没接到你的电话了。要不是因为你这狗逼吓人得很，我都未必会接这个电话。所以...
 
 ;0xDBE45158=~z~How about we go check out a gentlemen's club?
 0xDBE45158=~z~我们一起去绅士的俱乐部如何？
@@ -522,7 +522,7 @@
 0xE73D0080=~z~我不是很想这么快就重拾台球杆。下次吧。
 
 ;0xE8AB0983=~z~What's up Packie?
-0xE8AB0983=~z~怎么样，Packie？
+0xE8AB0983=~z~你好吗，Packie？
 
 ;0xE8B9E269=FCP_ACT_PPK_CALL_REJECTED
 0xE8B9E269=FCP_ACT_PPK_CALL_REJECTED
@@ -540,13 +540,13 @@
 0xEFEAC0C4=FCP_ACT_CALL_VERYIRATE
 
 ;0xF0D09B99=~z~Darts? Only if we can throw them at all the tourists walking around Star Junction. Maybe some other time.
-0xF0D09B99=~z~飞镖？要是能朝Star Junction的客流投的话我会去的。改天吧。
+0xF0D09B99=~z~飞镖？能朝Star Junction的客流投的话我才去。改天吧。
 
 ;0xF0FA486C=FCP_ACT_CALL_SHOW_NO_GENERAL
 0xF0FA486C=FCP_ACT_CALL_SHOW_NO_GENERAL
 
 ;0xF2348FE4=~z~Shit, Niko, you musta been real sex starved on that boat over. I ain't going with you this time. Call me later.
-0xF2348FE4=~z~我靠，Niko，你在过来时候的船上肯定是超级饥渴的。这次我来不了，下次再说。
+0xF2348FE4=~z~我靠，Niko，你在过来时候的船上肯定超级饥渴。这次我来不了，下次再说。
 
 ;0xF23E9028=~z~If I was gonna go to another show this soon it'd be with a chick. Sorry Niko. Call me later.
 0xF23E9028=~z~就算我这么快又得去看一场表演，我也会找个鸡陪我去。抱歉，Niko。改天吧。

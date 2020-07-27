@@ -9,7 +9,7 @@
 0x0193870B=~z~我很乐意来把飞镖。一小时内来接我。
 
 ;0x019EE11E=~z~Niko, you junkie, we went bowling just recently. Maybe later.
-0x019EE11E=~z~Niko，你个渣渣，我们才刚打过保龄球。过段时间吧。
+0x019EE11E=~z~Niko，你上瘾了吧，我们才刚打过保龄球。过段时间吧。
 
 ;0x025272B4=FCR2_ACT_CALL_BOWL_NO_RECENT
 0x025272B4=FCR2_ACT_CALL_BOWL_NO_RECENT
@@ -99,7 +99,7 @@
 0x2EB708C3=~z~我们去喝点伏特加如何？
 
 ;0x30A5183E=~z~Roman, what's up?
-0x30A5183E=~z~Roman，你怎么样？
+0x30A5183E=~z~Roman，你还好吗？
 
 ;0x31830ADF=FCR2_ACT_CALL_GAMES_NO_RECENT
 0x31830ADF=FCR2_ACT_CALL_GAMES_NO_RECENT
@@ -111,7 +111,7 @@
 0x34F64CA4=~z~You want do some gaming?
 
 ;0x36B9D10D=~z~Ah. You have finally called Roman. I think you have forgotten about the man who bring you to this country.
-0x36B9D10D=~z~Ah. You have finally called Roman. I think you have forgotten about the man who bring you to this country.
+0x36B9D10D=~z~啊，你终于打给Roman了。我都以为你把让你来到美国的人给忘了。
 
 ;0x38B526A7=~z~I was thinking we play some darts.
 0x38B526A7=~z~我在想要不要去玩会儿飞镖。
@@ -120,7 +120,7 @@
 0x391715C5=FCR_ACT_CALL_LIKENO
 
 ;0x3A017209=~z~Cousin, we are family. Of course I should be spending time with you. Pick me up in next hour.
-0x3A017209=~z~堂弟，我们是一家人，我当然该和你一起度过。一小时内来接我。
+0x3A017209=~z~堂弟，我们是一家人，我当然该和你共度时光。一小时内来接我。
 
 ;0x3A736A2F=~z~Cousin, I shall be there soon.
 0x3A736A2F=~z~堂兄，我应该很快就能到。
@@ -147,13 +147,13 @@
 0x44F1016A=~z~好主意，堂弟，一起吃一顿吧。我等你一个小时。
 
 ;0x472B8C5D=~z~Niko, I am all you have in Liberty City. I could not abandon you. Collect me in next hour.
-0x472B8C5D=~z~Niko, I am all you have in Liberty City. I could not abandon you. Collect me in next hour.
+0x472B8C5D=~z~Niko，我可是你在自由城的一切。我不能抛弃你。一小时内来接我。
 
 ;0x4789CB0E=~z~Niko, you are bad influence on me. I can no drink with you again right now.
 0x4789CB0E=~z~Niko，你对我影响太坏了。我现在不能陪你喝酒。
 
 ;0x48082156=~z~Two cousin's playing pool, I like the sound of that. Pick me up in next hour.
-0x48082156=~z~两兄弟打台球，我喜欢这个说法。一小时内来接我。
+0x48082156=~z~两兄弟打台球，我喜欢。一小时内来接我。
 
 ;0x483747C5=~z~You want to hit the bowling alley?
 0x483747C5=~z~你想去打保龄球吗？
@@ -258,7 +258,7 @@
 0x68CC20D2=~z~我靠，Niko。我不会这么快就又陪你去玩飞镖的。我还得上网。
 
 ;0x6900B59A=~z~Niko Bellic, it has been a long time since I had one of these calls, but family is family.
-0x6900B59A=~z~Niko Bellic, it has been a long time since I had one of these calls, but family is family.
+0x6900B59A=~z~Niko Bellic，虽然你很久没给我打电话了，但家人终归是家人。
 
 ;0x69997D2B=~z~I wait for an hour, cousin. I look forward to beating you on the video games.
 0x69997D2B=~z~I wait for an hour, cousin. I look forward to beating you on the video games.
@@ -315,13 +315,13 @@
 0x7C8CD2B3=~z~我靠，真不是时候。我这儿和Mallorie逛街呢，我们待会儿再玩飞镖吧。
 
 ;0x7C998274=~z~We should eat together like cousins?
-0x7C998274=~z~我们是不是该像兄弟一样吃顿饭？
+0x7C998274=~z~我们是不是该像兄弟那样吃顿饭？
 
 ;0x7CE58DC8=~z~I do not think I will be able to enjoy a normal breast if I see silicon again so soon. Maybe in a while.
 0x7CE58DC8=~z~我觉得我这么快就又去看一次硅胶奶子的话会享受不了真奶子的美妙的。过段时间再去吧。
 
 ;0x7DF2BC8A=~z~Wine, women and my cousin, Niko. I could not say no. Pick me up in next hour.
-0x7DF2BC8A=~z~酒水、女人和我的Niko堂弟。我拒绝不了这些。一小时内来接我。
+0x7DF2BC8A=~z~酒水、女人和我的Niko堂弟。这些我都无法拒绝。一小时内来接我。
 
 ;0x7DF66B4C=~z~I can't do it right now, Niko. Maybe later.
 0x7DF66B4C=~z~我现在去不了，Niko。之后再去吧。
@@ -369,7 +369,7 @@
 0x88A91264=010
 
 ;0x8A68C16E=~z~Niko, I have hot date. Only thing I'm seeing is titties.
-0x8A68C16E=~z~Niko，我还有火热的约会呢。我眼里能看见的只有奶子。
+0x8A68C16E=~z~Niko，我还有火热的约会呢。待会儿我会看的只有奶子。
 
 ;0x8B0B78CD=~z~How about we play some video games?
 0x8B0B78CD=~z~How about we play some video games?
@@ -399,7 +399,7 @@
 0x9236112A=100
 
 ;0x9538F9AB=~z~Those darts hurt my fingers. I can no play again so soon.
-0x9538F9AB=~z~那些飞镖弄伤了我的手指，我最近玩不了。
+0x9538F9AB=~z~我的手指被飞镖弄伤了，我最近玩不了。
 
 ;0x95EA9153=~z~We bowl like two cousins in American sitcom. Pick me up in next hour.
 0x95EA9153=~z~我们可以像美国情景剧里的兄弟一样打保龄球。一小时内来接我。
@@ -408,7 +408,7 @@
 0x96C8B944=~z~Niko, shit, I want to but I must meet people about... business arrangements. Later.
 
 ;0x973F0817=~z~I cannot play the dart now. I have to be online. Sorry man.
-0x973F0817=~z~我现在玩不了飞镖，我忙着上网呢。抱歉老弟。
+0x973F0817=~z~我现在玩不了飞镖，忙着上网呢。抱歉老弟。
 
 ;0x997F074F=~z~I do not think I would be able to resist groping girls, Niko. Maybe when I am less horny.
 0x997F074F=~z~我觉得我会控制不住自己去摸那些妞，Niko。等我没那么性奋的时候再约吧。
@@ -519,10 +519,10 @@
 0xC969A122=~z~抱歉，堂弟，我才刚和你看过表演。现在不能再去一次。
 
 ;0xCAEA990B=~z~You are a good cousin, Niko. This is just what we should do. Collect me in next hour.
-0xCAEA990B=~z~真是个好堂弟，Niko。我们就该做这个。一小时内来接我。
+0xCAEA990B=~z~真是个好堂弟，Niko。我们就该去那里。一小时内来接我。
 
 ;0xCAEC57BA=~z~I bring you here to this country, I cannot be treated like piece of dirt. Call me more often, maybe then we do this.
-0xCAEC57BA=~z~I bring you here to this country, I cannot be treated like piece of dirt. Call me more often, maybe then we do this.
+0xCAEC57BA=~z~我让你来到了这个国家，你不能不把我放在眼里。多打电话找我，我会考虑考虑的。
 
 ;0xCB5A7531=FCR_ACT_PRO_CALL_EAT
 0xCB5A7531=FCR_ACT_PRO_CALL_EAT
@@ -567,7 +567,7 @@
 0xD71C6FBB=FCR_ACT_CALL_VERYIRATE
 
 ;0xD8B1F345=~z~Niko, what the deal? Why you no call me more? I hang out with you when you pay me more attention, okay?
-0xD8B1F345=~z~Niko, what the deal? Why you no call me more? I hang out with you when you pay me more attention, okay?
+0xD8B1F345=~z~Niko，怎么回事？你怎么不多找我几次？等你更关心我了我就陪你出去，好吗？
 
 ;0xD9341AA4=FCR_ACT_PRO_CALL_SHOW
 0xD9341AA4=FCR_ACT_PRO_CALL_SHOW
@@ -597,7 +597,7 @@
 0xDFE0F53F=100
 
 ;0xE1796F92=~z~Niko, I cannot see nothing right now. I just enter online tournament.
-0xE1796F92=~z~Niko，我现在什么都看不见，才刚进入线上赌场呢。
+0xE1796F92=~z~Niko，我现在什么都不想看，我才刚进线上赌场呢。
 
 ;0xE1DE66F2=~z~Is so good to hear your voice. I was thinking you too busy killing people to hang out with me.
 0xE1DE66F2=~z~能听见你的声音真好，我还以为你忙着杀人没空和我出去了。
@@ -687,7 +687,7 @@
 0xF8791C48=~z~你想去喝一杯吗？
 
 ;0xF94FD81C=~z~Haha, I love to watch the girls bend down and pick up balls, of course I will bowl with you. Pick me up in next hour.
-0xF94FD81C=~z~哈哈，我就爱看妹子们弯腰捡球，我当然会和你来打保龄球的。一小时内来接我。
+0xF94FD81C=~z~哈哈，我就爱看妹子弯腰捡球，我当然会来打保龄球。一小时内来接我。
 
 ;0xFCC6B078=~z~Niko, I try to get rid of this double chin. I cannot eat right now.
 0xFCC6B078=~z~Niko，我还在尝试摆脱双下巴呢。我现在不能来吃。

@@ -57,7 +57,7 @@
 0x1844E9EB=FCJ2_JACOB_CONVERSATION_4_DA
 
 ;0x1BDE767E=~z~What's up Jacob?
-0x1BDE767E=~z~Jacob，你好吗？
+0x1BDE767E=~z~你好啊，Jacob。
 
 ;0x1E19F376=~z~Him speak de truth, man, him know de way, him understand tings properly, you know?
 0x1E19F376=~z~他述说真理，兄弟，他通晓方向，他对事物理解到位，懂吧？
@@ -180,13 +180,13 @@
 0x56E54197=FCJ2_JACOB_CONVERSATION_4_DM
 
 ;0x574965D8=~z~Usual a whole heap of trouble, but, me nah complain, you know. Me learn from me Uncle Bradshaw, you know.
-0x574965D8=~z~一如既往的麻烦多多，不过，我能接受懂吧。我从我Bradshaw叔*那里学的懂吧。~n~(游戏中Tuff Gong电台的DJ，牙买加裔)
+0x574965D8=~z~一如既往的麻烦多多，不过，我能接受懂吧。我从我Bradshaw叔*那里学的。~n~(游戏中Tuff Gong电台的DJ，牙买加裔)
 
 ;0x57717B37=FCJ2_JACOB_CONVERSATION_8_HK
 0x57717B37=FCJ2_JACOB_CONVERSATION_8_HK
 
 ;0x57B6DD45=~z~If me tell Badman fe calm down, him a pull out de ratchet and cut I good.
-0x57B6DD45=~z~如果我告诉Badman冷静一下，他能拿个刀把我剁了。
+0x57B6DD45=~z~如果我告诉Badman冷静一下，他能拿刀把我剁了。
 
 ;0x593D4BD0=FCJ2_JACOB_CONVERSATION_1_AJ
 0x593D4BD0=FCJ2_JACOB_CONVERSATION_1_AJ
@@ -312,7 +312,7 @@
 0x9152C615=~z~我也很高兴见到你，Niko。你最近还好吗？
 
 ;0x915AB84D=~z~I don't blame him, maybe Badman should go to Jamaica too?
-0x915AB84D=~z~说句实话，或许让Badman回牙买加比较合适吧？
+0x915AB84D=~z~说句实话，或许让Badman一起回牙买加比较好吧？
 
 ;0x9327E513=~z~The world can mess you up, y know?
 0x9327E513=~z~世界能把你绕晕，知道吗？
@@ -336,7 +336,7 @@
 0x9CC15BE7=FCJ2_JACOB_CONVERSATION_1_AF
 
 ;0x9CCE5D00=~z~Don't nobody treat you wit de respect you know you deserve, you know, Niko. All of life be about is respect, sight?
-0x9CCE5D00=~z~没有人能在你有头有脸的时候不尊重你，Niko。生活的本质就是尊重，明白吧？
+0x9CCE5D00=~z~没人能在你有头有脸的时候不尊重你，Niko。生活的本质就是尊重，明白吧？
 
 ;0x9DC436DA=~z~One love, Niko. Wha'gwan?
 0x9DC436DA=~z~来了Niko，你好吗？
@@ -363,7 +363,7 @@
 0xA7008548=FCJ2_JACOB_CONVERSATION_8_HG
 
 ;0xA715718E=~z~You don't got nothing unless you got people paying you no mind, you know?
-0xA715718E=~z~除非别人注意到你，否则没有人会把你当回事，明白吧？
+0xA715718E=~z~如果没人把你当回事，说明你什么都不是，明白吧？
 
 ;0xA7ABE4EF=~z~Boy, him back a Jam Dung. Cotching a de sun, man. Couldn't take de city no more.
 0xA7ABE4EF=~z~兄弟，他要回安东尼奥港了。明天早晨之前就要抵达，不能在这个城市多待的。
@@ -381,7 +381,7 @@
 0xA89907A5=FCJ2_JACOB_CONVERSATION_7_GH
 
 ;0xA8997C15=~z~I am amazed he managed to save enough money to be able to afford the cab depot in the first place.
-0xA8997C15=~z~他能存足够的钱开起出租车公司就让我够意外了。
+0xA8997C15=~z~他能把钱存够、开起出租车公司就让我够意外了。
 
 ;0xA9878736=FCJ2_JACOB_CONVERSATION_7_GF
 0xA9878736=FCJ2_JACOB_CONVERSATION_7_GF
@@ -474,7 +474,7 @@
 0xC897C873=~z~是的啊，精神情感上很熟来着。懂？
 
 ;0xCA0A52D7=~z~Not all work, work, work, y'know? We got to ease up from time to time, to see how the world turns, you know what I'm saying?
-0xCA0A52D7=~z~别只知道干活，干活，干活，知道吗？偶尔也要放松放松，看看世界的新变化，懂我意思吗？
+0xCA0A52D7=~z~别只知道干活，干活，干活，好吧？偶尔也要放松放松，看看世界的新变化，懂我意思吗？
 
 ;0xCC444ADC=FCJ2_JACOB_CONVERSATION_1_AI
 0xCC444ADC=FCJ2_JACOB_CONVERSATION_1_AI
@@ -546,7 +546,7 @@
 0xEAD38F15=~z~那种草对Badman的作用全是预料之外的。他觉得他的朋友都想杀他。
 
 ;0xEB2B842C=~z~It's his paranoia, man. He's smoking too much of that shit. You got to tell him to calm it down.
-0xEB2B842C=~z~他又犯了妄想症了。他吸那玩意儿吸的太多了，你得劝他冷静啊。
+0xEB2B842C=~z~他又犯妄想症了。他吸那玩意儿吸过头了，你得劝他冷静啊。
 
 ;0xEBB98254=~z~Mallorie a fine daughta, an him lucky fe have her, you know? Hopefully he won't gamble her away as well.
 0xEBB98254=~z~Mallorie是个好女孩，遇上她是Roman的福气。希望他不会把她也当成赌注押出去。

@@ -84,7 +84,7 @@
 0x2BE3220D=~z~抱歉，堂兄。我没空看表演。
 
 ;0x2BFBF14C=~z~Niko Bellic, my distant cousin. Why we no hang out more?
-0x2BFBF14C=~z~Niko Bellic, my distant cousin. Why we no hang out more?
+0x2BFBF14C=~z~Niko Bellic，我的冷淡堂弟。我们多出去玩玩吧？
 
 ;0x2CED4F25=~z~Let us go drinking.
 0x2CED4F25=~z~我们去喝酒吧。
@@ -195,7 +195,7 @@
 0x63C34B90=FCR_ACT_PRO_CALL_STRIP_YES
 
 ;0x648EE279=~z~Cousin, what is up with this? I feel like we are not cousins we see one another so little.
-0x648EE279=~z~Cousin, what is up with this? I feel like we are not cousins we see one another so little.
+0x648EE279=~z~堂弟，这是什么情况？我们最近没怎么来往，我都觉得我们不是兄弟了。
 
 ;0x66A610F8=FCR_ACT_PRO_GETCALL_EAT_YES
 0x66A610F8=FCR_ACT_PRO_GETCALL_EAT_YES
@@ -231,13 +231,13 @@
 0x6E03CA0C=~z~不玩飞镖，堂兄。我还有别的导弹要发射呢。
 
 ;0x6E117B70=~z~Cousin, how about we play some pool? Remember how we used to hustle those American soldiers back home when the war started?
-0x6E117B70=~z~堂弟，我们去打会儿台球如何？还记得战争开始的时候我们是怎么在老家横扫那些美国大兵的吗？
+0x6E117B70=~z~堂弟，我们去打会儿台球如何？还记得战争刚开始时，我们是怎么在老家横扫那些美国大兵的吗？
 
 ;0x6FEB37F2=~z~Sorry, Roman. I have no time for these women.
 0x6FEB37F2=~z~抱歉，Roman，我没空看这些女人。
 
 ;0x73C0EFB6=~z~Cousin, it is the moment for us to spend some quality time together. How about that old American pastime - bowling?
-0x73C0EFB6=~z~Cousin, it is the moment for us to spend some quality time together. How about that old American pastime - bowling?
+0x73C0EFB6=~z~堂弟，我们可以一起享受美好生活。要不要来点美式的运动：保龄球？
 
 ;0x75872087=100
 0x75872087=100
@@ -399,7 +399,7 @@
 0xE3932FD8=FCR_ACT_PRO_GETCALL_BOWL_YES
 
 ;0xE8E4148D=~z~Cousin, you really want to experience America, you must see a show here. How about it?
-0xE8E4148D=~z~堂弟，想要真正的美国体验，你就一定要来看场表演。怎么样？
+0xE8E4148D=~z~堂弟，想要体验真正的美国，你就一定要来这儿看看。怎么样？
 
 ;0xEBA18707=~z~Niko, you want to play some video games? They are much better than ones you are used to back home.
 0xEBA18707=~z~Niko, you want to play some video games? They are much better than ones you are used to back home.
