@@ -3,7 +3,7 @@
 0x28176037=~s~按~PAD_B~用右直拳攻击
 
 ;0x3A430492=~s~Press ~INPUT_MELEE_ATTACK1~ to punch.~n~Press ~INPUT_MELEE_ATTACK2~ for alternative punch.~n~~s~Press ~INPUT_MELEE_KICK~ to kick.
-0x3A430492=~s~按~INPUT_MELEE_ATTACK1~拳击~n~按~INPUT_MELEE_ATTACK2~也是拳击~n~~s~按~INPUT_MELEE_KICK~踢击
+0x3A430492=~s~按~INPUT_MELEE_ATTACK1~拳击。~n~按~INPUT_MELEE_ATTACK2~也是拳击。~n~~s~按~INPUT_MELEE_KICK~踢击。
 
 ;0x48DEA2D1=~r~Dardan~s~ has abandoned his car. He's escaping on foot up the staircase.
 0x48DEA2D1=~r~Dardan~s~把车抛下了。他正在楼梯上徒步逃跑。
@@ -21,7 +21,7 @@
 0x63F6A929=~s~打倒~r~Bledar。
 
 ;0x63FD339A=~s~Tap ~INPUT_MELEE_BLOCK~ as your opponent attacks to dodge. Press ~INPUT_MELEE_ATTACK1~ or ~INPUT_MELEE_ATTACK2~ after dodging to perform a powerful counter move.
-0x63FD339A=~s~当你的对手攻击时可按下~INPUT_MELEE_BLOCK~闪避。~n~闪避后按下~INPUT_MELEE_ATTACK1~或~INPUT_MELEE_ATTACK2~可进行反击。
+0x63FD339A=~s~对手攻击时可按~INPUT_MELEE_BLOCK~闪避。~n~闪避后可按~INPUT_MELEE_ATTACK1~或~INPUT_MELEE_ATTACK2~进行反击。
 
 ;0x6FD4746B=~s~Press ~PAD_START~ and choose 'Display' to toggle on/off GPS route.
 0x6FD4746B=~s~按下~PAD_START~后选择「显示」可开关GPS路线。
@@ -33,7 +33,7 @@
 0x90688450=~s~等待~b~Roman。
 
 ;0x96DF6974=~s~To disarm your opponent, tap ~INPUT_MELEE_BLOCK~ to dodge then press ~INPUT_MELEE_ATTACK2~ or ~INPUT_MELEE_ATTACK1~ to disarm.
-0x96DF6974=~s~若要解除对手的武装，按~INPUT_MELEE_BLOCK~闪避后按~INPUT_MELEE_ATTACK2~或~INPUT_MELEE_ATTACK1~缴械。
+0x96DF6974=~s~若要解除对手的武装，先按~INPUT_MELEE_BLOCK~闪避，再按~INPUT_MELEE_ATTACK2~或~INPUT_MELEE_ATTACK1~缴械。
 
 ;0x995F175D=~s~Go and help ~b~Roman.
 0x995F175D=~s~去帮~b~Roman。
@@ -51,7 +51,7 @@
 0xB4E64D4B=~s~追逐~r~Dardan。
 
 ;0xB5328E44=~r~You went too far.
-0xB5328E44=~r~你跟得太远了。
+0xB5328E44=~r~你做得太过了。
 
 ;0xBF2C61D7=~s~Get in ~b~Roman's car.
 0xBF2C61D7=~s~进入~b~Roman的车。

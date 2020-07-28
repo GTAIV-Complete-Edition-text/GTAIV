@@ -93,7 +93,7 @@
 0xDEB15730=~s~别把~b~Jacob~s~落下。
 
 ;0xE6499B79=~s~While aiming at a target, press ~INPUT_ATTACK~ to spin out of cover and shoot.
-0xE6499B79=~s~当你瞄准了一个目标时，按~INPUT_ATTACK~探出掩体开火。
+0xE6499B79=~s~瞄准某一目标时，按~INPUT_ATTACK~探出掩体开火。
 
 ;0xEA7DDFE5=~s~Use ~PAD_LSTICK_LEFTRIGHT~ to move behind cover.
 0xEA7DDFE5=~s~用~PAD_LSTICK_LEFTRIGHT~在掩体中移动。

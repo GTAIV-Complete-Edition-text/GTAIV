@@ -3,7 +3,7 @@
 0x0028EB42=~z~好的，多谢了。我就知道你能理解。
 
 ;0x015A5830=~z~That can be dull - people just talking about themselves.
-0x015A5830=~z~那就很无聊了 - 如果人只在那自吹自擂的话。
+0x015A5830=~z~那就很无聊了，只会自吹自擂的话。
 
 ;0x02E9864A=GCC2_LIPO_KO
 0x02E9864A=GCC2_LIPO_KO
@@ -207,7 +207,7 @@
 0x4E1870C4=~z~谢谢。
 
 ;0x50681379=~z~Sounds great!
-0x50681379=~z~听起来不错！
+0x50681379=~z~听着挺好！
 
 ;0x52649331=GCC2_CELEBS_JK
 0x52649331=GCC2_CELEBS_JK
@@ -225,7 +225,7 @@
 0x58145A54=~z~你看起来一如既往的棒。
 
 ;0x5875857E=~z~I was partying the other night in Bungalow 9 and I had my nails done, and I went shopping with the girls.
-0x5875857E=~z~我在Bungalow 9参加了一晚上的排队，然后去做了指甲，还和闺蜜们一起去逛了街。
+0x5875857E=~z~我在Bungalow 9的派对玩了一夜，然后去做了指甲，还和闺蜜一起去逛了街。
 
 ;0x58829A86=GCC2_MAYOR_MH
 0x58829A86=GCC2_MAYOR_MH
@@ -345,13 +345,13 @@
 0x99AD9F0C=GCC2_LIPO_KQ
 
 ;0x9A6AEC8D=~z~About my life - about the way I'm carrying on, about hanging out with guys like you.
-0x9A6AEC8D=~z~关于我的生活，关于我进步的方式，关于和你这样的人出来约会。
+0x9A6AEC8D=~z~关于我的生活，关于我度日的方式，关于和你这样的人出来约会。
 
 ;0x9B89C058=GCC2_CELEBS_JD
 0x9B89C058=GCC2_CELEBS_JD
 
 ;0x9E32718A=~z~Yes - but there is nothing feminine about looking after yourself.
-0x9E32718A=~z~是的，但照顾好自己不能算娘。
+0x9E32718A=~z~是的，但照料自己不能算娘。
 
 ;0xA034BE6B=GCC2_LIPO_KG
 0xA034BE6B=GCC2_LIPO_KG
@@ -417,7 +417,7 @@
 0xB5980344=GCC2_CELEBS_JA
 
 ;0xB99B47D4=~z~I've been pretty quiet, Carmen. Nothing that exciting. What about you?
-0xB99B47D4=~z~我最近安宁的很，Carmen。没什么刺激的事情。你呢？
+0xB99B47D4=~z~我最近安宁得很，Carmen。没什么刺激的事情。你呢？
 
 ;0xBA8F2A43=~z~Where I come from people say funny things about a man wearing nail polish.
 0xBA8F2A43=~z~在我老家那边，涂指甲油的男人会被人笑话。
@@ -465,7 +465,7 @@
 0xD2CC16B0=~z~我喜欢和你出来逛，Niko，但我有个问题。是个更加深入的话题。
 
 ;0xD41DDD60=~z~Surely Tony McTony is a man?
-0xD41DDD60=~z~Tony McTony应该是男的吧？
+0xD41DDD60=~z~Tony McTony好像是男的吧？
 
 ;0xD5B6C4E1=GCC2_CELEBS_JB
 0xD5B6C4E1=GCC2_CELEBS_JB

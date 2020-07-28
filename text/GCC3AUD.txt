@@ -24,13 +24,13 @@
 0x064B0ECB=GCC_ACT_PCA_END_REJECT
 
 ;0x06A6BEEE=~z~You see how many guys in there was staring at my tits? You a lucky boy tonight.
-0x06A6BEEE=~z~你知道这里有多少人渴望着我的奶子吗？你今晚是个幸运儿。
+0x06A6BEEE=~z~你知道里面有多少人渴望我的奶子吗？今晚是你走运。
 
 ;0x06A9B2AC=~z~Bye baby.
 0x06A9B2AC=~z~再见。
 
 ;0x07378662=~z~Carmen had a real good time, Niko. This is something she could do again.
-0x07378662=~z~Carmen过得很开心，Niko。她可能下次还想这样玩一次。
+0x07378662=~z~Carmen玩得很开心，Niko。她下次可能还想这样玩一次。
 
 ;0x07D6E06C=~z~You know where Carmen's place is. Come on, Niko.
 0x07D6E06C=~z~你知道Carmen的位置的。快来，Niko。
@@ -51,7 +51,7 @@
 0x106F2B55=GCC_ACT_DATEFINISHED_BAD
 
 ;0x1129D3F4=~z~Carmen was easily the best looking girl in that place. For sure.
-0x1129D3F4=~z~显然，Carmen是那里最好看的女孩了。
+0x1129D3F4=~z~Carmen显然是店里最好看的女孩。
 
 ;0x1166472B=~z~You fucked this one up, Niko. I don't know how, but you did.
 0x1166472B=~z~你搞砸了，Niko。我不知道你怎么搞的，但你搞砸了。
@@ -93,10 +93,10 @@
 0x22077B44=100
 
 ;0x228D74AC=~z~Get in here now.
-0x228D74AC=~z~快来这里。
+0x228D74AC=~z~进来吧，快点。
 
 ;0x2340092B=~z~Well, that was something to do, wasn't it?
-0x2340092B=~z~那是要做的事情，不是吗？
+0x2340092B=~z~总归也是种选择，不是吗？
 
 ;0x245A1FE3=~z~I'm real horny now, Niko.
 0x245A1FE3=~z~我现在简直欲火焚身啊，Niko。
@@ -147,7 +147,7 @@
 0x2FFE53A4=100
 
 ;0x303C1009=~z~Carmen wants you in here.
-0x303C1009=~z~Carmen想你到这儿来。
+0x303C1009=~z~Carmen想让你进来。
 
 ;0x30D6F24B=100
 0x30D6F24B=100
@@ -165,7 +165,7 @@
 0x32FB9685=~z~我今晚没有心情去，也许下次吧。再见，宝贝。
 
 ;0x3351F08F=~z~Niko, I thought you wanted to get horny up in there?
-0x3351F08F=~z~Niko，我还以为你想在这里做爱呢？
+0x3351F08F=~z~Niko，你去那里不是为了爽的吗？
 
 ;0x33F7F958=GCC_ACT_LEAVE_PUB_FAVOURITE
 0x33F7F958=GCC_ACT_LEAVE_PUB_FAVOURITE
@@ -174,7 +174,7 @@
 0x345A6A25=~z~是的！我飞镖赢了你！
 
 ;0x348CE21B=~z~What's up with you?
-0x348CE21B=~z~你怎么样？
+0x348CE21B=~z~你怎么想的？
 
 ;0x383472EF=~z~I hope you got something out of that.
 0x383472EF=~z~我希望你能从中有所收获。
@@ -192,7 +192,7 @@
 0x39B5FA4C=~z~难道你不是个大男子汉吗？
 
 ;0x39F46A44=~z~I would have dressed up more if I'd known we was going to that place.
-0x39F46A44=~z~如果我事先知道我们是去那里的话，我本可以打扮得更好。
+0x39F46A44=~z~早知道要去这家店，我就再打扮得好点了。
 
 ;0x3A6AAE6A=100
 0x3A6AAE6A=100
@@ -213,7 +213,7 @@
 0x4313BA2A=~z~那使我心情不错，宝贝。
 
 ;0x437A71D3=~z~That shit is fucking crazy.
-0x437A71D3=~z~那可真他娘的疯狂。
+0x437A71D3=~z~实在太疯狂了。
 
 ;0x4402497C=~z~Carmen's enjoyed herself.
 0x4402497C=~z~Carmen玩得很开心。
@@ -273,7 +273,7 @@
 0x545838DD=~z~我想我们不应该再见面了。Carmen想找一个时间充裕的男人。不好意思了。
 
 ;0x551ED9CE=~z~Come in Niko, let's go.
-0x551ED9CE=~z~快进来，Niko，我们出发吧。
+0x551ED9CE=~z~快进来，Niko，走吧。
 
 ;0x5523351E=GCC_ACT_LEAVE_STANDARD
 0x5523351E=GCC_ACT_LEAVE_STANDARD
@@ -312,7 +312,7 @@
 0x5D85F07C=010
 
 ;0x5DADB05F=~z~We might both enjoy it if I came in.
-0x5DADB05F=~z~如果我进来我们两个可能都会很享受。
+0x5DADB05F=~z~如果我进来我们两个都可以很快乐。
 
 ;0x5DC3BD08=~z~Carmen going to take you on a wild ride. Pull up over there.
 0x5DC3BD08=~z~Carmen要载你去兜风。把车停在那儿。
@@ -366,7 +366,7 @@
 0x6B0E94F0=~z~你很幸运。你有多幸运？
 
 ;0x6B4F4BA2=~z~If I've read the signals right, you want me to come inside as much as I do.
-0x6B4F4BA2=~z~如果我没有理解错那信号，你也会想让我进去。
+0x6B4F4BA2=~z~如果我没想错，你也很希望我进去。
 
 ;0x6DE7FD35=GCC_ACT_PCA_END_KISS_RESPONSE
 0x6DE7FD35=GCC_ACT_PCA_END_KISS_RESPONSE
@@ -408,7 +408,7 @@
 0x7B616FC7=~z~没有人不想和Carmen在一起。
 
 ;0x7BECECDD=~z~I think you know what I'm thinking. How about I come in?
-0x7BECECDD=~z~我想你知道我在想什么。我进来怎么样？
+0x7BECECDD=~z~我想你知道我的想法。我可以进去吗？
 
 ;0x7C783AB6=GCC_ACT_BOWL_LEAVE_WON
 0x7C783AB6=GCC_ACT_BOWL_LEAVE_WON
@@ -426,7 +426,7 @@
 0x7E5FC97B=100
 
 ;0x7F4E8210=~z~Even if it ain't classy, it tastes good.
-0x7F4E8210=~z~尽管它不奢侈，但尝起来不错。
+0x7F4E8210=~z~店虽然不高级，东西实在是好吃。
 
 ;0x7F84437B=~z~This is just not the spontaneous thing I was thinking of. Just take me back to my place, Niko.
 0x7F84437B=~z~这并不是我一开始所期待的事情。送我回家，Niko。
@@ -468,7 +468,7 @@
 0x8DC964A5=~z~我们快他娘的离开这。
 
 ;0x8E02F73E=~z~This is cool.
-0x8E02F73E=~z~这不错。
+0x8E02F73E=~z~没问题。
 
 ;0x8E3451B6=100
 0x8E3451B6=100
@@ -534,7 +534,7 @@
 0xA1D982CB=~z~回见，Carmen。
 
 ;0xA2001FDC=~z~You sure can handle your stick, Niko.
-0xA2001FDC=~z~你肯定能控制住你的，Niko。
+0xA2001FDC=~z~你的棒子功夫真好，Niko。
 
 ;0xA58343EF=100
 0xA58343EF=100
@@ -621,7 +621,7 @@
 0xBF4D55C3=~z~那使我很兴奋，Niko。
 
 ;0xC043D76A=~z~Yeah, I had fun too. Give me your number and you might just get a call from me.
-0xC043D76A=~z~是啊，我也玩得很开心。给我你的电话号码，你可能会接到我的电话。
+0xC043D76A=~z~是啊，我也玩得很开心。给我你的电话吧，以后我可能会打过来找你。
 
 ;0xC0B94044=~z~Papi, papi. Ooooo.
 0xC0B94044=~z~爸爸，爸爸，喔...
@@ -663,7 +663,7 @@
 0xC616AC33=GCC_EA
 
 ;0xC6DC86BC=~z~Don't you want to try nothing?
-0xC6DC86BC=~z~你没什么想尝试的吗？
+0xC6DC86BC=~z~你就没有什么想法吗？
 
 ;0xC7FED770=~z~You got the better score, Niko. Big man.
 0xC7FED770=~z~你得了更好的分数，Niko。干得漂亮。
@@ -696,7 +696,7 @@
 0xD004137A=GCC_ACT_DATEFINISHED_OK
 
 ;0xD02F52AE=~z~That was alright.
-0xD02F52AE=~z~那不错。
+0xD02F52AE=~z~那家店不错。
 
 ;0xD037FC4B=~z~I hope you pleased with yourself, Niko.
 0xD037FC4B=~z~希望你对自己满意，Niko。
@@ -792,5 +792,5 @@
 0xF9443E9D=~z~Carmen现在想要你送她回家。
 
 ;0xFE11ABB5=~z~Come on, get in here.
-0xFE11ABB5=~z~快点，快来这里。
+0xFE11ABB5=~z~来吧，快进来。
 
