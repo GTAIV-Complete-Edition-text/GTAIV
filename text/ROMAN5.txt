@@ -1,6 +1,6 @@
 ﻿[ROMAN5]
 ;0x0511665B=The area the cops search in is represented by the flashing zone on the Radar. Cops in this zone are marked by flashing red and blue icons.
-0x0511665B=小地图上闪烁的区域表示警方的搜捕范围。范围内的警察会用红蓝交替闪烁的图标标识。
+0x0511665B=小地图上闪烁的区域表示警方的搜捕范围。范围内的警察会用红蓝交替闪烁的圆点标识。
 
 ;0x2ECF0802=~r~Roman's car was trashed.
 0x2ECF0802=~r~Roman的车毁了。
@@ -45,7 +45,7 @@
 0xD0433ED1=~r~你抛弃了Jermaine。~s~
 
 ;0xD7700B19=Your wanted level is represented by the number of stars on screen. The more stars the harder cops will try to catch you.
-0xD7700B19=画面上的星星数量代表你的通缉度。星星越多，警方追捕的力度越强。
+0xD7700B19=画面上的星星数量表示你的通缉度。星星越多，警方的追捕力度越强。
 
 ;0xDAAE53A3=~r~The vehicle is stuck.~s~
 0xDAAE53A3=~r~车辆无法行驶。~s~
@@ -57,5 +57,5 @@
 0xE2F3FF87=~S~你已摆脱通缉，送Jermaine去~Y~Gibson街。
 
 ;0xE62F020F=~S~Get in Roman's ~B~car.
-0xE62F020F=~S~进入Roman的~B~车。
+0xE62F020F=~S~进入~B~Roman的车。
 

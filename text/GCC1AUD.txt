@@ -180,7 +180,7 @@
 0x3D3C0EC0=~z~Niko，你想跟Carmen闹着玩？那没用的，宝贝。
 
 ;0x3EFF5050=~z~I was sure you was either dead or in prison. Men don't wait this long before calling Carmen again.
-0x3EFF5050=~z~我肯定你不是死了就是进了监狱。男人们没等多久就又给卡门打电话了。
+0x3EFF5050=~z~我肯定你不是死了就是进了监狱。男人们没等多久就又给Carmen打电话了。
 
 ;0x3F0C4C43=~z~Carmen, I'm in some trouble. What will help me get better?
 0x3F0C4C43=~z~Carmen，我遇到麻烦了。有什么能让我快点好起来吗？
@@ -408,7 +408,7 @@
 0x92AABE6E=GCC_ACT_CALL_DATE_NO_GENERAL
 
 ;0x92F90662=~z~Fine, go jerk off then.
-0x92F90662=~z~好吧，滚一边打你飞机去吧。
+0x92F90662=~z~好，打你的飞机去吧。
 
 ;0x948F27B7=GCC_ACT_GETCALL_HOSP_ASK
 0x948F27B7=GCC_ACT_GETCALL_HOSP_ASK
@@ -528,7 +528,7 @@
 0xBBCA77E9=~z~Carmen，你现在自由了。你和我之间的关系结束了。照顾好你自己。
 
 ;0xBECF8E3A=~z~Fine, go jerk off then.
-0xBECF8E3A=~z~行，滚一边打你飞机去吧。
+0xBECF8E3A=~z~好，打你的飞机去吧。
 
 ;0xBEFF2455=~z~Why don't you take me out somewhere nice?
 0xBEFF2455=~z~你为什么不带我去些好地方呢？

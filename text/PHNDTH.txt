@@ -9,7 +9,7 @@
 0x1C5CD526=放置炸弹前，清除停在Ancelotti家族的车后面的所有汽车。
 
 ;0x23017C1E=You already have a bomb, get to the Ancelottis' ~b~car~s~ and rig it with the bomb.
-0x23017C1E=你手头有一个炸弹，去给Ancelotti家族的~b~车~s~装上炸弹。
+0x23017C1E=你手头有一个炸弹，去给~b~Ancelotti家族的车~s~装上炸弹。
 
 ;0x2A17709B=Don't get too close or the Ancelottis will spot you.
 0x2A17709B=不要跟得太紧，否则Ancelotti家族的人会发现你。
@@ -39,7 +39,7 @@
 0x844AB054=~R~你没能引爆炸弹。
 
 ;0x8AD5BD52=Go to the Ancelottis' ~b~car~s~ and rig it with the bomb.
-0x8AD5BD52=找到Ancelotti家族的~b~车，~s~给它装上炸弹。
+0x8AD5BD52=找到~b~Ancelotti家族的车，~s~给它装上炸弹。
 
 ;0x8D47BA3A=Lose your wanted level and then rig the car with bomb.
 0x8D47BA3A=降低你的通缉度，然后在汽车上安装炸弹。
@@ -60,10 +60,10 @@
 0xAA3DF0EA=在Ancelottis动身前往会议地点之前找到一辆车。
 
 ;0xABD87F6F=Take out the remaining ~r~Ancelottis.
-0xABD87F6F=干掉剩下的~r~Ancelotti家族成员。
+0xABD87F6F=干掉余下~r~Ancelotti家族成员。
 
 ;0xAD0604C6=Go to the back of the Ancelottis' ~b~car~s~ to rig it with the bomb.
-0xAD0604C6=到Ancelotti家族的~b~车~s~的后方给它装上炸弹，
+0xAD0604C6=到~b~Ancelotti家族的车~s~的后方给它装上炸弹，
 
 ;0xB6EA0D7E=~R~The bomb was destroyed.~s~
 0xB6EA0D7E=~R~炸弹被摧毁了。~s~

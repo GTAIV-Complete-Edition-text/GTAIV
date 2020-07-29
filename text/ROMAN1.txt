@@ -12,7 +12,7 @@
 0x3FC10A11=~s~用~PAD_LSTICK_LEFTRIGHT~控制方向。
 
 ;0x432B737B=~r~The vehicle is stuck.~s~
-0x432B737B=~r~载具无法行驶。~s~
+0x432B737B=~r~车辆无法行驶。~s~
 
 ;0x5DD8A8D9=~r~Roman's car has been trashed.~s~
 0x5DD8A8D9=~r~Roman的车坏了。~s~
@@ -21,7 +21,7 @@
 0x87831998=~s~按~INPUT_VEH_ACCELERATE~加速。按~INPUT_VEH_BRAKE~刹车，在车辆停止时可倒车。
 
 ;0xA32AD0E7=~s~While in a vehicle the colored line on the radar shows the shortest legal route to your objective - this is not always the fastest way.
-0xA32AD0E7=~s~驾车时小地图上的彩色线条表示前往目的地的最短合法路线——但通常并不是最快的。
+0xA32AD0E7=~s~驾车时小地图上的彩色线条表示前往目的地的最短合法路线，但合法路线未必是最快的。
 
 ;0xB10C41CA=~s~Get into ~b~Roman's car.
 0xB10C41CA=~s~进入~b~Roman的车。

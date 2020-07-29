@@ -1,6 +1,6 @@
 ﻿[R2AUD]
 ;0x001B3E55=~z~I think I just persuaded them to drop your debt.
-0x001B3E55=~z~我刚说服他们减轻了你的债务。
+0x001B3E55=~z~我刚才说服他们减轻了你的债务。
 
 ;0x017ECF02=R2_CF_QQQ1
 0x017ECF02=R2_CF_QQQ1
@@ -33,7 +33,7 @@
 0x094B9F73=R2_RD
 
 ;0x0B0D0D88=~z~See? Not everything I tell you was bullshit.
-0x0B0D0D88=~z~看吧？我跟你说过的也不全是胡扯。
+0x0B0D0D88=~z~看吧？我告诉你的东西也不全是胡扯。
 
 ;0x0CDE1F7A=R2_MD
 0x0CDE1F7A=R2_MD
@@ -51,13 +51,13 @@
 0x0F2236E9=~z~甩掉警察，Niko。我们不能把他们引到车行。
 
 ;0x11D04C60=~z~They just have to wait.
-0x11D04C60=~z~他们只需要再等等。
+0x11D04C60=~z~多等几天就有了。
 
 ;0x121DCCD8=R2_HD
 0x121DCCD8=R2_HD
 
 ;0x12857E9E=~z~I do not understand it. I do everything I learn on TV.
-0x12857E9E=~z~我就是想不通。我就是照电视上说的做的。
+0x12857E9E=~z~我就不明白了，我明明是照电视上说的打的，
 
 ;0x1336DD1B=~z~Maybe one day you get a premium quality one, like mine. Then you will have really made it.
 0x1336DD1B=~z~说不定哪天你也能用上高端手机，跟我这个一样。到时候你就是成功人士了。
@@ -114,10 +114,10 @@
 0x1D83FFEC=~z~你只要知道我读过书还很擅长赌就行了。
 
 ;0x1DD3D44C=~z~Niko, you have to lose these cops, we cannot lead them to my place of business.
-0x1DD3D44C=~z~Niko，你得把条子甩了，别把他们引到我的店面去。
+0x1DD3D44C=~z~Niko，你得把条子甩了，别把他们引到我的车行去。
 
 ;0x1EE87BEF=~z~I really must win now. Leave me here.
-0x1EE87BEF=~z~现在我是不得不赢了。别管我，你先走吧。
+0x1EE87BEF=~z~现在我是不得不赢了。你先走吧。
 
 ;0x1F7AC04F=~z~You're fuckin' crazy, man.
 0x1F7AC04F=~z~你他妈疯了，哥们。
@@ -195,7 +195,7 @@
 0x2F7D2BCA=~z~操...
 
 ;0x2FCC2F6B=~z~No, the business shut down a long time ago. We go there because some guys are playing cards.
-0x2FCC2F6B=~z~没有，那边早就没在做五金生意了。我们去那儿是因为有人在那打牌。
+0x2FCC2F6B=~z~没有，五金店早就倒闭了。我们去是因为有人在那里打牌。
 
 ;0x2FD2664A=R2_MC
 0x2FD2664A=R2_MC
@@ -234,13 +234,13 @@
 0x3A451800=~z~你说他们看见我了没？
 
 ;0x3A454650=~z~Here's hoping they don't show up, eh?
-0x3A454650=~z~希望他们不会现在出现，
+0x3A454650=~z~希望他们不会现在出现。
 
 ;0x3A8222E3=R2_GA
 0x3A8222E3=R2_GA
 
 ;0x3AC8306A=~z~- there is a lot of stuff I must get used to here in Liberty City.
-0x3AC8306A=~z~——在自由城我还有很多东西要去习惯。
+0x3AC8306A=~z~在自由城我还有很多东西要去习惯。
 
 ;0x3CBD1B1D=R2_LH
 0x3CBD1B1D=R2_LH
@@ -270,7 +270,7 @@
 0x443B9C84=~z~这个应该就是来讨债的了。
 
 ;0x4492808E=~z~Very difficult, I think... hello, Roman! Hello, Miss...
-0x4492808E=~z~很困难，我想...你好啊，Roman！你好，小姐...
+0x4492808E=~z~很困难，我想...你好啊，Roman！你好，这位...
 
 ;0x45E5703E=R2_WC
 0x45E5703E=R2_WC
@@ -306,7 +306,7 @@
 0x4D6EE7AD=~z~－去你妈的。~n~－去你妈的！
 
 ;0x4E3EBFF3=~z~Just drive. Leave the funny comments to me.
-0x4E3EBFF3=~z~专心开车吧。耍嘴皮子的事我做。
+0x4E3EBFF3=~z~专心开车吧。耍嘴皮子的事我来。
 
 ;0x4E3EED3D=010100100100010100010100100010100100010100100100
 0x4E3EED3D=010100100100010100010100100010100100010100100100
@@ -351,10 +351,10 @@
 0x56C6B4EB=100
 
 ;0x57A86A2A=~z~The money, the people, all of this noise around us
-0x57A86A2A=~z~金钱，人情，周围的各种嘈杂
+0x57A86A2A=~z~金钱、人情、周围的各种嘈杂，
 
 ;0x57CC815E=~z~After me, and it doesn't matter anyway.
-0x57CC815E=~z~找我的，其实也没什么大不了。
+0x57CC815E=~z~是追我。其实也没什么大不了。
 
 ;0x585E390B=R2_LM
 0x585E390B=R2_LM
@@ -369,7 +369,7 @@
 0x5B2533C2=R2_KA
 
 ;0x5F90368D=~z~Hey!
-0x5F90368D=~z~嘿！
+0x5F90368D=~z~喂！
 
 ;0x62724ED3=R2_LJ
 0x62724ED3=R2_LJ
@@ -390,7 +390,7 @@
 0x65EB6E4B=~z~要是有几个阿尔巴尼亚人开着灰不拉几的Willard来了就打电话给我。我欠的就是他们的钱。
 
 ;0x6603EBE3=~z~Nightclubs... women... titties...
-0x6603EBE3=~z~夜店...女人...奶子...
+0x6603EBE3=~z~夜店...女人...奶子！
 
 ;0x66A97B9E=R2_HA
 0x66A97B9E=R2_HA
@@ -462,10 +462,10 @@
 0x7901696F=~z~多半都是胡扯。
 
 ;0x7A2A597A=~z~You think anyone will let me take out insurance policy? We see.
-0x7A2A597A=~z~你说会不会有人来找我卖保险？走着瞧吧。
+0x7A2A597A=~z~你说保险公司肯不肯赔？试试吧。
 
 ;0x7A9214FB=~z~Doing some home improvements, Roman? You going to build this mansion you tell me about?
-0x7A9214FB=~z~要搞住房改造，Roman？你是想自己造一个跟我说过的豪宅？
+0x7A9214FB=~z~要搞住房改造吗，Roman？你是想自己造一个跟我说过的豪宅？
 
 ;0x7AAAE7AD=R2_XB
 0x7AAAE7AD=R2_XB
@@ -486,7 +486,7 @@
 0x82352F4C=R2_LG
 
 ;0x82CACA78=~z~If you have their nuts in your hand, I believe they will know about it anyway.
-0x82CACA78=~z~要是你手里捏着他们的蛋，我想他们肯定会知道的。
+0x82CACA78=~z~要是你手里捏着他们的蛋，他们肯定会知道吧。
 
 ;0x83082985=~z~Get us back to the depot, quick!
 0x83082985=~z~赶紧回车行，快！
@@ -543,7 +543,7 @@
 0x91BBA229=~z~别担心，我手头弹药充足，感觉自己像把AK。~c~没问题的。
 
 ;0x9254FE47=~z~Everything that I read in the books. I do what Car Jabowitz tell me in 'May Contain Nuts.'
-0x9254FE47=~z~就是跟着书里写的做的。我照着Car Jabowitz写的《可能有弹》来的。
+0x9254FE47=~z~明明照着书里写的打了。我照着Car Jabowitz写的《可能有弹》来的。
 
 ;0x9255F17A=~z~I see stars, I see angels.
 0x9255F17A=~z~我看见了群星，我看见了天使。
@@ -555,10 +555,10 @@
 0x9AF363BC=R2_LE
 
 ;0x9B218618=~z~I have the feeling only thing you will come out of there with is more debt.
-0x9B218618=~z~我有预感，你从那儿出来后只会背上更多的债。
+0x9B218618=~z~我有预感，打完牌出来后你只会背上更多的债。
 
 ;0x9E78168D=~z~Maybe a few more after this game you just lose.
-0x9E78168D=~z~这局过后你可能会输的更多。
+0x9E78168D=~z~今天输完钱估计还得多几个。
 
 ;0x9F567985=~z~Sure. I will remind you of that in a few weeks.
 0x9F567985=~z~确实。这几周我会提醒你的。
@@ -594,7 +594,7 @@
 0xA7C7CD57=~z~告诉这个狗日的乡巴佬，他要是再盯着我，
 
 ;0xA830CF13=~z~It's all quiet out here Roman, you winning? ~c~Please say yes.
-0xA830CF13=~z~外面很平静Roman，你顺吗？~c~最好是顺的。
+0xA830CF13=~z~外面很平静Roman，手气好吗？~c~希望你手气不错。
 
 ;0xA8CEC909=~z~-Hi.~n~-Niko, this is Mallorie, the beautiful girl I tell you about...
 0xA8CEC909=~z~－嗨。~n~－Niko，这位是Mallorie，我跟你说过的美女...
@@ -606,10 +606,10 @@
 0xACEAD3F0=R2_FC
 
 ;0xADB1B500=~z~Sorry, I forget, there are many of these men you owe money to.
-0xADB1B500=~z~抱歉，我忘了，你还欠了很多这样的人的钱。
+0xADB1B500=~z~抱歉，我忘了，你的债主都长得差不多。
 
 ;0xAE27050B=~z~Niko, you're new. You don't understand the way things work.
-0xAE27050B=~z~Niko你太嫩了。你还不懂规矩。
+0xAE27050B=~z~Niko，你太嫩了。你还不懂规矩。
 
 ;0xAE7C39AA=R2_WB
 0xAE7C39AA=R2_WB
@@ -624,7 +624,7 @@
 0xB0F92738=R2_CA
 
 ;0xB1C40256=~z~Shit, I have to call these loan sharks and try to make things cool.
-0xB1C40256=~z~操，我得打电话给这些高利贷把事情压一压了。
+0xB1C40256=~z~操，我得打电话给这些高利贷求情了。
 
 ;0xB23D13EC=R2_HC
 0xB23D13EC=R2_HC
@@ -708,7 +708,7 @@
 0xC553B360=~z~这次我是输光了，但下次再来的时候，他们一定想不到我会赢走一切。
 
 ;0xC6363080=~z~Shit, I'm down.
-0xC6363080=~z~靠，我马上就好。
+0xC6363080=~z~靠，我赔了。
 
 ;0xC684F764=R2_SA
 0xC684F764=R2_SA
@@ -726,7 +726,7 @@
 0xC8C1F8DE=~z~他的出租在这，Roman这胖子肯定在这里。
 
 ;0xC8DB3A73=~z~It is the Russian mobsters, Vlad's bosses, that run everything. Be careful of them.
-0xC8DB3A73=~z~俄罗斯黑帮，Vlad的上级们，才是掌控全局的人。见着他们当心点。
+0xC8DB3A73=~z~俄罗斯黑帮，Vlad的上级才是掌控全局的人。见着他们当心点。
 
 ;0xC95A9A31=R2_MJ
 0xC95A9A31=R2_MJ
@@ -741,7 +741,7 @@
 0xCB2A9450=~z~漂亮女人确实都喜欢幽默男人。
 
 ;0xCB4015A7=~z~Darling... I'll see you later. I've got to take my cousin around some more, get him settled...
-0xCB4015A7=~z~亲爱的...我们待会见。我还得带我堂弟出去多转两圈，让他适应适应...
+0xCB4015A7=~z~亲爱的...我们待会见。我还得带我堂弟出去多转两圈，帮他适应适应...
 
 ;0xCB7163A4=~z~Come on, big guy - either do some work or get out of here. We don't need jokers.
 0xCB7163A4=~z~拜托，大哥，要么干活，要么滚蛋。我们不养闲人。
@@ -762,7 +762,7 @@
 0xD056818D=100100
 
 ;0xD22F7433=~z~He on TV whole time. The Buffet Car? Come on.
-0xD22F7433=~z~他一直在电视上。《餐饮列车》来着？拜托。
+0xD22F7433=~z~他一直在电视上。《餐饮列车》看过没？拜托。
 
 ;0xD3854981=~z~You and your debts, Roman. ~c~Always the same. Never change.
 0xD3854981=~z~你和一屁股债，Roman。~c~到哪都一样。从未变过。
@@ -861,7 +861,7 @@
 0xF767400E=R2_BM
 
 ;0xF79117E2=~z~We should stand up to them.~c~ Where is your pride?
-0xF79117E2=~z~我们应该反抗他们。~c~你的骄傲呢？
+0xF79117E2=~z~我们应该反抗他们。~c~你的尊严呢？
 
 ;0xF7BE3F54=~z~I have read all the books. You know Car Jabowitz?
 0xF7BE3F54=~z~我可是读过书的。认识Car Jabowitz吗？

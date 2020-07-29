@@ -18,7 +18,7 @@
 0x0845D13D=~z~谢谢你，兄弟。告诉Roman避开麻烦，听见了吗？
 
 ;0x0AF5A53B=~z~I ain't got no problem with that. Just don't tell me if you stole this shit from a hospital or a school for sick kids.
-0x0AF5A53B=~z~只要你不是从医院或者福利学校偷来的这些破烂，我就没有问题。
+0x0AF5A53B=~z~只要这些东西不是从医院或者福利学校偷来的，我就没有问题。
 
 ;0x0AFBDA86=~z~The cops are onto me. Get us out of here!
 0x0AFBDA86=~z~条子们来抓我了。快带我们逃出去！
@@ -27,7 +27,7 @@
 0x0B098E82=R5_NF
 
 ;0x0BA7B42F=~z~What?
-0x0BA7B42F=~z~什么？
+0x0BA7B42F=~z~什么啊？
 
 ;0x0D14AC03=~z~Hey, yokel. Your dumb cousin isn't here. Go get me a coffee.
 0x0D14AC03=~z~喂，乡巴佬。你的蠢堂兄不在。去给我泡杯咖啡。
@@ -48,7 +48,7 @@
 0x130CF1DA=~z~Roman人呢？你是条子吗？要是你是条子你就得告诉我。这是规矩。
 
 ;0x132F1876=~z~Roman, I guess, and some other things. I'm looking for something.
-0x132F1876=~z~大概是Roman吧，也有别的理由。我正在寻找某样东西。
+0x132F1876=~z~大概是Roman吧，也有别的理由。我在寻找某样东西。
 
 ;0x13607794=~z~Hey Roman, sorry about this, but your cab got trashed.
 0x13607794=~z~喂，Roman，很对不起，你的的士坏了。
@@ -93,7 +93,7 @@
 0x21358E3B=~z~我是Niko，Roman的堂弟。
 
 ;0x222D5E74=~z~Cool, I think we managed to shake them. We just need to lay low for another minute.
-0x222D5E74=~z~酷哦，我们好像成功甩掉他们了。现在只要再低调一会儿就行了。
+0x222D5E74=~z~漂亮，我们好像甩掉他们了。现在只要再低调一会儿就行了。
 
 ;0x225F36D6=~z~Roman has had some issues with loan sharks that needed to be resolved.
 0x225F36D6=~z~Roman和高利贷之间还有一些纠纷需要解决。
@@ -111,7 +111,7 @@
 0x25545204=R5_L
 
 ;0x25A6DA9D=~z~Ok, ok. I've got to pick up some hot parts from my lockup, you down?
-0x25A6DA9D=~z~行，行。我要去我的车库拿点烫手的零部件，你可以吗？
+0x25A6DA9D=~z~行，行。我要去我的车库拿点烫手的零部件，你干吗？
 
 ;0x26ABD342=~z~I own a Pay 'n' Spray shop over there on Gibson Street. Take us there.
 0x26ABD342=~z~我在Gibson街开了一家喷漆店。
@@ -198,7 +198,7 @@
 0x4543971C=R5_OA
 
 ;0x4554FCC1=~z~Good luck finding them. How's the hunt been going so far?
-0x4554FCC1=~z~祝你早日找到它。现在找的怎么样了？
+0x4554FCC1=~z~祝你早日找到。现在找得怎么样了？
 
 ;0x456BC282=010100100
 0x456BC282=010100100
@@ -312,7 +312,7 @@
 0x78FED090=R5_RA
 
 ;0x79472350=~z~Hey.
-0x79472350=~z~Hey.
+0x79472350=~z~嘿。
 
 ;0x796B5FC7=~z~I'm Roman's cousin. If you can trust him, you can trust me.
 0x796B5FC7=~z~我是Roman的堂弟。要是你信得过他，就可以信得过我。
@@ -366,10 +366,10 @@
 0x914634A2=R5_B
 
 ;0x9997A023=~z~Yeah, I traded in the yacht for this cab.
-0x9997A023=~z~对，我拿船换了这辆出租。
+0x9997A023=~z~对，我拿快艇换了这辆出租。
 
 ;0x9A5EA1B5=~z~Yeah, you gotta. I had a feeling you sounded too good to be true.
-0x9A5EA1B5=~z~确实，是这样的。我本来觉得你这人成功的有点假。
+0x9A5EA1B5=~z~确实，是这样的。我本来觉得你这人成功得有点假。
 
 ;0x9CAFA58F=R5_BF
 0x9CAFA58F=R5_BF
@@ -555,7 +555,7 @@
 0xF177070B=~z~What're you doing? Get back in the car.
 
 ;0xF1E455DD=~z~It has not really started yet. I'm getting settled in, you know?
-0xF1E455DD=~z~其实还没有真正开始。知道吗？我还在适应环境。
+0xF1E455DD=~z~其实还没有开始找。我还在适应环境来着。
 
 ;0xF2A55A1A=R5_NE
 0xF2A55A1A=R5_NE

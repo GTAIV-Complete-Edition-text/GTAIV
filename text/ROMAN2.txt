@@ -21,13 +21,13 @@
 0x13E17091=~s~按~INPUT_PHONE_ACCEPT~进入菜单。
 
 ;0x14FD7B45=~s~Hold ~INPUT_VEH_LOOK_BEHIND~ to look behind. Releasing ~INPUT_VEH_LOOK_BEHIND~ resets the camera to its default position.
-0x14FD7B45=~s~按住~INPUT_VEH_LOOK_BEHIND~观察后方。松开~INPUT_VEH_LOOK_BEHIND~会将视角恢复到初始位置。
+0x14FD7B45=~s~按住~INPUT_VEH_LOOK_BEHIND~观察后方。松开~INPUT_VEH_LOOK_BEHIND~后镜头会恢复到初始位置。
 
 ;0x1933DFEE=~s~Remain stationary in the car and look out for the loan sharks.
 0x1933DFEE=~s~待在车里，留意放高利贷的。
 
 ;0x194E8878=~r~The entrance to the gambling den was blocked.
-0x194E8878=~r~赌场的入口无法进入。
+0x194E8878=~r~赌场的入口被堵上了。
 
 ;0x214FEFD8=~s~Get into ~b~Roman's car.
 0x214FEFD8=~s~进入~b~Roman的车。
@@ -81,7 +81,7 @@
 0x96ED846A=~s~你的手机响了。
 
 ;0xA179B112=~s~The icon above the radar tells you when a contact has been added to your phone.
-0xA179B112=~s~小地图上的这个图标会在有新联系人添加到你的手机时出现。
+0xA179B112=~s~小地图上的这个图标会在有新联系人添加到你的通讯录时出现。
 
 ;0xA30661D1=~s~Press ~INPUT_PHONE_ACCEPT~ to call Roman.
 0xA30661D1=~s~按~INPUT_PHONE_ACCEPT~呼叫Roman。
@@ -105,7 +105,7 @@
 0xBB624D4F=~s~通话时按~INPUT_KB_DOWN~可跳过对话，按~INPUT_PHONE_CANCEL~可挂断电话。
 
 ;0xC707BB49=You can zoom out on the radar by holding ~INPUT_ZOOM_RADAR~.
-0xC707BB49=长按~INPUT_ZOOM_RADAR~可缩放小地图。
+0xC707BB49=按住~INPUT_ZOOM_RADAR~可缩放小地图。
 
 ;0xC7D56587=~r~The loan sharks caught Roman.
 0xC7D56587=~r~放高利贷的抓到Roman了。
@@ -123,7 +123,7 @@
 0xD389D49B=~s~去找~b~Roman。
 
 ;0xD3F6E733=Hold ~INPUT_VEH_LOOK_BEHIND~ to look behind.
-0xD3F6E733=长按~INPUT_VEH_LOOK_BEHIND~观察后方。
+0xD3F6E733=按住~INPUT_VEH_LOOK_BEHIND~观察后方。
 
 ;0xDEBDEB03=~s~Take Roman to the ~y~gambling den.
 0xDEBDEB03=~s~送Roman去~y~赌场。
@@ -132,7 +132,7 @@
 0xDF2BB32D=~s~送Roman去~y~五金店。
 
 ;0xE2CB16E1=~s~When in a car press ~INPUT_VEH_LOOK_LEFT~ to look left or ~INPUT_VEH_LOOK_RIGHT~ to look right.
-0xE2CB16E1=~s~在车内时，按~INPUT_VEH_LOOK_LEFT~可观察左侧，按~INPUT_VEH_LOOK_RIGHT~可观察右侧。
+0xE2CB16E1=~s~在车内时，按~INPUT_VEH_LOOK_LEFT~观察左侧，按~INPUT_VEH_LOOK_RIGHT~观察右侧。
 
 ;0xEA431D55=~s~Select Options and press ~INPUT_PHONE_ACCEPT~ .
 0xEA431D55=~s~选择选项后按~INPUT_PHONE_ACCEPT~。

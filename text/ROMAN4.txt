@@ -6,10 +6,10 @@
 0x3A430492=~s~按~INPUT_MELEE_ATTACK1~拳击。~n~按~INPUT_MELEE_ATTACK2~也是拳击。~n~~s~按~INPUT_MELEE_KICK~踢击。
 
 ;0x48DEA2D1=~r~Dardan~s~ has abandoned his car. He's escaping on foot up the staircase.
-0x48DEA2D1=~r~Dardan~s~把车抛下了。他正在楼梯上徒步逃跑。
+0x48DEA2D1=~r~Dardan~s~抛弃了车。他正在楼梯上徒步逃跑。
 
 ;0x57913917=~s~The color of the segments represent the type of character you are locked onto. Red indicates an enemy.
-0x57913917=~s~短弧的颜色代表被锁定敌人的类型。红色表示敌人。
+0x57913917=~s~短弧的颜色代表被锁定人物的类型。红色表示敌人。
 
 ;0x5E1920B6=~s~Go and get ~b~Roman.
 0x5E1920B6=~s~去接~b~Roman。
@@ -36,7 +36,7 @@
 0x96DF6974=~s~若要解除对手的武装，先按~INPUT_MELEE_BLOCK~闪避，再按~INPUT_MELEE_ATTACK2~或~INPUT_MELEE_ATTACK1~缴械。
 
 ;0x995F175D=~s~Go and help ~b~Roman.
-0x995F175D=~s~去帮~b~Roman。
+0x995F175D=~s~解救~b~Roman。
 
 ;0x99C6D76D=~r~Roman is dead.
 0x99C6D76D=~r~Roman死了。
