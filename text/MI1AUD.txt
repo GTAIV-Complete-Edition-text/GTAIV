@@ -123,7 +123,7 @@
 0x3022DAE4=010
 
 ;0x3215F5C0=~z~I don't know - I'm new here.
-0x3215F5C0=~z~我不知道－我才刚到这儿。
+0x3215F5C0=~z~我不知道，我才刚到这儿。
 
 ;0x3566669C=~z~Maybe there is more to this place, I'm not sure yet.
 0x3566669C=~z~可能还有别的原因，我自己也不太确定。
@@ -297,7 +297,7 @@
 0x665181BB=MI1_NB
 
 ;0x68F6CDBC=~z~I think you do. There must be something that made you leave your home and come here.
-0x68F6CDBC=~z~你应该知道吧。你总不会无缘无故就离开老家到这儿来吧。
+0x68F6CDBC=~z~你应该知道吧。你总不会无缘无故就离开老家来这里吧。
 
 ;0x69E041A6=~z~No, I guess I'm married to my job.
 0x69E041A6=~z~没有，估计我这辈子就和工作一起过了。
@@ -375,7 +375,7 @@
 0x93056BAB=~z~再见，Michelle。
 
 ;0x95C5C24C=~z~Niko, the carnival isn't open. I think they're going to turn it into a big Las Venturas style theme park.
-0x95C5C24C=~z~Niko，嘉年华没有开门。我觉得开发商是想把它改造成Las Venturas风格的主题公园。
+0x95C5C24C=~z~Niko，嘉年华没有开门。我觉得这里会被改造成Las Venturas风格的主题公园。
 
 ;0x982C69FF=MI1_MA
 0x982C69FF=MI1_MA
@@ -555,7 +555,7 @@
 0xF24675FE=~z~其实我们这儿管它叫，呃，「嘉年华」。
 
 ;0xF25356F4=~z~I thought you were doing me a favor by going out with me. You're the local.
-0xF25356F4=~z~我还以为你和我一起出来是在迁就我。你是本地的嘛。
+0xF25356F4=~z~我还以为你和我一起出来是在迁就我，毕竟你是本地人。
 
 ;0xF3562339=MI1_AC
 0xF3562339=MI1_AC
@@ -597,7 +597,7 @@
 0xFE28EFC1=~z~我不可能一直等着，Niko。快点。
 
 ;0xFE71F8B4=~z~There's nothing else about Liberty City then, just Roman?
-0xFE71F8B4=~z~没别的跟自由城有关的理由了，只是Roman？
+0xFE71F8B4=~z~没别的跟自由城有关的理由了吗？只是Roman？
 
 ;0xFF2340C3=~z~Coming...
 0xFF2340C3=~z~来了...

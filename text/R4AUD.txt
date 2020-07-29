@@ -1,6 +1,6 @@
 ﻿[R4AUD]
 ;0x007541E0=~z~I can't think what he could possibly want or why he'd be pissed off, can you?
-0x007541E0=~z~我是不知道他想怎样和生气的原因，你知道吗？
+0x007541E0=~z~我是不知道他想怎样和为什么生气，你知道吗？
 
 ;0x00908B6D=~z~Our problem's with your cousin.
 0x00908B6D=~z~我们找的是你老哥的麻烦。
@@ -18,7 +18,7 @@
 0x05EF71E6=~z~操，我们得跟住他。
 
 ;0x06875F97=~z~These men, these shylocks like Dardan, they always try to squeeze you for everything.
-0x06875F97=~z~这些像Dardan那样的高利贷人，总是想要榨干你的一切。
+0x06875F97=~z~这些像Dardan那样的高利贷人，总是想榨干你的一切。
 
 ;0x077D209C=100
 0x077D209C=100
@@ -36,13 +36,13 @@
 0x09EE8DEB=R4_JA
 
 ;0x0B23A093=~z~Keep on fatboy here, and I'll talk to him.
-0x0B23A093=~z~让肥佬待在这，我去会会他。
+0x0B23A093=~z~你看住肥佬，我去会会他。
 
 ;0x0B606268=100010190
 0x0B606268=100010190
 
 ;0x0CD96C87=~z~Believed I owed him money when I did not.
-0x0CD96C87=~z~我明明没欠钱，他偏说我欠他钱。
+0x0CD96C87=~z~我明明没欠他钱，他偏说我欠了。
 
 ;0x0EADD0F5=100010100100010100010100010010100010
 0x0EADD0F5=100010100100010100010100010010100010
@@ -72,7 +72,7 @@
 0x16BB06F2=~z~说猪头猪头到，Dardan来了。
 
 ;0x17103874=~z~Listen, Dardan is a good friend of mine.
-0x17103874=~z~听我说，Dardan是我的一个好哥们。
+0x17103874=~z~听我说，Dardan是我的好哥们。
 
 ;0x177B5F39=R4_GF
 0x177B5F39=R4_GF
@@ -102,7 +102,7 @@
 0x228CF5C8=R4_UG
 
 ;0x257EA479=~z~If one more of these gangsters tries to...
-0x257EA479=~z~要是再有一个这样的恶霸想要...
+0x257EA479=~z~要是再有这种恶霸来...
 
 ;0x25D0762C=~z~See you later, cousin.
 0x25D0762C=~z~回头见，堂弟。
@@ -213,7 +213,7 @@
 0x5523DE45=R4_GG
 
 ;0x55442BF2=~z~Stay the fuck away from me.
-0x55442BF2=~z~不要靠近我啊。
+0x55442BF2=~z~你他妈离我远点。
 
 ;0x55659BCE=~z~You better not try to get up, fatty
 0x55659BCE=~z~You better not try to get up, fatty

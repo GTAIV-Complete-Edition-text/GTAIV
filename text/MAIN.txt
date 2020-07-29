@@ -17274,10 +17274,10 @@
 0x18BEB913=进入标记触发任务。
 
 ;0xC8C53C48=Press ~INPUT_VEH_EXIT~ to dive out of a moving car.
-0xC8C53C48=按~INPUT_VEH_EXIT~跳出移动中的车辆。
+0xC8C53C48=按~INPUT_VEH_EXIT~跳出行驶中的车辆。
 
 ;0x260F87A7=You can save any vehicle in the parking spot outside your safehouse. Park your car there and exit it. The car will remain there for you to use.
-0x260F87A7=你可以在安全屋外的停车位存放任何载具。把车停在那儿后下车。车就会被保存在那儿供你使用。
+0x260F87A7=你可以在安全屋外的停车位存放任何载具。将车停入车位后下车，即可保存车辆留待日后使用。
 
 ;0xC00228B8=To replenish your health you can visit fast food vendors, like hotdog stands, around the city.
 0xC00228B8=你可以拜访城市中的各种小吃摊恢复生命值，比如热狗摊。
@@ -17292,10 +17292,10 @@
 0x751DC03F=按~INPUT_ENTER~上下车。
 
 ;0x58DAF110=The number of stars on screen shows your wanted level. With a wanted level cops will attempt to bust you.
-0x58DAF110=画面上的星星个数代表你的通缉度。具有通辑度时警察会尝试逮捕你。
+0x58DAF110=画面上的星星数量表示你的通缉度。具有通辑度时警察会尝试逮捕你。
 
 ;0x4E98DC8C=The area cops search is shown by the flashing red and blue zone. Cops are shown by the flashing red and blue icons.
-0x4E98DC8C=小地图上闪烁的区域表示警方的搜捕范围。范围内的警察会用红蓝交替闪烁的图标标识。
+0x4E98DC8C=小地图上闪烁的区域表示警方的搜捕范围。范围内的警察会用红蓝交替闪烁的圆点标识。
 
 ;0x3C58380B=To lose your wanted level, escape the flashing zone.
 0x3C58380B=逃出闪烁区域以降低通缉度。
@@ -17367,7 +17367,7 @@
 0x736C8B2C=您的剪辑已捕捉。若您想查看或编辑您的剪辑，拿出手机后选择视频编辑器。
 
 ;0xDC5E1CD8=~s~Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the target vehicle.
-0xDC5E1CD8=~s~按住~INPUT_VEH_CIN_CAM~以将镜头对准目标车辆。
+0xDC5E1CD8=~s~按住~INPUT_VEH_CIN_CAM~可将镜头对准目标车辆。
 
 ;0xEB8B1821=~s~Go to the internet cafe and check your emails.
 0xEB8B1821=~s~去网吧查看你的邮件。
@@ -17388,7 +17388,7 @@
 0x2AFE79DD=若你想替Brucie偷车，就必须回复他的邮件。
 
 ;0x9E3698A7=To hotwire a vehicle faster repeatedly press ~INPUT_VEH_HOTWIRE_LEFT~ or ~INPUT_VEH_HOTWIRE_RIGHT~.
-0x9E3698A7=连按~INPUT_VEH_HOTWIRE_LEFT~或~INPUT_VEH_HOTWIRE_RIGHT~可以更快发动载具。
+0x9E3698A7=连按~INPUT_VEH_HOTWIRE_LEFT~或~INPUT_VEH_HOTWIRE_RIGHT~可以快速发动载具。
 
 ;0xDC72E1E4=Dimitri is not here. Return between 5pm and 3am.
 0xDC72E1E4=Dimitri现在不在。请在下午五点到凌晨三点间找他。

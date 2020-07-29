@@ -57,7 +57,7 @@
 0x6BEB8F99=~r~Pegorino的车被毁了。
 
 ;0x6BEE1287=~s~Get in Pegorino's ~b~car.
-0x6BEE1287=~s~进入Pegorino的~b~车。
+0x6BEE1287=~s~进入~b~Pegorino的车。
 
 ;0x78532E4E=~s~Go find ~b~Pegorino.
 0x78532E4E=~s~去找~b~Pegorino。
@@ -81,7 +81,7 @@
 0x93F596CC=~s~保护Pegorino，别让他被~r~Pavanos家族的人~s~杀害。
 
 ;0x9B9ECB14=~s~Don't leave ~b~Pegorino~s~ behind.
-0x9B9ECB14=~s~别把~b~Pegorino~s~丢下。
+0x9B9ECB14=~s~别把~b~Pegorino~s~落下。
 
 ;0x9F1FF1DA=~s~Go get Pegorino's ~g~offering.
 0x9F1FF1DA=~s~去拿Pegorino的~g~礼物。
@@ -105,7 +105,7 @@
 0xC43480D0=~s~在Pegorino被杀前消灭~r~Pavano家族的人。
 
 ;0xC6E7EA30=~s~Don't leave ~b~~a~~s~ behind.
-0xC6E7EA30=~s~别把~b~~a~~s~丢下。
+0xC6E7EA30=~s~别把~b~~a~~s~落下。
 
 ;0xCFAAC1F3=~s~PEGORINO
 0xCFAAC1F3=~s~PEGORINO
@@ -117,7 +117,7 @@
 0xD145EC8E=~s~从~r~Pavanos家族的人~s~手里夺回Pegorino的礼物。
 
 ;0xD2AAE557=~r~Pegorino was left behind.
-0xD2AAE557=~r~Pegorino被落下了。
+0xD2AAE557=~r~Pegorino被抛弃了。
 
 ;0xE4841E0B=~PAD_LB~ focus on car.
 0xE4841E0B=~PAD_LB~ 将镜头对准目标的车。

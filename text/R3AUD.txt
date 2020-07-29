@@ -192,7 +192,7 @@
 0x49FCD002=~z~谢谢你啦，Niko。
 
 ;0x4AD90158=~z~I live on Rotterdam Hill, up on Mohawk Avenue. You know where that is?
-0x4AD90158=~z~我住在Rotterdam Hill，Mohawk大道上。路你认识吗？
+0x4AD90158=~z~我住在Rotterdam Hill的Mohawk大道上。路你认识吗？
 
 ;0x4D1F653D=~z~Oh great... Mallorie.
 0x4D1F653D=~z~得...是Mallorie。
@@ -231,7 +231,7 @@
 0x5A2CA6C1=R3_JA
 
 ;0x5ACC8E1B=~z~Get out of here now! And if you come back,
-0x5ACC8E1B=~z~立马滚出去！你要是敢再来，
+0x5ACC8E1B=~z~立马滚出去！要是你还敢来，
 
 ;0x5BED954C=~z~Come on you guys. You're both single, you're adults. Take her number, Niko.
 0x5BED954C=~z~好啦，二位。你们都还单身，大家也都是成年人。这是她的电话，Niko。
@@ -255,7 +255,7 @@
 0x60749249=~z~嗨。你好吗？
 
 ;0x65B2A3E7=~z~I'll kill you! You understand?
-0x65B2A3E7=~z~我就宰了你！听懂了没？
+0x65B2A3E7=~z~我宰了你！听懂了没？
 
 ;0x661CC3AE=R3_BT
 0x661CC3AE=R3_BT
@@ -348,7 +348,7 @@
 0x8A75EB89=~z~我看他一路过来穿的都是这套衣服。
 
 ;0x8AA526E1=~z~Cousin, the car got screwed. I couldn't get your woman to her place.
-0x8AA526E1=~z~堂哥，车废了。我没法接送你的女人了。
+0x8AA526E1=~z~堂兄，车废了。我没法接送你的女人了。
 
 ;0x8BF92B4C=~z~I'm trying to get you two together so Niko will stop taking up all of Roman's time.
 0x8BF92B4C=~z~我是想把你们俩撮成一对，这样Niko就能把Roman的时间让出来了。
@@ -357,13 +357,13 @@
 0x8C769131=R3_BS
 
 ;0x8C86629E=~z~Oh, man, look at this crap. My computer and everything.
-0x8C86629E=~z~噢，天，看看这一团糟。我的电脑和一切。
+0x8C86629E=~z~噢，天，看看这一团糟。我的电脑和家当啊。
 
 ;0x8DB403CB=R3_CJ
 0x8DB403CB=R3_CJ
 
 ;0x8E452AA3=~z~Cousin, I'm sorry. The girls have some injuries.
-0x8E452AA3=~z~堂哥，对不起。女孩都有点伤着了。
+0x8E452AA3=~z~堂兄，对不起。女孩都有点伤着了。
 
 ;0x8FA3B236=~z~Michelle, gave me her number.
 0x8FA3B236=~z~Michelle给我了她的电话。
@@ -387,7 +387,7 @@
 0x94169BE2=010010100100
 
 ;0x943B7368=~z~-Assholes threatening me.~n~-Shut up!
-0x943B7368=~z~－天天被混蛋们威胁。~n~－闭嘴！
+0x943B7368=~z~－天天被混蛋威胁。~n~－闭嘴！
 
 ;0x94AAE56D=~z~Yeah, thanks. Gimme a call sometime.
 0x94AAE56D=~z~对，谢了。有空给我打电话。
@@ -420,7 +420,7 @@
 0x9E17B08D=100
 
 ;0xA13033DD=~z~Hey, I'd like it if you called me. You must get bored hanging out with your cousin and that asshole boss of his.
-0xA13033DD=~z~嘿，有空给我打电话吧。整天和你那堂哥还有他那混蛋老板一起也快无聊死了吧？
+0xA13033DD=~z~嘿，有空给我打电话吧。整天和你那堂兄还有他那混蛋老板一起也快无聊死了吧？
 
 ;0xA130A722=~z~Show Niko what Liberty City is all about then. Not so much the violence but maybe a bit of the...
 0xA130A722=~z~那就让Niko见识下自由城到底是个什么地方。也许没那么多暴力，但或许有点...
@@ -474,7 +474,7 @@
 0xBB6972AF=R3_AB
 
 ;0xBB7ADDE9=~z~Cousin, Mallorie's friend, Michelle... had an accident.
-0xBB7ADDE9=~z~堂哥，Mallorie的朋友，Michelle...出了点小意外。
+0xBB7ADDE9=~z~堂兄，Mallorie的朋友，Michelle...出了点小意外。
 
 ;0xBBFCE972=~z~Boring, stop talking about that. Talk about what it's like to be here.
 0xBBFCE972=~z~无聊，别说那个了。讲讲这里的生活吧。
@@ -486,7 +486,7 @@
 0xC0E868C8=~z~希望她伤得不重。我还以为你俩能好上呢。我会给Mallorie打电话的。
 
 ;0xC15A68C1=~z~We must take what we get. When the big money rolls in, then we will look real classy.
-0xC15A68C1=~z~价钱摆在那里。等我们挣到大钱了，我们就能穿上档次的了。
+0xC15A68C1=~z~价钱摆在那里。等我们挣到大钱了，就有机会穿上档次的了。
 
 ;0xC2576383=R3_BG
 0xC2576383=R3_BG
@@ -570,7 +570,7 @@
 0xE7BE262C=R3_BD
 
 ;0xE90D1C91=~z~Cousin, I dropped the girls off.
-0xE90D1C91=~z~堂哥，人都送到了。
+0xE90D1C91=~z~堂兄，人都送到了。
 
 ;0xE95A9C55=~z~Can you go pick her up at the Hove Beach subway station?
 0xE95A9C55=~z~到Hove Beach地铁站那边去接她，行吧？
@@ -579,7 +579,7 @@
 0xE97E5A80=R3_HB
 
 ;0xEA1B9F37=~z~You want to know why I'm not living in a nice condo, banging four women?
-0xEA1B9F37=~z~想不想知道为啥我不住在精装公寓里同时日四个女人吗？
+0xEA1B9F37=~z~想知道我为啥没住在精装公寓里，同时日四个女人吗？
 
 ;0xEB6A49B6=R3_CI
 0xEB6A49B6=R3_CI
@@ -603,7 +603,7 @@
 0xF5DA3F12=R3_DA
 
 ;0xF618C4B9=~z~Shit, Niko - what did you do?
-0xF618C4B9=~z~靠，Niko——你这都干了啥呀？
+0xF618C4B9=~z~靠，Niko，你这都干了啥呀？
 
 ;0xF83504A7=R3_JC
 0xF83504A7=R3_JC
