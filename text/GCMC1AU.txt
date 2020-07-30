@@ -30,7 +30,7 @@
 0x0D360593=GCM2_MICHELLE_CONVERSATIONS5_DI
 
 ;0x0D595D67=~z~Okay.
-0x0D595D67=~z~好吧。
+0x0D595D67=~z~他还好。
 
 ;0x0F4A23D6=GCM2_MICHELLE_CONVERSATIONS4_CI
 0x0F4A23D6=GCM2_MICHELLE_CONVERSATIONS4_CI
@@ -96,7 +96,7 @@
 0x24A93319=GCM2_MICHELLE_CONVERSATIONS5_DH
 
 ;0x291A14E8=~z~I don't know about that.
-0x291A14E8=~z~我不知道。
+0x291A14E8=~z~我不太清楚。
 
 ;0x2A219592=GCM2_MICHELLE_CONVERSATIONS3_BL
 0x2A219592=GCM2_MICHELLE_CONVERSATIONS3_BL
@@ -126,7 +126,7 @@
 0x3970CA4C=~z~我只是想你可能认识什么人。或者Roman...
 
 ;0x3A60B775=~z~Mallorie said he was in debt, to some criminals. Do you know about that?
-0x3A60B775=~z~Mallorie说他欠了一些罪犯的债。你知道吗?
+0x3A60B775=~z~Mallorie说他欠了罪犯的债。你知道吗？
 
 ;0x3FA1BB6A=~z~Thank you.
 0x3FA1BB6A=~z~谢谢你。
@@ -147,7 +147,7 @@
 0x457037B1=~z~不，我家境贫寒。你们这些人不知道什么是贫穷。
 
 ;0x467E4FB0=~z~How are you settling in?
-0x467E4FB0=~z~你过得怎样?
+0x467E4FB0=~z~你适应得如何了？
 
 ;0x48075C60=GCM2_MICHELLE_CONVERSATIONS6_EC
 0x48075C60=GCM2_MICHELLE_CONVERSATIONS6_EC
@@ -300,7 +300,7 @@
 0x9A6D2429=~z~没有规律。
 
 ;0x9BEF7A91=~z~Slowly. Your country is strange. Your city makes people crazy.
-0x9BEF7A91=~z~慢慢来。你的国家很奇怪。你的城市使人疯狂。
+0x9BEF7A91=~z~慢慢适应。你的国家很奇怪。你的城市使人疯狂。
 
 ;0x9C8D65E6=~z~How's Mallorie? We haven't spoken in a while.
 0x9C8D65E6=~z~Mallorie怎么样？我们好一段时间没说话了。
@@ -411,13 +411,13 @@
 0xD3A9F3BF=GCM2_MICHELLE_CONVERSATIONS2_AN
 
 ;0xD4B0F361=~z~Do you think they'll try to involve Roman?
-0xD4B0F361=~z~你认为他们会试图牵扯到Roman吗？
+0xD4B0F361=~z~你觉得他们会吸纳Roman吗？
 
 ;0xD7855BD5=~z~Yeah, she's done well. She comes from a very poor background.
 0xD7855BD5=~z~是的，她做得很好。她家境贫寒。
 
 ;0xDB9C79EE=~z~That would really scare me. Organized crime, I mean.
-0xDB9C79EE=~z~那会吓到我的。我是说有组织的犯罪。
+0xDB9C79EE=~z~那会吓到我的。我是说有组织犯罪。
 
 ;0xDC603624=GCM2_MICHELLE_CONVERSATIONS2_AK
 0xDC603624=GCM2_MICHELLE_CONVERSATIONS2_AK
@@ -453,7 +453,7 @@
 0xED0ADC30=GCM2_MICHELLE_CONVERSATIONS4_CF
 
 ;0xEF0C2813=~z~I don't think Roman would make much of a criminal.
-0xEF0C2813=~z~我不认为Roman会把罪犯当回事。
+0xEF0C2813=~z~我觉得Roman干不成什么坏事。
 
 ;0xF22E5B96=GCM2_MICHELLE_CONVERSATIONS2_AF
 0xF22E5B96=GCM2_MICHELLE_CONVERSATIONS2_AF
@@ -477,5 +477,5 @@
 0xFA27BD1C=~z~没什么。他是Roman的朋友。
 
 ;0xFED547A5=~z~I guess not... Interesting weather, isn't it?
-0xFED547A5=~z~我猜不是...天气不错，不是吗?
+0xFED547A5=~z~我猜不能...天气不错，不是吗?
 

@@ -72,7 +72,7 @@
 0x6E016F5F=~s~前往~y~商店。
 
 ;0x7285C385=~s~Press ~INPUT_PICKUP~ to pick up an object. Only small objects can be picked up.
-0x7285C385=~s~按~INPUT_PICKUP~捡起物品。只有小件物品才能捡起来。
+0x7285C385=~s~按~INPUT_PICKUP~捡起物品。能被捡起的只有小件物品。
 
 ;0x76A4BA89=~s~You can get a cab to take you around the city.
 0x76A4BA89=~s~你可以叫辆的士在城市中往返。

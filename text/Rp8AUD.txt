@@ -66,7 +66,7 @@
 0x1926E091=100
 
 ;0x1A1FB2F0=~z~Great, Niko. Thanks. If you want more fares just call.
-0x1A1FB2F0=~z~很好，Niko。谢了。要是你还想接单就打个电话过来。
+0x1A1FB2F0=~z~很好，Niko。谢了。要是你还想接单，打电话找我。
 
 ;0x1A603385=R8_CA
 0x1A603385=R8_CA
@@ -234,7 +234,7 @@
 0x58E3F052=~z~Niko，你要给Bellic集团长脸啊。来车行拿辆车。
 
 ;0x59CFDC76=~z~I have a car already. I'll go do it now.
-0x59CFDC76=~z~车拿到了，这就出发。
+0x59CFDC76=~z~车已经有了，我这就出发。
 
 ;0x5CF26C67=~z~Don't worry, I'm on it.
 0x5CF26C67=~z~别急，我这就去。
@@ -354,7 +354,7 @@
 0x8CFB33C4=~z~真不愧是Bellic家的人，谢谢你，堂弟。待会再联系。
 
 ;0x8D914F3A=~z~Hey Roman, how about I drive someone for you?
-0x8D914F3A=~z~喂 Roman，要不要我替你去拉个人？
+0x8D914F3A=~z~喂，Roman，要不要我替你去拉个人？
 
 ;0x8E3C361C=~z~Sure, you can come get a cab from the depot - if you promise to do this right?
 0x8E3C361C=~z~当然，你可以来车行拿车－只要你确保这次不乱搞就成。
@@ -363,7 +363,7 @@
 0x90A2519B=R8_AG
 
 ;0x90AE5564=~z~Roman, are there any fares going?
-0x90AE5564=~z~Roman，有没有单子好接的？
+0x90AE5564=~z~Roman，有没有单子能接？
 
 ;0x9111F4DE=~z~I got them where they wanted to go.
 0x9111F4DE=~z~人已经送到目的地了。
@@ -600,13 +600,13 @@
 0xF3AF1E1B=R8_AD
 
 ;0xF47E6305=~z~Niko, you are a good cousin. I was hoping that you would start to help me.
-0xF47E6305=~z~Niko堂弟你真好。我是有想过你会来帮我。
+0xF47E6305=~z~Niko，堂弟你真好。我是想过你会来帮我。
 
 ;0xF4BABC3A=~z~Alright, man. I took care of that fare for you.
 0xF4BABC3A=~z~好了，老哥，这单已经搞定了。
 
 ;0xF4F492C1=~z~Roman, come on, I have a car already. I will go straight to get them.
-0xF4F492C1=~z~Roman，别这样，车我已经有了。我直接去接他们了。
+0xF4F492C1=~z~Roman，别这样，车我已经有了。我可以直接去接人。
 
 ;0xF5C5EA19=~z~You are truly a Bellic, thank you cousin. Speak soon.
 0xF5C5EA19=~z~真不愧是Bellic家的人，谢谢你，堂弟。待会再联系。
