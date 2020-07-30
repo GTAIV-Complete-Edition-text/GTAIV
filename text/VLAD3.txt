@@ -18,7 +18,7 @@
 0x40147B06=按~INPUT_ENTER~进入列车。
 
 ;0x49EA0EB1=An icon with an upward pointing arrow indicates that the objective is above your current position, and an icon with a downward pointing arrow indicates that an objective is below you.
-0x49EA0EB1=带有向上箭头的标志表示目标所处位置高于你。带有向下箭头的标志表示目标所处位置低于你。
+0x49EA0EB1=小地图中，带有向上箭头的圆点表示目标所处位置高于你，带有向下箭头的圆点表示目标所处位置低于你。
 
 ;0x4A5F9FE2=~s~You are on the wrong platform, go to the ~y~platform below.
 0x4A5F9FE2=~s~你来错站台了，去~y~楼下的站台。

@@ -15,7 +15,7 @@
 0x04DED8CC=~z~好，回见。
 
 ;0x04FE0037=~z~How about we find something else to do now?
-0x04FE0037=~z~我们现在再去找点事做做如何？
+0x04FE0037=~z~我们现在再去找点事做如何？
 
 ;0x06308172=~z~It used to be impossible to get a table there and you can see why.
 0x06308172=~z~以前这里一席难求，原因你也能看出来。
@@ -27,7 +27,7 @@
 0x0A6708A6=GCA_ACT_POOL_LEAVE_ABANDON
 
 ;0x0B9C70E9=~z~Great, you won at darts. It must be fun for you.
-0x0B9C70E9=~z~好，这次飞镖是你赢了。对你来说一定很有趣。
+0x0B9C70E9=~z~好，飞镖你比我强。你高兴了吧。
 
 ;0x0D07E062=GCA_ACT_PAL_END_YES
 0x0D07E062=GCA_ACT_PAL_END_YES
@@ -45,7 +45,7 @@
 0x11A18F5A=~z~要我一起进来吗？
 
 ;0x13FC1E75=~z~God, the stories I could tell you about this place, let's walk.
-0x13FC1E75=~z~上帝，我有很多关于这里的故事可以讲，我们走走吧。
+0x13FC1E75=~z~上帝，我有很多关于这里的故事可以讲，边走边聊吧。
 
 ;0x1410F730=~z~See ya.
 0x1410F730=~z~再见。
@@ -78,7 +78,7 @@
 0x1C0F27E9=010
 
 ;0x1E0A7107=~z~Woo hoo, Niko beats Alex at pool - a game she incidentally hates. Stop the press.
-0x1E0A7107=~z~呜呼，Niko在台球上打败了Alex，她其实不擅长台球。别吹了。
+0x1E0A7107=~z~呜呼，Niko在台球上打败了Alex，她最讨厌台球了。别吹了。
 
 ;0x1E8B17E5=~z~Bye then.
 0x1E8B17E5=~z~那再见了。
@@ -126,7 +126,7 @@
 0x2B45122E=~z~确实，给我你的电话吧，我们以后还能再出来约会。
 
 ;0x308D9ADE=~z~Thank God it's over and we didn't even have to put all the balls in the holes.
-0x308D9ADE=~z~谢天谢地，终于结束了，再也没必要把所有的球都打到洞里了。
+0x308D9ADE=~z~谢天谢地，终于结束了，再也没必要把球都打到洞里了。
 
 ;0x32243F17=~z~Later on then, Alex.
 0x32243F17=~z~回头见，Alex。
@@ -144,7 +144,7 @@
 0x355D5A5F=GCA_ACT_DATEFINISHED_AGAIN
 
 ;0x360DA042=~z~I knew you'd find that story interesting. I'm really good at telling what people will like.
-0x360DA042=~z~我就知道你会对这个故事感兴趣的。我真的很擅长讲述一些别人会喜欢的东西。
+0x360DA042=~z~我就知道你会对这个故事感兴趣。我真的很擅长讲述别人喜欢的东西。
 
 ;0x36753CE1=~z~Bland, unmemorable, bad service. I'd give that place three out of ten.
 0x36753CE1=~z~乏味、无趣、服务差。十分制我只能打三分。
@@ -156,16 +156,16 @@
 0x39A2F759=GCA_ACT_ARRIVE_WALK_BEFORE
 
 ;0x3AF850BF=~z~Wait for me to call you, okay?
-0x3AF850BF=~z~等我给你打电话，好吧？
+0x3AF850BF=~z~等我给你打电话，好吗？
 
 ;0x3D89AC56=GCA_ACT_LEAVE_WALK
 0x3D89AC56=GCA_ACT_LEAVE_WALK
 
 ;0x3DF7B5B2=~z~Ending that game early was the best decision I've seen you make.
-0x3DF7B5B2=~z~提前结束这一局是我所见过的你做出的决定中最好的。
+0x3DF7B5B2=~z~提前结束这一局是你至今做出的决定中最好的。
 
 ;0x3E9DD60D=~z~This has got to be a new low point, Niko. Being beaten by a girl who hates darts.
-0x3E9DD60D=~z~这肯定是一个新低谷，Niko。在飞镖上输给一个讨厌飞镖的女孩。
+0x3E9DD60D=~z~实在是太糟糕了，Niko。你输给了一个讨厌飞镖的女孩。
 
 ;0x3EAF04A1=GCA_ACT_ARRIVE_WALK_MHAT_LAST
 0x3EAF04A1=GCA_ACT_ARRIVE_WALK_MHAT_LAST
@@ -183,16 +183,16 @@
 0x414EA2C2=100
 
 ;0x417A37E6=~z~Well I bet it feels really good to beat someone whose heart's not in the game.
-0x417A37E6=~z~行吧，你打败一个对这个项目没有兴趣的人感觉一定很棒。
+0x417A37E6=~z~行吧，打败一个对台球没兴趣的人感觉很棒吧。
 
 ;0x425F4AEC=~z~You know, even winning at pool isn't fun.
-0x425F4AEC=~z~你知道吗，就算台球打赢了，那也没什么意思。
+0x425F4AEC=~z~知道吗，台球就算赢了也没什么意思。
 
 ;0x43F7E61B=100
 0x43F7E61B=100
 
 ;0x4429FE8E=~z~Where to next my mysterious European companion?
-0x4429FE8E=~z~接下来去哪儿，我的欧洲神秘伴侣？
+0x4429FE8E=~z~接下来去哪儿，我的神秘欧洲伴侣？
 
 ;0x449B54B0=~z~Can we at least have some fun out here?
 0x449B54B0=~z~出来玩怎么说也得整点有意思的吧？
@@ -258,7 +258,7 @@
 0x54F79303=GCA_ACT_DATEFINISHED_GOOD
 
 ;0x55AEE93B=~z~I'm always going to love that place, the people are so beautiful. I belong there.
-0x55AEE93B=~z~我向来喜欢那个地方，那里每个人都很美。我属于那里。
+0x55AEE93B=~z~我向来喜欢那个地方，那里的人都很美。我属于那里。
 
 ;0x55FC8D0A=GCA_ACT_DARTS_LEAVE_LOST
 0x55FC8D0A=GCA_ACT_DARTS_LEAVE_LOST
@@ -279,7 +279,7 @@
 0x5B7D42F4=~z~Niko，我被诊断有多动症，我不喜欢在中途等这么久。
 
 ;0x5D0DE93D=~z~That really enlightened me as to what the European mind is like, you know?
-0x5D0DE93D=~z~它启发了我欧式思维是怎么样的，你知道吗？
+0x5D0DE93D=~z~它启发了我什么是欧式思维，你知道吗？
 
 ;0x5D1C5FDE=100
 0x5D1C5FDE=100
@@ -306,7 +306,7 @@
 0x62D05F5F=~z~玩乐结束了。
 
 ;0x62DD1C33=~z~You really like this spot don't you? Did a friend of yours die here?
-0x62DD1C33=~z~你真的很喜欢这里，不是吗？你是有一个朋友死在这里吗？
+0x62DD1C33=~z~你真的很喜欢这里，不是吗？是你的哪个朋友死在这里了吗？
 
 ;0x64BF3730=~z~The best thing about darts is getting to quit half way through.
 0x64BF3730=~z~玩飞镖时最好的一件事就是中途结束。
@@ -315,13 +315,13 @@
 0x6517E5CB=100
 
 ;0x65D7FFD6=~z~So after I checked myself out of rehab I decided that I didn't have a problem. The end.
-0x65D7FFD6=~z~在我从康复中心出院后，我就确信我已经没毛病了。就这。
+0x65D7FFD6=~z~在我离开戒毒所后，我就确信我没毛病了。就这。
 
 ;0x663ACE27=100
 0x663ACE27=100
 
 ;0x6758FF04=~z~I was finding that really interesting, Niko. Thanks for making me leave.
-0x6758FF04=~z~我刚在兴头上呢，Niko。真是谢谢你带我走人啊。
+0x6758FF04=~z~我正在兴头上呢，Niko。真是谢谢你带我走人啊。
 
 ;0x67C21C12=GCA_ACT_END_GOOD
 0x67C21C12=GCA_ACT_END_GOOD
@@ -354,7 +354,7 @@
 0x6F68A543=100
 
 ;0x719F4D68=~z~If you're not taking me straight home I can just call Daddy's driver.
-0x719F4D68=~z~要是你不直接送我回去，我打电话给爹地的司机也行。
+0x719F4D68=~z~你再不送我回去，我就打电话叫爹地的司机了。
 
 ;0x71AC14F6=GCA_ACT_LEAVE_HIGHEND
 0x71AC14F6=GCA_ACT_LEAVE_HIGHEND
@@ -390,7 +390,7 @@
 0x82397AF2=~z~这个地方承载着我的很多回忆，Niko。很高兴我可以和你共享。
 
 ;0x82FBEADE=~z~Take me home, won't you?
-0x82FBEADE=~z~送我回家，好吧？
+0x82FBEADE=~z~送我回家，好吗？
 
 ;0x83E86AD1=~z~Really.
 0x83E86AD1=~z~真的。
@@ -408,7 +408,7 @@
 0x86D0F1EA=100
 
 ;0x87DA8156=~z~And you've shown me that the criminals are not the only terrible people in Liberty City. Goodye.
-0x87DA8156=~z~你也让我知道了，罪犯不是自由城里唯一一类糟糕的人。
+0x87DA8156=~z~你也让我知道了，罪犯不是自由城里唯一一类糟糕的人。再见。
 
 ;0x88906029=~z~That game was almost as anti-climactic as sex with my last boyfriend.
 0x88906029=~z~刚才那局平淡得跟和我前男友做爱一样。
@@ -417,7 +417,7 @@
 0x88AEC577=~z~希望我没有让你无聊，不是说我会让别人无聊，但我一直在说话。
 
 ;0x89CD10A5=~z~I told you I hate fast-food. I will not let it pass my lips again.
-0x89CD10A5=~z~都跟你说了，我讨厌快餐。我不会再让这种东西进我嘴里了。
+0x89CD10A5=~z~我都说了我讨厌快餐。我不会再让这种东西进我嘴里了。
 
 ;0x89F3FB65=100
 0x89F3FB65=100
@@ -447,13 +447,13 @@
 0x8DEEF287=GCA_ACT_PAL_END_GOOD_Y
 
 ;0x913F8E34=~z~That was interesting. I've got something to put in my blog at least.
-0x913F8E34=~z~刚才很有趣，至少我有写博客的素材了。
+0x913F8E34=~z~很有趣，至少我有写博客的素材了。
 
 ;0x95445C0C=~z~Here again, okay. There's a lot more to see in Algonquin, Niko.
 0x95445C0C=~z~又是这儿，行吧。Algonquin能去的地方可多得很啊，Niko。
 
 ;0x960C04EC=~z~Don't you feel pathetic? Me beating you at the sport I hate.
-0x960C04EC=~z~你就没觉得可悲吗？我在我讨厌的项目上打败了你。
+0x960C04EC=~z~你就不觉得可悲吗？我在我讨厌的项目上打败了你。
 
 ;0x9627087B=~z~Come over here.
 0x9627087B=~z~过来吧。
@@ -486,13 +486,13 @@
 0xA1F1D87E=100
 
 ;0xA32EE5E7=~z~I grew up walking around here. I'm so pleased to be back.
-0xA32EE5E7=~z~我小时候就在这儿晃悠。很高兴能回到这儿。
+0xA32EE5E7=~z~我小时候就在这儿晃悠。很高兴能回到这里。
 
 ;0xA602E8D2=100
 0xA602E8D2=100
 
 ;0xA666FE51=~z~I'm always happy to come here, Niko. But there are like other places to go walking.
-0xA666FE51=~z~能来这里我想来很高兴，Niko。但也有别的地方能去吧。
+0xA666FE51=~z~能来这里我很高兴，Niko。但也有别的地方能去吧。
 
 ;0xA738D3ED=GCA_ACT_SHOW_REACT
 0xA738D3ED=GCA_ACT_SHOW_REACT
@@ -525,10 +525,10 @@
 0xB618493F=100
 
 ;0xB929555A=~z~I need some Ritalin.
-0xB929555A=~z~我需要一些利他林(多动症治疗药)。
+0xB929555A=~z~我需要一些利他林*。~n~(多动症治疗药)
 
 ;0xBCE46DF0=~z~Well, what can I say about our time together...
-0xBCE46DF0=~z~好吧，我对我们在一起的时候还有什么好说呢...
+0xBCE46DF0=~z~好吧，我对我们共处的时光无话可说...
 
 ;0xBDFCF417=010
 0xBDFCF417=010
@@ -537,7 +537,7 @@
 0xBE6B45B2=GCA_ACT_LEAVE_SHOW_CABARET
 
 ;0xBF2C94BA=~z~Umm, I don't feel like I can get physical with you right now.
-0xBF2C94BA=~z~唔，我还不觉得现在就能跟你有肉体关系。
+0xBF2C94BA=~z~唔，我不觉得现在就能跟你有肉体关系。
 
 ;0xBF67F47A=~z~Goodnight, Alex.
 0xBF67F47A=~z~晚安，Alex。
@@ -546,13 +546,13 @@
 0xC0C8C1FC=100
 
 ;0xC195FFDB=~z~Umm, are you sure you want to go for a walk right now? Don't people get raped here? You better protect me.
-0xC195FFDB=~z~唔，你确定你要现在去散步吗？在这里走不是很容易被强奸的吗？最好由你来保护我。
+0xC195FFDB=~z~唔，你确定你要现在去散步吗？走这里很容易被强奸吧？你最好能保护我。
 
 ;0xC277019D=~z~Niko, this area looks very dangerous. People get killed outside of Algonquin. I trust you though.
 0xC277019D=~z~Niko，这地方看起来很危险。Algonquin以外的地方有很多杀人案。不过我相信你。
 
 ;0xC3636BEF=~z~As I said, that was repulsive. I am never, I mean ne-ver going there again.
-0xC3636BEF=~z~我说了，那地方很恶心。我再也不会，再也不会去那里了。
+0xC3636BEF=~z~我说了，那地方很恶心。我再也、再也不会去那里了。
 
 ;0xC49D080C=GCA_ACT_PAL_END_NO
 0xC49D080C=GCA_ACT_PAL_END_NO
@@ -627,7 +627,7 @@
 0xDE5BBC39=~z~我们来过这儿一次了。我还以为能看的都已经看完了。不过好像还没。
 
 ;0xDF61DE7F=~z~I was just getting into that. Me and that stripper had a connection. She understood me.
-0xDF61DE7F=~z~我就快要适应了。我和那个脱衣舞女有了默契。她能懂我。
+0xDF61DE7F=~z~我快习惯这里了。我和那个脱衣舞女有了默契。她能懂我。
 
 ;0xDF6EE48E=~z~Okay then.
 0xDF6EE48E=~z~那好吧。

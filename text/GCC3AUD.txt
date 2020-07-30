@@ -9,7 +9,7 @@
 0x02935622=GCC_ACT_BOWL_LEAVE_LOST
 
 ;0x03002A5F=~z~This ain't how I want tonight to end. Too bad.
-0x03002A5F=~z~这并不是今晚我想要的结果。真是糟透了。
+0x03002A5F=~z~我不想这样度过今晚。真遗憾。
 
 ;0x038CB7C8=~z~Baby, maybe next time, okay?
 0x038CB7C8=~z~宝贝，也许下次吧，好吗？
@@ -27,16 +27,16 @@
 0x06A6BEEE=~z~你知道里面有多少人渴望我的奶子吗？今晚是你走运。
 
 ;0x06A9B2AC=~z~Bye baby.
-0x06A9B2AC=~z~再见。
+0x06A9B2AC=~z~再见，宝贝。
 
 ;0x07378662=~z~Carmen had a real good time, Niko. This is something she could do again.
 0x07378662=~z~Carmen玩得很开心，Niko。她下次可能还想这样玩一次。
 
 ;0x07D6E06C=~z~You know where Carmen's place is. Come on, Niko.
-0x07D6E06C=~z~你知道Carmen的位置的。快来，Niko。
+0x07D6E06C=~z~你知道Carmen的家在哪。快点，Niko。
 
 ;0x07EED289=~z~At least I can say I seen it now.
-0x07EED289=~z~至少我能说我现在看到它了。
+0x07EED289=~z~至少多了点生活经验。
 
 ;0x080A50FB=GCC_ACT_POOL_LEAVE_ABANDON
 0x080A50FB=GCC_ACT_POOL_LEAVE_ABANDON
@@ -69,7 +69,7 @@
 0x1763DF52=~z~今晚不行，但那并不意味着我不喜欢你。
 
 ;0x1B7887AB=~z~You taking Carmen home, ain't you?
-0x1B7887AB=~z~你送Carmen回家，对吗？
+0x1B7887AB=~z~你要送Carmen回家，对吗？
 
 ;0x1B931A75=~z~Carmen ain't sure what you trying to do on this date.
 0x1B931A75=~z~Carmen不确定这次约会你想做什么。
@@ -81,7 +81,7 @@
 0x1DFB90BD=GCC_ACT_BOWL_LEAVE_ABANDON
 
 ;0x20678247=~z~That was fun.
-0x20678247=~z~那真是有趣。
+0x20678247=~z~真是有趣。
 
 ;0x20BB0337=100
 0x20BB0337=100
@@ -102,7 +102,7 @@
 0x245A1FE3=~z~我现在简直欲火焚身啊，Niko。
 
 ;0x27299F81=~z~Carmen's real horny, Niko. Why don't you find a quiet place where we can have some fun in the car?
-0x27299F81=~z~Carmen现在很渴望你的爱，Niko。你为什么不找个安静的地方然后我们在车里找点乐子呢？
+0x27299F81=~z~Carmen现在很饥渴，Niko。要么你找个安静的地方，我们在车里找点乐子吧？
 
 ;0x27945CC7=GCC_ACT_POOL_LEAVE_DRAW
 0x27945CC7=GCC_ACT_POOL_LEAVE_DRAW
@@ -111,7 +111,7 @@
 0x284EF5F6=~z~回见，Niko。
 
 ;0x287AD7D6=~z~You real impressive, Niko.
-0x287AD7D6=~z~你真令人印象深刻，Niko。
+0x287AD7D6=~z~令人印象深刻，Niko。
 
 ;0x2AF79764=~z~You treat Carmen okay.
 0x2AF79764=~z~你对Carmen还不错。
@@ -132,7 +132,7 @@
 0x2E428E46=GCC_ACT_PCA_END_KISS
 
 ;0x2EDEC10C=~z~This hasn't exactly been Carmen's dream date.
-0x2EDEC10C=~z~确切来说这这并不是Carmen所期待的约会。
+0x2EDEC10C=~z~这跟Carmen期待的约会南辕北辙。
 
 ;0x2F0EE2B0=GCC_ACT_DARTS_LEAVE_ABANDON
 0x2F0EE2B0=GCC_ACT_DARTS_LEAVE_ABANDON
@@ -153,7 +153,7 @@
 0x30D6F24B=100
 
 ;0x30F295E8=~z~Carmen has some fun in there. You can put away that vodka, Niko.
-0x30F295E8=~z~Carmen在这儿玩得很开心。你可以拿开那瓶伏特加，Niko。
+0x30F295E8=~z~Carmen在这儿玩得很开心。那瓶伏特加你可以收着，Niko。
 
 ;0x31BC27EC=~z~I'm not feeling it no more, baby. Just take me to my place.
 0x31BC27EC=~z~我已经玩够了。送我回家吧。
@@ -162,7 +162,7 @@
 0x32716664=~z~这有个找乐子的好地方。把车停这儿，Niko。
 
 ;0x32FB9685=~z~I ain't in the mood tonight but I'll probably be next time. See you soon, baby.
-0x32FB9685=~z~我今晚没有心情去，也许下次吧。再见，宝贝。
+0x32FB9685=~z~今晚我没有心情，也许下次吧。再见，宝贝。
 
 ;0x3351F08F=~z~Niko, I thought you wanted to get horny up in there?
 0x3351F08F=~z~Niko，你去那里不是为了爽的吗？
@@ -171,13 +171,13 @@
 0x33F7F958=GCC_ACT_LEAVE_PUB_FAVOURITE
 
 ;0x345A6A25=~z~Yes! I beat you at darts!
-0x345A6A25=~z~是的！我飞镖赢了你！
+0x345A6A25=~z~好！我飞镖赢了你！
 
 ;0x348CE21B=~z~What's up with you?
 0x348CE21B=~z~你怎么想的？
 
 ;0x383472EF=~z~I hope you got something out of that.
-0x383472EF=~z~我希望你能从中有所收获。
+0x383472EF=~z~希望你从中有所收获。
 
 ;0x3898433C=100
 0x3898433C=100
@@ -186,10 +186,10 @@
 0x391592D0=100
 
 ;0x393233D9=~z~Carmen kind of enjoyed herself.
-0x393233D9=~z~Carmen玩得很开心。
+0x393233D9=~z~Carmen玩得还挺开心。
 
 ;0x39B5FA4C=~z~Ain't you the big man?
-0x39B5FA4C=~z~难道你不是个大男子汉吗？
+0x39B5FA4C=~z~你还挺厉害嘛。
 
 ;0x39F46A44=~z~I would have dressed up more if I'd known we was going to that place.
 0x39F46A44=~z~早知道要去这家店，我就再打扮得好点了。
@@ -204,13 +204,13 @@
 0x3B2C02E2=100
 
 ;0x3F9C44BC=~z~I don't think I could have lasted that whole game out. Good thing it's over.
-0x3F9C44BC=~z~我不认为我可以玩完整局游戏。不过还好已经结束了。
+0x3F9C44BC=~z~我不认为我能玩完整局。幸好提前结束了。
 
 ;0x414A65E3=~z~Carmen didn't exactly have fun.
 0x414A65E3=~z~实际上，Carmen玩得并不开心。
 
 ;0x4313BA2A=~z~That got me in the mood, baby.
-0x4313BA2A=~z~那使我心情不错，宝贝。
+0x4313BA2A=~z~我心情很不错，宝贝。
 
 ;0x437A71D3=~z~That shit is fucking crazy.
 0x437A71D3=~z~实在太疯狂了。
@@ -243,22 +243,22 @@
 0x4A0D5384=~z~再见。
 
 ;0x4D0DCAA9=~z~Carmen feels your vibe baby. But she don't feel it like that tonight.
-0x4D0DCAA9=~z~Carmen感受到你的气氛。但她今晚不这么想。
+0x4D0DCAA9=~z~Carmen能体谅你的感受。但她今晚不太想来。
 
 ;0x4D996C60=~z~I want you to treat Carmen like a real lady. Find somewhere quiet to park this car.
-0x4D996C60=~z~我要你像对待一位真正的女士一样对待Carmen。找个安静的地方停车。
+0x4D996C60=~z~我希望你把Carmen当作真正的贵妇对待。找个安静的地方停车。
 
 ;0x4E1D4883=GCC_ACT_BOWL_LEAVE_DRAW
 0x4E1D4883=GCC_ACT_BOWL_LEAVE_DRAW
 
 ;0x4E7D6A29=~z~That was interesting.
-0x4E7D6A29=~z~那真有趣。
+0x4E7D6A29=~z~真有趣啊。
 
 ;0x4F1F5FB3=~z~I've had an alright time.
 0x4F1F5FB3=~z~我度过了一段不错的时光。
 
 ;0x4F40CACC=~z~Your loss, Carmen.
-0x4F40CACC=~z~你输了，Carmen。
+0x4F40CACC=~z~是你的损失，Carmen。
 
 ;0x4FA5B210=100
 0x4FA5B210=100
@@ -270,7 +270,7 @@
 0x53F936BE=100
 
 ;0x545838DD=~z~I don't think we should see each other no more. Carmen looking for a man who's big time. Sorry baby.
-0x545838DD=~z~我想我们不应该再见面了。Carmen想找一个时间充裕的男人。不好意思了。
+0x545838DD=~z~我想我们不应该再见面了。Carmen想找一个厉害的男人。不好意思了。
 
 ;0x551ED9CE=~z~Come in Niko, let's go.
 0x551ED9CE=~z~快进来，Niko，走吧。
@@ -297,7 +297,7 @@
 0x59F62CCD=100
 
 ;0x5BBFEE75=~z~Carmen getting real bored.
-0x5BBFEE75=~z~Carmen感到很无聊。
+0x5BBFEE75=~z~Carmen觉得很无聊。
 
 ;0x5BD8A3CA=GCC_ACT_PCA_END_RESPONSE
 0x5BD8A3CA=GCC_ACT_PCA_END_RESPONSE
@@ -315,7 +315,7 @@
 0x5DADB05F=~z~如果我进来我们两个都可以很快乐。
 
 ;0x5DC3BD08=~z~Carmen going to take you on a wild ride. Pull up over there.
-0x5DC3BD08=~z~Carmen要载你去兜风。把车停在那儿。
+0x5DC3BD08=~z~Carmen要带你爽一爽。把车停在那儿。
 
 ;0x60C75030=100
 0x60C75030=100
@@ -324,19 +324,19 @@
 0x62639329=~z~Carmen喜欢那样，你现在可以送她回家了。
 
 ;0x63448AFC=~z~I'm all cold now, Niko. The heat has left me. Just take me back to my place.
-0x63448AFC=~z~我受够了，Niko。我的热情已被浇灭。送我回去吧。
+0x63448AFC=~z~我受够了，Niko。我的火灭了。直接送我回去吧。
 
 ;0x6467923C=GCC_ACT_PCA_END_KISS_AGREE
 0x6467923C=GCC_ACT_PCA_END_KISS_AGREE
 
 ;0x648AF560=~z~Alright then.
-0x648AF560=~z~好的。
+0x648AF560=~z~好吧。
 
 ;0x6623F9D1=GCC_ACT_BORED_HOME
 0x6623F9D1=GCC_ACT_BORED_HOME
 
 ;0x6805D18C=~z~I know just the spot, Niko. It's over there.
-0x6805D18C=~z~我知道那个地方，Niko。在那边。
+0x6805D18C=~z~我知道个好地方，Niko。在那边。
 
 ;0x688374BB=GCC_ACT_PCA_END_GOOD_Y
 0x688374BB=GCC_ACT_PCA_END_GOOD_Y
@@ -348,22 +348,22 @@
 0x6AB294CE=~z~晚安，Carmen。
 
 ;0x6AB296DC=~z~I've had a good time.
-0x6AB296DC=~z~我过得很开心。
+0x6AB296DC=~z~我玩得很开心。
 
 ;0x6ABFF8F2=100
 0x6ABFF8F2=100
 
 ;0x6AC9B734=~z~Why's it taking so long to find something to do?
-0x6AC9B734=~z~为什么要花这么长时间才能找到事情做？
+0x6AC9B734=~z~怎么还没到下一个地方啊？
 
 ;0x6ADBD4E4=GCC_ACT_PCA_END_GOOD_N
 0x6ADBD4E4=GCC_ACT_PCA_END_GOOD_N
 
 ;0x6B068263=~z~Another time, maybe.
-0x6B068263=~z~下次吧。
+0x6B068263=~z~那就下次吧。
 
 ;0x6B0E94F0=~z~You lucky, lucky man. How lucky are you?
-0x6B0E94F0=~z~你很幸运。你有多幸运？
+0x6B0E94F0=~z~你很幸运，幸运儿。你有多幸运？
 
 ;0x6B4F4BA2=~z~If I've read the signals right, you want me to come inside as much as I do.
 0x6B4F4BA2=~z~如果我没想错，你也很希望我进去。
@@ -384,7 +384,7 @@
 0x73699897=~z~花越多时间打保龄球，我们做其他事的时间就越少，Niko。
 
 ;0x749DCADC=~z~Are we going to do something, or what?
-0x749DCADC=~z~我们是要去做些什么吗？
+0x749DCADC=~z~我们还有别的安排吗？
 
 ;0x74A137A4=~z~Carmen is finished now. Take her home.
 0x74A137A4=~z~Carmen已经玩够了。送她回家。
@@ -399,7 +399,7 @@
 0x79E983FD=~z~甚至连赢家都没有。那有什么意义？
 
 ;0x7A91C845=~z~You want to do something other than play pool with Carmen?
-0x7A91C845=~z~除了和Carmen打台球，你有其他想做的事情吗？
+0x7A91C845=~z~除了打台球，你就不想和Carmen做点别的吗？
 
 ;0x7B2977D3=~z~There's somewhere we can have fun, just over there.
 0x7B2977D3=~z~这儿有个我们可以玩得很嗨的地方，就在那边。
@@ -414,7 +414,7 @@
 0x7C783AB6=GCC_ACT_BOWL_LEAVE_WON
 
 ;0x7D4CB96C=~z~Me gusta. Me gusta. Papi. Papi.
-0x7D4CB96C=~z~我喜欢它。我喜欢它。爸爸。爸爸。
+0x7D4CB96C=~z~我喜欢你。我喜欢你。爸爸。爸爸。
 
 ;0x7DE94A34=~z~Mmmm, you remind me of my papi. Take me home, will you?
 0x7DE94A34=~z~嗯...你使我想起了我的爸爸。送我回家好吗？
@@ -429,22 +429,22 @@
 0x7F4E8210=~z~店虽然不高级，东西实在是好吃。
 
 ;0x7F84437B=~z~This is just not the spontaneous thing I was thinking of. Just take me back to my place, Niko.
-0x7F84437B=~z~这并不是我一开始所期待的事情。送我回家，Niko。
+0x7F84437B=~z~这不是我想的那个欲望。送我回家吧，Niko。
 
 ;0x80EA5301=~z~You got Carmen all hot, Niko. You want to find a place where we can park and we can enjoy each other?
-0x80EA5301=~z~你赢得了Carmen的芳心，Niko。你想找个地方停车然后和她亲热下吗？
+0x80EA5301=~z~你让Carmen动情了，Niko。你想找个地方停车然后和她亲热下吗？
 
 ;0x81B9AFC9=~z~I'll find something else to do.
 0x81B9AFC9=~z~我会找其他事去做。
 
 ;0x81BBB53B=~z~That how I like my bowling, short and sweet.
-0x81BBB53B=~z~这就是为什么我如此喜欢打保龄球，短暂而又甜美。
+0x81BBB53B=~z~我就喜欢这样的保龄球，快速愉悦。
 
 ;0x860FA250=~z~How many guys in that place you think I been with, Niko?
-0x860FA250=~z~你觉得我在那个地方跟多少人在一起过，Niko？
+0x860FA250=~z~你觉得我认识多少店里的人，Niko？
 
 ;0x86606E61=~z~Where you taking Carmen? She's getting bored.
-0x86606E61=~z~你带Carmen去了哪？她现在很无聊。
+0x86606E61=~z~你要带Carmen去哪？她现在很无聊。
 
 ;0x86C8DBFF=~z~You can take Carmen home now. She's had her fun.
 0x86C8DBFF=~z~你现在可以送Carmen回家了。她玩得很开心。
@@ -453,10 +453,10 @@
 0x86F8F4C7=GCC_ACT_PCA_END_NO_RESPONSE
 
 ;0x889BD00A=~z~You cannot hold Carmen down. You can't.
-0x889BD00A=~z~你不能强迫Carmen。你不能。
+0x889BD00A=~z~你无法束缚Carmen。你不能。
 
 ;0x8953E5C9=~z~You have something else on your mind than pool?
-0x8953E5C9=~z~你脑子里除了台球还有想其他的事情吗？
+0x8953E5C9=~z~你脑子里只有台球吗？
 
 ;0x8B8ACAD0=100
 0x8B8ACAD0=100
@@ -465,7 +465,7 @@
 0x8C116C15=100
 
 ;0x8DC964A5=~z~Let's get the fuck out of here.
-0x8DC964A5=~z~我们快他娘的离开这。
+0x8DC964A5=~z~我们快他妈走人吧。
 
 ;0x8E02F73E=~z~This is cool.
 0x8E02F73E=~z~没问题。
@@ -480,22 +480,22 @@
 0x8F4213B7=~z~你想让我进来陪你吗？
 
 ;0x902781F7=~z~This is boring, let's do something.
-0x902781F7=~z~这很无聊，我们做点其他事吧。
+0x902781F7=~z~太无聊了，找点事情做吧。
 
 ;0x912AE1BE=~z~So long, Carmen.
-0x912AE1BE=~z~这么久，Carmen。
+0x912AE1BE=~z~再见，Carmen。
 
 ;0x93CF78CB=~z~Let's be spontaneous, Niko. Find somewhere to park this car so we can have fun.
-0x93CF78CB=~z~让我们顺其自然，Niko。找个地方停车，这样我们才能玩得开心。
+0x93CF78CB=~z~遵从欲望吧，Niko。找个地方停车，方便我们交欢。
 
 ;0x942794C0=~z~I'm having fun, Niko. You got anywhere else you want to take me?
-0x942794C0=~z~我玩得正嗨呢，Niko。你有其他地方想带我去吗？
+0x942794C0=~z~我玩得正嗨呢，Niko。你想带我去其他地方吗？
 
 ;0x9427FBF2=010
 0x9427FBF2=010
 
 ;0x950A6E87=~z~You have lost your opportunity for outdoor fun with Carmen. Take me home instead.
-0x950A6E87=~z~你失去了和Carmen户外玩耍的机会。送我回家。
+0x950A6E87=~z~你没把握住和Carmen野外寻欢的机会。送我回家。
 
 ;0x952DEE31=100
 0x952DEE31=100
@@ -531,7 +531,7 @@
 0xA154B7DC=~z~我陪你进去吧？
 
 ;0xA1D982CB=~z~Catch you around, Carmen.
-0xA1D982CB=~z~回见，Carmen。
+0xA1D982CB=~z~之后见，Carmen。
 
 ;0xA2001FDC=~z~You sure can handle your stick, Niko.
 0xA2001FDC=~z~你的棒子功夫真好，Niko。
@@ -540,7 +540,7 @@
 0xA58343EF=100
 
 ;0xA6509113=~z~This isn't working, Niko. Just take me back to my place.
-0xA6509113=~z~这没效果，Niko。送我回去就好了。
+0xA6509113=~z~别这样了，Niko。送我回去就好了。
 
 ;0xA651AF59=GCC_ACT_END_BAD
 0xA651AF59=GCC_ACT_END_BAD
@@ -564,28 +564,28 @@
 0xAFF8D4F4=~z~如果我进来，我想我们会玩得很开心。
 
 ;0xB0342C72=~z~Carmen's feeling tired. Why don't you take her home?
-0xB0342C72=~z~Carmen累了。为什么你不送她回家呢？
+0xB0342C72=~z~Carmen累了。要么你送她回家吧？
 
 ;0xB0E64E3D=~z~Where we going next, baby? Carmen is having fun.
-0xB0E64E3D=~z~下一步你要去哪？Carmen玩得很开心呢。
+0xB0E64E3D=~z~接下来要去哪，宝贝？Carmen正在兴头上呢。
 
 ;0xB18149ED=GCC_ACT_END_GOOD
 0xB18149ED=GCC_ACT_END_GOOD
 
 ;0xB20B22F0=~z~That so funny.
-0xB20B22F0=~z~那真是有趣。
+0xB20B22F0=~z~太有趣了。
 
 ;0xB31A1855=100
 0xB31A1855=100
 
 ;0xB37B70E4=~z~What's the problem, Niko? You can't handle seeing all them sexy women with me there?
-0xB37B70E4=~z~怎么了，Niko？和我在一起，你无法好好看那些性感美女了吗？
+0xB37B70E4=~z~怎么了，Niko？和我在一起，你看那些性感美女还把持不住吗？
 
 ;0xB51D05BB=010
 0xB51D05BB=010
 
 ;0xB53FEDF2=~z~Maybe you can give Carmen the money you would have spent at a real restaurant.
-0xB53FEDF2=~z~也许你可以把你在大餐馆里花的钱给卡门。
+0xB53FEDF2=~z~也许你可以把你在大餐馆里花的钱给Carmen。
 
 ;0xB6D93525=~z~Winning at bowling is the one time you going to get lucky tonight, baby.
 0xB6D93525=~z~赢得保龄球比赛是你今晚唯一的幸运，宝贝。
@@ -597,7 +597,7 @@
 0xB901975B=GCC_ACT_LEAVE_CLUB_GENERIC
 
 ;0xBB129378=~z~Carmen can't help being good at this shit, even if it is bowling.
-0xBB129378=~z~即使是打保龄球，Carmen也无法打好。
+0xBB129378=~z~即使是打保龄球，Carmen也无法放水。
 
 ;0xBB7342F0=~z~Take Carmen home will you?
 0xBB7342F0=~z~你会送Carmen回家的吧？
@@ -606,19 +606,19 @@
 0xBDEFE850=~z~现在带Carmen去做点别的事，怎么样？
 
 ;0xBECA6BD5=~z~Ain't no winner there.
-0xBECA6BD5=~z~也不是没有赢家。
+0xBECA6BD5=~z~没有产生赢家。
 
 ;0xBEFF3CD0=~z~You like this, don't you?
-0xBEFF3CD0=~z~你喜欢这个，不是吗？
+0xBEFF3CD0=~z~你喜欢这样，不是吗？
 
 ;0xBEFFBD17=~z~Later.
 0xBEFFBD17=~z~回见。
 
 ;0xBF3B6022=~z~Can we do something already? Come on, Niko.
-0xBF3B6022=~z~我们能做点什么吗？快，Niko。
+0xBF3B6022=~z~能不能找点事做啊？快点，Niko。
 
 ;0xBF4D55C3=~z~That made me all excited, Niko.
-0xBF4D55C3=~z~那使我很兴奋，Niko。
+0xBF4D55C3=~z~我兴奋起来了，Niko。
 
 ;0xC043D76A=~z~Yeah, I had fun too. Give me your number and you might just get a call from me.
 0xC043D76A=~z~是啊，我也玩得很开心。给我你的电话吧，以后我可能会打过来找你。
@@ -666,7 +666,7 @@
 0xC6DC86BC=~z~你就没有什么想法吗？
 
 ;0xC7FED770=~z~You got the better score, Niko. Big man.
-0xC7FED770=~z~你得了更好的分数，Niko。干得漂亮。
+0xC7FED770=~z~你的分数更高，Niko。真强。
 
 ;0xCA9796A1=~z~Aha! I beat you at darts!
 0xCA9796A1=~z~哈！我飞镖赢了你！
@@ -675,7 +675,7 @@
 0xCB04E21F=~z~你能送Carmen回家吗？
 
 ;0xCCC1E58D=~z~But it's time to take Carmen home, baby.
-0xCCC1E58D=~z~但是该送Carmen回家了。
+0xCCC1E58D=~z~现在得送Carmen回家了。
 
 ;0xCD37DB3E=~z~You can't leave me like this.
 0xCD37DB3E=~z~你不能像这样丢下我。
@@ -705,10 +705,10 @@
 0xD0C35DB1=GCC_ACT_LEAVE_FASTFOOD
 
 ;0xD3B8664A=~z~Carmen loves this shit.
-0xD3B8664A=~z~Carmen喜欢这个。
+0xD3B8664A=~z~Carmen很喜欢。
 
 ;0xD47BE7C9=~z~Which one are you again?
-0xD47BE7C9=~z~哪一个你要再来一次？
+0xD47BE7C9=~z~你是谁来着？
 
 ;0xD71E9859=100
 0xD71E9859=100
@@ -729,7 +729,7 @@
 0xDB59F782=~z~我会打电话给你。
 
 ;0xE0C9AC73=~z~I ain't seen nothing like that before.
-0xE0C9AC73=~z~我之前没见过。
+0xE0C9AC73=~z~我之前没看过那种东西。
 
 ;0xE1D4E815=100
 0xE1D4E815=100
@@ -753,22 +753,22 @@
 0xE7B39035=~z~再见，Carmen。
 
 ;0xE8949D3E=~z~You can take me home now.
-0xE8949D3E=~z~你现在能送我回家了。
+0xE8949D3E=~z~你可以送我回家了。
 
 ;0xE8AFC7B8=~z~Them people is real snobs up in there.
 0xE8AFC7B8=~z~那里的人真是势利。
 
 ;0xE9C670DF=~z~Carmen beat you at bowling. I hope you feel like less of a man.
-0xE9C670DF=~z~Carmen打保龄球赢了你。我希望你觉得自己不像个男人。
+0xE9C670DF=~z~Carmen打保龄球赢了你。你这男人真可怜。
 
 ;0xE9D13F12=~z~You got anywhere else you want to take Carmen now?
-0xE9D13F12=~z~你现在有其他地方想带Carmen去的吗？
+0xE9D13F12=~z~你还想带Carmen去其他地方吗？
 
 ;0xEB468D80=~z~Huh? What the fuck?
 0xEB468D80=~z~哈？什么鬼？
 
 ;0xF042977C=~z~I ain't doing this shit.
-0xF042977C=~z~我拒绝做这鸟事。
+0xF042977C=~z~这样很讨厌诶。
 
 ;0xF0AC01E1=GCC_ACT_LEAVE_SHOW_CABARET
 0xF0AC01E1=GCC_ACT_LEAVE_SHOW_CABARET
@@ -789,7 +789,7 @@
 0xF89239BF=100
 
 ;0xF9443E9D=~z~Carmen would like to be taken home now.
-0xF9443E9D=~z~Carmen现在想要你送她回家。
+0xF9443E9D=~z~Carmen想要你送她回家。
 
 ;0xFE11ABB5=~z~Come on, get in here.
 0xFE11ABB5=~z~来吧，快进来。

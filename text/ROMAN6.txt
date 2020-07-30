@@ -21,7 +21,7 @@
 0x286FF571=前往~y~Schottler。
 
 ;0x2C7DFC65=Crouch to stay out of sight. Use ~INPUT_DUCK~ to crouch, this will make your aim more accurate.
-0x2C7DFC65=蹲下以不被发现。使用~INPUT_DUCK~蹲下，蹲下时瞄准精度更高。
+0x2C7DFC65=蹲下以不被发现。按~INPUT_DUCK~蹲下，蹲下时瞄准精度更高。
 
 ;0x2DF19640=Wait for Little Jacob to get into position.
 0x2DF19640=等待Little Jacob就位。
@@ -39,10 +39,10 @@
 0x4250C175=按~INPUT_RELOAD~装弹。
 
 ;0x4A0938A3=Go to the ~y~lookout spot.
-0x4A0938A3=前往~y~哨戒点。
+0x4A0938A3=前往~y~制高点。
 
 ;0x54EFCE70=Any weapon you pick up will go into your weapon inventory.
-0x54EFCE70=你得到的任何武器都会进入你的武器栏。
+0x54EFCE70=你得到的任何武器都会保存到你的武器栏。
 
 ;0x5EDCF80E=The target icon will indicate the height of the ~r~enemy~s~ in relation to you with an up or down arrow.
 0x5EDCF80E=目标图标会通过上下箭头表示~r~敌人~s~相对于你的位置。
@@ -66,7 +66,7 @@
 0xC4F32E79=~r~Little Jacob死了。
 
 ;0xC555AE16=Press ~INPUT_VEH_HORN~ to sound the horn to get Little Jacob's attention.
-0xC555AE16=按~INPUT_VEH_HORN~鸣笛以引起Little Jacob注意。
+0xC555AE16=按~INPUT_VEH_HORN~鸣笛引起Little Jacob注意。
 
 ;0xD8E0552B=Press ~INPUT_DUCK~ while crouched to stand.
 0xD8E0552B=蹲下时按~INPUT_DUCK~站起。

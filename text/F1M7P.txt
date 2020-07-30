@@ -1,6 +1,6 @@
 ﻿[F1M7P]
 ;0x0E4B44AF=You have ~1~ second to get back in the ~b~car.
-0x0E4B44AF=你还有~1~秒可以回到那辆~b~车~s~上。
+0x0E4B44AF=在~1~秒内回到~b~车~s~上。
 
 ;0x0F908A1D=Pick up the customer from ~y~Outlook.
 0x0F908A1D=去~y~Outlook~s~接上乘客。
@@ -48,7 +48,7 @@
 0x99931BCC=~r~乘客被吓跑了。
 
 ;0xAAACBDFF=Stop near the customer, or press ~INPUT_VEH_HORN~ to sound the horn to get the attention of the customer.
-0xAAACBDFF=停到顾客附近，或按~INPUT_VEH_HONG~鸣笛，以引起顾客的注意。
+0xAAACBDFF=停到乘客附近，或按~INPUT_VEH_HORN~鸣笛引起乘客的注意。
 
 ;0xAC908713=~s~Take the customer to ~y~Boulevard.
 0xAC908713=~s~将乘客送到~y~Boulevard。
@@ -78,7 +78,7 @@
 0xE0A5EB8D=去~y~Beechwood City~s~接上乘客。
 
 ;0xE37B2F9F=Go and get ~b~Roman's car~s~ for the pickup.
-0xE37B2F9F=去拿~b~Roman的车~s~来接单。
+0xE37B2F9F=去拿~b~Roman的车~s~进行接单。
 
 ;0xE7F33ACF=Pick up the customer from ~y~Hove Beach.
 0xE7F33ACF=去~y~Hove Beach~s~接上乘客。

@@ -3,13 +3,13 @@
 0x00176B52=~z~我可以进来吗？
 
 ;0x00270CC9=~z~Man, it's good to be bad sometimes.
-0x00270CC9=~z~天哪，有时候坏事也是好事。
+0x00270CC9=~z~天哪，偶尔干干坏事也不错。
 
 ;0x01CEBA9D=GCM_ACT_PMI_LEAVE_FAUSTINS_DENY
 0x01CEBA9D=GCM_ACT_PMI_LEAVE_FAUSTINS_DENY
 
 ;0x01E0405B=~z~Yes, I don't want anyone to get burnt - how about a kiss?
-0x01E0405B=~z~是的我不想任何人被伤害，来个吻怎么样？
+0x01E0405B=~z~是的，我也不想有人受伤，来个吻怎么样？
 
 ;0x01F08DA2=100
 0x01F08DA2=100
@@ -21,16 +21,16 @@
 0x03473D4E=100
 
 ;0x0367BD65=~z~Whatever you like, lady.
-0x0367BD65=~z~无论你喜欢什么都行，女士。
+0x0367BD65=~z~悉听尊便，女士。
 
 ;0x0390F164=~z~I always think that place is full of crooks - what do you like about it?
-0x0390F164=~z~我一直觉得那个地方到处都是骗子-你喜欢那里什么？
+0x0390F164=~z~我一直觉得那里罪犯很多，你觉得呢？
 
 ;0x04F203F3=~z~Here again Niko? Let's go for a stroll.
-0x04F203F3=~z~又是这里Niko？一起散步吧。
+0x04F203F3=~z~又是这里，Niko？一起散步吧。
 
 ;0x063670E5=~z~Well played, Niko.
-0x063670E5=~z~打的好，Niko.
+0x063670E5=~z~打得好，Niko.
 
 ;0x07553946=100
 0x07553946=100
@@ -39,13 +39,13 @@
 0x07964652=~z~我想你现在还买不起我，Niko.
 
 ;0x07E1237C=~z~Thank you - for a fun time.
-0x07E1237C=~z~谢谢你，祝你玩得开心。
+0x07E1237C=~z~谢谢你让我玩得开心。
 
 ;0x088E340A=GCM_ACT_DARTS_LEAVE_LOST
 0x088E340A=GCM_ACT_DARTS_LEAVE_LOST
 
 ;0x09501889=~z~Great.
-0x09501889=~z~太棒了。
+0x09501889=~z~好啊。
 
 ;0x09B65710=GCM_ACT_LEAVE_VLADS_FIRST
 0x09B65710=GCM_ACT_LEAVE_VLADS_FIRST
@@ -54,16 +54,16 @@
 0x0B55D24A=100
 
 ;0x0BDEBC15=~z~The food was too good - I can't believe I ate all that.
-0x0BDEBC15=~z~这里的吃的真的非常好吃 难以置信我竟然吃了这么多。
+0x0BDEBC15=~z~这里的吃的真好吃，我竟然吃了这么多。
 
 ;0x0C1B6562=~z~That was really odd - and that place was full of crooks.
-0x0C1B6562=~z~那可真是奇怪——那地方到处都是骗子。
+0x0C1B6562=~z~那可真是奇怪，而且那里罪犯很多。
 
 ;0x0E520B25=~z~I don't know, drinking maybe?
-0x0E520B25=~z~我不知道，也许喝酒吧？
+0x0E520B25=~z~我不知道，也许是酒吧？
 
 ;0x0EBBB135=~z~Good night - that was fun.
-0x0EBBB135=~z~很棒的夜晚，非常有趣。
+0x0EBBB135=~z~晚安，今天很开心。
 
 ;0x0F172A57=GCM_ACT_DARTS_LEAVE_ABANDON
 0x0F172A57=GCM_ACT_DARTS_LEAVE_ABANDON
@@ -72,7 +72,7 @@
 0x118CC4C7=010
 
 ;0x122D5AF0=~z~Okay, have fun on your own.
-0x122D5AF0=~z~好吧，你自己找乐子吧。
+0x122D5AF0=~z~好吧，祝你生活愉快。
 
 ;0x1322D6EE=MI1_ZA
 0x1322D6EE=MI1_ZA
@@ -81,16 +81,16 @@
 0x13E6C305=~z~谢谢，我喜欢那样的酒吧。
 
 ;0x14F52A12=~z~A tie is the best result, really.
-0x14F52A12=~z~打领带非常好，真的。
+0x14F52A12=~z~平局是最好的结果，真的。
 
 ;0x1564E1EF=~z~Niko are you aware of the consequences of that kind of thing? People get hurt, end up in court, you know.
-0x1564E1EF=~z~Niko，你知道这种事情的后果吗？人们会受伤，最后会上法庭。
+0x1564E1EF=~z~Niko，你知道这种事的后果吗？会有人受伤，最后会上法庭的。
 
 ;0x15DB96DA=~z~Can I come in?
 0x15DB96DA=~z~我可以进来吗？
 
 ;0x15FA77A3=~z~I really don't know about that sort of thing, Michelle.
-0x15FA77A3=~z~我真的不知道那件事，Michelle。
+0x15FA77A3=~z~我真的不知道那种事，Michelle。
 
 ;0x1669F3CE=~z~This girl is a great listener.
 0x1669F3CE=~z~这女孩是个好听众。
@@ -102,19 +102,19 @@
 0x180D1B9B=GCM_ACT_PMI_END_REJECT_RESPONSE
 
 ;0x19C49DCB=~z~That place is crawling with gangsters - what's the appeal to you?
-0x19C49DCB=~z~那地方到处都是流氓，你有什么想法？
+0x19C49DCB=~z~那家店到处都是黑帮，你怎么想的？
 
 ;0x19C9980F=~z~Fun place, but I think it was full of gangsters!
-0x19C9980F=~z~有趣的地方，但我觉得那里到处都是流氓！
+0x19C9980F=~z~有趣的地方，但我觉得那里到处都是黑帮！
 
 ;0x1AE09BE4=~z~Sure, I like you, but let's be careful. Make sure no one gets burnt.
 0x1AE09BE4=~z~当然，我喜欢你，但我们要小心。确保没有人被伤害。
 
 ;0x1B4A952E=~z~I'm new here. It's the only place I know, really.
-0x1B4A952E=~z~我是新来的。这是我唯一知道的地方，真的。
+0x1B4A952E=~z~我是新来的。我只知道这家店，真的。
 
 ;0x1B9E22E0=~z~You think I'm a whore, is that it? I bet this'll end up on the internet. Fuck you.
-0x1B9E22E0=~z~你以为我是个妓女，是这样吗？我赌我们结束了。我操你妈的。
+0x1B9E22E0=~z~你把我当成妓女，是这样吗？我会把这事发到网上的。操你妈。
 
 ;0x1BDAA50C=GCM_ACT_PMI_END_BONK
 0x1BDAA50C=GCM_ACT_PMI_END_BONK
@@ -123,7 +123,7 @@
 0x1C4FD291=GCM_ACT_PMI_END_NO_RESPONSE
 
 ;0x1C5BC532=~z~I hope I don't have my cholesterol checked any time soon.
-0x1C5BC532=~z~我希望我不会很快去检查胆固醇。
+0x1C5BC532=~z~希望我不会很快去检查胆固醇。
 
 ;0x1C9273DC=100
 0x1C9273DC=100
@@ -132,22 +132,22 @@
 0x1CBAE389=GCM_ACT_PMI_LEAVE_IRISH_DENY
 
 ;0x1D320C18=~z~That was fun, but to me those girls looked like they were on drugs.
-0x1D320C18=~z~那很有趣，但对我来说，那些女孩就像吸毒一样。
+0x1D320C18=~z~很有意思。但我觉得那些女孩可能吸毒了。
 
 ;0x1D6E7151=100
 0x1D6E7151=100
 
 ;0x1D70CE9F=~z~So, err, see you soon.
-0x1D70CE9F=~z~嗯，回头见。
+0x1D70CE9F=~z~那个，回头见。
 
 ;0x1E5BDA5D=100
 0x1E5BDA5D=100
 
 ;0x1F4D7B35=~z~No problem - I respect you - maybe we can kiss?
-0x1F4D7B35=~z~没问题，我尊重你，我们是不是可以亲一个？
+0x1F4D7B35=~z~没问题，我尊重你，那我们亲一个吧？
 
 ;0x1F6D41B2=~z~Oh, Niko, this is our special place, let's go for a walk...
-0x1F6D41B2=~z~哦Niko，这是我们的二人世界，我们去散步吧...
+0x1F6D41B2=~z~噢，Niko，这是我们的二人世界，我们去散步吧...
 
 ;0x20039BD9=~z~This is terrible.
 0x20039BD9=~z~糟糕透了。
@@ -159,19 +159,19 @@
 0x20F3AFE6=~z~嗯，我累了...
 
 ;0x24D7085C=~z~That was great Niko but I think I'm all worn out.
-0x24D7085C=~z~这非常棒Niko但是我觉得我精疲力尽了。
+0x24D7085C=~z~今天很开心，Niko。但是我已经精疲力尽了。
 
 ;0x265B0950=~z~No problem - I understand. I respect you. How about a kiss?
-0x265B0950=~z~没问题，我明白了。我尊重你。亲一个怎么样？
+0x265B0950=~z~没问题，我明白的。我尊重你。亲一个怎么样？
 
 ;0x266D315E=~z~Thanks Niko - that was a lot of fun.
-0x266D315E=~z~谢谢，Niko - 那真的非常有趣。
+0x266D315E=~z~谢谢，Niko，那真的非常有趣。
 
 ;0x270F769B=~z~Maybe. It's not my area of expertise.
 0x270F769B=~z~或许吧。我不擅长这个。
 
 ;0x2810B644=~z~After today, sure, but if this ends up on the internet, I'll kill you.
-0x2810B644=~z~当然，在今天之后，但如果这最终出现在互联网上，我会杀了你。
+0x2810B644=~z~既然约过会了，可以。要是被人传到网上，我杀了你。
 
 ;0x2A6FBCCF=010
 0x2A6FBCCF=010
@@ -189,7 +189,7 @@
 0x2E739796=~z~对不起，Niko。
 
 ;0x2F3426C4=~z~How about you take me home?
-0x2F3426C4=~z~你带我回家怎么样？
+0x2F3426C4=~z~你送我回家怎么样？
 
 ;0x2FBF186C=GCM_ACT_PMI_LEAVE_VLADS_PLAYER
 0x2FBF186C=GCM_ACT_PMI_LEAVE_VLADS_PLAYER
@@ -204,16 +204,16 @@
 0x31DF1A4F=~z~好的，女士。
 
 ;0x32E2DB54=~z~Hey, Niko, let's find something else to do, we can't go back yet!
-0x32E2DB54=~z~嘿Niko，让我们去找点别的事做，我们现在不能回去！
+0x32E2DB54=~z~嘿，Niko，我们再找点事做吧，现在回去太早了！
 
 ;0x33289999=100
 0x33289999=100
 
 ;0x3379EF61=~z~Why not?
-0x3379EF61=~z~有何不可？
+0x3379EF61=~z~何不呢？
 
 ;0x377E551F=~z~Sure, why not?
-0x377E551F=~z~当然,，有何不可？
+0x377E551F=~z~当然，何不呢？
 
 ;0x382F2205=100
 0x382F2205=100
@@ -222,10 +222,10 @@
 0x3841925B=GCM_ACT_PMI_LEAVE_IRISH_AGAIN
 
 ;0x389827C1=~z~Your loss.
-0x389827C1=~z~这是你亏了。
+0x389827C1=~z~你的损失。
 
 ;0x38B1ADFD=~z~Okay, no problem - how about a kiss?
-0x38B1ADFD=~z~Okay, no problem - how about a kiss?
+0x38B1ADFD=~z~好的，没问题。要么亲一个吧？
 
 ;0x39EEAA21=010
 0x39EEAA21=010
@@ -234,10 +234,10 @@
 0x3A53535F=MI1_A_KA
 
 ;0x3B91FD0C=~z~Great, but I hope you don't kiss and tell.
-0x3B91FD0C=~z~真他妈好，但我希望你不要亲嘴告诉我。
+0x3B91FD0C=~z~好啊，但希望你不用拿这事到处吹嘘。
 
 ;0x3BF5AC09=~z~I guess we're both tourists in this city, aren't we?
-0x3BF5AC09=~z~我觉得我们都是这个城市的游客吧？
+0x3BF5AC09=~z~我们大概都是这个城市的游客吧？
 
 ;0x4047DC3A=~z~Are you gonna take me back or what?
 0x4047DC3A=~z~你要带我回去还是干什么？
@@ -252,13 +252,13 @@
 0x422791CB=~z~我想打完一次台球。
 
 ;0x42677F72=~z~Okay, Niko, I'm real tired now.
-0x42677F72=~z~好吧，Niko，我现在真的很累了。
+0x42677F72=~z~好了，Niko，我现在真的很累了。
 
 ;0x43DFD28B=~z~Err, bye then. Call me.
-0x43DFD28B=~z~嗯，那下次见。记得打电话给我。
+0x43DFD28B=~z~嗯，下次见。记得打电话给我。
 
 ;0x452D7FE9=~z~I think we should stay out and have some more fun - you got any ideas?
-0x452D7FE9=~z~我觉得我们应该多出去玩一下——你有想法吗？
+0x452D7FE9=~z~我觉得我们应该多在外面玩一会儿，你有想法吗？
 
 ;0x45C03733=GCM_ACT_PMI_END_KISS_AGREE
 0x45C03733=GCM_ACT_PMI_END_KISS_AGREE
@@ -267,19 +267,19 @@
 0x4648C0AF=~z~和没来过自由城的人一起玩真是太棒了。
 
 ;0x4786794E=~z~Why do we go to Comrades so often - seems full of criminals to me?
-0x4786794E=~z~为什么你总来Comrades——这里似乎到处都是罪犯？
+0x4786794E=~z~为什么你总来Comrades？这里似乎到处都是罪犯。
 
 ;0x47A7230B=~z~So, err, goodnight Michelle.
 0x47A7230B=~z~那么，晚安Michelle。
 
 ;0x481DEB08=~z~We left too early - I was sort of enjoying that in a weird way.
-0x481DEB08=~z~我们走得太早了——我有点喜欢这种奇怪的方式了。
+0x481DEB08=~z~我们走得太早了，我在一定程度上看得还挺高兴。
 
 ;0x48295029=100
 0x48295029=100
 
 ;0x482A0AF7=~z~It's been interesting I guess, time to call it a night though.
-0x482A0AF7=~z~我想这会很有趣，不过今晚就先这样吧。
+0x482A0AF7=~z~今天很有趣，不过这次就先这样吧。
 
 ;0x4882CC57=MI1_UA
 0x4882CC57=MI1_UA
@@ -288,43 +288,43 @@
 0x4924FD6C=~z~我能进你的公寓吗?
 
 ;0x4A77D0BD=~z~A tie is the most fun - let's play pool again soon.
-0x4A77D0BD=~z~你的领带是最有趣的——下次再来打桌球吧。
+0x4A77D0BD=~z~平局最有趣了。下次再来打桌球吧。
 
 ;0x4AA32CF0=100
 0x4AA32CF0=100
 
 ;0x4B32FAE9=~z~Strange crowd in that place.
-0x4B32FAE9=~z~在那里有一群奇怪的人。
+0x4B32FAE9=~z~那里有一群怪人。
 
 ;0x4BBC7996=010
 0x4BBC7996=010
 
 ;0x4BBD1188=~z~Oh, you wanna go for a walk here again? Niko, you old romantic.
-0x4BBD1188=~z~噢，你又想去那里散步？Niko你真土。
+0x4BBD1188=~z~噢，你又想去那里散步？Niko，老派的浪漫。
 
 ;0x4D471352=~z~Irish mobsters? I'd have no idea about that.
-0x4D471352=~z~爱尔兰黑帮？我不知道那个。
+0x4D471352=~z~爱尔兰黑帮？我都没听说过。
 
 ;0x4E9578D5=~z~Most American guys race a girl back to her place at the end of a date - what gives, Niko?
-0x4E9578D5=~z~大多数美国男人会在约会结束后赶着一个女孩回家——这是为什么Niko？
+0x4E9578D5=~z~大多数美国男人约完会都会送女孩回家，这是为什么，Niko？
 
 ;0x4F24BA83=100
 0x4F24BA83=100
 
 ;0x4F3E8A20=~z~Is that all I am, a cheap fuck?
-0x4F3E8A20=~z~这就是我，卑鄙的混蛋？
+0x4F3E8A20=~z~这就是我的价值吗？把我当鸡？
 
 ;0x506CA6C1=~z~Great - hey, listen, I respect you.
 0x506CA6C1=~z~好吧，嘿，听着，我尊重你。
 
 ;0x50A8E9B1=~z~Can you take me home?
-0x50A8E9B1=~z~你能带我回家吗?
+0x50A8E9B1=~z~你能送我回家吗?
 
 ;0x51431A12=~z~This is genius!
-0x51431A12=~z~你真是个天才！
+0x51431A12=~z~太有才了！
 
 ;0x522531C6=~z~Next time, can we finish a game?
-0x522531C6=~z~下次，我们能完成一个比赛吗？
+0x522531C6=~z~下次，我们能打完整局吗？
 
 ;0x534DBCAE=GCM_ACT_LEAVE_CLUB_GENERIC
 0x534DBCAE=GCM_ACT_LEAVE_CLUB_GENERIC
@@ -333,16 +333,16 @@
 0x53CD3069=~z~嘿，你打败我了。现在你得告诉我一个关于你自己的小秘密。
 
 ;0x53D65B09=~z~Why do you like that place so much?
-0x53D65B09=~z~你为什么那么喜欢那个地方?
+0x53D65B09=~z~你怎么这么喜欢那个地方?
 
 ;0x556C157D=GCM_ACT_PMI_LEAVE_IRISH_PLAYER
 0x556C157D=GCM_ACT_PMI_LEAVE_IRISH_PLAYER
 
 ;0x559A7600=~z~Call me soon.
-0x559A7600=~z~快点打给我。
+0x559A7600=~z~尽快再约啊。
 
 ;0x56D98984=~z~I can't believe they call this shit entertainment.
-0x56D98984=~z~我真不敢相信他们把这叫做娱乐。
+0x56D98984=~z~他们居然管这种东西叫娱乐。
 
 ;0x594DC215=100
 0x594DC215=100
@@ -351,10 +351,10 @@
 0x5A54E741=GCM_ACT_LEAVE_VLADS_AGAIN
 
 ;0x5B0342C9=~z~This is a great idea, Niko, I love seeing a bit of the city, we should go for a walk...
-0x5B0342C9=~z~这真是个好主意，Niko，我喜欢看这个城市，我们应该去散散步...
+0x5B0342C9=~z~这真是个好主意，Niko。我很乐意看看这个城市，我们应该去散散步...
 
 ;0x5B8AEB33=~z~This really is a beautiful city, isn't it? Sometimes you can just forget about all the crime and stuff here, can't you?
-0x5B8AEB33=~z~这真是一个美丽的城市，不是吗？有时候你可以把这里的犯罪之类的事都忘掉，不是吗?
+0x5B8AEB33=~z~这真是一个美丽的城市，不是吗？在这里时甚至可以把一切罪过都忘掉，不是吗?
 
 ;0x5BAE1F5F=010
 0x5BAE1F5F=010
@@ -369,16 +369,16 @@
 0x604B7F44=~z~天呐，Niko，我累坏了，你可把我累坏了。
 
 ;0x60F86647=~z~I am such a pig.
-0x60F86647=~z~我真像头猪。
+0x60F86647=~z~我真能吃。
 
 ;0x612D948C=~z~Hey, I won. As a reward can you tell me some stuff about what you did before you got here?
-0x612D948C=~z~嘿，我赢了。作为奖励，你能告诉我一些你之前的事吗?
+0x612D948C=~z~嘿，我赢了。作为奖励，你能告诉我你来自由城之前的事吗?
 
 ;0x6130B9ED=~z~Oh my God - I can't believe this!
-0x6130B9ED=~z~天呐——真不敢相信！
+0x6130B9ED=~z~我的天呐，真不敢相信！
 
 ;0x662BFFB4=~z~You seem to like going to Perestroika. Why is that?
-0x662BFFB4=~z~你似乎喜欢去Perestroika.。为什么呢？
+0x662BFFB4=~z~你似乎喜欢去Perestroika。为什么呢？
 
 ;0x669EB887=GCM_ACT_POOL_LEAVE_DRAW
 0x669EB887=GCM_ACT_POOL_LEAVE_DRAW
@@ -393,7 +393,7 @@
 0x681FBB61=~z~我能上来喝杯热咖啡吗？
 
 ;0x69A34DE9=~z~Well, it's been fun, but I can't stay out any longer.
-0x69A34DE9=~z~好，这很有趣，但我不能再呆在外面了。
+0x69A34DE9=~z~玩得很高兴，但我不能再待在外面了。
 
 ;0x69BD8655=GCM_ACT_DARTS_LEAVE_DRAW
 0x69BD8655=GCM_ACT_DARTS_LEAVE_DRAW
@@ -402,10 +402,10 @@
 0x6BA24D52=GCM_ACT_PMI_END_REJECT
 
 ;0x6D6E862F=~z~Next time, we should play a proper game and finish it.
-0x6D6E862F=~z~下次，我们应该完成一次场像样的比赛。
+0x6D6E862F=~z~下次，我们应该从头到尾完整比完。
 
 ;0x6E0A1AC1=~z~I'm really enjoying myself Niko, but I'm real tired.
-0x6E0A1AC1=~z~我真的很享受这个Niko，但我真的累了。
+0x6E0A1AC1=~z~我真的很高兴，Niko，但我真的累了。
 
 ;0x6F0240B0=MI1_A_NA
 0x6F0240B0=MI1_A_NA
@@ -417,7 +417,7 @@
 0x6F96F960=100
 
 ;0x718BCEBA=~z~No you can't, I don't know you that well.
-0x718BCEBA=~z~不，你不能，我还不是太了解你。
+0x718BCEBA=~z~不，不能。我还不太了解你。
 
 ;0x722BE551=100
 0x722BE551=100
@@ -429,7 +429,7 @@
 0x728E6DEB=~z~好吧，你打保龄球赢了我。那现在你至少对我敞开一点心扉吧。
 
 ;0x73729B02=~z~It's amazing that this city can be so pretty but so dangerous too, don't you think?
-0x73729B02=~z~令人惊讶的是，这个城市如此的美丽，但也如此危险，你认为呢？
+0x73729B02=~z~这个城市如此美丽，但也如此危险，不是很奇妙吗？
 
 ;0x74BDE42F=MI1_A_AA
 0x74BDE42F=MI1_A_AA
@@ -450,37 +450,37 @@
 0x7878A451=~z~你真的很喜欢那个地方，不是吗？
 
 ;0x7A8ABD70=~z~Can you drop me back at my place?
-0x7A8ABD70=~z~你能带我回家吗？
+0x7A8ABD70=~z~你能把我送回家吗？
 
 ;0x7C802638=GCM_ACT_PMI_END_YES
 0x7C802638=GCM_ACT_PMI_END_YES
 
 ;0x7DCF58E1=~z~I'm getting a little antsy Niko, I hope we're gonna be there soon?
-0x7DCF58E1=~z~我有一点烦了Niko，希望我们能快点到那里吗？
+0x7DCF58E1=~z~我有一点烦了，Niko。我们过多久能到啊？
 
 ;0x8162FB20=GCM_ACT_POOL_LEAVE_WON
 0x8162FB20=GCM_ACT_POOL_LEAVE_WON
 
 ;0x81826EA7=~z~You think I'm that easy?
-0x81826EA7=~z~你觉得我这么简单？
+0x81826EA7=~z~你觉得我这么轻浮？
 
 ;0x81ED9907=100
 0x81ED9907=100
 
 ;0x841FE410=~z~This is funny - just not as they intended.
-0x841FE410=~z~这很有趣——不像人们想的那样。
+0x841FE410=~z~某种意义上的有趣。
 
 ;0x85D13FBF=~z~Liberty City is an amazing place, isn't it? That's probably why it attracts so many crooks, don't you think, Niko?
-0x85D13FBF=~z~自由城是个神奇的地方，不是吗？这可能就是它吸引这么多罪犯的原因，你不这样认为吗，Niko?
+0x85D13FBF=~z~自由城是个神奇的地方，不是吗？可能因此才会引来这么多罪犯吧，你不这么觉得吗，Niko?
 
 ;0x861D8070=~z~Why'd you quit bowling, Niko? It's almost like you don't want me to find out about your life.
-0x861D8070=~z~Niko，你为什么不打保龄球了？就好像你不想让我知道你的生活一样。
+0x861D8070=~z~Niko，你怎么不打了？就像你不想让我了解你的生活一样。
 
 ;0x86A4DA73=~z~Weird crowd in that place - packed with criminals.
-0x86A4DA73=~z~那个地方有一群奇怪的人，都是罪犯。
+0x86A4DA73=~z~那家店的顾客很怪，都是罪犯。
 
 ;0x88BD59D5=~z~Will you take me home?
-0x88BD59D5=~z~能带我回家吗？
+0x88BD59D5=~z~能送我回家吗？
 
 ;0x89168E60=100
 0x89168E60=100
@@ -495,25 +495,25 @@
 0x8C33B03F=GCM_ACT_LEAVE_SHOW_CABARET
 
 ;0x8CA8FF73=~z~I shouldn't, but I like you.
-0x8CA8FF73=~z~我不应该，但我喜欢你。
+0x8CA8FF73=~z~我不该这么做，但我喜欢你。
 
 ;0x8CAB261C=~z~This is a great spot, Niko, I can't remember when I last came here. Why don't we have a look around?
-0x8CAB261C=~z~这真是个好地方，Niko我不记得上次什么时候来的了。我们为什么不四处转转呢？
+0x8CAB261C=~z~这真是个好地方，Niko。我都不记得上次来是什么时候了。要么我们四处转转吧？
 
 ;0x8E26B014=GCM_ACT_PMI_LEAVE_IRISH_REPLY
 0x8E26B014=GCM_ACT_PMI_LEAVE_IRISH_REPLY
 
 ;0x8EA5FA8E=~z~Jeez Niko, you sure do pick your date locations, this is a long trip.
-0x8EA5FA8E=~z~天呐Niko，你一定要选择约会地点，这是一个漫长的过程。
+0x8EA5FA8E=~z~天呐，Niko，你真会挑约会地点，这次路好远。
 
 ;0x8F5E52D9=~z~Most of the time, I'm kind of depressed, but there are moments when I'm happy to be in Liberty City.
-0x8F5E52D9=~z~大多数时候，我有点沮丧，但也有一些时候，我很高兴能来自由城。
+0x8F5E52D9=~z~大多数时候我都有点沮丧，但也有一些时候，我很高兴能来自由城。
 
 ;0x8FD043F6=~z~I must have gained fifty pounds.
-0x8FD043F6=~z~我一定长了50磅。
+0x8FD043F6=~z~我一定重了50磅。
 
 ;0x91DF85FE=~z~I've never been there before. But I think some of the guys in there might have been gangsters.
-0x91DF85FE=~z~我以前从未去过那里。但我想里面的一些人可能会是黑帮。
+0x91DF85FE=~z~我以前从未去过那里。但我想那里的有些人是黑帮。
 
 ;0x92138152=MI1_YA
 0x92138152=MI1_YA
@@ -525,7 +525,7 @@
 0x929330CF=GCM_ACT_PMI_END_KISS_RESPONSE
 
 ;0x944BFAC8=~z~Well, now that you've lost to me at bowling you've got nothing to hide from me.
-0x944BFAC8=~z~嗯，既然你在保龄球比赛中输给了我，那你对我就没什么可隐瞒的了。
+0x944BFAC8=~z~嗯，既然你在保龄球比赛中输给了我，你就不能对我隐瞒了。
 
 ;0x96681205=GCM_ACT_LEAVE_STANDARD
 0x96681205=GCM_ACT_LEAVE_STANDARD
@@ -534,10 +534,10 @@
 0x97DD23EF=~z~好吧，我猜你有重要的事要做。什么事?
 
 ;0x98653779=~z~Hey, we tied. I like you, Niko. I'd like you even more if you were more honest about what you do for a living.
-0x98653779=~z~嘿，我们累了，我喜欢你Niko。如果你对自己的工作的事诚实一点，我会更喜欢你。
+0x98653779=~z~嘿，我们平了。我喜欢你，Niko。如果你能告诉我更多关于你工作的事，我会更喜欢你。
 
 ;0x9905FA66=~z~Are you gonna escort me to my apartment?
-0x9905FA66=~z~你要陪我去我公寓吗?
+0x9905FA66=~z~你会送我回公寓吗?
 
 ;0x99B210A6=~z~Are we gonna do something or what Niko?
 0x99B210A6=~z~我们要做点什么吗，Niko?
@@ -552,7 +552,7 @@
 0x9D658BDF=090
 
 ;0x9FB6C554=~z~Great - we'll have fun.
-0x9FB6C554=~z~太棒了，我们会玩的很开心。
+0x9FB6C554=~z~太棒了，我们会很开心的。
 
 ;0xA57A6F4A=~z~I am so full.
 0xA57A6F4A=~z~我太饱了。
@@ -570,13 +570,13 @@
 0xA6F85ED1=GCM_ACT_PMI_END_RESPONSE
 
 ;0xA8233EDD=~z~I haven't really thought about it.
-0xA8233EDD=~z~我都还没有想过这个。
+0xA8233EDD=~z~我还真没想过。
 
 ;0xA833404F=MI1_SA
 0xA833404F=MI1_SA
 
 ;0xAB31B3A5=~z~Hmm, this sure is a long trip...
-0xAB31B3A5=~z~嗯，这确实是一次长途旅行...
+0xAB31B3A5=~z~嗯，这次路很远啊...
 
 ;0xAC147495=100
 0xAC147495=100
@@ -585,10 +585,10 @@
 0xAD323A6D=MI1_RA
 
 ;0xAD68A32F=~z~Why don't you give me a lift home?
-0xAD68A32F=~z~你为什么不送我回家呢？
+0xAD68A32F=~z~要么你顺便送我回家吧？
 
 ;0xADC1D625=~z~It's been okay, Niko, but I'm beat.
-0xADC1D625=~z~没事的Niko，我只是有点累。
+0xADC1D625=~z~今天很高兴，Niko，但我累了。
 
 ;0xAE64E2A9=010
 0xAE64E2A9=010
@@ -600,10 +600,10 @@
 0xAEF75579=~z~你不觉得这很有趣吗，Niko？
 
 ;0xAF251CA2=~z~I'm beat Niko, I guess having fun does that to you.
-0xAF251CA2=~z~我打败了你Niko，我猜你也玩得很开心吧。
+0xAF251CA2=~z~我好累啊，Niko，我猜这是快乐的副作用。
 
 ;0xAFED6C80=~z~Interesting bar - do you think those guys were crooks?
-0xAFED6C80=~z~有趣的酒吧——你觉得那些人是骗子吗?
+0xAFED6C80=~z~有趣的酒吧，你觉得那些人是罪犯吗?
 
 ;0xAFF05557=GCM_ACT_PMI_END_NO
 0xAFF05557=GCM_ACT_PMI_END_NO
@@ -615,13 +615,13 @@
 0xB2CDACCE=GCM_ACT_PMI_LEAVE_IRISH_FIRST
 
 ;0xB448110E=~z~No, no idea.
-0xB448110E=~z~不，没门。
+0xB448110E=~z~不，不知道。
 
 ;0xB590D9B8=~z~Doesn't everyone like them?
-0xB590D9B8=~z~不是每个人都喜欢吗?
+0xB590D9B8=~z~所有人都会喜欢吧?
 
 ;0xB5A6B557=~z~What is it with you and the Irish?
-0xB5A6B557=~z~你和爱尔兰人是怎么回事？
+0xB5A6B557=~z~你和爱尔兰人有关系吗？
 
 ;0xB8E4B8C5=~z~Maybe it's not that bad here.
 0xB8E4B8C5=~z~这里好像也没那么糟。
@@ -633,7 +633,7 @@
 0xBB560EFC=100
 
 ;0xBCABF0E2=~z~This is hysterical!
-0xBCABF0E2=~z~这真是可笑！
+0xBCABF0E2=~z~太好笑了！
 
 ;0xBD80A572=MI1_TA
 0xBD80A572=MI1_TA
@@ -645,7 +645,7 @@
 0xBFD79000=100
 
 ;0xC0C0DFD0=~z~I don't know. It's the Eastern Bloc thing, I suppose.
-0xC0C0DFD0=~z~我不知道。我认为这是Eastern Bloc的事情。
+0xC0C0DFD0=~z~我不知道。大概是东欧圈的缘故吧。
 
 ;0xC1C25838=100
 0xC1C25838=100
@@ -660,7 +660,7 @@
 0xC3AECFBB=~z~你还不带我回家吗?
 
 ;0xC5B80100=~z~I don't think I'm ready to go home yet, you wanna do something else?
-0xC5B80100=~z~我还没打算好回家，你还想做点别的吗?
+0xC5B80100=~z~我还没打算回家，你想再做点别的吗?
 
 ;0xC5C7A6C0=~z~That was fun.
 0xC5C7A6C0=~z~那真有趣。
@@ -672,19 +672,19 @@
 0xC8CD815C=100
 
 ;0xC9DF3C3C=~z~Well, I don't know.
-0xC9DF3C3C=~z~好的，我不知道。
+0xC9DF3C3C=~z~好吧，我不知道。
 
 ;0xCAA30346=~z~Yeah, well, not what I expected.
-0xCAA30346=~z~是，好吧，不是我想的那样。
+0xCAA30346=~z~好吧，不是我想的那样。
 
 ;0xCC40F5C3=~z~What's taking so long?
-0xCC40F5C3=~z~怎么这么久？
+0xCC40F5C3=~z~怎么这么慢？
 
 ;0xCCD804D4=~z~You going to invite me in?
-0xCCD804D4=~z~你是要邀请我进来吗？
+0xCCD804D4=~z~你能请我进去吗？
 
 ;0xCD5E520F=~z~I'd invite you in for some coffee, but it'd cost at least, say... $20m
-0xCD5E520F=~z~我想请你喝杯咖啡，但也得得花点钱，比如说...20美元
+0xCD5E520F=~z~我很乐意请你喝杯咖啡，但怎么说也要...两千万美元吧。
 
 ;0xCF99C519=100
 0xCF99C519=100
@@ -693,7 +693,7 @@
 0xCFD0280B=~z~当然。
 
 ;0xCFE96830=~z~I need to get back to my place, will you take me?
-0xCFE96830=~z~我要回家，你能带我去吗？
+0xCFE96830=~z~我需要回家了，你能带我去吗？
 
 ;0xD00A9CBC=010
 0xD00A9CBC=010
@@ -702,7 +702,7 @@
 0xD089AA93=GCM_ACT_LEAVE_SHOW_EARLY
 
 ;0xD20D82B5=~z~It just reminds me of home, I guess.
-0xD20D82B5=~z~我想这让我想到了家。
+0xD20D82B5=~z~这会让我想起故乡。
 
 ;0xD3103E83=010
 0xD3103E83=010
@@ -714,13 +714,13 @@
 0xD4744AB9=GCM_ACT_PMI_LEAVE_FAUSTINS_PLAYER
 
 ;0xD55F9A76=~z~Well I don't know about that.
-0xD55F9A76=~z~我不知道。
+0xD55F9A76=~z~这我倒不知道。
 
 ;0xD6CC3A14=~z~That was naughty - I can't believe we ate all that crap!
-0xD6CC3A14=~z~胡闹——简直不敢相信我们吃了这么多垃圾东西！
+0xD6CC3A14=~z~太可怕了，没想到我们把那玩意吃完了！
 
 ;0xD751E950=~z~I told you I was good at darts, Niko.
-0xD751E950=~z~我可告诉过你我擅长飞镖，Niko。
+0xD751E950=~z~我就说我擅长飞镖吧，Niko。
 
 ;0xD78A2BAE=GCM_ACT_DARTS_LEAVE_WON
 0xD78A2BAE=GCM_ACT_DARTS_LEAVE_WON
@@ -732,22 +732,22 @@
 0xD8125CB6=100
 
 ;0xD815D8A9=~z~Irish mobsters? I have no idea about that.
-0xD815D8A9=~z~爱尔兰黑帮？我一点也不知道。
+0xD815D8A9=~z~爱尔兰黑帮？我完全不知道。
 
 ;0xD9223845=GCM_ACT_SHOW_REACT_NEG
 0xD9223845=GCM_ACT_SHOW_REACT_NEG
 
 ;0xD9317C6C=~z~What do you like about those Irish places?
-0xD9317C6C=~z~你喜欢Irish的什么？
+0xD9317C6C=~z~你喜欢爱尔兰酒吧的哪里？
 
 ;0xD9A77E18=~z~Okay, call me.
-0xD9A77E18=~z~好的，打电话给我。
+0xD9A77E18=~z~好的，有空再找我。
 
 ;0xDB90A245=~z~Are you going to invite me in? For a coffee, I mean?
-0xDB90A245=~z~你要请我进去吗?我是说喝杯咖啡?
+0xDB90A245=~z~你会请我进去吗？就是进去喝杯咖啡?
 
 ;0xDBD31C1F=~z~You did well, Niko.
-0xDBD31C1F=~z~你做的不错，Niko。
+0xDBD31C1F=~z~你做得不错，Niko。
 
 ;0xDD455C6F=MI1_WA
 0xDD455C6F=MI1_WA
@@ -756,7 +756,7 @@
 0xDD6CCE98=~z~再见。
 
 ;0xDDDA08E0=~z~What a strange crowd - they all belonged in jail.
-0xDDDA08E0=~z~多么奇怪的一群人啊——他们都应该进监狱。
+0xDDDA08E0=~z~这些顾客好怪，他们应该在坐牢的
 
 ;0xDE219851=~z~That wasn't very good.
 0xDE219851=~z~那真是太棒了。
@@ -765,31 +765,31 @@
 0xDFD3D6AB=GCM_ACT_PMI_LEAVE_VLADS_DENY
 
 ;0xE1300D29=~z~Call me. Goodnight.
-0xE1300D29=~z~打给我。晚安。
+0xE1300D29=~z~记得找我。晚安。
 
 ;0xE1409D4F=~z~We should have stayed to the end.
 0xE1409D4F=~z~我们应该一直呆到最后。
 
 ;0xE2ABD522=~z~I told you I was great at pool.
-0xE2ABD522=~z~我告诉过你我对桌球十分拿手。
+0xE2ABD522=~z~我就说我很擅长台球。
 
 ;0xE2CBF0E8=~z~Why did you stop? We weren't finished yet.
-0xE2CBF0E8=~z~你为什么停下来?我们还没做完呢。
+0xE2CBF0E8=~z~你怎么不玩了？还没分出胜负呢。
 
 ;0xE354483E=~z~That was fun - you did well.
-0xE354483E=~z~那很有趣，你干得漂亮。
+0xE354483E=~z~很有趣，你干得不错。
 
 ;0xE3A3DA7E=010
 0xE3A3DA7E=010
 
 ;0xE50239BB=~z~Umm, I don't know about that kind of thing.
-0xE50239BB=~z~嗯，我不知道那种事。
+0xE50239BB=~z~呃，我不知道那种事。
 
 ;0xE5575E31=~z~Nice seeing you.
 0xE5575E31=~z~很高兴见到你。
 
 ;0xE6B855DB=~z~Anything for my country.
-0xE6B855DB=~z~为了我的国家。
+0xE6B855DB=~z~都是为了国家。
 
 ;0xE765B4F7=100
 0xE765B4F7=100
@@ -810,7 +810,7 @@
 0xEA01293D=100
 
 ;0xEC118F49=~z~For coffee or something? I don't want to get burned Niko.
-0xEC118F49=~z~喝咖啡什么的？我不想被烫伤Niko。
+0xEC118F49=~z~真的是喝咖啡吗？我不想被骗，Niko。
 
 ;0xEE80CB01=~z~Alright, Niko...
 0xEE80CB01=~z~好吧，Niko...
@@ -831,13 +831,13 @@
 0xF44BAF92=~z~她人确实挺好，但就是有一些古怪。
 
 ;0xF47406E4=~z~Interesting place - seems like the kind of place Irish mobsters would like to hang out, don't you think?
-0xF47406E4=~z~有趣的地方——这似乎是爱尔兰黑帮喜欢去的地方，你不觉得吗?
+0xF47406E4=~z~有趣的地方。似乎是爱尔兰黑帮喜欢去的地方，你不觉得吗?
 
 ;0xF4F1F9AE=~z~Unlucky Niko.
-0xF4F1F9AE=~z~真倒霉Niko。
+0xF4F1F9AE=~z~真倒霉，Niko。
 
 ;0xF58849AA=~z~Uh, it's just the first place I went to.
-0xF58849AA=~z~呃，这正好是我第一次去的地方。
+0xF58849AA=~z~呃，因为这是我最早去的一家店。
 
 ;0xF59A26FC=100
 0xF59A26FC=100
@@ -864,19 +864,19 @@
 0xFB2065F7=~z~大概吧!
 
 ;0xFB238A05=~z~That was fun, see you soon.
-0xFB238A05=~z~那真有趣，下次见。
+0xFB238A05=~z~今天真高兴，下次见。
 
 ;0xFB826C94=~z~That was fun, is there something else you want to do?
-0xFB826C94=~z~那很有趣，你还有什么别的想做吗?
+0xFB826C94=~z~那很有趣，你还想做别的吗?
 
 ;0xFC66E6CD=~z~I dunno, Niko...
-0xFC66E6CD=~z~我不知道Niko...
+0xFC66E6CD=~z~我不知道，Niko...
 
 ;0xFDFE2E85=100
 0xFDFE2E85=100
 
 ;0xFEDF6C40=~z~It's fun, you know?
-0xFEDF6C40=~z~你知道吗，这真有趣？
+0xFEDF6C40=~z~很有趣好吧。
 
 ;0xFFB64663=~z~I think she likes me.
 0xFFB64663=~z~感觉她喜欢我。

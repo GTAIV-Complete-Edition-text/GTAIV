@@ -1,6 +1,6 @@
 ﻿[R6AUD]
 ;0x0038D738=~z~Are you worried about this?
-0x0038D738=~z~你这样会紧张吗？
+0x0038D738=~z~你担心我的技术吗？
 
 ;0x00C6231B=~z~Likes to smoke a bit. Look after him.
 0x00C6231B=~z~有点喜欢抽草。照顾好他。
@@ -60,7 +60,7 @@
 0x2386F256=R6_MA
 
 ;0x23A3AB4C=~z~What dis? I thought there was only going to be one of yous coming?
-0x23A3AB4C=~z~怎么回事？你们不是该只来一个人吗？
+0x23A3AB4C=~z~怎么回事？你们不是只该派一个人吗？
 
 ;0x23D11E4B=102102
 0x23D11E4B=102102
@@ -183,7 +183,7 @@
 0x680B22E0=R6_CI
 
 ;0x68686F3A=~z~Niko, man, we should talk some time - I'm a good listener.
-0x68686F3A=~z~Niko，老弟，我们是该抽时间聊聊了，我是个好听众。
+0x68686F3A=~z~Niko，老弟，我们该抽时间聊聊了，我是个好听众。
 
 ;0x68C531F7=~z~Jacob. Oh, Oh... I don't want know what happened.
 0x68C531F7=~z~Jacob。噢，噢...我不想知道到底怎么了。
@@ -351,7 +351,7 @@
 0xC90090DF=~z~下来吧，回家庭咖啡馆。
 
 ;0xC98069C8=~z~I guess so.
-0xC98069C8=~z~我就知道。
+0xC98069C8=~z~我想是的。
 
 ;0xCB36B4E4=~z~Head into town. I don't give a fuck if the bridge is busy, you're a cab driver! Hey.
 0xCB36B4E4=~z~给我进城。我他妈才不管桥上堵不堵，你丫可是个的士司机！嘿 。
@@ -444,7 +444,7 @@
 0xF8903E4C=R6_CC
 
 ;0xF8E11034=~z~Yes, I'll... I'll tell him.
-0xF8E11034=~z~好的，我会...我会告诉他的。
+0xF8E11034=~z~好的，我会...我会转告他的。
 
 ;0xFA408538=R6_KA
 0xFA408538=R6_KA

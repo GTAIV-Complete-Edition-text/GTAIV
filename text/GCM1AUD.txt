@@ -3,13 +3,13 @@
 0x003257FA=100
 
 ;0x033AD5BE=~z~Yes, pick me up in an hour.
-0x033AD5BE=~z~好，一小时后来接我。
+0x033AD5BE=~z~好，一小时内来接我。
 
 ;0x041A8DA0=100
 0x041A8DA0=100
 
 ;0x044881EA=~z~Michelle, it's Niko.
-0x044881EA=~z~Michelle, 我是Niko.
+0x044881EA=~z~Michelle，我是Niko。
 
 ;0x05F0A343=GCM_ACT_PMI_GETCALL_HOSP_NO
 0x05F0A343=GCM_ACT_PMI_GETCALL_HOSP_NO
@@ -18,19 +18,19 @@
 0x0688F1FB=~z~好极了，一小时后见吧。
 
 ;0x069B45EC=~z~Thanks - I really needed to feel like shit about myself. Thanks a lot.
-0x069B45EC=~z~谢谢，我真的需要对自己有糟糕的感觉。太感谢了。
+0x069B45EC=~z~谢谢，我正好需要被打击一下。太谢谢了。
 
 ;0x0803BBCA=~z~Great, Niko - see you soon.
-0x0803BBCA=~z~太棒了Niko - 待会儿见。
+0x0803BBCA=~z~太棒了，Niko。待会儿见。
 
 ;0x097E99F3=~z~What are you doing? You wanna hang out?
-0x097E99F3=~z~你现在做什么?你想出去玩吗?
+0x097E99F3=~z~你现在在干嘛？想出去玩吗？
 
 ;0x0A112F8F=~z~I don't think so Niko. I'm still really mad at you because of what you did... another time, maybe.
-0x0A112F8F=~z~我不这样认为Niko。因为你所做的，我还是很生你的气...也许下次吧。
+0x0A112F8F=~z~算了吧，Niko。你之前的作为还是很让我生气...还是改天再说吧。
 
 ;0x0B566C04=~z~Sure, I'll be there in an hour.
-0x0B566C04=~z~当然，我一小时后到。
+0x0B566C04=~z~当然，我一小时内到。
 
 ;0x0B87B99B=010
 0x0B87B99B=010
@@ -48,7 +48,7 @@
 0x0DF7F77B=100
 
 ;0x107F1A5B=~z~Hi, it's Niko... Niko Bellic.
-0x107F1A5B=~z~嗨，我是Niko...Niko Bellic.
+0x107F1A5B=~z~嗨，我是Niko...Niko Bellic。
 
 ;0x1296BE59=100
 0x1296BE59=100
@@ -63,31 +63,31 @@
 0x14527088=100
 
 ;0x14DBAD4A=~z~I haven't heard from you in a while, thought you'd forgotten about me.
-0x14DBAD4A=~z~好久没有你的消息了，还以为你把我忘了。
+0x14DBAD4A=~z~好久没有你的消息，我还以为你把我忘了。
 
 ;0x174C27F5=~z~Hi Michelle.
-0x174C27F5=~z~嘿Michelle。
+0x174C27F5=~z~嗨，Michelle。
 
 ;0x18E1E1D3=GCM_ACT_GETCALL_HOSP_ACCEPT
 0x18E1E1D3=GCM_ACT_GETCALL_HOSP_ACCEPT
 
 ;0x1A96AE86=~z~Hello Michelle.
-0x1A96AE86=~z~哈喽Michelle.
+0x1A96AE86=~z~你好，Michelle。
 
 ;0x1B333D5C=~z~You busy? I mean you want to spend some time together?
-0x1B333D5C=~z~你忙吗?我是说你想和我共度时光吗?
+0x1B333D5C=~z~你忙吗？我是说你想和我共度时光吗？
 
 ;0x1CC39E6C=~z~Great. I'm on my way.
-0x1CC39E6C=~z~太棒了！我正在路上。
+0x1CC39E6C=~z~太棒了，我这就过来。
 
 ;0x1CF0092C=~z~You want to get together? Sure, pick me up in an hour.
-0x1CF0092C=~z~你想和我一起出去玩？当然，一小时后来接我。
+0x1CF0092C=~z~你想和我出去吗？好啊，一小时内来接我。
 
 ;0x20449020=~z~Okay - maybe some other time - maybe not.
-0x20449020=~z~好吧，也许改天吧 - 或许不会。
+0x20449020=~z~好吧，要么改天吧，或者不约了。
 
 ;0x22D87E66=~z~Oh? Really? I wanted to see you. Well, maybe some other time, then. Bye.
-0x22D87E66=~z~哦？真的吗？我想见你。好吧  也许改天吧，再见。
+0x22D87E66=~z~哦？是吗？我还想见你呢。好吧，那就改天吧。再见。
 
 ;0x230178E2=100
 0x230178E2=100
@@ -99,40 +99,40 @@
 0x2616C3A5=~z~Niko，我要出院了，你能来医院接我吗？
 
 ;0x27B1ACB3=~z~Thanks - for letting me down.
-0x27B1ACB3=~z~谢谢你 - 让我失望。
+0x27B1ACB3=~z~谢谢你——让我失望。
 
 ;0x29BBB916=~z~Niko - we only just went out... maybe later.
-0x29BBB916=~z~Niko - 我们才出去不久...过几天再说吧。
+0x29BBB916=~z~Niko，我们刚出去过...过段时间吧。
 
 ;0x29E71AAD=~z~Hey Niko, it's me - Michelle.
-0x29E71AAD=~z~嘿 Niko, 是我 - Michelle.
+0x29E71AAD=~z~嘿，Niko。是我，Michelle。
 
 ;0x2A9C7C4F=~z~Thanks for fucking nothing, you asshole.
-0x2A9C7C4F=~z~谢谢你为我做了那么多事，你个混蛋。
+0x2A9C7C4F=~z~真是谢谢您啊，混帐东西。
 
 ;0x2CD0F41C=GCM_ACT_PMI_CALL_REJECTED
 0x2CD0F41C=GCM_ACT_PMI_CALL_REJECTED
 
 ;0x2D122103=~z~Hey it's me, Michelle.
-0x2D122103=~z~嘿是我，Michelle。
+0x2D122103=~z~嘿，是我，Michelle。
 
 ;0x2E6CF50C=~z~Great! I love rejection - I really love it. You know you might just lose me, Niko.
-0x2E6CF50C=~z~太棒了！我喜欢被拒绝——我真的很喜欢。你知道你可能会失去我，Niko.
+0x2E6CF50C=~z~太棒了！我喜欢被拒绝，真的喜欢。你有可能会失去我的，Niko.
 
 ;0x2F264331=~z~Great, see you in an hour.
-0x2F264331=~z~太棒了，一小时后见。
+0x2F264331=~z~太棒了，一小时内见。
 
 ;0x3036460B=~z~I think you're a great guy, but I don't want to hang out again so soon. Another time.
-0x3036460B=~z~我觉得你是一个很好的人，但我不想这么快又出去玩。下次。
+0x3036460B=~z~你的品性很好，但我不想这么快又出去。下次吧。
 
 ;0x308F1E92=~z~Okay, I'll call back another time.
 0x308F1E92=~z~好吧，我下次再打给你。
 
 ;0x361A1874=~z~You never want to hang out. Do you think I've got herpes or something?
-0x361A1874=~z~你一直不和我出去玩。你是觉得我到了疱疹还是什么？
+0x361A1874=~z~你一直不找我出去。你是觉得我有疱疹还是什么？
 
 ;0x37586628=~z~Niko it's me, Michelle - can you pick me up from the hospital, please? They're letting me go.
-0x37586628=~z~Niko是我，Michelle - 你能来医院接我吗？我出院了。
+0x37586628=~z~Niko，是我，Michelle。你能来医院接我吗？我出院了。
 
 ;0x37D4F324=100
 0x37D4F324=100
@@ -150,43 +150,43 @@
 0x3DDAE09A=~z~太棒了。我现在就去你家。
 
 ;0x3E4DBA0F=~z~Okay, Michelle, some other time.
-0x3E4DBA0F=~z~好的，Michelle，下次出去。
+0x3E4DBA0F=~z~好的，Michelle，改天再约吧。
 
 ;0x3EA9B58D=~z~Thanks - that means a lot to me.
-0x3EA9B58D=~z~谢谢，这对我很重要。
+0x3EA9B58D=~z~谢谢，你对我真好。
 
 ;0x3F676E1D=~z~Sorry, Michelle - I'd love to help you but you'll have to find your own way home.
-0x3F676E1D=~z~抱歉Michelle-我很想帮助你，但你得自己回去。
+0x3F676E1D=~z~抱歉，Michelle。我也爱莫能助，你自己解决吧。
 
 ;0x3FAE1AB0=~z~After what you did? No way. I'm still mad at you, call back another time. Maybe I'll have calmed down.
-0x3FAE1AB0=~z~在你做了什么之后?不可能。我还在生你的气，下次再打过来吧。也许我会冷静下来。
+0x3FAE1AB0=~z~就你上次的表现？没门。我还在生你的气，下次再打过来吧。也许我就消气了。
 
 ;0x4821428C=GCM_ACT_GETCALL_IRATE
 0x4821428C=GCM_ACT_GETCALL_IRATE
 
 ;0x4D79144E=~z~Michelle, it's Niko.
-0x4D79144E=~z~Michelle, 我是Niko.
+0x4D79144E=~z~Michelle，我是Niko。
 
 ;0x4EDFDA03=~z~Oh, it's you? Well, I'm going to give you another chance, since you called back... pick me up in an hour.
-0x4EDFDA03=~z~哦,是你吗?我再给你一次机会，因为你打了电话来...一小时后来接我。
+0x4EDFDA03=~z~噢，是你啊？既然你打回来了，我再给你一次机会...一小时内来接我。
 
 ;0x4F431589=GCM_ACT_GETCALL_ACCEPT
 0x4F431589=GCM_ACT_GETCALL_ACCEPT
 
 ;0x51EDEA94=~z~Niko, it's me, Michelle - it's been a while.
-0x51EDEA94=~z~Niko是我Michelle已经有一段时间了。
+0x51EDEA94=~z~Niko，是我，Michelle。好久没说话了。
 
 ;0x579F14DC=~z~No - we hung out only recently - I'm not that easy, Niko. Maybe later.
-0x579F14DC=~z~不了，我们最近才出去过，我可不是很轻松。也许改天吧。
+0x579F14DC=~z~不了，我们最近才出去过。我没那么轻浮，Niko。过几天吧。
 
 ;0x5978DEBF=~z~That's great news. See you in a bit.
-0x5978DEBF=~z~这真是个大好消息。待会儿见。
+0x5978DEBF=~z~真是好消息。待会儿见。
 
 ;0x598D73D4=~z~No problem, see you soon, I hope.
-0x598D73D4=~z~没问题，我希望很快见到你。
+0x598D73D4=~z~没问题，希望我能尽快见到你。
 
 ;0x5AE07334=~z~Sorry to hear that. Maybe I'll call another time.
-0x5AE07334=~z~听到这个消息我也很难过。也许下次打电话过来。
+0x5AE07334=~z~真是遗憾。改天我再问你吧。
 
 ;0x5C4CC3A5=GCM_ACT_CALL_LIKEYES
 0x5C4CC3A5=GCM_ACT_CALL_LIKEYES
@@ -195,16 +195,16 @@
 0x5C9B2D82=GCM_ACT_CALL_DATE_YES
 
 ;0x5E2B789E=~z~Okay then - I'm willing to give you another chance - since you called back - pick me up in an hour.
-0x5E2B789E=~z~好吧，既然你回来了，我愿意再给你一次机会，一小时后来接我。
+0x5E2B789E=~z~好吧，既然你打回来了，我再给你一次机会，一小时内来接我。
 
 ;0x5EC21793=~z~No, I can't just now, maybe later.
-0x5EC21793=~z~抱歉，我现在不行 下次吧。
+0x5EC21793=~z~抱歉，我现在没空，改天吧。
 
 ;0x60990804=~z~Niko - it's Michelle here.
 0x60990804=~z~Niko，我是Michelle。
 
 ;0x638FE910=~z~Sorry, Michelle. Something's come up - I can't make it to the hospital.
-0x638FE910=~z~抱歉，Michelle。我临时有事，我不能去医院。
+0x638FE910=~z~抱歉，Michelle。我临时有事，没法来医院了。
 
 ;0x64F65C7C=100
 0x64F65C7C=100
@@ -213,16 +213,16 @@
 0x6524DFC8=GCM_ACT_PMI_CALL_DATE_CANCEL
 
 ;0x694F5036=~z~I was asleep - I'll be up early - call back after 6.
-0x694F5036=~z~我已经睡着了，我会早上6点后再打电话。
+0x694F5036=~z~我已经睡了。我起得很早，6点后再找我。
 
 ;0x6A8272BE=~z~Listen, do you want to go out?
 0x6A8272BE=~z~听着，你想出去玩吗？
 
 ;0x6C87B31E=~z~No - I'm kind of busy just now, another time.
-0x6C87B31E=~z~不行，我现在有一点忙，下次吧。
+0x6C87B31E=~z~不行，我现在有点忙，下次吧。
 
 ;0x6D0C5374=~z~Hi there, it's me, Niko.
-0x6D0C5374=~z~你好，是我，Niko.
+0x6D0C5374=~z~你好，是我，Niko。
 
 ;0x70A7D880=100
 0x70A7D880=100
@@ -234,25 +234,25 @@
 0x71215AAD=GCM_ACT_CALL_IRATE
 
 ;0x7571A856=~z~Sure - I will call back another time.
-0x7571A856=~z~Sure - 我下一次再打来。
+0x7571A856=~z~好的，以后我再打过来。
 
 ;0x75E5B082=GCM_ACT_GETCALL_REJECT
 0x75E5B082=GCM_ACT_GETCALL_REJECT
 
 ;0x7638C53E=~z~Yes, I'd enjoy that. I'll be there in an hour.
-0x7638C53E=~z~好啊，我很享受那样，我一个小时后到那。
+0x7638C53E=~z~好啊，我觉得挺好。我一个小时后就到。
 
 ;0x79418C58=GCM_ACT_CALL_VERYIRATE
 0x79418C58=GCM_ACT_CALL_VERYIRATE
 
 ;0x794C18C2=~z~Niko - it's me, Michelle - why haven't you called me? Don't be cold and weird with me. Come on.
-0x794C18C2=~z~Niko－是我，Michelle - 你为什么不给我打电话？别对我冷若冰霜。等你电话。
+0x794C18C2=~z~Niko，是我，Michelle。你为什么不给我打电话？别对我冷若冰霜，拜托了。
 
 ;0x7C02DDA3=~z~Not again so soon - a girl's got to play hard to get - another time.
-0x7C02DDA3=~z~ 不要这么快又去，女孩要矜持，下一次吧。
+0x7C02DDA3=~z~不能约这么频繁，女人要欲擒故纵，改天吧。
 
 ;0x7D9998EC=~z~Are you doing anything? You want to meet up?
-0x7D9998EC=~z~你现在在做什么？想跟我见面吗？
+0x7D9998EC=~z~你现在在忙吗？想跟我见面吗？
 
 ;0x7E1670E7=GCM_ACT_PMI_CALL_ACCEPTED
 0x7E1670E7=GCM_ACT_PMI_CALL_ACCEPTED
@@ -261,31 +261,31 @@
 0x7FBE78D8=~z~嘿Michelle，我是Niko。
 
 ;0x7FFB0A71=~z~You're a dick, Niko - I'm in the hospital.
-0x7FFB0A71=~z~你这个混蛋，Niko，我在医院。
+0x7FFB0A71=~z~你这个混蛋，Niko，我还在医院啊。
 
 ;0x808B2D55=~z~You're always too fucking busy!
-0x808B2D55=~z~你他妈怎么这么忙了！
+0x808B2D55=~z~你他妈哪天不忙！
 
 ;0x81E6766C=100
 0x81E6766C=100
 
 ;0x845A6181=~z~Yes. I'm not up to much, I'd like to see you. I'll be over in an hour.
-0x845A6181=~z~是的。我不太好，我想见你了。我一小时后到。
+0x845A6181=~z~是的。我不太忙，很乐意来见你。我一小时内能到。
 
 ;0x85352FC4=~z~I'm kind of in the middle of something. Some other time.
-0x85352FC4=~z~我正忙着呢。下次。
+0x85352FC4=~z~我正忙着呢。下次再说吧。
 
 ;0x87D8C7EA=~z~Thanks, I really appreciate that.
-0x87D8C7EA=~z~谢谢，我真的很感谢。
+0x87D8C7EA=~z~谢谢，万分感谢。
 
 ;0x8F4C3C51=~z~You want to meet up?
 0x8F4C3C51=~z~你想和我见面吗？
 
 ;0x91730A27=~z~Okay - I guess I'll make my own way home.
-0x91730A27=~z~好吧 - 我想我要自己回家了。
+0x91730A27=~z~好吧，我想我得自己回家了。
 
 ;0x918F6963=~z~What? You can't pick me up from the fucking hospital? You dick.
-0x918F6963=~z~什么？你不能来医院接我？你个混蛋。
+0x918F6963=~z~什么？你他妈不能来医院接我？你个混蛋。
 
 ;0x92BB471D=100
 0x92BB471D=100
@@ -300,7 +300,7 @@
 0x99DCB0BC=GCM_ACT_ANSWER_PHONE
 
 ;0x9A2CD9B3=~z~I cannot, Michelle. Maybe some other time.
-0x9A2CD9B3=~z~我不能，Michelle。也许下次吧。
+0x9A2CD9B3=~z~我没空，Michelle还是改天再说吧。
 
 ;0x9A766CB4=100
 0x9A766CB4=100
@@ -309,7 +309,7 @@
 0x9A9CF0AD=010
 
 ;0x9CD0B1FB=~z~Oh you still have my number. I haven't heard from you in the longest time.
-0x9CD0B1FB=~z~哦，你还有我的号码。我很长时间没有听到你的消息了。
+0x9CD0B1FB=~z~噢，你还有我的号码。我很长时间没接到你的电话了。
 
 ;0x9F61393A=GCM_ACT_PMI_GETCALL_DATE_NO
 0x9F61393A=GCM_ACT_PMI_GETCALL_DATE_NO
@@ -318,7 +318,7 @@
 0xA230E73B=GCM_ACT_PMI_CALL_SLEEPING
 
 ;0xA339440D=~z~I was asleep - I get up pretty early - call back after 6.
-0xA339440D=~z~我已经睡了，我起得很早——6点后回电话。
+0xA339440D=~z~我已经睡了。我起得很早，6点后再找我。
 
 ;0xA4AA5048=~z~You free? Want to hang out or something?
 0xA4AA5048=~z~你有空吗？想和我出去玩吗？
@@ -333,7 +333,7 @@
 0xA72AE0A8=010
 
 ;0xA86AA01F=~z~Yes, I'm not doing anything interesting, Pick me up in an hour.
-0xA86AA01F=~z~是的，我没有做任何有趣的事，一小时后来接我。
+0xA86AA01F=~z~是的，我没什么好事可忙，一小时内来接我。
 
 ;0xAAE9B0FF=100
 0xAAE9B0FF=100
@@ -342,13 +342,13 @@
 0xAB7E0176=GCM_ACT_GETCALL_HOSP_REJ_LOLIKE
 
 ;0xAC6B4F00=~z~Michelle, listen, you're going to have to forgive me. Something has come up. I'm going to have to check the rain as they say.
-0xAC6B4F00=~z~Michelle，听着，你得原谅我。出了点事。我得按他们说的做，也许下次。
+0xAC6B4F00=~z~Michelle，听着，请你原谅我。突然有急事，我们的约会只能延期了。
 
 ;0xACF492A0=~z~Oh... you don't want to hang out? Well, thanks. Thanks a lot.
-0xACF492A0=~z~哦...你不想出去玩吗?好，谢谢。非常感谢。
+0xACF492A0=~z~哦...你不想出去玩吗？好，谢谢。非常感谢。
 
 ;0xACFF5258=~z~I haven't heard from you in a really long time. I miss you.
-0xACFF5258=~z~我很长时间没有你的消息了。我很想念你。
+0xACFF5258=~z~我很长时间没接到你的联络了。我很想你。
 
 ;0xAD2A48FF=GCM_ACT_PMI_CALL_DATE
 0xAD2A48FF=GCM_ACT_PMI_CALL_DATE
@@ -357,7 +357,7 @@
 0xADB3848A=010
 
 ;0xADC10746=~z~I can't wait, Niko. See you in a bit.
-0xADC10746=~z~我等不及了，Niko。一会儿后见。
+0xADC10746=~z~我等不及了，Niko。一会儿见。
 
 ;0xAFAA1815=GCM_ACT_GETCALL_REJECT_VERYIRATE
 0xAFAA1815=GCM_ACT_GETCALL_REJECT_VERYIRATE
@@ -384,19 +384,19 @@
 0xB65FE702=GCM_ACT_CALL_SLEEP_REPLY
 
 ;0xB697F423=~z~You wanna hang out?
-0xB697F423=~z~你想出去玩吗?
+0xB697F423=~z~你想出去玩吗？
 
 ;0xBA18EA5B=~z~Hey, Michelle, it's Niko. Niko Bellic - listen, it's annoying, but I'm going to have to cancel our date.
-0xBA18EA5B=~z~嘿，Michelle，我是Niko。Niko Bellic - 听着，我知道这很烦人，但我得取消我们的约会。
+0xBA18EA5B=~z~嘿，Michelle，我是Niko，Niko Bellic。听着，不好意思，我们的约会不得不取消了。
 
 ;0xBB67D0DD=~z~You know, I'm kind of in the middle of things just now - some other time.
-0xBB67D0DD=~z~你知道，我现在正忙着呢——改天吧。
+0xBB67D0DD=~z~那个，我现在正忙着呢。改天吧。
 
 ;0xBF436D03=GCM_ACT_CALL_HOSP_CANCEL_MEDLIKE
 0xBF436D03=GCM_ACT_CALL_HOSP_CANCEL_MEDLIKE
 
 ;0xC025187E=~z~Well, thanks for nothing - you know what? You might just lose me as a friend, Niko Bellic.
-0xC025187E=~z~好吧，不用谢，你知道吗？你可能会失去我这个朋友，Niko Bellic.
+0xC025187E=~z~好吧，谢谢您哪。你知道吗？你可能会失去我这个朋友，Niko Bellic。
 
 ;0xC08A6323=010
 0xC08A6323=010
@@ -405,13 +405,13 @@
 0xC127618E=GCM_ACT_PMI_CALL_GREET
 
 ;0xC1B70A94=~z~Sorry, Michelle - I lost track of time.
-0xC1B70A94=~z~抱歉，Michelle，我忘了看时间。
+0xC1B70A94=~z~抱歉，Michelle，我忘记看时间了。
 
 ;0xC4BF3EAF=100
 0xC4BF3EAF=100
 
 ;0xC922EC53=~z~I'd love to, but I can't spare the time just now.
-0xC922EC53=~z~我很想去，但是我现在抽不出时间。
+0xC922EC53=~z~我很想去，但现在抽不出时间。
 
 ;0xCA8724F3=GCM_ACT_GETCALL_HOSP_REJ_HILIKE
 0xCA8724F3=GCM_ACT_GETCALL_HOSP_REJ_HILIKE
@@ -420,31 +420,31 @@
 0xCC6B24DC=GCM_ACT_CALL_LIKENO
 
 ;0xCD82945F=~z~Hey, Michelle, how are you? It's Niko.
-0xCD82945F=~z~嘿，Michelle, 你怎么样？我是Niko。
+0xCD82945F=~z~嘿，Michelle，你怎么样？我是Niko。
 
 ;0xCEE13FEC=100
 0xCEE13FEC=100
 
 ;0xCF4FE570=~z~Niko - how are you? It's Michelle.
-0xCF4FE570=~z~Niko，你怎么样？我是Michelle.
+0xCF4FE570=~z~Niko，你还好吗？我是Michelle。
 
 ;0xD176923D=~z~I'd love to help, but I'm in the middle of something - make your own way home.
-0xD176923D=~z~我很想帮忙，但我现在正忙着呢——你自己回家吧。
+0xD176923D=~z~我很想帮忙，但我现在正忙着呢。你自己回家吧。
 
 ;0xD3BA0C5A=~z~Great news.
-0xD3BA0C5A=~z~好消息。
+0xD3BA0C5A=~z~太好了。
 
 ;0xD7094214=GCM_ACT_CALL_DATE_NO_RECENT
 0xD7094214=GCM_ACT_CALL_DATE_NO_RECENT
 
 ;0xD9948881=~z~Sure - I'll head over now and take you home.
-0xD9948881=~z~当然 - 我现在就过去送你回家。
+0xD9948881=~z~当然，我这就来接你回家。
 
 ;0xDA13F79B=100
 0xDA13F79B=100
 
 ;0xDA7FE0C3=~z~That's the best news - see you in a bit.
-0xDA7FE0C3=~z~这是最好的消息——一会儿见。
+0xDA7FE0C3=~z~这是最好的，一会儿见。
 
 ;0xDBD74B09=010
 0xDBD74B09=010
@@ -453,13 +453,13 @@
 0xDE73BE0A=GCM_ACT_GETCALL_DATE
 
 ;0xE287A9F5=~z~Cool. See you in an hour.
-0xE287A9F5=~z~爽。一小时后见。
+0xE287A9F5=~z~好。一小时内见。
 
 ;0xE325C9DF=~z~Oh, it's you... it's been a while.
-0xE325C9DF=~z~哦，是你啊...已经有一段时间了。
+0xE325C9DF=~z~哦，是你啊...你好久没联系我了。
 
 ;0xE45EADA7=~z~Okay, see you in an hour.
-0xE45EADA7=~z~好的，一小时后见。
+0xE45EADA7=~z~好的，一小时内见。
 
 ;0xE71E5F28=100
 0xE71E5F28=100
@@ -468,10 +468,10 @@
 0xE73672AA=GCM_ACT_GETCALL_GREET
 
 ;0xE79E1E85=~z~Sure - I'd like that. Pick me up in an hour.
-0xE79E1E85=~z~当然 - 我很乐意。一小时后接我。
+0xE79E1E85=~z~当然，我很乐意。一小时内来接我。
 
 ;0xEBD07DC9=~z~Niko - it's me - Michelle - you remember me? The idiot you haven't called for ages? Anyway, I miss you.
-0xEBD07DC9=~z~Niko，是我，Michelle，你还记得我吗？你这个白痴好久都没给我打电话了。无论如何，我想你。
+0xEBD07DC9=~z~Niko，是我，Michelle。你还记得我吗？你多年没联系的那个白痴。总之，我好想你。
 
 ;0xEE0305D4=GCM_ACT_CALL_CANCEL_HILIKE
 0xEE0305D4=GCM_ACT_CALL_CANCEL_HILIKE
@@ -480,19 +480,19 @@
 0xEE0FE986=GCM_ACT_PMI_GETCALL_HOSP_YES
 
 ;0xEE902CB8=~z~Maybe we'll reschedule and maybe we won't, I guess.
-0xEE902CB8=~z~我想也许会重新安排，也许不会。
+0xEE902CB8=~z~可能能重新安排，也可能不能。
 
 ;0xEEC0867E=~z~Thanks - for absolutely nothing... asshole.
-0xEEC0867E=~z~谢谢——什么都不用...混蛋。
+0xEEC0867E=~z~我可谢谢您啊...混蛋。
 
 ;0xEF965E04=~z~Okay, no problem, I guess. Another time.
-0xEF965E04=~z~好的，我想没问题。下次。
+0xEF965E04=~z~好的，我想没问题。改天吧。
 
 ;0xF0951952=100
 0xF0951952=100
 
 ;0xF131613A=~z~Okay then - another time.
-0xF131613A=~z~好吧，下次吧。
+0xF131613A=~z~那好吧，下次再说。
 
 ;0xF27B1EE2=~z~Hi. You've reached Michelle's phone. Unfortunately, I can't get to the phone just now, but please call back later.
 0xF27B1EE2=~z~嗨。这里是Michelle。很抱歉，我现在不能接电话，请稍后再打来。
@@ -504,19 +504,19 @@
 0xF3AC7067=100
 
 ;0xF464A17F=~z~Great. Thanks... for nothing. Some other time, I guess.
-0xF464A17F=~z~太棒了。感谢...白忙活一场。我想下一次吧。
+0xF464A17F=~z~太棒了。我谢谢您啊。那还是下次吧。
 
 ;0xF5253104=~z~Niko - hey, it's been a while since we spoke.
-0xF5253104=~z~Niko - 嘿，我们好久没说话了。
+0xF5253104=~z~Niko，嘿，我们好久没说话了。
 
 ;0xF57C1326=GCM_ACT_GETCALL_HOSP_ASK
 0xF57C1326=GCM_ACT_GETCALL_HOSP_ASK
 
 ;0xF9165716=~z~That is good news. See you soon.
-0xF9165716=~z~这是个好消息。待会见。
+0xF9165716=~z~真是个好消息。待会见。
 
 ;0xFBA7FE75=~z~Sorry - I guess I keep unconventional hours.
-0xFBA7FE75=~z~对不起，我想我的作息时间不正常。
+0xFBA7FE75=~z~对不起，是我的作息时间不正常。
 
 ;0xFC54A91A=100
 0xFC54A91A=100
@@ -528,7 +528,7 @@
 0xFD165748=GCM_ACT_CALL_HOSP_CANCEL_HILIKE
 
 ;0xFD7323E3=~z~Thanks - and thanks for the huge amount of respect you've shown me, asshole.
-0xFD7323E3=~z~谢谢，谢谢你对我的尊重，混蛋。
+0xFD7323E3=~z~谢谢，您还真是尊重我啊，混蛋。
 
 ;0xFDA98BCD=010
 0xFDA98BCD=010

@@ -48,7 +48,7 @@
 0x149D6D9C=~z~自己走吧。有人问起来，就说你没见过我。
 
 ;0x17C3481B=~z~Yeah, but this ain't no rock - it's a fucking boulder. This shit's gonna blast me to the moon.
-0x17C3481B=~z~拿到了，不过不是块石头－是块巨石。~n~这玩意能把我炸上月球。
+0x17C3481B=~z~拿到了，不过不是普通石头－是块巨石。这玩意能把我炸上月球。
 
 ;0x17DAE2EC=PIB_QA
 0x17DAE2EC=PIB_QA
@@ -321,7 +321,7 @@
 0x86279C51=PIB_FA
 
 ;0x869D25D1=~z~Did you get it?
-0x869D25D1=~z~钱拿到了吗？
+0x869D25D1=~z~拿到货了吗？
 
 ;0x878F1A63=PIB_TD
 0x878F1A63=PIB_TD
@@ -405,7 +405,7 @@
 0xABF10C51=PIB_KD
 
 ;0xAC67C8C3=~z~Dude, this is meant to be the biggest rock in the world.
-0xAC67C8C3=~z~哥们，这个应该是世界上最大的石头(可卡因)了。
+0xAC67C8C3=~z~哥们，这应该是世界上最大的石头*了。~n~(可卡因的代称)
 
 ;0xAD6A5664=~z~Tell you what, have a hundred bucks.
 0xAD6A5664=~z~没想到吧，给你一百块。
@@ -480,7 +480,7 @@
 0xC79F95C4=PIB_FB
 
 ;0xC839273A=~z~Oh, yeah... how time flies... when you're having fun...
-0xC839273A=~z~噢，对...时间飞逝啊...你享乐的时候...
+0xC839273A=~z~噢，对...享乐的时候...时间飞逝啊...
 
 ;0xC87E27C8=~z~That's nice. That's real nice.
 0xC87E27C8=~z~那就好，真的是好。
