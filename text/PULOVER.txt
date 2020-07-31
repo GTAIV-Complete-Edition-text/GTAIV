@@ -42,7 +42,7 @@
 0x7DC4710B=~S~检查货车后部的装货。
 
 ;0x898F3A75=~s~Stay close to the ~b~van~s~ to make it pull over.
-0x898F3A75=~s~靠近~b~货车~s~以截停之。
+0x898F3A75=~s~靠近~b~货车~s~进行截停。
 
 ;0xACD2A95D=~s~Find and pull over the ~b~van~S~ before it reaches its destination.
 0xACD2A95D=~s~在~b~目标货车~s~到达目的地前截停之。
