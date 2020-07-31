@@ -1,6 +1,6 @@
 ﻿[ROMAN9]
 ;0x04740CCC=~s~To logout of the computer press ~INPUT_PICKUP~, ~CANCEL~, or click the "LOGOUT" icon on the desktop.
-0x04740CCC=~s~按下~INPUT_PICKUP~，~CANCEL~，或点击桌面上的「LOGOUT」 图标以从本机注销。
+0x04740CCC=~s~按下~INPUT_PICKUP~/~CANCEL~，或点击桌面上的「LOGOUT」 图标以从本机注销。
 
 ;0x0933180F=~s~Press ~INPUT_MOUSE_LMB~ to click on the "WEB" icon.
 0x0933180F=~s~按~INPUT_MOUSE_LMB~点击「WEB」图标。
@@ -30,7 +30,7 @@
 0x3050D780=~s~使用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~上下滚动页面。
 
 ;0x34BE928A=~s~Click the "CHECK MAIL" link to view your mailbox or the envelope icon on the browser bar.
-0x34BE928A=~s~点击「查看邮箱」链接或导航栏的信封图标查看你的邮箱。
+0x34BE928A=~s~点击「查看邮箱」字样或导航栏的信封图标打开你的邮箱。
 
 ;0x34CD1F84=~s~Go and speak to the ~b~assistant~s~ in the cafe.
 0x34CD1F84=~s~进去和前台的~b~网管~s~交谈。
@@ -69,10 +69,10 @@
 0x6DE684DD=~s~你现在连上网了。这是导航首页。
 
 ;0x71B6FF56=~s~To logout of the computer press ~INPUT_PICKUP~, ~CANCEL~, or click the "LOGOUT" icon on the desktop.
-0x71B6FF56=~s~按下~INPUT_PICKUP~，~CANCEL~，或点击桌面上的「LOGOUT」 图标以从本机注销。
+0x71B6FF56=~s~按下~INPUT_PICKUP~/~CANCEL~，或点击桌面上的「LOGOUT」 图标以从本机注销。
 
 ;0x7CDE0C7A=~s~Reply to this email and the account will be activated.
-0x7CDE0C7A=~s~回复这封邮件即可激活此账户。
+0x7CDE0C7A=~s~回复这封邮件即可激活账户。
 
 ;0x7FC76E76=~s~Press  to go back to the previous page or click the back arrow icon on the browser bar.
 0x7FC76E76=~s~按~INPUT_FRONTEND_PAUSE~或点击导航栏上的返回图标以回到上一页。
@@ -105,7 +105,7 @@
 0xC8A93A61=~s~你可以从这里访问邮箱，查看新闻、天气、交友网站等...
 
 ;0xCE0B4931=~s~Click the "CHECK MAIL" link to view your mailbox or the envelope icon on the browser bar.
-0xCE0B4931=~s~点击「查看邮箱」链接或导航栏的信封图标查看你的邮箱。
+0xCE0B4931=~s~点击「查看邮箱」字样或导航栏的信封图标打开你的邮箱。
 
 ;0xD27B2F77=~s~Go back to the internet cafe.
 0xD27B2F77=~s~返回网吧。
@@ -123,7 +123,7 @@
 0xE058EDCC=~s~使用~PAD_RSTICK_UPDOWN~上下滚动页面。
 
 ;0xE0C34740=~s~To logout of the computer press ~INPUT_PICKUP~, ~INPUT_FRONTEND_PAUSE~, or click the "LOGOUT" icon on the desktop.
-0xE0C34740=~s~按下~INPUT_PICKUP~，~INPUT_FRONTEND_PAUSE~，或点击桌面上的「LOGOUT」图标以从本机注销。
+0xE0C34740=~s~按下~INPUT_PICKUP~/~INPUT_FRONTEND_PAUSE~，或点击桌面上的「LOGOUT」图标以从本机注销。
 
 ;0xF0001660=~s~Use ~PAD_RSTICK_ALL~ to move the pointer.
 0xF0001660=~s~使用~PAD_RSTICK_ALL~移动指针。

@@ -81,7 +81,7 @@
 0x8BD2BA0F=~y~你赢了。
 
 ;0x95C6F2C5=Hitting one of the large portions of a section scores you single points.
-0x95C6F2C5=投中分数区最大的一节将获得单倍分数。
+0x95C6F2C5=投中分数区中的黑白扇形将获得单倍分数。
 
 ;0x95E1F2F7=How to play darts
 0x95E1F2F7=飞镖教学
@@ -111,7 +111,7 @@
 0xBE6C0916=玩家~1~得到~1~分。
 
 ;0xBECCC4D0=The object of the game is to reduce your score to exactly zero, before your opponent does.
-0xBECCC4D0=游戏目标就是比对手先把分数刚好减少到0。
+0xBECCC4D0=游戏目标就是在对手之前把分数刚好减少到0。
 
 ;0xC140FB81=~1~! You're bust.
 0xC140FB81=~1~！你爆镖了。

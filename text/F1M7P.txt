@@ -24,7 +24,7 @@
 0x36BB18F2=去~y~South Bohan~s~接上乘客。
 
 ;0x4871BC5F=Pick up the customer from ~y~Industrial.
-0x4871BC5F=去~y~Industrial~s~接上乘客。
+0x4871BC5F=去~y~工业区~s~接上乘客。
 
 ;0x524DCEF7=~s~Take the customer to ~y~Steinway.
 0x524DCEF7=~s~将乘客送到~y~Steinway。
@@ -78,7 +78,7 @@
 0xE0A5EB8D=去~y~Beechwood City~s~接上乘客。
 
 ;0xE37B2F9F=Go and get ~b~Roman's car~s~ for the pickup.
-0xE37B2F9F=去拿~b~Roman的车~s~进行接单。
+0xE37B2F9F=去拿~b~Roman的车~s~接单。
 
 ;0xE7F33ACF=Pick up the customer from ~y~Hove Beach.
 0xE7F33ACF=去~y~Hove Beach~s~接上乘客。

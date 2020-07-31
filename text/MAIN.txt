@@ -729,7 +729,7 @@
 0xB34269AE=对话
 
 ;0x80870438=MISSION TEXT
-0x80870438=任务文本
+0x80870438=任务提示
 
 ;0x8EB5A095=BROWSE STATIONS
 0x8EB5A095=浏览电台
@@ -13501,7 +13501,7 @@
 0x214EB29A=按~INPUT_PICKUP~游玩QUB3D。
 
 ;0x90FF93B8=~s~QUB3D unavailable while on a mission.
-0x90FF93B8=~s~QUB3D在任务期间不可用。
+0x90FF93B8=~s~任务期间无法游玩QUB3D。
 
 ;0xF2D1D23E=Press ~INPUT_PICKUP~ to hail a cab.
 0xF2D1D23E=按~INPUT_PICKUP~打的。
@@ -15046,13 +15046,13 @@
 0x8E816D88=~s~按~INPUT_FRONTEND_ACCEPT~购买防弹衣。
 
 ;0x8DE3FF53=~s~You can buy weapons from various gun stores throughout Liberty City.
-0x8DE3FF53=~s~你可以在自由城的各个枪店购买武器。
+0x8DE3FF53=~s~你可以在自由城各地的枪店中购买武器。
 
 ;0x5C1D1BC6=~s~Walk up to each weapon to see which are currently available.
 0x5C1D1BC6=~s~接近物品以查看现在是否可以购买。
 
 ;0x3102C58A=~s~New stock is always being added, so if you don't see something you need now, come back later.
-0x3102C58A=~s~新品一直在上架，所有你要是现在找不到需要的东西，之后再来看看吧。
+0x3102C58A=~s~新品一直在上架，所以你要是现在找不到需要的东西，之后再来看看吧。
 
 ;0xE926BEE2=Purchase a ~g~Micro-SMG.
 0xE926BEE2=购买一把~g~微型冲锋枪。
@@ -17553,7 +17553,7 @@
 0x360D6194=你可以用手机做出决定。~n~按~INPUT_PHONE_ACCEPT~同意去接Roman。~n~按~INPUT_PHONE_CANCEL~告诉Roman你没空。
 
 ;0x827BC9CA=Occasionally, calling a contact to find out what they're doing will open up scenarios earlier than if you waited to be called. You can try calling Roman.
-0x827BC9CA=有时，打电话询问联系人他的情况可以比等待他打电话更早触发剧情。你可以试试打给Roman。
+0x827BC9CA=有时，打电话询问联系人他的情况可以比等待他的电话更早触发剧情。你可以试试打给Roman。
 
 ;0xCA59E02F=You can place a Waypoint on the map and a GPS route will be displayed to that location.
 0xCA59E02F=你可以在地图上选定一个导航点，然后地图上就会显示导航路线。
@@ -17916,7 +17916,7 @@
 0x24BB9D8E=铛铛钟
 
 ;0x5D818F15=eCola
-0x5D818F15=e可乐
+0x5D818F15=易可乐
 
 ;0x8B486AA2=Heat
 0x8B486AA2=炙热

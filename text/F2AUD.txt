@@ -84,13 +84,13 @@
 0x11416DE1=~z~你早就该这么考虑了。
 
 ;0x11775ACD=~z~So, what's this gun shop?
-0x11775ACD=~z~那么，这家枪店又是什么情况？
+0x11775ACD=~z~那这家枪店又是什么情况？
 
 ;0x11A2BBCF=~z~Mr. Faustin, I got a little out of control in the shop, people were hurt.
 0x11A2BBCF=~z~Faustin先生，我在店里有点失控了，有人受伤了。
 
 ;0x138B90B7=~z~You see, they don't make 'em like that no more.
-0x138B90B7=~z~你看，他们没有再那样做了。
+0x138B90B7=~z~你看，现在人都不那样了。
 
 ;0x169E85FD=100
 0x169E85FD=100
@@ -138,7 +138,7 @@
 0x1CA8DBB1=F2_B_HA
 
 ;0x1FD0D282=~z~A drunken fool.
-0x1FD0D282=~z~一个酒鬼蠢蛋。
+0x1FD0D282=~z~酒鬼蠢蛋。
 
 ;0x214C91FF=~z~Help. Please, no.
 0x214C91FF=~z~救命，拜托，别啊。
@@ -321,7 +321,7 @@
 0x4AE2A8B5=~z~这样我就能跟你一样了是吧，镇定剂先生？
 
 ;0x4B2E779D=~z~Word is, they've started their own porno site as well.
-0x4B2E779D=~z~据说，他们也开了自己的色情网站。
+0x4B2E779D=~z~据说，他们还自己开了个黄色网站。
 
 ;0x4C11662A=F2_JE
 0x4C11662A=F2_JE
@@ -330,7 +330,7 @@
 0x4C1C38CD=F2_VA
 
 ;0x4CB08300=~z~Hey, Joseph! You think you can expand your business interests make these pornos and sell them,
-0x4CB08300=~z~嘿，Joseph！你以为你拍摄出售这些黄片提高你的商业利益，
+0x4CB08300=~z~嘿，Joseph！你以为你拍摄出售这些黄片自己赚了大钱，
 
 ;0x4CD2EB2A=~z~I didn't kill Joseph, we will make more money with him alive.
 0x4CD2EB2A=~z~我没杀掉Joseph，他活着我们还能大捞特捞。
@@ -540,7 +540,7 @@
 0x71EDB2F4=~z~嘿，伙计，拜托？别那么生气。好啦，大块头？
 
 ;0x7213456E=~z~It doesn't matter that it's online.
-0x7213456E=~z~是不是线上的并不重要。
+0x7213456E=~z~是不是网上的并不重要。
 
 ;0x749F9833=~z~Dimitri... dead? How? This is impossible.
 0x749F9833=~z~Dimitri...死了？怎么死的？不可能吧。
@@ -594,7 +594,7 @@
 0x7D75C262=F2_JC
 
 ;0x7D7B3F47=~z~Yeah, you will. Especially since you got rid of Vlad, our fucking debt collector.
-0x7D7B3F47=~z~是的，你会的。更何况你还做掉了Vlad，我们的狗屁讨债人。
+0x7D7B3F47=~z~是的，你会的。更何况你还做掉了Vlad，我们手下的讨债人。
 
 ;0x7DD50AF0=~z~Do you think that I am not to be obeyed? Come back to see me.
 0x7DD50AF0=~z~你以为我是能被忤逆的人吗？再回来找我。
@@ -624,7 +624,7 @@
 0x82BA9053=~z~别吸那玩意了。
 
 ;0x82D0176B=~z~Let me guess, in a prison camp in Siberia.
-0x82D0176B=~z~容我猜猜，在西伯利亚的一个集中营里。
+0x82D0176B=~z~容我猜猜，在西伯利亚的一个集中营里，
 
 ;0x8307CF9D=~z~The shop is just down that alleyway.
 0x8307CF9D=~z~店就在那条巷子里。
@@ -717,7 +717,7 @@
 0x94210989=~z~ Mikhail说是什么人类受苦，听起来好像很恶心。
 
 ;0x95A53DFE=~z~Will you wrap it up and put a pretty bow on it?
-0x95A53DFE=~z~你会把它包起来再在上面打个漂亮的蝴蝶结吗？
+0x95A53DFE=~z~你会帮我包起来再打个漂亮的蝴蝶结吗？
 
 ;0x95D81038=F2_UK
 0x95D81038=F2_UK
@@ -1107,7 +1107,7 @@
 0xE04695A6=F2_RF
 
 ;0xE0A55314=~z~Or selling hash to tourists in Red Square, or still in the navy? Which is it today?
-0xE0A55314=~z~还是在红场卖大麻给游客，还是还在海军待着？哪个是现在的状况了？
+0xE0A55314=~z~还是在红场卖大麻给游客，还是还在海军待着？哪个会是现在的状况？
 
 ;0xE0B73C27=F2_A_AE
 0xE0B73C27=F2_A_AE
@@ -1140,7 +1140,7 @@
 0xE9FA9278=F2_CL
 
 ;0xEAC0609C=~z~What do ya mean? He's uh...
-0xEAC0609C=~z~你想表达什么？他在呃...
+0xEAC0609C=~z~什么意思？他在呃...
 
 ;0xEACE687E=~z~Make him suffer.
 0xEACE687E=~z~让他吃点苦头。
@@ -1167,7 +1167,7 @@
 0xEE55311E=F2_ZD
 
 ;0xEF261C2F=~z~Is that a fact? Maybe we can't pop you, Joseph. But we can fuck up one of your boys.
-0xEF261C2F=~z~这是事实吗？也许我们不能立刻嘣了你，Joseph，但我们可以干死你的一个手下。
+0xEF261C2F=~z~这是事实吗？也许我们不能立刻崩了你，Joseph，但我们可以干死你的一个手下。
 
 ;0xEF3127FE=~z~I hurt the guy who works there.
 0xEF3127FE=~z~我伤着了那家店的店员。
