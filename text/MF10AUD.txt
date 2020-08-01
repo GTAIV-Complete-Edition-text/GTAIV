@@ -21,7 +21,7 @@
 0x064EA4CF=MF5_A_CA
 
 ;0x0659356E=~z~with a bottom feeder like you?
-0x0659356E=~z~和你这样的底层人站在一起吗？
+0x0659356E=~z~是靠和你这样的底层人站在一起吗？
 
 ;0x091CB09A=MF5_GI
 0x091CB09A=MF5_GI
@@ -171,7 +171,7 @@
 0x3E5C1D54=~z~No, I'm doing my best though.
 
 ;0x3F6AA790=~z~Niko Bellic, we did not find your body with the others in the warehouse.
-0x3F6AA790=~z~Niko Bellic，我们没在仓库的那些尸体里面里找到你.
+0x3F6AA790=~z~Niko Bellic，我们没在仓库的那些尸体里面找到你.
 
 ;0x3FFF24BF=MF5_FE
 0x3FFF24BF=MF5_FE
@@ -234,7 +234,7 @@
 0x54FACA89=MF5_GE
 
 ;0x5817D8EA=~z~You, who has so many enemies?
-0x5817D8EA=~z~就你这样树敌无数的人？
+0x5817D8EA=~z~就你这种树敌无数的人？
 
 ;0x5AA13048=~z~I will speak to people and see what I can do.
 0x5AA13048=~z~我去找人问问，看看有什么我能做的。
@@ -261,7 +261,7 @@
 0x658C741F=MF5_VB
 
 ;0x69E37C81=~z~You robbed Bulgarin, you killed Mikhail. You know no more of loyalty than I do.
-0x69E37C81=~z~你抢了Bulgarin，你杀了Mikhail。~n~你的忠诚一点也不比我多。
+0x69E37C81=~z~你抢了Bulgarin，你杀了Mikhail。你的忠诚一点也不比我多。
 
 ;0x6B51773E=~z~Is it done yet?
 0x6B51773E=~z~Is it done yet?
@@ -597,7 +597,7 @@
 0xF1816D1E=~z~Niko, I heard you got the money. This is great. Everything turned out perfectly.
 
 ;0xF4A29201=~z~You think I could survive in a cesspit of a city like this by aligning myself
-0xF4A29201=~z~你以为我能在自由城的这种垃圾地带生存是靠
+0xF4A29201=~z~你以为我能在自由城的这种垃圾地带生存，
 
 ;0xF4DD8891=SFX_MACHINE_BEEP
 0xF4DD8891=SFX_MACHINE_BEEP

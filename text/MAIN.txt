@@ -13285,10 +13285,10 @@
 0x2CE8FAB8=你不能在这里洗软篷车。
 
 ;0x940E0877=Drive up to the pay kiosk. The toll is $5.
-0x940E0877=开到收费站钱。过路费 $5。
+0x940E0877=开到收费站前。过路费$5。
 
 ;0x5B9BEE75=Slow down to pay the toll if you don't want to attract attention.
-0x5B9BEE75=若你不想引起注意，减速支付通行费。
+0x5B9BEE75=若不想引起注意，减速支付通行费。
 
 ;0xE587559A=You don't have enough cash to pay the toll.
 0xE587559A=你的钱不够，无法支付通行费。
@@ -13945,7 +13945,7 @@
 0x8554794F=当前接警
 
 ;0x569B4FE4=The following results were returned:
-0x569B4FE4=The following results were returned:
+0x569B4FE4=查找到以下结果：
 
 ;0xE7709568=Enter Name
 0xE7709568=输入姓名
@@ -17328,7 +17328,7 @@
 0xB39FC074=抉择：去救 Roman 还是与 Michelle 约会...
 
 ;0x0E44DA27=You can call Roman to inform him of the situation.
-0x0E44DA27=你可以打给 Roman 向他告知情况。
+0x0E44DA27=你可以打给Roman向他说明情况。
 
 ;0x50E3A254=You can watch TV in your apartment.
 0x50E3A254=你可以在你的公寓中看电视。
@@ -24000,7 +24000,7 @@
 0xEFBB0713=NB。下次放我鸽子前先说一声。等你的工夫都够我中出10个骚货了。 - B
 
 ;0xFD67A26C=NB. I saw fucking red man. I destroyed half my fucking apartment when you didn't show. Hurricane fucking Brucie was what it was. Must be juicing too hard. - B
-0xFD67A26C=NB。老子鬼都没见着。你没来气得老子砸烂了大半间公寓。当时Brucie我简直是龙卷风附体。肯定是药磕太猛了。 - B
+0xFD67A26C=NB。老子鬼都没见着。你没来气得老子砸烂了大半间公寓。当时Brucie我简直是龙卷风附体。肯定是药嗑太猛了。 - B
 
 ;0x13A5CEE8=You trying to treat Brucie like a bitch NB. Arranging a date and then not showing. Brucie ain't a bitch. He's fucking Alpha. - B
 0x13A5CEE8=你把我Brucie当婊子是吧NB。提前约好时间却不来。Brucie不是婊子，他他妈是猛男。 - B
@@ -25260,7 +25260,7 @@
 0xE272F6DD=我在Weazel新闻网上读到Kenny Petrovic在Bohan的仓库爆炸了。Mikhail已经失控了。希望我们不会和他一起被人盯上...你的朋友，Dimitri。
 
 ;0xF0209238=Niko - there can be no mistakes with this. Mikhail is a dangerous man. I have left some protection for you around the side of the club. Your friend, Dimitri.
-0xF0209238=Niko－此事不容有任何闪失。Mikhail是个危险人物。我给你在俱乐部外面留了些防护装备。你的朋友，Dimitri。
+0xF0209238=Niko，此事不容有任何闪失。Mikhail是个危险人物。我给你在俱乐部外面留了些防护装备。你的朋友，Dimitri。
 
 ;0xC6E73FC6=We need to talk. I'll be on the Firefly Island Boardwalk. Your friend, Dimitri.
 0xC6E73FC6=我们得谈谈了。我在Firefly Island的木板道上等你。你的朋友，Dimitri。

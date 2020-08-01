@@ -42,7 +42,7 @@
 0x3451FC01=~s~说服~b~店主~s~付钱。
 
 ;0x34CBB377=~s~Hold ~INPUT_AIM~ to auto aim. Half hold ~INPUT_AIM~ to free aim. Use ~PAD_RSTICK_ALL~ to aim.
-0x34CBB377=~s~按住~INPUT_AIM~可以自动瞄准，轻按~INPUT_AIM~可以自由瞄准。使用~PAD_RSTICK_ALL~瞄准。
+0x34CBB377=~s~按住~INPUT_AIM~可以自动瞄准，半按~INPUT_AIM~可以自由瞄准。使用~PAD_RSTICK_ALL~瞄准。
 
 ;0x3CADCCCC=~s~Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to target the ~r~son.
 0x3CADCCCC=~s~使用~INPUT_AIM~和~PAD_RSTICK_ALL~瞄准~r~店主儿子。

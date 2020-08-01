@@ -33,7 +33,7 @@
 0x11C9F273=~z~Dimitri。
 
 ;0x122CC035=~z~You pushed things too far.
-0x122CC035=~z~你做的事都过头了。
+0x122CC035=~z~你做得太过了。
 
 ;0x1240231D=010100100
 0x1240231D=010100100
@@ -114,7 +114,7 @@
 0x37D314A1=~z~就是小羊进了狼窝！
 
 ;0x3EB0993C=~z~That is what Dimitri wanted when you killed Vlad.
-0x3EB0993C=~z~你杀了Vlad后Dimitri就是这么想的。
+0x3EB0993C=~z~你杀了Vlad后Dimitri就想杀了你。
 
 ;0x3EC7BCCC=F6_BC
 0x3EC7BCCC=F6_BC
@@ -300,7 +300,7 @@
 0x9B4626A7=F6_DC
 
 ;0x9D25AFDD=~z~Wherever you go, people will find you, if they want to badly enough.
-0x9D25AFDD=~z~不管你走到哪儿，都会被找着的，只要他们真想。
+0x9D25AFDD=~z~不管你走到哪儿，都会被找着的，只要他们愿意。
 
 ;0x9D780B1C=~z~Not yet, Dimitri.
 0x9D780B1C=~z~还没有，Dimitri(BETA)
@@ -339,7 +339,7 @@
 0xB6AB098F=~z~Niko Bellic。
 
 ;0xB74C931E=~z~This tattoo says we are brothers for life,
-0xB74C931E=~z~这个纹身表示我们是一辈子的兄弟。
+0xB74C931E=~z~这个纹身代表我们是一辈子的兄弟。
 
 ;0xB7C19608=~z~You fight like a worm, like spineless worm, Bellic.
 0xB7C19608=~z~你的攻势像条虫，没骨气的虫，Bellic。
@@ -384,10 +384,10 @@
 0xD1C6191D=~z~在你杀了Petrovic的儿子后就没了。
 
 ;0xD4EA21A5=~z~but we cannot change the rules.
-0xD4EA21A5=~z~但是却不能改变规则。
+0xD4EA21A5=~z~却不能改变规则。
 
 ;0xD7BA3CB6=~z~You betrayed yourself, Mr. Faustin.
-0xD7BA3CB6=~z~是你背叛了你，Faustin先生。
+0xD7BA3CB6=~z~是你背叛了自己，Faustin先生。
 
 ;0xD7E86D17=F6_DF
 0xD7E86D17=F6_DF

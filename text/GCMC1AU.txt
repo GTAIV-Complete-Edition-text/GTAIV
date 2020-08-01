@@ -1,6 +1,6 @@
 ﻿[GCMC1AU]
 ;0x00A358B2=~z~No, no no. It's for my cousin.
-0x00A358B2=~z~不不不。这是给我堂兄的。
+0x00A358B2=~z~不不不。替我堂兄问的。
 
 ;0x01A450CF=GCM2_MICHELLE_CONVERSATIONS3_BH
 0x01A450CF=GCM2_MICHELLE_CONVERSATIONS3_BH
@@ -21,7 +21,7 @@
 0x09545B75=~z~好的。
 
 ;0x0979E7A8=~z~Yeah. Sorry I mentioned it. I didn't mean to offend you.
-0x0979E7A8=~z~是的。抱歉，我不是故意冒犯你的。
+0x0979E7A8=~z~好的。对不起，我不是故意要冒犯你。
 
 ;0x0B86E108=~z~Very.
 0x0B86E108=~z~正是。
@@ -54,7 +54,7 @@
 0x1330775B=GCM2_MICHELLE_CONVERSATIONS6_EG
 
 ;0x143BFFE3=~z~Fair enough. That is his business. But I am not a drug dealer. What made you think that?
-0x143BFFE3=~z~很好。那是他的事。但我不是毒贩。你你为什么会怎么想？
+0x143BFFE3=~z~行吧，那是他的事。但我不是毒贩，你怎么想到问我的？
 
 ;0x180EF6EF=~z~I worked, in tourism. In travel industry.
 0x180EF6EF=~z~我干过...旅游业。就是带人观光。
@@ -123,7 +123,7 @@
 0x381F2AF9=GCM2_MICHELLE_CONVERSATIONS3_BN
 
 ;0x3970CA4C=~z~I just thought you might know someone. Or Roman did...
-0x3970CA4C=~z~我只是想你可能认识什么人。或者Roman...
+0x3970CA4C=~z~我觉得你可能有路子，或者是Roman有...
 
 ;0x3A60B775=~z~Mallorie said he was in debt, to some criminals. Do you know about that?
 0x3A60B775=~z~Mallorie说他欠了罪犯的债。你知道吗？
@@ -174,7 +174,7 @@
 0x5547954C=~z~我知道，你和你的堂兄住在一起，那你们是什么职业？
 
 ;0x55730250=~z~No. I didn't know you liked to party.
-0x55730250=~z~不。我不知道你喜欢派对。
+0x55730250=~z~不知道。没想到你玩这么大。
 
 ;0x5713505D=GCM2_MICHELLE_CONVERSATIONS3_BM
 0x5713505D=GCM2_MICHELLE_CONVERSATIONS3_BM
@@ -207,7 +207,7 @@
 0x6516063A=GCM2_MICHELLE_CONVERSATIONS5_DC
 
 ;0x6542A1EF=~z~Some drugs?
-0x6542A1EF=~z~一些毒品？
+0x6542A1EF=~z~弄到毒品？
 
 ;0x65C73005=GCM2_MICHELLE_CONVERSATIONS7_FG
 0x65C73005=GCM2_MICHELLE_CONVERSATIONS7_FG
@@ -309,7 +309,7 @@
 0x9D53A567=~z~好的。
 
 ;0x9DF61355=~z~It is... he wants some coke, for a bachelor party.
-0x9DF61355=~z~呃...他想喝点可乐，参加单身派对。
+0x9DF61355=~z~是真的...他想带可卡因参加单身派对。
 
 ;0x9E44C775=GCM2_MICHELLE_CONVERSATIONS4_CJ
 0x9E44C775=GCM2_MICHELLE_CONVERSATIONS4_CJ
@@ -360,7 +360,7 @@
 0xB8D3DC67=~z~那，你在欧洲是做什么的？
 
 ;0xBA294BBB=~z~Some what?
-0xBA294BBB=~z~一些什么？
+0xBA294BBB=~z~弄到什么？
 
 ;0xBBCABE68=~z~Sure.
 0xBBCABE68=~z~当然。
@@ -393,7 +393,7 @@
 0xC9F8BC39=GCM2_MICHELLE_CONVERSATIONS5_DB
 
 ;0xCBDBEF20=~z~Listen, it's a bit of a strange question, but do you know where I can get some... some.
-0xCBDBEF20=~z~听着，这是一个有点奇怪的问题，但你知道我在可以搞到一些...一些。
+0xCBDBEF20=~z~听着，我这个问题有点怪，但你知道我在可以弄到...弄到...
 
 ;0xCC8F5F23=100010100010100010100010100010100010100010010100010
 0xCC8F5F23=100010100010100010100010100010100010100010010100010
@@ -432,13 +432,13 @@
 0xE06D7F36=GCM2_MICHELLE_CONVERSATIONS7_FP
 
 ;0xE2CB9A4C=~z~You didn't.
-0xE2CB9A4C=~z~你没有。
+0xE2CB9A4C=~z~知道了。
 
 ;0xE4B9763D=~z~Good, I think.
 0xE4B9763D=~z~应该还好吧。
 
 ;0xE6E7253A=~z~Sure. That's what everyone says.
-0xE6E7253A=~z~确定。大家都这么说。
+0xE6E7253A=~z~当然，大家都这么说。
 
 ;0xE8F0E697=GCM2_MICHELLE_CONVERSATIONS6_EJ
 0xE8F0E697=GCM2_MICHELLE_CONVERSATIONS6_EJ
@@ -468,7 +468,7 @@
 0xF4E04557=GCM2_MICHELLE_CONVERSATIONS4_CH
 
 ;0xF6604175=~z~No. Roman is an addict, but not cocaine. Gambling.
-0xF6604175=~z~不。Roman是个瘾君子，但不是可卡因。赌博。
+0xF6604175=~z~不。Roman的确有瘾，但不是毒瘾。是赌博。
 
 ;0xF811F32A=GCM2_MICHELLE_CONVERSATIONS4_CE
 0xF811F32A=GCM2_MICHELLE_CONVERSATIONS4_CE
