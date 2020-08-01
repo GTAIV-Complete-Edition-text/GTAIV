@@ -153,7 +153,7 @@
 0x2671E94D=~z~我得回去上班了。拜，亲爱的。
 
 ;0x2700E727=~z~both of you.
-0x2700E727=~z~你俩都是。
+0x2700E727=~z~你也是。
 
 ;0x27661002=~z~I am sorry that your worldly possessions have been destroyed, but you were not that rich a man.
 0x27661002=~z~很抱歉你那些世俗财产都被毁了，但是你又没那么富。
@@ -216,7 +216,7 @@
 0x34B36955=~z~求你了...拜托，我们回公寓吧。
 
 ;0x34BA9072=~z~Listen, me and Niko are in a bit of trouble - need to get out of Broker a few days.
-0x34BA9072=~z~听我说，我和Niko遇上了点小麻烦－要离开~n~Broker避几天风头。
+0x34BA9072=~z~听我说，我和Niko遇上了点小麻烦，要离开Broker避几天风头。
 
 ;0x376117BE=R11_KG
 0x376117BE=R11_KG
@@ -339,7 +339,7 @@
 0x4F86239F=R11_MM
 
 ;0x4FE94276=~z~You remember that time we went to the bar back home and found it razed to the ground?
-0x4FE94276=~z~你还记不记得当年我们从酒吧回家，结果发现家成了平地？
+0x4FE94276=~z~你还记不记得当年我们从酒吧回家，结果发现家被夷为平地？
 
 ;0x50A4A173=R11_KP
 0x50A4A173=R11_KP
@@ -555,7 +555,7 @@
 0x7F18E277=100100010100
 
 ;0x7F7025E0=~z~You're an angel - beautiful and kind. I love you. We'll see you there.
-0x7F7025E0=~z~你真是天使－美丽而善良。我爱你。我们那边见。
+0x7F7025E0=~z~你真是天使，美丽而善良。我爱你。我们那边见。
 
 ;0x7F737358=R11_EJ
 0x7F737358=R11_EJ
@@ -648,7 +648,7 @@
 0x9750ADFD=R11_NC
 
 ;0x97AEF31E=~z~Pure like my Mallorie. In the dream Mallorie and me are married.
-0x97AEF31E=~z~和我的Mallorie一样单纯。在梦里我和Mallorie结婚了。
+0x97AEF31E=~z~和我的Mallorie一样纯洁。在梦里我和Mallorie结婚了。
 
 ;0x980252A7=R11_NT
 0x980252A7=R11_NT
@@ -681,7 +681,7 @@
 0x9D0B4470=R11_MN
 
 ;0x9DB22D96=~z~Yes, you and I had a place of our own. A place where people come to eat and relax.
-0x9DB22D96=~z~对，你和我有了自己的一亩三分地。人都来这儿吃饭休闲。
+0x9DB22D96=~z~对，你和我有了自己的一亩三分地。别人来这儿吃饭休闲。
 
 ;0x9FB6BB81=~z~That seems like the pattern of events since you get here.
 0x9FB6BB81=~z~你来了以后好像都是这么回事。
@@ -801,7 +801,7 @@
 0xC0B51013=R11_NM
 
 ;0xC271A255=~z~That is what I wanted to show you. It was a beautiful ring.
-0xC271A255=~z~就是我之前想给你看的那个。真的是个很好看的戒指。
+0xC271A255=~z~就是我刚才想给你看的那个。真的是个很好看的戒指。
 
 ;0xC44D04AD=~z~I guess you cannot escape your past.
 0xC44D04AD=~z~我想你也逃避不了你的过去。
@@ -894,7 +894,7 @@
 0xDA72D1D3=~z~但是我想真正拥有她。我想和她结婚。
 
 ;0xDA924E4B=~z~We're fucked - we're broke and on the run.
-0xDA924E4B=~z~我们被人搞了－现在是破产在逃。
+0xDA924E4B=~z~我们被人搞了，现在是破产在逃。
 
 ;0xDBA4E101=R11_DF
 0xDBA4E101=R11_DF
@@ -1008,7 +1008,7 @@
 0xFDCB9884=~z~我现在开不了酒馆了。我没办法买下它，~n~现在我，我啥都没有了。
 
 ;0xFE7F4FBB=~z~They took it all.
-0xFE7F4FBB=~z~他们全夺去了。
+0xFE7F4FBB=~z~全被烧了。
 
 ;0xFEA555A1=~z~Roman?
 0xFEA555A1=~z~Roman？

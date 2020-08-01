@@ -1,6 +1,6 @@
 ﻿[FAUST8]
 ;0x02F68E19=~s~You can use free aim to shoot by lightly holding ~PAD_LT~.
-0x02F68E19=~s~轻按~PAD_LT~以在自由瞄准模式下射击。
+0x02F68E19=~s~半按~PAD_LT~以在自由瞄准模式下射击。
 
 ;0x13C0453C=~s~Lose your wanted level.
 0x13C0453C=~s~降低你的通缉度。
@@ -48,7 +48,7 @@
 0xB1026D4E=~s~与~b~Little Jacob~s~在East Hook见面。
 
 ;0xB2346FC6=Sustained firing of your weapon will cause recoil and bullets will spread inaccurately. The aiming reticule will grow larger to indicate this is happening.
-0xB2346FC6=连续射击会产生后坐力，子弹将不精准散布。瞄准圈增大说明正受后坐力影响。
+0xB2346FC6=连续射击会产生后坐力，子弹将不精准散布。准心外圈增大说明正受后坐力影响。
 
 ;0xCEF21DED=~s~Get back to ~b~Jacob.
 0xCEF21DED=~s~回到~b~Jacob身边。

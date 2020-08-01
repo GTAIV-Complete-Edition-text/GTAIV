@@ -9,13 +9,13 @@
 0x32ED05F3=~r~卡车被摧毁了。
 
 ;0x4391DA11=~s~Park the truck inside the ~y~garage.
-0x4391DA11=~s~将卡车停到~y~车库~s~中。
+0x4391DA11=~s~将卡车停入~y~车库。
 
 ;0x45332A7F=~r~You have abandoned the truck.~s~
 0x45332A7F=~r~你抛弃了卡车。~s~
 
 ;0x4A5D7394=~s~Drive to the ~y~garage.
-0x4A5D7394=~s~开车去~y~车库。
+0x4A5D7394=~s~开车前往~y~车库。
 
 ;0x6DE33A9F=~s~Get in the ~b~truck.
 0x6DE33A9F=~s~进入~b~卡车。
@@ -33,8 +33,8 @@
 0x9A47877F=~s~离开这片区域。
 
 ;0xB95E906C=Quicker flashes indicate the explosive is becoming more unstable.
-0xB95E906C=闪烁越快，表示爆炸物越不稳定。
+0xB95E906C=闪烁越快，说明炸弹越不稳定。
 
 ;0xEFECFD88=The flashing light on the back of the truck indicates its condition.
-0xEFECFD88=卡车后部闪烁的指示灯表示它的状况。
+0xEFECFD88=卡车后部闪烁的指示灯表示炸弹的状态。
 

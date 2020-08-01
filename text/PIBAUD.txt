@@ -54,7 +54,7 @@
 0x17DAE2EC=PIB_QA
 
 ;0x18F42DD3=~z~This is step number nine in the program. I'm making amends to all those I harmed. Expensive process.
-0x18F42DD3=~z~这是计划里的第九步。我要补偿伤害过的所有人。代价高昂的过程。
+0x18F42DD3=~z~这是戒毒计划的第九步。我要补偿伤害过的所有人。代价高昂的过程。
 
 ;0x19AD8463=PIB_JF
 0x19AD8463=PIB_JF
@@ -117,7 +117,7 @@
 0x3135994B=~z~我感觉很好。
 
 ;0x3190FD0A=~z~You were hitting the rocks alright.
-0x3190FD0A=~z~你不是在磕石头(海洛因)吗。
+0x3190FD0A=~z~你不是在嗑石头*吗。~n~(指可卡因)
 
 ;0x32DD7C85=~z~How you doing?
 0x32DD7C85=~z~你好吗？
@@ -204,7 +204,7 @@
 0x56A23E85=~z~拜托？
 
 ;0x574FAA30=~z~On Uncle Sam. Benjamin motherfucking Franklin. Freedom.
-0x574FAA30=~z~敬山姆大叔。本杰他妈明的富兰克林。自由。
+0x574FAA30=~z~敬山姆大叔。本杰明他妈的富兰克林。自由。
 
 ;0x58C2C3E5=200200200200
 0x58C2C3E5=200200200200
@@ -285,7 +285,7 @@
 0x75678A64=PIB_MB
 
 ;0x7796F680=~z~I reckon every rock of crack has a gravitational pull for you, buddy.
-0x7796F680=~z~我觉得所有海洛因结晶都对你有引力，伙计。
+0x7796F680=~z~我觉得所有可卡因结晶都对你有引力，伙计。
 
 ;0x7A6B2BB1=~z~And I have an Ivy League education...
 0x7A6B2BB1=~z~然后我接受了常春藤联盟的教育...
@@ -303,7 +303,7 @@
 0x7DDA0CF8=~z~嘿，你的道歉我接受了。不用担心。
 
 ;0x7E213321=~z~Sure - the crack smoking American dream.
-0x7E213321=~z~当然记得－吸可卡因的那个美国梦。
+0x7E213321=~z~当然记得，吸可卡因的那个美国梦。
 
 ;0x7EFDD176=PIB_DA
 0x7EFDD176=PIB_DA
@@ -312,7 +312,7 @@
 0x7F17633C=100100010100010100100
 
 ;0x80D788F1=~z~known to man, this thing is meant to be so fucking big,
-0x80D788F1=~z~最大的海洛因结晶了，这玩意可太他妈大了，
+0x80D788F1=~z~最大的可卡因结晶了，这玩意可太他妈大了，
 
 ;0x8561E9DE=PIB_JA
 0x8561E9DE=PIB_JA
@@ -348,7 +348,7 @@
 0x9052D784=~z~我是干净的，老哥...好一次经历。
 
 ;0x91A76B27=~z~That's them. Do you mind waiting here?
-0x91A76B27=~z~是他们了。你介意在这等着吗？
+0x91A76B27=~z~是他们了。能麻烦你在这等着吗？
 
 ;0x91C59F1B=~z~You're a dick.
 0x91C59F1B=~z~你个屌人。
