@@ -13465,13 +13465,13 @@
 0xA9058A93=~s~你有一个约会备忘。它将在约会前两小时显示，并在约会前半小时再次显示。
 
 ;0x0EC85617=~s~The ~BLIP_54~ icon on your radar indicates the location of your date.
-0x0EC85617=~s~小地图上的~BLIP_54~图标表示你约会的位置。
+0x0EC85617=~s~小地图上的~BLIP_54~图标表示你的约会地点。
 
 ;0xFD75B372=~s~To check your appointments, select 'organizer' on your phone menu and select a day. A list of your appointments for that day will be displayed.
 0xFD75B372=~s~选择手机菜单中的「日程」后选择日期以查看你的安排。你当日的所有安排都会显示。
 
 ;0x276788C8=~s~Get to the diner to meet French Tom.
-0x276788C8=~s~前去吃饭以和French Tom见面。
+0x276788C8=~s~去餐馆和French Tom见面。
 
 ;0x005BAAB7=~s~Take a seat in a booth to watch the show.
 0x005BAAB7=~s~找个位置坐下观看演出。
@@ -13501,7 +13501,7 @@
 0x214EB29A=按~INPUT_PICKUP~游玩QUB3D。
 
 ;0x90FF93B8=~s~QUB3D unavailable while on a mission.
-0x90FF93B8=~s~任务期间无法游玩QUB3D。
+0x90FF93B8=~s~QUB3D在任务期间不可用。
 
 ;0xF2D1D23E=Press ~INPUT_PICKUP~ to hail a cab.
 0xF2D1D23E=按~INPUT_PICKUP~打的。
@@ -13540,7 +13540,7 @@
 0x5DFBA88C=用~PAD_LSTICK_UPDOWN~切换目的地。~n~按~INPUT_FRONTEND_ACCEPT~选中目的地。~n~按~INPUT_FRONTEND_CANCEL~取消。~n~按~INPUT_VEH_EXIT~下车。
 
 ;0x4E688966=Hold ~INPUT_ENTER~ to enter Roman's car service as passenger.
-0x4E688966=长按~INPUT_ENTER~作为乘客进入Roman的叫车服务。
+0x4E688966=长按~INPUT_ENTER~作为乘客进入Roman派来的车。
 
 ;0x7527D6E4=Use ~PAD_LSTICK_UPDOWN~ to change your destination.~n~Press ~INPUT_FRONTEND_ACCEPT~ to choose your destination.~n~Use ~PAD_RSTICK_ALL~ to look around.~n~Press ~INPUT_VEH_EXIT~ to exit.
 0x7527D6E4=用~PAD_LSTICK_UPDOWN~切换目的地。~n~按~INPUT_FRONTEND_ACCEPT~选中目的地。~n~用~PAD_RSTICK_ALL~观察四周。~n~按~INPUT_VEH_EXIT~下车。
@@ -13738,7 +13738,7 @@
 0x9A24B24E=Roman的叫车服务无法到达你当前的位置。
 
 ;0xA7BFCE94=Roman has dispatched a car for you that will arrive soon. It is shown on the radar by the blue marker.
-0xA7BFCE94=Roman已经给你派车了，很快就会到。在小地图上以蓝色记号标记。
+0xA7BFCE94=Roman已经派车了，很快就会到。车在小地图上以蓝色记号标记。
 
 ;0x4051CF18=Use ~PAD_LSTICK_LEFTRIGHT~ to get in position.~n~Press ~ACCEPT~ to choose a ready position.~n~Press ~PAD_Y~ to check the score.~n~Press ~INPUT_PICKUP~ to quit.
 0x4051CF18=用~PAD_LSTICK_LEFTRIGHT~改变发球位置。~n~按~ACCEPT~选定发球位置。~n~按~PAD_Y~查看比分。~n~按~INPUT_PICKUP~退出。
@@ -17670,10 +17670,10 @@
 0xC40C2CD7=停到Dwayne附近接上他。
 
 ;0x12A00263=To view the organizer press ~INPUT_PHONE_ACCEPT~ to access the phone menu, scroll down and press ~INPUT_PHONE_ACCEPT~ to select the organizer option.
-0x12A00263=要查看日程，按~INPUT_PHONE_ACCEPT~访问手机菜单，下拉选中「日程」后按~INPUT_PHONE_ACCEPT~查看。
+0x12A00263=要查看日程，按~INPUT_PHONE_ACCEPT~进入手机菜单，下拉选中「日程」后按~INPUT_PHONE_ACCEPT~查看。
 
 ;0x4F897C35=Any day with an appointment will have a bell icon next to it. Select a day and press ~INPUT_PHONE_ACCEPT~ to view the appointment.
-0x4F897C35=已有安排的日子旁边将会用铃铛标注。选择一天后按~INPUT_PHONE_ACCEPT~查看当日安排。
+0x4F897C35=已有安排的日子旁边会用铃铛标注。选择一天后按~INPUT_PHONE_ACCEPT~查看当日安排。
 
 ;0x340D1CCD=Brucie now likes you enough to do favors for you. You can call up Brucie and select "Chopper" and he will pick you up in a helicopter and take you to destinations around the city.
 0x340D1CCD=Brucie现在很喜欢你，乐意为你提供帮助。打给Brucie时选择「搭直升机」，他就会开直升机接送你到城里的各个地方。
@@ -23343,7 +23343,7 @@
 0x9132DB0D=www.peepthatshit.com
 
 ;0xA50328A5=Message Sent
-0xA50328A5=Message Sent
+0xA50328A5=已发送
 
 ;0xD84E9C6A=THIS LABEL NEEDS TO BE HERE !!!
 0xD84E9C6A=THIS LABEL NEEDS TO BE HERE !!!
@@ -24108,7 +24108,7 @@
 0xA550D775=我靠。拍他们的时候麻烦把脸拍清楚了，老弟。 - X
 
 ;0xD77F3BD1=I can't see shit. Take a proper pic of them cats. - the X
-0xD77F3BD1=屁都没看见。给他们好好拍一张。 - X
+0xD77F3BD1=屁都看不见。给他们好好拍一张。 - X
 
 ;0xC8E39E9A=Yo money, sumthing's come up. Hit me at my crib coz i got work for y'all. $$$ - the X
 0xC8E39E9A=哟，老弟，有活来了。来我公寓找我，我这儿有活给你。$$$ - X
@@ -27159,7 +27159,7 @@
 0xE55CA3AD=~z~~x~那，你...你在Roman手下做了很久了？
 
 ;0xCAE96ECF=~z~~x~Ever since I got to this city, my friend. Roman's been screwing me ever since I got here - yes.
-0xCAE96ECF=~z~~x~刚到这座城市的时候就在了，我的朋友。从我来这儿的时候起，Roman就在烦我了－是的。
+0xCAE96ECF=~z~~x~我刚来自由城的时候就在了，我的朋友。从我来这儿的时候起，Roman就在烦我了——是的。
 
 ;0x58AE0A5A=~z~~x~Hey man, don't talk shit about Roman. If he don't pay fairly, go work for someone else.
 0x58AE0A5A=~z~~x~喂，老兄，别说Roman坏话。嫌他给的钱少就去别家。

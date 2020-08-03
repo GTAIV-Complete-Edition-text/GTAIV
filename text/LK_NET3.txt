@@ -24,10 +24,10 @@
 0x430B4EF7=~r~目标身份未辨明。~s~
 
 ;0x51D4EC8A=~r~One of the gang members got away, it could have been Marlon.~s~
-0x51D4EC8A=~r~其中一个混混跑了，说不定就是Marlon。~s~
+0x51D4EC8A=~r~有混混跑了，说不定就是Marlon。~s~
 
 ;0x6292B9A5=Use ~PAD_RSTICK_ALL~ to move the camera. Zoom in and out using ~PAD_LSTICK_UPDOWN~. Press ~INPUT_PHONE_ACCEPT~ to capture an image. When taking a photo of a person make sure you get a clear shot of their face.
-0x6292B9A5=用~PAD_RSTICK_ALL~移动相机，用~PAD_LSTICK_UPDOWN~进行缩放。按~INPUT_PHONE_ACCEPT~拍照。拍人时确保能拍到脸。
+0x6292B9A5=用~PAD_RSTICK_ALL~移动镜头，用~PAD_LSTICK_UPDOWN~进行缩放。按~INPUT_PHONE_ACCEPT~拍照。拍人时确保能拍到脸。
 
 ;0x67B0D6D2=You are too far from the targets to obtain a clear shot.
 0x67B0D6D2=你离目标太远了，拍不清楚。
@@ -39,7 +39,7 @@
 0x8529FED3=用~PAD_LSTICK_ALL~移动相机，用~PAD_RSTICK_UPDOWN~进行缩放。按~INPUT_PHONE_ACCEPT~拍照。拍人时确保能拍到脸。
 
 ;0x883A5958=Take a picture of the gang members and send it to Playboy. Don't get too close.
-0x883A5958=拍一张混混团体们的照片，发给Playboy。别靠得太近。
+0x883A5958=拍一张混混团体的照片，发给Playboy。别靠得太近。
 
 ;0x967975D6=Kill all the ~r~gang members.~s~
 0x967975D6=杀了所有~r~混混。~s~
