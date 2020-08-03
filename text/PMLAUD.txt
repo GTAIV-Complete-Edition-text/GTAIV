@@ -162,7 +162,7 @@
 0x68A02682=~z~噢，不！等下，等下，等下！
 
 ;0x6A11B9A7=~z~Hey man, we're here to pay back the money my friend here owed you.
-0x6A11B9A7=~z~喂，老兄，我们是来这儿还我朋友欠你的钱的。
+0x6A11B9A7=~z~喂，老兄，我们是来还我朋友欠你的钱的。
 
 ;0x6A3B1F42=010
 0x6A3B1F42=010
@@ -267,7 +267,7 @@
 0xA8DEA5FE=~z~好！你跟我说这些干嘛？
 
 ;0xAABA979E=~z~Sure... sure. Yeah. Serenity...
-0xAABA979E=~z~对...确实，对。宁静(也是酒名)...
+0xAABA979E=~z~对...确实，对。宁静*...~n~(也是酒名)
 
 ;0xAE5AA04C=PML_CC
 0xAE5AA04C=PML_CC
@@ -294,7 +294,7 @@
 0xB73C1A77=~z~我等着见这个屌丝酒鬼很久了。
 
 ;0xB778E2C4=~z~I'm waking up before noon, for Christ's sake.
-0xB778E2C4=~z~我中午之前就睡醒了，老天。
+0xB778E2C4=~z~我居然在中午之前就醒了，老天。
 
 ;0xB99FB2FD=~z~Shit, I can't remember none of that.
 0xB99FB2FD=~z~操，我怎么完全没有印象。
@@ -366,7 +366,7 @@
 0xE4623C9A=~z~操，之前我连杯水都拿不住，肯定会倒在自己身上。
 
 ;0xE57A76F3=~z~Mel ain't nearly hit rock bottom yet.
-0xE57A76F3=~z~Mel甚至还没有达到谷底呢。
+0xE57A76F3=~z~Mel都还没沉沦到底呢。
 
 ;0xE5DA4CB8=~z~Maybe I'll keep a ten spot for myself though.
 0xE5DA4CB8=~z~要么还是给我自己留十块吧。

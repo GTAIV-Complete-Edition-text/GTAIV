@@ -33,7 +33,7 @@
 0x45B21ABE=你的得分
 
 ;0x620A8E95=It takes four large blocks to completely fill the power bar.
-0x620A8E95=需要消除四个大方块才能填满能量槽。
+0x620A8E95=填满一次能量槽需要消除四个大方块。
 
 ;0x6B70C390=Once removed from the grid any blocks above those removed will fall down to fill the empty spaces.
 0x6B70C390=方块消除后，原先在其上方的方块就会下落填补空位。
@@ -42,7 +42,7 @@
 0x6BF824BE=~s~x ~1~
 
 ;0x6DB4A5E9=Once the power bar has been filled once you can use a power up by pressing either ~PAD_X~, ~PAD_Y~, ~PAD_A~ or ~PAD_B~.
-0x6DB4A5E9=能量槽填满后，你可以按下~PAD_X~~PAD_Y~~PAD_A~~PAD_B~中的一个发动能量特技。
+0x6DB4A5E9=能量槽填满后，你可以按~PAD_X~~PAD_Y~~PAD_A~~PAD_B~中的一个发动能量特技。
 
 ;0x6F323527=~s~POWER
 0x6F323527=~s~能量
@@ -72,7 +72,7 @@
 0x974E12C3=~s~最高分
 
 ;0x9FD82C5A=Each time empty spaces are removed the score for each block removal gets multiplied.
-0x9FD82C5A=每次消除都会增加消除单位方块可得的分数。
+0x9FD82C5A=每次消除都会增加消除单位方块可获得的分数。
 
 ;0x9FFAB8D7=~s~SPECIAL
 0x9FFAB8D7=~s~特技
@@ -99,7 +99,7 @@
 0xC2B60456=~INPUT_FRONTEND_ACCEPT~
 
 ;0xC586FE95=Once the power bar has been filled once you can use a power up by pressing either ~INPUT_FRONTEND_MINIGAME_1~, ~INPUT_FRONTEND_MINIGAME_2~, ~INPUT_FRONTEND_MINIGAME_3~ or ~INPUT_FRONTEND_MINIGAME_4~.
-0xC586FE95=能量槽填满后，你可以按下~INPUT_FRONTEND_MINIGAME_1~~INPUT_FRONTEND_MINIGAME_2~~INPUT_FRONTEND_MINIGAME_3~~INPUT_FRONTEND_MINIGAME_4~中的一个发动能量特技。
+0xC586FE95=能量槽填满后，你可以按~INPUT_FRONTEND_MINIGAME_1~~INPUT_FRONTEND_MINIGAME_2~~INPUT_FRONTEND_MINIGAME_3~~INPUT_FRONTEND_MINIGAME_4~中的一个发动能量特技。
 
 ;0xC682D44B=TUTORIAL
 0xC682D44B=教程

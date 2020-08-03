@@ -69,7 +69,7 @@
 0xA97B8AFF=~s~你收到了新邮件，检查你的收件箱。
 
 ;0xB3179E33=~s~French Tom is inside the diner. Look for him.
-0xB3179E33=~s~French Tom在餐馆里。寻找他。
+0xB3179E33=~s~French Tom在餐馆里，进去找他。
 
 ;0xCC64BABD=~s~Lose your wanted level.
 0xCC64BABD=~s~降低你的通缉度。
@@ -78,7 +78,7 @@
 0xD4E561CE=~s~干掉~r~French Tom。
 
 ;0xEEE71485=~s~When ready, stand up and take out a weapon. Press ~INPUT_PICKUP~ to get up.
-0xEEE71485=~s~准备好后就站起来掏出武器。按~INPUT_PICKUP~起身。
+0xEEE71485=~s~准备好后就起身掏出武器。按~INPUT_PICKUP~起身。
 
 ;0xF31E9E44=~s~Use a computer to get on love-meet.net and find FRENCH TOM.
 0xF31E9E44=~s~用电脑登录love-meet.net寻找FRENCH TOM。

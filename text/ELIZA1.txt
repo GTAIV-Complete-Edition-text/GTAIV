@@ -27,19 +27,19 @@
 0x764817F1=~s~降低你的通缉度。~s~
 
 ;0x79EEF3F4=~s~Go to the ~y~building~s~ in South Bohan.
-0x79EEF3F4=~s~前往South Bohan的~y~楼房。
+0x79EEF3F4=~s~前往South Bohan的~y~公寓楼。
 
 ;0x7A746F45=~s~Use ~PAD_LSTICK_UP~ to zoom in. ~s~Use ~PAD_LSTICK_DOWN~ to zoom out.
 0x7A746F45=~s~用~PAD_LSTICK_UP~放大。~s~用~PAD_LSTICK_DOWN~缩小。
 
 ;0x82ED38C3=~r~ The meeting has been cancelled. Don't break up the meeting when you don't have to.~s~
-0x82ED38C3=~r~会面取消了，不要在没有必要的时候打断会面。~s~
+0x82ED38C3=~r~会面取消了，不要自作主张打断会面。~s~
 
 ;0x8B2E9673=Packie and his associate have arrived. Watch over the meeting with the sniper rifle.
-0x8B2E9673=Packie和他的同伙已经到了。用狙击步枪监视会面。
+0x8B2E9673=Packie和他的同伙已经到场。用狙击步枪监视会面。
 
 ;0x90E59C37=~s~Shoot through the windshield to hit the driver.
-0x90E59C37=~s~射击挡风玻璃以伤害司机。
+0x90E59C37=~s~射击挡风玻璃攻击司机。
 
 ;0xBF2278B0=~s~Use ~PAD_RSTICK_ALL~ to aim.
 0xBF2278B0=~s~用~PAD_RSTICK_ALL~瞄准。
