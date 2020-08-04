@@ -24,10 +24,10 @@
 0x0A78A1A7=~z~我也有想要忘却的事情。那些在我故乡发生的事情，战争...
 
 ;0x0A9B886D=~z~Lord above - you don't even enjoy it? Then why do it?
-0x0A9B886D=~z~上帝啊－你自己都不高兴？那还做这种事干嘛？
+0x0A9B886D=~z~上帝啊，你自己都不高兴？那还做这种事干嘛？
 
 ;0x0AAA8DC3=~z~Ha ha - I know all about that.
-0x0AAA8DC3=~z~哈哈－完全可以理解。
+0x0AAA8DC3=~z~哈哈，完全可以理解。
 
 ;0x0C7EDA96=~z~I do not need some quack trying to get inside my head.
 0x0C7EDA96=~z~我可不需要什么想诊断我的脑子的庸医。
@@ -123,7 +123,7 @@
 0x27389019=~z~每个人都需要一个克服自己痛苦的方法。
 
 ;0x2E4A5502=~z~Same as always - trying to deal with the reality of my awful family.
-0x2E4A5502=~z~一如既往－试图应付我糟糕家庭的现实。
+0x2E4A5502=~z~一如既往，试图应付我糟糕家庭的现实。
 
 ;0x2FCA9768=~z~What's wrong with me? Quite a lot, I'm sure.
 0x2FCA9768=~z~我有什么毛病？一大把吧，肯定有。
@@ -288,13 +288,13 @@
 0x73ED6047=~z~他俩一模一样。至于他们处得好吗？不好，他们互相看不顺眼。他俩都是混蛋，就这样。
 
 ;0x7549E7AB=~z~You should see him around me, if a man even looks in my direction, he threatens to rip his heart out.
-0x7549E7AB=~z~那你应该看看他在我身边的表现的，要是有个男人往我的方向看过来，他就会上去威胁要掏了那个男人的心脏。
+0x7549E7AB=~z~那你应该看看他在我身边的表现的，要是有个男人往我的方向看，他就会上去威胁要掏了那个男人的心脏。
 
 ;0x76A4B368=GCK2_THERAPY_GE
 0x76A4B368=GCK2_THERAPY_GE
 
 ;0x7733A63D=~z~Sounds like you still are.
-0x7733A63D=~z~听起来你现在也是。
+0x7733A63D=~z~听起来你现在还没摆脱战争。
 
 ;0x77C719C4=~z~They were wife beating alcoholics, who, luckily, were both what they deserved to be.
 0x77C719C4=~z~他俩都是打老婆的酒鬼，完全一个德性。
@@ -330,7 +330,7 @@
 0x7F817695=~z~所以。
 
 ;0x816CF60E=~z~Forgive me... I'm sorry if this is a weird question - what was the war like?
-0x816CF60E=~z~请见谅...如果这个问题太怪的话我就先道歉了－战争是怎么样的？
+0x816CF60E=~z~请见谅...如果这个问题太怪的话我就先道歉了。战争是怎么样的？
 
 ;0x8193A5AF=100010100010100100010010100100010100100010100100100
 0x8193A5AF=100010100010100100010010100100010100100010100100100
@@ -447,13 +447,13 @@
 0xA77602B1=GCK2_STUPID_FG
 
 ;0xA89F82A6=~z~I found her. Roman does not know - he thought she died in a house fire.
-0xA89F82A6=~z~我找到了她。Roman还不知道－他以为她是因为家中失火丧命的。
+0xA89F82A6=~z~我找到了她。Roman还不知道，他以为她是因为家中失火丧命的。
 
 ;0xA98EFD53=~z~My mother - my mother is one of life's victims.
 0xA98EFD53=~z~我的母亲－我母亲她是生活的受害者。
 
 ;0xAADD48F2=~z~It was great - you got to see people turn into animals and your close friends die.
-0xAADD48F2=~z~很棒－你可以看见人类变成禽兽，看见你的挚友死亡。
+0xAADD48F2=~z~很棒。你可以看见人类变成禽兽，看见你的挚友死亡。
 
 ;0xAD0BCE7B=~z~I couldn't date you... someone like my brothers. I couldn't do that to myself.
 0xAD0BCE7B=~z~我不可能跟你约会的...约你这种和我哥哥们一样的人。我不会对自己做那种事的。
@@ -519,7 +519,7 @@
 0xC06C7269=GCK2_THERAPY_GL
 
 ;0xC2333C3B=~z~To live a normal life, I mean - get married, have kids, not steal, rob, kill.
-0xC2333C3B=~z~过正常的生活，我是说－结婚生子，不是偷盗、抢劫、杀人。
+0xC2333C3B=~z~我是说过正常的生活。结婚生子，不是偷盗、抢劫、杀人。
 
 ;0xC2B29218=~z~Actually, I wish to forget some of the things that happened to me here, in Liberty City as well.
 0xC2B29218=~z~其实，我也想忘记一些在自由城这里遭遇的事情。
@@ -558,7 +558,7 @@
 0xD0CCF0AE=GCK2_TOUGH_BB
 
 ;0xD11B4C6B=~z~I know - look at the company I keep.
-0xD11B4C6B=~z~我知道－也不看看和我一起的人是谁。
+0xD11B4C6B=~z~我知道，也不看看和我一起的人是谁。
 
 ;0xD13B8338=GCK2_TOUGH_BR
 0xD13B8338=GCK2_TOUGH_BR
@@ -573,7 +573,7 @@
 0xD3A8C5E7=GCK2_HIGHWAYMAN_CJ
 
 ;0xD4DB618B=~z~It can't be easier, than having a job I mean?
-0xD4DB618B=~z~我想这不会比找份工作还难吧？
+0xD4DB618B=~z~这总不会比找份工作还难吧？
 
 ;0xD600E641=GCK2_NICE_AE
 0xD600E641=GCK2_NICE_AE

@@ -85,7 +85,7 @@
 0x110515CB=~z~我连房间都没进去，见不着他。结束的有点早。
 
 ;0x11350CD6=~z~Ahh... it's Niko Bellic, I'm here for an interview.
-0x11350CD6=~z~啊...我是Niko Bellic，是来参加面试的。
+0x11350CD6=~z~呃...我是Niko Bellic，是来参加面试的。
 
 ;0x11E06393=~z~Come into our offices in a few days time. Is that alright?
 0x11E06393=~z~几天内来我们的事务所，可以吗？
@@ -136,7 +136,7 @@
 0x1F8925CE=FM2_A_VA
 
 ;0x2146BA1A=~z~Press the buzzer and we'll let you in. Have a nice day.
-0x2146BA1A=~z~按下门铃后我们就会让您进来。祝您愉快。
+0x2146BA1A=~z~按下门铃后我们就会让您进来。祝您生活愉快。
 
 ;0x21713501=~z~Guy has a bodyguard, limo, everything.
 0x21713501=~z~这人有保镖、有专车，啥都有。
@@ -343,7 +343,7 @@
 0x4795C4DA=~z~那个狗逼以为他能让我下台。
 
 ;0x49235218=~z~Press the buzzer and we'll let you in. Have a nice day.
-0x49235218=~z~按下门铃后我们就会让您进来。祝您愉快。
+0x49235218=~z~按下门铃后我们就会让您进来。祝您生活愉快。
 
 ;0x49B8A84B=~z~The person on the other end of the line is certainly keen for me to do what I came here to do.
 0x49B8A84B=~z~The person on the other end of the line is certainly keen for me to do what I came here to do.
@@ -410,7 +410,7 @@
 0x54D12697=~z~档案都在这儿了。
 
 ;0x552BF358=~z~Mr. Bellic, welcome. I'll just see if Mr. Goldberg is available.
-0x552BF358=~z~Bellic先生，欢迎。我要看一下Goldberg先生是否有空。
+0x552BF358=~z~Bellic先生，欢迎。我要先确认Goldberg先生是否有空。
 
 ;0x55573BF9=FM2_A_MB
 0x55573BF9=FM2_A_MB
@@ -602,7 +602,7 @@
 0x7C7B9281=200020200
 
 ;0x7E300E99=~z~For people, read society, read City Hall. I shake them, and I say "floss!"
-0x7E300E99=~z~所谓的人，就是社会上的、市政厅里的人。我和他们握手，然后我就说「牙线！」
+0x7E300E99=~z~所谓的人，就是社会上的、市政厅里的人。我和他们握手，然后说「牙线！」
 
 ;0x7E38F114=FM2_BE
 0x7E38F114=FM2_BE
@@ -650,7 +650,7 @@
 0x85FB8E29=~z~－噢，好吧，祝你今天愉快。~n~－他妈放开我。
 
 ;0x864231C8=~z~You do.
-0x864231C8=~z~你是这样的。
+0x864231C8=~z~你是这样做的。
 
 ;0x8701A2AC=FM2_BA
 0x8701A2AC=FM2_BA
@@ -869,7 +869,7 @@
 0xACE56CF7=~z~啊，给我滚出去！
 
 ;0xAE70FA94=~z~Press the buzzer and we'll let you in. Have a nice day.
-0xAE70FA94=~z~按下门铃后我们就会让您进来。祝您愉快。
+0xAE70FA94=~z~按下门铃后我们就会让您进来。祝您生活愉快。
 
 ;0xAEDFAFEB=~z~I'm an important person, don't hurt me, Nikolai.
 0xAEDFAFEB=~z~我是重要人物，不要伤害我，Nikolai。
@@ -986,16 +986,16 @@
 0xC8B3E2E7=FM2_EB
 
 ;0xC8B5F1D3=~z~Press the buzzer and we'll let you in. Have a nice day.
-0xC8B5F1D3=~z~按下门铃后我们就会让您进来。祝您愉快。
+0xC8B5F1D3=~z~按下门铃后我们就会让您进来。祝您生活愉快。
 
 ;0xCB038BD4=FM2_BF
 0xCB038BD4=FM2_BF
 
 ;0xCB0EA3A7=~z~He's just so warm and giving. All he cares about is making the world a better place.
-0xCB0EA3A7=~z~他真的是很热情，具有奉献精神。他所关心的就是让世界更美好。
+0xCB0EA3A7=~z~他真的很热情，具有奉献精神。他所关心的就是让世界更美好。
 
 ;0xCC5F8B57=~z~Press the buzzer and we'll let you in. Have a nice day.
-0xCC5F8B57=~z~按下门铃后我们就会让您进来。祝您愉快。
+0xCC5F8B57=~z~按下门铃后我们就会让您进来。祝您生活愉快。
 
 ;0xCC8237EB=~z~Shit, they're on my desk. I never hurt anyone.
 0xCC8237EB=~z~操，就在我桌上。我从没伤害过任何人。

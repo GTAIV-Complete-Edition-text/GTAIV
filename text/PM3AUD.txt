@@ -133,7 +133,7 @@
 0x1C8522E1=~z~不，没有问题。
 
 ;0x1C8BEB04=~z~Hit the needle on the old head there did I, Derrick?
-0x1C8BEB04=~z~一针扎在你的古董脑袋上对吧，Derrick？~n~(译注：讲Derrick的吸毒方式)
+0x1C8BEB04=~z~一针扎在你的古董脑袋上*对吧，Derrick？~n~(注：讲Derrick的吸毒方式)
 
 ;0x1C8D0AD2=~z~Head across here, come on.
 0x1C8D0AD2=~z~Head across here, come on.
@@ -454,7 +454,7 @@
 0x571B6026=~z~首先，你丫可真是谈吐风趣，Patrick。
 
 ;0x57AA5984=~z~There he is - Niko Bellic.
-0x57AA5984=~z~他来了－Niko Bellic。
+0x57AA5984=~z~他来了——Niko Bellic。
 
 ;0x57FF18F0=592
 0x57FF18F0=592
@@ -904,7 +904,7 @@
 0xB75A8A13=~z~操你妈的，先把你胳膊上的针头拔下来再对我发号施令。
 
 ;0xB7765341=~z~Was I talking to you, you inbred halfwit?
-0xB7765341=~z~我有跟你说话吗，你个近亲繁殖的智障？
+0xB7765341=~z~我有跟你说话吗，近亲繁殖的智障？
 
 ;0xB77F257E=~z~Here you go.
 0xB77F257E=~z~Here you go.
@@ -1066,7 +1066,7 @@
 0xD59398A0=292
 
 ;0xD64DDE89=~z~The expression is hit the nail on the head, Packie.
-0xD64DDE89=~z~是一锤砸在钉子头上吧，Packie。~n~(译注：英文谚语的一针见血)
+0xD64DDE89=~z~是一锤砸在钉子头上*吧，Packie。~n~(注：英文谚语的一针见血)
 
 ;0xD653BB28=PM3_FB
 0xD653BB28=PM3_FB
@@ -1138,7 +1138,7 @@
 0xE3746599=~z~操，又他妈是一车条子。
 
 ;0xE37D10DC=~z~I wasn't just driving you two, the money was in the car as well. Remember that.
-0xE37D10DC=~z~我不只是为了你们开车，车里面可还有钱呢。记着点。
+0xE37D10DC=~z~我不只是替你俩开车，车里面可还有钱呢。记着点。
 
 ;0xE3A5162D=~z~Get through these bastards and then rendezvous. Let's go.
 0xE3A5162D=~z~Get through these bastards and then rendezvous. Let's go.

@@ -30,7 +30,7 @@
 0x12DCA645=GM1_HG
 
 ;0x18ABEC67=~z~Hey, Big Tone, did you kick some ass or what?
-0x18ABEC67=~z~嘿，大Tone，有没有谈出什么花头来？
+0x18ABEC67=~z~嘿，大Tone，有没有谈出什么东西来？
 
 ;0x1A523055=~z~Get your ass back here.
 0x1A523055=~z~你丫赶紧回来。
@@ -60,7 +60,7 @@
 0x37BBEB28=~z~Gerry，我跟丢了Tony的车，没法子在他们和手下一起的时候引爆炸弹了。
 
 ;0x37E957EA=~z~Alright listen, the Ancelottis and the Albanians are meeting in Little Italy.
-0x37E957EA=~z~那好，听着，现在Ancelotti家族和和阿尔巴尼亚人在Little Italy会面。
+0x37E957EA=~z~那好，听着，现在Ancelotti家族和阿尔巴尼亚人在Little Italy会面。
 
 ;0x393F3B3F=~z~-It was fun.~n~-Fun?
 0x393F3B3F=~z~－那次挺有趣的。~n~－有趣？
@@ -150,13 +150,13 @@
 0x7DADC42B=~z~Packie很中意你，非常中意你。
 
 ;0x80006817=~z~Niko, I wouldn't trust myself with this task. You ain't got a gallon of whiskey in your system, and besides, you're bein' paid, ain't ya?
-0x80006817=~z~Niko，这任务我信不过自己。你体内可没有一加仑威士忌，再说，你是我花钱雇的，不是吗？
+0x80006817=~z~Niko，这任务我信不过自己，你体内可没有一加仑威士忌。再说，你是我花钱雇的，不是吗？
 
 ;0x81578E84=~z~You're gonna plant a bomb in Tony Black's car. It'll be rigged to a phone.
 0x81578E84=~z~为此你要在Tony Black的车上装上炸弹，电话引爆的那种。
 
 ;0x815D0DB3=~z~Too much fun - that's always been this family's problem.
-0x815D0DB3=~z~有趣过头了－这个家族一直都有这个问题。
+0x815D0DB3=~z~有趣过头了。这个家族一直都有这个问题。
 
 ;0x8751BDA6=~z~Niko, if you're following some guys back to a meet you gotta keep a low profile. Christ!
 0x8751BDA6=~z~Niko，你要是想尾行别人不被发现就给我保持低调。天哪！
@@ -249,7 +249,7 @@
 0xC0C80F14=GM1_CB
 
 ;0xC5F496E5=~z~The whole lot spent in the proper manner, oh yeah,
-0xC5F496E5=~z~赚来的全拿去合理消费了，噢耶，
+0xC5F496E5=~z~赚来的全拿去「合理消费」了，噢耶，
 
 ;0xC657360E=GM1_GD
 0xC657360E=GM1_GD
@@ -261,7 +261,7 @@
 0xC87E9DB9=GM1_WA
 
 ;0xC953FAB9=~z~Now you put the bomb in the trunk, then follow the wiseguys from their meeting back to the rest of their crew,
-0xC953FAB9=~z~你把炸弹装他车后面，然后尾行那些大人物回到他们的其他成员地方。
+0xC953FAB9=~z~你把炸弹装他车后面，然后尾行那些大人物回到其他家族成员也在的据点。
 
 ;0xCA5EA095=~z~Exactly. Bomb's in an alley off of Inchon Avenue.
 0xCA5EA095=~z~正是，炸弹在Inchon大道的一条巷子里。

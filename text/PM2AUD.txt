@@ -489,7 +489,7 @@
 0x689BB682=PM2_A_QA
 
 ;0x68AE9650=~z~Take us out to the waste management plant under the Algonquin Bridge on Colony Island, big man.
-0x68AE9650=~z~　　带我们去Algonquin大桥下的垃圾处理厂，~n~Colony Island的那个，大块头。
+0x68AE9650=~z~　　带我们去Algonquin大桥下的垃圾处理厂，~n~Colony岛的那个，大块头。
 
 ;0x6941D73D=~z~I like your attitude, Niko. I think we're gonna keep getting on real well.
 0x6941D73D=~z~我喜欢你的态度，Niko。我觉得我们关系会很好的。(BETA)
@@ -516,7 +516,7 @@
 0x6D20E24F=~z~我们待会儿到你家会合，Packie。
 
 ;0x6D92AF0A=~z~And the money is good, very good indeed.
-0x6D92AF0A=~z~收入很可观，真的是很可观。
+0x6D92AF0A=~z~收入很可观，真的很可观。
 
 ;0x6E82EAC6=~z~Sure thing, Packie.
 0x6E82EAC6=~z~必须的，Packie。(BETA)
@@ -567,7 +567,7 @@
 0x78AF152B=102
 
 ;0x78F600E6=~z~The whole city is turning into a fucking theme park.
-0x78F600E6=~z~这整座城都快他妈成主题公园了。
+0x78F600E6=~z~整座城都快他妈成主题公园了，
 
 ;0x7905178D=~z~I can believe that.
 0x7905178D=~z~这我倒是信的。
@@ -816,7 +816,7 @@
 0xAF1F7BE0=PM2_DAC
 
 ;0xAF336D60=~z~No one's fucking with me, Niko. This is how things work here.
-0xAF336D60=~z~没有人敢搞我，Niko。规矩就是这样。
+0xAF336D60=~z~没有人敢搞我，Niko。只是这里就是这样。
 
 ;0xAFDA36CC=~z~The fucking Mafia, boy.
 0xAFDA36CC=~z~狗逼黑手党，小子。
@@ -948,10 +948,10 @@
 0xD1F1B2DC=~z~闭嘴，Gordo。Ray给我们放了风，是关于Ancelotti家族刚到手的一笔大钱的。
 
 ;0xD1F4FACC=~z~You think they're having a laugh with Gerald, Gordo?
-0xD1F4FACC=~z~要么你看看他们在Gerald面前还笑不笑的出来，Gordo？
+0xD1F4FACC=~z~要么你看看他们在Gerald面前还笑不笑得出来，Gordo？
 
 ;0xD3DB4D38=~z~He may have a badge, but I tell you for a fact he's as crooked as the rest of us McRearys.
-0xD3DB4D38=~z~他的确是个警察，不过我跟你讲，实际上他跟我们McReary家族剩下的人差不多坏。
+0xD3DB4D38=~z~他的确是个警察，不过我跟你讲，实际上他跟我们McReary家族的其他人一样坏。
 
 ;0xD3E10A96=PM2_CAF
 0xD3E10A96=PM2_CAF
