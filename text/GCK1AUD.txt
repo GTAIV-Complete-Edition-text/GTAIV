@@ -21,7 +21,7 @@
 0x08BC68FA=100
 
 ;0x09E398FD=~z~Excellent - rejection. My favorite.
-0x09E398FD=~z~很好－拒绝。我的最爱。
+0x09E398FD=~z~很好，被拒绝了。我的最爱。
 
 ;0x0C051009=~z~You wanna hang out?
 0x0C051009=~z~你想出去玩吗？
@@ -33,7 +33,7 @@
 0x0D8FAF5A=100
 
 ;0x0EF735E7=~z~Hey, it's me - can you pick me up from the hospital? I'm getting out.
-0x0EF735E7=~z~嘿，是我－你能来医院接我吗？我出院了。
+0x0EF735E7=~z~嘿，是我。你能来医院接我吗？我出院了。
 
 ;0x10BF3A0C=GCK_ACT_GETCALL_ACCEPT
 0x10BF3A0C=GCK_ACT_GETCALL_ACCEPT
@@ -42,7 +42,7 @@
 0x125DB0B5=GCK_ACT_PKA_CALL_REJECTED
 
 ;0x12FCED60=~z~Kate - I'm sorry, something's come up... I can't make it to the hospital.
-0x12FCED60=~z~Kate－我很抱歉，我有点急事...来不了医院了。
+0x12FCED60=~z~Kate，我很抱歉，我有点急事...来不了医院了。
 
 ;0x1353027A=~z~I was beginning to hope you were dead.
 0x1353027A=~z~我开始希望你死了。
@@ -120,10 +120,10 @@
 0x2EEDA7F3=GCK_ACT_CALL_IRATE
 
 ;0x30DBAF15=~z~Thanks friend... asshole.
-0x30DBAF15=~z~谢了，朋友...傻逼。
+0x30DBAF15=~z~谢了，朋友...混蛋。
 
 ;0x30F35231=~z~I was asleep - call me after 8.
-0x30F35231=~z~我睡了－8点后打给我。
+0x30F35231=~z~我睡了，8点后打给我。
 
 ;0x310BCEC3=~z~Thanks.
 0x310BCEC3=~z~谢了。
@@ -135,7 +135,7 @@
 0x324C3A58=~z~没事，Niko，那改天吧，也许。
 
 ;0x332B4DF6=~z~I can't, Niko - I'm busy doing something for Ma.
-0x332B4DF6=~z~我没空，Niko－我忙着替我妈做事呢。
+0x332B4DF6=~z~我没空，Niko。我忙着替妈做事呢。
 
 ;0x33848AE4=GCK_ACT_PKA_CALL_LOLIKE
 0x33848AE4=GCK_ACT_PKA_CALL_LOLIKE
@@ -180,7 +180,7 @@
 0x4C824746=GCK_ACT_GETCALL_HOSP_REJ_MEDLIKE
 
 ;0x503A87AC=~z~I'd really love to Kate - but I'm in the middle of something crazy.
-0x503A87AC=~z~我是很想来，Kate－但是我现在忙着做一些疯狂的事。
+0x503A87AC=~z~我是很想来，Kate。但是我现在忙着做一些疯狂的事。
 
 ;0x516A7058=010
 0x516A7058=010
@@ -195,10 +195,10 @@
 0x538F7E44=~z~我好久没接到你的电话了。
 
 ;0x53F46D17=~z~Of course - I'll be there in an hour.
-0x53F46D17=~z~当然了－我一小时内就到。
+0x53F46D17=~z~当然了，我一小时内就到。
 
 ;0x543C1523=~z~Thank you Niko - I'll be waiting.
-0x543C1523=~z~谢谢你，Niko－我会等着的。
+0x543C1523=~z~谢谢你，Niko。我会等着的。
 
 ;0x55C55805=~z~Listen Kate forgive me, but something's come up.
 0x55C55805=~z~听着，Kate，原谅我，但我突然有急事。
@@ -207,7 +207,7 @@
 0x578DFAAF=GCK_ACT_GETCALL_REJECT
 
 ;0x57F45A3B=~z~I can't again so soon - another time.
-0x57F45A3B=~z~我不能这么快就再来一次－改天吧。
+0x57F45A3B=~z~我不能这么快就再来一次。改天吧。
 
 ;0x599B5419=100
 0x599B5419=100
@@ -237,7 +237,7 @@
 0x682DF37A=GCK_ACT_PKA_CALL_ACCEPTED
 
 ;0x6916A3EC=~z~Okay - I'll get a taxi or something.
-0x6916A3EC=~z~好吧－我会打的或者坐别的回来的。
+0x6916A3EC=~z~好吧。我会打的或者坐别的回来的。
 
 ;0x69791765=~z~Hi there, Kate, it's me, Niko.
 0x69791765=~z~嗨你好，Kate，是我，Niko。
@@ -246,7 +246,7 @@
 0x6A4E7FBC=100
 
 ;0x6BF8C83B=~z~I was asleep - I'll be up around 8.
-0x6BF8C83B=~z~我睡了－大概8点左右醒。
+0x6BF8C83B=~z~我睡了，大概8点左右醒。
 
 ;0x6EB11521=GCK_ACT_PKA_CALL_HOSP_CANCEL
 0x6EB11521=GCK_ACT_PKA_CALL_HOSP_CANCEL
@@ -255,10 +255,10 @@
 0x704D78BA=~z~好的。
 
 ;0x7123677B=~z~Thanks - great to be missed.
-0x7123677B=~z~谢了－很高兴能被想念。
+0x7123677B=~z~谢了，很高兴能被想念。
 
 ;0x71FA8E53=~z~No - another time.
-0x71FA8E53=~z~不了－改天吧。
+0x71FA8E53=~z~不了，改天吧。
 
 ;0x73F8261D=010
 0x73F8261D=010
@@ -273,7 +273,7 @@
 0x75AF2F8B=~z~好的。之后见。
 
 ;0x77A8410F=~z~Okay - I guess I'll make my own way home.
-0x77A8410F=~z~好的－我想我还是自己走回去吧。
+0x77A8410F=~z~好的。我想我还是走回去吧。
 
 ;0x794C870A=~z~Listen, I haven't heard from you in a while.
 0x794C870A=~z~听着，我有一段时间没接到你的电话了。
@@ -288,7 +288,7 @@
 0x7E22C1E4=GCK_ACT_CALL_SLEEP_REPLY
 
 ;0x7E2ECC7F=~z~Thanks - I love rejection!
-0x7E2ECC7F=~z~谢了－我爱拒绝！
+0x7E2ECC7F=~z~谢了。我爱被拒绝！
 
 ;0x7FEFE77E=~z~I've got some family stuff to deal with.
 0x7FEFE77E=~z~我有些家里的事要忙。
@@ -327,7 +327,7 @@
 0x8E384219=~z~非常感谢你什么都没做，Niko。
 
 ;0x908AF137=~z~Okay. Maybe we'll hang out another time, when you're less busy - maybe not.
-0x908AF137=~z~好的。或许我们可以改天再出去，等你没那么忙的时候－或许不出去了。
+0x908AF137=~z~好的。或许我们可以改天再出去，等你没那么忙的时候。或许不出去了。
 
 ;0x926DB844=~z~Okay. I'll call back.
 0x926DB844=~z~好的，我会打回来的。
@@ -372,7 +372,7 @@
 0xA03B6AD4=~z~我们只是出来玩，Niko。
 
 ;0xA19ED210=~z~Hey Europe, it's America - and Ireland.
-0xA19ED210=~z~嘿，欧洲，我是美国－也是爱尔兰。
+0xA19ED210=~z~嘿，欧洲，我是美国，也是爱尔兰。
 
 ;0xA1B9FF29=~z~I'm happy to give our friendship another go, because I like you, even though you are a dick. Pick me up in an hour.
 0xA1B9FF29=~z~我很乐意再给我们的友谊一次机会，因为我喜欢你，就算你是个混蛋也一样。一小时内来接我。
@@ -420,7 +420,7 @@
 0xB74CB30F=~z~嘿，是我。
 
 ;0xB8349F96=~z~Yes - how about now? I'm bored.
-0xB8349F96=~z~可以－要么就现在吧？我快无聊死了。
+0xB8349F96=~z~可以，要么就现在吧？我快无聊死了。
 
 ;0xB840BC67=~z~No problem... I will make my own way home.
 0xB840BC67=~z~没问题...我会自己回家的。
@@ -429,7 +429,7 @@
 0xC0FACA11=010
 
 ;0xC14DB20D=~z~That's weird, because when I woke up, I said to myself, Kate - hopefully you can be stood up by a prick today.
-0xC14DB20D=~z~很奇怪，因为我醒来的时候，我跟自己说，Kate－今天你很有希望被一个混蛋放鸽子。
+0xC14DB20D=~z~很奇怪，因为我醒来的时候，我跟自己说，Kate，今天你有希望被一个混蛋放鸽子。
 
 ;0xC1D96AE8=~z~I'd love to, but I'm in the middle of something.
 0xC1D96AE8=~z~我很想去，不过我现在在忙一件事。
@@ -444,7 +444,7 @@
 0xC6C9D1BF=~z~好的。
 
 ;0xC7670DA4=~z~Of course - I'll be there in an hour.
-0xC7670DA4=~z~当然－我会在一小时内到的。
+0xC7670DA4=~z~当然，我会在一小时内到的。
 
 ;0xC833B20F=GCK_ACT_PKA_GETCALL_HOSP_YES
 0xC833B20F=GCK_ACT_PKA_GETCALL_HOSP_YES
@@ -474,7 +474,7 @@
 0xD6F84264=~z~我在想你是不是还活着。
 
 ;0xD7D7DF29=~z~Thanks - really great of you - I love being stood up.
-0xD7D7DF29=~z~谢了－你真好－我喜欢被放鸽子。
+0xD7D7DF29=~z~谢了，你真好，我喜欢被放鸽子。
 
 ;0xD835E6FF=~z~Okay, Niko. I hope you're not causing too much trouble out there.
 0xD835E6FF=~z~好的，Niko。希望你在外面不会惹出太多乱子。
@@ -495,7 +495,7 @@
 0xDC77D109=~z~好的，一会儿见，Kate。
 
 ;0xE1DAF2E2=~z~Sure - I'm not doing anything now, actually. Come by.
-0xE1DAF2E2=~z~好啊－其实我现在也没什么事。来吧。
+0xE1DAF2E2=~z~好啊，其实我现在也没什么事。来吧。
 
 ;0xE36DEC11=GCK_ACT_CALL_DARTS_YES
 0xE36DEC11=GCK_ACT_CALL_DARTS_YES
@@ -534,7 +534,7 @@
 0xF5393898=GCK_ACT_GETCALL_HOSP_ASK
 
 ;0xF70DC945=~z~Sorry - I didn't realize what time it was. Go back to sleep.
-0xF70DC945=~z~抱歉－我没意识到现在几点了。回去睡觉吧。
+0xF70DC945=~z~抱歉，我没意识到现在几点了。你接着睡吧。
 
 ;0xF8AE42FC=GCK_ACT_GETCALL_GREET
 0xF8AE42FC=GCK_ACT_GETCALL_GREET

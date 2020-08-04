@@ -27,7 +27,7 @@
 0x0C57851A=~z~我们应该待到结束的。
 
 ;0x0DBF92AF=~z~Niko - I have only a limited time on earth and you're wasting too much of it.
-0x0DBF92AF=~z~Niko－我的时间非常有限，你浪费的太多了。
+0x0DBF92AF=~z~Niko，我的时间非常有限，你浪费的太多了。
 
 ;0x0F92D79F=010
 0x0F92D79F=010
@@ -45,7 +45,7 @@
 0x14391B7C=~z~晚安，Niko Bellic。
 
 ;0x18D50ADE=~z~That was great Niko - thanks.
-0x18D50ADE=~z~刚才很棒，Niko－谢了。
+0x18D50ADE=~z~刚才很棒，Niko。谢了。
 
 ;0x1A25B2CD=~z~I had a good time.
 0x1A25B2CD=~z~我玩得很高兴。
@@ -156,7 +156,7 @@
 0x38D9C134=~z~回头见，Kate。
 
 ;0x3B947ADD=~z~Don't be a creep - we're friends.
-0x3B947ADD=~z~别那么讨厌－我们是朋友。
+0x3B947ADD=~z~别那么讨厌，我们是朋友。
 
 ;0x3C04C212=GCK_ACT_BORED_HOME
 0x3C04C212=GCK_ACT_BORED_HOME
@@ -174,13 +174,13 @@
 0x4579377B=~z~我玩得还算开心吧。
 
 ;0x45996163=~z~Cabaret is not a dying art - it's a dead art.
-0x45996163=~z~舞台表演可不是个将死的艺术－是死了的艺术。
+0x45996163=~z~舞台表演可不是个将死的艺术，是死了的艺术。
 
 ;0x49BAB7D1=~z~Can you take me back home?
 0x49BAB7D1=~z~你能带我回家了吗？
 
 ;0x4A0197B7=~z~That was fun - but this is goodnight.
-0x4A0197B7=~z~是很高兴－不过现在该道晚安了。
+0x4A0197B7=~z~是很高兴，不过现在该道晚安了。
 
 ;0x4BF2F26F=010
 0x4BF2F26F=010
@@ -222,7 +222,7 @@
 0x5BF8D308=GCK_ACT_LEAVE_STANDARD
 
 ;0x5C3BBC2B=~z~You're a great guy, for a maniac - but I'm going to bed. Goodnight.
-0x5C3BBC2B=~z~你很不错，对一个疯子来说－不过我要上床睡觉了。晚安。
+0x5C3BBC2B=~z~你很不错，对一个疯子来说，不过我要上床睡觉了。晚安。
 
 ;0x5D4C5254=~z~Now, Niko. I beat you at bowling. Please don't get into a rage and go killing people.
 0x5D4C5254=~z~现在，Niko，我保龄球打赢你了。拜托你不要突然暴怒，开始杀人。
@@ -393,7 +393,7 @@
 0xADFD8059=~z~你能带我回家吗？
 
 ;0xAED21112=~z~Well done - you beat a girl.
-0xAED21112=~z~还不错－你打败了一个女孩。
+0xAED21112=~z~还不错，你打败了一个女孩。
 
 ;0xB1F5AE06=GCK_ACT_LEAVE_FASTFOOD
 0xB1F5AE06=GCK_ACT_LEAVE_FASTFOOD
@@ -450,7 +450,7 @@
 0xC4A84972=~z~好...那就这。
 
 ;0xC5691B9E=~z~Well played Niko.
-0xC5691B9E=~z~打得好，Niko。
+0xC5691B9E=~z~真厉害，Niko。
 
 ;0xC6A5EA5E=100
 0xC6A5EA5E=100
@@ -474,7 +474,7 @@
 0xCD2F75D9=100
 
 ;0xCDE97504=~z~I enjoyed myself, thank you.
-0xCDE97504=~z~我玩的很高兴，谢谢你。
+0xCDE97504=~z~我玩得很高兴，谢谢你。
 
 ;0xCEB8ED00=~z~Look after yourself.
 0xCEB8ED00=~z~照顾好自己。
