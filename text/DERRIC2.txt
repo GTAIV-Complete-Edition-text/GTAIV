@@ -6,13 +6,13 @@
 0x0D4CC87A=~s~跟着~b~Kim。
 
 ;0x26495260=Press ~INPUT_ATTACK~ to fire. A rocket will not reach its destination instantly, for moving targets try anticipating where they might move.
-0x26495260=按~INPUT_ATTACK~开火。火箭弹不会立刻击中目标，攻击移动目标是应预判提前量。
+0x26495260=按~INPUT_ATTACK~开火。火箭弹不会立刻击中目标，攻击移动目标时应预判提前量。
 
 ;0x2CFE5FC6=Press ~PAD_Y~ to stand on the deck of the boat.
 0x2CFE5FC6=按~PAD_Y~站到船的甲板上。
 
 ;0x3A317A2C=Hold ~INPUT_AIM~ to aim the rocket launcher. Use ~PAD_RSTICK_ALL~ to move the crosshair.
-0x3A317A2C=按住~INPUT_AIM~控制火箭发射器瞄准。用~PAD_RSTICK_ALL~来移动十字线。
+0x3A317A2C=按住~INPUT_AIM~拿起火箭发射器瞄准。用~PAD_RSTICK_ALL~移动准星。
 
 ;0x3D4F10AC=~s~Get in ~b~Derrick's~s~ boat.
 0x3D4F10AC=~s~进入~b~Derrick~s~的船。
@@ -45,7 +45,7 @@
 0x8A8C6596=~r~你跟丢了Kim的船。~s~
 
 ;0x8D8C4201=Use ~INPUT_AIM~ to aim the rocket launcher. Use ~PAD_RSTICK_ALL~ to move the crosshair.
-0x8D8C4201=用~INPUT_AIM~控制火箭发射器瞄准。用~PAD_RSTICK_ALL~移动准星。
+0x8D8C4201=用~INPUT_AIM~拿起火箭发射器瞄准。用~PAD_RSTICK_ALL~移动准星。
 
 ;0x945DDE23=~s~Use the rocket launcher to shoot down the ~r~chopper~s~.
 0x945DDE23=~s~用火箭发射器打下~r~直升机~s~。

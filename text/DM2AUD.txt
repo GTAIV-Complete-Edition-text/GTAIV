@@ -525,7 +525,7 @@
 0x6A10EE1B=~z~Right in front of us, Niko.
 
 ;0x6A37881B=~z~Our meet is at this location.
-0x6A37881B=~z~我们定在这里碰头。
+0x6A37881B=~z~我们定在那里碰头。
 
 ;0x6DC5C7A8=~z~I'd rather swim home tonight than come back tomorrow to dive for those notes.
 0x6DC5C7A8=~z~我宁可今晚游泳回家，也不要明天再来捞钱。
@@ -1125,7 +1125,7 @@
 0xFE1EF411=DM2_JE
 
 ;0xFF2926D4=~z~Maybe a few people at the pub I borrowed money from, as well. You'll say anything for a fix.
-0xFF2926D4=~z~也可能是酒馆里借过我钱的人。为了毒品你什么都会说。
+0xFF2926D4=~z~也可能是酒馆里借给我钱的人。为了毒品你什么都会说。
 
 ;0xFF2B7CEC=~z~Kim ain't looking too good.
 0xFF2B7CEC=~z~Kim ain't looking too good.

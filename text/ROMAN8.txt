@@ -15,7 +15,7 @@
 0x3F4B4C3D=~s~你把~b~Roman~s~落下了。
 
 ;0x49F66193=~s~When locked on, the reticule will flash if an execution can be performed on the character.
-0x49F66193=~s~若能实施处决，准心在目标锁定时将会闪烁。
+0x49F66193=~s~若能实施处决，准星在目标锁定时将会闪烁。
 
 ;0x639D14F4=~s~Vlad is fleeing in his car. Get back in ~b~Roman's car~s~ and chase after him.
 0x639D14F4=~s~Vlad开着车跑了。返回~b~Roman的车~s~去追他。
@@ -48,10 +48,10 @@
 0xCC8AE6CE=~s~进入~b~Roman的车。
 
 ;0xCE9EDD12=~s~To perform an execution on Vlad, lock on to him and fire. When locked on, the reticule will flash if an execution can be performed.
-0xCE9EDD12=~s~瞄准锁定Vlad后开火可对Vlad实施处决。若能实施处决，准心在锁定时将会闪烁。
+0xCE9EDD12=~s~锁定Vlad后开火可对Vlad实施处决。若能实施处决，准星在锁定时将会闪烁。
 
 ;0xD5E76112=~s~To perform an execution on Vlad, aim at him and fire. When locked on, the reticule will flash if an execution can be performed.
-0xD5E76112=~s~瞄准Vlad后开火可对Vlad实施处决。若能实施处决，准心在目标锁定时将会闪烁。
+0xD5E76112=~s~瞄准Vlad后开火可对Vlad实施处决。若能实施处决，准星在锁定时将会闪烁。
 
 ;0xDFA67F1D=~s~Get to the car, Roman
 0xDFA67F1D=~s~上车，Roman
