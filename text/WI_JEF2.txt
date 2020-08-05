@@ -6,7 +6,7 @@
 0x18C99BD1=回到~b~Jeff的车~s~上，完成工作。
 
 ;0x1E1F7219=Dump the car in water.
-0x1E1F7219=把车开入水中。
+0x1E1F7219=把车丢到水里。
 
 ;0x22CFFBCA=~b~Jeff: ~s~ has been killed
 0x22CFFBCA=~b~Jeff~s~被杀了。
@@ -27,7 +27,7 @@
 0x494E7CDA=尸体已被成功处理。
 
 ;0x95460738=When a car is traveling at high speed, press ~PAD_Y~ to jump from the vehicle.
-0x95460738=在车辆高速行驶时，按~PAD_Y~跳车。
+0x95460738=车辆高速行驶时，按~PAD_Y~跳车。
 
 ;0x96259653=You have been spotted. Lose your wanted level.
 0x96259653=你被发现了，降低你的通缉度。

@@ -9,10 +9,10 @@
 0x40EF998B=~r~死人不会开口。
 
 ;0x4DC3F706=~s~The ~g~elevator~s~ can be used to reach the 20th floor.
-0x4DC3F706=~s~可以用~g~电梯~s~上到20楼。
+0x4DC3F706=~s~坐~g~电梯~s~可上到20楼。
 
 ;0x5E70985F=~s~Search the apartment, he must be here somewhere.
-0x5E70985F=~s~搜查这间公寓，他肯定在这里的某处。
+0x5E70985F=~s~搜查这间公寓，他肯定躲在这里。
 
 ;0x713A3DF2=~s~Go to ~y~Teddy Benavidez's apartment.
 0x713A3DF2=~s~前往~y~Teddy Benavidez的公寓。
@@ -36,11 +36,11 @@
 0xCDBE76F9=~s~前往~y~Galveston的公屋社区。
 
 ;0xDB2D3069=~s~Press ~INPUT_PICKUP~ to call the elevator.
-0xDB2D3069=~s~按~INPUT_PICKUP~来叫电梯。
+0xDB2D3069=~s~按~INPUT_PICKUP~叫电梯。
 
 ;0xDE78EA52=~s~Intimidate ~r~Alonzo.
 0xDE78EA52=~s~威胁~r~Alonzo。
 
 ;0xE9843F20=~s~Teddy's goons are everywhere, use cover and move through the building with caution.
-0xE9843F20=~s~到处都是Teddy的小弟，利用掩体并小心穿过建筑。
+0xE9843F20=~s~到处都是Teddy的小弟，善用掩体，在公寓中谨慎行动。
 
