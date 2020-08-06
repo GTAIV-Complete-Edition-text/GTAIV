@@ -36,7 +36,7 @@
 0x9ED9A2B2=按~INPUT_VEH_FLY_YAW_LEFT~或~INPUT_VEH_FLY_YAW_RIGHT~旋转你的直升机。
 
 ;0xA2F67DBB=Follow the ~r~target chopper,~s~ don't let it get away.
-0xA2F67DBB=跟着~r~目标直升机，~s~别让它跑了。
+0xA2F67DBB=跟随~r~目标直升机，~s~别让它跑了。
 
 ;0xAF05BCA0=Use ~PAD_SIXAXIS_DRIVE~ to rotate your helicopter.
 0xAF05BCA0=用~PAD_SIXAXIS_DRIVE~旋转你的直升机。
@@ -81,5 +81,5 @@
 0xF7D4A4C3=~r~Jacob死了。~s~
 
 ;0xFE05B440=Follow the target and wait for an opportunity to take down his helicopter.
-0xFE05B440=跟着目标，伺机击落他的直升机。
+0xFE05B440=跟随目标，伺机击落他的直升机。
 

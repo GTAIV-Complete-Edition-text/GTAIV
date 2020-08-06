@@ -21,7 +21,7 @@
 0x2FC2C1C4=~s~保护~b~Pegorino。
 
 ;0x33548BAE=~s~Don't lose the ~r~Pavanos.
-0x33548BAE=~s~别跟丢了~r~Pavanos家族的人。
+0x33548BAE=~s~别跟丢了~r~Pavano家族的人。
 
 ;0x3FA63D25=~s~Rescue ~b~Pegorino.
 0x3FA63D25=~s~解救~b~Pegorino。~s~
@@ -48,7 +48,7 @@
 0x635BB4D8=~r~Pegorino死了。
 
 ;0x65443E1D=~s~Get back and protect Pegorino from the ~r~Pavanos.
-0x65443E1D=~s~回去保护Pegorino，别让被~r~Pavanos家族~s~杀害。
+0x65443E1D=~s~回去保护Pegorino，别让他被~r~Pavano家族~s~杀害。
 
 ;0x68039A0B=~s~Progress ~y~inside~s~ the old refinery complex.
 0x68039A0B=~s~前往~y~旧冶炼厂~s~内部。
@@ -63,7 +63,7 @@
 0x78532E4E=~s~去找~b~Pegorino。
 
 ;0x7A08B624=~S~Meet with Pegorino in the ~b~vehicle~s~ up ahead.
-0x7A08B624=~S~跟Pegorino在~b~他的车里~s~汇合。
+0x7A08B624=~S~跟Pegorino在~b~他的车里~s~会合。
 
 ;0x85074CB5=~s~Keep a guard over ~b~Pegorino.
 0x85074CB5=~s~保护~b~Pegorino。
@@ -78,7 +78,7 @@
 0x92355C41=~s~驾车前往~y~旧冶炼厂。
 
 ;0x93F596CC=~s~Protect Pegorino from the ~r~Pavanos.
-0x93F596CC=~s~保护Pegorino，别让他被~r~Pavanos家族的人~s~杀害。
+0x93F596CC=~s~保护Pegorino，别让他被~r~Pavano家族的人~s~杀害。
 
 ;0x9B9ECB14=~s~Don't leave ~b~Pegorino~s~ behind.
 0x9B9ECB14=~s~别把~b~Pegorino~s~落下。
@@ -114,7 +114,7 @@
 0xD13D7E12=~PAD_LB~ 放下包。
 
 ;0xD145EC8E=~s~Get Pegorino's offering back from the ~r~Pavanos.
-0xD145EC8E=~s~从~r~Pavanos家族的人~s~手里夺回Pegorino的礼物。
+0xD145EC8E=~s~从~r~Pavano家族的人~s~手里夺回Pegorino的礼物。
 
 ;0xD2AAE557=~r~Pegorino was left behind.
 0xD2AAE557=~r~Pegorino被抛弃了。

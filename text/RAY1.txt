@@ -9,7 +9,7 @@
 0x40EF998B=~r~死人不会开口。
 
 ;0x4DC3F706=~s~The ~g~elevator~s~ can be used to reach the 20th floor.
-0x4DC3F706=~s~坐~g~电梯~s~可上到20楼。
+0x4DC3F706=~s~坐~g~电梯~s~可以上到20楼。
 
 ;0x5E70985F=~s~Search the apartment, he must be here somewhere.
 0x5E70985F=~s~搜查这间公寓，他肯定躲在这里。
@@ -36,7 +36,7 @@
 0xCDBE76F9=~s~前往~y~Galveston的公屋社区。
 
 ;0xDB2D3069=~s~Press ~INPUT_PICKUP~ to call the elevator.
-0xDB2D3069=~s~按~INPUT_PICKUP~叫电梯。
+0xDB2D3069=~s~按~INPUT_PICKUP~呼叫电梯。
 
 ;0xDE78EA52=~s~Intimidate ~r~Alonzo.
 0xDE78EA52=~s~威胁~r~Alonzo。
