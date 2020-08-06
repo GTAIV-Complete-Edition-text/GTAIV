@@ -3,7 +3,7 @@
 0x10D8FAB7=~r~飞车党~s~进入了地铁隧道。跟着他们。
 
 ;0x3B004F05=~s~Go to where members of The Lost are ~y~hanging out.
-0x3B004F05=~s~前往失落MC成员~y~所在地。
+0x3B004F05=~s~前往失落摩托帮成员~y~所在地。
 
 ;0x60E5D135=~s~Hold ~INPUT_VEH_HEADLIGHT~ to switch headlights between dipped and full beam.
 0x60E5D135=~s~长按~INPUT_VEH_HEADLIGHT~在最亮与较暗间切换大灯亮度。
@@ -15,7 +15,7 @@
 0xA2949E30=~s~骑上~b~摩托。
 
 ;0xA679A5FA=~s~Chase and take out the ~r~bikers.
-0xA679A5FA=~s~追逐并消灭~r~飞车党。
+0xA679A5FA=~s~追击~r~飞车党，~s~干掉他们。
 
 ;0xAB22477F=~s~The ~r~biker~s~ has entered the subway. Follow him.
 0xAB22477F=~r~飞车党~s~进入了地铁隧道。跟着他。
