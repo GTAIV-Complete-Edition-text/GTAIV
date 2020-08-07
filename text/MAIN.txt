@@ -9229,13 +9229,13 @@
 0xBD4317AE=~z~~x~「哦，我病得很重...」嚼嚼「哦，我真病了。」
 
 ;0xEA89F23B=~z~~x~I went "What's the disease?".
-0xEA89F23B=~z~~x~我说：「有什么症状？」
+0xEA89F23B=~z~~x~我问：「有什么症状？」
 
 ;0xDAD652D4=~z~~x~She went "Everything tastes good".
 0xDAD652D4=~z~~x~她说：「什么都很好吃。」
 
 ;0xF8278D76=~z~~x~Everything?
-0xF8278D76=~z~~x~啥都好？
+0xF8278D76=~z~~x~「啥都好？」
 
 ;0x1564C68C=~z~~x~"Not salads".
 0x1564C68C=~z~~x~「沙拉不好。」
@@ -9286,7 +9286,7 @@
 0xFA820FE3=~z~~x~进去做个手术，把胃一缩不就吃不下了。
 
 ;0x3F36194A=~z~~x~And she was sitting there in hospital, looking all depressed,
-0x3F36194A=~z~~x~她就在医院坐着，很是郁闷，
+0x3F36194A=~z~~x~她就在医院坐着，很是郁闷。
 
 ;0x6DF876CE=~z~~x~well you can't eat for an hour before an operation can ya?
 0x6DF876CE=~z~~x~我记得手术前一小时好像禁止饮食吧？
@@ -17094,7 +17094,7 @@
 0x0B6EA343=接~a~之前降低你的通缉度。
 
 ;0x2ECB9351=~s~Hold ~PAD_Y~ to go on this tour. It will cost you $150.
-0x2ECB9351=~s~长按~PAD_Y~参加观光。收费$150。
+0x2ECB9351=~s~长按~PAD_Y~参加观光。收费 $150。
 
 ;0x491BD709=~s~You don't have enough money to go on a tour.
 0x491BD709=~s~你的钱不够，无法参加观光。
