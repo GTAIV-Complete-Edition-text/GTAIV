@@ -12,7 +12,7 @@
 0x032E7797=GCK_ACT_CAR_NONE
 
 ;0x039971BF=~z~Still got the same car? Cool.
-0x039971BF=~z~还是这辆车？酷。
+0x039971BF=~z~还是这辆车？挺好。
 
 ;0x044C2DFB=GCK_ACT_CAR_SAME_GOOD
 0x044C2DFB=GCK_ACT_CAR_SAME_GOOD
@@ -300,7 +300,7 @@
 0x70596016=~z~我还是喜欢这件外套。
 
 ;0x73A97F2A=~z~I'm not superficial, but please change your clothes ONE time you take me out?
-0x73A97F2A=~z~我也不是只看表面的，但能不能拜托你带我出来的时候至少换一次衣服呢？
+0x73A97F2A=~z~也不是我外贸协会，但你跟我约会就不能换套别的衣服吗？
 
 ;0x73AAC757=~z~One day, get a nicer car.
 0x73AAC757=~z~改天，弄辆好点的车吧。
@@ -429,7 +429,7 @@
 0x95B64E2A=~z~我是不是已经死了，和你一起下了帽子地狱，Niko？
 
 ;0x9693C502=~z~Same clothes again? No wonder you smell funny.
-0x9693C502=~z~又是这套衣服？怪不得你这人这么好笑。
+0x9693C502=~z~又是这套衣服？怪不得你身上有一股味儿。
 
 ;0x96A1FEE4=100
 0x96A1FEE4=100
@@ -492,7 +492,7 @@
 0xAAE5DAA2=GCK_ACT_ARRIVEF_LATE
 
 ;0xAB02EDDC=~z~I hope you've changed your underwear, at least.
-0xAB02EDDC=~z~希望你能换一件衬衣，至少。
+0xAB02EDDC=~z~希望你至少换了条内裤。
 
 ;0xAB4582F8=GCK_ACT_CAR_GOOD
 0xAB4582F8=GCK_ACT_CAR_GOOD

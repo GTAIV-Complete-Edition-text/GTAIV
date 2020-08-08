@@ -189,7 +189,7 @@
 0x4C316F2B=100
 
 ;0x4C99F9FB=~z~Cool. Goodnight, Kate.
-0x4C99F9FB=~z~酷。晚安，Kate。
+0x4C99F9FB=~z~好的。晚安，Kate。
 
 ;0x55D5E680=~z~Can I kiss you, would that be alright?
 0x55D5E680=~z~我能吻你吗，这样行吗？
@@ -222,7 +222,7 @@
 0x5BF8D308=GCK_ACT_LEAVE_STANDARD
 
 ;0x5C3BBC2B=~z~You're a great guy, for a maniac - but I'm going to bed. Goodnight.
-0x5C3BBC2B=~z~你很不错，对一个疯子来说，不过我要上床睡觉了。晚安。
+0x5C3BBC2B=~z~作为一个疯子，你很不错。不过我要上床睡觉了。晚安。
 
 ;0x5D4C5254=~z~Now, Niko. I beat you at bowling. Please don't get into a rage and go killing people.
 0x5D4C5254=~z~现在，Niko，我保龄球打赢你了。拜托你不要突然暴怒，开始杀人。
@@ -429,7 +429,7 @@
 0xB886C09C=~z~我玩得很高兴，但我还有点事情。
 
 ;0xB8977C00=~z~That was great, but I already feel terrible.
-0xB8977C00=~z~挺好的，但我已经感觉很糟了。
+0xB8977C00=~z~挺好的，但我已经感觉不舒服了。
 
 ;0xB93354AF=100
 0xB93354AF=100
@@ -456,7 +456,7 @@
 0xC6A5EA5E=100
 
 ;0xC8B3151C=~z~I'm not asking you in. We're friends, nothing more.
-0xC8B3151C=~z~我不是在请你进来。我们是朋友，仅此而已。
+0xC8B3151C=~z~我不会请你进来的。我们是朋友，仅此而已。
 
 ;0xC9F2054A=GCK_ACT_LEAVE_CLUB_GENERIC
 0xC9F2054A=GCK_ACT_LEAVE_CLUB_GENERIC
