@@ -405,7 +405,7 @@
 0x7F6A85D7=~z~去海角那边，那里的阳光最好。
 
 ;0x7F889041=~z~Stop your engines immediately. This is the Harbor Unit of the Liberty City Police Department.
-0x7F889041=~z~请立即停船。我们是自由城警察局下属港口部队。
+0x7F889041=~z~请立即停船。我们是LCPD下属港口部队。
 
 ;0x819F4AAB=~z~We're going after them.
 0x819F4AAB=~z~我们要追上他们。
@@ -417,7 +417,7 @@
 0x82555AB2=100100010
 
 ;0x83929A91=~z~Ahoy, sailor. Cute guys off the starport brow!
-0x83929A91=~z~啊哈，水手们。都是些表情严肃的帅哥。
+0x83929A91=~z~Ahoy，水手们。都是些表情严肃的帅哥。
 
 ;0x840F19FF=100
 0x840F19FF=100
@@ -732,7 +732,7 @@
 0xE4AE1A7E=~z~说起来有点下流，咱知道，不过咱们还是能试试。
 
 ;0xE5269933=~z~Come on. Bryce accidentally left the keys on purpose somewhere I could steal them.
-0xE5269933=~z~来吧。Bryce不小心刻意把钥匙放在了咱可以偷到的地方。
+0xE5269933=~z~来吧。Bryce「一不小心」把钥匙放在了咱可以偷到的地方。
 
 ;0xE57AB993=100
 0xE57AB993=100
@@ -807,7 +807,7 @@
 0xF945165F=~z~咱肯定是唯一一个没有颧骨的斯拉夫人。
 
 ;0xFADE480A=~z~so that my cousin can fritter it away online and pay off debts...
-0xFADE480A=~z~然后我堂兄就能在网上挥霍、拿去还债...
+0xFADE480A=~z~然后我堂兄就能在网上挥霍、拿钱还债...
 
 ;0xFB5BD199=BC3_PA
 0xFB5BD199=BC3_PA

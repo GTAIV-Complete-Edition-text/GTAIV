@@ -51,7 +51,7 @@
 0x149D6752=~z~你知道吗，和你在一起的时候，我可以做自己。
 
 ;0x15E4EC59=~z~For a long time there was only one thing in my life that I cared about.
-0x15E4EC59=~z~很久以来，我的生命中都只有一件事让我关心。
+0x15E4EC59=~z~很久以来，我在生活中都只关心一件事。
 
 ;0x171495AA=GCK2_POINT_KF
 0x171495AA=GCK2_POINT_KF
@@ -87,7 +87,7 @@
 0x2278DADF=GCK2_PSYCHOS_LC
 
 ;0x230B7B54=~z~What is it that makes us get on?
-0x230B7B54=~z~能让我们处得来的因素是什么？
+0x230B7B54=~z~我们为什么能处得来？
 
 ;0x23A607DB=~z~I don't want to get into that. But you know what I mean. What is the purpose of existence?
 0x23A607DB=~z~我不想讲那个，但你知道我的意思。存在的目的是什么？
@@ -141,7 +141,7 @@
 0x357A084A=GCK2_POINT_KP
 
 ;0x387EE62D=~z~Give it up. Move away. Grow up. Get out... you could be happy.
-0x387EE62D=~z~放弃它，搬走，成长，离开...你可以幸福的。
+0x387EE62D=~z~放弃现状，搬走，成长，离开...你可以幸福的。
 
 ;0x3900C7CE=GCK2_DATING_JO
 0x3900C7CE=GCK2_DATING_JO
@@ -168,10 +168,10 @@
 0x3ECF4A5E=~z~我也喜欢你，Niko。
 
 ;0x3FE4A827=~z~Here you are, coming with the big questions straight out of the gate. Give me a break.
-0x3FE4A827=~z~又来了，开门见山就问一个大问题。让我歇会儿吧。
+0x3FE4A827=~z~又来了，一上来就问了个大问题。你饶了我吧。
 
 ;0x462A54F2=~z~We don't have to be friends anymore, if it upsets you.
-0x462A54F2=~z~我们不做朋友也可以，要是你伤心的话。
+0x462A54F2=~z~要是你伤心的话，我们不做朋友也可以。
 
 ;0x47945F9F=~z~I really like you. I mean, not like that. I'm not into that. Not with you.
 0x47945F9F=~z~我真的喜欢你。我是说，也不是那个。我没那个意思。不会跟你那个。
@@ -195,7 +195,7 @@
 0x4F205C57=~z~我就应该被强制绝育的...想象一下一个小Packie...
 
 ;0x50F0EEA1=~z~Maybe that is why we get on. We're friends. I like you Kate. I really do.
-0x50F0EEA1=~z~Maybe that is why we get on. We're friends. I like you Kate. I really do.
+0x50F0EEA1=~z~可能正是如此我们才处得来。我们是朋友。我喜欢你，Kate，真的喜欢你。
 
 ;0x53E050CE=~z~Okay, you want an answer? What sort of man do I want to be?
 0x53E050CE=~z~好，你想要答复是吧？我想做个怎么样的人？
@@ -222,7 +222,7 @@
 0x57BC6D7B=~z~我不知道，我觉得我不想。
 
 ;0x591DA713=~z~You're scarcely a good judge. No, I'm not ready for a relationship... but...
-0x591DA713=~z~你真的算不上是一个好法官。不，我还没准备好开始一段关系...但是...
+0x591DA713=~z~你这人当不了好法官。不，我还没准备好开始一段关系...但是...
 
 ;0x5A0EBB21=GCK2_LIKE_HP
 0x5A0EBB21=GCK2_LIKE_HP
@@ -288,7 +288,7 @@
 0x6C2C7032=GCK2_POINT_KM
 
 ;0x6CE94F01=~z~It's over. This life of yours. You can change. At least think about it.
-0x6CE94F01=~z~就这样了。你的这种生活。你可以改变的。至少考虑一下。
+0x6CE94F01=~z~就这样了，你的这种生活。你可以改变的，至少考虑一下吧。
 
 ;0x70F6AD4A=GCK2_FRIENDS_MP
 0x70F6AD4A=GCK2_FRIENDS_MP
@@ -312,7 +312,7 @@
 0x792E1719=GCK2_DATING_JQ
 
 ;0x7A207357=~z~He's a psychotic cocaine addict, sure, but he's actually quite sentimental and longs for normality.
-0x7A207357=~z~他是个精神病瘾君子，的确，但他其实有点多愁善感，渴望变得正常。
+0x7A207357=~z~他的确是个精神病瘾君子，但他也多愁善感，渴望变得正常。
 
 ;0x7B288498=GCK2_DATING_JN
 0x7B288498=GCK2_DATING_JN
@@ -321,7 +321,7 @@
 0x7C70F134=GCK2_FRIENDS_MH
 
 ;0x7D97C3CC=~z~I'm not good at this optimism thing. I'm tired.
-0x7D97C3CC=~z~乐观这方面我不擅长。我累了。
+0x7D97C3CC=~z~我不擅长保持乐观。我累了。
 
 ;0x7E71C4B4=GCK2_DATING_JH
 0x7E71C4B4=GCK2_DATING_JH
@@ -333,10 +333,10 @@
 0x80D48C20=GCK2_LIKE_HJ
 
 ;0x83D5DD29=~z~I want to be able to make the right decision and it be my own decision to make.
-0x83D5DD29=~z~我想要做能做出正确决定、决定自己的人。
+0x83D5DD29=~z~我想成为能够做出正确决定、为自己做决定的人。
 
 ;0x83E1B1C1=~z~not be caught up in craziness.
-0x83E1B1C1=~z~不想被困在这种疯狂里面？
+0x83E1B1C1=~z~不想被困在这种疯狂里面。
 
 ;0x84466A6C=~z~There can be no one thing that gives us purpose.
 0x84466A6C=~z~可能没有一样东西能给我们目标。
@@ -402,7 +402,7 @@
 0xA0AF27AD=GCK2_POINT_KE
 
 ;0xA0C42367=~z~I want to be productive, I want to help people, I think that if I went back to school and became a teacher...
-0xA0C42367=~z~我想做个有益的人，我想帮助别人，我在想要是我回到学校成了一名教师...
+0xA0C42367=~z~我想做个有益的人，我想帮助别人，我在想要是我回到学校成了老师...
 
 ;0xA16F6BEB=~z~It isn't a difficult question if you don't care about the answer. What kind of a man do I want to be?
 0xA16F6BEB=~z~如果你不在乎答案的话是不难。我想做怎样的人？
@@ -435,10 +435,10 @@
 0xA83D97F8=GCK2_LIKE_HH
 
 ;0xA890B2FC=~z~This is a good thing to do, you will help people. You should go back to school and become a teacher.
-0xA890B2FC=~z~这是好事，你会帮到别人的。你是该回到学校做一个教师。
+0xA890B2FC=~z~这是好事，你会帮到别人的。你是该回到学校当老师。
 
 ;0xAE9B0733=~z~No. Not really. I was trying to be more optimistic. My shrink tells me I need to be more optimistic
-0xAE9B0733=~z~不，不完全是。我只是想更乐观点，我的医生告诉我我该做一个更乐观的
+0xAE9B0733=~z~不，不算太好。我只是想更乐观点，我的医生让我想得开一点，
 
 ;0xAEDF40BD=GCK2_POINT_KB
 0xAEDF40BD=GCK2_POINT_KB
@@ -462,7 +462,7 @@
 0xB1C632B5=GCK2_LIKE_HB
 
 ;0xB35665C2=~z~He just thinks that he'll find it by doing 5 hits of X a day, and smoking crack at weekends after a spot of bank robbing.
-0xB35665C2=~z~只是他觉得一天嗑五次摇头丸、周末抢完银行抽抽可卡因就能变得正常。
+0xB35665C2=~z~只是他觉得一天嗑五次摇头丸、周末抢完银行吸可卡因就能变得正常。
 
 ;0xB3C75C65=~z~but if I was, I'd want to be with you.
 0xB3C75C65=~z~但要是我准备好了，我会想和你在一起的。
@@ -495,7 +495,7 @@
 0xBBAF0346=GCK2_OPTIMISM_NO
 
 ;0xBCC8A38E=~z~silly idiot that she is.
-0xBCC8A38E=~z~白痴傻瓜，像她一样。
+0xBCC8A38E=~z~像她一样当个傻瓜。
 
 ;0xBDA04B25=GCK2_QUESTION_ID
 0xBDA04B25=GCK2_QUESTION_ID
@@ -510,7 +510,7 @@
 0xC0E8DFED=GCK2_POINT_KI
 
 ;0xC1A3F81E=~z~I'm not ready - I'm scared of all of that - you care about people, they die. I'm pretty messed up.
-0xC1A3F81E=~z~我还没准备好－我很害怕那个－你关心谁，谁就死了。我真的是一团乱麻。
+0xC1A3F81E=~z~我还没准备好。我很害怕那个，你关心谁，谁就死了。我真的是一团乱麻。
 
 ;0xC3B5B160=~z~How you doing, Kate?
 0xC3B5B160=~z~你最近怎样，Kate？
@@ -543,7 +543,7 @@
 0xD27FCEF4=~z~很好。
 
 ;0xD2EE87B7=~z~We want things because we think they will make us whole.
-0xD2EE87B7=~z~我们想要某些东西是因为我们觉得它们能填满我们。
+0xD2EE87B7=~z~我们想要某些东西，是因为我们觉得它们能满足我们。
 
 ;0xD3159871=GCK2_QUESTION_IJ
 0xD3159871=GCK2_QUESTION_IJ
@@ -561,7 +561,7 @@
 0xD7A3A110=GCK2_OPTIMISM_NB
 
 ;0xD9CD0412=~z~Genuinely awful, but at least you're not a fucking hypocrite. That can't be said of many people.
-0xD9CD0412=~z~真诚得不行，但你至少不是个狗屁伪君子。能称得上这个的人也不多。
+0xD9CD0412=~z~真诚得不行，但你至少不是个狗屁伪君子。能被这样评价的人也不多。
 
 ;0xDA847589=~z~The point of what?
 0xDA847589=~z~什么的目的？
@@ -591,7 +591,7 @@
 0xE1D49042=~z~好吧，那我们就都是幸存者了。也许我们就是因此才会喜欢对方。
 
 ;0xE20BB944=~z~So you could do this until you've killed everyone? Or until you die? Your life must be hell.
-0xE20BB944=~z~所以你是要做到把所有人都杀了才肯收手是吧？还是要等到你死了？你的生活肯定是地狱。
+0xE20BB944=~z~所以你要等到杀光所有人才肯收手是吧？还是要等到你死了？你的生活肯定是地狱。
 
 ;0xE5D5A776=GCK2_POINT_KC
 0xE5D5A776=GCK2_POINT_KC
@@ -627,7 +627,7 @@
 0xF41A34CD=~z~坏事都在我们身边的人身上发生过，在我们关心的人身上，甚至在我们自己身上，但我们都挺过来了。
 
 ;0xF51DAACB=~z~God, sometimes do you think - what is the point?
-0xF51DAACB=~z~天，你有没有想过－目的何在？
+0xF51DAACB=~z~天，你有没有想过，目的何在？
 
 ;0xF5529FE3=~z~I think if two people like one another...
 0xF5529FE3=~z~我想如果两个人互相喜欢...
@@ -666,5 +666,5 @@
 0xFD45DC65=~z~但我们心中都有一个无法被填满的虚空。
 
 ;0xFE78CD69=~z~I like you. I like what you are, and that's a good thing.
-0xFE78CD69=~z~我喜欢你，就喜欢你现在这样，那样挺好的。
+0xFE78CD69=~z~我喜欢你，就喜欢你现在这样，这样挺好的。
 

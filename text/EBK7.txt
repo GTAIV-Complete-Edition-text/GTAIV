@@ -1,4 +1,4 @@
-[EBK7]
+﻿[EBK7]
 ;0x064B3BA6=PLACEHOLDER
 0x064B3BA6=PLACEHOLDER
 
@@ -9,7 +9,7 @@
 0x15202F20=别迟到了，
 
 ;0x18525C94=am Saturday. See you then
-0x18525C94=星期六上午。到时候见
+0x18525C94=在星期六上午。到时候见
 
 ;0x21F0F2F1=PLACEHOLDER
 0x21F0F2F1=PLACEHOLDER
@@ -24,19 +24,19 @@
 0x31AD06DC=PLACEHOLDER
 
 ;0x35F370C6=Until then,
-0x35F370C6=到那时，
+0x35F370C6=在此之前，
 
 ;0x3836A8C1=PLACEHOLDER
 0x3836A8C1=PLACEHOLDER
 
 ;0x3A8CA110=You got arrested/killed last time. Me too. Meet in Goatherd before
-0x3A8CA110=你上一次被逮捕/谋杀了。我也是。先在Goatherd碰面
+0x3A8CA110=你上一次在去Goathered之前被抓/送医院了。我也是。
 
 ;0x40953551=PLACEHOLDER
 0x40953551=PLACEHOLDER
 
 ;0x415CDBC9=am Sunday. See you then
-0x415CDBC9=礼拜天上午。到时候见
+0x415CDBC9=在礼拜天上午。到时候见
 
 ;0x44EA2D56=PLACEHOLDER
 0x44EA2D56=PLACEHOLDER
@@ -48,10 +48,10 @@
 0x49D56CAE=星期四下午见。
 
 ;0x4B8C1BF7=Until then,
-0x4B8C1BF7=到那时，
+0x4B8C1BF7=直到那时，
 
 ;0x4D99CF16=Cool.
-0x4D99CF16=酷。
+0x4D99CF16=好的。
 
 ;0x54EAD212=Sorry, you sound to me like too much of the hastle. At home I used to girls who do what I say and do it quick. American woman like you is no right for me.
 0x54EAD212=抱歉，你看起来似乎是个喜欢怼人的女孩。我在家乡的时候一般喜欢那些能够比较听我话的女孩。像你这样的美国女人对我来说不太适合。
@@ -66,19 +66,19 @@
 0x5F11F206=太棒了。
 
 ;0x63744BC7=Until then,
-0x63744BC7=到那时，
+0x63744BC7=直到那时，
 
 ;0x64B1719F=Nice to be hearing from you, I know what I am wanting and it is you, LickingGood. I will come on time to pick you up in Goatherd.
-0x64B1719F=很高兴收到你的来信，我知道你就是我一直在苦苦寻找的她，感谢上帝。我会去Goatherd接你的。
+0x64B1719F=很高兴收到你的来信，我直到你就是我一直在苦苦寻找的她，感谢上帝。我会去Goatherd接你的。
 
 ;0x683B845D=Cool.
-0x683B845D=酷。
+0x683B845D=好的。
 
 ;0x6A322D73=am Tuesday. See you then
 0x6A322D73=星期二上午。到时候见。
 
 ;0x70540C9A=I got killed last time. Me too. Meet in Goatherd before
-0x70540C9A=我上次被谋杀了。我也是。先在Goatherd碰面
+0x70540C9A=我上次在去Goathered之前受伤进医院了。
 
 ;0x7BFEABE3=Great.
 0x7BFEABE3=太棒了。
@@ -102,7 +102,7 @@
 0x943CDC5F=太棒了。
 
 ;0x96FD1025=Nice to be hearing from you, I know what I am wanting and it is you, LickingGood. I will come on time to pick you up in Goatherd.
-0x96FD1025=很高兴收到你的来信，我知道你就是我一直在苦苦寻找的她，感谢上帝。我会去Goatherd接你的。
+0x96FD1025=很高兴收到你的来信，我直到你就是我一直在苦苦寻找的她，感谢上帝。我会去Goatherd接你的。
 
 ;0x9E46E87F=I can't believe you'd waste my time like that. I'm not young and my clock is ticking.
 0x9E46E87F=我不敢相信你居然那样浪费我的时间。我已经不小了我的时间每分每刻都在流逝。
@@ -120,7 +120,7 @@
 0xA3D020AE=星期四早上见。
 
 ;0xA6B95250=Until then,
-0xA6B95250=到那时，
+0xA6B95250=直到那时，
 
 ;0xB0B59550=Great.
 0xB0B59550=太棒了，
@@ -132,13 +132,13 @@
 0xB58BC425=星期三下午。到时候见
 
 ;0xB62741A8=Nice to be hearing from you, I know what I am wanting and it is you, LickingGood. I will come on time to pick you up in Goatherd.
-0xB62741A8=很高兴收到你的来信，我知道你就是我一直在苦苦寻找的她，感谢上帝。我会去Goatherd接你的。
+0xB62741A8=很高兴收到你的来信，我直到你就是我一直在苦苦寻找的她，感谢上帝。我会去Goatherd接你的。
 
 ;0xC03D1DC9=PLACEHOLDER
 0xC03D1DC9=PLACEHOLDER
 
 ;0xC27BB8DC=Cool.
-0xC27BB8DC=酷。
+0xC27BB8DC=好的。
 
 ;0xC597643C=am Monday. See you then
 0xC597643C=星期一上午。到时候见
@@ -165,7 +165,7 @@
 0xD5A15733=嗨Niko。是我。你想再和我约一次会吗？在我家附近怎么样？
 
 ;0xE1217627=Cool.
-0xE1217627=酷。
+0xE1217627=好的。
 
 ;0xE354F296=pm Friday. See you then
 0xE354F296=星期五下午。到时候见

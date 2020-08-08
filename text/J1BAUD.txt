@@ -1,6 +1,6 @@
 ﻿[J1BAUD]
 ;0x00D3B6E2=~z~So you here to work for him, shoot him, or arrest him? Or maybe all three?
-0x00D3B6E2=~z~所以你是来给他干活的，来把他做掉的，还是来逮捕他的？或者三种都是？
+0x00D3B6E2=~z~所以，你是来给他干活的，来把他做掉的，还是来逮捕他的？或者三种都是？
 
 ;0x015CB996=~z~I wouldn't have him any other way.
 0x015CB996=~z~不然我也不会让他一直在我身边。
@@ -240,7 +240,7 @@
 0x394286EA=J1_QP
 
 ;0x39A795FC=~z~The fucking Pavanos.
-0x39A795FC=~z~该死的Pavanos家族！
+0x39A795FC=~z~该死的Pavano家族！
 
 ;0x3A395A5D=~z~You can't be serious?
 0x3A395A5D=~z~你开玩笑的吧？
@@ -294,7 +294,7 @@
 0x4712318C=~z~不用你告诉我该干什么。为了这个，我辛苦努力了这么多年。
 
 ;0x477899FC=~z~I just move on and hire some wannabe wiseguys off the street.
-0x477899FC=~z~我就再去街上找些有志向的黑手党给我干活吧。
+0x477899FC=~z~我再去街上找些有志向的黑手党给我干活吧。
 
 ;0x47C9F379=~z~We'll get to that.
 0x47C9F379=~z~我马上说。
@@ -456,7 +456,7 @@
 0x6D886267=J1_LB
 
 ;0x6F3947EF=~z~Oh, boss - salve.
-0x6F3947EF=~z~哦，老大－贵安。
+0x6F3947EF=~z~哦，老大，贵安。
 
 ;0x6F5D44DF=~z~l'll be out in a minute. Look after Ray 'til I get back.
 0x6F5D44DF=~z~我待会就走。我回来前给我看好Ray。
@@ -522,10 +522,10 @@
 0x7C98E2AE=~z~哪儿都能见到他，跟踩不死的蟑螂一样，哈？
 
 ;0x7CB504C8=~z~Only, how much can I do with a guy who ain't a full Italian?
-0x7CB504C8=~z~我能为一个不是纯种的意大利人做多少？
+0x7CB504C8=~z~但我能为一个不是纯种的意大利人做多少？
 
 ;0x7DC65CCD=~z~Exactly... I mean, we can pretty much guarantee you were followed.
-0x7DC65CCD=~z~没错...我是说，我可以100%确认你被跟踪了。
+0x7DC65CCD=~z~没错...我是说，我可以确认你百分百被跟踪了。
 
 ;0x7E16023B=J1_EAD
 0x7E16023B=J1_EAD
@@ -648,7 +648,7 @@
 0xA07B2A76=~z~－嘿，Tone。~n~－嘿，Ray。
 
 ;0xA09ECC9B=~z~Either because they know too much and might rat.
-0xA09ECC9B=~z~要么因为他们知道的太多可能告发，
+0xA09ECC9B=~z~要么因为他知道的太多可能告发，
 
 ;0xA0C5D2E0=J1_KI
 0xA0C5D2E0=J1_KI
@@ -657,7 +657,7 @@
 0xA17779C9=~z~是这样吗？
 
 ;0xA3F2D2F3=~z~Has to be. I only start paying attention to my crew when they start putting me in an awkward position.
-0xA3F2D2F3=~z~必须这样。只有他们让我处境尴尬了，我才会关注是哪个手下。
+0xA3F2D2F3=~z~必须这样。除非他让我处境尴尬了，我才会关注那个手下。
 
 ;0xA4AA5ADD=J1_DL
 0xA4AA5ADD=J1_DL
@@ -681,7 +681,7 @@
 0xAA18B9FA=J1_QY
 
 ;0xAA64E027=~z~Or because they got too much power and they're too smart to get themselves clipped.
-0xAA64E027=~z~要么因为他们大权在握，头脑聪明到没那么容易被杀。
+0xAA64E027=~z~要么因为他大权在握，头脑聪明到没那么容易被杀。
 
 ;0xAAA20C12=J1_RA
 0xAAA20C12=J1_RA
