@@ -12,7 +12,7 @@
 0x576C755A=~s~前往~y~医院。
 
 ;0x5ED35FF4=Do not enter the building with a weapon drawn, there may be cops inside.
-0x5ED35FF4=不要持械进入医院，里面可能有警察。
+0x5ED35FF4=不要持械进入医院，医院里可能有警察。
 
 ;0x6C243296=Press ~a~ to change into doctor's scrubs.
 0x6C243296=按~a~换上医生工作服。
