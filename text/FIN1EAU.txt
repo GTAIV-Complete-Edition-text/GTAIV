@@ -72,7 +72,7 @@
 0x149F25CC=FIN1E_IM
 
 ;0x14E2858B=~z~I'll look after you, Kate. I promise I'll protect you.
-0x14E2858B=~z~我会照顾好你的，Kate。我保证我会保护你的。
+0x14E2858B=~z~我会照顾好你的，Kate。我保证会保护你的。
 
 ;0x16A2383C=~z~-Yes, go on man go on. We have to leave man, just leave.~n~-You have to go...
 0x16A2383C=~z~－对，走吧，老兄，走吧。我们都得离开，老兄，赶紧走人。~n~－你必须得走了...
@@ -177,7 +177,7 @@
 0x341D015D=FIN1E_OAC
 
 ;0x3513C5ED=~z~You don't need to say anything else.
-0x3513C5ED=~z~你也没有必要再多说一句了。
+0x3513C5ED=~z~你也没有必要再多说一句话了。
 
 ;0x3545F583=~z~Easy, easy, easy... I your brother, man, easy. Calm down, man, calm down.
 0x3545F583=~z~放松，放松，放松...你兄弟我在，老兄，放松。冷静，老兄，冷静。
@@ -219,7 +219,7 @@
 0x42BAE163=FIN1E_OC
 
 ;0x42BB613C=~z~How do I know that you're right for me? How do I know that I won't get hurt?
-0x42BB613C=~z~我怎么会知道你是不是我的那个他呢？我怎么知道自己不会受伤呢？
+0x42BB613C=~z~我怎么知道你是不是我的那个他？我怎么知道自己不会受伤？
 
 ;0x42DF90AE=~z~Okay.
 0x42DF90AE=~z~好吧。
@@ -360,7 +360,7 @@
 0x7304D070=FIN1E_JA
 
 ;0x74221E57=~z~Hey!... Yes!.... Yeah!... Congratulations cousin!... Thanks for coming!... Alright, yes, okay!... Yes, we are married!... Niko, mwah, mwah...
-0x74221E57=~z~嘿！...好！...耶！...恭喜你，堂兄！...感谢你的到来！...好的，好呀，好啊！...对，我们结婚了！...Niko，么么...
+0x74221E57=~z~嘿！ 好！ 耶！ 恭喜你，堂兄！ 感谢你的到来！ 好的，好呀，好啊！ 对，我们结婚了！ Niko，么么...
 
 ;0x74306A1D=GCK_ACT_ARRIVEF_NOTLATE
 0x74306A1D=GCK_ACT_ARRIVEF_NOTLATE
@@ -441,7 +441,7 @@
 0x914D9C25=FIN1E_OP
 
 ;0x92984525=~z~Bumbaclot.
-0x92984525=~z~冚家铲。
+0x92984525=~z~操他妈的。
 
 ;0x931599BA=~z~Because... no matter how stupid I think this is, I'm willing to take a chance on you.
 0x931599BA=~z~因为...无论我觉得这样做有多蠢，我都愿意给你一次机会。
@@ -675,10 +675,10 @@
 0xD944655C=400
 
 ;0xDC32585C=~z~Yay!... Yeah!... Congratulations cousin!... Mwah!... Alright!... Yes... Thank you... Thank you all for coming!... Yes!... Okay!
-0xDC32585C=~z~耶诶！...耶！...恭喜你，堂弟！...么！... 好啦！...好了...谢谢...感谢各位的到来...好！...好的！
+0xDC32585C=~z~耶诶！ 耶！ 恭喜你，堂兄！ 么！ 好啦！ 好了 谢谢 感谢各位的到来 好！ 好的！
 
 ;0xDC8B09A9=~z~The problem is that it's difficult to tell which one the man you are with is.
-0xDC8B09A9=~z~然而问题就是在于你很难区分和你一起的人是前者还是后者。
+0xDC8B09A9=~z~然而问题就是你很难区分和你一起的人是前者还是后者。
 
 ;0xDF6A10C7=~z~Are you?
 0xDF6A10C7=~z~有吗？

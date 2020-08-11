@@ -132,7 +132,7 @@
 0x2BC21B69=MF6_NB
 
 ;0x2F52978F=~z~You don't need money, what is it going to change about your life?
-0x2F52978F=~z~你不需要那笔钱，那笔钱能怎么样改变你的生活吗？
+0x2F52978F=~z~你不需要那笔钱，那笔钱就能改变你的生活吗？
 
 ;0x30191A41=MF6_A_UK
 0x30191A41=MF6_A_UK
@@ -483,7 +483,7 @@
 0xC94CA41D=MF6_OD
 
 ;0xC99D4BD2=~z~I'm not going to respect you if you compromise what you believe in for money, Niko. Goodbye.
-0xC99D4BD2=~z~如果你为了钱就妥协了你的信念，我就永远看不起你，Niko。再见。
+0xC99D4BD2=~z~如果你为钱妥协了自己的信念，我就永远看不起你，Niko。再见。
 
 ;0xCA54913F=010100010010100100010100
 0xCA54913F=010100010010100100010100

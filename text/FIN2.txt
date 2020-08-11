@@ -36,7 +36,7 @@
 0x38C16D65=~s~跟随~r~Pegorino的手下。
 
 ;0x4037B557=~s~Chase ~r~Pegorino. ~s~Stick to the coastline, do not lose him.
-0x4037B557=~s~追击~r~Pegorino。~s~沿着海岸线走，别跟丢了。
+0x4037B557=~s~追击~r~Pegorino。~s~沿海岸线骑行，别跟丢了。
 
 ;0x45681912=~r~Roman is dead.
 0x45681912=~r~Roman死了。
@@ -45,13 +45,13 @@
 0x4D9460F7=~s~加速冲上~y~栈桥~s~起跳。
 
 ;0x4DDE55C9=~r~The helicopter was destroyed.
-0x4DDE55C9=~r~直升机毁掉了。
+0x4DDE55C9=~r~直升机被毁了。
 
 ;0x5807BE81=~r~You can't chase Pegorino's men if they don't have a vehicle.
 0x5807BE81=~r~没有载具你追不上Pegorino 的人。
 
 ;0x5DB2F572=~r~You abandoned the bike.
-0x5DB2F572=~r~你抛弃了车。
+0x5DB2F572=~r~你抛弃了摩托。
 
 ;0x6249D305=~r~The car was destroyed.
 0x6249D305=~r~车被毁了。

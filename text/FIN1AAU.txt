@@ -546,7 +546,7 @@
 0x86CB7445=100010100
 
 ;0x87CE05FB=~z~This is just a straightforward money pickup. Dimitri is gonna hand over the H on his end.
-0x87CE05FB=~z~这次就是个简单的收钱工作。Dimitri那边拿H交货。
+0x87CE05FB=~z~这次就是个简单的收钱工作。Dimitri那边拿H交货，
 
 ;0x881A2D46=FIN1A_A_HF
 0x881A2D46=FIN1A_A_HF
@@ -906,7 +906,7 @@
 0xD89BE9BB=~z~不，我需要你去拿H，我需要钱。
 
 ;0xD992A967=~z~Then we're gonna get a call saying we're good to go.
-0xD992A967=~z~然后接到他的通知我们就去收钱。
+0xD992A967=~z~接到他的通知我们就去收钱。
 
 ;0xDA19A145=~z~Stick close to me, Niko.
 0xDA19A145=~z~一起行动，Niko。

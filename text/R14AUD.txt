@@ -135,7 +135,7 @@
 0x2861EACB=R14_UD
 
 ;0x287A754D=~z~Here we are, do you want to come in and hang with Brucie?
-0x287A754D=~z~到了，你要进来和Brucie坐会儿吗？
+0x287A754D=~z~到了，你要上来和Brucie坐会儿吗？
 
 ;0x28C3C07B=~z~But the Darko you are going to meet might be very different from the one who led our friends to their death.
 0x28C3C07B=~z~但是待会儿你见到的Darko，可能和将你的朋友带向死亡的Darko大不一样。
@@ -153,13 +153,13 @@
 0x2B930ADC=~z~别管他，他不值得你浪费精力。
 
 ;0x2D33151E=~z~-you make strange choices, I guess.~n~-Fuck you!
-0x2D33151E=~z~－你就会做出异常的选择，大概。~n~－操你妈的！
+0x2D33151E=~z~－你就会做出异常的选择。~n~－操你妈的！
 
 ;0x2D3EE09F=~z~I had to count the ripe corpses and to see who was missing.
 0x2D3EE09F=~z~我只能去数那些难闻的尸体，看到底少了谁。
 
 ;0x2D530FDA=~z~Niko - come on, let's go.
-0x2D530FDA=~z~Niko－算了，我们走吧。
+0x2D530FDA=~z~Niko，算了，我们走吧。
 
 ;0x2DB90B19=~z~It took every fiber of my being
 0x2DB90B19=~z~我全身上下所有肌肉，
@@ -372,7 +372,7 @@
 0x6D9B265D=090
 
 ;0x6F02AF3D=~z~You say I ruined you? You were always a killer!
-0x6F02AF3D=~z~你说是我毁了你？你本来就是个杀手！
+0x6F02AF3D=~z~你说我毁了你？你本来就是个杀手！
 
 ;0x6FA5947E=~z~Trust me, you'll be doing me a favor.
 0x6FA5947E=~z~相信我，杀我是在帮我。
@@ -429,7 +429,7 @@
 0x821FC59F=R14_CS
 
 ;0x8463BE06=~z~You ruined me, you fuck!
-0x8463BE06=~z~是你毁了我，你混蛋！
+0x8463BE06=~z~是你毁了我，混蛋！
 
 ;0x84990F56=~z~I know, Niko.
 0x84990F56=~z~我知道，Niko。
@@ -597,7 +597,7 @@
 0xAE5662D0=~z~当我知道后，我所做的一切都是为了找到那个人。
 
 ;0xAEDC7916=~z~No, it hasn't. Does that make you happy?
-0xAEDC7916=~z~对，它没有。这样你高兴了吗？
+0xAEDC7916=~z~对，没有。这样你高兴了吗？
 
 ;0xB017DB8A=R14_CL
 0xB017DB8A=R14_CL
@@ -663,7 +663,7 @@
 0xC5C9B6A9=R14_UP
 
 ;0xC6C528E7=~z~And it hasn't?
-0xC6C528E7=~z~结果它没有？
+0xC6C528E7=~z~结果没有？
 
 ;0xC7174360=~z~I needed the money... I had problems.
 0xC7174360=~z~我需要那笔钱...我有困难。
@@ -795,7 +795,7 @@
 0xED42D10A=R14_XH
 
 ;0xEDD90F17=~z~Roman, they've brought Darko Brevic into the country for me.
-0xEDD90F17=~z~Roman，他们已经帮我把Darko Brevic送到这个国家来了。
+0xEDD90F17=~z~Roman，他们已经帮我把Darko Brevic送到美国了。
 
 ;0xF00FF5CB=R14_VS
 0xF00FF5CB=R14_VS
