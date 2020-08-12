@@ -18,7 +18,7 @@
 0x08A459E8=010100010100100100010100010100100010100100010100100010100100010010
 
 ;0x0C8D57BF=~z~I hate everyone. Just, just leave me the fuck alone.
-0x0C8D57BF=~z~我讨厌所有人。就，就别他妈管我了。
+0x0C8D57BF=~z~我讨厌所有人。就、就别他妈管我了。
 
 ;0x0F749990=~z~I don't have a pimp. I'm freelance. I look after myself.
 0x0F749990=~z~我没有介绍人。我是自由职业，自己照顾自己。
@@ -69,7 +69,7 @@
 0x1F453498=~z~特别是在爱是指在公园的长椅上操一次赚五块的时候。
 
 ;0x243B7734=~z~Here you go. Good luck to you, kid. You need it.
-0x243B7734=~z~拿去，祝你好运，孩子。你需要它。
+0x243B7734=~z~拿去，祝你好运，孩子。你需要好运。
 
 ;0x24B94538=PIMA_DF
 0x24B94538=PIMA_DF
@@ -180,7 +180,7 @@
 0x50B1E703=PIMA_DO
 
 ;0x539914C8=~z~Turn into some methadone zombie? I don't think so. I quit, I do it cold turkey and by myself.
-0x539914C8=~z~变成一个美沙酮僵尸？我可不想这样。就算要戒，我也会直接停药，靠自己戒。~z~(美沙酮用于治疗海洛因依赖 成瘾性相对弱)
+0x539914C8=~z~变成一个美沙酮*僵尸？我可不想这样。就算要戒，我也会直接停药，靠自己戒。~z~(用于治疗海洛因依赖 成瘾性相对弱)
 
 ;0x54327E98=PIMA_EB
 0x54327E98=PIMA_EB
@@ -198,7 +198,7 @@
 0x56E52573=PIMA_DB
 
 ;0x57F0DE9E=~z~Hey, this is it. You got the cash?
-0x57F0DE9E=~z~嘿，就这儿了。钱你带了吗？
+0x57F0DE9E=~z~嘿，就这儿了。你有钱吗？
 
 ;0x58A41191=PIMA_DQ_QQQ1
 0x58A41191=PIMA_DQ_QQQ1
@@ -207,7 +207,7 @@
 0x5C23E97E=~z~你能送我去车站吗？
 
 ;0x5C4AF73D=~z~Yeah, well, I'm happy where I am. I was, at least.
-0x5C4AF73D=~z~对，我很满足我的情况。至少满足过。
+0x5C4AF73D=~z~对，我很满足我的现状。至少满足过。
 
 ;0x5D825CB4=~z~Are you off the heroin?
 0x5D825CB4=~z~海洛因你戒掉了吗？
@@ -339,7 +339,7 @@
 0xAE4FCEC4=PIMA_CF
 
 ;0xB16BA17D=~z~Why don't you ease up on this stuff? Go to a center, get yourself clean.
-0xB16BA17D=~z~你怎么不去把这玩意戒戒掉？找个戒毒中心，金盆洗手。
+0xB16BA17D=~z~你怎么不去把这玩意戒掉？找个戒毒中心，金盆洗手。
 
 ;0xB272160D=~z~The Midwest... I mean it's pretty boring... but this is no life.
 0xB272160D=~z~中西部...那边真的是很无聊...不过这样也不算生活。
@@ -408,7 +408,7 @@
 0xD8D549FE=~z~Urgh.
 
 ;0xDAADC992=~z~Hey mister, come back here!
-0xDAADC992=~z~嘿，先生，请回来！
+0xDAADC992=~z~嘿，先生，你别走！
 
 ;0xDB783198=~z~Don't think anyone's given me anything for free since I got to this city.
 0xDB783198=~z~我来到这个城市以后，没有人无偿给过我任何东西。

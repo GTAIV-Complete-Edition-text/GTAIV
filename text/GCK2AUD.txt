@@ -45,7 +45,7 @@
 0x0FC672D9=100
 
 ;0x10197C0A=~z~Why no glasses today? I miss them.
-0x10197C0A=~z~今天怎么不带眼镜呢？我想它。
+0x10197C0A=~z~今天怎么没戴眼镜呢？我想它了。
 
 ;0x1030CB8F=100
 0x1030CB8F=100
@@ -72,7 +72,7 @@
 0x170329FE=100
 
 ;0x18A672FD=~z~A childhood favorite of mine - places like this, I mean.
-0x18A672FD=~z~我的童年最爱－这样的地方，我是说。
+0x18A672FD=~z~我的童年最爱－我是说这种地方。
 
 ;0x19DECE9F=GCK_ACT_BORED_TAKEHOME
 0x19DECE9F=GCK_ACT_BORED_TAKEHOME
@@ -153,7 +153,7 @@
 0x3B1F5100=~z~跳舞？好啊。
 
 ;0x3DA0FAA2=~z~That outfit really works for you.
-0x3DA0FAA2=~z~这件外套很搭你。
+0x3DA0FAA2=~z~这身打扮很搭你。
 
 ;0x3DF71D72=GCK_ACT_ARRIVE_DARTS_LAST
 0x3DF71D72=GCK_ACT_ARRIVE_DARTS_LAST
@@ -174,7 +174,7 @@
 0x3FFD87BF=GCK_ACT_PKA_NOHAT_BAD
 
 ;0x407A86BE=~z~I'm not going to ask what you were doing... I don't want to know, let's go.
-0x407A86BE=~z~我不会问你你刚才干嘛去了的...我不想知道，走吧。
+0x407A86BE=~z~我不会问你你刚才在干嘛...我不想知道，走吧。
 
 ;0x425C133D=GCK_ACT_PKA_FEET_GOOD
 0x425C133D=GCK_ACT_PKA_FEET_GOOD
@@ -201,7 +201,7 @@
 0x4CE9FF1E=100
 
 ;0x4E452253=~z~Okay, hit it, and don't tell me why you're late.
-0x4E452253=~z~好了，走吧，别告诉我你为什么迟到了。
+0x4E452253=~z~好了，走吧，别跟我讲你为什么迟到。
 
 ;0x50D0E673=GCK_ACT_PKA_TORSO_BAD
 0x50D0E673=GCK_ACT_PKA_TORSO_BAD
@@ -228,7 +228,7 @@
 0x55E9DF44=~z~好...飞镖向来都很有趣。
 
 ;0x5A3C0F10=~z~I wonder what rubbish they got on now?
-0x5A3C0F10=~z~我在想他们现在又有什么垃圾上映？
+0x5A3C0F10=~z~我在想他们现在又有什么垃圾节目？
 
 ;0x5C9D2585=100
 0x5C9D2585=100
@@ -237,7 +237,7 @@
 0x5D6EE941=100
 
 ;0x5DD35FA4=~z~Cool - here again.
-0x5DD35FA4=~z~酷，又是这儿。
+0x5DD35FA4=~z~好吧，又是这儿。
 
 ;0x5E735280=GCK_ACT_BORED_LEAVING
 0x5E735280=GCK_ACT_BORED_LEAVING
@@ -252,7 +252,7 @@
 0x5F3D7566=100
 
 ;0x606C6DB1=~z~I'm enjoying this.
-0x606C6DB1=~z~我很享受这个。
+0x606C6DB1=~z~我看得很开心。
 
 ;0x61FFC8A3=~z~Thanks, Kate. Yeah, it's okay, isn't it?
 0x61FFC8A3=~z~谢了，Kate。对，挺好的，不是吗？
@@ -261,13 +261,13 @@
 0x6240C348=~z~感谢上帝，你不戴那副蠢蛋眼镜了。
 
 ;0x6327A00F=~z~My dad used to take me bowling.
-0x6327A00F=~z~我爸以前经常带我去打保龄球。
+0x6327A00F=~z~我爸以前经常带我打保龄球。
 
 ;0x63F57CEF=GCK_ACT_DIFF_ACTIVITY_NO
 0x63F57CEF=GCK_ACT_DIFF_ACTIVITY_NO
 
 ;0x64ECECE0=~z~This car is still ridiculous.
-0x64ECECE0=~z~这车还是很滑稽。
+0x64ECECE0=~z~这车还是那么滑稽。
 
 ;0x65551C2A=~z~I'm really not into this, Niko.
 0x65551C2A=~z~我真的不喜欢这个，Niko。
@@ -297,7 +297,7 @@
 0x6D9F3936=100
 
 ;0x70596016=~z~I still like that outfit.
-0x70596016=~z~我还是喜欢这件外套。
+0x70596016=~z~我依然喜欢这套衣服。
 
 ;0x73A97F2A=~z~I'm not superficial, but please change your clothes ONE time you take me out?
 0x73A97F2A=~z~也不是我外貌协会，但你跟我约会就不能换套别的衣服吗？
@@ -309,7 +309,7 @@
 0x73CE1478=~z~很有趣。
 
 ;0x740E66E3=~z~Those glasses were a bit silly.
-0x740E66E3=~z~这副眼镜有点蠢。
+0x740E66E3=~z~之前那副眼镜有点蠢。
 
 ;0x741BB9B7=~z~Not this, not again.
 0x741BB9B7=~z~不是吧，又是这个。
@@ -348,7 +348,7 @@
 0x819F0660=~z~你也懂我，我就爱爱尔兰酒吧，显然。
 
 ;0x82AAB231=~z~This is fucking funny.
-0x82AAB231=~z~这他妈真有趣。
+0x82AAB231=~z~太他妈有趣了。
 
 ;0x83B3DEB3=~z~We can have fun in here, if they let a pair of scumbags like us in!
 0x83B3DEB3=~z~我们是能在这儿玩得很高兴，只要他们肯让一对我们这样的草包进去！
@@ -369,7 +369,7 @@
 0x85A79DF9=GCK_ACT_PKA_SAME_BAD
 
 ;0x861CE70D=~z~I think I could do with a laugh.
-0x861CE70D=~z~我想我可以笑着去。
+0x861CE70D=~z~我想我可以去笑一笑。
 
 ;0x86BC0C7C=~z~This car is an improvement.
 0x86BC0C7C=~z~这车升级了嘛。
@@ -411,7 +411,7 @@
 0x90699F39=GCK_ACT_DURING_SHOW_POS
 
 ;0x90E4469C=~z~What's up with the glasses?
-0x90E4469C=~z~眼镜是怎么回事？
+0x90E4469C=~z~这是什么眼镜？
 
 ;0x9240A24F=~z~I haven't been here for ages.
 0x9240A24F=~z~我很多年没来过这儿了。
@@ -507,7 +507,7 @@
 0xAC303AC2=~z~那顶帽子怎么了？我还挺喜欢的。
 
 ;0xACF986CE=~z~This is hysterical.
-0xACF986CE=~z~这真可笑。
+0xACF986CE=~z~笑得我停不下来。
 
 ;0xAD46578C=~z~Darts? Excellent, I haven't played in ages.
 0xAD46578C=~z~飞镖？太好了，我好多年没玩了。
@@ -564,7 +564,7 @@
 0xBC66FD7F=~z~又和反社会者回到保龄球球道上了。谁能想到呢？
 
 ;0xBD7B7A59=~z~I'm glad you haven't changed - that looks suits you.
-0xBD7B7A59=~z~很高兴你没换掉－那个挺搭你的。
+0xBD7B7A59=~z~很高兴你没换衣服，这身很适合你。
 
 ;0xBDCEF9E2=100
 0xBDCEF9E2=100
@@ -573,16 +573,16 @@
 0xBF1F6C06=GCK_ACT_PKA_GLASSHAT_GOOD
 
 ;0xBFB903A0=~z~We gonna walk or get a cab?
-0xBFB903A0=~z~我们是要走呢，还是打的呢？
+0xBFB903A0=~z~我们是要步行呢，还是打的呢？
 
 ;0xC068A38E=~z~What's that thing on your head?
-0xC068A38E=~z~你头顶上的是个什么东西？
+0xC068A38E=~z~你头顶上是什么东西？
 
 ;0xC10D07E1=~z~You're late, but whatever - let's go.
 0xC10D07E1=~z~你迟到了，不过算了，走吧。
 
 ;0xC14F2F79=~z~I love him - he's so funny.
-0xC14F2F79=~z~我爱他，他太有趣了。
+0xC14F2F79=~z~我喜欢他，他太有趣了。
 
 ;0xC150F071=100
 0xC150F071=100
@@ -594,7 +594,7 @@
 0xC1C4B019=GCK_ACT_PKA_TORSO_GOOD
 
 ;0xC2712585=~z~Please tell me you burnt the hat?
-0xC2712585=~z~请你告诉我你把那帽子烧了？
+0xC2712585=~z~你已经你把那顶帽子烧了吧？
 
 ;0xC27D4ACB=GCK_ACT_ARRIVE_POOL_NOT
 0xC27D4ACB=GCK_ACT_ARRIVE_POOL_NOT
@@ -636,7 +636,7 @@
 0xCCA69BE6=GCK_ACT_ARRIVEC_NOTLATE
 
 ;0xD0451FEC=~z~That still looks good on you.
-0xD0451FEC=~z~你穿着还是很好看。
+0xD0451FEC=~z~你穿这身还是很好看。
 
 ;0xD09FA56D=~z~We gonna take a taxi or walk?
 0xD09FA56D=~z~我们是打的还是走去？
@@ -648,7 +648,7 @@
 0xD1D37525=~z~我很抱歉，但我现在不太想做这个。
 
 ;0xD1E4D0A4=~z~This guy really cracks me up.
-0xD1E4D0A4=~z~这个人真的让我笑死了。
+0xD1E4D0A4=~z~这人真的笑死我了。
 
 ;0xD268300F=GCK_ACT_PKA_FEET_BAD
 0xD268300F=GCK_ACT_PKA_FEET_BAD
@@ -684,7 +684,7 @@
 0xD9830923=~z~这车好。
 
 ;0xDA3633CE=~z~That outfit again? I still like it.
-0xDA3633CE=~z~还是这件外套？我也喜欢。
+0xDA3633CE=~z~还是这一套？我也喜欢。
 
 ;0xDAC600FD=~z~Fast-food - great - a heart attack.
 0xDAC600FD=~z~快餐，真好，吃了得心脏病。
@@ -705,7 +705,7 @@
 0xE198C775=~z~这件上衣－这么说可能不太好－是真的不行。
 
 ;0xE3E02398=~z~I kind of miss those glasses.
-0xE3E02398=~z~我还是有点想那副眼镜的。
+0xE3E02398=~z~我有点想那副旧眼镜了。
 
 ;0xE4042FE3=GCK_ACT_PKA_CAR_GOOD
 0xE4042FE3=GCK_ACT_PKA_CAR_GOOD
@@ -732,10 +732,10 @@
 0xEBF10231=GCK_ACT_PKA_HAT_BAD
 
 ;0xEBFCD75B=~z~I'm glad you're wearing that again.
-0xEBFCD75B=~z~很高兴你还是穿着它。
+0xEBFCD75B=~z~很高兴你还是穿着这身衣服。
 
 ;0xEC475CBC=~z~Cab or walk? What do you think?
-0xEC475CBC=~z~打的还是走路？你怎么想的？
+0xEC475CBC=~z~打的还是走路？你觉得呢？
 
 ;0xEC489CF8=100
 0xEC489CF8=100
