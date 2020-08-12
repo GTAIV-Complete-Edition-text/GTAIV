@@ -1,6 +1,6 @@
 ﻿[PIEAUD]
 ;0x01210246=~z~You and your wicked sense of humor. You're quite naughty. Quite, quite naughty.
-0x01210246=~z~你和你调皮的幽默感。你可真皮。真的真的皮。
+0x01210246=~z~你和你调皮的幽默感。你可真皮，真的真的皮。
 
 ;0x0184C3A6=~z~This ride is wild enough for me, so can you stop with that weird shit, pal? Now.
 0x0184C3A6=~z~这趟便车对我来说已经够狂野了，能不能拜托你别扯那些诡异的淡了，老兄？别扯了。
@@ -99,7 +99,7 @@
 0x1975E027=PIE_GZ
 
 ;0x1AAA55F9=~z~Can... can you take me to Westminster?
-0x1AAA55F9=~z~能...能不能拜托你送我到Westminster？
+0x1AAA55F9=~z~能不能拜托你送我去Westminster？
 
 ;0x1AC56016=PIE_GT
 0x1AC56016=PIE_GT
@@ -120,7 +120,7 @@
 0x1FF06616=~z~谢谢你，朋友。我们回头见，食人魔。
 
 ;0x22F295FA=~z~I like Westminster. Lots of nice boys there. It's one of my hunting grounds.
-0x22F295FA=~z~我喜欢Westminster。那里有很多好男孩，那里是我的一个狩猎场。
+0x22F295FA=~z~我喜欢Westminster。那里有很多好男孩，那里是我的狩猎场之一。
 
 ;0x236B32DF=~z~No, I'm from Florida.
 0x236B32DF=~z~不是，我是佛罗里达人。
@@ -147,7 +147,7 @@
 0x2872CFEE=~z~邻居们不喜欢Eddie烧轮胎。
 
 ;0x295E0060=~z~Spill your guts.
-0x295E0060=~z~掏心窝子。
+0x295E0060=~z~掏肠剖肚。
 
 ;0x2AA7D8FC=PIE_CJ
 0x2AA7D8FC=PIE_CJ
@@ -267,7 +267,7 @@
 0x5025413B=~z~我不想妨碍你，Niko。我也不想你妨碍我。
 
 ;0x50644184=~z~Glad I got rid of that. Wouldn't want to get caught with it - people can be so narrow minded.
-0x50644184=~z~能摆脱它我很高兴。我可不想带着他被抓－有时候人类的心胸真的是太狭隘了。
+0x50644184=~z~能摆脱它我很高兴，我可不想带着他被抓。有时候人类的心胸真的是太狭隘了。
 
 ;0x5079347C=PIE_FAA
 0x5079347C=PIE_FAA
@@ -354,10 +354,10 @@
 0x6395F337=~z~Eddie不喜欢被别人推开。Eddie会推回去。
 
 ;0x64406EA9=~z~Here we are. Eddie's off to hunt for a nice boy.
-0x64406EA9=~z~我们到了，Eddie要下车去狩猎一个正点男孩了。
+0x64406EA9=~z~我们到了，Eddie要下车去狩猎正点男孩了。
 
 ;0x64E4E2B5=~z~Because it turns out we don't have souls, and animals use tools, and all that kind of thing...
-0x64E4E2B5=~z~因为实际上我们没有灵魂，动物也会实用工具，都是这种东西...
+0x64E4E2B5=~z~因为实际上我们没有灵魂，动物也会使用工具，都是这种东西...
 
 ;0x66279CAC=~z~Eddie's ripped out her intestines, just to see if he could feel anything. And you know what... he couldn't... he couldn't...
 0x66279CAC=~z~Eddie已经把她的肚肠掏了出来，看他能不能有什么感觉。结果你猜怎么着...他不能了...他不能了...
@@ -477,7 +477,7 @@
 0x8FEAB9F1=~z~嘿，你还真够聪明的。
 
 ;0x901C3923=~z~Okay, listen, friend you're really creeping me out.
-0x901C3923=~z~好了，听着，朋友，你真的是要吓坏我了。
+0x901C3923=~z~好了，听着，朋友，你真的要吓坏我了。
 
 ;0x92F21A72=PIE_HB
 0x92F21A72=PIE_HB
@@ -501,7 +501,7 @@
 0x97B0DB88=PIE_GR
 
 ;0x97E3AFCD=~z~Quite naughty... do you like to get spanked? Like, like that?
-0x97E3AFCD=~z~真够皮的...你喜欢被打屁股吗？就像，就像这样？
+0x97E3AFCD=~z~真够皮的...你喜欢被打屁股吗？就像、就像这样？
 
 ;0x97F3D51B=PIE_FO
 0x97F3D51B=PIE_FO
@@ -513,7 +513,7 @@
 0x98E30226=~z~至于你的女儿，你的漂亮小女儿，Abrahams太太...
 
 ;0x9DEE54C7=~z~Wait! Wait! Wait, mister. Do you ever wonder? Do you ever wonder if animals... if they masturbate?
-0x9DEE54C7=~z~等等！等等！等等，先生。你有想过吗？你有想过动物会...动物会手淫吗？
+0x9DEE54C7=~z~等等！等等！等等，先生。你有想过吗？你有想过动物会...手淫吗？
 
 ;0xA30FA31A=PIE_CN
 0xA30FA31A=PIE_CN

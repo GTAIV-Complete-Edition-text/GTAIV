@@ -27,7 +27,7 @@
 0x0987F531=~z~我怀孕了，本来我们要在喝喜酒的时候说点事情的。
 
 ;0x09E5EEF3=~z~Hey, you've reached the phone of the future Mrs. Bellic. Leave me or Roman a message and we'll get back to you.
-0x09E5EEF3=~z~嘿，你拨打的是未来的Bellic太太的电话。给我或Roman留个消息，我们会回复你的。
+0x09E5EEF3=~z~嘿，你的呼叫是未来的Bellic太太。给我或Roman留个消息，我们会回复你的。
 
 ;0x0B5AA9DB=~z~I don't know what she is, but she was lying to us all along and now I'm paying for it.
 0x0B5AA9DB=~z~我不知道她是什么，但她一直以来都在骗我们，现在我为此付出代价了。
@@ -36,13 +36,13 @@
 0x0BE6E215=~z~告诉他是一个旧相识让你来的。他在等你。
 
 ;0x0C019D12=~z~Puto, where are the scissors? Where are the fucking scissors?
-0x0C019D12=~z~Puto, where are the scissors? Where are the fucking scissors?
+0x0C019D12=~z~妈的，我的剪刀呢？老娘的剪刀呢？
 
 ;0x0CB35ED1=MF2_ZC
 0x0CB35ED1=MF2_ZC
 
 ;0x0E47A19E=~z~He don't act like it. Piece of shit, when I get my hands on him I'm going to...
-0x0E47A19E=~z~He don't act like it. Piece of shit, when I get my hands on him I'm going to...
+0x0E47A19E=~z~他不能那么做。操他妈的，等我再见到他，我就要...
 
 ;0x0FD7E9FB=~z~I'm already working for a Mafia family. They are scum.
 0x0FD7E9FB=~z~我已经在替一个黑手党家族做事了。他们是人渣。
@@ -57,10 +57,10 @@
 0x12C2BF5F=MF2_NB
 
 ;0x13290450=~z~Bellic, I have your man. He's been flown in. We're going to drop him in the airport cargo area for you.
-0x13290450=~z~Bellic，你要的人在了，马上就飞过来。我们会在机场货运区把他交给你。
+0x13290450=~z~Bellic，你要的人在了，马上就送过来。我们会在机场货运区把他交给你。
 
 ;0x15137EED=~z~Give him some of his own medicine - find out if he was serious about me.
-0x15137EED=~z~Give him some of his own medicine - find out if he was serious about me.
+0x15137EED=~z~想让他尝尝我对他乱搞的感受，试试他对我到底是不是认真的。
 
 ;0x15E018E6=~z~Really?
 0x15E018E6=~z~真的？
@@ -72,7 +72,7 @@
 0x19BA0570=MF2_A_DF
 
 ;0x1CD43200=~z~Niko, tell me straight. Was Roman with another woman last night? I swear I'm going to cut his balls off.
-0x1CD43200=~z~Niko, tell me straight. Was Roman with another woman last night? I swear I'm going to cut his balls off.
+0x1CD43200=~z~Niko，跟我说实话。Roman昨晚是不是又在找别的女人？我发誓我要把他给阉了。
 
 ;0x1F415AF2=~z~So, I hear you've found the big bad monster you were after? Bernie Crane, the muscle Mary. Come on.
 0x1F415AF2=~z~听说你找到你在找的那条大恶龙了？Bernie Crane，就那肌肉玫瑰？得了吧。
@@ -99,7 +99,7 @@
 0x287ED879=100010
 
 ;0x2A170187=~z~Hello, you have reached United Liberty Paper Merchants. None of our operatives can come to the phone.
-0x2A170187=~z~您好，您拨打的是United Liberty Paper Merchants(联合自由报报业)。我们的员工暂时无暇接听。
+0x2A170187=~z~您好，您呼叫的是联合自由报报业。我们的员工暂时无暇接听。
 
 ;0x2AE4FD22=MF2_A_BB
 0x2AE4FD22=MF2_A_BB
@@ -108,7 +108,7 @@
 0x2BF18462=MF2_A_CA
 
 ;0x2D5F2F80=~z~Sure.
-0x2D5F2F80=~z~Sure.
+0x2D5F2F80=~z~你问吧。
 
 ;0x2E1F0FBF=MF2_ZC
 0x2E1F0FBF=MF2_ZC
@@ -171,7 +171,7 @@
 0x4D06F06D=~z~Elizabeta Torres，她在Fortside的San Quentin大道有间公寓。到那儿找我。
 
 ;0x4DB77030=~z~Hey, Niko. It's Mallorie. I've got a personal question for you.
-0x4DB77030=~z~Hey, Niko. It's Mallorie. I've got a personal question for you.
+0x4DB77030=~z~喂，Niko，我是Mallorie。我有一个私人问题要问你。
 
 ;0x4DDF604C=100010100010
 0x4DDF604C=100010100010
@@ -210,7 +210,7 @@
 0x5ADF5229=~z~我很确定你也知道，但是你说了会帮我的。
 
 ;0x5B935C24=~z~Maybe you have learned something, Bellic. Goodbye and good luck. Try to live a good life.
-0x5B935C24=~z~Maybe you have learned something, Bellic. Goodbye and good luck. Try to live a good life.
+0x5B935C24=~z~看来你有长进了，Bellic。再见，祝你好运。以后过正经日子吧。
 
 ;0x5BD3E500=~z~Please leave a message.
 0x5BD3E500=~z~请留下您的消息。
@@ -237,7 +237,7 @@
 0x638BB296=100010100
 
 ;0x65171EF3=~z~I haven't seen him.
-0x65171EF3=~z~I haven't seen him.
+0x65171EF3=~z~我最近没见过他。
 
 ;0x65D441F6=MF2_XC
 0x65D441F6=MF2_XC
@@ -249,16 +249,16 @@
 0x670445FA=MF2_XB
 
 ;0x69DDF8B9=~z~For him, death would have been a release. For me, another stain I do not need.
-0x69DDF8B9=~z~For him, death would have been a release. For me, another stain I do not need.
+0x69DDF8B9=~z~于他，死亡是一种解脱。于我，杀了他也无济于事。
 
 ;0x6B91BA9F=MF2_HB
 0x6B91BA9F=MF2_HB
 
 ;0x6C698319=~z~So, you got your revenge. I hope it gave you the satisfaction you were looking for.
-0x6C698319=~z~So, you got your revenge. I hope it gave you the satisfaction you were looking for.
+0x6C698319=~z~那，你完成复仇了。希望你已经得到了你在追寻的满足感。
 
 ;0x6C9D09C2=~z~I must be getting paranoid. Of course Roman wouldn't. Thanks Niko.
-0x6C9D09C2=~z~I must be getting paranoid. Of course Roman wouldn't. Thanks Niko.
+0x6C9D09C2=~z~一定是我想太多了，Roman当然不会这样。谢了，Niko。
 
 ;0x6CEC2766=MF2_XG
 0x6CEC2766=MF2_XG
@@ -282,7 +282,7 @@
 0x722874C0=MF2_A_BF
 
 ;0x72E9BA98=~z~He could be dead in the river for all I care. I just want to put that shit behind me -
-0x72E9BA98=~z~He could be dead in the river for all I care. I just want to put that shit behind me -
+0x72E9BA98=~z~他掉河里淹死了都说不定。我只想忘了这些事。
 
 ;0x73D824EE=MF2_MC
 0x73D824EE=MF2_MC
@@ -318,7 +318,7 @@
 0x8AACE283=~z~刚见到他我就已经腻了。
 
 ;0x8B5A7FB1=~z~Come on, Mallorie. Roman wouldn't do something like that to the love of his life.
-0x8B5A7FB1=~z~Come on, Mallorie. Roman wouldn't do something like that to the love of his life.
+0x8B5A7FB1=~z~放松，Mallorie。Roman不会对她的一生挚爱这么做的。
 
 ;0x8C2434B2=~z~I know it gets lonely. I know what it feels like to get close to a man.
 0x8C2434B2=~z~我知道会很孤单，我也知道接近一个人是什么感觉。
@@ -357,7 +357,7 @@
 0x9F8F61CC=~z~我已经为你顶了不少压力了，Niko。总该帮我点忙了吧。
 
 ;0xA243EEC9=~z~You have nothing left. Goodbye and good luck.
-0xA243EEC9=~z~You have nothing left. Goodbye and good luck.
+0xA243EEC9=~z~你已经没有欲望了。再见，祝你好运。
 
 ;0xA2E66357=~z~You know Roman, he has these other women but you're the only one he loves.
 0xA2E66357=~z~You know Roman, he has these other women but you're the only one he loves.
@@ -384,7 +384,7 @@
 0xA9043F30=~z~别担心。你光是照顾Roman就已经够忙了。之后见。
 
 ;0xAA70A9A9=~z~Do you know where Vlad is?
-0xAA70A9A9=~z~Do you know where Vlad is?
+0xAA70A9A9=~z~你知道Vlad在哪儿吗？
 
 ;0xAAAD9B1C=MF2_XH
 0xAAAD9B1C=MF2_XH
@@ -420,7 +420,7 @@
 0xB2D0DE03=100010100100
 
 ;0xB33F90C4=~z~What do you want, to make me do more "good things for your cause"?
-0xB33F90C4=~z~What do you want, to make me do more "good things for your cause"?
+0xB33F90C4=~z~你想怎样？让我为你做更多「正义之举」吗？
 
 ;0xB3DC49DB=~z~Mallorie, the man who got Roman killed is dead.
 0xB3DC49DB=~z~Mallorie，派人暗杀Roman的人已经死了。
@@ -432,7 +432,7 @@
 0xB4B8D577=MF2_A_BJ
 
 ;0xB558FB76=~z~Is your johnson so big you can't keep it in your pants, Bellic? I told you to be calm.
-0xB558FB76=~z~你的弟弟已经大到裤子里装不下了吗，Bellic？我告诉过你要冷静了。
+0xB558FB76=~z~你的老二已经大到裤子里装不下了吗，Bellic？我告诉过你要冷静了。
 
 ;0xB810BD4A=~z~Elizabeta Torres, she's got an apartment on San Quentin in Fortside. Meet me there.
 0xB810BD4A=~z~Elizabeta Torres，她在Fortside的San Quentin大道有间公寓。到那儿找我。
@@ -459,13 +459,13 @@
 0xBEDE2818=MF2_PA
 
 ;0xBF45C9C1=~z~Niko, I heard that Michelle was a cop or a fed or something, is it true?
-0xBF45C9C1=~z~Niko，听说Michelle好像是个条子还是FIB还是什么的，是真的吗？
+0xBF45C9C1=~z~Niko，听说Michelle好像是个条子还是FIB之类的，是真的吗？
 
 ;0xBF995FC2=MF2_A_DD
 0xBF995FC2=MF2_A_DD
 
 ;0xBFAA541C=~z~Roman and I are getting on well now, and I don't want this shit to jeopardize anything. Thanks Niko.
-0xBFAA541C=~z~Roman and I are getting on well now, and I don't want this shit to jeopardize anything. Thanks Niko.
+0xBFAA541C=~z~Roman和我现在处得很好，我不想因为他让生活被破坏。谢了，Niko。
 
 ;0xC004B661=MF2_A_CA
 0xC004B661=MF2_A_CA
@@ -504,7 +504,7 @@
 0xCC1029C9=MF2_KB
 
 ;0xCC2CF7E1=~z~I haven't heard anything, but I'm sure it would be a really good thing for both of you.
-0xCC2CF7E1=~z~我还什么都没听说过，不过我敢肯定，这对你们两个都是一件好事。
+0xCC2CF7E1=~z~我还什么都没听说过，不过我敢肯定，这对你们两个都是件好事。
 
 ;0xCCBBE4AD=~z~I don't know what she is, but she was lying to us all along and now I'm paying for it.
 0xCCBBE4AD=~z~我不知道她是什么，但她一直以来都在骗我们，现在我为此付出代价了。
@@ -519,7 +519,7 @@
 0xD8A9447D=~z~贱人。确实一直有关于她的流言。我真的很抱歉。
 
 ;0xDDB61AEF=~z~His love for me took over and he just had to kill him.
-0xDDB61AEF=~z~他对我的爱冲昏了他的头脑，他就只能杀了他了。
+0xDDB61AEF=~z~他被对我的爱冲昏了头脑，就只能杀了Vlad了。
 
 ;0xDECAAEED=100010100100100
 0xDECAAEED=100010100100100
@@ -528,7 +528,7 @@
 0xE1980D7C=~z~Bellic，我想把你介绍给John Gravelli，Gambetti家族的老大。他需要帮助。
 
 ;0xE2A19A0A=~z~Now these Russian putas keep calling me asking where he is, like I fucking know.
-0xE2A19A0A=~z~Now these Russian putas keep calling me asking where he is, like I fucking know.
+0xE2A19A0A=~z~现在那些俄国妓女一直追问我Vlad在哪儿，搞得跟我知道一样。
 
 ;0xE3836DD3=MF2_JD
 0xE3836DD3=MF2_JD
@@ -543,7 +543,7 @@
 0xE9047671=MF2_YC
 
 ;0xE905FC50=~z~Now, you're useless to me. We need someone who wants something, someone with burning desires.
-0xE905FC50=~z~Now, you're useless to me. We need someone who wants something, someone with burning desires.
+0xE905FC50=~z~你对我已经没有用了。我们要的是有欲望的人，要的是欲望强烈的人。
 
 ;0xEE05892A=100010100100
 0xEE05892A=100010100100
@@ -555,7 +555,7 @@
 0xF0DB9557=MF2_YD
 
 ;0xF107070D=~z~I looked at him and realized that revenge was not what I wanted after all.
-0xF107070D=~z~I looked at him and realized that revenge was not what I wanted after all.
+0xF107070D=~z~看着他，我意识到复仇并不是我真正想要的。
 
 ;0xF12841D3=~z~I guess when he found out about me and Vlad he couldn't help himself.
 0xF12841D3=~z~我想他发现我跟Vlad的事的时候，他就控制不住自己了。
@@ -573,7 +573,7 @@
 0xF3AA5CAA=010100010100010100
 
 ;0xF8264513=~z~Listen, I'll level with you - I stupidly got involved with him to get back at Roman, for all his playing around.
-0xF8264513=~z~Listen, I'll level with you - I stupidly got involved with him to get back at Roman, for all his playing around.
+0xF8264513=~z~那个，我就跟你直说了，我为了报复Roman乱搞女人就和Vlad调情。
 
 ;0xF9B70EF0=MF2_A_DA
 0xF9B70EF0=MF2_A_DA
@@ -591,8 +591,8 @@
 0xFC95DB4D=~z~你的孩子什么都不需要担心了，Mallorie。
 
 ;0xFD980E56=~z~Niko, I heard that Michelle was a cop or a fed or something, is it true?
-0xFD980E56=~z~Niko，听说Michelle好像是个条子还是FIB还是什么的，是真的吗？
+0xFD980E56=~z~Niko，听说Michelle好像是个条子还是FIB之类的，是真的吗？
 
 ;0xFF58A3B0=~z~After all that trouble, you didn't even kill him. Remarkable.
-0xFF58A3B0=~z~After all that trouble, you didn't even kill him. Remarkable.
+0xFF58A3B0=~z~大费周章之后，你都没有杀了他。神奇。
 

@@ -27,7 +27,7 @@
 0x0C57851A=~z~我们应该待到结束的。
 
 ;0x0DBF92AF=~z~Niko - I have only a limited time on earth and you're wasting too much of it.
-0x0DBF92AF=~z~Niko，我的时间非常有限，你浪费的太多了。
+0x0DBF92AF=~z~Niko，我的时间非常有限，你浪费了太多。
 
 ;0x0F92D79F=010
 0x0F92D79F=010
@@ -57,13 +57,13 @@
 0x1B66864E=~z~谢谢你陪我。晚安。
 
 ;0x1CFF81DE=~z~Can we call it a day?
-0x1CFF81DE=~z~我们能管这叫一天吗？
+0x1CFF81DE=~z~今天就到此为止吧？
 
 ;0x1D052675=~z~We should have watched a bit more.
 0x1D052675=~z~我们应该再看久一点的。
 
 ;0x1FD3203A=~z~That's funny, I didn't know there were ties in bowling.
-0x1FD3203A=~z~很有趣，我还不知道保龄球能打平。
+0x1FD3203A=~z~很有趣，没想到保龄球也能打平。
 
 ;0x202AC936=100
 0x202AC936=100
@@ -75,7 +75,7 @@
 0x225F66FB=100
 
 ;0x22B7E9DF=~z~Are we going the slow and scenic route?
-0x22B7E9DF=~z~我们是要走这条缓慢的观光路线吗？
+0x22B7E9DF=~z~我们是要慢慢看风景吗？
 
 ;0x242CEA60=~z~I don't know what Packie will say when I tell him you weren't enough of a gentleman to let me win at bowling.
 0x242CEA60=~z~要是我告诉Packie你不够绅士，打保龄球的时候没让我赢，我不知道他会说什么。
@@ -96,7 +96,7 @@
 0x2A4E4BCC=~z~我们为什么在漫无目的地乱转？
 
 ;0x2A72CC39=~z~No shame in losing to a girl, I guess.
-0x2A72CC39=~z~被一个女孩弄得迷失可不可耻，我猜。
+0x2A72CC39=~z~输给女孩大概不算可耻吧。
 
 ;0x2A8EAE51=~z~I always love walking around the city.
 0x2A8EAE51=~z~我向来喜欢在城里转悠。
@@ -174,10 +174,10 @@
 0x4579377B=~z~我玩得还算开心吧。
 
 ;0x45996163=~z~Cabaret is not a dying art - it's a dead art.
-0x45996163=~z~舞台表演可不是个将死的艺术，是死了的艺术。
+0x45996163=~z~卡巴莱不是将死的艺术，是死了的艺术。
 
 ;0x49BAB7D1=~z~Can you take me back home?
-0x49BAB7D1=~z~你能带我回家了吗？
+0x49BAB7D1=~z~你能送我回家吗？
 
 ;0x4A0197B7=~z~That was fun - but this is goodnight.
 0x4A0197B7=~z~是很高兴，不过现在该道晚安了。
@@ -285,7 +285,7 @@
 0x813B0629=~z~感谢你能尊重我，晚安。
 
 ;0x82007BFA=~z~You're insatiable, Niko. Forget about it.
-0x82007BFA=~z~你真是不知足，Niko。忘了它吧。
+0x82007BFA=~z~你真是不知足，Niko。别想了。
 
 ;0x82380223=GCK_ACT_BOWL_LEAVE_ABANDON
 0x82380223=GCK_ACT_BOWL_LEAVE_ABANDON
@@ -309,7 +309,7 @@
 0x89F4642F=GCK_ACT_LEAVE_HiGHEND
 
 ;0x8A205C1E=~z~I think I've had about enough.
-0x8A205C1E=~z~我想我已经足够了。
+0x8A205C1E=~z~我想我已经受够了。
 
 ;0x8A262F6C=~z~I love that guy... really cracked me up.
 0x8A262F6C=~z~我超爱那个人的...真的是笑死我了。
@@ -336,7 +336,7 @@
 0x9BA67DE9=~z~刚才挺不错的。
 
 ;0x9D440124=~z~That was kind of fun.
-0x9D440124=~z~还是有点有趣的。
+0x9D440124=~z~还是有点意思的。
 
 ;0x9E0BF6EB=~z~Let me say goodnight to you at least.
 0x9E0BF6EB=~z~至少让我向你说声晚安吧。
@@ -486,7 +486,7 @@
 0xD26FB3EE=~z~刚才很有趣，不过我还有事情要做。
 
 ;0xD4C837F6=~z~That was great - like a family party without the bloodshed.
-0xD4C837F6=~z~那个很好啊，就像是没有血缘的家庭聚会。
+0xD4C837F6=~z~那个很好啊，就像是没有血泊的家庭聚会。
 
 ;0xD53B7D76=GCK_ACT_LEAVE_PUB_GENERIC
 0xD53B7D76=GCK_ACT_LEAVE_PUB_GENERIC
@@ -516,7 +516,7 @@
 0xE3891694=~z~晚安，Kate。
 
 ;0xE39DEBA8=~z~Surely you remember where I live?
-0xE39DEBA8=~z~你应该还记得我住哪儿吧？
+0xE39DEBA8=~z~你应该记得我住哪儿吧？
 
 ;0xE3F59F59=GCK_ACT_POOL_LEAVE_WON
 0xE3F59F59=GCK_ACT_POOL_LEAVE_WON
@@ -531,7 +531,7 @@
 0xE79DFC2C=GCK_ACT_LEAVE_SHOW_CABARET
 
 ;0xE82F107F=~z~This is against my better judgment.
-0xE82F107F=~z~这可违背了我的最佳判断。
+0xE82F107F=~z~这样会违背我的原则。
 
 ;0xEA40E30E=100
 0xEA40E30E=100
@@ -555,17 +555,17 @@
 0xF27E4E63=100
 
 ;0xF34FBCD1=~z~That show was so bad it was good.
-0xF34FBCD1=~z~那表演已经烂到一种境界了。
+0xF34FBCD1=~z~那个节目已经烂到一种境界了。
 
 ;0xF44FE02B=~z~I really don't think that's going to happen, Niko.
-0xF44FE02B=~z~我真的不觉得会有那种事的，Niko。
+0xF44FE02B=~z~我想那种事是不会发生的，Niko。
 
 ;0xF45C453E=GCK_ACT_PKA_END_KISS_RESPONSE
 0xF45C453E=GCK_ACT_PKA_END_KISS_RESPONSE
 
 ;0xF631CD24=~z~See you later, Kate.
-0xF631CD24=~z~以后见，Kate。
+0xF631CD24=~z~之后见，Kate。
 
 ;0xFB70B702=~z~I really shouldn't do this.
-0xFB70B702=~z~我真的不该做这个的。
+0xFB70B702=~z~我真的不该这样做。
 
