@@ -90,7 +90,7 @@
 0x21B427C4=SFX_MACHINE_BEEP
 
 ;0x2248A837=~z~Hey friend, there's no one's here right now.
-0x2248A837=~z~Hey friend, there's no one's here right now.
+0x2248A837=~z~嘿，朋友，现在没人接电话。
 
 ;0x224C454C=100010100100010100100
 0x224C454C=100010100100010100100
@@ -180,7 +180,7 @@
 0x4092B264=MF5_VI
 
 ;0x41EE4A5D=~z~Persuade them to give up the contracts. We can work together.
-0x41EE4A5D=~z~劝他们放弃感情吧。我们可以合作。
+0x41EE4A5D=~z~劝他们交出合约吧。我们可以合作。
 
 ;0x4245451F=~z~I have nothing to say to you.
 0x4245451F=~z~我跟你无话可说。
@@ -249,7 +249,7 @@
 0x62E6871E=MF5_WD
 
 ;0x645BC3BD=~z~This is a very dangerous man. He will not take kindly to this.
-0x645BC3BD=~z~这是一个很危险的人物。他不会轻易原谅这事的。
+0x645BC3BD=~z~他是个很危险的人物，不会轻易原谅这事的。
 
 ;0x64E8C058=~z~We need to talk in person. I'll be on the Firefly Island boardwalk from 5pm to 3am.
 0x64E8C058=~z~We need to talk in person. I'll be on the Firefly Island boardwalk from 5pm to 3am.
@@ -324,7 +324,7 @@
 0x86A031C3=MF5_GK
 
 ;0x87307205=~z~You might want to check in jail or hospital. This city is full of crazy people.
-0x87307205=~z~You might want to check in jail or hospital. This city is full of crazy people.
+0x87307205=~z~你可以去监狱或者医院看看。这座城里满是疯狂的人。
 
 ;0x87C07F2F=SFX_MACHINE_BEEP
 0x87C07F2F=SFX_MACHINE_BEEP
@@ -522,7 +522,7 @@
 0xCBBB13C0=~z~我很抱歉。要么还是去怪那帮没能杀了我的手下吧。
 
 ;0xCC72BBD6=~z~I'm kind of busy right now. Liberty City's an interesting place.
-0xCC72BBD6=~z~I'm kind of busy right now. Liberty City's an interesting place.
+0xCC72BBD6=~z~我现在有点忙。自由城是个有趣的地方。
 
 ;0xCDFC961C=MF5_WB
 0xCDFC961C=MF5_WB
@@ -543,7 +543,7 @@
 0xD8C4C7FF=MF5_GA
 
 ;0xD9A8D642=~z~This is Niko Bellic.
-0xD9A8D642=~z~This is Niko Bellic.
+0xD9A8D642=~z~我是Niko Bellic。
 
 ;0xDB12C02D=~z~You should have thought of that earlier.
 0xDB12C02D=~z~You should have thought of that earlier.

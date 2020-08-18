@@ -1,6 +1,6 @@
 ﻿[NET4M]
 ;0x417707C2=You have ~1~ seconds to get back into a cop car.
-0x417707C2=在~1~秒内回到警车里。
+0x417707C2=在~1~秒内回到警车上。
 
 ;0x4DECA0AD=Go to the ~y~target's location.
 0x4DECA0AD=前往~y~目标所在地。
@@ -12,7 +12,7 @@
 0x67029C9F=~s~目标及其团伙已被消灭。
 
 ;0x73416B56=You have ~1~ second to get back into a cop car.
-0x73416B56=在~1~秒内回到警车里。
+0x73416B56=在~1~秒内回到警车上。
 
 ;0x74C9382C=~s~The target and his partner have been eliminated.
 0x74C9382C=~s~目标及其同伙被消灭了。
@@ -33,7 +33,7 @@
 0xAC1C5D0B=消灭~r~目标。
 
 ;0xB8537579=Take out the ~r~targets.
-0xB8537579=除掉~r~目标。
+0xB8537579=干掉~r~目标。
 
 ;0xE3CA4C6A=Go inside and eliminate the ~r~target.
 0xE3CA4C6A=进去消灭~r~目标。

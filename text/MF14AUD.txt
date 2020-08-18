@@ -183,7 +183,7 @@
 0x3B2CD8EC=~z~是没有必要，Packie，你说的对。
 
 ;0x3CDF136E=~z~This Tinkle cellphone is switched off.
-0x3CDF136E=~z~这台Tinkle手机已关机。
+0x3CDF136E=~z~您呼叫的Tinkle手机已关机。
 
 ;0x3D2F97B5=MF6_A_KF
 0x3D2F97B5=MF6_A_KF
@@ -201,7 +201,7 @@
 0x40D02056=MF6_A_KE
 
 ;0x423D1B4C=~z~Shit, is it serious?
-0x423D1B4C=~z~操，来真的了？
+0x423D1B4C=~z~操，罪名重吗？
 
 ;0x42AB4CD8=MF6_A_HF
 0x42AB4CD8=MF6_A_HF
@@ -264,7 +264,7 @@
 0x56BA350A=MF6_A_JH
 
 ;0x56E1C495=~z~Hardly - couldn't stand the bastard myself.
-0x56E1C495=~z~不大可能－我自己都受不了那个混蛋。
+0x56E1C495=~z~不大可能，我自己都受不了那个混蛋。
 
 ;0x58158524=MF6_A_LE
 0x58158524=MF6_A_LE
@@ -366,7 +366,7 @@
 0x77FE3CB2=100
 
 ;0x782A0C1B=~z~This Badger cellphone is switched off.
-0x782A0C1B=~z~这台Badger手机已关机。
+0x782A0C1B=~z~您呼叫的Badger手机已关机。
 
 ;0x7C7E96FB=100010100100100
 0x7C7E96FB=100010100100100
@@ -399,7 +399,7 @@
 0x846510C5=MF6_Z_AA
 
 ;0x861F55AB=~z~Niko, it's Patrick McReary. You and me did some work for Elizabeta Torres together.
-0x861F55AB=~z~Niko，我是Patrick McReary。你和我一起替Elizabeta Torres干过活的。
+0x861F55AB=~z~Niko，我是Patrick McReary。我们一起替Elizabeta Torres干过活的。
 
 ;0x8671D9FD=MF6_A_IF
 0x8671D9FD=MF6_A_IF
@@ -690,7 +690,7 @@
 0xDC301B10=~z~我从没想到事情会这样，Niko。从来没想到过。~n~Kate，可爱纯真的Katie。
 
 ;0xDC8320C8=~z~They took Gerry down?
-0xDC8320C8=~z~他们抓了Gerry？
+0xDC8320C8=~z~Gerry被抓走了？
 
 ;0xDCF0F5B7=~z~This number has not been recognized, please re-dial and try again.
 0xDCF0F5B7=~z~无法识别此号码，请重新拨号呼叫。
@@ -711,7 +711,7 @@
 0xE1C94D01=~z~Niko, my man, how's it going? How you like working for those guidos?
 
 ;0xE1DAAB93=~z~Niko, I don't know if you've heard it but my brother, Derrick's dead.
-0xE1DAAB93=~z~Niko，我不知道你有没有听说，但是我哥哥，Derrick他死了。
+0xE1DAAB93=~z~Niko，我不知道你有没有听说，但是我哥哥Derrick他死了。
 
 ;0xE361060F=~z~Go down and check on him? Me and Gerald will cover any expenses incurred.
 0xE361060F=~z~你能不能去看看他？产生的开销我和Gerald会给你报销的。
@@ -741,10 +741,10 @@
 0xEDAEB1C5=MF6_B_CA
 
 ;0xEEA53347=~z~This Whiz wireless cellphone is switched off.
-0xEEA53347=~z~这台Whiz无线电话已关机。
+0xEEA53347=~z~您呼叫的Whiz无线电话已关机。
 
 ;0xEF1C6350=~z~Please leave a message
-0xEF1C6350=~z~请留言
+0xEF1C6350=~z~请留言。
 
 ;0xEF98282C=MF6_A_LC
 0xEF98282C=MF6_A_LC
@@ -753,7 +753,7 @@
 0xEFB8A5F0=MF6_A_ME
 
 ;0xF010C7E3=~z~I guess not, Gerald got arrested too. They got him in the Alderney State Correctional Facility.
-0xF010C7E3=~z~大概没有。Gerald也被捕了。他们把他关到了Alderney州监狱。
+0xF010C7E3=~z~大概没有。Gerald也被捕了。他被关进了Alderney州立监狱。
 
 ;0xF069F7CB=~z~They're setting you up with a pad in Alderney.
 0xF069F7CB=~z~They're setting you up with a pad in Alderney.

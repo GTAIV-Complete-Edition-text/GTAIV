@@ -63,13 +63,13 @@
 0x0FAEC092=MF3_C_JG
 
 ;0x108E9720=~z~I don't know, I just met someone in the street. It was weird.
-0x108E9720=~z~I don't know, I just met someone in the street. It was weird.
+0x108E9720=~z~不知道，我只是在路上碰到了一个人。很奇怪。
 
 ;0x10CBDBE6=MF3_C_LB
 0x10CBDBE6=MF3_C_LB
 
 ;0x10D2552F=~z~This guy called Ray Boccino has had me working with this guy from the Lost biker gang called Johnny,
-0x10D2552F=~z~这个叫Ray Boccino的人让我和来自失落摩托帮的Johnny一起，
+0x10D2552F=~z~这个叫Ray Boccino的人让我和失落摩托帮的Johnny合作，
 
 ;0x116F755B=~z~Thanks, for putting things in perspective, Roman. Later on.
 0x116F755B=~z~感谢你能提供不同的观点，Roman。回见。
@@ -123,7 +123,7 @@
 0x1E70F06C=~z~不是，我在替一个来自Alderney的Pegorino家族做事。
 
 ;0x1EC5338D=~z~I hope you took her back to the apartment and had your way with her, Niko. Did she have nice titties?
-0x1EC5338D=~z~I hope you took her back to the apartment and had your way with her, Niko. Did she have nice titties?
+0x1EC5338D=~z~希望你已经把她带回公寓享用过了，Niko。她奶子大吗？
 
 ;0x1F3D037A=010100010010010100100010
 0x1F3D037A=010100010010010100100010
@@ -150,7 +150,7 @@
 0x2986731E=MF3_C_EE
 
 ;0x29EB49D9=~z~It wasn't like that. You don't get it.
-0x29EB49D9=~z~It wasn't like that. You don't get it.
+0x29EB49D9=~z~我不是这个意思。你没听懂。
 
 ;0x2B4813E4=MF3_CC_PF
 0x2B4813E4=MF3_CC_PF
@@ -207,7 +207,7 @@
 0x36F290C7=~z~那对奶子很不错吧，是不是？
 
 ;0x375964B5=~z~Come on, NB. I do get it. Liberty is a crazy place.
-0x375964B5=~z~Come on, NB. I do get it. Liberty is a crazy place.
+0x375964B5=~z~得了吧，NB。我都懂的。自由城是个疯狂的地方。
 
 ;0x378ACD74=~z~Always, Roman. As much as I can at least when I'm doing the bidding of these Alderney gangsters.
 0x378ACD74=~z~一直这样，Roman。尽力而为嘛，至少在替这些Alderney黑道做事的时候是这样。
@@ -255,7 +255,7 @@
 0x4462C4ED=010100100
 
 ;0x44757EF1=~z~There are all types of people here. Most of them ignore you, some of them want to employ you, some of them want to kill you,
-0x44757EF1=~z~There are all types of people here. Most of them ignore you, some of them want to employ you, some of them want to kill you,
+0x44757EF1=~z~这里有形形色色的人。大多数会忽略你，部分人想雇佣你，有的人想杀了你，
 
 ;0x447BCC2E=MF3_C_YC
 0x447BCC2E=MF3_C_YC
@@ -300,7 +300,7 @@
 0x4A8F42B8=MF3_C_EM
 
 ;0x4F50A62B=~z~Wants to be. Keeps talking about being powerful, about getting on the Commission with the five big families.
-0x4F50A62B=~z~他想那样。一直在说要做大做强，说要加入五大家族所在的委员会。
+0x4F50A62B=~z~他也想啊。一直在说要做大做强，说要加入五大家族所在的委员会。
 
 ;0x500BBD6A=~z~He just got out of prison and he hasn't got much but... I made the right decision.
 0x500BBD6A=~z~他才刚出狱，身上也没几个子，不过...我做了正确的选择。
@@ -318,7 +318,7 @@
 0x540565CA=MF3_CC_PE
 
 ;0x5579F42B=~z~The choice between some titties and your safety would have been difficult for me as well.
-0x5579F42B=~z~在你和奶子直接选一个的话对我也是个难题。
+0x5579F42B=~z~在你和奶子之间选一个的话对我也是个难题。
 
 ;0x559BC6CC=MF3_C_EI
 0x559BC6CC=MF3_C_EI
@@ -351,7 +351,7 @@
 0x5C793A65=010100100010100100100
 
 ;0x5E3023ED=~z~A less violent one. I'll speak to you soon, okay?
-0x5E3023ED=~z~不太暴力的一条路。我会再和你联系的，好吧？
+0x5E3023ED=~z~一条没那么暴力的路。我会再和你联系的，好吧？
 
 ;0x5E6341E5=~z~Maybe you should come to the cab office and help me out?
 0x5E6341E5=~z~要么你来车行帮我一下吧？
@@ -366,7 +366,7 @@
 0x61345F50=~z~你最好比很好还要好，堂弟。早上十点到教堂来，衣服记得穿好点。
 
 ;0x61EC689D=~z~You don't want to get caught up in that shit. Take your cut of the diamonds and get out of there.
-0x61EC689D=~z~你不会想招上这种事的。拿走你那份钻石的分成就脱身吧。
+0x61EC689D=~z~你不会想招上这种事的。拿到你那份钻石的分成就脱身吧。
 
 ;0x6266FF2D=MF3_CC_PD
 0x6266FF2D=MF3_CC_PD
@@ -447,7 +447,7 @@
 0x70E36950=~z~我最近在替Jimmy Pegorino做事，他是Alderney的一个意大利家族的老大。
 
 ;0x72E4DBCF=~z~Roman, you are right about Liberty City. It is a crazy place.
-0x72E4DBCF=~z~Roman, you are right about Liberty City. It is a crazy place.
+0x72E4DBCF=~z~Roman，关于自由城你说的没错。这是个疯狂的地方。
 
 ;0x7327B723=MF3_C_NA
 0x7327B723=MF3_C_NA
@@ -492,7 +492,7 @@
 0x7F664242=~z~我希望你在我的大喜之日能好看点。
 
 ;0x802EF663=~z~What happened to you, Niko?
-0x802EF663=~z~What happened to you, Niko?
+0x802EF663=~z~你出什么事了，Niko？
 
 ;0x80431F93=MF3_C_VC
 0x80431F93=MF3_C_VC
@@ -510,7 +510,7 @@
 0x81B5F45D=MF3_C_RA
 
 ;0x81DEEB4A=~z~He was a cockroach - a pest. But I don't know how long I can keep on dealing in death.
-0x81DEEB4A=~z~他是个蟑螂－害虫。但我不知道这种杀人买卖我还能做多久。
+0x81DEEB4A=~z~他是个蟑螂，是害虫。但我不知道这种杀人买卖我还能做多久。
 
 ;0x81F7A0D6=~z~He's fine.
 0x81F7A0D6=~z~他很好。
@@ -573,7 +573,7 @@
 0x94A00050=MF3_C_DH
 
 ;0x94F2C37E=~z~Niko, shit. You're fucking with the mob. The Ancelottis are one of the five old families.
-0x94F2C37E=~z~Niko，我靠。你丫怎么惹了这个帮派。Ancelotti家族是五大家族之一。
+0x94F2C37E=~z~Niko，我靠。你丫惹上大家伙了。Ancelotti家族是五大家族之一。
 
 ;0x95C54E6B=~z~Thank you for taking the time out of your busy schedule to protect me from those crazy loan sharks you attacked, Niko.
 0x95C54E6B=~z~感谢你这个大忙人能抽出时间，从那些你招惹的高利贷疯子手下保护我，Niko。
@@ -591,7 +591,7 @@
 0x9883C65D=MF3_C_GF
 
 ;0x992390A4=~z~Paranoid about wire taps and helicopters but he seems legitimate.
-0x992390A4=~z~后者整天担心被窃听和直升机，但他就正经多了。
+0x992390A4=~z~虽然整天担心被窃听和直升机，但他正经多了。
 
 ;0x994AF38B=MF3_C_YA
 0x994AF38B=MF3_C_YA
@@ -672,7 +672,7 @@
 0xA8ADAE4B=MF3_C_DG
 
 ;0xA93324EC=~z~I mean like this Dominican looking guy shot up a deal I was trying to make.
-0xA93324EC=~z~我是说这个多米尼加人先开枪搅乱了我要进行的交易。
+0xA93324EC=~z~我是说这个多米尼加人先开枪搅乱了我的钻石交易。
 
 ;0xA9A7C6DF=~z~Remember to make it clear that you are a red blooded animal though and you won't be tied down
 0xA9A7C6DF=~z~不过记得先跟她说好，你是一个血气方刚的猛兽，这样就不会被
@@ -681,7 +681,7 @@
 0xAA6569F9=MF3_C_MG
 
 ;0xAB08346D=~z~I need to work with these guys. Hopefully they'll be able to find Darko Brevic for me.
-0xAB08346D=~z~我需要和这些人一起做事。他们有希望能帮我找到Darko Brevic。
+0xAB08346D=~z~我需要和这些人一起做事。他们有希望帮我找到Darko Brevic。
 
 ;0xAB2A70D5=MF3_C_LF
 0xAB2A70D5=MF3_C_LF
@@ -702,7 +702,7 @@
 0xAC579A84=MF3_C_YB
 
 ;0xAD0D9739=~z~If she was not a friend of Mallorie's it would be me with the smell of tittie on my breath and you who ended up in hospital.
-0xAD0D9739=~z~要不是因为她是Michelle的朋友，呼吸里透着她的奶子味儿的人就会是我，该进医院的就是你了。
+0xAD0D9739=~z~要不是因为她是Mallorie的朋友，呼吸里透着她的奶子味儿的人就会是我，该进医院的就是你了。
 
 ;0xAE3DD375=~z~There is the man who chose cooch before his cousin. I hope she was worth it.
 0xAE3DD375=~z~有个人在他堂兄前选了马子，希望那女人是值得的。
@@ -819,7 +819,7 @@
 0xD1B3CBD2=MF3_C_KD
 
 ;0xD1B61974=~z~some of them want to fuck you. It's mad cousin. Enjoy the ride.
-0xD1B61974=~z~some of them want to fuck you. It's mad cousin. Enjoy the ride.
+0xD1B61974=~z~甚至有人想上你。是很疯狂，堂弟。享受生活吧。
 
 ;0xD1D925B7=MF3_C_UD
 0xD1D925B7=MF3_C_UD
@@ -834,7 +834,7 @@
 0xD3A91AE1=~z~没什么，堂兄。我跟一个在Lovemeet找到的女孩约会了。
 
 ;0xD495FBB1=~z~Hey Roman. You ever wonder if things are just coincidence or if everything is all planned?
-0xD495FBB1=~z~喂，Roman。你有没有想过有些事是巧合，还是说全部都是被计划好的？
+0xD495FBB1=~z~喂，Roman。你有没有想过有些事是巧合，还是说都是被计划好的？
 
 ;0xD49E4E37=~z~This Dominican looking guy shot the place up.
 0xD49E4E37=~z~被一个多米尼加人开枪搅和了。
@@ -879,10 +879,10 @@
 0xDEA0C25E=~z~我会尽快来找你的。
 
 ;0xE099373A=~z~I'll try to. Later on.
-0xE099373A=~z~I'll try to. Later on.
+0xE099373A=~z~我尽量吧。回见。
 
 ;0xE12F14E3=~z~Then, I've kidnapped this girl and we're handing her over for these same diamonds
-0xE12F14E3=~z~然后我绑架了这个女孩，用同一袋钻石做赎金放了她，
+0xE12F14E3=~z~然后我绑架了这个女孩，用她换回了同一袋钻石作为赎金，
 
 ;0xE14077C7=MF3_C_WE
 0xE14077C7=MF3_C_WE
