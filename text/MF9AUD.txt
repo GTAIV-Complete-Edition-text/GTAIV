@@ -186,7 +186,7 @@
 0x84A209A6=100010100
 
 ;0x857292E8=~z~Hello, this is Vladimir's answer phone message. Be leaving a recording for me after the buzz has been playing.
-0x857292E8=~z~你好，这里是Vladimir的留言信箱。请在一声蜂鸣后向我留言。
+0x857292E8=~z~你好，这里是Vladimir的留言信箱。请在蜂鸣声后向我留言。
 
 ;0x8B4DA58C=~z~Dimitri and I had unfinished business so I went ahead and finished it.
 0x8B4DA58C=~z~Dimitri and I had unfinished business so I went ahead and finished it.
@@ -231,7 +231,7 @@
 0xA2582F22=MF4_TB
 
 ;0xA3D17ADD=~z~Alright Mr. Pegorino, I'll see you there.
-0xA3D17ADD=~z~好的，Pegorino先生，我会到那儿找你的。
+0xA3D17ADD=~z~好的，Pegorino先生，我会来找你的。
 
 ;0xA4B5240F=MF4_LD
 0xA4B5240F=MF4_LD
