@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GM5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "130893D"
+msgid "~s~Take out ~r~Bulgarin's men."
+msgstr "~s~干掉~r~Bulgarin的手下。"
+
+msgctxt "866218A"
+msgid "~s~Take down the ~r~reinforcements."
+msgstr "~s~干掉~r~敌方增援。"
+
+msgctxt "1624DDD5"
+msgid ""
+"~s~When on a ladder, use ~INPUT_SPRINT~ and ~PAD_LSTICK_DOWN~ to slide down "
+"quickly.~s~"
+msgstr "~s~在梯子上时, 使用~INPUT_SPRINT~和~PAD_LSTICK_DOWN~快速下滑。~s~"
+
+msgctxt "2245B5AE"
+msgid "~s~ Take Packie back to his ~y~Ma's House~s~ in Dukes."
+msgstr "~s~送Packie回在Dukes的~y~他母亲的房子。~s~"
+
+msgctxt "33A4DDF5"
+msgid ""
+"~s~When on a ladder, press ~INPUT_SPRINT~ and use ~PAD_LSTICK_DOWN~ to slide "
+"down quickly.~s~"
+msgstr "~s~在梯子上时，按下~INPUT_SPRINT~并使用~PAD_LSTICK_DOWN~快速下滑。~s~"
+
+msgctxt "35A2E04D"
+msgid "~s~When on a ladder, press ~PAD_Y~ to slide down quickly.~s~"
+msgstr "~s~在梯子上时，按~PAD_Y~快速下滑。~s~"
+
+msgctxt "3C5C8B62"
+msgid "~s~Continue to the ~y~Charge Island Sewage Works."
+msgstr "~s~继续前往~y~Charge岛污水处理厂。"
+
+msgctxt "47EB8294"
+msgid "~s~Continue to the ~y~exchange point."
+msgstr "~s~继续前往~y~交易点。"
+
+msgctxt "4ABB9B85"
+msgid "~s~Get back into ~b~Packie's car."
+msgstr "~s~回到~b~Packie的车~s~上。"
+
+msgctxt "4E5B3633"
+msgid "~r~ Gracie drowned."
+msgstr "~r~Gracie淹死了。"
+
+msgctxt "53636499"
+msgid "~s~Follow~b~Packie."
+msgstr "~s~跟随~b~Packie。"
+
+msgctxt "7F2E0469"
+msgid "~s~Go to ~b~Packie's car~s~ in Northwood."
+msgstr "~s~去Northwood找~b~Packie的车。~s~"
+
+msgctxt "802B199A"
+msgid "~r~Gracie is dead."
+msgstr "~r~Gracie死了。"
+
+msgctxt "860D124F"
+msgid "~s~Go around the back to the ~y~exchange point."
+msgstr "~s~从后面绕到~y~交易点。"
+
+msgctxt "87222788"
+msgid "~r~The car was destroyed."
+msgstr "~r~车被毁了。"
+
+msgctxt "8D6BA0E4"
+msgid "~s~Drive to the ~y~Charge Island Sewage Works."
+msgstr "~s~驾车前往~y~Charge岛污水处理厂。"
+
+msgctxt "AAA9EE97"
+msgid "~r~ Packie and Gracie are dead."
+msgstr "~r~Packie和Gracie死了。"
+
+msgctxt "AB390798"
+msgid "~s~ Take Packie back to his ~y~Ma's House~s~ in Dukes."
+msgstr "~s~送Packie回在Dukes的~y~他母亲的房子。~s~"
+
+msgctxt "B1D169D7"
+msgid "~s~Make your way across to the ~y~walkway."
+msgstr "~s~穿过~y~步道。"
+
+msgctxt "BC81FF10"
+msgid "~s~Wait for ~b~Packie~s~ to get in the car."
+msgstr "~s~等待~b~Packie~s~上车。"
+
+msgctxt "EF616F45"
+msgid "~s~Go to the ~y~meeting point~s~ upstairs."
+msgstr "~s~前往在二楼的~y~会面点。"
+
+msgctxt "F038C3F2"
+msgid "~s~Take out the last of ~r~Bulgarin's men."
+msgstr "~s~干掉残余的~r~Bulgarin的手下。"
+
+msgctxt "F0B3C01E"
+msgid "~s~ You are too far away from ~b~Packie.~s~ Go back and get him."
+msgstr "~s~ 你离~b~Packie~s~太远了。回去找他。"
+
+msgctxt "F1AF7CA1"
+msgid "~r~Packie is dead."
+msgstr "~r~Packie死了。"
+
+msgctxt "F8E4D9E8"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通缉度。"

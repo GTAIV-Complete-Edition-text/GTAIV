@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ELIZA1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "2E82DD1D"
+msgid "~s~Take down the ~r~last man ~s~before he makes a getaway in the van."
+msgstr "~s~在~r~最后一个人~s~开货车逃走之前干掉他。"
+
+msgctxt "402B006D"
+msgid "~s~Protect Packie."
+msgstr "~s~保护Packie。"
+
+msgctxt "444B02F3"
+msgid ""
+"~s~Hold ~INPUT_AIM~ to look through the scope of the rifle, when it is "
+"equipped."
+msgstr "~s~装备狙击枪时，~n~按住~INPUT_AIM~透过瞄准镜瞄准。"
+
+msgctxt "53F92809"
+msgid "~s~Make your way to the ~y~vantage point."
+msgstr "~s~前往~y~制高点。"
+
+msgctxt "553D5D64"
+msgid "~r~ Packie was injured. You failed to protect him.~s~"
+msgstr "~r~Packie受伤了。你没能保护好他。~s~"
+
+msgctxt "56CAA7F2"
+msgid "~s~Press ~INPUT_ATTACK~ to fire."
+msgstr "~s~按~INPUT_ATTACK~开火。"
+
+msgctxt "5790620A"
+msgid "~r~ One of the attackers got away.~s~"
+msgstr "~r~其中一个袭击者逃走了。~s~"
+
+msgctxt "6641CC9A"
+msgid "~s~Take out all of the ~r~attackers."
+msgstr "~s~干掉所有~r~袭击者。"
+
+msgctxt "764817F1"
+msgid "~s~Lose your wanted level.~s~"
+msgstr "~s~降低你的通缉度。~s~"
+
+msgctxt "79EEF3F4"
+msgid "~s~Go to the ~y~building~s~ in South Bohan."
+msgstr "~s~前往South Bohan的~y~公寓楼。"
+
+msgctxt "7A746F45"
+msgid ""
+"~s~Use ~PAD_LSTICK_UP~ to zoom in. ~s~Use ~PAD_LSTICK_DOWN~ to zoom out."
+msgstr "~s~用~PAD_LSTICK_UP~放大。~s~用~PAD_LSTICK_DOWN~缩小。"
+
+msgctxt "82ED38C3"
+msgid ""
+"~r~ The meeting has been cancelled. Don't break up the meeting when you "
+"don't have to.~s~"
+msgstr "~r~会面取消了，不要自作主张打断会面。~s~"
+
+msgctxt "8B2E9673"
+msgid ""
+"Packie and his associate have arrived. Watch over the meeting with the "
+"sniper rifle."
+msgstr "Packie和他的同伙已经到场。用狙击步枪监视会面。"
+
+msgctxt "90E59C37"
+msgid "~s~Shoot through the windshield to hit the driver."
+msgstr "~s~射击挡风玻璃攻击司机。"
+
+msgctxt "BF2278B0"
+msgid "~s~Use ~PAD_RSTICK_ALL~ to aim."
+msgstr "~s~用~PAD_RSTICK_ALL~瞄准。"
+
+msgctxt "C0B17BBE"
+msgid "~s~Use ~INPUT_SNIPER_ZOOM_OUT~ to zoom out."
+msgstr "~s~用~INPUT_SNIPER_ZOOM_OUT~缩小。"
+
+msgctxt "C6C3CC96"
+msgid ""
+"~s~Use ~INPUT_SNIPER_ZOOM_IN~ to zoom in. ~s~Use ~INPUT_SNIPER_ZOOM_OUT~ to "
+"zoom out."
+msgstr "~s~用~INPUT_SNIPER_ZOOM_IN~放大。~s~用~INPUT_SNIPER_ZOOM_OUT~缩小。"
+
+msgctxt "C95409B3"
+msgid "~s~Press ~PAD_LB~ or ~PAD_B~ to fire."
+msgstr "~s~按~PAD_LB~或~PAD_B~开火。"
+
+msgctxt "DCDA9585"
+msgid "~s~Use ~PAD_LSTICK_ALL~ to aim."
+msgstr "~s~用~PAD_LSTICK_ALL~瞄准。"
+
+msgctxt "DF6C0257"
+msgid "~s~Watch over the meeting."
+msgstr "~s~监视会面。"
+
+msgctxt "E81C4A93"
+msgid "~s~When crouching, the accuracy of the rifle increases."
+msgstr "~s~蹲下时，狙击步枪的射击精度将会提高。"
+
+msgctxt "F092BCF5"
+msgid ""
+"~s~Use ~INPUT_SNIPER_ZOOM_IN_ALTERNATE~ to zoom in. ~s~Use "
+"~INPUT_SNIPER_ZOOM_OUT_ALTERNATE~ to zoom out."
+msgstr ""
+"~s~使用~INPUT_SNIPER_ZOOM_IN_ALTERNATE~放大。~s~使用~INPUT_SNIPER_ZOOM_OUT_ALTERNATE"
+"~缩小。"
+
+msgctxt "F19DA6BA"
+msgid "~b~Packie~s~ is in trouble find him and help him."
+msgstr "~b~Packie~s~有麻烦了，找到并帮助他。"
+
+msgctxt "F2DC65C9"
+msgid "~s~Go to the roof and pick up the ~g~sniper rifle."
+msgstr "~s~去屋顶拿~g~狙击步枪。"
+
+msgctxt "F3FEEBBC"
+msgid ""
+"~s~Hold ~PAD_RB~ to look through scope of the rifle when it is equipped."
+msgstr "~s~装备狙击枪时，~n~按住~PAD_RB~透过瞄准镜瞄准。"
+
+msgctxt "F59EB0CB"
+msgid ""
+"~s~Use ~INPUT_AIM~ to look through the scope of the rifle, when it is "
+"equipped."
+msgstr "~s~装备狙击枪时，~n~按住~INPUT_AIM~透过瞄准镜瞄准。"

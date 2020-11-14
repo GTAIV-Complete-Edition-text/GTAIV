@@ -1,0 +1,279 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: POOL\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "D3E72AE"
+msgid "~g~Striped ball pocketed."
+msgstr "~g~花色球入袋。"
+
+msgctxt "102AB08C"
+msgid ""
+"Use ~PAD_RSTICK_DOWN~ then ~PAD_RSTICK_UP~ to take a shot.~n~Press "
+"~INPUT_FRONTEND_CANCEL~ to return to aiming.~n~Press ~INPUT_PICKUP~ to leave "
+"table."
+msgstr ""
+"先~PAD_RSTICK_DOWN~后~PAD_RSTICK_UP~进行击球。~n~按~INPUT_FRONTEND_CANCEL~重新瞄准。~n~按~I"
+"NPUT_PICKUP~离开球桌。"
+
+msgctxt "2222547B"
+msgid ""
+"Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Use ~PAD_RSTICK_ALL~ to position "
+"cue tip.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_FRONTEND_ACCEPT~ to "
+"enter shooting mode.~n~Press ~PAD_BACK~ for overhead view.~n~Press "
+"~INPUT_PICKUP~ to leave the table.~n~~a~"
+msgstr ""
+"用~PAD_LSTICK_LEFTRIGHT~调整瞄准角度。~n~用~PAD_RSTICK_ALL~控制球杆击球位置。~n~按住~PAD_X~微调。~n~"
+"按~INPUT_FRONTEND_ACCEPT~进入击球模式。~n~按~PAD_BACK~切换俯视视角。~n~按~INPUT_PICKUP~离开球桌。~n"
+"~~a~"
+
+msgctxt "2722BBF3"
+msgid ""
+"Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Hold ~PAD_X~ to fine tune.~n~"
+"Press ~INPUT_ATTACK~ to enter shooting mode.~n~Press ~PAD_BACK~ for normal "
+"view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~"
+msgstr ""
+"用~PAD_LSTICK_LEFTRIGHT~调整瞄准角度。~n~按住~PAD_X~微调。~n~按~INPUT_ATTACK~进入击球模式。~n~按~PA"
+"D_BACK~切换正常视角。~n~按~INPUT_PICKUP~离开台球桌。~n~~a~"
+
+msgctxt "2A13D29A"
+msgid "~g~Pocket the 8-Ball to win!"
+msgstr "~g~打入8号球以获胜！"
+
+msgctxt "34CA79CB"
+msgid ""
+"You are leaving the pool game, you have ~1~ seconds to return to the pool "
+"table or the match will be abandoned."
+msgstr "你要退出台球比赛了, 你有~1~秒钟返回球桌，否则比赛将被放弃。"
+
+msgctxt "391C8A9F"
+msgid "~r~Scratch. Pocketed wrong color. Pocketed 8-Ball."
+msgstr "~r~犯规。错误花色的球入袋。8号球入袋。"
+
+msgctxt "3B325867"
+msgid "Nice shot!"
+msgstr "好球！"
+
+msgctxt "3B8F0906"
+msgid "Wager:"
+msgstr "赌金:"
+
+msgctxt "3DA99A0F"
+msgid "~y~You win."
+msgstr "~y~你赢了。"
+
+msgctxt "44615191"
+msgid "~r~Scratch. Missed all balls. Pocketed 8-Ball."
+msgstr "~r~白球入袋。一球未中。8号球入袋。"
+
+msgctxt "4471DB71"
+msgid ""
+"Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Hold ~PAD_X~ to fine tune.~n~"
+"Press ~INPUT_FRONTEND_ACCEPT~ to enter shooting mode.~n~Press ~PAD_BACK~ for "
+"normal view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~"
+msgstr ""
+"用~PAD_LSTICK_LEFTRIGHT~调整瞄准角度。~n~按住~PAD_X~微调。~n~按~INPUT_FRONTEND_ACCEPT~进入击球模"
+"式。~n~按~PAD_BACK~切换正常视角。~n~按~INPUT_PICKUP~离开球桌。~n~~a~"
+
+msgctxt "4BBBE2F1"
+msgid "Press ~INPUT_ATTACK~ to approach table."
+msgstr "按~INPUT_ATTACK~靠近台球桌。"
+
+msgctxt "4E0A6F1B"
+msgid "Press ~INPUT_ATTACK~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~"
+msgstr "按~INPUT_ATTACK~继续。~n~按~INPUT_PICKUP~退出。~n~~a~"
+
+msgctxt "50AC3076"
+msgid ""
+"Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to "
+"quit.~n~~a~"
+msgstr "按~INPUT_FRONTEND_ACCEPT~继续。~n~按~INPUT_PICKUP~退出。~n~~a~"
+
+msgctxt "5357C12E"
+msgid "~g~8-Ball pocketed."
+msgstr "~g~8号球入袋。"
+
+msgctxt "56B89AB7"
+msgid "Player 1:"
+msgstr "玩家 1:"
+
+msgctxt "574E9CF1"
+msgid "~r~Scratch. Ball jumped off table."
+msgstr "~r~犯规。球从台球桌跳出。"
+
+msgctxt "58E4CB33"
+msgid "~r~Scratch. Ball jumped off table. Pocketed 8-Ball"
+msgstr "~r~犯规。球从台球桌跳出。8号球入袋。"
+
+msgctxt "5A894F5C"
+msgid "~r~Scratch. No rail hit. Pocketed 8-Ball"
+msgstr "~r~犯规。主球没有触边。8号球入袋。"
+
+msgctxt "5C4AD308"
+msgid "~g~No balls pocketed."
+msgstr "~g~没有球入袋。"
+
+msgctxt "6114B07D"
+msgid "~r~Scratch. No rail hit."
+msgstr "~r~犯规。主球没有触边。"
+
+msgctxt "617BA8FF"
+msgid ""
+"Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Use ~PAD_RSTICK_ALL~ to position "
+"cue tip.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_ATTACK~ to enter "
+"shooting mode.~n~Press ~PAD_BACK~ for overhead view.~n~Press ~INPUT_PICKUP~ "
+"to leave the table.~n~~a~"
+msgstr ""
+"用~PAD_LSTICK_LEFTRIGHT~旋转。~n~用~PAD_RSTICK_ALL~控制球杆击球位置。~n~按住~PAD_X~微调。~n~按~IN"
+"PUT_ATTACK~进入击球模式。~n~按~PAD_BACK~切换俯视视角。~n~按~INPUT_PICKUP~离开球桌。~n~~a~"
+
+msgctxt "65836585"
+msgid "~g~Balls successfully pocketed."
+msgstr "~g~球成功入袋。"
+
+msgctxt "6EAACBA9"
+msgid "~r~Scratch. Pocketed 8-Ball."
+msgstr "~r~犯规。8号球入袋。"
+
+msgctxt "72E737B3"
+msgid "~g~You must hit a striped colored ball."
+msgstr "~g~你必须打进一个花色球。"
+
+msgctxt "73163D64"
+msgid "~g~Solid ball pocketed."
+msgstr "~g~全色球入袋。"
+
+msgctxt "766F7EC6"
+msgid "$~1~"
+msgstr "$~1~"
+
+msgctxt "7B350B53"
+msgid "~r~Scratch. Pocketed cue ball. Pocketed 8-Ball."
+msgstr "~r~犯规。母球入袋。8号球入袋。"
+
+msgctxt "80686F24"
+msgid "~r~Scratch. Pocketed wrong color."
+msgstr "~r~犯规。错误花色的球入袋。"
+
+msgctxt "80D5D8E3"
+msgid "~g~Solid balls pocketed."
+msgstr "~g~全色球入袋。"
+
+msgctxt "82F4961A"
+msgid "Press ~INPUT_FRONTEND_ACCEPT~ to approach table."
+msgstr "按~INPUT_FRONTEND_ACCEPT~靠近台球桌。"
+
+msgctxt "84531A8D"
+msgid "Pride and honor"
+msgstr "自豪与荣耀"
+
+msgctxt "8ABF249B"
+msgid "Press ~INPUT_FRONTEND_CANCEL~ to show help.~n~~a~"
+msgstr "按~INPUT_FRONTEND_CANCEL~显示按键提示。~n~~a~"
+
+msgctxt "90860F5F"
+msgid "~r~Scratch. Pocketed cue ball."
+msgstr "~r~犯规。母球入袋。"
+
+msgctxt "92F337CD"
+msgid "Pool game abandoned"
+msgstr "已放弃桌球游戏"
+
+msgctxt "9A3822C3"
+msgid "~r~Scratch. Hit wrong ball first."
+msgstr "~r~犯规。最先撞击的球种类错误。"
+
+msgctxt "9EF7DC81"
+msgid "~g~You must hit a solid colored ball."
+msgstr "~g~你必须击中一个全色球。"
+
+msgctxt "9FDC17EB"
+msgid "~g~Striped balls pocketed."
+msgstr "~g~花色球入袋。"
+
+msgctxt "A515A346"
+msgid "Press ~INPUT_ATTACK~ to continue.~n~~a~"
+msgstr "按~INPUT_ATTACK~继续。~n~~a~"
+
+msgctxt "A57E60C5"
+msgid "~r~Scratch. Hit wrong ball first. Pocketed 8-Ball."
+msgstr "~r~犯规。最先撞击的球种类错误。8号球入袋。"
+
+msgctxt "ABE8C624"
+msgid "~r~Scratch. Missed all balls."
+msgstr "~r~犯规。一球未中。"
+
+msgctxt "AEA15FBF"
+msgid ""
+"Use ~PAD_LSTICK_ALL~ to position cue ball.~n~Press ~INPUT_ATTACK~ to "
+"continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~"
+msgstr "用~PAD_LSTICK_ALL~放置母球。~n~按~INPUT_ATTACK~继续。~n~按~INPUT_PICKUP~退出。~n~~a~"
+
+msgctxt "B5080CB7"
+msgid "Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~~a~"
+msgstr "按~INPUT_FRONTEND_ACCEPT~继续。~n~~a~"
+
+msgctxt "C82106B4"
+msgid "Are you sure you want to quit?"
+msgstr "你确定要退出吗？"
+
+msgctxt "C9052242"
+msgid ""
+"Use ~PAD_LSTICK_ALL~ to position cue ball.~n~Press ~INPUT_FRONTEND_ACCEPT~ "
+"to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~"
+msgstr ""
+"用~PAD_LSTICK_ALL~放置母球。~n~按~INPUT_FRONTEND_ACCEPT~继续。~n~按~INPUT_PICKUP~退出。~n~~"
+"a~"
+
+msgctxt "CF9C7830"
+msgid ""
+"In one motion, pull the ~INPUT_MOUSE_UD~ backward and quickly thrust it "
+"forward. ~n~Press ~INPUT_FRONTEND_CANCEL~ to return to aiming.~n~Press "
+"~INPUT_PICKUP~ to leave table."
+msgstr ""
+"一气呵成，拉动~INPUT_MOUSE_UD~，先后拉再快速前推。~n~按~INPUT_FRONTEND_CANCEL~重新瞄准。~n~按~INPUT_P"
+"ICKUP~离开球桌。"
+
+msgctxt "D23FBEF8"
+msgid "~g~8-Ball pocketed from break."
+msgstr "~g~8号球一杆得分。"
+
+msgctxt "D8EBF5A7"
+msgid "Open"
+msgstr "开启"
+
+msgctxt "DAEE61D2"
+msgid "Ball Assignment"
+msgstr "桌球分配"
+
+msgctxt "DCC649C4"
+msgid ""
+"Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to "
+"the pool game."
+msgstr "按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~返回桌球游戏。"
+
+msgctxt "DF3407B5"
+msgid "~g~You may hit any colored ball."
+msgstr "~g~你可以击打任何有色球。"
+
+msgctxt "EAD555B3"
+msgid "Opposition:"
+msgstr "对手:"
+
+msgctxt "F0509B0F"
+msgid "~r~You lose."
+msgstr "~r~你输了。"
+
+msgctxt "FF5B8EEE"
+msgid ""
+"Press ~INPUT_FRONTEND_ACCEPT~ to play again.~n~Press ~INPUT_PICKUP~ to quit."
+msgstr "按~INPUT_FRONTEND_ACCEPT~再来一局。~n~按~INPUT_PICKUP~退出。"

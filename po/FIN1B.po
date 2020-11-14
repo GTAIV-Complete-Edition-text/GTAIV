@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FIN1B\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "E7B4A6E"
+msgid "~s~Get off the ship."
+msgstr "~s~下船。"
+
+msgctxt "410A2F8B"
+msgid "~s~Go to the cargo hold and get revenge on ~r~Dimitri."
+msgstr "~s~进入货舱，向~r~Dimitri~s~复仇。"
+
+msgctxt "599CE0B0"
+msgid "~s~Get back on land."
+msgstr "~s~回到岸上。"
+
+msgctxt "5B7F387E"
+msgid "~s~Finish off ~r~Dimitri."
+msgstr "~s~了结~r~Dimitri。"
+
+msgctxt "65B27D83"
+msgid "~s~Go to the cargo hold's ~y~exit.~s~"
+msgstr "~s~前往货舱的~y~出口。~s~"
+
+msgctxt "6BB817F8"
+msgid "~s~Press ~INPUT_PICKUP~ to operate the controls."
+msgstr "~s~按~INPUT_PICKUP~操作控制杆。"
+
+msgctxt "889199CF"
+msgid "~s~The doors to the cargo hold are controlled from the bridge."
+msgstr "~s~货舱舱门的开闭由舰桥控制。"
+
+msgctxt "99DA3C60"
+msgid "~s~Find a way to get to Dimitri, and get your revenge."
+msgstr "~s~设法接近Dimitri，完成你的复仇。"
+
+msgctxt "A406757E"
+msgid "~s~Operate the ~y~controls ~s~to open the cargo hold."
+msgstr "~s~操作~y~控制杆~s~打开货舱舱门。"
+
+msgctxt "BE5681DB"
+msgid "~s~Go to the ~y~bridge."
+msgstr "~s~攻入~y~舰桥。"
+
+msgctxt "DD0BC2BA"
+msgid "~s~The Russians are loading heroin onto the cargo ship."
+msgstr "~s~俄国人正在将海洛因运上货船。"
+
+msgctxt "EEB36609"
+msgid "~s~Dimitri is supervising the operation in the ship's hold."
+msgstr "~s~Dimitri在下层货舱监督装货。"

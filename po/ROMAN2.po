@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ROMAN2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "241B20A"
+msgid "~s~Get back into ~b~Roman's car."
+msgstr "~s~回到~b~Roman的车~s~上。"
+
+msgctxt "2575B19"
+msgid "~s~Mission Passed."
+msgstr "~s~任务完成"
+
+msgctxt "26F5ABE"
+msgid "~r~The loan sharks were attacked."
+msgstr "~r~放高利贷的被攻击了。"
+
+msgctxt "5AFD42E"
+msgid "~s~Press ~INPUT_PHONE_TAKE_OUT~ to bring up the phone."
+msgstr "~s~按~INPUT_PHONE_TAKE_OUT~拿出手机。"
+
+msgctxt "A8CB0E0"
+msgid "~s~Press ~INPUT_PHONE_ACCEPT~ to select the phonebook."
+msgstr "~s~按~INPUT_PHONE_ACCEPT~选择通讯录。"
+
+msgctxt "12897B9C"
+msgid ""
+"~s~Press ~INPUT_PHONE_ACCEPT~ to answer a call or press ~INPUT_PHONE_CANCEL~ "
+"to reject a call."
+msgstr "~s~按~INPUT_PHONE_ACCEPT~接听电话，按~INPUT_PHONE_CANCEL~挂断电话。"
+
+msgctxt "13E17091"
+msgid "~s~Press ~INPUT_PHONE_ACCEPT~ to enter the Menu."
+msgstr "~s~按~INPUT_PHONE_ACCEPT~进入菜单。"
+
+msgctxt "14FD7B45"
+msgid ""
+"~s~Hold ~INPUT_VEH_LOOK_BEHIND~ to look behind. Releasing "
+"~INPUT_VEH_LOOK_BEHIND~ resets the camera to its default position."
+msgstr "~s~按住~INPUT_VEH_LOOK_BEHIND~观察后方。松开~INPUT_VEH_LOOK_BEHIND~后镜头会恢复到初始位置。"
+
+msgctxt "1933DFEE"
+msgid "~s~Remain stationary in the car and look out for the loan sharks."
+msgstr "~s~待在车里，留意放高利贷的。"
+
+msgctxt "194E8878"
+msgid "~r~The entrance to the gambling den was blocked."
+msgstr "~r~赌场的入口被堵上了。"
+
+msgctxt "214FEFD8"
+msgid "~s~Get into ~b~Roman's car."
+msgstr "~s~进入~b~Roman的车。"
+
+msgctxt "2302F38C"
+msgid "~s~Wait outside the ~y~gambling den."
+msgstr "~s~在~y~赌场~s~外面等着。"
+
+msgctxt "3D299619"
+msgid ""
+"~s~To exit manual dial highlight the red phone icon and press "
+"~INPUT_PHONE_ACCEPT~."
+msgstr "~s~将光标移至红色电话图标后，按~INPUT_PHONE_ACCEPT~可退出拨号键盘。"
+
+msgctxt "4682BA87"
+msgid "~s~Take Roman back to the ~y~cab depot."
+msgstr "~s~送Roman回~y~车行。"
+
+msgctxt "4C096DED"
+msgid "~r~You left Roman behind."
+msgstr "~r~你抛弃了Roman。"
+
+msgctxt "4FF7BBB5"
+msgid "~s~At the end of a call the phone is automatically put away."
+msgstr "~s~通话结束后手机会自动收起。"
+
+msgctxt "500ECD9F"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通缉度。"
+
+msgctxt "59D2E127"
+msgid "~s~Evade the ~r~loan sharks."
+msgstr "~s~躲避~r~放高利贷的。"
+
+msgctxt "5C32D42B"
+msgid "~s~Press ~INPUT_PHONE_ACCEPT~ to access the menu."
+msgstr "~s~按~INPUT_PHONE_ACCEPT~打开菜单。"
+
+msgctxt "6CAB2F34"
+msgid "~r~Mission Failed."
+msgstr "~r~任务失败"
+
+msgctxt "6E78F8B7"
+msgid "~s~Press ~INPUT_PHONE_TAKE_OUT~ to bring up the phone."
+msgstr "~s~按~INPUT_PHONE_TAKE_OUT~拿出手机。"
+
+msgctxt "74D78574"
+msgid ""
+"~s~Use ~INPUT_KB_UP~ and ~INPUT_KB_DOWN~ to scroll through your friends and "
+"contacts."
+msgstr "~s~使用~INPUT_KB_UP~和~INPUT_KB_DOWN~浏览你的朋友和联系人。"
+
+msgctxt "7947B1D6"
+msgid "~s~Here come the loan sharks."
+msgstr "~s~放高利贷的来了。"
+
+msgctxt "7D55A82C"
+msgid "~s~Do ~h~not~s~ attack the loan sharks."
+msgstr "~s~~h~不要~s~攻击放高利贷的。"
+
+msgctxt "82F3DBC5"
+msgid "~r~Roman is dead."
+msgstr "~r~Roman死了。"
+
+msgctxt "9025F629"
+msgid "~r~Roman's car has been trashed."
+msgstr "~r~Roman的车坏了。"
+
+msgctxt "96ED846A"
+msgid "~s~Your phone is ringing."
+msgstr "~s~你的手机响了。"
+
+msgctxt "A179B112"
+msgid ""
+"~s~The icon above the radar tells you when a contact has been added to your "
+"phone."
+msgstr "~s~小地图上的这个图标会在有新联系人添加到你的通讯录时出现。"
+
+msgctxt "A30661D1"
+msgid "~s~Press ~INPUT_PHONE_ACCEPT~ to call Roman."
+msgstr "~s~按~INPUT_PHONE_ACCEPT~呼叫Roman。"
+
+msgctxt "A51820BB"
+msgid "~s~Press ~INPUT_PHONE_CANCEL~ to hang up during a phone call."
+msgstr "~s~按~INPUT_PHONE_CANCEL~可在通话时挂断电话。"
+
+msgctxt "A5D88AF7"
+msgid "~s~When in a car use ~PAD_RSTICK_ALL~ to look around."
+msgstr "~s~在车内时可用~PAD_RSTICK_ALL~环顾四周。"
+
+msgctxt "B4273E2B"
+msgid "~r~Mission Failed."
+msgstr "~r~任务失败"
+
+msgctxt "B7732E2C"
+msgid "~s~Red icons represent enemies."
+msgstr "~s~红色图标代表敌人。"
+
+msgctxt "B9AF493B"
+msgid "~r~You spooked the loan sharks."
+msgstr "~r~你惊动了放高利贷的。"
+
+msgctxt "BB624D4F"
+msgid ""
+"~s~During a phone call press ~INPUT_KB_DOWN~ to skip through the "
+"conversation or ~INPUT_PHONE_CANCEL~ to hang up."
+msgstr "~s~通话时按~INPUT_KB_DOWN~可跳过对话，按~INPUT_PHONE_CANCEL~可挂断电话。"
+
+msgctxt "C707BB49"
+msgid "You can zoom out on the radar by holding ~INPUT_ZOOM_RADAR~."
+msgstr "按住~INPUT_ZOOM_RADAR~可缩放小地图。"
+
+msgctxt "C7D56587"
+msgid "~r~The loan sharks caught Roman."
+msgstr "~r~放高利贷的抓到Roman了。"
+
+msgctxt "C9AAE9E0"
+msgid "Press ~INPUT_PHONE_ACCEPT~ to answer a call."
+msgstr "按~INPUT_PHONE_ACCEPT~接听电话。"
+
+msgctxt "D1461766"
+msgid "~s~Lose the ~r~loan sharks~s~ and take Roman back to the ~y~cab depot."
+msgstr "~s~甩掉~r~放高利贷的，~s~把Roman送回~y~出租车行。"
+
+msgctxt "D16D17B0"
+msgid "~s~Lose the loan sharks and take Roman back to the ~y~cab depot."
+msgstr "~s~甩掉放高利贷的，把Roman送回~y~出租车行。"
+
+msgctxt "D389D49B"
+msgid "~s~Go and see ~b~Roman."
+msgstr "~s~去找~b~Roman。"
+
+msgctxt "D3F6E733"
+msgid "Hold ~INPUT_VEH_LOOK_BEHIND~ to look behind."
+msgstr "按住~INPUT_VEH_LOOK_BEHIND~观察后方。"
+
+msgctxt "DEBDEB03"
+msgid "~s~Take Roman to the ~y~gambling den."
+msgstr "~s~送Roman去~y~赌场。"
+
+msgctxt "DF2BB32D"
+msgid "~s~Take Roman to the ~y~hardware store."
+msgstr "~s~送Roman去~y~五金店。"
+
+msgctxt "E2CB16E1"
+msgid ""
+"~s~When in a car press ~INPUT_VEH_LOOK_LEFT~ to look left or "
+"~INPUT_VEH_LOOK_RIGHT~ to look right."
+msgstr "~s~在车内时，按~INPUT_VEH_LOOK_LEFT~观察左侧，按~INPUT_VEH_LOOK_RIGHT~观察右侧。"
+
+msgctxt "EA431D55"
+msgid "~s~Select Options and press ~INPUT_PHONE_ACCEPT~ ."
+msgstr "~s~选择选项后按~INPUT_PHONE_ACCEPT~。"
+
+msgctxt "F0DA7D7C"
+msgid "~s~Phone Roman and warn him."
+msgstr "~s~呼叫Roman通知他。"
+
+msgctxt "F14BB3E2"
+msgid ""
+"~s~Press ~INPUT_VEH_LOOK_LEFT~ and ~INPUT_VEH_LOOK_RIGHT~ simultaneously to "
+"look behind."
+msgstr "~s~同时按下~INPUT_VEH_LOOK_LEFT~和~INPUT_VEH_LOOK_RIGHT~会观察后方。"
+
+msgctxt "F9369FF4"
+msgid "~s~Wait for ~b~Roman."
+msgstr "~s~等待~b~Roman。"
+
+msgctxt "F9A38F0E"
+msgid ""
+"~s~This is the ~h~phonebook,~s~ your friends and contacts will be listed "
+"here."
+msgstr "~s~这是~h~通讯录，~s~你的朋友和联系人会在这里列出。"

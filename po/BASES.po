@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BASES\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "20FF742"
+msgid "Lost Turf"
+msgstr "已失去的地盘"
+
+msgctxt "249073B8"
+msgid ""
+"Take over the opposition's ~COL_NET_1~turf,~s~ be careful to protect your "
+"~COL_NET_2~own~s~ while you're at it."
+msgstr "占领敌方~COL_NET_1~地盘，~s~同时注意保护己方~COL_NET_2~地盘。"
+
+msgctxt "39B52D4D"
+msgid "Taking Turf"
+msgstr "争夺中的地盘"
+
+msgctxt "3AD7C4C0"
+msgid "Turf ~1~% taken over."
+msgstr "地盘~1~%已被占领。"
+
+msgctxt "3AEE23CC"
+msgid "An enemy is nearby, turf cannot be taken over."
+msgstr "附近有敌人，无法占领地盘。"
+
+msgctxt "5CD0924C"
+msgid "30 mins"
+msgstr "30分钟"
+
+msgctxt "666EFBB6"
+msgid "Gained Turf"
+msgstr "已占领的地盘"
+
+msgctxt "77C9C83E"
+msgid "20 mins"
+msgstr "20分钟"
+
+msgctxt "7DD09779"
+msgid "Bohan"
+msgstr "Bohan"
+
+msgctxt "8A256CF5"
+msgid "10 mins"
+msgstr "10分钟"
+
+msgctxt "8C7E34D4"
+msgid "Dukes/Broker"
+msgstr "Dukes/Broker"
+
+msgctxt "96AB8655"
+msgid "Duration"
+msgstr "持续时间"
+
+msgctxt "99264E24"
+msgid "Alderney"
+msgstr "Alderney"
+
+msgctxt "9AE39C50"
+msgid "Location"
+msgstr "地点"
+
+msgctxt "A74FEA7B"
+msgid "Random"
+msgstr "随机"
+
+msgctxt "ABD9738A"
+msgid "Algonquin"
+msgstr "Algonquin"
+
+msgctxt "D3A87FFA"
+msgid "$1000"
+msgstr "$1000"
+
+msgctxt "F8FD1C92"
+msgid ""
+"Take over the opposition's ~COL_NET_2~turf,~s~ be careful to protect your "
+"~COL_NET_1~own~s~ while you're at it."
+msgstr "占领敌方~COL_NET_2~地盘，~s~同时注意保护己方~COL_NET_1~地盘。"

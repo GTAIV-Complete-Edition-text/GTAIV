@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BOWL\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "C5064F2"
+msgid "Rmn"
+msgstr "Rmn"
+
+msgctxt "CA1210F"
+msgid ""
+"Use ~PAD_SIXAXIS_ROLL~ to get in position.~n~Press ~ACCEPT~ to choose a "
+"ready position.~n~Press ~PAD_Y~ to check the score.~n~Press ~INPUT_PICKUP~ "
+"to quit."
+msgstr ""
+"用~PAD_SIXAXIS_ROLL~改变发球位置。~n~按~ACCEPT~选定发球位置。~n~按~PAD_Y~查看比分。~n~按~INPUT_PICKU"
+"P~退出。"
+
+msgctxt "D7F9338"
+msgid "Kate"
+msgstr "Kate"
+
+msgctxt "146DF659"
+msgid "You won this game."
+msgstr "你获得了本局比赛的胜利。"
+
+msgctxt "19CA0111"
+msgid "Close game, it's a draw."
+msgstr "势均力敌，打成平局。"
+
+msgctxt "1E75B510"
+msgid "LJ"
+msgstr "LJ"
+
+msgctxt "1EDE35F5"
+msgid "Alex"
+msgstr "Alex"
+
+msgctxt "2BB1239B"
+msgid "Pak"
+msgstr "Pak"
+
+msgctxt "30055843"
+msgid "Kiki"
+msgstr "Kiki"
+
+msgctxt "30082D8D"
+msgid "Press ~INPUT_PICKUP~ to quit."
+msgstr "按~INPUT_PICKUP~退出。"
+
+msgctxt "3304DD22"
+msgid "You don't have enough cash to play."
+msgstr "你的钱不够，无法打保龄球。"
+
+msgctxt "413B798F"
+msgid "Half Game"
+msgstr "半场"
+
+msgctxt "4555D828"
+msgid "Find an empty lane to play a game in."
+msgstr "找一条空球道打保龄球。"
+
+msgctxt "4A15E2A0"
+msgid "P2"
+msgstr "P2"
+
+msgctxt "4CECE756"
+msgid "Pay at the desk if you want to play."
+msgstr "想玩的话请到柜台付钱。"
+
+msgctxt "5611A45B"
+msgid "Brci"
+msgstr "Brci"
+
+msgctxt "6852C8DD"
+msgid "Dwn"
+msgstr "Dwn"
+
+msgctxt "75C239FC"
+msgid "Bowling costs $10."
+msgstr "玩保龄球需要$10。"
+
+msgctxt "7B246E80"
+msgid "Mich"
+msgstr "Mich"
+
+msgctxt "7F6E068F"
+msgid "Press ~ACCEPT~ to continue."
+msgstr "按~ACCEPT~继续。"
+
+msgctxt "8776DD65"
+msgid "~1~"
+msgstr "~1~"
+
+msgctxt "87D686C4"
+msgid "The number of games is tied."
+msgstr "平手"
+
+msgctxt "8D08A1C4"
+msgid "You can't bowl with a wanted level."
+msgstr "你不能在被通缉时打保龄球。"
+
+msgctxt "9129F0CB"
+msgid "Niko"
+msgstr "Niko"
+
+msgctxt "95382187"
+msgid "You are losing by ~1~ games."
+msgstr "你以~1~局比赛的劣势告负。"
+
+msgctxt "A0680F43"
+msgid "~PAD_LB~ if you want to play a game."
+msgstr "如果你想要玩一局，按下~PAD_LB~。"
+
+msgctxt "A8811D29"
+msgid "~1~mph"
+msgstr "~1~mph"
+
+msgctxt "A9E5223D"
+msgid "Just take any empty available lane."
+msgstr "找条空的保龄球道就行。"
+
+msgctxt "AC1ECF58"
+msgid "You are winning by ~1~ games."
+msgstr "你以~1~局比赛的优势获胜。"
+
+msgctxt "B3ED5EF1"
+msgid "You are losing by ~1~ game."
+msgstr "你以~1~局比赛的劣势告负。"
+
+msgctxt "BF2FCABE"
+msgid "Press ~INPUT_PICKUP~ to quit.~n~Press ~ACCEPT~ to continue."
+msgstr "按~INPUT_PICKUP~退出。~n~按~ACCEPT~继续。"
+
+msgctxt "C417D456"
+msgid "-"
+msgstr "-"
+
+msgctxt "C4EB8211"
+msgid "Car"
+msgstr "Car"
+
+msgctxt "C5288287"
+msgid "You are winning by ~1~ game."
+msgstr "你以~1~局比赛的优势获胜。"
+
+msgctxt "CEE994ED"
+msgid "Press ~INPUT_PICKUP~ if you want to bowl."
+msgstr "按~INPUT_PICKUP~打保龄球。"
+
+msgctxt "DA918175"
+msgid "X"
+msgstr "X"
+
+msgctxt "DACE3D4E"
+msgid ""
+"Use ~PAD_SIXAXIS_PITCH~ up then down to bowl, angling left or right with "
+"~PAD_SIXAXIS_ROLL~.~n~Press ~CANCEL~ to cancel your ready position.~n~Press "
+"~PAD_Y~ to check the score.~n~Press ~INPUT_PICKUP~ to quit."
+msgstr ""
+"使用~PAD_SIXAXIS_PITCH~先上后下出球，使用~PAD_SIXAXIS_ROLL~调整左右位置。~n~按~CANCEL~取消你的发球位置。~"
+"n~按~PAD_Y~查看比分。~n~按~INPUT_PICKUP~退出。"
+
+msgctxt "E2B712EC"
+msgid "You lost this game."
+msgstr "你输掉了这局比赛。"
+
+msgctxt "E88BD8C9"
+msgid ""
+"Use ~PAD_SIXAXIS_ROLL~ to apply after touch to the ball, before the ball "
+"crosses the red center markings."
+msgstr "在球越过中间的红色标记前，可用~PAD_SIXAXIS_ROLL~改变球的轨迹。"
+
+msgctxt "EC1ACF4F"
+msgid ""
+"Press ~INPUT_PICKUP~ to play a half game.~n~Press ~ACCEPT~ to play a full "
+"game."
+msgstr "按~INPUT_PICKUP~玩半局。~n~按~ACCEPT~玩整局。"
+
+msgctxt "F0B9ADC5"
+msgid "Press ~INPUT_PICKUP~ to quit.~n~Press ~ACCEPT~ to play again."
+msgstr "按~INPUT_PICKUP~退出。~n~按~ACCEPT~再来一局。"
+
+msgctxt "F275B125"
+msgid "/"
+msgstr "/"

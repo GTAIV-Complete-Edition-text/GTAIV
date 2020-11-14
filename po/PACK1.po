@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACK1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "4143B3E"
+msgid "~s~Continue ~y~outside~s~ the docks."
+msgstr "~s~到码头~y~外面~s~继续。"
+
+msgctxt "77AE5C8"
+msgid "~s~Go to the ~y~lockup."
+msgstr "~s~前往~y~车库。"
+
+msgctxt "7E7A4EE"
+msgid "~s~Press ~PAD_X~ to climb onto an object."
+msgstr "~s~按~PAD_X~爬上障碍物。"
+
+msgctxt "20BFEB47"
+msgid "~s~Go to the ~y~harbor warehouse."
+msgstr "~s~前往~y~码头仓库。"
+
+msgctxt "4D8CB033"
+msgid "~s~Press ~PAD_Y~ to drop down."
+msgstr "~s~按~PAD_Y~松手跳下。"
+
+msgctxt "50EECBA0"
+msgid "~b~Packie ~s~is in trouble. Help him take out the ~r~Triads."
+msgstr "~b~Packie~s~身陷困境，帮他干掉~r~Triads。"
+
+msgctxt "5E6EE6A0"
+msgid "~s~Steal the ~b~truck."
+msgstr "~s~偷走~b~卡车。"
+
+msgctxt "60DAE988"
+msgid ""
+"~s~When in a vehicle, you can cycle to the Grenades in your inventory by "
+"pressing ~PAD_X~."
+msgstr "~s~在载具中时，你可以按~PAD_X~切换至武器栏中的手雷。"
+
+msgctxt "6C43EDA1"
+msgid "~s~Use ~PAD_LSTICK_LEFT~ and ~PAD_LSTICK_RIGHT~ to shimmy."
+msgstr "~s~使用~PAD_LSTICK_LEFT~和~PAD_LSTICK_RIGHT~左右移动。"
+
+msgctxt "736A9EB3"
+msgid "~s~Leave the van and exit the lockup."
+msgstr "~s~留下货车，离开车库。(BETA)"
+
+msgctxt "74D5B01B"
+msgid "~r~The truck has been destroyed.~s~"
+msgstr "~r~卡车被毁了。~s~"
+
+msgctxt "7E0D49DB"
+msgid ""
+"~s~When in a vehicle, you can cycle to the Grenades in your inventory by "
+"pressing ~INPUT_VEH_NEXT_WEAPON~."
+msgstr "~s~在载具中时，你可以按~INPUT_VEH_NEXT_WEAPON~切换至武器栏中的手雷。"
+
+msgctxt "8FC30DB7"
+msgid "~s~Get into the ~b~truck."
+msgstr "~s~进入~b~卡车。"
+
+msgctxt "951EEE6F"
+msgid "~s~Climb down the mini cabin to get to the ground."
+msgstr "~s~爬下小屋，下到地面。"
+
+msgctxt "9E99F1F5"
+msgid "~s~Continue to the ~y~harbor warehouse."
+msgstr "~s~到~y~码头仓库~s~继续。"
+
+msgctxt "A02DF04C"
+msgid "~s~Escape in the van back to Packie's ~y~lockup."
+msgstr "~s~开货车逃回Packie的~y~车库。"
+
+msgctxt "A558747E"
+msgid "~s~Get back to ~b~Packie."
+msgstr "~s~回去找~b~Packie。"
+
+msgctxt "A9E4E973"
+msgid ""
+"~s~When in a vehicle, you can cycle to the Grenades in your inventory by "
+"pressing ~INPUT_VEH_NEXT_WEAPON~."
+msgstr "~s~在载具中时，你可以按~INPUT_VEH_NEXT_WEAPON~切换至武器栏中的手雷。"
+
+msgctxt "A9E76951"
+msgid "~s~Drive ~y~outside~s~ of the docks."
+msgstr "~s~开到码头~y~外面。"
+
+msgctxt "AE7806B5"
+msgid "~s~Follow ~b~Packie~s~ up on to the roof."
+msgstr "~s~跟随~b~Packie~s~爬上屋顶。"
+
+msgctxt "AEF9AC7D"
+msgid ""
+"~s~When in a vehicle, you can cycle to the Grenades in your inventory with "
+"~PAD_LT~."
+msgstr "~s~在载具中时，你可以用~PAD_LT~切换至武器栏中的手雷。"
+
+msgctxt "AFB5973C"
+msgid "~s~Reverse the van out of the warehouse."
+msgstr "~s~倒车出库。(BETA)"
+
+msgctxt "B1FFF918"
+msgid "~s~Jump into the ledge to perform a hanging grab."
+msgstr "~s~跳向横档以抓住它。"
+
+msgctxt "BBB5A0C1"
+msgid "~s~Wait for ~b~Packie~s~ to get in the truck.~s~"
+msgstr "~s~等待~b~Packie~s~上车。~s~"
+
+msgctxt "C8E98AD4"
+msgid "~s~Get into the ~b~loaded van."
+msgstr "~s~进入~b~装满货的货车。(BETA)"
+
+msgctxt "CB8E4910"
+msgid "~r~Packie is dead.~s~"
+msgstr "~r~Packie死了。~s~"
+
+msgctxt "E2EDFDB8"
+msgid "~s~Wait for ~b~Packie~s~ to get in the truck."
+msgstr "~s~等待~b~Packie~s~上车。"
+
+msgctxt "E9F3FDAC"
+msgid "~s~Get into the ~b~car."
+msgstr "~s~上~b~车。"
+
+msgctxt "EC398237"
+msgid "~s~Follow ~b~Packie."
+msgstr "~s~跟随~b~Packie。"
+
+msgctxt "F2B48D3D"
+msgid ""
+"~s~You can pull the pin by holding ~INPUT_VEH_ATTACK~. Release "
+"~INPUT_VEH_ATTACK~ to drop the grenade clear of your vehicle."
+msgstr "~s~按住~INPUT_VEH_ATTACK~拉拉环。松开~INPUT_VEH_ATTACK~将手雷扔下载具。"
+
+msgctxt "F3E886D7"
+msgid "~s~You are too far away from ~b~Packie.~s~ Go back and get him."
+msgstr "~s~你离~b~Packie~s~太远了，回去带上他。"

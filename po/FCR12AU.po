@@ -1,0 +1,626 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FCR12AU\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "EE53DC"
+msgid "FCR_ACT_CALL_SHOW"
+msgstr "FCR_ACT_CALL_SHOW"
+
+msgctxt "1385D14"
+msgid "010"
+msgstr "010"
+
+msgctxt "454FCFB"
+msgid "FCR_ACT_GETCALL_STRIP_FIRST"
+msgstr "FCR_ACT_GETCALL_STRIP_FIRST"
+
+msgctxt "7B2B1C3"
+msgid ""
+"~z~Is a good idea, cousin. We shall play pool. I pick you up in next hour."
+msgstr "~z~是个好主意，堂兄。我们打台球吧。一小时内我来接你。"
+
+msgctxt "85F7FBD"
+msgid "100"
+msgstr "100"
+
+msgctxt "AC2E280"
+msgid "~z~You want to go eat together?"
+msgstr "~z~你想一起去吃一顿吗？"
+
+msgctxt "B443CD0"
+msgid "010"
+msgstr "010"
+
+msgctxt "B71BBBD"
+msgid "~z~Strip club sounds good, I pick you up in next hour."
+msgstr "~z~脱衣舞俱乐部听起来不错，我一小时内来接你。"
+
+msgctxt "DB838B7"
+msgid "FCR2_ACT_PRO_CALL_SHOW_NO"
+msgstr "FCR2_ACT_PRO_CALL_SHOW_NO"
+
+msgctxt "F983CFD"
+msgid "FCR_ACT_GETCALL_GREET"
+msgstr "FCR_ACT_GETCALL_GREET"
+
+msgctxt "103C4E92"
+msgid "100"
+msgstr "100"
+
+msgctxt "11F90176"
+msgid "~z~I can no play the pool at this minute. Another time, cousin."
+msgstr "~z~我现在没法打台球。改天吧，堂兄。"
+
+msgctxt "1481463B"
+msgid "~z~Niko, you pick up. It has been a time since we spoke."
+msgstr "~z~Niko，你接了啊。我们很久没说过话了。"
+
+msgctxt "16B5A1DA"
+msgid "100"
+msgstr "100"
+
+msgctxt "16E5834E"
+msgid "FCR_ACT_PRO_GETCALL_DRINK_NO"
+msgstr "FCR_ACT_PRO_GETCALL_DRINK_NO"
+
+msgctxt "1B815BDE"
+msgid "FCR_ACT_GETCALL_DRINK_FIRST"
+msgstr "FCR_ACT_GETCALL_DRINK_FIRST"
+
+msgctxt "1DB27FE3"
+msgid "010"
+msgstr "010"
+
+msgctxt "1EC56CAE"
+msgid "010"
+msgstr "010"
+
+msgctxt "20FC6F2B"
+msgid "100"
+msgstr "100"
+
+msgctxt "2106C9F2"
+msgid "~z~Alright, man. Let's play darts. I pick you up in next hour."
+msgstr "~z~好的，老哥。我们玩飞镖吧。一小时内来接你。"
+
+msgctxt "215DF7CB"
+msgid ""
+"~z~I don't want a full stomach for the stuff I have to do. Another time..."
+msgstr "~z~我不是很想吃撑了再去干活。下次吧..."
+
+msgctxt "21FC0E3F"
+msgid ""
+"~z~Cousin, I am in no mood to be entertained. Another time will be better... "
+"perhaps."
+msgstr "~z~堂弟，我现在没心情去娱乐了。改天去可能会更好...大概吧。"
+
+msgctxt "22547416"
+msgid "~z~You wanna go shoot pool?"
+msgstr "~z~你想去打台球吗？"
+
+msgctxt "2370A465"
+msgid "~z~Sorry, cousin. I have no time to play pool right now."
+msgstr "~z~抱歉，堂兄。我现在没空打台球。"
+
+msgctxt "27376BA7"
+msgid "~z~Cousin, I have not hung out with you in a long time."
+msgstr "~z~堂弟，我有一段时间没跟你出去了。"
+
+msgctxt "2A3B53FD"
+msgid "FCR_ACT_GETCALL_EAT"
+msgstr "FCR_ACT_GETCALL_EAT"
+
+msgctxt "2BE3220D"
+msgid "~z~Sorry, cousin. I have no time for shows."
+msgstr "~z~抱歉，堂兄。我没空看表演。"
+
+msgctxt "2BFBF14C"
+msgid "~z~Niko Bellic, my distant cousin. Why we no hang out more?"
+msgstr "~z~Niko Bellic，我的冷淡堂弟。我们多出去玩玩吧？"
+
+msgctxt "2CED4F25"
+msgid "~z~Let us go drinking."
+msgstr "~z~我们去喝酒吧。"
+
+msgctxt "2DBA4CF9"
+msgid "~z~We are gentle men, we should go to a gentlemen's club together."
+msgstr "~z~我们是绅士，应该一起去绅士俱乐部。"
+
+msgctxt "2EF281AE"
+msgid "~z~Cool, cousin. Another time then. Call me."
+msgstr "~z~行吧，堂弟。那就改天吧。有空打给我。"
+
+msgctxt "2FDE7589"
+msgid "010"
+msgstr "010"
+
+msgctxt "32156C0F"
+msgid "~z~Okay, cousin. We play darts then. Wait one hour for me."
+msgstr "~z~好的，堂兄。那就玩飞镖吧。等我一小时。"
+
+msgctxt "321F7A1C"
+msgid "FCR_ACT_PRO_GETCALL_GAMES_YES"
+msgstr "FCR_ACT_PRO_GETCALL_GAMES_YES"
+
+msgctxt "3255023A"
+msgid "010"
+msgstr "010"
+
+msgctxt "379A9AEE"
+msgid "~z~Hey man, it's me."
+msgstr "~z~嘿老弟，是我。"
+
+msgctxt "37A26B60"
+msgid "~z~Cousin, this is wonderful news. See you soon."
+msgstr "~z~堂弟，这真是个好消息。一会儿见。"
+
+msgctxt "38F86375"
+msgid "~z~Let us go to a stripclub together."
+msgstr "~z~我们一起去脱衣舞俱乐部吧。"
+
+msgctxt "3B36EBB8"
+msgid "~z~We should go and get drunk together."
+msgstr "~z~我们该出来喝个烂醉了。"
+
+msgctxt "3BABB598"
+msgid "100"
+msgstr "100"
+
+msgctxt "3C6EACB6"
+msgid "FCR_ACT_PRO_GETCALL_EAT_NO"
+msgstr "FCR_ACT_PRO_GETCALL_EAT_NO"
+
+msgctxt "3C7EA94A"
+msgid "FCR_ACT_PRO_GETCALL_POOL_NO"
+msgstr "FCR_ACT_PRO_GETCALL_POOL_NO"
+
+msgctxt "3EFC44C2"
+msgid "~z~Sorry man, I got shit to do. Can't bowl with you right now."
+msgstr "~z~抱歉老哥，我还有事要做，现在没法陪你打保龄球。"
+
+msgctxt "41AA271D"
+msgid "~z~Okay, man. We shall do something another time."
+msgstr "~z~好吧，老弟。我们改天再出去吧。"
+
+msgctxt "424132E7"
+msgid "100"
+msgstr "100"
+
+msgctxt "450D6B6C"
+msgid ""
+"~z~Niko, I am thinking we should be playing some darts together. We have not "
+"done this in Liberty City yet."
+msgstr "~z~Niko，我想我们应该一起去玩会儿飞镖。我们还没在自由城玩过这个呢。"
+
+msgctxt "4A5E0017"
+msgid "FCR_ACT_GETCALL_VERYIRATE"
+msgstr "FCR_ACT_GETCALL_VERYIRATE"
+
+msgctxt "4B24D521"
+msgid "FCR_ACT_GETCALL_BOWL_FIRST"
+msgstr "FCR_ACT_GETCALL_BOWL_FIRST"
+
+msgctxt "4BAF1E1B"
+msgid "100"
+msgstr "100"
+
+msgctxt "4E281EBA"
+msgid "~z~Let's play some video games, man."
+msgstr "~z~Let's play some video games, man."
+
+msgctxt "52162047"
+msgid "~z~Great, Niko. See you in a while."
+msgstr "~z~好，Niko。之后见。"
+
+msgctxt "53385229"
+msgid "~z~Cousin, it is your cousin."
+msgstr "~z~堂弟，是你堂兄。"
+
+msgctxt "5558321E"
+msgid "~z~How about we go see a show?"
+msgstr "~z~我们去看场表演如何？"
+
+msgctxt "588855E9"
+msgid ""
+"~z~Sure man, I could do with going to strip club. I come get you in next "
+"hour."
+msgstr "~z~当然，老哥，我可以去脱衣舞俱乐部。我一小时内来接你。"
+
+msgctxt "58A36F51"
+msgid "100"
+msgstr "100"
+
+msgctxt "5AC41D98"
+msgid "FCR_ACT_GETCALL_ACCEPT"
+msgstr "FCR_ACT_GETCALL_ACCEPT"
+
+msgctxt "5B5E2E3B"
+msgid "100"
+msgstr "100"
+
+msgctxt "5C29DC1C"
+msgid "~z~Alright, Niko. Maybe we do something when you have some free time."
+msgstr "~z~好吧，Niko。那等你有空了我们再约。"
+
+msgctxt "5C9798CD"
+msgid "010"
+msgstr "010"
+
+msgctxt "5D409848"
+msgid "010"
+msgstr "010"
+
+msgctxt "5D4FDD11"
+msgid "FCR_ACT_GETCALL_DARTS_FIRST"
+msgstr "FCR_ACT_GETCALL_DARTS_FIRST"
+
+msgctxt "611A08D3"
+msgid ""
+"~z~Cousin, we are family. We should be like family and eat together. How "
+"about it?"
+msgstr "~z~堂弟，我们是一家人。我们应该像一家子一样一起吃饭。怎么样？"
+
+msgctxt "631660F6"
+msgid "100"
+msgstr "100"
+
+msgctxt "63C34B90"
+msgid "FCR_ACT_PRO_CALL_STRIP_YES"
+msgstr "FCR_ACT_PRO_CALL_STRIP_YES"
+
+msgctxt "648EE279"
+msgid ""
+"~z~Cousin, what is up with this? I feel like we are not cousins we see one "
+"another so little."
+msgstr "~z~堂弟，这是什么情况？我们最近没怎么来往，我都觉得我们不是兄弟了。"
+
+msgctxt "66A610F8"
+msgid "FCR_ACT_PRO_GETCALL_EAT_YES"
+msgstr "FCR_ACT_PRO_GETCALL_EAT_YES"
+
+msgctxt "66CE7955"
+msgid "~z~Niko, it's Roman."
+msgstr "~z~Niko，我是Roman。"
+
+msgctxt "670ED58B"
+msgid "~z~Let's go see a show."
+msgstr "~z~我们去看场表演吧。"
+
+msgctxt "6823DF12"
+msgid "010"
+msgstr "010"
+
+msgctxt "68AFC0AF"
+msgid "100"
+msgstr "100"
+
+msgctxt "68B44675"
+msgid "~z~Is good idea, Roman. I come to collect you in next hour."
+msgstr "~z~是个好主意，Roman。我一小时内就来接你。"
+
+msgctxt "68E3C182"
+msgid "100"
+msgstr "100"
+
+msgctxt "6A38E833"
+msgid "FCR_ACT_GETCALL_DRINK"
+msgstr "FCR_ACT_GETCALL_DRINK"
+
+msgctxt "6D5C9EA5"
+msgid "010"
+msgstr "010"
+
+msgctxt "6DCDFC4E"
+msgid "FCR_ACT_GETCALL_EAT_FIRST"
+msgstr "FCR_ACT_GETCALL_EAT_FIRST"
+
+msgctxt "6E03CA0C"
+msgid "~z~No darts for me, cousin. I have other missiles to launch."
+msgstr "~z~不玩飞镖，堂兄。我还有别的导弹要发射呢。"
+
+msgctxt "6E117B70"
+msgid ""
+"~z~Cousin, how about we play some pool? Remember how we used to hustle those "
+"American soldiers back home when the war started?"
+msgstr "~z~堂弟，我们去打会儿台球如何？还记得战争刚开始时，我们是怎么在老家横扫那些美国大兵的吗？"
+
+msgctxt "6FEB37F2"
+msgid "~z~Sorry, Roman. I have no time for these women."
+msgstr "~z~抱歉，Roman，我没空看这些女人。"
+
+msgctxt "73C0EFB6"
+msgid ""
+"~z~Cousin, it is the moment for us to spend some quality time together. How "
+"about that old American pastime - bowling?"
+msgstr "~z~堂弟，我们可以一起享受美好生活。要不要来点美式的运动：保龄球？"
+
+msgctxt "75872087"
+msgid "100"
+msgstr "100"
+
+msgctxt "7683A2BE"
+msgid "100"
+msgstr "100"
+
+msgctxt "771F7B98"
+msgid "010"
+msgstr "010"
+
+msgctxt "7A07C635"
+msgid "FCR_ACT_PRO_GETCALL_DRINK_YES"
+msgstr "FCR_ACT_PRO_GETCALL_DRINK_YES"
+
+msgctxt "7A916A2F"
+msgid ""
+"~z~Alright man? We go see something. I should be with you in no more than "
+"one hour."
+msgstr "~z~好的，老哥。我们去看点东西吧。我应该不用一小时就能到你地方。"
+
+msgctxt "7C45E690"
+msgid "~z~Sorry, cousin. I cannot play darts with you right now."
+msgstr "~z~抱歉，堂兄。我现在不能陪你玩飞镖。"
+
+msgctxt "7E996E2A"
+msgid "~z~Okay man, get ready. I will be with you in next hour."
+msgstr "~z~好的，老哥，准备好了。我一小时内来接你。"
+
+msgctxt "81825B08"
+msgid "~z~I am too busy for the strippers. Another time, cousin."
+msgstr "~z~我太忙了，没空看脱衣舞女。改天吧，堂兄。"
+
+msgctxt "81DD7FD5"
+msgid "~z~We have a date, I am waiting for you."
+msgstr "~z~那我们约好了，我等你。"
+
+msgctxt "872F1E20"
+msgid "~z~Sorry, man. I have problems that need fixing in the real world."
+msgstr "~z~Sorry, man. I have problems that need fixing in the real world."
+
+msgctxt "8B2C1450"
+msgid "FCR_ACT_GETCALL_DARTS"
+msgstr "FCR_ACT_GETCALL_DARTS"
+
+msgctxt "8D50465C"
+msgid "~z~Niko, it's your cousin."
+msgstr "~z~Niko，是你堂兄。"
+
+msgctxt "8D7DBECB"
+msgid "~z~Sure, cousin. Call me when you have moment."
+msgstr "~z~当然，堂弟。等你有空了再打给我。"
+
+msgctxt "8DF08CD8"
+msgid "~z~Sure, Roman. We eat together. I come get you in next hour."
+msgstr "~z~当然了，Roman，我们一起去吃一顿。我一小时内来接你。"
+
+msgctxt "92E253E4"
+msgid "~z~Sure, bowling sounds good. I will come to collect you in next hour."
+msgstr "~z~好啊，保龄球听起来不错。我一小时内就来接你。"
+
+msgctxt "95DAFD68"
+msgid "010"
+msgstr "010"
+
+msgctxt "9767EF39"
+msgid "FCR_ACT_PRO_CALL_STRIP_NO"
+msgstr "FCR_ACT_PRO_CALL_STRIP_NO"
+
+msgctxt "9A1B97A0"
+msgid "100"
+msgstr "100"
+
+msgctxt "9A291417"
+msgid ""
+"~z~Cousin, we should go out together. Open a bottle of vodka and drink it "
+"all like  did in Old Country."
+msgstr "~z~堂弟，我们该一起出去走走。像在故国时那样开瓶伏特加一饮而尽吧。"
+
+msgctxt "9A59FB7C"
+msgid "~z~Roman, I cannot bowl with you. I am doing other things now."
+msgstr "~z~Roman，我现在不能陪你打保龄球。我还有别的事要做。"
+
+msgctxt "9BA55E72"
+msgid "FCR_ACT_GETCALL_IRATE"
+msgstr "FCR_ACT_GETCALL_IRATE"
+
+msgctxt "9C1CDA75"
+msgid "FCR_ACT_GETCALL_REJECT"
+msgstr "FCR_ACT_GETCALL_REJECT"
+
+msgctxt "9D01E3CD"
+msgid "100"
+msgstr "100"
+
+msgctxt "9E22B85F"
+msgid "~z~Okay, man. I will see you soon then."
+msgstr "~z~好的老弟，我们之后见。"
+
+msgctxt "9EEA4E12"
+msgid "~z~I cannot do the gaming now, Roman. I must be doing other stuff."
+msgstr "~z~I cannot do the gaming now, Roman. I must be doing other stuff."
+
+msgctxt "A0AD6F7A"
+msgid "~z~Okay man, we go bowling. I come to get you in the next hour."
+msgstr "~z~好的老哥，我们去打保龄球吧。我一小时内就来接你。"
+
+msgctxt "AE764CDC"
+msgid "~z~Let's play darts."
+msgstr "~z~我们去玩飞镖吧。"
+
+msgctxt "B69F594C"
+msgid "~z~Let's go bowling."
+msgstr "~z~我们去打保龄球吧。"
+
+msgctxt "B8F6D4CC"
+msgid ""
+"~z~Apologies cousin, I can no drink with you now. I need to be in control."
+msgstr "~z~抱歉，堂兄，我现在不能陪你喝酒。我得保持清醒。"
+
+msgctxt "BDF58A6B"
+msgid "FCR_ACT_PRO_GETCALL_DARTS_YES"
+msgstr "FCR_ACT_PRO_GETCALL_DARTS_YES"
+
+msgctxt "BE8F1E37"
+msgid "FCR_ACT_GETCALL_GAMES_FIRST"
+msgstr "FCR_ACT_GETCALL_GAMES_FIRST"
+
+msgctxt "BFEF46C5"
+msgid "FCR_ACT_GETCALL_POOL"
+msgstr "FCR_ACT_GETCALL_POOL"
+
+msgctxt "C06B5C76"
+msgid "FCR_ACT_PRO_GETCALL_GAMES_NO"
+msgstr "FCR_ACT_PRO_GETCALL_GAMES_NO"
+
+msgctxt "C26F28E3"
+msgid "FCR_ACT_GETCALL_POOL_FIRST"
+msgstr "FCR_ACT_GETCALL_POOL_FIRST"
+
+msgctxt "C3AA7744"
+msgid "~z~We should play each other at darts."
+msgstr "~z~我们应该来比一把飞镖。"
+
+msgctxt "C3B1D45F"
+msgid "~z~We should eat together."
+msgstr "~z~一起去吃一顿吧。"
+
+msgctxt "C8EAFDE3"
+msgid "~z~Want to go bowling?"
+msgstr "~z~想去打保龄球吗？"
+
+msgctxt "C95650BC"
+msgid "FCR_ACT_PRO_CALL_SHOW_YES"
+msgstr "FCR_ACT_PRO_CALL_SHOW_YES"
+
+msgctxt "C98D9983"
+msgid "FCR_ACT_PRO_GETCALL_DARTS_NO"
+msgstr "FCR_ACT_PRO_GETCALL_DARTS_NO"
+
+msgctxt "CACA3DFD"
+msgid "010"
+msgstr "010"
+
+msgctxt "CAEB9843"
+msgid "~z~You want we should go play video games together?"
+msgstr "~z~You want we should go play video games together?"
+
+msgctxt "CCCA56A6"
+msgid "FCR_ACT_PRO_GETCALL_BOWL_NO"
+msgstr "FCR_ACT_PRO_GETCALL_BOWL_NO"
+
+msgctxt "CE69FFB2"
+msgid "~z~I am sorry cousin, but I must keep my senses sharp at the moment."
+msgstr "~z~我很抱歉，堂兄，但我现在必须要保持头脑清醒。"
+
+msgctxt "D4B19634"
+msgid "~z~We will drink. Wait for me for one hour."
+msgstr "~z~那就喝吧。等我一小时。"
+
+msgctxt "D87BBD03"
+msgid "100"
+msgstr "100"
+
+msgctxt "D972D544"
+msgid "~z~Sure, cousin. We play some pool. I come get you in next hour."
+msgstr "~z~当然，堂兄。我们去打会儿吧。我一小时内来接你。"
+
+msgctxt "DC21FD82"
+msgid "FCR_ACT_PRO_GETCALL_POOL_YES"
+msgstr "FCR_ACT_PRO_GETCALL_POOL_YES"
+
+msgctxt "DC9CB028"
+msgid "FCR_ACT_GETCALL_SHOW_FIRST"
+msgstr "FCR_ACT_GETCALL_SHOW_FIRST"
+
+msgctxt "DD572E4E"
+msgid "010"
+msgstr "010"
+
+msgctxt "E09B00B4"
+msgid "100"
+msgstr "100"
+
+msgctxt "E32B3327"
+msgid "~z~Okay man, we go drinking together. I pick you up in next hour."
+msgstr "~z~好的，老哥，我们一起去喝酒吧。我一小时内来接你。"
+
+msgctxt "E36F4187"
+msgid "100"
+msgstr "100"
+
+msgctxt "E3932FD8"
+msgid "FCR_ACT_PRO_GETCALL_BOWL_YES"
+msgstr "FCR_ACT_PRO_GETCALL_BOWL_YES"
+
+msgctxt "E8E4148D"
+msgid ""
+"~z~Cousin, you really want to experience America, you must see a show here. "
+"How about it?"
+msgstr "~z~堂弟，想要体验真正的美国，你就一定要来这儿看看。怎么样？"
+
+msgctxt "EBA18707"
+msgid ""
+"~z~Niko, you want to play some video games? They are much better than ones "
+"you are used to back home."
+msgstr ""
+"~z~Niko, you want to play some video games? They are much better than ones "
+"you are used to back home."
+
+msgctxt "ED0317CA"
+msgid "~z~Sure, we do gaming. I will come to get you in the next hour."
+msgstr "~z~Sure, we do gaming. I will come to get you in the next hour."
+
+msgctxt "ED942A36"
+msgid "100"
+msgstr "100"
+
+msgctxt "EEAC3C56"
+msgid "FCR_ACT_GETCALL_GAMES"
+msgstr "FCR_ACT_GETCALL_GAMES"
+
+msgctxt "EF495EC9"
+msgid "FCR_ACT_GETCALL_BOWL"
+msgstr "FCR_ACT_GETCALL_BOWL"
+
+msgctxt "F05EDE40"
+msgid ""
+"~z~Is about time I show you some fine American silicon filled titties. You "
+"want come to strip club with me?"
+msgstr "~z~是时候带你见识下上好的美国硅胶奶子了。你想和我一起去脱衣舞俱乐部吗？"
+
+msgctxt "F0E8BF11"
+msgid "100"
+msgstr "100"
+
+msgctxt "F2AC9A69"
+msgid "~z~Sorry, man. I'm not hungry. Maybe another time."
+msgstr "~z~抱歉，老哥。我现在不饿，改天吧。"
+
+msgctxt "F51A19A2"
+msgid "~z~You want to shoot some pool?"
+msgstr "~z~你想打会儿台球吗？"
+
+msgctxt "F766BA79"
+msgid "010"
+msgstr "010"
+
+msgctxt "F7F397CE"
+msgid "FCR_ACT_CALL_STRIP"
+msgstr "FCR_ACT_CALL_STRIP"
+
+msgctxt "FA96D844"
+msgid "010"
+msgstr "010"
+
+msgctxt "FB51B467"
+msgid "~z~Okay man, we do some gaming. I come get you in next hour."
+msgstr "~z~Okay man, we do some gaming. I come get you in next hour."

@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ROMAN5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "511665B"
+msgid ""
+"The area the cops search in is represented by the flashing zone on the "
+"Radar. Cops in this zone are marked by flashing red and blue icons."
+msgstr "小地图上闪烁的区域表示警方的搜捕范围。范围内的警察会用红蓝交替闪烁的圆点标识。"
+
+msgctxt "2ECF0802"
+msgid "~r~Roman's car was trashed."
+msgstr "~r~Roman的车毁了。"
+
+msgctxt "4F7745B7"
+msgid ""
+"You have evaded the cops. Stay out of trouble to completely lose your wanted "
+"level."
+msgstr "你已经避开了警察。避免惹事生非，彻底降低你的通缉度。"
+
+msgctxt "5FAE985C"
+msgid ""
+"To lose your wanted level escape the flashing zone and keep a low profile."
+msgstr "逃出闪烁区域并低调行事以降低通缉度。"
+
+msgctxt "63827858"
+msgid "~S~Reverse out of the garage."
+msgstr "~S~倒车出库。"
+
+msgctxt "6D18B330"
+msgid ""
+"If you are seen leaving the zone by the cops then they will refocus their "
+"search and a new zone will be created."
+msgstr "你若在离开搜捕范围时被警察目击，他们就会重新划定搜捕范围。"
+
+msgctxt "8ECE46AF"
+msgid ""
+"~S~You can use the Pay 'n' Spray to clear your wanted level as long as the "
+"cops don't see you entering."
+msgstr "~S~只要警察没有目击你进入，你就可以通过喷漆店清空你的通缉度。"
+
+msgctxt "9E5E6F0B"
+msgid "~S~~INPUT_VEH_EXIT~ exit vehicle."
+msgstr "~S~~INPUT_VEH_EXIT~下车。"
+
+msgctxt "A0E56ADD"
+msgid "~S~Drive into the ~Y~Pay 'n' Spray."
+msgstr "~S~驶入~Y~喷漆店。"
+
+msgctxt "AFF23B12"
+msgid ""
+"Anyone seen performing a crime will gain a wanted level and the cops will "
+"attempt to hunt them down."
+msgstr "任何人被目击实施犯罪行为都会获得通缉度，警方会全力追捕他们。"
+
+msgctxt "B2A08E5F"
+msgid "~S~It will repair and re-spray your vehicle and three hours will pass."
+msgstr "~S~你的车辆将得到修理并重新喷漆，时间会前进3个小时。"
+
+msgctxt "B535E764"
+msgid "~S~Drive to ~Y~Rotterdam Hill~S~ and meet Roman's customer."
+msgstr "~S~开车去~Y~Rotterdam Hill~S~与Roman的顾客见面。"
+
+msgctxt "CF403CC7"
+msgid "~r~Jermaine is dead."
+msgstr "~r~Jermaine死了。"
+
+msgctxt "CF659DEF"
+msgid "~S~Take Jermaine to ~Y~Masterson St."
+msgstr "~S~送Jermaine去~Y~Masterson街。"
+
+msgctxt "D0433ED1"
+msgid "~r~You have abandoned Jermaine.~s~"
+msgstr "~r~你抛弃了Jermaine。~s~"
+
+msgctxt "D7700B19"
+msgid ""
+"Your wanted level is represented by the number of stars on screen. The more "
+"stars the harder cops will try to catch you."
+msgstr "画面上的星星数量表示你的通缉度。星星越多，警方的追捕力度越强。"
+
+msgctxt "DAAE53A3"
+msgid "~r~The vehicle is stuck.~s~"
+msgstr "~r~车辆无法行驶。~s~"
+
+msgctxt "DD273972"
+msgid "~S~Lose your wanted level."
+msgstr "~S~降低你的通缉度。"
+
+msgctxt "E2F3FF87"
+msgid "~S~You have lost your wanted level, take Jermaine to ~Y~Gibson Street."
+msgstr "~S~你已摆脱通缉，送Jermaine去~Y~Gibson街。"
+
+msgctxt "E62F020F"
+msgid "~S~Get in Roman's ~B~car."
+msgstr "~S~进入~B~Roman的车。"

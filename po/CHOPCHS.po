@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CHOPCHS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "6777742"
+msgid "~r~You shot the chopper down too early.~s~"
+msgstr "~r~你太早把直升机打下来了。~s~"
+
+msgctxt "13D14FA4"
+msgid "Get within range of the ~r~target chopper."
+msgstr "使~r~目标直升机~s~进入射程范围。"
+
+msgctxt "2C214F57"
+msgid "Line your helicopter up with the ~r~target chopper."
+msgstr "将你的直升机与~r~目标直升机~s~对齐。"
+
+msgctxt "398AEA2A"
+msgid ""
+"Get close and move to the right of the ~r~target chopper~w~ to give Jacob a "
+"shot."
+msgstr "接近并移动到~r~目标直升机~s~的右边以~w~给Jacob制造开火机会。"
+
+msgctxt "5F345475"
+msgid "~r~You lost the target.~s~"
+msgstr "~r~你跟丢了目标。~s~"
+
+msgctxt "6EE77E4D"
+msgid "Fly south and locate the ~r~target chopper."
+msgstr "向南飞，寻找~r~目标直升机。"
+
+msgctxt "6F3B9E99"
+msgid "Get back into the ~b~helicopter."
+msgstr "回到~b~直升机~s~上。"
+
+msgctxt "76349CFD"
+msgid "~r~The target got away.~s~"
+msgstr "~r~目标跑掉了。~s~"
+
+msgctxt "7C4E191A"
+msgid "Locate the ~r~target chopper."
+msgstr "寻找~r~目标直升机。"
+
+msgctxt "815630E5"
+msgid ""
+"Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the "
+"chopper left or right."
+msgstr "按~INPUT_VEH_FLY_YAW_LEFT~或~INPUT_VEH_FLY_YAW_RIGHT~向左或右旋转直升机。"
+
+msgctxt "935BDE86"
+msgid "Follow the ~r~target choppper."
+msgstr "跟住~r~目标直升机。"
+
+msgctxt "9ED9A2B2"
+msgid ""
+"Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate your "
+"helicopter."
+msgstr "按~INPUT_VEH_FLY_YAW_LEFT~或~INPUT_VEH_FLY_YAW_RIGHT~旋转你的直升机。"
+
+msgctxt "A2F67DBB"
+msgid "Follow the ~r~target chopper,~s~ don't let it get away."
+msgstr "跟随~r~目标直升机，~s~别让它跑了。"
+
+msgctxt "AF05BCA0"
+msgid "Use ~PAD_SIXAXIS_DRIVE~ to rotate your helicopter."
+msgstr "用~PAD_SIXAXIS_DRIVE~旋转你的直升机。"
+
+msgctxt "B3A22722"
+msgid "~r~You left Jacob behind, you couldn't get a shot on the chopper.~s~"
+msgstr "~r~你落下了Jacob，无法攻击敌机。~s~"
+
+msgctxt "BB4027D3"
+msgid "Get into the ~b~helicopter."
+msgstr "进入~b~直升机。"
+
+msgctxt "BD4B3AC3"
+msgid "Drop Jacob at the ~y~helipad~s~ off Union Drive East."
+msgstr "到位于Union Drive East的~y~停机坪~s~放下Jacob。"
+
+msgctxt "CE5A297C"
+msgid "~r~The helicopter was destroyed.~s~"
+msgstr "~r~直升机被毁了。~s~"
+
+msgctxt "CEEDDE08"
+msgid "Drop Jacob at the ~y~helipad."
+msgstr "把Jacob放到~y~停机坪。"
+
+msgctxt "D6FF9582"
+msgid "You're losing the ~r~target chopper.~s~ Don't let it get away."
+msgstr "你要跟丢~r~目标直升机~s~了。别让它跑了。"
+
+msgctxt "DF2EB092"
+msgid "Press ~INPUT_VEH_CIN_CAM~ to focus on the target chopper."
+msgstr "按~INPUT_VEH_CIN_CAM~将镜头对准目标直升机。"
+
+msgctxt "DF6C3ABB"
+msgid "Keep your helicopter to the right so that Jacob can get a shot."
+msgstr "保持你的直升机在目标的右边来让Jacob射击。"
+
+msgctxt "E5840821"
+msgid "Get back into the ~b~helicopter."
+msgstr "回到~b~直升机~s~上。"
+
+msgctxt "EF91DB0E"
+msgid "Line up your helicopter at the same height as the target."
+msgstr "将你的直升机与目标保持在相同高度。"
+
+msgctxt "EFCD17CF"
+msgid "The target is flying south through Liberty City."
+msgstr "目标正在飞越自由城南部上空。"
+
+msgctxt "F2C61E34"
+msgid "Meet Jacob at the ~y~salvage yard~s~ off Grummer Road."
+msgstr "去Grummer路附近的~y~废品场~s~找Jacob。"
+
+msgctxt "F7D4A4C3"
+msgid "~r~Jacob is dead.~s~"
+msgstr "~r~Jacob死了。~s~"
+
+msgctxt "FE05B440"
+msgid ""
+"Follow the target and wait for an opportunity to take down his helicopter."
+msgstr "跟随目标，伺机击落他的直升机。"

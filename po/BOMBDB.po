@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BOMBDB\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "262EC481"
+msgid "Placed a Bomb"
+msgstr "炸弹已安置"
+
+msgctxt "2831B3D3"
+msgid ""
+"One of your crew has stolen the armored vehicle. Make your way to the ~Y~"
+"rendezvous point.~S~"
+msgstr "你的一名同伴偷走了装甲车，去~Y~会合点~S~会合。"
+
+msgctxt "3EE4E135"
+msgid "You each have some explosives. Head out to the ~Y~docks~S~ in Broker."
+msgstr "你们每个人都有一些炸药，前往位于Broker的~Y~码头。~S~"
+
+msgctxt "5A112A94"
+msgid "The ship has been destroyed. The rival operation is no more."
+msgstr "船已被摧毁，敌方行动无法进行了。"
+
+msgctxt "61C5FFED"
+msgid "Bombs will detonate in ~1~..."
+msgstr "炸弹将于~1~秒后爆炸..."
+
+msgctxt "8051B9A2"
+msgid ""
+"The bombs have been placed. They will detonate in 60 seconds. Get off the "
+"ship."
+msgstr "炸弹已安置，炸弹将于60秒后引爆，快离开这艘船。"
+
+msgctxt "8D9BD436"
+msgid ""
+"The bombs have been placed. Everyone needs to disembark to trigger the "
+"explosion."
+msgstr "炸弹已安置，需要所有人下船才能引爆炸弹。"
+
+msgctxt "9BCD7099"
+msgid "One bomb is in place. Get the other to the second weak spot."
+msgstr "已安置一个炸弹，带另一个炸弹去第二个引爆点。"
+
+msgctxt "9DCD1F04"
+msgid "The ~B~vehicle~S~ is stopping, steal it."
+msgstr "那辆~B~载具~S~已经停了, 偷走他。"
+
+msgctxt "A4A0B267"
+msgid ""
+"One of you must drive the ~B~armored vehicle~S~ to the rendezvous point."
+msgstr "你们中的一个人必须将~B~装甲车~S~开到会合点。"
+
+msgctxt "B3E25A5C"
+msgid ""
+"~R~The convoy has reached its destination. You failed to steal the "
+"explosives.~S~"
+msgstr "~R~车队已经达到目的地，你没能及时偷走炸药！~S~"
+
+msgctxt "BA42671C"
+msgid "~R~You've destroyed the explosives."
+msgstr "~R~你摧毁了炸药！"
+
+msgctxt "C04CF8C7"
+msgid ""
+"There are enemy snipers somewhere on the boat, someone should take up a "
+"sniping position and keep watch."
+msgstr "船上某处有敌方的狙击手，我们需要一个人占领狙击位置并瞭望。"
+
+msgctxt "CC24FBB3"
+msgid "Take the vehicle back to the ~Y~rendezvous point.~S~"
+msgstr "将载具开回~Y~会合点~S~。"
+
+msgctxt "D3655A8C"
+msgid ""
+"The helicopter has been destroyed. Find alternative transport to get to the "
+"~Y~docks.~S~"
+msgstr "直升飞机已被摧毁，现在寻找其他交通工具去~Y~码头~S~。"
+
+msgctxt "D3C88AFA"
+msgid "Go back to the ~Y~rendezvous point.~S~"
+msgstr "回到~Y~会合点~S~。"
+
+msgctxt "D85128CF"
+msgid ""
+"To reach one of the bomb sites you will need to access the cargo hold from "
+"the ship's galley."
+msgstr "要到达其中一个爆炸点，你需要从船上的厨房进入货舱。"
+
+msgctxt "DBD6A0D2"
+msgid "Wait here for the rest of your crew to arrive."
+msgstr "在这里等待你的同伴到达。"
+
+msgctxt "DE98A09A"
+msgid "Find the convoy. Steal the ~B~armored vehicle.~S~"
+msgstr "找到车队，然后偷走~B~装甲车~S~。"
+
+msgctxt "EB47CEBC"
+msgid "Place the explosives at the ~Y~weak spots~S~ on the ship."
+msgstr "将炸药安置在船上的~Y~易爆点~S~。"
+
+msgctxt "EE014527"
+msgid "Drive this thing to the ~Y~rendezvous point.~S~"
+msgstr "将它带到~Y~会合点。~S~"
+
+msgctxt "FFF86915"
+msgid ""
+"If you damage the ~B~armored vehicle~S~ enough it will stop and you can "
+"steal it."
+msgstr "如果你将~B~装甲车~S~破坏到一定程度，装甲车就会停下来，然后你就可以偷走他。"

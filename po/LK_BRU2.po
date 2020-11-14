@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LK_BRU2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "77D9578"
+msgid "~r~The car has been destroyed.~s~"
+msgstr "~r~车子被摧毁了。~s~"
+
+msgctxt "4AFF9C7F"
+msgid "~r~The car has been abandoned.~s~"
+msgstr "~r~车子被抛弃了。~s~"
+
+msgctxt "4CA29BF1"
+msgid "Lose the cars."
+msgstr "甩掉追兵。"
+
+msgctxt "55B1B1E3"
+msgid "Go to ~y~Yorktown Ave.~S~"
+msgstr "前往~y~Yorktown大道。~S~"
+
+msgctxt "5B2ABCD1"
+msgid "Get the car back to ~y~Brucie's lockup."
+msgstr "把车开回~y~Brucie的车库。"
+
+msgctxt "67725564"
+msgid "Lose your wanted level."
+msgstr "降低你的通缉度。"
+
+msgctxt "680F52CA"
+msgid "~r~The car has been trashed.~s~"
+msgstr "~r~车子被毁了。~s~"
+
+msgctxt "7E547F54"
+msgid "Get back in the ~b~car."
+msgstr "回到~b~车~s~上。"
+
+msgctxt "A056472B"
+msgid "Walk round and get the ~B~car."
+msgstr "走过去，偷走~B~车子。"
+
+msgctxt "D4AFAC09"
+msgid "Drive to ~y~Brucie's lockup."
+msgstr "开到~y~Brucie的车库。"
+
+msgctxt "E77FD57D"
+msgid "Get in the ~b~car.~s~"
+msgstr "上~b~车。~s~"

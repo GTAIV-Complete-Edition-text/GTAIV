@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PLAYBY3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "18A61A1F"
+msgid "~s~Backup has arrived to protect the last ~r~leader.~s~ Take him down."
+msgstr "~s~已有增援前来保护最后一个~r~领袖。~s~解决他。"
+
+msgctxt "290CBAEC"
+msgid "~s~Go to the construction site and find the first ~r~Union leader."
+msgstr "~s~前往建筑工地，找到第一个~r~工会领袖。"
+
+msgctxt "36CAD668"
+msgid "~s~Take out the ~r~lookouts."
+msgstr "~s~解决~r~哨卫。"
+
+msgctxt "39E15BB5"
+msgid "~s~You've been spotted. Get to the ~r~first leader~s~ and take him out."
+msgstr "~s~你被发现了。找到~r~第一个领袖，~s~做掉他。"
+
+msgctxt "516D8BC9"
+msgid "~s~Use the sniper rifle to take them out."
+msgstr "~s~用狙击步枪解决他们。"
+
+msgctxt "5C9C36FA"
+msgid "~s~Go to the ~g~car~s~ in the alley downtown."
+msgstr "~s~进入停在市中心小巷的~g~车。"
+
+msgctxt "60BA2A62"
+msgid "~s~Playboy has left the weapons in a ~g~car~s~ in an alley downtown."
+msgstr "~s~Playboy在市中心的小巷的~g~车~s~里放了武器。"
+
+msgctxt "6676F2D8"
+msgid "~r~The car holding the weapons has been destroyed."
+msgstr "~r~放有武器的车被毁了。"
+
+msgctxt "6F0446F6"
+msgid "~s~Get in the ~g~car~s~ to retrieve weapons."
+msgstr "~s~上~g~车~s~拿取武器。"
+
+msgctxt "738D8D15"
+msgid "~r~Playboy was abandoned."
+msgstr "~r~Playboy被抛弃了。"
+
+msgctxt "796CE016"
+msgid ""
+"~s~To throw a grenade, free aim or lock on to a target then press "
+"~INPUT_ATTACK~ to pull the pin. Release ~INPUT_ATTACK~ to throw the grenade."
+msgstr "~s~要投掷手雷，自由瞄准或锁定一个目标，然后按~INPUT_ATTACK~拉环，松开~INPUT_ATTACK~掷出手雷。"
+
+msgctxt "84C22F7E"
+msgid "~r~The last Union leader got away."
+msgstr "~r~最后一个工会领袖跑了。"
+
+msgctxt "8A367D5A"
+msgid "~s~Strike out the ~r~Union leaders."
+msgstr "~s~解决所有~r~工会领袖。"
+
+msgctxt "8A981972"
+msgid "~s~You left ~b~Playboy~s~ behind."
+msgstr "~s~你落下了~b~Playboy。"
+
+msgctxt "8D4C0A99"
+msgid ""
+"~s~To throw a grenade, aim at a target then press ~INPUT_ATTACK~ to pull the "
+"pin. Release ~INPUT_ATTACK~ to throw the grenade."
+msgstr "~s~要投掷手雷，瞄准目标后按~INPUT_ATTACK~拉环，松开~INPUT_ATTACK~掷出手雷。"
+
+msgctxt "95B21451"
+msgid "~s~You'll see better from a good vantage point."
+msgstr "~s~有利位置的视野会更好。"
+
+msgctxt "A544F083"
+msgid "~r~Playboy is dead."
+msgstr "~r~Playboy死了。"
+
+msgctxt "AC0C451C"
+msgid "~s~When not aiming press then release ~INPUT_ATTACK~ to drop a grenade."
+msgstr "~s~未进行瞄准时，按下~INPUT_ATTACK~后松开可原地扔雷。"
+
+msgctxt "C31FEF2C"
+msgid "~s~There are lookouts on 3 of the cranes."
+msgstr "~s~三台起重机上有哨卫在。"
+
+msgctxt "D9C32089"
+msgid "~s~The longer you hold ~INPUT_ATTACK~ the shorter the fuse will become."
+msgstr "~s~~INPUT_ATTACK~按得越久，引爆时间就越短。"
+
+msgctxt "EC1DC02F"
+msgid "~s~Take down the next ~r~Union leader."
+msgstr "~s~解决下一个~r~工会领袖。"

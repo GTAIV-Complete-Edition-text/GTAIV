@@ -1,0 +1,1104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FCJAAUD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "D91975"
+msgid "~z~Yo, can ya take me to East Hook?"
+msgstr "~z~哟，能送我去East Hook吗？"
+
+msgctxt "127EBFC"
+msgid "~z~Whappen? You wanna check out now?"
+msgstr "~z~咋回事？你想现在就结账吗？"
+
+msgctxt "31872E5"
+msgid "~z~What, you lose your watch, Niko?"
+msgstr "~z~怎么，你手表丢了，Niko？"
+
+msgctxt "4217B88"
+msgid "FCJ_ACT_TAKE_BEECHWOOD_CITY"
+msgstr "FCJ_ACT_TAKE_BEECHWOOD_CITY"
+
+msgctxt "44407B8"
+msgid "FCJ_ACT_LEAVE_CLUB_GENERIC"
+msgstr "FCJ_ACT_LEAVE_CLUB_GENERIC"
+
+msgctxt "57DC943"
+msgid "~z~Drop me at me home, man."
+msgstr "~z~把我送回家吧，哥们。"
+
+msgctxt "5D576F0"
+msgid "FCJ_ACT_TAKEHOME"
+msgstr "FCJ_ACT_TAKEHOME"
+
+msgctxt "68E4378"
+msgid "FCJ_ACT_ARRIVEF_HOSPITAL"
+msgstr "FCJ_ACT_ARRIVEF_HOSPITAL"
+
+msgctxt "8AFDA03"
+msgid "~z~Can ya take me to Meadows Park?"
+msgstr "~z~你能带我去Meadows Park吗？"
+
+msgctxt "8CFFBE8"
+msgid "FCJ_ACT_DARTS_LEAVE_LOST"
+msgstr "FCJ_ACT_DARTS_LEAVE_LOST"
+
+msgctxt "8D2A6E1"
+msgid "~z~Can ya take me to Rotterdam Hill?"
+msgstr "~z~你能带我去Rotterdam Hill吗？"
+
+msgctxt "9DB649F"
+msgid "100"
+msgstr "100"
+
+msgctxt "A13E18E"
+msgid "~z~Mek we play some pool then?"
+msgstr "~z~那你就是想跟我打桌球咯？"
+
+msgctxt "A67DC74"
+msgid "100"
+msgstr "100"
+
+msgctxt "AE564A8"
+msgid "100"
+msgstr "100"
+
+msgctxt "B1F62B6"
+msgid "FCJ_ACT_DIFF_ACTIVITY_NO"
+msgstr "FCJ_ACT_DIFF_ACTIVITY_NO"
+
+msgctxt "BC9172E"
+msgid "100"
+msgstr "100"
+
+msgctxt "D721531"
+msgid "~z~We gonna have a good time, me breda."
+msgstr "~z~我们会玩得很开心的，好兄弟。"
+
+msgctxt "E70429C"
+msgid ""
+"~z~Yo, me appreciate that y'know, Niko? Thank you, me see you later, seen?"
+msgstr "~z~哟，我很感激好吧，Niko。多谢了，待会见，好吗？"
+
+msgctxt "EB769F6"
+msgid "~z~Me heart bleeds as me ego grow large ya know, me breda."
+msgstr "~z~我的心在你输了之后一直在滴血你知道吗，我的好兄弟。"
+
+msgctxt "F1BECA5"
+msgid "~z~Whappen rasta, you late ya know. We need fe find a car ya know."
+msgstr "~z~怎么回事，好兄弟，你迟到了好吧。我们先找辆车好吧。"
+
+msgctxt "12B69F35"
+msgid "~z~Gwan rude boy!"
+msgstr "~z~实在是赞啊！"
+
+msgctxt "1664BAB6"
+msgid "~z~The girl were alright y'know, me breda."
+msgstr "~z~这些女孩真的很正点好吗，我的好兄弟。"
+
+msgctxt "1707FCD4"
+msgid "100"
+msgstr "100"
+
+msgctxt "17A50818"
+msgid "100"
+msgstr "100"
+
+msgctxt "183D6EC2"
+msgid "~z~Can ye take we home?"
+msgstr "~z~你能把我们带回家吗？"
+
+msgctxt "18F6388B"
+msgid "FCJ_ACT_TAKE_BOABO"
+msgstr "FCJ_ACT_TAKE_BOABO"
+
+msgctxt "1A1C95CC"
+msgid "100"
+msgstr "100"
+
+msgctxt "1A2A5883"
+msgid "100"
+msgstr "100"
+
+msgctxt "1AFA1D3A"
+msgid "~z~Yo, can ya take me to BOABO, star?"
+msgstr "~z~哟，你能把我带回BOABO吗，兄弟？"
+
+msgctxt "1B20321A"
+msgid "100"
+msgstr "100"
+
+msgctxt "1B3E375C"
+msgid "100"
+msgstr "100"
+
+msgctxt "1BCC18AC"
+msgid "100"
+msgstr "100"
+
+msgctxt "1DFDE32D"
+msgid "FCJ_ACT_POOL_LEAVE_WON"
+msgstr "FCJ_ACT_POOL_LEAVE_WON"
+
+msgctxt "1E502A52"
+msgid "FCJ_ACT_HOSPITAL_DROPOFF"
+msgstr "FCJ_ACT_HOSPITAL_DROPOFF"
+
+msgctxt "1E623E9B"
+msgid "FCJ_ACT_TAKE_OUTLOOK_PARK"
+msgstr "FCJ_ACT_TAKE_OUTLOOK_PARK"
+
+msgctxt "1F0BFEC0"
+msgid "~z~Darts? For real? Okay."
+msgstr "~z~飞镖？认真的吗？好吧。"
+
+msgctxt "22108268"
+msgid "~z~Take me to me house please."
+msgstr "~z~请送我回家吧。"
+
+msgctxt "22D9023D"
+msgid "100"
+msgstr "100"
+
+msgctxt "24BC56BB"
+msgid "~z~Nice bike, man."
+msgstr "~z~摩托很正，兄弟。"
+
+msgctxt "272B3B0E"
+msgid "~z~Why the man late? Let's go."
+msgstr "~z~为啥迟到了？走吧。"
+
+msgctxt "27659114"
+msgid "FCJ_ACT_LEAVE_FASTFOOD"
+msgstr "FCJ_ACT_LEAVE_FASTFOOD"
+
+msgctxt "2AF4121B"
+msgid "100"
+msgstr "100"
+
+msgctxt "2B812BDF"
+msgid "100"
+msgstr "100"
+
+msgctxt "2D0D1935"
+msgid "100"
+msgstr "100"
+
+msgctxt "2FE22476"
+msgid "FCJ_ACT_DARTS_LEAVE_ABANDON"
+msgstr "FCJ_ACT_DARTS_LEAVE_ABANDON"
+
+msgctxt "30AA9DA0"
+msgid "100"
+msgstr "100"
+
+msgctxt "30C07CD0"
+msgid "~z~Yo star, can ya give me a lift to Firefly Island?"
+msgstr "~z~哟兄弟，能把我带去Firefly Island吗？"
+
+msgctxt "310554A4"
+msgid "FCJ_ACT_DROPOFF"
+msgstr "FCJ_ACT_DROPOFF"
+
+msgctxt "317D4F72"
+msgid "~z~Yo, unlucky - but ya know what? At least your breda win."
+msgstr "~z~哟，你不走运啊。不过至少你兄弟我赢了。"
+
+msgctxt "33C604EB"
+msgid "FCJ_ACT_ARRIVE_STANDARD"
+msgstr "FCJ_ACT_ARRIVE_STANDARD"
+
+msgctxt "33F6B474"
+msgid "~z~You unlucky ya know, star."
+msgstr "~z~今天你不走运啊，兄弟。"
+
+msgctxt "34D127E9"
+msgid "~z~Can ye take me back a me home rasta?"
+msgstr "~z~能送我回家吗，好兄弟？"
+
+msgctxt "35F9A51E"
+msgid "100"
+msgstr "100"
+
+msgctxt "367D0A85"
+msgid "~z~Nah man, me not like all this that gwan right now."
+msgstr "~z~算了，兄弟，我现在没那个兴趣。"
+
+msgctxt "36C6BBB3"
+msgid "~z~Niko, you a righteous brother, will you take I back to I apartment?"
+msgstr "~z~Niko，真是我的好兄弟，能把我送回我的公寓吗？"
+
+msgctxt "379CC2B7"
+msgid "FCJ_ACT_DARTS_LEAVE_DRAW"
+msgstr "FCJ_ACT_DARTS_LEAVE_DRAW"
+
+msgctxt "39C0CEB7"
+msgid "~z~Yo, me done with this y'know, star. Me can't find meself warming up."
+msgstr "哟，我受不了了好吧，兄弟。我整个人都不好了。"
+
+msgctxt "3AF4AB1B"
+msgid "FCJ_ACT_TAKE_CERVEZA_HEIGHTS"
+msgstr "FCJ_ACT_TAKE_CERVEZA_HEIGHTS"
+
+msgctxt "3B0D18C1"
+msgid "FCJ_ACT_TAKE_ROTTERDAM_HILL"
+msgstr "FCJ_ACT_TAKE_ROTTERDAM_HILL"
+
+msgctxt "3D15481D"
+msgid "FCJ_ACT_ARRIVem_NOTLATE"
+msgstr "FCJ_ACT_ARRIVem_NOTLATE"
+
+msgctxt "3F9CF1C3"
+msgid "~z~Me had a good time, even though the acts was mad."
+msgstr "~z~我觉得很开心，虽然这节目太疯狂了。"
+
+msgctxt "3FB74AA2"
+msgid "100"
+msgstr "100"
+
+msgctxt "43BEFFF6"
+msgid "~z~Me breda, gimme a drop at Hove Beach."
+msgstr "~z~好兄弟，把我送到Hove Beach吧。"
+
+msgctxt "47826A3A"
+msgid "~z~Yo, no feel no way star, me a take wi' myself right now."
+msgstr "~z~哟，感觉实在不行，我要先回去了。"
+
+msgctxt "48B8BF0F"
+msgid "~z~The best result - so there's no losers 'round here."
+msgstr "~z~最好的结果——平分秋色。"
+
+msgctxt "48FA8BBC"
+msgid "~z~Him make me laugh!"
+msgstr "~z~他快笑死我了！"
+
+msgctxt "4AEA460A"
+msgid "100"
+msgstr "100"
+
+msgctxt "4B331031"
+msgid "~z~This raas clat!"
+msgstr "~z~这哥们儿！"
+
+msgctxt "4CF9AD7E"
+msgid "FCJ_ACT_ARRIVE_SHOW_COMEDY"
+msgstr "FCJ_ACT_ARRIVE_SHOW_COMEDY"
+
+msgctxt "4E7853D4"
+msgid "~z~Respect due to you, that was fun."
+msgstr "~z~我操他妈的真是爽翻了。"
+
+msgctxt "4EF7A282"
+msgid "FCJ_ACT_TAKE_EAST_ISLAND_CITY"
+msgstr "FCJ_ACT_TAKE_EAST_ISLAND_CITY"
+
+msgctxt "4F09A601"
+msgid "~z~Whappen, me breda? We gonna need a car y'know."
+msgstr "~z~怎么了我的好兄弟？我们需要辆车知道吗？"
+
+msgctxt "4F219671"
+msgid "~z~We have fun in here."
+msgstr "~z~玩得很开心。"
+
+msgctxt "507A3CCB"
+msgid "100"
+msgstr "100"
+
+msgctxt "510AD2A8"
+msgid "100"
+msgstr "100"
+
+msgctxt "531AAF06"
+msgid "FCJ_ACT_ARRIVE_HOSPITAL"
+msgstr "FCJ_ACT_ARRIVE_HOSPITAL"
+
+msgctxt "54030B9B"
+msgid "~z~Yo, next time, let's finish the game before we check out."
+msgstr "~z~哟，下次，咱把游戏玩完了在结账好伐？"
+
+msgctxt "547C1989"
+msgid "FCJ_ACT_BORED_LEAVING"
+msgstr "FCJ_ACT_BORED_LEAVING"
+
+msgctxt "5560F92E"
+msgid "~z~Yo, you're late y'know, rasta. Yo, we need a car y'know."
+msgstr "~z~哟，你迟到了好吧，好兄弟。哟，我们需要辆车好吧。"
+
+msgctxt "561122AC"
+msgid "~z~Yo, that place I for real y'know. Even though it full o' spree boys."
+msgstr "~z~哟，这家店好棒，虽然里面的人很多。"
+
+msgctxt "563D2D58"
+msgid "FCJ_ACT_TAKE_SOUTH_SLOPES"
+msgstr "FCJ_ACT_TAKE_SOUTH_SLOPES"
+
+msgctxt "5741AD83"
+msgid "FCJ_ACT_TAKE_FIREFLY_PROJECTS"
+msgstr "FCJ_ACT_TAKE_FIREFLY_PROJECTS"
+
+msgctxt "58628968"
+msgid "~z~Yo, me need a drop to Meadow Hills."
+msgstr "~z~哟，麻烦送我去Meadow Hills。"
+
+msgctxt "5910A659"
+msgid "~z~Is all good with a draw."
+msgstr "~z~只不过是运气好。"
+
+msgctxt "594D7745"
+msgid "FCJ_ACT_ARRIVEF_NOTLATE"
+msgstr "FCJ_ACT_ARRIVEF_NOTLATE"
+
+msgctxt "59B69006"
+msgid "100"
+msgstr "100"
+
+msgctxt "59E22D8F"
+msgid "~z~Yo, this is some funny shit y'know, star."
+msgstr "~z~哟，实在太好笑了，老兄。"
+
+msgctxt "5B07A286"
+msgid "~z~Sorry, me breda."
+msgstr "~z~八好意思，好兄弟。"
+
+msgctxt "5B28D3DC"
+msgid "~z~What this?"
+msgstr "~z~这什么？"
+
+msgctxt "5B406503"
+msgid "100"
+msgstr "100"
+
+msgctxt "5C43DA16"
+msgid "~z~Yo. Good seeing ya, ya know rasta."
+msgstr "~z~哟，跟你玩太开心了，好兄弟。"
+
+msgctxt "5C70FAD8"
+msgid "~z~Darts and ting! Come on, star!"
+msgstr "~z~玩飞镖啊！来啊好兄弟！"
+
+msgctxt "5D3347B0"
+msgid "~z~Nice bike, rasta."
+msgstr "~z~摩托很正，好兄弟。"
+
+msgctxt "5EBCCCC9"
+msgid "FCJ_ACT_TAKE_DOWNTOWN"
+msgstr "FCJ_ACT_TAKE_DOWNTOWN"
+
+msgctxt "5EF96AA6"
+msgid "FCJ_ACT_ARRIVE_CLUCK"
+msgstr "FCJ_ACT_ARRIVE_CLUCK"
+
+msgctxt "5F0FCB7A"
+msgid "~z~Can you drop me off at a Beechwood City."
+msgstr "~z~能送我去Beechwood City吗？"
+
+msgctxt "5F297C99"
+msgid "~z~Hey man, take I home."
+msgstr "~z~嘿兄弟，送我回家吧。"
+
+msgctxt "600B88AA"
+msgid "100"
+msgstr "100"
+
+msgctxt "61AC117D"
+msgid ""
+"~z~One love Niko, thanks for pickin' I an' I up, can ye take I back home?"
+msgstr "~z~你好啊，Niko。多谢你来接我，你能送我回家吗？"
+
+msgctxt "623F2A1E"
+msgid "FCJ_ACT_POOL_LEAVE_DRAW"
+msgstr "FCJ_ACT_POOL_LEAVE_DRAW"
+
+msgctxt "62D0BDCF"
+msgid "~z~Yo, this will be a good time y'know, Niko."
+msgstr "~z~哟，我们一定能玩得很高兴，Niko。"
+
+msgctxt "638A9EE4"
+msgid "FCJ_ACT_ARRIVE_CLUB_GENERIC"
+msgstr "FCJ_ACT_ARRIVE_CLUB_GENERIC"
+
+msgctxt "6392D769"
+msgid "100"
+msgstr "100"
+
+msgctxt "63B0693C"
+msgid "FCJ_ACT_ARRIVE_PUB_FAVOURITE"
+msgstr "FCJ_ACT_ARRIVE_PUB_FAVOURITE"
+
+msgctxt "63B6930C"
+msgid "100"
+msgstr "100"
+
+msgctxt "648042C7"
+msgid "~z~Respect due!"
+msgstr "~z~太有趣了！"
+
+msgctxt "65120107"
+msgid "~z~Yeah, me have a good time ya know, man."
+msgstr "~z~哟，我玩得好开心，好兄弟。"
+
+msgctxt "66C26E53"
+msgid "FCJ_ACT_ARRIVE_STRIP"
+msgstr "FCJ_ACT_ARRIVE_STRIP"
+
+msgctxt "6701A036"
+msgid "100"
+msgstr "100"
+
+msgctxt "679878EF"
+msgid "FCJ_ACT_TAKE_WILLIS"
+msgstr "FCJ_ACT_TAKE_WILLIS"
+
+msgctxt "67AE2B5D"
+msgid "~z~Yo, him are the man ya know. The man incredible."
+msgstr "~z~哟，他实在太赞了好吧。实在牛逼。"
+
+msgctxt "67F2C987"
+msgid "FCJ_ACT_TAKE_MEADOWS_PARK"
+msgstr "FCJ_ACT_TAKE_MEADOWS_PARK"
+
+msgctxt "683343F9"
+msgid "FCJ_ACT_ARRIVE_SHOW_CABARET"
+msgstr "FCJ_ACT_ARRIVE_SHOW_CABARET"
+
+msgctxt "68B9342B"
+msgid ""
+"~z~Yo me have enough o' this y'know, star. Jus' take I home y'know, Niko."
+msgstr "哟，我受够了好吗，兄弟。赶紧送我回家，Niko。"
+
+msgctxt "68D65EA9"
+msgid "100"
+msgstr "100"
+
+msgctxt "68F700C4"
+msgid "~z~Next time, no sheg up the game."
+msgstr "~z~下一次，别提前结束了。"
+
+msgctxt "68F7CF26"
+msgid "100"
+msgstr "100"
+
+msgctxt "6AA6F68F"
+msgid "FCJ_ACT_LEAVE_CLUCK"
+msgstr "FCJ_ACT_LEAVE_CLUCK"
+
+msgctxt "6AB163C1"
+msgid "~z~Can you drop me off a' Steinway?"
+msgstr "~z~你能送我去Steinway吗？"
+
+msgctxt "6AC3177C"
+msgid "~z~Let's do this, star!"
+msgstr "~z~来吧，好兄弟！"
+
+msgctxt "6B13B5A4"
+msgid "100"
+msgstr "100"
+
+msgctxt "6BF5C4A6"
+msgid "~z~You're late, but let's go anyway."
+msgstr "~z~你迟到了，赶紧出发吧好兄弟。"
+
+msgctxt "6E2943EA"
+msgid "~z~Can ya take me Downtown, star?"
+msgstr "~z~你能带我去Downtown吗，兄弟？"
+
+msgctxt "6E7B8949"
+msgid "FCJ_ACT_LEAVE_SHOW_EARLY"
+msgstr "FCJ_ACT_LEAVE_SHOW_EARLY"
+
+msgctxt "6FA2B822"
+msgid "FCJ_ACT_ARRIVE_SHOW_LATE"
+msgstr "FCJ_ACT_ARRIVE_SHOW_LATE"
+
+msgctxt "71DAA961"
+msgid "100"
+msgstr "100"
+
+msgctxt "73A1FD79"
+msgid "FCJ_ACT_LEAVE_PUB_GENERIC"
+msgstr "FCJ_ACT_LEAVE_PUB_GENERIC"
+
+msgctxt "741C323F"
+msgid "100"
+msgstr "100"
+
+msgctxt "7547BCA6"
+msgid "~z~Yo, me need some transportation to Willis."
+msgstr "~z~哟，请送我去Willis。"
+
+msgctxt "7691C22C"
+msgid "~z~Yo easy now, star! Ya the big man."
+msgstr "~z~哟放轻松好兄弟，你可是大赢家。"
+
+msgctxt "779A51C5"
+msgid "FCJ_ACT_ARRIVEF_LATE"
+msgstr "FCJ_ACT_ARRIVEF_LATE"
+
+msgctxt "7887E398"
+msgid "~z~The show's okay."
+msgstr "~z~这节目挺好的。"
+
+msgctxt "799D82EA"
+msgid "100"
+msgstr "100"
+
+msgctxt "7A994AEC"
+msgid "100"
+msgstr "100"
+
+msgctxt "7BA63592"
+msgid "~z~Take me home star, back to me house."
+msgstr "~z~送我回去，兄弟。回我家。"
+
+msgctxt "7E2F936A"
+msgid "~z~I and I gonna eat good here."
+msgstr "~z~感觉能吃顿好的。"
+
+msgctxt "7F7563C9"
+msgid "100"
+msgstr "100"
+
+msgctxt "7FA18013"
+msgid "~z~Yeah, let's go."
+msgstr "~z~出发吧。"
+
+msgctxt "81779D6E"
+msgid "~z~Yo, the Bell make the best chicken ya know, bredaman."
+msgstr "~z~哟，铛铛钟的炸鸡天下第一，好兄弟。"
+
+msgctxt "82275CF7"
+msgid "100"
+msgstr "100"
+
+msgctxt "82AC9BF1"
+msgid "~z~That's good times, breda."
+msgstr "~z~玩得很高兴，兄弟。"
+
+msgctxt "82ACCFBE"
+msgid "100"
+msgstr "100"
+
+msgctxt "8376993A"
+msgid "~z~Me like this kinda place."
+msgstr "~z~就喜欢这种地方。"
+
+msgctxt "84686B89"
+msgid "~z~Yo, me have enough o' this star, man. Jus' take I home Niko, no?"
+msgstr "哟，我已经受够了，兄弟。送我回家好吗，Niko？"
+
+msgctxt "84693359"
+msgid "100"
+msgstr "100"
+
+msgctxt "85D1EF38"
+msgid "~z~Next time, let's finish up."
+msgstr "~z~下一次，咱把游戏玩完。"
+
+msgctxt "87E91C94"
+msgid "~z~Me need a drop to East Island City."
+msgstr "~z~麻烦送我去东岛城。"
+
+msgctxt "880B9938"
+msgid "~z~Easy nuh - that place look fine."
+msgstr "~z~还不错，这家店挺高级。"
+
+msgctxt "8902141A"
+msgid "100"
+msgstr "100"
+
+msgctxt "89256753"
+msgid "~z~Well played, rasta!"
+msgstr "~z~玩得真不错，好兄弟！"
+
+msgctxt "8B76C5A4"
+msgid "100"
+msgstr "100"
+
+msgctxt "90403E0A"
+msgid "~z~No way, me breda."
+msgstr "~z~没门，好兄弟。"
+
+msgctxt "904C15FE"
+msgid "FCJ_ACT_LEAVE_SHOW_CABARET"
+msgstr "FCJ_ACT_LEAVE_SHOW_CABARET"
+
+msgctxt "90AA440A"
+msgid "100"
+msgstr "100"
+
+msgctxt "923E404A"
+msgid "100"
+msgstr "100"
+
+msgctxt "94A2D97E"
+msgid "100"
+msgstr "100"
+
+msgctxt "94F6C777"
+msgid "~z~Niko!"
+msgstr "~z~Niko！"
+
+msgctxt "963ECEC3"
+msgid "100"
+msgstr "100"
+
+msgctxt "96AB6BBB"
+msgid "~z~Yo, thanks for the lift, me breda."
+msgstr "~z~哟，谢谢你来接我，好兄弟。"
+
+msgctxt "97AF1341"
+msgid "FCJ_ACT_TAKE_STEINWAY"
+msgstr "FCJ_ACT_TAKE_STEINWAY"
+
+msgctxt "996C50E9"
+msgid "FCJ_ACT_ARRIVE_DARTS"
+msgstr "FCJ_ACT_ARRIVE_DARTS"
+
+msgctxt "9A8DC768"
+msgid "~z~I and I gonna get drunk and stupid."
+msgstr "~z~让我们一醉方休。"
+
+msgctxt "9C361D8D"
+msgid "~z~Yo, that are me favourite place ya know, Niko."
+msgstr "~z~哟，我最喜欢这里了，Niko。"
+
+msgctxt "9E57BD7F"
+msgid "~z~Let's go star."
+msgstr "~z~走吧，好兄弟。"
+
+msgctxt "9EF0C886"
+msgid "FCJ_ACT_POOL_LEAVE_LOST"
+msgstr "FCJ_ACT_POOL_LEAVE_LOST"
+
+msgctxt "A0AF86FA"
+msgid "~z~Me breda, drop me at Firefly Projects please."
+msgstr "~z~我的兄弟，送我去Firefly公屋社区吧。"
+
+msgctxt "A0F63B74"
+msgid "FCJ_ACT_BORED_TAKEHOME"
+msgstr "FCJ_ACT_BORED_TAKEHOME"
+
+msgctxt "A224227E"
+msgid "~z~Can you drop me at South Slopes?"
+msgstr "~z~能送我去South Slopes吗？"
+
+msgctxt "A27B0B3D"
+msgid "FCJ_ACT_TAKE_HOVE_BEACH"
+msgstr "FCJ_ACT_TAKE_HOVE_BEACH"
+
+msgctxt "A565F4F2"
+msgid "100"
+msgstr "100"
+
+msgctxt "A76C2597"
+msgid "100"
+msgstr "100"
+
+msgctxt "A83A0BCC"
+msgid "100"
+msgstr "100"
+
+msgctxt "A8D1FA26"
+msgid "100"
+msgstr "100"
+
+msgctxt "ABE205BC"
+msgid "100"
+msgstr "100"
+
+msgctxt "ABFD68EC"
+msgid "~z~Yo that was a good eating, boy."
+msgstr "~z~这饭可真好吃啊，好兄弟。"
+
+msgctxt "AC1A6D0D"
+msgid "FCJ_ACT_ARRIVE_LATE"
+msgstr "FCJ_ACT_ARRIVE_LATE"
+
+msgctxt "AC1F590E"
+msgid "~z~Let's get going, me breda."
+msgstr "我们走吧，好兄弟。"
+
+msgctxt "AC8E0CBB"
+msgid "100"
+msgstr "100"
+
+msgctxt "ADC48FE6"
+msgid "~z~Yeah a bit risto but, they done most o' their food good, y'know?"
+msgstr "~z~虽然有点苦，但他们的食物都不错对吧？"
+
+msgctxt "AE855A7F"
+msgid "FCJ_ACT_ARRIVE_POOL"
+msgstr "FCJ_ACT_ARRIVE_POOL"
+
+msgctxt "AE8886B7"
+msgid "FCJ_ACT_ARRIVE_PUB_GENERIC"
+msgstr "FCJ_ACT_ARRIVE_PUB_GENERIC"
+
+msgctxt "AED9633D"
+msgid "FCJ_ACT_DURING_SHOW_POS"
+msgstr "FCJ_ACT_DURING_SHOW_POS"
+
+msgctxt "AFBA2819"
+msgid ""
+"~z~Niko, I legs ain't workin' good right now. Get I some transport for the "
+"rasta now?"
+msgstr "~z~Niko，我的腿已经不听使唤了。我能坐交通工具吗？"
+
+msgctxt "AFC8595A"
+msgid "~z~Boy, what a idiot."
+msgstr "~z~我去，太蠢了吧。"
+
+msgctxt "B0857B89"
+msgid "~z~Yo, me love the place ya know, Niko."
+msgstr "~z~哟，我很喜欢这地方知道吗，Niko。"
+
+msgctxt "B15D118F"
+msgid "~z~Next time, we finish up the game."
+msgstr "~z~下一次，咱们打完整局，好吗。"
+
+msgctxt "B1900B2D"
+msgid "~z~Alright, mek we see what kind o' lunacy are gwan down here."
+msgstr "~z~好了，让我看看这里有什么好戏。"
+
+msgctxt "B26A1E0C"
+msgid "100"
+msgstr "100"
+
+msgctxt "B27B8A10"
+msgid "~z~Yeah man, well done, Niko."
+msgstr "~z~呀好兄弟，玩得不错，Niko。"
+
+msgctxt "B48C685C"
+msgid "100"
+msgstr "100"
+
+msgctxt "B539D6D7"
+msgid "FCJ_ACT_LEAVE_SHOW_COMEDY"
+msgstr "FCJ_ACT_LEAVE_SHOW_COMEDY"
+
+msgctxt "B67B0E93"
+msgid "FCJ_ACT_TAKE_AIRPORT"
+msgstr "FCJ_ACT_TAKE_AIRPORT"
+
+msgctxt "B7264628"
+msgid "100"
+msgstr "100"
+
+msgctxt "B734B82F"
+msgid "~z~Cluckin' Bell! Nice."
+msgstr "~z~铛铛钟！太棒了。"
+
+msgctxt "BB37F382"
+msgid "FCJ_ACT_LEAVE_STRIP_OK"
+msgstr "FCJ_ACT_LEAVE_STRIP_OK"
+
+msgctxt "BB3A9777"
+msgid "100"
+msgstr "100"
+
+msgctxt "BC0C1584"
+msgid "~z~Alright, Mr. Mention, me see skettels, brand 'em ya know?"
+msgstr "~z~好了，懂哥，大屁屁好多，好想大干一场。"
+
+msgctxt "BC8F8707"
+msgid "FCJ_ACT_DIFF_DARTS_YES"
+msgstr "FCJ_ACT_DIFF_DARTS_YES"
+
+msgctxt "BCCAFA65"
+msgid "~z~Let's go star."
+msgstr "~z~出发吧，好兄弟。"
+
+msgctxt "BD2C0B49"
+msgid "~z~Yeah. Yo that were fun y'know, man."
+msgstr "~z~耶。哟，太劲了，好兄弟。"
+
+msgctxt "BE7E76C6"
+msgid "~z~Respect!"
+msgstr "~z~敬他！"
+
+msgctxt "BEE41B2C"
+msgid "~z~Alright, Mr. Mention, let me see the girl them now."
+msgstr "~z~好了好了，懂哥，我要去看看妹子了。"
+
+msgctxt "BF424F23"
+msgid "100"
+msgstr "100"
+
+msgctxt "BF8487EA"
+msgid "FCJ_ACT_ARRIVE_HIGHEND"
+msgstr "FCJ_ACT_ARRIVE_HIGHEND"
+
+msgctxt "C2A9AD60"
+msgid "~z~Okay, rasta, let's see what kind of craziness them have tonight."
+msgstr "~z~好啦，好兄弟。看看今晚这里会有什么疯狂的节目。"
+
+msgctxt "C3B39ED9"
+msgid "FCJ_ACT_ARRIVEC_NOTLATE"
+msgstr "FCJ_ACT_ARRIVEC_NOTLATE"
+
+msgctxt "C3F1C647"
+msgid "~z~Yo, thanks for the lift, fire."
+msgstr "~z~哟，谢谢你来接我。"
+
+msgctxt "C4BBABB4"
+msgid "~z~Yo, drop me off at the airport, nuh?"
+msgstr "~z~哟，送我去机场好吗？"
+
+msgctxt "C4E9CC17"
+msgid "FCJ_ACT_LEAVE_STANDARD"
+msgstr "FCJ_ACT_LEAVE_STANDARD"
+
+msgctxt "C5823165"
+msgid "FCJ_ACT_DIFF_POOL_YES"
+msgstr "FCJ_ACT_DIFF_POOL_YES"
+
+msgctxt "C5B05862"
+msgid "100"
+msgstr "100"
+
+msgctxt "C8F0FD8A"
+msgid "FCJ_ACT_TAKE_MEADOWS_HILLS"
+msgstr "FCJ_ACT_TAKE_MEADOWS_HILLS"
+
+msgctxt "C8FA5BBA"
+msgid "~z~Cluckin' Bell? I love that shit rasta."
+msgstr "~z~铛铛钟？我爱死这里了，兄弟。"
+
+msgctxt "C9108C6B"
+msgid "~z~Okay, me breda - you want a good laugh? Follow me."
+msgstr "~z~好了，好兄弟，你想大笑一场吗？跟我来。"
+
+msgctxt "C917FF38"
+msgid "100"
+msgstr "100"
+
+msgctxt "CA025521"
+msgid "100"
+msgstr "100"
+
+msgctxt "CB02FB26"
+msgid "~z~Yo, that sah, is a great place."
+msgstr "~z~哟，这里可是个好地方啊。"
+
+msgctxt "CB8CEDDF"
+msgid "100"
+msgstr "100"
+
+msgctxt "CC45207A"
+msgid "~z~Wha'gwan, me breda? We gonna need some wheels y'know."
+msgstr "~z~你好啊，好兄弟。给我们找辆车吧。"
+
+msgctxt "CC4F6CBF"
+msgid "FCJ_ACT_TAKE_EAST_HOOK"
+msgstr "FCJ_ACT_TAKE_EAST_HOOK"
+
+msgctxt "CCB70E57"
+msgid "~z~Pool? It's not what I was thinking but, alright."
+msgstr "~z~桌球？和我想的不一样啊，也行。"
+
+msgctxt "CED37E30"
+msgid "~z~Yo. Good choice, me breda."
+msgstr "~z~哟，不错的选择，好兄弟。"
+
+msgctxt "D0508126"
+msgid "~z~It's not healthy, but it refreshes the spirit."
+msgstr "~z~的确不太健康，但能洗涤我的灵魂。"
+
+msgctxt "D063375D"
+msgid "~z~That was fun."
+msgstr "~z~真高兴。"
+
+msgctxt "D0F93E89"
+msgid "100"
+msgstr "100"
+
+msgctxt "D12EC76E"
+msgid "~z~It matter more to you than me ya know, rasta."
+msgstr "~z~对你大概更加重要吧，兄弟。"
+
+msgctxt "D4103F26"
+msgid "~z~Love a place like this."
+msgstr "~z~我超喜欢这种地方。"
+
+msgctxt "D48A703A"
+msgid "100"
+msgstr "100"
+
+msgctxt "D5AE97C5"
+msgid "FCJ_ACT_POOL_LEAVE_ABANDON"
+msgstr "FCJ_ACT_POOL_LEAVE_ABANDON"
+
+msgctxt "D5DEA245"
+msgid "~z~Man - me love this place y'know."
+msgstr "~z~天，我喜欢这家店好吧。"
+
+msgctxt "D6FAE252"
+msgid "~z~Yeah, that was good for such a risto place, y'know."
+msgstr "~z~耶，这地方应该是个不错的咖啡馆，知道吧。"
+
+msgctxt "D7EB09B4"
+msgid "~z~Can ya take me to Outlook Park?"
+msgstr "~z~你能送我去Outlook Park吗？"
+
+msgctxt "D810D85B"
+msgid "~z~Niko, with all this insanity, made me miss the show?"
+msgstr "~z~Niko，一通疯狂过后，把演出给错过了？"
+
+msgctxt "D83A9BB2"
+msgid "100"
+msgstr "100"
+
+msgctxt "D849E8F7"
+msgid "100"
+msgstr "100"
+
+msgctxt "D8CAD31E"
+msgid "~z~Yo, me have a good time ya know, star."
+msgstr "~z~哟，我玩得很开心，好兄弟。"
+
+msgctxt "D919CD8F"
+msgid "~z~Yo, bad for the heart but great for the soul."
+msgstr "~z~哟，对心脏不好，但能洗涤我的灵魂。"
+
+msgctxt "DA49F34C"
+msgid "~z~Take me home rasta."
+msgstr "~z~送我回家，兄弟。"
+
+msgctxt "DB02D9BC"
+msgid "100"
+msgstr "100"
+
+msgctxt "DCF5A758"
+msgid "100"
+msgstr "100"
+
+msgctxt "DEED475A"
+msgid "~z~Are you going foreign now?"
+msgstr "~z~这是家歪果仁开的咖啡店马？"
+
+msgctxt "DF6607C9"
+msgid "FCJ_ACT_DARTS_LEAVE_WON"
+msgstr "FCJ_ACT_DARTS_LEAVE_WON"
+
+msgctxt "DFEE7178"
+msgid "100"
+msgstr "100"
+
+msgctxt "E0618E2A"
+msgid "~z~Okay, me breda, mek we play some pool now."
+msgstr "~z~好了，好兄弟。进去打桌球吧。"
+
+msgctxt "E159D313"
+msgid "100"
+msgstr "100"
+
+msgctxt "E26FAEEC"
+msgid "FCJ_ACT_TAKE_FIREFLY_ISLAND"
+msgstr "FCJ_ACT_TAKE_FIREFLY_ISLAND"
+
+msgctxt "E276731E"
+msgid "~z~Can I get a drop at Cerveza Heights?"
+msgstr "~z~你能把我送到Cerveza Heights吗？"
+
+msgctxt "E2C2E0E1"
+msgid "~z~Yo, that was not natural but I dunno, say it taste fine, ya know?"
+msgstr "~z~哟，这玩意是不太健康，但它确实好吃，知道吗？"
+
+msgctxt "E3312265"
+msgid "~z~That make me laugh, more or less."
+msgstr "~z~我反正是看乐了。"
+
+msgctxt "E4915710"
+msgid "~z~Yo, that skettel was fine, yo."
+msgstr "~z~哟，大屁屁真的太爽了，哟。"
+
+msgctxt "E542894D"
+msgid "~z~Nice bird, me breda."
+msgstr "~z~直升机很正，好兄弟。"
+
+msgctxt "E575C4B4"
+msgid "~z~This boy mek me laugh y'know."
+msgstr "~z~这小子真的超好笑。"
+
+msgctxt "E58EC349"
+msgid "~z~We gonna enjoy ourself here."
+msgstr "~z~我们会玩得很开心的。"
+
+msgctxt "E6AE5E8C"
+msgid "100"
+msgstr "100"
+
+msgctxt "E9E07905"
+msgid "~z~Yo, Niko, me appreciate that an' ting, give thanks, one love."
+msgstr "~z~哟，Niko，很感谢你把我送回来，太感谢你了，爱你。"
+
+msgctxt "EA467CC6"
+msgid "~z~Yo, we're too late to see the show?"
+msgstr "~z~哟，我们好像错过演出了吧？"
+
+msgctxt "EB0C77A1"
+msgid "~z~Yo, that was fun ya know?"
+msgstr "~z~哟，刚刚我好开心知道吗？"
+
+msgctxt "EECD7EDF"
+msgid "FCJ_ACT_ARRIVEH_NOTLATE"
+msgstr "FCJ_ACT_ARRIVEH_NOTLATE"
+
+msgctxt "EF51B66E"
+msgid "FCJ_ACT_ARRIVE_FASTFOOD"
+msgstr "FCJ_ACT_ARRIVE_FASTFOOD"
+
+msgctxt "EF5F7CE8"
+msgid "~z~Why you stepping out now?"
+msgstr "~z~为啥你现在就走了？"
+
+msgctxt "F19B150A"
+msgid "FCJ_ACT_LEAVE_STRIP_GOOD"
+msgstr "FCJ_ACT_LEAVE_STRIP_GOOD"
+
+msgctxt "F1F961FF"
+msgid "FCJ_ACT_LEAVE_CLUB_FAVOURITE"
+msgstr "FCJ_ACT_LEAVE_CLUB_FAVOURITE"
+
+msgctxt "F4F8B2A1"
+msgid ""
+"~z~Yo Niko man, I ain't got the strength to be walking right now, man. Can I "
+"get some transport?"
+msgstr "~z~哟Niko，好兄弟，我现在这状态不能走路啊，兄弟。能帮我找个交通工具吗？"
+
+msgctxt "F671D690"
+msgid "~z~You wanna check out already?"
+msgstr "~z~你这就要走了吗？"
+
+msgctxt "F6F36612"
+msgid "~z~Yo, we gonna have fun y'know, rasta."
+msgstr "~z~哟，一起痛快一场吧，好兄弟。"
+
+msgctxt "F964A2D2"
+msgid "FCJ_ACT_DROPOFF_LIFT"
+msgstr "FCJ_ACT_DROPOFF_LIFT"
+
+msgctxt "F96B5F8B"
+msgid "~z~Let's go? And by the way, you're late."
+msgstr "~z~走吧？对了，你迟到了哦。"
+
+msgctxt "FA1215B4"
+msgid "~z~Good times man, respect yeah?"
+msgstr "~z~玩得好开心，好兄弟。"
+
+msgctxt "FBCFB5E7"
+msgid "~z~Drop me at me yard, man."
+msgstr "~z~送我回家，好兄弟。"
+
+msgctxt "FDC0402F"
+msgid "FCJ_ACT_LEAVE_HIGHEND"
+msgstr "FCJ_ACT_LEAVE_HIGHEND"

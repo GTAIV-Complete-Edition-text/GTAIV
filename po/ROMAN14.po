@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ROMAN14\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "162DD8CA"
+msgid "~s~Go and get ~y~Roman."
+msgstr "~s~去带上~y~Roman。"
+
+msgctxt "27147A97"
+msgid "~s~Pick up ~b~Roman."
+msgstr "~s~去接~b~Roman。"
+
+msgctxt "2A26A5E2"
+msgid "~r~The car has been destroyed.~s~"
+msgstr "~r~车子被毁了。~s~"
+
+msgctxt "363FB0FB"
+msgid "~s~Choose to kill ~r~Darko~s~ or let him live."
+msgstr "~s~抉择：杀了~r~Darko~s~ 或 放过他。"
+
+msgctxt "3DB9D2F1"
+msgid "~r~Roman has been injured.~s~"
+msgstr "~r~Roman受伤了。~s~"
+
+msgctxt "47E9BC3D"
+msgid "~s~Get back in the ~b~car."
+msgstr "~s~回到~b~车~s~上。"
+
+msgctxt "50D54E14"
+msgid "~s~Take Roman to ~y~Brucie's place."
+msgstr "~s~送Roman去~y~Brucie家。"
+
+msgctxt "5DF7E859"
+msgid "~s~Go back and get ~b~Roman."
+msgstr "~s~回去带上~b~Roman。"
+
+msgctxt "74FD27C0"
+msgid "~r~Roman is dead.~s~"
+msgstr "~r~Roman死了。~s~"
+
+msgctxt "7AA4A1B2"
+msgid "~s~Head to the ~y~rendezvous."
+msgstr "~s~前往~y~货运区。"
+
+msgctxt "80B8B65A"
+msgid "~s~Wait for ~b~Roman."
+msgstr "~s~等待~b~Roman。"
+
+msgctxt "9DB88054"
+msgid "~s~Execute him or walk away to let him live."
+msgstr "~s~处决他，或直接走开放过他。"
+
+msgctxt "B1B5CF99"
+msgid "~s~Choose to kill ~b~Darko~s~ or let him live."
+msgstr "~s~抉择：杀了~b~Darko~s~ 或 放过他。"
+
+msgctxt "B55440AC"
+msgid "~s~Get a car for you and Roman."
+msgstr "~s~替你和Roman找辆车。"
+
+msgctxt "C2BAB1E5"
+msgid "~s~Pick up ~y~Roman."
+msgstr "~s~带上~y~Roman。"
+
+msgctxt "FD56271B"
+msgid "~s~Get a car and pick up ~b~Roman."
+msgstr "~s~找一辆车带上~b~Roman。"

@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: STRK_M1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "96B801"
+msgid "~r~Packie and Gordon are dead."
+msgstr "~r~Packie和Gordon死了。"
+
+msgctxt "2198C0B"
+msgid ""
+"~s~You left ~b~Packie~s~ and ~b~Michael~s~ behind, go back and get them."
+msgstr "~s~你把~b~Packie~s~和~b~Michael~s~落下了，回去带上他们。"
+
+msgctxt "696B857"
+msgid ""
+"~s~You left ~b~Packie,~s~ ~b~Michael,~s~ and ~b~Gordon~s~ behind, go back "
+"and get them."
+msgstr "~s~你把~b~Packie~s~、~b~Michael~s~和~b~Gordon~s~落下了，回去带上他们。"
+
+msgctxt "A7948DE"
+msgid "~s~Get the ~g~cash~s~ from the office."
+msgstr "~s~去办公室拿走~g~现金。"
+
+msgctxt "120D2B40"
+msgid ""
+"~s~Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to "
+"brake."
+msgstr "~s~按~INPUT_VEH_ACCELERATE~加速。按~INPUT_VEH_BRAKE~ 制动。"
+
+msgctxt "132B5D2A"
+msgid "~r~Packie and Michael are dead."
+msgstr "~r~Packie和Michael死了。"
+
+msgctxt "1634633C"
+msgid "~r~The car has been destroyed."
+msgstr "~r~车子被毁了。"
+
+msgctxt "19AC92C8"
+msgid "Meet up with ~b~Packie~s~ at the end of the pier."
+msgstr "到码头末端和~b~Packie~s~会合。"
+
+msgctxt "1FBA469A"
+msgid "~s~Use ~PAD_SIXAXIS_PITCH~ to adjust the trim."
+msgstr "~s~使用~PAD_SIXAXIS_PITCH~掌舵。"
+
+msgctxt "2406AF60"
+msgid "~s~Swim out and get in the ~b~boat."
+msgstr "~s~游到~b~船~s~上去。"
+
+msgctxt "294F58D8"
+msgid "~s~Use ~PAD_LSTICK_UPDOWN~ to adjust the trim."
+msgstr "~s~使用~PAD_LSTICK_UPDOWN~掌舵。"
+
+msgctxt "29518C28"
+msgid ""
+"~s~You need to find a car with enough room for Packie, Gordon and Michael."
+msgstr "~s~你需要一辆能够乘下Packie，Gordon和Michael的车。"
+
+msgctxt "2AF9D486"
+msgid "~s~You left ~b~Gordon~s~ behind, go back and get him."
+msgstr "~s~你把~b~Gordon~s~落下了，回去带上他。"
+
+msgctxt "342E1F3B"
+msgid "~r~Gordon and Michael are dead."
+msgstr "~r~Gordon和Michael死了。"
+
+msgctxt "37057444"
+msgid "~s~To make sharper turns when in a boat press ~INPUT_VEH_HANDBRAKE~."
+msgstr "~s~在船上时，若要急转弯请按~INPUT_VEH_HANDBRAKE~。"
+
+msgctxt "39E7A7BA"
+msgid "~s~Escape from the depot with ~b~Packie."
+msgstr "~s~与~b~Packie~s~一起逃离仓库。"
+
+msgctxt "3A428D88"
+msgid "~s~Use ~PAD_LSTICK_ALL~ to swim."
+msgstr "~s~使用~PAD_LSTICK_ALL~游泳"
+
+msgctxt "3EC0DCD8"
+msgid "Meet up with ~b~Packie~s~ outside of the depot."
+msgstr "到仓库外与~b~Packie~s~会合。"
+
+msgctxt "3ED8858C"
+msgid "~s~You left ~b~Packie~s~ and ~b~Gordon~s~ behind, go back and get them."
+msgstr "~s~你把~b~Packie~s~和~b~Gordon~s~落下了，回去带上他们。"
+
+msgctxt "3FEF98E2"
+msgid "~s~Hold or repeatedly tap ~INPUT_SPRINT~ to swim faster."
+msgstr "~s~按住或连按~INPUT_SPRINT~以游得更快。"
+
+msgctxt "48FDF152"
+msgid "Get inside the depot and get the ~g~cash."
+msgstr "攻入仓库，夺取~g~现金。"
+
+msgctxt "490C0807"
+msgid "~r~Packie, Gordon and Michael are dead."
+msgstr "~r~Packie，Gordon和Michael都死了。"
+
+msgctxt "5872903B"
+msgid "~s~Get back in the ~b~boat."
+msgstr "~s~回到~b~船~s~上。"
+
+msgctxt "5C013F2B"
+msgid "~s~Use ~PAD_SIXAXIS_ROLL~ to steer a boat."
+msgstr "~s~使用~PAD_SIXAXIS_ROLL~控制船的方向。"
+
+msgctxt "5D1BF10A"
+msgid "~r~Michael is dead."
+msgstr "~r~Michael死了。"
+
+msgctxt "5EA4C520"
+msgid "~s~You left ~b~Packie~s~ behind, go back and get him."
+msgstr "~s~你把~b~Packie~s~落下了，回去带上他。"
+
+msgctxt "6010A2D8"
+msgid "~s~Find a four door car."
+msgstr "~s~找一辆四门的车。"
+
+msgctxt "659E5261"
+msgid "~s~To make sharper turns when in a boat press ~INPUT_VEH_HANDBRAKE~."
+msgstr "~s~在船上时，若要急转弯请按~INPUT_VEH_HANDBRAKE~。"
+
+msgctxt "6D59EFAA"
+msgid "~s~You left ~b~Michael~s~ behind, go back and get him."
+msgstr "~s~你把~b~Michael~s~落下了，回去带上他。"
+
+msgctxt "81FCC45D"
+msgid "~s~Use ~INPUT_VEH_KEY_UD~ to adjust the trim."
+msgstr "~s~使用~INPUT_VEH_KEY_UD~掌舵。"
+
+msgctxt "98160F81"
+msgid "~s~Get Packie back to ~y~safety."
+msgstr "~s~带Packie回到~y~安全区域。"
+
+msgctxt "9F2C5D1A"
+msgid ""
+"~s~You left ~b~Michael~s~ and ~b~Gordon~s~ behind, go back and get them."
+msgstr "~s~你把~b~Michael~s~和~b~Gordon~s~落下了，回去带上他们。"
+
+msgctxt "A6ED04AB"
+msgid "~r~Packie is dead."
+msgstr "~r~Packie死了。"
+
+msgctxt "B94254B5"
+msgid "~s~Get to the ~y~waste depot."
+msgstr "~s~前往~y~垃圾场。"
+
+msgctxt "B9A32A17"
+msgid "~r~The car has been destroyed."
+msgstr "~r~车子被毁了。"
+
+msgctxt "BA98C3D0"
+msgid "~s~Use ~INPUT_SPRINT~ to swim faster."
+msgstr "~s~使用~INPUT_SPRINT~以游得更快。"
+
+msgctxt "C5AC1193"
+msgid "~s~Use ~PAD_LSTICK_LEFTRIGHT~ to steer a boat."
+msgstr "~s~使用~PAD_LSTICK_LEFTRIGHT~控制船的方向。"
+
+msgctxt "CB90CD5A"
+msgid "~s~Drive to the ~y~waste depot."
+msgstr "~s~驾车前往~y~垃圾场。"
+
+msgctxt "CBD1CE74"
+msgid "~r~The boat has been destroyed."
+msgstr "~r~船被毁了。"
+
+msgctxt "D3992D6D"
+msgid ""
+"~s~Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to "
+"brake."
+msgstr "~s~按~INPUT_VEH_ACCELERATE~加速。按~INPUT_VEH_BRAKE~制动。"
+
+msgctxt "ED279633"
+msgid "~s~Pick up ~b~Packie~s~ and the others."
+msgstr "~s~带上~b~Packie~s~和其他人。"
+
+msgctxt "EE1492FD"
+msgid "~r~Gordon is dead."
+msgstr "~r~Gordon死了。"
+
+msgctxt "EF2DA412"
+msgid "~s~Wait for ~b~Packie~s~ to get into the boat."
+msgstr "~s~等待~b~Packie~s~上船。"

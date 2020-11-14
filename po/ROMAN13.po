@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ROMAN13\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "589F840"
+msgid "~r~Talbot is dead, you are no closer to finding Florian Cravic.~s~"
+msgstr "~r~Talbot死了，你离找到Florian Cravic又远了一步。~s~"
+
+msgctxt "728F232"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通缉度。"
+
+msgctxt "F463F58"
+msgid "~r~Talbot is lost.~s~"
+msgstr "~r~Talbot迷路了。~s~"
+
+msgctxt "1C72FFD7"
+msgid "~s~Go and find ~y~Florian~s~."
+msgstr "~s~去找~y~Florian。~s~"
+
+msgctxt "1C89EF63"
+msgid "~s~Get a car and pick up ~b~Roman."
+msgstr "~s~找辆车去接~b~Roman。"
+
+msgctxt "21E4F705"
+msgid "~s~Beat ~r~Talbot~s~ enough to make him talk."
+msgstr "~s~打到~r~Talbot~s~开口为止。"
+
+msgctxt "4CAF1217"
+msgid "~s~Niko, where you going?~s~"
+msgstr "~s~Niko，你要去哪儿？~s~"
+
+msgctxt "5D5BEDF2"
+msgid "~s~Wait for ~b~Talbot~s~ and ~b~Roman."
+msgstr "~s~等待~b~Talbot~s~和~b~Roman。"
+
+msgctxt "656B224B"
+msgid "~s~We're getting closer~s~"
+msgstr "~s~我们很近了。~s~"
+
+msgctxt "69895894"
+msgid "~r~The car was destroyed.~s~"
+msgstr "~r~车子毁了。~s~"
+
+msgctxt "6D7B71A1"
+msgid "~r~You lost him.~s~"
+msgstr "~r~你失去了他。~s~"
+
+msgctxt "735DDDE5"
+msgid "~s~Pay attention to Talbot's directions."
+msgstr "~s~注意Talbot的指引。"
+
+msgctxt "736D9D29"
+msgid "~s~Go to pick up ~y~Roman."
+msgstr "~s~去接~y~Roman。"
+
+msgctxt "7FBC90FA"
+msgid "~r~Roman has been injured.~s~"
+msgstr "~r~Roman受伤了。~s~"
+
+msgctxt "8723A6B7"
+msgid "~s~Go to ~y~Florian's apartment."
+msgstr "~s~前往~y~Florian的公寓。"
+
+msgctxt "87B642A6"
+msgid "~s~Get in a car with 2 passenger seats."
+msgstr "~s~找一辆有两个乘客席的车。"
+
+msgctxt "8D7C6B54"
+msgid "~s~Follow Talbot's directions."
+msgstr "~s~跟从Talbot的导航。"
+
+msgctxt "8F32D5FB"
+msgid "~s~Go back and get ~b~Talbot."
+msgstr "~s~回去带上~b~Talbot。"
+
+msgctxt "A6077F48"
+msgid "~s~Go and see ~y~Talbot."
+msgstr "~s~去找~y~Talbot。"
+
+msgctxt "A61B0283"
+msgid "~s~Get a car."
+msgstr "~s~找一辆车。"
+
+msgctxt "A8B9111B"
+msgid ""
+"~s~When in a car, Talbot will give directions as you approach a junction."
+msgstr "~s~在车上时，每逢路口Talbot就会给出方向。"
+
+msgctxt "B96819EB"
+msgid "~s~Get a four door car."
+msgstr "~s~找一辆四门的车。"
+
+msgctxt "C84CF72B"
+msgid "~s~Put the phone away and listen to Talbot."
+msgstr "~s~别看手机了，听Talbot说话。"
+
+msgctxt "C9519445"
+msgid "~s~There are not enough seats for Talbot and Roman."
+msgstr "~s~没有足够的位置给Talbot和Roman坐。"
+
+msgctxt "CD4DAA50"
+msgid "~s~Are you Crazy!? You're going against the traffic!."
+msgstr "~s~你疯了吗！？你这是违反交规！"
+
+msgctxt "CD63CE00"
+msgid "~s~Wait for ~b~Roman."
+msgstr "~s~等待~b~Roman。"
+
+msgctxt "DB32699D"
+msgid "~s~Wait for ~b~Talbot."
+msgstr "~s~等待~b~Talbot。"
+
+msgctxt "DD2132B6"
+msgid "~s~Go back and get ~b~Roman~s~ and ~b~Talbot."
+msgstr "~s~回去带上~b~Roman~s~和~b~Talbot。"
+
+msgctxt "E1A6F99A"
+msgid "~s~Go and see ~b~Talbot."
+msgstr "~s~去找~b~Talbot。"
+
+msgctxt "EE5C3E40"
+msgid "~r~Roman is dead.~s~"
+msgstr "~r~Roman死了。~s~"
+
+msgctxt "EEE29415"
+msgid "~s~Pick up ~b~Roman."
+msgstr "~s~去接~b~Roman。"
+
+msgctxt "EFBA12B0"
+msgid "~s~Get a car for you and Roman."
+msgstr "~s~给你和Roman找辆车。"
+
+msgctxt "F0EADF34"
+msgid "~r~Talbot has been injured.~s~"
+msgstr "~r~Talbot受伤了。~s~"
+
+msgctxt "F4315F8A"
+msgid "~s~Get in a car and follow Talbot's directions."
+msgstr "~s~找一辆车，跟从Talbot的导航。"
+
+msgctxt "FA3CAC90"
+msgid "~s~Go back and get ~b~Roman."
+msgstr "~s~回去带上~b~Roman。"

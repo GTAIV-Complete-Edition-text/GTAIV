@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FFDAUD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "E57E01"
+msgid "~z~Hi, how can I help you?"
+msgstr "~z~嗨，您需要点什么？"
+
+msgctxt "1107E53"
+msgid "~z~Hello, are you ready to order?"
+msgstr "~z~您好，您需要点些什么？"
+
+msgctxt "3F88674"
+msgid "100"
+msgstr "100"
+
+msgctxt "52699EE"
+msgid "100"
+msgstr "100"
+
+msgctxt "625BCEC"
+msgid "~z~Goodbye, have a nice day."
+msgstr "~z~再见，祝您生活愉快。"
+
+msgctxt "A2A908B"
+msgid "~z~Yes, what can I get you?"
+msgstr "~z~您需要点什么？"
+
+msgctxt "105EF4A8"
+msgid "FFD_BURGER_BYE"
+msgstr "FFD_BURGER_BYE"
+
+msgctxt "108ED1BE"
+msgid "~z~Bye, thanks for eating at Burger Shot."
+msgstr "~z~再见，吃得饱汉堡感谢您的光临。"
+
+msgctxt "3311D56F"
+msgid "100"
+msgstr "100"
+
+msgctxt "36A8CFBF"
+msgid "~z~Ay, hombre! That is disgusting!"
+msgstr "~z~啊老兄！太恶心了！"
+
+msgctxt "37FC3E14"
+msgid "100"
+msgstr "100"
+
+msgctxt "3A6BD3E2"
+msgid "FFD_FOOD_SERVE_MEAL"
+msgstr "FFD_FOOD_SERVE_MEAL"
+
+msgctxt "490E3E6E"
+msgid "FFD_FOOD_WHAT_WANT"
+msgstr "FFD_FOOD_WHAT_WANT"
+
+msgctxt "5CF190BB"
+msgid "~z~Goodbye."
+msgstr "~z~再见。"
+
+msgctxt "62AD3694"
+msgid "100"
+msgstr "100"
+
+msgctxt "664A92A6"
+msgid "FFD_FOOD_PLAYER_SICK"
+msgstr "FFD_FOOD_PLAYER_SICK"
+
+msgctxt "7228DACA"
+msgid "FFD_CLUCK_HI"
+msgstr "FFD_CLUCK_HI"
+
+msgctxt "73FE5BCA"
+msgid "FFD_BURGER_HI"
+msgstr "FFD_BURGER_HI"
+
+msgctxt "74DEEAC4"
+msgid "FFD_CLUCK_BYE"
+msgstr "FFD_CLUCK_BYE"
+
+msgctxt "83F70DA6"
+msgid "FFD_FOOD_BOUGHT_ENOUGH"
+msgstr "FFD_FOOD_BOUGHT_ENOUGH"
+
+msgctxt "9007C785"
+msgid "100"
+msgstr "100"
+
+msgctxt "9E55400A"
+msgid "100"
+msgstr "100"
+
+msgctxt "9F5D7C84"
+msgid "~z~There."
+msgstr "~z~给。"
+
+msgctxt "9FF6FDCB"
+msgid "~z~Here."
+msgstr "~z~给。"
+
+msgctxt "A1B02233"
+msgid "FFD_THANKS"
+msgstr "FFD_THANKS"
+
+msgctxt "A27282C2"
+msgid "~z~Here it is."
+msgstr "~z~请拿好。"
+
+msgctxt "A448E4C2"
+msgid "100"
+msgstr "100"
+
+msgctxt "ADB85CD6"
+msgid "100"
+msgstr "100"
+
+msgctxt "BB214D19"
+msgid "~z~Bye!"
+msgstr "~z~拜拜！"
+
+msgctxt "BB2310B7"
+msgid "~z~Ay, get outta here man!"
+msgstr "~z~喂，给我滚出去！"
+
+msgctxt "C84B2B07"
+msgid "~z~I ain't serving you no more."
+msgstr "~z~我不会给你点餐了。"
+
+msgctxt "CC07B816"
+msgid "~z~Hi, welcome to Cluckin' Bell, what can I get for you?"
+msgstr "~z~嗨！欢迎光临铛铛钟，您要点些什么？"
+
+msgctxt "D4426661"
+msgid "~z~Here you go."
+msgstr "~z~请拿好。"
+
+msgctxt "D6B1DF2D"
+msgid ""
+"~z~Thanks for choosing Burger Shot, where the burgers are bleedin' tasty."
+msgstr "~z~感谢光临吃得饱汉堡，这里的汉堡绝对美味。"
+
+msgctxt "DA5F92AB"
+msgid "~z~Thanks!"
+msgstr "~z~谢了！"
+
+msgctxt "DE765CF3"
+msgid "~z~Hello, welcome to Cluckin' Bell, how can I help you?"
+msgstr "~z~您好，欢迎光临铛铛钟，您需要点些什么？"
+
+msgctxt "E3CB7960"
+msgid "~z~Hi, welcome to Burger Shot, how can I help you?"
+msgstr "~z~嗨，欢迎光临吃得饱汉堡，您需要点些什么？"
+
+msgctxt "E8A4AF35"
+msgid "~z~Gracias."
+msgstr "~z~谢谢。"
+
+msgctxt "EF32DA9C"
+msgid "~z~Hi, what can I get you?"
+msgstr "~z~嗨，您想吃点什么？"
+
+msgctxt "F0E17C33"
+msgid "~z~No way, I ain't givin' you no more food."
+msgstr "~z~没门，我不会给你点餐了！"
+
+msgctxt "FB82D974"
+msgid "~z~Ay, man, now I gotta clean that shit up!"
+msgstr "~z~哎，现在我还得打扫这破玩意！"

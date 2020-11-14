@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BELL6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "3045166"
+msgid "~s~Tap ~ACCEPT~ repeatedly to climb back onto the truck."
+msgstr "~s~连按~ACCEPT~重新爬上卡车。"
+
+msgctxt "677F79D"
+msgid "~s~Drive the truck to the ~y~old mansion."
+msgstr "~s~将卡车开到~y~老宅。"
+
+msgctxt "BAD25BA"
+msgid "~s~Make your way to the front of the truck."
+msgstr "~s~爬到卡车前端。"
+
+msgctxt "1833A330"
+msgid ""
+"~s~Use ~PAD_SIXAXIS_RELOAD~ to hang on while the truck goes around corners."
+msgstr "~s~卡车转弯时，用~PAD_SIXAXIS_RELOAD~抓牢卡车。"
+
+msgctxt "1933CE09"
+msgid "~s~Tap ~INPUT_JUMP~ repeatedly to pull yourself onto the truck's roof."
+msgstr "~s~连按~INPUT_JUMP~爬到卡车顶部。"
+
+msgctxt "286041DE"
+msgid "~s~Tap ~INPUT_JUMP~ repeatedly to climb back onto the truck."
+msgstr "~s~连按~INPUT_JUMP~重新爬上卡车。"
+
+msgctxt "4010E377"
+msgid "~s~Tap ~ACCEPT~ repeatedly to climb back onto the truck."
+msgstr "~s~连按~ACCEPT~重新爬上卡车。"
+
+msgctxt "56631D43"
+msgid "~s~Use ~PAD_LSTICK_UP~ to advance to the front of the cab."
+msgstr "~s~用~PAD_LSTICK_UP~前进到驾驶室前方。"
+
+msgctxt "6590BB9E"
+msgid ""
+"~s~Use ~PAD_LSTICK_DOWN~ to hang on while the truck goes around corners."
+msgstr "~s~卡车转弯时，用~PAD_LSTICK_DOWN~抓牢卡车。"
+
+msgctxt "79E2E442"
+msgid "~s~Use ~PAD_LSTICK_LEFT~ and ~PAD_LSTICK_RIGHT~ to roll left and right."
+msgstr "~s~用~PAD_LSTICK_LEFT~和~PAD_LSTICK_RIGHT~左右翻滚。"
+
+msgctxt "892F3EC5"
+msgid "~s~Go to the ~y~alley."
+msgstr "~s~前往~y~小巷。"
+
+msgctxt "96254905"
+msgid "~s~The ~b~truck~s~ is escaping. Move to its rear to grab on."
+msgstr "~b~卡车~s~正在驶离，跑到车尾扒上卡车。"
+
+msgctxt "A0E699BF"
+msgid "~r~You have abandoned the truck."
+msgstr "~r~你抛弃了卡车。"
+
+msgctxt "A622974E"
+msgid "~r~The H was destroyed."
+msgstr "~r~海洛因被毁了。"
+
+msgctxt "A626E908"
+msgid "~s~Steal the ~b~truck."
+msgstr "~s~偷走~b~卡车。~s~"
+
+msgctxt "BCF7EA6F"
+msgid "~s~Tap ~PAD_A~ repeatedly to pull yourself onto the truck's roof."
+msgstr "~s~连按~PAD_A~爬到卡车顶部。"
+
+msgctxt "C24161E6"
+msgid "~r~The truck with the H in it got away."
+msgstr "~r~装有海洛因的卡车逃掉了。"
+
+msgctxt "CB85F9F0"
+msgid "~s~Use ~PAD_SIXAXIS_PITCH~ to advance to the front of the cab."
+msgstr "~s~用~PAD_SIXAXIS_PITCH~前进到驾驶室前方。"
+
+msgctxt "D9A3DA29"
+msgid "~s~Use ~PAD_SIXAXIS_ROLL~ to roll left and right."
+msgstr "~s~用~PAD_SIXAXIS_ROLL~左右翻滚。"
+
+msgctxt "EFDDA59C"
+msgid "~s~Get back in the ~b~truck."
+msgstr "~s~回到~b~卡车~s~上。"
+
+msgctxt "F607AB8F"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通缉度。"
+
+msgctxt "FFEA0E34"
+msgid "~s~Climb onto the back of the truck."
+msgstr "~s~爬上卡车尾部。"

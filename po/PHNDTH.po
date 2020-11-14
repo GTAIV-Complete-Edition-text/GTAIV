@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PHNDTH\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "EA9B9C0"
+msgid "Get out of there and lose the wanted level."
+msgstr "离开这个区域并降低你的通缉度。"
+
+msgctxt "1A5B5F6F"
+msgid "~s~Detonate the bomb."
+msgstr "~s~引爆炸弹。"
+
+msgctxt "1C5CD526"
+msgid ""
+"Clear away any vehicles parked behind the Ancelottis' car before planting "
+"the bomb."
+msgstr "放置炸弹前，清除停在Ancelotti家族的车后面的所有汽车。"
+
+msgctxt "23017C1E"
+msgid ""
+"You already have a bomb, get to the Ancelottis' ~b~car~s~ and rig it with "
+"the bomb."
+msgstr "你手头有一个炸弹，去给~b~Ancelotti家族的车~s~装上炸弹。"
+
+msgctxt "2A17709B"
+msgid "Don't get too close or the Ancelottis will spot you."
+msgstr "不要跟得太紧，否则Ancelotti家族的人会发现你。"
+
+msgctxt "3A0E1BDC"
+msgid "Call Gerry to detonate the bomb."
+msgstr "打电话给Gerry引爆炸弹。"
+
+msgctxt "4F57466E"
+msgid "You have found the car that needs to be rigged with the bomb."
+msgstr "你找到了需要安装炸弹的汽车。"
+
+msgctxt "54F8499C"
+msgid "Pick up the ~g~bomb~s~ on Inchon Ave."
+msgstr "去Inchon大道拿~g~炸弹。~s~"
+
+msgctxt "56251104"
+msgid "Use the phone to call Gerry."
+msgstr "使用手机打给Gerry。"
+
+msgctxt "65A2EAF1"
+msgid "~R~The wrong car was rigged with the bomb.~s~"
+msgstr "~R~炸弹装在了错误的车上。~s~"
+
+msgctxt "76B51529"
+msgid "~r~You failed to follow the Ancelottis to the meeting.~s~"
+msgstr "~r~你没能跟着Ancelotti家族的人找到会议地点。~s~"
+
+msgctxt "7F6E1E87"
+msgid "Put the bomb in the trunk of the ~b~car."
+msgstr "把炸弹装到~b~汽车~s~的后备箱下。"
+
+msgctxt "844AB054"
+msgid "~R~You failed to detonate the bomb."
+msgstr "~R~你没能引爆炸弹。"
+
+msgctxt "8AD5BD52"
+msgid "Go to the Ancelottis' ~b~car~s~ and rig it with the bomb."
+msgstr "找到~b~Ancelotti家族的车，~s~给它装上炸弹。"
+
+msgctxt "8D47BA3A"
+msgid "Lose your wanted level and then rig the car with bomb."
+msgstr "降低你的通缉度，然后在汽车上安装炸弹。"
+
+msgctxt "9A99DCF2"
+msgid "Go to a ~y~safe point~s~ and detonate the bomb."
+msgstr "去~y~安全的地方~s~引爆炸弹。"
+
+msgctxt "9DAD57C9"
+msgid "Press ~INPUT_PICKUP~ to rig the car."
+msgstr "按~INPUT_PICKUP~安装炸弹。"
+
+msgctxt "A117E1DA"
+msgid "~R~You let the driver escape before killing him.~s~"
+msgstr "~R~你没能杀死司机，被他逃了。~s~"
+
+msgctxt "A8201921"
+msgid "Lose your wanted level before the Ancelottis leave for the meeting."
+msgstr "在Ancelotti家族的人前往据点前降低你的通缉度。"
+
+msgctxt "AA3DF0EA"
+msgid "Get a car before the Ancelottis leave for the meeting."
+msgstr "在Ancelotti家族成员动身前往据点前找到一辆车。"
+
+msgctxt "ABD87F6F"
+msgid "Take out the remaining ~r~Ancelottis."
+msgstr "干掉余下~r~Ancelotti家族成员。"
+
+msgctxt "AD0604C6"
+msgid "Go to the back of the Ancelottis' ~b~car~s~ to rig it with the bomb."
+msgstr "到~b~Ancelotti家族的车~s~的后方给它装上炸弹，"
+
+msgctxt "B6EA0D7E"
+msgid "~R~The bomb was destroyed.~s~"
+msgstr "~R~炸弹被摧毁了。~s~"
+
+msgctxt "B9190EA0"
+msgid "Follow the ~r~Ancelottis~s~. Don't let them know you're following them."
+msgstr "尾随~r~Ancelotti家族的人。~s~别让他们发现你在跟踪他们。"
+
+msgctxt "BADFA079"
+msgid "Lose your wanted level before rigging the car."
+msgstr "在安装炸弹前降低你的通缉度。"
+
+msgctxt "C475A895"
+msgid "~s~You better back off, don't spook the ~r~Ancelottis."
+msgstr "~s~你最好退后些，不要惊动~r~Ancelotti家族的人。"
+
+msgctxt "C600A86F"
+msgid "Get a vehicle and move ~y~away~s~ from the rigged car."
+msgstr "找一辆车，并~y~远离~s~被安装炸弹的汽车。"
+
+msgctxt "D9C85E4A"
+msgid "Select 'Detonate' to explode the bomb."
+msgstr "选择「引爆」来引爆炸弹。"
+
+msgctxt "DA5CD463"
+msgid "Get closer to the ~r~Ancelottis."
+msgstr "跟紧~r~Ancelotti家族的人。"
+
+msgctxt "E3736354"
+msgid "~r~You damaged the Ancelottis' car, the meeting is cancelled."
+msgstr "~r~你损坏了Ancelotti家族的车，会面取消了。"
+
+msgctxt "EA1173CC"
+msgid "~R~The Ancelottis got away."
+msgstr "~R~Ancelotti家族成员跑了。"
+
+msgctxt "FEF81A5D"
+msgid "~r~The Ancelottis discovered the bomb."
+msgstr "~r~Ancelotti家族的人发现了炸弹。"
+
+msgctxt "FFCF9F48"
+msgid "~R~You spooked the Ancelottis, the meeting has been abandoned."
+msgstr "~R~你惊动了Ancelotti家族的人，会议被取消了。"

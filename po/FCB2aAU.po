@@ -1,0 +1,555 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FCB2aAU\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "2627461"
+msgid ""
+"~z~Wipe the gunk out of your face and get in your chopper, I need you to get "
+"me."
+msgstr "~z~把你脸上的液体都擦了然后上直升机吧，我需要你来接。"
+
+msgctxt "278D967"
+msgid "~z~No skin off my back, NB. That's all cool baby. Another time."
+msgstr "~z~我无所谓，NB。怎么样都行，宝贝。那就下次吧。"
+
+msgctxt "43E0CB5"
+msgid "100"
+msgstr "100"
+
+msgctxt "47DB128"
+msgid "010"
+msgstr "010"
+
+msgctxt "10C21124"
+msgid ""
+"~z~If you don't want to be disturbed, then turn off your phone. I need a "
+"lift in your chopper."
+msgstr "~z~你要是不想有人烦你，就直接关机吧。我需要你开直升机来接我。"
+
+msgctxt "133D0C6D"
+msgid "100"
+msgstr "100"
+
+msgctxt "1360E3B9"
+msgid "~z~NB - I'm getting out of the hospital, man - can you pick me up?"
+msgstr "~z~NB，我要出院了，兄弟。你能来接我吗？"
+
+msgctxt "13DF0B9E"
+msgid "~z~Brucie man, those naked chicks are gonna have to wait. Another time."
+msgstr "~z~Brucie兄弟，那些脱衣舞女只能再等等了。下次吧。"
+
+msgctxt "16356790"
+msgid "100"
+msgstr "100"
+
+msgctxt "1A1530C7"
+msgid "010"
+msgstr "010"
+
+msgctxt "1DA86F69"
+msgid "~z~Wow, thanks, Brucie, I appreciate that."
+msgstr "~z~哇哦，谢了，Brucie，我很感谢。"
+
+msgctxt "1EFF637D"
+msgid "FCB2_ACT_PBR_GETCALL_HOSP_YES"
+msgstr "FCB2_ACT_PBR_GETCALL_HOSP_YES"
+
+msgctxt "20E8B72D"
+msgid "FCB2_ACT_PBR_CALL_HOSP_CANCEL"
+msgstr "FCB2_ACT_PBR_CALL_HOSP_CANCEL"
+
+msgctxt "235AE9C3"
+msgid "FCB2_ACT_GETCALL_SPEC"
+msgstr "FCB2_ACT_GETCALL_SPEC"
+
+msgctxt "23B9D84B"
+msgid "010"
+msgstr "010"
+
+msgctxt "289B0E2D"
+msgid ""
+"~z~Homie, it's Brucie - I'm getting out of the hospital bro - can you pick "
+"me up?"
+msgstr "~z~哥们儿，我是Brucie，我要出院了兄弟，你能来接我吗？"
+
+msgctxt "295BEC08"
+msgid "FCB2_ACT_PBR_CALL_HELI_CANCEL"
+msgstr "FCB2_ACT_PBR_CALL_HELI_CANCEL"
+
+msgctxt "2BEC4CB9"
+msgid "~z~NB, come on man, I was asleep. What is it?"
+msgstr "~z~NB，别这样兄弟，我还在睡觉呢。什么事？"
+
+msgctxt "2D3E5A0A"
+msgid "FCB2_ACT_PBR_CALL_REQ_SPEC"
+msgstr "FCB2_ACT_PBR_CALL_REQ_SPEC"
+
+msgctxt "2D5176E1"
+msgid "100"
+msgstr "100"
+
+msgctxt "2D8D4031"
+msgid "010"
+msgstr "010"
+
+msgctxt "2E760801"
+msgid "FCB2_ACT_PBR_CALL_HILIKE"
+msgstr "FCB2_ACT_PBR_CALL_HILIKE"
+
+msgctxt "2FEA48EC"
+msgid "~z~On my way, Brucie."
+msgstr "~z~这就来，Brucie。"
+
+msgctxt "315F8210"
+msgid "FCB2_ACT_PBR_CALL_CANCEL_SPEC"
+msgstr "FCB2_ACT_PBR_CALL_CANCEL_SPEC"
+
+msgctxt "32A7B38D"
+msgid "FCB2_A_OA"
+msgstr "FCB2_A_OA"
+
+msgctxt "331D019A"
+msgid "~z~Brucie, I need that helicopter ride now."
+msgstr "~z~Brucie，我现在就需要乘直升机。"
+
+msgctxt "34E67F4C"
+msgid "100"
+msgstr "100"
+
+msgctxt "3561959B"
+msgid "FCB2_ACT_PBR_CALL_MEDLIKE"
+msgstr "FCB2_ACT_PBR_CALL_MEDLIKE"
+
+msgctxt "36F37867"
+msgid "100"
+msgstr "100"
+
+msgctxt "3B0DBDCB"
+msgid "010"
+msgstr "010"
+
+msgctxt "3C155238"
+msgid ""
+"~z~Sorry Brucie, can't pick you up no more, take the subway or something."
+msgstr "~z~抱歉，Brucie，没法来接你了，改坐地铁之类的吧。"
+
+msgctxt "3C400FC2"
+msgid "100"
+msgstr "100"
+
+msgctxt "3D9BCFAC"
+msgid "~z~Don't worry about it, NB. Another time."
+msgstr "~z~没关系，NB。改天再约。"
+
+msgctxt "3DED007F"
+msgid "~z~Sorry, Brucie, I can't make it to the hospital."
+msgstr "~z~抱歉，Brucie，我来不了医院了。"
+
+msgctxt "3EFCC2AC"
+msgid "~z~Sorry, Brucie. I gotta cancel our meal."
+msgstr "~z~抱歉，Brucie。我们的聚餐得取消了。"
+
+msgctxt "4006268D"
+msgid "100"
+msgstr "100"
+
+msgctxt "40EA1C70"
+msgid "FCB2_ACT_PBR_CALL_LOLIKE"
+msgstr "FCB2_ACT_PBR_CALL_LOLIKE"
+
+msgctxt "417466C8"
+msgid ""
+"~z~Hey man, me and you are gonna have to get horny together another time. "
+"Right now won't do."
+msgstr "~z~喂，兄弟，我们只能改天再去寻欢作乐了。现在去不了。"
+
+msgctxt "4194EC41"
+msgid ""
+"~z~Sure, Brucie - glad you're getting out - I'll be there in an hour or less."
+msgstr "~z~当然，Brucie，很高兴你出院了。我大概在一小时内能到。"
+
+msgctxt "42576D5F"
+msgid ""
+"~z~Brucie, sorry but I need to take a raincheck on that Heli ride. Hope "
+"that's cool."
+msgstr "~z~Brucie，很抱歉，但我们的直升机之旅得推迟了。希望没关系。"
+
+msgctxt "4320A1A1"
+msgid "~z~Brucie, can you pick me up? In the helicopter man."
+msgstr "~z~Brucie，能来接我吗？开直升机来，兄弟。"
+
+msgctxt "4446BCEE"
+msgid "010"
+msgstr "010"
+
+msgctxt "49365616"
+msgid "FCB2_ACT_PBR_CALL_LIFT_CANCEL"
+msgstr "FCB2_ACT_PBR_CALL_LIFT_CANCEL"
+
+msgctxt "4A89EFDE"
+msgid "~z~Sorry Brucie, you'll have to find your own way home."
+msgstr "~z~抱歉，Brucie，你得自己回去了。"
+
+msgctxt "4ACC6FA6"
+msgid ""
+"~z~Hey Brucie, I can't give you that ride no more, hope you've got some "
+"walking shoes on."
+msgstr "~z~喂，Brucie，我没法来接你了，希望你穿的鞋适合走路。"
+
+msgctxt "4CBA29EF"
+msgid "~z~Roger that - no problem."
+msgstr "~z~收到，没问题。"
+
+msgctxt "4D323528"
+msgid ""
+"~z~Hey - amigo, that's a diss man, I'm just getting out of the hospital."
+msgstr "~z~嘿，大兄弟，真是绝情，我才刚出院诶。"
+
+msgctxt "4E13A0F6"
+msgid "100"
+msgstr "100"
+
+msgctxt "5035637F"
+msgid "010"
+msgstr "010"
+
+msgctxt "545CFD48"
+msgid "FCB2_ACT_GETCALL_HOSP_REJ_LOLIKE"
+msgstr "FCB2_ACT_GETCALL_HOSP_REJ_LOLIKE"
+
+msgctxt "547527F0"
+msgid ""
+"~z~I just wanted to say - you ever need a lift in the helicopter, gimme a "
+"call alright, yeah."
+msgstr "~z~跟你打声招呼，如果你需要直升机载你一程，就给我打个电话，好吧？"
+
+msgctxt "5B898B69"
+msgid "010"
+msgstr "010"
+
+msgctxt "621C535C"
+msgid ""
+"~z~Sorry man, looks like I can't hit the river with you. Some other time."
+msgstr "~z~抱歉，兄弟，看来我没法和你一起乘风破浪了。以后再说吧。"
+
+msgctxt "65851314"
+msgid "~z~Brucie, sorry about this but I gotta cancel our bowling date."
+msgstr "~z~Brucie，很对不起，我们约好的保龄球必须得取消了。"
+
+msgctxt "67BBEF79"
+msgid ""
+"~z~Yeah no worries, man - I know how it is making your way in this game. "
+"I'll make my own way home."
+msgstr "~z~没关系，兄弟，我也知道你在这个游戏里要过来不容易。我自己回家吧。"
+
+msgctxt "688F6C7E"
+msgid "~z~Brucie, can you pick me up in that chopper?"
+msgstr "~z~Brucie，你能开直升机来接我吗？"
+
+msgctxt "6A8E4741"
+msgid "FCB2_ACT_PBR_CALL_BOAT_CANCEL"
+msgstr "FCB2_ACT_PBR_CALL_BOAT_CANCEL"
+
+msgctxt "6B3CB9D9"
+msgid "FCB2_ACT_GETCALL_HOSP_REJ_MEDLIKE"
+msgstr "FCB2_ACT_GETCALL_HOSP_REJ_MEDLIKE"
+
+msgctxt "745C32E5"
+msgid "010"
+msgstr "010"
+
+msgctxt "756F570A"
+msgid "~z~That's why we're tight, man - that's why we're in this together."
+msgstr "~z~所以我们才是铁哥们嘛，兄弟。所以我们才会在一起。"
+
+msgctxt "75BE061B"
+msgid "FCB2_ACT_CALL_REQ_SPEC_YES"
+msgstr "FCB2_ACT_CALL_REQ_SPEC_YES"
+
+msgctxt "776EFCAF"
+msgid ""
+"~z~Love to but the thing is in the shop just now - some problem with the "
+"left wing, I mean rotor blade."
+msgstr "~z~我也想啊，不过店里现在有点事情，左翼那边出了问题，说的是直升机的机翼。"
+
+msgctxt "7DE7A626"
+msgid "010"
+msgstr "010"
+
+msgctxt "7EE58CEE"
+msgid ""
+"~z~Can't actually do that boating with you no more Brucie. Another time."
+msgstr "~z~暂时是没法跟你去开快艇了，Brucie。改天吧。"
+
+msgctxt "850A3D40"
+msgid "FCB2_ACT_GETCALL_HOSP_ASK"
+msgstr "FCB2_ACT_GETCALL_HOSP_ASK"
+
+msgctxt "857519BA"
+msgid ""
+"~z~I should have got a limo organized or something - my bad - no problem."
+msgstr "~z~我就该自己先安排好专车来接的，怪我。没关系。"
+
+msgctxt "87547AD4"
+msgid "~z~Thanks man. See you soon."
+msgstr "~z~谢了兄弟。回头见。"
+
+msgctxt "899120F3"
+msgid "~z~I'd love to, but it's fucked just now, bro."
+msgstr "~z~我也想啊，不过它刚好出毛病了，兄弟。"
+
+msgctxt "8B6CC6E8"
+msgid "FCB2_ACT_CALL_REQ_SPEC_NO"
+msgstr "FCB2_ACT_CALL_REQ_SPEC_NO"
+
+msgctxt "90AB6DC6"
+msgid "FCB2_ACT_PBR_CALL_SHOW_CANCEL"
+msgstr "FCB2_ACT_PBR_CALL_SHOW_CANCEL"
+
+msgctxt "92C92B27"
+msgid ""
+"~z~Thanks, man, and I hope you can sense the lack of warmth in my voice, man."
+msgstr "~z~谢了，兄弟，希望你能感受到我声音中缺乏的温暖，兄弟。"
+
+msgctxt "934E4BDA"
+msgid "100"
+msgstr "100"
+
+msgctxt "94F2B8B9"
+msgid "~z~Okay - I know how it is, making moves and taking over!"
+msgstr "~z~好了，我也知道情况，忙着你的宏图霸业是吧！"
+
+msgctxt "9627B19F"
+msgid "FCB2_ACT_GETCALL_HOSP_REJ_HILIKE"
+msgstr "FCB2_ACT_GETCALL_HOSP_REJ_HILIKE"
+
+msgctxt "97B17B81"
+msgid "~z~You're not a real winner, anyway."
+msgstr "~z~你这不算是真正的赢家，算了。"
+
+msgctxt "98D879FC"
+msgid "~z~Sure, no problem, bro."
+msgstr "~z~当然，没问题，兄弟。"
+
+msgctxt "9FBC5AD7"
+msgid "~z~Brucie - it's Niko - I really need you and your helicopter."
+msgstr "~z~Brucie，我是Niko，现在急需你和你的直升机。"
+
+msgctxt "A3DE53C1"
+msgid "FCB2_ACT_PBR_CALL_BOWL_CANCEL"
+msgstr "FCB2_ACT_PBR_CALL_BOWL_CANCEL"
+
+msgctxt "A57680E6"
+msgid "100"
+msgstr "100"
+
+msgctxt "A7BAD250"
+msgid "FCB2_ACT_PBR_CALL_DRINK_CANCEL"
+msgstr "FCB2_ACT_PBR_CALL_DRINK_CANCEL"
+
+msgctxt "A9E19030"
+msgid "FCB2_ACT_CALL_HOSP_CANCEL_LOLIKE"
+msgstr "FCB2_ACT_CALL_HOSP_CANCEL_LOLIKE"
+
+msgctxt "ADA9342A"
+msgid "010"
+msgstr "010"
+
+msgctxt "AE2C648D"
+msgid "010"
+msgstr "010"
+
+msgctxt "AFFD2791"
+msgid "~z~That's how we roll - NB - in the sky!"
+msgstr "~z~这就是我们的路，NB，上天！"
+
+msgctxt "B0B42EE3"
+msgid "FCB2_ACT_GETCALL_HOSP_ACCEPT"
+msgstr "FCB2_ACT_GETCALL_HOSP_ACCEPT"
+
+msgctxt "B156382B"
+msgid "~z~Brucie - I'm cool - I don't need the chopper just now after all."
+msgstr "~z~Brucie，没事了，刚才说的直升机现在不需要了。"
+
+msgctxt "B274294F"
+msgid "FCB2_ACT_CALL_REQ_SPEC_END"
+msgstr "FCB2_ACT_CALL_REQ_SPEC_END"
+
+msgctxt "B3E5661A"
+msgid ""
+"~z~Shit, if that's the way you're playing me. Don't take me for granted "
+"though."
+msgstr "~z~我靠，你拿我开玩笑是吧。别把我们的友谊当作理所当然。"
+
+msgctxt "B8A883FB"
+msgid "~z~Brucie, sorry but I can't go drinking with you."
+msgstr "~z~Brucie，很抱歉，我没法跟你去喝酒了。"
+
+msgctxt "BA8489A2"
+msgid "FCB2_ACT_PBR_CALL_GAMES_CANCEL"
+msgstr "FCB2_ACT_PBR_CALL_GAMES_CANCEL"
+
+msgctxt "BDA7C2E6"
+msgid "~z~No worries, bro."
+msgstr "~z~没问题，兄弟。"
+
+msgctxt "C96344BD"
+msgid "100"
+msgstr "100"
+
+msgctxt "CA3B2724"
+msgid "~z~Hey Brucie. Sorry but we can't get that drink right now."
+msgstr "~z~喂，Brucie。很抱歉，不过我们现在没法去喝酒了。"
+
+msgctxt "CD149EFE"
+msgid "100"
+msgstr "100"
+
+msgctxt "CDA39029"
+msgid ""
+"~z~Shit, man. You're lucky this chick just went home, I wouldn't be up "
+"otherwise. What you need?"
+msgstr "~z~我靠，兄弟。运气不错，那女人刚回家，否则我就没空了。你需要什么？"
+
+msgctxt "CDB09B82"
+msgid "FCB2_ACT_PBR_CALL_STRIP_CANCEL"
+msgstr "FCB2_ACT_PBR_CALL_STRIP_CANCEL"
+
+msgctxt "D01F5C9E"
+msgid "~z~Alright, man. Whatever. Hopefully see you soon bro."
+msgstr "~z~好吧，兄弟。随你吧。希望早点再见啊，哥们儿。"
+
+msgctxt "D1977DF7"
+msgid "~z~Sorry, man, I'm kind of busy right now."
+msgstr "~z~抱歉，兄弟，我现在有点忙。"
+
+msgctxt "D344EE92"
+msgid "~z~Sorry Brucie, I can't actually go bowling with you right now."
+msgstr "~z~抱歉Brucie，我现在没法跟你去打保龄球了。"
+
+msgctxt "D359EE4A"
+msgid "~z~Sure, I'm on my way."
+msgstr "~z~当然，我过来了。"
+
+msgctxt "D3FD4D89"
+msgid "010"
+msgstr "010"
+
+msgctxt "D547B278"
+msgid "FCB2_ACT_PBR_GETCALL_SPEC_END"
+msgstr "FCB2_ACT_PBR_GETCALL_SPEC_END"
+
+msgctxt "DB399DCE"
+msgid "FCB2_ACT_CALL_HOSP_CANCEL_MEDLIKE"
+msgstr "FCB2_ACT_CALL_HOSP_CANCEL_MEDLIKE"
+
+msgctxt "DD6687E2"
+msgid "~z~Shit Brucie, I'm not in the mood for game no more. Raincheck."
+msgstr "~z~靠，Brucie，我现在没心情去玩了。改天吧。"
+
+msgctxt "DE82C131"
+msgid "100"
+msgstr "100"
+
+msgctxt "DE96F98D"
+msgid "~z~Shit, NB. I was looking forward to that. Another time, man."
+msgstr "~z~我靠，NB。本来我很期待的。那就下次吧，兄弟。"
+
+msgctxt "DF3D8735"
+msgid "FCB2_ACT_CALL_HOSP_CANCEL_HILIKE"
+msgstr "FCB2_ACT_CALL_HOSP_CANCEL_HILIKE"
+
+msgctxt "DFDDAF58"
+msgid ""
+"~z~My bad man, well, now that you're awake, I need you to come in the heli."
+msgstr "~z~我的错，兄弟，好吧，既然你都醒了，就麻烦你开直升机过来吧。"
+
+msgctxt "E07BD9DD"
+msgid ""
+"~z~Sorry Brucie, something came up. I can't hit that show with you. Another "
+"time."
+msgstr "~z~抱歉，Brucie，突然有点事。我没法和你一起去看表演了。改天吧。"
+
+msgctxt "E4093326"
+msgid "FCB2_ACT_PBR_REQ_SPEC_SLEEP"
+msgstr "FCB2_ACT_PBR_REQ_SPEC_SLEEP"
+
+msgctxt "E6341647"
+msgid "100"
+msgstr "100"
+
+msgctxt "E7C895B5"
+msgid "010"
+msgstr "010"
+
+msgctxt "EB187502"
+msgid "010"
+msgstr "010"
+
+msgctxt "EC7CE9A6"
+msgid "100"
+msgstr "100"
+
+msgctxt "EE184BCD"
+msgid "~z~Wake up Brucie, I need you and your chopper."
+msgstr "~z~醒醒，Brucie，我需要你和你的直升机。"
+
+msgctxt "EE9CAA4E"
+msgid ""
+"~z~Brucie man, something's come up. We're gonna have to game another time."
+msgstr "~z~Brucie兄弟，我突然有点急事。我们得改天出去玩了。"
+
+msgctxt "F128D733"
+msgid ""
+"~z~Jesus, NB. Brucie don't like his beauty sleep interrupted, bro. What do "
+"you need?"
+msgstr "~z~天哪，NB。Brucie不喜欢有人打搅他的美容觉，兄弟。你要干嘛？"
+
+msgctxt "F46DC52B"
+msgid "FCB2_ACT_PBR_CALL_EAT_CANCEL"
+msgstr "FCB2_ACT_PBR_CALL_EAT_CANCEL"
+
+msgctxt "F5932FDA"
+msgid "~z~Brucie, we can't eat together right now. Another time."
+msgstr "~z~Brucie，我们现在没法一起去吃饭了。下次吧。"
+
+msgctxt "F89059D2"
+msgid ""
+"~z~Don't mean to disappoint, Brucie. But I can't do that chopper ride, I'm "
+"sorry."
+msgstr "~z~我也不想扫你的兴，Brucie。但我没法如约来乘直升机了，很抱歉。"
+
+msgctxt "F94CDE87"
+msgid "010"
+msgstr "010"
+
+msgctxt "FA897361"
+msgid ""
+"~z~Okay, NB. At least you didn't stand me up. Next time keep your word "
+"though, stupid."
+msgstr "~z~好吧，NB。至少你没放我鸽子。下次说话算话好吧，白痴。"
+
+msgctxt "FB92C70B"
+msgid "FCB2_ACT_PBR_GETCALL_HOSP_NO"
+msgstr "FCB2_ACT_PBR_GETCALL_HOSP_NO"
+
+msgctxt "FE850E2F"
+msgid ""
+"~z~You're pathetic Niko - I'm the kind of person you should try to impress."
+msgstr "~z~你真可悲，Niko。我才是你需要留下印象的人。"
+
+msgctxt "FF8B73F8"
+msgid ""
+"~z~Nicky, you woke me up and I'm gonna be puffy in the morning. This better "
+"be good, fuck."
+msgstr "~z~Nikcy，你吵醒我了，这样的话我白天就会浮肿。最好别出事，操。"

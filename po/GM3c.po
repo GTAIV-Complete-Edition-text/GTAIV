@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GM3c\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "E96A3AD"
+msgid "~r~Gracie is dead.~s~"
+msgstr "~r~Gracie死了。~s~"
+
+msgctxt "FADCB8F"
+msgid "Get out of the building."
+msgstr "从房子里出来。"
+
+msgctxt "130E2310"
+msgid "Take a photo of ~b~Gracie."
+msgstr "拍一张~b~Gracie的照片。"
+
+msgctxt "4184A990"
+msgid "~s~Get Gracie's face in the shot."
+msgstr "~s~拍到Gracie的脸。"
+
+msgctxt "4C3ED4E6"
+msgid "~s~Go downstairs to the safehouse."
+msgstr "~s~下楼前往安全屋。"
+
+msgctxt "51721D51"
+msgid "~s~Go upstairs to the safehouse."
+msgstr "~s~上楼前往安全屋。"
+
+msgctxt "6DBFD75B"
+msgid "~s~Take the photo now."
+msgstr "~s~立刻拍照。"
+
+msgctxt "7229EC48"
+msgid "~s~Press ~INPUT_PICKUP~ to get her to look at you."
+msgstr "~s~按~INPUT_PICKUP~让她看向你。"
+
+msgctxt "79ADE30A"
+msgid "~s~Take a photo then send it to Packie."
+msgstr "~s~拍下照片后发送给Packie。"
+
+msgctxt "CD4F06F1"
+msgid "Send the photo to Packie."
+msgstr "发送照片给Packie。"
+
+msgctxt "D342332E"
+msgid "~r~Gordon is dead.~s~"
+msgstr "~r~Gordon死了。~s~"
+
+msgctxt "E13F6B09"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通缉度。"

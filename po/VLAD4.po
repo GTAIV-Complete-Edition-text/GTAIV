@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VLAD4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "10E65C46"
+msgid "~s~Hold ~INPUT_SPRINT~ while climbing a ladder to climb faster."
+msgstr "~s~爬梯子时按住~INPUT_SPRINT~可以爬得更快。"
+
+msgctxt "1113AE6A"
+msgid "~r~Ivan got away."
+msgstr "~r~Ivan逃掉了。"
+
+msgctxt "1A17D265"
+msgid ""
+"~s~When an enemy's icon flashes between blue and red you have the choice "
+"between killing them and letting them live. Your decision could have "
+"repercussions."
+msgstr "~s~当敌人的标志出现红蓝闪烁时，你可以选择杀死或放过对方，你的决定可能会对后续情节造成影响。"
+
+msgctxt "1BBD71F4"
+msgid "~s~Press ~INPUT_JUMP~ while running to jump between buildings."
+msgstr "~s~奔跑时按~INPUT_JUMP~可以在建筑之间跳跃。"
+
+msgctxt "21EBF7C1"
+msgid "~s~Go to ~y~Roman's garage."
+msgstr "~s~前往~y~Roman的车行。"
+
+msgctxt "2AD70997"
+msgid "~r~Ivan~s~ is already making an escape. Chase him."
+msgstr "~r~Ivan~s~正在逃跑，追上他。"
+
+msgctxt "3D7FAEE8"
+msgid "~s~Chase ~r~Ivan."
+msgstr "~s~追上~r~Ivan。"
+
+msgctxt "4116DB10"
+msgid "~s~Choose ~b~Ivan's~s~ fate."
+msgstr "~s~决定~b~Ivan~s~的命运。"
+
+msgctxt "6E2716CA"
+msgid ""
+"~s~Press ~INPUT_ENTER~ to mount the ladder. Use ~PAD_LSTICK_UPDOWN~ to move "
+"up and down on the ladder."
+msgstr "~s~按~INPUT_ENTER~登上梯子，用~PAD_LSTICK_UPDOWN~在梯子上攀爬。"
+
+msgctxt "77E42A44"
+msgid "~s~Use the ladders to chase Ivan through the building site."
+msgstr "~s~爬上梯子追赶试图穿过工地的Ivan。"
+
+msgctxt "956CD959"
+msgid "~r~Ivan~s~ is escaping into the construction site. Chase him."
+msgstr "~r~Ivan~s~逃进了建筑工地，追上他。"
+
+msgctxt "AD66EF29"
+msgid "~s~Choose ~r~Ivan's~s~ fate."
+msgstr "~s~决定~r~Ivan~s~的命运。"
+
+msgctxt "BF2438C3"
+msgid "~s~Press ~INPUT_JUMP~ to climb over objects or walls."
+msgstr "~s~按~INPUT_JUMP~翻越障碍物或墙。"
+
+msgctxt "E9965FD5"
+msgid "~s~Use ~INPUT_SPRINT~ while climbing a ladder to climb faster."
+msgstr "~s~爬梯子时按~INPUT_SPRINT~可以爬得更快。"
+
+msgctxt "ED7B9571"
+msgid ""
+"~s~Press ~INPUT_PICKUP~ to help Ivan up. Press ~INPUT_MELEE_KICK~ to kick "
+"Ivan off the edge."
+msgstr "~s~按~INPUT_PICKUP~救起Ivan，按~INPUT_MELEE_KICK~把Ivan踹下楼。"

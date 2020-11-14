@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DERRIC2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "77AE9FA"
+msgid "~r~Derrick is dead.~s~"
+msgstr "~r~Derrick死了。~s~"
+
+msgctxt "D4CC87A"
+msgid "~s~Follow ~b~Kim."
+msgstr "~s~跟着~b~Kim。"
+
+msgctxt "26495260"
+msgid ""
+"Press ~INPUT_ATTACK~ to fire. A rocket will not reach its destination "
+"instantly, for moving targets try anticipating where they might move."
+msgstr "按~INPUT_ATTACK~开火。火箭弹不会立刻击中目标，攻击移动目标时应预判提前量。"
+
+msgctxt "2CFE5FC6"
+msgid "Press ~PAD_Y~ to stand on the deck of the boat."
+msgstr "按~PAD_Y~站到船的甲板上。"
+
+msgctxt "3A317A2C"
+msgid ""
+"Hold ~INPUT_AIM~ to aim the rocket launcher. Use ~PAD_RSTICK_ALL~ to move "
+"the crosshair."
+msgstr "按住~INPUT_AIM~拿起火箭发射器瞄准。用~PAD_RSTICK_ALL~移动准星。"
+
+msgctxt "3D4F10AC"
+msgid "~s~Get in ~b~Derrick's~s~ boat."
+msgstr "~s~进入~b~Derrick~s~的船。"
+
+msgctxt "3E2631B1"
+msgid "~s~Stay close to Kim's boat. Protect him from the ~r~attackers~s~."
+msgstr "~s~靠近Kim的船。保护他不受~r~袭击者~s~伤害。"
+
+msgctxt "4695CCF9"
+msgid "~r~You abandoned Derrick.~s~"
+msgstr "~r~你丢下了Derrick。~s~"
+
+msgctxt "507A7B10"
+msgid "Kim health: ~1~"
+msgstr "Kim的生命值：~1~"
+
+msgctxt "5A1F69A3"
+msgid "~s~Get back to the ~b~boat's~s~ controls."
+msgstr "~s~回去开~b~船。"
+
+msgctxt "6909077A"
+msgid "~s~Follow ~b~Kim~s~."
+msgstr "~s~跟着~b~Kim。"
+
+msgctxt "6AD7CD69"
+msgid "~s~Don't leave ~b~Derrick~s~ behind."
+msgstr "~s~别把~b~Derrick~s~丢在后面。"
+
+msgctxt "6EB5963E"
+msgid "~s~Go to ~b~Kim's boat."
+msgstr "~s~去找~b~Kim的船。"
+
+msgctxt "7179DB48"
+msgid "~r~Derrick's boat has been beached.~s~"
+msgstr "~r~Derrick的船搁浅了。~s~"
+
+msgctxt "8A8C6596"
+msgid "~r~You've lost Kim's boat.~s~"
+msgstr "~r~你跟丢了Kim的船。~s~"
+
+msgctxt "8D8C4201"
+msgid ""
+"Use ~INPUT_AIM~ to aim the rocket launcher. Use ~PAD_RSTICK_ALL~ to move the "
+"crosshair."
+msgstr "用~INPUT_AIM~拿起火箭发射器瞄准。用~PAD_RSTICK_ALL~移动准星。"
+
+msgctxt "945DDE23"
+msgid "~s~Use the rocket launcher to shoot down the ~r~chopper~s~."
+msgstr "~s~用火箭发射器打下~r~直升机~s~。"
+
+msgctxt "99CC2E84"
+msgid "~PAD_LB~ focus on Kim's boat."
+msgstr "按~PAD_LB~看向Kim的船。"
+
+msgctxt "9A949517"
+msgid "~r~Kim's boat has capsized.~s~"
+msgstr "~r~Kim的船翻了。~s~"
+
+msgctxt "A0E9DF1C"
+msgid "~s~Go to ~y~Derrick's boat."
+msgstr "~s~登上~y~Derrick的船。"
+
+msgctxt "A2BB7ADE"
+msgid "~s~Move away from the front of ~b~Kim's boat~s~."
+msgstr "~s~不要挡在~b~Kim的船~s~前面。"
+
+msgctxt "A3AEC6CC"
+msgid "~r~Derrick's boat has been wrecked.~s~"
+msgstr "~r~Derrick的船被毁了。~s~"
+
+msgctxt "AAA48AE4"
+msgid "~s~Eliminate every ~r~attacker.~s~"
+msgstr "~s~消灭所有~r~袭击者。~s~"
+
+msgctxt "AE6711F5"
+msgid "~r~Derrick's boat has capsized.~s~"
+msgstr "~r~Derrick的船翻了。~s~"
+
+msgctxt "BF5979A5"
+msgid "~r~Kim's boat has been wrecked.~s~"
+msgstr "~r~Kim的船被毁了。~s~"
+
+msgctxt "C5CD6554"
+msgid "~r~Kim's boat has been beached.~s~"
+msgstr "~r~Kim的船搁浅了。~s~"
+
+msgctxt "CADAF5C3"
+msgid "~s~Shoot down the ~r~chopper."
+msgstr "~s~打下~r~直升机。"
+
+msgctxt "CDEA8653"
+msgid "~s~Protect Kim from the ~r~attackers."
+msgstr "~s~保护Kim免受~r~袭击者~s~的伤害。"
+
+msgctxt "E110F7BC"
+msgid "~r~You did not follow Kim.~s~"
+msgstr "~r~你没有跟住Kim。~s~"
+
+msgctxt "EA615D89"
+msgid "~r~Kim is dead.~s~"
+msgstr "~r~Kim死了。~s~"

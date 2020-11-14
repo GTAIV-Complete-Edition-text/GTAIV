@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JIMMY4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "BABC85A"
+msgid "~r~Ray got away."
+msgstr "~r~Ray逃走了。"
+
+msgctxt "1DFA6CF7"
+msgid "~r~Ray was spooked."
+msgstr "~r~Ray被惊动了。"
+
+msgctxt "1E4E6DAF"
+msgid "~s~Head over to ~y~East Holland~s~ and look for Ray."
+msgstr "~s~前往~y~East Holland~s~寻找Ray的踪迹。"
+
+msgctxt "484A430E"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通缉度。"
+
+msgctxt "6BB409E1"
+msgid "~s~Don't get too close or you might be spotted."
+msgstr "~s~不要跟得太近，否则你会被发现的。"
+
+msgctxt "7EA1AFBC"
+msgid "~s~You need a car."
+msgstr "~s~你需要一辆车。"
+
+msgctxt "A1067485"
+msgid "~s~You were spotted!"
+msgstr "~s~你被发现了！"
+
+msgctxt "C2C936A6"
+msgid "~s~Exterminate ~r~Ray and his bodyguards."
+msgstr "~s~除掉~r~Ray和他的保镖。"
+
+msgctxt "D5085B24"
+msgid "~s~Watch out for ~r~Ray's~s~ bodyguards."
+msgstr "~s~小心~r~Ray~s~的保镖。"
+
+msgctxt "E3A2F859"
+msgid "~s~Drive up to the pay kiosk. The toll is $5."
+msgstr "~s~开车通过收费站，过路费5美元。"
+
+msgctxt "EAE506CD"
+msgid "~s~Slow down to pay the toll, you don't want to attract attention."
+msgstr "~s~付费时减速慢行，不要引起注意。"
+
+msgctxt "FA26A550"
+msgid "~s~Press ~PAD_LB~ to raise the barrier."
+msgstr "~s~按~PAD_LB~以升起栏杆。"

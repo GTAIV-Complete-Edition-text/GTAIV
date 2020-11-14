@@ -1,0 +1,259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AXISTUT\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "2CF4EF5"
+msgid "~s~You can use ~PAD_SIXAXIS_PITCH~ to adjust the trim.~n~_~n~_~n~"
+msgstr "~s~你可以用~PAD_SIXAXIS_PITCH~控制方向。~n~_~n~_~n~"
+
+msgctxt "873FE5F"
+msgid ""
+"~s~Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to "
+"brake."
+msgstr "~s~按~INPUT_VEH_ACCELERATE~加速。按~INPUT_VEH_BRAKE~制动。"
+
+msgctxt "8A0EC25"
+msgid "~s~SIXAXIS™ Tutorial failed."
+msgstr "~s~SIXAXIS™教程失败。"
+
+msgctxt "100839FC"
+msgid "~s~Use SIXAXIS™ to fly the helicopter through the ~y~markers."
+msgstr "~s~利用SIXAXIS™将直升机开过~y~标记。"
+
+msgctxt "13FE2F6D"
+msgid "~s~Get back on the ~b~bike."
+msgstr "~s~回到~b~摩托~s~上。"
+
+msgctxt "1D365458"
+msgid ""
+"~s~Use ~PAD_SIXAXIS_PITCH~ and hold ~INPUT_VEH_FLY_THROTTLE_UP~ to "
+"accelerate forwards.~n~_~n~_~n~"
+msgstr "~s~用~PAD_SIXAXIS_PITCH~并按住~INPUT_VEH_FLY_THROTTLE_UP~加速前进。~n~_~n~_~n~"
+
+msgctxt "1D83C32B"
+msgid "~s~Reload your weapon using SIXAXIS™."
+msgstr "~s~使用SIXAXIS™换弹。"
+
+msgctxt "2233C7CE"
+msgid "You can use SIXAXIS™ to control boats."
+msgstr "你可以用SixAxis™驾驶船只。"
+
+msgctxt "271DB173"
+msgid ""
+"~s~Use ~PAD_SIXAXIS_PITCH~ and hold ~INPUT_VEH_FLY_THROTTLE_UP~ to "
+"accelerate forwards."
+msgstr "~s~用~PAD_SIXAXIS_PITCH~并按住~INPUT_VEH_FLY_THROTTLE_UP~加速前进。"
+
+msgctxt "2B5BF0A3"
+msgid "~s~Hold ~INPUT_VEH_FLY_THROTTLE_DOWN~ to decrease your altitude."
+msgstr "~s~按住~INPUT_VEH_FLY_THROTTLE_DOWN~降低你的高度。"
+
+msgctxt "35FF859C"
+msgid "~s~You can use ~PAD_SIXAXIS_PITCH~ to adjust the trim."
+msgstr "~s~你可以用~PAD_SIXAXIS_PITCH~控制方向。"
+
+msgctxt "40350CBD"
+msgid "You can use SIXAXIS™ to control bikes."
+msgstr "你可以用SIXAXIS™驾驶摩托。"
+
+msgctxt "43B317B2"
+msgid "You can use SIXAXIS™ to control helicopters."
+msgstr "你可以用SIXAXIS™驾驶直升机。"
+
+msgctxt "476FC2BE"
+msgid "~r~The bike got stuck."
+msgstr "~r~摩托坏了。"
+
+msgctxt "4C49E1C7"
+msgid "~s~Use ~PAD_SIXAXIS_ROLL~ to steer the bike."
+msgstr "~s~用~PAD_SIXAXIS_ROLL~控制方向。"
+
+msgctxt "5C664B03"
+msgid ""
+"Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake."
+msgstr "按~INPUT_VEH_ACCELERATE~加速。按~INPUT_VEH_BRAKE~制动。"
+
+msgctxt "5D90358E"
+msgid "~r~You left the airport and canceled the SIXAXIS™ tutorial."
+msgstr "~r~你离开了机场，取消了SIXAXIS™教程。"
+
+msgctxt "675939F9"
+msgid ""
+"SIXAXIS™ can be overridden at any time by using ~PAD_LSTICK_ALL~ and "
+"~PAD_RSTICK_ALL~ when appropriate."
+msgstr "你随时可以用~PAD_LSTICK_ALL~和~PAD_RSTICK_ALL~覆盖SIXAXIS™的操作，只要你喜欢。"
+
+msgctxt "69C23B2C"
+msgid ""
+"Use ~PAD_SIXAXIS_ROLL~ and ~PAD_SIXAXIS_PITCH~ to bank the helicopter in the "
+"direction you wish to move."
+msgstr "用~PAD_SIXAXIS_ROLL~和~PAD_SIXAXIS_PITCH~让直升机向您想移动的方向倾斜。"
+
+msgctxt "73DA9136"
+msgid "~s~Use ~PAD_SIXAXIS_PITCH~ to adjust the trim."
+msgstr "~s~用~PAD_SIXAXIS_PITCH~控制方向。"
+
+msgctxt "76261C2D"
+msgid "~s~Use ~PAD_SIXAXIS_ROLL~ to steer the helicopter."
+msgstr "~s~用~PAD_SIXAXIS_ROLL~驾驶直升机。"
+
+msgctxt "77D56117"
+msgid ""
+"~s~Use ~PAD_SIXAXIS_PITCH~ whilst driving to lean forward or "
+"backwards.~n~_~n~_~n~"
+msgstr "~s~用~PAD_SIXAXIS_PITCH~在驾驶时向前或向后倾斜。~n~_~n~_~n~"
+
+msgctxt "78ABDA55"
+msgid "~r~You destroyed the boat."
+msgstr "~r~你摧毁了船。"
+
+msgctxt "7C7F61D2"
+msgid ""
+"Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to increase your altitude or "
+"~INPUT_VEH_FLY_THROTTLE_DOWN~ to decrease your altitude."
+msgstr ""
+"按住~INPUT_VEH_FLY_THROTTLE_UP~增加你的高度，按住~INPUT_VEH_FLY_THROTTLE_DOWN~降低你的高度。"
+
+msgctxt "805A2D51"
+msgid "~r~The boat got stuck."
+msgstr "~r~船已损坏。"
+
+msgctxt "82A71630"
+msgid "~s~Use ~PAD_SIXAXIS_ROLL~ to steer the bike.~n~_~n~_~n~"
+msgstr "~s~用~PAD_SIXAXIS_ROLL~驾驶摩托。~n~_~n~_~n~"
+
+msgctxt "8DC18CF3"
+msgid "~s~Use SIXAXIS™ to perform a stunt."
+msgstr "~s~用SIXAXIS™完成一个特技。"
+
+msgctxt "8F90B907"
+msgid "~s~Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to increase your altitude."
+msgstr "~s~按住~INPUT_VEH_FLY_THROTTLE_UP~增加你的高度。"
+
+msgctxt "90E08B7C"
+msgid "~r~You destroyed the bike."
+msgstr "~r~你摧毁了摩托。"
+
+msgctxt "946A9417"
+msgid ""
+"~s~SIXAXIS™ is enabled throughout this tutorial. It can be turned off/on by "
+"going to Controls in the front end menu and selecting SIXAXIS™."
+msgstr "~s~本教程中会启用SIXAXIS™。你可以在暂停菜单的操作设置中开关SIXAXIS™。"
+
+msgctxt "9721EA9E"
+msgid "~s~SIXAXIS™ Tutorial complete."
+msgstr "~s~SIXAXIS™教程完成。"
+
+msgctxt "9B76285C"
+msgid ""
+"~s~You can use SIXAXIS™ to shift your weight forwards and backwards whilst "
+"on a bike. This will allow you to perform stunts such as stoppies and "
+"wheelies."
+msgstr "~s~你可以用SIXAXIS™在摩托上向前和向后移动重心。可以借此完成翘孤轮和前轮行驶等特技。"
+
+msgctxt "A53DE58D"
+msgid "~s~Use ~PAD_SIXAXIS_PITCH~ whilst driving to lean forward or backwards."
+msgstr "~s~驾驶时用~PAD_SIXAXIS_PITCH~向前或向后倾斜。"
+
+msgctxt "A5EA9531"
+msgid "~s~Get back into the ~b~boat."
+msgstr "~s~回到~b~船~s~上。"
+
+msgctxt "AD3CCBE9"
+msgid "~s~Use ~PAD_SIXAXIS_ROLL~ to steer the bike."
+msgstr "~s~用~PAD_SIXAXIS_ROLL~驾驶摩托。"
+
+msgctxt "AF497217"
+msgid "~s~Land at the ~y~marker."
+msgstr "~s~降落在~y~标记处。"
+
+msgctxt "BADD9696"
+msgid "~s~You must remain at the airport to complete the SIXAXIS™ tutorial."
+msgstr "~s~你必须留在机场才能完成SIXAXIS™教程。"
+
+msgctxt "BB080FF5"
+msgid "~s~Use ~PAD_SIXAXIS_ROLL~ to steer the helicopter.~n~_~n~_~n~"
+msgstr "~s~用~PAD_SIXAXIS_ROLL~驾驶直升机。~n~_~n~_~n~"
+
+msgctxt "BD32F598"
+msgid "~r~The helicopter got stuck."
+msgstr "~r~直升机已损坏。"
+
+msgctxt "C2A87092"
+msgid "~s~Throughout the game you can use SIXAXIS™ control."
+msgstr "~s~在整个游戏中你都可以使用SIXAXIS™控制。"
+
+msgctxt "C2D18DC4"
+msgid "~s~SIXAXIS™ can be used to reload your weapon."
+msgstr "~s~SIXAXIS™可被用于换弹。"
+
+msgctxt "C866AAB2"
+msgid "~s~Take off and increase your altitude."
+msgstr "~s~起飞并提升高度。"
+
+msgctxt "C8F52034"
+msgid "~s~Go to the ~y~marker."
+msgstr "~s~前往~y~标记处。"
+
+msgctxt "CEBD2C94"
+msgid ""
+"Press ~INPUT_VEH_FLY_YAW_LEFT~ and ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the "
+"helicopter left and right."
+msgstr "按~INPUT_VEH_FLY_YAW_LEFT~或~INPUT_VEH_FLY_YAW_RIGHT~左右旋转直升机。"
+
+msgctxt "D2F7175D"
+msgid "~s~Use SIXAXIS™ to steer the bike through the ~y~markers."
+msgstr "~s~用SIXAXIS™驾驶摩托通过~y~标记。"
+
+msgctxt "D3242E69"
+msgid "~s~Use ~PAD_SIXAXIS_RELOAD~ to reload the pistol.~n~_~n~_~n~"
+msgstr "~s~用~PAD_SIXAXIS_RELOAD~给手枪换弹。~n~_~n~_~n~"
+
+msgctxt "D8691F2A"
+msgid "~s~Use ~PAD_SIXAXIS_ROLL~ to steer the boat.~n~_~n~_~n~"
+msgstr "~s~用~PAD_SIXAXIS_ROLL~控制船只方向。~n~_~n~_~n~"
+
+msgctxt "DD5B840E"
+msgid "~s~Use SIXAXIS™ to steer the boat through the ~y~markers."
+msgstr "~s~用SIXAXIS™驾驶船穿过~y~标记。"
+
+msgctxt "E2D944F7"
+msgid "~s~Use ~PAD_SIXAXIS_ROLL~ to steer the boat."
+msgstr "~s~用~PAD_SIXAXIS_ROLL~控制船只方向。"
+
+msgctxt "E4486275"
+msgid "~s~Use SIXAXIS™ to fly forwards into the ~y~marker."
+msgstr "~s~用SIXAXIS™向前飞入~y~标记。"
+
+msgctxt "E6173655"
+msgid "~s~Use ~PAD_SIXAXIS_RELOAD~ to reload the pistol."
+msgstr "~s~用~PAD_SIXAXIS_RELOAD~给手枪换弹。"
+
+msgctxt "E693BD54"
+msgid "~s~Get back into the ~b~helicopter."
+msgstr "~s~回到~b~直升机~s~上。"
+
+msgctxt "EBA620A3"
+msgid "~s~Use ~PAD_SIXAXIS_ROLL~ to steer the boat."
+msgstr "~s~用~PAD_SIXAXIS_ROLL~控制船只方向。"
+
+msgctxt "F0C2C5E2"
+msgid "~r~You destroyed the helicopter."
+msgstr "~r~你摧毁了直升机。"
+
+msgctxt "F3717848"
+msgid ""
+"By enabling the Auto Pitch Calibration option in the Controls menu, upon "
+"entering a vehicle the current pitch of the SIXAXIS™ is used as the central "
+"pitch position for all vehicle controls."
+msgstr "通过启用「控制」菜单中的「自动位置校准」选项，进入载具后，SIXAXIS™的当前位置将被定为所有载具控制的基准位置。"

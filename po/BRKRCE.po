@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BRKRCE\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "44EA6DB"
+msgid "~s~Bring the car to a stop."
+msgstr "~s~停车。"
+
+msgctxt "879AF29"
+msgid "~b~Go!"
+msgstr "~b~Go!"
+
+msgctxt "1290435E"
+msgid "~s~Go and collect the ~b~race car."
+msgstr "~s~去取那辆~b~赛车。"
+
+msgctxt "138D4670"
+msgid "~s~1st"
+msgstr "~s~1st"
+
+msgctxt "16CA4BCA"
+msgid "~r~You failed to get back into your car on time."
+msgstr "~r~你没能及时回到你的车上。"
+
+msgctxt "17ACC80B"
+msgid "~s~You've lost the race."
+msgstr "~s~你输掉了比赛。"
+
+msgctxt "24106656"
+msgid "~s~You have ~1~ seconds to get back in your car."
+msgstr "~s~在~1~秒内回到车上。"
+
+msgctxt "2AA36DF8"
+msgid "~s~Line up your car."
+msgstr "~s~对齐你的赛车。"
+
+msgctxt "2E417BD8"
+msgid "~s~Press ~INPUT_VEH_CIN_CAM~ ~s~ to look at the next checkpoint."
+msgstr "~s~按~INPUT_VEH_CIN_CAM~~s~看向下一个检查点。"
+
+msgctxt "40F19A94"
+msgid "~r~The race car got trashed."
+msgstr "~r~比赛用车报废了。"
+
+msgctxt "52BC3E29"
+msgid "~r~Brucie is out of action."
+msgstr "~r~Brucie再起不能。"
+
+msgctxt "6AC274F1"
+msgid "~s~2"
+msgstr "~s~2"
+
+msgctxt "6B227479"
+msgid "~s~1"
+msgstr "~s~1"
+
+msgctxt "780508C2"
+msgid "~s~You've left ~b~Brucie ~s~behind."
+msgstr "~s~你丢下了~b~Brucie。"
+
+msgctxt "96504C14"
+msgid "~r~You failed to win the race."
+msgstr "~r~你没能赢得比赛。"
+
+msgctxt "A11B61AA"
+msgid "~s~3"
+msgstr "~s~3"
+
+msgctxt "A4246100"
+msgid "~r~The race was sabotaged."
+msgstr "~r~比赛被迫中止。"
+
+msgctxt "B2680443"
+msgid "~s~4th"
+msgstr "~s~4th"
+
+msgctxt "CC9838A3"
+msgid "~s~Winner."
+msgstr "~s~冠军。"
+
+msgctxt "DF5DD772"
+msgid "~s~Take Brucie ~y~home."
+msgstr "~s~送Brucie~y~回家。"
+
+msgctxt "E003DF7A"
+msgid "~s~2nd"
+msgstr "~s~2nd"
+
+msgctxt "E8A6EF8C"
+msgid "~s~Get back in your ~b~car."
+msgstr "~s~回到你的~b~车~s~上。"
+
+msgctxt "E950F214"
+msgid "~s~3rd"
+msgstr "~s~3rd"
+
+msgctxt "F6658B09"
+msgid "~s~Go to the race ~y~start."
+msgstr "~s~前往比赛~y~起点。"

@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ROMAN6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "301AA95"
+msgid ""
+"Use ~INPUT_PREV_WEAPON~ and ~INPUT_NEXT_WEAPON~ to cycle through weapons."
+msgstr "使用~INPUT_PREV_WEAPON~和~INPUT_NEXT_WEAPON~切换武器。"
+
+msgctxt "7E43332"
+msgid "Kill Little Jacob's ~r~enemies."
+msgstr "杀了Little Jacob的~r~敌人。"
+
+msgctxt "9A24DA2"
+msgid "Get Little Jacob back to the ~y~cafe."
+msgstr "送Little Jacob回~y~咖啡馆。"
+
+msgctxt "16AD51EC"
+msgid ""
+"The target icon will indicate the height of your ~y~destination~s~ in "
+"relation to you with an up or down arrow."
+msgstr "目标图标会通过上下箭头表示~y~目的地~s~相对于你的位置。"
+
+msgctxt "1AEE5946"
+msgid "You left ~b~Little Jacob~s~ behind, go get him."
+msgstr "你把~b~Little Jacob~s~落下了，回去找他。"
+
+msgctxt "21E780A3"
+msgid ""
+"When locked onto enemies you can switch between targets using "
+"~PAD_RSTICK_LEFTRIGHT~."
+msgstr "锁定敌人时，你可以通过~PAD_RSTICK_LEFTRIGHT~切换目标。"
+
+msgctxt "286FF571"
+msgid "Go to ~y~Schottler."
+msgstr "前往~y~Schottler。"
+
+msgctxt "2C7DFC65"
+msgid ""
+"Crouch to stay out of sight. Use ~INPUT_DUCK~ to crouch, this will make your "
+"aim more accurate."
+msgstr "蹲下以不被发现。按~INPUT_DUCK~蹲下，蹲下时瞄准精度更高。"
+
+msgctxt "2DF19640"
+msgid "Wait for Little Jacob to get into position."
+msgstr "等待Little Jacob就位。"
+
+msgctxt "3A701BBD"
+msgid "Press ~INPUT_RELOAD~ or use ~PAD_SIXAXIS_RELOAD~ to reload."
+msgstr "按~INPUT_RELOAD~或使用~PAD_SIXAXIS_RELOAD~装弹。"
+
+msgctxt "3F332303"
+msgid "You've been given a pistol."
+msgstr "你得到了一把手枪。"
+
+msgctxt "414CBF6D"
+msgid ""
+"Hold ~INPUT_AIM~ to lock onto enemies. Press ~INPUT_ATTACK~ to fire your "
+"weapon."
+msgstr "按住~INPUT_AIM~锁定敌人。按下~INPUT_ATTACK~开火。"
+
+msgctxt "4250C175"
+msgid "Press ~INPUT_RELOAD~ to reload."
+msgstr "按~INPUT_RELOAD~装弹。"
+
+msgctxt "4A0938A3"
+msgid "Go to the ~y~lookout spot."
+msgstr "前往~y~制高点。"
+
+msgctxt "54EFCE70"
+msgid "Any weapon you pick up will go into your weapon inventory."
+msgstr "你得到的任何武器都会保存到你的武器栏。"
+
+msgctxt "5EDCF80E"
+msgid ""
+"The target icon will indicate the height of the ~r~enemy~s~ in relation to "
+"you with an up or down arrow."
+msgstr "目标图标会通过上下箭头表示~r~敌人~s~相对于你的位置。"
+
+msgctxt "90024370"
+msgid "Lose your wanted level."
+msgstr "降低你的通缉度。"
+
+msgctxt "A4FAF0C9"
+msgid "Use ~PAD_SIXAXIS_RELOAD~ to reload."
+msgstr "使用~PAD_SIXAXIS_RELOAD~装弹。"
+
+msgctxt "B3208AD4"
+msgid "Select the weapon Little Jacob gave you."
+msgstr "选择Little Jacob给你的武器。"
+
+msgctxt "B76B2935"
+msgid "Go and pick up ~b~Little Jacob."
+msgstr "去接~b~Little Jacob。"
+
+msgctxt "B96B99AA"
+msgid "Stay close to Little Jacob."
+msgstr "待在Little Jacob附近。"
+
+msgctxt "C4F32E79"
+msgid "~r~Little Jacob is dead."
+msgstr "~r~Little Jacob死了。"
+
+msgctxt "C555AE16"
+msgid ""
+"Press ~INPUT_VEH_HORN~ to sound the horn to get Little Jacob's attention."
+msgstr "按~INPUT_VEH_HORN~鸣笛引起Little Jacob注意。"
+
+msgctxt "D8E0552B"
+msgid "Press ~INPUT_DUCK~ while crouched to stand."
+msgstr "蹲下时按~INPUT_DUCK~站起。"
+
+msgctxt "E1B18BCC"
+msgid "Use ~INPUT_FREE_AIM~ and ~PAD_RSTICK_ALL~ to aim at enemies."
+msgstr "使用~INPUT_FREE_AIM~和~PAD_RSTICK_ALL~瞄准敌人。"
+
+msgctxt "E8FC131D"
+msgid ""
+"Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim at enemies. Press ~INPUT_ATTACK~ "
+"to fire your weapon."
+msgstr "使用~INPUT_AIM~和~PAD_RSTICK_ALL~瞄准敌人。~n~按~INPUT_ATTACK~开火。"

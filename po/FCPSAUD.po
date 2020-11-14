@@ -1,0 +1,980 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FCPSAUD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "5590A2"
+msgid "010"
+msgstr "010"
+
+msgctxt "F178FA"
+msgid "~z~Sure, man. You'll find some in Varsity Heights."
+msgstr "~z~当然，兄弟。你会在Varsity Heights找到的。"
+
+msgctxt "1C41B57"
+msgid "FCP_ACT_CALL_REQ_SPEC_EXCHANGE"
+msgstr "FCP_ACT_CALL_REQ_SPEC_EXCHANGE"
+
+msgctxt "5D37FBB"
+msgid "~z~Niko man, I left them in Acter for ya."
+msgstr "~z~Niko兄弟，我把东西给你扔在Acter了。"
+
+msgctxt "70E3C9F"
+msgid "FCP_ACT_CALL_REQ_SPEC_PRESIDENTS_CITY"
+msgstr "FCP_ACT_CALL_REQ_SPEC_PRESIDENTS_CITY"
+
+msgctxt "8C9B427"
+msgid "100"
+msgstr "100"
+
+msgctxt "8DCA6DE"
+msgid "100"
+msgstr "100"
+
+msgctxt "B73236F"
+msgid "100"
+msgstr "100"
+
+msgctxt "B8F68A5"
+msgid "010"
+msgstr "010"
+
+msgctxt "C0DF82D"
+msgid "~z~Sure thing man, I've hidden some in Fishmarket South."
+msgstr "~z~当然了，兄弟，我已经在Fishmarket South藏了一些了。"
+
+msgctxt "C48053C"
+msgid "~z~You'll find some I stashed for you in Presidents City."
+msgstr "~z~我在Presidents City给你藏了一些，你可以去那儿拿。"
+
+msgctxt "CEC5328"
+msgid "100"
+msgstr "100"
+
+msgctxt "D33FF80"
+msgid "010"
+msgstr "010"
+
+msgctxt "D799D58"
+msgid "FCP_ACT_GETCALL_SPEC"
+msgstr "FCP_ACT_GETCALL_SPEC"
+
+msgctxt "ED9D9D4"
+msgid "FCP_ACT_CALL_REQ_SPEC_DOWNTOWN"
+msgstr "FCP_ACT_CALL_REQ_SPEC_DOWNTOWN"
+
+msgctxt "102A8F89"
+msgid "FCP_ACT_CALL_REQ_SPEC_LITTLE_BAY"
+msgstr "FCP_ACT_CALL_REQ_SPEC_LITTLE_BAY"
+
+msgctxt "10B34C91"
+msgid "~z~Packie, man. I can't make it to the hospital no more."
+msgstr "~z~Packie，兄弟，我没法来医院了。"
+
+msgctxt "11BDB8C4"
+msgid ""
+"~z~Hey man, I'm discharging me self from hospital. Can you give me a lift?"
+msgstr "~z~嘿，兄弟，我从医院出院了，你能来接我吗？"
+
+msgctxt "11E884B8"
+msgid "100"
+msgstr "100"
+
+msgctxt "145FDCBB"
+msgid "FCP_ACT_PPK_GETCALL_HOSP_YES"
+msgstr "FCP_ACT_PPK_GETCALL_HOSP_YES"
+
+msgctxt "174EE3BB"
+msgid "100"
+msgstr "100"
+
+msgctxt "1858D626"
+msgid "100"
+msgstr "100"
+
+msgctxt "1882B412"
+msgid "FCP_ACT_CALL_REQ_SPEC_LITTLE_ITALY"
+msgstr "FCP_ACT_CALL_REQ_SPEC_LITTLE_ITALY"
+
+msgctxt "1A9B5177"
+msgid "100"
+msgstr "100"
+
+msgctxt "1AE65BCC"
+msgid "FCP_ACT_CALL_REQ_SPEC_STAR_JUNCTION"
+msgstr "FCP_ACT_CALL_REQ_SPEC_STAR_JUNCTION"
+
+msgctxt "1B9AC9F5"
+msgid "100"
+msgstr "100"
+
+msgctxt "1B9C74FE"
+msgid "FCP_ACT_CALL_REQ_SPEC_OUTLOOK_PARK"
+msgstr "FCP_ACT_CALL_REQ_SPEC_OUTLOOK_PARK"
+
+msgctxt "1CCF70A7"
+msgid ""
+"~z~Alright man, I'll try to get a nurse to give me a lift. Might even get "
+"some action."
+msgstr "~z~好吧兄弟，那我试试找护士送我回去，可能还会擦出火花。"
+
+msgctxt "1CFBDD7B"
+msgid "~z~You're a piece of shit, Niko. You really are."
+msgstr "~z~你丫就是坨屎，Niko。真的。"
+
+msgctxt "1D46A3D3"
+msgid "~z~Alright Niko. I've ditched some for you in Hove Beach."
+msgstr "~z~好的，Niko。我在Hove Beach给你留了一些。"
+
+msgctxt "1FA80AF1"
+msgid "FCP_ACT_CALL_REQ_SPEC_BEECHWOOD_CITY"
+msgstr "FCP_ACT_CALL_REQ_SPEC_BEECHWOOD_CITY"
+
+msgctxt "22759646"
+msgid "FCP_ACT_CALL_REQ_SPEC_EASTON"
+msgstr "FCP_ACT_CALL_REQ_SPEC_EASTON"
+
+msgctxt "22E44324"
+msgid "~z~Okay man. I should be there in the next hour."
+msgstr "~z~好的，兄弟，我一小时内就来。"
+
+msgctxt "23C93857"
+msgid "~z~Alright Niko. I ditched some for you in The Triangle."
+msgstr "~z~好吧，Niko。我在The Triangle给你留了些。"
+
+msgctxt "2550960E"
+msgid "FCP_ACT_CALL_REQ_SPEC_NORTHWOOD"
+msgstr "FCP_ACT_CALL_REQ_SPEC_NORTHWOOD"
+
+msgctxt "26850C24"
+msgid "~z~Okay Niko, I've left some in North Holland."
+msgstr "~z~好的Niko，我在North Holland留了一些。"
+
+msgctxt "2807C803"
+msgid "~z~Niko man, I left them in Tudor for ya."
+msgstr "~z~Niko兄弟，东西我给你放在Tudor了。"
+
+msgctxt "29BBFE93"
+msgid "~z~You motherfucker. I'll remember this."
+msgstr "~z~你个狗逼，我会记住的。"
+
+msgctxt "29CAA9AB"
+msgid "FCP_ACT_CALL_HOSP_CANCEL_LOLIKE"
+msgstr "FCP_ACT_CALL_HOSP_CANCEL_LOLIKE"
+
+msgctxt "2AECDBCB"
+msgid "FCP_ACT_CALL_REQ_SPEC_MEADOWS_PARK"
+msgstr "FCP_ACT_CALL_REQ_SPEC_MEADOWS_PARK"
+
+msgctxt "2B00087B"
+msgid "~z~Sure, man. You'll find some in Fortside."
+msgstr "~z~当然，兄弟，你会在Fortside找到的。"
+
+msgctxt "2B6BFCEB"
+msgid "~z~Sure thing man, I've hidden some in The Exchange."
+msgstr "~z~当然了兄弟，我已经在The Exchange藏了一些了。"
+
+msgctxt "2C0B940D"
+msgid "FCP_ACT_CALL_REQ_SPEC_AIRPORT"
+msgstr "FCP_ACT_CALL_REQ_SPEC_AIRPORT"
+
+msgctxt "2C624859"
+msgid "100"
+msgstr "100"
+
+msgctxt "2D4DEF0D"
+msgid "100"
+msgstr "100"
+
+msgctxt "2E3EEB98"
+msgid "100"
+msgstr "100"
+
+msgctxt "2EF265C1"
+msgid "FCP_ACT_CALL_REQ_SPEC_NORTH_HOLLAND"
+msgstr "FCP_ACT_CALL_REQ_SPEC_NORTH_HOLLAND"
+
+msgctxt "311BA507"
+msgid "~z~Okay Niko, I've left some in Port Tudor."
+msgstr "~z~好的，Niko，我已经在Port Tudor放了一些。"
+
+msgctxt "31EB8A49"
+msgid "FCP_ACT_CALL_REQ_SPEC_CHASE_POINT"
+msgstr "FCP_ACT_CALL_REQ_SPEC_CHASE_POINT"
+
+msgctxt "323FBFBC"
+msgid "100"
+msgstr "100"
+
+msgctxt "326B9B4C"
+msgid "100"
+msgstr "100"
+
+msgctxt "3297A514"
+msgid "~z~Niko man, I left them in Acter Industrial for ya."
+msgstr "~z~Niko兄弟，我把东西放在Acter工业园了。"
+
+msgctxt "331451B8"
+msgid "~z~You'll find some I stashed for you in Middle Park West."
+msgstr "~z~你可以去中央公园西找我给你放着的那些。"
+
+msgctxt "33BF6E53"
+msgid "~z~You'll find some I stashed for you in Middle Park East."
+msgstr "~z~你可以去中央公园东找我给你放着的那些。"
+
+msgctxt "353AB7AE"
+msgid ""
+"~z~Fuck me, Niko. You really are cold. Someone else might give me a lift I "
+"guess."
+msgstr "~z~我操，Niko，你丫是真冷酷。我猜别人怎么着也得载我一程。"
+
+msgctxt "35D4FF2B"
+msgid "~z~You'll find some I stashed for you on Colony Island."
+msgstr "~z~你可以在Colony岛找到我给你留着的一些。"
+
+msgctxt "37367137"
+msgid "FCP_ACT_CALL_REQ_SPEC_FISHMARKET_NORTH"
+msgstr "FCP_ACT_CALL_REQ_SPEC_FISHMARKET_NORTH"
+
+msgctxt "37656C26"
+msgid "~z~Sure Packie, I'll pick you up in the next hour."
+msgstr "~z~当然了，Packie，我一小时内来接你。"
+
+msgctxt "39748F8D"
+msgid "FCP_ACT_CALL_REQ_SPEC_FIREFLY_PROJECTS"
+msgstr "FCP_ACT_CALL_REQ_SPEC_FIREFLY_PROJECTS"
+
+msgctxt "3D61CDE1"
+msgid "~z~Alright Niko. I've ditched some for you on Firefly Island."
+msgstr "~z~好的Niko。我已经在Firefly Island给你留了些。"
+
+msgctxt "3DBC6CAC"
+msgid "FCP_ACT_CALL_REQ_SPEC_SOUTH_SLOPES"
+msgstr "FCP_ACT_CALL_REQ_SPEC_SOUTH_SLOPES"
+
+msgctxt "415874B3"
+msgid "~z~Okay Niko, I've left some in Northwood."
+msgstr "~z~好的，Niko，我在Northwood留了一些。"
+
+msgctxt "421462CD"
+msgid "FCP_ACT_CALL_REQ_SPEC_STEINWAY"
+msgstr "FCP_ACT_CALL_REQ_SPEC_STEINWAY"
+
+msgctxt "449FE5C8"
+msgid "100"
+msgstr "100"
+
+msgctxt "46CEDB35"
+msgid "~z~Sure Niko, I've left some over in South Slopes."
+msgstr "~z~当然，Niko，我在South Slopes留了一些。"
+
+msgctxt "49CD473F"
+msgid ""
+"~z~Thanks, Packie. That could be real useful. I'll call you if something "
+"comes up."
+msgstr "~z~谢了，Packie。会很有用的。有事我再打给你。"
+
+msgctxt "4A70B300"
+msgid "100"
+msgstr "100"
+
+msgctxt "4EC034F1"
+msgid "FCP_ACT_CALL_REQ_SPEC_WESTDYKE"
+msgstr "FCP_ACT_CALL_REQ_SPEC_WESTDYKE"
+
+msgctxt "4F467D5E"
+msgid "FCP_ACT_CALL_REQ_SPEC_VARSITY_HEIGHTS"
+msgstr "FCP_ACT_CALL_REQ_SPEC_VARSITY_HEIGHTS"
+
+msgctxt "4F9B8D9C"
+msgid "100"
+msgstr "100"
+
+msgctxt "4FA6FE89"
+msgid "~z~Got it Niko. I've left some for you in North Gardens."
+msgstr "~z~了解，Niko。我已经在North Gardens给你留了些。"
+
+msgctxt "5134C947"
+msgid "010"
+msgstr "010"
+
+msgctxt "52708B1C"
+msgid "100"
+msgstr "100"
+
+msgctxt "539F3EC4"
+msgid "~z~Sure Niko, I've left some over in Beechwood City."
+msgstr "~z~当然，Niko，东西我已经放在Beechwood City了。"
+
+msgctxt "53F88DC7"
+msgid "FCP_ACT_CALL_REQ_SPEC_ACTER"
+msgstr "FCP_ACT_CALL_REQ_SPEC_ACTER"
+
+msgctxt "56828457"
+msgid "~z~Thanks Niko, you're a saviour, I'll wait."
+msgstr "~z~谢了，Niko，你就是我的救星啊，我会等你的。"
+
+msgctxt "56BF1B85"
+msgid "100"
+msgstr "100"
+
+msgctxt "5935C7B7"
+msgid "~z~Niko, they're letting me out of hospital. Will you pick me up?"
+msgstr "~z~Niko，他们让我出院了，你能来接我吗？"
+
+msgctxt "5B56B440"
+msgid "~z~Sure thing man, I've hidden some in Castle Gardens."
+msgstr "~z~当然了，兄弟，我已经在Castle Gardens藏了一些了。"
+
+msgctxt "5F5D79D8"
+msgid "100"
+msgstr "100"
+
+msgctxt "600AC3A5"
+msgid "FCP_ACT_GETCALL_SPEC_QQQ1"
+msgstr "FCP_ACT_GETCALL_SPEC_QQQ1"
+
+msgctxt "60DB5F2E"
+msgid "FCP_ACT_CALL_REQ_SPEC_FISHMARKET_SOUTH"
+msgstr "FCP_ACT_CALL_REQ_SPEC_FISHMARKET_SOUTH"
+
+msgctxt "613DE8AA"
+msgid "100"
+msgstr "100"
+
+msgctxt "61C84FE4"
+msgid "FCP_ACT_CALL_REQ_SPEC_PURGATORY"
+msgstr "FCP_ACT_CALL_REQ_SPEC_PURGATORY"
+
+msgctxt "6471CF0E"
+msgid "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_EAST2"
+msgstr "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_EAST2"
+
+msgctxt "66AB9166"
+msgid "~z~Sure Niko, I left some over Downtown."
+msgstr "~z~当然，Niko，我在Downtown留了一些。"
+
+msgctxt "6739628D"
+msgid "100"
+msgstr "100"
+
+msgctxt "68446D89"
+msgid "010"
+msgstr "010"
+
+msgctxt "69A1FF35"
+msgid "~z~You'll find some I stashed for you in Middle Park."
+msgstr "~z~你可以去中央公园找我给你留的一些。"
+
+msgctxt "69C42CB3"
+msgid "FCP_ACT_CALL_REQ_SPEC_BOULEVARD"
+msgstr "FCP_ACT_CALL_REQ_SPEC_BOULEVARD"
+
+msgctxt "69DC54DD"
+msgid "~z~Got it Niko. I left some for you in Little Bay."
+msgstr "~z~了解，Niko。我在Little Bay给你留了些。"
+
+msgctxt "69DDF0EF"
+msgid "~z~Sure Niko, I left some over in Schottler."
+msgstr "~z~当然，Niko，我在Schottler留了些。"
+
+msgctxt "6BC0D0E0"
+msgid "FCP_ACT_CALL_HOSP_CANCEL_MEDLIKE"
+msgstr "FCP_ACT_CALL_HOSP_CANCEL_MEDLIKE"
+
+msgctxt "6CF82AFE"
+msgid "~z~Sorry man, I got other shit to do. Call your mother or something."
+msgstr "~z~抱歉，兄弟，我还有别的事情要忙。打电话给你妈之类的吧。"
+
+msgctxt "6D73A7F7"
+msgid "100"
+msgstr "100"
+
+msgctxt "6ED010CD"
+msgid "~z~Cool, Niko. I'm sure it'll get put to good use."
+msgstr "~z~酷，Niko。肯定会派上用场的。"
+
+msgctxt "6F3B180B"
+msgid "~z~Alright Niko. I've ditched some for you in the Firefly Projects."
+msgstr "~z~好的，Niko。我在Firefly公屋社区给你留了一些。"
+
+msgctxt "708C9C56"
+msgid "~z~Okay Niko, I've left some in Westdyke."
+msgstr "~z~好了，Niko，我在Westdyke留了一些。"
+
+msgctxt "70D1247A"
+msgid "100"
+msgstr "100"
+
+msgctxt "7238A93F"
+msgid "100"
+msgstr "100"
+
+msgctxt "726ED15C"
+msgid "~z~Sure, man. You'll find some in South Bohan."
+msgstr "~z~当然，兄弟。你可以在South Bohan找到一些。"
+
+msgctxt "742D15CD"
+msgid "~z~Packie, you got some explosives? I'm in need."
+msgstr "~z~Packie，你这儿有炸药吗？我需要来点。"
+
+msgctxt "75417718"
+msgid "FCP_ACT_CALL_REQ_SPEC_LOWER_EASTON"
+msgstr "FCP_ACT_CALL_REQ_SPEC_LOWER_EASTON"
+
+msgctxt "767D14E8"
+msgid ""
+"~z~I'm thinking you're the kind of guy who might need one every now and "
+"then. Call me if you want me to hook you up."
+msgstr "~z~我想你是那种随时都会需要的人。需要我帮忙就打个电话。"
+
+msgctxt "77C0F581"
+msgid "FCP_ACT_CALL_REQ_SPEC_HATTON_GARDENS"
+msgstr "FCP_ACT_CALL_REQ_SPEC_HATTON_GARDENS"
+
+msgctxt "7A99AC8E"
+msgid "100"
+msgstr "100"
+
+msgctxt "7C332F25"
+msgid "FCP_ACT_CALL_REQ_SPEC_CITY_HALL"
+msgstr "FCP_ACT_CALL_REQ_SPEC_CITY_HALL"
+
+msgctxt "7C4020BC"
+msgid "~z~Sure thing man, I've hidden some in Chinatown."
+msgstr "~z~当然了，兄弟，我已经在唐人街藏了些。"
+
+msgctxt "7D802629"
+msgid "~z~Sure thing man, I've hidden some in Fishmarket North."
+msgstr "~z~当然了，兄弟。我已经在Fishmarket North藏了些。"
+
+msgctxt "7DAA0535"
+msgid "FCP_ACT_PPK_CALL_HOSP_CANCEL"
+msgstr "FCP_ACT_PPK_CALL_HOSP_CANCEL"
+
+msgctxt "7E3ECD8B"
+msgid ""
+"~z~Can't do it just now Packie. You're going to have to make your own way "
+"home."
+msgstr "~z~现在不行，Packie。你得自己想法子回家了。"
+
+msgctxt "7F8E5FC9"
+msgid "100"
+msgstr "100"
+
+msgctxt "80469048"
+msgid "100"
+msgstr "100"
+
+msgctxt "80FB16E1"
+msgid "100"
+msgstr "100"
+
+msgctxt "80FD3F14"
+msgid "~z~Got it Niko. I left some for you on Chase Point."
+msgstr "~z~懂了，Niko。我在Chase Point给你留了些。"
+
+msgctxt "81A1458B"
+msgid "FCP_ACT_GETCALL_HOSP_REJ_MEDLIKE"
+msgstr "FCP_ACT_GETCALL_HOSP_REJ_MEDLIKE"
+
+msgctxt "83DC446F"
+msgid "FCP_ACT_CALL_REQ_SPEC_SUFFOLK"
+msgstr "FCP_ACT_CALL_REQ_SPEC_SUFFOLK"
+
+msgctxt "84F6AC62"
+msgid "~z~Sure, man. You'll find some in Middle Park East."
+msgstr "~z~当然，兄弟。你可以在中央公园东找到一些。"
+
+msgctxt "86BA4662"
+msgid "~z~You'll find some I stashed for you in Little Italy."
+msgstr "~z~你可以在Little Italy找到我给你留的一些。"
+
+msgctxt "87B6F5A7"
+msgid "FCP_ACT_CALL_REQ_RANDOM"
+msgstr "FCP_ACT_CALL_REQ_RANDOM"
+
+msgctxt "8811CFE6"
+msgid "~z~Alright, man. Cool."
+msgstr "~z~好吧，兄弟。没事。"
+
+msgctxt "89424CAE"
+msgid "100"
+msgstr "100"
+
+msgctxt "8CA343CB"
+msgid "100"
+msgstr "100"
+
+msgctxt "8CA3F3F1"
+msgid "~z~Niko man, I've left them in Berchem for ya."
+msgstr "~z~Niko兄弟，东西我给你放在Berchem了。"
+
+msgctxt "8E224921"
+msgid "~z~Alright Niko. I've ditched some for you in Easton."
+msgstr "~z~好了Niko。我已经在Easton给你留了些了。"
+
+msgctxt "8E774A61"
+msgid "~z~Alright. I feel like watching stuff blow up. You got a bomb for me?"
+msgstr "~z~好吧，我有点想把什么东西炸飞，你能给我弄个炸弹吗？"
+
+msgctxt "90F10712"
+msgid "FCP_ACT_CALL_SPEC_END"
+msgstr "FCP_ACT_CALL_SPEC_END"
+
+msgctxt "93A93758"
+msgid "FCP_ACT_PPK_GETCALL_SPEC_END"
+msgstr "FCP_ACT_PPK_GETCALL_SPEC_END"
+
+msgctxt "93D32053"
+msgid "~z~You caught me at a bad time Niko. Call again later."
+msgstr "~z~现在打过来不是时候，Niko。过会儿再打给我。"
+
+msgctxt "94B88B17"
+msgid "FCP_ACT_CALL_REQ_SPEC_CHARGE_ISLAND"
+msgstr "FCP_ACT_CALL_REQ_SPEC_CHARGE_ISLAND"
+
+msgctxt "94C01A60"
+msgid "100"
+msgstr "100"
+
+msgctxt "9507B50F"
+msgid "~z~Sure Niko, I left some over by the airport."
+msgstr "~z~当然，Niko，我在机场边上留了一些。"
+
+msgctxt "95743B1F"
+msgid "~z~Fine Niko. You ain't got much of the good Samaritan in you, do ya?"
+msgstr "~z~好，Niko。你身上是一点都没有善人的品德是吧？"
+
+msgctxt "959045C8"
+msgid "~z~Okay Niko, I've left some in Star Junction."
+msgstr "~z~好的，Niko，我在Star Junction给你留了些。"
+
+msgctxt "974DCD64"
+msgid "100"
+msgstr "100"
+
+msgctxt "98344FC6"
+msgid "100"
+msgstr "100"
+
+msgctxt "9953F26A"
+msgid "~z~Fine man, if you got other shit to do."
+msgstr "~z~好的兄弟，既然你还有事的话。"
+
+msgctxt "99E86C8A"
+msgid "100"
+msgstr "100"
+
+msgctxt "9B7B9CD4"
+msgid "FCP_ACT_CALL_REQ_SPEC_INDUSTRIAL"
+msgstr "FCP_ACT_CALL_REQ_SPEC_INDUSTRIAL"
+
+msgctxt "9B80F7C2"
+msgid "~z~Okay Niko, I've left some in East Holland."
+msgstr "~z~好的，Niko，我在East Holland留了些。"
+
+msgctxt "9C6D757B"
+msgid "FCP_ACT_CALL_REQ_SPEC_WILLIS"
+msgstr "FCP_ACT_CALL_REQ_SPEC_WILLIS"
+
+msgctxt "9C971F30"
+msgid "100"
+msgstr "100"
+
+msgctxt "9D633160"
+msgid "~z~Sure thing man."
+msgstr "~z~当然了兄弟。"
+
+msgctxt "9E200661"
+msgid "~z~Okay man, they're in Willis."
+msgstr "~z~好了兄弟，东西在Willis。"
+
+msgctxt "9FAE130A"
+msgid "FCP_ACT_CALL_REQ_SPEC_MEADOW_HILLS"
+msgstr "FCP_ACT_CALL_REQ_SPEC_MEADOW_HILLS"
+
+msgctxt "A0A6C9C8"
+msgid "~z~You'll find some I stashed for you in Purgatory."
+msgstr "~z~你可以在Purgatory找到我给你留下的一些。"
+
+msgctxt "A20778E2"
+msgid "FCP_ACT_CALL_REQ_SPEC_ACTER_INDUSTRIAL"
+msgstr "FCP_ACT_CALL_REQ_SPEC_ACTER_INDUSTRIAL"
+
+msgctxt "A2D04ADD"
+msgid "FCP_ACT_CALL_REQ_SPEC_SCHOTTLER"
+msgstr "FCP_ACT_CALL_REQ_SPEC_SCHOTTLER"
+
+msgctxt "A3BF5196"
+msgid "100"
+msgstr "100"
+
+msgctxt "A4B61E93"
+msgid "~z~Okay Niko, I've left some in Leftwood."
+msgstr "~z~好了，Niko，我在Leftwood留了一些。"
+
+msgctxt "A5A6DB88"
+msgid ""
+"~z~Fine, if you rather go kill people than help your sick friend, that's "
+"your business."
+msgstr "~z~好的，要是你宁可去杀人也不肯帮你生病的朋友的话，那是你的事。"
+
+msgctxt "A79CC7E6"
+msgid "~z~I'm fresh out, Niko. Try me again in a little while."
+msgstr "~z~我现在没有，Niko。过会儿再打给我。"
+
+msgctxt "A81DA56C"
+msgid "FCP_ACT_CALL_REQ_SPEC_NORMANDY"
+msgstr "FCP_ACT_CALL_REQ_SPEC_NORMANDY"
+
+msgctxt "A89D1E34"
+msgid "100"
+msgstr "100"
+
+msgctxt "A91C2989"
+msgid "~z~Great, man. I thought I was gonna have to call my ma. See you soon."
+msgstr "~z~好，兄弟。我差点以为只能去找我妈了。再见。"
+
+msgctxt "AA9393B4"
+msgid "~z~Sure Niko, I've left some over in Outlook Park."
+msgstr "~z~当然，Niko，我已经在Outlook Park留了些。"
+
+msgctxt "AAAA7311"
+msgid "~z~Packie, man. I don't need that bomb no more."
+msgstr "~z~Packie，兄弟，那个炸弹我现在不要了。"
+
+msgctxt "AAAD4B61"
+msgid "FCP_ACT_CALL_REQ_SPEC_COLONY_ISLAND"
+msgstr "FCP_ACT_CALL_REQ_SPEC_COLONY_ISLAND"
+
+msgctxt "ABA75C00"
+msgid "100"
+msgstr "100"
+
+msgctxt "ABA83E62"
+msgid "FCP_ACT_CALL_REQ_SPEC_FIREFLY_ISLAND"
+msgstr "FCP_ACT_CALL_REQ_SPEC_FIREFLY_ISLAND"
+
+msgctxt "AC2C9025"
+msgid "100"
+msgstr "100"
+
+msgctxt "AE41B81C"
+msgid "100"
+msgstr "100"
+
+msgctxt "AF0444D0"
+msgid "FCP_ACT_PPK_CALL_CANCEL_SPEC"
+msgstr "FCP_ACT_PPK_CALL_CANCEL_SPEC"
+
+msgctxt "B0668E4B"
+msgid "~z~Hey, Packie. I need a bomb. That cool?"
+msgstr "~z~嘿，Packie。我需要一个炸弹。可以吗？"
+
+msgctxt "B0D21798"
+msgid "100"
+msgstr "100"
+
+msgctxt "B10B73FB"
+msgid "~z~Got it Niko. I've put some for you in the Boulevard."
+msgstr "~z~懂了，Niko。我在Boulevard给你留了些。"
+
+msgctxt "B1F132A0"
+msgid "FCP_ACT_CALL_HOSP_CANCEL_HILIKE"
+msgstr "FCP_ACT_CALL_HOSP_CANCEL_HILIKE"
+
+msgctxt "B31C1675"
+msgid "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK"
+msgstr "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK"
+
+msgctxt "B320B5DE"
+msgid "FCP_ACT_CALL_REQ_SPEC_CASTLE_GARDENS"
+msgstr "FCP_ACT_CALL_REQ_SPEC_CASTLE_GARDENS"
+
+msgctxt "B3FC3A0B"
+msgid "~z~Sure, man. You'll find some in Lancaster."
+msgstr "~z~当然，兄弟。你可以在Lancaster找到。"
+
+msgctxt "B40CF815"
+msgid "100"
+msgstr "100"
+
+msgctxt "BB5708ED"
+msgid "~z~Okay man, they're in Cerveza Heights."
+msgstr "~z~好的，兄弟，东西在Cerveza Heights。"
+
+msgctxt "BB99F5F3"
+msgid "~z~Okay man, they're in East Island City."
+msgstr "~z~好的，兄弟，东西在East Island City。"
+
+msgctxt "BB9FB337"
+msgid "FCP_ACT_GETCALL_HOSP_ACCEPT"
+msgstr "FCP_ACT_GETCALL_HOSP_ACCEPT"
+
+msgctxt "BBB8A6F2"
+msgid "100"
+msgstr "100"
+
+msgctxt "BBBFDC65"
+msgid "~z~Okay man, they're in Steinway."
+msgstr "~z~好的，兄弟，东西在Steinway。"
+
+msgctxt "BE932AA4"
+msgid "~z~Hey man, I need to make shit explode. Can you sort me out?"
+msgstr "~z~喂，兄弟，我想去炸点东西，你能帮我吗？"
+
+msgctxt "BF3272BB"
+msgid "100"
+msgstr "100"
+
+msgctxt "BF58FB13"
+msgid "100"
+msgstr "100"
+
+msgctxt "BF60A57B"
+msgid "FCP_ACT_CALL_REQ_SPEC_LANCASTER"
+msgstr "FCP_ACT_CALL_REQ_SPEC_LANCASTER"
+
+msgctxt "BF6E2C2C"
+msgid "100"
+msgstr "100"
+
+msgctxt "BFC3AA84"
+msgid "FCP_ACT_CALL_REQ_SPEC_LEFTWOOD"
+msgstr "FCP_ACT_CALL_REQ_SPEC_LEFTWOOD"
+
+msgctxt "C0F9D91B"
+msgid "FCP_ACT_CALL_REQ_SPEC_NORTH_GARDENS"
+msgstr "FCP_ACT_CALL_REQ_SPEC_NORTH_GARDENS"
+
+msgctxt "C1946244"
+msgid "~z~Okay man, they're in Meadow Hills."
+msgstr "~z~好的，兄弟，东西在Meadow Hills。"
+
+msgctxt "C1BC7944"
+msgid "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_EAST"
+msgstr "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_EAST"
+
+msgctxt "C25C4FE4"
+msgid "FCP_ACT_CALL_REQ_SPEC_TRIANGLE"
+msgstr "FCP_ACT_CALL_REQ_SPEC_TRIANGLE"
+
+msgctxt "C2B5AC62"
+msgid "~z~Okay man, they're in Meadows Park."
+msgstr "~z~好的兄弟，东西在Meadows Park。"
+
+msgctxt "C2D6BA30"
+msgid "FCP_ACT_CALL_REQ_SPEC_FORTSIDE"
+msgstr "FCP_ACT_CALL_REQ_SPEC_FORTSIDE"
+
+msgctxt "C30C935D"
+msgid "100"
+msgstr "100"
+
+msgctxt "C5513BA0"
+msgid "FCP_ACT_GETCALL_HOSP_REJ_LOLIKE"
+msgstr "FCP_ACT_GETCALL_HOSP_REJ_LOLIKE"
+
+msgctxt "C8DD1C73"
+msgid "FCP_ACT_PPK_CALL_REQ_SPEC"
+msgstr "FCP_ACT_PPK_CALL_REQ_SPEC"
+
+msgctxt "C9E928B0"
+msgid "FCP_ACT_CALL_REQ_SPEC_CHINATOWN"
+msgstr "FCP_ACT_CALL_REQ_SPEC_CHINATOWN"
+
+msgctxt "C9F8B30D"
+msgid "~z~You'll find some I stashed for you in Hatton Gardens."
+msgstr "~z~你可以在Hatton Gardens找到我给你留下的。"
+
+msgctxt "CB99F9EC"
+msgid "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_WEST2"
+msgstr "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_WEST2"
+
+msgctxt "CC18A63A"
+msgid "100"
+msgstr "100"
+
+msgctxt "CE3030F4"
+msgid "100"
+msgstr "100"
+
+msgctxt "D0359FD3"
+msgid "100100"
+msgstr "100100"
+
+msgctxt "D0676CFE"
+msgid "100"
+msgstr "100"
+
+msgctxt "D0A3863E"
+msgid "100"
+msgstr "100"
+
+msgctxt "D0BA8914"
+msgid "~z~You'll find some I stashed for you in City Hall."
+msgstr "~z~你可以在市政厅找到一些我给你留着的。"
+
+msgctxt "D1D2CEBE"
+msgid ""
+"~z~This is banked. When you ask me for help I'm gonna remind your Slavic ass "
+"of this."
+msgstr "~z~我记下来了。等你来求我帮忙的时候，我就跟你这斯拉夫混蛋提这个。"
+
+msgctxt "D1EFF896"
+msgid "~z~Sure, man. You'll find some in Charge Island."
+msgstr "~z~当然，兄弟，你可以在Charge岛找到一些。"
+
+msgctxt "D2F5DB20"
+msgid "FCP_ACT_GETCALL_HOSP_REJ_HILIKE"
+msgstr "FCP_ACT_GETCALL_HOSP_REJ_HILIKE"
+
+msgctxt "D3660F3E"
+msgid "FCP_ACT_CALL_REQ_SPEC_EAST_ISLAND_CITY"
+msgstr "FCP_ACT_CALL_REQ_SPEC_EAST_ISLAND_CITY"
+
+msgctxt "D452FBD1"
+msgid "FCP_ACT_CALL_REQ_SPEC_PORT_TUDOR"
+msgstr "FCP_ACT_CALL_REQ_SPEC_PORT_TUDOR"
+
+msgctxt "D55FD6E1"
+msgid "~z~Sure, man. You'll find some in Industiral."
+msgstr "~z~当然，兄弟。你可以在Industiral找到一些。"
+
+msgctxt "D5F51CC2"
+msgid "FCP_ACT_CALL_REQ_SPEC_EAST_HOLLAND"
+msgstr "FCP_ACT_CALL_REQ_SPEC_EAST_HOLLAND"
+
+msgctxt "D8484A05"
+msgid "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_WEST"
+msgstr "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_WEST"
+
+msgctxt "DA540FCD"
+msgid "100"
+msgstr "100"
+
+msgctxt "DB7C90E1"
+msgid "100"
+msgstr "100"
+
+msgctxt "DC2F954E"
+msgid "100"
+msgstr "100"
+
+msgctxt "DCD03878"
+msgid "100"
+msgstr "100"
+
+msgctxt "DE301E05"
+msgid "100"
+msgstr "100"
+
+msgctxt "DEFED50B"
+msgid "FCP_ACT_CALL_REQ_SPEC_CERVESA_HEIGHTS"
+msgstr "FCP_ACT_CALL_REQ_SPEC_CERVESA_HEIGHTS"
+
+msgctxt "DF25F1DF"
+msgid "010"
+msgstr "010"
+
+msgctxt "DFB2C507"
+msgid "~z~Okay Niko, I've left some in Normandy."
+msgstr "~z~好的，Niko，我在Normandy留了一些。"
+
+msgctxt "E1FD50AE"
+msgid "FCP_ACT_CALL_REQ_SPEC_HOVE_BEACH"
+msgstr "FCP_ACT_CALL_REQ_SPEC_HOVE_BEACH"
+
+msgctxt "E29276DA"
+msgid "FCP_ACT_CALL_REQ_SPEC_TUDOR"
+msgstr "FCP_ACT_CALL_REQ_SPEC_TUDOR"
+
+msgctxt "E4337053"
+msgid "~z~Hey Niko, I got a line on this guy who can set me up with bombs."
+msgstr "~z~嘿，Niko，我跟这个能帮我弄到炸弹的人联络上了。"
+
+msgctxt "E4685F0E"
+msgid "100"
+msgstr "100"
+
+msgctxt "E6C8DA2F"
+msgid "~z~Niko man, I left them in Suffolk for you."
+msgstr "~z~Niko兄弟，东西我给你放在Suffolk了。"
+
+msgctxt "E7223775"
+msgid "100"
+msgstr "100"
+
+msgctxt "E8271149"
+msgid "~z~Sure, man. You'll find some in Middle Park West."
+msgstr "~z~当然，兄弟。你可以在中央公园西找到一些。"
+
+msgctxt "EC5E4C31"
+msgid "FCP_ACT_CALL_REQ_SPEC_SOUTH_BOHAN"
+msgstr "FCP_ACT_CALL_REQ_SPEC_SOUTH_BOHAN"
+
+msgctxt "EE1E90C5"
+msgid "FCP_ACT_CALL_REQ_SPEC_NO"
+msgstr "FCP_ACT_CALL_REQ_SPEC_NO"
+
+msgctxt "EEC32982"
+msgid "100"
+msgstr "100"
+
+msgctxt "F027417F"
+msgid "~z~Sure thing man, I've hidden some in Lower Easton."
+msgstr "~z~当然了，兄弟，我已经在Lower Easton藏了一些。"
+
+msgctxt "F318D929"
+msgid "100"
+msgstr "100"
+
+msgctxt "F3BC3545"
+msgid "100"
+msgstr "100"
+
+msgctxt "F6D3CF4F"
+msgid "FCP_ACT_GETCALL_HOSP_ASK"
+msgstr "FCP_ACT_GETCALL_HOSP_ASK"
+
+msgctxt "F71F7B39"
+msgid "100"
+msgstr "100"
+
+msgctxt "F747F0DC"
+msgid "100"
+msgstr "100"
+
+msgctxt "F7499C75"
+msgid "100"
+msgstr "100"
+
+msgctxt "F7550768"
+msgid "100"
+msgstr "100"
+
+msgctxt "F7CC9343"
+msgid "100"
+msgstr "100"
+
+msgctxt "F83E9C35"
+msgid "FCP_ACT_PPK_GETCALL_HOSP_NO"
+msgstr "FCP_ACT_PPK_GETCALL_HOSP_NO"
+
+msgctxt "F8F48F52"
+msgid "100"
+msgstr "100"
+
+msgctxt "FFBD7445"
+msgid "FCP_ACT_CALL_REQ_SPEC_BERCHAMN"
+msgstr "FCP_ACT_CALL_REQ_SPEC_BERCHAMN"

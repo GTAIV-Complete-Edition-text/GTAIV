@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MANNY3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "116700FA"
+msgid "~s~Get in a vehicle."
+msgstr "~s~进入一辆载具"
+
+msgctxt "1337E5F3"
+msgid "~s~The ~r~target~s~ got into that car. Follow him."
+msgstr "~r~目标~s~上了那辆车。跟着他。"
+
+msgctxt "1EE11AE3"
+msgid "~s~Drive to the ~y~Algonquin Bridge."
+msgstr "~s~驾车前往~y~Algonquin大桥。"
+
+msgctxt "247F2390"
+msgid "~s~Get closer to the ~r~targets~s~ car or you'll lose him."
+msgstr "~s~你要跟丢了，离~r~目标~s~近点。"
+
+msgctxt "536011B7"
+msgid ""
+"~s~Keep close to the ~r~train~s~ and follow it as it goes over the bridges."
+msgstr "~s~跟紧从桥上驶过的~r~列车~s~过桥后跟住它。~s~"
+
+msgctxt "56402DEA"
+msgid "~s~The ~r~train~s~ has stopped."
+msgstr "~r~列车~s~停下了。"
+
+msgctxt "6479B3EA"
+msgid ""
+"~s~The target is on that train. Follow the ~r~train~s~ and take him out when "
+"he gets off."
+msgstr "~s~目标在那辆列车上。跟着~r~列车，~s~在他下车后干掉他。"
+
+msgctxt "715FFB40"
+msgid "~s~Go to the ~y~Algonquin Bridge."
+msgstr "~s~前往~y~Algonquin大桥。"
+
+msgctxt "7A69CF64"
+msgid "~s~You are too close to the ~r~targets~s~ car, back off."
+msgstr "~s~你离~r~目标~s~的车太近了，退后点。"
+
+msgctxt "7EFE490D"
+msgid "~r~You lost the train.~s~"
+msgstr "~r~你跟丢了列车。~s~"
+
+msgctxt "85898426"
+msgid "~r~The target got away.~s~"
+msgstr "~r~目标逃走了。~s~"
+
+msgctxt "8B36A1EF"
+msgid "Hold ~INPUT_VEH_CIN_CAM~ to focus on the train."
+msgstr "按住~INPUT_VEH_CIN_CAM~将镜头对准列车。"
+
+msgctxt "923F1341"
+msgid "~s~The ~r~train~s~ has stopped."
+msgstr "~r~列车~s~停下了。"
+
+msgctxt "BDF19756"
+msgid "~s~Go to the ~y~Algonquin Bridge."
+msgstr "~s~去~y~Algonquin大桥。"
+
+msgctxt "BF207FA9"
+msgid ""
+"~s~The target didn't get off here. Follow the ~r~train~s~ to the next "
+"station."
+msgstr "~s~目标还没下车。跟着~r~列车~s~到下个车站。"
+
+msgctxt "C13CDD0D"
+msgid "~s~Get closer to the ~r~train,~s~ or you will lose it."
+msgstr "~s~你要跟丢了，跟紧~r~列车。"
+
+msgctxt "C4E79550"
+msgid ""
+"The chase camera will focus on the target you are pursuing allowing you "
+"track their movements."
+msgstr "追逐视角会将镜头对准目标，便于观察其行进方向。"
+
+msgctxt "C8A38260"
+msgid "~s~The ~r~target~s~ got off the train."
+msgstr "~r~目标~s~下车了。"
+
+msgctxt "DFF2E086"
+msgid "~s~Take out the ~r~targets."
+msgstr "~s~干掉~r~目标。"
+
+msgctxt "F002629B"
+msgid "~s~Get closer to the ~r~target,~s~ or you will lose them."
+msgstr "~s~你要跟丢了，跟紧~r~目标。"

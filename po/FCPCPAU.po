@@ -1,0 +1,678 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FCPCPAU\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "11A9A8A"
+msgid "010"
+msgstr "010"
+
+msgctxt "12E0C32"
+msgid "~z~Jesus Christ, I'm hearing your voice, Niko. I can't believe it."
+msgstr "~z~基督耶稣啊，你终于给我打电话了，Niko。难以置信。"
+
+msgctxt "2427EB7"
+msgid "~z~How about we play pool?"
+msgstr "~z~要不要一起去打个台球？"
+
+msgctxt "28FD2B0"
+msgid ""
+"~z~I apologize Packie, but we're not going to a show together tonight. I'm "
+"busy."
+msgstr "~z~很抱歉，Packie，但是今晚我们没法一起去看表演了。我有点忙。"
+
+msgctxt "533D4FC"
+msgid ""
+"~z~So, Niko. All work and no play da da da da... let's go play some darts."
+msgstr "~z~那，Niko。工作这么久都没机会去玩...我们去玩飞镖吧。"
+
+msgctxt "B9263C2"
+msgid "FCP_ACT_GETCALL_SHOW"
+msgstr "FCP_ACT_GETCALL_SHOW"
+
+msgctxt "BDB2900"
+msgid "~z~Pool could be fun. I'll pick you up from the house in the next hour."
+msgstr "~z~台球好啊，我一小时内就来你家接你。"
+
+msgctxt "E03175D"
+msgid "100"
+msgstr "100"
+
+msgctxt "E8039B1"
+msgid "~z~Why don't we get off our asses and go see something?"
+msgstr "~z~要么我们一起歇一歇，找点东西看看？"
+
+msgctxt "F73A8BD"
+msgid ""
+"~z~Niko, you called. This is a miracle. Two more and you might be fucking "
+"canonised."
+msgstr "~z~Niko，你打来了啊，简直是奇迹啊。在打几次你就是圣人了。"
+
+msgctxt "131570BF"
+msgid ""
+"~z~Niko, me and you have been hanging out some. I'm thinking we should go "
+"play some darts. How about it man?"
+msgstr "~z~Niko，我们已经出去过几次了。我想一起去玩个飞镖。你意下如何？"
+
+msgctxt "144B95B8"
+msgid "~z~Can't do bowling right now, Packie. Another time."
+msgstr "~z~我现在没空打保龄球，Packie。改天吧。"
+
+msgctxt "1794E970"
+msgid "FCP_ACT_GETCALL_DARTS_FIRST"
+msgstr "FCP_ACT_GETCALL_DARTS_FIRST"
+
+msgctxt "181DC0D5"
+msgid "100"
+msgstr "100"
+
+msgctxt "1A52EA9F"
+msgid "FCP_ACT_PPK_CALL_SHOW_YES"
+msgstr "FCP_ACT_PPK_CALL_SHOW_YES"
+
+msgctxt "1BFF54B7"
+msgid "~z~How about we go see a show?"
+msgstr "~z~一起去看场表演如何？"
+
+msgctxt "1C46ED72"
+msgid "~z~I got a lot on my plate right now, Packie. No time for shows. Sorry."
+msgstr "~z~我现在事情够多了，Packie。没空看表演，抱歉。"
+
+msgctxt "1FA4AD5A"
+msgid "~z~Okay, Packie. I'll pick you up from the house in the next hour."
+msgstr "~z~好的，Packie。一小时内我到你家来接你。"
+
+msgctxt "22360542"
+msgid "~z~Let's go get fucked up, I'll pick you up in the next hour."
+msgstr "~z~那就去大闹一场吧，我一小时内来接你。"
+
+msgctxt "25C72C3D"
+msgid "~z~Wanna go to a gentlemen's club?"
+msgstr "~z~绅士的俱乐部去不去啊？"
+
+msgctxt "26311219"
+msgid "~z~Alright, man. If you want to hang later call me."
+msgstr "~z~好吧，兄弟。你要是想出来玩就来找我。"
+
+msgctxt "2670D6C0"
+msgid "FCP_ACT_GETCALL_DRINK"
+msgstr "FCP_ACT_GETCALL_DRINK"
+
+msgctxt "292ABF76"
+msgid "~z~Sorry Packie. No bowling. I got shit to do. Maybe some other time."
+msgstr "~z~抱歉，Packie，没空打保龄。我事情太多，要么下次吧。"
+
+msgctxt "29E144D1"
+msgid "~z~How about some darts?"
+msgstr "~z~来玩飞镖吗？"
+
+msgctxt "2B5CD0EB"
+msgid "~z~Let's play some pool?"
+msgstr "~z~来打局台球吧？"
+
+msgctxt "2C0B14A8"
+msgid "010"
+msgstr "010"
+
+msgctxt "2C575F8E"
+msgid "010"
+msgstr "010"
+
+msgctxt "2CB01B39"
+msgid "010"
+msgstr "010"
+
+msgctxt "2CE89F2C"
+msgid "~z~Alright Niko, gimme a call when you wanna do something."
+msgstr "~z~行吧，Niko，你想去做点什么的话就打给我。"
+
+msgctxt "2D6E48ED"
+msgid ""
+"~z~Sure, Packie. I could go bowling with you. I'll pick you up in the next "
+"hour."
+msgstr "~z~好啊，Packie。我可以来打保龄球，一小时内来接你。"
+
+msgctxt "3093A1FD"
+msgid "~z~I think that's a good idea. We go drinking in the next hour."
+msgstr "~z~这主意可以，一小时内我们就出发去喝酒。"
+
+msgctxt "31B8B105"
+msgid ""
+"~z~Something has happened, Packie. I cannot come to a show with you. Sorry."
+msgstr "~z~突发状况，Packie。我没法和你去看表演了。抱歉。"
+
+msgctxt "3245BE4D"
+msgid "100"
+msgstr "100"
+
+msgctxt "32A5DEFE"
+msgid "~z~Sorry Packie, I'm not coming to the club. Maybe another time."
+msgstr "~z~抱歉，Packie，我不能去俱乐部了，要么下次吧。"
+
+msgctxt "3324A7EC"
+msgid "FCP_ACT_GETCALL_POOL"
+msgstr "FCP_ACT_GETCALL_POOL"
+
+msgctxt "35E8797E"
+msgid "010"
+msgstr "010"
+
+msgctxt "36475901"
+msgid "~z~Sorry Packie, but I can't go bowling with you anymore."
+msgstr "~z~抱歉，Packie，但我没法和你去打保龄球了。"
+
+msgctxt "37E1B57A"
+msgid "~z~Okay Niko. I ain't gonna get offended. Call me when you're free."
+msgstr "~z~好吧，Niko。我不会生气的。等你有空了再打给我。"
+
+msgctxt "388CDE60"
+msgid "FCP_ACT_GETCALL_SHOW_FIRST"
+msgstr "FCP_ACT_GETCALL_SHOW_FIRST"
+
+msgctxt "397C3853"
+msgid ""
+"~z~Sure, Niko. You must have people to kill and shit. Call me when you're "
+"free."
+msgstr "~z~当然，Niko。你肯定是还有人要杀。等你有空了就打给我。"
+
+msgctxt "399C4B6A"
+msgid "010"
+msgstr "010"
+
+msgctxt "3A6AB867"
+msgid "FCP_ACT_PPK_GETCALL_DARTS_NO"
+msgstr "FCP_ACT_PPK_GETCALL_DARTS_NO"
+
+msgctxt "3B02301F"
+msgid "100"
+msgstr "100"
+
+msgctxt "3BA8685F"
+msgid "~z~Wanna go play darts, man?"
+msgstr "~z~去不去玩飞镖啊，兄弟？"
+
+msgctxt "3C23D78B"
+msgid "FCP_ACT_PPK_CALL_DRINK_CANCEL"
+msgstr "FCP_ACT_PPK_CALL_DRINK_CANCEL"
+
+msgctxt "3CC7F342"
+msgid "~z~I'm not in the mood, Packie. Go to the strip club alone."
+msgstr "~z~我没心情，Packie。你自己去脱衣舞俱乐部吧。"
+
+msgctxt "3F660C47"
+msgid "~z~Fuck me, Niko. I didn't even want to go in the first place. Shit."
+msgstr "~z~我操，Niko。我一开始就没想去过。靠。"
+
+msgctxt "43FC866B"
+msgid "~z~I don't feel like playing pool, Packie. I'll call you later."
+msgstr "~z~我不是很想打台球，Packie。待会儿再打给你。"
+
+msgctxt "468241EC"
+msgid "~z~Nah Packie, sorry. I don't wanna see a show. Another time."
+msgstr "~z~算了，Packie，抱歉。我不想看表演。下次吧。"
+
+msgctxt "4881E2B0"
+msgid "100"
+msgstr "100"
+
+msgctxt "4D901C39"
+msgid "010"
+msgstr "010"
+
+msgctxt "4DBEA8F8"
+msgid ""
+"~z~I don't give a fucking shit. I should have cancelled your fucking call."
+msgstr "~z~我他妈才不管，就应该把你丫的电话挂了的。"
+
+msgctxt "4EE45A40"
+msgid "~z~We got a plan, Niko. I'll wait for ya."
+msgstr "~z~那就说好了，Niko。我等着你。"
+
+msgctxt "4FDD7374"
+msgid "100"
+msgstr "100"
+
+msgctxt "5063C31F"
+msgid "010"
+msgstr "010"
+
+msgctxt "5316587B"
+msgid "FCP_ACT_GETCALL_BOWL_FIRST"
+msgstr "FCP_ACT_GETCALL_BOWL_FIRST"
+
+msgctxt "55E74F88"
+msgid "FCP_ACT_PPK_GETCALL_DARTS_YES"
+msgstr "FCP_ACT_PPK_GETCALL_DARTS_YES"
+
+msgctxt "5A77258D"
+msgid "FCP_ACT_PPK_CALL_SHOW_NO"
+msgstr "FCP_ACT_PPK_CALL_SHOW_NO"
+
+msgctxt "5D6DC8CA"
+msgid ""
+"~z~We could go see something. I will pick you up from the house in the next "
+"hour."
+msgstr "~z~我们可以去看点东西。我一小时内来你家接你。"
+
+msgctxt "5D905802"
+msgid ""
+"~z~Alright man, let us go see some naked women. Wait for me for one hour."
+msgstr "~z~好吧，兄弟，我们就去看一些裸女吧。等我一小时。"
+
+msgctxt "5F7BDF2A"
+msgid ""
+"~z~Niko, how about you and me catch a game or two on the bowling alley? It "
+"ain't like we ain't friends or nothing."
+msgstr "~z~Niko，要么我们一起去打两局保龄球吧？我们应该算得上是朋友吧？"
+
+msgctxt "5FD3047A"
+msgid "FCP_ACT_PPK_GETCALL_DRINK_YES"
+msgstr "FCP_ACT_PPK_GETCALL_DRINK_YES"
+
+msgctxt "63C21A43"
+msgid "~z~Fine Niko, I got a bitch I planned on banging anyways."
+msgstr "~z~好吧，Niko，反正我也有女人要上。"
+
+msgctxt "672B3A64"
+msgid "~z~Hey man, sorry but I have to cancel our bowling."
+msgstr "~z~嘿兄弟，抱歉，但保龄球我打不成了。"
+
+msgctxt "6FFD0077"
+msgid "010"
+msgstr "010"
+
+msgctxt "712B9ECE"
+msgid "~z~Nice one, Niko. See you soon."
+msgstr "~z~好的，Niko。一会儿见。"
+
+msgctxt "72D63B66"
+msgid "~z~Shit man, I'm busy. Maybe we play darts together some other time."
+msgstr "~z~靠，兄弟，我很忙的。要么改天再去玩飞镖吧。"
+
+msgctxt "732F5B99"
+msgid ""
+"~z~Those naked girls are going to lose out on my tips, Packie. I can't come "
+"to the club with you."
+msgstr "~z~那些裸女挣不到我的小费了，Packie。我没法和你一起去俱乐部了。"
+
+msgctxt "76282C86"
+msgid ""
+"~z~Shit, man. It ain't like I don't got other people to hang with. We'll do "
+"it another day."
+msgstr "~z~靠，兄弟，我也不是没别的人可以一起。那我们下次再去吧。"
+
+msgctxt "7700E37E"
+msgid "010"
+msgstr "010"
+
+msgctxt "81263EC3"
+msgid "~z~You're a saint, Niko. I'll wait for ya."
+msgstr "~z~你就是个圣人啊，Niko。我会等你的。"
+
+msgctxt "83F23C1E"
+msgid "FCP_ACT_GETCALL_DARTS"
+msgstr "FCP_ACT_GETCALL_DARTS"
+
+msgctxt "843894D9"
+msgid "~z~Jesus, Niko. You fucking avoiding me?"
+msgstr "~z~天哪，Niko。你是在回避我吗？"
+
+msgctxt "848CFE54"
+msgid ""
+"~z~Sorry Packie, we're going to have to go to the strip club together "
+"another time. Something came up."
+msgstr "~z~抱歉，Packie，脱衣舞俱乐部我们得改天再去了。突然有点事情。"
+
+msgctxt "84D2A696"
+msgid ""
+"~z~Sure, Packie. Strippers could be cool. I'll collect you within the hour."
+msgstr "~z~好啊，Packie。舞女很棒啊。我一小时内来接你。"
+
+msgctxt "87D1C53E"
+msgid "010"
+msgstr "010"
+
+msgctxt "88655100"
+msgid "~z~Alright Niko, that's cool. We'll go another time."
+msgstr "~z~好吧，Niko，也行。我们改天再去。"
+
+msgctxt "8A5E5E6B"
+msgid "~z~How about we go drinking?"
+msgstr "~z~我们一起去喝一杯如何？"
+
+msgctxt "8F8882EF"
+msgid "~z~Let's go bowling."
+msgstr "~z~我们去打保龄球吧。"
+
+msgctxt "9056AE9F"
+msgid ""
+"~z~Okay man, I could catch a show. Wait for me at the house for one hour."
+msgstr "~z~好啊，兄弟。我可以来看表演，你在家等着，我一小时内来接。"
+
+msgctxt "910593CC"
+msgid "~z~Hey man, I can do darts no more."
+msgstr "~z~嘿，兄弟，我没法来玩飞镖了。"
+
+msgctxt "91F63054"
+msgid "~z~Niko, what the fuck. I ain't heard from you in a fucking age."
+msgstr "~z~Niko，搞什么，我他妈百年没接到你电话了。"
+
+msgctxt "91FAAF06"
+msgid "100"
+msgstr "100"
+
+msgctxt "9363A2C6"
+msgid "100"
+msgstr "100"
+
+msgctxt "9377E78E"
+msgid "FCP_ACT_PPK_GETCALL_BOWL_YES"
+msgstr "FCP_ACT_PPK_GETCALL_BOWL_YES"
+
+msgctxt "9583FDC6"
+msgid ""
+"~z~Alright man, if that how you're playing it. We'll go another time if I "
+"don't cancel on you."
+msgstr "~z~好吧，兄弟，要是你真这么打算的话。我们改天再去吧，只要我不放你鸽子。"
+
+msgctxt "96C8CDC3"
+msgid ""
+"~z~Hey, Niko you wanna go bowling? It's not as bad as it sounds you know."
+msgstr "~z~嘿，Niko，去不去打保龄球？保龄球没听起来那么糟糕的。"
+
+msgctxt "974A76F9"
+msgid "FCP_ACT_PPK_CALL_POOL_CANCEL"
+msgstr "FCP_ACT_PPK_CALL_POOL_CANCEL"
+
+msgctxt "979E0A07"
+msgid ""
+"~z~Hey Niko, they got pool in eastern Europe? Ha - just joking. Let's go "
+"play a few racks."
+msgstr "~z~嘿，Niko，东欧有没有台球啊？哈，开玩笑的。我们去打两局吧。"
+
+msgctxt "9AF0AB8A"
+msgid "010"
+msgstr "010"
+
+msgctxt "9EDBFA47"
+msgid "100"
+msgstr "100"
+
+msgctxt "9F360A6C"
+msgid "FCP_ACT_PPK_CALL_DARTS_CANCEL"
+msgstr "FCP_ACT_PPK_CALL_DARTS_CANCEL"
+
+msgctxt "A12B2634"
+msgid "~z~Let's hit the bowling alley."
+msgstr "~z~我们去打保龄球吧。"
+
+msgctxt "A2672577"
+msgid "~z~How about we go check out some naked chicks?"
+msgstr "~z~一起去看些裸体妓女如何啊？"
+
+msgctxt "A4EEB7B5"
+msgid "FCP_ACT_PPK_CALL_BOWL_CANCEL"
+msgstr "FCP_ACT_PPK_CALL_BOWL_CANCEL"
+
+msgctxt "A6CFA86A"
+msgid ""
+"~z~Niko my man, we've been hanging out for a while now, how's about a game "
+"or two of pool, you up for it?"
+msgstr "~z~Niko，好兄弟，我们已经认识一段时间了，打一两局台球如何，有兴趣吗？"
+
+msgctxt "A882954F"
+msgid "FCP_ACT_GETCALL_ACCEPT"
+msgstr "FCP_ACT_GETCALL_ACCEPT"
+
+msgctxt "A8F2F410"
+msgid "100"
+msgstr "100"
+
+msgctxt "AD18144A"
+msgid "100"
+msgstr "100"
+
+msgctxt "AF48C5A3"
+msgid "FCP_ACT_GETCALL_IRATE"
+msgstr "FCP_ACT_GETCALL_IRATE"
+
+msgctxt "B1FB8363"
+msgid ""
+"~z~Niko, there's an old Irish tradition that says you gotta go out and get "
+"wasted with your friends."
+msgstr "~z~Niko，我们爱尔兰有个习俗，要和朋友一起出去喝个大醉。"
+
+msgctxt "B4E575F6"
+msgid "100"
+msgstr "100"
+
+msgctxt "B7BFC2F6"
+msgid "FCP_ACT_PPK_CALL_STRIP_CANCEL"
+msgstr "FCP_ACT_PPK_CALL_STRIP_CANCEL"
+
+msgctxt "BB41E844"
+msgid "~z~Packie, I ain't gonna be able to make our darts date."
+msgstr "~z~Packie，我没法赴约玩飞镖了。"
+
+msgctxt "BBA2C0E7"
+msgid "~z~Want to go for a drink?"
+msgstr "~z~去喝一杯吗？"
+
+msgctxt "BBF6088A"
+msgid "~z~What's up man? It's me."
+msgstr "~z~还好吗，兄弟？是我。"
+
+msgctxt "BF04D2FD"
+msgid "010"
+msgstr "010"
+
+msgctxt "BF3CE44C"
+msgid "FCP_ACT_PPK_GETCALL_DRINK_NO"
+msgstr "FCP_ACT_PPK_GETCALL_DRINK_NO"
+
+msgctxt "C0D77EEB"
+msgid "100"
+msgstr "100"
+
+msgctxt "C1C39571"
+msgid ""
+"~z~Alright Niko, we've been friends for a while. I'm thinking it's about "
+"time I showed you some traditional American strippers."
+msgstr "~z~好了，Niko，我们来往也有段时间了。我想差不多也该带你去看看美国传统脱衣舞女了。"
+
+msgctxt "C29D5610"
+msgid "~z~Let's go plays some darts, man. I'll pick you up in the next hour."
+msgstr "~z~我们去玩局飞镖吧，兄弟。我一小时内来接你。"
+
+msgctxt "C3800510"
+msgid "~z~Sorry Packie, I ain't playing pool with you right now. Another time."
+msgstr "~z~抱歉，Packie，现在我没法来和你打台球。改天吧。"
+
+msgctxt "C5165FE5"
+msgid "~z~Sorry, Packie. I can't throw darts with you right now."
+msgstr "~z~抱歉，Packie。我现在没法和你去扔飞镖。"
+
+msgctxt "C5E4E44F"
+msgid "010"
+msgstr "010"
+
+msgctxt "C803A967"
+msgid "010"
+msgstr "010"
+
+msgctxt "C93B9518"
+msgid "~z~I ain't in the mood to get drunk, Packie. Maybe later."
+msgstr "~z~我没心情喝酒，Packie。下次吧。"
+
+msgctxt "C98F6E2F"
+msgid "010"
+msgstr "010"
+
+msgctxt "CA46D232"
+msgid "100"
+msgstr "100"
+
+msgctxt "CAABC05D"
+msgid "FCP_ACT_PPK_GET_CALL_STRIP_YES"
+msgstr "FCP_ACT_PPK_GET_CALL_STRIP_YES"
+
+msgctxt "CB70C7C3"
+msgid "100"
+msgstr "100"
+
+msgctxt "CD8638DB"
+msgid "FCP_ACT_PPK_CALL_HILIKE"
+msgstr "FCP_ACT_PPK_CALL_HILIKE"
+
+msgctxt "CEABADF5"
+msgid "~z~Hey Niko, it's Packie."
+msgstr "~z~嘿，Niko，我是Packie。"
+
+msgctxt "CF41FAE6"
+msgid "FCP_ACT_PPK_GETCALL_POOL_YES"
+msgstr "FCP_ACT_PPK_GETCALL_POOL_YES"
+
+msgctxt "CFD1318C"
+msgid ""
+"~z~He Niko, let's do the strip-club, strippers, having a laugh with your "
+"mates thing?"
+msgstr "~z~嘿，Niko，一起去脱衣舞俱乐部，看看舞女，和朋友开怀大笑如何？"
+
+msgctxt "D15BF38D"
+msgid ""
+"~z~Sure, darts sounds good. I will pick you up from the house in the next "
+"hour."
+msgstr "~z~好，飞镖听起来不错。我一小时内来你家接你。"
+
+msgctxt "D22278DF"
+msgid "100"
+msgstr "100"
+
+msgctxt "D37B15C4"
+msgid "FCP_ACT_GETCALL_STRIP_FIRST"
+msgstr "FCP_ACT_GETCALL_STRIP_FIRST"
+
+msgctxt "D5EE942D"
+msgid "FCP_ACT_GETCALL_POOL_FIRST"
+msgstr "FCP_ACT_GETCALL_POOL_FIRST"
+
+msgctxt "D71446C1"
+msgid "~z~I can't get drunk with you today, Packie. I'm sorry."
+msgstr "~z~今天我没法陪你喝酒，Packie。很抱歉。"
+
+msgctxt "D859C151"
+msgid "~z~Patrick here."
+msgstr "~z~我是Patrick。"
+
+msgctxt "DA6DA33D"
+msgid "010"
+msgstr "010"
+
+msgctxt "DDF6B4B5"
+msgid "010"
+msgstr "010"
+
+msgctxt "DE5F6E8B"
+msgid "FCP_ACT_GETCALL_BOWL"
+msgstr "FCP_ACT_GETCALL_BOWL"
+
+msgctxt "DEA1BFE4"
+msgid "~z~Sorry Packie, I don't have the alcoholic genes you do. Maybe later."
+msgstr "~z~抱歉，Packie，我可没有你这样的酒鬼基因。下次吧。"
+
+msgctxt "DF5779B7"
+msgid "FCP_ACT_PPK_GETCALL_BOWL_NO"
+msgstr "FCP_ACT_PPK_GETCALL_BOWL_NO"
+
+msgctxt "E4B8CD41"
+msgid "100"
+msgstr "100"
+
+msgctxt "E703D111"
+msgid "FCP_ACT_CALL_STRIP"
+msgstr "FCP_ACT_CALL_STRIP"
+
+msgctxt "E713889F"
+msgid "100"
+msgstr "100"
+
+msgctxt "EA36650A"
+msgid "~z~Man, it's Packie calling."
+msgstr "~z~兄弟，是我，Packie。"
+
+msgctxt "EC9F4FAF"
+msgid "FCP_ACT_PPK_CALL_SHOW_CANCEL"
+msgstr "FCP_ACT_PPK_CALL_SHOW_CANCEL"
+
+msgctxt "EDD47712"
+msgid "FCP_ACT_PPK_CALL_MEDLIKE"
+msgstr "FCP_ACT_PPK_CALL_MEDLIKE"
+
+msgctxt "EDD9CADD"
+msgid "FCP_ACT_GETCALL_VERYIRATE"
+msgstr "FCP_ACT_GETCALL_VERYIRATE"
+
+msgctxt "F16B7B6F"
+msgid ""
+"~z~Packie, you're going to have to get messed up alone because I can't make "
+"it."
+msgstr "~z~Packie，你只能自己去大闹了，我去不了。"
+
+msgctxt "F3046B1F"
+msgid "100"
+msgstr "100"
+
+msgctxt "F4C48C39"
+msgid ""
+"~z~What's up man? My ma says that I got to take you to a show since you "
+"ain't from Liberty City. What do you think?"
+msgstr "~z~怎么样，兄弟？我妈说我应该带你去看个表演，因为你不是本地人。你意下如何？"
+
+msgctxt "F62A384C"
+msgid "100"
+msgstr "100"
+
+msgctxt "F9212C76"
+msgid "FCP_ACT_GETCALL_GREET"
+msgstr "FCP_ACT_GETCALL_GREET"
+
+msgctxt "F9830606"
+msgid "FCP_ACT_GETCALL_REJECT"
+msgstr "FCP_ACT_GETCALL_REJECT"
+
+msgctxt "F9D59E87"
+msgid "~z~Got to cancel our pool session, Packie. I'll make it up to you."
+msgstr "~z~打台球的计划得取消了，Packie。下次一定来。"
+
+msgctxt "FC16A309"
+msgid "~z~Man, sorry but pool is off. Something came up."
+msgstr "~z~兄弟，很抱歉，但台球打不了了。突然有事。"
+
+msgctxt "FDA0BE6F"
+msgid "FCP_ACT_PPK_GETCALL_POOL_NO"
+msgstr "FCP_ACT_PPK_GETCALL_POOL_NO"
+
+msgctxt "FDDE89DC"
+msgid "FCP_ACT_GETCALL_DRINK_FIRST"
+msgstr "FCP_ACT_GETCALL_DRINK_FIRST"
+
+msgctxt "FE218D8D"
+msgid "~z~Pool... okay. I will come to collect you in the next hour."
+msgstr "~z~台球...可以。我一小时内来接你。"
+
+msgctxt "FF58C09A"
+msgid "FCP_ACT_PPK_CALL_STRIP_NO"
+msgstr "FCP_ACT_PPK_CALL_STRIP_NO"
+
+msgctxt "FF636DAF"
+msgid "FCP_ACT_PPK_CALL_LOLIKE"
+msgstr "FCP_ACT_PPK_CALL_LOLIKE"

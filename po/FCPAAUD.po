@@ -1,0 +1,921 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FCPAAUD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "95F3E5"
+msgid "~z~A fucking draw, in bowling. What are the odds?"
+msgstr "~z~他妈保龄球还能打平手。这他妈也行？"
+
+msgctxt "109D69B"
+msgid ""
+"~z~Shit, Niko. What's the fucking deal? Let's fucking get there already.."
+msgstr "~z~我靠，Niko。这有毛关系？快他妈上路吧..."
+
+msgctxt "146E2C9"
+msgid "~z~Will you take me to the house?"
+msgstr "~z~你能送我回家吗？"
+
+msgctxt "1BD7A0B"
+msgid "~z~I've had naked chicks on me brain since we talked. I'm pumped, Niko."
+msgstr "~z~聊完电话，我的脑子里就全是裸体少妇了，Niko。"
+
+msgctxt "6B9A4D6"
+msgid "~z~Fuck, that place ain't bad. It ain't bad at all."
+msgstr "~z~操，那地方还不错，还算不错。"
+
+msgctxt "91AC4D5"
+msgid ""
+"~z~If you spent more time talking to women, and less staring at the internet "
+"with your cock in your hand you might get somewhere."
+msgstr "~z~如果能你多花点时间和女人聊天，少对着屏幕撸管，你是能有所成就的。"
+
+msgctxt "C703D9A"
+msgid "~z~Hey, man. Let's go."
+msgstr "~z~嘿，兄弟，我们走吧。"
+
+msgctxt "E8117E4"
+msgid ""
+"~z~Christ, if you'd been any later I probably woulda shot you. Let's move it."
+msgstr "~z~天哪，你要是再晚点过来，我就要毙了你了。出发吧。"
+
+msgctxt "EA7F1D5"
+msgid "FCP_ACT_ARRIVEM_NOTLATE"
+msgstr "FCP_ACT_ARRIVEM_NOTLATE"
+
+msgctxt "FADA736"
+msgid "FCP_ACT_LEAVE_CLUB_GENERIC"
+msgstr "FCP_ACT_LEAVE_CLUB_GENERIC"
+
+msgctxt "FD3E9BC"
+msgid "~z~Fuck Niko. I don't wanna do this."
+msgstr "~z~操，Niko。我不想做这个。"
+
+msgctxt "10C9717E"
+msgid "FCP_ACT_ARRIVE_BOWL"
+msgstr "FCP_ACT_ARRIVE_BOWL"
+
+msgctxt "115FAE4D"
+msgid "FCP_ACT_BORED_GETTING"
+msgstr "FCP_ACT_BORED_GETTING"
+
+msgctxt "11671A29"
+msgid "~z~Oh, darts, can't leave the bulleye alone eh? Alright, I'm in."
+msgstr "~z~噢，飞镖，不能让靶心孤单，嗯？好吧，我来。"
+
+msgctxt "11E657DA"
+msgid "100"
+msgstr "100"
+
+msgctxt "15121CBC"
+msgid "FCP_ACT_DIFF_POOL_YES"
+msgstr "FCP_ACT_DIFF_POOL_YES"
+
+msgctxt "1616C54A"
+msgid "100"
+msgstr "100"
+
+msgctxt "16DC6058"
+msgid ""
+"~z~If you're in a bar full of women and the only person you're interested in "
+"is me, you should start asking yourself some important questions."
+msgstr "~z~如果你在一个满是女人的酒吧里还只对我感兴趣，你就该问你自己一些重要的问题了。"
+
+msgctxt "1870578A"
+msgid ""
+"~z~I was getting bored of bowling anyway. I was thinking about shooting the "
+"pins down at one point."
+msgstr "~z~我保龄球也打腻了。我在想的是一次打倒所有瓶子。"
+
+msgctxt "192FE2DD"
+msgid "FCP_ACT_DARTS_LEAVE_ABANDON"
+msgstr "FCP_ACT_DARTS_LEAVE_ABANDON"
+
+msgctxt "1A218B79"
+msgid ""
+"~z~I'm fucked, when you're in a place like that you got no choice but to "
+"down the drinks."
+msgstr "~z~我不行了，不过在这种地方怎么能不喝酒呢。"
+
+msgctxt "1E1A3290"
+msgid "FCP_ACT_LEAVE_STRIP_OK"
+msgstr "FCP_ACT_LEAVE_STRIP_OK"
+
+msgctxt "208C7B29"
+msgid "100"
+msgstr "100"
+
+msgctxt "21C51682"
+msgid "100"
+msgstr "100"
+
+msgctxt "21E4DAD0"
+msgid "~z~Here it is Niko. See if we remember we were here tomorrow morning."
+msgstr "~z~到了，Niko。看看我们明早还记不记得自己来过这里吧。"
+
+msgctxt "23FD551E"
+msgid "FCP_ACT_ARRIVE_CLUB_GENERIC"
+msgstr "FCP_ACT_ARRIVE_CLUB_GENERIC"
+
+msgctxt "25130A4C"
+msgid "100"
+msgstr "100"
+
+msgctxt "25B82BFB"
+msgid ""
+"~z~It don't matter Niko. It's just a fucking game. You're better at shooting "
+"people if that's a consolation?"
+msgstr "~z~没关系，Niko。不过是场游戏而已。你还是更擅长打人吧，不知道算不算是安慰。"
+
+msgctxt "26B0E571"
+msgid "100"
+msgstr "100"
+
+msgctxt "26D078F5"
+msgid ""
+"~z~This like a slice of real European culture or something? Remind me to "
+"take you to a jig on our next date."
+msgstr "~z~这算是真实欧洲文化的一个截面吗？下次记得提醒我带你去看爱尔兰吉格舞。"
+
+msgctxt "27A94E18"
+msgid ""
+"~z~Didn't they teach you to tell the time, you're fucking late. Let's get a "
+"car."
+msgstr "~z~没人教你看时间的吗，你丫迟到了。去弄辆车来。"
+
+msgctxt "27EAA70B"
+msgid "~z~Whoa. Where are we? Are we coming in or going out?"
+msgstr "~z~喔哦，我们在哪儿呢？我们这是要进去还是出来？"
+
+msgctxt "27F5D867"
+msgid "FCP_ACT_BOWL_LEAVE_WON"
+msgstr "FCP_ACT_BOWL_LEAVE_WON"
+
+msgctxt "2827EA09"
+msgid "~z~Do you get this."
+msgstr "~z~明白了吗？"
+
+msgctxt "2A1AE281"
+msgid "FCP_ACT_ARRIVE_PUB_GENERIC"
+msgstr "FCP_ACT_ARRIVE_PUB_GENERIC"
+
+msgctxt "2A24EBB0"
+msgid "100"
+msgstr "100"
+
+msgctxt "2BB277C0"
+msgid "100"
+msgstr "100"
+
+msgctxt "2D2989FA"
+msgid "FCP_ACT_LEAVE_DRINK_INSULT"
+msgstr "FCP_ACT_LEAVE_DRINK_INSULT"
+
+msgctxt "2DB889DA"
+msgid ""
+"~z~Shit, Niko. We weren't in there long. My priest'll thank you for "
+"preventing me from sinning at least."
+msgstr "~z~我靠，Niko。我们很久没来过这儿了。至少我的神父会感谢你让我远离罪孽的。"
+
+msgctxt "320717EE"
+msgid "~z~Hey man, so we need some vehicular transport."
+msgstr "~z~嘿，兄弟，我们需要弄辆交通工具。"
+
+msgctxt "35A126A4"
+msgid ""
+"~z~Shit, I'm storing those bitches in the bank for later. If you catch my "
+"drift."
+msgstr "~z~我靠，我要把这些婊子存银行里以备日后需要。不知道你听没听懂。"
+
+msgctxt "36926D26"
+msgid "~z~Good to see you Niko, gimme a call."
+msgstr "~z~很高兴见到你，Niko，有空打给我。"
+
+msgctxt "369E9FDC"
+msgid ""
+"~z~You just go to show that no matter what man achieves, we still behave "
+"like fucking apes."
+msgstr "~z~你就是最好的例子，无论人类进化成什么样，我们还是表现的跟猩猩一样。"
+
+msgctxt "3720ECDB"
+msgid "~z~Fuck me, you don't actually like that shit, do ya?"
+msgstr "~z~我操，你该不会真喜欢这种狗屎玩意吧？"
+
+msgctxt "37A1FA3D"
+msgid "100"
+msgstr "100"
+
+msgctxt "3914A096"
+msgid ""
+"~z~Niko, why do you wanna leave so early? You didn't touch one of the girls "
+"did ya? I wanna go back there."
+msgstr "~z~Niko，你怎么这么快就走了？你还一个姑娘都没摸过吧？我想再回去玩会儿。"
+
+msgctxt "39C7BE1C"
+msgid "100"
+msgstr "100"
+
+msgctxt "3A6D418F"
+msgid "100"
+msgstr "100"
+
+msgctxt "3B939F96"
+msgid "~z~Alright man. This fucker better be funny."
+msgstr "~z~好吧，兄弟。这逼最好能有趣点。"
+
+msgctxt "3C2FF341"
+msgid "~z~I ain't got the patience to be waiting, Niko. Let's go."
+msgstr "~z~我可没耐心等着，Niko。我们走吧。"
+
+msgctxt "3CE90E5F"
+msgid "100"
+msgstr "100"
+
+msgctxt "3FD849D5"
+msgid "100"
+msgstr "100"
+
+msgctxt "40F2BEA3"
+msgid "100"
+msgstr "100"
+
+msgctxt "44593B51"
+msgid ""
+"~z~I can give you three reasons, but the fact that you're the ugliest man "
+"I've ever seen should be enough of one."
+msgstr "~z~我可以给你三个理由，但事实上你是我见过的最丑的人，这就够了。"
+
+msgctxt "45FA4626"
+msgid "~z~You got fucking lucky, Niko. Shit, I hate bowling."
+msgstr "~z~你丫运气真好，Niko。操，我讨厌保龄球。"
+
+msgctxt "4666CAB3"
+msgid "100"
+msgstr "100"
+
+msgctxt "47ECDEE4"
+msgid "100"
+msgstr "100"
+
+msgctxt "485890B2"
+msgid "~z~I had some fun, Niko. Speak to you soon."
+msgstr "~z~我玩得挺开心，Niko。以后再联系。"
+
+msgctxt "4EE29208"
+msgid "~z~You fancy motherfucker. America has really got to you, hasn't it?"
+msgstr "~z~你这花哨狗逼。已经是个美国人了是吧？"
+
+msgctxt "511D9FCB"
+msgid "100"
+msgstr "100"
+
+msgctxt "54AC00B0"
+msgid "100"
+msgstr "100"
+
+msgctxt "561CD0F2"
+msgid "~z~There you are. Let's move out."
+msgstr "~z~你来啦，我们走吧。"
+
+msgctxt "565CCE72"
+msgid "FCP_ACT_DIFF_DARTS_YES"
+msgstr "FCP_ACT_DIFF_DARTS_YES"
+
+msgctxt "56A91602"
+msgid "FCP_ACT_BORED_TAKEHOME"
+msgstr "FCP_ACT_BORED_TAKEHOME"
+
+msgctxt "5850FAB9"
+msgid "~z~What you playing at Niko? I ain't doing this shit."
+msgstr "~z~你这作弄谁呢，Niko？这种事我可不干。"
+
+msgctxt "588D2F9F"
+msgid "100"
+msgstr "100"
+
+msgctxt "58D3FBAB"
+msgid ""
+"~z~Hey man, this a joke? It ain't a funny one if it is. I'm not going in."
+msgstr "~z~嘿，兄弟，你开玩笑吗？这可不好笑。我不会去的。"
+
+msgctxt "5937326F"
+msgid "~z~That was a good craic, man. Catch you round."
+msgstr "~z~玩得很嗨森，兄弟。回头见。"
+
+msgctxt "596DE071"
+msgid "100"
+msgstr "100"
+
+msgctxt "599DC82E"
+msgid ""
+"~z~Alright Niko, you won. If you try to rub me face in it. Things ain't "
+"gonna be pretty."
+msgstr "~z~好吧，Niko，你赢了。要是你想骑我头上，就有你好看。"
+
+msgctxt "5AA65107"
+msgid "FCP_ACT_LEAVE_SHOW_CABARET"
+msgstr "FCP_ACT_LEAVE_SHOW_CABARET"
+
+msgctxt "5D9ED1D0"
+msgid "FCP_ACT_BOWL_LEAVE_DRAW"
+msgstr "FCP_ACT_BOWL_LEAVE_DRAW"
+
+msgctxt "5F4DF27B"
+msgid "~z~What's up man, so er, we're gonna need some wheels."
+msgstr "~z~你好啊，兄弟。那个，呃，我们得弄辆车。"
+
+msgctxt "61EB8CBD"
+msgid "100"
+msgstr "100"
+
+msgctxt "6227F6EE"
+msgid ""
+"~z~I don't care if she's your girlfriend. That don't stop her being uglier "
+"than sin."
+msgstr "~z~我才不管她是不是你女友。那也改变不了她比罪孽还丑陋的事实。"
+
+msgctxt "62798E69"
+msgid "100"
+msgstr "100"
+
+msgctxt "64600884"
+msgid "100"
+msgstr "100"
+
+msgctxt "64BD607C"
+msgid "~z~Okay, Niko. This place ain't too shabby. It ain't too shabby at all."
+msgstr "~z~好吧，Niko。这地方还不算太烂。真的不能算太烂。"
+
+msgctxt "67520361"
+msgid ""
+"~z~Couldn't hack the pressure, eh Niko? Had to duck out of the game of pool "
+"early. That's cool."
+msgstr "~z~顶不住压力了吧，嗯Niko？只能提前开溜了对吧。真好。"
+
+msgctxt "67AA740D"
+msgid "~z~There's me man, Niko. Come on."
+msgstr "~z~我兄弟Niko来啦。走吧。"
+
+msgctxt "67DCA3F0"
+msgid "~z~You wanted me to press my body up against you, didn't you? Let's go."
+msgstr "~z~你就是想让我贴在你身上是吧？走吧。"
+
+msgctxt "6B05D4D0"
+msgid ""
+"~z~Fuck, I got better things to do than wait for you. Now we got to look for "
+"a car as well."
+msgstr "~z~操，比起等你我本来有更好的事情可做。现在我们还得去找辆车。"
+
+msgctxt "6B06F626"
+msgid ""
+"~z~Top prize for being an asshole goes to Niko. You made us miss the damn "
+"show."
+msgstr "~z~为人混蛋一等奖颁给Niko。你搞得我们错过演出了。"
+
+msgctxt "6B388903"
+msgid "~z~You're a fucking loser cunt and you know it."
+msgstr "~z~你丫就是个屌丝lowB，你自己也知道。"
+
+msgctxt "6BEBE758"
+msgid "FCP_ACT_TAKEHOME"
+msgstr "FCP_ACT_TAKEHOME"
+
+msgctxt "6CFA59F5"
+msgid "~z~Later on, man. Call me."
+msgstr "~z~回见，兄弟。记得打给我。"
+
+msgctxt "6DC57ABD"
+msgid "100"
+msgstr "100"
+
+msgctxt "6FC98831"
+msgid "100"
+msgstr "100"
+
+msgctxt "70186D9B"
+msgid "FCP_ACT_ARRIVE_PUB_FAVOURITE"
+msgstr "FCP_ACT_ARRIVE_PUB_FAVOURITE"
+
+msgctxt "711443E7"
+msgid "100"
+msgstr "100"
+
+msgctxt "718172BC"
+msgid "~z~You know I'm gonna destroy you at darts. It's going to happen, Niko."
+msgstr "~z~要知道，我在飞镖上是可以碾压你的。会碾压的，Niko。"
+
+msgctxt "71D95E93"
+msgid "~z~Jesus Niko, waiting for your Slavic ass ain't fun at all. Come on."
+msgstr "~z~天哪，Niko，等你这个斯拉夫混蛋可不好玩。走了。"
+
+msgctxt "7848E7EF"
+msgid "~z~Fucking darts? It ain't what I signed on for but I'm game."
+msgstr "~z~改玩飞镖了？这跟说好的不一样，不过也行。"
+
+msgctxt "79EC2520"
+msgid "FCP_ACT_DARTS_LEAVE_DRAW"
+msgstr "FCP_ACT_DARTS_LEAVE_DRAW"
+
+msgctxt "7A8DB3DD"
+msgid "100"
+msgstr "100"
+
+msgctxt "7AD275C7"
+msgid "FCP_ACT_ARRIVE_DARTS"
+msgstr "FCP_ACT_ARRIVE_DARTS"
+
+msgctxt "7BA36B89"
+msgid "~z~A fuckin chopper? Man, you a player!"
+msgstr "~z~直升机他妈都开来了？兄弟你丫行啊！"
+
+msgctxt "7C852B9C"
+msgid "~z~Fuck you. I'd spill your drinks again if I had the fucking chance."
+msgstr "~z~操你妈，要是老子他妈有机会，还会把你的酒都倒了。"
+
+msgctxt "7CD919D2"
+msgid ""
+"~z~Your pissing around has made us miss the fucking show. Nice one, Niko."
+msgstr "~z~你丫到处乱跑搞得我们错过演出了。很好，Niko。"
+
+msgctxt "7D45A1C0"
+msgid ""
+"~z~Shit, I love that shit hole. They gotta put something in the drinks "
+"there. I'm screwed."
+msgstr "~z~我操，我喜欢这家破店。他们的酒水里肯定下了料。我不行了。"
+
+msgctxt "7D97D205"
+msgid "100"
+msgstr "100"
+
+msgctxt "7DE928C7"
+msgid "~z~Niko, I'm bored as fuck. Take me home."
+msgstr "~z~Niko，我他妈无聊死了。送我回家。"
+
+msgctxt "826699A3"
+msgid "~z~Niko, you beat me at pool. That don't make you a better man."
+msgstr "~z~Niko，你台球打赢我了。不过这也没法让你变好。"
+
+msgctxt "87389E2A"
+msgid "~z~You ready to get your ass thrashed at darts, then?"
+msgstr "~z~准备好在飞镖上输得底裤都不剩了吗？"
+
+msgctxt "88CEAB04"
+msgid "100"
+msgstr "100"
+
+msgctxt "8BE84BCE"
+msgid "~z~We ain't interested in you like that ladies."
+msgstr "~z~我们不像那些女士一样对你感兴趣。"
+
+msgctxt "8D85CD77"
+msgid "FCP_ACT_LEAVE_STRIP_GOOD"
+msgstr "FCP_ACT_LEAVE_STRIP_GOOD"
+
+msgctxt "8F70DA42"
+msgid ""
+"~z~God, I'm gonna have to say a load of Hail Marys after the thoughts I was "
+"thinking in there."
+msgstr "~z~上帝啊，在我在这儿胡思乱想那么多以后，我得念上很多遍万福玛利亚了。"
+
+msgctxt "900AD7E3"
+msgid "FCP_ACT_BORED_LEAVING"
+msgstr "FCP_ACT_BORED_LEAVING"
+
+msgctxt "92119241"
+msgid ""
+"~z~This place, eh Niko? If here's you're place then let's do it. It's all "
+"the same to me when I'm wasted anyway."
+msgstr "~z~就这地方，嗯Niko？就这儿的话我们就进去吧。能让我大醉的话哪儿都一样。"
+
+msgctxt "930FE30E"
+msgid "100"
+msgstr "100"
+
+msgctxt "946AE3B9"
+msgid "FCP_ACT_DARTS_LEAVE_LOST"
+msgstr "FCP_ACT_DARTS_LEAVE_LOST"
+
+msgctxt "95BD8EAB"
+msgid "100"
+msgstr "100"
+
+msgctxt "9707FDE1"
+msgid "100"
+msgstr "100"
+
+msgctxt "97FAE287"
+msgid ""
+"~z~I think that following us out here proves my point. You are fucking "
+"stupid."
+msgstr "~z~我想跟着我们出来就证明了我的观点。你丫就是傻逼。"
+
+msgctxt "980C1EE4"
+msgid "FCP_ACT_POOL_LEAVE_LOST"
+msgstr "FCP_ACT_POOL_LEAVE_LOST"
+
+msgctxt "99362CC4"
+msgid ""
+"~z~Shit Niko, it wouldn't have taken much longer to finish a game of darts."
+msgstr "~z~我靠，Niko，玩完一局飞镖又不会花上多久。"
+
+msgctxt "9A1D95AE"
+msgid "100"
+msgstr "100"
+
+msgctxt "9AF8DD26"
+msgid "~z~That place is fucking awesome. I can't nearly see."
+msgstr "~z~那地方太他妈爽了，我都快看不见路了。"
+
+msgctxt "9BED6C97"
+msgid ""
+"~z~Fine, Niko. You wanna quit that's okay. I'm gonna count it as a win for "
+"me."
+msgstr "~z~行吧，Niko。你想退出也行。那就算是我的胜利。"
+
+msgctxt "9CCAED93"
+msgid "~z~Pair of transexuals seem to be following us!"
+msgstr "~z~一对变性人似乎跟着我们！"
+
+msgctxt "9D6D0F0C"
+msgid "~z~A bike, you better be able to drive it, Niko. Let's go."
+msgstr "~z~摩托车，你最好是会骑，Niko。我们走吧。"
+
+msgctxt "9D9CB699"
+msgid ""
+"~z~I don't like losing, Niko. If you weren't such a gracious winner I might "
+"have got real angry."
+msgstr "~z~我不喜欢失败，Niko。要不是因为你是个如此谦和的赢家，我就要生气了。"
+
+msgctxt "9E7E85C8"
+msgid "FCP_ACT_DARTS_LEAVE_WON"
+msgstr "FCP_ACT_DARTS_LEAVE_WON"
+
+msgctxt "9E9BF211"
+msgid "FCP_ACT_POOL_LEAVE_DRAW"
+msgstr "FCP_ACT_POOL_LEAVE_DRAW"
+
+msgctxt "9FCB9074"
+msgid "~z~When you don't wanna be somewhere you just cut lose, don't ya?"
+msgstr "~z~你不想去什么地方的时候就会止损，对吧？"
+
+msgctxt "A060AEDF"
+msgid ""
+"~z~Alright, man. There are better places to get a drink in this city but a "
+"drink's a drink, you know?"
+msgstr "~z~行吧，兄弟。城里还有更好的地方可以喝酒，但总归是有酒喝的，懂吧？"
+
+msgctxt "A08CA775"
+msgid "100"
+msgstr "100"
+
+msgctxt "A3600698"
+msgid "~z~That's funny."
+msgstr "~z~很有趣。"
+
+msgctxt "A38F2866"
+msgid "FCP_ACT_ARRIVE_SHOW_LATE"
+msgstr "FCP_ACT_ARRIVE_SHOW_LATE"
+
+msgctxt "A3E0732B"
+msgid "~z~Fuck me, I didn't know they had this kind of thing in Liberty City."
+msgstr "~z~我操，我都不知道自由城里还有这种东西。"
+
+msgctxt "A4892C87"
+msgid "100"
+msgstr "100"
+
+msgctxt "A4F37250"
+msgid "~z~Okay Niko, you need me to explain what anything means, just ask."
+msgstr "~z~好了，Niko，你要是有什么想让我解释的就直说吧。"
+
+msgctxt "A5A2C1D7"
+msgid "~z~I'm nearly bursting , Niko. This is gonna be fucking great."
+msgstr "~z~我快顶不住了，Niko。这里最好够他妈爽。"
+
+msgctxt "A5A79FD4"
+msgid "~z~Niko, what the fuck man? Why's this taking so long."
+msgstr "~z~Niko，搞毛啊老兄？怎么会花这么久。"
+
+msgctxt "A7060E90"
+msgid "~z~I don't remember agreeing to a game of pool. Was I drunk?"
+msgstr "~z~我不记得我答应的是打台球啊。是我醉了吗？"
+
+msgctxt "A7C42FBD"
+msgid "~z~Take me back to the house."
+msgstr "~z~送我回家。"
+
+msgctxt "AED4B22E"
+msgid ""
+"~z~I'm getting bored, man. If we don't get there soon I'm gonna have to "
+"start hitting the yayo."
+msgstr "~z~我开始无聊了，兄弟。要是我们再没到地方，我就要开始嗑药了。"
+
+msgctxt "AF9466F3"
+msgid "FCP_ACT_ARRIVEF_NOTLATE"
+msgstr "FCP_ACT_ARRIVEF_NOTLATE"
+
+msgctxt "B0B02799"
+msgid "100"
+msgstr "100"
+
+msgctxt "B1507431"
+msgid "FCP_ACT_ARRIVE_SHOW_COMEDY"
+msgstr "FCP_ACT_ARRIVE_SHOW_COMEDY"
+
+msgctxt "B2618F1F"
+msgid "100"
+msgstr "100"
+
+msgctxt "B3505303"
+msgid ""
+"~z~The best man won, Niko. Don't think anyone's gonna dispute that are they?"
+msgstr "~z~强者胜出，Niko。没人会反驳的，不是吗？"
+
+msgctxt "B3AA1698"
+msgid "~z~Tie game, Niko. Tie game. We're a good match, a good match."
+msgstr "~z~平局，Niko，平局啊。旗鼓相当，旗鼓相当。"
+
+msgctxt "B4EA7A6A"
+msgid "~z~Shit, Niko. I'll find me own damn way home then."
+msgstr "~z~我靠，Niko。那我自己想法子回去。"
+
+msgctxt "B5AE2B34"
+msgid "~z~He's a fuckin' genius."
+msgstr "~z~他他妈是个天才。"
+
+msgctxt "B7E9B969"
+msgid "~z~I'm in, man. I'm fucking in. Let's go."
+msgstr "~z~我来，兄弟。我当然来，我们走吧。"
+
+msgctxt "B8A1291F"
+msgid "FCP_ACT_LEAVE_PUB_GENERIC"
+msgstr "FCP_ACT_LEAVE_PUB_GENERIC"
+
+msgctxt "B9ADA758"
+msgid "~z~You assholes are starting to annoy me."
+msgstr "~z~你们这些混蛋要惹毛我了。"
+
+msgctxt "BA70B139"
+msgid "100"
+msgstr "100"
+
+msgctxt "BB2B8692"
+msgid "100"
+msgstr "100"
+
+msgctxt "BB797819"
+msgid "100"
+msgstr "100"
+
+msgctxt "BD5EA667"
+msgid "FCP_ACT_ARRIVEF_LATE"
+msgstr "FCP_ACT_ARRIVEF_LATE"
+
+msgctxt "BE4E2B7B"
+msgid "100"
+msgstr "100"
+
+msgctxt "BFE572AF"
+msgid ""
+"~z~That wasn't too bad. If I'd had a few more rails beforehand it might a "
+"been even better."
+msgstr "~z~还不错。要是我事前能多吸点粉就更好了。"
+
+msgctxt "C205F06E"
+msgid ""
+"~z~Niko, Niko, you come up against the best, you can't expect to win. Bad "
+"luck man."
+msgstr "~z~Niko，Niko，你挑战了最强的选手就别想赢了。运气不行啊兄弟。"
+
+msgctxt "C37C9BCF"
+msgid "FCP_ACT_DURING_SHOW_POS"
+msgstr "FCP_ACT_DURING_SHOW_POS"
+
+msgctxt "C4B5044D"
+msgid "~z~You're fucking late, you dick head. Let's go."
+msgstr "~z~你他妈迟到了，屌人。走吧。"
+
+msgctxt "C4B5A326"
+msgid "~z~I don't get it."
+msgstr "~z~我没看懂。"
+
+msgctxt "C513B71F"
+msgid "~z~Alright Niko, enough's enough. Take me home."
+msgstr "~z~好了，Niko，够了就是够了。送我回家吧。"
+
+msgctxt "C5D57561"
+msgid "FCP_ACT_DURING_SHOW_NEG"
+msgstr "FCP_ACT_DURING_SHOW_NEG"
+
+msgctxt "C6B2D6EF"
+msgid "~z~This is the place, boy. Let's get screwed up."
+msgstr "~z~就是这儿了，小子，我们开干吧。"
+
+msgctxt "C6F06940"
+msgid "100"
+msgstr "100"
+
+msgctxt "C71D1ECF"
+msgid "~z~You're a selfish bastard, aren't you? I'll get my self home. Shit."
+msgstr "~z~你丫是个自私混蛋是吧？我自己回家了。操。"
+
+msgctxt "C754C788"
+msgid "FCP_ACT_POOL_LEAVE_WON"
+msgstr "FCP_ACT_POOL_LEAVE_WON"
+
+msgctxt "C7EBCFAF"
+msgid "~z~That's fucking priceless."
+msgstr "~z~那他妈是无价之宝。"
+
+msgctxt "C8C0CB1C"
+msgid "FCP_ACT_LEAVE_SHOW_EARLY"
+msgstr "FCP_ACT_LEAVE_SHOW_EARLY"
+
+msgctxt "CA13ADA9"
+msgid "~z~I didn't think we was bowling, fuck it. Let's go."
+msgstr "~z~我们没说要打保龄球吧，算了。走。"
+
+msgctxt "CB9A2A12"
+msgid "100"
+msgstr "100"
+
+msgctxt "CC5F97FF"
+msgid "~z~I'm a fucking hustler, Niko. You ain't never gonna beat me at pool."
+msgstr "~z~我他妈可是个花花公子，Niko。你可没法在台球上打败我。"
+
+msgctxt "CC967961"
+msgid "~z~Hey, take me back to Ma's."
+msgstr "~z~嘿，送我回妈家。"
+
+msgctxt "CE5AEF63"
+msgid "FCP_ACT_DROPOFF"
+msgstr "FCP_ACT_DROPOFF"
+
+msgctxt "D01E74C5"
+msgid "100"
+msgstr "100"
+
+msgctxt "D2D010DE"
+msgid "100"
+msgstr "100"
+
+msgctxt "D340A1E0"
+msgid "~z~Them fucking darts was weighted funny. I shouldn't a lost."
+msgstr "~z~他们的垃圾飞镖重量不对，不然我能赢的。"
+
+msgctxt "D3667B51"
+msgid "~z~What's taking so long?"
+msgstr "~z~怎么这么久？"
+
+msgctxt "D46AB7D2"
+msgid "FCP_ACT_BOWL_LEAVE_ABANDON"
+msgstr "FCP_ACT_BOWL_LEAVE_ABANDON"
+
+msgctxt "D48C2BD1"
+msgid "FCP_ACT_BOWL_LEAVE_LOST"
+msgstr "FCP_ACT_BOWL_LEAVE_LOST"
+
+msgctxt "D68446C3"
+msgid "~z~What's that about?"
+msgstr "~z~讲了些什么？"
+
+msgctxt "D75E5CE7"
+msgid "FCP_ACT_LEAVE_SHOW_COMEDY"
+msgstr "FCP_ACT_LEAVE_SHOW_COMEDY"
+
+msgctxt "DA0784EF"
+msgid "~z~Fuck Niko, I paid to see that shit."
+msgstr "~z~操蛋，Niko，我花了钱就看这种狗屎。"
+
+msgctxt "DA193372"
+msgid "~z~Come on, Niko. Rack 'em up."
+msgstr "~z~来吧，Niko。干了他们。"
+
+msgctxt "DC36F8F1"
+msgid "~z~Balls in pockets again hey? Alrite why not."
+msgstr "~z~再来次球球入袋？也不是不行吧。"
+
+msgctxt "DE79A43D"
+msgid "~z~Let's go bowling, Niko."
+msgstr "~z~进去打保龄球吧，Niko。"
+
+msgctxt "DE7C1D34"
+msgid "~z~Drop me at Ma's, will ya?"
+msgstr "~z~送我到妈家，行吧？"
+
+msgctxt "DF4202AB"
+msgid "FCP_ACT_ARRIVEH_NOTLATE"
+msgstr "FCP_ACT_ARRIVEH_NOTLATE"
+
+msgctxt "E4A5317A"
+msgid "FCP_ACT_LEAVE_CLUB_FAVOURITE"
+msgstr "FCP_ACT_LEAVE_CLUB_FAVOURITE"
+
+msgctxt "E5512EF1"
+msgid "FCP_ACT_POOL_LEAVE_ABANDON"
+msgstr "FCP_ACT_POOL_LEAVE_ABANDON"
+
+msgctxt "E5E7D744"
+msgid ""
+"~z~I guess they don't got darts where you're from. It's an Irishman's game."
+msgstr "~z~我猜你老家没有飞镖。这是爱尔兰人的游戏。"
+
+msgctxt "E6FAD8D7"
+msgid "FCP_ACT_ARRIVE_SHOW_CABARET"
+msgstr "FCP_ACT_ARRIVE_SHOW_CABARET"
+
+msgctxt "E9B12495"
+msgid "FCP_ACT_ARRIVE_STRIP"
+msgstr "FCP_ACT_ARRIVE_STRIP"
+
+msgctxt "EA7D4F51"
+msgid ""
+"~z~Fuck, we coulda finished the game. I was starting to get a feel for it."
+msgstr "~z~操蛋，我们可以玩完整局的，我都有手感了。"
+
+msgctxt "EA9D53D5"
+msgid "~z~Jesus Christ. That what you guys watch on TV where you come from?"
+msgstr "~z~基督耶稣啊，你们老家电视上看的就是这种东西？"
+
+msgctxt "EB83211B"
+msgid "~z~Come on, Niko. If I wanted to do this I'd ask to do it."
+msgstr "~z~拜托，Niko，想来这个的话我会主动提出来的。"
+
+msgctxt "EFB8B1E5"
+msgid "FCP_ACT_ARRIVE_LATE"
+msgstr "FCP_ACT_ARRIVE_LATE"
+
+msgctxt "F2548D61"
+msgid "~z~So, it was a tie. I guess we're evenly matched."
+msgstr "~z~那就是平手了。我想我们是旗鼓相当。"
+
+msgctxt "F26D0AA5"
+msgid "100"
+msgstr "100"
+
+msgctxt "F3919AB2"
+msgid "100"
+msgstr "100"
+
+msgctxt "F3D7B1D7"
+msgid "FCP_ACT_ARRIVEC_NOTLATE"
+msgstr "FCP_ACT_ARRIVEC_NOTLATE"
+
+msgctxt "F463743B"
+msgid "~z~Bad luck Niko, you might win if they let you shoot the board."
+msgstr "~z~运气不行啊，Niko。要是给你打到了，你还真有可能会赢。"
+
+msgctxt "F46C003B"
+msgid ""
+"~z~Man, I just don't like stopping once I've started. I could drink all "
+"fucking night."
+msgstr "~z~兄弟，一开始喝酒我就停不下来了，我他妈可以喝上一整晚。"
+
+msgctxt "F4C16ADB"
+msgid "100"
+msgstr "100"
+
+msgctxt "F70560F2"
+msgid "~z~That was alright Niko. The man can tell a joke."
+msgstr "~z~还算不错吧，Niko。这人挺会讲笑话的。"
+
+msgctxt "F9D6ADE0"
+msgid "~z~I never liked bowling anyway."
+msgstr "~z~反正我向来不喜欢保龄球。"
+
+msgctxt "FA38DBBB"
+msgid "~z~Alright man, we're here. Let's bowl."
+msgstr "~z~好了，兄弟，我们到了。开始保龄吧。"
+
+msgctxt "FA8F99D9"
+msgid "~z~Alright, Niko. We good to go."
+msgstr "~z~好了，Niko。赶紧出发吧。"
+
+msgctxt "FA90E822"
+msgid "FCP_ACT_ARRIVE_POOL"
+msgstr "FCP_ACT_ARRIVE_POOL"
+
+msgctxt "FA9F248F"
+msgid "FCP_ACT_DIFF_BOWL_YES"
+msgstr "FCP_ACT_DIFF_BOWL_YES"
+
+msgctxt "FAFD3EB9"
+msgid "FCP_ACT_DIFF_ACTIVITY_NO"
+msgstr "FCP_ACT_DIFF_ACTIVITY_NO"
+
+msgctxt "FBB3CC03"
+msgid "~z~You're a fucking prick, Niko. Get us there alright."
+msgstr "~z~你他妈就是个屌人，Niko。赶紧上路吧。"
+
+msgctxt "FBECAA6D"
+msgid "~z~Dumb pricks!"
+msgstr "~z~傻逼玩意！"

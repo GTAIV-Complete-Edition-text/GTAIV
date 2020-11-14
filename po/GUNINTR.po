@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GUNINTR\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "841107C"
+msgid ""
+"Use ~PAD_RSTICK_DOWN~ while locked onto a target to focus your aim on his "
+"leg."
+msgstr "锁定目标时，用~PAD_RSTICK_DOWN~瞄准目标腿部。"
+
+msgctxt "146149AC"
+msgid ""
+"Use ~PAD_RSTICK_UP~ while locked onto a target to focus your aim on his leg."
+msgstr "锁定目标时，用~PAD_RSTICK_UP~瞄准目标腿部。"
+
+msgctxt "190F2703"
+msgid "~r~You left Dimitri in the shop.~s~"
+msgstr "~r~你把Dimitri落在了店里。~s~"
+
+msgctxt "22F366D0"
+msgid ""
+"With ~INPUT_AIM~ held down halfway, use ~PAD_RSTICK_ALL~ to ~h~free aim."
+msgstr "半按~INPUT_AIM~时，使用~PAD_RSTICK_ALL~~h~自由瞄准"
+
+msgctxt "266EF18D"
+msgid "Take Dimitri to the ~y~sex shop~s~ on Delaware Avenue."
+msgstr "带Dimitri去Delaware大道上的~y~成人用品店。"
+
+msgctxt "28237882"
+msgid "Go get ~b~Dimitri~s~ and bring him back to Faustin's house."
+msgstr "接上~b~Dimitri，~s~送他回Faustin家。"
+
+msgctxt "2A22DC6C"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通缉度。"
+
+msgctxt "2DBB505B"
+msgid "~r~The porn shop guys were injured.~s~"
+msgstr "~r~A片店的人受伤了。~s~"
+
+msgctxt "344DD291"
+msgid "Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to ~h~aim."
+msgstr "使用~INPUT_AIM~和~PAD_RSTICK_ALL~~h~瞄准。"
+
+msgctxt "3B0423F3"
+msgid "Follow ~b~Dimitri~s~ out of the shop."
+msgstr "跟随~b~Dimitri~s~离开商店。"
+
+msgctxt "51975F72"
+msgid "Use ~PAD_RSTICK_ALL~ while aiming to focus your aim on his leg."
+msgstr "瞄准时用~PAD_RSTICK_ALL~瞄准目标腿部。"
+
+msgctxt "58785130"
+msgid "Don't leave ~b~Dimitri~s~ in the shop."
+msgstr "别把~b~Dimitri~s~落在店里。"
+
+msgctxt "672656FF"
+msgid "~s~You left ~b~Dimitri~s~ behind."
+msgstr "~s~你丢下了~b~Dimitri。~s~"
+
+msgctxt "6743F74E"
+msgid "Injure the Joseph's associates, not Joseph."
+msgstr "伤害Joseph的同伙，而不是Joseph。"
+
+msgctxt "7252BB15"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通缉度。"
+
+msgctxt "76F414CA"
+msgid "Go with Dimitri to the ~y~gun store."
+msgstr "和Dimitri一起去~y~枪店。"
+
+msgctxt "8C4B4340"
+msgid ""
+"With ~INPUT_ATTACK~ held, use ~INPUT_AIM~ and the ~PAD_RSTICK_ALL~ to free "
+"aim while firing."
+msgstr "按住~INPUT_ATTACK~时，使用~INPUT_AIM~和~PAD_RSTICK_ALL~在开火时自由瞄准。"
+
+msgctxt "8E7BFE06"
+msgid "Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim at targets."
+msgstr "用~INPUT_AIM~和~PAD_RSTICK_ALL~瞄准目标。"
+
+msgctxt "90DB4AC8"
+msgid "Head into the ~y~gun store."
+msgstr "前往~y~枪店。"
+
+msgctxt "987FDA09"
+msgid "Dimitri is dead."
+msgstr "Dimitri死了。"
+
+msgctxt "9A92DBAB"
+msgid "Hold ~INPUT_AIM~ to lock onto a target."
+msgstr "按住~INPUT_AIM~锁定目标。"
+
+msgctxt "9D3764D8"
+msgid "Placeholder for MOCAP cutscene."
+msgstr "Placeholder for MOCAP cutscene."
+
+msgctxt "A029E965"
+msgid "Purchase a ~g~Micro SMG."
+msgstr "购买一把~g~微型SMG。"
+
+msgctxt "A08BE9D9"
+msgid "Get back to ~b~Dimitri."
+msgstr "回去找~b~Dimitri。"
+
+msgctxt "A4103D03"
+msgid "~r~You were supposed to shoot him in the leg.~s~"
+msgstr "~r~你要打的是他的腿。~s~"
+
+msgctxt "AEF87EDC"
+msgid "With ~PAD_LB~ held, use the ~PAD_RSTICK_ALL~ free aim while firing."
+msgstr "按住~PAD_LB~时，使用~PAD_RSTICK_ALL~在开火时自由瞄准。"
+
+msgctxt "B8009A7A"
+msgid "Target the ~r~guy~s~ in the middle."
+msgstr "瞄准中间的~r~那个人。~s~"
+
+msgctxt "BF5A1C2C"
+msgid "Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim at a target."
+msgstr "用~INPUT_AIM~和~PAD_RSTICK_ALL~瞄准目标。"
+
+msgctxt "CA2E3ED5"
+msgid "Target ~r~Joseph~s~ to intimidate him."
+msgstr "瞄准~r~Joseph~s~以胁迫他。"
+
+msgctxt "CAE6BCC2"
+msgid ""
+"Use ~PAD_RSTICK_LEFTRIGHT~ while locked on to aim at targets to the left and "
+"right of the current target."
+msgstr "锁定目标时，用~PAD_RSTICK_LEFTRIGHT~切换锁定的目标。"
+
+msgctxt "CDB7C5E8"
+msgid "Shoot the ~r~porn actor~s~ in the leg."
+msgstr "打断那个~r~AV男优~s~的腿。"
+
+msgctxt "CE6591B1"
+msgid "~r~All of your ammo was wasted.~s~"
+msgstr "~r~你把子弹浪费光了。~s~"
+
+msgctxt "D556865B"
+msgid "Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to focus your aim on his leg."
+msgstr "用~INPUT_AIM~和~PAD_RSTICK_ALL~瞄准他的腿部。"
+
+msgctxt "E00434EE"
+msgid "~r~Dimitri is dead.~s~"
+msgstr "~r~Dimitri死了。~s~"
+
+msgctxt "E54F717F"
+msgid "Visit the Gun Store whenever you need guns and ammo."
+msgstr "需要枪支和弹药时就去枪店看看吧。"
+
+msgctxt "E96A7865"
+msgid "Enter the ~y~shop."
+msgstr "进入~y~商店。"
+
+msgctxt "F5B09429"
+msgid "Take Dimitri to ~y~Faustin's house."
+msgstr "带Dimitri回~y~Faustin家。"
+
+msgctxt "FFF774D4"
+msgid "~r~The gun shop worker was injured.~s~"
+msgstr "~r~枪店员工受伤了。~s~"

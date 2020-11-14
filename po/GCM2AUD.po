@@ -1,0 +1,894 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GCM2AUD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "154AAD9"
+msgid "~z~Where is this? Not what we agreed at all."
+msgstr "~z~这是哪里？根本不是我们说好的地方。"
+
+msgctxt "2A27FF5"
+msgid "~z~Why are you late? Don't tell me... something came up. Let's go."
+msgstr "~z~为什么你迟到了？别告诉我是出了什么事...出发吧。"
+
+msgctxt "2BEC0D4"
+msgid "~z~Place looks great!"
+msgstr "~z~这地方感觉很棒！"
+
+msgctxt "2BF4544"
+msgid "~z~You're wearing the same clothes. What's wrong with you?"
+msgstr "~z~每次都穿同一件衣服，你怎么回事？"
+
+msgctxt "2FE5689"
+msgid ""
+"~z~I can't believe we're late - all of your stupid messing around ruined "
+"everything."
+msgstr "~z~我们居然会迟到。都怪你之前到处乱跑。"
+
+msgctxt "5B8CAC9"
+msgid "GCM_ACT_ARRIVE_STANDARD"
+msgstr "GCM_ACT_ARRIVE_STANDARD"
+
+msgctxt "61EF044"
+msgid "100"
+msgstr "100"
+
+msgctxt "693761F"
+msgid "~z~I like your hat - really suits you."
+msgstr "~z~我喜欢你的帽子，很适合你。"
+
+msgctxt "ABF032E"
+msgid "100"
+msgstr "100"
+
+msgctxt "AE12DD4"
+msgid "~z~Hey there, you look good. Let's find a car."
+msgstr "~z~你好啊，你看起来很棒。我们找辆车吧。"
+
+msgctxt "B13808F"
+msgid "~z~I still really like this car."
+msgstr "~z~我真的很喜欢这辆车。"
+
+msgctxt "B4E8E5F"
+msgid "100"
+msgstr "100"
+
+msgctxt "BF706B3"
+msgid "GCM_ACT_ARRIVEF_LATE"
+msgstr "GCM_ACT_ARRIVEF_LATE"
+
+msgctxt "C177A65"
+msgid "~z~I'm so glad you've taken off that silly hat."
+msgstr "~z~你不戴那顶白痴帽子了我很高兴。"
+
+msgctxt "CDB6326"
+msgid "GCM_ACT_PMI_GLASSHAT_BAD"
+msgstr "GCM_ACT_PMI_GLASSHAT_BAD"
+
+msgctxt "D58A35B"
+msgid "100"
+msgstr "100"
+
+msgctxt "D60B2DB"
+msgid "GCM_ACT_PMI_NOGLASS_BAD"
+msgstr "GCM_ACT_PMI_NOGLASS_BAD"
+
+msgctxt "E58FB21"
+msgid "100"
+msgstr "100"
+
+msgctxt "F1EE6CA"
+msgid "~z~Is that top new? Sorry, but what were you thinking?"
+msgstr "~z~上衣是新买的？抱歉，但你在想什么？"
+
+msgctxt "13454C06"
+msgid "~z~Let's go find a car or something."
+msgstr "~z~先找一辆车子吧。"
+
+msgctxt "134E0CE2"
+msgid "100"
+msgstr "100"
+
+msgctxt "14329086"
+msgid "~z~Hey, nice bike, by the way."
+msgstr "~z~嘿，你的摩托车不错。"
+
+msgctxt "14A7D17F"
+msgid "~z~I'm really not in the mood for this, Niko."
+msgstr "~z~我现在真的没心情去来这里，Niko。"
+
+msgctxt "15206597"
+msgid "~z~Oooh, expensive - where do you get the money for this kind of place?"
+msgstr "~z~哦，巨贵。你哪来这么多钱来这种店？"
+
+msgctxt "1B99F310"
+msgid ""
+"~z~Did you bring those shoes with you from Europe? They don't really work."
+msgstr "~z~这鞋是你从欧洲带来的吗？真的不太好看。"
+
+msgctxt "1B9DD96E"
+msgid "~z~I preferred the old car."
+msgstr "~z~我更喜欢之前那辆车。"
+
+msgctxt "1C4EC7C9"
+msgid "GCM_ACT_ARRIVE_DARTS_LAST"
+msgstr "GCM_ACT_ARRIVE_DARTS_LAST"
+
+msgctxt "1CFC2460"
+msgid "~z~I still love this car."
+msgstr "~z~我就喜欢这辆车。"
+
+msgctxt "1D832B7A"
+msgid "GCM_ACT_PMI_SAME_BAD"
+msgstr "GCM_ACT_PMI_SAME_BAD"
+
+msgctxt "1E1F5F4B"
+msgid "100"
+msgstr "100"
+
+msgctxt "1E8EFBAA"
+msgid "~z~New pants - very nice."
+msgstr "~z~新裤子，很漂亮。"
+
+msgctxt "1F5A1B1C"
+msgid "GCM_ACT_ARRIVE_DARTS_BEFORE"
+msgstr "GCM_ACT_ARRIVE_DARTS_BEFORE"
+
+msgctxt "239ED27F"
+msgid "~z~Okay, let's get going."
+msgstr "~z~好了，赶紧出发吧。"
+
+msgctxt "24A3502E"
+msgid "~z~You're wearing my favorite outfit."
+msgstr "~z~我最喜欢你的这件衣服了。"
+
+msgctxt "2677F543"
+msgid "100"
+msgstr "100"
+
+msgctxt "280E65A3"
+msgid "100"
+msgstr "100"
+
+msgctxt "28619749"
+msgid "~z~I like this place - it's full of such weird characters."
+msgstr "~z~我喜欢这个地方，满是奇异的人物。"
+
+msgctxt "298D0EA8"
+msgid ""
+"~z~Okay, I've had enough of this bullshit. I guess I'll find my own way home."
+msgstr "~z~好了，我已经受够了。我要自己回家了。"
+
+msgctxt "29BD9087"
+msgid "~z~I still cannot bear this car."
+msgstr "~z~我还是受不了这辆车。"
+
+msgctxt "29C7F5C2"
+msgid "~z~Did you sell the old car? I miss it."
+msgstr "~z~你把之前那辆车卖了吗？我喜欢更那辆。"
+
+msgctxt "2BDDD63D"
+msgid "~z~I love simple, homely places like this."
+msgstr "~z~我喜欢这种简约朴素的地方。"
+
+msgctxt "2C3114C9"
+msgid "GCM_ACT_PMI_LEGS_GOOD"
+msgstr "GCM_ACT_PMI_LEGS_GOOD"
+
+msgctxt "2CDB6CA6"
+msgid "GCM_ACT_ARRIVE_SHOW_LATE"
+msgstr "GCM_ACT_ARRIVE_SHOW_LATE"
+
+msgctxt "2D1998BF"
+msgid "~z~Hey, nice pants."
+msgstr "~z~嘿，裤子不错。"
+
+msgctxt "2D5352C2"
+msgid "~z~Mmm, okay - this place looks like it might be fun."
+msgstr "~z~嗯，好吧，这个地方看起来有点有趣。"
+
+msgctxt "30CD5709"
+msgid "~z~Shall we get a taxi, or walk?"
+msgstr "~z~你想打的还是走着去？"
+
+msgctxt "31486069"
+msgid "GCM_ACT_CAR_NEW_BAD"
+msgstr "GCM_ACT_CAR_NEW_BAD"
+
+msgctxt "32EA6C62"
+msgid "GCM_ACT_ARRIVE_LATE"
+msgstr "GCM_ACT_ARRIVE_LATE"
+
+msgctxt "335871F2"
+msgid "~z~Nice to see you. Come on, let's go."
+msgstr "~z~见到你很高兴。来吧，我们走。"
+
+msgctxt "36419496"
+msgid "~z~Great - I could do with some cheering up."
+msgstr "~z~太棒了，笑一笑也挺好的。"
+
+msgctxt "36EEF4C5"
+msgid "~z~I love that outfit. I remember it."
+msgstr "~z~我很喜欢这套衣服，忘也忘不掉。"
+
+msgctxt "37D2AB33"
+msgid "~z~What's wrong with you? I guess I'll make my own way home, you freak."
+msgstr "~z~你怎么回事？我要自己回家了，怪人。"
+
+msgctxt "37E3075B"
+msgid "100"
+msgstr "100"
+
+msgctxt "38B54A8F"
+msgid ""
+"~z~Do you know that some criminals meet at bowling alleys because the "
+"ambient sound drowns out bugs?"
+msgstr "~z~你知道吗？有些罪犯会在保龄球馆碰头，因为周围的声音能盖过窃听器。"
+
+msgctxt "3A293417"
+msgid "~z~Isn't that the same thing you wore last time?"
+msgstr "~z~上次约会好像也是这件衣服吧？"
+
+msgctxt "3B6033CC"
+msgid "~z~Surely you can get a nicer car than this?"
+msgstr "~z~要你换辆好点的车应该不难吧？"
+
+msgctxt "3DC3026D"
+msgid "~z~Good for you to wear the same outfit - I like it."
+msgstr "~z~很高兴看到你还是穿着这件衣服，我喜欢。"
+
+msgctxt "3E0CF1B8"
+msgid "GCM_ACT_ARRIVEC_NOTLATE"
+msgstr "GCM_ACT_ARRIVEC_NOTLATE"
+
+msgctxt "3F99F74F"
+msgid "~z~This place looks okay."
+msgstr "~z~这地方看起来不赖。"
+
+msgctxt "3FB6FDEF"
+msgid "~z~These kind of places remind me of where I grew up."
+msgstr "~z~这种店会让我想起故乡。"
+
+msgctxt "40065151"
+msgid "100"
+msgstr "100"
+
+msgctxt "400A1F18"
+msgid "~z~This place looks okay."
+msgstr "~z~这个地方看起来不赖。"
+
+msgctxt "41AFF851"
+msgid "GCM_ACT_ARRIVE_POOL_BEFORE"
+msgstr "GCM_ACT_ARRIVE_POOL_BEFORE"
+
+msgctxt "438C1F07"
+msgid "100"
+msgstr "100"
+
+msgctxt "43B969A8"
+msgid "~z~Thank God you're not wearing that stupid hat."
+msgstr "~z~谢天谢地，你没戴那顶白痴帽子。"
+
+msgctxt "44A7A857"
+msgid "~z~This bar looks okay."
+msgstr "~z~这个酒吧好像还不错。"
+
+msgctxt "459433D1"
+msgid "100"
+msgstr "100"
+
+msgctxt "480BB82A"
+msgid "~z~Great - I could do with forgetting my troubles for a bit."
+msgstr "~z~好啊，我可以把我的烦恼放一放了。"
+
+msgctxt "48341BAC"
+msgid "~z~Thank God you took off those silly glasses."
+msgstr "~z~谢天谢地，你终于摘下了那副白痴眼镜。"
+
+msgctxt "4A3302A0"
+msgid "~z~Darts again? Okay."
+msgstr "~z~又玩飞镖？行吧。"
+
+msgctxt "4B5A55E1"
+msgid "~z~Is that a new top? Very nice."
+msgstr "~z~这件上衣是新买的？很不错。"
+
+msgctxt "4DBEBA55"
+msgid "~z~Memory Lanes, again, ooh. Bowling's a real thing for you, huh?"
+msgstr "~z~又是保龄球馆。你这么喜欢打保龄球啊。"
+
+msgctxt "4DF75BB3"
+msgid "~z~What is that? Haven't you got any new clothes?"
+msgstr "~z~什么情况？你就没别的衣服吗？"
+
+msgctxt "4F134058"
+msgid "~z~You seem to swap cars a lot - I liked the other one."
+msgstr "~z~你似乎经常换车，我更喜欢上次那辆。"
+
+msgctxt "505A9F36"
+msgid "~z~I like simple places like this."
+msgstr "~z~我很喜欢这种简约的地方。"
+
+msgctxt "513D7199"
+msgid "~z~I'm bored, can you take me home, please? NOW."
+msgstr "~z~我腻了，你能送我回家吗？立刻。"
+
+msgctxt "51590AD0"
+msgid "~z~I don't really like that hat, Niko."
+msgstr "~z~我不太喜欢你这顶帽子，Niko。"
+
+msgctxt "52E2E5BC"
+msgid "GCM_ACT_PMI_LEGS_BAD"
+msgstr "GCM_ACT_PMI_LEGS_BAD"
+
+msgctxt "53500E68"
+msgid "~z~This is a nice car, I haven't seen it before."
+msgstr "~z~这辆车不错，之前没见你开过。"
+
+msgctxt "542BA1B4"
+msgid "100"
+msgstr "100"
+
+msgctxt "56ED5103"
+msgid "100"
+msgstr "100"
+
+msgctxt "59361A38"
+msgid "~z~I like the new car."
+msgstr "~z~我喜欢这辆新车。"
+
+msgctxt "59D1E531"
+msgid "~z~Bowling, this could be interesting."
+msgstr "~z~保龄球，应该会很有趣。"
+
+msgctxt "5A02FA8B"
+msgid "~z~I like this place - it's so exotic."
+msgstr "~z~我喜欢这里，很有异国情调。"
+
+msgctxt "5ACD9490"
+msgid "GCM_ACT_ARRIVE_POOL_NOT"
+msgstr "GCM_ACT_ARRIVE_POOL_NOT"
+
+msgctxt "5B39E526"
+msgid "GCM_ACT_ARRIVE_CLUB_GENERIC"
+msgstr "GCM_ACT_ARRIVE_CLUB_GENERIC"
+
+msgctxt "5E243AC9"
+msgid "~z~I love places like this."
+msgstr "~z~我很喜欢这种店。"
+
+msgctxt "60AFA97D"
+msgid "~z~That hat - it doesn't really work for you."
+msgstr "~z~这顶帽子不太适合你。"
+
+msgctxt "60F4E3C8"
+msgid "GCM_ACT_CAR_SAME_GOOD"
+msgstr "GCM_ACT_CAR_SAME_GOOD"
+
+msgctxt "61813E86"
+msgid "100"
+msgstr "100"
+
+msgctxt "621A604F"
+msgid "GCM_ACT_CAR_SAME_BAD"
+msgstr "GCM_ACT_CAR_SAME_BAD"
+
+msgctxt "6247CB76"
+msgid "~z~Oh, you are wearing that again, good."
+msgstr "~z~噢，你又穿了那件衣服，很好。"
+
+msgctxt "63960231"
+msgid "GCM_ACT_PMI_FEET_BAD"
+msgstr "GCM_ACT_PMI_FEET_BAD"
+
+msgctxt "63AB8132"
+msgid "~z~You must really love pool."
+msgstr "~z~你一定很喜欢台球。"
+
+msgctxt "64528E13"
+msgid "GCM_ACT_PMI_HAT_GOOD"
+msgstr "GCM_ACT_PMI_HAT_GOOD"
+
+msgctxt "659732F6"
+msgid "~z~I didn't know you had a new car, I like it."
+msgstr "~z~没想到你换了辆新车，我很喜欢。"
+
+msgctxt "67BDBE78"
+msgid "GCM_ACT_ARRIVE_POOL_LAST"
+msgstr "GCM_ACT_ARRIVE_POOL_LAST"
+
+msgctxt "67FB388D"
+msgid "GCM_ACT_PMI_SAME_GOOD"
+msgstr "GCM_ACT_PMI_SAME_GOOD"
+
+msgctxt "686A276D"
+msgid "GCM_ACT_ARRIVE_PUB_GENERIC"
+msgstr "GCM_ACT_ARRIVE_PUB_GENERIC"
+
+msgctxt "68FCB9C5"
+msgid "~z~This new car is certainly an improvement."
+msgstr "~z~这辆新车好多了。"
+
+msgctxt "6A172640"
+msgid "GCM_ACT_PMI_NOHAT_GOOD"
+msgstr "GCM_ACT_PMI_NOHAT_GOOD"
+
+msgctxt "6B2B6300"
+msgid "100"
+msgstr "100"
+
+msgctxt "6CA694F6"
+msgid "~z~I hope the food's as nice as the reputation says it is."
+msgstr "~z~希望这里的食物真有别人评价的那么好吃。"
+
+msgctxt "6D6479FE"
+msgid "GCM_ACT_ARRIVE_BOWL_BEFORE"
+msgstr "GCM_ACT_ARRIVE_BOWL_BEFORE"
+
+msgctxt "6E026D67"
+msgid "100"
+msgstr "100"
+
+msgctxt "6F64ADDB"
+msgid "~z~Niko, no offense, but this is really boring - can you take me home?"
+msgstr "~z~Niko，无意冒犯，但这太无聊了，你能送我回家吗？"
+
+msgctxt "6FB39CAD"
+msgid "GCM_ACT_PMI_HAT_BAD"
+msgstr "GCM_ACT_PMI_HAT_BAD"
+
+msgctxt "6FE38DB8"
+msgid "GCM_ACT_ARRIVE_BOWL_NOT"
+msgstr "GCM_ACT_ARRIVE_BOWL_NOT"
+
+msgctxt "72446B6F"
+msgid "~z~You're wearing that? Good, you look good."
+msgstr "~z~还是这件啊。很好，你看起来很棒。"
+
+msgctxt "72F204BB"
+msgid "~z~Hey, you want to bowl again? You must really like it?"
+msgstr "~z~嘿，又是打保龄球吗？你一定很喜欢保龄球吧？"
+
+msgctxt "74670AFF"
+msgid "~z~A new car? Why?"
+msgstr "~z~新车？怎么回事？"
+
+msgctxt "788C1004"
+msgid "GCM_ACT_CAR_NEW_GOOD"
+msgstr "GCM_ACT_CAR_NEW_GOOD"
+
+msgctxt "792B9583"
+msgid "100"
+msgstr "100"
+
+msgctxt "79C1097C"
+msgid "GCM_ACT_ARRIVE_DARTS_NOT"
+msgstr "GCM_ACT_ARRIVE_DARTS_NOT"
+
+msgctxt "79CB611E"
+msgid "100"
+msgstr "100"
+
+msgctxt "7AD7E831"
+msgid "100"
+msgstr "100"
+
+msgctxt "7B1A0C6E"
+msgid "100"
+msgstr "100"
+
+msgctxt "7D8930BA"
+msgid "100"
+msgstr "100"
+
+msgctxt "7F9D4DB4"
+msgid "~z~Those pants are criminal, pardon the pun..."
+msgstr "~z~这条裤子有罪，原谅这个双关语..."
+
+msgctxt "813095D2"
+msgid "~z~Those glasses look kind of silly."
+msgstr "~z~这副眼镜看起来有点蠢。"
+
+msgctxt "81EE6C00"
+msgid "~z~Nice bike, Niko."
+msgstr "~z~摩托车不错，Niko。"
+
+msgctxt "81F6261D"
+msgid "~z~I have to be honest, I preferred the other car."
+msgstr "~z~说实话，我更喜欢之前那辆车。"
+
+msgctxt "82B637F6"
+msgid "GCM_ACT_PMI_TORSO_BAD"
+msgstr "GCM_ACT_PMI_TORSO_BAD"
+
+msgctxt "84B3E2A3"
+msgid "~z~We're back at Memory Lanes, eh?"
+msgstr "~z~又回到保龄球馆了，嗯？"
+
+msgctxt "8657CBDB"
+msgid "~z~I like that top - is it new?"
+msgstr "~z~我喜欢这件上衣，是新的吗？"
+
+msgctxt "8768843E"
+msgid "~z~How are we going to travel?"
+msgstr "~z~我们怎么过去？"
+
+msgctxt "88136368"
+msgid "GCM_ACT_PMI_NOHAT_BAD"
+msgstr "GCM_ACT_PMI_NOHAT_BAD"
+
+msgctxt "88BA098E"
+msgid "~z~Interesting place, I think - I hope we have fun."
+msgstr "~z~有趣的地方，希望我们玩得开心。"
+
+msgctxt "8D289503"
+msgid "~z~You're late, by the way. Let's go."
+msgstr "~z~顺便说一句，你迟到了。出发吧。"
+
+msgctxt "8FAB871C"
+msgid "100"
+msgstr "100"
+
+msgctxt "90D3067D"
+msgid "100"
+msgstr "100"
+
+msgctxt "911F9025"
+msgid "GCM_ACT_BORED_LEAVING"
+msgstr "GCM_ACT_BORED_LEAVING"
+
+msgctxt "912BD07A"
+msgid "100"
+msgstr "100"
+
+msgctxt "92F81429"
+msgid "~z~I guess we're playing darts again, then?"
+msgstr "~z~我们又要玩飞镖了是吧？"
+
+msgctxt "9343F377"
+msgid "GCM_ACT_ARRIVem_NOTLATE"
+msgstr "GCM_ACT_ARRIVem_NOTLATE"
+
+msgctxt "93C1ED06"
+msgid "100"
+msgstr "100"
+
+msgctxt "94D0129A"
+msgid "~z~I love that hat."
+msgstr "~z~我喜欢这顶帽子。"
+
+msgctxt "95D95570"
+msgid "100"
+msgstr "100"
+
+msgctxt "964CE842"
+msgid "~z~I've read all about this place - supposed to be great."
+msgstr "~z~我经常读到对这家店的评价，这里似乎很棒。"
+
+msgctxt "9697DFBD"
+msgid "~z~Darts? I haven't done that for the longest time."
+msgstr "~z~飞镖吗？我很久没玩了。"
+
+msgctxt "9BF6329E"
+msgid ""
+"~z~They have watches in your country? I'm sorry. I'm just crabby. Let's go."
+msgstr "~z~你们国家有手表吗？很抱歉。我只是有点生气。走吧。"
+
+msgctxt "9C48C6C5"
+msgid "GCM_ACT_PMI_NOGLASS_GOOD"
+msgstr "GCM_ACT_PMI_NOGLASS_GOOD"
+
+msgctxt "9DE855E3"
+msgid "GCM_ACT_BORED_TAKEHOME"
+msgstr "GCM_ACT_BORED_TAKEHOME"
+
+msgctxt "9FAC3814"
+msgid "~z~Pool? what a great idea..."
+msgstr "~z~台球？真是个好主意..."
+
+msgctxt "A170F46A"
+msgid "~z~I'd love for you to tell me stuff about yourself while we bowl."
+msgstr "~z~希望你能在打保龄球的时候多讲点你的事。"
+
+msgctxt "A45BA267"
+msgid "100"
+msgstr "100"
+
+msgctxt "A54CF23B"
+msgid "~z~This isn't what we agreed at all."
+msgstr "~z~这根本不是我们约的地方。"
+
+msgctxt "A7555B75"
+msgid "~z~Are those shoes new? They're great, they really suit you."
+msgstr "~z~这双是新鞋吗？这鞋很棒，非常适合你。"
+
+msgctxt "A95DAF26"
+msgid "100"
+msgstr "100"
+
+msgctxt "AC4C0120"
+msgid "GCM_ACT_PMI_FEET_GOOD"
+msgstr "GCM_ACT_PMI_FEET_GOOD"
+
+msgctxt "AD3589C2"
+msgid "100"
+msgstr "100"
+
+msgctxt "AE8C44DF"
+msgid "~z~This sure is a nice car, is it new?"
+msgstr "~z~这辆车很棒，是新买的吗？"
+
+msgctxt "AEEB7147"
+msgid ""
+"~z~Okay, next time you buy glasses, you should take a girl with you to check "
+"they look okay."
+msgstr "~z~好吧，下次买眼镜的时候，记得带个女孩给你参考意见。"
+
+msgctxt "AF5B5CAE"
+msgid "~z~Darts? Again? Okay. But we should do something else sometime."
+msgstr "~z~飞镖？又来？行吧。但下次我们最好做点别的。"
+
+msgctxt "B22D2516"
+msgid "100"
+msgstr "100"
+
+msgctxt "B312DEE1"
+msgid "~z~Pool? Cool. Haven't played for ages."
+msgstr "~z~台球？好啊。我好久没打了。"
+
+msgctxt "B4805F31"
+msgid "100"
+msgstr "100"
+
+msgctxt "B50776D9"
+msgid "~z~New shoes, nice."
+msgstr "~z~新鞋，很好。"
+
+msgctxt "B55265F6"
+msgid "GCM_ACT_DIFF_ACTIVITY_NO"
+msgstr "GCM_ACT_DIFF_ACTIVITY_NO"
+
+msgctxt "B57BF63A"
+msgid "~z~You look much better without those glasses."
+msgstr "~z~你不戴那副眼镜好看多了。"
+
+msgctxt "B59C2E3D"
+msgid "~z~It's a shame you're not wearing that hat I liked."
+msgstr "~z~你没戴我喜欢的那顶帽子真是遗憾。"
+
+msgctxt "B75C2139"
+msgid "~z~Okay - I haven't played darts for ages."
+msgstr "~z~好吧，我有一段时间没玩飞镖了。"
+
+msgctxt "B785388E"
+msgid "100"
+msgstr "100"
+
+msgctxt "B79F0CBB"
+msgid "100"
+msgstr "100"
+
+msgctxt "B7F0452E"
+msgid "100"
+msgstr "100"
+
+msgctxt "B929F939"
+msgid "~z~I think you look good in that outfit - I liked it last time."
+msgstr "~z~我觉得你穿这套衣服很好看，上次我就这么想了。"
+
+msgctxt "B97450DD"
+msgid "GCM_ACT_CAR_NONE"
+msgstr "GCM_ACT_CAR_NONE"
+
+msgctxt "BDBDA080"
+msgid "~z~Hey - you're late... let's go find a car or something."
+msgstr "~z~嘿，你迟到了...我们去找辆车吧。"
+
+msgctxt "BEED3637"
+msgid "GCM_ACT_PMI_TORSO_GOOD"
+msgstr "GCM_ACT_PMI_TORSO_GOOD"
+
+msgctxt "BFC4979C"
+msgid "~z~Hey Niko, you look well, let's find a car."
+msgstr "~z~嘿，Niko，气色不错嘛，找辆车子吧。"
+
+msgctxt "C03CFE71"
+msgid "~z~Darts? Again? Well, I do enjoy it."
+msgstr "~z~飞镖？又来？好吧，我还能接受。"
+
+msgctxt "C03E3309"
+msgid "~z~I'd enjoy darts - it'll make a change."
+msgstr "~z~玩飞镖也可以，下次换换口味吧。"
+
+msgctxt "C04B48AB"
+msgid "GCM_ACT_PMI_GLASSHAT_GOOD"
+msgstr "GCM_ACT_PMI_GLASSHAT_GOOD"
+
+msgctxt "C196CD4D"
+msgid "~z~Pool? Again? There are other ways to spend your time, Niko."
+msgstr "~z~台球？又来？别光把时间花在这上面，Niko。"
+
+msgctxt "C1D66B73"
+msgid "~z~Hey, I really like the new car, Niko."
+msgstr "~z~嘿，我很喜欢这辆新车，Niko。"
+
+msgctxt "C304D46E"
+msgid "~z~What were you thinking when you put on those pants?"
+msgstr "~z~你穿裤子的时候在想些什么东西？"
+
+msgctxt "C69C98B8"
+msgid "~z~Hey Niko, let's go."
+msgstr "~z~嘿，Niko，我们走吧。"
+
+msgctxt "CAA0F899"
+msgid "~z~What a great pair of glasses - they really suit you."
+msgstr "~z~这副眼镜太棒了，很适合你。"
+
+msgctxt "CAE69153"
+msgid "~z~I wonder what'll be on? Sometimes it's awful."
+msgstr "~z~今天是什么节目？有些节目很难看。"
+
+msgctxt "CB3BE3BC"
+msgid "100"
+msgstr "100"
+
+msgctxt "CB52D1FD"
+msgid "~z~This is going to be great, thanks Niko."
+msgstr "~z~这一定会很棒的，谢谢，Niko。"
+
+msgctxt "CE30C740"
+msgid "100"
+msgstr "100"
+
+msgctxt "CEE50E62"
+msgid "100"
+msgstr "100"
+
+msgctxt "CFB2DF2C"
+msgid "~z~You're not wearing the same clothes are you?"
+msgstr "~z~你该不会不换衣服吧？"
+
+msgctxt "D0AB42E5"
+msgid "100"
+msgstr "100"
+
+msgctxt "D22A7E8C"
+msgid "100"
+msgstr "100"
+
+msgctxt "D2786F10"
+msgid "~z~Pool's quite fun, but there are other pastimes."
+msgstr "~z~台球是很有趣，但也有别的选择。"
+
+msgctxt "D2EC1E50"
+msgid "GCM_ACT_ARRIVE_SHOW_CABARET"
+msgstr "GCM_ACT_ARRIVE_SHOW_CABARET"
+
+msgctxt "D3C38ADE"
+msgid "~z~Those glasses really suit you."
+msgstr "~z~这副眼镜很适合你。"
+
+msgctxt "D42BF8E5"
+msgid "~z~Thanks - we're late - what a great date. Genius."
+msgstr "~z~谢谢，我们迟到了，和你约会很愉快。天才。"
+
+msgctxt "D52DD913"
+msgid "GCM_ACT_ARRIVE_BOWL_LAST"
+msgstr "GCM_ACT_ARRIVE_BOWL_LAST"
+
+msgctxt "D5EDE5B5"
+msgid "~z~Pool? Again... okay."
+msgstr "~z~台球？又来...好吧。"
+
+msgctxt "D749D61C"
+msgid "GCM_ACT_ARRIVE_SHOW_COMEDY"
+msgstr "GCM_ACT_ARRIVE_SHOW_COMEDY"
+
+msgctxt "D8E33D45"
+msgid "~z~Hey there, handsome - come on, let's get going."
+msgstr "~z~嘿，帅哥。来吧，该出发了。"
+
+msgctxt "DAFA5469"
+msgid "GCM_ACT_ARRIVEF_NOTLATE"
+msgstr "GCM_ACT_ARRIVEF_NOTLATE"
+
+msgctxt "DE4277DC"
+msgid "~z~Classy."
+msgstr "~z~优秀。"
+
+msgctxt "E17C02BE"
+msgid "~z~What the hell are you wearing, the same clothes?"
+msgstr "~z~你什么衣品，次次穿这件？"
+
+msgctxt "E448E351"
+msgid "100"
+msgstr "100"
+
+msgctxt "E6E157C4"
+msgid "100"
+msgstr "100"
+
+msgctxt "EBE2CD35"
+msgid "~z~Are we going to walk or get a taxi?"
+msgstr "~z~我们步行还是打的？"
+
+msgctxt "ECE21FE2"
+msgid "100"
+msgstr "100"
+
+msgctxt "ED8CC4B7"
+msgid "100"
+msgstr "100"
+
+msgctxt "EDE417A5"
+msgid "~z~Those shoes are pretty weird."
+msgstr "~z~这双鞋你穿着很奇怪。"
+
+msgctxt "EF0B8647"
+msgid ""
+"~z~What's this? This isn't what we said. I don't want to do this just now."
+msgstr "~z~这是什么？我们说好的不是这样。我现在不想来这里。"
+
+msgctxt "EF4A2A69"
+msgid "~z~I tell you what I miss you in those glasses."
+msgstr "~z~我很怀念你戴那副眼镜的样子。"
+
+msgctxt "F0B70AD4"
+msgid "100"
+msgstr "100"
+
+msgctxt "F1ABDE08"
+msgid "~z~Hey - you know you're late, don't you? Let's go."
+msgstr "~z~嘿，你知道自己迟到了吗？我们走吧。"
+
+msgctxt "F32DA621"
+msgid "~z~Can't you afford any new clothes?"
+msgstr "~z~你是买不起新衣服吗？"
+
+msgctxt "F3D9FFBC"
+msgid "GCM_ACT_ARRIVE_HIGHEND"
+msgstr "GCM_ACT_ARRIVE_HIGHEND"
+
+msgctxt "F4F8E20A"
+msgid "~z~Yeah, I think we'll have some fun here."
+msgstr "~z~是的，我想我们会玩得很开心的。"
+
+msgctxt "F6218E76"
+msgid "~z~Why did you change cars?"
+msgstr "~z~你怎么换车了？"
+
+msgctxt "F675427D"
+msgid "GCM_ACT_ARRIVE_PUB_FAVORITE"
+msgstr "GCM_ACT_ARRIVE_PUB_FAVORITE"
+
+msgctxt "F8B6B471"
+msgid "~z~Where's the hat? It really suited you."
+msgstr "~z~那顶帽子呢？你戴着很合适的。"
+
+msgctxt "FA1C69A8"
+msgid "~z~Shall we go by taxi, or walk or...?"
+msgstr "~z~我们打的去，还是步行去，还是...？"
+
+msgctxt "FCDD4247"
+msgid ""
+"~z~Is that new, that top? You should have checked the mirror before you "
+"bought it."
+msgstr "~z~这件上衣是新的吗？买之前你应该照照镜子。"
+
+msgctxt "FD2075C6"
+msgid ""
+"~z~Cabaret - I wonder what's on? The crowd always scares me at this place."
+msgstr "~z~卡巴莱，不知道里面演的什么。这里的顾客让我有点害怕。"
+
+msgctxt "FD454653"
+msgid "~z~Those glasses kind of suited you, Niko. I miss them."
+msgstr "~z~之前那副眼镜很适合你，Niko。我想它了。"

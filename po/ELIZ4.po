@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ELIZ4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "17631B45"
+msgid "~r~The bodies were left too close to Elizabeta's place."
+msgstr "~r~抛尸地点离Elizabeta的住处太近了。"
+
+msgctxt "1A3EB12B"
+msgid ""
+"You may want to close the trunk, the police will be able to see its contents."
+msgstr "你最好关上后备箱，否则警察会看到里面的东西。"
+
+msgctxt "381E5CBB"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通缉度。"
+
+msgctxt "4622F8C4"
+msgid "~s~The bodies will be identified if left there, blow up the ~r~car."
+msgstr "~s~把尸体扔在那里的话会被认出来，炸毁~r~汽车。"
+
+msgctxt "4E8C8993"
+msgid "~r~The bodies have been destroyed."
+msgstr "~r~尸体已被毁灭。"
+
+msgctxt "63E4B443"
+msgid "~s~Get in the ~b~car."
+msgstr "~s~上~b~车。"
+
+msgctxt "6ACD4214"
+msgid "~s~Take the bodies to the ~y~doctor."
+msgstr "~s~把尸体交给~y~医生。"
+
+msgctxt "CA9F81BF"
+msgid "Press ~INPUT_PICKUP~ to close the trunk."
+msgstr "按~INPUT_PICKUP~关闭后备箱。"
+
+msgctxt "ECC0C601"
+msgid "~s~The cops have spotted the bodies. Lose your wanted level."
+msgstr "~s~警察发现了尸体。降低你的通缉度。"
+
+msgctxt "FC446508"
+msgid "~r~The bodies were discovered."
+msgstr "~r~尸体被发现了。"

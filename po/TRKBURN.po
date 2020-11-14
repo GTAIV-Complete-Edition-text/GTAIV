@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TRKBURN\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "D60F9A0"
+msgid "~s~Trigger the bomb."
+msgstr "~s~引爆炸弹。"
+
+msgctxt "1EA39C25"
+msgid "~s~Press ~INPUT_PICKUP~ to trigger the bomb."
+msgstr "~s~按~INPUT_PICKUP~引爆炸弹。"
+
+msgctxt "32ED05F3"
+msgid "~r~The truck has been destroyed."
+msgstr "~r~卡车被摧毁了。"
+
+msgctxt "4391DA11"
+msgid "~s~Park the truck inside the ~y~garage."
+msgstr "~s~将卡车停入~y~车库。"
+
+msgctxt "45332A7F"
+msgid "~r~You have abandoned the truck.~s~"
+msgstr "~r~你抛弃了卡车。~s~"
+
+msgctxt "4A5D7394"
+msgid "~s~Drive to the ~y~garage."
+msgstr "~s~驾车前往~y~车库。"
+
+msgctxt "6DE33A9F"
+msgid "~s~Get in the ~b~truck."
+msgstr "~s~进入~b~卡车。"
+
+msgctxt "7B6DC9C8"
+msgid "~s~Be careful, the ~b~truck~s~ can't take much more damage."
+msgstr "~s~当心，这辆~b~卡车~s~将无法承受更多损伤。"
+
+msgctxt "7F99DE0C"
+msgid "~s~Go to the old factory and find the ~b~truck.~s~"
+msgstr "~s~去旧工厂找到~b~卡车。~s~"
+
+msgctxt "8D446D75"
+msgid "~s~Be careful or the bomb will detonate."
+msgstr "~s~小心行事，否则炸弹将会爆炸。"
+
+msgctxt "9A47877F"
+msgid "~s~Get out of the area."
+msgstr "~s~离开这片区域。"
+
+msgctxt "B95E906C"
+msgid "Quicker flashes indicate the explosive is becoming more unstable."
+msgstr "闪烁越快，说明炸弹越不稳定。"
+
+msgctxt "EFECFD88"
+msgid "The flashing light on the back of the truck indicates its condition."
+msgstr "卡车后部闪烁的指示灯表示炸弹的状态。"

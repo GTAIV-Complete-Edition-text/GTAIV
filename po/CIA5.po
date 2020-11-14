@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CIA5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "35E5EC"
+msgid ""
+"Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to increase your altitude or "
+"~INPUT_VEH_FLY_THROTTLE_DOWN~ to decrease your altitude."
+msgstr "按~INPUT_VEH_FLY_THROTTLE_UP~提升高度，按~INPUT_VEH_FLY_THROTTLE_DOWN~降低高度。"
+
+msgctxt "AC0095A"
+msgid ""
+"Hold ~INPUT_VEH_CIN_CAM~ while in a vehicle to focus on the target chopper."
+msgstr "在载具中时，按~INPUT_VEH_CIN_CAM~将镜头对准目标直升机。"
+
+msgctxt "157DAB2E"
+msgid "~r~The helicopter got away.~s~"
+msgstr "~r~直升机逃掉了。~s~"
+
+msgctxt "3167FFB9"
+msgid "Let the ~r~helicopter~s~ land, then move in to take it."
+msgstr "等待~r~直升机~s~着陆，然后进去偷走它。"
+
+msgctxt "3A19A793"
+msgid "Hold ~INPUT_VEH_FLY_THROTTLE_DOWN~ to descend."
+msgstr "按~INPUT_VEH_FLY_THROTTLE_DOWN~下降。"
+
+msgctxt "3C3B47F2"
+msgid "The helicopter got away."
+msgstr "直升机逃掉了。"
+
+msgctxt "4BD2CB05"
+msgid "Use ~PAD_LSTICK_ALL~ to steady the helicopter."
+msgstr "用~PAD_LSTICK_ALL~稳定直升机。"
+
+msgctxt "58494A6D"
+msgid "Press ~INPUT_ENTER~ to enter the helicopter."
+msgstr "按~INPUT_ENTER~进入直升机。"
+
+msgctxt "5C44B765"
+msgid "Hold ~INPUT_VEH_FLY_THROTTLE_DOWN~ to descend."
+msgstr "按~INPUT_VEH_FLY_THROTTLE_DOWN~下降。"
+
+msgctxt "5C946C88"
+msgid ""
+"Press ~INPUT_VEH_FLY_YAW_LEFT~ and ~INPUT_VEH_FLY_YAW_RIGHT~ to line up the "
+"landing."
+msgstr "按~INPUT_VEH_FLY_YAW_LEFT~和~INPUT_VEH_FLY_YAW_RIGHT~对齐着陆。"
+
+msgctxt "69E70BC9"
+msgid ""
+"Use ~PAD_SIXAXIS_ROLL~ to bank the helicopter in the direction you wish to "
+"move."
+msgstr "用~PAD_SIXAXIS_ROLL~控制直升机向指定方向倾斜。"
+
+msgctxt "6AF254C0"
+msgid ""
+"Use ~PAD_SIXAXIS_ROLL~ and ~PAD_SIXAXIS_DRIVE~ to steady the helicopter."
+msgstr "用~PAD_SIXAXIS_ROLL~和~PAD_SIXAXIS_DRIVE~稳定直升机。"
+
+msgctxt "717E8947"
+msgid "Follow the ~r~helicopter."
+msgstr "跟随~r~直升机。"
+
+msgctxt "752BFD9B"
+msgid "The helicopter was destroyed."
+msgstr "直升机被毁了。"
+
+msgctxt "76B36B6E"
+msgid ""
+"Use ~INPUT_VEH_FLY_PITCH_UP~~INPUT_VEH_FLY_PITCH_DOWN~~INPUT_VEH_FLY_ROLL_LEF"
+"T~~INPUT_VEH_FLY_ROLL_RIGHT~ to steady the helicopter."
+msgstr ""
+"用~INPUT_VEH_FLY_PITCH_UP~~INPUT_VEH_FLY_PITCH_DOWN~~INPUT_VEH_FLY_ROLL_LEFT~~"
+"INPUT_VEH_FLY_ROLL_RIGHT~稳定直升机。"
+
+msgctxt "83652D14"
+msgid "Fly to the ~y~dropoff point~s~ on the south side of the Airport."
+msgstr "飞往位于机场南侧的~y~着陆点~s~。"
+
+msgctxt "91430808"
+msgid ""
+"Use ~PAD_LSTICK_ALL~ to bank the helicopter in the direction you wish to "
+"move."
+msgstr "用~PAD_LSTICK_ALL~控制直升机向指定方向倾斜。"
+
+msgctxt "966D894A"
+msgid "~r~The helicopter was destroyed.~s~"
+msgstr "~r~直升机被毁了。~s~"
+
+msgctxt "9EECE423"
+msgid "Get a vehicle and go to the ~y~Civilization Plaza."
+msgstr "弄一辆载具，前往~y~Civilization Plaza。"
+
+msgctxt "9F22DEA0"
+msgid ""
+"Use ~INPUT_VEH_FLY_PITCH_UP~~INPUT_VEH_FLY_PITCH_DOWN~~INPUT_VEH_FLY_ROLL_LEF"
+"T~~INPUT_VEH_FLY_ROLL_RIGHT~ to bank the helicopter in the direction you "
+"wish to move."
+msgstr ""
+"用~INPUT_VEH_FLY_PITCH_UP~~INPUT_VEH_FLY_PITCH_DOWN~~INPUT_VEH_FLY_ROLL_LEFT~~"
+"INPUT_VEH_FLY_ROLL_RIGHT~控制直升机向指定方向倾斜。"
+
+msgctxt "A382AC87"
+msgid ""
+"Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the "
+"helicopter left or right."
+msgstr "按~INPUT_VEH_FLY_YAW_LEFT~或~INPUT_VEH_FLY_YAW_RIGHT~使直升机向左或右旋转。"
+
+msgctxt "A6DBE5BE"
+msgid "Land the helicopter next to the Cargo Yard."
+msgstr "将直升机降落在货运区旁。"
+
+msgctxt "B15A1AB2"
+msgid ""
+"Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the "
+"helicopter left or right."
+msgstr "按~INPUT_VEH_FLY_YAW_LEFT~或~INPUT_VEH_FLY_YAW_RIGHT~使直升机向左或右旋转。"
+
+msgctxt "B6F90A34"
+msgid "~r~The target was spooked.~s~"
+msgstr "~r~目标被惊动了。~s~"
+
+msgctxt "BBA2B403"
+msgid "Leave the helicopter."
+msgstr "离开直升机。"
+
+msgctxt "CAC91778"
+msgid "Get a vehicle."
+msgstr "找到一辆载具。"
+
+msgctxt "D624D292"
+msgid ""
+"The meeting has finished. Take the ~b~helicopter~s~ before it takes off."
+msgstr "会面结束了，在~b~直升机~s~起飞前抢走它。"
+
+msgctxt "D788E70F"
+msgid ""
+"Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to increase your altitude or "
+"~INPUT_VEH_FLY_THROTTLE_DOWN~ to decrease your altitude."
+msgstr "按~INPUT_VEH_FLY_THROTTLE_UP~提升高度，按~INPUT_VEH_FLY_THROTTLE_DOWN~降低高度。"
+
+msgctxt "D8EEDCFD"
+msgid "Take the ~b~helicopter.~s~"
+msgstr "抢夺~b~直升机。"
+
+msgctxt "DB535CF7"
+msgid "Fly to the ~y~dropoff point."
+msgstr "飞往~y~目的地。"
+
+msgctxt "E7EA761D"
+msgid "The helicopter is leaving, track it to its destination."
+msgstr "直升机正在离开，跟踪它到目的地。"
+
+msgctxt "ECA0581E"
+msgid ""
+"Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to line up the "
+"landing."
+msgstr "按~INPUT_VEH_FLY_YAW_LEFT~或~INPUT_VEH_FLY_YAW_RIGHT~对齐着陆。"
+
+msgctxt "ED11F829"
+msgid "You're losing the ~r~helicopter.~s~"
+msgstr "你要跟丢~r~直升机~s~了。"
+
+msgctxt "FE578F16"
+msgid "Get back in the ~b~helicopter."
+msgstr "回到~b~直升机~s~上。"

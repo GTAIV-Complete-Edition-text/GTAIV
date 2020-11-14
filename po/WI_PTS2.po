@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WI_PTS2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "303A67A4"
+msgid "Pick up ~b~Pathos."
+msgstr "接上~b~Pathos。"
+
+msgctxt "895E19EE"
+msgid "~r~Pathos is dead."
+msgstr "~r~Pathos死了。"
+
+msgctxt "96BF34B0"
+msgid "~r~You took too long getting to the hospital."
+msgstr "~r~你在前往医院的路上花费了太长时间。"
+
+msgctxt "B4006F32"
+msgid "Get a vehicle."
+msgstr "找一辆载具。"
+
+msgctxt "BE4803C1"
+msgid "Get Pathos to the ~y~hospital~s~, quickly."
+msgstr "送Pathos去~y~医院，~s~快！"
+
+msgctxt "DB2E3D8D"
+msgid "~r~You took too long to get a vehicle."
+msgstr "~r~你获取载具花费了太长时间。"
+
+msgctxt "FB257D7B"
+msgid "Take out the ~r~attackers."
+msgstr "干掉~r~袭击者。"

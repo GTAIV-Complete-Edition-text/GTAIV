@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ROMAN1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "E6EA76D"
+msgid ""
+"~s~The yellow icon on the radar shows the location of your next objective."
+msgstr "~s~小地图上的黄色图标表示你下一个目标的位置。"
+
+msgctxt "24355D82"
+msgid "~s~Use ~PAD_LSTICK_LEFTRIGHT_VEH~ to steer a vehicle."
+msgstr "~s~用~PAD_LSTICK_LEFTRIGHT_VEH~控制方向。"
+
+msgctxt "268DBA40"
+msgid "~r~Roman is dead.~s~"
+msgstr "~r~Roman死了。~s~"
+
+msgctxt "3FC10A11"
+msgid "~s~Use ~PAD_LSTICK_LEFTRIGHT~ to steer a vehicle."
+msgstr "~s~用~PAD_LSTICK_LEFTRIGHT~控制方向。"
+
+msgctxt "432B737B"
+msgid "~r~The vehicle is stuck.~s~"
+msgstr "~r~车辆无法行驶。~s~"
+
+msgctxt "5DD8A8D9"
+msgid "~r~Roman's car has been trashed.~s~"
+msgstr "~r~Roman的车坏了。~s~"
+
+msgctxt "87831998"
+msgid ""
+"~s~Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to "
+"brake or reverse if the vehicle is stopped."
+msgstr "~s~按~INPUT_VEH_ACCELERATE~加速。按~INPUT_VEH_BRAKE~刹车，在车辆停止时可倒车。"
+
+msgctxt "A32AD0E7"
+msgid ""
+"~s~While in a vehicle the colored line on the radar shows the shortest legal "
+"route to your objective - this is not always the fastest way."
+msgstr "~s~驾车时小地图上的彩色线条表示前往目的地的最短合法路线，但合法路线未必是最快的。"
+
+msgctxt "B10C41CA"
+msgid "~s~Get into ~b~Roman's car."
+msgstr "~s~进入~b~Roman的车。"
+
+msgctxt "BA63FF59"
+msgid ""
+"~s~You can add your own icon via the pause menu map screen and a route will "
+"be added on the radar."
+msgstr "~s~你可以通过暂停菜单的地图界面添加自己的标记，随后小地图上就会出现一条路线。"
+
+msgctxt "C1D7E361"
+msgid "~s~Drive to ~y~Roman's place."
+msgstr "~s~驾车前往~y~Roman的住处。"
+
+msgctxt "CCBE06A2"
+msgid "~r~You have abandoned Roman.~s~"
+msgstr "~r~你抛弃了Roman。~s~"
+
+msgctxt "D49A08E5"
+msgid "~s~Drive to the ~y~food vendor."
+msgstr "~s~驾车前往~y~小吃摊。"

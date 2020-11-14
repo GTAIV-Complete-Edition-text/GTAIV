@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BELL3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "187858D"
+msgid "~s~Stop the ~r~convoy."
+msgstr "~s~截停~r~车队。"
+
+msgctxt "2777C22"
+msgid "~r~Mission Failed. -PH-"
+msgstr "~r~任务失败。-PH-"
+
+msgctxt "3712F95"
+msgid "~s~Take out the ~r~target."
+msgstr "~s~干掉~r~目标。"
+
+msgctxt "922C43C"
+msgid "~s~Take out the ~r~target~s~ leaving the police station."
+msgstr "~s~干掉正在离开警局的~r~目标。"
+
+msgctxt "C67E7AF"
+msgid "Migration Control"
+msgstr "迁移管制"
+
+msgctxt "CBD10AD"
+msgid "~r~A target got away."
+msgstr "~r~一个目标逃走了。"
+
+msgctxt "1A3A630F"
+msgid "~s~Take out the ~r~target."
+msgstr "~s~干掉~r~目标。"
+
+msgctxt "42B8CA53"
+msgid "~s~Wipe out the ~r~targets~s~ making the deal."
+msgstr "~s~消灭正在交易的~r~目标。~s~"
+
+msgctxt "4315BA35"
+msgid "~s~Take down the ~r~targets."
+msgstr "~s~干掉~r~目标。"
+
+msgctxt "43F9D17D"
+msgid "~s~Eliminate the ~r~target."
+msgstr "~s~消灭~r~目标。"
+
+msgctxt "5073E5C9"
+msgid "~s~Enter the ~y~Burger Shot."
+msgstr "~s~进入~y~吃得饱汉堡。"
+
+msgctxt "50ACEAE3"
+msgid "~s~Go to the ~r~target's location."
+msgstr "~s~前往~r~目标所在地。"
+
+msgctxt "5118EDFB"
+msgid "~s~Take out the ~r~targets~s~ and all their ~r~bodyguards."
+msgstr "~s~干掉~r~目标~s~与他们的所有~r~保镖。"
+
+msgctxt "5D1183AC"
+msgid "~s~Call Bell."
+msgstr "~s~打电话给Bell。"
+
+msgctxt "70D5AA68"
+msgid "~s~You've been led into an ambush. Take out the ~r~attackers."
+msgstr "~s~你中了埋伏，消灭~r~袭击者。"
+
+msgctxt "8BCE667A"
+msgid "Taken Out"
+msgstr "下车受死"
+
+msgctxt "90B31897"
+msgid "~r~The target got away."
+msgstr "~r~目标逃走了。"
+
+msgctxt "9938DE92"
+msgid "~s~Chase down the ~r~target."
+msgstr "~s~追击~r~目标。"
+
+msgctxt "99FCFE76"
+msgid ""
+"~s~The helipad is above the Booth Tunnel entrance. Take out the ~r~target~s~ "
+"before they escape."
+msgstr "~s~停机坪位于Booth隧道入口上方，在~r~目标~s~逃走前消灭他们。"
+
+msgctxt "9D710CB8"
+msgid "Target"
+msgstr "目标"
+
+msgctxt "9E758BC8"
+msgid "Bailing Out for Good"
+msgstr "终生保释"
+
+msgctxt "AC4FAA75"
+msgid "~s~Your contact will leave you weapons and body armor for each job."
+msgstr "~s~你的联络人会为你的每份差事准备武器与防弹衣。"
+
+msgctxt "B1B23826"
+msgid "~s~Mission ~g~Passed."
+msgstr "~s~任务~g~通过。"
+
+msgctxt "B7D73946"
+msgid "~s~Go back to the payphone when you want to do another hit."
+msgstr "~s~想再次进行暗杀时，就回到这个公用电话亭。"
+
+msgctxt "C130D13E"
+msgid "Industrial Action"
+msgstr "工业行动"
+
+msgctxt "C718BA55"
+msgid "~s~Find a way to reach the ~r~target."
+msgstr "~s~设法接近~r~目标。~s~"
+
+msgctxt "D1DA7291"
+msgid "Derelict Target"
+msgstr "废弃建筑"
+
+msgctxt "E4C49869"
+msgid "R.U.B. Down"
+msgstr "富家骑手之死"
+
+msgctxt "EB48590F"
+msgid "~s~The ~r~target~s~ is fleeing. Take them out."
+msgstr "~r~目标~s~正在逃跑，消灭他们。"
+
+msgctxt "F0262F14"
+msgid "Water Hazard"
+msgstr "水上危机"
+
+msgctxt "F25C2D77"
+msgid "~s~Take out them ~r~all."
+msgstr "~s~杀光~r~他们。"
+
+msgctxt "F75D3D9A"
+msgid "Dead End"
+msgstr "死路一条"
+
+msgctxt "FA384350"
+msgid "Hook, Line and Sinker"
+msgstr "饵咸钩直"
+
+msgctxt "FC8A41D3"
+msgid "~s~Chase down and eliminate the ~r~target."
+msgstr "~s~追击~r~目标，~s~消灭他。"

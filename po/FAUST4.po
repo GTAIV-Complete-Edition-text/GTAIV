@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FAUST4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "7DDDF9E"
+msgid "~r~Faustin's daughter is dead."
+msgstr "~r~Faustin的女儿死了。"
+
+msgctxt "1C23BE1A"
+msgid ""
+"Use ~PAD_LSTICK_UPDOWN~ to shift your weight forwards and backwards when on "
+"a bike."
+msgstr "用~PAD_LSTICK_UPDOWN~前后移动你在摩托车上的重心。"
+
+msgctxt "1E4F3865"
+msgid "Press ~INPUT_VEH_BRAKE~ to brake."
+msgstr "按~INPUT_VEH_BRAKE~刹车。"
+
+msgctxt "2DE3E19A"
+msgid ""
+"Use ~PAD_SIXAXIS_PITCH~ to shift your weight forwards and backwards when on "
+"a bike."
+msgstr "用~PAD_SIXAXIS_PITCH~前后移动你在摩托车上的重心。"
+
+msgctxt "2F2753F0"
+msgid "~r~The biker got away."
+msgstr "~r~飞车党跑掉了。"
+
+msgctxt "3806944D"
+msgid ""
+"The ~r~biker~s~ is getting away, catch up with him on a ~b~bike~s~ then take "
+"him out."
+msgstr "~r~飞车党~s~正在逃跑，骑~b~摩托车~s~跟着他，然后干掉他。"
+
+msgctxt "4775BC96"
+msgid ""
+"~s~When free aiming or locked onto a target use ~INPUT_MOVE_LEFT~ and press "
+"~INPUT_JUMP~ to roll."
+msgstr "~s~自由射击或锁定目标时，用~INPUT_MOVE_LEFT~+~INPUT_JUMP~侧滚。"
+
+msgctxt "57EFA99A"
+msgid ""
+"Press ~INPUT_VEH_ACCELERATE~ to accelerate. Use ~PAD_LSTICK_LEFTRIGHT_VEH~ "
+"to steer a bike."
+msgstr "按~INPUT_VEH_ACCELERATE~加速。用~PAD_LSTICK_LEFTRIGHT_VEH~控制行驶方向。"
+
+msgctxt "5B2DA4FA"
+msgid "~s~Chase down all the ~r~bikers~s~ and wipe them out."
+msgstr "~s~跟着这些~r~飞车党，~s~消灭他们。"
+
+msgctxt "5C64348A"
+msgid "Press ~INPUT_VEH_ATTACK~ to use a weapon while on a bike."
+msgstr "按~INPUT_VEH_ATTACK~在摩托车上使用武器。"
+
+msgctxt "70B55D30"
+msgid ""
+"Press ~INPUT_VEH_ACCELERATE~ to accelerate. Use ~PAD_LSTICK_LEFTRIGHT~ to "
+"steer a bike."
+msgstr "按~INPUT_VEH_ACCELERATE~加速。用~PAD_LSTICK_LEFTRIGHT~控制行驶方向。"
+
+msgctxt "71C287C4"
+msgid "Go to ~y~Firefly Island."
+msgstr "前往~y~Firefly Island。"
+
+msgctxt "7F1FAD13"
+msgid "~s~PLACEHOLDER CUTSCENE."
+msgstr "~s~PLACEHOLDER CUTSCENE."
+
+msgctxt "82D4744B"
+msgid "~s~Get on the ~b~bike ~s~and chase him down."
+msgstr "~s~骑上~b~摩托，~s~跟着他。"
+
+msgctxt "8FF4135E"
+msgid "Get back on the ~b~bike,~s~ the biker is getting away."
+msgstr "回到~b~摩托~s~上，飞车党要跑掉了。"
+
+msgctxt "95DD5E84"
+msgid "~s~You can blow up gas pumps."
+msgstr "~s~你可以引爆油罐。"
+
+msgctxt "9FD7ED65"
+msgid "~s~Rolling will help you avoid gun fire."
+msgstr "~s~侧滚能帮助你躲避子弹。"
+
+msgctxt "A7F13E80"
+msgid "~s~The ~r~biker~s~ is heading into the gas station."
+msgstr "~r~飞车党~s~正在向加油站驶去。"
+
+msgctxt "AE26D80E"
+msgid "Use ~PAD_RSTICK_ALL~ to look around whilst on a bike."
+msgstr "用~PAD_RSTICK_ALL~在摩托车上环顾四周。"
+
+msgctxt "B0C96763"
+msgid ""
+"Press ~INPUT_VEH_ACCELERATE~ to accelerate. Use ~PAD_SIXAXIS_ROLL~ to steer "
+"a bike."
+msgstr "按~INPUT_VEH_ACCELERATE~加速。用~PAD_SIXAXIS_ROLL~控制行驶方向。"
+
+msgctxt "B7ACDDF7"
+msgid "~s~Take out the ~r~biker."
+msgstr "~s~干掉~r~飞车党。"
+
+msgctxt "B9B1C460"
+msgid ""
+"~s~When aiming use ~PAD_LSTICK_LEFTRIGHT~ and press ~INPUT_JUMP~ to roll."
+msgstr "~s~瞄准时，用~PAD_LSTICK_LEFTRIGHT~+~INPUT_JUMP~侧滚。"
+
+msgctxt "C41B3AFF"
+msgid "~s~Gas stations are full of explosive objects."
+msgstr "~s~加油站里充满了易爆品。"
+
+msgctxt "F1395AC1"
+msgid ""
+"Use ~INPUT_VEH_KEY_UD~ to shift your weight forwards and backwards when on a "
+"bike."
+msgstr "用~INPUT_VEH_KEY_UD~前后移动你在摩托车上的重心。"

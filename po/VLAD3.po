@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VLAD3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "2D7008C"
+msgid ""
+"Trains can be used to travel large distances in a short time around the city."
+msgstr "各种列车可以让你在短时间内在城中进行长距离移动。"
+
+msgctxt "14A2A423"
+msgid ""
+"While in the train press ~INPUT_NEXT_CAMERA~ to cycle through different "
+"camera modes."
+msgstr "乘坐列车时按~INPUT_NEXT_CAMERA~可切换视角。"
+
+msgctxt "1822BB55"
+msgid "~s~Find and take the ~b~silver Blista Compact."
+msgstr "~s~找到~b~银色Blista Compact，~s~开走它。"
+
+msgctxt "2E3B5754"
+msgid "Press ~INPUT_FRONTEND_ACCEPT~ to skip directly to your destination."
+msgstr "按~INPUT_FRONTEND_ACCEPT~可跳过路程直达目的地。"
+
+msgctxt "325B6F13"
+msgid "~S~Lose your wanted level."
+msgstr "~S~降低你的通缉度。"
+
+msgctxt "40147B06"
+msgid "Press ~INPUT_ENTER~ to enter a train."
+msgstr "按~INPUT_ENTER~进入列车。"
+
+msgctxt "49EA0EB1"
+msgid ""
+"An icon with an upward pointing arrow indicates that the objective is above "
+"your current position, and an icon with a downward pointing arrow indicates "
+"that an objective is below you."
+msgstr "小地图中，带有向上箭头的圆点表示目标所处位置高于你，带有向下箭头的圆点表示目标所处位置低于你。"
+
+msgctxt "4A5F9FE2"
+msgid "~s~You are on the wrong platform, go to the ~y~platform below."
+msgstr "~s~你来错站台了，去~y~楼下的站台。"
+
+msgctxt "58263B6F"
+msgid "~s~Now take Jimmy's car to the ~y~lockup."
+msgstr "~s~把Jimmy的车开回~y~车库。"
+
+msgctxt "59575210"
+msgid "~r~The vehicle is stuck.~s~"
+msgstr "~r~车辆无法行驶。~s~"
+
+msgctxt "62D150B1"
+msgid "~s~Take Jimmy's car to the ~y~lockup."
+msgstr "~s~把Jimmy的车开回~y~车库。"
+
+msgctxt "81C48EAF"
+msgid "~s~Go to the ~y~subway station."
+msgstr "~s~前往~y~轻轨站。"
+
+msgctxt "8252A4D9"
+msgid ""
+"To perform a stun punch lock onto an enemy and approach them unarmed. When "
+"close enough the target reticule will change then press ~INPUT_MELEE_ATTACK1~"
+" to perform the move."
+msgstr "要使用击晕，赤手锁定敌人并靠近。靠近敌人后按~INPUT_MELEE_ATTACK1~使出击晕。"
+
+msgctxt "8623147F"
+msgid "~s~Drive the car into the ~y~garage."
+msgstr "~s~将车开入~y~车库。"
+
+msgctxt "8E1B0163"
+msgid "Get on the ~b~train."
+msgstr "乘上~b~列车。"
+
+msgctxt "8FA52A70"
+msgid "~s~Take Jimmy's car to the car wash."
+msgstr "~s~把Jimmy的车开到洗车店。"
+
+msgctxt "926C450C"
+msgid ""
+"You can surprise some enemies with a ~h~stun punch. ~s~This will knock them "
+"to the floor instantly. Stun punches can not be performed while in combat."
+msgstr "你可以使用~h~击晕~s~给敌人来一个突然袭击。~s~你的敌人会直接倒地。击晕无法在战斗中使用。"
+
+msgctxt "A403D32D"
+msgid "~s~Go up to the ~y~station platform."
+msgstr "~s~前往~y~站台。"
+
+msgctxt "CBD47CD5"
+msgid "Wait for the ~b~train~s~ to arrive."
+msgstr "等待~b~列车~s~进站。"
+
+msgctxt "D029A88F"
+msgid "~s~Walk out of the garage."
+msgstr "~s~离开车库。"
+
+msgctxt "D1B1F937"
+msgid "~r~The car has been trashed.~s~"
+msgstr "~r~车被毁了。~s~"
+
+msgctxt "DF6049E5"
+msgid "~s~Get back in the ~b~car."
+msgstr "~s~回到~b~车~s~上。"

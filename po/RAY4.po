@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RAY4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "1F34CBF5"
+msgid "~r~You attacked Johnny."
+msgstr "~r~你攻击了Johnny。"
+
+msgctxt "2D81688E"
+msgid "~r~Johnny has been injured."
+msgstr "~r~Johnny受伤了。"
+
+msgctxt "35D72FC8"
+msgid "~s~Flee the museum before the cops arrive in full force."
+msgstr "~s~在警察完全集结之前逃离博物馆。"
+
+msgctxt "3817B49D"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通缉度。"
+
+msgctxt "3F134294"
+msgid "~s~Escape the ~y~Libertonian."
+msgstr "~s~逃离~y~自由城博物馆。"
+
+msgctxt "546C3663"
+msgid "~r~Isaac is dead."
+msgstr "~r~Isaac死了。"
+
+msgctxt "556D6F48"
+msgid "~s~Meet Johnny at the side entrance to the ~y~Libertonian."
+msgstr "~s~去~y~自由城博物馆~s~的侧门与Johnny会合。"
+
+msgctxt "64B745C1"
+msgid "~s~Mission Passed."
+msgstr "~s~任务通过。"
+
+msgctxt "6A98199D"
+msgid "~s~Go to the ~y~Libertonian~s~ between 9pm and 3am."
+msgstr "~s~在早上9点到下午3点间去~y~自由城博物馆。"
+
+msgctxt "84394C8B"
+msgid "~s~Lose Isaac's crew."
+msgstr "~s~摆脱Isaac的手下。"
+
+msgctxt "8966D73A"
+msgid "~s~Meet ~b~Johnny~s~ at the side entrance to the Libertonian."
+msgstr "~s~去自由城博物馆的侧门与~b~Johnny~s~会合。"
+
+msgctxt "9CC4FDF6"
+msgid "~s~Come back between 9pm and 3am."
+msgstr "~s~在晚上9点到凌晨3点之间回来。"
+
+msgctxt "A8EA702C"
+msgid "~s~Placeholder Cutscene."
+msgstr "~s~Placeholder Cutscene。"
+
+msgctxt "C6A59AD4"
+msgid "~r~Johnny is dead."
+msgstr "~r~Johnny死了。"
+
+msgctxt "DC2FC5E8"
+msgid "~r~Mission Failed."
+msgstr "~r~任务失败。"
+
+msgctxt "F0EA2643"
+msgid "~s~Go back to ~y~Ray."
+msgstr "~s~回去找~y~Ray。"

@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FAUST8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "2F68E19"
+msgid "~s~You can use free aim to shoot by lightly holding ~PAD_LT~."
+msgstr "~s~半按~PAD_LT~以在自由瞄准模式下射击。"
+
+msgctxt "13C0453C"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通缉度。"
+
+msgctxt "2D99F9DB"
+msgid "~s~You can aim as normal when in cover by using ~INPUT_AIM~."
+msgstr "~s~你可以在掩体后用~INPUT_AIM~进行射击。"
+
+msgctxt "300FEB7F"
+msgid ""
+"~s~You can change the aiming sensitivity in the front end menu screen by "
+"going to the controls section and selecting Mouse Sensitivity."
+msgstr "~s~你可以在暂停菜单下的控制设置中调节瞄准时的鼠标灵敏度。"
+
+msgctxt "39937B52"
+msgid "~s~The cops are here. Get Jacob back to the ~y~Homebrew Cafe."
+msgstr "~s~警察在这儿。带Jacob回~y~家庭咖啡馆。"
+
+msgctxt "3D1C97F4"
+msgid "~s~You've left ~b~Little Jacob~s~ behind."
+msgstr "~s~你把~b~Little Jacob~s~落下了。"
+
+msgctxt "41F821AB"
+msgid "~s~Wait for ~b~Little Jacob."
+msgstr "~s~等待~b~Little Jacob。"
+
+msgctxt "5B0B646C"
+msgid "~s~Use ~INPUT_AIM~ to aim."
+msgstr "~s~用~INPUT_AIM~瞄准。"
+
+msgctxt "6920DD9C"
+msgid "~s~When in cover, use ~PAD_LSTICK_LEFTRIGHT~ to move."
+msgstr "~s~在掩体后时，用~PAD_LSTICK_LEFTRIGHT~移动。"
+
+msgctxt "713E8373"
+msgid ""
+"~s~You can lock onto enemies as normal when in cover by pulling ~PAD_LT~."
+msgstr "~s~在掩体后时，用~PAD_LT~锁定敌人。"
+
+msgctxt "79647E23"
+msgid ""
+"~s~When in cover, press ~INPUT_ATTACK~ to blind fire. Blind fire is less "
+"accurate than aimed fire."
+msgstr "~s~在掩体后时，按~INPUT_ATTACK~进行盲射。盲射比瞄准射击精度更低。"
+
+msgctxt "7AA100A0"
+msgid "~s~Press ~PAD_RSTICK_NONE~ to zoom-in when locked on."
+msgstr "~s~按~PAD_RSTICK_NONE~以在锁定时放大瞄准。"
+
+msgctxt "8CDFA51D"
+msgid "~s~Press ~INPUT_COVER~ to take cover behind a vehicle when near one."
+msgstr "~s~按~INPUT_COVER~以在靠近车辆时躲到车后。"
+
+msgctxt "8F7BBFED"
+msgid ""
+"If you move to the limit of your cover position, you can shoot around it."
+msgstr "若你处在掩体边缘，就可以在其周围射击。"
+
+msgctxt "97E4D0B7"
+msgid "~s~Take Little Jacob back to his ~y~cafe."
+msgstr "~s~送Little Jacob回他的~y~咖啡馆。"
+
+msgctxt "B1026D4E"
+msgid "~s~Meet ~b~Little Jacob ~s~in East Hook."
+msgstr "~s~与~b~Little Jacob~s~在East Hook见面。"
+
+msgctxt "B2346FC6"
+msgid ""
+"Sustained firing of your weapon will cause recoil and bullets will spread "
+"inaccurately. The aiming reticule will grow larger to indicate this is "
+"happening."
+msgstr "连续射击会产生后坐力，子弹将不精准散布。准星外圈增大说明正受后坐力影响。"
+
+msgctxt "CEF21DED"
+msgid "~s~Get back to ~b~Jacob."
+msgstr "~s~回到~b~Jacob身边。"
+
+msgctxt "E1A26439"
+msgid "~r~Little Jacob is out of action."
+msgstr "~r~Little Jacob失去行动能力。"
+
+msgctxt "E6DC5915"
+msgid "~s~Wipe out Bulgarin's ~r~men."
+msgstr "~s~杀掉Bulgarin的~r~手下。"
+
+msgctxt "EDABC17F"
+msgid ""
+"~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to zoom-in while "
+"aiming."
+msgstr "~s~用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~在瞄准时放大画面。"
+
+msgctxt "F028013C"
+msgid "~s~Little Jacob is taking damage."
+msgstr "~s~Little Jacob正受到攻击。"

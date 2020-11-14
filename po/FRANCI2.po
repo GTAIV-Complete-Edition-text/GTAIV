@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FRANCI2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "644304E"
+msgid "~s~Mr. Goldberg..."
+msgstr "~s~Goldberg先生..."
+
+msgctxt "B3859F0"
+msgid "~r~You drove a vehicle into the building."
+msgstr "~r~你将载具驶入了大楼。"
+
+msgctxt "13918C21"
+msgid "~s~You got an interview."
+msgstr "~s~你有一个面试。"
+
+msgctxt "166069B0"
+msgid "~s~Use the ~y~intercom~s~ to contact reception."
+msgstr "~s~使用~y~对讲机~s~联系前台。"
+
+msgctxt "18478BE6"
+msgid "~s~Take the files to ~y~Francis."
+msgstr "~s~将档案交给~y~Francis。"
+
+msgctxt "18ECDF11"
+msgid "~s~Scroll down and submit your resume."
+msgstr "~s~下拉提交你的简历。"
+
+msgctxt "1AB1D3E2"
+msgid "~s~Files"
+msgstr "~s~档案"
+
+msgctxt "1D8FFE9F"
+msgid "~r~You were removed from the building."
+msgstr "~r~你被赶出了大楼。"
+
+msgctxt "1F4F021D"
+msgid "~r~Goldberg survived."
+msgstr "~r~Goldberg还活着。"
+
+msgctxt "21C6288A"
+msgid "~s~One Day Later (Demo Text)"
+msgstr "~s~One Day Later (Demo Text)"
+
+msgctxt "2957BEA8"
+msgid "~s~Doors are now unlocked."
+msgstr "~s~门现在解锁了。"
+
+msgctxt "29E12F19"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通辑度。"
+
+msgctxt "2C50771F"
+msgid "~s~You still need the files."
+msgstr "~s~你还需要档案。"
+
+msgctxt "321BA7B6"
+msgid "~r~You got a wanted level."
+msgstr "~r~你还有通辑度。"
+
+msgctxt "324CD092"
+msgid "~s~Security have locked all the exits."
+msgstr "~s~保安已经锁上了全部出口。"
+
+msgctxt "34879646"
+msgid "~s~Click on Submit Resume."
+msgstr "~s~点击「提交简历」。"
+
+msgctxt "379AD433"
+msgid "~s~Go to the ~y~interview."
+msgstr "~s~前去~y~面试。"
+
+msgctxt "38D732B5"
+msgid "~s~Get out of the office."
+msgstr "~s~离开律师行。"
+
+msgctxt "458B770F"
+msgid ""
+"~s~Use the computer at the ~y~Security Reception ~s~to unlock the doors."
+msgstr "~s~使用~y~安保台~s~的电脑解锁所有门。"
+
+msgctxt "4759BBEA"
+msgid "~s~Press ~INPUT_PICKUP~ to exit."
+msgstr "~s~按~INPUT_PICKUP~离开。"
+
+msgctxt "5592867B"
+msgid "~s~Retrieve the ~g~files."
+msgstr "~s~拿走~g~档案。"
+
+msgctxt "5EAD7A49"
+msgid "~s~Follow the ~b~receptionist~s~ to Goldberg's office."
+msgstr "~s~跟着~b~前台小姐~s~去Goldberg的办公室。"
+
+msgctxt "61FD7131"
+msgid "~s~Go to the careers page."
+msgstr "~s~访问「人才招聘」页面。"
+
+msgctxt "66DC112A"
+msgid "~r~Mission Failed."
+msgstr "~r~任务失败。"
+
+msgctxt "66F71134"
+msgid "~s~Threaten Goldberg by aiming your gun at him."
+msgstr "~s~用枪瞄准Goldberg威胁他。"
+
+msgctxt "7150BDF7"
+msgid "~s~Go into ~y~Goldberg's office."
+msgstr "~s~进入~y~Goldberg的办公室。"
+
+msgctxt "80E89015"
+msgid "~s~Mission Passed."
+msgstr "~s~任务完成。"
+
+msgctxt "855E6612"
+msgid "~s~Call Francis."
+msgstr "~s~打给Francis。"
+
+msgctxt "8AE4D7DB"
+msgid "~r~Goldberg escaped."
+msgstr "~r~Goldberg跑了。"
+
+msgctxt "8E08DE8F"
+msgid "~s~Logon to a computer and use the internet."
+msgstr "~s~登录一台电脑，上网。"
+
+msgctxt "9204C431"
+msgid "~s~Press ~INPUT_PICKUP~ to get up."
+msgstr "~s~按~INPUT_PICKUP~起身。"
+
+msgctxt "95C56C90"
+msgid "~s~Go to ~y~Perseus."
+msgstr "~s~前往~y~Perseus。"
+
+msgctxt "97797104"
+msgid "~r~You caused too much disruption."
+msgstr "~r~你制造了太多混乱。"
+
+msgctxt "A02983C4"
+msgid "~r~The files were not taken from the office."
+msgstr "~r~未从办公室拿走档案。"
+
+msgctxt "A55AEA5C"
+msgid "Come in, I'll buzz you through."
+msgstr "请进，我会帮你开门的。"
+
+msgctxt "A79BEF5F"
+msgid "~s~Press ~INPUT_PICKUP~ to take a seat."
+msgstr "~s~按~INPUT_PICKUP~坐下。"
+
+msgctxt "A9BB8070"
+msgid "~s~Click on the web icon."
+msgstr "~s~点击WEB图标。"
+
+msgctxt "AA45AFDC"
+msgid "~s~Wait outside ~y~Goldberg's office."
+msgstr "~s~在~y~Goldberg的办公室~s~外等候。"
+
+msgctxt "B0EE8F77"
+msgid "~s~You need to wear a suit and tie with smart shoes for the interview."
+msgstr "~s~你需要西装革履打领带才能参加面试。"
+
+msgctxt "B786B012"
+msgid "~s~Buy yourself a suit."
+msgstr "~s~给自己买套西装。"
+
+msgctxt "B99DA0D5"
+msgid "~s~Press ~INPUT_PICKUP~ to use the intercom."
+msgstr "~s~按~INPUT_PICKUP~使用对讲机。"
+
+msgctxt "BAD550FF"
+msgid "~s~Escape from the building."
+msgstr "~s~逃出大楼。"
+
+msgctxt "BAF21607"
+msgid "..."
+msgstr "..."
+
+msgctxt "BB1F384F"
+msgid "~r~You missed the interview."
+msgstr "~r~你错过了面试。"
+
+msgctxt "BCBA54C5"
+msgid "~s~Take the evidence to ~y~Francis."
+msgstr "~s~将证据交给~y~Francis。"
+
+msgctxt "CA265551"
+msgid "~s~Go to an Internet cafe."
+msgstr "~s~找一家网吧。"
+
+msgctxt "CCB3F4BC"
+msgid "~s~You retrieved the ~g~files."
+msgstr "~s~你拿到了~g~档案。"
+
+msgctxt "CEDC89B3"
+msgid "~s~This exit is locked."
+msgstr "~s~出口被锁住了。"
+
+msgctxt "CF68DFEA"
+msgid "~s~Kill ~r~Goldberg."
+msgstr "~s~杀了~r~Goldberg。"
+
+msgctxt "D0454DBF"
+msgid ""
+"~s~Click the link on the lawyer's advertisement or enter their web address."
+msgstr "~s~点击律师行广告或输入他们的网址。"
+
+msgctxt "D0B5E284"
+msgid "~s~Find and steal the ~b~evidence."
+msgstr "~s~找到并偷走~b~证据。"
+
+msgctxt "D59FEE84"
+msgid ""
+"~s~When you are ready stand up and aim your gun at Goldberg. Press "
+"~INPUT_PICKUP~ to get up."
+msgstr "~s~准备好后就起身瞄准Goldberg，按~INPUT_PICKUP~起身。"
+
+msgctxt "D5F8EF62"
+msgid "~r~You attacked Security."
+msgstr "~r~你攻击了保安。"
+
+msgctxt "DCEC9ED8"
+msgid "~s~Reply to the Lawyer's email."
+msgstr "~s~回复律师行的邮件。"
+
+msgctxt "DCF47AED"
+msgid "~s~Access the Lawyer website and apply for the job."
+msgstr "~s~访问律师行的网站，应聘工作。"
+
+msgctxt "DF7CDF1C"
+msgid "~s~Click on the \"Unlock\" button to open the doors."
+msgstr "~s~点击「解锁」按钮开门。"
+
+msgctxt "E0722CDE"
+msgid "~s~Try the exits on the ground floor."
+msgstr "~s~试试地面层的门。"
+
+msgctxt "E323874F"
+msgid "~s~Go to your ~y~interview."
+msgstr "~s~去参加你的~y~面试。"
+
+msgctxt "E69190A3"
+msgid "~r~You didn't conceal your weapon."
+msgstr "~r~你没有藏住你的武器。"
+
+msgctxt "EB533BA5"
+msgid "~s~Check your email."
+msgstr "~s~检查你的邮件。"
+
+msgctxt "EBDC04F0"
+msgid "~s~Access the lawyer website."
+msgstr "~s~访问律所的网站。"
+
+msgctxt "F08419AD"
+msgid "~s~Morning of the interview."
+msgstr "~s~Morning of the interview."
+
+msgctxt "F12F0280"
+msgid "~s~Press ~INPUT_PICKUP~ to take files."
+msgstr "~s~按~INPUT_PICKUP~拿走档案。"
+
+msgctxt "F1D524B2"
+msgid "~s~Get back in your suit."
+msgstr "~s~穿上西装回去。"
+
+msgctxt "F3CB42EE"
+msgid "~s~Go to the ~b~reception."
+msgstr "~s~去~b~前台。"
+
+msgctxt "F8603440"
+msgid "~r~You attacked office workers."
+msgstr "~r~你攻击了律师行职员。"
+
+msgctxt "FD72281C"
+msgid "~s~Leave the Internet cafe."
+msgstr "~s~离开网吧。"

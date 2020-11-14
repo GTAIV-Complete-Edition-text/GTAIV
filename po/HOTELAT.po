@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HOTELAT\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "4DE6070"
+msgid "~s~Press ~PAD_Y~ to enter the lift."
+msgstr "~s~按~PAD_Y~进入电梯。"
+
+msgctxt "13D86F24"
+msgid "~s~You need to find a way to get to the penthouse suite."
+msgstr "~s~你需要设法前往顶层套房。"
+
+msgctxt "23981DE7"
+msgid "~s~Get clear of the hotel."
+msgstr "~s~离开酒店。"
+
+msgctxt "5B980DE2"
+msgid "~s~Find your way to the ~y~penthouse."
+msgstr "~s~设法到达~y~顶层套房。"
+
+msgctxt "62AF0FE4"
+msgid ""
+"~s~Find a way to the penthouse suite and eliminate ~r~Isaac and the diamond "
+"dealers."
+msgstr "~s~设法到达顶层套房，干掉~r~Isaac等钻石商人。"
+
+msgctxt "662C14AE"
+msgid "~s~Escape from the hotel."
+msgstr "~s~逃离酒店。"
+
+msgctxt "695EA96F"
+msgid "~s~Wipe out the ~r~diamond dealers."
+msgstr "~s~干掉所有~r~钻石商人。"
+
+msgctxt "8BDE6242"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通缉度。"
+
+msgctxt "C3A94FA7"
+msgid "~s~You can use the ~y~lift panel~s~ to call the lift."
+msgstr "~s~你可以使用~y~控制面板~s~呼叫电梯。"
+
+msgctxt "CC7A6FA5"
+msgid "~s~Press ~INPUT_PICKUP~ to call the elevator."
+msgstr "~s~按~INPUT_PICKUP~呼叫电梯。"
+
+msgctxt "E28C8F9D"
+msgid "~s~There are various routes to the penthouse."
+msgstr "~s~有多种路线可以到达顶层公寓。"
+
+msgctxt "F0592B36"
+msgid "~s~Isaac and the diamond dealers are protected by armed bodyguards."
+msgstr "~s~Isaac等钻石商人受到了武装保镖的保护。"
+
+msgctxt "F4863164"
+msgid "~s~Go to the ~y~Majestic Hotel."
+msgstr "~s~前往~y~Majestic酒店。"
+
+msgctxt "F724C4FD"
+msgid "~s~Go to the ~y~Majestic."
+msgstr "~s~前往~y~Majestic酒店。"

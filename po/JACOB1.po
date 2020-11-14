@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JACOB1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "88A2ADD"
+msgid "~r~Jacob is dead."
+msgstr "~r~Jacob死了。"
+
+msgctxt "9B837D7"
+msgid "~s~Go with Jacob to the ~y~front door."
+msgstr "~s~跟Jacob去~y~正门。"
+
+msgctxt "16404649"
+msgid "~s~You need a vehicle."
+msgstr "~s~你需要一辆载具。"
+
+msgctxt "21314D4B"
+msgid "~s~Hold ~INPUT_AIM~ to lock onto a target when in cover."
+msgstr "~s~在掩体中时，按住~INPUT_AIM~锁定目标。"
+
+msgctxt "244DED02"
+msgid "~s~Wait for ~b~Jacob."
+msgstr "~s~等待~b~Jacob。"
+
+msgctxt "28150767"
+msgid "~s~First aid kits will replenish your health."
+msgstr "~s~急救包能补充你的生命值。"
+
+msgctxt "334EFCD4"
+msgid "~r~The runners were not stopped."
+msgstr "~r~毒贩逃走了。"
+
+msgctxt "3625A388"
+msgid "~s~Press ~INPUT_COVER~ to come out of cover."
+msgstr "~s~按~INPUT_COVER~离开掩体。"
+
+msgctxt "3B9E9BA3"
+msgid "~s~Go round back and cover the ~y~rear exit."
+msgstr "~s~绕后，断了他们的~y~后路。"
+
+msgctxt "4D593482"
+msgid "~s~Drive to the ~y~rear alleyway."
+msgstr "~s~开车进入~y~后巷。"
+
+msgctxt "572B52BC"
+msgid "~s~Take down all the ~r~drug dealers."
+msgstr "~s~干掉所有~r~毒贩。"
+
+msgctxt "6D577F14"
+msgid "~s~Return and pick up ~b~Jacob."
+msgstr "~s~回去接~b~Jacob。"
+
+msgctxt "6EE87406"
+msgid "~s~There are too many cops about, lose your wanted level."
+msgstr "~s~附近的警察太多了，降低你的通缉度。"
+
+msgctxt "7BCD0DCF"
+msgid "~s~Follow Jacob into the house."
+msgstr "~s~跟着Jacob进屋。"
+
+msgctxt "87261933"
+msgid ""
+"~s~To blind fire when in cover, use ~PAD_RSTICK_ALL~ to aim and press "
+"~INPUT_ATTACK~ to fire."
+msgstr "~s~要在掩体后进行盲射，使用~PAD_RSTICK_ALL~瞄准，按~INPUT_ATTACK~开火。"
+
+msgctxt "88662701"
+msgid "~s~Waste the ~r~drug dealers."
+msgstr "~s~做掉~r~毒贩子。"
+
+msgctxt "8B3B3694"
+msgid ""
+"~s~When in cover use ~INPUT_AIM~ to aim at a target and ~INPUT_ATTACK~ to "
+"spin out of cover and fire."
+msgstr "~s~在掩体中时，使用~INPUT_AIM~瞄准目标，按~INPUT_ATTACK~探出掩体开火。"
+
+msgctxt "8EB841D5"
+msgid "~s~Go to~b~Jacob."
+msgstr "~s~去找~b~Jacob。"
+
+msgctxt "963FC2B4"
+msgid "~s~Take a weapon from the ~g~trunk~s~ of Jacob's car."
+msgstr "~s~从Jacob车子的~g~后备箱~s~中拿取一把武器。"
+
+msgctxt "987BBBDE"
+msgid ""
+"~s~Access the trunk by approaching the rear of a vehicle and pressing "
+"~INPUT_PICKUP~."
+msgstr "~s~走近车尾，按~INPUT_PICKUP~打开后备箱。"
+
+msgctxt "A0A9788A"
+msgid "~s~Furniture may also be used as cover."
+msgstr "~s~家具可以用作掩护。"
+
+msgctxt "A4156C8F"
+msgid "~s~Waste the ~r~drug dealers~s~ and save Jacob."
+msgstr "~s~做掉所有~r~毒贩，~s~保护Jacob。"
+
+msgctxt "AE3800D8"
+msgid "~s~Take Jacob to the town house in ~y~Meadows Park."
+msgstr "~s~带Jacob去~y~Meadows Park~s~的住宅楼。"
+
+msgctxt "B3EF72C5"
+msgid ""
+"~s~When a target is locked on, press ~INPUT_ATTACK~ to spin out of cover and "
+"fire."
+msgstr "~s~锁定一个目标时, 按~INPUT_ATTACK~探出掩体开火。"
+
+msgctxt "BF50986F"
+msgid "~s~Take Jacob to the apartment block in ~y~Willis."
+msgstr "~s~带Jacob去位于~y~Willis~s~的公寓楼。"
+
+msgctxt "CD09DA2B"
+msgid "~s~Use ~INPUT_AIM~ to aim at a target when in cover."
+msgstr "~s~在掩体中时使用~INPUT_AIM~瞄准目标。"
+
+msgctxt "CF0F2908"
+msgid "~s~Press ~INPUT_COVER~ to take cover behind a wall."
+msgstr "~s~按~INPUT_COVER~将墙作为掩体。"
+
+msgctxt "D1973CF8"
+msgid "~s~Take Jacob back to the ~y~Homebrew Cafe."
+msgstr "~s~送Jacob回~y~家庭咖啡馆。"
+
+msgctxt "D3624B40"
+msgid "~s~Waste the ~r~drug dealers."
+msgstr "~s~做掉~r~毒贩子。"
+
+msgctxt "D941BB7A"
+msgid "~s~When in cover use ~INPUT_AIM~ to aim at a target."
+msgstr "~s~在掩体时中用~INPUT_AIM~瞄准目标。"
+
+msgctxt "DEB15730"
+msgid "~s~Don't leave ~b~Jacob~s~ behind."
+msgstr "~s~别把~b~Jacob~s~落下。"
+
+msgctxt "E6499B79"
+msgid ""
+"~s~While aiming at a target, press ~INPUT_ATTACK~ to spin out of cover and "
+"shoot."
+msgstr "~s~瞄准某一目标时，按~INPUT_ATTACK~探出掩体开火。"
+
+msgctxt "EA7DDFE5"
+msgid "~s~Use ~PAD_LSTICK_LEFTRIGHT~ to move behind cover."
+msgstr "~s~用~PAD_LSTICK_LEFTRIGHT~在掩体中移动。"
+
+msgctxt "EA7F2BB4"
+msgid "~s~When in cover hold ~INPUT_AIM~ to aim at a target."
+msgstr "~s~在掩体中按~INPUT_AIM~瞄准目标。"
+
+msgctxt "EC196E6A"
+msgid "~s~Take down the last ~r~drug dealer."
+msgstr "~s~干掉最后一个~r~毒贩。"
+
+msgctxt "F2C709F5"
+msgid "~s~Go and pick up ~b~Jacob."
+msgstr "~s~去接~b~Jacob。"

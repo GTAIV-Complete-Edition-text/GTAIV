@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ESCAPE\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "FF0F81"
+msgid "8"
+msgstr "8"
+
+msgctxt "855EB88"
+msgid "All for One"
+msgstr "多对一"
+
+msgctxt "B2023C3"
+msgid "2"
+msgstr "2"
+
+msgctxt "BB13B14"
+msgid "Game Type"
+msgstr "游戏类型"
+
+msgctxt "2C974253"
+msgid "~r~The getaway boat is on land, it needs to get back into water."
+msgstr "~r~逃亡用的船被搞到陆地上了，它需要回到水里。"
+
+msgctxt "2EC8EB14"
+msgid "6"
+msgstr "6"
+
+msgctxt "30E5E57A"
+msgid "Rounds"
+msgstr "回合数"
+
+msgctxt "3BFFC2AE"
+msgid "Head to the ~b~getaway vehicle."
+msgstr "前往~b~逃亡车辆。"
+
+msgctxt "4994C395"
+msgid ""
+"The ~COL_NET_2~cops~s~ have been alerted. Get to the ~b~getaway vehicle."
+msgstr "~COL_NET_2~条子~s~已接到警报。前往~b~逃亡车辆。"
+
+msgctxt "4AD5A538"
+msgid "GAME IS ABOUT TO END"
+msgstr "游戏即将结束"
+
+msgctxt "4BF36295"
+msgid "You are the team's Boss."
+msgstr "你是团队的老大了。"
+
+msgctxt "4CC2AA6C"
+msgid "A crook has got into the getaway vehicle."
+msgstr "一名盗贼已经进入了逃亡载具。"
+
+msgctxt "56EB3B5C"
+msgid "10"
+msgstr "10"
+
+msgctxt "5DFEEC69"
+msgid ""
+"The ~COL_NET_1~crooks~s~ have been spotted, they are highly dangerous. Take "
+"them down."
+msgstr "~COL_NET_1~盗贼们~s~已经被发现，他们极度危险。干掉他们。"
+
+msgctxt "6E89575E"
+msgid ""
+"The boss needs to stay in the vehicle - the game will end shortly if he "
+"doesn't."
+msgstr "团队老大需要待在载具里-如果他不的话游戏很快会结束。"
+
+msgctxt "79B56DD7"
+msgid "WAITING FOR VIP TO BE SELECTED."
+msgstr "等待VIP选择。"
+
+msgctxt "7F11C29A"
+msgid "A Crook needs to stay in the vehicle - the game will end shortly."
+msgstr "盗贼需要待在车里-游戏将很快结束。"
+
+msgctxt "8CC09740"
+msgid "Some of the crooks have got into the getaway vehicle."
+msgstr "一些盗贼已经进入了逃亡载具。"
+
+msgctxt "8D444F8B"
+msgid "The Boss has reached the getaway vehicle."
+msgstr "团队老大已经抵达了逃亡载具。"
+
+msgctxt "8E28B313"
+msgid "The Boss has been taken out."
+msgstr "团队老大被干掉了。"
+
+msgctxt "977BE462"
+msgid "~r~The getaway vehicle has been destroyed. The round will end shortly."
+msgstr "~r~逃亡载具已被摧毁。本回合即将结束。"
+
+msgctxt "9AFB86E9"
+msgid "LEAVE"
+msgstr "离开"
+
+msgctxt "BDCE4649"
+msgid "You are the boss, make your way to the ~b~getaway vehicle."
+msgstr "你是团队老大，赶快前往~b~逃亡载具。"
+
+msgctxt "CC23E2F4"
+msgid "Protect the ~COL_NET_1~Boss."
+msgstr "保护~COL_NET_1~老大。"
+
+msgctxt "DA1DBD1B"
+msgid "~r~The getaway vehicle has been flipped. The round will end shortly."
+msgstr "~r~逃亡载具翻了。本回合即将结束。"
+
+msgctxt "DCF94776"
+msgid "4"
+msgstr "4"
+
+msgctxt "EDC5A63B"
+msgid "Find the ~COL_NET_1~Boss~s~ and take him out."
+msgstr "找到~COL_NET_1~老大~s~并干掉他。"
+
+msgctxt "F512C502"
+msgid "One for All"
+msgstr "一对多"

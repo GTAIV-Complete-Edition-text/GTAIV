@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WI_JEF1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "A18B0C0"
+msgid "She's slowing down. Get ready to park up."
+msgstr "她正在减速，准备停车。"
+
+msgctxt "11B82CA5"
+msgid "Press ~INPUT_PHONE_ACCEPT~ to select the phone's main menu."
+msgstr "按下~INPUT_PHONE_ACCEPT~来选择手机主菜单。"
+
+msgctxt "21DA748B"
+msgid ""
+"She's slowing down. Get ready to park up. Keep her in sight but don't get "
+"too close."
+msgstr "她正在减速，准备停车。确保她在视野内，注意保持距离。"
+
+msgctxt "2E7886D7"
+msgid "~s~Leave the Superstar Cafe."
+msgstr "~s~离开Superstar Cafe。"
+
+msgctxt "32FB16F8"
+msgid "~b~Jeff~s~ has been added to your phonebook contacts."
+msgstr "~b~Jeff~s~已经被添加至你的手机通讯录。"
+
+msgctxt "33817037"
+msgid ""
+"To take a picture with your phone you will need to access the phone's main "
+"menu. Press ~INPUT_PHONE_TAKE_OUT~ to activate the phone."
+msgstr "从手机的主菜单中可以启动相机，按~INPUT_PHONE_TAKE_OUT~拿出手机。"
+
+msgctxt "3B9F2124"
+msgid "Find the ~r~couple.~s~"
+msgstr "寻找那对~r~男女。~s~"
+
+msgctxt "3F8EB047"
+msgid "Follow ~r~Jeff's wife."
+msgstr "跟踪~r~Jeff的妻子。"
+
+msgctxt "44B4B34B"
+msgid "~r~Jeff's wife and her friend are dead.~s~"
+msgstr "~r~Jeff的妻子和她的朋友死了。~s~"
+
+msgctxt "4F2EC83F"
+msgid "Here they come."
+msgstr "他们来了。"
+
+msgctxt "51C254AE"
+msgid "~r~Jeff's wife realized she was being followed.~s~"
+msgstr "~r~Jeff的妻子意识到自己被跟踪了。~s~"
+
+msgctxt "58AEE949"
+msgid ""
+"Use ~PAD_LSTICK_ALL~ to move the camera. Zoom in and out using "
+"~PAD_RSTICK_UPDOWN~. Press ~INPUT_PHONE_ACCEPT~ to capture an image. When "
+"taking a photo of a person make sure you get a clear shot of their face."
+msgstr ""
+"用~PAD_LSTICK_ALL~移动相机，用~PAD_RSTICK_UPDOWN~进行缩放。按~INPUT_PHONE_ACCEPT~拍照。拍人时确保能"
+"拍到脸。"
+
+msgctxt "5D3AE457"
+msgid "~r~Jeff's wife's friend is dead.~s~"
+msgstr "~r~Jeff妻子的朋友死了~s~"
+
+msgctxt "63FB7920"
+msgid "Keep your distance. You're too close."
+msgstr "保持距离，你靠得太近了。"
+
+msgctxt "6AD1BB9A"
+msgid "~r~The couple realized they were being followed.~s~"
+msgstr "~r~这对男女发现自己被跟踪了。~s~"
+
+msgctxt "762C1D81"
+msgid "Follow ~r~Jeff's wife~s~ but don't get too close."
+msgstr "跟踪~r~Jeff的妻子，~s~但不要靠得太近。"
+
+msgctxt "78902249"
+msgid "Stay out of sight. Don't let them get suspicious."
+msgstr "待在他们的视线外，别让他们起疑。"
+
+msgctxt "82BD000C"
+msgid "Once the picture has been sent, wait a short moment for a reply."
+msgstr "发送照片后等待回复。"
+
+msgctxt "9185CCF0"
+msgid "Enter the Superstar Cafe and find the ~r~couple.~s~"
+msgstr "进入Superstar Cafe寻找那对~r~男女。~s~"
+
+msgctxt "9F35684F"
+msgid "~r~Jeff's wife didn't get caught.~s~"
+msgstr "~r~Jeff的老婆没有被抓到现行。~s~"
+
+msgctxt "9FE6547B"
+msgid "Obtain a clear shot of both faces."
+msgstr "把两人的脸都清楚拍下。"
+
+msgctxt "B513E4B9"
+msgid "Press ~INPUT_PHONE_ACCEPT~ to send the picture to a contact."
+msgstr "按~INPUT_PHONE_ACCEPT~将照片发给联系人。"
+
+msgctxt "B81A1A1C"
+msgid "~r~Jeff is dead.~s~"
+msgstr "~r~Jeff死了~s~"
+
+msgctxt "C6B3374E"
+msgid "You have been spotted."
+msgstr "你被发现了。"
+
+msgctxt "D85339DC"
+msgid ""
+"From the menu scroll down and select ~h~Camera.~s~ Activate the camera by "
+"pressing ~INPUT_PHONE_ACCEPT~."
+msgstr "在菜单中下移选中~h~相机。~s~按~INPUT_PHONE_ACCEPT~启动相机。"
+
+msgctxt "E9CA04A3"
+msgid "Take a picture of the ~r~couple."
+msgstr "拍下那对~r~男女。"
+
+msgctxt "EB0A8DFE"
+msgid "Press ~INPUT_PHONE_ACCEPT~ to capture an image on screen."
+msgstr "按~INPUT_PHONE_ACCEPT~拍照。"
+
+msgctxt "EBC68174"
+msgid "~r~Jeff's wife is dead.~s~"
+msgstr "~r~Jeff的妻子死了。~s~"
+
+msgctxt "FB3D2E63"
+msgid ""
+"Use ~PAD_RSTICK_ALL~ to move the camera. Zoom in and out using "
+"~PAD_LSTICK_UPDOWN~. Press ~INPUT_PHONE_ACCEPT~ to capture an image. When "
+"taking a photo of a person make sure you get a clear shot of their face."
+msgstr ""
+"用~PAD_LSTICK_ALL~移动相机，用~PAD_RSTICK_UPDOWN~进行缩放。按~INPUT_PHONE_ACCEPT~拍照。拍人时确保能"
+"拍到脸。"
+
+msgctxt "FC07291D"
+msgid ""
+"They are going inside the cafe, wait until they reach the bar and take a "
+"photo of the ~r~couple.~s~ Don't get too close."
+msgstr "他们要进入咖啡厅了，等他们到达吧台后并拍下那对~r~男女。~s~别靠太近。"

@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: INDRVBY\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "6016AF9"
+msgid "~r~Some of the gang members got away."
+msgstr "~r~一些帮派成员逃走了。"
+
+msgctxt "14CC088E"
+msgid "~r~Some of the gang members outside the garage got away."
+msgstr "~r~车库外的一些帮派成员逃走了。"
+
+msgctxt "20D3A6ED"
+msgid "~s~Use ~PAD_RSTICK_ALL~ to aim at your target."
+msgstr "~s~用~PAD_RSTICK_ALL~瞄准你的目标。"
+
+msgctxt "268EAC13"
+msgid "~r~Some of the gang members in the car got away."
+msgstr "~r~车里的一些帮派成员逃走了。"
+
+msgctxt "630C6851"
+msgid ""
+"~s~Press ~INPUT_VEH_NEXT_WEAPON~ to select different weapons to perform a "
+"vehicle attack with."
+msgstr "~s~按~INPUT_VEH_NEXT_WEAPON~切换从载具中攻击时所用的武器。"
+
+msgctxt "7029C598"
+msgid "~s~To fire your weapon from a vehicle, hold ~INPUT_VEH_ATTACK~."
+msgstr "~s~按住~INPUT_VEH_ATTACK~以在载具中用武器攻击。"
+
+msgctxt "7F06FD5E"
+msgid "~s~Go and get a ~b~car~s~ to be used in the attack."
+msgstr "~s~去弄一辆用于进行攻击的~b~车。~s~"
+
+msgctxt "7FC1FD82"
+msgid ""
+"~s~Press ~INPUT_VEH_HEADLIGHT~ to select different weapons to perform a "
+"vehicle attack with."
+msgstr "~s~按~INPUT_VEH_HEADLIGHT~切换从载具中攻击时所用的武器。"
+
+msgctxt "847AEE3A"
+msgid ""
+"~s~If you are in a vehicle and have an appropriate weapon you can fire it."
+msgstr "~s~在载具中时，若你拥有合适的武器，即可用其进行攻击。"
+
+msgctxt "9B30B5B1"
+msgid "~s~Go to ~y~Windmill Street."
+msgstr "~s~前往~y~Windmill街。"
+
+msgctxt "AE82032F"
+msgid "~S~They are trying to escape in a ~r~car,~s~ don't let them get away."
+msgstr "~S~他们正试图乘~r~车~s~逃跑，别让他们跑了。"
+
+msgctxt "B479E843"
+msgid "~s~Clean out the ~r~gang members."
+msgstr "~s~消灭所有~r~帮派成员。"

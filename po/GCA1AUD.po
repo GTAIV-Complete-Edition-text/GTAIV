@@ -1,0 +1,977 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GCA1AUD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "8B170A"
+msgid "GCA_ACT_CALL_HOSP_CANCEL_LOLIKE"
+msgstr "GCA_ACT_CALL_HOSP_CANCEL_LOLIKE"
+
+msgctxt "338AD0B"
+msgid "010"
+msgstr "010"
+
+msgctxt "344C120"
+msgid "100"
+msgstr "100"
+
+msgctxt "35B46DA"
+msgid "~z~Okay then Alex, I'll come and get you in the next hour."
+msgstr "~z~好的，Alex，我会在一个小时内来接你。"
+
+msgctxt "3903762"
+msgid "~z~I'm on my way."
+msgstr "~z~我这就过来。"
+
+msgctxt "55B4DB8"
+msgid "GCA_ACT_CALL_LIKEYES"
+msgstr "GCA_ACT_CALL_LIKEYES"
+
+msgctxt "9C8AC92"
+msgid "100"
+msgstr "100"
+
+msgctxt "9F00863"
+msgid "~z~Alex. It's Niko."
+msgstr "~z~Alex，我是Niko。"
+
+msgctxt "F21374D"
+msgid "~z~Okay, Alex. I'll try you again later."
+msgstr "~z~好吧，Alex。我以后再打给你。"
+
+msgctxt "F365701"
+msgid "~z~Oh, you've decided to call, have you?"
+msgstr "~z~噢，总算想起来打电话找我了是吧？"
+
+msgctxt "FE98631"
+msgid "~z~Why don't you show me a good time?"
+msgstr "~z~咱俩一起去找点乐子吧？"
+
+msgctxt "10CD5E46"
+msgid "~z~I'll see you then."
+msgstr "~z~到时候见。"
+
+msgctxt "11BFD3C1"
+msgid "~z~I'll be by in a bit."
+msgstr "~z~我一会儿就到。"
+
+msgctxt "15116A46"
+msgid "~z~Sure, I'll be there in the next hour."
+msgstr "~z~好的，我一小时内就过来。"
+
+msgctxt "16E59C67"
+msgid "GCA_ACT_GETCALL_IRATE"
+msgstr "GCA_ACT_GETCALL_IRATE"
+
+msgctxt "1731B5B2"
+msgid "~z~Niko, it's Alex."
+msgstr "~z~Niko，我是Alex。"
+
+msgctxt "183F5181"
+msgid "~z~Okay, Niko. If that's the way it is, that's the way it is."
+msgstr "~z~好吧，Niko。既然情况如此，那我也没什么办法。"
+
+msgctxt "19899C0F"
+msgid ""
+"~z~My psychiatrist says that I shouldn't be seeing anyone in this emotional "
+"state, maybe if you me call back later..."
+msgstr "~z~我的心理医生说我现在这种情绪状态最好不要见任何人，你还是以后再打电话找我吧..."
+
+msgctxt "19AC3708"
+msgid "~z~Why don't you and me go do something?"
+msgstr "~z~要么我们一起出去吧？"
+
+msgctxt "1B13CACC"
+msgid "100"
+msgstr "100"
+
+msgctxt "1CD14DEF"
+msgid ""
+"~z~There are plenty of guys who'd kill to collect me from the hospital. I'll "
+"call one of them."
+msgstr "~z~有的是人愿意来医院接我，我找他们了。"
+
+msgctxt "1D02AE88"
+msgid "~z~How's it going, Alex?"
+msgstr "~z~你好吗，Alex？"
+
+msgctxt "1E948950"
+msgid ""
+"~z~Sorry, Alex but I don't memorize your sleeping hours. I'll call you later."
+msgstr "~z~抱歉，Alex。我不知道你现在在睡觉，我晚点再打给你。"
+
+msgctxt "1F43B770"
+msgid ""
+"~z~That won't be a problem Niko. I can get you a fifty percent discount for "
+"the rest of the day."
+msgstr "~z~没问题，Niko。今天一天我都能给你五折的价。"
+
+msgctxt "20F75AF9"
+msgid "~z~We'll do something another time then. I'll call again later."
+msgstr "~z~那我们改天再聚。之后我再找你。"
+
+msgctxt "2325BA35"
+msgid "~z~I knew you'd do this. I just knew it."
+msgstr "~z~我就知道你会这样，我就知道。"
+
+msgctxt "2752B7A1"
+msgid "~z~You know, I don't feel like seeing you right now. Maybe in a while."
+msgstr "~z~那个，我现在不太想见你。过段时间吧。"
+
+msgctxt "27845657"
+msgid "~z~Hey, it's Alex."
+msgstr "~z~嘿，我是Alex。"
+
+msgctxt "28CD81E8"
+msgid "~z~Alright, I'll be there soon."
+msgstr "~z~好，我马上就到。"
+
+msgctxt "28FFC754"
+msgid "100"
+msgstr "100"
+
+msgctxt "2BBD44CE"
+msgid "GCA_ACT_PAL_CALL_REJECTED"
+msgstr "GCA_ACT_PAL_CALL_REJECTED"
+
+msgctxt "2C349C53"
+msgid "GCA_ACT_CALL_IRATE"
+msgstr "GCA_ACT_CALL_IRATE"
+
+msgctxt "2C545C11"
+msgid "~z~This is Alex Chilton's phone. Leave me a message."
+msgstr "~z~我是Alex Chilton。有事请留言。"
+
+msgctxt "2CC5E559"
+msgid ""
+"~z~Well there's the mysterious European. I was starting to think you were "
+"done with me."
+msgstr "~z~神秘欧洲人来啦，我差点以为你和我已经分手了。"
+
+msgctxt "2CCA665E"
+msgid "100"
+msgstr "100"
+
+msgctxt "2D973BEF"
+msgid "GCA_ACT_PAL_GETCALL_SPEC_END"
+msgstr "GCA_ACT_PAL_GETCALL_SPEC_END"
+
+msgctxt "2E70998C"
+msgid "~z~Don't be late, Niko."
+msgstr "~z~别迟到了，Niko。"
+
+msgctxt "303F717D"
+msgid "100"
+msgstr "100"
+
+msgctxt "30B755F1"
+msgid "~z~Alex, hello."
+msgstr "~z~Alex，你好。"
+
+msgctxt "30E32DED"
+msgid "~z~I didn't know you'd be in bed. I'm sorry."
+msgstr "~z~我不知道你还在睡觉，真对不起。"
+
+msgctxt "320BCFE4"
+msgid "GCA_ACT_CALL_LIKENO_2_AB"
+msgstr "GCA_ACT_CALL_LIKENO_2_AB"
+
+msgctxt "335FFFCA"
+msgid "~z~Another time, Alex. We will put on a rain check."
+msgstr "~z~那就下次吧，Alex。我们改天再见。"
+
+msgctxt "352AB510"
+msgid "~z~Alex, I want to go shopping. Can you get me some money off?"
+msgstr "~z~Alex，我想去购物。你能给我点折扣吗？"
+
+msgctxt "367A55F0"
+msgid ""
+"~z~Niko, I just can't see you right now. I have to put in some serious Daddy "
+"time to make sure the card doesn't get cut off."
+msgstr "~z~Niko，我现在不能陪你。我现在得好好陪着我亲爹，否则就没人帮我付信用卡账单了。"
+
+msgctxt "37EE5A08"
+msgid "GCA_ACT_GETCALL_VERYIRATE"
+msgstr "GCA_ACT_GETCALL_VERYIRATE"
+
+msgctxt "384FE26C"
+msgid "GCA_ACT_CALL_VERYIRATE"
+msgstr "GCA_ACT_CALL_VERYIRATE"
+
+msgctxt "39182752"
+msgid "GCA_ACT_CALL_REQ_SPEC_YES"
+msgstr "GCA_ACT_CALL_REQ_SPEC_YES"
+
+msgctxt "3E107BF4"
+msgid "~z~Okay, I was getting ready, but fine."
+msgstr "~z~好吧，我刚准备的差不多，但也没事。"
+
+msgctxt "3ED6ADFA"
+msgid "~z~I'll be there in a bit."
+msgstr "~z~我马上就到。"
+
+msgctxt "403C3D23"
+msgid "~z~I'll be waiting, Niko."
+msgstr "~z~我等着你，Niko。"
+
+msgctxt "42E3A91D"
+msgid "GCA_ACT_GETCALL_REJECT_VERYIRATE"
+msgstr "GCA_ACT_GETCALL_REJECT_VERYIRATE"
+
+msgctxt "436A034E"
+msgid "010"
+msgstr "010"
+
+msgctxt "43CFF09B"
+msgid "~z~I'm sorry but I've got to see the girls. Maybe another time."
+msgstr "~z~我很抱歉，但我跟姐妹们有约在先。下次再说吧。"
+
+msgctxt "44060F5A"
+msgid "~z~Niko, this is Alex calling."
+msgstr "~z~Niko，我是Alex。"
+
+msgctxt "441C0D6C"
+msgid ""
+"~z~Alright, well top prize for effort. I'll let you take me out. Come by in "
+"the next hour."
+msgstr "~z~好了，现在给你的努力颁发一等奖。我允许你带我出去。一个小时内来接我吧。"
+
+msgctxt "44BEC89B"
+msgid "010"
+msgstr "010"
+
+msgctxt "44D8957E"
+msgid ""
+"~z~Niko, you picked up. Well it's been a while since I've heard from you."
+msgstr "~z~Niko，你终于接电话了。我好久没接到你的联络了。"
+
+msgctxt "45CC0B21"
+msgid "GCA_ACT_GETCALL_REJECT_VERYIRATE"
+msgstr "GCA_ACT_GETCALL_REJECT_VERYIRATE"
+
+msgctxt "45E032CC"
+msgid "~z~From now on I am only dating Americans."
+msgstr "~z~从现在起我只约美国人了。"
+
+msgctxt "479C7A0D"
+msgid "GCA_ACT_CALL_LIKENO_2_AA"
+msgstr "GCA_ACT_CALL_LIKENO_2_AA"
+
+msgctxt "485C3CF0"
+msgid "100"
+msgstr "100"
+
+msgctxt "4B6508C5"
+msgid "~z~What are you doing? Ha fucking ha. I'm asleep. Call me after noon."
+msgstr "~z~你搞什么啊？呵呵。我正睡觉呢。下午再打给我。"
+
+msgctxt "4C597F10"
+msgid "~z~Why don't you take me out on a date?"
+msgstr "~z~为什么不带我出去约会呢？"
+
+msgctxt "4C8BBA19"
+msgid "~z~I'm going to have to call my therapist. Goodbye."
+msgstr "~z~我要给我的心理医生打电话了。再见。"
+
+msgctxt "4CEDA4E2"
+msgid "100100"
+msgstr "100100"
+
+msgctxt "4D4FF42E"
+msgid "GCA_ACT_PAL_CALL_DATE"
+msgstr "GCA_ACT_PAL_CALL_DATE"
+
+msgctxt "4F3F67DD"
+msgid "~z~I'm not saying this is over for good but I need a break."
+msgstr "~z~我不是说咱们分了，但我确实需要休息。"
+
+msgctxt "4F9F1F11"
+msgid "~z~Well, I blew off a lot of people to see you but... sure."
+msgstr "~z~好吧，为了跟你约会我推了很多人，不过...好吧。"
+
+msgctxt "50E5D561"
+msgid "100"
+msgstr "100"
+
+msgctxt "52F1712B"
+msgid "GCA_ACT_GETCALL_HOSP_REJ_HILIKE"
+msgstr "GCA_ACT_GETCALL_HOSP_REJ_HILIKE"
+
+msgctxt "5353BE27"
+msgid "~z~This is a fucking joke. You never want to go out with me."
+msgstr "~z~这他妈就是开玩笑。你根本就不想和我出去玩。"
+
+msgctxt "539B9BBD"
+msgid "~z~Alex, how's it going?"
+msgstr "~z~Alex，你好吗？"
+
+msgctxt "53B723A2"
+msgid "~z~Sorry Alex, it's over between us. I can't say I'm going to miss you."
+msgstr "~z~抱歉，Alex，咱俩之间结束了。我也不知道以后会不会想你。"
+
+msgctxt "53B7E41A"
+msgid "~z~See you in a bit."
+msgstr "~z~待会儿见。"
+
+msgctxt "54006525"
+msgid "GCA_ACT_ANSWER_PHONE"
+msgstr "GCA_ACT_ANSWER_PHONE"
+
+msgctxt "569B8169"
+msgid ""
+"~z~Oh, you picked up. I was starting to think I'd have to get Daddy's "
+"private investigator to track you down, Niko."
+msgstr "~z~噢，你可算接电话了。我都在想是不是应该让我爸的私家侦探调查你的行踪了，Niko。"
+
+msgctxt "57BD0D67"
+msgid ""
+"~z~Fuck you. I could have done anything now. You were lucky I agreed to see "
+"you."
+msgstr "~z~操你妈的。本来我有的是选择。选择跟你约会是你的夫妻。"
+
+msgctxt "59B72569"
+msgid ""
+"~z~Are you fucking stupid? I'm sleeping. Call me back after noon. I might be "
+"awake then."
+msgstr "~z~你他妈白痴吧？我正睡觉呢。下午再打给我。那时候我可能醒着。"
+
+msgctxt "5A354BC8"
+msgid "100"
+msgstr "100"
+
+msgctxt "5C33BB18"
+msgid "100"
+msgstr "100"
+
+msgctxt "5E11D3A3"
+msgid ""
+"~z~Shit, I would have been better off putting my energy into a block of wood "
+"than you."
+msgstr "~z~妈的，我把心思花在木头上都比花在你身上强。"
+
+msgctxt "61CC381E"
+msgid "~z~Alex, that you?"
+msgstr "~z~Alex，是你吗？"
+
+msgctxt "62BA21BF"
+msgid "~z~I can't take you out just now, Alex. I'll call you later."
+msgstr "~z~我现在不能带你出去，Alex。晚点我再打给你。"
+
+msgctxt "62DDD6BD"
+msgid "GCA_ACT_CALL_DATE_NO_GENERAL"
+msgstr "GCA_ACT_CALL_DATE_NO_GENERAL"
+
+msgctxt "636D79C8"
+msgid "100100010"
+msgstr "100100010"
+
+msgctxt "6427817A"
+msgid "GCA_ACT_CALL_LIKENO_1_AB"
+msgstr "GCA_ACT_CALL_LIKENO_1_AB"
+
+msgctxt "64DB82D6"
+msgid "100"
+msgstr "100"
+
+msgctxt "65FDA9E8"
+msgid ""
+"~z~Alex Chilton stood up by a European nobody? My friends will not believe "
+"it."
+msgstr "~z~Alex Chilton被一个欧洲小喽啰给鸽了？我那些朋友肯定不信。"
+
+msgctxt "678B9324"
+msgid "100"
+msgstr "100"
+
+msgctxt "67DFF6CF"
+msgid "~z~This is a fucking joke. You never want to go out with me."
+msgstr "~z~这他妈就是开玩笑。你根本就不想和我出去玩。"
+
+msgctxt "6847539C"
+msgid "100"
+msgstr "100"
+
+msgctxt "68FD98AD"
+msgid "100100"
+msgstr "100100"
+
+msgctxt "6D0EEDB0"
+msgid "GCA_ACT_PAL_CALL_ACCEPTED"
+msgstr "GCA_ACT_PAL_CALL_ACCEPTED"
+
+msgctxt "6DC80029"
+msgid "~z~Thanks Alex, that's kind of you."
+msgstr "~z~谢了，Alex，你对我真是太好了。"
+
+msgctxt "70CB1DB4"
+msgid "~z~Be warned Niko, I look like a mess."
+msgstr "~z~先说好，Niko，我看起来一团糟。"
+
+msgctxt "722EC7D7"
+msgid "010"
+msgstr "010"
+
+msgctxt "734C1F2E"
+msgid "~z~Alex, I'm sorry about this but I can't take you out anymore."
+msgstr "~z~Alex，很对不起，但我不能带你出去了。"
+
+msgctxt "74AE8DFA"
+msgid ""
+"~z~Hey Niko, I was just thinking I like guys I date to look good in case the "
+"paps snap us together or something."
+msgstr "~z~喂，Niko，其实我比较希望我的约会对象能好看点，这样被狗仔队拍到也不会太尴尬。"
+
+msgctxt "77D3BFCB"
+msgid "100"
+msgstr "100"
+
+msgctxt "78450623"
+msgid "GCA_ACT_GETCALL_HOSP_REJ_LOLIKE"
+msgstr "GCA_ACT_GETCALL_HOSP_REJ_LOLIKE"
+
+msgctxt "794AE71B"
+msgid "~z~Hi Alex. It's Niko."
+msgstr "~z~嗨，Alex。我是Niko。"
+
+msgctxt "7D8633A2"
+msgid "~z~Sorry, Alex but I have to cancel our date."
+msgstr "~z~抱歉，Alex，但我们的约会不得不取消了。"
+
+msgctxt "7FFD1DE4"
+msgid ""
+"~z~I am a beautiful flower and I need to be treated with care. And if you do "
+"that, I might date you again."
+msgstr "~z~我是一枝美丽的鲜花，需要得到精心照顾。能够做到的话，也许还有约会的机会。"
+
+msgctxt "80128E37"
+msgid ""
+"~z~Sorry, Niko. But my friends just saw us out again and they might actually "
+"think we were serious. Leave it a bit."
+msgstr "~z~抱歉，Niko。但我的朋友刚看见我俩一起出去过，她们可能以为我俩真的在交往了。过几天再说吧。"
+
+msgctxt "8289DABB"
+msgid "~z~Okay, pick me up in the next hour and you can take me out."
+msgstr "~z~好的，一小时内来接我，带我出去玩。"
+
+msgctxt "8363D185"
+msgid "~z~Hey Alex, I want to go buy some clothes. Will you get me a discount?"
+msgstr "~z~喂，Alex，我想去买点衣服。你能给我点优惠吗？"
+
+msgctxt "83C683C4"
+msgid ""
+"~z~Alex. You probably got more important things to worry about like boots or "
+"something, but we're over."
+msgstr "~z~Alex。你要烦恼的东西可能很多，比如靴子之类的，但我们之间结束了。"
+
+msgctxt "844CBCE9"
+msgid ""
+"~z~Yeah, well actually there's a cute orderly that I'd like to fuck. I'll do "
+"that and then get a lift home. Bye."
+msgstr "~z~好，刚好有个医院勤杂工跟我对上眼了。我会跟他来一炮然后乘他的车回去的。再见。"
+
+msgctxt "84B99AC7"
+msgid "010"
+msgstr "010"
+
+msgctxt "874394B0"
+msgid "GCA_ACT_PAL_CALL_LOLIKE"
+msgstr "GCA_ACT_PAL_CALL_LOLIKE"
+
+msgctxt "87F4920C"
+msgid "010"
+msgstr "010"
+
+msgctxt "88BF1EEB"
+msgid "GCA_ACT_PAL_GETCALL_HOSP_NO"
+msgstr "GCA_ACT_PAL_GETCALL_HOSP_NO"
+
+msgctxt "88E20647"
+msgid "100"
+msgstr "100"
+
+msgctxt "89FD0300"
+msgid ""
+"~z~Well this really is a surprise. Guys don't normally wait this long to "
+"call me back."
+msgstr "~z~太令我惊讶了。一般人不会过这么久才打电话找我。"
+
+msgctxt "8C0EAC4A"
+msgid "GCA_ACT_GETCALL_HOSP_REJ_MEDLIKE"
+msgstr "GCA_ACT_GETCALL_HOSP_REJ_MEDLIKE"
+
+msgctxt "8C119F88"
+msgid "GCA_ACT_PAL_CALL_MEDLIKE"
+msgstr "GCA_ACT_PAL_CALL_MEDLIKE"
+
+msgctxt "8D50F0CD"
+msgid "010"
+msgstr "010"
+
+msgctxt "8D98B91B"
+msgid ""
+"~z~If you think you can just treat me like some slutty European whore then "
+"you are sadly mistaken."
+msgstr "~z~如果你以为你可以把我当成那些淫荡的欧洲妓女对待，那你就想错了。"
+
+msgctxt "8EC0B686"
+msgid "~z~Alright then, I'll call another time."
+msgstr "~z~那好吧，有时间我再打给你。"
+
+msgctxt "8EC42B9A"
+msgid ""
+"~z~Niko, I cannot get tied down right now. We should leave a bit of a gap "
+"between each date."
+msgstr "~z~Niko，我现在不能被你束缚住。我们应该在两次约会间多留一些时间。"
+
+msgctxt "8F7159E4"
+msgid "010"
+msgstr "010"
+
+msgctxt "90E45218"
+msgid "~z~Wait there, Alex."
+msgstr "~z~等着我，Alex。"
+
+msgctxt "920B3F50"
+msgid "010"
+msgstr "010"
+
+msgctxt "94A89F49"
+msgid "100"
+msgstr "100"
+
+msgctxt "95BE189B"
+msgid ""
+"~z~Niko, they're letting me out of the clinic and Daddy's driver is busy. "
+"Would you pick me up?"
+msgstr "~z~Niko，他们放我出院了，但我老爸的司机很忙。你能来接我吗？"
+
+msgctxt "98162913"
+msgid ""
+"~z~Sure, Niko. I tell the stores you're a friend of mine and you'll get a "
+"price reduction for the rest of the day."
+msgstr "~z~当然了，Niko。我跟店里的人打声招呼，你今天就能拿到优惠价了。"
+
+msgctxt "989B9B57"
+msgid "~z~Jesus. What sort of guy am I dating? Goodbye."
+msgstr "~z~天啊，我约的这是个什么人啊？再见。"
+
+msgctxt "994035CD"
+msgid "010"
+msgstr "010"
+
+msgctxt "9B744613"
+msgid "GCA_ACT_GETCALL_SPEC_AA"
+msgstr "GCA_ACT_GETCALL_SPEC_AA"
+
+msgctxt "9BD2FAAA"
+msgid ""
+"~z~Niko, I am not someone you want to fuck things up with. You will regret "
+"losing me for the rest of your life."
+msgstr "~z~Niko，我不是你可以随便糊弄的人。失去我你可是要后悔终身的。"
+
+msgctxt "9C1EDF48"
+msgid "~z~My therapist was right. He was totally right about you."
+msgstr "~z~我的心理医生是对的，原来他对你的看法完全正确。"
+
+msgctxt "9C659F27"
+msgid "~z~Do you want to take me out?"
+msgstr "~z~你想带我出去转转吗？"
+
+msgctxt "9C7B4708"
+msgid ""
+"~z~I'm scared that if we see each other this much someone's going to get "
+"hurt. In a while, maybe."
+msgstr "~z~我担心咱俩见面这么频繁，会有人受伤的。还是过段时间吧。"
+
+msgctxt "9D2E1003"
+msgid "~z~Okay Niko, we can go on a date. Come pick me up in the next hour."
+msgstr "~z~好的，Niko，我们去约会吧。一小时内来接我。"
+
+msgctxt "9E3DE643"
+msgid "GCA_ACT_CALL_SLEEP_REPLY"
+msgstr "GCA_ACT_CALL_SLEEP_REPLY"
+
+msgctxt "9ECC009C"
+msgid ""
+"~z~Girls like me do not get treated like this by guys like you. Deal with "
+"yourself, Niko."
+msgstr "~z~我这样的女孩不该被你这种人这般对待。你好好考虑下，Niko。"
+
+msgctxt "A0178AEC"
+msgid ""
+"~z~It's Niko. You think you could arrange some money off for me at a shop?"
+msgstr "~z~我是Niko。你能帮我在店里安排一些优惠吗？"
+
+msgctxt "A4026C9D"
+msgid ""
+"~z~If you ever want a discount from a clothes shop in Liberty City, call me "
+"and I'll arrange it."
+msgstr "~z~如果你想在自由城的服装店拿到内部价，打电话找我我来安排。"
+
+msgctxt "A54DE144"
+msgid "GCA_ACT_CALL_DATE_NO_RECENT"
+msgstr "GCA_ACT_CALL_DATE_NO_RECENT"
+
+msgctxt "A6563325"
+msgid "GCA_ACT_CALL_DATE_YES"
+msgstr "GCA_ACT_CALL_DATE_YES"
+
+msgctxt "A6E846B7"
+msgid ""
+"~z~Okay. I'll make some calls. I can get you a fifty percent off at the "
+"major outlets in Liberty City for the rest of the day."
+msgstr "~z~好的，我去安排一下。今天一天你都可以在自由城的大商场拿到五折优惠。"
+
+msgctxt "A7B37FB6"
+msgid "~z~See you soon, Alex."
+msgstr "~z~一会儿见，Alex。"
+
+msgctxt "A82788E5"
+msgid "~z~So you're still on the scene, are you?"
+msgstr "~z~你现在还活着，对吗？"
+
+msgctxt "A929E065"
+msgid ""
+"~z~Niko. I don't want this to get too serious. Maybe we shouldn't see each "
+"other this often. Maybe in a while."
+msgstr "~z~Niko，我不想让咱俩走得太近。我们还是不要这么频繁地见面了。改天再说吧。"
+
+msgctxt "A95674C9"
+msgid "GCA_ACT_GETCALL_DATE"
+msgstr "GCA_ACT_GETCALL_DATE"
+
+msgctxt "AA6E7BE7"
+msgid ""
+"~z~Shit, I would have been better off putting my energy into a block of wood "
+"than you."
+msgstr "~z~妈的，我把心思花在木头上都比花在你身上强。"
+
+msgctxt "AA9A495A"
+msgid "GCA_ACT_PAL_CALL_HOSP_CANCEL"
+msgstr "GCA_ACT_PAL_CALL_HOSP_CANCEL"
+
+msgctxt "AA9D3184"
+msgid ""
+"~z~Sorry, Alex, but I kind of have a lot on my plate. But maybe another time."
+msgstr "~z~抱歉，Alex，但我现在有点忙。改天再见吧。"
+
+msgctxt "AD68B0AF"
+msgid "100"
+msgstr "100"
+
+msgctxt "ADA4130B"
+msgid "100"
+msgstr "100"
+
+msgctxt "AE2273AF"
+msgid "100"
+msgstr "100"
+
+msgctxt "AE8A68E8"
+msgid "GCA_ACT_GETCALL_HOSP_ASK"
+msgstr "GCA_ACT_GETCALL_HOSP_ASK"
+
+msgctxt "AF8DA21F"
+msgid ""
+"~z~A relationship is not a one way street, Niko. If you don't start going in "
+"both directions you might lose me."
+msgstr "~z~谈恋爱不是走独木桥，Niko。没有你来我往的话可是会失去我的。"
+
+msgctxt "AFA3B4EE"
+msgid "~z~I'll go on a date with you, Niko. Pick me up in the next hour."
+msgstr "~z~我愿意和你约会，Niko。一小时内来接我吧。"
+
+msgctxt "AFFEDC34"
+msgid ""
+"~z~Good news, Alex. You don't have to worry about slumming it no more. We're "
+"done."
+msgstr "~z~好消息，Alex。你不用担心跟着我会受苦了，咱俩到头了。"
+
+msgctxt "B2C28AB4"
+msgid "100"
+msgstr "100"
+
+msgctxt "B34362AE"
+msgid ""
+"~z~I can't just go helping anybody out. I'd lose my reputation. Why don't "
+"you hang out with me more and then maybe we'll talk?"
+msgstr "~z~我不能就这么天天帮你，面子会挂不住的。你多陪我出去的话说不定还有得聊。"
+
+msgctxt "B41B5CBB"
+msgid "~z~Hello Alex."
+msgstr "~z~你好，Alex。"
+
+msgctxt "B45190D9"
+msgid "GCA_ACT_GETCALL_REJECT"
+msgstr "GCA_ACT_GETCALL_REJECT"
+
+msgctxt "B4A0E228"
+msgid ""
+"~z~I'll sort it, Niko. There'll be a discount for the rest of the day. "
+"Promise to buy nice clothes though."
+msgstr "~z~包在我身上，Niko。你今天全天都有五折优惠。一定要买件好衣服啊。"
+
+msgctxt "B74D935B"
+msgid "GCA_ACT_PAL_GETCALL_DATE_NO"
+msgstr "GCA_ACT_PAL_GETCALL_DATE_NO"
+
+msgctxt "B9D085B5"
+msgid "GCA_ACT_PAL_CALL_HILIKE"
+msgstr "GCA_ACT_PAL_CALL_HILIKE"
+
+msgctxt "BA7DB118"
+msgid "~z~I wouldn't ask you to do this if it wasn't absolutely necessary."
+msgstr "~z~要不是情况紧急，我也不会来麻烦你。"
+
+msgctxt "BB1608A0"
+msgid ""
+"~z~Sorry Alex but something's come up. I can't get you from the hospital."
+msgstr "~z~抱歉，Alex，但我突然有急事，不能来医院接你了。"
+
+msgctxt "BF790424"
+msgid ""
+"~z~I'll give you another chance, Niko. But this better be the best date of "
+"my life though. Come collect me in an hour."
+msgstr "~z~我再给你一次机会，Niko。但这最好是我这辈子最棒的约会。一小时内来接我吧。"
+
+msgctxt "C1AD9AD1"
+msgid "~z~My therapist was right. He was totally right about you."
+msgstr "~z~我的心理医生是对的，原来他对你的看法完全正确。"
+
+msgctxt "C1C18AD3"
+msgid "~z~Alex here, Niko."
+msgstr "~z~我是Alex，Niko。"
+
+msgctxt "C23D9F62"
+msgid "100"
+msgstr "100"
+
+msgctxt "C2BB46E8"
+msgid "~z~Fine, Niko. I'll call a cab."
+msgstr "~z~好吧，Niko。我自己打的。"
+
+msgctxt "C2F8730F"
+msgid ""
+"~z~Niko, time to earn some brownie points. Would you pick me up from the "
+"hospital?"
+msgstr "~z~Niko，是时候挣点印象分了。你愿意来医院接我吗？"
+
+msgctxt "C463CBCB"
+msgid ""
+"~z~A woman has needs, Niko. If you aren't prepared to meet those needs then "
+"she might look elsewhere."
+msgstr "~z~女人也是有需求的，Niko。如果你不准备满足这些需求，她可能会去找其他人。"
+
+msgctxt "CA609872"
+msgid "~z~I'd like to see you."
+msgstr "~z~我很想见到你。"
+
+msgctxt "CE9452E2"
+msgid "GCA_ACT_CALL_LIKENO_1_AA"
+msgstr "GCA_ACT_CALL_LIKENO_1_AA"
+
+msgctxt "CF46AF54"
+msgid "~z~That's fine, Niko. I'll just meet up with the girls."
+msgstr "~z~那好吧，Niko。我和姐妹们出去玩好了。"
+
+msgctxt "CFFAE167"
+msgid "~z~Well I'll get someone else to do it, goodbye."
+msgstr "~z~那我就找其他人来接我了，再见。"
+
+msgctxt "D0299601"
+msgid "GCA_ACT_GETCALL_GREET"
+msgstr "GCA_ACT_GETCALL_GREET"
+
+msgctxt "D0872790"
+msgid "100"
+msgstr "100"
+
+msgctxt "D1C66E49"
+msgid "~z~I'd like to buy some stuff. Can you arrange a discount for me?"
+msgstr "~z~我想去买点东西。你能安排我一些折扣吗？"
+
+msgctxt "D2D739E6"
+msgid "GCA_ACT_GETCALL_ACCEPT"
+msgstr "GCA_ACT_GETCALL_ACCEPT"
+
+msgctxt "D3F33F5C"
+msgid "~z~From now on I am only dating Americans."
+msgstr "~z~从现在起我只约美国人了。"
+
+msgctxt "D3F77D95"
+msgid "~z~Sure, I'll let you take me out. Come pick me up in the next hour."
+msgstr "~z~好啊，你带我出去玩吧。一小时内过来接我。"
+
+msgctxt "D47E15D7"
+msgid "100"
+msgstr "100"
+
+msgctxt "D4891EF7"
+msgid "~z~Sorry Alex. I got more important things to be doing."
+msgstr "~z~抱歉，Alex。我有更重要的事要忙。"
+
+msgctxt "D490CA25"
+msgid "~z~Alright, Niko. Treat me like this then."
+msgstr "~z~好吧，Niko。你就这样对我吧。"
+
+msgctxt "D592992D"
+msgid "~z~Okay, I'll come and pick you up in the next hour."
+msgstr "~z~好的, 我在一小时内来接你。"
+
+msgctxt "D6929384"
+msgid "~z~I feel like you should take me out on a date."
+msgstr "~z~我觉得你应该带我出去约个会。"
+
+msgctxt "D6FDF56B"
+msgid "GCA_ACT_GETCALL_REJECT_IRATE"
+msgstr "GCA_ACT_GETCALL_REJECT_IRATE"
+
+msgctxt "D793077A"
+msgid "GCA_ACT_CALL_REQ_SPEC_NO"
+msgstr "GCA_ACT_CALL_REQ_SPEC_NO"
+
+msgctxt "D8A934AC"
+msgid "010"
+msgstr "010"
+
+msgctxt "D991C77A"
+msgid "GCA_CBRKUP"
+msgstr "GCA_CBRKUP"
+
+msgctxt "D9FF8837"
+msgid ""
+"~z~There's mysterious and then there's a little too fucking mysterious Mr. "
+"European."
+msgstr "~z~在神秘的一天遇上了更神秘的欧洲猛男。"
+
+msgctxt "DC640228"
+msgid ""
+"~z~Niko, I am an intellectual, beautiful, and interesting woman. I do not "
+"need to see a man who treats me like you do."
+msgstr "~z~Niko，我是一个聪明美丽又有趣的女人。没必要和一个像你这样对我的男人见面。"
+
+msgctxt "DCCEAE29"
+msgid "~z~Hey Alex."
+msgstr "~z~嘿，Alex。"
+
+msgctxt "DD8D4BE1"
+msgid "~z~Okay, Niko. I've got a blog to write anyway."
+msgstr "~z~行吧，Niko，正好我还有篇博客要写。"
+
+msgctxt "DE2E6CAB"
+msgid "~z~I'll come collect you then."
+msgstr "~z~那我马上来接你。"
+
+msgctxt "DE545B4D"
+msgid "100"
+msgstr "100"
+
+msgctxt "E02A7C0A"
+msgid "GCA_ACT_PAL_CALL_DATE_CANCEL"
+msgstr "GCA_ACT_PAL_CALL_DATE_CANCEL"
+
+msgctxt "E0A41FB6"
+msgid "010"
+msgstr "010"
+
+msgctxt "E17ABF1C"
+msgid ""
+"~z~Sorry, Niko. No can do now. Maybe if you paid me more attention I'd be "
+"able to help you out."
+msgstr "~z~抱歉，Niko。现在不行。如果你给我更多的关注，我可能会帮你。"
+
+msgctxt "E20D331F"
+msgid ""
+"~z~The mystery man returns. I did not think I'd be hearing from you again."
+msgstr "~z~神秘人终于回归了。我都没想到自己还会接到你的电话。"
+
+msgctxt "E454B6B1"
+msgid "~z~Sure, I can be at your place in the next hour."
+msgstr "~z~好的，我一小时内就到你家。"
+
+msgctxt "E60B63AF"
+msgid "100"
+msgstr "100"
+
+msgctxt "E62FE149"
+msgid "GCA_ACT_PAL_CALL_SLEEPING"
+msgstr "GCA_ACT_PAL_CALL_SLEEPING"
+
+msgctxt "E6C94377"
+msgid ""
+"~z~Alex, you're a socialite. Surely you know someone else who'll come pick "
+"you up."
+msgstr "~z~Alex，你可是个社交名媛。总有其他认识的人能来接你吧。"
+
+msgctxt "E6CD500B"
+msgid "GCA_ACT_PAL_CALL_GREET"
+msgstr "GCA_ACT_PAL_CALL_GREET"
+
+msgctxt "E6D26EA8"
+msgid "~z~I'm not used to taking rejection, Niko. Goodbye."
+msgstr "~z~我不习惯被人拒绝，Niko。再见。"
+
+msgctxt "E6E1DE0B"
+msgid "100"
+msgstr "100"
+
+msgctxt "E6EE518D"
+msgid "~z~You want to go on a date?"
+msgstr "~z~你想来场约会吗？"
+
+msgctxt "EA0450D4"
+msgid "010"
+msgstr "010"
+
+msgctxt "EBC9462C"
+msgid "100"
+msgstr "100"
+
+msgctxt "EC3D08BC"
+msgid "~z~Sure, wait for me."
+msgstr "~z~好的，等着我。"
+
+msgctxt "EF967B70"
+msgid "GCA_ACT_PAL_GETCALL_DATE_YES"
+msgstr "GCA_ACT_PAL_GETCALL_DATE_YES"
+
+msgctxt "F1220997"
+msgid "GCA_ACT_PAL_GETCALL_HOSP_YES"
+msgstr "GCA_ACT_PAL_GETCALL_HOSP_YES"
+
+msgctxt "F3B71475"
+msgid "100"
+msgstr "100"
+
+msgctxt "F52F8E8B"
+msgid "GCA_ACT_PAL_CALL_REQ_SPEC"
+msgstr "GCA_ACT_PAL_CALL_REQ_SPEC"
+
+msgctxt "F577A8C7"
+msgid "GCA_ACT_GETCALL_HOSP_ACCEPT"
+msgstr "GCA_ACT_GETCALL_HOSP_ACCEPT"
+
+msgctxt "F924D21B"
+msgid "GCA_ACT_GETCALL_SPEC_AB"
+msgstr "GCA_ACT_GETCALL_SPEC_AB"
+
+msgctxt "FA90A112"
+msgid "GCA_ACT_CALL_HOSP_CANCEL_HILIKE"
+msgstr "GCA_ACT_CALL_HOSP_CANCEL_HILIKE"
+
+msgctxt "FC00950F"
+msgid "100"
+msgstr "100"
+
+msgctxt "FD1B7DE7"
+msgid "~z~It'd be good to do something with you."
+msgstr "~z~我想带你出去约会。"

@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RAY2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "10A2EC26"
+msgid "~s~Wait here until the pickup is completed."
+msgstr "~s~在这里等到收集完成。"
+
+msgctxt "2FA77AFD"
+msgid "~r~You have abandoned the truck."
+msgstr "~r~你抛弃了卡车。"
+
+msgctxt "3ADE993B"
+msgid "~r~You attacked Ray's boys."
+msgstr "~r~你攻击了Ray的手下。"
+
+msgctxt "3AEA8813"
+msgid "~s~Go and pick up the ~b~Trashmaster."
+msgstr "~s~去开~b~垃圾车。"
+
+msgctxt "3F4F02EE"
+msgid ""
+"~s~Press ~INPUT_PHONE_ACCEPT~ to operate the trash compactor. You must put "
+"your phone away first."
+msgstr "~s~按~INPUT_PHONE_ACCEPT~操作垃圾压缩机。你必须先把手机收好。"
+
+msgctxt "5C493C78"
+msgid "~s~Press ~PAD_X~ to operate the trash compactor."
+msgstr "~s~按~PAD_X~操作垃圾压缩机。"
+
+msgctxt "6108E58F"
+msgid "~r~Johnny is dead."
+msgstr "~r~Johnny死了。"
+
+msgctxt "6196556A"
+msgid "~s~Drive to the ~y~second diamond pickup."
+msgstr "~s~开到~y~第二个钻石回收点。"
+
+msgctxt "6DA46D86"
+msgid "~s~Drive to the ~y~first diamond pickup."
+msgstr "~s~开到~y~第一个钻石回收点。"
+
+msgctxt "7C301BD9"
+msgid "~r~Tuna is dead."
+msgstr "~r~Tuna死了。"
+
+msgctxt "80D913D7"
+msgid "~s~Wait here while Tuna and Johnny make the pickup."
+msgstr "~s~在这等到Tuna和Johnny收好垃圾。"
+
+msgctxt "841C1B3D"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通缉度。"
+
+msgctxt "84881B4D"
+msgid "~s~Go to the ~y~drop-off~s~ in Fishmarket South."
+msgstr "~s~前往Fishmarket South的~y~倾倒点。"
+
+msgctxt "8E0A2E39"
+msgid "~r~Luca is dead."
+msgstr "~r~Luca死了。"
+
+msgctxt "90DF34C3"
+msgid "~b~Johnny~s~ fell off. Go and pick him up."
+msgstr "~b~Johnny~s~摔下去了。去把他接上。"
+
+msgctxt "924936CF"
+msgid "~s~Get back in the ~b~truck."
+msgstr "~s~回到~b~垃圾车~s~上。"
+
+msgctxt "92B1998F"
+msgid "~s~Get in the ~b~truck."
+msgstr "~s~进入~b~垃圾车。"
+
+msgctxt "A30C592D"
+msgid "~s~Stop the truck near the trash bags."
+msgstr "~s~把垃圾车停在垃圾袋旁。"
+
+msgctxt "B0E974E7"
+msgid "~s~Press ~INPUT_PHONE_ACCEPT~ to operate the trash compactor."
+msgstr "~s~按~INPUT_PHONE_ACCEPT~操作垃圾压缩机。"
+
+msgctxt "B17FF524"
+msgid "~s~Go back and pick up ~b~Tuna~s~ and ~b~Johnny."
+msgstr "~s~回去接~b~Tuna~s~和~b~Johnny。"
+
+msgctxt "B6D5FFE8"
+msgid "~r~The truck has been destroyed."
+msgstr "~r~垃圾车被毁了。"
+
+msgctxt "D64A3FAC"
+msgid "~s~Open the back of the Trashmaster."
+msgstr "~s~打开垃圾车的后盖。"
+
+msgctxt "D96D9DE6"
+msgid ""
+"~s~Press ~PAD_X~ to operate the trash compactor. You must put your phone "
+"away first."
+msgstr "~s~按~PAD_X~操作垃圾压缩机。你必须先把手机收好。"
+
+msgctxt "DC11CB3B"
+msgid "~b~Tuna~s~ and ~b~Johnny~s~ fell off. Go and pick them up."
+msgstr "~b~Tuna~s~和~b~Johnny~s~摔下去了。去把他们接上。"
+
+msgctxt "E237CAE1"
+msgid "~s~Go back and pick up ~b~Tuna."
+msgstr "~s~回去接~b~Tuna。"
+
+msgctxt "E9EC66F0"
+msgid "~b~Tuna~s~ fell off. Go and pick him up."
+msgstr "~b~Tuna~s~摔下去了。去把他接上。"
+
+msgctxt "F4A86FC2"
+msgid "~s~Go back and pick up ~b~Johnny."
+msgstr "~s~回去接~b~Johnny。"

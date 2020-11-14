@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WI_SRA2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "4DCC206"
+msgid "~r~The assistant has been spooked."
+msgstr "~r~店员受到了惊吓。"
+
+msgctxt "1A7A0BF0"
+msgid "~r~Sara is dead."
+msgstr "~r~Sara死了。"
+
+msgctxt "3156C715"
+msgid "Go back to the ~b~assistant."
+msgstr "回去找~b~店员。~s~"
+
+msgctxt "3F986398"
+msgid "~r~You didn't get the box for Sara."
+msgstr "~r~你没有为Sara取得盒子。"
+
+msgctxt "6548A18C"
+msgid "Pick up the ~g~box."
+msgstr "捡起~g~盒子。"
+
+msgctxt "6BA74155"
+msgid "~r~There's blood all over the clothes. They're ruined."
+msgstr "~r~衣服毁了。上面全是血。"
+
+msgctxt "88AE6857"
+msgid "Collect the box from the shop ~b~assistant."
+msgstr "从~b~店员~s~那儿取得盒子。"
+
+msgctxt "C71DE541"
+msgid "Take the box back to ~y~Pier 45."
+msgstr "带着盒子回~y~45号码头。"
+
+msgctxt "E4018038"
+msgid "You don't have enough cash."
+msgstr "你没有足够的钱。"
+
+msgctxt "F64024B5"
+msgid "~s~Press ~INPUT_PICKUP~ to buy the item."
+msgstr "~s~按下~INPUT_PICKUP~购买物品。"

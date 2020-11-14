@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FIN2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "3350416"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通缉度。"
+
+msgctxt "4994340"
+msgid "~r~You abandoned the boat."
+msgstr "~r~你抛弃了船。"
+
+msgctxt "8635696"
+msgid "~s~Get on the ~b~bike."
+msgstr "~s~骑上~b~摩托。"
+
+msgctxt "DFDCC56"
+msgid "~s~Repeatedly tap ~INPUT_JUMP~ to climb into the chopper."
+msgstr "~s~连按~INPUT_JUMP~爬上直升机。"
+
+msgctxt "13D26C7C"
+msgid "~s~Jacob is waiting for you in a ~b~car~s~ in Alderney."
+msgstr "~s~Jacob在Alderney的一辆~b~车~s~上等你。"
+
+msgctxt "161CF209"
+msgid "~s~Follow Pegorino's ~r~goons~s~ they'll lead you to Pegorino."
+msgstr "~s~尾随Pegorino的~r~手下~s~找到Pegorino。"
+
+msgctxt "20263B62"
+msgid "~r~Little Jacob was abandoned."
+msgstr "~r~Little Jacob被抛弃了。"
+
+msgctxt "270AC9F8"
+msgid "~s~Get back in the ~b~helicopter."
+msgstr "~s~回到~b~直升机~s~上。"
+
+msgctxt "2A738EF4"
+msgid "~r~You destroyed the bike."
+msgstr "~r~你毁掉了摩托。"
+
+msgctxt "2BEB6625"
+msgid "~r~You killed Pegorino's men."
+msgstr "~r~你杀掉了Pegorino的手下。"
+
+msgctxt "2F30DA48"
+msgid "~s~Get back in the ~b~car."
+msgstr "~s~回到~b~车~s~上。"
+
+msgctxt "38C16D65"
+msgid "~s~Chase ~r~Pegorino's goons."
+msgstr "~s~跟随~r~Pegorino的手下。"
+
+msgctxt "4037B557"
+msgid "~s~Chase ~r~Pegorino. ~s~Stick to the coastline, do not lose him."
+msgstr "~s~追击~r~Pegorino。~s~沿海岸线骑行，别跟丢了。"
+
+msgctxt "45681912"
+msgid "~r~Roman is dead."
+msgstr "~r~Roman死了。"
+
+msgctxt "4D9460F7"
+msgid "~s~Accelerate off the ~y~jetty~s~ to jump."
+msgstr "~s~加速冲上~y~栈桥~s~起跳。"
+
+msgctxt "4DDE55C9"
+msgid "~r~The helicopter was destroyed."
+msgstr "~r~直升机被毁了。"
+
+msgctxt "5807BE81"
+msgid "~r~You can't chase Pegorino's men if they don't have a vehicle."
+msgstr "~r~没有载具你追不上Pegorino 的人。"
+
+msgctxt "5DB2F572"
+msgid "~r~You abandoned the bike."
+msgstr "~r~你抛弃了摩托。"
+
+msgctxt "6249D305"
+msgid "~r~The car was destroyed."
+msgstr "~r~车被毁了。"
+
+msgctxt "720DA9DD"
+msgid "~s~Roman and Jacob are waiting for you in a ~b~car~s~ in Alderney."
+msgstr "~s~Roman和Jacob在Alderney的一辆~b~车~s~上等你。"
+
+msgctxt "74A477BA"
+msgid "~r~Dimitri got away."
+msgstr "~r~Dimitri跑了。"
+
+msgctxt "7DCCE76F"
+msgid "~s~Get underneath Little Jacob's ~b~chopper."
+msgstr "~s~开到Little Jacob的~b~直升机~s~下方。"
+
+msgctxt "7EB58BAC"
+msgid "~r~Pegorino got away."
+msgstr "~r~Pegorino跑了。"
+
+msgctxt "7FD0949E"
+msgid "~s~Repeatedly tap ~PAD_A~ to climb into the chopper."
+msgstr "~s~连按~PAD_A~爬上直升机。"
+
+msgctxt "90C72FCF"
+msgid "~r~Little Jacob and Roman were abandoned."
+msgstr "~r~Little Jacob和Roman被抛弃了。"
+
+msgctxt "9160D377"
+msgid "Press ~INPUT_VEH_ATTACK2~ to fire the helicopter miniguns."
+msgstr "按~INPUT_VEH_ATTACK2~用机载机枪射击。"
+
+msgctxt "957E3BCD"
+msgid "~s~Get in the ~b~boat."
+msgstr "~s~上~b~船。"
+
+msgctxt "95DF35C3"
+msgid "~r~Dimitri~s~ is inside the old casino. Find him."
+msgstr "~r~Dimitri~s~在旧赌场中。找到他。"
+
+msgctxt "9A1D427B"
+msgid "~r~Pegorino's goons got away."
+msgstr "~r~Pegorino的手下跑了。"
+
+msgctxt "A7E08803"
+msgid "~s~Get low and stay close to ~r~Dimitri."
+msgstr "~s~降低高度，跟紧~r~Dimitri。"
+
+msgctxt "BAA0BB02"
+msgid "~s~Chase ~r~Pegorino."
+msgstr "~s~追击~r~Pegorino。"
+
+msgctxt "C573992B"
+msgid "~r~Little Jacob is dead."
+msgstr "~r~Little Jacob死了。"
+
+msgctxt "DD4FF2E1"
+msgid "~s~Get low and stay close to ~r~Pegorino."
+msgstr "~s~降低高度，跟紧~r~Pegorino。"
+
+msgctxt "E160E648"
+msgid "~r~Pegorino's goon got away."
+msgstr "~r~Pegorino的手下跑了。"
+
+msgctxt "E3EF8DAF"
+msgid "~r~Pegorino~s~ is inside the old casino. Find him."
+msgstr "~r~Pegorino~s~在旧赌场中。找到他。"
+
+msgctxt "F15A1CC2"
+msgid "~r~The boat was destroyed."
+msgstr "~r~船被毁了。"
+
+msgctxt "F55D2191"
+msgid "~s~Chase ~r~Dimitri"
+msgstr "~s~追击~r~Dimitri。"
+
+msgctxt "FF27B85D"
+msgid "~r~You abandoned the helicopter."
+msgstr "~r~你抛弃了直升机。"

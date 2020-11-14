@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JIMMY3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "8475721"
+msgid "~r~The cops are onto you. Your chance is gone."
+msgstr "~r~警察发现你了，你没机会了。"
+
+msgctxt "939D8F6"
+msgid "~s~Silence ~r~Anthony,~s~ he's in the ER."
+msgstr "~s~让~r~Anthony~s~永远闭嘴，他在急诊部(ER)。"
+
+msgctxt "1064E74C"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通缉度。"
+
+msgctxt "576C755A"
+msgid "~s~Go to the ~y~hospital."
+msgstr "~s~前往~y~医院。"
+
+msgctxt "5ED35FF4"
+msgid ""
+"Do not enter the building with a weapon drawn, there may be cops inside."
+msgstr "不要持械进入医院，医院里可能有警察。"
+
+msgctxt "6C243296"
+msgid "Press ~a~ to change into doctor's scrubs."
+msgstr "按~a~换上医生工作服。"
+
+msgctxt "8802C5D9"
+msgid "Press ~a~ to speak to the nurse."
+msgstr "按~a~与护士交谈。"
+
+msgctxt "9EAD83DF"
+msgid "~s~Move quickly, the cops are onto you."
+msgstr "~s~快点行动，警察注意到你了。"
+
+msgctxt "B3E1AE47"
+msgid "~s~Staff have alerted the cops."
+msgstr "~s~医院职工通报警方了。"
+
+msgctxt "B4C42550"
+msgid "Press ~a~ to unplug the life support machine."
+msgstr "按~a~切断维生装置的电源。"
+
+msgctxt "C21E4AC0"
+msgid "~s~Get out quickly and discreetly."
+msgstr "~s~迅速谨慎地离开医院。"
+
+msgctxt "FAF73C71"
+msgid "~s~Go ~y~outside."
+msgstr "~s~去~y~外面。"

@@ -1,0 +1,534 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FCR22AU\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "2D28D57"
+msgid ""
+"~z~Cousin, you will be shooting pool alone today. Do not place bets, okay?"
+msgstr "~z~堂兄，今天你只能自己打台球了。不要赌钱，好吧？"
+
+msgctxt "F06BF64"
+msgid "FCR2_ACT_GETCALL_SPEC"
+msgstr "FCR2_ACT_GETCALL_SPEC"
+
+msgctxt "101A78B5"
+msgid "~z~Roman, is your cousin. Any chance of getting a cab?"
+msgstr "~z~Roman，是你堂弟。能不能派辆车过来？"
+
+msgctxt "11BBF882"
+msgid "FCR2_ACT_PRO_CALL_HILIKE"
+msgstr "FCR2_ACT_PRO_CALL_HILIKE"
+
+msgctxt "1418D6D7"
+msgid "~z~Sure Roman, I'll come and get you in the next hour."
+msgstr "~z~当然，Roman，我一小时内来接你。"
+
+msgctxt "144D08CA"
+msgid "010"
+msgstr "010"
+
+msgctxt "1A40924B"
+msgid "~z~Niko, I am too sick to walk. Please get me a car."
+msgstr "~z~Niko，我现在走不了路。拜托给我弄辆车。"
+
+msgctxt "1C353493"
+msgid "100"
+msgstr "100"
+
+msgctxt "1D212905"
+msgid "~z~Roman, sorry but I cannot bowl with you anymore. Another time."
+msgstr "~z~Roman，很抱歉，但我不能如约来陪你打保龄球了。改天吧。"
+
+msgctxt "1F64624A"
+msgid "~z~Cousin, our drunkenness will have to wait. Something has happened."
+msgstr "~z~堂兄，我们的酒虫该等等了。突然有事。"
+
+msgctxt "225655CD"
+msgid "~z~That is cool, cousin. We do this on another occasion."
+msgstr "~z~没关系，堂弟。我们可以改天再约。"
+
+msgctxt "24BDF046"
+msgid "100"
+msgstr "100"
+
+msgctxt "26E6FA72"
+msgid "FCR2_ACT_PRO_CALL_GAMES_CANCEL"
+msgstr "FCR2_ACT_PRO_CALL_GAMES_CANCEL"
+
+msgctxt "292B3020"
+msgid "~z~Niko, get your invalid cousin a car. He cannot walk in this state."
+msgstr "~z~Niko，给你行动不便的堂兄找辆车。他现在这样没法走路。"
+
+msgctxt "2B6866E8"
+msgid "FCR2_ACT_CALL_REQ_SPEC_YES"
+msgstr "FCR2_ACT_CALL_REQ_SPEC_YES"
+
+msgctxt "2C4292B3"
+msgid "~z~Thanks, Niko. See you then."
+msgstr "~z~谢了，Niko。那就再见了。"
+
+msgctxt "2D3F7AE4"
+msgid "FCR2_ACT_CALL_SPEC_END"
+msgstr "FCR2_ACT_CALL_SPEC_END"
+
+msgctxt "2FD1CE66"
+msgid "~z~I am sorry, cousin, but I must cancel our bowling."
+msgstr "~z~我很抱歉，堂兄，但我们不能去打保龄球了。"
+
+msgctxt "34F0B648"
+msgid "100"
+msgstr "100"
+
+msgctxt "3527F201"
+msgid ""
+"~z~Sorry, Roman. I cannot play pool with you anymore. I have another plan."
+msgstr "~z~抱歉，Roman。我没法来跟你打台球了。我有别的事要做。"
+
+msgctxt "363D9B83"
+msgid "FCR2_ACT_PRO_CALL_REQ_SPEC"
+msgstr "FCR2_ACT_PRO_CALL_REQ_SPEC"
+
+msgctxt "3D7BA182"
+msgid "100"
+msgstr "100"
+
+msgctxt "40E44A37"
+msgid "~z~Alright then, I might get cab or something."
+msgstr "~z~那好吧，我叫辆车算了。"
+
+msgctxt "41C30760"
+msgid ""
+"~z~Sorry cousin, but I don't have no cabs right now. You must call again "
+"later."
+msgstr "~z~抱歉，堂弟，但我现在也没车可派了。你得待会儿再打过来了。"
+
+msgctxt "42241C2A"
+msgid "010"
+msgstr "010"
+
+msgctxt "49262141"
+msgid ""
+"~z~Niko, as you are my cousin I want you to use family business how you "
+"like. Any time you want cab, you call me."
+msgstr "~z~Niko，既然你是我的堂弟，我想让你随意利用我们的家族产业。你什么时候想打车了，就给我打电话。"
+
+msgctxt "49322388"
+msgid "~z~Okay, Niko. We shall rain check this for a different occasion."
+msgstr "~z~好的，Niko。我们就推迟到别的时间吧。"
+
+msgctxt "4BE2033D"
+msgid "~z~Roman, you need to play a single player game. I can not hang out."
+msgstr "~z~Roman，你只能自己去玩了，我陪不了你了。"
+
+msgctxt "51004C43"
+msgid "100"
+msgstr "100"
+
+msgctxt "513C3B12"
+msgid "FCR2_ACT_PRO_CALL_SHOW_CANCEL"
+msgstr "FCR2_ACT_PRO_CALL_SHOW_CANCEL"
+
+msgctxt "5246B795"
+msgid "FCR2_ACT_PRO_CALL_HOSP_CANCEL_B_UA"
+msgstr "FCR2_ACT_PRO_CALL_HOSP_CANCEL_B_UA"
+
+msgctxt "53202A1A"
+msgid ""
+"~z~Niko, I am sorry but nothing is available. You must call back another "
+"time."
+msgstr "~z~Niko，很抱歉，但是现在没车了。你还是过会儿再打过来吧。"
+
+msgctxt "534F228D"
+msgid "FCR2_ACT_PRO_GETCALL_HOSP_NO"
+msgstr "FCR2_ACT_PRO_GETCALL_HOSP_NO"
+
+msgctxt "5471CEBA"
+msgid "100"
+msgstr "100"
+
+msgctxt "557DC1A9"
+msgid "~z~Thank you for picking me up, cousin. Will you take me home?"
+msgstr "~z~感谢你来接我，堂兄。你能送我回家吗？"
+
+msgctxt "5BEAC310"
+msgid "FCR2_ACT_CALL_REQ_SPEC_NO"
+msgstr "FCR2_ACT_CALL_REQ_SPEC_NO"
+
+msgctxt "5D5612AE"
+msgid "010"
+msgstr "010"
+
+msgctxt "5DF47616"
+msgid "~z~You are a life saver, cousin. I'll see you soon."
+msgstr "~z~你真是个救星，堂弟。我们一会儿见。"
+
+msgctxt "632D1973"
+msgid "~z~You need walk no longer. There's a cab coming to you."
+msgstr "~z~你用不着再徒步了，有辆车往你这儿来了。"
+
+msgctxt "642C5A68"
+msgid "~z~You will leave your own cousin to walk home sick. Okay, Niko."
+msgstr "~z~你居然让自己刚出院的堂兄走回家。可以，Niko。"
+
+msgctxt "652712A5"
+msgid "FCR2_ACT_PRO_CALL_STRIP_CANCEL"
+msgstr "FCR2_ACT_PRO_CALL_STRIP_CANCEL"
+
+msgctxt "65F01E3E"
+msgid "FCR2_ACT_GETCALL_HOSP_ASK"
+msgstr "FCR2_ACT_GETCALL_HOSP_ASK"
+
+msgctxt "66EF715F"
+msgid "~z~Sorry Roman, you may have to drink alone. I can no longer join you."
+msgstr "~z~抱歉，Roman，你可能要一个人喝酒了。我没法陪你了。"
+
+msgctxt "68EEA6A5"
+msgid "FCR2_ACT_PRO_GETCALL_SPEC_END_C_CA"
+msgstr "FCR2_ACT_PRO_GETCALL_SPEC_END_C_CA"
+
+msgctxt "697A2FC6"
+msgid "~z~Cousin, you must dine alone. I can no longer join you."
+msgstr "~z~堂兄，你只能自己去吃了。我不能陪你了。"
+
+msgctxt "6BCBEE45"
+msgid ""
+"~z~You are a good cousin. Thank you for collecting me. I need to go home now."
+msgstr "~z~真是个好堂弟，感谢你来接我。我现在要回家了。"
+
+msgctxt "6CD7EAD3"
+msgid "~z~Alright, Niko. We shall do this another time. Later on."
+msgstr "~z~好吧，Niko。我们改天再做这个吧。回见。"
+
+msgctxt "6F67CD05"
+msgid "~z~Niko, you are just fooling with me. Thanks a lot."
+msgstr "~z~Niko，你是存心耍我吧。多谢了。"
+
+msgctxt "71DFC177"
+msgid ""
+"~z~Niko, I'm being discharged from the hospital. Would you mind picking me "
+"up?"
+msgstr "~z~Niko，医院让我出院了。你介意来接我一趟吗？"
+
+msgctxt "72974640"
+msgid "010"
+msgstr "010"
+
+msgctxt "72E40BBD"
+msgid ""
+"~z~Sorry, cousin. I cannot join you at the tittie bar. You can still go by "
+"yourself though."
+msgstr "~z~抱歉，堂兄。我没法陪你去奶子吧了。不过你还是可以自己去。"
+
+msgctxt "7418229B"
+msgid "~z~Thank you, cousin. That could be very useful in this city."
+msgstr "~z~谢了，堂兄。在这里会很有用的。"
+
+msgctxt "748AF862"
+msgid "010"
+msgstr "010"
+
+msgctxt "76D57A84"
+msgid "100"
+msgstr "100"
+
+msgctxt "776101AC"
+msgid ""
+"~z~Alright, cousin. Maybe another time you will feel like being part of the "
+"family."
+msgstr "~z~好吧，堂弟。下次想和家人团聚了记得找我。"
+
+msgctxt "77DEC2D6"
+msgid "~z~Wait right there, NB. I'm dispatching one now."
+msgstr "~z~原地等着，NB。我这就派车过来。"
+
+msgctxt "79452CC2"
+msgid ""
+"~z~Sorry, Roman. I can't do it right now. Can't you get Mallorie to do it?"
+msgstr "~z~抱歉，Roman，我现在来不了。你就不能让Mallorie来接你吗？"
+
+msgctxt "7BE4A010"
+msgid "010"
+msgstr "010"
+
+msgctxt "7C088934"
+msgid ""
+"~z~Don't worry cousin, I have hot bitches that are begging me for my "
+"company, see you soon."
+msgstr "~z~别担心，堂弟，我还有性感的贱人们求我陪呢，之后见。"
+
+msgctxt "82186FA9"
+msgid "~z~Cousin, I can't play no games with you just now. Sorry."
+msgstr "~z~Cousin, I can't play no games with you just now. Sorry."
+
+msgctxt "834E6454"
+msgid ""
+"~z~Cousin, I'm getting out of hospital. You couldn't pick me up could you?"
+msgstr "~z~堂弟，我出院了。能麻烦你来接我一趟吗？"
+
+msgctxt "85509540"
+msgid "FCR2_ACT_PRO_CALL_EAT_CANCEL"
+msgstr "FCR2_ACT_PRO_CALL_EAT_CANCEL"
+
+msgctxt "8684AEB5"
+msgid "FCR2_ACT_PRO_CALL_MEDLIKE"
+msgstr "FCR2_ACT_PRO_CALL_MEDLIKE"
+
+msgctxt "8913A511"
+msgid "~z~Sure, Niko. We can always do this another time. I see you then."
+msgstr "~z~好的，Niko。总会有机会的。之后见。"
+
+msgctxt "89C97064"
+msgid "~z~Roman. I can't eat with you. This may help you lose some weight."
+msgstr "~z~Roman，我没法和你一起吃饭了。说不定还能帮你减减肥。"
+
+msgctxt "8A32B99E"
+msgid "100"
+msgstr "100"
+
+msgctxt "8AE3CE7F"
+msgid "FCR2_ACT_GETCALL_HOSP_REJ_HILIKE"
+msgstr "FCR2_ACT_GETCALL_HOSP_REJ_HILIKE"
+
+msgctxt "8DC3AA3F"
+msgid ""
+"~z~Hey, Roman. You mind if we catch the show on another night? I have "
+"something else to do."
+msgstr "~z~嘿，Roman。你介意我们换个日子看表演吗？我现在有别的事情要做。"
+
+msgctxt "9127319F"
+msgid "FCR2_ACT_CALL_HOSP_CANCEL_MEDLIKE"
+msgstr "FCR2_ACT_CALL_HOSP_CANCEL_MEDLIKE"
+
+msgctxt "9227DBAA"
+msgid ""
+"~z~I will remember this next time you are in trouble, Niko. I will remember."
+msgstr "~z~这笔帐我会记着的，下次你有事了当心点，Niko。我都记着呢。"
+
+msgctxt "94FFFD18"
+msgid ""
+"~z~You are my cousin, Niko. How can I refuse? There is a cab on its way."
+msgstr "~z~你可是我堂弟啊，Niko。我怎么能拒绝呢？已经有辆车在路上了。"
+
+msgctxt "9594CE1F"
+msgid ""
+"~z~Cousin, I hope you are not forgetting your family in this city? We do "
+"this on different occasion."
+msgstr "~z~堂弟，你应该没忘了你在这里的家人吧？我们以后再约吧。"
+
+msgctxt "9A50FD01"
+msgid "100"
+msgstr "100"
+
+msgctxt "9ADC9B6B"
+msgid "FCR2_ACT_PRO_CALL_BOWL_CANCEL"
+msgstr "FCR2_ACT_PRO_CALL_BOWL_CANCEL"
+
+msgctxt "9C2C8F8B"
+msgid "100"
+msgstr "100"
+
+msgctxt "A0E8FC01"
+msgid "~z~I am sorry cousin, but I have no time. I'll see you soon though."
+msgstr "~z~抱歉，堂兄，但我没空。不过我们之后见。"
+
+msgctxt "A14C8DBC"
+msgid "FCR2_ACT_PRO_CALL_LOLIKE"
+msgstr "FCR2_ACT_PRO_CALL_LOLIKE"
+
+msgctxt "A1D71C30"
+msgid "~z~Roman, it's Niko. I need a cab."
+msgstr "~z~Roman，我是Niko。我需要辆车。"
+
+msgctxt "A27A45D3"
+msgid "FCR2_ACT_ARRIVEF_HOSPITAL"
+msgstr "FCR2_ACT_ARRIVEF_HOSPITAL"
+
+msgctxt "A4BCEF6E"
+msgid ""
+"~z~Roman, I cannot go look at titties with you. I have to do something else."
+msgstr "~z~Roman，我不能陪你去看奶子了。我有别的事情要做。"
+
+msgctxt "A99AA651"
+msgid "~z~Anything for you, NB. It should be there soon."
+msgstr "~z~有需要你就直说，NB。应该马上就到。"
+
+msgctxt "AAFDD334"
+msgid ""
+"~z~Really, Niko. I told everyone you were coming to get me. I will have to "
+"walk now."
+msgstr "~z~真的，Niko，我告诉了所有人你会来接我。现在只能走回家了。"
+
+msgctxt "ACEE325E"
+msgid "~z~Roman, my cousin, I'd really like a cab if you could send one to me."
+msgstr "~z~Roman，好堂兄，我很希望你现在能给我派辆出租车。"
+
+msgctxt "B46BF78F"
+msgid ""
+"~z~Sorry, cousin. I cannot see the show with you no more. Hope that's cool."
+msgstr "~z~抱歉，堂兄，我不能如约和你去看表演了。希望没事。"
+
+msgctxt "BE54D52B"
+msgid "~z~Hey Roman, you couldn't send a cab for a cousin in need could you?"
+msgstr "~z~嘿，Roman，能不能给你的堂弟派辆车过来？"
+
+msgctxt "BFC2ED18"
+msgid "FCR2_ACT_HOSPITAL_DROPOFF"
+msgstr "FCR2_ACT_HOSPITAL_DROPOFF"
+
+msgctxt "C0A929AE"
+msgid "FCR2_ACT_PRO_CALL_POOL_CANCEL"
+msgstr "FCR2_ACT_PRO_CALL_POOL_CANCEL"
+
+msgctxt "C0BEC96C"
+msgid "100"
+msgstr "100"
+
+msgctxt "C3365E68"
+msgid "010"
+msgstr "010"
+
+msgctxt "C3D2205A"
+msgid "FCR2_ACT_GETCALL_HOSP_REJ_MEDLIKE"
+msgstr "FCR2_ACT_GETCALL_HOSP_REJ_MEDLIKE"
+
+msgctxt "C45FABB4"
+msgid ""
+"~z~Cousin, you do not have much family here, you should treat me with more "
+"respect. Maybe another time soon. Okay."
+msgstr "~z~堂弟，你在这里只有我一个家人，对我好一点好吗。那就下次再约吧。"
+
+msgctxt "C61B48FC"
+msgid "FCR2_ACT_PRO_CALL_DRINK_CANCEL"
+msgstr "FCR2_ACT_PRO_CALL_DRINK_CANCEL"
+
+msgctxt "C77BABAB"
+msgid "FCR2_ACT_CALL_HOSP_CANCEL_LOLIKE"
+msgstr "FCR2_ACT_CALL_HOSP_CANCEL_LOLIKE"
+
+msgctxt "CEEF9DAA"
+msgid "FCR2_ACT_PRO_CALL_DARTS_CANCEL"
+msgstr "FCR2_ACT_PRO_CALL_DARTS_CANCEL"
+
+msgctxt "D08C7612"
+msgid "010"
+msgstr "010"
+
+msgctxt "D394CD60"
+msgid "100"
+msgstr "100"
+
+msgctxt "D62C7669"
+msgid "~z~Hey Roman, sorry to fuck you round but I don't need no cab no more."
+msgstr "~z~嘿，Roman，很抱歉给你添麻烦了，但我不需要打车了。"
+
+msgctxt "D6461247"
+msgid "010"
+msgstr "010"
+
+msgctxt "DABB57C8"
+msgid "010"
+msgstr "010"
+
+msgctxt "DC487673"
+msgid "~z~That's cool, cousin. Call again if you actually do need one."
+msgstr "~z~没关系，堂弟。下次需要了记得找我。"
+
+msgctxt "DDF7372B"
+msgid ""
+"~z~Sorry, Roman. Something has come up. I cannot throw darts with you now."
+msgstr "~z~抱歉，Roman。突然有点急事，没法跟你去玩飞镖了。"
+
+msgctxt "E17C6ED2"
+msgid "100"
+msgstr "100"
+
+msgctxt "E3F06EC5"
+msgid "100"
+msgstr "100"
+
+msgctxt "E4240FB0"
+msgid "010"
+msgstr "010"
+
+msgctxt "E6B34CB3"
+msgid "100"
+msgstr "100"
+
+msgctxt "E7135D98"
+msgid "010"
+msgstr "010"
+
+msgctxt "E850DF36"
+msgid "FCR2_ACT_PRO_GETCALL_HOSP_YES"
+msgstr "FCR2_ACT_PRO_GETCALL_HOSP_YES"
+
+msgctxt "E9C15D77"
+msgid "010"
+msgstr "010"
+
+msgctxt "EDBF61D1"
+msgid "010"
+msgstr "010"
+
+msgctxt "EE588B57"
+msgid ""
+"~z~I can do that for my cousin, I shouldn't take longer than an hour to get "
+"there."
+msgstr "~z~我可以为我的堂兄来一趟，应该不用一个小时就能到。"
+
+msgctxt "EF7B591D"
+msgid "~z~Thanks for the ride, Niko. Call me soon, yes."
+msgstr "~z~谢谢你送我回家，Niko。记得打给我，对。"
+
+msgctxt "EF9B5BFD"
+msgid "FCR2_ACT_PRO_CALL_CANCEL_SPEC_C_GA"
+msgstr "FCR2_ACT_PRO_CALL_CANCEL_SPEC_C_GA"
+
+msgctxt "F0ED5D1F"
+msgid "~z~Cousin, I am no longer able to do darts with you. Sorry."
+msgstr "~z~堂兄，我没法来跟你玩飞镖了。抱歉。"
+
+msgctxt "F189B945"
+msgid "FCR2_ACT_ARRIVE_HOSPITAL"
+msgstr "FCR2_ACT_ARRIVE_HOSPITAL"
+
+msgctxt "F1F4EC68"
+msgid "FCR2_ACT_GETCALL_HOSP_REJ_LOLIKE"
+msgstr "FCR2_ACT_GETCALL_HOSP_REJ_LOLIKE"
+
+msgctxt "F83838E0"
+msgid "~z~Okay cousin, if you have no time you have no time."
+msgstr "~z~好吧，堂弟，你没空就没空吧。"
+
+msgctxt "F8683475"
+msgid "100"
+msgstr "100"
+
+msgctxt "F8C80892"
+msgid ""
+"~z~Roman, I'm sorry but something has come up and I can no longer pick you "
+"up from the hospital."
+msgstr "~z~Roman，很对不起，但我突然有急事，不能来医院接你了。"
+
+msgctxt "FB69C0E6"
+msgid "100"
+msgstr "100"
+
+msgctxt "FD2D7481"
+msgid ""
+"~z~You are kind for giving me a lift, Niko. Call your sick cousin soon, okay?"
+msgstr "~z~你能来接我真好，Niko。记得给你体弱的堂兄打电话，好吧？"
+
+msgctxt "FFFF2646"
+msgid "FCR2_ACT_GETCALL_HOSP_ACCEPT"
+msgstr "FCR2_ACT_GETCALL_HOSP_ACCEPT"

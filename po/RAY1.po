@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RAY1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "243323E5"
+msgid "~s~He's heading for the roof."
+msgstr "~s~他正逃向屋顶。"
+
+msgctxt "3C0B5395"
+msgid "~s~Get into the ~y~elevator."
+msgstr "~s~进入~y~电梯。"
+
+msgctxt "40EF998B"
+msgid "~r~Dead people can't talk."
+msgstr "~r~死人不会开口。"
+
+msgctxt "4DC3F706"
+msgid "~s~The ~g~elevator~s~ can be used to reach the 20th floor."
+msgstr "~s~坐~g~电梯~s~可以上到20楼。"
+
+msgctxt "5E70985F"
+msgid "~s~Search the apartment, he must be here somewhere."
+msgstr "~s~搜查这间公寓，他肯定躲在这里。"
+
+msgctxt "713A3DF2"
+msgid "~s~Go to ~y~Teddy Benavidez's apartment."
+msgstr "~s~前往~y~Teddy Benavidez的公寓。"
+
+msgctxt "75D24722"
+msgid "~s~Use Ray's text message to help you find Alonzo."
+msgstr "~s~利用Ray的短信帮助你寻找Alonzo。"
+
+msgctxt "84A8E4CF"
+msgid "~s~Take out ~r~Teddy Benavidez."
+msgstr "~s~干掉~r~Teddy Benavidez。"
+
+msgctxt "9745C626"
+msgid "~r~Teddy's goon escaped."
+msgstr "~r~Teddy的小弟逃走了。"
+
+msgctxt "A6F1657D"
+msgid "~r~Teddy got away."
+msgstr "~r~Teddy逃了。"
+
+msgctxt "BAEBD154"
+msgid "~s~Go inside and look for ~y~Teddy Benavidez's apartment."
+msgstr "~s~进去寻找~y~Teddy Benavidez的公寓。"
+
+msgctxt "CDBE76F9"
+msgid "~s~Go to the ~y~projects on Galveston."
+msgstr "~s~前往~y~Galveston的公屋社区。"
+
+msgctxt "DB2D3069"
+msgid "~s~Press ~INPUT_PICKUP~ to call the elevator."
+msgstr "~s~按~INPUT_PICKUP~呼叫电梯。"
+
+msgctxt "DE78EA52"
+msgid "~s~Intimidate ~r~Alonzo."
+msgstr "~s~威胁~r~Alonzo。"
+
+msgctxt "E9843F20"
+msgid ""
+"~s~Teddy's goons are everywhere, use cover and move through the building "
+"with caution."
+msgstr "~s~到处都是Teddy的小弟，善用掩体，在公寓中谨慎行动。"

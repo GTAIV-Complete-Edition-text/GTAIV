@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PULOVER\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "59D35DB"
+msgid "~r~The vans were not pulled over in time.~s~"
+msgstr "~r~未能及时截停所有目标货车。~s~"
+
+msgctxt "196CDB4A"
+msgid "Get back in the ~B~car."
+msgstr "回到~B~车~s~上。"
+
+msgctxt "217A924B"
+msgid "~s~The ~b~vans~S~ are in transit. Find them and pull them over."
+msgstr "~b~货车~S~都在行驶中。找到并截停它们。"
+
+msgctxt "2BAFFEB0"
+msgid "~r~The van was not delivered to the lockup.~s~"
+msgstr "~r~未将目标货车送到指定车库中。~s~"
+
+msgctxt "3601935B"
+msgid "~s~Pull over the ~b~van."
+msgstr "~s~截停这辆~b~货车。"
+
+msgctxt "38689B75"
+msgid "Find a cop car that doesn't have a busted siren."
+msgstr "找一辆警笛可以正常发声的警车。"
+
+msgctxt "52E5506E"
+msgid "Lose the wanted before delivering the van."
+msgstr "在前往车库前降低你的通缉度。"
+
+msgctxt "53894F8A"
+msgid "~S~Take the van to the ~Y~lockup."
+msgstr "~S~将货车送到~Y~车库~s~中。"
+
+msgctxt "5A46DB06"
+msgid "Get closer to the ~b~van."
+msgstr "靠近~b~货车。"
+
+msgctxt "69267CF0"
+msgid "Lose your wanted level."
+msgstr "降低你的通缉度。"
+
+msgctxt "6CC07FF9"
+msgid "Park up and approach the driver's window."
+msgstr "停车，走到驾驶室的窗边。"
+
+msgctxt "6FF40A8B"
+msgid "Get back into the ~b~van."
+msgstr "回到~b~货车~s~上。"
+
+msgctxt "7BF8EF28"
+msgid ""
+"~s~Find and pull over the ~b~vans~S~ before they reach their destinations."
+msgstr "~s~在有货车到达其目的地前截停所有~b~货车。~S~"
+
+msgctxt "7DC4710B"
+msgid "~S~Check out what's in the back of the van."
+msgstr "~S~检查货车后部的装货。"
+
+msgctxt "898F3A75"
+msgid "~s~Stay close to the ~b~van~s~ to make it pull over."
+msgstr "~s~靠近~b~货车~s~进行截停。"
+
+msgctxt "ACD2A95D"
+msgid "~s~Find and pull over the ~b~van~S~ before it reaches its destination."
+msgstr "~s~在~b~目标货车~s~到达目的地前截停之。"
+
+msgctxt "AFC307F8"
+msgid "Pull over the other ~B~vans."
+msgstr "截停其它~B~货车。"
+
+msgctxt "B64213D6"
+msgid "Press ~PAD_LB~ to close van doors."
+msgstr "按~PAD_LB~关闭货车车门。"
+
+msgctxt "C852B7F7"
+msgid "Stop and search the other vans."
+msgstr "截停搜查其它货车。"
+
+msgctxt "C930FF37"
+msgid "~S~You need a cop car to pull over the vans."
+msgstr "~S~你需要一辆警车才能截停那些货车。"
+
+msgctxt "CDCC886E"
+msgid "~S~Find a cop car."
+msgstr "~S~找一辆警车。"
+
+msgctxt "D0964882"
+msgid "~s~Steal the ~b~van."
+msgstr "~s~偷走~b~货车。"
+
+msgctxt "D45620A5"
+msgid "Press ~INPUT_VEH_HORN~ to turn on the siren and pull the van over."
+msgstr "按~INPUT_VEH_HORN~鸣笛，截停货车。"
+
+msgctxt "E0CCE8EB"
+msgid "~r~The content of the van wasn't checked.~s~"
+msgstr "~r~未检查货车中装载的货物。~s~"
+
+msgctxt "E21F6CB0"
+msgid "~S~Get out of the van."
+msgstr "~S~离开货车。"
+
+msgctxt "E2F3ED3D"
+msgid "~s~Drive to the ~y~lockup."
+msgstr "~s~前往~y~车库。"
+
+msgctxt "ECE38118"
+msgid "~R~The van got away.~s~"
+msgstr "~R~目标货车逃了。~s~"

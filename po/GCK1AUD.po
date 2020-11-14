@@ -1,0 +1,777 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GCK1AUD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "2B433B3"
+msgid "100"
+msgstr "100"
+
+msgctxt "2D21DBD"
+msgid "~z~I'll be there soon."
+msgstr "~z~我马上就到。"
+
+msgctxt "4DFE4E9"
+msgid "~z~Shit, I'm sorry, Kate."
+msgstr "~z~靠，我很抱歉，Kate。"
+
+msgctxt "680710A"
+msgid "GCK_ACT_CALL_LIKENO"
+msgstr "GCK_ACT_CALL_LIKENO"
+
+msgctxt "6C8B55D"
+msgid "100"
+msgstr "100"
+
+msgctxt "7AAB9A9"
+msgid "~z~I've only just finished our last date! Another time."
+msgstr "~z~我们才约过会呢！下次吧。"
+
+msgctxt "8BC68FA"
+msgid "100"
+msgstr "100"
+
+msgctxt "9E398FD"
+msgid "~z~Excellent - rejection. My favorite."
+msgstr "~z~很好，被拒绝了。我的最爱。"
+
+msgctxt "C051009"
+msgid "~z~You wanna hang out?"
+msgstr "~z~你想出去玩吗？"
+
+msgctxt "C9480C9"
+msgid "~z~Sorry, but I'm taken up with family stuff."
+msgstr "~z~抱歉，但我家里的事顾不过来了。"
+
+msgctxt "D8FAF5A"
+msgid "100"
+msgstr "100"
+
+msgctxt "EF735E7"
+msgid ""
+"~z~Hey, it's me - can you pick me up from the hospital? I'm getting out."
+msgstr "~z~嘿，是我。你能来医院接我吗？我出院了。"
+
+msgctxt "10BF3A0C"
+msgid "GCK_ACT_GETCALL_ACCEPT"
+msgstr "GCK_ACT_GETCALL_ACCEPT"
+
+msgctxt "125DB0B5"
+msgid "GCK_ACT_PKA_CALL_REJECTED"
+msgstr "GCK_ACT_PKA_CALL_REJECTED"
+
+msgctxt "12FCED60"
+msgid ""
+"~z~Kate - I'm sorry, something's come up... I can't make it to the hospital."
+msgstr "~z~Kate，我很抱歉，我有点急事...来不了医院了。"
+
+msgctxt "1353027A"
+msgid "~z~I was beginning to hope you were dead."
+msgstr "~z~我都开始希望你死了。"
+
+msgctxt "15F343FF"
+msgid "~z~Cool."
+msgstr "~z~好的。"
+
+msgctxt "16C84618"
+msgid "GCK_ACT_GETCALL_HOSP_REJ_LOLIKE"
+msgstr "GCK_ACT_GETCALL_HOSP_REJ_LOLIKE"
+
+msgctxt "172B9981"
+msgid "~z~I'm getting out of hospital and this is how you treat me?"
+msgstr "~z~我要出院了，你就这么对我？"
+
+msgctxt "197A2550"
+msgid "100"
+msgstr "100"
+
+msgctxt "1B843C3E"
+msgid "~z~I love being blown out, Niko."
+msgstr "~z~我喜欢被拒绝，Niko。"
+
+msgctxt "1C2A146B"
+msgid "100"
+msgstr "100"
+
+msgctxt "1E02D5A5"
+msgid "GCK_ACT_GETCALL_REJECT_VERYIRATE"
+msgstr "GCK_ACT_GETCALL_REJECT_VERYIRATE"
+
+msgctxt "1F2AB654"
+msgid "~z~You wanna get together at some point?"
+msgstr "~z~要么我们找个时间一起去走走？"
+
+msgctxt "1FFC5BDA"
+msgid "GCK_ACT_PKA_CALL_DATE_CANCEL"
+msgstr "GCK_ACT_PKA_CALL_DATE_CANCEL"
+
+msgctxt "200C5811"
+msgid "~z~Hey. Can you come pick me up? I'm getting out of the hospital today."
+msgstr "~z~嘿，你能来接我吗？今天我出院了。"
+
+msgctxt "2073855B"
+msgid "~z~Kate."
+msgstr "~z~Kate。"
+
+msgctxt "207385D1"
+msgid "GCK_ACT_CALL_HOSP_CANCEL_LOLIKE"
+msgstr "GCK_ACT_CALL_HOSP_CANCEL_LOLIKE"
+
+msgctxt "21BF7F4D"
+msgid "100"
+msgstr "100"
+
+msgctxt "225AAC55"
+msgid "~z~Sorry, Niko, I'm busy with family stuff."
+msgstr "~z~抱歉，Niko，我家里事很多，忙着呢。"
+
+msgctxt "24B28E94"
+msgid "~z~Sure, Kate, I'll be there in an hour."
+msgstr "~z~当然，Kate，我一小时内就到。"
+
+msgctxt "259EA711"
+msgid "~z~I assume you must hate me?"
+msgstr "~z~我猜你肯定讨厌我吧？"
+
+msgctxt "25CA2308"
+msgid "GCK_ACT_PKA_CALL_GREET"
+msgstr "GCK_ACT_PKA_CALL_GREET"
+
+msgctxt "269E1C15"
+msgid "GCK_ACT_CALL_LIKEYES"
+msgstr "GCK_ACT_CALL_LIKEYES"
+
+msgctxt "27B1E77C"
+msgid "~z~Look forward to it, I'm on my way."
+msgstr "~z~我很期待，这就过来。"
+
+msgctxt "27FAF073"
+msgid "GCK_ACT_GETCALL_IRATE"
+msgstr "GCK_ACT_GETCALL_IRATE"
+
+msgctxt "2964CD82"
+msgid "010"
+msgstr "010"
+
+msgctxt "2DB6318E"
+msgid "GCK_ACT_GETCALL_HOSP_REJ_HILIKE"
+msgstr "GCK_ACT_GETCALL_HOSP_REJ_HILIKE"
+
+msgctxt "2EB07F33"
+msgid "100"
+msgstr "100"
+
+msgctxt "2EEDA7F3"
+msgid "GCK_ACT_CALL_IRATE"
+msgstr "GCK_ACT_CALL_IRATE"
+
+msgctxt "30DBAF15"
+msgid "~z~Thanks friend... asshole."
+msgstr "~z~谢了，朋友...混蛋。"
+
+msgctxt "30F35231"
+msgid "~z~I was asleep - call me after 8."
+msgstr "~z~我睡了，8点后打给我。"
+
+msgctxt "310BCEC3"
+msgid "~z~Thanks."
+msgstr "~z~谢了。"
+
+msgctxt "3169DAD2"
+msgid "~z~You wanna hang out sometime?"
+msgstr "~z~你想找个时间出去吗？"
+
+msgctxt "324C3A58"
+msgid "~z~No worries, Niko some other time, perhaps."
+msgstr "~z~没事，Niko，那就改天吧。"
+
+msgctxt "332B4DF6"
+msgid "~z~I can't, Niko - I'm busy doing something for Ma."
+msgstr "~z~我没空，Niko。我忙着替妈做事呢。"
+
+msgctxt "33848AE4"
+msgid "GCK_ACT_PKA_CALL_LOLIKE"
+msgstr "GCK_ACT_PKA_CALL_LOLIKE"
+
+msgctxt "33FAF6C6"
+msgid "~z~It's me, Kate McReary."
+msgstr "~z~是我，Kate McReary。"
+
+msgctxt "357A1422"
+msgid "100"
+msgstr "100"
+
+msgctxt "36F7DD88"
+msgid "~z~You free? Wanna do something?"
+msgstr "~z~你有空吗？想一起做点什么吗？"
+
+msgctxt "3C3ECB39"
+msgid "~z~Oh, you... I wondered what had happened to you."
+msgstr "~z~噢，你...我之前在想你是不是出事了。"
+
+msgctxt "3DC3815E"
+msgid "GCK_ACT_GETCALL_HOSP_ACCEPT"
+msgstr "GCK_ACT_GETCALL_HOSP_ACCEPT"
+
+msgctxt "44EF7977"
+msgid "~z~You up to anything? I'm bored."
+msgstr "~z~你现在忙吗？我无聊死了。"
+
+msgctxt "463F1B52"
+msgid "~z~Niko, it's Kate."
+msgstr "~z~Niko，我是Kate。"
+
+msgctxt "47B5652A"
+msgid "~z~No problem, Niko."
+msgstr "~z~没问题，Niko。"
+
+msgctxt "4803464C"
+msgid ""
+"~z~You've reached Kate McReary. I'm sorry, I can't take your call just now. "
+"Please try back another time."
+msgstr "~z~你呼叫的是Kate McReary。很抱歉，现在我没法接听你的电话。请过会儿再试。"
+
+msgctxt "485F8853"
+msgid "GCK_ACT_CALL_HOSP_CANCEL_HiLIKE"
+msgstr "GCK_ACT_CALL_HOSP_CANCEL_HiLIKE"
+
+msgctxt "4AE2DA39"
+msgid "~z~Hey Kate."
+msgstr "~z~嘿，Kate。"
+
+msgctxt "4C039AC4"
+msgid "GCK_ACT_PKA_CALL_SLEEPING"
+msgstr "GCK_ACT_PKA_CALL_SLEEPING"
+
+msgctxt "4C824746"
+msgid "GCK_ACT_GETCALL_HOSP_REJ_MEDLIKE"
+msgstr "GCK_ACT_GETCALL_HOSP_REJ_MEDLIKE"
+
+msgctxt "503A87AC"
+msgid "~z~I'd really love to Kate - but I'm in the middle of something crazy."
+msgstr "~z~我很想来，Kate。但是我现在忙着做一些疯狂的事。"
+
+msgctxt "516A7058"
+msgid "010"
+msgstr "010"
+
+msgctxt "52932942"
+msgid "~z~Oh, I assumed you must be dead."
+msgstr "~z~噢，我还以为你已经死了。"
+
+msgctxt "52A0CB8D"
+msgid "GCK_ACT_PKA_CALL_DATE"
+msgstr "GCK_ACT_PKA_CALL_DATE"
+
+msgctxt "538F7E44"
+msgid "~z~I haven't heard from you in ages!"
+msgstr "~z~我好久没接到你的电话了！"
+
+msgctxt "53F46D17"
+msgid "~z~Of course - I'll be there in an hour."
+msgstr "~z~当然了，我一小时内就到。"
+
+msgctxt "543C1523"
+msgid "~z~Thank you Niko - I'll be waiting."
+msgstr "~z~谢谢你，Niko。我会等着的。"
+
+msgctxt "55C55805"
+msgid "~z~Listen Kate forgive me, but something's come up."
+msgstr "~z~听着，Kate，原谅我，但我突然有急事。"
+
+msgctxt "578DFAAF"
+msgid "GCK_ACT_GETCALL_REJECT"
+msgstr "GCK_ACT_GETCALL_REJECT"
+
+msgctxt "57F45A3B"
+msgid "~z~I can't again so soon - another time."
+msgstr "~z~我不能这么快就再约一次。改天吧。"
+
+msgctxt "599B5419"
+msgid "100"
+msgstr "100"
+
+msgctxt "59D9C287"
+msgid "~z~Niko, it's me, Kate."
+msgstr "~z~Niko，是我，Kate。"
+
+msgctxt "60A2E100"
+msgid "GCK_ACT_PKA_CALL_HiLIKE"
+msgstr "GCK_ACT_PKA_CALL_HiLIKE"
+
+msgctxt "62DA4464"
+msgid "~z~Sure, Kate, I'll be there in an hour."
+msgstr "~z~当然，Kate，我一小时内就到。"
+
+msgctxt "62F48A16"
+msgid "~z~Great, see you soon."
+msgstr "~z~好的，一会儿见。"
+
+msgctxt "64BCDCE3"
+msgid "~z~No problem."
+msgstr "~z~没问题。"
+
+msgctxt "65EC1D9C"
+msgid "100"
+msgstr "100"
+
+msgctxt "65F38278"
+msgid "~z~Don't worry about it, Niko. Another time."
+msgstr "~z~别担心，Niko。改天吧。"
+
+msgctxt "682DF37A"
+msgid "GCK_ACT_PKA_CALL_ACCEPTED"
+msgstr "GCK_ACT_PKA_CALL_ACCEPTED"
+
+msgctxt "6916A3EC"
+msgid "~z~Okay - I'll get a taxi or something."
+msgstr "~z~好吧。我会考虑打的回来的。"
+
+msgctxt "69791765"
+msgid "~z~Hi there, Kate, it's me, Niko."
+msgstr "~z~嗨你好，Kate，是我，Niko。"
+
+msgctxt "6A4E7FBC"
+msgid "100"
+msgstr "100"
+
+msgctxt "6BF8C83B"
+msgid "~z~I was asleep - I'll be up around 8."
+msgstr "~z~我睡了，大概8点左右醒。"
+
+msgctxt "6EB11521"
+msgid "GCK_ACT_PKA_CALL_HOSP_CANCEL"
+msgstr "GCK_ACT_PKA_CALL_HOSP_CANCEL"
+
+msgctxt "704D78BA"
+msgid "~z~Okay."
+msgstr "~z~好的。"
+
+msgctxt "7123677B"
+msgid "~z~Thanks - great to be missed."
+msgstr "~z~谢了，很高兴能被无视。"
+
+msgctxt "71FA8E53"
+msgid "~z~No - another time."
+msgstr "~z~不了，改天吧。"
+
+msgctxt "73F8261D"
+msgid "010"
+msgstr "010"
+
+msgctxt "742B22C5"
+msgid "GCK_ACT_GETCALL_IRATE_V2"
+msgstr "GCK_ACT_GETCALL_IRATE_V2"
+
+msgctxt "74ADA128"
+msgid "090"
+msgstr "090"
+
+msgctxt "75AF2F8B"
+msgid "~z~Good. See you in a while."
+msgstr "~z~好的。之后见。"
+
+msgctxt "77A8410F"
+msgid "~z~Okay - I guess I'll make my own way home."
+msgstr "~z~好的。我想我还是走回去吧。"
+
+msgctxt "794C870A"
+msgid "~z~Listen, I haven't heard from you in a while."
+msgstr "~z~听着，我有一段时间没接到你的电话了。"
+
+msgctxt "7A6FECC1"
+msgid "~z~So, listen, you want to hang out at all?"
+msgstr "~z~那个，我说，你想出来逛逛吗？"
+
+msgctxt "7C91AFB4"
+msgid "~z~Sure thing, Niko Bellic. Call me sometime, okay?"
+msgstr "~z~当然了，Niko Bellic。有空打给我，好吧？"
+
+msgctxt "7E22C1E4"
+msgid "GCK_ACT_CALL_SLEEP_REPLY"
+msgstr "GCK_ACT_CALL_SLEEP_REPLY"
+
+msgctxt "7E2ECC7F"
+msgid "~z~Thanks - I love rejection!"
+msgstr "~z~谢了。我爱被拒绝！"
+
+msgctxt "7FEFE77E"
+msgid "~z~I've got some family stuff to deal with."
+msgstr "~z~我有些家里的事要忙。"
+
+msgctxt "841CC603"
+msgid ""
+"~z~You really are a dick. I'm getting out of the hospital you ass! Fuck you."
+msgstr "~z~你真是个混蛋。我要出院了你这混蛋！操你妈！"
+
+msgctxt "86070ECB"
+msgid "100"
+msgstr "100"
+
+msgctxt "862D419A"
+msgid "GCK_ACT_PKA_GETCALL_HOSP_YES"
+msgstr "GCK_ACT_PKA_GETCALL_HOSP_YES"
+
+msgctxt "866F8986"
+msgid "100"
+msgstr "100"
+
+msgctxt "87882381"
+msgid "~z~I haven't heard from you in quite a while."
+msgstr "~z~我有段时间没接到你的电话了。"
+
+msgctxt "883823D5"
+msgid "~z~Okay, speak to you soon."
+msgstr "~z~好的，一会儿再聊。"
+
+msgctxt "8984AB0C"
+msgid "~z~Great. I'm on my way."
+msgstr "~z~好的，我过来了。"
+
+msgctxt "89CB97B2"
+msgid "~z~You? I thought you must be dead."
+msgstr "~z~是你？我还以为你已经死了。"
+
+msgctxt "8C50D457"
+msgid ""
+"~z~Okay... you're a dick, but I forgive you. Let's try again, shall we? Pick "
+"me up in an hour or so."
+msgstr "~z~好吧... 你这个混蛋，但我原谅你。我们再试一次，好吗？一小时内来接我。"
+
+msgctxt "8C8A922B"
+msgid "~z~God, I must be really boring... even you don't want to know me."
+msgstr "~z~天哪，我这人一定很无聊...连你都不想了解我。"
+
+msgctxt "8E384219"
+msgid "~z~Thanks - for absolutely nothing, Niko."
+msgstr "~z~感谢你什么都没做，Niko。"
+
+msgctxt "908AF137"
+msgid ""
+"~z~Okay. Maybe we'll hang out another time, when you're less busy - maybe "
+"not."
+msgstr "~z~好的。或许我们可以改天再出去，等你没那么忙的时候。或许不出去了。"
+
+msgctxt "926DB844"
+msgid "~z~Okay. I'll call back."
+msgstr "~z~好的，我改天再找你。"
+
+msgctxt "927A62BE"
+msgid "~z~Call me when you're willing to try to be a human being."
+msgstr "~z~你要是想做个人了就打给我。"
+
+msgctxt "9345325F"
+msgid "100"
+msgstr "100"
+
+msgctxt "94406CF3"
+msgid "~z~Hey Kate."
+msgstr "~z~嘿，Kate。"
+
+msgctxt "962BB091"
+msgid "GCK_ACT_CALL_DATE_NO_GENERAL"
+msgstr "GCK_ACT_CALL_DATE_NO_GENERAL"
+
+msgctxt "97EACDD9"
+msgid "010"
+msgstr "010"
+
+msgctxt "987C6811"
+msgid "GCK_ACT_CALL_VERYIRATE"
+msgstr "GCK_ACT_CALL_VERYIRATE"
+
+msgctxt "9AA3E804"
+msgid "100"
+msgstr "100"
+
+msgctxt "9B1ECADB"
+msgid "GCK_ACT_CALL_DATE_NO_RECENT"
+msgstr "GCK_ACT_CALL_DATE_NO_RECENT"
+
+msgctxt "9CA73CAF"
+msgid "GCK_ACT_GETCALL_DATE"
+msgstr "GCK_ACT_GETCALL_DATE"
+
+msgctxt "9D1EA9D8"
+msgid "~z~You wanna hang out?"
+msgstr "~z~你想出来玩吗？"
+
+msgctxt "9D25B371"
+msgid "~z~Thanks! Thanks a lot."
+msgstr "~z~谢了！多谢。"
+
+msgctxt "9D5D0063"
+msgid "GCK_ACT_ANSWER_PHONE"
+msgstr "GCK_ACT_ANSWER_PHONE"
+
+msgctxt "A03B6AD4"
+msgid "~z~We only just hung out, Niko."
+msgstr "~z~我们刚出去过，Niko。"
+
+msgctxt "A19ED210"
+msgid "~z~Hey Europe, it's America - and Ireland."
+msgstr "~z~嘿，欧洲，我是美国，也是爱尔兰。"
+
+msgctxt "A1B9FF29"
+msgid ""
+"~z~I'm happy to give our friendship another go, because I like you, even "
+"though you are a dick. Pick me up in an hour."
+msgstr "~z~我很乐意再给我们的友谊一次机会，因为我喜欢你，尽管你是个混蛋。一小时内来接我。"
+
+msgctxt "A21588A1"
+msgid "~z~How you doing, Kate?"
+msgstr "~z~你怎么样，Kate？"
+
+msgctxt "A2D30623"
+msgid "100"
+msgstr "100"
+
+msgctxt "A2F19FFC"
+msgid ""
+"~z~You're a fine one to call me after the way you've been treating me... I "
+"know - piss off. Call back when you're less annoying."
+msgstr "~z~你倒好，那样对我后还给我打电话...我知道。滚蛋。等你没那么令人恼火了再打回来。"
+
+msgctxt "A5678076"
+msgid "GCK_ACT_CALL_HOSP_CANCEL_MEDLIKE"
+msgstr "GCK_ACT_CALL_HOSP_CANCEL_MEDLIKE"
+
+msgctxt "A5793EC5"
+msgid "010"
+msgstr "010"
+
+msgctxt "AAC4F1DA"
+msgid "100"
+msgstr "100"
+
+msgctxt "ACB60DDC"
+msgid "100"
+msgstr "100"
+
+msgctxt "B0E12FF6"
+msgid "010"
+msgstr "010"
+
+msgctxt "B2D680EF"
+msgid "GCK_ACT_GETCALL_REJECT_IRATE"
+msgstr "GCK_ACT_GETCALL_REJECT_IRATE"
+
+msgctxt "B302D5A0"
+msgid "~z~You up to anything? Want to do something?"
+msgstr "~z~你在忙吗？想去做点什么吗？"
+
+msgctxt "B3961360"
+msgid "100100"
+msgstr "100100"
+
+msgctxt "B42AC26E"
+msgid ""
+"~z~I'm too pissed off to speak to you right now, amigo. Call back when I "
+"don't think you're a dick..."
+msgstr "~z~我现在很生气，不想和你说话，老兄。等我不再认为你是个混蛋后再打回来..."
+
+msgctxt "B448996F"
+msgid "100"
+msgstr "100"
+
+msgctxt "B74CB30F"
+msgid "~z~Hey, it's me."
+msgstr "~z~嘿，是我。"
+
+msgctxt "B8349F96"
+msgid "~z~Yes - how about now? I'm bored."
+msgstr "~z~可以，要么就现在吧？我快无聊死了。"
+
+msgctxt "B840BC67"
+msgid "~z~No problem... I will make my own way home."
+msgstr "~z~没问题...我会自己回家的。"
+
+msgctxt "C0FACA11"
+msgid "010"
+msgstr "010"
+
+msgctxt "C14DB20D"
+msgid ""
+"~z~That's weird, because when I woke up, I said to myself, Kate - hopefully "
+"you can be stood up by a prick today."
+msgstr "~z~很奇怪，因为今天醒来的时候我告诉过自己，Kate，今天你有希望被一个混蛋放鸽子。"
+
+msgctxt "C1D96AE8"
+msgid "~z~I'd love to, but I'm in the middle of something."
+msgstr "~z~我很想去，不过我现在在忙事情。"
+
+msgctxt "C4802EEB"
+msgid "GCK_ACT_PKA_GETCALL_HOSP_NO"
+msgstr "GCK_ACT_PKA_GETCALL_HOSP_NO"
+
+msgctxt "C5F83B1D"
+msgid "~z~I'm free now. Come pick me up."
+msgstr "~z~我现在有空，过来接我吧。"
+
+msgctxt "C6C9D1BF"
+msgid "~z~Okay."
+msgstr "~z~好的。"
+
+msgctxt "C7670DA4"
+msgid "~z~Of course - I'll be there in an hour."
+msgstr "~z~当然，我会在一小时内到的。"
+
+msgctxt "C833B20F"
+msgid "GCK_ACT_PKA_GETCALL_HOSP_YES"
+msgstr "GCK_ACT_PKA_GETCALL_HOSP_YES"
+
+msgctxt "C9DAABCF"
+msgid "~z~See you shortly."
+msgstr "~z~过会儿见。"
+
+msgctxt "CA2F53F9"
+msgid "100"
+msgstr "100"
+
+msgctxt "CC8149F7"
+msgid "100"
+msgstr "100"
+
+msgctxt "CFF9F2B9"
+msgid "~z~I was wondering what exactly had happened to you."
+msgstr "~z~我还在想你是不是出事了。"
+
+msgctxt "D10ED8B1"
+msgid "~z~Fine, look after yourself, okay?"
+msgstr "~z~好，照顾好你自己，行吧？"
+
+msgctxt "D3672C05"
+msgid ""
+"~z~You sure know how to make someone feel like an asshole, Niko. Thanks!"
+msgstr "~z~你很懂怎么让别人感觉像个混蛋，Niko。谢了！"
+
+msgctxt "D51FD96C"
+msgid "~z~Come pick me up, I'm free now."
+msgstr "~z~过来接我吧，我现在有空。"
+
+msgctxt "D6F84264"
+msgid "~z~I was wondering if you were still alive."
+msgstr "~z~我在想你是不是还活着。"
+
+msgctxt "D7D7DF29"
+msgid "~z~Thanks - really great of you - I love being stood up."
+msgstr "~z~谢了，你真好，我喜欢被放鸽子。"
+
+msgctxt "D835E6FF"
+msgid "~z~Okay, Niko. I hope you're not causing too much trouble out there."
+msgstr "~z~好的，Niko。希望你在外面不会惹出太多乱子。"
+
+msgctxt "D8A243DD"
+msgid "100"
+msgstr "100"
+
+msgctxt "D94B76C2"
+msgid "~z~Wonderful."
+msgstr "~z~太棒了。"
+
+msgctxt "D9E947F7"
+msgid "GCK_ACT_PKA_CALL_MEDLIKE"
+msgstr "GCK_ACT_PKA_CALL_MEDLIKE"
+
+msgctxt "DB96DA46"
+msgid "100"
+msgstr "100"
+
+msgctxt "DC77D109"
+msgid "~z~Great, see you in a bit, Kate."
+msgstr "~z~好的，一会儿见，Kate。"
+
+msgctxt "E1DAF2E2"
+msgid "~z~Sure - I'm not doing anything now, actually. Come by."
+msgstr "~z~好啊，其实我现在也没什么事。来吧。"
+
+msgctxt "E36DEC11"
+msgid "GCK_ACT_CALL_DARTS_YES"
+msgstr "GCK_ACT_CALL_DARTS_YES"
+
+msgctxt "E477144C"
+msgid "100"
+msgstr "100"
+
+msgctxt "E65A6C1E"
+msgid "GCK_ACT_GETCALL_VERYIRATE"
+msgstr "GCK_ACT_GETCALL_VERYIRATE"
+
+msgctxt "E78C938E"
+msgid "~z~Kate, hey, it's me, Niko."
+msgstr "~z~Kate，嘿，是我，Niko。"
+
+msgctxt "EB434F9B"
+msgid "~z~What is wrong with you?"
+msgstr "~z~你怎么回事？"
+
+msgctxt "EC051A04"
+msgid "100"
+msgstr "100"
+
+msgctxt "ED3B6EEA"
+msgid "~z~I haven't heard from you in ages."
+msgstr "~z~我好久没你的消息了。"
+
+msgctxt "ED3C7292"
+msgid "~z~See you soon."
+msgstr "~z~之后见。"
+
+msgctxt "EDFEB7DA"
+msgid ""
+"~z~Are you still alive? I haven't heard from you for a very long time. Did "
+"you lose my number?"
+msgstr "~z~你还活着吗？我很久没接到你的电话了。你是弄丢了我的号码吗？"
+
+msgctxt "F051F480"
+msgid "100"
+msgstr "100"
+
+msgctxt "F4573FB5"
+msgid "~z~I was wondering if you were still alive?"
+msgstr "~z~我都在想你是不是还活着了？"
+
+msgctxt "F5393898"
+msgid "GCK_ACT_GETCALL_HOSP_ASK"
+msgstr "GCK_ACT_GETCALL_HOSP_ASK"
+
+msgctxt "F70DC945"
+msgid "~z~Sorry - I didn't realize what time it was. Go back to sleep."
+msgstr "~z~抱歉，我没意识到现在几点了。你接着睡吧。"
+
+msgctxt "F8AE42FC"
+msgid "GCK_ACT_GETCALL_GREET"
+msgstr "GCK_ACT_GETCALL_GREET"
+
+msgctxt "FAB46E8D"
+msgid "~z~Great!"
+msgstr "~z~好啊！"
+
+msgctxt "FB539097"
+msgid "GCK_ACT_GETCALL_HOSP_REJ_LOLIKE_QQQ1"
+msgstr "GCK_ACT_GETCALL_HOSP_REJ_LOLIKE_QQQ1"
+
+msgctxt "FC76669D"
+msgid "100"
+msgstr "100"
+
+msgctxt "FCFEBE72"
+msgid "~z~Hi it's me, Niko."
+msgstr "~z~嗨，是我，Niko。"
+
+msgctxt "FDE9C090"
+msgid "010"
+msgstr "010"
+
+msgctxt "FEE471B6"
+msgid "010"
+msgstr "010"

@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ROMAN12\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "24887CD"
+msgid ""
+"~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of "
+"zoom."
+msgstr "~s~瞄准时按~PAD_RSTICK_NONE~切换缩放倍率。"
+
+msgctxt "9BD17BC"
+msgid "~s~Go to the ~y~warehouse~s~ where Roman is being held."
+msgstr "~s~前往Roman所在的~y~仓库。"
+
+msgctxt "10A2B21F"
+msgid "~r~Roman has been executed."
+msgstr "~r~Roman被撕票了。"
+
+msgctxt "16F3F2FB"
+msgid ""
+"~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ when aiming to "
+"switch between differing levels of zoom."
+msgstr "~s~瞄准时使用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~切换缩放倍率。"
+
+msgctxt "182F9DBF"
+msgid "~s~Hold ~INPUT_ATTACK~ halfway before firing to increase accuracy."
+msgstr "~s~开火前半按~INPUT_ATTACK~以提高精度。"
+
+msgctxt "3525100F"
+msgid "~s~Aim carefully to take out the kidnapper and free Roman."
+msgstr "~s~仔细瞄准，击倒绑匪，解救Roman。"
+
+msgctxt "5C0544A4"
+msgid "~r~Roman has been abandoned."
+msgstr "~r~Roman被抛弃了。"
+
+msgctxt "5E58BFC4"
+msgid "~s~Use higher levels of zoom to increase accuracy."
+msgstr "~s~使用更高的缩放倍率增加精度。"
+
+msgctxt "6BB4E29E"
+msgid "~s~Use Free-Aim to take out the kidnapper and free Roman."
+msgstr "~s~使用自由瞄准击倒绑匪，解救Roman。"
+
+msgctxt "756EDE56"
+msgid "~s~Follow ~b~Roman."
+msgstr "~s~跟随~b~Roman。"
+
+msgctxt "801209E8"
+msgid "~s~Wait for ~b~Roman~s~"
+msgstr "~s~等待~b~Roman~s~"
+
+msgctxt "8DA92516"
+msgid "~s~You left ~b~Roman~s~ behind."
+msgstr "~s~你把~b~Roman~s~落下了。"
+
+msgctxt "96003080"
+msgid "~b~Roman~s~ is on the top floor. Rescue him."
+msgstr "~b~Roman~s~在顶楼，去救他。"
+
+msgctxt "EE90072D"
+msgid "~r~Roman is dead."
+msgstr "~r~Roman死了。"
+
+msgctxt "F08A6BF7"
+msgid "~s~Take Roman back to the ~y~Bohan safehouse."
+msgstr "~s~送Roman回~y~Bohan安全屋。"

@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FLW_PED\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "36E6CD8B"
+msgid "You've spooked the dealer."
+msgstr "你惊动了毒贩。"
+
+msgctxt "3BF0DD17"
+msgid "The ~r~dealer~s~ is getting away. Chase him to his supplier."
+msgstr "~r~毒贩~s~正在逃跑，跟着他找到供货商。"
+
+msgctxt "44BC6936"
+msgid "Go to find the dealer in ~y~South Bohan."
+msgstr "去~y~South Bohan~s~找那个毒贩。"
+
+msgctxt "49A6171F"
+msgid "~r~The dealer was injured.~s~"
+msgstr "~r~毒贩受伤了。~s~"
+
+msgctxt "4B6F575B"
+msgid "~r~The dealer is dead.~s~"
+msgstr "~r~毒贩死了。~s~"
+
+msgctxt "4C277B40"
+msgid "Follow the ~r~dealer~s~ to his supplier, do not attack him."
+msgstr "跟踪~r~毒贩~s~找到供货商，不要攻击他。"
+
+msgctxt "541B633B"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通缉度。"
+
+msgctxt "55BA3C27"
+msgid "~r~The dealer got away.~s~"
+msgstr "~r~毒贩跑掉了。~s~"
+
+msgctxt "61E929E3"
+msgid "Take down the ~r~dealer~s~ and his ~r~suppliers."
+msgstr "干掉~r~毒贩~s~和他的~r~供货商。"
+
+msgctxt "63FB2BC7"
+msgid "You spooked the ~r~dealer.~s~ Keep following him to the supplier."
+msgstr "你惊动了~r~毒贩，~s~继续跟着他找到供货商。"
+
+msgctxt "64A8AF92"
+msgid "You wounded the ~r~dealer,~s~ keep following him to the supplier."
+msgstr "你伤害了~r~毒贩，~s~继续跟着他找到供货商。"
+
+msgctxt "6C3E36D9"
+msgid "Don't get too close to the dealer or he'll get suspicious."
+msgstr "不要靠毒贩太近，不然他会起疑的。"
+
+msgctxt "6FAABF12"
+msgid "You killed the dealer. You will not be able to find the supplier now."
+msgstr "你把毒贩杀了，现在你找不到供货商了。"
+
+msgctxt "746B33F3"
+msgid "The dealer and suppliers are locked inside the apartment."
+msgstr "毒贩和供货商都在这间锁门的公寓中。"
+
+msgctxt "9A667113"
+msgid "Damage the ~g~lock~s~ to break open the door."
+msgstr "破坏~g~门锁~s~打开房门。"
+
+msgctxt "A305A903"
+msgid ""
+"Follow the ~r~dealer~s~ to his supplier on foot. Stay behind him and try not "
+"to be seen."
+msgstr "步行跟踪~r~毒贩~s~到其供货商处。跟在他后面，别被他发现。"
+
+msgctxt "A89F8D85"
+msgid "Shoot out the door lock to gain access to the room."
+msgstr "射烂门锁进入房间。"
+
+msgctxt "BF966224"
+msgid "You're too far away, keep the ~r~dealer~s~ within your sight."
+msgstr "你离得太远了，确保~r~毒贩~s~在你的视线范围内。"
+
+msgctxt "C54970AA"
+msgid "Go meet ~y~Little Jacob."
+msgstr "去找~y~Little Jacob。"
+
+msgctxt "D3B405C7"
+msgid ""
+"The ~r~dealer~s~ is in the apartment block. Follow, but don't attack him."
+msgstr "~r~毒贩~s~在公寓楼中。跟着他，但不要攻击他。"
+
+msgctxt "D6A09278"
+msgid ""
+"Press ~INPUT_JUMP~ to jump onto the fence, then press ~INPUT_JUMP~ to climb "
+"over."
+msgstr "按~INPUT_JUMP~跳上围栏，然后按~INPUT_JUMP~翻越。"
+
+msgctxt "D8F614E3"
+msgid "You're too close to the ~r~dealer,~s~ keep your distance."
+msgstr "你离~r~毒贩~s~太近了，保持一定距离。"
+
+msgctxt "EC0B3B0D"
+msgid "The ~r~dealer~s~ spotted you, keep following him to the supplier."
+msgstr "~r~毒贩~s~发现你了，继续跟着他找到供货商。"

@@ -1,0 +1,1019 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GCC1AUD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "F102BB"
+msgid "~z~Cool, Carmen. I'll be at your place in the next hour."
+msgstr "~z~好的，Carmen。我一小时后到你那。"
+
+msgctxt "1036601"
+msgid ""
+"~z~Carmen don't got the time to be helping you now, Niko. Maybe if you gave "
+"her more attention she might be more willing."
+msgstr "~z~Carmen现在没空帮你，Niko。也许如果你给予她更多关注，她可能会更乐意。"
+
+msgctxt "20038E6"
+msgid "GCC_ACT_PCA_CALL_SLEEPING"
+msgstr "GCC_ACT_PCA_CALL_SLEEPING"
+
+msgctxt "2902658"
+msgid "~z~Carmen."
+msgstr "~z~Carmen。"
+
+msgctxt "3BC1BBD"
+msgid "~z~Men don't keep Carmen waiting, you a man, ain't you, Niko?"
+msgstr "~z~男人可不会让Carmen久等，你是个男人，对吧，Niko？"
+
+msgctxt "4FC9907"
+msgid "100100100010"
+msgstr "100100100010"
+
+msgctxt "65D72BA"
+msgid "100"
+msgstr "100"
+
+msgctxt "68C7AD7"
+msgid "010"
+msgstr "010"
+
+msgctxt "6AABFF7"
+msgid ""
+"~z~That cool, Niko. It ain't like there aren't plenty of other men who want "
+"to take Carmen out."
+msgstr "~z~没关系，Niko。又不是没有男人愿意带Carmen出去。"
+
+msgctxt "905CB94"
+msgid "~z~Okay, Carmen going to put some clothes on."
+msgstr "~z~好的，Carmen要去换衣服了。"
+
+msgctxt "90B90F5"
+msgid ""
+"~z~Niko, it's Carmen, this job is killing me. I hate being a nurse and I "
+"hate all these sick people."
+msgstr "~z~Niko，我是Carmen，这份工作简直要了我的命。我讨厌当护士，我讨厌所有这些病人。"
+
+msgctxt "A1ED6B8"
+msgid "GCC_ACT_GETCALL_GREET"
+msgstr "GCC_ACT_GETCALL_GREET"
+
+msgctxt "AAF9F1A"
+msgid "100"
+msgstr "100"
+
+msgctxt "B625600"
+msgid "100"
+msgstr "100"
+
+msgctxt "BB2FD07"
+msgid "GCC_ACT_PCA_GETCALL_DATE_YES"
+msgstr "GCC_ACT_PCA_GETCALL_DATE_YES"
+
+msgctxt "C9B9CE1"
+msgid ""
+"~z~Poor baby, just apply pressure to any wound. Call Carmen later, okay?"
+msgstr "~z~可怜的孩子，只要按压伤口就行了。有空给Carmen打个电话，好吗？"
+
+msgctxt "CA93284"
+msgid "100"
+msgstr "100"
+
+msgctxt "D429886"
+msgid "GCC_ACT_GETCALL_HOSP_REJ_MEDLIKE"
+msgstr "GCC_ACT_GETCALL_HOSP_REJ_MEDLIKE"
+
+msgctxt "FB426E9"
+msgid "~z~I can't do that just now, Carmen. Sorry."
+msgstr "~z~我现在做不到，Carmen。抱歉。"
+
+msgctxt "109B1108"
+msgid "~z~Fuck you."
+msgstr "~z~去你的。"
+
+msgctxt "11AC5A70"
+msgid ""
+"~z~It's not like no one else has asked to come get Carmen. She just thought "
+"she'd give you first chance. Call her later, okay?"
+msgstr "~z~又不是没人主动请缨接Carmen。她只是想给你优先权。有空找她，好吗？"
+
+msgctxt "11C8C9E7"
+msgid "~z~Do you want to spend some money on Carmen?"
+msgstr "~z~你想在Carmen身上花点钱吗？"
+
+msgctxt "11FDD3BE"
+msgid ""
+"~z~Come pick me up from my place in the next hour. I got some free time for "
+"you."
+msgstr "~z~一小时后来我家接我，我刚好有空陪你。"
+
+msgctxt "1350E02A"
+msgid "~z~I'll get ready."
+msgstr "~z~我会准备好的。"
+
+msgctxt "15624BFC"
+msgid "~z~Carmen, what's up?"
+msgstr "~z~Carmen，你好吗？"
+
+msgctxt "167F5CDF"
+msgid "100"
+msgstr "100"
+
+msgctxt "1803150F"
+msgid "~z~Hello Niko."
+msgstr "~z~哈喽，Niko。"
+
+msgctxt "18406282"
+msgid "GCC_ACT_CALL_HOSP_CANCEL_MEDLIKE"
+msgstr "GCC_ACT_CALL_HOSP_CANCEL_MEDLIKE"
+
+msgctxt "1A6E691D"
+msgid "100"
+msgstr "100"
+
+msgctxt "1B4E9C35"
+msgid "GCC_ACT_PCA_CALL_GREET"
+msgstr "GCC_ACT_PCA_CALL_GREET"
+
+msgctxt "1B641799"
+msgid "100"
+msgstr "100"
+
+msgctxt "1E23C002"
+msgid "~z~You want me to take you out on a date?"
+msgstr "~z~你想我带你出去约会吗？"
+
+msgctxt "1E4905BC"
+msgid "GCC_ACT_PCA_GETCALL_SPEC_END_AA"
+msgstr "GCC_ACT_PCA_GETCALL_SPEC_END_AA"
+
+msgctxt "21AAA8DF"
+msgid "GCC_ACT_GETCALL_IRATE"
+msgstr "GCC_ACT_GETCALL_IRATE"
+
+msgctxt "21CA5CD3"
+msgid "GCC_ACT_PCA_CALL_MEDLIKE"
+msgstr "GCC_ACT_PCA_CALL_MEDLIKE"
+
+msgctxt "21CF922D"
+msgid "GCC_ACT_GETCALL_SPEC_AC"
+msgstr "GCC_ACT_GETCALL_SPEC_AC"
+
+msgctxt "227142BE"
+msgid "010"
+msgstr "010"
+
+msgctxt "23926D7A"
+msgid "~z~You should take Carmen out and spend some money on her."
+msgstr "~z~你应该带Carmen出去逛逛，在她身上花些钱。"
+
+msgctxt "239ED7D3"
+msgid "~z~Screw you, asshole."
+msgstr "~z~去你妈的，傻逼。"
+
+msgctxt "23AC92C3"
+msgid "GCC_ACT_GETCALL_SPEC_AB"
+msgstr "GCC_ACT_GETCALL_SPEC_AB"
+
+msgctxt "2417CBD9"
+msgid "~z~Oh baby, you just need to rest for a minute. Call me soon, alright?"
+msgstr "~z~噢，宝贝，你只需要休息一会儿。有空来找我，好吗？"
+
+msgctxt "24DD97E6"
+msgid ""
+"~z~I'm going to need some medical advice, Carmen. What have you got for me?"
+msgstr "~z~我需要一些医疗方面的建议，Carmen。你有什么建议吗？"
+
+msgctxt "25409DBD"
+msgid "GCC_ACT_GETCALL_REJECT_IRATE"
+msgstr "GCC_ACT_GETCALL_REJECT_IRATE"
+
+msgctxt "298831EF"
+msgid ""
+"~z~You were lucky to get this call, Niko. Carmen don't do this often. See ya!"
+msgstr "~z~接到这个电话是你的福气，Niko。Carmen一般不这么做。回见！"
+
+msgctxt "2A4922A5"
+msgid "~z~Hey Carmen, I'm not feeling so good. What can I do to get better?"
+msgstr "~z~嘿，Carmen，我有点不舒服。我要怎么做才能好转？"
+
+msgctxt "2A7C415E"
+msgid ""
+"~z~You calling Carmen Ortiz but she ain't in. Leave her a message and she "
+"call you right back."
+msgstr "~z~您呼叫的用户Carmen Ortiz不在，请给她留言，她会给您回电话的。"
+
+msgctxt "2AEDA241"
+msgid ""
+"~z~Niko, I don't know why you not be calling Carmen because no other women "
+"can give it as good as her."
+msgstr "~z~Niko，我不知道你为什么不给Carmen打电话，因为没有其他女人能像她这么优秀。"
+
+msgctxt "2F5B06D4"
+msgid "~z~On my way, Carmen."
+msgstr "~z~我这就来，Carmen。"
+
+msgctxt "2FCC5EE3"
+msgid "100"
+msgstr "100"
+
+msgctxt "301EFAB3"
+msgid "100"
+msgstr "100"
+
+msgctxt "31B9E151"
+msgid "010"
+msgstr "010"
+
+msgctxt "341FCB3E"
+msgid ""
+"~z~Sorry, Niko. Carmen is done with you. You don't pay her the attention "
+"other men do."
+msgstr "~z~抱歉，Niko。Carmen和你结束了。你没有像其他男人那样关注她。"
+
+msgctxt "34E8ED8C"
+msgid "~z~You want to go out on a date?"
+msgstr "~z~你想出去约会吗？"
+
+msgctxt "378125DF"
+msgid "010"
+msgstr "010"
+
+msgctxt "381E9174"
+msgid "~z~Hi Carmen... is Carmen there?"
+msgstr "~z~嗨，Carmen...Carmen你在吗？"
+
+msgctxt "3AC4D468"
+msgid "~z~Fine, I'll call the next guy in my address book. Too bad for you."
+msgstr "~z~好吧，那我就找通讯录上的下一个人了。真是遗憾。"
+
+msgctxt "3AF90D63"
+msgid "100"
+msgstr "100"
+
+msgctxt "3CD5B916"
+msgid "GCC_ACT_GETCALL_HOSP_REJ_HILIKE"
+msgstr "GCC_ACT_GETCALL_HOSP_REJ_HILIKE"
+
+msgctxt "3CEF0A73"
+msgid "~z~Fuck you."
+msgstr "~z~去你的。"
+
+msgctxt "3D3C0EC0"
+msgid ""
+"~z~Niko, you trying to run games on Carmen? That ain't gonna work, baby."
+msgstr "~z~Niko，你是想跟Carmen玩一夜情吗？对我不管用，宝贝。"
+
+msgctxt "3EFF5050"
+msgid ""
+"~z~I was sure you was either dead or in prison. Men don't wait this long "
+"before calling Carmen again."
+msgstr "~z~我还以为你不是死了就是进了监狱。正常男人没多久就会给Carmen打电话的。"
+
+msgctxt "3F0C4C43"
+msgid "~z~Carmen, I'm in some trouble. What will help me get better?"
+msgstr "~z~Carmen，我遇到麻烦了。有什么能让我快点好起来吗？"
+
+msgctxt "4069048C"
+msgid "~z~I'd like to take you out on a date."
+msgstr "~z~我想带你出去约会。"
+
+msgctxt "41AE2B7A"
+msgid "~z~Great, see you soon."
+msgstr "~z~太好了，待会见。"
+
+msgctxt "41CD5D82"
+msgid "100"
+msgstr "100"
+
+msgctxt "424ABA3D"
+msgid "~z~Okay, Carmen. Sorry to disturb you."
+msgstr "~z~好吧，Caremn。打扰你真不好意思。"
+
+msgctxt "451ED118"
+msgid "100"
+msgstr "100"
+
+msgctxt "4650F1AA"
+msgid "~z~Hi there, Niko."
+msgstr "~z~嗨，Niko。"
+
+msgctxt "468D7CEC"
+msgid "~z~Screw you, asshole."
+msgstr "~z~去你的，混蛋。"
+
+msgctxt "4E9FDAF2"
+msgid "~z~Niko, the hospital fixed Carmen up. You going to come collect her?"
+msgstr "~z~Niko，医院治好Carmen了。你会来接她吗？"
+
+msgctxt "4ED9EBDE"
+msgid "~z~Shit Carmen, I'm hurting bad. You got any health tips for me?"
+msgstr "~z~靠，Carmen，我伤得很重。你有什么健康建议吗？"
+
+msgctxt "5066A487"
+msgid "~z~Why don't you and me go on a date?"
+msgstr "~z~要么我们出去约个会吧？"
+
+msgctxt "50F28818"
+msgid ""
+"~z~Can't go on a date, Niko. I got a pedicure booked. Got to keep looking "
+"good."
+msgstr "~z~没法来约会，Niko。我预约了足部护理，美容必须得做。"
+
+msgctxt "53E8CFEF"
+msgid "~z~I'll see you in a while then."
+msgstr "~z~那就一会儿见。"
+
+msgctxt "5409D79A"
+msgid ""
+"~z~I'm sure some other man gonna want to pick Carmen up and have fun with "
+"her. No problem."
+msgstr "~z~肯定有别的男人想来接Carmen，再顺道找她玩的。没有问题。"
+
+msgctxt "55EAAF7E"
+msgid ""
+"~z~Shit Niko, you need to control your breathing and your heart rate will go "
+"down. Speak to you later, baby."
+msgstr "~z~Niko，你需要调整你的呼吸，这样你的心率才会降下来。待会儿聊，亲爱的。"
+
+msgctxt "5762E46D"
+msgid "~z~Sure, Carmen. I'll call you back after then."
+msgstr "~z~好的，Carmen。我之后再找你。"
+
+msgctxt "59AE633F"
+msgid "~z~Carmen, you're a lifesaver. Thank you."
+msgstr "~z~Carmen，你真是我的救星。谢谢你。"
+
+msgctxt "5A016FBD"
+msgid "100"
+msgstr "100"
+
+msgctxt "5AE72DA9"
+msgid "100"
+msgstr "100"
+
+msgctxt "5BBA58AB"
+msgid "~z~Hey."
+msgstr "~z~嘿。"
+
+msgctxt "5C5DEF6E"
+msgid "GCC_ACT_CALL_LIKENO"
+msgstr "GCC_ACT_CALL_LIKENO"
+
+msgctxt "5E9B2034"
+msgid ""
+"~z~I ain't going on no date with nobody who don't treat me like the goddess "
+"I am."
+msgstr "~z~我不和不把我当女神侍奉的人约会。"
+
+msgctxt "5F29A486"
+msgid ""
+"~z~Sorry, Niko. Someone else is taking me out. I can't go on no date with "
+"you right now."
+msgstr "~z~不好意思，Niko。有人带着我玩呢。我现在没法跟你约会。"
+
+msgctxt "5F329D43"
+msgid ""
+"~z~Guess I'll have to take care of myself tonight, Niko. You missing out."
+msgstr "~z~那我今晚只能自娱自乐了，Niko。你错过了。"
+
+msgctxt "5FA60332"
+msgid "010"
+msgstr "010"
+
+msgctxt "5FDBCAE9"
+msgid "GCC_ACT_GETCALL_ACCEPT"
+msgstr "GCC_ACT_GETCALL_ACCEPT"
+
+msgctxt "6001B79E"
+msgid "GCC_ACT_GETCALL_HOSP_REJ_LOLIKE"
+msgstr "GCC_ACT_GETCALL_HOSP_REJ_LOLIKE"
+
+msgctxt "605195BF"
+msgid ""
+"~z~If you got better things to be doing, maybe Carmen has better things to "
+"be doing as well."
+msgstr "~z~既然你有更好的事情要做，也许Carmen也有这种更好的事情。"
+
+msgctxt "60AD70F8"
+msgid ""
+"~z~My other arrangements got cancelled. I'll go on a date with you. Come get "
+"me in the next hour."
+msgstr "~z~我的其他安排都取消了。我会和你约会的。一小时内来接我。"
+
+msgctxt "63359541"
+msgid "GCC_ACT_PCA_CALL_DATE"
+msgstr "GCC_ACT_PCA_CALL_DATE"
+
+msgctxt "63395DB4"
+msgid "100"
+msgstr "100"
+
+msgctxt "63B80522"
+msgid ""
+"~z~It's weird being in the hospital because I'm sick, not because I'm "
+"working. They letting me out now, will you pick me up?"
+msgstr "~z~因为身体原因进医院的感觉很怪，和上班时不一样。我现在出院了，你能来接我吗？"
+
+msgctxt "6A2AE648"
+msgid "100"
+msgstr "100"
+
+msgctxt "6B61E746"
+msgid "GCC_ACT_PCA_GETCALL_HOSP_NO"
+msgstr "GCC_ACT_PCA_GETCALL_HOSP_NO"
+
+msgctxt "6BA50738"
+msgid "~z~Damn, Carmen, thanks. I owe you big time."
+msgstr "~z~该死，Carmen，谢谢。我欠你个大人情。"
+
+msgctxt "6CFFFB36"
+msgid "~z~Carmen, how's things?"
+msgstr "~z~Carmen，最近好吗？"
+
+msgctxt "6D0A9210"
+msgid "100"
+msgstr "100"
+
+msgctxt "6D0FA1F8"
+msgid "GCC_ACT_PCA_CALL_ACCEPTED"
+msgstr "GCC_ACT_PCA_CALL_ACCEPTED"
+
+msgctxt "6DCCD19D"
+msgid "GCC_ACT_GETCALL_REJECT_VERYIRATE"
+msgstr "GCC_ACT_GETCALL_REJECT_VERYIRATE"
+
+msgctxt "6DDEAE06"
+msgid ""
+"~z~You try to quit Carmen, but you keep coming back like a crack head to the "
+"pipe."
+msgstr "~z~你试图戒掉Carmen，却像个瘾君子一样不断地复吸。"
+
+msgctxt "6E348A96"
+msgid "~z~We'll go on a date another time."
+msgstr "~z~那我们改天再约吧。"
+
+msgctxt "6E95BB1F"
+msgid "GCC_ACT_PCA_CALL_HOSP_CANCEL"
+msgstr "GCC_ACT_PCA_CALL_HOSP_CANCEL"
+
+msgctxt "6F7D4FF5"
+msgid ""
+"~z~Carmen can't spend all her time going on dates with you, Niko. Not unless "
+"you going to really look after her."
+msgstr "~z~Carmen不能把她的时间都拿来和你约会，Niko。除非你对她付出真心。"
+
+msgctxt "700E63C5"
+msgid ""
+"~z~Just relax and make sure you got pressure on your cuts. Give Carmen a "
+"call later on, okay?"
+msgstr "~z~放轻松，确保伤口持续受到按压。有空给Carmen打个电话，好吗？"
+
+msgctxt "70784723"
+msgid "~z~I got other plans, baby. I can't let you take me out. Call me later."
+msgstr "~z~我有其他安排，亲爱的。我现在不能跟你出去。待会再打给我。"
+
+msgctxt "71C88C24"
+msgid "100"
+msgstr "100"
+
+msgctxt "72838D18"
+msgid "~z~I'm coming then."
+msgstr "~z~我来了。"
+
+msgctxt "76329C02"
+msgid ""
+"~z~Sure, Niko. Carmen gonna go on a date with you. Come pick her up from her "
+"place in the next hour."
+msgstr "~z~当然，Niko。Carmen要和你约会。一小时后来接她。"
+
+msgctxt "78ECA47D"
+msgid "~z~Carmen's going to get over it, Niko. You ain't nothing special."
+msgstr "~z~Carmen会克服的，Niko。你也没什么特别。"
+
+msgctxt "7C75A718"
+msgid "~z~Well, maybe I'll call you later."
+msgstr "~z~好吧，也许我晚点给你打电话。"
+
+msgctxt "7D41EB7E"
+msgid ""
+"~z~Carmen just went out with you, Niko. You trying to monopolize her time."
+msgstr "~z~Carmen刚跟你出去过，Niko。你是想独占她的时间。"
+
+msgctxt "7D532A94"
+msgid ""
+"~z~That really helps, Carmen. I guess there is a point to you being a nurse."
+msgstr "~z~这真的很有帮助，Carmen。我想你做护士是有价值的。"
+
+msgctxt "7D7D5EEF"
+msgid ""
+"~z~I got more important things to be doing than helping some guy who ain't "
+"giving me no attention."
+msgstr "~z~我有更重要的事情要做，没空帮助一个不关心我的人。"
+
+msgctxt "7FF6CE45"
+msgid "100"
+msgstr "100"
+
+msgctxt "80BA1533"
+msgid "GCC_ACT_CALL_LIKEYES"
+msgstr "GCC_ACT_CALL_LIKEYES"
+
+msgctxt "81CDF37A"
+msgid ""
+"~z~You ain't been calling Carmen recently. Men always come back to her "
+"though."
+msgstr "~z~你最近没给Carmen打电话，但男人总会回到她身边。"
+
+msgctxt "833919DA"
+msgid "100"
+msgstr "100"
+
+msgctxt "846AB0E6"
+msgid "~z~Okay, cool."
+msgstr "~z~好的，没问题。"
+
+msgctxt "84E468A6"
+msgid "~z~Okay, Niko. Your loss."
+msgstr "~z~好吧，Niko。这是你的损失。"
+
+msgctxt "8758CC26"
+msgid "100"
+msgstr "100"
+
+msgctxt "8765070F"
+msgid "100"
+msgstr "100"
+
+msgctxt "8AB61138"
+msgid "~z~Alright, I'll come get you in the next hour."
+msgstr "~z~好，我一小时后来接你。"
+
+msgctxt "8ACE069A"
+msgid ""
+"~z~Carmen got other people to be going out with, Niko. Call me another time."
+msgstr "~z~Carmen已经和别人约好了了，Niko。下次再打电话给我。"
+
+msgctxt "8B20446D"
+msgid "~z~Sure, maybe some other time."
+msgstr "~z~当然，也许下次吧。"
+
+msgctxt "8BE70C27"
+msgid "GCC_ACT_CALL_VERYIRATE"
+msgstr "GCC_ACT_CALL_VERYIRATE"
+
+msgctxt "8C637933"
+msgid "~z~Screw you, asshole."
+msgstr "~z~去你妈的，傻逼。"
+
+msgctxt "8C95980A"
+msgid ""
+"~z~I'm going to see a man tonight, baby. It just look like it ain't gonna be "
+"you."
+msgstr "~z~我今晚要去见个男人，宝贝。不过那个男人不是你。"
+
+msgctxt "8CC8C97F"
+msgid "~z~Thanks Carmen. I'm starting to feel better already."
+msgstr "~z~谢了，Carmen。感觉我身体好多了。"
+
+msgctxt "8CCED372"
+msgid "100"
+msgstr "100"
+
+msgctxt "8DFDB4B1"
+msgid "GCC_ACT_ANSWER_PHONE"
+msgstr "GCC_ACT_ANSWER_PHONE"
+
+msgctxt "8F7A0956"
+msgid ""
+"~z~You know what, Carmen. I've got some other shit to do. Maybe some other "
+"time."
+msgstr "~z~不好意思，Carmen。我还有些琐事要处理。改天吧。"
+
+msgctxt "90849EAD"
+msgid "GCC_ACT_CALL_SLEEP_REPLY"
+msgstr "GCC_ACT_CALL_SLEEP_REPLY"
+
+msgctxt "90AEE106"
+msgid "GCC_ACT_PCA_CALL_DATE_CANCEL"
+msgstr "GCC_ACT_PCA_CALL_DATE_CANCEL"
+
+msgctxt "92489725"
+msgid "010"
+msgstr "010"
+
+msgctxt "92AABE6E"
+msgid "GCC_ACT_CALL_DATE_NO_GENERAL"
+msgstr "GCC_ACT_CALL_DATE_NO_GENERAL"
+
+msgctxt "92F90662"
+msgid "~z~Fine, go jerk off then."
+msgstr "~z~好，打你的飞机去吧。"
+
+msgctxt "948F27B7"
+msgid "GCC_ACT_GETCALL_HOSP_ASK"
+msgstr "GCC_ACT_GETCALL_HOSP_ASK"
+
+msgctxt "96F85601"
+msgid "~z~I'll come get you, Carmen."
+msgstr "~z~我这就来接你，Carmen。"
+
+msgctxt "989C48B4"
+msgid "010"
+msgstr "010"
+
+msgctxt "993CE0A6"
+msgid "~z~Okay then. I'll call you another time."
+msgstr "~z~好吧。我改天再打给你。"
+
+msgctxt "999C3413"
+msgid ""
+"~z~That sounds like a good idea, Carmen. I'll swing by your place in the "
+"next hour."
+msgstr "~z~听起来是个好主意，Carmen。我一小时后来找你。"
+
+msgctxt "9B2028E8"
+msgid "010"
+msgstr "010"
+
+msgctxt "9D2A6271"
+msgid "~z~Alright, see you then."
+msgstr "~z~好，待会见。"
+
+msgctxt "9D810BDE"
+msgid "GCC_ACT_GETCALL_SPEC_AA"
+msgstr "GCC_ACT_GETCALL_SPEC_AA"
+
+msgctxt "9ED33C85"
+msgid ""
+"~z~Maybe I'll send you some pictures of what I get up to without you, Niko."
+msgstr "~z~我可能会给你发没有你陪伴的我的生活照，Niko。"
+
+msgctxt "A1019B3E"
+msgid "GCC_ACT_GETCALL_DATE"
+msgstr "GCC_ACT_GETCALL_DATE"
+
+msgctxt "A1BCADDB"
+msgid ""
+"~z~Sorry Carmen, I've got to spend my money on other things right now. Maybe "
+"another time."
+msgstr "~z~对不起，Caremen，我现在得把钱花在别的事情上。下次吧。"
+
+msgctxt "A1BEA3ED"
+msgid "~z~Whatever, Niko."
+msgstr "~z~随便你，Niko。"
+
+msgctxt "A3184911"
+msgid "100"
+msgstr "100"
+
+msgctxt "A395A79F"
+msgid "~z~Fuck you."
+msgstr "~z~操你妈。"
+
+msgctxt "A40F9D24"
+msgid "010"
+msgstr "010"
+
+msgctxt "A4600EEE"
+msgid "GCC_ACT_GETCALL_VERYIRATE"
+msgstr "GCC_ACT_GETCALL_VERYIRATE"
+
+msgctxt "A468825B"
+msgid "~z~You better be ready for Carmen, Niko."
+msgstr "~z~你最好准备好迎接Carmen，Niko。"
+
+msgctxt "A46B2A25"
+msgid "GCC_ACT_PCA_CALL_REQ_SPEC"
+msgstr "GCC_ACT_PCA_CALL_REQ_SPEC"
+
+msgctxt "A5986057"
+msgid "GCC_ACT_CALL_HOSP_CANCEL_LOLIKE"
+msgstr "GCC_ACT_CALL_HOSP_CANCEL_LOLIKE"
+
+msgctxt "A71C6F6A"
+msgid "~z~Hey Carmen."
+msgstr "~z~嘿，Carmen。"
+
+msgctxt "A8420406"
+msgid "GCC_ACT_CALL_HOSP_CANCEL_HILIKE"
+msgstr "GCC_ACT_CALL_HOSP_CANCEL_HILIKE"
+
+msgctxt "A8C6799D"
+msgid "~z~Okay, see you then."
+msgstr "~z~好吧，待会儿见。"
+
+msgctxt "A925C5A7"
+msgid ""
+"~z~Carmen going to reward you for your persistence. Come pick her up from "
+"her place in the next hour."
+msgstr "~z~Carmen决定给你的坚持奖励。一小时后来接她。"
+
+msgctxt "AC89F383"
+msgid "100"
+msgstr "100"
+
+msgctxt "ACA14CEE"
+msgid "100"
+msgstr "100"
+
+msgctxt "ADCC8715"
+msgid "~z~Shit, Carmen don't know why she even called you in the first place."
+msgstr "~z~靠，Carmen都不知道她为什么先给你打电话。"
+
+msgctxt "ADF8A2B6"
+msgid "010"
+msgstr "010"
+
+msgctxt "AE23DB27"
+msgid ""
+"~z~Shit, you can do that? It might be real useful, Carmen. I'll talk to you "
+"soon."
+msgstr "~z~靠，你能做到吗？大概会很有用的，Carmen。有空再联系。"
+
+msgctxt "B07C71E1"
+msgid ""
+"~z~Carmen's in bed, Niko. She going to be done about 1pm so call back after "
+"then."
+msgstr "~z~Carmen在睡觉，Niko。她会在下午1点醒来，请在那之后打过来。"
+
+msgctxt "B5EAD426"
+msgid "GCC_ACT_CALL_BREAK_UP"
+msgstr "GCC_ACT_CALL_BREAK_UP"
+
+msgctxt "B6BB2700"
+msgid "~z~You going to have a good time tonight, Niko."
+msgstr "~z~你今晚会很开心的，Niko。"
+
+msgctxt "B75D3424"
+msgid "~z~Whatever, Niko. See ya."
+msgstr "~z~随你便，Niko。再见。"
+
+msgctxt "B78E5EF6"
+msgid ""
+"~z~Shit, Niko. You been in jail or something? Carmen ain't heard from you in "
+"a while."
+msgstr "~z~操，Niko。你是蹲监狱去了吗？Carmen好久没有你的消息了。"
+
+msgctxt "B7E1838A"
+msgid "100"
+msgstr "100"
+
+msgctxt "B820F56E"
+msgid ""
+"~z~Carmen, I have to cancel our date. Sorry if you've cancelled any other "
+"plans."
+msgstr "~z~Carmen，我们的约会只能取消了。很抱歉你为此取消了你的其他安排。"
+
+msgctxt "B8466C58"
+msgid "~z~Sure, wait for me for the next hour."
+msgstr "~z~当然，等我一小时。"
+
+msgctxt "B8B125C4"
+msgid ""
+"~z~Sorry, Carmen, but I can't come collect you from the hospital anymore. I "
+"hope that's cool."
+msgstr "~z~对不起，Carmen，但我不能来医院接你了。希望没关系。"
+
+msgctxt "B8BF691A"
+msgid "GCC_ACT_PCA_CALL_HILIKE"
+msgstr "GCC_ACT_PCA_CALL_HILIKE"
+
+msgctxt "BBCA77E9"
+msgid ""
+"~z~Carmen, you're a free agent now. It's over between you and me. Look after "
+"yourself."
+msgstr "~z~Carmen，你现在自由了。你和我之间的关系结束了。照顾好你自己。"
+
+msgctxt "BECF8E3A"
+msgid "~z~Fine, go jerk off then."
+msgstr "~z~好，打你的飞机去吧。"
+
+msgctxt "BEFF2455"
+msgid "~z~Why don't you take me out somewhere nice?"
+msgstr "~z~你为什么不带我去些好地方呢？"
+
+msgctxt "C0818885"
+msgid "~z~No can do, Carmen, sorry."
+msgstr "~z~不行，Carmen，对不起。"
+
+msgctxt "C18781EE"
+msgid ""
+"~z~But I like you, baby. I thought if you ever need some nursing you could "
+"just call me up and I'll help you out on the phone."
+msgstr "~z~但我喜欢你，宝贝。我想如果你需要护理的话，可以打电话给我，我会在电话里帮你。"
+
+msgctxt "C1E2A6C4"
+msgid "GCC_ACT_GETCALL_REJECT"
+msgstr "GCC_ACT_GETCALL_REJECT"
+
+msgctxt "C1EBC7B5"
+msgid "100"
+msgstr "100"
+
+msgctxt "C1ED74DC"
+msgid ""
+"~z~Don't try to hold me down, I'm a modern woman and I ain't gonna spend all "
+"my time with you."
+msgstr "~z~别想束缚我，我是个现代女性，不会把所有的时间都花在你身上。"
+
+msgctxt "C33DF9D7"
+msgid ""
+"~z~I going to give you another chance. You'd be real stupid to fuck it up. "
+"Come pick me up in the next hour."
+msgstr "~z~我再给你一次机会。你要是再搞砸就蠢到家了。一小时后来接我。"
+
+msgctxt "C38DED4D"
+msgid ""
+"~z~I can't go on a date with you now, Niko. There's some fucking emergency "
+"at the hospital. So boring."
+msgstr "~z~我现在不能和你约会，Nilo。医院现在有紧急情况。非常烦。"
+
+msgctxt "C6ADCF8C"
+msgid "GCC_ACT_PCA_CALL_REJECTED"
+msgstr "GCC_ACT_PCA_CALL_REJECTED"
+
+msgctxt "C882A1A0"
+msgid "~z~Whatever, Niko."
+msgstr "~z~随便，Niko。"
+
+msgctxt "C90B492B"
+msgid ""
+"~z~I guess you busy. There'll be plenty of other people who'll come get me "
+"though. See you soon."
+msgstr "~z~我想你很忙吧。但还有很多人能来接我。再见。"
+
+msgctxt "CA14147C"
+msgid ""
+"~z~Carmen, I know this wasn't nothing serious, but I can't be dating you no "
+"more. We're over."
+msgstr "~z~Carmen，我知道这很难接受，但我不能再和你约会了。我们之间结束了。"
+
+msgctxt "CB6B88E0"
+msgid "~z~I'll be waiting, Niko."
+msgstr "~z~我会等你的，Niko。"
+
+msgctxt "CE9AAE21"
+msgid "~z~Shit, Niko. Carmen getting some sleep. Call her back after 1pm."
+msgstr "~z~该死，Niko。Carmen正在休息。下午一点后再打给她。"
+
+msgctxt "CFBF302C"
+msgid "010"
+msgstr "010"
+
+msgctxt "D078BCC6"
+msgid ""
+"~z~You think you something special? Carmen was going to call you and cancel "
+"anyway."
+msgstr "~z~你觉得你很特别吗？Carmen本来就想打电话取消这次约会。"
+
+msgctxt "D11E0746"
+msgid "~z~Hey Niko."
+msgstr "~z~嘿，Niko。"
+
+msgctxt "D27C3038"
+msgid "100"
+msgstr "100"
+
+msgctxt "D3012F19"
+msgid "GCC_ACT_CALL_REQ_SPEC_YES"
+msgstr "GCC_ACT_CALL_REQ_SPEC_YES"
+
+msgctxt "D3592591"
+msgid "~z~You'll feel much better."
+msgstr "~z~你会感觉好多了的。"
+
+msgctxt "D584B3F3"
+msgid "100"
+msgstr "100"
+
+msgctxt "D713899D"
+msgid "GCC_ACT_PCA_GETCALL_DATE_NO"
+msgstr "GCC_ACT_PCA_GETCALL_DATE_NO"
+
+msgctxt "D74DAF75"
+msgid ""
+"~z~Okay, I'll come and get you from your place at some point in the next "
+"sixty minutes."
+msgstr "~z~好吧，我会在接下来一小时内来接你的。"
+
+msgctxt "D8124A3C"
+msgid "GCC_ACT_PCA_CALL_LOLIKE"
+msgstr "GCC_ACT_PCA_CALL_LOLIKE"
+
+msgctxt "DACED172"
+msgid "~z~Yeah, Carmen didn't want to be seeing you in the first place, okay."
+msgstr "~z~是啊，Carmen一开始就不想见到你，好吧。"
+
+msgctxt "DCF0AD4D"
+msgid ""
+"~z~That's cool. You just missing out on all the fun you could have with me "
+"is all."
+msgstr "~z~没事。只不过你错过了一段可能的欢乐时光罢了。"
+
+msgctxt "DD47C92C"
+msgid "100"
+msgstr "100"
+
+msgctxt "DD9339E8"
+msgid ""
+"~z~There be plenty of men who'd kill to be in your position, remember that."
+msgstr "~z~有的是人愿意顶替你当我的男友，记住了。"
+
+msgctxt "DF273EA2"
+msgid ""
+"~z~Hey, I'm sorry about this but Niko don't want to go out with Carmen no "
+"more."
+msgstr "~z~嘿，我很抱歉，但是Niko不想再和Carmen出去了。"
+
+msgctxt "E2902A2A"
+msgid "~z~Niko."
+msgstr "~z~Niko。"
+
+msgctxt "E4240111"
+msgid "010"
+msgstr "010"
+
+msgctxt "E77B4CEF"
+msgid "GCC_ACT_CALL_IRATE"
+msgstr "GCC_ACT_CALL_IRATE"
+
+msgctxt "ED3BAD73"
+msgid "GCC_ACT_PCA_GETCALL_HOSP_YES"
+msgstr "GCC_ACT_PCA_GETCALL_HOSP_YES"
+
+msgctxt "ED6EEFC5"
+msgid "010"
+msgstr "010"
+
+msgctxt "EE6FEE5A"
+msgid "GCC_ACT_CALL_MED_ADVICE"
+msgstr "GCC_ACT_CALL_MED_ADVICE"
+
+msgctxt "EF54DD6B"
+msgid "~z~Carmen real disappointed, Niko."
+msgstr "~z~Carmen非常失望，Niko。"
+
+msgctxt "EF667FFD"
+msgid "~z~Hi there."
+msgstr "~z~嗨。"
+
+msgctxt "F0A1827B"
+msgid "~z~Hello."
+msgstr "~z~你好。"
+
+msgctxt "F279E353"
+msgid "GCC_ACT_GETCALL_REJECT_VERYIRATE"
+msgstr "GCC_ACT_GETCALL_REJECT_VERYIRATE"
+
+msgctxt "F2AA662E"
+msgid ""
+"~z~I like the sound of that very much, Carmen. Wait for me at your place for "
+"an hour."
+msgstr "~z~这个主意好啊，Carmen。你在家等我一小时。"
+
+msgctxt "F65412FE"
+msgid "~z~How about you pick me up, you take me out, you treat me good. Okay?"
+msgstr "~z~你来接我，带我出去，好好对待我，如何？"
+
+msgctxt "F83F5F09"
+msgid "GCC_ACT_CALL_DATE_NO_RECENT"
+msgstr "GCC_ACT_CALL_DATE_NO_RECENT"
+
+msgctxt "FA9701A0"
+msgid "GCC_ACT_CALL_REQ_SPEC_NO"
+msgstr "GCC_ACT_CALL_REQ_SPEC_NO"
+
+msgctxt "FACEF45C"
+msgid "010"
+msgstr "010"
+
+msgctxt "FCD0C9E1"
+msgid "GCC_ACT_CALL_DATE_YES"
+msgstr "GCC_ACT_CALL_DATE_YES"
+
+msgctxt "FCDD59E4"
+msgid "GCC_ACT_GETCALL_HOSP_ACCEPT"
+msgstr "GCC_ACT_GETCALL_HOSP_ACCEPT"
+
+msgctxt "FDA96D5B"
+msgid "~z~See you then."
+msgstr "~z~再见。"
+
+msgctxt "FE0A4877"
+msgid "~z~Niko, you too important to be calling Carmen now?"
+msgstr "~z~Niko，你已经忙到不肯给Carmen打电话了吗？"
+
+msgctxt "FF2BAE1A"
+msgid ""
+"~z~I ain't got nothing going on right now. Come get me from my place. I'll "
+"wait an hour."
+msgstr "~z~我现在没事做。来我家接我。我等你一小时。"

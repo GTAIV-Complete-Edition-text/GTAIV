@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ROMAN4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "28176037"
+msgid "~s~Press ~PAD_B~ for right punch"
+msgstr "~s~按~PAD_B~用右直拳攻击"
+
+msgctxt "3A430492"
+msgid ""
+"~s~Press ~INPUT_MELEE_ATTACK1~ to punch.~n~Press ~INPUT_MELEE_ATTACK2~ for "
+"alternative punch.~n~~s~Press ~INPUT_MELEE_KICK~ to kick."
+msgstr ""
+"~s~按~INPUT_MELEE_ATTACK1~拳击。~n~按~INPUT_MELEE_ATTACK2~也是拳击。~n~~s~按~INPUT_MELEE"
+"_KICK~踢击。"
+
+msgctxt "48DEA2D1"
+msgid ""
+"~r~Dardan~s~ has abandoned his car. He's escaping on foot up the staircase."
+msgstr "~r~Dardan~s~抛弃了车。他正在楼梯上徒步逃跑。"
+
+msgctxt "57913917"
+msgid ""
+"~s~The color of the segments represent the type of character you are locked "
+"onto. Red indicates an enemy."
+msgstr "~s~短弧的颜色代表被锁定人物的类型。红色表示敌人。"
+
+msgctxt "5E1920B6"
+msgid "~s~Go and get ~b~Roman."
+msgstr "~s~去接~b~Roman。"
+
+msgctxt "5F20CE4D"
+msgid "~s~Hold ~INPUT_MELEE_BLOCK~ to block."
+msgstr "~s~按住~INPUT_MELEE_BLOCK~格挡。"
+
+msgctxt "63F6A929"
+msgid "~s~Beat up ~r~Bledar."
+msgstr "~s~打倒~r~Bledar。"
+
+msgctxt "63FD339A"
+msgid ""
+"~s~Tap ~INPUT_MELEE_BLOCK~ as your opponent attacks to dodge. Press "
+"~INPUT_MELEE_ATTACK1~ or ~INPUT_MELEE_ATTACK2~ after dodging to perform a "
+"powerful counter move."
+msgstr ""
+"~s~对手攻击时可按~INPUT_MELEE_BLOCK~闪避。~n~闪避后可按~INPUT_MELEE_ATTACK1~或~INPUT_MELEE_AT"
+"TACK2~进行反击。"
+
+msgctxt "6FD4746B"
+msgid "~s~Press ~PAD_START~ and choose 'Display' to toggle on/off GPS route."
+msgstr "~s~按下~PAD_START~后选择「显示」可开关GPS路线。"
+
+msgctxt "76314D9E"
+msgid "~s~Go and rescue ~b~Roman."
+msgstr "~s~去救~b~Roman。"
+
+msgctxt "90688450"
+msgid "~s~Wait for ~b~Roman."
+msgstr "~s~等待~b~Roman。"
+
+msgctxt "96DF6974"
+msgid ""
+"~s~To disarm your opponent, tap ~INPUT_MELEE_BLOCK~ to dodge then press "
+"~INPUT_MELEE_ATTACK2~ or ~INPUT_MELEE_ATTACK1~ to disarm."
+msgstr ""
+"~s~若要解除对手的武装，先按~INPUT_MELEE_BLOCK~闪避，再按~INPUT_MELEE_ATTACK2~或~INPUT_MELEE_ATT"
+"ACK1~缴械。"
+
+msgctxt "995F175D"
+msgid "~s~Go and help ~b~Roman."
+msgstr "~s~解救~b~Roman。"
+
+msgctxt "99C6D76D"
+msgid "~r~Roman is dead."
+msgstr "~r~Roman死了。"
+
+msgctxt "A818E03C"
+msgid "~s~Hold ~INPUT_AIM~ to lock onto your target."
+msgstr "~s~按住~INPUT_AIM~锁定目标。"
+
+msgctxt "AFD84433"
+msgid "~s~Drive Roman to the ~y~garage."
+msgstr "~s~送Roman回~y~车行。"
+
+msgctxt "B4E64D4B"
+msgid "~s~Chase ~r~Dardan."
+msgstr "~s~追逐~r~Dardan。"
+
+msgctxt "B5328E44"
+msgid "~r~You went too far."
+msgstr "~r~你做得太过了。"
+
+msgctxt "BF2C61D7"
+msgid "~s~Get in ~b~Roman's car."
+msgstr "~s~进入~b~Roman的车。"
+
+msgctxt "C774B2C8"
+msgid "~r~Dardan has escaped."
+msgstr "~r~Dardan跑掉了。"
+
+msgctxt "D0BE455B"
+msgid "~r~Roman's car has been abandoned."
+msgstr "~r~Roman的车被抛弃了。"
+
+msgctxt "D64A5743"
+msgid ""
+"~s~If an enemy is above or below you an arrow will be displayed on their "
+"radar blip."
+msgstr "~s~如果一个敌人处在你的上方或下方，他们在小地图上的图标中将显示一个箭头。"
+
+msgctxt "E2F969D1"
+msgid "~r~Roman's car has been trashed."
+msgstr "~r~Roman的车被毁了。"
+
+msgctxt "E37DD705"
+msgid ""
+"~s~While locked onto an enemy, the target reticule's eight central segments "
+"represent their health."
+msgstr "~s~锁定敌人时，准星中的八个短弧表示他们的血量。"
+
+msgctxt "F03BCC11"
+msgid "~s~Beat up ~r~Kalem."
+msgstr "~s~打倒~r~Kalem。"
+
+msgctxt "F1E1F3BD"
+msgid "~s~Take out ~r~Dardan."
+msgstr "~s~干掉~r~Dardan。"
+
+msgctxt "FE20201E"
+msgid "~r~You left Roman behind."
+msgstr "~r~你抛弃了Roman。"

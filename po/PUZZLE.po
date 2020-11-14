@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PUZZLE\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "3C2D18"
+msgid ""
+"If a group of four blocks of the same color are arranged to form a square "
+"they will become a larger block of that color."
+msgstr "当一组同色方块形成正方形时，它们会变成一个同色的大方块。"
+
+msgctxt "1FEEAD7"
+msgid ""
+"Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue."
+msgstr "按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~继续。"
+
+msgctxt "1116952A"
+msgid "~s~NEXT"
+msgstr "~s~下一个"
+
+msgctxt "1339B4FB"
+msgid "~s~EXIT GAME"
+msgstr "~s~退出游戏"
+
+msgctxt "1BE36031"
+msgid "~s~LEVEL"
+msgstr "~s~等级"
+
+msgctxt "1E6F074F"
+msgid ""
+"For each of these larger blocks that are removed the power bar will increase."
+msgstr "每消除一个大方块，能量槽就会填充一格。"
+
+msgctxt "1EFDECEC"
+msgid "~s~EXIT TUTORIAL"
+msgstr "~s~退出教程"
+
+msgctxt "23FB748A"
+msgid ""
+"These larger blocks are removed from the grid by destroying a normal "
+"sequence of same colored blocks."
+msgstr "消除大方块并不会消除相邻的同色方块。"
+
+msgctxt "2999CD2E"
+msgid "~s~CONFIRM"
+msgstr "~s~确认"
+
+msgctxt "2C4E6829"
+msgid "~s~SCORE"
+msgstr "~s~得分"
+
+msgctxt "45B21ABE"
+msgid "YOU SCORED"
+msgstr "你的得分"
+
+msgctxt "620A8E95"
+msgid "It takes four large blocks to completely fill the power bar."
+msgstr "填满一次能量槽需要消除四个大方块。"
+
+msgctxt "6B70C390"
+msgid ""
+"Once removed from the grid any blocks above those removed will fall down to "
+"fill the empty spaces."
+msgstr "方块消除后，原先在其上方的方块就会下落填补空位。"
+
+msgctxt "6BF824BE"
+msgid "~s~x ~1~"
+msgstr "~s~x ~1~"
+
+msgctxt "6DB4A5E9"
+msgid ""
+"Once the power bar has been filled once you can use a power up by pressing "
+"either ~PAD_X~, ~PAD_Y~, ~PAD_A~ or ~PAD_B~."
+msgstr "能量槽填满后，你可以按~PAD_X~~PAD_Y~~PAD_A~~PAD_B~中的一个发动能量特技。"
+
+msgctxt "6F323527"
+msgid "~s~POWER"
+msgstr "~s~能量"
+
+msgctxt "7064C936"
+msgid "~e~"
+msgstr "~e~"
+
+msgctxt "7C1E675D"
+msgid "~PAD_UP~"
+msgstr "~PAD_UP~"
+
+msgctxt "7F11C8A3"
+msgid ""
+"A maximum of three power up uses can be stored for future use by repeatedly "
+"filling up the power bar."
+msgstr "能量槽可反复填充，但最多只能储存三个能量特技。"
+
+msgctxt "7F385CDF"
+msgid "~PAD_DOWN~"
+msgstr "~PAD_DOWN~"
+
+msgctxt "8B75152F"
+msgid "PRESS ~PAD_A~ TO EXIT TUTORIAL"
+msgstr "按~PAD_A~退出教程"
+
+msgctxt "8F332E2D"
+msgid "~s~CONTINUE"
+msgstr "~s~继续"
+
+msgctxt "9286F221"
+msgid "QUIT"
+msgstr "退出"
+
+msgctxt "974E12C3"
+msgid "~s~HI SCORE"
+msgstr "~s~最高分"
+
+msgctxt "9FD82C5A"
+msgid ""
+"Each time empty spaces are removed the score for each block removal gets "
+"multiplied."
+msgstr "每次消除都会增加消除单位方块可获得的分数。"
+
+msgctxt "9FFAB8D7"
+msgid "~s~SPECIAL"
+msgstr "~s~特技"
+
+msgctxt "A385A618"
+msgid "THE PUZZLE GAME YOU'VE PLAYED BEFORE"
+msgstr "你　从　前　玩　过　的　益　智　游　戏"
+
+msgctxt "AFB2961A"
+msgid "HI-SCORES"
+msgstr "排行榜"
+
+msgctxt "B3D0D44B"
+msgid ""
+"Blocks are removed by forming a sequence of four or more similarly colored "
+"blocks so their faces are touching."
+msgstr "将四个及以上的同色方块连在一起可消除方块。"
+
+msgctxt "B58ACB11"
+msgid "~s~SELECT CHARACTER"
+msgstr "~s~选择字母"
+
+msgctxt "BEC1135B"
+msgid ""
+"The falling block is rotated around the central axis by pressing either "
+"~INPUT_KB_LEFT~ or ~INPUT_KB_RIGHT~, or using ~PAD_LSTICK_LEFTRIGHT~."
+msgstr "使用~INPUT_KB_LEFT~~INPUT_KB_RIGHT~或~PAD_LSTICK_LEFTRIGHT~可绕中轴旋转下落的方块。"
+
+msgctxt "C082FFF0"
+msgid "~INPUT_FRONTEND_CANCEL~"
+msgstr "~INPUT_FRONTEND_CANCEL~"
+
+msgctxt "C2B60456"
+msgid "~INPUT_FRONTEND_ACCEPT~"
+msgstr "~INPUT_FRONTEND_ACCEPT~"
+
+msgctxt "C586FE95"
+msgid ""
+"Once the power bar has been filled once you can use a power up by pressing "
+"either ~INPUT_FRONTEND_MINIGAME_1~, ~INPUT_FRONTEND_MINIGAME_2~, "
+"~INPUT_FRONTEND_MINIGAME_3~ or ~INPUT_FRONTEND_MINIGAME_4~."
+msgstr ""
+"能量槽填满后，你可以按~INPUT_FRONTEND_MINIGAME_1~~INPUT_FRONTEND_MINIGAME_2~~INPUT_FRONT"
+"END_MINIGAME_3~~INPUT_FRONTEND_MINIGAME_4~中的一个发动能量特技。"
+
+msgctxt "C682D44B"
+msgid "TUTORIAL"
+msgstr "教程"
+
+msgctxt "C72DA8AD"
+msgid "START"
+msgstr "开始"
+
+msgctxt "C8CFA20D"
+msgid ""
+"Randomly colored blocks are created at the top of the screen and will fall "
+"down the grid."
+msgstr "随机颜色的方块会从屏幕顶端落下。"
+
+msgctxt "CAC6D93E"
+msgid "~s~BACK"
+msgstr "~s~返回"
+
+msgctxt "CC98E93B"
+msgid "~s~SCROLL"
+msgstr "~s~移动"
+
+msgctxt "D88E418A"
+msgid ""
+"The aim of the game is to prevent the colored blocks from reaching the top "
+"of the grid."
+msgstr "此游戏以不让彩色方块堆到网格顶端为目标。"
+
+msgctxt "DA712CBD"
+msgid "YOU'LL NEED TO DO BETTER THAN THAT TO ENTER THE HI-SCORE TABLE!"
+msgstr "你需要更高的得分才能登录排行榜！"
+
+msgctxt "DB557E6F"
+msgid "~s~SELECT"
+msgstr "~s~选择"
+
+msgctxt "E6E6B85A"
+msgid "GAME OVER"
+msgstr "GAME OVER"
+
+msgctxt "EB43D97F"
+msgid "~1~"
+msgstr "~1~"
+
+msgctxt "F101F7DC"
+msgid ""
+"Using ~PAD_DPAD_DOWN~ or ~PAD_LSTICK_DOWN~ will increase the speed at which "
+"the blocks fall."
+msgstr "使用~PAD_DPAD_DOWN~或~PAD_LSTICK_DOWN~可加快方块的下落。"

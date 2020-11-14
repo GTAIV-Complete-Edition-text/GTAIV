@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DERRIC3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "E32C8C5"
+msgid "~s~Block off the ~y~Booth Tunnel."
+msgstr "~s~封堵~y~Booth隧道。"
+
+msgctxt "1AD4371E"
+msgid "~r~The Stockade has been destroyed."
+msgstr "~r~囚车被毁了。"
+
+msgctxt "2ED80A0F"
+msgid "~s~Blow up the ~r~Patriot."
+msgstr "~s~炸掉那辆~r~Patriot。"
+
+msgctxt "34A7137D"
+msgid "~s~Ditch the truck in the ~y~quiet location."
+msgstr "~s~找个~y~偏僻的地方~s~处理囚车。"
+
+msgctxt "37179B92"
+msgid "~s~Get back in the ~b~Stockade."
+msgstr "~s~回到~b~囚车~s~上。"
+
+msgctxt "4057B69F"
+msgid "~s~Mission Passed."
+msgstr "~s~任务完成。"
+
+msgctxt "4080AD60"
+msgid "~s~Get the ~b~truck."
+msgstr "~s~取得~b~卡车。"
+
+msgctxt "42FA076D"
+msgid "~r~Mission Failed."
+msgstr "~r~任务失败。"
+
+msgctxt "4B6CC338"
+msgid "~s~Take Aiden to the ~y~cliffs."
+msgstr "~s~带Aiden去~y~悬崖。"
+
+msgctxt "5195508D"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通缉度。"
+
+msgctxt "57EBDA06"
+msgid "~s~Get back in the ~b~escape car."
+msgstr "~s~回到~b~逃跑用车~s~上。"
+
+msgctxt "611DEE9A"
+msgid "~s~Take out the ~r~escorts."
+msgstr "~s~干掉~r~护卫。"
+
+msgctxt "66E5F7FA"
+msgid "~s~Get to the ~y~escape car."
+msgstr "~s~取得~y~逃亡车。"
+
+msgctxt "67C97CF5"
+msgid "~s~Get back in the ~b~truck."
+msgstr "~s~进入~b~卡车。"
+
+msgctxt "720C9187"
+msgid "~s~Get ready to attack."
+msgstr "~s~准备发动攻击。"
+
+msgctxt "7D39A6CD"
+msgid "~s~Steal the ~b~Stockade."
+msgstr "~s~偷走~b~囚车。"
+
+msgctxt "83D8351E"
+msgid "~s~Wait for ~b~Packie."
+msgstr "~s~等待~b~Packie."
+
+msgctxt "939BD391"
+msgid "~s~Shoot the ~g~logs~s~ off the flatbed."
+msgstr "~s~把~g~木材~s~打下平板车。"
+
+msgctxt "983FB1F7"
+msgid "~r~The flatbed has been destroyed."
+msgstr "~r~平板车被毁坏了。"
+
+msgctxt "A3D97520"
+msgid "~s~Kill ~r~Aiden."
+msgstr "~s~杀了~r~Aiden。"
+
+msgctxt "A7E1FC1D"
+msgid "~s~Wait for the convoy."
+msgstr "~s~等待押运车队。"
+
+msgctxt "AA5F822C"
+msgid "~s~Move out of the Stockade's path."
+msgstr "~s~走出Stockade小径。"
+
+msgctxt "AD64DC41"
+msgid "~r~Packie is dead."
+msgstr "~r~Packie死了。"
+
+msgctxt "B24BE60F"
+msgid "~r~Aiden is dead. His body will be found."
+msgstr "~r~Aiden死了。他的尸体会被发现的。"
+
+msgctxt "C098AE9E"
+msgid "~s~Drive through the park to reach the cliffs."
+msgstr "~s~驾车穿过公园到达悬崖。"
+
+msgctxt "C0BE82F4"
+msgid "~r~Aiden has escaped."
+msgstr "~r~Aiden跑掉了。"
+
+msgctxt "C4A5CEE7"
+msgid "~s~Park the truck across the two markers to block the tunnel."
+msgstr "~s~将卡车横停在两个标记之间以封堵隧道。"
+
+msgctxt "D5865879"
+msgid "~s~Go and talk to ~b~Packie."
+msgstr "~s~去跟~b~Packie~s~交谈。"
+
+msgctxt "DC2C65C5"
+msgid "~s~You are leaving ~b~Packie~s~ behind."
+msgstr "~s~你把~b~Packie~s~落下了。"
+
+msgctxt "E6604E37"
+msgid "~r~The escape car has been destroyed."
+msgstr "~r~逃亡车已经被毁坏。"
+
+msgctxt "F36C1338"
+msgid "~s~Pick up the ~g~rocket launcher."
+msgstr "~s~拿起~g~火箭发射器。"
+
+msgctxt "F3C1E8FA"
+msgid "~r~You have abandoned Packie."
+msgstr "~r~你抛弃了Packie。"

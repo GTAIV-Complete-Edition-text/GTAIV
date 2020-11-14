@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PICKMAL\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "8F55C8"
+msgid ""
+"~s~The ~BLIP_50~ icon represents a clothes shop, you can visit at any time "
+"to buy new clothes."
+msgstr "~s~~BLIP_50~表示服装店，你可以随时去购置新的服装。"
+
+msgctxt "6649EDA"
+msgid "~s~Get in ~b~Roman's car."
+msgstr "~s~进入~b~Roman的车。"
+
+msgctxt "17A34B60"
+msgid ""
+"~s~Use ~PAD_DPAD_LEFTRIGHT~ to cycle between radio stations when in a "
+"vehicle."
+msgstr "~s~用~PAD_DPAD_LEFTRIGHT~可在车上切换电台。"
+
+msgctxt "1C16105D"
+msgid ""
+"~s~Press ~INPUT_VEH_HORN~ to sound your horn to attract the girls' attention."
+msgstr "~s~按~INPUT_VEH_HORN~鸣笛引起她们的注意。"
+
+msgctxt "29C2EF9F"
+msgid "~s~Hold ~PAD_DPAD_DOWN~ to switch off the radio."
+msgstr "~s~长按~PAD_DPAD_DOWN~可关闭收音机。"
+
+msgctxt "3329026B"
+msgid "~s~Use ~PAD_DPAD_LEFTRIGHT~ again to switch the radio back on."
+msgstr "~s~按~PAD_DPAD_LEFTRIGHT~可再次打开收音机。"
+
+msgctxt "4A2C9101"
+msgid "~r~Michelle was injured."
+msgstr "~r~Michelle受伤了。"
+
+msgctxt "4CE12BD6"
+msgid "~s~Take them back to ~y~Michelle's apartment."
+msgstr "~s~送她们回~y~Michelle的公寓。"
+
+msgctxt "538683BB"
+msgid "~s~Use ~INPUT_TURN_OFF_RADIO~ to switch off the radio."
+msgstr "~s~按~INPUT_TURN_OFF_RADIO~可关闭收音机。"
+
+msgctxt "5C008CB1"
+msgid "Buy some new clothes."
+msgstr "购置些新服装。"
+
+msgctxt "65E5A07B"
+msgid "That should be enough to impress Michelle..."
+msgstr "这样应该可以给Michelle留下好印象..."
+
+msgctxt "6F0F5AC6"
+msgid "~r~Michelle is dead."
+msgstr "~r~Michelle死了。"
+
+msgctxt "6F57F0C3"
+msgid "~s~You left ~b~Mallorie~s~ behind, go back and get her."
+msgstr "~s~你把~b~Mallorie~s~落下了，回去找她。"
+
+msgctxt "7A6749B5"
+msgid ""
+"~s~Use ~INPUT_VEH_NEXT_RADIO~ or ~INPUT_VEH_PREV_RADIO~ again to switch the "
+"radio back on."
+msgstr "~s~用~INPUT_VEH_NEXT_RADIO~或~INPUT_VEH_PREV_RADIO~可再次打开收音机。"
+
+msgctxt "7FDEFC65"
+msgid "~r~Mallorie was injured."
+msgstr "~r~Mallorie受伤了。"
+
+msgctxt "82B30221"
+msgid "~r~The shop assistant has been injured."
+msgstr "~r~店员受伤了。"
+
+msgctxt "943CA520"
+msgid "~r~Michelle and Mallorie are dead."
+msgstr "~r~Michelle和Mallorie死了。"
+
+msgctxt "B2CF3FBD"
+msgid "~s~Go to the ~y~subway station."
+msgstr "~s~前往~y~地铁站。"
+
+msgctxt "B8DA6E5B"
+msgid "~r~The car was trashed."
+msgstr "~r~车子坏了。"
+
+msgctxt "B9656F85"
+msgid "~r~You have abandoned the car.~s~"
+msgstr "~r~你抛弃了车。~s~"
+
+msgctxt "BC0F5239"
+msgid "~s~Get back in the ~b~car."
+msgstr "~s~回到~b~车~s~上。"
+
+msgctxt "CA0610B2"
+msgid "~r~Mallorie is dead."
+msgstr "~r~Mallorie死了。"
+
+msgctxt "DA4F0948"
+msgid "Get to the clothes shop on Mohawk and buy some new clothes."
+msgstr "去Mohawk的服装店买点新衣服。"
+
+msgctxt "E3E159D4"
+msgid ""
+"~s~You left ~b~Mallorie ~s~and~b~ Michelle~s~ behind, go back and get them."
+msgstr "~s~你把~b~Mallorie~s~和~b~Michelle~s~落下了，回去找她们。"
+
+msgctxt "F05472BA"
+msgid "~s~You left ~b~Michelle~s~ behind, go back and get her."
+msgstr "~s~你把~b~Michelle~s~落下了，回去找她。"
+
+msgctxt "FD5CE27D"
+msgid ""
+"~s~Use ~INPUT_VEH_NEXT_RADIO~ or ~INPUT_VEH_PREV_RADIO~ to cycle between "
+"radio stations when in a vehicle."
+msgstr "~s~用~INPUT_VEH_NEXT_RADIO~或~INPUT_VEH_PREV_RADIO~可在车上切换电台。"

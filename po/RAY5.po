@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RAY5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "10D8FAB7"
+msgid "~s~The ~r~bikers~s~ have entered the subway system. Follow them."
+msgstr "~r~飞车党~s~进入了地铁隧道。跟着他们。"
+
+msgctxt "3B004F05"
+msgid "~s~Go to where members of The Lost are ~y~hanging out."
+msgstr "~s~前往失落摩托帮成员~y~所在地。"
+
+msgctxt "60E5D135"
+msgid ""
+"~s~Hold ~INPUT_VEH_HEADLIGHT~ to switch headlights between dipped and full "
+"beam."
+msgstr "~s~长按~INPUT_VEH_HEADLIGHT~在最亮与较暗间切换大灯亮度。"
+
+msgctxt "7B1A0DB3"
+msgid ""
+"~s~Use ~INPUT_VEH_HEADLIGHT~ to switch headlights between dipped and full "
+"beam."
+msgstr "~s~用~INPUT_VEH_HEADLIGHT~在最亮与较暗间切换大灯亮度。"
+
+msgctxt "A2949E30"
+msgid "~s~Take the ~b~bike."
+msgstr "~s~骑上~b~摩托。"
+
+msgctxt "A679A5FA"
+msgid "~s~Chase and take out the ~r~bikers."
+msgstr "~s~追击~r~飞车党，~s~干掉他们。"
+
+msgctxt "AB22477F"
+msgid "~s~The ~r~biker~s~ has entered the subway. Follow him."
+msgstr "~r~飞车党~s~进入了地铁隧道。跟着他。"
+
+msgctxt "F372EB74"
+msgid "~s~Hold ~PAD_LT~ to switch headlights between dipped and full beam."
+msgstr "~s~长按~PAD_LT~在最亮与较暗间切换大灯亮度。"
+
+msgctxt "F60E1364"
+msgid "~r~The bikers got away."
+msgstr "~r~飞车党跑掉了。"
+
+msgctxt "F9D177CB"
+msgid "~r~The biker got away."
+msgstr "~r~飞车党跑掉了。"

@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BELL7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "9450AE"
+msgid "~s~You've left ~b~someone~s~ behind, go and get him."
+msgstr "~s~你把~b~某一个人~s~落下了，回去找他。"
+
+msgctxt "32954D0"
+msgid "~r~Frankie is dead."
+msgstr "~r~Frankie死了。"
+
+msgctxt "74D5AD8"
+msgid "~s~Lose the cops."
+msgstr "~s~甩掉警察。"
+
+msgctxt "E466B0A"
+msgid "~s~PLACEHOLDER!~n~Scripted cutscene will play here."
+msgstr "~s~PLACEHOLDER!~n~Scripted cutscene will play here."
+
+msgctxt "FC5ECE1"
+msgid "~s~Find a vehicle with more seats."
+msgstr "~s~找一辆座位更多的载具。"
+
+msgctxt "16C37D0C"
+msgid "~s~Take Bell to the ~y~old mansion~s~ in Westdyke."
+msgstr "~s~带Bell去位于Westdyke的~y~老宅。"
+
+msgctxt "190CFE57"
+msgid "~r~Frankie got busted."
+msgstr "~r~Frankie被捕了。"
+
+msgctxt "20A00FBD"
+msgid "~r~The car with the H was destroyed."
+msgstr "~r~装有H的车被毁了。"
+
+msgctxt "21F71143"
+msgid "H"
+msgstr "H"
+
+msgctxt "23CB13D3"
+msgid "~s~Take Bell and Frankie to the ~y~safe house.~s~"
+msgstr "~s~送Bell和Frankie回~y~安全屋。~s~"
+
+msgctxt "2AD0241D"
+msgid ""
+"~s~There is too much heat. Follow ~b~Bell~s~ and ~b~Frankie~s~. ~s~Take out "
+"anyone who gets in your way."
+msgstr "~s~警察太多了。跟随~b~Bell~s~和~b~Frankie~s~杀出一条血路。"
+
+msgctxt "2B8CA69E"
+msgid "You need a car."
+msgstr "你需要一辆车。"
+
+msgctxt "2C3AA5CA"
+msgid "~s~Stay close to ~b~Bell."
+msgstr "~s~跟紧~b~Bell。"
+
+msgctxt "360EB85A"
+msgid ""
+"~s~You've left ~b~Bell~s~ and ~b~Frankie~s~ behind, go back and get them."
+msgstr "~s~你把~b~Bell~s~和~b~Frankie~s~落下了，回去找他们。"
+
+msgctxt "3C14C6A6"
+msgid "~s~PLACEHOLDER!~n~Mocap cutscene will play here."
+msgstr "~s~PLACEHOLDER!~n~Mocap cutscene will play here."
+
+msgctxt "49BDE68D"
+msgid ""
+"~s~There is too much heat. Follow ~b~Bell~s~.~s~ Take out anyone who get in "
+"your way."
+msgstr "~s~警察太多了。跟随~b~Bell~s~杀出一条血路。"
+
+msgctxt "5280F486"
+msgid "~s~Pick up Bell in ~y~Leftwood."
+msgstr "~s~去~y~Leftwood~s~接Bell。"
+
+msgctxt "5440F5D6"
+msgid "~s~Go to the ~y~escape van."
+msgstr "~s~登上~y~逃跑用车。"
+
+msgctxt "60E18F1B"
+msgid "~s~Lose your wanted level."
+msgstr "~s~降低你的通缉度。"
+
+msgctxt "677C1D78"
+msgid "~r~Bell is dead."
+msgstr "~r~Bell死了。"
+
+msgctxt "6E872A66"
+msgid "~s~You've left ~b~Frankie~s~ behind, go back and get him."
+msgstr "~s~你把~b~Frankie~s~落下了，回去找他。"
+
+msgctxt "7823BEC7"
+msgid "~s~Take Bell to the ~y~safe house.~s~"
+msgstr "~s~送Bell回~y~安全屋。~s~"
+
+msgctxt "7D0A476C"
+msgid "~s~You've left ~b~Bell~s~ behind, go back and get him."
+msgstr "~s~你把~b~Bell~s~落下了，回去找他。"
+
+msgctxt "8F546C00"
+msgid "~s~Stay close to ~b~Bell~s~ and ~b~Frankie."
+msgstr "~s~跟紧~b~Bell~s~和~b~Frankie。"
+
+msgctxt "A269910E"
+msgid "~s~Get in the van with ~b~Bell~s~ and ~b~Frankie~s~."
+msgstr "~s~与~b~Bell~s~和~b~Frankie~s~一起上车。"
+
+msgctxt "AB55262D"
+msgid "~s~Get the H from the car."
+msgstr "~s~拿走车上的H。"
+
+msgctxt "B99AC2B8"
+msgid "Bag"
+msgstr "包裹"
+
+msgctxt "C0EC4E13"
+msgid "~s~Get to the ~y~escape van~s~ and lose the cops."
+msgstr "~s~登上~y~逃跑用车，~s~甩掉警察。"
+
+msgctxt "CFE7EF52"
+msgid "~s~Follow ~b~Bell.~s~ Don't let him get busted by the feds."
+msgstr "~s~跟随~b~Bell。~s~别让他被条子抓住。"
+
+msgctxt "D1B171DD"
+msgid "~r~The get away car was destroyed."
+msgstr "~r~逃跑用车被摧毁了。"
+
+msgctxt "DD8F0874"
+msgid "~s~Get back in the ~b~car~s~ and follow Bell."
+msgstr "~s~回到~b~车~s~上，跟随Bell。"
+
+msgctxt "DE088B97"
+msgid "~s~Follow ~b~Bell."
+msgstr "~s~跟随~b~Bell。"
+
+msgctxt "E32614CA"
+msgid ""
+"~s~Take out the ~r~helicopter.~s~ There is too much heat with it following "
+"you."
+msgstr "~s~击落~r~直升机。~s~否则警方很容易定位你。"
+
+msgctxt "EF512AE0"
+msgid "~s~Get in the van with ~b~Bell~s~."
+msgstr "~s~与~b~Bell~s~一起上车。"
+
+msgctxt "F0FAB073"
+msgid "~r~Bell got busted."
+msgstr "~r~Bell被捕了。"
+
+msgctxt "F25AB43B"
+msgid "~s~You've left ~b~Bell~s~ behind, go back and get him."
+msgstr "~s~你把~b~Bell~s~落下了，回去找他。"
+
+msgctxt "FA0CC16F"
+msgid "~s~Frankie is down. Get the ~g~H~s~ and leave him behind."
+msgstr "~s~Frankie挂了。拿上~g~H~s~就走，不要管他。"

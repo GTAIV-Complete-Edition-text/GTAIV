@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ROMAN8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-15 00:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "2318497"
+msgid "~s~You need a car."
+msgstr "~s~你需要一辆车。"
+
+msgctxt "35D468E"
+msgid "~s~Chase after ~r~Vlad."
+msgstr "~s~追上~r~Vlad。"
+
+msgctxt "1400A835"
+msgid ""
+"~s~Vlad is fleeing in his car. Get back to your ~b~vehicle~s~ and chase "
+"after him."
+msgstr "~s~Vlad开着车跑了。回到你的~b~载具~s~上去追他。"
+
+msgctxt "26864D40"
+msgid "~s~Get back in your ~b~vehicle."
+msgstr "~s~回到你的~b~载具~s~上。"
+
+msgctxt "3F4B4C3D"
+msgid "~s~You've left ~b~Roman ~s~behind."
+msgstr "~s~你把~b~Roman~s~落下了。"
+
+msgctxt "49F66193"
+msgid ""
+"~s~When locked on, the reticule will flash if an execution can be performed "
+"on the character."
+msgstr "~s~若能实施处决，准星在目标锁定时将会闪烁。"
+
+msgctxt "639D14F4"
+msgid ""
+"~s~Vlad is fleeing in his car. Get back in ~b~Roman's car~s~ and chase after "
+"him."
+msgstr "~s~Vlad开着车跑了。返回~b~Roman的车~s~去追他。"
+
+msgctxt "74F2B79F"
+msgid "~r~Vlad~s~ is escaping out the back of the bar. Chase after him."
+msgstr "~r~Vlad~s~从酒吧后门跑了。追上他。"
+
+msgctxt "851649FE"
+msgid "~s~Go with Roman and look for Vlad at ~y~Comrades."
+msgstr "~s~和Roman一起去~y~Comrades~s~找Vlad。"
+
+msgctxt "9245F245"
+msgid "~r~Vlad's~s~ crashed his car. He's trying to escape on foot."
+msgstr "~r~Vlad~s~撞坏了他的车。他想要徒步逃跑。"
+
+msgctxt "9A90841A"
+msgid "~r~Roman is out of action."
+msgstr "~r~Roman无法行动。"
+
+msgctxt "A9631297"
+msgid "~s~Go inside the ~y~bar."
+msgstr "~s~进入~y~酒吧。"
+
+msgctxt "ACDEA8B6"
+msgid "~s~Go to ~y~Comrades."
+msgstr "~s~前往~y~Comrades。"
+
+msgctxt "BB34B63A"
+msgid "~s~Wait for ~b~Roman."
+msgstr "~s~等待~b~Roman。"
+
+msgctxt "CC67D8A0"
+msgid "~s~Don't let ~r~Vlad~s~ escape."
+msgstr "~s~别让~r~Vlad~s~跑了。"
+
+msgctxt "CC8AE6CE"
+msgid "~s~Get in ~b~Roman's car."
+msgstr "~s~进入~b~Roman的车。"
+
+msgctxt "CE9EDD12"
+msgid ""
+"~s~To perform an execution on Vlad, lock on to him and fire. When locked on, "
+"the reticule will flash if an execution can be performed."
+msgstr "~s~锁定Vlad后开火可对Vlad实施处决。若能实施处决，准星在锁定时将会闪烁。"
+
+msgctxt "D5E76112"
+msgid ""
+"~s~To perform an execution on Vlad, aim at him and fire. When locked on, the "
+"reticule will flash if an execution can be performed."
+msgstr "~s~瞄准Vlad后开火可对Vlad实施处决。若能实施处决，准星在锁定时将会闪烁。"
+
+msgctxt "DFA67F1D"
+msgid "~s~Get to the car, Roman"
+msgstr "~s~上车，Roman"
+
+msgctxt "E10E01F0"
+msgid ""
+"~s~When equipped with a pistol, you can perform an execution on certain "
+"characters."
+msgstr "~s~装备手枪时，你可以对某些角色实施处决。"
+
+msgctxt "EB22D676"
+msgid "~s~Vlad is getting away."
+msgstr "~s~Vlad就要跑了。"
+
+msgctxt "EF685F05"
+msgid "~r~Vlad~s~ is getting away."
+msgstr "~r~Vlad~s~就要跑了。"
+
+msgctxt "FDD4FBDA"
+msgid "~r~Vlad has escaped."
+msgstr "~r~Vlad逃掉了。"

@@ -1,0 +1,982 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FM3AUD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "2C5A0FD"
+msgid "~z~I've always been a good boy, you know me, Ma."
+msgstr "~z~我向来都是个好孩子。你是懂我的，妈。"
+
+msgctxt "2DF1B75"
+msgid "~z~You in some real shit now!"
+msgstr "~z~你丫摊上大事了！"
+
+msgctxt "42F60C3"
+msgid "~z~This really ain't the place for you, tough guy."
+msgstr "~z~这里不是你该来的地方，刺头。"
+
+msgctxt "4559A41"
+msgid ""
+"~z~Yeah you. Remember, you're doing a real service for the community by "
+"getting rid of this scumbag."
+msgstr "~z~对，你。记住，你除掉这个小人就是为社会做巨大贡献。"
+
+msgctxt "5B4C010"
+msgid "~z~And maybe good men will get taken down by that evidence."
+msgstr "~z~而且可能还会有好人因为那份证据被干掉。"
+
+msgctxt "75CAA67"
+msgid "~z~You know why?"
+msgstr "~z~知道为什么这么说吗？"
+
+msgctxt "7A1A589"
+msgid "FM3_NA"
+msgstr "FM3_NA"
+
+msgctxt "7BA1703"
+msgid "801"
+msgstr "801"
+
+msgctxt "8155BE8"
+msgid "~z~Clarence told me to dead any fool who don't belong in here."
+msgstr "~z~Clarence跟我说过，干死任何不是这儿人的傻逼。"
+
+msgctxt "95C983A"
+msgid "~z~Yo, it's that rat cop McReary. Ain't it?"
+msgstr "~z~哟，就那个骗子警察McReary，对不对？"
+
+msgctxt "BB2637B"
+msgid "FM3_PC"
+msgstr "FM3_PC"
+
+msgctxt "C426EBA"
+msgid "300"
+msgstr "300"
+
+msgctxt "C554E31"
+msgid "~z~Of course."
+msgstr "~z~肯定的。"
+
+msgctxt "D37B1BD"
+msgid "~z~Yo, you better bounce."
+msgstr "~z~哟，你最好走人。"
+
+msgctxt "DC1BB86"
+msgid "100"
+msgstr "100"
+
+msgctxt "1003A650"
+msgid "~z~Enjoy this, bitch."
+msgstr "~z~尝尝这个，贱人。"
+
+msgctxt "10992C2B"
+msgid "FM3_UA"
+msgstr "FM3_UA"
+
+msgctxt "1125A788"
+msgid "FM3_RA"
+msgstr "FM3_RA"
+
+msgctxt "1362F51E"
+msgid "FM3_LH"
+msgstr "FM3_LH"
+
+msgctxt "13B8DDF8"
+msgid ""
+"~z~Sure... and the moon is made of cheese and the streets is paved with gold."
+msgstr "~z~当然了...月亮是奶酪做的，路上遍地黄金。"
+
+msgctxt "149B0171"
+msgid "~z~Going up there would be a dumb play. I'm telling you that."
+msgstr "~z~往上走纯属找死，话我就撂这儿了。"
+
+msgctxt "1521BFFA"
+msgid "~z~You 'bout to get banged dude!"
+msgstr "~z~你丫等着被射爆吧，兄弟！"
+
+msgctxt "1570C580"
+msgid "~z~You're a real fuck up."
+msgstr "~z~你丫就是个废物。"
+
+msgctxt "165C74E4"
+msgid "FM3_BA"
+msgstr "FM3_BA"
+
+msgctxt "16943EBE"
+msgid "~z~Francis McReary is the community now?"
+msgstr "~z~现在Francis McReary成了社会代言人了？"
+
+msgctxt "16AB62DD"
+msgid "~z~Some drug dealer is holed up in a tower block in East Holland."
+msgstr "~z~某个毒贩藏在East Holland的公寓楼里。"
+
+msgctxt "182D7DD1"
+msgid "FM3_PD"
+msgstr "FM3_PD"
+
+msgctxt "1862656B"
+msgid "~z~Maybe people make mistakes."
+msgstr "~z~犯错可能是人之常情。"
+
+msgctxt "1B6D3C5B"
+msgid "~z~Yo, yo, yo. Man, you got me, chill."
+msgstr "~z~哟哟哟，老兄，你赢了，放松。"
+
+msgctxt "1BAB701D"
+msgid "~z~Five G's..."
+msgstr "~z~五千..."
+
+msgctxt "1FA27D72"
+msgid "FM3_AC"
+msgstr "FM3_AC"
+
+msgctxt "201CC5BA"
+msgid "~z~This isn't my choice, the police want you dead."
+msgstr "~z~这不是我的选择，那个警察要你死。"
+
+msgctxt "20B4AD1F"
+msgid "010100100010"
+msgstr "010100100010"
+
+msgctxt "20CB8254"
+msgid "FM3_AA"
+msgstr "FM3_AA"
+
+msgctxt "20F2786B"
+msgid "~z~Wake up."
+msgstr "~z~别做梦了。"
+
+msgctxt "213C771B"
+msgid "~z~How much?"
+msgstr "~z~多少？"
+
+msgctxt "228F3092"
+msgid "SFX_PAUSE_500"
+msgstr "SFX_PAUSE_500"
+
+msgctxt "22F3E9D5"
+msgid "FM3_AI"
+msgstr "FM3_AI"
+
+msgctxt "231161D0"
+msgid "~z~-Good to see you.~n~-I'm sure."
+msgstr "~z~－很高兴见到你。~n~－当然了。"
+
+msgctxt "2507A24E"
+msgid ""
+"~z~Upstairs for residents only. I know your white ass don't live in this "
+"shit."
+msgstr "~z~只有住户能上楼，我知道你个白佬不住这儿。"
+
+msgctxt "254A43B8"
+msgid "010100100100"
+msgstr "010100100100"
+
+msgctxt "26E0DF57"
+msgid "~z~Try to get off the ground floor before getting violent."
+msgstr "~z~引起冲突前最好能先上到二楼。"
+
+msgctxt "27486A02"
+msgid "~z~No. I don't care about Packie... listen, Ma, I've got to go."
+msgstr "~z~不行。我才不管Packie会怎样...听着，妈，我得挂了。"
+
+msgctxt "27D0A7DC"
+msgid ""
+"~z~Shit, I wouldn't recommend going up there. It ain't gonna end well for "
+"you."
+msgstr "~z~靠，我不建议你上楼，你下场会很惨的。"
+
+msgctxt "29DD9834"
+msgid "400"
+msgstr "400"
+
+msgctxt "3057F245"
+msgid "~z~Violent... me?"
+msgstr "~z~冲突...我？"
+
+msgctxt "31446EA1"
+msgid "FM3_TA"
+msgstr "FM3_TA"
+
+msgctxt "3282973A"
+msgid "FM3_AB"
+msgstr "FM3_AB"
+
+msgctxt "331A1ADA"
+msgid "~z~Two?"
+msgstr "~z~两千？"
+
+msgctxt "34899EB7"
+msgid "FM3_QD"
+msgstr "FM3_QD"
+
+msgctxt "35701EA6"
+msgid "200"
+msgstr "200"
+
+msgctxt "38336BBE"
+msgid "FM3_VA"
+msgstr "FM3_VA"
+
+msgctxt "38F7CA2A"
+msgid ""
+"~z~Only thing you'll find up there is a bunch a people who wanna kick your "
+"ass."
+msgstr "~z~你在这儿唯一能找到的就是一帮想踹你屁股的人。"
+
+msgctxt "3957E190"
+msgid "FM3_LJ"
+msgstr "FM3_LJ"
+
+msgctxt "39B20832"
+msgid "FM3_AI"
+msgstr "FM3_AI"
+
+msgctxt "3AE2026E"
+msgid "~z~Clarence gonna be real pissed that you started this."
+msgstr "~z~你来这出Clarence会很生气的。"
+
+msgctxt "3B75087F"
+msgid ""
+"~z~The guys you see are gonna be working for that scumbag in one way or "
+"another."
+msgstr "~z~你见到的人基本都是替那个小人卖命的。"
+
+msgctxt "3B7D0E47"
+msgid "~z~You might wanna go home..."
+msgstr "~z~你还是回家吧..."
+
+msgctxt "3BB36315"
+msgid "FM3_OA"
+msgstr "FM3_OA"
+
+msgctxt "3D086BA6"
+msgid "FM3_AC"
+msgstr "FM3_AC"
+
+msgctxt "3F2049FD"
+msgid "~z~You come to the wrong project, fool. And you gonna pay for it."
+msgstr "~z~你来错社区了，傻逼。你会为此付出代价。"
+
+msgctxt "40791BF0"
+msgid "~z~This guy is probably out dealing to them."
+msgstr "~z~这人可能要向他们贩毒了。"
+
+msgctxt "40D916DF"
+msgid "FM3_ND"
+msgstr "FM3_ND"
+
+msgctxt "42460A2C"
+msgid "~z~Come on, boss."
+msgstr "~z~求你了，大哥。"
+
+msgctxt "45185B15"
+msgid "FM3_EA"
+msgstr "FM3_EA"
+
+msgctxt "468EC1C3"
+msgid "~z~Good money."
+msgstr "~z~很多钱。"
+
+msgctxt "4CF28E08"
+msgid "801"
+msgstr "801"
+
+msgctxt "4D179073"
+msgid "500500050"
+msgstr "500500050"
+
+msgctxt "4DADACF0"
+msgid ""
+"~z~Anyway, these projects all got the same layout, a staircase leading up on "
+"either side."
+msgstr "~z~总之，这些公屋的设计都差不多，两边各一个楼梯。"
+
+msgctxt "4DD0834E"
+msgid ""
+"~z~The streets are a little bit cleaner now he's gone. One percent - it's "
+"all we can hope for."
+msgstr "~z~他死了，街道就又干净了一点。百分之一，我们只能奢望这个。"
+
+msgctxt "4E7FE25B"
+msgid "FM3_LA"
+msgstr "FM3_LA"
+
+msgctxt "5059923E"
+msgid "FM3_AB"
+msgstr "FM3_AB"
+
+msgctxt "51290550"
+msgid "~z~This ain't looking good for you, bitch."
+msgstr "~z~This ain't looking good for you, bitch."
+
+msgctxt "5227BF4D"
+msgid "~z~You think this is funny?"
+msgstr "~z~你觉得这好笑吗？"
+
+msgctxt "54227401"
+msgid "~z~This ain't the place for you, son. You dead."
+msgstr "~z~这不是你该来的地方，小子。你死了。"
+
+msgctxt "5432613A"
+msgid "~z~You mean five."
+msgstr "~z~五千还差不多。"
+
+msgctxt "54CCC50A"
+msgid "~z~Sure, Ma. Sure..."
+msgstr "~z~好的，妈。当然..."
+
+msgctxt "54EAAF75"
+msgid ""
+"~z~He don't like a younger brother with ambition. Tell you what, I'll reform."
+msgstr "~z~他不喜欢有野心的小兄弟。这么说吧，我会洗心革面的。"
+
+msgctxt "565D73EE"
+msgid "FM3_LF"
+msgstr "FM3_LF"
+
+msgctxt "585C655E"
+msgid "~z~Two G's."
+msgstr "~z~两千。"
+
+msgctxt "58A392EC"
+msgid ""
+"~z~The guys you see are gonna be working for that scumbag in one way or "
+"another."
+msgstr "~z~你见到的人基本都是替那个小人卖命的。"
+
+msgctxt "58C6788B"
+msgid "300"
+msgstr "300"
+
+msgctxt "5A416B1C"
+msgid "~z~I need him dealt with."
+msgstr "~z~我需要有人去解决他。"
+
+msgctxt "5ACE3043"
+msgid "~z~Yo cracker, you a long ways from home."
+msgstr "~z~哟，渣渣，这里不是你家。"
+
+msgctxt "5C8220B1"
+msgid ""
+"~z~Whatever you say. They don't look much cleaner from where I'm standing."
+msgstr "~z~随你怎么说吧，从我这儿看也没干净到哪去。"
+
+msgctxt "5CA71881"
+msgid "~z~Screw you."
+msgstr "~z~去你妈的。"
+
+msgctxt "5CB99C6D"
+msgid "~z~The cops ain't gonna help you in here, they scared as shit."
+msgstr "~z~The cops ain't gonna help you in here, they scared as shit."
+
+msgctxt "5D5DC4ED"
+msgid "801"
+msgstr "801"
+
+msgctxt "5DA256F1"
+msgid "~z~No."
+msgstr "~z~不知道。"
+
+msgctxt "5E0B542B"
+msgid "010100100100100010100010010"
+msgstr "010100100100100010100010010"
+
+msgctxt "5E264DE1"
+msgid "~z~I'm outside the project, where is he?"
+msgstr "~z~我到社区外面了，他在哪儿？"
+
+msgctxt "5E46523E"
+msgid "~z~You ready to die?"
+msgstr "~z~真想死吗？"
+
+msgctxt "5F61A1BD"
+msgid "~z~Even the cops be scared to come up here."
+msgstr "~z~Even the cops be scared to come up here."
+
+msgctxt "616DB2ED"
+msgid "FM3_AD"
+msgstr "FM3_AD"
+
+msgctxt "63D82AAE"
+msgid "~z~I'm gonna put a cap in your dome, fool."
+msgstr "~z~I'm gonna put a cap in your dome, fool."
+
+msgctxt "676B606B"
+msgid ""
+"~z~Should be on the second floor, keeps an eye on all his boys from up there."
+msgstr "~z~应该在二楼，楼上有很多他的手下，当心点。"
+
+msgctxt "67769860"
+msgid "FM3_LD"
+msgstr "FM3_LD"
+
+msgctxt "67DB65DC"
+msgid "FM3_AF"
+msgstr "FM3_AF"
+
+msgctxt "6853BEC1"
+msgid "801"
+msgstr "801"
+
+msgctxt "6AABCFFE"
+msgid "~z~You're a long way from Star Junction, cracker."
+msgstr "~z~这儿离Star Junction*远着呢，渣渣。~n~(以纽约时代广场为原型的区域)"
+
+msgctxt "6AD0415B"
+msgid ""
+"~z~You did a good thing, Niko. That boy was mean. He had a tongue on him too."
+msgstr "~z~你做了件好事，Niko。那小子很卑鄙，嘴巴也很能说。"
+
+msgctxt "6C0C91F5"
+msgid "FM3_AG"
+msgstr "FM3_AG"
+
+msgctxt "6C4B0B0B"
+msgid "~z~Whatever..."
+msgstr "~z~就这样吧..."
+
+msgctxt "6C785E90"
+msgid "~z~I surrender. You wouldn't kill an unarmed man, would you?"
+msgstr "~z~我投降。你总不会杀一个手无寸铁的人吧？"
+
+msgctxt "6D79A04B"
+msgid "200"
+msgstr "200"
+
+msgctxt "6DAA7652"
+msgid ""
+"~z~The drug dealer is out on the street. Oh no! Lock up the children, "
+"Francis."
+msgstr "~z~现在毒贩子上街了。哦不！快把孩子们锁上，Francis。"
+
+msgctxt "6E6993A4"
+msgid "690"
+msgstr "690"
+
+msgctxt "6F2AF9F3"
+msgid "FM3_AG"
+msgstr "FM3_AG"
+
+msgctxt "70306D0A"
+msgid "~z~There be a lot of brothers want to dead your ass in this project."
+msgstr "~z~这个社区里有很多兄弟想弄死你丫。"
+
+msgctxt "72999E0C"
+msgid "~z~You know,"
+msgstr "~z~知道吗，"
+
+msgctxt "735698F6"
+msgid ""
+"~z~You know there's no good, and no evil... just shades of fucking gray."
+msgstr "~z~你也知道，根本没有善，也没有恶...只有该死的灰色阴影。"
+
+msgctxt "745E92B1"
+msgid ""
+"~z~Yeah you. Remember, you're doing a real service for the community by "
+"getting rid of this scumbag."
+msgstr "~z~对，你。记住，你除掉这个小人就是为社会做巨大贡献。"
+
+msgctxt "74AC201B"
+msgid "FM3_QC"
+msgstr "FM3_QC"
+
+msgctxt "763D2E2E"
+msgid "FM3_AD"
+msgstr "FM3_AD"
+
+msgctxt "76EC7ABC"
+msgid "FM3_QE"
+msgstr "FM3_QE"
+
+msgctxt "788476A8"
+msgid "~z~McReary going to think I'm dead. Word."
+msgstr "~z~McReary会当我已经死了的。说话算话。"
+
+msgctxt "7990B890"
+msgid "~z~Please."
+msgstr "~z~求你了。"
+
+msgctxt "7AA9F90D"
+msgid "~z~Clarence, is that you again? Can't you deal out on another block?"
+msgstr "~z~Clarence, is that you again? Can't you deal out on another block?"
+
+msgctxt "7D910A4A"
+msgid "FM3_IA"
+msgstr "FM3_IA"
+
+msgctxt "7F4D1F20"
+msgid "100100011"
+msgstr "100100011"
+
+msgctxt "7FF16811"
+msgid "FM3_AA"
+msgstr "FM3_AA"
+
+msgctxt "80966CE7"
+msgid "~z~You don't have to worry about Clarence anymore."
+msgstr "~z~你不用再担心Clarence了。"
+
+msgctxt "838C310C"
+msgid "~z~Violent... me?"
+msgstr "~z~冲突...我？"
+
+msgctxt "8482734F"
+msgid "SFX_DIALLING"
+msgstr "SFX_DIALLING"
+
+msgctxt "852604F2"
+msgid "~z~What you doin' round here, whiteboy?"
+msgstr "~z~你在这里做什么，白仔？"
+
+msgctxt "87AB4B96"
+msgid "010010100100100"
+msgstr "010010100100100"
+
+msgctxt "88E9158B"
+msgid ""
+"~z~If you're makin' a mess in the stairwell, I'm sure as hell not cleaning "
+"it up."
+msgstr ""
+"~z~If you're makin' a mess in the stairwell, I'm sure as hell not cleaning "
+"it up."
+
+msgctxt "88EF4EEE"
+msgid "FM3_AH"
+msgstr "FM3_AH"
+
+msgctxt "89AB9B85"
+msgid "FM3_QB"
+msgstr "FM3_QB"
+
+msgctxt "8D1B3186"
+msgid "~z~Listen up yo, get outta here."
+msgstr "~z~听着你，离开这儿。"
+
+msgctxt "8E24A36E"
+msgid "500500050500500500500500500500500"
+msgstr "500500050500500500500500500500500"
+
+msgctxt "8EFED072"
+msgid "~z~That's our duty."
+msgstr "~z~那就是我们的责任。"
+
+msgctxt "8F6C32E0"
+msgid "FM3_NC"
+msgstr "FM3_NC"
+
+msgctxt "90278175"
+msgid "~z~That's right. We the same, me and you. Look out for each other."
+msgstr "~z~这就对了。我们都一样，我和你，相互照应。"
+
+msgctxt "9096A67B"
+msgid "590"
+msgstr "590"
+
+msgctxt "90EA4BC8"
+msgid "~z~You're starting to sound like your friend Manny."
+msgstr "~z~你这听起来就跟你朋友Manny一样。"
+
+msgctxt "92DE40B9"
+msgid "~z~You're the only one who's gonna get locked up, son."
+msgstr "~z~只有你是要被锁起来的，小子。"
+
+msgctxt "93B72FAD"
+msgid "FM3_DA"
+msgstr "FM3_DA"
+
+msgctxt "94C2772B"
+msgid "FM3_JA"
+msgstr "FM3_JA"
+
+msgctxt "95180150"
+msgid "FM3_MA"
+msgstr "FM3_MA"
+
+msgctxt "9568F158"
+msgid "FM3_LA_QQQ1"
+msgstr "FM3_LA_QQQ1"
+
+msgctxt "9696B0E6"
+msgid "~z~I told you boys to do your fighting outside."
+msgstr "~z~I told you boys to do your fighting outside."
+
+msgctxt "99008A67"
+msgid "~z~Hey tourist, you want us to pose for a photo?"
+msgstr "~z~喂，游客，你要我们摆个姿势合影吗？"
+
+msgctxt "9936EE8D"
+msgid "FM3_AE"
+msgstr "FM3_AE"
+
+msgctxt "9AE37A0D"
+msgid "FM3_LC"
+msgstr "FM3_LC"
+
+msgctxt "9C2DA411"
+msgid "~z~Thank God for real justice."
+msgstr "~z~感谢上帝让真正的正义降临。"
+
+msgctxt "9D06C457"
+msgid "~z~I'm outside the project, where is he?"
+msgstr "~z~我到社区外面了，他在哪儿？"
+
+msgctxt "9DA440E7"
+msgid ""
+"~z~I'll get out the game. Get a GED or some shit. Make something of my life."
+msgstr "~z~我会退出游戏，去考个GED*之类的，让人生有所成就。~n~(美国高中同等学历证书)"
+
+msgctxt "9E306654"
+msgid "~z~Francis McReary is the community now?"
+msgstr "~z~现在Francis McReary成了社会代言人了？"
+
+msgctxt "9ED9D503"
+msgid "~z~You in the wrong hood homie, raise up."
+msgstr "~z~你走错地方了，伙计，举起手来。"
+
+msgctxt "A21C76AD"
+msgid "~z~You make things one per cent better. That's enough."
+msgstr "~z~你能让情况好转百分之一，那就够了。"
+
+msgctxt "A3641283"
+msgid "~z~Clarence don't want no strangers up in here. That's too bad for you."
+msgstr "~z~Clarence不想让外人上楼，很遗憾。"
+
+msgctxt "A5ACAA8B"
+msgid "~z~Whatever."
+msgstr "~z~管你啊。"
+
+msgctxt "A5B2D80A"
+msgid "~z~Clarence were specific about deading any fools that tried something."
+msgstr "~z~Clarence有命令，要干掉任何敢轻举妄动的傻逼。"
+
+msgctxt "A73284ED"
+msgid "~z~Excuse me?"
+msgstr "~z~抱歉？"
+
+msgctxt "A78964C3"
+msgid "~z~Got you now!"
+msgstr "~z~干你哦！"
+
+msgctxt "A8B129C8"
+msgid "~z~Damn, son, you don't belong round here."
+msgstr "~z~干诶，小子，你不是这儿的人。"
+
+msgctxt "AA0DBBCF"
+msgid ""
+"~z~He tried to convince me to let him go. Said he'd get out of town. I "
+"finished him anyway."
+msgstr "~z~他试图说服我放了他，说他会离开这里。不过我把他干死了。"
+
+msgctxt "ABE5702F"
+msgid "FM3_AH"
+msgstr "FM3_AH"
+
+msgctxt "ACDDC856"
+msgid "~z~That was the wrong move."
+msgstr "~z~这步可不行。"
+
+msgctxt "ACEF0865"
+msgid "400"
+msgstr "400"
+
+msgctxt "AF7031BC"
+msgid "FM3_PA"
+msgstr "FM3_PA"
+
+msgctxt "B0D81738"
+msgid "~z~So listen, I got something I need you to do."
+msgstr "~z~听着，我有点事需要你做。"
+
+msgctxt "B290DFC7"
+msgid "~z~I think someone stepped off the tourist trail."
+msgstr "~z~我想有人偏离观光路线了。"
+
+msgctxt "B306C53F"
+msgid "~z~I can go where I like."
+msgstr "~z~老子爱去哪儿去哪儿。"
+
+msgctxt "B482B39B"
+msgid "FM3_LE"
+msgstr "FM3_LE"
+
+msgctxt "B67E4E22"
+msgid "~z~Get out of here. I see you again, you'll wish I had killed you now."
+msgstr "~z~滚得越远越好。再让我碰到你，你会后悔没有现在就死的。"
+
+msgctxt "B7A2B273"
+msgid "FM3_LB"
+msgstr "FM3_LB"
+
+msgctxt "B83007FF"
+msgid "FM3_NB"
+msgstr "FM3_NB"
+
+msgctxt "B8A17DE7"
+msgid "~z~Momma told me not to kill nobody today."
+msgstr "~z~妈妈今天刚跟我说过别杀人。"
+
+msgctxt "B93BAB3F"
+msgid "~z~Okay you got a deal. Head on up to Vauxite and call me."
+msgstr "~z~行吧，就这价吧。你先去Vauxite，然后打给我。"
+
+msgctxt "B9C23F3F"
+msgid "~z~You just crossed the line, you punk ass bitch."
+msgstr "~z~你过分了，贱人小婊子。"
+
+msgctxt "B9CDFA69"
+msgid "FM3_QA"
+msgstr "FM3_QA"
+
+msgctxt "BA936395"
+msgid "~z~This didn't have to go this way."
+msgstr "~z~本来没必要这样的。"
+
+msgctxt "BB272BD6"
+msgid "~z~This is the last time."
+msgstr "~z~这是最后一次。"
+
+msgctxt "BBFE2CA4"
+msgid "~z~But it'll take me a year to get the evidence. More maybe."
+msgstr "~z~但是，光是取证就会花上一年时间，可能还不止。"
+
+msgctxt "BF33E61B"
+msgid ""
+"~z~Good move. You shouldn't trust a word that comes out of that scum's mouth."
+msgstr "~z~明智的选择。那个小人嘴里的话一个字都不能信。"
+
+msgctxt "BF5C571E"
+msgid "~z~You got the wrong people, son."
+msgstr "~z~你认错人了，小子。"
+
+msgctxt "BF644436"
+msgid "~z~I'm too young to die. Please."
+msgstr "~z~我现在死还太早了，求你了。"
+
+msgctxt "C09B5572"
+msgid "FM3_PB"
+msgstr "FM3_PB"
+
+msgctxt "C12D618C"
+msgid "~z~Eat me."
+msgstr "~z~打我啊。"
+
+msgctxt "C5F8C4B9"
+msgid "~z~I'd say he was about right."
+msgstr "~z~我会说他说对了。"
+
+msgctxt "C60B2C0E"
+msgid ""
+"~z~Should be on the second floor, keeps an eye on all his boys from up there."
+msgstr "~z~应该在二楼，防着点他的手下，楼上有很多。"
+
+msgctxt "C665EDF1"
+msgid "~z~You the boss though, man. You the boss of me."
+msgstr "~z~不过你是大哥，老兄。你是我大哥。"
+
+msgctxt "C6973FA6"
+msgid "~z~If you say so."
+msgstr "~z~随你说喽。"
+
+msgctxt "C6DFC037"
+msgid "~z~By any means necessary."
+msgstr "~z~用尽一切必要手段。"
+
+msgctxt "C773D73D"
+msgid "FM3_LG"
+msgstr "FM3_LG"
+
+msgctxt "C814A1C4"
+msgid "~z~You're starting to sound like your friend Manny."
+msgstr "~z~你这听起来就跟你朋友Manny一样。"
+
+msgctxt "C876B042"
+msgid "FM3_AE"
+msgstr "FM3_AE"
+
+msgctxt "CB5A355A"
+msgid "FM3_FA"
+msgstr "FM3_FA"
+
+msgctxt "CB839D51"
+msgid "~z~It's trash day."
+msgstr "~z~该倒垃圾了。"
+
+msgctxt "CCF975A8"
+msgid "FM3_HA"
+msgstr "FM3_HA"
+
+msgctxt "CE06B780"
+msgid "~z~Love you too."
+msgstr "~z~我也爱你。"
+
+msgctxt "CFF5E633"
+msgid "~z~I need some help up in this bitch."
+msgstr "~z~来点人帮我解决这个贱人。"
+
+msgctxt "D4CE6264"
+msgid ""
+"~z~If someone was to tell me you was some fresh off the boat killer with "
+"more balls than brains,"
+msgstr "~z~要是有人跟我说你这个刚下船的杀手胆子比脑子肥，"
+
+msgctxt "D576F6A8"
+msgid "~z~Shit, I hope you enjoyed your sightseeing tour. It's yo' last."
+msgstr "~z~操，希望你观光愉快。这是最后一站了。"
+
+msgctxt "D59F6D5C"
+msgid "~z~Try to get off the ground floor before getting violent."
+msgstr "~z~引起冲突前最好能先上到二楼。"
+
+msgctxt "D91964AA"
+msgid "~z~Oh I do say so. I want to make things a bit better."
+msgstr "~z~噢，我是这么说的。我想让情况好转一点。"
+
+msgctxt "DC5A3CD2"
+msgid "FM3_SA"
+msgstr "FM3_SA"
+
+msgctxt "DE849C3A"
+msgid "~z~Fuck you."
+msgstr "~z~操你妈。"
+
+msgctxt "E1467734"
+msgid "~z~The guy's guilty as sin. He is sin."
+msgstr "~z~这人罪大恶极，他就是罪恶。"
+
+msgctxt "E1618778"
+msgid "~z~Sorry."
+msgstr "~z~抱歉。"
+
+msgctxt "E3434FC8"
+msgid "FM3_CA"
+msgstr "FM3_CA"
+
+msgctxt "E4CEB807"
+msgid "~z~Now you done pissed me off."
+msgstr "~z~你现在惹毛我了。"
+
+msgctxt "E5E3814E"
+msgid ""
+"~z~This scumbag's been pushing drugs, pimping women, you name it, he's done "
+"it."
+msgstr "~z~这个小人贩卖毒品、逼良为娼，你能想到的，他都做过。"
+
+msgctxt "E63051FE"
+msgid "~z~Don't kill me, boss."
+msgstr "~z~别杀我，大哥。"
+
+msgctxt "E70AD81D"
+msgid "FM3_OB"
+msgstr "FM3_OB"
+
+msgctxt "E92F481F"
+msgid "090"
+msgstr "090"
+
+msgctxt "E948E012"
+msgid "081801081081"
+msgstr "081801081081"
+
+msgctxt "E94EBE27"
+msgid "FM3_LI"
+msgstr "FM3_LI"
+
+msgctxt "E982194B"
+msgid ""
+"~z~Turn off your TVs and come out here to help me deal with this crazy "
+"psychopath."
+msgstr "~z~都把电视关了，出来帮老子解决这个精神病疯子。"
+
+msgctxt "EA368517"
+msgid "090"
+msgstr "090"
+
+msgctxt "EA68B458"
+msgid "500"
+msgstr "500"
+
+msgctxt "EA6FC094"
+msgid ""
+"~z~Always talking his way out of court, willing to compromise anyone to get "
+"out of trouble."
+msgstr "~z~每次都能舌战群儒离开法庭，乐意通过交涉替人摆脱麻烦。"
+
+msgctxt "EB72895C"
+msgid "~z~I want to get paid."
+msgstr "~z~我想拿到报酬。"
+
+msgctxt "F182229A"
+msgid "FM3_AF"
+msgstr "FM3_AF"
+
+msgctxt "F3131ACD"
+msgid "~z~But this guy, is scum."
+msgstr "~z~但这个人，就是败类。"
+
+msgctxt "F6A117F3"
+msgid "700"
+msgstr "700"
+
+msgctxt "F7395CDC"
+msgid "~z~You came into the wrong project."
+msgstr "~z~你来错社区了。"
+
+msgctxt "F84B0C44"
+msgid "~z~You know it's funny, but I see a lot of me in you."
+msgstr "~z~这么说会有点怪，但你和我有很多相似之处。"
+
+msgctxt "F8778C61"
+msgid "~z~Yes. I'll make Commissioner."
+msgstr "~z~好，我会当上局长的。"
+
+msgctxt "FB5155DF"
+msgid "~z~Yeah, sure, man."
+msgstr "~z~对，当然，老兄。"
+
+msgctxt "FB886500"
+msgid "FM3_OC"
+msgstr "FM3_OC"
+
+msgctxt "FBD7BDF6"
+msgid "~z~Where my boys at?"
+msgstr "~z~老子手下呢？"
+
+msgctxt "FC2B2CF9"
+msgid "~z~Oh how much?"
+msgstr "~z~哦，多少？"
+
+msgctxt "FCAA7D00"
+msgid ""
+"~z~Anyway, these projects all got the same layout, a staircase leading up on "
+"either side."
+msgstr "~z~总之，这些公屋的设计都差不多，两边各一个楼梯。"
+
+msgctxt "FD6AB15C"
+msgid "~z~Isn't that police work?"
+msgstr "~z~那不是警察的工作吗？"
+
+msgctxt "FDB52DE1"
+msgid "~z~And you? What do you want?"
+msgstr "~z~那你呢？你想怎么样？"
+
+msgctxt "FE11B527"
+msgid "100"
+msgstr "100"
+
+msgctxt "FE3A02BD"
+msgid "~z~Take this, you whitetrash asshole."
+msgstr "~z~尝尝这个，你这狗逼白皮垃圾。"
+
+msgctxt "FE522F17"
+msgid "~z~Sure. Sure you do."
+msgstr "~z~当然了，你肯定想。"

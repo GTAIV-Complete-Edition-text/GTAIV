@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: F1M7P\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 23:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+msgctxt "E4B44AF"
+msgid "You have ~1~ second to get back in the ~b~car."
+msgstr "在~1~秒内回到~b~车~s~上。"
+
+msgctxt "F908A1D"
+msgid "Pick up the customer from ~y~Outlook."
+msgstr "去~y~Outlook~s~接上乘客。"
+
+msgctxt "14DBD530"
+msgid "Pick up the customer from ~y~Boulevard."
+msgstr "去~y~Boulevard~s~接上乘客。"
+
+msgctxt "1844DE7A"
+msgid "~s~Take the customer to ~y~Fortside."
+msgstr "~s~将乘客送到~y~Fortside。"
+
+msgctxt "21856B23"
+msgid "You have ~1~ seconds to get back in the ~b~car."
+msgstr "你还有~1~秒可以回到那辆~b~车~s~上。"
+
+msgctxt "29B2FDBE"
+msgid "~s~Take the customer to ~y~East Island city."
+msgstr "~s~将乘客送到~y~East Island city。"
+
+msgctxt "2C7543E6"
+msgid "Pick up the customer from ~y~Firefly Island."
+msgstr "去~y~Firefly Island~s~接上乘客。"
+
+msgctxt "36BB18F2"
+msgid "Pick up the customer from ~y~South Bohan."
+msgstr "去~y~South Bohan~s~接上乘客。"
+
+msgctxt "4871BC5F"
+msgid "Pick up the customer from ~y~Industrial."
+msgstr "去~y~工业区~s~接上乘客。"
+
+msgctxt "524DCEF7"
+msgid "~s~Take the customer to ~y~Steinway."
+msgstr "~s~将乘客送到~y~Steinway。"
+
+msgctxt "5C0F639A"
+msgid "Pick up the customer from ~y~Cerveza Heights."
+msgstr "去~y~Cerveza Heights~s~接上乘客。"
+
+msgctxt "6D40C32C"
+msgid "~r~The fare was lost."
+msgstr "~r~这单没了。"
+
+msgctxt "73B09554"
+msgid "To quit the mission call Roman."
+msgstr "打电话给Roman可退出任务。"
+
+msgctxt "7F6B6781"
+msgid "Now release key and Pick dropoff(debug)"
+msgstr "(debug)"
+
+msgctxt "931F51B9"
+msgid "Pick up the customer from ~y~Northern Gardens."
+msgstr "去~y~Northern Gardens~s~接上乘客。"
+
+msgctxt "99931BCC"
+msgid "~r~The passenger was scared off."
+msgstr "~r~乘客被吓跑了。"
+
+msgctxt "AAACBDFF"
+msgid ""
+"Stop near the customer, or press ~INPUT_VEH_HORN~ to sound the horn to get "
+"the attention of the customer."
+msgstr "停到乘客附近，或按~INPUT_VEH_HORN~鸣笛引起乘客的注意。"
+
+msgctxt "AC908713"
+msgid "~s~Take the customer to ~y~Boulevard."
+msgstr "~s~将乘客送到~y~Boulevard。"
+
+msgctxt "B3F2D08B"
+msgid "Hurry up."
+msgstr "加快速度。"
+
+msgctxt "BA8622FE"
+msgid "~s~Take the customer to ~y~Industrial."
+msgstr "~s~将乘客送到~y~Industrial。"
+
+msgctxt "C7D93A0C"
+msgid "~s~Take the customer to ~y~East Island City."
+msgstr "~s~将乘客送到~y~East Island City。"
+
+msgctxt "CC59C30D"
+msgid "~s~Take the customer to ~y~Meadow Hills station."
+msgstr "~s~将乘客送到~y~Meadow Hills车站。"
+
+msgctxt "D698D773"
+msgid "Pick up the customer from ~y~Outlook."
+msgstr "去~y~Outlook~s~接上乘客。"
+
+msgctxt "D7449972"
+msgid "~r~The car was destroyed."
+msgstr "~r~车子被毁了。"
+
+msgctxt "DE936780"
+msgid "~s~Take the customer to ~y~Cerveza Heights."
+msgstr "~s~将乘客送到~y~Cerveza Heights。"
+
+msgctxt "E0A5EB8D"
+msgid "Pick up the customer from ~y~Beechwood City."
+msgstr "去~y~Beechwood City~s~接上乘客。"
+
+msgctxt "E37B2F9F"
+msgid "Go and get ~b~Roman's car~s~ for the pickup."
+msgstr "去拿~b~Roman的车~s~接单。"
+
+msgctxt "E7F33ACF"
+msgid "Pick up the customer from ~y~Hove Beach."
+msgstr "去~y~Hove Beach~s~接上乘客。"
+
+msgctxt "F2F0903A"
+msgid "~s~Take the customer to ~y~Schottler."
+msgstr "~s~将乘客送到~y~Schottler。"
+
+msgctxt "FFF4AA42"
+msgid "~s~Take the customer to ~y~Meadow Hills."
+msgstr "~s~将乘客送到~y~Meadow Hills。"
