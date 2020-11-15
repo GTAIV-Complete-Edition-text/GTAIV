@@ -54,7 +54,7 @@
 0x8E7BFE06=用~INPUT_AIM~和~PAD_RSTICK_ALL~瞄准目标。
 
 ;0x90DB4AC8=Head into the ~y~gun store.
-0x90DB4AC8=前往~y~枪店。
+0x90DB4AC8=进入~y~枪店。
 
 ;0x987FDA09=Dimitri is dead.
 0x987FDA09=Dimitri死了。
@@ -108,7 +108,7 @@
 0xE96A7865=进入~y~商店。
 
 ;0xF5B09429=Take Dimitri to ~y~Faustin's house.
-0xF5B09429=带Dimitri回~y~Faustin家。
+0xF5B09429=送Dimitri回~y~Faustin家。
 
 ;0xFFF774D4=~r~The gun shop worker was injured.~s~
 0xFFF774D4=~r~枪店员工受伤了。~s~

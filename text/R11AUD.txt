@@ -201,7 +201,7 @@
 0x32E8807A=R11_NE
 
 ;0x330288A9=~z~my apartment got burned down and so did my business.
-0x330288A9=~z~公寓给人烧了，事业也给烧了。
+0x330288A9=~z~公寓给人烧了，车行也给烧了。
 
 ;0x33355CE1=~z~You have a lot to apologize for. Since you got here I've had my computer smashed,
 0x33355CE1=~z~你要道歉的事可多了去了。~n~自打你来了以后，我电脑给人砸了，
@@ -222,7 +222,7 @@
 0x376117BE=R11_KG
 
 ;0x376A329A=~z~We will, but I have left something important at the apartment. Something I must show you, cousin.
-0x376A329A=~z~我们会的，不过我在公寓里落下了样重要的东西。我一定要给你看看那个，堂弟。
+0x376A329A=~z~我们会的，不过我在公寓里落了样重要的东西。我一定要给你看看那个，堂弟。
 
 ;0x38CD7058=R11_FK
 0x38CD7058=R11_FK
@@ -411,7 +411,7 @@
 0x65916AB2=R11_MF
 
 ;0x659304D6=~z~At least they want me dead and not you.
-0x659304D6=~z~至少他们要的是我的命不是你的命。
+0x659304D6=~z~至少他们要的是我的命，不是你的。
 
 ;0x65A06E0C=R11_KA
 0x65A06E0C=R11_KA
@@ -480,7 +480,7 @@
 0x6DEDDA70=R11_NAA
 
 ;0x6E5275C9=~z~I'm glad you turned up and made some Russian killers burn down my home and business!
-0x6E5275C9=~z~你来了搞的一群俄国杀手烧了我的家和事业我可真高兴。
+0x6E5275C9=~z~你来了搞的一群俄国杀手烧了我的家和车行我可真高兴。
 
 ;0x6FE0C729=R11_OA
 0x6FE0C729=R11_OA
@@ -576,7 +576,7 @@
 0x814FA993=~z~你有没有哪个亲戚在Bohan有地方给我们住的？
 
 ;0x822826F3=~z~Just a pile of rubble... everything smashed,
-0x822826F3=~z~就是一摊碎石...什么都毁了。
+0x822826F3=~z~成了一摊碎石...什么都毁了。
 
 ;0x82C7FB5B=R11_FF
 0x82C7FB5B=R11_FF
@@ -696,7 +696,7 @@
 0xA3524EBE=R11_ML
 
 ;0xA37461F4=~z~Here we are, the beginning of our new lives... again.
-0xA37461F4=~z~就是这了，我们新生活的开始...又一次。
+0xA37461F4=~z~就是这了，我们新生活的开始...重新开始。
 
 ;0xA4114782=~z~You cannot escape the past. Only thing is future, right?
 0xA4114782=~z~人无法逃避过去。眼前只会有未来，对吧？

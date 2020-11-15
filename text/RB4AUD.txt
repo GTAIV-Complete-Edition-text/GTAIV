@@ -3,7 +3,7 @@
 0x005FED0D=~z~好，宝贝，我马上过来。听着，要么你还是穿粉色那件吧，哈？
 
 ;0x05C3FF52=~z~Fine. Fine you got it, you want my word, you got my word.
-0x05C3FF52=~z~好啊。好，算你狠，保证是吧，我跟你保证。
+0x05C3FF52=~z~好啊。好，算你狠。保证是吧，老子跟你保证。
 
 ;0x061820A4=~z~Come back and see me.
 0x061820A4=~z~回来找我。
@@ -39,7 +39,7 @@
 0x2BB57591=RB4_CA
 
 ;0x2C03CBD5=~z~Hey, I said, I'll look after you.
-0x2C03CBD5=~z~嘿，我说了，我会罩你的。
+0x2C03CBD5=~z~喂，我说了，我会罩你的。
 
 ;0x3036E094=~z~This is a fucking frame up. You damn shysters.
 0x3036E094=~z~这他妈是个骗局，卑鄙小人。
@@ -177,7 +177,7 @@
 0x99CA52A0=010010100100
 
 ;0x9B6CA9B9=~z~There you're going to meet that guy named Johnny,
-0x9B6CA9B9=~z~去那儿找一个叫Johhny的人。
+0x9B6CA9B9=~z~去那儿找一个叫Johnny的人。
 
 ;0x9CB7AA23=200
 0x9CB7AA23=200
@@ -276,13 +276,13 @@
 0xE8974C53=~z~都在这儿了。很漂亮吧?
 
 ;0xEA99C181=~z~Yeah, yeah, the pink thing with the little feathers on the... yeah.
-0xEA99C181=~z~对，对，粉色那件，有层毛绒的...对。
+0xEA99C181=~z~对，对，粉色那件，有层毛绒的 *口哨* ...对。
 
 ;0xEB29B879=RB4_BC
 0xEB29B879=RB4_BC
 
 ;0xEB6C49B7=~z~Then you give Johnny half the money, the rest you bring back to me.
-0xEB6C49B7=~z~然后，钱分Johnny一半，剩下拿来给我。
+0xEB6C49B7=~z~然后，钱分Johnny一半，剩下的拿来给我。
 
 ;0xF228581B=~z~I need this from you.
 0xF228581B=~z~我要你说清楚。
