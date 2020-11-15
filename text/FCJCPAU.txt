@@ -24,16 +24,16 @@
 0x07A02D91=~z~哟，一起去脱衣舞俱乐部吧，哟？
 
 ;0x09527A8E=~z~Yo me need a lift man, can you pick me up a' Steinway?
-0x09527A8E=~z~Yo me need a lift man, can you pick me up a' Steinway?
+0x09527A8E=~z~哟，我需要接送，兄弟。你能来Steinway接我吗？
 
 ;0x0AF95A23=~z~Yo, me at BOABO man, come pick me up.
-0x0AF95A23=~z~Yo, me at BOABO man, come pick me up.
+0x0AF95A23=~z~哟，我在BOABO，兄弟。过来接我。
 
 ;0x0B2C80D0=FCJ_ACT_PLJ_GETCALL_STRIP_YES
 0x0B2C80D0=FCJ_ACT_PLJ_GETCALL_STRIP_YES
 
 ;0x0B6C3AC0=~z~Star, me down Meadows Park man, gimme a ride now star, link up.
-0x0B6C3AC0=~z~Star, me down Meadows Park man, gimme a ride now star, link up.
+0x0B6C3AC0=~z~哥们，我在Meadows Park，来接我一下，速来。
 
 ;0x0D0CD76C=~z~Rasta, it's me.
 0x0D0CD76C=~z~兄弟，是我。
@@ -54,7 +54,7 @@
 0x0F55CE69=FCJ_ACT_PLJ_GETCALL_LIFT_YES
 
 ;0x104BBF9C=~z~Yo, me need some transportation from Rotterdam Hill man, can you pick me up?
-0x104BBF9C=~z~Yo, me need some transportation from Rotterdam Hill man, can you pick me up?
+0x104BBF9C=~z~哟，我现在在Rotterdam Hill，需要有人接送，你能帮我吗？
 
 ;0x1117D152=~z~No, I can't go drinking just now.
 0x1117D152=~z~不，我现在不能去喝酒。
@@ -144,7 +144,7 @@
 0x3317921E=100
 
 ;0x342F7CDD=~z~Me down at Cerveza Heights man, link me up.
-0x342F7CDD=~z~Me down at Cerveza Heights man, link me up.
+0x342F7CDD=~z~我在Cerveza Heights，兄弟。来接我。
 
 ;0x3680C42C=~z~Yeah, man. Me see you here soon.
 0x3680C42C=~z~好，兄弟。我等你过来。
@@ -153,7 +153,7 @@
 0x37BE2430=~z~你想不想来打会儿台球啊，好兄弟？
 
 ;0x37F2C10A=~z~Me down at Firefly Island man, link up man, me need a ride, man.
-0x37F2C10A=~z~Me down at Firefly Island man, link up man, me need a ride, man.
+0x37F2C10A=~z~我在Firefly Island，兄弟。快过来，我需要接送，兄弟。
 
 ;0x395FA85A=100
 0x395FA85A=100
@@ -162,10 +162,10 @@
 0x39D4BCA3=~z~抱歉，我现在有点麻烦事要处理，Jacob。现在没法帮你。
 
 ;0x39F312F2=~z~Me need some transportation from Rotterdam Hill, can you pick me up?
-0x39F312F2=~z~Me need some transportation from Rotterdam Hill, can you pick me up?
+0x39F312F2=~z~我现在在Rotterdam Hill，需要有人接送，你能帮我吗？
 
 ;0x3BDADBBB=~z~Star, me down at South Slopes man, yo link up star. Me need a ride man, me need a ride.
-0x3BDADBBB=~z~Star, me down at South Slopes man, yo link up star. Me need a ride man, me need a ride.
+0x3BDADBBB=~z~哥们，我在South Slopes，快点来。我需要接送，兄弟，需要接送。
 
 ;0x3C61E03D=~z~No problem, man. Hit me up when you're free.
 0x3C61E03D=~z~没问题，兄弟。等你有空了再打给我。
@@ -177,7 +177,7 @@
 0x3D4EA4D9=100
 
 ;0x402DC49B=~z~Yo, me need a lift from BOABO.
-0x402DC49B=~z~Yo, me need a lift from BOABO.
+0x402DC49B=~z~哟，我需要你来BOABO接我。
 
 ;0x43885C47=010
 0x43885C47=010
@@ -201,7 +201,7 @@
 0x4A0148B6=~z~你想来打局台球吗？
 
 ;0x4A4965B7=~z~Star, me down Firefly Island man, link up man, me need a ride man, link up star, link up.
-0x4A4965B7=~z~Star, me down Firefly Island man, link up man, me need a ride man, link up star, link up.
+0x4A4965B7=~z~哥们，我在Firefly Island，快过来，我需要你接我，兄弟，快。
 
 ;0x4B0CBA23=100
 0x4B0CBA23=100
@@ -246,7 +246,7 @@
 0x5C9B0B20=~z~哟，之前一直忙生计对吧？要不要去脱衣舞俱乐部放松一下？
 
 ;0x5E52EF77=~z~Yo, star, me down Hove Beach man, me need a ride man, link up star, link up.
-0x5E52EF77=~z~Yo, star, me down Hove Beach man, me need a ride man, link up star, link up.
+0x5E52EF77=~z~哟，哥们，我在Hove Beach，需要接送。快过来，兄弟，快。
 
 ;0x5EC99AD4=FCJ_ACT_PLJ_CALL_HOSP_CANCEL
 0x5EC99AD4=FCJ_ACT_PLJ_CALL_HOSP_CANCEL
@@ -276,7 +276,7 @@
 0x688A5F41=FCJ_ACT_PLJ_GETCALL_STRIP_NO
 
 ;0x6BF370CC=~z~Yo, can you pick me up from the airport?
-0x6BF370CC=~z~Yo, can you pick me up from the airport?
+0x6BF370CC=~z~哟，你能来机场接我吗？
 
 ;0x6C22F69D=~z~Yo, you wanna go down the strip club, Mr. Mention?
 0x6C22F69D=~z~哟，想去脱衣舞俱乐部吗，懂哥？
@@ -303,7 +303,7 @@
 0x7302E2C1=FCJ_ACT_GETCALL_LIFT_HOVE_BEACH
 
 ;0x7369A852=~z~Yo star, me Downtown man, can come pick me up.
-0x7369A852=~z~Yo star, me Downtown man, can come pick me up.
+0x7369A852=~z~哟，兄弟，我在Downtown，能来接我吗？
 
 ;0x7435F8CE=~z~Mek we go play some darts?
 0x7435F8CE=~z~要不要去玩会儿飞镖？
@@ -345,7 +345,7 @@
 0x83820E38=010
 
 ;0x86C1C709=~z~Yo star, me there at Outlook Park man, can you link me up man? Me need a ride.
-0x86C1C709=~z~Yo star, me there at Outlook Park man, can you link me up man? Me need a ride.
+0x86C1C709=~z~哟，哥们，我在Outlook Park，你能过来吗？我需要接送。
 
 ;0x87D5737F=~z~Niko, me hungry, man. You wanna get something fe eat?
 0x87D5737F=~z~Niko，我饿了，兄弟。你想去吃点吗？
@@ -423,7 +423,7 @@
 0xA6A74E6C=~z~当然，我一小时内就到。
 
 ;0xAB74984C=~z~Me down at East Hook, star, me need a ride, man. Can ya link me up?
-0xAB74984C=~z~Me down at East Hook, star, me need a ride, man. Can ya link me up?
+0xAB74984C=~z~我在East Hook，哥们，需要接送，兄弟。你能帮我吗？
 
 ;0xAB79DBDE=100
 0xAB79DBDE=100
@@ -435,10 +435,10 @@
 0xACDD9104=FCJ_ACT_GETCALL_DARTS
 
 ;0xAD3E0D7C=~z~Niko, can you pick me up a' me house man, me need a lift?
-0xAD3E0D7C=~z~Niko, can you pick me up a' me house man, me need a lift?
+0xAD3E0D7C=~z~Niko，你能来我家接我吗，兄弟？我需要搭车。
 
 ;0xAD9909E0=~z~Yo, Niko, me vexed when me nuh hear from you.
-0xAD9909E0=~z~Yo, Niko, me vexed when me nuh hear from you.
+0xAD9909E0=~z~哟，Niko，没有你的消息我很烦恼。
 
 ;0xAE57BE7D=FCJ_ACT_GETCALL_EAT
 0xAE57BE7D=FCJ_ACT_GETCALL_EAT
@@ -453,7 +453,7 @@
 0xB0E4496C=~z~有空一起吃顿饭吗？
 
 ;0xB2B4A6CC=~z~Yo, star, me down East Hook, man. Link up, star, me need a ride.
-0xB2B4A6CC=~z~Yo, star, me down East Hook, man. Link up, star, me need a ride.
+0xB2B4A6CC=~z~哟，哥们，我在East Hook，兄弟。快过来，我需要接送。
 
 ;0xB2C2243F=100
 0xB2C2243F=100
@@ -486,7 +486,7 @@
 0xB72704E1=FCJ_ACT_GETCALL_LIFT_DOWNTOWN
 
 ;0xB76FFE01=~z~Star, yeah, me down Firefly Projects, man, link up star, me need a ride.
-0xB76FFE01=~z~Star, yeah, me down Firefly Projects, man, link up star, me need a ride.
+0xB76FFE01=~z~哥们，对，我在Firefly公屋社区。快过来兄弟，我需要接送。
 
 ;0xB7749D8B=~z~Whappen to you, rasta? Are we spar today?
 0xB7749D8B=~z~你还好吗，兄弟？去不去喝酒？
@@ -504,13 +504,13 @@
 0xBB28F0CC=FCJ_ACT_GETCALL_LIFT_FIREFLY_PROJECTS
 
 ;0xBB950BAA=~z~Yo, me down at Cerveza Heights man, link me up.
-0xBB950BAA=~z~Yo, me down at Cerveza Heights man, link me up.
+0xBB950BAA=~z~哟，我现在在Cerveza Heights，兄弟。过来接我。
 
 ;0xBD0E5E24=~z~Yo star, wha'gwan? Yeah, me down South Slopes man, yo, link up star, me need a ride.
-0xBD0E5E24=~z~Yo star, wha'gwan? Yeah, me down South Slopes man, yo, link up star, me need a ride.
+0xBD0E5E24=~z~哟，兄弟，你好吗？我在South Slopes，兄弟，快过来，我要搭车。
 
 ;0xC0B196AD=~z~Yo, me down at Beechwood, man. Link up, star, me need a ride.
-0xC0B196AD=~z~Yo, me down at Beechwood, man. Link up, star, me need a ride.
+0xC0B196AD=~z~哟，我在Beechwood，兄弟。快过来，我需要接送。
 
 ;0xC310C355=FCJ_ACT_GETCALL_LIFT_CERVESA_HEIGHTS
 0xC310C355=FCJ_ACT_GETCALL_LIFT_CERVESA_HEIGHTS
@@ -537,7 +537,7 @@
 0xC7387614=~z~哟，你想去吃顿饭吗？
 
 ;0xC893C427=~z~Niko, can you pick me up in my yard man? Me need a lift.
-0xC893C427=~z~Niko, can you pick me up in my yard man? Me need a lift.
+0xC893C427=~z~Niko，你能来我家接我吗。兄弟？我需要搭个车。
 
 ;0xC90CD246=~z~Sorry man, I can't do a show right now - I've got a problem I've got to deal with.
 0xC90CD246=~z~抱歉，兄弟，我现在没空看表演。还有重要的事要忙。
@@ -549,16 +549,16 @@
 0xCD4CB564=FCJ_ACT_PLJ_GETCALL_LIFT_NO
 
 ;0xCE963276=~z~Yo me down a' Beechwood City, man, come pick me up.
-0xCE963276=~z~Yo me down a' Beechwood City, man, come pick me up.
+0xCE963276=~z~哟，我在Beechwood City，兄弟，过来接我。
 
 ;0xCF61E1EE=FCJ_ACT_PLJ_GETCALL_EAT_YES
 0xCF61E1EE=FCJ_ACT_PLJ_GETCALL_EAT_YES
 
 ;0xD02B61D4=~z~Yo star, me Downtown star, me need a ride.
-0xD02B61D4=~z~Yo star, me Downtown star, me need a ride.
+0xD02B61D4=~z~哟，兄弟，我在Downtown，需要接送。
 
 ;0xD11F2675=~z~Me down a' East Island City star, link up right pronto.
-0xD11F2675=~z~Me down a' East Island City star, link up right pronto.
+0xD11F2675=~z~我现在在东岛城，哥们。快来接我，兄弟。
 
 ;0xD169DB0C=100
 0xD169DB0C=100
@@ -570,7 +570,7 @@
 0xD2DF77CB=~z~没问题，兄弟。我自己回去吧。
 
 ;0xD52BD460=~z~Me need a lift from Meadow Hills, come pick me up.
-0xD52BD460=~z~Me need a lift from Meadow Hills, come pick me up.
+0xD52BD460=~z~我在Meadow Hills，需要搭便车，来接我吧。
 
 ;0xD67912D6=FCJ_ACT_GETCALL_POOL_FIRST
 0xD67912D6=FCJ_ACT_GETCALL_POOL_FIRST
@@ -612,7 +612,7 @@
 0xDDF25FC5=~z~哟，我需要你来Meadows Park接我。
 
 ;0xDEF9F778=~z~Yo star, wha'gwan, man? Me there at Outlook Park, man. Me need a ride yo.
-0xDEF9F778=~z~Yo star, wha'gwan, man? Me there at Outlook Park, man. Me need a ride yo.
+0xDEF9F778=~z~哟，哥们，你还好吗？我在Outlook Park，兄弟。我需要搭个车。
 
 ;0xDEFE2577=~z~Yeah man, no problem, man - just call me when you're free.
 0xDEFE2577=~z~行兄弟，没问题，兄弟－等你有空了再打给我。
@@ -621,13 +621,13 @@
 0xDF306A25=FCJ_ACT_GETCALL_DRINK
 
 ;0xE3B54BA1=~z~Me down a' East Island City man, just pick me up, seen?
-0xE3B54BA1=~z~Me down a' East Island City man, just pick me up, seen?
+0xE3B54BA1=~z~我现在在东岛城，兄弟，来接我吧，懂？
 
 ;0xE43A4FC9=010
 0xE43A4FC9=010
 
 ;0xE45B72BF=~z~Yo, I'm at Meadow Hills, me need a link man, ride up.
-0xE45B72BF=~z~Yo, I'm at Meadow Hills, me need a link man, ride up.
+0xE45B72BF=~z~哟，我在Meadow Hills，需要搭个车，麻烦你了。
 
 ;0xE9619016=~z~Wha'gwan, me breda? It's me, Jacob.
 0xE9619016=~z~你好吗，兄弟？是我，Jacob。
@@ -642,10 +642,10 @@
 0xEA8878C3=100
 
 ;0xEE2B1599=~z~What mek it so long me no hear from you?
-0xEE2B1599=~z~What mek it so long me no hear from you?
+0xEE2B1599=~z~你怎么一直不联系我？
 
 ;0xEE83AD2E=~z~Me down Willis, come pick me up.
-0xEE83AD2E=~z~Me down Willis, come pick me up.
+0xEE83AD2E=~z~我在Willis，过来接我。
 
 ;0xF0E7CA00=~z~Sure man - I'm on my way.
 0xF0E7CA00=~z~当然，兄弟，我这就来。
@@ -672,7 +672,7 @@
 0xF67693DA=~z~哟，兄弟，你想来把飞镖啥的吗？
 
 ;0xF6B6A06C=~z~Niko, me breda, me need a favor man, can you pick me up a' me house?
-0xF6B6A06C=~z~Niko, me breda, me need a favor man, can you pick me up a' me house?
+0xF6B6A06C=~z~Niko，好兄弟，我需要你帮个忙。你能来我家接我一趟吗？
 
 ;0xF718C89F=~z~No problem, man. Me find another way.
 0xF718C89F=~z~没问题，兄弟。我自己想办法吧。
@@ -696,7 +696,7 @@
 0xFA8037A6=FCJ_ACT_GETCALL_HOSP_ACCEPT
 
 ;0xFC602BE3=~z~Star, me down a' Hove Beach man, link up man, me need a ride man, link up.
-0xFC602BE3=~z~Star, me down a' Hove Beach man, link up man, me need a ride man, link up.
+0xFC602BE3=~z~哥们，我在Hove Beach，尽快过来兄弟，我需要你接我，兄弟，快。
 
 ;0xFCA2122B=~z~Yo, I need a lift from the airport.
 0xFCA2122B=~z~哟，能来机场接我吗。

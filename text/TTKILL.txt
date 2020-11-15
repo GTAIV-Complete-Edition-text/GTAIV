@@ -9,7 +9,7 @@
 0x14CF4D5F=你可以使用警用电脑搜索警方数据库，或查看本区内任何已报告的且正在活动的犯罪。
 
 ;0x19C8AC6E=~s~Mark Rivas's house on your radar.
-0x19C8AC6E=~s~在小地图上标记Rivas的房子。
+0x19C8AC6E=~s~在小地图上标记Rivas的住处。
 
 ;0x19E530AA=~s~Chase down and get rid of ~r~Rivas.
 0x19E530AA=~s~追击~r~Rivas，~s~干掉他。
@@ -36,7 +36,7 @@
 0x43782AB8=电脑的操作说明会在每个页面的底部出现。
 
 ;0x5847D453=~s~Press ~ACCEPT~ to mark Rivas's house on the radar.
-0x5847D453=~s~按~ACCEPT~在小地图上标记Rivas的房子。
+0x5847D453=~s~按~ACCEPT~在小地图上标记Rivas的住处。
 
 ;0x68ECB500=~s~Access the police computer.
 0x68ECB500=~s~访问警用电脑。
@@ -63,5 +63,5 @@
 0xFC7B9422=~s~按~INPUT_VEH_HORN~打开或关闭警笛。
 
 ;0xFF24F727=~s~Go to Rivas's ~y~house.
-0xFF24F727=~s~前往Rivas的~y~房子。
+0xFF24F727=~s~前往Rivas的~y~住处。
 

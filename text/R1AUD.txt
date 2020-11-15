@@ -3,7 +3,7 @@
 0x032477B9=R1_BV_XXX1
 
 ;0x037C1C26=~z~You ever been?
-0x037C1C26=~z~你来过？
+0x037C1C26=~z~你来过吗？
 
 ;0x0496CBC1=~z~Daddy's back, you bitches...
 0x0496CBC1=~z~老子的背，婊子们...
@@ -66,13 +66,13 @@
 0x0D4F8A82=~z~噢，我靠...靠，靠，靠！
 
 ;0x0DB5F350=~z~I always wanted to make it big... own a nice place, get a dog, a house...
-0x0DB5F350=~z~我一直想把事业做大...有个好去处，养条狗，买栋房...
+0x0DB5F350=~z~我一直想有所成就...有个好去处，养条狗，买栋房...
 
 ;0x0F30DC75=~z~My cousin is here!
 0x0F30DC75=~z~我的堂弟来了！
 
 ;0x0F8615CB=~z~War is where the young and stupid are tricked by the old and bitter into killing each other.
-0x0F8615CB=~z~战争就是年轻无知者被一群老狐狸忽悠到一起自相残杀。
+0x0F8615CB=~z~战争就是年轻无知者被一群老狐狸骗到一起自相残杀。
 
 ;0x11D76792=~z~-Just take over the world someplace else, alright?~n~-Yeah, buddy!
 0x11D76792=~z~－麻烦换个地方去掌控天下好吧？~n~－就是！
@@ -105,7 +105,7 @@
 0x1B7CEE3D=R1_BR
 
 ;0x1CA6292F=~z~Niko. Give me a hug. Good to have you here cousin... I've got something for you.
-0x1CA6292F=~z~Niko。抱一个。堂弟你来了真好...我给你准备了点东西。
+0x1CA6292F=~z~Niko，抱一个。堂弟你来了真好...我给你准备了点东西。
 
 ;0x1D279514=~z~Immigrants here do not make it very far from the boats they come in on.
 0x1D279514=~z~移民们在这和在他们来的船上没什么区别。
@@ -459,7 +459,7 @@
 0x83633418=~z~你这是要干嘛？赶紧回家吧。~c~陛下您同意吧？
 
 ;0x8407E160=~z~Just a temporary place.
-0x8407E160=~z~暂时住一下。
+0x8407E160=~z~先在这儿凑合。
 
 ;0x84390306=R1_BI_XXX3
 0x84390306=R1_BI_XXX3
@@ -642,7 +642,7 @@
 0xB2A2D9A6=~z~不用掌控世界，但能做得不错。
 
 ;0xB2F2A67A=~z~Err, it's in the shop... come on!
-0xB2F2A67A=~z~呃，在店里呢...来吧！
+0xB2F2A67A=~z~呃，在店里呢...走吧！
 
 ;0xB4205303=~z~Hove Beach is our little corner of Eastern Europe.
 0xB4205303=~z~Hove Beach就是我们东欧的一块小地盘。

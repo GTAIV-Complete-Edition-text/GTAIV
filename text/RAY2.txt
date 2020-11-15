@@ -1,6 +1,6 @@
 ﻿[RAY2]
 ;0x10A2EC26=~s~Wait here until the pickup is completed.
-0x10A2EC26=~s~在这里等到收集完成。
+0x10A2EC26=~s~等待回收完成。
 
 ;0x2FA77AFD=~r~You have abandoned the truck.
 0x2FA77AFD=~r~你抛弃了卡车。
@@ -21,16 +21,16 @@
 0x6108E58F=~r~Johnny死了。
 
 ;0x6196556A=~s~Drive to the ~y~second diamond pickup.
-0x6196556A=~s~开到~y~第二个钻石回收点。
+0x6196556A=~s~前往~y~第二个钻石回收点。
 
 ;0x6DA46D86=~s~Drive to the ~y~first diamond pickup.
-0x6DA46D86=~s~开到~y~第一个钻石回收点。
+0x6DA46D86=~s~前往~y~第一个钻石回收点。
 
 ;0x7C301BD9=~r~Tuna is dead.
 0x7C301BD9=~r~Tuna死了。
 
 ;0x80D913D7=~s~Wait here while Tuna and Johnny make the pickup.
-0x80D913D7=~s~在这等到Tuna和Johnny收好垃圾。
+0x80D913D7=~s~等待Tuna和Johnny回收垃圾。
 
 ;0x841C1B3D=~s~Lose your wanted level.
 0x841C1B3D=~s~降低你的通缉度。

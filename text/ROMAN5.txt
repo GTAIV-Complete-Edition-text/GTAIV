@@ -15,7 +15,7 @@
 0x63827858=~S~倒车出库。
 
 ;0x6D18B330=If you are seen leaving the zone by the cops then they will refocus their search and a new zone will be created.
-0x6D18B330=你若在离开搜捕范围时被警察目击，他们就会重新划定搜捕范围。
+0x6D18B330=你若在离开搜捕范围时被警察目击，警方就会重新划定搜捕范围。
 
 ;0x8ECE46AF=~S~You can use the Pay 'n' Spray to clear your wanted level as long as the cops don't see you entering.
 0x8ECE46AF=~S~只要警察没有目击你进入，你就可以通过喷漆店清空你的通缉度。

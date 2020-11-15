@@ -102,7 +102,7 @@
 0xB9AF493B=~r~你惊动了放高利贷的。
 
 ;0xBB624D4F=~s~During a phone call press ~INPUT_KB_DOWN~ to skip through the conversation or ~INPUT_PHONE_CANCEL~ to hang up.
-0xBB624D4F=~s~通话时按~INPUT_KB_DOWN~可跳过对话，按~INPUT_PHONE_CANCEL~可挂断电话。
+0xBB624D4F=~s~通话时按~INPUT_KB_DOWN~快进对话，按~INPUT_PHONE_CANCEL~挂断电话。
 
 ;0xC707BB49=You can zoom out on the radar by holding ~INPUT_ZOOM_RADAR~.
 0xC707BB49=按住~INPUT_ZOOM_RADAR~可缩放小地图。

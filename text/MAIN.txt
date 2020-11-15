@@ -3892,7 +3892,7 @@
 0x3A67EE0A=Boxville
 
 ;0x1C59EE6F=Bucanneer
-0x1C59EE6F=Buccanneer
+0x1C59EE6F=Buccaneer
 
 ;0xAFBB2CA4=Burrito
 0xAFBB2CA4=Burrito
@@ -13711,28 +13711,28 @@
 0xAFD1328C=长按~PAD_Y~退出。
 
 ;0xDDA40C02=Backup from the Holland Hustlers are leaving.
-0xDDA40C02=Holland Hustlers的增援走了。
+0xDDA40C02=Holland欺诈师帮的增援走了。
 
 ;0xE97B23B0=Backup from the Holland Hustlers have given up trying to reach you.
-0xE97B23B0=Holland Hustlers的增援放弃接近你了。
+0xE97B23B0=Holland欺诈师帮的增援放弃接近你了。
 
 ;0xB27635AB=The Holland Hustlers are watching your back.
-0xB27635AB=Holland Hustlers的增援正在掩护你。
+0xB27635AB=Holland欺诈师帮的增援正在保护你。
 
 ;0xCBAE681B=A member of the Holland Hustlers has died.
-0xCBAE681B=一名Holland Hustlers的增援死了。
+0xCBAE681B=一名Holland欺诈师帮的增援死了。
 
 ;0x2431991C=The Holland Hustlers backing you up have died.
-0x2431991C=你的Holland Hustlers的增援都死了。
+0x2431991C=你的Holland欺诈师帮的增援都死了。
 
 ;0x36873DC7=A member of the Holland Hustlers left.
-0x36873DC7=一名Holland Hustlers的增援走了。
+0x36873DC7=一名Holland欺诈师帮的增援走了。
 
 ;0xFADBC671=The Holland Hustlers backing you up have left.
-0xFADBC671=你的Holland Hustlers的增援都走了。
+0xFADBC671=你的Holland欺诈师帮的增援都走了。
 
 ;0x14E9FA8D=Backup from the Holland Hustlers can't reach your current location.
-0x14E9FA8D=BHolland Hustlers的增援无法到达你当前的位置。
+0x14E9FA8D=Holland欺诈师帮的增援无法到达你当前的位置。
 
 ;0x9A24B24E=Roman's car service can't reach your current location.
 0x9A24B24E=Roman的叫车服务无法到达你当前的位置。
@@ -17163,7 +17163,7 @@
 0xCD06E2B6=~s~若你看上去受伤了，医务人员将会治疗你。这将收取一定费用。
 
 ;0xD652249D=If the wanted stars are grayed out then the cops have lost sight of you.
-0xD652249D=通缉星变灰说明警方没有看见你。
+0xD652249D=通缉星变灰说明警察没有看见你。
 
 ;0xFD053FD5=Press ~INPUT_PICKUP~ to leave with your girlfriend.
 0xFD053FD5=按~INPUT_PICKUP~跟你的女友一起离开。
@@ -17340,7 +17340,7 @@
 0xE7BD92D6=~s~按~INPUT_VEH_HANDBRAKE~使用手刹。
 
 ;0xC396E97E=You can make changes to your phone profile at any point. You can customize ringtype and ringtone.
-0xC396E97E=你可以随时更改你手机的设置，还可以自定义响铃模式和铃声。
+0xC396E97E=你可以随时更改你手机的设置，还可以自定义铃声和响铃模式。
 
 ;0x3D574370=If you get a better phone you'll have more customizable options, such as different themes.
 0x3D574370=若你拥有更好的手机，你可自定义的内容会更多，例如更换主题。
@@ -18519,7 +18519,7 @@
 0x306561B3=再试一次？
 
 ;0x14AD6416=Try again? (~a~)
-0x14AD6416=再试一次？(~a~)
+0x14AD6416=再试一次？ ~n~(~a~)
 
 ;0xE2DFA213=Cheats
 0xE2DFA213=秘籍
@@ -22377,7 +22377,7 @@
 0xB5B7B795=Humboldt河浮尸
 
 ;0x68F6DE9B=A Fare to Remember
-0x68F6DE9B=记住代价
+0x68F6DE9B=让车钱飞
 
 ;0xC8DB5E1E=South Bohan Community Leader
 0xC8DB5E1E=South Bohan社区领袖
@@ -22587,7 +22587,7 @@
 0x0905851A=孩子找到了
 
 ;0x9E980EA6=Majestic Massacre
-0x9E980EA6=Majestic屠杀
+0x9E980EA6=酒店大屠杀
 
 ;0x89D3E512=O'Malley Found
 0x89D3E512=O'Malley找到了
@@ -23382,7 +23382,7 @@
 0xF4DE0F7B=Niko ，想象一下你去交易的话我就能带Mallorie去度蜜月吧。拜托，为了我你也去交易吧－我是你堂兄啊。Rom
 
 ;0xFD8320C5=Shit. Need help. Come to the depot quick, man! Rom
-0xFD8320C5=靠。求助。速来车行，老弟！Rom
+0xFD8320C5=靠。求救。速来车行，老弟！Rom
 
 ;0x1821D602=Niko, I'm at the church. I'm getting married. Wear some smart clothes and get over here as soon as you can. Rom
 0x1821D602=Niko，我现在在教堂。我要结婚了。穿套像样的衣服赶紧过来。Rom
@@ -25014,22 +25014,22 @@
 0x31B0E092=律师行
 
 ;0xC9FCB633=Mr Goldberg would still like to interview you. We shall contact you soon to arrange a new appointment. G.L. and S.
-0xC9FCB633=Goldberg先生仍会为您进行面试。我们将尽快为您安排新的面试时间，并进行通知。 G.L. and S.
+0xC9FCB633=Goldberg先生仍会为您进行面试。我们将尽快为您安排新的面试时间，并进行通知。 G.L.&S.
 
 ;0x73B909AD=Mr Goldberg has re-scheduled your interview for tomorrow at 12:00. G.L. and S.
-0x73B909AD=Goldberg先生已将您的面试重新安排到了明天中午12:00。 G.L. and S.
+0x73B909AD=Goldberg先生已将您的面试重新安排到了明天中午12:00。 G.L.&S.
 
 ;0xA5A1ED7E=AUTOMATED REPLY: Our offices are currently closed. Your query will receive our fullest attention at the earliest opportunity. Thank you. G.L. and S.
-0xA5A1ED7E=自动回复：现在非本律师行的营业时间。我们将会尽快阅读处理您的应聘申请。感谢您的支持。 G.L. and S.
+0xA5A1ED7E=自动回复：现在非本律师行的营业时间。我们将会尽快阅读处理您的应聘申请。感谢您的支持。 G.L.&S.
 
 ;0xB87892EF=Mr Goldberg has re-scheduled your interview for this evening at 18:00. G.L. and S.
-0xB87892EF=Goldberg先生已将您的面试安排到了今晚18:00。 G.L. and S.
+0xB87892EF=Goldberg先生已将您的面试安排到了今晚18:00。 G.L.&S.
 
 ;0xAAD4F7A8=Mr Goldberg has re-scheduled your interview for tomorrow morning at 08:00. G.L. and S.
-0xAAD4F7A8=Goldberg先生已将您的面试安排到了明早08:00。 G.L. and S.
+0xAAD4F7A8=Goldberg先生已将您的面试安排到了明早08:00。 G.L.&S.
 
 ;0xD3FC49F6=Mr Goldberg has re-scheduled your interview for tomorrow evening at 18:00. G.L. and S.
-0xD3FC49F6=Goldberg先生已将您的面试安排到了明晚18:00。 G.L. and S.
+0xD3FC49F6=Goldberg先生已将您的面试安排到了明晚18:00。 G.L.&S.
 
 ;0xC5DFADBD=PLACEHOLDER
 0xC5DFADBD=PLACEHOLDER
@@ -25149,7 +25149,7 @@
 0x464FD8B9=感谢你替我弄来了Bobcat。~a~
 
 ;0x9116EE46=Thanks for the Buccaneer, Niko. ~a~
-0x9116EE46=多谢你的Buccanneer，Niko。~a~
+0x9116EE46=多谢你的Buccaneer，Niko。~a~
 
 ;0x62EC91F2=Excellent work getting me a Comet. ~a~
 0x62EC91F2=能弄来那辆Comet真是太棒了。~a~
@@ -27003,7 +27003,7 @@
 0xAE9A9EA4=~z~~x~行吧，Roman跟我说因为你是他堂弟还是啥的，让我一定要来接你。
 
 ;0xBC5D3A29=~z~~x~I'm not getting paid to lug your ugly ass around and I'm not happy about it, okay, my friend? Get in!
-0xBC5D3A29=~z~~x~载着你着丑逼到处跑我可是一分钱都拿不到，大爷我很不爽，懂吗，我的朋友？上来吧。
+0xBC5D3A29=~z~~x~载着你这丑逼到处跑我可是一分钱都拿不到，大爷我很不爽，懂吗，我的朋友？上来吧。
 
 ;0xBB14CE04=~z~~x~Roman is doing well, you see this new car, my friend?
 0xBB14CE04=~z~~x~Roman最近赚了，瞧见这新车了吗，我的朋友？
@@ -29085,7 +29085,7 @@
 0x384454BD=~z~~x~操，感觉自己得到了升华，跟猛力锻炼过一样。回去吧，NB。
 
 ;0xA86D95FF=~z~~x~Yo, go over to the Triangle Building, Nicky. There's some mad shit to show these girls around there.
-0xA86D95FF=~z~~x~哟，去三角大楼那边吧，Nicky。那里有点好康的给姑娘们看。
+0xA86D95FF=~z~~x~哟，去三角大楼那边吧，Nicky。那里有点牛逼玩意给姑娘们看。
 
 ;0x4BFFD3E8=~z~~x~This is how it is when you roll with the big boys, hitting it hard. Let's go back, Nicky.
 0x4BFFD3E8=~z~~x~和纯爷们在一起就是这种感觉，超级稳健。可以回去了，Nicky。
@@ -29271,7 +29271,7 @@
 0xA5D81415=~z~~x~Nicky，我需要你来开船，可以吗？
 
 ;0x9E046E2D=~z~~x~Take us over to the Statue of Happiness. That's some intense shit.
-0x9E046E2D=~z~~x~带大家去看幸福女神像*，那玩意老牛逼了。~n~(配音是Statue of Freedom，与字幕不符)
+0x9E046E2D=~z~~x~带大家去看幸福女神像*，那玩意老牛逼了。~n~(注：配音是Statue of Freedom，与字幕不符)
 
 ;0xB2FA4624=~z~~x~You ladies are much hotter than that bitch. Let's cruise back, Nicky.
 0xB2FA4624=~z~~x~你们二位可比那个鬼神性感多了。我们返航吧，Nicky。
