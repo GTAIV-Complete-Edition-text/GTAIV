@@ -5116,13 +5116,13 @@
 0x8EF35A2D=特技飞跃再次完成。
 
 ;0x3FFEFE42=All diseased pigeons killed. LC is a cleaner place.
-0x3FFEFE42=所有的瘟疫鸽子都被杀了。自由城更干净了。
+0x3FFEFE42=已消灭所有的瘟疫鸽子。自由城更干净了。
 
 ;0xE93E6A7C=~1~ flying rats left in Liberty City
-0xE93E6A7C=自由城内还有 ~1~ 只鸽子
+0xE93E6A7C=自由城内还有 ~1~ 只鸽子。
 
 ;0x90B0E5F8=Just one flying rat left in Liberty City
-0x90B0E5F8=自由城内只剩一只鸽子了
+0x90B0E5F8=自由城内只剩一只鸽子了。
 
 ;0x7F586D9D=Come back when you've got the cash.
 0x7F586D9D=等你有钱了再来。
@@ -8446,7 +8446,7 @@
 0xC9D47327=这个伊万不坏
 
 ;0xBE965CAB=Concrete Jungle
-0xBE965CAB=水泥丛林
+0xBE965CAB=弱肉强食
 
 ;0x84E6E13D=Shadow
 0x84E6E13D=如影随行
@@ -8575,7 +8575,7 @@
 0x06BBE939=漫漫长落
 
 ;0xD1CFFF62=Taking in the Trash
-0xD1CFFF62=垃圾回收
+0xD1CFFF62=垃圾分类
 
 ;0xA227A012=Meltdown
 0xA227A012=融毁
@@ -8734,7 +8734,7 @@
 0xEAE8C6E0=这个伊万不坏
 
 ;0x2BD94A2C=Concrete Jungle
-0x2BD94A2C=水泥丛林
+0x2BD94A2C=弱肉强食
 
 ;0xD8F94AED=Shadow
 0xD8F94AED=如影随行
@@ -8863,7 +8863,7 @@
 0x0F9D2311=漫漫长落
 
 ;0xC051812F=Taking in th...
-0xC051812F=垃圾回收
+0xC051812F=垃圾分类
 
 ;0x007E8294=Meltdown
 0x007E8294=融毁
@@ -9238,7 +9238,7 @@
 0xF8278D76=~z~~x~「啥都好？」
 
 ;0x1564C68C=~z~~x~"Not salads".
-0x1564C68C=~z~~x~「沙拉不好。」
+0x1564C68C=~z~~x~「沙拉除外。」
 
 ;0x2737EA32=~z~~x~That's not a disease, leprosy is a disease.
 0x2737EA32=~z~~x~那才不是病，麻风才算是病。
@@ -17334,7 +17334,7 @@
 0x50E3A254=你可以在你的公寓中看电视。
 
 ;0x8CD72440=~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake. ~n~Press ~PAD_A~ for alternative handbrake (Standard controls).
-0x8CD72440=~s~按~INPUT_VEH_HANDBRAKE~使用手刹。~n~按~PAD_A~也是手刹(标准控制模式下)。
+0x8CD72440=~s~按~INPUT_VEH_HANDBRAKE~使用手刹。~n~按~PAD_A~也是手刹(标准键位下)。
 
 ;0xE7BD92D6=~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake.
 0xE7BD92D6=~s~按~INPUT_VEH_HANDBRAKE~使用手刹。
@@ -17820,7 +17820,7 @@
 0x8029C2F3=Derrick
 
 ;0x8C7712A5=Fixer
-0x8C7712A5=Fixer
+0x8C7712A5=中间人
 
 ;0x4EFFDF64=Bernie
 0x4EFFDF64=Bernie
