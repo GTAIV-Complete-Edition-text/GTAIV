@@ -1,12 +1,12 @@
 ﻿[GCKKC1A]
 ;0x00C4141C=~z~He's a really spiritual person, Niko.
-0x00C4141C=~z~他真是一个很有灵性的人，Niko。
+0x00C4141C=~z~他这人真的很有灵性，Niko。
 
 ;0x01474248=GCKC_GIVE_BACK_BE
 0x01474248=GCKC_GIVE_BACK_BE
 
 ;0x01F9AF22=~z~I mean, I was born into privilege. I was given an education.
-0x01F9AF22=~z~我是说，我生来就享有特权。我受过教育。
+0x01F9AF22=~z~我是说，我是富人家的孩子，有机会接受教育。
 ;0x0289705D=GCKC_RIGHTS_EA
 0x0289705D=GCKC_RIGHTS_EA
 
@@ -20,13 +20,13 @@
 0x033A11DB=GCKC_TREMAIN_HP
 
 ;0x039B8629=~z~Great.
-0x039B8629=~z~很好。
+0x039B8629=~z~挺好。
 
 ;0x03EC87CF=~z~Do you not think that it is vain to think you can make a difference? To think it is your concern?
-0x03EC87CF=~z~难道你不觉得，认为自己可以发挥作用，认为这事跟你有关，是没有意义的吗？
+0x03EC87CF=~z~难道你不觉得，认为自己可以发挥作用，认为这是你的责任，是没有意义的吗？
 
 ;0x03FB73B1=~z~I'll bear that in mind.
-0x03FB73B1=~z~我会记住的。
+0x03FB73B1=~z~我会记着这事的。
 
 ;0x04504166=GCKC_GIVE_BACK_BG
 0x04504166=GCKC_GIVE_BACK_BG
@@ -38,7 +38,7 @@
 0x04FD51C2=GCKC_DORIAN_GL
 
 ;0x0596559A=~z~How're you finding this, Niko?
-0x0596559A=~z~你怎么找到这个的，Niko？
+0x0596559A=~z~你觉得这怎么样，Niko？
 
 ;0x05C95510=GCKC_TREMAIN_HR
 0x05C95510=GCKC_TREMAIN_HR
@@ -50,7 +50,7 @@
 0x0778449F=GCKC_TREMAIN_HJ
 
 ;0x07B89BFA=~z~I thought it would be like I imagined. But I'm really lonely. I mean, it's nice to be out with you.
-0x07B89BFA=~z~我以为会像我想象的那样。但是我真的很孤单。我是说，很高兴和你一起出去。
+0x07B89BFA=~z~我以为能过上想象中的生活，但实际上我很孤独。我是说，很高兴能和你出来玩。
 
 ;0x086EAFA3=GCKC_DATING_DA
 0x086EAFA3=GCKC_DATING_DA
@@ -65,16 +65,16 @@
 0x0B6F65CA=GCKC_DORIAN_GN
 
 ;0x0B7A6EB5=~z~The world has rights, just like criminals and murderers and immigrants and all the other disadvantageous do, too.
-0x0B7A6EB5=~z~这世界有权利，就像罪犯、杀人犯、移民和所有其他弱势群体一样。
+0x0B7A6EB5=~z~地球也有权利，就像罪犯、杀人犯、移民和各种弱势群体一样。
 
 ;0x0BCDDD26=GCKC_EXES_FH
 0x0BCDDD26=GCKC_EXES_FH
 
 ;0x0C1DDFAE=~z~I mean, it's just the arresting officer's word against the perps. "We found this gun on him."
-0x0C1DDFAE=~z~我的意思是，这仅仅是警官对罪犯的指控词。「我们在他身上搜到这把枪。」
+0x0C1DDFAE=~z~我是说，光靠办案刑警的证词就定罪了。「嫌犯身上有枪。」
 
 ;0x0D6A49E6=~z~Yes - I knew you'd be nice, from your email.
-0x0D6A49E6=~z~是啊 - 我从你的邮件里得知你会过的很好。
+0x0D6A49E6=~z~没错，我就知道你人很好，看邮件就知道了。
 
 ;0x0E2FC0E4=GCKC_LONELY_AS
 0x0E2FC0E4=GCKC_LONELY_AS
@@ -86,13 +86,14 @@
 0x0F01B097=~z~是吗？
 
 ;0x0F2424A7=~z~I was being sarcastic... don't worry about it... who is Dorian?
-0x0F2424A7=~z~我是在讽刺...别在意...谁是Dorian？
+0x0F2424A7=~z~我就顺口一说...别在意...Dorian是谁？
 
 ;0x0F70BDEB=~z~You're seeing a different side of me meeting me this way. It's working out.
-0x0F70BDEB=~z~你用这种方式对待我能看到我的另一面。这很有效。
+0x0F70BDEB=~z~跟我约会能让你见到我的另一面。挺不错的。
 
 ;0x10922DBD=~z~I'm a girl who wants to make it in the big city. You know, I grew up in the suburbs, bored out of my mind...
-0x10922DBD=~z~我是一个想要在大城市里有所成就的女孩。你知道的，我在郊区长大，我觉得很无聊...
+0x10922DBD=~z~我是个想在大城市有所成就的女孩。你看，我在郊区长大，从小就很无聊...
+
 ;0x1114CECE=GCKC_LONELY_AM
 0x1114CECE=GCKC_LONELY_AM
 
@@ -100,10 +101,10 @@
 0x11DEB046=~z~好的。
 
 ;0x12A02536=~z~Because some people are having a miserable time, I guess. I don't know.
-0x12A02536=~z~我猜是因为有些人过着悲惨的生活。我也不知道。
+0x12A02536=~z~可能是因为还有人在经历不幸吧。我也不知道。
 
 ;0x134C51C7=~z~What do you mean? Who have you been talking to?
-0x134C51C7=~z~你什么意思？你和谁交谈过？
+0x134C51C7=~z~什么意思？你听谁说的？
 
 ;0x13A7C735=GCKC_DATING_DB
 0x13A7C735=GCKC_DATING_DB
@@ -112,12 +113,13 @@
 0x157EFF88=GCKC_EXES_FT
 
 ;0x15A8F2C4=~z~"His clothes were covered in the victim's blood." An innocent man with a felony prior doesn't stand a chance.
-0x15A8F2C4=~z~「他的衣服沾满了受害者的血。」一个有重罪前科的无辜者是没有机会的。
+0x15A8F2C4=~z~「他的衣服沾满了受害者的血。」曾犯重罪的良民是没有机会的。
+
 ;0x15F080E5=~z~What's wrong?
 0x15F080E5=~z~出什么事了？
 
 ;0x15F1AAD5=~z~Good. I heard from Dorian yesterday.
-0x15F1AAD5=~z~好。我昨天从Dorian那听说的。
+0x15F1AAD5=~z~好。Dorian昨天联系我了。
 
 ;0x1695F7E6=GCKC_EXES_FD
 0x1695F7E6=GCKC_EXES_FD
@@ -132,13 +134,13 @@
 0x1A486692=GCKC_GIVE_BACK_BA
 
 ;0x1B2C656A=~z~Thank you.
-0x1B2C656A=~z~谢谢你。
+0x1B2C656A=~z~谢谢。
 
 ;0x1BACC644=GCKC_DORIAN_GD
 0x1BACC644=GCKC_DORIAN_GD
 
 ;0x1BFF4487=~z~I came here and I thought it would be different.
-0x1BFF4487=~z~我来到这儿并且认为境况会有所改善。
+0x1BFF4487=~z~我来这里时以为这里会不一样。
 
 ;0x1C808308=GCKC_DORIAN_GJ
 0x1C808308=GCKC_DORIAN_GJ
@@ -147,12 +149,13 @@
 0x1C9D19A0=GCKC_TREMAIN_HL
 
 ;0x1CDE1180=~z~Don't you sometimes feel really guilty driving a car?
-0x1CDE1180=~z~你有些时候在开车时难道不会感到很内疚吗？
+0x1CDE1180=~z~你开车的时候会不会感到很内疚？
 
 ;0x1CF56C00=~z~It doesn't matter why you do something as long as it's right.
-0x1CF56C00=~z~只要它是正确的，你为什么要做某事的原因并不重要。
+0x1CF56C00=~z~只要你的行为正确，动机就不重要。
+
 ;0x1D21594C=~z~I'm a go getter, Niko. A real Alpha female.
-0x1D21594C=~z~我是个很有上进心的人，Niko。一个真正的阿尔法女。
+0x1D21594C=~z~我是个上进的人，Niko。真正的一流女人。
 
 ;0x1D47C2E8=GCKC_LONELY_AE
 0x1D47C2E8=GCKC_LONELY_AE
@@ -176,22 +179,22 @@
 0x23EFBB99=GCKC_RIGHTS_EH
 
 ;0x2437F39E=~z~You might be right.
-0x2437F39E=~z~你可能是对的。
+0x2437F39E=~z~挺有道理。
 
 ;0x2660972A=~z~The only guys I meet are the other lawyers - complete creeps - and my defendants.
-0x2660972A=~z~我见过的家伙只有那些律师 - 彻彻底底的马屁精 - 以及我的被告人。
+0x2660972A=~z~能见到的只有我讨厌的其他律师，和我的委托人。
 
 ;0x26E7F938=GCKC_LONELY_AN
 0x26E7F938=GCKC_LONELY_AN
 
 ;0x275D4EB0=~z~There will always be people who suffer, Kiki. That is the way of the world.
-0x275D4EB0=~z~总会有人受苦的，Kiki。这世界就是这样的。
+0x275D4EB0=~z~总会有人遭遇不幸的，Kiki。这个世界就是如此。
 
 ;0x27E9528B=GCKC_LONELY_AH
 0x27E9528B=GCKC_LONELY_AH
 
 ;0x283A2578=~z~I'm going to warn you Niko, I'm not in the best of moods.
-0x283A2578=~z~我要警告你Niko，我现在心情不好。
+0x283A2578=~z~先跟你说好，Niko，我现在心情很差。
 
 ;0x289F8FD8=GCKC_GIVE_BACK_BF
 0x289F8FD8=GCKC_GIVE_BACK_BF
@@ -200,22 +203,22 @@
 0x2945EEA7=GCKC_TREMAIN_HH
 
 ;0x298E022D=~z~So, it's nice to meet you.
-0x298E022D=~z~所以，很高兴见到你。
+0x298E022D=~z~那个，很高兴见到你。
 
 ;0x2AD574B4=~z~Yeah, it's alright.
-0x2AD574B4=~z~是啊，没关系。
+0x2AD574B4=~z~是啊，挺好的。
 
 ;0x2BF760B7=GCKC_GIVE_BACK_BM
 0x2BF760B7=GCKC_GIVE_BACK_BM
 
 ;0x2C3A4977=~z~Hey, you can't help everybody.
-0x2C3A4977=~z~嘿，你无法帮助所有人。
+0x2C3A4977=~z~嘿，你不可能帮助所有人。
 
 ;0x2FC7A9F8=~z~this is so unlike me, but I'm giving it a go and it seems to be working out.
-0x2FC7A9F8=~z~这和我的作风不一样，但我正在尝试并且它似乎正在发挥作用。
+0x2FC7A9F8=~z~这太不像我会做的事了，但我试了一试，似乎也还不错。
 
 ;0x3357F94F=~z~All your ex-boyfriends seem to be real pacifists...
-0x3357F94F=~z~你的所有前男友似乎都是真正的和平主义者...
+0x3357F94F=~z~你的前男友好像都是真正的和平主义者...
 
 ;0x33BC4BF3=GCKC_GUILTY_CB
 0x33BC4BF3=GCKC_GUILTY_CB
@@ -227,10 +230,10 @@
 0x35A6D83A=100010100010100010100010100010100010100010100100010100010
 
 ;0x36487919=~z~You and me both.
-0x36487919=~z~你和我都是。
+0x36487919=~z~我也是。
 
 ;0x387F1007=~z~This is good. I like you.
-0x387F1007=~z~不错。我喜欢你。
+0x387F1007=~z~这样很好。我喜欢你。
 
 ;0x38D0F8DA=GCKC_LONELY_AD
 0x38D0F8DA=GCKC_LONELY_AD
@@ -242,7 +245,7 @@
 0x390DD9FE=GCKC_GUILTY_CD
 
 ;0x391AF22B=~z~Sometimes, when I'm having a fun time - even a fun time with a crazy man like you, I feel so guilty.
-0x391AF22B=~z~有时候，当我玩的很开心时 - 即使和像你这样的疯子玩得开心时，我会感到很内疚。
+0x391AF22B=~z~有时候，即便我很开心，我还是会感到内疚，哪怕是跟你这样的好人在一起的时候。
 
 ;0x396571C0=~z~Yes, I'm great.
 0x396571C0=~z~是的，我很好。
@@ -257,7 +260,7 @@
 0x3DC20B66=GCKC_TREMAIN_HT
 
 ;0x3E6BEDDA=~z~You can try. Most of the people from my law class just went to big firms on the Exchange to make their millions.
-0x3E6BEDDA=~z~你可以试试。我法律班上的大多数人都去了大公司做证券交易，赚了几百万。
+0x3E6BEDDA=~z~不试试怎么知道。跟我同专业的同学大多去了证交区的大公司，年入百万。
 
 ;0x3F884EEE=GCKC_EXES_FI
 0x3F884EEE=GCKC_EXES_FI
@@ -266,16 +269,16 @@
 0x4072BA31=100010100010100010100010100010100010010100010
 
 ;0x40D1D967=~z~Because of the carbon footprint, because of future generations, of course.
-0x40D1D967=~z~因为碳足迹，因为后代，当然了。
+0x40D1D967=~z~因为产生了碳足迹，还会祸害子孙后代。
 
 ;0x41008C33=GCKC_TREMAIN_HQ
 0x41008C33=GCKC_TREMAIN_HQ
 
 ;0x42F3D050=~z~Like I said, this is so unlike me.
-0x42F3D050=~z~就像我悲伤，这真的一点都不像我的作风。
+0x42F3D050=~z~我也说了，这太不像我会做的事了。
 
 ;0x43785BF4=~z~A triple homicide conviction.
-0x43785BF4=~z~三重谋杀罪。
+0x43785BF4=~z~谋杀三人的判决。
 
 ;0x4537C20D=GCKC_TREMAIN_HK
 0x4537C20D=GCKC_TREMAIN_HK
@@ -284,7 +287,7 @@
 0x45A36253=GCKC_DATING_DI
 
 ;0x45BB607A=~z~What were you appealing?
-0x45BB607A=~z~你在呼吁什么？
+0x45BB607A=~z~上诉的是什么内容？
 
 ;0x4965DB49=GCKC_EXES_FB
 0x4965DB49=GCKC_EXES_FB
@@ -305,13 +308,13 @@
 0x4CBFAD82=GCKC_TREMAIN_HB
 
 ;0x4DDF9AB4=~z~So, are you well?
-0x4DDF9AB4=~z~那么，你还好吗？
+0x4DDF9AB4=~z~那个，你还好吗？
 
 ;0x50AABB65=GCKC_DATING_DM
 0x50AABB65=GCKC_DATING_DM
 
 ;0x50D8CCDB=~z~None that are still on the outside. This government really annoys me, Niko.
-0x50D8CCDB=~z~没人在外边。这政府真的令我很恼火，Niko。
+0x50D8CCDB=~z~他们全都进去了。政府真的很让我恼火，Niko。
 
 ;0x512E64C6=GCKC_EXES_FE
 0x512E64C6=GCKC_EXES_FE
@@ -326,7 +329,7 @@
 0x543436EA=GCKC_TREMAIN_HM
 
 ;0x56004B09=~z~Relationships can't rarely last when they get sent out of state to a Federal Penitentiary though.
-0x56004B09=~z~然而，当他们被送往联邦监狱时，他们之间的关系很少能持续下去。
+0x56004B09=~z~不过等他们被送进联邦监狱以后，这段感情就难以维系了。
 
 ;0x56B3419A=GCKC_DATING_DP
 0x56B3419A=GCKC_DATING_DP
@@ -347,37 +350,37 @@
 0x5C876FB1=100010100010100100010100100100010010100100100100010100
 
 ;0x5CD40414=~z~What made you decide to look for love online?
-0x5CD40414=~z~是什么使你决定去网恋？
+0x5CD40414=~z~你为什么会选择在网上寻找爱情？
 
 ;0x5D4AA4B7=GCKC_GUILTY_CF
 0x5D4AA4B7=GCKC_GUILTY_CF
 
 ;0x5E956854=~z~It's nearly impossible for a man born into poverty in this country to make it without breaking the law.
-0x5E956854=~z~在这个国家，一个出生贫困的人几乎不可能不触犯法律就能成功。
+0x5E956854=~z~在这个国家，穷人家的孩子不犯法是很难成功的。
 
 ;0x5EAACB09=GCKC_LONELY_AB
 0x5EAACB09=GCKC_LONELY_AB
 
 ;0x5EAB4FF5=~z~But he's a survivor. I'm trying to get him to write a book about it.
-0x5EAB4FF5=~z~但是他是幸存者。我正在尝试让他写关于这方面的书。
+0x5EAB4FF5=~z~但他挺住了。我建议他把自己的经历写成书。
 
 ;0x5F2BD076=GCKC_EXES_FM
 0x5F2BD076=GCKC_EXES_FM
 
 ;0x60BA327A=~z~I wanted to help people. That's why I do pro bono work at City Hall.
-0x60BA327A=~z~我想帮助人们。这就是我在市政厅做慈善公益的原因。
+0x60BA327A=~z~我想帮助别人，所以我才会去市政厅做无偿法律援助。
 
 ;0x61F534EC=~z~Are you though? Are you really?
-0x61F534EC=~z~你是这样想的？你是认真的？
+0x61F534EC=~z~是这样吗？真的吗？
 
 ;0x62F764F7=~z~Yeah, really sweet guys - misunderstood, you know?
-0x62F764F7=~z~是啊，真的很可爱 - 误会了，你知道吗？
+0x62F764F7=~z~是啊，都是些好人，只是不被理解，懂吧？
 
 ;0x63E92F15=GCKC_LONELY_AJ
 0x63E92F15=GCKC_LONELY_AJ
 
 ;0x63F21039=~z~Yeah... sure.
-0x63F21039=~z~是的...当然。
+0x63F21039=~z~是啊...确实。
 
 ;0x645FCB76=GCKC_DORIAN_GE
 0x645FCB76=GCKC_DORIAN_GE
@@ -392,7 +395,7 @@
 0x696847B1=GCKC_RIGHTS_EI
 
 ;0x6C6DEB7A=~z~He's got such soul. Being unfairly incarcerated would break most men.
-0x6C6DEB7A=~z~他拥有这样的灵魂。被不公平地监禁会使大多数人崩溃。
+0x6C6DEB7A=~z~他有高洁的灵魂。大多数人被冤入狱后都会崩溃，
 
 ;0x6CA867E6=100010100010100100010100100010100100100100100010100010100010
 0x6CA867E6=100010100010100100010100100010100100100100100010100010100010
@@ -404,13 +407,13 @@
 0x71314065=GCKC_EXES_FL
 
 ;0x71D702BE=~z~I'm starting to understand why you're seeing me, I think.
-0x71D702BE=~z~我想我开始明白为什么你在看着我了。
+0x71D702BE=~z~我大概有点明白你为什么肯见我了。
 
 ;0x7361FA23=GCKC_DATING_DS
 0x7361FA23=GCKC_DATING_DS
 
 ;0x73A76DAC=~z~Another one? What did he do?
-0x73A76DAC=~z~另一个人？他做了什么？
+0x73A76DAC=~z~又是前任？他犯了啥事？
 
 ;0x75ECE176=GCKC_RIGHTS_EB
 0x75ECE176=GCKC_RIGHTS_EB
@@ -425,13 +428,13 @@
 0x7975051C=GCKC_TREMAIN_HD
 
 ;0x79E0BB36=~z~He's serving life upstate. Can you believe that they revoked his conjugal visit privileges? It's inhuman.
-0x79E0BB36=~z~他在北方服刑。你能相信他们取消了他的夫妻探望权吗？这是不人道的。
+0x79E0BB36=~z~在北方终身监禁。他的配偶探望权居然还被剥夺了。太没人性了。
 
 ;0x7A1C06D2=~z~If he does write one, I'll read it.
-0x7A1C06D2=~z~如果他确实写了本书，我会去看看的。
+0x7A1C06D2=~z~他能写出来的话，我会拜读的。
 
 ;0x7A1FC942=~z~Tremaine a client?
-0x7A1FC942=~z~Tremaine，客户？
+0x7A1FC942=~z~Tremaine是委托人？
 
 ;0x7BA88492=GCKC_DORIAN_GG
 0x7BA88492=GCKC_DORIAN_GG
@@ -449,7 +452,7 @@
 0x7EF1B7C0=GCKC_TREMAIN_HI
 
 ;0x8181CD6F=~z~Finding the whole internet dating thing? I mean,
-0x8181CD6F=~z~找到整个网上约会的事情？我是说，
+0x8181CD6F=~z~觉得网上约会怎样？我是说，
 
 ;0x81CA0573=GCKC_GIVE_BACK_BO
 0x81CA0573=GCKC_GIVE_BACK_BO
@@ -473,7 +476,7 @@
 0x865B53D3=GCKC_EXES_FA
 
 ;0x866AFDD7=~z~Yeah, I guess so.
-0x866AFDD7=~z~对，我猜是这样。
+0x866AFDD7=~z~好，我想还好。
 
 ;0x869019CB=GCKC_LONELY_AA
 0x869019CB=GCKC_LONELY_AA
@@ -485,16 +488,16 @@
 0x870CA38A=GCKC_TREMAIN_HO
 
 ;0x87B00061=~z~Just sometimes I feel like I can't do enough though. I feel like I can't help people as much as I want to be able to.
-0x87B00061=~z~只是有时候我觉得我做的不够。我觉得我无法尽我所能地帮助别人。
+0x87B00061=~z~不过有时我会觉得自己做得还不够，帮助他人时时常感觉心有余而力不足。
 
 ;0x87DBA251=~z~It's an absolute farce the miscarriages of justice that he's had to suffer.
-0x87DBA251=~z~他不得不忍受错判，这绝对是一场闹剧。
+0x87DBA251=~z~让他承受正义缺失的代价实在荒谬。
 
 ;0x8AE30182=~z~I'm a criminal, and a murderer. I arrived in your country and fell in with a bad crowd. What rights do I have?
-0x8AE30182=~z~我是一个罪犯，一个杀人犯。我来到你们国家，和一群不法分子混在一起。我能有什么权利？
+0x8AE30182=~z~我是一个罪犯，还是杀人犯。我来到你们国家，和不法分子厮混。我能有什么权利？
 
 ;0x8B01E06F=~z~I don't know, I just thought I'd try it. What made you?
-0x8B01E06F=~z~我不知道，我只是想试试。是什么使你这样？
+0x8B01E06F=~z~我不知道，我只是想试试。那你呢？
 
 ;0x8C666DCF=~z~Tremaine's appeal just got rejected.
 0x8C666DCF=~z~Tremaine的上诉刚刚被驳回了。
@@ -512,7 +515,7 @@
 0x8E254E5E=~z~听起来你好像在尽可能地帮助别人。
 
 ;0x90673FDE=~z~I try not to lose touch though.
-0x90673FDE=~z~不过我尽量保持联系。
+0x90673FDE=~z~但我会尽量保持联系。
 
 ;0x9144A7B4=GCKC_GIVE_BACK_BK
 0x9144A7B4=GCKC_GIVE_BACK_BK
@@ -521,7 +524,8 @@
 0x95FB94C0=GCKC_GUILTY_CC
 
 ;0x972E5985=~z~I don't pretend that I wouldn't be selling my ass for crack if I was born in project housing though.
-0x972E5985=~z~不过，如果我出生在公房社区，我会假装自己会为了毒品而卖身。
+0x972E5985=~z~要是我出生在公屋社区，多半也会为了毒品出卖肉体。
+
 ;0x98152F1E=~z~No.
 0x98152F1E=~z~不。
 
@@ -529,22 +533,22 @@
 0x98A2445A=GCKC_TREMAIN_HA
 
 ;0x98AE5068=~z~You date your clients?
-0x98AE5068=~z~你约了你的客户吗？
+0x98AE5068=~z~你跟委托人约会吗？
 
 ;0x997FB95C=~z~It was a conspiracy. The government doesn't like free thinkers and autodidacts.
-0x997FB95C=~z~这是个阴谋。政府不喜欢自由思想者和自学者。
+0x997FB95C=~z~这是个阴谋。政府不喜欢思想自由的人和无师自通的人。
 
 ;0x99B30029=GCKC_GIVE_BACK_BI
 0x99B30029=GCKC_GIVE_BACK_BI
 
 ;0x9C66EAE1=~z~I defend the people that the rest of the community has forgotten about.
-0x9C66EAE1=~z~我为那些被社会遗忘的人辩护。
+0x9C66EAE1=~z~我会为那些被社会遗忘的人辩护。
 
 ;0x9DD99375=~z~Guilt trip it better? Good luck.
-0x9DD99375=~z~抱有内疚感更好？祝你好运。
+0x9DD99375=~z~出于内疚吗？祝你好运。
 
 ;0x9E7E28B8=~z~As I see it, I have chosen to live life outside the law. Rights mean nothing to me now.
-0x9E7E28B8=~z~在我看来，我已选择生活在法律之外。权利现在对我来说毫无意义。
+0x9E7E28B8=~z~在我看来，既然我选择了当法外之徒，权利就对我毫无意义了。
 
 ;0x9E9C7CFE=GCKC_DORIAN_GO
 0x9E9C7CFE=GCKC_DORIAN_GO
@@ -556,43 +560,43 @@
 0x9F781CDD=GCKC_GUILTY_CI
 
 ;0xA1034E8D=~z~Maybe that's what I mean.
-0xA1034E8D=~z~也许那正是我想说的。
+0xA1034E8D=~z~也许是这样吧。
 
 ;0xA2540C18=~z~Not everyone born in a project sells their ass for crack.
-0xA2540C18=~z~不是所有出生在公房社区的人都会为了毒品去卖身。
+0xA2540C18=~z~出生在公屋社区的人未必会为了毒品卖身。
 
 ;0xA4F69161=~z~Well, sometimes the cops are bigger crooks than the guys they're arresting.
-0xA4F69161=~z~嗯，有时候警察比那些他们抓捕的犯人更会欺骗人。
+0xA4F69161=~z~嗯，有些警察确实比被捕的犯人还坏。
 
 ;0xA729F77A=GCKC_LONELY_AL
 0xA729F77A=GCKC_LONELY_AL
 
 ;0xA7C17E9A=~z~I cannot take grown men playing dressing up games very seriously.
-0xA7C17E9A=~z~我不是很能接受玩换装游戏的成年人。
+0xA7C17E9A=~z~我不喜欢看一群成年人在那里过家家。
 
 ;0xA8CEA574=GCKC_DATING_DH
 0xA8CEA574=GCKC_DATING_DH
 
 ;0xABC75DEB=~z~Whatever you say.
-0xABC75DEB=~z~随便你怎么说。
+0xABC75DEB=~z~随你怎么说吧。
 
 ;0xAD2521BA=~z~This ex of mine, Mitch, I met him when I represented him on this bogus murder charge.
-0xAD2521BA=~z~这是我的前任，Mitch，我是在代表他处理这桩伪造的谋杀案时遇到他的。
+0xAD2521BA=~z~我前男友，Mitch，替他打他的谋杀冤案时认识的。
 
 ;0xB14C7CCE=GCKC_EXES_FS
 0xB14C7CCE=GCKC_EXES_FS
 
 ;0xB1A01553=~z~Yeah, I guess I do make a difference. I feel like all my life I've been given things by my parents.
-0xB1A01553=~z~是啊，我猜我确实有所改变。我觉得我的整个人生都是父母给我的。
+0xB1A01553=~z~是啊，我大概确实有所改变。感觉我这辈子一直在接受父母的给予。
 
 ;0xB1BDBB3D=~z~They do.
-0xB1BDBB3D=~z~是的。
+0xB1BDBB3D=~z~确实有。
 
 ;0xB3EEFE77=GCKC_EXES_FQ
 0xB3EEFE77=GCKC_EXES_FQ
 
 ;0xB3EF3249=~z~Finding what? I don't get it.
-0xB3EF3249=~z~找到什么？我不懂。
+0xB3EF3249=~z~什么怎样？我没听懂。
 
 ;0xB412598C=GCKC_RIGHTS_EF
 0xB412598C=GCKC_RIGHTS_EF
@@ -607,7 +611,7 @@
 0xB5409027=GCKC_LONELY_AO
 
 ;0xB5841A1F=~z~Me? No. Movies are dull.
-0xB5841A1F=~z~我？不，是电影太枯燥了。
+0xB5841A1F=~z~我？不会。电影最无聊了。
 
 ;0xB59EC998=GCKC_RIGHTS_EL
 0xB59EC998=GCKC_RIGHTS_EL
@@ -616,13 +620,13 @@
 0xB5D80B6A=GCKC_DATING_DN
 
 ;0xB67C1828=~z~Oh... ummm... nothing. Have you got any ex-boyfriends I should worry about?
-0xB67C1828=~z~噢...嗯...没什么。你有令我担忧的前男友吗？
+0xB67C1828=~z~噢...呃...没什么。我需要担心你的哪个前男友吗？
 
 ;0xB70D358E=~z~It makes me so angry.
-0xB70D358E=~z~这使我很生气。
+0xB70D358E=~z~我实在是很生气。
 
 ;0xB7708DEC=~z~Mom and Dad made me promise not to date any more of them so here I am, dating on the internet.
-0xB7708DEC=~z~父母让我保证不再和他们约会，所以我现在搞网恋。
+0xB7708DEC=~z~爸妈让我保证不再跟这些人约会，所以我现在搞网恋。
 
 ;0xB801AA3F=100010100010100010100010100100
 0xB801AA3F=100010100010100010100010100100
@@ -634,7 +638,7 @@
 0xBAE8BE14=GCKC_TREMAIN_HS
 
 ;0xBCA5E507=~z~I'm so sorry! Our society let you down! My country failed you!
-0xBCA5E507=~z~非常抱歉！我们的社会让你失望了！我的国家辜负了你！
+0xBCA5E507=~z~真对不起！我们的社会让你失望了！我的国家辜负了你！
 
 ;0xBCE40132=GCKC_GIVE_BACK_BL
 0xBCE40132=GCKC_GIVE_BACK_BL
@@ -643,10 +647,10 @@
 0xBEC46E89=~z~近况如何，Niko？
 
 ;0xBEEFC54F=~z~I mean, Mitch was no angel. I'm not going to pretend that he was.
-0xBEEFC54F=~z~我是说，Mitch不是天使。我也不会假装他是。
+0xBEEFC54F=~z~的确，Mitch不算是好人，这点我不否认。
 
 ;0xBFBAB188=~z~If I got hauled down to City Hall, I'd be grateful for your help.
-0xBFBAB188=~z~如果我被拉到市政厅，我会感谢有你的帮助。
+0xBFBAB188=~z~如果我被扭送市政厅，我就会感谢你的帮助。
 
 ;0xC044584A=~z~Sure.
 0xC044584A=~z~当然。
@@ -655,13 +659,13 @@
 0xC0590DC4=GCKC_GIVE_BACK_BJ
 
 ;0xC18F3235=~z~But, well... it was nice. It's strange. You always want something to be like it is in the movies, don't you?
-0xC18F3235=~z~但是，嗯...这很不错。很奇怪。你总是想要事情像电影情节一样发展，不是吗？
+0xC18F3235=~z~但是，嗯...普通就好。很奇怪，你会不会期待生活偶尔像电影情节一样发展？
 
 ;0xC5903650=~z~So, Niko, are there any skeletons in your closet? Is anyone haunting you?
-0xC5903650=~z~那么，Niko，你有什么不可告人的秘密吗？有人在缠着你吗？
+0xC5903650=~z~那，Niko，你有什么不可告人的秘密吗？有人缠着你吗？
 
 ;0xC6310C55=~z~How can I be grateful when I'm in so much pain?
-0xC6310C55=~z~当我如此痛苦的时候，我怎能心怀感激呢？
+0xC6310C55=~z~我这么痛苦，怎么高兴的起来？
 
 ;0xC8172907=GCKC_EXES_FO
 0xC8172907=GCKC_EXES_FO
@@ -670,7 +674,7 @@
 0xC9333701=GCKC_DATING_DE
 
 ;0xCB3F1CDE=~z~But it was obviously self defense. A mother clearly attacked him, and he shot her, and her kids.
-0xCB3F1CDE=~z~但这很明显是自卫。一位母亲显然袭击了他，然后他用枪射杀了她和她的孩子们。
+0xCB3F1CDE=~z~但明明是正当防卫。那个母亲攻击了他，他掏枪反击，还打中了两个孩子。
 
 ;0xCC209C1B=GCKC_LONELY_AR
 0xCC209C1B=GCKC_LONELY_AR
@@ -679,7 +683,7 @@
 0xCD60B848=GCKC_GUILTY_CK
 
 ;0xCE3F2908=~z~I'm an idealist, if that's what you mean.
-0xCE3F2908=~z~我是一个理想主义者，如果这就是你的意思的话。
+0xCE3F2908=~z~我想你的意思是我是个理想主义者吧。
 
 ;0xD054681C=~z~Where's Mitch now?
 0xD054681C=~z~Mitch现在在哪？
@@ -688,7 +692,7 @@
 0xD3DE6537=GCKC_GIVE_BACK_BC
 
 ;0xD52ADC68=~z~I represent the people who can't even help themselves.
-0xD52ADC68=~z~我代表那些甚至无法自救的人。
+0xD52ADC68=~z~我代表那些甚至都无法自救的人。
 
 ;0xD551A1A2=GCKC_RIGHTS_EC
 0xD551A1A2=GCKC_RIGHTS_EC
@@ -697,13 +701,13 @@
 0xD7ACC496=GCKC_TREMAIN_HF
 
 ;0xD83D1C35=~z~You're a noble savage. You should sue the government.
-0xD83D1C35=~z~你是一个心地善良的莽汉。你应该起诉政府。
+0xD83D1C35=~z~你是个高尚的莽夫。你应该起诉政府。
 
 ;0xDC92BF85=~z~In self defense?
-0xDC92BF85=~z~在自卫？
+0xDC92BF85=~z~这叫正当防卫？
 
 ;0xDCA83843=~z~Then why'd you say great?
-0xDCA83843=~z~那你为什么说很好？
+0xDCA83843=~z~那你怎么说挺好？
 
 ;0xDCAC3F9A=GCKC_GIVE_BACK_BR
 0xDCAC3F9A=GCKC_GIVE_BACK_BR
@@ -715,10 +719,10 @@
 0xDE2FEDBE=GCKC_GIVE_BACK_BB
 
 ;0xDE9D123B=~z~The line is so blurry. I'm too close to be able to tell what he is.
-0xDE9D123B=~z~界线太模糊了。我离他太近了以至于看不出他是什么人。
+0xDE9D123B=~z~界线太模糊了。当局者迷，我区分不了。
 
 ;0xDEB5515B=~z~It's not bad luck Niko. It's the system. It's totally fucked. Totally.
-0xDEB5515B=~z~这不是霉运Niko。这就是制度。它彻底地腐朽了。
+0xDEB5515B=~z~这不是倒霉，Niko，是体制问题。体制烂了，完全烂了。
 
 ;0xDEE175A1=GCKC_GIVE_BACK_BH
 0xDEE175A1=GCKC_GIVE_BACK_BH
@@ -727,10 +731,10 @@
 0xE0186F47=~z~当然。
 
 ;0xE030D2F2=~z~He's such a big softie. He's practically Buddhist.
-0xE030D2F2=~z~他真是个大软弱鬼。他实际上是个佛教徒。
+0xE030D2F2=~z~他心肠很好的，几乎是一个佛教徒。
 
 ;0xE093B22B=~z~Fine.
-0xE093B22B=~z~好吧。
+0xE093B22B=~z~挺好。
 
 ;0xE09C0A93=GCKC_EXES_FC
 0xE09C0A93=GCKC_EXES_FC
@@ -739,13 +743,13 @@
 0xE148C184=~z~你好吗？
 
 ;0xE226AAD5=~z~Thank you, Niko, I knew you'd understand.
-0xE226AAD5=~z~谢谢你，Niko，我知道你懂的。
+0xE226AAD5=~z~谢谢你，Niko，我知道你能懂。
 
 ;0xE317D2B9=~z~And now I'm here, trying to make a difference. I'm not naïve... but...
-0xE317D2B9=~z~而且我现在在尝试着去改变。我并不天真...只是...
+0xE317D2B9=~z~现在我进城了，想要有所改变。不是我太幼稚...但...
 
 ;0xE3427897=~z~Cars, clothes, my apartment, my education. I help the people who haven't been given anything.
-0xE3427897=~z~车子，衣服，我的公寓，我的教育。我帮助那些一无所有的人。
+0xE3427897=~z~车子，衣服，我的公寓，我的教育。现在我帮助那些无法得到给予的人。
 
 ;0xE382D47D=GCKC_TREMAIN_HN
 0xE382D47D=GCKC_TREMAIN_HN
@@ -754,7 +758,7 @@
 0xE4800DAB=GCKC_EXES_FG
 
 ;0xE5D2D205=~z~What did he do?
-0xE5D2D205=~z~他做了什么？
+0xE5D2D205=~z~他犯了啥事？
 
 ;0xE704A5CA=~z~Well, I'm going to stop it.
 0xE704A5CA=~z~好吧，我要去阻止它。
@@ -766,7 +770,7 @@
 0xE7E06991=GCKC_TREMAIN_HC
 
 ;0xE8BDFCAB=~z~I mean, are there any ex-girlfriends who are still hung up on you? What did you think I meant?
-0xE8BDFCAB=~z~我是说，你身边还有缠着你不放的前女友吗？你认为我是什么意思？
+0xE8BDFCAB=~z~我是说，有没有哪个前女友现在还对你死缠烂打？你以为我是什么意思？
 
 ;0xE92CE80A=GCKC_EXES_FP
 0xE92CE80A=GCKC_EXES_FP
@@ -775,22 +779,22 @@
 0xEADE34AA=GCKC_RIGHTS_EN
 
 ;0xEB6288DB=~z~It might be because I feel guilty but is that a bad thing? Am I doing it for the wrong reasons?
-0xEB6288DB=~z~可能是因为我觉得内疚，但那是件坏事吗？难道我这样做是错的吗？
+0xEB6288DB=~z~可能是出于内疚，但这有关系吗？难道我的动机就错了吗？
 
 ;0xEBDCD7AC=~z~But I feel so guilty. Life is so unfair.
-0xEBDCD7AC=~z~但是我感到非常内疚。命运是如此地不公。
+0xEBDCD7AC=~z~但我十分内疚。人世不公啊。
 
 ;0xEEBF0C90=~z~I could just tell... I mean, not that I read too much into it. This is just a casual date, you know. Casual.
-0xEEBF0C90=~z~我只能说...我的意思是，并不是我过深解读了。你知道的，这只是个普通的约会。
+0xEEBF0C90=~z~就是能看出来嘛...也不是说我过度解读了。反正这次就是个普通约会而已。普通约会。
 
 ;0xF0DAB6B6=~z~Client / ex, ex / client, lover, friend, spiritual guru.
-0xF0DAB6B6=~z~客户/前任，前任/客户，爱人，朋友，精神导师。
+0xF0DAB6B6=~z~委托人兼前任，前任兼委托人，爱人，朋友，精神导师。
 
 ;0xF122E23C=~z~Yes, but I want to help.
-0xF122E23C=~z~是的，但是我想帮忙。
+0xF122E23C=~z~确实，但我想帮助他们。
 
 ;0xF16AF6C6=~z~Unlucky though. Hopefully that won't rub off on me.
-0xF16AF6C6=~z~很不幸。但愿那不会影响到我。
+0xF16AF6C6=~z~真是倒霉。好在我应该不会被传染。
 
 ;0xF26DD75A=GCKC_RIGHTS_EG
 0xF26DD75A=GCKC_RIGHTS_EG
@@ -799,16 +803,16 @@
 0xF31B6529=~z~好。
 
 ;0xF375F97C=~z~Yeah, only Tremaine was completely innocent. There's no way he killed those guys.
-0xF375F97C=~z~是啊，只有Tremaine是完全无辜的。他不可能杀了那些人。
+0xF375F97C=~z~是啊，但Tremaine是完全无辜的。他不可能杀那些人。
 
 ;0xF40B6994=GCKC_LONELY_AG
 0xF40B6994=GCKC_LONELY_AG
 
 ;0xF4B9D52E=~z~I think I failed your country!
-0xF4B9D52E=~z~我想我辜负了你的国家！
+0xF4B9D52E=~z~我想是我辜负了你的国家！
 
 ;0xF4D57634=~z~You sound pretty naive...
-0xF4D57634=~z~你的话听起来非常天真...
+0xF4D57634=~z~你说的话就挺幼稚...
 
 ;0xF4ECEABB=GCKC_GIVE_BACK_BN
 0xF4ECEABB=GCKC_GIVE_BACK_BN
@@ -820,7 +824,7 @@
 0xF71C061C=GCKC_EXES_FN
 
 ;0xF80D767A=~z~Triple homicide - well that was what he was accused of.
-0xF80D767A=~z~三重谋杀 - 这就是他被指控的原因。
+0xF80D767A=~z~谋杀三人——这就是他的被控罪名。
 
 ;0xF8632D20=GCKC_GIVE_BACK_BD
 0xF8632D20=GCKC_GIVE_BACK_BD
@@ -829,19 +833,19 @@
 0xF8967B58=GCKC_DORIAN_GH
 
 ;0xF8A63BB6=~z~It's just that I'm working these cases the whole time and I can't get out to meet new people.
-0xF8A63BB6=~z~仅仅是因为我整天都在处理这些事情没时间出去交新朋友。
+0xF8A63BB6=~z~只是因为我每天忙着打官司，没空出去交新朋友。
 
 ;0xF92D84FB=~z~You two have so much in common, I mean more than just me. You're both such peace loving men.
-0xF92D84FB=~z~你们两个有很多共同点，我是说共同点比我多。你们俩都是和平爱好者。
+0xF92D84FB=~z~你们两个有很多共同点，不只是都和我处得好。你们都是爱好和平的人。
 
 ;0xF95DCA7C=~z~The world is certainly determined to screw itself up.
-0xF95DCA7C=~z~世界肯定会把它自己搞砸的。
+0xF95DCA7C=~z~这个世界注定是会走向毁灭的。
 
 ;0xF9E43B3B=~z~But the police will arrest any man in the vicinity of a crime in order to clear a file from their desks.
-0xF9E43B3B=~z~但警方会逮捕任何在犯罪现场附近的人，以便清理案头文件。
+0xF9E43B3B=~z~但那些警察为了尽快结案，只会在案发现场附近随便抓一个人。
 
 ;0xFA6849DD=~z~Like Dorian's?
-0xFA6849DD=~z~像Dorian那样？
+0xFA6849DD=~z~跟Dorian一样？
 
 ;0xFA9CCD6B=GCKC_DATING_DD
 0xFA9CCD6B=GCKC_DATING_DD
@@ -850,16 +854,16 @@
 0xFB430F6F=GCKC_DATING_DL
 
 ;0xFC7DA80D=~z~How?
-0xFC7DA80D=~z~如何？
+0xFC7DA80D=~z~咋看出来的？
 
 ;0xFD6B8136=~z~It was stupid. It just goes to show how the system is primed to punish people who already disadvantaged.
-0xFD6B8136=~z~很愚蠢。这只表明这一制度旨在惩罚那些已经处于不利地位的人。
+0xFD6B8136=~z~说来可笑，他的经历只会证明，现有体制旨在惩罚弱势群体。
 
 ;0xFD97FB22=~z~And you've come out okay - you should be grateful.
-0xFD97FB22=~z~但是你成功脱身了 - 你应该感到感激。
+0xFD97FB22=~z~但你的命不差啊，你应该高兴才对。
 
 ;0xFDCB8830=~z~Well, I do.
-0xFDCB8830=~z~嗯，我会的。
+0xFDCB8830=~z~嗯，我挺喜欢。
 
 ;0xFFB3DB25=GCKC_RIGHTS_EJ
 0xFFB3DB25=GCKC_RIGHTS_EJ
