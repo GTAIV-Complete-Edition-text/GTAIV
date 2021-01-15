@@ -108,7 +108,7 @@
 0x17948F67=F2_UQ
 
 ;0x17F08B09=~z~Mikhail is making enemies very rapidly, a friend like you is useful.
-0x17F08B09=~z~Mikhail一下子就处处树敌，像你这样的朋友会很有用。
+0x17F08B09=~z~Mikhail一下子就处处树敌，有个像你这样的朋友会很有用。
 
 ;0x182249A0=~z~We're going to ignore what Mikhail said and try not to kill them.
 0x182249A0=~z~我们就不管Mikhail说的话，设法留着他们的命。
@@ -174,7 +174,7 @@
 0x27D72AB7=F2_BB
 
 ;0x27EE2B04=~z~that I am a man who appreciates a good business venture when one comes along.
-0x27EE2B04=~z~我是一个会抓住任何送上来的上好商机的人。
+0x27EE2B04=~z~我是个不会放过任何摆在眼前的上好商机的人。
 
 ;0x2AFAB99E=~z~ -Blah, blah, blah, blah, blah, blah, blah, blah...~n~-Too many bodies, too much attention. We'll be dealt with...
 0x2AFAB99E=~z~－废话、废话、废话、都是废话...~n~－尸体太多了、太引人注目了，我们会被一窝端的...
@@ -198,7 +198,7 @@
 0x2F6F05BD=100
 
 ;0x2FB48705=~z~How is your cousin, Roman, after the incident the other day?
-0x2FB48705=~z~你的堂兄Roman还好吧，在几天前的遭遇后？
+0x2FB48705=~z~之前挨了一枪，现在你堂兄Roman还好吗？
 
 ;0x2FBD4D89=101101
 0x2FBD4D89=101101
@@ -252,7 +252,7 @@
 0x3B920A52=F2_A_FA
 
 ;0x3BB2528C=~z~You are a man worth having on our side.
-0x3BB2528C=~z~我们这边有你在很值得。
+0x3BB2528C=~z~让你站在我们这边是值得的。
 
 ;0x3BC5DA14=~z~But you treat me like a child.
 0x3BC5DA14=~z~但你却当我是小孩子。
@@ -468,7 +468,7 @@
 0x64F134F1=F2_HE
 
 ;0x6578E44C=~z~Taking a bite of this pie would be very profitable for our operation.
-0x6578E44C=~z~能咬一小口这块馅饼对我们的运营大有裨益。
+0x6578E44C=~z~能咬一小口这块蛋糕对我们的运营大有裨益。
 
 ;0x66884830=~z~Shit, he'll be outta action for a couple a weeks.
 0x66884830=~z~操，他得有几个星期没法下床了。
@@ -555,7 +555,7 @@
 0x75BB895E=SFX_PAUSE_2000
 
 ;0x75BDC6A2=~z~No, I'm not. I was trying to tell you,
-0x75BDC6A2=~z~不，没有，我只是想跟你说，
+0x75BDC6A2=~z~不，没有。我只是想跟你说，
 
 ;0x75C655C7=~z~Here, in Liberty City, there is no such thing as the Ammu-Nation.
 0x75C655C7=~z~在自由城这边，就没有武装国度这回事。
@@ -588,7 +588,7 @@
 0x7C261FE7=~z~你这样的人活着比死了对我们更有用。
 
 ;0x7C3BE53A=~z~Thank you for your help, Niko. Come to see us at the club soon. Mikhail will be cool by then.
-0x7C3BE53A=~z~感谢你的帮助，Niko。过后来俱乐部和我们碰面，到时候Mikhail就会息怒了。
+0x7C3BE53A=~z~感谢你的帮助，Niko。过后来俱乐部找我们，到时候Mikhail应该就消气了。
 
 ;0x7D75C262=F2_JC
 0x7D75C262=F2_JC
@@ -624,7 +624,7 @@
 0x82BA9053=~z~别吸那玩意了。
 
 ;0x82D0176B=~z~Let me guess, in a prison camp in Siberia.
-0x82D0176B=~z~容我猜猜，在西伯利亚的一个集中营里，
+0x82D0176B=~z~容我猜猜，在西伯利亚的一个集中营里？
 
 ;0x8307CF9D=~z~The shop is just down that alleyway.
 0x8307CF9D=~z~店就在那条巷子里。
@@ -687,7 +687,7 @@
 0x90FDB3C6=~z~要是我跟你一样冷静，我们现在会在哪儿？
 
 ;0x914DDA70=~z~Yeah, could be. Depends how things go for me while I'm here.
-0x914DDA70=~z~确实，有可能，取决于我在这儿遇到什么事。
+0x914DDA70=~z~确实，有可能。取决于我在这儿遇到什么事。
 
 ;0x917B8B8D=F2_FB
 0x917B8B8D=F2_FB
@@ -735,7 +735,7 @@
 0x973F1A8F=F2_QA
 
 ;0x9773397A=~z~Fuck, why couldn't you make this easy? We're out of here, Niko.
-0x9773397A=~z~操，你怎么就不能把事办得利落点？我们走，Niko。
+0x9773397A=~z~妈的，你们就不能少整点花活？我们走，Niko。
 
 ;0x9830D28B=~z~Don't kill me. I got a load of desperate fans on the internet.
 0x9830D28B=~z~别杀我，我在网上有很多死忠粉。
@@ -777,7 +777,7 @@
 0x9EB3618B=100100100010100
 
 ;0x9FABA0C2=~z~Or I fucking kill you!
-0x9FABA0C2=~z~否则老子他妈宰了你！
+0x9FABA0C2=~z~否则老子宰了你！
 
 ;0xA03097A7=F2_BE
 0xA03097A7=F2_BE
@@ -912,7 +912,7 @@
 0xB9AFA46A=~z~朝这个草包的腿来一枪。
 
 ;0xBA0D57C9=~z~When I give out the money, it's "us".
-0xBA0D57C9=~z~我给钱的时候是「我们」。
+0xBA0D57C9=~z~我给钱的时候，是「我们」。
 
 ;0xBA58029F=100
 0xBA58029F=100
@@ -1023,7 +1023,7 @@
 0xD2AB0904=~z~不是「我们」吗。
 
 ;0xD2EBB7A1=~z~Be careful, Dimitri. Be fucking careful.
-0xD2EBB7A1=~z~当心点，Dimitri，你丫当心点。
+0xD2EBB7A1=~z~当心点，Dimitri。你丫当心点。
 
 ;0xD31FB120=~z~Hey.
 0xD31FB120=~z~嘿。
@@ -1059,7 +1059,7 @@
 0xD89F4DCC=F2_A_HC
 
 ;0xD94AFC22=~z~Pick out what you like. Tell them to put it on Mr. Faustin's account.
-0xD94AFC22=~z~挑个你喜欢的，跟他们说记在Faustin先生账上。
+0xD94AFC22=~z~挑个你喜欢的，跟店员说记在Faustin先生账上。
 
 ;0xDA294734=~z~People forget pain so quickly.
 0xDA294734=~z~人就是会好了伤疤忘了疼。
@@ -1089,7 +1089,7 @@
 0xDDFCC68C=~z~Joseph，我以为你是个比这更好的生意人，走吧，Niko。
 
 ;0xDEAA278D=~z~Hey, I heard about these. Big American Supermarket where you can buy any gun you want.
-0xDEAA278D=~z~嘿，我听说过这些，美国大商场，在那里你想买什么枪就买什么枪。
+0xDEAA278D=~z~嘿，这我听说过。美国大商场，进去以后想买什么枪就买什么枪。
 
 ;0xDEAEA6F6=~z~We was just waiting 'til the books was closed at the end of the financial year.
 0xDEAEA6F6=~z~我们只是想等到财年年末把账簿核算完。
@@ -1107,7 +1107,7 @@
 0xE04695A6=F2_RF
 
 ;0xE0A55314=~z~Or selling hash to tourists in Red Square, or still in the navy? Which is it today?
-0xE0A55314=~z~还是在红场卖大麻给游客，还是还在海军待着？哪个会是现在的状况？
+0xE0A55314=~z~还是在红场卖大麻给游客？还是还在海军待着？哪个会是现在的状况？
 
 ;0xE0B73C27=F2_A_AE
 0xE0B73C27=F2_A_AE
@@ -1116,10 +1116,10 @@
 0xE3EF7F6E=600
 
 ;0xE576F287=~z~I guess Roman's real lucky then. I wonder what big favor Faustin's gonna do for him next?
-0xE576F287=~z~那我猜Roman真的很走运了，我倒想知道Faustin接下来会对他做什么？
+0xE576F287=~z~那我猜Roman真的很走运了。不过你说Faustin接下来会对他做什么？
 
 ;0xE5BDAF25=~z~if we don't start playing by the rules.
-0xE5BDAF25=~z~要是我们还不按规矩来的话。
+0xE5BDAF25=~z~不能再这样不按规矩胡闹了。
 
 ;0xE742DF49=F2_A_CA
 0xE742DF49=F2_A_CA
@@ -1161,7 +1161,7 @@
 0xED4E7CC5=~z~求你别伤害我，我只是个演员。
 
 ;0xEDA43669=~z~Pleased to be of use.
-0xEDA43669=~z~很乐意为你效劳。
+0xEDA43669=~z~不胜荣幸。
 
 ;0xEE55311E=F2_ZD
 0xEE55311E=F2_ZD
@@ -1176,7 +1176,7 @@
 0xF02AC197=~z~我会记着的。
 
 ;0xF1E24DFD=~z~That is another part of America.
-0xF1E24DFD=~z~那是美国的别的地方。
+0xF1E24DFD=~z~那是美国的其他地方。
 
 ;0xF1EC2BD3=F2_CJ
 0xF1EC2BD3=F2_CJ
