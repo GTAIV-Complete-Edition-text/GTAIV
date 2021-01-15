@@ -15,7 +15,7 @@
 0x2C68B34C=~r~毒贩跑了。~s~
 
 ;0x39F676BB=Navigate the mobile keypad using ~PAD_DPAD_ALL~. Select your desired input using ~INPUT_PHONE_ACCEPT~. To make a phone call select the phone icon on the top left of the keypad.
-0x39F676BB=使用~PAD_DPAD_ALL~选择键盘上的数字，用~INPUT_PHONE_ACCEPT~输入目标数字。选中键盘左上角的电话图标呼出。
+0x39F676BB=用~PAD_DPAD_ALL~选择键盘上的数字，按~INPUT_PHONE_ACCEPT~输入所选数字。选中键盘左上角的电话图标呼出。
 
 ;0x3D9E3D69=Take the ~g~sniper rifle~s~ from the car.
 0x3D9E3D69=去车里拿~g~狙击步枪。

@@ -33,7 +33,7 @@
 0x62D150B1=~s~把Jimmy的车开回~y~车库。
 
 ;0x81C48EAF=~s~Go to the ~y~subway station.
-0x81C48EAF=~s~前往~y~轻轨站。
+0x81C48EAF=~s~前往~y~地铁站。
 
 ;0x8252A4D9=To perform a stun punch lock onto an enemy and approach them unarmed. When close enough the target reticule will change then press ~INPUT_MELEE_ATTACK1~ to perform the move.
 0x8252A4D9=要使用击晕，赤手锁定敌人并靠近。靠近敌人后按~INPUT_MELEE_ATTACK1~使出击晕。
