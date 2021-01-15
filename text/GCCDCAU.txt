@@ -15,7 +15,7 @@
 0x0FDA0326=SFX_PAUSE_2000
 
 ;0x10EB5968=~z~You have it hard. I don't know how you cope.
-0x10EB5968=~z~你日子这么难过，我都不知道你是怎么过来的。
+0x10EB5968=~z~你日子这么难过，都不知道你是怎么过来的。
 
 ;0x10FD06DB=GCC2_DRUNK2_PB
 0x10FD06DB=GCC2_DRUNK2_PB
@@ -42,7 +42,7 @@
 0x240AF738=GCC2_DRUNK3_QE
 
 ;0x2A219F21=~z~You only buy her the happy hour drinks not them high price ones.
-0x2A219F21=~z~你给她买的酒都是便宜的享乐酒，而不是贵的那些。
+0x2A219F21=~z~你给她买的酒都是便宜的促销酒，不买贵的那些。
 
 ;0x2E229E93=~z~You lucky Carmen's hanging out with you, baby. She's so out your league.
 0x2E229E93=~z~Carmen肯跟你出来是你的福气，宝贝。她的阶层比你高了不少。
@@ -63,7 +63,7 @@
 0x3070AC37=~z~但你丫只关心自己，根本没关注过Carmen。
 
 ;0x3880B34F=~z~Okay, thanks for the vote of confidence.
-0x3880B34F=~z~好的，感谢你投的自信一票。
+0x3880B34F=~z~好的，感谢你的认可。
 
 ;0x403725A7=~z~I don't know, maybe you've got issues.
 0x403725A7=~z~不知道，可能你确实有问题。
@@ -90,7 +90,7 @@
 0x52DEA9B2=GCC2_DRUNK2_PH
 
 ;0x581E7B1A=~z~I thought you liked the drinks I was buying you. Why didn't you say anything at the time?
-0x581E7B1A=~z~我还以为你很喜欢我给你买的酒。你怎么当时啥也不说？
+0x581E7B1A=~z~我还以为你很喜欢我给你买的酒。你怎么不早说？
 
 ;0x58369BBD=GCC2_DRUNK2_PG
 0x58369BBD=GCC2_DRUNK2_PG
@@ -120,7 +120,7 @@
 0x6DE95924=GCC2_DRUNK1_OD
 
 ;0x71AF9AF3=~z~You like a child, Niko. You simple like a fucking child. Shit.
-0x71AF9AF3=~z~你就像个孩子，Niko。你单纯的像个小屁孩。靠。
+0x71AF9AF3=~z~你就像个孩子，Niko。你单纯得像个小屁孩。靠。
 
 ;0x720DBC46=GCC2_DRUNK4_RA
 0x720DBC46=GCC2_DRUNK4_RA
@@ -174,7 +174,7 @@
 0x9D8ED5D1=100010100100010100100010100010
 
 ;0x9DCC1B0F=~z~Shit, Carmen. I'm not the one they're fucking paying.
-0x9DCC1B0F=~z~操，Carmen，他们他妈又没给我发钱。
+0x9DCC1B0F=~z~操，Carmen，医院他妈又没给我发钱。
 
 ;0xA3EAD9B8=100100010100100100100010100100100100
 0xA3EAD9B8=100100010100100100100010100100100100
@@ -195,7 +195,7 @@
 0xB6424B7B=GCC2_DRUNK2_PA
 
 ;0xBB2ED5D4=~z~Shit, can't someone else look after them? You fucking do it.
-0xBB2ED5D4=~z~我靠，就没人能去照顾下他们吗？你丫快去。
+0xBB2ED5D4=~z~妈的，就不能换个人照顾他们吗？你丫去照顾。
 
 ;0xBF21AA03=GCC2_DRUNK3_QD
 0xBF21AA03=GCC2_DRUNK3_QD
@@ -219,7 +219,7 @@
 0xCC4182D9=GCC2_DRUNK2_PF
 
 ;0xCE34D3FC=~z~I don't need to deal with you here as well.
-0xCE34D3FC=~z~我也没必要再来跟你打交道。
+0xCE34D3FC=~z~没必要再来跟你打交道。
 
 ;0xD84388C0=~z~Great!
 0xD84388C0=~z~好啊！
@@ -237,7 +237,7 @@
 0xE2366F0C=~z~去你妈的，Niko。
 
 ;0xE361FE56=~z~I got to deal with stupid fucking sick children all day long.
-0xE361FE56=~z~我一整天都得跟那些傻逼一样的小病孩打交道。
+0xE361FE56=~z~我一整天都得跟那些傻逼一样的小病号打交道。
 
 ;0xEE563835=GCC2_DRUNK4_RF
 0xEE563835=GCC2_DRUNK4_RF

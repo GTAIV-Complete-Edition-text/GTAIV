@@ -1,15 +1,15 @@
 ﻿[GCKK1AU]
 ;0x002EEB50=~z~You poor baby, let me give the judge a call and see if we can sort this out. See you soon.
-0x002EEB50=~z~真是不幸，我给法官打个电话，看看他能不能帮个忙。回头见。
+0x002EEB50=~z~真可怜啊，我给法官打个电话，看看他能不能帮个忙。回头见。
 
 ;0x0082AA68=~z~Fine Niko. Just wanted to let you know, I cancelled other plans for you. Just wanted you to know.
-0x0082AA68=~z~好吧Niko。我只想让你知道，我为你推掉了其他事。仅此而已。
+0x0082AA68=~z~好吧Niko。我就跟你说一声，我为你推掉了其他事。就这么说一声。
 
 ;0x00A5759B=~z~I'd really like you to take me out.
 0x00A5759B=~z~我真的很想让你带我出去玩。
 
 ;0x01B0BBB5=~z~Sure, I'll be there soon.
-0x01B0BBB5=~z~当然，我马上就到
+0x01B0BBB5=~z~好的，我马上就到。
 
 ;0x02BFB948=GCKK_ACT_CALL_REQ_SPEC_NO_POS
 0x02BFB948=GCKK_ACT_CALL_REQ_SPEC_NO_POS
@@ -21,7 +21,7 @@
 0x0327359C=~z~嘿，Kiki。
 
 ;0x034A7E70=~z~You're seeing things, Kiki. Take some pills, have a hot bath and chill out...
-0x034A7E70=~z~你想多了，Kiki。吃点药，然后洗个热水澡冷静一下...
+0x034A7E70=~z~你想多了吧，Kiki。吃点药，再洗个热水澡冷静一下...
 
 ;0x064C10E1=010
 0x064C10E1=010
@@ -51,22 +51,22 @@
 0x0C6739B3=GCKK_ACT_GETCALL_REJECT_VERYIRATE
 
 ;0x0CFAD249=~z~Can't wait, Kiki.
-0x0CFAD249=~z~我等不及见到你了，Kiki。
+0x0CFAD249=~z~我等不及了，Kiki。
 
 ;0x0DEE7778=~z~Sorry, I'm heading into Alderney to see my parents. Speak soon?
-0x0DEE7778=~z~不好意思，我要去Alderney看我父母了。待会聊？
+0x0DEE7778=~z~不好意思，我要去Alderney看我父母了。以后再聊吧？
 
 ;0x1055480F=~z~I guess you had time to stop fucking your other girls and pick up the phone huh, Niko? God I've got low self esteem.
-0x1055480F=~z~你终于能从别的女人身上下来接我电话了，嗯？天啊Niko，我现在才知道我在你心里的地位这么低。
+0x1055480F=~z~你终于能从别的女人身上下来接我电话了，Niko？老天，我真不要脸。
 
 ;0x10650FD9=GCKK_ACT_GETCALL_GREET
 0x10650FD9=GCKK_ACT_GETCALL_GREET
 
 ;0x113928A5=~z~Niko, I can't see you again right away. If we're going to turn this into something serious we have to behave ourselves.
-0x113928A5=~z~Niko，我们每次见面之间的间隔不能这么短。我们得注意点，否则可能会闹出来什么事。
+0x113928A5=~z~Niko，我们才刚约过会。真正的感情还是要细水长流。
 
 ;0x14A80287=~z~What we have is sacred, Niko. Do you know what happens to those who piss on something sacred?
-0x14A80287=~z~我们的爱情是神圣的，Niko。你知道那些侮辱神圣之物的人的下场吗？
+0x14A80287=~z~我们的爱情是神圣的，Niko。你知道亵渎神圣之物的人有什么下场吗？
 
 ;0x14B3C44F=100
 0x14B3C44F=100
@@ -84,7 +84,7 @@
 0x17E71DC6=GCKK_ACT_PKI_CALL_REJECTED
 
 ;0x1E004233=~z~Niko, I know you like me but we have to take this slow. We should wait a bit before we go on another date.
-0x1E004233=~z~Niko，我知道你爱我，但，爱得循序渐进。我们需要留给彼此多一点时间。
+0x1E004233=~z~Niko，我知道你喜欢我，但也别操之过急。我们需要留给彼此多留一点时间。
 
 ;0x1F00812C=010
 0x1F00812C=010
@@ -102,13 +102,13 @@
 0x20C66335=010
 
 ;0x211BB6DA=~z~Oh, you're back in my life. Picking me up and dropping me like a cheap toy. I guess I don't have much of a choice do I?
-0x211BB6DA=~z~噢，你终于记起我了。我就像个廉价玩具，你想玩就玩，像丢就丢。但我想也我没什么办法，不是吗？
+0x211BB6DA=~z~噢，你终于想起我了。我就像个廉价玩具，你想玩就玩，想丢就丢。不过我也没什么办法，不是吗？
 
 ;0x2351FEF7=~z~I look forward to it.
-0x2351FEF7=~z~我期待着。
+0x2351FEF7=~z~我很期待。
 
 ;0x2679A62A=~z~I'm onto you, Niko. I'm onto you. You're hurting me so bad.
-0x2679A62A=~z~我知道了，Niko。我爱过你，而你伤我很深。
+0x2679A62A=~z~我全知道，Niko。我全知道。你太让我失望了。
 
 ;0x28A490E5=GCKK_ACT_CALL_IRATE
 0x28A490E5=GCKK_ACT_CALL_IRATE
@@ -117,34 +117,34 @@
 0x2A0FBC98=GCKK_ACT_PKI_CALL_MEDLIKE
 
 ;0x2C3B6B7D=~z~How about I take you out?
-0x2C3B6B7D=~z~带你出去浪怎样？
+0x2C3B6B7D=~z~带你出去玩怎样？
 
 ;0x2CFAC899=~z~Kiki, it's crazy but these cops just started to harass me. Can you see what you can do?
-0x2CFAC899=~z~Kiki，真是疯了，这些条子开始追我了。你能帮帮我吗？
+0x2CFAC899=~z~Kiki，真是疯了，这些条子开始骚扰我了。你能帮帮我吗？
 
 ;0x2D1C15F1=~z~I knew you were serious about me, Niko. This is going to be amazing. Pick me up in the next hour.
-0x2D1C15F1=~z~我就知道你是在乎我的，Niko。这真是太让我开心了。一个小时内来接我吧。
+0x2D1C15F1=~z~我就知道你对我是认真的，Niko。这真是太让我开心了。一个小时内来接我吧。
 
 ;0x2DC5E1BE=~z~Niko, if I didn't know better I'd think you were falling for me. We shouldn't see one another again so soon.
-0x2DC5E1BE=~z~Niko，我不认为你已经深深爱上我了，我们不该这么快就再见彼此。
+0x2DC5E1BE=~z~Niko，我不会单纯到认为你已经倾心于我了。我们不应该约得这么频繁的。
 
 ;0x2DC8004B=~z~Seeing you would make my week. Pick me up in the next hour.
-0x2DC8004B=~z~我觉得你会让我这周过得很开心的，一个小时内来接我吧。
+0x2DC8004B=~z~见到你我能高兴一周。一小时内来接我吧。
 
 ;0x2EB93200=~z~Niko, there you are. I've missed you so much.
 0x2EB93200=~z~Niko，你来啦，我好想你。
 
 ;0x31D8D805=~z~Why don't you show me a good time?
-0x31D8D805=~z~你为什么不带我去玩呢?
+0x31D8D805=~z~要么你带我出去快活快活吧？
 
 ;0x31D9D85E=~z~I was starting to think you were done with me. I couldn't bear it if you were.
-0x31D9D85E=~z~我开始觉得你想跟我玩分手了。如果真是那样我可受不了。
+0x31D9D85E=~z~我差点以为我们已经结束了。真那样我可受不了。
 
 ;0x32A58CF9=~z~Why do I like you so much, can someone explain that to me?
-0x32A58CF9=~z~为什么我那么喜欢你啊，谁可以解释一下吗？
+0x32A58CF9=~z~我怎么会这么喜欢你呢？谁可以解释一下吗？
 
 ;0x33919335=~z~You're clearly not as serious about this as I am, Niko. I wouldn't have abandoned you in this situation.
-0x33919335=~z~你对待这段感情明显没有我那么认真，Niko。我不会因为这样就抛弃你的。
+0x33919335=~z~你对这段感情明显没我认真，Niko。换我就不会在这种时候抛弃你。
 
 ;0x33E3C52C=100
 0x33E3C52C=100
@@ -153,7 +153,7 @@
 0x361F421E=010
 
 ;0x39B40E68=~z~Oh Niko, it's you. Just let me get a bit more sleep then we'll speak.
-0x39B40E68=~z~啊，是Niko啊。让我先睡会儿再说吧。
+0x39B40E68=~z~噢Niko，是你啊。让我先睡会儿再说吧。
 
 ;0x3AA0248D=~z~Kiki, it's Niko.
 0x3AA0248D=~z~Kiki，我是Niko。
@@ -165,7 +165,7 @@
 0x3D5E5E50=100
 
 ;0x3E959954=~z~So you expect me to help you when you're out with your cheap whores instead of me? Sorry, Niko. Maybe prison will help you be faithful.
-0x3E959954=~z~所以你宁愿和那些贱货出去都不找我？抱歉，我不会帮你的，Niko，也许监狱会让你懂得什么叫忠贞。
+0x3E959954=~z~怀里抱着个臭贱人还想着让我帮忙？抱歉，Niko。你还是去监狱改过自新吧。
 
 ;0x3EFDA2B6=~z~I've been thinking about you all day, Niko. Pick me up in the next hour.
 0x3EFDA2B6=~z~我一整天都在想你，Niko。一个小时内来接我吧。
@@ -174,22 +174,22 @@
 0x3F23F3E0=100
 
 ;0x3F46DA28=~z~Sorry, I'm working a really important case at the moment. Another time?
-0x3F46DA28=~z~对不起啊，我现在真的有事要忙。等我忙完再约好吗？
+0x3F46DA28=~z~抱歉，我手头有个很重要的案子。忙完再约吧？
 
 ;0x407196A4=~z~Niko, they're really out to get you. I'm sure they're persecuting you, but I can't do anything. Stay safe.
-0x407196A4=~z~Niko，他们这次是认真的。我知道他们在抓你，但是我真的无能为力。愿你平安。
+0x407196A4=~z~Niko，他们这次是认真的。我知道他们想迫害你，但我无能为力。祝你平安。
 
 ;0x41ED16DC=~z~You want to go out on a date with me?
-0x41ED16DC=~z~想约我出去吗？
+0x41ED16DC=~z~你想跟我去约会吗？
 
 ;0x43E70030=010
 0x43E70030=010
 
 ;0x45423696=~z~I thought I meant something to you, Niko. I thought we had something special.
-0x45423696=~z~我曾认为我对你很重要，Niko，我曾认为我们是特别的一对儿。
+0x45423696=~z~我还以为我对你很重要，Niko。我还以为我们之间有感情。
 
 ;0x4608FF0E=~z~I'm not the sort of girl who can be used and thrown away, Niko.
-0x4608FF0E=~z~我不是那种随便的女孩，想约就约，想分就分，Niko。
+0x4608FF0E=~z~我不是你想约就约、想扔就扔的女孩，Niko。
 
 ;0x484BE2BF=010
 0x484BE2BF=010
@@ -198,7 +198,7 @@
 0x48F1C664=GCKK_ACT_GETCALL_IRATE
 
 ;0x49CB50E4=~z~You're a total sweetheart, Niko. See you soon.
-0x49CB50E4=~z~你简直就是我的心上人，Niko。下次见咯。
+0x49CB50E4=~z~真是我的好宝贝，Niko。待会儿见。
 
 ;0x4ABB29CF=100
 0x4ABB29CF=100
@@ -213,7 +213,7 @@
 0x4C27A1DA=~z~当然。我一小时内来接你。
 
 ;0x4E4217F1=~z~I wish I could, Kiki, but I'm real busy.
-0x4E4217F1=~z~我真想和你出去，Kiki，但我现在抽不出空。
+0x4E4217F1=~z~我也想啊，Kiki，但我真的很忙。
 
 ;0x4E6A2904=GCKK_ACT_CALL_VERYIRATE
 0x4E6A2904=GCKK_ACT_CALL_VERYIRATE
@@ -234,7 +234,7 @@
 0x52983702=010
 
 ;0x535C85B3=~z~I just wanted to hear your voice. That was all. Call me soon, Niko.
-0x535C85B3=~z~我只想听听你的声音。那就这样吧。有空记得找我，Niko。
+0x535C85B3=~z~我只是想听听你的声音，就是这样。有空记得找我，Niko。
 
 ;0x54269200=~z~Okay, Niko... I'll be thinking about you.
 0x54269200=~z~好吧，Niko...我会想你的。
@@ -243,34 +243,34 @@
 0x54596CDA=GCKK_ACT_PKI_GETCALL_DATE_NO
 
 ;0x54AC17FB=~z~Kiki, I hate to call you but I've got some cops giving me trouble.
-0x54AC17FB=~z~Kiki，我真的不想打扰你，但有些条子】正在追我。
+0x54AC17FB=~z~Kiki，我也不想打扰你，但有条子在找我麻烦。
 
 ;0x55CF7922=GCKK_ACT_PKI_GETCALL_HOSP_NO
 0x55CF7922=GCKK_ACT_PKI_GETCALL_HOSP_NO
 
 ;0x564C5BE5=~z~Hi Kiki.
-0x564C5BE5=~z~Hi Kiki.
+0x564C5BE5=~z~嗨，Kiki。
 
 ;0x585137C9=~z~I'm being let out of the hospital, Niko. It'd be really sweet if you picked me up.
-0x585137C9=~z~我马上出院了，Niko，如果你能来接我就再好不过了。
+0x585137C9=~z~我现在可以出院了，Niko，如果你能来接我就再好不过了。
 
 ;0x58960EC7=GCKK_ACT_GETCALL_SPEC_AA
 0x58960EC7=GCKK_ACT_GETCALL_SPEC_AA
 
 ;0x596E6E95=~z~You really want to make this work, do you? Okay then. Pick me up in the next hour.
-0x596E6E95=~z~你真是积极啊，不是吗？那好吧，一个小时内来接我吧。
+0x596E6E95=~z~你是真的想再续前缘吧？那好吧，一小时内来接我。
 
 ;0x5B48144D=100
 0x5B48144D=100
 
 ;0x5C60B42E=~z~Sorry, Kiki. I can't right now. I hope you get home safe.
-0x5C60B42E=~z~抱歉，Kiki，我现在很忙。我希望你平安到家。
+0x5C60B42E=~z~抱歉，Kiki，我现在很忙。祝你平安到家。
 
 ;0x5D0C90C3=~z~That's fine, Niko. Whatever.
-0x5D0C90C3=~z~没事，Niko。我依然爱你。
+0x5D0C90C3=~z~那好吧，Niko。随你。
 
 ;0x5D72446F=~z~I'd like to take you out, Kiki. I'll stop by your place in the next hour.
-0x5D72446F=~z~我想约你出来，Kiki。我一个小时内到你那去。
+0x5D72446F=~z~我很乐意带你出来玩，Kiki。我一个小时内到你那儿去。
 
 ;0x5E57F502=~z~Great, I'll be by in a bit.
 0x5E57F502=~z~太好了，我马上来。
@@ -282,19 +282,19 @@
 0x6011AFB9=GCKK_ACT_GETCALL_VERYIRATE
 
 ;0x601A1A3B=~z~Go to her, Niko. Go to your fucking whore.
-0x601A1A3B=~z~去找她啊，Niko。去找你那个烂婊子啊。
+0x601A1A3B=~z~去找她啊，Niko。找那贱女人去啊。
 
 ;0x60372A26=GCKK_ACT_PKI_CALL_LOLIKE
 0x60372A26=GCKK_ACT_PKI_CALL_LOLIKE
 
 ;0x610ABD34=~z~Niko, you never want to see me. Fuck.
-0x610ABD34=~z~Niko，你就没想过约我。哼。
+0x610ABD34=~z~Niko，你就没想过约我。操。
 
 ;0x61860F2C=100
 0x61860F2C=100
 
 ;0x62BC3069=~z~This is disgraceful Niko. I'm going to call the D.A. right away.
-0x62BC3069=~z~那真是不太光彩，Niko，我马上给地方检察官打电话
+0x62BC3069=~z~真是太无耻了，Niko，我这就给地方检察官打电话。
 
 ;0x63EAF680=100
 0x63EAF680=100
@@ -303,16 +303,16 @@
 0x6610BBD4=GCKK_ACT_PKI_GETCALL_RANDOM
 
 ;0x6735FDB8=~z~Niko here.
-0x6735FDB8=~z~这里是Niko。
+0x6735FDB8=~z~我是Niko。
 
 ;0x67CBD6BA=~z~Niko, I'm being discharged from the hospital. Can you pick me up?
 0x67CBD6BA=~z~Niko，我马上出院了。能来接我下吗？
 
 ;0x6827AF49=~z~I love you. I need you. I want to feel you.
-0x6827AF49=~z~我爱你，离不开你，想见到你。
+0x6827AF49=~z~我爱你，离不开你，我想见你。
 
 ;0x686FEBDF=~z~Niko, I'm trying to get some sleep. Call me back after 6 okay.
-0x686FEBDF=~z~Niko，我想睡觉，6点之后再打给我行吗？
+0x686FEBDF=~z~Niko，我还要睡觉呢，麻烦6点之后再找我。
 
 ;0x6A291998=GCKK_ACT_PKI_CALL_GREET
 0x6A291998=GCKK_ACT_PKI_CALL_GREET
@@ -327,22 +327,22 @@
 0x6E98FB72=~z~对不起吵醒你了，Kiki。那我等会再打。
 
 ;0x7060FFA7=~z~Sure, I'll call another time.
-0x7060FFA7=~z~好，我下次再打。
+0x7060FFA7=~z~好，我下次再打过来。
 
 ;0x706F102E=~z~It's Niko.
-0x706F102E=~z~我是Niko.
+0x706F102E=~z~是我，Niko。
 
 ;0x707176A3=~z~From what I've heard those cops really mean business, Niko. I can't do anything. Good luck. Call me later, yeah?
-0x707176A3=~z~据我所知那些条子是认真的，Niko，我不能帮到你，晚点再打给我可好？祝好运。
+0x707176A3=~z~听说那些条子来真的了，Niko。我无能为力，祝你好运。记得打给我，好吗？
 
 ;0x7352BD4F=~z~You're not cheating on me are you, Niko? You better not be.
-0x7352BD4F=~z~你没跟我耍小心眼吧？Niko？最好没有。
+0x7352BD4F=~z~你该不会在搞外遇吧，Niko？最好不是。
 
 ;0x76E94CCC=~z~You're so beautiful, Niko. Both inside and out. You're amazing.
 0x76E94CCC=~z~你真的好帅，Niko，从里到外都是，你好棒。
 
 ;0x77C8C63B=~z~I better not find out you're seeing another woman.
-0x77C8C63B=~z~最好别让我发现你在和别的女人约会。
+0x77C8C63B=~z~最好别被我发现你在跟别的女人约会。
 
 ;0x78D762B1=~z~Sorry, Kiki. Another time.
 0x78D762B1=~z~对不起，Kiki，下次再说吧。
@@ -351,25 +351,25 @@
 0x7A1E1549=GCKK_ACT_PKI_CALL_ACCEPTED
 
 ;0x7A9B73CE=~z~Kiki, sorry about this but I can't see you anymore. To be honest, you kind of freak me out.
-0x7A9B73CE=~z~对不起Kiki，我觉得我不能再见你了。说实话，你有点吓到我了。
+0x7A9B73CE=~z~Kiki，我很抱歉，但我不能再见你了。说实话，你有点吓到我了。
 
 ;0x7C153577=~z~Can't wait to see you, sweetie.
 0x7C153577=~z~等不及要见你了，亲爱的。
 
 ;0x7C609125=~z~Dammit, Niko. You don't have to rub my face in it. I hate you for how you make me feel.
-0x7C609125=~z~靠，Niko。别恶心我。你真是可恨。
+0x7C609125=~z~靠，Niko。你不用来恶心我。我讨厌被你践踏自尊。
 
 ;0x7DC699D5=~z~Sorry, Kiki. I didn't see the time. I'll speak to you later.
-0x7DC699D5=~z~对不起，Kiki，我没看到时间，我待会再和你说。
+0x7DC699D5=~z~对不起，Kiki，我没看到时间，待会儿再和你说。
 
 ;0x7E957439=100
 0x7E957439=100
 
 ;0x7F1525D7=~z~Dammit, Niko. You don't have to rub my face in it. I hate you for how you make me feel.
-0x7F1525D7=~z~靠，Niko。别恶心我。你真是可恨。
+0x7F1525D7=~z~靠，Niko。你不用来恶心我。我讨厌被你践踏自尊。
 
 ;0x7FAD561D=~z~You're testing me. This is a test to see if I'll come back to you, isn't it? I'm not going anywhere, Niko.
-0x7FAD561D=~z~你在考验我，你在考验我是否会回到你身边，是吧？我那都不去，Niko。
+0x7FAD561D=~z~你在考验我，你在考验我会不会回到你身边，是吧？我哪儿都不去，Niko。
 
 ;0x807BE593=010
 0x807BE593=010
@@ -378,10 +378,10 @@
 0x825EBB74=100
 
 ;0x83A37A02=~z~So, I didn't realize you liked sluts. That's what she is, a slut, right? Do you want me to turn into a slutty whore for you?
-0x83A37A02=~z~我还不知道，你喜欢淫妇啊，她就是个淫妇对吧？你还指望我也为你变成个淫妇？
+0x83A37A02=~z~真没想到你喜欢荡妇啊。她就是个荡妇，对吧？你是想让我为你成为荡妇吗？
 
 ;0x84D9F425=~z~Hey, Kiki. Something's happened. I can't pick you up.
-0x84D9F425=~z~嘿，Kiki呀，有点事儿，接不了你。
+0x84D9F425=~z~嘿，Kiki。我有点事儿，接不了你。
 
 ;0x86DE47C3=GCKK_ACT_PKI_CALL_HILIKE
 0x86DE47C3=GCKK_ACT_PKI_CALL_HILIKE
@@ -405,7 +405,7 @@
 0x8F2D195D=~z~好吧，Kiki，我待会再打过来。
 
 ;0x90599F4A=~z~Alright Kiki. This is difficult for me but I have to end things between us. Goodbye.
-0x90599F4A=~z~Kiki，这对我来说真的很难，但是我想说我们的关系结束了，保重。
+0x90599F4A=~z~好吧，Kiki。这对我来说真的很难，但是我想说我们的关系结束了，保重。
 
 ;0x9097273F=GCKK_ACT_GETCALL_REJECT_IRATE
 0x9097273F=GCKK_ACT_GETCALL_REJECT_IRATE
@@ -417,16 +417,16 @@
 0x9123C701=~z~我真的想见你，Niko。真的是真的，一个小时内来接我吧。
 
 ;0x9152FCAC=~z~I wanted to give myself to you, Niko. I wanted you to have me.
-0x9152FCAC=~z~我想把我自己给你，Niko，我想让你拥有我。
+0x9152FCAC=~z~亏我还想为你献身，Niko，亏我想让你拥有我。
 
 ;0x9160B191=~z~Anything you want Kiki. I should be able to get there in the next hour.
-0x9160B191=~z~只要你想，Kiki。我应该可以在一个小时内赶到那里。
+0x9160B191=~z~悉听尊便，Kiki。一小时内我应该能到。
 
 ;0x91D93F09=~z~If I find out you're seeing one of your cheap whores instead of picking me up, you're not going to forget about it. Goodbye.
-0x91D93F09=~z~如果我发现你没约我而是去约了其他贱货，你会后悔的，回见。
+0x91D93F09=~z~要是被我发现你不来接我是去找哪个贱人了，你会后悔的，再见。
 
 ;0x9234BCCD=~z~Why do I like you so much, can someone explain that to me?
-0x9234BCCD=~z~为什么我那么喜欢你啊，谁可以解释一下吗？
+0x9234BCCD=~z~我怎么会这么喜欢你呢？谁可以解释一下吗？
 
 ;0x92D708C8=GCKK_ACT_GETCALL_SPEC_AD
 0x92D708C8=GCKK_ACT_GETCALL_SPEC_AD
@@ -456,7 +456,7 @@
 0x9CC527CD=GCKK_ACT_PKI_GETCALL_SPOTTED
 
 ;0x9E253AE1=~z~Hey Kiki. I think it would be best for us not to see each other again.
-0x9E253AE1=~z~嘿Kiki，我想，我们最好不要再见面了。
+0x9E253AE1=~z~嘿，Kiki，我想我们最好不要再见面了。
 
 ;0x9ECB4431=GCKK_ACT_CALL_REQ_SPEC_YES
 0x9ECB4431=GCKK_ACT_CALL_REQ_SPEC_YES
@@ -465,13 +465,13 @@
 0x9F75C7A9=GCKK_ACT_GETCALL_HOSP_ACCEPT
 
 ;0x9FDD581E=~z~You just love punishing me, you take pleasure in this.
-0x9FDD581E=~z~你就是喜欢欺负我，像是你能从中取乐。
+0x9FDD581E=~z~你就是喜欢惩罚我，你还乐在其中。
 
 ;0xA0701534=100
 0xA0701534=100
 
 ;0xA3225514=~z~Okay, Kiki. I'll come get you in the next hour.
-0xA3225514=~z~好的Kiki，一个小时内来接你。
+0xA3225514=~z~好的Kiki，我一小时内就到。
 
 ;0xA4E1B92A=100100100010
 0xA4E1B92A=100100100010
@@ -510,10 +510,10 @@
 0xB0F8A1B3=~z~Niko。
 
 ;0xB1A5EF10=~z~Fine, go to her. Go to that fucking bitch if you don't want to pick me up. You pig.
-0xB1A5EF10=~z~好啊，还不想约我的话去跟那些个烂婊约炮啊，你这死猪。
+0xB1A5EF10=~z~好啊，去找她吧。不想接我的话就去找那个臭婊子吧。死猪。
 
 ;0xB29ED838=~z~I'm used to being in the driver's seat, you can't fuck me around, okay? Call me later and prove that you're serious about this!
-0xB29ED838=~z~我坐车都坐腻了，别玩我了好吗？等会儿在打给我，证明你是认真的！
+0xB29ED838=~z~我已经习惯自己开车了，你别想欺骗我的感情。等会儿再打给我，证明你是认真的！
 
 ;0xB2E8AAB2=010
 0xB2E8AAB2=010
@@ -522,13 +522,13 @@
 0xB2FB6679=GCKK_ACT_PKI_CALL_REQ_SPEC
 
 ;0xB57455DC=~z~Don't worry, Niko. I'll get them to stay away from you and I'll try to get their badges. Call me later, okay?
-0xB57455DC=~z~别担心，Niko。我会把他们赶走的、拿掉他们的警徽的。有空约我，好吗？
+0xB57455DC=~z~别担心，Niko。我会赶走他们的，甚至还能拿掉他们的警徽。有空约我，好吗？
 
 ;0xB6854B85=~z~You make me sick, Niko. If you'd rather fuck one of your cheap bitches than pick me up, that's fine.
-0xB6854B85=~z~你让我感到恶心，Niko。如果你宁愿约你其他的贱婊都不约我，那就随你吧。
+0xB6854B85=~z~我被恶心到了，Niko。既然你宁愿去上哪个贱女人也不来接我，那好。
 
 ;0xB729792C=~z~Kiki, I don't like to do this but something's come up. I can't go on a date with you.
-0xB729792C=~z~Kiki，这不是我本意，但是我真的突然有点事，我不能约你出来了。
+0xB729792C=~z~Kiki，我也不想这样，但我突然有点急事，不能约你出来了。
 
 ;0xB76E031B=GCKK_ACT_CALL_BREAK_UP
 0xB76E031B=GCKK_ACT_CALL_BREAK_UP
@@ -537,25 +537,25 @@
 0xB8330F52=~z~我不喜欢被拒绝，Kiki。
 
 ;0xB8EC1F76=~z~I'll get ready for you, Niko.
-0xB8EC1F76=~z~我会为你做好准备的，Niko。
+0xB8EC1F76=~z~我这就开始准备，Niko。
 
 ;0xBB7AA644=~z~Hello there Kiki.
 0xBB7AA644=~z~你好啊，Kiki。
 
 ;0xBB80F21F=~z~Fine, fine. Go to her instead.
-0xBB80F21F=~z~好吧，好吧，去找你的那个她吧。
+0xBB80F21F=~z~好啊，好啊。找那娘们去吧。
 
 ;0xBDE87F77=100
 0xBDE87F77=100
 
 ;0xBE3B840D=~z~Hey, Niko. I know it's really hard for you here and that you're being persecuted by the authorities.
-0xBE3B840D=~z~嘿，Niko。我知道你在自由城真的很煎熬，而且你还要受当局的骚扰。
+0xBE3B840D=~z~嘿，Niko。我知道你日子不好过，还会被当局骚扰。
 
 ;0xBFA3704C=~z~No can do, Kiki. Maybe another time.
-0xBFA3704C=~z~不行，Kiki，可以的话换个时间吧。
+0xBFA3704C=~z~不行，Kiki，改天再说吧。
 
 ;0xC1AE30FA=~z~I cannot wait.
-0xC1AE30FA=~z~我等不了了。
+0xC1AE30FA=~z~我很期待。
 
 ;0xC1F157C0=100
 0xC1F157C0=100
@@ -570,19 +570,19 @@
 0xC53B0349=010
 
 ;0xC5557DA5=~z~Niko, What are you doing to me? I'm a wreck when you don't call and now suddenly you want me back?
-0xC5557DA5=~z~Niko，你在搞什么？因为你不打电话给我，我都崩溃了，而现在你又突然想要我回来？
+0xC5557DA5=~z~Niko，你在搞什么？之前不给我打电话让我崩溃，现在又想起我了？
 
 ;0xC560944A=~z~Kiki, it would be a pleasure to take you out. I'll be by your place in the next hour.
-0xC560944A=~z~Kiki，能带你出去真是太开心了，一个小时内到你那。
+0xC560944A=~z~Kiki，能带你出去玩真是太好了，我一小时内来接你。
 
 ;0xC5C797D5=GCKK_ACT_PKI_CALL_DATE
 0xC5C797D5=GCKK_ACT_PKI_CALL_DATE
 
 ;0xC62433EC=~z~I think I love you. Help me.
-0xC62433EC=~z~我想我爱上你了，无可救药。
+0xC62433EC=~z~可是我爱你。救救我吧。
 
 ;0xC780C756=~z~I'll be there in the next hour then.
-0xC780C756=~z~那我一个小时内到你那。
+0xC780C756=~z~那我一个小时内就来。
 
 ;0xC78356CE=GCKK_ACT_ANSWER_PHONE
 0xC78356CE=GCKK_ACT_ANSWER_PHONE
@@ -594,10 +594,10 @@
 0xC8973401=GCKK_ACT_GETCALL_SPOTTED1
 
 ;0xCAAFBEC3=~z~Alright, Niko. Thanks for calling at least.
-0xCAAFBEC3=~z~好吧，Niko。谢谢你，至少会打电话过来。
+0xCAAFBEC3=~z~好吧，Niko。至少你先通知我了。
 
 ;0xCBD632A6=~z~Maybe call after 6. I'll be dreaming about you...
-0xCBD632A6=~z~6点以后再打给我吧。我会梦到你的...
+0xCBD632A6=~z~6点以后再找我吧。我会梦到你的...
 
 ;0xCC4A7CCE=GCKK_ACT_GETCALL_SPEC_AC
 0xCC4A7CCE=GCKK_ACT_GETCALL_SPEC_AC
@@ -609,34 +609,34 @@
 0xCD2A9E0F=GCKK_ACT_PKI_CALL_HOSP_CANCEL
 
 ;0xCE4D2430=~z~If you ever feel like the police are after you for no reason, give me a call.
-0xCE4D2430=~z~如果你觉得警察在无缘无故地追捕你，给我打个电话。
+0xCE4D2430=~z~你要是觉得有警察无缘无故就盯上你了，给我打个电话。
 
 ;0xCED12F54=100
 0xCED12F54=100
 
 ;0xCFA5A8D4=~z~That is exactly what I'd like to do. I'll come by your place in the next hour.
-0xCFA5A8D4=~z~我正想去呢。一个小时内我会来你家。
+0xCFA5A8D4=~z~你跟我想法一致啊。我一小时内就来你家接你。
 
 ;0xCFDD3343=100
 0xCFDD3343=100
 
 ;0xD0F10CD5=~z~Those cops do not deserve their badges. Let me talk to the D.A. Kiss, kiss, Niko.
-0xD0F10CD5=~z~那些条子配不上他们的警徽，我会和地方检察官讲的，爱你，Niko。
+0xD0F10CD5=~z~那些条子不配佩戴警徽。我去跟地方检察官聊聊。爱你，Niko。
 
 ;0xD14E96EE=~z~Have you got time to take a girl out?
-0xD14E96EE=~z~你有时间带个女孩出去玩吗？
+0xD14E96EE=~z~有空带本姑娘出去玩玩吗？
 
 ;0xD1EA5611=100
 0xD1EA5611=100
 
 ;0xD3B8B072=~z~Oh, fine Niko. If you'd rather hang out with one of you cheap whores then do it.
-0xD3B8B072=~z~好哇，Niko。如果你宁愿和你的一个贱婊出去玩，那就去吧。
+0xD3B8B072=~z~哦，可以，Niko。你更想约哪个贱女人出去就去吧。
 
 ;0xD4636888=~z~Niko, it's your Kiki.
 0xD4636888=~z~Niko，是你的Kiki。
 
 ;0xD51E13E9=~z~You're missing out, Niko. I'll have to have fun by myself.
-0xD51E13E9=~z~你错过我了，Niko。我自己也会过得很开心的。
+0xD51E13E9=~z~那可真遗憾，Niko。我只能自己享乐了。
 
 ;0xD661127A=100
 0xD661127A=100
@@ -645,19 +645,19 @@
 0xD6DB0239=~z~啊，Niko，能和你说话真是太开心了。
 
 ;0xD71220DE=~z~I'm watching you, Niko. I'm watching you and your cheap whore. Don't think I'm fucking stupid.
-0xD71220DE=~z~我在监视着你呢，Niko。我在看着你和你的婊子。别以为我他妈傻。
+0xD71220DE=~z~我都看见了，Niko。我一直都看着你和你的婊子。别当老娘傻。
 
 ;0xD820E3B2=100
 0xD820E3B2=100
 
 ;0xD9F252D0=~z~Well, we'll have to do it another time.
-0xD9F252D0=~z~嗯，我们得改天再来。
+0xD9F252D0=~z~嗯，那只能改天再说了。
 
 ;0xDB39920F=~z~I'd love it if you were the only thing I had to think about, but I've got to keep my clients out of jail, rain-check?
-0xDB39920F=~z~如果我只需要考虑你，我会很高兴的，但是我必须让我的客户远离牢狱之灾。所以晚点再说？
+0xDB39920F=~z~如果我只需要考虑你该有多好，但我必须让委托人远离牢狱之灾。再说吧？
 
 ;0xDB5B5E5A=~z~You just love punishing me, you take pleasure in this.
-0xDB5B5E5A=~z~你就是喜欢欺负我，像是你能从中取乐。
+0xDB5B5E5A=~z~你就是喜欢惩罚我，你还乐在其中。
 
 ;0xDB63A4CD=GCKK_ACT_GETCALL_ACCEPT
 0xDB63A4CD=GCKK_ACT_GETCALL_ACCEPT
@@ -666,10 +666,10 @@
 0xDBBE4085=GCKK_ACT_GETCALL_HOSP_REJ_LOLIKE
 
 ;0xDC8EC0B3=~z~I've got a lot of sway with the D.A. and I can probably get them to behave themselves.
-0xDC8EC0B3=~z~我在地方检察官那还是有威信的，我尽可能会让他们规矩点的。
+0xDC8EC0B3=~z~我在地检那边还是有点影响的，我会尽量让他们规矩点的。
 
 ;0xDFE632CA=~z~I don't know if I believe you, call me later if you're serious about this.
-0xDFE632CA=~z~我不知道我能不能信你，晚点打过来吧，如果你是认真的。
+0xDFE632CA=~z~我现在很难相信你，晚点再打过来，向我证明你是认真的。
 
 ;0xE34D63F8=GCKK_ACT_CALL_DATE_YES
 0xE34D63F8=GCKK_ACT_CALL_DATE_YES
@@ -684,31 +684,31 @@
 0xE6370C2F=~z~噢，Niko。
 
 ;0xE6B3FB05=~z~I'll count the seconds, Niko.
-0xE6B3FB05=~z~我每一秒都会想你的，Niko。
+0xE6B3FB05=~z~我会给你计时的，Niko。
 
 ;0xE9064D0E=~z~Sure, Kiki. I'll call you later.
-0xE9064D0E=~z~好，Kiki，待会儿打给你。
+0xE9064D0E=~z~好的，Kiki，待会儿打给你。
 
 ;0xEB1FD141=~z~Alright. Speak to you soon then, Kiki.
-0xEB1FD141=~z~好，下次吧，Kiki。
+0xEB1FD141=~z~好，以后再聊吧，Kiki。
 
 ;0xEC1F196F=GCKK_ACT_PKI_GETCALL_HOSP_YES
 0xEC1F196F=GCKK_ACT_PKI_GETCALL_HOSP_YES
 
 ;0xEEAFF5C2=~z~I think I love you. Help me.
-0xEEAFF5C2=~z~我想我爱上你了，无可救药。
+0xEEAFF5C2=~z~可是我爱你。救救我吧。
 
 ;0xF0F49137=~z~Kiki.
 0xF0F49137=~z~Kiki。
 
 ;0xF173BE83=~z~I've got a court date coming up. I can't see you. Maybe later.
-0xF173BE83=~z~我马上就要出庭了。不能见你了。可能要过几天吧。
+0xF173BE83=~z~我马上就要出庭了。不能见你了。过几天吧。
 
 ;0xF2339BF0=GCKK_ACT_PKI_GETCALL_DATE_YES
 0xF2339BF0=GCKK_ACT_PKI_GETCALL_DATE_YES
 
 ;0xF2CCED2F=~z~Thanks Kiki. The cops do give me a hard time for no reason. I'll talk to you soon.
-0xF2CCED2F=~z~多谢，Kiki，这些条子总是无缘无故刁难我，我等会儿打给你。
+0xF2CCED2F=~z~多谢，Kiki。总有条子无缘无故刁难我。有空再聊啊。
 
 ;0xF3C11FD6=~z~See you soon then.
 0xF3C11FD6=~z~那待会儿见。
@@ -717,10 +717,10 @@
 0xF4481B5C=GCKK_ACT_CALL_LIKEYES
 
 ;0xF4EA05FE=~z~So you call me only when you need something? I'm not going to help you, Niko. I hope this makes you learn to treat me right.
-0xF4EA05FE=~z~所以你只有在需要的时候才打电话给我？我不会帮你的，Niko。我希望这能让你学会如何待我。
+0xF4EA05FE=~z~你把我当工具人是吧？我不会帮你的，Niko。希望能让你学会该如何对我。
 
 ;0xF68D147F=~z~Ahh, Niko. Have you been playing hard to get? I haven't got time for bullshit, if that's your game.
-0xF68D147F=~z~啊...Niko。你一直在玩欲擒故纵的把戏吗？本小姐没那闲工夫。
+0xF68D147F=~z~啊...Niko。你一直都是欲擒故纵吗？本小姐没那闲工夫陪你。
 
 ;0xF7B65C73=GCKK_ACT_CALL_HOSP_CANCEL_HILIKE
 0xF7B65C73=GCKK_ACT_CALL_HOSP_CANCEL_HILIKE
@@ -729,10 +729,10 @@
 0xF8F104E9=~z~你想我带你出去约会吗？
 
 ;0xF8F916B2=~z~I'd really like to go on a date with you. Pick me up in the next hour.
-0xF8F916B2=~z~我真的想和你来一场约会，一个小时后来接我吧。
+0xF8F916B2=~z~我很乐意跟你出来约会，一小时内来接我吧。
 
 ;0xF9358199=~z~Do you know how cheap your calling me like this makes me feel? And I can't resist you.
-0xF9358199=~z~你知道你这样打电话给我让我觉得很廉价吗？我无法拒绝你。
+0xF9358199=~z~你知道这样对我会有多伤自尊吗？但我无法拒绝你。
 
 ;0xFBE419FE=GCKK_ACT_PKI_CALL_DATE_CANCEL
 0xFBE419FE=GCKK_ACT_PKI_CALL_DATE_CANCEL
