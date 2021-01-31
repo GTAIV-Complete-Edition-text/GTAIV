@@ -48,7 +48,7 @@
 0x0B0C5263=~z~当然是了。
 
 ;0x0D6AE3F0=~z~That, and you saved my life.
-0x0D6AE3F0=~z~那是一点，而且你救过我一命。
+0x0D6AE3F0=~z~不仅如此，你还救过我一命。
 
 ;0x0F10EDA0=~z~As I said, the whole prison bitch thing is an American phenomenon.
 0x0F10EDA0=~z~我说了，这种狗屁监狱风气是美国特色。
@@ -174,7 +174,7 @@
 0x2A5EA42F=~z~那你改天一定要来试试。补上你在欧洲禁欲监狱错过的经历。
 
 ;0x2B299065=~z~Oh yeah?
-0x2B299065=~z~哦是吗？
+0x2B299065=~z~是吗？
 
 ;0x2BD0A5A7=~z~Not in a "fun in the showers" kind of way. In a male bonding, about to go rob some people, kind of way.
 0x2BD0A5A7=~z~不是「肥皂时间」那种喜欢。是男人的情谊，有点像一起去打劫的那种感觉。
@@ -297,7 +297,7 @@
 0x4675EE43=~z~再这样下去你要受伤的，小子。
 
 ;0x4791B6C9=~z~So, this shipment smellin' fishy means that it ain't gonna be what they say it is.
-0x4791B6C9=~z~所以呢，闻到这批货的气味就是说这批货跟他们报关的不一样。
+0x4791B6C9=~z~所以呢，「闻到这批货的气味」就是说这批货跟他们报关的不一样。
 
 ;0x491AA714=~z~Likewise, see you around.
 0x491AA714=~z~我也是，回见。
@@ -378,7 +378,7 @@
 0x5D5774C0=~z~问题在于你会让自己这辈子都没机会做一次。
 
 ;0x5E59FD45=~z~This is import tax, deal with it.
-0x5E59FD45=~z~这叫抽税，看着办吧。
+0x5E59FD45=~z~这叫进口税，看着办吧。
 
 ;0x6022D428=~z~Which is convenient, 'cause if she did, I'd have to kill you.
 0x6022D428=~z~这么着就很好办，因为要是她肯，我就只能杀了你了。
@@ -492,7 +492,7 @@
 0x783750B8=PM1_DJ
 
 ;0x7856ABDF=~z~Meds. Mollis, sedatives, antidepressants - meds.
-0x7856ABDF=~z~药。Mollis，镇静剂，抗抑郁药－药。
+0x7856ABDF=~z~药。Mollis，镇静剂，抗抑郁药——药。
 
 ;0x79503F30=010
 0x79503F30=010
@@ -522,7 +522,7 @@
 0x7D718EC1=~z~乖孩子。
 
 ;0x7EC63B61=~z~Shut the fuck up. You think you're a right fuckin' comedian, don't ya?
-0x7EC63B61=~z~你丫给我闭嘴。你丫真当自己是说相声的是吧？
+0x7EC63B61=~z~闭嘴吧你。你丫真当自己是说相声的是吧？
 
 ;0x7EFEDA31=~z~Possession is nine tenths of the law. Deal with it.
 0x7EFEDA31=~z~法律规定要征收九成。看着办吧。(BETA)
@@ -600,7 +600,7 @@
 0x8D361ACA=PM1_JD
 
 ;0x8D4BC23C=~z~But, if it's going to the fish market they must be saying that it's fish.
-0x8D4BC23C=~z~可是，既然他们要把货送到鱼市，那他们肯定得说这是鱼啊。
+0x8D4BC23C=~z~可是，既然要把货送到鱼市，那他们肯定得说这是鱼啊。
 
 ;0x8E2E9242=PM1_DO
 0x8E2E9242=PM1_DO
@@ -770,7 +770,7 @@
 0xB17B4CA5=~z~快点，这活你难道干不来？
 
 ;0xB29A9F55=~z~Don't you got other guys to help you out? You're from here, you should know everyone.
-0xB29A9F55=~z~难不成就没别的人能帮上你了？你是本地人，你人脉应该挺广的啊。
+0xB29A9F55=~z~难不成就没别的人能帮上你了？你是本地人，人脉应该挺广的啊。
 
 ;0xB2F0EE97=~z~This is Niko, some drug dealing de-fucking-generate from some armpit in Eastern Europe.
 0xB2F0EE97=~z~这位是Niko，不知道从哪个东欧粪坑里出来的贩毒蛆虫。
@@ -905,7 +905,7 @@
 0xCE837690=~z~这可不是什么烟火大会。这他妈是突击步枪。(BETA)
 
 ;0xCEA8FAA0=~z~We're welcoming some of our cousins from the East, but we don't know what it is that they're bringing in exactly.
-0xCEA8FAA0=~z~我们欢迎的是来自东方的几个远房亲戚。不过说实话，我们也不知道他们拉的是什么货。
+0xCEA8FAA0=~z~我们欢迎的是几个来自东方的远房亲戚。不过说实话，我们也不知道他们拉的是什么货。
 
 ;0xCF041711=~z~These better be some good fucking pills. The housewives better be grateful.
 0xCF041711=~z~车里的药效果最好他妈好点。太太们也最好会感恩戴德。
@@ -926,7 +926,7 @@
 0xD2D4E079=~z~跟紧了，兄弟。
 
 ;0xD33B2161=~z~There should be a good view of the dock so we can scope that shit out.
-0xD33B2161=~z~那里应该能把码头看得一清二楚，我们可以好好侦查一下。
+0xD33B2161=~z~那里应该能把码头看得一清二楚，可以好好侦查一下。
 
 ;0xD3C7F71A=100010100100100100010100100100010100100100010100010100010100010010100100100010010100010100010100010100100010
 0xD3C7F71A=100010100100100100010100100100010100100100010100010100010100010010100100100010010100010100010100010100100010
@@ -977,7 +977,7 @@
 0xDC589FB9=101
 
 ;0xDC631614=~z~All we know is that it's worth a dollar or two.
-0xDC631614=~z~我们只知道那批货还是值几个子儿的。
+0xDC631614=~z~只知道那批货还是值几个子儿的。
 
 ;0xDCCB21BA=PM1_DS
 0xDCCB21BA=PM1_DS

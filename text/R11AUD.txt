@@ -192,7 +192,7 @@
 0x310E1264=R11_NX
 
 ;0x31837FF3=~z~My dream, it was just that... a dream.
-0x31837FF3=~z~我的梦，就那样了...一个梦。
+0x31837FF3=~z~我的梦？就那样了...一个梦。
 
 ;0x328A9EB6=~z~Okay.
 0x328A9EB6=~z~好吧。
@@ -267,7 +267,7 @@
 0x40E07DDA=~z~香车靓装和我美丽的Mallorie上了。
 
 ;0x4165505B=~z~Maybe they will let us live with them in their crack dens.
-0x4165505B=~z~说不定就让我们跟她们一起住那夹缝里了。
+0x4165505B=~z~说不定就让我们跟她们一起住烟馆里了。
 
 ;0x430EE67E=R11_FI
 0x430EE67E=R11_FI
@@ -285,7 +285,7 @@
 0x440A3C00=R11_NQ_QQQ1
 
 ;0x4556380A=~z~What is going on?
-0x4556380A=~z~这怎么回事？
+0x4556380A=~z~怎么回事？
 
 ;0x45BDFC76=~z~I'll call Mallorie, she might have somewhere we can hide out.
 0x45BDFC76=~z~我给Mallorie打个电话，她可能有地方能让我们躲。
@@ -324,7 +324,7 @@
 0x4D0F259C=R11_DB
 
 ;0x4D875ED0=~z~All I know is we have to get as far from Dimitri and Bulgarin as we can.
-0x4D875ED0=~z~我只知道我们离Dimitri和Bulgarin越远越好。
+0x4D875ED0=~z~我只知道，我们离Dimitri和Bulgarin越远越好。
 
 ;0x4D9A18CA=100100
 0x4D9A18CA=100100
@@ -363,7 +363,7 @@
 0x53612478=~z~那我们完了？
 
 ;0x53EDCE6F=~z~They burnt it... they fucking burnt it, Niko!
-0x53EDCE6F=~z~他们居然放火...他们他妈居然放火，Niko！
+0x53EDCE6F=~z~他们居然放火...他们居然他妈放火，Niko！
 
 ;0x5402F596=~z~What are we going to do in Bohan? Pick up the whores on Chase Point?
 0x5402F596=~z~我们去Bohan干嘛？去Chase Point勾搭几个妓女？
@@ -729,7 +729,7 @@
 0xA98B75D5=~z~我们现在在美国，我应该想的是这里的生活，我的生活已经毁了。
 
 ;0xABB8D385=~z~I am the one end up feeling the pain after you piss people off.
-0xABB8D385=~z~每次你把人惹恼了最后都是我挨打。
+0xABB8D385=~z~每次你把人惹恼了，最后都是我挨打。
 
 ;0xAD0B26CD=100
 0xAD0B26CD=100
@@ -792,7 +792,7 @@
 0xBE501CF4=~z~天哪！
 
 ;0xBE6F7EBE=~z~I do not spend money at these games, I risk it for reward.
-0xBE6F7EBE=~z~我参赌不是为了挥霍的，我是去搏一搏的。
+0xBE6F7EBE=~z~我赌博不是为了挥霍，我是去搏一搏的。
 
 ;0xBF50F0D3=~z~It is a place of distinction, you know?
 0xBF50F0D3=~z~一家非凡的店，懂吧？
@@ -822,7 +822,7 @@
 0xC5C8BD0B=R11_XXA
 
 ;0xC66756DF=~z~Where should I start? Alright, I'll start with you - what's wrong with you?
-0xC66756DF=~z~你让我从哪开始说？算了，从你说起吧－你有毛病吗？
+0xC66756DF=~z~你让我从哪开始说？算了，从你说起吧。你有毛病吗？
 
 ;0xC880AA28=~z~No, I'm from up here, Niko.
 0xC880AA28=~z~没事的，我就是从这里出来的，Niko。
@@ -864,10 +864,10 @@
 0xD3DFDF73=R11_EF
 
 ;0xD3F36195=~z~I do not think it will be much difference to them, Niko.
-0xD3F36195=~z~我觉得对他们没什么太大区别，Niko。
+0xD3F36195=~z~我觉得对他们没太大区别，Niko。
 
 ;0xD487F320=~z~Fifteen minutes ago you were cowering in fear because you didn't know what was going to happen.
-0xD487F320=~z~一刻钟之前你还因为不知道会发生什么吓得瑟瑟发抖。
+0xD487F320=~z~一刻钟之前，你还因为不知道会发生什么吓得瑟瑟发抖。
 
 ;0xD5125B92=R11_NV_QQQ1
 0xD5125B92=R11_NV_QQQ1
@@ -981,7 +981,7 @@
 0xF37189DD=100100010100010100100100190190010100100100100010
 
 ;0xF4F82B27=~z~Roman, you sound like you did in those emails you sent me before I arrived here.
-0xF4F82B27=~z~Roman，你这听着像是已经实现了之前发给我的邮件里面的那些了啊。
+0xF4F82B27=~z~Roman，你发给我的邮件里面不都是梦话吗。
 
 ;0xF670E359=~z~then I got the apartment, the apartment you thought was so shitty.
 0xF670E359=~z~之后我买下了公寓，你还嫌弃它太烂的公寓。
@@ -1002,7 +1002,7 @@
 0xFB4189C7=R11_NQ
 
 ;0xFD3096CB=~z~And have a shower - you smell a little, erm, mature?
-0xFD3096CB=~z~记得去洗个澡－你身上有点，呃，男人味？
+0xFD3096CB=~z~记得去洗个澡。你身上有点，呃，男人味？
 
 ;0xFDCB9884=~z~I can't have the tavern now. I have nothing to buy it with. I have, I have nothing.
 0xFDCB9884=~z~我现在开不了酒馆了。我没办法买下它，~n~现在我，我啥都没有了。
