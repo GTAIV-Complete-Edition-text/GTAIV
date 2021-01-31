@@ -36,13 +36,13 @@
 0x2957BEA8=~s~门现在解锁了。
 
 ;0x29E12F19=~s~Lose your wanted level.
-0x29E12F19=~s~降低你的通辑度。
+0x29E12F19=~s~降低你的通缉度。
 
 ;0x2C50771F=~s~You still need the files.
 0x2C50771F=~s~你还需要档案。
 
 ;0x321BA7B6=~r~You got a wanted level.
-0x321BA7B6=~r~你还有通辑度。
+0x321BA7B6=~r~你还有通缉度。
 
 ;0x324CD092=~s~Security have locked all the exits.
 0x324CD092=~s~保安已经锁上了全部出口。

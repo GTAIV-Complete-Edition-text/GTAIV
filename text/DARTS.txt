@@ -120,7 +120,7 @@
 0xCC241A42=用~PAD_SIXAXIS_PITCH~和~PAD_SIXAXIS_ROLL~控制准星，按~PAD_A~投掷飞镖。
 
 ;0xCD02613B=The bullseye is the circle in the center of the board. The outer ring scores 25, the inner circle scores 50.
-0xCD02613B=牛眼就是标靶正中的圆。外圆分数是25，内圆分数是50。
+0xCD02613B=牛眼就是标靶正中的圆。外圆25分，内圆50分。
 
 ;0xCD095D23=~r~Michelle wins
 0xCD095D23=~r~Michelle赢了

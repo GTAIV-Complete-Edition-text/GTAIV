@@ -12,7 +12,7 @@
 0x27DCD288=在主屏幕按~INPUT_PHONE_TAKE_OUT~调出拨号盘。
 
 ;0x2C68B34C=~r~The dealer got away.~s~
-0x2C68B34C=~r~毒贩跑了。~s~
+0x2C68B34C=~r~毒贩逃走了。~s~
 
 ;0x39F676BB=Navigate the mobile keypad using ~PAD_DPAD_ALL~. Select your desired input using ~INPUT_PHONE_ACCEPT~. To make a phone call select the phone icon on the top left of the keypad.
 0x39F676BB=用~PAD_DPAD_ALL~选择键盘上的数字，按~INPUT_PHONE_ACCEPT~输入所选数字。选中键盘左上角的电话图标呼出。

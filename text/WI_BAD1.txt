@@ -3,10 +3,10 @@
 0x0183C007=下车，干掉 ~y~小巷~s~里的人。
 
 ;0x134D639A=Take out the ~r~thugs.
-0x134D639A=干掉~r~打手们。
+0x134D639A=干掉~r~俄国人。
 
 ;0x29248F48=Waste all the ~r~thugs.
-0x29248F48=干掉~r~打手们。
+0x29248F48=干掉~r~俄国人。
 
 ;0x36FB2AF5=You are too far away from ~b~Badman.~s~ Get closer so you can interact with him.
 0x36FB2AF5=你离~b~Badman~s~太远了，靠近一点与他互动。
@@ -30,7 +30,7 @@
 0x7403438E= ~r~俄罗斯帮成员~s~在Carrollton街的小巷子里做交易。带Badman去那里。
 
 ;0x93A802D3=~r~One of the thugs got away.~s~
-0x93A802D3=~r~一个帮派成员跑掉了。~s~
+0x93A802D3=~r~有帮派成员逃走了。~s~
 
 ;0xCCF7D6E0=Take Badman down to the alleyway just off ~y~Carrollton Street.~s~
 0xCCF7D6E0=带Badman去~y~Carrollton街~s~的小巷。

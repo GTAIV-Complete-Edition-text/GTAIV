@@ -3,7 +3,7 @@
 0x35D9D2AB=~r~Clarence逃出了这一区域。
 
 ;0x471C7530=~r~ Clarence got away.
-0x471C7530=~r~Clarence跑掉了。
+0x471C7530=~r~Clarence逃走了。
 
 ;0x939EED12=~s~Walk away to spare Clarence's life.
 0x939EED12=~s~直接走开可放过Clarence。
@@ -21,7 +21,7 @@
 0xC5BD2967=~r~Clarence~s~正在逃离社区，别让他跑了。
 
 ;0xDC2B5643=~s~Clarence has been dealt with. Lose your wanted level.
-0xDC2B5643=~s~Clarence这边已经解决了，降低你的通辑度。
+0xDC2B5643=~s~Clarence这边已经解决了，降低你的通缉度。
 
 ;0xEA78F2DE=~s~Clarence is dead. Lose your wanted level.
 0xEA78F2DE=~s~Clarence死了，降低你的通缉度。
