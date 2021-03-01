@@ -6,7 +6,7 @@
 0x1EA39C25=~s~按~INPUT_PICKUP~引爆炸弹。
 
 ;0x32ED05F3=~r~The truck has been destroyed.
-0x32ED05F3=~r~卡车被摧毁了。
+0x32ED05F3=~r~卡车被毁了。
 
 ;0x4391DA11=~s~Park the truck inside the ~y~garage.
 0x4391DA11=~s~将卡车停入~y~车库。
@@ -21,7 +21,7 @@
 0x6DE33A9F=~s~进入~b~卡车。
 
 ;0x7B6DC9C8=~s~Be careful, the ~b~truck~s~ can't take much more damage.
-0x7B6DC9C8=~s~当心，这辆~b~卡车~s~将无法承受更多损伤。
+0x7B6DC9C8=~s~当心，~b~卡车~s~无法承受更多损伤。
 
 ;0x7F99DE0C=~s~Go to the old factory and find the ~b~truck.~s~
 0x7F99DE0C=~s~去旧工厂找到~b~卡车。~s~

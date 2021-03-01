@@ -1,6 +1,6 @@
 ﻿[FCPC1AU]
 ;0x006E4766=~z~Well, sometimes we're trying to keep our heads above the water, other times we're trying to drown ourselves in it.
-0x006E4766=~z~有时我们想让自己的头探出水面，有时也会想把自己浸在水下。
+0x006E4766=~z~有时我们想让自己探出水面，~n~有时也会想把自己浸在水下。
 
 ;0x008F3283=FCPC1_MOM_DENIAL_CI
 0x008F3283=FCPC1_MOM_DENIAL_CI
@@ -498,7 +498,7 @@
 0x93DACFF2=100010100010100010100100100010100100100
 
 ;0x94EF80F5=~z~I can't go out and look for chicks without it, but once I'm out I'm in the can most of the night doing rails.
-0x94EF80F5=~z~没了它我不能出门，但是只要我出门，我差不多就是整晚操妞吸粉。
+0x94EF80F5=~z~没了它我不能出门，但只要我一出门，~n~差不多就是整晚操妞吸粉。
 
 ;0x973F204D=~z~What did Derrick want to find in Ireland?
 0x973F204D=~z~Derrick想去爱尔兰找什么？
@@ -720,7 +720,7 @@
 0xEAE6F38F=FCPC1_MOM_DENIAL_CJ
 
 ;0xEB089C9B=~z~Maybe sometimes, I mainly try to focus my need to destroy things onto other people.
-0xEB089C9B=~z~也许有吧，一般我会考虑把自己的破坏欲发泄在别人身上。
+0xEB089C9B=~z~也许有吧，一般我会考虑把破坏欲发泄在别人身上。
 
 ;0xEB9AD885=~z~Francis tried to get me on his side, team up against the other two he said, but I wasn't having any of it.
 0xEB9AD885=~z~Francis试过拉拢我，和他抱团跟另外两人对着干，不过我完全没接受。

@@ -30,7 +30,7 @@
 0x3DA99A0F=~y~你赢了。
 
 ;0x44615191=~r~Scratch. Missed all balls. Pocketed 8-Ball.
-0x44615191=~r~白球入袋。一球未中。8号球入袋。
+0x44615191=~r~犯规。一球未中。8号球入袋。
 
 ;0x4471DB71=Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_FRONTEND_ACCEPT~ to enter shooting mode.~n~Press ~PAD_BACK~ for normal view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~
 0x4471DB71=用~PAD_LSTICK_LEFTRIGHT~调整瞄准角度。~n~按住~PAD_X~微调。~n~按~INPUT_FRONTEND_ACCEPT~进入击球模式。~n~按~PAD_BACK~切换正常视角。~n~按~INPUT_PICKUP~离开球桌。~n~~a~
@@ -51,19 +51,19 @@
 0x56B89AB7=玩家 1:
 
 ;0x574E9CF1=~r~Scratch. Ball jumped off table.
-0x574E9CF1=~r~犯规。球从台球桌跳出。
+0x574E9CF1=~r~犯规。球被击离台面。
 
 ;0x58E4CB33=~r~Scratch. Ball jumped off table. Pocketed 8-Ball
-0x58E4CB33=~r~犯规。球从台球桌跳出。8号球入袋。
+0x58E4CB33=~r~犯规。球被击离台面。8号球入袋。
 
 ;0x5A894F5C=~r~Scratch. No rail hit. Pocketed 8-Ball
-0x5A894F5C=~r~犯规。主球没有触边。8号球入袋。
+0x5A894F5C=~r~犯规。没有球触边。8号球入袋。
 
 ;0x5C4AD308=~g~No balls pocketed.
 0x5C4AD308=~g~没有球入袋。
 
 ;0x6114B07D=~r~Scratch. No rail hit.
-0x6114B07D=~r~犯规。主球没有触边。
+0x6114B07D=~r~犯规。没有球触边。
 
 ;0x617BA8FF=Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Use ~PAD_RSTICK_ALL~ to position cue tip.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_ATTACK~ to enter shooting mode.~n~Press ~PAD_BACK~ for overhead view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~
 0x617BA8FF=用~PAD_LSTICK_LEFTRIGHT~旋转。~n~用~PAD_RSTICK_ALL~控制球杆击球位置。~n~按住~PAD_X~微调。~n~按~INPUT_ATTACK~进入击球模式。~n~按~PAD_BACK~切换俯视视角。~n~按~INPUT_PICKUP~离开球桌。~n~~a~

@@ -465,7 +465,7 @@
 0x98392144=MF6_A_NF
 
 ;0x98BB70C5=~z~Well, you've been spending time with the rest of my family, I figured you may as well complete the set.
-0x98BB70C5=~z~那个，既然你已经和我家的人处过了，我想你还是凑个全套吧。
+0x98BB70C5=~z~那个，既然你已经和我家的人处过了，~n~我想你还是凑个全套吧。
 
 ;0x9C8511B2=~z~Good luck with that thing. Goodbye.
 0x9C8511B2=~z~Good luck with that thing. Goodbye.
@@ -792,7 +792,7 @@
 0xF9CE3B84=~z~您呼叫的是Goldberg，Ligner和Shyster律师行。
 
 ;0xFA8DA6BC=~z~Well, you've been spending time with the rest of my family, I figured you may as well complete the set.
-0xFA8DA6BC=~z~那个，既然你已经和我家的人处过了，我想你还是凑个全套吧。
+0xFA8DA6BC=~z~那个，既然你已经和我家的人处过了，~n~我想你还是凑个全套吧。
 
 ;0xFC9C7754=MF6_A_JB
 0xFC9C7754=MF6_A_JB

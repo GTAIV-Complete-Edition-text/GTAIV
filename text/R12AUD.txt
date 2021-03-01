@@ -156,7 +156,7 @@
 0x2CFB9F15=~z~我们死定了。我还不想死，老弟。不想这么死。
 
 ;0x2D75A3E5=~z~He likes to party. He stays out late the whole time. You know what he's like.
-0x2D75A3E5=~z~他就喜欢在外面浪，一直都很晚回来的。他这德性你也知道。
+0x2D75A3E5=~z~他就喜欢在外面浪，每次都很晚回来。他这德性你也知道。
 
 ;0x2D8EA03B=~z~How would you like to die?
 0x2D8EA03B=~z~那你想怎么死？
@@ -456,7 +456,7 @@
 0x80997176=~z~Niko，Roman可能被绑架了。我听说他欠几个俄国人钱。
 
 ;0x819F18DB=~z~I'd go for anything as long as I could be guaranteed safety, that's all I want. Shit.
-0x819F18DB=~z~只要能确保安全，我选哪个都无所谓，我只要这么点。操。
+0x819F18DB=~z~只要能确保安全，选哪个我都无所谓。就这么个要求。操。
 
 ;0x82944E21=~z~Niko. I'm getting worried. Roman didn't get back at all last night.
 0x82944E21=~z~Niko，我有点慌了。Roman昨天整晚都没回来。
@@ -705,7 +705,7 @@
 0xD5A0476A=~z~你的苦难结束了，堂兄。我来了。
 
 ;0xD6E3917D=~z~Goodbye, friend.
-0xD6E3917D=~z~再见，朋友。
+0xD6E3917D=~z~再见，「朋友」。
 
 ;0xD773402D=R12_AA
 0xD773402D=R12_AA
@@ -756,7 +756,7 @@
 0xE9F46988=~z~也只是暂时的。不管走到哪，被找到都是迟早的事。
 
 ;0xEDF2C908=~z~There is a knife hanging over me. A clock is ticking.
-0xEDF2C908=~z~一把刀子悬在我头上。一个钟在滴答。
+0xEDF2C908=~z~一把刀子悬在我头上。一个钟在倒数。
 
 ;0xEE5E9414=R12_CB
 0xEE5E9414=R12_CB

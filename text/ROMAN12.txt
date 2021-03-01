@@ -1,6 +1,6 @@
 ﻿[ROMAN12]
 ;0x024887CD=~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.
-0x024887CD=~s~瞄准时按~PAD_RSTICK_NONE~切换缩放倍率。
+0x024887CD=~s~瞄准时用~PAD_RSTICK_NONE~切换缩放倍率。
 
 ;0x09BD17BC=~s~Go to the ~y~warehouse~s~ where Roman is being held.
 0x09BD17BC=~s~前往Roman所在的~y~仓库。
@@ -9,7 +9,7 @@
 0x10A2B21F=~r~Roman被撕票了。
 
 ;0x16F3F2FB=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ when aiming to switch between differing levels of zoom.
-0x16F3F2FB=~s~瞄准时使用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~切换缩放倍率。
+0x16F3F2FB=~s~瞄准时用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~切换缩放倍率。
 
 ;0x182F9DBF=~s~Hold ~INPUT_ATTACK~ halfway before firing to increase accuracy.
 0x182F9DBF=~s~开火前半按~INPUT_ATTACK~以提高精度。
