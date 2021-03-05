@@ -51,7 +51,7 @@
 0x1C46ED72=~z~我现在事情够多了，Packie。没空看表演，抱歉。
 
 ;0x1FA4AD5A=~z~Okay, Packie. I'll pick you up from the house in the next hour.
-0x1FA4AD5A=~z~好的，Packie。一小时内我到你家来接你。
+0x1FA4AD5A=~z~好的，Packie。一小时内我来你家接你。
 
 ;0x22360542=~z~Let's go get fucked up, I'll pick you up in the next hour.
 0x22360542=~z~那就去大闹一场吧，我一小时内来接你。
@@ -258,7 +258,7 @@
 0x9583FDC6=~z~好吧，兄弟，要是你真这么打算的话。我们改天再去吧，只要我不放你鸽子。
 
 ;0x96C8CDC3=~z~Hey, Niko you wanna go bowling? It's not as bad as it sounds you know.
-0x96C8CDC3=~z~嘿，Niko，去不去打保龄球？保龄球没听起来那么糟糕的。
+0x96C8CDC3=~z~嘿，Niko，去不去打保龄球？~n~保龄球没听起来那么糟糕的。
 
 ;0x974A76F9=FCP_ACT_PPK_CALL_POOL_CANCEL
 0x974A76F9=FCP_ACT_PPK_CALL_POOL_CANCEL

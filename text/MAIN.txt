@@ -8119,7 +8119,7 @@
 0xF76204E1=错误 - DirectX 设备创建失败
 
 ;0x95B11AC8=Warning: Your graphics settings are near, or exceed, the suggested resource limits for your system. It is recommended that you reduce your graphics settings in order to run the game optimally.
-0x95B11AC8=警告：超出建议资源用量，推荐降低画面设置换取游戏体验。~n~=====1.08版适用的解决方案=====~n~在Steam的游戏启动选项中添加：~n~-nomemrestrict~n~-availablevidmem 4096~n~两条间以空格分隔，第二条的4096改为与自己显存相符的数值(MB)。~n~亦可向游戏根目录下的「commandline.txt」中添加此内容，若没有该文件，请自己新建。
+0x95B11AC8=警告：超出建议资源用量，推荐降低画面设置换取游戏体验。~n~=====完整版适用的解决方案=====~n~若你的实际显存与显示数值不符，请在Steam的游戏启动项中添加：~n~-availablevidmem 4096~n~并将4096改为与自己显存相符的数值(MB)。~n~亦可向游戏根目录下的「commandline.txt」中添加此内容，若没有该文件，请自己新建。
 
 ;0xF1067A42=Resource Usage
 0xF1067A42=显存用量
@@ -13342,7 +13342,7 @@
 0x53DA3DE5=按~INPUT_PICKUP~购买汽水。
 
 ;0x0DE34CA5=~s~Only ~1~ left to fly under for Achievement.
-0x0DE34CA5=~s~离获得成就还剩~1~个穿桥引线。
+0x0DE34CA5=~s~离获得成就还剩 ~1~ 个穿桥引线。
 
 ;0x1B1F30C2=Press ~PAD_LB~ to sit down.
 0x1B1F30C2=按~PAD_LB~坐下。
@@ -13597,7 +13597,7 @@
 0x02AF85A6=~e~
 
 ;0x10072055=~e~ and ~e~
-0x10072055=~e~ and~e~
+0x10072055=~e~ and ~e~
 
 ;0xDFA3BF8F=~e~, ~e~
 0xDFA3BF8F=~e~, ~e~
@@ -13738,7 +13738,7 @@
 0x9A24B24E=Roman的叫车服务无法到达你当前的位置。
 
 ;0xA7BFCE94=Roman has dispatched a car for you that will arrive soon. It is shown on the radar by the blue marker.
-0xA7BFCE94=Roman已经派车了，很快就会到。车在小地图上以蓝色记号标记。
+0xA7BFCE94=Roman已经派车了，很快就会到。车在小地图上以蓝色圆点标记。
 
 ;0x4051CF18=Use ~PAD_LSTICK_LEFTRIGHT~ to get in position.~n~Press ~ACCEPT~ to choose a ready position.~n~Press ~PAD_Y~ to check the score.~n~Press ~INPUT_PICKUP~ to quit.
 0x4051CF18=用~PAD_LSTICK_LEFTRIGHT~改变发球位置。~n~按~ACCEPT~选定发球位置。~n~按~PAD_Y~查看比分。~n~按~INPUT_PICKUP~退出。
@@ -23367,7 +23367,7 @@
 0x78BC1735=完了，Niko。他们会发现是我们杀了Vlad的。我明白的。我们的尸体会和Vlad的一块儿沉到Humboldt河河底的。Rom
 
 ;0x1BF15D95=Hey Cuz, thanks for saving my ass back there. I thought I'd played my last hand when that biker guy kidnapped me for the Russians. You're a fucking hero, man. Rom
-0x1BF15D95=嘿，堂弟，很感谢你能来救我。那个摩托男替俄国佬绑架我的时候我都以为自己要没命了。你丫就是英雄，老弟。Rom
+0x1BF15D95=嘿，堂弟，很感谢你能来救我。那个飞车党替俄国佬绑架我的时候，我都以为自己要没命了。你丫就是英雄，老弟。Rom
 
 ;0x2C9BFEEA=Niko, you came to Liberty for penthouses, women, fast cars. Don't throw it away for revenge. Darko did not help, remember? Do the deal and maybe we can take a private jet down to Vice City!!
 0x2C9BFEEA=Niko，你来自由城就是为了公寓女人跟跑车。别为了复仇抛弃这些。Darko那次就没啥用，记得么？去交易吧，说不定我们还能开私人飞机去罪城！！
@@ -24336,7 +24336,7 @@
 0x2B1955F7=Ray
 
 ;0x0FB8CEDC=Nicky - this might be of use. Look out for this guy, Alonzo. He's one of Benavidez's goons. He'll tell you what you need to know if you're persuasive. Ciao
-0x0FB8CEDC=Nicky－这个可能能用上。去找这个叫Alonzo的人。他是Benavidez的一个同伙。要是你能令他信服的话，他就会告诉你需要的情报了。再见
+0x0FB8CEDC=Nicky，这个可能能用上。去找这个叫Alonzo的人。他是Benavidez的一个同伙。要是你能令他信服的话，他就会告诉你你需要的情报了。再见
 
 ;0xD0CC5104=Nicky, I need you to meet me and Phil at a depot in Normandy. Ciao
 0xD0CC5104=Nicky，我需要你到Normandy的一个仓库来找我和Phil。再见
@@ -27006,7 +27006,7 @@
 0xBC5D3A29=~z~~x~载着你这丑逼到处跑我可是一分钱都拿不到，大爷我很不爽，懂吗，我的朋友？上来吧。
 
 ;0xBB14CE04=~z~~x~Roman is doing well, you see this new car, my friend?
-0xBB14CE04=~z~~x~Roman最近赚了，瞧见这新车了吗，我的朋友？
+0xBB14CE04=~z~~x~Roman生意不错，瞧见这新车了吗，我的朋友？
 
 ;0x056C629E=~z~~x~He doing good but he still get me to pick up his piss face cousin for free. Aren't I lucky boy?
 0x056C629E=~z~~x~他最近赚了，但还是让我免费接送他的死妈脸堂弟。我还真走运啊？

@@ -33,7 +33,7 @@
 0x0BB297B1=~z~Take him inna Middle Park. Dere ain't too many people over dere.
 
 ;0x0CC83D58=~z~Now it is our turn to get him to help us.
-0x0CC83D58=~z~现在该我们让他帮忙了。
+0x0CC83D58=~z~现在轮到我们让他帮忙了。
 
 ;0x0D4A32BB=C4_OA
 0x0D4A32BB=C4_OA
@@ -75,7 +75,7 @@
 0x13F3089B=~z~上升，Niko，上升。给我点高度。
 
 ;0x1458A3AF=~z~Steady now man, me need fe shoot!
-0x1458A3AF=~z~给我稳住，兄弟，我要开火了！
+0x1458A3AF=~z~稳住，兄弟，我要开火了！
 
 ;0x14960E46=~z~Yes, here's my man Niko.
 0x14960E46=~z~好了，我兄弟Niko来了。
@@ -129,7 +129,7 @@
 0x1E63EC65=102012102102012102
 
 ;0x1F6F5CA0=~z~There be the other chopper. Stick to him, Niko. We need to take him down where there be no people.
-0x1F6F5CA0=~z~另一架直升机在那儿。跟住他，Niko。我们要到无人的地方才能把他打下来。
+0x1F6F5CA0=~z~另一架直升机在那儿。跟住他，Niko。~n~我们要到无人的地方才能把他打下来。
 
 ;0x1FE72083=~z~We need fe get higher so me can get dis shot.
 0x1FE72083=~z~我们得再飞高点才能开火干他。
@@ -171,7 +171,7 @@
 0x281294AF=~z~懂了，兄弟。啥都不行啊！
 
 ;0x281DF403=~z~Yo, job well done ya know Niko, but we haffi get out dis bumba clot debt right now, ya know.
-0x281DF403=~z~哟，干得漂亮，Niko。不过我们还是得把这逼的人情债给解决掉。
+0x281DF403=~z~哟，干得漂亮，Niko。~n~不过我们还是得把这逼的人情债给解决掉。
 
 ;0x2A7CBAC3=~z~I have a feeling that it was best to do what we did though.
 0x2A7CBAC3=~z~不过我觉得刚才这事最好还是得做。
@@ -270,7 +270,7 @@
 0x45BD2F27=C4_A_CB
 
 ;0x460F9DD4=~z~You gotta work on your aim, Jacob. I could have made that shot with my eyes closed.
-0x460F9DD4=~z~麻烦你好好瞄准，Jacob。我闭着眼睛都能打着他。
+0x460F9DD4=~z~好好练习瞄准吧，Jacob。我闭着眼睛都能打着他。
 
 ;0x462D240B=C4_A_MC
 0x462D240B=C4_A_MC
@@ -357,10 +357,10 @@
 0x59B30DD8=C4_A_HA
 
 ;0x5C261FA7=~z~He was last spotted in Varsity Heights. No civilian casualties.
-0x5C261FA7=~z~最后一次目击他是在Varsity Heights。不要有平民伤亡。
+0x5C261FA7=~z~最后一次目击他是在Varsity Heights。~n~不要有平民伤亡。
 
 ;0x5DF8807A=~z~Shows you the people who need spy shit done get other people to do their dirty work.
-0x5DF8807A=~z~从中可以学到需要特务行动的人会让别人做他们的脏活。
+0x5DF8807A=~z~从中可以学到需要特务行动的人~n~会让别人做他们的脏活。
 
 ;0x5E6159AE=~z~One love, me breda.
 0x5E6159AE=~z~再见，我的兄弟。
@@ -600,7 +600,7 @@
 0xA050A396=~z~Wine up on the blood clot.
 
 ;0xA1BB38C9=~z~I appreciate your assistance, Bellic. You did a good thing today. Now it's my turn.
-0xA1BB38C9=~z~很感谢你的协助，Bellic。今天你做了件好事。现在轮到我了。
+0xA1BB38C9=~z~很感谢你的协助，Bellic。~n~今天你做了件好事。现在轮到我了。
 
 ;0xA1BDB7EC=~z~Whatever actually, just smoke it.
 0xA1BDB7EC=~z~不过都无所谓，随你抽吧。
@@ -660,7 +660,7 @@
 0xBB5377BB=~z~Him going through City Hall. That's a seriously tight fit.
 
 ;0xBC2FC468=~z~Ya got some crucial flying skills, ya know Niko. Can I drop I off on de heli pad though? Me no feel so good ya know.
-0xBC2FC468=~z~你掌握了开飞机的核心技术，懂吧Niko。能不能把我送到停机坪？我现在感觉不大好。
+0xBC2FC468=~z~你掌握了开飞机的核心技术，懂吧Niko。~n~能不能把我送到停机坪？我现在感觉不大好。
 
 ;0xBC5E69C0=012012102012
 0xBC5E69C0=012012102012
@@ -675,10 +675,10 @@
 0xBE4F1F6B=102012
 
 ;0xBFBC4410=~z~Yo, dis be some crazy shit ya know Niko. Yo, we inna the Star Junction in a helicopter.
-0xBFBC4410=~z~哟，这可太疯狂了，Niko。我们开着直升机在Star Junction里边转悠。
+0xBFBC4410=~z~哟，这可太疯狂了，Niko。~n~开着直升机在Star Junction里边转悠。
 
 ;0xC281A2C6=~z~For a man who has asked me to kill a lot of men, this guy is really safety conscious.
-0xC281A2C6=~z~虽然他已经让我杀了很多人，但这家伙真的很重视安全。
+0xC281A2C6=~z~虽然这家伙让我杀了很多人，~n~但他真的很重视安全。
 
 ;0xC45400E4=C4_HE
 0xC45400E4=C4_HE
@@ -801,7 +801,7 @@
 0xE3E644C7=C4_YA
 
 ;0xE406E5D0=~z~I have the feeling he don't want to be responsible for a helicopter crash in Middle Park.
-0xE406E5D0=~z~我觉得他是不想为一起发生在中央公园的直升机坠机事故负责。
+0xE406E5D0=~z~我觉得他是不想为一起~n~发生在中央公园的直升机坠机事故负责。
 
 ;0xE5CFB634=C4_A_DD
 0xE5CFB634=C4_A_DD
@@ -906,5 +906,5 @@
 0xFB92A62C=012012012102012
 
 ;0xFD6A5816=~z~Don't worry about the bridge, Jacob. I'm finally getting the hang of flying this thing.
-0xFD6A5816=~z~不用担心撞桥，Jacob。我已经掌握开这玩意的诀窍了。
+0xFD6A5816=~z~不用担心撞桥，Jacob。~n~我已经掌握开这玩意的诀窍了。
 

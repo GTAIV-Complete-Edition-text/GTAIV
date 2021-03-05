@@ -70,7 +70,7 @@
 0x0E2027B8=~z~我的兄弟挂了。靠，Derrick...
 
 ;0x10700A83=~z~nothing personal, but don't fuck with my family, or I will fuck with yours.
-0x10700A83=~z~我不是针对你，但是别给我的家族添乱，否则我要你家好看。
+0x10700A83=~z~我不是针对你，但你别给我的家族添乱，否则我要你家好看。
 
 ;0x114F235D=~z~Let's make this clean, boys. No civilian casualties.
 0x114F235D=~z~有一点先说清楚，小子们。不要杀害平民。
@@ -118,7 +118,7 @@
 0x19F3C096=PM3_BK
 
 ;0x1AADE1A0=~z~I want Niko and Michael to go down into the vault to get the money while me and my brother handle the crowd control.
-0x1AADE1A0=~z~Niko和Michael就冲进金库拿钱，我和我哥负责控制人群。
+0x1AADE1A0=~z~Niko和Michael就冲进金库拿钱，~n~我和我哥负责控制人群。
 
 ;0x1AF96C71=~z~Take these bags.
 0x1AF96C71=~z~Take these bags.
@@ -142,7 +142,7 @@
 0x1D53AA98=PM3_VA
 
 ;0x1D7F5880=~z~Don't none of you worry about nothing. We're here for the bank's money, it's going to a greater cause.
-0x1D7F5880=~z~你们不用害怕，我们要的只有银行的钱，那才是重点。
+0x1D7F5880=~z~你们不用害怕，我们只要银行的钱，都是为你们好。
 
 ;0x1E128D52=~z~I dunno. Nodding off with a needle sticking outta your arm?
 0x1E128D52=~z~我不知道。胳膊上插着针管打盹儿？
@@ -187,19 +187,19 @@
 0x25291B77=~z~Derrick，金库大门怎么突破你解决了吗？
 
 ;0x25A466A5=~z~Fuck these people, fuck your cause. That shit's over.
-0x25A466A5=~z~干他们全家，干你丫的理由。你他妈到此为止。
+0x25A466A5=~z~干他们全家，干你丫的理由。差不多得了。
 
 ;0x262922A8=PM3_A_PA
 0x262922A8=PM3_A_PA
 
 ;0x26AFC6A3=~z~Niko, when the door blows, I want you and Michael to go down into the vault to get the cash.
-0x26AFC6A3=~z~Niko，门一炸开，你和Michael就到去库里拿钱。
+0x26AFC6A3=~z~Niko，门一炸开，你和Michael就进金库拿钱。
 
 ;0x26C645CA=PM3_AV
 0x26C645CA=PM3_AV
 
 ;0x2763EC4D=~z~Shut up and handle the safe.
-0x2763EC4D=~z~闭嘴，把门打开。
+0x2763EC4D=~z~别说了，拿下金库。
 
 ;0x280D2F03=PM3_LG
 0x280D2F03=PM3_LG
@@ -214,7 +214,7 @@
 0x2AC446AA=PM3_BO
 
 ;0x2AD00790=~z~You know nothing about nothing, Patrick. I'm honest about me demons.
-0x2AD00790=~z~你真的是连个屁都不知道，Patrick。我的恶毒可不是开玩笑的。
+0x2AD00790=~z~你真的是连个屁都不知道，Patrick。~n~我的恶毒可不是开玩笑的。
 
 ;0x2BA85064=~z~Had a bit of trouble with that. Couldn't find a pager to rig the blasting cap to.
 0x2BA85064=~z~那个有点问题。弄不到引爆雷管的接收器。
@@ -226,7 +226,7 @@
 0x2D3D470F=PM3_A_EA
 
 ;0x2D62BF24=~z~Yes, yes, it's, uh, nice to meet you.
-0x2D62BF24=~z~记得，记得，那个，呃，很高兴见到你。
+0x2D62BF24=~z~记得，记得。那个...很高兴见到你。
 
 ;0x2DAC200A=~z~Clear the area, please clear the area.
 0x2DAC200A=~z~Clear the area, please clear the area.
@@ -277,7 +277,7 @@
 0x34F66330=~z~行吧行吧，定时器也能用。那样挺好。
 
 ;0x350BDFC7=~z~There was no need for a brother and sister to get married, but your parents did that and now you're here.
-0x350BDFC7=~z~兄妹之间也用不着结婚，但是你父母结了，现在才有了你。
+0x350BDFC7=~z~兄妹之间也用不着结婚，~n~但是你父母结了，现在才有了你。
 
 ;0x353B2B75=PM3_A_OA
 0x353B2B75=PM3_A_OA
@@ -319,7 +319,7 @@
 0x3E63F5DB=~z~只能用定时器了。
 
 ;0x3E86F2BD=~z~I was just saying how I'd do what you said, Packie. No need to get abusive.
-0x3E86F2BD=~z~我只是说一下我怎么执行而已，Packie。用不着骂我吧。
+0x3E86F2BD=~z~我只是说一下我怎么执行而已，Packie。~n~用不着骂我吧。
 
 ;0x3EA066FB=~z~Don't screw up.
 0x3EA066FB=~z~别搞砸了。
@@ -331,7 +331,7 @@
 0x3FFEABB2=~z~We ain't going back to me ma's house with all this heat, man. Shake the cops.
 
 ;0x40C3D2B4=~z~This is an emotional moment, I can feel the brotherly love in the air.
-0x40C3D2B4=~z~真是感人肺腑，我都能感受到空气中弥漫着的兄弟之爱了。
+0x40C3D2B4=~z~真是感人肺腑，我都能感受到~n~空气中弥漫着的兄弟之爱了。
 
 ;0x41A99B3B=~z~Luis... but this ain't such a good idea bro.
 0x41A99B3B=~z~Luis...不过这可不是个好主意，兄弟。
@@ -349,7 +349,7 @@
 0x431E4945=~z~他们是在折磨我。
 
 ;0x43D238A7=~z~He's sitting tight now. Paid for his stupidity. Man, I'm jumpy.
-0x43D238A7=~z~现在他老实了。为他的愚蠢付出了代价。老弟，我有点紧张了。
+0x43D238A7=~z~现在他老实了。为他的愚蠢付出了代价。~n~老弟，我有点紧张了。
 
 ;0x447ABE52=PM3_KF
 0x447ABE52=PM3_KF
@@ -379,7 +379,7 @@
 0x4AEB4B1B=PM3_AL
 
 ;0x4B871D5D=~z~Once the situation has been controlled, Derrick's going to rig the vault door with explosive.
-0x4B871D5D=~z~场面控制住之后，Derrick就用炸药炸开金库大门。
+0x4B871D5D=~z~场面控制住之后，~n~Derrick就用炸药炸开金库大门。
 
 ;0x4BA9D1D0=~z~We got company, people.
 0x4BA9D1D0=~z~待在一起，各位。
@@ -397,7 +397,7 @@
 0x4D93F1FE=PM3_BG
 
 ;0x4E0B9CD5=~z~This is it, boys. Moment of truth.
-0x4E0B9CD5=~z~就是这儿了，小子们。关键时刻到了。
+0x4E0B9CD5=~z~就是这儿了，小子们。决战时刻。
 
 ;0x4E67850E=~z~Clear the area, Niko.
 0x4E67850E=~z~扫清这一带，Niko。
@@ -424,7 +424,7 @@
 0x524FE951=~z~Let's move it people, there's nothing to see here.
 
 ;0x5281762F=~z~You was gone a long time, Derrick. From what I remember, you've changed too.
-0x5281762F=~z~你走的有点久了，Derrick。你也和我记忆中的你改变了太多。
+0x5281762F=~z~你走的有点久了，Derrick。~n~你也和我记忆中的你改变了太多。
 
 ;0x532E3E44=~z~Yeah? They said catching that pass at my high school championship football game was a "bad idea"
 0x532E3E44=~z~是吗？我在高校橄榄球决赛的那次接球也被说是「坏主意」，
@@ -445,7 +445,7 @@
 0x55D91584=~z~丫居然白痴到把自己名字文胳膊上。
 
 ;0x5610DD24=~z~Michael didn't get lucky, did he? Fucking have-a-go-hero. What was he thinking? He shoulda sat tight.
-0x5610DD24=~z~是Michael运气不好，是吧？去他妈的英勇就义。他在想什么呢？他就该老老实实待着的。
+0x5610DD24=~z~是Michael运气不好，是吧？去他妈的英勇就义。~n~什么傻逼路人？趴着又不会死。
 
 ;0x567DDD69=202
 0x567DDD69=202
@@ -481,7 +481,7 @@
 0x5D505600=~z~来吧。
 
 ;0x5E08206E=~z~Niko is a trip, man, I met him through that Puerto Rican coke dealer...
-0x5E08206E=~z~Niko是个猛男，老兄，我在那个波多黎各可卡因贩子地方认识她的...
+0x5E08206E=~z~Niko是个猛男，老兄，我在波多黎各可卡因贩子那里认识他的...
 
 ;0x60503319=PM3_AU
 0x60503319=PM3_AU
@@ -544,7 +544,7 @@
 0x6EA3F6D1=202
 
 ;0x6ED0C1F7=~z~What I know is he likes a fight, and he ain't the fucking law.
-0x6ED0C1F7=~z~我知道的是他喜欢干架，还他妈不把法律放在眼里。
+0x6ED0C1F7=~z~我知道他喜欢干架，还是个法外狂徒。
 
 ;0x6EFE5C41=~z~This is the way we're going.
 0x6EFE5C41=~z~我们走这边。
@@ -592,13 +592,13 @@
 0x7B9E5A54=~z~控制自己，你个变态。
 
 ;0x7BCDF0DE=~z~Don't need to tell me twice, Packie. I'm ready to go. Pumped, is what I am.
-0x7BCDF0DE=~z~用不着再跟我说一次，Packie。我已经准备好了。热血沸腾就是我了。
+0x7BCDF0DE=~z~用不着再跟我说一次，Packie。~n~我已经准备好了。热血沸腾就是我了。
 
 ;0x7D1A9474=~z~Motherfucker!
 0x7D1A9474=~z~狗逼玩意！
 
 ;0x7D4AE467=~z~There's no problem. Gerry just likes to think he knows best about everything...
-0x7D4AE467=~z~没有问题。Gerry就喜欢这种他懂得最多的感觉...
+0x7D4AE467=~z~没有问题。Gerry就喜欢这种当懂哥的感觉...
 
 ;0x7E434BE2=PM3_LE
 0x7E434BE2=PM3_LE
@@ -613,7 +613,7 @@
 0x7EE6EDAF=~z~I guess I'm driving myself back. Bye.
 
 ;0x7F2E99BC=~z~Why're you tellin' them we're brothers, you idiot? That's going to make it hard for them to find us, isn't it?
-0x7F2E99BC=~z~你丫说我们是兄弟干嘛，你傻逼吗？这样不是更容易让他们抓住我们？
+0x7F2E99BC=~z~你丫说我们是兄弟干嘛，傻逼吗？这不是更容易让我们被抓？
 
 ;0x7F35749B=~z~I coulda been nice to him for once in my fucking life. Kid only wanted to help.
 0x7F35749B=~z~我他妈之前该对他好一点的，这小子只是想帮点忙而已。
@@ -655,7 +655,7 @@
 0x85B73591=~z~－Michael你还记得吧？St Michael...~n~－对，嘿。
 
 ;0x86EABFC4=~z~Can't wait to see what sort of kick C4 residue is going to give me when I snort up a line of chop though one of them notes.
-0x86EABFC4=~z~我都忍不住想见识下用有C4残留的钞票卷的大麻烟有多爽了。
+0x86EABFC4=~z~我都忍不住想见识下~n~沾着C4的钞票卷出来的大麻烟有多爽了。
 
 ;0x879B27FC=100
 0x879B27FC=100
@@ -673,7 +673,7 @@
 0x8A41779A=~z~不要伤害人质。
 
 ;0x8A9F0B72=~z~Yeah, well, now I gotta explain to his folks that their son is lying dead on the floor of a bank in Algonquin.
-0x8A9F0B72=~z~对，现在我就得去跟他家里解释说他儿子死在Algonquin一家银行的地板上了。
+0x8A9F0B72=~z~现在我就得去跟他家里解释说~n~他儿子死在Algonquin一家银行的地板上了。
 
 ;0x8B1C9DE5=~z~Don't lose me, boys.
 0x8B1C9DE5=~z~别走散了，小子们。
@@ -727,7 +727,7 @@
 0x91FDA243=~z~走这边，小子们。
 
 ;0x920A3F73=~z~Now listen people, we're your friends. Me and me brother here, we...
-0x920A3F73=~z~你们都听好了，我们是你们的朋友。我和我的弟弟，我们...
+0x920A3F73=~z~你们都听好了，我们是你们的朋友。我和我弟弟会...
 
 ;0x93CB3F85=~z~But sir...
 0x93CB3F85=~z~但是先生...
@@ -751,7 +751,7 @@
 0x9A0BA9C5=~z~不是这种，想让我爱上Francis根本没门。
 
 ;0x9A5F6119=~z~Alright, alright. Do we all know what we're doing? Once the vault door blows,
-0x9A5F6119=~z~行了行了。各位都知道自己要干什么了吗？金库门一炸开，
+0x9A5F6119=~z~行了行了。各位都搞清楚分工了吗？金库门一炸开，
 
 ;0x9A72E0D0=~z~Walk in with guns and bombs, walk out with the cash. Simple as that.
 0x9A72E0D0=~z~Walk in with guns and bombs, walk out with the cash. Simple as that.
@@ -811,7 +811,7 @@
 0xA54A8115=~z~You carry these, okay?
 
 ;0xA60AC249=~z~When your kid is living the life, you gotta expect someone to come through the door and break this sorta news.
-0xA60AC249=~z~既然孩子过着这种日子，就该想到早晚会有人进来说这种事。
+0xA60AC249=~z~既然孩子过着这种日子，~n~就该想到早晚会有人进来说这种事。
 
 ;0xA653B6C7=PM3_BQ
 0xA653B6C7=PM3_BQ
@@ -901,7 +901,7 @@
 0xB5F20622=~z~妈个逼的！
 
 ;0xB75A8A13=~z~Fuck you, take the needle out your arm then tell me what to do.
-0xB75A8A13=~z~操你妈的，先把你胳膊上的针头拔下来再对我发号施令。
+0xB75A8A13=~z~操你妈的！先把你膀子上的针头拔下来，再对我发号施令。
 
 ;0xB7765341=~z~Was I talking to you, you inbred halfwit?
 0xB7765341=~z~我有跟你说话吗，近亲繁殖的智障？
@@ -973,7 +973,7 @@
 0xC00969C3=PM3_MA
 
 ;0xC0598710=~z~Me and St. Michael here are gonna handle the civilians while Niko and Derrick manage the employees.
-0xC0598710=~z~我和这位St. Michael控制平民，Niko和Derrick就负责解决职员。
+0xC0598710=~z~我和这位St. Michael控制平民，~n~Niko和Derrick就负责解决职员。
 
 ;0xC1BD347F=~z~You can get dosed all you like when Niko gets us back.
 0xC1BD347F=~z~Niko带我们回去以后，你爱怎么打药怎么打药。
@@ -1045,7 +1045,7 @@
 0xD23D735E=~z~Okay, everyone split up.
 
 ;0xD2891B45=~z~Eye on the road, Niko. We don't want you to have to break no bad news to our ma.
-0xD2891B45=~z~好好看路，Niko。我们可不想让你跟我妈汇报什么坏消息。
+0xD2891B45=~z~好好看路，Niko。~n~我们可不想让你跟我妈汇报什么坏消息。
 
 ;0xD2FB94F7=~z~There's no way we're gonna shake the heat in a cop car, man.
 0xD2FB94F7=~z~There's no way we're gonna shake the heat in a cop car, man.
@@ -1054,13 +1054,13 @@
 0xD3A7BCD2=PM3_NB
 
 ;0xD47B5324=~z~And Gerry... Gerry's the man.
-0xD47B5324=~z~然后是Gerry...Gerry是家主，
+0xD47B5324=~z~然后是Gerry...Gerry是家主。
 
 ;0xD47F4685=~z~Okay... okay... wait a minute. I got it.
 0xD47F4685=~z~好...好...稍等，我明白了。
 
 ;0xD4D95B9D=~z~Eyes on the floor, people.
-0xD4D95B9D=~z~眼睛看地上。
+0xD4D95B9D=~z~都不许抬头。
 
 ;0xD59398A0=292
 0xD59398A0=292
@@ -1096,10 +1096,10 @@
 0xDB1A279F=PM3_AT
 
 ;0xDD5D248E=~z~Don't you speak about my parents like that.
-0xDD5D248E=~z~你不能这么说我的父母。
+0xDD5D248E=~z~不许你这么说我的父母。
 
 ;0xDE0DB24E=~z~That does not make it any easier to hear. And we aren't safe yet.
-0xDE0DB24E=~z~那也没什么区别。而且我们自己都还没安全呢。
+0xDE0DB24E=~z~那也没什么区别。~n~而且我们自己都还没安全呢。
 
 ;0xDE508346=100
 0xDE508346=100
@@ -1114,7 +1114,7 @@
 0xE0895575=PM3_NA
 
 ;0xE0EDBAF0=~z~Sure. So, Derrick, you got the charge rigged up to your phone?
-0xE0EDBAF0=~z~当然。那Derrick，破门时候是用你的手机引爆吗？
+0xE0EDBAF0=~z~当然。那Derrick，破门的时候是用你的手机引爆吗？
 
 ;0xE11816C7=PM3_HA
 0xE11816C7=PM3_HA
@@ -1129,7 +1129,7 @@
 0xE272B060=PM3_BP
 
 ;0xE2A5CB98=~z~Safe to say, what we're using is controllable enough to go through any vault door without incinerating whatever's inside.
-0xE2A5CB98=~z~可以这么说，我们用的炸药可控性强，能够炸穿各种金库大门，而且不会损伤里面的物品。
+0xE2A5CB98=~z~这么说吧，这种炸药可控性强，~n~能够炸穿任何金库大门，还不会损伤里面的东西。
 
 ;0xE2E2BB72=~z~I can think of one reason they needed to get married.
 0xE2E2BB72=~z~我能想出一条他俩会结婚的原因。
@@ -1144,7 +1144,7 @@
 0xE3A5162D=~z~Get through these bastards and then rendezvous. Let's go.
 
 ;0xE3A87396=~z~Gerry was right about you, Mikey. Your parents must have been twins to produce a kid as dumb as you.
-0xE3A87396=~z~Gerry说你说的是一点没错，Mikey。你爸妈得是龙凤胎才能生出你这么个白痴。
+0xE3A87396=~z~Gerry说你说的是一点没错，Mikey。~n~你爸妈得是龙凤胎才能生出你这么个白痴。
 
 ;0xE671D48E=~z~Follow me, come on.
 0xE671D48E=~z~跟着我，快点。
@@ -1168,7 +1168,7 @@
 0xE8A36B84=~z~快去拿钱。
 
 ;0xE93AD8D2=~z~Alright, here's how the shit is going down. We're gonna go inside and each take down a security guard.
-0xE93AD8D2=~z~好了，现在要说的是这票的安排。我们进去以后一人解决一个保安。
+0xE93AD8D2=~z~好了，我先说下这票的安排。~n~进去以后我们一人解决一个保安。
 
 ;0xE96304B8=PM3_KA
 0xE96304B8=PM3_KA
@@ -1183,7 +1183,7 @@
 0xEAAB01DF=PM3_AB
 
 ;0xEBA0CCEE=~z~Nothing like a sibling's love, eh Derrick?
-0xEBA0CCEE=~z~不是什么兄弟之爱吧，啊，Derrick？
+0xEBA0CCEE=~z~再好不过兄弟情，啊，Derrick？
 
 ;0xEBF85597=PM3_YA
 0xEBF85597=PM3_YA
@@ -1210,13 +1210,13 @@
 0xF0DA006C=~z~估计Algonquin的所有警察都在这儿了。
 
 ;0xF1372C50=~z~Thanks, Niko. You're a damn good man.
-0xF1372C50=~z~谢了，Niko。你丫可真是一把好手。
+0xF1372C50=~z~谢了，Niko。你丫真是把好手。
 
 ;0xF16F473A=~z~I make a point of not talking to the unfortunate victims of brother sister marriages.
 0xF16F473A=~z~我特意不跟那些不幸的德国骨科受害者说话的。
 
 ;0xF179802A=~z~Niko, you're the designated driver.
-0xF179802A=~z~Niko，你就是御用司机。
+0xF179802A=~z~Niko，你就是御用车夫。
 
 ;0xF21481AF=~z~Open the door!
 0xF21481AF=~z~把门打开！
@@ -1243,7 +1243,7 @@
 0xF6DC9627=~z~We've got a clean line of sight, take 'em down!
 
 ;0xF7093800=~z~We won't forget it, Niko. Here's your cut. I'll tell Gerry you did good. He might give you a call or something.
-0xF7093800=~z~我们不会忘的，Niko。这是你的那份。我会告诉Gerry你干得很好的。改天他可能会打电话找你。
+0xF7093800=~z~我们不会忘的，Niko。这是你的那份。~n~我会告诉Gerry你干得很好的。改天他可能会打电话找你。
 
 ;0xF7B0998E=~z~Derrick and Gerald.
 0xF7B0998E=~z~Derrick和Gerald。

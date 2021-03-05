@@ -132,7 +132,7 @@
 0x1C569F9E=PM3_B_FG
 
 ;0x1C757D80=~z~We ain't got no choice, people. We gotta head onto the track.
-0x1C757D80=~z~我们没别的选择了，各位。我们只能走铁轨了。
+0x1C757D80=~z~我们没别的选择了，各位。只能走铁轨了。
 
 ;0x1CD5E497=~z~This ain't the type of thing I agree with. I ain't in it for the money. I believe in something, you know?
 0x1CD5E497=~z~This ain't the type of thing I agree with. I ain't in it for the money. I believe in something, you know?
@@ -213,7 +213,7 @@
 0x2A435B5A=PM3_B_VA
 
 ;0x2B31C930=~z~And you coulda been more careful of your boy Michael. He should be with us right now.
-0x2B31C930=~z~你丫也可以更注意点你的手下Michael，不然他现在就该一块在这儿了。
+0x2B31C930=~z~你丫也可以更注意点你的手下Michael，~n~不然他现在就该一块在这儿了。
 
 ;0x2BB1B714=PM3_C_KA
 0x2BB1B714=PM3_C_KA
@@ -597,7 +597,7 @@
 0xA5F08F8F=PM3_B_PA
 
 ;0xA6A6D5F0=~z~We can't let these cops pin us down in here. Fuck!
-0xA6A6D5F0=~z~不能让条子把我们困在这儿。操！
+0xA6A6D5F0=~z~不能被条子困在这儿。操！
 
 ;0xA706B16F=PM3_B_AD
 0xA706B16F=PM3_B_AD
@@ -894,7 +894,7 @@
 0xF1C8D629=~z~下面也有条子。进去小心点，小子们。
 
 ;0xF2555778=~z~Michael was unlucky. It wasn't anybody's fault what happened to him and the explosive did its job.
-0xF2555778=~z~Michael运气差了点。他出事也怪不了谁，炸药效果也够好了。
+0xF2555778=~z~Michael运气差了点。~n~他出事怪不了谁，炸药效果也够好了。
 
 ;0xF2811C17=~z~You're right. Let's cut around the back. Follow my lead.
 0xF2811C17=~z~You're right. Let's cut around the back. Follow my lead.

@@ -9,7 +9,7 @@
 0x1E6D9346=~s~你把~b~Packie~s~和~b~Michael~s~落下了，回去找他们。
 
 ;0x2F39C772=~s~Get back to ~y~Packie's Ma's house.
-0x2F39C772=~s~返回~y~Packie他妈家。
+0x2F39C772=~s~返回~y~Packie母亲的家。
 
 ;0x30B037CB=~s~You left ~b~Packie,~s~ ~b~Derrick~s~ and ~b~Michael~s~ behind, go back and get them.
 0x30B037CB=~s~你把~b~Packie~s~、~b~Derrick~s~和~b~Michael~s~落下了，回去找他们。
@@ -45,7 +45,7 @@
 0x73B6B37B=~s~找一辆四门的车。
 
 ;0x76BB14E4=~s~Find a four door car and go to ~y~Packie's Ma's house.
-0x76BB14E4=~s~找一辆四门的车，前往~y~Packie他妈家。
+0x76BB14E4=~s~找一辆四门的车，前往~y~Packie母亲的家。
 
 ;0x81CBD9ED=~s~You left ~b~Michael~s~ behind, go back and get him.
 0x81CBD9ED=~s~你把~b~Michael~s~落下了，回去找他。
@@ -84,7 +84,7 @@
 0xDE2E6615=~r~永远不要落下人。有同伙被抛弃了。
 
 ;0xE1268D66=~s~Go to the ~y~service hatch.
-0xE1268D66=~s~前往~y~维护通道。
+0xE1268D66=~s~进入~y~维护通道。
 
 ;0xF0C9B7FF=~s~You are too far from ~b~Packie~s~ and ~b~Derrick.~s~
 0xF0C9B7FF=~s~你离~b~Packie~s~和~b~Derrick~s~太远了。
