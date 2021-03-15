@@ -133,7 +133,7 @@
 0x1C8522E1=~z~不，没有问题。
 
 ;0x1C8BEB04=~z~Hit the needle on the old head there did I, Derrick?
-0x1C8BEB04=~z~一针扎在你的古董脑袋上*对吧，Derrick？~n~(注：讲Derrick的吸毒方式)
+0x1C8BEB04=~z~往你的古董脑袋上一针见效对吧，Derrick？
 
 ;0x1C8D0AD2=~z~Head across here, come on.
 0x1C8D0AD2=~z~Head across here, come on.
@@ -802,7 +802,7 @@
 0xA44909FD=PM3_AK
 
 ;0xA455E40A=~z~I'm trying to be honest with these people. We've put them through a lot today.
-0xA455E40A=~z~我只是想对他们诚实点。今天我们给他们惹了够多麻烦了。
+0xA455E40A=~z~我只是想对他们诚实点。今天给他们添了够多麻烦了。
 
 ;0xA4DB3DAC=~z~You think me, me brother and the money are gonna fit in that thing? Get something bigger.
 0xA4DB3DAC=~z~你觉得这玩意够装我、我弟弟和钱吗？找辆大点的来。
@@ -901,7 +901,7 @@
 0xB5F20622=~z~妈个逼的！
 
 ;0xB75A8A13=~z~Fuck you, take the needle out your arm then tell me what to do.
-0xB75A8A13=~z~操你妈的！先把你膀子上的针头拔下来，再对我发号施令。
+0xB75A8A13=~z~操你妈！先把你膀子上的针头拔下来，再对我发号施令。
 
 ;0xB7765341=~z~Was I talking to you, you inbred halfwit?
 0xB7765341=~z~我有跟你说话吗，近亲繁殖的智障？
@@ -1003,7 +1003,7 @@
 0xC8B9E733=100
 
 ;0xCA082F6E=~z~Now you've said bloody Ireland, that's gonna narrow the search ain't it?
-0xCA082F6E=~z~你他妈刚才说了爱尔兰是吧，这不是又把范围缩小了？
+0xCA082F6E=~z~你他妈说了爱尔兰是吧，这不是又把范围缩小了？
 
 ;0xCA5CCFA7=PM3_AH
 0xCA5CCFA7=PM3_AH
@@ -1066,7 +1066,7 @@
 0xD59398A0=292
 
 ;0xD64DDE89=~z~The expression is hit the nail on the head, Packie.
-0xD64DDE89=~z~是一锤砸在钉子头上*吧，Packie。~n~(注：英文谚语的一针见血)
+0xD64DDE89=~z~是「一针见血」吧，Packie。
 
 ;0xD653BB28=PM3_FB
 0xD653BB28=PM3_FB

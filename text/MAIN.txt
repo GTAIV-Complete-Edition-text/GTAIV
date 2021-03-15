@@ -13285,7 +13285,7 @@
 0x2CE8FAB8=你不能在这里洗软篷车。
 
 ;0x940E0877=Drive up to the pay kiosk. The toll is $5.
-0x940E0877=开到收费站前。过路费$5。
+0x940E0877=开到收费站前。过路费 $5。
 
 ;0x5B9BEE75=Slow down to pay the toll if you don't want to attract attention.
 0x5B9BEE75=若不想引起注意，减速支付通行费。
@@ -18279,7 +18279,7 @@
 0xC7BA253A=你的通讯录为空。
 
 ;0x2247A3C9=You currently have no text messages.
-0x2247A3C9=目前你没有短信。
+0x2247A3C9=尚未收到短信。
 
 ;0xF647785C=Guns
 0xF647785C=枪支
@@ -28125,7 +28125,7 @@
 0xC9FC7237=~z~~x~Steinway。
 
 ;0x08EE991D=~z~~x~East Island City.
-0x08EE991D=~z~~x~East Island City。
+0x08EE991D=~z~~x~东岛城。
 
 ;0x5908119C=~z~~x~Meadows Park.
 0x5908119C=~z~~x~Meadows Park。
@@ -28176,7 +28176,7 @@
 0x5755E7A7=~z~~x~Castle Gardens。
 
 ;0xC1A8F18E=~z~~x~The Exchange.
-0xC1A8F18E=~z~~x~The Exchange。
+0xC1A8F18E=~z~~x~证交区。
 
 ;0xE74B0357=~z~~x~Chinatown.
 0xE74B0357=~z~~x~唐人街。
@@ -28341,7 +28341,7 @@
 0x81FFC5DA=~z~~x~Leaper大桥。
 
 ;0x349CCD03=~z~~x~We look forward to hearing from you again. Please stay safe in the meantime.
-0x349CCD03=~z~~x~我们期待您的下次来电。请您注意安全。
+0x349CCD03=~z~~x~我们期待您的下次来电。同时请您注意安全。
 
 ;0xC6E10D9B=~z~~x~I'm sorry, but all our peacekeepers are currently busy filling quotas and dealing with paper work.
 0xC6E10D9B=~z~~x~很抱歉，但目前我们的干员都忙于完成指标以及书面工作。
