@@ -5122,7 +5122,7 @@
 0xE93E6A7C=自由城内还有 ~1~ 只鸽子。
 
 ;0x90B0E5F8=Just one flying rat left in Liberty City
-0x90B0E5F8=自由城内只剩一只鸽子了。
+0x90B0E5F8=自由城内还剩最后一只鸽子。
 
 ;0x7F586D9D=Come back when you've got the cash.
 0x7F586D9D=等你有钱了再来。
@@ -6715,28 +6715,28 @@
 0x66A478CA=~PAD_LSTICK_UPDOWN~
 
 ;0x4264AF9F=Cheat activated ~n~Achievements "Cleaned The Mean Streets", "Finish Him", "One Man Army" and "Walk Free" blocked.
-0x4264AF9F=秘籍已启用~n~成就"Cleaned The Mean Streets"、"Finish Him"、"One Man Army"与"Walk Free"无法获得。
+0x4264AF9F=秘籍已启用~n~成就 "Cleaned The Mean Streets" "Finish Him" "One Man Army" "Walk Free" 无法获得。
 
 ;0xB01A8B0D=Cheat activated ~n~Achievements "One Man Army" and "Walk Free" blocked.
-0xB01A8B0D=秘籍已启用~n~成就"One Man Army"与"Walk Free"无法获得。
+0xB01A8B0D=秘籍已启用~n~成就 "One Man Army" "Walk Free" 无法获得。
 
 ;0xDDF0E6B9=Cheat activated ~n~Achievement "Cleaned The Mean Streets" blocked.
-0xDDF0E6B9=秘籍已启用~n~成就"Cleaned The Mean Streets"无法获得。
+0xDDF0E6B9=秘籍已启用~n~成就 "Cleaned The Mean Streets" 无法获得。
 
 ;0x30160B02=Cheat activated ~n~Achievements "Finish Him", "One Man Army" and "Walk Free" blocked.
-0x30160B02=秘籍已启用~n~成就"Finish Him"、"One Man Army"与"Walk Free"无法获得。
+0x30160B02=秘籍已启用~n~成就 "Finish Him" "One Man Army" "Walk Free" 无法获得。
 
 ;0xCB7F41D6=Cheat activated ~n~Achievement "Finish Him" blocked.
-0xCB7F41D6=秘籍已启用~n~成就"Finish Him"无法获得。
+0xCB7F41D6=秘籍已启用~n~成就 "Finish Him" 无法获得。
 
 ;0x894DBD70=Cheat activated ~n~Achievement "One Man Army" blocked.
-0x894DBD70=秘籍已启用~n~成就"One Man Army"无法获得。
+0x894DBD70=秘籍已启用~n~成就 "One Man Army" 无法获得。
 
 ;0xE8787C6C=Cheat activated ~n~Achievement "Walk Free" blocked.
-0xE8787C6C=秘籍已启用~n~成就"Walk Free"无法获得。
+0xE8787C6C=秘籍已启用~n~成就 "Walk Free" 无法获得。
 
 ;0x60C18931=Cheat activated ~n~This money does not count towards achievement "Half Million".
-0x60C18931=秘籍已启用~n~这些钱不会计入成就"Half Million"的进度。
+0x60C18931=秘籍已启用~n~这些钱不会计入成就 "Half Million" 的进度。
 
 ;0x38A92C69=~s~Saving content. Please don't turn off your system.
 0x38A92C69=~s~存储内容中。~n~请不要关闭您的系统。
@@ -15894,7 +15894,7 @@
 0x5D7C6932=台球
 
 ;0x67D6FDEB=Cabaret/Comedy Club
-0x67D6FDEB=卡巴莱/喜剧俱乐部
+0x67D6FDEB=卡巴莱 / 喜剧俱乐部
 
 ;0x75A0997E=Strip Club
 0x75A0997E=脱衣舞俱乐部
@@ -18528,109 +18528,109 @@
 0x394B5A56=GTA - 生命值与武器
 
 ;0x2B81BEC3=DOC - Health
-0x2B81BEC3=DOC - 生命值
+0x2B81BEC3=医 - 生命值
 
 ;0x15C49349=GUN - Advanced
-0x15C49349=GUN - 高级武器
+0x15C49349=械 - 高级武器
 
 ;0x8436F02C=GUN - Poor
-0x8436F02C=GUN - 廉价武器
+0x8436F02C=械 - 廉价武器
 
 ;0x7030C820=COP - Wanted Down
-0x7030C820=COP - 降低通缉度
+0x7030C820=警 - 降低通缉度
 
 ;0x627B2CB5=COP - Wanted Up
-0x627B2CB5=COP - 升高通缉度
+0x627B2CB5=警 - 升高通缉度
 
 ;0x4CE40187=PAY - Money
-0x4CE40187=PAY - 金钱
+0x4CE40187=财 - 金钱
 
 ;0xBF3A6632=HOT - Weather
-0xBF3A6632=HOT - 天气
+0xBF3A6632=炎 - 天气
 
 ;0xDAD69D76=FLY - ANNIHILATOR
-0xDAD69D76=FLY - ANNIHILATOR
+0xDAD69D76=空 - ANNIHILATOR
 
 ;0x48D9F983=WET - JETMAX
-0x48D9F983=WET - JETMAX
+0x48D9F983=海 - JETMAX
 
 ;0x8ED8B2C5=MBK - NRG 900
-0x8ED8B2C5=MBK - NRG 900
+0x8ED8B2C5=摩 - NRG 900
 
 ;0xAC31ED77=MBK - SANCHEZ
-0xAC31ED77=MBK - SANCHEZ
+0xAC31ED77=摩 - SANCHEZ
 
 ;0x2987681C=CAR - FIB BUFFALO
-0x2987681C=CAR - FIB BUFFALO
+0x2987681C=车 - FIB BUFFALO
 
 ;0x18394580=CAR - COMET
-0x18394580=CAR - COMET
+0x18394580=车 - COMET
 
 ;0xD512BF38=CAR - TURISMO
-0xD512BF38=CAR - TURISMO
+0xD512BF38=车 - TURISMO
 
 ;0xC3611BD5=CAR - COGNOSCENTI
-0xC3611BD5=CAR - COGNOSCENTI
+0xC3611BD5=车 - COGNOSCENTI
 
 ;0x652ADF66=CAR - SUPERGT
-0x652ADF66=CAR - SUPERGT
+0x652ADF66=车 - SUPERGT
 
 ;0x1360BBD3=TIME - Ahead One Hour
-0x1360BBD3=TIME - 前进一小时
+0x1360BBD3=时 - 前进一小时
 
 ;0xCCC368E1=enabled cheat - "Health and Weapons"
-0xCCC368E1=秘籍 「生命值与武器」 已启用
+0xCCC368E1=秘籍「生命值与武器」已启用
 
 ;0xDE5C0C16=enabled cheat - "Health"
-0xDE5C0C16=秘籍 「生命值」 已启用
+0xDE5C0C16=秘籍「生命值」已启用
 
 ;0xE916218A=enabled cheat - "Advanced weapons"
-0xE916218A=秘籍 「高级武器」 已启用
+0xE916218A=秘籍「高级武器」已启用
 
 ;0xFAF5C549=enabled cheat - "Poor weapons"
-0xFAF5C549=秘籍 「廉价武器」 已启用
+0xFAF5C549=秘籍「廉价武器」已启用
 
 ;0x87BBDED3=enabled cheat - "Wanted Down"
-0x87BBDED3=秘籍 「降低通缉度」 已启用
+0x87BBDED3=秘籍「降低通缉度」已启用
 
 ;0x9180F25D=enabled cheat - "Wanted Up"
-0x9180F25D=秘籍 「升高通缉度」 已启用
+0x9180F25D=秘籍「升高通缉度」已启用
 
 ;0xA43E97D8=enabled cheat - "Money"
-0xA43E97D8=秘籍 「金钱」 已启用
+0xA43E97D8=秘籍「金钱」已启用
 
 ;0xBE1CCB94=enabled cheat - "Weather"
-0xBE1CCB94=秘籍 「天气」 已启用
+0xBE1CCB94=秘籍「天气」已启用
 
 ;0x5A3203C4=enabled cheat - "ANNIHILATOR"
-0x5A3203C4=秘籍 「ANNIHILATOR」 已启用
+0x5A3203C4=秘籍「ANNIHILATOR」已启用
 
 ;0x6C0DA77B=enabled cheat - "JETMAX"
-0x6C0DA77B=秘籍 「JETMAX」 已启用
+0x6C0DA77B=秘籍「JETMAX」已启用
 
 ;0x243540F1=enabled cheat - "NRG 900"
-0x243540F1=秘籍 「NRG 900」 已启用
+0x243540F1=秘籍「NRG 900」已启用
 
 ;0x1446A114=enabled cheat - "SANCHEZ"
-0x1446A114=秘籍 「SANCHEZ」 已启用
+0x1446A114=秘籍「SANCHEZ」已启用
 
 ;0x09C78C16=enabled cheat - "FIB BUFFALO"
-0x09C78C16=秘籍 「FIB BUFFALO」 已启用
+0x09C78C16=秘籍「FIB BUFFALO」已启用
 
 ;0x7906EA93=enabled cheat - "COMET"
-0x7906EA93=秘籍 「COMET」 已启用
+0x7906EA93=秘籍「COMET」已启用
 
 ;0x5E46B513=enabled cheat - "TURISMO"
-0x5E46B513=秘籍 「TURISMO」 已启用
+0x5E46B513=秘籍「TURISMO」已启用
 
 ;0x737EDF87=enabled cheat - "COGNOSCENTI"
-0x737EDF87=秘籍 「COGNOSCENTI」 已启用
+0x737EDF87=秘籍「COGNOSCENTI」已启用
 
 ;0x613D3B04=enabled cheat - "SUPERGT"
-0x613D3B04=秘籍 「SUPERGT」 已启用
+0x613D3B04=秘籍「SUPERGT」已启用
 
 ;0x4478017A=enabled cheat - "Ahead One Hour"
-0x4478017A=秘籍 「前进一小时」 已启用
+0x4478017A=秘籍「前进一小时」已启用
 
 ;0xF87A75AA=Cheat activated.
 0xF87A75AA=秘籍已启用。
@@ -23079,7 +23079,7 @@
 0x7750DA08=呼！今天外面真的是热死人啦！很适合烧烤配冰啤酒，也适合犯罪率暴涨。
 
 ;0x6592B68C=Sunshine today in Liberty City, puts everyone in a good mood, hard working Americans and single mother immigrants alike. Enjoy!
-0x6592B68C=今天自由城天气晴朗，让人心情舒畅，努力工作的美国人和单亲移民妈妈也不例外。
+0x6592B68C=今天自由城天气晴朗，让人心情舒畅，努力工作的美国公民和单亲移民妈妈也不例外。
 
 ;0x53D81317=It's sunny out there, but blowing a fierce wind, be aware folks, you can almost smell Alderney.
 0x53D81317=今天天气晴朗，但有强风。注意了各位，甚至能闻到Alderney的臭味。
@@ -24741,7 +24741,7 @@
 0x60624B06=我不能接受跟你的那些下贱婊子分享你。你归她们了，去找她们吧。我们结束了。
 
 ;0x72ACEF9B=It hurts so much. So, so much. We're over, Niko....
-0x72ACEF9B=伤得太深了。太太太深了。我们结束了，Niko....
+0x72ACEF9B=伤得太深了。太太太深了。我们结束了，Niko...
 
 ;0x60394AD0=What does she have that I don't? Tell me! Tell me!!!! - Kiki
 0x60394AD0=我是哪里比不上她？告诉我啊！告诉我啊！！！！ - Kiki
