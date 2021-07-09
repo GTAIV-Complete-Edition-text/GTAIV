@@ -36,13 +36,13 @@
 0xF19AD869=镜头模式
 
 ;0x04787E24=CLIP CAPTURE (HOLD)
-0x04787E24=剪辑捕捉(按住)
+0x04787E24=片段捕捉(按住)
 
 ;0xC64001B4=CAMERA MODES
 0xC64001B4=镜头模式
 
 ;0xCD778FBF=CLIP CAPTURE (HOLD)
-0xCD778FBF=剪辑捕捉(按住)
+0xCD778FBF=片段捕捉(按住)
 
 ;0xDBB82C40=CAMERA MODES
 0xDBB82C40=镜头模式
@@ -219,13 +219,13 @@
 0xEB9597BA=镜头模式
 
 ;0xB31DA6C7=CLIP CAPTURE (HOLD)
-0xB31DA6C7=剪辑捕捉(按住)
+0xB31DA6C7=片段捕捉(按住)
 
 ;0xA0E7025A=CAMERA MODES
 0xA0E7025A=镜头模式
 
 ;0xDBEB7862=CLIP CAPTURE (HOLD)
-0xDBEB7862=剪辑捕捉(按住)
+0xDBEB7862=片段捕捉(按住)
 
 ;0xC280458C=CAMERA MODES
 0xC280458C=镜头模式
@@ -369,13 +369,13 @@
 0x7FD0BF85=镜头模式
 
 ;0x6DCA1B78=CLIP CAPTURE (HOLD)
-0x6DCA1B78=剪辑捕捉(按住)
+0x6DCA1B78=片段捕捉(按住)
 
 ;0xA44F0881=CAMERA MODES
 0xA44F0881=镜头模式
 
 ;0x9210E405=CLIP CAPTURE (HOLD)
-0x9210E405=剪辑捕捉(按住)
+0x9210E405=片段捕捉(按住)
 
 ;0xC928D234=CAMERA MODES
 0xC928D234=镜头模式
@@ -495,7 +495,7 @@
 0xF64CB5CF=格挡
 
 ;0xB1CF0939=CLIP CAPTURE (HOLD)
-0xB1CF0939=剪辑捕捉(按住)
+0xB1CF0939=片段捕捉(按住)
 
 ;0x0CFAE95B=Perseus
 0x0CFAE95B=Perseus正装
@@ -981,25 +981,25 @@
 0x2F08955F=选择脸
 
 ;0x3C00A922=Are you sure you want to exit the Video Editor and return to single player?
-0x3C00A922=您确定要退出音频编辑器并返回单人游戏吗？
+0x3C00A922=您确定要退出视频编辑器并返回单人游戏吗？
 
 ;0x21C17C0B=Are you sure you want to remove this Clip from your Favorites folder?
-0x21C17C0B=您确定要将此剪辑从您的收藏夹中移除？
+0x21C17C0B=您确定要将此片段从您的收藏夹中移除吗？
 
 ;0xC6E737BE=Are you sure you want to delete this Video?
 0xC6E737BE=您确定要删除这个视频吗？
 
 ;0x08422B89=Are you sure you want to delete this Clip?
-0x08422B89=您确定要删除这个剪辑吗？
+0x08422B89=您确定要删除这个片段吗？
 
 ;0xD4DBD214=Are you sure you want to exit without saving this Video?
 0xD4DBD214=您确定不保存本视频就退出吗？
 
 ;0x5C8C8BDE=Are you sure you want to exit without saving this Clip?
-0x5C8C8BDE=您确定不保存本剪辑就退出吗？
+0x5C8C8BDE=您确定不保存本片段就退出吗？
 
 ;0xAB11840F=This clip is currently used in your Videos and cannot be deleted.
-0xAB11840F=本剪辑在您的视频中正在被使用，因此无法被删除。
+0xAB11840F=该片段正在被您的视频使用，因此无法被删除。
 
 ;0x49DDCCE0=Options
 0x49DDCCE0=选项
@@ -1017,28 +1017,28 @@
 0x460354A1=可视距离
 
 ;0x52EBCF3F=Clips
-0x52EBCF3F=剪辑
+0x52EBCF3F=片段
 
 ;0x54DD4C0F=Clips
-0x54DD4C0F=剪辑
+0x54DD4C0F=片段
 
 ;0xFDE4902E=Social Club
 0xFDE4902E=Social Club
 
 ;0xC0B8EEF1=Create Clips
-0xC0B8EEF1=创造剪辑
+0xC0B8EEF1=创建片段
 
 ;0x299CD551=Edit Clips
-0x299CD551=编辑剪辑
+0x299CD551=编辑片段
 
 ;0xFF627618=Create Video
-0xFF627618=创造视频
+0xFF627618=创建视频
 
 ;0x97B7EB91=Edit Video
 0x97B7EB91=编辑视频
 
 ;0x9101FB47=EDIT
-0x9101FB47=剪辑
+0x9101FB47=编辑
 
 ;0xC5C137DD=Marker Controls
 0xC5C137DD=标记控制
@@ -1185,25 +1185,25 @@
 0x15BDB54C=视频名称可在 Storyboard 上方输入。
 
 ;0xFF579EB9=Clip Capture
-0xFF579EB9=剪辑捕捉
+0xFF579EB9=片段捕捉
 
 ;0x585CD36B=You do not have enough system resources to export at this resolution.
 0x585CD36B=您的系统资源不足，无法以此分辨率导出。
 
 ;0x887C990A=You do not have enough system resources to view Clips.
-0x887C990A=您的系统资源不足，无法查看剪辑。
+0x887C990A=您的系统资源不足，无法查看片段。
 
 ;0x86FA44AD=You do not have enough system resources to edit Videos.
 0x86FA44AD=您的系统资源不足，无法编辑视频。
 
 ;0xF9519F91=You do not have enough system resources to enable Clip Capture in Single Player.
-0xF9519F91=您的系统资源不足，无法在单人模式中启用剪辑捕捉功能。
+0xF9519F91=您的系统资源不足，无法在单人模式中启用片段捕捉功能。
 
 ;0x1D2B72DC=You do not have enough system resources to enable Clip Capture in Multiplayer Mode.
-0x1D2B72DC=您的系统资源不足，无法在多人模式中启用剪辑捕捉功能。
+0x1D2B72DC=您的系统资源不足，无法在多人模式中启用片段捕捉功能。
 
 ;0x13435F0C=Please contact customer support for additional information regarding Clip Capture.
-0x13435F0C=请联系售后服务，以获取关于剪辑捕捉功能的详细信息。
+0x13435F0C=请联系售后服务，以获取关于片段捕捉功能的详细信息。
 
 ;0x3CDBD7F8=Detail Distance
 0x3CDBD7F8=细节距离
@@ -1626,13 +1626,13 @@
 0xBD3973BC=Custom Head
 
 ;0xABB237A6=Clips
-0xABB237A6=剪辑
+0xABB237A6=片段
 
 ;0xB2993162=View Clips
-0xB2993162=查看剪辑
+0xB2993162=查看片段
 
 ;0xC7ECC728=Clips
-0xC7ECC728=剪辑
+0xC7ECC728=片段
 
 ;0xCFAB8480=Editor
 0xCFAB8480=编辑器
@@ -2031,16 +2031,16 @@
 0x641AD117=Auto-Settings
 
 ;0xEF6447FE=Toggle Time ~INPUT_FE_REPLAY_TOGGLETIME~
-0xEF6447FE=Toggle Time ~INPUT_FE_REPLAY_TOGGLETIME~
+0xEF6447FE=切换时间 ~INPUT_FE_REPLAY_TOGGLETIME~
 
 ;0x38115F43=Toggle Time
-0x38115F43=Toggle Time
+0x38115F43=切换时间
 
 ;0x84144E71=Display Video Time
-0x84144E71=Display Video Time
+0x84144E71=显示视频时间
 
 ;0xB434EEB1=Display Clip Time
-0xB434EEB1=Display Clip Time
+0xB434EEB1=显示片段时间
 
 ;0x91699150=Reset
 0x91699150=重置
@@ -2070,7 +2070,7 @@
 0xC57F659C=您确定要退出游戏吗？~n~所有未保存的进度都会丢失。
 
 ;0x680B59DB=The Custom Camera is out of range. Reverting to game camera.
-0x680B59DB=The Custom Camera is out of range. Reverting to game camera.
+0x680B59DB=自定义相机超出范围，正在恢复至游戏原相机。
 
 ;0x4D84993F=Save Game
 0x4D84993F=存储游戏
@@ -2091,28 +2091,28 @@
 0xE0E03510=~s~存储内容中。请不要关闭您的主机。
 
 ;0xDAE51C17=~s~Saving Clip. Please don't turn off your system.
-0xDAE51C17=~s~存储剪辑中。~n~请不要关闭您的系统。
+0xDAE51C17=~s~存储片段中。~n~请不要关闭您的系统。
 
 ;0x1C2C438A=~s~Clip Capture is currently disabled. Please enable Clip Capture in the Game Menu.
-0x1C2C438A=~s~剪辑捕捉功能已被关闭。请在游戏菜单中开启剪辑捕捉。
+0x1C2C438A=~s~片段捕捉功能已被关闭。请在游戏菜单中开启片段捕捉。
 
 ;0x5B486BAA=~s~Clip Capture is currently disabled. Please contact customer support for additional information regarding Clip Capture.
-0x5B486BAA=~s~剪辑捕捉功能已被关闭。请联系客户支持获取更多关于剪辑捕捉的信息。
+0x5B486BAA=~s~片段捕捉功能已被关闭。请联系客户支持获取更多关于片段捕捉的信息。
 
 ;0x90690D96=~s~Saving
 0x90690D96=~s~存储中
 
 ;0x2FF2E069=~s~Clip Capture is currently disabled.
-0x2FF2E069=~s~剪辑捕捉功能已关闭。
+0x2FF2E069=~s~片段捕捉功能已关闭。
 
 ;0xFAE7F654=~s~Please enable Clip Capture in the Game Menu.
-0xFAE7F654=~s~请在游戏菜单中开启剪辑捕捉。
+0xFAE7F654=~s~请在游戏菜单中开启片段捕捉。
 
 ;0x1430D421=~s~Hold ~INPUT_REPLAY_SAVE_TO_HDD~ now if you would like to save this clip.
-0x1430D421=~s~长按~INPUT_REPLAY_SAVE_TO_HDD~可保存当前剪辑。
+0x1430D421=~s~长按~INPUT_REPLAY_SAVE_TO_HDD~可保存当前片段。
 
 ;0x737F6197=~s~Press ~INPUT_REPLAY_SAVE_TO_HDD~ now if you would like to save this clip.
-0x737F6197=~s~按下~INPUT_REPLAY_SAVE_TO_HDD~可保存当前剪辑。
+0x737F6197=~s~按下~INPUT_REPLAY_SAVE_TO_HDD~可保存当前片段。
 
 ;0x0918F0FC=You are not signed in. Do you want to sign in now?
 0x0918F0FC=您目前尚未登录。您想现在登录吗？
@@ -5122,7 +5122,7 @@
 0xE93E6A7C=自由城内还有 ~1~ 只鸽子。
 
 ;0x90B0E5F8=Just one flying rat left in Liberty City
-0x90B0E5F8=自由城内只剩一只鸽子了。
+0x90B0E5F8=自由城内还剩最后一只鸽子。
 
 ;0x7F586D9D=Come back when you've got the cash.
 0x7F586D9D=等你有钱了再来。
@@ -6622,7 +6622,7 @@
 0xD3821B4D=预览视频
 
 ;0xDEB96B65=PREVIEW CLIP
-0xDEB96B65=预览剪辑
+0xDEB96B65=预览片段
 
 ;0xF49A9733=PREVIEW VIDEO
 0xF49A9733=预览视频
@@ -6715,28 +6715,28 @@
 0x66A478CA=~PAD_LSTICK_UPDOWN~
 
 ;0x4264AF9F=Cheat activated ~n~Achievements "Cleaned The Mean Streets", "Finish Him", "One Man Army" and "Walk Free" blocked.
-0x4264AF9F=秘籍已启用~n~成就"Cleaned The Mean Streets"、"Finish Him"、"One Man Army"与"Walk Free"无法获得。
+0x4264AF9F=秘籍已启用~n~成就 "Cleaned The Mean Streets" "Finish Him" "One Man Army" "Walk Free" 无法获得。
 
 ;0xB01A8B0D=Cheat activated ~n~Achievements "One Man Army" and "Walk Free" blocked.
-0xB01A8B0D=秘籍已启用~n~成就"One Man Army"与"Walk Free"无法获得。
+0xB01A8B0D=秘籍已启用~n~成就 "One Man Army" "Walk Free" 无法获得。
 
 ;0xDDF0E6B9=Cheat activated ~n~Achievement "Cleaned The Mean Streets" blocked.
-0xDDF0E6B9=秘籍已启用~n~成就"Cleaned The Mean Streets"无法获得。
+0xDDF0E6B9=秘籍已启用~n~成就 "Cleaned The Mean Streets" 无法获得。
 
 ;0x30160B02=Cheat activated ~n~Achievements "Finish Him", "One Man Army" and "Walk Free" blocked.
-0x30160B02=秘籍已启用~n~成就"Finish Him"、"One Man Army"与"Walk Free"无法获得。
+0x30160B02=秘籍已启用~n~成就 "Finish Him" "One Man Army" "Walk Free" 无法获得。
 
 ;0xCB7F41D6=Cheat activated ~n~Achievement "Finish Him" blocked.
-0xCB7F41D6=秘籍已启用~n~成就"Finish Him"无法获得。
+0xCB7F41D6=秘籍已启用~n~成就 "Finish Him" 无法获得。
 
 ;0x894DBD70=Cheat activated ~n~Achievement "One Man Army" blocked.
-0x894DBD70=秘籍已启用~n~成就"One Man Army"无法获得。
+0x894DBD70=秘籍已启用~n~成就 "One Man Army" 无法获得。
 
 ;0xE8787C6C=Cheat activated ~n~Achievement "Walk Free" blocked.
-0xE8787C6C=秘籍已启用~n~成就"Walk Free"无法获得。
+0xE8787C6C=秘籍已启用~n~成就 "Walk Free" 无法获得。
 
 ;0x60C18931=Cheat activated ~n~This money does not count towards achievement "Half Million".
-0x60C18931=秘籍已启用~n~这些钱不会计入成就"Half Million"的进度。
+0x60C18931=秘籍已启用~n~这些钱不会计入成就 "Half Million" 的进度。
 
 ;0x38A92C69=~s~Saving content. Please don't turn off your system.
 0x38A92C69=~s~存储内容中。~n~请不要关闭您的系统。
@@ -7606,7 +7606,7 @@
 0x0B5DFD94=耳机
 
 ;0x3C25863C=Please wait until the current clip has been captured.
-0x3C25863C=请等待至当前剪辑捕捉完毕。
+0x3C25863C=请等待至当前片段捕捉完毕。
 
 ;0x0876EA47=Total number of chain reactions
 0x0876EA47=连锁反应总数
@@ -7855,10 +7855,10 @@
 0x170B5D04=您的内存不足，无法编辑视频。
 
 ;0x2EC07DE6=Storyboard: Drag clips here to create your Video.
-0x2EC07DE6=Storyboard：将剪辑拖到此处以创建您的视频。
+0x2EC07DE6=Storyboard：将片段拖到此处以创建您的视频。
 
 ;0x51195A4D=Clip Timeline:__Displays Clips relative to the Video length.
-0x51195A4D=剪辑时间轴：__显示剪辑相对于视频的长度。
+0x51195A4D=片段时间轴：__显示片段相对于视频的长度。
 
 ;0x16B76833=Audio Timeline:__Drag a song here to add music to your Video.
 0x16B76833=音频时间轴：__将歌曲拖到此处以为您的视频添加音乐。
@@ -7909,7 +7909,7 @@
 0xEB8947DE=新建
 
 ;0xFDBAAEF0=Clips
-0xFDBAAEF0=剪辑
+0xFDBAAEF0=片段
 
 ;0xD47658E7=Transitions
 0xD47658E7=转场
@@ -7930,13 +7930,13 @@
 0xF3F75146=交叉淡化
 
 ;0x69EEE08F=Clips can be dragged into the Favorites folder and will be marked with a star. Deleting clips from Favorites will not delete them from their original folders.
-0x69EEE08F=剪辑在被拖入收藏夹后会用星星标记。从收藏夹中删除剪辑并不会删除原文件夹中的剪辑。
+0x69EEE08F=片段在被拖入收藏夹后会用星星标记。从收藏夹中删除片段并不会删除原文件夹中的片段。
 
 ;0xC13DE14F=Folders organize clips into categories. Click a folder to expand it.
-0xC13DE14F=文件夹能将剪辑分类。点击一个文件夹以展开它。
+0xC13DE14F=文件夹能将片段分类。点击一个文件夹以展开它。
 
 ;0x3C2C050A=To add a clip to the video, drag it onto the Storyboard. Multiple instances of the same clip can exist in a given video.
-0x3C2C050A=要想视频中添加一个剪辑，将剪辑拖到Storyboard上。同一剪辑可在视频中多次使用。
+0x3C2C050A=要向视频中添加一个片段，将剪辑拖动至Storyboard。同一片段可在视频中多次使用。
 
 ;0x568239B6=To enter text, double click on the text box. To change the text settings click the Font, Size, Color and Duration values. To add text to the video, drag it onto the Text Timeline.
 0x568239B6=双击文本框以输入文本。点击字体、大小、颜色与持续时间可修改文本样式。将文本拖入文本时间轴可将其插入视频。
@@ -7945,7 +7945,7 @@
 0x7A4D0B11=时间条大小：拖动时间块大小以调整剪辑长度。
 
 ;0xE4B3DFD9=TIMER: Toggles between Clip time and Video Time when clicked.
-0xE4B3DFD9=计时器：点击时会在剪辑时间与视频时间之间切换。
+0xE4B3DFD9=计时器：点击时会在片段时间与视频时间之间切换。
 
 ;0x053920EB=PLACE MARKER: Click to place a marker at the current frame.
 0x053920EB=位置标记：点击以在当前帧放置一个标记。
@@ -7960,19 +7960,19 @@
 0x4E97ABD3=工具：点击以打开工具菜单。
 
 ;0x19544149=SAVE: Click to save clip edits.
-0x19544149=保存：点击以保存对剪辑的编辑。
+0x19544149=保存：点击以保存对片段的编辑。
 
 ;0xCBF3A7AD=Marker Controls are applied to a clip from one marker to the next.
-0xCBF3A7AD=标记控制会应用于同一剪辑的两个标记之间
+0xCBF3A7AD=标记控制会应用于同一片段的两个标记之间
 
 ;0x92B1B526=Apply various filters to the clip by clicking on the presets, or by using the mouse wheel to quick scan.
 0x92B1B526=点选预设可应用多种滤镜，亦可通过鼠标滚轮快速浏览效果。
 
 ;0x66937B80=Filter controls alter the appearance of the clip from the current marker. Applying Filters will affect all subsequent markers if their Filters are set to none.
-0x66937B80=滤镜控制会改变当前标记之后的剪辑外观。若之后的标记未设置滤镜，应用滤镜将会影响之后的所有标记。
+0x66937B80=滤镜控制会改变当前标记之后的片段外观。若之后的标记未设置滤镜，应用滤镜将会影响之后的所有标记。
 
 ;0xB12C0FD8=Camera controls allow various cameras and behaviors to be placed within a clip from the current marker.
-0xB12C0FD8=相机控制允许从(一个剪辑的)当前标记起放置多个相机与运镜轨迹。
+0xB12C0FD8=相机控制允许从(一个片段的)当前标记起放置多个相机与运镜轨迹。
 
 ;0x6E43EC4B=Alter the playback speed by clicking the presets, or by using the mouse wheel to quick scan. The Time Bar will adjust as it recalculates the length of the clip.
 0x6E43EC4B=点选预设可改变播放速度，亦可通过鼠标滚轮快速浏览效果。虽然改变了剪辑时长，但时间条会自动调整。
@@ -7984,7 +7984,7 @@
 0x4FE7E649=音频设置会改变当前标记之后的音效、音乐与对白的音量。全局音频设置可在工具菜单内进行。
 
 ;0x0A37C99E=Speed controls alter the playback rate of the clip from the current marker.
-0x0A37C99E=速度控制会改变当前标记之后的剪辑播放速率。
+0x0A37C99E=速度控制会改变当前标记之后的片段播放速率。
 
 ;0x811E11FF=Allows you select preset or custom cameras. Only Custom cameras can be altered.
 0x811E11FF=允许您选择预设或自定义相机。仅有自定义相机可以调整。
@@ -8053,7 +8053,7 @@
 0x6145FECB=工具：点击打开工具菜单。
 
 ;0xA5BB19F4=Double click to launch the Video Editor where you can combine clips, music, text and transitions to create videos.
-0xA5BB19F4=双击启动视频编辑器，您可以借此组合剪辑、音乐、文本与转场来创建视频。
+0xA5BB19F4=双击启动视频编辑器，您可以借此组合片段、音乐、文本与转场来创建视频。
 
 ;0x9D830980=Songs can be previewed by highlighting a song and pressing the play button. To add a song to the video, drag it onto the Audio Timeline.
 0x9D830980=选中歌曲后按下播放键可试听歌曲。将歌曲拖入音频时间轴可将其插入视频。
@@ -8065,19 +8065,19 @@
 0x17F3FE60=拖动歌曲以改变其在视频中的位置。视频标题下的时间表示歌曲开始播放的时间。
 
 ;0x7F484BD3=The Clip Timeline displays all the clips in a video. To jump to a position on the Storyboard, click on the Clip Timeline.
-0x7F484BD3=剪辑时间轴会显示视频中的所有剪辑。点击剪辑时间轴可跳跃至 Storyboard 的某处。
+0x7F484BD3=片段时间轴会显示视频中的所有片段。点击片段时间轴可跳跃至 Storyboard 的某处。
 
 ;0xAD8D2860=The Time Scale displays the entire video length and breaks it up into workable segments, making it easy to line up clips, songs and text.
 0xAD8D2860=时间刻度显示视频时长，并将视频分割为可编辑的片段，使排列整理剪辑、歌曲与文本更加容易。
 
 ;0x77B43CAB=To add a transition to the video, drag it between clips on the Storyboard. Transitions can only be viewed in exported videos.
-0x77B43CAB=将转场拖入 Storyboard 上的两个剪辑之间可添加转场效果。转场效果仅能在导出的视频中查看。
+0x77B43CAB=将转场拖入 Storyboard 上的两个之间片段可添加转场效果。转场效果仅能在导出的视频中查看。
 
 ;0x61F11125=Click to preview your video. Transitions will not be displayed.
 0x61F11125=点击预览您的视频。预览时不会显示转场效果。
 
 ;0x0769D670=Double-click a clip to open it in the Clip Editor. Clips can be rearranged by copying and pasting or by dragging them into place.
-0x0769D670=双击剪辑可将其在剪辑编辑器中打开。通过复制粘贴与拖动的操作可以重新编排剪辑。
+0x0769D670=双击片段可将其在片段编辑器中打开。通过复制粘贴与拖动的操作可以重新编排片段。
 
 ;0x1580729D=The game resolution is too low to export at this quality.
 0x1580729D=游戏分辨率过低，无法以此质量导出。
@@ -8287,7 +8287,7 @@
 0x90718B38=无法启动RGSC.exe！运行游戏时必须安装并运行RGSC(Rockstar Games Social Club)。
 
 ;0x675660C4=There is not enough space on the hard drive to capture clips.
-0x675660C4=硬盘空间不足，无法捕捉剪辑。
+0x675660C4=硬盘空间不足，无法捕捉片段。
 
 ;0xD5EBEE6E=There is not enough space on the hard drive to export this Video.
 0xD5EBEE6E=硬盘空间不足，无法导出视频。
@@ -15894,7 +15894,7 @@
 0x5D7C6932=台球
 
 ;0x67D6FDEB=Cabaret/Comedy Club
-0x67D6FDEB=卡巴莱/喜剧俱乐部
+0x67D6FDEB=卡巴莱 / 喜剧俱乐部
 
 ;0x75A0997E=Strip Club
 0x75A0997E=脱衣舞俱乐部
@@ -16971,7 +16971,7 @@
 0x238801AF=~s~将在~1~秒内退出活动。
 
 ;0xC40B83A4=The car wash is always open.
-0xC40B83A4=洗车店一直都开着。
+0xC40B83A4=洗车店全天开放。
 
 ;0xA00F60D1=~s~You cannot enter the comedy club with a wanted level.
 0xA00F60D1=~s~你无法在被通缉时进入喜剧俱乐部。
@@ -17286,7 +17286,7 @@
 0x24C35C00=按住~INPUT_SPRINT~奔跑。连按~INPUT_SPRINT~冲刺。
 
 ;0xD0438493=Use ~INPUT_SPRINT~ to sprint.
-0xD0438493=用~INPUT_SPRINT~冲刺。
+0xD0438493=按~INPUT_SPRINT~冲刺。
 
 ;0x751DC03F=Press ~INPUT_ENTER~ to enter or exit a vehicle.
 0x751DC03F=按~INPUT_ENTER~上下车。
@@ -17352,19 +17352,19 @@
 0xB8D3F4D5=GTA IV 允许您在事件发生后捕捉最近事件用于回放。您可以通过长按~INPUT_REPLAY_SAVE_TO_HDD~捕捉最近事件。
 
 ;0x8F004253=You can capture clips of recent events by holding ~INPUT_REPLAY_SAVE_TO_HDD~. These clips can be edited within the Video Editor accessed through the cellphone.
-0x8F004253=长按~INPUT_REPLAY_SAVE_TO_HDD~可以捕捉最近事件的剪辑。这些剪辑可在手机中的视频编辑器上编辑。
+0x8F004253=长按~INPUT_REPLAY_SAVE_TO_HDD~可以捕捉最近事件的片段。这些片段可在手机中的视频编辑器上编辑。
 
 ;0xF6F190EF=You can capture clips of recent events by pressing ~INPUT_REPLAY_SAVE_TO_HDD~. These clips can be edited within the Video Editor accessed through the cellphone.
-0xF6F190EF=长按~INPUT_REPLAY_SAVE_TO_HDD~可以捕捉最近事件的剪辑。这些剪辑可在手机中的视频编辑器上编辑。
+0xF6F190EF=长按~INPUT_REPLAY_SAVE_TO_HDD~可以捕捉最近事件的片段。这些片段可在手机中的视频编辑器上编辑。
 
 ;0xA2C669DF=Select this option to access the Video Editor. Hold ~INPUT_REPLAY_SAVE_TO_HDD~ to capture clips.
-0xA2C669DF=选择此项启动视频编辑器。~n~长按~INPUT_REPLAY_SAVE_TO_HDD~捕捉剪辑。
+0xA2C669DF=选择此项启动视频编辑器。~n~长按~INPUT_REPLAY_SAVE_TO_HDD~捕捉片段。
 
 ;0x61D81230=Select this option to access the Video Editor. Press ~INPUT_REPLAY_SAVE_TO_HDD~ to capture clips.
-0x61D81230=选择此项启动视频编辑器。~n~长按~INPUT_REPLAY_SAVE_TO_HDD~捕捉剪辑。
+0x61D81230=选择此项启动视频编辑器。~n~长按~INPUT_REPLAY_SAVE_TO_HDD~捕捉片段。
 
 ;0x736C8B2C=Your Clip has been captured. If you wish to view or edit your clip, bring up your phone and select Video Editor.
-0x736C8B2C=您的剪辑已捕捉。若您想查看或编辑您的剪辑，拿出手机后选择视频编辑器。
+0x736C8B2C=您的片段已捕捉。若您想查看或编辑您的片段，拿出手机后选择视频编辑器。
 
 ;0xDC5E1CD8=~s~Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the target vehicle.
 0xDC5E1CD8=~s~按住~INPUT_VEH_CIN_CAM~可将镜头对准目标车辆。
@@ -17571,10 +17571,10 @@
 0xF1A3F03C=你可以打给Dimitri问他是否和Petrovic谈过，也可以等待Dimitri联系你。
 
 ;0x2280F569=Roman now likes you a lot - you can use his special ability. You can call up Roman and select "Car Service" he will send you one of his cabs to pick you up and take you to destinations around the city.
-0x2280F569=Roman现在很喜欢你，你可以使用他的特殊能力了。打给Roman时选择「叫车服务」，他就会派出手下的的士接送你到城里的各个地方。
+0x2280F569=Roman现在很喜欢你，你可以使用他的特殊能力了。呼叫Roman时选择「叫车服务」，他就会派出手下的的士接送你到城里的各个地方。
 
 ;0xF198E035=Jacob now likes you a lot - you can use his special ability. You can call up Jacob and select "Guns" he will arrive at a location near you and sell you guns and equipment at discounted prices.
-0xF198E035=Jacob现在很喜欢你，你可以使用他的特殊能力了。打给Jacob时选择「枪支」，他就会到你附近的某地向你以低价出售武器装备。
+0xF198E035=Jacob现在很喜欢你，你可以使用他的特殊能力了。呼叫Jacob时选择「枪支」，他就会到你附近的某地向你以低价出售武器装备。
 
 ;0xD034BB31=All activites completed with Little Jacob.
 0xD034BB31=与Little Jacob的所有活动已完成。
@@ -17745,7 +17745,7 @@
 0x5F198CCD=停到Packie附近接上他。
 
 ;0x969B48C4=Packie now likes you a lot - you can use his special ability. You can call up Packie and select "Bomb" and he will place a phone bomb nearby. Collect the phone bomb and plant it on a car.
-0x969B48C4=Packie现在很喜欢你，你可以使用他的特殊能力了。打给Packie时选择「炸弹」，他就会给你在附近留一个炸弹。拿到电话炸弹后可以将其安装在车上。
+0x969B48C4=Packie现在很喜欢你，你可以使用他的特殊能力了。呼叫Packie时选择「炸弹」，他就会给你在附近留一个炸弹。拿到电话炸弹后可以将其安装在车上。
 
 ;0x0A432F49=All activites completed with Packie.
 0x0A432F49=与Packie的所有活动已完成。
@@ -18528,109 +18528,109 @@
 0x394B5A56=GTA - 生命值与武器
 
 ;0x2B81BEC3=DOC - Health
-0x2B81BEC3=DOC - 生命值
+0x2B81BEC3=医 - 生命值
 
 ;0x15C49349=GUN - Advanced
-0x15C49349=GUN - 高级武器
+0x15C49349=械 - 高级武器
 
 ;0x8436F02C=GUN - Poor
-0x8436F02C=GUN - 廉价武器
+0x8436F02C=械 - 廉价武器
 
 ;0x7030C820=COP - Wanted Down
-0x7030C820=COP - 降低通缉度
+0x7030C820=警 - 降低通缉度
 
 ;0x627B2CB5=COP - Wanted Up
-0x627B2CB5=COP - 升高通缉度
+0x627B2CB5=警 - 升高通缉度
 
 ;0x4CE40187=PAY - Money
-0x4CE40187=PAY - 金钱
+0x4CE40187=财 - 金钱
 
 ;0xBF3A6632=HOT - Weather
-0xBF3A6632=HOT - 天气
+0xBF3A6632=炎 - 天气
 
 ;0xDAD69D76=FLY - ANNIHILATOR
-0xDAD69D76=FLY - ANNIHILATOR
+0xDAD69D76=空 - ANNIHILATOR
 
 ;0x48D9F983=WET - JETMAX
-0x48D9F983=WET - JETMAX
+0x48D9F983=海 - JETMAX
 
 ;0x8ED8B2C5=MBK - NRG 900
-0x8ED8B2C5=MBK - NRG 900
+0x8ED8B2C5=摩 - NRG 900
 
 ;0xAC31ED77=MBK - SANCHEZ
-0xAC31ED77=MBK - SANCHEZ
+0xAC31ED77=摩 - SANCHEZ
 
 ;0x2987681C=CAR - FIB BUFFALO
-0x2987681C=CAR - FIB BUFFALO
+0x2987681C=车 - FIB BUFFALO
 
 ;0x18394580=CAR - COMET
-0x18394580=CAR - COMET
+0x18394580=车 - COMET
 
 ;0xD512BF38=CAR - TURISMO
-0xD512BF38=CAR - TURISMO
+0xD512BF38=车 - TURISMO
 
 ;0xC3611BD5=CAR - COGNOSCENTI
-0xC3611BD5=CAR - COGNOSCENTI
+0xC3611BD5=车 - COGNOSCENTI
 
 ;0x652ADF66=CAR - SUPERGT
-0x652ADF66=CAR - SUPERGT
+0x652ADF66=车 - SUPERGT
 
 ;0x1360BBD3=TIME - Ahead One Hour
-0x1360BBD3=TIME - 前进一小时
+0x1360BBD3=时 - 前进一小时
 
 ;0xCCC368E1=enabled cheat - "Health and Weapons"
-0xCCC368E1=秘籍 「生命值与武器」 已启用
+0xCCC368E1=秘籍「生命值与武器」已启用
 
 ;0xDE5C0C16=enabled cheat - "Health"
-0xDE5C0C16=秘籍 「生命值」 已启用
+0xDE5C0C16=秘籍「生命值」已启用
 
 ;0xE916218A=enabled cheat - "Advanced weapons"
-0xE916218A=秘籍 「高级武器」 已启用
+0xE916218A=秘籍「高级武器」已启用
 
 ;0xFAF5C549=enabled cheat - "Poor weapons"
-0xFAF5C549=秘籍 「廉价武器」 已启用
+0xFAF5C549=秘籍「廉价武器」已启用
 
 ;0x87BBDED3=enabled cheat - "Wanted Down"
-0x87BBDED3=秘籍 「降低通缉度」 已启用
+0x87BBDED3=秘籍「降低通缉度」已启用
 
 ;0x9180F25D=enabled cheat - "Wanted Up"
-0x9180F25D=秘籍 「升高通缉度」 已启用
+0x9180F25D=秘籍「升高通缉度」已启用
 
 ;0xA43E97D8=enabled cheat - "Money"
-0xA43E97D8=秘籍 「金钱」 已启用
+0xA43E97D8=秘籍「金钱」已启用
 
 ;0xBE1CCB94=enabled cheat - "Weather"
-0xBE1CCB94=秘籍 「天气」 已启用
+0xBE1CCB94=秘籍「天气」已启用
 
 ;0x5A3203C4=enabled cheat - "ANNIHILATOR"
-0x5A3203C4=秘籍 「ANNIHILATOR」 已启用
+0x5A3203C4=秘籍「ANNIHILATOR」已启用
 
 ;0x6C0DA77B=enabled cheat - "JETMAX"
-0x6C0DA77B=秘籍 「JETMAX」 已启用
+0x6C0DA77B=秘籍「JETMAX」已启用
 
 ;0x243540F1=enabled cheat - "NRG 900"
-0x243540F1=秘籍 「NRG 900」 已启用
+0x243540F1=秘籍「NRG 900」已启用
 
 ;0x1446A114=enabled cheat - "SANCHEZ"
-0x1446A114=秘籍 「SANCHEZ」 已启用
+0x1446A114=秘籍「SANCHEZ」已启用
 
 ;0x09C78C16=enabled cheat - "FIB BUFFALO"
-0x09C78C16=秘籍 「FIB BUFFALO」 已启用
+0x09C78C16=秘籍「FIB BUFFALO」已启用
 
 ;0x7906EA93=enabled cheat - "COMET"
-0x7906EA93=秘籍 「COMET」 已启用
+0x7906EA93=秘籍「COMET」已启用
 
 ;0x5E46B513=enabled cheat - "TURISMO"
-0x5E46B513=秘籍 「TURISMO」 已启用
+0x5E46B513=秘籍「TURISMO」已启用
 
 ;0x737EDF87=enabled cheat - "COGNOSCENTI"
-0x737EDF87=秘籍 「COGNOSCENTI」 已启用
+0x737EDF87=秘籍「COGNOSCENTI」已启用
 
 ;0x613D3B04=enabled cheat - "SUPERGT"
-0x613D3B04=秘籍 「SUPERGT」 已启用
+0x613D3B04=秘籍「SUPERGT」已启用
 
 ;0x4478017A=enabled cheat - "Ahead One Hour"
-0x4478017A=秘籍 「前进一小时」 已启用
+0x4478017A=秘籍「前进一小时」已启用
 
 ;0xF87A75AA=Cheat activated.
 0xF87A75AA=秘籍已启用。
@@ -23079,22 +23079,22 @@
 0x7750DA08=呼！今天外面真的是热死人啦！很适合烧烤配冰啤酒，也适合犯罪率暴涨。
 
 ;0x6592B68C=Sunshine today in Liberty City, puts everyone in a good mood, hard working Americans and single mother immigrants alike. Enjoy!
-0x6592B68C=今天自由城天气晴朗，让人心情舒畅，努力工作的美国人和单亲移民妈妈也不例外。
+0x6592B68C=今天自由城天气晴朗，让人心情舒畅，努力工作的美国公民和单亲移民妈妈也不例外。
 
 ;0x53D81317=It's sunny out there, but blowing a fierce wind, be aware folks, you can almost smell Alderney.
-0x53D81317=今天天气晴朗，但有强风。注意了各位，甚至能闻到Alderney的臭味。
+0x53D81317=今天天气晴朗，但有强风。注意了各位，甚至能闻到 Alderney 的臭味。
 
 ;0x8C05036C=Overcast today, a storm may be blowing, are you prepared? It might be time to get scared and irrational, keep watching Weazel for updates.
-0x8C05036C=今天是个阴天，暴风雨可能就要来了，你准备好了吗？是时候抛弃理性开始害怕了。关注Weazel获取最新消息。
+0x8C05036C=今天是个阴天，暴风雨可能就要来了，你准备好了吗？是时候抛弃理性开始害怕了。关注 Weazel 获取最新消息。
 
 ;0xC23C6FDA=It's raining out there folks, let's hope it washes away some of the liberal garbage and amoral sludge that runs through Liberty City's streets.
 0xC23C6FDA=现在正在下雨，各位。希望这场雨能冲走自由城街头巷尾的自由派废物和没良心人渣。
 
 ;0xF6725845=Nothing but a pathetic drizzle out there today, nothing to worry about. When it's time to worry, Weazel will let you know first.
-0xF6725845=今天只是一场小雨，无需担心。该担心的时候，Weazel会立刻通知你的。
+0xF6725845=今天只是一场小雨，无需担心。该担心的时候， Weazel 会立刻通知你的。
 
 ;0x9CF5A54D=Who says be kind to the environment? It's no friend to us. The fog out there is denser than a jury on a celebrity murder trial, yep, you'll need a powerful, American SUV to cut through this.
-0x9CF5A54D=有必要对自然环境友好吗？它又不是我们的朋友。外面的雾现在比名人谋杀案的陪审团的脸皮都厚。没错，只有动力强劲的美产SUV才能助你前进。
+0x9CF5A54D=有必要对自然环境友好吗？它又不是我们的朋友。外面的雾现在比名人谋杀案的陪审团的脸皮都厚。没错，只有动力强劲的国产 SUV 才能助你前进。
 
 ;0xD52095A2=There are bolts from the heavens showering down on Liberty City, to some, static electricity; to others, a display of His anger at the sins of mankind - you decide.
 0xD52095A2=自由城上空天雷滚滚。有人认为是静电现象，有人认为是人类罪行引起神怒——自己选吧。
@@ -24741,7 +24741,7 @@
 0x60624B06=我不能接受跟你的那些下贱婊子分享你。你归她们了，去找她们吧。我们结束了。
 
 ;0x72ACEF9B=It hurts so much. So, so much. We're over, Niko....
-0x72ACEF9B=伤得太深了。太太太深了。我们结束了，Niko....
+0x72ACEF9B=伤得太深了。太太太深了。我们结束了，Niko...
 
 ;0x60394AD0=What does she have that I don't? Tell me! Tell me!!!! - Kiki
 0x60394AD0=我是哪里比不上她？告诉我啊！告诉我啊！！！！ - Kiki
