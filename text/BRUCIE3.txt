@@ -33,7 +33,7 @@
 0x53A1E711=~s~点击WEB图标。
 
 ;0x6230118B=~s~Lose your wanted level before meeting French Tom.
-0x6230118B=~s~在和French Tom约会之前，降低你的通缉度。
+0x6230118B=~s~在和French Tom约会之前，摆脱通缉。
 
 ;0x637540AD=~r~You abandoned the date.
 0x637540AD=~r~你放弃了约会。
@@ -72,7 +72,7 @@
 0xB3179E33=~s~French Tom在餐馆里，进去找他。
 
 ;0xCC64BABD=~s~Lose your wanted level.
-0xCC64BABD=~s~降低你的通缉度。
+0xCC64BABD=~s~摆脱通缉。
 
 ;0xD4E561CE=~s~Take down ~r~French Tom.
 0xD4E561CE=~s~干掉~r~French Tom。

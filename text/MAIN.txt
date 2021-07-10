@@ -8395,7 +8395,7 @@
 0x26E7F7A4=Bellic兄弟
 
 ;0xB3C59161=It's Your Call
-0xB3C59161=你的电话
+0xB3C59161=紧急呼叫
 
 ;0xC17BACCD=Three's a Crowd
 0xC17BACCD=三人同行
@@ -8683,7 +8683,7 @@
 0x984A8FE0=Bellic兄弟
 
 ;0xC8EAE94C=It's Your Call
-0xC8EAE94C=你的电话
+0xC8EAE94C=紧急呼叫
 
 ;0xED01326C=Three's a Cr...
 0xED01326C=三人同行
@@ -15067,7 +15067,7 @@
 0x6DE4D77E=这将会替换你现有的同类武器。~n~~s~按~INPUT_FRONTEND_ACCEPT~确认。~s~按~INPUT_PICKUP~取消。
 
 ;0x0A28EFFD=Lose your wanted level.
-0x0A28EFFD=降低你的通缉度。
+0x0A28EFFD=摆脱通缉。
 
 ;0x9E9D1875=~s~Press ~INPUT_FRONTEND_ACCEPT~ to buy. ~n~~s~Press ~INPUT_PICKUP~ to cancel. ~n~~g~Pistol $600
 0x9E9D1875=~s~按~INPUT_FRONTEND_ACCEPT~购买。~n~~s~按~INPUT_PICKUP~取消。~n~~g~手枪 $600
@@ -15957,7 +15957,7 @@
 0xABE15713=~PAD_LSHOCK~改变位置~n~ ~PAD_RSHOCK~改变角度~n~
 
 ;0x58A5DCC5=~s~You must lose your wanted level before starting the SIXAXIS™ tutorial.
-0x58A5DCC5=~s~开始SIXAXIS™教程前，你必须降低你的通缉度。
+0x58A5DCC5=~s~开始SIXAXIS™教程前，你必须摆脱通缉。
 
 ;0x9D52BDE9=San Quentin Avenue Station
 0x9D52BDE9=San Quentin大道站
@@ -17091,7 +17091,7 @@
 0x7AE0AD60=靴子
 
 ;0x0B6EA343=Lose your wanted level before picking up ~a~
-0x0B6EA343=接~a~之前降低你的通缉度。
+0x0B6EA343=接~a~之前摆脱通缉。
 
 ;0x2ECB9351=~s~Hold ~PAD_Y~ to go on this tour. It will cost you $150.
 0x2ECB9351=~s~长按~PAD_Y~参加观光。收费 $150。
@@ -17238,7 +17238,7 @@
 0x349EF9C6=按~INPUT_FRONTEND_ACCEPT~跳过动画。
 
 ;0xCF1ECDC7=~s~You must lose your wanted level before starting the multiplayer tutorial.
-0xCF1ECDC7=~s~开始多人游戏教程前，你必须降低你的通缉度。
+0xCF1ECDC7=~s~开始多人游戏教程前，你必须摆脱通缉。
 
 ;0x8D8294DF=CADDY
 0x8D8294DF=CADDY

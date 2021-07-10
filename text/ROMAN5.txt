@@ -6,7 +6,7 @@
 0x2ECF0802=~r~Roman的车毁了。
 
 ;0x4F7745B7=You have evaded the cops. Stay out of trouble to completely lose your wanted level.
-0x4F7745B7=你已经避开了警察。避免惹事生非，彻底降低你的通缉度。
+0x4F7745B7=你已经避开了警察。避免惹事生非，彻底摆脱通缉。
 
 ;0x5FAE985C=To lose your wanted level escape the flashing zone and keep a low profile.
 0x5FAE985C=逃出闪烁区域并低调行事以降低通缉度。
@@ -51,7 +51,7 @@
 0xDAAE53A3=~r~车辆无法行驶。~s~
 
 ;0xDD273972=~S~Lose your wanted level.
-0xDD273972=~S~降低你的通缉度。
+0xDD273972=~S~摆脱通缉。
 
 ;0xE2F3FF87=~S~You have lost your wanted level, take Jermaine to ~Y~Gibson Street.
 0xE2F3FF87=~S~你已摆脱通缉，送Jermaine去~Y~Gibson街。

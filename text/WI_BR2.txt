@@ -3,7 +3,7 @@
 0x12DD234B=你把~b~Brian~s~落在后面了。
 
 ;0x1B022B3F=Lose your wanted level.
-0x1B022B3F=降低你的通缉度。
+0x1B022B3F=摆脱通缉。
 
 ;0x2B63D458=~r~Brian was abandoned.~s~
 0x2B63D458=~r~Brian被抛弃了。~s~
@@ -15,7 +15,7 @@
 0x60D6BF1D=等待Brian。
 
 ;0x6BCAD505=Lose your wanted level.
-0x6BCAD505=降低你的通缉度。
+0x6BCAD505=摆脱通缉。
 
 ;0x7C2975C2=~r~The deal was disrupted by police presence.~s~
 0x7C2975C2=~r~交易因警方出现而终止。~s~

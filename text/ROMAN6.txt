@@ -48,7 +48,7 @@
 0x5EDCF80E=目标图标会通过上下箭头表示~r~敌人~s~相对于你的位置。
 
 ;0x90024370=Lose your wanted level.
-0x90024370=降低你的通缉度。
+0x90024370=摆脱通缉。
 
 ;0xA4FAF0C9=Use ~PAD_SIXAXIS_RELOAD~ to reload.
 0xA4FAF0C9=使用~PAD_SIXAXIS_RELOAD~装弹。

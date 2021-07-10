@@ -18,7 +18,7 @@
 0x38689B75=找一辆警笛可以正常发声的警车。
 
 ;0x52E5506E=Lose the wanted before delivering the van.
-0x52E5506E=在前往车库前降低你的通缉度。
+0x52E5506E=在前往车库前摆脱通缉。
 
 ;0x53894F8A=~S~Take the van to the ~Y~lockup.
 0x53894F8A=~S~将货车送到~Y~车库~s~中。
@@ -27,7 +27,7 @@
 0x5A46DB06=靠近~b~货车。
 
 ;0x69267CF0=Lose your wanted level.
-0x69267CF0=降低你的通缉度。
+0x69267CF0=摆脱通缉。
 
 ;0x6CC07FF9=Park up and approach the driver's window.
 0x6CC07FF9=停车，走到货车驾驶室旁。

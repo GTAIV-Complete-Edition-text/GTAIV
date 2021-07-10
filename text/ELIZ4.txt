@@ -6,7 +6,7 @@
 0x1A3EB12B=你最好关上后备箱，否则警察会看到里面的东西。
 
 ;0x381E5CBB=~s~Lose your wanted level.
-0x381E5CBB=~s~降低你的通缉度。
+0x381E5CBB=~s~摆脱通缉。
 
 ;0x4622F8C4=~s~The bodies will be identified if left there, blow up the ~r~car.
 0x4622F8C4=~s~把尸体扔在那里的话会被认出来，炸毁~r~汽车。
@@ -24,7 +24,7 @@
 0xCA9F81BF=按~INPUT_PICKUP~关闭后备箱。
 
 ;0xECC0C601=~s~The cops have spotted the bodies. Lose your wanted level.
-0xECC0C601=~s~警察发现了尸体。降低你的通缉度。
+0xECC0C601=~s~警察发现了尸体。摆脱通缉。
 
 ;0xFC446508=~r~The bodies were discovered.
 0xFC446508=~r~尸体被发现了。

@@ -3,7 +3,7 @@
 0x02F68E19=~s~半按~PAD_LT~以在自由瞄准模式下射击。
 
 ;0x13C0453C=~s~Lose your wanted level.
-0x13C0453C=~s~降低你的通缉度。
+0x13C0453C=~s~摆脱通缉。
 
 ;0x2D99F9DB=~s~You can aim as normal when in cover by using ~INPUT_AIM~.
 0x2D99F9DB=~s~你可以在掩体后用~INPUT_AIM~进行射击。

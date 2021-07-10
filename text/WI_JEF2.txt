@@ -30,13 +30,13 @@
 0x95460738=车辆高速行驶时，按~PAD_Y~跳车。
 
 ;0x96259653=You have been spotted. Lose your wanted level.
-0x96259653=你被发现了，降低你的通缉度。
+0x96259653=你被发现了，摆脱通缉。
 
 ;0xA4103228=Enter ~b~Jeff's car.
 0xA4103228=进入~b~Jeff的车。
 
 ;0xC5977536=Lose your wanted level.
-0xC5977536=降低你的通缉度。
+0xC5977536=摆脱通缉。
 
 ;0xDC42A288=~r~The car was trashed. The body will be found.~s~
 0xDC42A288=~r~车毁了，尸体会被发现的。~s~
