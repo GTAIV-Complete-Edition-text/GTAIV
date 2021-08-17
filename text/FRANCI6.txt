@@ -6,7 +6,7 @@
 0x0E978BE6=~s~等待~b~Packie。
 
 ;0x14926938=~s~Go to Perseus and buy suit pants for the funeral.
-0x14926938=~s~去彭风精品为葬礼购买衣服裤子。
+0x14926938=~s~去神之子服饰为葬礼购买衣服裤子。
 
 ;0x1901F0CB=~s~Buy a suit jacket and shoes for the funeral.
 0x1901F0CB=~s~为葬礼买一件上衣和一双鞋。
@@ -15,13 +15,13 @@
 0x1D7162A4=~r~你抛弃了Packie。~s~
 
 ;0x26CD0DAD=~s~Go to Perseus and buy a suit jacket for the funeral.
-0x26CD0DAD=~s~去彭风精品为葬礼买一件上衣。
+0x26CD0DAD=~s~去神之子服饰为葬礼买一件上衣。
 
 ;0x28B11099=~s~Buy suit pants for the funeral.
 0x28B11099=~s~为葬礼买一条裤子。
 
 ;0x3B6136D5=~s~Go to Perseus and buy a suit jacket and pants for the funeral.
-0x3B6136D5=~s~去彭风精品为葬礼买一件上衣和一条裤子。
+0x3B6136D5=~s~去神之子服饰为葬礼买一件上衣和一条裤子。
 
 ;0x411829F1=~r~One of the McRearys is dead.~s~
 0x411829F1=~r~McReary家族的一个人死了。~s~
@@ -36,7 +36,7 @@
 0x4B3D8851=~s~帮助Packie干掉~r~阿尔巴尼亚帮成员。
 
 ;0x4D9F5B51=~s~Go to Perseus and buy smart shoes for the funeral.
-0x4D9F5B51=~s~去彭风精品为葬礼买一双好鞋子。
+0x4D9F5B51=~s~去神之子服饰为葬礼买一双好鞋子。
 
 ;0x52DACD76=~r~Packie is dead.~s~
 0x52DACD76=~r~Packie死了。~s~
@@ -51,16 +51,16 @@
 0x7741352E=加速太快或开上陡坡会让棺材从灵车中掉出来。
 
 ;0x7FFEC00F=~s~Go to Perseus and buy a suit for the funeral.
-0x7FFEC00F=~s~去彭风精品为葬礼买一套正装。
+0x7FFEC00F=~s~去神之子服饰为葬礼买一套正装。
 
 ;0xAA9D1563=~s~Go to Perseus and buy suit pants and smart shoes for the funeral.
-0xAA9D1563=~s~去彭风精品为葬礼买一条裤子和一双好鞋。
+0xAA9D1563=~s~去神之子服饰为葬礼买一条裤子和一双好鞋。
 
 ;0xB10209C7=~r~The hearse has been destroyed.~s~
 0xB10209C7=~r~灵车被毁了。~s~
 
 ;0xBC6338EF=~s~Go to Perseus and buy a suit jacket and shoes for the funeral.
-0xBC6338EF=~s~去彭风精品买一件上衣和一双鞋。
+0xBC6338EF=~s~去神之子服饰买一件上衣和一双鞋。
 
 ;0xBEE5A58E=~r~The casket was dropped.~s~
 0xBEE5A58E=~r~棺材掉了。~s~
@@ -81,7 +81,7 @@
 0xE0070026=~s~为葬礼买一套正装。
 
 ;0xE50908DA=~s~Change into a suit for the funeral or go to Perseus and buy a smart outfit.
-0xE50908DA=~s~换一套适合参加葬礼的正装，或去彭风精品买一套讲究的套装。
+0xE50908DA=~s~换一套适合参加葬礼的正装，或去神之子服饰买一套讲究的套装。
 
 ;0xF1CCCEA1=~s~Drive Packie and the hearse to the ~y~cemetery.
 0xF1CCCEA1=~s~将Packie和灵车送到~y~墓园。
