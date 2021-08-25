@@ -8158,7 +8158,7 @@
 0x89950422=红
 
 ;0x6C544ACD=Salmon
-0x6C544ACD=鲑鱼红
+0x6C544ACD=橙红
 
 ;0x3B108D7B=Dark Brown
 0x3B108D7B=深棕
@@ -18750,7 +18750,7 @@
 0x9880F802=手机现在处在睡眠模式。若要恢复手机功能，允许电话呼入和短信接收，请在菜单中选择「选项」，并关闭睡眠模式。
 
 ;0x8C5E5FBD=Sleep Mode will stop all story phonecalls and text messages coming through. This will hold up the story until it is disabled again.
-0x8C5E5FBD=睡眠模式会阻断一切任务呼叫或短信。在关闭睡眠模式前将使剧情进度停止。
+0x8C5E5FBD=启用睡眠模式会阻断一切任务呼叫或短信。在关闭睡眠模式前，剧情进度将会停滞。
 
 ;0xC29AFFEA=Ignore
 0xC29AFFEA=忽略
@@ -24018,7 +24018,7 @@
 0xDAA45CE6=咱哥俩可是猛男，老兄。要登上食物链顶端，最快的途径就他妈是直升机。想乘机就给我打电话。 - B
 
 ;0xE9D7FB4D=Niko, we aint hung out for a while. The bitches must be getting comfortable out on the tundra because the Alpha males ain't been on the hunt. Call me. Top of the fucking food chain! Yeah! - B
-0xE9D7FB4D=Niko，我们好久没一起出去了。贱人们现在肯定都无所畏惧地漫步在苔原上，因为猛男猎食者一直没有出击。来个电话。问鼎食物链！耶！ - B
+0xE9D7FB4D=Niko，我们好久没一起出去了。贱人们现在肯定都无所畏惧地漫步在苔原上，因为猛男猎食者一直没有出击。来个电话。登顶食物链！耶！ - B
 
 ;0xD97F5A90=NB - where you at, bro. Don't treat me cold just because my delts are more cut than yours. Hit me up and we'll hang. - B
 0xD97F5A90=NB－你在哪儿，兄弟。别因为你嫉妒我的三角肌就对我这么冷漠。来个电话我们就能一起出去。 - B
