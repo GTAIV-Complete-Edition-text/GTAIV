@@ -2239,13 +2239,13 @@
 0x05F72F3A=栏位 ~1~ 已存在存档数据。您是否要在下次自动存档时覆盖该栏位的数据？
 
 ;0x87B46457=Slot ~1~ already contains "~a~" saved on ~a~. Do you want to overwrite the data in this slot with the next autosave?
-0x87B46457=栏位 ~1~ 已存在 「~a~」 (保存于 ~a~) 。您是否要在下次自动存档时覆盖该栏位的数据？
+0x87B46457=栏位 ~1~ 已存在 「~a~」 (保存于 ~a~)。您是否要在下次自动存档时覆盖该栏位的数据？
 
 ;0xDF5BC432=Slot ~1~ already contains "~a~" saved on ~a~. Do you want to overwrite the data in this slot with your current game progress?
-0xDF5BC432=栏位 ~1~ 已存在 「~a~」 (保存于 ~a~) 。您是否要用当前游戏进度覆盖该栏位的数据？
+0xDF5BC432=栏位 ~1~ 已存在 「~a~」 (保存于 ~a~)。您是否要用当前游戏进度覆盖该栏位的数据？
 
 ;0x8149B089=The autosave slot already contains "~a~" saved on ~a~. Do you want to overwrite the data in this slot with your current game progress?
-0x8149B089=自动存档栏位已存在 「~a~」 (保存于 ~a~) 。您是否要用当前游戏进度覆盖该栏位的数据？
+0x8149B089=自动存档栏位已存在 「~a~」 (保存于 ~a~)。您是否要用当前游戏进度覆盖该栏位的数据？
 
 ;0xAE8C2789=Are you sure you want to use slot ~1~ for autosaves?
 0xAE8C2789=您确定要将栏位 ~1~ 用于自动存档吗？
@@ -3109,10 +3109,10 @@
 0x5FF8FA79=P
 
 ;0x885FCB46=LEFT BRACKET
-0x885FCB46=LEFT BRACKET
+0x885FCB46=左方括号
 
 ;0x3AACAFE1=RIGHT BRACKET
-0x3AACAFE1=RIGHT BRACKET
+0x3AACAFE1=右方括号
 
 ;0x7CEA345B=ENTER
 0x7CEA345B=回车
@@ -6853,7 +6853,7 @@
 0x4E1B5834=© 2007-2020 Rockstar Games, Inc. Rockstar Games, Rockstar North, Rockstar Games ¬ 标志, Rockstar North ¬ 标志, Grand Theft Auto, 以及 Grand Theft Auto 标志是 Take-Two Interactive Software, Inc. 的商标和/或注册商标。所有其他的标志和商标均为其各自所有者的产权。保留一切权利。本电子游戏的内容纯属虚构，无意展现和描述任何真实事件、人物或实体，如有雷同，纯属巧合。本电子游戏的制造商和发行商并不以任何方式支持、容忍或鼓励任何人采取本电子游戏中描述的任何行为。严禁以下行为：未经授权的复制、逆向工程、传输、公开演示、租赁、付费游戏，或规避版权保护的行为。
 
 ;0x4AA60BF6=© 2006-2020 Rockstar Games, Inc. Rockstar Games, Rockstar North, the Rockstar Games ¬ logo, the Rockstar North ¬ logo, the Rockstar Toronto ¬ logo, Grand Theft Auto, and the Grand Theft Auto logo are trademarks and/or registered trademarks of Take-Two Interactive Software, Inc. in the U.S.A. and/or other foreign countries. Windows and the Windows Vista Start button logo are trademarks of the Microsoft group of companies, and 'Games for Windows' and the Windows Vista Start button logo are used under license from Microsoft. All other marks and trademarks are properties of their respective owners. All rights reserved.~n~~n~In North America, the ratings icon is a trademark of the Entertainment Software Association.
-0x4AA60BF6=© 2006-2020 Rockstar Games, Inc. Rockstar Games、Rockstar North、Rockstar Games ¬ 标志、Rockstar North ¬ 标志、Rockstar Toronto ¬ 标志、Grand Theft Auto，以及 Grand Theft Auto 标志是 Take-Two Interactive Software, Inc. 在美国和/或海外的商标和/或注册商标。Windows 与 Windows Vista 开始按钮标志是 Microsoft集团公司 的商标，Games for Windows 与 Windows Vista 开始按钮标志依授权使用。所有其他的标志和商标均为其各自所有者的产权。保留一切权利。~n~~n~在北美，分级图标是 娱乐软件协会 的商标。
+0x4AA60BF6=© 2006-2020 Rockstar Games, Inc. Rockstar Games、 Rockstar North、 Rockstar Games ¬ 标志、 Rockstar North ¬ 标志、 Rockstar Toronto ¬ 标志、 Grand Theft Auto，以及 Grand Theft Auto 标志是 Take-Two Interactive Software, Inc. 在美国和/或海外的商标和/或注册商标。Windows 与 Windows Vista 开始按钮标志是 Microsoft集团公司 的商标，Games for Windows 与 Windows Vista 开始按钮标志依授权使用。所有其他的标志和商标均为其各自所有者的产权。保留一切权利。~n~~n~在北美，分级图标是 娱乐软件协会 的商标。
 
 ;0x60DA4833=Use of this software is subject to license available in the game manual and online at rockstargames.com/eula. An internet connection, assorted software installations, and certain service registrations are required for activation and use of this software. Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is strictly prohibited. The content of this videogame is purely fictional, is not intended to represent or depict any actual event, person, or entity, and any such similarities are purely coincidental. The makers and publishers of this videogame do not in any way endorse, condone or encourage engaging in any conduct depicted in this videogame.~n~Your gameplay information may be displayed on web pages and leaderboards, including those located at http://www.rockstargames.com/socialclub. ~n~Playing the game may make you eligible to claim some prizes. Check out http://www.rockstargames.com/socialclub/events. ~n~For details, official rules, or to opt-out of certain Social Club features visit http://www.rockstargames.com/socialclub/privacy. ~n~Contests void where prohibited. No purchase necessary. Sponsored by Rockstar Games, 622 Broadway, New York, NY, USA.
 0x60DA4833=此软件的使用将受游戏手册以及 www.rockstargames.com/eula 上的许可条款约束。激活与使用此软件将需要保持网络连接、安装数个软件、注册某些服务。严禁以下行为：未经授权的复制、逆向工程、传输、公开演示、出租、付费游戏，或规避版权保护的行为。本电子游戏的内容纯属虚构，无意展现和描述任何真实事件、人物或实体，如有雷同，纯属巧合。本电子游戏的制造商和发行商并不以任何方式支持、容忍或鼓励任何人采取本电子游戏中描述的任何行为。~n~您的游戏信息可能会显示在包括 www.rockstargames.com/socialclub 在内的网页和排行榜上。进行游戏表示您可能有资格获取某些奖品，请参阅 www.rockstargames.com/socialclub/events。~n~如需详细信息、官方规则或 Social Club 特定功能的退出选择权，~n~请参阅 www.rockstargames.com/socialclub/privacy。~n~相关比赛如被禁止，即为无效。无需另行购买。本游戏由 Rockstar Games 赞助，~n~地址：622 Broadway, New York, NY, USA。
@@ -17307,7 +17307,7 @@
 0xD64B1518=按~INPUT_VEH_HEADLIGHT~在最亮与较暗间切换大灯亮度。
 
 ;0x17813B56=You can now call Roman for work. Find Roman in the phonebook and select the Job option.
-0x17813B56=现在你可以打给Roman接活。在通讯录中找到Roman后选择「差事] 。
+0x17813B56=现在你可以打给Roman接活。在通讯录中找到Roman后选择「差事」。
 
 ;0x30834FF9=You can now do some extra work for Jacob. Call Jacob using the Job option on your phone.
 0x30834FF9=你现在可以替Jacob做些私活。使用手机中的差事选项呼叫Jacob。
@@ -23361,7 +23361,7 @@
 0x958DEBCE=堂弟，谢谢你替Vlad把这事办了。他就是个混蛋，不过谁让我欠他钱呢。接下来你怎么做？Rom
 
 ;0xA530F01E=Niko, remember if you want some money you can call me for a cab job. Rom.
-0xA530F01E=Niko ，记住，你想赚钱的话可以找我接单开出租。Rom
+0xA530F01E=Niko，记住，你想赚钱的话可以找我接单开出租。Rom
 
 ;0x78BC1735=Shit, Niko. They're going to find out we killed Vlad. I know it. Our bodies are gonna be in the Humboldt next to Vlad's... Shit. Rom
 0x78BC1735=完了，Niko。他们会发现是我们杀了Vlad的。我明白的。我们的尸体会和Vlad的一块儿沉到Humboldt河河底的。Rom
@@ -23379,7 +23379,7 @@
 0xCA1839E4=你为什么要抛下我，堂弟？那可不行。搞得跟我和你搞一夜情一样，挥之即去。Rom
 
 ;0xF4DE0F7B=Niko, imagine the honeymoon I can take Mallorie on if you do this deal. Come on, do it for me - I am your cousin. Rom
-0xF4DE0F7B=Niko ，想象一下你去交易的话我就能带Mallorie去度蜜月吧。拜托，为了我你也去交易吧－我是你堂兄啊。Rom
+0xF4DE0F7B=Niko，想象一下你去交易的话我就能带Mallorie去度蜜月吧。拜托，为了我你也去交易吧－我是你堂兄啊。Rom
 
 ;0xFD8320C5=Shit. Need help. Come to the depot quick, man! Rom
 0xFD8320C5=靠。求救。速来车行，老弟！Rom
@@ -23655,7 +23655,7 @@
 0xBB2D39AA=妈的，Niko。坚强点，好吗？我会找到这个混账的！你先去整点重武器啥的，我到时候给你打电话。要不是我没车，我就直接把他们送到你面前了。就这 - LJ
 
 ;0xA0F20534=Niko, give I a call if you need some cash. I and Badman usually got some jobs. Easy - LJ
-0xA0F20534=Niko ，你要是需要钱就打给我。我和 Badman 这儿一般都有活可干。就这 - LJ
+0xA0F20534=Niko，你要是需要钱就打给我。我和 Badman 这儿一般都有活可干。就这 - LJ
 
 ;0xD03FE3CF=I got an escape plan for you, star. Keep your eyes on the sky, sight?
 0xD03FE3CF=我给你弄到撤退方式了，老兄。注意着点天上，好吗？
@@ -23703,7 +23703,7 @@
 0x22E8A54F=你没来，出院后我只能自己回去。这很恼人，懂？ - Jacob
 
 ;0x10B900F0=Why you no come pick me up like you say, Niko? Cha! - Jacob
-0x10B900F0=你怎么没有如约来接我，Niko ？擦！ - Jacob
+0x10B900F0=你怎么没有如约来接我，Niko？擦！ - Jacob
 
 ;0x650E2F55=Rhaatid. I have fe get home from hospital on me own. - Jacob
 0x650E2F55=妈逼的。我只能自己出院回家了。 - Jacob
@@ -24069,7 +24069,7 @@
 0x7B63BC32=你这种狗逼冷血怪可以考虑下接义警的活赚$，兄弟。条子现在把脏活外包给个体承包人了。下次你黑进警用电脑的时候记得看看。- B
 
 ;0xCAC6DAF7=Niko, baby. You left Brucie up in the strip club. If you were jealous of the looks them bitches were giving me, you shoulda just said something. Work it off in the gym. You're my boy. - B
-0xCAC6DAF7=Niko ，宝贝。你把Brucie丢在脱衣舞俱乐部了。你要是眼红那些贱人给我搞的场面，当时直说不就好了。多去健身房练练。你可是我哥们儿。 - B
+0xCAC6DAF7=Niko，宝贝。你把Brucie丢在脱衣舞俱乐部了。你要是眼红那些贱人给我搞的场面，当时直说不就好了。多去健身房练练。你可是我哥们儿。 - B
 
 ;0xD9ED7944=Where'd you go, man? I bought a magnum and charmed the shit out of them strippers. Probably gonna have a threesome with some later. If you'd stuck round you coulda watched. - B
 0xD9ED7944=你人呢，老兄？我要了份大瓶葡萄酒，那群舞女当场被我迷到神魂颠倒。待会儿可能还得来一个双飞。可惜你不在，本来你能亲眼看着的。 - B
