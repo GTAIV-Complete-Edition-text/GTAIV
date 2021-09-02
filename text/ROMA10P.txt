@@ -66,7 +66,7 @@
 0x8BBCA34B=摩托车锁开了。
 
 ;0x8D20CCA8=Press ~PAD_X~ to focus on the bike.
-0x8D20CCA8=按~PAD_X~将镜头移向目标摩托。
+0x8D20CCA8=按~PAD_X~将镜头对准目标摩托。
 
 ;0x8FE22942=~s~Get in the ~b~car.
 0x8FE22942=~s~上~b~车。
@@ -108,7 +108,7 @@
 0xDDEDC7AC=车门锁开了。
 
 ;0xE03F72F8=Press ~PAD_X~ to focus on the car.
-0xE03F72F8=按~PAD_X~将镜头移向目标车辆。
+0xE03F72F8=按~PAD_X~将镜头对准目标车辆。
 
 ;0xE4E307FA=Goathead
 0xE4E307FA=Goathead
