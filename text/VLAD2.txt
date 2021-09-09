@@ -15,7 +15,7 @@
 0xCC19F46D=按~INPUT_PHONE_ACCEPT~后选择「删除」可以删除短信，按~INPUT_PHONE_PUT_AWAY~退出。
 
 ;0xD02E529B=Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the target vehicle.
-0xD02E529B=按~INPUT_VEH_CIN_CAM~将镜头对准目标车辆。
+0xD02E529B=按住~INPUT_VEH_CIN_CAM~将镜头对准目标车辆。
 
 ;0xD80D0C67=The envelope icon above the radar is displayed when you have a new text message. This will fade slightly when it is read.
 0xD80D0C67=小地图上方的信封图标表示你收到了短信，阅读后就会消失。

@@ -6094,10 +6094,10 @@
 0x603BAD35=快艇时长
 
 ;0x734B448F=Heli ride destinations
-0x734B448F=搭直升机目的地
+0x734B448F=直升机兜风目的地
 
 ;0xA840BD3E=Heli ride time
-0xA840BD3E=搭直升机时长
+0xA840BD3E=直升机兜风时长
 
 ;0x811BE030=Activities with Roman
 0x811BE030=与Roman出门次数
@@ -15885,7 +15885,7 @@
 0x32041242=吃饭
 
 ;0x40C92FCC=Heli Rides
-0x40C92FCC=搭直升机
+0x40C92FCC=直升机兜风
 
 ;0x4FC2CDBF=Transport
 0x4FC2CDBF=交通运输
@@ -18081,7 +18081,7 @@
 0x449841AB=吃饭
 
 ;0x5AAD6DD5=Heli Ride
-0x5AAD6DD5=搭直升机
+0x5AAD6DD5=直升机兜风
 
 ;0xE7F20860=Lifts
 0xE7F20860=搭车
@@ -18129,7 +18129,7 @@
 0xCD7278E7=开快艇吗？
 
 ;0xAAC4F2B7=Do Heli Rides?
-0xAAC4F2B7=搭直升机吗？
+0xAAC4F2B7=直升机兜风吗？
 
 ;0x0D2F5C38=Give Lift?
 0x0D2F5C38=载一程吗？
@@ -18207,7 +18207,7 @@
 0x03F81074=收音机
 
 ;0xE4630522=Read
-0xE4630522=阅读
+0xE4630522=查看
 
 ;0x1DA5B02D=Select
 0x1DA5B02D=选择

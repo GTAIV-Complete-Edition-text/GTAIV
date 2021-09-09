@@ -3,7 +3,7 @@
 0x0035E5EC=按~INPUT_VEH_FLY_THROTTLE_UP~提升高度，按~INPUT_VEH_FLY_THROTTLE_DOWN~降低高度。
 
 ;0x0AC0095A=Hold ~INPUT_VEH_CIN_CAM~ while in a vehicle to focus on the target chopper.
-0x0AC0095A=在载具中时，按~INPUT_VEH_CIN_CAM~将镜头对准目标直升机。
+0x0AC0095A=在载具中时，按住~INPUT_VEH_CIN_CAM~将镜头对准目标直升机。
 
 ;0x157DAB2E=~r~The helicopter got away.~s~
 0x157DAB2E=~r~直升机逃掉了。~s~
