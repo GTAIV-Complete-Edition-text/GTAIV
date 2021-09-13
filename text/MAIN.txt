@@ -18540,7 +18540,7 @@
 0x7030C820=警 - 降低通缉度
 
 ;0x627B2CB5=COP - Wanted Up
-0x627B2CB5=警 - 升高通缉度
+0x627B2CB5=警 - 提高通缉度
 
 ;0x4CE40187=PAY - Money
 0x4CE40187=财 - 金钱
@@ -18549,7 +18549,7 @@
 0xBF3A6632=炎 - 天气
 
 ;0xDAD69D76=FLY - ANNIHILATOR
-0xDAD69D76=空 - ANNIHILATOR
+0xDAD69D76=空 - 歼灭者
 
 ;0x48D9F983=WET - JETMAX
 0x48D9F983=海 - JETMAX
@@ -23382,7 +23382,7 @@
 0xF4DE0F7B=Niko，想象一下你去交易的话我就能带Mallorie去度蜜月吧。拜托，为了我你也去交易吧－我是你堂兄啊。Rom
 
 ;0xFD8320C5=Shit. Need help. Come to the depot quick, man! Rom
-0xFD8320C5=靠。求救。速来车行，老弟！Rom
+0xFD8320C5=靠。求救。速来车行，老弟！ Rom
 
 ;0x1821D602=Niko, I'm at the church. I'm getting married. Wear some smart clothes and get over here as soon as you can. Rom
 0x1821D602=Niko，我现在在教堂。我要结婚了。穿套像样的衣服赶紧过来。Rom
