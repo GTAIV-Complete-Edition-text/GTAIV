@@ -84,7 +84,7 @@
 0x130422B3=R11_KQ
 
 ;0x135622C6=~z~Now, I have nothing to spend... nothing. Oh yeah, I have you. Great.
-0x135622C6=~z~现在，我都没东西可以挥霍了...没了。噢，对，我还有你。真好。
+0x135622C6=~z~现在我都没东西可以挥霍了...没了。噢，对，我还有你。真好。
 
 ;0x13611FEF=R11_FC
 0x13611FEF=R11_FC
@@ -237,7 +237,7 @@
 0x3A47A5D3=SFX_PAUSE_2000
 
 ;0x3B43A706=~z~Do you know how long it took me to get a place of my own?
-0x3B43A706=~z~你知道我花了多久才有了自己的地方吗？
+0x3B43A706=~z~你知道我花了多久才有了自己的家吗？
 
 ;0x3B996952=100010010100
 0x3B996952=100010010100
@@ -417,7 +417,7 @@
 0x65A06E0C=R11_KA
 
 ;0x65F4197C=~z~You know what you can catch from those girls?
-0x65F4197C=~z~你知道你能从那些妞身上抓住什么吗？
+0x65F4197C=~z~知道那些鸡身上有多脏吗？
 
 ;0x66006A56=100100100100100100010100100100100010010010100100100100
 0x66006A56=100100100100100100010100100100100010010010100100100100
@@ -507,7 +507,7 @@
 0x76A0151B=R11_KH
 
 ;0x76C6BB21=~z~Even I would not go with those hookers on the point, cousin.
-0x76C6BB21=~z~都这时候了我怎么可能会去找鸡，堂弟。
+0x76C6BB21=~z~就连我都不会去那里叫鸡，堂弟。
 
 ;0x77489150=~z~I don't want to talk about back home.
 0x77489150=~z~我不想说以前的事。
@@ -537,7 +537,7 @@
 0x7B80F7DB=~z~别，别这样...我们可以想法子摆脱的...
 
 ;0x7BB444FC=~z~I always put a saddle on a horse before I ride her, Roman. I won't catch nothing.
-0x7BB444FC=~z~我上马之前总会先给她套个鞍的，Roman。我用不着去抓什么。
+0x7BB444FC=~z~我上马之前总会先套个鞍的，Roman。不会得脏病的。
 
 ;0x7C42FCD3=R11_XYA
 0x7C42FCD3=R11_XYA
@@ -933,7 +933,7 @@
 0xE5F3BE18=~z~现在是不能，但是在梦里你遇到了那个她。她很美。
 
 ;0xE7235025=~z~What are you expressing when you spend your money in backroom card games?
-0xE7235025=~z~那你在地下牌局挥霍的时候是想表现什么？
+0xE7235025=~z~那你在地下赌场挥霍的时候是想表现什么？
 
 ;0xE8041964=R11_EK
 0xE8041964=R11_EK

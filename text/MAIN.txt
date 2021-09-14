@@ -17286,7 +17286,7 @@
 0x24C35C00=按住~INPUT_SPRINT~奔跑。连按~INPUT_SPRINT~冲刺。
 
 ;0xD0438493=Use ~INPUT_SPRINT~ to sprint.
-0xD0438493=按~INPUT_SPRINT~冲刺。
+0xD0438493=按住~INPUT_SPRINT~冲刺。
 
 ;0x751DC03F=Press ~INPUT_ENTER~ to enter or exit a vehicle.
 0x751DC03F=按~INPUT_ENTER~上下车。
@@ -23493,7 +23493,7 @@
 0xF1BE27EB=堂弟，你把我扔在俱乐部了。你是带了一个妞回去睡吗？祝你玩得开心，禽兽。 - Rom
 
 ;0x3E58411E=Cuz, where'd you go? Got left in the club by myself. More titties for me, I guess. Later. - Rom
-0x3E58411E=堂弟，你去哪儿了？我被一个人落在俱乐部里了。也许我能找到更多奶子。回见。 - Rom
+0x3E58411E=堂弟，你去哪了？我被一个人落在俱乐部里了。也许我能找到更多奶子。回见。 - Rom
 
 ;0x54F76E5C=Cousin, my other drivers got jealous about you taking all the fares. I've nearly got a mutiny on my hands. You're going to have to earn your money with your fists and not my cabs from now on. Let's hang out. - Rom
 0x54F76E5C=堂弟，我手下的几个司机因为你把所有单子都抢了这事眼睛都绿了。他们差点就要造反了。从现在起，你得靠自己的拳头而不是我的的士挣钱了。有空我们去走走吧。 - Rom
@@ -23565,7 +23565,7 @@
 0x65DC34F0=Niko，求你先别给我打电话了。我需要一些私人时间。xx
 
 ;0x779F5876=Niko, where did you go? I couldn't find you. Did something important come up? Are you involved with some bad people?
-0x779F5876=Niko，你去哪儿了？我没见着你。是突然有什么急事吗？你该不会和某些坏人在一起吧？
+0x779F5876=Niko，你去哪了？我没见着你。是突然有什么急事吗？你该不会和某些坏人在一起吧？
 
 ;0x9D8EA450=Call me, Niko. We should go out on another date. I really want to find out more about you. xx
 0x9D8EA450=给我打电话，Niko。我们应该再出去约次会。我真的很想深入了解你。xx
