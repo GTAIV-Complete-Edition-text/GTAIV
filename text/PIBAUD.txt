@@ -48,7 +48,7 @@
 0x149D6D9C=~z~自己走吧。有人问起来，就说你没见过我。
 
 ;0x17C3481B=~z~Yeah, but this ain't no rock - it's a fucking boulder. This shit's gonna blast me to the moon.
-0x17C3481B=~z~拿到了，不过不是普通石头－是块巨石！这玩意能把我炸上月球。
+0x17C3481B=~z~拿到了，不过不是普通石头。是块巨石！这玩意能把我炸上月球。
 
 ;0x17DAE2EC=PIB_QA
 0x17DAE2EC=PIB_QA
@@ -216,7 +216,7 @@
 0x59944CED=PIB_SA
 
 ;0x5BA3BE8A=~z~Something your eyes will never believe. The ninth wonder of the modern world, my friend.
-0x5BA3BE8A=~z~你的眼睛永远不会相信的东西。世界第九大奇迹，我的朋友。
+0x5BA3BE8A=~z~你的眼睛永远不会相信的东西。~n~世界第九大奇迹，我的朋友。
 
 ;0x5D635035=PIB_FE
 0x5D635035=PIB_FE
@@ -312,7 +312,7 @@
 0x7F17633C=100100010100010100100
 
 ;0x80D788F1=~z~known to man, this thing is meant to be so fucking big,
-0x80D788F1=~z~最大的可卡因结晶了，这玩意可太他妈大了，
+0x80D788F1=~z~最大的可卡因结晶了，这玩意可太他妈大了。
 
 ;0x8561E9DE=PIB_JA
 0x8561E9DE=PIB_JA
@@ -354,7 +354,7 @@
 0x91C59F1B=~z~你个屌人。
 
 ;0x928D2C5C=~z~it has its own gravitational pull - no fucking shit!
-0x928D2C5C=~z~它有它的引力－不是胡扯！
+0x928D2C5C=~z~甚至有自己的引力，不是胡扯！
 
 ;0x957AFE17=~z~You've got a second chance here.
 0x957AFE17=~z~这是你的又一个机会。
@@ -441,7 +441,7 @@
 0xB605902C=PIB_BE
 
 ;0xB64C8365=~z~Hey, I remember you. You're the comrade guy. The guy with all the jokes?
-0xB64C8365=~z~嘿，我认识你。你就是那个同志男。讲了一堆笑话的那个？
+0xB64C8365=~z~嘿，我认识你。你就是那个同志男，讲了一堆笑话的那个？
 
 ;0xB995E26B=PIB_NA
 0xB995E26B=PIB_NA
@@ -471,7 +471,7 @@
 0xC4E3A25D=~z~靠，哥们，我应该是记得的。
 
 ;0xC67FFBEF=~z~Excess is never excessive.
-0xC67FFBEF=~z~过量是不会过量的。
+0xC67FFBEF=~z~过量是不会嫌多的。
 
 ;0xC6BAF974=010100
 0xC6BAF974=010100

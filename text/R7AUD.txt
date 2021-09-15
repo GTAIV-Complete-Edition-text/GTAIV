@@ -1,6 +1,6 @@
 ﻿[R7AUD]
 ;0x0031C8A0=~z~You go. I'll catch up with you later.
-0x0031C8A0=~z~你先走。我待会再来找你。
+0x0031C8A0=~z~你先走，我待会儿来找你。
 
 ;0x00364A11=R7_GG
 0x00364A11=R7_GG
@@ -12,7 +12,7 @@
 0x02DB5FB0=R7_FC
 
 ;0x038D6E0B=~z~We do, if we are to live with ourselves in this city.
-0x038D6E0B=~z~我们需要，要是我们想在这座城市自力更生就需要。
+0x038D6E0B=~z~我们需要，想在这座城市自力更生就需要。
 
 ;0x03BBFA60=R7_GJ
 0x03BBFA60=R7_GJ
@@ -24,7 +24,7 @@
 0x05028A11=020020
 
 ;0x054AA74F=~z~Come on, Niko. This is stupid. All for a woman.
-0x054AA74F=~z~得了，Niko。这太蠢了。不就一个女人嘛。
+0x054AA74F=~z~好啦，Niko，这太蠢了。不就一个女人嘛。
 
 ;0x05FD5132=010
 0x05FD5132=010
@@ -57,7 +57,7 @@
 0x0F37B14A=R7_PB
 
 ;0x0F83381E=~z~You knew?
-0x0F83381E=~z~你早就知道？
+0x0F83381E=~z~你都知道？
 
 ;0x0FC39AD6=~z~Stay in the car, let the big boys have their conversation.
 0x0FC39AD6=~z~待在车里，大人的事大人去讲。
@@ -174,7 +174,7 @@
 0x3E617A13=100
 
 ;0x3E989364=~z~No! I'm not going to stand here and have you call me disloyal.
-0x3E989364=~z~不干！我才不会傻站在这里让你说我不忠。
+0x3E989364=~z~不！我才不会傻站在这里让你说我不忠。
 
 ;0x407ACE4D=~z~This is fate telling us to give up, cousin.
 0x407ACE4D=~z~上天都劝我们放弃了，堂弟。
@@ -222,7 +222,7 @@
 0x4F4F48B8=~z~你只是要去兜两圈...你不会去找Vlad的，对吧？
 
 ;0x4FEABB70=~z~Niko... wait. Don't do anything stupid. Wait for me!
-0x4FEABB70=~z~Niko...等等。别做傻事。等等我！
+0x4FEABB70=~z~Niko...等等，别做傻事。等等我！
 
 ;0x5098E337=R7_NA
 0x5098E337=R7_NA
@@ -306,7 +306,7 @@
 0x6D56471C=~z~他会回来的。唯一能阻止他的就是他的棺材板。
 
 ;0x6DE47881=~z~Pride, pride - who needs this?
-0x6DE47881=~z~尊严，尊严－谁需要这玩意？
+0x6DE47881=~z~尊严？尊严？谁需要这玩意？
 
 ;0x6E024F7D=R7_TA
 0x6E024F7D=R7_TA
@@ -351,7 +351,7 @@
 0x7DEAC410=~z~我不知道...
 
 ;0x7E08A477=~z~You have been pushed around too much, Roman.
-0x7E08A477=~z~你被人使唤的够多了，Roman。
+0x7E08A477=~z~你被人使唤得 够多了，Roman。
 
 ;0x802389BB=~z~I guess I'll find out.
 0x802389BB=~z~以后我会知道的。
@@ -426,7 +426,7 @@
 0x9D87FC3C=R7_ND
 
 ;0x9D8DE381=~z~Cousin, this is crazy. We got each other. We don't need women in our lives.
-0x9D8DE381=~z~堂弟，这太疯狂了。我们互有彼此。我们的生活不需要女人插足。
+0x9D8DE381=~z~堂弟，这太疯狂了。我们互有彼此，不需要女人插足生活。
 
 ;0x9FFCE508=R7_CB
 0x9FFCE508=R7_CB
@@ -579,7 +579,7 @@
 0xCA759FE8=~z~你在这座城市里什么都不是。你会被碾碎的。
 
 ;0xCB783F49=~z~She's too good for me. Vlad should have her.
-0xCB783F49=~z~她对我来说太好了。Vlad才配得上他。
+0xCB783F49=~z~不配的是我，Vlad才配得上他。
 
 ;0xCB785F2E=~z~Let's hide the body, at least for a while.
 0xCB785F2E=~z~赶紧把尸体藏起来，至少还能拖一会儿。
@@ -630,7 +630,7 @@
 0xD88B3C13=~z~Mikhail Faustin把我当兄弟。他会来报仇的。
 
 ;0xD939DACC=~z~I will show Vladdy what he can have.
-0xD939DACC=~z~我就要去告诉Vladdy他配得上甚么。
+0xD939DACC=~z~我会告诉Vladdy他配个屁。
 
 ;0xDA60FCA5=~z~What have you done?
 0xDA60FCA5=~z~你做了什么啊？
@@ -639,7 +639,7 @@
 0xDA99F645=~z~现在...把他们赶出去！
 
 ;0xDAAADDBA=~z~They will not use Mallorie as well. She is too good for that.
-0xDAAADDBA=~z~他们不会这样利用Mallorie。要是这样对她已经太好了。
+0xDAAADDBA=~z~他们别想再利用Mallorie。他们不配。
 
 ;0xDAEBF06F=~z~Don't do anything stupid, cousin.
 0xDAEBF06F=~z~别做什么傻事，堂弟。
