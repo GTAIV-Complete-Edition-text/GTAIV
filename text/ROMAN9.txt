@@ -6,7 +6,7 @@
 0x0933180F=~s~按~INPUT_MOUSE_LMB~点击「WEB」图标。
 
 ;0x0B3D2785=~s~This is your Email Inbox. Your Inbox lists all the emails you have received.
-0x0B3D2785=~s~这是你的收件箱。你的收件箱中会显示你收到的所有邮件。
+0x0B3D2785=~s~这是你的收件箱，收件箱中会显示你收到的所有邮件。
 
 ;0x0CF7D82E=~s~Go and use one of the computer terminals.
 0x0CF7D82E=~s~找台电脑上机。
@@ -84,7 +84,7 @@
 0x89D25442=~s~点击导航栏中的房子图标会返回导航首页。
 
 ;0x937CEBFD=~s~The flashing icon on the radar shows the location of the internet cafe.
-0x937CEBFD=~s~小地图上闪烁的图标表示网吧的位置。
+0x937CEBFD=~s~小地图上闪烁的图标表示网吧。
 
 ;0x9607C7FF=~s~Press ~CANCEL~ to go back to the previous page or click the back arrow icon on the browser bar.
 0x9607C7FF=~s~按~CANCEL~或点击导航栏上的返回图标以回到上一页。
@@ -114,13 +114,13 @@
 0xD5BEF1BF=~s~点此发送「积极」的回复。
 
 ;0xDB62DFD4=~s~Use ~PAD_RSTICK_UPDOWN~ to scroll up and down the web page.
-0xDB62DFD4=~s~使用~PAD_RSTICK_UPDOWN~上下滚动页面。
+0xDB62DFD4=~s~用~PAD_RSTICK_UPDOWN~上下滚动页面。
 
 ;0xDEFCAD6B=~s~Clicking the home icon on the browser bar will take you back to the main homepage.
 0xDEFCAD6B=~s~点击导航栏中的房子图标会返回导航首页。
 
 ;0xE058EDCC=~s~Use ~PAD_RSTICK_UPDOWN~ to scroll up and down the web page.
-0xE058EDCC=~s~使用~PAD_RSTICK_UPDOWN~上下滚动页面。
+0xE058EDCC=~s~用~PAD_RSTICK_UPDOWN~上下滚动页面。
 
 ;0xE0C34740=~s~To logout of the computer press ~INPUT_PICKUP~, ~INPUT_FRONTEND_PAUSE~, or click the "LOGOUT" icon on the desktop.
 0xE0C34740=~s~按下~INPUT_PICKUP~或~INPUT_FRONTEND_PAUSE~，或点击桌面上的「LOGOUT」图标以从本机注销。
