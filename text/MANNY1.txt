@@ -3,7 +3,7 @@
 0x01D71795=~s~进入一辆非船只的载具。
 
 ;0x0B6D80B4=Don't get too close or the dealer will spot you.
-0x0B6D80B4=靠太近的话毒贩会发现你。
+0x0B6D80B4=不要跟得太紧，否则毒贩会发现你。
 
 ;0x0F37B885=To immediately equip weapons use quick swap.~n~Hold ~INPUT_PICKUP~ and press a direction on ~PAD_DPAD_ALL~.
 0x0F37B885=使用快速切换可立刻装备武器。~n~按住~INPUT_PICKUP~后按下~PAD_DPAD_ALL~上的一个方向键。
@@ -12,7 +12,7 @@
 0x16A3475C=按~PAD_DPAD_RIGHT~选择投掷物，按~PAD_DPAD_DOWN~选择霰弹枪，按~PAD_DPAD_LEFT~选择手枪，按下~PAD_DPAD_UP~可以在突击步枪与冲锋枪间切换。
 
 ;0x1B8EC614=~r~The dealer saw you.~s~
-0x1B8EC614=~r~毒贩看到你了。~s~
+0x1B8EC614=~r~毒贩发现你了。~s~
 
 ;0x29ABB5F9=~s~Leave the warehouse.
 0x29ABB5F9=~s~离开仓库。
@@ -87,7 +87,7 @@
 0xCD8D615F=~s~停到毒贩~y~后面。
 
 ;0xDA95D83F=~s~Don't get too close to the ~r~dealer~s~ or he'll spot you. Back off.
-0xDA95D83F=~s~别太靠近~r~毒贩，~s~否则他会看到你。往后退点。
+0xDA95D83F=~s~不要跟得太紧，否则~r~毒贩~s~会发现你。往后退点。
 
 ;0xDB2C3131=~r~You left the deal.~s~
 0xDB2C3131=~r~你离开了交易现场。~s~
