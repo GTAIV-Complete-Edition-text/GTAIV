@@ -957,7 +957,7 @@
 0xCA0D5F0E=您确定要改变您的设置吗？
 
 ;0xFB90C867=Warning: A critical control is unmapped. Do you wish to exit control mapping?~n~Changes made since your last save will be lost.
-0xFB90C867=警告：一个关键按键未被分配。您仍要退出自定义按键设置吗？~n~一旦确认，之前的设置将全部丢失。
+0xFB90C867=警告：存在未被分配的关键按键。您仍要退出自定义按键设置吗？~n~一旦确认，之前的设置将全部丢失。
 
 ;0xE333B183=Mouse Aim
 0xE333B183=鼠标瞄准
@@ -7936,7 +7936,7 @@
 0xC13DE14F=文件夹能将片段分类。点击一个文件夹以展开它。
 
 ;0x3C2C050A=To add a clip to the video, drag it onto the Storyboard. Multiple instances of the same clip can exist in a given video.
-0x3C2C050A=要向视频中添加一个片段，将剪辑拖动至Storyboard。同一片段可在视频中多次使用。
+0x3C2C050A=要向视频中添加片段，将剪辑拖动至Storyboard。同一片段可在视频中多次使用。
 
 ;0x568239B6=To enter text, double click on the text box. To change the text settings click the Font, Size, Color and Duration values. To add text to the video, drag it onto the Text Timeline.
 0x568239B6=双击文本框以输入文本。点击字体、大小、颜色与持续时间可修改文本样式。将文本拖入文本时间轴可将其插入视频。
@@ -7948,7 +7948,7 @@
 0xE4B3DFD9=计时器：点击时会在片段时间与视频时间之间切换。
 
 ;0x053920EB=PLACE MARKER: Click to place a marker at the current frame.
-0x053920EB=位置标记：点击以在当前帧放置一个标记。
+0x053920EB=位置标记：点击以在当前帧放置标记。
 
 ;0x16D3C420=PREVIOUS MARKER: Click to select previous marker.
 0x16D3C420=前一标记：点击以选中前一标记。
@@ -8272,7 +8272,7 @@
 0x217DC8F9=GTA IV无法载入。
 
 ;0x7486E572=Warning: A critical control is unmapped. Do you wish to exit control mapping?~n~Changes made since your last save will be lost.
-0x7486E572=警告：一个关键按键未被分配。您仍要退出自定义按键设置吗？~n~一旦确认，之前的设置将全部丢失。
+0x7486E572=警告：存在未被分配的关键按键。您仍要退出自定义按键设置吗？~n~一旦确认，之前的设置将全部丢失。
 
 ;0x302ACCE0=Error - Invalid Driver Version. Please download the latest drivers from the ATI website.
 0x302ACCE0=错误 - 驱动版本不可用。请从 ATI 官网下载最新驱动。
@@ -23463,7 +23463,7 @@
 0xFB743CD3=NB，我最后乘公交从医院回来了。遇到了一个刚到这儿的丹麦游客。我送她回了她的宾馆，给她留下了对自由州难以磨灭的印象。Rom
 
 ;0x5EA9033B=Had to get one of the drivers to get me back from hospital. Man, that guy don't like doing favours. Try and pick me up next time. Rom
-0x5EA9033B=最后只能让手下的一个司机来医院接我。老弟，那家伙不喜欢送人情。下次尽量来接我吧。Rom
+0x5EA9033B=最后只能让手下的司机来医院接我。老弟，那家伙不喜欢送人情。下次尽量来接我吧。Rom
 
 ;0x90F2E7CE=Why didn't you come to the hospital? Hope you're okay. Rom
 0x90F2E7CE=你怎么没来医院？希望你没事。Rom
@@ -24033,7 +24033,7 @@
 0x2D608139=你人呢？Brucie出院后被迫自己回家了。那他妈不是我的风格！ - B
 
 ;0x5D7D616E=Shit, NB. When you didn't show at the hospital I fucking karate choped this other patient - broke his other leg as well. Fuck me man. I'm dangerous. - B
-0x5D7D616E=妈的，NB。你没来医院，气得我当场就用空手道把一个病友打了一顿－打断了他的另一条腿。我操兄弟，我超危险。 - B
+0x5D7D616E=妈的，NB。你没来医院，气得我当场就用空手道把一个病友打了一顿，结果打断了他的另一条腿。我操兄弟，我超危险。 - B
 
 ;0xEF4F051B=There better be a fucking good reason for you leaving this alpha at the hospital. If there ain't, you're buying the next magnum of champagne. Yeah! - B
 0xEF4F051B=你把猛男我丢在医院最好有个好点的理由。要是没有，下一份大瓶香槟你请。耶！ - B
@@ -24336,7 +24336,7 @@
 0x2B1955F7=Ray
 
 ;0x0FB8CEDC=Nicky - this might be of use. Look out for this guy, Alonzo. He's one of Benavidez's goons. He'll tell you what you need to know if you're persuasive. Ciao
-0x0FB8CEDC=Nicky，这个可能能用上。去找这个叫Alonzo的人。他是Benavidez的一个同伙。要是你能令他信服的话，他就会告诉你你需要的情报了。再见
+0x0FB8CEDC=Nicky，这个可能能用上。去找这个叫Alonzo的人。他是Benavidez的同伙之一。要是你能令他信服的话，他就会告诉你你需要的情报了。再见
 
 ;0xD0CC5104=Nicky, I need you to meet me and Phil at a depot in Normandy. Ciao
 0xD0CC5104=Nicky，我需要你到Normandy的一个仓库来找我和Phil。再见
