@@ -21,7 +21,7 @@
 0x06479426=FCR3_CONV4_LA
 
 ;0x07830EFB=~z~Sure. I miss things about home, but I, I... I think things are ruined now.
-0x07830EFB=~z~确实，我挺想念老家的人和事的，不过我，我...我想现在那些都被毁了。
+0x07830EFB=~z~确实，我挺想念老家的人和事的，不过我、我...我想现在那些都被毁了。
 
 ;0x093C5699=FCR3_CONV6_MM
 0x093C5699=FCR3_CONV6_MM
@@ -57,7 +57,7 @@
 0x15153A43=~z~什么都是假的。
 
 ;0x1536866B=~z~In the Old Country, the only thing you could count on was a bomb landing on your bedroom roof in the night.
-0x1536866B=~z~在故国，你唯一能指望的就是晚上一颗炸弹投到你的卧室顶上。
+0x1536866B=~z~在故国，能确定的事只有晚上会有炸弹投到自家屋顶上。
 
 ;0x1586BF7B=FCR3_CONV2_KO
 0x1586BF7B=FCR3_CONV2_KO
@@ -84,7 +84,7 @@
 0x18C1C70F=~z~待到他们丧失动力或者死去。
 
 ;0x19A3333B=~z~Thanks. Don't you miss home? You've been here a long time. You never get home sick?
-0x19A3333B=~z~谢了。不过你不想家吗？你来这儿都那么久了，就没有一点思乡吗？
+0x19A3333B=~z~谢了。不过你不想家吗？你来这儿那么久了，就没有一点思乡吗？
 
 ;0x1B02B02C=FCR3_CONV4_LE
 0x1B02B02C=FCR3_CONV4_LE
@@ -159,7 +159,7 @@
 0x2B2F117A=FCR3_AMERICA_CM
 
 ;0x2BD6D7A2=~z~I miss the good times we had as children, when our fathers were too drunk to beat us,
-0x2BD6D7A2=~z~我怀念我们在童年共度的美好时光，当我们的父亲都醉到打不动我们的时候，
+0x2BD6D7A2=~z~我很怀念美好的童年时光，当我们的父亲都醉到打不动我们的时候，
 
 ;0x2D5B7043=~z~It's stupid. Everything is just advertising with nothing to back it up.
 0x2D5B7043=~z~是蠢逼。所有东西都是夸夸其谈没有实力。
@@ -198,7 +198,7 @@
 0x3A750260=FCR3_RELATIONSHIPS_DH
 
 ;0x3A930542=~z~To seize them you end up in so much debt that you'll be a slave for the rest of your life.
-0x3A930542=~z~要想抓住机会，就会背上一屁股债，余生都得做别人的奴隶。
+0x3A930542=~z~要想抓住它，就会背上一屁股债，余生都得做别人的奴隶。
 
 ;0x3C0DC9A5=~z~and we are making trouble for any fools who get in our way.
 0x3C0DC9A5=~z~横扫前路挡道混蛋。
@@ -456,7 +456,7 @@
 0x792FFA5F=FCR3_CONV2_KF
 
 ;0x794FCE9C=~z~They stay on the highway like every other chump. I'm an innovator, Niko.
-0x794FCE9C=~z~他们那些傻子都待在高速路上。我是个创新者，Niko。
+0x794FCE9C=~z~那些傻子都待在高速路上。我是个创新者，Niko。
 
 ;0x79B67360=~z~Now - now I live here. And life is good.
 0x79B67360=~z~现在，现在我住在这儿，活得挺滋润。
@@ -525,7 +525,7 @@
 0x87D44FCA=FCR3_CONV8_NR
 
 ;0x88B526DD=~z~I bet you would like to teach them, wouldn't you cousin?
-0x88B526DD=~z~那你肯定很乐意教他们，对吧，堂弟？
+0x88B526DD=~z~你肯定很乐意教他们闭嘴吧，堂弟？
 
 ;0x88E082BE=100010100010100010100010010100010010010010100100010100010100
 0x88E082BE=100010100010100010100010010100010010010010100100010100010100
@@ -693,7 +693,7 @@
 0xB38CE26F=~z~想让一个人忘记，最好的方子就是丰满圆润的美利坚奶子。
 
 ;0xB428FDC4=~z~The lights, the titties, the food, the opportunities. Come on, Niko. It's kind of incredible.
-0xB428FDC4=~z~灯光、奶子、食物、机遇。得了吧，Niko。这可有点牛逼啊。
+0xB428FDC4=~z~灯火、奶子、食物、机遇。得了吧，Niko。这可有点牛逼啊。
 
 ;0xB4F3EC56=FCR3_CONV2_KT
 0xB4F3EC56=FCR3_CONV2_KT

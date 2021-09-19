@@ -8479,7 +8479,7 @@
 0xF7EE4726=街头学校
 
 ;0xECBCB203=Street Sweeper
-0xECBCB203=清道夫
+0xECBCB203=街道清扫者
 
 ;0x0893E9B1=The Puerto Rican Connection
 0x0893E9B1=波多黎各贩毒网
@@ -8767,7 +8767,7 @@
 0x4234808E=街头学校
 
 ;0x6E5E9C50=Street Sweeper
-0x6E5E9C50=清道夫
+0x6E5E9C50=街道清扫者
 
 ;0x64040227=The Puerto R...
 0x64040227=波多黎各贩毒网
@@ -13462,7 +13462,7 @@
 0x0A4F81F9=~r~你错过了与French Tom的约会。
 
 ;0xA9058A93=~s~You have an appointment reminder. This will be displayed 2 hours before a scheduled appointment, and again 30 minutes before.
-0xA9058A93=~s~你有一个约会备忘。它将在约会前两小时显示，并在约会前半小时再次显示。
+0xA9058A93=~s~你有一个约会备忘。它将在约会的两小时前显示，并在约会的半小时前再次显示。
 
 ;0x0EC85617=~s~The ~BLIP_54~ icon on your radar indicates the location of your date.
 0x0EC85617=~s~小地图上的~BLIP_54~图标表示你的约会地点。
@@ -16980,7 +16980,7 @@
 0xE78C4E7A=~s~按~ACCEPT~再跳一支舞。~n~按~INPUT_PICKUP~退出。
 
 ;0xC034F6C8=~s~You will be reminded about your date with French Tom an hour before the arranged time.
-0xC034F6C8=~s~约会前一小时，将会提醒你你与French Tom的约会。
+0xC034F6C8=~s~约会前一小时，将会提醒你去与French Tom约会。
 
 ;0x322CF8C7=Glasses~n~Press ~PAD_UP~ to view hats.~n~Press ~PAD_DOWN~ to view outfit.~n~Use ~PAD_LEFT~ and ~PAD_RIGHT~ to change glasses.~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.
 0x322CF8C7=眼镜~n~按~PAD_UP~查看帽子。~n~按~PAD_DOWN~查看套装。~n~用~PAD_LEFT~~PAD_RIGHT~更换眼镜。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。
@@ -17595,7 +17595,7 @@
 0xE780EA14=停到Brucie附近，或按~INPUT_VEH_HORN~鸣笛引起他的注意。
 
 ;0x2564A7EC=When you have an appointment or a date it will be added to the organizer on your phone.
-0x2564A7EC=你的安排和约会都会被添加到你手机的日程中。
+0x2564A7EC=你的安排和约会都会被添加到手机的日程中。
 
 ;0xE55FF28B=Press ~INPUT_VEH_HORN~ to sound your horn to attract Brucie's attention.
 0xE55FF28B=按~INPUT_VEH_HORN~鸣笛引起Brucie的注意。

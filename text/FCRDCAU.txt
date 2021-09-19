@@ -48,7 +48,7 @@
 0x1800CE55=FCR3_DRUNK5_SM
 
 ;0x194F320A=~z~About games of chance, about hard work and opportunity, about pleasuring women -
-0x194F320A=~z~学习运气游戏，学习努力与机遇，学习取悦女人－
+0x194F320A=~z~学习运气游戏，学习努力与机遇，学习取悦女人。
 
 ;0x19FEC3C7=100010100010100010100100100010100010100010
 0x19FEC3C7=100010100010100010100100100010100010100010
@@ -81,7 +81,7 @@
 0x332AFAD2=~z~你喝了那么多还能保持清醒就很走运了。
 
 ;0x347AA607=~z~You vomit, you cry, you read self help books. You are all man, Roman!
-0x347AA607=~z~你呕吐，你大哭，你读鸡汤书。你完全是个人，Roman！
+0x347AA607=~z~你呕吐，你大哭，你会读鸡汤书。你完全是个人，Roman！
 
 ;0x34BB47B3=FCR3_DRUNK1_HN
 0x34BB47B3=FCR3_DRUNK1_HN
@@ -96,7 +96,7 @@
 0x385D6ECB=100010100100010100100100010010100100010
 
 ;0x38871A21=~z~I am an animal. I am the beast. The beast.
-0x38871A21=~z~我是个禽兽。我是个野兽。是野兽。
+0x38871A21=~z~我是头禽兽。是只野兽。是野兽。
 
 ;0x3B950B27=~z~I'm sober. I had a lot to drink, but I'm straight sober.
 0x3B950B27=~z~我很清醒，我都喝了一大堆了，但我还很清醒。
@@ -126,7 +126,7 @@
 0x498EBC3C=~z~你说是就是吧。
 
 ;0x4ACDBEAE=~z~Piss off! I can hold the drink. I am a warrior.
-0x4ACDBEAE=~z~放屁！我能超喝。我是个战士。
+0x4ACDBEAE=~z~放屁！我超能喝。我是个战士。
 
 ;0x4B97C04E=~z~Fuck you! You can't take me. I'm a maniac.
 0x4B97C04E=~z~去你妈的！你可不能带走我。我是个狂人。
@@ -207,7 +207,7 @@
 0x70048965=~z~你看见店里的那些奶子了吗？
 
 ;0x70095F81=~z~Fuck you. Fuck you, Niko Bellic. He was looking at me like he wanted to fight.
-0x70095F81=~z~去你妈的，去你妈的，Niko Bellic。他看我的时候一副想打架的样子。
+0x70095F81=~z~去你妈的。去你妈的，Niko Bellic。他看我的时候一副想打架的样子。
 
 ;0x72D0F696=FCR3_DRUNK3_JN
 0x72D0F696=FCR3_DRUNK3_JN
@@ -219,7 +219,7 @@
 0x77835032=FCR3_DRUNK2_II
 
 ;0x7950720F=~z~Like he thought I was a nobody. I'm a somebody.
-0x7950720F=~z~就像他不把我放在眼里。我可是大人物。
+0x7950720F=~z~就像是没把我放在眼里。我可是大人物。
 
 ;0x7BEDD0FB=FCR3_DRUNK2_IB
 0x7BEDD0FB=FCR3_DRUNK2_IB

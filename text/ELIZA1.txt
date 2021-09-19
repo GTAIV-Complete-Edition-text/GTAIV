@@ -6,7 +6,7 @@
 0x402B006D=~s~保护Packie。
 
 ;0x444B02F3=~s~Hold ~INPUT_AIM~ to look through the scope of the rifle, when it is equipped.
-0x444B02F3=~s~装备狙击枪时，~n~按住~INPUT_AIM~开镜。
+0x444B02F3=~s~装备狙击枪时，按住~INPUT_AIM~开镜。
 
 ;0x53F92809=~s~Make your way to the ~y~vantage point.
 0x53F92809=~s~前往~y~有利位置。
@@ -72,8 +72,8 @@
 0xF2DC65C9=~s~去屋顶拿~g~狙击步枪。
 
 ;0xF3FEEBBC=~s~Hold ~PAD_RB~ to look through scope of the rifle when it is equipped.
-0xF3FEEBBC=~s~装备狙击枪时，~n~按住~PAD_RB~开镜。
+0xF3FEEBBC=~s~装备狙击枪时，按住~PAD_RB~开镜。
 
 ;0xF59EB0CB=~s~Use ~INPUT_AIM~ to look through the scope of the rifle, when it is equipped.
-0xF59EB0CB=~s~装备狙击枪时，~n~按住~INPUT_AIM~开镜。
+0xF59EB0CB=~s~装备狙击枪时，按住~INPUT_AIM~开镜。
 
