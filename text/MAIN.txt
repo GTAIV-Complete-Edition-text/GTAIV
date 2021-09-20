@@ -15342,10 +15342,10 @@
 0x23F3D3A6=~s~~1~:~1~前到Alex家。
 
 ;0x156B6993=~s~Go to Liberated Woman's by ~1~:0~1~.
-0x156B6993=~s~~1~:0~1~前到Liberated Woman家。
+0x156B6993=~s~~1~:0~1~前到自由女性家。
 
 ;0x0760CD7E=~s~Go to Liberated Woman's by ~1~:~1~.
-0x0760CD7E=~s~~1~:~1~前到Liberated Woman家。
+0x0760CD7E=~s~~1~:~1~前到自由女性家。
 
 ;0x8D93A4C2=~s~Go to Kiki's by 0~1~:0~1~.
 0x8D93A4C2=~s~0~1~:0~1~前到Kiki家。
@@ -15360,10 +15360,10 @@
 0x06B1161B=~s~~1~:~1~前到Kiki家。
 
 ;0xF0AD7461=~s~Go to LawChick's by ~1~:0~1~.
-0xF0AD7461=~s~~1~:0~1~前到LawChick家。
+0xF0AD7461=~s~~1~:0~1~前到律师小妹家。
 
 ;0xD699C03E=~s~Go to LawChick's by ~1~:~1~.
-0xD699C03E=~s~~1~:~1~前到LawChick家。
+0xD699C03E=~s~~1~:~1~前到律师小妹家。
 
 ;0x6DA65C08=~s~Go to Carmen's by 0~1~:0~1~.
 0x6DA65C08=~s~0~1~:0~1~前到Carmen家。
@@ -16944,10 +16944,10 @@
 0x430DFE8C=警方已停运列车。~n~按~INPUT_VEH_EXIT~下车。
 
 ;0xA949B5B8=Liberated Woman
-0xA949B5B8=Liberated Woman
+0xA949B5B8=自由女性
 
 ;0x528A34B8=LawChick
-0x528A34B8=LawChick
+0x528A34B8=律师小妹
 
 ;0xF9B5ADCC=SoBoHoe
 0xF9B5ADCC=SoBoHoe
@@ -18507,10 +18507,10 @@
 0x342E66EF=切换
 
 ;0x1018E88D=Date with LIBERATED WOMAN
-0x1018E88D=与LIBERATED WOMAN约会
+0x1018E88D=与自由女性约会
 
 ;0x01EA4C30=Date with LAWCHICK
-0x01EA4C30=与LAWCHICK约会
+0x01EA4C30=与律师小妹约会
 
 ;0xEC7D2156=Date with SOBOHOE
 0xEC7D2156=与SOBOHOE约会
