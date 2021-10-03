@@ -30,7 +30,7 @@
 0x1930C7D1=C3_JE
 
 ;0x1A219625=~z~The guy I told you about. The guy you need to eliminate. The only way you'll get to him is in the air.
-0x1A219625=~z~我跟你讲过的那人，需要你消灭的人。你只能从空中接近他。
+0x1A219625=~z~我跟你讲过的那人，需要你消灭的人。只能从空中接近他。
 
 ;0x1E4C0AA2=C3_CA
 0x1E4C0AA2=C3_CA
@@ -213,7 +213,7 @@
 0x780834D9=~z~我们需要把它搞到手，你得开辆车然后跟上他。
 
 ;0x79A96CAB=~z~Call me up. My number never existed. No. I'm not too worried about that.
-0x79A96CAB=~z~打电话找我，根本没这号码。不。我不必担心被人揭发。
+0x79A96CAB=~z~打电话找我，根本没这号码。不，我不必担心被人揭发。
 
 ;0x79CA0BF3=~z~This does not feel correct.
 0x79CA0BF3=~z~这感觉不对。
@@ -234,7 +234,7 @@
 0x7DB5FCDE=010100010
 
 ;0x7DF2745D=~z~Whatever. It doesn't really matter. The guy's gotta go.
-0x7DF2745D=~z~算了。原因不重要。这人不能留。
+0x7DF2745D=~z~算了，原因不重要。这人不能留。
 
 ;0x7E83CE86=010100
 0x7E83CE86=010100

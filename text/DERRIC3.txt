@@ -36,7 +36,7 @@
 0x611DEE9A=~s~干掉~r~护卫。
 
 ;0x66E5F7FA=~s~Get to the ~y~escape car.
-0x66E5F7FA=~s~取得~y~逃亡车。
+0x66E5F7FA=~s~取得~y~逃跑用车。
 
 ;0x67C97CF5=~s~Get back in the ~b~truck.
 0x67C97CF5=~s~进入~b~卡车。
@@ -54,7 +54,7 @@
 0x939BD391=~s~把~g~木材~s~打下平板车。
 
 ;0x983FB1F7=~r~The flatbed has been destroyed.
-0x983FB1F7=~r~平板车被毁坏了。
+0x983FB1F7=~r~平板车被毁了。
 
 ;0xA3D97520=~s~Kill ~r~Aiden.
 0xA3D97520=~s~杀了~r~Aiden。
@@ -87,7 +87,7 @@
 0xDC2C65C5=~s~你把~b~Packie~s~落下了。
 
 ;0xE6604E37=~r~The escape car has been destroyed.
-0xE6604E37=~r~逃亡车已经被毁坏。
+0xE6604E37=~r~逃跑用车被毁了。
 
 ;0xF36C1338=~s~Pick up the ~g~rocket launcher.
 0xF36C1338=~s~拿起~g~火箭发射器。

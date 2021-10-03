@@ -12,7 +12,7 @@
 0x0DFDCC56=~s~连按~INPUT_JUMP~爬上直升机。
 
 ;0x13D26C7C=~s~Jacob is waiting for you in a ~b~car~s~ in Alderney.
-0x13D26C7C=~s~Jacob在Alderney的一辆~b~车~s~上等你。
+0x13D26C7C=~s~Jacob在Alderney的~b~车~s~上等你。
 
 ;0x161CF209=~s~Follow Pegorino's ~r~goons~s~ they'll lead you to Pegorino.
 0x161CF209=~s~尾随Pegorino的~r~手下~s~找到Pegorino。
@@ -57,7 +57,7 @@
 0x6249D305=~r~车被毁了。
 
 ;0x720DA9DD=~s~Roman and Jacob are waiting for you in a ~b~car~s~ in Alderney.
-0x720DA9DD=~s~Roman和Jacob在Alderney的一辆~b~车~s~上等你。
+0x720DA9DD=~s~Roman和Jacob在Alderney的~b~车~s~上等你。
 
 ;0x74A477BA=~r~Dimitri got away.
 0x74A477BA=~r~Dimitri逃走了。

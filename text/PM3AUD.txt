@@ -43,7 +43,7 @@
 0x09CFC70C=010100
 
 ;0x0BF4DAF3=~z~Shit, they got me pinned down.
-0x0BF4DAF3=~z~操，我被封位了。
+0x0BF4DAF3=~z~操，我被制住了。
 
 ;0x0C43E9B5=~z~Patrick, you was such a sweet little boy when I left this city.
 0x0C43E9B5=~z~Patrick，我刚离开这儿的时候你还是个好孩子。
@@ -307,7 +307,7 @@
 0x3CA4AB39=~z~容易洗就行。
 
 ;0x3DB3BE70=~z~I'm under heavy fire boys!
-0x3DB3BE70=~z~我受到了猛烈的攻击，小子们！
+0x3DB3BE70=~z~遭遇猛烈攻击，小子们！
 
 ;0x3DBB6D9C=PM3_BN
 0x3DBB6D9C=PM3_BN
@@ -382,7 +382,7 @@
 0x4B871D5D=~z~场面控制住之后，~n~Derrick就用炸药炸开金库大门。
 
 ;0x4BA9D1D0=~z~We got company, people.
-0x4BA9D1D0=~z~待在一起，各位。
+0x4BA9D1D0=~z~条子来了，各位。
 
 ;0x4BEBFEDD=190190210120210210020100010
 0x4BEBFEDD=190190210120210210020100010
@@ -424,7 +424,7 @@
 0x524FE951=~z~Let's move it people, there's nothing to see here.
 
 ;0x5281762F=~z~You was gone a long time, Derrick. From what I remember, you've changed too.
-0x5281762F=~z~你走的有点久了，Derrick。~n~你也和我记忆中的你改变了太多。
+0x5281762F=~z~你走得有点久了，Derrick。~n~你也和我记忆中的你改变了太多。
 
 ;0x532E3E44=~z~Yeah? They said catching that pass at my high school championship football game was a "bad idea"
 0x532E3E44=~z~是吗？我在高校橄榄球决赛的那次接球也被说是「坏主意」，
@@ -466,7 +466,7 @@
 0x590E8B29=202
 
 ;0x592FF959=~z~This is the National Office of Security Enforcement - come out now with your hands up.
-0x592FF959=~z~我们是National Office of Security Enforcement－举起手来，乖乖投降。
+0x592FF959=~z~我们是国家安全办公室。举起手来，乖乖投降。
 
 ;0x593C96CF=~z~Well it's good enough for me.
 0x593C96CF=~z~对我来说够了。
@@ -481,7 +481,7 @@
 0x5D505600=~z~来吧。
 
 ;0x5E08206E=~z~Niko is a trip, man, I met him through that Puerto Rican coke dealer...
-0x5E08206E=~z~Niko是个猛男，老兄，我在波多黎各可卡因贩子那里认识他的...
+0x5E08206E=~z~Niko是个猛男，老兄。我在波多黎各可卡因贩子那里认识他的...
 
 ;0x60503319=PM3_AU
 0x60503319=PM3_AU
@@ -619,7 +619,7 @@
 0x7F35749B=~z~我他妈之前该对他好一点的，这小子只是想帮点忙而已。
 
 ;0x7F5BCFDF=~z~Gerald was very clear about the way things is going down, boys.
-0x7F5BCFDF=~z~Gerald对流程的制定非常详细，小子们。
+0x7F5BCFDF=~z~Gerald制定的流程非常详细，小子们。
 
 ;0x7FFE44AD=~z~You shouldn't be near here, please move on.
 0x7FFE44AD=~z~You shouldn't be near here, please move on.
@@ -682,7 +682,7 @@
 0x8B29AE3A=~z~嘿？哟？我是枪会会员。
 
 ;0x8BD7DFB1=~z~Let's do this.
-0x8BD7DFB1=~z~准备上路吧。
+0x8BD7DFB1=~z~准备出发吧。
 
 ;0x8BED49C6=~z~There's been too many casualties already. Don't make this any more difficult.
 0x8BED49C6=~z~伤亡已经太多了。别让事情更加难办。
@@ -715,7 +715,7 @@
 0x8F310179=~z~那他妈是平民，老兄。
 
 ;0x8FD6955B=~z~Fucking Frankie, he'd be pissed if he could see us now.
-0x8FD6955B=~z~狗逼Frankie，他现在见着我们不得被吓得屁滚尿流。
+0x8FD6955B=~z~狗逼Frankie，现在他见着我们不得被气死。
 
 ;0x8FF52638=~z~PE4, I ain't never heard of that.
 0x8FF52638=~z~PE4？从来没听说过。
@@ -760,7 +760,7 @@
 0x9A7F53B0=~z~操，他们叫来增援了。
 
 ;0x9AED1E14=~z~Get these guys off our backs, Niko.
-0x9AED1E14=~z~解决跟来的这些家伙，Niko。
+0x9AED1E14=~z~解决这帮追兵，Niko。
 
 ;0x9B910606=~z~Alright boys, it's every man for himself until we get past these guys.
 0x9B910606=~z~Alright boys, it's every man for himself until we get past these guys.
@@ -862,13 +862,13 @@
 0xAEDBDC96=~z~You lead, Niko. Me and Derrick are gonna follow you to salvation.
 
 ;0xAF3D3908=~z~We ain't got time to go back in. Let's move out, boys.
-0xAF3D3908=~z~我们没时间再下去拿了。撤了吧，小子们。
+0xAF3D3908=~z~没时间再下去拿了。撤了吧，小子们。
 
 ;0xAFA9F992=~z~Fuck!
 0xAFA9F992=~z~操！
 
 ;0xAFDE7E6E=~z~There's another damn car load of them.
-0xAFDE7E6E=~z~又他妈来了一车狗人。
+0xAFDE7E6E=~z~又来了一车狗东西。
 
 ;0xAFF9EFB8=PM3_BJ
 0xAFF9EFB8=PM3_BJ
@@ -991,7 +991,7 @@
 0xC6207611=~z~蠢到只能在我的白痴弟弟Packie手下办事...
 
 ;0xC6C5BF76=~z~We just want to take the bank's money and get out of here.
-0xC6C5BF76=~z~我们拿了这家银行的钱就走。
+0xC6C5BF76=~z~我们拿了银行的钱就走。
 
 ;0xC7975EA0=~z~Shit, before the job even fucking started.
 0xC7975EA0=~z~Shit, before the job even fucking started.
@@ -1045,7 +1045,7 @@
 0xD23D735E=~z~Okay, everyone split up.
 
 ;0xD2891B45=~z~Eye on the road, Niko. We don't want you to have to break no bad news to our ma.
-0xD2891B45=~z~好好看路，Niko。~n~我们可不想让你跟我妈汇报什么坏消息。
+0xD2891B45=~z~好好看路，Niko。~n~我们可不想让你跟妈汇报什么坏消息。
 
 ;0xD2FB94F7=~z~There's no way we're gonna shake the heat in a cop car, man.
 0xD2FB94F7=~z~There's no way we're gonna shake the heat in a cop car, man.
@@ -1099,7 +1099,7 @@
 0xDD5D248E=~z~不许你这么说我的父母。
 
 ;0xDE0DB24E=~z~That does not make it any easier to hear. And we aren't safe yet.
-0xDE0DB24E=~z~那也没什么区别。~n~而且我们自己都还没安全呢。
+0xDE0DB24E=~z~那也没什么区别。~n~我们自己都还没安全呢。
 
 ;0xDE508346=100
 0xDE508346=100
@@ -1237,7 +1237,7 @@
 0xF65D3E6F=~z~We're going across here.
 
 ;0xF6DAE362=~z~They was so ugly that no one else would have 'em.
-0xF6DAE362=~z~他们太丑了，别人都看不上他们。
+0xF6DAE362=~z~他们太丑了，别人都看不上。
 
 ;0xF6DC9627=~z~We've got a clean line of sight, take 'em down!
 0xF6DC9627=~z~We've got a clean line of sight, take 'em down!

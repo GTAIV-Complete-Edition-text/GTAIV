@@ -45,7 +45,7 @@
 0x76B36B6E=用~INPUT_VEH_FLY_PITCH_UP~~INPUT_VEH_FLY_PITCH_DOWN~~INPUT_VEH_FLY_ROLL_LEFT~~INPUT_VEH_FLY_ROLL_RIGHT~稳定直升机。
 
 ;0x83652D14=Fly to the ~y~dropoff point~s~ on the south side of the Airport.
-0x83652D14=飞往位于机场南侧的~y~着陆点~s~。
+0x83652D14=飞往位于机场南侧的~y~着陆点。
 
 ;0x91430808=Use ~PAD_LSTICK_ALL~ to bank the helicopter in the direction you wish to move.
 0x91430808=用~PAD_LSTICK_ALL~控制直升机向指定方向倾斜。
@@ -90,7 +90,7 @@
 0xDB535CF7=飞往~y~目的地。
 
 ;0xE7EA761D=The helicopter is leaving, track it to its destination.
-0xE7EA761D=直升机正在离开，跟踪它到目的地。
+0xE7EA761D=直升机正在起飞，跟踪它到目的地。
 
 ;0xECA0581E=Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to line up the landing.
 0xECA0581E=按~INPUT_VEH_FLY_YAW_LEFT~或~INPUT_VEH_FLY_YAW_RIGHT~对齐着陆。

@@ -42,7 +42,7 @@
 0x342E1F3B=~r~Gordon和Michael死了。
 
 ;0x37057444=~s~To make sharper turns when in a boat press ~INPUT_VEH_HANDBRAKE~.
-0x37057444=~s~在船上时，若要急转弯请按~INPUT_VEH_HANDBRAKE~。
+0x37057444=~s~在船上时，按~INPUT_VEH_HANDBRAKE~急转弯。
 
 ;0x39E7A7BA=~s~Escape from the depot with ~b~Packie.
 0x39E7A7BA=~s~与~b~Packie~s~一起逃离仓库。
@@ -81,7 +81,7 @@
 0x6010A2D8=~s~找一辆四门的车。
 
 ;0x659E5261=~s~To make sharper turns when in a boat press ~INPUT_VEH_HANDBRAKE~.
-0x659E5261=~s~在船上时，若要急转弯请按~INPUT_VEH_HANDBRAKE~。
+0x659E5261=~s~在船上时，按~INPUT_VEH_HANDBRAKE~急转弯。
 
 ;0x6D59EFAA=~s~You left ~b~Michael~s~ behind, go back and get him.
 0x6D59EFAA=~s~你把~b~Michael~s~落下了，回去带上他。

@@ -114,7 +114,7 @@
 0x202BB033=PM1_JI
 
 ;0x216F924D=~z~Bet a guy like you thought he was going to be real popular with the lifers.
-0x216F924D=~z~我看你这样的人肯定会很受无期犯的欢迎。
+0x216F924D=~z~我看你这样的人肯定很受无期犯的欢迎。
 
 ;0x21A2249C=~z~Hell, I didn't think I was coming out here with a special needs kid.
 0x21A2249C=~z~靠，真没想到我会和一个残疾人一起来这儿。
@@ -171,7 +171,7 @@
 0x2951F5F6=PM1_RA
 
 ;0x2A5EA42F=~z~Well, you've got to do some time over here. See what you've been missing out on in your chaste European jails.
-0x2A5EA42F=~z~那你改天一定要来试试。补上你在欧洲禁欲监狱错过的经历。
+0x2A5EA42F=~z~那你改天一定要来试试。补上在欧洲禁欲监狱错过的经历。
 
 ;0x2B299065=~z~Oh yeah?
 0x2B299065=~z~是吗？
@@ -228,7 +228,7 @@
 0x3417A601=~z~当然，当然，像你这样的，肯定能享受到的。
 
 ;0x34711090=~z~about a big shipment coming in near the fish market.
-0x34711090=~z~是一条往鱼市附近来的大鱼。
+0x34711090=~z~有一条往鱼市附近来的大鱼。
 
 ;0x34B22706=PM1_CL
 0x34B22706=PM1_CL
@@ -312,7 +312,7 @@
 0x4B1F3DEC=~z~三合会在谋划什么，已经有人闻到气味了。
 
 ;0x4CA359D8=~z~Take some of your anti depressants if you're that damn upset about us robbing ya.
-0x4CA359D8=~z~你们要是不高兴被我们抢了，就吃点自己的抗抑郁药吧！
+0x4CA359D8=~z~你们要是不高兴被抢了，就吃点自己的抗抑郁药吧！
 
 ;0x4DDB4566=PM1_CT
 0x4DDB4566=PM1_CT
@@ -459,7 +459,7 @@
 0x70AA2517=~z~我靠，他们就是不肯放手。(BETA)
 
 ;0x710C9FEE=~z~So if this shipment is what they say it is, then it's going to smell fishy anyway.
-0x710C9FEE=~z~然后要是这批货真是他们说的鱼，那它肯定会有一股鱼味啊。
+0x710C9FEE=~z~要是这批货真是他们说的鱼，那它肯定会有一股鱼味啊。
 
 ;0x714CCED0=PM1_CAC
 0x714CCED0=PM1_CAC
@@ -561,7 +561,7 @@
 0x850FDBCA=~z~你最好能保证这批货没问题。要是是批腌鱼，我真的会很气的，Packie。
 
 ;0x865BEA07=~z~What makes you think that the information is legit?
-0x865BEA07=~z~你怎么知道他这情报不会是假的？
+0x865BEA07=~z~你怎么知道他这情报是不是真的？
 
 ;0x876E34FF=101101101011101101011101101011
 0x876E34FF=101101101011101101011101101011
@@ -705,7 +705,7 @@
 0xA154795B=~z~上车吧，Packie。
 
 ;0xA2DEA30C=~z~We wouldn't be working for him if our family still had the same status it did back in the day.
-0xA2DEA30C=~z~要是我们家族还有以前全盛时期的水平，我们根本就不会替他干活。
+0xA2DEA30C=~z~要是我们家族还有以前全盛时期的水平，根本就不会替他干活。
 
 ;0xA3E7EBB7=PM1_DAF
 0xA3E7EBB7=PM1_DAF
@@ -815,19 +815,19 @@
 0xBF265750=PM1_JC
 
 ;0xBF7CA654=~z~They do not like to be robbed, I guess. Not many people do.
-0xBF7CA654=~z~我猜他们大概是不喜欢被抢吧。很少有人喜欢这个。
+0xBF7CA654=~z~我猜他们是不喜欢被抢吧。很少有人喜欢这个。
 
 ;0xC02F49A9=100100
 0xC02F49A9=100100
 
 ;0xC0D43BC8=~z~I think me and you could get along. I need a guy like you on our team.
-0xC0D43BC8=~z~我觉得咱俩能处得来。我们的队伍里就需要你这样的人。
+0xC0D43BC8=~z~我觉得咱俩能处得来。我们就需要你这样的人。
 
 ;0xC115846B=~z~Let's kill these thieves!
 0xC115846B=~z~杀了这群毛贼！
 
 ;0xC1565FFB=~z~Who are we welcoming and what have they got that makes this drive worth the effort?
-0xC1565FFB=~z~我们要欢迎哪位，他们拉的货配得上我们这趟出的力吗？
+0xC1565FFB=~z~我们要欢迎哪位？他们拉的货配得上我们这趟出的力吗？
 
 ;0xC18E4DBA=~z~This is where the deal's meant to be going down.
 0xC18E4DBA=~z~交易应该是要在这儿进行。
@@ -905,7 +905,7 @@
 0xCE837690=~z~这可不是什么烟火大会。这他妈是突击步枪。(BETA)
 
 ;0xCEA8FAA0=~z~We're welcoming some of our cousins from the East, but we don't know what it is that they're bringing in exactly.
-0xCEA8FAA0=~z~我们欢迎的是几个来自东方的远房亲戚。不过说实话，我们也不知道他们拉的是什么货。
+0xCEA8FAA0=~z~欢迎的是几个来自东方的远房亲戚。不过说实话，我们也不知道拉的是什么货。
 
 ;0xCF041711=~z~These better be some good fucking pills. The housewives better be grateful.
 0xCF041711=~z~车里的药效果最好他妈好点。太太们也最好会感恩戴德。
@@ -947,7 +947,7 @@
 0xD7BE68BC=PM1_CD
 
 ;0xD835580E=~z~My brother Gerry's had word from Ray Boccino, his Italian contact,
-0xD835580E=~z~我哥Gerry从Ray Boccino地方收到的风，那是他的意大利线人，
+0xD835580E=~z~我哥Gerry从Ray Boccino那里收到的风，那是他的意大利线人，
 
 ;0xD8483FF0=~z~Stealing, gunfire, car chases, all the usual stuff.
 0xD8483FF0=~z~偷窃、枪战、飞车，就那些家常便饭的事。
@@ -1025,7 +1025,7 @@
 0xE9D30F0B=~z~这回的活得去Algonquin的码头干。
 
 ;0xEB40A5EC=~z~Not in this country. In Europe. They do things different there.
-0xEB40A5EC=~z~不是在这儿。那会儿还在欧洲。他们那边不太一样。
+0xEB40A5EC=~z~不是在这儿，那会儿还在欧洲。他们那边不太一样。
 
 ;0xEB859588=100
 0xEB859588=100
@@ -1040,7 +1040,7 @@
 0xEFA4BE2C=~z~这几天全城都会坚挺起来的。
 
 ;0xF02E3DAA=~z~My brother Gerald had word about it through this Italian, Ray Boccino.
-0xF02E3DAA=~z~我哥哥Gerald从Ray Boccino这个意大利人地方收到的风。
+0xF02E3DAA=~z~我哥哥Gerald从Ray Boccino这个意大利人那里收到的风。
 
 ;0xF085B532=PM1_DF
 0xF085B532=PM1_DF

@@ -9406,7 +9406,7 @@
 0xE64A1114=~z~~x~我想：「查得太细了吧。」
 
 ;0x17607420=~z~~x~So I stripped down to my boxer shorts,
-0x17607420=~z~~x~我就脱得只剩一条平角裤，
+0x17607420=~z~~x~我就脱得只剩一条平角裤。
 
 ;0xB17FA850=~z~~x~"Ah for fuu..."
 0xB17FA850=~z~~x~「啊，草...」
@@ -10075,7 +10075,7 @@
 0xF511E6D2=~z~~x~然后这些混蛋给了我一把椅子，我当时就没想试车。
 
 ;0x32FE6F2E=~z~~x~I wanted to watch television, I was just laying there comfortable.
-0x32FE6F2E=~z~~x~我只想看个电视，我就很舒服的躺在那。
+0x32FE6F2E=~z~~x~我只想看个电视，我就很舒服地躺在那。
 
 ;0x1FB8C8A3=~z~~x~"Test drive it! Test drive it!"
 0x1FB8C8A3=~z~~x~「试驾！快试驾！！」
@@ -10159,7 +10159,7 @@
 0xBF78C429=~z~~x~谢谢，谢谢。
 
 ;0x9AE87AF9=~z~~x~Thanks you ladies and gentlemen. Thank you.
-0x9AE87AF9=~z~~x~感谢各位女士们和先生们。谢谢。
+0x9AE87AF9=~z~~x~感谢各位女士和先生。谢谢。
 
 ;0x6C999E5C=~z~~x~You're far too kind. Thank you.
 0x6C999E5C=~z~~x~你们太客气了。谢谢。
@@ -13969,7 +13969,7 @@
 0x5D830771=搜索失败
 
 ;0x6FF8F151=Connecting to Wireless Device.
-0x6FF8F151=正在连接至无线设备。
+0x6FF8F151=正在连接至无线设备...
 
 ;0xCACA464B=Wireless Device Connected.
 0xCACA464B=无线设备已连接。
@@ -13990,7 +13990,7 @@
 0x43B85909=通缉罪名
 
 ;0x5675FE84=PREVIOUS offense
-0x5675FE84=PREVIOUS offense
+0x5675FE84=犯罪前科
 
 ;0x2014A108=NAME
 0x2014A108=姓名
@@ -14014,7 +14014,7 @@
 0x5A4FDCB0=未发现照片。
 
 ;0x979D2EC0=Nothing.
-0x979D2EC0=Nothing.
+0x979D2EC0=无。
 
 ;0xBD24BDF1=Armed Robbery
 0xBD24BDF1=武装抢劫
@@ -17142,7 +17142,7 @@
 0x642AB9C9=.
 
 ;0xF011E324=Searching for nearest match.
-0xF011E324=正在查找最佳匹配。
+0xF011E324=正在查找最佳匹配...
 
 ;0x111F1106=If you are arrested by the police you will be processed at a local police precinct.
 0x111F1106=若被逮捕，你将被移送地方警局。
@@ -23367,7 +23367,7 @@
 0x78BC1735=完了，Niko。他们会发现是我们杀了Vlad的。我明白的。我们的尸体会和Vlad的一块儿沉到Humboldt河河底的。Rom
 
 ;0x1BF15D95=Hey Cuz, thanks for saving my ass back there. I thought I'd played my last hand when that biker guy kidnapped me for the Russians. You're a fucking hero, man. Rom
-0x1BF15D95=嘿，堂弟，很感谢你能来救我。那个飞车党替俄国佬绑架我的时候，我都以为自己要没命了。你丫就是英雄，老弟。Rom
+0x1BF15D95=嘿，堂弟，感谢你能来救我。那个飞车党替俄国佬绑架我的时候，我都以为自己要没命了。你丫就是大英雄，老弟。Rom
 
 ;0x2C9BFEEA=Niko, you came to Liberty for penthouses, women, fast cars. Don't throw it away for revenge. Darko did not help, remember? Do the deal and maybe we can take a private jet down to Vice City!!
 0x2C9BFEEA=Niko，你来自由城就是为了公寓女人跟跑车。别为了复仇抛弃这些。Darko那次就没啥用，记得么？去交易吧，说不定我们还能开私人飞机去罪城！！
@@ -23658,7 +23658,7 @@
 0xA0F20534=Niko，你要是需要钱就打给我。我和 Badman 这儿一般都有活可干。就这 - LJ
 
 ;0xD03FE3CF=I got an escape plan for you, star. Keep your eyes on the sky, sight?
-0xD03FE3CF=我给你弄到撤退方式了，老兄。注意着点天上，好吗？
+0xD03FE3CF=我准备好撤退方案了，老兄。注意着点天上，好吗？
 
 ;0xC569CE23=Niko star - you done real good for I and I, but there be too much Babylon boderation inna de place. Me and Badman ain't delivering no more packages, sight. Hope you liked dat Huntley in dem mean colors. Easy - LJ
 0xC569CE23=Niko 兄弟，我们的活你完成得很好，但现在盯着那边的条子太多了。我和Badman不会再去送货了。希望你喜欢那辆成色不太好的Huntley。就这 - LJ
@@ -23964,10 +23964,10 @@
 0xDE1BE189=NB。去Algonquin的神之子服饰转转。VIP都去那儿，兄弟。给自己整套有范点的衣服。你骨子里就跟别人不一样，兄弟。你得包装包装才能跟别人比。这就是你的风范！ - B
 
 ;0xDAEBDB29=NB. Check your emails, bro. There's some work for you. It's paying heavy, bro. - B
-0xDAEBDB29=NB。看下你的邮箱，兄弟。有活儿给你。报酬丰厚，兄弟。 - B
+0xDAEBDB29=NB。看下邮箱，兄弟。有活给你。报酬丰厚，兄弟。 - B
 
 ;0x9CA35D7D=Niko, give me a call when you ain't killing people or working on your delts or whatever. There be new races going on all over town. Destroy that shit!! - B
-0x9CA35D7D=Niko，你要是哪天没忙着杀人、增肌，就给我打个电话。城里到处是新的赛车比赛。横扫他们！！ - B
+0x9CA35D7D=Niko，你要是哪天没忙着杀人或者增肌，就给我打个电话。城里到处是新的赛车比赛。横扫他们！！ - B
 
 ;0x4AD839E8=Niko - You won all the races, bro! Sick! You the fucking man - listen you can still do them again. Keep on top of that shit, but you already the champ so it ain't quite the same as the first time (never is). - B
 0x4AD839E8=Niko－你赢得了所有比赛，兄弟！我靠！你丫牛逼啊。还想比的话也可以比，这你得知道，不过你已经是冠军了，情况就和第一次的时候不一样了(也从没一样过)。 - B
@@ -24066,7 +24066,7 @@
 0x662891BC=兄弟，来我在BOABO的公寓找我。保持威猛。- B
 
 ;0x7B63BC32=Ice cold mother fucker like you should look into doing some vigilante work for $, bro. Cops are outsourcing that shit to private contractors. Check it out next time you hack a Police Computer. - B
-0x7B63BC32=你这种狗逼冷血怪可以考虑下接义警的活赚$，兄弟。条子现在把脏活外包给个体承包人了。下次你黑进警用电脑的时候记得看看。- B
+0x7B63BC32=你这种狗逼冷血怪可以考虑下接义警的活赚$，兄弟。条子现在把脏活外包给私人l。下次你黑进警用电脑的时候记得看看。- B
 
 ;0xCAC6DAF7=Niko, baby. You left Brucie up in the strip club. If you were jealous of the looks them bitches were giving me, you shoulda just said something. Work it off in the gym. You're my boy. - B
 0xCAC6DAF7=Niko，宝贝。你把Brucie丢在脱衣舞俱乐部了。你要是眼红那些贱人给我搞的场面，当时直说不就好了。多去健身房练练。你可是我哥们儿。 - B
@@ -24111,7 +24111,7 @@
 0xD77F3BD1=屁都看不见。给他们好好拍一张。 - X
 
 ;0xC8E39E9A=Yo money, sumthing's come up. Hit me at my crib coz i got work for y'all. $$$ - the X
-0xC8E39E9A=哟，老弟，有活来了。来我公寓找我，我这儿有活给你。$$$ - X
+0xC8E39E9A=哟，老弟，有活来了。来我家找我，我这儿有活给你。$$$ - X
 
 ;0x48E91EA3=That ain't Marlon! There another group near by? - the X
 0x48E91EA3=那个不是Marlon！附近还有别的人群聚集吗？ - X
@@ -24189,7 +24189,7 @@
 0x9A1133E5=U.L.P.C.
 
 ;0x2649408B=This is your target. Find him and take him out.
-0x2649408B=这是你的目标。找到他，然后做掉他。
+0x2649408B=这是你的目标。找到他，把他干掉。
 
 ;0x54069C09=PLACEHOLDER
 0x54069C09=PLACEHOLDER
@@ -24357,7 +24357,7 @@
 0x34ED18F0=Nicky，还有活给你做。你也知道，你做掉Teddy时候的那栋楼的保洁工作是我管的。我正在靠把他涂地的脑浆收拾干净赚钱。再见
 
 ;0x8DC44A9D=Nicky, we wanna keep an eye on you. Have you close. There's an apartment you're gonna use from now on in Alderney. Don't worry about your cousin sleepin' alone. He'll be safe. Ciao
-0x8DC44A9D=Nicky，我们想留意你一点，让你离我们近些。现在起Alderney的一间公寓可以给你用。别担心你的堂兄要一个人过夜，他不会有事的。再见
+0x8DC44A9D=Nicky，我们想对你多加留意，让你离我们近些。现在起Alderney的一间公寓归你用了。别担心你的堂兄要一个人过夜，他不会有事的。再见
 
 ;0x9B6E65F1=PLACEHOLDER
 0x9B6E65F1=PLACEHOLDER
@@ -25293,7 +25293,7 @@
 0xE2C0D4AB=Niko－来Castle Gardens码头的末端找我。
 
 ;0xD4FAB91F=If you're looking for work, call me. Use the public phone booth.
-0xD4FAB91F=如果你在找活儿干，打电话给我。用公共电话打。
+0xD4FAB91F=如果你在找活干，用公共电话联系我。
 
 ;0xC7331D90=Hey there, I think you were calling me about my car or something. Did we get cut off? If you're still interested call me between 9 in the morning and 8 at night. Gracie xx
 0xC7331D90=你好啊，就是你打给我咨询车子的事的吧。之前电话是断了吗？你要是还有兴趣的话，早上9点到晚上8点前都可以给我打电话。 Gracie xx
@@ -29067,7 +29067,7 @@
 0xDCA6DC04=~z~~x~这次就让她们从空中见识下龙心广场吧，兄弟？
 
 ;0xBF76E918=~z~~x~This is the life, ain't it girls? Flying over the city with a pair of rock hard studs.
-0xBF76E918=~z~~x~这才是生活啊，姑娘们。与两匹铁打的骏马在城市上空飞翔。
+0xBF76E918=~z~~x~这才是生活啊，姑娘。与两匹铁打的骏马在城市上空飞翔。
 
 ;0xEBE841F6=~z~~x~Something to tell your grandkids, man. You should go back, homie.
 0xEBE841F6=~z~~x~都可以讲给孙子孙女听了。该回去了，哥们儿。
@@ -29169,7 +29169,7 @@
 0x8B035F8F=~z~~x~俩姑娘这下终身难忘了，Nicky。她们不知道这是我们的日常生活。我们是赢家啊，兄弟。
 
 ;0x4C2AE1DF=~z~~x~That's it ladies. The show is over. All you get to look at is Brucie's body. Lucky you.
-0x4C2AE1DF=~z~~x~就到这里了，姑娘们。演出结束了。现在你们只需要看着Brucie的身体就行了，你们真走运。
+0x4C2AE1DF=~z~~x~就到这里了，姑娘们。演出结束了。现在只需要看着Brucie的身体就行了，你们真走运。
 
 ;0x70FEE207=~z~~x~Shit, homie. I'm starting to get bored of this chopper shit.
 0x70FEE207=~z~~x~操，哥们儿。直升机这玩意我都快乘腻了。
@@ -29274,7 +29274,7 @@
 0x9E046E2D=~z~~x~带大家去看幸福女神像*，那玩意老牛逼了。~n~(注：配音是Statue of Freedom，与字幕不符)
 
 ;0xB2FA4624=~z~~x~You ladies are much hotter than that bitch. Let's cruise back, Nicky.
-0xB2FA4624=~z~~x~你们二位可比那个鬼神性感多了。我们返航吧，Nicky。
+0xB2FA4624=~z~~x~你们二位比那尊鬼神性感多了。我们返航吧，Nicky。
 
 ;0x8806A443=~z~~x~Let's show these ladies some romantic shit. Prove that us alphas got a sensitive side too.
 0x8806A443=~z~~x~今天带两位女士看点浪漫的。让她们知道我们猛男也有感性的一面。

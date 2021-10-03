@@ -12,7 +12,7 @@
 0x06E9358E=PIB_BH
 
 ;0x077BF0C6=~z~the courage to change the things you can, and the wisdom to know the difference. Right, dude?
-0x077BF0C6=~z~勇于改变能改变的事物，智于明白差异。对吧，哥们？
+0x077BF0C6=~z~勇于改变能改变的事物，智于明白差异。
 
 ;0x09308E4C=~z~I asked my sponsor to come along but he says this is something I got to do without him.
 0x09308E4C=~z~我有请我的赞助人一起来过，不过他说这事我该自己去做。
@@ -54,7 +54,7 @@
 0x17DAE2EC=PIB_QA
 
 ;0x18F42DD3=~z~This is step number nine in the program. I'm making amends to all those I harmed. Expensive process.
-0x18F42DD3=~z~这是戒毒计划的第九步。我要补偿伤害过的所有人。代价高昂的过程。
+0x18F42DD3=~z~这是戒毒计划的第九步，我要补偿伤害过的所有人。代价高昂的过程。
 
 ;0x19AD8463=PIB_JF
 0x19AD8463=PIB_JF
@@ -228,7 +228,7 @@
 0x5EF8F5CA=PIB_KA
 
 ;0x603CBC5F=~z~That said, it's a lot harder to ask people to write off the emotional debts than the financial ones...
-0x603CBC5F=~z~据说，想让人把人情债一笔勾销可比钱的债难多了...
+0x603CBC5F=~z~据说，想把人情债一笔勾销可比钱的债难多了...
 
 ;0x60CFB190=~z~Gonna last me weeks.
 0x60CFB190=~z~够我撑好几个星期了。
@@ -246,10 +246,10 @@
 0x6436CF63=~z~他们在Onion街上，就是Asparagus大道那边。
 
 ;0x6477DA30=~z~Would you come with me? I hate to ask, but I'm afraid the temptation might get to me.
-0x6477DA30=~z~你能一起来吗？我讨厌求人，不过我害怕自己又受到诱惑。
+0x6477DA30=~z~你能一起来吗？我讨厌求人，不过又害怕自己经不住诱惑。
 
 ;0x65243FA1=~z~Take me back to my place on Wappinger.
-0x65243FA1=~z~送我回我在Wappinger的住处。
+0x65243FA1=~z~送我回Wappinger的住处吧。
 
 ;0x656445A4=~z~Mos def.
 0x656445A4=~z~板上钉钉。
@@ -345,7 +345,7 @@
 0x8EE18CB3=~z~要么直接整块敲碎爽一次？
 
 ;0x9052D784=~z~I'm clean, man... what a ride.
-0x9052D784=~z~我是干净的，老哥...好一次经历。
+0x9052D784=~z~我已经干净了，老哥...好一次经历。
 
 ;0x91A76B27=~z~That's them. Do you mind waiting here?
 0x91A76B27=~z~是他们了。能麻烦你在这等着吗？
@@ -588,10 +588,10 @@
 0xEBEAEE9D=~z~毫无疑问。
 
 ;0xEC213A11=~z~That is a healthy attitude.
-0xEC213A11=~z~那个态度很健康啊。
+0xEC213A11=~z~很健康的态度啊。
 
 ;0xED133BFD=~z~Step nine's a tough one. Not everyone wants you to get better. I'll talk about it in group.
-0xED133BFD=~z~第九步很难完成。不是所有人都想你变好的。我会去组里面讨论的。
+0xED133BFD=~z~第九步很难完成，不是所有人都想你变好的。我会去组里面讨论的。
 
 ;0xEEB36EA9=~z~Jesus. What a disgrace.
 0xEEB36EA9=~z~天哪，太丢脸了。
@@ -615,7 +615,7 @@
 0xFA495669=~z~没能补偿他们你伤心吗？
 
 ;0xFAE35795=~z~I mean that makes sense, I just can't always live it...
-0xFAE35795=~z~话是合情合理，我就是难以保持。
+0xFAE35795=~z~对吧，哥们？话是合情合理，我就是坚持不了。
 
 ;0xFB9A8877=~z~I was a loud mouthed dick and I apologize.
 0xFB9A8877=~z~我以前是个大嘴屌人，现在我道歉。

@@ -234,7 +234,7 @@
 0x612CFFAB=FIN1C_NB
 
 ;0x62AFA0EE=~z~I am not taking you on some tourist sightseeing tour. We're chasing a scumbag back to his boss.
-0x62AFA0EE=~z~我不是带你们来旅游的。我们要尾随这个人渣找出他的老板。
+0x62AFA0EE=~z~我不是带你们来旅游的。现在要跟着他找到他的老板。
 
 ;0x63214E43=~z~Alright, we follow him back to Pegorino, then we cut his fucking fingers off.
 0x63214E43=~z~好吧，我们跟着他找到Pegorino，然后再切了丫的手指。
@@ -360,7 +360,7 @@
 0x8DF10571=FIN1C_PI
 
 ;0x8F3DE067=~z~This man will lead us there, we'll get him cousin. I assure you.
-0x8F3DE067=~z~这人会带我们过去的，我们会找到他的，堂弟。我保证。
+0x8F3DE067=~z~这人会带我们过去的，会找到他的，堂弟。我保证。
 
 ;0x91B9DD98=~z~Boy, it no matter why ya are do dis ya know, me breda. I and I be backing you up for whatever.
 0x91B9DD98=~z~哥们，为了什么都不重要，好兄弟。不论何时我们都是你的后盾。
@@ -489,7 +489,7 @@
 0xB7C26335=~z~你很幸运我们选择了这样的逃生载具，表兄。
 
 ;0xB7E54B58=~z~Then we're going to make that shithead pay for what he did to Kate. Understand?
-0xB7E54B58=~z~然后要让那个混蛋为他对Kate做的事付出代价。明白？
+0xB7E54B58=~z~然后让那个混蛋为他对Kate做的事付出代价。明白？
 
 ;0xB8BAAD9D=~z~You did it...
 0xB8BAAD9D=~z~你做到了...
@@ -666,7 +666,7 @@
 0xE5A2E0AF=~z~Roman，我最不希望的就是同时失去你和Kate。~n~我都不知道再失去你的话我会怎么样。
 
 ;0xE6020DEE=~z~He been running round town like a headless chicken,ya know rasta. Picking up shit, him desperate.
-0xE6020DEE=~z~他像无头苍蝇一样在城里乱转懂吧，兄弟。到处采购，他怕了。
+0xE6020DEE=~z~他像无头苍蝇一样在城里乱转，兄弟。到处采购，他怕了。
 
 ;0xE7B6E1DF=~z~I did... I do want to but, you know. I don't want to die, I have a wife to think about now.
 0xE7B6E1DF=~z~是说过...我确实想，但是，说真的，我不想死啊，我还有老婆要照顾。
@@ -699,7 +699,7 @@
 0xF35DC042=FIN1C_NK
 
 ;0xF3C5A975=~z~There's nowhere left for these guys to go. The whole city wants them dead now.
-0xF3C5A975=~z~他们已经无处可逃了。全城没人想留他们活口。
+0xF3C5A975=~z~他们已经无处可逃了。全城没人想放过他们。
 
 ;0xF4963463=FIN1C_NF
 0xF4963463=FIN1C_NF
