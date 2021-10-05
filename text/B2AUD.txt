@@ -177,7 +177,7 @@
 0x2FE55D4B=010
 
 ;0x2FFB7270=~z~Keep your head, things ain't even started yet. What're we doing?
-0x2FFB7270=~z~保持冷静，都还没开始办正事呢。待会儿怎么做？
+0x2FFB7270=~z~保持冷静，都没开始办正事呢。待会儿怎么做？
 
 ;0x30A2E1A2=~z~What's the problem?
 0x30A2E1A2=~z~出什么事了？
@@ -207,7 +207,7 @@
 0x3632CD0D=B2_GD
 
 ;0x363FC0EB=~z~It's gonna take more than wanting it real bad. It's gonna take a clear head.
-0x363FC0EB=~z~只是极度想要还不够。还需要清醒的头脑。
+0x363FC0EB=~z~只是极度想要还不够，还需要清醒的头脑。
 
 ;0x36FF6A46=B2_CE
 0x36FF6A46=B2_CE
@@ -270,7 +270,7 @@
 0x493BD54E=~z~不管你愿不愿意赴险都一样，老大想这样就得这样，
 
 ;0x4A8D6986=~z~Me neither. Maybe if we want it more than anyone else, we'll be able to hang onto it.
-0x4A8D6986=~z~我也不想。或许只要我们比谁都想得到它，我们就能弄到手。
+0x4A8D6986=~z~我也不想。或许只要我们比谁都想得到它，就能弄到手。
 
 ;0x4B44739E=100
 0x4B44739E=100
@@ -402,7 +402,7 @@
 0x764BAFA6=~z~计划如此。能否成功有待实践。
 
 ;0x76C5EE76=~z~We're taking a load of product off of some Russians the Ancelottis have been dealing with.
-0x76C5EE76=~z~我们要从最近跟Ancelotti家族做生意的俄国人地方偷一批货。
+0x76C5EE76=~z~我们要从最近跟Ancelotti家族做生意的俄国人那里偷一批货。
 
 ;0x76C933F8=~z~there ain't that much control in anything.
 0x76C933F8=~z~根本没几件能掌控的事情。
@@ -534,7 +534,7 @@
 0x93A2FBB0=~z~太多人盯着钻石了，没人能拿着它善终。
 
 ;0x93EAEAAB=~z~No, you ain't. I ain't either. That's why we gotta at least try what we're told to do.
-0x93EAEAAB=~z~对，不白干，我也一样。所以我们怎么说都得照命令来一次。
+0x93EAEAAB=~z~对，不白干，我也一样。所以怎么说都得照命令来一次。
 
 ;0x9471E093=B2_CW
 0x9471E093=B2_CW
@@ -558,7 +558,7 @@
 0x9B458301=B2_FP
 
 ;0x9DEB7064=~z~We lost some of that sugar, it ain't no good taking it from the Russians if we can't sell it ourselves. Ciao.
-0x9DEB7064=~z~我们损失了一些糖，要是我们卖不出去，不就白从俄国人地方抢了吗。再见。
+0x9DEB7064=~z~我们损失了一些糖。要是卖不出去，不就白从俄国人地方抢了吗。再见。
 
 ;0x9E06FF5D=~z~Give me some covering fire, kid.
 0x9E06FF5D=~z~给我来点火力掩护，小子。
@@ -588,13 +588,13 @@
 0xA11F6DF1=B2_GJ
 
 ;0xA3A8941E=~z~Yeah, sure, this is just plan A. It's the one Jimmy P worked out.
-0xA3A8941E=~z~对，确实，这只是A计划。这个是Jimmy P想出来的。
+0xA3A8941E=~z~对，确实，这只是A计划。是Jimmy P想出来的。
 
 ;0xA3AA94EB=B2_FQ
 0xA3AA94EB=B2_FQ
 
 ;0xA461DB43=~z~Fuck you, I ain't. I just keep thinking these choppers is following me, that's all.
-0xA461DB43=~z~去你妈的，不是。我只是一直觉得有直升机跟着我，就这样。
+0xA461DB43=~z~去你妈的，不是。只是我经常觉得有直升机跟着，就这样。
 
 ;0xA4E262B4=102
 0xA4E262B4=102
@@ -609,7 +609,7 @@
 0xA8C1BCF5=B2_DV
 
 ;0xA9AC1641=~z~Because these is the orders and we gotta follow them. That's the way things work.
-0xA9AC1641=~z~因为这些是必须服从的命令。规矩就是如此。
+0xA9AC1641=~z~因为这是必须服从的命令。规矩就是如此。
 
 ;0xA9F69CD1=~z~Depends how you define life.
 0xA9F69CD1=~z~看你怎么定义生活了。
@@ -723,7 +723,7 @@
 0xC425C555=B2_FN
 
 ;0xC4F553AE=~z~Shit man, I'm just the hired help. I'm the fucking immigrant maid cleaning up your guys' shit.
-0xC4F553AE=~z~我靠，老兄，我就是个拿钱办事的。老子就一给你们收拾烂摊子的移民女仆。
+0xC4F553AE=~z~我靠，老兄，我就是个拿钱办事的，就一给你们收拾烂摊子的移民女仆。
 
 ;0xC53A16F9=~z~Niko, it looks like we're gonna have to do this the old fashioned way.
 0xC53A16F9=~z~Niko，看来还是得用老办法了。
@@ -753,7 +753,7 @@
 0xCCF2D3DE=B2_FI
 
 ;0xCD12F648=~z~Alright, alright. It's just that if we get caught on this one, you and me is going down for a long time.
-0xCD12F648=~z~好吧，好吧。只是万一这回被抓了，我们就得吃好几年牢饭了。
+0xCD12F648=~z~好吧，好吧。万一这回被抓了，我们就得吃好几年牢饭了。
 
 ;0xCDF55C1C=B2_FM
 0xCDF55C1C=B2_FM
@@ -831,7 +831,7 @@
 0xE568B867=B2_OA
 
 ;0xE5731F5B=~z~Every move he makes is so obvious, it's disgusting to see him trying to sleaze his way up the ladder.
-0xE5731F5B=~z~他那些举动的意图太明显了，他谋求高位的样子实在是让人想吐。
+0xE5731F5B=~z~他那些举动的意图太明显了，谋求高位的样子实在是让人想吐。
 
 ;0xE57A4AB9=B2_CB
 0xE57A4AB9=B2_CB
@@ -870,7 +870,7 @@
 0xEC039E6F=~z~但也有需要你仔细审视自己决定的时候。
 
 ;0xEDFE24EB=~z~Then, they ship you off to Ohio and get you selling microwaves.
-0xEDFE24EB=~z~然后，他们把你送到俄亥俄州，让你去卖微波炉。
+0xEDFE24EB=~z~然后就送你到俄亥俄州，让你去卖微波炉。
 
 ;0xEE559793=B2_FD
 0xEE559793=B2_FD
@@ -894,7 +894,7 @@
 0xF368C2F3=~z~事关组织存亡。
 
 ;0xF3E42AA0=~z~And that the only way we're gonna be able to leave that place with the sugar is if all the Russians in there are dead.
-0xF3E42AA0=~z~而唯一能让我们拉着糖从那儿出来的情况就是在场的俄国人都死了。
+0xF3E42AA0=~z~唯一能拉着糖出来的情况，就是在场的俄国人都死了。
 
 ;0xF5431EDC=B2_CV
 0xF5431EDC=B2_CV
@@ -942,7 +942,7 @@
 0xFE2152C5=~z~Tommy，要是老大找我，给我打个电话。
 
 ;0xFF3FC76E=~z~These guys promise you a new life if you screw every person who ever did a kind thing for you.
-0xFF3FC76E=~z~这些人说是只要你出卖所有帮过你的人，就会给你新的生活。
+0xFF3FC76E=~z~这些人说是只要出卖所有帮过你的人，就会给你新的生活。
 
 ;0xFFE72390=~z~We need some wheels.
 0xFFE72390=~z~我们需要一些车轮。

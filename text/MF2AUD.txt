@@ -99,7 +99,7 @@
 0x287ED879=100010
 
 ;0x2A170187=~z~Hello, you have reached United Liberty Paper Merchants. None of our operatives can come to the phone.
-0x2A170187=~z~您好，您呼叫的是联合自由报报业。我们的员工暂时无暇接听。
+0x2A170187=~z~您好，您呼叫的是联合自由纸业。我们的员工暂时无暇接听。
 
 ;0x2AE4FD22=MF2_A_BB
 0x2AE4FD22=MF2_A_BB
@@ -138,7 +138,7 @@
 0x3A5DB93E=SFX_MACHINE_BEEP
 
 ;0x3BC713FD=~z~You think I wouldn't have fingered him in a second if he was your guy?
-0x3BC713FD=~z~要是他就是你要找的人，你觉得我会不直接告诉你吗？
+0x3BC713FD=~z~要是他就是你要找的人，我会不直接告诉你吗？
 
 ;0x3D53D22B=MF2_A_JA
 0x3D53D22B=MF2_A_JA
@@ -525,7 +525,7 @@
 0xDECAAEED=100010100100100
 
 ;0xE1980D7C=~z~Bellic, I want to introduce you to John Gravelli, head of the Gambetti family. He needs help.
-0xE1980D7C=~z~Bellic，我想把你介绍给John Gravelli，Gambetti家族的老大。他需要帮助。
+0xE1980D7C=~z~Bellic，我想把你介绍给Jon Gravelli，Gambetti家族的老大。他需要帮助。
 
 ;0xE2A19A0A=~z~Now these Russian putas keep calling me asking where he is, like I fucking know.
 0xE2A19A0A=~z~现在那些俄国妓女一直追问我Vlad在哪儿，搞得跟我知道一样。
@@ -558,7 +558,7 @@
 0xF107070D=~z~看着他，我意识到复仇并不是我真正想要的。
 
 ;0xF12841D3=~z~I guess when he found out about me and Vlad he couldn't help himself.
-0xF12841D3=~z~我想他发现我跟Vlad的事的时候，他就控制不住自己了。
+0xF12841D3=~z~我想他发现我跟Vlad的事的时候，就控制不住自己了。
 
 ;0xF1CC183A=MF2_A_AB
 0xF1CC183A=MF2_A_AB

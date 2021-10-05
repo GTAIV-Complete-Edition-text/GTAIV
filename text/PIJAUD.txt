@@ -123,7 +123,7 @@
 0x297DEA35=SFX_PAUSE_2000
 
 ;0x2A529BCC=~z~I just took some photos. But, yeah. How you doing now, anyway? You leave that bitch?
-0x2A529BCC=~z~我只是拍了几张照片。但我还记得的。~n~说起来你最近好吗？离开那个贱人了吗？
+0x2A529BCC=~z~我只是拍了几张照片，但我还记得你。~n~说起来你最近好吗？离开那个贱人了吗？
 
 ;0x2BB78DD0=~z~Yo, Jeffy. I don't like you being treated like this.
 0x2BB78DD0=~z~哟，Jeffy。我不喜欢你被这么对待。
@@ -342,7 +342,7 @@
 0x7EFF826D=PIJ_WH
 
 ;0x7EFFC525=~z~Meet me at the garage off Silicon Street at the north east corner of Middle Park.
-0x7EFFC525=~z~到Silicon街的停车场来见我，中央公园东北角那边。
+0x7EFFC525=~z~来Silicon街的停车场找我，中央公园东北角那边。
 
 ;0x7F57CB91=~z~You've got to calm down.
 0x7F57CB91=~z~你一定要冷静。

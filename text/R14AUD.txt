@@ -3,7 +3,7 @@
 
 [R14AUD]
 ;0x003CC4E1=~z~Think about your future instead of the horrible things that have happened to you,
-0x003CC4E1=~z~想想你的未来，不要沉溺于你经历的那些灾祸，
+0x003CC4E1=~z~想想你的未来，不要沉溺于你经历的那些灾祸。
 
 ;0x007BD466=~z~I've been empty ever since that day.
 0x007BD466=~z~从那天开始我就很空虚了。
@@ -129,7 +129,7 @@
 0x276A63AA=~z~某种意义上，我们同村的朋友也算是走运了。
 
 ;0x2784BDFD=~z~I'm not saying that Darko should be forgiven - it is not our place to do that.
-0x2784BDFD=~z~我不是说要原谅Darko－那不是在我们的立场上该做的。
+0x2784BDFD=~z~我不是说要原谅Darko，那不是在我们的立场上该做的。
 
 ;0x2861EACB=R14_UD
 0x2861EACB=R14_UD
@@ -375,7 +375,7 @@
 0x6F02AF3D=~z~你说我毁了你？你本来就是个杀手！
 
 ;0x6FA5947E=~z~Trust me, you'll be doing me a favor.
-0x6FA5947E=~z~相信我，杀我是在帮我。
+0x6FA5947E=~z~相信我，我死了是种解脱。
 
 ;0x7217196D=~z~Kill me, then!
 0x7217196D=~z~那就杀了我啊！
@@ -453,7 +453,7 @@
 0x8ADB8932=R14_CI
 
 ;0x8B21B1A1=~z~Maybe now that you know that revenge is not what you are after you can look for
-0x8B21B1A1=~z~现在你可能就知道了，复仇不是你需要的，你可以用别的方式
+0x8B21B1A1=~z~现在你可能就知道了，需要的不是复仇，你可以用别的方式
 
 ;0x8BE6CB30=~z~Alright, wait there for me.
 0x8BE6CB30=~z~好的，在那儿等我。
@@ -498,7 +498,7 @@
 0x9408C1A9=100010010010100010010010010010010010100100100010010100100100010010
 
 ;0x942C67CE=~z~They are bringing him to the cargo bay at Francis International. I do not want to be late after I have waited so long.
-0x942C67CE=~z~他们要把他送到Francis国际机场的货运区。等了那么多年了，我可不想迟到。
+0x942C67CE=~z~他会被送到Francis国际机场的货运区。等了那么多年了，我可不想迟到。
 
 ;0x94BBD919=~z~Let's have a fucking party, break out the champagne.
 0x94BBD919=~z~那就开个狗屁派对，再开瓶香槟吧。
@@ -525,7 +525,7 @@
 0x9CA56CAD=~z~Niko，这你不能一个人去，我和你一起。到Firefly Island来接我。
 
 ;0x9E5B4791=~z~I'm turning this shit off, I can't take listening to those annoying ads and DJs right now.
-0x9E5B4791=~z~垃圾广播我就关了，现在我没心情听这些烦人的广告和DJ。
+0x9E5B4791=~z~垃圾广播我关了，现在没心情听这些烦人的广告和DJ。
 
 ;0x9EF1F89A=~z~Strange choices? How much?
 0x9EF1F89A=~z~还异常的选择？多少钱？
@@ -654,7 +654,7 @@
 0xC3B04605=R14_CC
 
 ;0xC421B7E8=~z~I'm sorry if my tone offends you, Roman.
-0xC421B7E8=~z~如果我冒犯到你了，我道歉，Roman。
+0xC421B7E8=~z~如果冒犯到你了，我道歉，Roman。
 
 ;0xC54D1F71=~z~Disappointment is not a consideration.
 0xC54D1F71=~z~我从没想过会失望。

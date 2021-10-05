@@ -15,7 +15,7 @@
 0x035C2399=~z~我要娶美丽的Mallorie了。伴郎先生怎么样啊？
 
 ;0x03793A81=~z~Niko, there you are. Tell me what's happening in the exciting world of the gun for a hire?
-0x03793A81=~z~Niko，你在啊。告诉我雇佣枪手的刺激世界又发生了什么吧？
+0x03793A81=~z~Niko，是你啊。雇佣杀手的刺激世界又发生了什么啊？
 
 ;0x0396D9BE=~z~Fantastic cousin. Mallorie is going to make me the happiest groom on earth. How are you?
 0x0396D9BE=~z~超级棒，堂弟。Mallorie会让我成为世界上最幸福的新郎。你怎么样？
@@ -87,7 +87,7 @@
 0x1479307D=~z~可以考虑，只要你给我讲一个沉溺女色和赌博的故事。
 
 ;0x14D446FC=~z~Niko, shit, I hope this guy is paying you good for saving his ass.
-0x14D446FC=~z~Niko，我靠，希望被你救了的这人能给多给你点感谢金。
+0x14D446FC=~z~Niko，我靠，希望被你救了的这人能多给你点感谢金。
 
 ;0x18944F0D=MF3_C_JF
 0x18944F0D=MF3_C_JF
@@ -120,7 +120,7 @@
 0x1E55DAE2=010100100010
 
 ;0x1E70F06C=~z~Not quite. I'm working for a family out of Alderney called the Pegorinos.
-0x1E70F06C=~z~不是，我在替一个来自Alderney的Pegorino家族做事。
+0x1E70F06C=~z~不是，我在替来自Alderney的Pegorino家族做事。
 
 ;0x1EC5338D=~z~I hope you took her back to the apartment and had your way with her, Niko. Did she have nice titties?
 0x1EC5338D=~z~希望你已经把她带回公寓享用过了，Niko。她奶子大吗？
@@ -537,7 +537,7 @@
 0x88F77803=100010010100100100100010
 
 ;0x8A80AE9A=~z~I'm working with that Irish family. She's some mobster's daughter - Gracie Ancelotti.
-0x8A80AE9A=~z~我在给那个爱尔兰家族做事。她是黑帮老大的女儿－Gracie Ancelotti。
+0x8A80AE9A=~z~我在给那个爱尔兰家族做事。她是黑帮老大的女儿，Gracie Ancelotti。
 
 ;0x8A8FB24A=MF3_C_JB
 0x8A8FB24A=MF3_C_JB
@@ -600,7 +600,7 @@
 0x999611DB=100010100100010010100010100010100100
 
 ;0x9A0EA7F9=~z~That's what I thought. I've had to kidnap this girl and she's a fucking nightmare.
-0x9A0EA7F9=~z~和我想的一样。我不得不绑架这个女孩，而她他妈是个噩梦。
+0x9A0EA7F9=~z~和我想的一样。我被迫绑架这个女孩，而她他妈是个噩梦。
 
 ;0x9AEFC772=MF3_C_JA
 0x9AEFC772=MF3_C_JA
@@ -615,7 +615,7 @@
 0x9D660299=100100010100100
 
 ;0x9D7B5FF2=~z~I heard there was a war or something on between the Lost and the Angels of Death.
-0x9D7B5FF2=~z~我听说失落好像跟死亡天使开战了。
+0x9D7B5FF2=~z~我听说失落帮好像跟死亡天使开战了。
 
 ;0x9DDE859C=~z~Look you'll have to have some fun with the nurses because I can't pick you up. See you soon.
 0x9DDE859C=~z~我没法来接你，看来你得和护士们找会儿乐子了。回头见。
@@ -657,7 +657,7 @@
 0xA529ED34=~z~一开始你就不该问他们借钱的，Roman。
 
 ;0xA72667E5=~z~I don't know nothing about this. Give her back as soon as you can. I've got to go, Niko.
-0xA72667E5=~z~具体我也不太清楚。尽快把她放了吧。我得挂了，Niko。
+0xA72667E5=~z~具体我也不太清楚。尽快把她放了吧。先挂了，Niko。
 
 ;0xA7869696=010100010100010010010100100010
 0xA7869696=010100010100010010010100100010
@@ -681,7 +681,7 @@
 0xAA6569F9=MF3_C_MG
 
 ;0xAB08346D=~z~I need to work with these guys. Hopefully they'll be able to find Darko Brevic for me.
-0xAB08346D=~z~我需要和这些人一起做事。他们有希望帮我找到Darko Brevic。
+0xAB08346D=~z~我需要帮他们做事。他们有希望帮我找到Darko Brevic。
 
 ;0xAB2A70D5=MF3_C_LF
 0xAB2A70D5=MF3_C_LF
@@ -726,7 +726,7 @@
 0xB57BA559=MF3_C_CF
 
 ;0xB5BE49D9=~z~Stay disorganized would be my advice, Niko. Don't let them get you for racketeering.
-0xB5BE49D9=~z~我的建议是保持无组织，Niko。别让他们以涉黑罪逮捕你。
+0xB5BE49D9=~z~建议你保持无组织，Niko。别让他们以涉黑罪逮捕你。
 
 ;0xB5DDBB79=MF3_C_DJ
 0xB5DDBB79=MF3_C_DJ
@@ -756,7 +756,7 @@
 0xBBDFB0BE=100100010100100
 
 ;0xBC08155D=~z~He tried to get me to get rid of a friend of his for him but, uh, I liked the friend better.
-0xBC08155D=~z~他让我帮忙除掉他的一个朋友，不过，呃，我更喜欢他的朋友。
+0xBC08155D=~z~他让我帮忙除掉他的一个朋友，不过...我更喜欢他的朋友。
 
 ;0xBD222472=MF3_C_ME
 0xBD222472=MF3_C_ME
@@ -831,7 +831,7 @@
 0xD3103539=MF3_C_IF
 
 ;0xD3A91AE1=~z~Not much, cousin. I've gone on a date with this girl I met on Lovemeet.
-0xD3A91AE1=~z~没什么，堂兄。我跟一个在Lovemeet找到的女孩约会了。
+0xD3A91AE1=~z~没什么，堂兄。我跟一个在觅爱网找到的女孩约会了。
 
 ;0xD495FBB1=~z~Hey Roman. You ever wonder if things are just coincidence or if everything is all planned?
 0xD495FBB1=~z~喂，Roman。你有没有想过有些事是巧合，还是说都是被计划好的？
@@ -963,7 +963,7 @@
 0xF5649ACE=MF3_C_XB
 
 ;0xF6259FDA=~z~Who's paying the bills at the moment?
-0xF6259FDA=~z~这次出钱的又是谁？
+0xF6259FDA=~z~这次出钱的是谁？
 
 ;0xF7DFF324=MF3_C_UC
 0xF7DFF324=MF3_C_UC
