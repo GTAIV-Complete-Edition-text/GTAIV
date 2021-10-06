@@ -72,13 +72,13 @@
 0x19D3142D=FIN1C_VK
 
 ;0x19FE7DCA=~z~Word pon de street is dat Peg ain't got much, him held up somewhere a waiting fe get outta town.
-0x19FE7DCA=~z~坊间传言Peg的势力所剩无几，他现在正躲在哪里准备跑路。
+0x19FE7DCA=~z~据说Peg的势力所剩无几，现在正躲在哪里准备跑路。
 
 ;0x1CA5CDA4=FIN1C_OB
 0x1CA5CDA4=FIN1C_OB
 
 ;0x1DFEC3FF=~z~Easy now Niko. Dat shit work in all dem spy torture type show pon TV, seen?
-0x1DFEC3FF=~z~冷静Niko。这种拷问只在电视上播的谍战片里有用懂吧。
+0x1DFEC3FF=~z~冷静Niko。这种拷问只在电视上播的谍战片里有用。
 
 ;0x1EC23D59=FIN1C_OF
 0x1EC23D59=FIN1C_OF
@@ -99,7 +99,7 @@
 0x2606533D=FIN1C_PH
 
 ;0x276B98A4=~z~You have to do what you have to do, cousin. If he tried to kill you then, he will try to kill you again.
-0x276B98A4=~z~该做的事还是得做，堂弟。他敢来杀你一次，就敢再杀你第二次。
+0x276B98A4=~z~该做的事还是得做，堂弟。~n~他敢来杀你一次，就敢再杀你第二次。
 
 ;0x2D2443BC=FIN1C_QM
 0x2D2443BC=FIN1C_QM
@@ -363,7 +363,7 @@
 0x8F3DE067=~z~这人会带我们过去的，会找到他的，堂弟。我保证。
 
 ;0x91B9DD98=~z~Boy, it no matter why ya are do dis ya know, me breda. I and I be backing you up for whatever.
-0x91B9DD98=~z~哥们，为了什么都不重要，好兄弟。不论何时我们都是你的后盾。
+0x91B9DD98=~z~哥们，为了什么都不重要，好兄弟。~n~不论何时我们都是你的后盾。
 
 ;0x91DC0A88=~z~You're not looking so good there, Jimmy.
 0x91DC0A88=~z~你脸色不太好啊，Jimmy。
@@ -384,7 +384,7 @@
 0x98F7C77A=FIN1C_OA
 
 ;0x99AFFD2F=~z~I am not doing this to protect myself, I'm doing this because of Kate.
-0x99AFFD2F=~z~我所做的不为保护自己，我都是为了Kate。
+0x99AFFD2F=~z~我所做的不为保护自己，这都是为了Kate。
 
 ;0x99CF8277=FIN1C_RN
 0x99CF8277=FIN1C_RN
@@ -495,7 +495,7 @@
 0xB8BAAD9D=~z~你做到了...
 
 ;0xB970F0F8=~z~You asked to be here, Roman. Now that you are on board, I do not want these complaints.
-0xB970F0F8=~z~你主动请缨的，Roman。现在你上了车，就别叽叽歪歪了。
+0xB970F0F8=~z~你主动请缨的，Roman。~n~现在上了车，就别叽叽歪歪了。
 
 ;0xB9CBB267=FIN1C_RL
 0xB9CBB267=FIN1C_RL
@@ -519,7 +519,7 @@
 0xBE564220=FIN1C_NH
 
 ;0xBF482BB5=~z~But he has still got some money and two bit gangsters will give their lives for a man if he'll pay the right price.
-0xBF482BB5=~z~但他还是有点钱的，只要开价够高，总会有三脚猫混混替他卖命的。
+0xBF482BB5=~z~但他还是有点钱的，只要开价够高，~n~总会有三脚猫混混替他卖命的。
 
 ;0xC00E3173=FIN1C_MC
 0xC00E3173=FIN1C_MC
@@ -600,7 +600,7 @@
 0xD5BFA995=~z~至少你没有死。
 
 ;0xD639BCBF=~z~You think that it'll just be this guy and Pegorino? We teach them a lesson and we go.
-0xD639BCBF=~z~会不会只有这个人跟Pegorino？我们教训完他们就能走了。
+0xD639BCBF=~z~会不会只有这个人跟Pegorino？教训完他们就能走了。
 
 ;0xD717F0CC=FIN1C_QD
 0xD717F0CC=FIN1C_QD
@@ -642,7 +642,7 @@
 0xE021978F=~z~我猜Pegorino毕竟没有那么弱，还有很多人追随他。
 
 ;0xE0620A92=~z~From what you tell me about Jimmy P, he's too desperate to do without this shit.
-0xE0620A92=~z~从你所说的Jimmy P的为人来看，采购结束前他不敢跑的。
+0xE0620A92=~z~从你口中Jimmy P的为人来看，采购结束前他不敢跑的。
 
 ;0xE1BFF9B0=~z~This is something that I have to do. Kate had a messed up family, but she remained good.
 0xE1BFF9B0=~z~这是我必须要做的事。Kate的家庭环境不好，但是她出淤泥而不染。
