@@ -45,7 +45,7 @@
 0x125B5776=~z~你能先给Roman松绑吗？
 
 ;0x1260B1A9=~z~I'm being? Fuck you. Fuck you... everything was fine, and then you show up... and now we're dead...
-0x1260B1A9=~z~我想多了？去你妈的，去你妈的...本来一切都好，然后你出现了...现在我们都得完蛋...
+0x1260B1A9=~z~我想多了？操你妈，去你妈的...本来一切都好，然后你出现了...现在我们都得完蛋...
 
 ;0x12B3C33B=~z~I pulled over a van, it didn't have any TVs in it.
 0x12B3C33B=~z~我拦住了一辆面包车，但车里并没有电视.
@@ -72,7 +72,7 @@
 0x182F7692=F1_BA
 
 ;0x1935E1CB=~z~Listen, we'll take care of your cousin, but you better get a police car,
-0x1935E1CB=~z~听着，你堂兄我们会照顾好的，但你最好去弄一辆警车，
+0x1935E1CB=~z~听着，你堂兄我们会照顾好的，但你最好去弄一辆警车。
 
 ;0x1C879A0E=~z~~c~Nothing, shit.
 0x1C879A0E=~z~~c~什么都没有，见鬼。
@@ -102,7 +102,7 @@
 0x2889136B=~z~听我说，Vlad就是个废物。
 
 ;0x28967BB4=~z~No. I'm tied up in a basement a long way from home, while some ape threatens me with a hacksaw,
-0x28967BB4=~z~不，我被绑在离家很远的地下室里，还被一个瘪三用钢锯威胁，
+0x28967BB4=~z~不，我被绑在离家很远的地下室里，还被一个瘪三用钢锯威胁。
 
 ;0x291345ED=~z~Man, I ain't picked up shipment yet.
 0x291345ED=~z~伙计，我都还没装上货呢。
@@ -216,7 +216,7 @@
 0x614C73F7=~z~你觉得我的手下是可以随便杀的吗？
 
 ;0x6208250E=~z~Man... get out of here.
-0x6208250E=~z~伙计...滚蛋吧。
+0x6208250E=~z~天...滚蛋吧。
 
 ;0x6375F64A=~z~Fuck!
 0x6375F64A=~z~操！
@@ -252,7 +252,7 @@
 0x77C0564A=010100100
 
 ;0x79139A4B=~z~He's ok. A little scarred, but ok. You did good. Mikhail needs someone like you.
-0x79139A4B=~z~他很好，有点伤痕，但没啥大碍，你做得不错。Mikhail需要像你这样的人。
+0x79139A4B=~z~他很好，有点伤痕，但没啥大碍。你做得不错。Mikhail需要像你这样的人。
 
 ;0x7966072D=F1_QB
 0x7966072D=F1_QB
@@ -339,13 +339,13 @@
 0xA623F46F=~z~有空过来找他。
 
 ;0xA67896A7=~z~Pull it over, take it to our lockup on Duke's Drive.
-0xA67896A7=~z~截停它，然后把它开到我们在Dukes路上的车库里。
+0xA67896A7=~z~截停它，送到我们在Dukes的车库。
 
 ;0xA7CBD644=F1_AB
 0xA7CBD644=F1_AB
 
 ;0xA86508F7=~z~-What do you want me to do?~n~-Shut up Roman!
-0xA86508F7=~z~－你想要我怎样？~n~－闭嘴 Roman！
+0xA86508F7=~z~－你想要我怎样？~n~－闭嘴，Roman！
 
 ;0xA8A3D8BF=~z~I'm dead if I lose this shipment.
 0xA8A3D8BF=~z~要是丢了这批货，我的人头就不保了。
@@ -366,7 +366,7 @@
 0xAEB3B963=~z~下车，否则你们死定了。
 
 ;0xAEDBA423=~z~~c~Here they are.
-0xAEDBA423=~z~~c~它们在这儿。
+0xAEDBA423=~z~~c~找到了。
 
 ;0xB00D06C5=F1_GA
 0xB00D06C5=F1_GA
@@ -405,7 +405,7 @@
 0xB915B356=100010100
 
 ;0xB9953571=~z~Vlad was his man... that's how it works... you kill their guy, they kill you!
-0xB9953571=~z~Vlad是他的人...就是这么回事...你杀了他们的人，他们就来要你的命！
+0xB9953571=~z~Vlad是他的人...就是这么回事...你杀了他们的人，他们就要你偿命！
 
 ;0xBA1EAC6A=~z~-Shut the fuck up!~n~-He's just screaming that's it!
 0xBA1EAC6A=~z~－让丫闭嘴！~n~－他就是要叫，没办法！
@@ -531,7 +531,7 @@
 0xE5D6C6EF=F1_OC
 
 ;0xE76576ED=~z~I've left the van where you say. How's Roman?
-0xE76576ED=~z~那辆面包车我扔在你说的地方了。Roman还好吗？
+0xE76576ED=~z~货车我扔在你说的地方了。Roman还好吗？
 
 ;0xE76DAAD6=~z~Come out and don't try nothing.
 0xE76DAAD6=~z~下车，不要轻举妄动。
@@ -561,7 +561,7 @@
 0xEC69D8FA=~z~我不会这么做的，Kenny Petrovic还罩着这车呢。
 
 ;0xEEA41008=~z~Yes, a buyer,
-0xEEA41008=~z~对，一个买家。
+0xEEA41008=~z~对，有个买家。
 
 ;0xEEFBD86E=~z~We had to gag him, to stop the screaming.
 0xEEFBD86E=~z~我们只能堵住他的嘴，好不让他叫。

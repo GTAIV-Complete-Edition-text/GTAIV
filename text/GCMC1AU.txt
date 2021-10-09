@@ -1,6 +1,6 @@
 ﻿[GCMC1AU]
 ;0x00A358B2=~z~No, no no. It's for my cousin.
-0x00A358B2=~z~不不不。替我堂兄问的。
+0x00A358B2=~z~不不不，替我堂兄问的。
 
 ;0x01A450CF=GCM2_MICHELLE_CONVERSATIONS3_BH
 0x01A450CF=GCM2_MICHELLE_CONVERSATIONS3_BH
@@ -48,7 +48,7 @@
 0x125E0D9B=GCM2_MICHELLE_CONVERSATIONS5_DK
 
 ;0x13225316=~z~Hey I'm sorry - by our standards - she comes from a rough part of South Bohan.
-0x13225316=~z~嘿，不好意思。但以我们的标准，她来自South Bohan的混乱地区。
+0x13225316=~z~嘿，不好意思。但以美国的标准，她来自South Bohan的混乱地区。
 
 ;0x1330775B=GCM2_MICHELLE_CONVERSATIONS6_EG
 0x1330775B=GCM2_MICHELLE_CONVERSATIONS6_EG
@@ -222,7 +222,7 @@
 0x6BFFAC0C=GCM2_MICHELLE_CONVERSATIONS6_EF
 
 ;0x6D68CA21=~z~I wish you'd trust me - talk to me about your work - I'm a good listener.
-0x6D68CA21=~z~我希望你能相信我。和我聊聊你的工作吧，我是一个好听众。
+0x6D68CA21=~z~希望你能相信我。和我聊聊你的工作吧，我是一个好听众。
 
 ;0x6E11D3CD=GCM2_MICHELLE_CONVERSATIONS2_AJ
 0x6E11D3CD=GCM2_MICHELLE_CONVERSATIONS2_AJ
@@ -270,7 +270,7 @@
 0x86EF4553=GCM2_MICHELLE_CONVERSATIONS5_DN
 
 ;0x8A238396=~z~Maybe I can help. Tell me what's going on?
-0x8A238396=~z~也许我能帮上忙。告诉我怎么回事吧?
+0x8A238396=~z~也许我能帮上忙，告诉我怎么回事吧。
 
 ;0x8BA95FE7=GCM2_MICHELLE_CONVERSATIONS3_BD
 0x8BA95FE7=GCM2_MICHELLE_CONVERSATIONS3_BD
@@ -345,7 +345,7 @@
 0xB25DB4A7=GCM2_MICHELLE_CONVERSATIONS6_EB
 
 ;0xB2FF92CA=~z~Good. She's a great girl. I really like her.
-0xB2FF92CA=~z~那就好。她是个好女孩。我真的很喜欢她。
+0xB2FF92CA=~z~那就好。她是个好女孩，我真的很喜欢她。
 
 ;0xB33A2D37=~z~Me too. Maybe here, things will be different.
 0xB33A2D37=~z~我也是。在这里，情况也许会不一样。

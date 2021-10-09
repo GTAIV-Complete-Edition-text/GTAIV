@@ -1,6 +1,6 @@
 ﻿[FCPAAUD]
 ;0x0095F3E5=~z~A fucking draw, in bowling. What are the odds?
-0x0095F3E5=~z~他妈保龄球还能打平手。这他妈也行？
+0x0095F3E5=~z~他妈打平了，保龄球诶。这他妈也行？
 
 ;0x0109D69B=~z~Shit, Niko. What's the fucking deal? Let's fucking get there already..
 0x0109D69B=~z~我靠，Niko。这有毛关系？快他妈上路吧...
@@ -21,7 +21,7 @@
 0x0C703D9A=~z~嘿，兄弟，我们走吧。
 
 ;0x0E8117E4=~z~Christ, if you'd been any later I probably woulda shot you. Let's move it.
-0x0E8117E4=~z~天哪，你要是再晚点过来，我就要毙了你了。出发吧。
+0x0E8117E4=~z~天哪，你再晚点到，我都想毙了你了。出发吧。
 
 ;0x0EA7F1D5=FCP_ACT_ARRIVEM_NOTLATE
 0x0EA7F1D5=FCP_ACT_ARRIVEM_NOTLATE
@@ -39,7 +39,7 @@
 0x115FAE4D=FCP_ACT_BORED_GETTING
 
 ;0x11671A29=~z~Oh, darts, can't leave the bulleye alone eh? Alright, I'm in.
-0x11671A29=~z~噢，飞镖，不能让靶心孤单，嗯？好吧，我来。
+0x11671A29=~z~噢，飞镖，就是丢不下靶心吗，嗯？好吧，我来。
 
 ;0x11E657DA=100
 0x11E657DA=100
@@ -54,7 +54,7 @@
 0x16DC6058=~z~如果你在一个满是女人的酒吧里还只对我感兴趣，你就该问你自己一些重要的问题了。
 
 ;0x1870578A=~z~I was getting bored of bowling anyway. I was thinking about shooting the pins down at one point.
-0x1870578A=~z~我保龄球也打腻了。我在想的是一次打倒所有瓶子。
+0x1870578A=~z~保龄球也打腻了。我在想的是一次打倒所有瓶子。
 
 ;0x192FE2DD=FCP_ACT_DARTS_LEAVE_ABANDON
 0x192FE2DD=FCP_ACT_DARTS_LEAVE_ABANDON
@@ -81,7 +81,7 @@
 0x25130A4C=100
 
 ;0x25B82BFB=~z~It don't matter Niko. It's just a fucking game. You're better at shooting people if that's a consolation?
-0x25B82BFB=~z~没关系，Niko。不过是场游戏而已。你还是更擅长打人吧，不知道算不算是安慰。
+0x25B82BFB=~z~没关系，Niko。不过是场游戏而已。你还是更擅长打人，不知道算不算是安慰。
 
 ;0x26B0E571=100
 0x26B0E571=100
@@ -93,13 +93,13 @@
 0x27A94E18=~z~没人教你看时间的吗，你丫迟到了。去弄辆车来。
 
 ;0x27EAA70B=~z~Whoa. Where are we? Are we coming in or going out?
-0x27EAA70B=~z~喔哦，我们在哪儿呢？我们这是要进去还是出来？
+0x27EAA70B=~z~喔哦，我们在哪儿？这是要进去还是出来？
 
 ;0x27F5D867=FCP_ACT_BOWL_LEAVE_WON
 0x27F5D867=FCP_ACT_BOWL_LEAVE_WON
 
 ;0x2827EA09=~z~Do you get this.
-0x2827EA09=~z~明白了吗？
+0x2827EA09=~z~你喜欢吗？
 
 ;0x2A1AE281=FCP_ACT_ARRIVE_PUB_GENERIC
 0x2A1AE281=FCP_ACT_ARRIVE_PUB_GENERIC
@@ -114,13 +114,13 @@
 0x2D2989FA=FCP_ACT_LEAVE_DRINK_INSULT
 
 ;0x2DB889DA=~z~Shit, Niko. We weren't in there long. My priest'll thank you for preventing me from sinning at least.
-0x2DB889DA=~z~我靠，Niko。我们很久没来过这儿了。至少我的神父会感谢你让我远离罪孽的。
+0x2DB889DA=~z~我靠，Niko，刚进店没多久吧。至少我的神父会感谢你让我远离罪孽的。
 
 ;0x320717EE=~z~Hey man, so we need some vehicular transport.
-0x320717EE=~z~嘿，兄弟，我们需要弄辆交通工具。
+0x320717EE=~z~嘿，兄弟，给我们弄辆车吧。
 
 ;0x35A126A4=~z~Shit, I'm storing those bitches in the bank for later. If you catch my drift.
-0x35A126A4=~z~我靠，我要把这些婊子存银行里以备日后需要。不知道你听没听懂。
+0x35A126A4=~z~我靠，我要把这些婊子存银行里备用。不知道你听没听懂。
 
 ;0x36926D26=~z~Good to see you Niko, gimme a call.
 0x36926D26=~z~很高兴见到你，Niko，有空打给我。
@@ -135,7 +135,7 @@
 0x37A1FA3D=100
 
 ;0x3914A096=~z~Niko, why do you wanna leave so early? You didn't touch one of the girls did ya? I wanna go back there.
-0x3914A096=~z~Niko，你怎么这么快就走了？你还一个姑娘都没摸过吧？我想再回去玩会儿。
+0x3914A096=~z~Niko，你怎么这么快就走了？你都没摸过姑娘吧？我想再回去玩会儿。
 
 ;0x39C7BE1C=100
 0x39C7BE1C=100
@@ -192,13 +192,13 @@
 0x56A91602=FCP_ACT_BORED_TAKEHOME
 
 ;0x5850FAB9=~z~What you playing at Niko? I ain't doing this shit.
-0x5850FAB9=~z~你这作弄谁呢，Niko？这种事我可不干。
+0x5850FAB9=~z~你是作弄谁呢，Niko？这种事我可不干。
 
 ;0x588D2F9F=100
 0x588D2F9F=100
 
 ;0x58D3FBAB=~z~Hey man, this a joke? It ain't a funny one if it is. I'm not going in.
-0x58D3FBAB=~z~嘿，兄弟，你开玩笑吗？这可不好笑。我不会去的。
+0x58D3FBAB=~z~嘿，兄弟，你开玩笑吗？这可不好笑。我不会进去的。
 
 ;0x5937326F=~z~That was a good craic, man. Catch you round.
 0x5937326F=~z~玩得很嗨森，兄弟。回头见。
@@ -234,7 +234,7 @@
 0x64BD607C=~z~好吧，Niko。这地方还不算太烂。真的不能算太烂。
 
 ;0x67520361=~z~Couldn't hack the pressure, eh Niko? Had to duck out of the game of pool early. That's cool.
-0x67520361=~z~顶不住压力了吧，嗯Niko？只能提前开溜了对吧。真好。
+0x67520361=~z~顶不住压力了吧，嗯Niko？只能提前开溜了对吧。没事。
 
 ;0x67AA740D=~z~There's me man, Niko. Come on.
 0x67AA740D=~z~我兄弟Niko来啦。走吧。
@@ -246,7 +246,7 @@
 0x6B05D4D0=~z~操，比起等你我本来有更好的事情可做。现在我们还得去找辆车。
 
 ;0x6B06F626=~z~Top prize for being an asshole goes to Niko. You made us miss the damn show.
-0x6B06F626=~z~为人混蛋一等奖颁给Niko。你搞得我们错过演出了。
+0x6B06F626=~z~为人混蛋一等奖颁给Niko。被你搞得错过演出了。
 
 ;0x6B388903=~z~You're a fucking loser cunt and you know it.
 0x6B388903=~z~你丫就是个屌丝lowB，你自己也知道。
@@ -270,7 +270,7 @@
 0x711443E7=100
 
 ;0x718172BC=~z~You know I'm gonna destroy you at darts. It's going to happen, Niko.
-0x718172BC=~z~要知道，我在飞镖上是可以碾压你的。会碾压的，Niko。
+0x718172BC=~z~要知道，我玩飞镖可是碾压你的。会碾压的，Niko。
 
 ;0x71D95E93=~z~Jesus Niko, waiting for your Slavic ass ain't fun at all. Come on.
 0x71D95E93=~z~天哪，Niko，等你这个斯拉夫混蛋可不好玩。走了。
@@ -288,16 +288,16 @@
 0x7AD275C7=FCP_ACT_ARRIVE_DARTS
 
 ;0x7BA36B89=~z~A fuckin chopper? Man, you a player!
-0x7BA36B89=~z~直升机他妈都开来了？兄弟你丫行啊！
+0x7BA36B89=~z~直升机都搞来了？兄弟行啊！
 
 ;0x7C852B9C=~z~Fuck you. I'd spill your drinks again if I had the fucking chance.
-0x7C852B9C=~z~操你妈，要是老子他妈有机会，还会把你的酒都倒了。
+0x7C852B9C=~z~操你妈，要是老子有机会，还会把你的酒都倒了。
 
 ;0x7CD919D2=~z~Your pissing around has made us miss the fucking show. Nice one, Niko.
 0x7CD919D2=~z~你丫到处乱跑搞得我们错过演出了。很好，Niko。
 
 ;0x7D45A1C0=~z~Shit, I love that shit hole. They gotta put something in the drinks there. I'm screwed.
-0x7D45A1C0=~z~我操，我喜欢这家破店。他们的酒水里肯定下了料。我不行了。
+0x7D45A1C0=~z~我操，我喜欢这家店。酒水里肯定下了料。我不行了。
 
 ;0x7D97D205=100
 0x7D97D205=100
@@ -321,13 +321,13 @@
 0x8D85CD77=FCP_ACT_LEAVE_STRIP_GOOD
 
 ;0x8F70DA42=~z~God, I'm gonna have to say a load of Hail Marys after the thoughts I was thinking in there.
-0x8F70DA42=~z~上帝啊，在我在这儿胡思乱想那么多以后，我得念上很多遍万福玛利亚了。
+0x8F70DA42=~z~上帝啊，在店里胡思乱想了那么多，我得念上很多遍万福玛利亚了。
 
 ;0x900AD7E3=FCP_ACT_BORED_LEAVING
 0x900AD7E3=FCP_ACT_BORED_LEAVING
 
 ;0x92119241=~z~This place, eh Niko? If here's you're place then let's do it. It's all the same to me when I'm wasted anyway.
-0x92119241=~z~就这地方，嗯Niko？就这儿的话我们就进去吧。能让我大醉的话哪儿都一样。
+0x92119241=~z~这家店吗，Niko？确定的话我们就进去吧。反正我都能喝个大醉。
 
 ;0x930FE30E=100
 0x930FE30E=100
@@ -348,22 +348,22 @@
 0x980C1EE4=FCP_ACT_POOL_LEAVE_LOST
 
 ;0x99362CC4=~z~Shit Niko, it wouldn't have taken much longer to finish a game of darts.
-0x99362CC4=~z~我靠，Niko，玩完一局飞镖又不会花上多久。
+0x99362CC4=~z~我靠，Niko，投一局飞镖又不用花多久。
 
 ;0x9A1D95AE=100
 0x9A1D95AE=100
 
 ;0x9AF8DD26=~z~That place is fucking awesome. I can't nearly see.
-0x9AF8DD26=~z~那地方太他妈爽了，我都快看不见路了。
+0x9AF8DD26=~z~那家店太他妈爽了，我都快看不清了。
 
 ;0x9BED6C97=~z~Fine, Niko. You wanna quit that's okay. I'm gonna count it as a win for me.
-0x9BED6C97=~z~行吧，Niko。你想退出也行。那就算是我的胜利。
+0x9BED6C97=~z~行吧，Niko。你不想打了也行。那就算我赢了。
 
 ;0x9CCAED93=~z~Pair of transexuals seem to be following us!
 0x9CCAED93=~z~一对变性人似乎跟着我们！
 
 ;0x9D6D0F0C=~z~A bike, you better be able to drive it, Niko. Let's go.
-0x9D6D0F0C=~z~摩托车，你最好是会骑，Niko。我们走吧。
+0x9D6D0F0C=~z~摩托车，你会不会骑啊，Niko。我们走吧。
 
 ;0x9D9CB699=~z~I don't like losing, Niko. If you weren't such a gracious winner I might have got real angry.
 0x9D9CB699=~z~我不喜欢失败，Niko。要不是因为你是个如此谦和的赢家，我就要生气了。
@@ -390,16 +390,16 @@
 0xA38F2866=FCP_ACT_ARRIVE_SHOW_LATE
 
 ;0xA3E0732B=~z~Fuck me, I didn't know they had this kind of thing in Liberty City.
-0xA3E0732B=~z~我操，我都不知道自由城里还有这种东西。
+0xA3E0732B=~z~我操，自由城里居然还有这种东西。
 
 ;0xA4892C87=100
 0xA4892C87=100
 
 ;0xA4F37250=~z~Okay Niko, you need me to explain what anything means, just ask.
-0xA4F37250=~z~好了，Niko，你要是有什么想让我解释的就直说吧。
+0xA4F37250=~z~好了，Niko，有什么没听懂的就问我吧。
 
 ;0xA5A2C1D7=~z~I'm nearly bursting , Niko. This is gonna be fucking great.
-0xA5A2C1D7=~z~我快顶不住了，Niko。这里最好够他妈爽。
+0xA5A2C1D7=~z~我快顶不住了，Niko。这里最好够爽。
 
 ;0xA5A79FD4=~z~Niko, what the fuck man? Why's this taking so long.
 0xA5A79FD4=~z~Niko，搞毛啊老兄？怎么会花这么久。
@@ -411,7 +411,7 @@
 0xA7C42FBD=~z~送我回家。
 
 ;0xAED4B22E=~z~I'm getting bored, man. If we don't get there soon I'm gonna have to start hitting the yayo.
-0xAED4B22E=~z~我开始无聊了，兄弟。要是我们再没到地方，我就要开始嗑药了。
+0xAED4B22E=~z~我开始无聊了，兄弟。再没到地方，我就要开始嗑药了。
 
 ;0xAF9466F3=FCP_ACT_ARRIVEF_NOTLATE
 0xAF9466F3=FCP_ACT_ARRIVEF_NOTLATE
@@ -432,13 +432,13 @@
 0xB3AA1698=~z~平局，Niko，平局啊。旗鼓相当，旗鼓相当。
 
 ;0xB4EA7A6A=~z~Shit, Niko. I'll find me own damn way home then.
-0xB4EA7A6A=~z~我靠，Niko。那我自己想法子回去。
+0xB4EA7A6A=~z~我靠，Niko。我自己想法子回去了。
 
 ;0xB5AE2B34=~z~He's a fuckin' genius.
-0xB5AE2B34=~z~他他妈是个天才。
+0xB5AE2B34=~z~他他妈是天才。
 
 ;0xB7E9B969=~z~I'm in, man. I'm fucking in. Let's go.
-0xB7E9B969=~z~我来，兄弟。我当然来，我们走吧。
+0xB7E9B969=~z~我来，兄弟，我当然来。进去吧。
 
 ;0xB8A1291F=FCP_ACT_LEAVE_PUB_GENERIC
 0xB8A1291F=FCP_ACT_LEAVE_PUB_GENERIC
@@ -465,7 +465,7 @@
 0xBFE572AF=~z~还不错。要是我事前能多吸点粉就更好了。
 
 ;0xC205F06E=~z~Niko, Niko, you come up against the best, you can't expect to win. Bad luck man.
-0xC205F06E=~z~Niko，Niko，你挑战了最强的选手就别想赢了。运气不行啊兄弟。
+0xC205F06E=~z~Niko，Niko，挑战了最强的选手就别想赢了。运气不行啊兄弟。
 
 ;0xC37C9BCF=FCP_ACT_DURING_SHOW_POS
 0xC37C9BCF=FCP_ACT_DURING_SHOW_POS
@@ -483,7 +483,7 @@
 0xC5D57561=FCP_ACT_DURING_SHOW_NEG
 
 ;0xC6B2D6EF=~z~This is the place, boy. Let's get screwed up.
-0xC6B2D6EF=~z~就是这儿了，小子，我们开干吧。
+0xC6B2D6EF=~z~这家店好啊，小子，我们开干吧。
 
 ;0xC6F06940=100
 0xC6F06940=100
@@ -534,16 +534,16 @@
 0xD48C2BD1=FCP_ACT_BOWL_LEAVE_LOST
 
 ;0xD68446C3=~z~What's that about?
-0xD68446C3=~z~讲了些什么？
+0xD68446C3=~z~什么玩意？
 
 ;0xD75E5CE7=FCP_ACT_LEAVE_SHOW_COMEDY
 0xD75E5CE7=FCP_ACT_LEAVE_SHOW_COMEDY
 
 ;0xDA0784EF=~z~Fuck Niko, I paid to see that shit.
-0xDA0784EF=~z~操蛋，Niko，我花了钱就看这种狗屎。
+0xDA0784EF=~z~操蛋，Niko，我花了钱的。
 
 ;0xDA193372=~z~Come on, Niko. Rack 'em up.
-0xDA193372=~z~来吧，Niko。干了他们。
+0xDA193372=~z~来吧，Niko。杆杆进洞。
 
 ;0xDC36F8F1=~z~Balls in pockets again hey? Alrite why not.
 0xDC36F8F1=~z~再来次球球入袋？也不是不行吧。
@@ -573,13 +573,13 @@
 0xE9B12495=FCP_ACT_ARRIVE_STRIP
 
 ;0xEA7D4F51=~z~Fuck, we coulda finished the game. I was starting to get a feel for it.
-0xEA7D4F51=~z~操蛋，我们可以玩完整局的，我都有手感了。
+0xEA7D4F51=~z~操蛋，我们可以投完整局的，我都有手感了。
 
 ;0xEA9D53D5=~z~Jesus Christ. That what you guys watch on TV where you come from?
-0xEA9D53D5=~z~基督耶稣啊，你们老家电视上看的就是这种东西？
+0xEA9D53D5=~z~基督耶稣啊，你们老家的电视就播这种东西？
 
 ;0xEB83211B=~z~Come on, Niko. If I wanted to do this I'd ask to do it.
-0xEB83211B=~z~拜托，Niko，想来这个的话我会主动提出来的。
+0xEB83211B=~z~拜托，Niko，想来这里的话我会主动提的。
 
 ;0xEFB8B1E5=FCP_ACT_ARRIVE_LATE
 0xEFB8B1E5=FCP_ACT_ARRIVE_LATE
@@ -597,10 +597,10 @@
 0xF3D7B1D7=FCP_ACT_ARRIVEC_NOTLATE
 
 ;0xF463743B=~z~Bad luck Niko, you might win if they let you shoot the board.
-0xF463743B=~z~运气不行啊，Niko。要是给你打到了，你还真有可能会赢。
+0xF463743B=~z~运气不行啊，Niko。要是给你打到了，真有可能会赢。
 
 ;0xF46C003B=~z~Man, I just don't like stopping once I've started. I could drink all fucking night.
-0xF46C003B=~z~兄弟，一开始喝酒我就停不下来了，我他妈可以喝上一整晚。
+0xF46C003B=~z~兄弟，一开始喝酒就停不下来了，我他妈能喝一整晚。
 
 ;0xF4C16ADB=100
 0xF4C16ADB=100
@@ -609,10 +609,10 @@
 0xF70560F2=~z~还算不错吧，Niko。这人挺会讲笑话的。
 
 ;0xF9D6ADE0=~z~I never liked bowling anyway.
-0xF9D6ADE0=~z~反正我向来不喜欢保龄球。
+0xF9D6ADE0=~z~反正我不喜欢打保龄球。
 
 ;0xFA38DBBB=~z~Alright man, we're here. Let's bowl.
-0xFA38DBBB=~z~好了，兄弟，我们到了。开始保龄吧。
+0xFA38DBBB=~z~好了，兄弟，我们到了。开始打球吧。
 
 ;0xFA8F99D9=~z~Alright, Niko. We good to go.
 0xFA8F99D9=~z~好了，Niko。赶紧出发吧。

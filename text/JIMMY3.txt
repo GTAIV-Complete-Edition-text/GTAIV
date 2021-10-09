@@ -6,7 +6,7 @@
 0x0939D8F6=~s~让~r~Anthony~s~永远闭嘴，他在急诊部(ER)。
 
 ;0x1064E74C=~s~Lose your wanted level.
-0x1064E74C=~s~降低你的通缉度。
+0x1064E74C=~s~摆脱通缉。
 
 ;0x576C755A=~s~Go to the ~y~hospital.
 0x576C755A=~s~前往~y~医院。
@@ -27,7 +27,6 @@
 0xB3E1AE47=~s~医院职工通报警方了。
 
 ;0xB4C42550=Press ~a~ to unplug the life support machine.
-
 0xB4C42550=按~a~切断维生装置的电源。
 
 ;0xC21E4AC0=~s~Get out quickly and discreetly.

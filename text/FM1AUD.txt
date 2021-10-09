@@ -52,7 +52,7 @@
 0x1F4865F1=SFX_OVERLAP_PHONE
 
 ;0x201A23CE=~z~Yeah, and there's a lawyer called Tom Goldberg who's real interested.
-0x201A23CE=~z~真的，而且还有一个叫Tom Goldberg的律师对此很感兴趣。
+0x201A23CE=~z~真的，还有一个叫Tom Goldberg的律师对此很感兴趣。
 
 ;0x20904CF2=100
 0x20904CF2=100
@@ -217,7 +217,7 @@
 0x5B7C27C4=~z~你被跟踪了吗？
 
 ;0x5C917255=~z~Alright. This guy told me to bring the money there and call him.
-0x5C917255=~z~好，这个人让我带着钱到这儿以后给他打电话。
+0x5C917255=~z~好，这个人让我带着钱到这儿以后再联系他。
 
 ;0x5D10BA0E=~z~I ain't guilty of nothing, other than being a man.
 0x5D10BA0E=~z~我根本没有任何罪行，除了生而为人。
@@ -259,7 +259,7 @@
 0x6EBC458E=FM1_AA
 
 ;0x6FB13E6C=~z~Great, I can get rid of these now. I feel like a new man.
-0x6FB13E6C=~z~很好，现在我可以处理掉它了。我感觉如获新生。
+0x6FB13E6C=~z~很好，现在我可以处理掉它了。感觉如获新生。
 
 ;0x6FD75F9B=~z~To be honest, I don't really care one way or another.
 0x6FD75F9B=~z~说实话，我根本不在乎你有没有罪。
@@ -445,7 +445,7 @@
 0xDDEDED0C=~z~Hey, wait a second. Shit.
 
 ;0xDE7D75EF=~z~That means he's somewhere close and he's got a phone. I'm gonna text you his number.
-0xDE7D75EF=~z~也就是说他就在附近，带着手机。待会儿我把他的电话发你。
+0xDE7D75EF=~z~也就是说他在附近，带着手机。待会儿我把他的电话发你。
 
 ;0xE0D97252=~z~Be cool.
 0xE0D97252=~z~别发火。
@@ -469,7 +469,7 @@
 0xF01A4F34=100
 
 ;0xF0B6615B=~z~Listen... I did what I did... I made a mistake. That don't make me the devil.
-0xF0B6615B=~z~听着...过去我是做了点事...我犯了个错。但这并不足以让我成为恶人。
+0xF0B6615B=~z~听着...过去我是做了点事...犯了个错。但这并不足以让我成为恶人。
 
 ;0xF257C84A=~z~He's hungry for McReary's blood and shit. Yeah.
 0xF257C84A=~z~他等着吃McReary的人血馒头呢，对。
@@ -481,7 +481,7 @@
 0xF2F51689=~z~我只是想要点钱。
 
 ;0xF2F5DF20=~z~Yeah. I got it. We're gonna make this shit happen. I don't mess around, you know?
-0xF2F5DF20=~z~对，在我这儿。这个狗屁交易最好能顺利点。我不是好惹的，懂吗？
+0xF2F5DF20=~z~对，在我这儿。这次交易最好能顺利点。我可不好惹，懂吗？
 
 ;0xF43FE1B4=~z~A friend. I'm calling about your exchange with McReary.
 0xF43FE1B4=~z~一个朋友。我是打过来问你和McReary的交易的。

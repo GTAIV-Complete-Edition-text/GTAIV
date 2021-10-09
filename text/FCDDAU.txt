@@ -27,7 +27,7 @@
 0x0E0AF1D4=~z~因为我嫉妒他，因为我嫉妒他的成功。
 
 ;0x117A78A7=~z~Yeah, well it lets me forget.
-0x117A78A7=~z~哦，至少对我有效。
+0x117A78A7=~z~噢，至少对我有效。
 
 ;0x123664FE=FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AG
 0x123664FE=FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AG
@@ -99,7 +99,7 @@
 0x365F3D3D=FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FK
 
 ;0x3DEB3494=~z~seems people don't want you to disappear, you get that warm, happy glow, you know?
-0x3DEB3494=~z~像是没人想你消失，你感到温暖，快乐，满足，懂吗？
+0x3DEB3494=~z~像是没人想你消失，你感到温暖、快乐、满足，懂吗？
 
 ;0x3EC306D4=FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FA
 0x3EC306D4=FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FA
@@ -132,7 +132,7 @@
 0x51291A1C=100100100100100100100100100100100
 
 ;0x592C6B16=~z~You feel good, fucking good!
-0x592C6B16=~z~你感觉很好，贼他妈好！
+0x592C6B16=~z~你感觉很好，巨他妈好！
 
 ;0x5C1FBAED=FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FC
 0x5C1FBAED=FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FC
@@ -153,7 +153,7 @@
 0x6C271202=~z~杀了我，Niko。
 
 ;0x6DEEEA1E=~z~Once, I got drunk and shot somebody, you know that?
-0x6DEEEA1E=~z~有一次，我喝醉后掏枪打中了人，你知道吗？
+0x6DEEEA1E=~z~有一次，我喝醉后掏枪打死了人，你知道吗？
 
 ;0x6FD6C77D=FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CG
 0x6FD6C77D=FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CG
@@ -186,7 +186,7 @@
 0x8A68A315=~z~我喝得烂醉了，兄弟。
 
 ;0x8A83CEBB=~z~I'm a fucking murderer - I killed my best friend!
-0x8A83CEBB=~z~我他妈是个杀人犯－我杀了我最好的朋友！
+0x8A83CEBB=~z~我他妈是个杀人犯！我杀了我最好的朋友！
 
 ;0x8A99F47C=~z~Dwayne, please shut up, you're drunk.
 0x8A99F47C=~z~Dwayne，闭嘴吧，你醉了。
@@ -198,7 +198,7 @@
 0x8BCC2335=~z~天哪，感觉我快要吐了。
 
 ;0x927FDDBC=~z~You know what, man, I can't fucking stand it,
-0x927FDDBC=~z~你知道吗，兄弟，我他妈受不了了，
+0x927FDDBC=~z~你知道吗，兄弟，我他妈受不了了。
 
 ;0x9305DE7F=FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EB
 0x9305DE7F=FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EB
@@ -291,7 +291,7 @@
 0xCF138D3B=~z~我是说你穿得傻逼，
 
 ;0xD0CD5B4D=~z~do whatever but shut up.
-0xD0CD5B4D=~z~只要闭嘴你干啥都行。
+0xD0CD5B4D=~z~闭上嘴你干啥都行。
 
 ;0xD2C1B123=~z~I am so fucking drunk, man...
 0xD2C1B123=~z~我他妈的喝醉了，兄弟...
@@ -324,7 +324,7 @@
 0xDC62FB44=FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EH
 
 ;0xDCBE2890=~z~For a fucking immigrant psycho, you ain't bad...
-0xDCBE2890=~z~对于一个神经病移民来说，你还不赖...
+0xDCBE2890=~z~虽然是个神经病移民，但你还不赖...
 
 ;0xDE3377B1=FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AD
 0xDE3377B1=FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AD
@@ -372,7 +372,7 @@
 0xF89A7CD0=FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FF
 
 ;0xF8A17AFD=~z~I don't know what I'm trying to say. Shit. Well, that's all I got to say.
-0xF8A17AFD=~z~我不知道我在说什么。妈的，好吧，我就说到这儿吧。
+0xF8A17AFD=~z~我不知道我在说什么，妈的。好吧，我就说到这儿吧。
 
 ;0xF8DE7423=FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CE
 0xF8DE7423=FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CE
@@ -388,3 +388,4 @@
 
 ;0xFF4E0A37=~z~Man, I am drunk as shit.
 0xFF4E0A37=~z~兄弟，我喝得烂醉如泥。
+

@@ -39,7 +39,7 @@
 0xA0E699BF=~r~你抛弃了卡车。
 
 ;0xA622974E=~r~The H was destroyed.
-0xA622974E=~r~海洛因被毁了。
+0xA622974E=~r~白粉被毁了。
 
 ;0xA626E908=~s~Steal the ~b~truck.
 0xA626E908=~s~偷走~b~卡车。~s~
@@ -48,7 +48,7 @@
 0xBCF7EA6F=~s~连按~PAD_A~爬到卡车顶部。
 
 ;0xC24161E6=~r~The truck with the H in it got away.
-0xC24161E6=~r~装有海洛因的卡车逃掉了。
+0xC24161E6=~r~装有白粉的卡车逃掉了。
 
 ;0xCB85F9F0=~s~Use ~PAD_SIXAXIS_PITCH~ to advance to the front of the cab.
 0xCB85F9F0=~s~用~PAD_SIXAXIS_PITCH~前进到驾驶室前方。
@@ -60,7 +60,7 @@
 0xEFDDA59C=~s~回到~b~卡车~s~上。
 
 ;0xF607AB8F=~s~Lose your wanted level.
-0xF607AB8F=~s~降低你的通缉度。
+0xF607AB8F=~s~摆脱通缉。
 
 ;0xFFEA0E34=~s~Climb onto the back of the truck.
 0xFFEA0E34=~s~爬上卡车尾部。

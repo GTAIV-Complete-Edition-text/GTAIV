@@ -27,10 +27,10 @@
 0x6E2716CA=~s~按~INPUT_ENTER~登上梯子，用~PAD_LSTICK_UPDOWN~在梯子上攀爬。
 
 ;0x77E42A44=~s~Use the ladders to chase Ivan through the building site.
-0x77E42A44=~s~爬上梯子追赶试图穿过工地的Ivan。
+0x77E42A44=~s~爬上梯子，在工地中追赶Ivan。
 
 ;0x956CD959=~r~Ivan~s~ is escaping into the construction site. Chase him.
-0x956CD959=~r~Ivan~s~逃进了建筑工地，追上他。
+0x956CD959=~r~Ivan~s~逃进了建筑工地，追上去。
 
 ;0xAD66EF29=~s~Choose ~r~Ivan's~s~ fate.
 0xAD66EF29=~s~决定~r~Ivan~s~的命运。

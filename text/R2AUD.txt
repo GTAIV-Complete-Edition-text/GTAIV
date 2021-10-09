@@ -207,10 +207,10 @@
 0x303EB0D9=R2_CC
 
 ;0x30A503BF=~z~Shit, I almost forgot. I'm giving you my old phone, my new number's in there.
-0x30A503BF=~z~操，我差点忘了。我的旧手机给你，我的新号已经存里面了。
+0x30A503BF=~z~操，差点忘了。我的旧手机给你，我的新号已经存里面了。
 
 ;0x30E5AF11=~z~Remember, do not hurt the loan sharks. The debt will just increase.
-0x30E5AF11=~z~记住，不要伤着讨债的。这样债只会变多。
+0x30E5AF11=~z~记住，不要伤着讨债的，否则债上加债。
 
 ;0x314463E2=~z~You should lose few pounds - otherwise this beautiful lady is going to leave you.
 0x314463E2=~z~你也该掉点肉了，不然这位美丽的女士可就要离你而去了。
@@ -240,7 +240,7 @@
 0x3A8222E3=R2_GA
 
 ;0x3AC8306A=~z~- there is a lot of stuff I must get used to here in Liberty City.
-0x3AC8306A=~z~在自由城我还有很多东西要去习惯。
+0x3AC8306A=~z~在自由城我还有很多东西要去适应。
 
 ;0x3CBD1B1D=R2_LH
 0x3CBD1B1D=R2_LH
@@ -276,7 +276,7 @@
 0x45E5703E=R2_WC
 
 ;0x466E47B6=~z~Here in Liberty City, we speak English. Get used to this.
-0x466E47B6=~z~这里是自由城，我们都讲英文。赶紧习惯吧。
+0x466E47B6=~z~这里是自由城，我们都讲英文。赶紧适应吧。
 
 ;0x47058F64=~z~I know... I'm a fat prick, what can I do?
 0x47058F64=~z~我知道...我就一肥猪，我能怎么办？
@@ -342,7 +342,7 @@
 0x5549CD08=~z~别伤着他们，我知道你是个什么人，Niko Bellic。
 
 ;0x563B4C4E=~z~You're taking me to a backroom game where I'll win all the dollars we need to really see this town.
-0x563B4C4E=~z~你开车带我去地下赌场，我在那就能把需要的钱都赢来，带你在城里好好见识见识。
+0x563B4C4E=~z~你开车送我去地下赌场，我在那就能把需要的钱都赢来，带你在城里好好见识见识。
 
 ;0x56B6F251=~z~It's about making other players think you have best cards,
 0x56B6F251=~z~写的是让对手认为你有最好的手牌，
@@ -402,7 +402,7 @@
 0x6709813C=R2_MB
 
 ;0x6843705E=~z~No, funny guy - we going to get money. In America you need money to do anything.
-0x6843705E=~z~不，真会说笑...我们去挣钱。在美国你做什么事都要钱。
+0x6843705E=~z~不，真会说笑...我们去挣钱。在美国，做什么事都要钱。
 
 ;0x6858D413=R2_OA
 0x6858D413=R2_OA
@@ -522,7 +522,7 @@
 0x8A3C9F75=R2_DB
 
 ;0x8C1B530F=~z~I think that speaking this language should be the least of my problems.
-0x8C1B530F=~z~我想说英文应该是最好解决的问题。
+0x8C1B530F=~z~说英文应该是最容易适应的部分。
 
 ;0x8D07E2C2=R2_CB
 0x8D07E2C2=R2_CB
@@ -600,7 +600,7 @@
 0xA8CEC909=~z~－嗨。~n~－Niko，这位是Mallorie，我跟你说过的美女...
 
 ;0xA9E42374=~z~Hey, they have stopped following us. Clearly they are too scared of what I could do to them.
-0xA9E42374=~z~喂，他们没再追过来了。显然他们很怕我对他们做些什么。
+0xA9E42374=~z~喂，他们没再追过来了。肯定是怕我对他们做些什么。
 
 ;0xACEAD3F0=R2_FC
 0xACEAD3F0=R2_FC
@@ -756,7 +756,7 @@
 0xCE53736A=R2_NA
 
 ;0xCECB40E2=~z~Of course they saw you. I mean... you're a distinctive man Roman.
-0xCECB40E2=~z~肯定看见你了。我是说...你这人很独特，Roman。
+0xCECB40E2=~z~肯定看见你了。我是说...你这人很显眼，Roman。
 
 ;0xD056818D=100100
 0xD056818D=100100

@@ -21,10 +21,10 @@
 0x24106656=~s~在~1~秒内回到车上。
 
 ;0x2AA36DF8=~s~Line up your car.
-0x2AA36DF8=~s~对齐你的赛车。
+0x2AA36DF8=~s~进入起跑队列。
 
 ;0x2E417BD8=~s~Press ~INPUT_VEH_CIN_CAM~ ~s~ to look at the next checkpoint.
-0x2E417BD8=~s~按~INPUT_VEH_CIN_CAM~~s~看向下一个检查点。
+0x2E417BD8=~s~按~INPUT_VEH_CIN_CAM~看向下一个检查点。
 
 ;0x40F19A94=~r~The race car got trashed.
 0x40F19A94=~r~比赛用车报废了。

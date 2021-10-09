@@ -6,10 +6,10 @@
 0x402B006D=~s~保护Packie。
 
 ;0x444B02F3=~s~Hold ~INPUT_AIM~ to look through the scope of the rifle, when it is equipped.
-0x444B02F3=~s~装备狙击枪时，~n~按住~INPUT_AIM~透过瞄准镜瞄准。
+0x444B02F3=~s~装备狙击枪时，按住~INPUT_AIM~开镜。
 
 ;0x53F92809=~s~Make your way to the ~y~vantage point.
-0x53F92809=~s~前往~y~制高点。
+0x53F92809=~s~前往~y~有利位置。
 
 ;0x553D5D64=~r~ Packie was injured. You failed to protect him.~s~
 0x553D5D64=~r~Packie受伤了。你没能保护好他。~s~
@@ -24,7 +24,7 @@
 0x6641CC9A=~s~干掉所有~r~袭击者。
 
 ;0x764817F1=~s~Lose your wanted level.~s~
-0x764817F1=~s~降低你的通缉度。~s~
+0x764817F1=~s~摆脱通缉。~s~
 
 ;0x79EEF3F4=~s~Go to the ~y~building~s~ in South Bohan.
 0x79EEF3F4=~s~前往South Bohan的~y~公寓楼。
@@ -72,8 +72,8 @@
 0xF2DC65C9=~s~去屋顶拿~g~狙击步枪。
 
 ;0xF3FEEBBC=~s~Hold ~PAD_RB~ to look through scope of the rifle when it is equipped.
-0xF3FEEBBC=~s~装备狙击枪时，~n~按住~PAD_RB~透过瞄准镜瞄准。
+0xF3FEEBBC=~s~装备狙击枪时，按住~PAD_RB~开镜。
 
 ;0xF59EB0CB=~s~Use ~INPUT_AIM~ to look through the scope of the rifle, when it is equipped.
-0xF59EB0CB=~s~装备狙击枪时，~n~按住~INPUT_AIM~透过瞄准镜瞄准。
+0xF59EB0CB=~s~装备狙击枪时，按住~INPUT_AIM~开镜。
 

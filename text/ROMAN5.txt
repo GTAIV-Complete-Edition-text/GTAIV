@@ -3,10 +3,10 @@
 0x0511665B=小地图上闪烁的区域表示警方的搜捕范围。范围内的警察会用红蓝交替闪烁的圆点标识。
 
 ;0x2ECF0802=~r~Roman's car was trashed.
-0x2ECF0802=~r~Roman的车毁了。
+0x2ECF0802=~r~Roman的车被毁了。
 
 ;0x4F7745B7=You have evaded the cops. Stay out of trouble to completely lose your wanted level.
-0x4F7745B7=你已经避开了警察。避免惹事生非，彻底降低你的通缉度。
+0x4F7745B7=你已经避开了警察。避免惹事生非，彻底摆脱通缉。
 
 ;0x5FAE985C=To lose your wanted level escape the flashing zone and keep a low profile.
 0x5FAE985C=逃出闪烁区域并低调行事以降低通缉度。
@@ -15,7 +15,7 @@
 0x63827858=~S~倒车出库。
 
 ;0x6D18B330=If you are seen leaving the zone by the cops then they will refocus their search and a new zone will be created.
-0x6D18B330=你若在离开搜捕范围时被警察目击，警方就会重新划定搜捕范围。
+0x6D18B330=若你在离开搜捕范围时被警察目击，警方就会重新划定搜捕范围。
 
 ;0x8ECE46AF=~S~You can use the Pay 'n' Spray to clear your wanted level as long as the cops don't see you entering.
 0x8ECE46AF=~S~只要警察没有目击你进入，你就可以通过喷漆店清空你的通缉度。
@@ -33,7 +33,7 @@
 0xB2A08E5F=~S~你的车辆将得到修理并重新喷漆，时间会前进3个小时。
 
 ;0xB535E764=~S~Drive to ~Y~Rotterdam Hill~S~ and meet Roman's customer.
-0xB535E764=~S~开车去~Y~Rotterdam Hill~S~与Roman的顾客见面。
+0xB535E764=~S~开车去~Y~Rotterdam Hill~S~接Roman的顾客。
 
 ;0xCF403CC7=~r~Jermaine is dead.
 0xCF403CC7=~r~Jermaine死了。
@@ -51,7 +51,7 @@
 0xDAAE53A3=~r~车辆无法行驶。~s~
 
 ;0xDD273972=~S~Lose your wanted level.
-0xDD273972=~S~降低你的通缉度。
+0xDD273972=~S~摆脱通缉。
 
 ;0xE2F3FF87=~S~You have lost your wanted level, take Jermaine to ~Y~Gibson Street.
 0xE2F3FF87=~S~你已摆脱通缉，送Jermaine去~Y~Gibson街。

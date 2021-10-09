@@ -30,7 +30,7 @@
 0x8E08CB2A=找一辆载具，前往~y~起点。
 
 ;0x92D88D34=Lose your wanted level, or the race may be abandoned.
-0x92D88D34=降低你的通缉度，否则比赛将会中止。
+0x92D88D34=摆脱通缉，否则比赛将会中止。
 
 ;0x967F991D=2nd
 0x967F991D=2nd
@@ -54,7 +54,7 @@
 0xCE5E117A=5rh
 
 ;0xF6E4FEE5=Line up your vehicle.
-0xF6E4FEE5=对齐你的载具。
+0xF6E4FEE5=进入起跑队列。
 
 ;0xFAF187C6=Get a suitable vehicle.
 0xFAF187C6=找一辆合适的载具。

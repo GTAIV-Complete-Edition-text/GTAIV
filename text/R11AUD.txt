@@ -24,7 +24,7 @@
 0x04D70B8C=~z~你还是不熟悉这里，堂弟。你不明白。
 
 ;0x05E43C48=~z~I got here and I had nothing, nobody. I worked my way up from the fucking dirt.
-0x05E43C48=~z~我来的时候啥都没有，谁都不认识。全他妈是从无到有奋斗出来的。
+0x05E43C48=~z~我来的时候啥都没有，谁都不认识。~n~全他妈是从无到有奋斗出来的。
 
 ;0x060B18B1=R11_IB
 0x060B18B1=R11_IB
@@ -75,7 +75,7 @@
 0x1169BD28=R11_KD
 
 ;0x120C25F6=~z~No, we are not. I was going to propose to her but it is no longer possible.
-0x120C25F6=~z~不是，还没呢。我本来是要跟她求婚了，不过现在是不可能了。
+0x120C25F6=~z~不是，还没呢。我本来是要跟她求婚了，但现在不可能了。
 
 ;0x12449FF6=R11_FA
 0x12449FF6=R11_FA
@@ -84,7 +84,7 @@
 0x130422B3=R11_KQ
 
 ;0x135622C6=~z~Now, I have nothing to spend... nothing. Oh yeah, I have you. Great.
-0x135622C6=~z~现在，我都没东西可以挥霍了...没了。噢，对，我还有你。真好。
+0x135622C6=~z~现在我都没东西可以挥霍了...没了。噢，对，我还有你。真好。
 
 ;0x13611FEF=R11_FC
 0x13611FEF=R11_FC
@@ -237,7 +237,7 @@
 0x3A47A5D3=SFX_PAUSE_2000
 
 ;0x3B43A706=~z~Do you know how long it took me to get a place of my own?
-0x3B43A706=~z~你知道我花了多久才有了自己的地方吗？
+0x3B43A706=~z~你知道我花了多久才有了自己的家吗？
 
 ;0x3B996952=100010010100
 0x3B996952=100010010100
@@ -297,7 +297,7 @@
 0x464705CF=R11_NZ
 
 ;0x46518319=~z~Do you know how long it took me to get set up here? You don't because it was easy for you.
-0x46518319=~z~你知道我为了在这里开店花了多久吗？你不知道，因为你过得太容易了。
+0x46518319=~z~你知道我为了在这里开店花了多久吗？~n~你不知道，因为你过得太容易了。
 
 ;0x46EF800E=~z~This, I did not expect.
 0x46EF800E=~z~这我倒没想到。
@@ -339,7 +339,7 @@
 0x4F86239F=R11_MM
 
 ;0x4FE94276=~z~You remember that time we went to the bar back home and found it razed to the ground?
-0x4FE94276=~z~你还记不记得当年我们从酒吧回家，结果发现家被夷为平地？
+0x4FE94276=~z~你还记得当年我们从酒吧回家，结果发现家被夷为平地吗？
 
 ;0x50A4A173=R11_KP
 0x50A4A173=R11_KP
@@ -366,7 +366,7 @@
 0x53EDCE6F=~z~他们居然放火...他们居然他妈放火，Niko！
 
 ;0x5402F596=~z~What are we going to do in Bohan? Pick up the whores on Chase Point?
-0x5402F596=~z~我们去Bohan干嘛？去Chase Point勾搭几个妓女？
+0x5402F596=~z~我们去Bohan干嘛？去Chase Point勾搭妓女吗？
 
 ;0x545299A3=~z~We can pick up our stuff, and then get out of here.
 0x545299A3=~z~我们可以去收拾下行李，然后就离开这儿。
@@ -417,7 +417,7 @@
 0x65A06E0C=R11_KA
 
 ;0x65F4197C=~z~You know what you can catch from those girls?
-0x65F4197C=~z~你知道你能从那些妞身上抓住什么吗？
+0x65F4197C=~z~知道那些鸡身上有多脏吗？
 
 ;0x66006A56=100100100100100100010100100100100010010010100100100100
 0x66006A56=100100100100100100010100100100100010010010100100100100
@@ -507,7 +507,7 @@
 0x76A0151B=R11_KH
 
 ;0x76C6BB21=~z~Even I would not go with those hookers on the point, cousin.
-0x76C6BB21=~z~都这时候了我怎么可能会去找鸡，堂弟。
+0x76C6BB21=~z~就连我都不会去那里叫鸡，堂弟。
 
 ;0x77489150=~z~I don't want to talk about back home.
 0x77489150=~z~我不想说以前的事。
@@ -531,13 +531,13 @@
 0x7B0B9C46=R11_CB
 
 ;0x7B423A45=~z~This could be the start of that. A fresh beginning.
-0x7B423A45=~z~这就可以是梦的开始。一个全新的起点。
+0x7B423A45=~z~这就可以是梦的开始，一个全新的起点。
 
 ;0x7B80F7DB=~z~No. Don't be like that... we can find a way out of this...
 0x7B80F7DB=~z~别，别这样...我们可以想法子摆脱的...
 
 ;0x7BB444FC=~z~I always put a saddle on a horse before I ride her, Roman. I won't catch nothing.
-0x7BB444FC=~z~我上马之前总会先给她套个鞍的，Roman。我用不着去抓什么。
+0x7BB444FC=~z~我上马之前总会先套个鞍的，Roman。不会得脏病的。
 
 ;0x7C42FCD3=R11_XYA
 0x7C42FCD3=R11_XYA
@@ -597,7 +597,7 @@
 0x8819910C=~z~我们没时间复仇了。我们来不及的。
 
 ;0x8893879C=~z~Well, it doesn't matter. Now it's gone along with everything else.
-0x8893879C=~z~也是，现在都无所谓了。全都化为灰烬了。
+0x8893879C=~z~现在都无所谓了，全都化为灰烬了。
 
 ;0x8B0532B1=R11_KF
 0x8B0532B1=R11_KF
@@ -612,7 +612,7 @@
 0x8CA1567E=R11_MD
 
 ;0x8CD1BC62=~z~Yeah... we sat down and finished it off there and then. Wait... wait...
-0x8CD1BC62=~z~记得...我们坐下来，在那儿把酒喝完了，~n~然后，打住...打住...
+0x8CD1BC62=~z~记得...我们坐下来，在那儿把酒喝完了。~n~打住...打住...
 
 ;0x8D03961B=~z~You know what? I think maybe they might get me when going after you.
 0x8D03961B=~z~你知道吗？我觉得他们追杀你的时候可能会来抓我。
@@ -624,7 +624,7 @@
 0x9086046D=R11_KK
 
 ;0x90D313D8=~z~A classy place. None of this fast-food, diner bullshit. We own a real restaurant, a tavern.
-0x90D313D8=~z~精致的地儿。不是什么垃圾快餐小饭店。我们开的是真正的餐厅，一家酒馆。
+0x90D313D8=~z~精致的地儿，不是什么垃圾快餐小饭店。我们开的是真正的餐厅，一家酒馆。
 
 ;0x90D8FA02=~z~We've got a big problem.
 0x90D8FA02=~z~我们遇上大麻烦了。
@@ -690,13 +690,13 @@
 0xA196EE9E=R11_EC
 
 ;0xA21B1C8E=~z~In here. I'm stuck. Let me out...
-0xA21B1C8E=~z~我在这，动不了。放我出来...
+0xA21B1C8E=~z~我在这儿，动不了。放我出来...
 
 ;0xA3524EBE=R11_ML
 0xA3524EBE=R11_ML
 
 ;0xA37461F4=~z~Here we are, the beginning of our new lives... again.
-0xA37461F4=~z~就是这了，我们新生活的开始...重新开始。
+0xA37461F4=~z~就是这儿了，我们新生活的开始...重新开始。
 
 ;0xA4114782=~z~You cannot escape the past. Only thing is future, right?
 0xA4114782=~z~人无法逃避过去。眼前只会有未来，对吧？
@@ -720,13 +720,13 @@
 0xA885923F=~z~我说的不是很多钻石，只有一颗钻石和一个金环。
 
 ;0xA8AAF1B2=~z~It's on fire, fuck!
-0xA8AAF1B2=~z~这也着了，操！
+0xA8AAF1B2=~z~这儿也着了，操！
 
 ;0xA8DA4F6D=~z~What?
 0xA8DA4F6D=~z~啥？
 
 ;0xA98B75D5=~z~We're here in America now and I should be thinking about my life here, my life which is ruined.
-0xA98B75D5=~z~我们现在在美国，我应该想的是这里的生活，我的生活已经毁了。
+0xA98B75D5=~z~我们现在在美国，我想的应该是这里的生活，我的生活已经毁了。
 
 ;0xABB8D385=~z~I am the one end up feeling the pain after you piss people off.
 0xABB8D385=~z~每次你把人惹恼了，最后都是我挨打。
@@ -801,7 +801,7 @@
 0xC0B51013=R11_NM
 
 ;0xC271A255=~z~That is what I wanted to show you. It was a beautiful ring.
-0xC271A255=~z~就是我刚才想给你看的那个。真的是个很好看的戒指。
+0xC271A255=~z~就是我刚才想给你看的那个，真的是个很好看的戒指。
 
 ;0xC44D04AD=~z~I guess you cannot escape your past.
 0xC44D04AD=~z~我想你也逃避不了你的过去。
@@ -888,7 +888,7 @@
 0xD8D53109=~z~那个背叛了村子的人。
 
 ;0xD9E52A42=~z~Finally I bought a cab and then another, then I got the depot...
-0xD9E52A42=~z~终于我买下了第一辆的士，然后是第二辆，然后开起了车行...
+0xD9E52A42=~z~终于我买下了第一辆的士，~n~然后是第二辆，然后开起了车行...
 
 ;0xDA72D1D3=~z~But I wanted to really have her. I wanted to marry her.
 0xDA72D1D3=~z~但是我想真正拥有她。我想和她结婚。
@@ -933,7 +933,7 @@
 0xE5F3BE18=~z~现在是不能，但是在梦里你遇到了那个她。她很美。
 
 ;0xE7235025=~z~What are you expressing when you spend your money in backroom card games?
-0xE7235025=~z~那你在地下牌局挥霍的时候是想表现什么？
+0xE7235025=~z~那你在地下赌场挥霍的时候是想表现什么？
 
 ;0xE8041964=R11_EK
 0xE8041964=R11_EK
@@ -1005,7 +1005,7 @@
 0xFD3096CB=~z~记得去洗个澡。你身上有点，呃，男人味？
 
 ;0xFDCB9884=~z~I can't have the tavern now. I have nothing to buy it with. I have, I have nothing.
-0xFDCB9884=~z~我现在开不了酒馆了。我没办法买下它，~n~现在我，我啥都没有了。
+0xFDCB9884=~z~我现在开不了酒馆了，根本就买不起。~n~现在我、我啥都没有了。
 
 ;0xFE7F4FBB=~z~They took it all.
 0xFE7F4FBB=~z~全被烧了。

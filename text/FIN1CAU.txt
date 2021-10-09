@@ -441,7 +441,7 @@
 0x7D2220A1=FIN1C_HA
 
 ;0x7D3261E2=~z~You're not getting away, Pegorino.
-0x7D3261E2=~z~你跑不掉了，Pegorino。
+0x7D3261E2=~z~你跑不掉的，Pegorino。
 
 ;0x7D424854=100100010
 0x7D424854=100100010
@@ -622,7 +622,7 @@
 0xB2EC9A0B=~z~妈的，要跟丢了。离他再近点，兄弟。
 
 ;0xB383C8C4=~z~Rhaatid, see him dere. Ya have fe stick to him me breda.
-0xB383C8C4=~z~我去，他来了。你一定要跟住他，好兄弟。
+0xB383C8C4=~z~我去，他来了。一定要跟住他，好兄弟。
 
 ;0xB4839D45=~z~Niko, you need fe get closer. We can't be losing him.
 0xB4839D45=~z~Niko，你得再近点。我们不能跟丢他。
@@ -776,7 +776,7 @@
 0xD9B09D1C=402
 
 ;0xDAE32510=~z~Me knew you'd find a way, me bredren. Take control of dis ting. You better at driving than me.
-0xDAE32510=~z~我知道你能杀出来的，好兄弟。飞机你开吧，你技术比我好。
+0xDAE32510=~z~就知道你能杀出来，好兄弟。飞机你开吧，你技术比我好。
 
 ;0xDB375CC5=~z~You're checking your blind spots, right Niko?
 0xDB375CC5=~z~你在检查你的盲点，对吗，Niko？
@@ -794,7 +794,7 @@
 0xDEED38DA=~z~上来，NB。使劲。
 
 ;0xDF6474AB=~z~You coulda worked with me and everything woulda been gravy.
-0xDF6474AB=~z~本来你跟我合作的话大家都能吃肉。
+0xDF6474AB=~z~你跟我合作的话大家都能吃肉。
 
 ;0xDFDEF179=~z~Would the black Huntley please pull over to the central reservation. You have been flagged for reckless driving.
 0xDFDEF179=~z~请布莱克亨特利饭店把车停在中央预订处好吗?你因鲁莽驾驶而被警告。;//未使用
@@ -830,7 +830,7 @@
 0xE8817759=~z~求求别杀了我们，求求别杀了我们，求求别杀了我们。
 
 ;0xE8F8ED26=~z~Your problem is you like killing too much.
-0xE8F8ED26=~z~你的问题是你太喜欢杀戮了。
+0xE8F8ED26=~z~你的问题就是太喜欢杀戮了。
 
 ;0xE91F972F=FIN1C_A_OA
 0xE91F972F=FIN1C_A_OA
@@ -902,5 +902,5 @@
 0xFF0E1D1E=~z~快点兄弟，赶紧上车。
 
 ;0xFFFD9B37=~z~Don't think I don't know how to fight.
-0xFFFD9B37=~z~别以为我不知道怎么干架。
+0xFFFD9B37=~z~别以为我不懂得战斗。
 

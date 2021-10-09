@@ -51,7 +51,7 @@
 0x10C7DB7C=100
 
 ;0x10FD3023=~z~Niko, man, excuse me but I got to make this call to tell this guy we're borrowing his car.
-0x10FD3023=~z~Niko，哥们，不好意思，我得给这家伙打个电话，跟他讲我们要借他的车。
+0x10FD3023=~z~Niko，哥们，不好意思，我得给这家伙打个电话，问他借一辆车。
 
 ;0x11570858=BR4_RA
 0x11570858=BR4_RA
@@ -84,7 +84,7 @@
 0x1C4DE427=BR4_GQ
 
 ;0x1CDFDE9A=~z~It's outside? Great. I love you man.
-0x1CDFDE9A=~z~停外面了？太棒了，我爱你哥们。
+0x1CDFDE9A=~z~啥，停外面了？太棒了，我爱你哥们。
 
 ;0x1D020FE3=BR4_OB
 0x1D020FE3=BR4_OB
@@ -129,7 +129,7 @@
 0x3504BFE1=100100100
 
 ;0x3687DBBC=~z~You wanted to win that bad. It's genetic. Genetically different homie.
-0x3687DBBC=~z~你也太想赢了。这是刻在基因上的，基因上就不同，哥们儿。
+0x3687DBBC=~z~你也太想赢了。这是刻在骨子里的，骨子里就不同，哥们儿。
 
 ;0x377413C2=~z~Thanks, but I got my hands full.
 0x377413C2=~z~不必了，我正忙着开车呢。
@@ -150,7 +150,7 @@
 0x422463C7=~z~老兄，你把它搞烂了。你根本不在乎对吧？真是禽兽。
 
 ;0x475E4C66=~z~You got a hard body and the skills to back it up, baby.
-0x475E4C66=~z~你有坚硬的身体和车技来赢得冠军，宝贝。
+0x475E4C66=~z~你的体魄和车技足以赢得冠军，宝贝。
 
 ;0x47D148B2=~z~What are you doing man? We got a race to win.
 0x47D148B2=~z~你干啥呢，哥们？我们还有比赛要赢呢。
@@ -162,7 +162,7 @@
 0x4FB502D5=~z~Stevie在Willis的Freetown Avenue。
 
 ;0x527FD101=~z~You let me inside. You let your armor down, you know? We had a moment, man.
-0x527FD101=~z~你接纳了我。你放下了心防，懂吧？真是愉快的时光，哥们。
+0x527FD101=~z~你接纳了我，放下了心防，懂吧？真是愉快的时光，哥们。
 
 ;0x54EBB15F=BR4_A_DA
 0x54EBB15F=BR4_A_DA
@@ -180,7 +180,7 @@
 0x59A1ED42=100100010
 
 ;0x5A2FD939=~z~Tighter than... shit I was gonna say my abs but I think you know that nothing's tighter than this shit.
-0x5A2FD939=~z~比...干，本来想说比我的腹肌还铁，不过你也知道没有东西比我的腹肌更铁。
+0x5A2FD939=~z~比我的...干，本来想说比我的腹肌还铁，不过你也知道没有东西比我的腹肌更铁。
 
 ;0x5C7F48E3=~z~Yeah, pretty good.
 0x5C7F48E3=~z~是的，非常好。
@@ -201,7 +201,7 @@
 0x632E808E=~z~噢耶。
 
 ;0x64D575AC=~z~Nicky. I feel like we really bonded back there. I'm close to you, man.
-0x64D575AC=~z~Nicky，我觉得我们之间很有默契。我跟你很亲近了，哥们。
+0x64D575AC=~z~Nicky，我觉得我俩很有默契。我跟你很亲近了，哥们。
 
 ;0x653D5150=BR4_PA
 0x653D5150=BR4_PA
@@ -216,7 +216,7 @@
 0x694EF777=~z~天哪，这正是你和我应该去做的那种事。
 
 ;0x6B4BFB59=~z~Cruising for bitches, destroying the town. You and me could be doing some serious damage.
-0x6B4BFB59=~z~开车去找婊子，打砸这座城镇。你和我能造成巨大的破坏。
+0x6B4BFB59=~z~开车去找婊子，打砸这座城市。你和我能造成巨大的破坏。
 
 ;0x6C263431=BR4_GR_QQQ1
 0x6C263431=BR4_GR_QQQ1
@@ -336,7 +336,7 @@
 0xA86B6395=~z~不是，另外一辆。当然不会有事。
 
 ;0xAA544F58=~z~bitches don't like losers, man. You're genetically different homie!
-0xAA544F58=~z~婊子们不喜欢失败者，哥们。你可是骨子里就不同的！
+0xAA544F58=~z~婊子不喜欢失败者，哥们。你可是骨子里就不同的！
 
 ;0xAABA1DDD=BR4_GO
 0xAABA1DDD=BR4_GO
@@ -417,7 +417,7 @@
 0xC55B0FEE=~z~操，他们出发了。快，快，快。
 
 ;0xC611497A=~z~No-one, I mean no-one can touch us up here.
-0xC611497A=~z~没人，我是说没人能摸到我们的屁股。
+0xC611497A=~z~没人，没有人能摸到我们的屁股。
 
 ;0xC786600A=BR4_VA
 0xC786600A=BR4_VA
@@ -462,7 +462,7 @@
 0xDFFFE668=100100100100010
 
 ;0xE0E0F63E=~z~A little botulism special there? I like that homie.
-0xE0E0F63E=~z~要么来点肉毒素？我喜欢那个，老兄。
+0xE0E0F63E=~z~要么来点肉毒素？我很喜欢的，老兄。
 
 ;0xE1C1FD87=~z~You think someone like me has come second even once in his life? No fuckin' way.
 0xE1C1FD87=~z~你觉得我这样的人这辈子有位居第二过吗？绝对不可能。

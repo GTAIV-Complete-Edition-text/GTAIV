@@ -15,7 +15,7 @@
 0x1AEE5946=你把~b~Little Jacob~s~落下了，回去找他。
 
 ;0x21E780A3=When locked onto enemies you can switch between targets using ~PAD_RSTICK_LEFTRIGHT~.
-0x21E780A3=锁定敌人时，你可以通过~PAD_RSTICK_LEFTRIGHT~切换目标。
+0x21E780A3=锁定敌人时，你可以用~PAD_RSTICK_LEFTRIGHT~切换目标。
 
 ;0x286FF571=Go to ~y~Schottler.
 0x286FF571=前往~y~Schottler。
@@ -48,7 +48,7 @@
 0x5EDCF80E=目标图标会通过上下箭头表示~r~敌人~s~相对于你的位置。
 
 ;0x90024370=Lose your wanted level.
-0x90024370=降低你的通缉度。
+0x90024370=摆脱通缉。
 
 ;0xA4FAF0C9=Use ~PAD_SIXAXIS_RELOAD~ to reload.
 0xA4FAF0C9=使用~PAD_SIXAXIS_RELOAD~装弹。

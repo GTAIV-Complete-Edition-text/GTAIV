@@ -1,7 +1,4 @@
-﻿;注：
-;1.Beta一大堆 都没翻 无视吧
-
-[FCJCPAU]
+﻿[FCJCPAU]
 ;0x0048D0B8=~z~Me down Willis, link me up.
 0x0048D0B8=~z~Me down Willis, link me up.
 
@@ -138,7 +135,7 @@
 0x30651907=100
 
 ;0x32ECCD53=~z~Okay, bad boy - just call me when you have some time.
-0x32ECCD53=~z~好吧，小坏蛋，等你有空了记得找我。
+0x32ECCD53=~z~好吧，小坏蛋，有空了记得找我。
 
 ;0x3317921E=100
 0x3317921E=100
@@ -147,10 +144,10 @@
 0x342F7CDD=~z~我在Cerveza Heights，兄弟。来接我。
 
 ;0x3680C42C=~z~Yeah, man. Me see you here soon.
-0x3680C42C=~z~好，兄弟。我等你过来。
+0x3680C42C=~z~好。我等你过来。
 
 ;0x37BE2430=~z~Wanna play a lickle bit o' pool or something, me breda?
-0x37BE2430=~z~你想不想来打会儿台球啊，好兄弟？
+0x37BE2430=~z~想不想来打会儿台球啊，好兄弟？
 
 ;0x37F2C10A=~z~Me down at Firefly Island man, link up man, me need a ride, man.
 0x37F2C10A=~z~我在Firefly Island，兄弟。快过来，我需要接送，兄弟。
@@ -159,7 +156,7 @@
 0x395FA85A=100
 
 ;0x39D4BCA3=~z~Sorry, I've got some serious shit on just now, Jacob. I can't help just now.
-0x39D4BCA3=~z~抱歉，我现在有点麻烦事要处理，Jacob。现在没法帮你。
+0x39D4BCA3=~z~抱歉，我现在有点麻烦要处理，Jacob。没法帮你了。
 
 ;0x39F312F2=~z~Me need some transportation from Rotterdam Hill, can you pick me up?
 0x39F312F2=~z~我现在在Rotterdam Hill，需要有人接送，你能帮我吗？
@@ -168,7 +165,7 @@
 0x3BDADBBB=~z~哥们，我在South Slopes，快点来。我需要接送，兄弟，需要接送。
 
 ;0x3C61E03D=~z~No problem, man. Hit me up when you're free.
-0x3C61E03D=~z~没问题，兄弟。等你有空了再打给我。
+0x3C61E03D=~z~没问题，兄弟。有空了记得联系。
 
 ;0x3D4BCF04=100
 0x3D4BCF04=100
@@ -198,7 +195,7 @@
 0x48DCC228=FCJ_ACT_PLJ_GETCALL_DARTS_NO
 
 ;0x4A0148B6=~z~You wanna play some pool?
-0x4A0148B6=~z~你想来打局台球吗？
+0x4A0148B6=~z~你想打台球吗？
 
 ;0x4A4965B7=~z~Star, me down Firefly Island man, link up man, me need a ride man, link up star, link up.
 0x4A4965B7=~z~哥们，我在Firefly Island，快过来，我需要你接我，兄弟，快。
@@ -210,7 +207,7 @@
 0x4C4139C1=FCJ_ACT_GETCALL_LIFT_SOUTH_SLOPES
 
 ;0x4CC85E6E=~z~No. I can't do darts just now.
-0x4CC85E6E=~z~不了。我现在不想玩飞镖。
+0x4CC85E6E=~z~不了。我现在没空玩飞镖。
 
 ;0x4D858342=~z~Yeah, I'll be there within the hour, Jacob.
 0x4D858342=~z~好的，我一小时内就到，Jacob。
@@ -336,7 +333,7 @@
 0x81678783=FCJ_ACT_GETCALL_IRATE
 
 ;0x831EBAAC=~z~Yes, definitely. I will be there in the next hour.
-0x831EBAAC=~z~好啊，当然啦。我一小时内到。
+0x831EBAAC=~z~好啊，当然了。我一小时内到。
 
 ;0x833231E6=~z~Jacob, sorry, man, something serious has come up. I can't make it to the hospital.
 0x833231E6=~z~Jacob，抱歉，兄弟，突然有点急事。我来不了医院了。
@@ -369,7 +366,7 @@
 0x8BB8E123=~z~不了，Jacob，我现在没空。
 
 ;0x8F7E7216=~z~Yeah sure - I'll pick you up in the next sixty minutes.
-0x8F7E7216=~z~好啊，当然－我会在60分钟内来接你的。
+0x8F7E7216=~z~好啊，当然。我60分钟内来接你。
 
 ;0x94BEAA9B=~z~Why not? I'm bored as hell. I'll come over in the next hour.
 0x94BEAA9B=~z~何不呢？我刚好很无聊。一小时内就到。
@@ -453,7 +450,7 @@
 0xB0E4496C=~z~有空一起吃顿饭吗？
 
 ;0xB2B4A6CC=~z~Yo, star, me down East Hook, man. Link up, star, me need a ride.
-0xB2B4A6CC=~z~哟，哥们，我在East Hook，兄弟。快过来，我需要接送。
+0xB2B4A6CC=~z~哟，哥们，我在East Hook。快过来，我需要接送。
 
 ;0xB2C2243F=100
 0xB2C2243F=100
@@ -489,7 +486,7 @@
 0xB76FFE01=~z~哥们，对，我在Firefly公屋社区。快过来兄弟，我需要接送。
 
 ;0xB7749D8B=~z~Whappen to you, rasta? Are we spar today?
-0xB7749D8B=~z~你还好吗，兄弟？去不去喝酒？
+0xB7749D8B=~z~你怎么了，兄弟？今天有空吗？
 
 ;0xB89AD041=FCJ_ACT_PLJ_GETCALL_EAT_NO
 0xB89AD041=FCJ_ACT_PLJ_GETCALL_EAT_NO
@@ -504,7 +501,7 @@
 0xBB28F0CC=FCJ_ACT_GETCALL_LIFT_FIREFLY_PROJECTS
 
 ;0xBB950BAA=~z~Yo, me down at Cerveza Heights man, link me up.
-0xBB950BAA=~z~哟，我现在在Cerveza Heights，兄弟。过来接我。
+0xBB950BAA=~z~哟，我现在在Cerveza Heights。过来接我。
 
 ;0xBD0E5E24=~z~Yo star, wha'gwan? Yeah, me down South Slopes man, yo, link up star, me need a ride.
 0xBD0E5E24=~z~哟，兄弟，你好吗？我在South Slopes，兄弟，快过来，我要搭车。
@@ -531,7 +528,7 @@
 0xC6EA19E6=~z~当然，Jacob，我这就来。一小时内到。
 
 ;0xC717CE2A=~z~One love, rasta.
-0xC717CE2A=~z~再见，兄弟。
+0xC717CE2A=~z~待会儿见，兄弟。
 
 ;0xC7387614=~z~Yo, you want get some food?
 0xC7387614=~z~哟，你想去吃顿饭吗？
@@ -549,7 +546,7 @@
 0xCD4CB564=FCJ_ACT_PLJ_GETCALL_LIFT_NO
 
 ;0xCE963276=~z~Yo me down a' Beechwood City, man, come pick me up.
-0xCE963276=~z~哟，我在Beechwood City，兄弟，过来接我。
+0xCE963276=~z~哟，我在Beechwood City，过来接我。
 
 ;0xCF61E1EE=FCJ_ACT_PLJ_GETCALL_EAT_YES
 0xCF61E1EE=FCJ_ACT_PLJ_GETCALL_EAT_YES
@@ -567,7 +564,7 @@
 0xD1B0FDD0=~z~没问题，兄弟。我会找别人的。
 
 ;0xD2DF77CB=~z~No problems, man. Me mek meself get home.
-0xD2DF77CB=~z~没问题，兄弟。我自己回去吧。
+0xD2DF77CB=~z~没问题。我自己回去吧。
 
 ;0xD52BD460=~z~Me need a lift from Meadow Hills, come pick me up.
 0xD52BD460=~z~我在Meadow Hills，需要搭便车，来接我吧。
@@ -579,7 +576,7 @@
 0xD736201B=100
 
 ;0xD7F94FDD=~z~I'd enjoy that but I'm in the middle of something.
-0xD7F94FDD=~z~我是很想来，但是我现在有点忙。
+0xD7F94FDD=~z~我是很想来，但我现在有点忙。
 
 ;0xD842BE25=~z~Sure I'll come over and pick you up.
 0xD842BE25=~z~好的，我会来接你的。
@@ -588,10 +585,10 @@
 0xD88FCCE8=FCJ_ACT_GETCALL_HOSP_ASK
 
 ;0xD89BBD49=~z~Okay, no problem. I'll be there in an hour.
-0xD89BBD49=~z~好的，没问题，我一小时内就来。
+0xD89BBD49=~z~好的，没问题。我一小时内就来。
 
 ;0xDB4F76CB=~z~No, Jacob, I can't do a show just now.
-0xDB4F76CB=~z~不，Jacob，我现在没空看表演。
+0xDB4F76CB=~z~不行，Jacob，我现在没空看表演。
 
 ;0xDC32B86B=FCJ_ACT_GETCALL_LIFT_OUTLOOK_PARK
 0xDC32B86B=FCJ_ACT_GETCALL_LIFT_OUTLOOK_PARK
@@ -615,7 +612,7 @@
 0xDEF9F778=~z~哟，哥们，你还好吗？我在Outlook Park，兄弟。我需要搭个车。
 
 ;0xDEFE2577=~z~Yeah man, no problem, man - just call me when you're free.
-0xDEFE2577=~z~行兄弟，没问题，兄弟－等你有空了再打给我。
+0xDEFE2577=~z~行吧，没问题，兄弟。有空一定联系啊。
 
 ;0xDF306A25=FCJ_ACT_GETCALL_DRINK
 0xDF306A25=FCJ_ACT_GETCALL_DRINK
@@ -648,7 +645,7 @@
 0xEE83AD2E=~z~我在Willis，过来接我。
 
 ;0xF0E7CA00=~z~Sure man - I'm on my way.
-0xF0E7CA00=~z~当然，兄弟，我这就来。
+0xF0E7CA00=~z~当然，兄弟。我这就来。
 
 ;0xF0F20564=FCJ_ACT_GETCALL_LIFT_WILLIS
 0xF0F20564=FCJ_ACT_GETCALL_LIFT_WILLIS
@@ -657,10 +654,10 @@
 0xF1A90947=FCJ_ACT_GETCALL_LIFT_ROTTERDAM_HILL
 
 ;0xF1A957C2=~z~Yes, me good friend, lets go a show.
-0xF1A957C2=~z~好的，好朋友，一起去看表演吧。
+0xF1A957C2=~z~我说，好朋友，一起去看表演吧。
 
 ;0xF2536E25=~z~Ah gwan about your bloodclot business then, boy.
-0xF2536E25=~z~啊，你忙你的去吧，小子。
+0xF2536E25=~z~啊，滚去忙你的去吧，小子。
 
 ;0xF3DB22A9=FCJ_ACT_GETCALL_LIFT_BEACHWOOD_HILL
 0xF3DB22A9=FCJ_ACT_GETCALL_LIFT_BEACHWOOD_HILL
@@ -675,7 +672,7 @@
 0xF6B6A06C=~z~Niko，好兄弟，我需要你帮个忙。你能来我家接我一趟吗？
 
 ;0xF718C89F=~z~No problem, man. Me find another way.
-0xF718C89F=~z~没问题，兄弟。我自己想办法吧。
+0xF718C89F=~z~没问题。我自己想办法吧。
 
 ;0xF76DB3DC=010
 0xF76DB3DC=010

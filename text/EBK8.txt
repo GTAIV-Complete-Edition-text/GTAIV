@@ -9,7 +9,7 @@
 0x0B317796=PLACEHOLDER
 
 ;0x1195853E=I love a foreign accent about as much as I love a foreign car. Italian is my favourite for both, but anything European works. Pick me up around
-0x1195853E=我喜欢外国口音，就像我爱外国车一样。它们之中我最喜欢意大利的，不过其他的欧洲国家也行。到附近来接我
+0x1195853E=我喜欢外国口音，就像我爱外国车一样。其中我最喜欢意大利的，不过其他的欧洲国家也行。
 
 ;0x129BDB8C=Mmm,
 0x129BDB8C=嗯，
@@ -24,7 +24,7 @@
 0x20E5A2FE=PLACEHOLDER
 
 ;0x210E1E62=pm Tuesday. See you then
-0x210E1E62=星期二下午。到时候见
+0x210E1E62=点(周二下午)来找我。到时候见
 
 ;0x217524FD=Hey, that's not very cool. I thought you Italians were all chivalrous and shit. Guess I was wrong.Have a nice life. You don't know what you missed out on.
 0x217524FD=嘿，那一点都不酷。我还以为你们意大利人都像骑士那样彬彬有礼呢。我猜是我想错了，祝你生活愉快。你可不知道你失去了什么。
@@ -54,10 +54,10 @@
 0x36812AF0=亲爱的对不起，我不是意大利人。像你这样的美国人实在太蠢了，我不会告诉你们这些人我的国籍，除非他们足够老，至少要比你老很多。
 
 ;0x36884956=pm Monday. See you then
-0x36884956=星期一下午。到时候见
+0x36884956=点(周一下午)来找我。到时候见
 
 ;0x3809D226=am Saturday. See you then
-0x3809D226=星期六上午。到时候见
+0x3809D226=点(周六上午)来找我。到时候见
 
 ;0x39BF29D6=Mmm,
 0x39BF29D6=嗯，
@@ -75,7 +75,7 @@
 0x445769E1=PLACEHOLDER
 
 ;0x4B687316=am Wednesday. See you then
-0x4B687316=星期三上午。到时候见
+0x4B687316=点(周三上午)来找我。到时候见
 
 ;0x4F65FC20=PLACEHOLDER
 0x4F65FC20=PLACEHOLDER
@@ -84,10 +84,10 @@
 0x56880E42=PLACEHOLDER
 
 ;0x582B8C9C=pm Sunday. See you then
-0x582B8C9C=礼拜天下午。到时候见
+0x582B8C9C=点(周日下午)来找我。到时候见
 
 ;0x5A8B1728=am Friday. See you then
-0x5A8B1728=星期五上午。到时候见
+0x5A8B1728=点(周五上午)来找我。到时候见
 
 ;0x5AD5C697=Cool, See you then.
 0x5AD5C697=酷，到时候见。
@@ -96,16 +96,16 @@
 0x665302F9=嗯，
 
 ;0x67C0B193=pm Saturday. See you then
-0x67C0B193=星期六下午。到时候见
+0x67C0B193=点(周六下午)来找我。到时候见
 
 ;0x68BF2DC3=am Tuesday. See you then
-0x68BF2DC3=星期二上午。到时候见
+0x68BF2DC3=点(周二上午)来找我。到时候见
 
 ;0x8269E118=am Monday. See you then
-0x8269E118=星期一上午。到时候见
+0x8269E118=点(周一上午)来找我。到时候见
 
 ;0x8C4D7AAC=pm Friday. See you then
-0x8C4D7AAC=星期五下午。到时候见
+0x8C4D7AAC=点(周五下午)来找我。到时候见
 
 ;0x940E4EEB=PLACEHOLDER
 0x940E4EEB=PLACEHOLDER
@@ -117,7 +117,7 @@
 0x9C48169B=PLACEHOLDER
 
 ;0x9DCA9811=am Sunday. See you then
-0x9DCA9811=星期天上午。到时候见
+0x9DCA9811=点(周日上午)来找我。到时候见
 
 ;0xAA8D5E2F=PLACEHOLDER
 0xAA8D5E2F=PLACEHOLDER
@@ -144,7 +144,7 @@
 0xDEE21FD8=嗨Niko。是我。你想和我再去约会吗？在我家附近怎么样？
 
 ;0xE694A970=pm Thursday See you then
-0xE694A970=星期四下午见
+0xE694A970=点(周四下午)来找我。到时候见
 
 ;0xE6FD8450=Ohh,
 0xE6FD8450=噢，
@@ -168,7 +168,7 @@
 0xF13EBFB5=你好，我是个喜欢吃披萨的意大利人。在Firefly岛的GoGetter等我，这样一来你也可以尝一下这里的披萨了。Do Vindenja，
 
 ;0xF425C492=am Thursday See you then
-0xF425C492=星期四上午见
+0xF425C492=点(周四上午)来找我。到时候见
 
 ;0xF843D22F=Yummy,
 0xF843D22F=好吃，

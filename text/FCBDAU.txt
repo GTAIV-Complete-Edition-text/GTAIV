@@ -1,4 +1,4 @@
-[FCBDAU]
+﻿[FCBDAU]
 ;0x06E7BD5F=FCBD_DRUNKEN_CONVERSATION_2_BA
 0x06E7BD5F=FCBD_DRUNKEN_CONVERSATION_2_BA
 
@@ -15,7 +15,7 @@
 0x22A8DF29=FCBD_DRUNKEN_CONVERSATION_1_AA
 
 ;0x252E1CD2=~z~That's how I roll, okay?
-0x252E1CD2=~z~我一向这么干，懂吧？
+0x252E1CD2=~z~这就是我的风范，懂吧？
 
 ;0x27D60ACA=100100010100100100010100100100010
 0x27D60ACA=100100010100100100010100100100010
@@ -30,7 +30,7 @@
 0x309D258E=~z~哦？我没注意过。
 
 ;0x315C1243=~z~You should ask them next time.
-0x315C1243=~z~你下次可以和酒保提提意见。
+0x315C1243=~z~下次和酒保说一下吧。
 
 ;0x31A29502=010100100100100100010100
 0x31A29502=010100100100100100010100
@@ -51,22 +51,22 @@
 0x474F4753=FCBD_DRUNKEN_CONVERSATION_3_CB
 
 ;0x48223FCF=~z~You'd think the barman could put a price tag on the glasses. Fucking asshole! Everyone would know then.
-0x48223FCF=~z~要是酒保在所有酒上都贴上价格就好了，操他妈的！这样所有人就都知道我到底多有钱了。
+0x48223FCF=~z~要是酒保在酒杯上贴了价格就好了，操他妈的！这样谁都知道价钱了。
 
 ;0x50DBE253=~z~No.
 0x50DBE253=~z~没注意。
 
 ;0x52CEF813=~z~Yeah, but that don't mean they knew how much it cost.
-0x52CEF813=~z~错是没错，但不代表他们就知道这一口香槟多少钱。
+0x52CEF813=~z~错是没错，但他们未必知道香槟的价钱。
 
 ;0x543558B5=FCBD_DRUNKEN_CONVERSATION_2_BB
 0x543558B5=FCBD_DRUNKEN_CONVERSATION_2_BB
 
 ;0x59E4781C=~z~You should start looking after yourself more. Start counting carbs bro, hitting the weights.
-0x59E4781C=~z~你应该对自己更加上心。开始计算碳水吧老兄，试试控制自己的体重。
+0x59E4781C=~z~你应该对自己更加上心。开始计算碳水吧，控制自己的体重。
 
 ;0x5A3086D6=~z~That's why it costs the most, because it's the shit.
-0x5A3086D6=~z~这也是它卖得最贵的原因，一分钱一分货啊。
+0x5A3086D6=~z~所以香槟卖得最贵，一分钱一分货啊。
 
 ;0x6188FD6E=FCBD_DRUNKEN_CONVERSATION_3_CA
 0x6188FD6E=FCBD_DRUNKEN_CONVERSATION_3_CA
@@ -81,7 +81,7 @@
 0x670B826F=FCBD_DRUNKEN_CONVERSATION_3_CF
 
 ;0x69B125D7=~z~They saw you drinking the champagne.
-0x69B125D7=~z~他们看到你在喝香槟。
+0x69B125D7=~z~他们看见你喝香槟了。
 
 ;0x6AABD91E=FCBD_DRUNKEN_CONVERSATION_1_AF
 0x6AABD91E=FCBD_DRUNKEN_CONVERSATION_1_AF
@@ -90,7 +90,7 @@
 0x6AC089FB=FCBD_DRUNKEN_CONVERSATION_2_BE
 
 ;0x6CA519E5=~z~Did you see how those women were looking at me, man?
-0x6CA519E5=~z~你注意到那些美女刚才是怎么看我的吗，老兄？
+0x6CA519E5=~z~注意到刚才美女看我的样子了吗，老兄？
 
 ;0x6E849263=FCBD_DRUNKEN_CONVERSATION_2_BK
 0x6E849263=FCBD_DRUNKEN_CONVERSATION_2_BK
@@ -102,16 +102,16 @@
 0x79D5F2B2=FCBD_DRUNKEN_CONVERSATION_4_DB
 
 ;0x7C75B986=~z~That's my vibe. And I'm sticking to it. I fucking love you man.
-0x7C75B986=~z~这是我与生俱来的气质，对此我绝不妥协。我他妈的爱死你了，老兄。
+0x7C75B986=~z~这才是我的气质，对此我绝不妥协。我他妈的爱死你了，老兄。
 
 ;0x7CE83E27=~z~An offer to a friend. I fucking love you man.
-0x7CE83E27=~z~一个给朋友的建议。我他妈爱死你了，老兄。
+0x7CE83E27=~z~给朋友的建议。我他妈爱死你了，老兄。
 
 ;0x7E65411D=~z~I got enough of a temper, thanks Brucie.
-0x7E65411D=~z~不了，让我焦虑的事情已经够多的了，谢谢你Brucie。
+0x7E65411D=~z~不了，我的脾气已经够差了。谢了，Brucie。
 
 ;0x7EB64FE1=~z~You see how I went in there and I got the most expensive shit they had.
-0x7EB64FE1=~z~你看到我走进去后直接点了他们这里最贵的酒了吧？
+0x7EB64FE1=~z~看见我走了进去，直接点了店里最贵的酒了吧？
 
 ;0x82A080EB=FCBD_DRUNKEN_CONVERSATION_4_DC
 0x82A080EB=FCBD_DRUNKEN_CONVERSATION_4_DC
@@ -126,7 +126,7 @@
 0x8D6DED50=~z~老兄，我真的好爱喝香槟。这他妈是顶级享受，最他妈顶级的。
 
 ;0x8E4C5D33=~z~I'm a positive person. I'm the best. I'm unstoppable. I'm genetically different, man.
-0x8E4C5D33=~z~我是个积极向上的人。我是最优秀的。我不可阻挡。我骨子里就不同，老兄。
+0x8E4C5D33=~z~我是个积极向上的人。我是最强的。我不可阻挡。我骨子里就不同，老兄。
 
 ;0x8F46E2E0=~z~I got a good line on juice if you want some.
 0x8F46E2E0=~z~如果你想试试类固醇的话，我有路子。
@@ -144,13 +144,13 @@
 0x97E1705D=~z~赢家从不会意志消沉。
 
 ;0x98ECF630=~z~I don't want to think what would happen if the 'roid rage took hold of me too.
-0x98ECF630=~z~我不想思考诸如我也类固醇上瘾了这种问题。
+0x98ECF630=~z~我都不敢想自己嗑药暴躁了以后是什么样。
 
 ;0x9DB1E885=FCBD_DRUNKEN_CONVERSATION_2_BC
 0x9DB1E885=FCBD_DRUNKEN_CONVERSATION_2_BC
 
 ;0x9DE156E6=~z~No one could touch our bods. We're fucking pimps. We are the money.
-0x9DE156E6=~z~我是说连摸都摸不到一下。我们就是大嫖客。我们有的是钱。
+0x9DE156E6=~z~甚至连边都摸不到。我们就是大嫖客，有的是钱。
 
 ;0xA372E20D=~z~Oh, you must have been in the can or something.
 0xA372E20D=~z~噢，可能那会儿你还在车里吧。
@@ -162,16 +162,16 @@
 0xA4EEFD15=FCBD_DRUNKEN_CONVERSATION_3_CG
 
 ;0xAB8CF23D=~z~Did you see the way those bitches was scoping me? They love my shit. Yeah, that's right.
-0xAB8CF23D=~z~注意到那些贱人是怎么打量我的了吗？她们就爱我这种。没错，就是这样。
+0xAB8CF23D=~z~注意到那些贱人是怎么打量我的了吗？她们就爱我这种人。没错，就是这样。
 
 ;0xABAF17F8=~z~Ah man, shut up, just shut up... why you always so negative bro?
-0xABAF17F8=~z~闭嘴，闭上你的嘴...为什么你总是这么消极啊，老兄？
+0xABAF17F8=~z~闭嘴，闭上你的嘴...你咋总是这么消极啊，老兄？
 
 ;0xABD12A1A=~z~It's okay.
 0xABD12A1A=~z~确实还行。
 
 ;0xB2720007=~z~Yeah, man. We're the fucking best bro.
-0xB2720007=~z~是啊，老兄。我们他妈的是最佳拍档。
+0xB2720007=~z~是啊，老兄。我们他妈是最强的。
 
 ;0xB3EED6BE=FCBD_DRUNKEN_CONVERSATION_4_DH
 0xB3EED6BE=FCBD_DRUNKEN_CONVERSATION_4_DH
@@ -192,11 +192,10 @@
 0xD3C628A9=FCBD_DRUNKEN_CONVERSATION_4_DG
 
 ;0xD70CC93C=~z~was flashing the cash that we were, right? Nobody was rocking bling like ours.
-0xD70CC93C=~z~像我们这样挥金如土，是吧？没有人能比我们还要夺目。
-
+0xD70CC93C=~z~像我们这样挥金如土，是吧？没有人比我们更加夺目。
 
 ;0xDE4C8F04=~z~They might have thought we was drinking some sparkling wine... shit or something.
-0xDE4C8F04=~z~他们大概以为我们是在喝什么便宜的起泡酒或者其它什么狗屁吧。
+0xDE4C8F04=~z~可能还以为我们喝的是什么便宜的起泡酒。
 
 ;0xE484E42C=~z~That was fun.
 0xE484E42C=~z~喝得真过瘾。

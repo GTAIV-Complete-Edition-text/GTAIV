@@ -99,7 +99,7 @@
 0x1615C357=102
 
 ;0x16624643=~z~We ain't doing that neither. Follow me. We'll lose them in the subway.
-0x16624643=~z~我们不那么来。跟我来，我们下地铁甩掉他们。
+0x16624643=~z~不用这么做。跟我来，进地铁站甩掉他们。
 
 ;0x16CAB255=202
 0x16CAB255=202
@@ -117,7 +117,7 @@
 0x180A471E=PM3_C_AA
 
 ;0x185DBF39=~z~I got plans for this money. I ain't dropping it.
-0x185DBF39=~z~钱的用途我已经规划好了，我是不会放弃的。
+0x185DBF39=~z~钱的用途已经规划好了，我是不会放弃的。
 
 ;0x1BA5E8D3=PM3_C_UA
 0x1BA5E8D3=PM3_C_UA
@@ -162,7 +162,7 @@
 0x20A12C2D=~z~更多的警察加入派对了，小子们。
 
 ;0x21F0D25F=~z~I'm fighting for this cash.
-0x21F0D25F=~z~我为了这笔钱而战。
+0x21F0D25F=~z~这笔钱我要定了。
 
 ;0x22DD101F=PM3_B_EA
 0x22DD101F=PM3_B_EA
@@ -213,7 +213,7 @@
 0x2A435B5A=PM3_B_VA
 
 ;0x2B31C930=~z~And you coulda been more careful of your boy Michael. He should be with us right now.
-0x2B31C930=~z~你丫也可以更注意点你的手下Michael，~n~不然他现在就该一块在这儿了。
+0x2B31C930=~z~你咋不多护着点你手下的Michael，~n~否则他哪会没命啊。
 
 ;0x2BB1B714=PM3_C_KA
 0x2BB1B714=PM3_C_KA
@@ -291,7 +291,7 @@
 0x3BDA00EA=~z~Here we go, boys!
 
 ;0x3CC86C5D=~z~You coulda mixed the explosive better couldn't ya, Derrick?
-0x3CC86C5D=~z~本来这炸药你可以弄得更好点的吧，Derrick？
+0x3CC86C5D=~z~炸弹你可以弄得更好点的吧，Derrick？
 
 ;0x3D83E5F2=~z~Just what we needed, boys. More fucking cops.
 0x3D83E5F2=~z~真是时候，小子们。又他妈一群条子。
@@ -498,7 +498,7 @@
 0x86233AA0=~z~There ain't no way round these fucks, we're going through 'em.
 
 ;0x86E22765=~z~Shit, they sent a chopper after us. There ain't no getting away. We're done.
-0x86E22765=~z~操，他们派直升机追我们了。这下逃不掉了，我们完了。
+0x86E22765=~z~操，他们派出直升机了。这下逃不掉了，我们完了。
 
 ;0x87BE2DA3=102
 0x87BE2DA3=102
@@ -561,7 +561,7 @@
 0x98243EC8=~z~你们会后悔妨碍我的。
 
 ;0x99705312=~z~The cash is ours now!
-0x99705312=~z~现在钱是我们的！
+0x99705312=~z~钱是我们的了！
 
 ;0x9A1974CC=~z~I can taste the fresh air, boys. Can't have long to go.
 0x9A1974CC=~z~I can taste the fresh air, boys. Can't have long to go.
@@ -624,7 +624,7 @@
 0xAB7CDB50=PM3_B_FA
 
 ;0xABB6F79F=~z~Let us go fucking peaceful like!
-0xABB6F79F=~z~就不能让我们和平离开吗！
+0xABB6F79F=~z~就不能让我们和平撤离吗！
 
 ;0xAC10C1E3=PM3_PM3_A
 0xAC10C1E3=PM3_PM3_A
@@ -666,7 +666,7 @@
 0xB846CF79=PM3_C_CA
 
 ;0xB89E0A4F=~z~I ain't been here since Frankie threw me a farewell dinner when I was going to Ireland. That was a lifetime ago.
-0xB89E0A4F=~z~自从Frankie在这陪我吃了顿送行饭然后去爱尔兰以后我就没来过这儿了。那已经是很久以前了。
+0xB89E0A4F=~z~上次来这儿还是去爱尔兰之前，Frankie为我饯行的时候。已经是很久以前了。
 
 ;0xB94C116C=PM3_B_CA
 0xB94C116C=PM3_B_CA
@@ -753,7 +753,7 @@
 0xCE2286E5=PM3_C_IA
 
 ;0xCF5FAD3E=~z~Back off. The money's ours now.
-0xCF5FAD3E=~z~滚开，现在钱是我们的。
+0xCF5FAD3E=~z~滚开，钱是我们的了。
 
 ;0xCF8C0513=PM3_B_GD
 0xCF8C0513=PM3_B_GD
@@ -894,7 +894,7 @@
 0xF1C8D629=~z~下面也有条子。进去小心点，小子们。
 
 ;0xF2555778=~z~Michael was unlucky. It wasn't anybody's fault what happened to him and the explosive did its job.
-0xF2555778=~z~Michael运气差了点。~n~他出事怪不了谁，炸药效果也够好了。
+0xF2555778=~z~Michael运气差了点。~n~他出事怪不了谁，炸弹也够好了。
 
 ;0xF2811C17=~z~You're right. Let's cut around the back. Follow my lead.
 0xF2811C17=~z~You're right. Let's cut around the back. Follow my lead.
@@ -906,7 +906,7 @@
 0xF3739070=~z~Everybody get down. We don't want no one hurt who don't gotta be.
 
 ;0xF476D3D9=~z~We got more cops on us, people.
-0xF476D3D9=~z~我们招上了更多警察，各位。
+0xF476D3D9=~z~又有警察追上来了，各位。
 
 ;0xF5B25BD6=~z~Don't get this money shot up, boys.
 0xF5B25BD6=~z~别让钱被打烂了，小子们。

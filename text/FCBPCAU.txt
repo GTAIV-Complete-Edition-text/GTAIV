@@ -9,7 +9,7 @@
 0x015D7A2D=010
 
 ;0x032586D9=~z~We just bowled, NB. I can't work that specific muscle group again, stupid. Some other time, dude.
-0x032586D9=~z~我们刚打过保龄球。我不能再锻炼那一块的肌肉了，傻瓜。下次吧，伙计。
+0x032586D9=~z~我们刚打过保龄球。不能再锻炼那一块肌肉了，傻瓜。下次吧，伙计。
 
 ;0x03E634F9=~z~Sorry, man. Can't go on a date with you right now. No matter how handsome you are. Yeah call me later, bro.
 0x03E634F9=~z~抱歉伙计。现在不能和你约会。不管你有多帅。好了，以后再找我吧，兄弟。
@@ -18,7 +18,7 @@
 0x04D10834=100
 
 ;0x05DBD01F=~z~Sorry, Brucie. I didn't realize. I'll call you later.
-0x05DBD01F=~z~抱歉，Brucie。我没注意。我一会儿再给你打电话。
+0x05DBD01F=~z~抱歉，Brucie。我没注意。一会儿再联系你。
 
 ;0x066B5435=010
 0x066B5435=010
@@ -33,7 +33,7 @@
 0x0A882732=FCB_ACT_CALL_SHOW_NO_GENERAL
 
 ;0x0B7E7D2A=~z~Let's hang out and do some gaming.
-0x0B7E7D2A=~z~我们出来玩赌博吧。(Beta2)
+0x0B7E7D2A=~z~一起出去打游戏吧。(Beta2)
 
 ;0x0C0AAF7A=~z~You wanna eat again? If I did I'd probably have to throw it up like an ancient Greek or something. Another time, bro.
 0x0C0AAF7A=~z~你又想出去吃了？再吃的话我怕是得跟古希腊人那样吐出来。下次吧兄弟。
@@ -57,7 +57,7 @@
 0x12D732C8=100
 
 ;0x133E5199=~z~You and me should bowl together.
-0x133E5199=~z~我们一起去打保龄球吧。
+0x133E5199=~z~一起去打保龄球吧。
 
 ;0x136AE68D=FCB_ACT_PBR_CALL_REJECTED
 0x136AE68D=FCB_ACT_PBR_CALL_REJECTED
@@ -66,16 +66,16 @@
 0x13C4F568=100
 
 ;0x152C1085=~z~Wanna forget the real world and do some gaming?
-0x152C1085=~z~想忘了现实世界，去找点乐子吗？(BETA)
+0x152C1085=~z~想忘了现实世界，打会儿游戏吗？(BETA)
 
 ;0x163CC3DE=~z~Shit, not for me. We just ate. Are you depressed and getting into comfort food or something, pussy?
-0x163CC3DE=~z~妈的，我不来。我们刚去吃过。你是心情不好要化悲愤为食欲吗，阿妹？
+0x163CC3DE=~z~妈的，我不来。我们刚吃过。你是心情不好要化悲愤为食欲吗，阿妹？
 
 ;0x19FA9C09=FCB_ACT_CALL_BOWL_YES
 0x19FA9C09=FCB_ACT_CALL_BOWL_YES
 
 ;0x1B2A8DB5=~z~When you've got what I got, you shouldn't have to pay for pussy. But I'm in bro, come collect me in the next hour.
-0x1B2A8DB5=~z~等你有我这种条件，你就不用为女人花钱了。但我还是来的，一小时内来接我。
+0x1B2A8DB5=~z~等你有我这种条件，就不用为女人花钱了。但我还是来的，一小时内来接我。
 
 ;0x2149B6E2=100
 0x2149B6E2=100
@@ -96,7 +96,7 @@
 0x23608DF0=~z~我怎么会拒绝你呢？你丫是个玩家，你也知道的。一小时内来接我，伙计。
 
 ;0x237E2D29=~z~Want to do some gaming?
-0x237E2D29=~z~想去找点乐子吗？(BETA)
+0x237E2D29=~z~想去打游戏吗？(BETA)
 
 ;0x2485A06B=~z~Strippers? I'm in. Scoop me up from my crib in the next hour.
 0x2485A06B=~z~脱衣舞女？我来。一小时内来我家接我。
@@ -108,10 +108,10 @@
 0x256C0BC8=~z~我现在不能赌博，我有点兴奋，兄弟。(BETA)
 
 ;0x2651C7FE=~z~Want to get something to eat?
-0x2651C7FE=~z~想去吃点东西吗？
+0x2651C7FE=~z~想去吃顿饭吗？
 
 ;0x26CD01B6=~z~Dude, I could bowl. Don't expect to win though, I destroy that shit. Pick me up in the next hour.
-0x26CD01B6=~z~伙计，保龄球我会。这下你别想赢了，我是保龄球之王。一小时内来接我。
+0x26CD01B6=~z~伙计，保龄球我来。这下你别想赢了，我是保龄球之王。一小时内来接我。
 
 ;0x29EA7AEA=FCB_ACT_CALL_SHOW_YES
 0x29EA7AEA=FCB_ACT_CALL_SHOW_YES
@@ -150,13 +150,13 @@
 0x3697448E=~z~绅士俱乐部？当然可以，NB，我很兴奋，耶。我在我家等你一个小时。
 
 ;0x36C2DDEE=~z~Shit, I don't know if it was the juice but I didn't think you was gonna call me, man. You back though.
-0x36C2DDEE=~z~妈的，不知道是不是药效的关系，但我没想到你居然会找我，伙计。你可算回归了。
+0x36C2DDEE=~z~妈的，不知道是不是药的关系，但你居然会找我，伙计。你可算回归了。
 
 ;0x3886A529=~z~I love that bowling shit, I'll wait for you for an hour, NB.
 0x3886A529=~z~我爱保龄球，我等你一个小时，NB。
 
 ;0x392097FF=~z~Champagne popping? You know I like to roll like that, man. Come grab me in the next sixty, bitch.
-0x392097FF=~z~开香槟吗？你知道我就喜欢这样的，伙计。一小时内来接我，贱人。
+0x392097FF=~z~开香槟吗？我就喜欢这样的风范，伙计。一小时内来接我，贱人。
 
 ;0x3AF11D5C=FCB_ACT_CALL_STRIP_YES
 0x3AF11D5C=FCB_ACT_CALL_STRIP_YES
@@ -186,7 +186,7 @@
 0x42C8AB4F=~z~我们两个硬汉在城里游荡。贱人们小心。一小时后以后出发，好吗？
 
 ;0x42E36BF3=~z~How about we play some video games?
-0x42E36BF3=~z~我们去赌博怎么样？(BETA)
+0x42E36BF3=~z~我们去打游戏怎么样？(BETA)
 
 ;0x45976DDF=~z~My alarm is set for 8, man. I need some sleep until then or my complexion is gonna be all screwed up, you fuck.
 0x45976DDF=~z~我的闹钟定在8点，伙计。我要睡个好觉，否则皮肤会变糟的，你个混蛋。
@@ -207,7 +207,7 @@
 0x51E008C1=~z~想去脱衣舞俱乐部吗？
 
 ;0x524BF6C3=~z~NB. You leaving me hanging for so long hurting, you know? Maybe we could chill another time?
-0x524BF6C3=~z~NB。你可让我好等啊。那我们改天约一约？
+0x524BF6C3=~z~NB。你可让我好等啊。要么改天再约吧？
 
 ;0x533A0EF8=100
 0x533A0EF8=100
@@ -216,10 +216,10 @@
 0x533BC355=~z~这不刚去过吗，NB。先让我脚踏实地一会儿，好吗？
 
 ;0x53FC5C14=~z~You know I bowl like, three-hundred with one arm behind my back. Pick me up in the next hour.
-0x53FC5C14=~z~你知道的，我闭着眼睛都能打掉三百个球瓶。一小时内来接我。
+0x53FC5C14=~z~你知道的，我随手就能打掉三百个球瓶。一小时内来接我。
 
 ;0x55487A14=~z~I got a hot bitch coming around, Nicky. I can't hit up a show again.
-0x55487A14=~z~我这边有个辣妹过来了，Nicky。没法再陪你去看表演了。
+0x55487A14=~z~我这边有个辣妹要来，Nicky。没法陪你去看表演。
 
 ;0x558E5D47=010
 0x558E5D47=010
@@ -228,7 +228,7 @@
 0x55C88868=100
 
 ;0x560648E6=~z~Damn, NB. You're an animal. I ain't hitting no chopper again. Later bro.
-0x560648E6=~z~妈的，NB。你这禽兽。我才不会再来次直升机。下次，兄弟。
+0x560648E6=~z~妈的，NB。你这禽兽。我才不会再来次直升机。回见，兄弟。
 
 ;0x5726C2B4=100
 0x5726C2B4=100
@@ -237,13 +237,13 @@
 0x581272AD=~z~伙计。
 
 ;0x5817C154=~z~How about we go for a ride in a chopper?
-0x5817C154=~z~我们坐直升机去兜兜风怎么样？
+0x5817C154=~z~坐直升机兜个风怎么样？
 
 ;0x599D0252=010
 0x599D0252=010
 
 ;0x5B281908=~z~What the fuck, NB? I'm trying to get some rest from my intense cardio session, man. Call me after 8am, alright?
-0x5B281908=~z~搞毛啊，NB？我做完剧烈的有氧运动后要休息的，兄弟。早上8点后再找我，好吗？
+0x5B281908=~z~搞毛啊，NB？我做完剧烈的有氧运动要休息的，兄弟。早上8点后再找我，好吗？
 
 ;0x5CD5DA55=FCB_ACT_CALL_IRATE
 0x5CD5DA55=FCB_ACT_CALL_IRATE
@@ -264,16 +264,16 @@
 0x5FC39F83=100
 
 ;0x61C1F260=~z~Sounds fun man, I'll pick you up.
-0x61C1F260=~z~听起来很有趣，我来接你。
+0x61C1F260=~z~听起来很有趣，我来找你。
 
 ;0x61F060BE=~z~I can't go up again, I'm gonna get air sickness or something. Another time, man.
-0x61F060BE=~z~我不能再上去了，我会犯晕机之类的毛病的。下次吧伙计。
+0x61F060BE=~z~不能再上天了，我会犯晕机之类的毛病的。下次吧伙计。
 
 ;0x63B76448=~z~Sorry, NB. I ain't going up again so soon. Hit me in a while, alright, stupid?
 0x63B76448=~z~对不起，NB。最近我不太想再上天了。过段时间再说，好吗傻瓜？
 
 ;0x645EADBE=~z~How about we roll together and scope some bitches at the strip club?
-0x645EADBE=~z~我们一起去脱衣舞俱乐部看婊子如何？
+0x645EADBE=~z~一起去脱衣舞俱乐部看婊子如何？
 
 ;0x64C20C3C=~z~Brucie.
 0x64C20C3C=~z~Brucie。
@@ -297,7 +297,7 @@
 0x69C8AE37=FCB_ACT_PBR_CALL_BOAT
 
 ;0x6A5A65D9=~z~You want to take a spin in the heli?
-0x6A5A65D9=~z~你想乘直升机转一圈吗？
+0x6A5A65D9=~z~你想乘直升机转一转吗？
 
 ;0x6B1AA5B8=~z~How can you stand being cooped up in those places. Get out, go for a run, do something. That's what I'm doing.
 0x6B1AA5B8=~z~那种地方你居然还坐得住啊。出门，跑跑步，找点事做。我就是这么做的。
@@ -312,7 +312,7 @@
 0x6EF6016D=010
 
 ;0x6F59761A=~z~Eating? I can't shove food in my face all day everyday and look like this, stupid. Another time.
-0x6F59761A=~z~吃饭？我要是天天这样吃还能有这身材吗，傻逼。下次吧。
+0x6F59761A=~z~吃饭？我要是天天这样吃还能有这身材吗，真蠢。下次吧。
 
 ;0x6FC06EC7=FCB_ACT_ANSWER_PHONE
 0x6FC06EC7=FCB_ACT_ANSWER_PHONE
@@ -339,7 +339,7 @@
 0x750356DC=~z~抱歉，NB。我不能这么快又坐在屏幕前面了，傻瓜。下次吧。(BETA)
 
 ;0x75DC958B=~z~I can vibe some boating. Yeah, boating. Grab me in the next hour.
-0x75DC958B=~z~我正好想开船了。对，开船。一小时内来接我。
+0x75DC958B=~z~我正好想开船了。对，开船。一小时内来找我。
 
 ;0x75DF65B4=100
 0x75DF65B4=100
@@ -354,16 +354,16 @@
 0x79398548=~z~电子赌博？我来了，NB。一小时内来接我。(BETA)
 
 ;0x7BEEA2F0=~z~How about some bowling?
-0x7BEEA2F0=~z~去打保龄球怎样？
+0x7BEEA2F0=~z~打保龄球去不去？
 
 ;0x7DFAAD3C=~z~We just went out. I've gotta hit the gym hard to get rid of those ah, you know, calories hello.
-0x7DFAAD3C=~z~我们刚去过。我得去健身房猛力锻炼，耗掉那些，就那个，卡路里懂吧。
+0x7DFAAD3C=~z~我们才刚去过。我得去健身房猛力锻炼，耗掉那些...卡路里懂吧。
 
 ;0x7E53712D=~z~Let's go drinking.
 0x7E53712D=~z~一起去喝酒吧。
 
 ;0x7E712E3D=~z~NB. We just went out. I'd hate to see the state of your liver. Another time, bro.
-0x7E712E3D=~z~NB。我们刚去过。我很担心你的肝脏。下次吧兄弟。
+0x7E712E3D=~z~NB，这不才刚去过。我很担心你的肝脏。下次吧兄弟。
 
 ;0x7F1E4581=~z~A strip club? I got a better body than any of the bitches in there. Not this time, NB.
 0x7F1E4581=~z~脱衣舞俱乐部？我的身材比店里那些婊子都好。这次不行，NB。
@@ -376,7 +376,7 @@
 
 ;0x80707EA3=~z~Shit, man. Sounds like a date. Come get me in the next hour, bro.
 0x80707EA3=~z~妈的，兄弟，想约我是吧。一小时内来接我，兄弟。
- 
+
 ;0x81F401AA=~z~That's a plan, man. Come get me in the next hour.
 0x81F401AA=~z~就这么定了，兄弟，一小时内来接我。
 
@@ -408,7 +408,7 @@
 0x8B0FA8F4=~z~我当然会玩赌博，NB。只要别告诉任何人。我在crib等你一个小时好吗？(BETA)
 
 ;0x8C4149C9=~z~You're a fucking animal. Count me out, bro. I can't handle it again. You're rolling solo, bro.
-0x8C4149C9=~z~你他妈的是禽兽吧。别找我，兄弟。我顶不住了。你自己去吧，兄弟。
+0x8C4149C9=~z~你他妈是禽兽吧。别找我，兄弟。我顶不住了。你自己去吧，兄弟。
 
 ;0x8CD28319=FCB_ACT_CALL_HELI_NO_GENERAL
 0x8CD28319=FCB_ACT_CALL_HELI_NO_GENERAL
@@ -423,7 +423,7 @@
 0x8EB76026=~z~怎么说，兄弟？
 
 ;0x950ECFDA=~z~Drinking? Yeah baby, you speak my language, NB. See you at mine in the next hour.
-0x950ECFDA=~z~喝酒？好啊宝贝，你说的是美国话，NB。一个小时后我家见。
+0x950ECFDA=~z~喝酒？好啊宝贝，太对我胃口了，NB。一小时后我家见。
 
 ;0x9560FEAB=FCB_ACT_CALL_BOWL_NO_RECENT
 0x9560FEAB=FCB_ACT_CALL_BOWL_NO_RECENT
@@ -432,7 +432,7 @@
 0x95AB20D0=FCB_ACT_PBR_CALL_GAMES
 
 ;0x97ADB9E2=~z~Sorry man. I've gone macrobiotic for the time being. Don't know how long that's going to last though. Another time alright, babe?
-0x97ADB9E2=~z~抱歉伙计。我最近需要养生，但不知道要养多久。下次再说吧，宝贝？
+0x97ADB9E2=~z~抱歉伙计。我最近要养生，但不知道要养多久。下次再说吧，宝贝？
 
 ;0x9837C401=100
 0x9837C401=100
@@ -441,10 +441,10 @@
 0x995CDADE=010
 
 ;0x99867A51=~z~Sorry man, no strippers for me. I'm hitting the gym, bro.
-0x99867A51=~z~对不起，伙计，拒绝脱衣舞女，我要去健身房了，兄弟。
+0x99867A51=~z~对不起，伙计，拒绝脱衣舞女，我要去健身了，兄弟。
 
 ;0x9C66150C=~z~Man, NB. That's a sweet idea. We'll pimp it up with the sky. First class shit. Pick me up in an hour, bro.
-0x9C66150C=~z~我去，NB，这主意不错。我们可以和天比高了。一流品味。一小时内来接我，兄弟。
+0x9C66150C=~z~我去，NB，这主意不错。我们可以和天比高了。一流品味。一小时内来找我，兄弟。
 
 ;0x9C71F897=FCB_ACT_CALL_STRIP_NO_RECENT
 0x9C71F897=FCB_ACT_CALL_STRIP_NO_RECENT
@@ -453,7 +453,7 @@
 0x9C95D667=~z~你想去开快艇吗？
 
 ;0x9CEEAE96=~z~Wish I could drink with you, NB. But I'm on a detox diet, baby. Raincheck until the retox.
-0x9CEEAE96=~z~我也想跟你去喝酒，NB。但我现在有排毒食谱，宝贝。等我复毒了再说吧。
+0x9CEEAE96=~z~我也想陪你喝酒，NB。但我现在有排毒食谱，宝贝。等我复毒了再说吧。
 
 ;0x9D278AAB=FCB_ACT_CALL_LIKEYES
 0x9D278AAB=FCB_ACT_CALL_LIKEYES
@@ -483,7 +483,7 @@
 0xA54DC943=100
 
 ;0xA57984B5=~z~Damn, Nicky. Is that what you sound like? I don't wanna sound like no bitch but Brucie don't get treated like that.
-0xA57984B5=~z~见鬼，Nicky。这就是你的腔调吗？我不想满嘴婊子腔，但你不该这样对Brucie的。
+0xA57984B5=~z~见鬼，Nicky。这就是你的腔调吗？我不想满嘴婊子话，但你不该这样对Brucie的。
 
 ;0xA74CBB6E=~z~Not this soon, NB. Ask me again another time, bitch.
 0xA74CBB6E=~z~别这么快，再问我一次，贱人。(BETA)
@@ -507,10 +507,10 @@
 0xB2696B6A=FCB_ACT_CALL_EAT_YES
 
 ;0xB32E201E=~z~Fuck, Nicky. We still friends. I was thinking about getting physical on your ass. That'd be some hardcore shit. You back though.
-0xB32E201E=~z~操，Nicky。我们还是朋友啊。我差点都想跟你丫当面对质了，那就有点可怕了。但你还是回来了。
+0xB32E201E=~z~操，Nicky。我们还是朋友啊。我都想跟你当面对质了，那就有点可怕了。但你还是回来了。
 
 ;0xB3A1961E=~z~Eating? Yeah, oh yeah, that'd be sweet, NB. Pick me up in the next sixty, alright?
-0xB3A1961E=~z~吃饭？好啊，哦耶，吃饭好啊。60分钟内来接我，好吗？
+0xB3A1961E=~z~吃饭？好啊，吃饭好啊，NB。60分钟内来接我，好吗？
 
 ;0xB3BDE53D=~z~For sure, Nicky. Come get me in the next hour.
 0xB3BDE53D=~z~当然可以，Nicky。一小时内来接我。
@@ -519,7 +519,7 @@
 0xB473D742=FCB_ACT_CALL_DRINK_NO_RECENT
 
 ;0xB4E97459=~z~Food, sorry NB but this juicing fucks with my appetite. Another time, okay?
-0xB4E97459=~z~吃饭，抱歉NB，但嗑药让我没啥胃口。改天吧，好吗？
+0xB4E97459=~z~吃饭？抱歉NB，但嗑药让我没啥胃口。改天吧，好吗？
 
 ;0xB6729BB8=~z~See you in a bit Brucie.
 0xB6729BB8=~z~一会儿见，Brucie。
@@ -543,7 +543,7 @@
 0xBAFBF7E6=FCB_ACT_CALL_BOAT_YES
 
 ;0xBB8571FF=~z~Bowling, huh, you gotta find someone else to roll with, I've gotta do a cardio session.
-0xBB8571FF=~z~保龄球，啊，你还是找别人吧，我要做有氧运动。
+0xBB8571FF=~z~保龄球，哈，你还是找别人吧，我要做有氧运动。
 
 ;0xBBBD35F2=FCB_ACT_CALL_DRINK_YES
 0xBBBD35F2=FCB_ACT_CALL_DRINK_YES
@@ -555,7 +555,7 @@
 0xBD71F27C=~z~我现在戴着的首饰太多了。我他妈会直接掉水里的。
 
 ;0xBFADDC63=~z~Shit Brucie, we'll hang another time.
-0xBFADDC63=~z~妈的Brucie，我们改天再出去吧。
+0xBFADDC63=~z~妈的Brucie，那改天再出去吧。
 
 ;0xC0AFF618=~z~Sorry, NB. Can't have those toxins in my system. Another time, a'right.
 0xC0AFF618=~z~抱歉，NB。我体内不能有这些毒素。改天好吧。
@@ -573,13 +573,13 @@
 0xC5D87902=FCB_ACT_PBR_CALL_STRIP
 
 ;0xC78C8A75=~z~You hungry? Let's eat.
-0xC78C8A75=~z~你饿了吗？一起下馆子吧。
+0xC78C8A75=~z~你饿了吗？下个馆子吧。
 
 ;0xC7AEBE1A=~z~I can't deal with hitting up a gentlemen's club again. Another time, alright?
 0xC7AEBE1A=~z~我不能再去泡绅士俱乐部了，改天吧？
 
 ;0xC835578B=~z~I can only stay mad at a big pimp like you for so long. Scoop me up from my crib in the next sixty minutes, bitch.
-0xC835578B=~z~我只可能对你这样的大嫖客发这么大脾气。一小时内来我家接我，贱人。
+0xC835578B=~z~我只会对你这样的大嫖客发这么大脾气。一小时内来我家接我，贱人。
 
 ;0xC8B696DE=010
 0xC8B696DE=010
@@ -591,16 +591,16 @@
 0xCAAC74FF=010
 
 ;0xCADBB2F2=~z~How about we take a powerboat out?
-0xCADBB2F2=~z~我们出去开趟快艇如何？
+0xCADBB2F2=~z~出去开趟快艇如何？
 
 ;0xCADBF1F7=~z~Helicopters? Shit, that's some bad, mad shit. Come pick me up in an hour, bro.
-0xCADBF1F7=~z~直升机？我靠，这他妈有点牛逼啊。一小时内来接我，兄弟。
+0xCADBF1F7=~z~直升机？靠，这他妈有点牛逼啊。一小时内来找我，兄弟。
 
 ;0xD065CE36=010
 0xD065CE36=010
 
 ;0xD509C74E=~z~I really feel like powerboating, how about it?
-0xD509C74E=~z~我真的很想去开船，你有空吗？
+0xD509C74E=~z~我现在很想开船，你有空吗？
 
 ;0xD626D97B=~z~Nicky, you called me at the wrong time here. I'm about to start a workout. Don't be scared to call back. Love you, man.
 0xD626D97B=~z~Nicky，你打过来的时机不对啊。我要开始锻炼了。但你随时可以打过来。爱你伙计。
@@ -624,7 +624,7 @@
 0xD967DCA0=~z~开快艇？听上去不错。那些婊子会在河面上爱上咱们的。一小时内来找我，宝贝。
 
 ;0xD968AE2D=~z~You wanna grab some food?
-0xD968AE2D=~z~你想吃点东西吗？
+0xD968AE2D=~z~你想吃点什么吗？
 
 ;0xDA289B61=100
 0xDA289B61=100
@@ -660,7 +660,7 @@
 0xE55E704E=FCB_ACT_PBR_CALL_BOWL
 
 ;0xE660417C=~z~Sorry man, I'm dehydrating so my veins stand out. Another time, okay.
-0xE660417C=~z~抱歉伙计，我现在脱水了，青筋暴跳。改天再说吧。
+0xE660417C=~z~抱歉伙计，我现在脱水饮食，青筋暴跳。改天再说吧。
 
 ;0xE6D443FB=~z~Sorry, NB. We got to put a raincheck on that chopper action. Another time, bro.
 0xE6D443FB=~z~抱歉，NB。直升机的事必须得推迟了。下次吧，兄弟。
@@ -672,10 +672,10 @@
 0xE8BFD1B6=FCB_ACT_CALL_SLEEP_REPLY
 
 ;0xE903EF42=~z~I think we should take a powerboat out.
-0xE903EF42=~z~我觉得可以一起去开趟快艇。
+0xE903EF42=~z~我们一起去开趟快艇吧。
 
 ;0xE903FD25=~z~Shit, I feel like going bowling.
-0xE903FD25=~z~妈的，我想去打保龄球。
+0xE903FD25=~z~妈的，我想打保龄球了。
 
 ;0xE97A01B4=~z~Again? We just hit up a strip club. Some other time, stupid.
 0xE97A01B4=~z~又来？我们刚去过脱衣舞俱乐部。改天吧，傻瓜。
@@ -696,7 +696,7 @@
 0xEEBFBA86=~z~好的兄弟，下次再见。
 
 ;0xF131E2F2=~z~I feel like we just did that. Brucie likes to mix shit up. Later.
-0xF131E2F2=~z~我们好像刚去过吧。Brucie可能会记错。回见。
+0xF131E2F2=~z~好像才刚去过吧。Brucie可能记错了。回见。
 
 ;0xF3339394=~z~I can't deal with that shit at the moment. Another time, NB.
 0xF3339394=~z~我现在没法看什么破表演。下次吧，NB。
@@ -711,10 +711,10 @@
 0xF8098B40=100
 
 ;0xF859E706=~z~I can't do that chopper shit right now. Hit me up later, alright B?
-0xF859E706=~z~我现在没法陪你搞直升机。之后再电话找我，好吗，B？
+0xF859E706=~z~我现在没法陪你搞直升机。之后再找我，好吗，B？
 
 ;0xFA41A361=~z~I'll come get you, Brucie.
-0xFA41A361=~z~我这就来接你，Brucie。
+0xFA41A361=~z~我这就来找你，Brucie。
 
 ;0xFC8A4613=~z~Want to go see something?
 0xFC8A4613=~z~想去看点什么吗？

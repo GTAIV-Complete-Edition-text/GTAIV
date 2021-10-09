@@ -6,10 +6,10 @@
 0x541F39AD=~s~你找到Elizabeta的货了，~g~可卡因~s~就在桌上。
 
 ;0x68C6E2FC=N.O.O.S.E. are raiding the hospital; get out of there, and lose your wanted level.~s~
-0x68C6E2FC=N.O.O.S.E.正在突袭医院。离开医院，降低你的通缉度。~s~
+0x68C6E2FC=N.O.O.S.E.正在突袭医院。离开医院，摆脱通缉。~s~
 
 ;0x88872048=Lose your wanted level before the meeting.
-0x88872048=在碰头前降低你的通缉度。
+0x88872048=在碰头前摆脱通缉。
 
 ;0xB95E02BD=Take out the people protecting the deal.
 0xB95E02BD=干掉所有保护交易进行的人。

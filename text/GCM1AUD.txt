@@ -75,7 +75,7 @@
 0x1A96AE86=~z~你好，Michelle。
 
 ;0x1B333D5C=~z~You busy? I mean you want to spend some time together?
-0x1B333D5C=~z~你忙吗？我是说你想和我共度时光吗？
+0x1B333D5C=~z~你忙吗？我是说，你想和我共度时光吗？
 
 ;0x1CC39E6C=~z~Great. I'm on my way.
 0x1CC39E6C=~z~太棒了，我这就过来。
@@ -495,7 +495,7 @@
 0xF131613A=~z~那好吧，下次再说。
 
 ;0xF27B1EE2=~z~Hi. You've reached Michelle's phone. Unfortunately, I can't get to the phone just now, but please call back later.
-0xF27B1EE2=~z~嗨。这里是Michelle。很抱歉，我现在不能接电话，请稍后再打来。
+0xF27B1EE2=~z~嗨，这里是Michelle。很抱歉，我现在不能接电话，请稍后再打来。
 
 ;0xF33EBCC6=100
 0xF33EBCC6=100
@@ -513,7 +513,7 @@
 0xF57C1326=GCM_ACT_GETCALL_HOSP_ASK
 
 ;0xF9165716=~z~That is good news. See you soon.
-0xF9165716=~z~真是个好消息。待会见。
+0xF9165716=~z~真是个好消息。待会儿见。
 
 ;0xFBA7FE75=~z~Sorry - I guess I keep unconventional hours.
 0xFBA7FE75=~z~对不起，是我的作息时间不正常。

@@ -6,10 +6,10 @@
 0x13D14FA4=使~r~目标直升机~s~进入射程范围。
 
 ;0x2C214F57=Line your helicopter up with the ~r~target chopper.
-0x2C214F57=将你的直升机与~r~目标直升机~s~对齐。
+0x2C214F57=将你的座机与~r~目标直升机~s~对齐。
 
 ;0x398AEA2A=Get close and move to the right of the ~r~target chopper~w~ to give Jacob a shot.
-0x398AEA2A=接近并移动到~r~目标直升机~s~的右边以~w~给Jacob制造开火机会。
+0x398AEA2A=从右侧接近~r~目标直升机~s~~n~给Jacob制造开火机会。
 
 ;0x5F345475=~r~You lost the target.~s~
 0x5F345475=~r~你跟丢了目标。~s~
@@ -27,13 +27,13 @@
 0x7C4E191A=寻找~r~目标直升机。
 
 ;0x815630E5=Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the chopper left or right.
-0x815630E5=按~INPUT_VEH_FLY_YAW_LEFT~或~INPUT_VEH_FLY_YAW_RIGHT~向左或右旋转直升机。
+0x815630E5=按~INPUT_VEH_FLY_YAW_LEFT~~INPUT_VEH_FLY_YAW_RIGHT~左右旋转直升机。
 
 ;0x935BDE86=Follow the ~r~target choppper.
 0x935BDE86=跟住~r~目标直升机。
 
 ;0x9ED9A2B2=Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate your helicopter.
-0x9ED9A2B2=按~INPUT_VEH_FLY_YAW_LEFT~或~INPUT_VEH_FLY_YAW_RIGHT~旋转你的直升机。
+0x9ED9A2B2=按~INPUT_VEH_FLY_YAW_LEFT~~INPUT_VEH_FLY_YAW_RIGHT~旋转你的直升机。
 
 ;0xA2F67DBB=Follow the ~r~target chopper,~s~ don't let it get away.
 0xA2F67DBB=跟随~r~目标直升机，~s~别让它跑了。
@@ -60,16 +60,16 @@
 0xD6FF9582=你要跟丢~r~目标直升机~s~了。别让它跑了。
 
 ;0xDF2EB092=Press ~INPUT_VEH_CIN_CAM~ to focus on the target chopper.
-0xDF2EB092=按~INPUT_VEH_CIN_CAM~将镜头对准目标直升机。
+0xDF2EB092=按住~INPUT_VEH_CIN_CAM~将镜头对准目标直升机。
 
 ;0xDF6C3ABB=Keep your helicopter to the right so that Jacob can get a shot.
-0xDF6C3ABB=保持你的直升机在目标的右边来让Jacob射击。
+0xDF6C3ABB=将你的座机保持在目标右侧来让Jacob射击。
 
 ;0xE5840821=Get back into the ~b~helicopter.
 0xE5840821=回到~b~直升机~s~上。
 
 ;0xEF91DB0E=Line up your helicopter at the same height as the target.
-0xEF91DB0E=将你的直升机与目标保持在相同高度。
+0xEF91DB0E=控制你的座机与目标保持相同高度。
 
 ;0xEFCD17CF=The target is flying south through Liberty City.
 0xEFCD17CF=目标正在飞越自由城南部上空。

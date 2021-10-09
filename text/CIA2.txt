@@ -1,12 +1,12 @@
 ﻿[CIA2]
 ;0x06C3EE2F=Your contact will send you a picture of the target. Read the message when it arrives.
-0x06C3EE2F=你的联络人将发给你目标的照片，收到短信时阅读。
+0x06C3EE2F=联络人将发给你目标的照片，收到短信时阅读。
 
 ;0x072F52A6=~s~Press ~PAD_LB~ to leave the police computer.
 0x072F52A6=按~PAD_LB~退出警用电脑。
 
 ;0x095F721E=~s~Lose your wanted level.
-0x095F721E=~s~降低你的通缉度。
+0x095F721E=~s~摆脱通缉。
 
 ;0x59064E5F=~s~Go to Dimayev's ~y~hangout.
 0x59064E5F=~s~前往Dimayev的~y~所在地。

@@ -40,7 +40,7 @@
 0x1580F952=~z~－杀了你哥哥？~n~－他已经死了。
 
 ;0x16F39097=~z~I did what you wanted me to do, I killed your brother.
-0x16F39097=~z~你想让我做的我已经做成了，我杀了你哥。
+0x16F39097=~z~我已经照你的指示执行了，我杀了你哥。
 
 ;0x1820462D=~z~May God forgive us for what we've done.
 0x1820462D=~z~May God forgive us for what we've done.
@@ -139,7 +139,7 @@
 0x4CDEEE35=~z~向来恶心。
 
 ;0x4CEB613E=~z~He's an idiot... and a coward.
-0x4CEB613E=~z~他就是个白痴...加蠢货。
+0x4CEB613E=~z~他就是个白痴...加怂货。
 
 ;0x4D04E991=~z~Oh - don't push me.
 0x4D04E991=~z~噢，别逼我。
@@ -283,7 +283,7 @@
 0x880972BD=~z~你猜怎么着，Frankie仔，我会利用这件事。一旦我被警察盯上了，我就打给你。
 
 ;0x886421A2=~z~This is Cain and Abel stuff, I'm telling you.
-0x886421A2=~z~这就是该隐和亚伯*那回事，我跟你讲。~n~(圣经典故，该隐杀了兄弟亚伯)
+0x886421A2=~z~这就是该隐和亚伯*那回事，我跟你讲。~n~(圣经中该隐杀了兄弟亚伯)
 
 ;0x8FC38E31=FM5_DB
 0x8FC38E31=FM5_DB
@@ -340,7 +340,7 @@
 0xA0E5901D=~z~－阻止？~n~－嘘。
 
 ;0xA4A55A24=~z~Question is, which one of us is gonna be wandering the earth with a mark on his head
-0xA4A55A24=~z~问题在于，我们中的哪个会带着记号流离漂荡在地上*。~n~(圣经典故，该隐杀兄后受驱逐，耶和华给他立了记号，免得别人遇见他就杀他)
+0xA4A55A24=~z~问题在于，我们中的哪个会带着记号流离漂荡在地上*。~n~(之后该隐被驱逐，耶和华给他立了记号，免得别人遇见他就杀他)
 
 ;0xAA291161=FM5_BF
 0xAA291161=FM5_BF
@@ -379,10 +379,10 @@
 0xC984E77B=~z~对，我是知道了！
 
 ;0xCA136F7F=~z~Cute, but he's a mule. No amount of smack could take him down.
-0xCA136F7F=~z~很精明，但他是头骡子。麻药再多都不会倒的。
+0xCA136F7F=~z~很精明，但他是头毒骡。麻药再多都不会倒的。
 
 ;0xCC3F77E5=~z~It's sounding like I've got no choice. One McReary brother is going to get me to kill another.
-0xCC3F77E5=~z~听起来似乎是没得选。一个McReary兄弟要让我杀另一个。
+0xCC3F77E5=~z~听起来似乎是没得选。McReary兄弟之一让我杀了另一个兄弟。
 
 ;0xCD8CB432=~z~Jesus. Frankie, I'm sorry. May God forgive us for what we've done.
 0xCD8CB432=~z~Jesus. Frankie, I'm sorry. May God forgive us for what we've done.

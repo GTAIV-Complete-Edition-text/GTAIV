@@ -1,7 +1,4 @@
-﻿;注：
-;1.含Beta文本 没翻的就是
-
-[FCR22AU]
+﻿[FCR22AU]
 ;0x02D28D57=~z~Cousin, you will be shooting pool alone today. Do not place bets, okay?
 0x02D28D57=~z~堂兄，今天你只能自己打台球了。不要赌钱，好吧？
 
@@ -27,7 +24,7 @@
 0x1C353493=100
 
 ;0x1D212905=~z~Roman, sorry but I cannot bowl with you anymore. Another time.
-0x1D212905=~z~Roman，很抱歉，但我不能如约来陪你打保龄球了。改天吧。
+0x1D212905=~z~Roman，很抱歉，但我不能陪你打保龄球了。改天吧。
 
 ;0x1F64624A=~z~Cousin, our drunkenness will have to wait. Something has happened.
 0x1F64624A=~z~堂兄，我们的酒虫该等等了。突然有事。
@@ -42,7 +39,7 @@
 0x26E6FA72=FCR2_ACT_PRO_CALL_GAMES_CANCEL
 
 ;0x292B3020=~z~Niko, get your invalid cousin a car. He cannot walk in this state.
-0x292B3020=~z~Niko，给你行动不便的堂兄找辆车。他现在这样没法走路。
+0x292B3020=~z~Niko，给你行动不便的堂兄找辆车。他现在没法走路。
 
 ;0x2B6866E8=FCR2_ACT_CALL_REQ_SPEC_YES
 0x2B6866E8=FCR2_ACT_CALL_REQ_SPEC_YES
@@ -54,13 +51,13 @@
 0x2D3F7AE4=FCR2_ACT_CALL_SPEC_END
 
 ;0x2FD1CE66=~z~I am sorry, cousin, but I must cancel our bowling.
-0x2FD1CE66=~z~我很抱歉，堂兄，但我们不能去打保龄球了。
+0x2FD1CE66=~z~很抱歉，堂兄，但我们不能去打保龄球了。
 
 ;0x34F0B648=100
 0x34F0B648=100
 
 ;0x3527F201=~z~Sorry, Roman. I cannot play pool with you anymore. I have another plan.
-0x3527F201=~z~抱歉，Roman。我没法来跟你打台球了。我有别的事要做。
+0x3527F201=~z~抱歉，Roman。我没法来跟你打台球了。有别的事要做。
 
 ;0x363D9B83=FCR2_ACT_PRO_CALL_REQ_SPEC
 0x363D9B83=FCR2_ACT_PRO_CALL_REQ_SPEC
@@ -78,7 +75,7 @@
 0x42241C2A=010
 
 ;0x49262141=~z~Niko, as you are my cousin I want you to use family business how you like. Any time you want cab, you call me.
-0x49262141=~z~Niko，既然你是我的堂弟，我想让你随意利用我们的家族产业。你什么时候想打车了，就给我打电话。
+0x49262141=~z~Niko，既然你是我的堂弟，我想让你随意利用我们的家族产业。什么时候想打车了，给我打个电话。
 
 ;0x49322388=~z~Okay, Niko. We shall rain check this for a different occasion.
 0x49322388=~z~好的，Niko。我们就推迟到别的时间吧。
@@ -105,7 +102,7 @@
 0x5471CEBA=100
 
 ;0x557DC1A9=~z~Thank you for picking me up, cousin. Will you take me home?
-0x557DC1A9=~z~感谢你来接我，堂弟。你能送我回家吗？
+0x557DC1A9=~z~感谢你来接我，堂弟。能送我回家吗？
 
 ;0x5BEAC310=FCR2_ACT_CALL_REQ_SPEC_NO
 0x5BEAC310=FCR2_ACT_CALL_REQ_SPEC_NO
@@ -114,13 +111,13 @@
 0x5D5612AE=010
 
 ;0x5DF47616=~z~You are a life saver, cousin. I'll see you soon.
-0x5DF47616=~z~你真是个救星，堂弟。我们一会儿见。
+0x5DF47616=~z~你真是我的救星，堂弟。我们一会儿见。
 
 ;0x632D1973=~z~You need walk no longer. There's a cab coming to you.
 0x632D1973=~z~你用不着再徒步了，有辆车往你这儿来了。
 
 ;0x642C5A68=~z~You will leave your own cousin to walk home sick. Okay, Niko.
-0x642C5A68=~z~你居然让自己刚出院的堂兄走回家。可以，Niko。
+0x642C5A68=~z~你居然让刚出院的堂兄走回家。行吧，Niko。
 
 ;0x652712A5=FCR2_ACT_PRO_CALL_STRIP_CANCEL
 0x652712A5=FCR2_ACT_PRO_CALL_STRIP_CANCEL
@@ -135,13 +132,13 @@
 0x68EEA6A5=FCR2_ACT_PRO_GETCALL_SPEC_END_C_CA
 
 ;0x697A2FC6=~z~Cousin, you must dine alone. I can no longer join you.
-0x697A2FC6=~z~堂兄，你只能自己去吃了。我不能陪你了。
+0x697A2FC6=~z~堂兄，你只能自己吃饭了。我不能陪你了。
 
 ;0x6BCBEE45=~z~You are a good cousin. Thank you for collecting me. I need to go home now.
 0x6BCBEE45=~z~真是个好堂弟，感谢你来接我。我现在要回家了。
 
 ;0x6CD7EAD3=~z~Alright, Niko. We shall do this another time. Later on.
-0x6CD7EAD3=~z~好吧，Niko。我们改天再做这个吧。回见。
+0x6CD7EAD3=~z~好吧，Niko。我们改天再约吧。回见。
 
 ;0x6F67CD05=~z~Niko, you are just fooling with me. Thanks a lot.
 0x6F67CD05=~z~Niko，你是存心耍我吧。多谢了。
@@ -153,7 +150,7 @@
 0x72974640=010
 
 ;0x72E40BBD=~z~Sorry, cousin. I cannot join you at the tittie bar. You can still go by yourself though.
-0x72E40BBD=~z~抱歉，堂兄。我没法陪你去奶子吧了。不过你还是可以自己去。
+0x72E40BBD=~z~抱歉，堂兄。我没法陪你去奶子吧了。不过你还是能自己去。
 
 ;0x7418229B=~z~Thank you, cousin. That could be very useful in this city.
 0x7418229B=~z~谢了，堂兄。在这里会很有用的。
@@ -171,13 +168,13 @@
 0x77DEC2D6=~z~原地等着，NB。我这就派车过来。
 
 ;0x79452CC2=~z~Sorry, Roman. I can't do it right now. Can't you get Mallorie to do it?
-0x79452CC2=~z~抱歉，Roman，我现在来不了。你就不能让Mallorie来接你吗？
+0x79452CC2=~z~抱歉，Roman，我现在来不了。你就不能让Mallorie来接吗？
 
 ;0x7BE4A010=010
 0x7BE4A010=010
 
 ;0x7C088934=~z~Don't worry cousin, I have hot bitches that are begging me for my company, see you soon.
-0x7C088934=~z~别担心，堂弟，我还有性感的贱人们求我陪呢，之后见。
+0x7C088934=~z~别担心，堂弟，很多性感的贱人求我陪呢，之后见。
 
 ;0x82186FA9=~z~Cousin, I can't play no games with you just now. Sorry.
 0x82186FA9=~z~Cousin, I can't play no games with you just now. Sorry.
@@ -204,7 +201,7 @@
 0x8AE3CE7F=FCR2_ACT_GETCALL_HOSP_REJ_HILIKE
 
 ;0x8DC3AA3F=~z~Hey, Roman. You mind if we catch the show on another night? I have something else to do.
-0x8DC3AA3F=~z~嘿，Roman。你介意我们换个日子看表演吗？我现在有别的事情要做。
+0x8DC3AA3F=~z~嘿，Roman。你介意改天再去看表演吗？我现在有别的事情要做。
 
 ;0x9127319F=FCR2_ACT_CALL_HOSP_CANCEL_MEDLIKE
 0x9127319F=FCR2_ACT_CALL_HOSP_CANCEL_MEDLIKE
@@ -216,7 +213,7 @@
 0x94FFFD18=~z~你可是我堂弟啊，Niko。我怎么能拒绝呢？已经有辆车在路上了。
 
 ;0x9594CE1F=~z~Cousin, I hope you are not forgetting your family in this city? We do this on different occasion.
-0x9594CE1F=~z~堂弟，你应该没忘了你在这里的家人吧？我们以后再约吧。
+0x9594CE1F=~z~堂弟，你应该没忘了自由城的家人吧？我们以后再约吧。
 
 ;0x9A50FD01=100
 0x9A50FD01=100
@@ -228,34 +225,34 @@
 0x9C2C8F8B=100
 
 ;0xA0E8FC01=~z~I am sorry cousin, but I have no time. I'll see you soon though.
-0xA0E8FC01=~z~抱歉，堂兄，但我没空。不过我们之后见。
+0xA0E8FC01=~z~抱歉，堂兄，但我没空。还是之后见吧。
 
 ;0xA14C8DBC=FCR2_ACT_PRO_CALL_LOLIKE
 0xA14C8DBC=FCR2_ACT_PRO_CALL_LOLIKE
 
 ;0xA1D71C30=~z~Roman, it's Niko. I need a cab.
-0xA1D71C30=~z~Roman，我是Niko。我需要辆车。
+0xA1D71C30=~z~Roman，我是Niko。我要打车。
 
 ;0xA27A45D3=FCR2_ACT_ARRIVEF_HOSPITAL
 0xA27A45D3=FCR2_ACT_ARRIVEF_HOSPITAL
 
 ;0xA4BCEF6E=~z~Roman, I cannot go look at titties with you. I have to do something else.
-0xA4BCEF6E=~z~Roman，我不能陪你去看奶子了。我有别的事情要做。
+0xA4BCEF6E=~z~Roman，我不能陪你去看奶子了。有别的事情要做。
 
 ;0xA99AA651=~z~Anything for you, NB. It should be there soon.
 0xA99AA651=~z~有需要你就直说，NB。应该马上就到。
 
 ;0xAAFDD334=~z~Really, Niko. I told everyone you were coming to get me. I will have to walk now.
-0xAAFDD334=~z~真的，Niko，我告诉了所有人你会来接我。现在只能走回家了。
+0xAAFDD334=~z~真的，Niko？我告诉了所有人你会来接我。现在只能走回家了。
 
 ;0xACEE325E=~z~Roman, my cousin, I'd really like a cab if you could send one to me.
-0xACEE325E=~z~Roman，好堂兄，我很希望你现在能给我派辆出租车。
+0xACEE325E=~z~Roman，好堂兄，我很希望你能给我派辆出租车。
 
 ;0xB46BF78F=~z~Sorry, cousin. I cannot see the show with you no more. Hope that's cool.
-0xB46BF78F=~z~抱歉，堂兄，我不能如约和你去看表演了。希望没事。
+0xB46BF78F=~z~抱歉，堂兄，我不能和你去看表演了。希望没事。
 
 ;0xBE54D52B=~z~Hey Roman, you couldn't send a cab for a cousin in need could you?
-0xBE54D52B=~z~嘿，Roman，能不能给你的堂弟派辆车过来？
+0xBE54D52B=~z~嘿，Roman，能不能给你堂弟派辆车过来？
 
 ;0xBFC2ED18=FCR2_ACT_HOSPITAL_DROPOFF
 0xBFC2ED18=FCR2_ACT_HOSPITAL_DROPOFF
@@ -333,7 +330,7 @@
 0xEE588B57=~z~我可以为我的堂兄来一趟，应该不用一个小时就能到。
 
 ;0xEF7B591D=~z~Thanks for the ride, Niko. Call me soon, yes.
-0xEF7B591D=~z~谢谢你送我回家，Niko。记得打给我，对。
+0xEF7B591D=~z~谢谢你送我回家，Niko。记得联系，好吗。
 
 ;0xEF9B5BFD=FCR2_ACT_PRO_CALL_CANCEL_SPEC_C_GA
 0xEF9B5BFD=FCR2_ACT_PRO_CALL_CANCEL_SPEC_C_GA

@@ -1,6 +1,6 @@
 ﻿[BELL5]
 ;0x2DB9CFCE=~s~Chase ~r~Chubby Charlie.
-0x2DB9CFCE=~s~追逐~r~Chubby Charlie。
+0x2DB9CFCE=~s~追逐~r~肥佬Charlie。
 
 ;0x5020CCF0=~r~The chopper got away.
 0x5020CCF0=~r~直升机飞走了。
@@ -15,10 +15,10 @@
 0x7DC3E238=~s~你把~b~Bell~s~落下了。
 
 ;0x89C107CB=~s~Find ~r~Chubby Charlie.
-0x89C107CB=~s~寻找~r~Chubby Charlie。
+0x89C107CB=~s~寻找~r~肥佬Charlie。
 
 ;0x97F5A434=~s~Keep chasing ~r~Chubby Charlie.
-0x97F5A434=~s~继续追逐~r~Chubby Charlie。
+0x97F5A434=~s~继续追逐~r~肥佬Charlie。
 
 ;0xAD5F4F17=~s~Follow ~b~Bell.
 0xAD5F4F17=~s~跟随~b~Bell。
@@ -30,10 +30,10 @@
 0xC94486E5=~s~击落~r~直升机。~s~
 
 ;0xD70E2278=~s~Take down ~r~Chubby Charlie.
-0xD70E2278=~s~干掉~r~Chubby Charlie。
+0xD70E2278=~s~干掉~r~肥佬Charlie。
 
 ;0xDEC291AD=~r~Chubby Charlie got away.
-0xDEC291AD=~r~Chubby Charlie逃走了。
+0xDEC291AD=~r~肥佬Charlie逃走了。
 
 ;0xF4CEDDF9=~s~Find a way inside the ~y~building.
 0xF4CEDDF9=~s~设法进入~y~建筑。

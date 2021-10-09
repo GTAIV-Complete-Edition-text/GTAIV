@@ -18,7 +18,7 @@
 0x2C9C4E99=~s~你离~b~Playboy~s~太远了，回去找他。
 
 ;0x3327E4AA=Don't leave ~b~Playboy~s~ behind.
-0x3327E4AA=别丢下~b~Playboy。~s~
+0x3327E4AA=别把~b~Playboy~s~落下。
 
 ;0x41486538=Clear out the ~r~floor above.~s~
 0x41486538=清除~r~楼上的敌人。~s~
@@ -39,7 +39,7 @@
 0x8595EDCE=跟随~b~Playboy~s~越过屋顶。
 
 ;0xA88888A7=~s~Lose your wanted level.
-0xA88888A7=~s~降低你的通缉度。
+0xA88888A7=~s~摆脱通缉。
 
 ;0xB7F5528C=Follow ~b~Playboy~s~ to meet the contact on the 3rd floor.
 0xB7F5528C=跟着~b~Playboy~s~去三楼与联络人见面。

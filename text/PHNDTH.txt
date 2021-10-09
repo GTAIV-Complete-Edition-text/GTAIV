@@ -1,6 +1,6 @@
 ﻿[PHNDTH]
 ;0x0EA9B9C0=Get out of there and lose the wanted level.
-0x0EA9B9C0=离开这个区域并降低你的通缉度。
+0x0EA9B9C0=离开这个区域并摆脱通缉。
 
 ;0x1A5B5F6F=~s~Detonate the bomb.
 0x1A5B5F6F=~s~引爆炸弹。
@@ -42,7 +42,7 @@
 0x8AD5BD52=找到~b~Ancelotti家族的车，~s~给它装上炸弹。
 
 ;0x8D47BA3A=Lose your wanted level and then rig the car with bomb.
-0x8D47BA3A=降低你的通缉度，然后在汽车上安装炸弹。
+0x8D47BA3A=摆脱通缉，然后在汽车上安装炸弹。
 
 ;0x9A99DCF2=Go to a ~y~safe point~s~ and detonate the bomb.
 0x9A99DCF2=去~y~安全的地方~s~引爆炸弹。
@@ -54,7 +54,7 @@
 0xA117E1DA=~R~你没能杀死司机，被他逃了。~s~
 
 ;0xA8201921=Lose your wanted level before the Ancelottis leave for the meeting.
-0xA8201921=在Ancelotti家族的人前往据点前降低你的通缉度。
+0xA8201921=在Ancelotti家族的人前往据点前摆脱通缉。
 
 ;0xAA3DF0EA=Get a car before the Ancelottis leave for the meeting.
 0xAA3DF0EA=在Ancelotti家族的人前往据点前找到一辆车。
@@ -72,7 +72,7 @@
 0xB9190EA0=尾随~r~Ancelotti家族的人。~s~别让他们发现你在跟踪他们。
 
 ;0xBADFA079=Lose your wanted level before rigging the car.
-0xBADFA079=在安装炸弹前降低你的通缉度。
+0xBADFA079=在安装炸弹前摆脱通缉。
 
 ;0xC475A895=~s~You better back off, don't spook the ~r~Ancelottis.
 0xC475A895=~s~你最好退后些，不要惊动~r~Ancelotti家族的人。

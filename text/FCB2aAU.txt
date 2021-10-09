@@ -1,6 +1,6 @@
 ﻿[FCB2aAU]
 ;0x02627461=~z~Wipe the gunk out of your face and get in your chopper, I need you to get me.
-0x02627461=~z~把你脸上的液体都擦了然后上直升机吧，我需要你来接。
+0x02627461=~z~擦掉脸上的液体，进入直升机吧，我需要你来接。
 
 ;0x0278D967=~z~No skin off my back, NB. That's all cool baby. Another time.
 0x0278D967=~z~我无所谓，NB。怎么样都行，宝贝。那就下次吧。
@@ -12,7 +12,7 @@
 0x047DB128=010
 
 ;0x10C21124=~z~If you don't want to be disturbed, then turn off your phone. I need a lift in your chopper.
-0x10C21124=~z~你要是不想有人烦你，就直接关机吧。我需要你开直升机来接我。
+0x10C21124=~z~不想有人烦你就直接关机吧。麻烦你开直升机来接我。
 
 ;0x133D0C6D=100
 0x133D0C6D=100
@@ -21,7 +21,7 @@
 0x1360E3B9=~z~NB，我要出院了，兄弟。你能来接我吗？
 
 ;0x13DF0B9E=~z~Brucie man, those naked chicks are gonna have to wait. Another time.
-0x13DF0B9E=~z~Brucie兄弟，那些脱衣舞女只能再等等了。下次吧。
+0x13DF0B9E=~z~Brucie兄弟，让那些脱衣舞女再等等吧。改天再说。
 
 ;0x16356790=100
 0x16356790=100
@@ -30,7 +30,7 @@
 0x1A1530C7=010
 
 ;0x1DA86F69=~z~Wow, thanks, Brucie, I appreciate that.
-0x1DA86F69=~z~哇哦，谢了，Brucie，我很感谢。
+0x1DA86F69=~z~哇哦，谢了，Brucie，很感谢你。
 
 ;0x1EFF637D=FCB2_ACT_PBR_GETCALL_HOSP_YES
 0x1EFF637D=FCB2_ACT_PBR_GETCALL_HOSP_YES
@@ -75,7 +75,7 @@
 0x32A7B38D=FCB2_A_OA
 
 ;0x331D019A=~z~Brucie, I need that helicopter ride now.
-0x331D019A=~z~Brucie，我现在就需要乘直升机。
+0x331D019A=~z~Brucie，我现在要乘直升机。
 
 ;0x34E67F4C=100
 0x34E67F4C=100
@@ -96,7 +96,7 @@
 0x3C400FC2=100
 
 ;0x3D9BCFAC=~z~Don't worry about it, NB. Another time.
-0x3D9BCFAC=~z~没关系，NB。改天再约。
+0x3D9BCFAC=~z~没关系的，NB。改天再约。
 
 ;0x3DED007F=~z~Sorry, Brucie, I can't make it to the hospital.
 0x3DED007F=~z~抱歉，Brucie，我来不了医院了。
@@ -111,13 +111,13 @@
 0x40EA1C70=FCB2_ACT_PBR_CALL_LOLIKE
 
 ;0x417466C8=~z~Hey man, me and you are gonna have to get horny together another time. Right now won't do.
-0x417466C8=~z~喂，兄弟，我们只能改天再去寻欢作乐了。现在去不了。
+0x417466C8=~z~喂，兄弟，只能改天再寻欢作乐了。现在去不了。
 
 ;0x4194EC41=~z~Sure, Brucie - glad you're getting out - I'll be there in an hour or less.
-0x4194EC41=~z~当然，Brucie，很高兴你出院了。我大概在一小时内能到。
+0x4194EC41=~z~当然，Brucie，很高兴你出院了。我大概一小时到。
 
 ;0x42576D5F=~z~Brucie, sorry but I need to take a raincheck on that Heli ride. Hope that's cool.
-0x42576D5F=~z~Brucie，很抱歉，但我们的直升机之旅得推迟了。希望没关系。
+0x42576D5F=~z~Brucie，很抱歉，但约好的直升机兜风得推迟了。希望没关系。
 
 ;0x4320A1A1=~z~Brucie, can you pick me up? In the helicopter man.
 0x4320A1A1=~z~Brucie，能来接我吗？开直升机来，兄弟。
@@ -138,7 +138,7 @@
 0x4CBA29EF=~z~收到，没问题。
 
 ;0x4D323528=~z~Hey - amigo, that's a diss man, I'm just getting out of the hospital.
-0x4D323528=~z~嘿，大兄弟，真是绝情，我才刚出院诶。
+0x4D323528=~z~喂，大兄弟，真是绝情，我才刚出院诶。
 
 ;0x4E13A0F6=100
 0x4E13A0F6=100
@@ -150,7 +150,7 @@
 0x545CFD48=FCB2_ACT_GETCALL_HOSP_REJ_LOLIKE
 
 ;0x547527F0=~z~I just wanted to say - you ever need a lift in the helicopter, gimme a call alright, yeah.
-0x547527F0=~z~跟你打声招呼，如果你需要直升机载你一程，就给我打个电话，好吧？
+0x547527F0=~z~跟你打声招呼，如果需要直升机载你一程，给我打个电话，好吧？
 
 ;0x5B898B69=010
 0x5B898B69=010
@@ -159,10 +159,10 @@
 0x621C535C=~z~抱歉，兄弟，看来我没法和你一起乘风破浪了。以后再说吧。
 
 ;0x65851314=~z~Brucie, sorry about this but I gotta cancel our bowling date.
-0x65851314=~z~Brucie，很对不起，我们约好的保龄球必须得取消了。
+0x65851314=~z~Brucie，很对不起，约好的保龄球只能取消了。
 
 ;0x67BBEF79=~z~Yeah no worries, man - I know how it is making your way in this game. I'll make my own way home.
-0x67BBEF79=~z~没关系，兄弟，我也知道你在这个游戏里要过来不容易。我自己回家吧。
+0x67BBEF79=~z~没关系，兄弟，我也知道在游戏里赶路不容易。我自己回家吧。
 
 ;0x688F6C7E=~z~Brucie, can you pick me up in that chopper?
 0x688F6C7E=~z~Brucie，你能开直升机来接我吗？
@@ -177,31 +177,31 @@
 0x745C32E5=010
 
 ;0x756F570A=~z~That's why we're tight, man - that's why we're in this together.
-0x756F570A=~z~所以我们才是铁哥们嘛，兄弟。所以我们才会在一起。
+0x756F570A=~z~这才是铁哥们嘛，兄弟。所以我们才会在一起。
 
 ;0x75BE061B=FCB2_ACT_CALL_REQ_SPEC_YES
 0x75BE061B=FCB2_ACT_CALL_REQ_SPEC_YES
 
 ;0x776EFCAF=~z~Love to but the thing is in the shop just now - some problem with the left wing, I mean rotor blade.
-0x776EFCAF=~z~我也想啊，不过店里现在有点事情，左翼那边出了问题，说的是直升机的机翼。
+0x776EFCAF=~z~我也想啊，不过店里有点事情。左翼出了问题，我是说机翼。
 
 ;0x7DE7A626=010
 0x7DE7A626=010
 
 ;0x7EE58CEE=~z~Can't actually do that boating with you no more Brucie. Another time.
-0x7EE58CEE=~z~暂时是没法跟你去开快艇了，Brucie。改天吧。
+0x7EE58CEE=~z~暂时没法跟你去开快艇了，Brucie。改天吧。
 
 ;0x850A3D40=FCB2_ACT_GETCALL_HOSP_ASK
 0x850A3D40=FCB2_ACT_GETCALL_HOSP_ASK
 
 ;0x857519BA=~z~I should have got a limo organized or something - my bad - no problem.
-0x857519BA=~z~我就该自己先安排好专车来接的，怪我。没关系。
+0x857519BA=~z~我就该自己安排专车来接的，怪我。没关系。
 
 ;0x87547AD4=~z~Thanks man. See you soon.
-0x87547AD4=~z~谢了兄弟。回头见。
+0x87547AD4=~z~谢了兄弟。待会儿见。
 
 ;0x899120F3=~z~I'd love to, but it's fucked just now, bro.
-0x899120F3=~z~我也想啊，不过它刚好出毛病了，兄弟。
+0x899120F3=~z~我也想啊，不过飞机刚好坏了，兄弟。
 
 ;0x8B6CC6E8=FCB2_ACT_CALL_REQ_SPEC_NO
 0x8B6CC6E8=FCB2_ACT_CALL_REQ_SPEC_NO
@@ -210,25 +210,25 @@
 0x90AB6DC6=FCB2_ACT_PBR_CALL_SHOW_CANCEL
 
 ;0x92C92B27=~z~Thanks, man, and I hope you can sense the lack of warmth in my voice, man.
-0x92C92B27=~z~谢了，兄弟，希望你能感受到我声音中缺乏的温暖，兄弟。
+0x92C92B27=~z~谢了，兄弟，希望你能听出我缺乏的温暖，兄弟。
 
 ;0x934E4BDA=100
 0x934E4BDA=100
 
 ;0x94F2B8B9=~z~Okay - I know how it is, making moves and taking over!
-0x94F2B8B9=~z~好了，我也知道情况，忙着你的宏图霸业是吧！
+0x94F2B8B9=~z~好吧。我也知道情况，忙着你的宏图霸业是吧！
 
 ;0x9627B19F=FCB2_ACT_GETCALL_HOSP_REJ_HILIKE
 0x9627B19F=FCB2_ACT_GETCALL_HOSP_REJ_HILIKE
 
 ;0x97B17B81=~z~You're not a real winner, anyway.
-0x97B17B81=~z~你这不算是真正的赢家，算了。
+0x97B17B81=~z~反正你也不是真正的赢家。
 
 ;0x98D879FC=~z~Sure, no problem, bro.
 0x98D879FC=~z~当然，没问题，兄弟。
 
 ;0x9FBC5AD7=~z~Brucie - it's Niko - I really need you and your helicopter.
-0x9FBC5AD7=~z~Brucie，我是Niko，现在急需你和你的直升机。
+0x9FBC5AD7=~z~Brucie，我是Niko，现在急需你的直升机。
 
 ;0xA3DE53C1=FCB2_ACT_PBR_CALL_BOWL_CANCEL
 0xA3DE53C1=FCB2_ACT_PBR_CALL_BOWL_CANCEL
@@ -249,19 +249,19 @@
 0xAE2C648D=010
 
 ;0xAFFD2791=~z~That's how we roll - NB - in the sky!
-0xAFFD2791=~z~这就是我们的路，NB，上天！
+0xAFFD2791=~z~这就是我们的风范，NB，上天！
 
 ;0xB0B42EE3=FCB2_ACT_GETCALL_HOSP_ACCEPT
 0xB0B42EE3=FCB2_ACT_GETCALL_HOSP_ACCEPT
 
 ;0xB156382B=~z~Brucie - I'm cool - I don't need the chopper just now after all.
-0xB156382B=~z~Brucie，没事了，刚才说的直升机现在不需要了。
+0xB156382B=~z~Brucie，没事了，不需要刚才说的直升机了。
 
 ;0xB274294F=FCB2_ACT_CALL_REQ_SPEC_END
 0xB274294F=FCB2_ACT_CALL_REQ_SPEC_END
 
 ;0xB3E5661A=~z~Shit, if that's the way you're playing me. Don't take me for granted though.
-0xB3E5661A=~z~我靠，你拿我开玩笑是吧。别把我们的友谊当作理所当然。
+0xB3E5661A=~z~我靠，你小子耍我呢。我们的友谊可不是理所当然。
 
 ;0xB8A883FB=~z~Brucie, sorry but I can't go drinking with you.
 0xB8A883FB=~z~Brucie，很抱歉，我没法跟你去喝酒了。
@@ -276,25 +276,25 @@
 0xC96344BD=100
 
 ;0xCA3B2724=~z~Hey Brucie. Sorry but we can't get that drink right now.
-0xCA3B2724=~z~喂，Brucie。很抱歉，不过我们现在没法去喝酒了。
+0xCA3B2724=~z~喂，Brucie。很抱歉，不过我们没法去喝酒了。
 
 ;0xCD149EFE=100
 0xCD149EFE=100
 
 ;0xCDA39029=~z~Shit, man. You're lucky this chick just went home, I wouldn't be up otherwise. What you need?
-0xCDA39029=~z~我靠，兄弟。运气不错，那女人刚回家，否则我就没空了。你需要什么？
+0xCDA39029=~z~我靠，兄弟。运气不错，那娘们刚回家，否则我早睡了。你需要什么？
 
 ;0xCDB09B82=FCB2_ACT_PBR_CALL_STRIP_CANCEL
 0xCDB09B82=FCB2_ACT_PBR_CALL_STRIP_CANCEL
 
 ;0xD01F5C9E=~z~Alright, man. Whatever. Hopefully see you soon bro.
-0xD01F5C9E=~z~好吧，兄弟。随你吧。希望早点再见啊，哥们儿。
+0xD01F5C9E=~z~好吧，兄弟。随你吧。希望能早点再见啊，哥们儿。
 
 ;0xD1977DF7=~z~Sorry, man, I'm kind of busy right now.
 0xD1977DF7=~z~抱歉，兄弟，我现在有点忙。
 
 ;0xD344EE92=~z~Sorry Brucie, I can't actually go bowling with you right now.
-0xD344EE92=~z~抱歉Brucie，我现在没法跟你去打保龄球了。
+0xD344EE92=~z~抱歉，Brucie，我没法陪你打保龄球了。
 
 ;0xD359EE4A=~z~Sure, I'm on my way.
 0xD359EE4A=~z~当然，我过来了。
@@ -321,10 +321,10 @@
 0xDF3D8735=FCB2_ACT_CALL_HOSP_CANCEL_HILIKE
 
 ;0xDFDDAF58=~z~My bad man, well, now that you're awake, I need you to come in the heli.
-0xDFDDAF58=~z~我的错，兄弟，好吧，既然你都醒了，就麻烦你开直升机过来吧。
+0xDFDDAF58=~z~我的错，兄弟，既然你都醒了，索性开直升机过来吧。
 
 ;0xE07BD9DD=~z~Sorry Brucie, something came up. I can't hit that show with you. Another time.
-0xE07BD9DD=~z~抱歉，Brucie，突然有点事。我没法和你一起去看表演了。改天吧。
+0xE07BD9DD=~z~抱歉，Brucie，突然有点事。没法陪你看表演了。改天吧。
 
 ;0xE4093326=FCB2_ACT_PBR_REQ_SPEC_SLEEP
 0xE4093326=FCB2_ACT_PBR_REQ_SPEC_SLEEP
@@ -342,10 +342,10 @@
 0xEC7CE9A6=100
 
 ;0xEE184BCD=~z~Wake up Brucie, I need you and your chopper.
-0xEE184BCD=~z~醒醒，Brucie，我需要你和你的直升机。
+0xEE184BCD=~z~醒醒，Brucie，我需要你的直升机。
 
 ;0xEE9CAA4E=~z~Brucie man, something's come up. We're gonna have to game another time.
-0xEE9CAA4E=~z~Brucie兄弟，我突然有点急事。我们得改天出去玩了。
+0xEE9CAA4E=~z~Brucie兄弟，突然有点急事。我们得改天出去玩了。
 
 ;0xF128D733=~z~Jesus, NB. Brucie don't like his beauty sleep interrupted, bro. What do you need?
 0xF128D733=~z~天哪，NB。Brucie不喜欢有人打搅他的美容觉，兄弟。你要干嘛？
@@ -354,10 +354,10 @@
 0xF46DC52B=FCB2_ACT_PBR_CALL_EAT_CANCEL
 
 ;0xF5932FDA=~z~Brucie, we can't eat together right now. Another time.
-0xF5932FDA=~z~Brucie，我们现在没法一起去吃饭了。下次吧。
+0xF5932FDA=~z~Brucie，没法一起去吃饭了。下次吧。
 
 ;0xF89059D2=~z~Don't mean to disappoint, Brucie. But I can't do that chopper ride, I'm sorry.
-0xF89059D2=~z~我也不想扫你的兴，Brucie。但我没法如约来乘直升机了，很抱歉。
+0xF89059D2=~z~我也不想扫你的兴，Brucie。但直升机兜风我来不了了，很抱歉。
 
 ;0xF94CDE87=010
 0xF94CDE87=010
@@ -369,8 +369,8 @@
 0xFB92C70B=FCB2_ACT_PBR_GETCALL_HOSP_NO
 
 ;0xFE850E2F=~z~You're pathetic Niko - I'm the kind of person you should try to impress.
-0xFE850E2F=~z~你真可悲，Niko。我才是你需要留下印象的人。
+0xFE850E2F=~z~你真可悲，Niko。你要学会讨好我这种人。
 
 ;0xFF8B73F8=~z~Nicky, you woke me up and I'm gonna be puffy in the morning. This better be good, fuck.
-0xFF8B73F8=~z~Nikcy，你吵醒我了，这样的话我白天就会浮肿。最好别出事，操。
+0xFF8B73F8=~z~Nikcy，你吵醒我了，这样我白天会浮肿的。最好别出事，操。
 

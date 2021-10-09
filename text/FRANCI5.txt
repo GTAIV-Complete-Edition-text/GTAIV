@@ -27,7 +27,7 @@
 0x5EE926FA=按~PAD_LSTICK_UPDOWN~移动平台。
 
 ;0x6C92BCB9=The cops are onto you, lose your wanted level.
-0x6C92BCB9=警察盯上你了，降低你的通缉度。
+0x6C92BCB9=警察盯上你了，摆脱通缉。
 
 ;0x70204968=Press ~PAD_LB~ to get off the platform.
 0x70204968=按~PAD_LB~离开平台。
@@ -48,7 +48,7 @@
 0xC6076FA9=选是可提高报酬。
 
 ;0xCA687DF7=Go to the ~y~window cleaning platform.
-0xCA687DF7=前往~y~擦窗机。
+0xCA687DF7=登上~y~擦窗机。
 
 ;0xDA8F98B9=~R~You were only supposed to take down one brother.~S~
 0xDA8F98B9=~R~你只要杀兄弟之一就够了。~S~

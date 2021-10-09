@@ -1,8 +1,4 @@
-﻿;注：
-;1.我不懂LJ在说什么 LJ的话是我瞎编的
-;2.Niko在说什么我也不太清楚 是按大意编的
-
-[FCJC2AU]
+﻿[FCJC2AU]
 ;0x02307484=~z~I'm trying! You keep talking.
 0x02307484=~z~我是想啊！你一直在说话。
 
@@ -49,13 +45,13 @@
 0x1722A43B=FCJ2_JACOB_CONVERSATION_13_EF
 
 ;0x1B70ACB2=~z~and you are watching your neighbor's house blowing up on the international news channel.
-0x1B70ACB2=~z~你就能在国际新闻台上看见你邻居的家夷为平地了。
+0x1B70ACB2=~z~你就能在国际新闻台看见邻居家被夷为平地了。
 
 ;0x22D51460=~z~This shit is spiritual man. Let me see clearly, hear the I-rations, let I and I enjoy life, and give I and I I-tection.
 0x22D51460=~z~这玩意是精神上的，兄弟。让我看清、听清，让我能享受生活，给我乐趣。
 
 ;0x260558F4=~z~We gonna have a whole heap of relaxation. A whole bunch of chilling it out. Of silence, yes? Seen?
-0x260558F4=~z~我们要来一大票的娱乐。爽他一大票。享受宁静，对吧？是吧？
+0x260558F4=~z~我们要来一大票的娱乐，爽他一大票。享受宁静，对吧？是吧？
 
 ;0x262A11EF=~z~I didn't think I deserved any more when they weren't getting any.
 0x262A11EF=~z~我觉得既然他们的年岁停止了，那我也不配继续下去。
@@ -64,22 +60,22 @@
 0x26364483=~z~可惜不是这样的。
 
 ;0x277E1D5D=~z~Yes - from what I understand he's pretty wild, but aren't we all?
-0x277E1D5D=~z~确实，据我所知他是很疯狂，但我们谁不是呢？
+0x277E1D5D=~z~确实，据我所知他是很疯狂。但我们谁不是呢？
 
 ;0x287FC96A=FCJ2_JACOB_CONVERSATION_10_BK
 0x287FC96A=FCJ2_JACOB_CONVERSATION_10_BK
 
 ;0x28CEC1C0=~z~Hold your fucking corner, rasta - I was being quiet.
-0x28CEC1C0=~z~你他妈才打住呢，好兄弟－我很安静的。
+0x28CEC1C0=~z~你他妈才打住呢，好兄弟。我很安静的。
 
 ;0x291FCA6E=~z~De whole Jam dung getting greedy off a des coke money. It a turn dread against dread.
-0x291FCA6E=~z~整个牙买加帮都为这可卡因钱贪红了眼。变成了互相内斗。
+0x291FCA6E=~z~整个牙买加都为这可卡因钱贪红了眼。变成了互相内斗。
 
 ;0x29AE4C1B=FCJ2_JACOB_CONVERSATION_10_BL
 0x29AE4C1B=FCJ2_JACOB_CONVERSATION_10_BL
 
 ;0x2AFE0CC5=~z~I hear you.
-0x2AFE0CC5=~z~明白了。
+0x2AFE0CC5=~z~我懂的。
 
 ;0x2EA4740E=FCJ2_JACOB_CONVERSATION_13_EE
 0x2EA4740E=FCJ2_JACOB_CONVERSATION_13_EE
@@ -106,7 +102,7 @@
 0x323B32D7=~z~他想掺和黑手党的事，大家伙诶小子，妄图染指的家伙都不会有好下场，懂？
 
 ;0x32525A75=~z~Then, the West takes notice
-0x32525A75=~z~然后，西方注意到了，
+0x32525A75=~z~然后西方注意到了，
 
 ;0x32E2AF61=FCJ2_JACOB_CONVERSATION_14_FN
 0x32E2AF61=FCJ2_JACOB_CONVERSATION_14_FN
@@ -121,19 +117,19 @@
 0x35DA0E0A=FCJ2_JACOB_CONVERSATION_14_FF
 
 ;0x3752B440=~z~Shit, I stopped counting birthdays when I saw my friends die back home.
-0x3752B440=~z~靠，自从我在老家看见我的朋友们死去后，我就没记着生日了。
+0x3752B440=~z~靠，自从我在老家看着朋友们死去后，我就没记着生日了。
 
 ;0x3884691F=~z~I wish my country had an excuse as good as cocaine for their fighting.
-0x3884691F=~z~我倒希望我的国家是因为可卡因这样的好理由才发动战争。
+0x3884691F=~z~我倒希望我的祖国是因为可卡因这样的好理由才发动战争。
 
 ;0x3AA06563=~z~Then why you keep talking?
-0x3AA06563=~z~那你还一直说话干嘛？
+0x3AA06563=~z~那你还一直说话？
 
 ;0x3AFCECC3=FCJ2_JACOB_CONVERSATION_13_EI
 0x3AFCECC3=FCJ2_JACOB_CONVERSATION_13_EI
 
 ;0x3CD8F1E0=~z~Nah man, he be selling it, and it making him gravalicious.
-0x3CD8F1E0=~z~不是，兄弟，他在卖可卡因，这让他变得贪婪。
+0x3CD8F1E0=~z~不是，兄弟，他在卖可卡因，变得越来越贪婪。
 
 ;0x3D12B0B5=~z~Crazy rastas like I an' I, we don't listen to Babylon.
 0x3D12B0B5=~z~像咱俩这样的疯子兄弟，我们不听条子的。
@@ -157,13 +153,13 @@
 0x4318FC0A=~z~你问这干嘛？
 
 ;0x442F24AE=~z~Cops chasing us, gangsters trying to rip us off, it ain't an easy life, that's for sure.
-0x442F24AE=~z~条子查我们，黑帮杀我们，生活很不易，那是肯定的。
+0x442F24AE=~z~条子查我们，黑帮杀我们，生活不容易，这是肯定的。
 
 ;0x44A65F88=FCJ2_JACOB_CONVERSATION_14_FD
 0x44A65F88=FCJ2_JACOB_CONVERSATION_14_FD
 
 ;0x45F75A67=~z~Man me right hand man, but him big inna de cocaine ting and him want bring it in from jam dung, seen? And it no good.
-0x45F75A67=~z~兄啊，我是副手，但他沉迷这可卡因，还想把它从牙买加弄过来，懂？这样不好。
+0x45F75A67=~z~我是副手，但他沉迷可卡因，还想从牙买加弄过来，懂？这样不好。
 
 ;0x4637D231=FCJ2_JACOB_CONVERSATION_11_CH
 0x4637D231=FCJ2_JACOB_CONVERSATION_11_CH
@@ -187,7 +183,7 @@
 0x4F87F96C=010100010100010100100010100190010
 
 ;0x52D0DC31=~z~It us a keep de world moving and jamming. Is us, and we make de world I-tal.
-0x52D0DC31=~z~那就是我们让世界运作、停止。是我们，我们让世界存在。
+0x52D0DC31=~z~是我们让世界运作、停止。是我们，我们让世界存在。
 
 ;0x54029CD3=FCJ2_JACOB_CONVERSATION_10_BJ
 0x54029CD3=FCJ2_JACOB_CONVERSATION_10_BJ
@@ -196,13 +192,13 @@
 0x57CF3C87=~z~对。
 
 ;0x5837FEE8=~z~Man, me worry about him, you know?
-0x5837FEE8=~z~兄啊，我很担心他，知道吗？
+0x5837FEE8=~z~我很担心他好吧。
 
 ;0x58455E38=FCJ2_JACOB_CONVERSATION_14_FH
 0x58455E38=FCJ2_JACOB_CONVERSATION_14_FH
 
 ;0x58ACE7E9=~z~We give the world it's life and it's madness, you know.
-0x58ACE7E9=~z~我们给了世界生机与疯狂好吧。
+0x58ACE7E9=~z~我们给了世界生机与疯狂。
 
 ;0x5A12502C=~z~Sure, Jacob, it is. What I have seen of it at least.
 0x5A12502C=~z~确实，Jacob，是这样的。依我来看也是。
@@ -211,7 +207,7 @@
 0x5AA11039=FCJ2_JACOB_CONVERSATION_14_FM
 
 ;0x5B815352=~z~People say it be the rules, the laws that make the world work, you know? But maybe it ain't dat way.
-0x5B815352=~z~人们说是规则、法律让世界运作，你知道吗？不过可能不是那样的。
+0x5B815352=~z~人们说是规则、法律让世界运作。不过可能不是那样的。
 
 ;0x5BFBACE5=FCJ2_JACOB_CONVERSATION_12_DF
 0x5BFBACE5=FCJ2_JACOB_CONVERSATION_12_DF
@@ -223,7 +219,7 @@
 0x5C6C38CA=FCJ2_JACOB_CONVERSATION_12_DE
 
 ;0x5CD1468B=~z~I mean, I'm trying not to worry too much about the things that are messed up. Relax, you know, have some fun.
-0x5CD1468B=~z~意思是，尽量不操心那些已经乱七八糟的事情。要放松，就是找点乐子。
+0x5CD1468B=~z~就是不去操心已经搞砸了的事情。要放松，就是找点乐子。
 
 ;0x60738F4B=~z~What's going on, Jacob?
 0x60738F4B=~z~最近怎么样，Jacob？
@@ -253,7 +249,7 @@
 0x6F8CC0E6=FCJ2_JACOB_CONVERSATION_12_DQ
 
 ;0x71467EDC=~z~Maybe it's this madness, this crazy shit, that make de world go round.
-0x71467EDC=~z~也许就是这种疯狂、这种病态狂热，让世界运转的。
+0x71467EDC=~z~也许就是这种疯狂、这种病态狂热，维持了世界的运转。
 
 ;0x7170A21E=FCJ2_JACOB_CONVERSATION_11_CB
 0x7170A21E=FCJ2_JACOB_CONVERSATION_11_CB
@@ -271,7 +267,7 @@
 0x79DE5C41=FCJ2_JACOB_CONVERSATION_12_DJ
 
 ;0x7C283DEA=~z~I drink.
-0x7C283DEA=~z~酒我喝的。
+0x7C283DEA=~z~喝酒吧。
 
 ;0x7CAF5BB3=FCJ2_JACOB_CONVERSATION_11_CM
 0x7CAF5BB3=FCJ2_JACOB_CONVERSATION_11_CM
@@ -316,7 +312,7 @@
 0x8D26E204=FCJ2_JACOB_CONVERSATION_14_FL
 
 ;0x8E12A911=~z~Yeah man, I hear That. We gonna have some fun, we gonna sit and enjoy a lickle silence, and enjoy de world as it turns
-0x8E12A911=~z~对，兄弟，我懂。我们是得找点乐子，我们应该享受小小的宁静，趁着地球还在转多享受一会儿。
+0x8E12A911=~z~是啊，我懂。我们是得找点乐子，应该享受小小的宁静，趁着地球还在转多享受一会儿。
 
 ;0x9000FF0E=FCJ2_JACOB_CONVERSATION_11_CN
 0x9000FF0E=FCJ2_JACOB_CONVERSATION_11_CN
@@ -346,10 +342,10 @@
 0x9F6B1BCA=FCJ2_JACOB_CONVERSATION_11_CP
 
 ;0xA27251D0=~z~How you mean?
-0xA27251D0=~z~这是什么意思？
+0xA27251D0=~z~什么意思？
 
 ;0xA2C017D8=~z~Herb be the most spiritual, y'know, messa man. You smoke it, it open your mind to be what's going on in the earth.
-0xA2C017D8=~z~大麻是最精神的，知道不，很劲，兄弟。你抽一口，它就开阔了你的思维，让你的思维与大地融为一体。
+0xA2C017D8=~z~大麻是最精神的，很劲。抽一口，思维就开阔了，与大地融为一体。
 
 ;0xA5139EBB=FCJ2_JACOB_CONVERSATION_10_BC
 0xA5139EBB=FCJ2_JACOB_CONVERSATION_10_BC
@@ -412,7 +408,7 @@
 0xCDA80B74=~z~随你说吧，老兄。随你说吧。
 
 ;0xCEA99583=~z~Badman is putting coke in his spliffs?
-0xCEA99583=~z~Badman在他的麻里面放可卡因？
+0xCEA99583=~z~Badman在他的草里面放可卡因？
 
 ;0xD02BF2AF=~z~Thanks Jacob, but I'm alright with the shots of vodka. They fuck me up enough.
 0xD02BF2AF=~z~谢了Jacob，但我喝伏特加就够了。这玩意已经够烈了。
@@ -436,13 +432,13 @@
 0xDCF9F5F2=FCJ2_JACOB_CONVERSATION_9_AF
 
 ;0xDF09362A=~z~Rastas be fighting one another, when they should be cotching and smoking de herb together. Badman included.
-0xDF09362A=~z~好兄弟们互相干架，本来他们应该在一起抽草的，Badman也是。
+0xDF09362A=~z~好兄弟们互相干架，本来他们应该在一起哈草的，Badman也是。
 
 ;0xDFC48E3C=~z~How you doing?
 0xDFC48E3C=~z~你怎么样？
 
 ;0xE06FB90F=~z~He ain't the dread he used to be. He used to be righteous man, now him a bad seed. It de coke dat he's doing, you know.
-0xE06FB90F=~z~他老兄已经不是以前的他了。以前他是个正直的人，现在他是个坏胚子。都是被可卡因害的懂吧。
+0xE06FB90F=~z~他已经不是以前的他了。以前他是个正直的人，现在他是个坏胚子。都是被可卡因害的懂吧。
 
 ;0xE4FE7F3B=FCJ2_JACOB_CONVERSATION_9_AD
 0xE4FE7F3B=FCJ2_JACOB_CONVERSATION_9_AD
@@ -466,13 +462,13 @@
 0xEC8F34A5=FCJ2_JACOB_CONVERSATION_10_BH
 
 ;0xEF472D41=~z~All good, me breda, all good. Me get a whole heap of Kali from Jam dung, from me cousin, him just bring it up.
-0xEF472D41=~z~都挺好，兄弟，都挺好。我从牙买加弄到了一整车草，我亲戚给的，他刚送来。
+0xEF472D41=~z~都挺好，兄弟，都挺好。我从牙买加弄到了一整车草，亲戚给的，他刚送来。
 
 ;0xEFF2D009=~z~Gwan man, hard ears, relax. Unwind.
-0xEFF2D009=~z~继续，兄弟，很叛逆嘛。放松，放轻松。
+0xEFF2D009=~z~继续啊，很叛逆嘛。放松，放轻松。
 
 ;0xF05458D8=~z~I look at Badman and tink what could be turning him into the man he's becoming. He's being ruined, you know, Niko?
-0xF05458D8=~z~我看着Badman在想，他为什么会变成现在这样。他已经被毁了，知道吗，Niko？
+0xF05458D8=~z~我看着Badman在想，他为什么会变成现在这样。他已经被毁了懂吧，Niko。
 
 ;0xF1841E02=FCJ2_JACOB_CONVERSATION_9_AE
 0xF1841E02=FCJ2_JACOB_CONVERSATION_9_AE
@@ -502,7 +498,7 @@
 0xFD67C982=~z~噢，好吧，怪不得你挺好。
 
 ;0xFE584238=~z~I drink vodka.
-0xFE584238=~z~我喝伏特加。
+0xFE584238=~z~我喝的伏特加。
 
 ;0xFECB957D=FCJ2_JACOB_CONVERSATION_13_ED
 0xFECB957D=FCJ2_JACOB_CONVERSATION_13_ED

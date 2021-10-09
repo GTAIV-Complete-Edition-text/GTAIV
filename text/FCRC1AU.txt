@@ -21,7 +21,7 @@
 0x06479426=FCR3_CONV4_LA
 
 ;0x07830EFB=~z~Sure. I miss things about home, but I, I... I think things are ruined now.
-0x07830EFB=~z~确实，我挺想念老家的人和事的，不过我，我...我想现在那些都被毁了。
+0x07830EFB=~z~确实，我挺想念老家的人和事的，不过我、我...我想现在那些都被毁了。
 
 ;0x093C5699=FCR3_CONV6_MM
 0x093C5699=FCR3_CONV6_MM
@@ -57,7 +57,7 @@
 0x15153A43=~z~什么都是假的。
 
 ;0x1536866B=~z~In the Old Country, the only thing you could count on was a bomb landing on your bedroom roof in the night.
-0x1536866B=~z~在故国，你唯一能指望的就是晚上一颗炸弹投到你的卧室顶上。
+0x1536866B=~z~在故国，能确定的事只有晚上会有炸弹投到自家屋顶上。
 
 ;0x1586BF7B=FCR3_CONV2_KO
 0x1586BF7B=FCR3_CONV2_KO
@@ -81,10 +81,10 @@
 0x177D6B9E=FCR3_CONV8_NJ
 
 ;0x18C1C70F=~z~They stay there until they're burnt out or dead.
-0x18C1C70F=~z~待到他们丧失动力或者死去。
+0x18C1C70F=~z~直到丧失动力或者死去。
 
 ;0x19A3333B=~z~Thanks. Don't you miss home? You've been here a long time. You never get home sick?
-0x19A3333B=~z~谢了。不过你不想家吗？你来这儿都那么久了，就没有一点思乡吗？
+0x19A3333B=~z~谢了。不过你不想家吗？来这儿那么久，你就没有一点思乡吗？
 
 ;0x1B02B02C=FCR3_CONV4_LE
 0x1B02B02C=FCR3_CONV4_LE
@@ -159,7 +159,7 @@
 0x2B2F117A=FCR3_AMERICA_CM
 
 ;0x2BD6D7A2=~z~I miss the good times we had as children, when our fathers were too drunk to beat us,
-0x2BD6D7A2=~z~我怀念我们在童年共度的美好时光，当我们的父亲都醉到打不动我们的时候，
+0x2BD6D7A2=~z~我很怀念美好的童年时光，那个我们的父亲都醉到打不动我们的时候，
 
 ;0x2D5B7043=~z~It's stupid. Everything is just advertising with nothing to back it up.
 0x2D5B7043=~z~是蠢逼。所有东西都是夸夸其谈没有实力。
@@ -198,13 +198,13 @@
 0x3A750260=FCR3_RELATIONSHIPS_DH
 
 ;0x3A930542=~z~To seize them you end up in so much debt that you'll be a slave for the rest of your life.
-0x3A930542=~z~要想抓住它们，你就会背上一屁股债，余生都得做别人的奴隶。
+0x3A930542=~z~要想抓住它，就会背上一屁股债，余生都得做别人的奴隶。
 
 ;0x3C0DC9A5=~z~and we are making trouble for any fools who get in our way.
 0x3C0DC9A5=~z~横扫前路挡道混蛋。
 
 ;0x3C13F81C=~z~Yes. I know what you mean.
-0x3C13F81C=~z~是的，我能懂你。
+0x3C13F81C=~z~是的，我能理解。
 
 ;0x3D8F531F=FCR3_CONV4_LM
 0x3D8F531F=FCR3_CONV4_LM
@@ -225,7 +225,7 @@
 0x3FE00E16=100010010010100100100010010100100100100100100010100100100010
 
 ;0x4248ADB6=~z~My God. For a sociopathic killer, you're also a really miserable bastard.
-0x4248ADB6=~z~我的天哪，作为一个反社会的杀手，你还真是个可怜的混蛋。
+0x4248ADB6=~z~我的天哪，虽然是个反社会杀手，但你这混蛋还挺可怜的。
 
 ;0x426984C7=~z~Is it?
 0x426984C7=~z~是吗？
@@ -255,10 +255,10 @@
 0x45C88AB8=FCR3_OPTIMISM_BL
 
 ;0x45CB8327=~z~I still remember the emails you sent me, cousin.
-0x45CB8327=~z~我可还记着你给我发的那些邮件呢，堂兄。
+0x45CB8327=~z~我可还记着你给我发的邮件呢，堂兄。
 
 ;0x482E95A3=~z~If women weren't throwing themselves at me, life would be easier.
-0x482E95A3=~z~要不是女人们主动投入我的怀抱，我的生活会更轻松的。
+0x482E95A3=~z~要不是女人主动投入我的怀抱，我的生活会更轻松的。
 
 ;0x487F4D49=FCR3_CONV6_MP
 0x487F4D49=FCR3_CONV6_MP
@@ -270,7 +270,7 @@
 0x4A2B9222=FCR3_RELATIONSHIPS_DP
 
 ;0x4A71986F=~z~My God, you are deranged, cousin. This place has made you sick!
-0x4A71986F=~z~我的天哪，你疯了吧，堂兄。这地方已经把你弄疯了！
+0x4A71986F=~z~我的天哪，你疯了吧，堂兄。这地方把给你弄疯了！
 
 ;0x4AA75655=FCR3_CONV8_NM
 0x4AA75655=FCR3_CONV8_NM
@@ -318,13 +318,13 @@
 0x55713028=~z~那你的Bellic血脉可能和我的不大一样。
 
 ;0x57B280EE=~z~No. the point is, fuck it.
-0x57B280EE=~z~不是，重点是，妈的。
+0x57B280EE=~z~不是，重点是...妈的。
 
 ;0x583676C0=FCR3_CONV6_MK
 0x583676C0=FCR3_CONV6_MK
 
 ;0x5B84AE99=~z~You should have told me how bad things were in this country before I got here.
-0x5B84AE99=~z~你应该在我来这儿前就告诉我这里情况有多糟。
+0x5B84AE99=~z~我来之前你就该告诉我这里情况有多糟。
 
 ;0x5C12BFC3=~z~How she raised such a prick of a son.
 0x5C12BFC3=~z~她是怎么养出这样一个屌人儿子的。
@@ -369,10 +369,10 @@
 0x63885389=~z~我是爱Mallorie，不过得了吧，男人也是有欲望的。
 
 ;0x64E0BED8=~z~Yes - maybe she get heavily involved in car jacking and spend some time doing hits for the mob?
-0x64E0BED8=~z~对，或许她也会成为车匪路霸，再去替黑道杀几个人？
+0x64E0BED8=~z~对，或许她也会成为车匪路霸，再去替黑帮杀几个人？
 
 ;0x66224C38=~z~when there was food and the sun was shining, but...
-0x66224C38=~z~当食物还很充足、阳光明媚的时候，但...
+0x66224C38=~z~那个食物还很充足、阳光明媚的时候，但...
 
 ;0x662B13D1=FCR3_CONV6_ML
 0x662B13D1=FCR3_CONV6_ML
@@ -456,7 +456,7 @@
 0x792FFA5F=FCR3_CONV2_KF
 
 ;0x794FCE9C=~z~They stay on the highway like every other chump. I'm an innovator, Niko.
-0x794FCE9C=~z~他们那些傻子都待在高速路上。我是个创新者，Niko。
+0x794FCE9C=~z~那些傻子都待在高速路上。我是个创新者，Niko。
 
 ;0x79B67360=~z~Now - now I live here. And life is good.
 0x79B67360=~z~现在，现在我住在这儿，活得挺滋润。
@@ -486,7 +486,7 @@
 0x7E6F8B6B=FCR3_CONV2_KU
 
 ;0x7E77B88A=~z~Oh, stop complaining. You're pathetic. The one thing this country has taught you is how to whine.
-0x7E77B88A=~z~噢，别抱怨了。你个悲观者。这个国家教会你的一样本事就是怎么发牢骚。
+0x7E77B88A=~z~噢，别抱怨了。你真可悲。这个国家教会你的一样本事就是怎么发牢骚。
 
 ;0x7F6AF400=~z~How are you, cousin?
 0x7F6AF400=~z~你好吗，堂弟？
@@ -498,7 +498,7 @@
 0x806D8822=FCR3_CONV8_NC
 
 ;0x81E71941=~z~But you can't, or at least you can't teach everyone. Really, you don't like it?
-0x81E71941=~z~但是你做不到，至少你没法教会所有人。你真的不喜欢这儿吗？
+0x81E71941=~z~但你做不到，至少教不会所有人。你真的不喜欢这儿吗？
 
 ;0x842F0825=FCR3_CONV2_KA
 0x842F0825=FCR3_CONV2_KA
@@ -525,7 +525,7 @@
 0x87D44FCA=FCR3_CONV8_NR
 
 ;0x88B526DD=~z~I bet you would like to teach them, wouldn't you cousin?
-0x88B526DD=~z~那你肯定很乐意教他们，对吧，堂弟？
+0x88B526DD=~z~你肯定很乐意教他们闭嘴吧，堂弟？
 
 ;0x88E082BE=100010100010100010100010010100010010010010100100010100010100
 0x88E082BE=100010100010100010100010010100010010010010100100010100010100
@@ -534,7 +534,7 @@
 0x89CA08C2=~z~好。
 
 ;0x8A1C8F8B=~z~You have to move on from the things that happened to you and think about all the opportunities in this country.
-0x8A1C8F8B=~z~你必须要抛下那些陈年往事，多想想这个国家的种种机遇。
+0x8A1C8F8B=~z~你要抛下那些陈年往事，多想想这个国家的种种机遇。
 
 ;0x8A72F0E2=~z~I drive off the highway. Off road baby! Every move I make is a gamble.
 0x8A72F0E2=~z~我开出了高速公路。不走寻常路，宝贝！我的每一步都是在赌博。
@@ -546,7 +546,7 @@
 0x8B5C3FE0=~z~享受这些。我们一起出门，活在这个疯狂的疯人院里，遇见各种怪咖。
 
 ;0x8BA0D2DC=~z~Maybe. Sometimes it feels like I do what the hell others want.
-0x8BA0D2DC=~z~也许吧，有时候我觉得我是在为他人所欲为。
+0x8BA0D2DC=~z~也许吧，有时候我觉得自己在为他人所欲为。
 
 ;0x8BFFF293=100100010010100100100010010010100010010010100100010
 0x8BFFF293=100100010010100100100010010010100010010010100100010
@@ -582,7 +582,7 @@
 0x9825F605=FCR3_CONV8_NQ
 
 ;0x98318C63=~z~Here, anything is possible. It's the land of opportunity.
-0x98318C63=~z~在这里，一切皆有可能。这里是机遇之地。
+0x98318C63=~z~在这里一切皆有可能。这里是机遇之地。
 
 ;0x98573E91=FCR3_AMERICA_CC
 0x98573E91=FCR3_AMERICA_CC
@@ -669,7 +669,7 @@
 0xABDD9325=FCR3_CONV8_NA
 
 ;0xABFDB3FB=~z~They must put something into the water, man, because all I'm feeling is pure optimism.
-0xABFDB3FB=~z~他们肯定是在水里加了东西，老弟，因为我能感受到的只有纯粹的乐观。
+0xABFDB3FB=~z~水里肯定是加了东西，老弟，因为我能感受到的只有纯粹的乐观。
 
 ;0xAD03DF4C=~z~They can't resist, can they?
 0xAD03DF4C=~z~她们无法抗拒，对吧？
@@ -693,13 +693,13 @@
 0xB38CE26F=~z~想让一个人忘记，最好的方子就是丰满圆润的美利坚奶子。
 
 ;0xB428FDC4=~z~The lights, the titties, the food, the opportunities. Come on, Niko. It's kind of incredible.
-0xB428FDC4=~z~灯光、奶子、食物、机遇。得了吧，Niko。这可有点牛逼啊。
+0xB428FDC4=~z~灯火、奶子、食物、机遇。得了吧，Niko。这可有点牛逼啊。
 
 ;0xB4F3EC56=FCR3_CONV2_KT
 0xB4F3EC56=FCR3_CONV2_KT
 
 ;0xB6BC6507=~z~America is an opportunity for a new beginning. You were in need of one.
-0xB6BC6507=~z~美国能给人重新开始的机会。你正好需要它。
+0xB6BC6507=~z~美国能给人重新开始的机会。你正好需要。
 
 ;0xB799346C=FCR3_CONV6_MN
 0xB799346C=FCR3_CONV6_MN
@@ -873,7 +873,7 @@
 0xF8666E38=FCR3_OPTIMISM_BQ
 
 ;0xF8861A32=~z~I have stumbled from one disaster to another, and now I am here, and it is another disaster.
-0xF8861A32=~z~我一次次的被各种灾难绊倒，现在才来到这里，然后又是一个灾难。
+0xF8861A32=~z~我一次次的被各种灾难绊倒，现在才来到这里，然后又是一场灾难。
 
 ;0xF89778D2=FCR3_OPTIMISM_BR
 0xF89778D2=FCR3_OPTIMISM_BR

@@ -93,7 +93,7 @@
 0x18C1A534=~z~我是为了你才来的。
 
 ;0x195BA2DC=~z~I have tried to make the right choices,
-0x195BA2DC=~z~我已经在尝试做出正确的选择了，
+0x195BA2DC=~z~现在我尽量做正确的选择，
 
 ;0x19AAC121=FIN1E_NA
 0x19AAC121=FIN1E_NA
@@ -129,7 +129,7 @@
 0x26213097=FIN1E_IG
 
 ;0x262D3ECF=~z~Rational blood doesn't flow through these veins.
-0x262D3ECF=~z~理性的血液根本不存在于我们的血脉之中。
+0x262D3ECF=~z~血脉之中根本没有理性。
 
 ;0x27732F4E=400
 0x27732F4E=400
@@ -144,7 +144,7 @@
 0x27FEABC3=~z~他们必须得放我走。我可不是谁的奴隶。
 
 ;0x2863C0EC=~z~Tell me, have these good people been hurt by what you've had to do?
-0x2863C0EC=~z~告诉我，这些好人有没有因为一些你不得不做的事情受过伤害？
+0x2863C0EC=~z~告诉我，这些好人有没有因为你不得不做的事情受到伤害？
 
 ;0x2A88FA14=FIN1E_DA
 0x2A88FA14=FIN1E_DA
@@ -156,7 +156,7 @@
 0x2BC7B4EF=FIN1E_OJ
 
 ;0x2D364BB1=~z~But, do you think the men you've dealt with will just let you leave and walk into the sunset?
-0x2D364BB1=~z~但是，你真觉得之前跟你一起的人会让你就这样脱身安度晚年吗？
+0x2D364BB1=~z~但你真觉得之前的雇主会让你拍拍屁股走人安度晚年吗？
 
 ;0x2E09EA2D=~z~Yo, me not having no more a dis.
 0x2E09EA2D=~z~哟，我不喜欢这个样子。
@@ -177,7 +177,7 @@
 0x341D015D=FIN1E_OAC
 
 ;0x3513C5ED=~z~You don't need to say anything else.
-0x3513C5ED=~z~你也没有必要再多说一句话了。
+0x3513C5ED=~z~你也没必要再多说什么了。
 
 ;0x3545F583=~z~Easy, easy, easy... I your brother, man, easy. Calm down, man, calm down.
 0x3545F583=~z~放松，放松，放松...你兄弟我在，老兄，放松。冷静，老兄，冷静。
@@ -186,13 +186,13 @@
 0x35F44F1D=FIN1E_IF_QQQ1
 
 ;0x35F80470=~z~Okay, maybe it is weird, but maybe it isn't.
-0x35F80470=~z~好吧，可能是奇怪，但也可以不怪。
+0x35F80470=~z~好吧，可能是有点怪，但也没那么怪。
 
 ;0x36087E2F=FIN1E_IN
 0x36087E2F=FIN1E_IN
 
 ;0x38C8E542=~z~Someone without his good naturedness and optimism would have been broken by what has happened to him.
-0x38C8E542=~z~换一个没他那么积极乐观的人的话，早就该被这些遭遇弄到崩溃了。
+0x38C8E542=~z~换一个没他那么积极乐观的人，早被这些遭遇搞崩溃了。
 
 ;0x396C28EC=~z~Oh man, man...
 0x396C28EC=~z~噢，天哪，天哪...
@@ -204,7 +204,7 @@
 0x3CCC05EE=FIN1E_II
 
 ;0x3D75EB10=~z~Good people like you. That has to count for something.
-0x3D75EB10=~z~像你这样的好人。这肯定是有意义的。
+0x3D75EB10=~z~比如你这样的好人。这肯定是有意义的。
 
 ;0x3E264C87=400
 0x3E264C87=400
@@ -219,7 +219,7 @@
 0x42BAE163=FIN1E_OC
 
 ;0x42BB613C=~z~How do I know that you're right for me? How do I know that I won't get hurt?
-0x42BB613C=~z~我怎么知道你是不是我的那个他？我怎么知道自己不会受伤？
+0x42BB613C=~z~我怎么知道你是不是那个他？我怎么知道自己不会受伤？
 
 ;0x42DF90AE=~z~Okay.
 0x42DF90AE=~z~好吧。
@@ -237,7 +237,7 @@
 0x47EAE8E2=FIN1E_ACT_SPEC_BORED_CA
 
 ;0x48F60464=~z~The rational half of me says get away from him - protect yourself.
-0x48F60464=~z~我理性的一面告诉我要远离他，为了保护自己。
+0x48F60464=~z~理性的一面告诉我要远离他，保护好自己。
 
 ;0x4B016F48=FIN1E_OE
 0x4B016F48=FIN1E_OE
@@ -303,7 +303,7 @@
 0x5C8DBC0E=FIN1E_IT
 
 ;0x5DBC173D=~z~Do you think that the men you've been dealing with will let you walk off into the sunset?
-0x5DBC173D=~z~你真觉得之前跟你一起的人会让你拍拍屁股走人然后安度晚年吗？
+0x5DBC173D=~z~你真觉得之前的雇主会让你拍拍屁股走人安度晚年吗？
 
 ;0x622FCF4E=~z~-Niko, Niko, get up man, get up man, get up.~n~-Ohh... oh, man!
 0x622FCF4E=~z~－Niko，Niko，快起来兄弟，兄弟快起来，起来啊。~n~－哦...哦，老哥！
@@ -312,7 +312,7 @@
 0x6454EE32=~z~－啊，各位，我做到了！~n~－太好了，太好了...
 
 ;0x65B63F20=~z~I am lucky that he is still happy to be part of my family.
-0x65B63F20=~z~我已经很走运了，因为他还为自己是我的家人而高兴。
+0x65B63F20=~z~我已经很走运了，他还为自己是我的家人而高兴。
 
 ;0x66383257=FIN1E_HA
 0x66383257=FIN1E_HA
@@ -327,7 +327,7 @@
 0x694FAFD1=400
 
 ;0x69906BA0=~z~I feel like it's time to move on, start living my life right.
-0x69906BA0=~z~我觉得也差不多该向前进了，开始好好过我的日子。
+0x69906BA0=~z~也差不多该向前进了，开始好好过日子。
 
 ;0x6A35AD40=FIN1E_FD
 0x6A35AD40=FIN1E_FD
@@ -339,7 +339,7 @@
 0x6CF71389=FIN1E_LA
 
 ;0x6E13CE9F=~z~Well, which half are you going to listen to?
-0x6E13CE9F=~z~好吧，那你打算听从哪一面呢？
+0x6E13CE9F=~z~那你打算听从哪一面呢？
 
 ;0x6E157C20=~z~He told me to leave it.
 0x6E157C20=~z~他跟我说要放下过去。
@@ -372,7 +372,7 @@
 0x76C2C9AC=FIN1E_OK
 
 ;0x77134707=~z~Oh, I didn't realize it was going to be such a casual service. Shall we go to the church?
-0x77134707=~z~我倒是没想到你会穿得这么随意。我们是不是该去教堂了？
+0x77134707=~z~哦，没想到你会穿得这么随意。我们是不是该去教堂了？
 
 ;0x77C8B37F=FIN1E_IR
 0x77C8B37F=FIN1E_IR
@@ -384,7 +384,7 @@
 0x781E4235=~z~战争结束后，我被迫过着一种不适合我的生活。
 
 ;0x785DCC80=~z~It would be easier to be happy if I was with the right person though.
-0x785DCC80=~z~不过要是我跟对的人在一起的话，我应该会更容易得到幸福。
+0x785DCC80=~z~不过要是跟对的人在一起的话，我应该更容易得到幸福。
 
 ;0x785DF5A2=FIN1E_IY
 0x785DF5A2=FIN1E_IY
@@ -444,7 +444,7 @@
 0x92984525=~z~操他妈的。
 
 ;0x931599BA=~z~Because... no matter how stupid I think this is, I'm willing to take a chance on you.
-0x931599BA=~z~因为...无论我觉得这样做有多蠢，我都愿意给你一次机会。
+0x931599BA=~z~虽然我觉得这样做很蠢，但我愿意试一试。
 
 ;0x931FB55C=FIN1E_OX
 0x931FB55C=FIN1E_OX
@@ -456,13 +456,13 @@
 0x96C4A303=FIN1E_IAH
 
 ;0x986302BA=~z~I have tried to separate myself from it. I am ready to try to be good.
-0x986302BA=~z~我已经试着将自己与过去划清界限了。我已经准备好做个好人了。
+0x986302BA=~z~我已经和过去划清界限了。我准备好做个好人了。
 
 ;0x9BD1AA1A=~z~But the other half says he's good, he can be redeemed.
-0x9BD1AA1A=~z~而另一面说他是好人，他还可以得到救赎。
+0x9BD1AA1A=~z~感性的一面说他是好人，还有救赎的机会。
 
 ;0x9C035081=~z~So... this is weird.
-0x9C035081=~z~所以...这真是奇怪。
+0x9C035081=~z~所以...有点奇怪。
 
 ;0x9D53CEEC=FIN1E_IL
 0x9D53CEEC=FIN1E_IL
@@ -480,7 +480,7 @@
 0x9FEF42B4=FIN1E_OT
 
 ;0xA089D992=~z~Because I'm going to the wedding of a couple I've never met with a man I barely know.
-0xA089D992=~z~因为我要和一个我不太熟悉的男人一起去参加一对我没见过的人的婚礼。
+0xA089D992=~z~我要和一个不太熟悉的男人一起，去参加陌生人的婚礼。
 
 ;0xA12D8503=400
 0xA12D8503=400
@@ -489,7 +489,7 @@
 0xA1A793E3=~z~也许吧，对的那个人能让你的生活有多美好，错的那个人就能让你的生活有多糟糕。
 
 ;0xA3CC9995=~z~Well maybe they are. I don't want to be involved with the men I have been involved with.
-0xA3CC9995=~z~也许的确是很久以前的事。我不想再和之前那些人扯上关系。
+0xA3CC9995=~z~的确是很久以前吧。我不想再和之前那些人扯上关系。
 
 ;0xA45B68AB=~z~Yo, yo, yo... Niko, Niko, Niko. Calm down man, calm down man. Easy, easy.
 0xA45B68AB=~z~哟，哟，哟... Niko，Niko，Niko。冷静兄弟，冷静兄弟。放松，放松。
@@ -564,7 +564,7 @@
 0xBC61B230=~z~谢谢你能来接我，你看起来很帅。我们去教堂吧？
 
 ;0xBCBC699B=~z~Maybe you're right, Roman has been hurt.
-0xBCBC699B=~z~也许是这样，Roman已经因此受伤过了。
+0xBCBC699B=~z~也许是这样，Roman因此受过伤。
 
 ;0xBE90FD67=FIN1E_IU
 0xBE90FD67=FIN1E_IU
@@ -588,10 +588,10 @@
 0xC2B383FE=200
 
 ;0xC2E07703=~z~And then there's no way out.
-0xC2E07703=~z~然后就无路可逃了。
+0xC2E07703=~z~从此无路可逃。
 
 ;0xC36D7A69=~z~Willing to take a chance on the possibility that you can walk away from the craziness.
-0xC36D7A69=~z~愿意给你离开这种疯狂生活的可能性一次机会。
+0xC36D7A69=~z~愿意搏一搏你离开这种疯狂生活的可能性。
 
 ;0xC38A5908=~z~My past does not haunt me in the way that it used to.
 0xC38A5908=~z~我的过去不再像以前那样纠缠我了。
@@ -615,7 +615,7 @@
 0xC7AEC573=~z~你妈逼的叛徒移民混蛋！
 
 ;0xCA8108B4=~z~He might be your only family, but he's not the only one who cares about you, Niko.
-0xCA8108B4=~z~或许他确实是你唯一的家人，但他不是唯一一个关心你的人，Niko。
+0xCA8108B4=~z~或许他确实是你唯一的家人，但不是唯一关心你的人，Niko。
 
 ;0xCB2A0845=FIN1E_IAF
 0xCB2A0845=FIN1E_IAF
@@ -633,13 +633,13 @@
 0xCE1D16E7=FIN1E_OO
 
 ;0xCE2C0C7E=~z~Has your cousin been caught up in your mad life?
-0xCE2C0C7E=~z~你的堂兄有因你的疯狂生活受到过牵连吗？
+0xCE2C0C7E=~z~你的堂兄被你的疯狂生活牵连了吗？
 
 ;0xCEE06FBC=~z~I want to surround myself with good people, not bad ones.
-0xCEE06FBC=~z~我想和好人们处在一起，不想和坏人一起。
+0xCEE06FBC=~z~我想和好人处在一起，不想和坏人一起。
 
 ;0xCFC710D4=~z~I thought that when you do the work that you do, that people get their hooks into you.
-0xCFC710D4=~z~我觉得一旦你干了这一行，那些人就已经把你牢牢栓住了。
+0xCFC710D4=~z~我觉得一旦干了这行，就会被那些人牢牢栓住。
 
 ;0xD047F173=~z~When I think about him I just wish that he'd been happy in his life.
 0xD047F173=~z~想到他的时候，我只能希望他这辈子有快乐过。
@@ -651,7 +651,7 @@
 0xD2CACB24=~z~么！
 
 ;0xD3889747=~z~and forced to watch his friends die.
-0xD3889747=~z~还被迫看着朋友们死去。
+0xD3889747=~z~被迫看着朋友们死去。
 
 ;0xD49776EF=FIN1E_OAG
 0xD49776EF=FIN1E_OAG
@@ -678,7 +678,7 @@
 0xDC32585C=~z~耶诶！ 耶！ 恭喜你，堂兄！ 么！ 好啦！ 好了 谢谢 感谢各位的到来 好！ 好的！
 
 ;0xDC8B09A9=~z~The problem is that it's difficult to tell which one the man you are with is.
-0xDC8B09A9=~z~然而问题就是你很难区分和你一起的人是前者还是后者。
+0xDC8B09A9=~z~但难就难在区分不了身边的人是哪一种。
 
 ;0xDF6A10C7=~z~Are you?
 0xDF6A10C7=~z~有吗？
@@ -693,7 +693,7 @@
 0xE2A7A116=~z~别的我也没什么好说了。
 
 ;0xE2C7A0DA=~z~Niko, what are you doing? I told you to dress up. We will wait. Go and change, quickly.
-0xE2C7A0DA=~z~Niko，你搞什么啊？我都跟你说了要穿好点。我们等你，赶紧去换套衣服，快点。
+0xE2C7A0DA=~z~Niko，你搞什么啊？跟你说了要穿好点吧。我们等你，赶紧去换套衣服，快点。
 
 ;0xE3744AC5=FIN1E_IT_QQQ1
 0xE3744AC5=FIN1E_IT_QQQ1
@@ -738,7 +738,7 @@
 0xF159CCCD=FIN1E_IG_QQQ1
 
 ;0xF31F9BF3=~z~You know, it's not that weird to think that there might be some shooting at this wedding,
-0xF31F9BF3=~z~你也知道，会觉得这场婚礼可能会有枪响是正常的，
+0xF31F9BF3=~z~说真的，会认为这场婚礼可能不太平静也很正常。
 
 ;0xF3248263=~z~I can't believe you'd wear that to a church.
 0xF3248263=~z~难以置信，你居然穿这身去教堂。
@@ -753,7 +753,7 @@
 0xF3D67DF3=FIN1E_IAK
 
 ;0xF444D9CF=~z~I was good once, I was a normal kid who got sucked into a war he didn't believe in
-0xF444D9CF=~z~我也曾是个好人，我还是个被迫卷入一场自己不相信的战争的普通孩子，
+0xF444D9CF=~z~我也曾是个好人，是一个被自己不认同的战争吞噬的普通孩子，
 
 ;0xF47406F3=FIN1E_EA
 0xF47406F3=FIN1E_EA
@@ -765,16 +765,16 @@
 0xF5CCBBBD=FIN1E_OAJ
 
 ;0xF6115C58=~z~If I can get pulled into this world I can pull myself out.
-0xF6115C58=~z~如果我能进入黑道，那我也能自己出来。
+0xF6115C58=~z~我既然能进入黑道，那也能自己出来。
 
 ;0xF8A046DC=400
 0xF8A046DC=400
 
 ;0xFA5110B4=~z~I'm not sure about those clothes.
-0xFA5110B4=~z~衣服的事情我拿不定主意。
+0xFA5110B4=~z~穿这身不太合适吧。
 
 ;0xFAC3E6CD=~z~Good luck, Niko. I really hope you can walk away.
-0xFAC3E6CD=~z~祝你好运，Niko。我真的很希望你能就这样脱身。
+0xFAC3E6CD=~z~祝你好运，Niko。我真的希望你能就此脱身。
 
 ;0xFBB3C84A=~z~It's hard to say, but maybe the right person.
 0xFBB3C84A=~z~很难说，但可能是对的那个人。

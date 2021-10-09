@@ -36,13 +36,13 @@
 0xF19AD869=镜头模式
 
 ;0x04787E24=CLIP CAPTURE (HOLD)
-0x04787E24=剪辑捕捉(按住)
+0x04787E24=片段捕捉(按住)
 
 ;0xC64001B4=CAMERA MODES
 0xC64001B4=镜头模式
 
 ;0xCD778FBF=CLIP CAPTURE (HOLD)
-0xCD778FBF=剪辑捕捉(按住)
+0xCD778FBF=片段捕捉(按住)
 
 ;0xDBB82C40=CAMERA MODES
 0xDBB82C40=镜头模式
@@ -219,13 +219,13 @@
 0xEB9597BA=镜头模式
 
 ;0xB31DA6C7=CLIP CAPTURE (HOLD)
-0xB31DA6C7=剪辑捕捉(按住)
+0xB31DA6C7=片段捕捉(按住)
 
 ;0xA0E7025A=CAMERA MODES
 0xA0E7025A=镜头模式
 
 ;0xDBEB7862=CLIP CAPTURE (HOLD)
-0xDBEB7862=剪辑捕捉(按住)
+0xDBEB7862=片段捕捉(按住)
 
 ;0xC280458C=CAMERA MODES
 0xC280458C=镜头模式
@@ -369,13 +369,13 @@
 0x7FD0BF85=镜头模式
 
 ;0x6DCA1B78=CLIP CAPTURE (HOLD)
-0x6DCA1B78=剪辑捕捉(按住)
+0x6DCA1B78=片段捕捉(按住)
 
 ;0xA44F0881=CAMERA MODES
 0xA44F0881=镜头模式
 
 ;0x9210E405=CLIP CAPTURE (HOLD)
-0x9210E405=剪辑捕捉(按住)
+0x9210E405=片段捕捉(按住)
 
 ;0xC928D234=CAMERA MODES
 0xC928D234=镜头模式
@@ -495,10 +495,10 @@
 0xF64CB5CF=格挡
 
 ;0xB1CF0939=CLIP CAPTURE (HOLD)
-0xB1CF0939=剪辑捕捉(按住)
+0xB1CF0939=片段捕捉(按住)
 
 ;0x0CFAE95B=Perseus
-0x0CFAE95B=Perseus正装
+0x0CFAE95B=神之子服饰
 
 ;0xDE695566=Russian Shop
 0xDE695566=俄罗斯商店
@@ -957,7 +957,7 @@
 0xCA0D5F0E=您确定要改变您的设置吗？
 
 ;0xFB90C867=Warning: A critical control is unmapped. Do you wish to exit control mapping?~n~Changes made since your last save will be lost.
-0xFB90C867=警告：一个关键按键未被分配。您仍要退出自定义按键设置吗？~n~一旦确认，之前的设置将全部丢失。
+0xFB90C867=警告：存在未被分配的关键按键。您仍要退出自定义按键设置吗？~n~一旦确认，之前的设置将全部丢失。
 
 ;0xE333B183=Mouse Aim
 0xE333B183=鼠标瞄准
@@ -981,25 +981,25 @@
 0x2F08955F=选择脸
 
 ;0x3C00A922=Are you sure you want to exit the Video Editor and return to single player?
-0x3C00A922=您确定要退出音频编辑器并返回单人游戏吗？
+0x3C00A922=您确定要退出视频编辑器并返回单人游戏吗？
 
 ;0x21C17C0B=Are you sure you want to remove this Clip from your Favorites folder?
-0x21C17C0B=您确定要将此剪辑从您的收藏夹中移除？
+0x21C17C0B=您确定要将此片段从您的收藏夹中移除吗？
 
 ;0xC6E737BE=Are you sure you want to delete this Video?
 0xC6E737BE=您确定要删除这个视频吗？
 
 ;0x08422B89=Are you sure you want to delete this Clip?
-0x08422B89=您确定要删除这个剪辑吗？
+0x08422B89=您确定要删除这个片段吗？
 
 ;0xD4DBD214=Are you sure you want to exit without saving this Video?
 0xD4DBD214=您确定不保存本视频就退出吗？
 
 ;0x5C8C8BDE=Are you sure you want to exit without saving this Clip?
-0x5C8C8BDE=您确定不保存本剪辑就退出吗？
+0x5C8C8BDE=您确定不保存本片段就退出吗？
 
 ;0xAB11840F=This clip is currently used in your Videos and cannot be deleted.
-0xAB11840F=本剪辑在您的视频中正在被使用，因此无法被删除。
+0xAB11840F=该片段正在被您的视频使用，因此无法被删除。
 
 ;0x49DDCCE0=Options
 0x49DDCCE0=选项
@@ -1017,28 +1017,28 @@
 0x460354A1=可视距离
 
 ;0x52EBCF3F=Clips
-0x52EBCF3F=剪辑
+0x52EBCF3F=片段
 
 ;0x54DD4C0F=Clips
-0x54DD4C0F=剪辑
+0x54DD4C0F=片段
 
 ;0xFDE4902E=Social Club
 0xFDE4902E=Social Club
 
 ;0xC0B8EEF1=Create Clips
-0xC0B8EEF1=创造剪辑
+0xC0B8EEF1=创建片段
 
 ;0x299CD551=Edit Clips
-0x299CD551=编辑剪辑
+0x299CD551=编辑片段
 
 ;0xFF627618=Create Video
-0xFF627618=创造视频
+0xFF627618=创建视频
 
 ;0x97B7EB91=Edit Video
 0x97B7EB91=编辑视频
 
 ;0x9101FB47=EDIT
-0x9101FB47=剪辑
+0x9101FB47=编辑
 
 ;0xC5C137DD=Marker Controls
 0xC5C137DD=标记控制
@@ -1185,25 +1185,25 @@
 0x15BDB54C=视频名称可在 Storyboard 上方输入。
 
 ;0xFF579EB9=Clip Capture
-0xFF579EB9=剪辑捕捉
+0xFF579EB9=片段捕捉
 
 ;0x585CD36B=You do not have enough system resources to export at this resolution.
 0x585CD36B=您的系统资源不足，无法以此分辨率导出。
 
 ;0x887C990A=You do not have enough system resources to view Clips.
-0x887C990A=您的系统资源不足，无法查看剪辑。
+0x887C990A=您的系统资源不足，无法查看片段。
 
 ;0x86FA44AD=You do not have enough system resources to edit Videos.
 0x86FA44AD=您的系统资源不足，无法编辑视频。
 
 ;0xF9519F91=You do not have enough system resources to enable Clip Capture in Single Player.
-0xF9519F91=您的系统资源不足，无法在单人模式中启用剪辑捕捉功能。
+0xF9519F91=您的系统资源不足，无法在单人模式中启用片段捕捉功能。
 
 ;0x1D2B72DC=You do not have enough system resources to enable Clip Capture in Multiplayer Mode.
-0x1D2B72DC=您的系统资源不足，无法在多人模式中启用剪辑捕捉功能。
+0x1D2B72DC=您的系统资源不足，无法在多人模式中启用片段捕捉功能。
 
 ;0x13435F0C=Please contact customer support for additional information regarding Clip Capture.
-0x13435F0C=请联系售后服务，以获取关于剪辑捕捉功能的详细信息。
+0x13435F0C=请联系售后服务，以获取关于片段捕捉功能的详细信息。
 
 ;0x3CDBD7F8=Detail Distance
 0x3CDBD7F8=细节距离
@@ -1626,13 +1626,13 @@
 0xBD3973BC=Custom Head
 
 ;0xABB237A6=Clips
-0xABB237A6=剪辑
+0xABB237A6=片段
 
 ;0xB2993162=View Clips
-0xB2993162=查看剪辑
+0xB2993162=查看片段
 
 ;0xC7ECC728=Clips
-0xC7ECC728=剪辑
+0xC7ECC728=片段
 
 ;0xCFAB8480=Editor
 0xCFAB8480=编辑器
@@ -2031,16 +2031,16 @@
 0x641AD117=Auto-Settings
 
 ;0xEF6447FE=Toggle Time ~INPUT_FE_REPLAY_TOGGLETIME~
-0xEF6447FE=Toggle Time ~INPUT_FE_REPLAY_TOGGLETIME~
+0xEF6447FE=切换时间 ~INPUT_FE_REPLAY_TOGGLETIME~
 
 ;0x38115F43=Toggle Time
-0x38115F43=Toggle Time
+0x38115F43=切换时间
 
 ;0x84144E71=Display Video Time
-0x84144E71=Display Video Time
+0x84144E71=显示视频时间
 
 ;0xB434EEB1=Display Clip Time
-0xB434EEB1=Display Clip Time
+0xB434EEB1=显示片段时间
 
 ;0x91699150=Reset
 0x91699150=重置
@@ -2070,7 +2070,7 @@
 0xC57F659C=您确定要退出游戏吗？~n~所有未保存的进度都会丢失。
 
 ;0x680B59DB=The Custom Camera is out of range. Reverting to game camera.
-0x680B59DB=The Custom Camera is out of range. Reverting to game camera.
+0x680B59DB=自定义相机超出范围，正在恢复至游戏原相机。
 
 ;0x4D84993F=Save Game
 0x4D84993F=存储游戏
@@ -2091,28 +2091,28 @@
 0xE0E03510=~s~存储内容中。请不要关闭您的主机。
 
 ;0xDAE51C17=~s~Saving Clip. Please don't turn off your system.
-0xDAE51C17=~s~存储剪辑中。~n~请不要关闭您的系统。
+0xDAE51C17=~s~存储片段中。~n~请不要关闭您的系统。
 
 ;0x1C2C438A=~s~Clip Capture is currently disabled. Please enable Clip Capture in the Game Menu.
-0x1C2C438A=~s~剪辑捕捉功能已被关闭。请在游戏菜单中开启剪辑捕捉。
+0x1C2C438A=~s~片段捕捉功能已被关闭。请在游戏菜单中开启片段捕捉。
 
 ;0x5B486BAA=~s~Clip Capture is currently disabled. Please contact customer support for additional information regarding Clip Capture.
-0x5B486BAA=~s~剪辑捕捉功能已被关闭。请联系客户支持获取更多关于剪辑捕捉的信息。
+0x5B486BAA=~s~片段捕捉功能已被关闭。请联系客户支持获取更多关于片段捕捉的信息。
 
 ;0x90690D96=~s~Saving
 0x90690D96=~s~存储中
 
 ;0x2FF2E069=~s~Clip Capture is currently disabled.
-0x2FF2E069=~s~剪辑捕捉功能已关闭。
+0x2FF2E069=~s~片段捕捉功能已关闭。
 
 ;0xFAE7F654=~s~Please enable Clip Capture in the Game Menu.
-0xFAE7F654=~s~请在游戏菜单中开启剪辑捕捉。
+0xFAE7F654=~s~请在游戏菜单中开启片段捕捉。
 
 ;0x1430D421=~s~Hold ~INPUT_REPLAY_SAVE_TO_HDD~ now if you would like to save this clip.
-0x1430D421=~s~长按~INPUT_REPLAY_SAVE_TO_HDD~可保存当前剪辑。
+0x1430D421=~s~长按~INPUT_REPLAY_SAVE_TO_HDD~可保存当前片段。
 
 ;0x737F6197=~s~Press ~INPUT_REPLAY_SAVE_TO_HDD~ now if you would like to save this clip.
-0x737F6197=~s~按下~INPUT_REPLAY_SAVE_TO_HDD~可保存当前剪辑。
+0x737F6197=~s~按下~INPUT_REPLAY_SAVE_TO_HDD~可保存当前片段。
 
 ;0x0918F0FC=You are not signed in. Do you want to sign in now?
 0x0918F0FC=您目前尚未登录。您想现在登录吗？
@@ -2239,13 +2239,13 @@
 0x05F72F3A=栏位 ~1~ 已存在存档数据。您是否要在下次自动存档时覆盖该栏位的数据？
 
 ;0x87B46457=Slot ~1~ already contains "~a~" saved on ~a~. Do you want to overwrite the data in this slot with the next autosave?
-0x87B46457=栏位 ~1~ 已存在 「~a~」 (保存于 ~a~) 。您是否要在下次自动存档时覆盖该栏位的数据？
+0x87B46457=栏位 ~1~ 已存在 「~a~」 (保存于 ~a~)。您是否要在下次自动存档时覆盖该栏位的数据？
 
 ;0xDF5BC432=Slot ~1~ already contains "~a~" saved on ~a~. Do you want to overwrite the data in this slot with your current game progress?
-0xDF5BC432=栏位 ~1~ 已存在 「~a~」 (保存于 ~a~) 。您是否要用当前游戏进度覆盖该栏位的数据？
+0xDF5BC432=栏位 ~1~ 已存在 「~a~」 (保存于 ~a~)。您是否要用当前游戏进度覆盖该栏位的数据？
 
 ;0x8149B089=The autosave slot already contains "~a~" saved on ~a~. Do you want to overwrite the data in this slot with your current game progress?
-0x8149B089=自动存档栏位已存在 「~a~」 (保存于 ~a~) 。您是否要用当前游戏进度覆盖该栏位的数据？
+0x8149B089=自动存档栏位已存在 「~a~」 (保存于 ~a~)。您是否要用当前游戏进度覆盖该栏位的数据？
 
 ;0xAE8C2789=Are you sure you want to use slot ~1~ for autosaves?
 0xAE8C2789=您确定要将栏位 ~1~ 用于自动存档吗？
@@ -3109,10 +3109,10 @@
 0x5FF8FA79=P
 
 ;0x885FCB46=LEFT BRACKET
-0x885FCB46=LEFT BRACKET
+0x885FCB46=左方括号
 
 ;0x3AACAFE1=RIGHT BRACKET
-0x3AACAFE1=RIGHT BRACKET
+0x3AACAFE1=右方括号
 
 ;0x7CEA345B=ENTER
 0x7CEA345B=回车
@@ -5122,7 +5122,7 @@
 0xE93E6A7C=自由城内还有 ~1~ 只鸽子。
 
 ;0x90B0E5F8=Just one flying rat left in Liberty City
-0x90B0E5F8=自由城内只剩一只鸽子了。
+0x90B0E5F8=自由城内还剩最后一只鸽子。
 
 ;0x7F586D9D=Come back when you've got the cash.
 0x7F586D9D=等你有钱了再来。
@@ -6094,10 +6094,10 @@
 0x603BAD35=快艇时长
 
 ;0x734B448F=Heli ride destinations
-0x734B448F=搭直升机目的地
+0x734B448F=直升机兜风目的地
 
 ;0xA840BD3E=Heli ride time
-0xA840BD3E=搭直升机时长
+0xA840BD3E=直升机兜风时长
 
 ;0x811BE030=Activities with Roman
 0x811BE030=与Roman出门次数
@@ -6490,7 +6490,7 @@
 0x2FB766AE=喷漆店
 
 ;0x22014B42=Assassin
-0x22014B42=暗杀者
+0x22014B42=刺客
 
 ;0xAFDDE6F9=Deal
 0xAFDDE6F9=交易
@@ -6622,7 +6622,7 @@
 0xD3821B4D=预览视频
 
 ;0xDEB96B65=PREVIEW CLIP
-0xDEB96B65=预览剪辑
+0xDEB96B65=预览片段
 
 ;0xF49A9733=PREVIEW VIDEO
 0xF49A9733=预览视频
@@ -6715,28 +6715,28 @@
 0x66A478CA=~PAD_LSTICK_UPDOWN~
 
 ;0x4264AF9F=Cheat activated ~n~Achievements "Cleaned The Mean Streets", "Finish Him", "One Man Army" and "Walk Free" blocked.
-0x4264AF9F=秘籍已启用~n~成就"Cleaned The Mean Streets"、"Finish Him"、"One Man Army"与"Walk Free"无法获得。
+0x4264AF9F=秘籍已启用~n~成就 "Cleaned The Mean Streets" "Finish Him" "One Man Army" "Walk Free" 无法获得。
 
 ;0xB01A8B0D=Cheat activated ~n~Achievements "One Man Army" and "Walk Free" blocked.
-0xB01A8B0D=秘籍已启用~n~成就"One Man Army"与"Walk Free"无法获得。
+0xB01A8B0D=秘籍已启用~n~成就 "One Man Army" "Walk Free" 无法获得。
 
 ;0xDDF0E6B9=Cheat activated ~n~Achievement "Cleaned The Mean Streets" blocked.
-0xDDF0E6B9=秘籍已启用~n~成就"Cleaned The Mean Streets"无法获得。
+0xDDF0E6B9=秘籍已启用~n~成就 "Cleaned The Mean Streets" 无法获得。
 
 ;0x30160B02=Cheat activated ~n~Achievements "Finish Him", "One Man Army" and "Walk Free" blocked.
-0x30160B02=秘籍已启用~n~成就"Finish Him"、"One Man Army"与"Walk Free"无法获得。
+0x30160B02=秘籍已启用~n~成就 "Finish Him" "One Man Army" "Walk Free" 无法获得。
 
 ;0xCB7F41D6=Cheat activated ~n~Achievement "Finish Him" blocked.
-0xCB7F41D6=秘籍已启用~n~成就"Finish Him"无法获得。
+0xCB7F41D6=秘籍已启用~n~成就 "Finish Him" 无法获得。
 
 ;0x894DBD70=Cheat activated ~n~Achievement "One Man Army" blocked.
-0x894DBD70=秘籍已启用~n~成就"One Man Army"无法获得。
+0x894DBD70=秘籍已启用~n~成就 "One Man Army" 无法获得。
 
 ;0xE8787C6C=Cheat activated ~n~Achievement "Walk Free" blocked.
-0xE8787C6C=秘籍已启用~n~成就"Walk Free"无法获得。
+0xE8787C6C=秘籍已启用~n~成就 "Walk Free" 无法获得。
 
 ;0x60C18931=Cheat activated ~n~This money does not count towards achievement "Half Million".
-0x60C18931=秘籍已启用~n~这些钱不会计入成就"Half Million"的进度。
+0x60C18931=秘籍已启用~n~这些钱不会计入成就 "Half Million" 的进度。
 
 ;0x38A92C69=~s~Saving content. Please don't turn off your system.
 0x38A92C69=~s~存储内容中。~n~请不要关闭您的系统。
@@ -6853,7 +6853,7 @@
 0x4E1B5834=© 2007-2020 Rockstar Games, Inc. Rockstar Games, Rockstar North, Rockstar Games ¬ 标志, Rockstar North ¬ 标志, Grand Theft Auto, 以及 Grand Theft Auto 标志是 Take-Two Interactive Software, Inc. 的商标和/或注册商标。所有其他的标志和商标均为其各自所有者的产权。保留一切权利。本电子游戏的内容纯属虚构，无意展现和描述任何真实事件、人物或实体，如有雷同，纯属巧合。本电子游戏的制造商和发行商并不以任何方式支持、容忍或鼓励任何人采取本电子游戏中描述的任何行为。严禁以下行为：未经授权的复制、逆向工程、传输、公开演示、租赁、付费游戏，或规避版权保护的行为。
 
 ;0x4AA60BF6=© 2006-2020 Rockstar Games, Inc. Rockstar Games, Rockstar North, the Rockstar Games ¬ logo, the Rockstar North ¬ logo, the Rockstar Toronto ¬ logo, Grand Theft Auto, and the Grand Theft Auto logo are trademarks and/or registered trademarks of Take-Two Interactive Software, Inc. in the U.S.A. and/or other foreign countries. Windows and the Windows Vista Start button logo are trademarks of the Microsoft group of companies, and 'Games for Windows' and the Windows Vista Start button logo are used under license from Microsoft. All other marks and trademarks are properties of their respective owners. All rights reserved.~n~~n~In North America, the ratings icon is a trademark of the Entertainment Software Association.
-0x4AA60BF6=© 2006-2020 Rockstar Games, Inc. Rockstar Games、Rockstar North、Rockstar Games ¬ 标志、Rockstar North ¬ 标志、Rockstar Toronto ¬ 标志、Grand Theft Auto，以及 Grand Theft Auto 标志是 Take-Two Interactive Software, Inc. 在美国和/或海外的商标和/或注册商标。Windows 与 Windows Vista 开始按钮标志是 Microsoft集团公司 的商标，Games for Windows 与 Windows Vista 开始按钮标志依授权使用。所有其他的标志和商标均为其各自所有者的产权。保留一切权利。~n~~n~在北美，分级图标是 娱乐软件协会 的商标。
+0x4AA60BF6=© 2006-2020 Rockstar Games, Inc. Rockstar Games、 Rockstar North、 Rockstar Games ¬ 标志、 Rockstar North ¬ 标志、 Rockstar Toronto ¬ 标志、 Grand Theft Auto，以及 Grand Theft Auto 标志是 Take-Two Interactive Software, Inc. 在美国和/或海外的商标和/或注册商标。 Windows 与 Windows Vista 开始按钮标志是 Microsoft集团公司 的商标， Games for Windows 与 Windows Vista 开始按钮标志依授权使用。所有其他的标志和商标均为其各自所有者的产权。保留一切权利。~n~~n~在北美，分级图标是 娱乐软件协会 的商标。
 
 ;0x60DA4833=Use of this software is subject to license available in the game manual and online at rockstargames.com/eula. An internet connection, assorted software installations, and certain service registrations are required for activation and use of this software. Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is strictly prohibited. The content of this videogame is purely fictional, is not intended to represent or depict any actual event, person, or entity, and any such similarities are purely coincidental. The makers and publishers of this videogame do not in any way endorse, condone or encourage engaging in any conduct depicted in this videogame.~n~Your gameplay information may be displayed on web pages and leaderboards, including those located at http://www.rockstargames.com/socialclub. ~n~Playing the game may make you eligible to claim some prizes. Check out http://www.rockstargames.com/socialclub/events. ~n~For details, official rules, or to opt-out of certain Social Club features visit http://www.rockstargames.com/socialclub/privacy. ~n~Contests void where prohibited. No purchase necessary. Sponsored by Rockstar Games, 622 Broadway, New York, NY, USA.
 0x60DA4833=此软件的使用将受游戏手册以及 www.rockstargames.com/eula 上的许可条款约束。激活与使用此软件将需要保持网络连接、安装数个软件、注册某些服务。严禁以下行为：未经授权的复制、逆向工程、传输、公开演示、出租、付费游戏，或规避版权保护的行为。本电子游戏的内容纯属虚构，无意展现和描述任何真实事件、人物或实体，如有雷同，纯属巧合。本电子游戏的制造商和发行商并不以任何方式支持、容忍或鼓励任何人采取本电子游戏中描述的任何行为。~n~您的游戏信息可能会显示在包括 www.rockstargames.com/socialclub 在内的网页和排行榜上。进行游戏表示您可能有资格获取某些奖品，请参阅 www.rockstargames.com/socialclub/events。~n~如需详细信息、官方规则或 Social Club 特定功能的退出选择权，~n~请参阅 www.rockstargames.com/socialclub/privacy。~n~相关比赛如被禁止，即为无效。无需另行购买。本游戏由 Rockstar Games 赞助，~n~地址：622 Broadway, New York, NY, USA。
@@ -7606,7 +7606,7 @@
 0x0B5DFD94=耳机
 
 ;0x3C25863C=Please wait until the current clip has been captured.
-0x3C25863C=请等待至当前剪辑捕捉完毕。
+0x3C25863C=请等待至当前片段捕捉完毕。
 
 ;0x0876EA47=Total number of chain reactions
 0x0876EA47=连锁反应总数
@@ -7855,10 +7855,10 @@
 0x170B5D04=您的内存不足，无法编辑视频。
 
 ;0x2EC07DE6=Storyboard: Drag clips here to create your Video.
-0x2EC07DE6=Storyboard：将剪辑拖到此处以创建您的视频。
+0x2EC07DE6=Storyboard：将片段拖到此处以创建您的视频。
 
 ;0x51195A4D=Clip Timeline:__Displays Clips relative to the Video length.
-0x51195A4D=剪辑时间轴：__显示剪辑相对于视频的长度。
+0x51195A4D=片段时间轴：__显示片段相对于视频的长度。
 
 ;0x16B76833=Audio Timeline:__Drag a song here to add music to your Video.
 0x16B76833=音频时间轴：__将歌曲拖到此处以为您的视频添加音乐。
@@ -7909,7 +7909,7 @@
 0xEB8947DE=新建
 
 ;0xFDBAAEF0=Clips
-0xFDBAAEF0=剪辑
+0xFDBAAEF0=片段
 
 ;0xD47658E7=Transitions
 0xD47658E7=转场
@@ -7930,13 +7930,13 @@
 0xF3F75146=交叉淡化
 
 ;0x69EEE08F=Clips can be dragged into the Favorites folder and will be marked with a star. Deleting clips from Favorites will not delete them from their original folders.
-0x69EEE08F=剪辑在被拖入收藏夹后会用星星标记。从收藏夹中删除剪辑并不会删除原文件夹中的剪辑。
+0x69EEE08F=片段在被拖入收藏夹后会用星星标记。从收藏夹中删除片段并不会删除原文件夹中的片段。
 
 ;0xC13DE14F=Folders organize clips into categories. Click a folder to expand it.
-0xC13DE14F=文件夹能将剪辑分类。点击一个文件夹以展开它。
+0xC13DE14F=文件夹能将片段分类。点击一个文件夹以展开它。
 
 ;0x3C2C050A=To add a clip to the video, drag it onto the Storyboard. Multiple instances of the same clip can exist in a given video.
-0x3C2C050A=要想视频中添加一个剪辑，将剪辑拖到Storyboard上。同一剪辑可在视频中多次使用。
+0x3C2C050A=要向视频中添加片段，将剪辑拖动至Storyboard。同一片段可在视频中多次使用。
 
 ;0x568239B6=To enter text, double click on the text box. To change the text settings click the Font, Size, Color and Duration values. To add text to the video, drag it onto the Text Timeline.
 0x568239B6=双击文本框以输入文本。点击字体、大小、颜色与持续时间可修改文本样式。将文本拖入文本时间轴可将其插入视频。
@@ -7945,10 +7945,10 @@
 0x7A4D0B11=时间条大小：拖动时间块大小以调整剪辑长度。
 
 ;0xE4B3DFD9=TIMER: Toggles between Clip time and Video Time when clicked.
-0xE4B3DFD9=计时器：点击时会在剪辑时间与视频时间之间切换。
+0xE4B3DFD9=计时器：点击时会在片段时间与视频时间之间切换。
 
 ;0x053920EB=PLACE MARKER: Click to place a marker at the current frame.
-0x053920EB=位置标记：点击以在当前帧放置一个标记。
+0x053920EB=位置标记：点击以在当前帧放置标记。
 
 ;0x16D3C420=PREVIOUS MARKER: Click to select previous marker.
 0x16D3C420=前一标记：点击以选中前一标记。
@@ -7960,19 +7960,19 @@
 0x4E97ABD3=工具：点击以打开工具菜单。
 
 ;0x19544149=SAVE: Click to save clip edits.
-0x19544149=保存：点击以保存对剪辑的编辑。
+0x19544149=保存：点击以保存对片段的编辑。
 
 ;0xCBF3A7AD=Marker Controls are applied to a clip from one marker to the next.
-0xCBF3A7AD=标记控制会应用于同一剪辑的两个标记之间
+0xCBF3A7AD=标记控制会应用于同一片段的两个标记之间
 
 ;0x92B1B526=Apply various filters to the clip by clicking on the presets, or by using the mouse wheel to quick scan.
 0x92B1B526=点选预设可应用多种滤镜，亦可通过鼠标滚轮快速浏览效果。
 
 ;0x66937B80=Filter controls alter the appearance of the clip from the current marker. Applying Filters will affect all subsequent markers if their Filters are set to none.
-0x66937B80=滤镜控制会改变当前标记之后的剪辑外观。若之后的标记未设置滤镜，应用滤镜将会影响之后的所有标记。
+0x66937B80=滤镜控制会改变当前标记之后的片段外观。若之后的标记未设置滤镜，应用滤镜将会影响之后的所有标记。
 
 ;0xB12C0FD8=Camera controls allow various cameras and behaviors to be placed within a clip from the current marker.
-0xB12C0FD8=相机控制允许从(一个剪辑的)当前标记起放置多个相机与运镜轨迹。
+0xB12C0FD8=相机控制允许从(一个片段的)当前标记起放置多个相机与运镜轨迹。
 
 ;0x6E43EC4B=Alter the playback speed by clicking the presets, or by using the mouse wheel to quick scan. The Time Bar will adjust as it recalculates the length of the clip.
 0x6E43EC4B=点选预设可改变播放速度，亦可通过鼠标滚轮快速浏览效果。虽然改变了剪辑时长，但时间条会自动调整。
@@ -7984,7 +7984,7 @@
 0x4FE7E649=音频设置会改变当前标记之后的音效、音乐与对白的音量。全局音频设置可在工具菜单内进行。
 
 ;0x0A37C99E=Speed controls alter the playback rate of the clip from the current marker.
-0x0A37C99E=速度控制会改变当前标记之后的剪辑播放速率。
+0x0A37C99E=速度控制会改变当前标记之后的片段播放速率。
 
 ;0x811E11FF=Allows you select preset or custom cameras. Only Custom cameras can be altered.
 0x811E11FF=允许您选择预设或自定义相机。仅有自定义相机可以调整。
@@ -8053,7 +8053,7 @@
 0x6145FECB=工具：点击打开工具菜单。
 
 ;0xA5BB19F4=Double click to launch the Video Editor where you can combine clips, music, text and transitions to create videos.
-0xA5BB19F4=双击启动视频编辑器，您可以借此组合剪辑、音乐、文本与转场来创建视频。
+0xA5BB19F4=双击启动视频编辑器，您可以借此组合片段、音乐、文本与转场来创建视频。
 
 ;0x9D830980=Songs can be previewed by highlighting a song and pressing the play button. To add a song to the video, drag it onto the Audio Timeline.
 0x9D830980=选中歌曲后按下播放键可试听歌曲。将歌曲拖入音频时间轴可将其插入视频。
@@ -8065,19 +8065,19 @@
 0x17F3FE60=拖动歌曲以改变其在视频中的位置。视频标题下的时间表示歌曲开始播放的时间。
 
 ;0x7F484BD3=The Clip Timeline displays all the clips in a video. To jump to a position on the Storyboard, click on the Clip Timeline.
-0x7F484BD3=剪辑时间轴会显示视频中的所有剪辑。点击剪辑时间轴可跳跃至 Storyboard 的某处。
+0x7F484BD3=片段时间轴会显示视频中的所有片段。点击片段时间轴可跳跃至 Storyboard 的某处。
 
 ;0xAD8D2860=The Time Scale displays the entire video length and breaks it up into workable segments, making it easy to line up clips, songs and text.
 0xAD8D2860=时间刻度显示视频时长，并将视频分割为可编辑的片段，使排列整理剪辑、歌曲与文本更加容易。
 
 ;0x77B43CAB=To add a transition to the video, drag it between clips on the Storyboard. Transitions can only be viewed in exported videos.
-0x77B43CAB=将转场拖入 Storyboard 上的两个剪辑之间可添加转场效果。转场效果仅能在导出的视频中查看。
+0x77B43CAB=将转场拖入 Storyboard 上的两个之间片段可添加转场效果。转场效果仅能在导出的视频中查看。
 
 ;0x61F11125=Click to preview your video. Transitions will not be displayed.
 0x61F11125=点击预览您的视频。预览时不会显示转场效果。
 
 ;0x0769D670=Double-click a clip to open it in the Clip Editor. Clips can be rearranged by copying and pasting or by dragging them into place.
-0x0769D670=双击剪辑可将其在剪辑编辑器中打开。通过复制粘贴与拖动的操作可以重新编排剪辑。
+0x0769D670=双击片段可将其在片段编辑器中打开。通过复制粘贴与拖动的操作可以重新编排片段。
 
 ;0x1580729D=The game resolution is too low to export at this quality.
 0x1580729D=游戏分辨率过低，无法以此质量导出。
@@ -8158,7 +8158,7 @@
 0x89950422=红
 
 ;0x6C544ACD=Salmon
-0x6C544ACD=鲑鱼红
+0x6C544ACD=橙红
 
 ;0x3B108D7B=Dark Brown
 0x3B108D7B=深棕
@@ -8272,7 +8272,7 @@
 0x217DC8F9=GTA IV无法载入。
 
 ;0x7486E572=Warning: A critical control is unmapped. Do you wish to exit control mapping?~n~Changes made since your last save will be lost.
-0x7486E572=警告：一个关键按键未被分配。您仍要退出自定义按键设置吗？~n~一旦确认，之前的设置将全部丢失。
+0x7486E572=警告：存在未被分配的关键按键。您仍要退出自定义按键设置吗？~n~一旦确认，之前的设置将全部丢失。
 
 ;0x302ACCE0=Error - Invalid Driver Version. Please download the latest drivers from the ATI website.
 0x302ACCE0=错误 - 驱动版本不可用。请从 ATI 官网下载最新驱动。
@@ -8287,7 +8287,7 @@
 0x90718B38=无法启动RGSC.exe！运行游戏时必须安装并运行RGSC(Rockstar Games Social Club)。
 
 ;0x675660C4=There is not enough space on the hard drive to capture clips.
-0x675660C4=硬盘空间不足，无法捕捉剪辑。
+0x675660C4=硬盘空间不足，无法捕捉片段。
 
 ;0xD5EBEE6E=There is not enough space on the hard drive to export this Video.
 0xD5EBEE6E=硬盘空间不足，无法导出视频。
@@ -8395,7 +8395,7 @@
 0x26E7F7A4=Bellic兄弟
 
 ;0xB3C59161=It's Your Call
-0xB3C59161=你的电话
+0xB3C59161=紧急呼叫
 
 ;0xC17BACCD=Three's a Crowd
 0xC17BACCD=三人同行
@@ -8479,7 +8479,7 @@
 0xF7EE4726=街头学校
 
 ;0xECBCB203=Street Sweeper
-0xECBCB203=清道夫
+0xECBCB203=街道清扫者
 
 ;0x0893E9B1=The Puerto Rican Connection
 0x0893E9B1=波多黎各贩毒网
@@ -8578,7 +8578,7 @@
 0xD1CFFF62=垃圾分类
 
 ;0xA227A012=Meltdown
-0xA227A012=融毁
+0xA227A012=熔毁
 
 ;0x70123BE8=Museum Piece
 0x70123BE8=博物馆藏品
@@ -8683,7 +8683,7 @@
 0x984A8FE0=Bellic兄弟
 
 ;0xC8EAE94C=It's Your Call
-0xC8EAE94C=你的电话
+0xC8EAE94C=紧急呼叫
 
 ;0xED01326C=Three's a Cr...
 0xED01326C=三人同行
@@ -8767,7 +8767,7 @@
 0x4234808E=街头学校
 
 ;0x6E5E9C50=Street Sweeper
-0x6E5E9C50=清道夫
+0x6E5E9C50=街道清扫者
 
 ;0x64040227=The Puerto R...
 0x64040227=波多黎各贩毒网
@@ -8866,7 +8866,7 @@
 0xC051812F=垃圾分类
 
 ;0x007E8294=Meltdown
-0x007E8294=融毁
+0x007E8294=熔毁
 
 ;0xAF5F013A=Museum Piece
 0xAF5F013A=博物馆藏品
@@ -9301,7 +9301,7 @@
 0x3E8C7A56=~z~~x~吃沙拉？你不好这口，行吧。
 
 ;0x024401C6=~z~~x~Nine pie and chips a day? It's a start, isn't it?
-0x024401C6=~z~~x~每天少吃一顿饭？至少有了点进步。
+0x024401C6=~z~~x~一天只吃九顿饭？至少有了点进步。
 
 ;0x83E9850F=~z~~x~They make excuses, don't they, fat people? They say things like...
 0x83E9850F=~z~~x~胖子都喜欢找借口，不是吗？他们托词...
@@ -9406,7 +9406,7 @@
 0xE64A1114=~z~~x~我想：「查得太细了吧。」
 
 ;0x17607420=~z~~x~So I stripped down to my boxer shorts,
-0x17607420=~z~~x~我就脱得只剩一条平角裤，
+0x17607420=~z~~x~我就脱得只剩一条平角裤。
 
 ;0xB17FA850=~z~~x~"Ah for fuu..."
 0xB17FA850=~z~~x~「啊，草...」
@@ -10075,7 +10075,7 @@
 0xF511E6D2=~z~~x~然后这些混蛋给了我一把椅子，我当时就没想试车。
 
 ;0x32FE6F2E=~z~~x~I wanted to watch television, I was just laying there comfortable.
-0x32FE6F2E=~z~~x~我只想看个电视，我就很舒服的躺在那。
+0x32FE6F2E=~z~~x~我只想看个电视，我就很舒服地躺在那。
 
 ;0x1FB8C8A3=~z~~x~"Test drive it! Test drive it!"
 0x1FB8C8A3=~z~~x~「试驾！快试驾！！」
@@ -10159,7 +10159,7 @@
 0xBF78C429=~z~~x~谢谢，谢谢。
 
 ;0x9AE87AF9=~z~~x~Thanks you ladies and gentlemen. Thank you.
-0x9AE87AF9=~z~~x~感谢各位女士们和先生们。谢谢。
+0x9AE87AF9=~z~~x~感谢各位女士和先生。谢谢。
 
 ;0x6C999E5C=~z~~x~You're far too kind. Thank you.
 0x6C999E5C=~z~~x~你们太客气了。谢谢。
@@ -13273,7 +13273,7 @@
 0xD93DAE08=你的钱不够，无法洗车。
 
 ;0x61CF93D6=Your car is clean.
-0x61CF93D6=你的车干净了。
+0x61CF93D6=车子洗干净了。
 
 ;0x7AF9E5E7=You cannot wash that vehicle here.
 0x7AF9E5E7=这辆车不能在这里洗。
@@ -13462,7 +13462,7 @@
 0x0A4F81F9=~r~你错过了与French Tom的约会。
 
 ;0xA9058A93=~s~You have an appointment reminder. This will be displayed 2 hours before a scheduled appointment, and again 30 minutes before.
-0xA9058A93=~s~你有一个约会备忘。它将在约会前两小时显示，并在约会前半小时再次显示。
+0xA9058A93=~s~你有一个约会备忘。它将在约会的两小时前显示，并在约会的半小时前再次显示。
 
 ;0x0EC85617=~s~The ~BLIP_54~ icon on your radar indicates the location of your date.
 0x0EC85617=~s~小地图上的~BLIP_54~图标表示你的约会地点。
@@ -13969,7 +13969,7 @@
 0x5D830771=搜索失败
 
 ;0x6FF8F151=Connecting to Wireless Device.
-0x6FF8F151=正在连接至无线设备。
+0x6FF8F151=正在连接至无线设备...
 
 ;0xCACA464B=Wireless Device Connected.
 0xCACA464B=无线设备已连接。
@@ -13990,7 +13990,7 @@
 0x43B85909=通缉罪名
 
 ;0x5675FE84=PREVIOUS offense
-0x5675FE84=PREVIOUS offense
+0x5675FE84=犯罪前科
 
 ;0x2014A108=NAME
 0x2014A108=姓名
@@ -14014,7 +14014,7 @@
 0x5A4FDCB0=未发现照片。
 
 ;0x979D2EC0=Nothing.
-0x979D2EC0=Nothing.
+0x979D2EC0=无。
 
 ;0xBD24BDF1=Armed Robbery
 0xBD24BDF1=武装抢劫
@@ -14287,10 +14287,10 @@
 0x231521EC=选择一个地址以将罪犯位置添加到小地图。
 
 ;0x24EB2B86=You have ~1~ seconds to get back in a cop car.
-0x24EB2B86=请在~1~秒内回到一辆警车上。
+0x24EB2B86=在~1~秒内回到警车上。
 
 ;0xF54300E1=You have ~1~ second to get back in a cop car.
-0xF54300E1=请在~1~秒内回到一辆警车上。
+0xF54300E1=在~1~秒内回到警车上。
 
 ;0x96551375=~PAD_X~ Delete
 0x96551375=~PAD_X~ 删除
@@ -14884,22 +14884,22 @@
 0xC9A5121B=墨镜 $~1~ (五折)
 
 ;0x0EE3772E=Perseus onyx suit
-0x0EE3772E=Perseus黑玛瑙西装
+0x0EE3772E=神之子黑玛瑙西装
 
 ;0x9BBE10DD=Perseus obsidian suit
-0x9BBE10DD=Perseus黑曜石西装
+0x9BBE10DD=神之子黑曜石西装
 
 ;0xD8C78AF7=Perseus charcoal suit
-0xD8C78AF7=Perseus炭灰色西装
+0xD8C78AF7=神之子炭灰色西装
 
 ;0x3BF312D7=Perseus mustard sport coat with onyx pants
-0x3BF312D7=Perseus芥黄色运动服+黑玛瑙色长裤
+0x3BF312D7=神之子芥黄色运动服+黑玛瑙色长裤
 
 ;0x4DC3B678=Perseus cream sport coat with carbon pants
-0x4DC3B678=Perseus冰淇淋色运动服+炭灰色长裤
+0x4DC3B678=神之子冰淇淋色运动服+炭灰色长裤
 
 ;0x09702DD2=Perseus slate suit
-0x09702DD2=Perseus石纹裤
+0x09702DD2=神之子石纹裤
 
 ;0xD70EA0B0=Three button jacket in iron & vest with obsidian pants
 0xD70EA0B0=黑灰色三扣夹克+西装背心+黑曜石色长裤
@@ -14914,13 +14914,13 @@
 0x60B7345F=铅灰色三扣夹克+西装背心+烟灰色长裤
 
 ;0x61C18535=Perseus ash suit & silk shirt
-0x61C18535=Perseus烟灰色西装+真丝衬衫
+0x61C18535=神之子烟灰色西装+真丝衬衫
 
 ;0x8B9FD8F1=Perseus charcoal suit & floral shirt
-0x8B9FD8F1=Perseus炭灰色西装+花纹衬衫
+0x8B9FD8F1=神之子炭灰色西装+花纹衬衫
 
 ;0x4633CE1A=Perseus slate suit & red shirt
-0x4633CE1A=Perseus石纹西装+红色衬衫
+0x4633CE1A=神之子石纹西装+红色衬衫
 
 ;0x5DF84514=hospital scrubs outfit
 0x5DF84514=医务人员套装
@@ -15067,7 +15067,7 @@
 0x6DE4D77E=这将会替换你现有的同类武器。~n~~s~按~INPUT_FRONTEND_ACCEPT~确认。~s~按~INPUT_PICKUP~取消。
 
 ;0x0A28EFFD=Lose your wanted level.
-0x0A28EFFD=降低你的通缉度。
+0x0A28EFFD=摆脱通缉。
 
 ;0x9E9D1875=~s~Press ~INPUT_FRONTEND_ACCEPT~ to buy. ~n~~s~Press ~INPUT_PICKUP~ to cancel. ~n~~g~Pistol $600
 0x9E9D1875=~s~按~INPUT_FRONTEND_ACCEPT~购买。~n~~s~按~INPUT_PICKUP~取消。~n~~g~手枪 $600
@@ -15121,7 +15121,7 @@
 0xB2314FD9=~s~按~INPUT_FRONTEND_ACCEPT~购买弹药。~n~~g~8x 泵动式霰弹枪子弹 $100
 
 ;0xC5DB28C2=~s~Press ~INPUT_FRONTEND_ACCEPT~ to buy ammo. ~n~~g~10x Combat Shotgun Rounds $200
-0xC5DB28C2=~s~按~INPUT_FRONTEND_ACCEPT~购买弹药。~n~~g~10x 战斗狙击枪子弹 $200
+0xC5DB28C2=~s~按~INPUT_FRONTEND_ACCEPT~购买弹药。~n~~g~10x 战斗霰弹枪子弹 $200
 
 ;0xFFA9C5D3=~s~Press ~INPUT_FRONTEND_ACCEPT~ to buy ammo. ~n~~g~50x Micro-SMG Rounds $100
 0xFFA9C5D3=~s~按~INPUT_FRONTEND_ACCEPT~购买弹药。~n~~g~50x 微型冲锋枪子弹 $100
@@ -15267,7 +15267,7 @@
 0x4C935964=眼镜~n~按~PAD_UP~查看帽子。~n~按~PAD_DOWN~查看上装。~n~你没有任何眼镜。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。
 
 ;0x461DE53F=Appearance Changed.
-0x461DE53F=着装已改变。
+0x461DE53F=服装已更换。
 
 ;0x617EF093=~s~You can now date Michelle. She'll occasionally call you to arrange dates.
 0x617EF093=~s~你现在可以和Michelle约会了。有时她会打电话找你约会。
@@ -15342,10 +15342,10 @@
 0x23F3D3A6=~s~~1~:~1~前到Alex家。
 
 ;0x156B6993=~s~Go to Liberated Woman's by ~1~:0~1~.
-0x156B6993=~s~~1~:0~1~前到Liberated Woman家。
+0x156B6993=~s~~1~:0~1~前到自由女性家。
 
 ;0x0760CD7E=~s~Go to Liberated Woman's by ~1~:~1~.
-0x0760CD7E=~s~~1~:~1~前到Liberated Woman家。
+0x0760CD7E=~s~~1~:~1~前到自由女性家。
 
 ;0x8D93A4C2=~s~Go to Kiki's by 0~1~:0~1~.
 0x8D93A4C2=~s~0~1~:0~1~前到Kiki家。
@@ -15360,10 +15360,10 @@
 0x06B1161B=~s~~1~:~1~前到Kiki家。
 
 ;0xF0AD7461=~s~Go to LawChick's by ~1~:0~1~.
-0xF0AD7461=~s~~1~:0~1~前到LawChick家。
+0xF0AD7461=~s~~1~:0~1~前到律师小妹家。
 
 ;0xD699C03E=~s~Go to LawChick's by ~1~:~1~.
-0xD699C03E=~s~~1~:~1~前到LawChick家。
+0xD699C03E=~s~~1~:~1~前到律师小妹家。
 
 ;0x6DA65C08=~s~Go to Carmen's by 0~1~:0~1~.
 0x6DA65C08=~s~0~1~:0~1~前到Carmen家。
@@ -15738,7 +15738,7 @@
 0x6A5FC0D4=自由城到加拿大
 
 ;0xD01D8C52=Liberty City to Las Venturas
-0xD01D8C52=自由城到 Las Venturas
+0xD01D8C52=自由城到拉斯云祖华
 
 ;0xFED869C7=Liberty City to Vice City
 0xFED869C7=自由城到罪城
@@ -15885,7 +15885,7 @@
 0x32041242=吃饭
 
 ;0x40C92FCC=Heli Rides
-0x40C92FCC=搭直升机
+0x40C92FCC=直升机兜风
 
 ;0x4FC2CDBF=Transport
 0x4FC2CDBF=交通运输
@@ -15894,7 +15894,7 @@
 0x5D7C6932=台球
 
 ;0x67D6FDEB=Cabaret/Comedy Club
-0x67D6FDEB=卡巴莱/喜剧俱乐部
+0x67D6FDEB=卡巴莱 / 喜剧俱乐部
 
 ;0x75A0997E=Strip Club
 0x75A0997E=脱衣舞俱乐部
@@ -15957,7 +15957,7 @@
 0xABE15713=~PAD_LSHOCK~改变位置~n~ ~PAD_RSHOCK~改变角度~n~
 
 ;0x58A5DCC5=~s~You must lose your wanted level before starting the SIXAXIS™ tutorial.
-0x58A5DCC5=~s~开始SIXAXIS™教程前，你必须降低你的通缉度。
+0x58A5DCC5=~s~开始SIXAXIS™教程前，你必须摆脱通缉。
 
 ;0x9D52BDE9=San Quentin Avenue Station
 0x9D52BDE9=San Quentin大道站
@@ -16944,10 +16944,10 @@
 0x430DFE8C=警方已停运列车。~n~按~INPUT_VEH_EXIT~下车。
 
 ;0xA949B5B8=Liberated Woman
-0xA949B5B8=Liberated Woman
+0xA949B5B8=自由女性
 
 ;0x528A34B8=LawChick
-0x528A34B8=LawChick
+0x528A34B8=律师小妹
 
 ;0xF9B5ADCC=SoBoHoe
 0xF9B5ADCC=SoBoHoe
@@ -16971,7 +16971,7 @@
 0x238801AF=~s~将在~1~秒内退出活动。
 
 ;0xC40B83A4=The car wash is always open.
-0xC40B83A4=洗车店一直都开着。
+0xC40B83A4=洗车店全天开放。
 
 ;0xA00F60D1=~s~You cannot enter the comedy club with a wanted level.
 0xA00F60D1=~s~你无法在被通缉时进入喜剧俱乐部。
@@ -16980,7 +16980,7 @@
 0xE78C4E7A=~s~按~ACCEPT~再跳一支舞。~n~按~INPUT_PICKUP~退出。
 
 ;0xC034F6C8=~s~You will be reminded about your date with French Tom an hour before the arranged time.
-0xC034F6C8=~s~约会前一小时，将会提醒你你与French Tom的约会。
+0xC034F6C8=~s~约会前一小时，将会提醒你去与French Tom约会。
 
 ;0x322CF8C7=Glasses~n~Press ~PAD_UP~ to view hats.~n~Press ~PAD_DOWN~ to view outfit.~n~Use ~PAD_LEFT~ and ~PAD_RIGHT~ to change glasses.~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.
 0x322CF8C7=眼镜~n~按~PAD_UP~查看帽子。~n~按~PAD_DOWN~查看套装。~n~用~PAD_LEFT~~PAD_RIGHT~更换眼镜。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。
@@ -17091,7 +17091,7 @@
 0x7AE0AD60=靴子
 
 ;0x0B6EA343=Lose your wanted level before picking up ~a~
-0x0B6EA343=接~a~之前降低你的通缉度。
+0x0B6EA343=接~a~之前摆脱通缉。
 
 ;0x2ECB9351=~s~Hold ~PAD_Y~ to go on this tour. It will cost you $150.
 0x2ECB9351=~s~长按~PAD_Y~参加观光。收费 $150。
@@ -17142,7 +17142,7 @@
 0x642AB9C9=.
 
 ;0xF011E324=Searching for nearest match.
-0xF011E324=正在查找最佳匹配。
+0xF011E324=正在查找最佳匹配...
 
 ;0x111F1106=If you are arrested by the police you will be processed at a local police precinct.
 0x111F1106=若被逮捕，你将被移送地方警局。
@@ -17238,7 +17238,7 @@
 0x349EF9C6=按~INPUT_FRONTEND_ACCEPT~跳过动画。
 
 ;0xCF1ECDC7=~s~You must lose your wanted level before starting the multiplayer tutorial.
-0xCF1ECDC7=~s~开始多人游戏教程前，你必须降低你的通缉度。
+0xCF1ECDC7=~s~开始多人游戏教程前，你必须摆脱通缉。
 
 ;0x8D8294DF=CADDY
 0x8D8294DF=CADDY
@@ -17286,7 +17286,7 @@
 0x24C35C00=按住~INPUT_SPRINT~奔跑。连按~INPUT_SPRINT~冲刺。
 
 ;0xD0438493=Use ~INPUT_SPRINT~ to sprint.
-0xD0438493=用~INPUT_SPRINT~冲刺。
+0xD0438493=按住~INPUT_SPRINT~冲刺。
 
 ;0x751DC03F=Press ~INPUT_ENTER~ to enter or exit a vehicle.
 0x751DC03F=按~INPUT_ENTER~上下车。
@@ -17307,7 +17307,7 @@
 0xD64B1518=按~INPUT_VEH_HEADLIGHT~在最亮与较暗间切换大灯亮度。
 
 ;0x17813B56=You can now call Roman for work. Find Roman in the phonebook and select the Job option.
-0x17813B56=现在你可以打给Roman接活。在通讯录中找到Roman后选择「差事] 。
+0x17813B56=现在你可以打给Roman接活。在通讯录中找到Roman后选择「差事」。
 
 ;0x30834FF9=You can now do some extra work for Jacob. Call Jacob using the Job option on your phone.
 0x30834FF9=你现在可以替Jacob做些私活。使用手机中的差事选项呼叫Jacob。
@@ -17352,19 +17352,19 @@
 0xB8D3F4D5=GTA IV 允许您在事件发生后捕捉最近事件用于回放。您可以通过长按~INPUT_REPLAY_SAVE_TO_HDD~捕捉最近事件。
 
 ;0x8F004253=You can capture clips of recent events by holding ~INPUT_REPLAY_SAVE_TO_HDD~. These clips can be edited within the Video Editor accessed through the cellphone.
-0x8F004253=长按~INPUT_REPLAY_SAVE_TO_HDD~可以捕捉最近事件的剪辑。这些剪辑可在手机中的视频编辑器上编辑。
+0x8F004253=长按~INPUT_REPLAY_SAVE_TO_HDD~可以捕捉最近事件的片段。这些片段可在手机中的视频编辑器上编辑。
 
 ;0xF6F190EF=You can capture clips of recent events by pressing ~INPUT_REPLAY_SAVE_TO_HDD~. These clips can be edited within the Video Editor accessed through the cellphone.
-0xF6F190EF=长按~INPUT_REPLAY_SAVE_TO_HDD~可以捕捉最近事件的剪辑。这些剪辑可在手机中的视频编辑器上编辑。
+0xF6F190EF=长按~INPUT_REPLAY_SAVE_TO_HDD~可以捕捉最近事件的片段。这些片段可在手机中的视频编辑器上编辑。
 
 ;0xA2C669DF=Select this option to access the Video Editor. Hold ~INPUT_REPLAY_SAVE_TO_HDD~ to capture clips.
-0xA2C669DF=选择此项启动视频编辑器。~n~长按~INPUT_REPLAY_SAVE_TO_HDD~捕捉剪辑。
+0xA2C669DF=选择此项启动视频编辑器。~n~长按~INPUT_REPLAY_SAVE_TO_HDD~捕捉片段。
 
 ;0x61D81230=Select this option to access the Video Editor. Press ~INPUT_REPLAY_SAVE_TO_HDD~ to capture clips.
-0x61D81230=选择此项启动视频编辑器。~n~长按~INPUT_REPLAY_SAVE_TO_HDD~捕捉剪辑。
+0x61D81230=选择此项启动视频编辑器。~n~长按~INPUT_REPLAY_SAVE_TO_HDD~捕捉片段。
 
 ;0x736C8B2C=Your Clip has been captured. If you wish to view or edit your clip, bring up your phone and select Video Editor.
-0x736C8B2C=您的剪辑已捕捉。若您想查看或编辑您的剪辑，拿出手机后选择视频编辑器。
+0x736C8B2C=您的片段已捕捉。若您想查看或编辑您的片段，拿出手机后选择视频编辑器。
 
 ;0xDC5E1CD8=~s~Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the target vehicle.
 0xDC5E1CD8=~s~按住~INPUT_VEH_CIN_CAM~可将镜头对准目标车辆。
@@ -17571,10 +17571,10 @@
 0xF1A3F03C=你可以打给Dimitri问他是否和Petrovic谈过，也可以等待Dimitri联系你。
 
 ;0x2280F569=Roman now likes you a lot - you can use his special ability. You can call up Roman and select "Car Service" he will send you one of his cabs to pick you up and take you to destinations around the city.
-0x2280F569=Roman现在很喜欢你，你可以使用他的特殊能力了。打给Roman时选择「叫车服务」，他就会派出手下的的士接送你到城里的各个地方。
+0x2280F569=Roman现在很喜欢你，你可以使用他的特殊能力了。呼叫Roman时选择「叫车服务」，他就会派出手下的的士接送你到城里的各个地方。
 
 ;0xF198E035=Jacob now likes you a lot - you can use his special ability. You can call up Jacob and select "Guns" he will arrive at a location near you and sell you guns and equipment at discounted prices.
-0xF198E035=Jacob现在很喜欢你，你可以使用他的特殊能力了。打给Jacob时选择「枪支」，他就会到你附近的某地向你以低价出售武器装备。
+0xF198E035=Jacob现在很喜欢你，你可以使用他的特殊能力了。呼叫Jacob时选择「枪支」，他就会到你附近的某地向你以低价出售武器装备。
 
 ;0xD034BB31=All activites completed with Little Jacob.
 0xD034BB31=与Little Jacob的所有活动已完成。
@@ -17595,7 +17595,7 @@
 0xE780EA14=停到Brucie附近，或按~INPUT_VEH_HORN~鸣笛引起他的注意。
 
 ;0x2564A7EC=When you have an appointment or a date it will be added to the organizer on your phone.
-0x2564A7EC=你的安排和约会都会被添加到你手机的日程中。
+0x2564A7EC=你的安排和约会都会被添加到手机的日程中。
 
 ;0xE55FF28B=Press ~INPUT_VEH_HORN~ to sound your horn to attract Brucie's attention.
 0xE55FF28B=按~INPUT_VEH_HORN~鸣笛引起Brucie的注意。
@@ -17685,7 +17685,7 @@
 0x25E1E662=与Brucie的所有活动已完成。
 
 ;0x2DB2B485=~r~One of Brucie's girls has been injured.
-0x2DB2B485=~r~Brucie的一个姑娘受伤了。
+0x2DB2B485=~r~Brucie的姑娘受伤了。
 
 ;0x8A0B5010=Go back for Brucie's ~b~Girl.
 0x8A0B5010=回去找Brucie的~b~姑娘。
@@ -17745,7 +17745,7 @@
 0x5F198CCD=停到Packie附近接上他。
 
 ;0x969B48C4=Packie now likes you a lot - you can use his special ability. You can call up Packie and select "Bomb" and he will place a phone bomb nearby. Collect the phone bomb and plant it on a car.
-0x969B48C4=Packie现在很喜欢你，你可以使用他的特殊能力了。打给Packie时选择「炸弹」，他就会给你在附近留一个炸弹。拿到电话炸弹后可以将其安装在车上。
+0x969B48C4=Packie现在很喜欢你，你可以使用他的特殊能力了。呼叫Packie时选择「炸弹」，他就会给你在附近留一个炸弹。拿到电话炸弹后可以将其安装在车上。
 
 ;0x0A432F49=All activites completed with Packie.
 0x0A432F49=与Packie的所有活动已完成。
@@ -17763,7 +17763,7 @@
 0xB166D32E=你需要穿着讲究的衣服和鞋才能见Jimmy。
 
 ;0x71F16987=~s~Make Your Decision...
-0x71F16987=~s~做出你的决定 ...
+0x71F16987=~s~做出你的决定...
 
 ;0xBBF32FF4=THIS LABEL NEEDS TO BE HERE !!!
 0xBBF32FF4=THIS LABEL NEEDS TO BE HERE !!!
@@ -17928,7 +17928,7 @@
 0xD9308679=meTV
 
 ;0x4FDBF3CE=Perseus
-0x4FDBF3CE=Perseus服饰
+0x4FDBF3CE=神之子服饰
 
 ;0x3DCDCFB2=Honkers
 0x3DCDCFB2=Honkers俱乐部
@@ -18081,7 +18081,7 @@
 0x449841AB=吃饭
 
 ;0x5AAD6DD5=Heli Ride
-0x5AAD6DD5=搭直升机
+0x5AAD6DD5=直升机兜风
 
 ;0xE7F20860=Lifts
 0xE7F20860=搭车
@@ -18129,7 +18129,7 @@
 0xCD7278E7=开快艇吗？
 
 ;0xAAC4F2B7=Do Heli Rides?
-0xAAC4F2B7=搭直升机吗？
+0xAAC4F2B7=直升机兜风吗？
 
 ;0x0D2F5C38=Give Lift?
 0x0D2F5C38=载一程吗？
@@ -18207,7 +18207,7 @@
 0x03F81074=收音机
 
 ;0xE4630522=Read
-0xE4630522=阅读
+0xE4630522=查看
 
 ;0x1DA5B02D=Select
 0x1DA5B02D=选择
@@ -18507,10 +18507,10 @@
 0x342E66EF=切换
 
 ;0x1018E88D=Date with LIBERATED WOMAN
-0x1018E88D=与LIBERATED WOMAN约会
+0x1018E88D=与自由女性约会
 
 ;0x01EA4C30=Date with LAWCHICK
-0x01EA4C30=与LAWCHICK约会
+0x01EA4C30=与律师小妹约会
 
 ;0xEC7D2156=Date with SOBOHOE
 0xEC7D2156=与SOBOHOE约会
@@ -18528,109 +18528,109 @@
 0x394B5A56=GTA - 生命值与武器
 
 ;0x2B81BEC3=DOC - Health
-0x2B81BEC3=DOC - 生命值
+0x2B81BEC3=医 - 生命值
 
 ;0x15C49349=GUN - Advanced
-0x15C49349=GUN - 高级武器
+0x15C49349=械 - 高级武器
 
 ;0x8436F02C=GUN - Poor
-0x8436F02C=GUN - 廉价武器
+0x8436F02C=械 - 廉价武器
 
 ;0x7030C820=COP - Wanted Down
-0x7030C820=COP - 降低通缉度
+0x7030C820=警 - 降低通缉度
 
 ;0x627B2CB5=COP - Wanted Up
-0x627B2CB5=COP - 升高通缉度
+0x627B2CB5=警 - 提高通缉度
 
 ;0x4CE40187=PAY - Money
-0x4CE40187=PAY - 金钱
+0x4CE40187=财 - 金钱
 
 ;0xBF3A6632=HOT - Weather
-0xBF3A6632=HOT - 天气
+0xBF3A6632=炎 - 天气
 
 ;0xDAD69D76=FLY - ANNIHILATOR
-0xDAD69D76=FLY - ANNIHILATOR
+0xDAD69D76=空 - 歼灭者
 
 ;0x48D9F983=WET - JETMAX
-0x48D9F983=WET - JETMAX
+0x48D9F983=海 - JETMAX
 
 ;0x8ED8B2C5=MBK - NRG 900
-0x8ED8B2C5=MBK - NRG 900
+0x8ED8B2C5=摩 - NRG 900
 
 ;0xAC31ED77=MBK - SANCHEZ
-0xAC31ED77=MBK - SANCHEZ
+0xAC31ED77=摩 - SANCHEZ
 
 ;0x2987681C=CAR - FIB BUFFALO
-0x2987681C=CAR - FIB BUFFALO
+0x2987681C=车 - FIB BUFFALO
 
 ;0x18394580=CAR - COMET
-0x18394580=CAR - COMET
+0x18394580=车 - COMET
 
 ;0xD512BF38=CAR - TURISMO
-0xD512BF38=CAR - TURISMO
+0xD512BF38=车 - TURISMO
 
 ;0xC3611BD5=CAR - COGNOSCENTI
-0xC3611BD5=CAR - COGNOSCENTI
+0xC3611BD5=车 - COGNOSCENTI
 
 ;0x652ADF66=CAR - SUPERGT
-0x652ADF66=CAR - SUPERGT
+0x652ADF66=车 - SUPERGT
 
 ;0x1360BBD3=TIME - Ahead One Hour
-0x1360BBD3=TIME - 前进一小时
+0x1360BBD3=时 - 前进一小时
 
 ;0xCCC368E1=enabled cheat - "Health and Weapons"
-0xCCC368E1=秘籍 「生命值与武器」 已启用
+0xCCC368E1=秘籍「生命值与武器」已启用
 
 ;0xDE5C0C16=enabled cheat - "Health"
-0xDE5C0C16=秘籍 「生命值」 已启用
+0xDE5C0C16=秘籍「生命值」已启用
 
 ;0xE916218A=enabled cheat - "Advanced weapons"
-0xE916218A=秘籍 「高级武器」 已启用
+0xE916218A=秘籍「高级武器」已启用
 
 ;0xFAF5C549=enabled cheat - "Poor weapons"
-0xFAF5C549=秘籍 「廉价武器」 已启用
+0xFAF5C549=秘籍「廉价武器」已启用
 
 ;0x87BBDED3=enabled cheat - "Wanted Down"
-0x87BBDED3=秘籍 「降低通缉度」 已启用
+0x87BBDED3=秘籍「降低通缉度」已启用
 
 ;0x9180F25D=enabled cheat - "Wanted Up"
-0x9180F25D=秘籍 「升高通缉度」 已启用
+0x9180F25D=秘籍「升高通缉度」已启用
 
 ;0xA43E97D8=enabled cheat - "Money"
-0xA43E97D8=秘籍 「金钱」 已启用
+0xA43E97D8=秘籍「金钱」已启用
 
 ;0xBE1CCB94=enabled cheat - "Weather"
-0xBE1CCB94=秘籍 「天气」 已启用
+0xBE1CCB94=秘籍「天气」已启用
 
 ;0x5A3203C4=enabled cheat - "ANNIHILATOR"
-0x5A3203C4=秘籍 「ANNIHILATOR」 已启用
+0x5A3203C4=秘籍「ANNIHILATOR」已启用
 
 ;0x6C0DA77B=enabled cheat - "JETMAX"
-0x6C0DA77B=秘籍 「JETMAX」 已启用
+0x6C0DA77B=秘籍「JETMAX」已启用
 
 ;0x243540F1=enabled cheat - "NRG 900"
-0x243540F1=秘籍 「NRG 900」 已启用
+0x243540F1=秘籍「NRG 900」已启用
 
 ;0x1446A114=enabled cheat - "SANCHEZ"
-0x1446A114=秘籍 「SANCHEZ」 已启用
+0x1446A114=秘籍「SANCHEZ」已启用
 
 ;0x09C78C16=enabled cheat - "FIB BUFFALO"
-0x09C78C16=秘籍 「FIB BUFFALO」 已启用
+0x09C78C16=秘籍「FIB BUFFALO」已启用
 
 ;0x7906EA93=enabled cheat - "COMET"
-0x7906EA93=秘籍 「COMET」 已启用
+0x7906EA93=秘籍「COMET」已启用
 
 ;0x5E46B513=enabled cheat - "TURISMO"
-0x5E46B513=秘籍 「TURISMO」 已启用
+0x5E46B513=秘籍「TURISMO」已启用
 
 ;0x737EDF87=enabled cheat - "COGNOSCENTI"
-0x737EDF87=秘籍 「COGNOSCENTI」 已启用
+0x737EDF87=秘籍「COGNOSCENTI」已启用
 
 ;0x613D3B04=enabled cheat - "SUPERGT"
-0x613D3B04=秘籍 「SUPERGT」 已启用
+0x613D3B04=秘籍「SUPERGT」已启用
 
 ;0x4478017A=enabled cheat - "Ahead One Hour"
-0x4478017A=秘籍 「前进一小时」 已启用
+0x4478017A=秘籍「前进一小时」已启用
 
 ;0xF87A75AA=Cheat activated.
 0xF87A75AA=秘籍已启用。
@@ -18750,7 +18750,7 @@
 0x9880F802=手机现在处在睡眠模式。若要恢复手机功能，允许电话呼入和短信接收，请在菜单中选择「选项」，并关闭睡眠模式。
 
 ;0x8C5E5FBD=Sleep Mode will stop all story phonecalls and text messages coming through. This will hold up the story until it is disabled again.
-0x8C5E5FBD=睡眠模式会阻断一切任务呼叫或短信。在关闭睡眠模式前将使剧情进度停止。
+0x8C5E5FBD=启用睡眠模式会阻断一切任务呼叫或短信。在关闭睡眠模式前，剧情进度将会停滞。
 
 ;0xC29AFFEA=Ignore
 0xC29AFFEA=忽略
@@ -23079,22 +23079,22 @@
 0x7750DA08=呼！今天外面真的是热死人啦！很适合烧烤配冰啤酒，也适合犯罪率暴涨。
 
 ;0x6592B68C=Sunshine today in Liberty City, puts everyone in a good mood, hard working Americans and single mother immigrants alike. Enjoy!
-0x6592B68C=今天自由城天气晴朗，让人心情舒畅，努力工作的美国人和单亲移民妈妈也不例外。
+0x6592B68C=今天自由城天气晴朗，让人心情舒畅，努力工作的美国公民和单亲移民妈妈也不例外。
 
 ;0x53D81317=It's sunny out there, but blowing a fierce wind, be aware folks, you can almost smell Alderney.
-0x53D81317=今天天气晴朗，但有强风。注意了各位，甚至能闻到Alderney的臭味。
+0x53D81317=今天天气晴朗，但有强风。注意了各位，甚至能闻到 Alderney 的臭味。
 
 ;0x8C05036C=Overcast today, a storm may be blowing, are you prepared? It might be time to get scared and irrational, keep watching Weazel for updates.
-0x8C05036C=今天是个阴天，暴风雨可能就要来了，你准备好了吗？是时候抛弃理性开始害怕了。关注Weazel获取最新消息。
+0x8C05036C=今天是个阴天，暴风雨可能就要来了，你准备好了吗？是时候抛弃理性开始害怕了。关注 Weazel 获取最新消息。
 
 ;0xC23C6FDA=It's raining out there folks, let's hope it washes away some of the liberal garbage and amoral sludge that runs through Liberty City's streets.
 0xC23C6FDA=现在正在下雨，各位。希望这场雨能冲走自由城街头巷尾的自由派废物和没良心人渣。
 
 ;0xF6725845=Nothing but a pathetic drizzle out there today, nothing to worry about. When it's time to worry, Weazel will let you know first.
-0xF6725845=今天只是一场小雨，无需担心。该担心的时候，Weazel会立刻通知你的。
+0xF6725845=今天只是一场小雨，无需担心。该担心的时候， Weazel 会立刻通知你的。
 
 ;0x9CF5A54D=Who says be kind to the environment? It's no friend to us. The fog out there is denser than a jury on a celebrity murder trial, yep, you'll need a powerful, American SUV to cut through this.
-0x9CF5A54D=有必要对自然环境友好吗？它又不是我们的朋友。外面的雾现在比名人谋杀案的陪审团的脸皮都厚。没错，只有动力强劲的美产SUV才能助你前进。
+0x9CF5A54D=有必要对自然环境友好吗？它又不是我们的朋友。外面的雾现在比名人谋杀案的陪审团的脸皮都厚。没错，只有动力强劲的国产 SUV 才能助你前进。
 
 ;0xD52095A2=There are bolts from the heavens showering down on Liberty City, to some, static electricity; to others, a display of His anger at the sins of mankind - you decide.
 0xD52095A2=自由城上空天雷滚滚。有人认为是静电现象，有人认为是人类罪行引起神怒——自己选吧。
@@ -23361,13 +23361,13 @@
 0x958DEBCE=堂弟，谢谢你替Vlad把这事办了。他就是个混蛋，不过谁让我欠他钱呢。接下来你怎么做？Rom
 
 ;0xA530F01E=Niko, remember if you want some money you can call me for a cab job. Rom.
-0xA530F01E=Niko ，记住，你想赚钱的话可以找我接单开出租。Rom
+0xA530F01E=Niko，记住，你想赚钱的话可以找我接单开出租。Rom
 
 ;0x78BC1735=Shit, Niko. They're going to find out we killed Vlad. I know it. Our bodies are gonna be in the Humboldt next to Vlad's... Shit. Rom
 0x78BC1735=完了，Niko。他们会发现是我们杀了Vlad的。我明白的。我们的尸体会和Vlad的一块儿沉到Humboldt河河底的。Rom
 
 ;0x1BF15D95=Hey Cuz, thanks for saving my ass back there. I thought I'd played my last hand when that biker guy kidnapped me for the Russians. You're a fucking hero, man. Rom
-0x1BF15D95=嘿，堂弟，很感谢你能来救我。那个飞车党替俄国佬绑架我的时候，我都以为自己要没命了。你丫就是英雄，老弟。Rom
+0x1BF15D95=嘿，堂弟，感谢你能来救我。那个飞车党替俄国佬绑架我的时候，我都以为自己要没命了。你丫就是大英雄，老弟。Rom
 
 ;0x2C9BFEEA=Niko, you came to Liberty for penthouses, women, fast cars. Don't throw it away for revenge. Darko did not help, remember? Do the deal and maybe we can take a private jet down to Vice City!!
 0x2C9BFEEA=Niko，你来自由城就是为了公寓女人跟跑车。别为了复仇抛弃这些。Darko那次就没啥用，记得么？去交易吧，说不定我们还能开私人飞机去罪城！！
@@ -23379,10 +23379,10 @@
 0xCA1839E4=你为什么要抛下我，堂弟？那可不行。搞得跟我和你搞一夜情一样，挥之即去。Rom
 
 ;0xF4DE0F7B=Niko, imagine the honeymoon I can take Mallorie on if you do this deal. Come on, do it for me - I am your cousin. Rom
-0xF4DE0F7B=Niko ，想象一下你去交易的话我就能带Mallorie去度蜜月吧。拜托，为了我你也去交易吧－我是你堂兄啊。Rom
+0xF4DE0F7B=Niko，想象一下你去交易的话我就能带Mallorie去度蜜月吧。拜托，为了我你也去交易吧。我是你堂兄啊。Rom
 
 ;0xFD8320C5=Shit. Need help. Come to the depot quick, man! Rom
-0xFD8320C5=靠。求救。速来车行，老弟！Rom
+0xFD8320C5=靠。求救。速来车行，老弟！ Rom
 
 ;0x1821D602=Niko, I'm at the church. I'm getting married. Wear some smart clothes and get over here as soon as you can. Rom
 0x1821D602=Niko，我现在在教堂。我要结婚了。穿套像样的衣服赶紧过来。Rom
@@ -23463,7 +23463,7 @@
 0xFB743CD3=NB，我最后乘公交从医院回来了。遇到了一个刚到这儿的丹麦游客。我送她回了她的宾馆，给她留下了对自由州难以磨灭的印象。Rom
 
 ;0x5EA9033B=Had to get one of the drivers to get me back from hospital. Man, that guy don't like doing favours. Try and pick me up next time. Rom
-0x5EA9033B=最后只能让手下的一个司机来医院接我。老弟，那家伙不喜欢送人情。下次尽量来接我吧。Rom
+0x5EA9033B=最后只能让手下的司机来医院接我。老弟，那家伙不喜欢送人情。下次尽量来接我吧。Rom
 
 ;0x90F2E7CE=Why didn't you come to the hospital? Hope you're okay. Rom
 0x90F2E7CE=你怎么没来医院？希望你没事。Rom
@@ -23475,7 +23475,7 @@
 0x346DAEC5=NB，既然你没空来接我，那一定是忙着杀人吧。Rom
 
 ;0xBED1C38F=NB - you been on your gay date yet? I know you want to do it! Don't be nervous and check your emails. - Rom
-0xBED1C38F=NB－你有没有去见过你的基佬男友啊？我知道你很想去的！别紧张，记得看看邮箱。 - Rom
+0xBED1C38F=NB，你有没有去见过你的基佬男友啊？我知道你很想去的！别紧张，记得看看邮箱。 - Rom
 
 ;0x70B6A75A=Hey man, try not to fall in love with that guy when you go on a date with him. This is business not pleasure. He's probably emailed you by now. - Rom
 0x70B6A75A=嘿，老弟，跟那老兄约会的时候可别假戏真做了。你是去干活的，不是找乐子的。估计他已经给你发邮件了。 - Rom
@@ -23493,7 +23493,7 @@
 0xF1BE27EB=堂弟，你把我扔在俱乐部了。你是带了一个妞回去睡吗？祝你玩得开心，禽兽。 - Rom
 
 ;0x3E58411E=Cuz, where'd you go? Got left in the club by myself. More titties for me, I guess. Later. - Rom
-0x3E58411E=堂弟，你去哪儿了？我被一个人落在俱乐部里了。也许我能找到更多奶子。回见。 - Rom
+0x3E58411E=堂弟，你去哪了？我被一个人落在俱乐部里了。也许我能找到更多奶子。回见。 - Rom
 
 ;0x54F76E5C=Cousin, my other drivers got jealous about you taking all the fares. I've nearly got a mutiny on my hands. You're going to have to earn your money with your fists and not my cabs from now on. Let's hang out. - Rom
 0x54F76E5C=堂弟，我手下的几个司机因为你把所有单子都抢了这事眼睛都绿了。他们差点就要造反了。从现在起，你得靠自己的拳头而不是我的的士挣钱了。有空我们去走走吧。 - Rom
@@ -23565,7 +23565,7 @@
 0x65DC34F0=Niko，求你先别给我打电话了。我需要一些私人时间。xx
 
 ;0x779F5876=Niko, where did you go? I couldn't find you. Did something important come up? Are you involved with some bad people?
-0x779F5876=Niko，你去哪儿了？我没见着你。是突然有什么急事吗？你该不会和某些坏人在一起吧？
+0x779F5876=Niko，你去哪了？我没见着你。是突然有什么急事吗？你该不会和某些坏人在一起吧？
 
 ;0x9D8EA450=Call me, Niko. We should go out on another date. I really want to find out more about you. xx
 0x9D8EA450=给我打电话，Niko。我们应该再出去约次会。我真的很想深入了解你。xx
@@ -23655,10 +23655,10 @@
 0xBB2D39AA=妈的，Niko。坚强点，好吗？我会找到这个混账的！你先去整点重武器啥的，我到时候给你打电话。要不是我没车，我就直接把他们送到你面前了。就这 - LJ
 
 ;0xA0F20534=Niko, give I a call if you need some cash. I and Badman usually got some jobs. Easy - LJ
-0xA0F20534=Niko ，你要是需要钱就打给我。我和 Badman 这儿一般都有活可干。就这 - LJ
+0xA0F20534=Niko，你要是需要钱就打给我。我和 Badman 这儿一般都有活可干。就这 - LJ
 
 ;0xD03FE3CF=I got an escape plan for you, star. Keep your eyes on the sky, sight?
-0xD03FE3CF=我给你弄到撤退方式了，老兄。注意着点天上，好吗？
+0xD03FE3CF=我准备好撤退方案了，老兄。注意着点天上，好吗？
 
 ;0xC569CE23=Niko star - you done real good for I and I, but there be too much Babylon boderation inna de place. Me and Badman ain't delivering no more packages, sight. Hope you liked dat Huntley in dem mean colors. Easy - LJ
 0xC569CE23=Niko 兄弟，我们的活你完成得很好，但现在盯着那边的条子太多了。我和Badman不会再去送货了。希望你喜欢那辆成色不太好的Huntley。就这 - LJ
@@ -23703,7 +23703,7 @@
 0x22E8A54F=你没来，出院后我只能自己回去。这很恼人，懂？ - Jacob
 
 ;0x10B900F0=Why you no come pick me up like you say, Niko? Cha! - Jacob
-0x10B900F0=你怎么没有如约来接我，Niko ？擦！ - Jacob
+0x10B900F0=你怎么没有如约来接我，Niko？擦！ - Jacob
 
 ;0x650E2F55=Rhaatid. I have fe get home from hospital on me own. - Jacob
 0x650E2F55=妈逼的。我只能自己出院回家了。 - Jacob
@@ -23961,13 +23961,13 @@
 0xCD6B4034=Niko。你丢下了我。 - B
 
 ;0xDE1BE189=NB. Hit up Perseus in Algonquin. All the VIPs go there, bro. Get yourself some fucking bling clothes. You're genetically different, bro. You gotta get the packaging to match. Thats how you Roll! - B
-0xDE1BE189=NB。去Algonquin的Perseus转转。VIP都去那儿，兄弟。给自己整套有范点的衣服。你骨子里就跟别人不一样，兄弟。你得包装包装才能跟别人比。这就是你的风范！ - B
+0xDE1BE189=NB。去Algonquin的神之子服饰转转。VIP都去那儿，兄弟。给自己整套有范点的衣服。你骨子里就跟别人不一样，兄弟。你得包装包装才能跟别人比。这就是你的风范！ - B
 
 ;0xDAEBDB29=NB. Check your emails, bro. There's some work for you. It's paying heavy, bro. - B
-0xDAEBDB29=NB。看下你的邮箱，兄弟。有活儿给你。报酬丰厚，兄弟。 - B
+0xDAEBDB29=NB。看下邮箱，兄弟。有活给你。报酬丰厚，兄弟。 - B
 
 ;0x9CA35D7D=Niko, give me a call when you ain't killing people or working on your delts or whatever. There be new races going on all over town. Destroy that shit!! - B
-0x9CA35D7D=Niko，你要是哪天没忙着杀人、增肌，就给我打个电话。城里到处是新的赛车比赛。横扫他们！！ - B
+0x9CA35D7D=Niko，你要是哪天没忙着杀人或者增肌，就给我打个电话。城里到处是新的赛车比赛。横扫他们！！ - B
 
 ;0x4AD839E8=Niko - You won all the races, bro! Sick! You the fucking man - listen you can still do them again. Keep on top of that shit, but you already the champ so it ain't quite the same as the first time (never is). - B
 0x4AD839E8=Niko－你赢得了所有比赛，兄弟！我靠！你丫牛逼啊。还想比的话也可以比，这你得知道，不过你已经是冠军了，情况就和第一次的时候不一样了(也从没一样过)。 - B
@@ -24018,10 +24018,10 @@
 0xDAA45CE6=咱哥俩可是猛男，老兄。要登上食物链顶端，最快的途径就他妈是直升机。想乘机就给我打电话。 - B
 
 ;0xE9D7FB4D=Niko, we aint hung out for a while. The bitches must be getting comfortable out on the tundra because the Alpha males ain't been on the hunt. Call me. Top of the fucking food chain! Yeah! - B
-0xE9D7FB4D=Niko，我们好久没一起出去了。贱人们现在肯定都无所畏惧地漫步在苔原上，因为猛男猎食者一直没有出击。来个电话。问鼎食物链！耶！ - B
+0xE9D7FB4D=Niko，我们好久没一起出去了。贱人们现在肯定都无所畏惧地漫步在苔原上，因为猛男猎食者一直没有出击。来个电话。登顶食物链！耶！ - B
 
 ;0xD97F5A90=NB - where you at, bro. Don't treat me cold just because my delts are more cut than yours. Hit me up and we'll hang. - B
-0xD97F5A90=NB－你在哪儿，兄弟。别因为你嫉妒我的三角肌就对我这么冷漠。来个电话我们就能一起出去。 - B
+0xD97F5A90=NB，你在哪儿，兄弟？别因为你嫉妒我的三角肌就对我这么冷漠。来个电话我们就能一起出去。 - B
 
 ;0x6F568640=Shit man, I'm starting to forget about your alpha male Eastern European ass. Let's stick it to the bitches soon. - B
 0x6F568640=我靠，老兄，我都要忘记你这个东欧猛男了。改天一起去套套马子吧。 - B
@@ -24033,7 +24033,7 @@
 0x2D608139=你人呢？Brucie出院后被迫自己回家了。那他妈不是我的风格！ - B
 
 ;0x5D7D616E=Shit, NB. When you didn't show at the hospital I fucking karate choped this other patient - broke his other leg as well. Fuck me man. I'm dangerous. - B
-0x5D7D616E=妈的，NB。你没来医院，气得我当场就用空手道把一个病友打了一顿－打断了他的另一条腿。我操兄弟，我超危险。 - B
+0x5D7D616E=妈的，NB。你没来医院，气得我当场就用空手道把一个病友打了一顿，结果打断了他的另一条腿。我操兄弟，我超危险。 - B
 
 ;0xEF4F051B=There better be a fucking good reason for you leaving this alpha at the hospital. If there ain't, you're buying the next magnum of champagne. Yeah! - B
 0xEF4F051B=你把猛男我丢在医院最好有个好点的理由。要是没有，下一份大瓶香槟你请。耶！ - B
@@ -24066,10 +24066,10 @@
 0x662891BC=兄弟，来我在BOABO的公寓找我。保持威猛。- B
 
 ;0x7B63BC32=Ice cold mother fucker like you should look into doing some vigilante work for $, bro. Cops are outsourcing that shit to private contractors. Check it out next time you hack a Police Computer. - B
-0x7B63BC32=你这种狗逼冷血怪可以考虑下接义警的活赚$，兄弟。条子现在把脏活外包给个体承包人了。下次你黑进警用电脑的时候记得看看。- B
+0x7B63BC32=你这种狗逼冷血怪可以考虑下接义警的活赚$，兄弟。条子现在把脏活外包给私人l。下次你黑进警用电脑的时候记得看看。- B
 
 ;0xCAC6DAF7=Niko, baby. You left Brucie up in the strip club. If you were jealous of the looks them bitches were giving me, you shoulda just said something. Work it off in the gym. You're my boy. - B
-0xCAC6DAF7=Niko ，宝贝。你把Brucie丢在脱衣舞俱乐部了。你要是眼红那些贱人给我搞的场面，当时直说不就好了。多去健身房练练。你可是我哥们儿。 - B
+0xCAC6DAF7=Niko，宝贝。你把Brucie丢在脱衣舞俱乐部了。你要是眼红那些贱人给我搞的场面，当时直说不就好了。多去健身房练练。你可是我哥们儿。 - B
 
 ;0xD9ED7944=Where'd you go, man? I bought a magnum and charmed the shit out of them strippers. Probably gonna have a threesome with some later. If you'd stuck round you coulda watched. - B
 0xD9ED7944=你人呢，老兄？我要了份大瓶葡萄酒，那群舞女当场被我迷到神魂颠倒。待会儿可能还得来一个双飞。可惜你不在，本来你能亲眼看着的。 - B
@@ -24111,7 +24111,7 @@
 0xD77F3BD1=屁都看不见。给他们好好拍一张。 - X
 
 ;0xC8E39E9A=Yo money, sumthing's come up. Hit me at my crib coz i got work for y'all. $$$ - the X
-0xC8E39E9A=哟，老弟，有活来了。来我公寓找我，我这儿有活给你。$$$ - X
+0xC8E39E9A=哟，老弟，有活来了。来我家找我，我这儿有活给你。$$$ - X
 
 ;0x48E91EA3=That ain't Marlon! There another group near by? - the X
 0x48E91EA3=那个不是Marlon！附近还有别的人群聚集吗？ - X
@@ -24135,7 +24135,7 @@
 0x874B0E59=Francis
 
 ;0xCD810C88=Remember Niko - Wear a suit for the interview. Try Perseus in Algonquin. And don't forget to take a gun with you. - Francis
-0xCD810C88=记住，Niko－面试的时候要穿正装。去Algonquin的Perseus看看吧。身上别忘了带把枪。 - Francis
+0xCD810C88=记住，Niko－面试的时候要穿正装。去Algonquin的神之子服饰看看吧。身上别忘了带把枪。 - Francis
 
 ;0xBB9068A3=The blackmailer's number is 843-555-0124. - Francis
 0xBB9068A3=勒索者的电话是843-555-0124。 - Francis
@@ -24147,10 +24147,10 @@
 0xD82121C8=要是你想不到怎么把他引到窗边，打电话给545 555 0122找他。 - Francis
 
 ;0x023CF5FB=Remember Niko - Wear a smart pair of shoes. Try Perseus in Algonquin. Make sure you're packing some heat as well. - Francis
-0x023CF5FB=记住，Niko－穿双像样的鞋。去Algonquin的Perseus看看吧。身上务必要带把家伙。 - Francis
+0x023CF5FB=记住，Niko－穿双像样的鞋。去Algonquin的神之子服饰看看吧。身上务必要带把家伙。 - Francis
 
 ;0xEFD75130=Remember Niko - Wear a suit and a smart pair of shoes. Try Perseus in Algonquin. You'll need to pack some heat too, but don't go flashing it about until you meet Goldberg. - Francis
-0xEFD75130=记住，Niko－要穿正装和像样的鞋。去Algonquin的Perseus看看吧。身上还得带点家伙，前都别拿出来。 - Francis
+0xEFD75130=记住，Niko－要穿正装和像样的鞋。去Algonquin的神之子服饰看看吧。身上还得带点家伙，前都别拿出来。 - Francis
 
 ;0x1C9AAAB6=Niko - Meet me at the end of the pier at Castle Gardens. (NOTE: moved to 'secret' txtmsgs). - Francis
 0x1C9AAAB6=Niko－来Castle Gardens码头的末端找我。 (NOTE: moved to 'secret' txtmsgs). - Francis
@@ -24162,7 +24162,7 @@
 0x3906638D=Niko－上次你做得很好，我这里还有一些「警务工作」给你。 - Francis
 
 ;0x01435F2F=Ok Niko - I've set something up. Call me if you're getting a little heat from my cop buddies and I'll see what I can do. - Francis
-0x01435F2F=好了Niko－我这儿安排上了。要是你稍微有点被我的警察同僚盯上了就打给我，我会尽量想想办法的。 - Francis
+0x01435F2F=好了Niko，我都安排好了。你要是有点被我的同僚盯上了就联系我，我会尽量想想办法的。 - Francis
 
 ;0xA360A35B=Meet me at the station, Niko. Thought it might be nice for you to see the place from the good guy's side of the bars. - Francis
 0xA360A35B=来警局找我，Niko。我觉得让你从铁窗的外面见识下这地方也挺好的。 - Francis
@@ -24189,7 +24189,7 @@
 0x9A1133E5=U.L.P.C.
 
 ;0x2649408B=This is your target. Find him and take him out.
-0x2649408B=这是你的目标。找到他，然后做掉他。
+0x2649408B=这是你的目标。找到他，把他干掉。
 
 ;0x54069C09=PLACEHOLDER
 0x54069C09=PLACEHOLDER
@@ -24216,10 +24216,10 @@
 0xE59E30E0=Niko仔，我有路子弄到电话引爆的炸弹了，能派上用场－要就打电话。
 
 ;0x74D84F52=I told my brothers about ya. Got a big job planned. Put on a suit, a tie, and some good shoes and get over here. Costs a fucking shit load but the only place to go for that shit is Perseus in Algonquin.
-0x74D84F52=我跟我的哥哥们讲过你了。策划了票大的。西装革履打领带过来。是他妈有点贵，不过这些只在Algonquin的Perseus有卖。
+0x74D84F52=我跟我的哥哥们讲过你了。策划了票大的。西装革履打领带过来。是他妈有点贵，不过这些只在Algonquin的神之子服饰有卖。
 
 ;0x223A2A17=Niko, Gerry has been trying to get hold of you - its about your girl. Go see him in the can.
-0x223A2A17=Niko，Gerry一直在找你－是你女人的事。去号子里找他。
+0x223A2A17=Niko，Gerry一直在找你，是你女人的事。去号子里找他。
 
 ;0x50598655=Gerry needs to see you about getting some presents for your girl. Drop by the pen.
 0x50598655=Gerry想找你聊给你的女人送点礼物的事。去趟监狱。
@@ -24336,7 +24336,7 @@
 0x2B1955F7=Ray
 
 ;0x0FB8CEDC=Nicky - this might be of use. Look out for this guy, Alonzo. He's one of Benavidez's goons. He'll tell you what you need to know if you're persuasive. Ciao
-0x0FB8CEDC=Nicky，这个可能能用上。去找这个叫Alonzo的人。他是Benavidez的一个同伙。要是你能令他信服的话，他就会告诉你你需要的情报了。再见
+0x0FB8CEDC=Nicky，这个可能能用上。去找这个叫Alonzo的人。他是Benavidez的同伙之一。要是你能令他信服的话，他就会告诉你你需要的情报了。再见
 
 ;0xD0CC5104=Nicky, I need you to meet me and Phil at a depot in Normandy. Ciao
 0xD0CC5104=Nicky，我需要你到Normandy的一个仓库来找我和Phil。再见
@@ -24357,7 +24357,7 @@
 0x34ED18F0=Nicky，还有活给你做。你也知道，你做掉Teddy时候的那栋楼的保洁工作是我管的。我正在靠把他涂地的脑浆收拾干净赚钱。再见
 
 ;0x8DC44A9D=Nicky, we wanna keep an eye on you. Have you close. There's an apartment you're gonna use from now on in Alderney. Don't worry about your cousin sleepin' alone. He'll be safe. Ciao
-0x8DC44A9D=Nicky，我们想留意你一点，让你离我们近些。现在起Alderney的一间公寓可以给你用。别担心你的堂兄要一个人过夜，他不会有事的。再见
+0x8DC44A9D=Nicky，我们想对你多加留意，让你离我们近些。现在起Alderney的一间公寓归你用了。别担心你的堂兄要一个人过夜，他不会有事的。再见
 
 ;0x9B6E65F1=PLACEHOLDER
 0x9B6E65F1=PLACEHOLDER
@@ -24477,7 +24477,7 @@
 0x22EA4479=Jimmy
 
 ;0xB070388E=You did well last job - come see me. The Boss.
-0xB070388E=你上次做得很好－过来见我。 老板
+0xB070388E=你上次做得很好，过来见我。 老板
 
 ;0x65F0A384=PLACEHOLDER
 0x65F0A384=PLACEHOLDER
@@ -24741,7 +24741,7 @@
 0x60624B06=我不能接受跟你的那些下贱婊子分享你。你归她们了，去找她们吧。我们结束了。
 
 ;0x72ACEF9B=It hurts so much. So, so much. We're over, Niko....
-0x72ACEF9B=伤得太深了。太太太深了。我们结束了，Niko....
+0x72ACEF9B=伤得太深了。太太太深了。我们结束了，Niko...
 
 ;0x60394AD0=What does she have that I don't? Tell me! Tell me!!!! - Kiki
 0x60394AD0=我是哪里比不上她？告诉我啊！告诉我啊！！！！ - Kiki
@@ -25293,7 +25293,7 @@
 0xE2C0D4AB=Niko－来Castle Gardens码头的末端找我。
 
 ;0xD4FAB91F=If you're looking for work, call me. Use the public phone booth.
-0xD4FAB91F=如果你在找活儿干，打电话给我。用公共电话打。
+0xD4FAB91F=如果你在找活干，用公共电话联系我。
 
 ;0xC7331D90=Hey there, I think you were calling me about my car or something. Did we get cut off? If you're still interested call me between 9 in the morning and 8 at night. Gracie xx
 0xC7331D90=你好啊，就是你打给我咨询车子的事的吧。之前电话是断了吗？你要是还有兴趣的话，早上9点到晚上8点前都可以给我打电话。 Gracie xx
@@ -27015,7 +27015,7 @@
 0x2A969E02=~z~~x~赶紧上来，你个屌毛。
 
 ;0x6FE3A89F=~z~~x~Hey craphead, get in the car, my friend.
-0x6FE3A89F=~z~~x~嘿，猪头，上车吧，我的朋友。	
+0x6FE3A89F=~z~~x~嘿，猪头，上车吧，我的朋友。
 
 ;0x7E19C50B=~z~~x~Hello you free riding dog lover, get in.
 0x7E19C50B=~z~~x~你好啊，整天白嫖的狗东西，上来吧。
@@ -28803,7 +28803,7 @@
 0x1B670F80=~z~~x~贱人滚！别想进我们的店！
 
 ;0xD58783BA=~z~~x~I don't think so - you're not welcome in Perseus.
-0xD58783BA=~z~~x~不许进来，Perseus不欢迎你。
+0xD58783BA=~z~~x~不许进来，神之子服饰不欢迎你。
 
 ;0x4ABA6E1E=~z~~x~Oh, hell no, you're barred asshole.
 0x4ABA6E1E=~z~~x~噢，滚蛋，你这混蛋不许入内。
@@ -28824,19 +28824,19 @@
 0x878C60EE=~z~~x~记得再来找我啊。
 
 ;0x045B27D0=~z~~x~Hey there, welcome to Perseus.
-0x045B27D0=~z~~x~嘿，先生，欢迎光临Perseus。
+0x045B27D0=~z~~x~嘿，先生，欢迎光临神之子。
 
 ;0x1214C343=~z~~x~Hi, thanks for choosing Perseus.
-0x1214C343=~z~~x~嗨，感谢您选择Perseus。
+0x1214C343=~z~~x~嗨，感谢您选择神之子。
 
 ;0xE7826E1F=~z~~x~Hiya, welcome to the world of Perseus.
-0xE7826E1F=~z~~x~你好啊，欢迎来到Perseus的世界。
+0xE7826E1F=~z~~x~你好啊，欢迎来到神之子的世界。
 
 ;0xF59F0A58=~z~~x~Hello, thank you for visiting Perseus.
-0xF59F0A58=~z~~x~您好，Perseus感谢您的光顾。
+0xF59F0A58=~z~~x~您好，神之子服饰感谢您的光顾。
 
 ;0x4B06B526=~z~~x~Welcome to Perseus, I'll be your assistant today.
-0x4B06B526=~z~~x~欢迎光临Perseus，我是您的导购。
+0x4B06B526=~z~~x~欢迎光临神之子，我是您的导购。
 
 ;0x89E13B65=~z~~x~You're a fucking lunatic!
 0x89E13B65=~z~~x~你他妈神经病吧！
@@ -29067,7 +29067,7 @@
 0xDCA6DC04=~z~~x~这次就让她们从空中见识下龙心广场吧，兄弟？
 
 ;0xBF76E918=~z~~x~This is the life, ain't it girls? Flying over the city with a pair of rock hard studs.
-0xBF76E918=~z~~x~这才是生活啊，姑娘们。与两匹铁打的骏马在城市上空飞翔。
+0xBF76E918=~z~~x~这才是生活啊，姑娘。与两匹铁打的骏马在城市上空飞翔。
 
 ;0xEBE841F6=~z~~x~Something to tell your grandkids, man. You should go back, homie.
 0xEBE841F6=~z~~x~都可以讲给孙子孙女听了。该回去了，哥们儿。
@@ -29088,7 +29088,7 @@
 0xA86D95FF=~z~~x~哟，去三角大楼那边吧，Nicky。那里有点牛逼玩意给姑娘们看。
 
 ;0x4BFFD3E8=~z~~x~This is how it is when you roll with the big boys, hitting it hard. Let's go back, Nicky.
-0x4BFFD3E8=~z~~x~和纯爷们在一起就是这种感觉，超级稳健。可以回去了，Nicky。
+0x4BFFD3E8=~z~~x~和纯爷们在一起就是这种感觉，超稳健。可以回去了，Nicky。
 
 ;0x798770B5=~z~~x~Why don't we go to the Get a Life Building, NB?
 0x798770B5=~z~~x~要么这次去GetaLife大厦吧，NB？
@@ -29169,7 +29169,7 @@
 0x8B035F8F=~z~~x~俩姑娘这下终身难忘了，Nicky。她们不知道这是我们的日常生活。我们是赢家啊，兄弟。
 
 ;0x4C2AE1DF=~z~~x~That's it ladies. The show is over. All you get to look at is Brucie's body. Lucky you.
-0x4C2AE1DF=~z~~x~就到这里了，姑娘们。演出结束了。现在你们只需要看着Brucie的身体就行了，你们真走运。
+0x4C2AE1DF=~z~~x~就到这里了，姑娘们。演出结束了。现在只需要看着Brucie的身体就行了，你们真走运。
 
 ;0x70FEE207=~z~~x~Shit, homie. I'm starting to get bored of this chopper shit.
 0x70FEE207=~z~~x~操，哥们儿。直升机这玩意我都快乘腻了。
@@ -29274,7 +29274,7 @@
 0x9E046E2D=~z~~x~带大家去看幸福女神像*，那玩意老牛逼了。~n~(注：配音是Statue of Freedom，与字幕不符)
 
 ;0xB2FA4624=~z~~x~You ladies are much hotter than that bitch. Let's cruise back, Nicky.
-0xB2FA4624=~z~~x~你们二位可比那个鬼神性感多了。我们返航吧，Nicky。
+0xB2FA4624=~z~~x~你们二位比那尊鬼神性感多了。我们返航吧，Nicky。
 
 ;0x8806A443=~z~~x~Let's show these ladies some romantic shit. Prove that us alphas got a sensitive side too.
 0x8806A443=~z~~x~今天带两位女士看点浪漫的。让她们知道我们猛男也有感性的一面。

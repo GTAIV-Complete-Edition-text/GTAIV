@@ -153,7 +153,7 @@
 0x20B085F2=~z~或许是我们的机会...
 
 ;0x22C5EA5B=~z~Alright, I've got the truck.
-0x22C5EA5B=~z~好了，卡车我拿到了。
+0x22C5EA5B=~z~好了，我在卡车上了。
 
 ;0x22D1D485=~z~Niko, get rid of dear old Aiden...
 0x22D1D485=~z~Niko，干掉亲爱的老Aiden...
@@ -192,7 +192,7 @@
 0x27B1E5DF=DM3_MA
 
 ;0x27E191CF=~z~Okay, it looks like we've lost them. Take us over to the cliffs in Leftwood.
-0x27E191CF=~z~好了，看来我们甩掉他们了。带我们去Leftwood的悬崖。
+0x27E191CF=~z~好了，应该甩掉他们了。带我们去Leftwood的悬崖。
 
 ;0x28F8E8DE=DM3_XN
 0x28F8E8DE=DM3_XN
@@ -327,7 +327,7 @@
 0x4915B708=~z~Good, because I couldn't catch the prison van.
 
 ;0x4933D704=~z~We all got our demons...
-0x4933D704=~z~每个人心中都有一个恶魔...
+0x4933D704=~z~每个人心中都有恶魔...
 
 ;0x4A86D719=~z~Alright, Niko. Now that we lost 'em we gotta go out to the cliffs in Leftwood.
 0x4A86D719=~z~好了，Niko。既然已经甩掉了他们，我们就该去Leftwood的悬崖了。
@@ -372,10 +372,10 @@
 0x50F5294F=DM3_A_BA
 
 ;0x519168D7=~z~where he's been talking shit about me,
-0x519168D7=~z~他就是在那儿抹黑我的，
+0x519168D7=~z~他就是在那儿抹黑我的。
 
 ;0x52373A6E=~z~I'm getting screwed here, boys.
-0x52373A6E=~z~我这儿麻烦很大，小子。
+0x52373A6E=~z~我这儿有麻烦了，各位。
 
 ;0x540A5C1D=~z~Oh Jesus. You've come.
 0x540A5C1D=~z~Oh Jesus. You've come.
@@ -390,7 +390,7 @@
 0x58F4571F=~z~Someone who feels you should get what you deserve.
 
 ;0x58F473F4=~z~We've got rid of the unwanted attention. Now it's time for business. Get us to the cliffs in Leftwood.
-0x58F473F4=~z~我们已经摆脱了不想要的注意。现在该做正事了，带我们去Leftwood的悬崖。
+0x58F473F4=~z~我们已经摆脱了不需要的注意。现在该做正事了，带我们去Leftwood的悬崖。
 
 ;0x59F58555=DM3_XA
 0x59F58555=DM3_XA
@@ -567,7 +567,7 @@
 0x79C2DFF7=~z~Derrick, Packie is going to help me on this job. He's going to help me get Aiden O'Malley.
 
 ;0x7ABE2F81=~z~The cliffs of Leftwood then. Is there a boat coming or something? Where am I going?
-0x7ABE2F81=~z~Leftwood的悬崖是吧。那边是有船来接吗？我会去哪儿？
+0x7ABE2F81=~z~Leftwood的悬崖是吧。那边有船来接吗？我会去哪儿？
 
 ;0x7B359878=DM3_LB
 0x7B359878=DM3_LB
@@ -579,7 +579,7 @@
 0x7D862203=~z~所以你就觉得你也能卖了他？这是你能看见的最后一次日落了。好好享受吧...
 
 ;0x7EE9A2A1=~z~Great. They're leaving the old cop shop now, should be at the Booth Tunnel soon.
-0x7EE9A2A1=~z~好了。现在他们从老警局出发了，很快就能到Booth隧道了。
+0x7EE9A2A1=~z~好了。他们从老警局出发了，很快就会到Booth隧道。
 
 ;0x7FDA2FE1=DM3_LH
 0x7FDA2FE1=DM3_LH
@@ -828,10 +828,10 @@
 0xB97E021B=~z~Derrick？不就是他把我卖了的吗？
 
 ;0xBA1FC1A8=~z~I think we might have a problem here.
-0xBA1FC1A8=~z~我想我们大概是遇上麻烦了。
+0xBA1FC1A8=~z~我们大概是遇上麻烦了。
 
 ;0xBA8B2F32=~z~I knew that no matter how long I rotted in there, people on the outside world still remember me.
-0xBA8B2F32=~z~我就知道不论我要在里面烂上多久，外面总有人记着我的。
+0xBA8B2F32=~z~我就知道不论要在里面烂上多久，外面总有人记着我的。
 
 ;0xBAD1E28A=DM3_BB
 0xBAD1E28A=DM3_BB
@@ -915,7 +915,7 @@
 0xCD1F7145=~z~喂，Mitch，你能去看看这人想干嘛吗？
 
 ;0xCDA35562=~z~Shit, I don't even know who sent you guys. Who do I got to thank for springing me from the joint?
-0xCDA35562=~z~靠，我都不知道是谁派你们来的。我要感谢哪位大哥派人救我？
+0xCDA35562=~z~靠，都不知道你们是谁派的。我要感谢哪位大哥出手相助？
 
 ;0xCE35AAD5=~z~Take them guys down, Niko.
 0xCE35AAD5=~z~把他们都干掉，Niko。
@@ -972,7 +972,7 @@
 0xDBD9F1CF=~z~我们是替你的一个故交做这事的。
 
 ;0xDC2F0E9A=~z~We got to ditch this truck. It don't exactly blend in.
-0xDC2F0E9A=~z~我们得把这车处理了。这车太醒目了。
+0xDC2F0E9A=~z~我们得把囚车处理了。这样太显眼了。
 
 ;0xDCA64328=~z~Shit. The Aryan Brotherhood are going to be pissed, that's for damn sure. Sprung.
 0xDCA64328=~z~Shit. The Aryan Brotherhood are going to be pissed, that's for damn sure. Sprung.
@@ -1092,7 +1092,7 @@
 0xFD401943=~z~Trust the LCP-fucking-D to block the damn road.
 
 ;0xFF2F468C=~z~You'll find out who it was when we get there. In the mean time, shut the hell up buddy!
-0xFF2F468C=~z~等我们到地方后你就会知道是谁了。至于现在，麻烦您老先闭上嘴！
+0xFF2F468C=~z~到地方以后你就知道是谁了。至于现在，麻烦您老先闭上嘴！
 
 ;0xFF402550=DM3_WJ
 0xFF402550=DM3_WJ

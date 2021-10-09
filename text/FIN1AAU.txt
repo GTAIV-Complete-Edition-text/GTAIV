@@ -6,7 +6,7 @@
 0x03F7D48B=FIN1A_ZA
 
 ;0x04344013=~z~Well, commission or no commission, I ain't gonna starve.
-0x04344013=~z~不论是否加入委员会，我都不会饿死。
+0x04344013=~z~不论是否加入委员会，我都不能饿死。
 
 ;0x050880A4=~z~Well, at least I don't have to see that weasel Dimitri in the flesh.
 0x050880A4=~z~算了，至少我不用跟那个奸诈的Dimitri见面。
@@ -36,7 +36,7 @@
 0x086AAAF9=~z~快追上了。
 
 ;0x0A801663=~z~I'm out. This was the last one. I'm taking my money and staying out of this shit.
-0x0A801663=~z~我收手了。这就是最后一票。拿到分成以后我就远离这行了。
+0x0A801663=~z~我收手了，这是最后一票。拿到分成以后我就远离这行了。
 
 ;0x0B7657B9=FIN1A_A_PA
 0x0B7657B9=FIN1A_A_PA
@@ -339,7 +339,7 @@
 0x4B488CD9=~z~至少一见到Ray就能看穿他的本性，Dimitri随时可以跟他的挚友翻脸。
 
 ;0x4DCE1232=~z~Dimitri's giving the buyer the H while we pick up the money.
-0x4DCE1232=~z~Dimitri会把H交给买家，我们负责收钱。
+0x4DCE1232=~z~Dimitri会把白粉交给买家，我们负责收钱。
 
 ;0x4DD5A1C1=FIN1A_A_LA
 0x4DD5A1C1=FIN1A_A_LA
@@ -546,7 +546,7 @@
 0x86CB7445=100010100
 
 ;0x87CE05FB=~z~This is just a straightforward money pickup. Dimitri is gonna hand over the H on his end.
-0x87CE05FB=~z~这次就是个简单的收钱工作。Dimitri那边拿H交货，
+0x87CE05FB=~z~这次就是个简单的收钱工作。Dimitri那边拿白粉交货，
 
 ;0x881A2D46=FIN1A_A_HF
 0x881A2D46=FIN1A_A_HF
@@ -753,7 +753,7 @@
 0xB822CC47=FIN1A_A_KC
 
 ;0xB8713448=~z~I cannot say I have the same enthusiasm for this partnership. Have you given them the H?
-0xB8713448=~z~这次合作我反正是没你这么高兴。H你交出去了吗？
+0xB8713448=~z~这次合作我反正是没你这么高兴。白粉你交出去了吗？
 
 ;0xB9C77FF7=100
 0xB9C77FF7=100
@@ -771,7 +771,7 @@
 0xBCE15DE8=FIN1A_A_MA
 
 ;0xBD29B3A4=~z~He killed the guys instead of handing over the H. We should get out of here.
-0xBD29B3A4=~z~他杀了负责收货的人，没交付H。我们该跑了
+0xBD29B3A4=~z~他杀了负责收货的人，没交付白粉。我们该跑了
 
 ;0xBD5A042D=FIN1A_MB
 0xBD5A042D=FIN1A_MB
@@ -798,7 +798,7 @@
 0xBF9B3922=~z~听着，Pegorino先生。我都说过了，我跟他有...
 
 ;0xC00676A1=~z~We'll get a call from him when they have the stuff, then the buyers will hand over the funds.
-0xC00676A1=~z~货物交付以后他会给我们打电话，然后买家给我们结帐。
+0xC00676A1=~z~货物交付以后他会联系我们，然后买家给我们结帐。
 
 ;0xC1367A89=~z~Shit, we're screwed. They ain't gonna let us leave.
 0xC1367A89=~z~妈的，我们麻烦了。他们不会放我们走的。
@@ -849,7 +849,7 @@
 0xCC3B06CE=FIN1A_A_FA
 
 ;0xCDC7557A=~z~Do it - or you and me are gonna have a problem.
-0xCDC7557A=~z~去吧，否则你我会遇上麻烦的。
+0xCDC7557A=~z~去吧，不然我让你吃不了兜着走。
 
 ;0xCDDD559E=~z~I knew I could count on you.
 0xCDDD559E=~z~就知道你靠得住。
@@ -903,7 +903,7 @@
 0xD7E49CDB=~z~我们一起上，兄弟，跟上跟上。
 
 ;0xD89BE9BB=~z~No. I need you to get that H. I need the money.
-0xD89BE9BB=~z~不，我需要你去拿H，我需要钱。
+0xD89BE9BB=~z~不，我需要你去拿白粉，我需要钱。
 
 ;0xD992A967=~z~Then we're gonna get a call saying we're good to go.
 0xD992A967=~z~接到他的通知我们就去收钱。
@@ -927,7 +927,7 @@
 0xDD611D47=~z~我会尽力，我们尝试抓住他。
 
 ;0xDDF8FF57=~z~You know what? I thought, 'Why should we hand over the H for this price?'
-0xDDF8FF57=~z~说实话，我觉得吧，「这价钱把H交出去不是贱卖吗？」
+0xDDF8FF57=~z~说实话，我觉得吧，「这价钱把粉交出去不是贱卖吗？」
 
 ;0xDE94697A=FIN1A_A_IA
 0xDE94697A=FIN1A_A_IA
@@ -960,7 +960,7 @@
 0xE5788374=~z~现在我需要你。
 
 ;0xE69304BF=~z~I am going to think about Dimitri when we kill this man with our money.
-0xE69304BF=~z~杀了这个偷钱的以后我会考虑Dimitri的。
+0xE69304BF=~z~把钱抢回来后我会考虑Dimitri的事的。
 
 ;0xE696BC30=~z~Eyes up, Niko.
 0xE696BC30=~z~抬起头，Niko。

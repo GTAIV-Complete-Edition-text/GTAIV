@@ -12,7 +12,7 @@
 0x01AD3A7A=DM2_A_HA
 
 ;0x01E1217C=~z~Drop that chopper, Niko. Come on.
-0x01E1217C=~z~Drop that chopper, Niko. Come on.
+0x01E1217C=~z~打掉直升机，Niko。快。
 
 ;0x0236CCA2=DM2_EC
 0x0236CCA2=DM2_EC
@@ -21,7 +21,7 @@
 0x025B9892=~z~差不多该上舰了，Niko。
 
 ;0x029634B5=~z~A whole lot of money and a good Korean kid ain't around no more because of you.
-0x029634B5=~z~A whole lot of money and a good Korean kid ain't around no more because of you.
+0x029634B5=~z~就因为你，好好的钱跟朝鲜小子都没了。
 
 ;0x038967B2=DM2_XA
 0x038967B2=DM2_XA
@@ -42,7 +42,7 @@
 0x08113C60=~z~我、Bucky还有Aiden，我们都有相同的信念。
 
 ;0x094F4219=~z~Watch it, we're meant to be protecting Kim, not sinking him.
-0x094F4219=~z~Watch it, we're meant to be protecting Kim, not sinking him.
+0x094F4219=~z~注意点，我们要保护Kim，不是击沉他。
 
 ;0x0A5BBF92=~z~Nice one, me boy.
 0x0A5BBF92=~z~干得好，好小子。
@@ -57,7 +57,7 @@
 0x0B9A67A5=DM2_A_NB
 
 ;0x0CD422FF=~z~It's like fucking Cain and Abel the two of us. No wonder I turned into the wreck you see before ya.
-0x0CD422FF=~z~我们俩就像该隐跟亚伯。也难怪之前我会变成之前你见过的那副熊样。
+0x0CD422FF=~z~我们俩就像该隐跟亚伯*。也难怪我会变成你见过的那副熊样。~n~(圣经中的一对兄弟，该隐因嫉妒杀害了弟弟亚伯)
 
 ;0x0CDA35AA=~z~Shit, we let the poor kid down.
 0x0CDA35AA=~z~Shit, we let the poor kid down.
@@ -78,7 +78,7 @@
 0x0F321CF9=~z~Shit, I think he ain't gonna last much longer.
 
 ;0x1053D030=~z~Get over it, Derrick. He was a smuggler and the cash was fake. I'll see you around.
-0x1053D030=~z~Get over it, Derrick. He was a smuggler and the cash was fake. I'll see you around.
+0x1053D030=~z~让它过去吧，Derrick。他是个走私者，钱也是假钞。我们之后见。
 
 ;0x115C8AC1=~z~Jesus, I think this ship's about to go down with us in it.
 0x115C8AC1=~z~Jesus, I think this ship's about to go down with us in it.
@@ -165,7 +165,7 @@
 0x20BFADCA=~z~对，我是Kim。你就是Derrick？
 
 ;0x21C46142=~z~Come on, get 'em.
-0x21C46142=~z~Come on, get 'em.
+0x21C46142=~z~快点，干掉他们。
 
 ;0x2295C3C0=~z~I don't reckon he's gonna hold up much longer.
 0x2295C3C0=~z~I don't reckon he's gonna hold up much longer.
@@ -174,7 +174,7 @@
 0x22BF4ED5=~z~只能这么解释了，Niko。就没别的解释。
 
 ;0x235772EC=~z~Escorting a Korean contact of mine into the country with a boat load of fake hundred dollar bills.
-0x235772EC=~z~护送我的一个朝鲜联络人入境，他的船上装满了百元假钞。
+0x235772EC=~z~护送我的朝鲜联络人入境，他的船上装满了百元假钞。
 
 ;0x23812F0A=~z~I don't reckon this vessel will hold up much longer.
 0x23812F0A=~z~I don't reckon this vessel will hold up much longer.
@@ -186,7 +186,7 @@
 0x2444247A=~z~More on the coast. They really want to take us down.
 
 ;0x24B0589A=~z~Niko, me boy. Packie tells me you got some sea legs on ya.
-0x24B0589A=~z~Niko, me boy. Packie tells me you got some sea legs on ya.
+0x24B0589A=~z~Niko，我的孩子。Packie说你很会开船。
 
 ;0x25BA0026=~z~You got in me way.
 0x25BA0026=~z~You got in me way.
@@ -234,7 +234,7 @@
 0x303AF450=~z~你负责掌舵，Niko。
 
 ;0x30850C78=~z~You got a fucking death wish?
-0x30850C78=~z~You got a fucking death wish?
+0x30850C78=~z~你想要自杀吗？
 
 ;0x3090EA78=~z~So, is Francis the only explanation for this shit?
 0x3090EA78=~z~这些破事就只能怪到Francis头上吗？
@@ -243,7 +243,7 @@
 0x350A9413=~z~我的兄弟没看错人，Niko。
 
 ;0x3565341E=~z~They make these things in North Korea and have to ship 'em out here.
-0x3565341E=~z~他们在朝鲜造的这玩意，得先运过来才能用。
+0x3565341E=~z~他们在朝鲜印的，运过来了才能用。
 
 ;0x359A9383=DM2_JJ
 0x359A9383=DM2_JJ
@@ -279,13 +279,13 @@
 0x3ADA41B3=DM2_FA
 
 ;0x3AE84B59=~z~Thank you.
-0x3AE84B59=~z~Thank you.
+0x3AE84B59=~z~谢谢你。
 
 ;0x3B2477B1=~z~Think of them notes, Niko. Protect Kim's boat.
 0x3B2477B1=~z~Think of them notes, Niko. Protect Kim's boat.
 
 ;0x3B2B21C4=~z~What the fuck are you doing?
-0x3B2B21C4=~z~What the fuck are you doing?
+0x3B2B21C4=~z~你他妈在干嘛？
 
 ;0x3BD6F1C4=DM2_JG
 0x3BD6F1C4=DM2_JG
@@ -327,7 +327,7 @@
 0x41BF8401=DM2_OA
 
 ;0x4202133D=~z~Shit, Derrick. You sound almost like a human being. I might just see you there.
-0x4202133D=~z~Shit, Derrick. You sound almost like a human being. I might just see you there.
+0x4202133D=~z~妈的，Derrick。你这是活过来了啊。我们码头见吧。
 
 ;0x425C578E=~z~Get back in the boat.
 0x425C578E=~z~回船上来。
@@ -366,7 +366,7 @@
 0x4BF5516B=~z~Shit, look to the rear.
 
 ;0x4C9DEEC4=~z~Thanks.
-0x4C9DEEC4=~z~Thanks.
+0x4C9DEEC4=~z~谢了。
 
 ;0x4D56A592=010100100100
 0x4D56A592=010100100100
@@ -468,7 +468,7 @@
 0x5E2CE71F=~z~见识到了吧。
 
 ;0x5EC8E8FF=~z~You trying to fucking sink us?
-0x5EC8E8FF=~z~You trying to fucking sink us?
+0x5EC8E8FF=~z~你是想自沉吗？
 
 ;0x5ECAF716=~z~They're behind us.
 0x5ECAF716=~z~They're behind us.
@@ -483,7 +483,7 @@
 0x5FF57393=~z~我们要在海上碰头，就是这里。
 
 ;0x60434FBF=~z~Meet me at the jetty off a Rand Avenue. I need some help with something.
-0x60434FBF=~z~Meet me at the jetty off a Rand Avenue. I need some help with something.
+0x60434FBF=~z~来Rand大道边的码头找我，我需要你帮忙。
 
 ;0x60979F32=~z~That's all you can hope for in this God forsaken world. See you round, Niko.
 0x60979F32=~z~在这个被神抛弃的世界也只能指望这个了。回头见，Niko。
@@ -606,7 +606,7 @@
 0x8023A887=~z~这次他们拉你入伙了？
 
 ;0x80887FCD=~z~Don't worry Kim, we're looking after you.
-0x80887FCD=~z~Don't worry Kim, we're looking after you.
+0x80887FCD=~z~别担心，Kim，有我们保护你。
 
 ;0x809CB4E5=~z~My contact's at these coordinates.
 0x809CB4E5=~z~我的联络人在这个位置。
@@ -618,7 +618,7 @@
 0x8165F02D=~z~又一个移民来到了这座城市，想让自己有所成就。
 
 ;0x817C81B9=~z~Kim, we got you and them notes looked after.
-0x817C81B9=~z~Kim, we got you and them notes looked after.
+0x817C81B9=~z~Kim，我们会保护好你和钞票的。
 
 ;0x830C822A=~z~Shit, they off to the left.
 0x830C822A=~z~Shit, they off to the left.
@@ -639,7 +639,7 @@
 0x8A51F2A6=~z~别把这些钱全部花在给自己扎针上，Derrick。
 
 ;0x8A5D499A=~z~Doesn't look like the arrival of these notes was such a secret. Can you think of why that is?
-0x8A5D499A=~z~这些钞票的入境看来也不像是什么秘密嘛？你知道咋回事吗？
+0x8A5D499A=~z~走私钞票的消息好像保密不够到位嘛？你知道咋回事吗？
 
 ;0x8B694CB3=100
 0x8B694CB3=100
@@ -648,13 +648,13 @@
 0x8CD7DD3A=DM2_EF
 
 ;0x8CD896FF=~z~When you put it like that, he reminds me of a McReary. Good luck to him.
-0x8CD896FF=~z~你这么一说，倒让我想起某个McReary了。祝他好运。
+0x8CD896FF=~z~你这么一说，倒让我想起某个姓McReary的了。祝他好运。
 
 ;0x8DA56381=DM2_DC
 0x8DA56381=DM2_DC
 
 ;0x8DA61A08=~z~Fuck, imagine who'd turn up if it was real notes he was bringing into the country.
-0x8DA61A08=~z~Fuck, imagine who'd turn up if it was real notes he was bringing into the country.
+0x8DA61A08=~z~操，要是他船上的是真钞，来的人可能更多。
 
 ;0x8DC018B0=DM2_QA
 0x8DC018B0=DM2_QA
@@ -672,7 +672,7 @@
 0x917FDBDE=DM2_A_HC
 
 ;0x91E94C12=~z~Nice scam if you don't hit the same place too often. His boys are pulling the same gig over here.
-0x91E94C12=~z~只要不盯着一个地方洗就不会被发现。他的人要在这里来这套。
+0x91E94C12=~z~不盯着一个地方洗就不会被发现。他的人要在这里来这套。
 
 ;0x922105B0=~z~Get me back to land. I'll give you a call.
 0x922105B0=~z~Get me back to land. I'll give you a call.
@@ -690,7 +690,7 @@
 0x93D151F2=DM2_DL
 
 ;0x93F426A4=~z~Hold tight, Kim.
-0x93F426A4=~z~Hold tight, Kim.
+0x93F426A4=~z~坚持住，Kim。
 
 ;0x9442C543=100100100
 0x9442C543=100100100
@@ -702,7 +702,7 @@
 0x955326B7=~z~Port. Port. Look left.
 
 ;0x95C9AA53=~z~This is nothing, Kim. You and them notes are gonna be fine.
-0x95C9AA53=~z~This is nothing, Kim. You and them notes are gonna be fine.
+0x95C9AA53=~z~没问题的，Kim。你和钞票不会有事的。
 
 ;0x962BB31E=~z~Shit, man. I'm jonesing a bit. Bring me back to land.
 0x962BB31E=~z~靠，老兄，我有点犯瘾了。送我回陆地。
@@ -720,7 +720,7 @@
 0x9A67321C=~z~是不是因为他入境也是来掠夺美国好人的血汗钱的？
 
 ;0x9BD56723=~z~You were meant to use that on choppers. Not the guy we're protecting.
-0x9BD56723=~z~You were meant to use that on choppers. Not the guy we're protecting.
+0x9BD56723=~z~那玩意是用来打飞机的，不是打保护对象的。
 
 ;0x9D1A3D85=DM2_CA
 0x9D1A3D85=DM2_CA
@@ -777,7 +777,7 @@
 0xABC83582=~z~谢谢你，McReary先生。路上有点不太顺啊。
 
 ;0xACA70581=~z~I haven't felt safe since Aiden O'Malley went inside.
-0xACA70581=~z~自从Aiden O'Malley进了局子以后，我就没觉得安全过。
+0xACA70581=~z~自从Aiden O'Malley进局子以后，我就没觉得安全过。
 
 ;0xACD07B37=100
 0xACD07B37=100
@@ -810,7 +810,7 @@
 0xB3250E7D=~z~这次是个以前在爱尔兰跟我做过生意的朝鲜人。
 
 ;0xB47C9875=~z~Don't shoot Kim. The fucking notes might catch fire.
-0xB47C9875=~z~Don't shoot Kim. The fucking notes might catch fire.
+0xB47C9875=~z~别朝Kim打，钞票会着火的。
 
 ;0xB5AECCCB=~z~Shit, there goes pay day. At least he died rich, eh?
 0xB5AECCCB=~z~Shit, there goes pay day. At least he died rich, eh?
@@ -861,7 +861,7 @@
 0xC05418F2=DM2_IH
 
 ;0xC0F6DFDF=~z~Yeah, got a bit hairy out there. Good thing you have your sea legs.
-0xC0F6DFDF=~z~确实，是出了点小意外。还好你不会晕船。
+0xC0F6DFDF=~z~确实，出了点小意外。还好你不会晕船。
 
 ;0xC1318498=DM2_NA
 0xC1318498=DM2_NA
@@ -942,7 +942,7 @@
 0xD0CA285A=~z~我有点晕船了，Niko。送我回陆地。
 
 ;0xD40745C9=~z~Sink those bastards.
-0xD40745C9=~z~Sink those bastards.
+0xD40745C9=~z~干翻这帮混蛋。
 
 ;0xD43AB1D1=~z~Sure, I been telling a few people about this, but, hell, I smell a rat.
 0xD43AB1D1=~z~的确，我有跟别人说过这事。不过，妈的，肯定是有人泄密。
@@ -978,7 +978,7 @@
 0xDDBA3B1E=100
 
 ;0xDE7367C6=~z~They shouldn't a messed with you.
-0xDE7367C6=~z~他们就不该来惹你。
+0xDE7367C6=~z~他们就不该招惹你。
 
 ;0xDF119754=DM2_A_CA
 0xDF119754=DM2_A_CA
@@ -1017,7 +1017,7 @@
 0xE562E4C5=~z~Dead ahead, me boy.
 
 ;0xE58672A4=~z~Fuck, imagine who'd turn up if it was real notes he was bringing into the country.
-0xE58672A4=~z~Fuck, imagine who'd turn up if it was real notes he was bringing into the country.
+0xE58672A4=~z~操，要是他船上的是真钞，来的人可能更多。
 
 ;0xE69A7CCB=DM2_DM
 0xE69A7CCB=DM2_DM

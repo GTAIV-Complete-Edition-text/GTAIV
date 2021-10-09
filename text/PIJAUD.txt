@@ -123,7 +123,7 @@
 0x297DEA35=SFX_PAUSE_2000
 
 ;0x2A529BCC=~z~I just took some photos. But, yeah. How you doing now, anyway? You leave that bitch?
-0x2A529BCC=~z~我只是拍了几张照片。但我还记得的。~n~说起来你最近好吗？离开那个贱人了吗？
+0x2A529BCC=~z~我只是拍了几张照片，但我还记得你。~n~说起来你最近好吗？离开那个贱人了吗？
 
 ;0x2BB78DD0=~z~Yo, Jeffy. I don't like you being treated like this.
 0x2BB78DD0=~z~哟，Jeffy。我不喜欢你被这么对待。
@@ -141,7 +141,7 @@
 0x30CF57CE=PIJ_WC
 
 ;0x31F22BE9=~z~After all I've done for that tramp, whore. Ah!
-0x31F22BE9=~z~我为她付出那么多，这个荡妇，淫娃。啊！
+0x31F22BE9=~z~我为她付出那么多，这个荡妇、淫娃。啊！
 
 ;0x33972F47=~z~My lovely bride, the mother of my son is up there, right now,
 0x33972F47=~z~我的可爱新娘，孩子他妈现在就在那上面，
@@ -306,7 +306,7 @@
 0x6F0793B2=~z~对。
 
 ;0x6F9B4A04=~z~We've been through some shit together. Didn't we?
-0x6F9B4A04=~z~我们曾经患难与共过，不是吗？
+0x6F9B4A04=~z~我们患难与共过，不是吗？
 
 ;0x6FB0AA4E=~z~Yeah, Jeff really did it this time. Jeff went too far. Jeff's been a bad boy. A really bad boy.
 0x6FB0AA4E=~z~对，Jeff这次真下手了。Jeff做过头了。Jeff是个坏孩子，真真正正的坏孩子。
@@ -342,7 +342,7 @@
 0x7EFF826D=PIJ_WH
 
 ;0x7EFFC525=~z~Meet me at the garage off Silicon Street at the north east corner of Middle Park.
-0x7EFFC525=~z~到Silicon街的停车场来见我，中央公园东北角那边。
+0x7EFFC525=~z~来Silicon街的停车场找我，中央公园东北角那边。
 
 ;0x7F57CB91=~z~You've got to calm down.
 0x7F57CB91=~z~你一定要冷静。
@@ -531,7 +531,7 @@
 0xBDACFE9A=~z~在跟那个男人好上的瞬间，她就把自己捅死了。谢了。
 
 ;0xBDEFA046=~z~Fuckin' shit.
-0xBDEFA046=~z~烂出翔来了。
+0xBDEFA046=~z~烂出屎来了。
 
 ;0xC067E349=010100100
 0xC067E349=010100100

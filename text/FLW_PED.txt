@@ -18,7 +18,7 @@
 0x4C277B40=跟踪~r~毒贩~s~找到供货商，不要攻击他。
 
 ;0x541B633B=~s~Lose your wanted level.
-0x541B633B=~s~降低你的通缉度。
+0x541B633B=~s~摆脱通缉。
 
 ;0x55BA3C27=~r~The dealer got away.~s~
 0x55BA3C27=~r~毒贩逃走了。~s~
@@ -45,7 +45,7 @@
 0x9A667113=破坏~g~门锁~s~打开房门。
 
 ;0xA305A903=Follow the ~r~dealer~s~ to his supplier on foot. Stay behind him and try not to be seen.
-0xA305A903=步行跟踪~r~毒贩~s~到其供货商处。跟在他后面，别被他发现。
+0xA305A903=步行跟踪~r~毒贩~s~找到供货商。跟在他后面，别被他发现。
 
 ;0xA89F8D85=Shoot out the door lock to gain access to the room.
 0xA89F8D85=射烂门锁进入房间。

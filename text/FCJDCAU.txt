@@ -27,13 +27,13 @@
 0x4E248A09=~z~抱歉。
 
 ;0x5E0B29D6=~z~Boy, me drink too much, you know, rasta.
-0x5E0B29D6=~z~兄弟，我喝多了，懂吗，好兄弟。
+0x5E0B29D6=~z~兄弟，我喝多了懂吗，好兄弟。
 
 ;0x667B2973=FCJ2_JACOB_DRUNK_3_CA
 0x667B2973=FCJ2_JACOB_DRUNK_3_CA
 
 ;0x6ED9A7D1=~z~You know me man, me hate de car, and de... and de drinking, and de driving ting man.
-0x6ED9A7D1=~z~知道吗，好兄弟，我讨厌车，也讨厌...也讨厌喝酒，还有开车。
+0x6ED9A7D1=~z~知道吗，好兄弟，我讨厌车，也讨厌喝酒，还有开车。
 
 ;0x6F755977=100010
 0x6F755977=100010
@@ -45,7 +45,7 @@
 0x7E08A0A8=FCJ2_JACOB_DRUNK_4_DB
 
 ;0x8497F6EF=~z~Me head spinning, me stomach turning, me all pyoua pyoua, me can't take it easy.
-0x8497F6EF=~z~我的头很晕，我的胃很不舒服，我飘啊飘啊的，轻松不下来。
+0x8497F6EF=~z~我头很晕，胃不舒服，人飘啊飘啊的，放松不下来。
 
 ;0x86260A60=~z~Sure. Hang in there.
 0x86260A60=~z~当然，坚持住。
@@ -60,7 +60,7 @@
 0x9341FCF2=FCJ2_JACOB_DRUNK_2_BE
 
 ;0x963F087C=~z~Me all mud up, me back to front, de world is turning, gwan wrong way.
-0x963F087C=~z~我们都烂醉如泥，我前后不分，世界在乱转，方向不太对。
+0x963F087C=~z~我烂醉如泥，前后不分。天旋地转，全乱套了。
 
 ;0xA2A3E8B5=FCJ2_JACOB_DRUNK_1_AD
 0xA2A3E8B5=FCJ2_JACOB_DRUNK_1_AD
@@ -69,7 +69,7 @@
 0xA49F20B4=FCJ2_JACOB_DRUNK_2_BD
 
 ;0xA4F813F5=~z~Mek we shut up now, Niko, and man, me wonder in peace why you have three heads all of a sudden.
-0xA4F813F5=~z~现在闭嘴吧，Niko。还有兄弟，我有点想知道你为什么突然会有三个脑袋。
+0xA4F813F5=~z~现在闭嘴吧，Niko。我想知道你怎么突然长了三个脑袋。
 
 ;0xA879ACF1=~z~No problem.
 0xA879ACF1=~z~没关系。
@@ -84,7 +84,7 @@
 0xB9A6A213=FCJ2_JACOB_DRUNK_4_DA
 
 ;0xBC2CC276=~z~I remember - I didn't realize you couldn't handle a drink.
-0xBC2CC276=~z~我想起来了，我忘了你酒量不好了。
+0xBC2CC276=~z~我想起来了，忘记你酒量不好了。
 
 ;0xC1B4907F=100010100010100
 0xC1B4907F=100010100010100
@@ -99,5 +99,5 @@
 0xE8182C35=~z~抱歉，Niko，其实我...酒量不太好。
 
 ;0xFB79D2F0=~z~So it is man. You know, say me are mash up man, me mash up, just mek me cry in peace, man.
-0xFB79D2F0=~z~确实是，兄弟。你也知道，就算我们被捣烂了吧，兄弟，被捣烂了，痛快哭一场，兄弟。
+0xFB79D2F0=~z~确实是，兄弟。就算我们被捣烂了吧，被捣烂了。让我痛快哭一场，兄弟。
 
