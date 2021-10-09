@@ -177,7 +177,7 @@
 0x6AA167B5=FCR3_MAKE_IT_GN
 
 ;0x6B417632=~z~That is the whole meaning of the word. There's no risk in what I'm doing.
-0x6B417632=~z~这就是世界的意义。我做的事情没有风险。
+0x6B417632=~z~有风险才叫赌博，我做的事情没有风险。
 
 ;0x6BFA59C4=FCR3_MAKE_IT_GT
 0x6BFA59C4=FCR3_MAKE_IT_GT
@@ -189,10 +189,10 @@
 0x6E944DE4=~z~你还在挥霍我这样赚来的钱。
 
 ;0x6FE43E63=~z~She'd have to be to deal with my pig of a father.
-0x6FE43E63=~z~可惜她必须要处理我的猪头父亲的后事。
+0x6FE43E63=~z~可惜她必须要处理猪头父亲的后事。
 
 ;0x702427DB=~z~Niko Bellic - still likes Mila Tadic.
-0x702427DB=~z~Niko Bellic－依然爱着Mila Tadic。
+0x702427DB=~z~Niko Bellic依然爱着Mila Tadic。
 
 ;0x70A10B1C=~z~The Old Country stopped being home for me when Mama was taken from me in the war.
 0x70A10B1C=~z~当战争从我身边夺走妈妈时，故国就不再是我的家了。
@@ -240,7 +240,7 @@
 0x887A6452=~z~现在管理这座城市的老白男，
 
 ;0x88CE1587=~z~You are the man I wanted to be, Roman - happy, kind and a good person.
-0x88CE1587=~z~你就是我想成为的人，Roman，开心、善良、正直的人。
+0x88CE1587=~z~你就是我想成为的人，Roman。开心、善良、正直的人。
 
 ;0x88EAA8C8=FCR3_GAMBLING_EC
 0x88EAA8C8=FCR3_GAMBLING_EC
@@ -294,10 +294,10 @@
 0x9A9CE1DB=FCR3_CONV10_OJ
 
 ;0x9ADB8914=~z~Alright Mr. I-know-the-history-of-this-city, what is it that you want?
-0x9ADB8914=~z~好吧，很懂本市历史先生，那你想要什么？
+0x9ADB8914=~z~好吧，本市历史懂哥，那你想要什么？
 
 ;0x9CF563C4=~z~My mother would be here if she was still alive. She was such a strong woman.
-0x9CF563C4=~z~要是母亲还活着，她也会来这儿。她是一个很坚强的女性。
+0x9CF563C4=~z~要是我母亲还活着，她也会来这儿。她是一个很坚强的女性。
 
 ;0x9D619965=~z~That is very kind of you, cousin, but you would be the only one who was sorry that he died.
 0x9D619965=~z~你真善良，堂弟，但你应该是唯一一个会为他的死感到遗憾的人了。
@@ -417,7 +417,7 @@
 0xC08B7F9C=FCR3_CONV12_PC
 
 ;0xC17463C9=~z~My gambling problem is under control.
-0xC17463C9=~z~我的赌博毛病已经得到控制了。
+0xC17463C9=~z~我的赌瘾已经得到控制了。
 
 ;0xC1C8D92F=FCR3_CONV12_PL
 0xC1C8D92F=FCR3_CONV12_PL
@@ -495,7 +495,7 @@
 0xD578F92E=FCR3_MAKE_IT_GE
 
 ;0xD5B50A0B=~z~We know this. At least they didn't fuck us up though.
-0xD5B50A0B=~z~我们都知道，至少他们没把我俩折腾坏。
+0xD5B50A0B=~z~我们都知道。至少他们没把我俩折腾坏。
 
 ;0xD60C55F1=~z~What about you?
 0xD60C55F1=~z~那你呢？
@@ -573,7 +573,7 @@
 0xE85C2F61=FCR3_MOTHER_FA
 
 ;0xE9B825D8=~z~They can shoot you in the hot tub.
-0xE9B825D8=~z~可以让他们拍你泡浴缸。
+0xE9B825D8=~z~给你来个浴缸特写。
 
 ;0xEB01D21D=FCR3_CONV14_QB
 0xEB01D21D=FCR3_CONV14_QB
@@ -609,7 +609,7 @@
 0xF47300FB=FCR3_GAMBLING_EB
 
 ;0xF4D76EFF=~z~No. I will go on forever. This is my curse.
-0xF4D76EFF=~z~不，我会一直这样，这是我的诅咒。
+0xF4D76EFF=~z~不会，我会一直这样，这是我的诅咒。
 
 ;0xF569B929=~z~What do you mean?
 0xF569B929=~z~你什么意思？

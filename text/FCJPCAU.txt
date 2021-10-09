@@ -1,7 +1,4 @@
-﻿;注：
-;1.含Beta文本 未翻译 无视即可
-
-[FCJPCAU]
+﻿[FCJPCAU]
 ;0x001AA9F4=~z~Mek we play pool again? So soon? Nah man.
 0x001AA9F4=~z~又打台球？这么快？算了兄弟。
 
@@ -21,7 +18,7 @@
 0x044A98B5=~z~好，一会儿见，Jacob。
 
 ;0x04DAB7AC=~z~Nah man, we went drinking the other day, man. Maybe a next time.
-0x04DAB7AC=~z~算了兄弟，前两天才刚喝过，兄弟。改天吧。
+0x04DAB7AC=~z~算了兄弟，前两天才刚喝过。改天吧。
 
 ;0x04FAC1D1=~z~Again? What's wrong with you, Niko? Him love the skettels y'know! Maybe later.
 0x04FAC1D1=~z~又来？你有什么毛病，Niko？也太喜欢大屁屁了吧！改天吧。
@@ -42,13 +39,13 @@
 0x0833CAF1=FCJ_ACT_CALL_DRINK_YES
 
 ;0x0A7B43C2=~z~Why don't you and me hit up a gentlemen's club?
-0x0A7B43C2=~z~要么我们去一趟绅士的俱乐部？
+0x0A7B43C2=~z~要么我们去一趟绅士俱乐部？
 
 ;0x0B1071CE=~z~Yeah man, me hungry, man. Me need some food. Pick me up in about a hour.
-0x0B1071CE=~z~好啊，兄弟，我饿了，兄弟。是得吃点。一小时内来接我。
+0x0B1071CE=~z~好啊，兄弟，我饿了。是得吃点。一小时内来接我。
 
 ;0x0DE3FCD6=~z~Niko? Me can't hear from you. Me tink you inna trouble or something?
-0x0DE3FCD6=~z~Niko？你很久没给我打电话了。你是不是遇上什么麻烦了？
+0x0DE3FCD6=~z~Niko？你很久没联系我了。是不是遇上麻烦了？
 
 ;0x0FAA0062=~z~Niko, me think you gwan away, man. You haven't called in a long time.
 0x0FAA0062=~z~Niko，我以为你走了，兄弟。你很久没打过来了。
@@ -63,7 +60,7 @@
 0x10E186EB=SFX_MACHINE_BEEP
 
 ;0x11DC4D77=~z~Nah man, did we nuh just play, man? Maybe later.
-0x11DC4D77=~z~算了兄弟，我们不是刚打过吗，兄弟？下次吧。
+0x11DC4D77=~z~算了兄弟，我们不是刚打过吗？下次吧。
 
 ;0x12D4A453=FCJ_ACT_CALL_POOL_YES
 0x12D4A453=FCJ_ACT_CALL_POOL_YES
@@ -78,7 +75,7 @@
 0x1541C3A5=FCJ_ACT_CALL_POOL_NO_GENERAL
 
 ;0x162518CB=~z~Mek we go the strip club? Nah, ram goat.
-0x162518CB=~z~去不去脱衣舞俱乐部？算了吧。
+0x162518CB=~z~一起去脱衣舞俱乐部？算了吧。
 
 ;0x16BE79E2=100
 0x16BE79E2=100
@@ -99,7 +96,7 @@
 0x1B7660AB=~z~想打台球啊？改天再说吧？
 
 ;0x1C38E73D=~z~I feel like checking some girls out. You want to go to a strip club with me?
-0x1C38E73D=~z~我想去找几个妞，你想和我一起去脱衣舞俱乐部吗？
+0x1C38E73D=~z~我想去找几个妞，你想一起去脱衣舞俱乐部吗？
 
 ;0x1D5EDC2B=~z~Me man still alive here, rasta?
 0x1D5EDC2B=~z~我的哥们还活着啊，好兄弟？
@@ -111,7 +108,7 @@
 0x1FD2D9B3=~z~你好，Jacob。
 
 ;0x21D6870C=~z~No pool right now - mek we play a lickle later or something.
-0x21D6870C=~z~现在就不打台球了，过段时间再打吧。
+0x21D6870C=~z~现在打不了台球，过段时间再打吧。
 
 ;0x2389068B=010
 0x2389068B=010
@@ -135,7 +132,7 @@
 0x28307E57=~z~你就知道喝酒，兄弟，改天再说吧。
 
 ;0x2962BF46=~z~Me can't go look pon some umoden right now y'know, ram goat. Maybe later.
-0x2962BF46=~z~我现在没法去看什么脱衣舞好吧，没空。下次吧。
+0x2962BF46=~z~我现在没空看脱衣舞好吧，兄弟。下次吧。
 
 ;0x2998F775=100
 0x2998F775=100
@@ -165,7 +162,7 @@
 0x2DD73330=100100100
 
 ;0x300993A6=~z~Nah, man. All ya wanna do is full me belly up, man - maybe later.
-0x300993A6=~z~不了，兄弟。你就想填饱我的肚子，兄弟。改天吧。
+0x300993A6=~z~不了，兄弟。你就想填饱我的肚子。改天吧。
 
 ;0x32F14F1E=~z~Sure, rasta - pick me up in about a hour.
 0x32F14F1E=~z~当然，好兄弟。一小时内来接我。
@@ -177,7 +174,7 @@
 0x36E18279=~z~能不能来打个台球？
 
 ;0x371B6A7A=~z~You wanna get something to eat?
-0x371B6A7A=~z~你想出来吃点什么吗？
+0x371B6A7A=~z~想出来吃点什么吗？
 
 ;0x38A1A5A2=FCJ_ACT_CALL_LIKEYES
 0x38A1A5A2=FCJ_ACT_CALL_LIKEYES
@@ -186,7 +183,7 @@
 0x3A31A474=010
 
 ;0x3ABAB8D4=~z~No, I and I too busy for pool just now, y'know. Call me later or something.
-0x3ABAB8D4=~z~不，我现在很忙，没空打台球好吧。之后再打给我。
+0x3ABAB8D4=~z~不，我现在忙得没空打台球好吧。之后再打给我。
 
 ;0x3BED645B=~z~Maybe later, ram goat. Me too busy for that right now.
 0x3BED645B=~z~下次吧，老兄。我现在太忙了。
@@ -201,7 +198,7 @@
 0x3FC5AE56=~z~你想和我去脱衣舞俱乐部吗？去那儿放松一下...
 
 ;0x447A4C53=~z~No, star. Me a lickle busy, man. Call me later.
-0x447A4C53=~z~不了，兄弟。我有点忙，兄弟。之后再打过来吧。
+0x447A4C53=~z~不了，兄弟。我有点忙。之后再打过来吧。
 
 ;0x44CD6547=~z~Sure, me hungry, man. Just pick me up.
 0x44CD6547=~z~好啊，我刚好饿了，兄弟。来接我吧。
@@ -216,10 +213,10 @@
 0x45C487CC=~z~你想出来吃顿饭吗？
 
 ;0x48A52600=~z~You wanna play some pool, man?
-0x48A52600=~z~你想来打局台球吗，兄弟？
+0x48A52600=~z~你想来打台球吗，兄弟？
 
 ;0x48AE4310=~z~Nah, breda - me not have time for deal with the I y'know, still vexed with I y'know, star, for real. Call me back after me done fe? Let me relax or something.
-0x48AE4310=~z~不了，兄弟。我没空整这个，现在还气着好吧，真的。过段时间再来找我好吧？先让我歇一歇。
+0x48AE4310=~z~不了，兄弟。没空整这个，现在还气着好吧，真的。过段时间再找我好吧？先让我歇一歇。
 
 ;0x4988E479=FCJ_ACT_PLJ_CALL_EAT_CANCEL
 0x4988E479=FCJ_ACT_PLJ_CALL_EAT_CANCEL
@@ -243,7 +240,7 @@
 0x51003A02=FCJ_ACT_PLJ_CALL_DRINK
 
 ;0x5181D050=~z~Okay, no problem. Another time.
-0x5181D050=~z~好的，没问题。下次吧。
+0x5181D050=~z~好的，没问题。下次再说。
 
 ;0x51E587AA=FCJ_ACT_CALL_EAT_NO_GENERAL
 0x51E587AA=FCJ_ACT_CALL_EAT_NO_GENERAL
@@ -255,13 +252,13 @@
 0x52C6505C=010
 
 ;0x53972371=~z~You wanna get some food, man?
-0x53972371=~z~想来搓一顿吗？
+0x53972371=~z~想来搓一顿吗，兄弟？
 
 ;0x54545A59=~z~Maybe later, star.
 0x54545A59=~z~下次吧，兄弟。
 
 ;0x54BC53B6=~z~I'm bored. You got time to go to a show?
-0x54BC53B6=~z~我很无聊，你有空去看表演吗？
+0x54BC53B6=~z~我很无聊，有空去看表演吗？
 
 ;0x553DF660=FCJ_ACT_PLJ_CALL_HILIKE
 0x553DF660=FCJ_ACT_PLJ_CALL_HILIKE
@@ -285,7 +282,7 @@
 0x5948FD77=~z~对，我很忙，以后再打过来。
 
 ;0x5B05E7BF=~z~Nah man, me not take no more disrespect from you, man. Just call me back after me relax or something.
-0x5B05E7BF=~z~不了，兄弟。不是我不尊重你，兄弟。等我休息好了再找我出去吧。
+0x5B05E7BF=~z~不了，兄弟。不是我不尊重你，等我休息好了再找我吧。
 
 ;0x5C0F8F86=FCJ_ACT_PLJ_CALL_LIFT_CANCEL
 0x5C0F8F86=FCJ_ACT_PLJ_CALL_LIFT_CANCEL
@@ -297,7 +294,7 @@
 0x5C56351A=~z~好啊，干嘛不呢？一个小时内来接我。
 
 ;0x612A579F=~z~Yeah, man. Pick me up inna my place inna one hour.
-0x612A579F=~z~好啊，兄弟。一小时内来我地方接我。
+0x612A579F=~z~好啊。一小时内来我地方接我。
 
 ;0x61ED6E18=~z~You want to go a show or something?
 0x61ED6E18=~z~你想去看个表演吗？
@@ -309,7 +306,7 @@
 0x63EAF986=~z~不行，我现在没法来玩飞镖，兄弟，下次吧。
 
 ;0x6642613A=~z~Any interest in playing pool?
-0x6642613A=~z~有兴趣打个台球吗？
+0x6642613A=~z~有兴趣打台球吗？
 
 ;0x6710420C=FCJ_ACT_PLJ_CALL_POOL
 0x6710420C=FCJ_ACT_PLJ_CALL_POOL
@@ -333,7 +330,7 @@
 0x770F62A1=FCJ_ACT_CALL_STRIP_NO_GENERAL
 
 ;0x774AB712=~z~Yeah man, me asleep man. Call me back 'bout two o'clock, seen?
-0x774AB712=~z~对兄弟，我睡了，兄弟。两点左右再打过来吧，懂？
+0x774AB712=~z~对兄弟，我睡了。两点左右再打过来吧，懂？
 
 ;0x780B09B6=~z~I won't be making the trip to the skin club, Jacob. I'm having a few problems.
 0x780B09B6=~z~我没法去脱衣舞俱乐部了，Jacob。我遇上了点麻烦。
@@ -345,7 +342,7 @@
 0x7BD76462=~z~算了，兄弟，下次吧。
 
 ;0x7F0D5E97=~z~Jacob, listen, I'm sorry, but I ain't going to be able to go out drinking.
-0x7F0D5E97=~z~Jacob，听着，我很抱歉，但是我没法来喝酒了。
+0x7F0D5E97=~z~Jacob，听着，我很抱歉，但我没法来喝酒了。
 
 ;0x821A90B1=010
 0x821A90B1=010
@@ -360,16 +357,16 @@
 0x851041FA=~z~又来？这么快？兄弟，下次吧。
 
 ;0x8511498B=~z~Why not? Pick me up in about a hour - me play.
-0x8511498B=~z~何不呢？一小时内来接我，我来。
+0x8511498B=~z~何不呢？一小时内来接我吧。
 
 ;0x85694A7C=~z~So, you got any interest in a game of darts?
 0x85694A7C=~z~有没有兴趣来投局飞镖？
 
 ;0x87601EDE=~z~Great - see you soon.
-0x87601EDE=~z~好，一会儿见。
+0x87601EDE=~z~好，待会儿见。
 
 ;0x87E96793=~z~Did we nuh just play arrows?
-0x87E96793=~z~我们不是刚玩过飞镖吗？
+0x87E96793=~z~不是刚玩过飞镖吗？
 
 ;0x8AECC329=~z~No problem, let's play soon.
 0x8AECC329=~z~没问题，我们以后再出去吧。
@@ -402,7 +399,7 @@
 0x91263B5D=010
 
 ;0x95A980DC=~z~Me a lickle bit busy right now y'know, breda. Maybe later.
-0x95A980DC=~z~我现在有点忙，你也懂，兄弟。改天吧。
+0x95A980DC=~z~我现在有点忙好吧，兄弟。改天吧。
 
 ;0x96DEA935=FCJ_ACT_CALL_DARTS_YES
 0x96DEA935=FCJ_ACT_CALL_DARTS_YES
@@ -411,10 +408,10 @@
 0x97335250=FCJ_ACT_PLJ_CALL_MEDLIKE
 
 ;0x98522981=~z~You wanna have a drink man?
-0x98522981=~z~来喝一杯吗，兄弟？
+0x98522981=~z~想来喝一杯吗，兄弟？
 
 ;0x989B43BE=~z~Yeah man, everything cris now, ye done know. Pick me up later, rudeboy.
-0x989B43BE=~z~好了，兄弟，现在都过去了，都结束了。有空记得找我，兄弟。
+0x989B43BE=~z~好啊，兄弟，现在我刚好有空。待会儿过来接我，兄弟。
 
 ;0x99A7436C=~z~Excellent - I am on my way, Jacob.
 0x99A7436C=~z~很好，我这就来，Jacob。
@@ -432,19 +429,19 @@
 0x9D613704=~z~你想来吃一顿吗？
 
 ;0x9DCD4F2A=~z~Alright, thanks for that, yeah? Me apprieciate that, yeah, yeah, uhuh, yeah alright, cool.
-0x9DCD4F2A=~z~好啊，谢谢你啊。我很感激，对对，呃，对的没错。
+0x9DCD4F2A=~z~好啊，谢谢你啊。我很感激，对对，嗯，对的没错。
 
 ;0x9EC7A6C1=~z~Okay, man, pick me up in about a hour.
 0x9EC7A6C1=~z~好的兄弟，一小时内来接我。
 
 ;0xA2EFDA94=~z~You got time for a game of pool?
-0xA2EFDA94=~z~有空来打局台球吗？
+0xA2EFDA94=~z~有空来打台球吗？
 
 ;0xA495F2E7=100
 0xA495F2E7=100
 
 ;0xA5C44465=~z~Wanna hang out, have a drink or something?
-0xA5C44465=~z~要不要出来走走，去喝一杯之类的？
+0xA5C44465=~z~出来走走吗，喝一杯啥的？
 
 ;0xA5F50520=~z~No worries, man - everything cris.
 0xA5F50520=~z~没关系，兄弟。在所难免嘛。
@@ -486,7 +483,7 @@
 0xB8ADFB78=010
 
 ;0xB8DEB166=~z~You wanna play some darts?
-0xB8DEB166=~z~你想玩局飞镖吗？
+0xB8DEB166=~z~你想玩飞镖吗？
 
 ;0xB8EC77ED=FCJ_ACT_CALL_SHOW_YES
 0xB8EC77ED=FCJ_ACT_CALL_SHOW_YES
@@ -501,7 +498,7 @@
 0xBAB925C9=010
 
 ;0xBAC7A4AE=~z~Nah, man - maybe later, man. Me full up.
-0xBAC7A4AE=~z~算了，兄弟。改天吧，兄弟。我饱了。
+0xBAC7A4AE=~z~算了，兄弟，改天吧。我饱了。
 
 ;0xBADD8E83=FCJ_ACT_CALL_EAT_YES
 0xBADD8E83=FCJ_ACT_CALL_EAT_YES
@@ -540,7 +537,7 @@
 0xC2EE7EB9=~z~有空和我喝一杯吗？
 
 ;0xC2FD026A=~z~Okay, me breda. Me love play darts, y'know. Come on my place in about an hour.
-0xC2FD026A=~z~好的，兄弟。我爱玩飞镖，你也懂。一小时内来接我。
+0xC2FD026A=~z~好的，兄弟。我爱飞镖好吧。一小时内来接我。
 
 ;0xC5CB6E8C=SFX_MACHINE_BEEP
 0xC5CB6E8C=SFX_MACHINE_BEEP
@@ -552,7 +549,7 @@
 0xC8E91D69=~z~抱歉，Jacob。我没仔细看时间。
 
 ;0xC9B225EB=~z~Yeah man, me done now, so me ready fe link up with de man again, seen?
-0xC9B225EB=~z~好了，兄弟，我休息完了，现在我们可以一起出去了，懂吧？
+0xC9B225EB=~z~好啊，兄弟，我现在有空出去了，懂吧？
 
 ;0xCA372707=FCJ_ACT_PLJ_CALL_SHOW
 0xCA372707=FCJ_ACT_PLJ_CALL_SHOW
@@ -570,7 +567,7 @@
 0xCE67ACEC=~z~好，Jacob，我马上就来。
 
 ;0xCFC1B342=~z~Thanks! Me like hung around for nothing y'know?
-0xCFC1B342=~z~多谢啊！我正好就喜欢这样瞎转悠。
+0xCFC1B342=~z~多谢啊！我正好就喜欢被人鸽。
 
 ;0xD047ED48=FCJ_ACT_CALL_VERYIRATE
 0xD047ED48=FCJ_ACT_CALL_VERYIRATE
@@ -582,7 +579,7 @@
 0xD208F4DD=010
 
 ;0xD29BBF46=~z~It me, so listen Jacob.
-0xD29BBF46=~z~是我，听着Jacob。
+0xD29BBF46=~z~是我。听着，Jacob。
 
 ;0xD2AD5D10=100
 0xD2AD5D10=100
@@ -600,7 +597,7 @@
 0xD79C6BDC=010
 
 ;0xD94A2F04=~z~You know me, Niko - me love play darts. One hour me wait.
-0xD94A2F04=~z~你也懂我，Niko－我爱玩飞镖。我等你一小时。
+0xD94A2F04=~z~你懂我的，Niko。我爱飞镖。我等你一小时。
 
 ;0xDA0E2E57=FCJ_ACT_CALL_DRINK_NO_RECENT
 0xDA0E2E57=FCJ_ACT_CALL_DRINK_NO_RECENT
@@ -612,7 +609,7 @@
 0xDCB25377=~z~嘿，Jacob。
 
 ;0xDCCE78B4=~z~Yeah, man - me play pool, for real. Pick me up in about a hour.
-0xDCCE78B4=~z~好啊，兄弟，来打台球啊，真的。一小时内来接我。
+0xDCCE78B4=~z~好啊，来打台球啊，真的。一小时内来接我。
 
 ;0xDF7CF6D2=~z~Nah, me nuh going to the strip club now, ram goat - maybe later.
 0xDF7CF6D2=~z~算了，我现在不去脱衣舞俱乐部，兄弟。改天吧。
@@ -621,7 +618,7 @@
 0xE0BED19A=~z~我来了。
 
 ;0xE13E1E2A=~z~Sure, I'm a lickle hungry y'know. Pick me up.
-0xE13E1E2A=~z~当然，我刚好有点饿了。来接我吧。
+0xE13E1E2A=~z~当然，我有点饿了。来接我吧。
 
 ;0xE1D3F738=~z~Nah man, not again man. So soon?
 0xE1D3F738=~z~别吧兄弟，不是刚去过吗。还来啊。
@@ -630,7 +627,7 @@
 0xE341E092=~z~Jacob先生，我是Niko。
 
 ;0xE5BE7A9B=~z~Nah, man. Me full, star - but... maybe a lickle later.
-0xE5BE7A9B=~z~不了，兄弟。我饱了，兄弟－但是...过段时间吧。
+0xE5BE7A9B=~z~不了，兄弟。我饱了，兄弟。过会儿再说吧。
 
 ;0xE6BF8113=~z~Maybe later. Did we nuh just eat, man?
 0xE6BF8113=~z~以后再说吧，我们不是刚出去吃过吗，兄弟？
@@ -675,7 +672,7 @@
 0xF3309BA7=~z~Jacob，飞镖我来不了了，抱歉兄弟。
 
 ;0xF421975D=~z~No, Star. Me full, man - maybe later.
-0xF421975D=~z~算了，兄弟。我饱了，兄弟，改天吧。
+0xF421975D=~z~算了，兄弟。我饱了，改天吧。
 
 ;0xF504AF24=FCJ_ACT_CALL_DARTS_NO_GENERAL
 0xF504AF24=FCJ_ACT_CALL_DARTS_NO_GENERAL
@@ -687,10 +684,10 @@
 0xF8B71BA1=~z~你有兴趣去看表演吗？我有点无聊。
 
 ;0xFA688A1D=~z~Yeah, man. Pick me up in about an hour, seen?
-0xFA688A1D=~z~好啊，兄弟。一小时内来接我，懂？
+0xFA688A1D=~z~好啊。一小时内来接我，懂？
 
 ;0xFB061FCB=~z~Not again so soon, man. Me could play ya later, man.
-0xFB061FCB=~z~别这么频繁，兄弟。过几天我可以陪你，兄弟。
+0xFB061FCB=~z~别这么频繁，兄弟。过几天再打吧。
 
 ;0xFD669483=~z~Jacob - sorry - I'm not going to be able to give you a lift.
 0xFD669483=~z~Jacob，抱歉，我没法来接你了。

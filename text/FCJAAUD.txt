@@ -3,7 +3,7 @@
 0x00D91975=~z~哟，能送我去East Hook吗？
 
 ;0x0127EBFC=~z~Whappen? You wanna check out now?
-0x0127EBFC=~z~咋回事？你想现在就结账吗？
+0x0127EBFC=~z~咋回事？现在就结账吗？
 
 ;0x031872E5=~z~What, you lose your watch, Niko?
 0x031872E5=~z~怎么，你手表丢了，Niko？
@@ -36,7 +36,7 @@
 0x09DB649F=100
 
 ;0x0A13E18E=~z~Mek we play some pool then?
-0x0A13E18E=~z~那你就是想跟我打桌球咯？
+0x0A13E18E=~z~进去打会儿桌球吧？
 
 ;0x0A67DC74=100
 0x0A67DC74=100
@@ -51,22 +51,22 @@
 0x0BC9172E=100
 
 ;0x0D721531=~z~We gonna have a good time, me breda.
-0x0D721531=~z~我们会玩得很开心的，好兄弟。
+0x0D721531=~z~我们会看得很开心的，好兄弟。
 
 ;0x0E70429C=~z~Yo, me appreciate that y'know, Niko? Thank you, me see you later, seen?
-0x0E70429C=~z~哟，我很感激好吧，Niko。多谢了，待会见，好吗？
+0x0E70429C=~z~哟，我很感激好吧，Niko。多谢了，待会儿见。
 
 ;0x0EB769F6=~z~Me heart bleeds as me ego grow large ya know, me breda.
 0x0EB769F6=~z~我的心在你输了之后一直在滴血你知道吗，我的好兄弟。
 
 ;0x0F1BECA5=~z~Whappen rasta, you late ya know. We need fe find a car ya know.
-0x0F1BECA5=~z~怎么回事，好兄弟，你迟到了好吧。我们先找辆车好吧。
+0x0F1BECA5=~z~怎么回事，好兄弟，你迟到了好吧。先找辆车好吧。
 
 ;0x12B69F35=~z~Gwan rude boy!
 0x12B69F35=~z~实在是赞啊！
 
 ;0x1664BAB6=~z~The girl were alright y'know, me breda.
-0x1664BAB6=~z~这些女孩真的很正点好吗，我的好兄弟。
+0x1664BAB6=~z~这些女孩真的很正点，好兄弟。
 
 ;0x1707FCD4=100
 0x1707FCD4=100
@@ -108,7 +108,7 @@
 0x1E623E9B=FCJ_ACT_TAKE_OUTLOOK_PARK
 
 ;0x1F0BFEC0=~z~Darts? For real? Okay.
-0x1F0BFEC0=~z~飞镖？认真的吗？好吧。
+0x1F0BFEC0=~z~确定要玩飞镖吗？好吧。
 
 ;0x22108268=~z~Take me to me house please.
 0x22108268=~z~请送我回家吧。
@@ -141,7 +141,7 @@
 0x30AA9DA0=100
 
 ;0x30C07CD0=~z~Yo star, can ya give me a lift to Firefly Island?
-0x30C07CD0=~z~哟兄弟，能把我带去Firefly Island吗？
+0x30C07CD0=~z~哟兄弟，能带我去Firefly Island吗？
 
 ;0x310554A4=FCJ_ACT_DROPOFF
 0x310554A4=FCJ_ACT_DROPOFF
@@ -165,7 +165,7 @@
 0x367D0A85=~z~算了，兄弟，我现在没那个兴趣。
 
 ;0x36C6BBB3=~z~Niko, you a righteous brother, will you take I back to I apartment?
-0x36C6BBB3=~z~Niko，真是我的好兄弟，能把我送回我的公寓吗？
+0x36C6BBB3=~z~Niko，真是我的好兄弟，能把我送回公寓吗？
 
 ;0x379CC2B7=FCJ_ACT_DARTS_LEAVE_DRAW
 0x379CC2B7=FCJ_ACT_DARTS_LEAVE_DRAW
@@ -183,7 +183,7 @@
 0x3D15481D=FCJ_ACT_ARRIVem_NOTLATE
 
 ;0x3F9CF1C3=~z~Me had a good time, even though the acts was mad.
-0x3F9CF1C3=~z~我觉得很开心，虽然这节目太疯狂了。
+0x3F9CF1C3=~z~我觉得很开心，虽然节目有点疯狂。
 
 ;0x3FB74AA2=100
 0x3FB74AA2=100
@@ -198,7 +198,7 @@
 0x48B8BF0F=~z~最好的结果——平分秋色。
 
 ;0x48FA8BBC=~z~Him make me laugh!
-0x48FA8BBC=~z~他快笑死我了！
+0x48FA8BBC=~z~我快笑死了！
 
 ;0x4AEA460A=100
 0x4AEA460A=100
@@ -216,10 +216,10 @@
 0x4EF7A282=FCJ_ACT_TAKE_EAST_ISLAND_CITY
 
 ;0x4F09A601=~z~Whappen, me breda? We gonna need a car y'know.
-0x4F09A601=~z~怎么了我的好兄弟？我们需要辆车知道吗？
+0x4F09A601=~z~怎么了，好兄弟？搞辆车子好吧。
 
 ;0x4F219671=~z~We have fun in here.
-0x4F219671=~z~玩得很开心。
+0x4F219671=~z~进去爽一爽吧。
 
 ;0x507A3CCB=100
 0x507A3CCB=100
@@ -231,13 +231,13 @@
 0x531AAF06=FCJ_ACT_ARRIVE_HOSPITAL
 
 ;0x54030B9B=~z~Yo, next time, let's finish the game before we check out.
-0x54030B9B=~z~哟，下次，咱把游戏玩完了在结账好伐？
+0x54030B9B=~z~哟，下次我们打完一局再结账好吧？
 
 ;0x547C1989=FCJ_ACT_BORED_LEAVING
 0x547C1989=FCJ_ACT_BORED_LEAVING
 
 ;0x5560F92E=~z~Yo, you're late y'know, rasta. Yo, we need a car y'know.
-0x5560F92E=~z~哟，你迟到了好吧，好兄弟。哟，我们需要辆车好吧。
+0x5560F92E=~z~哟，你迟到了，好兄弟。哟，找辆车子来好吧。
 
 ;0x561122AC=~z~Yo, that place I for real y'know. Even though it full o' spree boys.
 0x561122AC=~z~哟，这家店好棒，虽然里面的人很多。
@@ -252,7 +252,7 @@
 0x58628968=~z~哟，麻烦送我去Meadow Hills。
 
 ;0x5910A659=~z~Is all good with a draw.
-0x5910A659=~z~只不过是运气好。
+0x5910A659=~z~平局也挺好的。
 
 ;0x594D7745=FCJ_ACT_ARRIVEF_NOTLATE
 0x594D7745=FCJ_ACT_ARRIVEF_NOTLATE
@@ -264,7 +264,7 @@
 0x59E22D8F=~z~哟，实在太好笑了，老兄。
 
 ;0x5B07A286=~z~Sorry, me breda.
-0x5B07A286=~z~八好意思，好兄弟。
+0x5B07A286=~z~不好意思，好兄弟。
 
 ;0x5B28D3DC=~z~What this?
 0x5B28D3DC=~z~这什么？
@@ -303,7 +303,7 @@
 0x623F2A1E=FCJ_ACT_POOL_LEAVE_DRAW
 
 ;0x62D0BDCF=~z~Yo, this will be a good time y'know, Niko.
-0x62D0BDCF=~z~哟，我们一定能玩得很高兴，Niko。
+0x62D0BDCF=~z~哟，一定能玩得很高兴，Niko。
 
 ;0x638A9EE4=FCJ_ACT_ARRIVE_CLUB_GENERIC
 0x638A9EE4=FCJ_ACT_ARRIVE_CLUB_GENERIC
@@ -321,7 +321,7 @@
 0x648042C7=~z~太有趣了！
 
 ;0x65120107=~z~Yeah, me have a good time ya know, man.
-0x65120107=~z~哟，我玩得好开心，好兄弟。
+0x65120107=~z~哟，我喝得好开心，好兄弟。
 
 ;0x66C26E53=FCJ_ACT_ARRIVE_STRIP
 0x66C26E53=FCJ_ACT_ARRIVE_STRIP
@@ -366,7 +366,7 @@
 0x6B13B5A4=100
 
 ;0x6BF5C4A6=~z~You're late, but let's go anyway.
-0x6BF5C4A6=~z~你迟到了，赶紧出发吧好兄弟。
+0x6BF5C4A6=~z~你迟到了，赶紧出发吧。
 
 ;0x6E2943EA=~z~Can ya take me Downtown, star?
 0x6E2943EA=~z~你能带我去Downtown吗，兄弟？
@@ -423,13 +423,13 @@
 0x82275CF7=100
 
 ;0x82AC9BF1=~z~That's good times, breda.
-0x82AC9BF1=~z~玩得很高兴，兄弟。
+0x82AC9BF1=~z~喝得很尽兴，兄弟。
 
 ;0x82ACCFBE=100
 0x82ACCFBE=100
 
 ;0x8376993A=~z~Me like this kinda place.
-0x8376993A=~z~就喜欢这种地方。
+0x8376993A=~z~就喜欢这种店。
 
 ;0x84686B89=~z~Yo, me have enough o' this star, man. Jus' take I home Niko, no?
 0x84686B89=哟，我已经受够了，兄弟。送我回家好吗，Niko？
@@ -438,7 +438,7 @@
 0x84693359=100
 
 ;0x85D1EF38=~z~Next time, let's finish up.
-0x85D1EF38=~z~下一次，咱把游戏玩完。
+0x85D1EF38=~z~下次至少打完一局吧。
 
 ;0x87E91C94=~z~Me need a drop to East Island City.
 0x87E91C94=~z~麻烦送我去东岛城。
@@ -450,7 +450,7 @@
 0x8902141A=100
 
 ;0x89256753=~z~Well played, rasta!
-0x89256753=~z~玩得真不错，好兄弟！
+0x89256753=~z~打得真好，兄弟！
 
 ;0x8B76C5A4=100
 0x8B76C5A4=100
@@ -531,13 +531,13 @@
 0xAC1A6D0D=FCJ_ACT_ARRIVE_LATE
 
 ;0xAC1F590E=~z~Let's get going, me breda.
-0xAC1F590E=我们走吧，好兄弟。
+0xAC1F590E=~z~我们走吧，好兄弟。
 
 ;0xAC8E0CBB=100
 0xAC8E0CBB=100
 
 ;0xADC48FE6=~z~Yeah a bit risto but, they done most o' their food good, y'know?
-0xADC48FE6=~z~虽然有点苦，但他们的食物都不错对吧？
+0xADC48FE6=~z~虽然是家意大利饭店，但菜都很棒吧？
 
 ;0xAE855A7F=FCJ_ACT_ARRIVE_POOL
 0xAE855A7F=FCJ_ACT_ARRIVE_POOL
@@ -549,16 +549,16 @@
 0xAED9633D=FCJ_ACT_DURING_SHOW_POS
 
 ;0xAFBA2819=~z~Niko, I legs ain't workin' good right now. Get I some transport for the rasta now?
-0xAFBA2819=~z~Niko，我的腿已经不听使唤了。我能坐交通工具吗？
+0xAFBA2819=~z~Niko，我的腿已经不听使唤了。能弄给哥们辆车吗？
 
 ;0xAFC8595A=~z~Boy, what a idiot.
 0xAFC8595A=~z~我去，太蠢了吧。
 
 ;0xB0857B89=~z~Yo, me love the place ya know, Niko.
-0xB0857B89=~z~哟，我很喜欢这地方知道吗，Niko。
+0xB0857B89=~z~哟，我很喜欢这家店知道吗，Niko。
 
 ;0xB15D118F=~z~Next time, we finish up the game.
-0xB15D118F=~z~下一次，咱们打完整局，好吗。
+0xB15D118F=~z~下一次，咱们打完整局吧。
 
 ;0xB1900B2D=~z~Alright, mek we see what kind o' lunacy are gwan down here.
 0xB1900B2D=~z~好了，让我看看这里有什么好戏。
@@ -606,7 +606,7 @@
 0xBE7E76C6=~z~敬他！
 
 ;0xBEE41B2C=~z~Alright, Mr. Mention, let me see the girl them now.
-0xBEE41B2C=~z~好了好了，懂哥，我要去看看妹子了。
+0xBEE41B2C=~z~好了，懂哥，我要去看看妹子了。
 
 ;0xBF424F23=100
 0xBF424F23=100
@@ -693,13 +693,13 @@
 0xD5DEA245=~z~天，我喜欢这家店好吧。
 
 ;0xD6FAE252=~z~Yeah, that was good for such a risto place, y'know.
-0xD6FAE252=~z~耶，这地方应该是个不错的咖啡馆，知道吧。
+0xD6FAE252=~z~这家饭店还挺不错的好吧。
 
 ;0xD7EB09B4=~z~Can ya take me to Outlook Park?
 0xD7EB09B4=~z~你能送我去Outlook Park吗？
 
 ;0xD810D85B=~z~Niko, with all this insanity, made me miss the show?
-0xD810D85B=~z~Niko，一通疯狂过后，把演出给错过了？
+0xD810D85B=~z~Niko，一通疯狂过后，错过演出了？
 
 ;0xD83A9BB2=100
 0xD83A9BB2=100
@@ -723,7 +723,7 @@
 0xDCF5A758=100
 
 ;0xDEED475A=~z~Are you going foreign now?
-0xDEED475A=~z~这是家歪果仁开的咖啡店马？
+0xDEED475A=~z~乡下人进城了？
 
 ;0xDF6607C9=FCJ_ACT_DARTS_LEAVE_WON
 0xDF6607C9=FCJ_ACT_DARTS_LEAVE_WON
@@ -765,7 +765,7 @@
 0xE6AE5E8C=100
 
 ;0xE9E07905=~z~Yo, Niko, me appreciate that an' ting, give thanks, one love.
-0xE9E07905=~z~哟，Niko，很感谢你把我送回来，太感谢你了，爱你。
+0xE9E07905=~z~哟，Niko，感谢你把我送回来。太感谢你了，再见。
 
 ;0xEA467CC6=~z~Yo, we're too late to see the show?
 0xEA467CC6=~z~哟，我们好像错过演出了吧？
@@ -780,7 +780,7 @@
 0xEF51B66E=FCJ_ACT_ARRIVE_FASTFOOD
 
 ;0xEF5F7CE8=~z~Why you stepping out now?
-0xEF5F7CE8=~z~为啥你现在就走了？
+0xEF5F7CE8=~z~你咋现在就走了？
 
 ;0xF19B150A=FCJ_ACT_LEAVE_STRIP_GOOD
 0xF19B150A=FCJ_ACT_LEAVE_STRIP_GOOD
@@ -789,7 +789,7 @@
 0xF1F961FF=FCJ_ACT_LEAVE_CLUB_FAVOURITE
 
 ;0xF4F8B2A1=~z~Yo Niko man, I ain't got the strength to be walking right now, man. Can I get some transport?
-0xF4F8B2A1=~z~哟Niko，好兄弟，我现在这状态不能走路啊，兄弟。能帮我找个交通工具吗？
+0xF4F8B2A1=~z~哟Niko，好兄弟，我现在这状态不能走路啊，兄弟。能帮我找辆车吗？
 
 ;0xF671D690=~z~You wanna check out already?
 0xF671D690=~z~你这就要走了吗？
@@ -804,7 +804,7 @@
 0xF96B5F8B=~z~走吧？对了，你迟到了哦。
 
 ;0xFA1215B4=~z~Good times man, respect yeah?
-0xFA1215B4=~z~玩得好开心，好兄弟。
+0xFA1215B4=~z~玩得好开心，敬你。
 
 ;0xFBCFB5E7=~z~Drop me at me yard, man.
 0xFBCFB5E7=~z~送我回家，好兄弟。

@@ -1,7 +1,4 @@
-﻿;注：
-;1.含Beta文本 没翻的就是
-
-[FCR21AU]
+﻿[FCR21AU]
 ;0x009458CE=FCR2_ACT_ARRIVE_BOWL
 0x009458CE=FCR2_ACT_ARRIVE_BOWL
 
@@ -15,10 +12,10 @@
 0x02B01BC1=~z~太快了，Niko。感觉都来不及和自己的兄弟坐下来聊上几句。
 
 ;0x02EC753E=~z~That is one funny man, Niko. Good choice.
-0x02EC753E=~z~实在太有趣了，Niko。明智之选。
+0x02EC753E=~z~实在太好笑了，Niko。明智之选。
 
 ;0x03101D4D=~z~Niko, when will you learn? Your cousin is better than you at pool. You are no match.
-0x03101D4D=~z~Niko，你什么时候才能明白？你的堂兄比你更擅长台球，你太弱了。
+0x03101D4D=~z~Niko，你什么时候才能明白？你堂兄比你更擅长台球，你太弱了。
 
 ;0x03F9D48C=100
 0x03F9D48C=100
@@ -27,7 +24,7 @@
 0x042E2EE1=100
 
 ;0x04CD57FB=~z~Niko, that was fun. I was at a place belonging to Mikhail Faustin and I was not even shot.
-0x04CD57FB=~z~Niko，刚才很有趣。我在Mikhail Faustin的地盘，连枪子儿都没挨着。
+0x04CD57FB=~z~Niko，玩得很开心。我在Mikhail Faustin的地盘，还没有挨枪子儿。
 
 ;0x05A69FE1=100
 0x05A69FE1=100
@@ -57,7 +54,7 @@
 0x0C609E1E=FCR2_ACT_ARRIVEF_LATE
 
 ;0x0D0D4EC2=~z~Niko, I like to finish my darts games. Maybe next time we do that.
-0x0D0D4EC2=~z~Niko，我更想把这局飞镖投完。或许下次可以。
+0x0D0D4EC2=~z~Niko，我更想把这局飞镖投完。下次投完吧。
 
 ;0x0D6B6937=~z~That would have been even more fun if I hadn't been fearing for my life. Your Russian gangster friends are scary.
 0x0D6B6937=~z~要不是担心自己的人身安全，我会更享受一点的。你的俄国黑帮朋友太可怕了。
@@ -78,10 +75,10 @@
 0x12CC4494=~z~我们是完美的对手，堂弟。平局了。闻所未闻不是吗？
 
 ;0x134260C5=~z~Niko, how could you want to leave so early. You haven't been hanging out at Hercules Nightclub or something have you?
-0x134260C5=~z~Niko，你怎么这么快就走了。你该不会去过大力神之类的夜店吧？
+0x134260C5=~z~Niko，怎么这么快就走了。你该不会是大力神夜店的常客吧？
 
 ;0x143F8983=~z~We have truly made it, Niko. The cousins Bellic eating in the finest dining rooms in Liberty City.
-0x143F8983=~z~我们真的成功了，Niko。Bellic兄弟正在自由城最好的餐厅吃饭。
+0x143F8983=~z~我们真的成功了，Niko。Bellic兄弟在自由城最好的餐厅吃饭。
 
 ;0x146BC3D8=FCR2_ACT_DIFF_DARTS_YES
 0x146BC3D8=FCR2_ACT_DIFF_DARTS_YES
@@ -90,7 +87,7 @@
 0x147ACB86=FCR2_ACT_LEAVE_STRIP_OK
 
 ;0x1485BF6C=~z~American fast-food. Just think we could have the exact same meal in the Old Country.
-0x1485BF6C=~z~美式快餐。想想我们要是在故国也能吃到一样的饭菜就好了。
+0x1485BF6C=~z~美式快餐。要是在故国也能吃到一样的饭菜就好了。
 
 ;0x1513F7E0=FCR2_ACT_ARRIVEF_NOTLATE_CAR
 0x1513F7E0=FCR2_ACT_ARRIVEF_NOTLATE_CAR
@@ -117,13 +114,13 @@
 0x1DBCAADE=~z~我喜欢那个人，Niko。他真的很有趣。
 
 ;0x1EA3C244=~z~Old Vlad's bar. We shall see if he can add our drinks to the rest of my debt.
-0x1EA3C244=~z~老Vlad开的酒吧。我们该问下他能不能把我们喝的酒记在我的账上。
+0x1EA3C244=~z~老Vlad开的酒吧。应该问他能不能把喝的酒记在我的账上。
 
 ;0x1EC8C311=~z~There you are cousin, let's move.
 0x1EC8C311=~z~你来啦，堂弟，我们走。
 
 ;0x1F05560D=~z~I have been wanting to see this act, cousin. My friend saw this and he pissed in his pants.
-0x1F05560D=~z~我一直都很想看这场表演，堂弟。我朋友看过，他看得笑尿了。
+0x1F05560D=~z~我一直都很想看这场演出，堂弟。我朋友看过，看得他笑尿了。
 
 ;0x1F5FA620=100
 0x1F5FA620=100
@@ -156,13 +153,13 @@
 0x273EAF00=~z~我们到了，Niko。进去打几球吧。
 
 ;0x285B781D=~z~Finally cousin, you're late. We should go now.
-0x285B781D=~z~终于来了，堂弟，你迟到了。我们现在该走了。
+0x285B781D=~z~终于来了，堂弟，你迟到了。我们该走了。
 
 ;0x28BB34EA=100
 0x28BB34EA=100
 
 ;0x29761295=~z~This is a good idea. It will remind us how lucky we are to have gotten out of the Old Country.
-0x29761295=~z~这是个好主意，好让我们想起我们能离开故国有多幸运。
+0x29761295=~z~这是个好主意，好让我们知道能离开故国有多幸运。
 
 ;0x2C2C7ED5=FCR2_ACT_BOWL_LEAVE_DRAW
 0x2C2C7ED5=FCR2_ACT_BOWL_LEAVE_DRAW
@@ -183,7 +180,7 @@
 0x34B18388=~z~Niko，很高兴见到你。我们得找辆车。
 
 ;0x361107CF=~z~Niko, the phonebook on my cell is filling up so many hot chicks are giving me their numbers.
-0x361107CF=~z~Niko，我的手机通讯录里多得是主动给我电话的辣妹。
+0x361107CF=~z~Niko，我的通讯录里多得是主动给我电话的辣妹。
 
 ;0x36D46BBC=100
 0x36D46BBC=100
@@ -219,7 +216,7 @@
 0x430FD6A3=~z~你带我来Perestroika啊。Faustin先生会不会给你员工特价？
 
 ;0x435AA262=~z~You see that girl who was eyeing me, I would have sealed that deal if I didn't have to see Mallorie later.
-0x435AA262=~z~看见那个偷瞄我的妹子了吗，要不是之后跟Mallorie约好了，我就去泡她了。
+0x435AA262=~z~看见那个偷瞄我的妹子了吗？要不是跟Mallorie有约会，我就去泡她了。
 
 ;0x438C7AB6=FCR2_ACT_ARRIVEF_LATE_CAR
 0x438C7AB6=FCR2_ACT_ARRIVEF_LATE_CAR
@@ -276,7 +273,7 @@
 0x5C29A57E=100
 
 ;0x5E04FD7A=~z~NB, you are making an important business owner wait for you. I am generous though. You can drive me in one of my cabs.
-0x5E04FD7A=~z~NB，你居然让大老板等你，不过我原谅你。你开我的这些出租车也可以。
+0x5E04FD7A=~z~NB，你居然让大老板等你，不过我原谅你。你可以开我的出租车。
 
 ;0x5F332F98=100
 0x5F332F98=100
@@ -297,7 +294,7 @@
 0x60830ED5=100
 
 ;0x626DD83D=~z~Okay cousin, let's have a meal here.
-0x626DD83D=~z~好了堂弟，我们进去吃一顿吧。
+0x626DD83D=~z~好了堂弟，进去吃一顿吧。
 
 ;0x62BD06FA=~z~Late NB, not acceptable. Make it up by driving me in one of my cabs.
 0x62BD06FA=~z~迟到了，NB，不能这样。开我的出租车将功补过吧。
@@ -318,13 +315,13 @@
 0x6AC703C7=~z~唔，别想让我进去。我没心情，Niko。
 
 ;0x6BF68D52=~z~There is a fire in my belly, I like the drinks at that place.
-0x6BF68D52=~z~我肚子里的酒正在燃烧，我喜欢那家店的酒水。
+0x6BF68D52=~z~肚子里的酒正在燃烧，我喜欢那家店的酒水。
 
 ;0x6C472E30=~z~We must settle this some other way. Maybe we should compete over a woman. Clearly not Mallorie though.
 0x6C472E30=~z~我们想法子决出胜负吧。比如说比赛泡妞，不过我不会用Mallorie比的。
 
 ;0x6CA9DFFE=~z~Even without a warmup you will be no match for me on the pool table.
-0x6CA9DFFE=~z~就算不热身，你在台球上也不是我的对手。
+0x6CA9DFFE=~z~就算不热身，你在球桌上也不是我的对手。
 
 ;0x6D065F0F=~z~Ahh, NB. Seeing you puts a smile on my face. Let's go.
 0x6D065F0F=~z~啊，NB，见着你我就笑开了花。走吧。
@@ -345,13 +342,13 @@
 0x7253504F=100
 
 ;0x73759E55=~z~Niko. Were you afraid of playing out the game for fear that I would beat you? Do not be scared of defeat, cousin.
-0x73759E55=~z~Niko，你是不是怕我击败你才中途结束的？别害怕失败，堂弟。
+0x73759E55=~z~Niko，你是不是怕被我击败才中途退出的？别害怕失败，堂弟。
 
 ;0x74082860=~z~Thank you in advance for driving me home. Let's go now.
 0x74082860=~z~先说好，谢谢你送我回家。我们走吧。
 
 ;0x74EF7D40=~z~Ahh, is this where we eat, cousin? Let's do it.
-0x74EF7D40=~z~啊，我们在这儿吃是吧，堂弟？进去吧。
+0x74EF7D40=~z~啊，在这儿吃饭是吧，堂弟？进去吧。
 
 ;0x75B39E41=FCR2_ACT_ARRIVE_CLUB_GENERIC
 0x75B39E41=FCR2_ACT_ARRIVE_CLUB_GENERIC
@@ -375,10 +372,10 @@
 0x7F2F9F7E=~z~Niko，恭喜啊。很少有人能在飞镖上打败我。
 
 ;0x8160A3E0=~z~Do you see... do you see something in my eye. I am not seeing so good. Must be how you beat me.
-0x8160A3E0=~z~你看见了吗...你看见我眼中的东西了吗。我看起来不大好，肯定是因为你打败我了。
+0x8160A3E0=~z~你看见...看见我眼睛里的东西了吗？我看得不太清楚，这才被你捡漏了。
 
 ;0x8370DFA1=~z~Oh cousin, I salivate at the thought of all the naked flesh in there. Let's go.
-0x8370DFA1=~z~噢，堂弟，光是想到里面那些赤裸的肉体我就垂涎欲滴了。
+0x8370DFA1=~z~噢，堂弟，光是想到里面赤裸的肉体我就垂涎欲滴了。
 
 ;0x83804CF0=FCR2_ACT_ARRIVE_CLUB_FAUSTIN_DEAD
 0x83804CF0=FCR2_ACT_ARRIVE_CLUB_FAUSTIN_DEAD
@@ -402,13 +399,13 @@
 0x89FBBDF5=100
 
 ;0x8B9DCBD5=~z~You must be in a hurry, Niko. It does not take long to finish a game of darts with your cousin.
-0x8B9DCBD5=~z~你肯定是有急事，Niko。跟你堂兄投完一局飞镖又花不了多久。
+0x8B9DCBD5=~z~你是有急事吧，Niko。陪堂兄投完一局飞镖又花不了多久。
 
 ;0x8BC057D0=~z~You mind driving your tired cousin home? Thank you.
 0x8BC057D0=~z~介意送你疲倦的堂兄回家吗？谢谢你。
 
 ;0x8C74B147=~z~Hey, NB. We can take one of the cabs if you like. You mind driving?
-0x8C74B147=~z~嘿，NB。需要的话我的出租车可以借你开。你开车吧？
+0x8C74B147=~z~嘿，NB。需要的话我可以把出租车借你开。你来开车吧？
 
 ;0x8C9690A2=FCR2_ACT_DARTS_LEAVE_ABANDON
 0x8C9690A2=FCR2_ACT_DARTS_LEAVE_ABANDON
@@ -420,7 +417,7 @@
 0x8FB9DEAF=FCR2_ACT_DURING_SHOW_NEG
 
 ;0x91E953A3=~z~Niko, we are evenly matched. There can clearly be no winner when two cousins such as us compete.
-0x91E953A3=~z~Niko，我们打平了。果然我们这样的兄弟之间是分不出胜负的。
+0x91E953A3=~z~Niko，我们打平了。果然我们兄弟二人是分不出胜负的。
 
 ;0x921897DB=~z~Niko, this is just the place. I hear it is filled with girls with low self esteem.
 0x921897DB=~z~Niko，我就想来这里。听说这里有很多不知廉耻的女孩。
@@ -438,13 +435,13 @@
 0x97EE96E5=FCR2_ACT_ARRIVEC_NOTLATE
 
 ;0x98355EA3=~z~Sorry, Niko. I don't feel like doing this just now.
-0x98355EA3=~z~抱歉，Niko。我现在不太想去这里。
+0x98355EA3=~z~抱歉，Niko。我现在不太想来这里。
 
 ;0x983EC58F=100
 0x983EC58F=100
 
 ;0x98E7E734=~z~I am feeling a little drunk. I don't think they water the drinks down too much at that shit hole.
-0x98E7E734=~z~我有一点醉了。我看这家店掺水掺的不多。
+0x98E7E734=~z~我有一点醉了。我看这家店掺水掺得不多。
 
 ;0x9903D7C7=100
 0x9903D7C7=100
@@ -471,7 +468,7 @@
 0x9E4CB23A=~z~我们可以在这儿吃顿快餐，堂弟。走吧。
 
 ;0x9EF0580C=~z~NB, my cousin. Why don't we find a car so we can go.
-0x9EF0580C=~z~NB，好堂弟。我们去找辆车再出发吧。
+0x9EF0580C=~z~NB，好堂弟。先找辆车再出发吧。
 
 ;0x9FCE57CB=~z~Fucking Vlad. I cannot help but think of that scumbag in that place.
 0x9FCE57CB=~z~狗逼Vlad。我在这儿不由自主地就会想到那个小人。
@@ -492,7 +489,7 @@
 0xA6A3E375=FCR2_ACT_POOL_LEAVE_ABANDON
 
 ;0xA7980D0E=~z~There is only one thing I'm better at than playing pool, Niko. And, as a man, you won't get to see me in action.
-0xA7980D0E=~z~我只有一件事是比打台球更擅长的，Niko。而且，作为一个男人，你是无福亲眼见到了。
+0xA7980D0E=~z~我只有一件事是比打台球更擅长的，Niko。但是身为男人，你是无福亲眼见到了。
 
 ;0xA91A00E7=100
 0xA91A00E7=100
@@ -507,10 +504,10 @@
 0xAEA786DD=100
 
 ;0xAF561EFB=~z~Okay, I am ready to go home. You will drive your cousin.
-0xAF561EFB=~z~好的，我准备好回家了。由你送堂哥回家。
+0xAF561EFB=~z~好了，我准备好回家了。由你送堂兄回家。
 
 ;0xB0F0B1CD=~z~Ahh, Comrades. We shall raise our glasses to the late Vlad while we're here.
-0xB0F0B1CD=~z~啊，Comrades酒吧。我们该趁还在这儿的时候敬Vlad一杯。
+0xB0F0B1CD=~z~啊，Comrades酒吧。在店里的时候得敬Vlad一杯。
 
 ;0xB18BCED4=100
 0xB18BCED4=100
@@ -525,7 +522,7 @@
 0xB41225A3=~z~回见，Niko。有空给我打电话，好吧？
 
 ;0xB424F010=~z~Niko, you're pretty good. It's clearly those Bellic genes you've got. If we were a team we'd be unstoppable.
-0xB424F010=~z~Niko，你真棒，完全表现了你的Bellic家基因。要是我们组队就无人能敌了。
+0xB424F010=~z~Niko，你真棒，完全表现了你的Bellic家基因。我们组队就无人能敌了。
 
 ;0xB4B512E4=~z~This is so funny, cousin. Don't you think? Don't you think?
 0xB4B512E4=~z~太好笑了啊，堂弟。不是吗？不是吗？
@@ -534,7 +531,7 @@
 0xB5347669=FCR2_ACT_LEAVE_BURGER_SHOT
 
 ;0xB5EAA9B3=~z~Niko, you rack 'em up and I'll knock 'em in. Let's go.
-0xB5EAA9B3=~z~Niko，你把球安排好，我就一个个打进去。开始吧。
+0xB5EAA9B3=~z~Niko，把球安排好，我一个个打进去。开始吧。
 
 ;0xB65AB82F=FCR2_ACT_ARRIVEF_NOTLATE
 0xB65AB82F=FCR2_ACT_ARRIVEF_NOTLATE
@@ -561,7 +558,7 @@
 0xBDCED998=~z~输了也别担心。至少你偷车打枪比我强。
 
 ;0xBE9EC060=~z~Okay Niko, watch out for all the bullseyes I will be getting.
-0xBE9EC060=~z~好的，Niko。等着看我把那些靶心都给扎烂吧。
+0xBE9EC060=~z~好了，Niko。等着看我把靶心扎烂吧。
 
 ;0xC08F1FA8=100
 0xC08F1FA8=100
@@ -585,13 +582,13 @@
 0xC295D086=100
 
 ;0xC2A54599=~z~Is time to go back home, will you take me?
-0xC2A54599=~z~现在该回家了，你能送我回去吗？
+0xC2A54599=~z~现在该回家了，能送我回去吗？
 
 ;0xC35BC605=FCR2_ACT_ARRIVE_SHOW_COMEDY
 0xC35BC605=FCR2_ACT_ARRIVE_SHOW_COMEDY
 
 ;0xC35F91AA=~z~I am no longer hungry, cousin. That was good.
-0xC35F91AA=~z~我现在不饿了，堂弟。吃得很好。
+0xC35F91AA=~z~我现在不饿了，堂弟。真不错。
 
 ;0xC49EFD1D=FCR2_ACT_DURING_SHOW_POS
 0xC49EFD1D=FCR2_ACT_DURING_SHOW_POS
@@ -600,7 +597,7 @@
 0xC638DD12=100
 
 ;0xC7F26776=~z~Niko, you are really moving up in the world, no? I tell you we are going to the top when you arrive.
-0xC7F26776=~z~Niko，你这是真的越来越高端了啊。你刚来的时候我就说过我们会走上顶峰。
+0xC7F26776=~z~Niko，你这越来越高端了啊。你刚来的时候我就说过我们会走上顶峰。
 
 ;0xC7F53752=~z~Oh cousin, I wish I could get angry at you for being late but you're too loveable. Let's go.
 0xC7F53752=~z~噢，堂弟，你实在是太可爱了，就算迟到我也生不了你的气。我们走吧。
@@ -615,25 +612,25 @@
 0xCABB998D=~z~Niko，来美国前你也老输给我。飞镖需要的是心理优势。
 
 ;0xCAE7574D=~z~Cousin, you are late. For that you are driving. I will let you use a cab if you want to though.
-0xCAE7574D=~z~堂弟，你迟到了，所以你来开车。需要的话我的出租车可以借给你开。
+0xCAE7574D=~z~堂弟，你迟到了，所以你来开车。需要的话我可以把出租车借给你。
 
 ;0xCC736CFE=100
 0xCC736CFE=100
 
 ;0xCC9CF734=~z~Niko, how could you expect to beat someone as supremely skilled as me? It was foolish
-0xCC9CF734=~z~Niko，你怎么可能打得过我这样球技精湛的人呢？太蠢了。
+0xCC9CF734=~z~Niko，你怎么可能打赢我这样球技精湛的人呢？太蠢了。
 
 ;0xCDE89E5D=~z~I wait and I wait and now you come without even a car. Well, let us find one.
-0xCDE89E5D=~z~我等啊等等啊等，结果现在你连辆车都没有就来了。算了，我们找一辆吧。
+0xCDE89E5D=~z~我等啊等等啊等，结果现在你连辆车都没有就来了。算了，找辆车吧。
 
 ;0xD05B5E35=~z~See you later, NB. Give me a call, yes?
-0xD05B5E35=~z~回头见，NB。记得给我打电话，行吧？
+0xD05B5E35=~z~回头见，NB。记得联系我，行吧？
 
 ;0xD1B7E30E=~z~Take me back won't you?
-0xD1B7E30E=~z~送我回去吧。
+0xD1B7E30E=~z~送我回去吧，好吗？
 
 ;0xD3BAE883=~z~Maybe we will play a whole game the next time we bowl, cousin.
-0xD3BAE883=~z~下次打保龄球的时候我们把整局打完吧，堂弟。
+0xD3BAE883=~z~下次打保龄球的时候把整局打完吧，堂弟。
 
 ;0xD49FE9F4=FCR2_ACT_POOL_LEAVE_WON
 0xD49FE9F4=FCR2_ACT_POOL_LEAVE_WON
@@ -648,13 +645,13 @@
 0xD8F4DB63=~z~听懂了吗，堂弟？听懂了吗？
 
 ;0xD94A4AF1=~z~Niko, there you are. Why don't you drive me in one of the cabs?
-0xD94A4AF1=~z~Niko，你来啦。你开我的这些出租车也可以。
+0xD94A4AF1=~z~Niko，你来啦。你可以开我店里的出租车。
 
 ;0xD9679A56=FCR2_ACT_DIFF_ACTIVITY_NO
 0xD9679A56=FCR2_ACT_DIFF_ACTIVITY_NO
 
 ;0xD9E48B14=~z~What amazing burgers, I feel another chin growing on my face. Do you see it?
-0xD9E48B14=~z~这汉堡太棒了，我觉得自己又长了一个下巴。你看见了吗？
+0xD9E48B14=~z~汉堡太棒了，觉得自己又长了一层下巴。你看见了吗？
 
 ;0xDA2CFCD8=~z~I like that place, now that Vlad is gone I can really appreciate the atmosphere.
 0xDA2CFCD8=~z~我喜欢这家酒吧，现在Vlad不在了，我才能真正享受店里的氛围。
@@ -687,7 +684,7 @@
 0xE5078450=~z~我很替你担心啊，堂弟。血气方刚的男人怎么会这么快就离开那些可爱的奶子呢？
 
 ;0xE6C4E991=~z~Niko, you are treating your cousin right. This is very sweet of you.
-0xE6C4E991=~z~Niko，你招待堂兄招待得还不错。我很感谢。
+0xE6C4E991=~z~Niko，你对堂兄我真好。我很感谢。
 
 ;0xE7760E8A=~z~Take me home, Niko.
 0xE7760E8A=~z~送我回家，Niko。
@@ -705,7 +702,7 @@
 0xEBD6C2CE=100
 
 ;0xEC91875E=~z~I'm not really feeling the vibe right now, cousin.
-0xEC91875E=~z~我现在真的没心情，堂弟。
+0xEC91875E=~z~我现在真没那个兴趣，堂弟。
 
 ;0xED16F52D=~z~Those Russians are sure a strange group, no?
 0xED16F52D=~z~那群俄国人是个奇怪的组织，不是吗？
@@ -747,7 +744,7 @@
 0xF47754E1=100
 
 ;0xF4A209A8=~z~I am not so sure about this one.
-0xF4A209A8=~z~我也不太确定。
+0xF4A209A8=~z~这一出我不好说。
 
 ;0xF4A800AC=100
 0xF4A800AC=100
@@ -771,7 +768,7 @@
 0xF9401359=FCR2_ACT_BOWL_LEAVE_ABANDON
 
 ;0xFD3D7D06=~z~You keep your cousin waiting, is a disgrace NB. Now, we must find a car.
-0xFD3D7D06=~z~你让你堂兄一直等着，太可耻了NB。现在，我们得找辆车。
+0xFD3D7D06=~z~让你堂兄一直等着，太可耻了，NB。现在先找辆车吧。
 
 ;0xFEFBF620=FCR2_ACT_ARRIVE_BURGER_SHOT
 0xFEFBF620=FCR2_ACT_ARRIVE_BURGER_SHOT

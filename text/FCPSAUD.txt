@@ -27,10 +27,10 @@
 0x0B8F68A5=010
 
 ;0x0C0DF82D=~z~Sure thing man, I've hidden some in Fishmarket South.
-0x0C0DF82D=~z~当然了，兄弟，我已经在Fishmarket South藏了一份了。
+0x0C0DF82D=~z~当然了，兄弟，我在鱼市南藏了一份了。
 
 ;0x0C48053C=~z~You'll find some I stashed for you in Presidents City.
-0x0C48053C=~z~我在Presidents City给你藏了一份，你可以去那儿拿。
+0x0C48053C=~z~我在Presidents City给你藏了一份。
 
 ;0x0CEC5328=100
 0x0CEC5328=100
@@ -51,7 +51,7 @@
 0x10B34C91=~z~Packie，兄弟，我没法来医院了。
 
 ;0x11BDB8C4=~z~Hey man, I'm discharging me self from hospital. Can you give me a lift?
-0x11BDB8C4=~z~嘿，兄弟，我从医院出院了，你能来接我吗？
+0x11BDB8C4=~z~嘿，兄弟，我从医院出院了。你能来接我吗？
 
 ;0x11E884B8=100
 0x11E884B8=100
@@ -99,7 +99,7 @@
 0x22E44324=~z~好的，兄弟，我一小时内就来。
 
 ;0x23C93857=~z~Alright Niko. I ditched some for you in The Triangle.
-0x23C93857=~z~好吧，Niko。我在The Triangle给你留了些。
+0x23C93857=~z~好吧，Niko。我在Triangle给你留了些。
 
 ;0x2550960E=FCP_ACT_CALL_REQ_SPEC_NORTHWOOD
 0x2550960E=FCP_ACT_CALL_REQ_SPEC_NORTHWOOD
@@ -123,7 +123,7 @@
 0x2B00087B=~z~当然，兄弟，你会在Fortside找到的。
 
 ;0x2B6BFCEB=~z~Sure thing man, I've hidden some in The Exchange.
-0x2B6BFCEB=~z~当然了兄弟，我已经在证交区藏了一份了。
+0x2B6BFCEB=~z~当然了兄弟，我在证交区藏了一份了。
 
 ;0x2C0B940D=FCP_ACT_CALL_REQ_SPEC_AIRPORT
 0x2C0B940D=FCP_ACT_CALL_REQ_SPEC_AIRPORT
@@ -234,7 +234,7 @@
 0x5935C7B7=~z~Niko，他们让我出院了，你能来接我吗？
 
 ;0x5B56B440=~z~Sure thing man, I've hidden some in Castle Gardens.
-0x5B56B440=~z~当然了，兄弟，我已经在Castle Gardens藏了一份了。
+0x5B56B440=~z~当然了，兄弟，我在Castle Gardens藏了一份了。
 
 ;0x5F5D79D8=100
 0x5F5D79D8=100
@@ -279,13 +279,13 @@
 0x6BC0D0E0=FCP_ACT_CALL_HOSP_CANCEL_MEDLIKE
 
 ;0x6CF82AFE=~z~Sorry man, I got other shit to do. Call your mother or something.
-0x6CF82AFE=~z~抱歉，兄弟，我还有别的事情要忙。打电话给你妈之类的吧。
+0x6CF82AFE=~z~抱歉，兄弟，我还有别的事要忙。打电话给你妈之类的吧。
 
 ;0x6D73A7F7=100
 0x6D73A7F7=100
 
 ;0x6ED010CD=~z~Cool, Niko. I'm sure it'll get put to good use.
-0x6ED010CD=~z~酷，Niko。肯定会派上用场的。
+0x6ED010CD=~z~好吧，Niko。早晚会派上用场的。
 
 ;0x6F3B180B=~z~Alright Niko. I've ditched some for you in the Firefly Projects.
 0x6F3B180B=~z~好的，Niko。我在Firefly公屋社区给你留了一份。
@@ -321,10 +321,10 @@
 0x7C332F25=FCP_ACT_CALL_REQ_SPEC_CITY_HALL
 
 ;0x7C4020BC=~z~Sure thing man, I've hidden some in Chinatown.
-0x7C4020BC=~z~当然了，兄弟，我已经在唐人街藏了些。
+0x7C4020BC=~z~当然了，兄弟，我在唐人街藏了些。
 
 ;0x7D802629=~z~Sure thing man, I've hidden some in Fishmarket North.
-0x7D802629=~z~当然了，兄弟。我已经在Fishmarket North藏了些。
+0x7D802629=~z~当然了，兄弟。我在鱼市北藏了些。
 
 ;0x7DAA0535=FCP_ACT_PPK_CALL_HOSP_CANCEL
 0x7DAA0535=FCP_ACT_PPK_CALL_HOSP_CANCEL
@@ -468,7 +468,7 @@
 0xAA9393B4=~z~当然，Niko，我已经在Outlook Park留了些。
 
 ;0xAAAA7311=~z~Packie, man. I don't need that bomb no more.
-0xAAAA7311=~z~Packie，兄弟，那个炸弹我现在不要了。
+0xAAAA7311=~z~Packie，兄弟，我现在不需要炸弹了。
 
 ;0xAAAD4B61=FCP_ACT_CALL_REQ_SPEC_COLONY_ISLAND
 0xAAAD4B61=FCP_ACT_CALL_REQ_SPEC_COLONY_ISLAND
@@ -516,7 +516,7 @@
 0xBB5708ED=~z~好的，兄弟，东西在Cerveza Heights。
 
 ;0xBB99F5F3=~z~Okay man, they're in East Island City.
-0xBB99F5F3=~z~好的，兄弟，东西在East Island City。
+0xBB99F5F3=~z~好的，兄弟，东西在东岛城。
 
 ;0xBB9FB337=FCP_ACT_GETCALL_HOSP_ACCEPT
 0xBB9FB337=FCP_ACT_GETCALL_HOSP_ACCEPT

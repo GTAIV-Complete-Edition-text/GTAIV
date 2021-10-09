@@ -6,7 +6,7 @@
 0x008F3283=FCPC1_MOM_DENIAL_CI
 
 ;0x010E836C=~z~Fuck, I practically had to come outta the womb swinging.
-0x010E836C=~z~操，我差不多是刚从子宫里出来就必须要打架了。
+0x010E836C=~z~操，刚从子宫里出来我就必须要打架了。
 
 ;0x032CDE3E=FCPC1_MOM_DENIAL_CM
 0x032CDE3E=FCPC1_MOM_DENIAL_CM
@@ -18,10 +18,10 @@
 0x05C86828=010100010100100010100100100100010100100100010100100100100100010
 
 ;0x06ADE470=~z~After all that there ain't a chance in hell of me being able to get hard. It's a fucking Catch-22.
-0x06ADE470=~z~到头来，我他妈根本就没法硬起来。这他妈是个死循环。
+0x06ADE470=~z~到头来，我他妈根本就硬不起来。这他妈是个死循环。
 
 ;0x0752E1F8=~z~You're getting to know the McReary family pretty good, Niko boy. What's left of it at least.
-0x0752E1F8=~z~你现在很了解McReary家族了，Niko仔。至少了解了它的残余。
+0x0752E1F8=~z~你现在很了解McReary家族了，Niko仔。至少了解剩下的部分。
 
 ;0x078D42DC=~z~I don't know.
 0x078D42DC=~z~我不知道。
@@ -45,7 +45,7 @@
 0x10C97807=~z~可卡因是现实主义者的毒品，对吧？让你活在当下。
 
 ;0x112E5BF4=~z~Ma had walked out when it started, didn't want to nothing to do with it.
-0x112E5BF4=~z~我妈在这一架开始的时候就出去了，完全不想管它。
+0x112E5BF4=~z~我妈在这一架开始的时候就出去了，完全不想管。
 
 ;0x119103AD=FCPC1_FRANCIS_PRIEST_DR
 0x119103AD=FCPC1_FRANCIS_PRIEST_DR
@@ -66,19 +66,19 @@
 0x178BDC41=FCPC1_GRASS_FL
 
 ;0x1825B639=~z~Must have killed someone, I guess. I never found out.
-0x1825B639=~z~我猜肯定是刚杀完人。我没法求证。
+0x1825B639=~z~我猜是刚杀完人。但我没法求证。
 
 ;0x1871C69A=FCPC1_GERRY_BLOOD_HI
 0x1871C69A=FCPC1_GERRY_BLOOD_HI
 
 ;0x1940E643=~z~but at least you ain't a fucking hypocrite?
-0x1940E643=~z~后者至少还他妈没那么虚伪？
+0x1940E643=~z~至少不可能当伪君子吧？
 
 ;0x197C503F=~z~Maybe we're all hypocrites. All imbeciles. Francis - you know about Francis - he wanted to be a priest.
 0x197C503F=~z~也许我们都是伪君子。都是蠢蛋。Francis－你也了解他－他曾想成为神父。
 
 ;0x19D8B524=~z~The fighting bit mainly - drunken fights, sober fights, fights on the subway, fights with the family.
-0x19D8B524=~z~我的话以打斗为主，醉了打斗、醒着打斗、在地铁上打斗，和家人打斗。
+0x19D8B524=~z~我的话以打斗为主，醉了打斗、醒着打斗、在地铁上打斗、和家人打斗。
 
 ;0x19E57EEC=100010100100100010100100100100100100100010
 0x19E57EEC=100010100100100010100100100100100100100010
@@ -93,7 +93,7 @@
 0x1C79558C=FCPC1_GRASS_FK
 
 ;0x1D267530=~z~They both just stopped when they saw her. Kate stopped being a kid after that. You know what I mean?
-0x1D267530=~z~一看见她他俩就停下来了。自那以后Kate就不再是一个小孩子了。懂我意思吗？
+0x1D267530=~z~看见她就停下来了。自那以后Kate就不再是一个小孩子了。懂我意思吗？
 
 ;0x1E325FFC=FCPC1_FAM_BA
 0x1E325FFC=FCPC1_FAM_BA
@@ -117,7 +117,7 @@
 0x22D9FF4B=~z~这种干架没有赢家。我觉得只有打到一个人半死不活才会结束。
 
 ;0x23048C92=~z~That's because you ain't Irish.
-0x23048C92=~z~那是因为你不是爱尔兰人。
+0x23048C92=~z~谁让你不是爱尔兰人呢。
 
 ;0x245C4E4A=FCPC1_FAM_BL
 0x245C4E4A=FCPC1_FAM_BL
@@ -135,7 +135,7 @@
 0x28ED4B7D=FCPC1_GRASS_FE
 
 ;0x2AA5E4AE=~z~I dunno, she's me ma but I ain't gonna ever understand that.
-0x2AA5E4AE=~z~我也不知道，虽然她是我妈，但我一辈子都搞不懂。
+0x2AA5E4AE=~z~我也不知道，虽然是我妈，但我一辈子都搞不懂她。
 
 ;0x2BF4E59F=FCPC1_IRELAND_EK
 0x2BF4E59F=FCPC1_IRELAND_EK
@@ -147,10 +147,10 @@
 0x2DAED15C=FCPC1_FRANCIS_PRIEST_DI
 
 ;0x2F3AE493=~z~No. well, it must have been hard, realizing your brothers kill people.
-0x2F3AE493=~z~不一样了，肯定很艰难，意识到你的兄弟都是杀人魔。
+0x2F3AE493=~z~不一样了。肯定很艰难，意识到你的兄弟都是杀人魔。
 
 ;0x2F4D9CC5=~z~Because Derrick was a grass. In England.
-0x2F4D9CC5=~z~因为Derrick是个告密者，在英格兰的时候。
+0x2F4D9CC5=~z~因为Derrick是个告密者，在英国的时候。
 
 ;0x2FAE7CA3=~z~Really?
 0x2FAE7CA3=~z~真的？
@@ -189,16 +189,16 @@
 0x3B147A50=FCPC1_SEX_AJ
 
 ;0x3B524A3A=~z~What happened?
-0x3B524A3A=~z~怎么回事？
+0x3B524A3A=~z~然后呢？
 
 ;0x3BB9F99D=FCPC1_FAM_BK
 0x3BB9F99D=FCPC1_FAM_BK
 
 ;0x3D3F3415=~z~There was just this feeling in the air. This feeling that told me - this one ain't like all the other fights. They didn't stop.
-0x3D3F3415=~z~空气里就有一种氛围，这个氛围告诉我－这一次不同于往常的打架。他们没有收手。
+0x3D3F3415=~z~空气里就有一种氛围。这个氛围告诉我，这一次不同于往常的打架。
 
 ;0x3DA8397A=~z~He was involved in that business and he grassed on some people to avoid doing some serious time.
-0x3DA8397A=~z~他和黑社会有关，然后他为了免掉牢狱之灾告发了某人。
+0x3DA8397A=~z~和黑社会有关，他为了不坐牢就告发了别人。
 
 ;0x3FACEA56=FCPC1_IRELAND_EF
 0x3FACEA56=FCPC1_IRELAND_EF
@@ -207,13 +207,13 @@
 0x3FE3B436=FCPC1_FRANCIS_GERRY_GU
 
 ;0x41FC09E5=~z~Yeah. Yeah, Kate saw the whole scene, him, insane like he'd ripped a man's throat out,
-0x41FC09E5=~z~是，是，Kate全都看见了，他，疯狂到像是刚割了谁的喉一样。
+0x41FC09E5=~z~是。是，Kate全都看见了，他疯狂到像是刚割了谁的喉一样。
 
 ;0x4310F83D=FCPC1_FAM_BD
 0x4310F83D=FCPC1_FAM_BD
 
 ;0x43ED507C=~z~Sure but you're like Gerry -
-0x43ED507C=~z~确实，但你很像Gerry－
+0x43ED507C=~z~确实，但你很像Gerry。
 
 ;0x44DD75A7=FCPC1_IRELAND_EE
 0x44DD75A7=FCPC1_IRELAND_EE
@@ -240,7 +240,7 @@
 0x4B385E92=~z~你这么说话就很像Gerry，深沉晦涩，搞得跟我在窃听一样。
 
 ;0x4B93346C=~z~Yes.
-0x4B93346C=~z~对。
+0x4B93346C=~z~是啊。
 
 ;0x4BA36DBE=~z~All of us apart from Derrick that is. He left us to visit the Old Country.
 0x4BA36DBE=~z~只有Derrick是个例外。他之前离开我们回老家了。
@@ -270,7 +270,7 @@
 0x50ED1C60=FCPC1_GRASS_FF
 
 ;0x513075F6=~z~I guess we got Ma to thank for that. Taking us to church and cooking a big lunch for the family on a Sunday.
-0x513075F6=~z~这点大概要感谢妈。礼拜日都会带我们去教堂，还给我们做丰盛的午餐。
+0x513075F6=~z~这点多亏了妈。礼拜日都会带我们去教堂，还会做丰盛的午餐。
 
 ;0x51F918F4=~z~No. He spun it different, but that was the truth.
 0x51F918F4=~z~不，他的说法可能不同，但我说的是事实。
@@ -345,16 +345,16 @@
 0x65CAB12E=FCPC1_GERRY_BLOOD_HP
 
 ;0x65EC691E=~z~Pain comes easy to the McReary's. Pain and remorse and doing whatever we can to forget about them.
-0x65EC691E=~z~痛苦很容易找上McReary家。悲痛、自责，然后什么都做，把这些忘个精光。
+0x65EC691E=~z~痛苦很容易找上McReary家。悲痛、自责，然后尽己所能，把这些忘个精光。
 
 ;0x6657D29C=~z~And he had this weird look in his eyes, like he was possessed.
-0x6657D29C=~z~然后他的神情就很奇怪，像是被恶灵附身了一样。
+0x6657D29C=~z~然后他的神情就很奇怪，像是恶灵附身了一样。
 
 ;0x66E787C1=FCPC1_FRANCIS_GERRY_GA
 0x66E787C1=FCPC1_FRANCIS_GERRY_GA
 
 ;0x6885B9F0=~z~He messed the whole fucking family up, I reckon. I used to think I loved him, then I realized I hated him.
-0x6885B9F0=~z~他他妈把整个家庭都搞烂了，我是这么想的。曾经我觉得我爱他，后来发现其实是恨他。
+0x6885B9F0=~z~他他妈把整个家都搞烂了。曾经我觉得我爱他，后来发现其实是恨他。
 
 ;0x69615F90=FCPC1_MOM_DENIAL_CC
 0x69615F90=FCPC1_MOM_DENIAL_CC
@@ -432,13 +432,13 @@
 0x7BCB6966=~z~不过他最喜欢的还是干架。
 
 ;0x7FD6C665=~z~With me, it's myself. My pa was different.
-0x7FD6C665=~z~我的话，是打自己，我爸就不一样了。
+0x7FD6C665=~z~我的话，是打自己。我爸就不一样了。
 
 ;0x81717E44=FCPC1_FRANCIS_PRIEST_DM
 0x81717E44=FCPC1_FRANCIS_PRIEST_DM
 
 ;0x833FFB81=~z~A grass, to avoid doing time. That's why Gerry won't bend - he sees it as his penance for the sins of his brother.
-0x833FFB81=~z~为了不坐牢而告密。所以Gerry才不会借酒借毒浇愁，他认为这是他对哥哥罪孽的弥补。
+0x833FFB81=~z~为了不坐牢而告密。所以Gerry才不会借酒借毒浇愁，他认为这是对哥哥罪孽的弥补。
 
 ;0x86A8B658=FCPC1_SEX_AH
 0x86A8B658=FCPC1_SEX_AH
@@ -477,7 +477,7 @@
 0x8D2570C1=~z~能让你不至于屁股决定脑袋，要多明智有多明智。
 
 ;0x8F7DC289=~z~No... I'm sorry. Happy thoughts, puppies and little girls smiling and clowns and all that shit.
-0x8F7DC289=~z~没有...不好意思。快乐的想法，男人女人笑开颜，就像个小丑，净他妈是这些玩意。
+0x8F7DC289=~z~没有...不好意思。想点高兴的吧，小狗、小妞的笑脸、小丑啥的。
 
 ;0x8FC15D53=~z~Why?
 0x8FC15D53=~z~为什么？
@@ -519,7 +519,7 @@
 0x9D67F8A0=~z~我不清楚，但实际上也没给他什么好处。我想是因为Derrick。
 
 ;0x9D6B40C2=~z~I think that was when she realized just what we were like - she was young then. She was never quite the same after that.
-0x9D6B40C2=~z~我想她就是在那时候意识到我们的生活的－当时她还小。在那以后她就性情大变了。
+0x9D6B40C2=~z~我想她就是在那时候意识到我们的生活的，当时她还小。在那以后她就性情大变了。
 
 ;0x9DD4E740=FCPC1_MOM_DENIAL_CD
 0x9DD4E740=FCPC1_MOM_DENIAL_CD
@@ -624,7 +624,7 @@
 0xBE2CD2CF=~z~只和还活着的有联络。我可没好运到全家都在同一个城市。
 
 ;0xBEFBB780=~z~It ended when they was in the kitchen, Gerry was on top just smashing Frankie's head into the floor.
-0xBEFBB780=~z~在他们打到厨房以后才结束的，Gerry都快要把Frankie的脑袋往地上敲了。
+0xBEFBB780=~z~打到厨房以后才结束的，Gerry都快要把Frankie的脑袋往地上敲了。
 
 ;0xBFCAEE60=100100010100100100100010100010100100100010100
 0xBFCAEE60=100100010100100100100010100010100100100010100
@@ -699,7 +699,7 @@
 0xE31352A1=FCPC1_IRELAND_EM
 
 ;0xE381009A=~z~There was a look in their eyes. It was fucking animal.
-0xE381009A=~z~他们眼里都有一种目光，是他妈野兽的目光。
+0xE381009A=~z~他们没有收手。眼里都有一种目光，是他妈野兽的目光。
 
 ;0xE3F5B529=FCPC1_IRELAND_ED
 0xE3F5B529=FCPC1_IRELAND_ED
@@ -720,10 +720,10 @@
 0xEAE6F38F=FCPC1_MOM_DENIAL_CJ
 
 ;0xEB089C9B=~z~Maybe sometimes, I mainly try to focus my need to destroy things onto other people.
-0xEB089C9B=~z~也许有吧，一般我会考虑把破坏欲发泄在别人身上。
+0xEB089C9B=~z~也许有吧，我一般会把破坏欲发泄在别人身上。
 
 ;0xEB9AD885=~z~Francis tried to get me on his side, team up against the other two he said, but I wasn't having any of it.
-0xEB9AD885=~z~Francis试过拉拢我，和他抱团跟另外两人对着干，不过我完全没接受。
+0xEB9AD885=~z~Francis也拉拢过我，想要抱团对抗他俩。不过我完全没接受。
 
 ;0xEBE92EE7=~z~It's this fucking chop that's screwing me at the moment.
 0xEBE92EE7=~z~现在我他妈被这些大麻烟搞得很心烦。
@@ -744,10 +744,10 @@
 0xF2C26B3B=FCPC1_FRANCIS_GERRY_GL
 
 ;0xF3673A21=~z~All of us except for Francis. We stayed together when it was possible.
-0xF3673A21=~z~除了Francis。还能在一起的时候我们就在一起。
+0xF3673A21=~z~除了Francis。还能在一起的时候我们倒在一起。
 
 ;0xF3CAA5C0=~z~And then went into hiding, for years.
-0xF3CAA5C0=~z~然后就躲了起来。
+0xF3CAA5C0=~z~然后就躲了好多年。
 
 ;0xF3F307FB=FCPC1_MOM_DENIAL_CL
 0xF3F307FB=FCPC1_MOM_DENIAL_CL

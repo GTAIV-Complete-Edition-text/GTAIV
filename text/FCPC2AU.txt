@@ -51,7 +51,7 @@
 0x2AF08CD3=FCPC2_NIKO_AM
 
 ;0x2C23752A=~z~No one but me can see what is in my head when I try to sleep at night. No one has the dreams I do.
-0x2C23752A=~z~只有我知道我试图入睡时脑海中的画面，没人能做我那样的梦。
+0x2C23752A=~z~只有我知道躺在床上时我脑海中的画面，没人能做我那样的噩梦。
 
 ;0x2C3DEF0C=FCPC2_NIKO_AR
 0x2C3DEF0C=FCPC2_NIKO_AR
@@ -135,13 +135,13 @@
 0x65AFA745=~z~她孩子的耻辱。我想没必要我逐字逐句再说一遍吧？
 
 ;0x67073ACF=~z~I just wish she'd sort her head out - learn to enjoy herself a little bit more.
-0x67073ACF=~z~我只是希望她能换个脑子，学会自己多享点乐。
+0x67073ACF=~z~我只是希望她能换个脑子，学会多享点乐。
 
 ;0x681CE809=FCPC2_NIKO_AC
 0x681CE809=FCPC2_NIKO_AC
 
 ;0x688C2863=~z~Fuck. I never told anyone that before.
-0x688C2863=~z~操，之前我没跟任何人说过这事。
+0x688C2863=~z~操。之前我没跟任何人说过这事。
 
 ;0x68974C1D=~z~Very funny. I mean, I never paid any attention at school.
 0x68974C1D=~z~真好笑。我是说，我在学校就没认真学过。
@@ -180,16 +180,16 @@
 0x78CF4601=FCPC2_SCHOOL_DH
 
 ;0x7927C7B2=~z~Of course she was gonna go wrong. They coulda ended up in Australia.
-0x7927C7B2=~z~那她当然会走上歧途。他们完全可以了结在澳大利亚的。
+0x7927C7B2=~z~那她当然会走上歧途。他们完全可以在澳大利亚生活的。
 
 ;0x79F6B8D3=~z~Looks can be deceiving. She can't enjoy herself. No sense of joy.
 0x79F6B8D3=~z~外表是会骗人的。她不会享受自己。没有幸福感。
 
 ;0x7B18130E=~z~Were you and Roman always close? Back home I mean.
-0x7B18130E=~z~你和Roman一直都那么合得来吗？我是说在老家的时候。
+0x7B18130E=~z~你和Roman一直都那么合得来吗？在老家的时候。
 
 ;0x7B4ECDE8=~z~I think that's what really destroyed the family - the old man was a sick pervert.
-0x7B4ECDE8=~z~我想毁灭家族的症结在这儿——那老家伙是个死变态。
+0x7B4ECDE8=~z~我想毁灭家族的症结在这儿，那老家伙是个死变态。
 
 ;0x7C8D45D5=FCPC2_SCHOOL_DG
 0x7C8D45D5=FCPC2_SCHOOL_DG
@@ -234,7 +234,7 @@
 0x8FB8E4CF=010100010100100010100100100100100010100
 
 ;0x9028FC37=~z~Me mother in particular. I think it's the shame. The shame of her marriage to a drunken pervert.
-0x9028FC37=~z~我母亲她特为尤甚。我觉得这很耻辱。她嫁给一个变态酒鬼就是耻辱。
+0x9028FC37=~z~我母亲她特别严重。我觉得这很耻辱。她嫁给一个变态酒鬼就是耻辱。
 
 ;0x92986D4E=FCPC2_KATE_BD
 0x92986D4E=FCPC2_KATE_BD
@@ -279,7 +279,7 @@
 0xA51C5EAB=FCPC2_NIKO_AQ
 
 ;0xA5DBC6A9=~z~Because I don't know... because all I fucking do is cause trouble and then drink and do drugs.
-0xA5DBC6A9=~z~因为我不知道...因为我他妈只会生事喝酒加吸毒。
+0xA5DBC6A9=~z~因为我不知道...因为我他妈只会惹事喝酒加吸毒。
 
 ;0xA67729F8=FCPC2_FATHER_EF
 0xA67729F8=FCPC2_FATHER_EF
@@ -294,7 +294,7 @@
 0xAD85D3A7=~z~挺好，还不错，你也知道。
 
 ;0xAF62BAAA=~z~Ended up in fucking Liberty City - the centre of sin on Earth.
-0xAF62BAAA=~z~最后了结在自由城－地球上罪恶的聚集地。
+0xAF62BAAA=~z~最后了结在自由城，地球上罪恶的聚集地。
 
 ;0xAFCB8341=FCPC2_SHAME_CI
 0xAFCB8341=FCPC2_SHAME_CI
@@ -306,7 +306,7 @@
 0xB212167C=FCPC2_NIKO_AP
 
 ;0xB5CA0871=~z~I stuck around and life didn't go so good from there in.
-0xB5CA0871=~z~我则待在那儿，过得不大好。
+0xB5CA0871=~z~我没有走，从此日子过得不大好。
 
 ;0xB5F8B977=FCPC2_SHAME_CB
 0xB5F8B977=FCPC2_SHAME_CB
@@ -354,7 +354,7 @@
 0xC804CD94=FCPC2_FATHER_EN
 
 ;0xC944EE6E=~z~I blame her parents. They were first generation, you know.
-0xC944EE6E=~z~我责备她的父母。他们是第一代，你也知道。
+0xC944EE6E=~z~我责备她的父母。他们是第一代，懂吧。
 
 ;0xC948E153=FCPC2_SCHOOL_DB
 0xC948E153=FCPC2_SCHOOL_DB

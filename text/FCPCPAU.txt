@@ -6,7 +6,7 @@
 0x012E0C32=~z~基督耶稣啊，你终于给我打电话了，Niko。难以置信。
 
 ;0x02427EB7=~z~How about we play pool?
-0x02427EB7=~z~要不要一起去打个台球？
+0x02427EB7=~z~要不要去打个台球？
 
 ;0x028FD2B0=~z~I apologize Packie, but we're not going to a show together tonight. I'm busy.
 0x028FD2B0=~z~很抱歉，Packie，但是今晚我们没法一起去看表演了。我有点忙。
@@ -24,10 +24,10 @@
 0x0E03175D=100
 
 ;0x0E8039B1=~z~Why don't we get off our asses and go see something?
-0x0E8039B1=~z~要么我们一起歇一歇，找点东西看看？
+0x0E8039B1=~z~要么我们一起歇一歇，找点节目看？
 
 ;0x0F73A8BD=~z~Niko, you called. This is a miracle. Two more and you might be fucking canonised.
-0x0F73A8BD=~z~Niko，你打来了啊，简直是奇迹啊。在打几次你就是圣人了。
+0x0F73A8BD=~z~Niko，你打来了啊，简直是奇迹啊。再打几次你就是圣人了。
 
 ;0x131570BF=~z~Niko, me and you have been hanging out some. I'm thinking we should go play some darts. How about it man?
 0x131570BF=~z~Niko，我们已经出去过几次了。我想一起去玩个飞镖。你意下如何？
@@ -54,10 +54,10 @@
 0x1FA4AD5A=~z~好的，Packie。一小时内我来你家接你。
 
 ;0x22360542=~z~Let's go get fucked up, I'll pick you up in the next hour.
-0x22360542=~z~那就去大闹一场吧，我一小时内来接你。
+0x22360542=~z~那就大醉一场吧，我一小时内来接你。
 
 ;0x25C72C3D=~z~Wanna go to a gentlemen's club?
-0x25C72C3D=~z~绅士的俱乐部去不去啊？
+0x25C72C3D=~z~绅士俱乐部去不去啊？
 
 ;0x26311219=~z~Alright, man. If you want to hang later call me.
 0x26311219=~z~好吧，兄弟。你要是想出来玩就来找我。
@@ -66,7 +66,7 @@
 0x2670D6C0=FCP_ACT_GETCALL_DRINK
 
 ;0x292ABF76=~z~Sorry Packie. No bowling. I got shit to do. Maybe some other time.
-0x292ABF76=~z~抱歉，Packie，没空打保龄。我事情太多，要么下次吧。
+0x292ABF76=~z~抱歉，Packie，没空打保龄球。我事很多，还是下次吧。
 
 ;0x29E144D1=~z~How about some darts?
 0x29E144D1=~z~来玩飞镖吗？
@@ -84,7 +84,7 @@
 0x2CB01B39=010
 
 ;0x2CE89F2C=~z~Alright Niko, gimme a call when you wanna do something.
-0x2CE89F2C=~z~行吧，Niko，你想去做点什么的话就打给我。
+0x2CE89F2C=~z~行吧，Niko，你想出门玩的话就打给我。
 
 ;0x2D6E48ED=~z~Sure, Packie. I could go bowling with you. I'll pick you up in the next hour.
 0x2D6E48ED=~z~好啊，Packie。我可以来打保龄球，一小时内来接你。
@@ -99,7 +99,7 @@
 0x3245BE4D=100
 
 ;0x32A5DEFE=~z~Sorry Packie, I'm not coming to the club. Maybe another time.
-0x32A5DEFE=~z~抱歉，Packie，我不能去俱乐部了，要么下次吧。
+0x32A5DEFE=~z~抱歉，Packie，我现在去不了。要么下次吧。
 
 ;0x3324A7EC=FCP_ACT_GETCALL_POOL
 0x3324A7EC=FCP_ACT_GETCALL_POOL
@@ -111,13 +111,13 @@
 0x36475901=~z~抱歉，Packie，但我没法和你去打保龄球了。
 
 ;0x37E1B57A=~z~Okay Niko. I ain't gonna get offended. Call me when you're free.
-0x37E1B57A=~z~好吧，Niko。我不会生气的。等你有空了再打给我。
+0x37E1B57A=~z~好吧，Niko，我不会生气的。等你有空了再打给我。
 
 ;0x388CDE60=FCP_ACT_GETCALL_SHOW_FIRST
 0x388CDE60=FCP_ACT_GETCALL_SHOW_FIRST
 
 ;0x397C3853=~z~Sure, Niko. You must have people to kill and shit. Call me when you're free.
-0x397C3853=~z~当然，Niko。你肯定是还有人要杀。等你有空了就打给我。
+0x397C3853=~z~当然，Niko。你肯定还有人要杀吧。有空了就联系我。
 
 ;0x399C4B6A=010
 0x399C4B6A=010
@@ -129,7 +129,7 @@
 0x3B02301F=100
 
 ;0x3BA8685F=~z~Wanna go play darts, man?
-0x3BA8685F=~z~去不去玩飞镖啊，兄弟？
+0x3BA8685F=~z~去不去玩飞镖，兄弟？
 
 ;0x3C23D78B=FCP_ACT_PPK_CALL_DRINK_CANCEL
 0x3C23D78B=FCP_ACT_PPK_CALL_DRINK_CANCEL
@@ -138,10 +138,10 @@
 0x3CC7F342=~z~我没心情，Packie。你自己去脱衣舞俱乐部吧。
 
 ;0x3F660C47=~z~Fuck me, Niko. I didn't even want to go in the first place. Shit.
-0x3F660C47=~z~我操，Niko。我一开始就没想去过。靠。
+0x3F660C47=~z~我操，Niko。我一开始就不想去的。靠。
 
 ;0x43FC866B=~z~I don't feel like playing pool, Packie. I'll call you later.
-0x43FC866B=~z~我不是很想打台球，Packie。待会儿再打给你。
+0x43FC866B=~z~我不是很想打台球，Packie。以后再联系你。
 
 ;0x468241EC=~z~Nah Packie, sorry. I don't wanna see a show. Another time.
 0x468241EC=~z~算了，Packie，抱歉。我不想看表演。下次吧。
@@ -153,7 +153,7 @@
 0x4D901C39=010
 
 ;0x4DBEA8F8=~z~I don't give a fucking shit. I should have cancelled your fucking call.
-0x4DBEA8F8=~z~我他妈才不管，就应该把你丫的电话挂了的。
+0x4DBEA8F8=~z~关老子屁事，就应该把你丫的电话挂了的。
 
 ;0x4EE45A40=~z~We got a plan, Niko. I'll wait for ya.
 0x4EE45A40=~z~那就说好了，Niko。我等着你。
@@ -231,10 +231,10 @@
 0x88655100=~z~好吧，Niko，也行。我们改天再去。
 
 ;0x8A5E5E6B=~z~How about we go drinking?
-0x8A5E5E6B=~z~我们一起去喝一杯如何？
+0x8A5E5E6B=~z~一起去喝一杯如何？
 
 ;0x8F8882EF=~z~Let's go bowling.
-0x8F8882EF=~z~我们去打保龄球吧。
+0x8F8882EF=~z~去打保龄球吧。
 
 ;0x9056AE9F=~z~Okay man, I could catch a show. Wait for me at the house for one hour.
 0x9056AE9F=~z~好啊，兄弟。我可以来看表演，你在家等着，我一小时内来接。
@@ -330,7 +330,7 @@
 0xC1C39571=~z~好了，Niko，我们来往也有段时间了。差不多也该带你去看看美国传统脱衣舞女了。
 
 ;0xC29D5610=~z~Let's go plays some darts, man. I'll pick you up in the next hour.
-0xC29D5610=~z~我们去玩局飞镖吧，兄弟。我一小时内来接你。
+0xC29D5610=~z~那就去玩飞镖吧，兄弟。我一小时内来接你。
 
 ;0xC3800510=~z~Sorry Packie, I ain't playing pool with you right now. Another time.
 0xC3800510=~z~抱歉，Packie，现在我没法来和你打台球。改天吧。
@@ -384,7 +384,7 @@
 0xD5EE942D=FCP_ACT_GETCALL_POOL_FIRST
 
 ;0xD71446C1=~z~I can't get drunk with you today, Packie. I'm sorry.
-0xD71446C1=~z~今天我没法陪你喝酒，Packie。很抱歉。
+0xD71446C1=~z~今天我没法陪你喝酒了，Packie。很抱歉。
 
 ;0xD859C151=~z~Patrick here.
 0xD859C151=~z~我是Patrick。
@@ -414,7 +414,7 @@
 0xE713889F=100
 
 ;0xEA36650A=~z~Man, it's Packie calling.
-0xEA36650A=~z~兄弟，是我，Packie。
+0xEA36650A=~z~兄弟，我是Packie。
 
 ;0xEC9F4FAF=FCP_ACT_PPK_CALL_SHOW_CANCEL
 0xEC9F4FAF=FCP_ACT_PPK_CALL_SHOW_CANCEL
@@ -426,13 +426,13 @@
 0xEDD9CADD=FCP_ACT_GETCALL_VERYIRATE
 
 ;0xF16B7B6F=~z~Packie, you're going to have to get messed up alone because I can't make it.
-0xF16B7B6F=~z~Packie，你只能自己去大闹了，我去不了。
+0xF16B7B6F=~z~Packie，你只能自己去买醉了，我去不了。
 
 ;0xF3046B1F=100
 0xF3046B1F=100
 
 ;0xF4C48C39=~z~What's up man? My ma says that I got to take you to a show since you ain't from Liberty City. What do you think?
-0xF4C48C39=~z~怎么样，兄弟？我妈说我应该带你去看个表演，因为你不是本地人。你意下如何？
+0xF4C48C39=~z~怎么样，兄弟？我妈说应该带你去看个表演，因为你不是本地人。你意下如何？
 
 ;0xF62A384C=100
 0xF62A384C=100

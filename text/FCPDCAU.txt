@@ -1,8 +1,4 @@
-﻿;注：
-;1.中间有一段是Packie唱爱尔兰民谣Danny Boy，我改成自己瞎填的词了，字幕跟声音差太多还是不舒服
-;2.R星传统艺能 字幕跟轴对不上 有几句我照实际情况改掉了
-
-[FCPDCAU]
+﻿[FCPDCAU]
 ;0x0097E5AE=FCP2_DRUNK6_FA
 0x0097E5AE=FCP2_DRUNK6_FA
 
@@ -73,7 +69,7 @@
 0x1D35F7F4=FCP2_DRUNK1_AE
 
 ;0x1E928E3F=~z~You think I'd still need chop if I was burning in Hell, Niko?
-0x1E928E3F=~z~你说我都下地狱了还会需要大麻烟吗，Niko？
+0x1E928E3F=~z~你说下地狱了我还需要大麻烟吗，Niko？
 
 ;0x21EC361A=FCP2_DRUNK3_CD
 0x21EC361A=FCP2_DRUNK3_CD
@@ -124,7 +120,7 @@
 0x37451F00=FCP2_DRUNK2_BE
 
 ;0x37735322=~z~I ain't never left Liberty City.
-0x37735322=~z~我从没出过自由城。
+0x37735322=~z~我从没出过自由城，除了做梦的时候。
 
 ;0x38DBD82C=~z~Whatever.
 0x38DBD82C=~z~随你吧。
@@ -142,7 +138,7 @@
 0x3D14B483=~z~你必须保持安静，非常安静。是首长诗。
 
 ;0x3D6EFE67=~z~I'm pissed and I'm saying stupid shit, about shit,
-0x3D6EFE67=~z~我醉了，然后就会说胡话，的胡话，
+0x3D6EFE67=~z~我醉了，然后就会说胡话，的胡话。
 
 ;0x3E730073=~z~You're sick, you're all fucking sick, every last one of you.
 0x3E730073=~z~摸我这儿...一群混蛋，都他妈混蛋，你们没一个好东西。
@@ -196,7 +192,7 @@
 0x4F288316=~z~或在那溪谷，
 
 ;0x4F5BD911=~z~If I did I would not speak it to you. In this country all you got is rap music.
-0x4F5BD911=~z~我要真懂就不跟你说了，这个国家只有说唱音乐。
+0x4F5BD911=~z~我要真懂也不跟你说。这个国家只有说唱音乐。
 
 ;0x4FC184EF=FCP2_DRUNK6_FD
 0x4FC184EF=FCP2_DRUNK6_FD
@@ -235,7 +231,7 @@
 0x5EF3A414=~z~还是阴霾，
 
 ;0x5FE9A40E=~z~Goin' to a federal penetentiarery... penetentiary don't count as leavin' Liberty City.
-0x5FE9A40E=~z~进联邦金鱼...监狱不算是出了自由城。
+0x5FE9A40E=~z~进联邦金鱼...监狱，不算是出了自由城。
 
 ;0x60D17BFC=~z~I am just fucking with you, Packie. I don't know no fucking poetry.
 0x60D17BFC=~z~我逗你玩呢，Packie。我他妈根本不懂什么诗歌。
@@ -262,7 +258,7 @@
 0x6CAA200A=FCP2_DRUNK5_EL
 
 ;0x6D3540E6=~z~Fuck you. I'm not drunk. I'm sober as a lord.
-0x6D3540E6=~z~操你妈，我没醉。我现在清醒得跟醉翁一样。
+0x6D3540E6=~z~操你妈，我没醉。我清醒得跟醉翁一样。
 
 ;0x6DAD4187=~z~Oh Danny Boy,
 0x6DAD4187=~z~哦，Danny Boy，
@@ -319,7 +315,7 @@
 0x7F857200=FCP2_DRUNK3_CX
 
 ;0x815F6783=~z~When summer's in the meadow,
-0x815F6783=~z~在草原盛夏时候，
+0x815F6783=~z~在草原盛夏时候；
 
 ;0x82EE6A21=~z~I'll end up in
 0x82EE6A21=~z~我都怀疑我能不能再活半年...就算多活几年，最后也会
@@ -442,7 +438,7 @@
 0xAB665744=FCP2_DRUNK3_CG
 
 ;0xACD4916C=~z~I've heard about Europe - it's near Ireland, only the people there are backwards and hairy...
-0xACD4916C=~z~我听说过欧洲，就爱尔兰边上，只是那里都是原始人，长毛怪...
+0xACD4916C=~z~我听说过欧洲，就爱尔兰边上，只是那里都是原始人、长毛怪...
 
 ;0xAD8137D5=FCP2_DRUNK4_DD
 0xAD8137D5=FCP2_DRUNK4_DD
@@ -529,7 +525,7 @@
 0xD479C964=~z~又这样。
 
 ;0xD5289080=~z~Hushed and white with snow
-0xD5289080=~z~白雪封冻时，
+0xD5289080=~z~白雪封冻时。
 
 ;0xD9A3275A=FCP2_DRUNK5_EQ
 0xD9A3275A=FCP2_DRUNK5_EQ

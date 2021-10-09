@@ -6,7 +6,7 @@
 0x01F2411A=~z~这家店是有点平民，老兄，但确实很痛快。
 
 ;0x02A200F4=~z~You for real man? You got no fucking respect for our friendship, homie. Thanks for nothing.
-0x02A200F4=~z~你确定，老兄？你他妈就不尊重我们的友情。谢谢吼兄弟。
+0x02A200F4=~z~你确定，老兄？你他妈就不尊重我们的友情。谢谢啊，兄弟。
 
 ;0x02FB6E50=~z~I heard this dive bar's not bad, man.
 0x02FB6E50=~z~听说这家平民酒吧不错，兄弟。
@@ -51,7 +51,7 @@
 0x192C3DAC=~z~我认为你想玩这些辣鸡？你真是个怪胎，兄弟。
 
 ;0x1B7767FD=~z~No problem, man - I know how shit comes up. Another time.
-0x1B7767FD=~z~没问题，老兄 - 我能理解。那就改天吧。
+0x1B7767FD=~z~没问题，老兄。我能理解。那就改天吧。
 
 ;0x1C71CD0E=~z~Some fucking homeboy you are. Fuck you.
 0x1C71CD0E=~z~你这个塑料兄弟。操你妈的。
@@ -84,7 +84,7 @@
 0x21B8346E=100
 
 ;0x2227A9EE=~z~Yo man, since I got out, I can't get enough of fancy restaurants - I'm excited about this shit.
-0x2227A9EE=~z~哟老兄，自打我出来后，就没来过这种高级餐馆，我现在很兴奋。
+0x2227A9EE=~z~哟老兄，自打我出来后，就没来过这种高级餐馆。我现在很兴奋。
 
 ;0x231CB808=100
 0x231CB808=100
@@ -93,10 +93,10 @@
 0x23A26D99=~z~Dwayne。那个，我很抱歉，突然有事，我来不了了。
 
 ;0x240A23A6=~z~What's your problem? Don't you like bitches, homeboy? Why you leaving already?
-0x240A23A6=~z~你怎么回事？你不喜欢娘们么，老弟？怎么这就要走了？
+0x240A23A6=~z~你怎么回事？你不喜欢娘们吗，老弟？怎么这就要走了？
 
 ;0x24D011A2=~z~That bar is expensive, but it's fun and it's got great women.
-0x24D011A2=~z~那家店很贵，但我很高兴，那里女人也多。
+0x24D011A2=~z~那家店很贵，但我很高兴，里面女人也多。
 
 ;0x26912730=FCD2_ACT_BOWL_LEAVE_DRAW
 0x26912730=FCD2_ACT_BOWL_LEAVE_DRAW
@@ -117,13 +117,13 @@
 0x28E3C0BB=FCD2_ACT_LEAVE_FASTFOOD
 
 ;0x28EA75D8=~z~I heard about this bar, man - supposed to be decent.
-0x28EA75D8=~z~我听说过这家店，兄弟，似乎很不错。
+0x28EA75D8=~z~我听说过这家店，兄弟，似乎很棒。
 
 ;0x29526CAC=~z~Okay, man, I know you got a lot on. I'll make my own way home.
-0x29526CAC=~z~好的伙计，我知道你事很多。那我自己想办法回家吧。
+0x29526CAC=~z~好吧伙计，我知道你事很多。那我自己想办法回家吧。
 
 ;0x2A363654=~z~Niko, it's Dwayne. You've been a good friend to me... hit me up if you ever need any backup, man.
-0x2A363654=~z~Niko，我是Dwayne。你真是对我太好了...要人支援的话就打电话给我，兄弟。
+0x2A363654=~z~Niko，我是Dwayne。你真是对我太好了...要人支援的话就联系我，兄弟。
 
 ;0x2A3DC9E5=FCD2_ACT_BOWL_LEAVE_LOST
 0x2A3DC9E5=FCD2_ACT_BOWL_LEAVE_LOST
@@ -165,7 +165,7 @@
 0x36E104AB=100
 
 ;0x39F53BEC=~z~That was a good time, man - for real.
-0x39F53BEC=~z~我玩得很开心，兄弟。真的。
+0x39F53BEC=~z~我喝得很开心，兄弟。真的。
 
 ;0x39FD53FE=FCD2_ACT_GETCALL_HOSP_REJ_MEDLIKE
 0x39FD53FE=FCD2_ACT_GETCALL_HOSP_REJ_MEDLIKE
@@ -207,10 +207,10 @@
 0x483587B9=100
 
 ;0x4ADC67BC=~z~Man, you can feel that shit doing you harm.
-0x4ADC67BC=~z~兄弟，你能感受到垃圾食品的副作用。
+0x4ADC67BC=~z~兄弟，都能感受到垃圾食品的副作用。
 
 ;0x4B600AB8=~z~Dwayne. I'm sorry - something has come up - I ain't going to be able to make that video game session.
-0x4B600AB8=~z~Dwayne。我很抱歉 - 我有些事情 - 我在一段时间内不会在打电动了。
+0x4B600AB8=~z~Dwayne。我很抱歉，突然有急事。没法来陪你打电动了。
 
 ;0x4C331A9B=FCD2_ACT_ARRIVE_STRIP
 0x4C331A9B=FCD2_ACT_ARRIVE_STRIP
@@ -246,7 +246,7 @@
 0x571492B2=100
 
 ;0x57EE23D0=~z~Are you fucking kidding me? A chopper? You're something else, fool!
-0x57EE23D0=~z~这他妈假的吧？直升机？你太牛逼了吧，我操！
+0x57EE23D0=~z~这他妈假的吧？直升机？你太牛逼了，我操！
 
 ;0x585D0C2F=FCD2_ACT_ARRIVEC_NOTLATE
 0x585D0C2F=FCD2_ACT_ARRIVEC_NOTLATE
@@ -276,7 +276,7 @@
 0x5FCBDC0B=~z~好的。那就改天吧，有机会的话。
 
 ;0x60A97254=~z~Don't worry. Thanks for calling to tell me, man. Another time.
-0x60A97254=~z~没关系。谢谢你打电话告诉我，兄弟。下次吧。
+0x60A97254=~z~没关系。谢谢你打电话告诉我，兄弟。下次再约吧。
 
 ;0x639FAB2A=~z~Man, I can't just now. The boys are chilling after last time. Try later.
 0x639FAB2A=~z~兄弟，现在派不了。弟兄们还没休息好呢。下次再说吧。
@@ -324,7 +324,7 @@
 0x726A24DD=100
 
 ;0x7570F2A3=~z~Sorry, man - I've got to cancel the bowling.
-0x7570F2A3=~z~抱歉，伙计，我得取消约好的保龄球了。
+0x7570F2A3=~z~抱歉，伙计，说好的保龄球打不了了。
 
 ;0x77B4BDE6=~z~You think you got game? Let's bowl, bitch.
 0x77B4BDE6=~z~你以为你技术很好？打两球就知道了，贱人。
@@ -378,7 +378,7 @@
 0x85734057=FCD2_ACT_CALL_HOSP_CANCEL_LOLIKE
 
 ;0x869DA919=~z~Video games? I ain't think we was doing this just now... whatever, I'm down.
-0x869DA919=~z~电玩？我不想现在去...总之，我动身了。
+0x869DA919=~z~电玩？我们约的不是这里吧...算了，打两把吧。
 
 ;0x8810AD3B=FCD2_ACT_LEAVE_STRIP_GOOD
 0x8810AD3B=FCD2_ACT_LEAVE_STRIP_GOOD
@@ -396,7 +396,7 @@
 0x8CF2B726=FCD2_ACT_LEAVE_STANDARD
 
 ;0x8DB1BAD5=~z~Man, we gonna get our drink on in this mother... I love this shit.
-0x8DB1BAD5=~z~兄弟，我们就进这家破店喝...我超爱这个。
+0x8DB1BAD5=~z~兄弟，我们就进这家店喝...我超爱这里。
 
 ;0x8DD683B3=~z~Yo man, can you drop me back at my apartment?
 0x8DD683B3=~z~哟老兄，你可以载我回公寓吗？
@@ -444,7 +444,7 @@
 0x98F0D1D6=FCD2_ACT_ARRIVE_CLUB_GENERIC
 
 ;0x9B1C0085=~z~At least this dump is cheap.
-0x9B1C0085=~z~至少这些垃圾很便宜.
+0x9B1C0085=~z~至少垃圾食品很便宜.
 
 ;0x9BCF5C06=FCD2_ACT_PDW_CALL_CANCEL_SPEC
 0x9BCF5C06=FCD2_ACT_PDW_CALL_CANCEL_SPEC
@@ -456,7 +456,7 @@
 0x9D190031=010
 
 ;0x9D726F50=~z~I love this place - used to dream about it when I was inside.
-0x9D726F50=~z~我爱这家店，我坐牢的时候经常想这里。
+0x9D726F50=~z~我爱这家店，坐牢的时候经常梦见这里。
 
 ;0x9DB9F0B7=FCD2_ACT_PDW_CALL_HOSP_CANCEL
 0x9DB9F0B7=FCD2_ACT_PDW_CALL_HOSP_CANCEL
@@ -576,7 +576,7 @@
 0xC8AA6070=FCD2_ACT_LEAVE_STRIP_OK
 
 ;0xC8E335C5=~z~Sorry, I'm going to cancel that drink.
-0xC8E335C5=~z~抱歉，我要取消喝酒。
+0xC8E335C5=~z~抱歉，没法来喝酒了。
 
 ;0xC8F6694D=FCD2_ACT_PDW_CALL_MEDLIKE
 0xC8F6694D=FCD2_ACT_PDW_CALL_MEDLIKE
@@ -588,13 +588,13 @@
 0xC9955F17=FCD2_ACT_ARRIVE_PUB_FAVOURITE
 
 ;0xCAECEAC7=~z~Listen, we gonna need a car, especially seeing as you is late and shit.
-0xCAECEAC7=~z~听好，我们需要辆车，更何况你还迟到了。
+0xCAECEAC7=~z~听好，我们需要车子，更何况你还迟到了。
 
 ;0xCB958EAB=FCD2_ACT_PDW_GETCALL_HOSP_NO
 0xCB958EAB=FCD2_ACT_PDW_GETCALL_HOSP_NO
 
 ;0xCC1D36EE=~z~That was fun, homie, I'm glad you won, you did well.
-0xCC1D36EE=~z~真有趣，兄弟，我很高兴你赢了，你很厉害。
+0xCC1D36EE=~z~真有趣，兄弟，很高兴你赢了，你很厉害。
 
 ;0xCDEE72A6=010
 0xCDEE72A6=010
@@ -624,7 +624,7 @@
 0xD4466FE6=~z~嘿兄弟，气色不错啊。我们走。
 
 ;0xD58E3B34=~z~I thought we was doing something else - I ain't up for this shit, man.
-0xD58E3B34=~z~我们约的不是这里吧，我不是为了这里才来的，老兄。
+0xD58E3B34=~z~我们约的不是这里吧，这里我可不认，老兄。
 
 ;0xD64A3DA0=~z~Man, after years inside, I can't get enough pussy. Come on.
 0xD64A3DA0=~z~兄弟，坐了这么多年牢，我实在是缺娘们。进去吧。
@@ -696,7 +696,7 @@
 0xEAEC43F4=100
 
 ;0xEB059E22=~z~Just to be clear, I am good at these games, man, always was.
-0xEB059E22=~z~只是要你明白，我很擅长这些游戏，老兄，一直都是。
+0xEB059E22=~z~事先声明，我很擅长这些游戏，老兄，一直都是。
 
 ;0xEB9E83EF=~z~That was mad fun, wasn't it man?
 0xEB9E83EF=~z~实在是太有趣了，不是吗老弟？
@@ -747,7 +747,7 @@
 0xFD502752=~z~虽然这家店很烂，但我仍然玩得很开心。
 
 ;0xFDCFC3B6=~z~I warn you, man, I always had the gift when it came to video games.
-0xFDCFC3B6=~z~我警告你，老兄，每当我玩游戏时，我总会得到些奖励。
+0xFDCFC3B6=~z~我警告你，老兄，打游戏我可是专业的。
 
 ;0xFF330ADF=FCD2_ACT_PDW_GETCALL_HOSP_YES
 0xFF330ADF=FCD2_ACT_PDW_GETCALL_HOSP_YES
