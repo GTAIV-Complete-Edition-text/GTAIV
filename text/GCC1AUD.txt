@@ -12,7 +12,7 @@
 0x02902658=~z~Carmen。
 
 ;0x03BC1BBD=~z~Men don't keep Carmen waiting, you a man, ain't you, Niko?
-0x03BC1BBD=~z~男人可不会让Carmen久等，你是个男人，对吧，Niko？
+0x03BC1BBD=~z~男人可不会让Carmen久等，你是男人，对吧，Niko？
 
 ;0x04FC9907=100100100010
 0x04FC9907=100100100010
@@ -30,7 +30,7 @@
 0x0905CB94=~z~好的，Carmen要去换衣服了。
 
 ;0x090B90F5=~z~Niko, it's Carmen, this job is killing me. I hate being a nurse and I hate all these sick people.
-0x090B90F5=~z~Niko，我是Carmen，这份工作简直要了我的命。我讨厌当护士，我讨厌所有这些病人。
+0x090B90F5=~z~Niko，我是Carmen，上班真要命。我讨厌当护士，我讨厌所有的病人。
 
 ;0x0A1ED6B8=GCC_ACT_GETCALL_GREET
 0x0A1ED6B8=GCC_ACT_GETCALL_GREET
@@ -93,7 +93,7 @@
 0x1B641799=100
 
 ;0x1E23C002=~z~You want me to take you out on a date?
-0x1E23C002=~z~你想我带你出去约会吗？
+0x1E23C002=~z~想我带你出去约会吗？
 
 ;0x1E4905BC=GCC_ACT_PCA_GETCALL_SPEC_END_AA
 0x1E4905BC=GCC_ACT_PCA_GETCALL_SPEC_END_AA
@@ -132,13 +132,13 @@
 0x298831EF=~z~接到这个电话是你的福气，Niko。Carmen一般不这么做。回见！
 
 ;0x2A4922A5=~z~Hey Carmen, I'm not feeling so good. What can I do to get better?
-0x2A4922A5=~z~嘿，Carmen，我有点不舒服。我要怎么做才能好转？
+0x2A4922A5=~z~嘿，Carmen，我有点不舒服。怎么做才能好转？
 
 ;0x2A7C415E=~z~You calling Carmen Ortiz but she ain't in. Leave her a message and she call you right back.
-0x2A7C415E=~z~您呼叫的用户Carmen Ortiz不在，请给她留言，她会给您回电话的。
+0x2A7C415E=~z~您呼叫的Carmen Ortiz不在，请给她留言，她会回复您的。
 
 ;0x2AEDA241=~z~Niko, I don't know why you not be calling Carmen because no other women can give it as good as her.
-0x2AEDA241=~z~Niko，我不知道你为什么不给Carmen打电话，因为没有其他女人能像她这么优秀。
+0x2AEDA241=~z~Niko，不知道你为什么不给Carmen打电话，没有其他女人能像她这么优秀。
 
 ;0x2F5B06D4=~z~On my way, Carmen.
 0x2F5B06D4=~z~我这就来，Carmen。
@@ -189,7 +189,7 @@
 0x4069048C=~z~我想带你出去约会。
 
 ;0x41AE2B7A=~z~Great, see you soon.
-0x41AE2B7A=~z~太好了，待会见。
+0x41AE2B7A=~z~太好了，待会儿见。
 
 ;0x41CD5D82=100
 0x41CD5D82=100
@@ -213,7 +213,7 @@
 0x4ED9EBDE=~z~靠，Carmen，我伤得很重。你有什么健康建议吗？
 
 ;0x5066A487=~z~Why don't you and me go on a date?
-0x5066A487=~z~要么我们出去约个会吧？
+0x5066A487=~z~要么我们去约个会吧？
 
 ;0x50F28818=~z~Can't go on a date, Niko. I got a pedicure booked. Got to keep looking good.
 0x50F28818=~z~没法来约会，Niko。我预约了足部护理，美容必须得做。
@@ -225,7 +225,7 @@
 0x5409D79A=~z~肯定有别的男人想来接Carmen，再顺道找她玩的。没有问题。
 
 ;0x55EAAF7E=~z~Shit Niko, you need to control your breathing and your heart rate will go down. Speak to you later, baby.
-0x55EAAF7E=~z~Niko，你需要调整你的呼吸，这样你的心率才会降下来。待会儿聊，亲爱的。
+0x55EAAF7E=~z~Niko，你要调整呼吸，这样心率才会降下来。待会儿聊，亲爱的。
 
 ;0x5762E46D=~z~Sure, Carmen. I'll call you back after then.
 0x5762E46D=~z~好的，Carmen。我之后再找你。
@@ -249,7 +249,7 @@
 0x5E9B2034=~z~我不和不把我当女神侍奉的人约会。
 
 ;0x5F29A486=~z~Sorry, Niko. Someone else is taking me out. I can't go on no date with you right now.
-0x5F29A486=~z~不好意思，Niko。有人带着我玩呢。我现在没法跟你约会。
+0x5F29A486=~z~不好意思，Niko。有人带着我玩呢。现在没法跟你约会。
 
 ;0x5F329D43=~z~Guess I'll have to take care of myself tonight, Niko. You missing out.
 0x5F329D43=~z~那我今晚只能自娱自乐了，Niko。你错过了。
@@ -300,7 +300,7 @@
 0x6DCCD19D=GCC_ACT_GETCALL_REJECT_VERYIRATE
 
 ;0x6DDEAE06=~z~You try to quit Carmen, but you keep coming back like a crack head to the pipe.
-0x6DDEAE06=~z~你试图戒掉Carmen，却像个瘾君子一样不断地复吸。
+0x6DDEAE06=~z~你试图戒掉Carmen，却像个瘾君子一样不断复吸。
 
 ;0x6E348A96=~z~We'll go on a date another time.
 0x6E348A96=~z~那我们改天再约吧。
@@ -309,13 +309,13 @@
 0x6E95BB1F=GCC_ACT_PCA_CALL_HOSP_CANCEL
 
 ;0x6F7D4FF5=~z~Carmen can't spend all her time going on dates with you, Niko. Not unless you going to really look after her.
-0x6F7D4FF5=~z~Carmen不能把她的时间都拿来和你约会，Niko。除非你对她付出真心。
+0x6F7D4FF5=~z~Carmen不能把时间都拿来和你约会，Niko。除非你对她付出真心。
 
 ;0x700E63C5=~z~Just relax and make sure you got pressure on your cuts. Give Carmen a call later on, okay?
 0x700E63C5=~z~放轻松，确保伤口持续受到按压。有空给Carmen打个电话，好吗？
 
 ;0x70784723=~z~I got other plans, baby. I can't let you take me out. Call me later.
-0x70784723=~z~我有其他安排，亲爱的。我现在不能跟你出去。待会再打给我。
+0x70784723=~z~我有其他安排，亲爱的。现在不能跟你出去。待会儿再找我。
 
 ;0x71C88C24=100
 0x71C88C24=100
@@ -336,7 +336,7 @@
 0x7D41EB7E=~z~Carmen刚跟你出去过，Niko。你是想独占她的时间。
 
 ;0x7D532A94=~z~That really helps, Carmen. I guess there is a point to you being a nurse.
-0x7D532A94=~z~这真的很有帮助，Carmen。我想你做护士是有价值的。
+0x7D532A94=~z~太管用了，Carmen。我想你做护士是有价值的。
 
 ;0x7D7D5EEF=~z~I got more important things to be doing than helping some guy who ain't giving me no attention.
 0x7D7D5EEF=~z~我有更重要的事情要做，没空帮助一个不关心我的人。
@@ -414,7 +414,7 @@
 0x948F27B7=GCC_ACT_GETCALL_HOSP_ASK
 
 ;0x96F85601=~z~I'll come get you, Carmen.
-0x96F85601=~z~我这就来接你，Carmen。
+0x96F85601=~z~这就来接你，Carmen。
 
 ;0x989C48B4=010
 0x989C48B4=010
@@ -429,19 +429,19 @@
 0x9B2028E8=010
 
 ;0x9D2A6271=~z~Alright, see you then.
-0x9D2A6271=~z~好，待会见。
+0x9D2A6271=~z~好，待会儿见。
 
 ;0x9D810BDE=GCC_ACT_GETCALL_SPEC_AA
 0x9D810BDE=GCC_ACT_GETCALL_SPEC_AA
 
 ;0x9ED33C85=~z~Maybe I'll send you some pictures of what I get up to without you, Niko.
-0x9ED33C85=~z~我可能会给你发没有你陪伴的我的生活照，Niko。
+0x9ED33C85=~z~我可能会给你发没有你陪伴时的生活照，Niko。
 
 ;0xA1019B3E=GCC_ACT_GETCALL_DATE
 0xA1019B3E=GCC_ACT_GETCALL_DATE
 
 ;0xA1BCADDB=~z~Sorry Carmen, I've got to spend my money on other things right now. Maybe another time.
-0xA1BCADDB=~z~对不起，Caremen，我现在得把钱花在别的事情上。下次吧。
+0xA1BCADDB=~z~对不起，Carmen，我现在得把钱花在别的事情上。下次吧。
 
 ;0xA1BEA3ED=~z~Whatever, Niko.
 0xA1BEA3ED=~z~随便你，Niko。
@@ -492,10 +492,10 @@
 0xADF8A2B6=010
 
 ;0xAE23DB27=~z~Shit, you can do that? It might be real useful, Carmen. I'll talk to you soon.
-0xAE23DB27=~z~靠，你能做到吗？大概会很有用的，Carmen。有空再联系。
+0xAE23DB27=~z~靠，这么行吗？大概会很有用的，Carmen。有空再联系。
 
 ;0xB07C71E1=~z~Carmen's in bed, Niko. She going to be done about 1pm so call back after then.
-0xB07C71E1=~z~Carmen在睡觉，Niko。她会在下午1点醒来，请在那之后打过来。
+0xB07C71E1=~z~Carmen在睡觉，Niko。她会在下午1点醒来，到时间了再联系。
 
 ;0xB5EAD426=GCC_ACT_CALL_BREAK_UP
 0xB5EAD426=GCC_ACT_CALL_BREAK_UP
@@ -513,7 +513,7 @@
 0xB7E1838A=100
 
 ;0xB820F56E=~z~Carmen, I have to cancel our date. Sorry if you've cancelled any other plans.
-0xB820F56E=~z~Carmen，我们的约会只能取消了。很抱歉你为此取消了你的其他安排。
+0xB820F56E=~z~Carmen，约会只能取消了。很抱歉你为此取消了其他安排。
 
 ;0xB8466C58=~z~Sure, wait for me for the next hour.
 0xB8466C58=~z~当然，等我一小时。
@@ -525,19 +525,19 @@
 0xB8BF691A=GCC_ACT_PCA_CALL_HILIKE
 
 ;0xBBCA77E9=~z~Carmen, you're a free agent now. It's over between you and me. Look after yourself.
-0xBBCA77E9=~z~Carmen，你现在自由了。你和我之间的关系结束了。照顾好你自己。
+0xBBCA77E9=~z~Carmen，你现在自由了。你和我结束了。照顾好自己。
 
 ;0xBECF8E3A=~z~Fine, go jerk off then.
 0xBECF8E3A=~z~好，打你的飞机去吧。
 
 ;0xBEFF2455=~z~Why don't you take me out somewhere nice?
-0xBEFF2455=~z~你为什么不带我去些好地方呢？
+0xBEFF2455=~z~要么带我去些好地方吧？
 
 ;0xC0818885=~z~No can do, Carmen, sorry.
 0xC0818885=~z~不行，Carmen，对不起。
 
 ;0xC18781EE=~z~But I like you, baby. I thought if you ever need some nursing you could just call me up and I'll help you out on the phone.
-0xC18781EE=~z~但我喜欢你，宝贝。我想如果你需要护理的话，可以打电话给我，我会在电话里帮你。
+0xC18781EE=~z~但我喜欢你，宝贝。如果你需要护理的话，可以打电话给我，我会在电话里帮你。
 
 ;0xC1E2A6C4=GCC_ACT_GETCALL_REJECT
 0xC1E2A6C4=GCC_ACT_GETCALL_REJECT
@@ -546,13 +546,13 @@
 0xC1EBC7B5=100
 
 ;0xC1ED74DC=~z~Don't try to hold me down, I'm a modern woman and I ain't gonna spend all my time with you.
-0xC1ED74DC=~z~别想束缚我，我是个现代女性，不会把所有的时间都花在你身上。
+0xC1ED74DC=~z~别想束缚我，我是现代女性，不会把时间都花在你身上。
 
 ;0xC33DF9D7=~z~I going to give you another chance. You'd be real stupid to fuck it up. Come pick me up in the next hour.
 0xC33DF9D7=~z~我再给你一次机会。你要是再搞砸就蠢到家了。一小时后来接我。
 
 ;0xC38DED4D=~z~I can't go on a date with you now, Niko. There's some fucking emergency at the hospital. So boring.
-0xC38DED4D=~z~我现在不能和你约会，Nilo。医院现在有紧急情况。非常烦。
+0xC38DED4D=~z~我现在不能和你约会，Niko。医院有紧急情况，非常烦。
 
 ;0xC6ADCF8C=GCC_ACT_PCA_CALL_REJECTED
 0xC6ADCF8C=GCC_ACT_PCA_CALL_REJECTED
@@ -564,7 +564,7 @@
 0xC90B492B=~z~我想你很忙吧。但还有很多人能来接我。再见。
 
 ;0xCA14147C=~z~Carmen, I know this wasn't nothing serious, but I can't be dating you no more. We're over.
-0xCA14147C=~z~Carmen，我知道这很难接受，但我不能再和你约会了。我们之间结束了。
+0xCA14147C=~z~Carmen，我知道这很难接受，但我不能再和你约会了。我们结束了。
 
 ;0xCB6B88E0=~z~I'll be waiting, Niko.
 0xCB6B88E0=~z~我会等你的，Niko。
@@ -603,7 +603,7 @@
 0xD8124A3C=GCC_ACT_PCA_CALL_LOLIKE
 
 ;0xDACED172=~z~Yeah, Carmen didn't want to be seeing you in the first place, okay.
-0xDACED172=~z~是啊，Carmen一开始就不想见到你，好吧。
+0xDACED172=~z~是啊，Carmen一开始就不想见你，好吧。
 
 ;0xDCF0AD4D=~z~That's cool. You just missing out on all the fun you could have with me is all.
 0xDCF0AD4D=~z~没事。只不过你错过了一段可能的欢乐时光罢了。
@@ -672,7 +672,8 @@
 0xFDA96D5B=~z~再见。
 
 ;0xFE0A4877=~z~Niko, you too important to be calling Carmen now?
-0xFE0A4877=~z~Niko，你已经忙到不肯给Carmen打电话了吗？
+0xFE0A4877=~z~Niko，你忙到没空联系Carmen了吗？
 
 ;0xFF2BAE1A=~z~I ain't got nothing going on right now. Come get me from my place. I'll wait an hour.
-0xFF2BAE1A=~z~我现在没事做。来我家接我。我等你一小时。
+0xFF2BAE1A=~z~我现在没事做，来我家接我。我等你一小时。
+

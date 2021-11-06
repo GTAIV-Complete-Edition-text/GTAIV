@@ -33,19 +33,19 @@
 0x08707DEF=~z~是吗？怎么掌控？
 
 ;0x0A178546=~z~Ain't you got no friends? We never go anywhere, we never meet important people.
-0x0A178546=~z~你是没有朋友吗？我们从未去过什么地方，从未见过重要的人。
+0x0A178546=~z~你没有朋友吗？我们从未去过什么地方，从未见过重要的人。
 
 ;0x0A365E0A=GCC2_CELEBS_JL
 0x0A365E0A=GCC2_CELEBS_JL
 
 ;0x0A5D3EE3=~z~Don't bullshit me. We both know the truth.
-0x0A5D3EE3=~z~别跟我胡扯。大家都心知肚明的。
+0x0A5D3EE3=~z~别跟我胡扯。大家心知肚明的。
 
 ;0x0CABC0C8=GCC2_SPECIAL_ID
 0x0CABC0C8=GCC2_SPECIAL_ID
 
 ;0x0DD5C5C0=~z~I'm fat. It's why I haven't made it yet.
-0x0DD5C5C0=~z~我很胖，所以才一直没能成功。
+0x0DD5C5C0=~z~我很胖，所以才一直成功不了。
 
 ;0x0DD82D6D=GCC2_SPECIAL_IH
 0x0DD82D6D=GCC2_SPECIAL_IH
@@ -87,7 +87,7 @@
 0x1AC86D46=~z~为什么？
 
 ;0x1B95613F=~z~Nonsense. What are you talking about?
-0x1B95613F=~z~没有的事，你在说啥呢？
+0x1B95613F=~z~没有的事，你说啥呢？
 
 ;0x1C48A9A8=~z~Isn't that what a date is?
 0x1C48A9A8=~z~约会不就是这样吗？
@@ -120,7 +120,7 @@
 0x27E86070=100010100100100010100010100010100010100
 
 ;0x28398828=~z~I'm sorry. My dad was a bully, too. What about?
-0x28398828=~z~很遗憾。我父亲也是个霸道的人。吵了什么？
+0x28398828=~z~很遗憾。我父亲也很霸道。吵了什么？
 
 ;0x287C32E6=GCC2_MAYOR_MG
 0x287C32E6=GCC2_MAYOR_MG
@@ -147,13 +147,13 @@
 0x336B9E81=GCC2_CELEBS_JE
 
 ;0x34E3D4BB=~z~you ain't the boss of me and he says if he was he'd sack me and then I start crying.
-0x34E3D4BB=~z~你又不是我老板。他说要是他是我老板，他就直接炒了我，然后我就开始哭了。
+0x34E3D4BB=~z~你又不是我老板。他说要是他是我老板，就炒了我，然后我就哭了。
 
 ;0x35B30384=~z~Wow! Is Tony McTony a goth? I didn't know.
 0x35B30384=~z~哇哦！那Tony McTony他内心阴暗喽？这我倒不知道。
 
 ;0x36F3650E=~z~Will you pay for me to have lipo?
-0x36F3650E=~z~你会替我出钱去做抽脂吗？
+0x36F3650E=~z~你会替我出钱做抽脂吗？
 
 ;0x3744DDE5=GCC2_DAD_NE
 0x3744DDE5=GCC2_DAD_NE
@@ -168,7 +168,7 @@
 0x3F29B608=~z~真的。他说你想要的东西只有一个，然后我就说我不在乎，我喜欢享受乐趣。
 
 ;0x3F44A8B5=~z~You look good, honey, you know that?
-0x3F44A8B5=~z~你看起来很棒，甜心，你知道吗？
+0x3F44A8B5=~z~你看起来很棒，甜心，知道吗？
 
 ;0x4081F21A=~z~All we ever do is hang out and talk and get in trouble and be you and me.
 0x4081F21A=~z~我们一直做的事都是出来转悠、聊天、惹上麻烦，然后各回各家。
@@ -198,7 +198,7 @@
 0x4D5E7193=GCC2_WHITE_LB
 
 ;0x4DEC538D=~z~Really?
-0x4DEC538D=~z~真的？
+0x4DEC538D=~z~真的吗？
 
 ;0x4DFB08FF=~z~Thanks, baby. You're special. Not as special as Carmen, but still special.
 0x4DFB08FF=~z~谢了，宝贝。你真特别。虽然没Carmen这么特别，但也很特别了。
@@ -222,7 +222,7 @@
 0x57A71837=GCC2_MAYOR_MB
 
 ;0x58145A54=~z~You always look good.
-0x58145A54=~z~你看起来一如既往的棒。
+0x58145A54=~z~你一直都很棒。
 
 ;0x5875857E=~z~I was partying the other night in Bungalow 9 and I had my nails done, and I went shopping with the girls.
 0x5875857E=~z~我在9号平房的派对玩了一夜，然后去做了指甲，还和闺蜜一起去逛了街。
@@ -243,7 +243,7 @@
 0x6081321C=~z~那种感觉很棒，与这样的大人物见面。
 
 ;0x63937EDB=~z~I'm okay. No, I'm not. I'm kind of mad.
-0x63937EDB=~z~我挺好。不，很不好，我有点要疯了。
+0x63937EDB=~z~我挺好。不，很不好，有点要疯了。
 
 ;0x649E7368=~z~What about me?
 0x649E7368=~z~那我呢？
@@ -261,7 +261,7 @@
 0x6E74920F=~z~我是一个单纯的乡下男孩，Carmen。
 
 ;0x72C8D6AB=~z~I met the mayor the other day - he came to the hospital, to open a new ward.
-0x72C8D6AB=~z~之前我遇到过市长，他来到医院，给新楼剪彩。
+0x72C8D6AB=~z~之前我遇到过市长，他来医院给新楼剪彩。
 
 ;0x73879C2D=~z~You like my nails?
 0x73879C2D=~z~你喜欢我的指甲吗？
@@ -300,7 +300,7 @@
 0x829CF7E2=~z~确实好。你猜怎么着，我敢说他想睡我。
 
 ;0x8516FB47=~z~That stuff is for people with different priorities than me.
-0x8516FB47=~z~那种东西是给和我价值观不同的人准备的。
+0x8516FB47=~z~那种东西是给比我更重要的人准备的。
 
 ;0x85BD2B13=GCC2_LIPO_KK
 0x85BD2B13=GCC2_LIPO_KK
@@ -330,7 +330,7 @@
 0x9487BBE5=GCC2_LIPO_KH
 
 ;0x94DC20DA=~z~You don't need that. It will just make you too thin and miserable.
-0x94DC20DA=~z~你不需要抽脂，抽脂只会让你骨瘦如柴痛苦不堪。
+0x94DC20DA=~z~不需要抽脂，抽脂只会让你骨瘦如柴痛苦不堪。
 
 ;0x95D19CBC=~z~I'm sorry. I'm just not that kind of person.
 0x95D19CBC=~z~很抱歉，我不是那一类人。
@@ -345,7 +345,7 @@
 0x99AD9F0C=GCC2_LIPO_KQ
 
 ;0x9A6AEC8D=~z~About my life - about the way I'm carrying on, about hanging out with guys like you.
-0x9A6AEC8D=~z~关于我的生活，关于我度日的方式，关于和你这样的人出来约会。
+0x9A6AEC8D=~z~我的生活，现在的状态，还有和你这样的人出来约会。
 
 ;0x9B89C058=GCC2_CELEBS_JD
 0x9B89C058=GCC2_CELEBS_JD
@@ -411,7 +411,7 @@
 0xB3255D6C=~z~你的外表够好了，Carmen。我担心的是你的性格。
 
 ;0xB41F3DB7=~z~I know. I hate them. Listen do you think my teeth need straightening? Or whitening?
-0xB41F3DB7=~z~我懂。我讨厌他们。你觉得我有必要去做牙齿矫正吗？或者做个牙齿美白？
+0xB41F3DB7=~z~我懂。我讨厌他们。听着，你说我要去做牙齿矫正吗？或者做个牙齿美白？
 
 ;0xB5980344=GCC2_CELEBS_JA
 0xB5980344=GCC2_CELEBS_JA
@@ -441,7 +441,7 @@
 0xC382FE27=~z~谢谢你，Niko。你真好。
 
 ;0xC423BFF2=~z~and he says you a slut and I say women have changed, it's call being a woman,
-0xC423BFF2=~z~然后他说我是个荡妇，我就说女性已经变了，这才叫当女人。
+0xC423BFF2=~z~然后他说我是个荡妇，我就说女性已经变了，这才叫女人。
 
 ;0xC4389DE8=GCC2_MAYOR_MN
 0xC4389DE8=GCC2_MAYOR_MN
@@ -453,13 +453,13 @@
 0xC79B065B=~z~不出。
 
 ;0xC9AD0069=~z~I don't know yet. I only just began plotting. Maybe modeling or some shit.
-0xC9AD0069=~z~还没想好，我才刚开始谋划而已。可能靠当模特之类的吧。
+0xC9AD0069=~z~还没想好，才刚开始谋划而已。可能靠当模特之类的吧。
 
 ;0xCA8FB293=GCC2_LIPO_KM
 0xCA8FB293=GCC2_LIPO_KM
 
 ;0xD2140F19=~z~I'm sorry to hear that, that bit I did hear.
-0xD2140F19=~z~听到这个我很遗憾，我听明白了。
+0xD2140F19=~z~听到这些我很遗憾。
 
 ;0xD2CC16B0=~z~I like hanging out with you, Niko, but I got one problem. I mean with taking this further.
 0xD2CC16B0=~z~我喜欢和你出来逛，Niko，但我有个问题。是个更加深入的话题。
@@ -516,7 +516,7 @@
 0xF1541A5E=~z~你好吗？
 
 ;0xF3F4DF0E=~z~I don't believe in it. You're a pretty girl. Gorgeous.
-0xF3F4DF0E=~z~我觉得没有必要。你已经是个漂亮女孩了。你美爆了。
+0xF3F4DF0E=~z~我觉得没有必要。你已经很漂亮了。美爆了。
 
 ;0xF58E5D57=100010100010100100010100010
 0xF58E5D57=100010100010100100010100010

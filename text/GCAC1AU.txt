@@ -1,9 +1,9 @@
 ﻿[GCAC1AU]
 ;0x00B65529=~z~It's a good thing you don't want to go out and kill people all the time. There might be some serious consequences to that.
-0x00B65529=~z~幸好你没有一直想着出门杀人，不然后果就很严重了。
+0x00B65529=~z~幸好你没有想着出门杀人，不然后果就很严重了。
 
 ;0x00E89F39=~z~And that's because my life has so much in it and it's so much
-0x00E89F39=~z~这都是因为其中蕴含我丰富的人生经验，丰富得很。
+0x00E89F39=~z~因为我的人生非常丰富，比任何人
 
 ;0x01ABE8CB=~z~Yeah, work is sometimes hard to come by.
 0x01ABE8CB=~z~对，工作有时候是很难找。
@@ -27,7 +27,7 @@
 0x060A1FF5=GCA2_ALEX_NOVEL_EK
 
 ;0x07BCDC6E=~z~the situation is weird. This is the twenty-first century. It's so now what we're doing.
-0x07BCDC6E=~z~但就是感觉很奇怪。这就是21世纪。这就是我们的现状。
+0x07BCDC6E=~z~但就是感觉很奇怪。这就是21世纪，这就是我们的现状。
 
 ;0x09313C12=~z~I know. But it was also true and that's what this guy told me that I was dating last night.
 0x09313C12=~z~我知道，这话没错，昨晚跟我约会的那个男人也是这么跟我说的。
@@ -42,10 +42,10 @@
 0x0C9BF7AB=GCA2_ALEX_FILMMAKER_DL
 
 ;0x0D16EA01=~z~God, I've never thought of it that way.
-0x0D16EA01=~z~天，我可没那么想过。
+0x0D16EA01=~z~天，从来没那么想过。
 
 ;0x0DC15EB0=~z~It fell through - but, to be honest, cinema is dead. I mean, it's so old fashioned.
-0x0DC15EB0=~z~那部电影吹了。不过说实话，电影已死。我是说，电影已经过时了。
+0x0DC15EB0=~z~吹了。不过说实话，电影已死。这种载体过时了。
 
 ;0x0DEC3940=~z~I think bits of it, they are so beautiful and sad and... they make me cry.
 0x0DEC3940=~z~我略微想了想，它们太美好、太悲惨了...都让我哭出来了。
@@ -54,7 +54,7 @@
 0x0E0B2DDF=GCA2_ALEX_NOVEL_EQ
 
 ;0x0E8BF0D4=~z~I don't stop to think about what the consequences are.
-0x0E8BF0D4=~z~我不停地在想会有什么后果。
+0x0E8BF0D4=~z~后果如何不在考虑范围内。
 
 ;0x0FB3688C=GCA2_ALEX_COLLEGE_CA
 0x0FB3688C=GCA2_ALEX_COLLEGE_CA
@@ -96,13 +96,13 @@
 0x19EACB3D=~z~你最近在做什么？
 
 ;0x1AB6893D=~z~Yeah... okay but I'd say that I'm a feminist. I think that every woman in this day and age should be.
-0x1AB6893D=~z~行...好吧，但我就会说自己是女权主义者。我觉得现代女性都该支持女权。
+0x1AB6893D=~z~行，好吧...但我会说自己是女权主义者。现代女性都该支持女权。
 
 ;0x1ADE9856=GCA2_ALEX_INTERESTING_AE
 0x1ADE9856=GCA2_ALEX_INTERESTING_AE
 
 ;0x1B6FFA0D=~z~These days with all of the internet and videos and stuff and my blog and sites like electrictit.com and stuff -
-0x1B6FFA0D=~z~这年头网上有那么多视频和资源，还有我的博客和E站(electrictit.com)之类，
+0x1B6FFA0D=~z~现在网上有那么多视频和资源，还有我的博客和E站之类的网站，
 
 ;0x1EA23E88=GCA2_ALEX_MOVIE_FE
 0x1EA23E88=GCA2_ALEX_MOVIE_FE
@@ -111,19 +111,19 @@
 0x20494DBF=GCA2_ALEX_NOVEL_EM
 
 ;0x210911E5=~z~I've never thought that writing my blog was "doing" something. It's just an extension of my personality. I'm creative.
-0x210911E5=~z~我从来没把写博客当成是做什么事。写博客只是我个性的延伸而已，我很有创造力的。
+0x210911E5=~z~我从来没把写博客当成什么事。这只是我个性的延伸而已，我很有创造力的。
 
 ;0x23F2087B=GCA2_ALEX_FILMMAKER_DE
 0x23F2087B=GCA2_ALEX_FILMMAKER_DE
 
 ;0x24A2F2F5=~z~I like variety. Anyway, did I tell you? I'm making a movie.
-0x24A2F2F5=~z~我就喜欢各种口味都试试。对了，我有跟你说过吗？我在拍一部电影。
+0x24A2F2F5=~z~各种口味我都会试试。对了，有跟你说过吗？我正在拍电影。
 
 ;0x25FBCE9F=GCA2_ALEX_FAMOUS_BJ
 0x25FBCE9F=GCA2_ALEX_FAMOUS_BJ
 
 ;0x266CCD99=~z~I know. You're power. You're masculinity. You're freedom. In some ways, you're my muse.
-0x266CCD99=~z~我知道。你就是力量，你就是阳刚，你就是自由。某种意义上，你就是我的创作源泉。
+0x266CCD99=~z~我知道。你就是力量，就是阳刚，就是自由。某种意义上，也是我的创作源泉。
 
 ;0x269593E1=GCA2_ALEX_FAMOUS_BO
 0x269593E1=GCA2_ALEX_FAMOUS_BO
@@ -138,16 +138,16 @@
 0x2A417117=GCA2_ALEX_BLOG_HE
 
 ;0x2B19F39B=~z~People really relate to me. They can take a bit of my life and see it as their own.
-0x2B19F39B=~z~人们真的都很亲近我。他们可以把我人生的一部分当成他们自己的。
+0x2B19F39B=~z~人们真的很亲近我。他们可以品味我的人生，当成自己的一部分。
 
 ;0x2B6B40E0=GCA2_ALEX_FEMINIST_GB
 0x2B6B40E0=GCA2_ALEX_FEMINIST_GB
 
 ;0x2CE82DA0=~z~I mean we don't need a man to help us get by in life. I do what I want, when I want and that's that.
-0x2CE82DA0=~z~我们不需要男人帮我们维持温饱。我可以为所欲为，想做什么就做什么。
+0x2CE82DA0=~z~不需要男人帮我们维持温饱。我可以为所欲为，想做什么就做什么。
 
 ;0x2DB242E9=~z~They get this connection. It's like they feel this glow off me and my life and they want to be near me. I mean, do you feel that?
-0x2DB242E9=~z~他们受我吸引。就好像他们能感受到我和我生活中的光芒，想要接近我。你有这种感觉吗？
+0x2DB242E9=~z~他们受我吸引。就好像能感受到我和我生活中的光芒，想要接近我。你感受到了吗？
 
 ;0x2E3223FE=GCA2_ALEX_FAMOUS_BP
 0x2E3223FE=GCA2_ALEX_FAMOUS_BP
@@ -156,10 +156,10 @@
 0x2E747E47=GCA2_ALEX_FEMINIST_GH
 
 ;0x2F55A1D8=~z~How is the movie coming along?
-0x2F55A1D8=~z~现在电影拍的怎么样了？
+0x2F55A1D8=~z~对了，电影拍得怎么样了？
 
 ;0x3135E32B=~z~Thanks.
-0x3135E32B=~z~谢谢。
+0x3135E32B=~z~谢谢夸奖。
 
 ;0x32CAB568=~z~Yeah?
 0x32CAB568=~z~是吗？
@@ -171,10 +171,10 @@
 0x34765454=GCA2_ALEX_BLOG_FH
 
 ;0x34DE7374=~z~Not like one of those idiot girls - I mean I know them they are all jealous of me because I'm an individual.
-0x34DE7374=~z~我和其他那些白痴女不一样，我也知道她们都嫉妒我的特立独行。
+0x34DE7374=~z~我和那些白痴女不一样，我也知道她们都嫉妒我的特立独行。
 
 ;0x367B40C6=~z~Niko, if you had to classify yourself, what would you be?
-0x367B40C6=~z~Niko，如果一定要你给自己分类，你觉得自己是哪种人？
+0x367B40C6=~z~Niko，如果要给自己归类，你是哪种人？
 
 ;0x37120C04=GCA2_ALEX_BLOG_HF
 0x37120C04=GCA2_ALEX_BLOG_HF
@@ -183,13 +183,13 @@
 0x38385BD6=GCA2_ALEX_FEMINIST_GA
 
 ;0x386A9604=~z~No. Well done. What's it about?
-0x386A9604=~z~没有，真厉害。讲什么的？
+0x386A9604=~z~没说过，真厉害。讲什么的？
 
 ;0x38F18F4A=~z~Or a mouth, telling everyone who cares to listen about your life.
 0x38F18F4A=~z~或者说是嘴，可以向所有愿意倾听你的生活的人讲述。
 
 ;0x3C121D4F=~z~It's going to be amazing. It's going to be the great American novel, only a movie.
-0x3C121D4F=~z~拍出来会很棒的。这将是一部伟大的美国小说，只是以电影的形式呈现。
+0x3C121D4F=~z~拍出来一定很棒。这将是一部伟大的美国小说，只是以电影呈现。
 
 ;0x3C2AA7BB=010100100010100100100100100010100100100100010100100100010
 0x3C2AA7BB=010100100010100100100100100010100100100100010100100100010
@@ -216,7 +216,7 @@
 0x426B2066=GCA2_ALEX_BLOG_HD
 
 ;0x43FE6F81=~z~It's good that you're happy in your home. My home was not so comfortable.
-0x43FE6F81=~z~你能在你的老家过得幸福是件好事。我的老家就没那么舒服了。
+0x43FE6F81=~z~能在老家幸福生活是件好事。我的老家就没那么舒服了。
 
 ;0x44719377=GCA2_ALEX_BLOG_HN
 0x44719377=GCA2_ALEX_BLOG_HN
@@ -228,7 +228,7 @@
 0x4578ADCD=GCA2_ALEX_BLOG_HK
 
 ;0x46EEA544=~z~Nor did I... that was a joke. I wasn't planning to.
-0x46EEA544=~z~我也没有...之前是开玩笑的。我就没打算写书。
+0x46EEA544=~z~我也没有...刚才是开玩笑的。我就没打算写书。
 
 ;0x47240117=100010100100100010100100100100010100100100100
 0x47240117=100010100100100010100100100100010100100100100
@@ -249,10 +249,10 @@
 0x4A93BA56=~z~不知道，剧本我还没写。
 
 ;0x4BD56B7A=~z~I don't believe in classifying people. I think it's what we do that makes us who we are, moment to moment.
-0x4BD56B7A=~z~我不相信什么给人分类。我认为是个人的行为决定了我们的身份，向来如此。
+0x4BD56B7A=~z~我不相信什么给人归类。个人的行为决定了我们的身份，向来如此。
 
 ;0x4BD9E656=~z~How do you know?
-0x4BD9E656=~z~那你怎么知道呢？
+0x4BD9E656=~z~你怎么知道你是？
 
 ;0x4CBABEA0=~z~Sounds easy.
 0x4CBABEA0=~z~听上去不难。
@@ -261,13 +261,13 @@
 0x4D18023F=GCA2_ALEX_BLOG_FG
 
 ;0x4E5BB71B=~z~I don't know, because I can't get my shit together. Oh fuck it, it is together. I'm uh, it is together, sorry...
-0x4E5BB71B=~z~我不知道，因为我他妈不大清醒。哦操，清醒了。我，呃，现在清醒了，抱歉。
+0x4E5BB71B=~z~不知道，因为我他妈不大清醒。哦操，清醒了。我，呃，现在清醒了，抱歉。
 
 ;0x4EB4F9B4=GCA2_ALEX_FILMMAKER_DO
 0x4EB4F9B4=GCA2_ALEX_FILMMAKER_DO
 
 ;0x4EB8471F=~z~all at the same time.
-0x4EB8471F=~z~全部具备。
+0x4EB8471F=~z~一应俱全。
 
 ;0x4F502C8B=GCA2_ALEX_BLOG_FQ
 0x4F502C8B=GCA2_ALEX_BLOG_FQ
@@ -282,7 +282,7 @@
 0x50D027FF=GCA2_ALEX_NOVEL_ED
 
 ;0x522541B1=~z~I'm writing a novel which is going to be so much deeper than the stuff on the blog.
-0x522541B1=~z~我现在在写一本小说，内容比我写的那些博客还要深刻。
+0x522541B1=~z~我正在写小说，比我写的博客还要深刻。
 
 ;0x52873332=GCA2_ALEX_BLOG_HH
 0x52873332=GCA2_ALEX_BLOG_HH
@@ -294,22 +294,22 @@
 0x543A1F4F=GCA2_ALEX_BLOG_FJ
 
 ;0x547678BF=~z~One day the blog just happened.
-0x547678BF=~z~有一天我突然发现了这个博客网站。
+0x547678BF=~z~有一天我发现了这个博客网站。
 
 ;0x562F916D=~z~You cannot leave your apartment in this city without spending money so I guess you need to work.
-0x562F916D=~z~在这里你出了家门就不可能不花钱，我想因此才需要工作。
+0x562F916D=~z~在这里出了家门就不可能不花钱，我想因此才需要工作。
 
 ;0x58564C1E=GCA2_ALEX_FEMINIST_GI
 0x58564C1E=GCA2_ALEX_FEMINIST_GI
 
 ;0x59637C1B=~z~I don't think I'd get let into a college party or Maisonette 9.
-0x59637C1B=~z~我觉得大学派对和9号豪宅我都去不了。
+0x59637C1B=~z~大学派对和9号豪宅我好像都去不了。
 
 ;0x5A4D8705=GCA2_ALEX_FAMOUS_BN
 0x5A4D8705=GCA2_ALEX_FAMOUS_BN
 
 ;0x5A4E8343=~z~Because I have these thoughts, yep, and I know they're important.
-0x5A4E8343=~z~因为我有各种想法，对，而且我知道这些想法很重要。
+0x5A4E8343=~z~因为我有各种想法，对，而且这些想法很重要。
 
 ;0x5ACEC2A1=GCA2_ALEX_BLOG_HG
 0x5ACEC2A1=GCA2_ALEX_BLOG_HG
@@ -330,7 +330,7 @@
 0x5FA52BAD=GCA2_ALEX_FEMINIST_GN
 
 ;0x61D4DB10=~z~Listen, my life is not empty, jackass. It's amazing. I have crazy adventures.
-0x61D4DB10=~z~听着，我的生活并不空虚，蠢驴。它棒得很。我能经历疯狂的冒险。
+0x61D4DB10=~z~听着，我的生活并不空虚，蠢驴，它棒得很。我能经历疯狂的冒险。
 
 ;0x653F51EE=GCA2_ALEX_NOVEL_EO
 0x653F51EE=GCA2_ALEX_NOVEL_EO
@@ -342,7 +342,7 @@
 0x65ED9550=GCA2_ALEX_FEMINIST_GC
 
 ;0x66491C68=~z~I was going through the stuff on www.blogsnobs.org and I realized that I had to get Alex Chilton out there.
-0x66491C68=~z~我看了www.blogsnobs.org上的各种内容，然后我意识到得让我Alex Chilton为世人所知。
+0x66491C68=~z~我看了www.blogsnobs.org上的各种内容，然后意识到得让我Alex Chilton为世人所知。
 
 ;0x665B2E1E=GCA2_ALEX_INTERESTING_AF
 0x665B2E1E=GCA2_ALEX_INTERESTING_AF
@@ -354,13 +354,13 @@
 0x66B03C03=GCA2_ALEX_FEMINIST_GL
 
 ;0x682E6DC3=~z~It's about me. It started out as a blog, but it's evolved... into so much more than that. I mean sometimes,
-0x682E6DC3=~z~是关于我的。我本来想写成博客，但它变了...达到了远超博客的水平。我是说有时候，
+0x682E6DC3=~z~是关于我的。本来想写成博客，但它变了...达到了远超博客的水平。有时候，
 
 ;0x68823612=~z~Tell me about it, I walk down the street.
-0x68823612=~z~这还用你说，我经常出去逛街。
+0x68823612=~z~这还用你说。我经常出去逛街，
 
 ;0x69A91676=~z~I mean, you're living it, Niko - you're an experience. you're not an intellectual. You don't care.
-0x69A91676=~z~你现在就在生活，Niko，你就是一个例子。你不是个特立独行的人。你不在乎。
+0x69A91676=~z~你现在就在生活，Niko，活生生的例子。你没有什么才华，你不在乎。
 
 ;0x6A9FA44D=GCA2_ALEX_FILMMAKER_DJ
 0x6A9FA44D=GCA2_ALEX_FILMMAKER_DJ
@@ -378,7 +378,7 @@
 0x6FEDAE81=~z~真的是很奇妙的想法，关于人与世界之类的。
 
 ;0x6FFC7A5C=~z~No. I'm liberated. I'm free. You can't control me, typical misogynist. Women can be artists too.
-0x6FFC7A5C=~z~不。我已经被解放了，我是自由的。你控制不了我，典型的仇女男。女人也可以做艺术家。
+0x6FFC7A5C=~z~不。我已经被解放了，我是自由的。你控制不了我，典型的仇女癌。女人也可以做艺术家。
 
 ;0x71965433=GCA2_ALEX_FEMINIST_GJ
 0x71965433=GCA2_ALEX_FEMINIST_GJ
@@ -390,7 +390,7 @@
 0x736D3504=GCA2_ALEX_FILMMAKER_DI
 
 ;0x742B7FBD=~z~Cool.
-0x742B7FBD=~z~酷哦。
+0x742B7FBD=~z~好吧。
 
 ;0x781EFBD8=GCA2_ALEX_BLOG_FK
 0x781EFBD8=GCA2_ALEX_BLOG_FK
@@ -399,7 +399,7 @@
 0x7A1243FA=~z~我必须向大众展现最深刻的思考，于是就建立了「自由女性」这个博客。
 
 ;0x7A14C184=~z~Oh, that's actually a quote that I've already used on my blog. What piece of my life do I want to show you first?
-0x7A14C184=~z~噢，那句话我在博客里用过了。我先向你展示我生活的那个部分好呢？
+0x7A14C184=~z~噢，那句话我在博客里用过了。先向你展示我生活的哪方面好呢？
 
 ;0x7D26FA9C=GCA2_ALEX_MOVIE_FB
 0x7D26FA9C=GCA2_ALEX_MOVIE_FB
@@ -411,7 +411,7 @@
 0x80356E80=GCA2_ALEX_FILMMAKER_DR
 
 ;0x8174CC41=~z~I know what they want and what they're feeling. How is some professor going to be able to give me a grade on what I already know?
-0x8174CC41=~z~我知道他们的想法和感受。哪会有教授能在我已经懂了的领域授予我学位呢？
+0x8174CC41=~z~我知道他们的想法和感受。哪个教授能在我熟知的领域授予我学位呢？
 
 ;0x838B3D6D=GCA2_ALEX_NOVEL_EG
 0x838B3D6D=GCA2_ALEX_NOVEL_EG
@@ -435,7 +435,7 @@
 0x88869AC7=~z~当然。
 
 ;0x88AA5E47=~z~It's not like I haven't been on a date like this before. I mean I've picked up guys on craplist and on dating sites but
-0x88AA5E47=~z~我之前也不是没这样约会过。我已经在craplist和各种交友网站上约过很多人了，
+0x88AA5E47=~z~我也不是第一次这样约人了。我在craplist和各种交友网站上约过很多人，
 
 ;0x8973237D=GCA2_ALEX_NOVEL_EP
 0x8973237D=GCA2_ALEX_NOVEL_EP
@@ -450,10 +450,10 @@
 0x8BF49C07=GCA2_ALEX_NOVEL_EB
 
 ;0x8CF4DD0D=~z~Oh, what would you know about this stuff?
-0x8CF4DD0D=~z~哦，听你这么说你好像很懂嘛？
+0x8CF4DD0D=~z~哦，这块你不太熟吧？
 
 ;0x8F6703DB=~z~It must be so hard for you finding work and stuff in Liberty. I am told immigrants have a really hard time here.
-0x8F6703DB=~z~你在自由城找工作之类的话一定很难吧。听说移民在这儿的日子不好过。
+0x8F6703DB=~z~你在自由城找工作的时候一定很难吧。听说移民在这儿的日子不好过。
 
 ;0x8F6EEC38=~z~Letting them see pieces of your life but not the whole picture.
 0x8F6EEC38=~z~只让他们窥探你生活的局部而不是全部。
@@ -462,19 +462,19 @@
 0x8F9C4462=~z~确实，我一向认为自己会成为电影人。我的视觉设计能力很强。
 
 ;0x905A6A0C=~z~I mean, you know, I really understand people already.
-0x905A6A0C=~z~我是说，那个，我已经很懂别人了。
+0x905A6A0C=~z~我是说，我已经很懂别人了。
 
 ;0x96149741=~z~Oh he doesn't count. He's not a man. He's Daddy. I'll have any man I want to. Young, old, American, European. Like you,
-0x96149741=~z~哦，他不算。他不算是男人，他是我爹地。我想找什么男人就找什么男人。小年轻、老头子、美国人、欧洲人。比如你。
+0x96149741=~z~哦，他不算。他不算是男人，他是爹地。我想找什么男人就找什么男人。小年轻、老头子、美国人、欧洲人。比如你。
 
 ;0x9635977F=~z~I mean, I'll do that myself and I won't rely on men to get me what I need.
-0x9635977F=~z~就是说，我自己就会去做这些事，不会等着男人给我把这些送上来。
+0x9635977F=~z~就是说，我自己就会这么做，不会等着男人送上来。
 
 ;0x96E3889C=GCA2_ALEX_FILMMAKER_DM
 0x96E3889C=GCA2_ALEX_FILMMAKER_DM
 
 ;0x971D489D=~z~I'm sorry. Man, we're going to have the best time.
-0x971D489D=~z~对不起。老兄，我们还是开始享受欢乐时光吧。
+0x971D489D=~z~对不起。天。还是继续享受欢乐时光吧。
 
 ;0x997F6835=GCA2_ALEX_NOVEL_EH
 0x997F6835=GCA2_ALEX_NOVEL_EH
@@ -483,25 +483,25 @@
 0x9A453E44=~z~我会出名的，但不是无故出名，真的。
 
 ;0x9C5F7BE2=~z~Not much.
-0x9C5F7BE2=~z~懂得不多。
+0x9C5F7BE2=~z~确实。
 
 ;0x9DABA064=~z~I mean, some people from here have a tough time getting work too.
-0x9DABA064=~z~我是说，就连美国本地人都有找不到工作的。
+0x9DABA064=~z~我是说，就连美国本地人都有就业危机。
 
 ;0x9FCA7F5A=GCA2_ALEX_COLLEGE_CM
 0x9FCA7F5A=GCA2_ALEX_COLLEGE_CM
 
 ;0x9FF3D74D=~z~The other day, I met this guy and I slept with him, and I wrote about it on my blog.
-0x9FF3D74D=~z~有一天，我遇到了这个男人，和他睡了一觉，然后我就把这事写到博客里。
+0x9FF3D74D=~z~有一天，我遇到了这个男人，和他睡了一觉，然后写到了博客里。
 
 ;0xA24F69C8=~z~Yes.
 0xA24F69C8=~z~没错。
 
 ;0xA45A33CC=~z~I mean, I pick you up and I don't give a shit what my Mother will say, or what friends think.
-0xA45A33CC=~z~就是说，我约了你，不会管我母亲会逼逼些什么，也不管我的朋友怎么想。
+0xA45A33CC=~z~就是说，我约了你，就不会管我母亲逼逼些什么，也不管我的朋友怎么想。
 
 ;0xA46733E2=~z~Doesn't your father pick up your credit card tabs?
-0xA46733E2=~z~你的信用卡账单不还是你爸爸替你还的吗？
+0xA46733E2=~z~你的信用卡不还是你爸在还吗？
 
 ;0xA670F0B3=GCA2_ALEX_FILMMAKER_DD
 0xA670F0B3=GCA2_ALEX_FILMMAKER_DD
@@ -522,10 +522,10 @@
 0xAAEBFA9D=GCA2_ALEX_FILMMAKER_DC
 
 ;0xAB26A343=~z~So, Niko. Do you want to tell me about yourself? I cannot believe we're going on a date and we don't even know each other.
-0xAB26A343=~z~那，Niko。你能介绍下自己吗？在互不了解的情况下约会有点不现实。
+0xAB26A343=~z~那，Niko。你能介绍下自己吗？在互不了解的情况下约会不太现实。
 
 ;0xAC827666=~z~I was trying to figure out why it was that I related to you so easily. That must be it.
-0xAC827666=~z~我是有想过为什么我会这么轻易地就接近你。肯定就是这样。
+0xAC827666=~z~我有想过为什么会这么轻易地就接近你。肯定就是这样。
 
 ;0xACA4DF94=GCA2_ALEX_NOVEL_EN
 0xACA4DF94=GCA2_ALEX_NOVEL_EN
@@ -537,7 +537,7 @@
 0xAFDA21A5=GCA2_ALEX_FILMMAKER_DF
 
 ;0xAFE422EB=~z~Well, that's not the point. I mean, yep, narrative is dead. It's done. It's all about living.
-0xAFE422EB=~z~那不是重点。我是说，对，叙事已死。就这样。都是生计所迫。
+0xAFE422EB=~z~那不重要。我是说，对，叙事已死，死透了。重要的是生活。
 
 ;0xB07FCD6D=GCA2_ALEX_BLOG_FO
 0xB07FCD6D=GCA2_ALEX_BLOG_FO
@@ -546,7 +546,7 @@
 0xB1C02DFF=GCA2_ALEX_COLLEGE_CH
 
 ;0xB2088DD2=~z~Have you been reading my blog? It was really funny this week.
-0xB2088DD2=~z~你有没有在看我的博客？这周更新的内容超有趣的。
+0xB2088DD2=~z~你有没有在看我的博客？这周的更新超有趣的。
 
 ;0xB2F63D4D=GCA2_ALEX_FAMOUS_BM
 0xB2F63D4D=GCA2_ALEX_FAMOUS_BM
@@ -567,13 +567,13 @@
 0xB8C30F2F=GCA2_ALEX_NOVEL_EA
 
 ;0xB99CD846=~z~Next thing I know I've seen three pairs of shoes that I have to have and it's time to call Daddy and get the limit on my credit card extended.
-0xB99CD846=~z~突然就看见三双非买不可的鞋，然后就该打给爹地让他提升我的信用卡额度了。
+0xB99CD846=~z~一出去就看上了三双鞋，反手就打给爹地让他提升我的信用卡额度了。
 
 ;0xBB550260=GCA2_ALEX_NOVEL_ES
 0xBB550260=GCA2_ALEX_NOVEL_ES
 
 ;0xBB77F731=~z~But, mostly I'm my own muse. I mean, I'm going to be an important person. I think I'll change the world.
-0xBB77F731=~z~但是，一般我自己才是我的创作源泉。我会成为一个大人物，我觉得我会改变世界。
+0xBB77F731=~z~一般我自己才是我的创作源泉。我会成为一个大人物，我以后会改变世界。
 
 ;0xBB811158=GCA2_ALEX_BLOG_HC
 0xBB811158=GCA2_ALEX_BLOG_HC
@@ -594,16 +594,16 @@
 0xC04D2615=GCA2_ALEX_BLOG_HP
 
 ;0xC127ABFC=~z~Yes, he's amazing. But don't worry. Not all of the guys I date have to be intellectuals.
-0xC127ABFC=~z~对，他很棒。不过别担心。也不是每个跟我约会的人都得有个性。
+0xC127ABFC=~z~对，他很棒。不过别担心，跟我约会的人也可以不是才子。
 
 ;0xC440CB5A=GCA2_ALEX_FILMMAKER_DG
 0xC440CB5A=GCA2_ALEX_FILMMAKER_DG
 
 ;0xC6BAAAD6=~z~richer and deeper than everyone else's. I mean, they relate to me because I'm better than them.
-0xC6BAAAD6=~z~比所有人都要富足、深刻。我的意思是因为我比他们强，他们才会亲近我。
+0xC6BAAAD6=~z~都要丰富、深刻。我比他们强，他们才会亲近我。
 
 ;0xC70717C3=~z~That's certainly true.
-0xC70717C3=~z~肯定是这样。
+0xC70717C3=~z~确实是这样。
 
 ;0xC82F095F=100010100100100010100010100010100100010100010100010100
 0xC82F095F=100010100100100010100010100010100100010100010100010100
@@ -612,7 +612,7 @@
 0xC9C293C6=~z~就像斯大林。
 
 ;0xCBDC7CC5=~z~Not really what I meant. So, you got a fancy college degree that gets you noticed?
-0xCBDC7CC5=~z~我不是这个意思。对了，你是不是有个引人瞩目的大学学位？
+0xCBDC7CC5=~z~跟我说的不太一样。对了，你是不是有个引人瞩目的大学学位？
 
 ;0xCC0B95A1=GCA2_ALEX_COLLEGE_CC
 0xCC0B95A1=GCA2_ALEX_COLLEGE_CC
@@ -642,7 +642,7 @@
 0xD0DD0BAA=GCA2_ALEX_FILMMAKER_DS
 
 ;0xD1BE0B02=~z~The thing about me is, I'm interesting. People feel like they can talk to me and open up.
-0xD1BE0B02=~z~我这人吧，其实挺有趣的。别人都觉得自己可以跟我聊天、敞开心扉。
+0xD1BE0B02=~z~我这人吧，还挺有趣的。跟我聊天的人都会自然地敞开心扉。
 
 ;0xD1CDAB82=010100010100010100010100100010100010100100
 0xD1CDAB82=010100010100010100010100100010100010100100
@@ -657,7 +657,7 @@
 0xD30BE830=GCA2_ALEX_COLLEGE_CI
 
 ;0xD379C454=~z~You think people are going to read this?
-0xD379C454=~z~你觉得会有人看这本书吗？
+0xD379C454=~z~你觉得这本书有人看吗？
 
 ;0xD47224A9=GCA2_ALEX_FAMOUS_BH
 0xD47224A9=GCA2_ALEX_FAMOUS_BH
@@ -687,13 +687,13 @@
 0xE2CAB0E6=GCA2_ALEX_FEMINIST_GM
 
 ;0xE41E1531=~z~I don't know. I'm not from here. I'm trying to get through life in a strange country but it isn't easy.
-0xE41E1531=~z~不清楚。我不是本地人。我在尝试融入异国生活，但是有点困难。
+0xE41E1531=~z~不好说。我不是本地人，还在尝试融入异国生活，但是有点困难。
 
 ;0xE45A9C72=~z~I mean, I will go out and order the most expensive thing on the menu. And I'll buy
-0xE45A9C72=~z~我出门吃饭会点菜单上最贵的菜。我还会给自己
+0xE45A9C72=~z~出门吃饭我会点最贵的菜，还会给自己
 
 ;0xE4AB1812=~z~Thanks... yep - I'm an intellectual. I mean, I haven't gotten going yet, but I am.
-0xE4AB1812=~z~谢了...对，我是个才女。我是说，虽然还不完全是，但确实是。
+0xE4AB1812=~z~谢了...对，我是个才女。虽然还不完全是，但也确实是。
 
 ;0xE61D1473=GCA2_ALEX_INTERESTING_AK
 0xE61D1473=GCA2_ALEX_INTERESTING_AK
@@ -726,22 +726,22 @@
 0xF0132FC6=GCA2_ALEX_FAMOUS_BF
 
 ;0xF24CB18E=~z~Some people make it difficult, yes? What do you want me to know about you?
-0xF24CB18E=~z~总有人来找你麻烦，对吧？你想让我了解你些什么？
+0xF24CB18E=~z~总有人来找你麻烦，对吧？你想让我了解你的哪些方面？
 
 ;0xF29C3728=GCA2_ALEX_FAMOUS_BL
 0xF29C3728=GCA2_ALEX_FAMOUS_BL
 
 ;0xF3EE4D50=~z~I haven't had any trouble. It's not just because I've never had a paying job, because I'm an intellectual.
-0xF3EE4D50=~z~我倒没遇到什么麻烦。不只是因为我从未做过有偿的工作，也是因为我是个特立独行的人。
+0xF3EE4D50=~z~我倒没遇上。不只是因为我从未上过班，也是因为我的才华。
 
 ;0xF46CD05F=~z~I'm from Middle Park West, I've never thought about leaving Liberty City.
-0xF46CD05F=~z~我来自中央公园西，我从没想过要离开自由城。
+0xF46CD05F=~z~我来自中央公园西，从没想过要离开自由城。
 
 ;0xF5F22D0C=GCA2_ALEX_COLLEGE_CL
 0xF5F22D0C=GCA2_ALEX_COLLEGE_CL
 
 ;0xF6193FEF=~z~Okay well that's sick. You don't get what I'm saying. I mean -
-0xF6193FEF=~z~好吧，那样是真不行。你没明白我的意思，我是说，
+0xF6193FEF=~z~那可太糟了。你没听懂我的意思，我是说，
 
 ;0xF6BFF15B=100100100010010100100010100100100010100100010
 0xF6BFF15B=100100100010010100100010100100100010100100010
@@ -756,7 +756,7 @@
 0xF88F9186=GCA2_ALEX_FEMINIST_GE
 
 ;0xF8EDBB31=~z~Yeah, and I couldn't stand to be away from Liberty either.
-0xF8EDBB31=~z~对，而且我也不能接受离开自由城。
+0xF8EDBB31=~z~对，而且我的生活也离不开自由城。
 
 ;0xF954E036=GCA2_ALEX_MOVIE_FP
 0xF954E036=GCA2_ALEX_MOVIE_FP
@@ -765,10 +765,10 @@
 0xFB3D726F=GCA2_ALEX_MOVIE_FF
 
 ;0xFC7DF93C=~z~You live! You don't think! And that's beautiful.
-0xFC7DF93C=~z~你活着！而且还不思考！实在太美妙了。
+0xFC7DF93C=~z~你活着！还不思考！实在太美妙了。
 
 ;0xFE9AE84C=~z~I won't let consequences hold me back from the moment.
-0xFE9AE84C=~z~我不会让后果阻止我活在当下的。
+0xFE9AE84C=~z~后果是无法阻止我活在当下的。
 
 ;0xFEE1C3B0=GCA2_ALEX_INTERESTING_AM
 0xFEE1C3B0=GCA2_ALEX_INTERESTING_AM
@@ -777,4 +777,5 @@
 0xFF9463EC=~z~我是上过大学，本来主修心理学的，不过我觉得这个太简单了。
 
 ;0xFF9B969F=~z~Well, I've been blogging, and I've been doing a lot of web 2.0 shit. And I've... I've... well all kinds of crazy things.
-0xFF9B969F=~z~好吧，我最近在写博客，也整了一堆Web 2.0的玩意。而且我还...还...反正杂七杂八啥都做了。
+0xFF9B969F=~z~我在写博客，也整了一堆Web 2.0的玩意。而且还...还...总之啥都做了。
+
