@@ -222,7 +222,7 @@
 0x376117BE=R11_KG
 
 ;0x376A329A=~z~We will, but I have left something important at the apartment. Something I must show you, cousin.
-0x376A329A=~z~我们会的，不过我在公寓里落了样重要的东西。我一定要给你看看那个，堂弟。
+0x376A329A=~z~肯定会，不过我在公寓里落了样重要的东西。你一定要看看那个，堂弟。
 
 ;0x38CD7058=R11_FK
 0x38CD7058=R11_FK
@@ -375,7 +375,7 @@
 0x56D8A30B=R11_EJ_QQQ1
 
 ;0x588F2794=~z~You had it all from day one. It took me months to get some cash together.
-0x588F2794=~z~你从来的第一天就啥都有了。~n~我花了好几个月才凑出一点钱。
+0x588F2794=~z~你来的第一天就啥都有了。~n~我花了好几个月才凑出一点钱。
 
 ;0x5AE3D887=~z~except for that one bottle of vodka.
 0x5AE3D887=~z~只剩下那一瓶伏特加。
@@ -531,10 +531,10 @@
 0x7B0B9C46=R11_CB
 
 ;0x7B423A45=~z~This could be the start of that. A fresh beginning.
-0x7B423A45=~z~这就可以是梦的开始，一个全新的起点。
+0x7B423A45=~z~这就可以是梦的开始。全新的起点。
 
 ;0x7B80F7DB=~z~No. Don't be like that... we can find a way out of this...
-0x7B80F7DB=~z~别，别这样...我们可以想法子摆脱的...
+0x7B80F7DB=~z~别，别这样...总会有办法的...
 
 ;0x7BB444FC=~z~I always put a saddle on a horse before I ride her, Roman. I won't catch nothing.
 0x7BB444FC=~z~我上马之前总会先套个鞍的，Roman。不会得脏病的。
@@ -594,7 +594,7 @@
 0x858C44C8=~z~死一个Bellic他们就开心一点，就想杀下一个。
 
 ;0x8819910C=~z~We don't have time for revenge. We can't afford it.
-0x8819910C=~z~我们没时间复仇了。我们来不及的。
+0x8819910C=~z~我们没时间复仇了。来不及的。
 
 ;0x8893879C=~z~Well, it doesn't matter. Now it's gone along with everything else.
 0x8893879C=~z~现在都无所谓了，全都化为灰烬了。
@@ -801,7 +801,7 @@
 0xC0B51013=R11_NM
 
 ;0xC271A255=~z~That is what I wanted to show you. It was a beautiful ring.
-0xC271A255=~z~就是我刚才想给你看的那个，真的是个很好看的戒指。
+0xC271A255=~z~就是刚才想给你看的那个，真的很好看的戒指。
 
 ;0xC44D04AD=~z~I guess you cannot escape your past.
 0xC44D04AD=~z~我想你也逃避不了你的过去。
@@ -810,7 +810,7 @@
 0xC4580988=~z~对，对，现在他来了。
 
 ;0xC50C5CD6=~z~I'm sorry, Roman, I'm really sorry but we have to go.
-0xC50C5CD6=~z~我很抱歉，Roman，我真的很抱歉，但我们得走了。
+0xC50C5CD6=~z~我很抱歉，Roman，真的很抱歉，但我们得走了。
 
 ;0xC54639A6=R11_NU
 0xC54639A6=R11_NU
@@ -834,7 +834,7 @@
 0xCC2E1A3B=~z~我压上我的筹码，赢走更多筹码，这样我就可以把钱花在
 
 ;0xCCF52147=~z~Yeah, trying to impress Michelle or something.
-0xCCF52147=~z~对，大概是想让Michelle印象深点吧。
+0xCCF52147=~z~对，大概是想讨好Michelle吧。
 
 ;0xCE7AC78F=R11_NAF
 0xCE7AC78F=R11_NAF
@@ -954,7 +954,7 @@
 0xED695648=~z~我会把它加进你的秘密清单里的，不会泄露的。
 
 ;0xEDFB7968=~z~Come on, Roman, pull yourself together. You've been here before.
-0xEDFB7968=~z~振作点，Roman，鼓起劲来。以前也不是没这样过。
+0xEDFB7968=~z~振作点，Roman，鼓起劲来。也不是没这样过。
 
 ;0xEF3C0161=R11_MH
 0xEF3C0161=R11_MH
@@ -984,7 +984,7 @@
 0xF4F82B27=~z~Roman，你发给我的邮件里面不都是梦话吗。
 
 ;0xF670E359=~z~then I got the apartment, the apartment you thought was so shitty.
-0xF670E359=~z~之后我买下了公寓，你还嫌弃它太烂的公寓。
+0xF670E359=~z~之后我买下了公寓，你还嫌弃它烂的公寓。
 
 ;0xF6AD6F39=~z~You do not need a ring to propose. Mallorie loves you for who you are, not for some ring.
 0xF6AD6F39=~z~求婚不需要戒指。Mallorie爱的不是什么戒指，是你。
