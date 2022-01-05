@@ -93,7 +93,7 @@
 0x15B67F49=FCJ_ACT_CALL_REQ_SPEC_NORTH_GARDENS
 
 ;0x15BCED83=~z~Yo, link me down a' Middle Park West now.
-0x15BCED83=~z~哟，我们在中央公园西碰头。
+0x15BCED83=~z~哟，我们在中心公园西碰头。
 
 ;0x1688AE02=FCJ_ACT_CALL_REQ_SPEC_STAR_JUNCTION
 0x1688AE02=FCJ_ACT_CALL_REQ_SPEC_STAR_JUNCTION
@@ -198,7 +198,7 @@
 0x362E72AE=~z~到Tudor来找我。
 
 ;0x375FFEB7=~z~Yo, pick me up a' Middle Park East now.
-0x375FFEB7=~z~哟，来中央公园东找我。
+0x375FFEB7=~z~哟，来中心公园东找我。
 
 ;0x381E253D=FCJ_ACT_CALL_REQ_SPEC_EAST_HOLLAND
 0x381E253D=FCJ_ACT_CALL_REQ_SPEC_EAST_HOLLAND
@@ -687,7 +687,7 @@
 0xCE97C371=FCJ_BYE
 
 ;0xD09AB56E=~z~Ye dun know, ye dun know man, Middle Park.
-0xD09AB56E=~z~你不懂，你不懂，兄弟。中央公园。
+0xD09AB56E=~z~你不懂，你不懂，兄弟。中心公园。
 
 ;0xD161A4ED=~z~Yeah man, just pick me up at Easton.
 0xD161A4ED=~z~好的兄弟，你到Easton来提货。
