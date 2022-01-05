@@ -15,7 +15,7 @@
 0x04DED8CC=~z~好，回见。
 
 ;0x04FE0037=~z~How about we find something else to do now?
-0x04FE0037=~z~我们现在再去找点事做如何？
+0x04FE0037=~z~现在再去找点事做如何？
 
 ;0x06308172=~z~It used to be impossible to get a table there and you can see why.
 0x06308172=~z~以前这里一席难求，原因你也能看出来。
@@ -45,7 +45,7 @@
 0x11A18F5A=~z~要我一起进来吗？
 
 ;0x13FC1E75=~z~God, the stories I could tell you about this place, let's walk.
-0x13FC1E75=~z~上帝，我有很多关于这里的故事可以讲，边走边聊吧。
+0x13FC1E75=~z~天哪，我有很多关于这里的故事可以讲，边走边聊吧。
 
 ;0x1410F730=~z~See ya.
 0x1410F730=~z~再见。
@@ -96,7 +96,7 @@
 0x23025297=GCA_ACT_DATEFINISHED_OK
 
 ;0x230EB234=~z~I think we both want me to come inside.
-0x230EB234=~z~我想你也想让我进来吧。
+0x230EB234=~z~你也想让我进来吧。
 
 ;0x23670ED0=GCA_ACT_DARTS_LEAVE_ABANDON
 0x23670ED0=GCA_ACT_DARTS_LEAVE_ABANDON
@@ -120,7 +120,7 @@
 0x2732265B=100
 
 ;0x28009728=~z~Well the crowd in there was a bit B and T, wasn't it? At least I got buzzed enough to cope.
-0x28009728=~z~那里面的人大多数是通勤族，不是吗？至少我已经够醉了。
+0x28009728=~z~那里面的人大多是通勤族，不是吗？至少我已经够醉了。
 
 ;0x2B45122E=~z~Yeah, let me take your number and we can go on another date sometime.
 0x2B45122E=~z~确实，给我你的电话吧，我们以后还能再出来约会。
@@ -162,7 +162,7 @@
 0x3D89AC56=GCA_ACT_LEAVE_WALK
 
 ;0x3DF7B5B2=~z~Ending that game early was the best decision I've seen you make.
-0x3DF7B5B2=~z~提前结束这一局是你至今做出的决定中最好的。
+0x3DF7B5B2=~z~提前结束是你至今做出的最好的决定。
 
 ;0x3E9DD60D=~z~This has got to be a new low point, Niko. Being beaten by a girl who hates darts.
 0x3E9DD60D=~z~实在是太糟糕了，Niko。你输给了一个讨厌飞镖的女孩。
@@ -228,7 +228,7 @@
 0x4E295C55=100
 
 ;0x4E904C42=~z~I feel like I totally understand a new culture now.
-0x4E904C42=~z~感觉我已经完全理解了一种新文化了。
+0x4E904C42=~z~感觉我完全理解了这种新文化。
 
 ;0x4F4AED80=100
 0x4F4AED80=100
@@ -276,7 +276,7 @@
 0x5A5EAE3E=GCA_ACT_PAL_END_KISS_RESPONSE
 
 ;0x5B7D42F4=~z~Niko, I've been diagnosed with ADHD, I don't like having to wait this long to get where we're going.
-0x5B7D42F4=~z~Niko，我被诊断有多动症，我不喜欢在中途等这么久。
+0x5B7D42F4=~z~Niko，我被诊断有多动症，不喜欢在中途等这么久。
 
 ;0x5D0DE93D=~z~That really enlightened me as to what the European mind is like, you know?
 0x5D0DE93D=~z~它启发了我什么是欧式思维，你知道吗？
@@ -285,7 +285,7 @@
 0x5D1C5FDE=100
 
 ;0x5DA4202B=~z~I could do with an escort back to my place.
-0x5DA4202B=~z~能麻烦你护卫我回家吗？
+0x5DA4202B=~z~能麻烦你护送我回家吗？
 
 ;0x5EC2FE86=100
 0x5EC2FE86=100
@@ -315,7 +315,7 @@
 0x6517E5CB=100
 
 ;0x65D7FFD6=~z~So after I checked myself out of rehab I decided that I didn't have a problem. The end.
-0x65D7FFD6=~z~在我离开戒毒所后，我就确信我没毛病了。就这。
+0x65D7FFD6=~z~离开戒毒所后，我就确信我没毛病了。就这。
 
 ;0x663ACE27=100
 0x663ACE27=100
@@ -330,7 +330,7 @@
 0x68A18877=GCA_ACT_LEAVE_SHOW_EARLY
 
 ;0x6AB7E169=~z~Can we please find something to do already?
-0x6AB7E169=~z~能不能麻烦你赶紧给我们安排点活动？
+0x6AB7E169=~z~能不能麻烦你赶紧安排点活动？
 
 ;0x6B04C4ED=100
 0x6B04C4ED=100
@@ -348,13 +348,13 @@
 0x6C9A72F3=~z~我已经受够了。
 
 ;0x6DC09485=~z~There are only so many boobs a girl can look at, Niko. I think we should have left earlier.
-0x6DC09485=~z~那里奶子太多，女孩子受不了的，Niko。我觉得我们早就该出来了。
+0x6DC09485=~z~那里奶子太多，女孩子受不了的，Niko。我们早就该出来了。
 
 ;0x6F68A543=100
 0x6F68A543=100
 
 ;0x719F4D68=~z~If you're not taking me straight home I can just call Daddy's driver.
-0x719F4D68=~z~你再不送我回去，我就打电话叫爹地的司机了。
+0x719F4D68=~z~再不送我回去，我就打电话叫爹地的司机了。
 
 ;0x71AC14F6=GCA_ACT_LEAVE_HIGHEND
 0x71AC14F6=GCA_ACT_LEAVE_HIGHEND
@@ -396,7 +396,7 @@
 0x83E86AD1=~z~真的。
 
 ;0x8545B061=~z~You've shown me a good time, Niko.
-0x8545B061=~z~我跟你一起玩得很开心，Niko。
+0x8545B061=~z~跟你玩得很开心，Niko。
 
 ;0x85D8667E=~z~Goodbye, Alex.
 0x85D8667E=~z~再见，Alex。
@@ -417,7 +417,7 @@
 0x88AEC577=~z~希望我没有让你无聊，不是说我会让别人无聊，但我一直在说话。
 
 ;0x89CD10A5=~z~I told you I hate fast-food. I will not let it pass my lips again.
-0x89CD10A5=~z~我都说了我讨厌快餐。我不会再让这种东西进我嘴里了。
+0x89CD10A5=~z~都说了我讨厌快餐。我不会再让这种东西进我嘴里了。
 
 ;0x89F3FB65=100
 0x89F3FB65=100
@@ -477,7 +477,7 @@
 0x9A57E8C9=~z~我之前没跟任何人说过那件事。你是一个好听众。
 
 ;0x9C0FB52A=~z~I'm sorry, but I am not putting this chemical and hormone filled stuff into my body again. Will you take me somewhere else?
-0x9C0FB52A=~z~很抱歉，但我不会再让这种全是激素添加剂的东西下肚了。你能不能带我去别的地方？
+0x9C0FB52A=~z~很抱歉，但我不会再让这种全是激素添加剂的东西下肚了。能不能换家店？
 
 ;0x9D9CA345=GCA_ACT_LEAVE_CLUB_GENERIC
 0x9D9CA345=GCA_ACT_LEAVE_CLUB_GENERIC
@@ -546,7 +546,7 @@
 0xC0C8C1FC=100
 
 ;0xC195FFDB=~z~Umm, are you sure you want to go for a walk right now? Don't people get raped here? You better protect me.
-0xC195FFDB=~z~唔，你确定你要现在去散步吗？走这里很容易被强奸吧？你最好能保护我。
+0xC195FFDB=~z~唔，你确定要现在散步吗？走这里很容易被强奸吧？你最好能保护我。
 
 ;0xC277019D=~z~Niko, this area looks very dangerous. People get killed outside of Algonquin. I trust you though.
 0xC277019D=~z~Niko，这地方看起来很危险。Algonquin以外的地方有很多杀人案。不过我相信你。
@@ -558,7 +558,7 @@
 0xC49D080C=GCA_ACT_PAL_END_NO
 
 ;0xC9099195=~z~Well, let's check out this exciting place one more time. Fingers crossed we won't be killed.
-0xC9099195=~z~行吧，那我们就再去那儿瞧瞧吧。但愿我们不会被杀。
+0xC9099195=~z~行吧，那就再去那儿瞧瞧吧。但愿我们不会被杀。
 
 ;0xC951A904=~z~Sorry, Niko. You're sweet but we can't do that right now.
 0xC951A904=~z~抱歉，Niko。你很可爱，但我们现在还不能做那个。
@@ -567,13 +567,13 @@
 0xCEEB691E=~z~我们应该还有别的事能做吧，不是吗？
 
 ;0xCF253E0A=~z~Did we have to go? What? Were you getting jealous of me and the other girls or were you too turned on?
-0xCF253E0A=~z~我们就一定要走吗？咋了？你是嫉妒我和其它女孩一起还是太性奋了？
+0xCF253E0A=~z~一定要走吗？咋了？你是嫉妒我和其它女孩一起还是太性奋了？
 
 ;0xCFF1D038=100
 0xCFF1D038=100
 
 ;0xD1120705=~z~Will you take me back to my place?
-0xD1120705=~z~你能送我回我家吗？
+0xD1120705=~z~能送我回我家吗？
 
 ;0xD165E9F0=~z~Shit, to think that I used to love that place. Well, I still get drunk there though.
 0xD165E9F0=~z~我靠，以前我居然还喜欢那地方。好吧，不过我还是在那儿喝醉了。
@@ -666,7 +666,7 @@
 0xE77A9C7D=GCA_ACT_PAL_END_RESPONSE
 
 ;0xE7F4BC01=~z~I'd feel guilty if I didn't escort you all the way into your place.
-0xE7F4BC01=~z~要是我没有护送你回家，我会有负罪感的。
+0xE7F4BC01=~z~要是没有护送你进门，我会有负罪感的。
 
 ;0xE88F2444=~z~European girls might be whores, but Americans aren't.
 0xE88F2444=~z~欧洲女孩可能是妓女，但美国的不是。

@@ -156,10 +156,10 @@
 0x3297A514=~z~Niko兄弟，我把东西放在Acter工业园了。
 
 ;0x331451B8=~z~You'll find some I stashed for you in Middle Park West.
-0x331451B8=~z~你可以去中央公园西找我给你放着的那些。
+0x331451B8=~z~你可以去中心公园西找我给你放着的那些。
 
 ;0x33BF6E53=~z~You'll find some I stashed for you in Middle Park East.
-0x33BF6E53=~z~你可以去中央公园东找我给你放着的那些。
+0x33BF6E53=~z~你可以去中心公园东找我给你放着的那些。
 
 ;0x353AB7AE=~z~Fuck me, Niko. You really are cold. Someone else might give me a lift I guess.
 0x353AB7AE=~z~我操，Niko，你丫是真冷酷。我猜别人怎么着也得载我一程。
@@ -264,7 +264,7 @@
 0x68446D89=010
 
 ;0x69A1FF35=~z~You'll find some I stashed for you in Middle Park.
-0x69A1FF35=~z~你可以去中央公园找我给你留的一份。
+0x69A1FF35=~z~你可以去中心公园找我给你留的一份。
 
 ;0x69C42CB3=FCP_ACT_CALL_REQ_SPEC_BOULEVARD
 0x69C42CB3=FCP_ACT_CALL_REQ_SPEC_BOULEVARD
@@ -351,10 +351,10 @@
 0x83DC446F=FCP_ACT_CALL_REQ_SPEC_SUFFOLK
 
 ;0x84F6AC62=~z~Sure, man. You'll find some in Middle Park East.
-0x84F6AC62=~z~当然，兄弟。你可以在中央公园东找到一份。
+0x84F6AC62=~z~当然，兄弟。你可以在中心公园东找到一份。
 
 ;0x86BA4662=~z~You'll find some I stashed for you in Little Italy.
-0x86BA4662=~z~你可以在Little Italy找到我给你留的一份。
+0x86BA4662=~z~你可以在小意大利找到我给你留的那份。
 
 ;0x87B6F5A7=FCP_ACT_CALL_REQ_RANDOM
 0x87B6F5A7=FCP_ACT_CALL_REQ_RANDOM
@@ -666,7 +666,7 @@
 0xE7223775=100
 
 ;0xE8271149=~z~Sure, man. You'll find some in Middle Park West.
-0xE8271149=~z~当然，兄弟。你可以在中央公园西找到一份。
+0xE8271149=~z~当然，兄弟。你可以在中心公园西找到一份。
 
 ;0xEC5E4C31=FCP_ACT_CALL_REQ_SPEC_SOUTH_BOHAN
 0xEC5E4C31=FCP_ACT_CALL_REQ_SPEC_SOUTH_BOHAN

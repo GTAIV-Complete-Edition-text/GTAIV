@@ -15,7 +15,7 @@
 0x0FDA0326=SFX_PAUSE_2000
 
 ;0x10EB5968=~z~You have it hard. I don't know how you cope.
-0x10EB5968=~z~你日子这么难过，都不知道你是怎么过来的。
+0x10EB5968=~z~日子这么难过，都不知道你是怎么过来的。
 
 ;0x10FD06DB=GCC2_DRUNK2_PB
 0x10FD06DB=GCC2_DRUNK2_PB
@@ -30,7 +30,7 @@
 0x1A556C40=~z~操他妈的牢骚贱人。我讨厌所有病人。
 
 ;0x1F03095C=~z~If you cared you would have picked up on it,
-0x1F03095C=~z~你要是关心我，早就该注意到了，
+0x1F03095C=~z~你要是关心我，早就注意到了。
 
 ;0x2127284F=GCC2_DRUNK2_PC
 0x2127284F=GCC2_DRUNK2_PC
@@ -60,7 +60,7 @@
 0x30678608=~z~问题？操你妈的。
 
 ;0x3070AC37=~z~but you too up your own fucking ass to give a shit about the Carmen.
-0x3070AC37=~z~但你丫只关心自己，根本没关注过Carmen。
+0x3070AC37=~z~但你丫只关心自己，根本不在乎Carmen。
 
 ;0x3880B34F=~z~Okay, thanks for the vote of confidence.
 0x3880B34F=~z~好的，感谢你的认可。
@@ -75,7 +75,7 @@
 0x45C2BF2E=010100100100100010100010010100100100010
 
 ;0x45D45686=~z~Carmen was saying something,
-0x45D45686=~z~Carmen说过了，
+0x45D45686=~z~Carmen说过了。
 
 ;0x4BAFD9AD=~z~Every time Carmen agrees to go out with you, you getting real lucky.
 0x4BAFD9AD=~z~每次Carmen同意跟你出来，都是你莫大的福气。
@@ -90,13 +90,13 @@
 0x52DEA9B2=GCC2_DRUNK2_PH
 
 ;0x581E7B1A=~z~I thought you liked the drinks I was buying you. Why didn't you say anything at the time?
-0x581E7B1A=~z~我还以为你很喜欢我给你买的酒。你怎么不早说？
+0x581E7B1A=~z~我还以为你很喜欢我买的酒。你怎么不早说？
 
 ;0x58369BBD=GCC2_DRUNK2_PG
 0x58369BBD=GCC2_DRUNK2_PG
 
 ;0x5BE17A10=~z~She should be going out with rap stars and football players, not hoods like you.
-0x5BE17A10=~z~她应该和嘻哈明星或者橄榄球运动员出门，而不是你这样的小混混。
+0x5BE17A10=~z~她应该和嘻哈明星、橄榄球运动员出门，而不是你这样的小混混。
 
 ;0x5D1C5F71=~z~And I'm drunk! What is wrong with me?
 0x5D1C5F71=~z~结果我醉了！我哪根筋搭错了？
@@ -105,13 +105,13 @@
 0x5E2E8CE4=GCC2_DRUNK4_RD
 
 ;0x5ED062D9=~z~No problem? I gotta be at work soon. I gotta save lives, man.
-0x5ED062D9=~z~没关系？我待会还要上班的，还要去救人性命的，老兄。
+0x5ED062D9=~z~没关系？我待会儿要上班的，还要去救人性命的，老兄。
 
 ;0x61515D29=~z~Watch it, Carmen.
 0x61515D29=~z~说话注意点，Carmen。
 
 ;0x6178053D=~z~Sure, I am. I really appreciate that.
-0x6178053D=~z~当然，是福气。谢主隆恩。
+0x6178053D=~z~当然是福气。谢主隆恩。
 
 ;0x6B41FBC0=~z~I'll give you fucking issues, I'll put you in the fucking hospital myself.
 0x6B41FBC0=~z~我会让你丫有问题的，我会亲自把你丫送进那个破医院的。
@@ -120,7 +120,7 @@
 0x6DE95924=GCC2_DRUNK1_OD
 
 ;0x71AF9AF3=~z~You like a child, Niko. You simple like a fucking child. Shit.
-0x71AF9AF3=~z~你就像个孩子，Niko。你单纯得像个小屁孩。靠。
+0x71AF9AF3=~z~你就像个孩子，Niko。单纯得像个小屁孩。靠。
 
 ;0x720DBC46=GCC2_DRUNK4_RA
 0x720DBC46=GCC2_DRUNK4_RA
@@ -225,7 +225,7 @@
 0xD84388C0=~z~好啊！
 
 ;0xD8F7572D=~z~Man I am drunk as shit.
-0xD8F7572D=~z~老兄，我都醉成烂泥了。
+0xD8F7572D=~z~天，我都醉成烂泥了。
 
 ;0xDFC571CE=GCC2_DRUNK3_QB
 0xDFC571CE=GCC2_DRUNK3_QB
@@ -237,7 +237,7 @@
 0xE2366F0C=~z~去你妈的，Niko。
 
 ;0xE361FE56=~z~I got to deal with stupid fucking sick children all day long.
-0xE361FE56=~z~我一整天都得跟那些傻逼一样的小病号打交道。
+0xE361FE56=~z~我整天都得跟傻逼一样的小病号打交道。
 
 ;0xEE563835=GCC2_DRUNK4_RF
 0xEE563835=GCC2_DRUNK4_RF
@@ -255,7 +255,7 @@
 0xF20A40BD=GCC2_DRUNK4_RE
 
 ;0xF39B3211=~z~she was saying something with her eyes and with her hips and with her whole body language.
-0xF39B3211=~z~她用眼睛、屁股和全身上下的肢体语言在跟你说。
+0xF39B3211=~z~她用眼睛、屁股和全身上下的肢体语言跟你说了。
 
 ;0xF5DED00C=GCC2_DRUNK1_OK
 0xF5DED00C=GCC2_DRUNK1_OK

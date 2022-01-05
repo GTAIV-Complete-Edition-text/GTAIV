@@ -99,13 +99,13 @@
 0x27B7C480=~z~不过也没必要，说不定明天你就死了。
 
 ;0x282E8586=~z~We have scars that come from these horrible situations and we can live to tell the tale.
-0x282E8586=~z~我们都有在极恶环境下留下的创伤，而且我们都能活着讲述那些故事。
+0x282E8586=~z~我们都有在极恶环境下留下的创伤，而且都能活着讲述那些故事。
 
 ;0x2B3A4FE8=GCK2_FRIENDS_MG
 0x2B3A4FE8=GCK2_FRIENDS_MG
 
 ;0x2BF38045=~z~What kind of man do you want to be, Niko?
-0x2BF38045=~z~你想做一个怎么样的人，Niko？
+0x2BF38045=~z~你想成为怎样的人，Niko？
 
 ;0x2D869910=~z~You're like me - a whack job who should have been locked up years ago. You're a deranged psycho.
 0x2D869910=~z~你很像我，一个几年前就该被关起来的疯子。你就是个精神错乱的疯子。
@@ -177,7 +177,7 @@
 0x47945F9F=~z~我真的喜欢你。我是说，也不是那个。我没那个意思。不会跟你那个。
 
 ;0x47D6C4EA=~z~Our mutual interest in wine, conversation, art house movies and long walks on the beach...
-0x47D6C4EA=~z~我们的兴趣相似，无论是在酒上、话题上、小众电影上，还是在沙滩上漫步...
+0x47D6C4EA=~z~我们兴趣相似，无论是在酒上、话题上、小众电影上，还是在沙滩上漫步...
 
 ;0x4934506B=~z~Good. Because I don't want to think about it. I hang out with you to forget about that life.
 0x4934506B=~z~好。因为我也不想想这个。我和你出来就是为了忘记那种生活的。
@@ -198,7 +198,7 @@
 0x50F0EEA1=~z~可能正是如此我们才处得来。我们是朋友。我喜欢你，Kate，真的喜欢你。
 
 ;0x53E050CE=~z~Okay, you want an answer? What sort of man do I want to be?
-0x53E050CE=~z~好，你想要答复是吧？我想做个怎么样的人？
+0x53E050CE=~z~好，你想要答复是吧？我想成为怎样的人？
 
 ;0x544500B6=GCK2_DATING_JF
 0x544500B6=GCK2_DATING_JF
@@ -270,7 +270,7 @@
 0x670AD4B7=GCK2_POINT_KL
 
 ;0x67328EE7=~z~Now, after everything I have been through, I am not sure that life is so simple.
-0x67328EE7=~z~现在，在我经历了那么多后，我就不太确定人生有那么简单了。
+0x67328EE7=~z~现在，经历了那么多后，我就不太确定人生有那么简单了。
 
 ;0x67D735F0=GCK2_FRIENDS_MK
 0x67D735F0=GCK2_FRIENDS_MK
@@ -327,7 +327,7 @@
 0x7E71C4B4=GCK2_DATING_JH
 
 ;0x808B1716=~z~I can tell you stupid things, because I know you're as mad as me. I like being your friend.
-0x808B1716=~z~我可以跟你讲各种蠢事，因为我知道你和我一样疯。我喜欢做你的朋友。
+0x808B1716=~z~可以跟你讲各种蠢事，因为我知道你和我一样疯。我喜欢做你的朋友。
 
 ;0x80D48C20=GCK2_LIKE_HJ
 0x80D48C20=GCK2_LIKE_HJ
@@ -351,7 +351,7 @@
 0x8C5EE933=~z~谢谢你。
 
 ;0x8D590FDC=~z~If you liked me, you'd give this up. Give up this life, for me, I mean.
-0x8D590FDC=~z~要是你喜欢我，你就该放弃现状了，放弃这种生活，为了我。我是说。
+0x8D590FDC=~z~要是你喜欢我，你就该放弃现状了，放弃这种生活，为了我放弃。
 
 ;0x8E2C8FBE=GCK2_OPTIMISM_NI
 0x8E2C8FBE=GCK2_OPTIMISM_NI
@@ -366,7 +366,7 @@
 0x9051957A=~z~你对我来说挺好的。
 
 ;0x90D1D6E3=~z~Do you think this is strange - you and me being friends?
-0x90D1D6E3=~z~你觉得这奇怪吗－你和我做朋友？
+0x90D1D6E3=~z~你觉得这奇怪吗——你和我做朋友？
 
 ;0x921CCE37=~z~Why don't you get involved with someone?
 0x921CCE37=~z~那你怎么不去找个人？
@@ -438,7 +438,7 @@
 0xA890B2FC=~z~这是好事，你会帮到别人的。你是该回到学校当老师。
 
 ;0xAE9B0733=~z~No. Not really. I was trying to be more optimistic. My shrink tells me I need to be more optimistic
-0xAE9B0733=~z~不，不算太好。我只是想更乐观点，我的医生让我想得开一点，
+0xAE9B0733=~z~不，不算太好。只是想更乐观点，医生让我想得开一点，
 
 ;0xAEDF40BD=GCK2_POINT_KB
 0xAEDF40BD=GCK2_POINT_KB
@@ -453,7 +453,7 @@
 0xB0C44802=GCK2_OPTIMISM_NC
 
 ;0xB13B6190=~z~Thank you, I think.
-0xB13B6190=~z~谢谢，我想。
+0xB13B6190=~z~谢谢你。
 
 ;0xB1863485=GCK2_LIKE_HQ
 0xB1863485=GCK2_LIKE_HQ
@@ -531,7 +531,7 @@
 0xC904D28A=~z~生活的目的。我有一种感觉，有时候生活处在两个目的地之间。
 
 ;0xC9F75C8A=~z~Oh, shut up, I don't mean that. I like you. I really like you. You know I do.
-0xC9F75C8A=~z~噢，闭嘴，我不是那个意思。我喜欢你，我真的很喜欢你。你知道我喜欢的。
+0xC9F75C8A=~z~噢，闭嘴，我不是那个意思。我喜欢你，真的很喜欢你。你知道我喜欢的。
 
 ;0xCF1CB550=GCK2_PSYCHOS_LF
 0xCF1CB550=GCK2_PSYCHOS_LF
@@ -588,7 +588,7 @@
 0xE061895E=~z~对什么都厌倦了。厌倦我自己，厌倦了你。
 
 ;0xE1D49042=~z~Okay, we're both survivors then. Maybe that's why we like each other.
-0xE1D49042=~z~好吧，那我们就都是幸存者了。也许我们就是因此才会喜欢对方。
+0xE1D49042=~z~好吧，那我们就都是幸存者了。也许就是因此才会喜欢对方。
 
 ;0xE20BB944=~z~So you could do this until you've killed everyone? Or until you die? Your life must be hell.
 0xE20BB944=~z~所以你要等到杀光所有人才肯收手是吧？还是要等到你死了？你的生活肯定是地狱。

@@ -210,7 +210,7 @@
 0x37602994=~z~我是没进去过，不过你们游客肯定很喜欢。全是古董啥的，都塞满了。
 
 ;0x37713FB0=~z~Change of scenery, East Holland Projects,
-0x37713FB0=~z~画风突变，East Holland公屋，
+0x37713FB0=~z~画风突变，East Holland公屋。
 
 ;0x38612A47=HT1_AUD_CA
 0x38612A47=HT1_AUD_CA
@@ -231,7 +231,7 @@
 0x3CF25921=HT1_AUD_A_XB
 
 ;0x3DB75287=~z~Hi, welcome to your Higgins Tour, I'm Rob,
-0x3DB75287=~z~嗨，欢迎参加Higgins观光，我是Rob，
+0x3DB75287=~z~嗨，欢迎参加Higgins观光，我是Rob。
 
 ;0x3DCDFCA3=~z~See the lake? Few people know this,
 0x3DCDFCA3=~z~看见湖了吗？告诉你个秘密，
@@ -270,7 +270,7 @@
 0x4A6B50C0=HT1_AUD_A_CB
 
 ;0x4A8A2164=~z~Folks, welcome to your tour of the LC skies!
-0x4A8A2164=~z~各位，欢迎你们参加自由城天际之旅！
+0x4A8A2164=~z~各位，欢迎参加自由城天际之旅！
 
 ;0x4B391605=292292
 0x4B391605=292292
@@ -354,7 +354,7 @@
 0x62BE9E3B=HT1_AUD_UA
 
 ;0x62FC3ABD=~z~Now the Libertonian, it's closed for renovation,
-0x62FC3ABD=~z~接下来是自由城博物馆，因装修暂时闭馆，
+0x62FC3ABD=~z~接下来是自由城博物馆，因装修暂时闭馆。
 
 ;0x63E6153D=~z~It sure is great to be driving a chopper for fun rather than to mow down a village full of hostiles.
 0x63E6153D=~z~兴趣使然开直升机可比被迫扫射敌方村庄要好多了。
@@ -408,7 +408,7 @@
 0x70FE49DA=HT1_AUD_FA
 
 ;0x731BDED4=~z~I've seen war zones folks, and I can tell you, you're looking at one.
-0x731BDED4=~z~我曾亲眼见过战区，要我说，你眼前的就是。
+0x731BDED4=~z~我曾亲眼见过战区，要我说，莫过于此。
 
 ;0x738BD727=~z~if those sheets could tell stories, right folks?
 0x738BD727=~z~只可惜那些床单不会说话，对吧？
@@ -456,7 +456,7 @@
 0x7C418FE3=~z~这就是西河。
 
 ;0x7D5DF358=~z~Ah, the housing projects of the world's finest city.
-0x7D5DF358=~z~啊，世界第一城市的公屋项目。
+0x7D5DF358=~z~啊，世界第一城市的公屋社区。
 
 ;0x7E0C7B60=HT1_AUD_ZA
 0x7E0C7B60=HT1_AUD_ZA
@@ -616,7 +616,7 @@
 0xACB3B555=~z~尽管它已经被掏空了。
 
 ;0xAD4FE531=~z~Don't worry about the name, there is no joke I haven't heard.
-0xAD4FE531=~z~别被我的名字吓到，那个笑话*我早听过了。~n~(关键词：Vicky gets her helicopter ride)
+0xAD4FE531=~z~别被我的名字吓到，那个笑话我早听过了。
 
 ;0xAD5726FA=HT1_AUD_A_LB
 0xAD5726FA=HT1_AUD_A_LB
@@ -634,7 +634,7 @@
 0xAEFB2320=HT1_AUD_KB
 
 ;0xAFD7D0CC=~z~Coming up to Vespucci University,
-0xAFD7D0CC=~z~现在下面是Vespucci大学，
+0xAFD7D0CC=~z~这里是Vespucci大学，
 
 ;0xB03F3E84=~z~Give me a break.
 0xB03F3E84=~z~我受不了了。
@@ -718,7 +718,7 @@
 0xC9E6B87C=192192
 
 ;0xCA013254=~z~Middle Park East, how the other half jog folks.
-0xCA013254=~z~中央公园东，上流阶层的锻炼之处。
+0xCA013254=~z~中心公园东，上流阶层的锻炼之处。
 
 ;0xCBB4F9EE=HT1_AUD_IA
 0xCBB4F9EE=HT1_AUD_IA
@@ -751,7 +751,7 @@
 0xD2D92D3C=HT1_AUD_VB
 
 ;0xD2FBFF4C=~z~Man, those guards might be tubby, but they can move.
-0xD2FBFF4C=~z~伙计，楼下的保安确实挺胖，不过真的会动。
+0xD2FBFF4C=~z~伙计，楼下的保安确实挺胖，但他们很能跑。
 
 ;0xD32AABF3=~z~really shows how Liberty City brings people together,
 0xD32AABF3=~z~自由城居民凝聚力的最佳体现，
@@ -808,7 +808,7 @@
 0xDEE33E05=HT1_AUD_A_EB
 
 ;0xDFB85A99=~z~Middle Park, a peaceful haven for so many LC residents,
-0xDFB85A99=~z~中央公园，众多自由城居民的平静天堂，
+0xDFB85A99=~z~中心公园，众多自由城居民的平静天堂。
 
 ;0xE01A19E0=HT1_AUD_A_AA
 0xE01A19E0=HT1_AUD_A_AA
@@ -844,7 +844,7 @@
 0xE88324B0=HT1_AUD_B_CB
 
 ;0xE89CC7B7=~z~and they would if they could people, mark my words.
-0xE89CC7B7=~z~真有机会的话他们绝对会去试的，记住了。
+0xE89CC7B7=~z~真有机会的话他们绝对会去试的，相信我。
 
 ;0xEA263371=~z~Well then.
 0xEA263371=~z~那好吧。
