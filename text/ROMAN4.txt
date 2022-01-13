@@ -3,7 +3,7 @@
 0x28176037=~s~按~PAD_B~用右直拳攻击
 
 ;0x3A430492=~s~Press ~INPUT_MELEE_ATTACK1~ to punch.~n~Press ~INPUT_MELEE_ATTACK2~ for alternative punch.~n~~s~Press ~INPUT_MELEE_KICK~ to kick.
-0x3A430492=~s~按~INPUT_MELEE_ATTACK1~拳击。~n~按~INPUT_MELEE_ATTACK2~也是拳击。~n~~s~按~INPUT_MELEE_KICK~踢击。
+0x3A430492=~s~按~INPUT_MELEE_ATTACK1~或~INPUT_MELEE_ATTACK2~拳击。~n~按~INPUT_MELEE_KICK~踢击。
 
 ;0x48DEA2D1=~r~Dardan~s~ has abandoned his car. He's escaping on foot up the staircase.
 0x48DEA2D1=~r~Dardan~s~抛弃了车，他正在楼梯上徒步逃跑。
@@ -33,7 +33,7 @@
 0x90688450=~s~等待~b~Roman。
 
 ;0x96DF6974=~s~To disarm your opponent, tap ~INPUT_MELEE_BLOCK~ to dodge then press ~INPUT_MELEE_ATTACK2~ or ~INPUT_MELEE_ATTACK1~ to disarm.
-0x96DF6974=~s~若要解除对手的武装，先按~INPUT_MELEE_BLOCK~闪避，再按~INPUT_MELEE_ATTACK2~或~INPUT_MELEE_ATTACK1~缴械。
+0x96DF6974=~s~若要解除对手的武装，按~INPUT_MELEE_BLOCK~闪避，再按~INPUT_MELEE_ATTACK2~或~INPUT_MELEE_ATTACK1~夺械。
 
 ;0x995F175D=~s~Go and help ~b~Roman.
 0x995F175D=~s~解救~b~Roman。

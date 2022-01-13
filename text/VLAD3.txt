@@ -1,6 +1,6 @@
 ﻿[VLAD3]
 ;0x02D7008C=Trains can be used to travel large distances in a short time around the city.
-0x02D7008C=各种列车可以让你在短时间内在城中进行长距离移动。
+0x02D7008C=各种列车可以让你在短时间内在城中进行远距离穿梭。
 
 ;0x14A2A423=While in the train press ~INPUT_NEXT_CAMERA~ to cycle through different camera modes.
 0x14A2A423=乘坐列车时按~INPUT_NEXT_CAMERA~可切换视角。
