@@ -168,7 +168,7 @@
 0x2BBA4BD5=~z~可以，好好，完美，对对对。
 
 ;0x2D1DB00F=~z~The kids have to look up to me, man. To know that the clean path is the good path. You hear me?
-0x2D1DB00F=~z~孩子们以我为榜样，伙计。能学到干净的路才是正道。听见了吗。
+0x2D1DB00F=~z~孩子们以我为榜样，伙计。能学到干净的路才是正道。听见了吗？
 
 ;0x2D60B0A1=~z~It's for the kids, man. Believe that.
 0x2D60B0A1=~z~都是为了孩子，伙计。真的。
@@ -505,7 +505,7 @@
 0x8AD68EAD=M1_A_DD
 
 ;0x8B36EA98=~z~Philanthropicalism, man, like one of them rich guys who makes computers and cures AIDS and shit.
-0x8B36EA98=~z~心怀大善，伙计，就像那些造电脑啊、治艾滋啊的有钱人。
+0x8B36EA98=~z~心怀大善，伙计。就像那些造电脑啊、治艾滋啊的有钱人。
 
 ;0x8BB64D20=~z~Get some wheels so we can chase this sucker.
 0x8BB64D20=~z~找辆车子过来，我们好追上这狗逼。
@@ -592,7 +592,7 @@
 0x9DD5095E=~z~你开枪是干什么啊？
 
 ;0x9F64D706=~z~They be sucking the damn life out of these streets.
-0x9F64D706=~z~他们一直在在街上吸食别人的血汗。
+0x9F64D706=~z~他们一直在街上吸食别人的血汗。
 
 ;0x9FE85C62=M1_GF
 0x9FE85C62=M1_GF
@@ -601,7 +601,7 @@
 0xA065DCDD=~z~嘿，重要的是意思能传达到，伙计。是谁动的手不重要。
 
 ;0xA0C1D3AB=~z~You ever thought about doing some TV? You might be able to get a series off the back of mine, you know?
-0xA0C1D3AB=~z~你想过录电视节目吗？有我支持说不定能给你拍个专题出来，你知道吗？
+0xA0C1D3AB=~z~你想过录电视节目吗？~n~有我支持说不定能给你拍个专题出来，懂吧？
 
 ;0xA1294532=M1_A_DI
 0xA1294532=M1_A_DI
@@ -619,7 +619,7 @@
 0xA66120C7=M1_HM
 
 ;0xA8E3CBE6=~z~Well, that's my testimony, man.
-0xA8E3CBE6=~z~好吧，我保证，伙计。
+0xA8E3CBE6=~z~镜头是见证者，伙计。
 
 ;0xA9E0C840=~z~Do I look gay?
 0xA9E0C840=~z~看着像基佬吗？
@@ -685,7 +685,7 @@
 0xB6ADE77A=~z~行，你们只管赶，别朝我拍就行。
 
 ;0xB7C0C37F=~z~I like your vibe, man. I like it. You're out to make money but you want to make a difference too, man.
-0xB7C0C37F=~z~我喜欢你的风格，伙计。我喜欢。你外出为了谋生的同时也想要有所作为，伙计。
+0xB7C0C37F=~z~我喜欢你的风格，伙计。我喜欢。赚钱谋生的同时，也想要有所作为，伙计。
 
 ;0xB8A4C6AE=M1_HN
 0xB8A4C6AE=M1_HN
@@ -724,7 +724,7 @@
 0xBD169DFF=M1_GL
 
 ;0xBF4252BA=~z~Yeah, I'm an entrepreneur, man. You got to have some money if people is gonna respect you out there, man.
-0xBF4252BA=~z~对，我是个企业家，伙计。要有钱才能让别人尊重你，伙计。
+0xBF4252BA=~z~对，我是个企业家，伙计。有钱才能让别人尊重你，伙计。
 
 ;0xC00FB40F=~z~This boy think he can come up in our shit. Drop him.
 0xC00FB40F=~z~这个小子认为他能挺住我们的活力。放倒他。
@@ -778,7 +778,7 @@
 0xCE7C3E96=~z~离他远点，我们得找到那伙寄生虫。
 
 ;0xCF4A9F7D=~z~Cut.
-0xCF4A9F7D=~z~卡。
+0xCF4A9F7D=~z~－怎么？~n~－好吧。
 
 ;0xCF819921=~z~In which case you've got help.
 0xCF819921=~z~那我就出份力。
@@ -844,10 +844,10 @@
 0xDD702F42=~z~我形象如何，伙计？
 
 ;0xDD7C3BE0=~z~-What?~n~-Okay.
-0xDD7C3BE0=~z~－怎么？~n~－好吧。
+0xDD7C3BE0=~z~怎么？
 
 ;0xDDC9C1AA=~z~Apparently the mob teaches people to stay two car lengths behind a target.
-0xDDC9C1AA=~z~显然，电影《黑帮》告诉我们要跟目标保持两辆车的距离。
+0xDDC9C1AA=~z~黑帮都会和要跟踪的目标保持两辆车的距离。
 
 ;0xDE5DDEE8=~z~You got too close, man. He saw us.
 0xDE5DDEE8=~z~你跟得太近了，伙计。被他看见了。
@@ -889,7 +889,7 @@
 0xEA3382EE=M1_A_EJ
 
 ;0xEAAF5646=~z~-What?~n~-Oh, oh, oh, oh.
-0xEAAF5646=~z~－怎么？~n~－哦，哦，哦，哦。
+0xEAAF5646=~z~哦，哦，哦，哦。
 
 ;0xEB82CA33=~z~Not really.
 0xEB82CA33=~z~不太懂。
@@ -940,7 +940,7 @@
 0xF826479C=M1_HL
 
 ;0xF8B7F25F=~z~-The fearsome street warrior stands outside the site of another gangland massacre. Oh...~n~-Yeah... 'sright...
-0xF8B7F25F=~z~－罪犯畏惧的街道战士正站在另一起黑社会大屠杀的现场外。哦...~n~－对...是这样...
+0xF8B7F25F=~z~－罪犯畏惧的街道战士正站在另一起黑社会大屠杀的现场外。哦...卡。~n~－对...是这样...
 
 ;0xF8E9F2BB=~z~Could you walk out of there just one more time? We need to get the shot just right.
 0xF8E9F2BB=~z~你能不能再从里面出来一次？我们拍到这个镜头的时机得合适。

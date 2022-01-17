@@ -69,7 +69,7 @@
 0x1D8BCB94=~z~确实，呃...我喜欢房间干净点。
 
 ;0x1F9896D7=~z~You're good, Niko. That was fun. Will you take me back home now?
-0x1F9896D7=~z~打得真好，Niko。我玩得很开心。你现在能送我回家吗？
+0x1F9896D7=~z~打得真好，Niko。我玩得很开心。你能送我回家吗？
 
 ;0x1FABF5B5=MI1_IA
 0x1FABF5B5=MI1_IA
@@ -123,7 +123,7 @@
 0x3022DAE4=010
 
 ;0x3215F5C0=~z~I don't know - I'm new here.
-0x3215F5C0=~z~我不知道，我才刚到这儿。
+0x3215F5C0=~z~不知道，我才刚到这儿。
 
 ;0x3566669C=~z~Maybe there is more to this place, I'm not sure yet.
 0x3566669C=~z~可能还有别的原因，我自己也不太确定。
@@ -138,7 +138,7 @@
 0x3913839B=~z~走吧。我喜欢游乐场！
 
 ;0x391C88FB=~z~You know, the carnival isn't open this time of year. I don't know if it would pass safety regulations anyway.
-0x391C88FB=~z~瞧瞧，嘉年华每年这会儿都不开门。不知道它能不能通过安全审查。
+0x391C88FB=~z~嘉年华每年这会儿都不开门。不知道能不能通过安全审查。
 
 ;0x39589288=~z~I like to keep active I guess. Sports, working out, things like that.
 0x39589288=~z~我大概比较好动。运动啊，锻炼啊，诸如此类。
@@ -240,7 +240,7 @@
 0x5317E8AB=~z~我马上就好。
 
 ;0x534E2E18=~z~Yeah. That would be good. I'll give you a call.
-0x534E2E18=~z~好啊。那挺好的。我会给你打电话的。
+0x534E2E18=~z~好啊。那挺好的。我会再联系你的。
 
 ;0x537D5723=MI1_ND
 0x537D5723=MI1_ND
@@ -273,7 +273,7 @@
 0x5EEE5DB3=~z~行，改天再说吧。
 
 ;0x5F1E936C=~z~There's a bowling alley over on the boardwalk. Why don't we play a few frames?
-0x5F1E936C=~z~那边的木板路上有家保龄球馆。要不我们去打几球？
+0x5F1E936C=~z~那边的木板道上有家保龄球馆。要不我们去打几球？
 
 ;0x5F27585A=MI1_BD
 0x5F27585A=MI1_BD
@@ -297,7 +297,7 @@
 0x665181BB=MI1_NB
 
 ;0x68F6CDBC=~z~I think you do. There must be something that made you leave your home and come here.
-0x68F6CDBC=~z~你应该知道吧。你总不会无缘无故就离开老家来这里吧。
+0x68F6CDBC=~z~你应该知道吧。总不会无缘无故就离开老家来这里吧。
 
 ;0x69E041A6=~z~No, I guess I'm married to my job.
 0x69E041A6=~z~没有，估计我这辈子就和工作一起过了。
@@ -555,7 +555,7 @@
 0xF24675FE=~z~其实我们这儿管它叫，呃，「嘉年华」。
 
 ;0xF25356F4=~z~I thought you were doing me a favor by going out with me. You're the local.
-0xF25356F4=~z~我还以为你和我一起出来是在迁就我，毕竟你是本地人。
+0xF25356F4=~z~我还以为你陪我出来是在迁就我，毕竟你是本地人。
 
 ;0xF3562339=MI1_AC
 0xF3562339=MI1_AC

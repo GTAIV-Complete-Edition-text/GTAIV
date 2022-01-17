@@ -30,7 +30,7 @@
 0x05FD5132=010
 
 ;0x061CA26D=~z~Alright, so you want me to deal with it, right now?
-0x061CA26D=~z~行吧，那你就是想让我现在出手了是吧？
+0x061CA26D=~z~行吧，现在你想让我出手了是吧？
 
 ;0x0685D3AC=~z~Oh, there he is.
 0x0685D3AC=~z~噢，他来了。
@@ -78,7 +78,7 @@
 0x1676B663=~z~活得总比你久，猪头。
 
 ;0x16B21910=~z~-What do you expect? I give him a massage?~n~-Shit! Shit! Shit!
-0x16B21910=~z~－你还指望怎么样？我给他来顿按摩？~n~－操！操！操！
+0x16B21910=~z~－你还指望怎么样？给他来顿按摩？~n~－操！操！操！
 
 ;0x18D41E15=~z~...you know, when Vlad is done with her...
 0x18D41E15=~z~...你也知道，等Vlad和她结束了...
@@ -87,7 +87,7 @@
 0x19E29879=R7_BA
 
 ;0x1AD2C0A5=~z~You are a dead man.
-0x1AD2C0A5=~z~你已经是个死人了。
+0x1AD2C0A5=~z~你已经死了。
 
 ;0x1BD7FE50=~z~Do you think I give a fuck, peasant?
 0x1BD7FE50=~z~你以为我他妈会在乎吗，乡下人？
@@ -117,7 +117,7 @@
 0x24426794=R7_JA
 
 ;0x24885286=~z~Fuck you, I wish I could be there to watch Mikhail cut your peasant balls off.
-0x24885286=~z~操你妈的，真希望我能亲眼看见Mikhail把你这乡下人的蛋给切下来。
+0x24885286=~z~操你妈的，真希望能亲眼看见Mikhail把你这乡下人给阉了。
 
 ;0x267EB96A=~z~Forget about Mallorie. Plans change and...
 0x267EB96A=~z~忘了Mallorie吧。计划有变... 
@@ -300,7 +300,7 @@
 0x6C492077=~z~你觉得做了什么？
 
 ;0x6D08C5BC=~z~I am calm. He tried to kill us. He screwed your girlfriend.
-0x6D08C5BC=~z~我很冷静。他想杀我们。他还搞了你的女朋友。
+0x6D08C5BC=~z~我很冷静。他想杀我们，还搞了你的女朋友。
 
 ;0x6D56471C=~z~He'll come back. The only thing that will hold him down is six feet of dirt.
 0x6D56471C=~z~他会回来的。唯一能阻止他的就是他的棺材板。
@@ -327,7 +327,7 @@
 0x7687B3B2=~z~－我说，Vlad，我们就不能谈谈吗？~n~－打住。
 
 ;0x77688503=~z~That was before I knew you cared!
-0x77688503=~z~因为之前我以为你不在乎！
+0x77688503=~z~我以为你不在乎啊！
 
 ;0x77AA9193=R7_LA
 0x77AA9193=R7_LA
@@ -351,7 +351,7 @@
 0x7DEAC410=~z~我不知道...
 
 ;0x7E08A477=~z~You have been pushed around too much, Roman.
-0x7E08A477=~z~你被人使唤得 够多了，Roman。
+0x7E08A477=~z~你被人使唤得够多了，Roman。
 
 ;0x802389BB=~z~I guess I'll find out.
 0x802389BB=~z~以后我会知道的。
@@ -405,7 +405,7 @@
 0x959621EB=100
 
 ;0x95B8C487=~z~You fucking knew?
-0x95B8C487=~z~你他妈早就知道了？
+0x95B8C487=~z~你早就知道了？
 
 ;0x9867D091=~z~Oh. What about her?
 0x9867D091=~z~噢。她怎么了？
@@ -417,7 +417,7 @@
 0x9B16A292=~z~给我来一杯。
 
 ;0x9B7041DE=~z~You've killed yourself and your cousin, yokel.
-0x9B7041DE=~z~你已经把你和你堂哥逼上了死路，乡巴佬。
+0x9B7041DE=~z~你把你和你堂哥逼上了死路，乡巴佬。
 
 ;0x9C6FD16D=R7_MA
 0x9C6FD16D=R7_MA
@@ -468,7 +468,7 @@
 0xAA70B6D9=R7_HB
 
 ;0xAAD5756C=~z~I like her... I really like her...
-0xAAD5756C=~z~我喜欢她...我真的很喜欢她...
+0xAAD5756C=~z~我喜欢她...真的很喜欢她...
 
 ;0xAE20EEF7=~z~Stop, Niko... shit!
 0xAE20EEF7=~z~别啊，Niko...靠！
@@ -552,7 +552,7 @@
 0xC2C77140=~z~但我们失败了。
 
 ;0xC2CD9850=~z~Keep your head down, I'm going to finish this.
-0xC2CD9850=~z~你别抬头，我去做个了结。
+0xC2CD9850=~z~老实呆着，我去做个了结。
 
 ;0xC3D1B453=~z~Wait Niko, you have to think this through.
 0xC3D1B453=~z~等等，Niko，你要想清楚了。
@@ -576,7 +576,7 @@
 0xCA63FE87=R7_OB
 
 ;0xCA759FE8=~z~You are nothing in this city. You will be crushed.
-0xCA759FE8=~z~你在这座城市里什么都不是。你会被碾碎的。
+0xCA759FE8=~z~你在城里什么都不是。你会被碾碎的。
 
 ;0xCB783F49=~z~She's too good for me. Vlad should have her.
 0xCB783F49=~z~不配的是我，Vlad才配得上他。
@@ -708,7 +708,7 @@
 0xF001A7A2=~z~他的朋友很厉害...大人物...
 
 ;0xF0ADEACE=~z~Fucking yokel, you think you can get away with killing me?
-0xF0ADEACE=~z~操你妈的乡巴佬，你以为杀了我你就能好过了吗？
+0xF0ADEACE=~z~傻逼乡巴佬，你以为杀了我你就能好过了吗？
 
 ;0xF0D3FE62=~z~He's going to stay away from Mallorie for sure.
 0xF0D3FE62=~z~他肯定会离Mallorie远远的了。

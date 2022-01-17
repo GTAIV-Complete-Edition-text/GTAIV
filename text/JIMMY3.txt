@@ -15,10 +15,10 @@
 0x5ED35FF4=不要持械进入医院，医院里可能有警察。
 
 ;0x6C243296=Press ~a~ to change into doctor's scrubs.
-0x6C243296=按~a~换上医生工作服。
+0x6C243296=按~PAD_LB~换上医生工作服。
 
 ;0x8802C5D9=Press ~a~ to speak to the nurse.
-0x8802C5D9=按~a~与护士交谈。
+0x8802C5D9=按~PAD_LB~与护士交谈。
 
 ;0x9EAD83DF=~s~Move quickly, the cops are onto you.
 0x9EAD83DF=~s~快点行动，警察注意到你了。
@@ -27,7 +27,7 @@
 0xB3E1AE47=~s~医院职工通报警方了。
 
 ;0xB4C42550=Press ~a~ to unplug the life support machine.
-0xB4C42550=按~a~切断维生装置的电源。
+0xB4C42550=按~PAD_LB~切断维生装置的电源。
 
 ;0xC21E4AC0=~s~Get out quickly and discreetly.
 0xC21E4AC0=~s~迅速谨慎地离开医院。

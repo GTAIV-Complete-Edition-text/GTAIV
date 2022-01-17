@@ -402,7 +402,7 @@
 0xAD738582=无
 
 ;0x1A61848B=ALTERNATE PUNCH
-0x1A61848B=拳击
+0x1A61848B=出拳
 
 ;0x541177EA=FLOOR PUNCH
 0x541177EA=击地攻击
@@ -414,7 +414,7 @@
 0x24CA9955=反击
 
 ;0x16E9FD90=DISARM
-0x16E9FD90=缴械
+0x16E9FD90=夺械
 
 ;0x681F0D06=PUNCH
 0x681F0D06=出拳
@@ -1683,7 +1683,7 @@
 0xD388A4CA=删除
 
 ;0x3D56C362=Select save file to load:
-0x3D56C362=所选存档载入失败：
+0x3D56C362=选择要载入的存档：
 
 ;0x67D41860=Select save slot:
 0x67D41860=所选存档：
@@ -6280,7 +6280,7 @@
 0x8B555372=反击
 
 ;0xB91DAF36=DISARM
-0xB91DAF36=缴械
+0xB91DAF36=夺械
 
 ;0x14F926FC=Handbrake Cam
 0x14F926FC=手刹镜头
@@ -7240,7 +7240,7 @@
 0x3D67600F=反击
 
 ;0x2FD8C4F2=DISARM
-0x2FD8C4F2=缴械
+0x2FD8C4F2=夺械
 
 ;0x178A7406=The downloadable content required for this autoload is not available. Press ~INPUT_FRONTEND_ACCEPT~ to start a new game of Grand Theft Auto IV.
 0x178A7406=载入此自动存档所需的 DLC 不可用。~n~按~INPUT_FRONTEND_ACCEPT~以开始 Grand Theft Auto IV 的新游戏。
@@ -7402,7 +7402,7 @@
 0xFF4EBB2D=反击
 
 ;0xABA813D1=DISARM
-0xABA813D1=缴械
+0xABA813D1=夺械
 
 ;0x89D13830=FIRE WEAPON
 0x89D13830=武器开火
@@ -7447,7 +7447,7 @@
 0x92F09FCD=反击
 
 ;0x01D7FD9A=DISARM
-0x01D7FD9A=缴械
+0x01D7FD9A=夺械
 
 ;0x79FE0526=SWITCH OFF RADIO (HOLD)
 0x79FE0526=关闭收音机(按住)
@@ -13252,7 +13252,7 @@
 0x3C4C6A9F=手机必须未在使用。
 
 ;0x83EE0DAA=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance. You will sober up soon.
-0x83EE0DAA=你醉了。你会视线模糊，行走与驾驶都十分困难。尽量保持平衡。很快你就会清醒的。
+0x83EE0DAA=你喝醉了。视线一片模糊，行走和驾驶也变得十分困难。尽量保持平衡。很快就会恢复正常的。
 
 ;0xBC5721FD=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take your date ~y~home.~s~ You will sober up soon.
 0xBC5721FD=你醉了。你会视线模糊，行走与驾驶都十分困难。尽量保持平衡，送你的约会对象~y~回家。~s~很快你就会清醒的。
@@ -14296,7 +14296,7 @@
 0x96551375=~PAD_X~ 删除
 
 ;0x22ACFF76=Backup request denied: backup is already at the scene.
-0x22ACFF76=拒绝支援：支援已经派出。
+0x22ACFF76=已有支援派出，拒绝增援。
 
 ;0xDCFFE776=~s~You can buy clothes from various clothes shops throughout Liberty City.
 0xDCFFE776=~s~你可以在自由城中的各家服装店购买服装。
@@ -16929,7 +16929,7 @@
 0x0A5DA58F=这种车况下，这辆车值$~1~
 
 ;0x18224118=The vehicle is trashed. Try again.
-0x18224118=车子太烂了，换一辆。
+0x18224118=车子烂了，换一辆。
 
 ;0xB8A31D28=You can't sell that vehicle.
 0xB8A31D28=你不能出售那辆车。
@@ -18402,7 +18402,7 @@
 0x46317A07=叫车服务
 
 ;0xB643CD3D=Clear Wanted
-0xB643CD3D=降低通缉
+0xB643CD3D=清除通缉
 
 ;0xDAE62372=Cancel Plans
 0xDAE62372=取消计划
@@ -18429,7 +18429,7 @@
 0xD71F6756=与Kiki分手
 
 ;0xB03C1990=Clear Wanted
-0xB03C1990=降低通缉
+0xB03C1990=清除通缉
 
 ;0x4EA90A66=Dump Carmen
 0x4EA90A66=与Carmen分手
@@ -18603,7 +18603,7 @@
 0xBE1CCB94=秘籍「天气」已启用
 
 ;0x5A3203C4=enabled cheat - "ANNIHILATOR"
-0x5A3203C4=秘籍「ANNIHILATOR」已启用
+0x5A3203C4=秘籍「歼灭者」已启用
 
 ;0x6C0DA77B=enabled cheat - "JETMAX"
 0x6C0DA77B=秘籍「JETMAX」已启用
@@ -23634,70 +23634,70 @@
 0x0F90A512=Little Jacob
 
 ;0x8D3D72A4=Niko, man, call me for some work and ting. Easy - LJ
-0x8D3D72A4=Niko，兄弟，要接活，打给我。就这 - LJ
+0x8D3D72A4=Niko，兄弟，要接活，打给我。就这样 - LJ
 
 ;0x32AC3D83=You ignored my calls, breda. I and I needed to be taken home from hospital. Badman came pick me up instead. - Jacob
 0x32AC3D83=你无视了我的电话，兄弟。当时我需要有人来医院接我回家。最后是 Badman 过来接的我。 - Jacob
 
 ;0x69D5ABD5=Cha! I still vexed about that dogheart Dimitri. You got them rude driving skills to get I and I away from there! Keep ya head down and keep in touch. Easy - LJ
-0x69D5ABD5=操！我还是很生那个狼心狗肺的Dimitri的气。能把咱俩从那儿弄出来，你的车技真是够牛！低调行事，保持联络。就这 - LJ
+0x69D5ABD5=操！我还是很生那个狼心狗肺的Dimitri的气。能把咱俩从那儿弄出来，你的车技真是够牛！低调行事，保持联络。就这样 - LJ
 
 ;0x7A144C52=Irie star! You got crazy flying skills. I and I should fly over to Jamrock one day, sight? Easy - LJ
-0x7A144C52=赞诶老兄！你丫的飞行技术牛逼啊。要么改天咱俩飞趟牙买加吧？就这 - LJ
+0x7A144C52=赞诶老兄！你丫的飞行技术牛逼啊。要么改天咱俩飞趟牙买加吧？就这样 - LJ
 
 ;0x9D7FFE40=Niko, man. You left I. I hope there ain't nothing wrong and ting. Easy - LJ
-0x9D7FFE40=Niko，兄弟。你丢下了我。希望你没遇上什么坏事。就这 - LJ
+0x9D7FFE40=Niko，兄弟。你丢下了我。希望你没遇上什么坏事。就这样 - LJ
 
 ;0x8BBE5ABD=What goin' on, Niko? I cotching with Real Badman. He a hortical Don. Come see I. Easy - LJ
-0x8BBE5ABD=近况如何，Niko？我现在和Real Badman在一起。他是实打实的大佬。来找我。就这 - LJ
+0x8BBE5ABD=近况如何，Niko？我现在和Real Badman在一起。他是实打实的大佬。来找我。就这样 - LJ
 
 ;0xBB2D39AA=Rhaatid, Niko. Be strong, sight? I going to find this bumbaclot! You need fe get some hardcore weapons and ting while you waiting for me call. I ain't got my car or I'd bring them to you. Easy - LJ
-0xBB2D39AA=妈的，Niko。坚强点，好吗？我会找到这个混账的！你先去整点重武器啥的，我到时候给你打电话。要不是我没车，我就直接把他们送到你面前了。就这 - LJ
+0xBB2D39AA=妈的，Niko。坚强点，好吗？我会找到这个混账的！你先去整点重武器啥的，我到时候给你打电话。要不是我没车，我就直接把他们送到你面前了。就这样 - LJ
 
 ;0xA0F20534=Niko, give I a call if you need some cash. I and Badman usually got some jobs. Easy - LJ
-0xA0F20534=Niko，你要是需要钱就打给我。我和 Badman 这儿一般都有活可干。就这 - LJ
+0xA0F20534=Niko，你要是需要钱就打给我。我和 Badman 这儿一般都有活可干。就这样 - LJ
 
 ;0xD03FE3CF=I got an escape plan for you, star. Keep your eyes on the sky, sight?
 0xD03FE3CF=我准备好撤退方案了，老兄。注意着点天上，好吗？
 
 ;0xC569CE23=Niko star - you done real good for I and I, but there be too much Babylon boderation inna de place. Me and Badman ain't delivering no more packages, sight. Hope you liked dat Huntley in dem mean colors. Easy - LJ
-0xC569CE23=Niko 兄弟，我们的活你完成得很好，但现在盯着那边的条子太多了。我和Badman不会再去送货了。希望你喜欢那辆成色不太好的Huntley。就这 - LJ
+0xC569CE23=Niko 兄弟，我们的活你完成得很好，但现在盯着那边的条子太多了。我和Badman不会再去送货了。希望你喜欢那辆成色不太好的Huntley。就这样 - LJ
 
 ;0xF2CAA8E4=Niko. Whappening, man? Hit I up if ya need any weaponry. I got a car rammed with the shit. I drive it round to ya. Easy - LJ
-0xF2CAA8E4=Niko，怎么了，兄弟？缺装备了给我打个电话，我车里有的是这种东西。直接给你开过来。就这 - LJ
+0xF2CAA8E4=Niko，怎么了，兄弟？缺装备了给我打个电话，我车里有的是这种东西。直接给你开过来。就这样 - LJ
 
 ;0x19FBF746=I and I is sick of selling these weapons to blood clots. Hit I up if you need I to bring you some. Easy - LJ
-0x19FBF746=我不想再把武器卖给那些逼玩意儿了。你有序要就给我打个电话。就这 - LJ
+0x19FBF746=我不想再把武器卖给那些逼玩意儿了。你有序要就给我打个电话。就这样 - LJ
 
 ;0xA2550826=Irie star? You need I bring you some weapons in me car. Hit I up. Easy - LJ.
-0xA2550826=好吗，兄弟？要我开车送点武器过来，就来个电话。就这 - LJ
+0xA2550826=好吗，兄弟？要我开车送点武器过来，就来个电话。就这样 - LJ
 
 ;0xC8845484=Niko. You one bad mother fucker. I know you need guns. Call I if you want I bring you some teeth. Easy - LJ
-0xC8845484=Niko，你这大恶人。知道你需要枪。要我送你点家伙就来个电话。就这 - LJ
+0xC8845484=Niko，你这大恶人。知道你需要枪。要我送你点家伙就来个电话。就这样 - LJ
 
 ;0xBC725858=Where were you at, star? I and I was waiting. You get too red eye or something. Easy - LJ
-0xBC725858=你人呢，兄弟？我一直在等你。你肯定是太贪婪了。就这 - LJ
+0xBC725858=你人呢，兄弟？我一直在等你。你肯定是太贪婪了。就这样 - LJ
 
 ;0xA33425DC=Niko. Where you at? You stood I up. Easy - LJ.
-0xA33425DC=Niko，人呢？你居然放我鸽子。就这 - LJ
+0xA33425DC=Niko，人呢？你居然放我鸽子。就这样 - LJ
 
 ;0x90F68161=Cha! Why you no call If you ain't gonna come meet I.
 0x90F68161=擦！不来赴约也就算了，电话都不打一个。
 
 ;0x814EE21A=Niko star, some bumbaclots fucking with you? Why you no come meet I? Easy - LJ
-0x814EE21A=Niko兄弟，有混蛋在找你碴吗？你怎么没来接我？就这 - LJ
+0x814EE21A=Niko兄弟，有混蛋在找你碴吗？你怎么没来接我？就这样 - LJ
 
 ;0x05CFEB12=Niko star. Where you at? I and I should do something soon, sight? Easy - LJ
-0x05CFEB12=Niko兄弟，你在哪儿？我们应该找机会一起出去，懂？就这 - LJ
+0x05CFEB12=Niko兄弟，你在哪儿？我们应该找机会一起出去，懂？就这样 - LJ
 
 ;0xEB77B662=Niko. Mek we do something soon, sight? Easy - LJ.
-0xEB77B662=Niko。有空一起出去玩玩，懂？就这 - LJ
+0xEB77B662=Niko。有空一起出去玩玩，懂？就这样 - LJ
 
 ;0xD84E100F=Bredren, whappen? Leks hang and ting. Lickle more. Easy - LJ.
-0xD84E100F=兄弟，没事吧？一起出去玩啊。多走走。就这 - LJ
+0xD84E100F=兄弟，没事吧？一起出去玩啊。多走走。就这样 - LJ
 
 ;0xCE8CFC8D=Niko, me man. I and I got fe do something. Call I, sight? Easy - LJ.
-0xCE8CFC8D=Niko，我的兄弟。咱俩得出去转转。来个电话，懂？就这 - LJ
+0xCE8CFC8D=Niko，我的兄弟。咱俩得出去转转。来个电话，懂？就这样 - LJ
 
 ;0x22E8A54F=You didn't turn up. I and I had fe go home from the hospital alone. It a boderation, sight? - Jacob
 0x22E8A54F=你没来，出院后我只能自己回去。这很恼人，懂？ - Jacob
@@ -23712,25 +23712,25 @@
 0x534F8BD8=Niko，你不能来接我至少也跟我说一声。那我还能给Badman打个电话。 - Jacob
 
 ;0x823969AB=Alright star? I blacking up at home now. Jacob got his self back from the hospital. Easy - LJ
-0x823969AB=好吗，兄弟？我现在到家了。Jacob自己从医院回去了。就这 - LJ
+0x823969AB=好吗，兄弟？我现在到家了。Jacob自己从医院回去了。就这样 - LJ
 
 ;0x6E774227=Bredren, Badman pick I up from the hospital. Easy - LJ
-0x6E774227=兄弟，Badman来医院接我了。就这 - LJ
+0x6E774227=兄弟，Badman来医院接我了。就这样 - LJ
 
 ;0xEDAEC09C=I back from the hospital now, Niko. Call I soon. Easy - LJ
-0xEDAEC09C=我已经从医院回来了，Niko。有空来个电话。就这 - LJ
+0xEDAEC09C=我已经从医院回来了，Niko。有空来个电话。就这样 - LJ
 
 ;0xABE53D0A=You a crucial breadren even if you don't want fe pick me up from hospital. Easy - LJ
-0xABE53D0A=虽然你没来接我出院，你也还是我重要懂兄弟。就这 - LJ
+0xABE53D0A=虽然你没来接我出院，你也还是我重要懂兄弟。就这样 - LJ
 
 ;0x9B049B49=Niko star. You crucial and ting. Badman be real greatful for ya help but Babylon all over the place. I and I don't have no more packages for you. Big up. Easy - LJ
-0x9B049B49=Niko兄弟，你太能干了。Badman很感谢你的帮助，但那里被警察盯上了。我们没有包裹能给你送了。顶你。就这 - LJ
+0x9B049B49=Niko兄弟，你太能干了。Badman很感谢你的帮助，但那里被警察盯上了。我们没有包裹能给你送了。顶你。就这样 - LJ
 
 ;0xC77EF43D=Cha! You left I and I up inna de club Niko. I and I like dem girls and ting so it alright. Easy - LJ
-0xC77EF43D=擦！你把我一人扔在俱乐部里了，Niko。不过我挺喜欢那些妞的，算了。就这 - LJ
+0xC77EF43D=擦！你把我一人扔在俱乐部里了，Niko。不过我挺喜欢那些妞的，算了。就这样 - LJ
 
 ;0x468C7256=Niko Star, where you go? You ketchy chubby wit some dawta and ting? Nice one. Easy - LJ
-0x468C7256=Niko兄弟，你在哪儿？是不是在玩女人啊？很行嘛。就这 - LJ
+0x468C7256=Niko兄弟，你在哪儿？是不是在玩女人啊？很行嘛。就这样 - LJ
 
 ;0xE4DAAEF4=PLACEHOLDER
 0xE4DAAEF4=PLACEHOLDER
@@ -27003,7 +27003,7 @@
 0xAE9A9EA4=~z~~x~行吧，Roman跟我说因为你是他堂弟还是啥的，让我一定要来接你。
 
 ;0xBC5D3A29=~z~~x~I'm not getting paid to lug your ugly ass around and I'm not happy about it, okay, my friend? Get in!
-0xBC5D3A29=~z~~x~载着你这丑逼到处跑我可是一分钱都拿不到，大爷我很不爽，懂吗，我的朋友？上来吧。
+0xBC5D3A29=~z~~x~载着你这丑逼到处跑我可一分钱都拿不到，大爷我很不爽，懂吗，我的朋友？上来吧。
 
 ;0xBB14CE04=~z~~x~Roman is doing well, you see this new car, my friend?
 0xBB14CE04=~z~~x~Roman生意不错，瞧见这新车了吗，我的朋友？
@@ -27129,7 +27129,7 @@
 0xF636FFED=~z~~x~你好滚了，别来再烦我了！
 
 ;0xF73B01F5=~z~~x~This is the point where normal customers pay. Go away, head dick.
-0xF73B01F5=~z~~x~这个点正常乘客就该付钱了。滚吧，屌人。
+0xF73B01F5=~z~~x~这时候普通乘客就该付钱了。滚吧，屌人。
 
 ;0x087CA478=~z~~x~I hope you enjoyed your free ride, I certainly did not enjoy the driving of you.
 0x087CA478=~z~~x~希望你能享受你的白嫖叫车，我是一点都不想接送你。
@@ -29376,7 +29376,7 @@
 0x1224620C=~z~祝你平平安安，兄弟。日后再见。
 
 ;0x00123DE8=~z~Later on Niko. Easy.
-0x00123DE8=~z~回见，Niko。就这。
+0x00123DE8=~z~回见，Niko。就这样。
 
 ;0x8AAE78BF=Dummy label.
 0x8AAE78BF=Dummy label.

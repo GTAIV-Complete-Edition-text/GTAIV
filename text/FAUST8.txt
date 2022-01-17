@@ -60,7 +60,7 @@
 0xE6DC5915=~s~杀掉Bulgarin的~r~手下。
 
 ;0xEDABC17F=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to zoom-in while aiming.
-0xEDABC17F=~s~用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~在瞄准时放大画面。
+0xEDABC17F=~s~瞄准时用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~进行缩放。
 
 ;0xF028013C=~s~Little Jacob is taking damage.
 0xF028013C=~s~Little Jacob正受到攻击。
