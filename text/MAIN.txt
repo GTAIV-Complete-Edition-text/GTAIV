@@ -14296,7 +14296,7 @@
 0x96551375=~PAD_X~ 删除
 
 ;0x22ACFF76=Backup request denied: backup is already at the scene.
-0x22ACFF76=拒绝支援：支援已经派出。
+0x22ACFF76=已有支援派出，拒绝增援。
 
 ;0xDCFFE776=~s~You can buy clothes from various clothes shops throughout Liberty City.
 0xDCFFE776=~s~你可以在自由城中的各家服装店购买服装。
@@ -18603,7 +18603,7 @@
 0xBE1CCB94=秘籍「天气」已启用
 
 ;0x5A3203C4=enabled cheat - "ANNIHILATOR"
-0x5A3203C4=秘籍「ANNIHILATOR」已启用
+0x5A3203C4=秘籍「歼灭者」已启用
 
 ;0x6C0DA77B=enabled cheat - "JETMAX"
 0x6C0DA77B=秘籍「JETMAX」已启用
