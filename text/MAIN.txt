@@ -13255,7 +13255,7 @@
 0x83EE0DAA=你喝醉了。视线一片模糊，行走和驾驶也变得十分困难。尽量保持平衡。很快就会恢复正常的。
 
 ;0xBC5721FD=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take your date ~y~home.~s~ You will sober up soon.
-0xBC5721FD=你醉了。你会视线模糊，行走与驾驶都十分困难。尽量保持平衡，送你的约会对象~y~回家。~s~很快你就会清醒的。
+0xBC5721FD=你喝醉了。视线一片模糊，行走和驾驶也变得十分困难。尽量保持平衡，送你的约会对象~y~回家。~s~很快就会恢复正常的。
 
 ;0x9899E5EE=Press ~PAD_Y~ to save your game.
 0x9899E5EE=按~PAD_Y~保存游戏进度。
@@ -15276,7 +15276,7 @@
 0x57CCDD2F=~s~当然，你也可以打过去找她约会，或者取消之前安排的约会。
 
 ;0x2FEE728C=Go and find a girl on lovemeet.net
-0x2FEE728C=去lovemeet.net找一个女孩。
+0x2FEE728C=去觅爱网找个女友。
 
 ;0x756AC6F6=Michelle
 0x756AC6F6=Michelle
@@ -15396,7 +15396,7 @@
 0xFECEB66D=~s~你不能在和~a~有约的情况下使用其特殊能力，选择「呼叫」取消约会。
 
 ;0xD0AA8FC1=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take ~a~ home. You'll sober up soon.
-0xD0AA8FC1=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送~a~回家。很快你就会清醒的。
+0xD0AA8FC1=你喝醉了。视线一片模糊，行走和驾驶也变得十分困难。尽量保持平衡，送~a~回家。很快就会恢复正常的。
 
 ;0xBF0249E4=minutes: ~1~
 0xBF0249E4=分钟：~1~
@@ -17301,10 +17301,10 @@
 0x3C58380B=逃出闪烁区域以降低通缉度。
 
 ;0x1CC60188=Hold ~INPUT_VEH_HEADLIGHT~ to switch headlights between full beam and dimmed.
-0x1CC60188=长按~INPUT_VEH_HEADLIGHT~在最亮与较暗间切换大灯亮度。
+0x1CC60188=长按~INPUT_VEH_HEADLIGHT~切换远近光灯。
 
 ;0xD64B1518=Press ~INPUT_VEH_HEADLIGHT~ to switch headlights between full beam and dimmed.
-0xD64B1518=按~INPUT_VEH_HEADLIGHT~在最亮与较暗间切换大灯亮度。
+0xD64B1518=按~INPUT_VEH_HEADLIGHT~切换远近光灯。
 
 ;0x17813B56=You can now call Roman for work. Find Roman in the phonebook and select the Job option.
 0x17813B56=现在你可以打给Roman接活。在通讯录中找到Roman后选择「差事」。
@@ -17460,19 +17460,19 @@
 0xF2952CDC=你已完成了与Packie的预定安排。你已追加了三项活动。送他回家。
 
 ;0x7BCF48DF=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Roman home. You'll sober up soon.
-0x7BCF48DF=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送Roman回家。很快你就会清醒了。
+0x7BCF48DF=你喝醉了。视线一片模糊，行走和驾驶也变得十分困难。尽量保持平衡，送Roman回家。很快就会恢复正常的。
 
 ;0x7492BA6E=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Jacob home. You'll sober up soon.
-0x7492BA6E=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送Jacob回家。很快你就会清醒了。
+0x7492BA6E=你喝醉了。视线一片模糊，行走和驾驶也变得十分困难。尽量保持平衡，送Jacob回家。很快就会恢复正常的。
 
 ;0xC31ED78D=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Dwayne home. You'll sober up soon.
-0xC31ED78D=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送Dwayne回家。很快你就会清醒了。
+0xC31ED78D=你喝醉了。视线一片模糊，行走和驾驶也变得十分困难。尽量保持平衡，送Dwayne回家。很快就会恢复正常的。
 
 ;0xDFFA1143=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Brucie home. You'll sober up soon.
-0xDFFA1143=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送Brucie回家。很快你就会清醒了。
+0xDFFA1143=你喝醉了。视线一片模糊，行走和驾驶也变得十分困难。尽量保持平衡，送Brucie回家。很快就会恢复正常的。
 
 ;0xB04731D2=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Packie home. You'll sober up soon.
-0xB04731D2=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送Packie回家。很快你就会清醒了。
+0xB04731D2=你喝醉了。视线一片模糊，行走和驾驶也变得十分困难。尽量保持平衡，送Packie回家。很快就会恢复正常的。
 
 ;0x8575DBCD=You have arranged to do something with Roman. Pick him up by going towards the ~BLIP_27~ on the radar.
 0x8575DBCD=你已和Roman安排了活动。去小地图上的~BLIP_27~接他。
@@ -23118,7 +23118,7 @@
 0xFF6D7B3A=您可以查找您所在地区的单身人士。请在下方选择你喜欢的对象。
 
 ;0xD5532706=Mr Fackler, 'Love Meet' Founder.
-0xD5532706=Fackler先生，「Love Meet」创始人。
+0xD5532706=Fackler先生，觅爱网创始人。
 
 ;0x98A99FF2=LUCKYFIND SEARCH
 0x98A99FF2=LUCKYFIND搜索

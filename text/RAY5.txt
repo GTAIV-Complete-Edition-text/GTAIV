@@ -6,10 +6,10 @@
 0x3B004F05=~s~前往失落摩托帮成员~y~所在地。
 
 ;0x60E5D135=~s~Hold ~INPUT_VEH_HEADLIGHT~ to switch headlights between dipped and full beam.
-0x60E5D135=~s~长按~INPUT_VEH_HEADLIGHT~在最亮与较暗间切换大灯亮度。
+0x60E5D135=~s~长按~INPUT_VEH_HEADLIGHT~切换远近光灯。
 
 ;0x7B1A0DB3=~s~Use ~INPUT_VEH_HEADLIGHT~ to switch headlights between dipped and full beam.
-0x7B1A0DB3=~s~用~INPUT_VEH_HEADLIGHT~在最亮与较暗间切换大灯亮度。
+0x7B1A0DB3=~s~用~INPUT_VEH_HEADLIGHT~切换远近光灯。
 
 ;0xA2949E30=~s~Take the ~b~bike.
 0xA2949E30=~s~骑上~b~摩托。
@@ -21,7 +21,7 @@
 0xAB22477F=~r~飞车党~s~进入了地铁隧道。跟着他。
 
 ;0xF372EB74=~s~Hold ~PAD_LT~ to switch headlights between dipped and full beam.
-0xF372EB74=~s~长按~PAD_LT~在最亮与较暗间切换大灯亮度。
+0xF372EB74=~s~长按~PAD_LT~切换远近光灯。
 
 ;0xF60E1364=~r~The bikers got away.
 0xF60E1364=~r~飞车党逃走了。
