@@ -33,7 +33,7 @@
 0x45B21ABE=你的得分
 
 ;0x620A8E95=It takes four large blocks to completely fill the power bar.
-0x620A8E95=填满一次能量槽需要消除四个大方块。
+0x620A8E95=消除四个大方块即可填满能量槽。
 
 ;0x6B70C390=Once removed from the grid any blocks above those removed will fall down to fill the empty spaces.
 0x6B70C390=方块消除后，原先在其上方的方块就会下落填补空位。

@@ -16974,7 +16974,7 @@
 0xC40B83A4=洗车店全天开放。
 
 ;0xA00F60D1=~s~You cannot enter the comedy club with a wanted level.
-0xA00F60D1=~s~你无法在被通缉时进入喜剧俱乐部。
+0xA00F60D1=~s~被通缉时不能进入喜剧俱乐部。
 
 ;0xE78C4E7A=~s~Press ~ACCEPT~ to get another dance.~n~Press ~INPUT_PICKUP~ to exit.
 0xE78C4E7A=~s~按~ACCEPT~再跳一支舞。~n~按~INPUT_PICKUP~退出。
@@ -22980,13 +22980,13 @@
 0xF1398439=返回
 
 ;0x9AC78535=~s~To logout of the computer press ~INPUT_PICKUP~ or ~CANCEL~, or click on the "LOGOUT" icon on the desktop.
-0x9AC78535=~s~按下~INPUT_PICKUP~或~CANCEL~，或点击桌面上的「LOGOUT」图标以从本机注销。
+0x9AC78535=~s~按下~INPUT_PICKUP~或~CANCEL~，或点击桌面右下角的「LOGOUT」图标以从本机注销。
 
 ;0x3317050A=~s~To logout of the computer press ~INPUT_PICKUP~ or ~INPUT_FRONTEND_PAUSE~, or click on the "LOGOUT" icon on the desktop.
-0x3317050A=~s~按下~INPUT_PICKUP~或~INPUT_FRONTEND_PAUSE~，或点击桌面上的「LOGOUT」图标以从本机注销。
+0x3317050A=~s~按下~INPUT_PICKUP~或~INPUT_FRONTEND_PAUSE~，或点击桌面右下角的「LOGOUT」图标以从本机注销。
 
 ;0x93930840=~s~To logout of the computer press ~INPUT_PICKUP~ or ~INPUT_FRONTEND_PAUSE~, or click on the "LOGOUT" icon on the desktop.
-0x93930840=~s~按下~INPUT_PICKUP~或~INPUT_FRONTEND_PAUSE~，或点击桌面上的「LOGOUT」图标以从本机注销。
+0x93930840=~s~按下~INPUT_PICKUP~或~INPUT_FRONTEND_PAUSE~，或点击桌面右下角的「LOGOUT」图标以从本机注销。
 
 ;0xD73FDD71=Done
 0xD73FDD71=完成
@@ -24219,7 +24219,7 @@
 0x74D84F52=我跟我的哥哥们讲过你了。策划了票大的。西装革履打领带过来。是他妈有点贵，不过这些只在Algonquin的神之子服饰有卖。
 
 ;0x223A2A17=Niko, Gerry has been trying to get hold of you - its about your girl. Go see him in the can.
-0x223A2A17=Niko，Gerry一直在找你，是你女人的事。去号子里找他。
+0x223A2A17=Niko，Gerry一直在找你，是你女人的事。去号子找他。
 
 ;0x50598655=Gerry needs to see you about getting some presents for your girl. Drop by the pen.
 0x50598655=Gerry想找你聊给你的女人送点礼物的事。去趟监狱。

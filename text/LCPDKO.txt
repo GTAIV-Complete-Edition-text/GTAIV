@@ -1,9 +1,6 @@
-﻿;注：
-;1.0xB868149D(479行)的"Alderney, Liberty City"疑为R星谬误，因为Alderny和Liberty都是独立的州级行政区，按此设定，Alderney不应作为自由城下的子行政区划出现，故我将其处理为「Alderney」，并不是手滑少打了「自由城」。
-
-[LCPDKO]
+﻿[LCPDKO]
 ;0x00616596=Linked to Hsin Jaoming's Liberty City Triad Organization.
-0x00616596=与Hsin Jaoming的自由城三合会有联系。
+0x00616596=与Hsin Jaoming的自由城三合会有联系
 
 ;0x034C94BD=1950 - Accessory to Murder <br/>1961 - Harboring a Fugitive
 0x034C94BD=1950 - 协助谋杀 <br/>1961 - 窝藏逃犯
@@ -15,10 +12,10 @@
 0x05F5FF74=Meech
 
 ;0x0689D486=-Considered a rival for the leadership of Triad Organized Crime in Liberty City.<br/>-Suspected of masterminding several major counterfeiting operations in Liberty City and abroad.
-0x0689D486=被认为是自由城三合会头目的有力候选人。<br/>-涉嫌策划数起海内外的假币案件。
+0x0689D486=- 被认为是自由城三合会头目的有力候选人。<br/>- 涉嫌策划数起海内外的假币案件。
 
 ;0x0A5BF74B=Known Associate of Wu "Kenny" Lee's Liberty City Triad Gang.
-0x0A5BF74B=Wu "Kenny" Lee的自由城三合会的同伙。
+0x0A5BF74B=Wu "Kenny" Lee的自由城三合会的同伙
 
 ;0x0AAC3BD0=Dukes, Liberty City
 0x0AAC3BD0=自由城，Dukes
@@ -45,7 +42,7 @@
 0x1591E653=自由城，South Bohan
 
 ;0x15C98E26=Member of the Alderney Chapter of the Lost OMG
-0x15C98E26=失落非法机车俱乐部Alderney分会成员。
+0x15C98E26=失落非法机车俱乐部Alderney分会成员
 
 ;0x170212D7=N/A
 0x170212D7=无
@@ -81,16 +78,16 @@
 0x233AF868=Harvey
 
 ;0x235C353B=-Possible sex offender.<br/>-Arrested several times for exposing himself to men in parks and masturbating in public places.
-0x235C353B=-或为性侵犯者。<br/>-多次因在公园内向男性裸露自身与在公共场合手淫被捕。
+0x235C353B=- 或为性侵犯者。<br/>- 多次因在公园内向男性裸露自身与在公共场合手淫被捕。
 
 ;0x23CC3FCF=-Police informant.<br/>-Confidential testimony from him led to several high-profile convictions.<br/>-Originally arrested after several public protests and demonstrations turned bad in the early 70s.<br/>-Became involved in more violent protest and believed to have developed a heroin addiction while in prison.<br/>-Recent reports indicate that he was arrested in Ireland. May be returning to the US.
-0x23CC3FCF=-警方线人。<br/>-他提供的可靠证言使得数名高位大佬被定罪。<br/>-原先于70年代前期因几次失败的抗议示威游行被捕。<br/>-在狱中时被卷入更大规模的抗议，据信在狱中沾染海洛因瘾。<br/>-近期有报告指出其在爱尔兰被捕。或将回到美国。
+0x23CC3FCF=- 警方线人。<br/>- 他提供的可靠证言使得数名高位大佬被定罪。<br/>- 原先于70年代前期因几次失败的抗议示威游行被捕。<br/>- 在狱中时被卷入更大规模的抗议，据信在狱中沾染海洛因瘾。<br/>- 近期有报告指出其在爱尔兰被捕。或将回到美国。
 
 ;0x24242ADB=Member of the Angels of Death OMG
-0x24242ADB=死亡天使非法机车俱乐部成员。
+0x24242ADB=死亡天使非法机车俱乐部成员
 
 ;0x251C14FE=-Northwood resident of Dominican descent. <br/>-Works as bodyguard for Tony Prince, streetname - Gay Tony. <br/>-Also works as a doorman at Prince's nightclubs Maisonette 9 and Hercules in Lower Algonquin. <br/>-Linked to several Northwood drug dealers from an early age and known to be involved in the illegal street fighting scene.
-0x251C14FE=-多米尼加裔Northwood居民。<br/>-绰号基佬Tony的Tony Prince的保镖。<br/>-也作为9号豪宅及大力神两家位于Algonquin的Prince名下夜店的看门人工作。<br/>-早年与数名Northwood毒贩有联系，并涉嫌参与街头斗殴。
+0x251C14FE=- 多米尼加裔Northwood居民。<br/>- 绰号基佬Tony的Tony Prince的保镖。<br/>- 也作为9号豪宅及大力神两家位于Algonquin的Prince名下夜店的看门人工作。<br/>- 早年与数名Northwood毒贩有联系，并涉嫌参与街头斗殴。
 
 ;0x25648893=Joseph
 0x25648893=Joseph
@@ -102,10 +99,10 @@
 0x26C6D4C5=27
 
 ;0x272297C7=-Known Soccer Hooligan
-0x272297C7=-足球流氓
+0x272297C7=- 足球流氓
 
 ;0x2AF8A0B7=-Nephew of Vincent Lupisella.<br/>-Allegedly the boss of the Lupisella Crime Syndicate though many believe his uncle is still in charge.<br/>-Rumored that his street name, "Loopy", was gained because of his notoriously low IQ and propensity for violence. <br/>-Attempted to get a reality TV show about his life commissioned by the CNT network but plans were cancelled when he attacked an executive producer.
-0x2AF8A0B7=-Vincent Lupisella的侄子。<br/>-据传其为Lupisella犯罪家族头目，但很多人认为仍为其叔叔掌权。<br/>-据说其绰号"Loopy(暴躁)"源于其臭名昭著的低智商及对暴力的偏好。<br/>-尝试由CNT电视台拍摄一部关于其生活的电视真人秀，但计划因其攻击一名执行制片人流产。
+0x2AF8A0B7=- Vincent Lupisella的侄子。<br/>- 据传其为Lupisella犯罪家族头目，但很多人认为仍为其叔叔掌权。<br/>- 据说其绰号"Loopy(暴躁)"源于其臭名昭著的低智商及对暴力的偏好。<br/>- 尝试由CNT电视台拍摄一部关于其生活的电视真人秀，但计划因其攻击一名执行制片人流产。
 
 ;0x2BB45B32=O'Malley
 0x2BB45B32=O'Malley
@@ -114,13 +111,13 @@
 0x2DA9E977=1948 - 汽车抢劫 <br/>1950 - 过失杀人 <br/>1952 - 武装抢劫 <br/>1956 - 敲诈 <br/>1970 - 密谋 <br/>1989 - 涉黑 <br/>2001 - 涉黑 <br/>2005 - 妨碍司法
 
 ;0x2F5BA839=-Czech immigrant. <br/>-Suspected of running a prostitution ring from a Hove Beach sex shop.<br/>-Believed to be involved in making low budget pornographic movies from his basement. <br/>-Several young women have filed complaints about him, including prostitute Marnie Allen, claiming they were conned into appearing in pornographic movies.
-0x2F5BA839=-捷克移民。<br/>-涉嫌在Hove Beach的一家色情商店内经营性交易圈。<br/>-在自家地下室制作低成本色情片。<br/>-包括妓女Marnie Allen在内的数名年轻女性报案控诉其骗她们去拍色情电影的行为。
+0x2F5BA839=- 捷克移民。<br/>- 涉嫌在Hove Beach的一家色情商店内经营性交易圈。<br/>- 在自家地下室制作低成本色情片。<br/>- 包括妓女Marnie Allen在内的数名年轻女性报案控诉其骗她们去拍色情电影的行为。
 
 ;0x303CD2E1=McReary
 0x303CD2E1=McReary
 
 ;0x31A5D1CE=-Reported to be right hand to Giovanni Ancelotti.<br/>-Believed to represent the Ancelotti crime syndicate on the Algonquin commission when the head of the family is unable to attend.<br/>-Gained his street name, Chubby Charlie, because of the large commission he takes on his loans.<br/>-Skipped bail after being arrested on racketeering charges.<br/>-Gone into hiding - rumored to be in the Alderney area.
-0x31A5D1CE=-报告指出其为Giovanni Ancelotti的左膀右臂。<br/>-据信其在家族头目无法出席Algonquin委员会时代表Ancelotti犯罪家族出席。<br/>-绰号肥佬Charlie得名于其在放贷时收取的巨额手续费。<br/>-因受涉黑指控被捕后保释，于保释期间逃跑。<br/>-销声匿迹，据说其藏身于Alderney地区。
+0x31A5D1CE=- 报告指出其为Giovanni Ancelotti的左膀右臂。<br/>- 据信其在家族头目无法出席Algonquin委员会时代表Ancelotti犯罪家族出席。<br/>- 绰号肥佬Charlie得名于其在放贷时收取的巨额手续费。<br/>- 因受涉黑指控被捕后保释，于保释期间逃跑。<br/>- 销声匿迹，据说其藏身于Alderney地区。
 
 ;0x32DB17AC=Carmen
 0x32DB17AC=Carmen
@@ -129,7 +126,7 @@
 0x34C5ED59=McReary
 
 ;0x3604643F=-Dukes based criminal of Irish ancestry.<br/>-Worked with Algonquin based crime syndicates but now affiliated with Jimmy Pegorino's Alderney mob.<br/>-More hands-off approach recently, leaving hijackings and armed robberies to his younger brother, Patrick McReary - street name Packie.<br/>-Often seen with Pegorino Capo, Ray Boccino.
-0x3604643F=-以Dukes为据点的爱尔兰裔犯罪者。<br/>-曾为以Algonquin为据点的犯罪家族工作，但目前从属于Jimmy Pegorino的Alderney地方帮派。<br/>-最近干预较少，将武装抢劫等行动交由绰号Packie的其弟Patrick McReary负责。<br/>-常与Pegorino家族干部，Ray Boccino一起被目击。
+0x3604643F=- 以Dukes为据点的爱尔兰裔犯罪者。<br/>- 曾为以Algonquin为据点的犯罪家族工作，但目前从属于Jimmy Pegorino的Alderney地方帮派。<br/>- 最近干预较少，将武装抢劫等行动交由绰号Packie的其弟Patrick McReary负责。<br/>- 常与Pegorino家族组长，Ray Boccino一起被目击。
 
 ;0x360C42FF=2005 - Possession Stolen Property<br/>2007 - Extortion
 0x360C42FF=2005 - 持有赃物 <br/>2007 - 敲诈
@@ -156,7 +153,7 @@
 0x42A4BE38=Alderney，Acter
 
 ;0x456D6D6D=Linked to Weight Lifting and Illegal Street Racing subcultures.
-0x456D6D6D=与举重及非法街头赛车的亚文化圈有关。
+0x456D6D6D=与举重及非法街头赛车的亚文化圈有关
 
 ;0x478CE600=1997 - Grand Larceny<br/>1999 - Hijacking<br/>2003 - Possession Controlled Substance: Methamphetamine
 0x478CE600=1997 - 大额盗窃 <br/>1999 - 汽车抢劫 <br/>2003 - 持有管制物质：冰毒
@@ -186,13 +183,13 @@
 0x513B3091=1999 - 入室盗窃：具有犯罪意图的非法侵入 <br/>2003 - 持有管制物质：可卡因 <br/>2004 - 入室盗窃：具有犯罪意图的非法侵入
 
 ;0x52A2F00B=-Private Investigator. <br/>-Works with Hsin Jaoming's Triad Organized Crime Network and the Angels of Death OMG. <br/>-Known to frequent Burger Shot restaurants.
-0x52A2F00B=-私家侦探。<br/>-为Hsin Jaoming的三合会犯罪网络与死亡天使非法机车俱乐部工作。<br/>-吃得饱汉堡的常客。
+0x52A2F00B=- 私家侦探。<br/>- 为Hsin Jaoming的三合会犯罪网络与死亡天使非法机车俱乐部工作。<br/>- 吃得饱汉堡的常客。
 
 ;0x57C36D50=Larry
 0x57C36D50=Larry
 
 ;0x58EC794A=-Currently in Rehabilitation for the use of crack cocaine.<br/>-Graduate of Vespucci University.<br/>-Registered with the Liberty City Association of Securities Dealers.
-0x58EC794A=-正在接受针对霹雳可卡因的戒毒治疗。<br/>-Vespucci大学毕业生。<br/>-自由城证券交易商协会会员。
+0x58EC794A=- 正在接受针对霹雳可卡因的戒毒治疗。<br/>- Vespucci大学毕业生。<br/>- 自由城证券交易商协会会员。
 
 ;0x58FBC15A=1987 - Resisting arrest<br/>1989 - Assault<br/>1992 - Assault<br/>1993 - Possession Controlled Substance: Methamphetamine<br/>2005 - Possession Controlled Substance: Methamphetamine
 0x58FBC15A=1987 - 拒捕 <br/>1989 - 故意伤害 <br/>1992 - 故意伤害 <br/>1993 - 持有管制物质：冰毒 <br/>2005 - 持有管制物质：冰毒
@@ -201,7 +198,7 @@
 0x5AEDC316=1989 - 假冒商标 <br/>1995 - 假冒商标 <br/>1997 - 武装抢劫 <br/>2005 - 敲诈
 
 ;0x5CC69D17=Known Associate of "Gay" Tony Prince.
-0x5CC69D17="基佬"Tony Prince的同伙。
+0x5CC69D17=「基佬」Tony Prince的同伙
 
 ;0x5F0D7B04=Lester
 0x5F0D7B04=Lester
@@ -213,7 +210,7 @@
 0x5F9DE5B2=Alderney，Acter
 
 ;0x5FA20A09=-AKA Real Badman<br/>-Jamaican-born gangster. <br/>-Believed to be head of a Marijuana and Cocaine distribution network based in East Liberty City. <br/>-Close ties to Jacob Hughes, street name - Little Jacob. -Suspect in several high profile armed robberies and hijackings.
-0x5FA20A09=-又名Real Badman。<br/>-出生于牙买加的黑道。<br/>-据信其为自由城东部大麻与可卡因销售网络的头目。<br/>-与绰号为Little Jacob的Jacob Hughes关系密切。<br/>-涉嫌参与数起高调的武装抢劫。
+0x5FA20A09=- 又名Real Badman。<br/>- 出生于牙买加的黑道。<br/>- 据信其为自由城东部大麻与可卡因销售网络的头目。<br/>- 与绰号为Little Jacob的Jacob Hughes关系密切。<br/>- 涉嫌参与数起高调的武装抢劫。
 
 ;0x5FA2467B=29
 0x5FA2467B=29
@@ -261,7 +258,7 @@
 0x6EB8EB8C=1975 - 故意伤害 <br/>1978 - 过失杀人 <br/>1985 - 过失杀人 <br/>2001 - 涉黑
 
 ;0x6FCE2A61=-Famous actress on popular 80s sitcom.<br/>-Drug and alcohol problems since falling out of the public eye.<br/>-Believed to be participating in pornographic movies in exchange for crack cocaine.<br/>-Currently featured on the TV show 'Waning With The Stars'.
-0x6FCE2A61=-参演80年代热门喜剧的知名女演员。<br/>-淡出公众视线后沉溺毒品与酒精。<br/>-据信其通过参演色情片换取霹雳可卡因。<br/>-现在主役于电视综艺《与星共陨》。
+0x6FCE2A61=- 参演80年代热门喜剧的知名女演员。<br/>- 淡出公众视线后沉溺毒品与酒精。<br/>- 据信其通过参演色情片换取霹雳可卡因。<br/>- 现在主役于电视综艺《与星共陨》。
 
 ;0x70B3158B=52
 0x70B3158B=52
@@ -270,7 +267,7 @@
 0x71AE9D23=自由城
 
 ;0x71B946F8=Linked to West Indian criminal gangs in East Liberty City.
-0x71B946F8=与自由城东部的西印度群岛系犯罪者有联系。
+0x71B946F8=与自由城东部的西印度群岛系犯罪者有联系
 
 ;0x726721BB=Charles
 0x726721BB=Charles
@@ -282,7 +279,7 @@
 0x77E7FDF2=2001 - 持有管制物质：可卡因 <br/>2003 - 毒驾 <br/>2004 - 拒捕 <br/>2005 - 持有管制物质：霹雳可卡因 <br/>2006 - 参与卖淫 <br/>2007 - 淫秽：行为不检
 
 ;0x786B3A57=-Senior member of the Liberty City Chapter of the Angels of Death OMG.<br/>-Thought to have been the cause of the war between the Angels of Death and the Lost when he had sexual intercourse with the mother of a Lost member.
-0x786B3A57=-死亡天使非法机车俱乐部自由城分会高级成员。<br/>-其与一名失落成员的母亲的性交行为被认为是死亡天使与失落间战争的导火索。
+0x786B3A57=- 死亡天使非法机车俱乐部自由城分会高级成员。<br/>- 其与一名失落成员的母亲的性交行为被认为是死亡天使与失落间战争的导火索。
 
 ;0x7A483259=Johnny
 0x7A483259=Johnny
@@ -294,7 +291,7 @@
 0x7B3DD850=Aiden
 
 ;0x7D36C532=-Suspected to be the head of the Lupisella Crime Syndicate despite his nephew, Mark "Loopy" Lupisella, being officially in charge.<br/>-Believed to have killed his twin brother in a struggle for leadership of the family.<br/>-Claims to suffer from Alzheimer's Disease though his lawyers have blocked any State sponsored tests to verify this.<br/>-The Lupisella organization is believed to control many major Liberty City rackets.
-0x7D36C532=-疑为Lupisella犯罪家族头目，尽管明面上系其侄子Mark "Loopy" Lupisella掌权。<br/>-在家族权力斗争中杀害了自己的孪生兄弟。<br/>-声称患有老年痴呆，但其律师拒绝了所有国家赞助的鉴定来证明这点。<br/>-据信Lupisella犯罪家族控制着自由城主要的涉黑活动。
+0x7D36C532=- 疑为Lupisella犯罪家族头目，尽管明面上系其侄子Mark "Loopy" Lupisella掌权。<br/>- 在家族权力斗争中杀害了自己的孪生兄弟。<br/>- 声称患有老年痴呆，但其律师拒绝了所有国家赞助的鉴定来证明这点。<br/>- 据信Lupisella犯罪家族控制着自由城主要的涉黑活动。
 
 ;0x7E803ACD=Huang
 0x7E803ACD=Huang
@@ -318,7 +315,7 @@
 0x85A51874=2003 - 酒驾 <br/>2006 - 酒驾
 
 ;0x867BF081=Linked to the Triads and Angels of Death OMG.
-0x867BF081=与三合会及死亡天使非法机车俱乐部有关。
+0x867BF081=与三合会及死亡天使非法机车俱乐部有关
 
 ;0x87A34C33=Kerry
 0x87A34C33=Kerry
@@ -330,7 +327,7 @@
 0x87BB99CD=26
 
 ;0x882FD9E0=-Believed to be second in command of the Alderney Chapter of the Lost Outlaw Motorcycle Gang. <br/>-Assumed control of the gang when its head, Billy Grey, was incarcerated. <br/>-Exact nature of the relationship between Grey and Klebitz is unknown.<br/>-Unclear who will assume control of the gang when Grey is released from prison. <br/>-Under his command, the Lost OMG have been able to co-exist with the Angels of Death OMG in relative peace. -Ties to known South Bohan drug dealer, Elizabeta Torres.
-0x882FD9E0=-失落非法机车俱乐部Alderney分会的二把手。<br/>-推测其在帮派头目Billy Grey被监禁时管理帮派。<br/>-尚不清楚Grey与Klebitz间的具体关系。<br/>-Grey出狱后帮派由谁掌控尚不明了。<br/>-在其治下，失落才与死亡天使处于相对和平的状态。<br/>-与South Bohan的毒贩Elizabeta Torres关系密切。
+0x882FD9E0=- 失落非法机车俱乐部Alderney分会的二把手。<br/>- 推测其在帮派头目Billy Grey被监禁时管理帮派。<br/>- 尚不清楚Grey与Klebitz间的具体关系。<br/>- Grey出狱后帮派由谁掌控尚不明了。<br/>- 在其治下，失落才与死亡天使处于相对和平的状态。<br/>- 与South Bohan的毒贩Elizabeta Torres关系密切。
 
 ;0x8839B8B8=N/A
 0x8839B8B8=无
@@ -357,7 +354,7 @@
 0x8F37943D=Lawson
 
 ;0x8F7BE9BC=-History of corrupt business practices.<br/>-Ties to the Liberty City underworld.<br/>-Alleged misappropriation of state funds.
-0x8F7BE9BC=-有商业腐败行为史。<br/>-与自由城黑社会关系密切。<br/>-据传其私自挪用州政府拨款。
+0x8F7BE9BC=- 有商业腐败行为史。<br/>- 与自由城黑社会关系密切。<br/>- 据传其私自挪用州政府拨款。
 
 ;0x917746B0=Dukes, Liberty City
 0x917746B0=自由城，Dukes
@@ -375,10 +372,10 @@
 0x9238DDAD=Michael
 
 ;0x949BD758=Linked to Irish American Criminals in Dukes and the Alderney based Pegorino Crime Syndicate.
-0x949BD758=与Dukes的爱尔兰裔犯罪者及以Alderney为据点的Pegorino犯罪家族有联系。
+0x949BD758=与Dukes的爱尔兰裔犯罪者及以Alderney为据点的Pegorino犯罪家族有联系
 
 ;0x94D5F32C=-Owner of Brucie's Executive Lifestyle Autos. <br/>-Believed to operate a chop shop for stolen vehicles. <br/>-Suspected involvement in the illegal street racing scene. <br/>-Known steroid user and dealer. <br/>-Very aggressive, known to lash out when resisting arrest. <br/>-Likes to spend his money lavishly in nightclubs - possibly evading taxation.
-0x94D5F32C=-Brucie高端生活豪车城的老板。<br/>-经营一家地下改车厂。<br/>-涉嫌参与非法街头赛车。<br/>-类固醇使用者、贩卖者。<br/>-十分好斗，拒捕时会猛力袭击。<br/>-喜欢在夜总会挥霍金钱，或存在逃税。
+0x94D5F32C=- Brucie高端生活豪车城的老板。<br/>- 经营一家地下改车厂。<br/>- 涉嫌参与非法街头赛车。<br/>- 类固醇使用者、贩卖者。<br/>- 十分好斗，拒捕时会猛力袭击。<br/>- 喜欢在夜总会挥霍金钱，或存在逃税。
 
 ;0x97F191BF=Jason
 0x97F191BF=Jason
@@ -393,7 +390,7 @@
 0x994FEF8C=Cherice
 
 ;0x9AF99978=Linked to Organized Crime throughout Liberty City.
-0x9AF99978=与自由城各地的犯罪组织有关。
+0x9AF99978=与自由城各地的犯罪组织有关
 
 ;0x9B45F051=Bohan, Liberty City
 0x9B45F051=自由城，Bohan
@@ -405,7 +402,7 @@
 0x9E493260=Lee
 
 ;0x9F72E72A=Member of East Holland drug gang.
-0x9F72E72A=East Holland贩毒团伙成员。
+0x9F72E72A=East Holland贩毒团伙成员
 
 ;0x9FE9F3F8=48
 0x9FE9F3F8=48
@@ -420,13 +417,13 @@
 0xA37A7515=无
 
 ;0xA3E60F40=-Arrested in a compromising position with a man in a motor vehicle. <br/>-Believed to be a nymphomaniac.
-0xA3E60F40=-与一名男性在摩托车上性交时被捕。<br/>-据信其为女色情狂。
+0xA3E60F40=- 与一名男性在摩托车上性交时被捕。<br/>- 据信其为女色情狂。
 
 ;0xA4180111=Glasgow, Scotland
 0xA4180111=苏格兰，格拉斯哥
 
 ;0xA52E1524=-Mother of Gerald, Derrick and Patrick McReary. <br/>-Conspirator with their father in the 50s and 60s. <br/>-Victim of domestic abuse but would not testify against her husband.
-0xA52E1524=-Gerald、Derrick和Patrick McReary之母。<br/>-50和60年代时其他们父亲的同谋。<br/>-家暴受害者，但其不会做出对丈夫不利的证言。
+0xA52E1524=- Gerald、Derrick和Patrick McReary之母。<br/>- 50和60年代时其他们父亲的同谋。<br/>- 家暴受害者，但其不会做出对丈夫不利的证言。
 
 ;0xA5462F79=Messina Crime Syndicate
 0xA5462F79=Messina犯罪家族
@@ -444,7 +441,7 @@
 0xABC4DE93=25
 
 ;0xABD4A12D=-Nephew of Liberty City Triad Boss, Wu "Kenny" Lee. <br/>-Believed to be working freelance for other organizations in addition to his uncle's.
-0xABD4A12D=-自由城三合会头目Wu "Kenny" Lee的侄子。<br/>-除为其叔叔工作外，也替其他组织工作。
+0xABD4A12D=- 自由城三合会头目Wu "Kenny" Lee的侄子。<br/>- 除为其叔叔工作外，也替其他组织工作。
 
 ;0xACCA9681=Maureen
 0xACCA9681=Maureen
@@ -453,7 +450,7 @@
 0xAD8C1551=牙买加
 
 ;0xAE2D23CE=-Head of the Messina Crime Syndicate.<br/>-Reported to be plotting the murder of Mark Anthony Volpe, a capo in his organization he believes to be a police informant.<br/>-The actual informant in his organization, Fredo Volpe, has collected evidence on Noto that should lead to a Federal Racketeering conviction.<br/>-Believed to have transformed the Messina Crime Syndicate from one of the least powerful in Liberty City to a dominant force on the commission.<br/>-Despite rivalries, believed to be a close friend of Jon Gravelli.
-0xAE2D23CE=-Messina犯罪家族头目。<br/>-报告指出其因认为组织干部Mark Anthony Volpe系警方线人，便策划了对他的谋杀。<br/>-其组织中的真正线人，Fredo Volpe，已收集到了足够让Noto被判联邦黑恶势力犯罪的证据。<br/>-据信Messina犯罪家族由自由城的弱势帮派到委员会一大势力的转变系其促成。<br/>-据信，其私下为Jon Gravelli的密友。
+0xAE2D23CE=- Messina犯罪家族头目。<br/>- 报告指出其因认为组织干部Mark Anthony Volpe系警方线人，便策划了对他的谋杀。<br/>- 其组织中的真正线人，Fredo Volpe，已收集到了足够让Noto被判联邦黑恶势力犯罪的证据。<br/>- 据信Messina犯罪家族由自由城的弱势帮派到委员会一大势力的转变系其促成。<br/>- 据信，其私下为Jon Gravelli的密友。
 
 ;0xAECD98C8=Los Santos
 0xAECD98C8=洛圣都
@@ -465,16 +462,16 @@
 0xB0AB53C0=Lopez
 
 ;0xB1B71192=Member of the Alderney Chapter of the Lost OMG
-0xB1B71192=失落非法机车俱乐部Alderney分会成员。
+0xB1B71192=失落非法机车俱乐部Alderney分会成员
 
 ;0xB276C79A=Known Associate of Mikhail Faustin and Russian Organized Crime in Hove Beach.
-0xB276C79A=Mikhail Faustin的同伙，参与Hove Beach的俄罗斯系犯罪组织。
+0xB276C79A=Mikhail Faustin的同伙，参与Hove Beach的俄罗斯系犯罪组织
 
 ;0xB4F5C88C=1985 - Animal Cruelty<br/>1990 - Exposure Of A Person <br/>1995 - Public Lewdness
 0xB4F5C88C=1985 - 虐待动物 <br/>1990 - 公然裸露 <br/>1995 - 故意裸露
 
 ;0xB6E03888=-Youngest brother and employee of Gerald McReary.<br/>-Suspected in a number of robberies and hijackings.<br/>-Arrested with several grams of cocaine in the presence of a known prostitute.<br/>-Believed to be working as muscle for the Alderney-based Pegorino Crime Syndicate.
-0xB6E03888=-Gerald McReary最小的弟弟，也是其手下。<br/>-涉嫌参与多起抢劫。<br/>-当一名妓女在场时被捕，同时被搜出数克海洛因。<br/>-据信其作为以Alderney为据点的Pegorino犯罪家族的打手工作。
+0xB6E03888=- Gerald McReary最小的弟弟，也是其手下。<br/>- 涉嫌参与多起抢劫。<br/>- 当一名妓女在场时被捕，同时被搜出数克海洛因。<br/>- 据信其作为以Alderney为据点的Pegorino犯罪家族的打手工作。
 
 ;0xB868149D=Alderney, Liberty City
 0xB868149D=Alderney
@@ -513,13 +510,13 @@
 0xC45443D5=洛圣都
 
 ;0xC87F8937=-Small time Albanian thug.<br/>-Believed to be part of a money lending and extortion operation that targets illegal immigrants when they arrive in US.<br/>-Based in Hove Beach.
-0xC87F8937=-阿尔巴尼亚小混混。<br/>-据信其系一名针对刚到美国的非法移民进行放贷的敲诈组织成员。<br/>-以Hove Beach为据点。
+0xC87F8937=- 阿尔巴尼亚小混混。<br/>- 据信其系一名针对刚到美国的非法移民进行放贷的敲诈组织成员。<br/>- 以Hove Beach为据点。
 
 ;0xC8E345EA=35
 0xC8E345EA=35
 
 ;0xC9B5418E=Linked to Criminal Underworld in Ireland and Irish American criminals based in Dukes.
-0xC9B5418E=与爱尔兰黑社会及以Dukes为据点的爱尔兰裔犯罪者有联系。
+0xC9B5418E=与爱尔兰黑社会及以Dukes为据点的爱尔兰裔犯罪者有联系
 
 ;0xCA11B7F0=San Fierro
 0xCA11B7F0=圣辉洛
@@ -552,19 +549,19 @@
 0xD33118CB=Lupisella
 
 ;0xD375F1B3=-Famous supermodel.<br/>-History of drug and alcohol abuse in recent years.
-0xD375F1B3=-知名超模。<br/>-近年有毒瘾史和酗酒史。
+0xD375F1B3=- 知名超模。<br/>- 近年有毒瘾史和酗酒史。
 
 ;0xD8749475=N/A
 0xD8749475=无
 
 ;0xD87AFA79=-Believed to be the second most powerful leader in the Liberty City Triad Organization. <br/>-Considered the chief rival for Chan Jaoming in the struggle for control of Triad Organized Crime in Liberty City.
-0xD87AFA79=-自由城三合会的第二大头目。<br/>-被认为是与Chan Jaoming竞争自由城三合会控制权的头号对手。
+0xD87AFA79=- 自由城三合会的第二大头目。<br/>- 被认为是与Chan Jaoming竞争自由城三合会控制权的头号对手。
 
 ;0xD9D965A6=Brian
 0xD9D965A6=Brian
 
 ;0xDA6E2D14=-Recently patched in member of the Lost OMG.<br/>-Often seen with young women; possibly making money as a pimp.<br/>-Close to the acting head of his chapter, Johnny Klebitz.<br/>-Recently sighted in the Hove Beach area with Anna Faustin, daughter of Russian gangster Mikhail Faustin.
-0xDA6E2D14=-近期加入失落非法机车俱乐部的成员。<br/>-常被目击与年轻女性一起，或通过拉皮条赚钱。<br/>-与该分会代理头目Johnny Klebitz关系紧密。<br/>-近期于Hove Beach一带与俄罗斯黑道Mikhail Faustin之女Anna Faustin被一起目击。
+0xDA6E2D14=- 近期加入失落非法机车俱乐部的成员。<br/>- 常被目击与年轻女性一起，或通过拉皮条赚钱。<br/>- 与该分会代理头目Johnny Klebitz关系紧密。<br/>- 近期于Hove Beach一带与俄罗斯黑道Mikhail Faustin之女Anna Faustin被一起目击。
 
 ;0xDBF37121=Clarence
 0xDBF37121=Clarence
@@ -597,7 +594,7 @@
 0xE5F5BE54=Leroc
 
 ;0xE6B730FA=Linked to Irish American Criminals in Dukes and the Alderney based Pegorino Crime Syndicate.
-0xE6B730FA=与Dukes的爱尔兰裔犯罪者及以Alderney为据点的Pegorino犯罪家族有联系。
+0xE6B730FA=与Dukes的爱尔兰裔犯罪者及以Alderney为据点的Pegorino犯罪家族有联系
 
 ;0xE74940F7=Martin
 0xE74940F7=Martin
@@ -612,7 +609,7 @@
 0xEAA10735=Zhou
 
 ;0xEB451DFD=-Internet entrepreneur and multi-millionaire.<br/>-History of domestic violence.<br/>-Believed to be an egomaniac with a Napoleon complex.
-0xEB451DFD=-网络企业家、千万富翁。<br/>-有家暴史。<br/>-据信其十分自大，有拿破仑情结。
+0xEB451DFD=- 网络企业家、千万富翁。<br/>- 有家暴史。<br/>- 据信其十分自大，有拿破仑情结。
 
 ;0xEC11AF0B=1972 - Civil Disobedience<br/>1974 - Resisting Arrest<br/>1995 - Grand Larceny (Multiple Counts)
 0xEC11AF0B=1972 - 公民不服从 <br/>1974 - 拒捕 <br/>1995 - 大额盗窃(多次累计)
@@ -627,7 +624,7 @@
 0xEDBD65DB=66
 
 ;0xEFE74E52=-Small time Dukes-based Irish American hood. <br/>-Works closely with Gordon Sargent and Patrick McReary, brother of the Pegorino Crime family associate, Gerald McReary. <br/>-Suspected in a number of hijackings and robberies.
-0xEFE74E52=-以Dukes为据点的爱尔兰裔小混混。<br/>-与Gordon Sargent及Patrick McReary合作紧密，后者为Pegorino犯罪家族同伙Gerald McReary的弟弟。<br/>-涉嫌参与多起抢劫。
+0xEFE74E52=- 以Dukes为据点的爱尔兰裔小混混。<br/>- 与Gordon Sargent及Patrick McReary合作紧密，后者为Pegorino犯罪家族同伙Gerald McReary的弟弟。<br/>- 涉嫌参与多起抢劫。
 
 ;0xF040D40A=McTony
 0xF040D40A=McTony
@@ -642,10 +639,10 @@
 0xF3834BDA=无
 
 ;0xF4493005=-Famous pop singer.<br/>-Engaged to hedge fund mogul, Kirk Simplex.<br/>-Controversy surrounds the 'adoption' of her 13 children from developing nations.
-0xF4493005=-知名流行歌手。<br/>-已与对冲基金大亨Kirk Simplex订婚。<br/>-其13个来自发展中国家的「养子」引人争议。
+0xF4493005=- 知名流行歌手。<br/>- 已与对冲基金大亨Kirk Simplex订婚。<br/>- 其13个来自发展中国家的「养子」引人争议。
 
 ;0xF4EA122F=Known associate of the McReary family.
-0xF4EA122F=McReary家族的同伙。
+0xF4EA122F=McReary家族的同伙
 
 ;0xF4F47809=2006 - Driving While Intoxicated<br/>2007 - Possession Controlled Substance: Cocaine
 0xF4F47809=2006 - 毒驾 <br/>2007 - 持有管制物质：可卡因
@@ -663,10 +660,10 @@
 0xF982E56A=Maxwell-Davies
 
 ;0xFE25EACF=-Head of a Heroin and Crack Cocaine distribution operation. <br/>-Controls at least one Project Housing block in East Holland. <br/>-Recently approached the LCPD offering to give evidence on police corruption in exchange for leniency.
-0xFE25EACF=-海洛因与霹雳可卡因销售网络的头目。<br/>-控制至少一个East Holland公屋社区。<br/>-近期联络LCPD，提出以警察腐败的证据换取宽大处理。
+0xFE25EACF=- 海洛因与霹雳可卡因销售网络的头目。<br/>- 控制至少一个East Holland公屋社区。<br/>- 近期联络LCPD，提出以警察腐败的证据换取宽大处理。
 
 ;0xFF24F681=-Associate of Derrick McReary and Bucky Sligo. <br/>-Currently held in custody. <br/>-Recently offered information that may lead to further arrests.
-0xFF24F681=-Derrick McReary及Bucky Sligo的同伙。<br/>-目前仍在监狱服刑。<br/>-近期供出可供深入调查逮捕的信息。
+0xFF24F681=- Derrick McReary及Bucky Sligo的同伙。<br/>- 目前仍在监狱服刑。<br/>- 近期供出可供深入调查逮捕的信息。
 
 ;0xFF43B84F=Dukes, Liberty City
 0xFF43B84F=自由城，Dukes
