@@ -33,19 +33,19 @@
 0x08F30A28=武器开火
 
 ;0xF19AD869=CAMERA MODES
-0xF19AD869=镜头模式
+0xF19AD869=切换视角
 
 ;0x04787E24=CLIP CAPTURE (HOLD)
 0x04787E24=片段捕捉(按住)
 
 ;0xC64001B4=CAMERA MODES
-0xC64001B4=镜头模式
+0xC64001B4=切换视角
 
 ;0xCD778FBF=CLIP CAPTURE (HOLD)
 0xCD778FBF=片段捕捉(按住)
 
 ;0xDBB82C40=CAMERA MODES
-0xDBB82C40=镜头模式
+0xDBB82C40=切换视角
 
 ;0xAE1B54B6=STEERING
 0xAE1B54B6=左右转向
@@ -216,19 +216,19 @@
 0x67F74446=捡起
 
 ;0xEB9597BA=CAMERA MODES
-0xEB9597BA=镜头模式
+0xEB9597BA=切换视角
 
 ;0xB31DA6C7=CLIP CAPTURE (HOLD)
 0xB31DA6C7=片段捕捉(按住)
 
 ;0xA0E7025A=CAMERA MODES
-0xA0E7025A=镜头模式
+0xA0E7025A=切换视角
 
 ;0xDBEB7862=CLIP CAPTURE (HOLD)
 0xDBEB7862=片段捕捉(按住)
 
 ;0xC280458C=CAMERA MODES
-0xC280458C=镜头模式
+0xC280458C=切换视角
 
 ;0x6EBE6668=MOVEMENT
 0x6EBE6668=移动
@@ -366,19 +366,19 @@
 0x28B589D0=无
 
 ;0x7FD0BF85=CAMERA MODES
-0x7FD0BF85=镜头模式
+0x7FD0BF85=切换视角
 
 ;0x6DCA1B78=CLIP CAPTURE (HOLD)
 0x6DCA1B78=片段捕捉(按住)
 
 ;0xA44F0881=CAMERA MODES
-0xA44F0881=镜头模式
+0xA44F0881=切换视角
 
 ;0x9210E405=CLIP CAPTURE (HOLD)
 0x9210E405=片段捕捉(按住)
 
 ;0xC928D234=CAMERA MODES
-0xC928D234=镜头模式
+0xC928D234=切换视角
 
 ;0xE72A06BA=MOVEMENT
 0xE72A06BA=移动
@@ -831,7 +831,7 @@
 0x5491AF55=调整标记位置以改变速度。
 
 ;0x62B84BA2=Speed settings applied, Time Bar recalculated.
-0x62B84BA2=速度设置已应用，已重新计算时间条。
+0x62B84BA2=速度设置已应用，进度条已更新。
 
 ;0x81E5F570=Cut
 0x81E5F570=剪切
@@ -846,7 +846,7 @@
 0x549D9AE0=淡入/淡出
 
 ;0x2AAE4702=Crossfade
-0x2AAE4702=淡入淡出
+0x2AAE4702=交叉淡入淡出
 
 ;0x70E95377=Wipe left-right
 0x70E95377=从左到右抹除
@@ -864,13 +864,13 @@
 0x71F65445=像素化
 
 ;0x5C2428A1=Bloom in
-0x5C2428A1=开花
+0x5C2428A1=Bloom in
 
 ;0x007E7153=Bloom out
-0x007E7153=开花
+0x007E7153=Bloom out
 
 ;0xF350D6F8=Bloom in/out
-0xF350D6F8=开花
+0xF350D6F8=Bloom in/out
 
 ;0x25913B7C=Blur
 0x25913B7C=模糊
@@ -1044,13 +1044,13 @@
 0xC5C137DD=标记控制
 
 ;0x1D0E27A4=View
-0x1D0E27A4=查看
+0x1D0E27A4=视点
 
 ;0xD37E26A2=FOV
 0xD37E26A2=FOV
 
 ;0xA64EA033=Ease
-0xA64EA033=放慢
+0xA64EA033=缓动
 
 ;0xA6A3E32D=Camera
 0xA6A3E32D=相机
@@ -1062,13 +1062,13 @@
 0x8A146BF4=手持
 
 ;0x67BCF812=Lock
-0x67BCF812=锁住
+0x67BCF812=锁定
 
 ;0x24D747A9=Position
 0x24D747A9=位置
 
 ;0x3284E304=Orientation
-0x3284E304=方向
+0x3284E304=姿态
 
 ;0x329CD971=Custom
 0x329CD971=自定义
@@ -1077,7 +1077,7 @@
 0xA2FC3A2A=预设
 
 ;0xFEED4EEC=Filter
-0xFEED4EEC=过滤
+0xFEED4EEC=滤镜
 
 ;0xEE8BFF38=Type
 0xEE8BFF38=类型
@@ -1095,16 +1095,16 @@
 0x1C437136=目标
 
 ;0xA720E8FA=Movement
-0xA720E8FA=移动
+0xA720E8FA=运动
 
 ;0x010176CF=Blend
 0x010176CF=混合
 
 ;0x7289A563=Linear
-0x7289A563=平行
+0x7289A563=线性
 
 ;0x2810E9D4=Orbit
-0x2810E9D4=轨道
+0x2810E9D4=环绕
 
 ;0x2C38DE04=In
 0x2C38DE04=进
@@ -1113,7 +1113,7 @@
 0x37A7D32C=出
 
 ;0x1FE09D03=In/Out
-0x1FE09D03=In/Out
+0x1FE09D03=进/出
 
 ;0x8E5E0DC1=5
 0x8E5E0DC1=5
@@ -1146,7 +1146,7 @@
 0x9E301AEC=0
 
 ;0x4930B9C5=Percent
-0x4930B9C5=Percent
+0x4930B9C5=百分比
 
 ;0xDE11A449=300
 0xDE11A449=300
@@ -1182,7 +1182,7 @@
 0xE0CC2694=导出前请先对视频命名。
 
 ;0x15BDB54C=Video names can be entered above the storyboard.
-0x15BDB54C=视频名称可在 Storyboard 上方输入。
+0x15BDB54C=视频名称可在Storyboard上方输入。
 
 ;0xFF579EB9=Clip Capture
 0xFF579EB9=片段捕捉
@@ -1293,7 +1293,7 @@
 0x300A4013=硬件
 
 ;0x3EC5371D=Tools
-0x3EC5371D=工具
+0x3EC5371D=工具栏
 
 ;0x0A333F95=Hide Hud ~INPUT_FRONTEND_REPLAY_HIDEHUD~
 0x0A333F95=隐藏HUD ~INPUT_FRONTEND_REPLAY_HIDEHUD~
@@ -1302,13 +1302,13 @@
 0x1A1F0549=隐藏HUD
 
 ;0x779DD3F1=Toggle Hotkeys ~INPUT_FRONTEND_REPLAY_SHOWHOTKEY~
-0x779DD3F1=切换热键 ~INPUT_FRONTEND_REPLAY_SHOWHOTKEY~
+0x779DD3F1=显示快捷键 ~INPUT_FRONTEND_REPLAY_SHOWHOTKEY~
 
 ;0x1D41CB85=Toggle Hotkeys ~INPUT_FRONTEND_REPLAY_SHOWHOTKEY~
-0x1D41CB85=切换热键 ~INPUT_FRONTEND_REPLAY_SHOWHOTKEY~
+0x1D41CB85=显示快捷键 ~INPUT_FRONTEND_REPLAY_SHOWHOTKEY~
 
 ;0x8819341E=Toggle Hotkeys
-0x8819341E=切换热键
+0x8819341E=显示快捷键
 
 ;0x91C31DCF=Advanced View
 0x91C31DCF=高级查看
@@ -1350,7 +1350,7 @@
 0x5E2282AB=播放/暂停
 
 ;0x4037C10B=Rewind
-0x4037C10B=回放
+0x4037C10B=快退
 
 ;0xDB856E8D=Restart
 0xDB856E8D=重播
@@ -1359,25 +1359,25 @@
 0xC9DCC817=快进
 
 ;0xC326007C=Frame Advance
-0xC326007C=帧步进
+0xC326007C=后一帧
 
 ;0x3623273C=Frame Rewind
-0x3623273C=帧回放
+0x3623273C=前一帧
 
 ;0x7A5C2359=Place Marker
-0x7A5C2359=位置标记
+0x7A5C2359=放置标记
 
 ;0x1CC1F2D5=Cycle to Left Marker
-0x1CC1F2D5=循环至左标记
+0x1CC1F2D5=上一标记
 
 ;0xBEA24F62=Cycle to Right Marker
-0xBEA24F62=循环至右标记
+0xBEA24F62=下一标记
 
 ;0x84E177B1=Delete Marker
 0x84E177B1=移除标记
 
 ;0x689C940C=Display Tools
-0x689C940C=显示工具
+0x689C940C=显示工具栏
 
 ;0x9C97D3AA=~INPUT_FRONTEND_REPLAY_PAUSE~
 0x9C97D3AA=~INPUT_FRONTEND_REPLAY_PAUSE~
@@ -1530,7 +1530,7 @@
 0x2E51BD44=持续时间
 
 ;0xC2BBF93A=sec
-0xC2BBF93A=秒
+0xC2BBF93A=sec
 
 ;0xDDF17E95=Red
 0xDDF17E95=红
@@ -1782,7 +1782,7 @@
 0x32F2B46A=音乐音量
 
 ;0x9C9648EE=Speech
-0x9C9648EE=Speech
+0x9C9648EE=对白
 
 ;0x1D6BC4AB=SFX Volume
 0x1D6BC4AB=音效音量
@@ -2046,7 +2046,7 @@
 0x91699150=重置
 
 ;0x4E0127F5=Back
-0x4E0127F5=返回
+0x4E0127F5=回到开头
 
 ;0x47115A47=Line your face up with your webcam so that your facial features match the prompts shown above.
 0x47115A47=Line your face up with your webcam so that your facial features match the prompts shown above.
@@ -2428,64 +2428,64 @@
 0xBFE877AA=女
 
 ;0xB3F198E4=Classic
-0xB3F198E4=Classic
+0xB3F198E4=黑白
 
 ;0x847A1073=Tweaked
-0x847A1073=Tweaked
+0x847A1073=微调
 
 ;0x6F2833CF=Cinema
-0x6F2833CF=Cinema
+0x6F2833CF=电影
 
 ;0x55B7B406=Verte
-0x55B7B406=Verte
+0x55B7B406=邪能
 
 ;0xB8E8DAA5=Hot
-0xB8E8DAA5=Hot
+0xB8E8DAA5=热浪
 
 ;0xACE773B5=Steel
-0xACE773B5=Steel
+0xACE773B5=冷钢
 
 ;0xB4F536FD=Psyche
-0xB4F536FD=Psyche
+0xB4F536FD=意识
 
 ;0x7960D58E=Romantic
-0x7960D58E=Romantic
+0x7960D58E=浪漫
 
 ;0x8EE1B9E0=Sepia
-0x8EE1B9E0=Sepia
+0x8EE1B9E0=深棕
 
 ;0xC51DA097=Muddy
-0xC51DA097=Muddy
+0xC51DA097=泥巴
 
 ;0xCA6ED5CF=Neon
-0xCA6ED5CF=Neon
+0xCA6ED5CF=2077
 
 ;0x278C1D3A=Rouge
-0x278C1D3A=Rouge
+0x278C1D3A=脂红
 
 ;0x5B09CD80=Bronze
-0x5B09CD80=Bronze
+0x5B09CD80=青铜
 
 ;0xB8E3A8A3=Ultraviolet
-0xB8E3A8A3=Ultraviolet
+0xB8E3A8A3=紫外线
 
 ;0xB11B6B31=Eclipse
-0xB11B6B31=Eclipse
+0xB11B6B31=暗淡
 
 ;0xF0AB3D79=Noire
-0xF0AB3D79=Noire
+0xF0AB3D79=阴森
 
 ;0xD8ED828F=Colors
-0xD8ED828F=Colors
+0xD8ED828F=五彩斑斓
 
 ;0xD5958EB5=Vintage
-0xD5958EB5=Vintage
+0xD5958EB5=复古
 
 ;0x96C1F8E9=Fire
-0x96C1F8E9=Fire
+0x96C1F8E9=火焰
 
 ;0x9494929B=Sketch
-0x9494929B=Sketch
+0x9494929B=素描
 
 ;0x4289F321=Dark Sided (Night)
 0x4289F321=Dark Sided (Night)
@@ -2497,34 +2497,34 @@
 0x4AD5235D=Colors (Night)
 
 ;0x8DAA0E83=Game
-0x8DAA0E83=Game
+0x8DAA0E83=原始
 
 ;0x79ABE687=Front
-0x79ABE687=Front
+0x79ABE687=前方
 
 ;0x6BECCB09=Rear
-0x6BECCB09=Rear
+0x6BECCB09=后方
 
 ;0x66473FBE=Right Side
-0x66473FBE=Right Side
+0x66473FBE=右侧
 
 ;0x54A29C75=Overhead
-0x54A29C75=Overhead
+0x54A29C75=俯视
 
 ;0x602AB3A9=Target
-0x602AB3A9=Target
+0x602AB3A9=目标跟踪
 
 ;0x55E99F27=Free
-0x55E99F27=Free
+0x55E99F27=自由放置
 
 ;0x0B8D8A6C=Chest
-0x0B8D8A6C=Chest
+0x0B8D8A6C=胸前
 
 ;0x3167D620=Handheld
-0x3167D620=Handheld
+0x3167D620=手持
 
 ;0x15F68C98=Left Side
-0x15F68C98=Left Side
+0x15F68C98=左侧
 
 ;0x9E44B3BC=PV_COMP_HEAD
 0x9E44B3BC=PV_COMP_HEAD
@@ -7861,13 +7861,13 @@
 0x51195A4D=片段时间轴：__显示片段相对于视频的长度。
 
 ;0x16B76833=Audio Timeline:__Drag a song here to add music to your Video.
-0x16B76833=音频时间轴：__将歌曲拖到此处以为您的视频添加音乐。
+0x16B76833=音频时间轴：__将歌曲拖到此处可为您的视频添加音乐。
 
 ;0xC8AB3ACA=Text Timeline:__Drag a text box here to add titles to your Video.
-0xC8AB3ACA=文本时间轴：__将文本框拖到此处以为您的视频添加字幕。
+0xC8AB3ACA=文本时间轴：__将文本框拖到此处可为您的视频添加字幕。
 
 ;0xFFBD783E=Text Timeline:__Drag a text box here to add titles to your Video.
-0xFFBD783E=文本时间轴：__将文本框拖到此处以为您的视频添加字幕。
+0xFFBD783E=文本时间轴：__将文本框拖到此处可为您的视频添加字幕。
 
 ;0x8CA85722=EXPORT TO GALLERY
 0x8CA85722=导出至相册
@@ -7882,10 +7882,10 @@
 0x1940385A=1080p
 
 ;0x7647637F=Please wait while your Video is being exported.
-0x7647637F=导出您的视频时请耐心等待
+0x7647637F=导出视频时请耐心等待。
 
 ;0x3470283B=Video
-0x3470283B=视频
+0x3470283B=Video
 
 ;0xCE582B07=Today
 0xCE582B07=今天
@@ -7897,7 +7897,7 @@
 0x2EAAFC8E=上月
 
 ;0xC4B648D0=Archives
-0xC4B648D0=档案
+0xC4B648D0=归档
 
 ;0x5A5B29AC=Favorites
 0x5A5B29AC=收藏
@@ -7930,70 +7930,70 @@
 0xF3F75146=交叉淡化
 
 ;0x69EEE08F=Clips can be dragged into the Favorites folder and will be marked with a star. Deleting clips from Favorites will not delete them from their original folders.
-0x69EEE08F=片段在被拖入收藏夹后会用星星标记。从收藏夹中删除片段并不会删除原文件夹中的片段。
+0x69EEE08F=拖入收藏夹的片段会用星星标记。删除收藏夹中的片段并不会删除原文件夹中的片段。
 
 ;0xC13DE14F=Folders organize clips into categories. Click a folder to expand it.
-0xC13DE14F=文件夹能将片段分类。点击一个文件夹以展开它。
+0xC13DE14F=根据录制时间将片段归类到了不同的文件夹。点击文件夹可显示其中的内容。
 
 ;0x3C2C050A=To add a clip to the video, drag it onto the Storyboard. Multiple instances of the same clip can exist in a given video.
-0x3C2C050A=要向视频中添加片段，将剪辑拖动至Storyboard。同一片段可在视频中多次使用。
+0x3C2C050A=将片段拖动至Storyboard即可将其加入视频。同一片段可在视频中多次使用。
 
 ;0x568239B6=To enter text, double click on the text box. To change the text settings click the Font, Size, Color and Duration values. To add text to the video, drag it onto the Text Timeline.
 0x568239B6=双击文本框以输入文本。点击字体、大小、颜色与持续时间可修改文本样式。将文本拖入文本时间轴可将其插入视频。
 
 ;0x7A4D0B11=TIME BAR EXTENTS: Drag time bar extents to trim clip length.
-0x7A4D0B11=时间条大小：拖动时间块大小以调整剪辑长度。
+0x7A4D0B11=截取范围：拖动滑块可调整剪辑长度。
 
 ;0xE4B3DFD9=TIMER: Toggles between Clip time and Video Time when clicked.
 0xE4B3DFD9=计时器：点击时会在片段时间与视频时间之间切换。
 
 ;0x053920EB=PLACE MARKER: Click to place a marker at the current frame.
-0x053920EB=位置标记：点击以在当前帧放置标记。
+0x053920EB=放置标记：在当前帧放置标记。
 
 ;0x16D3C420=PREVIOUS MARKER: Click to select previous marker.
-0x16D3C420=前一标记：点击以选中前一标记。
+0x16D3C420=上一标记：选中上一个标记。
 
 ;0x40550F4E=NEXT MARKER: Click to select next marker.
-0x40550F4E=后一标记：点击以选中后一标记。
+0x40550F4E=下一标记：选中下一个标记。
 
 ;0x4E97ABD3=TOOLS: Click to open the tools menu.
-0x4E97ABD3=工具：点击以打开工具菜单。
+0x4E97ABD3=工具：打开工具栏。
 
 ;0x19544149=SAVE: Click to save clip edits.
-0x19544149=保存：点击以保存对片段的编辑。
+0x19544149=保存：保存对片段的编辑。
 
 ;0xCBF3A7AD=Marker Controls are applied to a clip from one marker to the next.
-0xCBF3A7AD=标记控制会应用于同一片段的两个标记之间
+0xCBF3A7AD=「标记」中的设定会作用到下一个标记前。
 
 ;0x92B1B526=Apply various filters to the clip by clicking on the presets, or by using the mouse wheel to quick scan.
-0x92B1B526=点选预设可应用多种滤镜，亦可通过鼠标滚轮快速浏览效果。
+0x92B1B526=点击切换滤镜，亦可通过鼠标滚轮快速浏览所有预设。
 
 ;0x66937B80=Filter controls alter the appearance of the clip from the current marker. Applying Filters will affect all subsequent markers if their Filters are set to none.
-0x66937B80=滤镜控制会改变当前标记之后的片段外观。若之后的标记未设置滤镜，应用滤镜将会影响之后的所有标记。
+0x66937B80=「滤镜」可以改变当前标记后的画面。若之后的标记没有滤镜，应用滤镜将会影响之后的所有标记。
 
 ;0xB12C0FD8=Camera controls allow various cameras and behaviors to be placed within a clip from the current marker.
-0xB12C0FD8=相机控制允许从(一个片段的)当前标记起放置多个相机与运镜轨迹。
+0xB12C0FD8=「相机」可对当前标记处的镜头进行设置，存在多种相机与运镜选项。
 
 ;0x6E43EC4B=Alter the playback speed by clicking the presets, or by using the mouse wheel to quick scan. The Time Bar will adjust as it recalculates the length of the clip.
-0x6E43EC4B=点选预设可改变播放速度，亦可通过鼠标滚轮快速浏览效果。虽然改变了剪辑时长，但时间条会自动调整。
+0x6E43EC4B=点击改变播放速度，亦可通过鼠标滚轮快速浏览所有预设。虽然改变了剪辑时长，但进度条会自动调整。
 
 ;0x672C8382=Alter sound effect, music volume, and speech settings by clicking the presets, or by using the mouse wheel to quick scan.
-0x672C8382=点选预设可改变音效、音乐音量与对白设定，亦可通过鼠标滚轮快速浏览效果。
+0x672C8382=点击改变音效、音乐音量，开关对白，亦可通过鼠标滚轮快速浏览所有预设。
 
 ;0x4FE7E649=Audio controls alter the sound effect, music and speech volumes of the clip from the current marker. Global Audio settings can be applied in the tools menu.
-0x4FE7E649=音频设置会改变当前标记之后的音效、音乐与对白的音量。全局音频设置可在工具菜单内进行。
+0x4FE7E649=「音频」可以改变当前标记之后的音效、音乐与对白的音量。可在工具栏内对音频进行全局调整。
 
 ;0x0A37C99E=Speed controls alter the playback rate of the clip from the current marker.
-0x0A37C99E=速度控制会改变当前标记之后的片段播放速率。
+0x0A37C99E=「速度」可以改变当前标记之后的片段的播放速率。
 
 ;0x811E11FF=Allows you select preset or custom cameras. Only Custom cameras can be altered.
-0x811E11FF=允许您选择预设或自定义相机。仅有自定义相机可以调整。
+0x811E11FF=可以选择预设相机或自定义相机。能被调整的只有自定义相机。
 
 ;0x5D5B4A7A=Allows you to select preset camera views.
-0x5D5B4A7A=允许您选择预设相机视角。
+0x5D5B4A7A=可以选择预设相机的视点。
 
 ;0x24605881=Allows you to select target or free camera views.
-0x24605881=允许您选择目标或解放相机视角。
+0x24605881=可以选择目标相机或自由相机。
 
 ;0x399E8301=The default target is the Player. Cycle targets by clicking or by using the mouse wheel to quick scan.
 0x399E8301=默认目标为玩家。点击切换目标，亦可通过鼠标滚轮快速浏览。
@@ -8002,31 +8002,31 @@
 0xD9676B2E=~INPUT_MOUSE_RMB~ + ~MOUSE~_旋转__~INPUT_FRONTEND_AXIS_FWD~~INPUT_FRONTEND_AXIS_BACK~_缩放__~INPUT_FRONTEND_RB~~INPUT_FRONTEND_LB~_倾斜~n~~MOUSE_WHEEL~_偏移__~INPUT_SPRINT~_加速
 
 ;0x353E22CE=The target camera's horizontal and vertical position can be locked relative to the target.
-0x353E22CE=目标相机的水平与垂直位置可锁定为相对目标。
+0x353E22CE=可以相对于目标锁定相机的水平与垂直位置。
 
 ;0x4AA54D9C=Locks the horizontal position of the camera relative to the target.
-0x4AA54D9C=锁定相机的水平位置为相对目标。
+0x4AA54D9C=相对于目标锁定相机的水平位置。
 
 ;0x905B5907=Locks the horizontal and vertical position of the camera relative to the target.
-0x905B5907=锁定相机的水平与垂直位置为相对目标。
+0x905B5907=相对于目标锁定相机的水平与垂直位置。
 
 ;0x275F8715=The target camera can be placed in an orbit around a target. Any character within range of the player's character is a valid target.
-0x275F8715=目标相机可被放置在环绕某目标的轨道上。任何处在玩家角色范围内的角色都是合法目标。
+0x275F8715=目标相机可被放置在环绕某目标的轨道上。处在玩家角色范围内的任何角色都是合法目标。
 
 ;0xFB600795=The free camera allows you to place a static camera wherever you like, within range of your character.
-0xFB600795=自由相机允许您在任意位置放置一个静止的相机，只要在您的角色范围内。
+0xFB600795=自由相机允许您在玩家角色范围内的任意位置放置一个静止的相机。
 
 ;0x88CA0498=~INPUT_MOUSE_RMB~ + ~MOUSE~_Rotate__~INPUT_FRONTEND_AXIS_FWD~~INPUT_FRONTEND_AXIS_BACK~~INPUT_FRONTEND_AXIS_LEFT~~INPUT_FRONTEND_AXIS_RIGHT~_Move__~INPUT_FRONTEND_RB~~INPUT_FRONTEND_LB~_Tilt~n~~MOUSE_WHEEL~_Height__~INPUT_SPRINT~_Accelerate
-0x88CA0498=~INPUT_MOUSE_RMB~ + ~MOUSE~_旋转__~INPUT_FRONTEND_AXIS_FWD~~INPUT_FRONTEND_AXIS_BACK~~INPUT_FRONTEND_AXIS_LEFT~~INPUT_FRONTEND_AXIS_RIGHT~_Move__~INPUT_FRONTEND_RB~~INPUT_FRONTEND_LB~_倾斜~n~~MOUSE_WHEEL~_高度__~INPUT_SPRINT~_加速
+0x88CA0498=~INPUT_MOUSE_RMB~ + ~MOUSE~_旋转__~INPUT_FRONTEND_AXIS_FWD~~INPUT_FRONTEND_AXIS_BACK~~INPUT_FRONTEND_AXIS_LEFT~~INPUT_FRONTEND_AXIS_RIGHT~_移动__~INPUT_FRONTEND_RB~~INPUT_FRONTEND_LB~_倾斜~n~~MOUSE_WHEEL~_高度__~INPUT_SPRINT~_加速
 
 ;0x0809A0E8=Alters the Field Of View (FOV) of the camera.
 0x0809A0E8=改变相机视野(FOV)。
 
 ;0x26EBDEAC=Applies camera movement which will transition to the next marker.
-0x26EBDEAC=应用将会转场到下一标记的相机移动。
+0x26EBDEAC=启用后相机会平滑运动到下一标记的相机位置。
 
 ;0xF98EED98=Applies varying levels of camera shake to mimic a handheld camera.
-0xF98EED98=应用不同的相机晃动等级以模拟手持相机拍摄。
+0xF98EED98=可以通过不同的晃动等级模拟手持相机拍摄。
 
 ;0x352E7B31=An Orbit movement travels in an arc around the target between marker positions.
 0x352E7B31=轨道运动会以环绕目标的圆周轨迹在标记位置间移动。
@@ -8035,22 +8035,22 @@
 0x40559183=线性运动会以直线在两个标记位置间移动。
 
 ;0x50B3323E=A Blend movement allows for smooth camera movement between three or more marker positions.
-0x50B3323E=混合运动可实现相机在三个及以上的标记位置间移动。
+0x50B3323E=混合运动可实现相机在三个及以上的标记位置间平滑移动。
 
 ;0xD1499962=Camera movement into and out of the marker can be modified by applying ease.
-0xD1499962=相机向标记的内外移动可通过应用放慢更改。
+0xD1499962=缓动可以改变靠近/远离标记时相机的移动速度。
 
 ;0x3F2B7528=Camera movement into the marker will be slowed.
-0x3F2B7528=相机靠近标记时减速。
+0x3F2B7528=相机靠近标记时先快后慢。
 
 ;0x2D71D1B5=Camera movement out of the marker will be slowed.
-0x2D71D1B5=相机远离标记时减速。
+0x2D71D1B5=远离标记时相机先慢后快。
 
 ;0x9BA0AE11=Camera movement into and out of the marker will be slowed.
-0x9BA0AE11=相机向标记内外移动时减速。
+0x9BA0AE11=靠近标记时相机先快后慢，远离标记时相机先慢后快。
 
 ;0x6145FECB=TOOLS: Click to open the tools menu.
-0x6145FECB=工具：点击打开工具菜单。
+0x6145FECB=工具栏：点击打开工具菜单。
 
 ;0xA5BB19F4=Double click to launch the Video Editor where you can combine clips, music, text and transitions to create videos.
 0xA5BB19F4=双击启动视频编辑器，您可以借此组合片段、音乐、文本与转场来创建视频。
@@ -8065,13 +8065,13 @@
 0x17F3FE60=拖动歌曲以改变其在视频中的位置。视频标题下的时间表示歌曲开始播放的时间。
 
 ;0x7F484BD3=The Clip Timeline displays all the clips in a video. To jump to a position on the Storyboard, click on the Clip Timeline.
-0x7F484BD3=片段时间轴会显示视频中的所有片段。点击片段时间轴可跳跃至 Storyboard 的某处。
+0x7F484BD3=片段时间轴会显示视频中的所有片段。点击片段时间轴可跳跃至Storyboard的某处。
 
 ;0xAD8D2860=The Time Scale displays the entire video length and breaks it up into workable segments, making it easy to line up clips, songs and text.
-0xAD8D2860=时间刻度显示视频时长，并将视频分割为可编辑的片段，使排列整理剪辑、歌曲与文本更加容易。
+0xAD8D2860=时间轴上会显示视频时长，并将视频分割为可编辑的小段，使排列整理片段、歌曲与文本更加容易。
 
 ;0x77B43CAB=To add a transition to the video, drag it between clips on the Storyboard. Transitions can only be viewed in exported videos.
-0x77B43CAB=将转场拖入 Storyboard 上的两个之间片段可添加转场效果。转场效果仅能在导出的视频中查看。
+0x77B43CAB=将转场拖入Storyboard上的两个片段之间可添加转场效果。转场效果仅能在导出的视频中查看。
 
 ;0x61F11125=Click to preview your video. Transitions will not be displayed.
 0x61F11125=点击预览您的视频。预览时不会显示转场效果。
@@ -8320,10 +8320,10 @@
 0x7866589E=Rockstar Games Support
 
 ;0x1F6C4CBD=Please enter a video title before saving.~n~To enter a title, double click the title entry box above the storyboard.
-0x1F6C4CBD=保存前请输入视频名称。~n~双击 Storyboard 上方的输入框以输入名称。
+0x1F6C4CBD=保存前请输入视频名称。~n~双击Storyboard上方的输入框输入名称。
 
 ;0x63157439=Please enter a video title before exporting.~n~To enter a title, double click the title entry box above the storyboard.
-0x63157439=导出前请输入视频名称。~n~双击 Storyboard 上方的输入框以输入名称。
+0x63157439=导出前请输入视频名称。~n~双击Storyboard上方的输入框输入名称。
 
 ;0xAA0AB163=Affects video memory and GPU performance.
 0xAA0AB163=影响显存与GPU性能表现。
@@ -15723,13 +15723,13 @@
 0x667EB90E=纵贯中心公园
 
 ;0x554896A2=Length of Algonquin
-0x554896A2=纵贯 Algonquin
+0x554896A2=纵贯Algonquin
 
 ;0x9B05A223=The breadth of Liberty City
 0x9B05A223=横穿自由城
 
 ;0xC9CCFFB1=Liberty City to Carcer City
-0xC9CCFFB1=自由城到 Carcer 城
+0xC9CCFFB1=自由城到卡瑟市
 
 ;0x7F89EB28=Liberty City to the Capital
 0x7F89EB28=自由城到首都
@@ -15765,7 +15765,7 @@
 0x3570488C=可绕火星一周
 
 ;0x4735EC17=Earth to the Moon and Beyond
-0x4735EC17=遥遥 38 万公里的航程
+0x4735EC17=遥遥38万公里的航程
 
 ;0x07F44170=None
 0x07F44170=无
@@ -18741,7 +18741,7 @@
 0x88685437=启用睡眠模式会阻断一切任务呼叫和短信，可能使剧情进度停滞。你确定要启用吗？
 
 ;0xAFFE4048=Are you sure you wish to leave the current game and enter the Video Editor? All unsaved data may be lost.
-0xAFFE4048=你确定要离开当前游戏，启动视频编辑器吗？所有未保存的进度都会丢失。
+0xAFFE4048=您确定要离开当前游戏，启动视频编辑器吗？所有未保存的进度都会丢失。
 
 ;0x591C3C67=Cannot connect to game provider, please try again later.
 0x591C3C67=无法连接至游戏提供者，请稍后再试。
