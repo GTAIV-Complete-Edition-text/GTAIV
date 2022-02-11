@@ -12,7 +12,7 @@
 0x2722BBF3=用~PAD_LSTICK_LEFTRIGHT~调整瞄准角度。~n~按住~PAD_X~微调。~n~按~INPUT_ATTACK~进入击球模式。~n~按~PAD_BACK~切换正常视角。~n~按~INPUT_PICKUP~离开台球桌。~n~~a~
 
 ;0x2A13D29A=~g~Pocket the 8-Ball to win!
-0x2A13D29A=~g~打入8号球以获胜！
+0x2A13D29A=~g~打入8号球即可获胜！
 
 ;0x34CA79CB=You are leaving the pool game, you have ~1~ seconds to return to the pool table or the match will be abandoned.
 0x34CA79CB=你要退出台球比赛了, 你有~1~秒钟返回球桌，否则比赛将被放弃。
