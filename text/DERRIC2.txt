@@ -3,7 +3,7 @@
 0x077AE9FA=~r~Derrick死了。~s~
 
 ;0x0D4CC87A=~s~Follow ~b~Kim.
-0x0D4CC87A=~s~跟着~b~Kim。
+0x0D4CC87A=~s~跟随~b~Kim。
 
 ;0x26495260=Press ~INPUT_ATTACK~ to fire. A rocket will not reach its destination instantly, for moving targets try anticipating where they might move.
 0x26495260=按~INPUT_ATTACK~开火。火箭弹不会立刻击中目标，攻击移动目标时应预判提前量。
@@ -30,7 +30,7 @@
 0x5A1F69A3=~s~回去开~b~船。
 
 ;0x6909077A=~s~Follow ~b~Kim~s~.
-0x6909077A=~s~跟着~b~Kim。
+0x6909077A=~s~跟随~b~Kim。
 
 ;0x6AD7CD69=~s~Don't leave ~b~Derrick~s~ behind.
 0x6AD7CD69=~s~别把~b~Derrick~s~落下。
