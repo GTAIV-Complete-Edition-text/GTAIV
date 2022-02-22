@@ -831,7 +831,7 @@
 0x5491AF55=调整标记位置以改变速度。
 
 ;0x62B84BA2=Speed settings applied, Time Bar recalculated.
-0x62B84BA2=速度设置已应用，进度条已更新。
+0x62B84BA2=速度设置已应用，时间轴已更新。
 
 ;0x81E5F570=Cut
 0x81E5F570=剪切
@@ -7975,7 +7975,7 @@
 0xB12C0FD8=「相机」可对当前标记处的镜头进行设置，存在多种相机与运镜选项。
 
 ;0x6E43EC4B=Alter the playback speed by clicking the presets, or by using the mouse wheel to quick scan. The Time Bar will adjust as it recalculates the length of the clip.
-0x6E43EC4B=点击改变播放速度，亦可通过鼠标滚轮快速浏览所有预设。虽然改变了剪辑时长，但进度条会自动调整。
+0x6E43EC4B=点击改变播放速度，亦可通过鼠标滚轮快速浏览所有预设。虽然改变了剪辑时长，但时间轴会自动调整。
 
 ;0x672C8382=Alter sound effect, music volume, and speech settings by clicking the presets, or by using the mouse wheel to quick scan.
 0x672C8382=点击改变音效、音乐音量，开关对白，亦可通过鼠标滚轮快速浏览所有预设。
@@ -8026,7 +8026,7 @@
 0x26EBDEAC=启用后相机会平滑运动到下一标记的相机位置。
 
 ;0xF98EED98=Applies varying levels of camera shake to mimic a handheld camera.
-0xF98EED98=可以通过不同的晃动等级模拟手持相机拍摄。
+0xF98EED98=可以通过不同的晃动程度模拟手持相机拍摄。
 
 ;0x352E7B31=An Orbit movement travels in an arc around the target between marker positions.
 0x352E7B31=轨道运动会以环绕目标的圆周轨迹在标记位置间移动。
@@ -8041,7 +8041,7 @@
 0xD1499962=缓动可以改变靠近/远离标记时相机的移动速度。
 
 ;0x3F2B7528=Camera movement into the marker will be slowed.
-0x3F2B7528=相机靠近标记时先快后慢。
+0x3F2B7528=靠近标记时相机先快后慢。
 
 ;0x2D71D1B5=Camera movement out of the marker will be slowed.
 0x2D71D1B5=远离标记时相机先慢后快。
@@ -14944,7 +14944,7 @@
 0x26E48D62=你离~b~Brian~s~太远了。确保他一直跟你在一起。
 
 ;0x7C05B773=You cannot interact with people in the street when you have a wanted level.
-0x7C05B773=你无法在被通缉时与路人互动。
+0x7C05B773=被通缉时不能与路人互动。
 
 ;0x95BCEAE1=Wait for Brian.
 0x95BCEAE1=等待Brian。
@@ -25119,7 +25119,7 @@
 0x126D7229=之前我去Grand Easton站旁边的Fanny Crab's吃饭的时候看见了这辆Rebla。你去看看是不是还停在那儿。
 
 ;0x507DEE3D=I want this Sabre GT. Guy who owns this beauty lives somewhere near the Meadows Park towers.
-0x507DEE3D=我想要这辆Sabre GT。这个美人的主人住在Meadows Park的塔楼附近。
+0x507DEE3D=我想要这辆Sabre GT。这个美人的主人住在Meadows Park的节庆塔附近。
 
 ;0x203B0DB8=You'll find this Sentinel parked by the docks in Normandy.
 0x203B0DB8=你可以在Normandy的港口附近找到这辆Sentinel。
@@ -28128,7 +28128,7 @@
 0x08EE991D=~z~~x~东岛城。
 
 ;0x5908119C=~z~~x~Meadows Park.
-0x5908119C=~z~~x~Meadows Park。
+0x5908119C=~z~~x~草地公园。
 
 ;0xA02C4B7F=~z~~x~Meadow Hills.
 0xA02C4B7F=~z~~x~Meadow Hills。
@@ -28314,7 +28314,7 @@
 0xB6B0C4E8=~z~~x~Algonquin大桥。
 
 ;0xE1122BBA=~z~~x~East Borough Bridge.
-0xE1122BBA=~z~~x~East Borough大桥。
+0xE1122BBA=~z~~x~东区大桥。
 
 ;0x6C951C9E=~z~~x~Dukes Bay Bridge.
 0x6C951C9E=~z~~x~Dukes Bay大桥。
