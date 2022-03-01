@@ -13972,10 +13972,10 @@
 0x6FF8F151=正在连接至无线设备...
 
 ;0xCACA464B=Wireless Device Connected.
-0xCACA464B=无线设备已连接。
+0xCACA464B=无线设备已连接
 
 ;0xD75CE0CE=Error Connecting to Server.
-0xD75CE0CE=连接服务器时出错。
+0xD75CE0CE=连接服务器时出错
 
 ;0x02EDD775=NAME
 0x02EDD775=姓名
@@ -13999,10 +13999,10 @@
 0x10EB02B5=罪名
 
 ;0x40056F8D=File being updated.
-0x40056F8D=正在上传文件。
+0x40056F8D=正在上传文件...
 
 ;0x2956422F=Check again later.
-0x2956422F=请稍后再试。
+0x2956422F=请稍后再试
 
 ;0x36DD31A4=Missing
 0x36DD31A4=失踪
@@ -14011,7 +14011,7 @@
 0x36E6BB97=被捕
 
 ;0x5A4FDCB0=No Photos Found.
-0x5A4FDCB0=未发现照片。
+0x5A4FDCB0=未发现照片
 
 ;0x979D2EC0=Nothing.
 0x979D2EC0=无。
@@ -17937,7 +17937,7 @@
 0x0F931E0C=CNT新花魁
 
 ;0x350AE8FB=Rusty Brown
-0x350AE8FB=Rusty Brown甜品
+0x350AE8FB=Rusty Brown甜甜圈
 
 ;0x1431B248=Standard Ring
 0x1431B248=默认铃声
@@ -22830,7 +22830,7 @@
 0x4F00A45B=McReary兄弟之死
 
 ;0x0A619B1E=Immigration Shocker
-0x0A619B1E=移民震惊
+0x0A619B1E=恐怖移民
 
 ;0x964A32ED=Counterfeit Bills
 0x964A32ED=假钞来袭
@@ -22857,7 +22857,7 @@
 0x449853C4=娱乐战争
 
 ;0x6BD274C8=Shoe Liberals!
-0x6BD274C8=拜拜自由派！
+0x6BD274C8=鞋子自由派！
 
 ;0xD0812666=Dawkins Disappoints
 0xD0812666=Dawkins竟然...
@@ -22929,7 +22929,7 @@
 0x45565731=大桥解封
 
 ;0x8EDC2AAD=Friendship 2.0
-0x8EDC2AAD=友谊之舟2.0
+0x8EDC2AAD=友谊的小船2.0
 
 ;0xC51057CF=McReary Dead
 0xC51057CF=McReary死了
@@ -23085,16 +23085,16 @@
 0x53D81317=今天天气晴朗，但有强风。注意了各位，甚至能闻到 Alderney 的臭味。
 
 ;0x8C05036C=Overcast today, a storm may be blowing, are you prepared? It might be time to get scared and irrational, keep watching Weazel for updates.
-0x8C05036C=今天是个阴天，暴风雨或将来临，你准备好了吗？是时候抛弃理性开始害怕了。关注 Weazel 获取最新消息。
+0x8C05036C=今天是个阴天，暴风雨或将来临，你准备好了吗？是时候抛弃理性开始害怕了。关注Weazel获取最新消息。
 
 ;0xC23C6FDA=It's raining out there folks, let's hope it washes away some of the liberal garbage and amoral sludge that runs through Liberty City's streets.
 0xC23C6FDA=现在正在下雨，各位。希望这场雨能冲走自由城街头巷尾的自由派废物和没良心人渣。
 
 ;0xF6725845=Nothing but a pathetic drizzle out there today, nothing to worry about. When it's time to worry, Weazel will let you know first.
-0xF6725845=今天只是一场小雨，无需担心。该担心的时候， Weazel 会立刻通知你的。
+0xF6725845=今天只是一场小雨，无需担心。该担心的时候，Weazel会立刻通知你的。
 
 ;0x9CF5A54D=Who says be kind to the environment? It's no friend to us. The fog out there is denser than a jury on a celebrity murder trial, yep, you'll need a powerful, American SUV to cut through this.
-0x9CF5A54D=有必要对自然环境友好吗？它又不是我们的朋友。外面的雾现在比名人谋杀案的陪审团的脸皮都厚。没错，只有动力强劲的国产 SUV 才能助你前进。
+0x9CF5A54D=有必要对自然环境友好吗？它又不是我们的朋友。外面的雾现在比名人谋杀案的陪审团的脸皮都厚。没错，只有动力强劲的国产SUV才能助你前进。
 
 ;0xD52095A2=There are bolts from the heavens showering down on Liberty City, to some, static electricity; to others, a display of His anger at the sins of mankind - you decide.
 0xD52095A2=自由城上空天雷滚滚。有人认为是静电现象，有人认为是人类罪行引起神怒——自己选吧。
@@ -23637,7 +23637,7 @@
 0x8D3D72A4=Niko，兄弟，要接活，打给我。就这样 - LJ
 
 ;0x32AC3D83=You ignored my calls, breda. I and I needed to be taken home from hospital. Badman came pick me up instead. - Jacob
-0x32AC3D83=你无视了我的电话，兄弟。当时我需要有人来医院接我回家。最后是 Badman 过来接的我。 - Jacob
+0x32AC3D83=你无视了我的电话，兄弟。当时我需要有人来医院接我回家。最后是Badman过来接的我。 - Jacob
 
 ;0x69D5ABD5=Cha! I still vexed about that dogheart Dimitri. You got them rude driving skills to get I and I away from there! Keep ya head down and keep in touch. Easy - LJ
 0x69D5ABD5=操！我还是很生那个狼心狗肺的Dimitri的气。能把咱俩从那儿弄出来，你的车技真是够牛！低调行事，保持联络。就这样 - LJ
@@ -23655,7 +23655,7 @@
 0xBB2D39AA=妈的，Niko。坚强点，好吗？我会找到这个混账的！你先去整点重武器啥的，我到时候给你打电话。要不是我没车，我就直接把他们送到你面前了。就这样 - LJ
 
 ;0xA0F20534=Niko, give I a call if you need some cash. I and Badman usually got some jobs. Easy - LJ
-0xA0F20534=Niko，你要是需要钱就打给我。我和 Badman 这儿一般都有活可干。就这样 - LJ
+0xA0F20534=Niko，你要是需要钱就打给我。我和Badman这儿一般都有活可干。就这样 - LJ
 
 ;0xD03FE3CF=I got an escape plan for you, star. Keep your eyes on the sky, sight?
 0xD03FE3CF=我准备好撤退方案了，老兄。注意着点天上，好吗？
@@ -23955,7 +23955,7 @@
 0xB2D88B0F=我登了下你的号。改到明天半夜去见French Tom了。记得去，你个大嫖客。 - B
 
 ;0xE43E6DDA=I logged on as you. French Tom will meet you later in the week. Be there you cock hound. - B
-0xE43E6DDA=我登了下你的号。French Tom这周会跟你见面的。记得去，你个大嫖客。
+0xE43E6DDA=我登了下你的号。French Tom这周会跟你见面的。记得去，你个大嫖客。 - B
 
 ;0xCD6B4034=Niko. You dropped me. - B
 0xCD6B4034=Niko。你丢下了我。 - B
@@ -24708,7 +24708,7 @@
 0xC4008D01=我都不敢相信之前我不再替你办事了，宝贝。你离不开我就像我离不开你。如果你需要我在地检那边的关系，打个电话过来。 xoxo
 
 ;0x8CE49EAA=This relationship means so so so much to me, Niko. If anyone in the LCPD tries to touch you I'll have his f - ing balls. Just call me. xoxo
-0x8CE49EAA=我们之间的感情对我太太太重要了，Niko。要是LCPD里有人想动你一根毫毛，我就会打爆他的--蛋。需要了就找我。 xoxo
+0x8CE49EAA=我们之间的感情对我太太太重要了，Niko。要是LCPD里有人想动你一根毫毛，我就会打爆他的**蛋。需要了就找我。 xoxo
 
 ;0x9A923A05=PLACEHOLDER
 0x9A923A05=PLACEHOLDER
@@ -24765,13 +24765,13 @@
 0xFA85F23D=Carmen
 
 ;0x8485C47C=Papi, why you no come meet Carmen? She was waiting.
-0x8485C47C=爸爸，你怎么不来找Carmen？她一直在等你。
+0x8485C47C=帅哥，你怎么不来找Carmen？她一直在等你。
 
 ;0x32BEA0EF=Papi, Carmen waited for you, but you no come. You better have a good excuse.
-0x32BEA0EF=爸爸，Carmen在等你，但你没有来。你最好是有正当理由。
+0x32BEA0EF=帅哥，Carmen在等你，但你没有来。你最好是有正当理由。
 
 ;0xAC881490=Papi, what happened? Why you no meet Carmen? She got her hair did and everything.
-0xAC881490=爸爸，怎么了？你怎么不来找Carmen？她做了头发，做了一切准备。
+0xAC881490=帅哥，怎么了？你怎么不来找Carmen？她做了头发，做了一切准备。
 
 ;0xDA4BF017=Carmen don't get stood up. You an asshole for not meeting her.
 0xDA4BF017=Carmen不接受被放鸽子。不来见她是你混蛋。
@@ -24783,13 +24783,13 @@
 0x816FBE50=这是我最后一次特意为你做比基尼线脱毛了，混蛋。
 
 ;0xFF6D3A59=Papi, Carmen can't spend her whole time talking to you. Maybe don't call her for a while.
-0xFF6D3A59=爸爸，Carmen也不能一直跟你聊电话啊。暂时先别找她了吧。
+0xFF6D3A59=帅哥，Carmen也不能一直跟你聊电话啊。暂时先别找她了吧。
 
 ;0xE61307A5=Papi. Carmen real busy at the moment. Why don't you think about how special she is for a few days then call her.
-0xE61307A5=爸爸，Carmen现在真的很忙。你怎么不想几天她有多特别，再打电话找她。
+0xE61307A5=帅哥，Carmen现在真的很忙。你怎么不想几天她有多特别，再打电话找她。
 
 ;0x13E0E340=Papi, Carmen got stuff to do for a while. Call another time.
-0x13E0E340=爸爸，Carmen现在有事要忙。过会儿再打过来吧。
+0x13E0E340=帅哥，Carmen现在有事要忙。过会儿再打过来吧。
 
 ;0xE0F5EB90=You loco, boy. Stop calling Carmen so much.
 0xE0F5EB90=你这疯子，小子。别这么频繁地打电话找Carmen。
@@ -24801,22 +24801,22 @@
 0xC38230A9=Carmen不喜欢一直接到电话，你吓到她了。她可能需要跟她的摩托帮朋友或者门卫朋友说下你了。冷静冷静吧。
 
 ;0x280B79BE=Papi, Carmen wants to get taken out and treated special. Call her.
-0x280B79BE=爸爸，Carmen想被你带出去，被你特殊对待。快打电话找她。
+0x280B79BE=帅哥，Carmen想被你带出去，被你特殊对待。快打电话找她。
 
 ;0xB9B21D09=Papi, Carmen needs to forget about all the horrible sick people she had to see today. Call her and take her out.
-0xB9B21D09=爸爸，Carmen需要忘记今天她被迫见到的那些变态烂人。打电话找她，带她出去玩吧。
+0xB9B21D09=帅哥，Carmen需要忘记今天她被迫见到的那些变态烂人。打电话找她，带她出去玩吧。
 
 ;0x638D70BD=Papi, Carmen had her hair done and her nails and her bikini line. Don't you want to enjoy it. Call her and take her out.
-0x638D70BD=爸爸，Carmen特意做了头发、指甲，还有比基尼线。你不想来品尝一下吗。打电话找她，带她出去玩吧。
+0x638D70BD=帅哥，Carmen特意做了头发、指甲，还有比基尼线。你不想来品尝一下吗。打电话找她，带她出去玩吧。
 
 ;0xF565146E=Hey Papi, don't you think this face could be on the front of a magazine or something?
-0xF565146E=嘿，爸爸，你看这张漂亮的脸是不是可以上杂志封面了？
+0xF565146E=嘿，帅哥，你看这张漂亮的脸是不是可以上杂志封面了？
 
 ;0x480FB9C2=Papi, you like my tits don't you? They better than most celebrities'. Why ain't Carmen famous yet?
-0x480FB9C2=爸爸，你很喜欢我的奶子吧？我的可比绝大多数名流都棒，可Carmen怎么还没出名呢？
+0x480FB9C2=帅哥，你很喜欢我的奶子吧？我的可比绝大多数名流都棒，可Carmen怎么还没出名呢？
 
 ;0x59D15D45=Papi, you are so lucky. Carmen hasa got to be the hottest girl in this city.
-0x59D15D45=爸爸，你真幸运。毕竟Carmen一定是自由城最性感的女孩。
+0x59D15D45=帅哥，你真幸运。毕竟Carmen一定是自由城最性感的女孩。
 
 ;0x5076C948=Don't bother calling Carmen about no medical problems no more. She got better things to do than talk to your sick ass.
 0x5076C948=别再找Carmen解决医疗问题了。比起跟你这种烂人聊天，她有的是更好的选择。
@@ -24825,10 +24825,10 @@
 0x6625F4A6=Carmen每天处理工作上的烂人就够心累了。她不想听再你这个混蛋抱怨来抱怨去了。别再找她疗伤了。
 
 ;0x4D00425F=Okay, Papi. Carmen gonna help you out if you need it. Coz you being so nice to her she'll give you health advice when you call her.
-0x4D00425F=好了，爸爸。如果你有需要，Carmen就会帮你的。因为你对她很好，所以你打电话找她她就会给你提供医疗建议。
+0x4D00425F=好了，帅哥。如果你有需要，Carmen就会帮你的。因为你对她很好，所以你打电话找她她就会给你提供医疗建议。
 
 ;0x5C69E132=Carmen has got to be the best thing ever happened to you, papi. She gonna help you with her nursing again. Just call her when you need help.
-0x5C69E132=遇见Carmen一定是你最美好的经历，爸爸。她会用她的护士技能帮助你的。有需要了就打电话找她。
+0x5C69E132=遇见Carmen一定是你最美好的经历，帅哥。她会用她的护士技能帮助你的。有需要了就打电话找她。
 
 ;0xA9607B1A=PLACEHOLDER
 0xA9607B1A=PLACEHOLDER
@@ -24855,13 +24855,13 @@
 0x9A55E421=PLACEHOLDER
 
 ;0x6251F41A=It's over, Papi. Stay away from Carmen.
-0x6251F41A=都结束了，爸爸。就此告别Carmen吧。
+0x6251F41A=都结束了，帅哥。就此告别Carmen吧。
 
 ;0x511751A5=Papi, Carmen can't see you no more. She needs to be free.
-0x511751A5=爸爸，Carmen不能再和你约会了。她需要自由自在的生活。
+0x511751A5=帅哥，Carmen不能再和你约会了。她需要自由自在的生活。
 
 ;0x8EF6CD5F=Carmen has to end things, Papi. At least you had her for a while...
-0x8EF6CD5F=Carmen必须要做个了断了，爸爸。至少你曾经拥有过她...
+0x8EF6CD5F=Carmen必须要做个了断了，帅哥。至少你曾经拥有过她...
 
 ;0x7464688C=Kate
 0x7464688C=Kate
@@ -25083,7 +25083,7 @@
 0xDEC78C46=我需要你给我弄一辆Dukes，车在East Holland的Vauxite街。
 
 ;0x9105F0C0=There's always a Contender parked by Twitchin's in Boabo.
-0x9105F0C0=Boabo边上的Twitchin's制糖厂那里一直停着辆Contender。
+0x9105F0C0=BOABO边上的Twitchin's制糖厂那里一直停着辆Contender。
 
 ;0x8465577F=This little Faggio is always by the Dragon Heart Plaza in China Town. It's on Diamond Street.
 0x8465577F=这辆小Faggio一直都停在唐人街的龙心广场那边，Diamond街上。
@@ -25110,7 +25110,7 @@
 0xA04A8DDD=Castle Gardens有一辆Patriot，停在双子塔附近。
 
 ;0x849D567F=This PMP 600 is always parked down a lane in The Exchange district. It's just asking to be swiped.
-0x849D567F=这辆PMP 600平时都停在The Exchange的一条路上。摆明是等着人偷。
+0x849D567F=这辆PMP 600平时都停在证交区(The Exchange)的一条路上。摆明是等着人偷。
 
 ;0x04A2D694=A guy at Liberty State Delivery by the docks in Port Tudor drives this Rancher. Bring it here.
 0x04A2D694=这辆Rancher平常是一个自由州物流的工人开的，在Tudor港的码头附近。把车弄来。
@@ -25119,7 +25119,7 @@
 0x126D7229=之前我去Grand Easton站旁边的Fanny Crab's吃饭的时候看见了这辆Rebla。你去看看是不是还停在那儿。
 
 ;0x507DEE3D=I want this Sabre GT. Guy who owns this beauty lives somewhere near the Meadows Park towers.
-0x507DEE3D=我想要这辆Sabre GT。这个美人的主人住在Meadows Park的节庆塔附近。
+0x507DEE3D=我想要这辆Sabre GT。这个美人的主人住在草地公园(Meadows Park)的节庆塔附近。
 
 ;0x203B0DB8=You'll find this Sentinel parked by the docks in Normandy.
 0x203B0DB8=你可以在Normandy的港口附近找到这辆Sentinel。
