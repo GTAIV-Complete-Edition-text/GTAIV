@@ -1,7 +1,4 @@
-﻿;注：
-;1、含Beta文本 没翻的都是 无视即可
-
-[MF14AUD]
+﻿[MF14AUD]
 ;0x015EEA7F=~z~There isn't any good way to go though, is there?
 0x015EEA7F=~z~不过也没什么舒服的死法，不是吗？
 
@@ -75,7 +72,7 @@
 0x18CFF0EC=~z~你还记得我哥哥Derrick吗，银行那票的时候一起的？
 
 ;0x191A4E68=~z~I might come from a religious family, but I ain't gonna take some chick down the aisle 'cause she ain't looking after herself.
-0x191A4E68=~z~I might come from a religious family, but I ain't gonna take some chick down the aisle 'cause she ain't looking after herself.
+0x191A4E68=~z~虽然我家信教，但我不会因为娘们没做好安全措施就娶她回家。
 
 ;0x19858A0F=~z~Hey.
 0x19858A0F=~z~嘿。
@@ -156,7 +153,7 @@
 0x32D680B7=MF6_A_KH
 
 ;0x33F98426=~z~So when's the fucking wedding?
-0x33F98426=~z~So when's the fucking wedding?
+0x33F98426=~z~哪天喝喜酒啊？
 
 ;0x346002F6=MF6_A_KB
 0x346002F6=MF6_A_KB
@@ -219,7 +216,7 @@
 0x45C6A463=MF6_A_KC
 
 ;0x47CD2BCD=~z~I don't know. Did you get one of those cheap sluts you go home with pregnant?
-0x47CD2BCD=~z~I don't know. Did you get one of those cheap sluts you go home with pregnant?
+0x47CD2BCD=~z~不知道。你把带回家的妓女肚子搞大了？
 
 ;0x49F1A612=MF6_A_KI
 0x49F1A612=MF6_A_KI
@@ -381,7 +378,7 @@
 0x7DE46EDB=MF6_A_NH
 
 ;0x80969D5F=~z~Sure, Niko. Keep telling yourself that.
-0x80969D5F=~z~Sure, Niko. Keep telling yourself that.
+0x80969D5F=~z~行，Niko。你就自己骗自己吧。
 
 ;0x80AB0B7F=MF6_A_QD
 0x80AB0B7F=MF6_A_QD
@@ -474,7 +471,7 @@
 0x9CF63AE6=~z~请留言。
 
 ;0x9D075640=~z~Anyways, I weren't talking about me. When are you making an honest woman of my sister?
-0x9D075640=~z~Anyways, I weren't talking about me. When are you making an honest woman of my sister?
+0x9D075640=~z~再说了，我问的是你。你什么时候跟我妹妹结婚？
 
 ;0x9DB43124=MF6_A_SC
 0x9DB43124=MF6_A_SC
@@ -534,7 +531,7 @@
 0xAE1BB4DF=~z~That's unless you want to listen to an old man cough his lungs out.
 
 ;0xAF557ADC=~z~Kate and I are just friends. That's all Packie.
-0xAF557ADC=~z~Kate and I are just friends. That's all Packie.
+0xAF557ADC=~z~Kate和我只是普通朋友。没别的，Packie。
 
 ;0xAFDBEDF7=100010100100010100
 0xAFDBEDF7=100010100100010100
