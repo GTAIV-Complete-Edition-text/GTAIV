@@ -25,7 +25,7 @@
 0x05FFE0C5=~z~我是在想你干掉教堂前的那群杀手是为了保护我妹妹。
 
 ;0x069234DA=~z~They've sent a whole van load. Hold 'em back, Niko.
-0x069234DA=~z~They've sent a whole van load. Hold 'em back, Niko.
+0x069234DA=~z~他们派了一车人过来。干掉他们，Niko。
 
 ;0x07247304=FM6_A_EA
 0x07247304=FM6_A_EA
@@ -49,7 +49,7 @@
 0x0A1579EC=FM6_ZC
 
 ;0x0A9A6A08=~z~Go, go, go, go.
-0x0A9A6A08=~z~Go, go, go, go.
+0x0A9A6A08=~z~走，走，走，走。
 
 ;0x0AFC3C3F=~z~They're really giving it to us, Niko.
 0x0AFC3C3F=~z~他们是真的想搞我们，Niko。
@@ -97,7 +97,7 @@
 0x1A94A7B9=~z~看来他们没有再追上来了，谢他妈的。
 
 ;0x1B71F5C9=~z~Watch the car coming along the sidewalk, Niko.
-0x1B71F5C9=~z~Watch the car coming along the sidewalk, Niko.
+0x1B71F5C9=~z~当心人行道上过来的车，Niko。
 
 ;0x1B9A3E44=~z~I don't reckon they can throw much more at us.
 0x1B9A3E44=~z~我不觉得他们还能发动更多攻势。
@@ -115,7 +115,7 @@
 0x21A069C3=~z~当然可以，Packie。
 
 ;0x21CF4B4D=~z~Fuck. Francis was an asshole but he didn't deserve to end up on the road like that.
-0x21CF4B4D=~z~Fuck. Francis was an asshole but he didn't deserve to end up on the road like that.
+0x21CF4B4D=~z~操。Francis确实是混蛋，但也不用让他横尸街头吧。
 
 ;0x21E716DC=010100
 0x21E716DC=010100
@@ -253,7 +253,7 @@
 0x4633DE28=FM6_HB
 
 ;0x46D52FF8=~z~Don't let 'em get my family, Niko.
-0x46D52FF8=~z~Don't let 'em get my family, Niko.
+0x46D52FF8=~z~别让他们伤害我的家人，Niko。
 
 ;0x47784A95=392
 0x47784A95=392
@@ -289,7 +289,7 @@
 0x4C10A6F6=~z~注意巷子，Niko。火力覆盖那条狗屁巷子。
 
 ;0x4C4C404D=~z~Jesus, they're coming out of that van. Keep 'em away from the church.
-0x4C4C404D=~z~Jesus, they're coming out of that van. Keep 'em away from the church.
+0x4C4C404D=~z~天哪，他们从车上下来了。别让他们靠近教堂。
 
 ;0x4E18CFBB=400040400040040040400
 0x4E18CFBB=400040400040040040400
@@ -361,7 +361,7 @@
 0x628701F7=FM6_YP
 
 ;0x62D56D5F=~z~Watch that van, Niko. There's more of 'em coming out.
-0x62D56D5F=~z~Watch that van, Niko. There's more of 'em coming out.
+0x62D56D5F=~z~注意车子，Niko。又是他们的人。
 
 ;0x62EE3150=~z~This has got to be about the deal Gerry fucked up between the Ancelottis and those Albanians.
 0x62EE3150=~z~这肯定和Gerry搞乱Ancelotti家族和阿尔巴尼亚人的事情有关系。
@@ -421,7 +421,7 @@
 0x6C4ABE1F=FM6_A_EB
 
 ;0x6CAD983F=~z~Shit, there's a car coming along the sidewalk.
-0x6CAD983F=~z~Shit, there's a car coming along the sidewalk.
+0x6CAD983F=~z~妈的，人行道上有车过来了。
 
 ;0x6DAE16EF=~z~They've sent more of the bastards.
 0x6DAE16EF=~z~他们派来了更多混蛋。
@@ -490,7 +490,7 @@
 0x7ECF6A32=FM6_ZA
 
 ;0x7F373D52=~z~They're coming along the sidewalk, Niko. Hold fast.
-0x7F373D52=~z~They're coming along the sidewalk, Niko. Hold fast.
+0x7F373D52=~z~他们从人行道过来了，Niko。快点。
 
 ;0x8042B640=~z~Niko. My brother's about to hit the road.
 0x8042B640=~z~Niko，我哥哥要掉地上了。
@@ -565,7 +565,7 @@
 0x9021DE1A=~z~很久以前我就对哥哥们死心了。
 
 ;0x91086592=~z~You fucked up a good thing, McRearys.
-0x91086592=~z~You fucked up a good thing, McRearys.
+0x91086592=~z~我们的生意被搅了，McReary家族。
 
 ;0x918F4963=~z~We ain't looking pretty, man.
 0x918F4963=~z~情况不太妙啊，兄弟。
@@ -580,7 +580,7 @@
 0x92B5D1D2=~z~屁，你个欧洲白痴，我说的是我哥，Francis。就是开个玩笑。
 
 ;0x935661BC=~z~Jesus, how'd that fuckin' happen?
-0x935661BC=~z~Jesus, how'd that fuckin' happen?
+0x935661BC=~z~天哪，怎么会这样？
 
 ;0x948C241B=~z~but he was a committed family man,
 0x948C241B=~z~但他是一个尽心尽力的顾家男人，
@@ -676,7 +676,7 @@
 0xAE38246E=~z~葬礼诶，天哪－一群败类！
 
 ;0xAE81B1D4=~z~Come on, move it.
-0xAE81B1D4=~z~Come on, move it.
+0xAE81B1D4=~z~快点，动啊。
 
 ;0xAEB8078D=~z~Alright, we're fucking here. Let's bury this bastard.
 0xAEB8078D=~z~好了，终于他妈到了。把这混蛋埋了吧。
@@ -805,7 +805,7 @@
 0xCDB47A83=~z~又是一车，Niko。这是有备而来的袭击。
 
 ;0xCE0B5725=~z~Christ, that didn't have to happen.
-0xCE0B5725=~z~Christ, that didn't have to happen.
+0xCE0B5725=~z~天哪，不该这样的。
 
 ;0xCEB0BEF3=FM6_ZJ
 0xCEB0BEF3=FM6_ZJ
@@ -847,7 +847,7 @@
 0xD82A20E3=FM6_A_HC
 
 ;0xD94C076C=~z~What are you waiting for? Go!
-0xD94C076C=~z~What are you waiting for? Go!
+0xD94C076C=~z~你还在等什么？快走啊！
 
 ;0xDB26B1EF=100
 0xDB26B1EF=100
@@ -880,7 +880,7 @@
 0xE16B6F38=~z~大概是当上条子对兄弟关系造成的影响吧。
 
 ;0xE1DFCC40=~z~More people didn't have to die at a McReary funeral. I'll see you round.
-0xE1DFCC40=~z~More people didn't have to die at a McReary funeral. I'll see you round.
+0xE1DFCC40=~z~McReary家的葬礼上不应该死这么多人的。再见了。
 
 ;0xE1E17865=~z~that is why God put us on earth and not in heaven.
 0xE1E17865=~z~因此上帝才会将我们置于大地而非天堂。
@@ -910,7 +910,7 @@
 0xEA19334C=~z~靠，看来还有更多人来。干他们，Niko。
 
 ;0xEA6A7718=~z~Cover my family, Niko.
-0xEA6A7718=~z~Cover my family, Niko.
+0xEA6A7718=~z~保护我的家人，Niko。
 
 ;0xEAB59340=~z~Oh my God get the hell out of the way!
 0xEAB59340=~z~噢上帝，不要挡在里边！
@@ -937,7 +937,7 @@
 0xEF2AE566=~z~应该不会再来一波了吧，对吧？
 
 ;0xEF95E7AC=~z~You're fucking right it's a hard day.
-0xEF95E7AC=~z~You're fucking right it's a hard day.
+0xEF95E7AC=~z~我今天是很难过。
 
 ;0xEFCB0BD0=FM6_NA
 0xEFCB0BD0=FM6_NA

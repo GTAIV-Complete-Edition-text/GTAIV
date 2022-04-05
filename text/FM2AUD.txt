@@ -19,7 +19,7 @@
 0x00D7F3CF=~z~别是在浴室里。
 
 ;0x012BB67E=~z~Oh! Objection...
-0x012BB67E=~z~Oh! Objection...
+0x012BB67E=~z~哦！我反对...
 
 ;0x014DC18B=FM2_KA
 0x014DC18B=FM2_KA
@@ -73,7 +73,7 @@
 0x0DBD9D48=FM2_NG
 
 ;0x0EC7D2A5=~z~Just one second there. Just one little second, okay?
-0x0EC7D2A5=~z~Just one second there. Just one little second, okay?
+0x0EC7D2A5=~z~你等一下，稍微等一下好吗？
 
 ;0x1040EE84=~z~Sure...
 0x1040EE84=~z~确实...
@@ -103,7 +103,7 @@
 0x13F90858=~z~我们打算尽快为您安排面试。
 
 ;0x1426AB39=~z~Security! Security! Someone help me!
-0x1426AB39=~z~Security! Security! Someone help me!
+0x1426AB39=~z~保安！保安！快来人啊！
 
 ;0x1475ED5C=~z~Standing up, assertive move, right. I like a man who takes control.
 0x1475ED5C=~z~站起来了，很有自信的举措，对吧。我喜欢控制力强的人。
@@ -256,7 +256,7 @@
 0x3A8B431C=~z~是吗？
 
 ;0x3B3AF961=~z~Security! Security! Someone help me!
-0x3B3AF961=~z~Security! Security! Someone help me!
+0x3B3AF961=~z~保安！保安！快来人啊！
 
 ;0x3B5FD725=~z~I can free that period up in my schedule.
 0x3B5FD725=~z~我可以在日程里空出那段时间。
@@ -371,7 +371,7 @@
 0x4D0752D7=FM2_PA
 
 ;0x4D822037=~z~I don't like people who cut corners, Nikolai.
-0x4D822037=~z~I don't like people who cut corners, Nikolai.
+0x4D822037=~z~我不喜欢偷工减料的人，Nikolai。
 
 ;0x4E4A55E3=~z~slowly rotting in a hot kitchen...
 0x4E4A55E3=~z~在闷热的厨房里缓慢腐烂、变质...
@@ -503,7 +503,7 @@
 0x6807F506=~z~他们当然聪明，所以才他妈能从你身上把钱都给榨出来。
 
 ;0x6914980F=~z~They ain't gonna take you seriously without one on.
-0x6914980F=~z~They ain't gonna take you seriously without one on.
+0x6914980F=~z~不穿正装他们都不会理你。
 
 ;0x694487AD=~z~Man, you bring one of those into court and no one's going to raise any objections to your opening statement.
 0x694487AD=~z~老兄，你要是带了这玩意进法庭，你的开庭陈述绝对不会有人敢提出反对。
@@ -680,7 +680,7 @@
 0x8B036B10=FM2_TA
 
 ;0x8BB14B87=~z~Ow, I should have stayed at the DA's office...
-0x8BB14B87=~z~Ow, I should have stayed at the DA's office...
+0x8BB14B87=~z~唉，就该呆在地方检察官的办公室的...
 
 ;0x8BC89485=~z~Music to my ears, a weight has been lifted. Here's your payment.
 0x8BC89485=~z~天籁之音啊，解了我的一个心头大患。这是你的报酬。
@@ -776,7 +776,7 @@
 0x9B7C5202=~z~Bellic先生，欢迎。我要看一下Goldberg先生是否有空。
 
 ;0x9B7F7CE4=~z~And remember to wear a suit.
-0x9B7F7CE4=~z~And remember to wear a suit.
+0x9B7F7CE4=~z~别忘了穿正装。
 
 ;0x9BA0D155=FM2_SA
 0x9BA0D155=FM2_SA
@@ -788,7 +788,7 @@
 0x9CCDBBC1=~z~嘿，Mitch...气色不错啊。
 
 ;0x9CFAEE1A=~z~I just wanted to make the world into a better place.
-0x9CFAEE1A=~z~I just wanted to make the world into a better place.
+0x9CFAEE1A=~z~我只是想让社会变得更好。
 
 ;0x9D1D442D=010010100100
 0x9D1D442D=010010100100
@@ -944,7 +944,7 @@
 0xC15715DE=~z~我不会跟你打架的。
 
 ;0xC1A18918=~z~Mr. Bellic, you're gonna have to sit down.
-0xC1A18918=~z~Mr. Bellic, you're gonna have to sit down.
+0xC1A18918=~z~Bellic先生，麻烦你坐下。
 
 ;0xC1C1D2D5=100010
 0xC1C1D2D5=100010
@@ -1070,7 +1070,7 @@
 0xD6ECEFA8=~z~枪支不会杀人，电子游戏才会。
 
 ;0xD7577CB2=~z~I'm the guy who goes around shaking people. When I say people, I mean society.
-0xD7577CB2=~z~I'm the guy who goes around shaking people. When I say people, I mean society.
+0xD7577CB2=~z~我就是到处奔走和人握手的人。所谓的人，就是社会上的人。
 
 ;0xD76D3A01=FM2_QB
 0xD76D3A01=FM2_QB
@@ -1151,13 +1151,13 @@
 0xE3CE3229=FM2_A_NA
 
 ;0xE416CE02=~z~Is there a problem, why aren't you sitting?
-0xE416CE02=~z~Is there a problem, why aren't you sitting?
+0xE416CE02=~z~什么情况，你站起来干嘛？
 
 ;0xE4C4673A=~z~Come into our offices at noon today. Is that alright?
 0xE4C4673A=~z~今天中午来我们的事务所，可以吗？
 
 ;0xE5431889=~z~I shake them and I say "floss!" Get rid of the decay.
-0xE5431889=~z~I shake them and I say "floss!" Get rid of the decay.
+0xE5431889=~z~我和他们握手，然后说「牙线！」除掉腐败吧。
 
 ;0xE6DC6180=FM2_OA
 0xE6DC6180=FM2_OA
@@ -1224,7 +1224,7 @@
 0xF1C23BF9=~z~Modupe！Modupe，进来！你能把这位先生从楼里赶出去吗？
 
 ;0xF2656A9F=~z~Can you take seat, Mr. Bellic?
-0xF2656A9F=~z~Can you take seat, Mr. Bellic?
+0xF2656A9F=~z~你能坐下吗，Bellic先生？
 
 ;0xF2C0F442=~z~I'm doing it now. Be patient.
 0xF2C0F442=~z~I'm doing it now. Be patient.
