@@ -1764,7 +1764,7 @@
 0x9FAC1ED3=格斗
 
 ;0xDD108DC0=GENERAL
-0xDD108DC0=通常
+0xDD108DC0=通用
 
 ;0x1ACC5D8C=WEAPONS
 0x1ACC5D8C=武器
@@ -23157,16 +23157,16 @@
 0x9CFC4BEB=立刻寻找真爱
 
 ;0x90486914=WARNING!
-0x90486914=警告！
+0x90486914=　警告！
 
 ;0x769935B6=MESSAGE FROM LCPD
 0x769935B6=来自LCPD的信息
 
 ;0x641890B5=This website for child beauty pageants has been shut down.
-0x641890B5=此儿童选美网站已被封停。
+0x641890B5=此儿童选美网站已被封停
 
 ;0xDB577F31=Your IP address has been cataloged and an investigator will be contacting you soon.
-0xDB577F31=您的IP地址已被记录，日后将会有调查人员来联系您。
+0xDB577F31=您的IP地址已被记录，日后将会有调查人员来联系您
 
 ;0x816ABA6A=1
 0x816ABA6A=1
