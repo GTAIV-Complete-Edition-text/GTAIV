@@ -2230,7 +2230,7 @@
 0x9FE65387=您确定吗？自动存档功能将会关闭。
 
 ;0xD8E486C0=Autosaving has been turned off. To turn autosaving back on, access Autosave under the Game option in the pause menu.
-0xD8E486C0=自动存档功能已关闭。若要再次启用自动存档，请在暂停菜单的游戏设置中进行调节。
+0xD8E486C0=自动存档功能已关闭。若要再次启用自动存档，请在暂停菜单的游戏设置中开启。
 
 ;0x73142A4D=Are you sure you want to load this save game data? Doing so will lose any unsaved game progress.
 0x73142A4D=您确定要载入这一存档吗？所有未保存的进度都会丢失。
@@ -8089,7 +8089,7 @@
 0x1D5614C3=此窗口包含了您所有已上传的视频。当您上传视频时，您将会在此窗口中输入您视频的标签与描述。
 
 ;0xE0A65AAC=Social Club failed to initialize. Error code: ~1~. Press Yes to view an online support article to help resolve this issue. Press No to exit.
-0xE0A65AAC=Social Club初始化失败。错误代码：~1~。按「是」查看相关解决方式的支持网页。按「否」退出游戏。
+0xE0A65AAC=Social Club初始化失败。错误代码：~1~。按「是」查看相关解决方式的支持网页。按「否」退出游戏。~n~~n~注：若为代码1，且游戏版本为1.2.0.32，则需要将系统日期改到20年5月之前或升级游戏。~n~若为代码4，则需要删除根目录下的d3d9.dll以及相关画面Mod。不想删就只能打个破解补丁绕过R星平台。~n~若为其他代码，汉化组也没见过，帮不了你哈。
 
 ;0xDE3C0EE4=Error - Out of video memory
 0xDE3C0EE4=错误 - 显存溢出
@@ -9691,7 +9691,7 @@
 0x127C58DA=~z~~x~我想这天不会像圣诞一样放假。
 
 ;0x24B2FD47=~z~~x~We don't do anything in our house. No decorations.
-0x24B2FD47=~z~~x~我们不会在家做什么，不做装饰。
+0x24B2FD47=~z~~x~我们不会在家庆祝，不做装饰。
 
 ;0x14B35D4C=~z~~x~You can't even get a card...
 0x14B35D4C=~z~~x~也不会收到贺卡...
@@ -9700,7 +9700,7 @@
 0xE72C023E=~z~~x~不会发「抱歉，你得艾滋了」的卡。没这回事。
 
 ;0xF965A6B1=~z~~x~Ahh, fascinating fact about AIDS - people always learn stuff from my lectures, this is absolutely true.
-0xF965A6B1=~z~~x~啊，关于艾滋的一件趣事－人们总能从我的演出中学到东西，千真万确。
+0xF965A6B1=~z~~x~啊，关于艾滋的一件趣事。人们总能从我的演出中学到东西，千真万确。
 
 ;0xCBB94B55=~z~~x~The HIV virus was actually a combination of two separate viruses in rhesus monkeys.
 0xCBB94B55=~z~~x~HIV病毒其实是恒河猴身上的两种病毒的结合体。
@@ -18243,7 +18243,7 @@
 0x63366752=多人游戏
 
 ;0x77E12EDD=Options
-0x77E12EDD=选项
+0x77E12EDD=设置
 
 ;0xAA1F6DE2=Video Editor
 0xAA1F6DE2=视频编辑器
@@ -22458,7 +22458,7 @@
 0x76CCD5EF=BAWSAQ之问
 
 ;0x22E89985=Death Races
-0x22E89985=死亡飙车
+0x22E89985=亡命飙车
 
 ;0x8B06FE63=Hate Crimes
 0x8B06FE63=仇恨犯罪
@@ -28146,7 +28146,7 @@
 0xB899485C=~z~~x~Beechwood City。
 
 ;0xA4BA9B61=~z~~x~Downtown.
-0xA4BA9B61=~z~~x~Downtown。
+0xA4BA9B61=~z~~x~中心区。
 
 ;0x2EBF78CE=~z~~x~East Hook.
 0x2EBF78CE=~z~~x~East Hook。
