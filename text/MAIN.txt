@@ -1386,7 +1386,7 @@
 0x3A05A9FF=~INPUT_FRONTEND_REPLAY_REWIND~
 
 ;0xFA4C3705=Backspace
-0xFA4C3705=Backspace
+0xFA4C3705=退格
 
 ;0x4B97F539=~INPUT_FRONTEND_REPLAY_RESTART~
 0x4B97F539=~INPUT_FRONTEND_REPLAY_RESTART~
@@ -3073,7 +3073,7 @@
 0x2722079C==
 
 ;0x7BFD3151=BACKSPACE
-0x7BFD3151=BACKSPACE
+0x7BFD3151=退格
 
 ;0x91BF5CD5=TAB
 0x91BF5CD5=TAB
@@ -8089,7 +8089,7 @@
 0x1D5614C3=此窗口包含了您所有已上传的视频。当您上传视频时，您将会在此窗口中输入您视频的标签与描述。
 
 ;0xE0A65AAC=Social Club failed to initialize. Error code: ~1~. Press Yes to view an online support article to help resolve this issue. Press No to exit.
-0xE0A65AAC=Social Club初始化失败。错误代码：~1~。按「是」查看相关解决方式的支持网页。按「否」退出游戏。~n~~n~注：若为代码1，且游戏版本为1.2.0.32，则需要将系统日期改到20年5月之前或升级游戏。~n~若为代码4，则需要删除根目录下的d3d9.dll以及相关画面Mod。不想删就只能打个破解补丁绕过R星平台。~n~若为其他代码，汉化组也没见过，帮不了你哈。
+0xE0A65AAC=Social Club初始化失败。错误代码：~1~。按「是」查看相关解决方式的支持网页。按「否」退出游戏。~n~~n~注：若为代码1，且游戏版本为1.2.0.32，则需要将系统日期改到20年5月之前或升级游戏。~n~若为代码4，则需要删除根目录下的d3d9.dll以及相关画面Mod。不想删就只能打个破解补丁绕过R星平台。~n~终极解决方法：进入游戏根目录，删除所有文件，验证完整性重装游戏。~n~若以上方法无效或提示其他代码，汉化组也帮不了你哈。
 
 ;0xDE3C0EE4=Error - Out of video memory
 0xDE3C0EE4=错误 - 显存溢出
@@ -17733,7 +17733,7 @@
 0xC891C467=Bernie在晚上十点到凌晨四点间没空。
 
 ;0x0CDECD04=Bernie will be here when it's light. Return between 5.45am and 6.45pm.
-0x0CDECD04=天亮以后Bernie就在了。请在早上5:35到晚上6:45间找他。
+0x0CDECD04=天亮以后Bernie就在了。请在早上5:45到晚上6:45间找他。
 
 ;0x8EF4A9D8=Visiting hours: 6am - 9pm.
 0x8EF4A9D8=会客时间：早上六点到晚上九点。
@@ -24396,7 +24396,7 @@
 0xFBC36B64=嘿，小子。你没接电话。我想Frankie要杀我了，他想在Bismarck的一个公园约见我。你得在他干掉我之前干掉他。 D
 
 ;0xB3A95B2D=Niko, me boy, Packie tells me you got sea legs on ya. I've got a business opportunity for us. Meet me at the jetty in Alderney City. D
-0xB3A95B2D=Niko，我的孩子，Packie跟我说你不会晕船。我这儿现在有个生意机会。来Alderney City的码头找我。 D
+0xB3A95B2D=Niko，我的孩子，Packie跟我说你不会晕船。我这儿现在有个生意机会。来Alderney市的码头找我。 D
 
 ;0xDE7DB0D9=PLACEHOLDER
 0xDE7DB0D9=PLACEHOLDER
@@ -28263,7 +28263,7 @@
 0x0243DD18=~z~~x~Leftwood。
 
 ;0x19AB2CC8=~z~~x~Alderney City.
-0x19AB2CC8=~z~~x~Alderney City。
+0x19AB2CC8=~z~~x~Alderney市。
 
 ;0x25C43979=~z~~x~Berchem.
 0x25C43979=~z~~x~Berchem。
