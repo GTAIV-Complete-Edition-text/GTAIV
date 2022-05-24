@@ -9340,7 +9340,7 @@
 0x801CFA1E=~z~~x~我俩都只能带32公斤的行李登机。
 
 ;0x0E0115E8=~z~~x~I wanna go "No, he used up his thirty-two kilograms on his tits!".
-0x0E0115E8=~z~~x~我想说：「不，人那对奶子就已经超32公斤了！」
+0x0E0115E8=~z~~x~我想说：「不，他那对奶子就得有32公斤了！」
 
 ;0x1BC7B175=~z~~x~Thanks very much, goodnight. Enjoy your meals.
 0x1BC7B175=~z~~x~非常感谢大家，晚安。吃得愉快。
@@ -9496,7 +9496,7 @@
 0x6ED3A5A5=~z~~x~写个水桶干嘛？
 
 ;0xD11BEAFC=~z~~x~"Ricky Gervais, Rotund Comedian."
-0xD11BEAFC=~z~~x~「Ricky Gervais，圆滚滚喜剧演员」。
+0xD11BEAFC=~z~~x~「Ricky Gervais，圆滚滚喜剧演员」
 
 ;0x5E490558=~z~~x~Rotund?!!!
 0x5E490558=~z~~x~圆滚滚？！！！
@@ -9526,7 +9526,7 @@
 0xF050A965=~z~~x~第二天就在报纸上印了个整版，标题叫...
 
 ;0x2F0DA85A=~z~~x~"IPodge".
-0x2F0DA85A=~z~~x~「i胖子」~n~(iPod-ge)
+0x2F0DA85A=~z~~x~「i胖子」
 
 ;0x213B0CB5=~z~~x~Cheeky bastards.
 0x213B0CB5=~z~~x~不要脸的。
@@ -9910,7 +9910,7 @@
 0x8CA4A9AD=~z~~x~这么说吧，
 
 ;0x7E4E0D00=~z~~x~if you worked at Burger Shot, somebody came through the drive thru and ordered a Number 7...
-0x7E4E0D00=~z~~x~假如你在汉堡店上班，有人从过路窗口*点了个7号餐...~n~(朝向路边的窗口，服务开车路过的顾客)
+0x7E4E0D00=~z~~x~假如你在汉堡店上班，有人从得来速*点了个7号餐...~n~(朝向路边的窗口，服务开车路过的顾客)
 
 ;0x67F0E042=~z~~x~And you looked around and nobody was in that bitch but you...
 0x67F0E042=~z~~x~你看了一圈，店里除你以外就没别的店员了...
@@ -9955,7 +9955,7 @@
 0x72DDD92F=~z~~x~在那就跟回去住单身公寓一样，你们住过单身公寓吗？
 
 ;0x8B88F526=~z~~x~It's ridiculous... because it's got everything, but nothing.
-0x8B88F526=~z~~x~太荒唐了...因为它五脏俱全，但没用。
+0x8B88F526=~z~~x~太离谱了...因为它五脏俱全，但没用。
 
 ;0x7EB2DB7A=~z~~x~Like you see the livingroom, it's right there.
 0x7EB2DB7A=~z~~x~比如你看客厅，在那儿。
@@ -9997,7 +9997,7 @@
 0x7DD0569D=~z~~x~住这儿必须得有辆车，因为你们都他妈走太快了，我跟不上。
 
 ;0x2C0D3318=~z~~x~Liberty Ci... where the fuck?
-0x2C0D3318=~z~~x~渍油城...啥玩意儿？
+0x2C0D3318=~z~~x~自由城...啥玩意儿？
 
 ;0x48BD6C78=~z~~x~Are y'all goin' somewhere?
 0x48BD6C78=~z~~x~你们要去哪？
@@ -10036,16 +10036,16 @@
 0xD91C8E60=~z~~x~自由城的靓女...但她们一直在走，妈的...你得...你得跟个拍卖商似的。
 
 ;0x3D0E5642=~z~~x~ExcusememaamcouldI....
-0x3D0E5642=~z~~x~青问沃能...
+0x3D0E5642=~z~~x~请问我能...
 
 ;0x6CB5B590=~z~~x~Hitherehowareyou....
-0x6CB5B590=~z~~x~泥最近好马...
+0x6CB5B590=~z~~x~你最近好吗...
 
 ;0x2272A10B=~z~~x~Excusemedoyouhaveahusband...
-0x2272A10B=~z~~x~青问泥有老公马...
+0x2272A10B=~z~~x~请问你有老公吗...
 
 ;0x6162BF76=~z~~x~HiI'mnewtoLiberty...
-0x6162BF76=~z~~x~嗨沃刚到渍油...
+0x6162BF76=~z~~x~嗨我刚到自由...
 
 ;0x4FA21BF5=~z~~x~They're gone, gone, just moving so fuckin' fast, it's ridiculous.
 0x4FA21BF5=~z~~x~她们就走了，走了，她们走得太他妈快了，太离谱了。
@@ -10126,7 +10126,7 @@
 0x05CD8641=~z~~x~我们刚才查了您的信用评分。」
 
 ;0x400DFAC1=~z~~x~You think this is a motherfuckin' game? Huh?
-0x400DFAC1=~z~~x~(评分？)你们以为我他妈来玩游戏的？啊？
+0x400DFAC1=~z~~x~打游戏呢还评分？啊？
 
 ;0x6904CCAE=~z~~x~Sir, let me just say, if you had thirty-five thousand dollars cash,
 0x6904CCAE=~z~~x~「先生，我们就直说了，如果你有3.5万刀的额度，
@@ -10213,7 +10213,7 @@
 0x7C1BE7B4=~z~~x~我也不知道配方，只是想说毒品的话还得加料。
 
 ;0x94491812=~z~~x~It's ridiculous. Weed ain't never hurt nobody.
-0x94491812=~z~~x~太荒唐了，大麻又不会伤人。 
+0x94491812=~z~~x~太离谱了，大麻又不会伤人。 
 
 ;0x5F892E8F=~z~~x~Aspirin is perfectly legal, but if you take thirteen of them motherfuckers it'll be your last headache.
 0x5F892E8F=~z~~x~阿司匹林合法对吧，你要敢一次吃十三片，这就是你这辈子最后一次头疼了。
@@ -10291,7 +10291,7 @@
 0x18FEA83B=~z~~x~只剩下你们这些高个子混蛋自己照顾自己了。
 
 ;0x0B340CA6=~z~~x~Don't ask me to pick up shit from down there, I can't do it cus I ain't fuckin here!
-0x0B340CA6=~z~~x~再别找我替你们捡东西了， 老子不在，做不到啊！
+0x0B340CA6=~z~~x~再别找我替你们捡东西了，老子不在，做不到啊！
 
 ;0xA73244A4=~z~~x~Me or the dogs, or the cats.
 0xA73244A4=~z~~x~我、狗、猫都不在。
@@ -10318,7 +10318,7 @@
 0x38EE62F3=~z~~x~请等一下。
 
 ;0x482E0176=~z~~x~Lady, I don't let motherfuckers jus' spit on me while they talking, that's just ridiculous.
-0x482E0176=~z~~x~女士，我可不同意哪个狗逼说话时候朝我喷口水沫子，那样太荒唐了。
+0x482E0176=~z~~x~女士，我可不同意哪个狗逼说话时候朝我喷口水沫子，那样太离谱了。
 
 ;0x5C952A44=~z~~x~They got a guy selling CDs.
 0x5C952A44=~z~~x~有个卖碟子的哥们。
@@ -24582,7 +24582,7 @@
 0xD1F7A174=喵。打个电话给我，我们可以一起出去。我感觉自己像是重获童贞了一样。 xx
 
 ;0xA405C591=Where is my Mysterious European when I need him. I've bought some organic, free-trade, locally sourced lube that I wanna try out. Tres excited. xx
-0xA405C591=我需要你了，我的神秘欧洲人。我给他买了些有机、自由贸易的本地润滑油，想让他试试。很兴奋。 xx
+0xA405C591=我需要你了，我的神秘欧洲人。我买了些有机、自由贸易的本地润滑油，想让你试试。很兴奋。 xx
 
 ;0x8E579A35=Valentino is giving me helll. That dog is so demanding. Need a work out to get rid of the stress. Call me. Big kiss. xx
 0x8E579A35=Valentino又在给我找麻烦。那条狗欲望太强了。需要出门转转减减压。电话找我。亲亲。 xx
@@ -24708,7 +24708,7 @@
 0xC4008D01=我都不敢相信之前我不再替你办事了，宝贝。你离不开我就像我离不开你。如果你需要我在地检那边的关系，打个电话过来。 xoxo
 
 ;0x8CE49EAA=This relationship means so so so much to me, Niko. If anyone in the LCPD tries to touch you I'll have his f - ing balls. Just call me. xoxo
-0x8CE49EAA=我们之间的感情对我太太太重要了，Niko。要是LCPD里有人想动你一根毫毛，我就会打爆他的**蛋。需要了就找我。 xoxo
+0x8CE49EAA=我们之间的感情对我太太太重要了，Niko。要是LCPD里有人想动你一根毫毛，我就会打爆他的〇〇蛋。需要了就找我。 xoxo
 
 ;0x9A923A05=PLACEHOLDER
 0x9A923A05=PLACEHOLDER
@@ -29178,7 +29178,7 @@
 0x833C8682=~z~~x~直升机超烧钱，但你在天上飞，别人不知道你在烧钱。能明白我的意思吗？
 
 ;0xC8848730=~z~~x~Why don't us players show the girls how we roll? Go check out the Zirconium building.
-0xC8848730=~z~~x~向姑娘们展示下我们两个大赢家的风范吧！去看看Zirconium大楼。
+0xC8848730=~z~~x~向姑娘们展示下我们两个大赢家的风范吧！去看看Zirconium大厦。
 
 ;0x3FE3EE67=~z~~x~Wassup homie?
 0x3FE3EE67=~z~~x~怎么了，哥们儿？
@@ -29271,7 +29271,7 @@
 0xA5D81415=~z~~x~Nicky，我需要你来开船，可以吗？
 
 ;0x9E046E2D=~z~~x~Take us over to the Statue of Happiness. That's some intense shit.
-0x9E046E2D=~z~~x~带大家去看幸福女神像*，那玩意老牛逼了。~n~(注：配音是Statue of Freedom，与字幕不符)
+0x9E046E2D=~z~~x~带大家去看幸福女神像*，那玩意老牛逼了。
 
 ;0xB2FA4624=~z~~x~You ladies are much hotter than that bitch. Let's cruise back, Nicky.
 0xB2FA4624=~z~~x~你们二位比那尊鬼神性感多了。我们返航吧，Nicky。
