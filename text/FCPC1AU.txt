@@ -66,7 +66,7 @@
 0x178BDC41=FCPC1_GRASS_FL
 
 ;0x1825B639=~z~Must have killed someone, I guess. I never found out.
-0x1825B639=~z~我猜是刚杀完人。但我没法求证。
+0x1825B639=~z~我猜是刚杀完人，但没法求证。
 
 ;0x1871C69A=FCPC1_GERRY_BLOOD_HI
 0x1871C69A=FCPC1_GERRY_BLOOD_HI
@@ -129,7 +129,7 @@
 0x28231868=~z~怎么样，Niko？
 
 ;0x28629967=~z~Thanks, I think. I always liked Gerry.
-0x28629967=~z~谢了，我想。我一直都喜欢Gerry。
+0x28629967=~z~谢了，大概。我一直都喜欢Gerry。
 
 ;0x28ED4B7D=FCPC1_GRASS_FE
 0x28ED4B7D=FCPC1_GRASS_FE

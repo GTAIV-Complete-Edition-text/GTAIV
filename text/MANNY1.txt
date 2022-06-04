@@ -1,6 +1,6 @@
 ﻿[MANNY1]
 ;0x01D71795=~s~Get in a vehicle other than a boat.
-0x01D71795=~s~进入一辆非船只的载具。
+0x01D71795=~s~找一辆非船只的载具。
 
 ;0x0B6D80B4=Don't get too close or the dealer will spot you.
 0x0B6D80B4=不要跟得太紧，否则毒贩会发现你。
@@ -72,10 +72,10 @@
 0xBE06EF24=PLACEHOLDER FOR MOCAP CUTSCENE
 
 ;0xC046A69A=~s~Get in a vehicle other than a bus.
-0xC046A69A=~s~进入一辆非公交车的载具。
+0xC046A69A=~s~找一辆非公交车的载具。
 
 ;0xC40A7596=~s~Get in a vehicle with Manny.
-0xC40A7596=~s~与Manny一起进入一辆载具。
+0xC40A7596=~s~与Manny一起进入载具。
 
 ;0xC5B81132=~r~Manny is dead.~s~
 0xC5B81132=~r~Manny死了。~s~
@@ -96,7 +96,7 @@
 0xDEE99D92=~s~跟踪~r~毒贩~s~到交易现场。
 
 ;0xDFB2EA54=~s~Get in a vehicle other than a helicopter.
-0xDFB2EA54=~s~进入一辆非直升机的载具。
+0xDFB2EA54=~s~找一辆非直升机的载具。
 
 ;0xE9D2C690=~s~Take down the ~r~dealer.
 0xE9D2C690=~s~干掉~r~毒贩。

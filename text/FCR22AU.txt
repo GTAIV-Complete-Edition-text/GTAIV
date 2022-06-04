@@ -45,7 +45,7 @@
 0x2B6866E8=FCR2_ACT_CALL_REQ_SPEC_YES
 
 ;0x2C4292B3=~z~Thanks, Niko. See you then.
-0x2C4292B3=~z~谢了，Niko。那就再见了。
+0x2C4292B3=~z~谢了，Niko。待会儿见。
 
 ;0x2D3F7AE4=FCR2_ACT_CALL_SPEC_END
 0x2D3F7AE4=FCR2_ACT_CALL_SPEC_END
@@ -225,7 +225,7 @@
 0x9C2C8F8B=100
 
 ;0xA0E8FC01=~z~I am sorry cousin, but I have no time. I'll see you soon though.
-0xA0E8FC01=~z~抱歉，堂兄，但我没空。还是之后见吧。
+0xA0E8FC01=~z~抱歉，堂兄，但我没空。还是改天再见吧。
 
 ;0xA14C8DBC=FCR2_ACT_PRO_CALL_LOLIKE
 0xA14C8DBC=FCR2_ACT_PRO_CALL_LOLIKE
@@ -327,7 +327,7 @@
 0xEDBF61D1=010
 
 ;0xEE588B57=~z~I can do that for my cousin, I shouldn't take longer than an hour to get there.
-0xEE588B57=~z~我可以为我的堂兄来一趟，应该不用一个小时就能到。
+0xEE588B57=~z~自家兄弟怎么不接，应该不用一个小时就能到。
 
 ;0xEF7B591D=~z~Thanks for the ride, Niko. Call me soon, yes.
 0xEF7B591D=~z~谢谢你送我回家，Niko。记得联系，好吗。
