@@ -2470,7 +2470,7 @@
 0xB8E3A8A3=紫外线
 
 ;0xB11B6B31=Eclipse
-0xB11B6B31=暗淡
+0xB11B6B31=黯淡
 
 ;0xF0AB3D79=Noire
 0xF0AB3D79=阴森
@@ -2488,13 +2488,13 @@
 0x9494929B=素描
 
 ;0x4289F321=Dark Sided (Night)
-0x4289F321=Dark Sided (Night)
+0x4289F321=阴暗 (夜)
 
 ;0x7FD7CC41=Steel (Night)
-0x7FD7CC41=Steel (Night)
+0x7FD7CC41=冷钢 (夜)
 
 ;0x4AD5235D=Colors (Night)
-0x4AD5235D=Colors (Night)
+0x4AD5235D=五彩斑斓 (夜)
 
 ;0x8DAA0E83=Game
 0x8DAA0E83=原始
@@ -22980,13 +22980,13 @@
 0xF1398439=返回
 
 ;0x9AC78535=~s~To logout of the computer press ~INPUT_PICKUP~ or ~CANCEL~, or click on the "LOGOUT" icon on the desktop.
-0x9AC78535=~s~按下~INPUT_PICKUP~或~CANCEL~，或点击桌面右下角的「LOGOUT」图标以从本机注销。
+0x9AC78535=~s~按下~INPUT_PICKUP~或~CANCEL~，或是点击桌面右下角的「LOGOUT」图标以从本机注销。
 
 ;0x3317050A=~s~To logout of the computer press ~INPUT_PICKUP~ or ~INPUT_FRONTEND_PAUSE~, or click on the "LOGOUT" icon on the desktop.
-0x3317050A=~s~按下~INPUT_PICKUP~或~INPUT_FRONTEND_PAUSE~，或点击桌面右下角的「LOGOUT」图标以从本机注销。
+0x3317050A=~s~按下~INPUT_PICKUP~或~INPUT_FRONTEND_PAUSE~，或是点击桌面右下角的「LOGOUT」图标以从本机注销。
 
 ;0x93930840=~s~To logout of the computer press ~INPUT_PICKUP~ or ~INPUT_FRONTEND_PAUSE~, or click on the "LOGOUT" icon on the desktop.
-0x93930840=~s~按下~INPUT_PICKUP~或~INPUT_FRONTEND_PAUSE~，或点击桌面右下角的「LOGOUT」图标以从本机注销。
+0x93930840=~s~按下~INPUT_PICKUP~或~INPUT_FRONTEND_PAUSE~，或是点击桌面右下角的「LOGOUT」图标以从本机注销。
 
 ;0xD73FDD71=Done
 0xD73FDD71=完成
@@ -24150,7 +24150,7 @@
 0x023CF5FB=记住，Niko，穿双像样的鞋。去Algonquin的神之子服饰看看吧。身上务必要带把家伙。 - Francis
 
 ;0xEFD75130=Remember Niko - Wear a suit and a smart pair of shoes. Try Perseus in Algonquin. You'll need to pack some heat too, but don't go flashing it about until you meet Goldberg. - Francis
-0xEFD75130=记住，Niko，要穿正装和像样的鞋。去Algonquin的神之子服饰看看吧。身上还得带点家伙，前都别拿出来。 - Francis
+0xEFD75130=记住，Niko，要穿正装和像样的鞋。去Algonquin的神之子服饰看看吧。身上还得带点家伙，见到Goldberg前都别拿出来。 - Francis
 
 ;0x1C9AAAB6=Niko - Meet me at the end of the pier at Castle Gardens. (NOTE: moved to 'secret' txtmsgs). - Francis
 0x1C9AAAB6=Niko，来Castle Gardens码头的末端找我。 (NOTE: moved to 'secret' txtmsgs). - Francis
@@ -24336,7 +24336,7 @@
 0x2B1955F7=Ray
 
 ;0x0FB8CEDC=Nicky - this might be of use. Look out for this guy, Alonzo. He's one of Benavidez's goons. He'll tell you what you need to know if you're persuasive. Ciao
-0x0FB8CEDC=Nicky，这个可能能用上。去找这个叫Alonzo的人。他是Benavidez的同伙之一。要是你能令他信服的话，他就会告诉你你需要的情报了。再见
+0x0FB8CEDC=Nicky，告诉你个有用的。去找这个叫Alonzo的人。他是Benavidez的同伙之一。要是你能令他信服的话，他就会告诉你你需要的情报了。再见
 
 ;0xD0CC5104=Nicky, I need you to meet me and Phil at a depot in Normandy. Ciao
 0xD0CC5104=Nicky，我需要你到Normandy的一个仓库来找我和Phil。再见
@@ -25104,7 +25104,7 @@
 0x9306F4B6=这辆Moonbeam现在在Charge岛的某处。
 
 ;0x6DA8A9FA=I always see this NRG 900 on the corner of Bismarck Ave and Topaz St, in Lancaster.
-0x6DA8A9FA=我一直在Bismarck大道和Topaz街的路口看见这辆NRG 900，Lancaster区。
+0x6DA8A9FA=Lancaster区Bismarck大道和Topaz街的路口有辆NRG 900，我眼馋很久了。
 
 ;0xA04A8DDD=There's a Patriot near those two joined towers down in Castle Gardens.
 0xA04A8DDD=Castle Gardens有一辆Patriot，停在双子塔附近。
@@ -27126,13 +27126,13 @@
 0x41CB31B1=~z~~x~享受你的垃圾白嫖生活吧。
 
 ;0xF636FFED=~z~~x~Now get out of here and don't trouble me again!
-0xF636FFED=~z~~x~你好滚了，别来再烦我了！
+0xF636FFED=~z~~x~你可以滚了，别来再烦我了！
 
 ;0xF73B01F5=~z~~x~This is the point where normal customers pay. Go away, head dick.
 0xF73B01F5=~z~~x~这时候普通乘客就该付钱了。滚吧，屌人。
 
 ;0x087CA478=~z~~x~I hope you enjoyed your free ride, I certainly did not enjoy the driving of you.
-0x087CA478=~z~~x~希望你能享受你的白嫖叫车，我是一点都不想接送你。
+0x087CA478=~z~~x~白嫖搭车很爽吧，我是一点都不想接送你。
 
 ;0x1D97CEAE=~z~~x~Not only do you not pay for the ride but you make the car smell of pig shit.
 0x1D97CEAE=~z~~x~你不仅乘车不给钱，还把车里弄得一股猪屎味。
@@ -27591,7 +27591,7 @@
 0x2255BDCE=~z~~x~搞什么啊？小屌男？
 
 ;0x6419C1C1=~z~~x~They don't build them like this back home.
-0x6419C1C1=~z~~x~我老家可没这种手术。
+0x6419C1C1=~z~~x~我老家可没有隆胸手术。
 
 ;0x5944AC17=~z~~x~Shit, are those real?
 0x5944AC17=~z~~x~操，这胸是真货吗？

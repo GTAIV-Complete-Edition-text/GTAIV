@@ -1,6 +1,6 @@
 ﻿[MANNY3]
 ;0x116700FA=~s~Get in a vehicle.
-0x116700FA=~s~进入一辆载具
+0x116700FA=~s~找一辆载具。
 
 ;0x1337E5F3=~s~The ~r~target~s~ got into that car. Follow him.
 0x1337E5F3=~r~目标~s~上了那辆车。跟着他。
