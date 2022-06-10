@@ -216,7 +216,7 @@
 0x2B889A61=GM3_B_CA
 
 ;0x2D3EC8C0=~z~Give Packie a call. He'll explain what I need guidance with the most...
-0x2D3EC8C0=~z~给Packie打个电话，他会解释我最需要指导的方面的...
+0x2D3EC8C0=~z~给Packie打个电话，他会告诉你我最需要指导的地方...
 
 ;0x2D51CBDA=200020200
 0x2D51CBDA=200020200
@@ -600,13 +600,13 @@
 0x77B5D312=~z~用我爸的话说就是好男人死光了。
 
 ;0x77BB0671=~z~Cops, earn some of my tax dollars. This creep's kidnapping me.
-0x77BB0671=~z~警察，我拿税钱养着的。这个变态要绑架我。
+0x77BB0671=~z~警察，我交了税的。这个变态要绑架我。
 
 ;0x77DCB5E5=~z~You sound like my dad. Anyway, you clearly have not been to Maisonette 9.
 0x77DCB5E5=~z~你听起来像是我爸。这么说来你肯定没去过9号豪宅。
 
 ;0x7805952D=~z~You're the guy who called about the car, the one with the sexy accent?
-0x7805952D=~z~你就是那个打过来问车的口音很性感的人？
+0x7805952D=~z~你是打电话过来问车的吗？口音很性感的那个？
 
 ;0x788A18F9=~z~Can you help me do that? It is a final chance at redemption.
 0x788A18F9=~z~你能帮我实现吗？这是获得救赎的最后机会了。
@@ -762,7 +762,7 @@
 0x8F4C1DC7=~z~还好。太他妈好了...好的要死。
 
 ;0x8FC64F2D=~z~Give Packie a call. He'll explain what I need guidance with the most...
-0x8FC64F2D=~z~给Packie打个电话，他会解释我最需要指导的方面的...
+0x8FC64F2D=~z~给Packie打个电话，他会告诉你我最需要指导的地方...
 
 ;0x901CE960=010100
 0x901CE960=010100
@@ -840,7 +840,7 @@
 0xA00973E7=~z~是有点伤心。可怜的混蛋。
 
 ;0xA087FF69=~z~This ain't goodbye bitch.
-0xA087FF69=~z~这可不能再见，贱人。
+0xA087FF69=~z~没到再见的时候，贱人。
 
 ;0xA2F744CE=GM3_A_NC
 0xA2F744CE=GM3_A_NC
@@ -1005,7 +1005,7 @@
 0xC3ECE3C4=~z~当心，给我好好开车。
 
 ;0xC43194FA=~z~Like this.
-0xC43194FA=~z~这样。
+0xC43194FA=~z~这样困住的。
 
 ;0xC473CF16=~z~Hey Gracie, why you selling this car? It seems pretty good.
 0xC473CF16=~z~嘿Gracie，为什么你要卖了这辆车？车况不是还挺好的吗。
