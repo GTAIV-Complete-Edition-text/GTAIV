@@ -951,10 +951,10 @@
 0xAC74BE57=您的设置有所改动。确定不应用更改直接退出吗？
 
 ;0xA93DF7DE=Your settings have changed. Do you want to keep these settings?~n~Time:~1~
-0xA93DF7DE=您的设置有所改动。确定要保存这些更改吗？~n~倒计时：~1~
+0xA93DF7DE=您的设置有所改动。是否保存这些更改？~n~倒计时：~1~
 
 ;0xCA0D5F0E=Are you sure you want to change your settings?
-0xCA0D5F0E=您确定要改变您的设置吗？
+0xCA0D5F0E=您确定要改变原先的设置吗？
 
 ;0xFB90C867=Warning: A critical control is unmapped. Do you wish to exit control mapping?~n~Changes made since your last save will be lost.
 0xFB90C867=警告：存在未被分配的关键按键。您仍要退出自定义按键设置吗？~n~一旦确认，之前的设置将全部丢失。
@@ -981,25 +981,25 @@
 0x2F08955F=选择脸
 
 ;0x3C00A922=Are you sure you want to exit the Video Editor and return to single player?
-0x3C00A922=您确定要退出视频编辑器并返回单人游戏吗？
+0x3C00A922=确定要退出视频编辑器，返回单人游戏吗？
 
 ;0x21C17C0B=Are you sure you want to remove this Clip from your Favorites folder?
-0x21C17C0B=您确定要将此片段从您的收藏夹中移除吗？
+0x21C17C0B=确定要将此片段从收藏夹中移除吗？
 
 ;0xC6E737BE=Are you sure you want to delete this Video?
-0xC6E737BE=您确定要删除这个视频吗？
+0xC6E737BE=确定要删除这个视频吗？
 
 ;0x08422B89=Are you sure you want to delete this Clip?
-0x08422B89=您确定要删除这个片段吗？
+0x08422B89=确定要删除这个片段吗？
 
 ;0xD4DBD214=Are you sure you want to exit without saving this Video?
-0xD4DBD214=您确定不保存本视频就退出吗？
+0xD4DBD214=确定要在不保存本视频的情况下退出吗？
 
 ;0x5C8C8BDE=Are you sure you want to exit without saving this Clip?
-0x5C8C8BDE=您确定不保存本片段就退出吗？
+0x5C8C8BDE=确定要在不保存本片段的情况下退出吗？
 
 ;0xAB11840F=This clip is currently used in your Videos and cannot be deleted.
-0xAB11840F=该片段正在被您的视频使用，因此无法被删除。
+0xAB11840F=该片段正在被您的视频使用，无法删除。
 
 ;0x49DDCCE0=Options
 0x49DDCCE0=选项
@@ -1008,7 +1008,7 @@
 0xB40C2A86=自动配置
 
 ;0xD857EEDA=Are you sure you want to apply these settings?
-0xD857EEDA=您确定要应用这些设置吗？
+0xD857EEDA=确定要应用这些设置吗？
 
 ;0x5D540AEE=Reflection Detail
 0x5D540AEE=反射细节
@@ -1236,7 +1236,7 @@
 0xFF8BAD93=要运行基准测试工具将需要载入游戏。~n~可以吗？
 
 ;0xB2A665C1=Are you sure you want to exit and run the Benchmark Tool?~n~All unsaved progress will be lost.
-0xB2A665C1=您确定要退出游戏运行基准测试工具吗？~n~所有未保存的进度都会丢失。
+0xB2A665C1=确定要退出游戏，运行基准测试工具吗？~n~所有未保存的进度都会丢失。
 
 ;0x2F3D359F=Exit Benchmark
 0x2F3D359F=退出基准测试
@@ -2058,16 +2058,16 @@
 0x73A12800=应用
 
 ;0xCCB3568E=Are you sure you want to leave the multiplayer game?
-0xCCB3568E=您确定要离开多人游戏吗？
+0xCCB3568E=确定要离开多人游戏吗？
 
 ;0xC1144B9F=Are you sure you want to start a new game?~n~All unsaved progress will be lost.
-0xC1144B9F=您确定要开始新游戏吗？~n~所有未保存的进度都会丢失。
+0xC1144B9F=确定要开始新游戏吗？~n~所有未保存的进度都会丢失。
 
 ;0xD48193C6=Are you sure you want to start this Episode?~n~All unsaved progress will be lost.
-0xD48193C6=您确定要开始这一章吗？~n~所有未保存的进度都会丢失。
+0xD48193C6=确定要开始这一章节吗？~n~所有未保存的进度都会丢失。
 
 ;0xC57F659C=Are you sure you want to exit the game?~n~All unsaved progress will be lost.
-0xC57F659C=您确定要退出游戏吗？~n~所有未保存的进度都会丢失。
+0xC57F659C=确定要退出游戏吗？~n~所有未保存的进度都会丢失。
 
 ;0x680B59DB=The Custom Camera is out of range. Reverting to game camera.
 0x680B59DB=自定义相机超出范围，正在恢复至游戏原相机。
@@ -2115,44 +2115,44 @@
 0x737F6197=~s~按下~INPUT_REPLAY_SAVE_TO_HDD~可保存当前片段。
 
 ;0x0918F0FC=You are not signed in. Do you want to sign in now?
-0x0918F0FC=您目前尚未登录。您想现在登录吗？
+0x0918F0FC=目前尚未登录。您想现在登录吗？
 
 ;0x2EE87C86=Attempting to autosave. You are not signed in. In order to save progress, you will need to be signed in. Do you want to sign in now?
-0x2EE87C86=正在尝试自动保存。您目前尚未登录。您需要进行登录，才能保存进度。您想现在登录吗？
+0x2EE87C86=正在尝试自动保存。目前尚未登录。您需要进行登录，才能保存进度。您想现在登录吗？
 
 ;0x30997A95=You are not signed in. In order to save progress, you will need to be signed in. Do you want to sign in now?
-0x30997A95=您目前尚未登录。您需要进行登录，才能保存进度。您想现在登录吗？
+0x30997A95=目前尚未登录。需要进行登录，才能保存进度。您想现在登录吗？
 
 ;0x638A8071=You have not signed in. You will need to sign in to save your progress and to be awarded Accomplishments. Do you want to sign in now?
-0x638A8071=您目前尚未登录。您需要进行登录，才能保存进度并解锁成就。您想现在登录吗？
+0x638A8071=目前尚未登录。需要进行登录，才能保存进度并解锁成就。您想现在登录吗？
 
 
 ;0x885AD568=You are not currently signed in. Signing in with a Social Club profile will allow you to save your game progress along with any Accomplishments awarded. If you do not have an online connection, you must still sign in with an 'Offline Profile' to save game progress. Do you want to sign in now?
-0x885AD568=尚未登录Social Club。登录Social Club账户后，您将能保存进度并解锁成就。若您没有网络连接，仍需以「离线账户」登录才能保存进度，但将无法解锁成就。您想现在登录吗？
+0x885AD568=尚未登录Social Club。登录Social Club账户后，您可以保存进度、解锁成就。若没有网络连接，仍需以「离线账户」登录才能保存进度，但将无法解锁成就。您想现在登录吗？
 
 ;0x6C00664A=You have not signed in. You will need to sign in to save your progress and to be awarded Accomplishments. Do you want to sign in now?
-0x6C00664A=您目前尚未登录。您需要进行登录，才能保存进度并解锁成就。您想现在登录吗？
+0x6C00664A=目前尚未登录。需要进行登录，才能保存进度、解锁成就。您想现在登录吗？
 
 ;0x53C0514D=You do not currently have a storage device selected. Do you want to select a storage device now?
-0x53C0514D=您目前尚未选择存储设备。您想现在选择存储设备吗？
+0x53C0514D=目前尚未选择存储设备。您想现在选择存储设备吗？
 
 ;0x2D97AB2E=The selected storage device has been removed. Do you want to select a new storage device?
 0x2D97AB2E=先前选定的存储设备已被移除。您是否要选择新的存储设备？
 
 ;0x29587C68=You do not currently have a storage device selected. You must select a storage device before you can autosave. Autosaving will automatically overwrite save game data in the autosave slot. Do you want to select a storage device now?
-0x29587C68=您目前尚未选择存储设备。自动存档功能需要您预先选定一个存储设备。自动存档会覆写自动存档栏位的游戏数据。您想现在选择存储设备吗？
+0x29587C68=目前尚未选择存储设备。自动存档功能需要您预先选定一个存储设备。自动存档会覆写自动存档栏位的游戏数据。您想现在选择存储设备吗？
 
 ;0xDC8BF60C=The selected storage device has been removed. You must select a storage device before you can autosave. Autosaving will automatically overwrite save game data in the autosave slot. Do you want to select a new storage device?
 0xDC8BF60C=先前选定的存储设备已被移除。自动存档功能需要您预先选定一个存储设备。自动存档会覆写自动存档栏位的游戏数据。您是否要选择新的存储设备？
 
 ;0x581C7D52=You have not selected a storage device. You will need to select a storage device in order to save game progress. Do you want to select one now?
-0x581C7D52=您目前尚未选择存储设备。您需要选择存储设备，才能保存进度。您想现在进行选择吗？
+0x581C7D52=目前尚未选择存储设备。需要选择存储设备，才能保存进度。您想现在进行选择吗？
 
 ;0xF9AE1FA2=You need an extra ~1~KB to save the game. Do you want to select another storage device and attempt to save again?
-0xF9AE1FA2=您还需要 ~1~KB 空间才能保存当前进度。您是否要选择其他存储设备重试？
+0xF9AE1FA2=还需要 ~1~KB 空间才能保存当前进度。您是否要选择其他存储设备重试？
 
 ;0x3A5E44A5=There is not enough space to save on the selected storage device. Do you want to select another storage device?
-0x3A5E44A5=当前选定的存储设备空间不足，无法保存。您是否要选择其他存储设备？
+0x3A5E44A5=当前选定的存储设备空间不足，无法保存。是否要选择其他存储设备？
 
 ;0x564E17C6=Error in Device Selection.
 0x564E17C6=设备选择出错。
@@ -2194,10 +2194,10 @@
 0xF9D6809A=您没有在此进行保存。无法载入此文件。
 
 ;0x24B6C197=Load failed. Please check your storage device and try again.
-0x24B6C197=载入失败。请在检查您的存储设备后重试。
+0x24B6C197=载入失败。请在检查存储设备后重试。
 
 ;0x8DBEEDF2=Load failed. Please check your hard drive and try again.
-0x8DBEEDF2=载入失败。请在检查您的硬盘后重试。
+0x8DBEEDF2=载入失败。请在检查硬盘后重试。
 
 ;0x56AA4BF9=Save game data file is not of the expected size. Load failed.
 0x56AA4BF9=存档文件大小不正确。载入失败。
@@ -2209,7 +2209,7 @@
 0xF2FD59E5=分配内存失败。
 
 ;0x3A82A0BB=Save failed. Please check your storage device and try again.
-0x3A82A0BB=保存失败。请在检查您的存储设备后重试。
+0x3A82A0BB=保存失败。请在检查存储设备后重试。
 
 ;0x5E939FF8=You have signed out.
 0x5E939FF8=您已注销。
@@ -2221,7 +2221,7 @@
 0x434CA491=您是否要选择自动存档使用的栏位？
 
 ;0xD57FDAC1=You have not selected a slot for autosaving. If you don't select a slot then autosaving will be turned off. Do you want to select a slot?
-0xD57FDAC1=您尚未选择自动存档使用的栏位。若不进行选择，自动存档功能将会关闭。您是否要选择栏位？
+0xD57FDAC1=尚未选择自动存档使用的栏位。若不进行选择，自动存档功能将会关闭。您是否要选择栏位？
 
 ;0x1DC6D32D=Autosave failed. Do you want to retry?
 0x1DC6D32D=自动存档失败，是否重试？
@@ -2233,25 +2233,25 @@
 0xD8E486C0=自动存档功能已关闭。若要再次启用自动存档，请在暂停菜单的游戏设置中开启。
 
 ;0x73142A4D=Are you sure you want to load this save game data? Doing so will lose any unsaved game progress.
-0x73142A4D=您确定要载入这一存档吗？所有未保存的进度都会丢失。
+0x73142A4D=确定要载入这一存档吗？所有未保存的进度都会丢失。
 
 ;0x05F72F3A=Slot ~1~ already contains save game data. Do you want to overwrite the data in this slot with the next autosave?
-0x05F72F3A=栏位 ~1~ 已存在存档数据。您是否要在下次自动存档时覆盖该栏位的数据？
+0x05F72F3A=栏位 ~1~ 已存在存档数据。是否要在下次自动存档时覆盖该栏位的数据？
 
 ;0x87B46457=Slot ~1~ already contains "~a~" saved on ~a~. Do you want to overwrite the data in this slot with the next autosave?
-0x87B46457=栏位 ~1~ 已存在 「~a~」 (保存于 ~a~)。您是否要在下次自动存档时覆盖该栏位的数据？
+0x87B46457=栏位 ~1~ 已存在 「~a~」 (保存于 ~a~)。是否要在下次自动存档时覆盖该栏位的数据？
 
 ;0xDF5BC432=Slot ~1~ already contains "~a~" saved on ~a~. Do you want to overwrite the data in this slot with your current game progress?
-0xDF5BC432=栏位 ~1~ 已存在 「~a~」 (保存于 ~a~)。您是否要用当前游戏进度覆盖该栏位的数据？
+0xDF5BC432=栏位 ~1~ 已存在 「~a~」 (保存于 ~a~)。是否要用当前游戏进度覆盖该栏位的数据？
 
 ;0x8149B089=The autosave slot already contains "~a~" saved on ~a~. Do you want to overwrite the data in this slot with your current game progress?
-0x8149B089=自动存档栏位已存在 「~a~」 (保存于 ~a~)。您是否要用当前游戏进度覆盖该栏位的数据？
+0x8149B089=自动存档栏位已存在 「~a~」 (保存于 ~a~)。是否要用当前游戏进度覆盖该栏位的数据？
 
 ;0xAE8C2789=Are you sure you want to use slot ~1~ for autosaves?
-0xAE8C2789=您确定要将栏位 ~1~ 用于自动存档吗？
+0xAE8C2789=确定要将栏位 ~1~ 用于自动存档吗？
 
 ;0x63CB8477=Are you sure you want to save your current game progress in slot ~1~?
-0x63CB8477=您确定要将当前游戏进度保存至栏位 ~1~ 吗？
+0x63CB8477=确定要将当前游戏进度保存至栏位 ~1~ 吗？
 
 ;0x3C8283B2=More files than expected in the save game folder for this profile.
 0x3C8283B2=此档案的存档目录下的文件数量超出预期。
@@ -2263,7 +2263,7 @@
 0x20CDAB8B=此文件夹中存在同名存档。
 
 ;0x991F5D02=The version number of this save game file does not match the version number of the game.
-0x991F5D02=此存档的版本与当前游戏版本不匹配。
+0x991F5D02=该存档的版本与当前游戏不匹配。
 
 ;0x94C13BFE=This save game data requires extra content that cannot be found on your XBox 360.
 0x94C13BFE=未能在您的XBox 360上找到此存档需要的追加内容。
@@ -2335,7 +2335,7 @@
 0xB3DC6CCE=缺少DLC
 
 ;0x85045BB8=You need the Episode ~1~ downloadable content to enter this multiplayer game. Returning to single player...
-0x85045BB8=您需要 Episode ~1~ DLC 才能加入这一多人战局。正在返回单人模式...
+0x85045BB8=需要 Episode ~1~ DLC 才能加入这一多人战局。正在返回单人模式...
 
 ;0x0EF2193F=Multiplayer Error
 0x0EF2193F=多人游戏出错
@@ -2344,7 +2344,7 @@
 0x9AC803AE=无法连接至游戏会话。
 
 ;0x650AFFF2=You cannot access multiplayer with modified files. You must restore the original files in order to access multiplayer.
-0x650AFFF2=您不能使用修改过的文件进行多人游戏。必须恢复原版文件才能进行多人游戏。
+0x650AFFF2=无法使用修改过的文件进行多人游戏。必须恢复原版文件才能进行多人游戏。
 
 ;0x87D528D1=Connecting to multiplayer
 0x87D528D1=正在连接多人游戏
@@ -2353,25 +2353,25 @@
 0x9E5F7329=正在连接游戏会话...
 
 ;0x4DF2EF67=You will need to be signed in to Xbox LIVE to view leaderboards.~n~Press ~PAD_A~ to continue.
-0x4DF2EF67=您需要登录Xbox LIVE才能查看排行榜。~n~按~PAD_A~继续。
+0x4DF2EF67=需要登录Xbox LIVE才能查看排行榜。~n~按~PAD_A~继续。
 
 ;0x1D04B66E=You need to be signed in to Xbox LIVE to view leaderboards.
-0x1D04B66E=您需要登录Xbox LIVE才能查看排行榜。
+0x1D04B66E=需要登录Xbox LIVE才能查看排行榜。
 
 ;0xAF4B2671=You will need to be signed in to Social Club to view leaderboards.~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.
-0xAF4B2671=您需要登录Social Club才能查看排行榜。~n~按~INPUT_FRONTEND_ACCEPT~继续。
+0xAF4B2671=需要登录Social Club才能查看排行榜。~n~按~INPUT_FRONTEND_ACCEPT~继续。
 
 ;0x50E3626D=You need to be signed in to Social Club to view leaderboards.
-0x50E3626D=您需要登录Social Club才能查看排行榜。
+0x50E3626D=需要登录Social Club才能查看排行榜。
 
 ;0x5819EF3D=You will need to be signed in to the PLAYSTATION®Network to view leaderboards.~n~Press ~ACCEPT~ to Continue.
-0x5819EF3D=您需要登录PLAYSTATION®Network才能查看排行榜。~n~按~ACCEPT~继续。
+0x5819EF3D=需要登录PLAYSTATION®Network才能查看排行榜。~n~按~ACCEPT~继续。
 
 ;0x39C1B28D=Press ~ACCEPT~ to Continue.
 0x39C1B28D=按~ACCEPT~继续。
 
 ;0x7256A3B6=You need to be signed in to the PLAYSTATION®Network to view leaderboards.
-0x7256A3B6=您需要登录PLAYSTATION®Network才能查看排行榜。
+0x7256A3B6=需要登录PLAYSTATION®Network才能查看排行榜。
 
 ;0x7536E397=Trying to connect to Xbox LIVE.~n~Press ~PAD_B~ to Cancel.
 0x7536E397=尝试连接Xbox LIVE中。~n~按~PAD_B~取消。
@@ -2719,7 +2719,7 @@
 0xE10623FB=Integrity 2.0
 
 ;0x0BEC79C7=Independence FM
-0x0BEC79C7=个人电台
+0x0BEC79C7=Independence FM
 
 ;0x4A2AFBC3=Vice City FM
 0x4A2AFBC3=Vice City FM
@@ -6565,7 +6565,7 @@
 0xEEE8E22B=最高
 
 ;0x5B52D1DE=LOADING...
-0x5B52D1DE=少女祈祷中...
+0x5B52D1DE=载入中...
 
 ;0xC21C3CDA=The other players chose to kick you from their game.
 0xC21C3CDA=The other players chose to kick you from their game.
@@ -6652,13 +6652,13 @@
 0x408378CA=清除第二输入
 
 ;0xAFEA9877=You have been signed out of Xbox LIVE because another person signed in using your gamer profile. Returning to single player...
-0xAFEA9877=因您的玩家档案在其他地方登录，您的 Xbox LIVE 已注销。正在返回单人模式...
+0xAFEA9877=因您的账号在其他地方登录，您已从 Xbox LIVE 注销。正在返回单人模式...
 
 ;0x5166F5B3=You have been signed out of Social Club because another person signed in using your gamer profile. Returning to single player...
-0x5166F5B3=因您的玩家档案在其他地方登录，您的 Social Club 已注销。正在返回单人模式...
+0x5166F5B3=因您的账号在其他地方登录，您已从 Social Club 注销。正在返回单人模式...
 
 ;0x129B0CAE=You have been signed out because another person signed in using your profile. Returning to single player...
-0x129B0CAE=因您的档案在其他地方登录，您已注销。正在返回单人模式...
+0x129B0CAE=因您的账号在其他地方登录，您已注销。正在返回单人模式...
 
 ;0x90A343A1=You are too far away from the action, turn back or suffer the consequences.
 0x90A343A1=你离行动区域太远了，立刻调头，否则将遭受惩罚。
@@ -6694,7 +6694,7 @@
 0xC3B610E1=基地
 
 ;0xA8247A53=More than one gamer profile is signed in. Press any button on the desired controller to select your controller and gamer profile.
-0xA8247A53=已登录了多个玩家档案。按下要使用的手柄上的任意按键选择您的手柄及玩家档案。
+0xA8247A53=已登录了多个账号。按下要使用的手柄上的任意按键选择需要使用的手柄及账号。
 
 ;0xC090D6A4=PS3 MENU
 0xC090D6A4=PS3 菜单
@@ -6709,7 +6709,7 @@
 0x64720137=条子看见你进去了。
 
 ;0xB4BC7E95=Are you sure you want to reset your Display Settings to default?
-0xB4BC7E95=您确定要将您的显示设置恢复为默认配置吗？
+0xB4BC7E95=确定要将您的显示设置恢复为默认配置吗？
 
 ;0x66A478CA=~PAD_LSTICK_UPDOWN~
 0x66A478CA=~PAD_LSTICK_UPDOWN~
@@ -6751,10 +6751,10 @@
 0xDC8D85F0=最后保存的存档已损坏，无法读取。
 
 ;0xACC398AB=Slot ~1~ contains damaged save game data. Do you want to overwrite the data in this slot with your current game progress?
-0xACC398AB=栏位 ~1~ 存在损坏的存档数据。您是否要用当前游戏进度覆盖该栏位的数据？
+0xACC398AB=栏位 ~1~ 存在损坏的存档数据。是否要用当前游戏进度覆盖该栏位的数据？
 
 ;0x8A438091=The autosave slot contains damaged save game data. Do you want to overwrite the data in this slot with your current game progress?
-0x8A438091=自动存档栏位存在损坏的存档数据。您是否要用当前游戏进度覆盖该栏位的数据？
+0x8A438091=自动存档栏位存在损坏的存档数据。是否要用当前游戏进度覆盖该栏位的数据？
 
 ;0x9B4EFB51=Starting a New Game...
 0x9B4EFB51=正在开始新游戏...
@@ -6778,7 +6778,7 @@
 0x63E5308F=将数据装载至硬盘时出错。
 
 ;0x719DCB73=Episode ~e~ has been downloaded. ~n~Do you want to play it?
-0x719DCB73=Episode ~e~ 已下载。~n~您是否要进行游玩？
+0x719DCB73=Episode ~e~ 已下载。~n~是否要进行游玩？
 
 ;0x2965F4EB=The current network game requires downloadable content that was unavailable. Press ~INPUT_FRONTEND_ACCEPT~ to return to single player.
 0x2965F4EB=当前联网游戏所需的 DLC 不可用。按~INPUT_FRONTEND_ACCEPT~返回单人模式。
@@ -6790,7 +6790,7 @@
 0x8E62BFB6=为了最佳游戏体验，调整以上设置，直到最浅的灰色恰好可见。
 
 ;0xFC830B8E=You need an extra ~1~KB to save into this slot. Try overwriting an existing save game in another slot or quit the game and free the required space.
-0xFC830B8E=您还需要 ~1~KB 空间才能保存到此栏位。请覆盖其他栏位的已有存档，或退出游戏空出所需空间。
+0xFC830B8E=还需要 ~1~KB 空间才能保存到此栏位。请覆盖其他栏位的已有存档，或退出游戏空出所需空间。
 
 ;0x41009330=MOBILE PHONE DOWN
 0x41009330=收起手机
@@ -6805,7 +6805,7 @@
 0xE5E590BD=您请求的 DLC 暂不可用。按~INPUT_FRONTEND_ACCEPT~返回 Grand Theft Auto IV。
 
 ;0x5ED9C17B=You need an extra ~1~KB of hard disk drive space for save game data. Please quit the game and free space on your hard disk drive.
-0x5ED9C17B=您还需要 ~1~KB 硬盘空间才能保存当前进度。请退出游戏，在硬盘中空出所需空间。
+0x5ED9C17B=还需要 ~1~KB 硬盘空间才能保存当前进度。请退出游戏，在硬盘中空出所需空间。
 
 ;0x6EC575C6=Loading -
 0x6EC575C6=载入中 -
@@ -6853,10 +6853,10 @@
 0x4E1B5834=© 2007-2020 Rockstar Games, Inc. Rockstar Games, Rockstar North, Rockstar Games ¬ 标志, Rockstar North ¬ 标志, Grand Theft Auto, 以及 Grand Theft Auto 标志是 Take-Two Interactive Software, Inc. 的商标和/或注册商标。所有其他的标志和商标均为其各自所有者的产权。保留一切权利。本电子游戏的内容纯属虚构，无意展现和描述任何真实事件、人物或实体，如有雷同，纯属巧合。本电子游戏的制造商和发行商并不以任何方式支持、容忍或鼓励任何人采取本电子游戏中描述的任何行为。严禁以下行为：未经授权的复制、逆向工程、传输、公开演示、租赁、付费游戏，或规避版权保护的行为。
 
 ;0x4AA60BF6=© 2006-2020 Rockstar Games, Inc. Rockstar Games, Rockstar North, the Rockstar Games ¬ logo, the Rockstar North ¬ logo, the Rockstar Toronto ¬ logo, Grand Theft Auto, and the Grand Theft Auto logo are trademarks and/or registered trademarks of Take-Two Interactive Software, Inc. in the U.S.A. and/or other foreign countries. Windows and the Windows Vista Start button logo are trademarks of the Microsoft group of companies, and 'Games for Windows' and the Windows Vista Start button logo are used under license from Microsoft. All other marks and trademarks are properties of their respective owners. All rights reserved.~n~~n~In North America, the ratings icon is a trademark of the Entertainment Software Association.
-0x4AA60BF6=© 2006-2020 Rockstar Games, Inc. Rockstar Games、 Rockstar North、 Rockstar Games ¬ 标志、 Rockstar North ¬ 标志、 Rockstar Toronto ¬ 标志、 Grand Theft Auto，以及 Grand Theft Auto 标志是 Take-Two Interactive Software, Inc. 在美国和/或海外的商标和/或注册商标。 Windows 与 Windows Vista 开始按钮标志是 Microsoft集团公司 的商标， Games for Windows 与 Windows Vista 开始按钮标志依授权使用。所有其他的标志和商标均为其各自所有者的产权。保留一切权利。~n~~n~在北美，分级图标是 娱乐软件协会 的商标。
+0x4AA60BF6=© 2006-2020 Rockstar Games, Inc. Rockstar Games、Rockstar North、Rockstar Games ¬ 标志、Rockstar North ¬ 标志、Rockstar Toronto ¬ 标志、Grand Theft Auto，以及 Grand Theft Auto 标志是 Take-Two Interactive Software, Inc. 在美国和/或海外的商标和/或注册商标。Windows 与 Windows Vista 开始按钮标志是 Microsoft集团公司 的商标，Games for Windows 与 Windows Vista 开始按钮标志依授权使用。所有其他的标志和商标均为其各自所有者的产权。保留一切权利。~n~~n~在北美，分级图标是 娱乐软件协会 的商标。~n~~n~汉化文本更新日期：2022-06-12
 
 ;0x60DA4833=Use of this software is subject to license available in the game manual and online at rockstargames.com/eula. An internet connection, assorted software installations, and certain service registrations are required for activation and use of this software. Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is strictly prohibited. The content of this videogame is purely fictional, is not intended to represent or depict any actual event, person, or entity, and any such similarities are purely coincidental. The makers and publishers of this videogame do not in any way endorse, condone or encourage engaging in any conduct depicted in this videogame.~n~Your gameplay information may be displayed on web pages and leaderboards, including those located at http://www.rockstargames.com/socialclub. ~n~Playing the game may make you eligible to claim some prizes. Check out http://www.rockstargames.com/socialclub/events. ~n~For details, official rules, or to opt-out of certain Social Club features visit http://www.rockstargames.com/socialclub/privacy. ~n~Contests void where prohibited. No purchase necessary. Sponsored by Rockstar Games, 622 Broadway, New York, NY, USA.
-0x60DA4833=此软件的使用将受游戏手册以及 www.rockstargames.com/eula 上的许可条款约束。激活与使用此软件将需要保持网络连接、安装数个软件、注册某些服务。严禁以下行为：未经授权的复制、逆向工程、传输、公开演示、出租、付费游戏，或规避版权保护的行为。本电子游戏的内容纯属虚构，无意展现和描述任何真实事件、人物或实体，如有雷同，纯属巧合。本电子游戏的制造商和发行商并不以任何方式支持、容忍或鼓励任何人采取本电子游戏中描述的任何行为。~n~您的游戏信息可能会显示在包括 www.rockstargames.com/socialclub 在内的网页和排行榜上。进行游戏表示您可能有资格获取某些奖品，请参阅 www.rockstargames.com/socialclub/events。~n~如需详细信息、官方规则或 Social Club 特定功能的退出选择权，~n~请参阅 www.rockstargames.com/socialclub/privacy。~n~相关比赛如被禁止，即为无效。无需另行购买。本游戏由 Rockstar Games 赞助，~n~地址：622 Broadway, New York, NY, USA。
+0x60DA4833=此软件的使用将受游戏手册以及 www.rockstargames.com/eula 上的许可条款约束。激活与使用此软件将需要保持网络连接、安装数个软件、注册某些服务。严禁以下行为：未经授权的复制、逆向工程、传输、公开演示、出租、付费游戏，或规避版权保护的行为。本电子游戏的内容纯属虚构，无意展现和描述任何真实事件、人物或实体，如有雷同，纯属巧合。本电子游戏的制造商和发行商并不以任何方式支持、容忍或鼓励任何人采取本电子游戏中描述的任何行为。~n~您的游戏信息可能会显示在包括 www.rockstargames.com/socialclub 在内的网页和排行榜上。进行游戏表示您可能有资格获取某些奖品，请参阅 www.rockstargames.com/socialclub/events。~n~如需详细信息、官方规则或 Social Club 特定功能的退出选择权，~n~请参阅 www.rockstargames.com/socialclub/privacy。~n~相关活动如被禁止，即为无效。无需额外付费。活动由 Rockstar Games 赞助，~n~地址：622 Broadway, New York, NY, USA。
 
 ;0x238ED387=~ACCEPT~
 0x238ED387=~ACCEPT~
@@ -7486,10 +7486,10 @@
 0x178967B3=与一个或多个玩家的连接已丢失。
 
 ;0x9E814902=You have been disconnected because your computer is running too slowly.
-0x9E814902=您的电脑运行过慢，您已被强制断线。
+0x9E814902=您的电脑运行过慢，已被强制断线。
 
 ;0x4C43A484=You have been disconnected because you have run out of streaming memory.
-0x4C43A484=您的流内存已超限，您已被强制断线。
+0x4C43A484=您的流内存已超限，已被强制断线。
 
 ;0x00112BFD=RUN
 0x00112BFD=奔跑
@@ -7723,7 +7723,7 @@
 0xA6B3D98D=Face
 
 ;0x7E8C78BE=Are you sure you want to start ~e~?~n~All unsaved progress will be lost.
-0x7E8C78BE=您确定要开始 ~e~ 吗？~n~所有未保存的进度都会丢失。
+0x7E8C78BE=确定要开始 ~e~ 吗？~n~所有未保存的进度都会丢失。
 
 ;0x5A570843=You need to be signed in to Xbox LIVE to access Xbox LIVE Marketplace.
 0x5A570843=您需要登录 Xbox LIVE 才能访问 Xbox LIVE 市场。
@@ -7732,19 +7732,19 @@
 0x861700BA=您需要登录 Social Club 才能访问商店。
 
 ;0x2693A542=You need the "The Lost and Damned" downloadable content to enter this multiplayer game. Returning to single player...
-0x2693A542=您需要「失落与诅咒」 DLC 才能加入这一多人游戏。正在返回单人模式...
+0x2693A542=需要「失落与诅咒」 DLC 才能加入这一多人游戏。正在返回单人模式...
 
 ;0x73B73F88=You need the "The Lost and Damned" downloadable content to enter this multiplayer game.
-0x73B73F88=您需要「失落与诅咒」 DLC 才能加入这一多人游戏。
+0x73B73F88=需要「失落与诅咒」 DLC 才能加入这一多人游戏。
 
 ;0x7B553D0B=You need the "The Ballad of Gay Tony" downloadable content to enter this multiplayer game. Returning to single player...
-0x7B553D0B=您需要「夜生活之曲」 DLC 才能加入这一多人战局。正在返回单人模式。
+0x7B553D0B=需要「夜生活之曲」 DLC 才能加入这一多人战局。正在返回单人模式。
 
 ;0xAB2BBA7D=You need the "The Ballad of Gay Tony" downloadable content to enter this multiplayer game.
-0xAB2BBA7D=您需要「夜生活之曲」 DLC 才能加入这一多人战局。
+0xAB2BBA7D=需要「夜生活之曲」 DLC 才能加入这一多人战局。
 
 ;0x6668B4FD=~e~ has been downloaded. ~n~Do you want to play it?
-0x6668B4FD=~e~ 已下载。~n~您是否要进行游玩？
+0x6668B4FD=~e~ 已下载。~n~是否要进行游玩？
 
 ;0x8E6EFA70=DELETE
 0x8E6EFA70=删除
@@ -7855,19 +7855,19 @@
 0x170B5D04=您的内存不足，无法编辑视频。
 
 ;0x2EC07DE6=Storyboard: Drag clips here to create your Video.
-0x2EC07DE6=Storyboard：将片段拖到此处以创建您的视频。
+0x2EC07DE6=Storyboard：将片段拖到此处以创建视频。
 
 ;0x51195A4D=Clip Timeline:__Displays Clips relative to the Video length.
 0x51195A4D=片段时间轴：__显示片段相对于视频的长度。
 
 ;0x16B76833=Audio Timeline:__Drag a song here to add music to your Video.
-0x16B76833=音频时间轴：__将歌曲拖到此处可为您的视频添加音乐。
+0x16B76833=音频时间轴：__将歌曲拖到此处可为视频添加音乐。
 
 ;0xC8AB3ACA=Text Timeline:__Drag a text box here to add titles to your Video.
-0xC8AB3ACA=文本时间轴：__将文本框拖到此处可为您的视频添加字幕。
+0xC8AB3ACA=文本时间轴：__将文本框拖到此处可为视频添加字幕。
 
 ;0xFFBD783E=Text Timeline:__Drag a text box here to add titles to your Video.
-0xFFBD783E=文本时间轴：__将文本框拖到此处可为您的视频添加字幕。
+0xFFBD783E=文本时间轴：__将文本框拖到此处可为视频添加字幕。
 
 ;0x8CA85722=EXPORT TO GALLERY
 0x8CA85722=导出至相册
@@ -8074,7 +8074,7 @@
 0x77B43CAB=将转场拖入Storyboard上的两个片段之间可添加转场效果。转场效果仅能在导出的视频中查看。
 
 ;0x61F11125=Click to preview your video. Transitions will not be displayed.
-0x61F11125=点击预览您的视频。预览时不会显示转场效果。
+0x61F11125=点击预览视频。预览时不会显示转场效果。
 
 ;0x0769D670=Double-click a clip to open it in the Clip Editor. Clips can be rearranged by copying and pasting or by dragging them into place.
 0x0769D670=双击片段可将其在片段编辑器中打开。通过复制粘贴与拖动的操作可以重新编排片段。
@@ -8086,7 +8086,7 @@
 0xE407A227=点击将选中视频上传至您的在线视频相册。上传的视频将被分享到Social Club TV。
 
 ;0x1D5614C3=This window contains all of your uploaded videos. When you upload a video, you will enter your video's tags and description in this window.
-0x1D5614C3=此窗口包含了您所有已上传的视频。当您上传视频时，您将会在此窗口中输入您视频的标签与描述。
+0x1D5614C3=此窗口包含了所有您上传的视频。上传视频时，您需要在此窗口中输入视频的标签与描述。
 
 ;0xE0A65AAC=Social Club failed to initialize. Error code: ~1~. Press Yes to view an online support article to help resolve this issue. Press No to exit.
 0xE0A65AAC=Social Club初始化失败。错误代码：~1~。按「是」查看相关解决方式的支持网页。按「否」退出游戏。~n~~n~注：若为代码1，且游戏版本为1.2.0.32，则需要将系统日期改到20年5月之前或升级游戏。~n~若为代码4，则需要删除根目录下的d3d9.dll以及相关画面Mod。不想删就只能打个破解补丁绕过R星平台。~n~终极解决方法：进入游戏根目录，删除所有文件，验证完整性重装游戏。~n~若以上方法无效或提示其他代码，汉化组也帮不了你哈。
@@ -8272,7 +8272,7 @@
 0x217DC8F9=GTA IV无法载入。
 
 ;0x7486E572=Warning: A critical control is unmapped. Do you wish to exit control mapping?~n~Changes made since your last save will be lost.
-0x7486E572=警告：存在未被分配的关键按键。您仍要退出自定义按键设置吗？~n~一旦确认，之前的设置将全部丢失。
+0x7486E572=警告：存在未被分配的关键按键。仍要退出自定义按键设置吗？~n~一旦确认，之前的设置将全部丢失。
 
 ;0x302ACCE0=Error - Invalid Driver Version. Please download the latest drivers from the ATI website.
 0x302ACCE0=错误 - 驱动版本不可用。请从 ATI 官网下载最新驱动。
@@ -8299,7 +8299,7 @@
 0xB0603D06=播放 1080p 视频时的效果在不同配置的电脑上或存在区别。
 
 ;0x404F304B=A video file with this name already exists.~n~Would you like to overwrite this file?
-0x404F304B=已存在同名视频文件。~n~您是否要覆盖该文件？
+0x404F304B=已存在同名视频文件。~n~是否要覆盖该文件？
 
 ;0xBB969C8B=GTA IV cannot be launched over remote desktop.
 0xBB969C8B=GTA IV无法在远程桌面下启动。
@@ -15597,16 +15597,16 @@
 0x23593C1A=~s~选择加入Social Club排位对局。
 
 ;0x94CCC4D5=Independence FM plays your music! Place your music files in My Documents \ RockstarGames \ GTAIV \ User Music
-0x94CCC4D5=个人电台能够播放您的音乐！将您的音乐文件放到「我的文档 \ RockstarGames \ GTAIV \ User Music」
+0x94CCC4D5=个人电台能够播放您的音乐！将音乐文件放到「文档 \ Rockstar Games \ GTA IV \ User Music」即可
 
 ;0xEB33A505=Independence FM plays your music!~n~Check out the Audio tab in the pause menu to get your music in the game.
 0xEB33A505=个人电台能够播放您的音乐！~n~检视暂停菜单中的音频标签以将您的音乐导入游戏。
 
 ;0xA30F615A=Place your music files, or shortcuts to your music folders, in My Documents \ RockstarGames \ GTAIV \ User Music
-0xA30F615A=将您的音乐文件或音乐文件夹的快捷方式放到「我的文档 \ RockstarGames \ GTAIV \ User Music」
+0xA30F615A=将音乐文件或音乐文件夹的快捷方式放到「文档 \ Rockstar Games \ GTA IV \ User Music」即可
 
 ;0x06B828AA=This folder must be scanned before you can listen to your music on Independence FM.
-0x06B828AA=在您能够从个人电台上听到这些音乐之前，必须对该文件夹进行扫描。
+0x06B828AA=想在个人电台听到这些音乐，必须先对该文件夹进行扫描。
 
 ;0x555FC5F8=Alternatively, you can turn auto scan ON. Everytime you start GTA IV, the files will be scanned automatically.
 0x555FC5F8=当然，您也可以启用自动扫描功能。每次启动GTA IV时都会自动扫描音乐文件。
@@ -17340,22 +17340,22 @@
 0xE7BD92D6=~s~按~INPUT_VEH_HANDBRAKE~使用手刹。
 
 ;0xC396E97E=You can make changes to your phone profile at any point. You can customize ringtype and ringtone.
-0xC396E97E=你可以随时更改你手机的设置，还可以自定义铃声和响铃模式。
+0xC396E97E=你可以随时更改手机的设置，还可以自定义铃声和响铃模式。
 
 ;0x3D574370=If you get a better phone you'll have more customizable options, such as different themes.
-0x3D574370=若你拥有更好的手机，你可自定义的内容会更多，例如更换主题。
+0x3D574370=若你拥有更好的手机，可自定义的内容也会变多，例如更换主题。
 
 ;0x04B93AC0=GTA IV allows you to capture recent events for playback at a later time. You can capture the most recent events by holding ~INPUT_REPLAY_SAVE_TO_HDD~.
-0x04B93AC0=GTA IV 允许您在事件发生后捕捉最近事件用于回放。您可以通过长按~INPUT_REPLAY_SAVE_TO_HDD~捕捉最近事件。
+0x04B93AC0=GTA IV 允许您在事件发生后捕捉最近事件用于回放。长按~INPUT_REPLAY_SAVE_TO_HDD~可以捕捉最近事件。
 
 ;0xB8D3F4D5=GTA IV allows you to capture recent events for playback at a later time. You can capture the most recent events by pressing ~INPUT_REPLAY_SAVE_TO_HDD~.
-0xB8D3F4D5=GTA IV 允许您在事件发生后捕捉最近事件用于回放。您可以通过长按~INPUT_REPLAY_SAVE_TO_HDD~捕捉最近事件。
+0xB8D3F4D5=GTA IV 允许您在事件发生后捕捉最近事件用于回放。长按~INPUT_REPLAY_SAVE_TO_HDD~可以捕捉最近事件。
 
 ;0x8F004253=You can capture clips of recent events by holding ~INPUT_REPLAY_SAVE_TO_HDD~. These clips can be edited within the Video Editor accessed through the cellphone.
-0x8F004253=长按~INPUT_REPLAY_SAVE_TO_HDD~可以捕捉最近事件的片段。这些片段可在手机中的视频编辑器上编辑。
+0x8F004253=长按~INPUT_REPLAY_SAVE_TO_HDD~可以捕捉最近事件的片段。这些片段可以通过手机中的「视频编辑器」编辑。
 
 ;0xF6F190EF=You can capture clips of recent events by pressing ~INPUT_REPLAY_SAVE_TO_HDD~. These clips can be edited within the Video Editor accessed through the cellphone.
-0xF6F190EF=长按~INPUT_REPLAY_SAVE_TO_HDD~可以捕捉最近事件的片段。这些片段可在手机中的视频编辑器上编辑。
+0xF6F190EF=长按~INPUT_REPLAY_SAVE_TO_HDD~可以捕捉最近事件的片段。这些片段可以通过手机中的「视频编辑器」编辑。
 
 ;0xA2C669DF=Select this option to access the Video Editor. Hold ~INPUT_REPLAY_SAVE_TO_HDD~ to capture clips.
 0xA2C669DF=选择此项启动视频编辑器。~n~长按~INPUT_REPLAY_SAVE_TO_HDD~捕捉片段。
@@ -17364,7 +17364,7 @@
 0x61D81230=选择此项启动视频编辑器。~n~长按~INPUT_REPLAY_SAVE_TO_HDD~捕捉片段。
 
 ;0x736C8B2C=Your Clip has been captured. If you wish to view or edit your clip, bring up your phone and select Video Editor.
-0x736C8B2C=您的片段已捕捉。若您想查看或编辑您的片段，拿出手机后选择视频编辑器。
+0x736C8B2C=片段已捕捉。若想查看或编辑片段，拿出手机后选择「视频编辑器」。
 
 ;0xDC5E1CD8=~s~Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the target vehicle.
 0xDC5E1CD8=~s~按住~INPUT_VEH_CIN_CAM~可将镜头对准目标车辆。
@@ -18444,7 +18444,7 @@
 0x22A86052=您需要登录 Xbox LIVE 才能使用 Xbox LIVE 特性。
 
 ;0x7BA8FCC9=Your Gamer Profile does not have the correct permissions to access Xbox LIVE functionality.
-0x7BA8FCC9=您的玩家档案没有访问 Xbox LIVE 功能的授权。
+0x7BA8FCC9=您的账号没有访问 Xbox LIVE 功能的授权。
 
 ;0x20A7E8FE=You need to be signed into Social Club to access online game play features.
 0x20A7E8FE=您需要登录Social Club才能使用在线游戏功能。
@@ -18462,7 +18462,7 @@
 0x6C170B58=您必须连接到 Social Club 才能进行多人游戏。
 
 ;0xF946B216=Your Gamer Profile does not have the correct permissions to access Social Club functionality.
-0xF946B216=您的玩家档案没有访问 Social Club 功能的授权。
+0xF946B216=您的账号没有访问 Social Club 功能的授权。
 
 ;0x0A13C80E=You need to sign in to a PLAYSTATION® Network account to play online.
 0x0A13C80E=您需要登录一个 PLAYSTATION® Network 账户才能游玩线上部分。
@@ -18471,10 +18471,10 @@
 0x167E9EFC=您的 PLAYSTATION® Network 账户没有游玩线上部分的授权。
 
 ;0x28383E02=Are you sure you wish to start a multiplayer game? Any unsaved progress will be lost.
-0x28383E02=您确定要开始多人游戏吗？所有未保存的进度都会丢失。
+0x28383E02=确定要开始多人游戏吗？所有未保存的进度都会丢失。
 
 ;0x0D63155D=Are you sure you wish to leave and start another multiplayer game?
-0x0D63155D=您确定要离开当前游戏，开始另一局多人游戏吗？
+0x0D63155D=确定要离开当前游戏，开始另一局多人游戏吗？
 
 ;0x51C83D59=Tutorial
 0x51C83D59=教程
@@ -18492,7 +18492,7 @@
 0x2347C575=VIP
 
 ;0xAC07A2C1=You need to attach a Headset to call other players.
-0xAC07A2C1=您需要连接耳麦才能呼叫其他玩家。
+0xAC07A2C1=需要连接耳麦才能呼叫其他玩家。
 
 ;0x80BDB041=The player you want to call does not have a Headset attached.
 0x80BDB041=您所呼叫的玩家没有连接耳麦。
@@ -18660,7 +18660,7 @@
 0x6D356291=与 Social Club 的连接已丢失，正在返回单人模式。
 
 ;0x9B73007B=You need to be signed into Social Club to access online game play features.
-0x9B73007B=您需要登录Social Club才能使用在线游戏功能。
+0x9B73007B=需要登录Social Club才能使用在线游戏功能。
 
 ;0xE6AFFC9D=The connection to the Local Network has been lost. Returning to single player.
 0xE6AFFC9D=与局域网的连接已丢失，正在返回单人模式。
@@ -18690,10 +18690,10 @@
 0x6C0CF576=目前您的派对中玩家过多，无法游玩此模式。
 
 ;0x331A9FA0=You need to attach a headset to call other players.
-0x331A9FA0=您需要连接耳麦才能呼叫其他玩家。
+0x331A9FA0=需要连接耳麦才能呼叫其他玩家。
 
 ;0x781D93D8=The player you want to call does not have a headset attached.
-0x781D93D8=您所呼叫的玩家没有连接耳麦。
+0x781D93D8=所呼叫的玩家没有连接耳麦。
 
 ;0x997F30AF=You have chosen to enter multiplayer mode. Are you sure?
 0x997F30AF=你已选择进入多人模式。这将会关闭你当前的游戏，未保存的进度都会丢失。是否还要继续？
@@ -18714,10 +18714,10 @@
 0x12A9333D=返回派对模式。
 
 ;0x81367065=Are you sure you wish to leave the current game and return to the party rendezvous?
-0x81367065=您确定要离开当前游戏，回到派对集合点吗？
+0x81367065=确定要离开当前游戏，回到派对集合点吗？
 
 ;0xF71B9057=Are you sure you wish to leave the current game and create a party?
-0xF71B9057=您确定要离开当前游戏，创建一个派对吗？
+0xF71B9057=确定要离开当前游戏，创建一个派对吗？
 
 ;0xEEC9F6E4=Cancel vote
 0xEEC9F6E4=取消投票
@@ -18741,7 +18741,7 @@
 0x88685437=启用睡眠模式会阻断一切任务呼叫和短信，可能使剧情进度停滞。你确定要启用吗？
 
 ;0xAFFE4048=Are you sure you wish to leave the current game and enter the Video Editor? All unsaved data may be lost.
-0xAFFE4048=您确定要离开当前游戏，启动视频编辑器吗？所有未保存的进度都会丢失。
+0xAFFE4048=确定要离开当前游戏，启动视频编辑器吗？所有未保存的进度都会丢失。
 
 ;0x591C3C67=Cannot connect to game provider, please try again later.
 0x591C3C67=无法连接至游戏提供者，请稍后再试。
@@ -18783,7 +18783,7 @@
 0xF1C14D9C=退出教程
 
 ;0x6375B4A0=Are you sure you wish to quit the tutorial and return to the game?
-0x6375B4A0=您确定要退出教程，返回游戏吗？
+0x6375B4A0=确定要退出教程，返回游戏吗？
 
 ;0x401F3C13=Waiting for other players to finish joining before starting game.
 0x401F3C13=等待其他玩家确认加入以开始游戏。
@@ -22317,7 +22317,7 @@
 0xC9B06417=已锁定
 
 ;0x4B56E75E=Once locked, you can not change your match settings until the match is finished.~n~Are you sure you wish to lock your match settings?
-0x4B56E75E=一旦锁定，你在本局游戏结束前将无法更改你的对局设置。~n~您确定要锁定您的对局设置吗？
+0x4B56E75E=一旦锁定，你在本局游戏结束前将无法更改你的对局设置。~n~您确定要锁定对局设置吗？
 
 ;0x9C7FA22F=Scroll filter list
 0x9C7FA22F=滚动筛选器列表
@@ -28224,7 +28224,7 @@
 0x152C6428=~z~~x~Purgatory。
 
 ;0x487894BC=~z~~x~Star Junction.
-0x487894BC=~z~~x~Star Junction。
+0x487894BC=~z~~x~星汇广场。
 
 ;0xC79101B6=~z~~x~Hatton Gardens.
 0xC79101B6=~z~~x~Hatton Gardens。
@@ -28338,7 +28338,7 @@
 0xA4869ECF=~z~~x~就知道你会问这个。等我知道自己在哪儿了再打过来。
 
 ;0x81FFC5DA=~z~~x~The Leaper Bridge.
-0x81FFC5DA=~z~~x~Leaper大桥。
+0x81FFC5DA=~z~~x~纵身大桥。
 
 ;0x349CCD03=~z~~x~We look forward to hearing from you again. Please stay safe in the meantime.
 0x349CCD03=~z~~x~我们期待您的下次来电。同时请您注意安全。
@@ -30435,7 +30435,7 @@
 0x00A79304=Zit!
 
 ;0x531A063B=Sorry, Zit cannot spot the track you are listening to.
-0x531A063B=Sorry, Zit cannot spot the track you are listening to.
+0x531A063B=抱歉，ZiT无法识别当前播放的曲目。
 
 ;0x95F88BF3=Zit! Spotted MILES DAVIS: Move
 0x95F88BF3=Zit! Spotted MILES DAVIS: Move
