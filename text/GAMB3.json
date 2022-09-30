@@ -1,0 +1,46 @@
+{
+    "GAMB3": [
+        {
+            "hash": 486859739,
+            "original": "Find a way into the compound to destroy the ~r~vans.",
+            "translated": "设法攻入货仓，摧毁所有~r~货车。",
+            "desc": ""
+        },
+        {
+            "hash": 831030562,
+            "original": "~r~The vans have been moved.",
+            "translated": "~r~货车已经转移。",
+            "desc": ""
+        },
+        {
+            "hash": 1176712727,
+            "original": "Destroy the ~r~vans.",
+            "translated": "摧毁所有~r~货车。",
+            "desc": ""
+        },
+        {
+            "hash": 1674766774,
+            "original": "~r~A van got away.",
+            "translated": "~r~有货车逃掉了。",
+            "desc": ""
+        },
+        {
+            "hash": 3405791191,
+            "original": "The grocery business is just a cover for the drugs so the area is heavily guarded.",
+            "translated": "经营杂货旨在掩盖贩毒事实，故此地戒备森严。",
+            "desc": ""
+        },
+        {
+            "hash": 3621640594,
+            "original": "The Russian drug traffickers have lined the vans with cocaine.",
+            "translated": "俄国毒贩已将可卡因装入货车。",
+            "desc": ""
+        },
+        {
+            "hash": 4247233569,
+            "original": "Go to the ~y~compound.",
+            "translated": "前往~y~货仓。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,784 @@
+{
+    "G2AUD": [
+        {
+            "hash": 17664603,
+            "original": "G2_NA",
+            "translated": "G2_NA",
+            "desc": ""
+        },
+        {
+            "hash": 27295720,
+            "original": "~z~I good friend of that junkie, remember?",
+            "translated": "~z~我是那个瘾君子的朋友，记得吗？",
+            "desc": ""
+        },
+        {
+            "hash": 63728762,
+            "original": "~z~I told you Kim left a long time ago, get out.",
+            "translated": "~z~我都说了Kim老早就走了，滚吧。",
+            "desc": ""
+        },
+        {
+            "hash": 70949174,
+            "original": "040400",
+            "translated": "040400",
+            "desc": ""
+        },
+        {
+            "hash": 84749540,
+            "original": "G2_MA",
+            "translated": "G2_MA",
+            "desc": ""
+        },
+        {
+            "hash": 179390940,
+            "original": "G2_AB",
+            "translated": "G2_AB",
+            "desc": ""
+        },
+        {
+            "hash": 193162583,
+            "original": "~z~Where is Kim?",
+            "translated": "~z~Kim在哪？",
+            "desc": ""
+        },
+        {
+            "hash": 220266296,
+            "original": "~z~You don't want to go in there. We're not some normal restaurant.",
+            "translated": "~z~我建议你最好别进去。我们这可不是一般的餐厅。",
+            "desc": ""
+        },
+        {
+            "hash": 303461576,
+            "original": "~z~I think it's our turn to do a favor for that mutual friend of ours.",
+            "translated": "~z~我想也该轮到我们给那位旧相识帮帮忙了。",
+            "desc": ""
+        },
+        {
+            "hash": 312652997,
+            "original": "G2_GC",
+            "translated": "G2_GC",
+            "desc": ""
+        },
+        {
+            "hash": 346590158,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        },
+        {
+            "hash": 434202964,
+            "original": "G2_AC",
+            "translated": "G2_AC",
+            "desc": ""
+        },
+        {
+            "hash": 482411463,
+            "original": "~z~Where is Kim?",
+            "translated": "~z~Kim在哪？",
+            "desc": ""
+        },
+        {
+            "hash": 595233073,
+            "original": "~z~If you play stupid you're not going to live very long. Where's Kim?",
+            "translated": "~z~装疯卖傻可就小命不保了。Kim在哪？",
+            "desc": ""
+        },
+        {
+            "hash": 599239274,
+            "original": "G2_OC",
+            "translated": "G2_OC",
+            "desc": ""
+        },
+        {
+            "hash": 669512923,
+            "original": "~z~Fuck off. I just trying to make money.",
+            "translated": "~z~滚蛋。我只是想赚钱。",
+            "desc": ""
+        },
+        {
+            "hash": 754594918,
+            "original": "010100100100",
+            "translated": "010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 765766628,
+            "original": "~z~Seems some Korean has come into the country and...",
+            "translated": "~z~一些朝鲜人好像已经入境了，还...",
+            "desc": ""
+        },
+        {
+            "hash": 780321254,
+            "original": "~z~Get out of my office before more guys come in here and shoot the place up.",
+            "translated": "~z~滚出我的办公室，不然我叫人来把这里打成马蜂窝。",
+            "desc": ""
+        },
+        {
+            "hash": 828089587,
+            "original": "~z~He heard you come. He run out back through the kitchen.",
+            "translated": "~z~知道你来了，他就从后厨跑出去了。",
+            "desc": ""
+        },
+        {
+            "hash": 837727696,
+            "original": "~z~Listen, I need you to deal with this.",
+            "translated": "~z~听着，我需要你去解决。",
+            "desc": ""
+        },
+        {
+            "hash": 920309010,
+            "original": "~z~-Whoa, whoa, whoa.~n~-Aaah, Niko... good to see you.",
+            "translated": "~z~－喔，喔，喔。~n~－啊，Niko...很高兴见到你。",
+            "desc": ""
+        },
+        {
+            "hash": 944692158,
+            "original": "~z~No do this.",
+            "translated": "~z~千万不要这么做。",
+            "desc": ""
+        },
+        {
+            "hash": 1002237237,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        },
+        {
+            "hash": 1031287949,
+            "original": "100100010010",
+            "translated": "100100010010",
+            "desc": ""
+        },
+        {
+            "hash": 1034575205,
+            "original": "~z~Tell me that Kim Young-Guk isn't devaluing our precious currency anymore?",
+            "translated": "~z~那个Kim Young-Guk是不是没法继续让我们宝贵的货币贬值了？",
+            "desc": ""
+        },
+        {
+            "hash": 1061703811,
+            "original": "~z~That's good...",
+            "translated": "~z~那挺好...",
+            "desc": ""
+        },
+        {
+            "hash": 1062948689,
+            "original": "~z~and is selling money at a discount.",
+            "translated": "~z~还在低价出手钞票。",
+            "desc": ""
+        },
+        {
+            "hash": 1080341510,
+            "original": "G2_AA",
+            "translated": "G2_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1101062814,
+            "original": "~z~You too. How are you, Mr. Gravelli?",
+            "translated": "~z~我也是。还好吗，Gravelli先生？",
+            "desc": ""
+        },
+        {
+            "hash": 1140851976,
+            "original": "G2_LA",
+            "translated": "G2_LA",
+            "desc": ""
+        },
+        {
+            "hash": 1169274556,
+            "original": "~z~Niko, it's Brucie baby.",
+            "translated": "~z~Nicky，是我Brucie，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 1225679543,
+            "original": "~z~He'll be here soon.",
+            "translated": "~z~马上给你送来。",
+            "desc": ""
+        },
+        {
+            "hash": 1343999437,
+            "original": "G2_CB",
+            "translated": "G2_CB",
+            "desc": ""
+        },
+        {
+            "hash": 1351824975,
+            "original": "~z~I thought you wanted to help our friend from United Liberty Paper as much as I did?",
+            "translated": "~z~我还以为你和我一样想给我们联合自由纸业的旧相识帮忙。",
+            "desc": ""
+        },
+        {
+            "hash": 1375694403,
+            "original": "~z~Kim's not here. He left a long time ago. You best go look somewhere else.",
+            "translated": "~z~Kim不在这儿。他老早就走了。你还是去别处找吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1431885671,
+            "original": "G2_AA",
+            "translated": "G2_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1478361282,
+            "original": "~z~Good, good...",
+            "translated": "~z~好啊，好...",
+            "desc": ""
+        },
+        {
+            "hash": 1506336490,
+            "original": "~z~How about you and me do some serious carb loading bro?",
+            "translated": "~z~你我一起去摄入一些碳水如何，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 1515363803,
+            "original": "~z~Hey, watch it man.",
+            "translated": "~z~嘿，小心点。",
+            "desc": ""
+        },
+        {
+            "hash": 1611236924,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 1625370065,
+            "original": "500",
+            "translated": "500",
+            "desc": ""
+        },
+        {
+            "hash": 1668229650,
+            "original": "G2_HB",
+            "translated": "G2_HB",
+            "desc": ""
+        },
+        {
+            "hash": 1678177126,
+            "original": "~z~Shit man, I can't. I'm already on my way to a Korean place.",
+            "translated": "~z~操了，兄弟，没空。我已经在去朝鲜饭店的路上了。",
+            "desc": ""
+        },
+        {
+            "hash": 1714674382,
+            "original": "G2_GD",
+            "translated": "G2_GD",
+            "desc": ""
+        },
+        {
+            "hash": 1775871033,
+            "original": "~z~And it seems your Russian friends are getting the message.",
+            "translated": "~z~似乎你那些俄国朋友也收到了消息。",
+            "desc": ""
+        },
+        {
+            "hash": 1779670565,
+            "original": "~z~Yeah, in Alderney City.",
+            "translated": "~z~对，在Alderney市。",
+            "desc": ""
+        },
+        {
+            "hash": 1802660877,
+            "original": "~z~His superiors aren't going to be happy.",
+            "translated": "~z~他的上司肯定会不高兴的。",
+            "desc": ""
+        },
+        {
+            "hash": 1823061378,
+            "original": "590",
+            "translated": "590",
+            "desc": ""
+        },
+        {
+            "hash": 1956858718,
+            "original": "~z~He's passed his last false bill, Mr. Gravelli.",
+            "translated": "~z~他刚用完最后一次假币，Gravelli先生。",
+            "desc": ""
+        },
+        {
+            "hash": 1962133907,
+            "original": "G2_HA",
+            "translated": "G2_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2000229203,
+            "original": "~z~Kim's leaving, you better chase him.",
+            "translated": "~z~Kim要跑了，你快去追吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2002031404,
+            "original": "020200010200",
+            "translated": "020200010200",
+            "desc": ""
+        },
+        {
+            "hash": 2019441338,
+            "original": "~z~he... he eats at a restaurant called Mr. Fuk's Rice Box.",
+            "translated": "~z~现...现在在饭店吃饭，叫老曹盒饭。",
+            "desc": ""
+        },
+        {
+            "hash": 2060294783,
+            "original": "~z~Get outta here with your gun, dick face.",
+            "translated": "~z~带上你的枪滚蛋，傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 2181326368,
+            "original": "~z~Well done, my boy. This is going to be a fruitful partnership for us both.",
+            "translated": "~z~干得漂亮，孩子。我们之间的合作可谓收获颇丰。",
+            "desc": ""
+        },
+        {
+            "hash": 2224871871,
+            "original": "~z~Some of them...",
+            "translated": "~z~其中几个...",
+            "desc": ""
+        },
+        {
+            "hash": 2241877310,
+            "original": "~z~Yeah right, right right...",
+            "translated": "~z~哦，对，对对...",
+            "desc": ""
+        },
+        {
+            "hash": 2274407429,
+            "original": "~z~We closed and we don't want no trouble. Get out.",
+            "translated": "~z~这里关门了，我们也不想惹麻烦。你出去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2278530209,
+            "original": "G2_GB",
+            "translated": "G2_GB",
+            "desc": ""
+        },
+        {
+            "hash": 2306594181,
+            "original": "500",
+            "translated": "500",
+            "desc": ""
+        },
+        {
+            "hash": 2321463759,
+            "original": "~z~Hey, don't I know you?",
+            "translated": "~z~嘿，我们见过吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2322547630,
+            "original": "G2_BA",
+            "translated": "G2_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2344778566,
+            "original": "G2_OD",
+            "translated": "G2_OD",
+            "desc": ""
+        },
+        {
+            "hash": 2385666856,
+            "original": "G2_IA",
+            "translated": "G2_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2472840129,
+            "original": "~z~Get back here dick face. You'll get fucked up in there.",
+            "translated": "~z~回到这来傻逼。你在那边会搞砸的。",
+            "desc": ""
+        },
+        {
+            "hash": 2579032605,
+            "original": "G2_AD",
+            "translated": "G2_AD",
+            "desc": ""
+        },
+        {
+            "hash": 2596526696,
+            "original": "~z~Go after him, he's getting away.",
+            "translated": "~z~快追啊，他要跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 2701954066,
+            "original": "~z~Kim Young-Guk, he eats at?",
+            "translated": "~z~Kim Young-Guk，现在在？",
+            "desc": ""
+        },
+        {
+            "hash": 2725042693,
+            "original": "~z~Niko, Niko.",
+            "translated": "~z~Niko，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2755180777,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 2776574589,
+            "original": "~z~Yeah... he's located the guy.",
+            "translated": "~z~对...他找到那个人了。",
+            "desc": ""
+        },
+        {
+            "hash": 2823630580,
+            "original": "G2_KA",
+            "translated": "G2_KA",
+            "desc": ""
+        },
+        {
+            "hash": 2838034226,
+            "original": "~z~I told you, don't hurt me.",
+            "translated": "~z~我都说了。别杀我。",
+            "desc": ""
+        },
+        {
+            "hash": 2948278639,
+            "original": "~z~wh-wait... what was I saying?",
+            "translated": "~z~等等...说到哪儿了来着？",
+            "desc": ""
+        },
+        {
+            "hash": 2982185065,
+            "original": "~z~Go, go, get out.",
+            "translated": "~z~走吧，走吧，快走啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3006907360,
+            "original": "G2_FA",
+            "translated": "G2_FA",
+            "desc": ""
+        },
+        {
+            "hash": 3008400306,
+            "original": "~z~Leave me alone, man.",
+            "translated": "~z~放过我吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3031858840,
+            "original": "~z~Mr. Gravelli, I couldn't take out Kim.",
+            "translated": "~z~Gravelli先生，我没能干掉Kim。",
+            "desc": ""
+        },
+        {
+            "hash": 3082079976,
+            "original": "~z~What? He did?",
+            "translated": "~z~什么？真的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3086183571,
+            "original": "~z~Me and that junkie real close, please.",
+            "translated": "~z~我和那个瘾君子关系很好，求你了。",
+            "desc": ""
+        },
+        {
+            "hash": 3100293770,
+            "original": "~z~Move it, stupid.",
+            "translated": "~z~移开点，傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 3103871569,
+            "original": "040400",
+            "translated": "040400",
+            "desc": ""
+        },
+        {
+            "hash": 3135325787,
+            "original": "~z~You don't need me to tell you that it's all fugazi.",
+            "translated": "~z~我不说你都知道是假币了。",
+            "desc": ""
+        },
+        {
+            "hash": 3155386719,
+            "original": "~z~What the fuck?",
+            "translated": "~z~什么鬼！？",
+            "desc": ""
+        },
+        {
+            "hash": 3159120409,
+            "original": "G2_OB",
+            "translated": "G2_OB",
+            "desc": ""
+        },
+        {
+            "hash": 3161086675,
+            "original": "G2_HC",
+            "translated": "G2_HC",
+            "desc": ""
+        },
+        {
+            "hash": 3168617399,
+            "original": "~z~Don't worry, I'll take care of it.",
+            "translated": "~z~别担心，我会解决的。",
+            "desc": ""
+        },
+        {
+            "hash": 3222196750,
+            "original": "~z~What he's doing is no good for the economy,",
+            "translated": "~z~他的所作所为对经济不好，",
+            "desc": ""
+        },
+        {
+            "hash": 3222345059,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 3230124808,
+            "original": "~z~Yeah, yeah, I'm fine...",
+            "translated": "~z~嗯，嗯，我没事...",
+            "desc": ""
+        },
+        {
+            "hash": 3278657745,
+            "original": "~z~His name is Kim Young-Guk.",
+            "translated": "~z~他的名字是Kim Young-Guk。",
+            "desc": ""
+        },
+        {
+            "hash": 3342653294,
+            "original": "~z~Get out way.",
+            "translated": "~z~让开。",
+            "desc": ""
+        },
+        {
+            "hash": 3356293454,
+            "original": "~z~Look where you're going.",
+            "translated": "~z~看看你在去哪？",
+            "desc": ""
+        },
+        {
+            "hash": 3357144342,
+            "original": "~z~You're making a big mistake. Real powerful people come to this restaurant.",
+            "translated": "~z~你这是自寻死路。这里有很硬的人来。",
+            "desc": ""
+        },
+        {
+            "hash": 3404272250,
+            "original": "~z~Please no do this, mister. I have a lot of American money.",
+            "translated": "~z~求你别杀我，先生。我有很多美国钞票。",
+            "desc": ""
+        },
+        {
+            "hash": 3410878612,
+            "original": "~z~Mr. Gravelli, are you alright?",
+            "translated": "~z~Gravelli先生，你没事吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3448896130,
+            "original": "~z~Good, good.",
+            "translated": "~z~好，挺好。",
+            "desc": ""
+        },
+        {
+            "hash": 3456167410,
+            "original": "~z~Eliminate the guy.",
+            "translated": "~z~干掉这个人。",
+            "desc": ""
+        },
+        {
+            "hash": 3489953361,
+            "original": "G2_JA",
+            "translated": "G2_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3518351443,
+            "original": "~z~Get out of my restaurant.",
+            "translated": "~z~离开我的饭店。",
+            "desc": ""
+        },
+        {
+            "hash": 3522529485,
+            "original": "~z~Leave already, you ain't going to find Kim here.",
+            "translated": "~z~早走了，在这儿找不到Kim的。",
+            "desc": ""
+        },
+        {
+            "hash": 3546933310,
+            "original": "100010100",
+            "translated": "100010100",
+            "desc": ""
+        },
+        {
+            "hash": 3559032771,
+            "original": "~z~It seems he wasn't in Switzerland at all, but in Bucharest.",
+            "translated": "~z~不过他似乎根本不在瑞士，而在布加勒斯特。",
+            "desc": ""
+        },
+        {
+            "hash": 3568499550,
+            "original": "~z~He'll be very well protected.",
+            "translated": "~z~他被人保护得很好。",
+            "desc": ""
+        },
+        {
+            "hash": 3583409093,
+            "original": "~z~Faker than a pair of Vinewood tits.",
+            "translated": "~z~比好麦坞隆胸还假。",
+            "desc": ""
+        },
+        {
+            "hash": 3587625104,
+            "original": "~z~You going to have to take that thing outside.",
+            "translated": "~z~你得把那东西带到外边。",
+            "desc": ""
+        },
+        {
+            "hash": 3644818547,
+            "original": "~z~So who is he?",
+            "translated": "~z~他是哪位？",
+            "desc": ""
+        },
+        {
+            "hash": 3692879178,
+            "original": "~z~Weren't you the one who help me get into this country?",
+            "translated": "~z~你不就是帮我入境的那个吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3693989268,
+            "original": "G2_GA",
+            "translated": "G2_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3703308475,
+            "original": "G2_DB",
+            "translated": "G2_DB",
+            "desc": ""
+        },
+        {
+            "hash": 3712325180,
+            "original": "500",
+            "translated": "500",
+            "desc": ""
+        },
+        {
+            "hash": 3727758003,
+            "original": "~z~Kim got a lotta money. He don't need no friends. Get lost.",
+            "translated": "~z~Kim有的是钱，不需要什么交情。滚吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3748437559,
+            "original": "~z~I was just speaking to our mutual friend about you.",
+            "translated": "~z~刚才我跟我们的旧相识聊了聊你。",
+            "desc": ""
+        },
+        {
+            "hash": 3760301349,
+            "original": "~z~You're wasting my time. Get out of my office.",
+            "translated": "~z~你在浪费我的时间。滚出我的办公室。",
+            "desc": ""
+        },
+        {
+            "hash": 3772442310,
+            "original": "~z~You hang with that junkie, right?",
+            "translated": "~z~你不是那个瘾君子的同伙吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3792639514,
+            "original": "~z~He eats at Mr. Fuk.",
+            "translated": "~z~现在在老曹...",
+            "desc": ""
+        },
+        {
+            "hash": 3872700619,
+            "original": "~z~Please, don't.",
+            "translated": "~z~求你了，不要。",
+            "desc": ""
+        },
+        {
+            "hash": 3928339369,
+            "original": "~z~He said how efficient you were... I like that.",
+            "translated": "~z~他说你办事效率高...我很欣赏。",
+            "desc": ""
+        },
+        {
+            "hash": 3932333753,
+            "original": "~z~and no good for patriots like you and me.",
+            "translated": "~z~也对你我这样的爱国者不好。",
+            "desc": ""
+        },
+        {
+            "hash": 3990864054,
+            "original": "~z~Come back here, we are closed dick face.",
+            "translated": "~z~回来，我们关门了，你个屌毛。",
+            "desc": ""
+        },
+        {
+            "hash": 3994453895,
+            "original": "~z~Some other time, okay?",
+            "translated": "~z~改天吧，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4024350222,
+            "original": "~z~Kim and I are old friends.",
+            "translated": "~z~Kim和我是老交情了。",
+            "desc": ""
+        },
+        {
+            "hash": 4031427217,
+            "original": "~z~Fuck.",
+            "translated": "~z~操。",
+            "desc": ""
+        },
+        {
+            "hash": 4152971190,
+            "original": "G2_OA",
+            "translated": "G2_OA",
+            "desc": ""
+        },
+        {
+            "hash": 4189899210,
+            "original": "~z~He's upstairs speaking with the manager. They don't want to see nobody though.",
+            "translated": "~z~他在楼上和经理谈话。不过他们不想被别人打扰。",
+            "desc": ""
+        },
+        {
+            "hash": 4226242348,
+            "original": "~z~Then he mentioned something about a Darko Brevic.",
+            "translated": "~z~然后他提到了一个Darko Brevic。",
+            "desc": ""
+        },
+        {
+            "hash": 4257365931,
+            "original": "G2_DA",
+            "translated": "G2_DA",
+            "desc": ""
+        },
+        {
+            "hash": 4270286100,
+            "original": "G2_EA",
+            "translated": "G2_EA",
+            "desc": ""
+        },
+        {
+            "hash": 4292137029,
+            "original": "~z~Oh... okay. So?",
+            "translated": "~z~噢...好吧。所以？",
+            "desc": ""
+        }
+    ]
+}

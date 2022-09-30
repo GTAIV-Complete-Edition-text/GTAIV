@@ -1,0 +1,46 @@
+{
+    "WI_MRN2": [
+        {
+            "hash": 716461154,
+            "original": "Wait for ~b~Marnie.",
+            "translated": "等待~b~Marnie。",
+            "desc": ""
+        },
+        {
+            "hash": 1082095013,
+            "original": "Get a vehicle.",
+            "translated": "找一辆载具。",
+            "desc": ""
+        },
+        {
+            "hash": 1098297126,
+            "original": "Get Marnie to the ~y~station.",
+            "translated": "送Marnie去~y~车站。",
+            "desc": ""
+        },
+        {
+            "hash": 2523175517,
+            "original": "~r~Marnie was abandoned.",
+            "translated": "~r~Marnie被抛弃了。",
+            "desc": ""
+        },
+        {
+            "hash": 2575311264,
+            "original": "Pick up ~b~Marnie.",
+            "translated": "接上~b~Marnie。",
+            "desc": ""
+        },
+        {
+            "hash": 2727494340,
+            "original": "~r~Marnie is dead.",
+            "translated": "~r~Marnie死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3786618894,
+            "original": "Take Marnie to the ~y~station.",
+            "translated": "送Marnie去~y~车站。",
+            "desc": ""
+        }
+    ]
+}

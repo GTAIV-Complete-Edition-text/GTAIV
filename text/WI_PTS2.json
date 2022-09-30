@@ -1,0 +1,46 @@
+{
+    "WI_PTS2": [
+        {
+            "hash": 809133988,
+            "original": "Pick up ~b~Pathos.",
+            "translated": "接上~b~Pathos。",
+            "desc": ""
+        },
+        {
+            "hash": 2304645614,
+            "original": "~r~Pathos is dead.",
+            "translated": "~r~Pathos死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2529113264,
+            "original": "~r~You took too long getting to the hospital.",
+            "translated": "~r~你在前往医院的路上花费了太长时间。",
+            "desc": ""
+        },
+        {
+            "hash": 3019927346,
+            "original": "Get a vehicle.",
+            "translated": "找一辆载具。",
+            "desc": ""
+        },
+        {
+            "hash": 3192390593,
+            "original": "Get Pathos to the ~y~hospital~s~, quickly.",
+            "translated": "送Pathos去~y~医院，~s~快！",
+            "desc": ""
+        },
+        {
+            "hash": 3677240717,
+            "original": "~r~You took too long to get a vehicle.",
+            "translated": "~r~你获取载具花费了太长时间。",
+            "desc": ""
+        },
+        {
+            "hash": 4213538171,
+            "original": "Take out the ~r~attackers.",
+            "translated": "干掉~r~袭击者。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,262 @@
+{
+    "JIMMY1": [
+        {
+            "hash": 39009801,
+            "original": "~s~Go get Pegorino's ~g~offering~s~, but be careful not to destroy it.",
+            "translated": "~s~去拿Pegorino的~g~礼物，~s~小心点不要摧毁它们。",
+            "desc": ""
+        },
+        {
+            "hash": 185652457,
+            "original": "~r~Pegorino's offering was destroyed.",
+            "translated": "~r~Pegorino的礼物被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 395640018,
+            "original": "~r~Pegorino drowned in his car.",
+            "translated": "~r~Pegorino淹死了。",
+            "desc": ""
+        },
+        {
+            "hash": 495519419,
+            "original": "~r~Pegorino is dead.",
+            "translated": "~r~Pegorino死了。",
+            "desc": ""
+        },
+        {
+            "hash": 533571506,
+            "original": "~S~Get back in ~b~Pegorino's~s~ car with the offering.",
+            "translated": "~S~带着礼物回到~b~Pegorino的车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 745287403,
+            "original": "Marco",
+            "translated": "Marco",
+            "desc": ""
+        },
+        {
+            "hash": 801292740,
+            "original": "~s~Get back and keep a guard over ~b~Pegorino.",
+            "translated": "~s~保护~b~Pegorino。",
+            "desc": ""
+        },
+        {
+            "hash": 861178798,
+            "original": "~s~Don't lose the ~r~Pavanos.",
+            "translated": "~s~别跟丢了~r~Pavano家族的人。",
+            "desc": ""
+        },
+        {
+            "hash": 1067859237,
+            "original": "~s~Rescue ~b~Pegorino.",
+            "translated": "~s~解救~b~Pegorino。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1097935568,
+            "original": "~s~Get back in Pegorino's ~b~car.",
+            "translated": "~s~回到~b~Pegorino的车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1210447045,
+            "original": "~PAD_LB~ pick up bag.",
+            "translated": "~PAD_LB~拿包。",
+            "desc": ""
+        },
+        {
+            "hash": 1252813248,
+            "original": "~s~Call Pegorino.",
+            "translated": "~s~给Pegorino打电话。",
+            "desc": ""
+        },
+        {
+            "hash": 1256544097,
+            "original": "~r~~a~ is dead.",
+            "translated": "~r~~a~死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1264153344,
+            "original": "PLACEHOLDER FOR MOCAP CUTSCENE",
+            "translated": "PLACEHOLDER FOR MOCAP CUTSCENE",
+            "desc": ""
+        },
+        {
+            "hash": 1573914922,
+            "original": "~s~Get to ~b~Pegorino~s~ before he dies.",
+            "translated": "~s~在~b~Pegorino~s~死前救出他。",
+            "desc": ""
+        },
+        {
+            "hash": 1666954456,
+            "original": "~r~Pegorino is dead.",
+            "translated": "~r~Pegorino死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1698971165,
+            "original": "~s~Get back and protect Pegorino from the ~r~Pavanos.",
+            "translated": "~s~回去保护Pegorino，别让他被~r~Pavano家族~s~杀害。",
+            "desc": ""
+        },
+        {
+            "hash": 1745066507,
+            "original": "~s~Progress ~y~inside~s~ the old refinery complex.",
+            "translated": "~s~前往~y~旧炼油厂~s~内部。",
+            "desc": ""
+        },
+        {
+            "hash": 1810599833,
+            "original": "~r~Pegorino's car was wrecked.",
+            "translated": "~r~Pegorino的车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 1810764423,
+            "original": "~s~Get in Pegorino's ~b~car.",
+            "translated": "~s~进入~b~Pegorino的车。",
+            "desc": ""
+        },
+        {
+            "hash": 2018717262,
+            "original": "~s~Go find ~b~Pegorino.",
+            "translated": "~s~去找~b~Pegorino。",
+            "desc": ""
+        },
+        {
+            "hash": 2047391268,
+            "original": "~S~Meet with Pegorino in the ~b~vehicle~s~ up ahead.",
+            "translated": "~S~跟Pegorino在~b~他的车里~s~会合。",
+            "desc": ""
+        },
+        {
+            "hash": 2231848117,
+            "original": "~s~Keep a guard over ~b~Pegorino.",
+            "translated": "~s~保护~b~Pegorino。",
+            "desc": ""
+        },
+        {
+            "hash": 2282931020,
+            "original": "~S~Get back to ~b~Pegorino~s~ with the offering.",
+            "translated": "~S~带着礼物去找~b~Pegorino。",
+            "desc": ""
+        },
+        {
+            "hash": 2372628060,
+            "original": "~r~Pegorino was abandoned.",
+            "translated": "~r~你抛弃了Pegorino。",
+            "desc": ""
+        },
+        {
+            "hash": 2452970561,
+            "original": "~s~Drive to the ~y~old refinery.",
+            "translated": "~s~驾车前往~y~旧炼油厂。",
+            "desc": ""
+        },
+        {
+            "hash": 2482345676,
+            "original": "~s~Protect Pegorino from the ~r~Pavanos.",
+            "translated": "~s~保护Pegorino，别让他被~r~Pavano家族的人~s~杀害。",
+            "desc": ""
+        },
+        {
+            "hash": 2610875156,
+            "original": "~s~Don't leave ~b~Pegorino~s~ behind.",
+            "translated": "~s~别把~b~Pegorino~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 2669670874,
+            "original": "~s~Go get Pegorino's ~g~offering.",
+            "translated": "~s~拿回Pegorino的~g~礼物。",
+            "desc": ""
+        },
+        {
+            "hash": 2749107425,
+            "original": "~r~One of Pegorino's boys is dead.",
+            "translated": "~r~Pegorino的手下死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2921099633,
+            "original": "~S~Go to the ~y~vantage point~s~ and watch over the meet.",
+            "translated": "~S~去~y~制高点~s~监视交易。",
+            "desc": ""
+        },
+        {
+            "hash": 2989987335,
+            "original": "Pete",
+            "translated": "Pete",
+            "desc": ""
+        },
+        {
+            "hash": 3027414264,
+            "original": "~r~The meet was broken up.",
+            "translated": "~r~交易被打断了。",
+            "desc": ""
+        },
+        {
+            "hash": 3243875635,
+            "original": "~r~Pegorino's offering was lost.",
+            "translated": "~r~Pegorino的礼物没了。",
+            "desc": ""
+        },
+        {
+            "hash": 3291775184,
+            "original": "~s~Take out the ~r~Pavanos~s~ before they kill Pegorino.",
+            "translated": "~s~在Pegorino被杀前消灭~r~Pavano家族的人。",
+            "desc": ""
+        },
+        {
+            "hash": 3337087536,
+            "original": "~s~Don't leave ~b~~a~~s~ behind.",
+            "translated": "~s~别把~b~~a~~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 3484074483,
+            "original": "~s~PEGORINO",
+            "translated": "~s~PEGORINO",
+            "desc": ""
+        },
+        {
+            "hash": 3510468114,
+            "original": "~PAD_LB~ put bag down.",
+            "translated": "~PAD_LB~ 放下包。",
+            "desc": ""
+        },
+        {
+            "hash": 3511020686,
+            "original": "~s~Get Pegorino's offering back from the ~r~Pavanos.",
+            "translated": "~s~从~r~Pavano家族~s~手里夺回Pegorino的礼物。",
+            "desc": ""
+        },
+        {
+            "hash": 3534415191,
+            "original": "~r~Pegorino was left behind.",
+            "translated": "~r~Pegorino被抛弃了。",
+            "desc": ""
+        },
+        {
+            "hash": 3833863691,
+            "original": "~PAD_LB~ focus on car.",
+            "translated": "按住~PAD_LB~将镜头对准目标的车。",
+            "desc": ""
+        },
+        {
+            "hash": 3866514754,
+            "original": "~s~Get back to ~b~Pegorino.",
+            "translated": "~s~回去找~b~Pegorino。",
+            "desc": ""
+        },
+        {
+            "hash": 3964487750,
+            "original": "~s~Take Pegorino back to ~y~his place.",
+            "translated": "~s~送Pegorino回~y~他的别墅。",
+            "desc": ""
+        }
+    ]
+}

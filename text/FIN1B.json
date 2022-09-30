@@ -1,0 +1,76 @@
+{
+    "FIN1B": [
+        {
+            "hash": 242961006,
+            "original": "~s~Get off the ship.",
+            "translated": "~s~下船。",
+            "desc": ""
+        },
+        {
+            "hash": 1091186571,
+            "original": "~s~Go to the cargo hold and get revenge on ~r~Dimitri.",
+            "translated": "~s~进入货舱，向~r~Dimitri~s~复仇。",
+            "desc": ""
+        },
+        {
+            "hash": 1503453360,
+            "original": "~s~Get back on land.",
+            "translated": "~s~回到岸上。",
+            "desc": ""
+        },
+        {
+            "hash": 1535064190,
+            "original": "~s~Finish off ~r~Dimitri.",
+            "translated": "~s~了结~r~Dimitri。",
+            "desc": ""
+        },
+        {
+            "hash": 1706196355,
+            "original": "~s~Go to the cargo hold's ~y~exit.~s~",
+            "translated": "~s~前往货舱的~y~出口。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1807226872,
+            "original": "~s~Press ~INPUT_PICKUP~ to operate the controls.",
+            "translated": "~s~按~INPUT_PICKUP~操作控制杆。",
+            "desc": ""
+        },
+        {
+            "hash": 2291243471,
+            "original": "~s~The doors to the cargo hold are controlled from the bridge.",
+            "translated": "~s~货舱舱门的开闭由舰桥控制。",
+            "desc": ""
+        },
+        {
+            "hash": 2581216352,
+            "original": "~s~Find a way to get to Dimitri, and get your revenge.",
+            "translated": "~s~设法接近Dimitri，完成你的复仇。",
+            "desc": ""
+        },
+        {
+            "hash": 2751886718,
+            "original": "~s~Operate the ~y~controls ~s~to open the cargo hold.",
+            "translated": "~s~操作~y~控制杆~s~打开货舱舱门。",
+            "desc": ""
+        },
+        {
+            "hash": 3193340379,
+            "original": "~s~Go to the ~y~bridge.",
+            "translated": "~s~攻入~y~舰桥。",
+            "desc": ""
+        },
+        {
+            "hash": 3708535482,
+            "original": "~s~The Russians are loading heroin onto the cargo ship.",
+            "translated": "~s~俄国人正在将海洛因运上货船。",
+            "desc": ""
+        },
+        {
+            "hash": 4004734473,
+            "original": "~s~Dimitri is supervising the operation in the ship's hold.",
+            "translated": "~s~Dimitri在下层货舱监督装货。",
+            "desc": ""
+        }
+    ]
+}

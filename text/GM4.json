@@ -1,0 +1,100 @@
+{
+    "GM4": [
+        {
+            "hash": 842807353,
+            "original": "~r~The car was trashed.~s~",
+            "translated": "~r~车子被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 956981561,
+            "original": "~s~Get a car.",
+            "translated": "~s~找一辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 1384959376,
+            "original": "~s~Go to the ~y~safehouse.",
+            "translated": "~s~前往~y~安全屋。",
+            "desc": ""
+        },
+        {
+            "hash": 1574846293,
+            "original": "~r~Packie was injured.~s~",
+            "translated": "~r~Packie受伤了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1619669628,
+            "original": "~s~Get in the ~b~car~s~ Packie left you.",
+            "translated": "~s~进入Packie留给你的~b~车。",
+            "desc": ""
+        },
+        {
+            "hash": 1951049307,
+            "original": "~r~Gracie is dead.~s~",
+            "translated": "~r~Gracie死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2834874652,
+            "original": "~s~Get in any car.",
+            "translated": "~s~随便找辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 2902978358,
+            "original": "~r~Gracie has been rescued.",
+            "translated": "~r~Gracie被救走了。",
+            "desc": ""
+        },
+        {
+            "hash": 3175876739,
+            "original": "~s~Don't damage the car or you will kill Gracie.",
+            "translated": "~s~不要损坏汽车，否则会害死Gracie。",
+            "desc": ""
+        },
+        {
+            "hash": 3334143136,
+            "original": "~s~Get in the ~b~car.",
+            "translated": "~s~上~b~车。",
+            "desc": ""
+        },
+        {
+            "hash": 3376448779,
+            "original": "~s~You need to lose the ~r~cars~s~ first.",
+            "translated": "~s~你得先甩掉~r~追兵。",
+            "desc": ""
+        },
+        {
+            "hash": 3525228208,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 3533917627,
+            "original": "~s~Go to the ~y~safehouse.",
+            "translated": "~s~前往~y~安全屋。",
+            "desc": ""
+        },
+        {
+            "hash": 3570899157,
+            "original": "~s~Go to the ~y~safehouse.",
+            "translated": "~s~前往~y~安全屋。",
+            "desc": ""
+        },
+        {
+            "hash": 3783636085,
+            "original": "~s~Now take the girl to the ~y~safehouse.",
+            "translated": "~s~现在带着女孩去~y~安全屋。",
+            "desc": ""
+        },
+        {
+            "hash": 3857988366,
+            "original": "~s~The Ancelottis are on to you, get to the ~y~safehouse~s~ quickly.",
+            "translated": "~s~Ancelotti家族的人来找你了，尽快前往~y~安全屋。~s~",
+            "desc": ""
+        }
+    ]
+}

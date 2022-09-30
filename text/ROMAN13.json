@@ -1,0 +1,214 @@
+{
+    "ROMAN13": [
+        {
+            "hash": 92928064,
+            "original": "~r~Talbot is dead, you are no closer to finding Florian Cravic.~s~",
+            "translated": "~r~Talbot死了，你离找到Florian Cravic又远了一步。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 120123954,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 256261976,
+            "original": "~r~Talbot is lost.~s~",
+            "translated": "~r~Talbot迷路了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 477298647,
+            "original": "~s~Go and find ~y~Florian~s~.",
+            "translated": "~s~去找~y~Florian。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 478801763,
+            "original": "~s~Get a car and pick up ~b~Roman.",
+            "translated": "~s~找辆车去接~b~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 568653573,
+            "original": "~s~Beat ~r~Talbot~s~ enough to make him talk.",
+            "translated": "~s~打到~r~Talbot~s~开口为止。",
+            "desc": ""
+        },
+        {
+            "hash": 1286541847,
+            "original": "~s~Niko, where you going?~s~",
+            "translated": "~s~Niko，你要去哪儿？~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1566305778,
+            "original": "~s~Wait for ~b~Talbot~s~ and ~b~Roman.",
+            "translated": "~s~等待~b~Talbot~s~和~b~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 1701519947,
+            "original": "~s~We're getting closer~s~",
+            "translated": "~s~我们很近了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1770608788,
+            "original": "~r~The car was destroyed.~s~",
+            "translated": "~r~车子被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1836806561,
+            "original": "~r~You lost him.~s~",
+            "translated": "~r~你失去了他。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1935531493,
+            "original": "~s~Pay attention to Talbot's directions.",
+            "translated": "~s~注意Talbot的指引。",
+            "desc": ""
+        },
+        {
+            "hash": 1936563497,
+            "original": "~s~Go to pick up ~y~Roman.",
+            "translated": "~s~去接~y~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 2143064314,
+            "original": "~r~Roman has been injured.~s~",
+            "translated": "~r~Roman受伤了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2267260599,
+            "original": "~s~Go to ~y~Florian's apartment.",
+            "translated": "~s~前往~y~Florian的公寓。",
+            "desc": ""
+        },
+        {
+            "hash": 2276868774,
+            "original": "~s~Get in a car with 2 passenger seats.",
+            "translated": "~s~找一辆有两个乘客席的车。",
+            "desc": ""
+        },
+        {
+            "hash": 2373741396,
+            "original": "~s~Follow Talbot's directions.",
+            "translated": "~s~跟从Talbot的导航。",
+            "desc": ""
+        },
+        {
+            "hash": 2402473467,
+            "original": "~s~Go back and get ~b~Talbot.",
+            "translated": "~s~回去带上~b~Talbot。",
+            "desc": ""
+        },
+        {
+            "hash": 2785509192,
+            "original": "~s~Go and see ~y~Talbot.",
+            "translated": "~s~去找~y~Talbot。",
+            "desc": ""
+        },
+        {
+            "hash": 2786787971,
+            "original": "~s~Get a car.",
+            "translated": "~s~找一辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 2830700827,
+            "original": "~s~When in a car, Talbot will give directions as you approach a junction.",
+            "translated": "~s~在车上时，每逢路口Talbot就会给出方向。",
+            "desc": ""
+        },
+        {
+            "hash": 3110607339,
+            "original": "~s~Get a four door car.",
+            "translated": "~s~找一辆四门的车。",
+            "desc": ""
+        },
+        {
+            "hash": 3360487211,
+            "original": "~s~Put the phone away and listen to Talbot.",
+            "translated": "~s~别看手机了，听Talbot说话。",
+            "desc": ""
+        },
+        {
+            "hash": 3377566789,
+            "original": "~s~There are not enough seats for Talbot and Roman.",
+            "translated": "~s~没有足够的位置给Talbot和Roman坐。",
+            "desc": ""
+        },
+        {
+            "hash": 3444419152,
+            "original": "~s~Are you Crazy!? You're going against the traffic!.",
+            "translated": "~s~你疯了吗！？你这是违反交规！",
+            "desc": ""
+        },
+        {
+            "hash": 3445870080,
+            "original": "~s~Wait for ~b~Roman.",
+            "translated": "~s~等待~b~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 3677514141,
+            "original": "~s~Wait for ~b~Talbot.",
+            "translated": "~s~等待~b~Talbot。",
+            "desc": ""
+        },
+        {
+            "hash": 3709940406,
+            "original": "~s~Go back and get ~b~Roman~s~ and ~b~Talbot.",
+            "translated": "~s~回去带上~b~Roman~s~和~b~Talbot。",
+            "desc": ""
+        },
+        {
+            "hash": 3785816474,
+            "original": "~s~Go and see ~b~Talbot.",
+            "translated": "~s~去找~b~Talbot。",
+            "desc": ""
+        },
+        {
+            "hash": 3999022656,
+            "original": "~r~Roman is dead.~s~",
+            "translated": "~r~Roman死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4007826453,
+            "original": "~s~Pick up ~b~Roman.",
+            "translated": "~s~去接~b~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 4021949104,
+            "original": "~s~Get a car for you and Roman.",
+            "translated": "~s~给你和Roman找辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 4041924404,
+            "original": "~r~Talbot has been injured.~s~",
+            "translated": "~r~Talbot受伤了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4096876426,
+            "original": "~s~Get in a car and follow Talbot's directions.",
+            "translated": "~s~找一辆车，跟从Talbot的导航。",
+            "desc": ""
+        },
+        {
+            "hash": 4198280336,
+            "original": "~s~Go back and get ~b~Roman.",
+            "translated": "~s~回去带上~b~Roman。",
+            "desc": ""
+        }
+    ]
+}

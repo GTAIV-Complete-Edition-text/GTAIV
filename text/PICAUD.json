@@ -1,0 +1,580 @@
+{
+    "PICAUD": [
+        {
+            "hash": 49123323,
+            "original": "PIC_BB",
+            "translated": "PIC_BB",
+            "desc": ""
+        },
+        {
+            "hash": 59378018,
+            "original": "~z~Why did you stop me? What do you want?",
+            "translated": "~z~那你叫住我干嘛？你想怎样？",
+            "desc": ""
+        },
+        {
+            "hash": 98067288,
+            "original": "~z~Hey, hey... What's wrong?",
+            "translated": "~z~嘿，嘿...这又是怎么回事？",
+            "desc": ""
+        },
+        {
+            "hash": 109982530,
+            "original": "PIC_IA",
+            "translated": "PIC_IA",
+            "desc": ""
+        },
+        {
+            "hash": 203788554,
+            "original": "PIC_EC",
+            "translated": "PIC_EC",
+            "desc": ""
+        },
+        {
+            "hash": 352666270,
+            "original": "PIC_BA",
+            "translated": "PIC_BA",
+            "desc": ""
+        },
+        {
+            "hash": 363310493,
+            "original": "~z~Well I just wanted to say thank you, you know, for your kindness.",
+            "translated": "~z~其实我只是想跟你说声谢谢，就是，感谢下你的仁慈。",
+            "desc": ""
+        },
+        {
+            "hash": 398073549,
+            "original": "PIC_DA",
+            "translated": "PIC_DA",
+            "desc": ""
+        },
+        {
+            "hash": 485592574,
+            "original": "~z~I'm just going to teach him not to hit women.",
+            "translated": "~z~我只是去教育教育他别打女人。",
+            "desc": ""
+        },
+        {
+            "hash": 585080190,
+            "original": "~z~Nothing. It's my own stupid fault. I deserve to be hit.",
+            "translated": "~z~没事，都是我太蠢的错。我活该被打。",
+            "desc": ""
+        },
+        {
+            "hash": 637359418,
+            "original": "PIC_BD",
+            "translated": "PIC_BD",
+            "desc": ""
+        },
+        {
+            "hash": 657152231,
+            "original": "~z~He over in the project up on Frankfort Avenue, please don't kill him.",
+            "translated": "~z~他人在Frankfort大道的公屋社区，求你别杀他。",
+            "desc": ""
+        },
+        {
+            "hash": 754529104,
+            "original": "PIC_GB",
+            "translated": "PIC_GB",
+            "desc": ""
+        },
+        {
+            "hash": 767288803,
+            "original": "PIC_BE",
+            "translated": "PIC_BE",
+            "desc": ""
+        },
+        {
+            "hash": 782938480,
+            "original": "~z~I'm not going to kill him.",
+            "translated": "~z~我又不会把他杀了。",
+            "desc": ""
+        },
+        {
+            "hash": 792448660,
+            "original": "~z~That's the thug over there!",
+            "translated": "~z~那边那个家伙就是！",
+            "desc": ""
+        },
+        {
+            "hash": 838610858,
+            "original": "~z~What the fuck? You killed him? You sick ass psychopath!",
+            "translated": "~z~你搞屁啊？把他给杀了？你个狗逼变态狂！",
+            "desc": ""
+        },
+        {
+            "hash": 838810067,
+            "original": "~z~I give her the carrot as well but she don't complain about that.",
+            "translated": "~z~我又不是没给她胡萝卜，只是她没跟你说而已。",
+            "desc": ""
+        },
+        {
+            "hash": 861193268,
+            "original": "PIC_KA",
+            "translated": "PIC_KA",
+            "desc": ""
+        },
+        {
+            "hash": 947078401,
+            "original": "~z~Please don't do anything!",
+            "translated": "~z~求你别动他！",
+            "desc": ""
+        },
+        {
+            "hash": 1033277212,
+            "original": "~z~Oh man, I don't get what your problem be.",
+            "translated": "~z~噢，伙计，我不知道你哪根筋搭错了。",
+            "desc": ""
+        },
+        {
+            "hash": 1056822690,
+            "original": "~z~You know, no more gang bangers and drug dealers. Turn over a new leaf, you know?",
+            "translated": "~z~就那种远离帮派份子和毒贩子的。翻开新的一页懂吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1081995544,
+            "original": "~z~Wait here, I'll teach him his lesson.",
+            "translated": "~z~你等着，我去教训教训他。",
+            "desc": ""
+        },
+        {
+            "hash": 1087444365,
+            "original": "~z~Damn, don't you beat on your bitches?",
+            "translated": "~z~干，难道你丫还不打你家婊子不成？",
+            "desc": ""
+        },
+        {
+            "hash": 1088300999,
+            "original": "PIC_FC",
+            "translated": "PIC_FC",
+            "desc": ""
+        },
+        {
+            "hash": 1100573059,
+            "original": "PIC_JA",
+            "translated": "PIC_JA",
+            "desc": ""
+        },
+        {
+            "hash": 1111175460,
+            "original": "PIC_CD",
+            "translated": "PIC_CD",
+            "desc": ""
+        },
+        {
+            "hash": 1133006277,
+            "original": "PIC_HC",
+            "translated": "PIC_HC",
+            "desc": ""
+        },
+        {
+            "hash": 1142928845,
+            "original": "PIC_CC",
+            "translated": "PIC_CC",
+            "desc": ""
+        },
+        {
+            "hash": 1182176407,
+            "original": "~z~Won't mess with no more gangsters, no more thugs.",
+            "translated": "~z~也不会去惹什么黑道和混混了。",
+            "desc": ""
+        },
+        {
+            "hash": 1238195093,
+            "original": "~z~Shit, you're a maniac. Stay the fuck away from me!",
+            "translated": "~z~操，你就是个神经病。你他妈离我远点！",
+            "desc": ""
+        },
+        {
+            "hash": 1295609485,
+            "original": "~z~My boyfriend.",
+            "translated": "~z~我男友。",
+            "desc": ""
+        },
+        {
+            "hash": 1313976466,
+            "original": "~z~Shit, is you some charity worker or something?",
+            "translated": "~z~我操，你是社区派来的义工吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1366381826,
+            "original": "~z~Get rid of this guy before thinking about another.",
+            "translated": "~z~先把眼下这个解决，再去想下个男人。",
+            "desc": ""
+        },
+        {
+            "hash": 1384855809,
+            "original": "~z~A bitch gotta learn and there be only one way to teach her.",
+            "translated": "~z~只有一种方法能让婊子长记性。",
+            "desc": ""
+        },
+        {
+            "hash": 1402666716,
+            "original": "~z~Well, after... after what happened, you know, I just wanted to change my life, turn things around.",
+            "translated": "~z~那个，在那...在那次事件以后，我就想改一改我的生活，换种生活方式。",
+            "desc": ""
+        },
+        {
+            "hash": 1428697594,
+            "original": "~z~Cherise is gonna get her ass outta the ghetto.",
+            "translated": "~z~Cherise要离开这个鬼地方了。",
+            "desc": ""
+        },
+        {
+            "hash": 1498826395,
+            "original": "~z~Hell, I didn't even give Cherise everything I got.",
+            "translated": "~z~靠，我就差没把全部家产交给Cherise了。",
+            "desc": ""
+        },
+        {
+            "hash": 1537346844,
+            "original": "~z~How that bitch expected to learn if I ain't giving her the stick?",
+            "translated": "~z~我不给她来顿大棒她怎么可能会学乖？",
+            "desc": ""
+        },
+        {
+            "hash": 1572470760,
+            "original": "PIC_HA",
+            "translated": "PIC_HA",
+            "desc": ""
+        },
+        {
+            "hash": 1648332848,
+            "original": "~z~Shit, you're a maniac. Stay the fuck away from me!",
+            "translated": "~z~操，你就是个神经病。你他妈离我远点！",
+            "desc": ""
+        },
+        {
+            "hash": 1783848016,
+            "original": "~z~If I tell this guy to stay the fuck away from you, I don't want to hear about you going back to him.",
+            "translated": "~z~我叫这人离你远点，你可别主动把自己送回去啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1884281741,
+            "original": "PIC_EE",
+            "translated": "PIC_EE",
+            "desc": ""
+        },
+        {
+            "hash": 1920304588,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1962351629,
+            "original": "~z~I had some bad luck with my men.",
+            "translated": "~z~可能是我挑男人的运气太差吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2021783725,
+            "original": "~z~You right, I'll stay away from him.",
+            "translated": "~z~确实，我不会去找他了。",
+            "desc": ""
+        },
+        {
+            "hash": 2077943273,
+            "original": "PIC_DB",
+            "translated": "PIC_DB",
+            "desc": ""
+        },
+        {
+            "hash": 2142128909,
+            "original": "~z~He ain't gonna beat you no more.",
+            "translated": "~z~他也不会再打你了。",
+            "desc": ""
+        },
+        {
+            "hash": 2148849153,
+            "original": "~z~You won't think this is so funny when you're the one crying like a bitch.",
+            "translated": "~z~等你像个婊子一样在地上哇哇大哭的时候就不会这么想了。",
+            "desc": ""
+        },
+        {
+            "hash": 2201651393,
+            "original": "~z~Niko!",
+            "translated": "~z~Niko！",
+            "desc": ""
+        },
+        {
+            "hash": 2209397120,
+            "original": "~z~You right, I should find a man who ain't in the life.",
+            "translated": "~z~你说的对，我是该找个不在道上的人过。",
+            "desc": ""
+        },
+        {
+            "hash": 2291873155,
+            "original": "~z~Stay the fuck away from Cherise and any other woman you'd think about beating.",
+            "translated": "~z~你丫以后别碰Cherise了，只要你还想着打女人就别碰任何女人。",
+            "desc": ""
+        },
+        {
+            "hash": 2293187453,
+            "original": "~z~Maybe your problem is getting involved with all these drug dealers and two bit pushers?",
+            "translated": "~z~你的问题大概出在整天和这些毒贩之流扯在一起吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2340283273,
+            "original": "010100100100",
+            "translated": "010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2372956344,
+            "original": "~z~Hell, you talking about Cherise?",
+            "translated": "~z~切，你是说Cherise吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2373350241,
+            "original": "PIC_GC",
+            "translated": "PIC_GC",
+            "desc": ""
+        },
+        {
+            "hash": 2373546668,
+            "original": "~z~Who's hitting you?",
+            "translated": "~z~谁打你？",
+            "desc": ""
+        },
+        {
+            "hash": 2378847570,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 2386873194,
+            "original": "PIC_CB",
+            "translated": "PIC_CB",
+            "desc": ""
+        },
+        {
+            "hash": 2490987683,
+            "original": "~z~So I got him killed? You worse than him any day!",
+            "translated": "~z~那我就让他去死？你这人比他糟糕多了！",
+            "desc": ""
+        },
+        {
+            "hash": 2492324731,
+            "original": "020200200200020",
+            "translated": "020200200200020",
+            "desc": ""
+        },
+        {
+            "hash": 2493336967,
+            "original": "~z~Yo, yo. bitch won't get no more calls from this fool.",
+            "translated": "~z~哟，哟，小贱人再也不会接到这个白痴的电话了。",
+            "desc": ""
+        },
+        {
+            "hash": 2558058674,
+            "original": "PIC_CA",
+            "translated": "PIC_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2593426638,
+            "original": "~z~I like danger. The only thing is... danger don't like me!",
+            "translated": "~z~我喜欢危险人物。问题在于...危险人物不喜欢我！",
+            "desc": ""
+        },
+        {
+            "hash": 2639895374,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 2651218806,
+            "original": "PIC_FB",
+            "translated": "PIC_FB",
+            "desc": ""
+        },
+        {
+            "hash": 2710560556,
+            "original": "~z~I gave you a chance when I first met you. Use it.",
+            "translated": "~z~我第一次见到你的时候就给你机会了，好好把握。",
+            "desc": ""
+        },
+        {
+            "hash": 2724653338,
+            "original": "~z~Yo I staying away from everybody. Not even gonna look at a bitch. For real.",
+            "translated": "~z~哟，我谁都不会碰的。看都不会看那些贱人一眼。真的。",
+            "desc": ""
+        },
+        {
+            "hash": 2760731978,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2815962748,
+            "original": "PIC_GA",
+            "translated": "PIC_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2829890647,
+            "original": "PIC_AA",
+            "translated": "PIC_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2843159187,
+            "original": "~z~Yeah, and things was... they were going pretty well, but...",
+            "translated": "~z~是的，一切都...一切都挺好的，不过...",
+            "desc": ""
+        },
+        {
+            "hash": 2914835909,
+            "original": "~z~Hey... uh, do I know you?",
+            "translated": "~z~嘿...呃，我见过你吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2932790714,
+            "original": "PIC_EB",
+            "translated": "PIC_EB",
+            "desc": ""
+        },
+        {
+            "hash": 2942147871,
+            "original": "100010100100",
+            "translated": "100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 3073393719,
+            "original": "~z~Hey, you think beating women is cool?",
+            "translated": "~z~喂，你是不是觉得打女人很爽啊？",
+            "desc": ""
+        },
+        {
+            "hash": 3217876500,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 3222493131,
+            "original": "~z~Good for you.",
+            "translated": "~z~这不挺好嘛。",
+            "desc": ""
+        },
+        {
+            "hash": 3303879560,
+            "original": "~z~Shit... Dwayne... maybe I should have capped Playboy instead.",
+            "translated": "~z~操...Dwayne...果然当时我还是该杀Playboy的。",
+            "desc": ""
+        },
+        {
+            "hash": 3311882921,
+            "original": "PIC_HC_QQQ1",
+            "translated": "PIC_HC_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 3420592655,
+            "original": "~z~I used to go out with Dwayne. You... you know, you...",
+            "translated": "~z~以前跟Dwayne好过的那个。你...你也知道，你...",
+            "desc": ""
+        },
+        {
+            "hash": 3456809033,
+            "original": "~z~I'm gonna try. That's the least I can do. See you and thanks.",
+            "translated": "~z~我会尽力的。这我总得做到。再见，谢了。",
+            "desc": ""
+        },
+        {
+            "hash": 3680614670,
+            "original": "~z~Niko!",
+            "translated": "~z~Niko！",
+            "desc": ""
+        },
+        {
+            "hash": 3740221485,
+            "original": "~z~I spared you?",
+            "translated": "~z~我放过了你？",
+            "desc": ""
+        },
+        {
+            "hash": 3799030921,
+            "original": "~z~Don't worry about it. What are you up to?",
+            "translated": "~z~不过别担心。最近你怎么样？",
+            "desc": ""
+        },
+        {
+            "hash": 3803858879,
+            "original": "~z~Yeah, you know me... Cherise?",
+            "translated": "~z~见过，你肯定见过...Cherise记得不？",
+            "desc": ""
+        },
+        {
+            "hash": 3825688898,
+            "original": "010010100",
+            "translated": "010010100",
+            "desc": ""
+        },
+        {
+            "hash": 3838362393,
+            "original": "PIC_ED",
+            "translated": "PIC_ED",
+            "desc": ""
+        },
+        {
+            "hash": 3940381166,
+            "original": "~z~He ain't going to beat you no more. Get out, away from here.",
+            "translated": "~z~他不会再打你了，你走吧，越远越好。",
+            "desc": ""
+        },
+        {
+            "hash": 4044700114,
+            "original": "~z~Huh, I'm not always kind.",
+            "translated": "~z~哈，我也不是每次都仁慈的。",
+            "desc": ""
+        },
+        {
+            "hash": 4048807158,
+            "original": "~z~Yeah.",
+            "translated": "~z~对。",
+            "desc": ""
+        },
+        {
+            "hash": 4051032595,
+            "original": "PIC_EA",
+            "translated": "PIC_EA",
+            "desc": ""
+        },
+        {
+            "hash": 4085378376,
+            "original": "010100100010",
+            "translated": "010100100010",
+            "desc": ""
+        },
+        {
+            "hash": 4099649061,
+            "original": "PIC_HB",
+            "translated": "PIC_HB",
+            "desc": ""
+        },
+        {
+            "hash": 4110383385,
+            "original": "020200200",
+            "translated": "020200200",
+            "desc": ""
+        },
+        {
+            "hash": 4294255794,
+            "original": "PIC_FA",
+            "translated": "PIC_FA",
+            "desc": ""
+        }
+    ]
+}

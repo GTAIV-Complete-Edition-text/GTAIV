@@ -1,0 +1,772 @@
+{
+    "FM4AUD": [
+        {
+            "hash": 34057175,
+            "original": "~z~Bullshit!",
+            "translated": "~z~狗屁！",
+            "desc": ""
+        },
+        {
+            "hash": 46372071,
+            "original": "~z~The guy sells heroin to kids.",
+            "translated": "~z~这货向孩子们出售海洛因。",
+            "desc": ""
+        },
+        {
+            "hash": 123883993,
+            "original": "FM4_CA",
+            "translated": "FM4_CA",
+            "desc": ""
+        },
+        {
+            "hash": 153362604,
+            "original": "~z~So go there, gimme a call.",
+            "translated": "~z~你到地方了就给我打个电话。",
+            "desc": ""
+        },
+        {
+            "hash": 163226301,
+            "original": "~z~How much?",
+            "translated": "~z~要多少？",
+            "desc": ""
+        },
+        {
+            "hash": 209102080,
+            "original": "SFX_PAUSE_2000",
+            "translated": "SFX_PAUSE_2000",
+            "desc": ""
+        },
+        {
+            "hash": 258846595,
+            "original": "~z~Whoa, whoa, whoa, wait. Look.",
+            "translated": "~z~喔喔喔，等等。听着。",
+            "desc": ""
+        },
+        {
+            "hash": 333598604,
+            "original": "~z~No, no, no, no. You sent me to kill one guy. One guy who would put you in prison.",
+            "translated": "~z~不不不不，你只让我去杀一个人，那人能把你送进监狱。",
+            "desc": ""
+        },
+        {
+            "hash": 345185158,
+            "original": "100010100010100010",
+            "translated": "100010100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 381761606,
+            "original": "~z~Call me when it's over.",
+            "translated": "~z~搞定了就打给我。",
+            "desc": ""
+        },
+        {
+            "hash": 383455071,
+            "original": "~z~I didn't know she was yo' sister.",
+            "translated": "~z~那会儿我不知道她是你妹妹。",
+            "desc": ""
+        },
+        {
+            "hash": 402041165,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 407674786,
+            "original": "FM4_CE",
+            "translated": "FM4_CE",
+            "desc": ""
+        },
+        {
+            "hash": 471811974,
+            "original": "~z~I don't have anything to lose, Mr. McReary.",
+            "translated": "~z~我没有什么好失去的，McReary先生。",
+            "desc": ""
+        },
+        {
+            "hash": 482002905,
+            "original": "~z~I left a rifle for you in the trunk of a car at the corner of Albany and M.",
+            "translated": "~z~我在Albany大道M路口的一辆车里给你留了把狙击枪。",
+            "desc": ""
+        },
+        {
+            "hash": 488603244,
+            "original": "FM4_AC",
+            "translated": "FM4_AC",
+            "desc": ""
+        },
+        {
+            "hash": 562810631,
+            "original": "~z~I'm outside the place.",
+            "translated": "~z~I'm outside the place.",
+            "desc": ""
+        },
+        {
+            "hash": 732898992,
+            "original": "~z~Shaniqua, baby.",
+            "translated": "~z~Shaniqua，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 763367310,
+            "original": "FM4_FE",
+            "translated": "FM4_FE",
+            "desc": ""
+        },
+        {
+            "hash": 812474286,
+            "original": "FM4_HD",
+            "translated": "FM4_HD",
+            "desc": ""
+        },
+        {
+            "hash": 913472070,
+            "original": "FM4_BA",
+            "translated": "FM4_BA",
+            "desc": ""
+        },
+        {
+            "hash": 1133136985,
+            "original": "FM4_AD",
+            "translated": "FM4_AD",
+            "desc": ""
+        },
+        {
+            "hash": 1146368353,
+            "original": "FM4_EB",
+            "translated": "FM4_EB",
+            "desc": ""
+        },
+        {
+            "hash": 1187487009,
+            "original": "FM4_DB",
+            "translated": "FM4_DB",
+            "desc": ""
+        },
+        {
+            "hash": 1193888706,
+            "original": "~z~You ain't getting my ass.",
+            "translated": "~z~别想干掉我。",
+            "desc": ""
+        },
+        {
+            "hash": 1237308499,
+            "original": "FM4_CC",
+            "translated": "FM4_CC",
+            "desc": ""
+        },
+        {
+            "hash": 1370949676,
+            "original": "010100100010010100100",
+            "translated": "010100100010010100100",
+            "desc": ""
+        },
+        {
+            "hash": 1397923108,
+            "original": "FM4_GA",
+            "translated": "FM4_GA",
+            "desc": ""
+        },
+        {
+            "hash": 1462257717,
+            "original": "FM4_EA",
+            "translated": "FM4_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1538047232,
+            "original": "FM4_HF",
+            "translated": "FM4_HF",
+            "desc": ""
+        },
+        {
+            "hash": 1639207951,
+            "original": "~z~Tell it to the judge.",
+            "translated": "~z~你就这么跟法官说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1659714648,
+            "original": "FM4_DD",
+            "translated": "FM4_DD",
+            "desc": ""
+        },
+        {
+            "hash": 1714797147,
+            "original": "FM4_CD",
+            "translated": "FM4_CD",
+            "desc": ""
+        },
+        {
+            "hash": 1841627980,
+            "original": "~z~I paid you to do a man's job, you amateur. You fucking boy.",
+            "translated": "~z~我付你钱是让你做男人的活的。你个菜鸡，傻逼小屁孩。",
+            "desc": ""
+        },
+        {
+            "hash": 1850479639,
+            "original": "~z~Shit, I don't know. Is there a number on the phone? Can you call it?",
+            "translated": "~z~靠，我不知道。电话上有显示号码吗？你能打过去吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1896523033,
+            "original": "FM4_AB",
+            "translated": "FM4_AB",
+            "desc": ""
+        },
+        {
+            "hash": 1948152062,
+            "original": "FM4_DA",
+            "translated": "FM4_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1954091192,
+            "original": "~z~Are you trying to get us both killed, you fuckin' asshole?",
+            "translated": "~z~你丫是想让我们都完蛋吗，狗逼玩意？",
+            "desc": ""
+        },
+        {
+            "hash": 2046342628,
+            "original": "FM4_CB",
+            "translated": "FM4_CB",
+            "desc": ""
+        },
+        {
+            "hash": 2104855437,
+            "original": "~z~Alright, I'll tell you what, genius, I'll tell you fucking what.",
+            "translated": "~z~行吧，这么跟你说吧，天才，我他妈这么跟你说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2109033159,
+            "original": "~z~Shaniqua, that you? It ain't your style to be doin' this silent shit.",
+            "translated": "~z~Shaniqua，是你吗？屁都不放一个可不是你的风格。",
+            "desc": ""
+        },
+        {
+            "hash": 2138420842,
+            "original": "~z~I'll try.",
+            "translated": "~z~我试试吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2140710643,
+            "original": "~z~You fucking idiot!",
+            "translated": "~z~你个臭傻逼！",
+            "desc": ""
+        },
+        {
+            "hash": 2188899948,
+            "original": "100100010",
+            "translated": "100100010",
+            "desc": ""
+        },
+        {
+            "hash": 2205750616,
+            "original": "~z~He's holed up there pretty tight.",
+            "translated": "~z~他在里边躲得很严实。",
+            "desc": ""
+        },
+        {
+            "hash": 2213792941,
+            "original": "FM4_IA",
+            "translated": "FM4_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2314966957,
+            "original": "~z~I've found the place.",
+            "translated": "~z~我到地方了。",
+            "desc": ""
+        },
+        {
+            "hash": 2359515882,
+            "original": "FM4_AA",
+            "translated": "FM4_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2368743622,
+            "original": "~z~Now the guy lives in an apartment on Denver between V and W.",
+            "translated": "~z~这人住在Denver大道V、W路口的一个公寓里。",
+            "desc": ""
+        },
+        {
+            "hash": 2403618805,
+            "original": "FM4_FB",
+            "translated": "FM4_FB",
+            "desc": ""
+        },
+        {
+            "hash": 2417691155,
+            "original": "FM4_DC",
+            "translated": "FM4_DC",
+            "desc": ""
+        },
+        {
+            "hash": 2423484981,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 2469830014,
+            "original": "~z~No, I can't get a clean shot. He's sitting down or something.",
+            "translated": "~z~还没，我这儿打不到他。他好像是坐着还是怎么样的。",
+            "desc": ""
+        },
+        {
+            "hash": 2496142281,
+            "original": "~z~There is nothing wrong with admitting that you have done some good. The community thanks you. One percent better.",
+            "translated": "~z~认同你做了件好事是没有问题的。社会感谢你。好转百分之一。",
+            "desc": ""
+        },
+        {
+            "hash": 2544775954,
+            "original": "~z~Okay, the mope's holed up in his apartment. It's on the fourth floor on the east side of the street.",
+            "translated": "~z~好的，这个人渣就躲在他的公寓里。在马路东侧的四楼。",
+            "desc": ""
+        },
+        {
+            "hash": 2545250556,
+            "original": "FM4_AB",
+            "translated": "FM4_AB",
+            "desc": ""
+        },
+        {
+            "hash": 2565790115,
+            "original": "~z~I send you to destroy an organization and you only make the boss disappear.",
+            "translated": "~z~我派你去摧毁整个组织，结果你只让他们的老大消失了。",
+            "desc": ""
+        },
+        {
+            "hash": 2576709007,
+            "original": "FM4_FA",
+            "translated": "FM4_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2591409599,
+            "original": "FM4_BB",
+            "translated": "FM4_BB",
+            "desc": ""
+        },
+        {
+            "hash": 2658123925,
+            "original": "~z~Go up onto the roof of the building opposite to get a shot at him.",
+            "translated": "~z~到对面那栋楼的屋顶上，然后毙了他。",
+            "desc": ""
+        },
+        {
+            "hash": 2702734461,
+            "original": "FM4_FC",
+            "translated": "FM4_FC",
+            "desc": ""
+        },
+        {
+            "hash": 2706913729,
+            "original": "~z~You got him yet?",
+            "translated": "~z~搞定他了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2762178745,
+            "original": "~z~I'm hoping that no news is good news.",
+            "translated": "~z~希望没有消息过来会是好消息。",
+            "desc": ""
+        },
+        {
+            "hash": 2792967708,
+            "original": "FM4_HB",
+            "translated": "FM4_HB",
+            "desc": ""
+        },
+        {
+            "hash": 2803700011,
+            "original": "FM4_AC",
+            "translated": "FM4_AC",
+            "desc": ""
+        },
+        {
+            "hash": 2807913984,
+            "original": "~z~Your call. I don't care.",
+            "translated": "~z~干不干随你，我不在乎。",
+            "desc": ""
+        },
+        {
+            "hash": 2835210909,
+            "original": "~z~Maybe he will. Either way, you're screwed.",
+            "translated": "~z~说不定真会呢。不管怎么样，你都得完蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 2865462620,
+            "original": "~z~What?",
+            "translated": "~z~咋了？",
+            "desc": ""
+        },
+        {
+            "hash": 2879445755,
+            "original": "~z~Jesus! Call me when it's done.",
+            "translated": "~z~天哪！搞定了再打给我。",
+            "desc": ""
+        },
+        {
+            "hash": 2911624509,
+            "original": "FM4_IA",
+            "translated": "FM4_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2975625726,
+            "original": "~z~You know my price. Five.",
+            "translated": "~z~价钱你知道的，五千。",
+            "desc": ""
+        },
+        {
+            "hash": 3018891691,
+            "original": "010100100100",
+            "translated": "010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 3024940111,
+            "original": "~z~What if he isn't standing by the window?",
+            "translated": "~z~万一他不在窗边呢？",
+            "desc": ""
+        },
+        {
+            "hash": 3082888948,
+            "original": "~z~I still can't get a shot.",
+            "translated": "~z~我还是打不着。",
+            "desc": ""
+        },
+        {
+            "hash": 3133900344,
+            "original": "~z~on account of you being braindead and totally fucking mentally retarded.",
+            "translated": "~z~因为你丫完全就是个脑残加弱智。",
+            "desc": ""
+        },
+        {
+            "hash": 3135439626,
+            "original": "FM4_DC",
+            "translated": "FM4_DC",
+            "desc": ""
+        },
+        {
+            "hash": 3145399795,
+            "original": "FM4_HE",
+            "translated": "FM4_HE",
+            "desc": ""
+        },
+        {
+            "hash": 3175057004,
+            "original": "~z~Get into the building across the street and take him out with the rifle.",
+            "translated": "~z~到街对面的楼里，用狙击枪毙了他。",
+            "desc": ""
+        },
+        {
+            "hash": 3176856147,
+            "original": "FM4_AD",
+            "translated": "FM4_AD",
+            "desc": ""
+        },
+        {
+            "hash": 3208678189,
+            "original": "100010100",
+            "translated": "100010100",
+            "desc": ""
+        },
+        {
+            "hash": 3219438903,
+            "original": "~z~This ain't right. How'd you get these digits? Is this Francis? You killed Clarence, man.",
+            "translated": "~z~不太对，你从哪儿弄到这号码的？你是不是Francis？你把Clarence给杀了，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 3272938863,
+            "original": "~z~Okay...",
+            "translated": "~z~好吧...",
+            "desc": ""
+        },
+        {
+            "hash": 3293246532,
+            "original": "FM4_CF",
+            "translated": "FM4_CF",
+            "desc": ""
+        },
+        {
+            "hash": 3301234921,
+            "original": "~z~Look girl, 5-0 is trying to kill me. And I was real stressed and she was there for me.",
+            "translated": "~z~听着，妹子，条子现在还在追杀我。当时我很焦虑，是她帮了我。",
+            "desc": ""
+        },
+        {
+            "hash": 3328387569,
+            "original": "~z~Terrible. I don't know how I'll sleep at night.",
+            "translated": "~z~太糟了。我都不知道晚上还能不能睡着。",
+            "desc": ""
+        },
+        {
+            "hash": 3332571006,
+            "original": "~z~If one hundred people managed that... it'd be a hundred percent.",
+            "translated": "~z~如果有一百个人能做到...那就是百分之百。",
+            "desc": ""
+        },
+        {
+            "hash": 3368830280,
+            "original": "FM4_FD",
+            "translated": "FM4_FD",
+            "desc": ""
+        },
+        {
+            "hash": 3376691785,
+            "original": "~z~Whoa, hold on. An organization?",
+            "translated": "~z~喔哦，打住。整个组织？",
+            "desc": ""
+        },
+        {
+            "hash": 3418032562,
+            "original": "~z~Let's not pretend that this was anything other than business.",
+            "translated": "~z~别装了，完全就是生意而已。",
+            "desc": ""
+        },
+        {
+            "hash": 3481086395,
+            "original": "~z~I've found the place.",
+            "translated": "~z~我到地方了。",
+            "desc": ""
+        },
+        {
+            "hash": 3486624656,
+            "original": "~z~Great, the perp should be inside his apartment.",
+            "translated": "~z~Great, the perp should be inside his apartment.",
+            "desc": ""
+        },
+        {
+            "hash": 3491967211,
+            "original": "~z~One more. The guy's a fucking lowlife. He means nothing.",
+            "translated": "~z~再说，那货就是个劣等人，屁都不算的。",
+            "desc": ""
+        },
+        {
+            "hash": 3506919808,
+            "original": "~z~You don't see anything that will get him up?",
+            "translated": "~z~你就找不到什么能让他起来的东西吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3524166236,
+            "original": "FM4_DD",
+            "translated": "FM4_DD",
+            "desc": ""
+        },
+        {
+            "hash": 3596205396,
+            "original": "~z~I wonder what he'll say? Maybe he'll let you walk -",
+            "translated": "~z~你看他会怎么想？说不定就放你走人了——",
+            "desc": ""
+        },
+        {
+            "hash": 3597432328,
+            "original": "FM4_FG",
+            "translated": "FM4_FG",
+            "desc": ""
+        },
+        {
+            "hash": 3646301416,
+            "original": "~z~I'm not interested in your sermon, Mr. McReary.",
+            "translated": "~z~我对你的布道不感兴趣，McReary先生。",
+            "desc": ""
+        },
+        {
+            "hash": 3668761882,
+            "original": "~z~Now his chief lieutenant is holed up in an apartment, and he wants to speak to the feds.",
+            "translated": "~z~现在他的二把手还躲在公寓里，准备去和FIB交涉。",
+            "desc": ""
+        },
+        {
+            "hash": 3699165677,
+            "original": "SFX_PAUSE_2000",
+            "translated": "SFX_PAUSE_2000",
+            "desc": ""
+        },
+        {
+            "hash": 3700506899,
+            "original": "010100100100",
+            "translated": "010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 3705358587,
+            "original": "~z~You bastard.",
+            "translated": "~z~你个混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 3706830236,
+            "original": "~z~Then use your damn imagination to get him to the window.",
+            "translated": "~z~那你丫就发挥下想象力，把他弄到窗边。",
+            "desc": ""
+        },
+        {
+            "hash": 3739367065,
+            "original": "FM4_GC",
+            "translated": "FM4_GC",
+            "desc": ""
+        },
+        {
+            "hash": 3759132864,
+            "original": "~z~Tell him I only sent you to kill one guy... so it ain't your fault.",
+            "translated": "~z~跟他说我只让你去杀一个人...所以不是你的错。",
+            "desc": ""
+        },
+        {
+            "hash": 3769294464,
+            "original": "~z~You lost him.",
+            "translated": "~z~你弄丢他了。",
+            "desc": ""
+        },
+        {
+            "hash": 3792983047,
+            "original": "FM4_BC",
+            "translated": "FM4_BC",
+            "desc": ""
+        },
+        {
+            "hash": 3798259054,
+            "original": "~z~For us. Come on, you idiot.",
+            "translated": "~z~替我们办了。拜托啦，小白痴。",
+            "desc": ""
+        },
+        {
+            "hash": 3800162862,
+            "original": "~z~Listen you chump, one of my CIs just told me our boy is making a run for the border.",
+            "translated": "~z~听着白痴，我的一个线人刚联系我说那小子往边境跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 3828219853,
+            "original": "~z~I can only see his phone and a TV.",
+            "translated": "~z~我只能看见他的电话机和电视。",
+            "desc": ""
+        },
+        {
+            "hash": 3870507847,
+            "original": "010100100010100100",
+            "translated": "010100100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 3871523566,
+            "original": "FM4_GB",
+            "translated": "FM4_GB",
+            "desc": ""
+        },
+        {
+            "hash": 3890356003,
+            "original": "~z~I didn't know she was yo' sister.",
+            "translated": "~z~那会儿我不知道她是你妹妹。",
+            "desc": ""
+        },
+        {
+            "hash": 3930447692,
+            "original": "~z~Great, the perp should be inside his apartment.",
+            "translated": "~z~Great, the perp should be inside his apartment.",
+            "desc": ""
+        },
+        {
+            "hash": 3936086123,
+            "original": "SFX_PAUSE_2000",
+            "translated": "SFX_PAUSE_2000",
+            "desc": ""
+        },
+        {
+            "hash": 3949290167,
+            "original": "~z~Call me when it's over.",
+            "translated": "~z~搞定了就打给我。",
+            "desc": ""
+        },
+        {
+            "hash": 3958497956,
+            "original": "~z~Get into the building across the street and take him out with the rifle.",
+            "translated": "~z~到街对面的楼里，用狙击枪毙了他。",
+            "desc": ""
+        },
+        {
+            "hash": 3967000758,
+            "original": "FM4_FF",
+            "translated": "FM4_FF",
+            "desc": ""
+        },
+        {
+            "hash": 3985828458,
+            "original": "~z~But we've got a lot to lose.",
+            "translated": "~z~但我们会失去很多。",
+            "desc": ""
+        },
+        {
+            "hash": 3986439394,
+            "original": "~z~Shaniqua, that you? It ain't your style to be doin' this silent shit.",
+            "translated": "~z~Shaniqua，是你吗？屁都不放一个可不是你的风格。",
+            "desc": ""
+        },
+        {
+            "hash": 4030321327,
+            "original": "~z~I hope that the kids out there get this message and realize that there are better paths to take.",
+            "translated": "~z~希望外面的孩子们能知道这事，意识到有更好的路可选。",
+            "desc": ""
+        },
+        {
+            "hash": 4034654292,
+            "original": "~z~If there is a God, and he loves us, if there is, he'd want this cunt dead.",
+            "translated": "~z~如果上帝存在，并且爱着世人，那样的话，他也会让这逼去死的。",
+            "desc": ""
+        },
+        {
+            "hash": 4103232348,
+            "original": "~z~I dealt with him.",
+            "translated": "~z~我解决他了。",
+            "desc": ""
+        },
+        {
+            "hash": 4154142205,
+            "original": "100100100100100100100",
+            "translated": "100100100100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 4161431336,
+            "original": "~z~Look around the place, see if there's something you can use to get his lazy ass up.",
+            "translated": "~z~仔细看一看，找找有没有能利用的东西，让丫这懒虫起来。",
+            "desc": ""
+        },
+        {
+            "hash": 4247980814,
+            "original": "~z~You gotta do this for me.",
+            "translated": "~z~这事你一定要替我办了。",
+            "desc": ""
+        },
+        {
+            "hash": 4254104341,
+            "original": "FM4_HC",
+            "translated": "FM4_HC",
+            "desc": ""
+        },
+        {
+            "hash": 4258000339,
+            "original": "~z~You did the right thing.",
+            "translated": "~z~这事你做对了。",
+            "desc": ""
+        },
+        {
+            "hash": 4291464925,
+            "original": "~z~The world is full of bad people.",
+            "translated": "~z~世界上到处是坏人。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,934 @@
+{
+    "FCPCPAU": [
+        {
+            "hash": 18520714,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 19794994,
+            "original": "~z~Jesus Christ, I'm hearing your voice, Niko. I can't believe it.",
+            "translated": "~z~我的天哪，你终于给我打电话了，Niko。难以置信。",
+            "desc": ""
+        },
+        {
+            "hash": 37912247,
+            "original": "~z~How about we play pool?",
+            "translated": "~z~要不要去打个台球？",
+            "desc": ""
+        },
+        {
+            "hash": 42980016,
+            "original": "~z~I apologize Packie, but we're not going to a show together tonight. I'm busy.",
+            "translated": "~z~很抱歉，Packie，但是今晚我们没法一起去看表演了。我有点忙。",
+            "desc": ""
+        },
+        {
+            "hash": 87282940,
+            "original": "~z~So, Niko. All work and no play da da da da... let's go play some darts.",
+            "translated": "~z~那，Niko。只工作不玩耍下略...我们去玩飞镖吧。",
+            "desc": ""
+        },
+        {
+            "hash": 194143170,
+            "original": "FCP_ACT_GETCALL_SHOW",
+            "translated": "FCP_ACT_GETCALL_SHOW",
+            "desc": ""
+        },
+        {
+            "hash": 198912256,
+            "original": "~z~Pool could be fun. I'll pick you up from the house in the next hour.",
+            "translated": "~z~台球好啊，我一小时内就来你家接你。",
+            "desc": ""
+        },
+        {
+            "hash": 235083613,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 243284401,
+            "original": "~z~Why don't we get off our asses and go see something?",
+            "translated": "~z~要么我们一起歇一歇，找点节目看？",
+            "desc": ""
+        },
+        {
+            "hash": 259238077,
+            "original": "~z~Niko, you called. This is a miracle. Two more and you might be fucking canonised.",
+            "translated": "~z~Niko，你打来了啊，简直是奇迹啊。再打几次你就是圣人了。",
+            "desc": ""
+        },
+        {
+            "hash": 320172223,
+            "original": "~z~Niko, me and you have been hanging out some. I'm thinking we should go play some darts. How about it man?",
+            "translated": "~z~Niko，我们已经出去过几次了。我想一起去玩个飞镖。你意下如何？",
+            "desc": ""
+        },
+        {
+            "hash": 340497848,
+            "original": "~z~Can't do bowling right now, Packie. Another time.",
+            "translated": "~z~我现在没空打保龄球，Packie。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 395635056,
+            "original": "FCP_ACT_GETCALL_DARTS_FIRST",
+            "translated": "FCP_ACT_GETCALL_DARTS_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 404603093,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 441641631,
+            "original": "FCP_ACT_PPK_CALL_SHOW_YES",
+            "translated": "FCP_ACT_PPK_CALL_SHOW_YES",
+            "desc": ""
+        },
+        {
+            "hash": 469718199,
+            "original": "~z~How about we go see a show?",
+            "translated": "~z~一起去看场表演如何？",
+            "desc": ""
+        },
+        {
+            "hash": 474410354,
+            "original": "~z~I got a lot on my plate right now, Packie. No time for shows. Sorry.",
+            "translated": "~z~我现在事情够多了，Packie。没空看表演，抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 530885978,
+            "original": "~z~Okay, Packie. I'll pick you up from the house in the next hour.",
+            "translated": "~z~好的，Packie。一小时内我来你家接你。",
+            "desc": ""
+        },
+        {
+            "hash": 573965634,
+            "original": "~z~Let's go get fucked up, I'll pick you up in the next hour.",
+            "translated": "~z~那就大醉一场吧，我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 633809981,
+            "original": "~z~Wanna go to a gentlemen's club?",
+            "translated": "~z~绅士俱乐部去不去啊？",
+            "desc": ""
+        },
+        {
+            "hash": 640750105,
+            "original": "~z~Alright, man. If you want to hang later call me.",
+            "translated": "~z~好吧，兄弟。你要是想出来玩就来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 644929216,
+            "original": "FCP_ACT_GETCALL_DRINK",
+            "translated": "FCP_ACT_GETCALL_DRINK",
+            "desc": ""
+        },
+        {
+            "hash": 690667382,
+            "original": "~z~Sorry Packie. No bowling. I got shit to do. Maybe some other time.",
+            "translated": "~z~抱歉，Packie，没空打保龄球。我事很多，还是下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 702629073,
+            "original": "~z~How about some darts?",
+            "translated": "~z~来玩飞镖吗？",
+            "desc": ""
+        },
+        {
+            "hash": 727503083,
+            "original": "~z~Let's play some pool?",
+            "translated": "~z~来打局台球吧？",
+            "desc": ""
+        },
+        {
+            "hash": 738923688,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 743923598,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 749738809,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 753442604,
+            "original": "~z~Alright Niko, gimme a call when you wanna do something.",
+            "translated": "~z~行吧，Niko，你想出门玩的话就打给我。",
+            "desc": ""
+        },
+        {
+            "hash": 762202349,
+            "original": "~z~Sure, Packie. I could go bowling with you. I'll pick you up in the next hour.",
+            "translated": "~z~好啊，Packie。我可以来打保龄球，一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 814981629,
+            "original": "~z~I think that's a good idea. We go drinking in the next hour.",
+            "translated": "~z~这主意可以，一小时内我们就出发去喝酒。",
+            "desc": ""
+        },
+        {
+            "hash": 834187525,
+            "original": "~z~Something has happened, Packie. I cannot come to a show with you. Sorry.",
+            "translated": "~z~突发状况，Packie。我没法和你去看表演了。抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 843431501,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 849731326,
+            "original": "~z~Sorry Packie, I'm not coming to the club. Maybe another time.",
+            "translated": "~z~抱歉，Packie，我现在去不了。要么下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 858040300,
+            "original": "FCP_ACT_GETCALL_POOL",
+            "translated": "FCP_ACT_GETCALL_POOL",
+            "desc": ""
+        },
+        {
+            "hash": 904427902,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 910645505,
+            "original": "~z~Sorry Packie, but I can't go bowling with you anymore.",
+            "translated": "~z~抱歉，Packie，但我没法和你去打保龄球了。",
+            "desc": ""
+        },
+        {
+            "hash": 937538938,
+            "original": "~z~Okay Niko. I ain't gonna get offended. Call me when you're free.",
+            "translated": "~z~好吧，Niko，我不会生气的。等你有空了再打给我。",
+            "desc": ""
+        },
+        {
+            "hash": 948756064,
+            "original": "FCP_ACT_GETCALL_SHOW_FIRST",
+            "translated": "FCP_ACT_GETCALL_SHOW_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 964442195,
+            "original": "~z~Sure, Niko. You must have people to kill and shit. Call me when you're free.",
+            "translated": "~z~当然，Niko。你肯定还有人要杀吧。有空了就联系我。",
+            "desc": ""
+        },
+        {
+            "hash": 966544234,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 980072551,
+            "original": "FCP_ACT_PPK_GETCALL_DARTS_NO",
+            "translated": "FCP_ACT_PPK_GETCALL_DARTS_NO",
+            "desc": ""
+        },
+        {
+            "hash": 989999135,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1000892511,
+            "original": "~z~Wanna go play darts, man?",
+            "translated": "~z~去不去玩飞镖，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 1008981899,
+            "original": "FCP_ACT_PPK_CALL_DRINK_CANCEL",
+            "translated": "FCP_ACT_PPK_CALL_DRINK_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 1019736898,
+            "original": "~z~I'm not in the mood, Packie. Go to the strip club alone.",
+            "translated": "~z~我没心情，Packie。你自己去脱衣舞俱乐部吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1063652423,
+            "original": "~z~Fuck me, Niko. I didn't even want to go in the first place. Shit.",
+            "translated": "~z~我操，Niko。我一开始就不想去的。靠。",
+            "desc": ""
+        },
+        {
+            "hash": 1140622955,
+            "original": "~z~I don't feel like playing pool, Packie. I'll call you later.",
+            "translated": "~z~我不是很想打台球，Packie。以后再联系你。",
+            "desc": ""
+        },
+        {
+            "hash": 1182941676,
+            "original": "~z~Nah Packie, sorry. I don't wanna see a show. Another time.",
+            "translated": "~z~算了，Packie，抱歉。我不想看表演。下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1216471728,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1301290041,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1304340728,
+            "original": "~z~I don't give a fucking shit. I should have cancelled your fucking call.",
+            "translated": "~z~关老子屁事，就应该把你丫的电话挂了的。",
+            "desc": ""
+        },
+        {
+            "hash": 1323588160,
+            "original": "~z~We got a plan, Niko. I'll wait for ya.",
+            "translated": "~z~那就说好了，Niko。我等着你。",
+            "desc": ""
+        },
+        {
+            "hash": 1339913076,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1348715295,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1393973371,
+            "original": "FCP_ACT_GETCALL_BOWL_FIRST",
+            "translated": "FCP_ACT_GETCALL_BOWL_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 1441222536,
+            "original": "FCP_ACT_PPK_GETCALL_DARTS_YES",
+            "translated": "FCP_ACT_PPK_GETCALL_DARTS_YES",
+            "desc": ""
+        },
+        {
+            "hash": 1517757837,
+            "original": "FCP_ACT_PPK_CALL_SHOW_NO",
+            "translated": "FCP_ACT_PPK_CALL_SHOW_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1567475914,
+            "original": "~z~We could go see something. I will pick you up from the house in the next hour.",
+            "translated": "~z~我们可以去看点东西。我一小时内来你家接你。",
+            "desc": ""
+        },
+        {
+            "hash": 1569740802,
+            "original": "~z~Alright man, let us go see some naked women. Wait for me for one hour.",
+            "translated": "~z~好吧，兄弟，我们就去看一些裸女吧。等我一小时。",
+            "desc": ""
+        },
+        {
+            "hash": 1601953578,
+            "original": "~z~Niko, how about you and me catch a game or two on the bowling alley? It ain't like we ain't friends or nothing.",
+            "translated": "~z~Niko，要么我们一起去打两局保龄球吧？我们应该算得上是朋友吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1607664762,
+            "original": "FCP_ACT_PPK_GETCALL_DRINK_YES",
+            "translated": "FCP_ACT_PPK_GETCALL_DRINK_YES",
+            "desc": ""
+        },
+        {
+            "hash": 1673665091,
+            "original": "~z~Fine Niko, I got a bitch I planned on banging anyways.",
+            "translated": "~z~好吧，Niko，反正我也有女人要上。",
+            "desc": ""
+        },
+        {
+            "hash": 1730886244,
+            "original": "~z~Hey man, sorry but I have to cancel our bowling.",
+            "translated": "~z~嘿兄弟，抱歉，但保龄球我打不成了。",
+            "desc": ""
+        },
+        {
+            "hash": 1878851703,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1898684110,
+            "original": "~z~Nice one, Niko. See you soon.",
+            "translated": "~z~好的，Niko。一会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 1926642534,
+            "original": "~z~Shit man, I'm busy. Maybe we play darts together some other time.",
+            "translated": "~z~靠，兄弟，我很忙的。要么改天再去玩飞镖吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1932483481,
+            "original": "~z~Those naked girls are going to lose out on my tips, Packie. I can't come to the club with you.",
+            "translated": "~z~那些裸女挣不到我的小费了，Packie。我没法和你一起去俱乐部了。",
+            "desc": ""
+        },
+        {
+            "hash": 1982344326,
+            "original": "~z~Shit, man. It ain't like I don't got other people to hang with. We'll do it another day.",
+            "translated": "~z~靠，兄弟，我也不是没别的人可以一起。那我们下次再去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1996546942,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2166767299,
+            "original": "~z~You're a saint, Niko. I'll wait for ya.",
+            "translated": "~z~你就是个圣人啊，Niko。我会等你的。",
+            "desc": ""
+        },
+        {
+            "hash": 2213690398,
+            "original": "FCP_ACT_GETCALL_DARTS",
+            "translated": "FCP_ACT_GETCALL_DARTS",
+            "desc": ""
+        },
+        {
+            "hash": 2218300633,
+            "original": "~z~Jesus, Niko. You fucking avoiding me?",
+            "translated": "~z~天哪，Niko。你是在回避我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2223832660,
+            "original": "~z~Sorry Packie, we're going to have to go to the strip club together another time. Something came up.",
+            "translated": "~z~抱歉，Packie，脱衣舞俱乐部我们得改天再去了。突然有点事情。",
+            "desc": ""
+        },
+        {
+            "hash": 2228397718,
+            "original": "~z~Sure, Packie. Strippers could be cool. I'll collect you within the hour.",
+            "translated": "~z~好啊，Packie。舞女很棒啊。我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 2278671678,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2288341248,
+            "original": "~z~Alright Niko, that's cool. We'll go another time.",
+            "translated": "~z~好吧，Niko，也行。我们改天再去。",
+            "desc": ""
+        },
+        {
+            "hash": 2321440363,
+            "original": "~z~How about we go drinking?",
+            "translated": "~z~一起去喝一杯如何？",
+            "desc": ""
+        },
+        {
+            "hash": 2408088303,
+            "original": "~z~Let's go bowling.",
+            "translated": "~z~去打保龄球吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2421599903,
+            "original": "~z~Okay man, I could catch a show. Wait for me at the house for one hour.",
+            "translated": "~z~好啊，兄弟。我可以来看表演，你在家等着，我一小时内来接。",
+            "desc": ""
+        },
+        {
+            "hash": 2433061836,
+            "original": "~z~Hey man, I can do darts no more.",
+            "translated": "~z~嘿，兄弟，我没法来玩飞镖了。",
+            "desc": ""
+        },
+        {
+            "hash": 2448830548,
+            "original": "~z~Niko, what the fuck. I ain't heard from you in a fucking age.",
+            "translated": "~z~Niko，搞什么，我他妈百年没接到你电话了。",
+            "desc": ""
+        },
+        {
+            "hash": 2449125126,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2472780486,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2474108814,
+            "original": "FCP_ACT_PPK_GETCALL_BOWL_YES",
+            "translated": "FCP_ACT_PPK_GETCALL_BOWL_YES",
+            "desc": ""
+        },
+        {
+            "hash": 2508455366,
+            "original": "~z~Alright man, if that how you're playing it. We'll go another time if I don't cancel on you.",
+            "translated": "~z~好吧，兄弟，要是你真这么打算的话。我们改天再去吧，只要我不放你鸽子。",
+            "desc": ""
+        },
+        {
+            "hash": 2529742275,
+            "original": "~z~Hey, Niko you wanna go bowling? It's not as bad as it sounds you know.",
+            "translated": "~z~嘿，Niko，去不去打保龄球？~n~保龄球没听起来那么糟糕的。",
+            "desc": ""
+        },
+        {
+            "hash": 2538239737,
+            "original": "FCP_ACT_PPK_CALL_POOL_CANCEL",
+            "translated": "FCP_ACT_PPK_CALL_POOL_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 2543716871,
+            "original": "~z~Hey Niko, they got pool in eastern Europe? Ha - just joking. Let's go play a few racks.",
+            "translated": "~z~嘿，Niko，东欧有没有台球啊？哈，开玩笑的。我们去打两局吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2599463818,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2665216583,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2671118956,
+            "original": "FCP_ACT_PPK_CALL_DARTS_CANCEL",
+            "translated": "FCP_ACT_PPK_CALL_DARTS_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 2703959604,
+            "original": "~z~Let's hit the bowling alley.",
+            "translated": "~z~我们去打保龄球吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2724668791,
+            "original": "~z~How about we go check out some naked chicks?",
+            "translated": "~z~一起去看些裸体妓女如何啊？",
+            "desc": ""
+        },
+        {
+            "hash": 2767108021,
+            "original": "FCP_ACT_PPK_CALL_BOWL_CANCEL",
+            "translated": "FCP_ACT_PPK_CALL_BOWL_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 2798626922,
+            "original": "~z~Niko my man, we've been hanging out for a while now, how's about a game or two of pool, you up for it?",
+            "translated": "~z~Niko，好兄弟，我们已经认识一段时间了，打一两局台球如何，有兴趣吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2827130191,
+            "original": "FCP_ACT_GETCALL_ACCEPT",
+            "translated": "FCP_ACT_GETCALL_ACCEPT",
+            "desc": ""
+        },
+        {
+            "hash": 2834494480,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2904036426,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2940781987,
+            "original": "FCP_ACT_GETCALL_IRATE",
+            "translated": "FCP_ACT_GETCALL_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 2986050403,
+            "original": "~z~Niko, there's an old Irish tradition that says you gotta go out and get wasted with your friends.",
+            "translated": "~z~Niko，我们爱尔兰有个习俗，要和朋友一起出去喝个大醉。",
+            "desc": ""
+        },
+        {
+            "hash": 3034936822,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3082797814,
+            "original": "FCP_ACT_PPK_CALL_STRIP_CANCEL",
+            "translated": "FCP_ACT_PPK_CALL_STRIP_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 3141658692,
+            "original": "~z~Packie, I ain't gonna be able to make our darts date.",
+            "translated": "~z~Packie，我没法赴约玩飞镖了。",
+            "desc": ""
+        },
+        {
+            "hash": 3148005607,
+            "original": "~z~Want to go for a drink?",
+            "translated": "~z~去喝一杯吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3153463434,
+            "original": "~z~What's up man? It's me.",
+            "translated": "~z~还好吗，兄弟？是我。",
+            "desc": ""
+        },
+        {
+            "hash": 3204764413,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3208438860,
+            "original": "FCP_ACT_PPK_GETCALL_DRINK_NO",
+            "translated": "FCP_ACT_PPK_GETCALL_DRINK_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3235348203,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3250820465,
+            "original": "~z~Alright Niko, we've been friends for a while. I'm thinking it's about time I showed you some traditional American strippers.",
+            "translated": "~z~好了，Niko，我们来往也有段时间了。差不多也该带你去看看美国传统脱衣舞女了。",
+            "desc": ""
+        },
+        {
+            "hash": 3265091088,
+            "original": "~z~Let's go plays some darts, man. I'll pick you up in the next hour.",
+            "translated": "~z~那就去玩飞镖吧，兄弟。我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 3279947024,
+            "original": "~z~Sorry Packie, I ain't playing pool with you right now. Another time.",
+            "translated": "~z~抱歉，Packie，现在我没法来和你打台球。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3306577893,
+            "original": "~z~Sorry, Packie. I can't throw darts with you right now.",
+            "translated": "~z~抱歉，Packie。我现在没法和你去扔飞镖。",
+            "desc": ""
+        },
+        {
+            "hash": 3320112207,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3355683175,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3376125208,
+            "original": "~z~I ain't in the mood to get drunk, Packie. Maybe later.",
+            "translated": "~z~我没心情喝酒，Packie。下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3381620271,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3393638962,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3400253533,
+            "original": "FCP_ACT_PPK_GET_CALL_STRIP_YES",
+            "translated": "FCP_ACT_PPK_GET_CALL_STRIP_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3413166019,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3448125659,
+            "original": "FCP_ACT_PPK_CALL_HILIKE",
+            "translated": "FCP_ACT_PPK_CALL_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3467357685,
+            "original": "~z~Hey Niko, it's Packie.",
+            "translated": "~z~嘿，Niko，我是Packie。",
+            "desc": ""
+        },
+        {
+            "hash": 3477207782,
+            "original": "FCP_ACT_PPK_GETCALL_POOL_YES",
+            "translated": "FCP_ACT_PPK_GETCALL_POOL_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3486593420,
+            "original": "~z~He Niko, let's do the strip-club, strippers, having a laugh with your mates thing?",
+            "translated": "~z~嘿，Niko，一起去脱衣舞俱乐部，看看舞女，和朋友开怀大笑如何？",
+            "desc": ""
+        },
+        {
+            "hash": 3512464269,
+            "original": "~z~Sure, darts sounds good. I will pick you up from the house in the next hour.",
+            "translated": "~z~好，飞镖听起来不错。我一小时内来你家接你。",
+            "desc": ""
+        },
+        {
+            "hash": 3525474527,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3548059076,
+            "original": "FCP_ACT_GETCALL_STRIP_FIRST",
+            "translated": "FCP_ACT_GETCALL_STRIP_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 3589182509,
+            "original": "FCP_ACT_GETCALL_POOL_FIRST",
+            "translated": "FCP_ACT_GETCALL_POOL_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 3608430273,
+            "original": "~z~I can't get drunk with you today, Packie. I'm sorry.",
+            "translated": "~z~今天我没法陪你喝酒了，Packie。很抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 3629760849,
+            "original": "~z~Patrick here.",
+            "translated": "~z~我是Patrick。",
+            "desc": ""
+        },
+        {
+            "hash": 3664618301,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3723932853,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3730796171,
+            "original": "FCP_ACT_GETCALL_BOWL",
+            "translated": "FCP_ACT_GETCALL_BOWL",
+            "desc": ""
+        },
+        {
+            "hash": 3735142372,
+            "original": "~z~Sorry Packie, I don't have the alcoholic genes you do. Maybe later.",
+            "translated": "~z~抱歉，Packie，我可没有你这样的酒鬼基因。下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3747051959,
+            "original": "FCP_ACT_PPK_GETCALL_BOWL_NO",
+            "translated": "FCP_ACT_PPK_GETCALL_BOWL_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3837316417,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3875787025,
+            "original": "FCP_ACT_CALL_STRIP",
+            "translated": "FCP_ACT_CALL_STRIP",
+            "desc": ""
+        },
+        {
+            "hash": 3876817055,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3929433354,
+            "original": "~z~Man, it's Packie calling.",
+            "translated": "~z~兄弟，我是Packie。",
+            "desc": ""
+        },
+        {
+            "hash": 3969863599,
+            "original": "FCP_ACT_PPK_CALL_SHOW_CANCEL",
+            "translated": "FCP_ACT_PPK_CALL_SHOW_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 3990124306,
+            "original": "FCP_ACT_PPK_CALL_MEDLIKE",
+            "translated": "FCP_ACT_PPK_CALL_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3990473437,
+            "original": "FCP_ACT_GETCALL_VERYIRATE",
+            "translated": "FCP_ACT_GETCALL_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 4050353007,
+            "original": "~z~Packie, you're going to have to get messed up alone because I can't make it.",
+            "translated": "~z~Packie，你只能自己去买醉了，我去不了。",
+            "desc": ""
+        },
+        {
+            "hash": 4077153055,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4106521657,
+            "original": "~z~What's up man? My ma says that I got to take you to a show since you ain't from Liberty City. What do you think?",
+            "translated": "~z~怎么样，兄弟？我妈说应该带你去看个表演，因为你不是本地人。你意下如何？",
+            "desc": ""
+        },
+        {
+            "hash": 4129962060,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4179700854,
+            "original": "FCP_ACT_GETCALL_GREET",
+            "translated": "FCP_ACT_GETCALL_GREET",
+            "desc": ""
+        },
+        {
+            "hash": 4186113542,
+            "original": "FCP_ACT_GETCALL_REJECT",
+            "translated": "FCP_ACT_GETCALL_REJECT",
+            "desc": ""
+        },
+        {
+            "hash": 4191526535,
+            "original": "~z~Got to cancel our pool session, Packie. I'll make it up to you.",
+            "translated": "~z~打台球的计划得取消了，Packie。下次一定来。",
+            "desc": ""
+        },
+        {
+            "hash": 4229341961,
+            "original": "~z~Man, sorry but pool is off. Something came up.",
+            "translated": "~z~兄弟，很抱歉，但台球打不了了。突然有事。",
+            "desc": ""
+        },
+        {
+            "hash": 4255170159,
+            "original": "FCP_ACT_PPK_GETCALL_POOL_NO",
+            "translated": "FCP_ACT_PPK_GETCALL_POOL_NO",
+            "desc": ""
+        },
+        {
+            "hash": 4259219932,
+            "original": "FCP_ACT_GETCALL_DRINK_FIRST",
+            "translated": "FCP_ACT_GETCALL_DRINK_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 4263611789,
+            "original": "~z~Pool... okay. I will come to collect you in the next hour.",
+            "translated": "~z~台球...可以。我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 4284006554,
+            "original": "FCP_ACT_PPK_CALL_STRIP_NO",
+            "translated": "FCP_ACT_PPK_CALL_STRIP_NO",
+            "desc": ""
+        },
+        {
+            "hash": 4284706223,
+            "original": "FCP_ACT_PPK_CALL_LOLIKE",
+            "translated": "FCP_ACT_PPK_CALL_LOLIKE",
+            "desc": ""
+        }
+    ]
+}

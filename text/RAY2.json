@@ -1,0 +1,166 @@
+{
+    "RAY2": [
+        {
+            "hash": 279112742,
+            "original": "~s~Wait here until the pickup is completed.",
+            "translated": "~s~等待回收完成。",
+            "desc": ""
+        },
+        {
+            "hash": 799505149,
+            "original": "~r~You have abandoned the truck.",
+            "translated": "~r~你抛弃了卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 987666747,
+            "original": "~r~You attacked Ray's boys.",
+            "translated": "~r~你攻击了Ray的手下。",
+            "desc": ""
+        },
+        {
+            "hash": 988448787,
+            "original": "~s~Go and pick up the ~b~Trashmaster.",
+            "translated": "~s~去开~b~垃圾车。",
+            "desc": ""
+        },
+        {
+            "hash": 1062142702,
+            "original": "~s~Press ~INPUT_PHONE_ACCEPT~ to operate the trash compactor. You must put your phone away first.",
+            "translated": "~s~按~INPUT_PHONE_ACCEPT~操作垃圾压缩机。你必须先把手机收好。",
+            "desc": ""
+        },
+        {
+            "hash": 1548303480,
+            "original": "~s~Press ~PAD_X~ to operate the trash compactor.",
+            "translated": "~s~按~PAD_X~操作垃圾压缩机。",
+            "desc": ""
+        },
+        {
+            "hash": 1627973007,
+            "original": "~r~Johnny is dead.",
+            "translated": "~r~Johnny死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1637242218,
+            "original": "~s~Drive to the ~y~second diamond pickup.",
+            "translated": "~s~前往~y~第二个钻石回收点。",
+            "desc": ""
+        },
+        {
+            "hash": 1839492486,
+            "original": "~s~Drive to the ~y~first diamond pickup.",
+            "translated": "~s~前往~y~第一个钻石回收点。",
+            "desc": ""
+        },
+        {
+            "hash": 2083527641,
+            "original": "~r~Tuna is dead.",
+            "translated": "~r~Tuna死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2161710039,
+            "original": "~s~Wait here while Tuna and Johnny make the pickup.",
+            "translated": "~s~等待Tuna和Johnny回收垃圾。",
+            "desc": ""
+        },
+        {
+            "hash": 2216434493,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 2223512397,
+            "original": "~s~Go to the ~y~drop-off~s~ in Fishmarket South.",
+            "translated": "~s~前往鱼市南的~y~倾倒点。",
+            "desc": ""
+        },
+        {
+            "hash": 2383031865,
+            "original": "~r~Luca is dead.",
+            "translated": "~r~Luca死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2430547139,
+            "original": "~b~Johnny~s~ fell off. Go and pick him up.",
+            "translated": "~b~Johnny~s~摔下去了。去把他接上。",
+            "desc": ""
+        },
+        {
+            "hash": 2454271695,
+            "original": "~s~Get back in the ~b~truck.",
+            "translated": "~s~回到~b~垃圾车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 2461112719,
+            "original": "~s~Get in the ~b~truck.",
+            "translated": "~s~进入~b~垃圾车。",
+            "desc": ""
+        },
+        {
+            "hash": 2735495469,
+            "original": "~s~Stop the truck near the trash bags.",
+            "translated": "~s~把垃圾车停在垃圾袋旁。",
+            "desc": ""
+        },
+        {
+            "hash": 2968089831,
+            "original": "~s~Press ~INPUT_PHONE_ACCEPT~ to operate the trash compactor.",
+            "translated": "~s~按~INPUT_PHONE_ACCEPT~操作垃圾压缩机。",
+            "desc": ""
+        },
+        {
+            "hash": 2977953060,
+            "original": "~s~Go back and pick up ~b~Tuna~s~ and ~b~Johnny.",
+            "translated": "~s~回去接~b~Tuna~s~和~b~Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 3067477992,
+            "original": "~r~The truck has been destroyed.",
+            "translated": "~r~垃圾车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3595190188,
+            "original": "~s~Open the back of the Trashmaster.",
+            "translated": "~s~打开垃圾车的后盖。",
+            "desc": ""
+        },
+        {
+            "hash": 3647839718,
+            "original": "~s~Press ~PAD_X~ to operate the trash compactor. You must put your phone away first.",
+            "translated": "~s~按~PAD_X~操作垃圾压缩机。你必须先把手机收好。",
+            "desc": ""
+        },
+        {
+            "hash": 3692153659,
+            "original": "~b~Tuna~s~ and ~b~Johnny~s~ fell off. Go and pick them up.",
+            "translated": "~b~Tuna~s~和~b~Johnny~s~摔下去了。去把他们接上。",
+            "desc": ""
+        },
+        {
+            "hash": 3795307233,
+            "original": "~s~Go back and pick up ~b~Tuna.",
+            "translated": "~s~回去接~b~Tuna。",
+            "desc": ""
+        },
+        {
+            "hash": 3924584176,
+            "original": "~b~Tuna~s~ fell off. Go and pick him up.",
+            "translated": "~b~Tuna~s~摔下去了。去把他接上。",
+            "desc": ""
+        },
+        {
+            "hash": 4104679362,
+            "original": "~s~Go back and pick up ~b~Johnny.",
+            "translated": "~s~回去接~b~Johnny。",
+            "desc": ""
+        }
+    ]
+}

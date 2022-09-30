@@ -1,0 +1,94 @@
+{
+    "KILLBOX": [
+        {
+            "hash": 469556105,
+            "original": "Lose your wanted level.",
+            "translated": "摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 866786830,
+            "original": "~r~Oleg~s~ is getting away. Take him down.",
+            "translated": "~r~Oleg~s~正在逃跑。干掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 868584026,
+            "original": "Get a vehicle.",
+            "translated": "找一辆载具。",
+            "desc": ""
+        },
+        {
+            "hash": 936652392,
+            "original": "Keep up. You're losing ~r~Oleg.",
+            "translated": "跟上。你要跟丢~r~Oleg~s~了。",
+            "desc": ""
+        },
+        {
+            "hash": 1117895677,
+            "original": "Get a vehicle and go to the ~y~jewelry store.",
+            "translated": "找一辆载具，前往~y~珠宝店。",
+            "desc": ""
+        },
+        {
+            "hash": 1175571171,
+            "original": "Go back and eliminate ~r~Oleg.",
+            "translated": "回去消灭~r~Oleg。",
+            "desc": ""
+        },
+        {
+            "hash": 1187038267,
+            "original": "Check the ~y~computer~s~ for information.",
+            "translated": "调查~y~电脑~s~搜寻情报。",
+            "desc": ""
+        },
+        {
+            "hash": 1426415812,
+            "original": "Go to ~y~Oleg's apartment~s~ in Hove Beach.",
+            "translated": "前往Oleg在Hove Beach的~y~公寓。",
+            "desc": ""
+        },
+        {
+            "hash": 1543921460,
+            "original": "This route is blocked, back up and go around.",
+            "translated": "这条路被挡住了，退回去绕路走。",
+            "desc": ""
+        },
+        {
+            "hash": 1743560130,
+            "original": "Search Oleg's emails, try to find information on his location.",
+            "translated": "调查Oleg的邮件，寻找有关他现在位置的信息。",
+            "desc": ""
+        },
+        {
+            "hash": 1804537303,
+            "original": "Eliminate ~r~Oleg.",
+            "translated": "消灭~r~Oleg。",
+            "desc": ""
+        },
+        {
+            "hash": 2033756458,
+            "original": "Ram ~r~Oleg's car~s~ off the road.",
+            "translated": "把~r~Oleg的车~s~撞出道路。",
+            "desc": ""
+        },
+        {
+            "hash": 2034548850,
+            "original": "You found the information, now exit the computer.",
+            "translated": "你找到了情报，现在退出电脑。",
+            "desc": ""
+        },
+        {
+            "hash": 2513650226,
+            "original": "~r~Oleg got away.~s~",
+            "translated": "~r~Oleg逃走了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3059008705,
+            "original": "Go to the ~y~jewelry store.",
+            "translated": "前往~y~珠宝店。",
+            "desc": ""
+        }
+    ]
+}

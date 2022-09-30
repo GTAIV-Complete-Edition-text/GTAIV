@@ -1,0 +1,76 @@
+{
+    "JIMMY4": [
+        {
+            "hash": 195807322,
+            "original": "~r~Ray got away.",
+            "translated": "~r~Ray逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 502951159,
+            "original": "~r~Ray was spooked.",
+            "translated": "~r~Ray被惊动了。",
+            "desc": ""
+        },
+        {
+            "hash": 508456367,
+            "original": "~s~Head over to ~y~East Holland~s~ and look for Ray.",
+            "translated": "~s~前往~y~East Holland~s~寻找Ray的踪迹。",
+            "desc": ""
+        },
+        {
+            "hash": 1212826382,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1806961121,
+            "original": "~s~Don't get too close or you might be spotted.",
+            "translated": "~s~不要跟得太近，否则你会被发现的。",
+            "desc": ""
+        },
+        {
+            "hash": 2124525500,
+            "original": "~s~You need a car.",
+            "translated": "~s~你需要一辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 2701554821,
+            "original": "~s~You were spotted!",
+            "translated": "~s~你被发现了！",
+            "desc": ""
+        },
+        {
+            "hash": 3267966630,
+            "original": "~s~Exterminate ~r~Ray and his bodyguards.",
+            "translated": "~s~除掉~r~Ray和他的保镖。",
+            "desc": ""
+        },
+        {
+            "hash": 3574094628,
+            "original": "~s~Watch out for ~r~Ray's~s~ bodyguards.",
+            "translated": "~s~小心~r~Ray~s~的保镖。",
+            "desc": ""
+        },
+        {
+            "hash": 3819108441,
+            "original": "~s~Drive up to the pay kiosk. The toll is $5.",
+            "translated": "~s~开车通过收费站，过路费5美元。",
+            "desc": ""
+        },
+        {
+            "hash": 3940878029,
+            "original": "~s~Slow down to pay the toll, you don't want to attract attention.",
+            "translated": "~s~付费时减速慢行，不要引起注意。",
+            "desc": ""
+        },
+        {
+            "hash": 4196836688,
+            "original": "~s~Press ~PAD_LB~ to raise the barrier.",
+            "translated": "~s~按~PAD_LB~以升起栏杆。",
+            "desc": ""
+        }
+    ]
+}

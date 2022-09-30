@@ -1,0 +1,196 @@
+{
+    "TRAIN_H": [
+        {
+            "hash": 154064283,
+            "original": "You are on the ~BLIP_84~ line.~n~The next stop is ~a~.",
+            "translated": "您乘坐的是~BLIP_84~号线。~n~下一站是~a~。",
+            "desc": ""
+        },
+        {
+            "hash": 252299314,
+            "original": "You are on the ~BLIP_90~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.",
+            "translated": "您乘坐的是~BLIP_90~号线。~n~本站是~a~。~n~按~INPUT_VEH_EXIT~下车。",
+            "desc": ""
+        },
+        {
+            "hash": 428634587,
+            "original": "You are on the ~BLIP_86~ line.~n~This stop is ~a~.",
+            "translated": "您乘坐的是~BLIP_86~号线。~n~本站是~a~。",
+            "desc": ""
+        },
+        {
+            "hash": 627336699,
+            "original": "You are on the ~BLIP_89~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.",
+            "translated": "您乘坐的是~BLIP_89~号线。~n~下一站是~a~。~n~按~INPUT_FRONTEND_ACCEPT~跳过过场动画。",
+            "desc": ""
+        },
+        {
+            "hash": 718673006,
+            "original": "You are on the ~BLIP_86~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.",
+            "translated": "您乘坐的是~BLIP_86~号线。~n~下一站是~a~。~n~按~INPUT_FRONTEND_ACCEPT~跳过过场动画。",
+            "desc": ""
+        },
+        {
+            "hash": 765052936,
+            "original": "You are on the ~BLIP_83~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.",
+            "translated": "您乘坐的是~BLIP_83~号线。~n~本站是~a~。~n~按~INPUT_VEH_EXIT~下车。",
+            "desc": ""
+        },
+        {
+            "hash": 861958206,
+            "original": "You are on the ~BLIP_85~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.",
+            "translated": "您乘坐的是~BLIP_85~号线。~n~下一站是 ~a~。~n~按~INPUT_FRONTEND_ACCEPT~跳过过场动画。",
+            "desc": ""
+        },
+        {
+            "hash": 971947697,
+            "original": "You are on the ~BLIP_84~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.",
+            "translated": "您乘坐的是~BLIP_84~号线。~n~本站是~a~。~n~按~INPUT_VEH_EXIT~下车。",
+            "desc": ""
+        },
+        {
+            "hash": 1092480434,
+            "original": "You are on the ~BLIP_88~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.",
+            "translated": "您乘坐的是~BLIP_88~号线。~n~本站是~a~。~n~按~INPUT_VEH_EXIT~下车。",
+            "desc": ""
+        },
+        {
+            "hash": 1889766240,
+            "original": "You are on the ~BLIP_90~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.",
+            "translated": "您乘坐的是~BLIP_90~号线。~n~下一站是~a~。~n~按~INPUT_FRONTEND_ACCEPT~跳过过场动画。",
+            "desc": ""
+        },
+        {
+            "hash": 1943972601,
+            "original": "You are on the ~BLIP_83~ line.~n~The next stop is ~a~.",
+            "translated": "您乘坐的是~BLIP_83~号线。~n~下一站是~a~。",
+            "desc": ""
+        },
+        {
+            "hash": 1990678732,
+            "original": "You are on the ~BLIP_88~ line.~n~This stop is ~a~.",
+            "translated": "您乘坐的是~BLIP_88~号线。~n~本站是~a~。",
+            "desc": ""
+        },
+        {
+            "hash": 2012863333,
+            "original": "You are on the ~BLIP_88~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.",
+            "translated": "您乘坐的是~BLIP_88~号线。~n~下一站是~a~。~n~按~INPUT_FRONTEND_ACCEPT~跳过过场动画。",
+            "desc": ""
+        },
+        {
+            "hash": 2151302016,
+            "original": "You are on the ~BLIP_89~ line.~n~The next stop is ~a~.",
+            "translated": "您乘坐的是~BLIP_89~号线。~n~下一站是~a~。",
+            "desc": ""
+        },
+        {
+            "hash": 2177154919,
+            "original": "You are on the ~BLIP_87~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.",
+            "translated": "您乘坐的是~BLIP_87~号线。~n~本站是~a~。~n~按~INPUT_VEH_EXIT~下车。",
+            "desc": ""
+        },
+        {
+            "hash": 2230363410,
+            "original": "You are on the ~BLIP_89~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.",
+            "translated": "您乘坐的是~BLIP_89~号线。~n~本站是~a~。~n~按~INPUT_VEH_EXIT~下车。",
+            "desc": ""
+        },
+        {
+            "hash": 2338411911,
+            "original": "You are on the ~BLIP_86~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.",
+            "translated": "您乘坐的是~BLIP_86~号线。~n~本站是~a~。~n~按~INPUT_VEH_EXIT~下车。",
+            "desc": ""
+        },
+        {
+            "hash": 2344637282,
+            "original": "You are on the ~BLIP_87~ line.~n~This stop is ~a~.",
+            "translated": "您乘坐的是~BLIP_87~号线。~n~本站是~a~。",
+            "desc": ""
+        },
+        {
+            "hash": 2578642589,
+            "original": "You are on the ~BLIP_90~ line.~n~The next stop is ~a~.",
+            "translated": "您乘坐的是~BLIP_90~号线。~n~下一站是~a~。",
+            "desc": ""
+        },
+        {
+            "hash": 2648962985,
+            "original": "You are on the ~BLIP_87~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.",
+            "translated": "您乘坐的是~BLIP_87~号线。~n~下一站是~a~。~n~按~INPUT_FRONTEND_ACCEPT~跳过过场动画。",
+            "desc": ""
+        },
+        {
+            "hash": 2671732887,
+            "original": "You are on the ~BLIP_90~ line.~n~This stop is ~a~.",
+            "translated": "您乘坐的是~BLIP_90~号线，~n~本站是~a~。",
+            "desc": ""
+        },
+        {
+            "hash": 2673246672,
+            "original": "You are on the ~BLIP_86~ line.~n~The next stop is ~a~.",
+            "translated": "您乘坐的是~BLIP_86~号线。~n~下一站是~a~。",
+            "desc": ""
+        },
+        {
+            "hash": 2859712958,
+            "original": "You are on the ~BLIP_83~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.",
+            "translated": "您乘坐的是~BLIP_83~号线。~n~下一站是~a~。~n~按~INPUT_FRONTEND_ACCEPT~跳过过场动画。",
+            "desc": ""
+        },
+        {
+            "hash": 3039294415,
+            "original": "You are on the ~BLIP_85~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.",
+            "translated": "您乘坐的是~BLIP_85~号线。~n~本站是~a~。~n~按~INPUT_VEH_EXIT~下车。",
+            "desc": ""
+        },
+        {
+            "hash": 3064739886,
+            "original": "You are on the ~BLIP_84~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.",
+            "translated": "您乘坐的是~BLIP_84~号线。~n~下一站是~a~。~n~按~INPUT_FRONTEND_ACCEPT~跳过过场动画。",
+            "desc": ""
+        },
+        {
+            "hash": 3341701479,
+            "original": "You are on the ~BLIP_88~ line.~n~The next stop is ~a~.",
+            "translated": "您乘坐的是~BLIP_88~号线。~n~下一站是~a~。",
+            "desc": ""
+        },
+        {
+            "hash": 3383729370,
+            "original": "You are on the ~BLIP_85~ line.~n~This stop is ~a~.",
+            "translated": "您乘坐的是~BLIP_85~号线。~n~本站是~a~。",
+            "desc": ""
+        },
+        {
+            "hash": 3499189317,
+            "original": "You are on the ~BLIP_85~ line.~n~The next stop is ~a~.",
+            "translated": "您乘坐的是~BLIP_85~号线。~n~下一站是~a~。",
+            "desc": ""
+        },
+        {
+            "hash": 3692930317,
+            "original": "You are on the ~BLIP_83~ line.~n~This stop is ~a~.",
+            "translated": "您乘坐的是~BLIP_83~号线。~n~本站是~a~。",
+            "desc": ""
+        },
+        {
+            "hash": 3934197768,
+            "original": "You are on the ~BLIP_87~ line.~n~The next stop is ~a~.",
+            "translated": "您乘坐的是~BLIP_87~号线。~n~下一站是~a~。",
+            "desc": ""
+        },
+        {
+            "hash": 4079321470,
+            "original": "You are on the ~BLIP_89~ line.~n~This stop is ~a~.",
+            "translated": "您乘坐的是~BLIP_89~号线。~n~本站是~a~。",
+            "desc": ""
+        },
+        {
+            "hash": 4225286790,
+            "original": "You are on the ~BLIP_84~ line.~n~This stop is ~a~.",
+            "translated": "您乘坐的是~BLIP_84~号线。~n~本站是~a~。",
+            "desc": ""
+        }
+    ]
+}

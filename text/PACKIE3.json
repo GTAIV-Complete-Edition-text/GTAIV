@@ -1,0 +1,184 @@
+{
+    "PACKIE3": [
+        {
+            "hash": 55420140,
+            "original": "~s~Pick up your ~b~partners.",
+            "translated": "~s~带上你的~b~同伙。",
+            "desc": ""
+        },
+        {
+            "hash": 393113330,
+            "original": "~r~Michael is dead.",
+            "translated": "~r~Michael死了。",
+            "desc": ""
+        },
+        {
+            "hash": 510497606,
+            "original": "~s~You left ~b~Packie~s~ and ~b~Michael~s~ behind, go back and get them.",
+            "translated": "~s~你把~b~Packie~s~和~b~Michael~s~落下了，回去找他们。",
+            "desc": ""
+        },
+        {
+            "hash": 792315762,
+            "original": "~s~Get back to ~y~Packie's Ma's house.",
+            "translated": "~s~返回~y~Packie母亲的家。",
+            "desc": ""
+        },
+        {
+            "hash": 816854987,
+            "original": "~s~You left ~b~Packie,~s~ ~b~Derrick~s~ and ~b~Michael~s~ behind, go back and get them.",
+            "translated": "~s~你把~b~Packie~s~、~b~Derrick~s~和~b~Michael~s~落下了，回去找他们。",
+            "desc": ""
+        },
+        {
+            "hash": 954746939,
+            "original": "~r~Packie and Derrick were abandoned.",
+            "translated": "~r~Packie和Derrick被抛弃了。",
+            "desc": ""
+        },
+        {
+            "hash": 1056099393,
+            "original": "~s~You must be wearing a suit and tie with smart shoes to take part in the heist.",
+            "translated": "~s~你必须西装革履打领带才能参与此次抢劫。",
+            "desc": ""
+        },
+        {
+            "hash": 1140286839,
+            "original": "~s~Follow ~b~Packie~s~ and ~b~Derrick.",
+            "translated": "~s~跟随~b~Packie~s~和~b~Derrick。",
+            "desc": ""
+        },
+        {
+            "hash": 1260776630,
+            "original": "~s~You left ~b~Derrick~s~ and ~b~Michael~s~ behind, go back and get them.",
+            "translated": "~s~你把~b~Derrick~s~和~b~Michael~s~落下了，回去找他们。",
+            "desc": ""
+        },
+        {
+            "hash": 1451590497,
+            "original": "~s~You left ~b~Packie~s~ behind, go back and get him.",
+            "translated": "~s~你把~b~Packie~s~落下了，回去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 1494941009,
+            "original": "~s~Get to ~y~street level.",
+            "translated": "~s~前往~y~地上层。",
+            "desc": ""
+        },
+        {
+            "hash": 1757627115,
+            "original": "~r~The money got destroyed.",
+            "translated": "~r~钱被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 1881141246,
+            "original": "~r~You killed too many innocent people.",
+            "translated": "~r~你杀了太多无辜民众。",
+            "desc": ""
+        },
+        {
+            "hash": 1892131191,
+            "original": "~r~Packie is dead.",
+            "translated": "~r~Packie死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1941353339,
+            "original": "~s~Find a four door car.",
+            "translated": "~s~找一辆四门的车。",
+            "desc": ""
+        },
+        {
+            "hash": 1991972068,
+            "original": "~s~Find a four door car and go to ~y~Packie's Ma's house.",
+            "translated": "~s~找一辆四门的车，前往~y~Packie母亲的家。",
+            "desc": ""
+        },
+        {
+            "hash": 2177620461,
+            "original": "~s~You left ~b~Michael~s~ behind, go back and get him.",
+            "translated": "~s~你把~b~Michael~s~落下了，回去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 2221152051,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 2448182086,
+            "original": "~s~The cops have locked down the surrounding area. Escape.",
+            "translated": "~s~警察封锁了周边地区。快逃。",
+            "desc": ""
+        },
+        {
+            "hash": 2474999136,
+            "original": "~s~You left ~b~Packie~s~ and ~b~Derrick~s~ behind, go back and get them.",
+            "translated": "~s~你把~b~Packie~s~和~b~Derrick~s~落下了，回去找他们。",
+            "desc": ""
+        },
+        {
+            "hash": 2482825301,
+            "original": "~r~Derrick is dead.",
+            "translated": "~r~Derrick死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3006795225,
+            "original": "~s~Go down to the vault and get the ~g~money.",
+            "translated": "~s~进入金库拿~g~钱。",
+            "desc": ""
+        },
+        {
+            "hash": 3130250778,
+            "original": "~s~Cover ~b~Packie~s~ and ~b~Derrick.",
+            "translated": "~s~掩护~b~Packie~s~和~b~Derrick。",
+            "desc": ""
+        },
+        {
+            "hash": 3161333829,
+            "original": "~s~Go back ~y~upstairs~s~ and rendezvous with the guys.",
+            "translated": "~s~回到~y~上层~s~和同伙一起撤退。",
+            "desc": ""
+        },
+        {
+            "hash": 3384243297,
+            "original": "~s~There are too many ~r~cops. ~s~Clear the path.",
+            "translated": "~r~警察~s~太多了，杀出一条血路。",
+            "desc": ""
+        },
+        {
+            "hash": 3426250437,
+            "original": "~s~You left ~b~Derrick~s~ behind, go back and get him.",
+            "translated": "~s~你把~b~Derrick~s~落下了，回去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 3649854081,
+            "original": "~s~Go to the ~y~bank.",
+            "translated": "~s~前往~y~银行。",
+            "desc": ""
+        },
+        {
+            "hash": 3727582741,
+            "original": "~r~Never leave a man behind. A partner was abandoned.",
+            "translated": "~r~永远不要落下人。有同伙被抛弃了。",
+            "desc": ""
+        },
+        {
+            "hash": 3777400166,
+            "original": "~s~Go to the ~y~service hatch.",
+            "translated": "~s~进入~y~维护通道。",
+            "desc": ""
+        },
+        {
+            "hash": 4039751679,
+            "original": "~s~You are too far from ~b~Packie~s~ and ~b~Derrick.~s~",
+            "translated": "~s~你离~b~Packie~s~和~b~Derrick~s~太远了。",
+            "desc": ""
+        }
+    ]
+}

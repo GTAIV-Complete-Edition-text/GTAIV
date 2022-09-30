@@ -1,0 +1,64 @@
+{
+    "RAY5": [
+        {
+            "hash": 282655415,
+            "original": "~s~The ~r~bikers~s~ have entered the subway system. Follow them.",
+            "translated": "~r~飞车党~s~进入了地铁隧道。跟上他们。",
+            "desc": ""
+        },
+        {
+            "hash": 989875973,
+            "original": "~s~Go to where members of The Lost are ~y~hanging out.",
+            "translated": "~s~前往失落摩托帮成员~y~所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 1625674037,
+            "original": "~s~Hold ~INPUT_VEH_HEADLIGHT~ to switch headlights between dipped and full beam.",
+            "translated": "~s~长按~INPUT_VEH_HEADLIGHT~切换远近光灯。",
+            "desc": ""
+        },
+        {
+            "hash": 2065305011,
+            "original": "~s~Use ~INPUT_VEH_HEADLIGHT~ to switch headlights between dipped and full beam.",
+            "translated": "~s~用~INPUT_VEH_HEADLIGHT~切换远近光灯。",
+            "desc": ""
+        },
+        {
+            "hash": 2727648816,
+            "original": "~s~Take the ~b~bike.",
+            "translated": "~s~骑上~b~摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 2792990202,
+            "original": "~s~Chase and take out the ~r~bikers.",
+            "translated": "~s~追击~r~飞车党，~s~干掉他们。",
+            "desc": ""
+        },
+        {
+            "hash": 2871150463,
+            "original": "~s~The ~r~biker~s~ has entered the subway. Follow him.",
+            "translated": "~r~飞车党~s~进入了地铁隧道。跟着他。",
+            "desc": ""
+        },
+        {
+            "hash": 4084394868,
+            "original": "~s~Hold ~PAD_LT~ to switch headlights between dipped and full beam.",
+            "translated": "~s~长按~PAD_LT~切换远近光灯。",
+            "desc": ""
+        },
+        {
+            "hash": 4128117604,
+            "original": "~r~The bikers got away.",
+            "translated": "~r~飞车党逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 4191254475,
+            "original": "~r~The biker got away.",
+            "translated": "~r~飞车党逃走了。",
+            "desc": ""
+        }
+    ]
+}

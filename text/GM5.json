@@ -1,0 +1,154 @@
+{
+    "GM5": [
+        {
+            "hash": 19958077,
+            "original": "~s~Take out ~r~Bulgarin's men.",
+            "translated": "~s~干掉~r~Bulgarin的手下。",
+            "desc": ""
+        },
+        {
+            "hash": 140910986,
+            "original": "~s~Take down the ~r~reinforcements.",
+            "translated": "~s~干掉~r~敌方增援。",
+            "desc": ""
+        },
+        {
+            "hash": 371514837,
+            "original": "~s~When on a ladder, use ~INPUT_SPRINT~ and ~PAD_LSTICK_DOWN~ to slide down quickly.~s~",
+            "translated": "~s~在梯子上时, 使用~INPUT_SPRINT~和~PAD_LSTICK_DOWN~快速下滑。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 574993838,
+            "original": "~s~ Take Packie back to his ~y~Ma's House~s~ in Dukes.",
+            "translated": "~s~送Packie回在Dukes的~y~他母亲的房子。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 866442741,
+            "original": "~s~When on a ladder, press ~INPUT_SPRINT~ and use ~PAD_LSTICK_DOWN~ to slide down quickly.~s~",
+            "translated": "~s~在梯子上时，按下~INPUT_SPRINT~并使用~PAD_LSTICK_DOWN~快速下滑。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 899866701,
+            "original": "~s~When on a ladder, press ~PAD_Y~ to slide down quickly.~s~",
+            "translated": "~s~在梯子上时，按~PAD_Y~快速下滑。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1012697954,
+            "original": "~s~Continue to the ~y~Charge Island Sewage Works.",
+            "translated": "~s~继续前往~y~Charge岛污水处理厂。",
+            "desc": ""
+        },
+        {
+            "hash": 1206616724,
+            "original": "~s~Continue to the ~y~exchange point.",
+            "translated": "~s~继续前往~y~交易点。",
+            "desc": ""
+        },
+        {
+            "hash": 1253809029,
+            "original": "~s~Get back into ~b~Packie's car.",
+            "translated": "~s~回到~b~Packie的车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1314600499,
+            "original": "~r~ Gracie drowned.",
+            "translated": "~r~Gracie淹死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1399022745,
+            "original": "~s~Follow~b~Packie.",
+            "translated": "~s~跟随~b~Packie。",
+            "desc": ""
+        },
+        {
+            "hash": 2133722217,
+            "original": "~s~Go to ~b~Packie's car~s~ in Northwood.",
+            "translated": "~s~去Northwood找~b~Packie的车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2150308250,
+            "original": "~r~Gracie is dead.",
+            "translated": "~r~Gracie死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2249003599,
+            "original": "~s~Go around the back to the ~y~exchange point.",
+            "translated": "~s~从后面绕到~y~交易点。",
+            "desc": ""
+        },
+        {
+            "hash": 2267162504,
+            "original": "~r~The car was destroyed.",
+            "translated": "~r~车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 2372640996,
+            "original": "~s~Drive to the ~y~Charge Island Sewage Works.",
+            "translated": "~s~驾车前往~y~Charge岛污水处理厂。",
+            "desc": ""
+        },
+        {
+            "hash": 2863263383,
+            "original": "~r~ Packie and Gracie are dead.",
+            "translated": "~r~Packie和Gracie死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2872641432,
+            "original": "~s~ Take Packie back to his ~y~Ma's House~s~ in Dukes.",
+            "translated": "~s~送Packie回在Dukes的~y~他母亲的房子。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2983291351,
+            "original": "~s~Make your way across to the ~y~walkway.",
+            "translated": "~s~穿过~y~步道。",
+            "desc": ""
+        },
+        {
+            "hash": 3162636048,
+            "original": "~s~Wait for ~b~Packie~s~ to get in the car.",
+            "translated": "~s~等待~b~Packie~s~上车。",
+            "desc": ""
+        },
+        {
+            "hash": 4016140101,
+            "original": "~s~Go to the ~y~meeting point~s~ upstairs.",
+            "translated": "~s~前往在二楼的~y~会面点。",
+            "desc": ""
+        },
+        {
+            "hash": 4030252018,
+            "original": "~s~Take out the last of ~r~Bulgarin's men.",
+            "translated": "~s~干掉残余的~r~Bulgarin的手下。",
+            "desc": ""
+        },
+        {
+            "hash": 4038311966,
+            "original": "~s~ You are too far away from ~b~Packie.~s~ Go back and get him.",
+            "translated": "~s~ 你离~b~Packie~s~太远了。回去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 4054809761,
+            "original": "~r~Packie is dead.",
+            "translated": "~r~Packie死了。",
+            "desc": ""
+        },
+        {
+            "hash": 4175747560,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        }
+    ]
+}

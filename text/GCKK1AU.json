@@ -1,0 +1,1504 @@
+{
+    "GCKK1AU": [
+        {
+            "hash": 3074896,
+            "original": "~z~You poor baby, let me give the judge a call and see if we can sort this out. See you soon.",
+            "translated": "~z~真可怜啊，我给法官打个电话，看看他能不能帮个忙。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 8563304,
+            "original": "~z~Fine Niko. Just wanted to let you know, I cancelled other plans for you. Just wanted you to know.",
+            "translated": "~z~好吧Niko。我就跟你说一声，我为你推掉了其他事。就这么说一声。",
+            "desc": ""
+        },
+        {
+            "hash": 10843547,
+            "original": "~z~I'd really like you to take me out.",
+            "translated": "~z~我真的很想让你带我出去玩。",
+            "desc": ""
+        },
+        {
+            "hash": 28359605,
+            "original": "~z~Sure, I'll be there soon.",
+            "translated": "~z~好的，我马上就到。",
+            "desc": ""
+        },
+        {
+            "hash": 46119240,
+            "original": "GCKK_ACT_CALL_REQ_SPEC_NO_POS",
+            "translated": "GCKK_ACT_CALL_REQ_SPEC_NO_POS",
+            "desc": ""
+        },
+        {
+            "hash": 46122856,
+            "original": "GCKK_ACT_GETCALL_DATE",
+            "translated": "GCKK_ACT_GETCALL_DATE",
+            "desc": ""
+        },
+        {
+            "hash": 52901276,
+            "original": "~z~Hey Kiki.",
+            "translated": "~z~嘿，Kiki。",
+            "desc": ""
+        },
+        {
+            "hash": 55213680,
+            "original": "~z~You're seeing things, Kiki. Take some pills, have a hot bath and chill out...",
+            "translated": "~z~你想多了吧，Kiki。吃点药，再洗个热水澡冷静一下...",
+            "desc": ""
+        },
+        {
+            "hash": 105648353,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 141217942,
+            "original": "~z~Hey sweetie.",
+            "translated": "~z~嘿，亲爱的。",
+            "desc": ""
+        },
+        {
+            "hash": 159318434,
+            "original": "~z~Kiki, I'm being harassed by some cops.",
+            "translated": "~z~Kiki，那些条子一直在烦我。",
+            "desc": ""
+        },
+        {
+            "hash": 160149192,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 166434841,
+            "original": "~z~Leave a message for Kiki Jenkins after the tone. Kiss, kiss.",
+            "translated": "~z~请在提示音后给Kiki Jenkins留言。亲亲。",
+            "desc": ""
+        },
+        {
+            "hash": 183268479,
+            "original": "GCKK_ACT_GETCALL_HOSP_REJ_MEDLIKE",
+            "translated": "GCKK_ACT_GETCALL_HOSP_REJ_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 189517360,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 194129316,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 208091571,
+            "original": "GCKK_ACT_GETCALL_REJECT_VERYIRATE",
+            "translated": "GCKK_ACT_GETCALL_REJECT_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 217764425,
+            "original": "~z~Can't wait, Kiki.",
+            "translated": "~z~我等不及了，Kiki。",
+            "desc": ""
+        },
+        {
+            "hash": 233731960,
+            "original": "~z~Sorry, I'm heading into Alderney to see my parents. Speak soon?",
+            "translated": "~z~不好意思，我要去Alderney看我父母了。以后再聊吧？",
+            "desc": ""
+        },
+        {
+            "hash": 274024463,
+            "original": "~z~I guess you had time to stop fucking your other girls and pick up the phone huh, Niko? God I've got low self esteem.",
+            "translated": "~z~你终于能从别的女人身上下来接我电话了，Niko？老天，我真不要脸。",
+            "desc": ""
+        },
+        {
+            "hash": 275058649,
+            "original": "GCKK_ACT_GETCALL_GREET",
+            "translated": "GCKK_ACT_GETCALL_GREET",
+            "desc": ""
+        },
+        {
+            "hash": 288958629,
+            "original": "~z~Niko, I can't see you again right away. If we're going to turn this into something serious we have to behave ourselves.",
+            "translated": "~z~Niko，我们才刚约过会。真正的感情还是要细水长流。",
+            "desc": ""
+        },
+        {
+            "hash": 346555015,
+            "original": "~z~What we have is sacred, Niko. Do you know what happens to those who piss on something sacred?",
+            "translated": "~z~我们的爱情是神圣的，Niko。你知道亵渎神圣之物的人有什么下场吗？",
+            "desc": ""
+        },
+        {
+            "hash": 347325519,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 359693503,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 375097844,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 377207845,
+            "original": "~z~Just when I'm starting to get over you, you call again. This hurts me so much. But...",
+            "translated": "~z~每当我快要忘掉你时，你又打来电话。这真的很伤我，但...",
+            "desc": ""
+        },
+        {
+            "hash": 401022406,
+            "original": "GCKK_ACT_PKI_CALL_REJECTED",
+            "translated": "GCKK_ACT_PKI_CALL_REJECTED",
+            "desc": ""
+        },
+        {
+            "hash": 503333427,
+            "original": "~z~Niko, I know you like me but we have to take this slow. We should wait a bit before we go on another date.",
+            "translated": "~z~Niko，我知道你喜欢我，但也别操之过急。给彼此多留一点时间吧。",
+            "desc": ""
+        },
+        {
+            "hash": 520126764,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 522725997,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 525151550,
+            "original": "~z~Hey baby, there are some cops after me. I think they're just looking for another immigrant to pick on.",
+            "translated": "~z~嘿，宝贝，有几个条子在追我。我想他们只是又想找移民的麻烦。",
+            "desc": ""
+        },
+        {
+            "hash": 540656844,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 549872437,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 555464410,
+            "original": "~z~Oh, you're back in my life. Picking me up and dropping me like a cheap toy. I guess I don't have much of a choice do I?",
+            "translated": "~z~噢，你终于想起我了。我就像个廉价玩具，你想玩就玩，想丢就丢。不过我也没什么办法，不是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 592576247,
+            "original": "~z~I look forward to it.",
+            "translated": "~z~我很期待。",
+            "desc": ""
+        },
+        {
+            "hash": 645506602,
+            "original": "~z~I'm onto you, Niko. I'm onto you. You're hurting me so bad.",
+            "translated": "~z~我全知道，Niko。我全知道。你太让我失望了。",
+            "desc": ""
+        },
+        {
+            "hash": 681873637,
+            "original": "GCKK_ACT_CALL_IRATE",
+            "translated": "GCKK_ACT_CALL_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 705674392,
+            "original": "GCKK_ACT_PKI_CALL_MEDLIKE",
+            "translated": "GCKK_ACT_PKI_CALL_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 742091645,
+            "original": "~z~How about I take you out?",
+            "translated": "~z~带你出去玩怎样？",
+            "desc": ""
+        },
+        {
+            "hash": 754632857,
+            "original": "~z~Kiki, it's crazy but these cops just started to harass me. Can you see what you can do?",
+            "translated": "~z~Kiki，真是疯了，这些条子开始骚扰我了。你能帮帮我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 756815345,
+            "original": "~z~I knew you were serious about me, Niko. This is going to be amazing. Pick me up in the next hour.",
+            "translated": "~z~我就知道你对我是认真的，Niko。这真是太让我开心了。一个小时内来接我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 767943102,
+            "original": "~z~Niko, if I didn't know better I'd think you were falling for me. We shouldn't see one another again so soon.",
+            "translated": "~z~Niko，我不会单纯到认为你已经倾心于我了。我们不应该约得这么频繁的。",
+            "desc": ""
+        },
+        {
+            "hash": 768081995,
+            "original": "~z~Seeing you would make my week. Pick me up in the next hour.",
+            "translated": "~z~见到你我能高兴一周。一小时内来接我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 783888896,
+            "original": "~z~Niko, there you are. I've missed you so much.",
+            "translated": "~z~Niko，你来啦，我好想你。",
+            "desc": ""
+        },
+        {
+            "hash": 836294661,
+            "original": "~z~Why don't you show me a good time?",
+            "translated": "~z~要么你带我出去快活快活吧？",
+            "desc": ""
+        },
+        {
+            "hash": 836360286,
+            "original": "~z~I was starting to think you were done with me. I couldn't bear it if you were.",
+            "translated": "~z~我差点以为我们已经结束了。真那样我可受不了。",
+            "desc": ""
+        },
+        {
+            "hash": 849710329,
+            "original": "~z~Why do I like you so much, can someone explain that to me?",
+            "translated": "~z~我怎么会这么喜欢你呢？谁可以解释一下吗？",
+            "desc": ""
+        },
+        {
+            "hash": 865178421,
+            "original": "~z~You're clearly not as serious about this as I am, Niko. I wouldn't have abandoned you in this situation.",
+            "translated": "~z~你对这段感情明显没我认真，Niko。换我就不会在这种时候抛弃你。",
+            "desc": ""
+        },
+        {
+            "hash": 870565164,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 908018206,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 968101480,
+            "original": "~z~Oh Niko, it's you. Just let me get a bit more sleep then we'll speak.",
+            "translated": "~z~噢Niko，是你啊。让我先睡会儿再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 983573645,
+            "original": "~z~Kiki, it's Niko.",
+            "translated": "~z~Kiki，我是Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1019346326,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1029594704,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1049991508,
+            "original": "~z~So you expect me to help you when you're out with your cheap whores instead of me? Sorry, Niko. Maybe prison will help you be faithful.",
+            "translated": "~z~怀里抱着个臭贱人还想着让我帮忙？抱歉，Niko。你还是去监狱改过自新吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1056809654,
+            "original": "~z~I've been thinking about you all day, Niko. Pick me up in the next hour.",
+            "translated": "~z~我一整天都在想你，Niko。一个小时内来接我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1059320800,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1061607976,
+            "original": "~z~Sorry, I'm working a really important case at the moment. Another time?",
+            "translated": "~z~抱歉，我手头有个很重要的案子。忙完再约吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1081185956,
+            "original": "~z~Niko, they're really out to get you. I'm sure they're persecuting you, but I can't do anything. Stay safe.",
+            "translated": "~z~Niko，他们这次是认真的。我知道他们想迫害你，但我无能为力。祝你平安。",
+            "desc": ""
+        },
+        {
+            "hash": 1106056924,
+            "original": "~z~You want to go out on a date with me?",
+            "translated": "~z~你想跟我去约会吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1139212336,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1161967254,
+            "original": "~z~I thought I meant something to you, Niko. I thought we had something special.",
+            "translated": "~z~我还以为我对你很重要，Niko。我还以为我们之间有感情。",
+            "desc": ""
+        },
+        {
+            "hash": 1174994702,
+            "original": "~z~I'm not the sort of girl who can be used and thrown away, Niko.",
+            "translated": "~z~我不是你想约就约、想扔就扔的女孩，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1212932799,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1223804516,
+            "original": "GCKK_ACT_GETCALL_IRATE",
+            "translated": "GCKK_ACT_GETCALL_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 1238061284,
+            "original": "~z~You're a total sweetheart, Niko. See you soon.",
+            "translated": "~z~真是我的好宝贝，Niko。待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 1253779919,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1258612662,
+            "original": "GCKK_ACT_GETCALL_HOSP_REJ_HILIKE",
+            "translated": "GCKK_ACT_GETCALL_HOSP_REJ_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 1259888252,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1277665754,
+            "original": "~z~Sure. I'll pick you up in the next hour.",
+            "translated": "~z~当然。我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 1312954353,
+            "original": "~z~I wish I could, Kiki, but I'm real busy.",
+            "translated": "~z~我也想啊，Kiki，但我真的很忙。",
+            "desc": ""
+        },
+        {
+            "hash": 1315580164,
+            "original": "GCKK_ACT_CALL_VERYIRATE",
+            "translated": "GCKK_ACT_CALL_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 1321089819,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1330992893,
+            "original": "~z~Cool, I'll drop by.",
+            "translated": "~z~好，我马上来。",
+            "desc": ""
+        },
+        {
+            "hash": 1345215470,
+            "original": "GCKK_ACT_CALL_DATE_NO_RECENT",
+            "translated": "GCKK_ACT_CALL_DATE_NO_RECENT",
+            "desc": ""
+        },
+        {
+            "hash": 1380225836,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1385707266,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1398572467,
+            "original": "~z~I just wanted to hear your voice. That was all. Call me soon, Niko.",
+            "translated": "~z~我只是想听听你的声音，就是这样。有空记得找我，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1411813888,
+            "original": "~z~Okay, Niko... I'll be thinking about you.",
+            "translated": "~z~好吧，Niko...我会想你的。",
+            "desc": ""
+        },
+        {
+            "hash": 1415146714,
+            "original": "GCKK_ACT_PKI_GETCALL_DATE_NO",
+            "translated": "GCKK_ACT_PKI_GETCALL_DATE_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1420564475,
+            "original": "~z~Kiki, I hate to call you but I've got some cops giving me trouble.",
+            "translated": "~z~Kiki，我也不想打扰你，但有条子在找我麻烦。",
+            "desc": ""
+        },
+        {
+            "hash": 1439660322,
+            "original": "GCKK_ACT_PKI_GETCALL_HOSP_NO",
+            "translated": "GCKK_ACT_PKI_GETCALL_HOSP_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1447844837,
+            "original": "~z~Hi Kiki.",
+            "translated": "~z~嗨，Kiki。",
+            "desc": ""
+        },
+        {
+            "hash": 1481717705,
+            "original": "~z~I'm being let out of the hospital, Niko. It'd be really sweet if you picked me up.",
+            "translated": "~z~我现在可以出院了，Niko，如果你能来接我就再好不过了。",
+            "desc": ""
+        },
+        {
+            "hash": 1486229191,
+            "original": "GCKK_ACT_GETCALL_SPEC_AA",
+            "translated": "GCKK_ACT_GETCALL_SPEC_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1500409493,
+            "original": "~z~You really want to make this work, do you? Okay then. Pick me up in the next hour.",
+            "translated": "~z~你是真的想再续前缘吧？那好吧，一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 1531450445,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1549841454,
+            "original": "~z~Sorry, Kiki. I can't right now. I hope you get home safe.",
+            "translated": "~z~抱歉，Kiki，我现在很忙。祝你平安到家。",
+            "desc": ""
+        },
+        {
+            "hash": 1561104579,
+            "original": "~z~That's fine, Niko. Whatever.",
+            "translated": "~z~那好吧，Niko。随你。",
+            "desc": ""
+        },
+        {
+            "hash": 1567769711,
+            "original": "~z~I'd like to take you out, Kiki. I'll stop by your place in the next hour.",
+            "translated": "~z~我很乐意带你出来玩，Kiki。我一个小时内到你那儿去。",
+            "desc": ""
+        },
+        {
+            "hash": 1582822658,
+            "original": "~z~Great, I'll be by in a bit.",
+            "translated": "~z~太好了，我马上来。",
+            "desc": ""
+        },
+        {
+            "hash": 1593679069,
+            "original": "~z~Don't leave me. Don't you ever leave me. Never, never, never.",
+            "translated": "~z~不要离开我。永远不要离开我。永远，永远，永远。",
+            "desc": ""
+        },
+        {
+            "hash": 1611771833,
+            "original": "GCKK_ACT_GETCALL_VERYIRATE",
+            "translated": "GCKK_ACT_GETCALL_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 1612323387,
+            "original": "~z~Go to her, Niko. Go to your fucking whore.",
+            "translated": "~z~去找她啊，Niko。找那贱女人去啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1614228006,
+            "original": "GCKK_ACT_PKI_CALL_LOLIKE",
+            "translated": "GCKK_ACT_PKI_CALL_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 1628093748,
+            "original": "~z~Niko, you never want to see me. Fuck.",
+            "translated": "~z~Niko，你就没想过约我。操。",
+            "desc": ""
+        },
+        {
+            "hash": 1636175660,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1656500329,
+            "original": "~z~This is disgraceful Niko. I'm going to call the D.A. right away.",
+            "translated": "~z~真是太无耻了，Niko，我这就给地方检察官打电话。",
+            "desc": ""
+        },
+        {
+            "hash": 1676342912,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1712372692,
+            "original": "GCKK_ACT_PKI_GETCALL_RANDOM",
+            "translated": "GCKK_ACT_PKI_GETCALL_RANDOM",
+            "desc": ""
+        },
+        {
+            "hash": 1731591608,
+            "original": "~z~Niko here.",
+            "translated": "~z~我是Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1741412026,
+            "original": "~z~Niko, I'm being discharged from the hospital. Can you pick me up?",
+            "translated": "~z~Niko，我马上出院了。能来接我下吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1747431241,
+            "original": "~z~I love you. I need you. I want to feel you.",
+            "translated": "~z~我爱你，离不开你，我想见你。",
+            "desc": ""
+        },
+        {
+            "hash": 1752165343,
+            "original": "~z~Niko, I'm trying to get some sleep. Call me back after 6 okay.",
+            "translated": "~z~Niko，我还要睡觉呢，麻烦6点之后再找我。",
+            "desc": ""
+        },
+        {
+            "hash": 1781078424,
+            "original": "GCKK_ACT_PKI_CALL_GREET",
+            "translated": "GCKK_ACT_PKI_CALL_GREET",
+            "desc": ""
+        },
+        {
+            "hash": 1793429697,
+            "original": "GCKK_ACT_CALL_LIKENO",
+            "translated": "GCKK_ACT_CALL_LIKENO",
+            "desc": ""
+        },
+        {
+            "hash": 1844664342,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1855519602,
+            "original": "~z~I'm sorry for waking you, Kiki. Later on.",
+            "translated": "~z~对不起吵醒你了，Kiki。那我等会再打。",
+            "desc": ""
+        },
+        {
+            "hash": 1885405095,
+            "original": "~z~Sure, I'll call another time.",
+            "translated": "~z~好，我下次再打过来。",
+            "desc": ""
+        },
+        {
+            "hash": 1886326830,
+            "original": "~z~It's Niko.",
+            "translated": "~z~我是Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1886484131,
+            "original": "~z~From what I've heard those cops really mean business, Niko. I can't do anything. Good luck. Call me later, yeah?",
+            "translated": "~z~听说那些条子来真的了，Niko。我无能为力，祝你好运。记得打给我，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1934802255,
+            "original": "~z~You're not cheating on me are you, Niko? You better not be.",
+            "translated": "~z~你该不会在搞外遇吧，Niko？最好不是。",
+            "desc": ""
+        },
+        {
+            "hash": 1995001036,
+            "original": "~z~You're so beautiful, Niko. Both inside and out. You're amazing.",
+            "translated": "~z~你真的好帅，Niko，从里到外都是，你好棒。",
+            "desc": ""
+        },
+        {
+            "hash": 2009646651,
+            "original": "~z~I better not find out you're seeing another woman.",
+            "translated": "~z~最好别被我发现你在跟别的女人约会。",
+            "desc": ""
+        },
+        {
+            "hash": 2027381425,
+            "original": "~z~Sorry, Kiki. Another time.",
+            "translated": "~z~对不起，Kiki，下次再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2048791881,
+            "original": "GCKK_ACT_PKI_CALL_ACCEPTED",
+            "translated": "GCKK_ACT_PKI_CALL_ACCEPTED",
+            "desc": ""
+        },
+        {
+            "hash": 2057008078,
+            "original": "~z~Kiki, sorry about this but I can't see you anymore. To be honest, you kind of freak me out.",
+            "translated": "~z~Kiki，我很抱歉，但我不能再见你了。说实话，你有点吓到我了。",
+            "desc": ""
+        },
+        {
+            "hash": 2081764727,
+            "original": "~z~Can't wait to see you, sweetie.",
+            "translated": "~z~等不及要见你了，亲爱的。",
+            "desc": ""
+        },
+        {
+            "hash": 2086703397,
+            "original": "~z~Dammit, Niko. You don't have to rub my face in it. I hate you for how you make me feel.",
+            "translated": "~z~靠，Niko。你不用来恶心我。我讨厌被你践踏自尊。",
+            "desc": ""
+        },
+        {
+            "hash": 2110167509,
+            "original": "~z~Sorry, Kiki. I didn't see the time. I'll speak to you later.",
+            "translated": "~z~对不起，Kiki，我没看到时间，待会儿再和你说。",
+            "desc": ""
+        },
+        {
+            "hash": 2123723833,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2132092375,
+            "original": "~z~Dammit, Niko. You don't have to rub my face in it. I hate you for how you make me feel.",
+            "translated": "~z~靠，Niko。你不用来恶心我。我讨厌被你践踏自尊。",
+            "desc": ""
+        },
+        {
+            "hash": 2142066205,
+            "original": "~z~You're testing me. This is a test to see if I'll come back to you, isn't it? I'm not going anywhere, Niko.",
+            "translated": "~z~你在考验我，你在考验我会不会回到你身边，是吧？我哪儿都不去，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2155603347,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2187246452,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2208528898,
+            "original": "~z~So, I didn't realize you liked sluts. That's what she is, a slut, right? Do you want me to turn into a slutty whore for you?",
+            "translated": "~z~真没想到你喜欢荡妇啊。她就是个荡妇，对吧？你是想让我为你成为荡妇吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2228876325,
+            "original": "~z~Hey, Kiki. Something's happened. I can't pick you up.",
+            "translated": "~z~嘿，Kiki。我有点事儿，接不了你。",
+            "desc": ""
+        },
+        {
+            "hash": 2262714307,
+            "original": "GCKK_ACT_PKI_CALL_HILIKE",
+            "translated": "GCKK_ACT_PKI_CALL_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2297404601,
+            "original": "~z~Hey Kiki, I'm sorry about this but I have to cancel our date.",
+            "translated": "~z~嘿，Kiki，抱歉我不得不取消我们的约会了。",
+            "desc": ""
+        },
+        {
+            "hash": 2311131684,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2332234020,
+            "original": "~z~I know what you've been doing. I've been watching you.",
+            "translated": "~z~我知道你一直以来都在干什么，我一直盯着你呢。",
+            "desc": ""
+        },
+        {
+            "hash": 2333785294,
+            "original": "GCKK_ACT_GETCALL_REJECT",
+            "translated": "GCKK_ACT_GETCALL_REJECT",
+            "desc": ""
+        },
+        {
+            "hash": 2379984614,
+            "original": "GCKK_ACT_GETCALL_HOSP_ASK",
+            "translated": "GCKK_ACT_GETCALL_HOSP_ASK",
+            "desc": ""
+        },
+        {
+            "hash": 2402097501,
+            "original": "~z~Okay, Kiki. I'll talk to you soon.",
+            "translated": "~z~好吧，Kiki，我待会再打过来。",
+            "desc": ""
+        },
+        {
+            "hash": 2421792586,
+            "original": "~z~Alright Kiki. This is difficult for me but I have to end things between us. Goodbye.",
+            "translated": "~z~好吧，Kiki。这对我来说真的很难，但是我想说我们的关系结束了，保重。",
+            "desc": ""
+        },
+        {
+            "hash": 2425825087,
+            "original": "GCKK_ACT_GETCALL_REJECT_IRATE",
+            "translated": "GCKK_ACT_GETCALL_REJECT_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 2434969728,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2435041025,
+            "original": "~z~I'd really like to see you, Niko. I really would. Pick me up in the next hour.",
+            "translated": "~z~我真的想见你，Niko。真的是真的，一个小时内来接我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2438134956,
+            "original": "~z~I wanted to give myself to you, Niko. I wanted you to have me.",
+            "translated": "~z~亏我还想为你献身，Niko，亏我想让你拥有我。",
+            "desc": ""
+        },
+        {
+            "hash": 2439033233,
+            "original": "~z~Anything you want Kiki. I should be able to get there in the next hour.",
+            "translated": "~z~悉听尊便，Kiki。一小时内我应该能到。",
+            "desc": ""
+        },
+        {
+            "hash": 2446933769,
+            "original": "~z~If I find out you're seeing one of your cheap whores instead of picking me up, you're not going to forget about it. Goodbye.",
+            "translated": "~z~要是被我发现你不来接我是去找哪个贱人了，你会后悔的，再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2452929741,
+            "original": "~z~Why do I like you so much, can someone explain that to me?",
+            "translated": "~z~我怎么会这么喜欢你呢？谁可以解释一下吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2463566024,
+            "original": "GCKK_ACT_GETCALL_SPEC_AD",
+            "translated": "GCKK_ACT_GETCALL_SPEC_AD",
+            "desc": ""
+        },
+        {
+            "hash": 2470200669,
+            "original": "~z~Okay, sure. Another time then.",
+            "translated": "~z~好吧，好吧。那下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2495334751,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2517410802,
+            "original": "~z~Baby, I don't know what you're talking about. I'll call you later, Kiki.",
+            "translated": "~z~宝贝，我听不懂你在说什么。待会儿聊，Kiki。",
+            "desc": ""
+        },
+        {
+            "hash": 2525958776,
+            "original": "GCKK_ACT_GETCALL_SPEC_AB",
+            "translated": "GCKK_ACT_GETCALL_SPEC_AB",
+            "desc": ""
+        },
+        {
+            "hash": 2545829822,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2564261267,
+            "original": "GCKK_ACT_CALL_DATE_NO_GENERAL",
+            "translated": "GCKK_ACT_CALL_DATE_NO_GENERAL",
+            "desc": ""
+        },
+        {
+            "hash": 2611861187,
+            "original": "GCKK_ACT_GETCALL_SPOTTED2",
+            "translated": "GCKK_ACT_GETCALL_SPOTTED2",
+            "desc": ""
+        },
+        {
+            "hash": 2630166477,
+            "original": "GCKK_ACT_PKI_GETCALL_SPOTTED",
+            "translated": "GCKK_ACT_PKI_GETCALL_SPOTTED",
+            "desc": ""
+        },
+        {
+            "hash": 2653240033,
+            "original": "~z~Hey Kiki. I think it would be best for us not to see each other again.",
+            "translated": "~z~嘿，Kiki，我想我们最好不要再见面了。",
+            "desc": ""
+        },
+        {
+            "hash": 2664121393,
+            "original": "GCKK_ACT_CALL_REQ_SPEC_YES",
+            "translated": "GCKK_ACT_CALL_REQ_SPEC_YES",
+            "desc": ""
+        },
+        {
+            "hash": 2675296169,
+            "original": "GCKK_ACT_GETCALL_HOSP_ACCEPT",
+            "translated": "GCKK_ACT_GETCALL_HOSP_ACCEPT",
+            "desc": ""
+        },
+        {
+            "hash": 2682083358,
+            "original": "~z~You just love punishing me, you take pleasure in this.",
+            "translated": "~z~你就是喜欢惩罚我，你还乐在其中。",
+            "desc": ""
+        },
+        {
+            "hash": 2691700020,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2736936212,
+            "original": "~z~Okay, Kiki. I'll come get you in the next hour.",
+            "translated": "~z~好的Kiki，我一小时内就到。",
+            "desc": ""
+        },
+        {
+            "hash": 2766256426,
+            "original": "100100100010",
+            "translated": "100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 2767557879,
+            "original": "GCKK_ACT_CALL_HOSP_CANCEL_LOLIKE",
+            "translated": "GCKK_ACT_CALL_HOSP_CANCEL_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2779435632,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2825670849,
+            "original": "GCKK_ACT_GETCALL_BREAK_UP",
+            "translated": "GCKK_ACT_GETCALL_BREAK_UP",
+            "desc": ""
+        },
+        {
+            "hash": 2831304333,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2847665295,
+            "original": "GCKK_ACT_CALL_HOSP_CANCEL_MEDLIKE",
+            "translated": "GCKK_ACT_CALL_HOSP_CANCEL_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2873022033,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2886830190,
+            "original": "GCKK_ACT_PKI_CALL_SLEEPING",
+            "translated": "GCKK_ACT_PKI_CALL_SLEEPING",
+            "desc": ""
+        },
+        {
+            "hash": 2925630324,
+            "original": "GCKK_ACT_CALL_SLEEP_REPLY",
+            "translated": "GCKK_ACT_CALL_SLEEP_REPLY",
+            "desc": ""
+        },
+        {
+            "hash": 2932529331,
+            "original": "~z~Okay.",
+            "translated": "~z~好。",
+            "desc": ""
+        },
+        {
+            "hash": 2956368066,
+            "original": "~z~See you at your place.",
+            "translated": "~z~马上来找你。",
+            "desc": ""
+        },
+        {
+            "hash": 2969084339,
+            "original": "~z~Niko.",
+            "translated": "~z~Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2980441872,
+            "original": "~z~Fine, go to her. Go to that fucking bitch if you don't want to pick me up. You pig.",
+            "translated": "~z~好啊，去找她吧。不想接我的话就去找那个臭婊子吧。死猪。",
+            "desc": ""
+        },
+        {
+            "hash": 2996754488,
+            "original": "~z~I'm used to being in the driver's seat, you can't fuck me around, okay? Call me later and prove that you're serious about this!",
+            "translated": "~z~我已经习惯自己开车了，你别想欺骗我的感情。等会儿再打给我，证明你是认真的！",
+            "desc": ""
+        },
+        {
+            "hash": 3001592498,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3002820217,
+            "original": "GCKK_ACT_PKI_CALL_REQ_SPEC",
+            "translated": "GCKK_ACT_PKI_CALL_REQ_SPEC",
+            "desc": ""
+        },
+        {
+            "hash": 3044300252,
+            "original": "~z~Don't worry, Niko. I'll get them to stay away from you and I'll try to get their badges. Call me later, okay?",
+            "translated": "~z~别担心，Niko。我会赶走他们的，甚至还能拿掉他们的警徽。有空约我，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3062188933,
+            "original": "~z~You make me sick, Niko. If you'd rather fuck one of your cheap bitches than pick me up, that's fine.",
+            "translated": "~z~我被恶心到了，Niko。既然你宁愿去上哪个贱女人也不来接我，那好。",
+            "desc": ""
+        },
+        {
+            "hash": 3072948524,
+            "original": "~z~Kiki, I don't like to do this but something's come up. I can't go on a date with you.",
+            "translated": "~z~Kiki，我也不想这样，但我突然有点急事，不能约你出来了。",
+            "desc": ""
+        },
+        {
+            "hash": 3077440283,
+            "original": "GCKK_ACT_CALL_BREAK_UP",
+            "translated": "GCKK_ACT_CALL_BREAK_UP",
+            "desc": ""
+        },
+        {
+            "hash": 3090354002,
+            "original": "~z~I don't like being told no, Kiki.",
+            "translated": "~z~我不喜欢被拒绝，Kiki。",
+            "desc": ""
+        },
+        {
+            "hash": 3102482294,
+            "original": "~z~I'll get ready for you, Niko.",
+            "translated": "~z~我这就开始准备，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3145377348,
+            "original": "~z~Hello there Kiki.",
+            "translated": "~z~你好啊，Kiki。",
+            "desc": ""
+        },
+        {
+            "hash": 3145789983,
+            "original": "~z~Fine, fine. Go to her instead.",
+            "translated": "~z~好啊，好啊。找那娘们去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3186130807,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3191571469,
+            "original": "~z~Hey, Niko. I know it's really hard for you here and that you're being persecuted by the authorities.",
+            "translated": "~z~嘿，Niko。我知道你日子不好过，还会被当局骚扰。",
+            "desc": ""
+        },
+        {
+            "hash": 3215159372,
+            "original": "~z~No can do, Kiki. Maybe another time.",
+            "translated": "~z~不行，Kiki，改天再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3249418490,
+            "original": "~z~I cannot wait.",
+            "translated": "~z~我很期待。",
+            "desc": ""
+        },
+        {
+            "hash": 3253819328,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3262497625,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3301668233,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3308979017,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3310714277,
+            "original": "~z~Niko, What are you doing to me? I'm a wreck when you don't call and now suddenly you want me back?",
+            "translated": "~z~Niko，你在搞什么？之前不给我打电话让我崩溃，现在又想起我了？",
+            "desc": ""
+        },
+        {
+            "hash": 3311440970,
+            "original": "~z~Kiki, it would be a pleasure to take you out. I'll be by your place in the next hour.",
+            "translated": "~z~Kiki，能带你出去玩真是太好了，我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 3318192085,
+            "original": "GCKK_ACT_PKI_CALL_DATE",
+            "translated": "GCKK_ACT_PKI_CALL_DATE",
+            "desc": ""
+        },
+        {
+            "hash": 3324261356,
+            "original": "~z~I think I love you. Help me.",
+            "translated": "~z~可是我爱你。救救我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3347105622,
+            "original": "~z~I'll be there in the next hour then.",
+            "translated": "~z~那我一个小时内就来。",
+            "desc": ""
+        },
+        {
+            "hash": 3347273422,
+            "original": "GCKK_ACT_ANSWER_PHONE",
+            "translated": "GCKK_ACT_ANSWER_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 3353905875,
+            "original": "~z~Ummm. We'll talk later. I'll call you.",
+            "translated": "~z~嗯...等下再说吧，我等下打给你。",
+            "desc": ""
+        },
+        {
+            "hash": 3365352449,
+            "original": "GCKK_ACT_GETCALL_SPOTTED1",
+            "translated": "GCKK_ACT_GETCALL_SPOTTED1",
+            "desc": ""
+        },
+        {
+            "hash": 3400515267,
+            "original": "~z~Alright, Niko. Thanks for calling at least.",
+            "translated": "~z~好吧，Niko。至少你先通知我了。",
+            "desc": ""
+        },
+        {
+            "hash": 3419812518,
+            "original": "~z~Maybe call after 6. I'll be dreaming about you...",
+            "translated": "~z~6点以后再找我吧。我会梦到你的...",
+            "desc": ""
+        },
+        {
+            "hash": 3427433678,
+            "original": "GCKK_ACT_GETCALL_SPEC_AC",
+            "translated": "GCKK_ACT_GETCALL_SPEC_AC",
+            "desc": ""
+        },
+        {
+            "hash": 3435425841,
+            "original": "~z~Okay, Niko. Fine.",
+            "translated": "~z~行，Niko，好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3442122255,
+            "original": "GCKK_ACT_PKI_CALL_HOSP_CANCEL",
+            "translated": "GCKK_ACT_PKI_CALL_HOSP_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 3461162032,
+            "original": "~z~If you ever feel like the police are after you for no reason, give me a call.",
+            "translated": "~z~你要是觉得有警察无缘无故就盯上你了，给我打个电话。",
+            "desc": ""
+        },
+        {
+            "hash": 3469815636,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3483740372,
+            "original": "~z~That is exactly what I'd like to do. I'll come by your place in the next hour.",
+            "translated": "~z~你跟我想法一致啊。我一小时内就来你家接你。",
+            "desc": ""
+        },
+        {
+            "hash": 3487380291,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3505458389,
+            "original": "~z~Those cops do not deserve their badges. Let me talk to the D.A. Kiss, kiss, Niko.",
+            "translated": "~z~那些条子不配佩戴警徽。我去跟地方检察官聊聊。爱你，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3511588590,
+            "original": "~z~Have you got time to take a girl out?",
+            "translated": "~z~有空带本姑娘出去玩玩吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3521795601,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3552096370,
+            "original": "~z~Oh, fine Niko. If you'd rather hang out with one of you cheap whores then do it.",
+            "translated": "~z~哦，可以，Niko。你更想约哪个贱女人出去就去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3563284616,
+            "original": "~z~Niko, it's your Kiki.",
+            "translated": "~z~Niko，是你的Kiki。",
+            "desc": ""
+        },
+        {
+            "hash": 3575518185,
+            "original": "~z~You're missing out, Niko. I'll have to have fun by myself.",
+            "translated": "~z~那可真遗憾，Niko。我只能自己享乐了。",
+            "desc": ""
+        },
+        {
+            "hash": 3596685946,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3604677177,
+            "original": "~z~Oh Niko, it's so good to talk to you.",
+            "translated": "~z~啊，Niko，能和你说话真是太开心了。",
+            "desc": ""
+        },
+        {
+            "hash": 3608289502,
+            "original": "~z~I'm watching you, Niko. I'm watching you and your cheap whore. Don't think I'm fucking stupid.",
+            "translated": "~z~我都看见了，Niko。我一直都看着你和你的婊子。别当老娘傻。",
+            "desc": ""
+        },
+        {
+            "hash": 3626034098,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3656536784,
+            "original": "~z~Well, we'll have to do it another time.",
+            "translated": "~z~嗯，那只能改天再说了。",
+            "desc": ""
+        },
+        {
+            "hash": 3677983247,
+            "original": "~z~I'd love it if you were the only thing I had to think about, but I've got to keep my clients out of jail, rain-check?",
+            "translated": "~z~如果我只需要考虑你该有多好，但我必须让委托人远离牢狱之灾。再说吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3680198234,
+            "original": "~z~You just love punishing me, you take pleasure in this.",
+            "translated": "~z~你就是喜欢惩罚我，你还乐在其中。",
+            "desc": ""
+        },
+        {
+            "hash": 3680740557,
+            "original": "GCKK_ACT_GETCALL_ACCEPT",
+            "translated": "GCKK_ACT_GETCALL_ACCEPT",
+            "desc": ""
+        },
+        {
+            "hash": 3686678661,
+            "original": "GCKK_ACT_GETCALL_HOSP_REJ_LOLIKE",
+            "translated": "GCKK_ACT_GETCALL_HOSP_REJ_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3700342963,
+            "original": "~z~I've got a lot of sway with the D.A. and I can probably get them to behave themselves.",
+            "translated": "~z~我在地检那边还是有点影响的，我会尽量让他们规矩点的。",
+            "desc": ""
+        },
+        {
+            "hash": 3756405450,
+            "original": "~z~I don't know if I believe you, call me later if you're serious about this.",
+            "translated": "~z~我现在很难相信你，晚点再打过来，向我证明你是认真的。",
+            "desc": ""
+        },
+        {
+            "hash": 3813499896,
+            "original": "GCKK_ACT_CALL_DATE_YES",
+            "translated": "GCKK_ACT_CALL_DATE_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3827809440,
+            "original": "~z~I've got some free time so you could take me out.",
+            "translated": "~z~我有空啦，你可以约我出来了。",
+            "desc": ""
+        },
+        {
+            "hash": 3848035776,
+            "original": "~z~I'd like to take you out.",
+            "translated": "~z~我想约你出来。",
+            "desc": ""
+        },
+        {
+            "hash": 3862367279,
+            "original": "~z~Oh Niko.",
+            "translated": "~z~噢，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3870554885,
+            "original": "~z~I'll count the seconds, Niko.",
+            "translated": "~z~我会给你计时的，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3909504270,
+            "original": "~z~Sure, Kiki. I'll call you later.",
+            "translated": "~z~好的，Kiki，待会儿打给你。",
+            "desc": ""
+        },
+        {
+            "hash": 3944730945,
+            "original": "~z~Alright. Speak to you soon then, Kiki.",
+            "translated": "~z~好，以后再聊吧，Kiki。",
+            "desc": ""
+        },
+        {
+            "hash": 3961461103,
+            "original": "GCKK_ACT_PKI_GETCALL_HOSP_YES",
+            "translated": "GCKK_ACT_PKI_GETCALL_HOSP_YES",
+            "desc": ""
+        },
+        {
+            "hash": 4004509122,
+            "original": "~z~I think I love you. Help me.",
+            "translated": "~z~可是我爱你。救救我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4042559799,
+            "original": "~z~Kiki.",
+            "translated": "~z~Kiki。",
+            "desc": ""
+        },
+        {
+            "hash": 4050894467,
+            "original": "~z~I've got a court date coming up. I can't see you. Maybe later.",
+            "translated": "~z~我马上就要出庭了。不能见你了。过几天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4063468528,
+            "original": "GCKK_ACT_PKI_GETCALL_DATE_YES",
+            "translated": "GCKK_ACT_PKI_GETCALL_DATE_YES",
+            "desc": ""
+        },
+        {
+            "hash": 4073516335,
+            "original": "~z~Thanks Kiki. The cops do give me a hard time for no reason. I'll talk to you soon.",
+            "translated": "~z~多谢，Kiki。总有条子无缘无故刁难我。有空再聊啊。",
+            "desc": ""
+        },
+        {
+            "hash": 4089520086,
+            "original": "~z~See you soon then.",
+            "translated": "~z~那待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 4098366300,
+            "original": "GCKK_ACT_CALL_LIKEYES",
+            "translated": "GCKK_ACT_CALL_LIKEYES",
+            "desc": ""
+        },
+        {
+            "hash": 4108977662,
+            "original": "~z~So you call me only when you need something? I'm not going to help you, Niko. I hope this makes you learn to treat me right.",
+            "translated": "~z~你把我当工具人是吧？我不会帮你的，Niko。希望能让你学会该如何对我。",
+            "desc": ""
+        },
+        {
+            "hash": 4136440959,
+            "original": "~z~Ahh, Niko. Have you been playing hard to get? I haven't got time for bullshit, if that's your game.",
+            "translated": "~z~啊...Niko。你一直都是欲擒故纵吗？本小姐没那闲工夫陪你。",
+            "desc": ""
+        },
+        {
+            "hash": 4155923571,
+            "original": "GCKK_ACT_CALL_HOSP_CANCEL_HILIKE",
+            "translated": "GCKK_ACT_CALL_HOSP_CANCEL_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 4176545001,
+            "original": "~z~You want me to take you out on a date?",
+            "translated": "~z~你想我带你出去约会吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4177073842,
+            "original": "~z~I'd really like to go on a date with you. Pick me up in the next hour.",
+            "translated": "~z~我很乐意跟你出来约会，一小时内来接我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4181033369,
+            "original": "~z~Do you know how cheap your calling me like this makes me feel? And I can't resist you.",
+            "translated": "~z~你知道这样对我会有多伤自尊吗？但我无法拒绝你。",
+            "desc": ""
+        },
+        {
+            "hash": 4226030078,
+            "original": "GCKK_ACT_PKI_CALL_DATE_CANCEL",
+            "translated": "GCKK_ACT_PKI_CALL_DATE_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 4244449175,
+            "original": "~z~Exciting, see you then.",
+            "translated": "~z~棒极了，待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 4246015009,
+            "original": "GCKK_ACT_GETCALL_RANDOM",
+            "translated": "GCKK_ACT_GETCALL_RANDOM",
+            "desc": ""
+        },
+        {
+            "hash": 4277397206,
+            "original": "GCKK_ACT_CALL_REQ_SPEC_NO_NEG",
+            "translated": "GCKK_ACT_CALL_REQ_SPEC_NO_NEG",
+            "desc": ""
+        },
+        {
+            "hash": 4288028658,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        }
+    ]
+}

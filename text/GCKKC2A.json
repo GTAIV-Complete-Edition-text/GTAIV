@@ -1,0 +1,1072 @@
+{
+    "GCKKC2A": [
+        {
+            "hash": 56612713,
+            "original": "~z~But you have a value system, don't you?",
+            "translated": "~z~但你有自己的价值观，不是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 61065966,
+            "original": "GCKC_COMMITMENT_AI",
+            "translated": "GCKC_COMMITMENT_AI",
+            "desc": ""
+        },
+        {
+            "hash": 65369022,
+            "original": "GCKC_LIBERAL_DC",
+            "translated": "GCKC_LIBERAL_DC",
+            "desc": ""
+        },
+        {
+            "hash": 80145717,
+            "original": "~z~Can I ask you a question?",
+            "translated": "~z~我能问你个问题吗？",
+            "desc": ""
+        },
+        {
+            "hash": 81896361,
+            "original": "~z~Or if not, at least know where they are all the time?",
+            "translated": "~z~就算不能在一起，也要知道他的行踪？",
+            "desc": ""
+        },
+        {
+            "hash": 135304779,
+            "original": "~z~Niko?",
+            "translated": "~z~Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 154372502,
+            "original": "~z~it's just disgusting. Marriage is sacred.",
+            "translated": "~z~这种人很恶心。婚姻是神圣的。",
+            "desc": ""
+        },
+        {
+            "hash": 168372734,
+            "original": "~z~But I thought you had a nice time?",
+            "translated": "~z~原来你不享受之前那些时光吗？",
+            "desc": ""
+        },
+        {
+            "hash": 196391251,
+            "original": "~z~So, I guess things cooled off between you when he made that accusation.",
+            "translated": "~z~我想在他控告你之后，你们的关系就断了吧？",
+            "desc": ""
+        },
+        {
+            "hash": 196909465,
+            "original": "~z~When you have seen what I have seen, you realize that most leaders are after the same thing.",
+            "translated": "~z~如果你经历过我的遭遇，你就会发现大多数领导者都只有一个动机。",
+            "desc": ""
+        },
+        {
+            "hash": 200039803,
+            "original": "GCKC_CHEATERS_CK",
+            "translated": "GCKC_CHEATERS_CK",
+            "desc": ""
+        },
+        {
+            "hash": 208107316,
+            "original": "GCKC_FRENCH_EG",
+            "translated": "GCKC_FRENCH_EG",
+            "desc": ""
+        },
+        {
+            "hash": 265815161,
+            "original": "~z~What?",
+            "translated": "~z~什么？",
+            "desc": ""
+        },
+        {
+            "hash": 267475441,
+            "original": "~z~What did you say?",
+            "translated": "~z~你说什么？",
+            "desc": ""
+        },
+        {
+            "hash": 290750841,
+            "original": "GCKC_SPECIAL_FI",
+            "translated": "GCKC_SPECIAL_FI",
+            "desc": ""
+        },
+        {
+            "hash": 303040455,
+            "original": "~z~Sure.",
+            "translated": "~z~当然。",
+            "desc": ""
+        },
+        {
+            "hash": 313661932,
+            "original": "100010010100010100100100100100100010100100",
+            "translated": "100010010100010100100100100100100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 318155799,
+            "original": "~z~Yes, what is it?",
+            "translated": "~z~我在，怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 333189999,
+            "original": "GCKC_CHEATERS_CI",
+            "translated": "GCKC_CHEATERS_CI",
+            "desc": ""
+        },
+        {
+            "hash": 374341474,
+            "original": "GCKC_CHEATERS_CO",
+            "translated": "GCKC_CHEATERS_CO",
+            "desc": ""
+        },
+        {
+            "hash": 407376205,
+            "original": "GCKC_FRENCH_EE",
+            "translated": "GCKC_FRENCH_EE",
+            "desc": ""
+        },
+        {
+            "hash": 426084097,
+            "original": "~z~Things cooled off alright, I sued him for slander.",
+            "translated": "~z~关系确实断了，我控告了他诽谤。",
+            "desc": ""
+        },
+        {
+            "hash": 427472149,
+            "original": "~z~Do you think about politics much, Niko?",
+            "translated": "~z~你平常关心政治吗，Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 428906578,
+            "original": "~z~What are they, then?",
+            "translated": "~z~不是犯罪是什么？",
+            "desc": ""
+        },
+        {
+            "hash": 430230835,
+            "original": "~z~For someone to want to know where their boyfriend is.",
+            "translated": "~z~我只是想知道男友当时在哪儿而已。",
+            "desc": ""
+        },
+        {
+            "hash": 489163513,
+            "original": "~z~Not really. In my line of work, honesty is not always the best quality.",
+            "translated": "~z~不太诚实。干我这行，诚实不算是最重要的品质。",
+            "desc": ""
+        },
+        {
+            "hash": 498562429,
+            "original": "~z~I hope you work out. I'm pretty heavy.",
+            "translated": "~z~希望你有健身，我还挺重的。",
+            "desc": ""
+        },
+        {
+            "hash": 501063812,
+            "original": "~z~Sometimes I think you should be committed.",
+            "translated": "~z~有时我觉得你应该坚定一些。",
+            "desc": ""
+        },
+        {
+            "hash": 516333789,
+            "original": "GCKC_SPECIAL_FE",
+            "translated": "GCKC_SPECIAL_FE",
+            "desc": ""
+        },
+        {
+            "hash": 527016570,
+            "original": "~z~Where's this relationship going? I mean, seriously?",
+            "translated": "~z~我们间的关系会怎样？请你认真回答。",
+            "desc": ""
+        },
+        {
+            "hash": 538100293,
+            "original": "~z~They're out for themselves, no matter what party they are a member of or what they claim to believe in.",
+            "translated": "~z~全都是为了自己。无论他们属于哪个党派，无论他们信仰什么。",
+            "desc": ""
+        },
+        {
+            "hash": 538400282,
+            "original": "~z~You know, the French have it right. Crimes of passions are not real crimes.",
+            "translated": "~z~知道吗，法国人说得对，激情犯罪不是真正的犯罪。",
+            "desc": ""
+        },
+        {
+            "hash": 546833786,
+            "original": "GCKC_CHEATERS_CJ",
+            "translated": "GCKC_CHEATERS_CJ",
+            "desc": ""
+        },
+        {
+            "hash": 614748018,
+            "original": "~z~Oh Niko.",
+            "translated": "~z~噢，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 667224496,
+            "original": "~z~Sometimes, late at night, I imagine us as two souls meeting on a beach...",
+            "translated": "~z~有时，深夜时分，我会把我们想象成两个在沙滩相遇的灵魂...",
+            "desc": ""
+        },
+        {
+            "hash": 669149614,
+            "original": "~z~I mean I was just checking up on him. That's okay isn't it?",
+            "translated": "~z~我是说，我只是在调查他。这没什么关系吧？",
+            "desc": ""
+        },
+        {
+            "hash": 721199679,
+            "original": "GCKC_STALKER_BH",
+            "translated": "GCKC_STALKER_BH",
+            "desc": ""
+        },
+        {
+            "hash": 733249058,
+            "original": "GCKC_STALKER_BJ",
+            "translated": "GCKC_STALKER_BJ",
+            "desc": ""
+        },
+        {
+            "hash": 733769060,
+            "original": "~z~Okay, I'm sorry.",
+            "translated": "~z~好吧，对不起。",
+            "desc": ""
+        },
+        {
+            "hash": 735001807,
+            "original": "~z~They are an essential part of the human psyche. And I say that as a committed liberal.",
+            "translated": "~z~它是人类心理的重要组成部分，这句话是我作为一个坚定的自由主义者说的。",
+            "desc": ""
+        },
+        {
+            "hash": 738044068,
+            "original": "~z~Are you an honest person?",
+            "translated": "~z~你是个诚实的人吗？",
+            "desc": ""
+        },
+        {
+            "hash": 773734201,
+            "original": "GCKC_FRENCH_EC",
+            "translated": "GCKC_FRENCH_EC",
+            "desc": ""
+        },
+        {
+            "hash": 783205677,
+            "original": "~z~We have a special understanding, haven't we? This is so real.",
+            "translated": "~z~我们之间有特别的理解，不是吗？这感觉很真实。",
+            "desc": ""
+        },
+        {
+            "hash": 805747762,
+            "original": "GCKC_FRENCH_EI",
+            "translated": "GCKC_FRENCH_EI",
+            "desc": ""
+        },
+        {
+            "hash": 829155585,
+            "original": "~z~Yes?",
+            "translated": "~z~咋了？",
+            "desc": ""
+        },
+        {
+            "hash": 847590064,
+            "original": "GCKC_STALKER_BG",
+            "translated": "GCKC_STALKER_BG",
+            "desc": ""
+        },
+        {
+            "hash": 860076149,
+            "original": "GCKC_CHEATERS_CN",
+            "translated": "GCKC_CHEATERS_CN",
+            "desc": ""
+        },
+        {
+            "hash": 871550126,
+            "original": "~z~Thank you.",
+            "translated": "~z~谢谢你。",
+            "desc": ""
+        },
+        {
+            "hash": 873516177,
+            "original": "GCKC_SPECIAL_FF",
+            "translated": "GCKC_SPECIAL_FF",
+            "desc": ""
+        },
+        {
+            "hash": 882451288,
+            "original": "~z~This. Us. You and me.",
+            "translated": "~z~就这，我俩。你和我。",
+            "desc": ""
+        },
+        {
+            "hash": 938462524,
+            "original": "GCKC_FRENCH_EH",
+            "translated": "GCKC_FRENCH_EH",
+            "desc": ""
+        },
+        {
+            "hash": 943157353,
+            "original": "GCKC_LIBERAL_DI",
+            "translated": "GCKC_LIBERAL_DI",
+            "desc": ""
+        },
+        {
+            "hash": 966706150,
+            "original": "~z~Okay, ask away.",
+            "translated": "~z~好的，问吧。",
+            "desc": ""
+        },
+        {
+            "hash": 974509140,
+            "original": "GCKC_COMMITMENT_AP",
+            "translated": "GCKC_COMMITMENT_AP",
+            "desc": ""
+        },
+        {
+            "hash": 998531483,
+            "original": "GCKC_LIBERAL_DB",
+            "translated": "GCKC_LIBERAL_DB",
+            "desc": ""
+        },
+        {
+            "hash": 1037792016,
+            "original": "100010100010100010100010100100100010",
+            "translated": "100010100010100010100010100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 1041260487,
+            "original": "~z~Are you the casual encounter kind of guy, is that it? The use them and lose them guy? Fuck 'em and sling them?",
+            "translated": "~z~你只是想搞一夜情，对不对？对女人用完就扔？提上裤子不认人？",
+            "desc": ""
+        },
+        {
+            "hash": 1087891839,
+            "original": "~z~Sure, Kiki, sure.",
+            "translated": "~z~当然了，Kiki，当然了。",
+            "desc": ""
+        },
+        {
+            "hash": 1100834819,
+            "original": "~z~Nothing, Kiki. Nothing. I admire your passion.",
+            "translated": "~z~没什么，Kiki。没什么。我欣赏你的激情。",
+            "desc": ""
+        },
+        {
+            "hash": 1145798597,
+            "original": "~z~Perseverance is the key. The key to everything.",
+            "translated": "~z~毅力才是关键，是做任何事情的关键。",
+            "desc": ""
+        },
+        {
+            "hash": 1201101680,
+            "original": "GCKC_COMMITMENT_AM",
+            "translated": "GCKC_COMMITMENT_AM",
+            "desc": ""
+        },
+        {
+            "hash": 1213817179,
+            "original": "~z~Let me ask you a question, Niko.",
+            "translated": "~z~我想问你个问题，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1284050356,
+            "original": "~z~So?",
+            "translated": "~z~所以呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1300431049,
+            "original": "GCKC_SPECIAL_FC",
+            "translated": "GCKC_SPECIAL_FC",
+            "desc": ""
+        },
+        {
+            "hash": 1377897253,
+            "original": "GCKC_SPECIAL_FD",
+            "translated": "GCKC_SPECIAL_FD",
+            "desc": ""
+        },
+        {
+            "hash": 1395750748,
+            "original": "GCKC_CHEATERS_CM",
+            "translated": "GCKC_CHEATERS_CM",
+            "desc": ""
+        },
+        {
+            "hash": 1418936081,
+            "original": "~z~You don't make me happy. You're breaking my heart.",
+            "translated": "~z~你没有让我开心。你伤透了我的心。",
+            "desc": ""
+        },
+        {
+            "hash": 1439506492,
+            "original": "~z~What?",
+            "translated": "~z~什么？",
+            "desc": ""
+        },
+        {
+            "hash": 1452965718,
+            "original": "100010100010100010100010100010100010100010100010",
+            "translated": "100010100010100010100010100010100010100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 1461765164,
+            "original": "~z~By not making a proper commitment to me, by not telling me you love me. By not being there for me.",
+            "translated": "~z~因为你没有向我好好承诺，没有告诉我你爱我，没有在我身边陪伴我。",
+            "desc": ""
+        },
+        {
+            "hash": 1485078670,
+            "original": "GCKC_COMMITMENT_AJ",
+            "translated": "GCKC_COMMITMENT_AJ",
+            "desc": ""
+        },
+        {
+            "hash": 1485116592,
+            "original": "~z~I mean, I'm not looking for a commitment. But where is it going?",
+            "translated": "~z~那个，我也不是想直接订婚，但这段感情到底怎么办？",
+            "desc": ""
+        },
+        {
+            "hash": 1495198819,
+            "original": "~z~I think we could have something really special.",
+            "translated": "~z~我觉得我们可以深入发展。",
+            "desc": ""
+        },
+        {
+            "hash": 1503776040,
+            "original": "~z~Is this another one of your clients?",
+            "translated": "~z~这个也是你的委托人吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1507501275,
+            "original": "GCKC_CHEATERS_CF",
+            "translated": "GCKC_CHEATERS_CF",
+            "desc": ""
+        },
+        {
+            "hash": 1545354849,
+            "original": "~z~I don't know.",
+            "translated": "~z~我不知道。",
+            "desc": ""
+        },
+        {
+            "hash": 1553804784,
+            "original": "GCKC_CHEATERS_CA",
+            "translated": "GCKC_CHEATERS_CA",
+            "desc": ""
+        },
+        {
+            "hash": 1564613827,
+            "original": "GCKC_SPECIAL_FH",
+            "translated": "GCKC_SPECIAL_FH",
+            "desc": ""
+        },
+        {
+            "hash": 1576219600,
+            "original": "GCKC_LIBERAL_DF",
+            "translated": "GCKC_LIBERAL_DF",
+            "desc": ""
+        },
+        {
+            "hash": 1650637799,
+            "original": "GCKC_LIBERAL_DA",
+            "translated": "GCKC_LIBERAL_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1663379305,
+            "original": "GCKC_SPECIAL_FG",
+            "translated": "GCKC_SPECIAL_FG",
+            "desc": ""
+        },
+        {
+            "hash": 1699963025,
+            "original": "~z~How?",
+            "translated": "~z~怎么伤的？",
+            "desc": ""
+        },
+        {
+            "hash": 1742648163,
+            "original": "~z~I don't know. I mean, it seems a bit soon to be worrying about that.",
+            "translated": "~z~不知道。我是说，现在担心这个似乎有些早。",
+            "desc": ""
+        },
+        {
+            "hash": 1751267483,
+            "original": "~z~It's like I'm complete. It's like the world makes sense.",
+            "translated": "~z~我感觉我变得完整了，与世界融为一体了。",
+            "desc": ""
+        },
+        {
+            "hash": 1752099522,
+            "original": "~z~This ex of mine, he...",
+            "translated": "~z~我的这个前任，他...",
+            "desc": ""
+        },
+        {
+            "hash": 1755201693,
+            "original": "GCKC_LIBERAL_DM",
+            "translated": "GCKC_LIBERAL_DM",
+            "desc": ""
+        },
+        {
+            "hash": 1783487172,
+            "original": "~z~I like saying your name, Niko. You're amazing. This is just so so nice, isn't it?",
+            "translated": "~z~我喜欢念你的名字，Niko。你很出众。这样实在是太棒了，不是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1810815488,
+            "original": "~z~If we don't hold onto that, then we won't have anything.",
+            "translated": "~z~如果不能坚持这些，我们将一无所有。",
+            "desc": ""
+        },
+        {
+            "hash": 1829024918,
+            "original": "GCKC_STALKER_BC",
+            "translated": "GCKC_STALKER_BC",
+            "desc": ""
+        },
+        {
+            "hash": 1838827829,
+            "original": "GCKC_LIBERAL_DL",
+            "translated": "GCKC_LIBERAL_DL",
+            "desc": ""
+        },
+        {
+            "hash": 1848486624,
+            "original": "GCKC_STALKER_BF",
+            "translated": "GCKC_STALKER_BF",
+            "desc": ""
+        },
+        {
+            "hash": 1852550256,
+            "original": "GCKC_CHEATERS_CL",
+            "translated": "GCKC_CHEATERS_CL",
+            "desc": ""
+        },
+        {
+            "hash": 1856794717,
+            "original": "GCKC_SPECIAL_FK",
+            "translated": "GCKC_SPECIAL_FK",
+            "desc": ""
+        },
+        {
+            "hash": 1868612197,
+            "original": "GCKC_FRENCH_EB",
+            "translated": "GCKC_FRENCH_EB",
+            "desc": ""
+        },
+        {
+            "hash": 1897874311,
+            "original": "GCKC_CHEATERS_CP",
+            "translated": "GCKC_CHEATERS_CP",
+            "desc": ""
+        },
+        {
+            "hash": 1908098555,
+            "original": "GCKC_FRENCH_em",
+            "translated": "GCKC_FRENCH_em",
+            "desc": ""
+        },
+        {
+            "hash": 1969344105,
+            "original": "~z~I don't need a commitment right now, I just need to know it's not impossible. Is it impossible?",
+            "translated": "~z~我没让你现在就跟我订婚，我只是不想听到你否定这种可能。有这种可能吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1997879367,
+            "original": "GCKC_COMMITMENT_AK",
+            "translated": "GCKC_COMMITMENT_AK",
+            "desc": ""
+        },
+        {
+            "hash": 2015227605,
+            "original": "GCKC_LIBERAL_DH",
+            "translated": "GCKC_LIBERAL_DH",
+            "desc": ""
+        },
+        {
+            "hash": 2036394451,
+            "original": "~z~People who jeopardize family with adultery and internet porn and homosexuality and...",
+            "translated": "~z~用通奸、网络色情和同性恋危害家庭的人...",
+            "desc": ""
+        },
+        {
+            "hash": 2051205415,
+            "original": "~z~So he deserves to suffer. All cheaters do.",
+            "translated": "~z~所以说他应受惩罚，所有的骗子都是。",
+            "desc": ""
+        },
+        {
+            "hash": 2053502702,
+            "original": "~z~This nation was built upon a belief in the family unit and the strength of the nuclear family.",
+            "translated": "~z~这个国家的基石是对家庭成员的信任和原生家庭的力量。",
+            "desc": ""
+        },
+        {
+            "hash": 2062253055,
+            "original": "~z~Kiki?",
+            "translated": "~z~Kiki？",
+            "desc": ""
+        },
+        {
+            "hash": 2099664433,
+            "original": "GCKC_STALKER_BB",
+            "translated": "GCKC_STALKER_BB",
+            "desc": ""
+        },
+        {
+            "hash": 2204975359,
+            "original": "~z~I don't know about that... I err...",
+            "translated": "~z~我不是很确定...我...",
+            "desc": ""
+        },
+        {
+            "hash": 2210949942,
+            "original": "~z~No, not really. I just lead an unconventional life.",
+            "translated": "~z~不，不是的。只是我的生活没那么古板。",
+            "desc": ""
+        },
+        {
+            "hash": 2263832899,
+            "original": "GCKC_STALKER_BI",
+            "translated": "GCKC_STALKER_BI",
+            "desc": ""
+        },
+        {
+            "hash": 2384178849,
+            "original": "100010100010100010100010100010100010100010100",
+            "translated": "100010100010100010100010100010100010100010100",
+            "desc": ""
+        },
+        {
+            "hash": 2403494373,
+            "original": "GCKC_COMMITMENT_AN",
+            "translated": "GCKC_COMMITMENT_AN",
+            "desc": ""
+        },
+        {
+            "hash": 2462251454,
+            "original": "GCKC_STALKER_BA",
+            "translated": "GCKC_STALKER_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2470650154,
+            "original": "GCKC_LIBERAL_DK",
+            "translated": "GCKC_LIBERAL_DK",
+            "desc": ""
+        },
+        {
+            "hash": 2666836618,
+            "original": "~z~Well, you better not cheat, because if a man cheats on a woman, he is cheating on life.",
+            "translated": "~z~好吧，你最好不要骗人，因为欺骗女人感情的男人，平时一定在自欺欺人。",
+            "desc": ""
+        },
+        {
+            "hash": 2674520552,
+            "original": "GCKC_COMMITMENT_AC",
+            "translated": "GCKC_COMMITMENT_AC",
+            "desc": ""
+        },
+        {
+            "hash": 2678858493,
+            "original": "~z~I don't know. We have a nice time, usually. When you're not feeling too guilty.",
+            "translated": "~z~我不知道。只要你没感到内疚，一般大家都能高兴。",
+            "desc": ""
+        },
+        {
+            "hash": 2680048391,
+            "original": "100100010100010100100100010100100",
+            "translated": "100100010100010100100100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2681029052,
+            "original": "~z~Yeah, but if you had to choose - liberal or conservative?",
+            "translated": "~z~确实，硬要选的话，你会选自由主义还是保守主义？",
+            "desc": ""
+        },
+        {
+            "hash": 2696010575,
+            "original": "~z~Don't you find that when you're getting close to someone you just want to be with them the whole time?",
+            "translated": "~z~你不觉得当你和某人关系越来越好时，就会想一直和他在一起吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2752938557,
+            "original": "~z~Uh, nothing.",
+            "translated": "~z~啊，没什么。",
+            "desc": ""
+        },
+        {
+            "hash": 2768723956,
+            "original": "~z~Good. I am glad I make you happy.",
+            "translated": "~z~好，能让你开心我很高兴。",
+            "desc": ""
+        },
+        {
+            "hash": 2820490459,
+            "original": "~z~I'll bear that in mind next time I marry you.",
+            "translated": "~z~娶你的时候我会记住这条的。",
+            "desc": ""
+        },
+        {
+            "hash": 2844535660,
+            "original": "GCKC_STALKER_BE",
+            "translated": "GCKC_STALKER_BE",
+            "desc": ""
+        },
+        {
+            "hash": 2911691073,
+            "original": "~z~There's something special going on here. Can't you feel it? When you're inside me, Niko.",
+            "translated": "~z~我的身上有种奇妙的变化，你没感觉到吗？你我结合的时候，Niko，",
+            "desc": ""
+        },
+        {
+            "hash": 2945077537,
+            "original": "GCKC_CHEATERS_CC",
+            "translated": "GCKC_CHEATERS_CC",
+            "desc": ""
+        },
+        {
+            "hash": 2997418807,
+            "original": "~z~I love our time together, I really do.",
+            "translated": "~z~我很享受我们在一起的时光，真的。",
+            "desc": ""
+        },
+        {
+            "hash": 3041481628,
+            "original": "GCKC_SPECIAL_FB",
+            "translated": "GCKC_SPECIAL_FB",
+            "desc": ""
+        },
+        {
+            "hash": 3043942282,
+            "original": "~z~Nothing.",
+            "translated": "~z~没什么。",
+            "desc": ""
+        },
+        {
+            "hash": 3045491960,
+            "original": "~z~No, this was my professor at law school. He had the gall to accuse me of stalking him.",
+            "translated": "~z~不，这个是我法学院的教授。他竟厚颜无耻地指控我跟踪他。",
+            "desc": ""
+        },
+        {
+            "hash": 3096958471,
+            "original": "GCKC_FRENCH_EO",
+            "translated": "GCKC_FRENCH_EO",
+            "desc": ""
+        },
+        {
+            "hash": 3102582895,
+            "original": "GCKC_COMMITMENT_AD",
+            "translated": "GCKC_COMMITMENT_AD",
+            "desc": ""
+        },
+        {
+            "hash": 3147159226,
+            "original": "GCKC_FRENCH_EF",
+            "translated": "GCKC_FRENCH_EF",
+            "desc": ""
+        },
+        {
+            "hash": 3224176261,
+            "original": "~z~Niko.",
+            "translated": "~z~Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3273609050,
+            "original": "GCKC_COMMITMENT_AL",
+            "translated": "GCKC_COMMITMENT_AL",
+            "desc": ""
+        },
+        {
+            "hash": 3274377335,
+            "original": "~z~I guess I'm a liberal. I mean I believe in the welfare state and the green energy movement.",
+            "translated": "~z~我想我是个自由主义者。因为我相信福利国家和绿色能源行动。",
+            "desc": ""
+        },
+        {
+            "hash": 3296021799,
+            "original": "100010100010100010100010100010100010100100100010100010",
+            "translated": "100010100010100010100010100010100010100100100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 3372078147,
+            "original": "GCKC_COMMITMENT_AF",
+            "translated": "GCKC_COMMITMENT_AF",
+            "desc": ""
+        },
+        {
+            "hash": 3500767918,
+            "original": "GCKC_STALKER_BD",
+            "translated": "GCKC_STALKER_BD",
+            "desc": ""
+        },
+        {
+            "hash": 3514115339,
+            "original": "~z~I don't see a difference.",
+            "translated": "~z~我看没什么差别。",
+            "desc": ""
+        },
+        {
+            "hash": 3524924156,
+            "original": "GCKC_CHEATERS_CH",
+            "translated": "GCKC_CHEATERS_CH",
+            "desc": ""
+        },
+        {
+            "hash": 3534587697,
+            "original": "GCKC_FRENCH_ED",
+            "translated": "GCKC_FRENCH_ED",
+            "desc": ""
+        },
+        {
+            "hash": 3557267775,
+            "original": "GCKC_LIBERAL_DD",
+            "translated": "GCKC_LIBERAL_DD",
+            "desc": ""
+        },
+        {
+            "hash": 3593539904,
+            "original": "GCKC_FRENCH_EA",
+            "translated": "GCKC_FRENCH_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3597918875,
+            "original": "GCKC_COMMITMENT_AE",
+            "translated": "GCKC_COMMITMENT_AE",
+            "desc": ""
+        },
+        {
+            "hash": 3610053980,
+            "original": "GCKC_COMMITMENT_AO",
+            "translated": "GCKC_COMMITMENT_AO",
+            "desc": ""
+        },
+        {
+            "hash": 3631554746,
+            "original": "GCKC_CHEATERS_CE",
+            "translated": "GCKC_CHEATERS_CE",
+            "desc": ""
+        },
+        {
+            "hash": 3639902911,
+            "original": "~z~What does that mean?",
+            "translated": "~z~这是什么意思？",
+            "desc": ""
+        },
+        {
+            "hash": 3655113200,
+            "original": "GCKC_FRENCH_EN",
+            "translated": "GCKC_FRENCH_EN",
+            "desc": ""
+        },
+        {
+            "hash": 3662427359,
+            "original": "GCKC_STALKER_BK",
+            "translated": "GCKC_STALKER_BK",
+            "desc": ""
+        },
+        {
+            "hash": 3753719466,
+            "original": "~z~People get married and it doesn't always work out.",
+            "translated": "~z~就算是夫妻，也未必幸福美满。",
+            "desc": ""
+        },
+        {
+            "hash": 3786029697,
+            "original": "GCKC_FRENCH_EK",
+            "translated": "GCKC_FRENCH_EK",
+            "desc": ""
+        },
+        {
+            "hash": 3803882367,
+            "original": "GCKC_COMMITMENT_AR",
+            "translated": "GCKC_COMMITMENT_AR",
+            "desc": ""
+        },
+        {
+            "hash": 3854598096,
+            "original": "GCKC_COMMITMENT_AB",
+            "translated": "GCKC_COMMITMENT_AB",
+            "desc": ""
+        },
+        {
+            "hash": 3856670699,
+            "original": "~z~That made him think twice about taking advantage of his students and jumping to ridiculous conclusions.",
+            "translated": "~z~好让他不敢轻易占学生便宜，草率闹出笑话。",
+            "desc": ""
+        },
+        {
+            "hash": 3862611261,
+            "original": "GCKC_LIBERAL_DG",
+            "translated": "GCKC_LIBERAL_DG",
+            "desc": ""
+        },
+        {
+            "hash": 3872529998,
+            "original": "~z~Yes, but are you a cheater?",
+            "translated": "~z~是的，但你是个骗子吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3924668621,
+            "original": "GCKC_COMMITMENT_AQ",
+            "translated": "GCKC_COMMITMENT_AQ",
+            "desc": ""
+        },
+        {
+            "hash": 3942486026,
+            "original": "~z~and when times are tough, I carry you on my shoulders.",
+            "translated": "~z~每当你不如意时，我都会背上你前行。",
+            "desc": ""
+        },
+        {
+            "hash": 3950328529,
+            "original": "GCKC_FRENCH_EL",
+            "translated": "GCKC_FRENCH_EL",
+            "desc": ""
+        },
+        {
+            "hash": 3985101375,
+            "original": "~z~There's always a way to make it work. Always.",
+            "translated": "~z~总有办法让婚姻幸福的。",
+            "desc": ""
+        },
+        {
+            "hash": 3992952966,
+            "original": "GCKC_COMMITMENT_AH",
+            "translated": "GCKC_COMMITMENT_AH",
+            "desc": ""
+        },
+        {
+            "hash": 4012265892,
+            "original": "GCKC_CHEATERS_CD",
+            "translated": "GCKC_CHEATERS_CD",
+            "desc": ""
+        },
+        {
+            "hash": 4026910708,
+            "original": "GCKC_SPECIAL_FA",
+            "translated": "GCKC_SPECIAL_FA",
+            "desc": ""
+        },
+        {
+            "hash": 4034474396,
+            "original": "~z~I don't know. These days, I think I'm just a whore, running around working for the highest bidder.",
+            "translated": "~z~我不知道。我觉得自己最近像个妓女，四处奔波，价高者得。",
+            "desc": ""
+        },
+        {
+            "hash": 4036991846,
+            "original": "~z~Is what impossible?",
+            "translated": "~z~有什么可能？",
+            "desc": ""
+        },
+        {
+            "hash": 4052414452,
+            "original": "GCKC_SPECIAL_FL",
+            "translated": "GCKC_SPECIAL_FL",
+            "desc": ""
+        },
+        {
+            "hash": 4066551348,
+            "original": "GCKC_COMMITMENT_AG",
+            "translated": "GCKC_COMMITMENT_AG",
+            "desc": ""
+        },
+        {
+            "hash": 4094942772,
+            "original": "GCKC_FRENCH_EJ",
+            "translated": "GCKC_FRENCH_EJ",
+            "desc": ""
+        },
+        {
+            "hash": 4122534137,
+            "original": "GCKC_CHEATERS_CB",
+            "translated": "GCKC_CHEATERS_CB",
+            "desc": ""
+        },
+        {
+            "hash": 4139255638,
+            "original": "~z~Ummm, not really.",
+            "translated": "~z~呃...不敢苟同。",
+            "desc": ""
+        },
+        {
+            "hash": 4141477844,
+            "original": "~z~But it's not perfect, you know. I'm conservative when it comes to family.",
+            "translated": "~z~但自由主义也不完美，懂吧。我在家庭观念上比较保守。",
+            "desc": ""
+        },
+        {
+            "hash": 4147560259,
+            "original": "~z~I try not to lie to women.",
+            "translated": "~z~我尽量不骗女人。",
+            "desc": ""
+        },
+        {
+            "hash": 4161825123,
+            "original": "GCKC_LIBERAL_DJ",
+            "translated": "GCKC_LIBERAL_DJ",
+            "desc": ""
+        },
+        {
+            "hash": 4194011619,
+            "original": "~z~Nice? I'm talking about love, about passion, about the important stuff, not nice!",
+            "translated": "~z~享受？我在说的是爱情，是激情，是人生大事，严肃点！",
+            "desc": ""
+        },
+        {
+            "hash": 4197673226,
+            "original": "~z~You're not in court now, Kiki. Give me a break.",
+            "translated": "~z~现在又不是庭审，Kiki。饶了我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4214205629,
+            "original": "GCKC_SPECIAL_FJ",
+            "translated": "GCKC_SPECIAL_FJ",
+            "desc": ""
+        },
+        {
+            "hash": 4235088928,
+            "original": "GCKC_CHEATERS_CG",
+            "translated": "GCKC_CHEATERS_CG",
+            "desc": ""
+        },
+        {
+            "hash": 4237126450,
+            "original": "GCKC_LIBERAL_DE",
+            "translated": "GCKC_LIBERAL_DE",
+            "desc": ""
+        },
+        {
+            "hash": 4260327757,
+            "original": "GCKC_LIBERAL_DN",
+            "translated": "GCKC_LIBERAL_DN",
+            "desc": ""
+        },
+        {
+            "hash": 4282890434,
+            "original": "GCKC_COMMITMENT_AA",
+            "translated": "GCKC_COMMITMENT_AA",
+            "desc": ""
+        }
+    ]
+}

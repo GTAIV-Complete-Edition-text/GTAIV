@@ -1,0 +1,142 @@
+{
+    "FLW_PED": [
+        {
+            "hash": 921095563,
+            "original": "You've spooked the dealer.",
+            "translated": "你惊动了毒贩。",
+            "desc": ""
+        },
+        {
+            "hash": 1005640983,
+            "original": "The ~r~dealer~s~ is getting away. Chase him to his supplier.",
+            "translated": "~r~毒贩~s~正在逃跑，跟着他找到供货商。",
+            "desc": ""
+        },
+        {
+            "hash": 1153198390,
+            "original": "Go to find the dealer in ~y~South Bohan.",
+            "translated": "去~y~South Bohan~s~找那个毒贩。",
+            "desc": ""
+        },
+        {
+            "hash": 1235621663,
+            "original": "~r~The dealer was injured.~s~",
+            "translated": "~r~毒贩受伤了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1265588059,
+            "original": "~r~The dealer is dead.~s~",
+            "translated": "~r~毒贩死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1277655872,
+            "original": "Follow the ~r~dealer~s~ to his supplier, do not attack him.",
+            "translated": "跟踪~r~毒贩~s~找到供货商，不要攻击他。",
+            "desc": ""
+        },
+        {
+            "hash": 1411081019,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1438268455,
+            "original": "~r~The dealer got away.~s~",
+            "translated": "~r~毒贩逃走了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1642670563,
+            "original": "Take down the ~r~dealer~s~ and his ~r~suppliers.",
+            "translated": "干掉~r~毒贩~s~和他的~r~供货商。",
+            "desc": ""
+        },
+        {
+            "hash": 1677405127,
+            "original": "You spooked the ~r~dealer.~s~ Keep following him to the supplier.",
+            "translated": "你惊动了~r~毒贩，~s~继续跟着他找到供货商。",
+            "desc": ""
+        },
+        {
+            "hash": 1688776594,
+            "original": "You wounded the ~r~dealer,~s~ keep following him to the supplier.",
+            "translated": "你伤害了~r~毒贩，~s~继续跟着他找到供货商。",
+            "desc": ""
+        },
+        {
+            "hash": 1816016601,
+            "original": "Don't get too close to the dealer or he'll get suspicious.",
+            "translated": "不要靠毒贩太近，不然他会起疑的。",
+            "desc": ""
+        },
+        {
+            "hash": 1873461010,
+            "original": "You killed the dealer. You will not be able to find the supplier now.",
+            "translated": "你把毒贩杀了，现在你找不到供货商了。",
+            "desc": ""
+        },
+        {
+            "hash": 1953182707,
+            "original": "The dealer and suppliers are locked inside the apartment.",
+            "translated": "毒贩和供货商都在这间锁门的公寓中。",
+            "desc": ""
+        },
+        {
+            "hash": 2590404883,
+            "original": "Damage the ~g~lock~s~ to break open the door.",
+            "translated": "破坏~g~门锁~s~打开房门。",
+            "desc": ""
+        },
+        {
+            "hash": 2735057155,
+            "original": "Follow the ~r~dealer~s~ to his supplier on foot. Stay behind him and try not to be seen.",
+            "translated": "步行跟踪~r~毒贩~s~找到供货商。跟在他后面，别被他发现。",
+            "desc": ""
+        },
+        {
+            "hash": 2829028741,
+            "original": "Shoot out the door lock to gain access to the room.",
+            "translated": "射烂门锁进入房间。",
+            "desc": ""
+        },
+        {
+            "hash": 3214303780,
+            "original": "You're too far away, keep the ~r~dealer~s~ within your sight.",
+            "translated": "你离得太远了，确保~r~毒贩~s~在你的视线范围内。",
+            "desc": ""
+        },
+        {
+            "hash": 3309924522,
+            "original": "Go meet ~y~Little Jacob.",
+            "translated": "去找~y~Little Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 3551790535,
+            "original": "The ~r~dealer~s~ is in the apartment block. Follow, but don't attack him.",
+            "translated": "~r~毒贩~s~在公寓楼中。跟着他，但不要攻击他。",
+            "desc": ""
+        },
+        {
+            "hash": 3600847480,
+            "original": "Press ~INPUT_JUMP~ to jump onto the fence, then press ~INPUT_JUMP~ to climb over.",
+            "translated": "按~INPUT_JUMP~跳上围栏，然后按~INPUT_JUMP~翻越。",
+            "desc": ""
+        },
+        {
+            "hash": 3640005859,
+            "original": "You're too close to the ~r~dealer,~s~ keep your distance.",
+            "translated": "你离~r~毒贩~s~太近了，保持一定距离。",
+            "desc": ""
+        },
+        {
+            "hash": 3960158989,
+            "original": "The ~r~dealer~s~ spotted you, keep following him to the supplier.",
+            "translated": "~r~毒贩~s~发现你了，继续跟着他找到供货商。",
+            "desc": ""
+        }
+    ]
+}

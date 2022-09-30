@@ -1,0 +1,982 @@
+{
+    "FM5AUD": [
+        {
+            "hash": 30791012,
+            "original": "~z~You've got a big problem then.",
+            "translated": "~z~那你有大麻烦了。",
+            "desc": ""
+        },
+        {
+            "hash": 114808080,
+            "original": "~z~Now, he's going to ruin my life!",
+            "translated": "~z~现在他要毁了我的一生！",
+            "desc": ""
+        },
+        {
+            "hash": 132950585,
+            "original": "~z~Frankie, what's this about? I've gotta say. I'm nervous about this little meeting.",
+            "translated": "~z~Frankie，这是怎么了？不得不说，这次会面让我很慌。",
+            "desc": ""
+        },
+        {
+            "hash": 169740435,
+            "original": "~z~This is the last bit of juice I got on this thing.",
+            "translated": "~z~这是我手机的最后一格电了。",
+            "desc": ""
+        },
+        {
+            "hash": 198453380,
+            "original": "~z~Frankie arranged to meet me at this park on Bismark, I think he's gonna try to kill me.",
+            "translated": "~z~Frankie约我在Bismarck大道的公园见面，我觉得他是想杀我。",
+            "desc": ""
+        },
+        {
+            "hash": 202566110,
+            "original": "~z~I am trying to become the Commissioner of Police.",
+            "translated": "~z~我现在在朝警察局长的方向努力。",
+            "desc": ""
+        },
+        {
+            "hash": 210308585,
+            "original": "~z~Shit, you did it. A bolt of lightning from outta the fucking blue.",
+            "translated": "~z~靠，你做到了，一道霹雳从天而降。",
+            "desc": ""
+        },
+        {
+            "hash": 275412293,
+            "original": "~z~Why didn't you tell me Derrick was back?",
+            "translated": "~z~你怎么不告诉我Derrick回来了？",
+            "desc": ""
+        },
+        {
+            "hash": 280096700,
+            "original": "~z~Deal with him.",
+            "translated": "~z~解决他。",
+            "desc": ""
+        },
+        {
+            "hash": 313995615,
+            "original": "290",
+            "translated": "290",
+            "desc": ""
+        },
+        {
+            "hash": 328701988,
+            "original": "~z~Derrick... shit. He's my brother...",
+            "translated": "~z~Derrick...靠，他是我哥哥...",
+            "desc": ""
+        },
+        {
+            "hash": 360773970,
+            "original": "~z~-Kill your brother?~n~-He's already dead.",
+            "translated": "~z~－杀了你哥哥？~n~－他已经死了。",
+            "desc": ""
+        },
+        {
+            "hash": 385061015,
+            "original": "~z~I did what you wanted me to do, I killed your brother.",
+            "translated": "~z~我已经照你的指示执行了，我杀了你哥。",
+            "desc": ""
+        },
+        {
+            "hash": 404768301,
+            "original": "~z~May God forgive us for what we've done.",
+            "translated": "~z~愿主原谅我们的所作所为。",
+            "desc": ""
+        },
+        {
+            "hash": 423044933,
+            "original": "~z~I really got the feeling it was him or me back there.",
+            "translated": "~z~我真的有感觉，死在那儿的不是他就是我。",
+            "desc": ""
+        },
+        {
+            "hash": 431061136,
+            "original": "FM5_BC",
+            "translated": "FM5_BC",
+            "desc": ""
+        },
+        {
+            "hash": 435506738,
+            "original": "FM5_EB",
+            "translated": "FM5_EB",
+            "desc": ""
+        },
+        {
+            "hash": 451891783,
+            "original": "010100100010100100100100010",
+            "translated": "010100100010100100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 453249664,
+            "original": "~z~-No?~n~-No. He's sick.",
+            "translated": "~z~－不是吗？~n~－不，他很恶心。",
+            "desc": ""
+        },
+        {
+            "hash": 470877770,
+            "original": "FM5_CC",
+            "translated": "FM5_CC",
+            "desc": ""
+        },
+        {
+            "hash": 486932860,
+            "original": "~z~He's a pathetic wretch.",
+            "translated": "~z~他就是个可悲的恶棍。",
+            "desc": ""
+        },
+        {
+            "hash": 506236437,
+            "original": "~z~Well, tell him to be quiet.",
+            "translated": "~z~那你让他闭嘴啊。",
+            "desc": ""
+        },
+        {
+            "hash": 516256272,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 530667306,
+            "original": "FM5_NE",
+            "translated": "FM5_NE",
+            "desc": ""
+        },
+        {
+            "hash": 534543890,
+            "original": "FM5_BI",
+            "translated": "FM5_BI",
+            "desc": ""
+        },
+        {
+            "hash": 572305254,
+            "original": "FM5_AF",
+            "translated": "FM5_AF",
+            "desc": ""
+        },
+        {
+            "hash": 587159262,
+            "original": "~z~I think I can make the meeting.",
+            "translated": "~z~我想我能赶上你们会面。",
+            "desc": ""
+        },
+        {
+            "hash": 627062529,
+            "original": "FM5_AC",
+            "translated": "FM5_AC",
+            "desc": ""
+        },
+        {
+            "hash": 662509154,
+            "original": "~z~Whatever he stood for, he betrayed.",
+            "translated": "~z~不管他站在哪边，最后都会背叛。",
+            "desc": ""
+        },
+        {
+            "hash": 664735683,
+            "original": "FM5_BB",
+            "translated": "FM5_BB",
+            "desc": ""
+        },
+        {
+            "hash": 682402581,
+            "original": "~z~A cop with a famous, snitching traitor for a brother.",
+            "translated": "~z~一个哥哥是出了名的告密叛徒的警察。",
+            "desc": ""
+        },
+        {
+            "hash": 792241633,
+            "original": "~z~Okay, I got it, so?",
+            "translated": "~z~行，我明白了，所以呢？",
+            "desc": ""
+        },
+        {
+            "hash": 797974149,
+            "original": "FM5_BH",
+            "translated": "FM5_BH",
+            "desc": ""
+        },
+        {
+            "hash": 825881427,
+            "original": "~z~You gotta take him out before he makes a move.",
+            "translated": "~z~你得在他下手前干掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 915801995,
+            "original": "~z~Shit, when I heard you was back I nearly shat myself.",
+            "translated": "~z~我靠，听说你回来了的时候我都要吓出屎了。",
+            "desc": ""
+        },
+        {
+            "hash": 975992624,
+            "original": "FM5_NA",
+            "translated": "FM5_NA",
+            "desc": ""
+        },
+        {
+            "hash": 989546418,
+            "original": "~z~I'll be a laughing stock.",
+            "translated": "~z~我会成为笑话的。",
+            "desc": ""
+        },
+        {
+            "hash": 1064945328,
+            "original": "~z~Alright then, call it a bonus. Make this happen.",
+            "translated": "~z~行吧，就当是奖金吧。请你做到。",
+            "desc": ""
+        },
+        {
+            "hash": 1074481030,
+            "original": "~z~He only left here in the first place because he was caught stealing...",
+            "translated": "~z~一开始他离开这儿就是因为他偷人东西...",
+            "desc": ""
+        },
+        {
+            "hash": 1118129330,
+            "original": "~z~Making a fool of himself. Betraying people. Going into hiding.",
+            "translated": "~z~自己出尽洋相，背叛别人，跑路躲起来。",
+            "desc": ""
+        },
+        {
+            "hash": 1180487467,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 1194710547,
+            "original": "FM5_AB",
+            "translated": "FM5_AB",
+            "desc": ""
+        },
+        {
+            "hash": 1220113442,
+            "original": "~z~You don't think I know that. Christ, it happened right in front of me.",
+            "translated": "~z~你当我不知道吗。天哪，完全就是在我面前发生的。",
+            "desc": ""
+        },
+        {
+            "hash": 1246579170,
+            "original": "120210120120120",
+            "translated": "120210120120120",
+            "desc": ""
+        },
+        {
+            "hash": 1289678389,
+            "original": "~z~Always was.",
+            "translated": "~z~向来恶心。",
+            "desc": ""
+        },
+        {
+            "hash": 1290494270,
+            "original": "~z~He's an idiot... and a coward.",
+            "translated": "~z~他就是个白痴...加怂货。",
+            "desc": ""
+        },
+        {
+            "hash": 1292167569,
+            "original": "~z~Oh - don't push me.",
+            "translated": "~z~噢，别逼我。",
+            "desc": ""
+        },
+        {
+            "hash": 1296065085,
+            "original": "~z~That might help.",
+            "translated": "~z~说不定可以。",
+            "desc": ""
+        },
+        {
+            "hash": 1305488511,
+            "original": "~z~Cops can kill who they like.",
+            "translated": "~z~条子想杀谁杀谁。",
+            "desc": ""
+        },
+        {
+            "hash": 1318882865,
+            "original": "~z~I'm a police officer. Come on, clear the area, clear the area.",
+            "translated": "~z~我是警察，好了，撤出本区域，撤出本区域。",
+            "desc": ""
+        },
+        {
+            "hash": 1324318862,
+            "original": "~z~Well, it's done. You and me are over.",
+            "translated": "~z~那好，事情结了。你我两清。",
+            "desc": ""
+        },
+        {
+            "hash": 1417119831,
+            "original": "~z~Get in position and put Derrick out of his misery. Shit, I better get ready to act surprised.",
+            "translated": "~z~就位以后结束Derrick的悲剧人生。靠，我最好开始准备故作惊讶了。",
+            "desc": ""
+        },
+        {
+            "hash": 1506048760,
+            "original": "~z~from the Mafia!",
+            "translated": "~z~偷到黑手党头上了！",
+            "desc": ""
+        },
+        {
+            "hash": 1511444108,
+            "original": "~z~Derrick, my brother.",
+            "translated": "~z~Derrick，好哥哥。",
+            "desc": ""
+        },
+        {
+            "hash": 1530499513,
+            "original": "~z~Maybe you'll get lucky and he'll die of an overdose.",
+            "translated": "~z~要是你走运的话说不定他就死于毒品过量了。",
+            "desc": ""
+        },
+        {
+            "hash": 1543882986,
+            "original": "~z~Do you know the place? Are you close? Can you get there in time?",
+            "translated": "~z~你知道那地方吗？在附近吗？你能不能快点过来？",
+            "desc": ""
+        },
+        {
+            "hash": 1574965303,
+            "original": "~z~Why didn't you tell me you was hanging around with my brother?",
+            "translated": "~z~你怎么不告诉我你在跟我哥哥混？",
+            "desc": ""
+        },
+        {
+            "hash": 1658165618,
+            "original": "FM5_CB",
+            "translated": "FM5_CB",
+            "desc": ""
+        },
+        {
+            "hash": 1658839070,
+            "original": "~z~Sit down. Why didn't you call me? You coulda slept on my couch.",
+            "translated": "~z~坐吧，你怎么不给我打电话？你可以睡我沙发。",
+            "desc": ""
+        },
+        {
+            "hash": 1665472017,
+            "original": "~z~Do it, or I will put you away.",
+            "translated": "~z~下手，不然我灭了你。",
+            "desc": ""
+        },
+        {
+            "hash": 1677931925,
+            "original": "FM5_DC",
+            "translated": "FM5_DC",
+            "desc": ""
+        },
+        {
+            "hash": 1692503633,
+            "original": "100100010100",
+            "translated": "100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 1708272396,
+            "original": "~z~I want you to take the window cleaning elevator on one of the buildings round back of the courtyard.",
+            "translated": "~z~你要乘庭院边上一栋楼的擦窗机到楼顶。",
+            "desc": ""
+        },
+        {
+            "hash": 1714532114,
+            "original": "~z~I could feel you looking at me through that scope.",
+            "translated": "~z~我都能感觉到你在用瞄准镜看我。",
+            "desc": ""
+        },
+        {
+            "hash": 1723089474,
+            "original": "~z~You don't know the half.",
+            "translated": "~z~你没想到刚才情况有多险恶。",
+            "desc": ""
+        },
+        {
+            "hash": 1753184887,
+            "original": "~z~It's not the money. I just don't feel right.",
+            "translated": "~z~不是钱的问题，我就是觉得不太好。",
+            "desc": ""
+        },
+        {
+            "hash": 1776141273,
+            "original": "FM5_GB",
+            "translated": "FM5_GB",
+            "desc": ""
+        },
+        {
+            "hash": 1795688057,
+            "original": "FM5_GI",
+            "translated": "FM5_GI",
+            "desc": ""
+        },
+        {
+            "hash": 1799506109,
+            "original": "FM5_FA",
+            "translated": "FM5_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1810327725,
+            "original": "~z~and who's gonna be six feet under, you know?",
+            "translated": "~z~哪个会在六尺黄土下，知道吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1843332410,
+            "original": "~z~Don't you forget about that.",
+            "translated": "~z~你可别给忘了。",
+            "desc": ""
+        },
+        {
+            "hash": 1877732629,
+            "original": "FM5_PA",
+            "translated": "FM5_PA",
+            "desc": ""
+        },
+        {
+            "hash": 1895973228,
+            "original": "~z~I'll hit who I'm aiming at, don't worry.",
+            "translated": "~z~我瞄谁打谁，不用担心。",
+            "desc": ""
+        },
+        {
+            "hash": 1900777304,
+            "original": "FM5_GH",
+            "translated": "FM5_GH",
+            "desc": ""
+        },
+        {
+            "hash": 1926549533,
+            "original": "FM5_BJ",
+            "translated": "FM5_BJ",
+            "desc": ""
+        },
+        {
+            "hash": 1947286681,
+            "original": "~z~Jesus. You know Derrick's not well?",
+            "translated": "~z~天哪，你知道Derrick不是什么好人吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2042287648,
+            "original": "~z~And you're going to make shit go away. That cool?",
+            "translated": "~z~然后你帮我把事情都摆平了，没问题吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2045830716,
+            "original": "FM5_AJ",
+            "translated": "FM5_AJ",
+            "desc": ""
+        },
+        {
+            "hash": 2056251285,
+            "original": "FM5_GD",
+            "translated": "FM5_GD",
+            "desc": ""
+        },
+        {
+            "hash": 2083365335,
+            "original": "~z~Then start feeling right, I got you by the balls here.",
+            "translated": "~z~那就开始认为它好，你的把柄还在我这儿。",
+            "desc": ""
+        },
+        {
+            "hash": 2087869331,
+            "original": "~z~You're a crook hiding behind his badge and a reputation.",
+            "translated": "~z~你就是个藏在警章和名誉下的骗子。",
+            "desc": ""
+        },
+        {
+            "hash": 2109772395,
+            "original": "FM5_NF",
+            "translated": "FM5_NF",
+            "desc": ""
+        },
+        {
+            "hash": 2120380446,
+            "original": "FM5_GC",
+            "translated": "FM5_GC",
+            "desc": ""
+        },
+        {
+            "hash": 2126074345,
+            "original": "~z~He's always off getting involved in someone else's fight.",
+            "translated": "~z~他每次都会被卷入别人的斗争。",
+            "desc": ""
+        },
+        {
+            "hash": 2136173846,
+            "original": "FM5_AI",
+            "translated": "FM5_AI",
+            "desc": ""
+        },
+        {
+            "hash": 2138331694,
+            "original": "~z~What the fuck? I thought you could shoot.",
+            "translated": "~z~你搞毛？开枪都不会吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2178901613,
+            "original": "~z~At least Gerry and Packie are honest about what they do.",
+            "translated": "~z~Gerry和Packie至少还会承认自己做了什么。",
+            "desc": ""
+        },
+        {
+            "hash": 2201347539,
+            "original": "~z~Don't miss, Niko. You might hit me.",
+            "translated": "~z~别打偏了，Niko。可能会打到我的。",
+            "desc": ""
+        },
+        {
+            "hash": 2235191129,
+            "original": "FM5_LA",
+            "translated": "FM5_LA",
+            "desc": ""
+        },
+        {
+            "hash": 2247024836,
+            "original": "FM5_CA",
+            "translated": "FM5_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2255259923,
+            "original": "FM5_NC",
+            "translated": "FM5_NC",
+            "desc": ""
+        },
+        {
+            "hash": 2265931689,
+            "original": "~z~This phone's running out a batteries, shit. Look after me, Niko.",
+            "translated": "~z~手机要没电了，操。帮我，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2282320573,
+            "original": "~z~You know what, Frankie boy - I'm going to use that. I ever feel the heat on me, I'll call you.",
+            "translated": "~z~你猜怎么着，Frankie仔，我会利用这件事。一旦我被警察盯上了，我就打给你。",
+            "desc": ""
+        },
+        {
+            "hash": 2288263586,
+            "original": "~z~This is Cain and Abel stuff, I'm telling you.",
+            "translated": "~z~这就是该隐和亚伯*那回事，我跟你讲。~n~(圣经中该隐杀了兄弟亚伯)",
+            "desc": ""
+        },
+        {
+            "hash": 2411957809,
+            "original": "FM5_DB",
+            "translated": "FM5_DB",
+            "desc": ""
+        },
+        {
+            "hash": 2418307587,
+            "original": "~z~About his family, about me!",
+            "translated": "~z~曝光他的家庭，曝光我！",
+            "desc": ""
+        },
+        {
+            "hash": 2420929630,
+            "original": "~z~What's going to make you sure? You want me to give you a raise?",
+            "translated": "~z~怎么才能下定决心？你是要我再多给点吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2422601026,
+            "original": "~z~I assumed if you cared, you'd have found out.",
+            "translated": "~z~我只是觉得你要是在意的话，自己就会知道。",
+            "desc": ""
+        },
+        {
+            "hash": 2431302767,
+            "original": "~z~I'm doing real well for myself, real well. I'm sorry about how life turned out for you.",
+            "translated": "~z~我现在过得很好，真的很好。很遗憾你的生活不尽人意。",
+            "desc": ""
+        },
+        {
+            "hash": 2443297049,
+            "original": "FM5_EC",
+            "translated": "FM5_EC",
+            "desc": ""
+        },
+        {
+            "hash": 2444164771,
+            "original": "~z~The amount of smack my brother's gonna have to do to calm himself down after that.",
+            "translated": "~z~回去以后我哥他得打上不少麻药。",
+            "desc": ""
+        },
+        {
+            "hash": 2459959449,
+            "original": "~z~You're a real screw up, Niko.",
+            "translated": "~z~你丫真是废柴，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2482571932,
+            "original": "~z~Sounds like I don't have a choice.",
+            "translated": "~z~听上去我也没得选。",
+            "desc": ""
+        },
+        {
+            "hash": 2533719145,
+            "original": "~z~Stop.",
+            "translated": "~z~阻止。",
+            "desc": ""
+        },
+        {
+            "hash": 2538108407,
+            "original": "~z~It's not my business.",
+            "translated": "~z~不关我事。",
+            "desc": ""
+        },
+        {
+            "hash": 2614791034,
+            "original": "~z~Just a second here, Derrick. I gotta speak to one of the sergeants.",
+            "translated": "~z~稍等片刻，Derrick。我要接一个手下的电话。",
+            "desc": ""
+        },
+        {
+            "hash": 2620294767,
+            "original": "FM5_AH",
+            "translated": "FM5_AH",
+            "desc": ""
+        },
+        {
+            "hash": 2642221665,
+            "original": "~z~Don't forget that I still got dirt on you. I know this ain't nice, but neither of us has a choice.",
+            "translated": "~z~别忘了我还有你的黑料。我知道这样不太好，不过大家都没得选。",
+            "desc": ""
+        },
+        {
+            "hash": 2687512618,
+            "original": "FM5_DA",
+            "translated": "FM5_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2690585220,
+            "original": "~z~now I've got him threatening to talk to a journalist!",
+            "translated": "~z~现在他还来威胁我要跟记者曝光了！",
+            "desc": ""
+        },
+        {
+            "hash": 2695366834,
+            "original": "~z~If it wasn't bad enough having a bunch of crooks for brothers,",
+            "translated": "~z~如果说光是有一群恶棍兄弟还不够糟的话，",
+            "desc": ""
+        },
+        {
+            "hash": 2699399197,
+            "original": "~z~-Stop?~n~-Shh.",
+            "translated": "~z~－阻止？~n~－嘘。",
+            "desc": ""
+        },
+        {
+            "hash": 2762299940,
+            "original": "~z~Question is, which one of us is gonna be wandering the earth with a mark on his head",
+            "translated": "~z~问题在于，我们中的哪个会带着记号流离漂荡在地上*。~n~(之后该隐被驱逐，耶和华给他立了记号，免得遇见他的人杀他)",
+            "desc": ""
+        },
+        {
+            "hash": 2854818145,
+            "original": "FM5_BF",
+            "translated": "FM5_BF",
+            "desc": ""
+        },
+        {
+            "hash": 2934291762,
+            "original": "~z~I hope you've got over yourself and are ready for some fratricide.",
+            "translated": "~z~希望你已经说服了自己，准备好来手足相残了。",
+            "desc": ""
+        },
+        {
+            "hash": 3020568166,
+            "original": "~z~You stop him.",
+            "translated": "~z~你去阻止他。",
+            "desc": ""
+        },
+        {
+            "hash": 3061537381,
+            "original": "FM5_AD",
+            "translated": "FM5_AD",
+            "desc": ""
+        },
+        {
+            "hash": 3076407937,
+            "original": "~z~I'm not so sure about it.",
+            "translated": "~z~我还没法下定决心。",
+            "desc": ""
+        },
+        {
+            "hash": 3107481605,
+            "original": "FM5_GE",
+            "translated": "FM5_GE",
+            "desc": ""
+        },
+        {
+            "hash": 3118060314,
+            "original": "~z~That's what I like to hear.",
+            "translated": "~z~我就想听你这句话。",
+            "desc": ""
+        },
+        {
+            "hash": 3121337222,
+            "original": "~z~Francis, I'm ready. What is the plan?",
+            "translated": "~z~Francis，我准备好了。计划是什么？",
+            "desc": ""
+        },
+        {
+            "hash": 3200732128,
+            "original": "~z~We, my friend. We.",
+            "translated": "~z~我们，我的朋友。我们。",
+            "desc": ""
+        },
+        {
+            "hash": 3254573453,
+            "original": "010100100010010010010010100",
+            "translated": "010100100010010010010010100",
+            "desc": ""
+        },
+        {
+            "hash": 3318243810,
+            "original": "100100100100010100100100100100",
+            "translated": "100100100100010100100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 3380930427,
+            "original": "~z~Well, I have found out!",
+            "translated": "~z~对，我是知道了！",
+            "desc": ""
+        },
+        {
+            "hash": 3390271359,
+            "original": "~z~Cute, but he's a mule. No amount of smack could take him down.",
+            "translated": "~z~很精明，但他是头骡子。麻药再多都不会倒的。",
+            "desc": ""
+        },
+        {
+            "hash": 3426711525,
+            "original": "~z~It's sounding like I've got no choice. One McReary brother is going to get me to kill another.",
+            "translated": "~z~听起来似乎是没得选。McReary兄弟之一让我杀了另一个兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3448550450,
+            "original": "~z~Jesus. Frankie, I'm sorry. May God forgive us for what we've done.",
+            "translated": "~z~Jesus. Frankie, I'm sorry. May God forgive us for what we've done.",
+            "desc": ""
+        },
+        {
+            "hash": 3461913241,
+            "original": "100100010100100",
+            "translated": "100100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 3481988455,
+            "original": "~z~I'm going to meet him in the courtyard park off Bismark in Lancet.",
+            "translated": "~z~我会把他约到Lancet区Bismarck大道上的庭院公园。",
+            "desc": ""
+        },
+        {
+            "hash": 3498466563,
+            "original": "FM5_BG",
+            "translated": "FM5_BG",
+            "desc": ""
+        },
+        {
+            "hash": 3521823208,
+            "original": "FM5_DE",
+            "translated": "FM5_DE",
+            "desc": ""
+        },
+        {
+            "hash": 3559174454,
+            "original": "FM5_ND",
+            "translated": "FM5_ND",
+            "desc": ""
+        },
+        {
+            "hash": 3606544296,
+            "original": "~z~the crooks I can handle, see that I can spin, but not this. Not this.",
+            "translated": "~z~光是恶棍我还能解决，大不了编点故事。但这个不行，告密不行。",
+            "desc": ""
+        },
+        {
+            "hash": 3680532000,
+            "original": "FM5_OD",
+            "translated": "FM5_OD",
+            "desc": ""
+        },
+        {
+            "hash": 3681296618,
+            "original": "FM5_AE",
+            "translated": "FM5_AE",
+            "desc": ""
+        },
+        {
+            "hash": 3695773411,
+            "original": "~z~-Fuck you.~n~-No, fuck you, pal.",
+            "translated": "~z~－操你妈。~n~－不，操你妈，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3835469057,
+            "original": "~z~Hey, what the problem? I thought you were going to make something happen for me?",
+            "translated": "~z~喂，怎么回事？你不是要替我办事的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3842922061,
+            "original": "FM5_ED",
+            "translated": "FM5_ED",
+            "desc": ""
+        },
+        {
+            "hash": 3845200923,
+            "original": "~z~You know,",
+            "translated": "~z~要知道，",
+            "desc": ""
+        },
+        {
+            "hash": 3849452079,
+            "original": "100100010100",
+            "translated": "100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 3865430592,
+            "original": "FM5_NB",
+            "translated": "FM5_NB",
+            "desc": ""
+        },
+        {
+            "hash": 3904602230,
+            "original": "FM5_GG",
+            "translated": "FM5_GG",
+            "desc": ""
+        },
+        {
+            "hash": 3947754052,
+            "original": "FM5_EA",
+            "translated": "FM5_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3949611916,
+            "original": "FM5_GF",
+            "translated": "FM5_GF",
+            "desc": ""
+        },
+        {
+            "hash": 3955205584,
+            "original": "~z~Just put him out of his misery.",
+            "translated": "~z~让他从悲惨的生活里解脱出来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3990789800,
+            "original": "FM5_OE",
+            "translated": "FM5_OE",
+            "desc": ""
+        },
+        {
+            "hash": 3995307167,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3996194448,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 4016386179,
+            "original": "~z~Me? Uh-uh.",
+            "translated": "~z~我？错了。",
+            "desc": ""
+        },
+        {
+            "hash": 4070287077,
+            "original": "FM5_BA",
+            "translated": "FM5_BA",
+            "desc": ""
+        },
+        {
+            "hash": 4080118385,
+            "original": "FM5_BD",
+            "translated": "FM5_BD",
+            "desc": ""
+        },
+        {
+            "hash": 4097849861,
+            "original": "FM5_AA",
+            "translated": "FM5_AA",
+            "desc": ""
+        },
+        {
+            "hash": 4113316225,
+            "original": "FM5_AG",
+            "translated": "FM5_AG",
+            "desc": ""
+        },
+        {
+            "hash": 4152474640,
+            "original": "FM5_CD",
+            "translated": "FM5_CD",
+            "desc": ""
+        },
+        {
+            "hash": 4152621528,
+            "original": "FM5_EE",
+            "translated": "FM5_EE",
+            "desc": ""
+        },
+        {
+            "hash": 4208806443,
+            "original": "~z~What?",
+            "translated": "~z~啥？",
+            "desc": ""
+        },
+        {
+            "hash": 4221855203,
+            "original": "FM5_FB",
+            "translated": "FM5_FB",
+            "desc": ""
+        },
+        {
+            "hash": 4226510279,
+            "original": "FM5_DD",
+            "translated": "FM5_DD",
+            "desc": ""
+        },
+        {
+            "hash": 4231138511,
+            "original": "FM5_CE",
+            "translated": "FM5_CE",
+            "desc": ""
+        },
+        {
+            "hash": 4256074809,
+            "original": "~z~Niko, thank fuck you answered.",
+            "translated": "~z~Niko，谢天谢地你接电话了。",
+            "desc": ""
+        },
+        {
+            "hash": 4266937089,
+            "original": "~z~Make him a tragedy, not a disaster.",
+            "translated": "~z~让他成为悲剧，而不是灾难。",
+            "desc": ""
+        },
+        {
+            "hash": 4289687770,
+            "original": "FM5_GA",
+            "translated": "FM5_GA",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "ELIZA1": [
+        {
+            "hash": 780328221,
+            "original": "~s~Take down the ~r~last man ~s~before he makes a getaway in the van.",
+            "translated": "~s~在~r~最后一个人~s~开货车逃走之前干掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 1076559981,
+            "original": "~s~Protect Packie.",
+            "translated": "~s~保护Packie。",
+            "desc": ""
+        },
+        {
+            "hash": 1145766643,
+            "original": "~s~Hold ~INPUT_AIM~ to look through the scope of the rifle, when it is equipped.",
+            "translated": "~s~装备狙击枪时，按住~INPUT_AIM~开镜。",
+            "desc": ""
+        },
+        {
+            "hash": 1408837641,
+            "original": "~s~Make your way to the ~y~vantage point.",
+            "translated": "~s~前往~y~有利位置。",
+            "desc": ""
+        },
+        {
+            "hash": 1430084964,
+            "original": "~r~ Packie was injured. You failed to protect him.~s~",
+            "translated": "~r~Packie受伤了。你没能保护好他。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1456121842,
+            "original": "~s~Press ~INPUT_ATTACK~ to fire.",
+            "translated": "~s~按~INPUT_ATTACK~开火。",
+            "desc": ""
+        },
+        {
+            "hash": 1469080074,
+            "original": "~r~ One of the attackers got away.~s~",
+            "translated": "~r~袭击者之一逃走了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1715588250,
+            "original": "~s~Take out all of the ~r~attackers.",
+            "translated": "~s~干掉所有~r~袭击者。",
+            "desc": ""
+        },
+        {
+            "hash": 1984436209,
+            "original": "~s~Lose your wanted level.~s~",
+            "translated": "~s~摆脱通缉。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2045703156,
+            "original": "~s~Go to the ~y~building~s~ in South Bohan.",
+            "translated": "~s~前往South Bohan的~y~公寓楼。",
+            "desc": ""
+        },
+        {
+            "hash": 2054451013,
+            "original": "~s~Use ~PAD_LSTICK_UP~ to zoom in. ~s~Use ~PAD_LSTICK_DOWN~ to zoom out.",
+            "translated": "~s~用~PAD_LSTICK_UP~放大。~s~用~PAD_LSTICK_DOWN~缩小。",
+            "desc": ""
+        },
+        {
+            "hash": 2196584643,
+            "original": "~r~ The meeting has been cancelled. Don't break up the meeting when you don't have to.~s~",
+            "translated": "~r~会面取消了，不要自作主张打断会面。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2335086195,
+            "original": "Packie and his associate have arrived. Watch over the meeting with the sniper rifle.",
+            "translated": "Packie和他的同伙已经到场。用狙击步枪监视会面。",
+            "desc": ""
+        },
+        {
+            "hash": 2430966839,
+            "original": "~s~Shoot through the windshield to hit the driver.",
+            "translated": "~s~射击挡风玻璃攻击司机。",
+            "desc": ""
+        },
+        {
+            "hash": 3206707376,
+            "original": "~s~Use ~PAD_RSTICK_ALL~ to aim.",
+            "translated": "~s~用~PAD_RSTICK_ALL~瞄准。",
+            "desc": ""
+        },
+        {
+            "hash": 3232857022,
+            "original": "~s~Use ~INPUT_SNIPER_ZOOM_OUT~ to zoom out.",
+            "translated": "~s~用~INPUT_SNIPER_ZOOM_OUT~缩小。",
+            "desc": ""
+        },
+        {
+            "hash": 3334720662,
+            "original": "~s~Use ~INPUT_SNIPER_ZOOM_IN~ to zoom in. ~s~Use ~INPUT_SNIPER_ZOOM_OUT~ to zoom out.",
+            "translated": "~s~用~INPUT_SNIPER_ZOOM_IN~放大。~s~用~INPUT_SNIPER_ZOOM_OUT~缩小。",
+            "desc": ""
+        },
+        {
+            "hash": 3377727923,
+            "original": "~s~Press ~PAD_LB~ or ~PAD_B~ to fire.",
+            "translated": "~s~按~INPUT_ATTACK~开火。",
+            "desc": ""
+        },
+        {
+            "hash": 3705312645,
+            "original": "~s~Use ~PAD_LSTICK_ALL~ to aim.",
+            "translated": "~s~用~PAD_LSTICK_ALL~瞄准。",
+            "desc": ""
+        },
+        {
+            "hash": 3748397655,
+            "original": "~s~Watch over the meeting.",
+            "translated": "~s~监视会面。",
+            "desc": ""
+        },
+        {
+            "hash": 3894168211,
+            "original": "~s~When crouching, the accuracy of the rifle increases.",
+            "translated": "~s~蹲下时，狙击步枪的射击精度将会提高。",
+            "desc": ""
+        },
+        {
+            "hash": 4036148469,
+            "original": "~s~Use ~INPUT_SNIPER_ZOOM_IN_ALTERNATE~ to zoom in. ~s~Use ~INPUT_SNIPER_ZOOM_OUT_ALTERNATE~ to zoom out.",
+            "translated": "~s~使用~INPUT_SNIPER_ZOOM_IN_ALTERNATE~放大。~s~使用~INPUT_SNIPER_ZOOM_OUT_ALTERNATE~缩小。",
+            "desc": ""
+        },
+        {
+            "hash": 4053640890,
+            "original": "~b~Packie~s~ is in trouble find him and help him.",
+            "translated": "~b~Packie~s~有麻烦了，找到并帮助他。",
+            "desc": ""
+        },
+        {
+            "hash": 4074530249,
+            "original": "~s~Go to the roof and pick up the ~g~sniper rifle.",
+            "translated": "~s~去屋顶拿~g~狙击步枪。",
+            "desc": ""
+        },
+        {
+            "hash": 4093569980,
+            "original": "~s~Hold ~PAD_RB~ to look through scope of the rifle when it is equipped.",
+            "translated": "~s~装备狙击枪时，按住~PAD_RB~开镜。",
+            "desc": ""
+        },
+        {
+            "hash": 4120817867,
+            "original": "~s~Use ~INPUT_AIM~ to look through the scope of the rifle, when it is equipped.",
+            "translated": "~s~装备狙击枪时，按住~INPUT_AIM~开镜。",
+            "desc": ""
+        }
+    ]
+}

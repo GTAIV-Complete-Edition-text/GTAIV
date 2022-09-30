@@ -1,0 +1,658 @@
+{
+    "GM1AUD": [
+        {
+            "hash": 51950910,
+            "original": "~z~Hey man, the wiseguys got hip to me. I fucked things up.",
+            "translated": "~z~喂老兄，那些大人物们发现我了。我搞砸了。",
+            "desc": ""
+        },
+        {
+            "hash": 70484826,
+            "original": "GM1_BA",
+            "translated": "GM1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 81949181,
+            "original": "~z~Call me when it's done.",
+            "translated": "~z~搞定了再打给我。",
+            "desc": ""
+        },
+        {
+            "hash": 88049745,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 104823694,
+            "original": "GM1_HI",
+            "translated": "GM1_HI",
+            "desc": ""
+        },
+        {
+            "hash": 211195102,
+            "original": "~z~That ain't gonna cut it, Niko. The rest of the Ancelottis won't get properly pissed unless everyone goes.",
+            "translated": "~z~那可不顶用，Niko。只有无人生还才能Ancelotti家族的其他成员暴跳如雷。",
+            "desc": ""
+        },
+        {
+            "hash": 246032463,
+            "original": "~z~Yeah, I know, national tragedy.",
+            "translated": "~z~对，我知道，民族性的悲剧。",
+            "desc": ""
+        },
+        {
+            "hash": 279502943,
+            "original": "GM1_MA",
+            "translated": "GM1_MA",
+            "desc": ""
+        },
+        {
+            "hash": 305236939,
+            "original": "GM1_JB",
+            "translated": "GM1_JB",
+            "desc": ""
+        },
+        {
+            "hash": 316450373,
+            "original": "GM1_HG",
+            "translated": "GM1_HG",
+            "desc": ""
+        },
+        {
+            "hash": 413920359,
+            "original": "~z~Hey, Big Tone, did you kick some ass or what?",
+            "translated": "~z~嘿，大Tone，有没有谈出什么东西来？",
+            "desc": ""
+        },
+        {
+            "hash": 441593941,
+            "original": "~z~Get your ass back here.",
+            "translated": "~z~你丫赶紧回来。",
+            "desc": ""
+        },
+        {
+            "hash": 464306992,
+            "original": "~z~So the Ancelottis think the Albanians did it?",
+            "translated": "~z~然后Ancelotti家族就会认为是阿尔巴尼亚人干的？",
+            "desc": ""
+        },
+        {
+            "hash": 504198990,
+            "original": "GM1_IC",
+            "translated": "GM1_IC",
+            "desc": ""
+        },
+        {
+            "hash": 632533887,
+            "original": "~z~So, Gerry. I got this bomb.",
+            "translated": "~z~好了Gerry。我拿到炸弹了。",
+            "desc": ""
+        },
+        {
+            "hash": 725393222,
+            "original": "~z~Oh, I agree...",
+            "translated": "~z~噢，我同意...",
+            "desc": ""
+        },
+        {
+            "hash": 742658975,
+            "original": "~z~Forget about it.",
+            "translated": "~z~不提了。",
+            "desc": ""
+        },
+        {
+            "hash": 769943455,
+            "original": "~z~I want it to blow when they get back from their meeting.",
+            "translated": "~z~我想要在他们会面完回去以后引爆。",
+            "desc": ""
+        },
+        {
+            "hash": 802666552,
+            "original": "~z~I don't know what's happened to that bomb.",
+            "translated": "~z~炸弹会怎么样我也不清楚。",
+            "desc": ""
+        },
+        {
+            "hash": 935062312,
+            "original": "~z~Gerry, I lost Tony's car. I couldn't blow the bomb when they were with their crew.",
+            "translated": "~z~Gerry，我跟丢了Tony的车，没法子在他们和手下一起的时候引爆炸弹了。",
+            "desc": ""
+        },
+        {
+            "hash": 938039274,
+            "original": "~z~Alright listen, the Ancelottis and the Albanians are meeting in Little Italy.",
+            "translated": "~z~那好，听着，现在Ancelotti家族和阿尔巴尼亚人在小意大利会面。",
+            "desc": ""
+        },
+        {
+            "hash": 960445247,
+            "original": "~z~-It was fun.~n~-Fun?",
+            "translated": "~z~－那次挺有趣的。~n~－有趣？",
+            "desc": ""
+        },
+        {
+            "hash": 964574153,
+            "original": "~z~No, thank you.",
+            "translated": "~z~不了，谢谢。",
+            "desc": ""
+        },
+        {
+            "hash": 991211957,
+            "original": "~z~Tony Black and his boys didn't get back to the rest of his crew. I couldn't take them all out.",
+            "translated": "~z~Tony Black和他的手下没有回到其他家族成员地方，我没法不留活口。",
+            "desc": ""
+        },
+        {
+            "hash": 1031127972,
+            "original": "GM1_MB",
+            "translated": "GM1_MB",
+            "desc": ""
+        },
+        {
+            "hash": 1055509383,
+            "original": "GM1_MB",
+            "translated": "GM1_MB",
+            "desc": ""
+        },
+        {
+            "hash": 1063791194,
+            "original": "GM1_GB",
+            "translated": "GM1_GB",
+            "desc": ""
+        },
+        {
+            "hash": 1131044701,
+            "original": "~z~Hey Gerry, I had to leave Tony Black and his boys for a while.",
+            "translated": "~z~喂Gerry，我得先把Tony Black和他的手下们放一会儿了。",
+            "desc": ""
+        },
+        {
+            "hash": 1146442091,
+            "original": "~z~You handled yourself well on that bank job.",
+            "translated": "~z~银行那票你干得很好。",
+            "desc": ""
+        },
+        {
+            "hash": 1182467429,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 1225030176,
+            "original": "~z~Tony's car is parked in an alleyway off of Feldspar Street.",
+            "translated": "~z~Tony的车停在Feldspar街的一条巷子里。",
+            "desc": ""
+        },
+        {
+            "hash": 1242696918,
+            "original": "~z~Gerry, I hit the Ancelottis crew real hard. Everyone got taken down.",
+            "translated": "~z~Gerry，这次Ancelotti家族吃到苦头了，没留一个活口。",
+            "desc": ""
+        },
+        {
+            "hash": 1278976881,
+            "original": "~z~Mmm, focus...",
+            "translated": "~z~嗯，目标规划...",
+            "desc": ""
+        },
+        {
+            "hash": 1293775555,
+            "original": "~z~Come back to Ma's place.",
+            "translated": "~z~回妈家吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1334640488,
+            "original": "010100100100100010100100",
+            "translated": "010100100100100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 1379372976,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 1413816636,
+            "original": "~z~The rest of them should think the Albanian muscle is making a play.",
+            "translated": "~z~其他成员应该会认为是阿尔巴尼亚打手干的好事。",
+            "desc": ""
+        },
+        {
+            "hash": 1427239652,
+            "original": "~z~Yeah?",
+            "translated": "~z~是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1511523363,
+            "original": "GM1_XA",
+            "translated": "GM1_XA",
+            "desc": ""
+        },
+        {
+            "hash": 1553539401,
+            "original": "~z~then you blow the bomb. Make sure no one walks away. It's easy, right?",
+            "translated": "~z~然后你就引爆炸弹。一定要不留活口。很简单，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1615449197,
+            "original": "~z~I'm glad you're on board.",
+            "translated": "~z~很高兴你能入伙。",
+            "desc": ""
+        },
+        {
+            "hash": 1664598017,
+            "original": "GM1_BB",
+            "translated": "GM1_BB",
+            "desc": ""
+        },
+        {
+            "hash": 1763230519,
+            "original": "~z~Christ! Niko, they ain't gonna think the Albanians got beef with them if that car didn't blow.",
+            "translated": "~z~天哪！Niko，要是车子不爆炸，他们怎么可能会觉得阿尔巴尼亚人对他们不满。",
+            "desc": ""
+        },
+        {
+            "hash": 1856482338,
+            "original": "GM1_MC",
+            "translated": "GM1_MC",
+            "desc": ""
+        },
+        {
+            "hash": 1860355548,
+            "original": "~z~So easy I don't see why you ain't doing this yourself.",
+            "translated": "~z~真那么简单你怎么不亲自出马。",
+            "desc": ""
+        },
+        {
+            "hash": 1922822417,
+            "original": "~z~You know Packie was right for once.",
+            "translated": "~z~Packie有一句话说的没错，",
+            "desc": ""
+        },
+        {
+            "hash": 2041898743,
+            "original": "GM1_HD",
+            "translated": "GM1_HD",
+            "desc": ""
+        },
+        {
+            "hash": 2078042302,
+            "original": "~z~Gerry, I didn't blow the bomb after Tony got back to his crew.",
+            "translated": "~z~Gerry，Tony回去以后我没引爆炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 2097095291,
+            "original": "GM1_GC",
+            "translated": "GM1_GC",
+            "desc": ""
+        },
+        {
+            "hash": 2108539947,
+            "original": "~z~Packie swears by you, absolutely swears by you.",
+            "translated": "~z~Packie很中意你，非常中意你。",
+            "desc": ""
+        },
+        {
+            "hash": 2147510295,
+            "original": "~z~Niko, I wouldn't trust myself with this task. You ain't got a gallon of whiskey in your system, and besides, you're bein' paid, ain't ya?",
+            "translated": "~z~Niko，这回我信不过自己，我的血管里可都是威士忌。再说，你是我花钱雇的，不是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2169998980,
+            "original": "~z~You're gonna plant a bomb in Tony Black's car. It'll be rigged to a phone.",
+            "translated": "~z~为此你要在Tony Black的车上装上炸弹，电话引爆的那种。",
+            "desc": ""
+        },
+        {
+            "hash": 2170359219,
+            "original": "~z~Too much fun - that's always been this family's problem.",
+            "translated": "~z~有趣过头了。这个家族一直都有的问题。",
+            "desc": ""
+        },
+        {
+            "hash": 2270281126,
+            "original": "~z~Niko, if you're following some guys back to a meet you gotta keep a low profile. Christ!",
+            "translated": "~z~Niko，你要是想尾行别人不被发现就给我保持低调。天哪！",
+            "desc": ""
+        },
+        {
+            "hash": 2308165181,
+            "original": "~z~At least it's better than dealing with those fucking drunken Irish bastards though.",
+            "translated": "~z~不过总比那些狗逼爱尔兰醉鬼好对付。",
+            "desc": ""
+        },
+        {
+            "hash": 2347262112,
+            "original": "~z~let's have whiskey instead.",
+            "translated": "~z~改喝威士忌吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2403689837,
+            "original": "GM1_FA",
+            "translated": "GM1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2403707268,
+            "original": "~z~Very poetical.",
+            "translated": "~z~挺有诗意。",
+            "desc": ""
+        },
+        {
+            "hash": 2424462479,
+            "original": "~z~Shit, that's too bad. I trust you did all you could for them. Come back and see me.",
+            "translated": "~z~操，那可太糟了。我相信你已经尽己所能了。回来见我。",
+            "desc": ""
+        },
+        {
+            "hash": 2463281530,
+            "original": "~z~Well first up, we gotta create a little problem between the Ancelottis and their Albanian muscle, for Jimmy P.",
+            "translated": "~z~首先，我们要在Ancelotti家族和他们的阿尔巴尼亚打手间制造些矛盾，替Jimmy P做的。",
+            "desc": ""
+        },
+        {
+            "hash": 2500811041,
+            "original": "~z~Come back to Ma's.",
+            "translated": "~z~回我妈这儿来。",
+            "desc": ""
+        },
+        {
+            "hash": 2523317133,
+            "original": "GM1_TA",
+            "translated": "GM1_TA",
+            "desc": ""
+        },
+        {
+            "hash": 2551390610,
+            "original": "GM1_HK",
+            "translated": "GM1_HK",
+            "desc": ""
+        },
+        {
+            "hash": 2626536468,
+            "original": "~z~But never any fuckin' focus. Never!",
+            "translated": "~z~但是从来就他妈没有什么目标规划，从来没有！",
+            "desc": ""
+        },
+        {
+            "hash": 2640524151,
+            "original": "~z~I knew me brother wouldn't put his faith in a bum. They'll be at them Albos in no time.",
+            "translated": "~z~我就知道我弟弟不会信错人。~n~他们马上就会和阿尔巴尼亚佬干起来的。",
+            "desc": ""
+        },
+        {
+            "hash": 2663781212,
+            "original": "~z~Dammit, I wish there was an easier way. You meet me and we'll go over the plan.",
+            "translated": "~z~妈的，希望能有更简单的法子。你再来见我一次，我们再讨论下计划。",
+            "desc": ""
+        },
+        {
+            "hash": 2688843146,
+            "original": "GM1_IA",
+            "translated": "GM1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2690612849,
+            "original": "GM1_JA",
+            "translated": "GM1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2700720099,
+            "original": "GM1_TC",
+            "translated": "GM1_TC",
+            "desc": ""
+        },
+        {
+            "hash": 2711565219,
+            "original": "GM1_HJ",
+            "translated": "GM1_HJ",
+            "desc": ""
+        },
+        {
+            "hash": 2794274074,
+            "original": "~z~Shit, Niko. We're gonna have to rethink this. Come see me.",
+            "translated": "~z~靠，Niko。我们得重新考虑过了。过来见我。",
+            "desc": ""
+        },
+        {
+            "hash": 2916203055,
+            "original": "010010100100",
+            "translated": "010010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2939087190,
+            "original": "~z~Fun, good causes, a good laugh, some stupid dream or some stupid distraction.",
+            "translated": "~z~有趣，大义，全都是笑话，不是痴人说梦就是半途而废。",
+            "desc": ""
+        },
+        {
+            "hash": 2940824167,
+            "original": "~z~Thing will go off with when you dial a number.",
+            "translated": "~z~打给特定号码就会爆炸。",
+            "desc": ""
+        },
+        {
+            "hash": 2954374208,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 3016767666,
+            "original": "GM1_XC",
+            "translated": "GM1_XC",
+            "desc": ""
+        },
+        {
+            "hash": 3053924784,
+            "original": "GM1_FB",
+            "translated": "GM1_FB",
+            "desc": ""
+        },
+        {
+            "hash": 3056886000,
+            "original": "GM1_TD",
+            "translated": "GM1_TD",
+            "desc": ""
+        },
+        {
+            "hash": 3081988119,
+            "original": "~z~That's step one of the plan complete. Come see me. We'll talk about step two.",
+            "translated": "~z~计划的第一步完成了。过来找我，我们谈谈第二步。",
+            "desc": ""
+        },
+        {
+            "hash": 3095093494,
+            "original": "~z~Gerry, the car got screwed.",
+            "translated": "~z~Gerry，那辆车废了。",
+            "desc": ""
+        },
+        {
+            "hash": 3097541136,
+            "original": "~z~Come in, come in. Beer?",
+            "translated": "~z~请进请进，来罐啤酒？",
+            "desc": ""
+        },
+        {
+            "hash": 3138007317,
+            "original": "~z~The Albanians know they got us over a barrel, Sal.",
+            "translated": "~z~阿尔巴尼亚人知道他们让我们进退两难，Sal。",
+            "desc": ""
+        },
+        {
+            "hash": 3234336532,
+            "original": "GM1_CB",
+            "translated": "GM1_CB",
+            "desc": ""
+        },
+        {
+            "hash": 3321140965,
+            "original": "~z~The whole lot spent in the proper manner, oh yeah,",
+            "translated": "~z~赚来的全拿去「合理消费」了，噢耶。",
+            "desc": ""
+        },
+        {
+            "hash": 3327604238,
+            "original": "GM1_GD",
+            "translated": "GM1_GD",
+            "desc": ""
+        },
+        {
+            "hash": 3341145882,
+            "original": "~z~No one's here. Just you and me.",
+            "translated": "~z~现在家里没人，就你和我在。",
+            "desc": ""
+        },
+        {
+            "hash": 3363741113,
+            "original": "GM1_WA",
+            "translated": "GM1_WA",
+            "desc": ""
+        },
+        {
+            "hash": 3377724089,
+            "original": "~z~Now you put the bomb in the trunk, then follow the wiseguys from their meeting back to the rest of their crew,",
+            "translated": "~z~你把炸弹装他车后面，尾行那些大人物回到据点，其他家族成员也在那里。",
+            "desc": ""
+        },
+        {
+            "hash": 3395199125,
+            "original": "~z~Exactly. Bomb's in an alley off of Inchon Avenue.",
+            "translated": "~z~正是，炸弹在Inchon大道的一条巷子里。",
+            "desc": ""
+        },
+        {
+            "hash": 3443098360,
+            "original": "GM1_JC",
+            "translated": "GM1_JC",
+            "desc": ""
+        },
+        {
+            "hash": 3481269455,
+            "original": "~z~Gerald, it's Niko. This job is screwed. The bomb triggered before I could rig it to the car.",
+            "translated": "~z~Gerald，我是Niko。这回搞砸了，炸弹在我装上车前就炸了。",
+            "desc": ""
+        },
+        {
+            "hash": 3555152506,
+            "original": "GM1_GA",
+            "translated": "GM1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3585886771,
+            "original": "GM1_TB",
+            "translated": "GM1_TB",
+            "desc": ""
+        },
+        {
+            "hash": 3619601017,
+            "original": "~z~All we've ever been is bitches. Working for guineas, working for niggers, any asshole with a buck.",
+            "translated": "~z~我们活成了婊子。~n~替意呆利佬卖命，替黑鬼卖命，谁给钱就替谁卖命。",
+            "desc": ""
+        },
+        {
+            "hash": 3696654803,
+            "original": "GM1_MC",
+            "translated": "GM1_MC",
+            "desc": ""
+        },
+        {
+            "hash": 3740669558,
+            "original": "~z~Christ! Niko, they ain't gonna think the Albanians got beef with them if that car didn't blow.",
+            "translated": "~z~天哪！Niko，要是车子不爆炸，他们怎么可能会觉得阿尔巴尼亚人对他们不满。",
+            "desc": ""
+        },
+        {
+            "hash": 3775057153,
+            "original": "~z~wine and women, as quick as possible, and remain a slave forever.",
+            "translated": "~z~酒和女人，一下就没了，永远都只能做奴隶。",
+            "desc": ""
+        },
+        {
+            "hash": 3785359208,
+            "original": "GM1_IB",
+            "translated": "GM1_IB",
+            "desc": ""
+        },
+        {
+            "hash": 3818994166,
+            "original": "GM1_HA",
+            "translated": "GM1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3840595373,
+            "original": "~z~Maybe. What is it?",
+            "translated": "~z~说不定吧。什么计划？",
+            "desc": ""
+        },
+        {
+            "hash": 3918184749,
+            "original": "GM1_HH",
+            "translated": "GM1_HH",
+            "desc": ""
+        },
+        {
+            "hash": 3947054990,
+            "original": "~z~Come back to Ma's place.",
+            "translated": "~z~回我妈的地方来。",
+            "desc": ""
+        },
+        {
+            "hash": 3952790557,
+            "original": "GM1_HC",
+            "translated": "GM1_HC",
+            "desc": ""
+        },
+        {
+            "hash": 4064308643,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 4125166259,
+            "original": "230320320320",
+            "translated": "230320320320",
+            "desc": ""
+        },
+        {
+            "hash": 4126067015,
+            "original": "010010100100",
+            "translated": "010010100100",
+            "desc": ""
+        },
+        {
+            "hash": 4164721409,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 4168154297,
+            "original": "~z~Get it, give me a call.",
+            "translated": "~z~拿到以后给我打个电话。",
+            "desc": ""
+        },
+        {
+            "hash": 4243326163,
+            "original": "~z~But I got a plan. You down, friend?",
+            "translated": "~z~不过我倒有个计划。入伙吗，朋友？",
+            "desc": ""
+        }
+    ]
+}

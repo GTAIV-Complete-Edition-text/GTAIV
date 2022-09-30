@@ -1,0 +1,772 @@
+{
+    "J1AUD": [
+        {
+            "hash": 38381928,
+            "original": "~z~Get in the car, don't waste our time.",
+            "translated": "~z~赶紧给我上车，别浪费我们的时间。",
+            "desc": ""
+        },
+        {
+            "hash": 39186511,
+            "original": "J1_YC",
+            "translated": "J1_YC",
+            "desc": ""
+        },
+        {
+            "hash": 42338566,
+            "original": "~z~Stugots. You let the fuckers go.",
+            "translated": "~z~屌毛！你让那群废物跑了！",
+            "desc": ""
+        },
+        {
+            "hash": 51426923,
+            "original": "~z~Marco and Pete are down and I'm about to get clipped.",
+            "translated": "~z~Marco和Pete都死了，我的性命正在遭受威胁！",
+            "desc": ""
+        },
+        {
+            "hash": 76445410,
+            "original": "~z~What are doing, trying to leave the skipper?",
+            "translated": "~z~把老大留在后面？你在想什么？",
+            "desc": ""
+        },
+        {
+            "hash": 117774102,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 140977212,
+            "original": "100010100101101",
+            "translated": "100010100101101",
+            "desc": ""
+        },
+        {
+            "hash": 175938363,
+            "original": "~z~The motherfuckers, trying to whack me at a sit down...",
+            "translated": "~z~这群杂种，想趁我不备对我重拳出击...",
+            "desc": ""
+        },
+        {
+            "hash": 212757841,
+            "original": "J1_XA",
+            "translated": "J1_XA",
+            "desc": ""
+        },
+        {
+            "hash": 217346548,
+            "original": "~z~The Pavano crew is getting away.",
+            "translated": "~z~Pavano家族的人就要跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 242465106,
+            "original": "J1_IB",
+            "translated": "J1_IB",
+            "desc": ""
+        },
+        {
+            "hash": 340117180,
+            "original": "~z~There's more guys coming in the back. Get down here, Niko.",
+            "translated": "~z~有人从后面来了。注意下，Niko！",
+            "desc": ""
+        },
+        {
+            "hash": 349138920,
+            "original": "J1_VA",
+            "translated": "J1_VA",
+            "desc": ""
+        },
+        {
+            "hash": 398662334,
+            "original": "J1_TD",
+            "translated": "J1_TD",
+            "desc": ""
+        },
+        {
+            "hash": 428784748,
+            "original": "J1_JA",
+            "translated": "J1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 437893809,
+            "original": "~z~We're gonna ice those fucks Niko!",
+            "translated": "~z~我们要干掉这群杂种，Niko！",
+            "desc": ""
+        },
+        {
+            "hash": 455833284,
+            "original": "J1_BC",
+            "translated": "J1_BC",
+            "desc": ""
+        },
+        {
+            "hash": 477263270,
+            "original": "~z~Sometimes literally. We're gonna need your skills again soon. Arrivederci.",
+            "translated": "~z~有时是字面上的没头脑。马上就会再次需要你的。再会。",
+            "desc": ""
+        },
+        {
+            "hash": 489172428,
+            "original": "~z~On my way.",
+            "translated": "~z~正在路上。",
+            "desc": ""
+        },
+        {
+            "hash": 527040448,
+            "original": "~z~Shit, Niko, go. I'm staying here and nursing my fucking wound.",
+            "translated": "~z~操，Niko，去吧。我先在这处理伤口。",
+            "desc": ""
+        },
+        {
+            "hash": 599830764,
+            "original": "J1_ZA",
+            "translated": "J1_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 616760903,
+            "original": "~z~You did good, kid. Kept your head when everyone else was losing theirs.",
+            "translated": "~z~干得不错，小子。别人都没头脑的时候你还能保持清醒。",
+            "desc": ""
+        },
+        {
+            "hash": 635045707,
+            "original": "~z~What are yous waiting for? Hit it, let's go.",
+            "translated": "~z~你还在等什么？赶紧给我出发。",
+            "desc": ""
+        },
+        {
+            "hash": 665980946,
+            "original": "J1_UC",
+            "translated": "J1_UC",
+            "desc": ""
+        },
+        {
+            "hash": 758127281,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 832362165,
+            "original": "~z~You fired first. Lucky for you, they was out to whack me anyway.",
+            "translated": "~z~你为什么要先开火？不过无所谓了，他们本来就想把我干掉。",
+            "desc": ""
+        },
+        {
+            "hash": 921380952,
+            "original": "~z~Give him the rifle, Marco.",
+            "translated": "~z~给他发把狙，Marco。",
+            "desc": ""
+        },
+        {
+            "hash": 923727184,
+            "original": "J1_JC",
+            "translated": "J1_JC",
+            "desc": ""
+        },
+        {
+            "hash": 928231315,
+            "original": "~z~You gotta go, Niko. I can't move with this bullet in my gut.",
+            "translated": "~z~你自己去吧，Niko。我肚子上中了一枪，现在动弹不得。",
+            "desc": ""
+        },
+        {
+            "hash": 950544626,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 1011976425,
+            "original": "J1_SA",
+            "translated": "J1_SA",
+            "desc": ""
+        },
+        {
+            "hash": 1065980212,
+            "original": "J1_HB",
+            "translated": "J1_HB",
+            "desc": ""
+        },
+        {
+            "hash": 1114862201,
+            "original": "~z~It's too bad that gift got destroyed, Mr. Pegorino. I'm sure it was real nice.",
+            "translated": "~z~很抱歉，礼物被毁了，Pegorino先生。那个礼物确实很好。",
+            "desc": ""
+        },
+        {
+            "hash": 1127596988,
+            "original": "J1_BB",
+            "translated": "J1_BB",
+            "desc": ""
+        },
+        {
+            "hash": 1132170153,
+            "original": "010010101",
+            "translated": "010010101",
+            "desc": ""
+        },
+        {
+            "hash": 1152421794,
+            "original": "~z~I'm sure the whole city will be up in arms.",
+            "translated": "~z~我敢肯定整个城市都会群起而攻之的。",
+            "desc": ""
+        },
+        {
+            "hash": 1156619879,
+            "original": "J1_NB",
+            "translated": "J1_NB",
+            "desc": ""
+        },
+        {
+            "hash": 1174377944,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 1291755582,
+            "original": "~z~The fucking Pavanos. If the rest of the Commission knew they did this...",
+            "translated": "~z~该死的Pavano家族！如果委员会的其他人知道他们敢这么做...",
+            "desc": ""
+        },
+        {
+            "hash": 1306442229,
+            "original": "~z~Mr. Pegorino, what's up?",
+            "translated": "~z~怎么了Pegorino先生？",
+            "desc": ""
+        },
+        {
+            "hash": 1350067778,
+            "original": "J1_A_AB",
+            "translated": "J1_A_AB",
+            "desc": ""
+        },
+        {
+            "hash": 1361069868,
+            "original": "~z~Get behind the wheel, what are you playing at?",
+            "translated": "~z~给我爬到车后面去，你以为你在跟谁玩呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1498817997,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 1545393777,
+            "original": "~z~I'm getting my ass kicked.",
+            "translated": "~z~我真他妈操了。",
+            "desc": ""
+        },
+        {
+            "hash": 1557236382,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1600906179,
+            "original": "~z~Come on, you're driving.",
+            "translated": "~z~我操，你会开车吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1601548902,
+            "original": "~z~More are showing up, get down here.",
+            "translated": "~z~好多人，快点过来！",
+            "desc": ""
+        },
+        {
+            "hash": 1612585448,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1613514393,
+            "original": "~z~They trying to make off with my tribute! The fucking nerve.",
+            "translated": "~z~他们要拿着我的礼物跑了！不要脸的。",
+            "desc": ""
+        },
+        {
+            "hash": 1686081106,
+            "original": "~z~Come on, pal. Get a car with enough room for all of us.",
+            "translated": "~z~我操，求求你找一辆能装下我们所有人的车好吗",
+            "desc": ""
+        },
+        {
+            "hash": 1711787369,
+            "original": "J1_JB",
+            "translated": "J1_JB",
+            "desc": ""
+        },
+        {
+            "hash": 1755981936,
+            "original": "J1_FA",
+            "translated": "J1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1928211247,
+            "original": "~z~Wise up, we need something we all can fit in.",
+            "translated": "~z~我操，求求你开动下你那聪明的脑袋，找一辆能装下我们所有人的车好吗。",
+            "desc": ""
+        },
+        {
+            "hash": 1947287934,
+            "original": "J1_FC",
+            "translated": "J1_FC",
+            "desc": ""
+        },
+        {
+            "hash": 1981088555,
+            "original": "~z~Niko, right? Skipper said you'd be driving.",
+            "translated": "~z~Niko是吧？老大说你来开车。",
+            "desc": ""
+        },
+        {
+            "hash": 2024078259,
+            "original": "J1_NA",
+            "translated": "J1_NA",
+            "desc": ""
+        },
+        {
+            "hash": 2187561151,
+            "original": "~z~They gonna take that stuff back to Algonquin and laugh at our Alderney, gumba, guido asses.",
+            "translated": "~z~他们会把战利品带回Algonquin，一边还嘲笑我们这些Alderney的所谓意大利黑道的。",
+            "desc": ""
+        },
+        {
+            "hash": 2203285682,
+            "original": "J1_GA",
+            "translated": "J1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2204766457,
+            "original": "100100100",
+            "translated": "100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2212461369,
+            "original": "~z~What the fuck are you doin'?",
+            "translated": "~z~你他妈的在干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 2280349729,
+            "original": "~z~The dumb fucks have crashed. Go get my gift and make the fuckers pay.",
+            "translated": "~z~这群傻逼自己撞上了。去把我的礼物拿回来，让他们付出代价！",
+            "desc": ""
+        },
+        {
+            "hash": 2326659526,
+            "original": "~z~Shit, the Pavanos is trying to whack me.",
+            "translated": "~z~我操，Pavano家族想把我一棒子打死。",
+            "desc": ""
+        },
+        {
+            "hash": 2392777360,
+            "original": "~z~You think we're midgets? Get a car that'll fit us all.",
+            "translated": "~z~我操，你以为我们是侏儒吗？求求你找一辆能装下我们所有人的车好吗。",
+            "desc": ""
+        },
+        {
+            "hash": 2490177159,
+            "original": "~z~Don't worry about that cousin of yours, he won't be in no danger sleeping in your Algonquin pad by his self.",
+            "translated": "~z~别担心你那堂兄了，他晚上一个人睡Algonquin的公寓不会出事的。",
+            "desc": ""
+        },
+        {
+            "hash": 2495206067,
+            "original": "200200200",
+            "translated": "200200200",
+            "desc": ""
+        },
+        {
+            "hash": 2504142460,
+            "original": "~z~At least they didn't whack me though. Drop in on me, Niko.",
+            "translated": "~z~至少他们没给我一闷棍。一会儿来找我，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2508304806,
+            "original": "J1_PB",
+            "translated": "J1_PB",
+            "desc": ""
+        },
+        {
+            "hash": 2534680395,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2551341277,
+            "original": "J1_UA",
+            "translated": "J1_UA",
+            "desc": ""
+        },
+        {
+            "hash": 2662214409,
+            "original": "~z~Maybe you can pick up another one on craplist.net. Don't worry about it.",
+            "translated": "~z~或许你可以在craplist上再找一个。不要担心了。",
+            "desc": ""
+        },
+        {
+            "hash": 2720177230,
+            "original": "~z~Niko, you ain't gonna let them get away.",
+            "translated": "~z~Niko，你可别让他们跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 2729827390,
+            "original": "200200200",
+            "translated": "200200200",
+            "desc": ""
+        },
+        {
+            "hash": 2761917391,
+            "original": "~z~No way, Skip. Here you go.",
+            "translated": "~z~你放心吧，老大。枪给你。",
+            "desc": ""
+        },
+        {
+            "hash": 2794653508,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 2814034056,
+            "original": "J1_GB",
+            "translated": "J1_GB",
+            "desc": ""
+        },
+        {
+            "hash": 2815311461,
+            "original": "J1_YB",
+            "translated": "J1_YB",
+            "desc": ""
+        },
+        {
+            "hash": 2939354106,
+            "original": "~z~You're a good earner, Niko. Take me back to my place.",
+            "translated": "~z~你很能干，Niko。送我回别墅吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2992473439,
+            "original": "J1_IC",
+            "translated": "J1_IC",
+            "desc": ""
+        },
+        {
+            "hash": 3100224547,
+            "original": "~z~You expect him to start throwing empty cans from up there if this thing kicks off?",
+            "translated": "~z~不拿枪出事了你让他从上面往下扔石头啊？",
+            "desc": ""
+        },
+        {
+            "hash": 3136062348,
+            "original": "~z~I don't know what you're busy with up there, but I need your immigrant ass down here now!",
+            "translated": "~z~我不知道你他妈在上面瞅什么，你这移民弱智赶紧给老子下来帮忙！",
+            "desc": ""
+        },
+        {
+            "hash": 3139232419,
+            "original": "~z~More of them is showing up, get down here and help me, Niko.",
+            "translated": "~z~好多人，赶紧下来帮我Niko！",
+            "desc": ""
+        },
+        {
+            "hash": 3139386793,
+            "original": "J1_VB",
+            "translated": "J1_VB",
+            "desc": ""
+        },
+        {
+            "hash": 3145833632,
+            "original": "100100100010",
+            "translated": "100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 3189553756,
+            "original": "J1_BA",
+            "translated": "J1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3241779215,
+            "original": "~z~Here you go.",
+            "translated": "~z~给你。",
+            "desc": ""
+        },
+        {
+            "hash": 3317639790,
+            "original": "J1_JE",
+            "translated": "J1_JE",
+            "desc": ""
+        },
+        {
+            "hash": 3334642373,
+            "original": "J1_SB",
+            "translated": "J1_SB",
+            "desc": ""
+        },
+        {
+            "hash": 3386850825,
+            "original": "J1_HA",
+            "translated": "J1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3409554807,
+            "original": "~z~The sit down's over at the old refinery in the Acter Industrial Park.",
+            "translated": "~z~交易地点是Acter工业园的一个旧炼油厂。",
+            "desc": ""
+        },
+        {
+            "hash": 3412877664,
+            "original": "J1_A_AA",
+            "translated": "J1_A_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3415918476,
+            "original": "~z~Mr. Pegorino, what's up?",
+            "translated": "~z~Pegorino先生，怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 3433506561,
+            "original": "~z~Marco and Pete have been fucking clipped!",
+            "translated": "~z~Marco和Pete被前后夹击了！",
+            "desc": ""
+        },
+        {
+            "hash": 3436000422,
+            "original": "J1_IA",
+            "translated": "J1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 3468099767,
+            "original": "J1_TA",
+            "translated": "J1_TA",
+            "desc": ""
+        },
+        {
+            "hash": 3472346383,
+            "original": "120120210100100",
+            "translated": "120120210100100",
+            "desc": ""
+        },
+        {
+            "hash": 3486453092,
+            "original": "~z~Don't leave the skipper behind.",
+            "translated": "~z~别把老大留在后面。",
+            "desc": ""
+        },
+        {
+            "hash": 3491846866,
+            "original": "~z~Don't start shooting unless they attack us. I don't want this thing screwing up for no good reason.",
+            "translated": "~z~他们不动手，你就别开枪。我可不想平白无故搞砸这笔交易。",
+            "desc": ""
+        },
+        {
+            "hash": 3512145426,
+            "original": "J1_YA",
+            "translated": "J1_YA",
+            "desc": ""
+        },
+        {
+            "hash": 3525370562,
+            "original": "~z~I don't know what you're busy with up there, but I need your immigrant ass down here now!",
+            "translated": "~z~我不知道你他妈在上面瞅什么，你这移民弱智赶紧给老子下来帮忙！",
+            "desc": ""
+        },
+        {
+            "hash": 3586851204,
+            "original": "J1_FD",
+            "translated": "J1_FD",
+            "desc": ""
+        },
+        {
+            "hash": 3588265158,
+            "original": "J1_TB",
+            "translated": "J1_TB",
+            "desc": ""
+        },
+        {
+            "hash": 3595986748,
+            "original": "~z~Niko, go up into that building. There should be a spot where you can see over the meet.",
+            "translated": "~z~Niko，去那栋楼里面。那里应该有个能监视交易的绝佳位置。",
+            "desc": ""
+        },
+        {
+            "hash": 3603055376,
+            "original": "J1_NC",
+            "translated": "J1_NC",
+            "desc": ""
+        },
+        {
+            "hash": 3611464984,
+            "original": "J1_OA",
+            "translated": "J1_OA",
+            "desc": ""
+        },
+        {
+            "hash": 3614368847,
+            "original": "J1_WA",
+            "translated": "J1_WA",
+            "desc": ""
+        },
+        {
+            "hash": 3619915667,
+            "original": "~z~Shit, don't let these fuckers give you the shake.",
+            "translated": "~z~操，别让这群傻逼把你甩掉了。",
+            "desc": ""
+        },
+        {
+            "hash": 3622871120,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 3641112201,
+            "original": "J1_A_AC",
+            "translated": "J1_A_AC",
+            "desc": ""
+        },
+        {
+            "hash": 3661675576,
+            "original": "J1_CA",
+            "translated": "J1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3667367489,
+            "original": "J1_FB",
+            "translated": "J1_FB",
+            "desc": ""
+        },
+        {
+            "hash": 3690315863,
+            "original": "J1_JD",
+            "translated": "J1_JD",
+            "desc": ""
+        },
+        {
+            "hash": 3698374984,
+            "original": "J1_VC",
+            "translated": "J1_VC",
+            "desc": ""
+        },
+        {
+            "hash": 3761566205,
+            "original": "J1_UB",
+            "translated": "J1_UB",
+            "desc": ""
+        },
+        {
+            "hash": 3778029573,
+            "original": "J1_TC",
+            "translated": "J1_TC",
+            "desc": ""
+        },
+        {
+            "hash": 3840601284,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 3856814462,
+            "original": "J1_PA",
+            "translated": "J1_PA",
+            "desc": ""
+        },
+        {
+            "hash": 3869212959,
+            "original": "J1_MA",
+            "translated": "J1_MA",
+            "desc": ""
+        },
+        {
+            "hash": 3870581868,
+            "original": "~z~Jimmy's on his way.",
+            "translated": "~z~Jimmy马上就来。",
+            "desc": ""
+        },
+        {
+            "hash": 3880463176,
+            "original": "J1_FE",
+            "translated": "J1_FE",
+            "desc": ""
+        },
+        {
+            "hash": 3891531384,
+            "original": "~z~This ain't pretty.",
+            "translated": "~z~这可不好。",
+            "desc": ""
+        },
+        {
+            "hash": 3909790241,
+            "original": "~z~You better not lose them, you better not.",
+            "translated": "~z~你最好跟丢了，最好不要。",
+            "desc": ""
+        },
+        {
+            "hash": 3967483901,
+            "original": "020200200",
+            "translated": "020200200",
+            "desc": ""
+        },
+        {
+            "hash": 3989736423,
+            "original": "~z~Shit, there are more guys coming in the back. Get down here, Niko.",
+            "translated": "~z~操，更多人正在涌来。赶紧给我过来Niko！",
+            "desc": ""
+        },
+        {
+            "hash": 4143537080,
+            "original": "~z~The Peg won't take kindly to being left behind.",
+            "translated": "~z~你如果把老大留在后面，他会很不高兴的。",
+            "desc": ""
+        },
+        {
+            "hash": 4162994393,
+            "original": "J1_XB",
+            "translated": "J1_XB",
+            "desc": ""
+        },
+        {
+            "hash": 4215164552,
+            "original": "~z~You're losing them.",
+            "translated": "~z~你要跟丢了。",
+            "desc": ""
+        },
+        {
+            "hash": 4272746962,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4292919470,
+            "original": "~z~I ain't leaving this car with these injuries.",
+            "translated": "~z~我全身是伤，才不会下车。",
+            "desc": ""
+        }
+    ]
+}

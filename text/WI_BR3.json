@@ -1,0 +1,64 @@
+{
+    "WI_BR3": [
+        {
+            "hash": 154863537,
+            "original": "~r~Brian was abandoned.~s~",
+            "translated": "~r~Brian被抛弃了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 678348288,
+            "original": "You left ~b~Brian~s~ behind.",
+            "translated": "你把~b~Brian~s~落在后面了。",
+            "desc": ""
+        },
+        {
+            "hash": 873913704,
+            "original": "Get a vehicle.",
+            "translated": "找一辆载具。",
+            "desc": ""
+        },
+        {
+            "hash": 913498656,
+            "original": "Pick ~b~Brian~s~ up.",
+            "translated": "接上~b~Brian~s~。",
+            "desc": ""
+        },
+        {
+            "hash": 1065280271,
+            "original": "~r~The deal was disrupted by police presence.~s~",
+            "translated": "~r~交易因警察在场而终止。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1647458722,
+            "original": "Take out the ~r~dealers~s~ attacking Brian.",
+            "translated": "干掉正在攻击Brian的~r~毒贩。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1969835747,
+            "original": "Take Brian ~y~home~s~.",
+            "translated": "送Brian~y~回家~s~。",
+            "desc": ""
+        },
+        {
+            "hash": 2111697145,
+            "original": "Lose your wanted level.",
+            "translated": "摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 3019660597,
+            "original": "~r~The deal was disrupted.~s~",
+            "translated": "~r~交易被迫终止。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3598950955,
+            "original": "Take Brian to his ~y~dealer.",
+            "translated": "带Brian去找~y~毒贩。",
+            "desc": ""
+        }
+    ]
+}

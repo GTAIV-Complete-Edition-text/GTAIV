@@ -1,0 +1,934 @@
+{
+    "FCPC2AU": [
+        {
+            "hash": 3522325,
+            "original": "FCPC2_FATHER_EM",
+            "translated": "FCPC2_FATHER_EM",
+            "desc": ""
+        },
+        {
+            "hash": 163983472,
+            "original": "~z~I know you talk about this bad shit that happened to you, but I think you can get over it, you know.",
+            "translated": "~z~我知道你会讲这些过去的狗屎遭遇，但我觉得你能克服它，你也知道。",
+            "desc": ""
+        },
+        {
+            "hash": 187818492,
+            "original": "~z~I was kept home from school so I could roll joints for my dad. Soon I had different goals.",
+            "translated": "~z~我被关在家里去不了学校，替我爸卷烟。然后我就有了别的目标。",
+            "desc": ""
+        },
+        {
+            "hash": 243468471,
+            "original": "FCPC2_SHAME_CM",
+            "translated": "FCPC2_SHAME_CM",
+            "desc": ""
+        },
+        {
+            "hash": 258730544,
+            "original": "FCPC2_SCHOOL_DA",
+            "translated": "FCPC2_SCHOOL_DA",
+            "desc": ""
+        },
+        {
+            "hash": 312540266,
+            "original": "~z~then he killed himself - nobody speaks much about it...",
+            "translated": "~z~然后就自杀了，很少有人会提起这回事...",
+            "desc": ""
+        },
+        {
+            "hash": 398165699,
+            "original": "~z~I used to think maybe Gerry had killed him, but I think he killed himself...",
+            "translated": "~z~我也想过会不会是Gerry杀了他，但我想应该是自杀的...",
+            "desc": ""
+        },
+        {
+            "hash": 410196672,
+            "original": "100010100010010100010100010100100010100100100100",
+            "translated": "100010100010010100010100010100100010100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 448270679,
+            "original": "~z~Packie, man. How's it going? How is your mother?",
+            "translated": "~z~Packie，兄弟。近况如何？你母亲还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 481776827,
+            "original": "FCPC2_NIKO_AG",
+            "translated": "FCPC2_NIKO_AG",
+            "desc": ""
+        },
+        {
+            "hash": 485877122,
+            "original": "FCPC2_FATHER_EJ",
+            "translated": "FCPC2_FATHER_EJ",
+            "desc": ""
+        },
+        {
+            "hash": 500783254,
+            "original": "~z~You're a survivor.",
+            "translated": "~z~你是个生存者。",
+            "desc": ""
+        },
+        {
+            "hash": 507907176,
+            "original": "FCPC2_SCHOOL_DE",
+            "translated": "FCPC2_SCHOOL_DE",
+            "desc": ""
+        },
+        {
+            "hash": 509105825,
+            "original": "FCPC2_NIKO_AD",
+            "translated": "FCPC2_NIKO_AD",
+            "desc": ""
+        },
+        {
+            "hash": 558444372,
+            "original": "~z~She seems more sane than the rest of you.",
+            "translated": "~z~她似乎比你们其他人都正常。",
+            "desc": ""
+        },
+        {
+            "hash": 564359397,
+            "original": "FCPC2_FATHER_EI",
+            "translated": "FCPC2_FATHER_EI",
+            "desc": ""
+        },
+        {
+            "hash": 720407763,
+            "original": "FCPC2_NIKO_AM",
+            "translated": "FCPC2_NIKO_AM",
+            "desc": ""
+        },
+        {
+            "hash": 740521258,
+            "original": "~z~No one but me can see what is in my head when I try to sleep at night. No one has the dreams I do.",
+            "translated": "~z~只有我知道躺在床上时我脑海中的画面，没人能做我那样的噩梦。",
+            "desc": ""
+        },
+        {
+            "hash": 742256396,
+            "original": "FCPC2_NIKO_AR",
+            "translated": "FCPC2_NIKO_AR",
+            "desc": ""
+        },
+        {
+            "hash": 758625595,
+            "original": "FCPC2_FATHER_EH",
+            "translated": "FCPC2_FATHER_EH",
+            "desc": ""
+        },
+        {
+            "hash": 764538212,
+            "original": "~z~There are very few people in Liberty City who met me before the war.",
+            "translated": "~z~自由城里没几个人见过战前的我。",
+            "desc": ""
+        },
+        {
+            "hash": 769697308,
+            "original": "FCPC2_KATE_BF",
+            "translated": "FCPC2_KATE_BF",
+            "desc": ""
+        },
+        {
+            "hash": 778098015,
+            "original": "~z~I know, you said.",
+            "translated": "~z~我知道，你说过的。",
+            "desc": ""
+        },
+        {
+            "hash": 794446319,
+            "original": "100010100100010100100010100100010100100100100",
+            "translated": "100010100100010100100010100100010100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 797522681,
+            "original": "~z~Me mother? She's fucking dying. Has been since the day she was born as far as I can tell.",
+            "translated": "~z~我母亲？她他妈要死了。我看她一生下来就是这样了。",
+            "desc": ""
+        },
+        {
+            "hash": 798176189,
+            "original": "FCPC2_SCHOOL_DK",
+            "translated": "FCPC2_SCHOOL_DK",
+            "desc": ""
+        },
+        {
+            "hash": 842129235,
+            "original": "~z~What's the problem?",
+            "translated": "~z~有什么问题吗？",
+            "desc": ""
+        },
+        {
+            "hash": 886298217,
+            "original": "~z~Yes, she is.",
+            "translated": "~z~对，是这样。",
+            "desc": ""
+        },
+        {
+            "hash": 968013892,
+            "original": "FCPC2_KATE_BA",
+            "translated": "FCPC2_KATE_BA",
+            "desc": ""
+        },
+        {
+            "hash": 993021628,
+            "original": "FCPC2_FATHER_ED",
+            "translated": "FCPC2_FATHER_ED",
+            "desc": ""
+        },
+        {
+            "hash": 1081077156,
+            "original": "FCPC2_SHAME_CG",
+            "translated": "FCPC2_SHAME_CG",
+            "desc": ""
+        },
+        {
+            "hash": 1154733379,
+            "original": "~z~Fucking stupid world though, isn't it?",
+            "translated": "~z~这个傻逼世道啊，不是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1178115769,
+            "original": "~z~Is very rare to find one word that can sum up a feeling you have.",
+            "translated": "~z~很难找到一个词来概括你的这种感觉。",
+            "desc": ""
+        },
+        {
+            "hash": 1206532354,
+            "original": "FCPC2_KATE_BI",
+            "translated": "FCPC2_KATE_BI",
+            "desc": ""
+        },
+        {
+            "hash": 1273515723,
+            "original": "FCPC2_SCHOOL_DN",
+            "translated": "FCPC2_SCHOOL_DN",
+            "desc": ""
+        },
+        {
+            "hash": 1385730857,
+            "original": "FCPC2_SHAME_CF",
+            "translated": "FCPC2_SHAME_CF",
+            "desc": ""
+        },
+        {
+            "hash": 1387584036,
+            "original": "FCPC2_SCHOOL_DL",
+            "translated": "FCPC2_SCHOOL_DL",
+            "desc": ""
+        },
+        {
+            "hash": 1416885891,
+            "original": "FCPC2_SCHOOL_DC",
+            "translated": "FCPC2_SCHOOL_DC",
+            "desc": ""
+        },
+        {
+            "hash": 1439789673,
+            "original": "FCPC2_KATE_BC",
+            "translated": "FCPC2_KATE_BC",
+            "desc": ""
+        },
+        {
+            "hash": 1486003686,
+            "original": "~z~Look what goes on or went on between you two is your business... I don't want to know.",
+            "translated": "~z~听着，你们俩怎么样是你们的事...我不想知道。",
+            "desc": ""
+        },
+        {
+            "hash": 1491679365,
+            "original": "FCPC2_SCHOOL_DO",
+            "translated": "FCPC2_SCHOOL_DO",
+            "desc": ""
+        },
+        {
+            "hash": 1555238601,
+            "original": "~z~It ain't too late for you to get out of here, Packie. It ain't too late until you're dead.",
+            "translated": "~z~现在离开这儿还不算太晚，Packie。在你死前都不算晚。",
+            "desc": ""
+        },
+        {
+            "hash": 1646135428,
+            "original": "FCPC2_FATHER_EL",
+            "translated": "FCPC2_FATHER_EL",
+            "desc": ""
+        },
+        {
+            "hash": 1679530874,
+            "original": "FCPC2_SCHOOL_DF",
+            "translated": "FCPC2_SCHOOL_DF",
+            "desc": ""
+        },
+        {
+            "hash": 1706010437,
+            "original": "~z~The shame of her children. I don't think I have to spell that one out to you, do I?",
+            "translated": "~z~她孩子的耻辱。我想没必要我逐字逐句再说一遍吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1728527055,
+            "original": "~z~I just wish she'd sort her head out - learn to enjoy herself a little bit more.",
+            "translated": "~z~我只是希望她能换个脑子，学会多享点乐。",
+            "desc": ""
+        },
+        {
+            "hash": 1746724873,
+            "original": "FCPC2_NIKO_AC",
+            "translated": "FCPC2_NIKO_AC",
+            "desc": ""
+        },
+        {
+            "hash": 1754015843,
+            "original": "~z~Fuck. I never told anyone that before.",
+            "translated": "~z~操。之前我没跟任何人说过这事。",
+            "desc": ""
+        },
+        {
+            "hash": 1754745885,
+            "original": "~z~Very funny. I mean, I never paid any attention at school.",
+            "translated": "~z~真好笑。我是说，我在学校就没认真学过。",
+            "desc": ""
+        },
+        {
+            "hash": 1786292820,
+            "original": "~z~Beaches, hot chicks, fucking who knows what else. I woulda liked it here. I could have been okay.",
+            "translated": "~z~沙滩、美女，还有不知道他妈什么玩意。我会喜欢那儿的，我可以好好过的。",
+            "desc": ""
+        },
+        {
+            "hash": 1804491960,
+            "original": "FCPC2_SHAME_CJ",
+            "translated": "FCPC2_SHAME_CJ",
+            "desc": ""
+        },
+        {
+            "hash": 1810842783,
+            "original": "~z~Same shit. Well, Kate's being a bit odd, but you know about her.",
+            "translated": "~z~老样子。Kate最近有点怪，但你也了解她。",
+            "desc": ""
+        },
+        {
+            "hash": 1835118652,
+            "original": "FCPC2_NIKO_AI",
+            "translated": "FCPC2_NIKO_AI",
+            "desc": ""
+        },
+        {
+            "hash": 1869687417,
+            "original": "~z~When your family are drunks and killers, you don't really get all the moral discipline you might hope for.",
+            "translated": "~z~如果你的家人不是酒鬼就是杀手，你是不会有什么道德准则的。",
+            "desc": ""
+        },
+        {
+            "hash": 1905452608,
+            "original": "FCPC2_SCHOOL_DJ",
+            "translated": "FCPC2_SCHOOL_DJ",
+            "desc": ""
+        },
+        {
+            "hash": 1944746524,
+            "original": "~z~In my language, in English.",
+            "translated": "~z~无论是我的母语，还是英语。",
+            "desc": ""
+        },
+        {
+            "hash": 1946848666,
+            "original": "FCPC2_KATE_BH",
+            "translated": "FCPC2_KATE_BH",
+            "desc": ""
+        },
+        {
+            "hash": 2001025024,
+            "original": "FCPC2_KATE_BE",
+            "translated": "FCPC2_KATE_BE",
+            "desc": ""
+        },
+        {
+            "hash": 2004156721,
+            "original": "~z~You could be fucking right.",
+            "translated": "~z~你说的有点道理。",
+            "desc": ""
+        },
+        {
+            "hash": 2026849793,
+            "original": "FCPC2_SCHOOL_DH",
+            "translated": "FCPC2_SCHOOL_DH",
+            "desc": ""
+        },
+        {
+            "hash": 2032650162,
+            "original": "~z~Of course she was gonna go wrong. They coulda ended up in Australia.",
+            "translated": "~z~那她当然会走上歧途。他们完全可以在澳大利亚生活的。",
+            "desc": ""
+        },
+        {
+            "hash": 2046212307,
+            "original": "~z~Looks can be deceiving. She can't enjoy herself. No sense of joy.",
+            "translated": "~z~外表是会骗人的。她不会享受自己。没有幸福感。",
+            "desc": ""
+        },
+        {
+            "hash": 2065175310,
+            "original": "~z~Were you and Roman always close? Back home I mean.",
+            "translated": "~z~你和Roman一直都那么合得来吗？在老家的时候。",
+            "desc": ""
+        },
+        {
+            "hash": 2068762088,
+            "original": "~z~I think that's what really destroyed the family - the old man was a sick pervert.",
+            "translated": "~z~我想毁灭家族的症结在这儿，那老家伙是个死变态。",
+            "desc": ""
+        },
+        {
+            "hash": 2089633237,
+            "original": "FCPC2_SCHOOL_DG",
+            "translated": "FCPC2_SCHOOL_DG",
+            "desc": ""
+        },
+        {
+            "hash": 2119915676,
+            "original": "~z~Aren't we all dying from the day we are born?",
+            "translated": "~z~我们从出生那天起不都是要死的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2140952191,
+            "original": "FCPC2_FATHER_EA",
+            "translated": "FCPC2_FATHER_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2192685236,
+            "original": "FCPC2_NIKO_AO",
+            "translated": "FCPC2_NIKO_AO",
+            "desc": ""
+        },
+        {
+            "hash": 2231689556,
+            "original": "~z~Damn this is all so embarrassing - why did I tell you that?",
+            "translated": "~z~操蛋，这都太他妈羞耻了，我跟你说这些干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 2247033978,
+            "original": "~z~Good. I also enjoy our friendship.",
+            "translated": "~z~好，我也很享受我们的友谊。",
+            "desc": ""
+        },
+        {
+            "hash": 2296020597,
+            "original": "~z~What I do know is she's good girl.",
+            "translated": "~z~我只知道她是个好女孩。",
+            "desc": ""
+        },
+        {
+            "hash": 2299176028,
+            "original": "~z~Is very rare to find the word that says it all. I think is best to say nothing.",
+            "translated": "~z~都很难一言蔽之。我想什么都不说是最好的。",
+            "desc": ""
+        },
+        {
+            "hash": 2304170005,
+            "original": "FCPC2_FATHER_EK",
+            "translated": "FCPC2_FATHER_EK",
+            "desc": ""
+        },
+        {
+            "hash": 2305953238,
+            "original": "~z~Why?",
+            "translated": "~z~为什么？",
+            "desc": ""
+        },
+        {
+            "hash": 2325242505,
+            "original": "FCPC2_NIKO_AH",
+            "translated": "FCPC2_NIKO_AH",
+            "desc": ""
+        },
+        {
+            "hash": 2377254952,
+            "original": "~z~So, what's up, Niko?",
+            "translated": "~z~那，怎么样，Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 2394876482,
+            "original": "100010100010100100010100010100100100",
+            "translated": "100010100010100100010100010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2411259087,
+            "original": "010100010100100010100100100100100010100",
+            "translated": "010100010100100010100100100100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 2418605111,
+            "original": "~z~Me mother in particular. I think it's the shame. The shame of her marriage to a drunken pervert.",
+            "translated": "~z~我母亲她特别严重。我觉得这很耻辱。她嫁给一个变态酒鬼就是耻辱。",
+            "desc": ""
+        },
+        {
+            "hash": 2459462990,
+            "original": "FCPC2_KATE_BD",
+            "translated": "FCPC2_KATE_BD",
+            "desc": ""
+        },
+        {
+            "hash": 2523371322,
+            "original": "FCPC2_SHAME_CH",
+            "translated": "FCPC2_SHAME_CH",
+            "desc": ""
+        },
+        {
+            "hash": 2604124342,
+            "original": "~z~I think I'm straight but when it's late at night and I need another gram... I've thought about doing some fucked up shit, man.",
+            "translated": "~z~我觉得我是正直的，但到了深夜我就会想再抽一口...我也想过做一些狗屁破事，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2614137734,
+            "original": "~z~Came over from some bog somewhere. Pure as the driven snow.",
+            "translated": "~z~不知道从哪个茅坑里出来的，纯洁的跟吹雪一样。",
+            "desc": ""
+        },
+        {
+            "hash": 2617458361,
+            "original": "FCPC2_SHAME_CK",
+            "translated": "FCPC2_SHAME_CK",
+            "desc": ""
+        },
+        {
+            "hash": 2655693145,
+            "original": "~z~Yes.",
+            "translated": "~z~确实。",
+            "desc": ""
+        },
+        {
+            "hash": 2662193721,
+            "original": "~z~He was the smart one, I was the active one.",
+            "translated": "~z~他聪明，我实干。",
+            "desc": ""
+        },
+        {
+            "hash": 2665421224,
+            "original": "FCPC2_FATHER_EG",
+            "translated": "FCPC2_FATHER_EG",
+            "desc": ""
+        },
+        {
+            "hash": 2675414109,
+            "original": "~z~I'll try to remember that.",
+            "translated": "~z~我会记住的。",
+            "desc": ""
+        },
+        {
+            "hash": 2680404003,
+            "original": "~z~You cool, Niko?",
+            "translated": "~z~你好吗，Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 2699532537,
+            "original": "~z~Sorry.",
+            "translated": "~z~抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 2729873655,
+            "original": "~z~My father used to beat us, to provide discipline.",
+            "translated": "~z~我父亲以前会打我们，为了做规矩。",
+            "desc": ""
+        },
+        {
+            "hash": 2745895995,
+            "original": "~z~but by retarding myself on drink and drugs every day until I can't for the life of me remember why I'm miserable.",
+            "translated": "~z~不过是每天靠酒和毒品麻木自己，直到我完全忘记痛苦的那天。",
+            "desc": ""
+        },
+        {
+            "hash": 2770099883,
+            "original": "FCPC2_NIKO_AQ",
+            "translated": "FCPC2_NIKO_AQ",
+            "desc": ""
+        },
+        {
+            "hash": 2782643881,
+            "original": "~z~Because I don't know... because all I fucking do is cause trouble and then drink and do drugs.",
+            "translated": "~z~因为我不知道...因为我他妈只会惹事喝酒加吸毒。",
+            "desc": ""
+        },
+        {
+            "hash": 2792827384,
+            "original": "FCPC2_FATHER_EF",
+            "translated": "FCPC2_FATHER_EF",
+            "desc": ""
+        },
+        {
+            "hash": 2859043179,
+            "original": "FCPC2_NIKO_AS",
+            "translated": "FCPC2_NIKO_AS",
+            "desc": ""
+        },
+        {
+            "hash": 2901568555,
+            "original": "~z~At least you know yourself, man. Fuck, I don't know what I am. An Irishman, an American.",
+            "translated": "~z~你至少还了解自己，兄弟。操蛋，我都不知道自己是什么。是爱尔兰人？是美国人？",
+            "desc": ""
+        },
+        {
+            "hash": 2911228839,
+            "original": "~z~Yes, not bad, you know.",
+            "translated": "~z~挺好，还不错，你也知道。",
+            "desc": ""
+        },
+        {
+            "hash": 2942483114,
+            "original": "~z~Ended up in fucking Liberty City - the centre of sin on Earth.",
+            "translated": "~z~最后了结在自由城，地球上罪恶的聚集地。",
+            "desc": ""
+        },
+        {
+            "hash": 2949350209,
+            "original": "FCPC2_SHAME_CI",
+            "translated": "FCPC2_SHAME_CI",
+            "desc": ""
+        },
+        {
+            "hash": 2984814774,
+            "original": "~z~I'm a lunatic, but at least I know how to enjoy myself...",
+            "translated": "~z~我虽然疯，但也知道怎么享受生活...",
+            "desc": ""
+        },
+        {
+            "hash": 2987529852,
+            "original": "FCPC2_NIKO_AP",
+            "translated": "FCPC2_NIKO_AP",
+            "desc": ""
+        },
+        {
+            "hash": 3049916529,
+            "original": "~z~I stuck around and life didn't go so good from there in.",
+            "translated": "~z~我没有走，从此日子过得不大好。",
+            "desc": ""
+        },
+        {
+            "hash": 3052976503,
+            "original": "FCPC2_SHAME_CB",
+            "translated": "FCPC2_SHAME_CB",
+            "desc": ""
+        },
+        {
+            "hash": 3059269039,
+            "original": "FCPC2_SHAME_CE",
+            "translated": "FCPC2_SHAME_CE",
+            "desc": ""
+        },
+        {
+            "hash": 3060222131,
+            "original": "~z~Yeah, nobody's perfect.",
+            "translated": "~z~确实，人无完人。",
+            "desc": ""
+        },
+        {
+            "hash": 3071863075,
+            "original": "~z~Because life is shit. Or my life is shit.",
+            "translated": "~z~因为生活是坨屎。或者我的生活是坨屎。",
+            "desc": ""
+        },
+        {
+            "hash": 3124869800,
+            "original": "FCPC2_KATE_BB",
+            "translated": "FCPC2_KATE_BB",
+            "desc": ""
+        },
+        {
+            "hash": 3144494095,
+            "original": "100010010010010100100100010010010100100100100010010010100",
+            "translated": "100010010010010100100100010010010100100100100010010010100",
+            "desc": ""
+        },
+        {
+            "hash": 3158417271,
+            "original": "FCPC2_KATE_BG",
+            "translated": "FCPC2_KATE_BG",
+            "desc": ""
+        },
+        {
+            "hash": 3173929350,
+            "original": "~z~I didn't say everything. He molested Gerry and me -",
+            "translated": "~z~但我没全说。他猥亵了Gerry和我，",
+            "desc": ""
+        },
+        {
+            "hash": 3220171939,
+            "original": "~z~I don't know. Not much. What's up with you and the family?",
+            "translated": "~z~不知道，没怎么样。你和你的家人怎么样？",
+            "desc": ""
+        },
+        {
+            "hash": 3253638687,
+            "original": "~z~Some people call this shit Catholic guilt. I reckon it's just confusion.",
+            "translated": "~z~有人管这叫天主教徒之罪。我管这叫困惑。",
+            "desc": ""
+        },
+        {
+            "hash": 3270302431,
+            "original": "FCPC2_FATHER_EC",
+            "translated": "FCPC2_FATHER_EC",
+            "desc": ""
+        },
+        {
+            "hash": 3286632621,
+            "original": "FCPC2_SCHOOL_DI",
+            "translated": "FCPC2_SCHOOL_DI",
+            "desc": ""
+        },
+        {
+            "hash": 3304400468,
+            "original": "FCPC2_NIKO_AF",
+            "translated": "FCPC2_NIKO_AF",
+            "desc": ""
+        },
+        {
+            "hash": 3331269324,
+            "original": "FCPC2_NIKO_AB",
+            "translated": "FCPC2_NIKO_AB",
+            "desc": ""
+        },
+        {
+            "hash": 3355757972,
+            "original": "FCPC2_FATHER_EN",
+            "translated": "FCPC2_FATHER_EN",
+            "desc": ""
+        },
+        {
+            "hash": 3376737902,
+            "original": "~z~I blame her parents. They were first generation, you know.",
+            "translated": "~z~我责备她的父母。他们是第一代，懂吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3376996691,
+            "original": "FCPC2_SCHOOL_DB",
+            "translated": "FCPC2_SCHOOL_DB",
+            "desc": ""
+        },
+        {
+            "hash": 3419197873,
+            "original": "FCPC2_NIKO_AJ",
+            "translated": "FCPC2_NIKO_AJ",
+            "desc": ""
+        },
+        {
+            "hash": 3434064801,
+            "original": "~z~My family's just as confused. Are we gangsters or cops? Drunkards or priests?",
+            "translated": "~z~我的家庭也很令人困惑。我们是黑道还是警察？酒鬼还是神父？",
+            "desc": ""
+        },
+        {
+            "hash": 3461584792,
+            "original": "~z~I've been rucking and getting fucked up for fifteen years. Is this what I was put on the fucking earth for?",
+            "translated": "~z~我已经打架乱搞了十五年了。我生出来真的是为了这些吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3465899844,
+            "original": "FCPC2_SCHOOL_DM",
+            "translated": "FCPC2_SCHOOL_DM",
+            "desc": ""
+        },
+        {
+            "hash": 3473977455,
+            "original": "FCPC2_NIKO_AA",
+            "translated": "FCPC2_NIKO_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3505372860,
+            "original": "~z~Yeah, we always were. Close but different. A good team.",
+            "translated": "~z~对，是这样的。和而不同，是对好搭档。",
+            "desc": ""
+        },
+        {
+            "hash": 3509472492,
+            "original": "FCPC2_FATHER_EO",
+            "translated": "FCPC2_FATHER_EO",
+            "desc": ""
+        },
+        {
+            "hash": 3565778076,
+            "original": "~z~My father was a long way from a saint... I wanted to be an artist.",
+            "translated": "~z~我父亲根本谈不上是好人...我本想当个画家。",
+            "desc": ""
+        },
+        {
+            "hash": 3569349009,
+            "original": "FCPC2_SCHOOL_DD",
+            "translated": "FCPC2_SCHOOL_DD",
+            "desc": ""
+        },
+        {
+            "hash": 3618701559,
+            "original": "FCPC2_FATHER_EB",
+            "translated": "FCPC2_FATHER_EB",
+            "desc": ""
+        },
+        {
+            "hash": 3623135364,
+            "original": "~z~Sorry about the troubles your family experienced. Really I am.",
+            "translated": "~z~对你家族遇上的麻烦我很抱歉。真的。",
+            "desc": ""
+        },
+        {
+            "hash": 3654921298,
+            "original": "~z~No problem.",
+            "translated": "~z~没事。",
+            "desc": ""
+        },
+        {
+            "hash": 3655614502,
+            "original": "FCPC2_SHAME_CL",
+            "translated": "FCPC2_SHAME_CL",
+            "desc": ""
+        },
+        {
+            "hash": 3749218954,
+            "original": "~z~I could draw really well. It wasn't exactly encouraged.",
+            "translated": "~z~我画得很好。但是不被家里支持。",
+            "desc": ""
+        },
+        {
+            "hash": 3751393828,
+            "original": "~z~I'm bored.",
+            "translated": "~z~我厌倦了。",
+            "desc": ""
+        },
+        {
+            "hash": 3755087177,
+            "original": "FCPC2_FATHER_EE",
+            "translated": "FCPC2_FATHER_EE",
+            "desc": ""
+        },
+        {
+            "hash": 3804672858,
+            "original": "FCPC2_FATHER_EP",
+            "translated": "FCPC2_FATHER_EP",
+            "desc": ""
+        },
+        {
+            "hash": 3826499782,
+            "original": "~z~It's always been weird. It's my dad's fault. He was an asshole.",
+            "translated": "~z~一直都很奇怪。都是我爸的错，他就是个混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 3878264344,
+            "original": "FCPC2_SHAME_CD",
+            "translated": "FCPC2_SHAME_CD",
+            "desc": ""
+        },
+        {
+            "hash": 3893619972,
+            "original": "~z~That's probably why he got out of there when things got bad.",
+            "translated": "~z~可能因此他才会在情况不对的时候就离开那儿。",
+            "desc": ""
+        },
+        {
+            "hash": 3930803505,
+            "original": "~z~Thank you.",
+            "translated": "~z~谢谢你。",
+            "desc": ""
+        },
+        {
+            "hash": 3937062982,
+            "original": "~z~I'm bored man.",
+            "translated": "~z~我厌倦了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3999017805,
+            "original": "FCPC2_SHAME_CC",
+            "translated": "FCPC2_SHAME_CC",
+            "desc": ""
+        },
+        {
+            "hash": 4096031650,
+            "original": "FCPC2_KATE_BL",
+            "translated": "FCPC2_KATE_BL",
+            "desc": ""
+        },
+        {
+            "hash": 4101569323,
+            "original": "FCPC2_KATE_BK",
+            "translated": "FCPC2_KATE_BK",
+            "desc": ""
+        },
+        {
+            "hash": 4106101075,
+            "original": "FCPC2_NIKO_AL",
+            "translated": "FCPC2_NIKO_AL",
+            "desc": ""
+        },
+        {
+            "hash": 4155664383,
+            "original": "~z~I enjoy talking to you, man. Enjoy hanging out, after all the craziness, recently and a long time ago.",
+            "translated": "~z~我很喜欢和你聊天，兄弟。很喜欢一起出来，在这些疯狂过后，无论是最近的还是很久以前的。",
+            "desc": ""
+        },
+        {
+            "hash": 4163338896,
+            "original": "~z~And you only know this Niko, the one here in Liberty City.",
+            "translated": "~z~而你只认识这个Niko，在自由城的这个。",
+            "desc": ""
+        },
+        {
+            "hash": 4174449267,
+            "original": "FCPC2_NIKO_AE",
+            "translated": "FCPC2_NIKO_AE",
+            "desc": ""
+        },
+        {
+            "hash": 4203104865,
+            "original": "FCPC2_SHAME_CA",
+            "translated": "FCPC2_SHAME_CA",
+            "desc": ""
+        },
+        {
+            "hash": 4229002003,
+            "original": "~z~I hope so, because you're doing a good job of it.",
+            "translated": "~z~但愿是吧，因为你很擅长这个。",
+            "desc": ""
+        },
+        {
+            "hash": 4253325293,
+            "original": "~z~You seem like a solid guy, Niko.",
+            "translated": "~z~你好像是个坚强的人，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 4287575269,
+            "original": "FCPC2_NIKO_AN",
+            "translated": "FCPC2_NIKO_AN",
+            "desc": ""
+        },
+        {
+            "hash": 4290721921,
+            "original": "FCPC2_NIKO_AK",
+            "translated": "FCPC2_NIKO_AK",
+            "desc": ""
+        },
+        {
+            "hash": 4291268724,
+            "original": "FCPC2_KATE_BJ",
+            "translated": "FCPC2_KATE_BJ",
+            "desc": ""
+        }
+    ]
+}

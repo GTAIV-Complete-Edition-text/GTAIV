@@ -1,0 +1,304 @@
+{
+    "ROMAN2": [
+        {
+            "hash": 37859850,
+            "original": "~s~Get back into ~b~Roman's car.",
+            "translated": "~s~回到~b~Roman的车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 39279385,
+            "original": "~s~Mission Passed.",
+            "translated": "~s~任务完成",
+            "desc": ""
+        },
+        {
+            "hash": 40852158,
+            "original": "~r~The loan sharks were attacked.",
+            "translated": "~r~放高利贷的被攻击了。",
+            "desc": ""
+        },
+        {
+            "hash": 95409198,
+            "original": "~s~Press ~INPUT_PHONE_TAKE_OUT~ to bring up the phone.",
+            "translated": "~s~按~INPUT_PHONE_TAKE_OUT~拿出手机。",
+            "desc": ""
+        },
+        {
+            "hash": 176992480,
+            "original": "~s~Press ~INPUT_PHONE_ACCEPT~ to select the phonebook.",
+            "translated": "~s~按~INPUT_PHONE_ACCEPT~选择通讯录。",
+            "desc": ""
+        },
+        {
+            "hash": 310999964,
+            "original": "~s~Press ~INPUT_PHONE_ACCEPT~ to answer a call or press ~INPUT_PHONE_CANCEL~ to reject a call.",
+            "translated": "~s~按~INPUT_PHONE_ACCEPT~接听电话，按~INPUT_PHONE_CANCEL~挂断电话。",
+            "desc": ""
+        },
+        {
+            "hash": 333541521,
+            "original": "~s~Press ~INPUT_PHONE_ACCEPT~ to enter the Menu.",
+            "translated": "~s~按~INPUT_PHONE_ACCEPT~进入菜单。",
+            "desc": ""
+        },
+        {
+            "hash": 352156485,
+            "original": "~s~Hold ~INPUT_VEH_LOOK_BEHIND~ to look behind. Releasing ~INPUT_VEH_LOOK_BEHIND~ resets the camera to its default position.",
+            "translated": "~s~按住~INPUT_VEH_LOOK_BEHIND~观察后方。松开~INPUT_VEH_LOOK_BEHIND~后镜头会恢复到初始位置。",
+            "desc": ""
+        },
+        {
+            "hash": 422830062,
+            "original": "~s~Remain stationary in the car and look out for the loan sharks.",
+            "translated": "~s~待在车里，留意放高利贷的。",
+            "desc": ""
+        },
+        {
+            "hash": 424577144,
+            "original": "~r~The entrance to the gambling den was blocked.",
+            "translated": "~r~赌场的入口被堵上了。",
+            "desc": ""
+        },
+        {
+            "hash": 558886872,
+            "original": "~s~Get into ~b~Roman's car.",
+            "translated": "~s~进入~b~Roman的车。",
+            "desc": ""
+        },
+        {
+            "hash": 587395980,
+            "original": "~s~Wait outside the ~y~gambling den.",
+            "translated": "~s~在~y~赌场~s~外面等着。",
+            "desc": ""
+        },
+        {
+            "hash": 1026135577,
+            "original": "~s~To exit manual dial highlight the red phone icon and press ~INPUT_PHONE_ACCEPT~.",
+            "translated": "~s~将光标移至红色电话图标后，按~INPUT_PHONE_ACCEPT~可退出拨号键盘。",
+            "desc": ""
+        },
+        {
+            "hash": 1182972551,
+            "original": "~s~Take Roman back to the ~y~cab depot.",
+            "translated": "~s~送Roman回~y~车行。",
+            "desc": ""
+        },
+        {
+            "hash": 1275686381,
+            "original": "~r~You left Roman behind.",
+            "translated": "~r~你抛弃了Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 1341635509,
+            "original": "~s~At the end of a call the phone is automatically put away.",
+            "translated": "~s~通话结束后手机会自动收起。",
+            "desc": ""
+        },
+        {
+            "hash": 1343147423,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1506992423,
+            "original": "~s~Evade the ~r~loan sharks.",
+            "translated": "~s~躲避~r~放高利贷的。",
+            "desc": ""
+        },
+        {
+            "hash": 1546834987,
+            "original": "~s~Press ~INPUT_PHONE_ACCEPT~ to access the menu.",
+            "translated": "~s~按~INPUT_PHONE_ACCEPT~进入菜单。",
+            "desc": ""
+        },
+        {
+            "hash": 1823158068,
+            "original": "~r~Mission Failed.",
+            "translated": "~r~任务失败",
+            "desc": ""
+        },
+        {
+            "hash": 1853421751,
+            "original": "~s~Press ~INPUT_PHONE_TAKE_OUT~ to bring up the phone.",
+            "translated": "~s~按~INPUT_PHONE_TAKE_OUT~拿出手机。",
+            "desc": ""
+        },
+        {
+            "hash": 1960281460,
+            "original": "~s~Use ~INPUT_KB_UP~ and ~INPUT_KB_DOWN~ to scroll through your friends and contacts.",
+            "translated": "~s~使用~INPUT_KB_UP~和~INPUT_KB_DOWN~浏览你的朋友和联系人。",
+            "desc": ""
+        },
+        {
+            "hash": 2034741718,
+            "original": "~s~Here come the loan sharks.",
+            "translated": "~s~放高利贷的来了。",
+            "desc": ""
+        },
+        {
+            "hash": 2102765612,
+            "original": "~s~Do ~h~not~s~ attack the loan sharks.",
+            "translated": "~s~~h~不要~s~攻击放高利贷的。",
+            "desc": ""
+        },
+        {
+            "hash": 2197019589,
+            "original": "~r~Roman is dead.",
+            "translated": "~r~Roman死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2418406953,
+            "original": "~r~Roman's car has been trashed.",
+            "translated": "~r~Roman的车坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 2532148330,
+            "original": "~s~Your phone is ringing.",
+            "translated": "~s~你的手机响了。",
+            "desc": ""
+        },
+        {
+            "hash": 2709106962,
+            "original": "~s~The icon above the radar tells you when a contact has been added to your phone.",
+            "translated": "~s~小地图上的这个图标会在有新联系人添加到你的通讯录时出现。",
+            "desc": ""
+        },
+        {
+            "hash": 2735104465,
+            "original": "~s~Press ~INPUT_PHONE_ACCEPT~ to call Roman.",
+            "translated": "~s~按~INPUT_PHONE_ACCEPT~呼叫Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 2769821883,
+            "original": "~s~Press ~INPUT_PHONE_CANCEL~ to hang up during a phone call.",
+            "translated": "~s~按~INPUT_PHONE_CANCEL~可在通话时挂断电话。",
+            "desc": ""
+        },
+        {
+            "hash": 2782431991,
+            "original": "~s~When in a car use ~PAD_RSTICK_ALL~ to look around.",
+            "translated": "~s~在车内时可用~PAD_RSTICK_ALL~环顾四周。",
+            "desc": ""
+        },
+        {
+            "hash": 3022470699,
+            "original": "~r~Mission Failed.",
+            "translated": "~r~任务失败",
+            "desc": ""
+        },
+        {
+            "hash": 3077778988,
+            "original": "~s~Red icons represent enemies.",
+            "translated": "~s~红色图标代表敌人。",
+            "desc": ""
+        },
+        {
+            "hash": 3115272507,
+            "original": "~r~You spooked the loan sharks.",
+            "translated": "~r~你惊动了放高利贷的。",
+            "desc": ""
+        },
+        {
+            "hash": 3143781711,
+            "original": "~s~During a phone call press ~INPUT_KB_DOWN~ to skip through the conversation or ~INPUT_PHONE_CANCEL~ to hang up.",
+            "translated": "~s~通话时按~INPUT_KB_DOWN~快进对话，按~INPUT_PHONE_CANCEL~挂断电话。",
+            "desc": ""
+        },
+        {
+            "hash": 3339172681,
+            "original": "You can zoom out on the radar by holding ~INPUT_ZOOM_RADAR~.",
+            "translated": "按住~INPUT_ZOOM_RADAR~可缩放小地图。",
+            "desc": ""
+        },
+        {
+            "hash": 3352651143,
+            "original": "~r~The loan sharks caught Roman.",
+            "translated": "~r~放高利贷的抓到Roman了。",
+            "desc": ""
+        },
+        {
+            "hash": 3383421408,
+            "original": "Press ~INPUT_PHONE_ACCEPT~ to answer a call.",
+            "translated": "按~INPUT_PHONE_ACCEPT~接听电话。",
+            "desc": ""
+        },
+        {
+            "hash": 3511031654,
+            "original": "~s~Lose the ~r~loan sharks~s~ and take Roman back to the ~y~cab depot.",
+            "translated": "~s~甩掉~r~放高利贷的，~s~把Roman送回~y~出租车行。",
+            "desc": ""
+        },
+        {
+            "hash": 3513587632,
+            "original": "~s~Lose the loan sharks and take Roman back to the ~y~cab depot.",
+            "translated": "~s~甩掉放高利贷的，把Roman送回~y~出租车行。",
+            "desc": ""
+        },
+        {
+            "hash": 3549025435,
+            "original": "~s~Go and see ~b~Roman.",
+            "translated": "~s~去找~b~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 3556173619,
+            "original": "Hold ~INPUT_VEH_LOOK_BEHIND~ to look behind.",
+            "translated": "按住~INPUT_VEH_LOOK_BEHIND~观察后方。",
+            "desc": ""
+        },
+        {
+            "hash": 3736988419,
+            "original": "~s~Take Roman to the ~y~gambling den.",
+            "translated": "~s~送Roman去~y~赌场。",
+            "desc": ""
+        },
+        {
+            "hash": 3744183085,
+            "original": "~s~Take Roman to the ~y~hardware store.",
+            "translated": "~s~送Roman去~y~五金店。",
+            "desc": ""
+        },
+        {
+            "hash": 3804960481,
+            "original": "~s~When in a car press ~INPUT_VEH_LOOK_LEFT~ to look left or ~INPUT_VEH_LOOK_RIGHT~ to look right.",
+            "translated": "~s~在车内时，按~INPUT_VEH_LOOK_LEFT~观察左侧，按~INPUT_VEH_LOOK_RIGHT~观察右侧。",
+            "desc": ""
+        },
+        {
+            "hash": 3930266965,
+            "original": "~s~Select Options and press ~INPUT_PHONE_ACCEPT~ .",
+            "translated": "~s~选择选项后按~INPUT_PHONE_ACCEPT~。",
+            "desc": ""
+        },
+        {
+            "hash": 4040850812,
+            "original": "~s~Phone Roman and warn him.",
+            "translated": "~s~呼叫Roman通知他。",
+            "desc": ""
+        },
+        {
+            "hash": 4048270306,
+            "original": "~s~Press ~INPUT_VEH_LOOK_LEFT~ and ~INPUT_VEH_LOOK_RIGHT~ simultaneously to look behind.",
+            "translated": "~s~同时按下~INPUT_VEH_LOOK_LEFT~和~INPUT_VEH_LOOK_RIGHT~会观察后方。",
+            "desc": ""
+        },
+        {
+            "hash": 4181106676,
+            "original": "~s~Wait for ~b~Roman.",
+            "translated": "~s~等待~b~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 4188245774,
+            "original": "~s~This is the ~h~phonebook,~s~ your friends and contacts will be listed here.",
+            "translated": "~s~这是~h~通讯录，~s~你的朋友和联系人会在这里列出。",
+            "desc": ""
+        }
+    ]
+}

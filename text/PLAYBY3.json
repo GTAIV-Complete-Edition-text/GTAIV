@@ -1,0 +1,130 @@
+{
+    "PLAYBY3": [
+        {
+            "hash": 413538847,
+            "original": "~s~Backup has arrived to protect the last ~r~leader.~s~ Take him down.",
+            "translated": "~s~已有增援前来保护最后一个~r~领袖。~s~解决他。",
+            "desc": ""
+        },
+        {
+            "hash": 688700140,
+            "original": "~s~Go to the construction site and find the first ~r~Union leader.",
+            "translated": "~s~前往建筑工地，找到第一个~r~工会领袖。",
+            "desc": ""
+        },
+        {
+            "hash": 919262824,
+            "original": "~s~Take out the ~r~lookouts.",
+            "translated": "~s~干掉~r~哨卫。",
+            "desc": ""
+        },
+        {
+            "hash": 971070389,
+            "original": "~s~You've been spotted. Get to the ~r~first leader~s~ and take him out.",
+            "translated": "~s~你被发现了。找到~r~第一个领袖，~s~做掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 1366133705,
+            "original": "~s~Use the sniper rifle to take them out.",
+            "translated": "~s~用狙击步枪解决他们。",
+            "desc": ""
+        },
+        {
+            "hash": 1553741562,
+            "original": "~s~Go to the ~g~car~s~ in the alley downtown.",
+            "translated": "~s~进入停在市中心小巷的~g~车。",
+            "desc": ""
+        },
+        {
+            "hash": 1622813282,
+            "original": "~s~Playboy has left the weapons in a ~g~car~s~ in an alley downtown.",
+            "translated": "~s~Playboy在市中心的小巷的~g~车~s~里放了武器。",
+            "desc": ""
+        },
+        {
+            "hash": 1719071448,
+            "original": "~r~The car holding the weapons has been destroyed.",
+            "translated": "~r~放有武器的车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 1862551286,
+            "original": "~s~Get in the ~g~car~s~ to retrieve weapons.",
+            "translated": "~s~上~g~车~s~拿取武器。",
+            "desc": ""
+        },
+        {
+            "hash": 1938656533,
+            "original": "~r~Playboy was abandoned.",
+            "translated": "~r~Playboy被抛弃了。",
+            "desc": ""
+        },
+        {
+            "hash": 2037178390,
+            "original": "~s~To throw a grenade, free aim or lock on to a target then press ~INPUT_ATTACK~ to pull the pin. Release ~INPUT_ATTACK~ to throw the grenade.",
+            "translated": "~s~要投掷手雷，自由瞄准或锁定一个目标，然后按~INPUT_ATTACK~拉环，松开~INPUT_ATTACK~掷出手雷。",
+            "desc": ""
+        },
+        {
+            "hash": 2227318654,
+            "original": "~r~The last Union leader got away.",
+            "translated": "~r~最后一个工会领袖逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 2318826842,
+            "original": "~s~Strike out the ~r~Union leaders.",
+            "translated": "~s~解决所有~r~工会领袖。",
+            "desc": ""
+        },
+        {
+            "hash": 2325223794,
+            "original": "~s~You left ~b~Playboy~s~ behind.",
+            "translated": "~s~你落下了~b~Playboy。",
+            "desc": ""
+        },
+        {
+            "hash": 2370570905,
+            "original": "~s~To throw a grenade, aim at a target then press ~INPUT_ATTACK~ to pull the pin. Release ~INPUT_ATTACK~ to throw the grenade.",
+            "translated": "~s~要投掷手雷，瞄准目标后按~INPUT_ATTACK~拉环，松开~INPUT_ATTACK~掷出手雷。",
+            "desc": ""
+        },
+        {
+            "hash": 2511475793,
+            "original": "~s~You'll see better from a good vantage point.",
+            "translated": "~s~有利位置的视野会更好。",
+            "desc": ""
+        },
+        {
+            "hash": 2772758659,
+            "original": "~r~Playboy is dead.",
+            "translated": "~r~Playboy死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2886485276,
+            "original": "~s~When not aiming press then release ~INPUT_ATTACK~ to drop a grenade.",
+            "translated": "~s~未进行瞄准时，按下~INPUT_ATTACK~后松开可原地扔雷。",
+            "desc": ""
+        },
+        {
+            "hash": 3273649964,
+            "original": "~s~There are lookouts on 3 of the cranes.",
+            "translated": "~s~三台起重机上有哨卫在。",
+            "desc": ""
+        },
+        {
+            "hash": 3653443721,
+            "original": "~s~The longer you hold ~INPUT_ATTACK~ the shorter the fuse will become.",
+            "translated": "~s~~INPUT_ATTACK~按得越久，引爆时间就越短。",
+            "desc": ""
+        },
+        {
+            "hash": 3961372719,
+            "original": "~s~Take down the next ~r~Union leader.",
+            "translated": "~s~解决下一个~r~工会领袖。",
+            "desc": ""
+        }
+    ]
+}

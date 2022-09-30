@@ -1,0 +1,1432 @@
+{
+    "FCPSAUD": [
+        {
+            "hash": 5607586,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 15825146,
+            "original": "~z~Sure, man. You'll find some in Varsity Heights.",
+            "translated": "~z~当然，兄弟。你会在Varsity Heights找到的。",
+            "desc": ""
+        },
+        {
+            "hash": 29629271,
+            "original": "FCP_ACT_CALL_REQ_SPEC_EXCHANGE",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_EXCHANGE",
+            "desc": ""
+        },
+        {
+            "hash": 97746875,
+            "original": "~z~Niko man, I left them in Acter for ya.",
+            "translated": "~z~Niko兄弟，我把东西给你扔在Acter了。",
+            "desc": ""
+        },
+        {
+            "hash": 118373535,
+            "original": "FCP_ACT_CALL_REQ_SPEC_PRESIDENTS_CITY",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_PRESIDENTS_CITY",
+            "desc": ""
+        },
+        {
+            "hash": 147436583,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 148678366,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 192095087,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 193947813,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 202242093,
+            "original": "~z~Sure thing man, I've hidden some in Fishmarket South.",
+            "translated": "~z~当然了，兄弟，我在鱼市南藏了一份了。",
+            "desc": ""
+        },
+        {
+            "hash": 206046524,
+            "original": "~z~You'll find some I stashed for you in Presidents City.",
+            "translated": "~z~我在Presidents City给你藏了一份。",
+            "desc": ""
+        },
+        {
+            "hash": 216814376,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 221511552,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 226073944,
+            "original": "FCP_ACT_GETCALL_SPEC",
+            "translated": "FCP_ACT_GETCALL_SPEC",
+            "desc": ""
+        },
+        {
+            "hash": 249158100,
+            "original": "FCP_ACT_CALL_REQ_SPEC_DOWNTOWN",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_DOWNTOWN",
+            "desc": ""
+        },
+        {
+            "hash": 271224713,
+            "original": "FCP_ACT_CALL_REQ_SPEC_LITTLE_BAY",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_LITTLE_BAY",
+            "desc": ""
+        },
+        {
+            "hash": 280186001,
+            "original": "~z~Packie, man. I can't make it to the hospital no more.",
+            "translated": "~z~Packie，兄弟，我没法来医院了。",
+            "desc": ""
+        },
+        {
+            "hash": 297646276,
+            "original": "~z~Hey man, I'm discharging me self from hospital. Can you give me a lift?",
+            "translated": "~z~嘿，兄弟，我从医院出院了。你能来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 300451000,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 341826747,
+            "original": "FCP_ACT_PPK_GETCALL_HOSP_YES",
+            "translated": "FCP_ACT_PPK_GETCALL_HOSP_YES",
+            "desc": ""
+        },
+        {
+            "hash": 391046075,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 408475174,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 411218962,
+            "original": "FCP_ACT_CALL_REQ_SPEC_LITTLE_ITALY",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_LITTLE_ITALY",
+            "desc": ""
+        },
+        {
+            "hash": 446386551,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 451304396,
+            "original": "FCP_ACT_CALL_REQ_SPEC_STAR_JUNCTION",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_STAR_JUNCTION",
+            "desc": ""
+        },
+        {
+            "hash": 463129077,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 463238398,
+            "original": "FCP_ACT_CALL_REQ_SPEC_OUTLOOK_PARK",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_OUTLOOK_PARK",
+            "desc": ""
+        },
+        {
+            "hash": 483356839,
+            "original": "~z~Alright man, I'll try to get a nurse to give me a lift. Might even get some action.",
+            "translated": "~z~好吧兄弟，那我试试找护士送我回去，可能还会擦出火花。",
+            "desc": ""
+        },
+        {
+            "hash": 486268283,
+            "original": "~z~You're a piece of shit, Niko. You really are.",
+            "translated": "~z~你丫就是坨屎，Niko。真的。",
+            "desc": ""
+        },
+        {
+            "hash": 491168723,
+            "original": "~z~Alright Niko. I've ditched some for you in Hove Beach.",
+            "translated": "~z~好的，Niko。我在Hove Beach给你留了一份。",
+            "desc": ""
+        },
+        {
+            "hash": 531106545,
+            "original": "FCP_ACT_CALL_REQ_SPEC_BEECHWOOD_CITY",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_BEECHWOOD_CITY",
+            "desc": ""
+        },
+        {
+            "hash": 578131526,
+            "original": "FCP_ACT_CALL_REQ_SPEC_EASTON",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_EASTON",
+            "desc": ""
+        },
+        {
+            "hash": 585384740,
+            "original": "~z~Okay man. I should be there in the next hour.",
+            "translated": "~z~好的，兄弟，我一小时内就来。",
+            "desc": ""
+        },
+        {
+            "hash": 600389719,
+            "original": "~z~Alright Niko. I ditched some for you in The Triangle.",
+            "translated": "~z~好吧，Niko。我在Triangle给你留了些。",
+            "desc": ""
+        },
+        {
+            "hash": 626038286,
+            "original": "FCP_ACT_CALL_REQ_SPEC_NORTHWOOD",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_NORTHWOOD",
+            "desc": ""
+        },
+        {
+            "hash": 646253604,
+            "original": "~z~Okay Niko, I've left some in North Holland.",
+            "translated": "~z~好的Niko，我在North Holland留了一份。",
+            "desc": ""
+        },
+        {
+            "hash": 671598595,
+            "original": "~z~Niko man, I left them in Tudor for ya.",
+            "translated": "~z~Niko兄弟，东西我给你放在Tudor了。",
+            "desc": ""
+        },
+        {
+            "hash": 700186259,
+            "original": "~z~You motherfucker. I'll remember this.",
+            "translated": "~z~你个狗逼，我会记住的。",
+            "desc": ""
+        },
+        {
+            "hash": 701147563,
+            "original": "FCP_ACT_CALL_HOSP_CANCEL_LOLIKE",
+            "translated": "FCP_ACT_CALL_HOSP_CANCEL_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 720165835,
+            "original": "FCP_ACT_CALL_REQ_SPEC_MEADOWS_PARK",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_MEADOWS_PARK",
+            "desc": ""
+        },
+        {
+            "hash": 721422459,
+            "original": "~z~Sure, man. You'll find some in Fortside.",
+            "translated": "~z~当然，兄弟，你会在Fortside找到的。",
+            "desc": ""
+        },
+        {
+            "hash": 728497387,
+            "original": "~z~Sure thing man, I've hidden some in The Exchange.",
+            "translated": "~z~当然了兄弟，我在证交区藏了一份了。",
+            "desc": ""
+        },
+        {
+            "hash": 738956301,
+            "original": "FCP_ACT_CALL_REQ_SPEC_AIRPORT",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_AIRPORT",
+            "desc": ""
+        },
+        {
+            "hash": 744638553,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 760082189,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 775875480,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 787637697,
+            "original": "FCP_ACT_CALL_REQ_SPEC_NORTH_HOLLAND",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_NORTH_HOLLAND",
+            "desc": ""
+        },
+        {
+            "hash": 823895303,
+            "original": "~z~Okay Niko, I've left some in Port Tudor.",
+            "translated": "~z~好的，Niko，我在Tudor港放了一份。",
+            "desc": ""
+        },
+        {
+            "hash": 837519945,
+            "original": "FCP_ACT_CALL_REQ_SPEC_CHASE_POINT",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_CHASE_POINT",
+            "desc": ""
+        },
+        {
+            "hash": 843038652,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 845912908,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 848798996,
+            "original": "~z~Niko man, I left them in Acter Industrial for ya.",
+            "translated": "~z~Niko兄弟，我把东西放在Acter工业园了。",
+            "desc": ""
+        },
+        {
+            "hash": 856969656,
+            "original": "~z~You'll find some I stashed for you in Middle Park West.",
+            "translated": "~z~你可以去中心公园西找我给你放着的那些。",
+            "desc": ""
+        },
+        {
+            "hash": 868183635,
+            "original": "~z~You'll find some I stashed for you in Middle Park East.",
+            "translated": "~z~你可以去中心公园东找我给你放着的那些。",
+            "desc": ""
+        },
+        {
+            "hash": 893040558,
+            "original": "~z~Fuck me, Niko. You really are cold. Someone else might give me a lift I guess.",
+            "translated": "~z~我操，Niko，你丫是真冷酷。我猜别人怎么着也得载我一程。",
+            "desc": ""
+        },
+        {
+            "hash": 903151403,
+            "original": "~z~You'll find some I stashed for you on Colony Island.",
+            "translated": "~z~你可以在Colony岛找到我给你留着的一份。",
+            "desc": ""
+        },
+        {
+            "hash": 926314807,
+            "original": "FCP_ACT_CALL_REQ_SPEC_FISHMARKET_NORTH",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_FISHMARKET_NORTH",
+            "desc": ""
+        },
+        {
+            "hash": 929393702,
+            "original": "~z~Sure Packie, I'll pick you up in the next hour.",
+            "translated": "~z~当然了，Packie，我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 963940237,
+            "original": "FCP_ACT_CALL_REQ_SPEC_FIREFLY_PROJECTS",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_FIREFLY_PROJECTS",
+            "desc": ""
+        },
+        {
+            "hash": 1029819873,
+            "original": "~z~Alright Niko. I've ditched some for you on Firefly Island.",
+            "translated": "~z~好的Niko。我已经在Firefly Island给你留了些。",
+            "desc": ""
+        },
+        {
+            "hash": 1035758764,
+            "original": "FCP_ACT_CALL_REQ_SPEC_SOUTH_SLOPES",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_SOUTH_SLOPES",
+            "desc": ""
+        },
+        {
+            "hash": 1096316083,
+            "original": "~z~Okay Niko, I've left some in Northwood.",
+            "translated": "~z~好的，Niko，我在Northwood留了一份。",
+            "desc": ""
+        },
+        {
+            "hash": 1108632269,
+            "original": "FCP_ACT_CALL_REQ_SPEC_STEINWAY",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_STEINWAY",
+            "desc": ""
+        },
+        {
+            "hash": 1151329736,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1187961653,
+            "original": "~z~Sure Niko, I've left some over in South Slopes.",
+            "translated": "~z~当然，Niko，我在South Slopes留了一份。",
+            "desc": ""
+        },
+        {
+            "hash": 1238189887,
+            "original": "~z~Thanks, Packie. That could be real useful. I'll call you if something comes up.",
+            "translated": "~z~谢了，Packie。会很有用的。有事我再打给你。",
+            "desc": ""
+        },
+        {
+            "hash": 1248899840,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1321219313,
+            "original": "FCP_ACT_CALL_REQ_SPEC_WESTDYKE",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_WESTDYKE",
+            "desc": ""
+        },
+        {
+            "hash": 1330019678,
+            "original": "FCP_ACT_CALL_REQ_SPEC_VARSITY_HEIGHTS",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_VARSITY_HEIGHTS",
+            "desc": ""
+        },
+        {
+            "hash": 1335594396,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1336344201,
+            "original": "~z~Got it Niko. I've left some for you in North Gardens.",
+            "translated": "~z~了解，Niko。我已经在North Gardens给你留了些。",
+            "desc": ""
+        },
+        {
+            "hash": 1362413895,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1383107356,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1402945220,
+            "original": "~z~Sure Niko, I've left some over in Beechwood City.",
+            "translated": "~z~当然，Niko，东西我已经放在Beechwood City了。",
+            "desc": ""
+        },
+        {
+            "hash": 1408798151,
+            "original": "FCP_ACT_CALL_REQ_SPEC_ACTER",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_ACTER",
+            "desc": ""
+        },
+        {
+            "hash": 1451394135,
+            "original": "~z~Thanks Niko, you're a saviour, I'll wait.",
+            "translated": "~z~谢了，Niko，你就是我的救星啊，我会等你的。",
+            "desc": ""
+        },
+        {
+            "hash": 1455364997,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1496696759,
+            "original": "~z~Niko, they're letting me out of hospital. Will you pick me up?",
+            "translated": "~z~Niko，他们让我出院了，你能来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1532408896,
+            "original": "~z~Sure thing man, I've hidden some in Castle Gardens.",
+            "translated": "~z~当然了，兄弟，我在Castle Gardens藏了一份了。",
+            "desc": ""
+        },
+        {
+            "hash": 1599961560,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1611318181,
+            "original": "FCP_ACT_GETCALL_SPEC_QQQ1",
+            "translated": "FCP_ACT_GETCALL_SPEC_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 1624989486,
+            "original": "FCP_ACT_CALL_REQ_SPEC_FISHMARKET_SOUTH",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_FISHMARKET_SOUTH",
+            "desc": ""
+        },
+        {
+            "hash": 1631447210,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1640517604,
+            "original": "FCP_ACT_CALL_REQ_SPEC_PURGATORY",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_PURGATORY",
+            "desc": ""
+        },
+        {
+            "hash": 1685180174,
+            "original": "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_EAST2",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_EAST2",
+            "desc": ""
+        },
+        {
+            "hash": 1722519910,
+            "original": "~z~Sure Niko, I left some over Downtown.",
+            "translated": "~z~当然，Niko，我在中心区留了一份。",
+            "desc": ""
+        },
+        {
+            "hash": 1731814029,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1749314953,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1772224309,
+            "original": "~z~You'll find some I stashed for you in Middle Park.",
+            "translated": "~z~你可以去中心公园找我给你留的一份。",
+            "desc": ""
+        },
+        {
+            "hash": 1774464179,
+            "original": "FCP_ACT_CALL_REQ_SPEC_BOULEVARD",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_BOULEVARD",
+            "desc": ""
+        },
+        {
+            "hash": 1776047325,
+            "original": "~z~Got it Niko. I left some for you in Little Bay.",
+            "translated": "~z~了解，Niko。我在Little Bay给你留了些。",
+            "desc": ""
+        },
+        {
+            "hash": 1776152815,
+            "original": "~z~Sure Niko, I left some over in Schottler.",
+            "translated": "~z~当然，Niko，我在Schottler留了些。",
+            "desc": ""
+        },
+        {
+            "hash": 1807798496,
+            "original": "FCP_ACT_CALL_HOSP_CANCEL_MEDLIKE",
+            "translated": "FCP_ACT_CALL_HOSP_CANCEL_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 1828203262,
+            "original": "~z~Sorry man, I got other shit to do. Call your mother or something.",
+            "translated": "~z~抱歉，兄弟，我还有别的事要忙。打电话给你妈之类的吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1836296183,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1859129549,
+            "original": "~z~Cool, Niko. I'm sure it'll get put to good use.",
+            "translated": "~z~好吧，Niko。早晚会派上用场的。",
+            "desc": ""
+        },
+        {
+            "hash": 1866143755,
+            "original": "~z~Alright Niko. I've ditched some for you in the Firefly Projects.",
+            "translated": "~z~好的，Niko。我在Firefly公屋社区给你留了一份。",
+            "desc": ""
+        },
+        {
+            "hash": 1888263254,
+            "original": "~z~Okay Niko, I've left some in Westdyke.",
+            "translated": "~z~好了，Niko，我在Westdyke留了一份。",
+            "desc": ""
+        },
+        {
+            "hash": 1892754554,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1916315967,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1919865180,
+            "original": "~z~Sure, man. You'll find some in South Bohan.",
+            "translated": "~z~当然，兄弟。你可以在South Bohan找到一份。",
+            "desc": ""
+        },
+        {
+            "hash": 1949111757,
+            "original": "~z~Packie, you got some explosives? I'm in need.",
+            "translated": "~z~Packie，你这儿有炸药吗？我需要来点。",
+            "desc": ""
+        },
+        {
+            "hash": 1967224600,
+            "original": "FCP_ACT_CALL_REQ_SPEC_LOWER_EASTON",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_LOWER_EASTON",
+            "desc": ""
+        },
+        {
+            "hash": 1987908840,
+            "original": "~z~I'm thinking you're the kind of guy who might need one every now and then. Call me if you want me to hook you up.",
+            "translated": "~z~你像是会用到炸弹的人。需要我帮忙就打个电话。",
+            "desc": ""
+        },
+        {
+            "hash": 2009134465,
+            "original": "FCP_ACT_CALL_REQ_SPEC_HATTON_GARDENS",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_HATTON_GARDENS",
+            "desc": ""
+        },
+        {
+            "hash": 2056891534,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2083729189,
+            "original": "FCP_ACT_CALL_REQ_SPEC_CITY_HALL",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_CITY_HALL",
+            "desc": ""
+        },
+        {
+            "hash": 2084577468,
+            "original": "~z~Sure thing man, I've hidden some in Chinatown.",
+            "translated": "~z~当然了，兄弟，我在唐人街藏了些。",
+            "desc": ""
+        },
+        {
+            "hash": 2105550377,
+            "original": "~z~Sure thing man, I've hidden some in Fishmarket North.",
+            "translated": "~z~当然了，兄弟。我在鱼市北藏了些。",
+            "desc": ""
+        },
+        {
+            "hash": 2108294453,
+            "original": "FCP_ACT_PPK_CALL_HOSP_CANCEL",
+            "translated": "FCP_ACT_PPK_CALL_HOSP_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 2118045067,
+            "original": "~z~Can't do it just now Packie. You're going to have to make your own way home.",
+            "translated": "~z~现在不行，Packie。你得自己想法子回家了。",
+            "desc": ""
+        },
+        {
+            "hash": 2140037065,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2152108104,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2163939041,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2164080404,
+            "original": "~z~Got it Niko. I left some for you on Chase Point.",
+            "translated": "~z~懂了，Niko。我在Chase Point给你留了些。",
+            "desc": ""
+        },
+        {
+            "hash": 2174829963,
+            "original": "FCP_ACT_GETCALL_HOSP_REJ_MEDLIKE",
+            "translated": "FCP_ACT_GETCALL_HOSP_REJ_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2212250735,
+            "original": "FCP_ACT_CALL_REQ_SPEC_SUFFOLK",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_SUFFOLK",
+            "desc": ""
+        },
+        {
+            "hash": 2230758498,
+            "original": "~z~Sure, man. You'll find some in Middle Park East.",
+            "translated": "~z~当然，兄弟。你可以在中心公园东找到一份。",
+            "desc": ""
+        },
+        {
+            "hash": 2260354658,
+            "original": "~z~You'll find some I stashed for you in Little Italy.",
+            "translated": "~z~你可以在小意大利找到我给你留的那份。",
+            "desc": ""
+        },
+        {
+            "hash": 2276914599,
+            "original": "FCP_ACT_CALL_REQ_RANDOM",
+            "translated": "FCP_ACT_CALL_REQ_RANDOM",
+            "desc": ""
+        },
+        {
+            "hash": 2282868710,
+            "original": "~z~Alright, man. Cool.",
+            "translated": "~z~好吧，兄弟。没事。",
+            "desc": ""
+        },
+        {
+            "hash": 2302823598,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2359509963,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2359555057,
+            "original": "~z~Niko man, I've left them in Berchem for ya.",
+            "translated": "~z~Niko兄弟，东西我给你放在Berchem了。",
+            "desc": ""
+        },
+        {
+            "hash": 2384611617,
+            "original": "~z~Alright Niko. I've ditched some for you in Easton.",
+            "translated": "~z~好了Niko。我已经在Easton给你留了些了。",
+            "desc": ""
+        },
+        {
+            "hash": 2390182497,
+            "original": "~z~Alright. I feel like watching stuff blow up. You got a bomb for me?",
+            "translated": "~z~好吧，我有点想把什么东西炸飞，你能给我弄个炸弹吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2431715090,
+            "original": "FCP_ACT_CALL_SPEC_END",
+            "translated": "FCP_ACT_CALL_SPEC_END",
+            "desc": ""
+        },
+        {
+            "hash": 2477340504,
+            "original": "FCP_ACT_PPK_GETCALL_SPEC_END",
+            "translated": "FCP_ACT_PPK_GETCALL_SPEC_END",
+            "desc": ""
+        },
+        {
+            "hash": 2480087123,
+            "original": "~z~You caught me at a bad time Niko. Call again later.",
+            "translated": "~z~现在打过来不是时候，Niko。过会儿再打给我。",
+            "desc": ""
+        },
+        {
+            "hash": 2495122199,
+            "original": "FCP_ACT_CALL_REQ_SPEC_CHARGE_ISLAND",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_CHARGE_ISLAND",
+            "desc": ""
+        },
+        {
+            "hash": 2495617632,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2500310287,
+            "original": "~z~Sure Niko, I left some over by the airport.",
+            "translated": "~z~当然，Niko，我在机场边上留了一份。",
+            "desc": ""
+        },
+        {
+            "hash": 2507422495,
+            "original": "~z~Fine Niko. You ain't got much of the good Samaritan in you, do ya?",
+            "translated": "~z~好，Niko。你身上是一点都没有善人的品德是吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2509260232,
+            "original": "~z~Okay Niko, I've left some in Star Junction.",
+            "translated": "~z~好的，Niko，我在星汇广场给你留了些。",
+            "desc": ""
+        },
+        {
+            "hash": 2538458468,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2553565126,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2572415594,
+            "original": "~z~Fine man, if you got other shit to do.",
+            "translated": "~z~好的兄弟，既然你还有事的话。",
+            "desc": ""
+        },
+        {
+            "hash": 2582146186,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2608569556,
+            "original": "FCP_ACT_CALL_REQ_SPEC_INDUSTRIAL",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_INDUSTRIAL",
+            "desc": ""
+        },
+        {
+            "hash": 2608920514,
+            "original": "~z~Okay Niko, I've left some in East Holland.",
+            "translated": "~z~好的，Niko，我在East Holland留了些。",
+            "desc": ""
+        },
+        {
+            "hash": 2624419195,
+            "original": "FCP_ACT_CALL_REQ_SPEC_WILLIS",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_WILLIS",
+            "desc": ""
+        },
+        {
+            "hash": 2627149616,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2640523616,
+            "original": "~z~Sure thing man.",
+            "translated": "~z~当然了兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2652898913,
+            "original": "~z~Okay man, they're in Willis.",
+            "translated": "~z~好了兄弟，东西在Willis。",
+            "desc": ""
+        },
+        {
+            "hash": 2678985482,
+            "original": "FCP_ACT_CALL_REQ_SPEC_MEADOW_HILLS",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_MEADOW_HILLS",
+            "desc": ""
+        },
+        {
+            "hash": 2695285192,
+            "original": "~z~You'll find some I stashed for you in Purgatory.",
+            "translated": "~z~你可以在Purgatory找到我给你留下的一份。",
+            "desc": ""
+        },
+        {
+            "hash": 2718398690,
+            "original": "FCP_ACT_CALL_REQ_SPEC_ACTER_INDUSTRIAL",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_ACTER_INDUSTRIAL",
+            "desc": ""
+        },
+        {
+            "hash": 2731559645,
+            "original": "FCP_ACT_CALL_REQ_SPEC_SCHOTTLER",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_SCHOTTLER",
+            "desc": ""
+        },
+        {
+            "hash": 2747224470,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2763398803,
+            "original": "~z~Okay Niko, I've left some in Leftwood.",
+            "translated": "~z~好了，Niko，我在Leftwood留了一份。",
+            "desc": ""
+        },
+        {
+            "hash": 2779175816,
+            "original": "~z~Fine, if you rather go kill people than help your sick friend, that's your business.",
+            "translated": "~z~好的，要是你宁可去杀人也不肯帮你生病的朋友的话，那是你的事。",
+            "desc": ""
+        },
+        {
+            "hash": 2812069862,
+            "original": "~z~I'm fresh out, Niko. Try me again in a little while.",
+            "translated": "~z~我现在没有，Niko。过会儿再打给我。",
+            "desc": ""
+        },
+        {
+            "hash": 2820515180,
+            "original": "FCP_ACT_CALL_REQ_SPEC_NORMANDY",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_NORMANDY",
+            "desc": ""
+        },
+        {
+            "hash": 2828869172,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2837195145,
+            "original": "~z~Great, man. I thought I was gonna have to call my ma. See you soon.",
+            "translated": "~z~好，兄弟。我差点以为只能去找我妈了。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2861798324,
+            "original": "~z~Sure Niko, I've left some over in Outlook Park.",
+            "translated": "~z~当然，Niko，我已经在Outlook Park留了些。",
+            "desc": ""
+        },
+        {
+            "hash": 2863297297,
+            "original": "~z~Packie, man. I don't need that bomb no more.",
+            "translated": "~z~Packie，兄弟，我现在不需要炸弹了。",
+            "desc": ""
+        },
+        {
+            "hash": 2863483745,
+            "original": "FCP_ACT_CALL_REQ_SPEC_COLONY_ISLAND",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_COLONY_ISLAND",
+            "desc": ""
+        },
+        {
+            "hash": 2879872000,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2879929954,
+            "original": "FCP_ACT_CALL_REQ_SPEC_FIREFLY_ISLAND",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_FIREFLY_ISLAND",
+            "desc": ""
+        },
+        {
+            "hash": 2888601637,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2923542556,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2936292560,
+            "original": "FCP_ACT_PPK_CALL_CANCEL_SPEC",
+            "translated": "FCP_ACT_PPK_CALL_CANCEL_SPEC",
+            "desc": ""
+        },
+        {
+            "hash": 2959511115,
+            "original": "~z~Hey, Packie. I need a bomb. That cool?",
+            "translated": "~z~嘿，Packie。我需要一个炸弹。可以吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2966558616,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2970317819,
+            "original": "~z~Got it Niko. I've put some for you in the Boulevard.",
+            "translated": "~z~懂了，Niko。我在Boulevard给你留了些。",
+            "desc": ""
+        },
+        {
+            "hash": 2985374368,
+            "original": "FCP_ACT_CALL_HOSP_CANCEL_HILIKE",
+            "translated": "FCP_ACT_CALL_HOSP_CANCEL_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3004962421,
+            "original": "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK",
+            "desc": ""
+        },
+        {
+            "hash": 3005265374,
+            "original": "FCP_ACT_CALL_REQ_SPEC_CASTLE_GARDENS",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_CASTLE_GARDENS",
+            "desc": ""
+        },
+        {
+            "hash": 3019651595,
+            "original": "~z~Sure, man. You'll find some in Lancaster.",
+            "translated": "~z~当然，兄弟。你可以在Lancaster找到。",
+            "desc": ""
+        },
+        {
+            "hash": 3020748821,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3143043309,
+            "original": "~z~Okay man, they're in Cerveza Heights.",
+            "translated": "~z~好的，兄弟，东西在Cerveza Heights。",
+            "desc": ""
+        },
+        {
+            "hash": 3147429363,
+            "original": "~z~Okay man, they're in East Island City.",
+            "translated": "~z~好的，兄弟，东西在东岛城。",
+            "desc": ""
+        },
+        {
+            "hash": 3147805495,
+            "original": "FCP_ACT_GETCALL_HOSP_ACCEPT",
+            "translated": "FCP_ACT_GETCALL_HOSP_ACCEPT",
+            "desc": ""
+        },
+        {
+            "hash": 3149440754,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3149913189,
+            "original": "~z~Okay man, they're in Steinway.",
+            "translated": "~z~好的，兄弟，东西在Steinway。",
+            "desc": ""
+        },
+        {
+            "hash": 3197315748,
+            "original": "~z~Hey man, I need to make shit explode. Can you sort me out?",
+            "translated": "~z~喂，兄弟，我想去炸点东西，你能帮我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3207754427,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3210279699,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3210782075,
+            "original": "FCP_ACT_CALL_REQ_SPEC_LANCASTER",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_LANCASTER",
+            "desc": ""
+        },
+        {
+            "hash": 3211668524,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3217271428,
+            "original": "FCP_ACT_CALL_REQ_SPEC_LEFTWOOD",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_LEFTWOOD",
+            "desc": ""
+        },
+        {
+            "hash": 3237599515,
+            "original": "FCP_ACT_CALL_REQ_SPEC_NORTH_GARDENS",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_NORTH_GARDENS",
+            "desc": ""
+        },
+        {
+            "hash": 3247727172,
+            "original": "~z~Okay man, they're in Meadow Hills.",
+            "translated": "~z~好的，兄弟，东西在Meadow Hills。",
+            "desc": ""
+        },
+        {
+            "hash": 3250354500,
+            "original": "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_EAST",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_EAST",
+            "desc": ""
+        },
+        {
+            "hash": 3260829668,
+            "original": "FCP_ACT_CALL_REQ_SPEC_TRIANGLE",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_TRIANGLE",
+            "desc": ""
+        },
+        {
+            "hash": 3266686050,
+            "original": "~z~Okay man, they're in Meadows Park.",
+            "translated": "~z~好的兄弟，东西在草地公园。",
+            "desc": ""
+        },
+        {
+            "hash": 3268852272,
+            "original": "FCP_ACT_CALL_REQ_SPEC_FORTSIDE",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_FORTSIDE",
+            "desc": ""
+        },
+        {
+            "hash": 3272381277,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3310435232,
+            "original": "FCP_ACT_GETCALL_HOSP_REJ_LOLIKE",
+            "translated": "FCP_ACT_GETCALL_HOSP_REJ_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3369933939,
+            "original": "FCP_ACT_PPK_CALL_REQ_SPEC",
+            "translated": "FCP_ACT_PPK_CALL_REQ_SPEC",
+            "desc": ""
+        },
+        {
+            "hash": 3387500720,
+            "original": "FCP_ACT_CALL_REQ_SPEC_CHINATOWN",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_CHINATOWN",
+            "desc": ""
+        },
+        {
+            "hash": 3388519181,
+            "original": "~z~You'll find some I stashed for you in Hatton Gardens.",
+            "translated": "~z~你可以在Hatton Gardens找到我给你留下的。",
+            "desc": ""
+        },
+        {
+            "hash": 3415865836,
+            "original": "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_WEST2",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_WEST2",
+            "desc": ""
+        },
+        {
+            "hash": 3424167482,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3459264756,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3493175251,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 3496439038,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3500377662,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3501885716,
+            "original": "~z~You'll find some I stashed for you in City Hall.",
+            "translated": "~z~你可以在市政厅找到我给你留着的那份。",
+            "desc": ""
+        },
+        {
+            "hash": 3520253630,
+            "original": "~z~This is banked. When you ask me for help I'm gonna remind your Slavic ass of this.",
+            "translated": "~z~我记下来了。等你来求我帮忙的时候，我就跟你这斯拉夫混蛋提这个。",
+            "desc": ""
+        },
+        {
+            "hash": 3522164886,
+            "original": "~z~Sure, man. You'll find some in Charge Island.",
+            "translated": "~z~当然，兄弟，你可以在Charge岛找到一份。",
+            "desc": ""
+        },
+        {
+            "hash": 3539327776,
+            "original": "FCP_ACT_GETCALL_HOSP_REJ_HILIKE",
+            "translated": "FCP_ACT_GETCALL_HOSP_REJ_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3546681150,
+            "original": "FCP_ACT_CALL_REQ_SPEC_EAST_ISLAND_CITY",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_EAST_ISLAND_CITY",
+            "desc": ""
+        },
+        {
+            "hash": 3562208209,
+            "original": "FCP_ACT_CALL_REQ_SPEC_PORT_TUDOR",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_PORT_TUDOR",
+            "desc": ""
+        },
+        {
+            "hash": 3579827937,
+            "original": "~z~Sure, man. You'll find some in Industiral.",
+            "translated": "~z~当然，兄弟。你可以在工业区找到一份。",
+            "desc": ""
+        },
+        {
+            "hash": 3589610690,
+            "original": "FCP_ACT_CALL_REQ_SPEC_EAST_HOLLAND",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_EAST_HOLLAND",
+            "desc": ""
+        },
+        {
+            "hash": 3628616197,
+            "original": "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_WEST",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_WEST",
+            "desc": ""
+        },
+        {
+            "hash": 3662942157,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3682373857,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3694105934,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3704633464,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3727695365,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3741242635,
+            "original": "FCP_ACT_CALL_REQ_SPEC_CERVESA_HEIGHTS",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_CERVESA_HEIGHTS",
+            "desc": ""
+        },
+        {
+            "hash": 3743805919,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3753035015,
+            "original": "~z~Okay Niko, I've left some in Normandy.",
+            "translated": "~z~好的，Niko，我在Normandy留了一份。",
+            "desc": ""
+        },
+        {
+            "hash": 3791474862,
+            "original": "FCP_ACT_CALL_REQ_SPEC_HOVE_BEACH",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_HOVE_BEACH",
+            "desc": ""
+        },
+        {
+            "hash": 3801249498,
+            "original": "FCP_ACT_CALL_REQ_SPEC_TUDOR",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_TUDOR",
+            "desc": ""
+        },
+        {
+            "hash": 3828576339,
+            "original": "~z~Hey Niko, I got a line on this guy who can set me up with bombs.",
+            "translated": "~z~嘿，Niko，我跟能弄到炸弹的人联络上了。",
+            "desc": ""
+        },
+        {
+            "hash": 3832045326,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3871922735,
+            "original": "~z~Niko man, I left them in Suffolk for you.",
+            "translated": "~z~Niko兄弟，东西我给你放在Suffolk了。",
+            "desc": ""
+        },
+        {
+            "hash": 3877779317,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3894874441,
+            "original": "~z~Sure, man. You'll find some in Middle Park West.",
+            "translated": "~z~当然，兄弟。你可以在中心公园西找到一份。",
+            "desc": ""
+        },
+        {
+            "hash": 3965602865,
+            "original": "FCP_ACT_CALL_REQ_SPEC_SOUTH_BOHAN",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_SOUTH_BOHAN",
+            "desc": ""
+        },
+        {
+            "hash": 3994980549,
+            "original": "FCP_ACT_CALL_REQ_SPEC_NO",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_NO",
+            "desc": ""
+        },
+        {
+            "hash": 4005767554,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4029104511,
+            "original": "~z~Sure thing man, I've hidden some in Lower Easton.",
+            "translated": "~z~当然了，兄弟，我在Lower Easton藏了一份。",
+            "desc": ""
+        },
+        {
+            "hash": 4078491945,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4089197893,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4141076303,
+            "original": "FCP_ACT_GETCALL_HOSP_ASK",
+            "translated": "FCP_ACT_GETCALL_HOSP_ASK",
+            "desc": ""
+        },
+        {
+            "hash": 4146035513,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4148687068,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4148796533,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4149544808,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4157379395,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4164852789,
+            "original": "FCP_ACT_PPK_GETCALL_HOSP_NO",
+            "translated": "FCP_ACT_PPK_GETCALL_HOSP_NO",
+            "desc": ""
+        },
+        {
+            "hash": 4176777042,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4290606149,
+            "original": "FCP_ACT_CALL_REQ_SPEC_BERCHAMN",
+            "translated": "FCP_ACT_CALL_REQ_SPEC_BERCHAMN",
+            "desc": ""
+        }
+    ]
+}

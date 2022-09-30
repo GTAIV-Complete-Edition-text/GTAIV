@@ -1,0 +1,172 @@
+{
+    "ESCAPE": [
+        {
+            "hash": 16715649,
+            "original": "8",
+            "translated": "8",
+            "desc": ""
+        },
+        {
+            "hash": 139848584,
+            "original": "All for One",
+            "translated": "多对一",
+            "desc": ""
+        },
+        {
+            "hash": 186655683,
+            "original": "2",
+            "translated": "2",
+            "desc": ""
+        },
+        {
+            "hash": 196164372,
+            "original": "Game Type",
+            "translated": "游戏类型",
+            "desc": ""
+        },
+        {
+            "hash": 748110419,
+            "original": "~r~The getaway boat is on land, it needs to get back into water.",
+            "translated": "~r~逃亡用的船被搞到陆地上了，它需要回到水里。",
+            "desc": ""
+        },
+        {
+            "hash": 784919316,
+            "original": "6",
+            "translated": "6",
+            "desc": ""
+        },
+        {
+            "hash": 820372858,
+            "original": "Rounds",
+            "translated": "回合数",
+            "desc": ""
+        },
+        {
+            "hash": 1006617262,
+            "original": "Head to the ~b~getaway vehicle.",
+            "translated": "前往~b~逃亡车辆。",
+            "desc": ""
+        },
+        {
+            "hash": 1234486165,
+            "original": "The ~COL_NET_2~cops~s~ have been alerted. Get to the ~b~getaway vehicle.",
+            "translated": "~COL_NET_2~条子~s~已接到警报。前往~b~逃亡车辆。",
+            "desc": ""
+        },
+        {
+            "hash": 1255515448,
+            "original": "GAME IS ABOUT TO END",
+            "translated": "游戏即将结束",
+            "desc": ""
+        },
+        {
+            "hash": 1274241685,
+            "original": "You are the team's Boss.",
+            "translated": "你是团队的老大了。",
+            "desc": ""
+        },
+        {
+            "hash": 1287826028,
+            "original": "A crook has got into the getaway vehicle.",
+            "translated": "一名盗贼已经进入了逃亡载具。",
+            "desc": ""
+        },
+        {
+            "hash": 1458256732,
+            "original": "10",
+            "translated": "10",
+            "desc": ""
+        },
+        {
+            "hash": 1576987753,
+            "original": "The ~COL_NET_1~crooks~s~ have been spotted, they are highly dangerous. Take them down.",
+            "translated": "~COL_NET_1~盗贼们~s~已经被发现，他们极度危险。干掉他们。",
+            "desc": ""
+        },
+        {
+            "hash": 1854494558,
+            "original": "The boss needs to stay in the vehicle - the game will end shortly if he doesn't.",
+            "translated": "团队老大需要待在载具里-如果他不的话游戏很快会结束。",
+            "desc": ""
+        },
+        {
+            "hash": 2041933271,
+            "original": "WAITING FOR VIP TO BE SELECTED.",
+            "translated": "等待VIP选择。",
+            "desc": ""
+        },
+        {
+            "hash": 2131870362,
+            "original": "A Crook needs to stay in the vehicle - the game will end shortly.",
+            "translated": "盗贼需要待在车里-游戏将很快结束。",
+            "desc": ""
+        },
+        {
+            "hash": 2361431872,
+            "original": "Some of the crooks have got into the getaway vehicle.",
+            "translated": "一些盗贼已经进入了逃亡载具。",
+            "desc": ""
+        },
+        {
+            "hash": 2370064267,
+            "original": "The Boss has reached the getaway vehicle.",
+            "translated": "团队老大已经抵达了逃亡载具。",
+            "desc": ""
+        },
+        {
+            "hash": 2385031955,
+            "original": "The Boss has been taken out.",
+            "translated": "团队老大被干掉了。",
+            "desc": ""
+        },
+        {
+            "hash": 2541479010,
+            "original": "~r~The getaway vehicle has been destroyed. The round will end shortly.",
+            "translated": "~r~逃亡载具已被摧毁。本回合即将结束。",
+            "desc": ""
+        },
+        {
+            "hash": 2600175337,
+            "original": "LEAVE",
+            "translated": "离开",
+            "desc": ""
+        },
+        {
+            "hash": 3184412233,
+            "original": "You are the boss, make your way to the ~b~getaway vehicle.",
+            "translated": "你是团队老大，赶快前往~b~逃亡载具。",
+            "desc": ""
+        },
+        {
+            "hash": 3424903924,
+            "original": "Protect the ~COL_NET_1~Boss.",
+            "translated": "保护~COL_NET_1~老大。",
+            "desc": ""
+        },
+        {
+            "hash": 3659382043,
+            "original": "~r~The getaway vehicle has been flipped. The round will end shortly.",
+            "translated": "~r~逃亡载具翻了。本回合即将结束。",
+            "desc": ""
+        },
+        {
+            "hash": 3707324278,
+            "original": "4",
+            "translated": "4",
+            "desc": ""
+        },
+        {
+            "hash": 3989153339,
+            "original": "Find the ~COL_NET_1~Boss~s~ and take him out.",
+            "translated": "找到~COL_NET_1~老大~s~并干掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 4111648002,
+            "original": "One for All",
+            "translated": "一对多",
+            "desc": ""
+        }
+    ]
+}

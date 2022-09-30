@@ -1,0 +1,772 @@
+{
+    "B1AUD": [
+        {
+            "hash": 8431820,
+            "original": "~z~Great. Say, nice stereo you got there, Phil.",
+            "translated": "~z~太棒了。你的音响真好，Phil。",
+            "desc": ""
+        },
+        {
+            "hash": 16077760,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 30201916,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 35232888,
+            "original": "~z~I'm always looking to earn a bit of extra cash.",
+            "translated": "~z~我向来在找赚外快的机会。",
+            "desc": ""
+        },
+        {
+            "hash": 67686171,
+            "original": "~z~The kids?",
+            "translated": "~z~孩子呢？",
+            "desc": ""
+        },
+        {
+            "hash": 149117204,
+            "original": "~z~That thing?",
+            "translated": "~z~那件事？",
+            "desc": ""
+        },
+        {
+            "hash": 171113901,
+            "original": "B1_EA",
+            "translated": "B1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 179190847,
+            "original": "~z~Yeah, you mean Harry the...",
+            "translated": "~z~嗯，就是那个Harry...",
+            "desc": ""
+        },
+        {
+            "hash": 207829194,
+            "original": "B1_FB",
+            "translated": "B1_FB",
+            "desc": ""
+        },
+        {
+            "hash": 232012755,
+            "original": "~z~and I don't want any distractions.",
+            "translated": "~z~不想分心管别的。",
+            "desc": ""
+        },
+        {
+            "hash": 264980089,
+            "original": "~z~Did you hear about our friend, the guy with the thing?",
+            "translated": "~z~有听说我们朋友的事吗？戴那个的那个？",
+            "desc": ""
+        },
+        {
+            "hash": 273692901,
+            "original": "~z~Great. I know a guy who needs a man like you. Only operates on an outside line though.",
+            "translated": "~z~好，我的一个熟人需要你这种人。不过只用公用电话联系。",
+            "desc": ""
+        },
+        {
+            "hash": 299035460,
+            "original": "~z~I've got a complaint about your driving, asshole.",
+            "translated": "~z~我对你的车技意见很大，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 300936870,
+            "original": "~z~Meantime, I got to pack it into some cars that go faster than this thing.",
+            "translated": "~z~同时，我还得把货装到几辆没那么慢的车子里。",
+            "desc": ""
+        },
+        {
+            "hash": 304966500,
+            "original": "~z~Beautiful.",
+            "translated": "~z~太好了。",
+            "desc": ""
+        },
+        {
+            "hash": 306662489,
+            "original": "~z~You got it. No problem.",
+            "translated": "~z~会给你的，没问题。",
+            "desc": ""
+        },
+        {
+            "hash": 331612275,
+            "original": "B1_HD",
+            "translated": "B1_HD",
+            "desc": ""
+        },
+        {
+            "hash": 342355997,
+            "original": "~z~Uh huh.",
+            "translated": "~z~嗯哼。",
+            "desc": ""
+        },
+        {
+            "hash": 342583531,
+            "original": "~z~Get the hell out of here.",
+            "translated": "~z~你他妈滚蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 345984733,
+            "original": "~z~I heard.",
+            "translated": "~z~明白了。",
+            "desc": ""
+        },
+        {
+            "hash": 349379978,
+            "original": "~z~Hey Phil... that thing, you know the thing you sent me for, I lost it. It got away from me.",
+            "translated": "~z~嘿，Phil...那玩意，你派我去弄的那玩意，我跟丢了。它从我这儿逃了。",
+            "desc": ""
+        },
+        {
+            "hash": 408749915,
+            "original": "~z~I'll be in touch, Nicky.",
+            "translated": "~z~我们保持联络，Nicky。",
+            "desc": ""
+        },
+        {
+            "hash": 439655822,
+            "original": "~z~Always the same. We need to talk, face to face. Come see me.",
+            "translated": "~z~向来如此。我们得谈谈了，面对面的。过来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 443834019,
+            "original": "B1_GD",
+            "translated": "B1_GD",
+            "desc": ""
+        },
+        {
+            "hash": 536698917,
+            "original": "~z~And you say he's a friend of yours?",
+            "translated": "~z~你说他是你朋友是吧？",
+            "desc": ""
+        },
+        {
+            "hash": 572812075,
+            "original": "~z~Interesting times, you know what I mean?",
+            "translated": "~z~有趣的时代啊，懂我意思吗？",
+            "desc": ""
+        },
+        {
+            "hash": 637340686,
+            "original": "~z~Just asking!",
+            "translated": "~z~我就问问！",
+            "desc": ""
+        },
+        {
+            "hash": 677751446,
+            "original": "B1_HC",
+            "translated": "B1_HC",
+            "desc": ""
+        },
+        {
+            "hash": 695155744,
+            "original": "~z~Dumb fucker.",
+            "translated": "~z~妈个逼的。",
+            "desc": ""
+        },
+        {
+            "hash": 703720488,
+            "original": "~z~Go to the payphone on the corner of Vitullo and Hardtack. He'll call you.",
+            "translated": "~z~去Vitullo大道和Hardtack大道路口的公共电话。他会打给你的。",
+            "desc": ""
+        },
+        {
+            "hash": 760231452,
+            "original": "~z~Alright Phil, later on.",
+            "translated": "~z~好的Phil，过会儿吧。",
+            "desc": ""
+        },
+        {
+            "hash": 767303209,
+            "original": "~z~I don't even like fucking heroin.",
+            "translated": "~z~我他妈都不喜欢海洛因。",
+            "desc": ""
+        },
+        {
+            "hash": 785991383,
+            "original": "~z~Phil, man, the stuff you wanted ain't around no more. It got fucked.",
+            "translated": "~z~Phil，兄弟，你想要的东西没了。全烂了。",
+            "desc": ""
+        },
+        {
+            "hash": 842029298,
+            "original": "040400400040",
+            "translated": "040400400040",
+            "desc": ""
+        },
+        {
+            "hash": 844498134,
+            "original": "~z~Look. Niko is good. He'll do what you need.",
+            "translated": "~z~听着，Niko是把好手。他能满足你的需求。",
+            "desc": ""
+        },
+        {
+            "hash": 871562442,
+            "original": "012",
+            "translated": "012",
+            "desc": ""
+        },
+        {
+            "hash": 915258922,
+            "original": "B1_IA",
+            "translated": "B1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 1018405169,
+            "original": "~z~It's loaded into a truck going to Franklyn Street and West Dyke.",
+            "translated": "~z~装货的卡车要去Franklyn街和Westdyke那边。",
+            "desc": ""
+        },
+        {
+            "hash": 1059186565,
+            "original": "~z~Oh shit!",
+            "translated": "~z~噢，操！",
+            "desc": ""
+        },
+        {
+            "hash": 1073965355,
+            "original": "~z~Ah... yeah. Bottom of the ninth, it was a nightmare.",
+            "translated": "~z~啊...好。九局下半，实在是噩梦。",
+            "desc": ""
+        },
+        {
+            "hash": 1098645220,
+            "original": "B1_DA",
+            "translated": "B1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1117124879,
+            "original": "~z~Damn, I was in the mood for Chinese takeout. Come see me. How 'bout them Swingers, eh?",
+            "translated": "~z~妈的，本来我还想来份中餐外卖的。过来找我。不知道浪人队怎么样了，嗯？",
+            "desc": ""
+        },
+        {
+            "hash": 1148728190,
+            "original": "B1_GA",
+            "translated": "B1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 1162215062,
+            "original": "B1_KA",
+            "translated": "B1_KA",
+            "desc": ""
+        },
+        {
+            "hash": 1168126498,
+            "original": "~z~Can we talk?",
+            "translated": "~z~能聊聊吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1196478802,
+            "original": "~z~Well, it seemed like a good idea when I grabbed the truck...",
+            "translated": "~z~行吧，现在看来扒车好像是个馊主意...",
+            "desc": ""
+        },
+        {
+            "hash": 1221906795,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1226789458,
+            "original": "~z~Every time this motherfucker...",
+            "translated": "~z~每次都是这个混蛋...",
+            "desc": ""
+        },
+        {
+            "hash": 1228122803,
+            "original": "~z~Your nephew's got his wedding present.",
+            "translated": "~z~你侄子收到他的新婚礼物了。",
+            "desc": ""
+        },
+        {
+            "hash": 1256108684,
+            "original": "B1_FA",
+            "translated": "B1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1323648404,
+            "original": "~z~Prove it is. Take it from them.",
+            "translated": "~z~替他们证明，去抢过来。",
+            "desc": ""
+        },
+        {
+            "hash": 1456133239,
+            "original": "~z~Phil you remember Niko, he's a good friend of mine.",
+            "translated": "~z~Phil你认识的，Niko，他是我的好朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 1498306618,
+            "original": "~z~Yeah the guy with the... and the -",
+            "translated": "~z~哦，就是戴那个...还 *口哨* ...",
+            "desc": ""
+        },
+        {
+            "hash": 1561125347,
+            "original": "~z~Yeah, so, Philly - ever hear from your ex-wife?",
+            "translated": "~z~对了，Philly，前妻联系过你吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1569062332,
+            "original": "~z~Okay, okay, come on.",
+            "translated": "~z~好了，好了，别这样。",
+            "desc": ""
+        },
+        {
+            "hash": 1595135603,
+            "original": "~z~Nicely done. He's a good kid, he deserved something special. Hopefully he'll look after it.",
+            "translated": "~z~干得好。他是个好孩子，就该有小礼物。希望他能看好货。",
+            "desc": ""
+        },
+        {
+            "hash": 1612005262,
+            "original": "B1_DB",
+            "translated": "B1_DB",
+            "desc": ""
+        },
+        {
+            "hash": 1639876149,
+            "original": "~z~Damn triad truck driver.",
+            "translated": "~z~狗逼三合会司机。",
+            "desc": ""
+        },
+        {
+            "hash": 1690528176,
+            "original": "~z~I gotta a lot of interest right now, business is really taking off,",
+            "translated": "~z~我现在盈利很多，生意顺风顺水，",
+            "desc": ""
+        },
+        {
+            "hash": 1720390690,
+            "original": "~z~Okay. Yeah, I gotta go.",
+            "translated": "~z~好的。对，我得挂了。",
+            "desc": ""
+        },
+        {
+            "hash": 1764620605,
+            "original": "~z~Hey, Ray. So, uh, who's the pal?",
+            "translated": "~z~嘿，Ray。那，呃，这老兄是？",
+            "desc": ""
+        },
+        {
+            "hash": 1784942972,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 1803353239,
+            "original": "~z~the budda beep budda boop.",
+            "translated": "~z~啪嗒咚啪嗒嘭的那个。",
+            "desc": ""
+        },
+        {
+            "hash": 1818325262,
+            "original": "~z~Niko. You looking for more work?",
+            "translated": "~z~Niko，你还要接活吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1848124115,
+            "original": "B1_ZA",
+            "translated": "B1_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 1879581384,
+            "original": "~z~This better be good smack.",
+            "translated": "~z~最好是批好货。",
+            "desc": ""
+        },
+        {
+            "hash": 1890242492,
+            "original": "010100100010100100",
+            "translated": "010100100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 1979780139,
+            "original": "~z~I can't do it Phil.",
+            "translated": "~z~我没法照做，Phil。",
+            "desc": ""
+        },
+        {
+            "hash": 2024518679,
+            "original": "~z~What have I got myself into?",
+            "translated": "~z~我给自己找了什么麻烦啊？",
+            "desc": ""
+        },
+        {
+            "hash": 2074198507,
+            "original": "012",
+            "translated": "012",
+            "desc": ""
+        },
+        {
+            "hash": 2083790337,
+            "original": "~z~Listen, I need to speak to you alone.",
+            "translated": "~z~听着，我需要和你单独聊聊。",
+            "desc": ""
+        },
+        {
+            "hash": 2125479283,
+            "original": "~z~What kind of question is that?",
+            "translated": "~z~这是什么问题？",
+            "desc": ""
+        },
+        {
+            "hash": 2258063342,
+            "original": "~z~It's never simple, is it?",
+            "translated": "~z~从来都不简单，是吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2264609679,
+            "original": "~z~Whaddaya mean you can't?",
+            "translated": "~z~做不到是几个意思？",
+            "desc": ""
+        },
+        {
+            "hash": 2347935924,
+            "original": "590",
+            "translated": "590",
+            "desc": ""
+        },
+        {
+            "hash": 2438478136,
+            "original": "B1_JA",
+            "translated": "B1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2440258974,
+            "original": "~z~Can't they make this easy?",
+            "translated": "~z~就不能让我好做点吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2441162206,
+            "original": "~z~Phil, man, I got that thing you were after. What you want me to do with it?",
+            "translated": "~z~Phil，兄弟，我拿到你要的东西了。你想怎么处理？",
+            "desc": ""
+        },
+        {
+            "hash": 2472686190,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 2488920947,
+            "original": "~z~This could really hurt.",
+            "translated": "~z~真能伤着人的。",
+            "desc": ""
+        },
+        {
+            "hash": 2499408272,
+            "original": "~z~This heroin is cursed. You don't fucking want it!",
+            "translated": "~z~这批海洛因被诅咒了，你们自己人都不要！",
+            "desc": ""
+        },
+        {
+            "hash": 2544129809,
+            "original": "~z~Sure. But Mr. Bell, it's going to cost you.",
+            "translated": "~z~好的。但Bell先生，你还得出钱。",
+            "desc": ""
+        },
+        {
+            "hash": 2611305815,
+            "original": "B1_GE",
+            "translated": "B1_GE",
+            "desc": ""
+        },
+        {
+            "hash": 2665568928,
+            "original": "B1_HA",
+            "translated": "B1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2700456803,
+            "original": "~z~You are not escaping with that smack.",
+            "translated": "~z~你别想带着海洛因跑掉。",
+            "desc": ""
+        },
+        {
+            "hash": 2707753429,
+            "original": "~z~What about them Swingers?",
+            "translated": "~z~对面浪人队呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2749951666,
+            "original": "~z~Sure we can talk... as long as we don't talk too much.",
+            "translated": "~z~当然能聊...只要别聊过头就行。",
+            "desc": ""
+        },
+        {
+            "hash": 2809665087,
+            "original": "~z~Thirty-seven at eight? Nah.",
+            "translated": "~z~八局打到37分？呕。",
+            "desc": ""
+        },
+        {
+            "hash": 2842852013,
+            "original": "~z~Get a hold of it and give me a call.",
+            "translated": "~z~弄到手，再给我打个电话。",
+            "desc": ""
+        },
+        {
+            "hash": 2863528692,
+            "original": "~z~Yeah, see, Phil, that's the thing.",
+            "translated": "~z~确实，Phil，是该这样。",
+            "desc": ""
+        },
+        {
+            "hash": 2913083983,
+            "original": "~z~How's Marlene?",
+            "translated": "~z~Marlene还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2930179179,
+            "original": "B1_FC",
+            "translated": "B1_FC",
+            "desc": ""
+        },
+        {
+            "hash": 2992604395,
+            "original": "~z~-Yeah.~n~-C'mere.",
+            "translated": "~z~－确实。~n~－过来。",
+            "desc": ""
+        },
+        {
+            "hash": 3064537563,
+            "original": "RB5_YA",
+            "translated": "RB5_YA",
+            "desc": ""
+        },
+        {
+            "hash": 3071849856,
+            "original": "~z~Our friend did what?",
+            "translated": "~z~我们的朋友咋了？",
+            "desc": ""
+        },
+        {
+            "hash": 3078494948,
+            "original": "B1_GB",
+            "translated": "B1_GB",
+            "desc": ""
+        },
+        {
+            "hash": 3088717268,
+            "original": "~z~Yeah that guy.",
+            "translated": "~z~对，就那个。",
+            "desc": ""
+        },
+        {
+            "hash": 3113098084,
+            "original": "B1_GC",
+            "translated": "B1_GC",
+            "desc": ""
+        },
+        {
+            "hash": 3131824961,
+            "original": "B1_MA",
+            "translated": "B1_MA",
+            "desc": ""
+        },
+        {
+            "hash": 3153681027,
+            "original": "B1_EC",
+            "translated": "B1_EC",
+            "desc": ""
+        },
+        {
+            "hash": 3197346947,
+            "original": "B1_GF",
+            "translated": "B1_GF",
+            "desc": ""
+        },
+        {
+            "hash": 3252431192,
+            "original": "~z~So be cool, Ray.",
+            "translated": "~z~放轻松，Ray。",
+            "desc": ""
+        },
+        {
+            "hash": 3253123367,
+            "original": "B1_LA",
+            "translated": "B1_LA",
+            "desc": ""
+        },
+        {
+            "hash": 3298601317,
+            "original": "~z~Sure... good to meet you",
+            "translated": "~z~当然...很高兴见到你。",
+            "desc": ""
+        },
+        {
+            "hash": 3319142023,
+            "original": "~z~You'll know the one I mean. He'll be waiting there for you.",
+            "translated": "~z~你会知道是哪栋的。他在那边等你。",
+            "desc": ""
+        },
+        {
+            "hash": 3440149344,
+            "original": "~z~Damn it!",
+            "translated": "~z~妈逼的！",
+            "desc": ""
+        },
+        {
+            "hash": 3459236911,
+            "original": "~z~They think it's cursed or something.",
+            "translated": "~z~他们好像是觉得有诅咒。",
+            "desc": ""
+        },
+        {
+            "hash": 3567559687,
+            "original": "~z~Get the fuck out of here.",
+            "translated": "~z~你他妈从这儿滚出去。",
+            "desc": ""
+        },
+        {
+            "hash": 3604499932,
+            "original": "~z~Talking about it all over town.",
+            "translated": "~z~满城散播这个消息。",
+            "desc": ""
+        },
+        {
+            "hash": 3638908778,
+            "original": "~z~I kinda know what you're going to ask, and I can't.",
+            "translated": "~z~我知道你大概想问什么，我做不到。",
+            "desc": ""
+        },
+        {
+            "hash": 3726631719,
+            "original": "~z~Ciao.",
+            "translated": "~z~再见。",
+            "desc": ""
+        },
+        {
+            "hash": 3770280259,
+            "original": "~z~Wanting to offload it at any price.",
+            "translated": "~z~开价多少他都肯卖。",
+            "desc": ""
+        },
+        {
+            "hash": 3848335457,
+            "original": "~z~Yeah.",
+            "translated": "~z~行。",
+            "desc": ""
+        },
+        {
+            "hash": 3912790684,
+            "original": "~z~The Triads have this big chunk of brown they're desperate to get rid of.",
+            "translated": "~z~三合会手头有一大批货，他们正急着转手。",
+            "desc": ""
+        },
+        {
+            "hash": 3966743563,
+            "original": "B1_HB",
+            "translated": "B1_HB",
+            "desc": ""
+        },
+        {
+            "hash": 3974702289,
+            "original": "~z~Hey, you Frankie? Your uncle asked me to give you this wedding present. You're a lucky guy.",
+            "translated": "~z~嘿，你是Frankie？你叔叔托我带给你这份新婚礼物。你可真走运。",
+            "desc": ""
+        },
+        {
+            "hash": 3989982475,
+            "original": "~z~I'm going to catch you, friend.",
+            "translated": "~z~我会抓住你的，朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 4004349222,
+            "original": "~z~Thanks!",
+            "translated": "~z~谢了！",
+            "desc": ""
+        },
+        {
+            "hash": 4036873187,
+            "original": "B1_EB",
+            "translated": "B1_EB",
+            "desc": ""
+        },
+        {
+            "hash": 4044263441,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 4090229362,
+            "original": "~z~It's a wedding present for my nephew, Frankie. Take it out to the big house off of Beaverhead Avenue.",
+            "translated": "~z~那是给我侄子Frankie的新婚礼物。送到Beaverhead大道那边的别墅去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4111971574,
+            "original": "~z~Sounds like a fun honeymoon. Later on.",
+            "translated": "~z~你这蜜月好像挺有趣的。回见。",
+            "desc": ""
+        },
+        {
+            "hash": 4128117643,
+            "original": "~z~No the guy with the, y'know,",
+            "translated": "~z~不，是戴那个的，你懂的，",
+            "desc": ""
+        },
+        {
+            "hash": 4174289024,
+            "original": "~z~guy with the hat.",
+            "translated": "~z~戴帽子的那个。",
+            "desc": ""
+        },
+        {
+            "hash": 4188054886,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4221114205,
+            "original": "~z~Well as you can see I got my own issues here...",
+            "translated": "~z~如你所见，我也有自己的事情...",
+            "desc": ""
+        },
+        {
+            "hash": 4236765814,
+            "original": "~z~Come back here with that heroin.",
+            "translated": "~z~别带着海洛因跑了啊。",
+            "desc": ""
+        },
+        {
+            "hash": 4289874475,
+            "original": "~z~I don't know about that. I got to sit on this stuff until Phil gets over his paranoia and we can ship it.",
+            "translated": "~z~我咋不觉得呢。现在我只能盯着这批货，得等到Phil的被害妄想缓解了才能运走。",
+            "desc": ""
+        }
+    ]
+}

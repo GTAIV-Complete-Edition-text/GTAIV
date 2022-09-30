@@ -1,0 +1,184 @@
+{
+    "FRANCI6": [
+        {
+            "hash": 193543892,
+            "original": "~r~One of the McReary cars has been destroyed.~s~",
+            "translated": "~r~其中一辆McReary的车被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 244812774,
+            "original": "~s~Wait for ~b~Packie.",
+            "translated": "~s~等待~b~Packie。",
+            "desc": ""
+        },
+        {
+            "hash": 345139512,
+            "original": "~s~Go to Perseus and buy suit pants for the funeral.",
+            "translated": "~s~去神之子服饰为葬礼购买衣服裤子。",
+            "desc": ""
+        },
+        {
+            "hash": 419557579,
+            "original": "~s~Buy a suit jacket and shoes for the funeral.",
+            "translated": "~s~为葬礼买一件上衣和一双鞋。",
+            "desc": ""
+        },
+        {
+            "hash": 493970084,
+            "original": "~r~You have abandoned Packie.~s~",
+            "translated": "~r~你抛弃了Packie。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 650972589,
+            "original": "~s~Go to Perseus and buy a suit jacket for the funeral.",
+            "translated": "~s~去神之子服饰为葬礼买一件上衣。",
+            "desc": ""
+        },
+        {
+            "hash": 682692761,
+            "original": "~s~Buy suit pants for the funeral.",
+            "translated": "~s~为葬礼买一条裤子。",
+            "desc": ""
+        },
+        {
+            "hash": 996226773,
+            "original": "~s~Go to Perseus and buy a suit jacket and pants for the funeral.",
+            "translated": "~s~去神之子服饰为葬礼买一件上衣和一条裤子。",
+            "desc": ""
+        },
+        {
+            "hash": 1092102641,
+            "original": "~r~One of the McRearys is dead.~s~",
+            "translated": "~r~McReary家族的一个人死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1101623821,
+            "original": "~s~Get in the ~b~hearse~s~ with Packie.",
+            "translated": "~s~与Packie一起进入~b~灵车。",
+            "desc": ""
+        },
+        {
+            "hash": 1181436941,
+            "original": "~s~Buy smart shoes for the funeral.",
+            "translated": "~s~为葬礼买一双好鞋子。",
+            "desc": ""
+        },
+        {
+            "hash": 1262323793,
+            "original": "~s~Help Packie fight the ~r~Albanian hoods.",
+            "translated": "~s~帮助Packie干掉~r~阿尔巴尼亚帮成员。",
+            "desc": ""
+        },
+        {
+            "hash": 1302289233,
+            "original": "~s~Go to Perseus and buy smart shoes for the funeral.",
+            "translated": "~s~去神之子服饰为葬礼买一双好鞋子。",
+            "desc": ""
+        },
+        {
+            "hash": 1390071158,
+            "original": "~r~Packie is dead.~s~",
+            "translated": "~r~Packie死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1482334059,
+            "original": "~s~Protect the McReary family from the ~r~Albanian hoods.",
+            "translated": "~s~从~r~阿尔巴尼亚帮成员~s~手中保护McReary一家。",
+            "desc": ""
+        },
+        {
+            "hash": 1721252838,
+            "original": "~s~Don't leave ~b~Packie~s~ behind.",
+            "translated": "~s~别把~b~Packie~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 2000762158,
+            "original": "Accelerating too quickly or driving up steep hills will cause the casket to slide out of the hearse.",
+            "translated": "加速太快或开上陡坡会让棺材从灵车中掉出来。",
+            "desc": ""
+        },
+        {
+            "hash": 2147401743,
+            "original": "~s~Go to Perseus and buy a suit for the funeral.",
+            "translated": "~s~去神之子服饰为葬礼买一套正装。",
+            "desc": ""
+        },
+        {
+            "hash": 2862421347,
+            "original": "~s~Go to Perseus and buy suit pants and smart shoes for the funeral.",
+            "translated": "~s~去神之子服饰为葬礼买一条裤子和一双好鞋。",
+            "desc": ""
+        },
+        {
+            "hash": 2969700807,
+            "original": "~r~The hearse has been destroyed.~s~",
+            "translated": "~r~灵车被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3160619247,
+            "original": "~s~Go to Perseus and buy a suit jacket and shoes for the funeral.",
+            "translated": "~s~去神之子服饰买一件上衣和一双鞋。",
+            "desc": ""
+        },
+        {
+            "hash": 3202721166,
+            "original": "~r~The casket was dropped.~s~",
+            "translated": "~r~棺材掉了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3478229115,
+            "original": "~s~ You've got too much heat. Lose your wanted level.",
+            "translated": "~s~你被通缉了，摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 3482181444,
+            "original": "~s~Buy a suit jacket for the funeral.",
+            "translated": "~s~为葬礼买一件上衣。",
+            "desc": ""
+        },
+        {
+            "hash": 3670188189,
+            "original": "~s~Go to the ~y~church~s~ and attend the funeral.",
+            "translated": "~s~前往~y~教堂，~s~参加葬礼。",
+            "desc": ""
+        },
+        {
+            "hash": 3710646672,
+            "original": "~s~Buy suit pants and shoes for the funeral.",
+            "translated": "~s~购买适合参加葬礼的衣服裤子鞋子。",
+            "desc": ""
+        },
+        {
+            "hash": 3758555174,
+            "original": "~s~Buy a suit for the funeral.",
+            "translated": "~s~为葬礼买一套正装。",
+            "desc": ""
+        },
+        {
+            "hash": 3842574554,
+            "original": "~s~Change into a suit for the funeral or go to Perseus and buy a smart outfit.",
+            "translated": "~s~换一套适合参加葬礼的正装，或去神之子服饰买一套讲究的套装。",
+            "desc": ""
+        },
+        {
+            "hash": 4056731297,
+            "original": "~s~Drive Packie and the hearse to the ~y~cemetery.",
+            "translated": "~s~将Packie和灵车送到~y~墓园。",
+            "desc": ""
+        },
+        {
+            "hash": 4147752251,
+            "original": "~s~Buy a suit jacket and pants for the funeral.",
+            "translated": "~s~为葬礼买一件上衣和一条裤子。",
+            "desc": ""
+        }
+    ]
+}

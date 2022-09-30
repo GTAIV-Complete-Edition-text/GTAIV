@@ -1,0 +1,160 @@
+{
+    "ROMAN6": [
+        {
+            "hash": 50440853,
+            "original": "Use ~INPUT_PREV_WEAPON~ and ~INPUT_NEXT_WEAPON~ to cycle through weapons.",
+            "translated": "使用~INPUT_PREV_WEAPON~和~INPUT_NEXT_WEAPON~切换武器。",
+            "desc": ""
+        },
+        {
+            "hash": 132395826,
+            "original": "Kill Little Jacob's ~r~enemies.",
+            "translated": "杀了Little Jacob的~r~敌人。",
+            "desc": ""
+        },
+        {
+            "hash": 161631650,
+            "original": "Get Little Jacob back to the ~y~cafe.",
+            "translated": "送Little Jacob回~y~咖啡馆。",
+            "desc": ""
+        },
+        {
+            "hash": 380457452,
+            "original": "The target icon will indicate the height of your ~y~destination~s~ in relation to you with an up or down arrow.",
+            "translated": "目标图标会通过上下箭头表示~y~目的地~s~相对于你的位置。",
+            "desc": ""
+        },
+        {
+            "hash": 451828038,
+            "original": "You left ~b~Little Jacob~s~ behind, go get him.",
+            "translated": "你把~b~Little Jacob~s~落下了，回去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 568819875,
+            "original": "When locked onto enemies you can switch between targets using ~PAD_RSTICK_LEFTRIGHT~.",
+            "translated": "锁定敌人时，你可以用~PAD_RSTICK_LEFTRIGHT~切换目标。",
+            "desc": ""
+        },
+        {
+            "hash": 678425969,
+            "original": "Go to ~y~Schottler.",
+            "translated": "前往~y~Schottler。",
+            "desc": ""
+        },
+        {
+            "hash": 746454117,
+            "original": "Crouch to stay out of sight. Use ~INPUT_DUCK~ to crouch, this will make your aim more accurate.",
+            "translated": "蹲下以不被发现。按~INPUT_DUCK~蹲下，蹲下时瞄准精度更高。",
+            "desc": ""
+        },
+        {
+            "hash": 770807360,
+            "original": "Wait for Little Jacob to get into position.",
+            "translated": "等待Little Jacob就位。",
+            "desc": ""
+        },
+        {
+            "hash": 980425661,
+            "original": "Press ~INPUT_RELOAD~ or use ~PAD_SIXAXIS_RELOAD~ to reload.",
+            "translated": "按~INPUT_RELOAD~或使用~PAD_SIXAXIS_RELOAD~装弹。",
+            "desc": ""
+        },
+        {
+            "hash": 1060315907,
+            "original": "You've been given a pistol.",
+            "translated": "你得到了一把手枪。",
+            "desc": ""
+        },
+        {
+            "hash": 1095548781,
+            "original": "Hold ~INPUT_AIM~ to lock onto enemies. Press ~INPUT_ATTACK~ to fire your weapon.",
+            "translated": "按住~INPUT_AIM~锁定敌人。按下~INPUT_ATTACK~开火。",
+            "desc": ""
+        },
+        {
+            "hash": 1112588661,
+            "original": "Press ~INPUT_RELOAD~ to reload.",
+            "translated": "按~INPUT_RELOAD~装弹。",
+            "desc": ""
+        },
+        {
+            "hash": 1242118307,
+            "original": "Go to the ~y~lookout spot.",
+            "translated": "前往~y~制高点。",
+            "desc": ""
+        },
+        {
+            "hash": 1425002096,
+            "original": "Any weapon you pick up will go into your weapon inventory.",
+            "translated": "你得到的任何武器都会保存到你的武器栏。",
+            "desc": ""
+        },
+        {
+            "hash": 1591539726,
+            "original": "The target icon will indicate the height of the ~r~enemy~s~ in relation to you with an up or down arrow.",
+            "translated": "目标图标会通过上下箭头表示~r~敌人~s~相对于你的位置。",
+            "desc": ""
+        },
+        {
+            "hash": 2416067440,
+            "original": "Lose your wanted level.",
+            "translated": "摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 2767909065,
+            "original": "Use ~PAD_SIXAXIS_RELOAD~ to reload.",
+            "translated": "使用~PAD_SIXAXIS_RELOAD~装弹。",
+            "desc": ""
+        },
+        {
+            "hash": 3005254356,
+            "original": "Select the weapon Little Jacob gave you.",
+            "translated": "选择Little Jacob给你的武器。",
+            "desc": ""
+        },
+        {
+            "hash": 3077253429,
+            "original": "Go and pick up ~b~Little Jacob.",
+            "translated": "去接~b~Little Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 3110836650,
+            "original": "Stay close to Little Jacob.",
+            "translated": "待在Little Jacob附近。",
+            "desc": ""
+        },
+        {
+            "hash": 3304271481,
+            "original": "~r~Little Jacob is dead.",
+            "translated": "~r~Little Jacob死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3310726678,
+            "original": "Press ~INPUT_VEH_HORN~ to sound the horn to get Little Jacob's attention.",
+            "translated": "按~INPUT_VEH_HORN~鸣笛引起Little Jacob注意。",
+            "desc": ""
+        },
+        {
+            "hash": 3638580523,
+            "original": "Press ~INPUT_DUCK~ while crouched to stand.",
+            "translated": "蹲下时按~INPUT_DUCK~站起。",
+            "desc": ""
+        },
+        {
+            "hash": 3786509260,
+            "original": "Use ~INPUT_FREE_AIM~ and ~PAD_RSTICK_ALL~ to aim at enemies.",
+            "translated": "使用~INPUT_FREE_AIM~和~PAD_RSTICK_ALL~瞄准敌人。",
+            "desc": ""
+        },
+        {
+            "hash": 3908834077,
+            "original": "Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim at enemies. Press ~INPUT_ATTACK~ to fire your weapon.",
+            "translated": "使用~INPUT_AIM~和~PAD_RSTICK_ALL~瞄准敌人。~n~按~INPUT_ATTACK~开火。",
+            "desc": ""
+        }
+    ]
+}

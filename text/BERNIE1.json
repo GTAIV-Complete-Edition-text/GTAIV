@@ -1,0 +1,142 @@
+{
+    "BERNIE1": [
+        {
+            "hash": 110124245,
+            "original": "~r~Bernie has been bashed.",
+            "translated": "~r~Bernie被袭击了。",
+            "desc": ""
+        },
+        {
+            "hash": 1065963210,
+            "original": "~r~Bernie is dead.",
+            "translated": "~r~Bernie死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1117585722,
+            "original": "~b~Bernie~s~ has fallen off his scooter, pick him up.",
+            "translated": "~b~Bernie~s~从他的摩托上摔下来了，接上他。",
+            "desc": ""
+        },
+        {
+            "hash": 1892375958,
+            "original": "~s~PLACEHOLDER~n~Scripted cutscene with gypsy suit anims.~n~Bernie gets hit with a baseball bat by a gay basher.",
+            "translated": "~s~PLACEHOLDER~n~Scripted cutscene with gypsy suit anims.~n~Bernie gets hit with a baseball bat by a gay basher.",
+            "desc": ""
+        },
+        {
+            "hash": 2237520494,
+            "original": "~r~You are jogging too close. The hater will not attack.",
+            "translated": "~r~你离Bernie距离太近了。仇同者不会攻击。",
+            "desc": ""
+        },
+        {
+            "hash": 2345046924,
+            "original": "~s~Take down the ~r~hater.",
+            "translated": "~s~干掉~r~仇同者。",
+            "desc": ""
+        },
+        {
+            "hash": 2451775213,
+            "original": "~s~Exit the vehicle. Driving inside the park draws too much attention.",
+            "translated": "~s~下车。在公园开车太引人注目了。",
+            "desc": ""
+        },
+        {
+            "hash": 2616395676,
+            "original": "~r~Bernie wants you to jog behind him.",
+            "translated": "~r~Bernie想要你跟在他后面慢跑。",
+            "desc": ""
+        },
+        {
+            "hash": 2625320181,
+            "original": "~s~Pick up ~b~Bernie~s~.",
+            "translated": "~s~去接~b~Bernie。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2674178416,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 2834604447,
+            "original": "~r~Bernie wants you to jog behind him, not kill people.",
+            "translated": "~r~Bernie想要你跟在他后面慢跑，而不是杀人。",
+            "desc": ""
+        },
+        {
+            "hash": 2925123418,
+            "original": "Take Bernie to ~y~Perseus~s~ in The Exchange.",
+            "translated": "带Bernie去证交区的~y~神之子服饰。",
+            "desc": ""
+        },
+        {
+            "hash": 3119968236,
+            "original": "~s~Placeholder! ~n~ Mocap Cutscene",
+            "translated": "~s~Placeholder! ~n~ Mocap Cutscene",
+            "desc": ""
+        },
+        {
+            "hash": 3164107735,
+            "original": "~s~Don't leave ~b~Bernie~s~ behind.",
+            "translated": "~s~别把~b~Bernie~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 3199913259,
+            "original": "~r~Bernie is not happy. You are too far from him.",
+            "translated": "~r~Bernie不高兴了。你离他太远了。",
+            "desc": ""
+        },
+        {
+            "hash": 3410203237,
+            "original": "~s~Follow ~b~Bernie~s~ as he jogs, but keep your distance.",
+            "translated": "~s~跟随~b~Bernie~s~慢跑，注意保持距离。",
+            "desc": ""
+        },
+        {
+            "hash": 3431164092,
+            "original": "~r~The hater got away.",
+            "translated": "~r~仇同者逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 3795489834,
+            "original": "~r~The hater will live to hate another day.",
+            "translated": "~r~仇同者又得多恨上一天了。",
+            "desc": ""
+        },
+        {
+            "hash": 3872344444,
+            "original": "~s~Take Bernie to ~y~Middle Park.",
+            "translated": "~s~带Bernie去~y~中心公园。",
+            "desc": ""
+        },
+        {
+            "hash": 3996309603,
+            "original": "~s~PLACEHOLDER : This chase will be on mopeds.",
+            "translated": "~s~PLACEHOLDER : This chase will be on mopeds.",
+            "desc": ""
+        },
+        {
+            "hash": 4090378065,
+            "original": "~r~Bernie is not happy.",
+            "translated": "~r~Bernie不高兴了。",
+            "desc": ""
+        },
+        {
+            "hash": 4179379021,
+            "original": "~r~You have attracted too much police attention. The hater will not attack.",
+            "translated": "~r~你吸引了太多警察的注意。仇同者不会攻击。",
+            "desc": ""
+        },
+        {
+            "hash": 4191285121,
+            "original": "~s~Don't leave ~b~Bernie~s~ behind.",
+            "translated": "~s~别把~b~Bernie~s~落下。",
+            "desc": ""
+        }
+    ]
+}

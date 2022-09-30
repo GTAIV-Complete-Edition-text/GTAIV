@@ -1,0 +1,1468 @@
+{
+    "GCA3AUD": [
+        {
+            "hash": 1659736,
+            "original": "~z~Sorry, Mr. European but I want to keep those mysterious bits of you, mysterious.",
+            "translated": "~z~抱歉，欧洲先生，但我还是想让你神秘的地方保持神秘。",
+            "desc": ""
+        },
+        {
+            "hash": 30371143,
+            "original": "~z~That was really biting social commentary, wasn't it?",
+            "translated": "~z~对社会的批判十分尖锐，不是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 50948851,
+            "original": "~z~Can you take me home?",
+            "translated": "~z~你能送我回家吗？",
+            "desc": ""
+        },
+        {
+            "hash": 75724062,
+            "original": "~z~Let me in and I promise to be gentle.",
+            "translated": "~z~让我进去吧，我保证会温柔的。",
+            "desc": ""
+        },
+        {
+            "hash": 81713356,
+            "original": "~z~Yeah, later.",
+            "translated": "~z~好，回见。",
+            "desc": ""
+        },
+        {
+            "hash": 83755063,
+            "original": "~z~How about we find something else to do now?",
+            "translated": "~z~现在再去找点事做如何？",
+            "desc": ""
+        },
+        {
+            "hash": 103842162,
+            "original": "~z~It used to be impossible to get a table there and you can see why.",
+            "translated": "~z~以前这里一席难求，原因你也能看出来。",
+            "desc": ""
+        },
+        {
+            "hash": 144950841,
+            "original": "GCA_ACT_LEAVE_SHOW_COMEDY",
+            "translated": "GCA_ACT_LEAVE_SHOW_COMEDY",
+            "desc": ""
+        },
+        {
+            "hash": 174524582,
+            "original": "GCA_ACT_POOL_LEAVE_ABANDON",
+            "translated": "GCA_ACT_POOL_LEAVE_ABANDON",
+            "desc": ""
+        },
+        {
+            "hash": 194801897,
+            "original": "~z~Great, you won at darts. It must be fun for you.",
+            "translated": "~z~好，飞镖你比我强。你高兴了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 218620002,
+            "original": "GCA_ACT_PAL_END_YES",
+            "translated": "GCA_ACT_PAL_END_YES",
+            "desc": ""
+        },
+        {
+            "hash": 250843661,
+            "original": "~z~This hasn't exactly been the date of my dreams, Niko. But what did I expect?",
+            "translated": "~z~这跟我想象中的约会不大一样，Niko。不过我还能指望什么呢？",
+            "desc": ""
+        },
+        {
+            "hash": 265333131,
+            "original": "GCA_ACT_PAL_END_KISS_AGREE",
+            "translated": "GCA_ACT_PAL_END_KISS_AGREE",
+            "desc": ""
+        },
+        {
+            "hash": 269595055,
+            "original": "GCA_ACT_PAL_END_KISS",
+            "translated": "GCA_ACT_PAL_END_KISS",
+            "desc": ""
+        },
+        {
+            "hash": 295800666,
+            "original": "~z~You want me to come in?",
+            "translated": "~z~要我一起进来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 335289973,
+            "original": "~z~God, the stories I could tell you about this place, let's walk.",
+            "translated": "~z~天哪，我有很多关于这里的故事可以讲，边走边聊吧。",
+            "desc": ""
+        },
+        {
+            "hash": 336656176,
+            "original": "~z~See ya.",
+            "translated": "~z~再见。",
+            "desc": ""
+        },
+        {
+            "hash": 350987184,
+            "original": "GCA_ACT_POOL_LEAVE_WON",
+            "translated": "GCA_ACT_POOL_LEAVE_WON",
+            "desc": ""
+        },
+        {
+            "hash": 360355504,
+            "original": "~z~Those girls have had some serious work done. I want the name of the honey colored one's doctor.",
+            "translated": "~z~那些女人整形整得很厉害。我想知道那个金发女人的整形医生的名字。",
+            "desc": ""
+        },
+        {
+            "hash": 404067603,
+            "original": "~z~I'd love to be taken home now.",
+            "translated": "~z~我现在想回家了。",
+            "desc": ""
+        },
+        {
+            "hash": 415732881,
+            "original": "~z~Yeah, yeah, I get it.",
+            "translated": "~z~对，对，我懂的。",
+            "desc": ""
+        },
+        {
+            "hash": 420272410,
+            "original": "~z~I'd like that Niko.",
+            "translated": "~z~可以啊，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 420947775,
+            "original": "~z~That was an immaculate dining experience.",
+            "translated": "~z~刚才的用餐体验真的是完美极了。",
+            "desc": ""
+        },
+        {
+            "hash": 439661981,
+            "original": "GCA_ACT_ARRIVE_WALK_LAST",
+            "translated": "GCA_ACT_ARRIVE_WALK_LAST",
+            "desc": ""
+        },
+        {
+            "hash": 459154135,
+            "original": "~z~How about you invite me in?",
+            "translated": "~z~你能否请我进去呢？",
+            "desc": ""
+        },
+        {
+            "hash": 470755305,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 504000775,
+            "original": "~z~Woo hoo, Niko beats Alex at pool - a game she incidentally hates. Stop the press.",
+            "translated": "~z~呜呼，Niko在台球上打败了Alex，她最讨厌台球了。别吹了。",
+            "desc": ""
+        },
+        {
+            "hash": 512432101,
+            "original": "~z~Bye then.",
+            "translated": "~z~那再见了。",
+            "desc": ""
+        },
+        {
+            "hash": 513667427,
+            "original": "~z~I guess that's my life story, thanks for listening.",
+            "translated": "~z~那大概就是我的人生经历，感谢收听。",
+            "desc": ""
+        },
+        {
+            "hash": 560346866,
+            "original": "~z~This has been an interesting experience",
+            "translated": "~z~真是一次有趣的体验。",
+            "desc": ""
+        },
+        {
+            "hash": 564539794,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 587354775,
+            "original": "GCA_ACT_DATEFINISHED_OK",
+            "translated": "GCA_ACT_DATEFINISHED_OK",
+            "desc": ""
+        },
+        {
+            "hash": 588165684,
+            "original": "~z~I think we both want me to come inside.",
+            "translated": "~z~你也想让我进来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 593956560,
+            "original": "GCA_ACT_DARTS_LEAVE_ABANDON",
+            "translated": "GCA_ACT_DARTS_LEAVE_ABANDON",
+            "desc": ""
+        },
+        {
+            "hash": 595368918,
+            "original": "GCA_ACT_DARTS_LEAVE_DRAW",
+            "translated": "GCA_ACT_DARTS_LEAVE_DRAW",
+            "desc": ""
+        },
+        {
+            "hash": 596598593,
+            "original": "GCA_ACT_BORED_GETTING",
+            "translated": "GCA_ACT_BORED_GETTING",
+            "desc": ""
+        },
+        {
+            "hash": 604132347,
+            "original": "~z~What's the deal with this? Where are we going?",
+            "translated": "~z~这是什么意思？我们要去哪儿？",
+            "desc": ""
+        },
+        {
+            "hash": 609781391,
+            "original": "~z~That place is so cool. I'm buzzed. It's amazing.",
+            "translated": "~z~那地方太酷了。我有点小醉，体验很棒。",
+            "desc": ""
+        },
+        {
+            "hash": 644701646,
+            "original": "GCA_ACT_LEAVE_CLUB_FAVOURITE",
+            "translated": "GCA_ACT_LEAVE_CLUB_FAVOURITE",
+            "desc": ""
+        },
+        {
+            "hash": 657598043,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 671127336,
+            "original": "~z~Well the crowd in there was a bit B and T, wasn't it? At least I got buzzed enough to cope.",
+            "translated": "~z~那里面的人大多是通勤族，不是吗？至少我已经够醉了。",
+            "desc": ""
+        },
+        {
+            "hash": 725946926,
+            "original": "~z~Yeah, let me take your number and we can go on another date sometime.",
+            "translated": "~z~确实，给我你的电话吧，我们以后还能再出来约会。",
+            "desc": ""
+        },
+        {
+            "hash": 814586590,
+            "original": "~z~Thank God it's over and we didn't even have to put all the balls in the holes.",
+            "translated": "~z~谢天谢地，终于结束了，再也没必要把球都打到洞里了。",
+            "desc": ""
+        },
+        {
+            "hash": 841236247,
+            "original": "~z~Later on then, Alex.",
+            "translated": "~z~回头见，Alex。",
+            "desc": ""
+        },
+        {
+            "hash": 845494255,
+            "original": "~z~Just because I write about sex on my blog, doesn't mean I'm going to put out.",
+            "translated": "~z~我在博客上面大谈特谈性的话题，不代表我要进行实践。",
+            "desc": ""
+        },
+        {
+            "hash": 856009785,
+            "original": "~z~Big deal, I won a game of pool. Could not care less.",
+            "translated": "~z~很不错，我赢了一局台球。这可不能无视。",
+            "desc": ""
+        },
+        {
+            "hash": 868113847,
+            "original": "~z~Do you want to do something else now?",
+            "translated": "~z~你还想做些别的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 895310431,
+            "original": "GCA_ACT_DATEFINISHED_AGAIN",
+            "translated": "GCA_ACT_DATEFINISHED_AGAIN",
+            "desc": ""
+        },
+        {
+            "hash": 906862658,
+            "original": "~z~I knew you'd find that story interesting. I'm really good at telling what people will like.",
+            "translated": "~z~我就知道你会对这个故事感兴趣。我真的很擅长讲述别人喜欢的东西。",
+            "desc": ""
+        },
+        {
+            "hash": 913652961,
+            "original": "~z~Bland, unmemorable, bad service. I'd give that place three out of ten.",
+            "translated": "~z~乏味、无趣、服务差。十分制我只能打三分。",
+            "desc": ""
+        },
+        {
+            "hash": 924894814,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 966981465,
+            "original": "GCA_ACT_ARRIVE_WALK_BEFORE",
+            "translated": "GCA_ACT_ARRIVE_WALK_BEFORE",
+            "desc": ""
+        },
+        {
+            "hash": 989352127,
+            "original": "~z~Wait for me to call you, okay?",
+            "translated": "~z~等我给你打电话，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1032432726,
+            "original": "GCA_ACT_LEAVE_WALK",
+            "translated": "GCA_ACT_LEAVE_WALK",
+            "desc": ""
+        },
+        {
+            "hash": 1039644082,
+            "original": "~z~Ending that game early was the best decision I've seen you make.",
+            "translated": "~z~提前结束是你至今做出的最好的决定。",
+            "desc": ""
+        },
+        {
+            "hash": 1050531341,
+            "original": "~z~This has got to be a new low point, Niko. Being beaten by a girl who hates darts.",
+            "translated": "~z~实在是太糟糕了，Niko。你输给了一个讨厌飞镖的女孩。",
+            "desc": ""
+        },
+        {
+            "hash": 1051657377,
+            "original": "GCA_ACT_ARRIVE_WALK_MHAT_LAST",
+            "translated": "GCA_ACT_ARRIVE_WALK_MHAT_LAST",
+            "desc": ""
+        },
+        {
+            "hash": 1065913099,
+            "original": "~z~I'm bored and the date hasn't even started yet.",
+            "translated": "~z~约会还没开始我就要无聊死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1075324371,
+            "original": "~z~You won't regret this.",
+            "translated": "~z~你不会后悔的。",
+            "desc": ""
+        },
+        {
+            "hash": 1083598661,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1095672514,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1098528742,
+            "original": "~z~Well I bet it feels really good to beat someone whose heart's not in the game.",
+            "translated": "~z~行吧，打败一个对台球没兴趣的人感觉很棒吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1113541356,
+            "original": "~z~You know, even winning at pool isn't fun.",
+            "translated": "~z~知道吗，台球就算赢了也没什么意思。",
+            "desc": ""
+        },
+        {
+            "hash": 1140319771,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1143602830,
+            "original": "~z~Where to next my mysterious European companion?",
+            "translated": "~z~接下来去哪儿，我的神秘欧洲伴侣？",
+            "desc": ""
+        },
+        {
+            "hash": 1151030448,
+            "original": "~z~Can we at least have some fun out here?",
+            "translated": "~z~出来玩怎么说也得整点有意思的吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1159267958,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1183147714,
+            "original": "~z~Okay, you won, big deal, let's go.",
+            "translated": "~z~好吧，你赢了，就这样，我们走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1184201029,
+            "original": "~z~How about I come into your place?",
+            "translated": "~z~要么我进来坐会儿吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1187357678,
+            "original": "~z~Sorry, Niko. But tonight is just not the night.",
+            "translated": "~z~抱歉，Niko。但今晚还不是时候。",
+            "desc": ""
+        },
+        {
+            "hash": 1233324645,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1239349413,
+            "original": "~z~Be a sweetie and drop me back at my place.",
+            "translated": "~z~请你好一点，送我回我家。",
+            "desc": ""
+        },
+        {
+            "hash": 1239560144,
+            "original": "GCA_ACT_LEAVE_STRIP_OKAY",
+            "translated": "GCA_ACT_LEAVE_STRIP_OKAY",
+            "desc": ""
+        },
+        {
+            "hash": 1280373616,
+            "original": "~z~I'll call you, I promise.",
+            "translated": "~z~我会给你打电话的，我保证。",
+            "desc": ""
+        },
+        {
+            "hash": 1283818273,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1311333461,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1318079554,
+            "original": "~z~I feel like I totally understand a new culture now.",
+            "translated": "~z~感觉我完全理解了这种新文化。",
+            "desc": ""
+        },
+        {
+            "hash": 1330310528,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1340389768,
+            "original": "~z~Screw this.",
+            "translated": "~z~滚蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 1353091019,
+            "original": "~z~From now on I am only dating Americans.",
+            "translated": "~z~从现在起，我只跟美国人约会。",
+            "desc": ""
+        },
+        {
+            "hash": 1353732570,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1361217320,
+            "original": "~z~You can take me back to my place now.",
+            "translated": "~z~你现在可以送我回家了。",
+            "desc": ""
+        },
+        {
+            "hash": 1363029622,
+            "original": "~z~This date better not be all foreplay and no pay off. Can we get where we're going already?",
+            "translated": "~z~这次约会最好别全是前戏没有结局。我们到地方了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1366849045,
+            "original": "~z~No dice cowboy, I'm keeping myself company tonight.",
+            "translated": "~z~没门儿，牛仔，今晚我已经有伴了。",
+            "desc": ""
+        },
+        {
+            "hash": 1370687079,
+            "original": "~z~Okay, yeah.",
+            "translated": "~z~好吧，行。",
+            "desc": ""
+        },
+        {
+            "hash": 1425511171,
+            "original": "GCA_ACT_DATEFINISHED_GOOD",
+            "translated": "GCA_ACT_DATEFINISHED_GOOD",
+            "desc": ""
+        },
+        {
+            "hash": 1437526331,
+            "original": "~z~I'm always going to love that place, the people are so beautiful. I belong there.",
+            "translated": "~z~我向来喜欢那个地方，那里的人都很美。我属于那里。",
+            "desc": ""
+        },
+        {
+            "hash": 1442614538,
+            "original": "GCA_ACT_DARTS_LEAVE_LOST",
+            "translated": "GCA_ACT_DARTS_LEAVE_LOST",
+            "desc": ""
+        },
+        {
+            "hash": 1460421755,
+            "original": "~z~I just don't feel like inviting you in yet.",
+            "translated": "~z~我现在还不大想请你进来。",
+            "desc": ""
+        },
+        {
+            "hash": 1478489348,
+            "original": "GCA_ACT_BORED_HOME",
+            "translated": "GCA_ACT_BORED_HOME",
+            "desc": ""
+        },
+        {
+            "hash": 1491968609,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1516154430,
+            "original": "GCA_ACT_PAL_END_KISS_RESPONSE",
+            "translated": "GCA_ACT_PAL_END_KISS_RESPONSE",
+            "desc": ""
+        },
+        {
+            "hash": 1534935796,
+            "original": "~z~Niko, I've been diagnosed with ADHD, I don't like having to wait this long to get where we're going.",
+            "translated": "~z~Niko，我被诊断有多动症，不喜欢在中途等这么久。",
+            "desc": ""
+        },
+        {
+            "hash": 1561192765,
+            "original": "~z~That really enlightened me as to what the European mind is like, you know?",
+            "translated": "~z~它启发了我什么是欧式思维，你知道吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1562140638,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1571037227,
+            "original": "~z~I could do with an escort back to my place.",
+            "translated": "~z~能麻烦你护送我回家吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1589837446,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1593888516,
+            "original": "GCA_ACT_PAL_END_REJECT",
+            "translated": "GCA_ACT_PAL_END_REJECT",
+            "desc": ""
+        },
+        {
+            "hash": 1594606927,
+            "original": "GCA_ACT_POOL_LEAVE_DRAW",
+            "translated": "GCA_ACT_POOL_LEAVE_DRAW",
+            "desc": ""
+        },
+        {
+            "hash": 1610657461,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1614768006,
+            "original": "~z~Well don't just stand there, stupid.",
+            "translated": "~z~好了，别傻愣着，白痴。",
+            "desc": ""
+        },
+        {
+            "hash": 1657823071,
+            "original": "~z~The fun's over.",
+            "translated": "~z~玩乐结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 1658657843,
+            "original": "~z~You really like this spot don't you? Did a friend of yours die here?",
+            "translated": "~z~你真的很喜欢这里，不是吗？是你的哪个朋友死在这里了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1690253104,
+            "original": "~z~The best thing about darts is getting to quit half way through.",
+            "translated": "~z~玩飞镖时最好的一件事就是中途结束。",
+            "desc": ""
+        },
+        {
+            "hash": 1696064971,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1708654550,
+            "original": "~z~So after I checked myself out of rehab I decided that I didn't have a problem. The end.",
+            "translated": "~z~离开戒毒所后，我就确信我没毛病了。就这。",
+            "desc": ""
+        },
+        {
+            "hash": 1715129895,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1733885700,
+            "original": "~z~I was finding that really interesting, Niko. Thanks for making me leave.",
+            "translated": "~z~我正在兴头上呢，Niko。真是谢谢你带我走人啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1740774418,
+            "original": "GCA_ACT_END_GOOD",
+            "translated": "GCA_ACT_END_GOOD",
+            "desc": ""
+        },
+        {
+            "hash": 1755416695,
+            "original": "GCA_ACT_LEAVE_SHOW_EARLY",
+            "translated": "GCA_ACT_LEAVE_SHOW_EARLY",
+            "desc": ""
+        },
+        {
+            "hash": 1790435689,
+            "original": "~z~Can we please find something to do already?",
+            "translated": "~z~能不能麻烦你赶紧安排点活动？",
+            "desc": ""
+        },
+        {
+            "hash": 1795474669,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1803733282,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1807157159,
+            "original": "GCA_ACT_PAL_END_GOOD_N",
+            "translated": "GCA_ACT_PAL_END_GOOD_N",
+            "desc": ""
+        },
+        {
+            "hash": 1819965273,
+            "original": "GCA_ACT_LEAVE_PUB_GENERIC",
+            "translated": "GCA_ACT_LEAVE_PUB_GENERIC",
+            "desc": ""
+        },
+        {
+            "hash": 1822061299,
+            "original": "~z~I'm done with this.",
+            "translated": "~z~我已经受够了。",
+            "desc": ""
+        },
+        {
+            "hash": 1841337477,
+            "original": "~z~There are only so many boobs a girl can look at, Niko. I think we should have left earlier.",
+            "translated": "~z~那里奶子太多，女孩子受不了的，Niko。我们早就该出来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1869129027,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1906265448,
+            "original": "~z~If you're not taking me straight home I can just call Daddy's driver.",
+            "translated": "~z~再不送我回去，我就打电话叫爹地的司机了。",
+            "desc": ""
+        },
+        {
+            "hash": 1907102966,
+            "original": "GCA_ACT_LEAVE_HIGHEND",
+            "translated": "GCA_ACT_LEAVE_HIGHEND",
+            "desc": ""
+        },
+        {
+            "hash": 1944699553,
+            "original": "~z~See you, Alex.",
+            "translated": "~z~再见，Alex。",
+            "desc": ""
+        },
+        {
+            "hash": 1957645893,
+            "original": "~z~Would you bring me home now?",
+            "translated": "~z~现在你能送我回家了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1976725268,
+            "original": "GCA_ACT_POOL_LEAVE_LOST",
+            "translated": "GCA_ACT_POOL_LEAVE_LOST",
+            "desc": ""
+        },
+        {
+            "hash": 1985859516,
+            "original": "~z~Mmmmm, yeah.",
+            "translated": "~z~唔，确实。",
+            "desc": ""
+        },
+        {
+            "hash": 1996512178,
+            "original": "~z~Thank God that's over. I don't think I could have finished.",
+            "translated": "~z~谢天谢地结束了。我都觉得自己撑不住。",
+            "desc": ""
+        },
+        {
+            "hash": 2039728068,
+            "original": "GCA_ACT_DARTS_LEAVE_WON",
+            "translated": "GCA_ACT_DARTS_LEAVE_WON",
+            "desc": ""
+        },
+        {
+            "hash": 2052856410,
+            "original": "~z~Let's go.",
+            "translated": "~z~走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2073852356,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2102486093,
+            "original": "~z~It was funny because it was true, I mean don't you think?",
+            "translated": "~z~说的都是大实话，所以才有趣，你不觉得吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2184805106,
+            "original": "~z~This place carries so many memories for me, Niko. I'm so happy that I can share it with you.",
+            "translated": "~z~这个地方承载着我的很多回忆，Niko。很高兴我可以和你共享。",
+            "desc": ""
+        },
+        {
+            "hash": 2197547742,
+            "original": "~z~Take me home, won't you?",
+            "translated": "~z~送我回家，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2213046993,
+            "original": "~z~Really.",
+            "translated": "~z~真的。",
+            "desc": ""
+        },
+        {
+            "hash": 2235936865,
+            "original": "~z~You've shown me a good time, Niko.",
+            "translated": "~z~跟你玩得很开心，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2245551742,
+            "original": "~z~Goodbye, Alex.",
+            "translated": "~z~再见，Alex。",
+            "desc": ""
+        },
+        {
+            "hash": 2251586864,
+            "original": "GCA_ACT_DATEFINISHED_BAD",
+            "translated": "GCA_ACT_DATEFINISHED_BAD",
+            "desc": ""
+        },
+        {
+            "hash": 2261840362,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2279244118,
+            "original": "~z~And you've shown me that the criminals are not the only terrible people in Liberty City. Goodye.",
+            "translated": "~z~你也让我知道了，罪犯不是自由城里唯一一类糟糕的人。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2291163177,
+            "original": "~z~That game was almost as anti-climactic as sex with my last boyfriend.",
+            "translated": "~z~刚才那局平淡得跟和我前男友做爱一样。",
+            "desc": ""
+        },
+        {
+            "hash": 2293155191,
+            "original": "~z~I hope I wasn't boring you, I mean not that I can bore anyone, but I was talking a lot.",
+            "translated": "~z~希望我没有让你无聊，不是说我会让别人无聊，但我一直在说话。",
+            "desc": ""
+        },
+        {
+            "hash": 2311917733,
+            "original": "~z~I told you I hate fast-food. I will not let it pass my lips again.",
+            "translated": "~z~都说了我讨厌快餐。我不会再让这种东西进我嘴里了。",
+            "desc": ""
+        },
+        {
+            "hash": 2314468197,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2316737908,
+            "original": "GCA_ACT_LEAVE_STRIP_EARLY",
+            "translated": "GCA_ACT_LEAVE_STRIP_EARLY",
+            "desc": ""
+        },
+        {
+            "hash": 2328345625,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2358283980,
+            "original": "~z~I'll go somewhere else then.",
+            "translated": "~z~那我就去别的地方了。",
+            "desc": ""
+        },
+        {
+            "hash": 2358427335,
+            "original": "~z~We'll have fun.",
+            "translated": "~z~我们会玩得开心的。",
+            "desc": ""
+        },
+        {
+            "hash": 2373449501,
+            "original": "~z~Okay, Niko.",
+            "translated": "~z~好的，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2374918697,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2375678917,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2381247111,
+            "original": "GCA_ACT_PAL_END_GOOD_Y",
+            "translated": "GCA_ACT_PAL_END_GOOD_Y",
+            "desc": ""
+        },
+        {
+            "hash": 2436861492,
+            "original": "~z~That was interesting. I've got something to put in my blog at least.",
+            "translated": "~z~很有趣，至少我有写博客的素材了。",
+            "desc": ""
+        },
+        {
+            "hash": 2504285196,
+            "original": "~z~Here again, okay. There's a lot more to see in Algonquin, Niko.",
+            "translated": "~z~又是这儿，行吧。Algonquin能去的地方可多得很啊，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2517370092,
+            "original": "~z~Don't you feel pathetic? Me beating you at the sport I hate.",
+            "translated": "~z~你就不觉得可悲吗？我在我讨厌的项目上打败了你。",
+            "desc": ""
+        },
+        {
+            "hash": 2519140475,
+            "original": "~z~Come over here.",
+            "translated": "~z~过来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2525602494,
+            "original": "~z~Enjoy yourself.",
+            "translated": "~z~祝你玩得开心。",
+            "desc": ""
+        },
+        {
+            "hash": 2527596632,
+            "original": "~z~That's interesting.",
+            "translated": "~z~真有趣。",
+            "desc": ""
+        },
+        {
+            "hash": 2557406849,
+            "original": "GCA_ACT_PAL_END_REJECT_RESPONSE",
+            "translated": "GCA_ACT_PAL_END_REJECT_RESPONSE",
+            "desc": ""
+        },
+        {
+            "hash": 2577248876,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2585278045,
+            "original": "~z~That was a frat-tastic experience. It served its purpose though. I'm drunk.",
+            "translated": "~z~真是个普通到爆的地方。不过目的至少是达到了，我醉了。",
+            "desc": ""
+        },
+        {
+            "hash": 2589452489,
+            "original": "~z~I haven't told that stuff to anyone before. You're a good listener.",
+            "translated": "~z~我之前没跟任何人说过那件事。你是一个好听众。",
+            "desc": ""
+        },
+        {
+            "hash": 2618275114,
+            "original": "~z~I'm sorry, but I am not putting this chemical and hormone filled stuff into my body again. Will you take me somewhere else?",
+            "translated": "~z~很抱歉，但我不会再让这种全是激素添加剂的东西下肚了。能不能换家店？",
+            "desc": ""
+        },
+        {
+            "hash": 2644288325,
+            "original": "GCA_ACT_LEAVE_CLUB_GENERIC",
+            "translated": "GCA_ACT_LEAVE_CLUB_GENERIC",
+            "desc": ""
+        },
+        {
+            "hash": 2716981374,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2737759719,
+            "original": "~z~I grew up walking around here. I'm so pleased to be back.",
+            "translated": "~z~我小时候就在这儿晃悠。很高兴能回到这里。",
+            "desc": ""
+        },
+        {
+            "hash": 2785208530,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2791767633,
+            "original": "~z~I'm always happy to come here, Niko. But there are like other places to go walking.",
+            "translated": "~z~能来这里我很高兴，Niko。但也有别的地方能去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2805519341,
+            "original": "GCA_ACT_SHOW_REACT",
+            "translated": "GCA_ACT_SHOW_REACT",
+            "desc": ""
+        },
+        {
+            "hash": 2823138488,
+            "original": "~z~Get over here.",
+            "translated": "~z~到这儿来。",
+            "desc": ""
+        },
+        {
+            "hash": 2831716202,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2885868309,
+            "original": "~z~This illustrates how un-fun darts is, there wasn't even a winner.",
+            "translated": "~z~你看看飞镖有多无聊，连胜负都分不出来。",
+            "desc": ""
+        },
+        {
+            "hash": 2896662569,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2900319207,
+            "original": "~z~Well, I'm not going to remember that place. That's for sure.",
+            "translated": "~z~好吧，我不会记得那个地方的，这点可以肯定。",
+            "desc": ""
+        },
+        {
+            "hash": 2931790868,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2933424291,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2983728686,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3055044927,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3106493786,
+            "original": "~z~I need some Ritalin.",
+            "translated": "~z~我需要一些利他林*。~n~(多动症治疗药)",
+            "desc": ""
+        },
+        {
+            "hash": 3169086960,
+            "original": "~z~Well, what can I say about our time together...",
+            "translated": "~z~好吧，我对我们共处的时光无话可说...",
+            "desc": ""
+        },
+        {
+            "hash": 3187471383,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3194701234,
+            "original": "GCA_ACT_LEAVE_SHOW_CABARET",
+            "translated": "GCA_ACT_LEAVE_SHOW_CABARET",
+            "desc": ""
+        },
+        {
+            "hash": 3207369914,
+            "original": "~z~Umm, I don't feel like I can get physical with you right now.",
+            "translated": "~z~唔，我不觉得现在就能跟你有肉体关系。",
+            "desc": ""
+        },
+        {
+            "hash": 3211261050,
+            "original": "~z~Goodnight, Alex.",
+            "translated": "~z~晚安，Alex。",
+            "desc": ""
+        },
+        {
+            "hash": 3234382332,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3247833051,
+            "original": "~z~Umm, are you sure you want to go for a walk right now? Don't people get raped here? You better protect me.",
+            "translated": "~z~唔，你确定要现在散步吗？走这里很容易被强奸吧？你最好能保护我。",
+            "desc": ""
+        },
+        {
+            "hash": 3262579101,
+            "original": "~z~Niko, this area looks very dangerous. People get killed outside of Algonquin. I trust you though.",
+            "translated": "~z~Niko，这地方看起来很危险。Algonquin以外的地方有很多杀人案。不过我相信你。",
+            "desc": ""
+        },
+        {
+            "hash": 3278072815,
+            "original": "~z~As I said, that was repulsive. I am never, I mean ne-ver going there again.",
+            "translated": "~z~我说了，那地方很恶心。我再也、再也不会去那里了。",
+            "desc": ""
+        },
+        {
+            "hash": 3298625548,
+            "original": "GCA_ACT_PAL_END_NO",
+            "translated": "GCA_ACT_PAL_END_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3372847509,
+            "original": "~z~Well, let's check out this exciting place one more time. Fingers crossed we won't be killed.",
+            "translated": "~z~行吧，那就再去那儿瞧瞧吧。但愿我们不会被杀。",
+            "desc": ""
+        },
+        {
+            "hash": 3377572100,
+            "original": "~z~Sorry, Niko. You're sweet but we can't do that right now.",
+            "translated": "~z~抱歉，Niko。你很可爱，但我们现在还不能做那个。",
+            "desc": ""
+        },
+        {
+            "hash": 3471534366,
+            "original": "~z~There is other stuff we can do, isn't there?",
+            "translated": "~z~我们应该还有别的事能做吧，不是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3475324426,
+            "original": "~z~Did we have to go? What? Were you getting jealous of me and the other girls or were you too turned on?",
+            "translated": "~z~一定要走吗？咋了？你是嫉妒我和其它女孩一起还是太性奋了？",
+            "desc": ""
+        },
+        {
+            "hash": 3488731192,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3507619589,
+            "original": "~z~Will you take me back to my place?",
+            "translated": "~z~能送我回我家吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3513117168,
+            "original": "~z~Shit, to think that I used to love that place. Well, I still get drunk there though.",
+            "translated": "~z~我靠，以前我居然还喜欢那地方。好吧，不过我还是在那儿喝醉了。",
+            "desc": ""
+        },
+        {
+            "hash": 3522206237,
+            "original": "~z~Do you want to take me somewhere else?",
+            "translated": "~z~你还想带我去别的地方吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3531373428,
+            "original": "~z~Do you take all your girls here, Niko? Because I'm getting to know it pretty well.",
+            "translated": "~z~你是不是把每个女朋友都往这儿带，Niko？因为我什么都知道。",
+            "desc": ""
+        },
+        {
+            "hash": 3556758137,
+            "original": "GCA_ACT_END_BAD",
+            "translated": "GCA_ACT_END_BAD",
+            "desc": ""
+        },
+        {
+            "hash": 3556855255,
+            "original": "~z~It's been a blast.",
+            "translated": "~z~刚才真是太爽了。",
+            "desc": ""
+        },
+        {
+            "hash": 3588750629,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3595180204,
+            "original": "~z~You're not going to go in and be all alone, are you?",
+            "translated": "~z~你也不想一个人待在家里寂寞难耐吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3598332832,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3620818731,
+            "original": "~z~You know I love this place, Niko.",
+            "translated": "~z~你也知道，我喜欢这地方，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3634793501,
+            "original": "~z~I'm gonna call soon.",
+            "translated": "~z~我会尽快打给你的。",
+            "desc": ""
+        },
+        {
+            "hash": 3662873525,
+            "original": "~z~Sure, goodbye.",
+            "translated": "~z~当然了，再见。",
+            "desc": ""
+        },
+        {
+            "hash": 3685740642,
+            "original": "~z~If you stay that long in a strip club, a girl is going to think that you're more interested in strippers than her.",
+            "translated": "~z~要是你在脱衣舞俱乐部待那么久，女孩子就会觉得比起她你更喜欢那些脱衣舞女了。",
+            "desc": ""
+        },
+        {
+            "hash": 3691121407,
+            "original": "~z~You've shown me a good time, Niko.",
+            "translated": "~z~你陪我玩得很开心，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3695268309,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3715309037,
+            "original": "~z~Oh, mmm.",
+            "translated": "~z~噢，唔。",
+            "desc": ""
+        },
+        {
+            "hash": 3723634190,
+            "original": "GCA_ACT_DATEFINISHED_HOME",
+            "translated": "GCA_ACT_DATEFINISHED_HOME",
+            "desc": ""
+        },
+        {
+            "hash": 3730553913,
+            "original": "~z~We've already walked around this place once. I thought we'd seen everything there was to see. I guess not.",
+            "translated": "~z~我们来过这儿一次了。我还以为能看的都已经看完了。不过好像还没。",
+            "desc": ""
+        },
+        {
+            "hash": 3747733119,
+            "original": "~z~I was just getting into that. Me and that stripper had a connection. She understood me.",
+            "translated": "~z~我快习惯这里了。我和那个脱衣舞女有了默契。她能懂我。",
+            "desc": ""
+        },
+        {
+            "hash": 3748586638,
+            "original": "~z~Okay then.",
+            "translated": "~z~那好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3779100885,
+            "original": "GCA_ACT_PAL_END_NO_RESPONSE",
+            "translated": "GCA_ACT_PAL_END_NO_RESPONSE",
+            "desc": ""
+        },
+        {
+            "hash": 3796590423,
+            "original": "~z~Enough is enough.",
+            "translated": "~z~够了就是够了。",
+            "desc": ""
+        },
+        {
+            "hash": 3807112108,
+            "original": "~z~I've enjoyed myself.",
+            "translated": "~z~我玩得很开心。",
+            "desc": ""
+        },
+        {
+            "hash": 3816179933,
+            "original": "GCA_ACT_ARRIVE_WALK_MHAT_BEFORE",
+            "translated": "GCA_ACT_ARRIVE_WALK_MHAT_BEFORE",
+            "desc": ""
+        },
+        {
+            "hash": 3820055704,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3845278033,
+            "original": "GCA_ACT_ARRIVE_WALK_NOT",
+            "translated": "GCA_ACT_ARRIVE_WALK_NOT",
+            "desc": ""
+        },
+        {
+            "hash": 3850508811,
+            "original": "~z~I'll write a blog about you.",
+            "translated": "~z~我会写一篇关于你的博客的。",
+            "desc": ""
+        },
+        {
+            "hash": 3865384110,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3868115659,
+            "original": "~z~Have fun then.",
+            "translated": "~z~祝你玩得开心。",
+            "desc": ""
+        },
+        {
+            "hash": 3883561788,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3883572349,
+            "original": "GCA_ACT_PAL_END_RESPONSE",
+            "translated": "GCA_ACT_PAL_END_RESPONSE",
+            "desc": ""
+        },
+        {
+            "hash": 3891575809,
+            "original": "~z~I'd feel guilty if I didn't escort you all the way into your place.",
+            "translated": "~z~要是没有护送你进门，我会有负罪感的。",
+            "desc": ""
+        },
+        {
+            "hash": 3901695044,
+            "original": "~z~European girls might be whores, but Americans aren't.",
+            "translated": "~z~欧洲女孩可能是妓女，但美国的不是。",
+            "desc": ""
+        },
+        {
+            "hash": 3917094459,
+            "original": "~z~Can I kiss you goodbye?",
+            "translated": "~z~我能跟你吻别吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3919709100,
+            "original": "~z~Niko, show some respect to the performers and stay for the length of the show.",
+            "translated": "~z~Niko，对表演者放尊重些，等表演结束再走。",
+            "desc": ""
+        },
+        {
+            "hash": 3926470358,
+            "original": "~z~Later.",
+            "translated": "~z~回见。",
+            "desc": ""
+        },
+        {
+            "hash": 3943221750,
+            "original": "GCA_ACT_PAL_END_BONK",
+            "translated": "GCA_ACT_PAL_END_BONK",
+            "desc": ""
+        },
+        {
+            "hash": 3950754302,
+            "original": "~z~Uh huh, uh huh.",
+            "translated": "~z~嗯哼，嗯哼。",
+            "desc": ""
+        },
+        {
+            "hash": 3984654851,
+            "original": "~z~Come inside then.",
+            "translated": "~z~那就进来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3994970165,
+            "original": "GCA_ACT_LEAVE_STANDARD",
+            "translated": "GCA_ACT_LEAVE_STANDARD",
+            "desc": ""
+        },
+        {
+            "hash": 4018533273,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4040168904,
+            "original": "~z~And that's why I'm as fucked up as I am.",
+            "translated": "~z~所以我才会落到这个境地。",
+            "desc": ""
+        },
+        {
+            "hash": 4045065313,
+            "original": "~z~Umm, Niko. You are taking me home, right?",
+            "translated": "~z~呃，Niko。你会送我回家的对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 4048483634,
+            "original": "GCA_ACT_ARRIVE_WALK_MHAT_NOT",
+            "translated": "GCA_ACT_ARRIVE_WALK_MHAT_NOT",
+            "desc": ""
+        },
+        {
+            "hash": 4071760932,
+            "original": "GCA_ACT_LEAVE_SHOW_LATE",
+            "translated": "GCA_ACT_LEAVE_SHOW_LATE",
+            "desc": ""
+        },
+        {
+            "hash": 4073574835,
+            "original": "~z~Let me into your place, I don't bite.",
+            "translated": "~z~让我进你家吧，我不咬人。",
+            "desc": ""
+        },
+        {
+            "hash": 4099421175,
+            "original": "~z~At least kiss me before I am sent off.",
+            "translated": "~z~在我走前至少要亲一个吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4131403737,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4191404967,
+            "original": "~z~The food tasted of nothing, did you notice that? Urgh.",
+            "translated": "~z~那里的菜食之无味，你有发现吗？呃。",
+            "desc": ""
+        },
+        {
+            "hash": 4219321173,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4255828392,
+            "original": "GCA_ACT_LEAVE_FASTFOOD",
+            "translated": "GCA_ACT_LEAVE_FASTFOOD",
+            "desc": ""
+        },
+        {
+            "hash": 4292086282,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4292902047,
+            "original": "GCA_ACT_DIFF_FASTFOOD_NO",
+            "translated": "GCA_ACT_DIFF_FASTFOOD_NO",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "BELL5": [
+        {
+            "hash": 767152078,
+            "original": "~s~Chase ~r~Chubby Charlie.",
+            "translated": "~s~追逐~r~肥佬Charlie。",
+            "desc": ""
+        },
+        {
+            "hash": 1344326896,
+            "original": "~r~The chopper got away.",
+            "translated": "~r~直升机飞走了。",
+            "desc": ""
+        },
+        {
+            "hash": 1580380335,
+            "original": "~s~Go to the ~y~old Sprunk factory~s~ near Port Tudor.",
+            "translated": "~s~前往Tudor港附近的~y~旧霜碧工厂。",
+            "desc": ""
+        },
+        {
+            "hash": 1621530314,
+            "original": "~r~Bell is dead.",
+            "translated": "~r~Bell死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2109989432,
+            "original": "~s~You left ~b~Bell~s~ behind.",
+            "translated": "~s~你把~b~Bell~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 2311129035,
+            "original": "~s~Find ~r~Chubby Charlie.",
+            "translated": "~s~寻找~r~肥佬Charlie。",
+            "desc": ""
+        },
+        {
+            "hash": 2549457972,
+            "original": "~s~Keep chasing ~r~Chubby Charlie.",
+            "translated": "~s~继续追逐~r~肥佬Charlie。",
+            "desc": ""
+        },
+        {
+            "hash": 2908704535,
+            "original": "~s~Follow ~b~Bell.",
+            "translated": "~s~跟随~b~Bell。",
+            "desc": ""
+        },
+        {
+            "hash": 3174225693,
+            "original": "~r~Bell was abandoned.",
+            "translated": "~r~Bell被抛弃了。",
+            "desc": ""
+        },
+        {
+            "hash": 3376711397,
+            "original": "~s~Take out the ~r~chopper.",
+            "translated": "~s~击落~r~直升机。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3608027768,
+            "original": "~s~Take down ~r~Chubby Charlie.",
+            "translated": "~s~干掉~r~肥佬Charlie。",
+            "desc": ""
+        },
+        {
+            "hash": 3737293229,
+            "original": "~r~Chubby Charlie got away.",
+            "translated": "~r~肥佬Charlie逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 4107197945,
+            "original": "~s~Find a way inside the ~y~building.",
+            "translated": "~s~设法进入~y~建筑。",
+            "desc": ""
+        }
+    ]
+}

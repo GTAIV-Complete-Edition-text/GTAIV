@@ -1,0 +1,2218 @@
+{
+    "RB2AUD": [
+        {
+            "hash": 15619006,
+            "original": "~z~Johnny and Tuna are sleeping with the fishes, Ray. I'm sorry.",
+            "translated": "~z~Johnny和Tuna都要去河底喂鱼了，Ray。我很抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 42627810,
+            "original": "~z~All this'll be over soon.",
+            "translated": "~z~这种生活就要结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 42902564,
+            "original": "RB2_SC",
+            "translated": "RB2_SC",
+            "desc": ""
+        },
+        {
+            "hash": 44627331,
+            "original": "~z~I'm fucking coming down, asshole. I feel like death.",
+            "translated": "~z~老娘要撑不住了，混蛋。感觉跟要死了一样。",
+            "desc": ""
+        },
+        {
+            "hash": 44920563,
+            "original": "~z~Shit, Nicky. The fucking truck.",
+            "translated": "~z~干，Nicky。垃圾卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 74844771,
+            "original": "RB2_YA",
+            "translated": "RB2_YA",
+            "desc": ""
+        },
+        {
+            "hash": 101490636,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 115324629,
+            "original": "~z~I sure hope we ain't lost any on the route. Things got shaken up pretty good back there.",
+            "translated": "~z~希望我们没在路上掉过钻石，刚才震得可厉害了。",
+            "desc": ""
+        },
+        {
+            "hash": 121738557,
+            "original": "~z~Yeah, she's pretty strung out.",
+            "translated": "~z~见过，她吸毒吸得够呛。",
+            "desc": ""
+        },
+        {
+            "hash": 131250172,
+            "original": "~z~Shit, can't you learn to play nice, Nicky?",
+            "translated": "~z~靠，你就不能稍微友善点，Nicky？",
+            "desc": ""
+        },
+        {
+            "hash": 171293988,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 173833813,
+            "original": "RB2_ABB",
+            "translated": "RB2_ABB",
+            "desc": ""
+        },
+        {
+            "hash": 174512125,
+            "original": "RB2_GD",
+            "translated": "RB2_GD",
+            "desc": ""
+        },
+        {
+            "hash": 210891769,
+            "original": "~z~Ah hell, Nicky. They was good earners. You gotta control yourself, you're a fucking maniac.",
+            "translated": "~z~妈的，Nicky。他俩很能干的。学会控制自己，你这个疯子。",
+            "desc": ""
+        },
+        {
+            "hash": 216033549,
+            "original": "~z~Me and Luca didn't get on so well, Ray. This thing ain't happening.",
+            "translated": "~z~我和Luca相处得不好，Ray。计划失败了。",
+            "desc": ""
+        },
+        {
+            "hash": 223743759,
+            "original": "~z~You think that's funny? Shit. You're an imbecile. We gotta talk about this.",
+            "translated": "~z~这很有趣吗？操，你这个白痴。我们得好好谈谈了。",
+            "desc": ""
+        },
+        {
+            "hash": 231454033,
+            "original": "~z~Jimmy Pegorino is a personal friend of mine,",
+            "translated": "~z~Jimmy Pegorino就和我是私交。",
+            "desc": ""
+        },
+        {
+            "hash": 240215002,
+            "original": "RB2_BA",
+            "translated": "RB2_BA",
+            "desc": ""
+        },
+        {
+            "hash": 244805392,
+            "original": "~z~Alright, Nicky. What's done is done. Come see me.",
+            "translated": "~z~好吧，Nicky。覆水难收啊。过来见我。",
+            "desc": ""
+        },
+        {
+            "hash": 251815699,
+            "original": "~z~We don't want none of those bags to break, Nicky.",
+            "translated": "~z~我们不希望任何一袋垃圾破掉，Nicky。",
+            "desc": ""
+        },
+        {
+            "hash": 261146973,
+            "original": "~z~Me and Spaz ain't having fun.",
+            "translated": "~z~我和Spaz很不舒服。",
+            "desc": ""
+        },
+        {
+            "hash": 269450765,
+            "original": "RB2_GH",
+            "translated": "RB2_GH",
+            "desc": ""
+        },
+        {
+            "hash": 280879490,
+            "original": "RB2_A_AG",
+            "translated": "RB2_A_AG",
+            "desc": ""
+        },
+        {
+            "hash": 284676094,
+            "original": "~z~This truck can't drive itself. Get back in.",
+            "translated": "~z~卡车不会自己跑。快回来。",
+            "desc": ""
+        },
+        {
+            "hash": 291701608,
+            "original": "RB2_XB",
+            "translated": "RB2_XB",
+            "desc": ""
+        },
+        {
+            "hash": 293594105,
+            "original": "RB2_B_CA",
+            "translated": "RB2_B_CA",
+            "desc": ""
+        },
+        {
+            "hash": 304533317,
+            "original": "~z~Fuck, I thought this was going to be easy. Why does everything have to get complicated?",
+            "translated": "~z~操，我还以为会很容易。怎么做什么最后都一团糟？",
+            "desc": ""
+        },
+        {
+            "hash": 337400320,
+            "original": "~z~You ain't making this easy on us.",
+            "translated": "~z~就不能让我们好过点吗。",
+            "desc": ""
+        },
+        {
+            "hash": 341842161,
+            "original": "~z~-Can I get a Goddamn coffee here?~n~-Yeah, you look like you could really use some Goddamn caffeine.",
+            "translated": "~z~－能他妈给老娘上杯咖啡吗？~n~－确实，你看上去确实得他妈来点咖啡因。",
+            "desc": ""
+        },
+        {
+            "hash": 351664686,
+            "original": "~z~Luca and Johnny are on ice, Ray. Shit happens.",
+            "translated": "~z~Luca和Johnny都进冷柜了，Ray。发生了很多事。",
+            "desc": ""
+        },
+        {
+            "hash": 364195500,
+            "original": "RB2_GE",
+            "translated": "RB2_GE",
+            "desc": ""
+        },
+        {
+            "hash": 366116560,
+            "original": "~z~I ain't gonna get caught by the cops with this stolen ice. Lose 'em before we pick it up.",
+            "translated": "~z~我可不想带着赃物钻石被警察抓到。在我们收回钻石前甩了他们。",
+            "desc": ""
+        },
+        {
+            "hash": 366871413,
+            "original": "RB2_WA",
+            "translated": "RB2_WA",
+            "desc": ""
+        },
+        {
+            "hash": 367870719,
+            "original": "RB2_A_AD",
+            "translated": "RB2_A_AD",
+            "desc": ""
+        },
+        {
+            "hash": 372266167,
+            "original": "~z~Me and your crew didn't get on so good, Ray.",
+            "translated": "~z~我和你的手下处得不太好，Ray。",
+            "desc": ""
+        },
+        {
+            "hash": 399995734,
+            "original": "RB2_TB",
+            "translated": "RB2_TB",
+            "desc": ""
+        },
+        {
+            "hash": 400490152,
+            "original": "RB2_A_AH",
+            "translated": "RB2_A_AH",
+            "desc": ""
+        },
+        {
+            "hash": 405199203,
+            "original": "~z~Nah, me and Tuna will look after them. Sort them out from the trash.",
+            "translated": "~z~不了，我和Tuna会处理的。把钻石从垃圾里分出来。",
+            "desc": ""
+        },
+        {
+            "hash": 408198774,
+            "original": "~z~Hey, sugar. Come here.",
+            "translated": "~z~嘿，甜心。过来。",
+            "desc": ""
+        },
+        {
+            "hash": 428168100,
+            "original": "RB2_PB",
+            "translated": "RB2_PB",
+            "desc": ""
+        },
+        {
+            "hash": 429545508,
+            "original": "RB2_B_DA",
+            "translated": "RB2_B_DA",
+            "desc": ""
+        },
+        {
+            "hash": 439758064,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 452234510,
+            "original": "RB2_WB",
+            "translated": "RB2_WB",
+            "desc": ""
+        },
+        {
+            "hash": 467146196,
+            "original": "~z~We was saying that there's a lot of opportunities for this to go wrong. The bag could split.",
+            "translated": "~z~我们在说这个计划很容易出问题。垃圾袋会破掉。",
+            "desc": ""
+        },
+        {
+            "hash": 478076184,
+            "original": "~z~The whole crew? Va fanabla! Come back to Drusilla's.",
+            "translated": "~z~全军覆没？干你娘的！回Drusilla's来。",
+            "desc": ""
+        },
+        {
+            "hash": 513895249,
+            "original": "~z~There's no time for this shit, get back into the truck, Nicky.",
+            "translated": "~z~没时间乱搞了，回到卡车上，Nicky。",
+            "desc": ""
+        },
+        {
+            "hash": 518299337,
+            "original": "~z~Go over to F between Columbus and Denver, there'll be a truck waiting there.",
+            "translated": "~z~去Columbus大道和Denver大道之间的F路，那里有辆垃圾车等着。",
+            "desc": ""
+        },
+        {
+            "hash": 542700631,
+            "original": "~z~Ray, Luca got killed. I'm sorry.",
+            "translated": "~z~Ray，Luca死了。我很抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 569535916,
+            "original": "~z~Hey, hey, hey.",
+            "translated": "~z~喂，喂，喂。",
+            "desc": ""
+        },
+        {
+            "hash": 577522701,
+            "original": "~z~I make the call on who gets whacked, tough guy. We gotta have a meeting.",
+            "translated": "~z~杀谁我说了算，硬汉，我们会见面的。",
+            "desc": ""
+        },
+        {
+            "hash": 584727055,
+            "original": "RB2_FA",
+            "translated": "RB2_FA",
+            "desc": ""
+        },
+        {
+            "hash": 587990297,
+            "original": "~z~We're just trying to pick up the damn trash.",
+            "translated": "~z~我们只是在捡垃圾。",
+            "desc": ""
+        },
+        {
+            "hash": 594848260,
+            "original": "010100100010",
+            "translated": "010100100010",
+            "desc": ""
+        },
+        {
+            "hash": 624676349,
+            "original": "RB2_A_BA",
+            "translated": "RB2_A_BA",
+            "desc": ""
+        },
+        {
+            "hash": 638926333,
+            "original": "RB2_CH",
+            "translated": "RB2_CH",
+            "desc": ""
+        },
+        {
+            "hash": 651148127,
+            "original": "~z~Really? I wanted to be an astronaut when I was growing up, not a gangster.",
+            "translated": "~z~是吗？我小时候想当太空人，而不是混黑道。",
+            "desc": ""
+        },
+        {
+            "hash": 663036469,
+            "original": "~z~We can't collect this ice with the cops on us. Lose the heat.",
+            "translated": "~z~被条子追的时候没法钻石，甩了他们。",
+            "desc": ""
+        },
+        {
+            "hash": 697676111,
+            "original": "~z~The diamonds could go missing real easy.",
+            "translated": "~z~钻石很容易就会弄丢。",
+            "desc": ""
+        },
+        {
+            "hash": 744948677,
+            "original": "~z~That's life, my friend. Nothing works out the way you want it to.",
+            "translated": "~z~这就是生活，我的朋友。没一件事能顺你心意。",
+            "desc": ""
+        },
+        {
+            "hash": 749353556,
+            "original": "~z~-Garbage with a lot of ice in it.~n~-Today?",
+            "translated": "~z~－里面有很多钻石的垃圾。~n~－能快点吗？",
+            "desc": ""
+        },
+        {
+            "hash": 754239450,
+            "original": "~z~I'm fuckin' killin' myself.",
+            "translated": "~z~我这他妈是在找死。",
+            "desc": ""
+        },
+        {
+            "hash": 799574118,
+            "original": "~z~I dunno. These diamonds is serious. Anyone who heard of 'em would want them.",
+            "translated": "~z~我也不知道，这些钻石很值钱。谁听说了都想来截胡。",
+            "desc": ""
+        },
+        {
+            "hash": 801834075,
+            "original": "RB2_PF",
+            "translated": "RB2_PF",
+            "desc": ""
+        },
+        {
+            "hash": 813813443,
+            "original": "~z~Didn't think I'd be muscle for the mob neither.",
+            "translated": "~z~也没想到自己会成为黑帮的打手。",
+            "desc": ""
+        },
+        {
+            "hash": 816769170,
+            "original": "~z~Something smelled fishy about Tuna, Ray. He's not around no more.",
+            "translated": "~z~Tuna死了，Ray。他不在了。",
+            "desc": ""
+        },
+        {
+            "hash": 826968730,
+            "original": "~z~Take 'em out, Spaz. Come on.",
+            "translated": "~z~干掉他们，Spaz。快点。",
+            "desc": ""
+        },
+        {
+            "hash": 827424576,
+            "original": "~z~And if there's a man who knows how to get angry, it's Ray. Later.",
+            "translated": "~z~如果有一个人很容易生气，那便是Ray。回见。",
+            "desc": ""
+        },
+        {
+            "hash": 842213563,
+            "original": "RB2_PA",
+            "translated": "RB2_PA",
+            "desc": ""
+        },
+        {
+            "hash": 848247501,
+            "original": "RB2_A_BG",
+            "translated": "RB2_A_BG",
+            "desc": ""
+        },
+        {
+            "hash": 853786010,
+            "original": "RB2_A_BI",
+            "translated": "RB2_A_BI",
+            "desc": ""
+        },
+        {
+            "hash": 856048452,
+            "original": "~z~You're driving. That cool?",
+            "translated": "~z~你负责开车。可以吗？",
+            "desc": ""
+        },
+        {
+            "hash": 859395589,
+            "original": "~z~That's why we're going to be extra careful, right? We wouldn't want that to happen, would we?",
+            "translated": "~z~所以才要格外小心，对吧？我们也不想出什么岔子，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 864649277,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 884771601,
+            "original": "RB2_CE",
+            "translated": "RB2_CE",
+            "desc": ""
+        },
+        {
+            "hash": 962311406,
+            "original": "RB2_GC",
+            "translated": "RB2_GC",
+            "desc": ""
+        },
+        {
+            "hash": 967103557,
+            "original": "~z~Yeah... you wanted a career in waste disposal, now you got one.",
+            "translated": "~z~对...你不是想要垃圾场的工作吗，现在你有了。",
+            "desc": ""
+        },
+        {
+            "hash": 972194913,
+            "original": "RB2_A_AK",
+            "translated": "RB2_A_AK",
+            "desc": ""
+        },
+        {
+            "hash": 986520171,
+            "original": "~z~This is the other one, Tuna. Grab it.",
+            "translated": "~z~第二处到了，Tuna，下去收。",
+            "desc": ""
+        },
+        {
+            "hash": 988538376,
+            "original": "~z~Fine, whatever.",
+            "translated": "~z~行，管它呢。",
+            "desc": ""
+        },
+        {
+            "hash": 1000069175,
+            "original": "~z~Main guy's name is Luca. Go.",
+            "translated": "~z~带头的那个叫Luca。去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1009570876,
+            "original": "RB2_GB",
+            "translated": "RB2_GB",
+            "desc": ""
+        },
+        {
+            "hash": 1019788173,
+            "original": "RB2_A_KB",
+            "translated": "RB2_A_KB",
+            "desc": ""
+        },
+        {
+            "hash": 1035708014,
+            "original": "~z~That's why you gotta take the opportunities you can when they're right in front of you.",
+            "translated": "~z~所以才要及时抓住眼前的机遇。",
+            "desc": ""
+        },
+        {
+            "hash": 1041157992,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 1049527254,
+            "original": "~z~You could say that. Ray got that tweaker chick of his, the biker broad, you met her?",
+            "translated": "~z~可以这么说吧。Ray的那个吸毒女友，飞车党的，你见过吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1052011385,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1054760195,
+            "original": "RB2_LA",
+            "translated": "RB2_LA",
+            "desc": ""
+        },
+        {
+            "hash": 1059542036,
+            "original": "RB2_GG",
+            "translated": "RB2_GG",
+            "desc": ""
+        },
+        {
+            "hash": 1067565470,
+            "original": "RB2_A_LA",
+            "translated": "RB2_A_LA",
+            "desc": ""
+        },
+        {
+            "hash": 1081585453,
+            "original": "~z~Ray, man. That Johnny kid got put out with the trash. I'm sorry.",
+            "translated": "~z~Ray，伙计。Johnny已经死在垃圾堆里了，我很抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 1090661145,
+            "original": "~z~How'd they find us? I thought that we went to all this trouble so no one would know?",
+            "translated": "~z~怎么被发现了？我们特意绕这么大个圈子还被发觉了？",
+            "desc": ""
+        },
+        {
+            "hash": 1106334086,
+            "original": "RB2_B_BA",
+            "translated": "RB2_B_BA",
+            "desc": ""
+        },
+        {
+            "hash": 1132604627,
+            "original": "RB2_B_DB",
+            "translated": "RB2_B_DB",
+            "desc": ""
+        },
+        {
+            "hash": 1143944114,
+            "original": "RB2_CC",
+            "translated": "RB2_CC",
+            "desc": ""
+        },
+        {
+            "hash": 1156559332,
+            "original": "~z~Hang in there. Protect the ice.",
+            "translated": "~z~坚持住。保护钻石。",
+            "desc": ""
+        },
+        {
+            "hash": 1165978442,
+            "original": "010100010100100010010100010100100010010100010",
+            "translated": "010100010100100010010100010100100010010100010",
+            "desc": ""
+        },
+        {
+            "hash": 1174952800,
+            "original": "~z~Fuck me, Nicky. I had some hopes for that cugine. Come see me.",
+            "translated": "~z~我操，Nicky。我还有点期待那个老兄的。过来见我。",
+            "desc": ""
+        },
+        {
+            "hash": 1180446317,
+            "original": "RB2_A_CB",
+            "translated": "RB2_A_CB",
+            "desc": ""
+        },
+        {
+            "hash": 1184585272,
+            "original": "~z~Holy shit.",
+            "translated": "~z~我操。",
+            "desc": ""
+        },
+        {
+            "hash": 1206284488,
+            "original": "~z~Garbage?",
+            "translated": "~z~垃圾？",
+            "desc": ""
+        },
+        {
+            "hash": 1227223883,
+            "original": "~z~Three guys, good guys, friends of mine.",
+            "translated": "~z~有三个人，三个好人，都是我的朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 1253248006,
+            "original": "~z~You keep an eye on them? They didn't pull nothing?",
+            "translated": "~z~你有盯着他们吗？他们没私吞吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1302989704,
+            "original": "~z~Now, speaking of the ice...",
+            "translated": "~z~现在，给我讲讲钻石...",
+            "desc": ""
+        },
+        {
+            "hash": 1303163542,
+            "original": "RB2_DA",
+            "translated": "RB2_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1319979928,
+            "original": "~z~I sorta get that, but I ain't happy. Let's have a meet.",
+            "translated": "~z~我明白了，但是我不开心。让我们见个面。",
+            "desc": ""
+        },
+        {
+            "hash": 1320200759,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 1328083011,
+            "original": "~z~That a fact? Being a space monkey would probably pay better than this work.",
+            "translated": "~z~真这么想？当太空猴的工资可能是比这个工作高。",
+            "desc": ""
+        },
+        {
+            "hash": 1336348950,
+            "original": "RB2_ZA",
+            "translated": "RB2_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 1340348844,
+            "original": "~z~Alright, Nicky. What's done is done. Come see me.",
+            "translated": "~z~好吧，Nicky。覆水难收啊。过来见我。",
+            "desc": ""
+        },
+        {
+            "hash": 1341689589,
+            "original": "~z~more or less...",
+            "translated": "~z~也算是吧...",
+            "desc": ""
+        },
+        {
+            "hash": 1345616927,
+            "original": "RB2_VB",
+            "translated": "RB2_VB",
+            "desc": ""
+        },
+        {
+            "hash": 1349630620,
+            "original": "~z~So, you took care of that thing.",
+            "translated": "~z~好了，上次你做得很好。",
+            "desc": ""
+        },
+        {
+            "hash": 1389341784,
+            "original": "~z~So, someone's been throwing out a load of diamonds?",
+            "translated": "~z~合着有人扔掉了一大堆钻石？",
+            "desc": ""
+        },
+        {
+            "hash": 1392977654,
+            "original": "010010100100100100010",
+            "translated": "010010100100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 1394593620,
+            "original": "~z~See you around, Nicky.",
+            "translated": "~z~回头见，Nicky。",
+            "desc": ""
+        },
+        {
+            "hash": 1402307520,
+            "original": "RB2_IA",
+            "translated": "RB2_IA",
+            "desc": ""
+        },
+        {
+            "hash": 1406375270,
+            "original": "~z~We've taken this ice off a the guy that owns the place.",
+            "translated": "~z~钻石就是从这家店的老板那儿弄来的。",
+            "desc": ""
+        },
+        {
+            "hash": 1414920141,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 1429473419,
+            "original": "~z~Ray came up with this plan to keep a bit of distance between us and the robbery.",
+            "translated": "~z~Ray的这个计划就是为了避免我们和抢钻石间产生直接联系。",
+            "desc": ""
+        },
+        {
+            "hash": 1429514170,
+            "original": "RB2_NA",
+            "translated": "RB2_NA",
+            "desc": ""
+        },
+        {
+            "hash": 1431745282,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1454331235,
+            "original": "~z~Don't let these mooks take our diamonds.",
+            "translated": "~z~别让这些白痴抢走我们的钻石。",
+            "desc": ""
+        },
+        {
+            "hash": 1475402456,
+            "original": "~z~I can't see that we got much opportunity here. Either we lose these shitheads or we're screwed.",
+            "translated": "~z~我是看不出现在有什么机遇。甩不掉这些猪头就完了。",
+            "desc": ""
+        },
+        {
+            "hash": 1488527157,
+            "original": "~z~No, I haven't.",
+            "translated": "~z~不，没听过。",
+            "desc": ""
+        },
+        {
+            "hash": 1504834548,
+            "original": "200010100100010100100210100",
+            "translated": "200010100100010100100210100",
+            "desc": ""
+        },
+        {
+            "hash": 1541090557,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 1546443278,
+            "original": "RB2_PC",
+            "translated": "RB2_PC",
+            "desc": ""
+        },
+        {
+            "hash": 1549571568,
+            "original": "~z~Come on! Let's go!",
+            "translated": "~z~快点！我们走！",
+            "desc": ""
+        },
+        {
+            "hash": 1553837630,
+            "original": "RB2_MA",
+            "translated": "RB2_MA",
+            "desc": ""
+        },
+        {
+            "hash": 1557183121,
+            "original": "200020",
+            "translated": "200020",
+            "desc": ""
+        },
+        {
+            "hash": 1573168557,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 1576144341,
+            "original": "~z~No wonder everyone's turning state's when the wages is like this.",
+            "translated": "~z~就这么点酬劳，也难怪一个个都会去自首坦白。",
+            "desc": ""
+        },
+        {
+            "hash": 1582475876,
+            "original": "~z~Every immigrant's dream ain't it? Being a wiseguy I mean, not trash collecting.",
+            "translated": "~z~移民都这么幻想，不是吗？要做聪明人，不去收垃圾。",
+            "desc": ""
+        },
+        {
+            "hash": 1600631939,
+            "original": "~z~First pickup's in Chinatown. Let's hit it.",
+            "translated": "~z~第一个在唐人街。去那边吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1602291587,
+            "original": "~z~Got it, let's go.",
+            "translated": "~z~装上了，走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1606135723,
+            "original": "~z~Yeah I know that.",
+            "translated": "~z~嗯，我知道。",
+            "desc": ""
+        },
+        {
+            "hash": 1611119091,
+            "original": "~z~Luca and Johnny are on ice, Ray. Shit happens.",
+            "translated": "~z~Luca和Johnny拿了钻石，Ray。坏事发生了。",
+            "desc": ""
+        },
+        {
+            "hash": 1611553237,
+            "original": "~z~I look after my friends... I got a lot of friends. Important friends.",
+            "translated": "~z~我很关照我的朋友...我有很多朋友。很重要的朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 1616423326,
+            "original": "RB2_WB",
+            "translated": "RB2_WB",
+            "desc": ""
+        },
+        {
+            "hash": 1628719329,
+            "original": "~z~Ray got her to get her friends to steal the ice off of some club owner guy.",
+            "translated": "~z~Ray让她和她的朋友从一个夜店老板地方偷走了那些钻石。",
+            "desc": ""
+        },
+        {
+            "hash": 1641168362,
+            "original": "~z~You just gonna have to do your best. Ain't ya? We're not losing this ice.",
+            "translated": "~z~你尽力而为就行。我们不会放弃钻石的。",
+            "desc": ""
+        },
+        {
+            "hash": 1681176599,
+            "original": "~z~Are you fuckin' kidding me?",
+            "translated": "~z~你他妈在逗我？",
+            "desc": ""
+        },
+        {
+            "hash": 1684224942,
+            "original": "RB2_ZB",
+            "translated": "RB2_ZB",
+            "desc": ""
+        },
+        {
+            "hash": 1686710797,
+            "original": "~z~What kind of garbage?",
+            "translated": "~z~什么样的垃圾？",
+            "desc": ""
+        },
+        {
+            "hash": 1686841145,
+            "original": "~z~The bikers is taking the heat for this shit.",
+            "translated": "~z~这事的黑锅现在在飞车党身上。",
+            "desc": ""
+        },
+        {
+            "hash": 1690759926,
+            "original": "RB2_A_CC",
+            "translated": "RB2_A_CC",
+            "desc": ""
+        },
+        {
+            "hash": 1723659646,
+            "original": "~z~Defend that ice like it's your cunt.",
+            "translated": "~z~把那钻石当你的命根子护着。",
+            "desc": ""
+        },
+        {
+            "hash": 1754442504,
+            "original": "~z~Dammit. That's just fucking perfect.",
+            "translated": "~z~操蛋，真他妈的漂亮。",
+            "desc": ""
+        },
+        {
+            "hash": 1756258152,
+            "original": "RB2_KA",
+            "translated": "RB2_KA",
+            "desc": ""
+        },
+        {
+            "hash": 1767931319,
+            "original": "~z~That's about it.",
+            "translated": "~z~就是这样。",
+            "desc": ""
+        },
+        {
+            "hash": 1777045661,
+            "original": "RB2_HA",
+            "translated": "RB2_HA",
+            "desc": ""
+        },
+        {
+            "hash": 1779169832,
+            "original": "RB2_PG",
+            "translated": "RB2_PG",
+            "desc": ""
+        },
+        {
+            "hash": 1782868352,
+            "original": "RB2_A_AB",
+            "translated": "RB2_A_AB",
+            "desc": ""
+        },
+        {
+            "hash": 1795769301,
+            "original": "~z~Well, don't try your luck at the door any time soon and if you do, don't tip the bouncer with a diamond.",
+            "translated": "~z~以后别去那边乱转。就算真去了，别把钻石当给守门人的小费。",
+            "desc": ""
+        },
+        {
+            "hash": 1817790532,
+            "original": "RB2_CF",
+            "translated": "RB2_CF",
+            "desc": ""
+        },
+        {
+            "hash": 1818325627,
+            "original": "~z~-I appreciate that... nah.~n~-Hey, no...",
+            "translated": "~z~－我很感谢...停。~n~－嘿，别...",
+            "desc": ""
+        },
+        {
+            "hash": 1818445770,
+            "original": "~z~Hey.",
+            "translated": "~z~嘿。",
+            "desc": ""
+        },
+        {
+            "hash": 1824829962,
+            "original": "RB2_GM",
+            "translated": "RB2_GM",
+            "desc": ""
+        },
+        {
+            "hash": 1864632292,
+            "original": "~z~Good drivin', Nicky. I thought I was gonna be checking out for sure.",
+            "translated": "~z~好车技，Nicky。我刚才还以为自己死定了。",
+            "desc": ""
+        },
+        {
+            "hash": 1867576402,
+            "original": "~z~This is it. You got us here, Nicky.",
+            "translated": "~z~就是这儿，你把我们送到了，Nicky。",
+            "desc": ""
+        },
+        {
+            "hash": 1885262065,
+            "original": "~z~That's why I came over here.",
+            "translated": "~z~所以我才会过来。",
+            "desc": ""
+        },
+        {
+            "hash": 1887289165,
+            "original": "RB2_LD",
+            "translated": "RB2_LD",
+            "desc": ""
+        },
+        {
+            "hash": 1899806876,
+            "original": "~z~This ain't the easiest way to pick this shit up, even if we don't want to attract any attention.",
+            "translated": "~z~就算不想引起别人注意，也有更简单的方法能拿回钻石吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1907485655,
+            "original": "RB2_EA",
+            "translated": "RB2_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1911018463,
+            "original": "~z~Hey, hey, hey.",
+            "translated": "~z~嘿，嘿，嘿。",
+            "desc": ""
+        },
+        {
+            "hash": 1918846393,
+            "original": "~z~Can I get a Goddamned coffee over here?",
+            "translated": "~z~能不能给老娘上杯咖啡啊？",
+            "desc": ""
+        },
+        {
+            "hash": 1929882370,
+            "original": "~z~Yo, Nicky! Open up the back.",
+            "translated": "~z~呦，Nicky！打开后盖。",
+            "desc": ""
+        },
+        {
+            "hash": 1984016575,
+            "original": "RB2_YA",
+            "translated": "RB2_YA",
+            "desc": ""
+        },
+        {
+            "hash": 2007435534,
+            "original": "~z~Hey, Niko.",
+            "translated": "~z~嘿，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2009133518,
+            "original": "RB2_A_BC",
+            "translated": "RB2_A_BC",
+            "desc": ""
+        },
+        {
+            "hash": 2027690878,
+            "original": "~z~This ain't fucking easy.",
+            "translated": "~z~这他娘可不容易。",
+            "desc": ""
+        },
+        {
+            "hash": 2028997072,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2045363303,
+            "original": "~z~So, Luca, you are a professional trash collector when you ain't working for Ray?",
+            "translated": "~z~那个，Luca，你不替Ray干活的时候就是专业收垃圾的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2048512362,
+            "original": "~z~So, we're all friends now.",
+            "translated": "~z~那我们现在是朋友了。",
+            "desc": ""
+        },
+        {
+            "hash": 2049041223,
+            "original": "~z~Hey, sweetheart.",
+            "translated": "~z~嘿，甜心。",
+            "desc": ""
+        },
+        {
+            "hash": 2053316985,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 2054333428,
+            "original": "RB2_OA",
+            "translated": "RB2_OA",
+            "desc": ""
+        },
+        {
+            "hash": 2079647639,
+            "original": "~z~The manager of one of his waste depots was holding out on profits a couple a years back.",
+            "translated": "~z~几年前他的一个垃圾站的经理偷偷拿了一点回扣，",
+            "desc": ""
+        },
+        {
+            "hash": 2093474741,
+            "original": "RB2_A_HA",
+            "translated": "RB2_A_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2133159042,
+            "original": "~z~I dunno what this crew's gonna do without Luca. I looked to him, you know. For, like, leadership and shit.",
+            "translated": "~z~我不知道没了Luca这个小队还怎么行动。我听他的，你知道吗。因为，他，有领导力这样的东西。",
+            "desc": ""
+        },
+        {
+            "hash": 2158235787,
+            "original": "RB2_A_AF",
+            "translated": "RB2_A_AF",
+            "desc": ""
+        },
+        {
+            "hash": 2170912907,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2178904445,
+            "original": "~z~When I arrived in Liberty City, I didn't imagine that I'd become a trash collector.",
+            "translated": "~z~来到自由城的时候，我没想到自己会成为收垃圾的。",
+            "desc": ""
+        },
+        {
+            "hash": 2180346910,
+            "original": "~z~Yeah, they got it. They... they left it where you said.",
+            "translated": "~z~好，已经弄到了。他们把钻石放到你要求的地方了。",
+            "desc": ""
+        },
+        {
+            "hash": 2181225322,
+            "original": "RB2_GJ",
+            "translated": "RB2_GJ",
+            "desc": ""
+        },
+        {
+            "hash": 2187856982,
+            "original": "RB2_A_EA",
+            "translated": "RB2_A_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2195972413,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 2256942802,
+            "original": "~z~We ain't doing too good back here.",
+            "translated": "~z~挂在后面很危险的。",
+            "desc": ""
+        },
+        {
+            "hash": 2274363749,
+            "original": "~z~I'm not having Ray cut my balls off because you don't think this truck's fast enough.",
+            "translated": "~z~我可不想因为你嫌弃这车不够快就被Ray给阉了。",
+            "desc": ""
+        },
+        {
+            "hash": 2275294415,
+            "original": "RB2_CA",
+            "translated": "RB2_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2290477065,
+            "original": "RB2_A_BK",
+            "translated": "RB2_A_BK",
+            "desc": ""
+        },
+        {
+            "hash": 2294144104,
+            "original": "RB2_TB",
+            "translated": "RB2_TB",
+            "desc": ""
+        },
+        {
+            "hash": 2296676726,
+            "original": "~z~Course not. You know how pissed Ray would get if he found out some diamonds were missin'.",
+            "translated": "~z~当然不想。你也知道要是漏了钻石，Ray会有多生气。",
+            "desc": ""
+        },
+        {
+            "hash": 2299852393,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 2321183211,
+            "original": "~z~Niko, here's your gear.",
+            "translated": "~z~Niko，这是你的工作服。",
+            "desc": ""
+        },
+        {
+            "hash": 2326823711,
+            "original": "~z~This guy who owns some big clubs in the city. You heard of a place called Maisonette 9?",
+            "translated": "~z~在城里开了好几家大型夜店的家伙。听说过9号豪宅吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2328080199,
+            "original": "~z~Thank you.",
+            "translated": "~z~谢谢。",
+            "desc": ""
+        },
+        {
+            "hash": 2337564476,
+            "original": "~z~You seem real at home in this truck.",
+            "translated": "~z~你上垃圾车就跟回了家一样。",
+            "desc": ""
+        },
+        {
+            "hash": 2340986313,
+            "original": "~z~I think I worked with a member of that gang up on Bohan. He was called Johnny or eh, something.",
+            "translated": "~z~我记得我和那个帮会的人在Bohan合作过。他好像叫Johnny来着。",
+            "desc": ""
+        },
+        {
+            "hash": 2350432585,
+            "original": "~z~You want me take the ice to Ray then?",
+            "translated": "~z~你想让我把钻石带给Ray吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2360808218,
+            "original": "~z~That mook ain't gonna be following us no more. Let's get the ice back. You've done good, Nicky.",
+            "translated": "~z~这些呆子没法再跟着我们了。把钻石带回去吧。你做得很好，Nicky。",
+            "desc": ""
+        },
+        {
+            "hash": 2364125114,
+            "original": "RB2_A_GA",
+            "translated": "RB2_A_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2367686775,
+            "original": "~z~I think you should worry about Ray and those diamonds before anything else. I'll see you around, Tuna.",
+            "translated": "~z~我觉得你还是先担心Ray和那些钻石比较好。我们回头见，Tuna。",
+            "desc": ""
+        },
+        {
+            "hash": 2374742318,
+            "original": "RB2_A_AE",
+            "translated": "RB2_A_AE",
+            "desc": ""
+        },
+        {
+            "hash": 2376588931,
+            "original": "RB2_WB",
+            "translated": "RB2_WB",
+            "desc": ""
+        },
+        {
+            "hash": 2377064375,
+            "original": "RB2_A_DA",
+            "translated": "RB2_A_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2412049961,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 2445687018,
+            "original": "~z~Well that job got screwed up, didn't it?",
+            "translated": "~z~这回的活搞砸了了，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2469969969,
+            "original": "~z~Take a seat.",
+            "translated": "~z~请坐。",
+            "desc": ""
+        },
+        {
+            "hash": 2471502104,
+            "original": "210",
+            "translated": "210",
+            "desc": ""
+        },
+        {
+            "hash": 2486225791,
+            "original": "~z~Shit, man. Looks like we got company.",
+            "translated": "~z~干，伙计。看来我们被盯上了。",
+            "desc": ""
+        },
+        {
+            "hash": 2490475344,
+            "original": "RB2_UA",
+            "translated": "RB2_UA",
+            "desc": ""
+        },
+        {
+            "hash": 2504170132,
+            "original": "~z~It's because I care... you know that.",
+            "translated": "~z~因为我在乎...你知道的。",
+            "desc": ""
+        },
+        {
+            "hash": 2511778865,
+            "original": "212",
+            "translated": "212",
+            "desc": ""
+        },
+        {
+            "hash": 2521180761,
+            "original": "RB2_YB",
+            "translated": "RB2_YB",
+            "desc": ""
+        },
+        {
+            "hash": 2521796379,
+            "original": "RB2_B_AA",
+            "translated": "RB2_B_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2524116390,
+            "original": "RB2_A_BD",
+            "translated": "RB2_A_BD",
+            "desc": ""
+        },
+        {
+            "hash": 2531269827,
+            "original": "~z~Nothing... I haven't been to bed yet.",
+            "translated": "~z~没什么...太久没睡觉了。",
+            "desc": ""
+        },
+        {
+            "hash": 2535725330,
+            "original": "RB2_ABC",
+            "translated": "RB2_ABC",
+            "desc": ""
+        },
+        {
+            "hash": 2536185181,
+            "original": "~z~You've been what?",
+            "translated": "~z~一直在什么？",
+            "desc": ""
+        },
+        {
+            "hash": 2545552631,
+            "original": "RB2_A_IC",
+            "translated": "RB2_A_IC",
+            "desc": ""
+        },
+        {
+            "hash": 2562330282,
+            "original": "~z~Alright, Tuna, John Boy, you got the threads. Get on the back and get the trash.",
+            "translated": "~z~好了，Tuna，小强，工作服你们都有了。到后面去负责收垃圾。",
+            "desc": ""
+        },
+        {
+            "hash": 2565913347,
+            "original": "RB2_A_BF",
+            "translated": "RB2_A_BF",
+            "desc": ""
+        },
+        {
+            "hash": 2571057462,
+            "original": "~z~Her friends are the Lost biker gang.",
+            "translated": "~z~她的朋友是失落摩托帮。",
+            "desc": ""
+        },
+        {
+            "hash": 2581531990,
+            "original": "RB2_TA",
+            "translated": "RB2_TA",
+            "desc": ""
+        },
+        {
+            "hash": 2626888112,
+            "original": "RB2_ABA",
+            "translated": "RB2_ABA",
+            "desc": ""
+        },
+        {
+            "hash": 2627198199,
+            "original": "RB2_PE",
+            "translated": "RB2_PE",
+            "desc": ""
+        },
+        {
+            "hash": 2633705396,
+            "original": "~z~Who'd these diamonds belong to before us?",
+            "translated": "~z~这些钻石原来的主人是谁？",
+            "desc": ""
+        },
+        {
+            "hash": 2656921042,
+            "original": "~z~I ain't surprised we got a bit of attention.",
+            "translated": "~z~被人盯上我一点也不意外。",
+            "desc": ""
+        },
+        {
+            "hash": 2659691708,
+            "original": "~z~He has a temper?",
+            "translated": "~z~他脾气不好？",
+            "desc": ""
+        },
+        {
+            "hash": 2673679580,
+            "original": "~z~Yeah, me and Tuna was saying that before yous got here.",
+            "translated": "~z~对，你来之前我和Tuna就在聊这个。",
+            "desc": ""
+        },
+        {
+            "hash": 2708289913,
+            "original": "~z~Luca and his crew have got the stuff, Ray. It's all in the back of the truck.",
+            "translated": "~z~Luca和他的人拿到货了，Ray。都在垃圾车后面装着。",
+            "desc": ""
+        },
+        {
+            "hash": 2712659795,
+            "original": "RB2_A_CD",
+            "translated": "RB2_A_CD",
+            "desc": ""
+        },
+        {
+            "hash": 2724162191,
+            "original": "RB2_SA",
+            "translated": "RB2_SA",
+            "desc": ""
+        },
+        {
+            "hash": 2745294822,
+            "original": "RB2_A_CA",
+            "translated": "RB2_A_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2747290632,
+            "original": "~z~They ain't on us no more. Good driving. Now all's you got to do is bring the ice home safe.",
+            "translated": "~z~甩掉他们了，好车技。现在只要把钻石安全带回家就行。",
+            "desc": ""
+        },
+        {
+            "hash": 2762324046,
+            "original": "~z~My God, you look like shit. What's wrong?",
+            "translated": "~z~天哪，你看上去不太好，怎么了?",
+            "desc": ""
+        },
+        {
+            "hash": 2775366112,
+            "original": "~z~I've been smoking crystal.",
+            "translated": "~z~一直在吸冰毒。",
+            "desc": ""
+        },
+        {
+            "hash": 2776173524,
+            "original": "RB2_A_KA",
+            "translated": "RB2_A_KA",
+            "desc": ""
+        },
+        {
+            "hash": 2776505596,
+            "original": "~z~Your buddies are turning state's because they're too pussy to do their time.",
+            "translated": "~z~你的人会投案坦白，纯粹是因为不敢蹲号子。",
+            "desc": ""
+        },
+        {
+            "hash": 2784730250,
+            "original": "~z~Are you busting my balls, Nicky? What the fuck?",
+            "translated": "~z~你这是看不起我吗，Nicky？你丫想啥呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2785939613,
+            "original": "RB2_CI",
+            "translated": "RB2_CI",
+            "desc": ""
+        },
+        {
+            "hash": 2786151750,
+            "original": "RB2_A_BB",
+            "translated": "RB2_A_BB",
+            "desc": ""
+        },
+        {
+            "hash": 2795005680,
+            "original": "~z~Yes.",
+            "translated": "~z~对。",
+            "desc": ""
+        },
+        {
+            "hash": 2798723667,
+            "original": "RB2_A_BH",
+            "translated": "RB2_A_BH",
+            "desc": ""
+        },
+        {
+            "hash": 2802728491,
+            "original": "~z~What?",
+            "translated": "~z~干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 2849391661,
+            "original": "RB2_CG",
+            "translated": "RB2_CG",
+            "desc": ""
+        },
+        {
+            "hash": 2864432420,
+            "original": "~z~then the pop of his skull goin'. I nearly lost my lunch.",
+            "translated": "~z~再然后就是头骨碎裂。我差点把午饭吐出来。",
+            "desc": ""
+        },
+        {
+            "hash": 2866996527,
+            "original": "~z~Fuck me, Nicky. I had some hopes for that cugine. Come see me.",
+            "translated": "~z~我操，Nicky。我还有点期待那个老兄的。过来见我。",
+            "desc": ""
+        },
+        {
+            "hash": 2868498488,
+            "original": "~z~This truck is not really going to outrun anybody, is it?",
+            "translated": "~z~这卡车谁都甩不掉吧，是不是？",
+            "desc": ""
+        },
+        {
+            "hash": 2872224505,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 2883598522,
+            "original": "~z~Ah... Niko, I need you to go collect some garbage for me.",
+            "translated": "~z~啊...Niko，我需要你去帮我收一些垃圾。",
+            "desc": ""
+        },
+        {
+            "hash": 2890243453,
+            "original": "~z~Open up the back, will ya?",
+            "translated": "~z~把后盖打开，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2930294036,
+            "original": "RB2_A_IA",
+            "translated": "RB2_A_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2931457724,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2935703117,
+            "original": "RB2_A_NA",
+            "translated": "RB2_A_NA",
+            "desc": ""
+        },
+        {
+            "hash": 2945583337,
+            "original": "~z~Fucking hell.",
+            "translated": "~z~妈了个逼的。",
+            "desc": ""
+        },
+        {
+            "hash": 2947958032,
+            "original": "RB2_A_MA",
+            "translated": "RB2_A_MA",
+            "desc": ""
+        },
+        {
+            "hash": 2950806747,
+            "original": "RB2_XA",
+            "translated": "RB2_XA",
+            "desc": ""
+        },
+        {
+            "hash": 2955981044,
+            "original": "~z~You think I'd take the trash out every day, like some fuckin' mook?",
+            "translated": "~z~你以为我会跟个白痴一样每天倒垃圾？",
+            "desc": ""
+        },
+        {
+            "hash": 2988941362,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 2994721798,
+            "original": "~z~White trash motherfucker. What is wrong with you?",
+            "translated": "~z~狗娘养的白皮垃圾，你有什么毛病？",
+            "desc": ""
+        },
+        {
+            "hash": 2998734269,
+            "original": "RB2_PI",
+            "translated": "RB2_PI",
+            "desc": ""
+        },
+        {
+            "hash": 3014300649,
+            "original": "~z~Let's roll!",
+            "translated": "~z~出发吧！",
+            "desc": ""
+        },
+        {
+            "hash": 3015227761,
+            "original": "~z~They'd rather have plastic surgery and a life sentence in suburban hell than take their punishment like real men.",
+            "translated": "~z~他们宁愿做整容手术，到鸟不拉屎的乡下度过余生，也不愿意像男子汉一样接受刑罚。",
+            "desc": ""
+        },
+        {
+            "hash": 3035816068,
+            "original": "~z~I don't know, Ray. You don't trust them, then weigh the ice. Catch you round.",
+            "translated": "~z~我不知道，Ray。信不过他们就自己去称。回见。",
+            "desc": ""
+        },
+        {
+            "hash": 3040724913,
+            "original": "~z~Hey.",
+            "translated": "~z~嘿。",
+            "desc": ""
+        },
+        {
+            "hash": 3067507975,
+            "original": "RB2_A_JA",
+            "translated": "RB2_A_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3071744684,
+            "original": "RB2_CD",
+            "translated": "RB2_CD",
+            "desc": ""
+        },
+        {
+            "hash": 3096928475,
+            "original": "~z~Nice.",
+            "translated": "~z~真好。",
+            "desc": ""
+        },
+        {
+            "hash": 3120734737,
+            "original": "~z~We ain't got time for this.",
+            "translated": "~z~我们没有时间了。",
+            "desc": ""
+        },
+        {
+            "hash": 3124716177,
+            "original": "RB2_TB",
+            "translated": "RB2_TB",
+            "desc": ""
+        },
+        {
+            "hash": 3153795498,
+            "original": "~z~Alright, Nicky. What's done is done. Come see me.",
+            "translated": "~z~好吧，Nicky。覆水难收啊。过来见我。",
+            "desc": ""
+        },
+        {
+            "hash": 3169831459,
+            "original": "~z~Shit, try to kill people who ain't good earners. Let's you and me have a sit down.",
+            "translated": "~z~操，就不能找个废物下手吗。之后我们再谈谈。",
+            "desc": ""
+        },
+        {
+            "hash": 3178964155,
+            "original": "~z~Come on, watch it.",
+            "translated": "~z~拜托，当心点。",
+            "desc": ""
+        },
+        {
+            "hash": 3185883852,
+            "original": "~z~Wha'd'ya want, you scumbags?",
+            "translated": "~z~你想要什么，你个人渣？",
+            "desc": ""
+        },
+        {
+            "hash": 3192813281,
+            "original": "~z~I didn't say it was impossible. It's just going to be difficult.",
+            "translated": "~z~我没说做不到，只是会很难。",
+            "desc": ""
+        },
+        {
+            "hash": 3198787005,
+            "original": "RB2_CJ",
+            "translated": "RB2_CJ",
+            "desc": ""
+        },
+        {
+            "hash": 3204482498,
+            "original": "RB2_A_BE",
+            "translated": "RB2_A_BE",
+            "desc": ""
+        },
+        {
+            "hash": 3231666641,
+            "original": "~z~I guess that anyone involved in this thing of ours",
+            "translated": "~z~或许跟我们这件事有关的人",
+            "desc": ""
+        },
+        {
+            "hash": 3234492571,
+            "original": "~z~What are you a fucking idiot?",
+            "translated": "~z~你他妈是白痴吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3252082842,
+            "original": "212",
+            "translated": "212",
+            "desc": ""
+        },
+        {
+            "hash": 3253589467,
+            "original": "~z~Yeah, but you got to admit the money we're getting ain't shit. We bust our balls and for what?",
+            "translated": "~z~确实，但我们的报酬真的太少了。费这么大劲都是为了什么啊？",
+            "desc": ""
+        },
+        {
+            "hash": 3278758322,
+            "original": "~z~Hey, Ray. I'm sorry but I had to put Luca and Tuna down. I didn't trust them.",
+            "translated": "~z~嘿，Ray。很抱歉，我把Luca和Tuna干掉了。我不信他们。",
+            "desc": ""
+        },
+        {
+            "hash": 3299080687,
+            "original": "~z~Got it.",
+            "translated": "~z~装上了。",
+            "desc": ""
+        },
+        {
+            "hash": 3316474522,
+            "original": "RB2_GF",
+            "translated": "RB2_GF",
+            "desc": ""
+        },
+        {
+            "hash": 3320329875,
+            "original": "192",
+            "translated": "192",
+            "desc": ""
+        },
+        {
+            "hash": 3329944107,
+            "original": "~z~This is Tunafish and Johnny Spaz. Tuna, Johnny, Niko.",
+            "translated": "~z~这个是Tunafish，他是Johnny Spaz。Tuna，Johnny，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3349159593,
+            "original": "~z~Ray, I hate to tell you this but your friend Tuna is sleeping with the fishes.",
+            "translated": "~z~Ray，很遗憾地告诉你，你的朋友Tuna现在要到河底喂鱼去了。",
+            "desc": ""
+        },
+        {
+            "hash": 3356487844,
+            "original": "RB2_LB",
+            "translated": "RB2_LB",
+            "desc": ""
+        },
+        {
+            "hash": 3356791452,
+            "original": "RB2_A_AJ",
+            "translated": "RB2_A_AJ",
+            "desc": ""
+        },
+        {
+            "hash": 3374935779,
+            "original": "RB2_VA",
+            "translated": "RB2_VA",
+            "desc": ""
+        },
+        {
+            "hash": 3388652457,
+            "original": "RB2_JA",
+            "translated": "RB2_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3408707614,
+            "original": "~z~You're killing me.",
+            "translated": "~z~你想害死我吗。",
+            "desc": ""
+        },
+        {
+            "hash": 3425745429,
+            "original": "~z~Ray, the job did not go to plan. We lost Luca and Tuna. I'm sorry.",
+            "translated": "~z~Ray，事情没能按计划进行。我们失去了Luca和Tuna。我很抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 3426473850,
+            "original": "~z~These diamonds is ours now.",
+            "translated": "~z~这些钻石是我们的了。",
+            "desc": ""
+        },
+        {
+            "hash": 3434631591,
+            "original": "010100010100100010",
+            "translated": "010100010100100010",
+            "desc": ""
+        },
+        {
+            "hash": 3443100195,
+            "original": "~z~Ray fed him to a dump truck.",
+            "translated": "~z~Ray就拿他喂了垃圾车。",
+            "desc": ""
+        },
+        {
+            "hash": 3461162316,
+            "original": "RB2_A_AA",
+            "translated": "RB2_A_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3461388137,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 3465273865,
+            "original": "~z~Can you open up the back, Nicky?",
+            "translated": "~z~你能打开后盖吗，Nicky？",
+            "desc": ""
+        },
+        {
+            "hash": 3475176358,
+            "original": "RB2_LC",
+            "translated": "RB2_LC",
+            "desc": ""
+        },
+        {
+            "hash": 3523424397,
+            "original": "~z~Nice driving, Nicky. Looks like you lost 'em. Let's bring this ice home.",
+            "translated": "~z~车技不错，Nicky。看来你甩掉他们了，把钻石送回家吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3524838220,
+            "original": "~z~Tuna, this is it. Grab the bag.",
+            "translated": "~z~Tuna，就是这儿了，去收垃圾。",
+            "desc": ""
+        },
+        {
+            "hash": 3525539398,
+            "original": "~z~Money ain't the only thing I'm looking for in Liberty City, Luca. I'll take what Ray gives me.",
+            "translated": "~z~钱不是我在自由城的唯一目标，Luca。Ray给我多少钱都行。",
+            "desc": ""
+        },
+        {
+            "hash": 3526882562,
+            "original": "~z~is in the waste management business but it ain't usually this hands on, you know?",
+            "translated": "~z~都有参与垃圾处理事业，但也不是靠这个吃饭的，懂吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3528391101,
+            "original": "RB2_GL",
+            "translated": "RB2_GL",
+            "desc": ""
+        },
+        {
+            "hash": 3528609053,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3539272479,
+            "original": "~z~Yeah, you Niko?",
+            "translated": "~z~我就是，你是Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 3555686322,
+            "original": "RB2_A_AI",
+            "translated": "RB2_A_AI",
+            "desc": ""
+        },
+        {
+            "hash": 3558554620,
+            "original": "RB2_A_AC",
+            "translated": "RB2_A_AC",
+            "desc": ""
+        },
+        {
+            "hash": 3573882482,
+            "original": "~z~I don't think we going to complete our round, Ray. The truck's trashed.",
+            "translated": "~z~我觉得我们没法完成任务了，Ray。垃圾车成垃圾了。",
+            "desc": ""
+        },
+        {
+            "hash": 3587360836,
+            "original": "~z~Too bad about the truck. I guess Ray's gonna be pissed.",
+            "translated": "~z~卡车的情况真是太糟了。我想Ray会气炸的。",
+            "desc": ""
+        },
+        {
+            "hash": 3593829786,
+            "original": "RB2_A_AFX",
+            "translated": "RB2_A_AFX",
+            "desc": ""
+        },
+        {
+            "hash": 3604236902,
+            "original": "RB2_CB",
+            "translated": "RB2_CB",
+            "desc": ""
+        },
+        {
+            "hash": 3623404878,
+            "original": "~z~It sure fucking did. I got a feeling that Ray'll care more about not getting the diamonds though.",
+            "translated": "~z~当然搞砸了。不过我觉得Ray会更在意我们没弄到钻石就是了。",
+            "desc": ""
+        },
+        {
+            "hash": 3656960320,
+            "original": "~z~Next one's on H street. Move out, Nicky.",
+            "translated": "~z~下一个在H街。出发，Nicky。",
+            "desc": ""
+        },
+        {
+            "hash": 3657389789,
+            "original": "RB2_PD",
+            "translated": "RB2_PD",
+            "desc": ""
+        },
+        {
+            "hash": 3661566627,
+            "original": "~z~Did these bikers get so fucked on meth that they threw the ice away?",
+            "translated": "~z~这些飞车党是吸冰毒吸坏脑子才把这些钻石给扔了？",
+            "desc": ""
+        },
+        {
+            "hash": 3662181267,
+            "original": "~z~You ain't getting this ice.",
+            "translated": "~z~你不会得到这个钻石的。",
+            "desc": ""
+        },
+        {
+            "hash": 3709872624,
+            "original": "~z~There was this point where the sounds of his screams stopped and all you could hear was his bones crushin',",
+            "translated": "~z~一段时间后他的尖叫停了，传来的只剩下骨头粉碎的声音，",
+            "desc": ""
+        },
+        {
+            "hash": 3787465274,
+            "original": "RB2_A_IB",
+            "translated": "RB2_A_IB",
+            "desc": ""
+        },
+        {
+            "hash": 3813856041,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3819219010,
+            "original": "~z~Okay.",
+            "translated": "~z~好的。",
+            "desc": ""
+        },
+        {
+            "hash": 3845498784,
+            "original": "~z~Luca?",
+            "translated": "~z~Luca？",
+            "desc": ""
+        },
+        {
+            "hash": 3849070845,
+            "original": "~z~Nah. It seems the club owner's got more connections than a subway line.",
+            "translated": "~z~不是，那个夜店老板的人际关系似乎比铁路还复杂。",
+            "desc": ""
+        },
+        {
+            "hash": 3852532045,
+            "original": "~z~Don't fuck around, Nicky.",
+            "translated": "~z~别他妈乱跑，Nicky。",
+            "desc": ""
+        },
+        {
+            "hash": 3859415698,
+            "original": "RB2_A_FA",
+            "translated": "RB2_A_FA",
+            "desc": ""
+        },
+        {
+            "hash": 3898874327,
+            "original": "~z~Get us outta here, Nicky.",
+            "translated": "~z~带我们离开这儿，Nicky。",
+            "desc": ""
+        },
+        {
+            "hash": 3904977826,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 3911022386,
+            "original": "RB2_SB",
+            "translated": "RB2_SB",
+            "desc": ""
+        },
+        {
+            "hash": 3917066235,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 3935011968,
+            "original": "RB2_AAA",
+            "translated": "RB2_AAA",
+            "desc": ""
+        },
+        {
+            "hash": 3965503419,
+            "original": "~z~Gimme a break, okay? I feel like death.",
+            "translated": "~z~别烦了，好吗？我感觉快死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3979243444,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 3983013006,
+            "original": "~z~Ray.",
+            "translated": "~z~Ray。",
+            "desc": ""
+        },
+        {
+            "hash": 3984665504,
+            "original": "~z~Yeah, you still get your hands dirty though. Who'd these diamonds belong to before us?",
+            "translated": "~z~懂了，但你手上还是不太干净。这些钻石原来的主人是谁？",
+            "desc": ""
+        },
+        {
+            "hash": 3992393037,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4005003658,
+            "original": "~z~You should start looking for a new crew, Ray. The old one's in a better place.",
+            "translated": "~z~你需要找新的手下了, Ray。老的几个上天堂了。",
+            "desc": ""
+        },
+        {
+            "hash": 4039357339,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 4049439506,
+            "original": "~z~This is important work I got for ya. Come back and see me.",
+            "translated": "~z~这次的活很重要的。再回来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 4050978196,
+            "original": "RB2_A_CE",
+            "translated": "RB2_A_CE",
+            "desc": ""
+        },
+        {
+            "hash": 4057148230,
+            "original": "RB2_CK",
+            "translated": "RB2_CK",
+            "desc": ""
+        },
+        {
+            "hash": 4057940053,
+            "original": "RB2_GI",
+            "translated": "RB2_GI",
+            "desc": ""
+        },
+        {
+            "hash": 4058011824,
+            "original": "RB2_UB",
+            "translated": "RB2_UB",
+            "desc": ""
+        },
+        {
+            "hash": 4061075396,
+            "original": "~z~Fuck me, Nicky. I had some hopes for that cugine. Come see me.",
+            "translated": "~z~干，Nicky。我从表兄那听到一些消息。过来见我。",
+            "desc": ""
+        },
+        {
+            "hash": 4065569759,
+            "original": "RB2_GA",
+            "translated": "RB2_GA",
+            "desc": ""
+        },
+        {
+            "hash": 4078126804,
+            "original": "010100010",
+            "translated": "010100010",
+            "desc": ""
+        },
+        {
+            "hash": 4083619033,
+            "original": "~z~What are ya doing?",
+            "translated": "~z~你在干什么啊？",
+            "desc": ""
+        },
+        {
+            "hash": 4089136539,
+            "original": "~z~He's in with the Ancelottis, the Dominicans up in Northwood, everybody.",
+            "translated": "~z~他和Ancelotti家族有关，和Northwood的多米尼加人有关，谁都跟他有关。",
+            "desc": ""
+        },
+        {
+            "hash": 4102149841,
+            "original": "~z~You gotta stop me smoking this stuff, Ray.",
+            "translated": "~z~你得帮我戒掉这个毒品，Ray。",
+            "desc": ""
+        },
+        {
+            "hash": 4104196696,
+            "original": "~z~They sure did, Luca. Here's hopin' we can find 'em all.",
+            "translated": "~z~是很厉害，Luca。希望钻石一颗都没少。",
+            "desc": ""
+        },
+        {
+            "hash": 4115140328,
+            "original": "122",
+            "translated": "122",
+            "desc": ""
+        },
+        {
+            "hash": 4137331767,
+            "original": "~z~You're wasting your time.",
+            "translated": "~z~你在浪费时间。",
+            "desc": ""
+        },
+        {
+            "hash": 4147200398,
+            "original": "~z~Get rid of the cops, Nicky. We don't want the feds seeing us collect this ice.",
+            "translated": "~z~甩掉条子，Nicky。我们不希望被警察发现我们带着钻石。",
+            "desc": ""
+        },
+        {
+            "hash": 4149785874,
+            "original": "~z~Crap, someone's got wise to us. Let's get the hell outta here. Drive to Fishmarket South.",
+            "translated": "~z~靠，有人发现我们了。快他妈离开这儿，去鱼市南。",
+            "desc": ""
+        },
+        {
+            "hash": 4151092898,
+            "original": "010100100010010",
+            "translated": "010100100010010",
+            "desc": ""
+        },
+        {
+            "hash": 4162667009,
+            "original": "RB2_GK",
+            "translated": "RB2_GK",
+            "desc": ""
+        },
+        {
+            "hash": 4166195372,
+            "original": "~z~Hold on, boys.",
+            "translated": "~z~坚持住，小子们。",
+            "desc": ""
+        },
+        {
+            "hash": 4167800849,
+            "original": "RB2_PH",
+            "translated": "RB2_PH",
+            "desc": ""
+        },
+        {
+            "hash": 4187864138,
+            "original": "~z~This ain't fun.",
+            "translated": "~z~这可不好玩。",
+            "desc": ""
+        },
+        {
+            "hash": 4204728079,
+            "original": "RB2_AAB",
+            "translated": "RB2_AAB",
+            "desc": ""
+        },
+        {
+            "hash": 4220785606,
+            "original": "~z~He ain't gonna be happy, Nicky. That's for damn sure.",
+            "translated": "~z~他不会高兴的，Nicky。想都不用想。",
+            "desc": ""
+        },
+        {
+            "hash": 4224696494,
+            "original": "~z~Shit, Nicky. Lose these fucks.",
+            "translated": "~z~干，Nicky。甩掉这些傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 4236251495,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 4264035619,
+            "original": "120",
+            "translated": "120",
+            "desc": ""
+        },
+        {
+            "hash": 4265513437,
+            "original": "~z~See you around.",
+            "translated": "~z~回头见。",
+            "desc": ""
+        },
+        {
+            "hash": 4271525185,
+            "original": "010100100100100010100100100010100010100100100100100010",
+            "translated": "010100100100100010100100100010100010100100100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 4290887212,
+            "original": "RB2_A_KC",
+            "translated": "RB2_A_KC",
+            "desc": ""
+        }
+    ]
+}

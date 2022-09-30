@@ -1,0 +1,106 @@
+{
+    "WI_JEF2": [
+        {
+            "hash": 277206758,
+            "original": "Get back in ~B~Jeff's car.",
+            "translated": "回到~B~Jeff的车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 415865809,
+            "original": "Get back to ~b~Jeff's car~s~ and finish the job.",
+            "translated": "回到~b~Jeff的车~s~上，完成工作。",
+            "desc": ""
+        },
+        {
+            "hash": 505377305,
+            "original": "Dump the car in water.",
+            "translated": "把车丢到水里。",
+            "desc": ""
+        },
+        {
+            "hash": 584055754,
+            "original": "~b~Jeff: ~s~ has been killed",
+            "translated": "~b~Jeff~s~被杀了。",
+            "desc": ""
+        },
+        {
+            "hash": 646428493,
+            "original": "Enter the ~y~car park~s~ and wait for Jeff to arrive.",
+            "translated": "进入~y~停车场~s~等待Jeff到达。",
+            "desc": ""
+        },
+        {
+            "hash": 885333864,
+            "original": "Go and speak with ~b~Jeff.",
+            "translated": "上前与~b~Jeff~s~交谈。",
+            "desc": ""
+        },
+        {
+            "hash": 1111865961,
+            "original": "Take the car up to ~y~Walnut Way~s~ where it is quiet and dump it in the water.",
+            "translated": "驾车前往人烟稀少的~y~Walnut路，~s~把车丢到水里。",
+            "desc": ""
+        },
+        {
+            "hash": 1199916264,
+            "original": "You are too far away from ~b~Jeff.~s~ Make sure he is close so you can interact with him.",
+            "translated": "你离~b~Jeff~s~太远了，靠近并确保能与他互动。",
+            "desc": ""
+        },
+        {
+            "hash": 1229880538,
+            "original": "The body has been disposed of successfully.",
+            "translated": "尸体已被成功处理。",
+            "desc": ""
+        },
+        {
+            "hash": 2504394552,
+            "original": "When a car is traveling at high speed, press ~PAD_Y~ to jump from the vehicle.",
+            "translated": "车辆高速行驶时，按~PAD_Y~跳车。",
+            "desc": ""
+        },
+        {
+            "hash": 2519045715,
+            "original": "You have been spotted. Lose your wanted level.",
+            "translated": "你被发现了，摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 2752524840,
+            "original": "Enter ~b~Jeff's car.",
+            "translated": "进入~b~Jeff的车。",
+            "desc": ""
+        },
+        {
+            "hash": 3315037494,
+            "original": "Lose your wanted level.",
+            "translated": "摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 3695354504,
+            "original": "~r~The car was trashed. The body will be found.~s~",
+            "translated": "~r~车毁了，尸体会被发现的。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3960475131,
+            "original": "Wait here until Jeff arrives.",
+            "translated": "等待Jeff到达。",
+            "desc": ""
+        },
+        {
+            "hash": 4071346014,
+            "original": "~r~Too much attention was drawn to the vehicle.~s~",
+            "translated": "~r~这辆车吸引了太多的注意力。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4190284128,
+            "original": "~r~Jeff was abandoned.~s~",
+            "translated": "~r~Jeff被抛弃了。~s~",
+            "desc": ""
+        }
+    ]
+}

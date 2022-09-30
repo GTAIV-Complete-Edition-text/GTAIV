@@ -1,0 +1,1270 @@
+{
+    "FCPAAUD": [
+        {
+            "hash": 9827301,
+            "original": "~z~A fucking draw, in bowling. What are the odds?",
+            "translated": "~z~他妈打平了，保龄球诶。这他妈也行？",
+            "desc": ""
+        },
+        {
+            "hash": 17421979,
+            "original": "~z~Shit, Niko. What's the fucking deal? Let's fucking get there already..",
+            "translated": "~z~我靠，Niko。这有毛关系？快他妈上路吧...",
+            "desc": ""
+        },
+        {
+            "hash": 21422793,
+            "original": "~z~Will you take me to the house?",
+            "translated": "~z~你能送我回家吗？",
+            "desc": ""
+        },
+        {
+            "hash": 29194763,
+            "original": "~z~I've had naked chicks on me brain since we talked. I'm pumped, Niko.",
+            "translated": "~z~聊完电话，我的脑子里就全是裸体少妇了，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 112829654,
+            "original": "~z~Fuck, that place ain't bad. It ain't bad at all.",
+            "translated": "~z~操，那地方还不错，还算不错。",
+            "desc": ""
+        },
+        {
+            "hash": 152749269,
+            "original": "~z~If you spent more time talking to women, and less staring at the internet with your cock in your hand you might get somewhere.",
+            "translated": "~z~如果能你多花点时间和女人聊天，少对着屏幕撸管，你是能有所成就的。",
+            "desc": ""
+        },
+        {
+            "hash": 208682394,
+            "original": "~z~Hey, man. Let's go.",
+            "translated": "~z~嘿，兄弟，我们走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 243341284,
+            "original": "~z~Christ, if you'd been any later I probably woulda shot you. Let's move it.",
+            "translated": "~z~天哪，你再晚点到，我都想毙了你了。出发吧。",
+            "desc": ""
+        },
+        {
+            "hash": 245887445,
+            "original": "FCP_ACT_ARRIVEM_NOTLATE",
+            "translated": "FCP_ACT_ARRIVEM_NOTLATE",
+            "desc": ""
+        },
+        {
+            "hash": 263038774,
+            "original": "FCP_ACT_LEAVE_CLUB_GENERIC",
+            "translated": "FCP_ACT_LEAVE_CLUB_GENERIC",
+            "desc": ""
+        },
+        {
+            "hash": 265546172,
+            "original": "~z~Fuck Niko. I don't wanna do this.",
+            "translated": "~z~操，Niko。我不想做这个。",
+            "desc": ""
+        },
+        {
+            "hash": 281637246,
+            "original": "FCP_ACT_ARRIVE_BOWL",
+            "translated": "FCP_ACT_ARRIVE_BOWL",
+            "desc": ""
+        },
+        {
+            "hash": 291483213,
+            "original": "FCP_ACT_BORED_GETTING",
+            "translated": "FCP_ACT_BORED_GETTING",
+            "desc": ""
+        },
+        {
+            "hash": 291969577,
+            "original": "~z~Oh, darts, can't leave the bulleye alone eh? Alright, I'm in.",
+            "translated": "~z~噢，飞镖，就是丢不下靶心吗，嗯？好吧，我来。",
+            "desc": ""
+        },
+        {
+            "hash": 300308442,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 353508540,
+            "original": "FCP_ACT_DIFF_POOL_YES",
+            "translated": "FCP_ACT_DIFF_POOL_YES",
+            "desc": ""
+        },
+        {
+            "hash": 370591050,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 383541336,
+            "original": "~z~If you're in a bar full of women and the only person you're interested in is me, you should start asking yourself some important questions.",
+            "translated": "~z~如果你在一个满是女人的酒吧里还只对我感兴趣，你就该问你自己一些重要的问题了。",
+            "desc": ""
+        },
+        {
+            "hash": 410015626,
+            "original": "~z~I was getting bored of bowling anyway. I was thinking about shooting the pins down at one point.",
+            "translated": "~z~保龄球也打腻了。我在想的是一次打倒所有瓶子。",
+            "desc": ""
+        },
+        {
+            "hash": 422568669,
+            "original": "FCP_ACT_DARTS_LEAVE_ABANDON",
+            "translated": "FCP_ACT_DARTS_LEAVE_ABANDON",
+            "desc": ""
+        },
+        {
+            "hash": 438406009,
+            "original": "~z~I'm fucked, when you're in a place like that you got no choice but to down the drinks.",
+            "translated": "~z~我不行了，不过在这种地方怎么能不喝酒呢。",
+            "desc": ""
+        },
+        {
+            "hash": 505033360,
+            "original": "FCP_ACT_LEAVE_STRIP_OK",
+            "translated": "FCP_ACT_LEAVE_STRIP_OK",
+            "desc": ""
+        },
+        {
+            "hash": 546077481,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 566564482,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 568646352,
+            "original": "~z~Here it is Niko. See if we remember we were here tomorrow morning.",
+            "translated": "~z~到了，Niko。看看我们明早还记不记得自己来过这里吧。",
+            "desc": ""
+        },
+        {
+            "hash": 603804958,
+            "original": "FCP_ACT_ARRIVE_CLUB_GENERIC",
+            "translated": "FCP_ACT_ARRIVE_CLUB_GENERIC",
+            "desc": ""
+        },
+        {
+            "hash": 622004812,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 632826875,
+            "original": "~z~It don't matter Niko. It's just a fucking game. You're better at shooting people if that's a consolation?",
+            "translated": "~z~没关系，Niko。不过是场游戏而已。你还是更擅长打人，不知道算不算是安慰。",
+            "desc": ""
+        },
+        {
+            "hash": 649127281,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 651196661,
+            "original": "~z~This like a slice of real European culture or something? Remind me to take you to a jig on our next date.",
+            "translated": "~z~这算是真实欧洲文化的一个截面吗？下次记得提醒我带你去看爱尔兰吉格舞。",
+            "desc": ""
+        },
+        {
+            "hash": 665407000,
+            "original": "~z~Didn't they teach you to tell the time, you're fucking late. Let's get a car.",
+            "translated": "~z~没人教你看时间的吗，你丫迟到了。去弄辆车来。",
+            "desc": ""
+        },
+        {
+            "hash": 669689611,
+            "original": "~z~Whoa. Where are we? Are we coming in or going out?",
+            "translated": "~z~喔哦，我们在哪儿？这是要进去还是出来？",
+            "desc": ""
+        },
+        {
+            "hash": 670423143,
+            "original": "FCP_ACT_BOWL_LEAVE_WON",
+            "translated": "FCP_ACT_BOWL_LEAVE_WON",
+            "desc": ""
+        },
+        {
+            "hash": 673704457,
+            "original": "~z~Do you get this.",
+            "translated": "~z~你喜欢吗？",
+            "desc": ""
+        },
+        {
+            "hash": 706404993,
+            "original": "FCP_ACT_ARRIVE_PUB_GENERIC",
+            "translated": "FCP_ACT_ARRIVE_PUB_GENERIC",
+            "desc": ""
+        },
+        {
+            "hash": 707062704,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 733116352,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 757697018,
+            "original": "FCP_ACT_LEAVE_DRINK_INSULT",
+            "translated": "FCP_ACT_LEAVE_DRINK_INSULT",
+            "desc": ""
+        },
+        {
+            "hash": 767068634,
+            "original": "~z~Shit, Niko. We weren't in there long. My priest'll thank you for preventing me from sinning at least.",
+            "translated": "~z~我靠，Niko，刚进店没多久吧。至少我的神父会感谢你让我远离罪孽的。",
+            "desc": ""
+        },
+        {
+            "hash": 839325678,
+            "original": "~z~Hey man, so we need some vehicular transport.",
+            "translated": "~z~嘿，兄弟，给我们弄辆车吧。",
+            "desc": ""
+        },
+        {
+            "hash": 899753636,
+            "original": "~z~Shit, I'm storing those bitches in the bank for later. If you catch my drift.",
+            "translated": "~z~我靠，我要把这些婊子存银行里备用。不知道你听没听懂。",
+            "desc": ""
+        },
+        {
+            "hash": 915565862,
+            "original": "~z~Good to see you Niko, gimme a call.",
+            "translated": "~z~很高兴见到你，Niko，有空再联系。",
+            "desc": ""
+        },
+        {
+            "hash": 916365276,
+            "original": "~z~You just go to show that no matter what man achieves, we still behave like fucking apes.",
+            "translated": "~z~你就是最好的例子，无论人类进化成什么样，我们还是表现的跟猩猩一样。",
+            "desc": ""
+        },
+        {
+            "hash": 924904667,
+            "original": "~z~Fuck me, you don't actually like that shit, do ya?",
+            "translated": "~z~我操，你该不会真喜欢这种狗屎玩意吧？",
+            "desc": ""
+        },
+        {
+            "hash": 933362237,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 957653142,
+            "original": "~z~Niko, why do you wanna leave so early? You didn't touch one of the girls did ya? I wanna go back there.",
+            "translated": "~z~Niko，你怎么这么快就走了？你都没摸过姑娘吧？我想再回去玩会儿。",
+            "desc": ""
+        },
+        {
+            "hash": 969391644,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 980238735,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 999530390,
+            "original": "~z~Alright man. This fucker better be funny.",
+            "translated": "~z~好吧，兄弟。这逼最好能有趣点。",
+            "desc": ""
+        },
+        {
+            "hash": 1009775425,
+            "original": "~z~I ain't got the patience to be waiting, Niko. Let's go.",
+            "translated": "~z~我可没耐心等着，Niko。我们走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1021906527,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1071139285,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1089650339,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1146698577,
+            "original": "~z~I can give you three reasons, but the fact that you're the ugliest man I've ever seen should be enough of one.",
+            "translated": "~z~我可以给你三个理由，但事实上你是我见过的最丑的人，这就够了。",
+            "desc": ""
+        },
+        {
+            "hash": 1174029862,
+            "original": "~z~You got fucking lucky, Niko. Shit, I hate bowling.",
+            "translated": "~z~你丫运气真好，Niko。操，我讨厌保龄球。",
+            "desc": ""
+        },
+        {
+            "hash": 1181141683,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1206705892,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1213763762,
+            "original": "~z~I had some fun, Niko. Speak to you soon.",
+            "translated": "~z~我玩得挺开心，Niko。以后再联系。",
+            "desc": ""
+        },
+        {
+            "hash": 1323471368,
+            "original": "~z~You fancy motherfucker. America has really got to you, hasn't it?",
+            "translated": "~z~你这花哨狗逼。已经是个美国人了是吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1360895947,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1420558512,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1444729074,
+            "original": "~z~There you are. Let's move out.",
+            "translated": "~z~你来啦，我们走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1448922738,
+            "original": "FCP_ACT_DIFF_DARTS_YES",
+            "translated": "FCP_ACT_DIFF_DARTS_YES",
+            "desc": ""
+        },
+        {
+            "hash": 1453921794,
+            "original": "FCP_ACT_BORED_TAKEHOME",
+            "translated": "FCP_ACT_BORED_TAKEHOME",
+            "desc": ""
+        },
+        {
+            "hash": 1481702073,
+            "original": "~z~What you playing at Niko? I ain't doing this shit.",
+            "translated": "~z~你是作弄谁呢，Niko？这种事我可不干。",
+            "desc": ""
+        },
+        {
+            "hash": 1485647775,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1490287531,
+            "original": "~z~Hey man, this a joke? It ain't a funny one if it is. I'm not going in.",
+            "translated": "~z~嘿，兄弟，你开玩笑吗？这可不好笑。我不会进去的。",
+            "desc": ""
+        },
+        {
+            "hash": 1496789615,
+            "original": "~z~That was a good craic, man. Catch you round.",
+            "translated": "~z~玩得很开心，兄弟。回头见。",
+            "desc": ""
+        },
+        {
+            "hash": 1500373105,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1503512622,
+            "original": "~z~Alright Niko, you won. If you try to rub me face in it. Things ain't gonna be pretty.",
+            "translated": "~z~好吧，Niko，你赢了。要是你想骑我头上，就有你好看。",
+            "desc": ""
+        },
+        {
+            "hash": 1520849159,
+            "original": "FCP_ACT_LEAVE_SHOW_CABARET",
+            "translated": "FCP_ACT_LEAVE_SHOW_CABARET",
+            "desc": ""
+        },
+        {
+            "hash": 1570689488,
+            "original": "FCP_ACT_BOWL_LEAVE_DRAW",
+            "translated": "FCP_ACT_BOWL_LEAVE_DRAW",
+            "desc": ""
+        },
+        {
+            "hash": 1598943867,
+            "original": "~z~What's up man, so er, we're gonna need some wheels.",
+            "translated": "~z~你好啊，兄弟。那个...我们得弄辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 1642826941,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1646786286,
+            "original": "~z~I don't care if she's your girlfriend. That don't stop her being uglier than sin.",
+            "translated": "~z~我才不管她是不是你女友。那也改变不了她比罪孽还丑陋的事实。",
+            "desc": ""
+        },
+        {
+            "hash": 1652133481,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1684015236,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1690132604,
+            "original": "~z~Okay, Niko. This place ain't too shabby. It ain't too shabby at all.",
+            "translated": "~z~好吧，Niko。这地方还不算太烂。真的不能算太烂。",
+            "desc": ""
+        },
+        {
+            "hash": 1733428065,
+            "original": "~z~Couldn't hack the pressure, eh Niko? Had to duck out of the game of pool early. That's cool.",
+            "translated": "~z~顶不住压力了吧，嗯Niko？只能提前开溜了对吧。没事。",
+            "desc": ""
+        },
+        {
+            "hash": 1739224077,
+            "original": "~z~There's me man, Niko. Come on.",
+            "translated": "~z~我兄弟Niko来啦。走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1742513136,
+            "original": "~z~You wanted me to press my body up against you, didn't you? Let's go.",
+            "translated": "~z~你就是想让我贴在你身上是吧？走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1795544272,
+            "original": "~z~Fuck, I got better things to do than wait for you. Now we got to look for a car as well.",
+            "translated": "~z~操，比起等你我本来有更好的事情可做。现在我们还得去找辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 1795618342,
+            "original": "~z~Top prize for being an asshole goes to Niko. You made us miss the damn show.",
+            "translated": "~z~为人混蛋一等奖颁给Niko。被你搞得错过演出了。",
+            "desc": ""
+        },
+        {
+            "hash": 1798867203,
+            "original": "~z~You're a fucking loser cunt and you know it.",
+            "translated": "~z~你丫就是个屌丝lowB，你自己也知道。",
+            "desc": ""
+        },
+        {
+            "hash": 1810622296,
+            "original": "FCP_ACT_TAKEHOME",
+            "translated": "FCP_ACT_TAKEHOME",
+            "desc": ""
+        },
+        {
+            "hash": 1828346357,
+            "original": "~z~Later on, man. Call me.",
+            "translated": "~z~回见，兄弟。记得联系。",
+            "desc": ""
+        },
+        {
+            "hash": 1841658557,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1875478577,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1880649115,
+            "original": "FCP_ACT_ARRIVE_PUB_FAVOURITE",
+            "translated": "FCP_ACT_ARRIVE_PUB_FAVOURITE",
+            "desc": ""
+        },
+        {
+            "hash": 1897153511,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1904308924,
+            "original": "~z~You know I'm gonna destroy you at darts. It's going to happen, Niko.",
+            "translated": "~z~要知道，我玩飞镖可是碾压你的。会碾压的，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1910070931,
+            "original": "~z~Jesus Niko, waiting for your Slavic ass ain't fun at all. Come on.",
+            "translated": "~z~天哪，Niko，等你这个斯拉夫混蛋可不好玩。走了。",
+            "desc": ""
+        },
+        {
+            "hash": 2018043887,
+            "original": "~z~Fucking darts? It ain't what I signed on for but I'm game.",
+            "translated": "~z~改玩飞镖了？这跟说好的不一样，不过也行。",
+            "desc": ""
+        },
+        {
+            "hash": 2045519136,
+            "original": "FCP_ACT_DARTS_LEAVE_DRAW",
+            "translated": "FCP_ACT_DARTS_LEAVE_DRAW",
+            "desc": ""
+        },
+        {
+            "hash": 2056106973,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2060613063,
+            "original": "FCP_ACT_ARRIVE_DARTS",
+            "translated": "FCP_ACT_ARRIVE_DARTS",
+            "desc": ""
+        },
+        {
+            "hash": 2074307465,
+            "original": "~z~A fuckin chopper? Man, you a player!",
+            "translated": "~z~直升机都搞来了？兄弟行啊！",
+            "desc": ""
+        },
+        {
+            "hash": 2089102236,
+            "original": "~z~Fuck you. I'd spill your drinks again if I had the fucking chance.",
+            "translated": "~z~操你妈，要是老子有机会，还会把你的酒都倒了。",
+            "desc": ""
+        },
+        {
+            "hash": 2094602706,
+            "original": "~z~Your pissing around has made us miss the fucking show. Nice one, Niko.",
+            "translated": "~z~你丫到处乱跑搞得我们错过演出了。很好，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2101715392,
+            "original": "~z~Shit, I love that shit hole. They gotta put something in the drinks there. I'm screwed.",
+            "translated": "~z~我操，我喜欢这家店。酒水里肯定下了料。我不行了。",
+            "desc": ""
+        },
+        {
+            "hash": 2107101701,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2112432327,
+            "original": "~z~Niko, I'm bored as fuck. Take me home.",
+            "translated": "~z~Niko，我他妈无聊死了。送我回家。",
+            "desc": ""
+        },
+        {
+            "hash": 2187762083,
+            "original": "~z~Niko, you beat me at pool. That don't make you a better man.",
+            "translated": "~z~Niko，你台球打赢我了。不过这也没法让你变好。",
+            "desc": ""
+        },
+        {
+            "hash": 2268634666,
+            "original": "~z~You ready to get your ass thrashed at darts, then?",
+            "translated": "~z~准备好在飞镖上输得底裤都不剩了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2295245572,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2347256782,
+            "original": "~z~We ain't interested in you like that ladies.",
+            "translated": "~z~我们不像那些女士一样对你感兴趣。",
+            "desc": ""
+        },
+        {
+            "hash": 2374356343,
+            "original": "FCP_ACT_LEAVE_STRIP_GOOD",
+            "translated": "FCP_ACT_LEAVE_STRIP_GOOD",
+            "desc": ""
+        },
+        {
+            "hash": 2406537794,
+            "original": "~z~God, I'm gonna have to say a load of Hail Marys after the thoughts I was thinking in there.",
+            "translated": "~z~上帝啊，在店里胡思乱想了那么多，我得念上很多遍万福玛利亚了。",
+            "desc": ""
+        },
+        {
+            "hash": 2416629731,
+            "original": "FCP_ACT_BORED_LEAVING",
+            "translated": "FCP_ACT_BORED_LEAVING",
+            "desc": ""
+        },
+        {
+            "hash": 2450625089,
+            "original": "~z~This place, eh Niko? If here's you're place then let's do it. It's all the same to me when I'm wasted anyway.",
+            "translated": "~z~这家店吗，Niko？确定的话我们就进去吧。反正我都能喝个大醉。",
+            "desc": ""
+        },
+        {
+            "hash": 2467291918,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2490033081,
+            "original": "FCP_ACT_DARTS_LEAVE_LOST",
+            "translated": "FCP_ACT_DARTS_LEAVE_LOST",
+            "desc": ""
+        },
+        {
+            "hash": 2512228011,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2533883361,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2549801607,
+            "original": "~z~I think that following us out here proves my point. You are fucking stupid.",
+            "translated": "~z~我想跟着我们出来就证明了我的观点。你丫就是傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 2550931172,
+            "original": "FCP_ACT_POOL_LEAVE_LOST",
+            "translated": "FCP_ACT_POOL_LEAVE_LOST",
+            "desc": ""
+        },
+        {
+            "hash": 2570464452,
+            "original": "~z~Shit Niko, it wouldn't have taken much longer to finish a game of darts.",
+            "translated": "~z~我靠，Niko，投一局飞镖又不用花多久。",
+            "desc": ""
+        },
+        {
+            "hash": 2585630126,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2600000806,
+            "original": "~z~That place is fucking awesome. I can't nearly see.",
+            "translated": "~z~那家店太他妈爽了，我都快看不清了。",
+            "desc": ""
+        },
+        {
+            "hash": 2616028311,
+            "original": "~z~Fine, Niko. You wanna quit that's okay. I'm gonna count it as a win for me.",
+            "translated": "~z~行吧，Niko。你不想打了也行。那就算我赢了。",
+            "desc": ""
+        },
+        {
+            "hash": 2630544787,
+            "original": "~z~Pair of transexuals seem to be following us!",
+            "translated": "~z~一对变性人似乎跟着我们！",
+            "desc": ""
+        },
+        {
+            "hash": 2641170188,
+            "original": "~z~A bike, you better be able to drive it, Niko. Let's go.",
+            "translated": "~z~摩托车，你会不会骑啊，Niko。我们走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2644293273,
+            "original": "~z~I don't like losing, Niko. If you weren't such a gracious winner I might have got real angry.",
+            "translated": "~z~我不喜欢失败，Niko。要不是因为你是个如此谦和的赢家，我就要生气了。",
+            "desc": ""
+        },
+        {
+            "hash": 2659091912,
+            "original": "FCP_ACT_DARTS_LEAVE_WON",
+            "translated": "FCP_ACT_DARTS_LEAVE_WON",
+            "desc": ""
+        },
+        {
+            "hash": 2661020177,
+            "original": "FCP_ACT_POOL_LEAVE_DRAW",
+            "translated": "FCP_ACT_POOL_LEAVE_DRAW",
+            "desc": ""
+        },
+        {
+            "hash": 2680918132,
+            "original": "~z~When you don't wanna be somewhere you just cut lose, don't ya?",
+            "translated": "~z~你不想去什么地方的时候就会止损，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2690690783,
+            "original": "~z~Alright, man. There are better places to get a drink in this city but a drink's a drink, you know?",
+            "translated": "~z~行吧，兄弟。城里还有更好的地方可以喝酒，但总归是有酒喝的，懂吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2693572469,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2740979352,
+            "original": "~z~That's funny.",
+            "translated": "~z~很有趣。",
+            "desc": ""
+        },
+        {
+            "hash": 2744068198,
+            "original": "FCP_ACT_ARRIVE_SHOW_LATE",
+            "translated": "FCP_ACT_ARRIVE_SHOW_LATE",
+            "desc": ""
+        },
+        {
+            "hash": 2749395755,
+            "original": "~z~Fuck me, I didn't know they had this kind of thing in Liberty City.",
+            "translated": "~z~我操，自由城里居然还有这种东西。",
+            "desc": ""
+        },
+        {
+            "hash": 2760453255,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2767417936,
+            "original": "~z~Okay Niko, you need me to explain what anything means, just ask.",
+            "translated": "~z~好了，Niko，有什么没听懂的就问我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2778907095,
+            "original": "~z~I'm nearly bursting , Niko. This is gonna be fucking great.",
+            "translated": "~z~我快顶不住了，Niko。这里最好够爽。",
+            "desc": ""
+        },
+        {
+            "hash": 2779226068,
+            "original": "~z~Niko, what the fuck man? Why's this taking so long.",
+            "translated": "~z~Niko，搞毛啊老兄？怎么会花这么久。",
+            "desc": ""
+        },
+        {
+            "hash": 2802192016,
+            "original": "~z~I don't remember agreeing to a game of pool. Was I drunk?",
+            "translated": "~z~我不记得我答应的是打台球啊。是我醉了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2814652349,
+            "original": "~z~Take me back to the house.",
+            "translated": "~z~送我回家。",
+            "desc": ""
+        },
+        {
+            "hash": 2933174830,
+            "original": "~z~I'm getting bored, man. If we don't get there soon I'm gonna have to start hitting the yayo.",
+            "translated": "~z~我开始无聊了，兄弟。再没到地方，我就要开始嗑药了。",
+            "desc": ""
+        },
+        {
+            "hash": 2945738483,
+            "original": "FCP_ACT_ARRIVEF_NOTLATE",
+            "translated": "FCP_ACT_ARRIVEF_NOTLATE",
+            "desc": ""
+        },
+        {
+            "hash": 2964334489,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2974839857,
+            "original": "FCP_ACT_ARRIVE_SHOW_COMEDY",
+            "translated": "FCP_ACT_ARRIVE_SHOW_COMEDY",
+            "desc": ""
+        },
+        {
+            "hash": 2992738079,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3008385795,
+            "original": "~z~The best man won, Niko. Don't think anyone's gonna dispute that are they?",
+            "translated": "~z~强者胜出，Niko。没人会反驳的，不是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3014268568,
+            "original": "~z~Tie game, Niko. Tie game. We're a good match, a good match.",
+            "translated": "~z~平局，Niko，平局啊。旗鼓相当，旗鼓相当。",
+            "desc": ""
+        },
+        {
+            "hash": 3035265642,
+            "original": "~z~Shit, Niko. I'll find me own damn way home then.",
+            "translated": "~z~我靠，Niko。我自己想法子回去了。",
+            "desc": ""
+        },
+        {
+            "hash": 3048090420,
+            "original": "~z~He's a fuckin' genius.",
+            "translated": "~z~他他妈是天才。",
+            "desc": ""
+        },
+        {
+            "hash": 3085547881,
+            "original": "~z~I'm in, man. I'm fucking in. Let's go.",
+            "translated": "~z~我来，兄弟，我当然来。进去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3097569567,
+            "original": "FCP_ACT_LEAVE_PUB_GENERIC",
+            "translated": "FCP_ACT_LEAVE_PUB_GENERIC",
+            "desc": ""
+        },
+        {
+            "hash": 3115165528,
+            "original": "~z~You assholes are starting to annoy me.",
+            "translated": "~z~你们这些混蛋要惹毛我了。",
+            "desc": ""
+        },
+        {
+            "hash": 3127947577,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3140191890,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3145299993,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3177096807,
+            "original": "FCP_ACT_ARRIVEF_LATE",
+            "translated": "FCP_ACT_ARRIVEF_LATE",
+            "desc": ""
+        },
+        {
+            "hash": 3192793979,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3219485359,
+            "original": "~z~That wasn't too bad. If I'd had a few more rails beforehand it might a been even better.",
+            "translated": "~z~还不错。要是我事前能多吸点粉就更好了。",
+            "desc": ""
+        },
+        {
+            "hash": 3255169134,
+            "original": "~z~Niko, Niko, you come up against the best, you can't expect to win. Bad luck man.",
+            "translated": "~z~Niko，Niko，挑战了最强的选手就别想赢了。运气不行啊兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3279723471,
+            "original": "FCP_ACT_DURING_SHOW_POS",
+            "translated": "FCP_ACT_DURING_SHOW_POS",
+            "desc": ""
+        },
+        {
+            "hash": 3300197453,
+            "original": "~z~You're fucking late, you dick head. Let's go.",
+            "translated": "~z~你他妈迟到了，屌人。走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3300238118,
+            "original": "~z~I don't get it.",
+            "translated": "~z~我没看懂。",
+            "desc": ""
+        },
+        {
+            "hash": 3306403615,
+            "original": "~z~Alright Niko, enough's enough. Take me home.",
+            "translated": "~z~好了，Niko，够了就是够了。送我回家吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3319100769,
+            "original": "FCP_ACT_DURING_SHOW_NEG",
+            "translated": "FCP_ACT_DURING_SHOW_NEG",
+            "desc": ""
+        },
+        {
+            "hash": 3333609199,
+            "original": "~z~This is the place, boy. Let's get screwed up.",
+            "translated": "~z~这家店好啊，小子，我们开干吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3337644352,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3340574415,
+            "original": "~z~You're a selfish bastard, aren't you? I'll get my self home. Shit.",
+            "translated": "~z~你丫是个自私混蛋是吧？我自己回家了。操。",
+            "desc": ""
+        },
+        {
+            "hash": 3344222088,
+            "original": "FCP_ACT_POOL_LEAVE_WON",
+            "translated": "FCP_ACT_POOL_LEAVE_WON",
+            "desc": ""
+        },
+        {
+            "hash": 3354120111,
+            "original": "~z~That's fucking priceless.",
+            "translated": "~z~那他妈是无价之宝。",
+            "desc": ""
+        },
+        {
+            "hash": 3368078108,
+            "original": "FCP_ACT_LEAVE_SHOW_EARLY",
+            "translated": "FCP_ACT_LEAVE_SHOW_EARLY",
+            "desc": ""
+        },
+        {
+            "hash": 3390287273,
+            "original": "~z~I didn't think we was bowling, fuck it. Let's go.",
+            "translated": "~z~我们没说要打保龄球吧，算了。走。",
+            "desc": ""
+        },
+        {
+            "hash": 3415878162,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3428816895,
+            "original": "~z~I'm a fucking hustler, Niko. You ain't never gonna beat me at pool.",
+            "translated": "~z~老子可是专业的，Niko。你不可能在台球上打败我。",
+            "desc": ""
+        },
+        {
+            "hash": 3432413537,
+            "original": "~z~Hey, take me back to Ma's.",
+            "translated": "~z~嘿，送我回妈家。",
+            "desc": ""
+        },
+        {
+            "hash": 3462066019,
+            "original": "FCP_ACT_DROPOFF",
+            "translated": "FCP_ACT_DROPOFF",
+            "desc": ""
+        },
+        {
+            "hash": 3491656901,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3536851166,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3544228320,
+            "original": "~z~Them fucking darts was weighted funny. I shouldn't a lost.",
+            "translated": "~z~他们的垃圾飞镖重量不对，不然我能赢的。",
+            "desc": ""
+        },
+        {
+            "hash": 3546708817,
+            "original": "~z~What's taking so long?",
+            "translated": "~z~怎么这么久？",
+            "desc": ""
+        },
+        {
+            "hash": 3563763666,
+            "original": "FCP_ACT_BOWL_LEAVE_ABANDON",
+            "translated": "FCP_ACT_BOWL_LEAVE_ABANDON",
+            "desc": ""
+        },
+        {
+            "hash": 3565956049,
+            "original": "FCP_ACT_BOWL_LEAVE_LOST",
+            "translated": "FCP_ACT_BOWL_LEAVE_LOST",
+            "desc": ""
+        },
+        {
+            "hash": 3598993091,
+            "original": "~z~What's that about?",
+            "translated": "~z~什么玩意？",
+            "desc": ""
+        },
+        {
+            "hash": 3613285607,
+            "original": "FCP_ACT_LEAVE_SHOW_COMEDY",
+            "translated": "FCP_ACT_LEAVE_SHOW_COMEDY",
+            "desc": ""
+        },
+        {
+            "hash": 3657925871,
+            "original": "~z~Fuck Niko, I paid to see that shit.",
+            "translated": "~z~操蛋，Niko，我花了钱的。",
+            "desc": ""
+        },
+        {
+            "hash": 3659084658,
+            "original": "~z~Come on, Niko. Rack 'em up.",
+            "translated": "~z~来吧，Niko。杆杆进洞。",
+            "desc": ""
+        },
+        {
+            "hash": 3694590193,
+            "original": "~z~Balls in pockets again hey? Alrite why not.",
+            "translated": "~z~再来次球球入袋？也不是不行吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3732513853,
+            "original": "~z~Let's go bowling, Niko.",
+            "translated": "~z~进去打保龄球吧，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3732675892,
+            "original": "~z~Drop me at Ma's, will ya?",
+            "translated": "~z~送我回妈家，行吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3745645227,
+            "original": "FCP_ACT_ARRIVEH_NOTLATE",
+            "translated": "FCP_ACT_ARRIVEH_NOTLATE",
+            "desc": ""
+        },
+        {
+            "hash": 3836031354,
+            "original": "FCP_ACT_LEAVE_CLUB_FAVOURITE",
+            "translated": "FCP_ACT_LEAVE_CLUB_FAVOURITE",
+            "desc": ""
+        },
+        {
+            "hash": 3847302897,
+            "original": "FCP_ACT_POOL_LEAVE_ABANDON",
+            "translated": "FCP_ACT_POOL_LEAVE_ABANDON",
+            "desc": ""
+        },
+        {
+            "hash": 3857176388,
+            "original": "~z~I guess they don't got darts where you're from. It's an Irishman's game.",
+            "translated": "~z~我猜你老家没有飞镖。这是爱尔兰人的游戏。",
+            "desc": ""
+        },
+        {
+            "hash": 3875199191,
+            "original": "FCP_ACT_ARRIVE_SHOW_CABARET",
+            "translated": "FCP_ACT_ARRIVE_SHOW_CABARET",
+            "desc": ""
+        },
+        {
+            "hash": 3920700565,
+            "original": "FCP_ACT_ARRIVE_STRIP",
+            "translated": "FCP_ACT_ARRIVE_STRIP",
+            "desc": ""
+        },
+        {
+            "hash": 3934080849,
+            "original": "~z~Fuck, we coulda finished the game. I was starting to get a feel for it.",
+            "translated": "~z~操蛋，我们可以投完整局的，我都有手感了。",
+            "desc": ""
+        },
+        {
+            "hash": 3936179157,
+            "original": "~z~Jesus Christ. That what you guys watch on TV where you come from?",
+            "translated": "~z~我的天哪，你们老家的电视就播这种东西？",
+            "desc": ""
+        },
+        {
+            "hash": 3951239451,
+            "original": "~z~Come on, Niko. If I wanted to do this I'd ask to do it.",
+            "translated": "~z~拜托，Niko，想来这里的话我会主动提的。",
+            "desc": ""
+        },
+        {
+            "hash": 4021858789,
+            "original": "FCP_ACT_ARRIVE_LATE",
+            "translated": "FCP_ACT_ARRIVE_LATE",
+            "desc": ""
+        },
+        {
+            "hash": 4065627489,
+            "original": "~z~So, it was a tie. I guess we're evenly matched.",
+            "translated": "~z~那就是平手了。我想我们是旗鼓相当。",
+            "desc": ""
+        },
+        {
+            "hash": 4067232421,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4086405810,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4090999255,
+            "original": "FCP_ACT_ARRIVEC_NOTLATE",
+            "translated": "FCP_ACT_ARRIVEC_NOTLATE",
+            "desc": ""
+        },
+        {
+            "hash": 4100158523,
+            "original": "~z~Bad luck Niko, you might win if they let you shoot the board.",
+            "translated": "~z~运气不行啊，Niko。要是给你打到了，真有可能会赢。",
+            "desc": ""
+        },
+        {
+            "hash": 4100718651,
+            "original": "~z~Man, I just don't like stopping once I've started. I could drink all fucking night.",
+            "translated": "~z~兄弟，一开始喝酒就停不下来了，我他妈能喝一整晚。",
+            "desc": ""
+        },
+        {
+            "hash": 4106316507,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4144324850,
+            "original": "~z~That was alright Niko. The man can tell a joke.",
+            "translated": "~z~还算不错吧，Niko。这人挺会讲笑话的。",
+            "desc": ""
+        },
+        {
+            "hash": 4191596000,
+            "original": "~z~I never liked bowling anyway.",
+            "translated": "~z~反正我不喜欢打保龄球。",
+            "desc": ""
+        },
+        {
+            "hash": 4198030267,
+            "original": "~z~Alright man, we're here. Let's bowl.",
+            "translated": "~z~好了，兄弟，我们到了。开始打球吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4203715033,
+            "original": "~z~Alright, Niko. We good to go.",
+            "translated": "~z~好了，Niko。赶紧出发吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4203800610,
+            "original": "FCP_ACT_ARRIVE_POOL",
+            "translated": "FCP_ACT_ARRIVE_POOL",
+            "desc": ""
+        },
+        {
+            "hash": 4204733583,
+            "original": "FCP_ACT_DIFF_BOWL_YES",
+            "translated": "FCP_ACT_DIFF_BOWL_YES",
+            "desc": ""
+        },
+        {
+            "hash": 4210900665,
+            "original": "FCP_ACT_DIFF_ACTIVITY_NO",
+            "translated": "FCP_ACT_DIFF_ACTIVITY_NO",
+            "desc": ""
+        },
+        {
+            "hash": 4222864387,
+            "original": "~z~You're a fucking prick, Niko. Get us there alright.",
+            "translated": "~z~你他妈就是个屌人，Niko。赶紧上路吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4226591341,
+            "original": "~z~Dumb pricks!",
+            "translated": "~z~傻逼玩意！",
+            "desc": ""
+        }
+    ]
+}

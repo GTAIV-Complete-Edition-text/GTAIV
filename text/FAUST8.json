@@ -1,0 +1,136 @@
+{
+    "FAUST8": [
+        {
+            "hash": 49712665,
+            "original": "~s~You can use free aim to shoot by lightly holding ~PAD_LT~.",
+            "translated": "~s~半按~PAD_LT~以在自由瞄准模式下射击。",
+            "desc": ""
+        },
+        {
+            "hash": 331367740,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 765065691,
+            "original": "~s~You can aim as normal when in cover by using ~INPUT_AIM~.",
+            "translated": "~s~你可以在掩体后用~INPUT_AIM~进行射击。",
+            "desc": ""
+        },
+        {
+            "hash": 806349695,
+            "original": "~s~You can change the aiming sensitivity in the front end menu screen by going to the controls section and selecting Mouse Sensitivity.",
+            "translated": "~s~你可以在暂停菜单下的控制设置中调节瞄准时的鼠标灵敏度。",
+            "desc": ""
+        },
+        {
+            "hash": 965966674,
+            "original": "~s~The cops are here. Get Jacob back to the ~y~Homebrew Cafe.",
+            "translated": "~s~警察来了。带Jacob回~y~家庭咖啡馆。",
+            "desc": ""
+        },
+        {
+            "hash": 1025284084,
+            "original": "~s~You've left ~b~Little Jacob~s~ behind.",
+            "translated": "~s~你把~b~Little Jacob~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 1106780587,
+            "original": "~s~Wait for ~b~Little Jacob.",
+            "translated": "~s~等待~b~Little Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 1527473260,
+            "original": "~s~Use ~INPUT_AIM~ to aim.",
+            "translated": "~s~用~INPUT_AIM~瞄准。",
+            "desc": ""
+        },
+        {
+            "hash": 1763761564,
+            "original": "~s~When in cover, use ~PAD_LSTICK_LEFTRIGHT~ to move.",
+            "translated": "~s~在掩体后时，用~PAD_LSTICK_LEFTRIGHT~移动。",
+            "desc": ""
+        },
+        {
+            "hash": 1899922291,
+            "original": "~s~You can lock onto enemies as normal when in cover by pulling ~PAD_LT~.",
+            "translated": "~s~在掩体后时，用~PAD_LT~锁定敌人。",
+            "desc": ""
+        },
+        {
+            "hash": 2036629027,
+            "original": "~s~When in cover, press ~INPUT_ATTACK~ to blind fire. Blind fire is less accurate than aimed fire.",
+            "translated": "~s~在掩体后时，按~INPUT_ATTACK~进行盲射。盲射比瞄准射击精度更低。",
+            "desc": ""
+        },
+        {
+            "hash": 2057371808,
+            "original": "~s~Press ~PAD_RSTICK_NONE~ to zoom-in when locked on.",
+            "translated": "~s~按~PAD_RSTICK_NONE~以在锁定时放大瞄准。",
+            "desc": ""
+        },
+        {
+            "hash": 2363467037,
+            "original": "~s~Press ~INPUT_COVER~ to take cover behind a vehicle when near one.",
+            "translated": "~s~按~INPUT_COVER~以在靠近车辆时躲到车后。",
+            "desc": ""
+        },
+        {
+            "hash": 2407251949,
+            "original": "If you move to the limit of your cover position, you can shoot around it.",
+            "translated": "若你处在掩体边缘，就可以在其周围射击。",
+            "desc": ""
+        },
+        {
+            "hash": 2548355255,
+            "original": "~s~Take Little Jacob back to his ~y~cafe.",
+            "translated": "~s~送Little Jacob回他的~y~咖啡馆。",
+            "desc": ""
+        },
+        {
+            "hash": 2969726286,
+            "original": "~s~Meet ~b~Little Jacob ~s~in East Hook.",
+            "translated": "~s~去East Hook与~b~Little Jacob~s~碰头。",
+            "desc": ""
+        },
+        {
+            "hash": 2989780934,
+            "original": "Sustained firing of your weapon will cause recoil and bullets will spread inaccurately. The aiming reticule will grow larger to indicate this is happening.",
+            "translated": "连续射击会产生后坐力，子弹将不精准散布。准星外圈增大说明正受后坐力影响。",
+            "desc": ""
+        },
+        {
+            "hash": 3471973869,
+            "original": "~s~Get back to ~b~Jacob.",
+            "translated": "~s~回到~b~Jacob身边。",
+            "desc": ""
+        },
+        {
+            "hash": 3785516089,
+            "original": "~r~Little Jacob is out of action.",
+            "translated": "~r~Little Jacob失去行动能力。",
+            "desc": ""
+        },
+        {
+            "hash": 3873200405,
+            "original": "~s~Wipe out Bulgarin's ~r~men.",
+            "translated": "~s~杀掉Bulgarin的~r~手下。",
+            "desc": ""
+        },
+        {
+            "hash": 3987456383,
+            "original": "~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to zoom-in while aiming.",
+            "translated": "~s~瞄准时用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~进行缩放。",
+            "desc": ""
+        },
+        {
+            "hash": 4029153596,
+            "original": "~s~Little Jacob is taking damage.",
+            "translated": "~s~Little Jacob正受到攻击。",
+            "desc": ""
+        }
+    ]
+}

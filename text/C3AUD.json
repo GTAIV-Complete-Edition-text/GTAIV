@@ -1,0 +1,838 @@
+{
+    "C3AUD": [
+        {
+            "hash": 11882134,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 30014232,
+            "original": "~z~You scared it off? Come to see me at my office.",
+            "translated": "~z~你把它吓跑了？到我办公室来。",
+            "desc": ""
+        },
+        {
+            "hash": 30637085,
+            "original": "~z~Michelle? Karen. We gave her her life back.",
+            "translated": "~z~Michelle？是Karen。我们让她重获新生。",
+            "desc": ""
+        },
+        {
+            "hash": 124167940,
+            "original": "C3_ND",
+            "translated": "C3_ND",
+            "desc": ""
+        },
+        {
+            "hash": 133368128,
+            "original": "~z~What's this? Empty office, leased to a man who died in the last days of Vietnam...",
+            "translated": "~z~什么情况？人去屋空，租赁方是一名越战阵亡军人...",
+            "desc": ""
+        },
+        {
+            "hash": 241272073,
+            "original": "~z~I'm afraid you're not getting it.",
+            "translated": "~z~恐怕你拿不到了。",
+            "desc": ""
+        },
+        {
+            "hash": 341110477,
+            "original": "C3_AE",
+            "translated": "C3_AE",
+            "desc": ""
+        },
+        {
+            "hash": 385964498,
+            "original": "~z~We need to get hold of it. Follow it.",
+            "translated": "~z~我们要得到它。跟着它。",
+            "desc": ""
+        },
+        {
+            "hash": 418001712,
+            "original": "C3_GC",
+            "translated": "C3_GC",
+            "desc": ""
+        },
+        {
+            "hash": 422627281,
+            "original": "C3_JE",
+            "translated": "C3_JE",
+            "desc": ""
+        },
+        {
+            "hash": 438408741,
+            "original": "~z~The guy I told you about. The guy you need to eliminate. The only way you'll get to him is in the air.",
+            "translated": "~z~我跟你讲过的那人，需要你消灭的人。只能从空中接近他。",
+            "desc": ""
+        },
+        {
+            "hash": 508299938,
+            "original": "C3_CA",
+            "translated": "C3_CA",
+            "desc": ""
+        },
+        {
+            "hash": 566770698,
+            "original": "~z~How? I've got something that's going to help you.",
+            "translated": "~z~怎么做？我给你备了能用上的东西。",
+            "desc": ""
+        },
+        {
+            "hash": 587078450,
+            "original": "290",
+            "translated": "290",
+            "desc": ""
+        },
+        {
+            "hash": 587116099,
+            "original": "~z~Not acceptable, Bellic. I'm cutting you a lot of slack and I need you to appreciate that. Come to the office.",
+            "translated": "~z~不可接受，Bellic。这次我就放你一马，谢我不杀之恩吧。来我办公室。",
+            "desc": ""
+        },
+        {
+            "hash": 615688969,
+            "original": "C3_DA",
+            "translated": "C3_DA",
+            "desc": ""
+        },
+        {
+            "hash": 632035801,
+            "original": "~z~What's this guy doing here?",
+            "translated": "~z~这人是来干什么的？",
+            "desc": ""
+        },
+        {
+            "hash": 669266346,
+            "original": "~z~I'll call you when we have a window. Goodbye.",
+            "translated": "~z~时机来临的时候我会打给你的。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 684195167,
+            "original": "~z~Wait until it touches down then, when the passengers are out, get in and fly it to the airport in Dukes.",
+            "translated": "~z~等它着陆，飞机上的人都下来后，~n~跳进飞机，开到Dukes的飞机场。",
+            "desc": ""
+        },
+        {
+            "hash": 702624831,
+            "original": "~z~To me? Who am I? There's a hundred guys in this building alone who fit my description.",
+            "translated": "~z~供我？我是谁？光这栋楼里就有上百人符合我的外貌描述。",
+            "desc": ""
+        },
+        {
+            "hash": 773477774,
+            "original": "~z~Then what?",
+            "translated": "~z~那为什么？",
+            "desc": ""
+        },
+        {
+            "hash": 778681676,
+            "original": "~z~True... but the last thing I need is you getting caught.",
+            "translated": "~z~确实...但我最不希望的就是你被逮住。",
+            "desc": ""
+        },
+        {
+            "hash": 832756671,
+            "original": "~z~But I need to know his movements first.",
+            "translated": "~z~但首先我要了解他的动向。",
+            "desc": ""
+        },
+        {
+            "hash": 871975824,
+            "original": "100100100100",
+            "translated": "100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 890031099,
+            "original": "~z~It should be ready for you when you need it.",
+            "translated": "~z~等你要用的时候应该就能用了。",
+            "desc": ""
+        },
+        {
+            "hash": 925226431,
+            "original": "C3_ZA",
+            "translated": "C3_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 941478072,
+            "original": "~z~Why? Because I lead them to you in some plea bargain thing?",
+            "translated": "~z~为什么？怕我为了减刑就把你供出来？",
+            "desc": ""
+        },
+        {
+            "hash": 980815370,
+            "original": "C3_NE",
+            "translated": "C3_NE",
+            "desc": ""
+        },
+        {
+            "hash": 1013318516,
+            "original": "100010010010100010100",
+            "translated": "100010010010100010100",
+            "desc": ""
+        },
+        {
+            "hash": 1017862607,
+            "original": "~z~I'm an idiot. I move...",
+            "translated": "~z~我白痴，我会动...",
+            "desc": ""
+        },
+        {
+            "hash": 1019322363,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 1019474657,
+            "original": "~z~I mean, I think you'll end up on a flight deck, but that's your business.",
+            "translated": "~z~我想，最后你会被送进精神病院，不过那就是你的事了。",
+            "desc": ""
+        },
+        {
+            "hash": 1020158308,
+            "original": "~z~I can't see the chopper anywhere. I lost it.",
+            "translated": "~z~我找不到直升机了，我跟丢了。",
+            "desc": ""
+        },
+        {
+            "hash": 1076619421,
+            "original": "~z~The chopper's not in such good shape.",
+            "translated": "~z~直升机的状况不太好。",
+            "desc": ""
+        },
+        {
+            "hash": 1080615176,
+            "original": "C3_NG",
+            "translated": "C3_NG",
+            "desc": ""
+        },
+        {
+            "hash": 1147726515,
+            "original": "~z~Why would I need it?",
+            "translated": "~z~我干嘛要用它？",
+            "desc": ""
+        },
+        {
+            "hash": 1160676054,
+            "original": "~z~Head over to Albany Avenue in Lancet and give me a call. Go.",
+            "translated": "~z~你去Lancet的Albany大道，再给我打个电话。去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1191839597,
+            "original": "~z~Because you're good!",
+            "translated": "~z~因为你是好人！",
+            "desc": ""
+        },
+        {
+            "hash": 1246783967,
+            "original": "C3_HB",
+            "translated": "C3_HB",
+            "desc": ""
+        },
+        {
+            "hash": 1255341720,
+            "original": "100100100010",
+            "translated": "100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 1272589755,
+            "original": "C3_JB",
+            "translated": "C3_JB",
+            "desc": ""
+        },
+        {
+            "hash": 1292257488,
+            "original": "290",
+            "translated": "290",
+            "desc": ""
+        },
+        {
+            "hash": 1360621967,
+            "original": "~z~Shit, I don't know. All I know is that her friends have got me by the balls.",
+            "translated": "~z~妈的，我不知道。我只知道她的朋友抓着我的把柄。",
+            "desc": ""
+        },
+        {
+            "hash": 1370915821,
+            "original": "~z~Hanging out with bad people, doing bad things, making idiot moves.",
+            "translated": "~z~整天跟坏人一起，坏事做做，举动白痴。",
+            "desc": ""
+        },
+        {
+            "hash": 1429054388,
+            "original": "~z~I need someone neutralized.",
+            "translated": "~z~我需要某人消失。",
+            "desc": ""
+        },
+        {
+            "hash": 1474104365,
+            "original": "~z~I think we are one heavy at this meet.",
+            "translated": "~z~看来这次会面有麻烦了。",
+            "desc": ""
+        },
+        {
+            "hash": 1485669929,
+            "original": "C3_KB",
+            "translated": "C3_KB",
+            "desc": ""
+        },
+        {
+            "hash": 1524739644,
+            "original": "~z~What did you give Michelle? For me.",
+            "translated": "~z~你给了Michelle什么？为了抓我。",
+            "desc": ""
+        },
+        {
+            "hash": 1546751121,
+            "original": "C3_KA",
+            "translated": "C3_KA",
+            "desc": ""
+        },
+        {
+            "hash": 1547797023,
+            "original": "~z~Okay then, let's fly this thing.",
+            "translated": "~z~好吧，我们起飞吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1558741119,
+            "original": "C3_MB",
+            "translated": "C3_MB",
+            "desc": ""
+        },
+        {
+            "hash": 1559131918,
+            "original": "C3_LB",
+            "translated": "C3_LB",
+            "desc": ""
+        },
+        {
+            "hash": 1594035554,
+            "original": "~z~after you introduced me to Michelle or Karen, or whatever her name really is.",
+            "translated": "~z~都是因为你给我介绍的那个叫Michelle还是Karen还是什么的女人。",
+            "desc": ""
+        },
+        {
+            "hash": 1602860694,
+            "original": "~z~I couldn't get to the helicopter.",
+            "translated": "~z~我上不了直升机了。",
+            "desc": ""
+        },
+        {
+            "hash": 1617798943,
+            "original": "~z~Bellic, I am not a man you want to disappoint on a regular basis. Don't make a habit of this.",
+            "translated": "~z~Bellic，我不是那种你总想让人失望的人。不要养成这样的习惯。",
+            "desc": ""
+        },
+        {
+            "hash": 1623231786,
+            "original": "C3_LC",
+            "translated": "C3_LC",
+            "desc": ""
+        },
+        {
+            "hash": 1667055635,
+            "original": "~z~Funny, yeah. Good.",
+            "translated": "~z~好笑，是啊。好。",
+            "desc": ""
+        },
+        {
+            "hash": 1702483052,
+            "original": "~z~What about me?",
+            "translated": "~z~那我呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1727114851,
+            "original": "~z~I didn't give you a free pass to act like an asshole. You're bringing a lot of heat.",
+            "translated": "~z~我可没给你发为所欲为许可证。你太嚣张了。",
+            "desc": ""
+        },
+        {
+            "hash": 1755961630,
+            "original": "C3_GA",
+            "translated": "C3_GA",
+            "desc": ""
+        },
+        {
+            "hash": 1760161879,
+            "original": "100100010010010",
+            "translated": "100100010010010",
+            "desc": ""
+        },
+        {
+            "hash": 1771577996,
+            "original": "~z~I don't get it, is she a government agent or an undercover cop? What is she?",
+            "translated": "~z~我没明白，她是政府特工还是卧底警察？她是什么人？",
+            "desc": ""
+        },
+        {
+            "hash": 1774065733,
+            "original": "~z~Nearly there? You are about to see a chopper taking off from Civilization Plaza.",
+            "translated": "~z~差不多到那了吗？你们应该会看到有架直升飞机从Civilization Plaza起飞。",
+            "desc": ""
+        },
+        {
+            "hash": 1793060434,
+            "original": "C3_JD",
+            "translated": "C3_JD",
+            "desc": ""
+        },
+        {
+            "hash": 1798112939,
+            "original": "C3_IA",
+            "translated": "C3_IA",
+            "desc": ""
+        },
+        {
+            "hash": 1842981651,
+            "original": "~z~Someone's got me by the balls, too, cousin. I'll send you a pic.",
+            "translated": "~z~我这儿也被人抓着把柄呢，堂弟。我给你发张图。",
+            "desc": ""
+        },
+        {
+            "hash": 1856558538,
+            "original": "~z~Did you get a medal in your last war?",
+            "translated": "~z~你上次参战有得到奖章吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1927984004,
+            "original": "290",
+            "translated": "290",
+            "desc": ""
+        },
+        {
+            "hash": 1946896534,
+            "original": "~z~Excuse me?",
+            "translated": "~z~我没听懂？",
+            "desc": ""
+        },
+        {
+            "hash": 1990397628,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 2013803737,
+            "original": "~z~We need to get hold of it. Make sure you have a vehicle and follow it.",
+            "translated": "~z~我们需要把它搞到手，你得开辆车然后跟上他。",
+            "desc": ""
+        },
+        {
+            "hash": 2041146539,
+            "original": "~z~Call me up. My number never existed. No. I'm not too worried about that.",
+            "translated": "~z~打电话找我，根本没这号码。不，我不必担心被人揭发。",
+            "desc": ""
+        },
+        {
+            "hash": 2043284467,
+            "original": "~z~This does not feel correct.",
+            "translated": "~z~这感觉不对。",
+            "desc": ""
+        },
+        {
+            "hash": 2069939741,
+            "original": "~z~I don't know if you can hear it, Roman, but I'm in a helicopter.",
+            "translated": "~z~我不知道你听不听得见，Roman，我现在在直升机上。",
+            "desc": ""
+        },
+        {
+            "hash": 2073093895,
+            "original": "C3_NA",
+            "translated": "C3_NA",
+            "desc": ""
+        },
+        {
+            "hash": 2078722775,
+            "original": "C3_KD",
+            "translated": "C3_KD",
+            "desc": ""
+        },
+        {
+            "hash": 2106958795,
+            "original": "~z~What this guy up to?",
+            "translated": "~z~这家伙在干什么?",
+            "desc": ""
+        },
+        {
+            "hash": 2109078750,
+            "original": "010100010",
+            "translated": "010100010",
+            "desc": ""
+        },
+        {
+            "hash": 2113041501,
+            "original": "~z~Whatever. It doesn't really matter. The guy's gotta go.",
+            "translated": "~z~算了，原因不重要。这人不能留。",
+            "desc": ""
+        },
+        {
+            "hash": 2122567302,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 2122774102,
+            "original": "~z~Middle aged men, paunchy, glasses... you bring them here?",
+            "translated": "~z~中年男人，大腹便便，还戴眼镜...就算带他们来这儿，",
+            "desc": ""
+        },
+        {
+            "hash": 2122942095,
+            "original": "~z~We'll discuss that later.",
+            "translated": "~z~那个以后再聊。",
+            "desc": ""
+        },
+        {
+            "hash": 2123357952,
+            "original": "~z~My men have the chopper. They're going to strip it down and put it back together.",
+            "translated": "~z~我的人拿到直升机了。他们会把它拆开来再拼回去。",
+            "desc": ""
+        },
+        {
+            "hash": 2152235267,
+            "original": "C3_GB",
+            "translated": "C3_GB",
+            "desc": ""
+        },
+        {
+            "hash": 2292361987,
+            "original": "C3_JA",
+            "translated": "C3_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2300377213,
+            "original": "~z~Sorry, but I didn't get a hold of that chopper.",
+            "translated": "~z~对不起，我没跟上那架直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 2317256223,
+            "original": "C3_FA",
+            "translated": "C3_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2336978710,
+            "original": "~z~You're late... and please calm down out there.",
+            "translated": "~z~你迟到了...在外面的时候注意点。",
+            "desc": ""
+        },
+        {
+            "hash": 2339241251,
+            "original": "~z~Come to see me.",
+            "translated": "~z~过来来看看我。",
+            "desc": ""
+        },
+        {
+            "hash": 2360774292,
+            "original": "~z~Roman, I really wish I could go bowling",
+            "translated": "~z~Roman，我真希望我能和你一起去打保龄球。",
+            "desc": ""
+        },
+        {
+            "hash": 2375128187,
+            "original": "~z~Guy is moving a lot of money for terrorists...",
+            "translated": "~z~那人在为恐怖分子转移大量资金...",
+            "desc": ""
+        },
+        {
+            "hash": 2457760610,
+            "original": "C3_MA",
+            "translated": "C3_MA",
+            "desc": ""
+        },
+        {
+            "hash": 2462761319,
+            "original": "C3_JC",
+            "translated": "C3_JC",
+            "desc": ""
+        },
+        {
+            "hash": 2494761621,
+            "original": "~z~Abort. Abort.",
+            "translated": "~z~行动中止。行动中止。",
+            "desc": ""
+        },
+        {
+            "hash": 2519530421,
+            "original": "~z~Yes, that is the crazy shit I am having to get up to",
+            "translated": "~z~没错，我被迫干这种疯子勾当，",
+            "desc": ""
+        },
+        {
+            "hash": 2547122192,
+            "original": "100100010100100",
+            "translated": "100100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2547898459,
+            "original": "~z~Get away from that.",
+            "translated": "~z~别碰直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 2551320739,
+            "original": "~z~Come in.",
+            "translated": "~z~进来。",
+            "desc": ""
+        },
+        {
+            "hash": 2603700423,
+            "original": "C3_NB",
+            "translated": "C3_NB",
+            "desc": ""
+        },
+        {
+            "hash": 2613324987,
+            "original": "~z~but your setting me up with that Michelle woman has meant that I am chasing a helicopter through the streets of Algonquin.",
+            "translated": "~z~但是就因为你撮合我和那个叫Michelle的女人在一起，因此我现在正在Algonquin的大街上追一架该死的飞机。",
+            "desc": ""
+        },
+        {
+            "hash": 2648194432,
+            "original": "C3_YA",
+            "translated": "C3_YA",
+            "desc": ""
+        },
+        {
+            "hash": 2708153385,
+            "original": "~z~Get out of here. We have got real trouble on the ground.",
+            "translated": "~z~快离开这儿。地面遭遇非常状况。",
+            "desc": ""
+        },
+        {
+            "hash": 2745706623,
+            "original": "~z~Is too hot down here. Get out.",
+            "translated": "~z~下面太危险了，快走。",
+            "desc": ""
+        },
+        {
+            "hash": 2773749632,
+            "original": "~z~get in and fly it to Francis International Airport.",
+            "translated": "~z~上直升飞机，然后飞往Francis国际机场。",
+            "desc": ""
+        },
+        {
+            "hash": 2806822658,
+            "original": "C3_NF",
+            "translated": "C3_NF",
+            "desc": ""
+        },
+        {
+            "hash": 2807449380,
+            "original": "~z~We gave her some money. She still works for us.",
+            "translated": "~z~我们给了她钱。她还在替我们工作。",
+            "desc": ""
+        },
+        {
+            "hash": 2816178262,
+            "original": "~z~He's trying to take the chopper.",
+            "translated": "~z~他要抢走直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 2835236643,
+            "original": "~z~Hey man, it's me.",
+            "translated": "~z~嘿，伙计，是我。",
+            "desc": ""
+        },
+        {
+            "hash": 2916461404,
+            "original": "C3_HA",
+            "translated": "C3_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2994629898,
+            "original": "C3_ME",
+            "translated": "C3_ME",
+            "desc": ""
+        },
+        {
+            "hash": 3018831674,
+            "original": "~z~Cousin. How you doing? I'm in the gentlemen's club. I think you'd really get into this. You should come down.",
+            "translated": "~z~堂弟。你好吗？我在绅士俱乐部呢。我觉得你会喜欢这儿的，你也一起来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3041774641,
+            "original": "C3_XA",
+            "translated": "C3_XA",
+            "desc": ""
+        },
+        {
+            "hash": 3060971136,
+            "original": "~z~I haven't flown one of these things since the war.",
+            "translated": "~z~开战之后我还没开过这种东西呢。",
+            "desc": ""
+        },
+        {
+            "hash": 3080578995,
+            "original": "~z~Can I get paid for this? Can I get a medal?",
+            "translated": "~z~干这事我有报酬吗？会给我发奖章吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3187615715,
+            "original": "~z~Okay then.",
+            "translated": "~z~明白了。",
+            "desc": ""
+        },
+        {
+            "hash": 3193204642,
+            "original": "290",
+            "translated": "290",
+            "desc": ""
+        },
+        {
+            "hash": 3204342579,
+            "original": "C3_OA",
+            "translated": "C3_OA",
+            "desc": ""
+        },
+        {
+            "hash": 3218786640,
+            "original": "~z~Here goes nothing.",
+            "translated": "~z~我就试试看吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3228760637,
+            "original": "~z~Because I need you to keep being good. And you're getting distracted.",
+            "translated": "~z~因为我需要你继续好下去。而你正在走上歧路。",
+            "desc": ""
+        },
+        {
+            "hash": 3293820020,
+            "original": "~z~Nearly there? You are about to see a chopper taking off from Civilization Plaza.",
+            "translated": "~z~快到了吧？你将看到一架直升机从Civilization Plaza起飞。",
+            "desc": ""
+        },
+        {
+            "hash": 3298335521,
+            "original": "C3_LA",
+            "translated": "C3_LA",
+            "desc": ""
+        },
+        {
+            "hash": 3332723234,
+            "original": "~z~Wait until it touches down. Then, when the passengers are out,",
+            "translated": "~z~等它降落。然后，当飞机里的人离开的时候，",
+            "desc": ""
+        },
+        {
+            "hash": 3377715076,
+            "original": "C3_AD",
+            "translated": "C3_AD",
+            "desc": ""
+        },
+        {
+            "hash": 3450814804,
+            "original": "C3_PC",
+            "translated": "C3_PC",
+            "desc": ""
+        },
+        {
+            "hash": 3706693487,
+            "original": "C3_NC",
+            "translated": "C3_NC",
+            "desc": ""
+        },
+        {
+            "hash": 3738124070,
+            "original": "290",
+            "translated": "290",
+            "desc": ""
+        },
+        {
+            "hash": 3902853117,
+            "original": "~z~Thank you. We'll take it from here.",
+            "translated": "~z~谢谢你，接下来由我们负责。",
+            "desc": ""
+        },
+        {
+            "hash": 3912639576,
+            "original": "C3_KC",
+            "translated": "C3_KC",
+            "desc": ""
+        },
+        {
+            "hash": 3930531362,
+            "original": "C3_HC",
+            "translated": "C3_HC",
+            "desc": ""
+        },
+        {
+            "hash": 3936902269,
+            "original": "C3_MD",
+            "translated": "C3_MD",
+            "desc": ""
+        },
+        {
+            "hash": 3968160129,
+            "original": "~z~We didn't play too rough.",
+            "translated": "~z~我们没那么粗暴。",
+            "desc": ""
+        },
+        {
+            "hash": 3993411569,
+            "original": "C3_AB",
+            "translated": "C3_AB",
+            "desc": ""
+        },
+        {
+            "hash": 3998032946,
+            "original": "C3_MC",
+            "translated": "C3_MC",
+            "desc": ""
+        },
+        {
+            "hash": 3999683062,
+            "original": "~z~Want to go bowling?",
+            "translated": "~z~想去打保龄球吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4065774702,
+            "original": "~z~Some things are bigger than you, Bellic. We needed that bird. Come back to the office, fool.",
+            "translated": "~z~有些东西比你重要，Bellic。我们需要那架飞机。回办公室来，笨蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 4095238069,
+            "original": "~z~What can I say, I am scary guy.",
+            "translated": "~z~没办法，谁让我长得吓人呢。",
+            "desc": ""
+        },
+        {
+            "hash": 4126063436,
+            "original": "C3_CB",
+            "translated": "C3_CB",
+            "desc": ""
+        },
+        {
+            "hash": 4274180100,
+            "original": "010010100",
+            "translated": "010010100",
+            "desc": ""
+        },
+        {
+            "hash": 4282512313,
+            "original": "~z~We can't all have fun. I'll talk to you later.",
+            "translated": "~z~我们不可能玩得开心。我晚点再打给你。",
+            "desc": ""
+        }
+    ]
+}

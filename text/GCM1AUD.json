@@ -1,0 +1,1078 @@
+{
+    "GCM1AUD": [
+        {
+            "hash": 3299322,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 54187454,
+            "original": "~z~Yes, pick me up in an hour.",
+            "translated": "~z~好，一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 68849056,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 71860714,
+            "original": "~z~Michelle, it's Niko.",
+            "translated": "~z~Michelle，我是Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 99656515,
+            "original": "GCM_ACT_PMI_GETCALL_HOSP_NO",
+            "translated": "GCM_ACT_PMI_GETCALL_HOSP_NO",
+            "desc": ""
+        },
+        {
+            "hash": 109638139,
+            "original": "~z~Excellent, see you in an hour.",
+            "translated": "~z~好极了，一小时后见吧。",
+            "desc": ""
+        },
+        {
+            "hash": 110839276,
+            "original": "~z~Thanks - I really needed to feel like shit about myself. Thanks a lot.",
+            "translated": "~z~谢谢，我正好需要被打击一下。太谢谢了。",
+            "desc": ""
+        },
+        {
+            "hash": 134462410,
+            "original": "~z~Great, Niko - see you soon.",
+            "translated": "~z~太棒了，Niko。待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 159291891,
+            "original": "~z~What are you doing? You wanna hang out?",
+            "translated": "~z~你现在在干嘛？想出去玩吗？",
+            "desc": ""
+        },
+        {
+            "hash": 168898447,
+            "original": "~z~I don't think so Niko. I'm still really mad at you because of what you did... another time, maybe.",
+            "translated": "~z~算了吧，Niko。你之前的作为还是很让我生气...还是改天再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 190213124,
+            "original": "~z~Sure, I'll be there in an hour.",
+            "translated": "~z~当然，我一小时内到。",
+            "desc": ""
+        },
+        {
+            "hash": 193444251,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 208460352,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 228862564,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 233816099,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 234354555,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 276765275,
+            "original": "~z~Hi, it's Niko... Niko Bellic.",
+            "translated": "~z~嗨，我是Niko...Niko Bellic。",
+            "desc": ""
+        },
+        {
+            "hash": 311869017,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 318587829,
+            "original": "~z~You want to hang out with me?",
+            "translated": "~z~你想和我一起出去玩吗？",
+            "desc": ""
+        },
+        {
+            "hash": 320489990,
+            "original": "GCM_ACT_CALL_CANCEL_LOLIKE",
+            "translated": "GCM_ACT_CALL_CANCEL_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 340947080,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 349941066,
+            "original": "~z~I haven't heard from you in a while, thought you'd forgotten about me.",
+            "translated": "~z~好久没有你的消息，我还以为你把我忘了。",
+            "desc": ""
+        },
+        {
+            "hash": 390866933,
+            "original": "~z~Hi Michelle.",
+            "translated": "~z~嗨，Michelle。",
+            "desc": ""
+        },
+        {
+            "hash": 417456595,
+            "original": "GCM_ACT_GETCALL_HOSP_ACCEPT",
+            "translated": "GCM_ACT_GETCALL_HOSP_ACCEPT",
+            "desc": ""
+        },
+        {
+            "hash": 446082694,
+            "original": "~z~Hello Michelle.",
+            "translated": "~z~你好，Michelle。",
+            "desc": ""
+        },
+        {
+            "hash": 456342876,
+            "original": "~z~You busy? I mean you want to spend some time together?",
+            "translated": "~z~你忙吗？我是说，你想和我共度时光吗？",
+            "desc": ""
+        },
+        {
+            "hash": 482582124,
+            "original": "~z~Great. I'm on my way.",
+            "translated": "~z~太棒了，我这就过来。",
+            "desc": ""
+        },
+        {
+            "hash": 485493036,
+            "original": "~z~You want to get together? Sure, pick me up in an hour.",
+            "translated": "~z~你想和我出去吗？好啊，一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 541364256,
+            "original": "~z~Okay - maybe some other time - maybe not.",
+            "translated": "~z~好吧，要么改天吧，或者不约了。",
+            "desc": ""
+        },
+        {
+            "hash": 584613478,
+            "original": "~z~Oh? Really? I wanted to see you. Well, maybe some other time, then. Bye.",
+            "translated": "~z~哦？是吗？我还想见你呢。好吧，那就改天吧。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 587299042,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 590645027,
+            "original": "~z~Okay, no problem.",
+            "translated": "~z~好的，没问题。",
+            "desc": ""
+        },
+        {
+            "hash": 639026085,
+            "original": "~z~Niko - I'm being discharged - can you pick me up from the hospital?",
+            "translated": "~z~Niko，我要出院了，你能来医院接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 665955507,
+            "original": "~z~Thanks - for letting me down.",
+            "translated": "~z~谢谢你——让我失望。",
+            "desc": ""
+        },
+        {
+            "hash": 700168470,
+            "original": "~z~Niko - we only just went out... maybe later.",
+            "translated": "~z~Niko，我们刚出去过...过段时间吧。",
+            "desc": ""
+        },
+        {
+            "hash": 703011501,
+            "original": "~z~Hey Niko, it's me - Michelle.",
+            "translated": "~z~嘿，Niko。是我，Michelle。",
+            "desc": ""
+        },
+        {
+            "hash": 714898511,
+            "original": "~z~Thanks for fucking nothing, you asshole.",
+            "translated": "~z~真是谢谢您啊，混帐东西。",
+            "desc": ""
+        },
+        {
+            "hash": 751891484,
+            "original": "GCM_ACT_PMI_CALL_REJECTED",
+            "translated": "GCM_ACT_PMI_CALL_REJECTED",
+            "desc": ""
+        },
+        {
+            "hash": 756162819,
+            "original": "~z~Hey it's me, Michelle.",
+            "translated": "~z~嘿，是我，Michelle。",
+            "desc": ""
+        },
+        {
+            "hash": 778892556,
+            "original": "~z~Great! I love rejection - I really love it. You know you might just lose me, Niko.",
+            "translated": "~z~太棒了！我喜欢被拒绝，真的喜欢。你有可能会失去我的，Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 791036721,
+            "original": "~z~Great, see you in an hour.",
+            "translated": "~z~太棒了，一小时内见。",
+            "desc": ""
+        },
+        {
+            "hash": 808863243,
+            "original": "~z~I think you're a great guy, but I don't want to hang out again so soon. Another time.",
+            "translated": "~z~你的品性很好，但我不想这么快又出去。下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 814685842,
+            "original": "~z~Okay, I'll call back another time.",
+            "translated": "~z~好吧，我下次再打给你。",
+            "desc": ""
+        },
+        {
+            "hash": 907679860,
+            "original": "~z~You never want to hang out. Do you think I've got herpes or something?",
+            "translated": "~z~你一直不找我出去。你是觉得我有疱疹还是什么？",
+            "desc": ""
+        },
+        {
+            "hash": 928540200,
+            "original": "~z~Niko it's me, Michelle - can you pick me up from the hospital, please? They're letting me go.",
+            "translated": "~z~Niko，是我，Michelle。你能来医院接我吗？我出院了。",
+            "desc": ""
+        },
+        {
+            "hash": 936702756,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 966903809,
+            "original": "GCM_ACT_GETCALL_VERYIRATE",
+            "translated": "GCM_ACT_GETCALL_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 1014973194,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1016367768,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1037754522,
+            "original": "~z~Great. I'm heading over to your place now.",
+            "translated": "~z~太棒了。我现在就去你家。",
+            "desc": ""
+        },
+        {
+            "hash": 1045281295,
+            "original": "~z~Okay, Michelle, some other time.",
+            "translated": "~z~好的，Michelle，改天再约吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1051309453,
+            "original": "~z~Thanks - that means a lot to me.",
+            "translated": "~z~谢谢，你对我真好。",
+            "desc": ""
+        },
+        {
+            "hash": 1063743005,
+            "original": "~z~Sorry, Michelle - I'd love to help you but you'll have to find your own way home.",
+            "translated": "~z~抱歉，Michelle。我也爱莫能助，你自己解决吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1068374704,
+            "original": "~z~After what you did? No way. I'm still mad at you, call back another time. Maybe I'll have calmed down.",
+            "translated": "~z~就你上次的表现？没门。我还在生你的气，下次再打过来吧。也许我就消气了。",
+            "desc": ""
+        },
+        {
+            "hash": 1210139276,
+            "original": "GCM_ACT_GETCALL_IRATE",
+            "translated": "GCM_ACT_GETCALL_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 1299780686,
+            "original": "~z~Michelle, it's Niko.",
+            "translated": "~z~Michelle，我是Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1323293187,
+            "original": "~z~Oh, it's you? Well, I'm going to give you another chance, since you called back... pick me up in an hour.",
+            "translated": "~z~噢，是你啊？既然你打回来了，我再给你一次机会...一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 1329796489,
+            "original": "GCM_ACT_GETCALL_ACCEPT",
+            "translated": "GCM_ACT_GETCALL_ACCEPT",
+            "desc": ""
+        },
+        {
+            "hash": 1374546580,
+            "original": "~z~Niko, it's me, Michelle - it's been a while.",
+            "translated": "~z~Niko，是我，Michelle。好久没说话了。",
+            "desc": ""
+        },
+        {
+            "hash": 1470043356,
+            "original": "~z~No - we hung out only recently - I'm not that easy, Niko. Maybe later.",
+            "translated": "~z~不了，我们最近才出去过。我没那么轻浮，Niko。过几天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1501093567,
+            "original": "~z~That's great news. See you in a bit.",
+            "translated": "~z~真是好消息。待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 1502442452,
+            "original": "~z~No problem, see you soon, I hope.",
+            "translated": "~z~没问题，希望我能尽快见到你。",
+            "desc": ""
+        },
+        {
+            "hash": 1524658996,
+            "original": "~z~Sorry to hear that. Maybe I'll call another time.",
+            "translated": "~z~真是遗憾。改天我再问你吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1548534693,
+            "original": "GCM_ACT_CALL_LIKEYES",
+            "translated": "GCM_ACT_CALL_LIKEYES",
+            "desc": ""
+        },
+        {
+            "hash": 1553673602,
+            "original": "GCM_ACT_CALL_DATE_YES",
+            "translated": "GCM_ACT_CALL_DATE_YES",
+            "desc": ""
+        },
+        {
+            "hash": 1579907230,
+            "original": "~z~Okay then - I'm willing to give you another chance - since you called back - pick me up in an hour.",
+            "translated": "~z~好吧，既然你打回来了，我再给你一次机会，一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 1589778323,
+            "original": "~z~No, I can't just now, maybe later.",
+            "translated": "~z~抱歉，我现在没空，改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1620641796,
+            "original": "~z~Niko - it's Michelle here.",
+            "translated": "~z~Niko，我是Michelle。",
+            "desc": ""
+        },
+        {
+            "hash": 1670375696,
+            "original": "~z~Sorry, Michelle. Something's come up - I can't make it to the hospital.",
+            "translated": "~z~抱歉，Michelle。我临时有事，没法来医院了。",
+            "desc": ""
+        },
+        {
+            "hash": 1693867132,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1696915400,
+            "original": "GCM_ACT_PMI_CALL_DATE_CANCEL",
+            "translated": "GCM_ACT_PMI_CALL_DATE_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 1766805558,
+            "original": "~z~I was asleep - I'll be up early - call back after 6.",
+            "translated": "~z~我已经睡了。我起得很早，6点后再找我。",
+            "desc": ""
+        },
+        {
+            "hash": 1786933950,
+            "original": "~z~Listen, do you want to go out?",
+            "translated": "~z~听着，你想出去玩吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1820832542,
+            "original": "~z~No - I'm kind of busy just now, another time.",
+            "translated": "~z~不行，我现在有点忙，下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1829524340,
+            "original": "~z~Hi there, it's me, Niko.",
+            "translated": "~z~你好，是我，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1890048128,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1891731075,
+            "original": "GCM_ACT_CALL_CANCEL_MEDLIKE",
+            "translated": "GCM_ACT_CALL_CANCEL_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 1898011309,
+            "original": "GCM_ACT_CALL_IRATE",
+            "translated": "GCM_ACT_CALL_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 1970382934,
+            "original": "~z~Sure - I will call back another time.",
+            "translated": "~z~好的，以后我再打过来。",
+            "desc": ""
+        },
+        {
+            "hash": 1977987202,
+            "original": "GCM_ACT_GETCALL_REJECT",
+            "translated": "GCM_ACT_GETCALL_REJECT",
+            "desc": ""
+        },
+        {
+            "hash": 1983431998,
+            "original": "~z~Yes, I'd enjoy that. I'll be there in an hour.",
+            "translated": "~z~好啊，我觉得挺好。我一个小时后就到。",
+            "desc": ""
+        },
+        {
+            "hash": 2034338904,
+            "original": "GCM_ACT_CALL_VERYIRATE",
+            "translated": "GCM_ACT_CALL_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 2035030210,
+            "original": "~z~Niko - it's me, Michelle - why haven't you called me? Don't be cold and weird with me. Come on.",
+            "translated": "~z~Niko，是我，Michelle。你为什么不给我打电话？别对我冷若冰霜，拜托了。",
+            "desc": ""
+        },
+        {
+            "hash": 2080562595,
+            "original": "~z~Not again so soon - a girl's got to play hard to get - another time.",
+            "translated": "~z~不能约这么频繁，女人要欲擒故纵，改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2107218156,
+            "original": "~z~Are you doing anything? You want to meet up?",
+            "translated": "~z~你现在在忙吗？想跟我见面吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2115399911,
+            "original": "GCM_ACT_PMI_CALL_ACCEPTED",
+            "translated": "GCM_ACT_PMI_CALL_ACCEPTED",
+            "desc": ""
+        },
+        {
+            "hash": 2143189208,
+            "original": "~z~Hey, Michelle, it's Niko.",
+            "translated": "~z~嘿，Michelle，我是Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2147158641,
+            "original": "~z~You're a dick, Niko - I'm in the hospital.",
+            "translated": "~z~你这个混蛋，Niko，我还在医院啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2156604757,
+            "original": "~z~You're always too fucking busy!",
+            "translated": "~z~你他妈哪天不忙！",
+            "desc": ""
+        },
+        {
+            "hash": 2179364460,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2220515713,
+            "original": "~z~Yes. I'm not up to much, I'd like to see you. I'll be over in an hour.",
+            "translated": "~z~是的。我不太忙，很乐意来见你。我一小时内能到。",
+            "desc": ""
+        },
+        {
+            "hash": 2234855364,
+            "original": "~z~I'm kind of in the middle of something. Some other time.",
+            "translated": "~z~我正忙着呢。下次再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2279131114,
+            "original": "~z~Thanks, I really appreciate that.",
+            "translated": "~z~谢谢，万分感谢。",
+            "desc": ""
+        },
+        {
+            "hash": 2404138065,
+            "original": "~z~You want to meet up?",
+            "translated": "~z~你想和我见面吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2440235559,
+            "original": "~z~Okay - I guess I'll make my own way home.",
+            "translated": "~z~好吧，我想我得自己回家了。",
+            "desc": ""
+        },
+        {
+            "hash": 2442094947,
+            "original": "~z~What? You can't pick me up from the fucking hospital? You dick.",
+            "translated": "~z~什么？你他妈不能来医院接我？你个混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 2461746973,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2473304634,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2517573510,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2581377212,
+            "original": "GCM_ACT_ANSWER_PHONE",
+            "translated": "GCM_ACT_ANSWER_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 2586630579,
+            "original": "~z~I cannot, Michelle. Maybe some other time.",
+            "translated": "~z~我没空，Michelle还是改天再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2591452340,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2593976493,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2630922747,
+            "original": "~z~Oh you still have my number. I haven't heard from you in the longest time.",
+            "translated": "~z~噢，你还有我的号码。我很长时间没接到你的电话了。",
+            "desc": ""
+        },
+        {
+            "hash": 2673948986,
+            "original": "GCM_ACT_PMI_GETCALL_DATE_NO",
+            "translated": "GCM_ACT_PMI_GETCALL_DATE_NO",
+            "desc": ""
+        },
+        {
+            "hash": 2721113915,
+            "original": "GCM_ACT_PMI_CALL_SLEEPING",
+            "translated": "GCM_ACT_PMI_CALL_SLEEPING",
+            "desc": ""
+        },
+        {
+            "hash": 2738439181,
+            "original": "~z~I was asleep - I get up pretty early - call back after 6.",
+            "translated": "~z~我已经睡了。我起得很早，6点后再找我。",
+            "desc": ""
+        },
+        {
+            "hash": 2762625096,
+            "original": "~z~You free? Want to hang out or something?",
+            "translated": "~z~你有空吗？想和我出去玩吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2763471583,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2776304744,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2804605096,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2825560095,
+            "original": "~z~Yes, I'm not doing anything interesting, Pick me up in an hour.",
+            "translated": "~z~是的，我没什么好事可忙，一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 2867441919,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2877161846,
+            "original": "GCM_ACT_GETCALL_HOSP_REJ_LOLIKE",
+            "translated": "GCM_ACT_GETCALL_HOSP_REJ_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2892713728,
+            "original": "~z~Michelle, listen, you're going to have to forgive me. Something has come up. I'm going to have to check the rain as they say.",
+            "translated": "~z~Michelle，听着，请你原谅我。突然有急事，我们的约会只能延期了。",
+            "desc": ""
+        },
+        {
+            "hash": 2901709472,
+            "original": "~z~Oh... you don't want to hang out? Well, thanks. Thanks a lot.",
+            "translated": "~z~哦...你不想出去玩吗？好，谢谢。非常感谢。",
+            "desc": ""
+        },
+        {
+            "hash": 2902413912,
+            "original": "~z~I haven't heard from you in a really long time. I miss you.",
+            "translated": "~z~我很长时间没接到你的联络了。我很想你。",
+            "desc": ""
+        },
+        {
+            "hash": 2905229567,
+            "original": "GCM_ACT_PMI_CALL_DATE",
+            "translated": "GCM_ACT_PMI_CALL_DATE",
+            "desc": ""
+        },
+        {
+            "hash": 2914223242,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2915108678,
+            "original": "~z~I can't wait, Niko. See you in a bit.",
+            "translated": "~z~我等不及了，Niko。一会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 2947160085,
+            "original": "GCM_ACT_GETCALL_REJECT_VERYIRATE",
+            "translated": "GCM_ACT_GETCALL_REJECT_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 2984197529,
+            "original": "GCM_ACT_CALL_HOSP_CANCEL_LOLIKE",
+            "translated": "GCM_ACT_CALL_HOSP_CANCEL_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3004875717,
+            "original": "GCM_ACT_GETCALL_HOSP_REJ_MEDLIKE",
+            "translated": "GCM_ACT_GETCALL_HOSP_REJ_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3011579429,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3016193554,
+            "original": "GCM_ACT_PMI_GETCALL_DATE_YES",
+            "translated": "GCM_ACT_PMI_GETCALL_DATE_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3023999150,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3048369179,
+            "original": "GCM_ACT_CALL_DATE_NO_GENERAL",
+            "translated": "GCM_ACT_CALL_DATE_NO_GENERAL",
+            "desc": ""
+        },
+        {
+            "hash": 3059738370,
+            "original": "GCM_ACT_CALL_SLEEP_REPLY",
+            "translated": "GCM_ACT_CALL_SLEEP_REPLY",
+            "desc": ""
+        },
+        {
+            "hash": 3063411747,
+            "original": "~z~You wanna hang out?",
+            "translated": "~z~你想出去玩吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3122195035,
+            "original": "~z~Hey, Michelle, it's Niko. Niko Bellic - listen, it's annoying, but I'm going to have to cancel our date.",
+            "translated": "~z~嘿，Michelle，我是Niko，Niko Bellic。听着，不好意思，我们的约会不得不取消了。",
+            "desc": ""
+        },
+        {
+            "hash": 3144143069,
+            "original": "~z~You know, I'm kind of in the middle of things just now - some other time.",
+            "translated": "~z~那个，我现在正忙着呢。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3208867075,
+            "original": "GCM_ACT_CALL_HOSP_CANCEL_MEDLIKE",
+            "translated": "GCM_ACT_CALL_HOSP_CANCEL_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3223656574,
+            "original": "~z~Well, thanks for nothing - you know what? You might just lose me as a friend, Niko Bellic.",
+            "translated": "~z~好吧，谢谢您哪。你知道吗？你可能会失去我这个朋友，Niko Bellic。",
+            "desc": ""
+        },
+        {
+            "hash": 3230294819,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3240583566,
+            "original": "GCM_ACT_PMI_CALL_GREET",
+            "translated": "GCM_ACT_PMI_CALL_GREET",
+            "desc": ""
+        },
+        {
+            "hash": 3249998484,
+            "original": "~z~Sorry, Michelle - I lost track of time.",
+            "translated": "~z~抱歉，Michelle，我忘记看时间了。",
+            "desc": ""
+        },
+        {
+            "hash": 3300867759,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3374509139,
+            "original": "~z~I'd love to, but I can't spare the time just now.",
+            "translated": "~z~我很想去，但现在抽不出时间。",
+            "desc": ""
+        },
+        {
+            "hash": 3397854451,
+            "original": "GCM_ACT_GETCALL_HOSP_REJ_HILIKE",
+            "translated": "GCM_ACT_GETCALL_HOSP_REJ_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3429573852,
+            "original": "GCM_ACT_CALL_LIKENO",
+            "translated": "GCM_ACT_CALL_LIKENO",
+            "desc": ""
+        },
+        {
+            "hash": 3447886943,
+            "original": "~z~Hey, Michelle, how are you? It's Niko.",
+            "translated": "~z~嘿，Michelle，你怎么样？我是Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3470868460,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3478119792,
+            "original": "~z~Niko - how are you? It's Michelle.",
+            "translated": "~z~Niko，你还好吗？我是Michelle。",
+            "desc": ""
+        },
+        {
+            "hash": 3514208829,
+            "original": "~z~I'd love to help, but I'm in the middle of something - make your own way home.",
+            "translated": "~z~我很想帮忙，但我现在正忙着呢。你自己回家吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3552185434,
+            "original": "~z~Great news.",
+            "translated": "~z~太好了。",
+            "desc": ""
+        },
+        {
+            "hash": 3607708180,
+            "original": "GCM_ACT_CALL_DATE_NO_RECENT",
+            "translated": "GCM_ACT_CALL_DATE_NO_RECENT",
+            "desc": ""
+        },
+        {
+            "hash": 3650390145,
+            "original": "~z~Sure - I'll head over now and take you home.",
+            "translated": "~z~当然，我这就来接你回家。",
+            "desc": ""
+        },
+        {
+            "hash": 3658741659,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3665813699,
+            "original": "~z~That's the best news - see you in a bit.",
+            "translated": "~z~这是最好的，一会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 3688319753,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3732127242,
+            "original": "GCM_ACT_GETCALL_DATE",
+            "translated": "GCM_ACT_GETCALL_DATE",
+            "desc": ""
+        },
+        {
+            "hash": 3800541685,
+            "original": "~z~Cool. See you in an hour.",
+            "translated": "~z~好。一小时内见。",
+            "desc": ""
+        },
+        {
+            "hash": 3810904543,
+            "original": "~z~Oh, it's you... it's been a while.",
+            "translated": "~z~哦，是你啊...你好久没联系我了。",
+            "desc": ""
+        },
+        {
+            "hash": 3831410087,
+            "original": "~z~Okay, see you in an hour.",
+            "translated": "~z~好的，一小时内见。",
+            "desc": ""
+        },
+        {
+            "hash": 3877527336,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3879105194,
+            "original": "GCM_ACT_GETCALL_GREET",
+            "translated": "GCM_ACT_GETCALL_GREET",
+            "desc": ""
+        },
+        {
+            "hash": 3885899397,
+            "original": "~z~Sure - I'd like that. Pick me up in an hour.",
+            "translated": "~z~当然，我很乐意。一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 3956309449,
+            "original": "~z~Niko - it's me - Michelle - you remember me? The idiot you haven't called for ages? Anyway, I miss you.",
+            "translated": "~z~Niko，是我，Michelle。你还记得我吗？你多年没联系的那个白痴。总之，我好想你。",
+            "desc": ""
+        },
+        {
+            "hash": 3993175508,
+            "original": "GCM_ACT_CALL_CANCEL_HILIKE",
+            "translated": "GCM_ACT_CALL_CANCEL_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3994020230,
+            "original": "GCM_ACT_PMI_GETCALL_HOSP_YES",
+            "translated": "GCM_ACT_PMI_GETCALL_HOSP_YES",
+            "desc": ""
+        },
+        {
+            "hash": 4002426040,
+            "original": "~z~Maybe we'll reschedule and maybe we won't, I guess.",
+            "translated": "~z~可能能重新安排，也可能不能。",
+            "desc": ""
+        },
+        {
+            "hash": 4005594750,
+            "original": "~z~Thanks - for absolutely nothing... asshole.",
+            "translated": "~z~我可谢谢您啊...混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 4019609092,
+            "original": "~z~Okay, no problem, I guess. Another time.",
+            "translated": "~z~好的，我想没问题。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4036303186,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4046545210,
+            "original": "~z~Okay then - another time.",
+            "translated": "~z~那好吧，下次再说。",
+            "desc": ""
+        },
+        {
+            "hash": 4068155106,
+            "original": "~z~Hi. You've reached Michelle's phone. Unfortunately, I can't get to the phone just now, but please call back later.",
+            "translated": "~z~嗨，这里是Michelle。很抱歉，我现在不能接电话，请稍后再打来。",
+            "desc": ""
+        },
+        {
+            "hash": 4080975046,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4088164455,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4100235647,
+            "original": "~z~Great. Thanks... for nothing. Some other time, I guess.",
+            "translated": "~z~太棒了。我谢谢您啊。那还是下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4112855300,
+            "original": "~z~Niko - hey, it's been a while since we spoke.",
+            "translated": "~z~Niko，嘿，我们好久没说话了。",
+            "desc": ""
+        },
+        {
+            "hash": 4118549286,
+            "original": "GCM_ACT_GETCALL_HOSP_ASK",
+            "translated": "GCM_ACT_GETCALL_HOSP_ASK",
+            "desc": ""
+        },
+        {
+            "hash": 4178990870,
+            "original": "~z~That is good news. See you soon.",
+            "translated": "~z~真是个好消息。待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 4222090869,
+            "original": "~z~Sorry - I guess I keep unconventional hours.",
+            "translated": "~z~对不起，是我的作息时间不正常。",
+            "desc": ""
+        },
+        {
+            "hash": 4233406746,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4235692207,
+            "original": "GCM_ACT_GETCALL_REJECT_IRATE",
+            "translated": "GCM_ACT_GETCALL_REJECT_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 4246099784,
+            "original": "GCM_ACT_CALL_HOSP_CANCEL_HILIKE",
+            "translated": "GCM_ACT_CALL_HOSP_CANCEL_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 4252181475,
+            "original": "~z~Thanks - and thanks for the huge amount of respect you've shown me, asshole.",
+            "translated": "~z~谢谢，您还真是尊重我啊，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 4255747021,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4271461133,
+            "original": "GCM_ACT_PMI_CALL_HOSP_CANCEL",
+            "translated": "GCM_ACT_PMI_CALL_HOSP_CANCEL",
+            "desc": ""
+        }
+    ]
+}

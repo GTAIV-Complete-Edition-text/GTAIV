@@ -1,0 +1,64 @@
+{
+    "VLAD2": [
+        {
+            "hash": 1937195817,
+            "original": "~r~The shop keeper is dead.",
+            "translated": "~r~店主死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1965071489,
+            "original": "Ram the shop keeper's ~R~van~s~ until he stops.",
+            "translated": "撞击店主的~R~面包车~s~将其逼停。",
+            "desc": ""
+        },
+        {
+            "hash": 2243291046,
+            "original": "~r~The shop keeper got away.",
+            "translated": "~r~店主逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 3275382642,
+            "original": "Press ~INPUT_PHONE_TAKE_OUT~ to display phone. Press ~INPUT_PHONE_ACCEPT~ to instantly read new message.",
+            "translated": "按~INPUT_PHONE_TAKE_OUT~拿出手机，按~INPUT_PHONE_ACCEPT~可以直接查看未读消息。",
+            "desc": ""
+        },
+        {
+            "hash": 3424253037,
+            "original": "Press ~INPUT_PHONE_ACCEPT~ and select Delete to wipe the message, or press and hold ~INPUT_PHONE_PUT_AWAY~ to exit.",
+            "translated": "按~INPUT_PHONE_ACCEPT~后选择「删除」可以删除短信，按~INPUT_PHONE_PUT_AWAY~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 3492696731,
+            "original": "Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the target vehicle.",
+            "translated": "按住~INPUT_VEH_CIN_CAM~将镜头对准目标车辆。",
+            "desc": ""
+        },
+        {
+            "hash": 3624733799,
+            "original": "The envelope icon above the radar is displayed when you have a new text message. This will fade slightly when it is read.",
+            "translated": "小地图上方的信封图标表示你收到了短信，阅读后就会消失。",
+            "desc": ""
+        },
+        {
+            "hash": 3730730747,
+            "original": "Chase the ~r~shop keeper.",
+            "translated": "追上~r~店主。",
+            "desc": ""
+        },
+        {
+            "hash": 4052718929,
+            "original": "Go to the ~y~laundromat.",
+            "translated": "前往~y~自助洗衣店。",
+            "desc": ""
+        },
+        {
+            "hash": 4290654638,
+            "original": "~r~The shop keeper was spooked and escaped out the front.",
+            "translated": "~r~店主受到了惊吓，从前门逃跑了。",
+            "desc": ""
+        }
+    ]
+}

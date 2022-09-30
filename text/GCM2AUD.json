@@ -1,0 +1,1306 @@
+{
+    "GCM2AUD": [
+        {
+            "hash": 22325977,
+            "original": "~z~Where is this? Not what we agreed at all.",
+            "translated": "~z~这是哪里？根本不是我们说好的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 44204021,
+            "original": "~z~Why are you late? Don't tell me... something came up. Let's go.",
+            "translated": "~z~为什么你迟到了？别告诉我是出了什么事...出发吧。",
+            "desc": ""
+        },
+        {
+            "hash": 46055636,
+            "original": "~z~Place looks great!",
+            "translated": "~z~这地方感觉很棒！",
+            "desc": ""
+        },
+        {
+            "hash": 46089540,
+            "original": "~z~You're wearing the same clothes. What's wrong with you?",
+            "translated": "~z~每次都穿同一件衣服，你怎么回事？",
+            "desc": ""
+        },
+        {
+            "hash": 50222729,
+            "original": "~z~I can't believe we're late - all of your stupid messing around ruined everything.",
+            "translated": "~z~我们居然会迟到。都怪你之前到处乱跑。",
+            "desc": ""
+        },
+        {
+            "hash": 95996617,
+            "original": "GCM_ACT_ARRIVE_STANDARD",
+            "translated": "GCM_ACT_ARRIVE_STANDARD",
+            "desc": ""
+        },
+        {
+            "hash": 102690884,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 110327327,
+            "original": "~z~I like your hat - really suits you.",
+            "translated": "~z~我喜欢你的帽子，很适合你。",
+            "desc": ""
+        },
+        {
+            "hash": 180290350,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 182529492,
+            "original": "~z~Hey there, you look good. Let's find a car.",
+            "translated": "~z~你好啊，你看起来很棒。我们找辆车吧。",
+            "desc": ""
+        },
+        {
+            "hash": 185827471,
+            "original": "~z~I still really like this car.",
+            "translated": "~z~我真的很喜欢这辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 189697631,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 200738483,
+            "original": "GCM_ACT_ARRIVEF_LATE",
+            "translated": "GCM_ACT_ARRIVEF_LATE",
+            "desc": ""
+        },
+        {
+            "hash": 202865253,
+            "original": "~z~I'm so glad you've taken off that silly hat.",
+            "translated": "~z~你不戴那顶白痴帽子了我很高兴。",
+            "desc": ""
+        },
+        {
+            "hash": 215704358,
+            "original": "GCM_ACT_PMI_GLASSHAT_BAD",
+            "translated": "GCM_ACT_PMI_GLASSHAT_BAD",
+            "desc": ""
+        },
+        {
+            "hash": 223912795,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 224441051,
+            "original": "GCM_ACT_PMI_NOGLASS_BAD",
+            "translated": "GCM_ACT_PMI_NOGLASS_BAD",
+            "desc": ""
+        },
+        {
+            "hash": 240712481,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 253683402,
+            "original": "~z~Is that top new? Sorry, but what were you thinking?",
+            "translated": "~z~上衣是新买的？抱歉，但你在想什么？",
+            "desc": ""
+        },
+        {
+            "hash": 323308550,
+            "original": "~z~Let's go find a car or something.",
+            "translated": "~z~先找一辆车子吧。",
+            "desc": ""
+        },
+        {
+            "hash": 323882210,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 338858118,
+            "original": "~z~Hey, nice bike, by the way.",
+            "translated": "~z~嘿，你的摩托车不错。",
+            "desc": ""
+        },
+        {
+            "hash": 346542463,
+            "original": "~z~I'm really not in the mood for this, Niko.",
+            "translated": "~z~我现在真的没心情去来这里，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 354444695,
+            "original": "~z~Oooh, expensive - where do you get the money for this kind of place?",
+            "translated": "~z~哦，巨贵。你哪来这么多钱来这种店？",
+            "desc": ""
+        },
+        {
+            "hash": 463074064,
+            "original": "~z~Did you bring those shoes with you from Europe? They don't really work.",
+            "translated": "~z~这鞋是你从欧洲带来的吗？真的不太好看。",
+            "desc": ""
+        },
+        {
+            "hash": 463329646,
+            "original": "~z~I preferred the old car.",
+            "translated": "~z~我更喜欢之前那辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 474925001,
+            "original": "GCM_ACT_ARRIVE_DARTS_LAST",
+            "translated": "GCM_ACT_ARRIVE_DARTS_LAST",
+            "desc": ""
+        },
+        {
+            "hash": 486286432,
+            "original": "~z~I still love this car.",
+            "translated": "~z~我就喜欢这辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 495135610,
+            "original": "GCM_ACT_PMI_SAME_BAD",
+            "translated": "GCM_ACT_PMI_SAME_BAD",
+            "desc": ""
+        },
+        {
+            "hash": 505372491,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 512687018,
+            "original": "~z~New pants - very nice.",
+            "translated": "~z~新裤子，很漂亮。",
+            "desc": ""
+        },
+        {
+            "hash": 525998876,
+            "original": "GCM_ACT_ARRIVE_DARTS_BEFORE",
+            "translated": "GCM_ACT_ARRIVE_DARTS_BEFORE",
+            "desc": ""
+        },
+        {
+            "hash": 597611135,
+            "original": "~z~Okay, let's get going.",
+            "translated": "~z~好了，赶紧出发吧。",
+            "desc": ""
+        },
+        {
+            "hash": 614682670,
+            "original": "~z~You're wearing my favorite outfit.",
+            "translated": "~z~我最喜欢你的这件衣服了。",
+            "desc": ""
+        },
+        {
+            "hash": 645395779,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 672032163,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 677484361,
+            "original": "~z~I like this place - it's full of such weird characters.",
+            "translated": "~z~我喜欢这个地方，满是奇异的人物。",
+            "desc": ""
+        },
+        {
+            "hash": 697110184,
+            "original": "~z~Okay, I've had enough of this bullshit. I guess I'll find my own way home.",
+            "translated": "~z~好了，我已经受够了。我要自己回家了。",
+            "desc": ""
+        },
+        {
+            "hash": 700289159,
+            "original": "~z~I still cannot bear this car.",
+            "translated": "~z~我还是受不了这辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 700970434,
+            "original": "~z~Did you sell the old car? I miss it.",
+            "translated": "~z~你把之前那辆车卖了吗？我喜欢更那辆。",
+            "desc": ""
+        },
+        {
+            "hash": 735958589,
+            "original": "~z~I love simple, homely places like this.",
+            "translated": "~z~我喜欢这种简约朴素的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 741414089,
+            "original": "GCM_ACT_PMI_LEGS_GOOD",
+            "translated": "GCM_ACT_PMI_LEGS_GOOD",
+            "desc": ""
+        },
+        {
+            "hash": 752577702,
+            "original": "GCM_ACT_ARRIVE_SHOW_LATE",
+            "translated": "GCM_ACT_ARRIVE_SHOW_LATE",
+            "desc": ""
+        },
+        {
+            "hash": 756652223,
+            "original": "~z~Hey, nice pants.",
+            "translated": "~z~嘿，裤子不错。",
+            "desc": ""
+        },
+        {
+            "hash": 760435394,
+            "original": "~z~Mmm, okay - this place looks like it might be fun.",
+            "translated": "~z~嗯，好吧，这个地方看起来有点有趣。",
+            "desc": ""
+        },
+        {
+            "hash": 818763529,
+            "original": "~z~Shall we get a taxi, or walk?",
+            "translated": "~z~你想打的还是走着去？",
+            "desc": ""
+        },
+        {
+            "hash": 826826857,
+            "original": "GCM_ACT_CAR_NEW_BAD",
+            "translated": "GCM_ACT_CAR_NEW_BAD",
+            "desc": ""
+        },
+        {
+            "hash": 854223970,
+            "original": "GCM_ACT_ARRIVE_LATE",
+            "translated": "GCM_ACT_ARRIVE_LATE",
+            "desc": ""
+        },
+        {
+            "hash": 861434354,
+            "original": "~z~Nice to see you. Come on, let's go.",
+            "translated": "~z~见到你很高兴。来吧，我们走。",
+            "desc": ""
+        },
+        {
+            "hash": 910267542,
+            "original": "~z~Great - I could do with some cheering up.",
+            "translated": "~z~太棒了，笑一笑也挺好的。",
+            "desc": ""
+        },
+        {
+            "hash": 921629893,
+            "original": "~z~I love that outfit. I remember it.",
+            "translated": "~z~我很喜欢这套衣服，忘也忘不掉。",
+            "desc": ""
+        },
+        {
+            "hash": 936553267,
+            "original": "~z~What's wrong with you? I guess I'll make my own way home, you freak.",
+            "translated": "~z~你怎么回事？我要自己回家了，怪人。",
+            "desc": ""
+        },
+        {
+            "hash": 937625435,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 951405199,
+            "original": "~z~Do you know that some criminals meet at bowling alleys because the ambient sound drowns out bugs?",
+            "translated": "~z~你知道吗？有些罪犯会在保龄球馆碰头，因为周围的声音能盖过窃听器。",
+            "desc": ""
+        },
+        {
+            "hash": 975778839,
+            "original": "~z~Isn't that the same thing you wore last time?",
+            "translated": "~z~上次约会好像也是这件衣服吧？",
+            "desc": ""
+        },
+        {
+            "hash": 996160460,
+            "original": "~z~Surely you can get a nicer car than this?",
+            "translated": "~z~要你换辆好点的车应该不难吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1036190317,
+            "original": "~z~Good for you to wear the same outfit - I like it.",
+            "translated": "~z~很高兴看到你还是穿着这件衣服，我喜欢。",
+            "desc": ""
+        },
+        {
+            "hash": 1041035704,
+            "original": "GCM_ACT_ARRIVEC_NOTLATE",
+            "translated": "GCM_ACT_ARRIVEC_NOTLATE",
+            "desc": ""
+        },
+        {
+            "hash": 1067054927,
+            "original": "~z~This place looks okay.",
+            "translated": "~z~这地方看起来不赖。",
+            "desc": ""
+        },
+        {
+            "hash": 1068957167,
+            "original": "~z~These kind of places remind me of where I grew up.",
+            "translated": "~z~这种店会让我想起故乡。",
+            "desc": ""
+        },
+        {
+            "hash": 1074155857,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1074405144,
+            "original": "~z~This place looks okay.",
+            "translated": "~z~这个地方看起来不赖。",
+            "desc": ""
+        },
+        {
+            "hash": 1102051409,
+            "original": "GCM_ACT_ARRIVE_POOL_BEFORE",
+            "translated": "GCM_ACT_ARRIVE_POOL_BEFORE",
+            "desc": ""
+        },
+        {
+            "hash": 1133256455,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1136224680,
+            "original": "~z~Thank God you're not wearing that stupid hat.",
+            "translated": "~z~谢天谢地，你没戴那顶白痴帽子。",
+            "desc": ""
+        },
+        {
+            "hash": 1151838295,
+            "original": "~z~This bar looks okay.",
+            "translated": "~z~这家酒吧好像还不错。",
+            "desc": ""
+        },
+        {
+            "hash": 1167340497,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1208727594,
+            "original": "~z~Great - I could do with forgetting my troubles for a bit.",
+            "translated": "~z~好啊，我可以把我的烦恼放一放了。",
+            "desc": ""
+        },
+        {
+            "hash": 1211374508,
+            "original": "~z~Thank God you took off those silly glasses.",
+            "translated": "~z~谢天谢地，你终于摘下了那副白痴眼镜。",
+            "desc": ""
+        },
+        {
+            "hash": 1244856992,
+            "original": "~z~Darts again? Okay.",
+            "translated": "~z~又玩飞镖？行吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1264211425,
+            "original": "~z~Is that a new top? Very nice.",
+            "translated": "~z~这件上衣是新买的？很不错。",
+            "desc": ""
+        },
+        {
+            "hash": 1304345173,
+            "original": "~z~Memory Lanes, again, ooh. Bowling's a real thing for you, huh?",
+            "translated": "~z~又是保龄球馆。你这么喜欢打保龄球啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1308056499,
+            "original": "~z~What is that? Haven't you got any new clothes?",
+            "translated": "~z~什么情况？你就没别的衣服吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1326661720,
+            "original": "~z~You seem to swap cars a lot - I liked the other one.",
+            "translated": "~z~你似乎经常换车，我更喜欢上次那辆。",
+            "desc": ""
+        },
+        {
+            "hash": 1348116278,
+            "original": "~z~I like simple places like this.",
+            "translated": "~z~我很喜欢这种简约的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 1362981273,
+            "original": "~z~I'm bored, can you take me home, please? NOW.",
+            "translated": "~z~我腻了，你能送我回家吗？立刻。",
+            "desc": ""
+        },
+        {
+            "hash": 1364789968,
+            "original": "~z~I don't really like that hat, Niko.",
+            "translated": "~z~我不太喜欢你这顶帽子，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1390601660,
+            "original": "GCM_ACT_PMI_LEGS_BAD",
+            "translated": "GCM_ACT_PMI_LEGS_BAD",
+            "desc": ""
+        },
+        {
+            "hash": 1397755496,
+            "original": "~z~This is a nice car, I haven't seen it before.",
+            "translated": "~z~这辆车不错，之前没见你开过。",
+            "desc": ""
+        },
+        {
+            "hash": 1412145588,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1458393347,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1496717880,
+            "original": "~z~I like the new car.",
+            "translated": "~z~我喜欢这辆新车。",
+            "desc": ""
+        },
+        {
+            "hash": 1506927921,
+            "original": "~z~Bowling, this could be interesting.",
+            "translated": "~z~保龄球，应该会很有趣。",
+            "desc": ""
+        },
+        {
+            "hash": 1510144651,
+            "original": "~z~I like this place - it's so exotic.",
+            "translated": "~z~我喜欢这里，很有异国情调。",
+            "desc": ""
+        },
+        {
+            "hash": 1523422352,
+            "original": "GCM_ACT_ARRIVE_POOL_NOT",
+            "translated": "GCM_ACT_ARRIVE_POOL_NOT",
+            "desc": ""
+        },
+        {
+            "hash": 1530520870,
+            "original": "GCM_ACT_ARRIVE_CLUB_GENERIC",
+            "translated": "GCM_ACT_ARRIVE_CLUB_GENERIC",
+            "desc": ""
+        },
+        {
+            "hash": 1579432649,
+            "original": "~z~I love places like this.",
+            "translated": "~z~我很喜欢这种店。",
+            "desc": ""
+        },
+        {
+            "hash": 1622124925,
+            "original": "~z~That hat - it doesn't really work for you.",
+            "translated": "~z~这顶帽子不太适合你。",
+            "desc": ""
+        },
+        {
+            "hash": 1626661832,
+            "original": "GCM_ACT_CAR_SAME_GOOD",
+            "translated": "GCM_ACT_CAR_SAME_GOOD",
+            "desc": ""
+        },
+        {
+            "hash": 1635860102,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1645895759,
+            "original": "GCM_ACT_CAR_SAME_BAD",
+            "translated": "GCM_ACT_CAR_SAME_BAD",
+            "desc": ""
+        },
+        {
+            "hash": 1648872310,
+            "original": "~z~Oh, you are wearing that again, good.",
+            "translated": "~z~噢，你又穿了那件衣服，很好。",
+            "desc": ""
+        },
+        {
+            "hash": 1670775345,
+            "original": "GCM_ACT_PMI_FEET_BAD",
+            "translated": "GCM_ACT_PMI_FEET_BAD",
+            "desc": ""
+        },
+        {
+            "hash": 1672184114,
+            "original": "~z~You must really love pool.",
+            "translated": "~z~你一定很喜欢台球。",
+            "desc": ""
+        },
+        {
+            "hash": 1683131923,
+            "original": "GCM_ACT_PMI_HAT_GOOD",
+            "translated": "GCM_ACT_PMI_HAT_GOOD",
+            "desc": ""
+        },
+        {
+            "hash": 1704407798,
+            "original": "~z~I didn't know you had a new car, I like it.",
+            "translated": "~z~没想到你换了辆新车，我很喜欢。",
+            "desc": ""
+        },
+        {
+            "hash": 1740488312,
+            "original": "GCM_ACT_ARRIVE_POOL_LAST",
+            "translated": "GCM_ACT_ARRIVE_POOL_LAST",
+            "desc": ""
+        },
+        {
+            "hash": 1744517261,
+            "original": "GCM_ACT_PMI_SAME_GOOD",
+            "translated": "GCM_ACT_PMI_SAME_GOOD",
+            "desc": ""
+        },
+        {
+            "hash": 1751787373,
+            "original": "GCM_ACT_ARRIVE_PUB_GENERIC",
+            "translated": "GCM_ACT_ARRIVE_PUB_GENERIC",
+            "desc": ""
+        },
+        {
+            "hash": 1761393093,
+            "original": "~z~This new car is certainly an improvement.",
+            "translated": "~z~这辆新车好多了。",
+            "desc": ""
+        },
+        {
+            "hash": 1779902016,
+            "original": "GCM_ACT_PMI_NOHAT_GOOD",
+            "translated": "GCM_ACT_PMI_NOHAT_GOOD",
+            "desc": ""
+        },
+        {
+            "hash": 1798005504,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1822856438,
+            "original": "~z~I hope the food's as nice as the reputation says it is.",
+            "translated": "~z~希望这里的食物真有别人评价的那么好吃。",
+            "desc": ""
+        },
+        {
+            "hash": 1835301374,
+            "original": "GCM_ACT_ARRIVE_BOWL_BEFORE",
+            "translated": "GCM_ACT_ARRIVE_BOWL_BEFORE",
+            "desc": ""
+        },
+        {
+            "hash": 1845652839,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1868869083,
+            "original": "~z~Niko, no offense, but this is really boring - can you take me home?",
+            "translated": "~z~Niko，无意冒犯，但这太无聊了，你能送我回家吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1874042029,
+            "original": "GCM_ACT_PMI_HAT_BAD",
+            "translated": "GCM_ACT_PMI_HAT_BAD",
+            "desc": ""
+        },
+        {
+            "hash": 1877183928,
+            "original": "GCM_ACT_ARRIVE_BOWL_NOT",
+            "translated": "GCM_ACT_ARRIVE_BOWL_NOT",
+            "desc": ""
+        },
+        {
+            "hash": 1917086575,
+            "original": "~z~You're wearing that? Good, you look good.",
+            "translated": "~z~还是这件啊。很好，你看起来很棒。",
+            "desc": ""
+        },
+        {
+            "hash": 1928463547,
+            "original": "~z~Hey, you want to bowl again? You must really like it?",
+            "translated": "~z~嘿，又是打保龄球吗？你一定很喜欢保龄球吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1952910079,
+            "original": "~z~A new car? Why?",
+            "translated": "~z~新车？怎么回事？",
+            "desc": ""
+        },
+        {
+            "hash": 2022445060,
+            "original": "GCM_ACT_CAR_NEW_GOOD",
+            "translated": "GCM_ACT_CAR_NEW_GOOD",
+            "desc": ""
+        },
+        {
+            "hash": 2032899459,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2042694012,
+            "original": "GCM_ACT_ARRIVE_DARTS_NOT",
+            "translated": "GCM_ACT_ARRIVE_DARTS_NOT",
+            "desc": ""
+        },
+        {
+            "hash": 2043371806,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2060970033,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2065304686,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2106142906,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2141015476,
+            "original": "~z~Those pants are criminal, pardon the pun...",
+            "translated": "~z~这条裤子有罪，原谅这个双关语...",
+            "desc": ""
+        },
+        {
+            "hash": 2167444946,
+            "original": "~z~Those glasses look kind of silly.",
+            "translated": "~z~这副眼镜看起来有点蠢。",
+            "desc": ""
+        },
+        {
+            "hash": 2179886080,
+            "original": "~z~Nice bike, Niko.",
+            "translated": "~z~摩托车不错，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2180392477,
+            "original": "~z~I have to be honest, I preferred the other car.",
+            "translated": "~z~说实话，我更喜欢之前那辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 2192979958,
+            "original": "GCM_ACT_PMI_TORSO_BAD",
+            "translated": "GCM_ACT_PMI_TORSO_BAD",
+            "desc": ""
+        },
+        {
+            "hash": 2226381475,
+            "original": "~z~We're back at Memory Lanes, eh?",
+            "translated": "~z~又回到保龄球馆了，嗯？",
+            "desc": ""
+        },
+        {
+            "hash": 2253900763,
+            "original": "~z~I like that top - is it new?",
+            "translated": "~z~我喜欢这件上衣，是新的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2271773758,
+            "original": "~z~How are we going to travel?",
+            "translated": "~z~我们怎么过去？",
+            "desc": ""
+        },
+        {
+            "hash": 2282972008,
+            "original": "GCM_ACT_PMI_NOHAT_BAD",
+            "translated": "GCM_ACT_PMI_NOHAT_BAD",
+            "desc": ""
+        },
+        {
+            "hash": 2293893518,
+            "original": "~z~Interesting place, I think - I hope we have fun.",
+            "translated": "~z~有趣的地方，希望我们玩得开心。",
+            "desc": ""
+        },
+        {
+            "hash": 2368247043,
+            "original": "~z~You're late, by the way. Let's go.",
+            "translated": "~z~顺便说一句，你迟到了。出发吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2410383132,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2429748861,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2434764837,
+            "original": "GCM_ACT_BORED_LEAVING",
+            "translated": "GCM_ACT_BORED_LEAVING",
+            "desc": ""
+        },
+        {
+            "hash": 2435567738,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2465731625,
+            "original": "~z~I guess we're playing darts again, then?",
+            "translated": "~z~我们又要玩飞镖了是吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2470703991,
+            "original": "GCM_ACT_ARRIVem_NOTLATE",
+            "translated": "GCM_ACT_ARRIVem_NOTLATE",
+            "desc": ""
+        },
+        {
+            "hash": 2478959878,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2496664218,
+            "original": "~z~I love that hat.",
+            "translated": "~z~我喜欢这顶帽子。",
+            "desc": ""
+        },
+        {
+            "hash": 2514048368,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2521622594,
+            "original": "~z~I've read all about this place - supposed to be great.",
+            "translated": "~z~我经常读到对这家店的评价，这里似乎很棒。",
+            "desc": ""
+        },
+        {
+            "hash": 2526535613,
+            "original": "~z~Darts? I haven't done that for the longest time.",
+            "translated": "~z~飞镖吗？我很久没玩了。",
+            "desc": ""
+        },
+        {
+            "hash": 2616603294,
+            "original": "~z~They have watches in your country? I'm sorry. I'm just crabby. Let's go.",
+            "translated": "~z~你们国家有手表吗？很抱歉。我只是有点生气。走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2622015173,
+            "original": "GCM_ACT_PMI_NOGLASS_GOOD",
+            "translated": "GCM_ACT_PMI_NOGLASS_GOOD",
+            "desc": ""
+        },
+        {
+            "hash": 2649249251,
+            "original": "GCM_ACT_BORED_TAKEHOME",
+            "translated": "GCM_ACT_BORED_TAKEHOME",
+            "desc": ""
+        },
+        {
+            "hash": 2678863892,
+            "original": "~z~Pool? what a great idea...",
+            "translated": "~z~台球？真是个好主意...",
+            "desc": ""
+        },
+        {
+            "hash": 2708534378,
+            "original": "~z~I'd love for you to tell me stuff about yourself while we bowl.",
+            "translated": "~z~希望你能在打保龄球的时候多讲点你的事。",
+            "desc": ""
+        },
+        {
+            "hash": 2757468775,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2773283387,
+            "original": "~z~This isn't what we agreed at all.",
+            "translated": "~z~这根本不是我们约的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 2807389045,
+            "original": "~z~Are those shoes new? They're great, they really suit you.",
+            "translated": "~z~这双是新鞋吗？这鞋很棒，非常适合你。",
+            "desc": ""
+        },
+        {
+            "hash": 2841489190,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2890662176,
+            "original": "GCM_ACT_PMI_FEET_GOOD",
+            "translated": "GCM_ACT_PMI_FEET_GOOD",
+            "desc": ""
+        },
+        {
+            "hash": 2905967042,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2928428255,
+            "original": "~z~This sure is a nice car, is it new?",
+            "translated": "~z~这辆车很棒，是新买的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2934665543,
+            "original": "~z~Okay, next time you buy glasses, you should take a girl with you to check they look okay.",
+            "translated": "~z~好吧，下次买眼镜的时候，记得带个女孩给你参考意见。",
+            "desc": ""
+        },
+        {
+            "hash": 2942000302,
+            "original": "~z~Darts? Again? Okay. But we should do something else sometime.",
+            "translated": "~z~飞镖？又来？行吧。但下次我们最好做点别的。",
+            "desc": ""
+        },
+        {
+            "hash": 2989303062,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3004358369,
+            "original": "~z~Pool? Cool. Haven't played for ages.",
+            "translated": "~z~台球？好啊。我好久没打了。",
+            "desc": ""
+        },
+        {
+            "hash": 3028311857,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3037165273,
+            "original": "~z~New shoes, nice.",
+            "translated": "~z~新鞋，很好。",
+            "desc": ""
+        },
+        {
+            "hash": 3042076150,
+            "original": "GCM_ACT_DIFF_ACTIVITY_NO",
+            "translated": "GCM_ACT_DIFF_ACTIVITY_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3044800058,
+            "original": "~z~You look much better without those glasses.",
+            "translated": "~z~你不戴那副眼镜好看多了。",
+            "desc": ""
+        },
+        {
+            "hash": 3046911549,
+            "original": "~z~It's a shame you're not wearing that hat I liked.",
+            "translated": "~z~你没戴我喜欢的那顶帽子真是遗憾。",
+            "desc": ""
+        },
+        {
+            "hash": 3076268345,
+            "original": "~z~Okay - I haven't played darts for ages.",
+            "translated": "~z~好吧，我有一段时间没玩飞镖了。",
+            "desc": ""
+        },
+        {
+            "hash": 3078961294,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3080654011,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3085976878,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3106535737,
+            "original": "~z~I think you look good in that outfit - I liked it last time.",
+            "translated": "~z~我觉得你穿这套衣服很好看，上次我就这么想了。",
+            "desc": ""
+        },
+        {
+            "hash": 3111407837,
+            "original": "GCM_ACT_CAR_NONE",
+            "translated": "GCM_ACT_CAR_NONE",
+            "desc": ""
+        },
+        {
+            "hash": 3183321216,
+            "original": "~z~Hey - you're late... let's go find a car or something.",
+            "translated": "~z~嘿，你迟到了...我们去找辆车吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3203216951,
+            "original": "GCM_ACT_PMI_TORSO_GOOD",
+            "translated": "GCM_ACT_PMI_TORSO_GOOD",
+            "desc": ""
+        },
+        {
+            "hash": 3217332124,
+            "original": "~z~Hey Niko, you look well, let's find a car.",
+            "translated": "~z~嘿，Niko，气色不错嘛，找辆车子吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3225222769,
+            "original": "~z~Darts? Again? Well, I do enjoy it.",
+            "translated": "~z~飞镖？又来？好吧，我还能接受。",
+            "desc": ""
+        },
+        {
+            "hash": 3225301769,
+            "original": "~z~I'd enjoy darts - it'll make a change.",
+            "translated": "~z~玩飞镖也可以，下次换换口味吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3226159275,
+            "original": "GCM_ACT_PMI_GLASSHAT_GOOD",
+            "translated": "GCM_ACT_PMI_GLASSHAT_GOOD",
+            "desc": ""
+        },
+        {
+            "hash": 3247885645,
+            "original": "~z~Pool? Again? There are other ways to spend your time, Niko.",
+            "translated": "~z~台球？又来？别光把时间花在这上面，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3252054899,
+            "original": "~z~Hey, I really like the new car, Niko.",
+            "translated": "~z~嘿，我很喜欢这辆新车，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3271873646,
+            "original": "~z~What were you thinking when you put on those pants?",
+            "translated": "~z~你穿裤子的时候在想些什么东西？",
+            "desc": ""
+        },
+        {
+            "hash": 3332151480,
+            "original": "~z~Hey Niko, let's go.",
+            "translated": "~z~嘿，Niko，我们走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3399547033,
+            "original": "~z~What a great pair of glasses - they really suit you.",
+            "translated": "~z~这副眼镜太棒了，很适合你。",
+            "desc": ""
+        },
+        {
+            "hash": 3404108115,
+            "original": "~z~I wonder what'll be on? Sometimes it's awful.",
+            "translated": "~z~今天是什么节目？有些节目很难看。",
+            "desc": ""
+        },
+        {
+            "hash": 3409699772,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3411202557,
+            "original": "~z~This is going to be great, thanks Niko.",
+            "translated": "~z~这一定会很棒的，谢谢，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3459303232,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3471117922,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3484606252,
+            "original": "~z~You're not wearing the same clothes are you?",
+            "translated": "~z~你该不会不换衣服吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3500884709,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3526000268,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3531108112,
+            "original": "~z~Pool's quite fun, but there are other pastimes.",
+            "translated": "~z~台球是很有趣，但也有别的选择。",
+            "desc": ""
+        },
+        {
+            "hash": 3538689616,
+            "original": "GCM_ACT_ARRIVE_SHOW_CABARET",
+            "translated": "GCM_ACT_ARRIVE_SHOW_CABARET",
+            "desc": ""
+        },
+        {
+            "hash": 3552807646,
+            "original": "~z~Those glasses really suit you.",
+            "translated": "~z~这副眼镜很适合你。",
+            "desc": ""
+        },
+        {
+            "hash": 3559651557,
+            "original": "~z~Thanks - we're late - what a great date. Genius.",
+            "translated": "~z~谢谢，我们迟到了，和你约会很愉快。天才。",
+            "desc": ""
+        },
+        {
+            "hash": 3576551699,
+            "original": "GCM_ACT_ARRIVE_BOWL_LAST",
+            "translated": "GCM_ACT_ARRIVE_BOWL_LAST",
+            "desc": ""
+        },
+        {
+            "hash": 3589137845,
+            "original": "~z~Pool? Again... okay.",
+            "translated": "~z~台球？又来...好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3611940380,
+            "original": "GCM_ACT_ARRIVE_SHOW_COMEDY",
+            "translated": "GCM_ACT_ARRIVE_SHOW_COMEDY",
+            "desc": ""
+        },
+        {
+            "hash": 3638771013,
+            "original": "~z~Hey there, handsome - come on, let's get going.",
+            "translated": "~z~嘿，帅哥。来吧，该出发了。",
+            "desc": ""
+        },
+        {
+            "hash": 3673838697,
+            "original": "GCM_ACT_ARRIVEF_NOTLATE",
+            "translated": "GCM_ACT_ARRIVEF_NOTLATE",
+            "desc": ""
+        },
+        {
+            "hash": 3728898012,
+            "original": "~z~Classy.",
+            "translated": "~z~优秀。",
+            "desc": ""
+        },
+        {
+            "hash": 3783000766,
+            "original": "~z~What the hell are you wearing, the same clothes?",
+            "translated": "~z~你什么衣品，次次穿这件？",
+            "desc": ""
+        },
+        {
+            "hash": 3829982033,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3873527748,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3957509429,
+            "original": "~z~Are we going to walk or get a taxi?",
+            "translated": "~z~我们步行还是打的？",
+            "desc": ""
+        },
+        {
+            "hash": 3974242274,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3985425591,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3991148453,
+            "original": "~z~Those shoes are pretty weird.",
+            "translated": "~z~这双鞋你穿着很奇怪。",
+            "desc": ""
+        },
+        {
+            "hash": 4010509895,
+            "original": "~z~What's this? This isn't what we said. I don't want to do this just now.",
+            "translated": "~z~这是什么？我们说好的不是这样。我现在不想来这里。",
+            "desc": ""
+        },
+        {
+            "hash": 4014615145,
+            "original": "~z~I tell you what I miss you in those glasses.",
+            "translated": "~z~我很怀念你戴那副眼镜的样子。",
+            "desc": ""
+        },
+        {
+            "hash": 4038527700,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4054572552,
+            "original": "~z~Hey - you know you're late, don't you? Let's go.",
+            "translated": "~z~嘿，你知道自己迟到了吗？我们走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4079855137,
+            "original": "~z~Can't you afford any new clothes?",
+            "translated": "~z~你是买不起新衣服吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4091150268,
+            "original": "GCM_ACT_ARRIVE_HIGHEND",
+            "translated": "GCM_ACT_ARRIVE_HIGHEND",
+            "desc": ""
+        },
+        {
+            "hash": 4109951498,
+            "original": "~z~Yeah, I think we'll have some fun here.",
+            "translated": "~z~是的，我想我们会玩得很开心的。",
+            "desc": ""
+        },
+        {
+            "hash": 4129394294,
+            "original": "~z~Why did you change cars?",
+            "translated": "~z~你怎么换车了？",
+            "desc": ""
+        },
+        {
+            "hash": 4134879869,
+            "original": "GCM_ACT_ARRIVE_PUB_FAVORITE",
+            "translated": "GCM_ACT_ARRIVE_PUB_FAVORITE",
+            "desc": ""
+        },
+        {
+            "hash": 4172723313,
+            "original": "~z~Where's the hat? It really suited you.",
+            "translated": "~z~那顶帽子呢？你戴着很合适的。",
+            "desc": ""
+        },
+        {
+            "hash": 4196166056,
+            "original": "~z~Shall we go by taxi, or walk or...?",
+            "translated": "~z~我们打的去，还是步行去，还是...？",
+            "desc": ""
+        },
+        {
+            "hash": 4242358855,
+            "original": "~z~Is that new, that top? You should have checked the mirror before you bought it.",
+            "translated": "~z~这件上衣是新的吗？买之前你应该照照镜子。",
+            "desc": ""
+        },
+        {
+            "hash": 4246762950,
+            "original": "~z~Cabaret - I wonder what's on? The crowd always scares me at this place.",
+            "translated": "~z~卡巴莱，不知道里面演的什么。这里的顾客让我有点害怕。",
+            "desc": ""
+        },
+        {
+            "hash": 4249175635,
+            "original": "~z~Those glasses kind of suited you, Niko. I miss them.",
+            "translated": "~z~之前那副眼镜很适合你，Niko。我想它了。",
+            "desc": ""
+        }
+    ]
+}

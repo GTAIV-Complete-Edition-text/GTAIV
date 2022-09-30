@@ -1,0 +1,1588 @@
+{
+    "FCPC1AU": [
+        {
+            "hash": 7227238,
+            "original": "~z~Well, sometimes we're trying to keep our heads above the water, other times we're trying to drown ourselves in it.",
+            "translated": "~z~有时我们想让自己探出水面，~n~有时也会想把自己浸在水下。",
+            "desc": ""
+        },
+        {
+            "hash": 9384579,
+            "original": "FCPC1_MOM_DENIAL_CI",
+            "translated": "FCPC1_MOM_DENIAL_CI",
+            "desc": ""
+        },
+        {
+            "hash": 17728364,
+            "original": "~z~Fuck, I practically had to come outta the womb swinging.",
+            "translated": "~z~操，刚从子宫里出来我就必须要打架了。",
+            "desc": ""
+        },
+        {
+            "hash": 53272126,
+            "original": "FCPC1_MOM_DENIAL_CM",
+            "translated": "FCPC1_MOM_DENIAL_CM",
+            "desc": ""
+        },
+        {
+            "hash": 73920954,
+            "original": "~z~Sure. How you doing?",
+            "translated": "~z~挺好。你怎么样？",
+            "desc": ""
+        },
+        {
+            "hash": 97019944,
+            "original": "010100010100100010100100100100010100100100010100100100100100010",
+            "translated": "010100010100100010100100100100010100100100010100100100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 112059504,
+            "original": "~z~After all that there ain't a chance in hell of me being able to get hard. It's a fucking Catch-22.",
+            "translated": "~z~到头来，我他妈根本就硬不起来。这他妈是个死循环。",
+            "desc": ""
+        },
+        {
+            "hash": 122872312,
+            "original": "~z~You're getting to know the McReary family pretty good, Niko boy. What's left of it at least.",
+            "translated": "~z~你现在很了解McReary家族了，Niko仔。至少了解剩下的部分。",
+            "desc": ""
+        },
+        {
+            "hash": 126698204,
+            "original": "~z~I don't know.",
+            "translated": "~z~我不知道。",
+            "desc": ""
+        },
+        {
+            "hash": 133399188,
+            "original": "FCPC1_IRELAND_EG",
+            "translated": "FCPC1_IRELAND_EG",
+            "desc": ""
+        },
+        {
+            "hash": 146393847,
+            "original": "~z~Sneaky fucking bastard he was, even back then.",
+            "translated": "~z~这个狡猾的混蛋，从小就是。",
+            "desc": ""
+        },
+        {
+            "hash": 186556292,
+            "original": "FCPC1_MOM_DENIAL_CB",
+            "translated": "FCPC1_MOM_DENIAL_CB",
+            "desc": ""
+        },
+        {
+            "hash": 210801452,
+            "original": "FCPC1_FRANCIS_PRIEST_DL",
+            "translated": "FCPC1_FRANCIS_PRIEST_DL",
+            "desc": ""
+        },
+        {
+            "hash": 218924115,
+            "original": "FCPC1_GRASS_FG",
+            "translated": "FCPC1_GRASS_FG",
+            "desc": ""
+        },
+        {
+            "hash": 281638919,
+            "original": "~z~Cocaine is a realist's drug, right? Keeps you in the moment.",
+            "translated": "~z~可卡因是现实主义者的毒品，对吧？让你活在当下。",
+            "desc": ""
+        },
+        {
+            "hash": 288250868,
+            "original": "~z~Ma had walked out when it started, didn't want to nothing to do with it.",
+            "translated": "~z~我妈在这一架开始的时候就出去了，完全不想管。",
+            "desc": ""
+        },
+        {
+            "hash": 294716333,
+            "original": "FCPC1_FRANCIS_PRIEST_DR",
+            "translated": "FCPC1_FRANCIS_PRIEST_DR",
+            "desc": ""
+        },
+        {
+            "hash": 306212143,
+            "original": "~z~Like he'd been rolling around the floor of an abattoir.",
+            "translated": "~z~就像刚在屠宰场打过滚一样。",
+            "desc": ""
+        },
+        {
+            "hash": 325562550,
+            "original": "100010100010100010100010100100010100010100",
+            "translated": "100010100010100010100010100100010100010100",
+            "desc": ""
+        },
+        {
+            "hash": 334982776,
+            "original": "~z~Niko boy, how's it going? What's happening with you?",
+            "translated": "~z~Niko仔，最近如何啊？你在做啥呢？",
+            "desc": ""
+        },
+        {
+            "hash": 358722578,
+            "original": "~z~As the youngest I was always getting me ass kicked. By Derrick, by Gerald...",
+            "translated": "~z~作为最小的弟弟，我经常被打。被Derrick打，被Gerald打...",
+            "desc": ""
+        },
+        {
+            "hash": 395041857,
+            "original": "FCPC1_GRASS_FL",
+            "translated": "FCPC1_GRASS_FL",
+            "desc": ""
+        },
+        {
+            "hash": 405124665,
+            "original": "~z~Must have killed someone, I guess. I never found out.",
+            "translated": "~z~我猜是刚杀完人，但没法求证。",
+            "desc": ""
+        },
+        {
+            "hash": 410109594,
+            "original": "FCPC1_GERRY_BLOOD_HI",
+            "translated": "FCPC1_GERRY_BLOOD_HI",
+            "desc": ""
+        },
+        {
+            "hash": 423683651,
+            "original": "~z~but at least you ain't a fucking hypocrite?",
+            "translated": "~z~至少不可能当伪君子吧？",
+            "desc": ""
+        },
+        {
+            "hash": 427577407,
+            "original": "~z~Maybe we're all hypocrites. All imbeciles. Francis - you know about Francis - he wanted to be a priest.",
+            "translated": "~z~也许我们都是伪君子。都是蠢蛋。Francis－你也了解他－他曾想成为神父。",
+            "desc": ""
+        },
+        {
+            "hash": 433632548,
+            "original": "~z~The fighting bit mainly - drunken fights, sober fights, fights on the subway, fights with the family.",
+            "translated": "~z~我的话以打斗为主，醉了打斗、醒着打斗、在地铁上打斗、和家人打斗。",
+            "desc": ""
+        },
+        {
+            "hash": 434470636,
+            "original": "100010100100100010100100100100100100100010",
+            "translated": "100010100100100010100100100100100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 461646692,
+            "original": "FCPC1_FAM_BB",
+            "translated": "FCPC1_FAM_BB",
+            "desc": ""
+        },
+        {
+            "hash": 476040410,
+            "original": "FCPC1_FRANCIS_PRIEST_DH",
+            "translated": "FCPC1_FRANCIS_PRIEST_DH",
+            "desc": ""
+        },
+        {
+            "hash": 477713804,
+            "original": "FCPC1_GRASS_FK",
+            "translated": "FCPC1_GRASS_FK",
+            "desc": ""
+        },
+        {
+            "hash": 489059632,
+            "original": "~z~They both just stopped when they saw her. Kate stopped being a kid after that. You know what I mean?",
+            "translated": "~z~看见她就停下来了。自那以后Kate就不再是一个小孩子了。懂我意思吗？",
+            "desc": ""
+        },
+        {
+            "hash": 506617852,
+            "original": "FCPC1_FAM_BA",
+            "translated": "FCPC1_FAM_BA",
+            "desc": ""
+        },
+        {
+            "hash": 518052620,
+            "original": "~z~He got thrown out of the seminary, for cheating. He tried to cheat God.",
+            "translated": "~z~他因为作弊被神学院赶出来了。他居然想欺骗上帝。",
+            "desc": ""
+        },
+        {
+            "hash": 518426979,
+            "original": "~z~When Gerry first went to juvie, she kept laying a place at the table for him.",
+            "translated": "~z~Gerry头一次进少管所的时候，她也在桌上给他留了位置。",
+            "desc": ""
+        },
+        {
+            "hash": 523885742,
+            "original": "FCPC1_FRANCIS_PRIEST_DB",
+            "translated": "FCPC1_FRANCIS_PRIEST_DB",
+            "desc": ""
+        },
+        {
+            "hash": 563605116,
+            "original": "FCPC1_SEX_AG",
+            "translated": "FCPC1_SEX_AG",
+            "desc": ""
+        },
+        {
+            "hash": 564513129,
+            "original": "~z~Wasn't hard for me, but I always knew what life was like.",
+            "translated": "~z~对我倒不艰难，但我向来知道生活是怎样的。",
+            "desc": ""
+        },
+        {
+            "hash": 584712011,
+            "original": "~z~There ain't winner in a fight like this. I thought the only thing that was gonna end it was one of them dying.",
+            "translated": "~z~这种干架没有赢家。我觉得只有打到一个人半死不活才会结束。",
+            "desc": ""
+        },
+        {
+            "hash": 587500690,
+            "original": "~z~That's because you ain't Irish.",
+            "translated": "~z~谁让你不是爱尔兰人呢。",
+            "desc": ""
+        },
+        {
+            "hash": 610029130,
+            "original": "FCPC1_FAM_BL",
+            "translated": "FCPC1_FAM_BL",
+            "desc": ""
+        },
+        {
+            "hash": 664686767,
+            "original": "~z~Did your family fight a lot growing up?",
+            "translated": "~z~你们家里人小时候经常打架吗？",
+            "desc": ""
+        },
+        {
+            "hash": 673388648,
+            "original": "~z~What's up, Niko?",
+            "translated": "~z~怎么样，Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 677550439,
+            "original": "~z~Thanks, I think. I always liked Gerry.",
+            "translated": "~z~谢了，大概。我一直都喜欢Gerry。",
+            "desc": ""
+        },
+        {
+            "hash": 686639997,
+            "original": "FCPC1_GRASS_FE",
+            "translated": "FCPC1_GRASS_FE",
+            "desc": ""
+        },
+        {
+            "hash": 715515054,
+            "original": "~z~I dunno, she's me ma but I ain't gonna ever understand that.",
+            "translated": "~z~我也不知道，虽然是我妈，但我一辈子都搞不懂她。",
+            "desc": ""
+        },
+        {
+            "hash": 737469855,
+            "original": "FCPC1_IRELAND_EK",
+            "translated": "FCPC1_IRELAND_EK",
+            "desc": ""
+        },
+        {
+            "hash": 758176001,
+            "original": "FCPC1_FRANCIS_PRIEST_DP",
+            "translated": "FCPC1_FRANCIS_PRIEST_DP",
+            "desc": ""
+        },
+        {
+            "hash": 766431580,
+            "original": "FCPC1_FRANCIS_PRIEST_DI",
+            "translated": "FCPC1_FRANCIS_PRIEST_DI",
+            "desc": ""
+        },
+        {
+            "hash": 792388755,
+            "original": "~z~No. well, it must have been hard, realizing your brothers kill people.",
+            "translated": "~z~不一样了。肯定很艰难，意识到你的兄弟都是杀人魔。",
+            "desc": ""
+        },
+        {
+            "hash": 793615557,
+            "original": "~z~Because Derrick was a grass. In England.",
+            "translated": "~z~因为Derrick是个告密者，在英国的时候。",
+            "desc": ""
+        },
+        {
+            "hash": 799964323,
+            "original": "~z~Really?",
+            "translated": "~z~真的？",
+            "desc": ""
+        },
+        {
+            "hash": 807918758,
+            "original": "FCPC1_FRANCIS_PRIEST_DN",
+            "translated": "FCPC1_FRANCIS_PRIEST_DN",
+            "desc": ""
+        },
+        {
+            "hash": 827009311,
+            "original": "~z~If an Irishman ain't beating himself up he's beating up his family.",
+            "translated": "~z~要是一个爱尔兰人不打他自己，他就会打自己的家人。",
+            "desc": ""
+        },
+        {
+            "hash": 846582900,
+            "original": "FCPC1_IRELAND_EB",
+            "translated": "FCPC1_IRELAND_EB",
+            "desc": ""
+        },
+        {
+            "hash": 864804130,
+            "original": "FCPC1_GRASS_FB",
+            "translated": "FCPC1_GRASS_FB",
+            "desc": ""
+        },
+        {
+            "hash": 875702609,
+            "original": "100010100010100100100010100100010010100010100010100010100100",
+            "translated": "100010100010100100100010100100010010100010100010100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 901160750,
+            "original": "~z~Bury your brother, bury your dad, but at least you can look in the mirror and feel okay?",
+            "translated": "~z~埋葬你的兄弟，埋葬你的父亲，但这样你就能安心地看着镜子里的自己？",
+            "desc": ""
+        },
+        {
+            "hash": 946205246,
+            "original": "~z~Not really, usual series of shootouts, fist fights and robberies.",
+            "translated": "~z~没什么新的，还是枪击、肉搏和抢劫之类的。",
+            "desc": ""
+        },
+        {
+            "hash": 955890197,
+            "original": "~z~Well not much, you know... problems, solutions, usual sort of thing.",
+            "translated": "~z~没怎么，你也知道...问题、解决，还是老样子。",
+            "desc": ""
+        },
+        {
+            "hash": 973728498,
+            "original": "FCPC1_FRANCIS_PRIEST_DT",
+            "translated": "FCPC1_FRANCIS_PRIEST_DT",
+            "desc": ""
+        },
+        {
+            "hash": 983252440,
+            "original": "~z~a weird combination of crazy maniac and thoughtful controlled guy.",
+            "translated": "~z~疯子神经病与冷静思想家的怪异结合体。",
+            "desc": ""
+        },
+        {
+            "hash": 991197776,
+            "original": "FCPC1_SEX_AJ",
+            "translated": "FCPC1_SEX_AJ",
+            "desc": ""
+        },
+        {
+            "hash": 995248698,
+            "original": "~z~What happened?",
+            "translated": "~z~然后呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1002043805,
+            "original": "FCPC1_FAM_BK",
+            "translated": "FCPC1_FAM_BK",
+            "desc": ""
+        },
+        {
+            "hash": 1027552277,
+            "original": "~z~There was just this feeling in the air. This feeling that told me - this one ain't like all the other fights. They didn't stop.",
+            "translated": "~z~空气里就有一种氛围。这个氛围告诉我，这一次不同于往常的打架。",
+            "desc": ""
+        },
+        {
+            "hash": 1034434938,
+            "original": "~z~He was involved in that business and he grassed on some people to avoid doing some serious time.",
+            "translated": "~z~和黑社会有关，他为了不坐牢就告发了别人。",
+            "desc": ""
+        },
+        {
+            "hash": 1068296790,
+            "original": "FCPC1_IRELAND_EF",
+            "translated": "FCPC1_IRELAND_EF",
+            "desc": ""
+        },
+        {
+            "hash": 1071887414,
+            "original": "FCPC1_FRANCIS_GERRY_GU",
+            "translated": "FCPC1_FRANCIS_GERRY_GU",
+            "desc": ""
+        },
+        {
+            "hash": 1107036645,
+            "original": "~z~Yeah. Yeah, Kate saw the whole scene, him, insane like he'd ripped a man's throat out,",
+            "translated": "~z~是。是，Kate全都看见了，他疯狂到像是刚割了谁的喉一样。",
+            "desc": ""
+        },
+        {
+            "hash": 1125185597,
+            "original": "FCPC1_FAM_BD",
+            "translated": "FCPC1_FAM_BD",
+            "desc": ""
+        },
+        {
+            "hash": 1139626108,
+            "original": "~z~Sure but you're like Gerry -",
+            "translated": "~z~确实，但你很像Gerry。",
+            "desc": ""
+        },
+        {
+            "hash": 1155364263,
+            "original": "FCPC1_IRELAND_EE",
+            "translated": "FCPC1_IRELAND_EE",
+            "desc": ""
+        },
+        {
+            "hash": 1159439365,
+            "original": "FCPC1_FRANCIS_PRIEST_DF",
+            "translated": "FCPC1_FRANCIS_PRIEST_DF",
+            "desc": ""
+        },
+        {
+            "hash": 1160321464,
+            "original": "~z~When Pa would get drunk and do things. She'd just glaze over.",
+            "translated": "~z~一旦爸喝醉了开始发疯，她就会一脸茫然。",
+            "desc": ""
+        },
+        {
+            "hash": 1168380485,
+            "original": "FCPC1_GERRY_BLOOD_HA",
+            "translated": "FCPC1_GERRY_BLOOD_HA",
+            "desc": ""
+        },
+        {
+            "hash": 1206733169,
+            "original": "~z~One time I remember Frankie and Gerald going at it.",
+            "translated": "~z~我记得有一次Frankie和Gerald起了矛盾。",
+            "desc": ""
+        },
+        {
+            "hash": 1214414142,
+            "original": "FCPC1_GRASS_FI",
+            "translated": "FCPC1_GRASS_FI",
+            "desc": ""
+        },
+        {
+            "hash": 1256076478,
+            "original": "FCPC1_FRANCIS_PRIEST_DC",
+            "translated": "FCPC1_FRANCIS_PRIEST_DC",
+            "desc": ""
+        },
+        {
+            "hash": 1261985426,
+            "original": "~z~You sounded just like Gerry when you said that, all cagey and thoughtful, like I might be wearing a wire.",
+            "translated": "~z~你这么说话就很像Gerry，深沉晦涩，搞得跟我在窃听一样。",
+            "desc": ""
+        },
+        {
+            "hash": 1267938412,
+            "original": "~z~Yes.",
+            "translated": "~z~是啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1269001662,
+            "original": "~z~All of us apart from Derrick that is. He left us to visit the Old Country.",
+            "translated": "~z~只有Derrick是个例外。他之前离开我们回老家了。",
+            "desc": ""
+        },
+        {
+            "hash": 1275795848,
+            "original": "~z~Shit, that sounds like a fucking extract from my diary. It would if I kept a diary at least.",
+            "translated": "~z~我靠，你他妈从我日记里抄的吧，如果我有写日记的话。",
+            "desc": ""
+        },
+        {
+            "hash": 1279406198,
+            "original": "FCPC1_GERRY_BLOOD_HJ",
+            "translated": "FCPC1_GERRY_BLOOD_HJ",
+            "desc": ""
+        },
+        {
+            "hash": 1285800647,
+            "original": "FCPC1_FRANCIS_GERRY_GT",
+            "translated": "FCPC1_FRANCIS_GERRY_GT",
+            "desc": ""
+        },
+        {
+            "hash": 1291637376,
+            "original": "FCPC1_FRANCIS_GERRY_GD",
+            "translated": "FCPC1_FRANCIS_GERRY_GD",
+            "desc": ""
+        },
+        {
+            "hash": 1316869471,
+            "original": "FCPC1_FRANCIS_GERRY_GE",
+            "translated": "FCPC1_FRANCIS_GERRY_GE",
+            "desc": ""
+        },
+        {
+            "hash": 1341466071,
+            "original": "~z~blood everywhere, the showering, the burning of clothes...",
+            "translated": "~z~浑身是血，洗了个澡，烧掉衣服...",
+            "desc": ""
+        },
+        {
+            "hash": 1343737522,
+            "original": "FCPC1_FAM_BF",
+            "translated": "FCPC1_FAM_BF",
+            "desc": ""
+        },
+        {
+            "hash": 1357716576,
+            "original": "FCPC1_GRASS_FF",
+            "translated": "FCPC1_GRASS_FF",
+            "desc": ""
+        },
+        {
+            "hash": 1362130422,
+            "original": "~z~I guess we got Ma to thank for that. Taking us to church and cooking a big lunch for the family on a Sunday.",
+            "translated": "~z~这点多亏了妈。礼拜日都会带我们去教堂，还会做丰盛的午餐。",
+            "desc": ""
+        },
+        {
+            "hash": 1375279348,
+            "original": "~z~No. He spun it different, but that was the truth.",
+            "translated": "~z~不，他的说法可能不同，但我说的是事实。",
+            "desc": ""
+        },
+        {
+            "hash": 1375542228,
+            "original": "FCPC1_FRANCIS_PRIEST_DJ",
+            "translated": "FCPC1_FRANCIS_PRIEST_DJ",
+            "desc": ""
+        },
+        {
+            "hash": 1386227378,
+            "original": "~z~Packie, how's it going man? Is good to see you.",
+            "translated": "~z~Packie，最近怎么样？很高兴见到你。",
+            "desc": ""
+        },
+        {
+            "hash": 1387407179,
+            "original": "FCPC1_SEX_AN",
+            "translated": "FCPC1_SEX_AN",
+            "desc": ""
+        },
+        {
+            "hash": 1411194868,
+            "original": "FCPC1_GRASS_FC",
+            "translated": "FCPC1_GRASS_FC",
+            "desc": ""
+        },
+        {
+            "hash": 1422094351,
+            "original": "~z~You feel that way, you ever feel that need to obliterate yourself?",
+            "translated": "~z~你有这种感觉吗？是不是还想过要毁灭自己？",
+            "desc": ""
+        },
+        {
+            "hash": 1423285965,
+            "original": "FCPC1_GRASS_FA",
+            "translated": "FCPC1_GRASS_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1438720132,
+            "original": "~z~I did not know that.",
+            "translated": "~z~这我倒不知道。",
+            "desc": ""
+        },
+        {
+            "hash": 1448539471,
+            "original": "~z~I don't think you're wearing a wire. My English can be a bit bad.",
+            "translated": "~z~我不觉得你在窃听。可能是我英语不太好。",
+            "desc": ""
+        },
+        {
+            "hash": 1454754481,
+            "original": "~z~I knew you could understand that grief.",
+            "translated": "~z~我知道你能理解那种痛苦。",
+            "desc": ""
+        },
+        {
+            "hash": 1457569063,
+            "original": "~z~That's what I thought at first, now I just reckon it was denial. She's got this power to switch off.",
+            "translated": "~z~一开始我也是这么想的，现在我觉得不是这样。她是有装聋不听的本事的。",
+            "desc": ""
+        },
+        {
+            "hash": 1458153205,
+            "original": "FCPC1_FRANCIS_PRIEST_DK",
+            "translated": "FCPC1_FRANCIS_PRIEST_DK",
+            "desc": ""
+        },
+        {
+            "hash": 1464585533,
+            "original": "~z~Can you believe it? So he became a fucking cop.",
+            "translated": "~z~你敢信？然后他他妈就成了条子。",
+            "desc": ""
+        },
+        {
+            "hash": 1469323277,
+            "original": "~z~I'm sorry about that.",
+            "translated": "~z~对此我很遗憾。",
+            "desc": ""
+        },
+        {
+            "hash": 1472272559,
+            "original": "FCPC1_GRASS_FH",
+            "translated": "FCPC1_GRASS_FH",
+            "desc": ""
+        },
+        {
+            "hash": 1512633583,
+            "original": "FCPC1_GERRY_BLOOD_HG",
+            "translated": "FCPC1_GERRY_BLOOD_HG",
+            "desc": ""
+        },
+        {
+            "hash": 1524428624,
+            "original": "~z~What ended the fight, who won?",
+            "translated": "~z~这一架是怎么结束的，谁赢了？",
+            "desc": ""
+        },
+        {
+            "hash": 1528343901,
+            "original": "FCPC1_IRELAND_EC",
+            "translated": "FCPC1_IRELAND_EC",
+            "desc": ""
+        },
+        {
+            "hash": 1574448512,
+            "original": "~z~The world has a strange way of knocking that out of you pretty quick, hey?",
+            "translated": "~z~世界真是奇怪，总能在这种事上给你当头一棒，嘿？",
+            "desc": ""
+        },
+        {
+            "hash": 1616888369,
+            "original": "~z~Good to see you Niko, anything new going on?",
+            "translated": "~z~很高兴见到你，Niko，有什么新鲜事吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1622204501,
+            "original": "FCPC1_MOM_DENIAL_CK",
+            "translated": "FCPC1_MOM_DENIAL_CK",
+            "desc": ""
+        },
+        {
+            "hash": 1632465634,
+            "original": "FCPC1_MOM_DENIAL_CH",
+            "translated": "FCPC1_MOM_DENIAL_CH",
+            "desc": ""
+        },
+        {
+            "hash": 1661395050,
+            "original": "FCPC1_FAM_BN",
+            "translated": "FCPC1_FAM_BN",
+            "desc": ""
+        },
+        {
+            "hash": 1707782446,
+            "original": "FCPC1_GERRY_BLOOD_HP",
+            "translated": "FCPC1_GERRY_BLOOD_HP",
+            "desc": ""
+        },
+        {
+            "hash": 1709992222,
+            "original": "~z~Pain comes easy to the McReary's. Pain and remorse and doing whatever we can to forget about them.",
+            "translated": "~z~痛苦很容易找上McReary家。悲痛、自责，然后尽己所能，把这些忘个精光。",
+            "desc": ""
+        },
+        {
+            "hash": 1717031580,
+            "original": "~z~And he had this weird look in his eyes, like he was possessed.",
+            "translated": "~z~然后他的神情就很奇怪，像是恶灵附身了一样。",
+            "desc": ""
+        },
+        {
+            "hash": 1726449601,
+            "original": "FCPC1_FRANCIS_GERRY_GA",
+            "translated": "FCPC1_FRANCIS_GERRY_GA",
+            "desc": ""
+        },
+        {
+            "hash": 1753594352,
+            "original": "~z~He messed the whole fucking family up, I reckon. I used to think I loved him, then I realized I hated him.",
+            "translated": "~z~他他妈把整个家都搞烂了。曾经我觉得我爱他，后来发现其实是恨他。",
+            "desc": ""
+        },
+        {
+            "hash": 1767989136,
+            "original": "FCPC1_MOM_DENIAL_CC",
+            "translated": "FCPC1_MOM_DENIAL_CC",
+            "desc": ""
+        },
+        {
+            "hash": 1775442111,
+            "original": "FCPC1_GERRY_BLOOD_HD",
+            "translated": "FCPC1_GERRY_BLOOD_HD",
+            "desc": ""
+        },
+        {
+            "hash": 1805830421,
+            "original": "~z~Life knocks most things out of you pretty quick.",
+            "translated": "~z~生活在大多数事情上都会给你当头一棒。",
+            "desc": ""
+        },
+        {
+            "hash": 1824348153,
+            "original": "FCPC1_SEX_AI",
+            "translated": "FCPC1_SEX_AI",
+            "desc": ""
+        },
+        {
+            "hash": 1839541983,
+            "original": "~z~That was until my pa got into a drunken rage one week and threw Gerry's plate against the wall.",
+            "translated": "~z~直到有一周我爸发酒疯，抄起Gerry的盘子就往墙上砸。",
+            "desc": ""
+        },
+        {
+            "hash": 1845495882,
+            "original": "FCPC1_FAM_BH",
+            "translated": "FCPC1_FAM_BH",
+            "desc": ""
+        },
+        {
+            "hash": 1872273710,
+            "original": "FCPC1_GERRY_BLOOD_HH",
+            "translated": "FCPC1_GERRY_BLOOD_HH",
+            "desc": ""
+        },
+        {
+            "hash": 1876870838,
+            "original": "FCPC1_GERRY_BLOOD_HQ",
+            "translated": "FCPC1_GERRY_BLOOD_HQ",
+            "desc": ""
+        },
+        {
+            "hash": 1884156369,
+            "original": "FCPC1_GERRY_BLOOD_HL",
+            "translated": "FCPC1_GERRY_BLOOD_HL",
+            "desc": ""
+        },
+        {
+            "hash": 1888933423,
+            "original": "~z~Crazy fucking idiot.",
+            "translated": "~z~这个疯子白痴。",
+            "desc": ""
+        },
+        {
+            "hash": 1903588606,
+            "original": "FCPC1_GERRY_BLOOD_HK",
+            "translated": "FCPC1_GERRY_BLOOD_HK",
+            "desc": ""
+        },
+        {
+            "hash": 1909258231,
+            "original": "FCPC1_GERRY_BLOOD_HN",
+            "translated": "FCPC1_GERRY_BLOOD_HN",
+            "desc": ""
+        },
+        {
+            "hash": 1931510662,
+            "original": "~z~he was a good friend of Roman's too. We never speak about it.",
+            "translated": "~z~他跟Roman也是好朋友。我们从来不提这件事。",
+            "desc": ""
+        },
+        {
+            "hash": 1942089072,
+            "original": "~z~Yeah?",
+            "translated": "~z~是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1957063699,
+            "original": "FCPC1_SEX_AL",
+            "translated": "FCPC1_SEX_AL",
+            "desc": ""
+        },
+        {
+            "hash": 1965552448,
+            "original": "FCPC1_FRANCIS_GERRY_GO",
+            "translated": "FCPC1_FRANCIS_GERRY_GO",
+            "desc": ""
+        },
+        {
+            "hash": 1972233893,
+            "original": "FCPC1_FRANCIS_PRIEST_DO",
+            "translated": "FCPC1_FRANCIS_PRIEST_DO",
+            "desc": ""
+        },
+        {
+            "hash": 1975432250,
+            "original": "FCPC1_GERRY_BLOOD_HF",
+            "translated": "FCPC1_GERRY_BLOOD_HF",
+            "desc": ""
+        },
+        {
+            "hash": 1998357581,
+            "original": "FCPC1_FRANCIS_GERRY_GJ",
+            "translated": "FCPC1_FRANCIS_GERRY_GJ",
+            "desc": ""
+        },
+        {
+            "hash": 2010117772,
+            "original": "FCPC1_IRELAND_EI",
+            "translated": "FCPC1_IRELAND_EI",
+            "desc": ""
+        },
+        {
+            "hash": 2026535057,
+            "original": "FCPC1_FRANCIS_GERRY_GM",
+            "translated": "FCPC1_FRANCIS_GERRY_GM",
+            "desc": ""
+        },
+        {
+            "hash": 2027563255,
+            "original": "FCPC1_FRANCIS_GERRY_GF",
+            "translated": "FCPC1_FRANCIS_GERRY_GF",
+            "desc": ""
+        },
+        {
+            "hash": 2048038823,
+            "original": "~z~Drunken bastard. Fuck him.",
+            "translated": "~z~混蛋酒鬼，操他妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 2057911247,
+            "original": "FCPC1_GERRY_BLOOD_HE",
+            "translated": "FCPC1_GERRY_BLOOD_HE",
+            "desc": ""
+        },
+        {
+            "hash": 2076928358,
+            "original": "~z~More than anything he loved a good ruck though.",
+            "translated": "~z~不过他最喜欢的还是干架。",
+            "desc": ""
+        },
+        {
+            "hash": 2144781925,
+            "original": "~z~With me, it's myself. My pa was different.",
+            "translated": "~z~我的话，是打自己。我爸就不一样了。",
+            "desc": ""
+        },
+        {
+            "hash": 2171698756,
+            "original": "FCPC1_FRANCIS_PRIEST_DM",
+            "translated": "FCPC1_FRANCIS_PRIEST_DM",
+            "desc": ""
+        },
+        {
+            "hash": 2202008449,
+            "original": "~z~A grass, to avoid doing time. That's why Gerry won't bend - he sees it as his penance for the sins of his brother.",
+            "translated": "~z~为了不坐牢而告密。所以Gerry才不会借酒借毒浇愁，他认为这是对哥哥罪孽的弥补。",
+            "desc": ""
+        },
+        {
+            "hash": 2259203672,
+            "original": "FCPC1_SEX_AH",
+            "translated": "FCPC1_SEX_AH",
+            "desc": ""
+        },
+        {
+            "hash": 2278554924,
+            "original": "FCPC1_GERRY_BLOOD_HM",
+            "translated": "FCPC1_GERRY_BLOOD_HM",
+            "desc": ""
+        },
+        {
+            "hash": 2278765352,
+            "original": "~z~Has he been dead long?",
+            "translated": "~z~他去世很久了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2282669037,
+            "original": "~z~How you doing?",
+            "translated": "~z~近况如何？",
+            "desc": ""
+        },
+        {
+            "hash": 2289544756,
+            "original": "~z~I'm sorry.",
+            "translated": "~z~对不起。",
+            "desc": ""
+        },
+        {
+            "hash": 2290976389,
+            "original": "FCPC1_FAM_BC",
+            "translated": "FCPC1_FAM_BC",
+            "desc": ""
+        },
+        {
+            "hash": 2306966738,
+            "original": "~z~He went to Ireland to find it all. An old romantic he was.",
+            "translated": "~z~他去爱尔兰就是找这些的，老派的浪漫情调。",
+            "desc": ""
+        },
+        {
+            "hash": 2309745202,
+            "original": "FCPC1_SEX_AA",
+            "translated": "FCPC1_SEX_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2343989095,
+            "original": "FCPC1_SEX_AB",
+            "translated": "FCPC1_SEX_AB",
+            "desc": ""
+        },
+        {
+            "hash": 2355436618,
+            "original": "FCPC1_FAM_BJ",
+            "translated": "FCPC1_FAM_BJ",
+            "desc": ""
+        },
+        {
+            "hash": 2361926804,
+            "original": "FCPC1_FRANCIS_GERRY_GQ",
+            "translated": "FCPC1_FRANCIS_GERRY_GQ",
+            "desc": ""
+        },
+        {
+            "hash": 2368041153,
+            "original": "~z~Keeps your head up your own fucking ass, that's about as grounded as you can get.",
+            "translated": "~z~能让你不至于屁股决定脑袋，要多明智有多明智。",
+            "desc": ""
+        },
+        {
+            "hash": 2407383689,
+            "original": "~z~No... I'm sorry. Happy thoughts, puppies and little girls smiling and clowns and all that shit.",
+            "translated": "~z~没有...不好意思。想点高兴的吧，小狗、小妞的笑脸、小丑啥的。",
+            "desc": ""
+        },
+        {
+            "hash": 2411814227,
+            "original": "~z~Why?",
+            "translated": "~z~为什么？",
+            "desc": ""
+        },
+        {
+            "hash": 2423499523,
+            "original": "FCPC1_FRANCIS_GERRY_GP",
+            "translated": "FCPC1_FRANCIS_GERRY_GP",
+            "desc": ""
+        },
+        {
+            "hash": 2440996709,
+            "original": "FCPC1_FAM_BM",
+            "translated": "FCPC1_FAM_BM",
+            "desc": ""
+        },
+        {
+            "hash": 2458080297,
+            "original": "FCPC1_MOM_DENIAL_CG",
+            "translated": "FCPC1_MOM_DENIAL_CG",
+            "desc": ""
+        },
+        {
+            "hash": 2466138494,
+            "original": "~z~Yes, but not long enough. I wish he'd been drowned at birth, got rid of the lot of us.",
+            "translated": "~z~挺久，但还不够久。我都希望他一出生就被淹死，省得我们痛苦。",
+            "desc": ""
+        },
+        {
+            "hash": 2480590834,
+            "original": "100010100010100010100100100010100100100",
+            "translated": "100010100010100010100100100010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2498724085,
+            "original": "~z~I can't go out and look for chicks without it, but once I'm out I'm in the can most of the night doing rails.",
+            "translated": "~z~没了它我不能出门，但只要我一出门，~n~差不多就是整晚操妞吸粉。",
+            "desc": ""
+        },
+        {
+            "hash": 2537496653,
+            "original": "~z~What did Derrick want to find in Ireland?",
+            "translated": "~z~Derrick想去爱尔兰找什么？",
+            "desc": ""
+        },
+        {
+            "hash": 2545476331,
+            "original": "FCPC1_FRANCIS_GERRY_GG",
+            "translated": "FCPC1_FRANCIS_GERRY_GG",
+            "desc": ""
+        },
+        {
+            "hash": 2545759522,
+            "original": "FCPC1_IRELAND_EL",
+            "translated": "FCPC1_IRELAND_EL",
+            "desc": ""
+        },
+        {
+            "hash": 2610838232,
+            "original": "FCPC1_GERRY_BLOOD_HB",
+            "translated": "FCPC1_GERRY_BLOOD_HB",
+            "desc": ""
+        },
+        {
+            "hash": 2633925293,
+            "original": "~z~I remember one night, years ago, a bit after my dad died, he came home covered in blood.",
+            "translated": "~z~我还记得几年前的一个晚上，在我爸死了一段时间后，他浑身是血的回到家。",
+            "desc": ""
+        },
+        {
+            "hash": 2640836768,
+            "original": "~z~I'm not sure - but it didn't do him much good, either way. I think it was because of Derrick.",
+            "translated": "~z~我不清楚，但实际上也没给他什么好处。我想是因为Derrick。",
+            "desc": ""
+        },
+        {
+            "hash": 2641051842,
+            "original": "~z~I think that was when she realized just what we were like - she was young then. She was never quite the same after that.",
+            "translated": "~z~我想她就是在那时候意识到我们的生活的，当时她还小。在那以后她就性情大变了。",
+            "desc": ""
+        },
+        {
+            "hash": 2647975744,
+            "original": "FCPC1_MOM_DENIAL_CD",
+            "translated": "FCPC1_MOM_DENIAL_CD",
+            "desc": ""
+        },
+        {
+            "hash": 2651682576,
+            "original": "FCPC1_FRANCIS_GERRY_GB",
+            "translated": "FCPC1_FRANCIS_GERRY_GB",
+            "desc": ""
+        },
+        {
+            "hash": 2655666512,
+            "original": "FCPC1_GERRY_BLOOD_HC",
+            "translated": "FCPC1_GERRY_BLOOD_HC",
+            "desc": ""
+        },
+        {
+            "hash": 2670347884,
+            "original": "FCPC1_IRELAND_EJ",
+            "translated": "FCPC1_IRELAND_EJ",
+            "desc": ""
+        },
+        {
+            "hash": 2703960894,
+            "original": "~z~Sure - I reckon it is - maybe that's why the world is divided into the drunk and the miserable?",
+            "translated": "~z~当然，我想也是。所以世上才只有喝醉的和痛苦的两种人吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2714141037,
+            "original": "~z~Sure... sure. Chaos we all know about. Gerry was the only one who ever tried to live beyond the chaos.",
+            "translated": "~z~当然...当然了。我们都知道这种混乱。Gerry是唯一一个尝试活在混乱之外的。",
+            "desc": ""
+        },
+        {
+            "hash": 2714956699,
+            "original": "FCPC1_FAM_BG",
+            "translated": "FCPC1_FAM_BG",
+            "desc": ""
+        },
+        {
+            "hash": 2720074445,
+            "original": "~z~This and that, you know? Trying to make ends meet.",
+            "translated": "~z~做这做那的，懂吧？挣钱养家呢。",
+            "desc": ""
+        },
+        {
+            "hash": 2728336308,
+            "original": "~z~Niko boy, Niko.",
+            "translated": "~z~Niko仔，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2729324104,
+            "original": "~z~As long as I don't think about things, fantastic!",
+            "translated": "~z~只要不用我动脑子，就超爽！",
+            "desc": ""
+        },
+        {
+            "hash": 2758874968,
+            "original": "FCPC1_IRELAND_EH",
+            "translated": "FCPC1_IRELAND_EH",
+            "desc": ""
+        },
+        {
+            "hash": 2767152931,
+            "original": "~z~I saw my brother get killed, a long time ago,",
+            "translated": "~z~很久以前我亲眼看着我的兄弟被杀，",
+            "desc": ""
+        },
+        {
+            "hash": 2768918184,
+            "original": "FCPC1_FRANCIS_GERRY_GR",
+            "translated": "FCPC1_FRANCIS_GERRY_GR",
+            "desc": ""
+        },
+        {
+            "hash": 2799463161,
+            "original": "~z~Feel like a man?",
+            "translated": "~z~感觉像个普通人？",
+            "desc": ""
+        },
+        {
+            "hash": 2800334287,
+            "original": "FCPC1_FRANCIS_PRIEST_DS",
+            "translated": "FCPC1_FRANCIS_PRIEST_DS",
+            "desc": ""
+        },
+        {
+            "hash": 2808216486,
+            "original": "FCPC1_MOM_DENIAL_CE",
+            "translated": "FCPC1_MOM_DENIAL_CE",
+            "desc": ""
+        },
+        {
+            "hash": 2824500278,
+            "original": "~z~You're not very cheerful today.",
+            "translated": "~z~你今天好像心情不太好。",
+            "desc": ""
+        },
+        {
+            "hash": 2829738169,
+            "original": "~z~There is a lot that I am never going to understand, Packie. A whole fucking lot.",
+            "translated": "~z~有很多东西是我这辈子都搞不懂的，Packie。太他妈多了。",
+            "desc": ""
+        },
+        {
+            "hash": 2830355837,
+            "original": "FCPC1_SEX_AK",
+            "translated": "FCPC1_SEX_AK",
+            "desc": ""
+        },
+        {
+            "hash": 2836651491,
+            "original": "100010100010100100010100100100100010100100100010100190",
+            "translated": "100010100010100100010100100100100010100100100010100190",
+            "desc": ""
+        },
+        {
+            "hash": 2909812326,
+            "original": "FCPC1_SEX_AE",
+            "translated": "FCPC1_SEX_AE",
+            "desc": ""
+        },
+        {
+            "hash": 2909960380,
+            "original": "FCPC1_GRASS_FJ",
+            "translated": "FCPC1_GRASS_FJ",
+            "desc": ""
+        },
+        {
+            "hash": 2932885128,
+            "original": "~z~Maybe.",
+            "translated": "~z~也许吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2965208143,
+            "original": "FCPC1_FRANCIS_PRIEST_DQ",
+            "translated": "FCPC1_FRANCIS_PRIEST_DQ",
+            "desc": ""
+        },
+        {
+            "hash": 2969029339,
+            "original": "~z~Sometimes, I think that is true for all of us.",
+            "translated": "~z~有时候我觉得这句话对所有人都适用。",
+            "desc": ""
+        },
+        {
+            "hash": 2980617434,
+            "original": "~z~Then he looks up and he sees Katie huddled up in the corner crying and shaking.",
+            "translated": "~z~然后他抬头看见Katie缩在角落里边哭边发抖。",
+            "desc": ""
+        },
+        {
+            "hash": 3023159161,
+            "original": "~z~That might be a good idea, man.",
+            "translated": "~z~这倒是个好主意，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 3025780521,
+            "original": "~z~You still in contact with your family back in... wherever?",
+            "translated": "~z~你还在和老家的亲戚联络吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3027311793,
+            "original": "~z~Okay, you know?",
+            "translated": "~z~还可以吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3116204683,
+            "original": "FCPC1_MOM_DENIAL_CA",
+            "translated": "FCPC1_MOM_DENIAL_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3127216199,
+            "original": "FCPC1_FRANCIS_PRIEST_DG",
+            "translated": "FCPC1_FRANCIS_PRIEST_DG",
+            "desc": ""
+        },
+        {
+            "hash": 3157697704,
+            "original": "FCPC1_GRASS_FM",
+            "translated": "FCPC1_GRASS_FM",
+            "desc": ""
+        },
+        {
+            "hash": 3170074630,
+            "original": "~z~No?",
+            "translated": "~z~不一样了？",
+            "desc": ""
+        },
+        {
+            "hash": 3190608591,
+            "original": "~z~With what's left of them. I am not so lucky to have my whole family in one city.",
+            "translated": "~z~只和还活着的有联络。我可没好运到全家都在同一个城市。",
+            "desc": ""
+        },
+        {
+            "hash": 3204167552,
+            "original": "~z~It ended when they was in the kitchen, Gerry was on top just smashing Frankie's head into the floor.",
+            "translated": "~z~打到厨房以后才结束的，Gerry都快要把Frankie的脑袋往地上敲了。",
+            "desc": ""
+        },
+        {
+            "hash": 3217747552,
+            "original": "100100010100100100100010100010100100100010100",
+            "translated": "100100010100100100100010100010100100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 3221904570,
+            "original": "FCPC1_SEX_AF",
+            "translated": "FCPC1_SEX_AF",
+            "desc": ""
+        },
+        {
+            "hash": 3230242995,
+            "original": "FCPC1_FRANCIS_PRIEST_DD",
+            "translated": "FCPC1_FRANCIS_PRIEST_DD",
+            "desc": ""
+        },
+        {
+            "hash": 3246086668,
+            "original": "~z~I got to cut down on the shit.",
+            "translated": "~z~我该少抽点这玩意了。",
+            "desc": ""
+        },
+        {
+            "hash": 3291072051,
+            "original": "~z~What's going on, Niko?",
+            "translated": "~z~最近怎么样，Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 3315097220,
+            "original": "~z~You're good people. I like it how you have stayed together.",
+            "translated": "~z~你们都是好人。我喜欢你们相处的方式。",
+            "desc": ""
+        },
+        {
+            "hash": 3329293644,
+            "original": "FCPC1_IRELAND_EO",
+            "translated": "FCPC1_IRELAND_EO",
+            "desc": ""
+        },
+        {
+            "hash": 3337650095,
+            "original": "~z~I don't know. He loved the stories about the Old Country. The poetry, the songs, the books.",
+            "translated": "~z~不知道。他就喜欢老家的那些故事。诗歌、歌曲、图书。",
+            "desc": ""
+        },
+        {
+            "hash": 3382672422,
+            "original": "~z~Although my dad was both - drunk and miserable. Right fucking idiot.",
+            "translated": "~z~不过我爸两种都占了，既醉又苦。真他妈白痴。",
+            "desc": ""
+        },
+        {
+            "hash": 3430763721,
+            "original": "~z~Yes.",
+            "translated": "~z~对。",
+            "desc": ""
+        },
+        {
+            "hash": 3461362067,
+            "original": "FCPC1_FRANCIS_GERRY_GI",
+            "translated": "FCPC1_FRANCIS_GERRY_GI",
+            "desc": ""
+        },
+        {
+            "hash": 3487462962,
+            "original": "~z~Us McRearys never flew far from the nest, we all stuck close to home.",
+            "translated": "~z~我们McReary家族从不远离自己的家，都待在离家近的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 3539156610,
+            "original": "FCPC1_FRANCIS_PRIEST_DE",
+            "translated": "FCPC1_FRANCIS_PRIEST_DE",
+            "desc": ""
+        },
+        {
+            "hash": 3545236577,
+            "original": "FCPC1_SEX_AC",
+            "translated": "FCPC1_SEX_AC",
+            "desc": ""
+        },
+        {
+            "hash": 3558172170,
+            "original": "~z~What makes him different?",
+            "translated": "~z~他有什么不同的地方吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3578954010,
+            "original": "~z~Liberty City was never enough for him. He was always a dreamer.",
+            "translated": "~z~自由城对他远远不够。他一直都是个梦想家。",
+            "desc": ""
+        },
+        {
+            "hash": 3643521614,
+            "original": "FCPC1_FRANCIS_GERRY_GN",
+            "translated": "FCPC1_FRANCIS_GERRY_GN",
+            "desc": ""
+        },
+        {
+            "hash": 3649865380,
+            "original": "~z~Ma didn't even flinch. She just sat there. The next week, Gerald's place at the table was empty.",
+            "translated": "~z~妈看了动都没动，就坐在那儿。后一周，Gerald在桌上的位置就没东西了。",
+            "desc": ""
+        },
+        {
+            "hash": 3661407791,
+            "original": "FCPC1_IRELAND_EA",
+            "translated": "FCPC1_IRELAND_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3774587096,
+            "original": "FCPC1_SEX_AD",
+            "translated": "FCPC1_SEX_AD",
+            "desc": ""
+        },
+        {
+            "hash": 3776842139,
+            "original": "FCPC1_GERRY_BLOOD_HR",
+            "translated": "FCPC1_GERRY_BLOOD_HR",
+            "desc": ""
+        },
+        {
+            "hash": 3796039764,
+            "original": "~z~Sure - great apart from all the blood and the guilt hey... kind of messed up, this kind of life isn't it?",
+            "translated": "~z~当然，抛开那些血迹和罪行的话就挺好...是有点糟吧，这种生活？",
+            "desc": ""
+        },
+        {
+            "hash": 3802003044,
+            "original": "FCPC1_FRANCIS_GERRY_GH",
+            "translated": "FCPC1_FRANCIS_GERRY_GH",
+            "desc": ""
+        },
+        {
+            "hash": 3809694369,
+            "original": "FCPC1_IRELAND_EM",
+            "translated": "FCPC1_IRELAND_EM",
+            "desc": ""
+        },
+        {
+            "hash": 3816882330,
+            "original": "~z~There was a look in their eyes. It was fucking animal.",
+            "translated": "~z~他们没有收手。眼里都有一种目光，是他妈野兽的目光。",
+            "desc": ""
+        },
+        {
+            "hash": 3824530729,
+            "original": "FCPC1_IRELAND_ED",
+            "translated": "FCPC1_IRELAND_ED",
+            "desc": ""
+        },
+        {
+            "hash": 3845443320,
+            "original": "FCPC1_FRANCIS_GERRY_GK",
+            "translated": "FCPC1_FRANCIS_GERRY_GK",
+            "desc": ""
+        },
+        {
+            "hash": 3866884881,
+            "original": "FCPC1_MOM_DENIAL_CF",
+            "translated": "FCPC1_MOM_DENIAL_CF",
+            "desc": ""
+        },
+        {
+            "hash": 3877643445,
+            "original": "~z~That's probably why he got into smack. Took him to another world.",
+            "translated": "~z~可能就是因此他才会沾上海洛因。能带他去另一个世界。",
+            "desc": ""
+        },
+        {
+            "hash": 3910272486,
+            "original": "~z~Be a hero with feet of clay or be a drunk and a thug and a killer,",
+            "translated": "~z~做一个外强中干的英雄？还是醉醺醺的杀手混混？",
+            "desc": ""
+        },
+        {
+            "hash": 3941004175,
+            "original": "FCPC1_MOM_DENIAL_CJ",
+            "translated": "FCPC1_MOM_DENIAL_CJ",
+            "desc": ""
+        },
+        {
+            "hash": 3943210139,
+            "original": "~z~Maybe sometimes, I mainly try to focus my need to destroy things onto other people.",
+            "translated": "~z~也许有吧，我一般会把破坏欲发泄在别人身上。",
+            "desc": ""
+        },
+        {
+            "hash": 3952793733,
+            "original": "~z~Francis tried to get me on his side, team up against the other two he said, but I wasn't having any of it.",
+            "translated": "~z~Francis也拉拢过我，想要抱团对抗他俩。不过我完全没接受。",
+            "desc": ""
+        },
+        {
+            "hash": 3957927655,
+            "original": "~z~It's this fucking chop that's screwing me at the moment.",
+            "translated": "~z~现在我他妈被这些大麻烟搞得很心烦。",
+            "desc": ""
+        },
+        {
+            "hash": 3962561458,
+            "original": "FCPC1_IRELAND_EN",
+            "translated": "FCPC1_IRELAND_EN",
+            "desc": ""
+        },
+        {
+            "hash": 3974016328,
+            "original": "~z~She must be a strong woman.",
+            "translated": "~z~她一定是个坚强的女性。",
+            "desc": ""
+        },
+        {
+            "hash": 3982554009,
+            "original": "FCPC1_GERRY_BLOOD_HS",
+            "translated": "FCPC1_GERRY_BLOOD_HS",
+            "desc": ""
+        },
+        {
+            "hash": 4007663780,
+            "original": "~z~I think I do.",
+            "translated": "~z~我想懂了。",
+            "desc": ""
+        },
+        {
+            "hash": 4072827707,
+            "original": "FCPC1_FRANCIS_GERRY_GL",
+            "translated": "FCPC1_FRANCIS_GERRY_GL",
+            "desc": ""
+        },
+        {
+            "hash": 4083628577,
+            "original": "~z~All of us except for Francis. We stayed together when it was possible.",
+            "translated": "~z~除了Francis。还能在一起的时候我们倒在一起。",
+            "desc": ""
+        },
+        {
+            "hash": 4090144192,
+            "original": "~z~And then went into hiding, for years.",
+            "translated": "~z~然后就躲了好多年。",
+            "desc": ""
+        },
+        {
+            "hash": 4092790779,
+            "original": "FCPC1_MOM_DENIAL_CL",
+            "translated": "FCPC1_MOM_DENIAL_CL",
+            "desc": ""
+        },
+        {
+            "hash": 4107048454,
+            "original": "FCPC1_SEX_AM",
+            "translated": "FCPC1_SEX_AM",
+            "desc": ""
+        },
+        {
+            "hash": 4124710012,
+            "original": "FCPC1_FAM_BE",
+            "translated": "FCPC1_FAM_BE",
+            "desc": ""
+        },
+        {
+            "hash": 4130166085,
+            "original": "~z~You alright Niko boy?",
+            "translated": "~z~你还好吧，Niko仔？",
+            "desc": ""
+        },
+        {
+            "hash": 4140903297,
+            "original": "~z~Usual kind of chaos.",
+            "translated": "~z~一如既往的混乱。",
+            "desc": ""
+        },
+        {
+            "hash": 4148061996,
+            "original": "FCPC1_GRASS_FD",
+            "translated": "FCPC1_GRASS_FD",
+            "desc": ""
+        },
+        {
+            "hash": 4155313181,
+            "original": "FCPC1_FRANCIS_PRIEST_DA",
+            "translated": "FCPC1_FRANCIS_PRIEST_DA",
+            "desc": ""
+        },
+        {
+            "hash": 4172818712,
+            "original": "FCPC1_FRANCIS_GERRY_GC",
+            "translated": "FCPC1_FRANCIS_GERRY_GC",
+            "desc": ""
+        },
+        {
+            "hash": 4183072869,
+            "original": "FCPC1_FAM_BI",
+            "translated": "FCPC1_FAM_BI",
+            "desc": ""
+        },
+        {
+            "hash": 4197137120,
+            "original": "~z~Aren't we all, Niko. Aren't we all.",
+            "translated": "~z~我们都这样啊，Niko。都这样。",
+            "desc": ""
+        },
+        {
+            "hash": 4201457820,
+            "original": "~z~But then, what's the alternative?",
+            "translated": "~z~然后呢，有别的出路吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4253721458,
+            "original": "FCPC1_FRANCIS_GERRY_GS",
+            "translated": "FCPC1_FRANCIS_GERRY_GS",
+            "desc": ""
+        },
+        {
+            "hash": 4266037507,
+            "original": "100010100100100100010100010100100100010",
+            "translated": "100010100100100100010100010100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 4274632471,
+            "original": "~z~People don't change, do they?",
+            "translated": "~z~本性难移，不是吗？",
+            "desc": ""
+        }
+    ]
+}

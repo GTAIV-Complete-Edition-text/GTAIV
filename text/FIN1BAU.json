@@ -1,0 +1,580 @@
+{
+    "FIN1BAU": [
+        {
+            "hash": 117062559,
+            "original": "FIN1B_QC",
+            "translated": "FIN1B_QC",
+            "desc": ""
+        },
+        {
+            "hash": 175894397,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 239501654,
+            "original": "~z~Hey, you ain't got no business here.",
+            "translated": "~z~嘿，这里不关你事。",
+            "desc": ""
+        },
+        {
+            "hash": 301240305,
+            "original": "~z~We have other business to finish.",
+            "translated": "~z~我们还有别的事要解决。",
+            "desc": ""
+        },
+        {
+            "hash": 312202355,
+            "original": "FIN1B_ID",
+            "translated": "FIN1B_ID",
+            "desc": ""
+        },
+        {
+            "hash": 313194692,
+            "original": "~z~You don't need to do this.",
+            "translated": "~z~没必要这么绝的。",
+            "desc": ""
+        },
+        {
+            "hash": 327476985,
+            "original": "FIN1B_IE",
+            "translated": "FIN1B_IE",
+            "desc": ""
+        },
+        {
+            "hash": 341152752,
+            "original": "~z~I'll be there Roman, don't worry.",
+            "translated": "~z~我会来的，Roman。别担心。",
+            "desc": ""
+        },
+        {
+            "hash": 392272094,
+            "original": "FIN1B_KA",
+            "translated": "FIN1B_KA",
+            "desc": ""
+        },
+        {
+            "hash": 507416551,
+            "original": "~z~I didn't mean nothing. Please.",
+            "translated": "~z~我不是故意的，求你了。",
+            "desc": ""
+        },
+        {
+            "hash": 600583575,
+            "original": "FIN1D_VA_XXX1",
+            "translated": "FIN1D_VA_XXX1",
+            "desc": ""
+        },
+        {
+            "hash": 604156941,
+            "original": "~z~Hey Dimitri, I don't think I'll be doing this deal with you.",
+            "translated": "~z~喂，Dimitri，我不太想跟你合作交易。",
+            "desc": ""
+        },
+        {
+            "hash": 629421645,
+            "original": "~z~I will see you at the wedding, yes? Remember to wear a suit.",
+            "translated": "~z~我们婚礼上见好吧？记得穿正装。",
+            "desc": ""
+        },
+        {
+            "hash": 667919113,
+            "original": "~z~It was a long time ago that I pissed you off. Forget about it.",
+            "translated": "~z~大人不计小人过，放了我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 730889414,
+            "original": "~z~We have intruder, lock down cargo hold.",
+            "translated": "~z~我们有入侵者，封锁货仓。",
+            "desc": ""
+        },
+        {
+            "hash": 742309190,
+            "original": "~z~You don't belong here, Slav.",
+            "translated": "~z~你不属于这儿，斯拉夫人。",
+            "desc": ""
+        },
+        {
+            "hash": 762529518,
+            "original": "~z~America does not change everyone.",
+            "translated": "~z~美国并不会改变所有人。",
+            "desc": ""
+        },
+        {
+            "hash": 977427956,
+            "original": "FIN1B_IA",
+            "translated": "FIN1B_IA",
+            "desc": ""
+        },
+        {
+            "hash": 1014901619,
+            "original": "490",
+            "translated": "490",
+            "desc": ""
+        },
+        {
+            "hash": 1041569081,
+            "original": "~z~I told you to piss off.",
+            "translated": "~z~跟你说了，滚蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 1068919668,
+            "original": "~z~Niko, it's been a long time. I thought your time in America might have calmed you down.",
+            "translated": "~z~Niko，好久没见了。我还以为你在美国这么久已经冷静下来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1103876934,
+            "original": "590",
+            "translated": "590",
+            "desc": ""
+        },
+        {
+            "hash": 1256903128,
+            "original": "FIN1B_IH",
+            "translated": "FIN1B_IH",
+            "desc": ""
+        },
+        {
+            "hash": 1260290628,
+            "original": "~z~That is what you will be when you die here.",
+            "translated": "~z~待会儿你死了，还是这个样子。",
+            "desc": ""
+        },
+        {
+            "hash": 1265920594,
+            "original": "~z~Go easy on me. We were friends, remember?",
+            "translated": "~z~放了我吧。我们交过朋友啊，记得吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1293686518,
+            "original": "~z~~c~Stupid motherfucker.",
+            "translated": "~z~~c~傻逼儿子。",
+            "desc": ""
+        },
+        {
+            "hash": 1305827870,
+            "original": "490",
+            "translated": "490",
+            "desc": ""
+        },
+        {
+            "hash": 1322176563,
+            "original": "~z~Your ship has sailed, Rascalov.",
+            "translated": "~z~为时已晚，Rascalov。",
+            "desc": ""
+        },
+        {
+            "hash": 1336374176,
+            "original": "~z~Don't do it.",
+            "translated": "~z~别开枪。",
+            "desc": ""
+        },
+        {
+            "hash": 1341405431,
+            "original": "~z~Dimitri say I have to kill you now, too bad.",
+            "translated": "~z~Dimitri说我现在必须杀了你，太糟了。",
+            "desc": ""
+        },
+        {
+            "hash": 1355177711,
+            "original": "FIN1B_IG",
+            "translated": "FIN1B_IG",
+            "desc": ""
+        },
+        {
+            "hash": 1375735624,
+            "original": "~z~I guess you did what you felt you had to do. No deal, no money, no hot tubs and models.",
+            "translated": "~z~那你还是跟随了自己内心的指引喽。没有交易，没有钱，没有浴缸，没有辣模。",
+            "desc": ""
+        },
+        {
+            "hash": 1568286459,
+            "original": "~z~Look at you, you arrived in this country a spineless rat who would sell out his friends.",
+            "translated": "~z~比如你，你来美国时是个没骨气的两面三刀的老鼠。",
+            "desc": ""
+        },
+        {
+            "hash": 1569669776,
+            "original": "FIN1B_NC",
+            "translated": "FIN1B_NC",
+            "desc": ""
+        },
+        {
+            "hash": 1632480739,
+            "original": "~z~So it seems it ends where it began.",
+            "translated": "~z~看来最终是在起点落下了帷幕。",
+            "desc": ""
+        },
+        {
+            "hash": 1638521954,
+            "original": "~z~You should have listened you dumb Slav, now you dead.",
+            "translated": "~z~真不识相啊，斯拉夫白痴，现在你完了。",
+            "desc": ""
+        },
+        {
+            "hash": 1678914587,
+            "original": "~z~~c~Get all of the heroin packed. We're shipping it tonight.",
+            "translated": "~z~~c~把所有海洛因都装好，今晚就要运走。",
+            "desc": ""
+        },
+        {
+            "hash": 1728951019,
+            "original": "~z~Get out of here, we don't need no more hands.",
+            "translated": "~z~滚开，用不着你帮忙。",
+            "desc": ""
+        },
+        {
+            "hash": 1882363598,
+            "original": "~z~Dimtri, where are you, you rat?",
+            "translated": "~z~Dimtri，出来啊，懦夫！",
+            "desc": ""
+        },
+        {
+            "hash": 2027937222,
+            "original": "~z~~c~Shut up this Balkan cock sucker.",
+            "translated": "~z~~c~杀了这个巴尔干狗崽子。",
+            "desc": ""
+        },
+        {
+            "hash": 2052714865,
+            "original": "~z~You're the one who's going to learn a lesson. People aren't going to be happy if you kill me.",
+            "translated": "~z~该明白的人是你吧。杀了我会有人不高兴的。",
+            "desc": ""
+        },
+        {
+            "hash": 2094521983,
+            "original": "~z~I got orders that says you don't come on this ship.",
+            "translated": "~z~我接到的命令说你不能上船。",
+            "desc": ""
+        },
+        {
+            "hash": 2127227101,
+            "original": "~z~But Dimitri will not bother you again.",
+            "translated": "~z~但Dimitri不会再来添堵了。",
+            "desc": ""
+        },
+        {
+            "hash": 2164831398,
+            "original": "~z~I have been looking forward to killing you for so long, Rascalov.",
+            "translated": "~z~我早就想杀了你了，Rascalov。",
+            "desc": ""
+        },
+        {
+            "hash": 2238592958,
+            "original": "FIN1B_JA",
+            "translated": "FIN1B_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2239596472,
+            "original": "~z~You're about to learn a lesson, actions have consequences.",
+            "translated": "~z~你马上就会明白了：出来混，迟早要还的。",
+            "desc": ""
+        },
+        {
+            "hash": 2281226886,
+            "original": "~z~Come on Dimtri, I'm here to end this.",
+            "translated": "~z~出来吧，Dimtri，我来就是要结束这一切。",
+            "desc": ""
+        },
+        {
+            "hash": 2288055697,
+            "original": "~z~Dimitri don't want to see you.",
+            "translated": "~z~Dimitri不想见你。",
+            "desc": ""
+        },
+        {
+            "hash": 2321851169,
+            "original": "FIN1B_OA",
+            "translated": "FIN1B_OA",
+            "desc": ""
+        },
+        {
+            "hash": 2332280549,
+            "original": "FIN1B_IB",
+            "translated": "FIN1B_IB",
+            "desc": ""
+        },
+        {
+            "hash": 2391070271,
+            "original": "010010010100100010",
+            "translated": "010010010100100010",
+            "desc": ""
+        },
+        {
+            "hash": 2430380554,
+            "original": "FIN1B_NB",
+            "translated": "FIN1B_NB",
+            "desc": ""
+        },
+        {
+            "hash": 2450724748,
+            "original": "~z~A man is on the boat, watch for him.",
+            "translated": "~z~有人上船了，当心。",
+            "desc": ""
+        },
+        {
+            "hash": 2463108098,
+            "original": "~z~We must stop him from getting into the hold.",
+            "translated": "~z~我们要阻止他进入货仓。",
+            "desc": ""
+        },
+        {
+            "hash": 2598294067,
+            "original": "100010010100010010010100",
+            "translated": "100010010100010010010100",
+            "desc": ""
+        },
+        {
+            "hash": 2606369740,
+            "original": "~z~You're fucking a lot of people over by killing me.",
+            "translated": "~z~你杀我会惹上很多人。",
+            "desc": ""
+        },
+        {
+            "hash": 2636333425,
+            "original": "FIN1B_PA",
+            "translated": "FIN1B_PA",
+            "desc": ""
+        },
+        {
+            "hash": 2647181410,
+            "original": "FIN1B_NF",
+            "translated": "FIN1B_NF",
+            "desc": ""
+        },
+        {
+            "hash": 2650716346,
+            "original": "~z~I've never been popular. I don't mean to start now.",
+            "translated": "~z~我向来不受待见，以后也没必要。",
+            "desc": ""
+        },
+        {
+            "hash": 2655186714,
+            "original": "~z~I would never have trusted you again, you snake.",
+            "translated": "~z~我不会再相信你了，你这小人。",
+            "desc": ""
+        },
+        {
+            "hash": 2728828921,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 2839034070,
+            "original": "~z~He is going for Dimitri.",
+            "translated": "~z~他是去找Dimitri的。",
+            "desc": ""
+        },
+        {
+            "hash": 2842775455,
+            "original": "~z~Shame that'll be the second last thing that goes into your head. Goodbye.",
+            "translated": "~z~可惜之后会进入你大脑的就只有子弹了。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2858434567,
+            "original": "~z~I killed Dimitri, it's over. He was on the Platypus, the boat I arrived in Liberty City on.",
+            "translated": "~z~我杀了Dimitri，都结束了。他就在Platypus号上，我来自由城时坐的船。",
+            "desc": ""
+        },
+        {
+            "hash": 2867972166,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2887057729,
+            "original": "FIN1B_LA",
+            "translated": "FIN1B_LA",
+            "desc": ""
+        },
+        {
+            "hash": 2893319409,
+            "original": "FIN1B_QE",
+            "translated": "FIN1B_QE",
+            "desc": ""
+        },
+        {
+            "hash": 2895425089,
+            "original": "~z~Think about Pegorino, he's got nothing without this deal.",
+            "translated": "~z~别忘了Pegorino，没有交易他就要空手而归了。",
+            "desc": ""
+        },
+        {
+            "hash": 2927755947,
+            "original": "~z~Secure the cargo hold. There is an unknown on the ship.",
+            "translated": "~z~守好船舱，船上有个陌生人。",
+            "desc": ""
+        },
+        {
+            "hash": 2994611982,
+            "original": "010010100100100010",
+            "translated": "010010100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 3030718819,
+            "original": "FIN1B_IC",
+            "translated": "FIN1B_IC",
+            "desc": ""
+        },
+        {
+            "hash": 3096435637,
+            "original": "~z~I should have put you out of your misery a long time ago. Goodbye, Dimitri.",
+            "translated": "~z~我早就该让你摆脱苦难的。永别了，Dimitri。",
+            "desc": ""
+        },
+        {
+            "hash": 3144015153,
+            "original": "~z~Protect Dimitri and the heroin.",
+            "translated": "~z~保护Dimitri和海洛因。",
+            "desc": ""
+        },
+        {
+            "hash": 3157927664,
+            "original": "FIN1B_QD",
+            "translated": "FIN1B_QD",
+            "desc": ""
+        },
+        {
+            "hash": 3162253776,
+            "original": "FIN1B_QB",
+            "translated": "FIN1B_QB",
+            "desc": ""
+        },
+        {
+            "hash": 3194679355,
+            "original": "~z~We have intruder on the ship, beware.",
+            "translated": "~z~船上有入侵者，当心。",
+            "desc": ""
+        },
+        {
+            "hash": 3222775254,
+            "original": "~z~The shipment must be protected, lock down cargo hold.",
+            "translated": "~z~这次装运一定要好好保护，把货仓封锁好。",
+            "desc": ""
+        },
+        {
+            "hash": 3234085844,
+            "original": "FIN1B_MA",
+            "translated": "FIN1B_MA",
+            "desc": ""
+        },
+        {
+            "hash": 3247606957,
+            "original": "FIN1B_NA",
+            "translated": "FIN1B_NA",
+            "desc": ""
+        },
+        {
+            "hash": 3323677415,
+            "original": "FIN1B_IF",
+            "translated": "FIN1B_IF",
+            "desc": ""
+        },
+        {
+            "hash": 3339568432,
+            "original": "FIN1B_RA",
+            "translated": "FIN1B_RA",
+            "desc": ""
+        },
+        {
+            "hash": 3537292116,
+            "original": "~z~Secure the hold, secure cargo hold. Enter lock down.",
+            "translated": "~z~守好货仓，进入后锁好。",
+            "desc": ""
+        },
+        {
+            "hash": 3584055298,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 3604228708,
+            "original": "~z~You screwed me over, now you're paying for it.",
+            "translated": "~z~你欺骗了我，现在就该还了。",
+            "desc": ""
+        },
+        {
+            "hash": 3691761956,
+            "original": "~z~You had the warning, now you get the bullets.",
+            "translated": "~z~敬酒不吃吃罚酒。",
+            "desc": ""
+        },
+        {
+            "hash": 3802878930,
+            "original": "FIN1B_NE",
+            "translated": "FIN1B_NE",
+            "desc": ""
+        },
+        {
+            "hash": 3809572386,
+            "original": "FIN1B_QA",
+            "translated": "FIN1B_QA",
+            "desc": ""
+        },
+        {
+            "hash": 3844152753,
+            "original": "~z~Hey, come on, we got history.",
+            "translated": "~z~嘿，拜托，我们可有交情啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3861273512,
+            "original": "FIN1B_ND",
+            "translated": "FIN1B_ND",
+            "desc": ""
+        },
+        {
+            "hash": 3877569469,
+            "original": "FIN1B_QF",
+            "translated": "FIN1B_QF",
+            "desc": ""
+        },
+        {
+            "hash": 3988803301,
+            "original": "~z~There is an intruder on the ship.",
+            "translated": "~z~船上有入侵者。",
+            "desc": ""
+        },
+        {
+            "hash": 3999167945,
+            "original": "~z~I promised myself I wouldn't kill nobody today. By coming on ship, you have made me break promise!",
+            "translated": "~z~本来我发誓今天不杀人的。但你上船了，我就只能破戒了！",
+            "desc": ""
+        },
+        {
+            "hash": 4007145759,
+            "original": "~z~Niko, it's not too late, we can work this out!",
+            "translated": "~z~Niko，还来得及，我们可以商量！",
+            "desc": ""
+        },
+        {
+            "hash": 4116058194,
+            "original": "~z~Secure the shipment, lock down the cargo hold.",
+            "translated": "~z~保护这次的装运，封锁好货仓。",
+            "desc": ""
+        },
+        {
+            "hash": 4139696364,
+            "original": "~z~It was never my idea to set you up.",
+            "translated": "~z~我也不想出卖你啊。",
+            "desc": ""
+        },
+        {
+            "hash": 4244287885,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "ROMAN8": [
+        {
+            "hash": 36799639,
+            "original": "~s~You need a car.",
+            "translated": "~s~你需要一辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 56444558,
+            "original": "~s~Chase after ~r~Vlad.",
+            "translated": "~s~追上~r~Vlad。",
+            "desc": ""
+        },
+        {
+            "hash": 335587381,
+            "original": "~s~Vlad is fleeing in his car. Get back to your ~b~vehicle~s~ and chase after him.",
+            "translated": "~s~Vlad开着车跑了。回到你的~b~载具~s~上去追他。",
+            "desc": ""
+        },
+        {
+            "hash": 646335808,
+            "original": "~s~Get back in your ~b~vehicle.",
+            "translated": "~s~回到你的~b~载具~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1061899325,
+            "original": "~s~You've left ~b~Roman ~s~behind.",
+            "translated": "~s~你把~b~Roman~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 1240883603,
+            "original": "~s~When locked on, the reticule will flash if an execution can be performed on the character.",
+            "translated": "~s~若能实施处决，准星在目标锁定时将会闪烁。",
+            "desc": ""
+        },
+        {
+            "hash": 1671238900,
+            "original": "~s~Vlad is fleeing in his car. Get back in ~b~Roman's car~s~ and chase after him.",
+            "translated": "~s~Vlad开着车跑了。返回~b~Roman的车~s~去追他。",
+            "desc": ""
+        },
+        {
+            "hash": 1962063775,
+            "original": "~r~Vlad~s~ is escaping out the back of the bar. Chase after him.",
+            "translated": "~r~Vlad~s~从酒吧后门跑了。追上他。",
+            "desc": ""
+        },
+        {
+            "hash": 2232830462,
+            "original": "~s~Go with Roman and look for Vlad at ~y~Comrades.",
+            "translated": "~s~和Roman一起去~y~Comrades酒吧~s~找Vlad。",
+            "desc": ""
+        },
+        {
+            "hash": 2454057541,
+            "original": "~r~Vlad's~s~ crashed his car. He's trying to escape on foot.",
+            "translated": "~r~Vlad~s~撞坏了他的车。他想要徒步逃跑。",
+            "desc": ""
+        },
+        {
+            "hash": 2593162266,
+            "original": "~r~Roman is out of action.",
+            "translated": "~r~Roman无法行动。",
+            "desc": ""
+        },
+        {
+            "hash": 2841842327,
+            "original": "~s~Go inside the ~y~bar.",
+            "translated": "~s~进入~y~酒吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2900273334,
+            "original": "~s~Go to ~y~Comrades.",
+            "translated": "~s~前往~y~Comrades。",
+            "desc": ""
+        },
+        {
+            "hash": 3140793914,
+            "original": "~s~Wait for ~b~Roman.",
+            "translated": "~s~等待~b~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 3429357728,
+            "original": "~s~Don't let ~r~Vlad~s~ escape.",
+            "translated": "~s~别让~r~Vlad~s~跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 3431655118,
+            "original": "~s~Get in ~b~Roman's car.",
+            "translated": "~s~进入~b~Roman的车。",
+            "desc": ""
+        },
+        {
+            "hash": 3466517778,
+            "original": "~s~To perform an execution on Vlad, lock on to him and fire. When locked on, the reticule will flash if an execution can be performed.",
+            "translated": "~s~锁定Vlad后开火可对Vlad实施处决。若能实施处决，准星在锁定时将会闪烁。",
+            "desc": ""
+        },
+        {
+            "hash": 3588710674,
+            "original": "~s~To perform an execution on Vlad, aim at him and fire. When locked on, the reticule will flash if an execution can be performed.",
+            "translated": "~s~瞄准Vlad后开火可对Vlad实施处决。若能实施处决，准星在锁定时将会闪烁。",
+            "desc": ""
+        },
+        {
+            "hash": 3752230685,
+            "original": "~s~Get to the car, Roman",
+            "translated": "~s~上车，Roman",
+            "desc": ""
+        },
+        {
+            "hash": 3775791600,
+            "original": "~s~When equipped with a pistol, you can perform an execution on certain characters.",
+            "translated": "~s~装备手枪时，你可以对特定角色实施处决。",
+            "desc": ""
+        },
+        {
+            "hash": 3944928886,
+            "original": "~s~Vlad is getting away.",
+            "translated": "~s~Vlad就要跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 4016594693,
+            "original": "~r~Vlad~s~ is getting away.",
+            "translated": "~r~Vlad~s~就要跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 4258593754,
+            "original": "~r~Vlad has escaped.",
+            "translated": "~r~Vlad逃掉了。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,574 @@
+{
+    "G3AUD": [
+        {
+            "hash": 7274145,
+            "original": "~z~Don't let him destroy all the charlie, get the vans out. Now!",
+            "translated": "~z~别让他把货都毁了，开车走人，快！",
+            "desc": ""
+        },
+        {
+            "hash": 69664995,
+            "original": "010100100100",
+            "translated": "010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 83134380,
+            "original": "~z~Get the vans out of here.",
+            "translated": "~z~把车开出去。",
+            "desc": ""
+        },
+        {
+            "hash": 89593150,
+            "original": "~z~The product is packed into the frames of the vans,",
+            "translated": "~z~毒品都封装在货车车架上，",
+            "desc": ""
+        },
+        {
+            "hash": 116011500,
+            "original": "~z~In 1972, I should have killed his uncle...",
+            "translated": "~z~1972年的时候我就该杀了他叔叔...",
+            "desc": ""
+        },
+        {
+            "hash": 194458870,
+            "original": "~z~The mayor will be here in a minute, and I have two senators dropping by later.",
+            "translated": "~z~市长一会儿就来，待会儿还有两个议员来看我。",
+            "desc": ""
+        },
+        {
+            "hash": 235012190,
+            "original": "192",
+            "translated": "192",
+            "desc": ""
+        },
+        {
+            "hash": 238589598,
+            "original": "~z~Make sure we don't lose the product.",
+            "translated": "~z~别让他把货都毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 318851610,
+            "original": "~z~but I spared him, and this is how he repays me? Unbelievable!",
+            "translated": "~z~但我放了他，他现在就这么报答我？不可理喻！",
+            "desc": ""
+        },
+        {
+            "hash": 333813973,
+            "original": "~z~Look after the product.",
+            "translated": "~z~注意货物。",
+            "desc": ""
+        },
+        {
+            "hash": 379500493,
+            "original": "~z~For you? I've got a real gift for you.",
+            "translated": "~z~报酬？我给你准备了一份大礼。",
+            "desc": ""
+        },
+        {
+            "hash": 382520157,
+            "original": "~z~Of course, you guys already know each other...",
+            "translated": "~z~当然，你俩早就认识了...",
+            "desc": ""
+        },
+        {
+            "hash": 477770529,
+            "original": "~z~Protect the stuff.",
+            "translated": "~z~保护货物。",
+            "desc": ""
+        },
+        {
+            "hash": 536758924,
+            "original": "~z~parked at a grocery warehouse in Alderney City.",
+            "translated": "~z~停在Alderney市的一个杂货仓库里。",
+            "desc": ""
+        },
+        {
+            "hash": 581318919,
+            "original": "~z~Make this bastard pay for what he's done.",
+            "translated": "~z~让这混蛋为他的行为偿命。",
+            "desc": ""
+        },
+        {
+            "hash": 606917628,
+            "original": "G3_GA",
+            "translated": "G3_GA",
+            "desc": ""
+        },
+        {
+            "hash": 612886227,
+            "original": "~z~-you know that...~n~-Ah, Niko!",
+            "translated": "~z~－你也知道...~n~－啊，Niko！",
+            "desc": ""
+        },
+        {
+            "hash": 626585289,
+            "original": "~z~And now he's dealing drugs with Ivan the Goddamn terrible...",
+            "translated": "~z~现在他还跟那个混蛋暴君伊万交易毒品...",
+            "desc": ""
+        },
+        {
+            "hash": 632831098,
+            "original": "~z~He's after the vans.",
+            "translated": "~z~他的目标是货车。",
+            "desc": ""
+        },
+        {
+            "hash": 800390449,
+            "original": "~z~everyone wants the glamor of a bygone age...",
+            "translated": "~z~所有人都想品尝往昔岁月的魅力...",
+            "desc": ""
+        },
+        {
+            "hash": 801395523,
+            "original": "~z~This boy's just cost us a lot of money.",
+            "translated": "~z~这小子让我们损失了一笔巨款。",
+            "desc": ""
+        },
+        {
+            "hash": 834448814,
+            "original": "~z~He blow up the van, shit.",
+            "translated": "~z~他把车炸了，操。",
+            "desc": ""
+        },
+        {
+            "hash": 923528154,
+            "original": "~z~Escape with some of this coke.",
+            "translated": "~z~带上一些可卡因跑路。",
+            "desc": ""
+        },
+        {
+            "hash": 936392734,
+            "original": "G3_BA",
+            "translated": "G3_BA",
+            "desc": ""
+        },
+        {
+            "hash": 997627056,
+            "original": "~z~Interesting friendships you both keep.",
+            "translated": "~z~你们的朋友关系还真有趣。",
+            "desc": ""
+        },
+        {
+            "hash": 1009876179,
+            "original": "G3_JA",
+            "translated": "G3_JA",
+            "desc": ""
+        },
+        {
+            "hash": 1010827840,
+            "original": "~z~Take the vans away from here.",
+            "translated": "~z~开着货车快走。",
+            "desc": ""
+        },
+        {
+            "hash": 1020863596,
+            "original": "G3_AA",
+            "translated": "G3_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1075911630,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 1213864771,
+            "original": "~z~And for me?",
+            "translated": "~z~报酬呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1226485752,
+            "original": "~z~Niko. Good to see you.",
+            "translated": "~z~Niko，很高兴见到你。",
+            "desc": ""
+        },
+        {
+            "hash": 1230304357,
+            "original": "~z~It's gonna be our heads on the chopping block for this.",
+            "translated": "~z~少一辆车我们都要掉脑袋啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1268123697,
+            "original": "~z~Get him away from the stuff, people.",
+            "translated": "~z~别让他接近货，弟兄们。",
+            "desc": ""
+        },
+        {
+            "hash": 1454116627,
+            "original": "~z~You know how much that was worth?",
+            "translated": "~z~你知道那值多少钱吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1479234669,
+            "original": "~z~Yeah, I heard what you said.",
+            "translated": "~z~嗯，我都听见了。",
+            "desc": ""
+        },
+        {
+            "hash": 1569588564,
+            "original": "~z~That was worth a lot of monies.",
+            "translated": "~z~这没的全是钱啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1579855194,
+            "original": "~z~Protect the vans.",
+            "translated": "~z~保护货车。",
+            "desc": ""
+        },
+        {
+            "hash": 1676989048,
+            "original": "~z~Get this done. Then we'll talk.",
+            "translated": "~z~事情办成，我们再谈。",
+            "desc": ""
+        },
+        {
+            "hash": 1718267536,
+            "original": "~z~This some fucking vigilante shit?",
+            "translated": "~z~这他妈是私法制裁者？",
+            "desc": ""
+        },
+        {
+            "hash": 1769196819,
+            "original": "~z~We don't want to lose the cocaine.",
+            "translated": "~z~别让可卡因有闪失。",
+            "desc": ""
+        },
+        {
+            "hash": 1801071456,
+            "original": "G3_DC",
+            "translated": "G3_DC",
+            "desc": ""
+        },
+        {
+            "hash": 1804106535,
+            "original": "~z~Niko, our friend here is telling me that the Ancelottis are in league with the Russians.",
+            "translated": "~z~Niko，我们的朋友说Ancelotti家族和俄国人结盟了。",
+            "desc": ""
+        },
+        {
+            "hash": 1881457156,
+            "original": "~z~That's one fat pay day gone up in smoke.",
+            "translated": "~z~肥水全都灰飞烟灭了啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1988408685,
+            "original": "G3_DB",
+            "translated": "G3_DB",
+            "desc": ""
+        },
+        {
+            "hash": 1997273254,
+            "original": "~z~Whatever it takes.",
+            "translated": "~z~不惜一切代价。",
+            "desc": ""
+        },
+        {
+            "hash": 2004384885,
+            "original": "G3_EA",
+            "translated": "G3_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2014210632,
+            "original": "~z~He's shooting up the coke, man.",
+            "translated": "~z~他在朝可卡因开枪，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2016424390,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 2024842145,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 2046292630,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 2099225125,
+            "original": "G3_HA",
+            "translated": "G3_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2099645099,
+            "original": "~z~They slipped through your fingers, did they?",
+            "translated": "~z~他们从你指缝中溜走了是吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2175670613,
+            "original": "~z~No shoot until he out from behind the van.",
+            "translated": "~z~等他从货车后面出来再开枪！",
+            "desc": ""
+        },
+        {
+            "hash": 2179583499,
+            "original": "~z~Damn, we lose the van.",
+            "translated": "~z~妈的，损失一辆。",
+            "desc": ""
+        },
+        {
+            "hash": 2214677064,
+            "original": "192",
+            "translated": "192",
+            "desc": ""
+        },
+        {
+            "hash": 2267111886,
+            "original": "G3_DD",
+            "translated": "G3_DD",
+            "desc": ""
+        },
+        {
+            "hash": 2402576544,
+            "original": "~z~We in big trouble if he get other van.",
+            "translated": "~z~他再毁掉一辆车我们就有大麻烦了。",
+            "desc": ""
+        },
+        {
+            "hash": 2414363622,
+            "original": "~z~Everyone. Now did you hear what I said?",
+            "translated": "~z~所有人。我之前说的你听见了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2421371141,
+            "original": "~z~I'm afraid some of that chop is going to make it to the noses of yuppies in Middle America, Mr. Gravelli.",
+            "translated": "~z~恐怕其中一些白粉要到美国中部的雅痞鼻子下了，Gravelli先生。",
+            "desc": ""
+        },
+        {
+            "hash": 2432199548,
+            "original": "G3_DA",
+            "translated": "G3_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2541443187,
+            "original": "G3_KA",
+            "translated": "G3_KA",
+            "desc": ""
+        },
+        {
+            "hash": 2579480077,
+            "original": "~z~The distribution network is a fleet of vans",
+            "translated": "~z~他们的配送网络是一支货车车队，",
+            "desc": ""
+        },
+        {
+            "hash": 2696657504,
+            "original": "192",
+            "translated": "192",
+            "desc": ""
+        },
+        {
+            "hash": 2723439210,
+            "original": "~z~It's all about problems and solutions,",
+            "translated": "~z~主要还是问题和对策，",
+            "desc": ""
+        },
+        {
+            "hash": 2783468591,
+            "original": "~z~I better not fucking die with him thinking he's got the upper hand. Goodbye.",
+            "translated": "~z~我可不想死在他认为自己占了上风的时候。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2824241795,
+            "original": "~z~I'm pleased to be helping you out with this thing you need.",
+            "translated": "~z~很高兴我能帮你找到你要的东西。",
+            "desc": ""
+        },
+        {
+            "hash": 2856552049,
+            "original": "~z~I have put your competitors out of business.",
+            "translated": "~z~我已经让你的竞争对手出局了。",
+            "desc": ""
+        },
+        {
+            "hash": 2965726453,
+            "original": "G3_FA",
+            "translated": "G3_FA",
+            "desc": ""
+        },
+        {
+            "hash": 3021600914,
+            "original": "~z~Fucking Ancelotti is gonna see that as a victory.",
+            "translated": "~z~混蛋Ancelotti会把这当作大捷的。",
+            "desc": ""
+        },
+        {
+            "hash": 3120178654,
+            "original": "~z~You've given a dying man a few minutes of happiness, Niko.",
+            "translated": "~z~你让一个将死之人感受到了一丝快意，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3148677607,
+            "original": "~z~ready to be moved all over the country.",
+            "translated": "~z~随时可以发往全国。",
+            "desc": ""
+        },
+        {
+            "hash": 3159595730,
+            "original": "~z~We lost everything. Make him pay.",
+            "translated": "~z~我们失去了一切！让他付出代价。",
+            "desc": ""
+        },
+        {
+            "hash": 3233178710,
+            "original": "010100100100",
+            "translated": "010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 3236573553,
+            "original": "G3_IA",
+            "translated": "G3_IA",
+            "desc": ""
+        },
+        {
+            "hash": 3269165025,
+            "original": "~z~Shit, he's trying to destroy the stuff.",
+            "translated": "~z~妈的，他想毁掉所有货。",
+            "desc": ""
+        },
+        {
+            "hash": 3407592008,
+            "original": "~z~-but this is no good.~n~-Alright, what's my role in this?",
+            "translated": "~z~－但这次就不行了。~n~－好吧，这次我负责什么？",
+            "desc": ""
+        },
+        {
+            "hash": 3500190568,
+            "original": "G3_ED",
+            "translated": "G3_ED",
+            "desc": ""
+        },
+        {
+            "hash": 3505859707,
+            "original": "~z~Destroy everything.",
+            "translated": "~z~你去销毁所有毒品，",
+            "desc": ""
+        },
+        {
+            "hash": 3535751567,
+            "original": "~z~Normally, I don't care about cocaine, keeps controllable people in power,",
+            "translated": "~z~通常我不会管可卡因，而是利用借此上位的人。",
+            "desc": ""
+        },
+        {
+            "hash": 3559485457,
+            "original": "192",
+            "translated": "192",
+            "desc": ""
+        },
+        {
+            "hash": 3603750767,
+            "original": "~z~We'll speak again when Darko Brevic is in the country.",
+            "translated": "~z~等Darko Brevic运进来了我们再聊。",
+            "desc": ""
+        },
+        {
+            "hash": 3640753209,
+            "original": "~z~This is no good at all.",
+            "translated": "~z~实在太糟了。",
+            "desc": ""
+        },
+        {
+            "hash": 3642773505,
+            "original": "~z~Yeah... very interesting.",
+            "translated": "~z~是啊...很有趣。",
+            "desc": ""
+        },
+        {
+            "hash": 3654008842,
+            "original": "G3_EB",
+            "translated": "G3_EB",
+            "desc": ""
+        },
+        {
+            "hash": 3726594618,
+            "original": "~z~He behind a van, no shoot.",
+            "translated": "~z~他在货车后面，别开枪。",
+            "desc": ""
+        },
+        {
+            "hash": 3731772743,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 3836734832,
+            "original": "~z~So what we're saying is this is a matter of security. National.",
+            "translated": "~z~换句话说，这次是安全问题，国家安全。",
+            "desc": ""
+        },
+        {
+            "hash": 3883653273,
+            "original": "~z~Fuck, get some coke out of here before all is lost.",
+            "translated": "~z~操，能带走多少是多少。",
+            "desc": ""
+        },
+        {
+            "hash": 3973345188,
+            "original": "~z~You will hit van if you shoot. Hold back.",
+            "translated": "~z~开枪会打到货车的。别开枪。",
+            "desc": ""
+        },
+        {
+            "hash": 4011026797,
+            "original": "G3_EC",
+            "translated": "G3_EC",
+            "desc": ""
+        },
+        {
+            "hash": 4053730664,
+            "original": "~z~All coke is lost. Get this fucker.",
+            "translated": "~z~所有可卡因都没了。抓住这个混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 4065255820,
+            "original": "G3_CA",
+            "translated": "G3_CA",
+            "desc": ""
+        },
+        {
+            "hash": 4104392032,
+            "original": "~z~Ancelottis! I know these guys seventy-three years.",
+            "translated": "~z~Ancelotti家族！我认识这伙人七十三年了。",
+            "desc": ""
+        },
+        {
+            "hash": 4207509300,
+            "original": "~z~Get out of here with this coke.",
+            "translated": "~z~带上可卡因快走。",
+            "desc": ""
+        },
+        {
+            "hash": 4255193354,
+            "original": "~z~Everyone wants to pay homage to a dying legend,",
+            "translated": "~z~所有人都想向将逝的传奇致敬，",
+            "desc": ""
+        }
+    ]
+}

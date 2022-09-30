@@ -1,0 +1,1630 @@
+{
+    "FCJAAUD": [
+        {
+            "hash": 14227829,
+            "original": "~z~Yo, can ya take me to East Hook?",
+            "translated": "~z~哟，能送我去East Hook吗？",
+            "desc": ""
+        },
+        {
+            "hash": 19393532,
+            "original": "~z~Whappen? You wanna check out now?",
+            "translated": "~z~咋回事？现在就结账吗？",
+            "desc": ""
+        },
+        {
+            "hash": 51933925,
+            "original": "~z~What, you lose your watch, Niko?",
+            "translated": "~z~怎么，你手表丢了，Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 69303176,
+            "original": "FCJ_ACT_TAKE_BEECHWOOD_CITY",
+            "translated": "FCJ_ACT_TAKE_BEECHWOOD_CITY",
+            "desc": ""
+        },
+        {
+            "hash": 71567288,
+            "original": "FCJ_ACT_LEAVE_CLUB_GENERIC",
+            "translated": "FCJ_ACT_LEAVE_CLUB_GENERIC",
+            "desc": ""
+        },
+        {
+            "hash": 92129603,
+            "original": "~z~Drop me at me home, man.",
+            "translated": "~z~把我送回家吧，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 97875696,
+            "original": "FCJ_ACT_TAKEHOME",
+            "translated": "FCJ_ACT_TAKEHOME",
+            "desc": ""
+        },
+        {
+            "hash": 109986680,
+            "original": "FCJ_ACT_ARRIVEF_HOSPITAL",
+            "translated": "FCJ_ACT_ARRIVEF_HOSPITAL",
+            "desc": ""
+        },
+        {
+            "hash": 145742339,
+            "original": "~z~Can ya take me to Meadows Park?",
+            "translated": "~z~你能带我去草地公园吗？",
+            "desc": ""
+        },
+        {
+            "hash": 147848168,
+            "original": "FCJ_ACT_DARTS_LEAVE_LOST",
+            "translated": "FCJ_ACT_DARTS_LEAVE_LOST",
+            "desc": ""
+        },
+        {
+            "hash": 148023009,
+            "original": "~z~Can ya take me to Rotterdam Hill?",
+            "translated": "~z~你能带我去Rotterdam Hill吗？",
+            "desc": ""
+        },
+        {
+            "hash": 165373087,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 169075086,
+            "original": "~z~Mek we play some pool then?",
+            "translated": "~z~进去打会儿桌球吧？",
+            "desc": ""
+        },
+        {
+            "hash": 174578804,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 182805672,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 186606262,
+            "original": "FCJ_ACT_DIFF_ACTIVITY_NO",
+            "translated": "FCJ_ACT_DIFF_ACTIVITY_NO",
+            "desc": ""
+        },
+        {
+            "hash": 197728046,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 225580337,
+            "original": "~z~We gonna have a good time, me breda.",
+            "translated": "~z~我们会看得很开心的，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 242238108,
+            "original": "~z~Yo, me appreciate that y'know, Niko? Thank you, me see you later, seen?",
+            "translated": "~z~哟，我很感激好吧，Niko。多谢了，待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 246901238,
+            "original": "~z~Me heart bleeds as me ego grow large ya know, me breda.",
+            "translated": "~z~我的心在你输了之后一直在滴血你知道吗，我的好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 253488293,
+            "original": "~z~Whappen rasta, you late ya know. We need fe find a car ya know.",
+            "translated": "~z~怎么回事，好兄弟，你迟到了好吧。先找辆车好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 313958197,
+            "original": "~z~Gwan rude boy!",
+            "translated": "~z~实在是赞啊！",
+            "desc": ""
+        },
+        {
+            "hash": 375700150,
+            "original": "~z~The girl were alright y'know, me breda.",
+            "translated": "~z~这些女孩真的很正点，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 386399444,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 396691480,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 406679234,
+            "original": "~z~Can ye take we home?",
+            "translated": "~z~你能送我回家吗？",
+            "desc": ""
+        },
+        {
+            "hash": 418789515,
+            "original": "FCJ_ACT_TAKE_BOABO",
+            "translated": "FCJ_ACT_TAKE_BOABO",
+            "desc": ""
+        },
+        {
+            "hash": 438080972,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 438982787,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 452599098,
+            "original": "~z~Yo, can ya take me to BOABO, star?",
+            "translated": "~z~哟，你能把我带回BOABO吗，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 455094810,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 457062236,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 466360492,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 503178029,
+            "original": "FCJ_ACT_POOL_LEAVE_WON",
+            "translated": "FCJ_ACT_POOL_LEAVE_WON",
+            "desc": ""
+        },
+        {
+            "hash": 508570194,
+            "original": "FCJ_ACT_HOSPITAL_DROPOFF",
+            "translated": "FCJ_ACT_HOSPITAL_DROPOFF",
+            "desc": ""
+        },
+        {
+            "hash": 509755035,
+            "original": "FCJ_ACT_TAKE_OUTLOOK_PARK",
+            "translated": "FCJ_ACT_TAKE_OUTLOOK_PARK",
+            "desc": ""
+        },
+        {
+            "hash": 520879808,
+            "original": "~z~Darts? For real? Okay.",
+            "translated": "~z~确定要玩飞镖吗？好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 571507304,
+            "original": "~z~Take me to me house please.",
+            "translated": "~z~请送我回家吧。",
+            "desc": ""
+        },
+        {
+            "hash": 584647229,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 616322747,
+            "original": "~z~Nice bike, man.",
+            "translated": "~z~摩托很正，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 657144590,
+            "original": "~z~Why the man late? Let's go.",
+            "translated": "~z~为啥迟到了？走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 660967700,
+            "original": "FCJ_ACT_LEAVE_FASTFOOD",
+            "translated": "FCJ_ACT_LEAVE_FASTFOOD",
+            "desc": ""
+        },
+        {
+            "hash": 720638491,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 729885663,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 755833141,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 803349622,
+            "original": "FCJ_ACT_DARTS_LEAVE_ABANDON",
+            "translated": "FCJ_ACT_DARTS_LEAVE_ABANDON",
+            "desc": ""
+        },
+        {
+            "hash": 816487840,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 817921232,
+            "original": "~z~Yo star, can ya give me a lift to Firefly Island?",
+            "translated": "~z~哟兄弟，能带我去Firefly Island吗？",
+            "desc": ""
+        },
+        {
+            "hash": 822432932,
+            "original": "FCJ_ACT_DROPOFF",
+            "translated": "FCJ_ACT_DROPOFF",
+            "desc": ""
+        },
+        {
+            "hash": 830295922,
+            "original": "~z~Yo, unlucky - but ya know what? At least your breda win.",
+            "translated": "~z~哟，你不走运啊。不过至少你兄弟我赢了。",
+            "desc": ""
+        },
+        {
+            "hash": 868615403,
+            "original": "FCJ_ACT_ARRIVE_STANDARD",
+            "translated": "FCJ_ACT_ARRIVE_STANDARD",
+            "desc": ""
+        },
+        {
+            "hash": 871806068,
+            "original": "~z~You unlucky ya know, star.",
+            "translated": "~z~今天你不走运啊，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 886122473,
+            "original": "~z~Can ye take me back a me home rasta?",
+            "translated": "~z~能送我回家吗，好兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 905553182,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 914164357,
+            "original": "~z~Nah man, me not like all this that gwan right now.",
+            "translated": "~z~算了，兄弟，我现在没那个兴趣。",
+            "desc": ""
+        },
+        {
+            "hash": 918993843,
+            "original": "~z~Niko, you a righteous brother, will you take I back to I apartment?",
+            "translated": "~z~Niko，真是我的好兄弟，能把我送回公寓吗？",
+            "desc": ""
+        },
+        {
+            "hash": 933020343,
+            "original": "FCJ_ACT_DARTS_LEAVE_DRAW",
+            "translated": "FCJ_ACT_DARTS_LEAVE_DRAW",
+            "desc": ""
+        },
+        {
+            "hash": 968937143,
+            "original": "~z~Yo, me done with this y'know, star. Me can't find meself warming up.",
+            "translated": "哟，我受不了了好吧，兄弟。我整个人都不好了。",
+            "desc": ""
+        },
+        {
+            "hash": 989113115,
+            "original": "FCJ_ACT_TAKE_CERVEZA_HEIGHTS",
+            "translated": "FCJ_ACT_TAKE_CERVEZA_HEIGHTS",
+            "desc": ""
+        },
+        {
+            "hash": 990714049,
+            "original": "FCJ_ACT_TAKE_ROTTERDAM_HILL",
+            "translated": "FCJ_ACT_TAKE_ROTTERDAM_HILL",
+            "desc": ""
+        },
+        {
+            "hash": 1024804893,
+            "original": "FCJ_ACT_ARRIVem_NOTLATE",
+            "translated": "FCJ_ACT_ARRIVem_NOTLATE",
+            "desc": ""
+        },
+        {
+            "hash": 1067250115,
+            "original": "~z~Me had a good time, even though the acts was mad.",
+            "translated": "~z~我觉得很开心，虽然节目有点疯狂。",
+            "desc": ""
+        },
+        {
+            "hash": 1068976802,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1136590838,
+            "original": "~z~Me breda, gimme a drop at Hove Beach.",
+            "translated": "~z~好兄弟，把我送到Hove Beach吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1199729210,
+            "original": "~z~Yo, no feel no way star, me a take wi' myself right now.",
+            "translated": "~z~哟，感觉实在不行，我要先回去了。",
+            "desc": ""
+        },
+        {
+            "hash": 1220067087,
+            "original": "~z~The best result - so there's no losers 'round here.",
+            "translated": "~z~最好的结果——平分秋色。",
+            "desc": ""
+        },
+        {
+            "hash": 1224379324,
+            "original": "~z~Him make me laugh!",
+            "translated": "~z~我快笑死了！",
+            "desc": ""
+        },
+        {
+            "hash": 1256867338,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1261637681,
+            "original": "~z~This raas clat!",
+            "translated": "~z~这哥们儿！",
+            "desc": ""
+        },
+        {
+            "hash": 1291431294,
+            "original": "FCJ_ACT_ARRIVE_SHOW_COMEDY",
+            "translated": "FCJ_ACT_ARRIVE_SHOW_COMEDY",
+            "desc": ""
+        },
+        {
+            "hash": 1316508628,
+            "original": "~z~Respect due to you, that was fun.",
+            "translated": "~z~我操他妈的真是爽翻了。",
+            "desc": ""
+        },
+        {
+            "hash": 1324851842,
+            "original": "FCJ_ACT_TAKE_EAST_ISLAND_CITY",
+            "translated": "FCJ_ACT_TAKE_EAST_ISLAND_CITY",
+            "desc": ""
+        },
+        {
+            "hash": 1326032385,
+            "original": "~z~Whappen, me breda? We gonna need a car y'know.",
+            "translated": "~z~怎么了，好兄弟？搞辆车子好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1327601265,
+            "original": "~z~We have fun in here.",
+            "translated": "~z~进去爽一爽吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1350188235,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1359663784,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1394257670,
+            "original": "FCJ_ACT_ARRIVE_HOSPITAL",
+            "translated": "FCJ_ACT_ARRIVE_HOSPITAL",
+            "desc": ""
+        },
+        {
+            "hash": 1409485723,
+            "original": "~z~Yo, next time, let's finish the game before we check out.",
+            "translated": "~z~哟，下次我们打完一局再结账好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1417419145,
+            "original": "FCJ_ACT_BORED_LEAVING",
+            "translated": "FCJ_ACT_BORED_LEAVING",
+            "desc": ""
+        },
+        {
+            "hash": 1432418606,
+            "original": "~z~Yo, you're late y'know, rasta. Yo, we need a car y'know.",
+            "translated": "~z~哟，你迟到了，好兄弟。哟，找辆车子来好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1443963564,
+            "original": "~z~Yo, that place I for real y'know. Even though it full o' spree boys.",
+            "translated": "~z~哟，这家店好棒，虽然里面的人很多。",
+            "desc": ""
+        },
+        {
+            "hash": 1446849880,
+            "original": "FCJ_ACT_TAKE_SOUTH_SLOPES",
+            "translated": "FCJ_ACT_TAKE_SOUTH_SLOPES",
+            "desc": ""
+        },
+        {
+            "hash": 1463922051,
+            "original": "FCJ_ACT_TAKE_FIREFLY_PROJECTS",
+            "translated": "FCJ_ACT_TAKE_FIREFLY_PROJECTS",
+            "desc": ""
+        },
+        {
+            "hash": 1482852712,
+            "original": "~z~Yo, me need a drop to Meadow Hills.",
+            "translated": "~z~哟，麻烦送我去Meadow Hills。",
+            "desc": ""
+        },
+        {
+            "hash": 1494263385,
+            "original": "~z~Is all good with a draw.",
+            "translated": "~z~平局也挺好的。",
+            "desc": ""
+        },
+        {
+            "hash": 1498249029,
+            "original": "FCJ_ACT_ARRIVEF_NOTLATE",
+            "translated": "FCJ_ACT_ARRIVEF_NOTLATE",
+            "desc": ""
+        },
+        {
+            "hash": 1505136646,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1507995023,
+            "original": "~z~Yo, this is some funny shit y'know, star.",
+            "translated": "~z~哟，实在太好笑了，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 1527227014,
+            "original": "~z~Sorry, me breda.",
+            "translated": "~z~不好意思，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1529402332,
+            "original": "~z~What this?",
+            "translated": "~z~这什么？",
+            "desc": ""
+        },
+        {
+            "hash": 1530946819,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1547950614,
+            "original": "~z~Yo. Good seeing ya, ya know rasta.",
+            "translated": "~z~哟，跟你玩太开心了，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1550908120,
+            "original": "~z~Darts and ting! Come on, star!",
+            "translated": "~z~玩飞镖啊！来啊好兄弟！",
+            "desc": ""
+        },
+        {
+            "hash": 1563641776,
+            "original": "~z~Nice bike, rasta.",
+            "translated": "~z~摩托很正，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1589431497,
+            "original": "FCJ_ACT_TAKE_DOWNTOWN",
+            "translated": "FCJ_ACT_TAKE_DOWNTOWN",
+            "desc": ""
+        },
+        {
+            "hash": 1593404070,
+            "original": "FCJ_ACT_ARRIVE_CLUCK",
+            "translated": "FCJ_ACT_ARRIVE_CLUCK",
+            "desc": ""
+        },
+        {
+            "hash": 1594870650,
+            "original": "~z~Can you drop me off at a Beechwood City.",
+            "translated": "~z~能送我去Beechwood City吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1596554393,
+            "original": "~z~Hey man, take I home.",
+            "translated": "~z~嘿兄弟，送我回家吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1611368618,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1638666621,
+            "original": "~z~One love Niko, thanks for pickin' I an' I up, can ye take I back home?",
+            "translated": "~z~你好啊，Niko。多谢你来接我，你能送我回家吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1648306718,
+            "original": "FCJ_ACT_POOL_LEAVE_DRAW",
+            "translated": "FCJ_ACT_POOL_LEAVE_DRAW",
+            "desc": ""
+        },
+        {
+            "hash": 1657847247,
+            "original": "~z~Yo, this will be a good time y'know, Niko.",
+            "translated": "~z~哟，一定能玩得很高兴，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1670029028,
+            "original": "FCJ_ACT_ARRIVE_CLUB_GENERIC",
+            "translated": "FCJ_ACT_ARRIVE_CLUB_GENERIC",
+            "desc": ""
+        },
+        {
+            "hash": 1670567785,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1672505660,
+            "original": "FCJ_ACT_ARRIVE_PUB_FAVOURITE",
+            "translated": "FCJ_ACT_ARRIVE_PUB_FAVOURITE",
+            "desc": ""
+        },
+        {
+            "hash": 1672909580,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1686127303,
+            "original": "~z~Respect due!",
+            "translated": "~z~太有趣了！",
+            "desc": ""
+        },
+        {
+            "hash": 1695678727,
+            "original": "~z~Yeah, me have a good time ya know, man.",
+            "translated": "~z~哟，我喝得好开心，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1724018259,
+            "original": "FCJ_ACT_ARRIVE_STRIP",
+            "translated": "FCJ_ACT_ARRIVE_STRIP",
+            "desc": ""
+        },
+        {
+            "hash": 1728159798,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1738045679,
+            "original": "FCJ_ACT_TAKE_WILLIS",
+            "translated": "FCJ_ACT_TAKE_WILLIS",
+            "desc": ""
+        },
+        {
+            "hash": 1739467613,
+            "original": "~z~Yo, him are the man ya know. The man incredible.",
+            "translated": "~z~哟，他实在太赞了好吧。实在牛逼。",
+            "desc": ""
+        },
+        {
+            "hash": 1743964551,
+            "original": "FCJ_ACT_TAKE_MEADOWS_PARK",
+            "translated": "FCJ_ACT_TAKE_MEADOWS_PARK",
+            "desc": ""
+        },
+        {
+            "hash": 1748190201,
+            "original": "FCJ_ACT_ARRIVE_SHOW_CABARET",
+            "translated": "FCJ_ACT_ARRIVE_SHOW_CABARET",
+            "desc": ""
+        },
+        {
+            "hash": 1756967979,
+            "original": "~z~Yo me have enough o' this y'know, star. Jus' take I home y'know, Niko.",
+            "translated": "哟，我受够了好吗，兄弟。赶紧送我回家，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1758879401,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1761018052,
+            "original": "~z~Next time, no sheg up the game.",
+            "translated": "~z~下一次，别提前结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 1761070886,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1789326991,
+            "original": "FCJ_ACT_LEAVE_CLUCK",
+            "translated": "FCJ_ACT_LEAVE_CLUCK",
+            "desc": ""
+        },
+        {
+            "hash": 1790010305,
+            "original": "~z~Can you drop me off a' Steinway?",
+            "translated": "~z~你能送我去Steinway吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1791170428,
+            "original": "~z~Let's do this, star!",
+            "translated": "~z~来吧，好兄弟！",
+            "desc": ""
+        },
+        {
+            "hash": 1796453796,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1811268774,
+            "original": "~z~You're late, but let's go anyway.",
+            "translated": "~z~你迟到了，赶紧出发吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1848198122,
+            "original": "~z~Can ya take me Downtown, star?",
+            "translated": "~z~你能带我去中心区吗，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 1853589833,
+            "original": "FCJ_ACT_LEAVE_SHOW_EARLY",
+            "translated": "FCJ_ACT_LEAVE_SHOW_EARLY",
+            "desc": ""
+        },
+        {
+            "hash": 1872934946,
+            "original": "FCJ_ACT_ARRIVE_SHOW_LATE",
+            "translated": "FCJ_ACT_ARRIVE_SHOW_LATE",
+            "desc": ""
+        },
+        {
+            "hash": 1910155617,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1939996025,
+            "original": "FCJ_ACT_LEAVE_PUB_GENERIC",
+            "translated": "FCJ_ACT_LEAVE_PUB_GENERIC",
+            "desc": ""
+        },
+        {
+            "hash": 1948004927,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1967635622,
+            "original": "~z~Yo, me need some transportation to Willis.",
+            "translated": "~z~哟，请送我去Willis。",
+            "desc": ""
+        },
+        {
+            "hash": 1989263916,
+            "original": "~z~Yo easy now, star! Ya the big man.",
+            "translated": "~z~哟，放轻松，好兄弟！你可是大赢家。",
+            "desc": ""
+        },
+        {
+            "hash": 2006602181,
+            "original": "FCJ_ACT_ARRIVEF_LATE",
+            "translated": "FCJ_ACT_ARRIVEF_LATE",
+            "desc": ""
+        },
+        {
+            "hash": 2022171544,
+            "original": "~z~The show's okay.",
+            "translated": "~z~这节目挺好的。",
+            "desc": ""
+        },
+        {
+            "hash": 2040365802,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2056866540,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2074490258,
+            "original": "~z~Take me home star, back to me house.",
+            "translated": "~z~送我回去，兄弟。回我家。",
+            "desc": ""
+        },
+        {
+            "hash": 2117047146,
+            "original": "~z~I and I gonna eat good here.",
+            "translated": "~z~感觉能吃顿好的。",
+            "desc": ""
+        },
+        {
+            "hash": 2138399689,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2141290515,
+            "original": "~z~Yeah, let's go.",
+            "translated": "~z~出发吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2172099950,
+            "original": "~z~Yo, the Bell make the best chicken ya know, bredaman.",
+            "translated": "~z~哟，铛铛钟的炸鸡天下第一，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2183617783,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2192350193,
+            "original": "~z~That's good times, breda.",
+            "translated": "~z~喝得很尽兴，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2192363454,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2205587770,
+            "original": "~z~Me like this kinda place.",
+            "translated": "~z~就喜欢这种店。",
+            "desc": ""
+        },
+        {
+            "hash": 2221435785,
+            "original": "~z~Yo, me have enough o' this star, man. Jus' take I home Niko, no?",
+            "translated": "哟，我已经受够了，兄弟。送我回家好吗，Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 2221486937,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2245127992,
+            "original": "~z~Next time, let's finish up.",
+            "translated": "~z~下次至少打完一局吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2280201364,
+            "original": "~z~Me need a drop to East Island City.",
+            "translated": "~z~麻烦送我去东岛城。",
+            "desc": ""
+        },
+        {
+            "hash": 2282461496,
+            "original": "~z~Easy nuh - that place look fine.",
+            "translated": "~z~还不错，这家店挺高级。",
+            "desc": ""
+        },
+        {
+            "hash": 2298614810,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2300929875,
+            "original": "~z~Well played, rasta!",
+            "translated": "~z~打得真好，兄弟！",
+            "desc": ""
+        },
+        {
+            "hash": 2339816868,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2420129290,
+            "original": "~z~No way, me breda.",
+            "translated": "~z~没门，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2420905470,
+            "original": "FCJ_ACT_LEAVE_SHOW_CABARET",
+            "translated": "FCJ_ACT_LEAVE_SHOW_CABARET",
+            "desc": ""
+        },
+        {
+            "hash": 2427077642,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2453553226,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2493700478,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2499200887,
+            "original": "~z~Niko!",
+            "translated": "~z~Niko！",
+            "desc": ""
+        },
+        {
+            "hash": 2520698563,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2527816635,
+            "original": "~z~Yo, thanks for the lift, me breda.",
+            "translated": "~z~哟，谢谢你来接我，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2544833345,
+            "original": "FCJ_ACT_TAKE_STEINWAY",
+            "translated": "FCJ_ACT_TAKE_STEINWAY",
+            "desc": ""
+        },
+        {
+            "hash": 2574012649,
+            "original": "FCJ_ACT_ARRIVE_DARTS",
+            "translated": "FCJ_ACT_ARRIVE_DARTS",
+            "desc": ""
+        },
+        {
+            "hash": 2592982888,
+            "original": "~z~I and I gonna get drunk and stupid.",
+            "translated": "~z~让我们一醉方休。",
+            "desc": ""
+        },
+        {
+            "hash": 2620792205,
+            "original": "~z~Yo, that are me favourite place ya know, Niko.",
+            "translated": "~z~哟，我最喜欢这里了，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2656550271,
+            "original": "~z~Let's go star.",
+            "translated": "~z~走吧，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2666580102,
+            "original": "FCJ_ACT_POOL_LEAVE_LOST",
+            "translated": "FCJ_ACT_POOL_LEAVE_LOST",
+            "desc": ""
+        },
+        {
+            "hash": 2695857914,
+            "original": "~z~Me breda, drop me at Firefly Projects please.",
+            "translated": "~z~我的兄弟，送我去Firefly公屋社区吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2700491636,
+            "original": "FCJ_ACT_BORED_TAKEHOME",
+            "translated": "FCJ_ACT_BORED_TAKEHOME",
+            "desc": ""
+        },
+        {
+            "hash": 2720277118,
+            "original": "~z~Can you drop me at South Slopes?",
+            "translated": "~z~能送我去South Slopes吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2725972797,
+            "original": "FCJ_ACT_TAKE_HOVE_BEACH",
+            "translated": "FCJ_ACT_TAKE_HOVE_BEACH",
+            "desc": ""
+        },
+        {
+            "hash": 2774922482,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2808882583,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2822376396,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2832333350,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2883716540,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2885511404,
+            "original": "~z~Yo that was a good eating, boy.",
+            "translated": "~z~这饭可真好吃啊，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2887413005,
+            "original": "FCJ_ACT_ARRIVE_LATE",
+            "translated": "FCJ_ACT_ARRIVE_LATE",
+            "desc": ""
+        },
+        {
+            "hash": 2887735566,
+            "original": "~z~Let's get going, me breda.",
+            "translated": "~z~我们走吧，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2894990523,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2915340262,
+            "original": "~z~Yeah a bit risto but, they done most o' their food good, y'know?",
+            "translated": "~z~虽然是家意大利饭店，但菜都很棒吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2927975039,
+            "original": "FCJ_ACT_ARRIVE_POOL",
+            "translated": "FCJ_ACT_ARRIVE_POOL",
+            "desc": ""
+        },
+        {
+            "hash": 2928182967,
+            "original": "FCJ_ACT_ARRIVE_PUB_GENERIC",
+            "translated": "FCJ_ACT_ARRIVE_PUB_GENERIC",
+            "desc": ""
+        },
+        {
+            "hash": 2933482301,
+            "original": "FCJ_ACT_DURING_SHOW_POS",
+            "translated": "FCJ_ACT_DURING_SHOW_POS",
+            "desc": ""
+        },
+        {
+            "hash": 2948212761,
+            "original": "~z~Niko, I legs ain't workin' good right now. Get I some transport for the rasta now?",
+            "translated": "~z~Niko，我的腿已经不听使唤了。能弄给哥们辆车吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2949142874,
+            "original": "~z~Boy, what a idiot.",
+            "translated": "~z~我去，太蠢了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2961537929,
+            "original": "~z~Yo, me love the place ya know, Niko.",
+            "translated": "~z~哟，我很喜欢这家店知道吗，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2975666575,
+            "original": "~z~Next time, we finish up the game.",
+            "translated": "~z~下一次，咱们打完整局吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2979007277,
+            "original": "~z~Alright, mek we see what kind o' lunacy are gwan down here.",
+            "translated": "~z~好了，让我看看这里有什么好戏。",
+            "desc": ""
+        },
+        {
+            "hash": 2993298956,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2994440720,
+            "original": "~z~Yeah man, well done, Niko.",
+            "translated": "~z~呀好兄弟，玩得不错，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3029100636,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3040466647,
+            "original": "FCJ_ACT_LEAVE_SHOW_COMEDY",
+            "translated": "FCJ_ACT_LEAVE_SHOW_COMEDY",
+            "desc": ""
+        },
+        {
+            "hash": 3061517971,
+            "original": "FCJ_ACT_TAKE_AIRPORT",
+            "translated": "FCJ_ACT_TAKE_AIRPORT",
+            "desc": ""
+        },
+        {
+            "hash": 3072738856,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3073685551,
+            "original": "~z~Cluckin' Bell! Nice.",
+            "translated": "~z~铛铛钟！太棒了。",
+            "desc": ""
+        },
+        {
+            "hash": 3141006210,
+            "original": "FCJ_ACT_LEAVE_STRIP_OK",
+            "translated": "FCJ_ACT_LEAVE_STRIP_OK",
+            "desc": ""
+        },
+        {
+            "hash": 3141179255,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3154908548,
+            "original": "~z~Alright, Mr. Mention, me see skettels, brand 'em ya know?",
+            "translated": "~z~好了，懂哥，大屁屁好多，好想大干一场。",
+            "desc": ""
+        },
+        {
+            "hash": 3163522823,
+            "original": "FCJ_ACT_DIFF_DARTS_YES",
+            "translated": "FCJ_ACT_DIFF_DARTS_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3167418981,
+            "original": "~z~Let's go star.",
+            "translated": "~z~出发吧，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3173780297,
+            "original": "~z~Yeah. Yo that were fun y'know, man.",
+            "translated": "~z~耶。哟，太劲了，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3195958982,
+            "original": "~z~Respect!",
+            "translated": "~z~敬他！",
+            "desc": ""
+        },
+        {
+            "hash": 3202620204,
+            "original": "~z~Alright, Mr. Mention, let me see the girl them now.",
+            "translated": "~z~好了，懂哥，我要去看看妹子了。",
+            "desc": ""
+        },
+        {
+            "hash": 3208793891,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3213133802,
+            "original": "FCJ_ACT_ARRIVE_HIGHEND",
+            "translated": "FCJ_ACT_ARRIVE_HIGHEND",
+            "desc": ""
+        },
+        {
+            "hash": 3265899872,
+            "original": "~z~Okay, rasta, let's see what kind of craziness them have tonight.",
+            "translated": "~z~好啦，好兄弟。看看今晚这里会有什么疯狂的节目。",
+            "desc": ""
+        },
+        {
+            "hash": 3283328729,
+            "original": "FCJ_ACT_ARRIVEC_NOTLATE",
+            "translated": "FCJ_ACT_ARRIVEC_NOTLATE",
+            "desc": ""
+        },
+        {
+            "hash": 3287402055,
+            "original": "~z~Yo, thanks for the lift, fire.",
+            "translated": "~z~哟，谢谢你来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 3300633524,
+            "original": "~z~Yo, drop me off at the airport, nuh?",
+            "translated": "~z~哟，送我去机场好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3303656471,
+            "original": "FCJ_ACT_LEAVE_STANDARD",
+            "translated": "FCJ_ACT_LEAVE_STANDARD",
+            "desc": ""
+        },
+        {
+            "hash": 3313643877,
+            "original": "FCJ_ACT_DIFF_POOL_YES",
+            "translated": "FCJ_ACT_DIFF_POOL_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3316668514,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3371236746,
+            "original": "FCJ_ACT_TAKE_MEADOWS_HILLS",
+            "translated": "FCJ_ACT_TAKE_MEADOWS_HILLS",
+            "desc": ""
+        },
+        {
+            "hash": 3371850682,
+            "original": "~z~Cluckin' Bell? I love that shit rasta.",
+            "translated": "~z~铛铛钟？我爱死这里了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3373304939,
+            "original": "~z~Okay, me breda - you want a good laugh? Follow me.",
+            "translated": "~z~好了，好兄弟，你想大笑一场吗？跟我来。",
+            "desc": ""
+        },
+        {
+            "hash": 3373793080,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3389150497,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3405970214,
+            "original": "~z~Yo, that sah, is a great place.",
+            "translated": "~z~哟，这里可是个好地方啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3415010783,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3427082362,
+            "original": "~z~Wha'gwan, me breda? We gonna need some wheels y'know.",
+            "translated": "~z~你好啊，好兄弟。给我们找辆车吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3427757247,
+            "original": "FCJ_ACT_TAKE_EAST_HOOK",
+            "translated": "FCJ_ACT_TAKE_EAST_HOOK",
+            "desc": ""
+        },
+        {
+            "hash": 3434548823,
+            "original": "~z~Pool? It's not what I was thinking but, alright.",
+            "translated": "~z~桌球？和我想的不一样啊，也行。",
+            "desc": ""
+        },
+        {
+            "hash": 3469966896,
+            "original": "~z~Yo. Good choice, me breda.",
+            "translated": "~z~哟，不错的选择，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3494936870,
+            "original": "~z~It's not healthy, but it refreshes the spirit.",
+            "translated": "~z~的确不太健康，但能洗涤我的灵魂。",
+            "desc": ""
+        },
+        {
+            "hash": 3496163165,
+            "original": "~z~That was fun.",
+            "translated": "~z~真高兴。",
+            "desc": ""
+        },
+        {
+            "hash": 3505995401,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3509503854,
+            "original": "~z~It matter more to you than me ya know, rasta.",
+            "translated": "~z~你玩得尽兴就好，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3557834534,
+            "original": "~z~Love a place like this.",
+            "translated": "~z~我超喜欢这种地方。",
+            "desc": ""
+        },
+        {
+            "hash": 3565842490,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3584989125,
+            "original": "FCJ_ACT_POOL_LEAVE_ABANDON",
+            "translated": "FCJ_ACT_POOL_LEAVE_ABANDON",
+            "desc": ""
+        },
+        {
+            "hash": 3588137541,
+            "original": "~z~Man - me love this place y'know.",
+            "translated": "~z~天，我喜欢这家店好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3606766162,
+            "original": "~z~Yeah, that was good for such a risto place, y'know.",
+            "translated": "~z~这家饭店还挺不错的好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3622504884,
+            "original": "~z~Can ya take me to Outlook Park?",
+            "translated": "~z~你能送我去Outlook Park吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3624982619,
+            "original": "~z~Niko, with all this insanity, made me miss the show?",
+            "translated": "~z~Niko，一通疯狂过后，错过演出了？",
+            "desc": ""
+        },
+        {
+            "hash": 3627719602,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3628722423,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3637170974,
+            "original": "~z~Yo, me have a good time ya know, star.",
+            "translated": "~z~哟，我玩得很开心，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3642346895,
+            "original": "~z~Yo, bad for the heart but great for the soul.",
+            "translated": "~z~哟，对心脏不好，但能洗涤我的灵魂。",
+            "desc": ""
+        },
+        {
+            "hash": 3662279500,
+            "original": "~z~Take me home rasta.",
+            "translated": "~z~送我回家，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3674397116,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3707086680,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3740092250,
+            "original": "~z~Are you going foreign now?",
+            "translated": "~z~乡下人进城了？",
+            "desc": ""
+        },
+        {
+            "hash": 3748005833,
+            "original": "FCJ_ACT_DARTS_LEAVE_WON",
+            "translated": "FCJ_ACT_DARTS_LEAVE_WON",
+            "desc": ""
+        },
+        {
+            "hash": 3756945784,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3764489770,
+            "original": "~z~Okay, me breda, mek we play some pool now.",
+            "translated": "~z~好了，好兄弟。进去打桌球吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3780760339,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3798970092,
+            "original": "FCJ_ACT_TAKE_FIREFLY_ISLAND",
+            "translated": "FCJ_ACT_TAKE_FIREFLY_ISLAND",
+            "desc": ""
+        },
+        {
+            "hash": 3799413534,
+            "original": "~z~Can I get a drop at Cerveza Heights?",
+            "translated": "~z~你能把我送到Cerveza Heights吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3804422369,
+            "original": "~z~Yo, that was not natural but I dunno, say it taste fine, ya know?",
+            "translated": "~z~哟，这玩意是不太健康，但它确实好吃，知道吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3811648101,
+            "original": "~z~That make me laugh, more or less.",
+            "translated": "~z~我反正是看乐了。",
+            "desc": ""
+        },
+        {
+            "hash": 3834730256,
+            "original": "~z~Yo, that skettel was fine, yo.",
+            "translated": "~z~哟，大屁屁真的太爽了，哟。",
+            "desc": ""
+        },
+        {
+            "hash": 3846342989,
+            "original": "~z~Nice bird, me breda.",
+            "translated": "~z~直升机很正，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3849700532,
+            "original": "~z~This boy mek me laugh y'know.",
+            "translated": "~z~这小子真的超好笑。",
+            "desc": ""
+        },
+        {
+            "hash": 3851338569,
+            "original": "~z~We gonna enjoy ourself here.",
+            "translated": "~z~我们会玩得很开心的。",
+            "desc": ""
+        },
+        {
+            "hash": 3870187148,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3923802373,
+            "original": "~z~Yo, Niko, me appreciate that an' ting, give thanks, one love.",
+            "translated": "~z~哟，Niko，感谢你把我送回来。太感谢你了，再见。",
+            "desc": ""
+        },
+        {
+            "hash": 3930488006,
+            "original": "~z~Yo, we're too late to see the show?",
+            "translated": "~z~哟，我们好像错过演出了吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3943462817,
+            "original": "~z~Yo, that was fun ya know?",
+            "translated": "~z~哟，刚才我好开心。",
+            "desc": ""
+        },
+        {
+            "hash": 4006444767,
+            "original": "FCJ_ACT_ARRIVEH_NOTLATE",
+            "translated": "FCJ_ACT_ARRIVEH_NOTLATE",
+            "desc": ""
+        },
+        {
+            "hash": 4015109742,
+            "original": "FCJ_ACT_ARRIVE_FASTFOOD",
+            "translated": "FCJ_ACT_ARRIVE_FASTFOOD",
+            "desc": ""
+        },
+        {
+            "hash": 4016012520,
+            "original": "~z~Why you stepping out now?",
+            "translated": "~z~你咋现在就走了？",
+            "desc": ""
+        },
+        {
+            "hash": 4053472522,
+            "original": "FCJ_ACT_LEAVE_STRIP_GOOD",
+            "translated": "FCJ_ACT_LEAVE_STRIP_GOOD",
+            "desc": ""
+        },
+        {
+            "hash": 4059652607,
+            "original": "FCJ_ACT_LEAVE_CLUB_FAVOURITE",
+            "translated": "FCJ_ACT_LEAVE_CLUB_FAVOURITE",
+            "desc": ""
+        },
+        {
+            "hash": 4109939361,
+            "original": "~z~Yo Niko man, I ain't got the strength to be walking right now, man. Can I get some transport?",
+            "translated": "~z~哟Niko，好兄弟，我现在这状态不能走路啊，兄弟。能帮我找辆车吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4134655632,
+            "original": "~z~You wanna check out already?",
+            "translated": "~z~你这就要走了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4143146514,
+            "original": "~z~Yo, we gonna have fun y'know, rasta.",
+            "translated": "~z~哟，一起痛快一场吧，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 4184122066,
+            "original": "FCJ_ACT_DROPOFF_LIFT",
+            "translated": "FCJ_ACT_DROPOFF_LIFT",
+            "desc": ""
+        },
+        {
+            "hash": 4184563595,
+            "original": "~z~Let's go? And by the way, you're late.",
+            "translated": "~z~走吧？对了，你迟到了哦。",
+            "desc": ""
+        },
+        {
+            "hash": 4195489204,
+            "original": "~z~Good times man, respect yeah?",
+            "translated": "~z~玩得好开心，敬你。",
+            "desc": ""
+        },
+        {
+            "hash": 4224693735,
+            "original": "~z~Drop me at me yard, man.",
+            "translated": "~z~送我回家，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 4257234991,
+            "original": "FCJ_ACT_LEAVE_HIGHEND",
+            "translated": "FCJ_ACT_LEAVE_HIGHEND",
+            "desc": ""
+        }
+    ]
+}

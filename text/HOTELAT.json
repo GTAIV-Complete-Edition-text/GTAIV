@@ -1,0 +1,88 @@
+{
+    "HOTELAT": [
+        {
+            "hash": 81682544,
+            "original": "~s~Press ~PAD_Y~ to enter the lift.",
+            "translated": "~s~按~PAD_Y~进入电梯。",
+            "desc": ""
+        },
+        {
+            "hash": 332951332,
+            "original": "~s~You need to find a way to get to the penthouse suite.",
+            "translated": "~s~你需要设法前往顶层套房。",
+            "desc": ""
+        },
+        {
+            "hash": 597171687,
+            "original": "~s~Get clear of the hotel.",
+            "translated": "~s~离开酒店。",
+            "desc": ""
+        },
+        {
+            "hash": 1536691682,
+            "original": "~s~Find your way to the ~y~penthouse.",
+            "translated": "~s~设法到达~y~顶层套房。",
+            "desc": ""
+        },
+        {
+            "hash": 1655640036,
+            "original": "~s~Find a way to the penthouse suite and eliminate ~r~Isaac and the diamond dealers.",
+            "translated": "~s~设法到达顶层套房，干掉~r~Isaac等钻石商人。",
+            "desc": ""
+        },
+        {
+            "hash": 1714164910,
+            "original": "~s~Escape from the hotel.",
+            "translated": "~s~逃离酒店。",
+            "desc": ""
+        },
+        {
+            "hash": 1767811439,
+            "original": "~s~Wipe out the ~r~diamond dealers.",
+            "translated": "~s~干掉所有~r~钻石商人。",
+            "desc": ""
+        },
+        {
+            "hash": 2346607170,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 3282653095,
+            "original": "~s~You can use the ~y~lift panel~s~ to call the lift.",
+            "translated": "~s~你可以使用~y~控制面板~s~呼叫电梯。",
+            "desc": ""
+        },
+        {
+            "hash": 3430576037,
+            "original": "~s~Press ~INPUT_PICKUP~ to call the elevator.",
+            "translated": "~s~按~INPUT_PICKUP~呼叫电梯。",
+            "desc": ""
+        },
+        {
+            "hash": 3800862621,
+            "original": "~s~There are various routes to the penthouse.",
+            "translated": "~s~有多种路线可以到达顶层公寓。",
+            "desc": ""
+        },
+        {
+            "hash": 4032375606,
+            "original": "~s~Isaac and the diamond dealers are protected by armed bodyguards.",
+            "translated": "~s~Isaac等钻石商人受到了武装保镖的保护。",
+            "desc": ""
+        },
+        {
+            "hash": 4102435172,
+            "original": "~s~Go to the ~y~Majestic Hotel.",
+            "translated": "~s~前往~y~Majestic酒店。",
+            "desc": ""
+        },
+        {
+            "hash": 4146382077,
+            "original": "~s~Go to the ~y~Majestic.",
+            "translated": "~s~前往~y~Majestic酒店。",
+            "desc": ""
+        }
+    ]
+}

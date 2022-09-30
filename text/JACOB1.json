@@ -1,0 +1,220 @@
+{
+    "JACOB1": [
+        {
+            "hash": 143272669,
+            "original": "~r~Jacob is dead.",
+            "translated": "~r~Jacob死了。",
+            "desc": ""
+        },
+        {
+            "hash": 163067863,
+            "original": "~s~Go with Jacob to the ~y~front door.",
+            "translated": "~s~跟Jacob去~y~正门。",
+            "desc": ""
+        },
+        {
+            "hash": 373311049,
+            "original": "~s~You need a vehicle.",
+            "translated": "~s~你需要一辆载具。",
+            "desc": ""
+        },
+        {
+            "hash": 556879179,
+            "original": "~s~Hold ~INPUT_AIM~ to lock onto a target when in cover.",
+            "translated": "~s~在掩体中时，按住~INPUT_AIM~锁定目标。",
+            "desc": ""
+        },
+        {
+            "hash": 609086722,
+            "original": "~s~Wait for ~b~Jacob.",
+            "translated": "~s~等待~b~Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 672466791,
+            "original": "~s~First aid kits will replenish your health.",
+            "translated": "~s~急救包能补充你的生命值。",
+            "desc": ""
+        },
+        {
+            "hash": 860814548,
+            "original": "~r~The runners were not stopped.",
+            "translated": "~r~毒贩逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 908436360,
+            "original": "~s~Press ~INPUT_COVER~ to come out of cover.",
+            "translated": "~s~按~INPUT_COVER~离开掩体。",
+            "desc": ""
+        },
+        {
+            "hash": 1000250275,
+            "original": "~s~Go round back and cover the ~y~rear exit.",
+            "translated": "~s~绕后，断了他们的~y~后路。",
+            "desc": ""
+        },
+        {
+            "hash": 1297691778,
+            "original": "~s~Drive to the ~y~rear alleyway.",
+            "translated": "~s~开车进入~y~后巷。",
+            "desc": ""
+        },
+        {
+            "hash": 1462457020,
+            "original": "~s~Take down all the ~r~drug dealers.",
+            "translated": "~s~干掉所有~r~毒贩。",
+            "desc": ""
+        },
+        {
+            "hash": 1834450708,
+            "original": "~s~Return and pick up ~b~Jacob.",
+            "translated": "~s~回去接~b~Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 1860727814,
+            "original": "~s~There are too many cops about, lose your wanted level.",
+            "translated": "~s~附近的警察太多了，摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 2077035983,
+            "original": "~s~Follow Jacob into the house.",
+            "translated": "~s~跟着Jacob进屋。",
+            "desc": ""
+        },
+        {
+            "hash": 2267420979,
+            "original": "~s~To blind fire when in cover, use ~PAD_RSTICK_ALL~ to aim and press ~INPUT_ATTACK~ to fire.",
+            "translated": "~s~要在掩体后进行盲射，使用~PAD_RSTICK_ALL~瞄准，按~INPUT_ATTACK~开火。",
+            "desc": ""
+        },
+        {
+            "hash": 2288396033,
+            "original": "~s~Waste the ~r~drug dealers.",
+            "translated": "~s~做掉~r~毒贩子。",
+            "desc": ""
+        },
+        {
+            "hash": 2335913620,
+            "original": "~s~When in cover use ~INPUT_AIM~ to aim at a target and ~INPUT_ATTACK~ to spin out of cover and fire.",
+            "translated": "~s~在掩体中时，使用~INPUT_AIM~瞄准目标，按~INPUT_ATTACK~探出掩体开火。",
+            "desc": ""
+        },
+        {
+            "hash": 2394440149,
+            "original": "~s~Go to~b~Jacob.",
+            "translated": "~s~去找~b~Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 2520761012,
+            "original": "~s~Take a weapon from the ~g~trunk~s~ of Jacob's car.",
+            "translated": "~s~从Jacob车子的~g~后备箱~s~中拿取一把武器。",
+            "desc": ""
+        },
+        {
+            "hash": 2558245854,
+            "original": "~s~Access the trunk by approaching the rear of a vehicle and pressing ~INPUT_PICKUP~.",
+            "translated": "~s~走近车尾，按~INPUT_PICKUP~打开后备箱。",
+            "desc": ""
+        },
+        {
+            "hash": 2695461002,
+            "original": "~s~Furniture may also be used as cover.",
+            "translated": "~s~家具可以用作掩护。",
+            "desc": ""
+        },
+        {
+            "hash": 2752867471,
+            "original": "~s~Waste the ~r~drug dealers~s~ and save Jacob.",
+            "translated": "~s~做掉所有~r~毒贩，~s~保护Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 2922905816,
+            "original": "~s~Take Jacob to the town house in ~y~Meadows Park.",
+            "translated": "~s~带Jacob去~y~草地公园~s~的住宅楼。",
+            "desc": ""
+        },
+        {
+            "hash": 3018814149,
+            "original": "~s~When a target is locked on, press ~INPUT_ATTACK~ to spin out of cover and fire.",
+            "translated": "~s~锁定一个目标时, 按~INPUT_ATTACK~探出掩体开火。",
+            "desc": ""
+        },
+        {
+            "hash": 3209730159,
+            "original": "~s~Take Jacob to the apartment block in ~y~Willis.",
+            "translated": "~s~带Jacob去位于~y~Willis~s~的公寓楼。",
+            "desc": ""
+        },
+        {
+            "hash": 3439974955,
+            "original": "~s~Use ~INPUT_AIM~ to aim at a target when in cover.",
+            "translated": "~s~在掩体中时使用~INPUT_AIM~瞄准目标。",
+            "desc": ""
+        },
+        {
+            "hash": 3473877256,
+            "original": "~s~Press ~INPUT_COVER~ to take cover behind a wall.",
+            "translated": "~s~按~INPUT_COVER~将墙作为掩体。",
+            "desc": ""
+        },
+        {
+            "hash": 3516349688,
+            "original": "~s~Take Jacob back to the ~y~Homebrew Cafe.",
+            "translated": "~s~送Jacob回~y~家庭咖啡馆。",
+            "desc": ""
+        },
+        {
+            "hash": 3546434368,
+            "original": "~s~Waste the ~r~drug dealers.",
+            "translated": "~s~做掉~r~毒贩子。",
+            "desc": ""
+        },
+        {
+            "hash": 3644963706,
+            "original": "~s~When in cover use ~INPUT_AIM~ to aim at a target.",
+            "translated": "~s~在掩体时中用~INPUT_AIM~瞄准目标。",
+            "desc": ""
+        },
+        {
+            "hash": 3736164144,
+            "original": "~s~Don't leave ~b~Jacob~s~ behind.",
+            "translated": "~s~别把~b~Jacob~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 3863583609,
+            "original": "~s~While aiming at a target, press ~INPUT_ATTACK~ to spin out of cover and shoot.",
+            "translated": "~s~瞄准某一目标时，按~INPUT_ATTACK~探出掩体开火。",
+            "desc": ""
+        },
+        {
+            "hash": 3934117861,
+            "original": "~s~Use ~PAD_LSTICK_LEFTRIGHT~ to move behind cover.",
+            "translated": "~s~用~PAD_LSTICK_LEFTRIGHT~在掩体中移动。",
+            "desc": ""
+        },
+        {
+            "hash": 3934202804,
+            "original": "~s~When in cover hold ~INPUT_AIM~ to aim at a target.",
+            "translated": "~s~在掩体中按~INPUT_AIM~瞄准目标。",
+            "desc": ""
+        },
+        {
+            "hash": 3961089642,
+            "original": "~s~Take down the last ~r~drug dealer.",
+            "translated": "~s~干掉最后一个~r~毒贩。",
+            "desc": ""
+        },
+        {
+            "hash": 4073130485,
+            "original": "~s~Go and pick up ~b~Jacob.",
+            "translated": "~s~去接~b~Jacob。",
+            "desc": ""
+        }
+    ]
+}

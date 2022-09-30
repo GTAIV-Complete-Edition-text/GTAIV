@@ -1,0 +1,172 @@
+{
+    "CHOPCHS": [
+        {
+            "hash": 108492610,
+            "original": "~r~You shot the chopper down too early.~s~",
+            "translated": "~r~你太早把直升机打下来了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 332484516,
+            "original": "Get within range of the ~r~target chopper.",
+            "translated": "使~r~目标~s~进入射程范围。",
+            "desc": ""
+        },
+        {
+            "hash": 740380503,
+            "original": "Line your helicopter up with the ~r~target chopper.",
+            "translated": "将你的直升机与~r~目标~s~对齐。",
+            "desc": ""
+        },
+        {
+            "hash": 965405226,
+            "original": "Get close and move to the right of the ~r~target chopper~w~ to give Jacob a shot.",
+            "translated": "从右侧接近~r~目标~s~~n~给Jacob制造开火机会。",
+            "desc": ""
+        },
+        {
+            "hash": 1597265013,
+            "original": "~r~You lost the target.~s~",
+            "translated": "~r~你跟丢了目标。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1860664909,
+            "original": "Fly south and locate the ~r~target chopper.",
+            "translated": "向南飞，寻找~r~目标直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 1866178201,
+            "original": "Get back into the ~b~helicopter.",
+            "translated": "回到~b~直升机~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1983159549,
+            "original": "~r~The target got away.~s~",
+            "translated": "~r~目标跑掉了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2085493018,
+            "original": "Locate the ~r~target chopper.",
+            "translated": "寻找~r~目标直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 2169909477,
+            "original": "Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the chopper left or right.",
+            "translated": "按~INPUT_VEH_FLY_YAW_LEFT~~INPUT_VEH_FLY_YAW_RIGHT~左右旋转直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 2472271494,
+            "original": "Follow the ~r~target choppper.",
+            "translated": "跟随~r~目标。",
+            "desc": ""
+        },
+        {
+            "hash": 2665063090,
+            "original": "Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate your helicopter.",
+            "translated": "按~INPUT_VEH_FLY_YAW_LEFT~~INPUT_VEH_FLY_YAW_RIGHT~旋转你的直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 2734063035,
+            "original": "Follow the ~r~target chopper,~s~ don't let it get away.",
+            "translated": "跟随~r~目标，~s~别让它跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 2936388768,
+            "original": "Use ~PAD_SIXAXIS_DRIVE~ to rotate your helicopter.",
+            "translated": "用~PAD_SIXAXIS_DRIVE~旋转你的直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 3013748514,
+            "original": "~r~You left Jacob behind, you couldn't get a shot on the chopper.~s~",
+            "translated": "~r~你落下了Jacob，无法攻击目标。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3141543891,
+            "original": "Get into the ~b~helicopter.",
+            "translated": "进入~b~直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 3175824067,
+            "original": "Drop Jacob at the ~y~helipad~s~ off Union Drive East.",
+            "translated": "到Union快速路东段的~y~停机坪~s~放下Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 3462015356,
+            "original": "~r~The helicopter was destroyed.~s~",
+            "translated": "~r~直升机被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3471695368,
+            "original": "Drop Jacob at the ~y~helipad.",
+            "translated": "把Jacob放到~y~停机坪。",
+            "desc": ""
+        },
+        {
+            "hash": 3607074178,
+            "original": "You're losing the ~r~target chopper.~s~ Don't let it get away.",
+            "translated": "你要跟丢~r~目标~s~了。别让它跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 3744379026,
+            "original": "Press ~INPUT_VEH_CIN_CAM~ to focus on the target chopper.",
+            "translated": "按住~INPUT_VEH_CIN_CAM~将镜头对准目标。",
+            "desc": ""
+        },
+        {
+            "hash": 3748412091,
+            "original": "Keep your helicopter to the right so that Jacob can get a shot.",
+            "translated": "稳定在目标右侧来让Jacob射击。",
+            "desc": ""
+        },
+        {
+            "hash": 3850635297,
+            "original": "Get back into the ~b~helicopter.",
+            "translated": "回到~b~直升机~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 4019313422,
+            "original": "Line up your helicopter at the same height as the target.",
+            "translated": "与目标保持相同高度。",
+            "desc": ""
+        },
+        {
+            "hash": 4023195599,
+            "original": "The target is flying south through Liberty City.",
+            "translated": "目标正在飞越自由城南部上空。",
+            "desc": ""
+        },
+        {
+            "hash": 4073070132,
+            "original": "Meet Jacob at the ~y~salvage yard~s~ off Grummer Road.",
+            "translated": "去Grummer路附近的~y~废品场~s~找Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 4157908163,
+            "original": "~r~Jacob is dead.~s~",
+            "translated": "~r~Jacob死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4261786688,
+            "original": "Follow the target and wait for an opportunity to take down his helicopter.",
+            "translated": "跟随目标，伺机击落他的直升机。",
+            "desc": ""
+        }
+    ]
+}

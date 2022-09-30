@@ -1,0 +1,226 @@
+{
+    "BELL7": [
+        {
+            "hash": 9719982,
+            "original": "~s~You've left ~b~someone~s~ behind, go and get him.",
+            "translated": "~s~你把~b~某一个人~s~落下了，回去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 53040336,
+            "original": "~r~Frankie is dead.",
+            "translated": "~r~Frankie死了。",
+            "desc": ""
+        },
+        {
+            "hash": 122510040,
+            "original": "~s~Lose the cops.",
+            "translated": "~s~甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 239495946,
+            "original": "~s~PLACEHOLDER!~n~Scripted cutscene will play here.",
+            "translated": "~s~PLACEHOLDER!~n~Scripted cutscene will play here.",
+            "desc": ""
+        },
+        {
+            "hash": 264629473,
+            "original": "~s~Find a vehicle with more seats.",
+            "translated": "~s~找一辆座位更多的载具。",
+            "desc": ""
+        },
+        {
+            "hash": 381910284,
+            "original": "~s~Take Bell to the ~y~old mansion~s~ in Westdyke.",
+            "translated": "~s~带Bell去位于Westdyke的~y~老宅。",
+            "desc": ""
+        },
+        {
+            "hash": 420281943,
+            "original": "~r~Frankie got busted.",
+            "translated": "~r~Frankie被捕了。",
+            "desc": ""
+        },
+        {
+            "hash": 547360701,
+            "original": "~r~The car with the H was destroyed.",
+            "translated": "~r~装有白粉的车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 569839939,
+            "original": "H",
+            "translated": "H",
+            "desc": ""
+        },
+        {
+            "hash": 600511443,
+            "original": "~s~Take Bell and Frankie to the ~y~safe house.~s~",
+            "translated": "~s~送Bell和Frankie回~y~安全屋。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 718283805,
+            "original": "~s~There is too much heat. Follow ~b~Bell~s~ and ~b~Frankie~s~. ~s~Take out anyone who gets in your way.",
+            "translated": "~s~警察太多了。跟随~b~Bell~s~和~b~Frankie~s~杀出一条血路。",
+            "desc": ""
+        },
+        {
+            "hash": 730637982,
+            "original": "You need a car.",
+            "translated": "你需要一辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 742041034,
+            "original": "~s~Stay close to ~b~Bell.",
+            "translated": "~s~跟紧~b~Bell。",
+            "desc": ""
+        },
+        {
+            "hash": 906934362,
+            "original": "~s~You've left ~b~Bell~s~ and ~b~Frankie~s~ behind, go back and get them.",
+            "translated": "~s~你把~b~Bell~s~和~b~Frankie~s~落下了，回去找他们。",
+            "desc": ""
+        },
+        {
+            "hash": 1007994534,
+            "original": "~s~PLACEHOLDER!~n~Mocap cutscene will play here.",
+            "translated": "~s~PLACEHOLDER!~n~Mocap cutscene will play here.",
+            "desc": ""
+        },
+        {
+            "hash": 1237182093,
+            "original": "~s~There is too much heat. Follow ~b~Bell~s~.~s~ Take out anyone who get in your way.",
+            "translated": "~s~警察太多了。跟随~b~Bell~s~杀出一条血路。",
+            "desc": ""
+        },
+        {
+            "hash": 1384182918,
+            "original": "~s~Pick up Bell in ~y~Leftwood.",
+            "translated": "~s~去~y~Leftwood~s~接Bell。",
+            "desc": ""
+        },
+        {
+            "hash": 1413543382,
+            "original": "~s~Go to the ~y~escape van.",
+            "translated": "~s~登上~y~逃跑用车。",
+            "desc": ""
+        },
+        {
+            "hash": 1625394971,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1736187256,
+            "original": "~r~Bell is dead.",
+            "translated": "~r~Bell死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1854351974,
+            "original": "~s~You've left ~b~Frankie~s~ behind, go back and get him.",
+            "translated": "~s~你把~b~Frankie~s~落下了，回去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 2015608519,
+            "original": "~s~Take Bell to the ~y~safe house.~s~",
+            "translated": "~s~送Bell回~y~安全屋。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2097825644,
+            "original": "~s~You've left ~b~Bell~s~ behind, go back and get him.",
+            "translated": "~s~你把~b~Bell~s~落下了，回去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 2404674560,
+            "original": "~s~Stay close to ~b~Bell~s~ and ~b~Frankie.",
+            "translated": "~s~跟紧~b~Bell~s~和~b~Frankie。",
+            "desc": ""
+        },
+        {
+            "hash": 2724827406,
+            "original": "~s~Get in the van with ~b~Bell~s~ and ~b~Frankie~s~.",
+            "translated": "~s~与~b~Bell~s~和~b~Frankie~s~一起上车。",
+            "desc": ""
+        },
+        {
+            "hash": 2874484269,
+            "original": "~s~Get the H from the car.",
+            "translated": "~s~拿走车上的白粉。",
+            "desc": ""
+        },
+        {
+            "hash": 3113927352,
+            "original": "Bag",
+            "translated": "包裹",
+            "desc": ""
+        },
+        {
+            "hash": 3236711955,
+            "original": "~s~Get to the ~y~escape van~s~ and lose the cops.",
+            "translated": "~s~登上~y~逃跑用车，~s~甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 3488083794,
+            "original": "~s~Follow ~b~Bell.~s~ Don't let him get busted by the feds.",
+            "translated": "~s~跟随~b~Bell。~s~别让他被条子抓住。",
+            "desc": ""
+        },
+        {
+            "hash": 3518067165,
+            "original": "~r~The get away car was destroyed.",
+            "translated": "~r~逃跑用车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3717138548,
+            "original": "~s~Get back in the ~b~car~s~ and follow Bell.",
+            "translated": "~s~回到~b~车~s~上，跟随Bell。",
+            "desc": ""
+        },
+        {
+            "hash": 3725101975,
+            "original": "~s~Follow ~b~Bell.",
+            "translated": "~s~跟随~b~Bell。",
+            "desc": ""
+        },
+        {
+            "hash": 3810923722,
+            "original": "~s~Take out the ~r~helicopter.~s~ There is too much heat with it following you.",
+            "translated": "~s~击落~r~直升机。~s~否则警方很容易定位你。",
+            "desc": ""
+        },
+        {
+            "hash": 4015074016,
+            "original": "~s~Get in the van with ~b~Bell~s~.",
+            "translated": "~s~与~b~Bell~s~一起上车。",
+            "desc": ""
+        },
+        {
+            "hash": 4042961011,
+            "original": "~r~Bell got busted.",
+            "translated": "~r~Bell被捕了。",
+            "desc": ""
+        },
+        {
+            "hash": 4066030651,
+            "original": "~s~You've left ~b~Bell~s~ behind, go back and get him.",
+            "translated": "~s~你把~b~Bell~s~落下了，回去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 4195139951,
+            "original": "~s~Frankie is down. Get the ~g~H~s~ and leave him behind.",
+            "translated": "~s~Frankie挂了。拿上~g~H~s~就走，不要管他。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,604 @@
+{
+    "BR1AUD": [
+        {
+            "hash": 40314665,
+            "original": "~z~Remember that, alright?",
+            "translated": "~z~记着点，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 53343446,
+            "original": "010100100100100010100",
+            "translated": "010100100100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 111208681,
+            "original": "~z~I said hello!",
+            "translated": "~z~我说了，你好！",
+            "desc": ""
+        },
+        {
+            "hash": 117387685,
+            "original": "~z~You gotta steal a police car, get on the computer, gimme a call. They're easy to hack.",
+            "translated": "~z~你去搞一辆警车，进入电脑，给我打个电话。这玩意儿很容易黑。",
+            "desc": ""
+        },
+        {
+            "hash": 165835263,
+            "original": "~z~I'll track down this Rivas.",
+            "translated": "~z~我会追杀这个Rivas的。",
+            "desc": ""
+        },
+        {
+            "hash": 198359304,
+            "original": "~z~That's some red army shit, serious.",
+            "translated": "~z~太他妈苏联红军了，真的。",
+            "desc": ""
+        },
+        {
+            "hash": 215014279,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 325011737,
+            "original": "~z~I mean I am no chubby chaser, but if I was, and a queer, that guy would be in trouble,",
+            "translated": "~z~也不是说我喜欢胖的，不过要是我喜欢，还是个基佬，那哥们就麻烦大了。",
+            "desc": ""
+        },
+        {
+            "hash": 345124479,
+            "original": "BR1_EB",
+            "translated": "BR1_EB",
+            "desc": ""
+        },
+        {
+            "hash": 370117209,
+            "original": "~z~Cats don't want to mess with someone packing twenty-four inch guns like mine baby. Yeah!",
+            "translated": "~z~小鬼们才不会惹我这种身怀60公分长枪的人，宝贝。耶！",
+            "desc": ""
+        },
+        {
+            "hash": 371019745,
+            "original": "~z~How do I find them?",
+            "translated": "~z~怎么找到他们？",
+            "desc": ""
+        },
+        {
+            "hash": 415292984,
+            "original": "BR1_EC",
+            "translated": "BR1_EC",
+            "desc": ""
+        },
+        {
+            "hash": 444207259,
+            "original": "~z~Yeah, he's around. Brucie! Some fucking Polack asshole for you.",
+            "translated": "~z~在，他在这儿。Brucie！有个傻逼波兰混蛋找你！",
+            "desc": ""
+        },
+        {
+            "hash": 467717390,
+            "original": "~z~The guy you sent me after, Rivas. He got away.",
+            "translated": "~z~你让我找的那个Rivas，他跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 470913986,
+            "original": "~z~Lethal, man. A lot of people are going to be very grateful that certain people who fucked with them",
+            "translated": "~z~够本事，兄弟。会有很多人为这个敢搞他们的人没法到处告发",
+            "desc": ""
+        },
+        {
+            "hash": 484728199,
+            "original": "~z~Not really.",
+            "translated": "~z~真不一定。",
+            "desc": ""
+        },
+        {
+            "hash": 485751158,
+            "original": "BR1_BA",
+            "translated": "BR1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 569325594,
+            "original": "010100100100100",
+            "translated": "010100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 577241974,
+            "original": "BR1_BB",
+            "translated": "BR1_BB",
+            "desc": ""
+        },
+        {
+            "hash": 594209404,
+            "original": "~z~Man, you're cold. You didn't even blink!",
+            "translated": "~z~兄弟，有够冷血，眼都不眨一下！",
+            "desc": ""
+        },
+        {
+            "hash": 612149043,
+            "original": "~z~I'd take him out myself but when people see me coming they fucking run, man. Know what I'm saying?",
+            "translated": "~z~我倒是想亲自干他，但那帮孙子一见我就跑啊，兄弟。懂我意思吗？",
+            "desc": ""
+        },
+        {
+            "hash": 638316146,
+            "original": "~z~-you know what I mean?~n~-I'll let him know.",
+            "translated": "~z~－懂我意思吗？~n~－我会转告他的。",
+            "desc": ""
+        },
+        {
+            "hash": 716044570,
+            "original": "~z~Alright, Brucie, I'll give you a call.",
+            "translated": "~z~好的，Brucie，我会打给你的。",
+            "desc": ""
+        },
+        {
+            "hash": 716593758,
+            "original": "~z~I never thought this would be for real.",
+            "translated": "~z~我没想过真会这样。",
+            "desc": ""
+        },
+        {
+            "hash": 910968887,
+            "original": "~z~I get the money you're paying.",
+            "translated": "~z~我听懂了你会给钱。",
+            "desc": ""
+        },
+        {
+            "hash": 946992597,
+            "original": "~z~Man, shit, Brucie's fucking crazy.",
+            "translated": "~z~天哪，操，Brucie他妈是疯了。",
+            "desc": ""
+        },
+        {
+            "hash": 955929025,
+            "original": "BR1_AE",
+            "translated": "BR1_AE",
+            "desc": ""
+        },
+        {
+            "hash": 1054154484,
+            "original": "~z~and we need some money real bad.",
+            "translated": "~z~我们又正好缺钱。",
+            "desc": ""
+        },
+        {
+            "hash": 1060766446,
+            "original": "BR1_EA",
+            "translated": "BR1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1293400953,
+            "original": "~z~Shit, my bad. Yeah, of course. Love that guy. Love him.",
+            "translated": "~z~操，都赖我。是的，当然了。爱那家伙。爱他。",
+            "desc": ""
+        },
+        {
+            "hash": 1305769799,
+            "original": "~z~You should not worry about Rivas any more.",
+            "translated": "~z~你不必再担心Rivas了。",
+            "desc": ""
+        },
+        {
+            "hash": 1344355138,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 1366410285,
+            "original": "~z~Shit no shit. What you doing here, man?",
+            "translated": "~z~妈逼的。你来这儿干啥，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 1401312414,
+            "original": "BR1_ED",
+            "translated": "BR1_ED",
+            "desc": ""
+        },
+        {
+            "hash": 1460588167,
+            "original": "~z~Hey yah! Oh! Ah! Oh! Enough, man, enough! Oh! Whoo!",
+            "translated": "~z~嗨呀！哦！啊！哦！够了，哥们儿，够了！哦！呼！",
+            "desc": ""
+        },
+        {
+            "hash": 1508562811,
+            "original": "~z~What?",
+            "translated": "~z~什么？",
+            "desc": ""
+        },
+        {
+            "hash": 1556551458,
+            "original": "BR1_AG",
+            "translated": "BR1_AG",
+            "desc": ""
+        },
+        {
+            "hash": 1605066912,
+            "original": "~z~Well, Roman said maybe you needed some help,",
+            "translated": "~z~啊，Roman说你可能需要找个帮手，",
+            "desc": ""
+        },
+        {
+            "hash": 1670488777,
+            "original": "~z~Ow! Motherfucker!",
+            "translated": "~z~嗷！狗娘养的！",
+            "desc": ""
+        },
+        {
+            "hash": 1692887608,
+            "original": "~z~-Fuck me, man. Woo!~n~-You'll be alright, eh?",
+            "translated": "~z~－我操，兄弟，呜！~n~－你不会有事的，嗯？",
+            "desc": ""
+        },
+        {
+            "hash": 1702908346,
+            "original": "BR1_EB_QQQ1",
+            "translated": "BR1_EB_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 1754297542,
+            "original": "~z~I need you to whack some people, only they're in hiding.",
+            "translated": "~z~我想让你帮我弄死几个人，不过他们都躲起来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1762766495,
+            "original": "BR1_AF",
+            "translated": "BR1_AF",
+            "desc": ""
+        },
+        {
+            "hash": 1879638615,
+            "original": "~z~Sometimes people fuck other people over, okay?",
+            "translated": "~z~偶尔是有人会乱搞其他人，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1924563545,
+            "original": "BR1_DD",
+            "translated": "BR1_DD",
+            "desc": ""
+        },
+        {
+            "hash": 1970704018,
+            "original": "~z~And the people that fuck other people need to get fucked with.",
+            "translated": "~z~这种乱搞别人的人就得被人搞搞。",
+            "desc": ""
+        },
+        {
+            "hash": 1977650442,
+            "original": "~z~Rock hard. I bench four-fifty I'm an animal.",
+            "translated": "~z~坚如磐石，我能举四百五十磅！我就是野兽。",
+            "desc": ""
+        },
+        {
+            "hash": 2002330370,
+            "original": "~z~Brucie? I thought he was fucking joking... shit.",
+            "translated": "~z~Brucie？他不是在开玩笑吗...操。",
+            "desc": ""
+        },
+        {
+            "hash": 2056557970,
+            "original": "~z~I got you, man! I'm big, but I'm also fast. Wake up, boy!",
+            "translated": "~z~我能吊打你，哥们儿！我壮如牛，又疾如风。醒醒吧，兄弟！",
+            "desc": ""
+        },
+        {
+            "hash": 2184376173,
+            "original": "BR1_AC",
+            "translated": "BR1_AC",
+            "desc": ""
+        },
+        {
+            "hash": 2201299471,
+            "original": "~z~Especially people that go into hiding, before they can get on the stand and put a lot of guys inside for a lot of time.",
+            "translated": "~z~那种出庭作证前躲起来，然后再把一群人送进局子的人就更该被搞。",
+            "desc": ""
+        },
+        {
+            "hash": 2220304887,
+            "original": "~z~Yeah, yeah, yeah...",
+            "translated": "~z~是，是，是...",
+            "desc": ""
+        },
+        {
+            "hash": 2288267569,
+            "original": "~z~Ooh, I'm sorry. Can you show me that again?",
+            "translated": "~z~哦，非常抱歉。你能再表演一下那个吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2471727246,
+            "original": "BR1_AB",
+            "translated": "BR1_AB",
+            "desc": ""
+        },
+        {
+            "hash": 2490485544,
+            "original": "~z~This ain't a nice job. Not exactly mom and pop shit.",
+            "translated": "~z~这不是什么好活，这钱也没那么好挣。",
+            "desc": ""
+        },
+        {
+            "hash": 2500855233,
+            "original": "~z~Hey.",
+            "translated": "~z~嘿。",
+            "desc": ""
+        },
+        {
+            "hash": 2525366449,
+            "original": "~z~Is your boss around?",
+            "translated": "~z~你老板在吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2596425492,
+            "original": "BR1_DE",
+            "translated": "BR1_DE",
+            "desc": ""
+        },
+        {
+            "hash": 2623559977,
+            "original": "~z~Okay.",
+            "translated": "~z~好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2713737415,
+            "original": "~z~Not with you, man. I mean, I couldn't be angry with you.",
+            "translated": "~z~没生你气，兄弟。我是说，我不可能生你气的。",
+            "desc": ""
+        },
+        {
+            "hash": 2723586126,
+            "original": "~z~Hello?",
+            "translated": "~z~你好？",
+            "desc": ""
+        },
+        {
+            "hash": 2735383732,
+            "original": "BR1_AD",
+            "translated": "BR1_AD",
+            "desc": ""
+        },
+        {
+            "hash": 2795038973,
+            "original": "BR1_DC",
+            "translated": "BR1_DC",
+            "desc": ""
+        },
+        {
+            "hash": 2797629381,
+            "original": "~z~ , as long as the pay is good.",
+            "translated": "~z~钱到位了，什么都好说。",
+            "desc": ""
+        },
+        {
+            "hash": 2813879479,
+            "original": "~z~Just, like, fucking angry. Come back to see me, bro.",
+            "translated": "~z~就是有点，太他妈气了。回来找我，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2825715214,
+            "original": "~z~Ice cold man! Ice cold!",
+            "translated": "~z~冷面杀手！冷酷无情！",
+            "desc": ""
+        },
+        {
+            "hash": 2844981273,
+            "original": "BR1_AA",
+            "translated": "BR1_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2910811566,
+            "original": "BR1_DF",
+            "translated": "BR1_DF",
+            "desc": ""
+        },
+        {
+            "hash": 2984543289,
+            "original": "~z~Sweet.",
+            "translated": "~z~挺好。",
+            "desc": ""
+        },
+        {
+            "hash": 3001336174,
+            "original": "~z~Is your boss around?",
+            "translated": "~z~你老板在吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3067252737,
+            "original": "~z~Alright now, Nicky, listen up. I know you guys need money, bad.",
+            "translated": "~z~好吧，Nicky，听着，我知道你们很缺钱。",
+            "desc": ""
+        },
+        {
+            "hash": 3076228101,
+            "original": "~z~This ain't cool at all, bro. God I'm angry. God! Angry.",
+            "translated": "~z~这可一点都不酷，兄弟。天哪我好气啊。天哪！气啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3219660864,
+            "original": "~z~He's still a fucking asshole...",
+            "translated": "~z~那也还是傻逼混蛋...",
+            "desc": ""
+        },
+        {
+            "hash": 3249003143,
+            "original": "BR1_CA",
+            "translated": "BR1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3268502498,
+            "original": "~z~Now this cat's name's Lyle Rivas. Type it into the computer and you should get some 'known whereabouts' and shit.",
+            "translated": "~z~那小鬼叫Lyle Rivas。把它输入电脑，应该就能得到这孙子的位置啥的。",
+            "desc": ""
+        },
+        {
+            "hash": 3315474570,
+            "original": "~z~Shit, man. That, that cat's still out there?",
+            "translated": "~z~操，伙计，那小鬼还活着？",
+            "desc": ""
+        },
+        {
+            "hash": 3374247394,
+            "original": "~z~What did you do that for?",
+            "translated": "~z~你这是几个意思？",
+            "desc": ""
+        },
+        {
+            "hash": 3381146988,
+            "original": "~z~Yeah...",
+            "translated": "~z~对...",
+            "desc": ""
+        },
+        {
+            "hash": 3426274496,
+            "original": "~z~Lyle Rivas? I got a message from Brucie for you.",
+            "translated": "~z~Lyle Rivas？Brucie托我给你带个话。",
+            "desc": ""
+        },
+        {
+            "hash": 3439369972,
+            "original": "~z~Fucking Brucie is a psychopath.",
+            "translated": "~z~Brucie就他妈是个神经病。",
+            "desc": ""
+        },
+        {
+            "hash": 3512320803,
+            "original": "~z~Sorry, Nicky, man. How's things?",
+            "translated": "~z~抱歉，Nicky，兄弟。近况如何？",
+            "desc": ""
+        },
+        {
+            "hash": 3538813308,
+            "original": "~z~There'll be some more work when you need it.",
+            "translated": "~z~你需要活干的时候，就来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 3649787002,
+            "original": "~z~No, thank you.",
+            "translated": "~z~不了，谢谢。",
+            "desc": ""
+        },
+        {
+            "hash": 3667153715,
+            "original": "BR1_DA",
+            "translated": "BR1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 3707518699,
+            "original": "~z~That maniac is trying to get me killed.",
+            "translated": "~z~那条疯狗想杀了我！",
+            "desc": ""
+        },
+        {
+            "hash": 3719322251,
+            "original": "BR1_DB",
+            "translated": "BR1_DB",
+            "desc": ""
+        },
+        {
+            "hash": 3848661819,
+            "original": "~z~Pleasure to meet you, too.",
+            "translated": "~z~见到你我也很高兴。",
+            "desc": ""
+        },
+        {
+            "hash": 3888247015,
+            "original": "~z~C'mon, touch my pecs, man.",
+            "translated": "~z~快点啊，摸一下我的胸肌。",
+            "desc": ""
+        },
+        {
+            "hash": 3908644242,
+            "original": "~z~can't say things to other people or fuck with anyone anymore. If you get me?",
+            "translated": "~z~或者到处乱搞而感谢你的。能不能听懂？",
+            "desc": ""
+        },
+        {
+            "hash": 3978820779,
+            "original": "~z~Okay...",
+            "translated": "~z~好...",
+            "desc": ""
+        },
+        {
+            "hash": 4008295442,
+            "original": "~z~You're a badass, man. I love it.",
+            "translated": "~z~你个大坏蛋，兄弟...爱死你了。",
+            "desc": ""
+        },
+        {
+            "hash": 4038427590,
+            "original": "~z~Hey, I'm shitting with you. Brucie likes pussy.",
+            "translated": "~z~嘿，我跟你闹着玩呢。Brucie喜欢日逼。",
+            "desc": ""
+        },
+        {
+            "hash": 4169223338,
+            "original": "~z~I'm busy.",
+            "translated": "~z~我忙着呢。",
+            "desc": ""
+        },
+        {
+            "hash": 4187526872,
+            "original": "~z~Love that, I fucking love that!",
+            "translated": "~z~爱死你了，我他妈爱死你了！",
+            "desc": ""
+        },
+        {
+            "hash": 4212135567,
+            "original": "~z~He's not a Polack. He's a gentleman.",
+            "translated": "~z~他不是什么波兰佬，他是个绅士。",
+            "desc": ""
+        },
+        {
+            "hash": 4220179792,
+            "original": "~z~Cold, man... I'm feeling chills down the phone. Call me when it's done, bro.",
+            "translated": "~z~冷酷，哥们儿...我隔着电话都感觉手脚冰凉。完事给我打电话，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 4247017607,
+            "original": "~z~I'm here, I have a computer.",
+            "translated": "~z~我搞定了，电脑弄到了。",
+            "desc": ""
+        },
+        {
+            "hash": 4260480315,
+            "original": "010100100010100100",
+            "translated": "010100100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 4272496309,
+            "original": "~z~You gotta show me that one. I'm all about power.",
+            "translated": "~z~你一定要再表演一次那个。我就喜欢威猛的。",
+            "desc": ""
+        },
+        {
+            "hash": 4289157870,
+            "original": "~z~You're all about the cabbage I mean, the lettuce, the lettuce! Ice cold, man. I love it.",
+            "translated": "~z~你就关心银子，我是说，钞票，钞票！冷酷无情，兄弟。我喜欢。",
+            "desc": ""
+        }
+    ]
+}

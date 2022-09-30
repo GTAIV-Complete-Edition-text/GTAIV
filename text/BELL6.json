@@ -1,0 +1,136 @@
+{
+    "BELL6": [
+        {
+            "hash": 50614630,
+            "original": "~s~Tap ~ACCEPT~ repeatedly to climb back onto the truck.",
+            "translated": "~s~连按~ACCEPT~重新爬上卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 108525469,
+            "original": "~s~Drive the truck to the ~y~old mansion.",
+            "translated": "~s~将卡车开到~y~老宅。",
+            "desc": ""
+        },
+        {
+            "hash": 195896762,
+            "original": "~s~Make your way to the front of the truck.",
+            "translated": "~s~爬到卡车前端。",
+            "desc": ""
+        },
+        {
+            "hash": 406037296,
+            "original": "~s~Use ~PAD_SIXAXIS_RELOAD~ to hang on while the truck goes around corners.",
+            "translated": "~s~卡车转弯时，用~PAD_SIXAXIS_RELOAD~抓牢卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 422825481,
+            "original": "~s~Tap ~INPUT_JUMP~ repeatedly to pull yourself onto the truck's roof.",
+            "translated": "~s~连按~INPUT_JUMP~爬到卡车顶部。",
+            "desc": ""
+        },
+        {
+            "hash": 677396958,
+            "original": "~s~Tap ~INPUT_JUMP~ repeatedly to climb back onto the truck.",
+            "translated": "~s~连按~INPUT_JUMP~重新爬上卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 1074848631,
+            "original": "~s~Tap ~ACCEPT~ repeatedly to climb back onto the truck.",
+            "translated": "~s~连按~ACCEPT~重新爬上卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 1449336131,
+            "original": "~s~Use ~PAD_LSTICK_UP~ to advance to the front of the cab.",
+            "translated": "~s~用~PAD_LSTICK_UP~前进到驾驶室前方。",
+            "desc": ""
+        },
+        {
+            "hash": 1703984030,
+            "original": "~s~Use ~PAD_LSTICK_DOWN~ to hang on while the truck goes around corners.",
+            "translated": "~s~卡车转弯时，用~PAD_LSTICK_DOWN~抓牢卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 2044912706,
+            "original": "~s~Use ~PAD_LSTICK_LEFT~ and ~PAD_LSTICK_RIGHT~ to roll left and right.",
+            "translated": "~s~用~PAD_LSTICK_LEFT~和~PAD_LSTICK_RIGHT~左右翻滚。",
+            "desc": ""
+        },
+        {
+            "hash": 2301574853,
+            "original": "~s~Go to the ~y~alley.",
+            "translated": "~s~前往~y~小巷。",
+            "desc": ""
+        },
+        {
+            "hash": 2519025925,
+            "original": "~s~The ~b~truck~s~ is escaping. Move to its rear to grab on.",
+            "translated": "~b~卡车~s~正在驶离，跑到车尾扒上卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 2699467199,
+            "original": "~r~You have abandoned the truck.",
+            "translated": "~r~你抛弃了卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 2787284814,
+            "original": "~r~The H was destroyed.",
+            "translated": "~r~白粉被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 2787567880,
+            "original": "~s~Steal the ~b~truck.",
+            "translated": "~s~偷走~b~卡车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3170364015,
+            "original": "~s~Tap ~PAD_A~ repeatedly to pull yourself onto the truck's roof.",
+            "translated": "~s~连按~PAD_A~爬到卡车顶部。",
+            "desc": ""
+        },
+        {
+            "hash": 3259064806,
+            "original": "~r~The truck with the H in it got away.",
+            "translated": "~r~装有白粉的卡车逃掉了。",
+            "desc": ""
+        },
+        {
+            "hash": 3414555120,
+            "original": "~s~Use ~PAD_SIXAXIS_PITCH~ to advance to the front of the cab.",
+            "translated": "~s~用~PAD_SIXAXIS_PITCH~前进到驾驶室前方。",
+            "desc": ""
+        },
+        {
+            "hash": 3651394089,
+            "original": "~s~Use ~PAD_SIXAXIS_ROLL~ to roll left and right.",
+            "translated": "~s~用~PAD_SIXAXIS_ROLL~左右翻滚。",
+            "desc": ""
+        },
+        {
+            "hash": 4024280476,
+            "original": "~s~Get back in the ~b~truck.",
+            "translated": "~s~回到~b~卡车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 4127697807,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 4293529140,
+            "original": "~s~Climb onto the back of the truck.",
+            "translated": "~s~爬上卡车尾部。",
+            "desc": ""
+        }
+    ]
+}

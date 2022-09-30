@@ -1,0 +1,274 @@
+{
+    "PUZZLE": [
+        {
+            "hash": 3943704,
+            "original": "If a group of four blocks of the same color are arranged to form a square they will become a larger block of that color.",
+            "translated": "当一组同色方块形成正方形时，它们会变成一个同色的大方块。",
+            "desc": ""
+        },
+        {
+            "hash": 33483479,
+            "original": "Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.",
+            "translated": "按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~继续。",
+            "desc": ""
+        },
+        {
+            "hash": 286692650,
+            "original": "~s~NEXT",
+            "translated": "~s~下一个",
+            "desc": ""
+        },
+        {
+            "hash": 322548987,
+            "original": "~s~EXIT GAME",
+            "translated": "~s~退出游戏",
+            "desc": ""
+        },
+        {
+            "hash": 467886129,
+            "original": "~s~LEVEL",
+            "translated": "~s~等级",
+            "desc": ""
+        },
+        {
+            "hash": 510592847,
+            "original": "For each of these larger blocks that are removed the power bar will increase.",
+            "translated": "每消除一个大方块，能量槽就会填充一格。",
+            "desc": ""
+        },
+        {
+            "hash": 519957740,
+            "original": "~s~EXIT TUTORIAL",
+            "translated": "~s~退出教程",
+            "desc": ""
+        },
+        {
+            "hash": 603681930,
+            "original": "These larger blocks are removed from the grid by destroying a normal sequence of same colored blocks.",
+            "translated": "消除大方块并不会消除相邻的同色方块。",
+            "desc": ""
+        },
+        {
+            "hash": 697945390,
+            "original": "~s~CONFIRM",
+            "translated": "~s~确认",
+            "desc": ""
+        },
+        {
+            "hash": 743335977,
+            "original": "~s~SCORE",
+            "translated": "~s~得分",
+            "desc": ""
+        },
+        {
+            "hash": 1169300158,
+            "original": "YOU SCORED",
+            "translated": "你的得分",
+            "desc": ""
+        },
+        {
+            "hash": 1644859029,
+            "original": "It takes four large blocks to completely fill the power bar.",
+            "translated": "消除四个大方块即可填满能量槽。",
+            "desc": ""
+        },
+        {
+            "hash": 1802552208,
+            "original": "Once removed from the grid any blocks above those removed will fall down to fill the empty spaces.",
+            "translated": "方块消除后，原先在其上方的方块就会下落填补空位。",
+            "desc": ""
+        },
+        {
+            "hash": 1811424446,
+            "original": "~s~x ~1~",
+            "translated": "~s~x ~1~",
+            "desc": ""
+        },
+        {
+            "hash": 1840555497,
+            "original": "Once the power bar has been filled once you can use a power up by pressing either ~PAD_X~, ~PAD_Y~, ~PAD_A~ or ~PAD_B~.",
+            "translated": "能量槽填满后，你可以按~PAD_X~~PAD_Y~~PAD_A~~PAD_B~中的一个发动能量特技。",
+            "desc": ""
+        },
+        {
+            "hash": 1865561383,
+            "original": "~s~POWER",
+            "translated": "~s~能量",
+            "desc": ""
+        },
+        {
+            "hash": 1885653302,
+            "original": "~e~",
+            "translated": "~e~",
+            "desc": ""
+        },
+        {
+            "hash": 2082367325,
+            "original": "~PAD_UP~",
+            "translated": "~PAD_UP~",
+            "desc": ""
+        },
+        {
+            "hash": 2131871907,
+            "original": "A maximum of three power up uses can be stored for future use by repeatedly filling up the power bar.",
+            "translated": "能量槽可反复填充，但最多只能储存三个能量特技。",
+            "desc": ""
+        },
+        {
+            "hash": 2134400223,
+            "original": "~PAD_DOWN~",
+            "translated": "~PAD_DOWN~",
+            "desc": ""
+        },
+        {
+            "hash": 2339706159,
+            "original": "PRESS ~PAD_A~ TO EXIT TUTORIAL",
+            "translated": "按~PAD_A~退出教程",
+            "desc": ""
+        },
+        {
+            "hash": 2402496045,
+            "original": "~s~CONTINUE",
+            "translated": "~s~继续",
+            "desc": ""
+        },
+        {
+            "hash": 2458317345,
+            "original": "QUIT",
+            "translated": "退出",
+            "desc": ""
+        },
+        {
+            "hash": 2538476227,
+            "original": "~s~HI SCORE",
+            "translated": "~s~最高分",
+            "desc": ""
+        },
+        {
+            "hash": 2681744474,
+            "original": "Each time empty spaces are removed the score for each block removal gets multiplied.",
+            "translated": "每次消除都会增加消除单位方块可获得的分数。",
+            "desc": ""
+        },
+        {
+            "hash": 2684008663,
+            "original": "~s~SPECIAL",
+            "translated": "~s~特技",
+            "desc": ""
+        },
+        {
+            "hash": 2743445016,
+            "original": "THE PUZZLE GAME YOU'VE PLAYED BEFORE",
+            "translated": "你　从　前　玩　过　的　益　智　游　戏",
+            "desc": ""
+        },
+        {
+            "hash": 2947716634,
+            "original": "HI-SCORES",
+            "translated": "排行榜",
+            "desc": ""
+        },
+        {
+            "hash": 3016807499,
+            "original": "Blocks are removed by forming a sequence of four or more similarly colored blocks so their faces are touching.",
+            "translated": "将四个及以上的同色方块连在一起可消除方块。",
+            "desc": ""
+        },
+        {
+            "hash": 3045772049,
+            "original": "~s~SELECT CHARACTER",
+            "translated": "~s~选择字母",
+            "desc": ""
+        },
+        {
+            "hash": 3200324443,
+            "original": "The falling block is rotated around the central axis by pressing either ~INPUT_KB_LEFT~ or ~INPUT_KB_RIGHT~, or using ~PAD_LSTICK_LEFTRIGHT~.",
+            "translated": "使用~INPUT_KB_LEFT~~INPUT_KB_RIGHT~或~PAD_LSTICK_LEFTRIGHT~可绕中轴旋转下落的方块。",
+            "desc": ""
+        },
+        {
+            "hash": 3229810672,
+            "original": "~INPUT_FRONTEND_CANCEL~",
+            "translated": "~INPUT_FRONTEND_CANCEL~",
+            "desc": ""
+        },
+        {
+            "hash": 3266708566,
+            "original": "~INPUT_FRONTEND_ACCEPT~",
+            "translated": "~INPUT_FRONTEND_ACCEPT~",
+            "desc": ""
+        },
+        {
+            "hash": 3313958549,
+            "original": "Once the power bar has been filled once you can use a power up by pressing either ~INPUT_FRONTEND_MINIGAME_1~, ~INPUT_FRONTEND_MINIGAME_2~, ~INPUT_FRONTEND_MINIGAME_3~ or ~INPUT_FRONTEND_MINIGAME_4~.",
+            "translated": "能量槽填满后，你可以按~INPUT_FRONTEND_MINIGAME_1~~INPUT_FRONTEND_MINIGAME_2~~INPUT_FRONTEND_MINIGAME_3~~INPUT_FRONTEND_MINIGAME_4~中的一个发动能量特技。",
+            "desc": ""
+        },
+        {
+            "hash": 3330462795,
+            "original": "TUTORIAL",
+            "translated": "教程",
+            "desc": ""
+        },
+        {
+            "hash": 3341658285,
+            "original": "START",
+            "translated": "开始",
+            "desc": ""
+        },
+        {
+            "hash": 3369050637,
+            "original": "Randomly colored blocks are created at the top of the screen and will fall down the grid.",
+            "translated": "随机颜色的方块会从屏幕顶端落下。",
+            "desc": ""
+        },
+        {
+            "hash": 3402029374,
+            "original": "~s~BACK",
+            "translated": "~s~返回",
+            "desc": ""
+        },
+        {
+            "hash": 3432573243,
+            "original": "~s~SCROLL",
+            "translated": "~s~移动",
+            "desc": ""
+        },
+        {
+            "hash": 3633201546,
+            "original": "The aim of the game is to prevent the colored blocks from reaching the top of the grid.",
+            "translated": "此游戏以不让彩色方块堆到网格顶端为目标。",
+            "desc": ""
+        },
+        {
+            "hash": 3664850109,
+            "original": "YOU'LL NEED TO DO BETTER THAN THAT TO ENTER THE HI-SCORE TABLE!",
+            "translated": "你需要更高的得分才能登录排行榜！",
+            "desc": ""
+        },
+        {
+            "hash": 3679813231,
+            "original": "~s~SELECT",
+            "translated": "~s~选择",
+            "desc": ""
+        },
+        {
+            "hash": 3873880154,
+            "original": "GAME OVER",
+            "translated": "GAME OVER",
+            "desc": ""
+        },
+        {
+            "hash": 3947092351,
+            "original": "~1~",
+            "translated": "~1~",
+            "desc": ""
+        },
+        {
+            "hash": 4043438044,
+            "original": "Using ~PAD_DPAD_DOWN~ or ~PAD_LSTICK_DOWN~ will increase the speed at which the blocks fall.",
+            "translated": "使用~PAD_DPAD_DOWN~或~PAD_LSTICK_DOWN~可加快方块的下落。",
+            "desc": ""
+        }
+    ]
+}

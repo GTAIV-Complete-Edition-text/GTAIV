@@ -1,0 +1,502 @@
+{
+    "J2AUD": [
+        {
+            "hash": 35878160,
+            "original": "~z~Hand something up the ladder. That's how us Italians been doin' things for centuries.",
+            "translated": "~z~给自己的上级纳贡。我们意大利人几百年的规矩了。",
+            "desc": ""
+        },
+        {
+            "hash": 74178451,
+            "original": "~z~First up - can you kill this shithead?",
+            "translated": "~z~首先，你能把这个弱智杀了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 105086758,
+            "original": "~z~Listen, some of their boys are in town today, gonna collect their piece of an Alderney bookie ring.",
+            "translated": "~z~听好了，他们家族的人今天在城里，准备去收Alderney一家赌庄的分成。",
+            "desc": ""
+        },
+        {
+            "hash": 132186165,
+            "original": "~z~I lost the guy. I couldn't find the deal.",
+            "translated": "~z~我跟丢了。没找到交易地点。",
+            "desc": ""
+        },
+        {
+            "hash": 149248760,
+            "original": "~z~Tell me this job ain't as crazy as when you and me hit that bank together.",
+            "translated": "~z~告诉我，这活不会跟之前我们抢银行那件那么疯狂。",
+            "desc": ""
+        },
+        {
+            "hash": 154898559,
+            "original": "J2_IF",
+            "translated": "J2_IF",
+            "desc": ""
+        },
+        {
+            "hash": 185105951,
+            "original": "J2_EC",
+            "translated": "J2_EC",
+            "desc": ""
+        },
+        {
+            "hash": 190398717,
+            "original": "~z~When you marry a dragon, you gotta expect a few knights are gonna turn up to try to slay him.",
+            "translated": "~z~你要是嫁给了恶龙，就会担心有勇士出来屠龙。",
+            "desc": ""
+        },
+        {
+            "hash": 275124629,
+            "original": "~z~Maybe you'll give me a little taste then.",
+            "translated": "~z~要么分点给我尝尝味道吧。",
+            "desc": ""
+        },
+        {
+            "hash": 320371948,
+            "original": "~z~Sure.",
+            "translated": "~z~可以啊。",
+            "desc": ""
+        },
+        {
+            "hash": 426943320,
+            "original": "~z~You'll lose your balls if you make a habit of fucking up like this. Come see me soon.",
+            "translated": "~z~你丫在像这次一样搞砸，你的蛋就别想要了。过会儿来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 444533436,
+            "original": "J2_CG",
+            "translated": "J2_CG",
+            "desc": ""
+        },
+        {
+            "hash": 451739399,
+            "original": "~z~You mean when Michael died? I couldn't possibly be having that much fun.",
+            "translated": "~z~你说Michael死的时候？我当时可没有那么「开心」。",
+            "desc": ""
+        },
+        {
+            "hash": 484344554,
+            "original": "~z~Hey, I'm offended. You're havin' fun without me.",
+            "translated": "~z~嘿，我感觉自己被冒犯了。你享乐为什么不带上我。",
+            "desc": ""
+        },
+        {
+            "hash": 497935782,
+            "original": "~z~Does that worry you?",
+            "translated": "~z~让你很担心吗？",
+            "desc": ""
+        },
+        {
+            "hash": 508336821,
+            "original": "~z~Hey!",
+            "translated": "~z~喂！",
+            "desc": ""
+        },
+        {
+            "hash": 555266810,
+            "original": "~z~Alright.",
+            "translated": "~z~有吧。",
+            "desc": ""
+        },
+        {
+            "hash": 567752269,
+            "original": "~z~You disrupt it, and I'll let you keep the money, but make sure you hit the Pavanos real hard! Capiche?",
+            "translated": "~z~你去干烂他们，钱你可以留着。但得给我重创Pavano家族！懂？",
+            "desc": ""
+        },
+        {
+            "hash": 654031857,
+            "original": "J2_EB",
+            "translated": "J2_EB",
+            "desc": ""
+        },
+        {
+            "hash": 718556976,
+            "original": "J2_IB",
+            "translated": "J2_IB",
+            "desc": ""
+        },
+        {
+            "hash": 739515874,
+            "original": "J2_DA",
+            "translated": "J2_DA",
+            "desc": ""
+        },
+        {
+            "hash": 747550521,
+            "original": "~z~Is Mr. Pegorino around?",
+            "translated": "~z~Pegorino先生在里面吗？",
+            "desc": ""
+        },
+        {
+            "hash": 955469826,
+            "original": "~z~Uh, uh... sure, I'll get him.",
+            "translated": "~z~呃，呃...在，在，我去叫他。",
+            "desc": ""
+        },
+        {
+            "hash": 963496342,
+            "original": "~z~Nice to see you, Niko.",
+            "translated": "~z~见到你真好，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1015573423,
+            "original": "~z~Word is they're at the Diner in Acter. Find 'em, and follow them to the meet.",
+            "translated": "~z~他们现在在Acter的餐厅里。找到他们，尾随他们到碰头地点。",
+            "desc": ""
+        },
+        {
+            "hash": 1061154632,
+            "original": "~z~Was there a nice little haul in it for you?",
+            "translated": "~z~里面有你那份赃款吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1074022709,
+            "original": "~z~Niko, I know you're probably occupied and don't wanna hang out but I thought I'd try. I'm bored.",
+            "translated": "~z~Niko我知道你现在很忙而且不愿意和我出去玩，但我现在真的太他妈无聊了。",
+            "desc": ""
+        },
+        {
+            "hash": 1190950400,
+            "original": "010100100010100100010",
+            "translated": "010100100010100100010",
+            "desc": ""
+        },
+        {
+            "hash": 1219522428,
+            "original": "~z~Boss!",
+            "translated": "~z~老大！",
+            "desc": ""
+        },
+        {
+            "hash": 1298631579,
+            "original": "~z~Well done, my boy. I hope you made 'em suffer. Teach 'em that Alderney is Pegorino turf.",
+            "translated": "~z~干得不错，孩子。希望你让他们吃了苦头。让他们知道Alderney是我Pegorino的地盘！",
+            "desc": ""
+        },
+        {
+            "hash": 1365092275,
+            "original": "J2_BC",
+            "translated": "J2_BC",
+            "desc": ""
+        },
+        {
+            "hash": 1439926200,
+            "original": "J2_CC",
+            "translated": "J2_CC",
+            "desc": ""
+        },
+        {
+            "hash": 1503503367,
+            "original": "~z~I got that stuff, Jimmy.",
+            "translated": "~z~钱到手了，Jimmy。",
+            "desc": ""
+        },
+        {
+            "hash": 1557567262,
+            "original": "J2_CB",
+            "translated": "J2_CB",
+            "desc": ""
+        },
+        {
+            "hash": 1704785327,
+            "original": "~z~Hey.",
+            "translated": "~z~嘿。",
+            "desc": ""
+        },
+        {
+            "hash": 1909735929,
+            "original": "J2_CA",
+            "translated": "J2_CA",
+            "desc": ""
+        },
+        {
+            "hash": 1972679178,
+            "original": "J2_DB",
+            "translated": "J2_DB",
+            "desc": ""
+        },
+        {
+            "hash": 1980984125,
+            "original": "J2_IA",
+            "translated": "J2_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2040372612,
+            "original": "~z~-Nice talking with you.~n~-Whatever.",
+            "translated": "~z~－和你聊得很高兴。~n~－哦。",
+            "desc": ""
+        },
+        {
+            "hash": 2040971589,
+            "original": "290290290",
+            "translated": "290290290",
+            "desc": ""
+        },
+        {
+            "hash": 2108152182,
+            "original": "~z~Hey.",
+            "translated": "~z~喂。",
+            "desc": ""
+        },
+        {
+            "hash": 2287538287,
+            "original": "~z~Too bad, my boy. Doesn't look like there's much in it for you then.",
+            "translated": "~z~不好啊，孩子。看起来没有你的份了。",
+            "desc": ""
+        },
+        {
+            "hash": 2314812987,
+            "original": "~z~Jackasses, all of them, all of you.",
+            "translated": "~z~一群混蛋，全这样，没一个好人！",
+            "desc": ""
+        },
+        {
+            "hash": 2399923792,
+            "original": "J2_CF",
+            "translated": "J2_CF",
+            "desc": ""
+        },
+        {
+            "hash": 2443930016,
+            "original": "100010100100010010",
+            "translated": "100010100100010010",
+            "desc": ""
+        },
+        {
+            "hash": 2455827930,
+            "original": "J2_CE",
+            "translated": "J2_CE",
+            "desc": ""
+        },
+        {
+            "hash": 2490760036,
+            "original": "J2_CD",
+            "translated": "J2_CD",
+            "desc": ""
+        },
+        {
+            "hash": 2498986124,
+            "original": "~z~So, listen... we gotta bit of a problem with the Pavanos.",
+            "translated": "~z~所以，听好了。我们和Pavano家族有点麻烦。",
+            "desc": ""
+        },
+        {
+            "hash": 2586672522,
+            "original": "~z~Shit, Packie. I'm kind of busy chasing down some wiseguys for those guido buddies of yours.",
+            "translated": "~z~操，Packie。我现在很忙。我在为你老大开车追一些黑手党成员。",
+            "desc": ""
+        },
+        {
+            "hash": 2592715626,
+            "original": "J2_BA",
+            "translated": "J2_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2620709601,
+            "original": "~z~I think that guy works for the Pegorinos.",
+            "translated": "~z~那个人好像是Pegorino家族派的。",
+            "desc": ""
+        },
+        {
+            "hash": 2638293291,
+            "original": "J2_IE",
+            "translated": "J2_IE",
+            "desc": ""
+        },
+        {
+            "hash": 2669063838,
+            "original": "~z~Fucking slippery wop bastards.",
+            "translated": "~z~狡猾的意大利狗杂种。",
+            "desc": ""
+        },
+        {
+            "hash": 2669362675,
+            "original": "~z~I didn't have no time.",
+            "translated": "~z~我没时间了。",
+            "desc": ""
+        },
+        {
+            "hash": 2699040889,
+            "original": "~z~Second... come in here.",
+            "translated": "~z~然后...过来。",
+            "desc": ""
+        },
+        {
+            "hash": 2796823585,
+            "original": "~z~Ahh, fuck.",
+            "translated": "~z~啊，妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 2890313522,
+            "original": "~z~Yes, I noticed that at your meeting with them.",
+            "translated": "~z~是，在你和他们见面的时候我注意到了。",
+            "desc": ""
+        },
+        {
+            "hash": 2934114322,
+            "original": "~z~Feds, I think... they always drive past at this time.",
+            "translated": "~z~警察吧...他们这个点经常开车路过。",
+            "desc": ""
+        },
+        {
+            "hash": 3026627895,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 3130608599,
+            "original": "~z~The way they look at us, we're bottom feeders! Always have been.",
+            "translated": "~z~他们纯粹当我们家族是臭要饭的！一直都是这样。",
+            "desc": ""
+        },
+        {
+            "hash": 3150146083,
+            "original": "~z~We ain't a real family to them - just a bunch of Guernsey goombas.",
+            "translated": "~z~他们就没把我们当真正的家族，只把我们看作Guernsey城的小老弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3190552845,
+            "original": "J2_IC",
+            "translated": "J2_IC",
+            "desc": ""
+        },
+        {
+            "hash": 3239095405,
+            "original": "~z~Uh... who you waving at?",
+            "translated": "~z~呃...你在跟谁打招呼？",
+            "desc": ""
+        },
+        {
+            "hash": 3366514551,
+            "original": "~z~Anthony - will you shut up? In fact, will you fuck off?",
+            "translated": "~z~Anthony！你他妈能闭嘴吗？直白点，你能滚了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3397027733,
+            "original": "~z~When things are cool, we're getting fucked.",
+            "translated": "~z~利用完我们，就把我们干了。",
+            "desc": ""
+        },
+        {
+            "hash": 3504182351,
+            "original": "~z~Thank you...",
+            "translated": "~z~谢谢...",
+            "desc": ""
+        },
+        {
+            "hash": 3583191668,
+            "original": "J2_BB",
+            "translated": "J2_BB",
+            "desc": ""
+        },
+        {
+            "hash": 3605433330,
+            "original": "~z~Go on, get outta here.",
+            "translated": "~z~好了，你可以滚了。",
+            "desc": ""
+        },
+        {
+            "hash": 3609469160,
+            "original": "~z~I'm sorry to hear that.",
+            "translated": "~z~对此我深表同情。",
+            "desc": ""
+        },
+        {
+            "hash": 3611402061,
+            "original": "~z~Good thing I'm not Italian.",
+            "translated": "~z~幸好我不是意大利人。",
+            "desc": ""
+        },
+        {
+            "hash": 3662763801,
+            "original": "~z~God, they must be desperate.",
+            "translated": "~z~天，他们现在肯定气急败坏。",
+            "desc": ""
+        },
+        {
+            "hash": 3677044434,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 3688243779,
+            "original": "J2_EA",
+            "translated": "J2_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3768326132,
+            "original": "~z~You too.",
+            "translated": "~z~我也是。",
+            "desc": ""
+        },
+        {
+            "hash": 3812059365,
+            "original": "~z~Let's lose him on the way to the meet.",
+            "translated": "~z~去碰头前先把他给甩了。",
+            "desc": ""
+        },
+        {
+            "hash": 3824789016,
+            "original": "~z~Don't come back 'til you get a brain implant, or something.",
+            "translated": "~z~没安上脑子就别回来了，弱智。",
+            "desc": ""
+        },
+        {
+            "hash": 3844772739,
+            "original": "~z~I'll talk to you later, Packie.",
+            "translated": "~z~有空再聊，Packie。",
+            "desc": ""
+        },
+        {
+            "hash": 3867309904,
+            "original": "~z~You have fun. Pick a swell guy to kill - hopefully someone with a young family who'll really miss him...",
+            "translated": "~z~你高兴就好。看上哪个上流人士就杀了吧，他死了家里人多半会很想他的...",
+            "desc": ""
+        },
+        {
+            "hash": 3947677997,
+            "original": "~z~Yeah, capiche.",
+            "translated": "~z~好的，懂了。",
+            "desc": ""
+        },
+        {
+            "hash": 3988632119,
+            "original": "~z~I got a couple of things I want to talk to you about.",
+            "translated": "~z~我有些事想和你说。",
+            "desc": ""
+        },
+        {
+            "hash": 4009054346,
+            "original": "~z~Ahh, sure.",
+            "translated": "~z~呃，当然了。",
+            "desc": ""
+        },
+        {
+            "hash": 4064559789,
+            "original": "~z~I'm sorry... I... I'm so...",
+            "translated": "~z~对不起...我...我太...",
+            "desc": ""
+        },
+        {
+            "hash": 4247681749,
+            "original": "J2_ID",
+            "translated": "J2_ID",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,928 @@
+{
+    "R6AUD": [
+        {
+            "hash": 3725112,
+            "original": "~z~Are you worried about this?",
+            "translated": "~z~你担心我的技术吗？",
+            "desc": ""
+        },
+        {
+            "hash": 12985115,
+            "original": "~z~Likes to smoke a bit. Look after him.",
+            "translated": "~z~有点喜欢哈草。照顾好他。",
+            "desc": ""
+        },
+        {
+            "hash": 69143366,
+            "original": "R6_NC",
+            "translated": "R6_NC",
+            "desc": ""
+        },
+        {
+            "hash": 69970476,
+            "original": "R6_FC",
+            "translated": "R6_FC",
+            "desc": ""
+        },
+        {
+            "hash": 169430310,
+            "original": "~z~Realness brother, you are me man Roman's cousin. Thanks, respect.",
+            "translated": "~z~真够兄弟，你是我哥们Roman的堂弟。谢了，敬你。",
+            "desc": ""
+        },
+        {
+            "hash": 184202343,
+            "original": "~z~Car seven, head to South Slopes. Come on, where are you, Mohammed?",
+            "translated": "~z~七号车，去South Slopes。得了吧，你到哪了，Mohammed？",
+            "desc": ""
+        },
+        {
+            "hash": 206828471,
+            "original": "R6_DB",
+            "translated": "R6_DB",
+            "desc": ""
+        },
+        {
+            "hash": 215637991,
+            "original": "~z~Where your wheels at?",
+            "translated": "~z~你的车子呢？",
+            "desc": ""
+        },
+        {
+            "hash": 235042316,
+            "original": "~z~Righteous. I gonna feel safer with some backup inna de ground.",
+            "translated": "~z~太好了。上面有支援我会感觉安全点。",
+            "desc": ""
+        },
+        {
+            "hash": 250305361,
+            "original": "R6_HA",
+            "translated": "R6_HA",
+            "desc": ""
+        },
+        {
+            "hash": 309853110,
+            "original": "~z~Can you take dis piece? Ya hear any ting bad going down, you come and help, sight?",
+            "translated": "~z~你能拿上这个家伙吗？只要听见下面情况不对，你就出来帮我，行吧？",
+            "desc": ""
+        },
+        {
+            "hash": 318346052,
+            "original": "~z~Forward a' the Homebrew Café. It be inna Beechwood City.",
+            "translated": "~z~去家庭咖啡馆。地点在Beechwood City。",
+            "desc": ""
+        },
+        {
+            "hash": 320325566,
+            "original": "~z~Okay. Yes... go pick up my friend, Little Jacob... he's a good man.",
+            "translated": "~z~好吧。有...去接下我的朋友，Little Jacob...他是个好人。",
+            "desc": ""
+        },
+        {
+            "hash": 344152869,
+            "original": "~z~Watch yourself, coo pon de other one inna the ground.",
+            "translated": "~z~自己当心，上面又来了一个。",
+            "desc": ""
+        },
+        {
+            "hash": 416481553,
+            "original": "R6_CE",
+            "translated": "R6_CE",
+            "desc": ""
+        },
+        {
+            "hash": 420181605,
+            "original": "R6_LE",
+            "translated": "R6_LE",
+            "desc": ""
+        },
+        {
+            "hash": 448982649,
+            "original": "~z~This ras clot had a rukus with me bredren Real Badman de other day.",
+            "translated": "~z~这个呆瓜之前和我兄弟Real Badman闹了点矛盾。",
+            "desc": ""
+        },
+        {
+            "hash": 565109196,
+            "original": "~z~Oh! Miss Weinstock, no no, not you... what can I do for you today?",
+            "translated": "~z~噢！Weinstock小姐，不是不是，没说你...今天有什么我能帮上的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 567329073,
+            "original": "R6_DH",
+            "translated": "R6_DH",
+            "desc": ""
+        },
+        {
+            "hash": 596046422,
+            "original": "R6_MA",
+            "translated": "R6_MA",
+            "desc": ""
+        },
+        {
+            "hash": 597928780,
+            "original": "~z~What dis? I thought there was only going to be one of yous coming?",
+            "translated": "~z~怎么回事？你们不是只该派一个人吗？",
+            "desc": ""
+        },
+        {
+            "hash": 600907339,
+            "original": "102102",
+            "translated": "102102",
+            "desc": ""
+        },
+        {
+            "hash": 618186849,
+            "original": "R6_DG",
+            "translated": "R6_DG",
+            "desc": ""
+        },
+        {
+            "hash": 671084938,
+            "original": "~z~He's on Oneida Avenue in South Slopes.",
+            "translated": "~z~他在South Slopes的Oneida大道上。",
+            "desc": ""
+        },
+        {
+            "hash": 681338963,
+            "original": "R6_KC",
+            "translated": "R6_KC",
+            "desc": ""
+        },
+        {
+            "hash": 726096593,
+            "original": "~z~Two of ya going to rule this city and ting, ain't it?",
+            "translated": "~z~你们两个要掌管这座城市，对不对？",
+            "desc": ""
+        },
+        {
+            "hash": 743894225,
+            "original": "R6_LA",
+            "translated": "R6_LA",
+            "desc": ""
+        },
+        {
+            "hash": 825045093,
+            "original": "R6_CD",
+            "translated": "R6_CD",
+            "desc": ""
+        },
+        {
+            "hash": 850691034,
+            "original": "~z~Capitalism is a dirty business.",
+            "translated": "~z~资本主义就是个卑鄙勾当。",
+            "desc": ""
+        },
+        {
+            "hash": 860896898,
+            "original": "~z~Irie, rasta. I an' I need fe talk. Mek we dweet.",
+            "translated": "~z~赞诶，兄弟。我们俩得聊会儿。但愿我们成功。",
+            "desc": ""
+        },
+        {
+            "hash": 902343728,
+            "original": "~z~Ya the type of man who can get out of a rukus, seen?",
+            "translated": "~z~你就是能解决矛盾的那种人，瞧见了吧？",
+            "desc": ""
+        },
+        {
+            "hash": 921238482,
+            "original": "~z~One love.",
+            "translated": "~z~再会。",
+            "desc": ""
+        },
+        {
+            "hash": 939846525,
+            "original": "R6_DF",
+            "translated": "R6_DF",
+            "desc": ""
+        },
+        {
+            "hash": 983863201,
+            "original": "R6_FA",
+            "translated": "R6_FA",
+            "desc": ""
+        },
+        {
+            "hash": 995687417,
+            "original": "R6_NA",
+            "translated": "R6_NA",
+            "desc": ""
+        },
+        {
+            "hash": 1007736584,
+            "original": "R6_JA",
+            "translated": "R6_JA",
+            "desc": ""
+        },
+        {
+            "hash": 1032798428,
+            "original": "R6_LF",
+            "translated": "R6_LF",
+            "desc": ""
+        },
+        {
+            "hash": 1064410445,
+            "original": "~z~Whatever, man.",
+            "translated": "~z~随便吧，老哥。",
+            "desc": ""
+        },
+        {
+            "hash": 1074512054,
+            "original": "~z~He has been the same way since we were very young.",
+            "translated": "~z~我们还很小的时候他就这样了。",
+            "desc": ""
+        },
+        {
+            "hash": 1077839428,
+            "original": "~z~Shit, Niko. Get these bloodclots.",
+            "translated": "~z~操，Niko。干掉这群狗逼。",
+            "desc": ""
+        },
+        {
+            "hash": 1101955646,
+            "original": "~z~Thank you, cousin.",
+            "translated": "~z~谢谢你，堂弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1129337121,
+            "original": "R6_EA",
+            "translated": "R6_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1143019078,
+            "original": "~z~Thanks for everything, ya can keep the piece. I tink ya know fe use it better than I an' I do.",
+            "translated": "~z~真是谢谢你了，家伙你留着吧。我觉得你比我更懂怎么用它。",
+            "desc": ""
+        },
+        {
+            "hash": 1170161040,
+            "original": "~z~There be another one, Niko. Check him.",
+            "translated": "~z~那边又来了一个，Niko。做掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 1227475882,
+            "original": "R6_CB",
+            "translated": "R6_CB",
+            "desc": ""
+        },
+        {
+            "hash": 1227534527,
+            "original": "~z~Mohammed, where the fuck are...",
+            "translated": "~z~Mohammed，你他妈的在...",
+            "desc": ""
+        },
+        {
+            "hash": 1310237516,
+            "original": "~z~Here's me number. Mek we link up soon.",
+            "translated": "~z~这是我的电话。尽快联系。",
+            "desc": ""
+        },
+        {
+            "hash": 1316102827,
+            "original": "~z~Rhaatid, someone be inna de ground.",
+            "translated": "~z~操蛋，上面还有人。",
+            "desc": ""
+        },
+        {
+            "hash": 1352246653,
+            "original": "~z~They got too fierce and I ain't sure this is gonna be an easy ting.",
+            "translated": "~z~之前他们太猛了，所以我不确定这次轻不轻松。",
+            "desc": ""
+        },
+        {
+            "hash": 1383706419,
+            "original": "R6_CM",
+            "translated": "R6_CM",
+            "desc": ""
+        },
+        {
+            "hash": 1396991783,
+            "original": "~z~I might have some work for you now Niko. Here's me number.",
+            "translated": "~z~之后我可能会有活给你，Niko。这是我的电话。",
+            "desc": ""
+        },
+        {
+            "hash": 1429329502,
+            "original": "R6_OC",
+            "translated": "R6_OC",
+            "desc": ""
+        },
+        {
+            "hash": 1433725764,
+            "original": "~z~Badman get I an' I in all type of shit you know, Niko.",
+            "translated": "~z~Badman让我陷入各种各样的麻烦，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1436945337,
+            "original": "~z~Fuck, now I have to call his friend Real Badman. This ain't going to go well cousin.",
+            "translated": "~z~操，现在我得打电话给他的朋友Real Badman了。情况不会太好的，堂弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1597069845,
+            "original": "102292",
+            "translated": "102292",
+            "desc": ""
+        },
+        {
+            "hash": 1599489355,
+            "original": "R6_NB",
+            "translated": "R6_NB",
+            "desc": ""
+        },
+        {
+            "hash": 1607472737,
+            "original": "~z~Ya Niko? The one me man Roman's been talking about all this time?",
+            "translated": "~z~你就是Niko？最近我哥们Roman一直在说的那个？",
+            "desc": ""
+        },
+        {
+            "hash": 1619126698,
+            "original": "R6_OA",
+            "translated": "R6_OA",
+            "desc": ""
+        },
+        {
+            "hash": 1641698807,
+            "original": "R6_LB",
+            "translated": "R6_LB",
+            "desc": ""
+        },
+        {
+            "hash": 1643924412,
+            "original": "R6_CK",
+            "translated": "R6_CK",
+            "desc": ""
+        },
+        {
+            "hash": 1745560288,
+            "original": "R6_CI",
+            "translated": "R6_CI",
+            "desc": ""
+        },
+        {
+            "hash": 1751674682,
+            "original": "~z~Niko, man, we should talk some time - I'm a good listener.",
+            "translated": "~z~Niko，老弟，我们该抽时间聊聊了，我是个好听众。",
+            "desc": ""
+        },
+        {
+            "hash": 1757753847,
+            "original": "~z~Jacob. Oh, Oh... I don't want know what happened.",
+            "translated": "~z~Jacob。噢，噢...我不想知道到底怎么了。",
+            "desc": ""
+        },
+        {
+            "hash": 1781339316,
+            "original": "~z~I have the feeling it will be same story with Roman.",
+            "translated": "~z~我有预感，和Roman一起也会是这样的。",
+            "desc": ""
+        },
+        {
+            "hash": 1793808928,
+            "original": "~z~This is something I am more equipped to do than drive people around for Roman.",
+            "translated": "~z~打枪我可比替Roman开车接人熟练多了。",
+            "desc": ""
+        },
+        {
+            "hash": 1810681800,
+            "original": "R6_DI",
+            "translated": "R6_DI",
+            "desc": ""
+        },
+        {
+            "hash": 1826658911,
+            "original": "~z~You look like you can look after yourself as well, man.",
+            "translated": "~z~看来你自己就能照顾好自己，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1846899858,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1859747688,
+            "original": "~z~Yeah... like war?",
+            "translated": "~z~是吗...和战争一样？",
+            "desc": ""
+        },
+        {
+            "hash": 1899001410,
+            "original": "R6_KB",
+            "translated": "R6_KB",
+            "desc": ""
+        },
+        {
+            "hash": 1968557751,
+            "original": "~z~Jacob, Jacob, Jacob... we have te teach Badman his lesson and ting.",
+            "translated": "~z~Jacob，Jacob，Jacob...我们要给Badman一个教训。",
+            "desc": ""
+        },
+        {
+            "hash": 2040571592,
+            "original": "100010100100010100",
+            "translated": "100010100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 2058574487,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2067216895,
+            "original": "R6_IB",
+            "translated": "R6_IB",
+            "desc": ""
+        },
+        {
+            "hash": 2113690725,
+            "original": "~z~Bad shit happen, cousin. Jacob ain't around no more.",
+            "translated": "~z~大事不妙了，堂兄。Jacob他再也回不来了。",
+            "desc": ""
+        },
+        {
+            "hash": 2136170673,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2188293725,
+            "original": "R6_DJ",
+            "translated": "R6_DJ",
+            "desc": ""
+        },
+        {
+            "hash": 2202307179,
+            "original": "121211211",
+            "translated": "121211211",
+            "desc": ""
+        },
+        {
+            "hash": 2245200250,
+            "original": "~z~Alright breda, forward a Dillon street, in Schottler.",
+            "translated": "~z~好了兄弟，去Schottler的Dillon街。",
+            "desc": ""
+        },
+        {
+            "hash": 2260055954,
+            "original": "R6_MB",
+            "translated": "R6_MB",
+            "desc": ""
+        },
+        {
+            "hash": 2284426396,
+            "original": "~z~You see, Real Badman, me boss man, he get in a fight with these boys and I gots to go down te make peace.",
+            "translated": "~z~你看，Real Badman，我的老大，兄弟，他和这群杂鱼打架，我下来替他讲和。",
+            "desc": ""
+        },
+        {
+            "hash": 2371199433,
+            "original": "~z~I tink we could do some work together and tings.",
+            "translated": "~z~我觉得我们可以一起干几票啥的。",
+            "desc": ""
+        },
+        {
+            "hash": 2401632855,
+            "original": "~z~Real sorry, but hurting you be the only way te do that.",
+            "translated": "~z~很抱歉，但伤害你是唯一的出路。",
+            "desc": ""
+        },
+        {
+            "hash": 2406477709,
+            "original": "R6_CF",
+            "translated": "R6_CF",
+            "desc": ""
+        },
+        {
+            "hash": 2487041830,
+            "original": "101101",
+            "translated": "101101",
+            "desc": ""
+        },
+        {
+            "hash": 2493280948,
+            "original": "R6_EB",
+            "translated": "R6_EB",
+            "desc": ""
+        },
+        {
+            "hash": 2515873843,
+            "original": "~z~I don't know about that.",
+            "translated": "~z~我不太清楚。",
+            "desc": ""
+        },
+        {
+            "hash": 2545382923,
+            "original": "R6_LC",
+            "translated": "R6_LC",
+            "desc": ""
+        },
+        {
+            "hash": 2643935820,
+            "original": "~z~I have had much experience.",
+            "translated": "~z~我是身经百战了。",
+            "desc": ""
+        },
+        {
+            "hash": 2658369347,
+            "original": "R6_IA",
+            "translated": "R6_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2664415720,
+            "original": "~z~Can you keep an eye on the meet with I's piece?",
+            "translated": "~z~会面的时候你能拿着我给的家伙放哨吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2679973788,
+            "original": "100010010100010100",
+            "translated": "100010010100010100",
+            "desc": ""
+        },
+        {
+            "hash": 2680244440,
+            "original": "100100010010100100100100010100",
+            "translated": "100100010010100100100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 2715130483,
+            "original": "~z~Go for it.",
+            "translated": "~z~说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2758823930,
+            "original": "~z~I am always looking for work, if it pays.",
+            "translated": "~z~我一直都在找活干，给钱的那种。",
+            "desc": ""
+        },
+        {
+            "hash": 2769658099,
+            "original": "~z~I gotta ask ya another favor too.",
+            "translated": "~z~我还有个忙要你帮。",
+            "desc": ""
+        },
+        {
+            "hash": 2835057388,
+            "original": "~z~I want to make peace, but Jah know what type of shit they might pull off.",
+            "translated": "~z~我是想和平解决的，不过天知道他们会整出什么幺蛾子。",
+            "desc": ""
+        },
+        {
+            "hash": 2846474897,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 2925592138,
+            "original": "~z~No. Maybe not. When you going to tell me properly about what happened?",
+            "translated": "~z~不，或许是的。你要什么时候才能告诉我到底发生了什么？",
+            "desc": ""
+        },
+        {
+            "hash": 2927204078,
+            "original": "010010100100",
+            "translated": "010010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2929005236,
+            "original": "R6_GB",
+            "translated": "R6_GB",
+            "desc": ""
+        },
+        {
+            "hash": 2941018602,
+            "original": "R6_DC",
+            "translated": "R6_DC",
+            "desc": ""
+        },
+        {
+            "hash": 2945056139,
+            "original": "~z~No. Mr. Bellic has stepped away from his office, can I take a message?",
+            "translated": "~z~不行，Bellic先生不在办公室，有什么需要我替您转达吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2962679879,
+            "original": "~z~Inna the future, you know?",
+            "translated": "~z~以后合作，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2992695562,
+            "original": "~z~That is fe me breda. Seen, Niko, seen. Can ya do me a favor?",
+            "translated": "~z~这才像我兄弟嘛。懂了吧，Niko，懂了吧。你能帮我个忙吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3052880566,
+            "original": "~z~Respect. Alright, alright. We going to this spot where I need ya to wait for I, seen?",
+            "translated": "~z~敬你。行了，行了。到了以后你得等着我，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3080345082,
+            "original": "R6_PA",
+            "translated": "R6_PA",
+            "desc": ""
+        },
+        {
+            "hash": 3085566143,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3103461485,
+            "original": "~z~Okay... great... no, I'm not gay.",
+            "translated": "~z~行...好的...不，我不是基。",
+            "desc": ""
+        },
+        {
+            "hash": 3126719386,
+            "original": "~z~Sorry for maga dog, maga dog turn round bite you.",
+            "translated": "~z~遇上狗杂种我很抱歉，狗杂种就是会反咬你一口。",
+            "desc": ""
+        },
+        {
+            "hash": 3188694447,
+            "original": "~z~Not exactly.",
+            "translated": "~z~不完全是。",
+            "desc": ""
+        },
+        {
+            "hash": 3192142003,
+            "original": "R6_AA",
+            "translated": "R6_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3238199529,
+            "original": "~z~Jacob is a good man, watching glue dry with Jacob would not be boring.",
+            "translated": "~z~Jacob可是个有趣的人，和Jacob一起看着胶水干掉都不会无聊。",
+            "desc": ""
+        },
+        {
+            "hash": 3257589571,
+            "original": "100100010100100010100010010100100100",
+            "translated": "100100010100100010100010010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 3289163404,
+            "original": "~z~Hello, Roman Bellic's offi...",
+            "translated": "~z~您好，这里是Roman Bellic的办公...",
+            "desc": ""
+        },
+        {
+            "hash": 3354046821,
+            "original": "~z~Ahh... when you got time.",
+            "translated": "~z~啊...等你有空了再说。",
+            "desc": ""
+        },
+        {
+            "hash": 3372257503,
+            "original": "~z~Come here back a' homebrew café.",
+            "translated": "~z~下来吧，回家庭咖啡馆。",
+            "desc": ""
+        },
+        {
+            "hash": 3380636104,
+            "original": "~z~I guess so.",
+            "translated": "~z~我想是的。",
+            "desc": ""
+        },
+        {
+            "hash": 3409360100,
+            "original": "~z~Head into town. I don't give a fuck if the bridge is busy, you're a cab driver! Hey.",
+            "translated": "~z~给我进城。我他妈才不管桥上堵不堵，你丫可是个的士司机！嘿。",
+            "desc": ""
+        },
+        {
+            "hash": 3410335896,
+            "original": "R6_DD",
+            "translated": "R6_DD",
+            "desc": ""
+        },
+        {
+            "hash": 3437048306,
+            "original": "R6_KF",
+            "translated": "R6_KF",
+            "desc": ""
+        },
+        {
+            "hash": 3456070338,
+            "original": "~z~Cousin Niko, gonna help Roman take over de world and ting?",
+            "translated": "~z~Niko堂弟，要帮Roman掌控天下啥的？",
+            "desc": ""
+        },
+        {
+            "hash": 3533218836,
+            "original": "~z~Driving for you ain't as boring as I thought it would be.",
+            "translated": "~z~替你开车也没我之前想的那么无聊。",
+            "desc": ""
+        },
+        {
+            "hash": 3596536628,
+            "original": "~z~Hello, Roman Bellic Enterprises...",
+            "translated": "~z~您好，这里是Roman Bellic集团...",
+            "desc": ""
+        },
+        {
+            "hash": 3610888651,
+            "original": "R6_KE",
+            "translated": "R6_KE",
+            "desc": ""
+        },
+        {
+            "hash": 3614478097,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 3618778113,
+            "original": "R6_DE",
+            "translated": "R6_DE",
+            "desc": ""
+        },
+        {
+            "hash": 3651163344,
+            "original": "~z~I'm not going to judge you.",
+            "translated": "~z~我不是要评判你。",
+            "desc": ""
+        },
+        {
+            "hash": 3706273896,
+            "original": "R6_CL",
+            "translated": "R6_CL",
+            "desc": ""
+        },
+        {
+            "hash": 3708304980,
+            "original": "~z~Alright, alright. Ya me man Roman's cousin, ain't ya?",
+            "translated": "~z~好了，好了。你就是我哥们Roman的堂弟，对不对？",
+            "desc": ""
+        },
+        {
+            "hash": 3710979086,
+            "original": "R6_CG",
+            "translated": "R6_CG",
+            "desc": ""
+        },
+        {
+            "hash": 3723898207,
+            "original": "R6_BA",
+            "translated": "R6_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3724613170,
+            "original": "R6_DA",
+            "translated": "R6_DA",
+            "desc": ""
+        },
+        {
+            "hash": 3800985365,
+            "original": "R6_OB",
+            "translated": "R6_OB",
+            "desc": ""
+        },
+        {
+            "hash": 3815139420,
+            "original": "~z~Another time. Can I help?",
+            "translated": "~z~下次再说。要我帮什么忙吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3843417251,
+            "original": "R6_KD",
+            "translated": "R6_KD",
+            "desc": ""
+        },
+        {
+            "hash": 3849832914,
+            "original": "~z~Roman, I took Jacob where he wanted to go.",
+            "translated": "~z~Roman，Jacob我已经送到了。",
+            "desc": ""
+        },
+        {
+            "hash": 3864517160,
+            "original": "R6_ND",
+            "translated": "R6_ND",
+            "desc": ""
+        },
+        {
+            "hash": 3887241032,
+            "original": "R6_LD",
+            "translated": "R6_LD",
+            "desc": ""
+        },
+        {
+            "hash": 3962376515,
+            "original": "R6_GA",
+            "translated": "R6_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3974312077,
+            "original": "~z~I know how to use a gun if you want me to keep watch on things.",
+            "translated": "~z~要是你想让我做保镖的话，我其实会用枪。",
+            "desc": ""
+        },
+        {
+            "hash": 3984056119,
+            "original": "~z~It seems that Roman has enough problem running his own life, let alone the whole city.",
+            "translated": "~z~Roman似乎都管不好自己的生活，更别说掌管整个城市了。",
+            "desc": ""
+        },
+        {
+            "hash": 4014800140,
+            "original": "~z~Shit. Fucking battery. This is chaos!",
+            "translated": "~z~靠。垃圾电池。垃圾玩意！",
+            "desc": ""
+        },
+        {
+            "hash": 4026709037,
+            "original": "R6_CJ",
+            "translated": "R6_CJ",
+            "desc": ""
+        },
+        {
+            "hash": 4051636214,
+            "original": "~z~Alright. There be a spot up there. Watch out for any badness.",
+            "translated": "~z~好了。上面有个高点。留意那些不怀好意的家伙。",
+            "desc": ""
+        },
+        {
+            "hash": 4090687170,
+            "original": "~z~You a real creation stepper, Niko, righteous wit dat piece.",
+            "translated": "~z~你可真是个杀手，Niko，家伙给你正合适。",
+            "desc": ""
+        },
+        {
+            "hash": 4146401241,
+            "original": "~z~There, I have time.",
+            "translated": "~z~好了，有空了。",
+            "desc": ""
+        },
+        {
+            "hash": 4170202700,
+            "original": "R6_CC",
+            "translated": "R6_CC",
+            "desc": ""
+        },
+        {
+            "hash": 4175499316,
+            "original": "~z~Yes, I'll... I'll tell him.",
+            "translated": "~z~好的，我会...我会转告他的。",
+            "desc": ""
+        },
+        {
+            "hash": 4198532408,
+            "original": "R6_KA",
+            "translated": "R6_KA",
+            "desc": ""
+        },
+        {
+            "hash": 4209159737,
+            "original": "R6_CA",
+            "translated": "R6_CA",
+            "desc": ""
+        },
+        {
+            "hash": 4215214827,
+            "original": "R6_FB",
+            "translated": "R6_FB",
+            "desc": ""
+        },
+        {
+            "hash": 4256265684,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4267223465,
+            "original": "~z~Sure.",
+            "translated": "~z~好的。",
+            "desc": ""
+        }
+    ]
+}

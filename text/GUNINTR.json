@@ -1,0 +1,232 @@
+{
+    "GUNINTR": [
+        {
+            "hash": 138481788,
+            "original": "Use ~PAD_RSTICK_DOWN~ while locked onto a target to focus your aim on his leg.",
+            "translated": "锁定目标时，用~PAD_RSTICK_DOWN~瞄准目标腿部。",
+            "desc": ""
+        },
+        {
+            "hash": 341920172,
+            "original": "Use ~PAD_RSTICK_UP~ while locked onto a target to focus your aim on his leg.",
+            "translated": "锁定目标时，用~PAD_RSTICK_UP~瞄准目标腿部。",
+            "desc": ""
+        },
+        {
+            "hash": 420423427,
+            "original": "~r~You left Dimitri in the shop.~s~",
+            "translated": "~r~你把Dimitri落在了店里。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 586376912,
+            "original": "With ~INPUT_AIM~ held down halfway, use ~PAD_RSTICK_ALL~ to ~h~free aim.",
+            "translated": "半按~INPUT_AIM~时，使用~PAD_RSTICK_ALL~~h~自由瞄准。",
+            "desc": ""
+        },
+        {
+            "hash": 644805005,
+            "original": "Take Dimitri to the ~y~sex shop~s~ on Delaware Avenue.",
+            "translated": "带Dimitri去Delaware大道上的~y~成人用品店。",
+            "desc": ""
+        },
+        {
+            "hash": 673413250,
+            "original": "Go get ~b~Dimitri~s~ and bring him back to Faustin's house.",
+            "translated": "接上~b~Dimitri，~s~送他回Faustin家。",
+            "desc": ""
+        },
+        {
+            "hash": 706927724,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 767250523,
+            "original": "~r~The porn shop guys were injured.~s~",
+            "translated": "~r~A片店的人受伤了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 877515409,
+            "original": "Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to ~h~aim.",
+            "translated": "用~INPUT_AIM~和~PAD_RSTICK_ALL~~h~瞄准。",
+            "desc": ""
+        },
+        {
+            "hash": 990127091,
+            "original": "Follow ~b~Dimitri~s~ out of the shop.",
+            "translated": "跟随~b~Dimitri~s~离开商店。",
+            "desc": ""
+        },
+        {
+            "hash": 1368874866,
+            "original": "Use ~PAD_RSTICK_ALL~ while aiming to focus your aim on his leg.",
+            "translated": "瞄准时用~PAD_RSTICK_ALL~瞄准目标腿部。",
+            "desc": ""
+        },
+        {
+            "hash": 1484280112,
+            "original": "Don't leave ~b~Dimitri~s~ in the shop.",
+            "translated": "别把~b~Dimitri~s~落在店里。",
+            "desc": ""
+        },
+        {
+            "hash": 1730565887,
+            "original": "~s~You left ~b~Dimitri~s~ behind.",
+            "translated": "~s~你丢下了~b~Dimitri。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1732507470,
+            "original": "Injure the Joseph's associates, not Joseph.",
+            "translated": "伤害Joseph的同伙，而不是Joseph。",
+            "desc": ""
+        },
+        {
+            "hash": 1918024469,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1995707594,
+            "original": "Go with Dimitri to the ~y~gun store.",
+            "translated": "和Dimitri一起去~y~枪店。",
+            "desc": ""
+        },
+        {
+            "hash": 2353742656,
+            "original": "With ~INPUT_ATTACK~ held, use ~INPUT_AIM~ and the ~PAD_RSTICK_ALL~ to free aim while firing.",
+            "translated": "按住~INPUT_ATTACK~时，使用~INPUT_AIM~和~PAD_RSTICK_ALL~在开火时自由瞄准。",
+            "desc": ""
+        },
+        {
+            "hash": 2390490630,
+            "original": "Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim at targets.",
+            "translated": "用~INPUT_AIM~和~PAD_RSTICK_ALL~瞄准目标。",
+            "desc": ""
+        },
+        {
+            "hash": 2430290632,
+            "original": "Head into the ~y~gun store.",
+            "translated": "进入~y~枪店。",
+            "desc": ""
+        },
+        {
+            "hash": 2558515721,
+            "original": "Dimitri is dead.",
+            "translated": "Dimitri死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2593315755,
+            "original": "Hold ~INPUT_AIM~ to lock onto a target.",
+            "translated": "按住~INPUT_AIM~锁定目标。",
+            "desc": ""
+        },
+        {
+            "hash": 2637653208,
+            "original": "Placeholder for MOCAP cutscene.",
+            "translated": "Placeholder for MOCAP cutscene.",
+            "desc": ""
+        },
+        {
+            "hash": 2687101285,
+            "original": "Purchase a ~g~Micro SMG.",
+            "translated": "购买一把~g~微型冲锋枪。",
+            "desc": ""
+        },
+        {
+            "hash": 2693523929,
+            "original": "Get back to ~b~Dimitri.",
+            "translated": "回去找~b~Dimitri。",
+            "desc": ""
+        },
+        {
+            "hash": 2752527619,
+            "original": "~r~You were supposed to shoot him in the leg.~s~",
+            "translated": "~r~你要打的是他的腿。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2935520988,
+            "original": "With ~PAD_LB~ held, use the ~PAD_RSTICK_ALL~ free aim while firing.",
+            "translated": "按住~PAD_LB~时，使用~PAD_RSTICK_ALL~在开火时自由瞄准。",
+            "desc": ""
+        },
+        {
+            "hash": 3087047290,
+            "original": "Target the ~r~guy~s~ in the middle.",
+            "translated": "瞄准中间的~r~那个人。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3210353708,
+            "original": "Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim at a target.",
+            "translated": "用~INPUT_AIM~和~PAD_RSTICK_ALL~瞄准目标。",
+            "desc": ""
+        },
+        {
+            "hash": 3392028373,
+            "original": "Target ~r~Joseph~s~ to intimidate him.",
+            "translated": "瞄准~r~Joseph~s~胁迫他。",
+            "desc": ""
+        },
+        {
+            "hash": 3404119234,
+            "original": "Use ~PAD_RSTICK_LEFTRIGHT~ while locked on to aim at targets to the left and right of the current target.",
+            "translated": "锁定目标时，用~PAD_RSTICK_LEFTRIGHT~切换锁定的目标。",
+            "desc": ""
+        },
+        {
+            "hash": 3451373032,
+            "original": "Shoot the ~r~porn actor~s~ in the leg.",
+            "translated": "打断那个~r~AV男优~s~的腿。",
+            "desc": ""
+        },
+        {
+            "hash": 3462762929,
+            "original": "~r~All of your ammo was wasted.~s~",
+            "translated": "~r~你把子弹浪费光了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3579217499,
+            "original": "Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to focus your aim on his leg.",
+            "translated": "用~INPUT_AIM~和~PAD_RSTICK_ALL~瞄准他的腿部。",
+            "desc": ""
+        },
+        {
+            "hash": 3758372078,
+            "original": "~r~Dimitri is dead.~s~",
+            "translated": "~r~Dimitri死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3847188863,
+            "original": "Visit the Gun Store whenever you need guns and ammo.",
+            "translated": "需要枪支和弹药时就去枪店看看吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3916068965,
+            "original": "Enter the ~y~shop.",
+            "translated": "进入~y~商店。",
+            "desc": ""
+        },
+        {
+            "hash": 4121990185,
+            "original": "Take Dimitri to ~y~Faustin's house.",
+            "translated": "送Dimitri回~y~Faustin家。",
+            "desc": ""
+        },
+        {
+            "hash": 4294407380,
+            "original": "~r~The gun shop worker was injured.~s~",
+            "translated": "~r~枪店员工受伤了。~s~",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,508 @@
+{
+    "PIIAUD": [
+        {
+            "hash": 3978100,
+            "original": "~z~I need someone to come and get a man to leave my daughter alone.",
+            "translated": "~z~我需要有人来让某个男人离开我女儿。",
+            "desc": ""
+        },
+        {
+            "hash": 17786707,
+            "original": "~z~My husband was not perfect.",
+            "translated": "~z~我的丈夫不是完人。",
+            "desc": ""
+        },
+        {
+            "hash": 137407884,
+            "original": "010100100100",
+            "translated": "010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 140857069,
+            "original": "~z~Do not be, the sleazeball has broken up with her. I owe you thanks. Anna is safe for now.",
+            "translated": "~z~用不着道歉，那个混球和她分手了。我欠你一声谢谢。Anna现在安全了。",
+            "desc": ""
+        },
+        {
+            "hash": 148292776,
+            "original": "~z~What guy?",
+            "translated": "~z~什么人？",
+            "desc": ""
+        },
+        {
+            "hash": 194298187,
+            "original": "PII_CB",
+            "translated": "PII_CB",
+            "desc": ""
+        },
+        {
+            "hash": 264816787,
+            "original": "PII_CC",
+            "translated": "PII_CC",
+            "desc": ""
+        },
+        {
+            "hash": 289936808,
+            "original": "PII_BC",
+            "translated": "PII_BC",
+            "desc": ""
+        },
+        {
+            "hash": 345775804,
+            "original": "~z~Alright already, I'll find another bit of cooze.",
+            "translated": "~z~行了行了，我另找个逼就是。",
+            "desc": ""
+        },
+        {
+            "hash": 367430853,
+            "original": "~z~You ever see Anna again, you're going to be breathing through a tube for the rest of your life. Slimeball!",
+            "translated": "~z~你要是再敢去找Anna，你的余生就准备插着导气管度过吧。混球！",
+            "desc": ""
+        },
+        {
+            "hash": 369531571,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 381739080,
+            "original": "~z~Niko, thank you, but please... no more killing...",
+            "translated": "~z~Niko，谢谢你，不过拜托...别再杀人了...",
+            "desc": ""
+        },
+        {
+            "hash": 384691198,
+            "original": "~z~I am sorry.",
+            "translated": "~z~我很抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 459414528,
+            "original": "~z~Yes... very difficult.",
+            "translated": "~z~对...很不好过。",
+            "desc": ""
+        },
+        {
+            "hash": 471591730,
+            "original": "~z~Some slimeball, hangs out on Dillon Street in Schottler.",
+            "translated": "~z~一个混球，常在Schottler的Dillon街出没。",
+            "desc": ""
+        },
+        {
+            "hash": 505487742,
+            "original": "~z~I was sorry to hear about your husband.",
+            "translated": "~z~你丈夫的事我听说了，很遗憾。",
+            "desc": ""
+        },
+        {
+            "hash": 518582700,
+            "original": "~z~A murdering, drug addicted bully.",
+            "translated": "~z~一个嗜杀成性，嗑药上瘾的恶霸。",
+            "desc": ""
+        },
+        {
+            "hash": 615253882,
+            "original": "~z~Niko, it's Ilyena. My daughter is upstairs in tears.",
+            "translated": "~z~Niko，我是Ilyena。我的女儿现在在楼上哭呢。",
+            "desc": ""
+        },
+        {
+            "hash": 681727759,
+            "original": "010100010100010",
+            "translated": "010100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 694650541,
+            "original": "~z~In many ways, the world is better off without him.",
+            "translated": "~z~各种意义上，世界没了他都会更好。",
+            "desc": ""
+        },
+        {
+            "hash": 738319997,
+            "original": "PII_AB",
+            "translated": "PII_AB",
+            "desc": ""
+        },
+        {
+            "hash": 862561525,
+            "original": "~z~Hello?",
+            "translated": "~z~你好？",
+            "desc": ""
+        },
+        {
+            "hash": 876240598,
+            "original": "~z~In this case, I am going to get what I want.",
+            "translated": "~z~这样的话，我会满足我的要求的。",
+            "desc": ""
+        },
+        {
+            "hash": 890477861,
+            "original": "~z~I can't do much for you...",
+            "translated": "~z~我能帮你的也不多...",
+            "desc": ""
+        },
+        {
+            "hash": 927834521,
+            "original": "~z~but I will get this slimeball to leave your daughter alone.",
+            "translated": "~z~不过我会让这个混球离开你女儿的。",
+            "desc": ""
+        },
+        {
+            "hash": 943361628,
+            "original": "PII_DF",
+            "translated": "PII_DF",
+            "desc": ""
+        },
+        {
+            "hash": 978160456,
+            "original": "~z~Shit, you got a crush on that bitch or something?",
+            "translated": "~z~操，你是暗恋那个贱人还是怎样？",
+            "desc": ""
+        },
+        {
+            "hash": 992061985,
+            "original": "~z~But, now I am alone.",
+            "translated": "~z~但是，现在只剩我一人了。",
+            "desc": ""
+        },
+        {
+            "hash": 1181487089,
+            "original": "PII_AC",
+            "translated": "PII_AC",
+            "desc": ""
+        },
+        {
+            "hash": 1204601719,
+            "original": "~z~I'm sorry about that.",
+            "translated": "~z~这个我很遗憾。",
+            "desc": ""
+        },
+        {
+            "hash": 1224808864,
+            "original": "~z~She says I'm trying to come between them. I have nothing left. Nothing.",
+            "translated": "~z~她说我试图阻拦他们。我一无所有了。什么都没有。",
+            "desc": ""
+        },
+        {
+            "hash": 1407681952,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1417910011,
+            "original": "PII_FA",
+            "translated": "PII_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1485435817,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1488210863,
+            "original": "PII_DC",
+            "translated": "PII_DC",
+            "desc": ""
+        },
+        {
+            "hash": 1519315195,
+            "original": "~z~And my daughter grows up without a father. She's learning a bitter lesson very early.",
+            "translated": "~z~而我女儿的成长中就没有父亲了。这样苦涩的一课她接触的太早了。",
+            "desc": ""
+        },
+        {
+            "hash": 1561186504,
+            "original": "~z~Crazy damn Russians.",
+            "translated": "~z~疯子俄国佬。",
+            "desc": ""
+        },
+        {
+            "hash": 1580352514,
+            "original": "~z~It's Ilyena. Anna is leaving me. I have nothing now. She's moving in with that sleaze.",
+            "translated": "~z~我是Ilyena。Anna离我而去了。我现在一无所有。她搬去和那个混蛋一起住了。",
+            "desc": ""
+        },
+        {
+            "hash": 1656052885,
+            "original": "PII_DD",
+            "translated": "PII_DD",
+            "desc": ""
+        },
+        {
+            "hash": 1667719221,
+            "original": "PII_DB",
+            "translated": "PII_DB",
+            "desc": ""
+        },
+        {
+            "hash": 1753563768,
+            "original": "PII_BA",
+            "translated": "PII_BA",
+            "desc": ""
+        },
+        {
+            "hash": 1788652074,
+            "original": "PII_AE",
+            "translated": "PII_AE",
+            "desc": ""
+        },
+        {
+            "hash": 1815418511,
+            "original": "~z~I know that things must be hard, but you are strong enough for the both of you.",
+            "translated": "~z~我知道日子一定会不好过，不过你的坚强足够撑起两个人了。",
+            "desc": ""
+        },
+        {
+            "hash": 1847258598,
+            "original": "010100100010100010",
+            "translated": "010100100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 1884767721,
+            "original": "~z~Were you? Maybe. Unlike that treacherous rat Dimitri.",
+            "translated": "~z~遗憾吗？也许吧。不像Dimitri那个叛徒。",
+            "desc": ""
+        },
+        {
+            "hash": 1983881308,
+            "original": "~z~And now the money is gone, the house got repossessed and we are living in a one room apartment.",
+            "translated": "~z~现在钱没了，房子也被收回了，我们搬进了单间公寓。",
+            "desc": ""
+        },
+        {
+            "hash": 2042525625,
+            "original": "PII_AD",
+            "translated": "PII_AD",
+            "desc": ""
+        },
+        {
+            "hash": 2163405299,
+            "original": "PII_BB",
+            "translated": "PII_BB",
+            "desc": ""
+        },
+        {
+            "hash": 2191354485,
+            "original": "~z~He and I are not friends.",
+            "translated": "~z~他和我不是朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 2231935169,
+            "original": "~z~I'll fuck who I wanna fuck.",
+            "translated": "~z~我想操谁就操谁。",
+            "desc": ""
+        },
+        {
+            "hash": 2405504068,
+            "original": "~z~Shit, you're serious, I'll stay away from her.",
+            "translated": "~z~操，你来真的。我会离开她的。",
+            "desc": ""
+        },
+        {
+            "hash": 2422582066,
+            "original": "PII_CD",
+            "translated": "PII_CD",
+            "desc": ""
+        },
+        {
+            "hash": 2425476352,
+            "original": "~z~At least there people don't pretend life has any pleasure.",
+            "translated": "~z~至少那里的人不用装作生活有什么乐趣。",
+            "desc": ""
+        },
+        {
+            "hash": 2431096883,
+            "original": "~z~Hey, slimeball.",
+            "translated": "~z~喂，混球。",
+            "desc": ""
+        },
+        {
+            "hash": 2524595108,
+            "original": "~z~That bitch is lucky to have me.",
+            "translated": "~z~遇到我算那个贱人走运。",
+            "desc": ""
+        },
+        {
+            "hash": 2572765880,
+            "original": "PII_DE",
+            "translated": "PII_DE",
+            "desc": ""
+        },
+        {
+            "hash": 2639962095,
+            "original": "~z~I'm okay... you know... it's difficult.",
+            "translated": "~z~我还好吧...你也知道...不太好过。",
+            "desc": ""
+        },
+        {
+            "hash": 2702620591,
+            "original": "~z~Okay, okay... I'm persuaded. I won't see the bitch again.",
+            "translated": "~z~好了，好了...你说服我了。我不会再去找那个贱人了。",
+            "desc": ""
+        },
+        {
+            "hash": 2759392462,
+            "original": "~z~Yes... it's bad.",
+            "translated": "~z~对...这样不好。",
+            "desc": ""
+        },
+        {
+            "hash": 2776453783,
+            "original": "~z~Yes?",
+            "translated": "~z~喂？",
+            "desc": ""
+        },
+        {
+            "hash": 2895048653,
+            "original": "~z~While I'm at it, I might hit that Russian bitch's mother too.",
+            "translated": "~z~等我享受的时候，说不定还会把那个俄国贱人的妈给打一顿。",
+            "desc": ""
+        },
+        {
+            "hash": 2972987957,
+            "original": "~z~Who is this?",
+            "translated": "~z~你哪位？",
+            "desc": ""
+        },
+        {
+            "hash": 3051757256,
+            "original": "~z~I need more than that...",
+            "translated": "~z~我需要的不只是钱...",
+            "desc": ""
+        },
+        {
+            "hash": 3052583846,
+            "original": "~z~Another man in my daughter's life has met a violent death now. Thank you for that.",
+            "translated": "~z~我女儿生命中的另一个男人也暴死了。真是谢谢你啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3101513460,
+            "original": "~z~Niko - how are you?",
+            "translated": "~z~Niko，你好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3176498663,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 3199543604,
+            "original": "PII_EA",
+            "translated": "PII_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3201479045,
+            "original": "~z~The land of opportunity? I'd rather be back in Russia.",
+            "translated": "~z~还机遇之地？我宁可回俄罗斯去。",
+            "desc": ""
+        },
+        {
+            "hash": 3279017648,
+            "original": "~z~Ilyena Faustin. I thought you were different, Niko. I said no killing, all of you are the same.",
+            "translated": "~z~Ilyena Faustin。我还以为你会不一样，Niko。我说了不要杀人，你们这些人都一样。",
+            "desc": ""
+        },
+        {
+            "hash": 3407903610,
+            "original": "~z~Mrs. Faustin... it's nice to see you.",
+            "translated": "~z~Faustin太太...很高兴见到你。",
+            "desc": ""
+        },
+        {
+            "hash": 3433282414,
+            "original": "PII_CA",
+            "translated": "PII_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3455914521,
+            "original": "~z~I want you to stay away from Anna Faustin... forever.",
+            "translated": "~z~我想要你离开Anna Faustin...永远离开。",
+            "desc": ""
+        },
+        {
+            "hash": 3487597814,
+            "original": "~z~Far from it, he was awful.",
+            "translated": "~z~恰恰相反，他很糟糕。",
+            "desc": ""
+        },
+        {
+            "hash": 3528185747,
+            "original": "~z~I can see he is a slimeball - I think he is trying to turn her into a stripper, or even worse.",
+            "translated": "~z~我看得出他是个混球。我觉得他想骗我女儿去脱衣舞俱乐部，甚至更糟。",
+            "desc": ""
+        },
+        {
+            "hash": 3682364120,
+            "original": "~z~Do you need money?",
+            "translated": "~z~你需要钱吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3687919041,
+            "original": "~z~Yeah? And I want a blowjob every morning for the rest of my life, but we don't all get what we want.",
+            "translated": "~z~是吗？只是我下半辈子想要每天早上有人吹箫，不过没法同时满足我们两个。",
+            "desc": ""
+        },
+        {
+            "hash": 3862819264,
+            "original": "PII_DA",
+            "translated": "PII_DA",
+            "desc": ""
+        },
+        {
+            "hash": 3935357760,
+            "original": "~z~Why does every Russian in this city call me that?",
+            "translated": "~z~怎么这里的每个俄国人都这么叫我？",
+            "desc": ""
+        },
+        {
+            "hash": 3957607753,
+            "original": "~z~Cooze ain't worth all this trouble, man. I'm gonna dump the bitch.",
+            "translated": "~z~为了那逼惹这么多真的不值，老兄。我会甩了那个贱人的。",
+            "desc": ""
+        },
+        {
+            "hash": 3979127606,
+            "original": "PII_GA",
+            "translated": "PII_GA",
+            "desc": ""
+        },
+        {
+            "hash": 4008796933,
+            "original": "PII_AA",
+            "translated": "PII_AA",
+            "desc": ""
+        },
+        {
+            "hash": 4034717845,
+            "original": "~z~Goodbye.",
+            "translated": "~z~再见。",
+            "desc": ""
+        },
+        {
+            "hash": 4120076455,
+            "original": "~z~Shit, I was getting bored of her anyway. I won't see Anna again.",
+            "translated": "~z~操，反正她我也玩腻了。我不会再去找Anna了。",
+            "desc": ""
+        },
+        {
+            "hash": 4165985982,
+            "original": "~z~Whaddya want, shit face?",
+            "translated": "~z~你丫想干啥，猪头？",
+            "desc": ""
+        }
+    ]
+}

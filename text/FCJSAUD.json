@@ -1,0 +1,1642 @@
+{
+    "FCJSAUD": [
+        {
+            "hash": 4273538,
+            "original": "~z~Hey, star - I got what you wanted.",
+            "translated": "~z~嘿，兄弟，你要的我带来了。",
+            "desc": ""
+        },
+        {
+            "hash": 7054359,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 22381104,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 34609599,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_NORTHWOOd",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_NORTHWOOd",
+            "desc": ""
+        },
+        {
+            "hash": 37793778,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 68351591,
+            "original": "~z~Meet me at City Hall now.",
+            "translated": "~z~快到市政厅来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 94583973,
+            "original": "~z~Right you are star.",
+            "translated": "~z~明白了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 114265612,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 125705492,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_HOVE_BEACH",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_HOVE_BEACH",
+            "desc": ""
+        },
+        {
+            "hash": 125846427,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_NORMANDY",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_NORMANDY",
+            "desc": ""
+        },
+        {
+            "hash": 126794161,
+            "original": "~z~Yeah man, check this shit out ma bredren.",
+            "translated": "~z~好啊兄弟，看看这家伙吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 167244317,
+            "original": "~z~Yeah man, me have di heavy firepower ya need, ya know man?",
+            "translated": "~z~对，兄弟，我有你要的重火力好吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 181506712,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 195501508,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 218597425,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_CERVESA_HEIGHTS",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_CERVESA_HEIGHTS",
+            "desc": ""
+        },
+        {
+            "hash": 252340366,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_FISHMARKET_SOUTH",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_FISHMARKET_SOUTH",
+            "desc": ""
+        },
+        {
+            "hash": 264301696,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 269609094,
+            "original": "~z~Pick me up a' - em, the gardens yo, Northern Gardens.",
+            "translated": "~z~来接我吧，在那什么，在Northern Gardens。",
+            "desc": ""
+        },
+        {
+            "hash": 272676977,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_LANCASTER",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_LANCASTER",
+            "desc": ""
+        },
+        {
+            "hash": 285094567,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 296854802,
+            "original": "FCJ_ACT_PLJ_GETCALL_SPEC_END",
+            "translated": "FCJ_ACT_PLJ_GETCALL_SPEC_END",
+            "desc": ""
+        },
+        {
+            "hash": 311670687,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_MEADOWS_PARK",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_MEADOWS_PARK",
+            "desc": ""
+        },
+        {
+            "hash": 317349673,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 318615452,
+            "original": "~z~Yo Niko, I your bredaman, Jacob. Listen, we been friends for a long time, seen? Phone me up if you need to buy some guns, seen?",
+            "translated": "~z~哟，Niko，我是你的好兄弟，Jacob。我们已经是朋友很久了，对吧？你要是需要买枪就打给我，懂？",
+            "desc": ""
+        },
+        {
+            "hash": 333049324,
+            "original": "~z~Niko, me there a' Fortside, link up.",
+            "translated": "~z~Niko，我现在在Fortside，快来。",
+            "desc": ""
+        },
+        {
+            "hash": 341556441,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 341619641,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 344688314,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 351294316,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 360571000,
+            "original": "~z~Yeah man, meet me down at Purgatory.",
+            "translated": "~z~好，兄弟，到Purgatory来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 364281673,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_NORTH_GARDENS",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_NORTH_GARDENS",
+            "desc": ""
+        },
+        {
+            "hash": 364703107,
+            "original": "~z~Yo, link me down a' Middle Park West now.",
+            "translated": "~z~哟，我们在中心公园西碰头。",
+            "desc": ""
+        },
+        {
+            "hash": 378056194,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_STAR_JUNCTION",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_STAR_JUNCTION",
+            "desc": ""
+        },
+        {
+            "hash": 379129160,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 382017247,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_NORTH_HOLLAND",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_NORTH_HOLLAND",
+            "desc": ""
+        },
+        {
+            "hash": 384878571,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_GENERIC",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_GENERIC",
+            "desc": ""
+        },
+        {
+            "hash": 390532283,
+            "original": "~z~All de heat is right here, seen?",
+            "translated": "~z~东西都在这儿了，懂？",
+            "desc": ""
+        },
+        {
+            "hash": 411248913,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_ACTER_INDUSTRIAL",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_ACTER_INDUSTRIAL",
+            "desc": ""
+        },
+        {
+            "hash": 425558250,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_MIDDLE_PARK",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_MIDDLE_PARK",
+            "desc": ""
+        },
+        {
+            "hash": 432209991,
+            "original": "~z~Had enough o' dis.",
+            "translated": "~z~我受够了。",
+            "desc": ""
+        },
+        {
+            "hash": 435805394,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 479242774,
+            "original": "~z~Yo, meet me at Cerveza Heights.",
+            "translated": "~z~哟，到Cerveza Heights来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 502783921,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 516079572,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_LITTLE_BAY",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_LITTLE_BAY",
+            "desc": ""
+        },
+        {
+            "hash": 516709465,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 539138904,
+            "original": "~z~I and I best clear outta here before Babylon arrive.",
+            "translated": "~z~最好在条子过来前走人。",
+            "desc": ""
+        },
+        {
+            "hash": 566975941,
+            "original": "~z~Der be an explosion.",
+            "translated": "~z~这玩意很猛。",
+            "desc": ""
+        },
+        {
+            "hash": 571863479,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 581782315,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_LEFTWOOD",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_LEFTWOOD",
+            "desc": ""
+        },
+        {
+            "hash": 602864861,
+            "original": "~z~Whappen star? I got the tings a' you wanted yo.",
+            "translated": "~z~你好吗，兄弟？你要的我都拿来了。",
+            "desc": ""
+        },
+        {
+            "hash": 610754067,
+            "original": "~z~One love, Niko. I and I be seeing each other real soon.",
+            "translated": "~z~再见，Niko。我们很快就会再见面的。",
+            "desc": ""
+        },
+        {
+            "hash": 628336916,
+            "original": "~z~I got some teeth inna here ya know, bredren.",
+            "translated": "~z~我这儿有点东西好吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 663141513,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_AIRPORT",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_AIRPORT",
+            "desc": ""
+        },
+        {
+            "hash": 685411143,
+            "original": "~z~Why ya fucking around and ting?",
+            "translated": "~z~你他妈在搞毛啊？",
+            "desc": ""
+        },
+        {
+            "hash": 721894238,
+            "original": "~z~Star, me down East Holland man, yo, link up.",
+            "translated": "~z~兄弟，我在East Holland等你。快点。",
+            "desc": ""
+        },
+        {
+            "hash": 734962794,
+            "original": "~z~Yo, me not having no more o' dis.",
+            "translated": "~z~哟，我这儿待不下去了。",
+            "desc": ""
+        },
+        {
+            "hash": 735168047,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 738217566,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_NO",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_NO",
+            "desc": ""
+        },
+        {
+            "hash": 743965507,
+            "original": "~z~There it be and ting.",
+            "translated": "~z~就是这些了。",
+            "desc": ""
+        },
+        {
+            "hash": 762971050,
+            "original": "~z~Yeah, just meet me up at Triangle.",
+            "translated": "~z~好的，你到Triangle来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 776427990,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 822722624,
+            "original": "~z~Everyting a mafia don could want inna dis shit.",
+            "translated": "~z~连黑手党教父想要的东西都在这里面了。",
+            "desc": ""
+        },
+        {
+            "hash": 828170004,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 846675969,
+            "original": "~z~Cha, me need fe get outta here me bredren, later.",
+            "translated": "~z~操，我得赶紧离开这儿了，兄弟，回见。",
+            "desc": ""
+        },
+        {
+            "hash": 878156374,
+            "original": "~z~Jacob, I need some of that hardware you promised me.",
+            "translated": "~z~Jacob，我需要一些你和我说过的真家伙。",
+            "desc": ""
+        },
+        {
+            "hash": 909013678,
+            "original": "~z~Meet me at Tudor.",
+            "translated": "~z~到Tudor来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 929038007,
+            "original": "~z~Yo, pick me up a' Middle Park East now.",
+            "translated": "~z~哟，来中心公园东找我。",
+            "desc": ""
+        },
+        {
+            "hash": 941499709,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_EAST_HOLLAND",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_EAST_HOLLAND",
+            "desc": ""
+        },
+        {
+            "hash": 953058371,
+            "original": "~z~Thanks Jacob - I appreciate that.",
+            "translated": "~z~谢了，Jacob，我很感激。",
+            "desc": ""
+        },
+        {
+            "hash": 976825860,
+            "original": "~z~Ya been blacking up too much me breda?",
+            "translated": "~z~你丫抽草抽嗨了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 986505149,
+            "original": "~z~Righteous, bredren. Good fe see de I.",
+            "translated": "~z~真好，兄弟。很高兴见到你。",
+            "desc": ""
+        },
+        {
+            "hash": 986519190,
+            "original": "FCJ_ACT_SPEC_SLEEPING_YES",
+            "translated": "FCJ_ACT_SPEC_SLEEPING_YES",
+            "desc": ""
+        },
+        {
+            "hash": 989953512,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1034186919,
+            "original": "FCJ_GREET",
+            "translated": "FCJ_GREET",
+            "desc": ""
+        },
+        {
+            "hash": 1054815972,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1058970810,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1069187936,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_EASTON",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_EASTON",
+            "desc": ""
+        },
+        {
+            "hash": 1076539900,
+            "original": "~z~Jacob, I need to get a hold of a weapon. Can you help me?",
+            "translated": "~z~Jacob，我需要来把武器，你能帮我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1078760929,
+            "original": "~z~Keep outta trouble bredren. I an' I see ya soon.",
+            "translated": "~z~别惹什么麻烦，兄弟。我们之后见。",
+            "desc": ""
+        },
+        {
+            "hash": 1086542819,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_BEECHWOOD_CITY",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_BEECHWOOD_CITY",
+            "desc": ""
+        },
+        {
+            "hash": 1093020895,
+            "original": "~z~It all there, me breda.",
+            "translated": "~z~都在这儿了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1093194891,
+            "original": "~z~Yeah, pick me up a' Lower Easton.",
+            "translated": "~z~好啊，来Lower Easton找我。",
+            "desc": ""
+        },
+        {
+            "hash": 1133678916,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_FISHMARKET_NORTH",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_FISHMARKET_NORTH",
+            "desc": ""
+        },
+        {
+            "hash": 1134706070,
+            "original": "~z~Ye Niko man, me down a' Normandy, link me up now.",
+            "translated": "~z~好的，Niko兄弟，我现在在Normandy，快来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 1135142770,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1157210332,
+            "original": "~z~Yo, meet me a' Outlook Park star.",
+            "translated": "~z~哟，你来Outlook Park找我。",
+            "desc": ""
+        },
+        {
+            "hash": 1188852253,
+            "original": "~z~Pick me up at Fishmarket South.",
+            "translated": "~z~来鱼市南拿货。",
+            "desc": ""
+        },
+        {
+            "hash": 1195161645,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1210989565,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_THE_TRIANGLE",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_THE_TRIANGLE",
+            "desc": ""
+        },
+        {
+            "hash": 1232063601,
+            "original": "~z~Niko, ya need fe calm yourself down.",
+            "translated": "~z~Niko，你要好好冷静一下。",
+            "desc": ""
+        },
+        {
+            "hash": 1241847513,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1245310418,
+            "original": "~z~Yeah man, ya can find me at Lancaster man, just come for me, nuh?",
+            "translated": "~z~好，兄弟，你到Lancaster来找我，过来找我好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1298568761,
+            "original": "~z~Yo, me can't hook you up again y'know, star. Just gimme some time to get some merchandise, seen?",
+            "translated": "~z~哟，我现在没法帮你，兄弟。给我点时间进货，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1310282033,
+            "original": "~z~Whappen, rasta, I got de ting dem for you.",
+            "translated": "~z~你好吗，兄弟，我把东西带过来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1323215683,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1358575420,
+            "original": "~z~Later my youth. Call me and ting.",
+            "translated": "~z~回见，小伙子，有空再联系。",
+            "desc": ""
+        },
+        {
+            "hash": 1379958675,
+            "original": "~z~Yo, I an' I should be geting outta here bredren.",
+            "translated": "~z~哟，我先走一步了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1394524946,
+            "original": "~z~Whappen rasta? What you doing?",
+            "translated": "~z~搞毛啊，兄弟？你在干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 1394701649,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1409240830,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1411175781,
+            "original": "~z~Yo. You wake me up. It better be important y'know?",
+            "translated": "~z~哟，你吵醒我了。最好是要紧事好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1411784031,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_INDUSTRIAL",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_INDUSTRIAL",
+            "desc": ""
+        },
+        {
+            "hash": 1421223241,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1426518944,
+            "original": "~z~Hey Jacob, listen. I don't need the hardware no more.",
+            "translated": "~z~嘿，Jacob，听着，我不需要你的家伙了。",
+            "desc": ""
+        },
+        {
+            "hash": 1431938851,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_PRESIDENTS_CITY",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_PRESIDENTS_CITY",
+            "desc": ""
+        },
+        {
+            "hash": 1435135000,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1463216127,
+            "original": "~z~Cha, Niko. What kind of fuckery's a go on?",
+            "translated": "~z~操，Niko。这他妈是想干啥？",
+            "desc": ""
+        },
+        {
+            "hash": 1469468651,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_BERCHAMN",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_BERCHAMN",
+            "desc": ""
+        },
+        {
+            "hash": 1473370678,
+            "original": "~z~I an' I got nuff guns ya know, my youth.",
+            "translated": "~z~我这儿的枪很多好吧，小伙子。",
+            "desc": ""
+        },
+        {
+            "hash": 1477987783,
+            "original": "~z~Yeah man, me see you at Chinatown.",
+            "translated": "~z~好的兄弟，我在唐人街等你。",
+            "desc": ""
+        },
+        {
+            "hash": 1505218594,
+            "original": "FCJ_TRUNK",
+            "translated": "FCJ_TRUNK",
+            "desc": ""
+        },
+        {
+            "hash": 1512229261,
+            "original": "~z~Later on Niko. Easy.",
+            "translated": "~z~回头见，Niko。就这。",
+            "desc": ""
+        },
+        {
+            "hash": 1570395808,
+            "original": "~z~No problem Niko.",
+            "translated": "~z~没问题，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1578297016,
+            "original": "~z~What? You feeling this?",
+            "translated": "~z~怎么样？感受到了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1580316289,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1597414760,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_MEADOWS_HILLS",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_MEADOWS_HILLS",
+            "desc": ""
+        },
+        {
+            "hash": 1622252655,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_SCHOTTLE",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_SCHOTTLE",
+            "desc": ""
+        },
+        {
+            "hash": 1644445872,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_CASTLE_GARDENS",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_CASTLE_GARDENS",
+            "desc": ""
+        },
+        {
+            "hash": 1653579835,
+            "original": "~z~No problem Niko, just meet me at the Exchange.",
+            "translated": "~z~没问题，Niko，你来证交区找我。",
+            "desc": ""
+        },
+        {
+            "hash": 1776024301,
+            "original": "FCJ_ACT_CALL_SPEC_END",
+            "translated": "FCJ_ACT_CALL_SPEC_END",
+            "desc": ""
+        },
+        {
+            "hash": 1830367631,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_WILLIS",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_WILLIS",
+            "desc": ""
+        },
+        {
+            "hash": 1855429285,
+            "original": "~z~Sorry man - I need your help. I need some equipment.",
+            "translated": "~z~抱歉，兄弟，我需要你帮忙。给我来点装备。",
+            "desc": ""
+        },
+        {
+            "hash": 1897278402,
+            "original": "~z~Hey, listen, Jacob - it's all cool. I don't need that hardware anymore.",
+            "translated": "~z~嘿，听着，Jacob，都没事了。我不需要你那些家伙了。",
+            "desc": ""
+        },
+        {
+            "hash": 1903817917,
+            "original": "~z~No problem man, meet me a' Meadows Park man.",
+            "translated": "~z~没问题，兄弟，你来草地公园找我。",
+            "desc": ""
+        },
+        {
+            "hash": 1946542997,
+            "original": "FCJ_ACT_GETCALL_SPEC",
+            "translated": "FCJ_ACT_GETCALL_SPEC",
+            "desc": ""
+        },
+        {
+            "hash": 1955345913,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_FIREFLY_ISLAND",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_FIREFLY_ISLAND",
+            "desc": ""
+        },
+        {
+            "hash": 1969000230,
+            "original": "~z~A'ight, pick dem up a' Meadow Hills.",
+            "translated": "~z~好的，你来Meadow Hills拿货吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1996334176,
+            "original": "~z~No problem man, just meet I an' I at Hove Beach.",
+            "translated": "~z~没问题，兄弟，到Hove Beach来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 2027703892,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2032837929,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2034749701,
+            "original": "~z~Yo, Niko, meet me at Steinway.",
+            "translated": "~z~哟，Niko，到Steinway来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 2062930377,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_HATTON_GARDENs",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_HATTON_GARDENs",
+            "desc": ""
+        },
+        {
+            "hash": 2071185553,
+            "original": "~z~Yo, just meet me a' Firefly Projects.",
+            "translated": "~z~哟，到Firefly公屋社区找我。",
+            "desc": ""
+        },
+        {
+            "hash": 2077895343,
+            "original": "~z~Yo, meet me at Castle Gardens now.",
+            "translated": "~z~哟，我们Castle Gardens见。",
+            "desc": ""
+        },
+        {
+            "hash": 2081951439,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2099761980,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2127599015,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2134583741,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2162544772,
+            "original": "~z~No problem Niko man, jus meet me a' South Slopes.",
+            "translated": "~z~没问题，Niko兄弟，到South Slopes来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 2169617981,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2181607562,
+            "original": "~z~Meet me a' Port Tudor.",
+            "translated": "~z~来Tudor港找我。",
+            "desc": ""
+        },
+        {
+            "hash": 2187506160,
+            "original": "~z~Whappen? Why you gwan and wake me up?",
+            "translated": "~z~什么事？你干嘛要吵醒我？",
+            "desc": ""
+        },
+        {
+            "hash": 2210745647,
+            "original": "~z~Yo man, meet me pon Firefly Island.",
+            "translated": "~z~哟，兄弟，来Firefly Island找我。",
+            "desc": ""
+        },
+        {
+            "hash": 2229053077,
+            "original": "~z~What you doing, man?",
+            "translated": "~z~你干嘛啊，老兄？",
+            "desc": ""
+        },
+        {
+            "hash": 2242788172,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2245541769,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2274358039,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_PURGATORY",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_PURGATORY",
+            "desc": ""
+        },
+        {
+            "hash": 2282229178,
+            "original": "~z~Yea star, me down a' Northwood man, link up.",
+            "translated": "~z~好啊兄弟，我在Northwood呢。快点。",
+            "desc": ""
+        },
+        {
+            "hash": 2331136858,
+            "original": "~z~Sorry, Jacob - it's real important - I need some hardware.",
+            "translated": "~z~抱歉，Jacob，真的很重要。我需要来点家伙。",
+            "desc": ""
+        },
+        {
+            "hash": 2339843817,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2342968623,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_TUDOR",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_TUDOR",
+            "desc": ""
+        },
+        {
+            "hash": 2347732152,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2355797388,
+            "original": "FCJ_GO",
+            "translated": "FCJ_GO",
+            "desc": ""
+        },
+        {
+            "hash": 2378389131,
+            "original": "~z~Pick me up a' Little Italy.",
+            "translated": "~z~来小意大利拿货。",
+            "desc": ""
+        },
+        {
+            "hash": 2385916869,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2397880338,
+            "original": "FCJ_MESS",
+            "translated": "FCJ_MESS",
+            "desc": ""
+        },
+        {
+            "hash": 2400988918,
+            "original": "FCJ_ACT_PLJ_CALL_CANCEL_SPEC",
+            "translated": "FCJ_ACT_PLJ_CALL_CANCEL_SPEC",
+            "desc": ""
+        },
+        {
+            "hash": 2410770860,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_CHARGE_ISLAND",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_CHARGE_ISLAND",
+            "desc": ""
+        },
+        {
+            "hash": 2436194250,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_LOWER_EASTON",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_LOWER_EASTON",
+            "desc": ""
+        },
+        {
+            "hash": 2437109186,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_SOUTH_SLOPES",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_SOUTH_SLOPES",
+            "desc": ""
+        },
+        {
+            "hash": 2454493758,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2464484006,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2475936689,
+            "original": "FCJ_ACT_SPEC_GOODBYE",
+            "translated": "FCJ_ACT_SPEC_GOODBYE",
+            "desc": ""
+        },
+        {
+            "hash": 2489132222,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_COLONY_ISLAND",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_COLONY_ISLAND",
+            "desc": ""
+        },
+        {
+            "hash": 2504356843,
+            "original": "~z~Me down South Bohan man, just link up star, link up.",
+            "translated": "~z~我在South Bohan，兄弟，你快点来找我，快。",
+            "desc": ""
+        },
+        {
+            "hash": 2530636936,
+            "original": "~z~Me down Little Bay man, link up, link up.",
+            "translated": "~z~我在Little Bay，兄弟。快来快来。",
+            "desc": ""
+        },
+        {
+            "hash": 2547280674,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2551562511,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2576532466,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2576859398,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_THE_EXCHANGE",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_THE_EXCHANGE",
+            "desc": ""
+        },
+        {
+            "hash": 2586538042,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_MIDDLE_PARK_EAST",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_MIDDLE_PARK_EAST",
+            "desc": ""
+        },
+        {
+            "hash": 2590731086,
+            "original": "~z~Yeah man, meet me round Chase Point, man, link up, link up.",
+            "translated": "~z~好的，兄弟，来Chase Point找我，要快，要快。",
+            "desc": ""
+        },
+        {
+            "hash": 2613925523,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_CITY_HALL",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_CITY_HALL",
+            "desc": ""
+        },
+        {
+            "hash": 2651207660,
+            "original": "~z~Meet me down at Colony Island now.",
+            "translated": "~z~到Colony岛来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 2670385278,
+            "original": "~z~You get dis one, you win rasta.",
+            "translated": "~z~这个归你了，你赢了好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2679500782,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_SOUTH_BOHAN",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_SOUTH_BOHAN",
+            "desc": ""
+        },
+        {
+            "hash": 2681568544,
+            "original": "~z~Sorry, man - I need some help. I need some hardware, know what I mean?",
+            "translated": "~z~抱歉，兄弟，我需要帮助。给我来点家伙，懂我意思吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2739870750,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2740993466,
+            "original": "FCJ_ACT_SPEC_INJURED",
+            "translated": "FCJ_ACT_SPEC_INJURED",
+            "desc": ""
+        },
+        {
+            "hash": 2745293962,
+            "original": "~z~Irie, Niko. Gimme a call, nuh?",
+            "translated": "~z~好了，Niko。有空联系，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2759079118,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2787247955,
+            "original": "FCJ_ACT_PLJ_CALL_REQ_SPEC",
+            "translated": "FCJ_ACT_PLJ_CALL_REQ_SPEC",
+            "desc": ""
+        },
+        {
+            "hash": 2812234409,
+            "original": "~z~Yo, sorry rasta, yo. I don't have nuthin for ya right now, man. Try again later.",
+            "translated": "~z~哟，抱歉好兄弟，哟。我现在没东西能给你，兄弟。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2843138530,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_DOWNTOWN",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_DOWNTOWN",
+            "desc": ""
+        },
+        {
+            "hash": 2874165250,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_PORT_TUDOR",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_PORT_TUDOR",
+            "desc": ""
+        },
+        {
+            "hash": 2900968187,
+            "original": "~z~Yo, me down Varsity Heights y'know, link up, star.",
+            "translated": "~z~哟，我在Varsity Heights，懂吧，速来，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2902999784,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_FIREFLY_PROJECTS",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_FIREFLY_PROJECTS",
+            "desc": ""
+        },
+        {
+            "hash": 2909074674,
+            "original": "~z~Don't miss.",
+            "translated": "~z~别走火了。",
+            "desc": ""
+        },
+        {
+            "hash": 2918361223,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_MIDDLE_PARK_WEST",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_MIDDLE_PARK_WEST",
+            "desc": ""
+        },
+        {
+            "hash": 2921336045,
+            "original": "FCJ_ACT_SPEC_CAR_DAMAGE",
+            "translated": "FCJ_ACT_SPEC_CAR_DAMAGE",
+            "desc": ""
+        },
+        {
+            "hash": 2934752145,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_OUTLOOK_PARK",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_OUTLOOK_PARK",
+            "desc": ""
+        },
+        {
+            "hash": 2936558799,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2969883296,
+            "original": "~z~Yo star, just pick me up at the Presidents City now.",
+            "translated": "~z~哟，老兄，你来Presidents City找我。",
+            "desc": ""
+        },
+        {
+            "hash": 2972559680,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2974425366,
+            "original": "FCJ_ACT_CALL_REQ_EAST_ISLAND_CITY",
+            "translated": "FCJ_ACT_CALL_REQ_EAST_ISLAND_CITY",
+            "desc": ""
+        },
+        {
+            "hash": 2978142278,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2995929781,
+            "original": "~z~Yeah man, me down a' Westdyke man, link up.",
+            "translated": "~z~好啊，兄弟，我在Westdyke，兄弟，速来。",
+            "desc": ""
+        },
+        {
+            "hash": 3012788567,
+            "original": "~z~You're a dangerous man ya know Niko Bellic, BOOM, BOOM!",
+            "translated": "~z~你这人很危险啊，Niko Bellic，砰，砰！",
+            "desc": ""
+        },
+        {
+            "hash": 3031269992,
+            "original": "FCJ_ACT_SPEC_GREETING",
+            "translated": "FCJ_ACT_SPEC_GREETING",
+            "desc": ""
+        },
+        {
+            "hash": 3050983808,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3068854240,
+            "original": "~z~Easy now, star.",
+            "translated": "~z~放松，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3068869719,
+            "original": "~z~No problem Niko, meet me at Schottler.",
+            "translated": "~z~没问题，Niko，到Schottler来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 3114302303,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_ACTER",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_ACTER",
+            "desc": ""
+        },
+        {
+            "hash": 3128133357,
+            "original": "~z~Be safe, rude boy.",
+            "translated": "~z~注意安全，莽娃。",
+            "desc": ""
+        },
+        {
+            "hash": 3149595554,
+            "original": "~z~Yo, see you Downtown.",
+            "translated": "~z~哟，我们中心区见。",
+            "desc": ""
+        },
+        {
+            "hash": 3158743807,
+            "original": "~z~Meet me down a' Leftwood.",
+            "translated": "~z~来Leftwood找我。",
+            "desc": ""
+        },
+        {
+            "hash": 3173857231,
+            "original": "~z~Sorry man - I've got a problem. I need your help. I need a tool if you know what I mean?",
+            "translated": "~z~抱歉，兄弟，我遇上了麻烦，需要你的帮助。我需要工具，你能听懂吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3177106300,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3197733410,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3233468941,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_CHASE_POINT",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_CHASE_POINT",
+            "desc": ""
+        },
+        {
+            "hash": 3248096040,
+            "original": "~z~Yo, pick me up a' North Holland, now.",
+            "translated": "~z~哟，到North Holland来找我，现在。",
+            "desc": ""
+        },
+        {
+            "hash": 3252079555,
+            "original": "~z~Meet you pon the Boulevard man, yo link up star, link up.",
+            "translated": "~z~到时候Boulevard碰头，兄弟。我在那里等你。",
+            "desc": ""
+        },
+        {
+            "hash": 3323229770,
+            "original": "~z~Wha'gwan Niko? How's it going?",
+            "translated": "~z~怎么了，Niko？近况如何？",
+            "desc": ""
+        },
+        {
+            "hash": 3329889553,
+            "original": "~z~You wolf man you know Niko?",
+            "translated": "~z~你好烦人诶，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3345238975,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3368493972,
+            "original": "~z~See you later, rasta.",
+            "translated": "~z~之后见，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3382016489,
+            "original": "~z~No problem, me meet you at Fishmarket North.",
+            "translated": "~z~没问题，我们鱼市北见。",
+            "desc": ""
+        },
+        {
+            "hash": 3390994027,
+            "original": "~z~Yo, pick me up at Charge Island now.",
+            "translated": "~z~哟，到Charge岛来拿货。",
+            "desc": ""
+        },
+        {
+            "hash": 3401589469,
+            "original": "FCJ_ACT_PLJ_REQ_SPEC_SLEEP",
+            "translated": "FCJ_ACT_PLJ_REQ_SPEC_SLEEP",
+            "desc": ""
+        },
+        {
+            "hash": 3405119501,
+            "original": "~z~Dat's me main man, Niko.",
+            "translated": "~z~好兄弟来啦，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3414883187,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3421088150,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3424477801,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3429286194,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3432954646,
+            "original": "FCJ_ACT_SPEC_BORED",
+            "translated": "FCJ_ACT_SPEC_BORED",
+            "desc": ""
+        },
+        {
+            "hash": 3437700216,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_YES_STEINWAY",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_YES_STEINWAY",
+            "desc": ""
+        },
+        {
+            "hash": 3448329126,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3464360861,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3466052465,
+            "original": "FCJ_BYE",
+            "translated": "FCJ_BYE",
+            "desc": ""
+        },
+        {
+            "hash": 3499799918,
+            "original": "~z~Ye dun know, ye dun know man, Middle Park.",
+            "translated": "~z~你不懂，你不懂，兄弟。中心公园。",
+            "desc": ""
+        },
+        {
+            "hash": 3512837357,
+            "original": "~z~Yeah man, just pick me up at Easton.",
+            "translated": "~z~好的兄弟，你到Easton来提货。",
+            "desc": ""
+        },
+        {
+            "hash": 3532794108,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3536817785,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3582552898,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3605969090,
+            "original": "~z~Yeah man, see you at Acter.",
+            "translated": "~z~好的兄弟，我们Acter见。",
+            "desc": ""
+        },
+        {
+            "hash": 3607419679,
+            "original": "~z~Wha'gwan? You wake us up.",
+            "translated": "~z~干什么？你吵醒我了。",
+            "desc": ""
+        },
+        {
+            "hash": 3617046010,
+            "original": "~z~Yo, link me down a' Hatton Gardens now.",
+            "translated": "~z~哟，到Hatton Gardens来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 3629136061,
+            "original": "~z~Yo, you vexing me now, fassy one.",
+            "translated": "~z~哟，我要生气了，臭小子。",
+            "desc": ""
+        },
+        {
+            "hash": 3663473647,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_VARSITY_HEIGHTS",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_VARSITY_HEIGHTS",
+            "desc": ""
+        },
+        {
+            "hash": 3679533817,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3683401198,
+            "original": "~z~Yo, me see you a' Willis.",
+            "translated": "~z~哟，我们Willis见。",
+            "desc": ""
+        },
+        {
+            "hash": 3703497423,
+            "original": "~z~Okay man, jus meet me a' Suffolk.",
+            "translated": "~z~好吧，兄弟，到Suffolk来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 3730921431,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3743225058,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3767726472,
+            "original": "~z~Yo, me see you at Beechwood City.",
+            "translated": "~z~哟，我们Beechwood City见。",
+            "desc": ""
+        },
+        {
+            "hash": 3833254864,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_SUFFOLK",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_SUFFOLK",
+            "desc": ""
+        },
+        {
+            "hash": 3837863062,
+            "original": "~z~I hot-stepping outta here Niko. See ya.",
+            "translated": "~z~我先跑路了，Niko。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 3864946412,
+            "original": "~z~Hurry up now Niko man!",
+            "translated": "~z~快点，Niko兄弟！",
+            "desc": ""
+        },
+        {
+            "hash": 3869545893,
+            "original": "~z~Yo, pick me up at de airport.",
+            "translated": "~z~哟，来机场找我。",
+            "desc": ""
+        },
+        {
+            "hash": 3900608778,
+            "original": "~z~No problem man, meet me at East island City.",
+            "translated": "~z~没问题，兄弟，来东岛城找我。",
+            "desc": ""
+        },
+        {
+            "hash": 3913187218,
+            "original": "~z~Wa mek ya wake me up?",
+            "translated": "~z~你吵醒我干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 3934480405,
+            "original": "~z~Pick me up a' Star Junction now.",
+            "translated": "~z~快点来星汇广场找我。",
+            "desc": ""
+        },
+        {
+            "hash": 3942363178,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_WESTDYKE",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_WESTDYKE",
+            "desc": ""
+        },
+        {
+            "hash": 3954370923,
+            "original": "~z~Be cool ya know, Niko.",
+            "translated": "~z~放轻松，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3978822898,
+            "original": "~z~No problem man, me see you at Berchem.",
+            "translated": "~z~没问题，兄弟，我们Berchem见。",
+            "desc": ""
+        },
+        {
+            "hash": 3994155815,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_CHINATOWN",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_CHINATOWN",
+            "desc": ""
+        },
+        {
+            "hash": 3994829583,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_FORTSIDE",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_FORTSIDE",
+            "desc": ""
+        },
+        {
+            "hash": 3996929056,
+            "original": "FCJ_GUN_CHAT",
+            "translated": "FCJ_GUN_CHAT",
+            "desc": ""
+        },
+        {
+            "hash": 4009722804,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4020947318,
+            "original": "~z~Wha'gwan Niko? Good fe see de man.",
+            "translated": "~z~怎么样啊，Niko？很高兴见到你，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 4023054052,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4024456617,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_BOULEVARD",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_BOULEVARD",
+            "desc": ""
+        },
+        {
+            "hash": 4045446108,
+            "original": "~z~Cha! What ya are do Niko?",
+            "translated": "~z~操！你干什么啊，Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 4055701626,
+            "original": "~z~I got the guns you know, Niko.",
+            "translated": "~z~枪都在这儿了，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 4060177419,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4093145470,
+            "original": "FCJ_STUFF",
+            "translated": "FCJ_STUFF",
+            "desc": ""
+        },
+        {
+            "hash": 4093545293,
+            "original": "~z~Yo, meet me down a' Industrial yo.",
+            "translated": "~z~哟，来工业区找我。",
+            "desc": ""
+        },
+        {
+            "hash": 4103783735,
+            "original": "FCJ_ACT_CALL_REQ_SPEC_LITTLE_ITALY",
+            "translated": "FCJ_ACT_CALL_REQ_SPEC_LITTLE_ITALY",
+            "desc": ""
+        },
+        {
+            "hash": 4141631692,
+            "original": "~z~Yo, dis rasta be getting outta here. Later.",
+            "translated": "~z~哟，老弟我必须要走了，回见。",
+            "desc": ""
+        },
+        {
+            "hash": 4152517712,
+            "original": "~z~I see ya Acter Industrial.",
+            "translated": "~z~我们Acter工业园见。",
+            "desc": ""
+        },
+        {
+            "hash": 4175649127,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4251837692,
+            "original": "~z~Wicked Niko, yah here.",
+            "translated": "~z~恶人啊，Niko，你来啦。",
+            "desc": ""
+        },
+        {
+            "hash": 4259049777,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        }
+    ]
+}

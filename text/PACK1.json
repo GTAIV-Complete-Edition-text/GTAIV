@@ -1,0 +1,190 @@
+{
+    "PACK1": [
+        {
+            "hash": 68434750,
+            "original": "~s~Continue ~y~outside~s~ the docks.",
+            "translated": "~s~到码头~y~外面~s~继续。",
+            "desc": ""
+        },
+        {
+            "hash": 125494728,
+            "original": "~s~Go to the ~y~lockup.",
+            "translated": "~s~前往~y~车库。",
+            "desc": ""
+        },
+        {
+            "hash": 132621550,
+            "original": "~s~Press ~PAD_X~ to climb onto an object.",
+            "translated": "~s~按~PAD_X~爬上障碍物。",
+            "desc": ""
+        },
+        {
+            "hash": 549448519,
+            "original": "~s~Go to the ~y~harbor warehouse.",
+            "translated": "~s~前往~y~码头仓库。",
+            "desc": ""
+        },
+        {
+            "hash": 1301065779,
+            "original": "~s~Press ~PAD_Y~ to drop down.",
+            "translated": "~s~按~PAD_Y~松手落下。",
+            "desc": ""
+        },
+        {
+            "hash": 1357826976,
+            "original": "~b~Packie ~s~is in trouble. Help him take out the ~r~Triads.",
+            "translated": "~b~Packie~s~身陷困境，帮他干掉~r~Triads。",
+            "desc": ""
+        },
+        {
+            "hash": 1584326304,
+            "original": "~s~Steal the ~b~truck.",
+            "translated": "~s~偷走~b~卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 1624959368,
+            "original": "~s~When in a vehicle, you can cycle to the Grenades in your inventory by pressing ~PAD_X~.",
+            "translated": "~s~在载具中时，你可以按~PAD_X~切换至武器栏中的手雷。",
+            "desc": ""
+        },
+        {
+            "hash": 1816391073,
+            "original": "~s~Use ~PAD_LSTICK_LEFT~ and ~PAD_LSTICK_RIGHT~ to shimmy.",
+            "translated": "~s~使用~PAD_LSTICK_LEFT~和~PAD_LSTICK_RIGHT~左右移动。",
+            "desc": ""
+        },
+        {
+            "hash": 1936367283,
+            "original": "~s~Leave the van and exit the lockup.",
+            "translated": "~s~留下货车，离开车库。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 1960161307,
+            "original": "~r~The truck has been destroyed.~s~",
+            "translated": "~r~卡车被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2114800091,
+            "original": "~s~When in a vehicle, you can cycle to the Grenades in your inventory by pressing ~INPUT_VEH_NEXT_WEAPON~.",
+            "translated": "~s~在载具中时，你可以按~INPUT_VEH_NEXT_WEAPON~切换至武器栏中的手雷。",
+            "desc": ""
+        },
+        {
+            "hash": 2411924919,
+            "original": "~s~Get into the ~b~truck.",
+            "translated": "~s~进入~b~卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 2501832303,
+            "original": "~s~Climb down the mini cabin to get to the ground.",
+            "translated": "~s~爬下小屋，下到地面。",
+            "desc": ""
+        },
+        {
+            "hash": 2660889077,
+            "original": "~s~Continue to the ~y~harbor warehouse.",
+            "translated": "~s~到~y~码头仓库~s~继续。",
+            "desc": ""
+        },
+        {
+            "hash": 2687365196,
+            "original": "~s~Escape in the van back to Packie's ~y~lockup.",
+            "translated": "~s~开货车逃回Packie的~y~车库。",
+            "desc": ""
+        },
+        {
+            "hash": 2774037630,
+            "original": "~s~Get back to ~b~Packie.",
+            "translated": "~s~回去找~b~Packie。",
+            "desc": ""
+        },
+        {
+            "hash": 2850351475,
+            "original": "~s~When in a vehicle, you can cycle to the Grenades in your inventory by pressing ~INPUT_VEH_NEXT_WEAPON~.",
+            "translated": "~s~在载具中时，你可以按~INPUT_VEH_NEXT_WEAPON~切换至武器栏中的手雷。",
+            "desc": ""
+        },
+        {
+            "hash": 2850515281,
+            "original": "~s~Drive ~y~outside~s~ of the docks.",
+            "translated": "~s~开到码头~y~外面。",
+            "desc": ""
+        },
+        {
+            "hash": 2927101621,
+            "original": "~s~Follow ~b~Packie~s~ up on to the roof.",
+            "translated": "~s~跟随~b~Packie~s~爬上屋顶。",
+            "desc": ""
+        },
+        {
+            "hash": 2935598205,
+            "original": "~s~When in a vehicle, you can cycle to the Grenades in your inventory with ~PAD_LT~.",
+            "translated": "~s~在载具中时，你可以用~PAD_LT~切换至武器栏中的手雷。",
+            "desc": ""
+        },
+        {
+            "hash": 2947913532,
+            "original": "~s~Reverse the van out of the warehouse.",
+            "translated": "~s~倒车出库。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 2986342680,
+            "original": "~s~Jump into the ledge to perform a hanging grab.",
+            "translated": "~s~跳向横档以抓住它。",
+            "desc": ""
+        },
+        {
+            "hash": 3149242561,
+            "original": "~s~Wait for ~b~Packie~s~ to get in the truck.~s~",
+            "translated": "~s~等待~b~Packie~s~上车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3370748628,
+            "original": "~s~Get into the ~b~loaded van.",
+            "translated": "~s~进入~b~装满货的货车。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 3415099664,
+            "original": "~r~Packie is dead.~s~",
+            "translated": "~r~Packie死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3807247800,
+            "original": "~s~Wait for ~b~Packie~s~ to get in the truck.",
+            "translated": "~s~等待~b~Packie~s~上车。",
+            "desc": ""
+        },
+        {
+            "hash": 3925081516,
+            "original": "~s~Get into the ~b~car.",
+            "translated": "~s~上~b~车。",
+            "desc": ""
+        },
+        {
+            "hash": 3963191863,
+            "original": "~s~Follow ~b~Packie.",
+            "translated": "~s~跟随~b~Packie。",
+            "desc": ""
+        },
+        {
+            "hash": 4071918909,
+            "original": "~s~You can pull the pin by holding ~INPUT_VEH_ATTACK~. Release ~INPUT_VEH_ATTACK~ to drop the grenade clear of your vehicle.",
+            "translated": "~s~按住~INPUT_VEH_ATTACK~拉拉环。松开~INPUT_VEH_ATTACK~将手雷扔下载具。",
+            "desc": ""
+        },
+        {
+            "hash": 4092102359,
+            "original": "~s~You are too far away from ~b~Packie.~s~ Go back and get him.",
+            "translated": "~s~你离~b~Packie~s~太远了，回去带上他。",
+            "desc": ""
+        }
+    ]
+}

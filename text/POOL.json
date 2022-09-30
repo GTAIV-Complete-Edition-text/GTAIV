@@ -1,0 +1,334 @@
+{
+    "POOL": [
+        {
+            "hash": 222196398,
+            "original": "~g~Striped ball pocketed.",
+            "translated": "~g~花色球入袋。",
+            "desc": ""
+        },
+        {
+            "hash": 271233164,
+            "original": "Use ~PAD_RSTICK_DOWN~ then ~PAD_RSTICK_UP~ to take a shot.~n~Press ~INPUT_FRONTEND_CANCEL~ to return to aiming.~n~Press ~INPUT_PICKUP~ to leave table.",
+            "translated": "先~PAD_RSTICK_DOWN~后~PAD_RSTICK_UP~进行击球。~n~按~INPUT_FRONTEND_CANCEL~重新瞄准。~n~按~INPUT_PICKUP~离开球桌。",
+            "desc": ""
+        },
+        {
+            "hash": 572675195,
+            "original": "Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Use ~PAD_RSTICK_ALL~ to position cue tip.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_FRONTEND_ACCEPT~ to enter shooting mode.~n~Press ~PAD_BACK~ for overhead view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~",
+            "translated": "用~PAD_LSTICK_LEFTRIGHT~调整瞄准角度。~n~用~PAD_RSTICK_ALL~控制球杆击球位置。~n~按住~PAD_X~微调。~n~按~INPUT_FRONTEND_ACCEPT~进入击球模式。~n~按~PAD_BACK~切换俯视视角。~n~按~INPUT_PICKUP~离开球桌。~n~~a~",
+            "desc": ""
+        },
+        {
+            "hash": 656587763,
+            "original": "Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_ATTACK~ to enter shooting mode.~n~Press ~PAD_BACK~ for normal view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~",
+            "translated": "用~PAD_LSTICK_LEFTRIGHT~调整瞄准角度。~n~按住~PAD_X~微调。~n~按~INPUT_ATTACK~进入击球模式。~n~按~PAD_BACK~切换正常视角。~n~按~INPUT_PICKUP~离开台球桌。~n~~a~",
+            "desc": ""
+        },
+        {
+            "hash": 705942170,
+            "original": "~g~Pocket the 8-Ball to win!",
+            "translated": "~g~打入8号球即可获胜！",
+            "desc": ""
+        },
+        {
+            "hash": 885684683,
+            "original": "You are leaving the pool game, you have ~1~ seconds to return to the pool table or the match will be abandoned.",
+            "translated": "你要退出台球比赛了, 你有~1~秒钟返回球桌，否则比赛将被放弃。",
+            "desc": ""
+        },
+        {
+            "hash": 958171807,
+            "original": "~r~Scratch. Pocketed wrong color. Pocketed 8-Ball.",
+            "translated": "~r~犯规。错误花色的球入袋。8号球入袋。",
+            "desc": ""
+        },
+        {
+            "hash": 993155175,
+            "original": "Nice shot!",
+            "translated": "好球！",
+            "desc": ""
+        },
+        {
+            "hash": 999229702,
+            "original": "Wager:",
+            "translated": "赌金:",
+            "desc": ""
+        },
+        {
+            "hash": 1034525199,
+            "original": "~y~You win.",
+            "translated": "~y~你赢了。",
+            "desc": ""
+        },
+        {
+            "hash": 1147228561,
+            "original": "~r~Scratch. Missed all balls. Pocketed 8-Ball.",
+            "translated": "~r~犯规。一球未中。8号球入袋。",
+            "desc": ""
+        },
+        {
+            "hash": 1148312433,
+            "original": "Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_FRONTEND_ACCEPT~ to enter shooting mode.~n~Press ~PAD_BACK~ for normal view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~",
+            "translated": "用~PAD_LSTICK_LEFTRIGHT~调整瞄准角度。~n~按住~PAD_X~微调。~n~按~INPUT_FRONTEND_ACCEPT~进入击球模式。~n~按~PAD_BACK~切换正常视角。~n~按~INPUT_PICKUP~离开球桌。~n~~a~",
+            "desc": ""
+        },
+        {
+            "hash": 1270604529,
+            "original": "Press ~INPUT_ATTACK~ to approach table.",
+            "translated": "按~INPUT_ATTACK~靠近台球桌。",
+            "desc": ""
+        },
+        {
+            "hash": 1309306651,
+            "original": "Press ~INPUT_ATTACK~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~",
+            "translated": "按~INPUT_ATTACK~继续。~n~按~INPUT_PICKUP~退出。~n~~a~",
+            "desc": ""
+        },
+        {
+            "hash": 1353461878,
+            "original": "Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~",
+            "translated": "按~INPUT_FRONTEND_ACCEPT~继续。~n~按~INPUT_PICKUP~退出。~n~~a~",
+            "desc": ""
+        },
+        {
+            "hash": 1398260014,
+            "original": "~g~8-Ball pocketed.",
+            "translated": "~g~8号球入袋。",
+            "desc": ""
+        },
+        {
+            "hash": 1454938807,
+            "original": "Player 1:",
+            "translated": "玩家 1:",
+            "desc": ""
+        },
+        {
+            "hash": 1464769777,
+            "original": "~r~Scratch. Ball jumped off table.",
+            "translated": "~r~犯规。球被击离台面。",
+            "desc": ""
+        },
+        {
+            "hash": 1491389235,
+            "original": "~r~Scratch. Ball jumped off table. Pocketed 8-Ball",
+            "translated": "~r~犯规。球被击离台面。8号球入袋。",
+            "desc": ""
+        },
+        {
+            "hash": 1518948188,
+            "original": "~r~Scratch. No rail hit. Pocketed 8-Ball",
+            "translated": "~r~犯规。没有球触边。8号球入袋。",
+            "desc": ""
+        },
+        {
+            "hash": 1548407560,
+            "original": "~g~No balls pocketed.",
+            "translated": "~g~没有球入袋。",
+            "desc": ""
+        },
+        {
+            "hash": 1628745853,
+            "original": "~r~Scratch. No rail hit.",
+            "translated": "~r~犯规。没有球触边。",
+            "desc": ""
+        },
+        {
+            "hash": 1635494143,
+            "original": "Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Use ~PAD_RSTICK_ALL~ to position cue tip.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_ATTACK~ to enter shooting mode.~n~Press ~PAD_BACK~ for overhead view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~",
+            "translated": "用~PAD_LSTICK_LEFTRIGHT~旋转。~n~用~PAD_RSTICK_ALL~控制球杆击球位置。~n~按住~PAD_X~微调。~n~按~INPUT_ATTACK~进入击球模式。~n~按~PAD_BACK~切换俯视视角。~n~按~INPUT_PICKUP~离开球桌。~n~~a~",
+            "desc": ""
+        },
+        {
+            "hash": 1703110021,
+            "original": "~g~Balls successfully pocketed.",
+            "translated": "~g~球成功入袋。",
+            "desc": ""
+        },
+        {
+            "hash": 1856687017,
+            "original": "~r~Scratch. Pocketed 8-Ball.",
+            "translated": "~r~犯规。8号球入袋。",
+            "desc": ""
+        },
+        {
+            "hash": 1927755699,
+            "original": "~g~You must hit a striped colored ball.",
+            "translated": "~g~你必须打进一个花色球。",
+            "desc": ""
+        },
+        {
+            "hash": 1930837348,
+            "original": "~g~Solid ball pocketed.",
+            "translated": "~g~全色球入袋。",
+            "desc": ""
+        },
+        {
+            "hash": 1987018438,
+            "original": "$~1~",
+            "translated": "$~1~",
+            "desc": ""
+        },
+        {
+            "hash": 2067073875,
+            "original": "~r~Scratch. Pocketed cue ball. Pocketed 8-Ball.",
+            "translated": "~r~犯规。母球入袋。8号球入袋。",
+            "desc": ""
+        },
+        {
+            "hash": 2154327844,
+            "original": "~r~Scratch. Pocketed wrong color.",
+            "translated": "~r~犯规。错误花色的球入袋。",
+            "desc": ""
+        },
+        {
+            "hash": 2161498339,
+            "original": "~g~Solid balls pocketed.",
+            "translated": "~g~全色球入袋。",
+            "desc": ""
+        },
+        {
+            "hash": 2197067290,
+            "original": "Press ~INPUT_FRONTEND_ACCEPT~ to approach table.",
+            "translated": "按~INPUT_FRONTEND_ACCEPT~靠近台球桌。",
+            "desc": ""
+        },
+        {
+            "hash": 2220038797,
+            "original": "Pride and honor",
+            "translated": "自豪与荣耀",
+            "desc": ""
+        },
+        {
+            "hash": 2327782555,
+            "original": "Press ~INPUT_FRONTEND_CANCEL~ to show help.~n~~a~",
+            "translated": "按~INPUT_FRONTEND_CANCEL~显示按键提示。~n~~a~",
+            "desc": ""
+        },
+        {
+            "hash": 2424704863,
+            "original": "~r~Scratch. Pocketed cue ball.",
+            "translated": "~r~犯规。母球入袋。",
+            "desc": ""
+        },
+        {
+            "hash": 2465413069,
+            "original": "Pool game abandoned",
+            "translated": "已放弃桌球游戏",
+            "desc": ""
+        },
+        {
+            "hash": 2587370179,
+            "original": "~r~Scratch. Hit wrong ball first.",
+            "translated": "~r~犯规。最先撞击的球种类错误。",
+            "desc": ""
+        },
+        {
+            "hash": 2667043969,
+            "original": "~g~You must hit a solid colored ball.",
+            "translated": "~g~你必须击中一个全色球。",
+            "desc": ""
+        },
+        {
+            "hash": 2682001387,
+            "original": "~g~Striped balls pocketed.",
+            "translated": "~g~花色球入袋。",
+            "desc": ""
+        },
+        {
+            "hash": 2769658694,
+            "original": "Press ~INPUT_ATTACK~ to continue.~n~~a~",
+            "translated": "按~INPUT_ATTACK~继续。~n~~a~",
+            "desc": ""
+        },
+        {
+            "hash": 2776522949,
+            "original": "~r~Scratch. Hit wrong ball first. Pocketed 8-Ball.",
+            "translated": "~r~犯规。最先撞击的球种类错误。8号球入袋。",
+            "desc": ""
+        },
+        {
+            "hash": 2884159012,
+            "original": "~r~Scratch. Missed all balls.",
+            "translated": "~r~犯规。一球未中。",
+            "desc": ""
+        },
+        {
+            "hash": 2929811391,
+            "original": "Use ~PAD_LSTICK_ALL~ to position cue ball.~n~Press ~INPUT_ATTACK~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~",
+            "translated": "用~PAD_LSTICK_ALL~放置母球。~n~按~INPUT_ATTACK~继续。~n~按~INPUT_PICKUP~退出。~n~~a~",
+            "desc": ""
+        },
+        {
+            "hash": 3037203639,
+            "original": "Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~~a~",
+            "translated": "按~INPUT_FRONTEND_ACCEPT~继续。~n~~a~",
+            "desc": ""
+        },
+        {
+            "hash": 3357607604,
+            "original": "Are you sure you want to quit?",
+            "translated": "你确定要退出吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3372556866,
+            "original": "Use ~PAD_LSTICK_ALL~ to position cue ball.~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~",
+            "translated": "用~PAD_LSTICK_ALL~放置母球。~n~按~INPUT_FRONTEND_ACCEPT~继续。~n~按~INPUT_PICKUP~退出。~n~~a~",
+            "desc": ""
+        },
+        {
+            "hash": 3483138096,
+            "original": "In one motion, pull the ~INPUT_MOUSE_UD~ backward and quickly thrust it forward. ~n~Press ~INPUT_FRONTEND_CANCEL~ to return to aiming.~n~Press ~INPUT_PICKUP~ to leave table.",
+            "translated": "一气呵成，拉动~INPUT_MOUSE_UD~，先后拉再快速前推。~n~按~INPUT_FRONTEND_CANCEL~重新瞄准。~n~按~INPUT_PICKUP~离开球桌。",
+            "desc": ""
+        },
+        {
+            "hash": 3527393016,
+            "original": "~g~8-Ball pocketed from break.",
+            "translated": "~g~8号球一杆得分。",
+            "desc": ""
+        },
+        {
+            "hash": 3639342503,
+            "original": "Open",
+            "translated": "开启",
+            "desc": ""
+        },
+        {
+            "hash": 3673055698,
+            "original": "Ball Assignment",
+            "translated": "桌球分配",
+            "desc": ""
+        },
+        {
+            "hash": 3703982532,
+            "original": "Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the pool game.",
+            "translated": "按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~返回桌球游戏。",
+            "desc": ""
+        },
+        {
+            "hash": 3744729013,
+            "original": "~g~You may hit any colored ball.",
+            "translated": "~g~你可以击打任何有色球。",
+            "desc": ""
+        },
+        {
+            "hash": 3939849651,
+            "original": "Opposition:",
+            "translated": "对手:",
+            "desc": ""
+        },
+        {
+            "hash": 4031814415,
+            "original": "~r~You lose.",
+            "translated": "~r~你输了。",
+            "desc": ""
+        },
+        {
+            "hash": 4284190446,
+            "original": "Press ~INPUT_FRONTEND_ACCEPT~ to play again.~n~Press ~INPUT_PICKUP~ to quit.",
+            "translated": "按~INPUT_FRONTEND_ACCEPT~再来一局。~n~按~INPUT_PICKUP~退出。",
+            "desc": ""
+        }
+    ]
+}

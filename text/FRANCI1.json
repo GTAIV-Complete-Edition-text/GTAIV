@@ -1,0 +1,118 @@
+{
+    "FRANCI1": [
+        {
+            "hash": 485070070,
+            "original": "~r~You lost the blackmailer.~s~",
+            "translated": "~r~你跟丢了勒索者。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 515985837,
+            "original": "You're too far away from the ~y~viewpoint~s~. You won't be able to spot the blackmailer.",
+            "translated": "你离~y~观景台~s~太远了，会看不到勒索者的。",
+            "desc": ""
+        },
+        {
+            "hash": 670585925,
+            "original": "Take the photographs on the storage device to ~y~Francis.",
+            "translated": "将含有照片的存储设备交给~y~Francis。",
+            "desc": ""
+        },
+        {
+            "hash": 751886118,
+            "original": "That's the ~r~blackmailer.~s~ Take him down.",
+            "translated": "他就是~r~勒索者，~s~干掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 879524704,
+            "original": "Look out for the blackmailer, he's using his cell phone.",
+            "translated": "寻找勒索者，他正在使用手机。",
+            "desc": ""
+        },
+        {
+            "hash": 1340455895,
+            "original": "The blackmailer is still in the area. Search for him.",
+            "translated": "勒索者还在这片区域，寻找他。",
+            "desc": ""
+        },
+        {
+            "hash": 1536157619,
+            "original": "You're losing the ~r~blackmailer.~s~ Don't let him get away.",
+            "translated": "你要跟丢~r~勒索者~s~了，别让他跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 1743941381,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1800893897,
+            "original": "Oh fuck.",
+            "translated": "噢，操。",
+            "desc": ""
+        },
+        {
+            "hash": 1860752400,
+            "original": "This isn't right.",
+            "translated": "这可不好。",
+            "desc": ""
+        },
+        {
+            "hash": 2381489080,
+            "original": "Go to the ~y~viewpoint~s~ off Union Drive East.",
+            "translated": "前往Union快速路东段的~y~观景台。",
+            "desc": ""
+        },
+        {
+            "hash": 2415969180,
+            "original": "Call the blackmailer's cell and look to see who answers their phone. Keep him talking until you identify him.",
+            "translated": "联系勒索者，注意观察接电话的人。找到他前与他保持通话。",
+            "desc": ""
+        },
+        {
+            "hash": 2787373026,
+            "original": "The blackmailer will be somewhere around here.",
+            "translated": "勒索者就在这附近。",
+            "desc": ""
+        },
+        {
+            "hash": 2844277922,
+            "original": "Wait for the text from Francis to get the blackmailer's phone number.",
+            "translated": "等待Francis将勒索者的电话号码发过来。",
+            "desc": ""
+        },
+        {
+            "hash": 3228513689,
+            "original": "The ~r~blackmailer~s~ is fleeing on foot. Take him out.",
+            "translated": "~r~勒索者~s~正在徒步逃跑，干掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 3337884814,
+            "original": "Pick up the ~g~storage device.",
+            "translated": "拾起~g~存储设备。",
+            "desc": ""
+        },
+        {
+            "hash": 3617535968,
+            "original": "~s~Photographs",
+            "translated": "~s~照片",
+            "desc": ""
+        },
+        {
+            "hash": 3638224809,
+            "original": "The ~r~blackmailer~s~ has entered a car, don't let him get away.",
+            "translated": "~r~勒索者~s~上车了，别让他跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 4036578310,
+            "original": "Hey, come back here so I can kill you.",
+            "translated": "喂，滚回来让我杀你。",
+            "desc": ""
+        }
+    ]
+}

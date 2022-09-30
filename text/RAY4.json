@@ -1,0 +1,100 @@
+{
+    "RAY4": [
+        {
+            "hash": 523553781,
+            "original": "~r~You attacked Johnny.",
+            "translated": "~r~你攻击了Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 763455630,
+            "original": "~r~Johnny has been injured.",
+            "translated": "~r~你攻击了Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 903294920,
+            "original": "~s~Flee the museum before the cops arrive in full force.",
+            "translated": "~s~在警察完全集结之前逃离博物馆。",
+            "desc": ""
+        },
+        {
+            "hash": 941077661,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1058226836,
+            "original": "~s~Escape the ~y~Libertonian.",
+            "translated": "~s~逃离~y~自由城博物馆。",
+            "desc": ""
+        },
+        {
+            "hash": 1416377955,
+            "original": "~r~Isaac is dead.",
+            "translated": "~r~Isaac死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1433235272,
+            "original": "~s~Meet Johnny at the side entrance to the ~y~Libertonian.",
+            "translated": "~s~去~y~自由城博物馆~s~的侧门与Johnny会合。",
+            "desc": ""
+        },
+        {
+            "hash": 1689732545,
+            "original": "~s~Mission Passed.",
+            "translated": "~s~任务通过。",
+            "desc": ""
+        },
+        {
+            "hash": 1788352925,
+            "original": "~s~Go to the ~y~Libertonian~s~ between 9pm and 3am.",
+            "translated": "~s~在早上9点到下午3点间去~y~自由城博物馆。",
+            "desc": ""
+        },
+        {
+            "hash": 2218347659,
+            "original": "~s~Lose Isaac's crew.",
+            "translated": "~s~摆脱Isaac的手下。",
+            "desc": ""
+        },
+        {
+            "hash": 2305218362,
+            "original": "~s~Meet ~b~Johnny~s~ at the side entrance to the Libertonian.",
+            "translated": "~s~去自由城博物馆的侧门与~b~Johnny~s~会合。",
+            "desc": ""
+        },
+        {
+            "hash": 2630155766,
+            "original": "~s~Come back between 9pm and 3am.",
+            "translated": "~s~在晚上9点到凌晨3点之间回来。",
+            "desc": ""
+        },
+        {
+            "hash": 2833936428,
+            "original": "~s~Placeholder Cutscene.",
+            "translated": "~s~Placeholder Cutscene。",
+            "desc": ""
+        },
+        {
+            "hash": 3332741844,
+            "original": "~r~Johnny is dead.",
+            "translated": "~r~Johnny死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3694118376,
+            "original": "~r~Mission Failed.",
+            "translated": "~r~任务失败。",
+            "desc": ""
+        },
+        {
+            "hash": 4041877059,
+            "original": "~s~Go back to ~y~Ray.",
+            "translated": "~s~回去找~y~Ray。",
+            "desc": ""
+        }
+    ]
+}

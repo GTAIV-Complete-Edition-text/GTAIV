@@ -1,0 +1,532 @@
+{
+    "RACES": [
+        {
+            "hash": 51231543,
+            "original": "Scrapes Only",
+            "translated": "仅仅擦伤",
+            "desc": ""
+        },
+        {
+            "hash": 160371376,
+            "original": "Track",
+            "translated": "路线",
+            "desc": ""
+        },
+        {
+            "hash": 184395731,
+            "original": "Waiting for players to finish...",
+            "translated": "等待玩家完成...",
+            "desc": ""
+        },
+        {
+            "hash": 192315333,
+            "original": "Donut Dash",
+            "translated": "破坏甜甜圈",
+            "desc": ""
+        },
+        {
+            "hash": 253564242,
+            "original": "Road to Bohan",
+            "translated": "通往Bohan之路",
+            "desc": ""
+        },
+        {
+            "hash": 276371799,
+            "original": "Back Breaker",
+            "translated": "背后的破坏者",
+            "desc": ""
+        },
+        {
+            "hash": 367783825,
+            "original": "Big Dip",
+            "translated": "大斜坡",
+            "desc": ""
+        },
+        {
+            "hash": 463715305,
+            "original": "Rize in the East",
+            "translated": "东山再起",
+            "desc": ""
+        },
+        {
+            "hash": 491434413,
+            "original": "Stars in your Eyes",
+            "translated": "你眼中的星星",
+            "desc": ""
+        },
+        {
+            "hash": 650135013,
+            "original": "Coming Down",
+            "translated": "到达",
+            "desc": ""
+        },
+        {
+            "hash": 811639930,
+            "original": "Boogie Down",
+            "translated": "Boogie Down",
+            "desc": ""
+        },
+        {
+            "hash": 849927273,
+            "original": "Horse Punch",
+            "translated": "马力",
+            "desc": ""
+        },
+        {
+            "hash": 965827578,
+            "original": "In the Drink",
+            "translated": "在海里",
+            "desc": ""
+        },
+        {
+            "hash": 1187477094,
+            "original": "Drive-thru",
+            "translated": "穿过通道",
+            "desc": ""
+        },
+        {
+            "hash": 1208125545,
+            "original": "Track Marks",
+            "translated": "路标",
+            "desc": ""
+        },
+        {
+            "hash": 1208387364,
+            "original": "Bawhan Dash",
+            "translated": "Bawhan破坏",
+            "desc": ""
+        },
+        {
+            "hash": 1217614634,
+            "original": "Random",
+            "translated": "随机",
+            "desc": ""
+        },
+        {
+            "hash": 1242817119,
+            "original": "The race is ending soon.",
+            "translated": "比赛即将结束。",
+            "desc": ""
+        },
+        {
+            "hash": 1345587527,
+            "original": "Long Way Round",
+            "translated": "长途跋涉",
+            "desc": ""
+        },
+        {
+            "hash": 1429462914,
+            "original": "Normal",
+            "translated": "普通",
+            "desc": ""
+        },
+        {
+            "hash": 1447175067,
+            "original": "Bogan's Run",
+            "translated": "Bogan的竞赛",
+            "desc": ""
+        },
+        {
+            "hash": 1465559324,
+            "original": "Bohan Job",
+            "translated": "Bohan职务",
+            "desc": ""
+        },
+        {
+            "hash": 1488565780,
+            "original": "Short Circuit",
+            "translated": "短路",
+            "desc": ""
+        },
+        {
+            "hash": 1538718502,
+            "original": "Hard Eight",
+            "translated": "纵横赌场",
+            "desc": ""
+        },
+        {
+            "hash": 1541149667,
+            "original": "Color",
+            "translated": "颜色",
+            "desc": ""
+        },
+        {
+            "hash": 1567529092,
+            "original": "Annihilator",
+            "translated": "灭火器",
+            "desc": ""
+        },
+        {
+            "hash": 1579099421,
+            "original": "Cargo Haul",
+            "translated": "运输货物",
+            "desc": ""
+        },
+        {
+            "hash": 1589753319,
+            "original": "D-Day",
+            "translated": "指定日",
+            "desc": ""
+        },
+        {
+            "hash": 1731552153,
+            "original": "Grand Tour",
+            "translated": "美好之旅",
+            "desc": ""
+        },
+        {
+            "hash": 1810677944,
+            "original": "Random",
+            "translated": "随机",
+            "desc": ""
+        },
+        {
+            "hash": 1822459584,
+            "original": "Enters 1ST",
+            "translated": "获得第一名",
+            "desc": ""
+        },
+        {
+            "hash": 1827426876,
+            "original": "Heart Stopper",
+            "translated": "心肌梗塞",
+            "desc": ""
+        },
+        {
+            "hash": 1835917180,
+            "original": "Drag Kings",
+            "translated": "累赘王",
+            "desc": ""
+        },
+        {
+            "hash": 1864540673,
+            "original": "Home Turf",
+            "translated": "自家地盘",
+            "desc": ""
+        },
+        {
+            "hash": 1923308637,
+            "original": "Southern Switch",
+            "translated": "往南边转移",
+            "desc": ""
+        },
+        {
+            "hash": 1944503668,
+            "original": "Off",
+            "translated": "关闭",
+            "desc": ""
+        },
+        {
+            "hash": 2108751878,
+            "original": "Driving While High",
+            "translated": "往高处驾驶",
+            "desc": ""
+        },
+        {
+            "hash": 2159540358,
+            "original": "Round the Block",
+            "translated": "环绕街区",
+            "desc": ""
+        },
+        {
+            "hash": 2197719773,
+            "original": "Duck and Weave",
+            "translated": "纺织人",
+            "desc": ""
+        },
+        {
+            "hash": 2199813792,
+            "original": "Sinner & Saint",
+            "translated": "罪人&圣者",
+            "desc": ""
+        },
+        {
+            "hash": 2205942110,
+            "original": "Taxiing",
+            "translated": "滑行",
+            "desc": ""
+        },
+        {
+            "hash": 2214585690,
+            "original": "Track",
+            "translated": "路线",
+            "desc": ""
+        },
+        {
+            "hash": 2215300029,
+            "original": "Random",
+            "translated": "失去目标",
+            "desc": ""
+        },
+        {
+            "hash": 2266793628,
+            "original": "Random",
+            "translated": "失去目标",
+            "desc": ""
+        },
+        {
+            "hash": 2372820191,
+            "original": "Get Wrecked",
+            "translated": "失败了",
+            "desc": ""
+        },
+        {
+            "hash": 2389939201,
+            "original": "Terminal Velocity",
+            "translated": "极速",
+            "desc": ""
+        },
+        {
+            "hash": 2436409169,
+            "original": "Don't Look Down",
+            "translated": "别往下看",
+            "desc": ""
+        },
+        {
+            "hash": 2564977488,
+            "original": "Track",
+            "translated": "路线",
+            "desc": ""
+        },
+        {
+            "hash": 2568624910,
+            "original": "Pilgrim's Progress",
+            "translated": "天路历程",
+            "desc": ""
+        },
+        {
+            "hash": 2603022416,
+            "original": "A.B.K. Endurance",
+            "translated": "A.B.K.耐力",
+            "desc": ""
+        },
+        {
+            "hash": 2608479128,
+            "original": "Random",
+            "translated": "随机",
+            "desc": ""
+        },
+        {
+            "hash": 2710261205,
+            "original": "New Personal Best",
+            "translated": "新纪录",
+            "desc": ""
+        },
+        {
+            "hash": 2784799605,
+            "original": "Pistols",
+            "translated": "手枪",
+            "desc": ""
+        },
+        {
+            "hash": 2794777249,
+            "original": "Business Trip",
+            "translated": "商务旅行",
+            "desc": ""
+        },
+        {
+            "hash": 2802071266,
+            "original": "Docking",
+            "translated": "入坞",
+            "desc": ""
+        },
+        {
+            "hash": 2818165337,
+            "original": "Riverside Drive",
+            "translated": "河畔驾驶",
+            "desc": ""
+        },
+        {
+            "hash": 2879180371,
+            "original": "Quick Knives",
+            "translated": "快速刀具",
+            "desc": ""
+        },
+        {
+            "hash": 2879410083,
+            "original": "Strip Off",
+            "translated": "脱衣服",
+            "desc": ""
+        },
+        {
+            "hash": 2910263057,
+            "original": "Vehicle Damage",
+            "translated": "载具损坏",
+            "desc": ""
+        },
+        {
+            "hash": 3032339029,
+            "original": "Getting Wood",
+            "translated": "得到木头",
+            "desc": ""
+        },
+        {
+            "hash": 3033230966,
+            "original": "Industrial Action",
+            "translated": "罢工",
+            "desc": ""
+        },
+        {
+            "hash": 3090829296,
+            "original": "SMGs",
+            "translated": "微型冲锋枪",
+            "desc": ""
+        },
+        {
+            "hash": 3110464302,
+            "original": "Black Gold",
+            "translated": "石油",
+            "desc": ""
+        },
+        {
+            "hash": 3141234064,
+            "original": "Heel-and-Toe",
+            "translated": "脚跟和脚趾",
+            "desc": ""
+        },
+        {
+            "hash": 3168073506,
+            "original": "Laps",
+            "translated": "圈数",
+            "desc": ""
+        },
+        {
+            "hash": 3192798878,
+            "original": "Beat the Bitch",
+            "translated": "鞭挞婊子",
+            "desc": ""
+        },
+        {
+            "hash": 3204923616,
+            "original": "Track",
+            "translated": "路线",
+            "desc": ""
+        },
+        {
+            "hash": 3245957742,
+            "original": "Off",
+            "translated": "关闭",
+            "desc": ""
+        },
+        {
+            "hash": 3288498283,
+            "original": "Highs & Lows",
+            "translated": "高于低",
+            "desc": ""
+        },
+        {
+            "hash": 3325775921,
+            "original": "Noise Pollution",
+            "translated": "噪音污染",
+            "desc": ""
+        },
+        {
+            "hash": 3363624240,
+            "original": "Weapons",
+            "translated": "武器",
+            "desc": ""
+        },
+        {
+            "hash": 3379263317,
+            "original": "Weapons",
+            "translated": "武器",
+            "desc": ""
+        },
+        {
+            "hash": 3438147923,
+            "original": "All Weapons",
+            "translated": "所有武器",
+            "desc": ""
+        },
+        {
+            "hash": 3498861338,
+            "original": "Water Hazard",
+            "translated": "积水处",
+            "desc": ""
+        },
+        {
+            "hash": 3526201616,
+            "original": "Lap Time",
+            "translated": "单圈时间",
+            "desc": ""
+        },
+        {
+            "hash": 3552577275,
+            "original": "Health Only",
+            "translated": "仅仅健康",
+            "desc": ""
+        },
+        {
+            "hash": 3572372145,
+            "original": "Get it Pumped",
+            "translated": "懂得喘气",
+            "desc": ""
+        },
+        {
+            "hash": 3660916139,
+            "original": "Track",
+            "translated": "路线",
+            "desc": ""
+        },
+        {
+            "hash": 3704257871,
+            "original": "Buzz the Tower",
+            "translated": "高塔嗡嗡作响",
+            "desc": ""
+        },
+        {
+            "hash": 3710147484,
+            "original": "Vehicle",
+            "translated": "载具",
+            "desc": ""
+        },
+        {
+            "hash": 3803253020,
+            "original": "The 556 Connection",
+            "translated": "556连接",
+            "desc": ""
+        },
+        {
+            "hash": 3899699288,
+            "original": "All Guns",
+            "translated": "所有的枪",
+            "desc": ""
+        },
+        {
+            "hash": 3982778219,
+            "original": "Thunder Road",
+            "translated": "Thunder道路",
+            "desc": ""
+        },
+        {
+            "hash": 4081494599,
+            "original": "Smoke Screen",
+            "translated": "烟幕",
+            "desc": ""
+        },
+        {
+            "hash": 4143608471,
+            "original": "Exhaust Fumes",
+            "translated": "废气",
+            "desc": ""
+        },
+        {
+            "hash": 4207097360,
+            "original": "Take Off",
+            "translated": "起飞",
+            "desc": ""
+        },
+        {
+            "hash": 4225455917,
+            "original": "Guns & Grenades",
+            "translated": "军火",
+            "desc": ""
+        },
+        {
+            "hash": 4282565183,
+            "original": "Bohan Burning",
+            "translated": "Bohan在燃烧",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "BRACES": [
+        {
+            "hash": 47274283,
+            "original": "~r~The cops scared off the other racers.",
+            "translated": "~r~警察吓跑了其他赛车手。",
+            "desc": ""
+        },
+        {
+            "hash": 489884540,
+            "original": "6th",
+            "translated": "6th",
+            "desc": ""
+        },
+        {
+            "hash": 793422588,
+            "original": "~r~Race abandoned.",
+            "translated": "~r~比赛中止。",
+            "desc": ""
+        },
+        {
+            "hash": 897047720,
+            "original": "4th",
+            "translated": "4th",
+            "desc": ""
+        },
+        {
+            "hash": 1177129872,
+            "original": "3rd",
+            "translated": "3rd",
+            "desc": ""
+        },
+        {
+            "hash": 1440372640,
+            "original": "2",
+            "translated": "2",
+            "desc": ""
+        },
+        {
+            "hash": 1486307322,
+            "original": "~r~You lose.",
+            "translated": "~r~你输了。",
+            "desc": ""
+        },
+        {
+            "hash": 1714976860,
+            "original": "3",
+            "translated": "3",
+            "desc": ""
+        },
+        {
+            "hash": 1869144388,
+            "original": "You win.",
+            "translated": "你赢了。",
+            "desc": ""
+        },
+        {
+            "hash": 2382940970,
+            "original": "Get a vehicle and get to the ~y~start line.",
+            "translated": "找一辆载具，前往~y~起点。",
+            "desc": ""
+        },
+        {
+            "hash": 2463665460,
+            "original": "Lose your wanted level, or the race may be abandoned.",
+            "translated": "摆脱通缉，否则比赛将会中止。",
+            "desc": ""
+        },
+        {
+            "hash": 2524944669,
+            "original": "2nd",
+            "translated": "2nd",
+            "desc": ""
+        },
+        {
+            "hash": 3031078183,
+            "original": "1",
+            "translated": "1",
+            "desc": ""
+        },
+        {
+            "hash": 3141343306,
+            "original": "Get back in the car.",
+            "translated": "回到车上。",
+            "desc": ""
+        },
+        {
+            "hash": 3144861543,
+            "original": "Go",
+            "translated": "Go",
+            "desc": ""
+        },
+        {
+            "hash": 3301572038,
+            "original": "Go to the ~y~start line.",
+            "translated": "前往~y~起点。",
+            "desc": ""
+        },
+        {
+            "hash": 3399057995,
+            "original": "1st",
+            "translated": "1st",
+            "desc": ""
+        },
+        {
+            "hash": 3462271354,
+            "original": "5th",
+            "translated": "5rh",
+            "desc": ""
+        },
+        {
+            "hash": 4142202597,
+            "original": "Line up your vehicle.",
+            "translated": "进入起跑队列。",
+            "desc": ""
+        },
+        {
+            "hash": 4210132934,
+            "original": "Get a suitable vehicle.",
+            "translated": "找一辆合适的载具。",
+            "desc": ""
+        }
+    ]
+}

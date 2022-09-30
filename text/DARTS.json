@@ -1,0 +1,310 @@
+{
+    "DARTS": [
+        {
+            "hash": 170591751,
+            "original": "Use ~PAD_LSTICK_LEFT~ to view the scoreboard.",
+            "translated": "用~PAD_LSTICK_LEFT~查看计分板。",
+            "desc": ""
+        },
+        {
+            "hash": 248612752,
+            "original": "Press ~INPUT_ATTACK~ to skip opponent's turn.",
+            "translated": "按~INPUT_ATTACK~跳过对手的回合。",
+            "desc": ""
+        },
+        {
+            "hash": 273118803,
+            "original": "~r~Carmen wins",
+            "translated": "~r~Carmen赢了",
+            "desc": ""
+        },
+        {
+            "hash": 307144333,
+            "original": "~r~Jacob wins",
+            "translated": "~r~Jacob赢了",
+            "desc": ""
+        },
+        {
+            "hash": 313899410,
+            "original": "~r~You lose.",
+            "translated": "~r~你输了。",
+            "desc": ""
+        },
+        {
+            "hash": 459021125,
+            "original": "Hold ~PAD_RT~ to steady your shot. Time it well, it only lasts for a second.",
+            "translated": "按住~PAD_RT~稳定你的飞镖。~n~把握时机，稳定只能持续一秒。",
+            "desc": ""
+        },
+        {
+            "hash": 511763222,
+            "original": "~r~Dwayne wins",
+            "translated": "~r~Dwayne赢了",
+            "desc": ""
+        },
+        {
+            "hash": 697359399,
+            "original": "~g~Player ~1~ wins",
+            "translated": "~g~玩家~1~赢了",
+            "desc": ""
+        },
+        {
+            "hash": 737078602,
+            "original": "~1~ points remaining.",
+            "translated": "还剩~1~分。",
+            "desc": ""
+        },
+        {
+            "hash": 797766951,
+            "original": "Hold ~INPUT_JUMP~ to steady your shot. Time it well, it only lasts for a second.",
+            "translated": "按住~INPUT_JUMP~稳定你的飞镖。~n~把握时机，稳定只能持续一秒。",
+            "desc": ""
+        },
+        {
+            "hash": 972588277,
+            "original": "~r~Brucie wins",
+            "translated": "~r~Brucie赢了",
+            "desc": ""
+        },
+        {
+            "hash": 1162587414,
+            "original": "~1~",
+            "translated": "~1~",
+            "desc": ""
+        },
+        {
+            "hash": 1369801568,
+            "original": "~1~! Opponent is bust.",
+            "translated": "~1~！对手爆镖了。",
+            "desc": ""
+        },
+        {
+            "hash": 1391302813,
+            "original": "Use ~PAD_RSTICK_ALL~ to control your aim then press ~INPUT_ATTACK~ to throw the dart.",
+            "translated": "用~PAD_RSTICK_ALL~控制准星，按~INPUT_ATTACK~投掷飞镖。",
+            "desc": ""
+        },
+        {
+            "hash": 1488325903,
+            "original": "Press ~INPUT_FRONTEND_ACCEPT~ to start aiming the dart.",
+            "translated": "按~INPUT_FRONTEND_ACCEPT~开始瞄准标靶。",
+            "desc": ""
+        },
+        {
+            "hash": 1526585842,
+            "original": "Use ~PAD_LSTICK_ALL~ to control your aim then press ~INPUT_FRONTEND_ACCEPT~ to throw the dart.",
+            "translated": "用~PAD_LSTICK_ALL~控制准星，按~INPUT_FRONTEND_ACCEPT~投掷飞镖。",
+            "desc": ""
+        },
+        {
+            "hash": 1545916070,
+            "original": "~r~Opponent wins",
+            "translated": "~r~对手赢了",
+            "desc": ""
+        },
+        {
+            "hash": 1613167283,
+            "original": "Press ~INPUT_FRONTEND_ACCEPT~ to skip opponent's turn.",
+            "translated": "按~INPUT_FRONTEND_ACCEPT~跳过对手的回合。",
+            "desc": ""
+        },
+        {
+            "hash": 1639043404,
+            "original": "To win the game you must finish on a double, or the bull.",
+            "translated": "决胜标必须命中双倍区或牛眼。",
+            "desc": ""
+        },
+        {
+            "hash": 1814208381,
+            "original": "The middle band scores you triple points.",
+            "translated": "击中中环将获得三倍分数。",
+            "desc": ""
+        },
+        {
+            "hash": 1824412119,
+            "original": "~r~Packie wins",
+            "translated": "~r~Packie赢了",
+            "desc": ""
+        },
+        {
+            "hash": 1956101797,
+            "original": "Hold ~INPUT_SPRINT~ to speed up your aim movement.",
+            "translated": "按住~INPUT_SPRINT~加快准星移动速度。",
+            "desc": ""
+        },
+        {
+            "hash": 2020423698,
+            "original": "Hitting within the outer band scores you double points for that dart.",
+            "translated": "击中外环将获得双倍分数。",
+            "desc": ""
+        },
+        {
+            "hash": 2219777212,
+            "original": "~r~Kate wins",
+            "translated": "~r~Kate赢了",
+            "desc": ""
+        },
+        {
+            "hash": 2273990216,
+            "original": "Score points by throwing darts within the 20 numbered sections.",
+            "translated": "投中20个分数区之一将获得分数。",
+            "desc": ""
+        },
+        {
+            "hash": 2274842214,
+            "original": "This is the number shown on the outer rim.",
+            "translated": "相应分数标示在外围。",
+            "desc": ""
+        },
+        {
+            "hash": 2345843215,
+            "original": "~y~You win.",
+            "translated": "~y~你赢了。",
+            "desc": ""
+        },
+        {
+            "hash": 2512843461,
+            "original": "Hitting one of the large portions of a section scores you single points.",
+            "translated": "投中分数区中的黑白扇形将获得单倍分数。",
+            "desc": ""
+        },
+        {
+            "hash": 2514612983,
+            "original": "How to play darts",
+            "translated": "飞镖教学",
+            "desc": ""
+        },
+        {
+            "hash": 2553069766,
+            "original": "Hold ~PAD_RB~ to speed up your aim movement.",
+            "translated": "按住~PAD_RB~加快准星移动速度。",
+            "desc": ""
+        },
+        {
+            "hash": 2556928572,
+            "original": "~1~! You can only check-out on a double.",
+            "translated": "~1~！你只能以投中双倍区的方式结束。",
+            "desc": ""
+        },
+        {
+            "hash": 2696190015,
+            "original": "It's your turn, step up to the line. ~1~ points remaining.",
+            "translated": "你的回合，走到线前。还剩~1~分。",
+            "desc": ""
+        },
+        {
+            "hash": 2710866535,
+            "original": "Opponent scores ~1~. ~1~ points remaining.",
+            "translated": "对手获得~1~分。还剩~1~分。",
+            "desc": ""
+        },
+        {
+            "hash": 3010395516,
+            "original": "You score ~1~. ~1~ points remaining.",
+            "translated": "你得到了~1~分。还剩~1~分。",
+            "desc": ""
+        },
+        {
+            "hash": 3012996708,
+            "original": "But remember, the winning dart must hit a double! Not \"doubling out\" results in your score being reset to the previous score, and your turn ending!",
+            "translated": "但记住，决胜镖必须命中双倍区！若未命中双倍区，你在本回合的得分无效，还会直接结束这一回合！",
+            "desc": ""
+        },
+        {
+            "hash": 3066759693,
+            "original": "Remember, at the end you need to check-out on a double or bull to win the game.",
+            "translated": "记住，最后你需要命中双倍区或牛眼才能赢得比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 3194751254,
+            "original": "Player ~1~ scores ~1~.",
+            "translated": "玩家~1~得到~1~分。",
+            "desc": ""
+        },
+        {
+            "hash": 3201090768,
+            "original": "The object of the game is to reduce your score to exactly zero, before your opponent does.",
+            "translated": "游戏目标就是在对手之前把分数刚好减少到0。",
+            "desc": ""
+        },
+        {
+            "hash": 3242261377,
+            "original": "~1~! You're bust.",
+            "translated": "~1~！你爆镖了。",
+            "desc": ""
+        },
+        {
+            "hash": 3424918082,
+            "original": "Use ~PAD_SIXAXIS_PITCH~ and ~PAD_SIXAXIS_ROLL~ to control your aim then press ~PAD_A~ to throw the dart.",
+            "translated": "用~PAD_SIXAXIS_PITCH~和~PAD_SIXAXIS_ROLL~控制准星，按~PAD_A~投掷飞镖。",
+            "desc": ""
+        },
+        {
+            "hash": 3439485243,
+            "original": "The bullseye is the circle in the center of the board. The outer ring scores 25, the inner circle scores 50.",
+            "translated": "牛眼就是标靶正中的圆。外圆25分，内圆50分。",
+            "desc": ""
+        },
+        {
+            "hash": 3439942947,
+            "original": "~r~Michelle wins",
+            "translated": "~r~Michelle赢了",
+            "desc": ""
+        },
+        {
+            "hash": 3606560945,
+            "original": "~r~Alex wins",
+            "translated": "~r~Alex赢了",
+            "desc": ""
+        },
+        {
+            "hash": 3613907168,
+            "original": "~1~! ~1~ points remaining.",
+            "translated": "~1~！还剩~1~分。",
+            "desc": ""
+        },
+        {
+            "hash": 3689752481,
+            "original": "~1~.",
+            "translated": "~1~。",
+            "desc": ""
+        },
+        {
+            "hash": 3690769991,
+            "original": "Use ~PAD_RSTICK_LEFT~ to view the scoreboard.",
+            "translated": "用~PAD_RSTICK_LEFT~查看计分板。",
+            "desc": ""
+        },
+        {
+            "hash": 3742263691,
+            "original": "~r~Kiki wins",
+            "translated": "~r~Kiki赢了",
+            "desc": ""
+        },
+        {
+            "hash": 3784133549,
+            "original": "Opponent's turn. ~1~ points remaining.",
+            "translated": "对手的回合。还剩~1~分。",
+            "desc": ""
+        },
+        {
+            "hash": 3909742218,
+            "original": "This game is easy, Niko. Your score starts at 301, first down to 0 wins.",
+            "translated": "这游戏很简单，Niko。开局每人301分，分数先到0的人赢。",
+            "desc": ""
+        },
+        {
+            "hash": 4001090989,
+            "original": "~1~!",
+            "translated": "~1~！",
+            "desc": ""
+        },
+        {
+            "hash": 4119049878,
+            "original": "~r~Roman wins",
+            "translated": "~r~Roman赢了",
+            "desc": ""
+        }
+    ]
+}

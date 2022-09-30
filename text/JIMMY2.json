@@ -1,0 +1,46 @@
+{
+    "JIMMY2": [
+        {
+            "hash": 81503943,
+            "original": "Wipe ~r~them~s~ all out.",
+            "translated": "消灭~r~Pavano家族的人。",
+            "desc": ""
+        },
+        {
+            "hash": 175125084,
+            "original": "Chase the ~r~Pavanos.",
+            "translated": "跟随~r~Pavano家族的人。",
+            "desc": ""
+        },
+        {
+            "hash": 510515691,
+            "original": "~r~The Pavanos got away.",
+            "translated": "~r~Pavano家族的人~s~逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 592110501,
+            "original": "You will need a vehicle.",
+            "translated": "你需要一辆载具。",
+            "desc": ""
+        },
+        {
+            "hash": 1328593776,
+            "original": "Drive to the ~y~diner.",
+            "translated": "驾车前往~y~餐厅。",
+            "desc": ""
+        },
+        {
+            "hash": 3902795336,
+            "original": "Lose your wanted level.",
+            "translated": "摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 4058054866,
+            "original": "Get out of the showroom before the cops arrive.",
+            "translated": "在警察到达前逃出这里。",
+            "desc": ""
+        }
+    ]
+}

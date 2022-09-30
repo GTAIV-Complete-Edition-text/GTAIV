@@ -1,0 +1,256 @@
+{
+    "BOWL": [
+        {
+            "hash": 206595314,
+            "original": "Rmn",
+            "translated": "Rmn",
+            "desc": ""
+        },
+        {
+            "hash": 211886351,
+            "original": "Use ~PAD_SIXAXIS_ROLL~ to get in position.~n~Press ~ACCEPT~ to choose a ready position.~n~Press ~PAD_Y~ to check the score.~n~Press ~INPUT_PICKUP~ to quit.",
+            "translated": "用~PAD_SIXAXIS_ROLL~改变发球位置。~n~按~ACCEPT~选定发球位置。~n~按~PAD_Y~查看比分。~n~按~INPUT_PICKUP~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 226464568,
+            "original": "Kate",
+            "translated": "Kate",
+            "desc": ""
+        },
+        {
+            "hash": 342750809,
+            "original": "You won this game.",
+            "translated": "你获得了本局比赛的胜利。",
+            "desc": ""
+        },
+        {
+            "hash": 432668945,
+            "original": "Close game, it's a draw.",
+            "translated": "势均力敌，打成平局。",
+            "desc": ""
+        },
+        {
+            "hash": 511030544,
+            "original": "LJ",
+            "translated": "LJ",
+            "desc": ""
+        },
+        {
+            "hash": 517879285,
+            "original": "Alex",
+            "translated": "Alex",
+            "desc": ""
+        },
+        {
+            "hash": 733029275,
+            "original": "Pak",
+            "translated": "Pak",
+            "desc": ""
+        },
+        {
+            "hash": 805656643,
+            "original": "Kiki",
+            "translated": "Kiki",
+            "desc": ""
+        },
+        {
+            "hash": 805842317,
+            "original": "Press ~INPUT_PICKUP~ to quit.",
+            "translated": "按~INPUT_PICKUP~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 855956770,
+            "original": "You don't have enough cash to play.",
+            "translated": "你的钱不够，无法打保龄球。",
+            "desc": ""
+        },
+        {
+            "hash": 1094416783,
+            "original": "Half Game",
+            "translated": "半场",
+            "desc": ""
+        },
+        {
+            "hash": 1163253800,
+            "original": "Find an empty lane to play a game in.",
+            "translated": "找一条空球道打保龄球。",
+            "desc": ""
+        },
+        {
+            "hash": 1242948256,
+            "original": "P2",
+            "translated": "P2",
+            "desc": ""
+        },
+        {
+            "hash": 1290594134,
+            "original": "Pay at the desk if you want to play.",
+            "translated": "想玩的话请到柜台付钱。",
+            "desc": ""
+        },
+        {
+            "hash": 1443996763,
+            "original": "Brci",
+            "translated": "Brci",
+            "desc": ""
+        },
+        {
+            "hash": 1750255837,
+            "original": "Dwn",
+            "translated": "Dwn",
+            "desc": ""
+        },
+        {
+            "hash": 1975663100,
+            "original": "Bowling costs $10.",
+            "translated": "打保龄球需要$10。",
+            "desc": ""
+        },
+        {
+            "hash": 2065985152,
+            "original": "Mich",
+            "translated": "Mich",
+            "desc": ""
+        },
+        {
+            "hash": 2137917071,
+            "original": "Press ~ACCEPT~ to continue.",
+            "translated": "按~ACCEPT~继续。",
+            "desc": ""
+        },
+        {
+            "hash": 2272714085,
+            "original": "~1~",
+            "translated": "~1~",
+            "desc": ""
+        },
+        {
+            "hash": 2278983364,
+            "original": "The number of games is tied.",
+            "translated": "平手",
+            "desc": ""
+        },
+        {
+            "hash": 2366153156,
+            "original": "You can't bowl with a wanted level.",
+            "translated": "被通缉时不能打保龄球。",
+            "desc": ""
+        },
+        {
+            "hash": 2435444939,
+            "original": "Niko",
+            "translated": "Niko",
+            "desc": ""
+        },
+        {
+            "hash": 2503483783,
+            "original": "You are losing by ~1~ games.",
+            "translated": "你以~1~局比赛的劣势告负。",
+            "desc": ""
+        },
+        {
+            "hash": 2691174211,
+            "original": "~PAD_LB~ if you want to play a game.",
+            "translated": "如果你想要玩一局，按下~PAD_LB~。",
+            "desc": ""
+        },
+        {
+            "hash": 2827033897,
+            "original": "~1~mph",
+            "translated": "~1~mph",
+            "desc": ""
+        },
+        {
+            "hash": 2850366013,
+            "original": "Just take any empty available lane.",
+            "translated": "找条空的保龄球道就行。",
+            "desc": ""
+        },
+        {
+            "hash": 2887700312,
+            "original": "You are winning by ~1~ games.",
+            "translated": "你以~1~局比赛的优势获胜。",
+            "desc": ""
+        },
+        {
+            "hash": 3018678001,
+            "original": "You are losing by ~1~ game.",
+            "translated": "你以~1~局比赛的劣势告负。",
+            "desc": ""
+        },
+        {
+            "hash": 3207580350,
+            "original": "Press ~INPUT_PICKUP~ to quit.~n~Press ~ACCEPT~ to continue.",
+            "translated": "按~INPUT_PICKUP~退出。~n~按~ACCEPT~继续。",
+            "desc": ""
+        },
+        {
+            "hash": 3289896022,
+            "original": "-",
+            "translated": "-",
+            "desc": ""
+        },
+        {
+            "hash": 3303768593,
+            "original": "Car",
+            "translated": "Car",
+            "desc": ""
+        },
+        {
+            "hash": 3307766407,
+            "original": "You are winning by ~1~ game.",
+            "translated": "你以~1~局比赛的优势获胜。",
+            "desc": ""
+        },
+        {
+            "hash": 3471414509,
+            "original": "Press ~INPUT_PICKUP~ if you want to bowl.",
+            "translated": "按~INPUT_PICKUP~打保龄球。",
+            "desc": ""
+        },
+        {
+            "hash": 3666968949,
+            "original": "X",
+            "translated": "X",
+            "desc": ""
+        },
+        {
+            "hash": 3670949198,
+            "original": "Use ~PAD_SIXAXIS_PITCH~ up then down to bowl, angling left or right with ~PAD_SIXAXIS_ROLL~.~n~Press ~CANCEL~ to cancel your ready position.~n~Press ~PAD_Y~ to check the score.~n~Press ~INPUT_PICKUP~ to quit.",
+            "translated": "用~PAD_SIXAXIS_PITCH~先上后下出球，用~PAD_SIXAXIS_ROLL~调整左右位置。~n~按~CANCEL~取消你的发球位置。~n~按~PAD_Y~查看比分。~n~按~INPUT_PICKUP~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 3803648748,
+            "original": "You lost this game.",
+            "translated": "你输掉了这局比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 3901479113,
+            "original": "Use ~PAD_SIXAXIS_ROLL~ to apply after touch to the ball, before the ball crosses the red center markings.",
+            "translated": "在球越过中间的红色标记前，可用~PAD_SIXAXIS_ROLL~改变球的轨迹。",
+            "desc": ""
+        },
+        {
+            "hash": 3961179983,
+            "original": "Press ~INPUT_PICKUP~ to play a half game.~n~Press ~ACCEPT~ to play a full game.",
+            "translated": "按~INPUT_PICKUP~玩半局。~n~按~ACCEPT~玩整局。",
+            "desc": ""
+        },
+        {
+            "hash": 4038700485,
+            "original": "Press ~INPUT_PICKUP~ to quit.~n~Press ~ACCEPT~ to play again.",
+            "translated": "按~INPUT_PICKUP~退出。~n~按~ACCEPT~再来一局。",
+            "desc": ""
+        },
+        {
+            "hash": 4067799333,
+            "original": "/",
+            "translated": "/",
+            "desc": ""
+        }
+    ]
+}

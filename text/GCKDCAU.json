@@ -1,0 +1,556 @@
+{
+    "GCKDCAU": [
+        {
+            "hash": 13479785,
+            "original": "GCK2_DRUNK1_OK",
+            "translated": "GCK2_DRUNK1_OK",
+            "desc": ""
+        },
+        {
+            "hash": 22037268,
+            "original": "~z~Isn't that fun?",
+            "translated": "~z~这不是很开心吗？",
+            "desc": ""
+        },
+        {
+            "hash": 33601731,
+            "original": "GCK2_DRUNK2_PG",
+            "translated": "GCK2_DRUNK2_PG",
+            "desc": ""
+        },
+        {
+            "hash": 129355747,
+            "original": "~z~Then why drink?",
+            "translated": "~z~那为什么要喝酒？",
+            "desc": ""
+        },
+        {
+            "hash": 149584285,
+            "original": "GCK2_DRUNK3_QF",
+            "translated": "GCK2_DRUNK3_QF",
+            "desc": ""
+        },
+        {
+            "hash": 154405270,
+            "original": "~z~Fuck, what is wrong with me?",
+            "translated": "~z~操，我什么毛病？",
+            "desc": ""
+        },
+        {
+            "hash": 177853505,
+            "original": "~z~Maybe.",
+            "translated": "~z~也许吧。",
+            "desc": ""
+        },
+        {
+            "hash": 201903611,
+            "original": "GCK2_DRUNK2_PH",
+            "translated": "GCK2_DRUNK2_PH",
+            "desc": ""
+        },
+        {
+            "hash": 359820124,
+            "original": "~z~I don't know - because my whole family does, and they're such a bunch of winners!",
+            "translated": "~z~我不知道。因为我全家都喝，他们还都是一群人生赢家！",
+            "desc": ""
+        },
+        {
+            "hash": 369608893,
+            "original": "~z~I'm sorry... I'm so sorry... I'm so sorry.",
+            "translated": "~z~对不起...很对不起...真的对不起。",
+            "desc": ""
+        },
+        {
+            "hash": 386756238,
+            "original": "~z~Yes - great fun. Reminds me of being at a funeral...",
+            "translated": "~z~对，真开心。让我想起了参加葬礼的时候...",
+            "desc": ""
+        },
+        {
+            "hash": 482183846,
+            "original": "GCK2_DRUNK4_RH",
+            "translated": "GCK2_DRUNK4_RH",
+            "desc": ""
+        },
+        {
+            "hash": 556732645,
+            "original": "~z~Fuck... I'm just a neurotic, aren't I?",
+            "translated": "~z~操...我有点神经质了，不是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 563352323,
+            "original": "GCK2_DRUNK4_RI",
+            "translated": "GCK2_DRUNK4_RI",
+            "desc": ""
+        },
+        {
+            "hash": 588281462,
+            "original": "GCK2_DRUNK1_OC",
+            "translated": "GCK2_DRUNK1_OC",
+            "desc": ""
+        },
+        {
+            "hash": 627237361,
+            "original": "GCK2_DRUNK1_OH",
+            "translated": "GCK2_DRUNK1_OH",
+            "desc": ""
+        },
+        {
+            "hash": 661030582,
+            "original": "GCK2_DRUNK1_OL",
+            "translated": "GCK2_DRUNK1_OL",
+            "desc": ""
+        },
+        {
+            "hash": 674861290,
+            "original": "~z~My mother! She's great.",
+            "translated": "~z~我母亲！她很伟大。",
+            "desc": ""
+        },
+        {
+            "hash": 842484538,
+            "original": "GCK2_DRUNK3_QI",
+            "translated": "GCK2_DRUNK3_QI",
+            "desc": ""
+        },
+        {
+            "hash": 889571283,
+            "original": "GCK2_DRUNK3_QA",
+            "translated": "GCK2_DRUNK3_QA",
+            "desc": ""
+        },
+        {
+            "hash": 920075317,
+            "original": "~z~I'm half crazy, out drinking with a killer,",
+            "translated": "~z~我差不多疯了，和一个杀手出来喝酒。",
+            "desc": ""
+        },
+        {
+            "hash": 998320871,
+            "original": "GCK2_DRUNK2_PF",
+            "translated": "GCK2_DRUNK2_PF",
+            "desc": ""
+        },
+        {
+            "hash": 1001264137,
+            "original": "~z~Please, leave me alone.",
+            "translated": "~z~拜托，放过我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1048100200,
+            "original": "~z~They haven't invented a tranquilizer strong enough, but if she combines them with whiskey, she can get to sleep.",
+            "translated": "~z~现在的镇静剂药效都不够强，但只要混上一点威士忌，她就能睡着了。",
+            "desc": ""
+        },
+        {
+            "hash": 1064572659,
+            "original": "GCK2_DRUNK1_OI",
+            "translated": "GCK2_DRUNK1_OI",
+            "desc": ""
+        },
+        {
+            "hash": 1088253294,
+            "original": "GCK2_DRUNK3_QD",
+            "translated": "GCK2_DRUNK3_QD",
+            "desc": ""
+        },
+        {
+            "hash": 1141290234,
+            "original": "GCK2_DRUNK1_OB",
+            "translated": "GCK2_DRUNK1_OB",
+            "desc": ""
+        },
+        {
+            "hash": 1162654522,
+            "original": "GCK2_DRUNK4_RD",
+            "translated": "GCK2_DRUNK4_RD",
+            "desc": ""
+        },
+        {
+            "hash": 1166399890,
+            "original": "~z~and with this family so fucked up I don't even want to talk about it.",
+            "translated": "~z~还有一个乱七八糟到我都不想提的家庭。",
+            "desc": ""
+        },
+        {
+            "hash": 1182893100,
+            "original": "~z~I don't know about that.",
+            "translated": "~z~那我倒不知道。",
+            "desc": ""
+        },
+        {
+            "hash": 1278273256,
+            "original": "~z~Don't worry.",
+            "translated": "~z~别担心。",
+            "desc": ""
+        },
+        {
+            "hash": 1288961847,
+            "original": "GCK2_DRUNK3_QH",
+            "translated": "GCK2_DRUNK3_QH",
+            "desc": ""
+        },
+        {
+            "hash": 1318280605,
+            "original": "~z~My dad - he did awful things to my brothers, I loved him, but I knew.",
+            "translated": "~z~我爸，他对我的哥哥做了很多糟糕的事情。我爱他，但我知道。",
+            "desc": ""
+        },
+        {
+            "hash": 1340114960,
+            "original": "GCK2_DRUNK3_QE",
+            "translated": "GCK2_DRUNK3_QE",
+            "desc": ""
+        },
+        {
+            "hash": 1371464334,
+            "original": "GCK2_DRUNK2_PA",
+            "translated": "GCK2_DRUNK2_PA",
+            "desc": ""
+        },
+        {
+            "hash": 1421811879,
+            "original": "~z~Calms you down... shows you that you really do hate yourself.",
+            "translated": "~z~能让你镇定...让你知道你真的很讨厌自己。",
+            "desc": ""
+        },
+        {
+            "hash": 1449297980,
+            "original": "GCK2_DRUNK3_QC",
+            "translated": "GCK2_DRUNK3_QC",
+            "desc": ""
+        },
+        {
+            "hash": 1517323131,
+            "original": "~z~No, why would I worry? Why would I fucking worry?",
+            "translated": "~z~不，我为什么要担心？老娘为什么要担心？",
+            "desc": ""
+        },
+        {
+            "hash": 1530090259,
+            "original": "~z~Yes, fuck you, you creep. You fucking lunatic creep. Fuck you.",
+            "translated": "~z~对，操你妈，你这变态。你这狗屁疯子死变态。操你妈。",
+            "desc": ""
+        },
+        {
+            "hash": 1545148934,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1557002770,
+            "original": "~z~I fucking knew, and my brothers - look at them.",
+            "translated": "~z~我他妈知道。而我的哥哥们，看看他们。",
+            "desc": ""
+        },
+        {
+            "hash": 1587769231,
+            "original": "GCK2_DRUNK1_OA",
+            "translated": "GCK2_DRUNK1_OA",
+            "desc": ""
+        },
+        {
+            "hash": 1622948005,
+            "original": "~z~I'm trying... maybe I better shut up.",
+            "translated": "~z~我尽量...我还是闭嘴吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1752468253,
+            "original": "GCK2_DRUNK1_OE",
+            "translated": "GCK2_DRUNK1_OE",
+            "desc": ""
+        },
+        {
+            "hash": 1784886938,
+            "original": "~z~Look at them... I can't take it any more...",
+            "translated": "~z~看看他们...我已经受不了了...",
+            "desc": ""
+        },
+        {
+            "hash": 1837627324,
+            "original": "~z~You're a loser. You're a fucking loser. Fuck you. What is wrong with you, you cold hearted creep?",
+            "translated": "~z~你就是个失败者。你丫就是个失败者。操你妈。你什么毛病，你这冷血变态？",
+            "desc": ""
+        },
+        {
+            "hash": 1867142593,
+            "original": "~z~Calm down.",
+            "translated": "~z~冷静。",
+            "desc": ""
+        },
+        {
+            "hash": 1877253477,
+            "original": "GCK2_DRUNK1_OF",
+            "translated": "GCK2_DRUNK1_OF",
+            "desc": ""
+        },
+        {
+            "hash": 1880440293,
+            "original": "~z~Shhh, calm down.",
+            "translated": "~z~嘘，冷静。",
+            "desc": ""
+        },
+        {
+            "hash": 1938816010,
+            "original": "GCK2_DRUNK1_OJ",
+            "translated": "GCK2_DRUNK1_OJ",
+            "desc": ""
+        },
+        {
+            "hash": 1946819128,
+            "original": "~z~I'm sorry... I'm so sorry.",
+            "translated": "~z~对不起...真对不起。",
+            "desc": ""
+        },
+        {
+            "hash": 1995049604,
+            "original": "~z~Yeah, sure.",
+            "translated": "~z~对，确实。",
+            "desc": ""
+        },
+        {
+            "hash": 2046337529,
+            "original": "GCK2_DRUNK2_PB",
+            "translated": "GCK2_DRUNK2_PB",
+            "desc": ""
+        },
+        {
+            "hash": 2056635333,
+            "original": "~z~Shit. I'm drunk.",
+            "translated": "~z~靠，我醉了。",
+            "desc": ""
+        },
+        {
+            "hash": 2073422868,
+            "original": "GCK2_DRUNK3_QJ",
+            "translated": "GCK2_DRUNK3_QJ",
+            "desc": ""
+        },
+        {
+            "hash": 2135956308,
+            "original": "~z~Fuck you.",
+            "translated": "~z~操你妈。",
+            "desc": ""
+        },
+        {
+            "hash": 2191079254,
+            "original": "~z~Don't worry about it.",
+            "translated": "~z~没关系的。",
+            "desc": ""
+        },
+        {
+            "hash": 2198258153,
+            "original": "GCK2_DRUNK2_PE",
+            "translated": "GCK2_DRUNK2_PE",
+            "desc": ""
+        },
+        {
+            "hash": 2219633553,
+            "original": "GCK2_DRUNK4_RB",
+            "translated": "GCK2_DRUNK4_RB",
+            "desc": ""
+        },
+        {
+            "hash": 2241360935,
+            "original": "GCK2_DRUNK3_QG",
+            "translated": "GCK2_DRUNK3_QG",
+            "desc": ""
+        },
+        {
+            "hash": 2271220737,
+            "original": "010100100010100100100010100010",
+            "translated": "010100100010100100100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 2296753787,
+            "original": "~z~Do us a favor? Try not to freak out like you seem to when you get drunk.",
+            "translated": "~z~替我考虑下吧？喝醉以后能不能别和之前一样发酒疯了。",
+            "desc": ""
+        },
+        {
+            "hash": 2411873784,
+            "original": "GCK2_DRUNK4_RJ",
+            "translated": "GCK2_DRUNK4_RJ",
+            "desc": ""
+        },
+        {
+            "hash": 2418530795,
+            "original": "GCK2_DRUNK2_PC",
+            "translated": "GCK2_DRUNK2_PC",
+            "desc": ""
+        },
+        {
+            "hash": 2437005111,
+            "original": "~z~That's better.",
+            "translated": "~z~这就好多了。",
+            "desc": ""
+        },
+        {
+            "hash": 2473096386,
+            "original": "100010100010100100100100100100100",
+            "translated": "100010100010100100100100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2488140530,
+            "original": "GCK2_DRUNK3_QB",
+            "translated": "GCK2_DRUNK3_QB",
+            "desc": ""
+        },
+        {
+            "hash": 2623231334,
+            "original": "~z~That was fun...",
+            "translated": "~z~喝得很开心...",
+            "desc": ""
+        },
+        {
+            "hash": 2646550593,
+            "original": "GCK2_DRUNK2_PI",
+            "translated": "GCK2_DRUNK2_PI",
+            "desc": ""
+        },
+        {
+            "hash": 2682059821,
+            "original": "GCK2_DRUNK1_OD",
+            "translated": "GCK2_DRUNK1_OD",
+            "desc": ""
+        },
+        {
+            "hash": 2780102029,
+            "original": "~z~Shut up, please.",
+            "translated": "~z~住口，拜托了。",
+            "desc": ""
+        },
+        {
+            "hash": 2870857063,
+            "original": "~z~Great... that's a sensation worth paying for...",
+            "translated": "~z~很好...这种感觉很划得来...",
+            "desc": ""
+        },
+        {
+            "hash": 3049852833,
+            "original": "GCK2_DRUNK4_RG",
+            "translated": "GCK2_DRUNK4_RG",
+            "desc": ""
+        },
+        {
+            "hash": 3055767077,
+            "original": "GCK2_DRUNK4_RA",
+            "translated": "GCK2_DRUNK4_RA",
+            "desc": ""
+        },
+        {
+            "hash": 3085378033,
+            "original": "~z~Probably, you psycho. You're crazy.",
+            "translated": "~z~也许吧，你个神经病。这个疯子。",
+            "desc": ""
+        },
+        {
+            "hash": 3109972456,
+            "original": "~z~You already knew that, maybe... I hate myself and I want to die!",
+            "translated": "~z~你已经知道了，大概...我讨厌我自己，我想死！",
+            "desc": ""
+        },
+        {
+            "hash": 3213847033,
+            "original": "GCK2_DRUNK4_RK",
+            "translated": "GCK2_DRUNK4_RK",
+            "desc": ""
+        },
+        {
+            "hash": 3472999794,
+            "original": "GCK2_DRUNK4_RE",
+            "translated": "GCK2_DRUNK4_RE",
+            "desc": ""
+        },
+        {
+            "hash": 3666543518,
+            "original": "~z~Really self indulgent, really idiotic, pathetic.",
+            "translated": "~z~真的太放纵自己了，太蠢了，太可悲了。",
+            "desc": ""
+        },
+        {
+            "hash": 3791207197,
+            "original": "~z~Yeah great. Just great. I love drinking - gives you clarity.",
+            "translated": "~z~对，很好，真的很好。我爱喝酒，能让你清醒。",
+            "desc": ""
+        },
+        {
+            "hash": 3849358329,
+            "original": "100010100100100100100100100100010100010",
+            "translated": "100010100100100100100100100100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 3901918603,
+            "original": "010100010100010100100010100010",
+            "translated": "010100010100010100100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 3907816599,
+            "original": "GCK2_DRUNK2_PD",
+            "translated": "GCK2_DRUNK2_PD",
+            "desc": ""
+        },
+        {
+            "hash": 3946779048,
+            "original": "GCK2_DRUNK1_OG",
+            "translated": "GCK2_DRUNK1_OG",
+            "desc": ""
+        },
+        {
+            "hash": 3972726496,
+            "original": "GCK2_DRUNK4_RF",
+            "translated": "GCK2_DRUNK4_RF",
+            "desc": ""
+        },
+        {
+            "hash": 4003229305,
+            "original": "GCK2_DRUNK1_OM",
+            "translated": "GCK2_DRUNK1_OM",
+            "desc": ""
+        },
+        {
+            "hash": 4030224283,
+            "original": "~z~That was fun.",
+            "translated": "~z~喝得很开心。",
+            "desc": ""
+        },
+        {
+            "hash": 4037816288,
+            "original": "~z~What are you going to do now? Shoot me?",
+            "translated": "~z~你现在要做什么？开枪射我？",
+            "desc": ""
+        },
+        {
+            "hash": 4072580593,
+            "original": "~z~I'm drunk...",
+            "translated": "~z~我醉了...",
+            "desc": ""
+        },
+        {
+            "hash": 4077831607,
+            "original": "GCK2_DRUNK4_RC",
+            "translated": "GCK2_DRUNK4_RC",
+            "desc": ""
+        },
+        {
+            "hash": 4250219304,
+            "original": "GCK2_DRUNK2_PJ",
+            "translated": "GCK2_DRUNK2_PJ",
+            "desc": ""
+        },
+        {
+            "hash": 4268280665,
+            "original": "~z~Why would I worry? What in God's name have I got to worry about?",
+            "translated": "~z~我为什么要担心？看在上帝份上我有什么要担心的？",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "WI_EDD1": [
+        {
+            "hash": 448293068,
+            "original": "Pick up ~b~Eddie.",
+            "translated": "接上~b~Eddie。",
+            "desc": ""
+        },
+        {
+            "hash": 993832695,
+            "original": "Take Eddie to ~y~Westminster.",
+            "translated": "带Eddie去~y~Westminster。",
+            "desc": ""
+        },
+        {
+            "hash": 1687059575,
+            "original": "~r~Eddie is dead.",
+            "translated": "~r~Eddie死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2058267795,
+            "original": "Get Eddie to the ~y~docks.",
+            "translated": "带Eddie去~y~码头。",
+            "desc": ""
+        },
+        {
+            "hash": 2346144260,
+            "original": "Wait for ~b~Eddie.",
+            "translated": "等待~b~Eddie。",
+            "desc": ""
+        },
+        {
+            "hash": 2537121416,
+            "original": "Get Eddie to ~y~Westminster.",
+            "translated": "带Eddie去~y~Westminster。",
+            "desc": ""
+        },
+        {
+            "hash": 2813462500,
+            "original": "Take Eddie to the ~y~docks.",
+            "translated": "带Eddie去~y~码头。",
+            "desc": ""
+        },
+        {
+            "hash": 3760388538,
+            "original": "~r~Eddie was abandoned.",
+            "translated": "~r~Eddie被抛弃了。",
+            "desc": ""
+        },
+        {
+            "hash": 4057766968,
+            "original": "Get a vehicle.",
+            "translated": "找一辆载具。",
+            "desc": ""
+        }
+    ]
+}

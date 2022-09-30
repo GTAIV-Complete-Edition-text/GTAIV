@@ -1,0 +1,754 @@
+{
+    "FCB2aAU": [
+        {
+            "hash": 40006753,
+            "original": "~z~Wipe the gunk out of your face and get in your chopper, I need you to get me.",
+            "translated": "~z~擦掉脸上的液体，进入直升机吧，我需要你来接。",
+            "desc": ""
+        },
+        {
+            "hash": 41474407,
+            "original": "~z~No skin off my back, NB. That's all cool baby. Another time.",
+            "translated": "~z~我无所谓，NB。怎么样都行，宝贝。那就下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 71175349,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 75346216,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 281153828,
+            "original": "~z~If you don't want to be disturbed, then turn off your phone. I need a lift in your chopper.",
+            "translated": "~z~不想有人烦你就直接关机吧。麻烦你开直升机来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 322767981,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 325116857,
+            "original": "~z~NB - I'm getting out of the hospital, man - can you pick me up?",
+            "translated": "~z~NB，我要出院了，兄弟。你能来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 333384606,
+            "original": "~z~Brucie man, those naked chicks are gonna have to wait. Another time.",
+            "translated": "~z~Brucie兄弟，让那些脱衣舞女再等等吧。改天再说。",
+            "desc": ""
+        },
+        {
+            "hash": 372598672,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 437596359,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 497577833,
+            "original": "~z~Wow, thanks, Brucie, I appreciate that.",
+            "translated": "~z~哇哦，谢了，Brucie，很感谢你。",
+            "desc": ""
+        },
+        {
+            "hash": 520053629,
+            "original": "FCB2_ACT_PBR_GETCALL_HOSP_YES",
+            "translated": "FCB2_ACT_PBR_GETCALL_HOSP_YES",
+            "desc": ""
+        },
+        {
+            "hash": 552122157,
+            "original": "FCB2_ACT_PBR_CALL_HOSP_CANCEL",
+            "translated": "FCB2_ACT_PBR_CALL_HOSP_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 593160643,
+            "original": "FCB2_ACT_GETCALL_SPEC",
+            "translated": "FCB2_ACT_GETCALL_SPEC",
+            "desc": ""
+        },
+        {
+            "hash": 599382091,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 681250349,
+            "original": "~z~Homie, it's Brucie - I'm getting out of the hospital bro - can you pick me up?",
+            "translated": "~z~哥们儿，我是Brucie，我要出院了兄弟，你能来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 693890056,
+            "original": "FCB2_ACT_PBR_CALL_HELI_CANCEL",
+            "translated": "FCB2_ACT_PBR_CALL_HELI_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 736906425,
+            "original": "~z~NB, come on man, I was asleep. What is it?",
+            "translated": "~z~NB，别这样兄弟，我还在睡觉呢。什么事？",
+            "desc": ""
+        },
+        {
+            "hash": 759061002,
+            "original": "FCB2_ACT_PBR_CALL_REQ_SPEC",
+            "translated": "FCB2_ACT_PBR_CALL_REQ_SPEC",
+            "desc": ""
+        },
+        {
+            "hash": 760313569,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 764231729,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 779487233,
+            "original": "FCB2_ACT_PBR_CALL_HILIKE",
+            "translated": "FCB2_ACT_PBR_CALL_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 803883244,
+            "original": "~z~On my way, Brucie.",
+            "translated": "~z~这就来，Brucie。",
+            "desc": ""
+        },
+        {
+            "hash": 828342800,
+            "original": "FCB2_ACT_PBR_CALL_CANCEL_SPEC",
+            "translated": "FCB2_ACT_PBR_CALL_CANCEL_SPEC",
+            "desc": ""
+        },
+        {
+            "hash": 849851277,
+            "original": "FCB2_A_OA",
+            "translated": "FCB2_A_OA",
+            "desc": ""
+        },
+        {
+            "hash": 857538970,
+            "original": "~z~Brucie, I need that helicopter ride now.",
+            "translated": "~z~Brucie，我现在要乘直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 887521100,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 895587739,
+            "original": "FCB2_ACT_PBR_CALL_MEDLIKE",
+            "translated": "FCB2_ACT_PBR_CALL_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 921925735,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 990756299,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1008030264,
+            "original": "~z~Sorry Brucie, can't pick you up no more, take the subway or something.",
+            "translated": "~z~抱歉，Brucie，没法来接你了，改坐地铁之类的吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1010831298,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1033621420,
+            "original": "~z~Don't worry about it, NB. Another time.",
+            "translated": "~z~没关系的，NB。改天再约。",
+            "desc": ""
+        },
+        {
+            "hash": 1038942335,
+            "original": "~z~Sorry, Brucie, I can't make it to the hospital.",
+            "translated": "~z~抱歉，Brucie，我来不了医院了。",
+            "desc": ""
+        },
+        {
+            "hash": 1056752300,
+            "original": "~z~Sorry, Brucie. I gotta cancel our meal.",
+            "translated": "~z~抱歉，Brucie。我们的聚餐得取消了。",
+            "desc": ""
+        },
+        {
+            "hash": 1074144909,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1089084528,
+            "original": "FCB2_ACT_PBR_CALL_LOLIKE",
+            "translated": "FCB2_ACT_PBR_CALL_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 1098147528,
+            "original": "~z~Hey man, me and you are gonna have to get horny together another time. Right now won't do.",
+            "translated": "~z~喂，兄弟，只能改天再寻欢作乐了。现在去不了。",
+            "desc": ""
+        },
+        {
+            "hash": 1100278849,
+            "original": "~z~Sure, Brucie - glad you're getting out - I'll be there in an hour or less.",
+            "translated": "~z~当然，Brucie，很高兴你出院了。我大概一小时到。",
+            "desc": ""
+        },
+        {
+            "hash": 1113025887,
+            "original": "~z~Brucie, sorry but I need to take a raincheck on that Heli ride. Hope that's cool.",
+            "translated": "~z~Brucie，很抱歉，但约好的直升机兜风得推迟了。希望没关系。",
+            "desc": ""
+        },
+        {
+            "hash": 1126212001,
+            "original": "~z~Brucie, can you pick me up? In the helicopter man.",
+            "translated": "~z~Brucie，能来接我吗？开直升机来，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1145486574,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1228297750,
+            "original": "FCB2_ACT_PBR_CALL_LIFT_CANCEL",
+            "translated": "FCB2_ACT_PBR_CALL_LIFT_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 1250553822,
+            "original": "~z~Sorry Brucie, you'll have to find your own way home.",
+            "translated": "~z~抱歉，Brucie，你得自己回去了。",
+            "desc": ""
+        },
+        {
+            "hash": 1254911910,
+            "original": "~z~Hey Brucie, I can't give you that ride no more, hope you've got some walking shoes on.",
+            "translated": "~z~喂，Brucie，我没法来接你了，希望你穿的鞋适合走路。",
+            "desc": ""
+        },
+        {
+            "hash": 1287268847,
+            "original": "~z~Roger that - no problem.",
+            "translated": "~z~收到，没问题。",
+            "desc": ""
+        },
+        {
+            "hash": 1295136040,
+            "original": "~z~Hey - amigo, that's a diss man, I'm just getting out of the hospital.",
+            "translated": "~z~喂，大兄弟，真是绝情，我才刚出院诶。",
+            "desc": ""
+        },
+        {
+            "hash": 1309909238,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1345676159,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1415380296,
+            "original": "FCB2_ACT_GETCALL_HOSP_REJ_LOLIKE",
+            "translated": "FCB2_ACT_GETCALL_HOSP_REJ_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 1416964080,
+            "original": "~z~I just wanted to say - you ever need a lift in the helicopter, gimme a call alright, yeah.",
+            "translated": "~z~跟你打声招呼，如果需要直升机载你一程，给我打个电话，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1535740777,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1646023516,
+            "original": "~z~Sorry man, looks like I can't hit the river with you. Some other time.",
+            "translated": "~z~抱歉，兄弟，看来我没法和你一起乘风破浪了。以后再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1703219988,
+            "original": "~z~Brucie, sorry about this but I gotta cancel our bowling date.",
+            "translated": "~z~Brucie，很对不起，约好的保龄球只能取消了。",
+            "desc": ""
+        },
+        {
+            "hash": 1740369785,
+            "original": "~z~Yeah no worries, man - I know how it is making your way in this game. I'll make my own way home.",
+            "translated": "~z~没关系，兄弟，我也知道在游戏里赶路不容易。我自己回家吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1754229886,
+            "original": "~z~Brucie, can you pick me up in that chopper?",
+            "translated": "~z~Brucie，你能开直升机来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1787709249,
+            "original": "FCB2_ACT_PBR_CALL_BOAT_CANCEL",
+            "translated": "FCB2_ACT_PBR_CALL_BOAT_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 1799141849,
+            "original": "FCB2_ACT_GETCALL_HOSP_REJ_MEDLIKE",
+            "translated": "FCB2_ACT_GETCALL_HOSP_REJ_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 1952199397,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1970231050,
+            "original": "~z~That's why we're tight, man - that's why we're in this together.",
+            "translated": "~z~这才是铁哥们嘛，兄弟。所以我们才会在一起。",
+            "desc": ""
+        },
+        {
+            "hash": 1975387675,
+            "original": "FCB2_ACT_CALL_REQ_SPEC_YES",
+            "translated": "FCB2_ACT_CALL_REQ_SPEC_YES",
+            "desc": ""
+        },
+        {
+            "hash": 2003762351,
+            "original": "~z~Love to but the thing is in the shop just now - some problem with the left wing, I mean rotor blade.",
+            "translated": "~z~我也想啊，不过店里有点事情。左翼出了问题，我是说机翼。",
+            "desc": ""
+        },
+        {
+            "hash": 2112333350,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2128973038,
+            "original": "~z~Can't actually do that boating with you no more Brucie. Another time.",
+            "translated": "~z~暂时没法跟你去开快艇了，Brucie。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2232040768,
+            "original": "FCB2_ACT_GETCALL_HOSP_ASK",
+            "translated": "FCB2_ACT_GETCALL_HOSP_ASK",
+            "desc": ""
+        },
+        {
+            "hash": 2239044026,
+            "original": "~z~I should have got a limo organized or something - my bad - no problem.",
+            "translated": "~z~我就该自己安排专车来接的，怪我。没关系。",
+            "desc": ""
+        },
+        {
+            "hash": 2270460628,
+            "original": "~z~Thanks man. See you soon.",
+            "translated": "~z~谢了兄弟。待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 2307989747,
+            "original": "~z~I'd love to, but it's fucked just now, bro.",
+            "translated": "~z~我也想啊，不过飞机刚好坏了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2339161832,
+            "original": "FCB2_ACT_CALL_REQ_SPEC_NO",
+            "translated": "FCB2_ACT_CALL_REQ_SPEC_NO",
+            "desc": ""
+        },
+        {
+            "hash": 2427153862,
+            "original": "FCB2_ACT_PBR_CALL_SHOW_CANCEL",
+            "translated": "FCB2_ACT_PBR_CALL_SHOW_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 2462657319,
+            "original": "~z~Thanks, man, and I hope you can sense the lack of warmth in my voice, man.",
+            "translated": "~z~谢了，兄弟，希望你能听出我缺乏的温暖，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2471381978,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2498934969,
+            "original": "~z~Okay - I know how it is, making moves and taking over!",
+            "translated": "~z~好吧。我也知道情况，忙着你的宏图霸业是吧！",
+            "desc": ""
+        },
+        {
+            "hash": 2519183775,
+            "original": "FCB2_ACT_GETCALL_HOSP_REJ_HILIKE",
+            "translated": "FCB2_ACT_GETCALL_HOSP_REJ_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2544991105,
+            "original": "~z~You're not a real winner, anyway.",
+            "translated": "~z~反正你也不是真正的赢家。",
+            "desc": ""
+        },
+        {
+            "hash": 2564323836,
+            "original": "~z~Sure, no problem, bro.",
+            "translated": "~z~当然，没问题，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2679921367,
+            "original": "~z~Brucie - it's Niko - I really need you and your helicopter.",
+            "translated": "~z~Brucie，我是Niko，现在急需你的直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 2749256641,
+            "original": "FCB2_ACT_PBR_CALL_BOWL_CANCEL",
+            "translated": "FCB2_ACT_PBR_CALL_BOWL_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 2776006886,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2814038608,
+            "original": "FCB2_ACT_PBR_CALL_DRINK_CANCEL",
+            "translated": "FCB2_ACT_PBR_CALL_DRINK_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 2850132016,
+            "original": "FCB2_ACT_CALL_HOSP_CANCEL_LOLIKE",
+            "translated": "FCB2_ACT_CALL_HOSP_CANCEL_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2913547306,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2922144909,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2952603537,
+            "original": "~z~That's how we roll - NB - in the sky!",
+            "translated": "~z~这就是我们的风范，NB，上天！",
+            "desc": ""
+        },
+        {
+            "hash": 2964598499,
+            "original": "FCB2_ACT_GETCALL_HOSP_ACCEPT",
+            "translated": "FCB2_ACT_GETCALL_HOSP_ACCEPT",
+            "desc": ""
+        },
+        {
+            "hash": 2975217707,
+            "original": "~z~Brucie - I'm cool - I don't need the chopper just now after all.",
+            "translated": "~z~Brucie，没事了，不需要刚才说的直升机了。",
+            "desc": ""
+        },
+        {
+            "hash": 2993957199,
+            "original": "FCB2_ACT_CALL_REQ_SPEC_END",
+            "translated": "FCB2_ACT_CALL_REQ_SPEC_END",
+            "desc": ""
+        },
+        {
+            "hash": 3018155546,
+            "original": "~z~Shit, if that's the way you're playing me. Don't take me for granted though.",
+            "translated": "~z~我靠，你小子耍我呢。我们的友谊可不是理所当然。",
+            "desc": ""
+        },
+        {
+            "hash": 3098051579,
+            "original": "~z~Brucie, sorry but I can't go drinking with you.",
+            "translated": "~z~Brucie，很抱歉，我没法跟你去喝酒了。",
+            "desc": ""
+        },
+        {
+            "hash": 3129248162,
+            "original": "FCB2_ACT_PBR_CALL_GAMES_CANCEL",
+            "translated": "FCB2_ACT_PBR_CALL_GAMES_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 3181888230,
+            "original": "~z~No worries, bro.",
+            "translated": "~z~没问题，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3378726077,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3392874276,
+            "original": "~z~Hey Brucie. Sorry but we can't get that drink right now.",
+            "translated": "~z~喂，Brucie。很抱歉，不过我们没法去喝酒了。",
+            "desc": ""
+        },
+        {
+            "hash": 3440680702,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3450048553,
+            "original": "~z~Shit, man. You're lucky this chick just went home, I wouldn't be up otherwise. What you need?",
+            "translated": "~z~我靠，兄弟。运气不错，那娘们刚回家，否则我早睡了。你需要什么？",
+            "desc": ""
+        },
+        {
+            "hash": 3450903426,
+            "original": "FCB2_ACT_PBR_CALL_STRIP_CANCEL",
+            "translated": "FCB2_ACT_PBR_CALL_STRIP_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 3491716254,
+            "original": "~z~Alright, man. Whatever. Hopefully see you soon bro.",
+            "translated": "~z~好吧，兄弟。随你吧。希望能早点再见啊，哥们儿。",
+            "desc": ""
+        },
+        {
+            "hash": 3516366327,
+            "original": "~z~Sorry, man, I'm kind of busy right now.",
+            "translated": "~z~抱歉，兄弟，我现在有点忙。",
+            "desc": ""
+        },
+        {
+            "hash": 3544510098,
+            "original": "~z~Sorry Brucie, I can't actually go bowling with you right now.",
+            "translated": "~z~抱歉，Brucie，我没法陪你打保龄球了。",
+            "desc": ""
+        },
+        {
+            "hash": 3545886282,
+            "original": "~z~Sure, I'm on my way.",
+            "translated": "~z~当然，我过来了。",
+            "desc": ""
+        },
+        {
+            "hash": 3556593033,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3578245752,
+            "original": "FCB2_ACT_PBR_GETCALL_SPEC_END",
+            "translated": "FCB2_ACT_PBR_GETCALL_SPEC_END",
+            "desc": ""
+        },
+        {
+            "hash": 3677986254,
+            "original": "FCB2_ACT_CALL_HOSP_CANCEL_MEDLIKE",
+            "translated": "FCB2_ACT_CALL_HOSP_CANCEL_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3714484194,
+            "original": "~z~Shit Brucie, I'm not in the mood for game no more. Raincheck.",
+            "translated": "~z~靠，Brucie，我现在没心情去玩了。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3733111089,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3734436237,
+            "original": "~z~Shit, NB. I was looking forward to that. Another time, man.",
+            "translated": "~z~我靠，NB。本来我很期待的。那就下次吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3745351477,
+            "original": "FCB2_ACT_CALL_HOSP_CANCEL_HILIKE",
+            "translated": "FCB2_ACT_CALL_HOSP_CANCEL_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3755847512,
+            "original": "~z~My bad man, well, now that you're awake, I need you to come in the heli.",
+            "translated": "~z~我的错，兄弟，既然你都醒了，索性开直升机过来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3766213085,
+            "original": "~z~Sorry Brucie, something came up. I can't hit that show with you. Another time.",
+            "translated": "~z~抱歉，Brucie，突然有点事。没法陪你看表演了。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3825808166,
+            "original": "FCB2_ACT_PBR_REQ_SPEC_SLEEP",
+            "translated": "FCB2_ACT_PBR_REQ_SPEC_SLEEP",
+            "desc": ""
+        },
+        {
+            "hash": 3862173255,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3888682421,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3944248578,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3967609254,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3994569677,
+            "original": "~z~Wake up Brucie, I need you and your chopper.",
+            "translated": "~z~醒醒，Brucie，我需要你的直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 4003244622,
+            "original": "~z~Brucie man, something's come up. We're gonna have to game another time.",
+            "translated": "~z~Brucie兄弟，突然有点急事。我们得改天出去玩了。",
+            "desc": ""
+        },
+        {
+            "hash": 4045985587,
+            "original": "~z~Jesus, NB. Brucie don't like his beauty sleep interrupted, bro. What do you need?",
+            "translated": "~z~天哪，NB。Brucie不喜欢有人打搅他的美容觉，兄弟。你要干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 4100834603,
+            "original": "FCB2_ACT_PBR_CALL_EAT_CANCEL",
+            "translated": "FCB2_ACT_PBR_CALL_EAT_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 4120063962,
+            "original": "~z~Brucie, we can't eat together right now. Another time.",
+            "translated": "~z~Brucie，没法一起去吃饭了。下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4170209746,
+            "original": "~z~Don't mean to disappoint, Brucie. But I can't do that chopper ride, I'm sorry.",
+            "translated": "~z~我也不想扫你的兴，Brucie。但直升机兜风我来不了了，很抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 4182564487,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4203311969,
+            "original": "~z~Okay, NB. At least you didn't stand me up. Next time keep your word though, stupid.",
+            "translated": "~z~好吧，NB。至少你没放我鸽子。下次说话算话好吧，白痴。",
+            "desc": ""
+        },
+        {
+            "hash": 4220700427,
+            "original": "FCB2_ACT_PBR_GETCALL_HOSP_NO",
+            "translated": "FCB2_ACT_PBR_GETCALL_HOSP_NO",
+            "desc": ""
+        },
+        {
+            "hash": 4270132783,
+            "original": "~z~You're pathetic Niko - I'm the kind of person you should try to impress.",
+            "translated": "~z~你真可悲，Niko。你要学会讨好我这种人。",
+            "desc": ""
+        },
+        {
+            "hash": 4287329272,
+            "original": "~z~Nicky, you woke me up and I'm gonna be puffy in the morning. This better be good, fuck.",
+            "translated": "~z~Nikcy，你吵醒我了，这样我白天会浮肿的。最好别出事，操。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "FIN2": [
+        {
+            "hash": 53806102,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 77153088,
+            "original": "~r~You abandoned the boat.",
+            "translated": "~r~你抛弃了船。",
+            "desc": ""
+        },
+        {
+            "hash": 140727958,
+            "original": "~s~Get on the ~b~bike.",
+            "translated": "~s~骑上~b~摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 234736726,
+            "original": "~s~Repeatedly tap ~INPUT_JUMP~ to climb into the chopper.",
+            "translated": "~s~连按~INPUT_JUMP~爬上直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 332557436,
+            "original": "~s~Jacob is waiting for you in a ~b~car~s~ in Alderney.",
+            "translated": "~s~Jacob在Alderney的~b~车~s~上等你。",
+            "desc": ""
+        },
+        {
+            "hash": 370995721,
+            "original": "~s~Follow Pegorino's ~r~goons~s~ they'll lead you to Pegorino.",
+            "translated": "~s~尾随Pegorino的~r~手下~s~找到Pegorino。",
+            "desc": ""
+        },
+        {
+            "hash": 539376482,
+            "original": "~r~Little Jacob was abandoned.",
+            "translated": "~r~Little Jacob被抛弃了。",
+            "desc": ""
+        },
+        {
+            "hash": 655018488,
+            "original": "~s~Get back in the ~b~helicopter.",
+            "translated": "~s~回到~b~直升机~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 712216308,
+            "original": "~r~You destroyed the bike.",
+            "translated": "~r~你毁掉了摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 736847397,
+            "original": "~r~You killed Pegorino's men.",
+            "translated": "~r~你杀掉了Pegorino的手下。",
+            "desc": ""
+        },
+        {
+            "hash": 791730760,
+            "original": "~s~Get back in the ~b~car.",
+            "translated": "~s~回到~b~车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 952200549,
+            "original": "~s~Chase ~r~Pegorino's goons.",
+            "translated": "~s~跟随~r~Pegorino的手下。",
+            "desc": ""
+        },
+        {
+            "hash": 1077392727,
+            "original": "~s~Chase ~r~Pegorino. ~s~Stick to the coastline, do not lose him.",
+            "translated": "~s~追击~r~Pegorino。~s~沿海岸线骑行，别跟丢了。",
+            "desc": ""
+        },
+        {
+            "hash": 1164450066,
+            "original": "~r~Roman is dead.",
+            "translated": "~r~Roman死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1301569783,
+            "original": "~s~Accelerate off the ~y~jetty~s~ to jump.",
+            "translated": "~s~加速冲上~y~栈桥~s~起跳。",
+            "desc": ""
+        },
+        {
+            "hash": 1306416585,
+            "original": "~r~The helicopter was destroyed.",
+            "translated": "~r~直升机被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 1476902529,
+            "original": "~r~You can't chase Pegorino's men if they don't have a vehicle.",
+            "translated": "~r~没有载具你追不上Pegorino的人。",
+            "desc": ""
+        },
+        {
+            "hash": 1572009330,
+            "original": "~r~You abandoned the bike.",
+            "translated": "~r~你抛弃了摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 1649005317,
+            "original": "~r~The car was destroyed.",
+            "translated": "~r~车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 1913498077,
+            "original": "~s~Roman and Jacob are waiting for you in a ~b~car~s~ in Alderney.",
+            "translated": "~s~Roman和Jacob在Alderney的~b~车~s~上等你。",
+            "desc": ""
+        },
+        {
+            "hash": 1956935610,
+            "original": "~r~Dimitri got away.",
+            "translated": "~r~Dimitri逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 2110580591,
+            "original": "~s~Get underneath Little Jacob's ~b~chopper.",
+            "translated": "~s~开到Little Jacob的~b~直升机~s~下方。",
+            "desc": ""
+        },
+        {
+            "hash": 2125826988,
+            "original": "~r~Pegorino got away.",
+            "translated": "~r~Pegorino逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 2144375966,
+            "original": "~s~Repeatedly tap ~PAD_A~ to climb into the chopper.",
+            "translated": "~s~连按~PAD_A~爬上直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 2428973007,
+            "original": "~r~Little Jacob and Roman were abandoned.",
+            "translated": "~r~Little Jacob和Roman被抛弃了。",
+            "desc": ""
+        },
+        {
+            "hash": 2439041911,
+            "original": "Press ~INPUT_VEH_ATTACK2~ to fire the helicopter miniguns.",
+            "translated": "按~INPUT_VEH_ATTACK2~用机载机枪射击。",
+            "desc": ""
+        },
+        {
+            "hash": 2508078029,
+            "original": "~s~Get in the ~b~boat.",
+            "translated": "~s~上~b~船。",
+            "desc": ""
+        },
+        {
+            "hash": 2514433475,
+            "original": "~r~Dimitri~s~ is inside the old casino. Find him.",
+            "translated": "~r~Dimitri~s~在旧赌场中。找到他。",
+            "desc": ""
+        },
+        {
+            "hash": 2585608827,
+            "original": "~r~Pegorino's goons got away.",
+            "translated": "~r~Pegorino的手下逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 2816509955,
+            "original": "~s~Get low and stay close to ~r~Dimitri.",
+            "translated": "~s~降低高度，跟紧~r~Dimitri。",
+            "desc": ""
+        },
+        {
+            "hash": 3131095810,
+            "original": "~s~Chase ~r~Pegorino.",
+            "translated": "~s~追击~r~Pegorino。",
+            "desc": ""
+        },
+        {
+            "hash": 3312687403,
+            "original": "~r~Little Jacob is dead.",
+            "translated": "~r~Little Jacob死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3713004257,
+            "original": "~s~Get low and stay close to ~r~Pegorino.",
+            "translated": "~s~降低高度，跟紧~r~Pegorino。",
+            "desc": ""
+        },
+        {
+            "hash": 3781224008,
+            "original": "~r~Pegorino's goon got away.",
+            "translated": "~r~Pegorino的手下逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 3824127407,
+            "original": "~r~Pegorino~s~ is inside the old casino. Find him.",
+            "translated": "~r~Pegorino~s~在旧赌场中。找到他。",
+            "desc": ""
+        },
+        {
+            "hash": 4049214658,
+            "original": "~r~The boat was destroyed.",
+            "translated": "~r~船被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 4116521361,
+            "original": "~s~Chase ~r~Dimitri",
+            "translated": "~s~追击~r~Dimitri。",
+            "desc": ""
+        },
+        {
+            "hash": 4280793181,
+            "original": "~r~You abandoned the helicopter.",
+            "translated": "~r~你抛弃了直升机。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "WI_BAD1": [
+        {
+            "hash": 25411591,
+            "original": "Leave the car and waste the guys down the ~y~allyway.~s~",
+            "translated": "下车，干掉 ~y~小巷~s~里的人。",
+            "desc": ""
+        },
+        {
+            "hash": 323838874,
+            "original": "Take out the ~r~thugs.",
+            "translated": "干掉~r~俄国人。",
+            "desc": ""
+        },
+        {
+            "hash": 690261832,
+            "original": "Waste all the ~r~thugs.",
+            "translated": "干掉~r~俄国人。",
+            "desc": ""
+        },
+        {
+            "hash": 922430197,
+            "original": "You are too far away from ~b~Badman.~s~ Get closer so you can interact with him.",
+            "translated": "你离~b~Badman~s~太远了，靠近一点与他互动。",
+            "desc": ""
+        },
+        {
+            "hash": 1477479337,
+            "original": "Pick ~b~Badman~s~ up.",
+            "translated": "接上~b~Badman。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1514803224,
+            "original": "You left ~b~Badman~s~ behind.",
+            "translated": "你把~b~Badman~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 1520529973,
+            "original": "The Russian gang members have been wiped out.",
+            "translated": "俄国黑帮已被清除。",
+            "desc": ""
+        },
+        {
+            "hash": 1842394921,
+            "original": "Lose your wanted level.",
+            "translated": "摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1896430998,
+            "original": "Get a vehicle.",
+            "translated": "找一辆载具。",
+            "desc": ""
+        },
+        {
+            "hash": 1946370958,
+            "original": "The ~r~Russian gang members~s~ are in the alleyway just off Carrollton Street doing a deal. Take Badman to them.",
+            "translated": " ~r~俄国黑帮~s~在Carrollton街的小巷里交易。~n~带Badman去那里。",
+            "desc": ""
+        },
+        {
+            "hash": 2477261523,
+            "original": "~r~One of the thugs got away.~s~",
+            "translated": "~r~有帮派成员逃走了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3438794464,
+            "original": "Take Badman down to the alleyway just off ~y~Carrollton Street.~s~",
+            "translated": "带Badman去~y~Carrollton街~s~的小巷。",
+            "desc": ""
+        },
+        {
+            "hash": 3669914221,
+            "original": "Get rid of Badman's ~r~problem.~s~",
+            "translated": "解决Badman的~r~麻烦。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4030668158,
+            "original": "~r~Badman has been killed.",
+            "translated": "~r~Badman被杀了。",
+            "desc": ""
+        },
+        {
+            "hash": 4253136899,
+            "original": "~r~Badman was abandoned.~s~",
+            "translated": "~r~Badman被抛弃了。~s~",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,964 @@
+{
+    "GCMC1AU": [
+        {
+            "hash": 10705074,
+            "original": "~z~No, no no. It's for my cousin.",
+            "translated": "~z~不不不，替我堂兄问的。",
+            "desc": ""
+        },
+        {
+            "hash": 27545807,
+            "original": "GCM2_MICHELLE_CONVERSATIONS3_BH",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS3_BH",
+            "desc": ""
+        },
+        {
+            "hash": 73745646,
+            "original": "~z~My pleasure! You're kind of cute.",
+            "translated": "~z~不客气！你真可爱。",
+            "desc": ""
+        },
+        {
+            "hash": 115532852,
+            "original": "~z~Do you think he's in the Russian Mafia? He sounded like a crook.",
+            "translated": "~z~你认为他是俄罗斯黑手党的成员吗？感觉他就是个罪犯。",
+            "desc": ""
+        },
+        {
+            "hash": 124642594,
+            "original": "GCM2_MICHELLE_CONVERSATIONS4_CC",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS4_CC",
+            "desc": ""
+        },
+        {
+            "hash": 152059638,
+            "original": "~z~Me too. Nice girl.",
+            "translated": "~z~我也这么想。好姑娘。",
+            "desc": ""
+        },
+        {
+            "hash": 156523381,
+            "original": "~z~Okay.",
+            "translated": "~z~好的。",
+            "desc": ""
+        },
+        {
+            "hash": 158984104,
+            "original": "~z~Yeah. Sorry I mentioned it. I didn't mean to offend you.",
+            "translated": "~z~好的。对不起，我不是故意要冒犯你。",
+            "desc": ""
+        },
+        {
+            "hash": 193388808,
+            "original": "~z~Very.",
+            "translated": "~z~正是。",
+            "desc": ""
+        },
+        {
+            "hash": 221644179,
+            "original": "GCM2_MICHELLE_CONVERSATIONS5_DI",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS5_DI",
+            "desc": ""
+        },
+        {
+            "hash": 223960423,
+            "original": "~z~Okay.",
+            "translated": "~z~他还好。",
+            "desc": ""
+        },
+        {
+            "hash": 256517078,
+            "original": "GCM2_MICHELLE_CONVERSATIONS4_CI",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS4_CI",
+            "desc": ""
+        },
+        {
+            "hash": 268164127,
+            "original": "~z~I really like her. And I think I like you.",
+            "translated": "~z~我很喜欢她。我也挺喜欢你的。",
+            "desc": ""
+        },
+        {
+            "hash": 272948765,
+            "original": "GCM2_MICHELLE_CONVERSATIONS4_CK",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS4_CK",
+            "desc": ""
+        },
+        {
+            "hash": 291037605,
+            "original": "GCM2_MICHELLE_CONVERSATIONS4_CN",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS4_CN",
+            "desc": ""
+        },
+        {
+            "hash": 308153755,
+            "original": "GCM2_MICHELLE_CONVERSATIONS5_DK",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS5_DK",
+            "desc": ""
+        },
+        {
+            "hash": 321016598,
+            "original": "~z~Hey I'm sorry - by our standards - she comes from a rough part of South Bohan.",
+            "translated": "~z~嘿，不好意思。但以美国的标准，她来自South Bohan的混乱地区。",
+            "desc": ""
+        },
+        {
+            "hash": 321943387,
+            "original": "GCM2_MICHELLE_CONVERSATIONS6_EG",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS6_EG",
+            "desc": ""
+        },
+        {
+            "hash": 339476451,
+            "original": "~z~Fair enough. That is his business. But I am not a drug dealer. What made you think that?",
+            "translated": "~z~行吧，那是他的事。但我不是毒贩，你怎么想到问我的？",
+            "desc": ""
+        },
+        {
+            "hash": 403633903,
+            "original": "~z~I worked, in tourism. In travel industry.",
+            "translated": "~z~我干过...旅游业。就是带人观光。",
+            "desc": ""
+        },
+        {
+            "hash": 425231503,
+            "original": "GCM2_MICHELLE_CONVERSATIONS2_AM",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS2_AM",
+            "desc": ""
+        },
+        {
+            "hash": 462617050,
+            "original": "~z~He likes to gamble though, doesn't he?",
+            "translated": "~z~他喜欢赌博，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 482323116,
+            "original": "GCM2_MICHELLE_CONVERSATIONS2_AD",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS2_AD",
+            "desc": ""
+        },
+        {
+            "hash": 508335857,
+            "original": "GCM2_MICHELLE_CONVERSATIONS7_FL",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS7_FL",
+            "desc": ""
+        },
+        {
+            "hash": 515764320,
+            "original": "100010100010100010010100010100010100",
+            "translated": "100010100010100010010100010100010100",
+            "desc": ""
+        },
+        {
+            "hash": 531172268,
+            "original": "GCM2_MICHELLE_CONVERSATIONS3_BI",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS3_BI",
+            "desc": ""
+        },
+        {
+            "hash": 532319443,
+            "original": "GCM2_MICHELLE_CONVERSATIONS6_ED",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS6_ED",
+            "desc": ""
+        },
+        {
+            "hash": 563087845,
+            "original": "~z~Seeing men have their legs blown off? It was... it was... it ruined me.",
+            "translated": "~z~看着别人的腿被炸断？它...它...它毁了我。",
+            "desc": ""
+        },
+        {
+            "hash": 579056347,
+            "original": "100010100010100010100010100010100010",
+            "translated": "100010100010100010100010100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 580131730,
+            "original": "~z~I really have no idea.",
+            "translated": "~z~我真的不清楚。",
+            "desc": ""
+        },
+        {
+            "hash": 599889529,
+            "original": "GCM2_MICHELLE_CONVERSATIONS3_BG",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS3_BG",
+            "desc": ""
+        },
+        {
+            "hash": 615068441,
+            "original": "GCM2_MICHELLE_CONVERSATIONS5_DH",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS5_DH",
+            "desc": ""
+        },
+        {
+            "hash": 689575144,
+            "original": "~z~I don't know about that.",
+            "translated": "~z~我不太清楚。",
+            "desc": ""
+        },
+        {
+            "hash": 706844050,
+            "original": "GCM2_MICHELLE_CONVERSATIONS3_BL",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS3_BL",
+            "desc": ""
+        },
+        {
+            "hash": 724290564,
+            "original": "GCM2_MICHELLE_CONVERSATIONS2_AH",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS2_AH",
+            "desc": ""
+        },
+        {
+            "hash": 755904436,
+            "original": "GCM2_MICHELLE_CONVERSATIONS7_FE",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS7_FE",
+            "desc": ""
+        },
+        {
+            "hash": 811943076,
+            "original": "GCM2_MICHELLE_CONVERSATIONS6_EH",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS6_EH",
+            "desc": ""
+        },
+        {
+            "hash": 828095610,
+            "original": "GCM2_MICHELLE_CONVERSATIONS5_DF",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS5_DF",
+            "desc": ""
+        },
+        {
+            "hash": 879345469,
+            "original": "~z~Okay.",
+            "translated": "~z~好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 931666913,
+            "original": "~z~Yes, really normal.",
+            "translated": "~z~是，的确很正常。",
+            "desc": ""
+        },
+        {
+            "hash": 941566713,
+            "original": "GCM2_MICHELLE_CONVERSATIONS3_BN",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS3_BN",
+            "desc": ""
+        },
+        {
+            "hash": 963693132,
+            "original": "~z~I just thought you might know someone. Or Roman did...",
+            "translated": "~z~我觉得你可能有路子，或者是Roman有...",
+            "desc": ""
+        },
+        {
+            "hash": 979416949,
+            "original": "~z~Mallorie said he was in debt, to some criminals. Do you know about that?",
+            "translated": "~z~Mallorie说他欠了罪犯的债。你知道吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1067563882,
+            "original": "~z~Thank you.",
+            "translated": "~z~谢谢你。",
+            "desc": ""
+        },
+        {
+            "hash": 1067759892,
+            "original": "GCM2_MICHELLE_CONVERSATIONS5_DE",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS5_DE",
+            "desc": ""
+        },
+        {
+            "hash": 1080936875,
+            "original": "~z~Really?",
+            "translated": "~z~是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1118258736,
+            "original": "GCM2_MICHELLE_CONVERSATIONS3_BK",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS3_BK",
+            "desc": ""
+        },
+        {
+            "hash": 1120432202,
+            "original": "~z~So, thanks for taking me out again.",
+            "translated": "~z~那，谢谢你又找我出来玩。",
+            "desc": ""
+        },
+        {
+            "hash": 1164982193,
+            "original": "~z~No - I come from a poor background. You people don't know what poor is.",
+            "translated": "~z~不，我那边才算贫寒。你们根本不知道真正的贫穷。",
+            "desc": ""
+        },
+        {
+            "hash": 1182683056,
+            "original": "~z~How are you settling in?",
+            "translated": "~z~你适应得如何了？",
+            "desc": ""
+        },
+        {
+            "hash": 1208441952,
+            "original": "GCM2_MICHELLE_CONVERSATIONS6_EC",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS6_EC",
+            "desc": ""
+        },
+        {
+            "hash": 1216182513,
+            "original": "GCM2_MICHELLE_CONVERSATIONS5_DJ",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS5_DJ",
+            "desc": ""
+        },
+        {
+            "hash": 1239419312,
+            "original": "GCM2_MICHELLE_CONVERSATIONS2_AG",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS2_AG",
+            "desc": ""
+        },
+        {
+            "hash": 1302520853,
+            "original": "~z~I met him - he seemed angry, how you say...",
+            "translated": "~z~我见过他，当时他很生气，怎么说呢...",
+            "desc": ""
+        },
+        {
+            "hash": 1345023720,
+            "original": "GCM2_MICHELLE_CONVERSATIONS6_EA",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS6_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1376249305,
+            "original": "GCM2_MICHELLE_CONVERSATIONS3_BP",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS3_BP",
+            "desc": ""
+        },
+        {
+            "hash": 1403908561,
+            "original": "GCM2_MICHELLE_CONVERSATIONS3_BC",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS3_BC",
+            "desc": ""
+        },
+        {
+            "hash": 1430754636,
+            "original": "~z~I know - and you live with your cousin - but what do you guys do?",
+            "translated": "~z~我知道，你和你的堂兄住在一起，那你们是什么职业？",
+            "desc": ""
+        },
+        {
+            "hash": 1433600592,
+            "original": "~z~No. I didn't know you liked to party.",
+            "translated": "~z~不知道。没想到你玩这么大。",
+            "desc": ""
+        },
+        {
+            "hash": 1460883549,
+            "original": "GCM2_MICHELLE_CONVERSATIONS3_BM",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS3_BM",
+            "desc": ""
+        },
+        {
+            "hash": 1462051586,
+            "original": "GCM2_MICHELLE_CONVERSATIONS2_AI",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS2_AI",
+            "desc": ""
+        },
+        {
+            "hash": 1555600426,
+            "original": "GCM2_MICHELLE_CONVERSATIONS4_CG",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS4_CG",
+            "desc": ""
+        },
+        {
+            "hash": 1557854692,
+            "original": "GCM2_MICHELLE_CONVERSATIONS3_BO",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS3_BO",
+            "desc": ""
+        },
+        {
+            "hash": 1570799931,
+            "original": "GCM2_MICHELLE_CONVERSATIONS4_CL",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS4_CL",
+            "desc": ""
+        },
+        {
+            "hash": 1630143751,
+            "original": "~z~How's Roman?",
+            "translated": "~z~Roman怎么样了？",
+            "desc": ""
+        },
+        {
+            "hash": 1656517076,
+            "original": "100010100010100010100010100010100010100010",
+            "translated": "100010100010100010100010100010100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 1663579548,
+            "original": "~z~Okay. If you're sure.",
+            "translated": "~z~好吧。如果你确定的话。",
+            "desc": ""
+        },
+        {
+            "hash": 1685730225,
+            "original": "~z~I don't have regular work, yet.",
+            "translated": "~z~我还没有固定的工作。",
+            "desc": ""
+        },
+        {
+            "hash": 1695942202,
+            "original": "GCM2_MICHELLE_CONVERSATIONS5_DC",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS5_DC",
+            "desc": ""
+        },
+        {
+            "hash": 1698865647,
+            "original": "~z~Some drugs?",
+            "translated": "~z~弄到毒品？",
+            "desc": ""
+        },
+        {
+            "hash": 1707552773,
+            "original": "GCM2_MICHELLE_CONVERSATIONS7_FG",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS7_FG",
+            "desc": ""
+        },
+        {
+            "hash": 1731552631,
+            "original": "100010100010100010100100010100010100",
+            "translated": "100010100010100010100100010100010100",
+            "desc": ""
+        },
+        {
+            "hash": 1748827466,
+            "original": "~z~Full of crooks and killers. I imagine she knows some very dangerous people - and she's so normal.",
+            "translated": "~z~到处都是骗子和杀手。我想她认识一些非常危险的人，而她还很正常。",
+            "desc": ""
+        },
+        {
+            "hash": 1811917836,
+            "original": "GCM2_MICHELLE_CONVERSATIONS6_EF",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS6_EF",
+            "desc": ""
+        },
+        {
+            "hash": 1835584033,
+            "original": "~z~I wish you'd trust me - talk to me about your work - I'm a good listener.",
+            "translated": "~z~希望你能相信我。和我聊聊你的工作吧，我是一个好听众。",
+            "desc": ""
+        },
+        {
+            "hash": 1846662093,
+            "original": "GCM2_MICHELLE_CONVERSATIONS2_AJ",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS2_AJ",
+            "desc": ""
+        },
+        {
+            "hash": 1861601448,
+            "original": "~z~There is not much to tell. I just moved here.",
+            "translated": "~z~也没什么好说的。我才刚搬过来。",
+            "desc": ""
+        },
+        {
+            "hash": 1944105104,
+            "original": "~z~Can I ask you a question?",
+            "translated": "~z~我可以问你一个问题吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1987421533,
+            "original": "GCM2_MICHELLE_CONVERSATIONS5_DD",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS5_DD",
+            "desc": ""
+        },
+        {
+            "hash": 2040476627,
+            "original": "GCM2_MICHELLE_CONVERSATIONS7_FN",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS7_FN",
+            "desc": ""
+        },
+        {
+            "hash": 2042083871,
+            "original": "GCM2_MICHELLE_CONVERSATIONS2_AA",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS2_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2088541199,
+            "original": "GCM2_MICHELLE_CONVERSATIONS3_BJ",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS3_BJ",
+            "desc": ""
+        },
+        {
+            "hash": 2088976330,
+            "original": "~z~How do you think it was? Seeing your friends die?",
+            "translated": "~z~你觉得会怎样？看着朋友死去？",
+            "desc": ""
+        },
+        {
+            "hash": 2117454304,
+            "original": "GCM2_MICHELLE_CONVERSATIONS2_AO",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS2_AO",
+            "desc": ""
+        },
+        {
+            "hash": 2118468430,
+            "original": "~z~How was that?",
+            "translated": "~z~那是怎么回事？",
+            "desc": ""
+        },
+        {
+            "hash": 2134923666,
+            "original": "GCM2_MICHELLE_CONVERSATIONS5_DG",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS5_DG",
+            "desc": ""
+        },
+        {
+            "hash": 2137550364,
+            "original": "~z~It's hard to explain. And not a big deal. I'm just tired.",
+            "translated": "~z~很难解释清楚，而且也没什么关系。我累了而已。",
+            "desc": ""
+        },
+        {
+            "hash": 2146004770,
+            "original": "~z~I don't think you can help. It's nothing.",
+            "translated": "~z~我觉得你帮不了我。没什么好说的。",
+            "desc": ""
+        },
+        {
+            "hash": 2240566247,
+            "original": "~z~Sure.",
+            "translated": "~z~当然。",
+            "desc": ""
+        },
+        {
+            "hash": 2263827795,
+            "original": "GCM2_MICHELLE_CONVERSATIONS5_DN",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS5_DN",
+            "desc": ""
+        },
+        {
+            "hash": 2317583254,
+            "original": "~z~Maybe I can help. Tell me what's going on?",
+            "translated": "~z~也许我能帮上忙，告诉我怎么回事吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2343133159,
+            "original": "GCM2_MICHELLE_CONVERSATIONS3_BD",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS3_BD",
+            "desc": ""
+        },
+        {
+            "hash": 2359167347,
+            "original": "GCM2_MICHELLE_CONVERSATIONS2_AE",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS2_AE",
+            "desc": ""
+        },
+        {
+            "hash": 2383218394,
+            "original": "~z~Yeah, I've never dated a foreign guy before - a lot from another planet, but none from another country.",
+            "translated": "~z~我从来没跟外国人约过会。外星人约过不少，但就是没有外国的。",
+            "desc": ""
+        },
+        {
+            "hash": 2399790295,
+            "original": "~z~I'm so sorry.",
+            "translated": "~z~我很抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 2430172551,
+            "original": "GCM2_MICHELLE_CONVERSATIONS4_CD",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS4_CD",
+            "desc": ""
+        },
+        {
+            "hash": 2435154165,
+            "original": "100010100010100010100010100010",
+            "translated": "100010100010100010100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 2463100244,
+            "original": "GCM2_MICHELLE_CONVERSATIONS3_BE",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS3_BE",
+            "desc": ""
+        },
+        {
+            "hash": 2482015243,
+            "original": "GCM2_MICHELLE_CONVERSATIONS7_FH",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS7_FH",
+            "desc": ""
+        },
+        {
+            "hash": 2590843945,
+            "original": "~z~Nothing regular.",
+            "translated": "~z~当临时工。",
+            "desc": ""
+        },
+        {
+            "hash": 2616162961,
+            "original": "~z~Slowly. Your country is strange. Your city makes people crazy.",
+            "translated": "~z~慢慢适应。你的国家很奇怪。你的城市使人疯狂。",
+            "desc": ""
+        },
+        {
+            "hash": 2626512358,
+            "original": "~z~How's Mallorie? We haven't spoken in a while.",
+            "translated": "~z~Mallorie怎么样？我们有段时间没说话了。",
+            "desc": ""
+        },
+        {
+            "hash": 2639504743,
+            "original": "~z~Okay.",
+            "translated": "~z~好的。",
+            "desc": ""
+        },
+        {
+            "hash": 2650149717,
+            "original": "~z~It is... he wants some coke, for a bachelor party.",
+            "translated": "~z~是真的...他想带可卡因参加单身派对。",
+            "desc": ""
+        },
+        {
+            "hash": 2655307637,
+            "original": "GCM2_MICHELLE_CONVERSATIONS4_CJ",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS4_CJ",
+            "desc": ""
+        },
+        {
+            "hash": 2709592544,
+            "original": "GCM2_MICHELLE_CONVERSATIONS7_FK",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS7_FK",
+            "desc": ""
+        },
+        {
+            "hash": 2761274051,
+            "original": "GCM2_MICHELLE_CONVERSATIONS6_EI",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS6_EI",
+            "desc": ""
+        },
+        {
+            "hash": 2777127643,
+            "original": "GCM2_MICHELLE_CONVERSATIONS2_AQ",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS2_AQ",
+            "desc": ""
+        },
+        {
+            "hash": 2803843237,
+            "original": "GCM2_MICHELLE_CONVERSATIONS2_AC",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS2_AC",
+            "desc": ""
+        },
+        {
+            "hash": 2822709338,
+            "original": "GCM2_MICHELLE_CONVERSATIONS3_BF",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS3_BF",
+            "desc": ""
+        },
+        {
+            "hash": 2849646376,
+            "original": "GCM2_MICHELLE_CONVERSATIONS2_AP",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS2_AP",
+            "desc": ""
+        },
+        {
+            "hash": 2880645790,
+            "original": "GCM2_MICHELLE_CONVERSATIONS6_EE",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS6_EE",
+            "desc": ""
+        },
+        {
+            "hash": 2920491702,
+            "original": "~z~I'm sure.",
+            "translated": "~z~我确定。",
+            "desc": ""
+        },
+        {
+            "hash": 2981342261,
+            "original": "~z~aggressive to hide inadequacy? I never see him again. Why?",
+            "translated": "~z~为了掩饰不足而咄咄逼人？后来就没见过了。怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 2992485543,
+            "original": "GCM2_MICHELLE_CONVERSATIONS6_EB",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS6_EB",
+            "desc": ""
+        },
+        {
+            "hash": 3003093706,
+            "original": "~z~Good. She's a great girl. I really like her.",
+            "translated": "~z~那就好。她是个好女孩，我真的很喜欢她。",
+            "desc": ""
+        },
+        {
+            "hash": 3006934327,
+            "original": "~z~Me too. Maybe here, things will be different.",
+            "translated": "~z~我也是。在这里，情况也许会不一样。",
+            "desc": ""
+        },
+        {
+            "hash": 3030407311,
+            "original": "~z~You found work? Great. What are you doing?",
+            "translated": "~z~你找到工作了？好啊。现在做什么呢？",
+            "desc": ""
+        },
+        {
+            "hash": 3058518304,
+            "original": "GCM2_MICHELLE_CONVERSATIONS7_FJ",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS7_FJ",
+            "desc": ""
+        },
+        {
+            "hash": 3100892263,
+            "original": "~z~So, what did you do in Europe?",
+            "translated": "~z~那，你在欧洲是做什么的？",
+            "desc": ""
+        },
+        {
+            "hash": 3123268539,
+            "original": "~z~Some what?",
+            "translated": "~z~弄到什么？",
+            "desc": ""
+        },
+        {
+            "hash": 3150626408,
+            "original": "~z~Sure.",
+            "translated": "~z~当然。",
+            "desc": ""
+        },
+        {
+            "hash": 3150704992,
+            "original": "GCM2_MICHELLE_CONVERSATIONS2_AL",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS2_AL",
+            "desc": ""
+        },
+        {
+            "hash": 3183395408,
+            "original": "~z~Did you fight in the war?",
+            "translated": "~z~你打过仗吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3221768414,
+            "original": "~z~Mallorie mentioned him, that's all.",
+            "translated": "~z~Mallorie提起过他，仅此而已。",
+            "desc": ""
+        },
+        {
+            "hash": 3223300583,
+            "original": "GCM2_MICHELLE_CONVERSATIONS5_DL",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS5_DL",
+            "desc": ""
+        },
+        {
+            "hash": 3336764692,
+            "original": "~z~I'm having some problems, in my work.",
+            "translated": "~z~我在工作中遇到了一些问题。",
+            "desc": ""
+        },
+        {
+            "hash": 3338491898,
+            "original": "~z~Me too.",
+            "translated": "~z~我也一样。",
+            "desc": ""
+        },
+        {
+            "hash": 3355540162,
+            "original": "~z~No problem.",
+            "translated": "~z~不用谢。",
+            "desc": ""
+        },
+        {
+            "hash": 3372554641,
+            "original": "GCM2_MICHELLE_CONVERSATIONS4_CM",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS4_CM",
+            "desc": ""
+        },
+        {
+            "hash": 3388521529,
+            "original": "GCM2_MICHELLE_CONVERSATIONS5_DB",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS5_DB",
+            "desc": ""
+        },
+        {
+            "hash": 3420188448,
+            "original": "~z~Listen, it's a bit of a strange question, but do you know where I can get some... some.",
+            "translated": "~z~听着，我这个问题有点怪，但你知道哪里能弄到...弄到...",
+            "desc": ""
+        },
+        {
+            "hash": 3431948067,
+            "original": "100010100010100010100010100010100010100010010100010",
+            "translated": "100010100010100010100010100010100010100010010100010",
+            "desc": ""
+        },
+        {
+            "hash": 3442400531,
+            "original": "~z~No.",
+            "translated": "~z~不。",
+            "desc": ""
+        },
+        {
+            "hash": 3457020053,
+            "original": "GCM2_MICHELLE_CONVERSATIONS7_FF",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS7_FF",
+            "desc": ""
+        },
+        {
+            "hash": 3508212096,
+            "original": "~z~You seem really agitated, Niko. Is something wrong?",
+            "translated": "~z~你好像很焦虑，Niko。出什么事了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3551130559,
+            "original": "GCM2_MICHELLE_CONVERSATIONS2_AN",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS2_AN",
+            "desc": ""
+        },
+        {
+            "hash": 3568366433,
+            "original": "~z~Do you think they'll try to involve Roman?",
+            "translated": "~z~你觉得他们会吸纳Roman吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3615841237,
+            "original": "~z~Yeah, she's done well. She comes from a very poor background.",
+            "translated": "~z~是的，她做得很好。她出身于贫寒人家。",
+            "desc": ""
+        },
+        {
+            "hash": 3684465134,
+            "original": "~z~That would really scare me. Organized crime, I mean.",
+            "translated": "~z~那会吓到我的。我是说有组织犯罪。",
+            "desc": ""
+        },
+        {
+            "hash": 3697292836,
+            "original": "GCM2_MICHELLE_CONVERSATIONS2_AK",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS2_AK",
+            "desc": ""
+        },
+        {
+            "hash": 3707470532,
+            "original": "~z~What do you know about that guy Vlad?",
+            "translated": "~z~你对Vlad了解多少？",
+            "desc": ""
+        },
+        {
+            "hash": 3759344539,
+            "original": "GCM2_MICHELLE_CONVERSATIONS7_FM",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS7_FM",
+            "desc": ""
+        },
+        {
+            "hash": 3765272374,
+            "original": "GCM2_MICHELLE_CONVERSATIONS7_FP",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS7_FP",
+            "desc": ""
+        },
+        {
+            "hash": 3804994124,
+            "original": "~z~You didn't.",
+            "translated": "~z~知道了。",
+            "desc": ""
+        },
+        {
+            "hash": 3837359677,
+            "original": "~z~Good, I think.",
+            "translated": "~z~应该还好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3873908026,
+            "original": "~z~Sure. That's what everyone says.",
+            "translated": "~z~当然，大家都这么说。",
+            "desc": ""
+        },
+        {
+            "hash": 3908101783,
+            "original": "GCM2_MICHELLE_CONVERSATIONS6_EJ",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS6_EJ",
+            "desc": ""
+        },
+        {
+            "hash": 3934826030,
+            "original": "GCM2_MICHELLE_CONVERSATIONS7_FI",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS7_FI",
+            "desc": ""
+        },
+        {
+            "hash": 3951608272,
+            "original": "~z~Tell me about yourself. Tell me about Niko Bellic.",
+            "translated": "~z~讲点你自己的事吧。跟我讲讲Niko Bellic。",
+            "desc": ""
+        },
+        {
+            "hash": 3976911920,
+            "original": "GCM2_MICHELLE_CONVERSATIONS4_CF",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS4_CF",
+            "desc": ""
+        },
+        {
+            "hash": 4010551315,
+            "original": "~z~I don't think Roman would make much of a criminal.",
+            "translated": "~z~我觉得Roman干不成什么坏事。",
+            "desc": ""
+        },
+        {
+            "hash": 4063124374,
+            "original": "GCM2_MICHELLE_CONVERSATIONS2_AF",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS2_AF",
+            "desc": ""
+        },
+        {
+            "hash": 4071971068,
+            "original": "GCM2_MICHELLE_CONVERSATIONS2_AB",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS2_AB",
+            "desc": ""
+        },
+        {
+            "hash": 4097157222,
+            "original": "GCM2_MICHELLE_CONVERSATIONS7_FO",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS7_FO",
+            "desc": ""
+        },
+        {
+            "hash": 4108338519,
+            "original": "GCM2_MICHELLE_CONVERSATIONS4_CH",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS4_CH",
+            "desc": ""
+        },
+        {
+            "hash": 4133503349,
+            "original": "~z~No. Roman is an addict, but not cocaine. Gambling.",
+            "translated": "~z~不。Roman的确有瘾，但不是毒瘾。是赌博。",
+            "desc": ""
+        },
+        {
+            "hash": 4161925930,
+            "original": "GCM2_MICHELLE_CONVERSATIONS4_CE",
+            "translated": "GCM2_MICHELLE_CONVERSATIONS4_CE",
+            "desc": ""
+        },
+        {
+            "hash": 4196908316,
+            "original": "~z~Nothing. He's a friend of Roman's.",
+            "translated": "~z~没多少。他是Roman的朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 4275390373,
+            "original": "~z~I guess not... Interesting weather, isn't it?",
+            "translated": "~z~大概不能吧...天气不错，不是吗?",
+            "desc": ""
+        }
+    ]
+}

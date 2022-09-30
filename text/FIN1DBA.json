@@ -1,0 +1,1564 @@
+{
+    "FIN1DBA": [
+        {
+            "hash": 3160597,
+            "original": "~z~Come on Niko man. Get out of here. Let's go. Come on!",
+            "translated": "~z~好了，Niko兄弟。离开这儿吧。我们走。走吧！",
+            "desc": ""
+        },
+        {
+            "hash": 3613178,
+            "original": "~z~If Dimitri and Pegorino are so on top, why would they care about me?",
+            "translated": "~z~要是Dimitri和Pegorino都有这么大权势了，还担心我干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 12729080,
+            "original": "FIN1D_NM",
+            "translated": "FIN1D_NM",
+            "desc": ""
+        },
+        {
+            "hash": 18963689,
+            "original": "~z~I would sacrifice anything.",
+            "translated": "~z~我愿意牺牲一切。",
+            "desc": ""
+        },
+        {
+            "hash": 40299297,
+            "original": "FIN1D_NA",
+            "translated": "FIN1D_NA",
+            "desc": ""
+        },
+        {
+            "hash": 91315047,
+            "original": "~z~Ya man ya man. How'de ginnal get away from you anyway, Niko? Me tink ya get dat boy for sure.",
+            "translated": "~z~好，兄弟，好，兄弟。那骗子怎么可能躲过你？我觉得你肯定能逮着那崽子。",
+            "desc": ""
+        },
+        {
+            "hash": 109391622,
+            "original": "~z~How you know he's going back to Pegorino and Dimitri? Why would he lead us back to them?",
+            "translated": "~z~你怎么知道他会去找Pegorino和Dimitri？他真会把我们引过去？",
+            "desc": ""
+        },
+        {
+            "hash": 135419138,
+            "original": "~z~De boy leading us back because him tink him boys going fe tear us to pieces and ting.",
+            "translated": "~z~他把我们带过去是因为他觉得他的人足以把我们撕成碎片。",
+            "desc": ""
+        },
+        {
+            "hash": 153988971,
+            "original": "FIN1D_JC",
+            "translated": "FIN1D_JC",
+            "desc": ""
+        },
+        {
+            "hash": 171140319,
+            "original": "~z~A snake always be a snake, ya know rasta. Dimitri woulda steal from him own mother fe get ahead, ya know.",
+            "translated": "~z~叛徒永远都是叛徒懂吧，兄弟。Dimitri为了目标连他母亲都敢偷。",
+            "desc": ""
+        },
+        {
+            "hash": 189684366,
+            "original": "~z~Come on, why does this take so long? Where are these idiots hiding out?",
+            "translated": "~z~真是，怎么要花这么久？那些蠢蛋到底躲在哪儿？",
+            "desc": ""
+        },
+        {
+            "hash": 200963551,
+            "original": "050500050500500050500500050050050500500050050",
+            "translated": "050500050500500050500500050050050500500050050",
+            "desc": ""
+        },
+        {
+            "hash": 206197337,
+            "original": "~z~You won.",
+            "translated": "~z~你赢了。",
+            "desc": ""
+        },
+        {
+            "hash": 236454519,
+            "original": "~z~Roman was a gambler, he would've liked those odds.",
+            "translated": "~z~Roman是个赌徒，他会喜欢那些可能性的。",
+            "desc": ""
+        },
+        {
+            "hash": 240506548,
+            "original": "FIN1D_TE",
+            "translated": "FIN1D_TE",
+            "desc": ""
+        },
+        {
+            "hash": 248319969,
+            "original": "FIN1D_ND",
+            "translated": "FIN1D_ND",
+            "desc": ""
+        },
+        {
+            "hash": 251943769,
+            "original": "FIN1D_TB",
+            "translated": "FIN1D_TB",
+            "desc": ""
+        },
+        {
+            "hash": 264990747,
+            "original": "~z~We catch him, then we kill him, then we decide what to do with the body. How's that sound, Jacob?",
+            "translated": "~z~先逮住他，再杀了他，然后再决定怎么处理尸体。这样如何，Jacob？",
+            "desc": ""
+        },
+        {
+            "hash": 265606334,
+            "original": "~z~Alright, so this guy is taking us to his bosses. We cannot kill him yet then.",
+            "translated": "~z~好了，既然这家伙会带我们找到他的老板，暂时就不能杀他。",
+            "desc": ""
+        },
+        {
+            "hash": 276520153,
+            "original": "~z~~c~Fuck you... you dick.~s~",
+            "translated": "~z~~c~操你妈...屌人。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 280725833,
+            "original": "FIN1D_IG",
+            "translated": "FIN1D_IG",
+            "desc": ""
+        },
+        {
+            "hash": 301391266,
+            "original": "~z~Wha gwan. Come on. Let's go!",
+            "translated": "~z~咋了，走吧，我们走！",
+            "desc": ""
+        },
+        {
+            "hash": 314945602,
+            "original": "FIN1D_NF",
+            "translated": "FIN1D_NF",
+            "desc": ""
+        },
+        {
+            "hash": 317605736,
+            "original": "~z~Dimitri tinks dat you forget about what happen on the docks ya know, in Broker. Him screw ya over after ya kill Faustin for him.",
+            "translated": "~z~Dimitri觉得你把Broker码头的那件事给忘了。你替他杀了Faustin，他却出卖了你。",
+            "desc": ""
+        },
+        {
+            "hash": 320979894,
+            "original": "FIN1D_MF",
+            "translated": "FIN1D_MF",
+            "desc": ""
+        },
+        {
+            "hash": 346211023,
+            "original": "FIN1D_KE",
+            "translated": "FIN1D_KE",
+            "desc": ""
+        },
+        {
+            "hash": 352936262,
+            "original": "FIN1D_NO",
+            "translated": "FIN1D_NO",
+            "desc": ""
+        },
+        {
+            "hash": 355688415,
+            "original": "~z~I had to fight through a lot of people to get to Dimitri.",
+            "translated": "~z~我必须得杀出一条血路才能靠近Dimitri。",
+            "desc": ""
+        },
+        {
+            "hash": 355843020,
+            "original": "050500500500050050500050050050050500050050500050",
+            "translated": "050500500500050050500050050050050500050050500050",
+            "desc": ""
+        },
+        {
+            "hash": 376435133,
+            "original": "~z~Yo Niko, Dimitri and Pegorino gwan have mad firepower pon di ground, ya know. Dis ain't gwan be easy.",
+            "translated": "~z~哟，Niko，Dimitri和Pegorino肯定会在周边布置大量的火力懂吧。不会那么容易的。",
+            "desc": ""
+        },
+        {
+            "hash": 382545509,
+            "original": "FIN1D_NI",
+            "translated": "FIN1D_NI",
+            "desc": ""
+        },
+        {
+            "hash": 396513664,
+            "original": "FIN1D_JH",
+            "translated": "FIN1D_JH",
+            "desc": ""
+        },
+        {
+            "hash": 402063466,
+            "original": "~z~No, Dimitri killed Pegorino when I arrived. I don't think he likes to share.",
+            "translated": "~z~不，我到的时候Dimitri就杀了Pegorino。我想他不喜欢和人分享。",
+            "desc": ""
+        },
+        {
+            "hash": 407996674,
+            "original": "~z~Don't worry, rasta. I gwan shoot him out de blood clot sky. He ain't going to be able to talk his way outta dis.",
+            "translated": "~z~别担心，兄弟。我这就让他在天上血妈爆炸。他没法再用花言巧语骗出生路了。",
+            "desc": ""
+        },
+        {
+            "hash": 414596077,
+            "original": "FIN1D_TP",
+            "translated": "FIN1D_TP",
+            "desc": ""
+        },
+        {
+            "hash": 429616379,
+            "original": "~z~I know. I know.",
+            "translated": "~z~我知道，我知道。",
+            "desc": ""
+        },
+        {
+            "hash": 452521668,
+            "original": "FIN1D_KK",
+            "translated": "FIN1D_KK",
+            "desc": ""
+        },
+        {
+            "hash": 453554951,
+            "original": "FIN1D_KJ",
+            "translated": "FIN1D_KJ",
+            "desc": ""
+        },
+        {
+            "hash": 491741636,
+            "original": "FIN1D_MJ",
+            "translated": "FIN1D_MJ",
+            "desc": ""
+        },
+        {
+            "hash": 523165785,
+            "original": "~z~Dem ras clots tink dem are de dons of dons.",
+            "translated": "~z~那俩白痴以为自己是大佬中的大佬。",
+            "desc": ""
+        },
+        {
+            "hash": 548501111,
+            "original": "~z~Tink about how ya gwan mash dem up when time ya find out which part dem a hide.",
+            "translated": "~z~想想找到他们的藏身处以后要怎么粉碎他们吧。",
+            "desc": ""
+        },
+        {
+            "hash": 557902187,
+            "original": "FIN1D_KA",
+            "translated": "FIN1D_KA",
+            "desc": ""
+        },
+        {
+            "hash": 567236586,
+            "original": "~z~Seen.",
+            "translated": "~z~懂了。",
+            "desc": ""
+        },
+        {
+            "hash": 583400196,
+            "original": "~z~Seen Niko, a whole heap a bodies left inna dat place dere, ya know? Ya a real lion for real, ya know, star?",
+            "translated": "~z~懂了，Niko，那里留着一大堆尸体是吧？你真是头雄狮，知道吗，老兄？",
+            "desc": ""
+        },
+        {
+            "hash": 625587854,
+            "original": "FIN1D_NB",
+            "translated": "FIN1D_NB",
+            "desc": ""
+        },
+        {
+            "hash": 626221744,
+            "original": "FIN1D_KD",
+            "translated": "FIN1D_KD",
+            "desc": ""
+        },
+        {
+            "hash": 643032154,
+            "original": "~z~That's just the way Roman was. Don't ever forget him, seen?",
+            "translated": "~z~Roman他就是这样的。永远不要忘记他，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 679216652,
+            "original": "~z~A leopard don't change him spots, ya know, Niko.",
+            "translated": "~z~江山易改本性难移懂吧，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 680537012,
+            "original": "500050500050050500500050500050050500500050500050500",
+            "translated": "500050500050050500500050500050050500500050500050500",
+            "desc": ""
+        },
+        {
+            "hash": 720188932,
+            "original": "FIN1D_IH",
+            "translated": "FIN1D_IH",
+            "desc": ""
+        },
+        {
+            "hash": 756462220,
+            "original": "~z~You were there when Dimitri first wronged me.",
+            "translated": "~z~Dimitri第一次背叛我的时候你也在。",
+            "desc": ""
+        },
+        {
+            "hash": 772013005,
+            "original": "~z~True me breda, true. I ain't gwan fe let it go neither.",
+            "translated": "~z~确实，兄弟，确实。我也不会就这样放着不管。",
+            "desc": ""
+        },
+        {
+            "hash": 786181684,
+            "original": "~z~Maybe we should go with Dimitri's body. Bury him in his homeland.",
+            "translated": "~z~也许我们应该带上Dimitri的尸体过去。把他埋在故乡。",
+            "desc": ""
+        },
+        {
+            "hash": 795280561,
+            "original": "050500500500500050050500500050050500",
+            "translated": "050500500500500050050500500050050500",
+            "desc": ""
+        },
+        {
+            "hash": 803447968,
+            "original": "~z~I had the opportunity to settle my score with Dimitri the other day but I chose not to take it.",
+            "translated": "~z~之前我就有机会和Dimitri把账算清，但我没有行动。",
+            "desc": ""
+        },
+        {
+            "hash": 818077281,
+            "original": "FIN1D_UN",
+            "translated": "FIN1D_UN",
+            "desc": ""
+        },
+        {
+            "hash": 818381706,
+            "original": "~z~Dimitri and Pegorino, they be pon top after that deal, ya know. They got de coil and de brown, didn't dey?",
+            "translated": "~z~Dimitri和Pegorino，他俩在那次交易后就上位了。他们既有钱又有货，不是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 843415038,
+            "original": "~z~I just want to drive this scum off of the road and smash his brain out on the concrete.",
+            "translated": "~z~我现在就想撞飞这个人渣，再轧到他脑浆涂地。",
+            "desc": ""
+        },
+        {
+            "hash": 862683139,
+            "original": "FIN1D_KI",
+            "translated": "FIN1D_KI",
+            "desc": ""
+        },
+        {
+            "hash": 901024440,
+            "original": "FIN1D_JA",
+            "translated": "FIN1D_JA",
+            "desc": ""
+        },
+        {
+            "hash": 915280913,
+            "original": "~z~I let it eat out everything good in me. It took me over.",
+            "translated": "~z~我任由它吞食了身上的一切正念。它占据了我。",
+            "desc": ""
+        },
+        {
+            "hash": 1010700779,
+            "original": "~z~Yo Niko, ya need fe lose some of dis anger, ya know, before ya go after dem boy dere.",
+            "translated": "~z~哟，Niko，在跟着他们找到人之前你还是先消消气比较好。",
+            "desc": ""
+        },
+        {
+            "hash": 1016777137,
+            "original": "~z~I think he probably did. We'd have to go to Russia to find out though.",
+            "translated": "~z~我想也是。不过我们得去俄罗斯才能查证。",
+            "desc": ""
+        },
+        {
+            "hash": 1016872695,
+            "original": "FIN1D_NJ",
+            "translated": "FIN1D_NJ",
+            "desc": ""
+        },
+        {
+            "hash": 1025416136,
+            "original": "~z~Me tink dem be afraid of ya, ya know, me breda.",
+            "translated": "~z~我觉得他们还是怕你，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1053842214,
+            "original": "FIN1D_LF",
+            "translated": "FIN1D_LF",
+            "desc": ""
+        },
+        {
+            "hash": 1073650032,
+            "original": "~z~We haffi get to dem, so we follow dis bumba clot, seen?",
+            "translated": "~z~我们必须找到他们，所以才跟着这个小杂种，懂？",
+            "desc": ""
+        },
+        {
+            "hash": 1110845767,
+            "original": "FIN1D_JF",
+            "translated": "FIN1D_JF",
+            "desc": ""
+        },
+        {
+            "hash": 1118030136,
+            "original": "~z~They could not hide anywhere that would keep me away from them.",
+            "translated": "~z~他们藏到哪儿都是逃不掉的。",
+            "desc": ""
+        },
+        {
+            "hash": 1123526112,
+            "original": "FIN1D_KC",
+            "translated": "FIN1D_KC",
+            "desc": ""
+        },
+        {
+            "hash": 1125108476,
+            "original": "~z~I can tell him getting nervous, ya know, Niko. He's driving different. We must be getting close.",
+            "translated": "~z~我敢肯定他慌了，Niko。他的开车风格变了。我们肯定很接近了。",
+            "desc": ""
+        },
+        {
+            "hash": 1135149857,
+            "original": "FIN1D_UO",
+            "translated": "FIN1D_UO",
+            "desc": ""
+        },
+        {
+            "hash": 1135155949,
+            "original": "FIN1D_UA",
+            "translated": "FIN1D_UA",
+            "desc": ""
+        },
+        {
+            "hash": 1135337398,
+            "original": "~z~No matter what you say about dat murderer, he's consistent. He's consistently fucking anybody him can.",
+            "translated": "~z~无论你怎么评价那个杀人犯，他都是一样的。他一直都是能搞谁搞谁。",
+            "desc": ""
+        },
+        {
+            "hash": 1142712910,
+            "original": "FIN1D_IF",
+            "translated": "FIN1D_IF",
+            "desc": ""
+        },
+        {
+            "hash": 1178934521,
+            "original": "FIN1D_UK",
+            "translated": "FIN1D_UK",
+            "desc": ""
+        },
+        {
+            "hash": 1187358462,
+            "original": "~z~Yeah, I understand. I get it. I just need those bastards to know and understand what they did to me.",
+            "translated": "~z~是，我明白。我懂的。我只是要让那些混蛋明白，知道自己到底对我做了什么。",
+            "desc": ""
+        },
+        {
+            "hash": 1196444290,
+            "original": "~z~Speak English.",
+            "translated": "~z~说人话。",
+            "desc": ""
+        },
+        {
+            "hash": 1234303338,
+            "original": "~z~Anyting could happen if you kill Dimitri pon dat day.",
+            "translated": "~z~就算你当时把Dimitri杀了，也不能保证之后会发生什么。",
+            "desc": ""
+        },
+        {
+            "hash": 1289300173,
+            "original": "FIN1D_UF",
+            "translated": "FIN1D_UF",
+            "desc": ""
+        },
+        {
+            "hash": 1297183988,
+            "original": "FIN1D_LA",
+            "translated": "FIN1D_LA",
+            "desc": ""
+        },
+        {
+            "hash": 1343784300,
+            "original": "FIN1D_TH",
+            "translated": "FIN1D_TH",
+            "desc": ""
+        },
+        {
+            "hash": 1355792740,
+            "original": "~z~I did not forget about this, but I let it slide in the interest of business.",
+            "translated": "~z~我没有忘，只是出于利益考量没去计较而已。",
+            "desc": ""
+        },
+        {
+            "hash": 1364622091,
+            "original": "~z~Now, it stops.",
+            "translated": "~z~现在，就要停下来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1365680835,
+            "original": "FIN1D_NH",
+            "translated": "FIN1D_NH",
+            "desc": ""
+        },
+        {
+            "hash": 1414349325,
+            "original": "~z~Me want get dem bumba clot dem too, ya know.",
+            "translated": "~z~我也想干了那群狗杂种懂吗。",
+            "desc": ""
+        },
+        {
+            "hash": 1447068895,
+            "original": "~z~Dimitri saved me the trouble.",
+            "translated": "~z~Dimitri代劳了。",
+            "desc": ""
+        },
+        {
+            "hash": 1460353185,
+            "original": "FIN1D_UL",
+            "translated": "FIN1D_UL",
+            "desc": ""
+        },
+        {
+            "hash": 1460507745,
+            "original": "~z~Had I got rid of Dimitri then, the bloodshed would have ended.",
+            "translated": "~z~要是我那会儿就杀了Dimitri，这些杀戮就已经结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 1473701121,
+            "original": "FIN1D_TA",
+            "translated": "FIN1D_TA",
+            "desc": ""
+        },
+        {
+            "hash": 1508366700,
+            "original": "FIN1D_IB",
+            "translated": "FIN1D_IB",
+            "desc": ""
+        },
+        {
+            "hash": 1520521203,
+            "original": "FIN1D_KF",
+            "translated": "FIN1D_KF",
+            "desc": ""
+        },
+        {
+            "hash": 1533562051,
+            "original": "FIN1D_UJ",
+            "translated": "FIN1D_UJ",
+            "desc": ""
+        },
+        {
+            "hash": 1539365244,
+            "original": "~z~Also, dey ain't going to know their boy at the wedding didn't do his job properly. They tink ya dead, ya know.",
+            "translated": "~z~还有，他们都不知道派去婚礼的杀手没办成事。当你已经死了，懂吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1546061104,
+            "original": "FIN1D_IK",
+            "translated": "FIN1D_IK",
+            "desc": ""
+        },
+        {
+            "hash": 1547856726,
+            "original": "FIN1D_LP",
+            "translated": "FIN1D_LP",
+            "desc": ""
+        },
+        {
+            "hash": 1558044736,
+            "original": "FIN1D_IC",
+            "translated": "FIN1D_IC",
+            "desc": ""
+        },
+        {
+            "hash": 1596657499,
+            "original": "FIN1D_LI",
+            "translated": "FIN1D_LI",
+            "desc": ""
+        },
+        {
+            "hash": 1625401353,
+            "original": "~z~Dere ain't no guarantee you gonna make it, bredren. I and I don't know what our actions can do and ting.",
+            "translated": "~z~没人能保证你会成功，兄弟。我们也不知道我们的选择会有什么后果。",
+            "desc": ""
+        },
+        {
+            "hash": 1630508008,
+            "original": "FIN1D_LK",
+            "translated": "FIN1D_LK",
+            "desc": ""
+        },
+        {
+            "hash": 1639975265,
+            "original": "FIN1D_KP",
+            "translated": "FIN1D_KP",
+            "desc": ""
+        },
+        {
+            "hash": 1648452679,
+            "original": "~z~Sending an assassin after me and killing Roman on his wedding day, this is something I will not ignore.",
+            "translated": "~z~派杀手来杀我，还在Roman的大喜之日杀了他。这，才是我不能坐视不理的。",
+            "desc": ""
+        },
+        {
+            "hash": 1676812354,
+            "original": "~z~He stabbed Pegorino in the back, just like he did to everyone he has worked with while I have known him.",
+            "translated": "~z~他背叛了Pegorino，就像他对他的所有合伙人做的一样，我已经很清楚了。",
+            "desc": ""
+        },
+        {
+            "hash": 1693114447,
+            "original": "FIN1D_MD",
+            "translated": "FIN1D_MD",
+            "desc": ""
+        },
+        {
+            "hash": 1698663660,
+            "original": "FIN1D_KO",
+            "translated": "FIN1D_KO",
+            "desc": ""
+        },
+        {
+            "hash": 1699669191,
+            "original": "FIN1D_MG",
+            "translated": "FIN1D_MG",
+            "desc": ""
+        },
+        {
+            "hash": 1713579259,
+            "original": "FIN1D_LM",
+            "translated": "FIN1D_LM",
+            "desc": ""
+        },
+        {
+            "hash": 1741621307,
+            "original": "FIN1D_LN",
+            "translated": "FIN1D_LN",
+            "desc": ""
+        },
+        {
+            "hash": 1754082759,
+            "original": "FIN1D_LG",
+            "translated": "FIN1D_LG",
+            "desc": ""
+        },
+        {
+            "hash": 1769731314,
+            "original": "~z~There ain't no way those boys gonna be scared of some boys like I and I following their boy, ya know.",
+            "translated": "~z~他们也不会怕手下被我们跟踪懂吗。",
+            "desc": ""
+        },
+        {
+            "hash": 1780726434,
+            "original": "FIN1D_TI",
+            "translated": "FIN1D_TI",
+            "desc": ""
+        },
+        {
+            "hash": 1795649409,
+            "original": "~z~Dem boy dey no right ya know, Come inna church and come kill a man pon him wedding day. Jah know, it ain't right.",
+            "translated": "~z~那几个小子不做好事懂吧。冲进教堂，冲进去把婚礼的新郎给杀了。主知道那是不对的。",
+            "desc": ""
+        },
+        {
+            "hash": 1798343393,
+            "original": "~z~He was beaten because of me, he was shot, his business and his home were burnt down.",
+            "translated": "~z~他因为我的缘故被打，挨了枪子，他的家和事业都成了焦土。",
+            "desc": ""
+        },
+        {
+            "hash": 1802297971,
+            "original": "FIN1D_NG",
+            "translated": "FIN1D_NG",
+            "desc": ""
+        },
+        {
+            "hash": 1829576418,
+            "original": "~z~Well then I am looking forward to disappointing his expectations.",
+            "translated": "~z~我也很期待能让他大失所望。",
+            "desc": ""
+        },
+        {
+            "hash": 1831706061,
+            "original": "FIN1D_NL",
+            "translated": "FIN1D_NL",
+            "desc": ""
+        },
+        {
+            "hash": 1835449418,
+            "original": "FIN1D_MI",
+            "translated": "FIN1D_MI",
+            "desc": ""
+        },
+        {
+            "hash": 1877225539,
+            "original": "~z~Who dat inna de helicopter? Did Dimtri and Pegorino both leave when you get inna de ground?",
+            "translated": "~z~那架直升机里是谁？你进去的时候Dimitri和Pegorino是不是都跑了？",
+            "desc": ""
+        },
+        {
+            "hash": 1888822570,
+            "original": "~z~So dem man dem haffi hide out for real.",
+            "translated": "~z~所以他们必须得躲起来。",
+            "desc": ""
+        },
+        {
+            "hash": 1902188501,
+            "original": "~z~Seen, think about how you going to bust these bitches up then.",
+            "translated": "~z~懂了，那就想想你要怎么干烂这些贱人吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1907329611,
+            "original": "~z~I cannot allow that to happen again, not to me, not to Mallorie and everyone who loved Roman.",
+            "translated": "~z~我不能让那种悲剧重演，在我身上，在Mallorie身上，在任何爱着Roman的人身上都不能重演。",
+            "desc": ""
+        },
+        {
+            "hash": 1939771217,
+            "original": "FIN1D_KB",
+            "translated": "FIN1D_KB",
+            "desc": ""
+        },
+        {
+            "hash": 1954201682,
+            "original": "FIN1D_LJ",
+            "translated": "FIN1D_LJ",
+            "desc": ""
+        },
+        {
+            "hash": 1984450285,
+            "original": "FIN1D_MH",
+            "translated": "FIN1D_MH",
+            "desc": ""
+        },
+        {
+            "hash": 2006405219,
+            "original": "FIN1D_IE",
+            "translated": "FIN1D_IE",
+            "desc": ""
+        },
+        {
+            "hash": 2029656248,
+            "original": "FIN1D_JK",
+            "translated": "FIN1D_JK",
+            "desc": ""
+        },
+        {
+            "hash": 2057391520,
+            "original": "~z~I'm going to catch Dimitri and end this for good.",
+            "translated": "~z~我要逮住Dimitri，彻底结束这一切。",
+            "desc": ""
+        },
+        {
+            "hash": 2077045437,
+            "original": "FIN1D_TD",
+            "translated": "FIN1D_TD",
+            "desc": ""
+        },
+        {
+            "hash": 2096639851,
+            "original": "~z~Me feeling dat, ya know, breda, I and I gwan get him.",
+            "translated": "~z~深有同感，懂吧，兄弟，我们要干了他。",
+            "desc": ""
+        },
+        {
+            "hash": 2106762645,
+            "original": "FIN1D_IM",
+            "translated": "FIN1D_IM",
+            "desc": ""
+        },
+        {
+            "hash": 2123874807,
+            "original": "~z~If he did, ya know, say him boss don' have long fe live 'pon this earth.",
+            "translated": "~z~要是他懂，就会说他的老板活不了多久了。",
+            "desc": ""
+        },
+        {
+            "hash": 2171057999,
+            "original": "~z~Roman brought me to this city and I was nothing but a curse to him.",
+            "translated": "~z~Roman让我来到这个城市，而我于他完全就是灾厄。",
+            "desc": ""
+        },
+        {
+            "hash": 2174491593,
+            "original": "FIN1D_MB",
+            "translated": "FIN1D_MB",
+            "desc": ""
+        },
+        {
+            "hash": 2182605467,
+            "original": "FIN1D_TN",
+            "translated": "FIN1D_TN",
+            "desc": ""
+        },
+        {
+            "hash": 2185489472,
+            "original": "FIN1D_LC",
+            "translated": "FIN1D_LC",
+            "desc": ""
+        },
+        {
+            "hash": 2185980727,
+            "original": "FIN1D_LB",
+            "translated": "FIN1D_LB",
+            "desc": ""
+        },
+        {
+            "hash": 2192403678,
+            "original": "FIN1D_TK",
+            "translated": "FIN1D_TK",
+            "desc": ""
+        },
+        {
+            "hash": 2195465526,
+            "original": "~z~I have finally learnt this lesson. It has taken the death of my cousin, but it is something I must accept.",
+            "translated": "~z~我终于明白了这个道理。以我堂兄的死为代价，但我也必须得接受。",
+            "desc": ""
+        },
+        {
+            "hash": 2201885378,
+            "original": "~z~All we can be tinking about is taking dat ras clot down, and stopping him from hurting anyone else. Seen?",
+            "translated": "~z~我们现在能考虑的就是干掉那个狗杂种，让他不能再伤害任何人。懂？",
+            "desc": ""
+        },
+        {
+            "hash": 2203204535,
+            "original": "~z~I must think of something.",
+            "translated": "~z~我必须得想些什么。",
+            "desc": ""
+        },
+        {
+            "hash": 2203543921,
+            "original": "FIN1D_TF",
+            "translated": "FIN1D_TF",
+            "desc": ""
+        },
+        {
+            "hash": 2212769460,
+            "original": "~z~We must find Dimitri and Pegorino and end all this.",
+            "translated": "~z~我们必须找到Dimitri和Pegorino，给一切画上句号。",
+            "desc": ""
+        },
+        {
+            "hash": 2213934273,
+            "original": "FIN1D_NC",
+            "translated": "FIN1D_NC",
+            "desc": ""
+        },
+        {
+            "hash": 2227761111,
+            "original": "~z~Instead I did the business deal that lead to Roman getting killed.",
+            "translated": "~z~反而去进行了交易，害得Roman被杀。",
+            "desc": ""
+        },
+        {
+            "hash": 2231988974,
+            "original": "FIN1D_TL",
+            "translated": "FIN1D_TL",
+            "desc": ""
+        },
+        {
+            "hash": 2233010938,
+            "original": "050500050050500050500050050500500500050050050500050500",
+            "translated": "050500050050500050500050050500500500050050050500050500",
+            "desc": ""
+        },
+        {
+            "hash": 2276279258,
+            "original": "~z~I don't tink you have a choice about dat, ya know, Niko. Roman loved you.",
+            "translated": "~z~我想这你也没得选，Niko。Roman一直爱你。",
+            "desc": ""
+        },
+        {
+            "hash": 2282517499,
+            "original": "FIN1D_TG",
+            "translated": "FIN1D_TG",
+            "desc": ""
+        },
+        {
+            "hash": 2290084189,
+            "original": "~z~Did you get Pegorino back at de place, bredren?",
+            "translated": "~z~你有在那里干掉Pegorino吗，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 2315526371,
+            "original": "FIN1D_TT",
+            "translated": "FIN1D_TT",
+            "desc": ""
+        },
+        {
+            "hash": 2319923486,
+            "original": "FIN1D_KG",
+            "translated": "FIN1D_KG",
+            "desc": ""
+        },
+        {
+            "hash": 2323263074,
+            "original": "~z~Dimitri and Pegorino will find this out as well,",
+            "translated": "~z~很快Dimitri和Pegorino也会明白了。",
+            "desc": ""
+        },
+        {
+            "hash": 2330835527,
+            "original": "FIN1D_ID",
+            "translated": "FIN1D_ID",
+            "desc": ""
+        },
+        {
+            "hash": 2334906967,
+            "original": "~z~Easy Niko, just be cool now. Pegorino and Dimitri be splitting up de large amount of money dem get from de business deal.",
+            "translated": "~z~放松，Niko，现在先冷静。Pegorino和Dimitri正在分配那次交易的巨额钱款。",
+            "desc": ""
+        },
+        {
+            "hash": 2342968129,
+            "original": "~z~Roman should be in his marriage bed.",
+            "translated": "~z~Roman本应洞房花烛。",
+            "desc": ""
+        },
+        {
+            "hash": 2353545096,
+            "original": "~z~Ya mind be clouded and ya don't be able fe tink clearly, ya know. Ya want some weed?",
+            "translated": "~z~头脑不清就没法好好思考，懂吧。要来点草吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2389554292,
+            "original": "FIN1D_MA",
+            "translated": "FIN1D_MA",
+            "desc": ""
+        },
+        {
+            "hash": 2395038282,
+            "original": "~z~Me understand ya know, rasta. It's a good ting dat blood clot don't know you as good as I and I know ya, ya know?",
+            "translated": "~z~我明白，兄弟。幸好那个狗逼没我那么了解你，懂吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2424250846,
+            "original": "FIN1D_MK",
+            "translated": "FIN1D_MK",
+            "desc": ""
+        },
+        {
+            "hash": 2431435411,
+            "original": "FIN1D_JB",
+            "translated": "FIN1D_JB",
+            "desc": ""
+        },
+        {
+            "hash": 2444935557,
+            "original": "500050500050050050500500500500050",
+            "translated": "500050500050050050500500500500050",
+            "desc": ""
+        },
+        {
+            "hash": 2458108805,
+            "original": "FIN1D_JD",
+            "translated": "FIN1D_JD",
+            "desc": ""
+        },
+        {
+            "hash": 2462306474,
+            "original": "050500500050500500050050500500050500050050050050",
+            "translated": "050500500050500500050050500500050500050050050050",
+            "desc": ""
+        },
+        {
+            "hash": 2507603286,
+            "original": "FIN1D_LH",
+            "translated": "FIN1D_LH",
+            "desc": ""
+        },
+        {
+            "hash": 2510217626,
+            "original": "FIN1D_LQ",
+            "translated": "FIN1D_LQ",
+            "desc": ""
+        },
+        {
+            "hash": 2555540817,
+            "original": "FIN1D_KQ",
+            "translated": "FIN1D_KQ",
+            "desc": ""
+        },
+        {
+            "hash": 2562509543,
+            "original": "~z~they will find it out when they stare down the barrel of my gun.",
+            "translated": "~z~等他们注视着我的枪口的时候就会明白了。",
+            "desc": ""
+        },
+        {
+            "hash": 2594182672,
+            "original": "FIN1D_LE",
+            "translated": "FIN1D_LE",
+            "desc": ""
+        },
+        {
+            "hash": 2598870177,
+            "original": "FIN1D_UR",
+            "translated": "FIN1D_UR",
+            "desc": ""
+        },
+        {
+            "hash": 2614496432,
+            "original": "FIN1D_LL",
+            "translated": "FIN1D_LL",
+            "desc": ""
+        },
+        {
+            "hash": 2614848566,
+            "original": "~z~He was kidnapped. I should have known that the lives of those close to me would be destroyed.",
+            "translated": "~z~被人绑架。我早该知道亲近我的人的生活都会被破坏。",
+            "desc": ""
+        },
+        {
+            "hash": 2637135442,
+            "original": "~z~He was a good man. No matter what happened to him, he would never be angry or upset for more than a minute.",
+            "translated": "~z~他是个好人。无论遇到什么，他都不会愤怒或者伤心多久。",
+            "desc": ""
+        },
+        {
+            "hash": 2640084664,
+            "original": "~z~Everybody in Liberty City know dat, so dem after de money too.",
+            "translated": "~z~自由城人尽皆知，很多人都盯上了这钱。",
+            "desc": ""
+        },
+        {
+            "hash": 2643662286,
+            "original": "~z~You are right, but we can change what is about to happen.",
+            "translated": "~z~你说的对，但我们可以改变将要发生的事。",
+            "desc": ""
+        },
+        {
+            "hash": 2660964246,
+            "original": "~z~We can make sure that Roman's life is not the only one that is lost today.",
+            "translated": "~z~我们可以做到让Roman不是唯一一个在今天没命的人。",
+            "desc": ""
+        },
+        {
+            "hash": 2661406980,
+            "original": "FIN1D_ME",
+            "translated": "FIN1D_ME",
+            "desc": ""
+        },
+        {
+            "hash": 2716785419,
+            "original": "FIN1D_UC",
+            "translated": "FIN1D_UC",
+            "desc": ""
+        },
+        {
+            "hash": 2760863754,
+            "original": "~z~I came to this city wanting revenge, I let that desire build up inside of me for many years.",
+            "translated": "~z~我怀着复仇的心来到这座城市，我已经任由那种欲望在心中生长很多年了。",
+            "desc": ""
+        },
+        {
+            "hash": 2788921450,
+            "original": "~z~To get them back for what they have done, I would look for them in every corner of the earth.",
+            "translated": "~z~要让他们为自己的行为付出代价，我会寻找到天涯海角。",
+            "desc": ""
+        },
+        {
+            "hash": 2804615196,
+            "original": "~z~Let's go man.",
+            "translated": "~z~我们走吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2833067034,
+            "original": "~z~Seen, we just need fe stay on dis bumba clot and we'll be able to mash dem up real good.",
+            "translated": "~z~懂了，我们只要跟住这个杂种，就能把他们彻底粉碎。",
+            "desc": ""
+        },
+        {
+            "hash": 2847792004,
+            "original": "FIN1D_XYZ",
+            "translated": "FIN1D_XYZ",
+            "desc": ""
+        },
+        {
+            "hash": 2872291599,
+            "original": "~z~If there was any way I could change my actions so that he would not die, I would do it.",
+            "translated": "~z~要是有什么办法能改变我的选择，保住他的性命，我一定会去做的。",
+            "desc": ""
+        },
+        {
+            "hash": 2891125898,
+            "original": "~z~I guess...",
+            "translated": "~z~我想...",
+            "desc": ""
+        },
+        {
+            "hash": 2917127789,
+            "original": "FIN1D_UP",
+            "translated": "FIN1D_UP",
+            "desc": ""
+        },
+        {
+            "hash": 2939130574,
+            "original": "~z~If you didn't wanna come up here, he was gonna go to Europe and drag you pon a boat.",
+            "translated": "~z~就算你不想来这儿，他也会去欧洲拉着你上船过来。",
+            "desc": ""
+        },
+        {
+            "hash": 2940760790,
+            "original": "~z~Dat was a long time ago, ya know, king. Dere ain't no promise dat life would be any different from now, ya know.",
+            "translated": "~z~那是很久以前了，兄弟。而且也没法保证那样就会和现在有什么区别。",
+            "desc": ""
+        },
+        {
+            "hash": 2962953904,
+            "original": "~z~Jah know not many man could a got through dem boys, ya know, star. Ya a real badman for real, real badman!",
+            "translated": "~z~主也知道很少有人能杀出这样的血路懂吧，老兄。你真是个大恶人，真真正正的恶人！",
+            "desc": ""
+        },
+        {
+            "hash": 2987137175,
+            "original": "~z~Ya man, we getting closer. Me hear from me source dat Pegorino might be inna di north of Alderney.",
+            "translated": "~z~喂老兄，我们很近了。我听线人说Pegorino可能就在Alderney的北部。",
+            "desc": ""
+        },
+        {
+            "hash": 2996078066,
+            "original": "FIN1D_JG",
+            "translated": "FIN1D_JG",
+            "desc": ""
+        },
+        {
+            "hash": 3024685189,
+            "original": "FIN1D_IA",
+            "translated": "FIN1D_IA",
+            "desc": ""
+        },
+        {
+            "hash": 3027927209,
+            "original": "~z~I will not forget him. Nor will I let these men forget him.",
+            "translated": "~z~我不会忘记他的。我也不会让这些人忘记他的。",
+            "desc": ""
+        },
+        {
+            "hash": 3051824532,
+            "original": "~z~Roman...",
+            "translated": "~z~Roman...",
+            "desc": ""
+        },
+        {
+            "hash": 3059187956,
+            "original": "~z~I will put a bullet in his heart for every life he ruined,",
+            "translated": "~z~我会在他胸口开洞，他每毁掉一个人一枪，",
+            "desc": ""
+        },
+        {
+            "hash": 3084208722,
+            "original": "~z~What's done is done, and dere ain't no way to change what happen earlier.",
+            "translated": "~z~木已成舟，没有什么办法能够改变已经发生的事。",
+            "desc": ""
+        },
+        {
+            "hash": 3108049403,
+            "original": "~z~A man stab you in the back once, him gonna keep stabbing until di job is done, seen?",
+            "translated": "~z~背叛过你的人永远都会背叛你，直到双方做个了断，懂？",
+            "desc": ""
+        },
+        {
+            "hash": 3119069125,
+            "original": "~z~Roman was a good man, ya know. He had a righteous heart, ya know, star. Jah know him in a better place now.",
+            "translated": "~z~Roman是个好人，懂吧。他的心肠很好，懂吧，老兄。主知道他现在在更好的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 3164559116,
+            "original": "050050500500050500050050500500050",
+            "translated": "050050500500050500050050500500050",
+            "desc": ""
+        },
+        {
+            "hash": 3167631334,
+            "original": "~z~Piece of shit... eat hard metal!",
+            "translated": "~z~BETA1",
+            "desc": ""
+        },
+        {
+            "hash": 3173094537,
+            "original": "FIN1D_KG_QQQ1",
+            "translated": "FIN1D_KG_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 3175943907,
+            "original": "~z~Dat be a whole heap of teeth, ya know, Niko. I don't tink we have enough ammo fe shoot him dat many times, ya know.",
+            "translated": "~z~那可得打上不少子弹，Niko。我觉得我们的子弹还不够打那么多次。",
+            "desc": ""
+        },
+        {
+            "hash": 3185229972,
+            "original": "~z~Are we getting near to them or is this man taking us on a tour around Alderney?",
+            "translated": "~z~我们有接近他们吗？还是说这人在带我们参观Alderney？",
+            "desc": ""
+        },
+        {
+            "hash": 3191058813,
+            "original": "~z~I guess I'll just have to pass the time by thinking about how much I'm going to punish these scum.",
+            "translated": "~z~我大概得靠思考如何惩治这些小人消磨这段时间了。",
+            "desc": ""
+        },
+        {
+            "hash": 3194663503,
+            "original": "~z~I do this for my cousin and for his wife. I needed to make Dimitri pay.",
+            "translated": "~z~我这么做是为了我的堂兄和他的妻子。我要让Dimitri付出代价。",
+            "desc": ""
+        },
+        {
+            "hash": 3212948609,
+            "original": "~z~Roman did not deserve to die. Not on this day, not in that place.",
+            "translated": "~z~Roman不应该死的。不该在此日，不该在彼处。",
+            "desc": ""
+        },
+        {
+            "hash": 3213826187,
+            "original": "~z~We not angry at him, ya know, Niko. Its di people he's working for, seen?",
+            "translated": "~z~别对他发火，Niko。要发也对他的老板发，懂？",
+            "desc": ""
+        },
+        {
+            "hash": 3240340048,
+            "original": "FIN1D_JI",
+            "translated": "FIN1D_JI",
+            "desc": ""
+        },
+        {
+            "hash": 3253616576,
+            "original": "~z~You killed my cousin.",
+            "translated": "~z~你杀了我堂兄。",
+            "desc": ""
+        },
+        {
+            "hash": 3259424493,
+            "original": "~z~I am doing my best.",
+            "translated": "~z~我会尽力而为。",
+            "desc": ""
+        },
+        {
+            "hash": 3264528755,
+            "original": "FIN1D_TC",
+            "translated": "FIN1D_TC",
+            "desc": ""
+        },
+        {
+            "hash": 3282092295,
+            "original": "~z~never hurt... anyone.",
+            "translated": "~z~从未伤害...任何人。",
+            "desc": ""
+        },
+        {
+            "hash": 3294739762,
+            "original": "~z~No matter what he was gonna get close to ya. Because, before you come all him a do is talk about him cousin, Niko.",
+            "translated": "~z~不论亲近你会带来什么。因为在你来前，他最常做的事就是谈论他的堂弟Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3305491811,
+            "original": "FIN1D_KN",
+            "translated": "FIN1D_KN",
+            "desc": ""
+        },
+        {
+            "hash": 3320810242,
+            "original": "FIN1D_KM",
+            "translated": "FIN1D_KM",
+            "desc": ""
+        },
+        {
+            "hash": 3406998126,
+            "original": "~z~Perhaps one bullet in his brain will have to do then.",
+            "translated": "~z~看来必须得给他的头上来一枪了。",
+            "desc": ""
+        },
+        {
+            "hash": 3409465940,
+            "original": "~z~You betrayed everyone who ever came in contact with you.",
+            "translated": "~z~你背叛了所有和你有往来的人。",
+            "desc": ""
+        },
+        {
+            "hash": 3429081392,
+            "original": "FIN1D_UD",
+            "translated": "FIN1D_UD",
+            "desc": ""
+        },
+        {
+            "hash": 3444037243,
+            "original": "~z~the survival of the fittest thing really meant a lot to you.",
+            "translated": "~z~你一定很相信适者生存这句话。",
+            "desc": ""
+        },
+        {
+            "hash": 3552861342,
+            "original": "~z~I thought the money would help Roman and the people I loved.",
+            "translated": "~z~我以为那笔钱能帮上Roman和我所爱的人。",
+            "desc": ""
+        },
+        {
+            "hash": 3572981357,
+            "original": "~z~I an' I gwan find dem, we going to find dem and take dem out, for real, dat's what we doing for Roman.",
+            "translated": "~z~一定能找到他们的，找到以后就是斩草除根了，这就是我们要为Roman做的。",
+            "desc": ""
+        },
+        {
+            "hash": 3585790572,
+            "original": "~z~I do not need any marijuana, Jacob. I can think clearly enough.",
+            "translated": "~z~我不需要大麻，Jacob。我现在就能好好思考。",
+            "desc": ""
+        },
+        {
+            "hash": 3591541095,
+            "original": "FIN1D_TM",
+            "translated": "FIN1D_TM",
+            "desc": ""
+        },
+        {
+            "hash": 3593363826,
+            "original": "~z~I can't believe I did that deal with Dimitri. How could I trust him? I'm a fool.",
+            "translated": "~z~我都不敢相信我居然会帮Dimitri去交易。我怎么会相信他的？我就是个白痴。",
+            "desc": ""
+        },
+        {
+            "hash": 3626853849,
+            "original": "FIN1D_JJ",
+            "translated": "FIN1D_JJ",
+            "desc": ""
+        },
+        {
+            "hash": 3644987445,
+            "original": "FIN1D_US",
+            "translated": "FIN1D_US",
+            "desc": ""
+        },
+        {
+            "hash": 3646416941,
+            "original": "~z~Nuh, man. I and I do dis for Roman.",
+            "translated": "~z~嗯，老兄。我们这么做是为了Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 3647260430,
+            "original": "~z~Dey say a dying animal is de most dangerous inna de jungle, ya know, cousin. So, ya better be careful.",
+            "translated": "~z~他们说濒死的野兽是丛林里最危险的生物懂吧，老弟。所以最好小心点。",
+            "desc": ""
+        },
+        {
+            "hash": 3659302078,
+            "original": "~z~We leave him out for de dogs and crows.",
+            "translated": "~z~把他扔着喂野狗和乌鸦就行。",
+            "desc": ""
+        },
+        {
+            "hash": 3679420948,
+            "original": "600",
+            "translated": "600",
+            "desc": ""
+        },
+        {
+            "hash": 3685391773,
+            "original": "~z~Yes, but the chances of my cousin being dead would be much slimmer.",
+            "translated": "~z~确实，但我堂兄死掉的可能性会小很多。",
+            "desc": ""
+        },
+        {
+            "hash": 3695332149,
+            "original": "FIN1D_UI",
+            "translated": "FIN1D_UI",
+            "desc": ""
+        },
+        {
+            "hash": 3715888859,
+            "original": "~z~You killed your best friend.",
+            "translated": "~z~你杀了你的挚友。",
+            "desc": ""
+        },
+        {
+            "hash": 3770264154,
+            "original": "FIN1D_LD",
+            "translated": "FIN1D_LD",
+            "desc": ""
+        },
+        {
+            "hash": 3801090432,
+            "original": "FIN1D_NK",
+            "translated": "FIN1D_NK",
+            "desc": ""
+        },
+        {
+            "hash": 3806527913,
+            "original": "~z~Welcome to America!",
+            "translated": "~z~欢迎来到美国！",
+            "desc": ""
+        },
+        {
+            "hash": 3810589376,
+            "original": "~z~Okay, this is good news. I do not know how much of this driving I can continue to do.",
+            "translated": "~z~好的，是个好消息。不知道这种追车我还能忍多久。",
+            "desc": ""
+        },
+        {
+            "hash": 3822624773,
+            "original": "~z~If we had got him then, Roman would still be alive. Things would be good.",
+            "translated": "~z~要是我们在那时就杀了他，Roman现在就还活着，一切都会很好。",
+            "desc": ""
+        },
+        {
+            "hash": 3843246151,
+            "original": "FIN1D_UM",
+            "translated": "FIN1D_UM",
+            "desc": ""
+        },
+        {
+            "hash": 3858686186,
+            "original": "FIN1D_UE",
+            "translated": "FIN1D_UE",
+            "desc": ""
+        },
+        {
+            "hash": 3866386737,
+            "original": "~z~for every agreement he went back on, for every friend he betrayed.",
+            "translated": "~z~每与人达成一个协议一枪，每背叛一个伙伴一枪。",
+            "desc": ""
+        },
+        {
+            "hash": 3881253304,
+            "original": "FIN1D_TJ",
+            "translated": "FIN1D_TJ",
+            "desc": ""
+        },
+        {
+            "hash": 3885982595,
+            "original": "~z~That is the plan, Jacob.",
+            "translated": "~z~计划是这样的，Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 3890640579,
+            "original": "~z~Alright, Niko, man. Alright.",
+            "translated": "~z~行吧，Niko，老兄。行吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3993906264,
+            "original": "FIN1D_IJ",
+            "translated": "FIN1D_IJ",
+            "desc": ""
+        },
+        {
+            "hash": 3997357606,
+            "original": "FIN1D_UQ",
+            "translated": "FIN1D_UQ",
+            "desc": ""
+        },
+        {
+            "hash": 4055485284,
+            "original": "FIN1D_UU",
+            "translated": "FIN1D_UU",
+            "desc": ""
+        },
+        {
+            "hash": 4086019559,
+            "original": "FIN1D_II",
+            "translated": "FIN1D_II",
+            "desc": ""
+        },
+        {
+            "hash": 4096511208,
+            "original": "FIN1D_UT",
+            "translated": "FIN1D_UT",
+            "desc": ""
+        },
+        {
+            "hash": 4098734368,
+            "original": "~z~Cha! A burial be too good for that bumba clot, ya know. He ain't worth putting inna di ground, ya know, star.",
+            "translated": "~z~擦！那狗逼根本不配下葬懂吧。他不值得被葬在地下，懂吧老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 4099284417,
+            "original": "~z~Just be calm now, rasta. Just make sure ya don't lose dat blood clot.",
+            "translated": "~z~先保持冷静，兄弟。别跟丢那个狗逼就行。",
+            "desc": ""
+        },
+        {
+            "hash": 4107316863,
+            "original": "~z~He has reason to be nervous, the man who will kill his employer is following him.",
+            "translated": "~z~他是该慌了，要杀他老板的人现在就跟着他。",
+            "desc": ""
+        },
+        {
+            "hash": 4119504632,
+            "original": "~z~You're a strange man.",
+            "translated": "~z~你这人真怪。",
+            "desc": ""
+        },
+        {
+            "hash": 4120912057,
+            "original": "~z~He had many men there. Both Russians and Pegorino's men.",
+            "translated": "~z~他在那儿安排了不少人。俄国人和Pegorino的手下都有。",
+            "desc": ""
+        },
+        {
+            "hash": 4134768243,
+            "original": "~z~Why would they bother to send a hitman to the wedding?",
+            "translated": "~z~为什么还不惜在婚礼时派出杀手？",
+            "desc": ""
+        },
+        {
+            "hash": 4143216486,
+            "original": "FIN1D_TR",
+            "translated": "FIN1D_TR",
+            "desc": ""
+        },
+        {
+            "hash": 4143326720,
+            "original": "FIN1D_NN",
+            "translated": "FIN1D_NN",
+            "desc": ""
+        },
+        {
+            "hash": 4250922599,
+            "original": "FIN1D_NE",
+            "translated": "FIN1D_NE",
+            "desc": ""
+        },
+        {
+            "hash": 4274960226,
+            "original": "~z~It's over.",
+            "translated": "~z~都结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 4288976024,
+            "original": "FIN1D_MC",
+            "translated": "FIN1D_MC",
+            "desc": ""
+        },
+        {
+            "hash": 4292354764,
+            "original": "FIN1D_JE",
+            "translated": "FIN1D_JE",
+            "desc": ""
+        }
+    ]
+}

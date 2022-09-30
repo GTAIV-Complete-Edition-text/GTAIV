@@ -1,0 +1,76 @@
+{
+    "INDRVBY": [
+        {
+            "hash": 100756217,
+            "original": "~r~Some of the gang members got away.",
+            "translated": "~r~一些帮派成员逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 348915854,
+            "original": "~r~Some of the gang members outside the garage got away.",
+            "translated": "~r~车库外的一些帮派成员逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 550741741,
+            "original": "~s~Use ~PAD_RSTICK_ALL~ to aim at your target.",
+            "translated": "~s~用~PAD_RSTICK_ALL~瞄准你的目标。",
+            "desc": ""
+        },
+        {
+            "hash": 646884371,
+            "original": "~r~Some of the gang members in the car got away.",
+            "translated": "~r~车里的一些帮派成员逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 1661757521,
+            "original": "~s~Press ~INPUT_VEH_NEXT_WEAPON~ to select different weapons to perform a vehicle attack with.",
+            "translated": "~s~按~INPUT_VEH_NEXT_WEAPON~切换从载具中攻击时所用的武器。",
+            "desc": ""
+        },
+        {
+            "hash": 1881785752,
+            "original": "~s~To fire your weapon from a vehicle, hold ~INPUT_VEH_ATTACK~.",
+            "translated": "~s~按住~INPUT_VEH_ATTACK~以在载具中用武器攻击。",
+            "desc": ""
+        },
+        {
+            "hash": 2131164510,
+            "original": "~s~Go and get a ~b~car~s~ to be used in the attack.",
+            "translated": "~s~去弄一辆用于进行攻击的~b~车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2143419778,
+            "original": "~s~Press ~INPUT_VEH_HEADLIGHT~ to select different weapons to perform a vehicle attack with.",
+            "translated": "~s~按~INPUT_VEH_HEADLIGHT~切换从载具中攻击时所用的武器。",
+            "desc": ""
+        },
+        {
+            "hash": 2222648890,
+            "original": "~s~If you are in a vehicle and have an appropriate weapon you can fire it.",
+            "translated": "~s~在载具中时，若你拥有合适的武器，即可用其进行攻击。",
+            "desc": ""
+        },
+        {
+            "hash": 2603660721,
+            "original": "~s~Go to ~y~Windmill Street.",
+            "translated": "~s~前往~y~Windmill街。",
+            "desc": ""
+        },
+        {
+            "hash": 2927756079,
+            "original": "~S~They are trying to escape in a ~r~car,~s~ don't let them get away.",
+            "translated": "~S~他们想要~r~驾车~s~逃跑，别让他们跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 3027888195,
+            "original": "~s~Clean out the ~r~gang members.",
+            "translated": "~s~消灭所有~r~帮派成员。",
+            "desc": ""
+        }
+    ]
+}

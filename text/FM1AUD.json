@@ -1,0 +1,994 @@
+{
+    "FM1AUD": [
+        {
+            "hash": 24987923,
+            "original": "~z~Shit, he clearly want this stuff on the news.",
+            "translated": "~z~操，他是真的想让这玩意上新闻。",
+            "desc": ""
+        },
+        {
+            "hash": 50333166,
+            "original": "~z~Now obviously I can't go, cause then he gets a picture of me giving him money, and I'm admitting guilt.",
+            "translated": "~z~现在我显然不能去，去了就会被他拍下我给他钱的照片，相当于认罪了。",
+            "desc": ""
+        },
+        {
+            "hash": 108622890,
+            "original": "FM1_AB",
+            "translated": "FM1_AB",
+            "desc": ""
+        },
+        {
+            "hash": 134119626,
+            "original": "~z~I know enough, boy.",
+            "translated": "~z~我知道很多，小子。",
+            "desc": ""
+        },
+        {
+            "hash": 136491534,
+            "original": "~z~He was gonna have to take 'em from my cold, dead hand.",
+            "translated": "~z~想白拿的话就得从我冷冰冰的尸体上拿。",
+            "desc": ""
+        },
+        {
+            "hash": 138698113,
+            "original": "FM1_ZE",
+            "translated": "FM1_ZE",
+            "desc": ""
+        },
+        {
+            "hash": 151827998,
+            "original": "FM1_YA",
+            "translated": "FM1_YA",
+            "desc": ""
+        },
+        {
+            "hash": 203045668,
+            "original": "FM1_MA",
+            "translated": "FM1_MA",
+            "desc": ""
+        },
+        {
+            "hash": 212370461,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 217995539,
+            "original": "FM1_YC",
+            "translated": "FM1_YC",
+            "desc": ""
+        },
+        {
+            "hash": 339814512,
+            "original": "~z~Said to call him from the viewpoint there.",
+            "translated": "~z~说是从那边的观景台给他打电话。",
+            "desc": ""
+        },
+        {
+            "hash": 342856899,
+            "original": "200200100010200200100010200200100200200100010200200100200200100010200200100",
+            "translated": "200200100010200200100010200200100200200100010200200100200200100010200200100",
+            "desc": ""
+        },
+        {
+            "hash": 367512984,
+            "original": "~z~You know what? He thought that that wasn't such a bad idea.",
+            "translated": "~z~你猜怎么着？他觉得这么来其实也不错。",
+            "desc": ""
+        },
+        {
+            "hash": 497629088,
+            "original": "~z~Call me when you get to the spot.",
+            "translated": "~z~到地方了你就打给我。",
+            "desc": ""
+        },
+        {
+            "hash": 511503768,
+            "original": "~z~I'll get rid of them, let me live.",
+            "translated": "~z~我会处理掉照片的，放过我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 524838385,
+            "original": "SFX_OVERLAP_PHONE",
+            "translated": "SFX_OVERLAP_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 538584014,
+            "original": "~z~Yeah, and there's a lawyer called Tom Goldberg who's real interested.",
+            "translated": "~z~真的，还有一个叫Tom Goldberg的律师对此很感兴趣。",
+            "desc": ""
+        },
+        {
+            "hash": 546327794,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 587826959,
+            "original": "SFX_OVERLAP_PHONE",
+            "translated": "SFX_OVERLAP_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 611100899,
+            "original": "FM1_BC",
+            "translated": "FM1_BC",
+            "desc": ""
+        },
+        {
+            "hash": 618097527,
+            "original": "~z~Looks like you've been fucking with the wrong cop.",
+            "translated": "~z~看来你是惹错条子了。",
+            "desc": ""
+        },
+        {
+            "hash": 644660646,
+            "original": "~z~What do you know, boy?",
+            "translated": "~z~知道的有多多，小子？",
+            "desc": ""
+        },
+        {
+            "hash": 646171893,
+            "original": "~z~Okay.",
+            "translated": "~z~好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 749599224,
+            "original": "FM1_CD",
+            "translated": "FM1_CD",
+            "desc": ""
+        },
+        {
+            "hash": 750337420,
+            "original": "~z~Call me when this exchange is going down. I don't like all the talking. Yeah.",
+            "translated": "~z~等你确定要进行交易了再打给我。我不喜欢一直聊天。没错。",
+            "desc": ""
+        },
+        {
+            "hash": 807477194,
+            "original": "FM1_GA",
+            "translated": "FM1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 848398067,
+            "original": "~z~Call me when this exchange is going down. I don't like all the talking. Yeah.",
+            "translated": "~z~等你确定要进行交易了再打给我。我不喜欢一直聊天。没错。",
+            "desc": ""
+        },
+        {
+            "hash": 886589627,
+            "original": "~z~Not many people get a second chance like this. It's my redemption.",
+            "translated": "~z~很少有人能像这样获得第二次机会。这是我的救赎。",
+            "desc": ""
+        },
+        {
+            "hash": 914108127,
+            "original": "~z~Wouldn't it be easier just to pay?",
+            "translated": "~z~直接付钱不会更简单点吗？",
+            "desc": ""
+        },
+        {
+            "hash": 917069343,
+            "original": "~z~I know about you.",
+            "translated": "~z~我知道你的事。",
+            "desc": ""
+        },
+        {
+            "hash": 925323748,
+            "original": "~z~Push me and this shit is all over Weazel News. I got them on speed dial.",
+            "translated": "~z~惹毛我的话，就等着这些黑料上Weazel新闻吧，我给他们设了一键呼叫。",
+            "desc": ""
+        },
+        {
+            "hash": 946705920,
+            "original": "FM1_KC",
+            "translated": "FM1_KC",
+            "desc": ""
+        },
+        {
+            "hash": 965473029,
+            "original": "~z~Well... I'm a good man.",
+            "translated": "~z~行...我是一个好人。",
+            "desc": ""
+        },
+        {
+            "hash": 968710036,
+            "original": "~z~Yeah, yeah. We're talking about how you ain't getting no money, but you're still giving up the photos.",
+            "translated": "~z~对对，我们来谈谈怎么让你一毛不拿但还是交出照片。",
+            "desc": ""
+        },
+        {
+            "hash": 968757834,
+            "original": "FM1_HA",
+            "translated": "FM1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 972238105,
+            "original": "~z~I'm in the park, now what?",
+            "translated": "~z~我已经到公园了，然后呢？",
+            "desc": ""
+        },
+        {
+            "hash": 982479788,
+            "original": "~z~Yeah ya do. You know that a man's gotta do~n~what a man's gotta do.",
+            "translated": "~z~不，你知道的。该做的事就是得做。",
+            "desc": ""
+        },
+        {
+            "hash": 991519981,
+            "original": "020200200020",
+            "translated": "020200200020",
+            "desc": ""
+        },
+        {
+            "hash": 991999675,
+            "original": "FM1_CE",
+            "translated": "FM1_CE",
+            "desc": ""
+        },
+        {
+            "hash": 1000258461,
+            "original": "SFX_OVERLAP_PHONE",
+            "translated": "SFX_OVERLAP_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 1004231276,
+            "original": "~z~Good thing Francis is paying then.",
+            "translated": "~z~幸好Francis肯付钱。",
+            "desc": ""
+        },
+        {
+            "hash": 1014198810,
+            "original": "~z~I'm sure he's got your money. Have you got the stuff he wants?",
+            "translated": "~z~我向你保证他把钱带来了。他要的东西你带了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1051815467,
+            "original": "~z~I told you to come here, fucking maggot.",
+            "translated": "~z~就是我叫你来的，狗逼蛆虫。",
+            "desc": ""
+        },
+        {
+            "hash": 1055602432,
+            "original": "FM1_ZB",
+            "translated": "FM1_ZB",
+            "desc": ""
+        },
+        {
+            "hash": 1070284614,
+            "original": "FM1_ZD",
+            "translated": "FM1_ZD",
+            "desc": ""
+        },
+        {
+            "hash": 1085105396,
+            "original": "~z~Yeah, and there's a lawyer called Tom Goldberg who's real interested.",
+            "translated": "~z~真的，而且还有一个叫Tom Goldberg的律师对此很感兴趣。",
+            "desc": ""
+        },
+        {
+            "hash": 1108698848,
+            "original": "~z~Call me when this exchange is going down. I don't like all the talking. Yeah.",
+            "translated": "~z~等你确定要进行交易了再打给我。我不喜欢一直聊天，对。",
+            "desc": ""
+        },
+        {
+            "hash": 1119315065,
+            "original": "~z~Your sins are absolved, I guess.",
+            "translated": "~z~你的罪行被赦免了，大概。",
+            "desc": ""
+        },
+        {
+            "hash": 1120594207,
+            "original": "FM1_BA",
+            "translated": "FM1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 1157102268,
+            "original": "~z~Know what?",
+            "translated": "~z~知道些什么？",
+            "desc": ""
+        },
+        {
+            "hash": 1168043511,
+            "original": "~z~Call me when this exchange is going down. I don't like all the talking. Yeah.",
+            "translated": "~z~等你确定要进行交易了再打给我。我不喜欢一直聊天，对。",
+            "desc": ""
+        },
+        {
+            "hash": 1177966656,
+            "original": "FM1_BI",
+            "translated": "FM1_BI",
+            "desc": ""
+        },
+        {
+            "hash": 1184586570,
+            "original": "SFX_OVERLAP_PHONE",
+            "translated": "SFX_OVERLAP_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 1212085399,
+            "original": "~z~Shit, it's you again. Money best be the topic of this conversation.",
+            "translated": "~z~操，又是你。这次最好是来谈钱的事儿的。",
+            "desc": ""
+        },
+        {
+            "hash": 1247173514,
+            "original": "FM1_CG",
+            "translated": "FM1_CG",
+            "desc": ""
+        },
+        {
+            "hash": 1266252136,
+            "original": "FM1_ZA",
+            "translated": "FM1_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 1290799788,
+            "original": "~z~You did? Why?",
+            "translated": "~z~你叫的？为什么？",
+            "desc": ""
+        },
+        {
+            "hash": 1294950492,
+            "original": "FM1_CF",
+            "translated": "FM1_CF",
+            "desc": ""
+        },
+        {
+            "hash": 1300332184,
+            "original": "~z~Really?",
+            "translated": "~z~真的？",
+            "desc": ""
+        },
+        {
+            "hash": 1338416666,
+            "original": "~z~That people ain't perfect... that life is a mess...",
+            "translated": "~z~人无完人...生活不易...",
+            "desc": ""
+        },
+        {
+            "hash": 1358192760,
+            "original": "FM1_BG",
+            "translated": "FM1_BG",
+            "desc": ""
+        },
+        {
+            "hash": 1359457215,
+            "original": "FM1_KB_QQQ1",
+            "translated": "FM1_KB_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 1363345808,
+            "original": "~z~Here. He's dead.",
+            "translated": "~z~拿着，他死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1390340004,
+            "original": "~z~This isn't going to end with my death.",
+            "translated": "~z~杀了我也没有用。",
+            "desc": ""
+        },
+        {
+            "hash": 1394969188,
+            "original": "~z~I told McReary I wasn't giving up them photos unless he paid me.",
+            "translated": "~z~我告诉过McReary了，他不给钱我就不交照片。",
+            "desc": ""
+        },
+        {
+            "hash": 1396443661,
+            "original": "~z~Push me and this shit is all over Weazel News. I got them on speed dial.",
+            "translated": "~z~惹毛我的话这些黑料就等着上Weazel新闻吧，我给他们设了一键呼叫。",
+            "desc": ""
+        },
+        {
+            "hash": 1398700029,
+            "original": "FM1_ZF",
+            "translated": "FM1_ZF",
+            "desc": ""
+        },
+        {
+            "hash": 1405118876,
+            "original": "FM1_BF",
+            "translated": "FM1_BF",
+            "desc": ""
+        },
+        {
+            "hash": 1434528147,
+            "original": "~z~and I don't look out for you. Know what I mean?",
+            "translated": "~z~而我不会帮你忙。懂我意思吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1523861974,
+            "original": "~z~I shouldn't a got involved.",
+            "translated": "~z~我不该多管闲事的。",
+            "desc": ""
+        },
+        {
+            "hash": 1534863300,
+            "original": "~z~Were you followed?",
+            "translated": "~z~你被跟踪了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1553035861,
+            "original": "~z~Alright. This guy told me to bring the money there and call him.",
+            "translated": "~z~好，这个人让我带着钱到这儿以后再联系他。",
+            "desc": ""
+        },
+        {
+            "hash": 1561377294,
+            "original": "~z~I ain't guilty of nothing, other than being a man.",
+            "translated": "~z~我根本没有任何罪行，除了生而为人。",
+            "desc": ""
+        },
+        {
+            "hash": 1572325185,
+            "original": "~z~What? Did he know I had something to do with it? Shit, I got to call him. Don't fuck up again.",
+            "translated": "~z~什么？他知不知道你和我有关系？操，我得给他打个电话，别再搞砸了。",
+            "desc": ""
+        },
+        {
+            "hash": 1578580667,
+            "original": "~z~Do you think this is a town that can keep a secret?",
+            "translated": "~z~你以为这座城里能藏住什么秘密吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1594979496,
+            "original": "FM1_BE",
+            "translated": "FM1_BE",
+            "desc": ""
+        },
+        {
+            "hash": 1619886849,
+            "original": "~z~There are other copies. Don't do this.",
+            "translated": "~z~其他地方还有副本，别杀我。",
+            "desc": ""
+        },
+        {
+            "hash": 1631273219,
+            "original": "~z~I really don't know what you're talking about.",
+            "translated": "~z~我是真不知道你在说什么。",
+            "desc": ""
+        },
+        {
+            "hash": 1663593315,
+            "original": "FM1_MC",
+            "translated": "FM1_MC",
+            "desc": ""
+        },
+        {
+            "hash": 1697858028,
+            "original": "010100100100",
+            "translated": "010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 1741013079,
+            "original": "~z~Hey... strange seeing you here, officer McReary.",
+            "translated": "~z~嘿...你咋在这儿呢，McReary警官。",
+            "desc": ""
+        },
+        {
+            "hash": 1749917895,
+            "original": "FM1_BJ",
+            "translated": "FM1_BJ",
+            "desc": ""
+        },
+        {
+            "hash": 1845290955,
+            "original": "~z~You might want to think about paying the man. He got away.",
+            "translated": "~z~你还是考虑考虑付钱给他吧，他跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 1848262409,
+            "original": "~z~He's hungry for McReary's blood and shit. Yeah.",
+            "translated": "~z~他等着吃McReary的人血馒头呢，对。",
+            "desc": ""
+        },
+        {
+            "hash": 1857832334,
+            "original": "FM1_AA",
+            "translated": "FM1_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1873886828,
+            "original": "~z~Great, I can get rid of these now. I feel like a new man.",
+            "translated": "~z~很好，现在我可以处理掉它了。感觉如获新生。",
+            "desc": ""
+        },
+        {
+            "hash": 1876385691,
+            "original": "~z~To be honest, I don't really care one way or another.",
+            "translated": "~z~说实话，我根本不在乎你有没有罪。",
+            "desc": ""
+        },
+        {
+            "hash": 1900602444,
+            "original": "~z~I don't, but no one else does either. They're under the water along with the guy that had them.",
+            "translated": "~z~没拿到，不过也没有别人能拿到了。东西已经和带着它的人一起沉到河底了。",
+            "desc": ""
+        },
+        {
+            "hash": 1904811827,
+            "original": "FM1_YD",
+            "translated": "FM1_YD",
+            "desc": ""
+        },
+        {
+            "hash": 1960321759,
+            "original": "FM1_DA",
+            "translated": "FM1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2083616499,
+            "original": "~z~I think so.",
+            "translated": "~z~我想也是。",
+            "desc": ""
+        },
+        {
+            "hash": 2088259306,
+            "original": "100010100100",
+            "translated": "100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2088410937,
+            "original": "FM1_KA",
+            "translated": "FM1_KA",
+            "desc": ""
+        },
+        {
+            "hash": 2104932149,
+            "original": "SFX_OVERLAP_PHONE",
+            "translated": "SFX_OVERLAP_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 2110485709,
+            "original": "~z~Hello? Who's this?",
+            "translated": "~z~你好？哪位？",
+            "desc": ""
+        },
+        {
+            "hash": 2143359935,
+            "original": "~z~Peace, dude. Chill!",
+            "translated": "~z~拜托，老兄。冷静！",
+            "desc": ""
+        },
+        {
+            "hash": 2160699920,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2162615782,
+            "original": "~z~Call me when this exchange is going down. I don't like all the talking. Yeah.",
+            "translated": "~z~等你确定要进行交易了再打给我。我不喜欢一直聊天，对。",
+            "desc": ""
+        },
+        {
+            "hash": 2176260420,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2192541465,
+            "original": "~z~Tell me you got the stuff?",
+            "translated": "~z~东西拿到了没？",
+            "desc": ""
+        },
+        {
+            "hash": 2207527775,
+            "original": "SFX_OVERLAP_PHONE",
+            "translated": "SFX_OVERLAP_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 2218322950,
+            "original": "~z~Yeah. I got it. We're gonna make this shit happen. I don't mess around, you know?",
+            "translated": "~z~对，在我这儿。这个狗屁交易最好能顺利点。我不是好惹的，懂吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2227437279,
+            "original": "FM1_AD",
+            "translated": "FM1_AD",
+            "desc": ""
+        },
+        {
+            "hash": 2244314305,
+            "original": "~z~Hello? Who's this?",
+            "translated": "~z~你好？哪位？",
+            "desc": ""
+        },
+        {
+            "hash": 2248591054,
+            "original": "SFX_OVERLAP_PHONE",
+            "translated": "SFX_OVERLAP_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 2322666354,
+            "original": "~z~Sure. Everybody knows that.",
+            "translated": "~z~当然，是个人都知道。",
+            "desc": ""
+        },
+        {
+            "hash": 2379455845,
+            "original": "~z~At least not tomorrow night that is. I'm watching you.",
+            "translated": "~z~至少明晚不会。我会盯着你的。",
+            "desc": ""
+        },
+        {
+            "hash": 2412107261,
+            "original": "FM1_ME",
+            "translated": "FM1_ME",
+            "desc": ""
+        },
+        {
+            "hash": 2439100160,
+            "original": "~z~I'm in over my head.",
+            "translated": "~z~是我做过火了。",
+            "desc": ""
+        },
+        {
+            "hash": 2456757660,
+            "original": "~z~Ahh. shit. You're the guy.",
+            "translated": "~z~啊，妈的。就是你。",
+            "desc": ""
+        },
+        {
+            "hash": 2458603711,
+            "original": "FM1_LA",
+            "translated": "FM1_LA",
+            "desc": ""
+        },
+        {
+            "hash": 2476574811,
+            "original": "FM1_BB",
+            "translated": "FM1_BB",
+            "desc": ""
+        },
+        {
+            "hash": 2482918963,
+            "original": "FM1_CB",
+            "translated": "FM1_CB",
+            "desc": ""
+        },
+        {
+            "hash": 2540023945,
+            "original": "~z~That's a weight off my mind. You don't need to be worrying about me knocking on your door in the middle of the night.",
+            "translated": "~z~那我就放心了。你也不用担心我半夜三更来敲你门了。",
+            "desc": ""
+        },
+        {
+            "hash": 2624555049,
+            "original": "FM1_BH",
+            "translated": "FM1_BH",
+            "desc": ""
+        },
+        {
+            "hash": 2680438296,
+            "original": "~z~So you look out for me...",
+            "translated": "~z~所以，只有你替我做事...",
+            "desc": ""
+        },
+        {
+            "hash": 2711926752,
+            "original": "FM1_AC",
+            "translated": "FM1_AC",
+            "desc": ""
+        },
+        {
+            "hash": 2712068459,
+            "original": "FM1_IA",
+            "translated": "FM1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2758925524,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2778300899,
+            "original": "FM1_FA",
+            "translated": "FM1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2855292310,
+            "original": "~z~Yeah, he better have my paper. I ain't fucking around.",
+            "translated": "~z~是吗，那他最好已经把钱备好了，我他妈不在这附近。",
+            "desc": ""
+        },
+        {
+            "hash": 2868582680,
+            "original": "FM1_ZC",
+            "translated": "FM1_ZC",
+            "desc": ""
+        },
+        {
+            "hash": 2899729002,
+            "original": "~z~I was just talking to you.",
+            "translated": "~z~刚才还在和你通话。",
+            "desc": ""
+        },
+        {
+            "hash": 2904622166,
+            "original": "FM1_LB",
+            "translated": "FM1_LB",
+            "desc": ""
+        },
+        {
+            "hash": 2922250597,
+            "original": "~z~This isn't right.",
+            "translated": "~z~情况不妙。",
+            "desc": ""
+        },
+        {
+            "hash": 2965352578,
+            "original": "FM1_BK",
+            "translated": "FM1_BK",
+            "desc": ""
+        },
+        {
+            "hash": 2982702229,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3007553139,
+            "original": "FM1_BD",
+            "translated": "FM1_BD",
+            "desc": ""
+        },
+        {
+            "hash": 3007614731,
+            "original": "FM1_YB",
+            "translated": "FM1_YB",
+            "desc": ""
+        },
+        {
+            "hash": 3048253064,
+            "original": "FM1_ZG",
+            "translated": "FM1_ZG",
+            "desc": ""
+        },
+        {
+            "hash": 3068137738,
+            "original": "SFX_OVERLAP_PHONE",
+            "translated": "SFX_OVERLAP_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 3071090507,
+            "original": "~z~You're right there.",
+            "translated": "~z~你在那儿啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3078017805,
+            "original": "~z~Call me when this exchange is going down. I don't like all the talking. Yeah.",
+            "translated": "~z~等你确定要进行交易了再打给我。我不喜欢一直聊天，对。",
+            "desc": ""
+        },
+        {
+            "hash": 3158596396,
+            "original": "SFX_OVERLAP_PHONE",
+            "translated": "SFX_OVERLAP_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 3190432390,
+            "original": "FM1_CC",
+            "translated": "FM1_CC",
+            "desc": ""
+        },
+        {
+            "hash": 3239027689,
+            "original": "~z~You know what? Fuck this. I'm getting out of here. The meet's off, buddy.",
+            "translated": "~z~说你妈呢，见鬼去吧。我这就走。交易终止，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 3243934020,
+            "original": "~z~So there's a guy trying to blackmail me.",
+            "translated": "~z~有一个人想要勒索我。",
+            "desc": ""
+        },
+        {
+            "hash": 3276548282,
+            "original": "FM1_CA",
+            "translated": "FM1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3290662962,
+            "original": "~z~I don't know. Thinks he's getting paid though.",
+            "translated": "~z~我不知道。不过他好像有两把刷子。",
+            "desc": ""
+        },
+        {
+            "hash": 3419364792,
+            "original": "~z~I don't got all day.",
+            "translated": "~z~我可忙得很。",
+            "desc": ""
+        },
+        {
+            "hash": 3471120127,
+            "original": "~z~Yeah, he better have my paper. I ain't fucking around.",
+            "translated": "~z~是吗，那他最好已经把钱备好了，我他妈不在这附近。",
+            "desc": ""
+        },
+        {
+            "hash": 3484833889,
+            "original": "~z~You've got to call him and keep a lookout for someone answering a phone. He won't be far.",
+            "translated": "~z~你就打给他，留心那些在接电话的人。他就在附近。",
+            "desc": ""
+        },
+        {
+            "hash": 3558480358,
+            "original": "FM1_JA",
+            "translated": "FM1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3597282495,
+            "original": "~z~The guy's smart. He arranged to do the exchange by the Humboldt River off Silicon Street.",
+            "translated": "~z~这人很聪明，他把交易地点定在了Silicon街的Humboldt河边上。",
+            "desc": ""
+        },
+        {
+            "hash": 3653742554,
+            "original": "~z~No doubt.",
+            "translated": "~z~毫无疑问。",
+            "desc": ""
+        },
+        {
+            "hash": 3699021860,
+            "original": "SFX_OVERLAP_PHONE",
+            "translated": "SFX_OVERLAP_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 3723357452,
+            "original": "~z~Hey, wait a second. Shit.",
+            "translated": "~z~喂，等一下。妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 3732764143,
+            "original": "~z~That means he's somewhere close and he's got a phone. I'm gonna text you his number.",
+            "translated": "~z~也就是说他在附近，带着手机。待会儿我把他的电话发你。",
+            "desc": ""
+        },
+        {
+            "hash": 3772346962,
+            "original": "~z~Be cool.",
+            "translated": "~z~别发火。",
+            "desc": ""
+        },
+        {
+            "hash": 3774704306,
+            "original": "200200100010200200100200200100010010200200100",
+            "translated": "200200100010200200100200200100010010200200100",
+            "desc": ""
+        },
+        {
+            "hash": 3898143636,
+            "original": "FM1_KB",
+            "translated": "FM1_KB",
+            "desc": ""
+        },
+        {
+            "hash": 3971776129,
+            "original": "~z~Something's wrong here.",
+            "translated": "~z~有什么不太对。",
+            "desc": ""
+        },
+        {
+            "hash": 3985230817,
+            "original": "~z~I know you killed Mikhail Faustin. I know a group of Russians want you dead. I know you ain't no saint, boy.",
+            "translated": "~z~我知道你杀了Mikhail Faustin。我知道一群俄国人想要你的命。我知道你不是什么好人，小子。",
+            "desc": ""
+        },
+        {
+            "hash": 3992530322,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 4028256052,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4038484315,
+            "original": "~z~Listen... I did what I did... I made a mistake. That don't make me the devil.",
+            "translated": "~z~听着...过去我是做了点事...犯了个错。但这并不足以让我成为恶人。",
+            "desc": ""
+        },
+        {
+            "hash": 4065839178,
+            "original": "~z~He's hungry for McReary's blood and shit. Yeah.",
+            "translated": "~z~他等着吃McReary的人血馒头呢，对。",
+            "desc": ""
+        },
+        {
+            "hash": 4071634882,
+            "original": "SFX_OVERLAP_PHONE",
+            "translated": "SFX_OVERLAP_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 4076148361,
+            "original": "~z~I just wanted the money.",
+            "translated": "~z~我只是想要点钱。",
+            "desc": ""
+        },
+        {
+            "hash": 4076199712,
+            "original": "~z~Yeah. I got it. We're gonna make this shit happen. I don't mess around, you know?",
+            "translated": "~z~对，在我这儿。这次交易最好能顺利点。我可不好惹，懂吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4097827252,
+            "original": "~z~A friend. I'm calling about your exchange with McReary.",
+            "translated": "~z~一个朋友。我是打过来问你和McReary的交易的。",
+            "desc": ""
+        },
+        {
+            "hash": 4134857592,
+            "original": "~z~I don't know what you're talking about, chief.",
+            "translated": "~z~我不知道你在说什么，长官。",
+            "desc": ""
+        },
+        {
+            "hash": 4189807825,
+            "original": "FM1_EA",
+            "translated": "FM1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 4203615916,
+            "original": "FM1_MB",
+            "translated": "FM1_MB",
+            "desc": ""
+        },
+        {
+            "hash": 4259216295,
+            "original": "~z~Who?",
+            "translated": "~z~谁？",
+            "desc": ""
+        }
+    ]
+}

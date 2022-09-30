@@ -1,0 +1,1672 @@
+{
+    "R14AUD": [
+        {
+            "hash": 3982561,
+            "original": "~z~Think about your future instead of the horrible things that have happened to you,",
+            "translated": "~z~想想你的未来，不要沉溺于你经历的那些灾祸。",
+            "desc": ""
+        },
+        {
+            "hash": 8115302,
+            "original": "~z~I've been empty ever since that day.",
+            "translated": "~z~从那天开始我就很空虚了。",
+            "desc": ""
+        },
+        {
+            "hash": 48795047,
+            "original": "R14_WA",
+            "translated": "R14_WA",
+            "desc": ""
+        },
+        {
+            "hash": 53278026,
+            "original": "~z~It hardened me, it made me cold.",
+            "translated": "~z~让我变得铁石心肠、冷酷无情。",
+            "desc": ""
+        },
+        {
+            "hash": 58210979,
+            "original": "~z~Come on, Niko. It's time to go.",
+            "translated": "~z~好了，Niko。该走了。",
+            "desc": ""
+        },
+        {
+            "hash": 78382376,
+            "original": "R14_XE",
+            "translated": "R14_XE",
+            "desc": ""
+        },
+        {
+            "hash": 86777646,
+            "original": "~z~I lost myself that day too.",
+            "translated": "~z~那天我还失去了自我。",
+            "desc": ""
+        },
+        {
+            "hash": 88242610,
+            "original": "R14_IA",
+            "translated": "R14_IA",
+            "desc": ""
+        },
+        {
+            "hash": 145651665,
+            "original": "R14_XK",
+            "translated": "R14_XK",
+            "desc": ""
+        },
+        {
+            "hash": 183515688,
+            "original": "~z~Come on you stupid thing.",
+            "translated": "~z~Come on you stupid thing.",
+            "desc": ""
+        },
+        {
+            "hash": 201555134,
+            "original": "R14_A_CA",
+            "translated": "R14_A_CA",
+            "desc": ""
+        },
+        {
+            "hash": 203209874,
+            "original": "~z~Do not mention it. Call me, Niko. The wedding is soon.",
+            "translated": "~z~不用谢。有空打给我，Niko。婚礼也快了。",
+            "desc": ""
+        },
+        {
+            "hash": 218167590,
+            "original": "R14_ZG",
+            "translated": "R14_ZG",
+            "desc": ""
+        },
+        {
+            "hash": 238389924,
+            "original": "~z~Will you take me over to Brucie's house?",
+            "translated": "~z~你能送我去Brucie家吗？",
+            "desc": ""
+        },
+        {
+            "hash": 243767203,
+            "original": "R14_XD",
+            "translated": "R14_XD",
+            "desc": ""
+        },
+        {
+            "hash": 244032074,
+            "original": "~z~I was the one that survived the first attack.",
+            "translated": "~z~我从第一波袭击中活下来了。",
+            "desc": ""
+        },
+        {
+            "hash": 261120904,
+            "original": "~z~Maybe I will start to believe it when Darko is dead.",
+            "translated": "~z~或许等Darko死了，我就会有信心了。",
+            "desc": ""
+        },
+        {
+            "hash": 265720749,
+            "original": "R14_TA",
+            "translated": "R14_TA",
+            "desc": ""
+        },
+        {
+            "hash": 278714050,
+            "original": "~z~Niko... hello.",
+            "translated": "~z~Niko...你好。",
+            "desc": ""
+        },
+        {
+            "hash": 284251541,
+            "original": "~z~It seems like living will be more painful for him than death. Let's go.",
+            "translated": "~z~看起来他活着会比死了更加痛苦。我们走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 296930358,
+            "original": "R14_UK",
+            "translated": "R14_UK",
+            "desc": ""
+        },
+        {
+            "hash": 307149171,
+            "original": "~z~Everything that was good and innocent in me died along with them.",
+            "translated": "~z~我心中的一切正直和纯真都和他们一起死了。",
+            "desc": ""
+        },
+        {
+            "hash": 321064426,
+            "original": "R14_XL",
+            "translated": "R14_XL",
+            "desc": ""
+        },
+        {
+            "hash": 349252056,
+            "original": "R14_A_AD",
+            "translated": "R14_A_AD",
+            "desc": ""
+        },
+        {
+            "hash": 367860430,
+            "original": "~z~I know it did, Niko. But that was a long time ago.",
+            "translated": "~z~这我知道，Niko。但那是很久以前的事了。",
+            "desc": ""
+        },
+        {
+            "hash": 377250984,
+            "original": "R14_CG",
+            "translated": "R14_CG",
+            "desc": ""
+        },
+        {
+            "hash": 378203977,
+            "original": "R14_CV",
+            "translated": "R14_CV",
+            "desc": ""
+        },
+        {
+            "hash": 393856864,
+            "original": "R14_BB",
+            "translated": "R14_BB",
+            "desc": ""
+        },
+        {
+            "hash": 432728350,
+            "original": "~z~~c~We were friends. We were all friends. We all grew up together...~s~",
+            "translated": "~z~~c~我们是朋友啊，我们都是朋友。我们都是一起长大的...~s~",
+            "desc": ""
+        },
+        {
+            "hash": 438259618,
+            "original": "~z~It might give me some substance.",
+            "translated": "~z~可能能给我些实感。",
+            "desc": ""
+        },
+        {
+            "hash": 461543129,
+            "original": "R14_XM",
+            "translated": "R14_XM",
+            "desc": ""
+        },
+        {
+            "hash": 473885666,
+            "original": "~z~This is almost over. I'm going to finish it.",
+            "translated": "~z~终于要结束了，我去做个了断。",
+            "desc": ""
+        },
+        {
+            "hash": 486633818,
+            "original": "R14_SB",
+            "translated": "R14_SB",
+            "desc": ""
+        },
+        {
+            "hash": 505213290,
+            "original": "~z~A thousand.",
+            "translated": "~z~一千。",
+            "desc": ""
+        },
+        {
+            "hash": 536941420,
+            "original": "~z~No Roman, it's nothing.",
+            "translated": "~z~不，Roman，什么都不是。",
+            "desc": ""
+        },
+        {
+            "hash": 538537946,
+            "original": "~z~But this has been a very difficult moment for me.",
+            "translated": "~z~但是现在这个时候我真的很难受。",
+            "desc": ""
+        },
+        {
+            "hash": 549738074,
+            "original": "~z~Since I saw those things.",
+            "translated": "~z~看见了那种场景以后。",
+            "desc": ""
+        },
+        {
+            "hash": 555973903,
+            "original": "~z~Because of what? Because of shit.",
+            "translated": "~z~为了什么？为了个屁。",
+            "desc": ""
+        },
+        {
+            "hash": 575935961,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 580082710,
+            "original": "R14_UE",
+            "translated": "R14_UE",
+            "desc": ""
+        },
+        {
+            "hash": 609891481,
+            "original": "R14_IB",
+            "translated": "R14_IB",
+            "desc": ""
+        },
+        {
+            "hash": 661283754,
+            "original": "~z~In some way, our friends from the village were lucky.",
+            "translated": "~z~某种意义上，我们同村的朋友也算是走运了。",
+            "desc": ""
+        },
+        {
+            "hash": 663010813,
+            "original": "~z~I'm not saying that Darko should be forgiven - it is not our place to do that.",
+            "translated": "~z~我不是说要原谅Darko，那不是在我们的立场上该做的。",
+            "desc": ""
+        },
+        {
+            "hash": 677505739,
+            "original": "R14_UD",
+            "translated": "R14_UD",
+            "desc": ""
+        },
+        {
+            "hash": 679114061,
+            "original": "~z~Here we are, do you want to come in and hang with Brucie?",
+            "translated": "~z~到了，你要上来和Brucie坐会儿吗？",
+            "desc": ""
+        },
+        {
+            "hash": 683917435,
+            "original": "~z~But the Darko you are going to meet might be very different from the one who led our friends to their death.",
+            "translated": "~z~但是待会儿你见到的Darko，可能和将你的朋友带向死亡的Darko大不一样。",
+            "desc": ""
+        },
+        {
+            "hash": 700187031,
+            "original": "R14_JB",
+            "translated": "R14_JB",
+            "desc": ""
+        },
+        {
+            "hash": 724792304,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 727488564,
+            "original": "~z~After this is done, then we can talk about forgiveness and redemption.",
+            "translated": "~z~等这次解决了，我们再讨论宽恕与救赎。",
+            "desc": ""
+        },
+        {
+            "hash": 731056860,
+            "original": "~z~Leave him. He's not worth wasting your energy on.",
+            "translated": "~z~别管他，他不值得你浪费精力。",
+            "desc": ""
+        },
+        {
+            "hash": 758322462,
+            "original": "~z~-you make strange choices, I guess.~n~-Fuck you!",
+            "translated": "~z~－你就会做出异常的选择。~n~－操你妈的！",
+            "desc": ""
+        },
+        {
+            "hash": 759095455,
+            "original": "~z~I had to count the ripe corpses and to see who was missing.",
+            "translated": "~z~我只能去数那些难闻的尸体，看到底少了谁。",
+            "desc": ""
+        },
+        {
+            "hash": 760418266,
+            "original": "~z~Niko - come on, let's go.",
+            "translated": "~z~Niko，算了，我们走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 767101721,
+            "original": "~z~It took every fiber of my being",
+            "translated": "~z~我全身上下所有肌肉，",
+            "desc": ""
+        },
+        {
+            "hash": 770674691,
+            "original": "~z~Come on.",
+            "translated": "~z~算了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 790344097,
+            "original": "~z~The emptiness is what I was trying to get rid of by finding Darko.",
+            "translated": "~z~我本来想通过寻找Darko摆脱这种空虚。",
+            "desc": ""
+        },
+        {
+            "hash": 794817425,
+            "original": "~z~You lost a lot of friends that day, Niko. We both did.",
+            "translated": "~z~那天你失去了很多朋友，Niko。我也是。",
+            "desc": ""
+        },
+        {
+            "hash": 805584100,
+            "original": "R14_ZE",
+            "translated": "R14_ZE",
+            "desc": ""
+        },
+        {
+            "hash": 830907528,
+            "original": "~z~Now is not the time for such conversation.",
+            "translated": "~z~现在不是聊这种话题的时候。",
+            "desc": ""
+        },
+        {
+            "hash": 846195230,
+            "original": "R14_VA",
+            "translated": "R14_VA",
+            "desc": ""
+        },
+        {
+            "hash": 851218978,
+            "original": "R14_VV",
+            "translated": "R14_VV",
+            "desc": ""
+        },
+        {
+            "hash": 971711341,
+            "original": "~z~Maybe I'll feel like getting drunk later though.",
+            "translated": "~z~Maybe I'll feel like getting drunk later though.",
+            "desc": ""
+        },
+        {
+            "hash": 975842855,
+            "original": "R14_CT",
+            "translated": "R14_CT",
+            "desc": ""
+        },
+        {
+            "hash": 998945229,
+            "original": "~z~When everything you believe is shown to be shit,",
+            "translated": "~z~当你所相信的一切都被证明是狗屁的时候，",
+            "desc": ""
+        },
+        {
+            "hash": 1005238228,
+            "original": "R14_CD",
+            "translated": "R14_CD",
+            "desc": ""
+        },
+        {
+            "hash": 1018751077,
+            "original": "~z~He will be enough of that man to justify what I have to do to him.",
+            "translated": "~z~他的为人足以让我有正当理由做该做的事的。",
+            "desc": ""
+        },
+        {
+            "hash": 1071316405,
+            "original": "R14_XC",
+            "translated": "R14_XC",
+            "desc": ""
+        },
+        {
+            "hash": 1100363600,
+            "original": "~z~He doesn't look like he enjoys life too much.",
+            "translated": "~z~他的生活看起来也不大好过。",
+            "desc": ""
+        },
+        {
+            "hash": 1100860407,
+            "original": "R14_XR",
+            "translated": "R14_XR",
+            "desc": ""
+        },
+        {
+            "hash": 1112619566,
+            "original": "~z~Yes you do.",
+            "translated": "~z~不，你认识。",
+            "desc": ""
+        },
+        {
+            "hash": 1144052683,
+            "original": "~z~I mean I don't know. I feel empty, okay? I feel empty.",
+            "translated": "~z~就是不知道。我感觉很空虚，好吗？很空虚。",
+            "desc": ""
+        },
+        {
+            "hash": 1158418250,
+            "original": "~z~I would live through killing Darko as well,",
+            "translated": "~z~就算杀了Darko，我也一样能活，",
+            "desc": ""
+        },
+        {
+            "hash": 1164092148,
+            "original": "R14_UF",
+            "translated": "R14_UF",
+            "desc": ""
+        },
+        {
+            "hash": 1169408243,
+            "original": "~z~~c~Leave me alone. I don't know you.~s~",
+            "translated": "~z~~c~放了我，我不认识你。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1172573265,
+            "original": "R14_VK",
+            "translated": "R14_VK",
+            "desc": ""
+        },
+        {
+            "hash": 1195642789,
+            "original": "R14_WC",
+            "translated": "R14_WC",
+            "desc": ""
+        },
+        {
+            "hash": 1239174768,
+            "original": "~z~Lies. Fucking lies.",
+            "translated": "~z~谎言。该死的谎言。",
+            "desc": ""
+        },
+        {
+            "hash": 1257450345,
+            "original": "R14_UG",
+            "translated": "R14_UG",
+            "desc": ""
+        },
+        {
+            "hash": 1273812300,
+            "original": "R14_CE",
+            "translated": "R14_CE",
+            "desc": ""
+        },
+        {
+            "hash": 1294970626,
+            "original": "R14_UO",
+            "translated": "R14_UO",
+            "desc": ""
+        },
+        {
+            "hash": 1297253151,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 1303146864,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1312200583,
+            "original": "R14_VT",
+            "translated": "R14_VT",
+            "desc": ""
+        },
+        {
+            "hash": 1314844013,
+            "original": "100010100",
+            "translated": "100010100",
+            "desc": ""
+        },
+        {
+            "hash": 1318360144,
+            "original": "R14_JC",
+            "translated": "R14_JC",
+            "desc": ""
+        },
+        {
+            "hash": 1325305072,
+            "original": "~z~Be assured of that, cousin.",
+            "translated": "~z~这点你可以确定，堂兄。",
+            "desc": ""
+        },
+        {
+            "hash": 1343901643,
+            "original": "~z~I can't, Packie. I might have found what I was looking for all this time.",
+            "translated": "~z~I can't, Packie. I might have found what I was looking for all this time.",
+            "desc": ""
+        },
+        {
+            "hash": 1369136519,
+            "original": "~z~Okay, Niko. It's over. It's all over now. Leave him there. We should go before anyone turns up.",
+            "translated": "~z~好了，Niko。结束了，现在都结束了。把他扔这儿吧，我们得在有人发现前离开。",
+            "desc": ""
+        },
+        {
+            "hash": 1377378971,
+            "original": "R14_VM",
+            "translated": "R14_VM",
+            "desc": ""
+        },
+        {
+            "hash": 1384544374,
+            "original": "~z~That's something, at least.",
+            "translated": "~z~至少算是种感觉。",
+            "desc": ""
+        },
+        {
+            "hash": 1389830030,
+            "original": "R14_UL",
+            "translated": "R14_UL",
+            "desc": ""
+        },
+        {
+            "hash": 1396859702,
+            "original": "R14_VD",
+            "translated": "R14_VD",
+            "desc": ""
+        },
+        {
+            "hash": 1409307104,
+            "original": "R14_UM",
+            "translated": "R14_UM",
+            "desc": ""
+        },
+        {
+            "hash": 1434685210,
+            "original": "R14_XJ",
+            "translated": "R14_XJ",
+            "desc": ""
+        },
+        {
+            "hash": 1435130153,
+            "original": "R14_VQ",
+            "translated": "R14_VQ",
+            "desc": ""
+        },
+        {
+            "hash": 1456242946,
+            "original": "~z~I don't know how it feels. I'm trying to take it all in.",
+            "translated": "~z~我不知道是什么感觉，我只想照单全收。",
+            "desc": ""
+        },
+        {
+            "hash": 1467665284,
+            "original": "R14_UB",
+            "translated": "R14_UB",
+            "desc": ""
+        },
+        {
+            "hash": 1471722902,
+            "original": "~z~Darko Brevic, here in Liberty City. You have worked hard to make this happen.",
+            "translated": "~z~Darko Brevic，来到了自由城。为了实现这个你真是费了很多工夫。",
+            "desc": ""
+        },
+        {
+            "hash": 1486382780,
+            "original": "~z~I'm the one... who survived.",
+            "translated": "~z~我从那里...活下来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1501206113,
+            "original": "R14_CO",
+            "translated": "R14_CO",
+            "desc": ""
+        },
+        {
+            "hash": 1509677143,
+            "original": "~z~No, I need to be alone. Thank you for being with me, cousin.",
+            "translated": "~z~不，我需要一个人静静。多谢你能陪我，堂兄。",
+            "desc": ""
+        },
+        {
+            "hash": 1563167632,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1566240363,
+            "original": "~z~We should go, Niko. You've seen what happened to him.",
+            "translated": "~z~我们该走了，Niko。你也看见他都怎么样了。",
+            "desc": ""
+        },
+        {
+            "hash": 1569712822,
+            "original": "~z~How about we go drinking?",
+            "translated": "~z~How about we go drinking?",
+            "desc": ""
+        },
+        {
+            "hash": 1573197858,
+            "original": "R14_CM",
+            "translated": "R14_CM",
+            "desc": ""
+        },
+        {
+            "hash": 1598472446,
+            "original": "R14_A_AB",
+            "translated": "R14_A_AB",
+            "desc": ""
+        },
+        {
+            "hash": 1621775913,
+            "original": "~z~If I could live those hours again,",
+            "translated": "~z~如果能回到那个时候，",
+            "desc": ""
+        },
+        {
+            "hash": 1622795706,
+            "original": "~z~You're not eating my money.",
+            "translated": "~z~You're not eating my money.",
+            "desc": ""
+        },
+        {
+            "hash": 1629505161,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1637678474,
+            "original": "~z~You piece of shit. That was for everyone. That was for me.",
+            "translated": "~z~你这个人渣。刚才是替所有人打的，是替我打的。",
+            "desc": ""
+        },
+        {
+            "hash": 1649756636,
+            "original": "~z~Living is not easy.",
+            "translated": "~z~活着也不容易。",
+            "desc": ""
+        },
+        {
+            "hash": 1660040699,
+            "original": "R14_XB",
+            "translated": "R14_XB",
+            "desc": ""
+        },
+        {
+            "hash": 1700530730,
+            "original": "~z~Cousin, there you are.",
+            "translated": "~z~堂弟，你来啦。",
+            "desc": ""
+        },
+        {
+            "hash": 1701078583,
+            "original": "R14_UA",
+            "translated": "R14_UA",
+            "desc": ""
+        },
+        {
+            "hash": 1705464179,
+            "original": "~z~Every moment since our friends from the village were killed,",
+            "translated": "~z~从我们村里的朋友被杀后开始的每一刻，",
+            "desc": ""
+        },
+        {
+            "hash": 1737298060,
+            "original": "~z~to us, to all of us, in the past.",
+            "translated": "~z~不，我们都经历了，别沉溺过去。",
+            "desc": ""
+        },
+        {
+            "hash": 1744703702,
+            "original": "R14_CB",
+            "translated": "R14_CB",
+            "desc": ""
+        },
+        {
+            "hash": 1778067295,
+            "original": "~z~This is the moment you've been waiting for for so long, Niko. What do you mean you don't know how you feel?",
+            "translated": "~z~这一刻你等了那么久，Niko。「不知道」是什么意思？",
+            "desc": ""
+        },
+        {
+            "hash": 1799076146,
+            "original": "R14_XO",
+            "translated": "R14_XO",
+            "desc": ""
+        },
+        {
+            "hash": 1823650660,
+            "original": "R14_XI",
+            "translated": "R14_XI",
+            "desc": ""
+        },
+        {
+            "hash": 1825255651,
+            "original": "R14_A_AA",
+            "translated": "R14_A_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1825338055,
+            "original": "R14_UC",
+            "translated": "R14_UC",
+            "desc": ""
+        },
+        {
+            "hash": 1838884445,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 1862446909,
+            "original": "~z~You say I ruined you? You were always a killer!",
+            "translated": "~z~你说我毁了你？你本来就是个杀手！",
+            "desc": ""
+        },
+        {
+            "hash": 1873122430,
+            "original": "~z~Trust me, you'll be doing me a favor.",
+            "translated": "~z~相信我，我死了是种解脱。",
+            "desc": ""
+        },
+        {
+            "hash": 1914116461,
+            "original": "~z~Kill me, then!",
+            "translated": "~z~那就杀了我啊！",
+            "desc": ""
+        },
+        {
+            "hash": 1930947425,
+            "original": "~z~No.",
+            "translated": "~z~对。",
+            "desc": ""
+        },
+        {
+            "hash": 1931023355,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1942281337,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 1964832203,
+            "original": "R14_VC",
+            "translated": "R14_VC",
+            "desc": ""
+        },
+        {
+            "hash": 1976067079,
+            "original": "R14_XF",
+            "translated": "R14_XF",
+            "desc": ""
+        },
+        {
+            "hash": 2012250694,
+            "original": "R14_VE",
+            "translated": "R14_VE",
+            "desc": ""
+        },
+        {
+            "hash": 2045702426,
+            "original": "R14_VU",
+            "translated": "R14_VU",
+            "desc": ""
+        },
+        {
+            "hash": 2090107822,
+            "original": "R14_VB",
+            "translated": "R14_VB",
+            "desc": ""
+        },
+        {
+            "hash": 2109322818,
+            "original": "~z~~c~Dmitar, Dragan, Goran, Mijo... should I go on and name them all?~s~",
+            "translated": "~z~~c~Dmitar，Dragan，Goran，Mijo...要不要我把名字都报一遍？~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2109794309,
+            "original": "R14_CR",
+            "translated": "R14_CR",
+            "desc": ""
+        },
+        {
+            "hash": 2137496109,
+            "original": "~z~fulfillment in other places. Healthy ones.",
+            "translated": "~z~寻找充实。健康的方式。",
+            "desc": ""
+        },
+        {
+            "hash": 2142767625,
+            "original": "~z~I try to, yes.",
+            "translated": "~z~我尽力，对。",
+            "desc": ""
+        },
+        {
+            "hash": 2156114452,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 2159665756,
+            "original": "100010100010100010010010010010100010100100100010",
+            "translated": "100010100010100010010010010010100010100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 2169390850,
+            "original": "~z~I think I would have preferred to be buried in the pit along with everyone else.",
+            "translated": "~z~我宁愿和其他人一起埋在那个坑里。",
+            "desc": ""
+        },
+        {
+            "hash": 2183120287,
+            "original": "R14_CS",
+            "translated": "R14_CS",
+            "desc": ""
+        },
+        {
+            "hash": 2221129222,
+            "original": "~z~You ruined me, you fuck!",
+            "translated": "~z~是你毁了我，混蛋！",
+            "desc": ""
+        },
+        {
+            "hash": 2224623446,
+            "original": "~z~I know, Niko.",
+            "translated": "~z~我知道，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2264808862,
+            "original": "~z~It is not often that a man can be sure of that but you definitely did the right thing. Be proud of yourself.",
+            "translated": "~z~虽然别的事不能断言，但这次你绝对是做对了。为你自己骄傲吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2308297306,
+            "original": "010010100010",
+            "translated": "010010100010",
+            "desc": ""
+        },
+        {
+            "hash": 2317501318,
+            "original": "R14_JA",
+            "translated": "R14_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2322666910,
+            "original": "R14_VJ",
+            "translated": "R14_VJ",
+            "desc": ""
+        },
+        {
+            "hash": 2325214594,
+            "original": "R14_ZF",
+            "translated": "R14_ZF",
+            "desc": ""
+        },
+        {
+            "hash": 2329643314,
+            "original": "R14_CI",
+            "translated": "R14_CI",
+            "desc": ""
+        },
+        {
+            "hash": 2334241185,
+            "original": "~z~Maybe now that you know that revenge is not what you are after you can look for",
+            "translated": "~z~现在你可能就知道了，需要的不是复仇，你可以用别的方式",
+            "desc": ""
+        },
+        {
+            "hash": 2347158320,
+            "original": "~z~Alright, wait there for me.",
+            "translated": "~z~好的，在那儿等我。",
+            "desc": ""
+        },
+        {
+            "hash": 2350194011,
+            "original": "~z~I don't know. I wanted it for so long.",
+            "translated": "~z~我不知道。我日思夜想的复仇。",
+            "desc": ""
+        },
+        {
+            "hash": 2358083213,
+            "original": "R14_XQ",
+            "translated": "R14_XQ",
+            "desc": ""
+        },
+        {
+            "hash": 2371653460,
+            "original": "R14_CJ",
+            "translated": "R14_CJ",
+            "desc": ""
+        },
+        {
+            "hash": 2374758016,
+            "original": "~z~There you go, you got your revenge. How does it feel?",
+            "translated": "~z~你做到了，完成了你的复仇。感觉怎么样？",
+            "desc": ""
+        },
+        {
+            "hash": 2378244275,
+            "original": "~z~He would just be dead like everyone else from our village.",
+            "translated": "~z~他也可以死的，和同村其他人一样。",
+            "desc": ""
+        },
+        {
+            "hash": 2408833933,
+            "original": "~z~This is all that is left of me. What am I good at, Roman? What is my trade?",
+            "translated": "~z~这就是那次遭遇后的我。我有什么长处，Roman？我的职业是什么？",
+            "desc": ""
+        },
+        {
+            "hash": 2421620389,
+            "original": "R14_CN",
+            "translated": "R14_CN",
+            "desc": ""
+        },
+        {
+            "hash": 2431123430,
+            "original": "R14_ZD",
+            "translated": "R14_ZD",
+            "desc": ""
+        },
+        {
+            "hash": 2454171408,
+            "original": "~z~revenge would not somehow shut the book on what I have seen.",
+            "translated": "~z~复仇也不能合上我见过的那一页书。",
+            "desc": ""
+        },
+        {
+            "hash": 2456869124,
+            "original": "~z~Let him suffer... he knows what he did.",
+            "translated": "~z~让他受苦去吧...他知道他做了什么。",
+            "desc": ""
+        },
+        {
+            "hash": 2463345611,
+            "original": "~z~It was weeks after the massacre that I realized that we must have been given up by someone in our group...",
+            "translated": "~z~在那场屠杀的几周后，我意识到我们一定是被小队里的某个人出卖了...",
+            "desc": ""
+        },
+        {
+            "hash": 2467027854,
+            "original": "~z~You remember me?",
+            "translated": "~z~你还记得我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2483601833,
+            "original": "100010010010100010010010010010010010100100100010010100100100010010",
+            "translated": "100010010010100010010010010010010010100100100010010100100100010010",
+            "desc": ""
+        },
+        {
+            "hash": 2485938126,
+            "original": "~z~They are bringing him to the cargo bay at Francis International. I do not want to be late after I have waited so long.",
+            "translated": "~z~他会被送到Francis国际机场的货运区。等了那么多年了，我可不想迟到。",
+            "desc": ""
+        },
+        {
+            "hash": 2495338777,
+            "original": "~z~Let's have a fucking party, break out the champagne.",
+            "translated": "~z~那就开个狗屁派对，再开瓶香槟吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2501199240,
+            "original": "~z~Of course it doesn't make me happy but maybe this is good for you.",
+            "translated": "~z~我当然不会高兴，不过对你可能有好处。",
+            "desc": ""
+        },
+        {
+            "hash": 2591274779,
+            "original": "R14_WB",
+            "translated": "R14_WB",
+            "desc": ""
+        },
+        {
+            "hash": 2592564358,
+            "original": "R14_PA",
+            "translated": "R14_PA",
+            "desc": ""
+        },
+        {
+            "hash": 2597114111,
+            "original": "~z~Maybe... maybe, I don't know.",
+            "translated": "~z~或许吧...或许吧，我不知道。",
+            "desc": ""
+        },
+        {
+            "hash": 2598940333,
+            "original": "R14_VW",
+            "translated": "R14_VW",
+            "desc": ""
+        },
+        {
+            "hash": 2609139187,
+            "original": "R14_VR",
+            "translated": "R14_VR",
+            "desc": ""
+        },
+        {
+            "hash": 2628086957,
+            "original": "~z~Niko, you can't do this alone. I'm coming with you. Come collect me from Firefly Island.",
+            "translated": "~z~Niko，这你不能一个人去，我和你一起。到Firefly Island来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 2656782225,
+            "original": "~z~I'm turning this shit off, I can't take listening to those annoying ads and DJs right now.",
+            "translated": "~z~垃圾广播我关了，现在没心情听这些烦人的广告和DJ。",
+            "desc": ""
+        },
+        {
+            "hash": 2666657946,
+            "original": "~z~Strange choices? How much?",
+            "translated": "~z~还异常的选择？多少钱？",
+            "desc": ""
+        },
+        {
+            "hash": 2674144880,
+            "original": "~z~This is it. This is where it all ends.",
+            "translated": "~z~就是这里，这就是一切结束的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 2686764653,
+            "original": "~z~I have worked to find out who it was that betrayed us.",
+            "translated": "~z~我都在查探那个背叛我们的人是谁。",
+            "desc": ""
+        },
+        {
+            "hash": 2689431001,
+            "original": "~z~You're a fucking junkie.",
+            "translated": "~z~你这混蛋人渣。",
+            "desc": ""
+        },
+        {
+            "hash": 2700966442,
+            "original": "R14_VP",
+            "translated": "R14_VP",
+            "desc": ""
+        },
+        {
+            "hash": 2701009962,
+            "original": "R14_ZA",
+            "translated": "R14_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 2707191787,
+            "original": "~z~You fucking hypocrite.",
+            "translated": "~z~你他妈个伪君子。",
+            "desc": ""
+        },
+        {
+            "hash": 2708509720,
+            "original": "~z~Where am I? What is this place?",
+            "translated": "~z~我在哪儿？这里是什么地方？",
+            "desc": ""
+        },
+        {
+            "hash": 2726121843,
+            "original": "R14_RA",
+            "translated": "R14_RA",
+            "desc": ""
+        },
+        {
+            "hash": 2753004285,
+            "original": "~z~We were friends, but I had other friends.",
+            "translated": "~z~我们确实是朋友，但我还有别的朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 2766390274,
+            "original": "R14_CK",
+            "translated": "R14_CK",
+            "desc": ""
+        },
+        {
+            "hash": 2810696768,
+            "original": "~z~to not get revenge for all those lives he took away.",
+            "translated": "~z~没替他夺走的那些生命复仇。",
+            "desc": ""
+        },
+        {
+            "hash": 2827639701,
+            "original": "~z~Only those who die get closure, the living do not.",
+            "translated": "~z~只有那些死了的才会合上，活人不会。",
+            "desc": ""
+        },
+        {
+            "hash": 2831798690,
+            "original": "R14_CQ",
+            "translated": "R14_CQ",
+            "desc": ""
+        },
+        {
+            "hash": 2832802537,
+            "original": "~z~I'm lost...",
+            "translated": "~z~我很迷茫...",
+            "desc": ""
+        },
+        {
+            "hash": 2856429565,
+            "original": "R14_ZB",
+            "translated": "R14_ZB",
+            "desc": ""
+        },
+        {
+            "hash": 2861832609,
+            "original": "~z~This killing must stop sometime, Niko. Once this is done, then you must begin to forgive.",
+            "translated": "~z~这种杀戮之后必须要停下来了，Niko。这次解决以后，你一定要学会宽恕。",
+            "desc": ""
+        },
+        {
+            "hash": 2893514900,
+            "original": "~z~There's no need to take that tone, cousin.",
+            "translated": "~z~没必要那么说，堂弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2897419723,
+            "original": "~z~I deal in death because that is all that is open to me.",
+            "translated": "~z~我做杀手是因为我只能做这个。",
+            "desc": ""
+        },
+        {
+            "hash": 2906951611,
+            "original": "~z~How much do you charge to kill someone?",
+            "translated": "~z~那你杀人又收多少钱？",
+            "desc": ""
+        },
+        {
+            "hash": 2915395083,
+            "original": "~z~So, you keep living and you try to have a happy life. You try to move on.",
+            "translated": "~z~所以，你会继续活着，尽力过上幸福生活，尽力向前进。",
+            "desc": ""
+        },
+        {
+            "hash": 2918745888,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 2924896976,
+            "original": "~z~And when I knew, everything I've done has been to find that person.",
+            "translated": "~z~当我知道后，我所做的一切都是为了找到那个人。",
+            "desc": ""
+        },
+        {
+            "hash": 2933684502,
+            "original": "~z~No, it hasn't. Does that make you happy?",
+            "translated": "~z~对，没有。这样你高兴了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2954353546,
+            "original": "R14_CL",
+            "translated": "R14_CL",
+            "desc": ""
+        },
+        {
+            "hash": 2971013386,
+            "original": "~z~Thank you.",
+            "translated": "~z~谢谢。",
+            "desc": ""
+        },
+        {
+            "hash": 3018464953,
+            "original": "R14_UN",
+            "translated": "R14_UN",
+            "desc": ""
+        },
+        {
+            "hash": 3044982103,
+            "original": "R14_ZC",
+            "translated": "R14_ZC",
+            "desc": ""
+        },
+        {
+            "hash": 3045952580,
+            "original": "100100010010010100010010010010010100010010010010100010010010010100010",
+            "translated": "100100010010010100010010010010010100010010010010100010010010010100010",
+            "desc": ""
+        },
+        {
+            "hash": 3068717577,
+            "original": "R14_VN",
+            "translated": "R14_VN",
+            "desc": ""
+        },
+        {
+            "hash": 3119626312,
+            "original": "~z~I will tell you what you are good at, Niko. You are a good cousin and a good friend. You still have integrity.",
+            "translated": "~z~我会告诉你你的长处的，Niko。你是个好堂弟，也是个好朋友。你仍然是个正直者。",
+            "desc": ""
+        },
+        {
+            "hash": 3131229820,
+            "original": "~z~I'm lost!",
+            "translated": "~z~我很迷茫！",
+            "desc": ""
+        },
+        {
+            "hash": 3141467054,
+            "original": "~z~What made you spare him, Niko?",
+            "translated": "~z~是什么让你又放了他，Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 3142559272,
+            "original": "~z~Man, it's Packie calling.",
+            "translated": "~z~Man, it's Packie calling.",
+            "desc": ""
+        },
+        {
+            "hash": 3153474156,
+            "original": "R14_VF",
+            "translated": "R14_VF",
+            "desc": ""
+        },
+        {
+            "hash": 3154765573,
+            "original": "~z~Niko, I know.",
+            "translated": "~z~Niko，我知道。",
+            "desc": ""
+        },
+        {
+            "hash": 3167310538,
+            "original": "100010010010100010010010010100010010010100100100010010",
+            "translated": "100010010010100010010010010100010010010100100100010010",
+            "desc": ""
+        },
+        {
+            "hash": 3193352759,
+            "original": "~z~~c~Just tell me why.~s~",
+            "translated": "~z~~c~告诉我你的理由。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3209309749,
+            "original": "~z~You did the right thing, Niko.",
+            "translated": "~z~你做出了正确的选择，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3212468187,
+            "original": "R14_A_CB",
+            "translated": "R14_A_CB",
+            "desc": ""
+        },
+        {
+            "hash": 3272952463,
+            "original": "~z~No matter what you say there is humanity in you.",
+            "translated": "~z~不管你怎么说，你还是有人性的。",
+            "desc": ""
+        },
+        {
+            "hash": 3283109381,
+            "original": "R14_CC",
+            "translated": "R14_CC",
+            "desc": ""
+        },
+        {
+            "hash": 3290544104,
+            "original": "~z~I'm sorry if my tone offends you, Roman.",
+            "translated": "~z~如果冒犯到你了，我道歉，Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 3310165873,
+            "original": "~z~Disappointment is not a consideration.",
+            "translated": "~z~我从没想过会失望。",
+            "desc": ""
+        },
+        {
+            "hash": 3318331049,
+            "original": "R14_UP",
+            "translated": "R14_UP",
+            "desc": ""
+        },
+        {
+            "hash": 3334809831,
+            "original": "~z~And it hasn't?",
+            "translated": "~z~结果没有？",
+            "desc": ""
+        },
+        {
+            "hash": 3340190560,
+            "original": "~z~I needed the money... I had problems.",
+            "translated": "~z~我需要那笔钱...我有困难。",
+            "desc": ""
+        },
+        {
+            "hash": 3340745357,
+            "original": "R14_UJ",
+            "translated": "R14_UJ",
+            "desc": ""
+        },
+        {
+            "hash": 3341838579,
+            "original": "R14_CU",
+            "translated": "R14_CU",
+            "desc": ""
+        },
+        {
+            "hash": 3369367131,
+            "original": "R14_CP",
+            "translated": "R14_CP",
+            "desc": ""
+        },
+        {
+            "hash": 3395456614,
+            "original": "R14_XG",
+            "translated": "R14_XG",
+            "desc": ""
+        },
+        {
+            "hash": 3395787171,
+            "original": "~z~pulling in the same direction, not to kill Darko,",
+            "translated": "~z~都往一边拉，这才没杀了Darko，",
+            "desc": ""
+        },
+        {
+            "hash": 3420222315,
+            "original": "R14_CH",
+            "translated": "R14_CH",
+            "desc": ""
+        },
+        {
+            "hash": 3444435922,
+            "original": "~z~I just helped you see that!",
+            "translated": "~z~我只是帮你认清了这点！",
+            "desc": ""
+        },
+        {
+            "hash": 3456305911,
+            "original": "~z~That wasn't something the old me could have done,",
+            "translated": "~z~那不是以前的我能做到的。",
+            "desc": ""
+        },
+        {
+            "hash": 3490985215,
+            "original": "~z~I have not been the same man since the day that Darko betrayed us.",
+            "translated": "~z~从Darko背叛我们的那天起，我就不再是那个我了。",
+            "desc": ""
+        },
+        {
+            "hash": 3503706449,
+            "original": "~z~I let a diseased, traitorous junkie live after hunting him for over a decade.",
+            "translated": "~z~我放过了一个有病的、背叛了的人渣，在寻找了他十多年以后。",
+            "desc": ""
+        },
+        {
+            "hash": 3542960236,
+            "original": "R14_BD",
+            "translated": "R14_BD",
+            "desc": ""
+        },
+        {
+            "hash": 3576106489,
+            "original": "R14_A_BA",
+            "translated": "R14_A_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3599200627,
+            "original": "~z~You still have the power to be good. It's important that you believe that.",
+            "translated": "~z~你还是有能力做好人的。最重要的是对自己的信心。",
+            "desc": ""
+        },
+        {
+            "hash": 3608849162,
+            "original": "R14_XP",
+            "translated": "R14_XP",
+            "desc": ""
+        },
+        {
+            "hash": 3648567333,
+            "original": "~z~but then, when I looked at him, I realized that nothing would change if I killed him,",
+            "translated": "~z~可是然后，当我看着他的时候，我意识到就算杀了他也无济于事，",
+            "desc": ""
+        },
+        {
+            "hash": 3649955535,
+            "original": "~z~Let's go, cousin.",
+            "translated": "~z~走吧，堂弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3675155278,
+            "original": "~z~You killed my friends for one thousand dollars?",
+            "translated": "~z~你就为了一千美元，杀了我的朋友？",
+            "desc": ""
+        },
+        {
+            "hash": 3680143908,
+            "original": "~z~I thought that revenge, that killing Darko, might fill me up a bit.",
+            "translated": "~z~我本以为复仇、杀了Darko，可能能让我充实一点。",
+            "desc": ""
+        },
+        {
+            "hash": 3740438295,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3751887759,
+            "original": "100100100",
+            "translated": "100100100",
+            "desc": ""
+        },
+        {
+            "hash": 3753684586,
+            "original": "~z~but losing those friends, seeing them cut down in their prime.",
+            "translated": "~z~但我失去了那些朋友，看着他们在盛年死去。",
+            "desc": ""
+        },
+        {
+            "hash": 3757047139,
+            "original": "R14_VG",
+            "translated": "R14_VG",
+            "desc": ""
+        },
+        {
+            "hash": 3760628026,
+            "original": "R14_XN",
+            "translated": "R14_XN",
+            "desc": ""
+        },
+        {
+            "hash": 3781412550,
+            "original": "R14_VO",
+            "translated": "R14_VO",
+            "desc": ""
+        },
+        {
+            "hash": 3793616649,
+            "original": "~z~Friends that Goran and his guys killed.",
+            "translated": "~z~那些朋友被Goran和他的人杀了。",
+            "desc": ""
+        },
+        {
+            "hash": 3804954719,
+            "original": "~z~My fucking neighbors!",
+            "translated": "~z~被我的混蛋邻居杀了！",
+            "desc": ""
+        },
+        {
+            "hash": 3824333578,
+            "original": "R14_ZH",
+            "translated": "R14_ZH",
+            "desc": ""
+        },
+        {
+            "hash": 3826420889,
+            "original": "R14_CA",
+            "translated": "R14_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3827785955,
+            "original": "100100010010",
+            "translated": "100100010010",
+            "desc": ""
+        },
+        {
+            "hash": 3830290489,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 3834784265,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3839430170,
+            "original": "~z~That might give me some perspective.",
+            "translated": "~z~他的死或许能给我一些启示。",
+            "desc": ""
+        },
+        {
+            "hash": 3843838043,
+            "original": "~z~by someone from our own village.",
+            "translated": "~z~被某个同村人出卖了。",
+            "desc": ""
+        },
+        {
+            "hash": 3854065735,
+            "original": "~z~Well, this is the big moment - what you have been waiting for for so long. I hope you will not be disappointed.",
+            "translated": "~z~终于来临了，你苦等多年的一刻。希望你不会失望。",
+            "desc": ""
+        },
+        {
+            "hash": 3863547536,
+            "original": "R14_YA",
+            "translated": "R14_YA",
+            "desc": ""
+        },
+        {
+            "hash": 3870784787,
+            "original": "~z~Shit, someone hand me the keys to the fucking city.",
+            "translated": "~z~操，放了那个让我来到这个狗屁城市的人。",
+            "desc": ""
+        },
+        {
+            "hash": 3877887023,
+            "original": "R14_VH",
+            "translated": "R14_VH",
+            "desc": ""
+        },
+        {
+            "hash": 3904356882,
+            "original": "200200200200200200200200",
+            "translated": "200200200200200200200200",
+            "desc": ""
+        },
+        {
+            "hash": 3911542000,
+            "original": "R14_UH",
+            "translated": "R14_UH",
+            "desc": ""
+        },
+        {
+            "hash": 3935126535,
+            "original": "R14_XA",
+            "translated": "R14_XA",
+            "desc": ""
+        },
+        {
+            "hash": 3961064891,
+            "original": "~z~~c~Why?~s~",
+            "translated": "~z~~c~理由？~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3980579082,
+            "original": "R14_XH",
+            "translated": "R14_XH",
+            "desc": ""
+        },
+        {
+            "hash": 3990425367,
+            "original": "~z~Roman, they've brought Darko Brevic into the country for me.",
+            "translated": "~z~Roman，他们已经帮我把Darko Brevic送到美国了。",
+            "desc": ""
+        },
+        {
+            "hash": 4027577803,
+            "original": "R14_VS",
+            "translated": "R14_VS",
+            "desc": ""
+        },
+        {
+            "hash": 4047530495,
+            "original": "R14_VL",
+            "translated": "R14_VL",
+            "desc": ""
+        },
+        {
+            "hash": 4068375602,
+            "original": "R14_BC",
+            "translated": "R14_BC",
+            "desc": ""
+        },
+        {
+            "hash": 4070574193,
+            "original": "R14_BA",
+            "translated": "R14_BA",
+            "desc": ""
+        },
+        {
+            "hash": 4075317159,
+            "original": "R14_VI",
+            "translated": "R14_VI",
+            "desc": ""
+        },
+        {
+            "hash": 4085345573,
+            "original": "~z~I had to go back to the pit where the bodies were dumped.",
+            "translated": "~z~我只能回到丢弃尸体的坑里。",
+            "desc": ""
+        },
+        {
+            "hash": 4122388022,
+            "original": "~z~So that makes it okay. To stab your friends in the back?",
+            "translated": "~z~所以你就能这么做了？背刺你的朋友？",
+            "desc": ""
+        },
+        {
+            "hash": 4141519630,
+            "original": "R14_UI",
+            "translated": "R14_UI",
+            "desc": ""
+        },
+        {
+            "hash": 4152830230,
+            "original": "R14_CF",
+            "translated": "R14_CF",
+            "desc": ""
+        },
+        {
+            "hash": 4209318426,
+            "original": "~z~Fine, keep it. Plenty more quarters where that came from.",
+            "translated": "~z~Fine, keep it. Plenty more quarters where that came from.",
+            "desc": ""
+        },
+        {
+            "hash": 4227280247,
+            "original": "~z~I don't know you.",
+            "translated": "~z~我不认识你。",
+            "desc": ""
+        },
+        {
+            "hash": 4227397968,
+            "original": "R14_A_AC",
+            "translated": "R14_A_AC",
+            "desc": ""
+        },
+        {
+            "hash": 4272829472,
+            "original": "R14_SA",
+            "translated": "R14_SA",
+            "desc": ""
+        }
+    ]
+}

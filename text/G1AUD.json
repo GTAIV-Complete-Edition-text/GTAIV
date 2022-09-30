@@ -1,0 +1,1702 @@
+{
+    "G1AUD": [
+        {
+            "hash": 17650934,
+            "original": "~z~If I get out of this, punks like Dimitri Rascalov are going to wish they never got off the boat here.",
+            "translated": "~z~要是我活下来了，Dimitri Rascalov这种混蛋就要后悔自己乘船来这儿了。",
+            "desc": ""
+        },
+        {
+            "hash": 34070230,
+            "original": "SFX_PAUSE_4000",
+            "translated": "SFX_PAUSE_4000",
+            "desc": ""
+        },
+        {
+            "hash": 34644113,
+            "original": "~z~When I'm done at the podium, Mayor Ochoa is going to be dedicating half his annual budget to cleaning this problem up.",
+            "translated": "~z~演讲结束后，Ochoa市长肯定会把财年预算的一半拿出来解决这个问题。",
+            "desc": ""
+        },
+        {
+            "hash": 46206884,
+            "original": "~z~This isn't City Hall.",
+            "translated": "~z~市政厅还没到。",
+            "desc": ""
+        },
+        {
+            "hash": 47557719,
+            "original": "G1_A_DC",
+            "translated": "G1_A_DC",
+            "desc": ""
+        },
+        {
+            "hash": 53552147,
+            "original": "G1_YO",
+            "translated": "G1_YO",
+            "desc": ""
+        },
+        {
+            "hash": 75818849,
+            "original": "~z~You did good. Heard you had some trouble along the way.",
+            "translated": "~z~干得漂亮。听说你路上遇到了麻烦。",
+            "desc": ""
+        },
+        {
+            "hash": 120736487,
+            "original": "~z~Isn't that the famous American dream?",
+            "translated": "~z~那不就是著名的美国梦吗？",
+            "desc": ""
+        },
+        {
+            "hash": 132249687,
+            "original": "~z~You are quite a popular man, Mr. Jefferson.",
+            "translated": "~z~你可真受欢迎，Jefferson先生。",
+            "desc": ""
+        },
+        {
+            "hash": 132486660,
+            "original": "~z~Sure.",
+            "translated": "~z~明白。",
+            "desc": ""
+        },
+        {
+            "hash": 183874532,
+            "original": "SFX_PAUSE_4000",
+            "translated": "SFX_PAUSE_4000",
+            "desc": ""
+        },
+        {
+            "hash": 196185764,
+            "original": "~z~Don't go too far.",
+            "translated": "~z~别走太远。",
+            "desc": ""
+        },
+        {
+            "hash": 243434591,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 248234228,
+            "original": "SFX_PAUSE_4000",
+            "translated": "SFX_PAUSE_4000",
+            "desc": ""
+        },
+        {
+            "hash": 255808934,
+            "original": "G1_AA",
+            "translated": "G1_AA",
+            "desc": ""
+        },
+        {
+            "hash": 291153907,
+            "original": "~z~So you're the one who's getting involved with that nonsense for my...",
+            "translated": "~z~看来你就是那个助纣为虐的人，协助了...",
+            "desc": ""
+        },
+        {
+            "hash": 294485245,
+            "original": "G1_ZC",
+            "translated": "G1_ZC",
+            "desc": ""
+        },
+        {
+            "hash": 301485578,
+            "original": "~z~Clock the fire escape.",
+            "translated": "~z~防火梯上面。",
+            "desc": ""
+        },
+        {
+            "hash": 302093372,
+            "original": "~z~And I care about my legacy.",
+            "translated": "~z~我还在乎我的遗产。",
+            "desc": ""
+        },
+        {
+            "hash": 303210314,
+            "original": "~z~Okay. Good. What do you want me to do?",
+            "translated": "~z~好吧。行。你想让我做什么？",
+            "desc": ""
+        },
+        {
+            "hash": 308629134,
+            "original": "G1_EA",
+            "translated": "G1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 320895260,
+            "original": "~z~They won't stop at anything, these people.",
+            "translated": "~z~他们这些人不会善罢甘休的。",
+            "desc": ""
+        },
+        {
+            "hash": 331288204,
+            "original": "~z~Alright Jon, I'll come see you after the speech.",
+            "translated": "~z~好吧，Jon，演讲完毕之后我来找你。",
+            "desc": ""
+        },
+        {
+            "hash": 335528536,
+            "original": "G1_A_BC",
+            "translated": "G1_A_BC",
+            "desc": ""
+        },
+        {
+            "hash": 360096302,
+            "original": "~z~You need to stick to me.",
+            "translated": "~z~你得跟着我。",
+            "desc": ""
+        },
+        {
+            "hash": 404586349,
+            "original": "~z~I just got a call from Bobby Jefferson's people",
+            "translated": "~z~Bobby Jefferson的人刚给我打了电话，",
+            "desc": ""
+        },
+        {
+            "hash": 418639466,
+            "original": "~z~The American dream's a fairy tale. It was never meant to be taken literally.",
+            "translated": "~z~美国梦就是一个童话，永远不可能真正实现。",
+            "desc": ""
+        },
+        {
+            "hash": 419304998,
+            "original": "G1_ZE",
+            "translated": "G1_ZE",
+            "desc": ""
+        },
+        {
+            "hash": 420788084,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 422022034,
+            "original": "~z~They don't respect anything.",
+            "translated": "~z~他们目中无人，什么都不在乎。",
+            "desc": ""
+        },
+        {
+            "hash": 423383090,
+            "original": "G1_A_BD",
+            "translated": "G1_A_BD",
+            "desc": ""
+        },
+        {
+            "hash": 425443981,
+            "original": "190190190190190190190190190190190190190190190190190190190",
+            "translated": "190190190190190190190190190190190190190190190190190190190",
+            "desc": ""
+        },
+        {
+            "hash": 432028089,
+            "original": "~z~Niko Bellic, right?",
+            "translated": "~z~Niko Bellic是吧？",
+            "desc": ""
+        },
+        {
+            "hash": 441782270,
+            "original": "100100010",
+            "translated": "100100010",
+            "desc": ""
+        },
+        {
+            "hash": 448171787,
+            "original": "G1_XB",
+            "translated": "G1_XB",
+            "desc": ""
+        },
+        {
+            "hash": 480439064,
+            "original": "G1_HA",
+            "translated": "G1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 502280573,
+            "original": "~z~Yeah, well uh... you know...",
+            "translated": "~z~是啊，呃，你懂的...",
+            "desc": ""
+        },
+        {
+            "hash": 517970312,
+            "original": "G1_A_CF",
+            "translated": "G1_A_CF",
+            "desc": ""
+        },
+        {
+            "hash": 527538081,
+            "original": "G1_XC",
+            "translated": "G1_XC",
+            "desc": ""
+        },
+        {
+            "hash": 542718935,
+            "original": "~z~A good friend of mine is coming into town to give a speech",
+            "translated": "~z~我的一位好友要在城里演讲。",
+            "desc": ""
+        },
+        {
+            "hash": 550942287,
+            "original": "G1_QA",
+            "translated": "G1_QA",
+            "desc": ""
+        },
+        {
+            "hash": 564061248,
+            "original": "G1_WB",
+            "translated": "G1_WB",
+            "desc": ""
+        },
+        {
+            "hash": 569410735,
+            "original": "010100100100010",
+            "translated": "010100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 581646243,
+            "original": "G1_A_CB",
+            "translated": "G1_A_CB",
+            "desc": ""
+        },
+        {
+            "hash": 585608421,
+            "original": "G1_ZA",
+            "translated": "G1_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 597917347,
+            "original": "~z~Let's go down this alleyway. Find a vehicle.",
+            "translated": "~z~我们沿着这条小巷走吧，找辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 604891696,
+            "original": "G1_YK",
+            "translated": "G1_YK",
+            "desc": ""
+        },
+        {
+            "hash": 605217203,
+            "original": "G1_A_BH",
+            "translated": "G1_A_BH",
+            "desc": ""
+        },
+        {
+            "hash": 611795987,
+            "original": "~z~being brought here from wherever it is he's hiding,",
+            "translated": "~z~从天涯海角给你送过来，",
+            "desc": ""
+        },
+        {
+            "hash": 621663293,
+            "original": "~z~Where're you going?",
+            "translated": "~z~你去哪儿？",
+            "desc": ""
+        },
+        {
+            "hash": 624377307,
+            "original": "G1_A_CA",
+            "translated": "G1_A_CA",
+            "desc": ""
+        },
+        {
+            "hash": 629469087,
+            "original": "G1_A_BB",
+            "translated": "G1_A_BB",
+            "desc": ""
+        },
+        {
+            "hash": 643898360,
+            "original": "~z~telling me that you were too busy screwing around to get him to City Hall?",
+            "translated": "~z~说你忙着搞破坏，没空送他去市政厅？",
+            "desc": ""
+        },
+        {
+            "hash": 653939757,
+            "original": "~z~Yeah, that's me.",
+            "translated": "~z~对，是我。",
+            "desc": ""
+        },
+        {
+            "hash": 665874617,
+            "original": "G1_ZO",
+            "translated": "G1_ZO",
+            "desc": ""
+        },
+        {
+            "hash": 671426893,
+            "original": "~z~If I get my hands on these bastards...",
+            "translated": "~z~如果我抓住这些混蛋...",
+            "desc": ""
+        },
+        {
+            "hash": 692942598,
+            "original": "G1_A_DA",
+            "translated": "G1_A_DA",
+            "desc": ""
+        },
+        {
+            "hash": 726886758,
+            "original": "G1_RD",
+            "translated": "G1_RD",
+            "desc": ""
+        },
+        {
+            "hash": 728874301,
+            "original": "G1_MA",
+            "translated": "G1_MA",
+            "desc": ""
+        },
+        {
+            "hash": 757263025,
+            "original": "G1_RB",
+            "translated": "G1_RB",
+            "desc": ""
+        },
+        {
+            "hash": 785267699,
+            "original": "~z~You can always rely on those Russians to try something.",
+            "translated": "~z~总能指望那些俄国人来点新花样。",
+            "desc": ""
+        },
+        {
+            "hash": 786941153,
+            "original": "~z~half the LCPD will be learning Russian and patrolling Hove Beach.",
+            "translated": "~z~LCPD有一半都会学俄语，在Hove Beach巡逻。",
+            "desc": ""
+        },
+        {
+            "hash": 805478646,
+            "original": "~z~Well, we both watch out for one another then. We wouldn't survive in this shitty world if we didn't.",
+            "translated": "~z~我们互相照应，才能在这个糟糕的世界生存下去。",
+            "desc": ""
+        },
+        {
+            "hash": 809813911,
+            "original": "~z~Don't mention it.",
+            "translated": "~z~别提了。",
+            "desc": ""
+        },
+        {
+            "hash": 831359735,
+            "original": "SFX_PAUSE_4000",
+            "translated": "SFX_PAUSE_4000",
+            "desc": ""
+        },
+        {
+            "hash": 843976535,
+            "original": "~z~I don't know who you are, but you got me here.",
+            "translated": "~z~我不知道你是谁，但你护送我到这儿了。",
+            "desc": ""
+        },
+        {
+            "hash": 851763374,
+            "original": "~z~Switzerland or some shit.",
+            "translated": "~z~不论瑞士还是哪里。",
+            "desc": ""
+        },
+        {
+            "hash": 862336514,
+            "original": "~z~Hey, fucking around's a full time job.",
+            "translated": "~z~嘿，搞破坏可是全职工作。",
+            "desc": ""
+        },
+        {
+            "hash": 880833314,
+            "original": "~z~I don't have time for this.",
+            "translated": "~z~我没空等在这里。",
+            "desc": ""
+        },
+        {
+            "hash": 917858409,
+            "original": "100010100100010100",
+            "translated": "100010100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 958095631,
+            "original": "~z~he's being blackmailed.",
+            "translated": "~z~他被勒索了。",
+            "desc": ""
+        },
+        {
+            "hash": 959627936,
+            "original": "100100010100100100",
+            "translated": "100100010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 973168616,
+            "original": "G1_MB",
+            "translated": "G1_MB",
+            "desc": ""
+        },
+        {
+            "hash": 978200619,
+            "original": "G1_A_DB",
+            "translated": "G1_A_DB",
+            "desc": ""
+        },
+        {
+            "hash": 991079980,
+            "original": "G1_AB",
+            "translated": "G1_AB",
+            "desc": ""
+        },
+        {
+            "hash": 1000723508,
+            "original": "G1_A_CE",
+            "translated": "G1_A_CE",
+            "desc": ""
+        },
+        {
+            "hash": 1068918398,
+            "original": "~z~The speech is fine, Jon. Before Mayor Ochoa knows it,",
+            "translated": "~z~演讲挺不错的，Jon。但仅限于Ochoa市长知道之前。",
+            "desc": ""
+        },
+        {
+            "hash": 1073223700,
+            "original": "G1_A_EA",
+            "translated": "G1_A_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1104728807,
+            "original": "~z~Kid, you are something else. I haven't had someone bust my balls like that in years.",
+            "translated": "~z~小子，你跟别人不同。我好多年没被人这么耍了。",
+            "desc": ""
+        },
+        {
+            "hash": 1120546821,
+            "original": "190190190190190190190190190190190190190190190190190",
+            "translated": "190190190190190190190190190190190190190190190190190",
+            "desc": ""
+        },
+        {
+            "hash": 1130150940,
+            "original": "~z~We're not on a sightseeing tour. Get back to the convoy.",
+            "translated": "~z~我们不是来观光的。回到车队里。",
+            "desc": ""
+        },
+        {
+            "hash": 1134430035,
+            "original": "~z~I guess we keep making the same mistakes no matter how old we get. Goodbye.",
+            "translated": "~z~看来不论年纪多大，都会犯同样的错误。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1178389012,
+            "original": "~z~Check down the street.",
+            "translated": "~z~注意路上。",
+            "desc": ""
+        },
+        {
+            "hash": 1198786120,
+            "original": "~z~Stay close if you want to survive.",
+            "translated": "~z~如果想活下来就跟紧。",
+            "desc": ""
+        },
+        {
+            "hash": 1214196785,
+            "original": "~z~I'll explain that important cultural difference to one of these Russian gangsters if our paths cross.",
+            "translated": "~z~再遇上的话，我可要好好给某个俄国黑道解释下重要的文化差异。",
+            "desc": ""
+        },
+        {
+            "hash": 1225918400,
+            "original": "~z~and I still care, care how I look,",
+            "translated": "~z~我还在乎，在乎我的形象，",
+            "desc": ""
+        },
+        {
+            "hash": 1226647138,
+            "original": "SFX_PAUSE_4000",
+            "translated": "SFX_PAUSE_4000",
+            "desc": ""
+        },
+        {
+            "hash": 1231725036,
+            "original": "G1_RA",
+            "translated": "G1_RA",
+            "desc": ""
+        },
+        {
+            "hash": 1252607359,
+            "original": "~z~I'm gonna go and move the barriers.",
+            "translated": "~z~我先过去把路障移开。",
+            "desc": ""
+        },
+        {
+            "hash": 1261762863,
+            "original": "SFX_PAUSE_4000",
+            "translated": "SFX_PAUSE_4000",
+            "desc": ""
+        },
+        {
+            "hash": 1263928712,
+            "original": "~z~By them damn Russians.",
+            "translated": "~z~该死的俄国人干的。",
+            "desc": ""
+        },
+        {
+            "hash": 1264104224,
+            "original": "~z~That's it.",
+            "translated": "~z~就这样。",
+            "desc": ""
+        },
+        {
+            "hash": 1285131987,
+            "original": "~z~it's ridiculous.",
+            "translated": "~z~太荒唐了。",
+            "desc": ""
+        },
+        {
+            "hash": 1293096002,
+            "original": "~z~Thank you.",
+            "translated": "~z~谢谢你。",
+            "desc": ""
+        },
+        {
+            "hash": 1298673255,
+            "original": "G1_RE",
+            "translated": "G1_RE",
+            "desc": ""
+        },
+        {
+            "hash": 1321629391,
+            "original": "~z~I can't believe they're trying this.",
+            "translated": "~z~简直不敢相信他们居然尝试这样做。",
+            "desc": ""
+        },
+        {
+            "hash": 1361146232,
+            "original": "~z~You made a dying man smile,",
+            "translated": "~z~你让一个将死之人笑了，",
+            "desc": ""
+        },
+        {
+            "hash": 1370793286,
+            "original": "~z~Don't say that, Jon. You'll be feeling like a teenager again in no time.",
+            "translated": "~z~别这么说，Jon。马上你就会感到如获新生了。",
+            "desc": ""
+        },
+        {
+            "hash": 1440238468,
+            "original": "G1_YM",
+            "translated": "G1_YM",
+            "desc": ""
+        },
+        {
+            "hash": 1452585574,
+            "original": "~z~dear friend James Pegorino.",
+            "translated": "~z~我亲爱的朋友James Pegorino。",
+            "desc": ""
+        },
+        {
+            "hash": 1476069289,
+            "original": "~z~I hadn't been in a fire fight since my army days.",
+            "translated": "~z~从军队退伍以后我就没参与过枪战了。",
+            "desc": ""
+        },
+        {
+            "hash": 1509090322,
+            "original": "~z~Another road block, this definitely wasn't mentioned on the traffic report.",
+            "translated": "~z~这里也封了，之前的路况报告肯定没写这个。",
+            "desc": ""
+        },
+        {
+            "hash": 1533853946,
+            "original": "~z~Get back in the car.",
+            "translated": "~z~回到车上。",
+            "desc": ""
+        },
+        {
+            "hash": 1543856837,
+            "original": "~z~Goes to show, some immigrants have the best interest of the country in their hearts.",
+            "translated": "~z~恰好说明，一些移民是真心在为国家利益着想。",
+            "desc": ""
+        },
+        {
+            "hash": 1547900871,
+            "original": "SFX_PAUSE_4000",
+            "translated": "SFX_PAUSE_4000",
+            "desc": ""
+        },
+        {
+            "hash": 1562344239,
+            "original": "~z~Jon, you sound terrible.",
+            "translated": "~z~Jon，你的声音听起来很糟糕。",
+            "desc": ""
+        },
+        {
+            "hash": 1578556158,
+            "original": "G1_A_BE",
+            "translated": "G1_A_BE",
+            "desc": ""
+        },
+        {
+            "hash": 1587869255,
+            "original": "G1_A_AA",
+            "translated": "G1_A_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1597759842,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 1636649047,
+            "original": "~z~Here.",
+            "translated": "~z~这边。",
+            "desc": ""
+        },
+        {
+            "hash": 1655761587,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1679910649,
+            "original": "010100100100",
+            "translated": "010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 1702113781,
+            "original": "~z~Yeah, all the best.",
+            "translated": "~z~是啊，祝一切顺利。",
+            "desc": ""
+        },
+        {
+            "hash": 1730094976,
+            "original": "~z~Courage under fire.",
+            "translated": "~z~生死豪情。",
+            "desc": ""
+        },
+        {
+            "hash": 1737714581,
+            "original": "~z~Take a deep breath, Jon.",
+            "translated": "~z~深呼吸，Jon。",
+            "desc": ""
+        },
+        {
+            "hash": 1746565834,
+            "original": "200020200020",
+            "translated": "200020200020",
+            "desc": ""
+        },
+        {
+            "hash": 1777633132,
+            "original": "G1_DA",
+            "translated": "G1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1793902101,
+            "original": "~z~Let me tell you - that faggot friend of yours, Bernie Crane?",
+            "translated": "~z~我告诉你，你那个死基佬朋友，Bernie Crane？",
+            "desc": ""
+        },
+        {
+            "hash": 1817973202,
+            "original": "G1_GB",
+            "translated": "G1_GB",
+            "desc": ""
+        },
+        {
+            "hash": 1839010939,
+            "original": "G1_A_FA",
+            "translated": "G1_A_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1846268071,
+            "original": "G1_A_CD",
+            "translated": "G1_A_CD",
+            "desc": ""
+        },
+        {
+            "hash": 1848956813,
+            "original": "~z~on the new threat to Liberty City -",
+            "translated": "~z~主题是自由城的新威胁——",
+            "desc": ""
+        },
+        {
+            "hash": 1859898515,
+            "original": "~z~His boyfriend...",
+            "translated": "~z~他的男友...",
+            "desc": ""
+        },
+        {
+            "hash": 1863406950,
+            "original": "~z~Come on. Keep close.",
+            "translated": "~z~来啊，跟上。",
+            "desc": ""
+        },
+        {
+            "hash": 1867165130,
+            "original": "~z~but don't think about screwing up or screwing with me again, or we'll have a real problem.",
+            "translated": "~z~但是别再想着搞破坏或者搞我了，否则就要追悔莫及了。",
+            "desc": ""
+        },
+        {
+            "hash": 1883183289,
+            "original": "~z~Easy boy.",
+            "translated": "~z~放松，小子。",
+            "desc": ""
+        },
+        {
+            "hash": 1914234338,
+            "original": "~z~I'm going to bring up everything we discussed.",
+            "translated": "~z~我们讨论过的所有内容都会提到。",
+            "desc": ""
+        },
+        {
+            "hash": 1917902525,
+            "original": "~z~He's coming in from upstate.",
+            "translated": "~z~他要从郊区过来。",
+            "desc": ""
+        },
+        {
+            "hash": 1958997700,
+            "original": "~z~-I don't know what the...~n~-Spare me, please,",
+            "translated": "~z~－你在说什...~n~－饶了我吧！",
+            "desc": ""
+        },
+        {
+            "hash": 1996704871,
+            "original": "G1_ZG",
+            "translated": "G1_ZG",
+            "desc": ""
+        },
+        {
+            "hash": 2005132451,
+            "original": "~z~All people. Even you, even me, an old man facing the end...",
+            "translated": "~z~所有人。不管是你还是我－一个垂死的老人...",
+            "desc": ""
+        },
+        {
+            "hash": 2026115387,
+            "original": "G1_IA",
+            "translated": "G1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2040700862,
+            "original": "G1_MA",
+            "translated": "G1_MA",
+            "desc": ""
+        },
+        {
+            "hash": 2041346448,
+            "original": "~z~Stay in convoy with us all the way to City Hall, alright?",
+            "translated": "~z~和我们在同一车队里前往市政厅，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2047619506,
+            "original": "~z~They're coming up the road.",
+            "translated": "~z~他们从路那边来了！",
+            "desc": ""
+        },
+        {
+            "hash": 2047748482,
+            "original": "~z~You think you know a better route?",
+            "translated": "~z~你比车队认识路？",
+            "desc": ""
+        },
+        {
+            "hash": 2051697204,
+            "original": "~z~care that when I shit myself, the pretty nurse has to clean it up...",
+            "translated": "~z~在乎我屎拉身上的时候，漂亮护士还得来收拾干净...",
+            "desc": ""
+        },
+        {
+            "hash": 2070782449,
+            "original": "SFX_PAUSE_4000",
+            "translated": "SFX_PAUSE_4000",
+            "desc": ""
+        },
+        {
+            "hash": 2070835712,
+            "original": "~z~Russian organized crime.",
+            "translated": "~z~俄国犯罪组织。",
+            "desc": ""
+        },
+        {
+            "hash": 2144500160,
+            "original": "~z~He'll be at Grand Easton Terminal on Bismarck.",
+            "translated": "~z~他会在Bismarck的Grand Easton车站。",
+            "desc": ""
+        },
+        {
+            "hash": 2177113850,
+            "original": "~z~In Europe the politicians are as crooked as the gangsters.",
+            "translated": "~z~在欧洲，政治家和黑帮一样奸诈。",
+            "desc": ""
+        },
+        {
+            "hash": 2186279503,
+            "original": "G1_A_CC",
+            "translated": "G1_A_CC",
+            "desc": ""
+        },
+        {
+            "hash": 2260176245,
+            "original": "~z~You ain't gonna hear no speech at City Hall today.",
+            "translated": "~z~今天市政厅不会有演讲了。",
+            "desc": ""
+        },
+        {
+            "hash": 2267794140,
+            "original": "~z~They come to this country and think that it's for the taking.",
+            "translated": "~z~他们来到这个国家，自认为是来赚钱的。",
+            "desc": ""
+        },
+        {
+            "hash": 2268949955,
+            "original": "G1_XF",
+            "translated": "G1_XF",
+            "desc": ""
+        },
+        {
+            "hash": 2283809710,
+            "original": "~z~Thanks for the advice.",
+            "translated": "~z~感谢你的忠告。",
+            "desc": ""
+        },
+        {
+            "hash": 2292354180,
+            "original": "~z~I got a feeling some people ain't gonna want that speech to happen.",
+            "translated": "~z~我有预感，有些人不想让演讲顺利进行。",
+            "desc": ""
+        },
+        {
+            "hash": 2295346085,
+            "original": "G1_WA",
+            "translated": "G1_WA",
+            "desc": ""
+        },
+        {
+            "hash": 2300994532,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2311395526,
+            "original": "~z~Uh, someone here to see you.",
+            "translated": "~z~呃，有个人找你。",
+            "desc": ""
+        },
+        {
+            "hash": 2322787879,
+            "original": "~z~John's boys better get me out of this.",
+            "translated": "~z~Jon手下的伙计们最好帮我摆脱这一切。",
+            "desc": ""
+        },
+        {
+            "hash": 2340041318,
+            "original": "~z~American gangsters like Jon Gravelli understand the way life works, they get the limits of their power.",
+            "translated": "~z~像Jon Gravelli这样的美国黑道了解人生的规律，他们知道自己的能力是有极限的。",
+            "desc": ""
+        },
+        {
+            "hash": 2345824757,
+            "original": "~z~You guys waiting for me?",
+            "translated": "~z~你们在等我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2371460239,
+            "original": "~z~Those are the wonders of modern medicine.",
+            "translated": "~z~这都是现代医学的奇迹。",
+            "desc": ""
+        },
+        {
+            "hash": 2386105870,
+            "original": "~z~Hostiles on the roof.",
+            "translated": "~z~屋顶有敌人。",
+            "desc": ""
+        },
+        {
+            "hash": 2406400028,
+            "original": "G1_YJ",
+            "translated": "G1_YJ",
+            "desc": ""
+        },
+        {
+            "hash": 2408681310,
+            "original": "~z~So it might as well be me.",
+            "translated": "~z~那还是我来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2414024033,
+            "original": "~z~thank you. It made me laugh...",
+            "translated": "~z~谢谢。我听得笑死了...",
+            "desc": ""
+        },
+        {
+            "hash": 2440091719,
+            "original": "~z~Where do you think you're going?",
+            "translated": "~z~你这是想往哪儿开？",
+            "desc": ""
+        },
+        {
+            "hash": 2455114979,
+            "original": "~z~I know, it's a terrible tragedy.",
+            "translated": "~z~我知道，实在是悲剧啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2487927815,
+            "original": "~z~Yeah, sure. You are as clean as the driven snow.",
+            "translated": "~z~对，没错。您可就一清二白了。",
+            "desc": ""
+        },
+        {
+            "hash": 2490701765,
+            "original": "~z~These Russian fucking bastards are trying to finish us.",
+            "translated": "~z~这些俄国混帐东西想消灭我们。",
+            "desc": ""
+        },
+        {
+            "hash": 2506311804,
+            "original": "SFX_PAUSE_4000",
+            "translated": "SFX_PAUSE_4000",
+            "desc": ""
+        },
+        {
+            "hash": 2523211785,
+            "original": "~z~Maybe the guy you love, this Dimitri Rascalov, has an interest in keeping this story out the press.",
+            "translated": "~z~或许你最爱的这个Dimitri Rascalov就不太想让这件事见诸报端。",
+            "desc": ""
+        },
+        {
+            "hash": 2549295490,
+            "original": "~z~Up on the roof.",
+            "translated": "~z~屋顶上面。",
+            "desc": ""
+        },
+        {
+            "hash": 2577125269,
+            "original": "G1_YA",
+            "translated": "G1_YA",
+            "desc": ""
+        },
+        {
+            "hash": 2582325617,
+            "original": "~z~My pleasure.",
+            "translated": "~z~不客气。",
+            "desc": ""
+        },
+        {
+            "hash": 2612172821,
+            "original": "G1_XD",
+            "translated": "G1_XD",
+            "desc": ""
+        },
+        {
+            "hash": 2614750989,
+            "original": "G1_AE",
+            "translated": "G1_AE",
+            "desc": ""
+        },
+        {
+            "hash": 2618277211,
+            "original": "~z~C'mon.",
+            "translated": "~z~来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2639919181,
+            "original": "~z~Over there.",
+            "translated": "~z~在那边。",
+            "desc": ""
+        },
+        {
+            "hash": 2662390223,
+            "original": "~z~I'll talk to you later.",
+            "translated": "~z~待会儿再跟你聊。",
+            "desc": ""
+        },
+        {
+            "hash": 2688725184,
+            "original": "~z~Yes.",
+            "translated": "~z~是的。",
+            "desc": ""
+        },
+        {
+            "hash": 2702465580,
+            "original": "G1_A_BG",
+            "translated": "G1_A_BG",
+            "desc": ""
+        },
+        {
+            "hash": 2752710949,
+            "original": "~z~I feel safe here when I know I've got your people looking out for me.",
+            "translated": "~z~知道是你的人在保护我时，我感到很安全。",
+            "desc": ""
+        },
+        {
+            "hash": 2755488742,
+            "original": "G1_A_BA",
+            "translated": "G1_A_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2761701743,
+            "original": "~z~But if it wasn't me, it would just be someone else.",
+            "translated": "~z~就算没有我，也会有别的王朝。",
+            "desc": ""
+        },
+        {
+            "hash": 2779789883,
+            "original": "~z~What do you want me to do about it?",
+            "translated": "~z~对此你想让我怎么做？",
+            "desc": ""
+        },
+        {
+            "hash": 2784940345,
+            "original": "~z~I'm here to see Mr. Gravelli. I was sent by a mutual friend.",
+            "translated": "~z~我来找Gravelli先生，是一个旧相识派我来的。",
+            "desc": ""
+        },
+        {
+            "hash": 2787414535,
+            "original": "100100010100100100010010",
+            "translated": "100100010100100100010010",
+            "desc": ""
+        },
+        {
+            "hash": 2790303061,
+            "original": "SFX_PAUSE_4000",
+            "translated": "SFX_PAUSE_4000",
+            "desc": ""
+        },
+        {
+            "hash": 2797195359,
+            "original": "G1_QB",
+            "translated": "G1_QB",
+            "desc": ""
+        },
+        {
+            "hash": 2813922877,
+            "original": "~z~You've got to get us to the Civic Citadel.",
+            "translated": "~z~你一定要把我送到市政厅。",
+            "desc": ""
+        },
+        {
+            "hash": 2814147006,
+            "original": "~z~I'll tell Jon you did well.",
+            "translated": "~z~干得不错，我会告诉Jon的。",
+            "desc": ""
+        },
+        {
+            "hash": 2825270877,
+            "original": "100100100",
+            "translated": "100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2853072328,
+            "original": "290290",
+            "translated": "290290",
+            "desc": ""
+        },
+        {
+            "hash": 2857701678,
+            "original": "~z~That's when the people from abroad smell weakness.",
+            "translated": "~z~这是外国人准备趁虚而入的情况。",
+            "desc": ""
+        },
+        {
+            "hash": 2870310088,
+            "original": "G1_YC",
+            "translated": "G1_YC",
+            "desc": ""
+        },
+        {
+            "hash": 2870826560,
+            "original": "~z~I expected better from a man with your reputation.",
+            "translated": "~z~我对你的大名可没有那么低的预期。",
+            "desc": ""
+        },
+        {
+            "hash": 2874838767,
+            "original": "~z~Control yourself.",
+            "translated": "~z~别乱开车。",
+            "desc": ""
+        },
+        {
+            "hash": 2875868595,
+            "original": "~z~The police have a file on you an inch thick... in exchange for that...",
+            "translated": "~z~你30厘米厚的警方档案...这就是报酬...",
+            "desc": ""
+        },
+        {
+            "hash": 2896223005,
+            "original": "~z~Jon. How are you?",
+            "translated": "~z~Jon，你还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2904342193,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 2913013927,
+            "original": "~z~Come on, cowboy. Get back in line.",
+            "translated": "~z~拜托，牛仔。别离开车队。",
+            "desc": ""
+        },
+        {
+            "hash": 2935058228,
+            "original": "G1_RC",
+            "translated": "G1_RC",
+            "desc": ""
+        },
+        {
+            "hash": 2938370489,
+            "original": "~z~They don't understand that things are different here.",
+            "translated": "~z~他们不知道这里另有一套规矩。",
+            "desc": ""
+        },
+        {
+            "hash": 2950413832,
+            "original": "~z~How are we supposed to compete with these immigrant criminals when they want it so bad?",
+            "translated": "~z~这些移民犯罪者如狼似虎，我们怎么可能打得过？",
+            "desc": ""
+        },
+        {
+            "hash": 2956408876,
+            "original": "~z~Thank Jon Gravelli, he's the one paying me to be here.",
+            "translated": "~z~是Jon Gravelli，他付钱让我来的。",
+            "desc": ""
+        },
+        {
+            "hash": 2968396507,
+            "original": "~z~Jon. It's great to be back in Liberty City.",
+            "translated": "~z~Jon，回到自由城的感觉真好。",
+            "desc": ""
+        },
+        {
+            "hash": 2969816877,
+            "original": "G1_YI",
+            "translated": "G1_YI",
+            "desc": ""
+        },
+        {
+            "hash": 3005439056,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3014914492,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 3019234694,
+            "original": "~z~People are so damn vain.",
+            "translated": "~z~现在人太虚荣了。",
+            "desc": ""
+        },
+        {
+            "hash": 3057673183,
+            "original": "~z~Follow me, Mr Jefferson.",
+            "translated": "~z~跟着我，Jefferson先生。",
+            "desc": ""
+        },
+        {
+            "hash": 3066092984,
+            "original": "~z~and take control of rackets my family has run for fifty years.",
+            "translated": "~z~就想夺取我的家族五十年来的江山。",
+            "desc": ""
+        },
+        {
+            "hash": 3066888619,
+            "original": "G1_UB",
+            "translated": "G1_UB",
+            "desc": ""
+        },
+        {
+            "hash": 3074181692,
+            "original": "G1_XA",
+            "translated": "G1_XA",
+            "desc": ""
+        },
+        {
+            "hash": 3080489671,
+            "original": "G1_YQ",
+            "translated": "G1_YQ",
+            "desc": ""
+        },
+        {
+            "hash": 3085950650,
+            "original": "~z~They want him to put certain contracts up for tender,",
+            "translated": "~z~他们想逼他拿出某些合同招标，",
+            "desc": ""
+        },
+        {
+            "hash": 3106136354,
+            "original": "~z~windows, bus lines, cleaning. Ones we control.",
+            "translated": "~z~擦窗，公交，环卫。我们的蛋糕。",
+            "desc": ""
+        },
+        {
+            "hash": 3122516620,
+            "original": "~z~You're working with me, aren't you Mr. Gravelli? See you later.",
+            "translated": "~z~你跟我联手了，不是吗，Gravelli先生？回头见。",
+            "desc": ""
+        },
+        {
+            "hash": 3143061906,
+            "original": "G1_XE",
+            "translated": "G1_XE",
+            "desc": ""
+        },
+        {
+            "hash": 3149401249,
+            "original": "G1_UA",
+            "translated": "G1_UA",
+            "desc": ""
+        },
+        {
+            "hash": 3166058184,
+            "original": "G1_QD",
+            "translated": "G1_QD",
+            "desc": ""
+        },
+        {
+            "hash": 3169745378,
+            "original": "~z~What do you mean? Bobby Jefferson is dead?",
+            "translated": "~z~你什么意思？Bobby Jefferson死了？",
+            "desc": ""
+        },
+        {
+            "hash": 3171856983,
+            "original": "~z~This is a city vehicle.",
+            "translated": "~z~这是公家的车。",
+            "desc": ""
+        },
+        {
+            "hash": 3175542824,
+            "original": "~z~Some people.",
+            "translated": "~z~部分吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3194661430,
+            "original": "SFX_PAUSE_4000",
+            "translated": "SFX_PAUSE_4000",
+            "desc": ""
+        },
+        {
+            "hash": 3224864114,
+            "original": "~z~I'm an old man.",
+            "translated": "~z~我是个老头了。",
+            "desc": ""
+        },
+        {
+            "hash": 3227329820,
+            "original": "SFX_PAUSE_4000",
+            "translated": "SFX_PAUSE_4000",
+            "desc": ""
+        },
+        {
+            "hash": 3243895397,
+            "original": "G1_JA",
+            "translated": "G1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3259895211,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 3280967937,
+            "original": "G1_ZI",
+            "translated": "G1_ZI",
+            "desc": ""
+        },
+        {
+            "hash": 3285335305,
+            "original": "~z~We were driving with those other cars for a reason.",
+            "translated": "~z~选择车队同行不是没有原因的。",
+            "desc": ""
+        },
+        {
+            "hash": 3329254558,
+            "original": "~z~I don't know what I would have done if you hadn't held your head back there. Thank you, son.",
+            "translated": "~z~如果没有你在背后支持我，我甚至不知道事情会成什么样。谢谢你，小伙子。",
+            "desc": ""
+        },
+        {
+            "hash": 3343135754,
+            "original": "G1_ZK",
+            "translated": "G1_ZK",
+            "desc": ""
+        },
+        {
+            "hash": 3360395890,
+            "original": "~z~Oh course. I'm coming to see you as soon as I've delivered the speech.",
+            "translated": "~z~当然。演讲一结束我就来找你。",
+            "desc": ""
+        },
+        {
+            "hash": 3396179258,
+            "original": "G1_KA",
+            "translated": "G1_KA",
+            "desc": ""
+        },
+        {
+            "hash": 3410495178,
+            "original": "~z~You mean fifty years of you bleeding the city dry might finally come to an end?",
+            "translated": "~z~就是说你敲骨吸髓五十年的王朝，现在终于要崩塌了？",
+            "desc": ""
+        },
+        {
+            "hash": 3417023424,
+            "original": "G1_LA",
+            "translated": "G1_LA",
+            "desc": ""
+        },
+        {
+            "hash": 3426828987,
+            "original": "G1_YE",
+            "translated": "G1_YE",
+            "desc": ""
+        },
+        {
+            "hash": 3441603507,
+            "original": "G1_YS",
+            "translated": "G1_YS",
+            "desc": ""
+        },
+        {
+            "hash": 3458652369,
+            "original": "~z~This country is falling apart. There's no law anymore. Jesus.",
+            "translated": "~z~这个国家正在分崩离析，哪有什么法律可言，天哪。",
+            "desc": ""
+        },
+        {
+            "hash": 3485226930,
+            "original": "~z~Watch it.",
+            "translated": "~z~当心点。",
+            "desc": ""
+        },
+        {
+            "hash": 3537199939,
+            "original": "~z~More hostiles.",
+            "translated": "~z~又来了一批。",
+            "desc": ""
+        },
+        {
+            "hash": 3539340928,
+            "original": "~z~It looks like these men really want you dead, Mr. Jefferson.",
+            "translated": "~z~看来他们想来真的啊，Jefferson先生。",
+            "desc": ""
+        },
+        {
+            "hash": 3541877410,
+            "original": "~z~No Jon, if it's your problem, it's my problem as well.",
+            "translated": "~z~不，Jon。你的麻烦，那就是我的麻烦。",
+            "desc": ""
+        },
+        {
+            "hash": 3558247426,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3606394953,
+            "original": "~z~You see something?",
+            "translated": "~z~看见什么了？",
+            "desc": ""
+        },
+        {
+            "hash": 3613239777,
+            "original": "~z~in exchange for that guy you've been asking about",
+            "translated": "~z~还会把你一直在找的人",
+            "desc": ""
+        },
+        {
+            "hash": 3647950411,
+            "original": "~z~If you're going to try to take out a politician, you better take him out for sure.",
+            "translated": "~z~如果你想干掉一个政治家，最好能确保他死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3649330957,
+            "original": "G1_YG",
+            "translated": "G1_YG",
+            "desc": ""
+        },
+        {
+            "hash": 3656209365,
+            "original": "G1_A_BF",
+            "translated": "G1_A_BF",
+            "desc": ""
+        },
+        {
+            "hash": 3704612201,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 3709545072,
+            "original": "~z~I've worked hard for this, this line of work.",
+            "translated": "~z~我在这行拼了很久。",
+            "desc": ""
+        },
+        {
+            "hash": 3715685045,
+            "original": "G1_WD",
+            "translated": "G1_WD",
+            "desc": ""
+        },
+        {
+            "hash": 3720355715,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3756817500,
+            "original": "~z~That's what happens when you try taking control out of the hands of people like Jon Gravelli, I guess.",
+            "translated": "~z~当你尝试从Jon Gravelli这样的人手中夺走权力时，就会发生这种情况。",
+            "desc": ""
+        },
+        {
+            "hash": 3758379198,
+            "original": "G1_ZQ",
+            "translated": "G1_ZQ",
+            "desc": ""
+        },
+        {
+            "hash": 3778129279,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3782834988,
+            "original": "~z~Hold on a minute.",
+            "translated": "~z~你停一停。",
+            "desc": ""
+        },
+        {
+            "hash": 3786969229,
+            "original": "G1_AD",
+            "translated": "G1_AD",
+            "desc": ""
+        },
+        {
+            "hash": 3796153187,
+            "original": "~z~I want you to work with me.",
+            "translated": "~z~我想让你跟我干。",
+            "desc": ""
+        },
+        {
+            "hash": 3817759369,
+            "original": "~z~That was a mistake they didn't want to make.",
+            "translated": "~z~他们犯了不该犯的错误。",
+            "desc": ""
+        },
+        {
+            "hash": 3842426187,
+            "original": "~z~Make sure our boy gets to City Hall.",
+            "translated": "~z~确保我们的人到达市政厅。",
+            "desc": ""
+        },
+        {
+            "hash": 3897719491,
+            "original": "~z~They're on the stairs.",
+            "translated": "~z~他们在楼梯上。",
+            "desc": ""
+        },
+        {
+            "hash": 3907850956,
+            "original": "~z~Don't worry about me. You should be putting all your energy into getting better.",
+            "translated": "~z~别担心我。你还是专心对抗病魔吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3946548692,
+            "original": "~z~You've got to get us to the Civic Citadel.",
+            "translated": "~z~你一定要把我送到市政厅。",
+            "desc": ""
+        },
+        {
+            "hash": 3964237116,
+            "original": "SFX_PAUSE_4000",
+            "translated": "SFX_PAUSE_4000",
+            "desc": ""
+        },
+        {
+            "hash": 3971772870,
+            "original": "SFX_PAUSE_4000",
+            "translated": "SFX_PAUSE_4000",
+            "desc": ""
+        },
+        {
+            "hash": 3978769519,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 3989463191,
+            "original": "~z~I ain't got much time left.",
+            "translated": "~z~也时日无多了。",
+            "desc": ""
+        },
+        {
+            "hash": 4017735559,
+            "original": "~z~More Russians wanting to kill you, how about that?",
+            "translated": "~z~又是来杀你的俄国人，感觉如何啊？",
+            "desc": ""
+        },
+        {
+            "hash": 4020357102,
+            "original": "G1_ZP",
+            "translated": "G1_ZP",
+            "desc": ""
+        },
+        {
+            "hash": 4024291317,
+            "original": "~z~Now, some Russian assholes think they can march in",
+            "translated": "~z~现在一些俄国混蛋初来乍到",
+            "desc": ""
+        },
+        {
+            "hash": 4029028294,
+            "original": "G1_CA",
+            "translated": "G1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 4050993474,
+            "original": "~z~Mr. Gravelli. I took that friend of yours to City Hall. He should be giving his speech any minute.",
+            "translated": "~z~Gravelli先生。你那个朋友已经送到市政厅了。应该就要发表演讲了。",
+            "desc": ""
+        },
+        {
+            "hash": 4078133185,
+            "original": "~z~Eyes up.",
+            "translated": "~z~往上看。",
+            "desc": ""
+        },
+        {
+            "hash": 4083486642,
+            "original": "SFX_PAUSE_4000",
+            "translated": "SFX_PAUSE_4000",
+            "desc": ""
+        },
+        {
+            "hash": 4091413548,
+            "original": "~z~He doesn't want to start getting reckless with the lives of Liberty City voters.",
+            "translated": "~z~他不会想草菅自由城选民的命的。",
+            "desc": ""
+        },
+        {
+            "hash": 4098840440,
+            "original": "~z~In exchange for what?",
+            "translated": "~z~报酬是什么？",
+            "desc": ""
+        },
+        {
+            "hash": 4136395446,
+            "original": "~z~Our mutual friend told me everything.",
+            "translated": "~z~我们的旧相识都告诉我了。",
+            "desc": ""
+        },
+        {
+            "hash": 4136690692,
+            "original": "G1_QC",
+            "translated": "G1_QC",
+            "desc": ""
+        },
+        {
+            "hash": 4141609502,
+            "original": "G1_FA",
+            "translated": "G1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 4166457441,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4180606716,
+            "original": "~z~Driver, why is this road closed? Is there a problem?",
+            "translated": "~z~司机，路怎么封了？出什么状况了？",
+            "desc": ""
+        },
+        {
+            "hash": 4188705390,
+            "original": "G1_ZM",
+            "translated": "G1_ZM",
+            "desc": ""
+        },
+        {
+            "hash": 4224613391,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 4232655606,
+            "original": "G1_GA",
+            "translated": "G1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 4234867201,
+            "original": "~z~Get the client out of here. We'll hold these guys back.",
+            "translated": "~z~把我们的客人带走。我们来拖住这些人！",
+            "desc": ""
+        },
+        {
+            "hash": 4235752075,
+            "original": "~z~Up there.",
+            "translated": "~z~上面。",
+            "desc": ""
+        },
+        {
+            "hash": 4268413932,
+            "original": "~z~Come on, Mr. Jefferson. Let's get out of here.",
+            "translated": "~z~快走，Jefferson先生。赶紧离开这里。",
+            "desc": ""
+        },
+        {
+            "hash": 4268926278,
+            "original": "G1_A_GA",
+            "translated": "G1_A_GA",
+            "desc": ""
+        }
+    ]
+}

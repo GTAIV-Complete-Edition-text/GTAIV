@@ -1,0 +1,808 @@
+{
+    "PISAUD": [
+        {
+            "hash": 127313864,
+            "original": "~z~Honey, when you're in the fashion world you need to be in touch with the street.",
+            "translated": "~z~宝贝，当你处在潮流圈的时候，就是得接点地气。",
+            "desc": ""
+        },
+        {
+            "hash": 152060725,
+            "original": "~z~can you give me a ride home?",
+            "translated": "~z~你能载我回家吗？",
+            "desc": ""
+        },
+        {
+            "hash": 213129521,
+            "original": "PIS_CG",
+            "translated": "PIS_CG",
+            "desc": ""
+        },
+        {
+            "hash": 303355546,
+            "original": "~z~Well, that shows what you know.",
+            "translated": "~z~行吧，那体现了你的无知。",
+            "desc": ""
+        },
+        {
+            "hash": 352767695,
+            "original": "PIS_EC_QQQ1",
+            "translated": "PIS_EC_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 393045467,
+            "original": "PIS_FA",
+            "translated": "PIS_FA",
+            "desc": ""
+        },
+        {
+            "hash": 406687830,
+            "original": "~z~Men, always trying to prove themselves.",
+            "translated": "~z~男人啊，一直想证明自己。",
+            "desc": ""
+        },
+        {
+            "hash": 432071830,
+            "original": "~z~Listen,",
+            "translated": "~z~听着，",
+            "desc": ""
+        },
+        {
+            "hash": 451536964,
+            "original": "~z~No.",
+            "translated": "~z~没有。",
+            "desc": ""
+        },
+        {
+            "hash": 455597692,
+            "original": "PIS_BA",
+            "translated": "PIS_BA",
+            "desc": ""
+        },
+        {
+            "hash": 547929782,
+            "original": "~z~We met late at night?",
+            "translated": "~z~我们在深夜遇上的？",
+            "desc": ""
+        },
+        {
+            "hash": 558185659,
+            "original": "PIS_CI",
+            "translated": "PIS_CI",
+            "desc": ""
+        },
+        {
+            "hash": 578331926,
+            "original": "PIS_CC",
+            "translated": "PIS_CC",
+            "desc": ""
+        },
+        {
+            "hash": 620975723,
+            "original": "~z~Don't mention it.",
+            "translated": "~z~不客气。",
+            "desc": ""
+        },
+        {
+            "hash": 669031021,
+            "original": "~z~Dream about it.",
+            "translated": "~z~做梦吧。",
+            "desc": ""
+        },
+        {
+            "hash": 727733285,
+            "original": "~z~Mrs. recently divorced, guys with eyes on stalks... five hundred dollar shoes.",
+            "translated": "~z~最近刚离婚太太，男人眼睛长丁上...五百块的鞋。",
+            "desc": ""
+        },
+        {
+            "hash": 729090050,
+            "original": "~z~No, I don't.",
+            "translated": "~z~不，没有。",
+            "desc": ""
+        },
+        {
+            "hash": 748767400,
+            "original": "~z~You limp dick piece of shit.",
+            "translated": "~z~你个性无能的玩意。",
+            "desc": ""
+        },
+        {
+            "hash": 751878737,
+            "original": "PIS_DM",
+            "translated": "PIS_DM",
+            "desc": ""
+        },
+        {
+            "hash": 772369353,
+            "original": "~z~So, you normally get lifts off of strange men on the street?",
+            "translated": "~z~那，你经常这样搭陌生人的车吗？",
+            "desc": ""
+        },
+        {
+            "hash": 845169569,
+            "original": "~z~It's not like I was being sexually gratified. Impotent loser.",
+            "translated": "~z~感觉我的性需求完全得不到满足。性无能屌丝。",
+            "desc": ""
+        },
+        {
+            "hash": 858649280,
+            "original": "~z~I'm just here to get some stuff.",
+            "translated": "~z~我只是来这儿拿东西的。",
+            "desc": ""
+        },
+        {
+            "hash": 863188587,
+            "original": "~z~Just collect a box for me from Perseus off Pyrite Street and Bismarck. It should only take a minute.",
+            "translated": "~z~替我去Pyrite街和Bismarck那边的神之子服饰拿个包裹。应该花不了多久。",
+            "desc": ""
+        },
+        {
+            "hash": 899718581,
+            "original": "~z~I just got divorced.",
+            "translated": "~z~我才刚离婚。",
+            "desc": ""
+        },
+        {
+            "hash": 1047587911,
+            "original": "~z~You think that someone like you could ever get their hands on this?",
+            "translated": "~z~你以为你这样的人能轻易勾搭上我这样的？",
+            "desc": ""
+        },
+        {
+            "hash": 1048581530,
+            "original": "~z~They're expensive as well.",
+            "translated": "~z~俩地儿都不便宜。",
+            "desc": ""
+        },
+        {
+            "hash": 1049290835,
+            "original": "PIS_DE",
+            "translated": "PIS_DE",
+            "desc": ""
+        },
+        {
+            "hash": 1066179494,
+            "original": "PIS_DH",
+            "translated": "PIS_DH",
+            "desc": ""
+        },
+        {
+            "hash": 1084928969,
+            "original": "~z~No doubt.",
+            "translated": "~z~毫无疑问。",
+            "desc": ""
+        },
+        {
+            "hash": 1102893822,
+            "original": "~z~Sure.",
+            "translated": "~z~当然。",
+            "desc": ""
+        },
+        {
+            "hash": 1113237724,
+            "original": "PIS_DL",
+            "translated": "PIS_DL",
+            "desc": ""
+        },
+        {
+            "hash": 1143400238,
+            "original": "~z~Christ, I was spending a grand a month just on vibrators. It was ridiculous.",
+            "translated": "~z~天哪，每个月光是买震动棒就要花掉我一千块。太荒唐了。",
+            "desc": ""
+        },
+        {
+            "hash": 1144345366,
+            "original": "~z~It's all real.",
+            "translated": "~z~都是真的。",
+            "desc": ""
+        },
+        {
+            "hash": 1151712503,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 1155946545,
+            "original": "~z~Well, thank you.",
+            "translated": "~z~好吧，谢谢。",
+            "desc": ""
+        },
+        {
+            "hash": 1178634725,
+            "original": "~z~-Can I ask you a question?~n~-Yes, you're really hot,",
+            "translated": "~z~－我能问你个问题吗？~n~－可以，你真的很性感，",
+            "desc": ""
+        },
+        {
+            "hash": 1245868913,
+            "original": "~z~Great. Seems like the marriage was at least profitable.",
+            "translated": "~z~真好。至少这次婚姻似乎还是赚了的。",
+            "desc": ""
+        },
+        {
+            "hash": 1264131081,
+            "original": "~z~Have I still got it?",
+            "translated": "~z~我还行吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1331399688,
+            "original": "PIS_DC",
+            "translated": "PIS_DC",
+            "desc": ""
+        },
+        {
+            "hash": 1344098642,
+            "original": "~z~Have you got a smoke?",
+            "translated": "~z~你身上有烟吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1351789965,
+            "original": "~z~This is it. Thanks, darl.",
+            "translated": "~z~就这儿了。谢了，爱你。",
+            "desc": ""
+        },
+        {
+            "hash": 1369027265,
+            "original": "~z~I'm still hot though, right? I mean you still would?",
+            "translated": "~z~现在我还是很性感，对吧？你还是会那个的吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1409922692,
+            "original": "PIS_CK_QQQ1",
+            "translated": "PIS_CK_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 1420232786,
+            "original": "PIS_CB",
+            "translated": "PIS_CB",
+            "desc": ""
+        },
+        {
+            "hash": 1429980341,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 1438076548,
+            "original": "~z~Let's go tough guy.",
+            "translated": "~z~走了，硬汉。",
+            "desc": ""
+        },
+        {
+            "hash": 1468726650,
+            "original": "~z~Listen, I know it's a lot to ask, but I don't suppose I could ask you for a favor?",
+            "translated": "~z~听着，我知道这样要求有些过分，不过能不能请你帮我一个小忙？",
+            "desc": ""
+        },
+        {
+            "hash": 1470325395,
+            "original": "PIS_AA",
+            "translated": "PIS_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1472724756,
+            "original": "~z~-\"Fuck you, Sara, you've got a vagina. Why should I help you?\"~n~-Okay, okay!",
+            "translated": "~z~－「操你妈的，Sara，你自己有逼，老子帮你干嘛？」~n~－行了，行了！",
+            "desc": ""
+        },
+        {
+            "hash": 1492142714,
+            "original": "~z~You need to be able to feel what the people are doing.",
+            "translated": "~z~你需要能感受到人们在做什么。",
+            "desc": ""
+        },
+        {
+            "hash": 1511635338,
+            "original": "~z~Okay... what?",
+            "translated": "~z~行吧...问啥？",
+            "desc": ""
+        },
+        {
+            "hash": 1512472312,
+            "original": "~z~I'm outta your league.",
+            "translated": "~z~我配不上你们。",
+            "desc": ""
+        },
+        {
+            "hash": 1523819788,
+            "original": "~z~I don't know any interns and I certainly don't work at a desk.",
+            "translated": "~z~我不认识什么实习生，也不是坐办公桌的人。",
+            "desc": ""
+        },
+        {
+            "hash": 1544492802,
+            "original": "~z~I needed to get something out of it.",
+            "translated": "~z~我是需要从里面榨点东西出来。",
+            "desc": ""
+        },
+        {
+            "hash": 1600613327,
+            "original": "PIS_EC",
+            "translated": "PIS_EC",
+            "desc": ""
+        },
+        {
+            "hash": 1641280703,
+            "original": "~z~Fine.",
+            "translated": "~z~好。",
+            "desc": ""
+        },
+        {
+            "hash": 1648628460,
+            "original": "~z~Do I have to?",
+            "translated": "~z~我一定得去吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1658897229,
+            "original": "PIS_CH_QQQ1",
+            "translated": "PIS_CH_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 1663128230,
+            "original": "~z~You know, being married to you I'd forgotten what an orgasm felt like. Wow.",
+            "translated": "~z~你也知道，嫁给你后我都忘了高潮是什么感觉了。哇哦。",
+            "desc": ""
+        },
+        {
+            "hash": 1687791885,
+            "original": "~z~Neither of you can have me.",
+            "translated": "~z~你们两个都得不到我。",
+            "desc": ""
+        },
+        {
+            "hash": 1713675217,
+            "original": "~z~What do you need?",
+            "translated": "~z~你需要什么？",
+            "desc": ""
+        },
+        {
+            "hash": 1716197185,
+            "original": "~z~You wish.",
+            "translated": "~z~你喜欢的。",
+            "desc": ""
+        },
+        {
+            "hash": 1723292968,
+            "original": "~z~I mean every one of them, even the gay ones.",
+            "translated": "~z~每一个都想，连基佬都想。",
+            "desc": ""
+        },
+        {
+            "hash": 1727585090,
+            "original": "PIS_CL",
+            "translated": "PIS_CL",
+            "desc": ""
+        },
+        {
+            "hash": 1737809591,
+            "original": "~z~You wouldn't go off and fuck some not-out-of-college intern on your desk, would you?",
+            "translated": "~z~你总不会去上那些桌子上的假学生妹实习生吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1744688466,
+            "original": "~z~Time was, I would walk down this street and I'd feel the eyes popping out of a guy like your's head...",
+            "translated": "~z~曾经，我在这条路上一走，就能感受到来自你这样的男人的目光，眼珠子都快掉下来了...",
+            "desc": ""
+        },
+        {
+            "hash": 1751752507,
+            "original": "~z~I have to stop combining drinking with those sleeping pills. That keeps happening.",
+            "translated": "~z~我不能再把酒和安眠药一起吃了。那种事经常有。",
+            "desc": ""
+        },
+        {
+            "hash": 1797713639,
+            "original": "~z~I grew up in Middle Park East but I couldn't live there anymore. It's too... vanilla.",
+            "translated": "~z~我就是在中心公园东长大的，不过我受不了住在那里了。那里太...没个性。",
+            "desc": ""
+        },
+        {
+            "hash": 1923257948,
+            "original": "~z~-Well I'm sorry to hear that.~n~-I don't need your fucking pity.",
+            "translated": "~z~－很遗憾听到这个。~n~－老娘不需要你同情。",
+            "desc": ""
+        },
+        {
+            "hash": 1931916469,
+            "original": "~z~Well, no harm done.",
+            "translated": "~z~至少还没有副作用。",
+            "desc": ""
+        },
+        {
+            "hash": 1950201567,
+            "original": "~z~-I'm kind of on my way some...~n~-Typical! Typical fucking man.",
+            "translated": "~z~－其实我也有点...~n~－典范！狗逼男人的典范。",
+            "desc": ""
+        },
+        {
+            "hash": 1968732734,
+            "original": "~z~I was a knockout.",
+            "translated": "~z~我很引人注目。",
+            "desc": ""
+        },
+        {
+            "hash": 1996967400,
+            "original": "~z~Jesus, what children.",
+            "translated": "~z~天哪，这小子。",
+            "desc": ""
+        },
+        {
+            "hash": 2033088431,
+            "original": "~z~I was H. O. T...",
+            "translated": "~z~我以前超性感...",
+            "desc": ""
+        },
+        {
+            "hash": 2070382216,
+            "original": "~z~You must have something special, I guess. To attract gay men...",
+            "translated": "~z~我想你一定是很特别，才能吸引基佬...",
+            "desc": ""
+        },
+        {
+            "hash": 2093154012,
+            "original": "~z~Got what?",
+            "translated": "~z~什么行不行？",
+            "desc": ""
+        },
+        {
+            "hash": 2107165077,
+            "original": "~z~You couldn't run across town and get me something, could you?",
+            "translated": "~z~麻烦你帮我去城市另一边拿点东西，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2115169166,
+            "original": "~z~Yes, yes. You're gorgeous. I'm lucky to even speak to you. Whatever, lady.",
+            "translated": "~z~行，行。你实在是太美。能跟你说上话是我的荣幸。随你，女士。",
+            "desc": ""
+        },
+        {
+            "hash": 2202064389,
+            "original": "~z~You're an angel. Bring it to Pier 45.",
+            "translated": "~z~你真是天使，待会送到45号码头来。",
+            "desc": ""
+        },
+        {
+            "hash": 2205507850,
+            "original": "PIS_ED",
+            "translated": "PIS_ED",
+            "desc": ""
+        },
+        {
+            "hash": 2224590471,
+            "original": "~z~Hello.",
+            "translated": "~z~你好。",
+            "desc": ""
+        },
+        {
+            "hash": 2281762779,
+            "original": "~z~I guess I do still have it.",
+            "translated": "~z~我想我还是可以的。",
+            "desc": ""
+        },
+        {
+            "hash": 2297864570,
+            "original": "~z~I'd nearly slip and break my neck there was so much drool on the street when I walked by.",
+            "translated": "~z~我在路上走的时候，男人流地上的哈喇子几乎能让我滑倒摔断脖子。",
+            "desc": ""
+        },
+        {
+            "hash": 2301633049,
+            "original": "~z~Time was, every man on the street wanted to give me a lift... or a lot more.",
+            "translated": "~z~想当年，街上的每个男人都想送我一趟...甚至不止送一趟。",
+            "desc": ""
+        },
+        {
+            "hash": 2321355297,
+            "original": "~z~Shit... you're joking?",
+            "translated": "~z~操...你开玩笑的吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2405133594,
+            "original": "~z~It's just that we've got a fashion shoot later.",
+            "translated": "~z~因为待会我们有一场时尚摄影。",
+            "desc": ""
+        },
+        {
+            "hash": 2426747363,
+            "original": "~z~Bullshit. I could live wherever I want.",
+            "translated": "~z~放屁，我想住哪儿都住得起。",
+            "desc": ""
+        },
+        {
+            "hash": 2455972380,
+            "original": "~z~Hey there, handsome.",
+            "translated": "~z~嘿，这位帅哥。",
+            "desc": ""
+        },
+        {
+            "hash": 2457210640,
+            "original": "PIS_DD",
+            "translated": "PIS_DD",
+            "desc": ""
+        },
+        {
+            "hash": 2505497900,
+            "original": "~z~but now, I'm not so sure.",
+            "translated": "~z~不过现在，我就不太确定了。",
+            "desc": ""
+        },
+        {
+            "hash": 2511812561,
+            "original": "~z~This guy's been fucking my brains out all week. He's hung like a rhino.",
+            "translated": "~z~这个人已经在我脑子里搞了一整周了。他那玩意像头犀牛。",
+            "desc": ""
+        },
+        {
+            "hash": 2555758148,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2570179871,
+            "original": "PIS_CJ",
+            "translated": "PIS_CJ",
+            "desc": ""
+        },
+        {
+            "hash": 2574389949,
+            "original": "~z~Why do men always fight over me?",
+            "translated": "~z~为什么男人们总是为我争斗呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2666388607,
+            "original": "PIS_DF",
+            "translated": "PIS_DF",
+            "desc": ""
+        },
+        {
+            "hash": 2685226963,
+            "original": "~z~I can't think of a photographer who shot me in my modeling days who didn't try to fuck me.",
+            "translated": "~z~以前我做模特的时候，没一个摄影师不想上我。",
+            "desc": ""
+        },
+        {
+            "hash": 2692689394,
+            "original": "010100100100100010100100100010100100100",
+            "translated": "010100100100100010100100100010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2702327691,
+            "original": "~z~No.",
+            "translated": "~z~不。",
+            "desc": ""
+        },
+        {
+            "hash": 2706589692,
+            "original": "~z~Let me ask you a question.",
+            "translated": "~z~我问你个问题。",
+            "desc": ""
+        },
+        {
+            "hash": 2723601734,
+            "original": "~z~I'm taking that impotent ex of mine for everything he has.",
+            "translated": "~z~我要把那个性无能前夫的一切都据为己有。",
+            "desc": ""
+        },
+        {
+            "hash": 2857937046,
+            "original": "010100100100010100100100100010100100010",
+            "translated": "010100100100010100100100100010100100010",
+            "desc": ""
+        },
+        {
+            "hash": 2893246847,
+            "original": "~z~Suffolk's going that way too.",
+            "translated": "~z~Suffolk也是那样。",
+            "desc": ""
+        },
+        {
+            "hash": 2935415619,
+            "original": "~z~Hi.",
+            "translated": "~z~嗨。",
+            "desc": ""
+        },
+        {
+            "hash": 3114961480,
+            "original": "PIS_DG",
+            "translated": "PIS_DG",
+            "desc": ""
+        },
+        {
+            "hash": 3128062279,
+            "original": "PIS_CH",
+            "translated": "PIS_CH",
+            "desc": ""
+        },
+        {
+            "hash": 3155350780,
+            "original": "PIS_CD",
+            "translated": "PIS_CD",
+            "desc": ""
+        },
+        {
+            "hash": 3195791715,
+            "original": "PIS_DB",
+            "translated": "PIS_DB",
+            "desc": ""
+        },
+        {
+            "hash": 3199215943,
+            "original": "PIS_EB",
+            "translated": "PIS_EB",
+            "desc": ""
+        },
+        {
+            "hash": 3258515928,
+            "original": "~z~I gave you a lift a little while ago?",
+            "translated": "~z~前段时间我载过你一次吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3293821721,
+            "original": "~z~-Okay, you're really attractive. Can I go now?~n~-Bullshit, limpdick.",
+            "translated": "~z~－好吧，你真的很诱人。我能走了吗？~n~－放屁，性无能。",
+            "desc": ""
+        },
+        {
+            "hash": 3375973604,
+            "original": "~z~Or, I'm mutton dressed as fucking lamb.",
+            "translated": "~z~要不然，我他妈就是打扮成小羊羔的羊肉。",
+            "desc": ""
+        },
+        {
+            "hash": 3421025620,
+            "original": "PIS_DI",
+            "translated": "PIS_DI",
+            "desc": ""
+        },
+        {
+            "hash": 3426303687,
+            "original": "PIS_DJ",
+            "translated": "PIS_DJ",
+            "desc": ""
+        },
+        {
+            "hash": 3579353547,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 3603770112,
+            "original": "~z~Christ.",
+            "translated": "~z~天哪。",
+            "desc": ""
+        },
+        {
+            "hash": 3608575119,
+            "original": "~z~When I'm drunk and you think you can feel my breasts up, you'll do anything...",
+            "translated": "~z~我喝醉的时候你觉得你能对我动手动脚，什么都肯做...",
+            "desc": ""
+        },
+        {
+            "hash": 3659261609,
+            "original": "~z~I'm not 'really attractive'. I'm stunning!",
+            "translated": "~z~我不是「真的很诱人」。我就是很有魅力！",
+            "desc": ""
+        },
+        {
+            "hash": 3660129125,
+            "original": "PIS_DA",
+            "translated": "PIS_DA",
+            "desc": ""
+        },
+        {
+            "hash": 3693844045,
+            "original": "PIS_CE",
+            "translated": "PIS_CE",
+            "desc": ""
+        },
+        {
+            "hash": 3716200682,
+            "original": "PIS_GA",
+            "translated": "PIS_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3842335402,
+            "original": "~z~My lawyer has found so many holes in the pre-nup it may as well have been written on Swiss cheese.",
+            "translated": "~z~我的律师在婚前协议里找到了很多漏洞，洞多得跟瑞士奶酪一样。",
+            "desc": ""
+        },
+        {
+            "hash": 3874516851,
+            "original": "PIS_CK",
+            "translated": "PIS_CK",
+            "desc": ""
+        },
+        {
+            "hash": 3899727688,
+            "original": "~z~but the minute it's daytime and I ask a normal and reasonable favor, it's",
+            "translated": "~z~一等到白天，我向你提出个正常且合理的要求，就成了",
+            "desc": ""
+        },
+        {
+            "hash": 3933083087,
+            "original": "~z~Hey, you dick! That's my wife you been screwing.",
+            "translated": "~z~喂，你个屌人！你乱搞的是我的老婆。",
+            "desc": ""
+        },
+        {
+            "hash": 3971550179,
+            "original": "~z~Doesn't that mean something to you?",
+            "translated": "~z~你就没有一点感觉吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3998079489,
+            "original": "~z~You were pretty wasted.",
+            "translated": "~z~当时你很醉。",
+            "desc": ""
+        },
+        {
+            "hash": 3998287724,
+            "original": "PIS_EA",
+            "translated": "PIS_EA",
+            "desc": ""
+        },
+        {
+            "hash": 4009319580,
+            "original": "PIS_CF",
+            "translated": "PIS_CF",
+            "desc": ""
+        },
+        {
+            "hash": 4022865159,
+            "original": "100010100100100",
+            "translated": "100010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 4038874449,
+            "original": "PIS_DK",
+            "translated": "PIS_DK",
+            "desc": ""
+        },
+        {
+            "hash": 4083835962,
+            "original": "~z~Excuse me?",
+            "translated": "~z~不好意思？",
+            "desc": ""
+        },
+        {
+            "hash": 4117562229,
+            "original": "~z~I would have thought a girl like you would live in Middle Park East or somewhere.",
+            "translated": "~z~我还以为你这样的女孩一定是住在中心公园东之类的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 4136974291,
+            "original": "~z~Yes, I was a model.",
+            "translated": "~z~对，我以前是模特。",
+            "desc": ""
+        },
+        {
+            "hash": 4151779679,
+            "original": "~z~These are fucking five hundred dollar shoes!",
+            "translated": "~z~这双鞋就他妈值五百块！",
+            "desc": ""
+        }
+    ]
+}

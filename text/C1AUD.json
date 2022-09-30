@@ -1,0 +1,754 @@
+{
+    "C1AUD": [
+        {
+            "hash": 33721511,
+            "original": "~z~No doubt.",
+            "translated": "~z~毋庸置疑。",
+            "desc": ""
+        },
+        {
+            "hash": 41657991,
+            "original": "~z~You should be dead yourself, or inside.",
+            "translated": "~z~你早该死了，或者坐牢。",
+            "desc": ""
+        },
+        {
+            "hash": 123934280,
+            "original": "~z~My name is Karen.",
+            "translated": "~z~我的名字是Karen。",
+            "desc": ""
+        },
+        {
+            "hash": 174049994,
+            "original": "~z~Oleg, you're scaring me. I was even thinking that the man behind you might be watching me.",
+            "translated": "~z~~c~Oleg，你要吓死我了。我都以为你后面的那个人是在监视我了。",
+            "desc": ""
+        },
+        {
+            "hash": 180937327,
+            "original": "~z~Minkov is dead, the country is safe.",
+            "translated": "~z~Minkov死了，国家安全了。",
+            "desc": ""
+        },
+        {
+            "hash": 207331673,
+            "original": "~z~But you're damaged goods.",
+            "translated": "~z~但是你是个堕落的好人。",
+            "desc": ""
+        },
+        {
+            "hash": 233611231,
+            "original": "~z~He lives on Iroquois back in Hove Beach.",
+            "translated": "~z~他住在Hove Beach的Iroquois大道。",
+            "desc": ""
+        },
+        {
+            "hash": 312821466,
+            "original": "~z~Look, I'm not in the business of caring about people's feelings, bud.",
+            "translated": "~z~听着，我的工作不是照顾别人的感受，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 363967205,
+            "original": "~z~Interesting. And you whore for the government...",
+            "translated": "~z~有点意思。你还给政府四处当鸡...",
+            "desc": ""
+        },
+        {
+            "hash": 444087954,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 444186293,
+            "original": "~z~Find out everything you can about a man called Oleg Minkov.",
+            "translated": "~z~尽你所能挖出关于Oleg Minkov的一切情报。",
+            "desc": ""
+        },
+        {
+            "hash": 462982630,
+            "original": "C1_EC",
+            "translated": "C1_EC",
+            "desc": ""
+        },
+        {
+            "hash": 470032035,
+            "original": "C1_JB",
+            "translated": "C1_JB",
+            "desc": ""
+        },
+        {
+            "hash": 558181516,
+            "original": "230320230",
+            "translated": "230320230",
+            "desc": ""
+        },
+        {
+            "hash": 688739872,
+            "original": "~z~I hand your file over to those cretins in the FIB",
+            "translated": "~z~那我就把你的档案交给FIB的那群白痴，",
+            "desc": ""
+        },
+        {
+            "hash": 697097147,
+            "original": "~z~-So I said hoist? Flagpole? Salute?~n~-In here.",
+            "translated": "~z~－还是我说的不成？升旗？敬礼？奏乐？~n~－这边。",
+            "desc": ""
+        },
+        {
+            "hash": 718409421,
+            "original": "C1_DD",
+            "translated": "C1_DD",
+            "desc": ""
+        },
+        {
+            "hash": 731307695,
+            "original": "~z~Or whatever your name is.",
+            "translated": "~z~抑或是，知名不具女士。",
+            "desc": ""
+        },
+        {
+            "hash": 791915332,
+            "original": "~z~Maybe something has been averted, maybe delayed. I'll be in touch. Goodbye.",
+            "translated": "~z~事情或许被避免了，抑或是延后了。我们保持联络。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 817884261,
+            "original": "~z~I have a clear conscience.",
+            "translated": "~z~我有自知之明。",
+            "desc": ""
+        },
+        {
+            "hash": 935295008,
+            "original": "~z~Let's go.",
+            "translated": "~z~走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 962099762,
+            "original": "~z~It's Karen.",
+            "translated": "~z~是Karen。",
+            "desc": ""
+        },
+        {
+            "hash": 1002936606,
+            "original": "~z~Yeah? Boo fucking hoo...",
+            "translated": "~z~是吗？关我屁事...",
+            "desc": ""
+        },
+        {
+            "hash": 1061357639,
+            "original": "~z~Hooray.",
+            "translated": "~z~好哇。",
+            "desc": ""
+        },
+        {
+            "hash": 1064246726,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 1074929643,
+            "original": "C1_GA",
+            "translated": "C1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 1085873660,
+            "original": "~z~What have you got for me?",
+            "translated": "~z~现在找到了些什么？",
+            "desc": ""
+        },
+        {
+            "hash": 1144577168,
+            "original": "C1_HA",
+            "translated": "C1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 1144949890,
+            "original": "~z~and organized crime is dealt another serious blow.",
+            "translated": "~z~确定你参与组织犯罪后就得重拳出击了。",
+            "desc": ""
+        },
+        {
+            "hash": 1155978109,
+            "original": "~z~Please don't kill me. I did not mean what I was saying. They were just ideas.",
+            "translated": "~z~求你别杀我。我不是那个意思，那就是些想法而已。",
+            "desc": ""
+        },
+        {
+            "hash": 1157878699,
+            "original": "~z~I meant no harm to this great country, ~c~nor to Russia if that is who sent you. Please.",
+            "translated": "~z~我无意伤害这个伟大的国家，~c~俄罗斯也一样，如果是那边派你来的话。求你了。",
+            "desc": ""
+        },
+        {
+            "hash": 1181599482,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 1277764403,
+            "original": "~z~if you care about that sort of thing.",
+            "translated": "~z~如果你在乎这种东西的话。",
+            "desc": ""
+        },
+        {
+            "hash": 1309818291,
+            "original": "~z~Hey.",
+            "translated": "~z~嘿。",
+            "desc": ""
+        },
+        {
+            "hash": 1345038872,
+            "original": "~z~Now, I need you to find something out for me.",
+            "translated": "~z~现在，我需要你帮我挖点东西。",
+            "desc": ""
+        },
+        {
+            "hash": 1428313357,
+            "original": "C1_DA",
+            "translated": "C1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1432520892,
+            "original": "C1_FA",
+            "translated": "C1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1441566507,
+            "original": "C1_IC",
+            "translated": "C1_IC",
+            "desc": ""
+        },
+        {
+            "hash": 1444677193,
+            "original": "C1_LA",
+            "translated": "C1_LA",
+            "desc": ""
+        },
+        {
+            "hash": 1452585262,
+            "original": "~z~Go to his house. Any problems, call this number.",
+            "translated": "~z~去他家里。有什么问题，打这个号码。",
+            "desc": ""
+        },
+        {
+            "hash": 1460172736,
+            "original": "~z~It was not meant to be taken literally.",
+            "translated": "~z~都不是字面上的意思。",
+            "desc": ""
+        },
+        {
+            "hash": 1463504901,
+            "original": "~z~Hi.",
+            "translated": "~z~嗨。",
+            "desc": ""
+        },
+        {
+            "hash": 1541259644,
+            "original": "~z~Nothing like a bit of sarcasm when someone's got you by the balls.",
+            "translated": "~z~被人抓着把柄的时候就是要挖苦一句爽快下。",
+            "desc": ""
+        },
+        {
+            "hash": 1616267597,
+            "original": "~z~better than the creeps I normally date.",
+            "translated": "~z~比我平常约的那些怪胎好多了。",
+            "desc": ""
+        },
+        {
+            "hash": 1643792377,
+            "original": "~z~What's your name?",
+            "translated": "~z~你叫什么名字？",
+            "desc": ""
+        },
+        {
+            "hash": 1662012833,
+            "original": "~z~I kind of like the honesty in that.",
+            "translated": "~z~我还挺喜欢你的忠诚的。",
+            "desc": ""
+        },
+        {
+            "hash": 1684111607,
+            "original": "C1_DE",
+            "translated": "C1_DE",
+            "desc": ""
+        },
+        {
+            "hash": 1796386265,
+            "original": "C1_EB",
+            "translated": "C1_EB",
+            "desc": ""
+        },
+        {
+            "hash": 1834894006,
+            "original": "C1_JC",
+            "translated": "C1_JC",
+            "desc": ""
+        },
+        {
+            "hash": 1894776425,
+            "original": "~z~No much. He keeps a clean house, he's got a computer.",
+            "translated": "~z~没什么。他的房子很整洁，还有一台电脑。",
+            "desc": ""
+        },
+        {
+            "hash": 1917775166,
+            "original": "~z~And... and weirdly in some ways you're a nice guy...",
+            "translated": "~z~而且...很奇怪，一定程度上你也是个好人...",
+            "desc": ""
+        },
+        {
+            "hash": 1942711195,
+            "original": "~z~Not relevant. Call me. Very soon.",
+            "translated": "~z~与此无关。打给我，尽快。",
+            "desc": ""
+        },
+        {
+            "hash": 1945253379,
+            "original": "200200200",
+            "translated": "200200200",
+            "desc": ""
+        },
+        {
+            "hash": 1945866395,
+            "original": "~z~Unacceptable. Come to see me soon.",
+            "translated": "~z~无法接受。尽快来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 1977358270,
+            "original": "~z~Whoa, killing is very different from gathering information.",
+            "translated": "~z~喔，杀人和收集情报区别可大了去了。",
+            "desc": ""
+        },
+        {
+            "hash": 2002856300,
+            "original": "~z~Mr. Minkov? Anybody here?",
+            "translated": "~z~Minkov先生？有人在家吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2031287558,
+            "original": "~z~So, Mr. Bellic... quite a file, quite a story.",
+            "translated": "~z~那，Bellic先生...好一份档案，好一段故事。",
+            "desc": ""
+        },
+        {
+            "hash": 2085524020,
+            "original": "~z~I don't got no choice about this.",
+            "translated": "~z~我没有选择的余地。",
+            "desc": ""
+        },
+        {
+            "hash": 2134219572,
+            "original": "~z~Got to? You need to learn to control yourself, Bellic. Come to see me again.",
+            "translated": "~z~需要吗？你要学会控制自己，Bellic。回头再来看我。",
+            "desc": ""
+        },
+        {
+            "hash": 2217317175,
+            "original": "~z~I can see that. Thanks, Karen.",
+            "translated": "~z~我看见了。多谢，Karen。",
+            "desc": ""
+        },
+        {
+            "hash": 2219553949,
+            "original": "~z~Perfect, I'll send someone to pick up the hard drive. You go to Tulsa St., eliminate Minkov.",
+            "translated": "~z~完美，我会派人拿走电脑硬盘的。你去Tulsa街，灭掉Minkov。",
+            "desc": ""
+        },
+        {
+            "hash": 2243965988,
+            "original": "~z~Minkov got away.",
+            "translated": "~z~Minkov逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 2258813778,
+            "original": "~z~Vasily, thank you for coming.",
+            "translated": "~z~~c~Vasily，多谢你能来。",
+            "desc": ""
+        },
+        {
+            "hash": 2260440315,
+            "original": "~z~Feds are all over it. Crime is done.",
+            "translated": "~z~到处都有FIB盯着，犯罪死路一条。",
+            "desc": ""
+        },
+        {
+            "hash": 2282858938,
+            "original": "~z~Sounds like it's you or me, friend.",
+            "translated": "~z~听起来不是你就是我了，朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 2283215346,
+            "original": "~z~The FIB? Do I look homosexual?",
+            "translated": "~z~FIB？我长得像同性恋吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2300142380,
+            "original": "C1_HB",
+            "translated": "C1_HB",
+            "desc": ""
+        },
+        {
+            "hash": 2440744699,
+            "original": "~z~There's an email that says he's meeting someone at Tulsa St, in Hove Beach.",
+            "translated": "~z~有封邮件说他要去Hove Beach的Tulsa街见一个人。",
+            "desc": ""
+        },
+        {
+            "hash": 2489691059,
+            "original": "~z~~c~Just like it.~s~",
+            "translated": "~z~~c~确实很像。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2502702108,
+            "original": "~z~I'm not a good guy. But I'm fighting with them, and guess what? So are you.",
+            "translated": "~z~我不是好人，但我跟好人站在一起。你猜怎着？你也一样。",
+            "desc": ""
+        },
+        {
+            "hash": 2521108903,
+            "original": "C1_JA",
+            "translated": "C1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2523543480,
+            "original": "~z~Hey, cheer up, you did good. You'll get a Sammie...",
+            "translated": "~z~嘿，高兴点，你干得很好。奖你一朵小红花...",
+            "desc": ""
+        },
+        {
+            "hash": 2552973805,
+            "original": "~z~Let's get this over with then.",
+            "translated": "~z~让我们把这件事做完。",
+            "desc": ""
+        },
+        {
+            "hash": 2603991388,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2609593114,
+            "original": "~z~~c~Just like the Old Country。~s~",
+            "translated": "~z~~c~和老家很像吧。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2624411902,
+            "original": "C1_CA",
+            "translated": "C1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2655668088,
+            "original": "~z~Thank you.",
+            "translated": "~z~谢谢你。",
+            "desc": ""
+        },
+        {
+            "hash": 2689884726,
+            "original": "~z~You're just lucky it was me, and not someone else who got their hooks into you.",
+            "translated": "~z~幸好负责你的人是我，不是其他什么人。",
+            "desc": ""
+        },
+        {
+            "hash": 2699062842,
+            "original": "~z~Dispose of Minkov then call me.",
+            "translated": "~z~处理掉Minkov再联系我。",
+            "desc": ""
+        },
+        {
+            "hash": 2736918919,
+            "original": "C1_CC",
+            "translated": "C1_CC",
+            "desc": ""
+        },
+        {
+            "hash": 2744307945,
+            "original": "~z~Now... you can't always tell who the good guys are.",
+            "translated": "~z~听着...人难分黑白好坏。",
+            "desc": ""
+        },
+        {
+            "hash": 2784808957,
+            "original": "~z~And hey... welcome to America.",
+            "translated": "~z~哦对了...欢迎来到美国。",
+            "desc": ""
+        },
+        {
+            "hash": 2841049913,
+            "original": "C1_DC",
+            "translated": "C1_DC",
+            "desc": ""
+        },
+        {
+            "hash": 2885574528,
+            "original": "~z~You know, you and your cousin, you should get out.",
+            "translated": "~z~要我说，你和你堂兄，你们应该离开。",
+            "desc": ""
+        },
+        {
+            "hash": 2956950855,
+            "original": "~z~I'm sorry, I got to Minkov's friend before he arrived.",
+            "translated": "~z~对不起，我在Minkov的朋友来之前找到他了。",
+            "desc": ""
+        },
+        {
+            "hash": 2973928500,
+            "original": "C1_DB",
+            "translated": "C1_DB",
+            "desc": ""
+        },
+        {
+            "hash": 2978442450,
+            "original": "~z~That's the spirit.",
+            "translated": "~z~这就对了。",
+            "desc": ""
+        },
+        {
+            "hash": 3039326964,
+            "original": "~z~I'm sorry that I lied to you.",
+            "translated": "~z~骗了你我很抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 3053383681,
+            "original": "~z~Go.",
+            "translated": "~z~去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3134128257,
+            "original": "~z~How very lucky for you.",
+            "translated": "~z~那你运气真好。",
+            "desc": ""
+        },
+        {
+            "hash": 3153416211,
+            "original": "C1_BA",
+            "translated": "C1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3171091081,
+            "original": "~z~Eat my ass, buddy, I'm up for the promotion and, and you're not!",
+            "translated": "~z~吃屎吧，小样，这次升职的是我，不是你！",
+            "desc": ""
+        },
+        {
+            "hash": 3176933169,
+            "original": "~z~You are acting in the interests of your new countrymen, and keeping yourself out of prison.",
+            "translated": "~z~你是在为你新同胞的利益行动，同时让自己远离牢狱之灾。",
+            "desc": ""
+        },
+        {
+            "hash": 3220600013,
+            "original": "C1_IA",
+            "translated": "C1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 3226864239,
+            "original": "~z~Who are you? FIB?",
+            "translated": "~z~你哪位？FIB？",
+            "desc": ""
+        },
+        {
+            "hash": 3357214222,
+            "original": "C1_IB",
+            "translated": "C1_IB",
+            "desc": ""
+        },
+        {
+            "hash": 3359304213,
+            "original": "~z~They've come, they want me dead.",
+            "translated": "~z~他们来了，他们想要我死。",
+            "desc": ""
+        },
+        {
+            "hash": 3366089479,
+            "original": "C1_EA",
+            "translated": "C1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3385732842,
+            "original": "020",
+            "translated": "020",
+            "desc": ""
+        },
+        {
+            "hash": 3415035409,
+            "original": "C1_DF",
+            "translated": "C1_DF",
+            "desc": ""
+        },
+        {
+            "hash": 3440747790,
+            "original": "~z~In here. Office three-nine-six.",
+            "translated": "~z~就这间。396办公室。",
+            "desc": ""
+        },
+        {
+            "hash": 3470370358,
+            "original": "~z~-What the hell are we doing here?~n~-We're going to meet someone.",
+            "translated": "~z~－我们来这儿到底干嘛？~n~－我们要见一个人。",
+            "desc": ""
+        },
+        {
+            "hash": 3548393091,
+            "original": "~z~You've watched too many movies.",
+            "translated": "~z~没电影里那么好脱身的。",
+            "desc": ""
+        },
+        {
+            "hash": 3637917107,
+            "original": "~z~And if I say no?",
+            "translated": "~z~要是我拒绝呢？",
+            "desc": ""
+        },
+        {
+            "hash": 3647988410,
+            "original": "C1_KA",
+            "translated": "C1_KA",
+            "desc": ""
+        },
+        {
+            "hash": 3651261644,
+            "original": "~z~Listen, I know what you must be thinking, but don't bother.",
+            "translated": "~z~听着，我知道你在想什么，但你不用想了。",
+            "desc": ""
+        },
+        {
+            "hash": 3772869087,
+            "original": "010100010100100100",
+            "translated": "010100010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 3772986680,
+            "original": "290",
+            "translated": "290",
+            "desc": ""
+        },
+        {
+            "hash": 3780758070,
+            "original": "~z~Whatever you say, Michelle.",
+            "translated": "~z~随你怎么说吧，Michelle。",
+            "desc": ""
+        },
+        {
+            "hash": 3861802365,
+            "original": "C1_GB",
+            "translated": "C1_GB",
+            "desc": ""
+        },
+        {
+            "hash": 3875663756,
+            "original": "~z~I'm sorry, but I don't see how you know what I must be thinking.",
+            "translated": "~z~不好意思，但是我不知道你怎么知道我在想什么。",
+            "desc": ""
+        },
+        {
+            "hash": 3884636664,
+            "original": "~z~Hi there.",
+            "translated": "~z~你们好。",
+            "desc": ""
+        },
+        {
+            "hash": 3884743569,
+            "original": "~z~For once this is a murder you don't have to feel confused about.",
+            "translated": "~z~这次，你杀人不需要任何迟疑。",
+            "desc": ""
+        },
+        {
+            "hash": 3935755696,
+            "original": "~z~Sounds fun.",
+            "translated": "~z~好像挺有趣。",
+            "desc": ""
+        },
+        {
+            "hash": 4011555522,
+            "original": "~z~Check his emails. Call back with any information that would indicate his current whereabouts.",
+            "translated": "~z~检查他的邮箱。有能确定他当前位置的情报就联系我。",
+            "desc": ""
+        },
+        {
+            "hash": 4030464520,
+            "original": "~z~You've killed people.",
+            "translated": "~z~你杀了很多人。",
+            "desc": ""
+        },
+        {
+            "hash": 4043139453,
+            "original": "~z~What you're looking for you won't find.",
+            "translated": "~z~你找不到你要找的东西的。",
+            "desc": ""
+        },
+        {
+            "hash": 4070211104,
+            "original": "100010100",
+            "translated": "100010100",
+            "desc": ""
+        },
+        {
+            "hash": 4141085437,
+            "original": "~z~You upset some powerful people, friend.",
+            "translated": "~z~你惹恼了一些有权有势的人，朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 4146725214,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 4188618800,
+            "original": "~z~Not by a long shot, smart ass. Nothing is safe, no one is safe.",
+            "translated": "~z~不存在的，睿智。没有安全的东西，没有安全的人。",
+            "desc": ""
+        },
+        {
+            "hash": 4191845751,
+            "original": "~z~Do you think I care about the size of your Johnson?",
+            "translated": "~z~你觉得我在乎你老二的尺寸吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4192763571,
+            "original": "~z~Here he is.",
+            "translated": "~z~他来了。",
+            "desc": ""
+        },
+        {
+            "hash": 4229639745,
+            "original": "~z~This is it. He must have been waiting for me. Goodbye, friend.",
+            "translated": "~z~~c~确实如此。他一定是在等我。再见，朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 4242840303,
+            "original": "C1_CB",
+            "translated": "C1_CB",
+            "desc": ""
+        }
+    ]
+}

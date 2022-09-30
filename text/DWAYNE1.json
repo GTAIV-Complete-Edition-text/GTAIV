@@ -1,0 +1,76 @@
+{
+    "DWAYNE1": [
+        {
+            "hash": 535266377,
+            "original": "Execute ~r~Cherise~s~ or let her live.",
+            "translated": "处决~r~Cherise~s~或放过她。",
+            "desc": ""
+        },
+        {
+            "hash": 592890081,
+            "original": "~r~Cherise got away.",
+            "translated": "~r~Cherise逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 775823606,
+            "original": "Execute ~b~Cherise~s~ or let her live.",
+            "translated": "处决~b~Cherise~s~或放过她。",
+            "desc": ""
+        },
+        {
+            "hash": 1260837575,
+            "original": "Lose your wanted level.",
+            "translated": "摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1425058836,
+            "original": "~r~Jayvon got away.",
+            "translated": "~r~Jayvon逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 1879057529,
+            "original": "Chase ~r~Jayvon~s~ down.",
+            "translated": "追击~r~Jayvon。",
+            "desc": ""
+        },
+        {
+            "hash": 2372263748,
+            "original": "They're separating to lose you, take them out.",
+            "translated": "他们分开逃跑以摆脱你，把他们全干掉。",
+            "desc": ""
+        },
+        {
+            "hash": 2580772895,
+            "original": "Get Dwayne's ~g~money.",
+            "translated": "拿回Dwayne的~g~钱。",
+            "desc": ""
+        },
+        {
+            "hash": 2763951557,
+            "original": "Go meet ~b~Dwayne~s~ at the Cluckin' Bell.",
+            "translated": "去铛铛钟找~b~Dwayne。",
+            "desc": ""
+        },
+        {
+            "hash": 3210429182,
+            "original": "Go to the arcade in ~y~Chinatown.",
+            "translated": "前往~y~唐人街~s~的游戏厅。",
+            "desc": ""
+        },
+        {
+            "hash": 3678156973,
+            "original": "~r~Dwayne was injured.",
+            "translated": "~r~Dwayne受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 4249403148,
+            "original": "You're losing ~r~Jayvon.",
+            "translated": "你要跟丢~r~Jayvon~s~了。",
+            "desc": ""
+        }
+    ]
+}

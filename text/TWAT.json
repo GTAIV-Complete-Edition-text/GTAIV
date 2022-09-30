@@ -1,0 +1,532 @@
+{
+    "TWAT": [
+        {
+            "hash": 48068060,
+            "original": "~z~I feel safe when you are in here, Niko.",
+            "translated": "~z~你在的时候我就很安心，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 90092211,
+            "original": "TWAT_MC",
+            "translated": "TWAT_MC",
+            "desc": ""
+        },
+        {
+            "hash": 123749257,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 138985422,
+            "original": "TWAT_OA",
+            "translated": "TWAT_OA",
+            "desc": ""
+        },
+        {
+            "hash": 212760495,
+            "original": "~z~It's great to see you Alejandra, but I have things to do online.",
+            "translated": "~z~很高兴见到你，Alejandra。但我上网有事要做。",
+            "desc": ""
+        },
+        {
+            "hash": 246320558,
+            "original": "~z~Because you're the best looking internet café girl in the whole town.",
+            "translated": "~z~因为你是全城最漂亮的女网管。",
+            "desc": ""
+        },
+        {
+            "hash": 304331249,
+            "original": "TWAT_GA",
+            "translated": "TWAT_GA",
+            "desc": ""
+        },
+        {
+            "hash": 333510423,
+            "original": "TWAT_FA",
+            "translated": "TWAT_FA",
+            "desc": ""
+        },
+        {
+            "hash": 373363437,
+            "original": "TWAT_SA",
+            "translated": "TWAT_SA",
+            "desc": ""
+        },
+        {
+            "hash": 399824877,
+            "original": "TWAT_IB",
+            "translated": "TWAT_IB",
+            "desc": ""
+        },
+        {
+            "hash": 475539713,
+            "original": "~z~Niko. Why do we keep meeting like this?",
+            "translated": "~z~Niko，为什么我们总要这样见面？",
+            "desc": ""
+        },
+        {
+            "hash": 548111564,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 682400031,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 695500888,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 793902184,
+            "original": "~z~My favorite internet café worker is still here. Good to see you.",
+            "translated": "~z~我最喜欢的网管还在这儿。很高兴见到你。",
+            "desc": ""
+        },
+        {
+            "hash": 803774581,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 842511980,
+            "original": "TWAT_TA",
+            "translated": "TWAT_TA",
+            "desc": ""
+        },
+        {
+            "hash": 847622289,
+            "original": "~z~Come back soon, okay?",
+            "translated": "~z~有空就来，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 884959632,
+            "original": "TWAT_MB",
+            "translated": "TWAT_MB",
+            "desc": ""
+        },
+        {
+            "hash": 894603190,
+            "original": "~z~And then he walked out of her life. So long, stranger.",
+            "translated": "~z~然后他离开了她的生活。好久不见，陌生人。",
+            "desc": ""
+        },
+        {
+            "hash": 906029698,
+            "original": "TWAT_LA",
+            "translated": "TWAT_LA",
+            "desc": ""
+        },
+        {
+            "hash": 912104131,
+            "original": "TWAT_OB",
+            "translated": "TWAT_OB",
+            "desc": ""
+        },
+        {
+            "hash": 963724393,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1154313300,
+            "original": "~z~Bye, Niko.",
+            "translated": "~z~再见，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1189091957,
+            "original": "~z~You don't need to wear makeup, Alejandra. You look great anyway.",
+            "translated": "~z~你不需要化妆，Alejandra。你怎么看都很美。",
+            "desc": ""
+        },
+        {
+            "hash": 1231865014,
+            "original": "TWAT_CB",
+            "translated": "TWAT_CB",
+            "desc": ""
+        },
+        {
+            "hash": 1261368630,
+            "original": "TWAT_PA",
+            "translated": "TWAT_PA",
+            "desc": ""
+        },
+        {
+            "hash": 1324246571,
+            "original": "TWAT_NA",
+            "translated": "TWAT_NA",
+            "desc": ""
+        },
+        {
+            "hash": 1334142332,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1494859496,
+            "original": "~z~Oh, it's you. If I would have known you were coming I would have put some makeup on.",
+            "translated": "~z~噢，是你啊。早知道你要来，我就好好化妆了。",
+            "desc": ""
+        },
+        {
+            "hash": 1593651031,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1665190455,
+            "original": "~z~Come back to see me soon.",
+            "translated": "~z~常回来看看。",
+            "desc": ""
+        },
+        {
+            "hash": 1782968294,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1783954735,
+            "original": "~z~Goodbye, Niko.",
+            "translated": "~z~再见，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1900161589,
+            "original": "~z~Don't stay away too long.",
+            "translated": "~z~有空常来啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1905005364,
+            "original": "~z~Niko, you are back to log on?",
+            "translated": "~z~Niko，你回来上网啦？",
+            "desc": ""
+        },
+        {
+            "hash": 1949415115,
+            "original": "~z~No, Alejandra, it wouldn't be the same without you working here.",
+            "translated": "~z~不，Alejandra，要是你不在这儿工作，这里就不一样了。",
+            "desc": ""
+        },
+        {
+            "hash": 2042484307,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2112014893,
+            "original": "~z~This place would not be the same without you coming here.",
+            "translated": "~z~要是你不来这里，这个地方就不一样了。",
+            "desc": ""
+        },
+        {
+            "hash": 2121900571,
+            "original": "TWAT_JA",
+            "translated": "TWAT_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2143519548,
+            "original": "~z~Don't stay away too long, Niko.",
+            "translated": "~z~别太久不来，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2162425291,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 2179593235,
+            "original": "~z~Niko, you're back. You've made my week.",
+            "translated": "~z~Niko，你回来了，你让我这一周都好起来了。",
+            "desc": ""
+        },
+        {
+            "hash": 2199893599,
+            "original": "~z~That's right. Thank you.",
+            "translated": "~z~是这样，谢谢关心。",
+            "desc": ""
+        },
+        {
+            "hash": 2266786965,
+            "original": "~z~Niko, I hope you've come back because of me, not just these stupid computers.",
+            "translated": "~z~Niko，我希望你是为我才回来的，而不是为那些白痴电脑。",
+            "desc": ""
+        },
+        {
+            "hash": 2278347100,
+            "original": "~z~Thanks. Good to see you too.",
+            "translated": "~z~谢谢。我也很高兴见到你。",
+            "desc": ""
+        },
+        {
+            "hash": 2282612191,
+            "original": "TWAT_DA",
+            "translated": "TWAT_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2326721366,
+            "original": "~z~Prince charming walks off into the distance. Goodbye.",
+            "translated": "~z~白马王子走到了远处，再见！",
+            "desc": ""
+        },
+        {
+            "hash": 2346699664,
+            "original": "TWAT_KB",
+            "translated": "TWAT_KB",
+            "desc": ""
+        },
+        {
+            "hash": 2365002047,
+            "original": "~z~That's good to know, Alejandra.",
+            "translated": "~z~很高兴知道你的名字，Alejandra。",
+            "desc": ""
+        },
+        {
+            "hash": 2400723429,
+            "original": "~z~Bye, Niko.",
+            "translated": "~z~拜，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2418241198,
+            "original": "~z~Niko, I hope you're not going to start using another internet café.",
+            "translated": "~z~Niko, 我希望你不会去别的网咖。",
+            "desc": ""
+        },
+        {
+            "hash": 2502880288,
+            "original": "~z~Niko, Roman's cousin. You've made my day.",
+            "translated": "~z~Niko，Roman的堂弟。你能让我高兴一天。",
+            "desc": ""
+        },
+        {
+            "hash": 2504584911,
+            "original": "~z~Come back soon, Niko. I get lonely when you don't come to see me.",
+            "translated": "~z~常来看看，Niko。你不来看我，我就会很孤独。",
+            "desc": ""
+        },
+        {
+            "hash": 2537402275,
+            "original": "TWAT_MA",
+            "translated": "TWAT_MA",
+            "desc": ""
+        },
+        {
+            "hash": 2619466205,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 2670769586,
+            "original": "~z~Niko, you're back. I was thinking, you do not even know my name. I am Alejandra.",
+            "translated": "~z~Niko，你回来了。我之前在想，你连我叫什么都不知道。我是Alejandra。",
+            "desc": ""
+        },
+        {
+            "hash": 2738170179,
+            "original": "TWAT_RA",
+            "translated": "TWAT_RA",
+            "desc": ""
+        },
+        {
+            "hash": 2755809724,
+            "original": "TWAT_GB",
+            "translated": "TWAT_GB",
+            "desc": ""
+        },
+        {
+            "hash": 2770842184,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 2817188974,
+            "original": "TWAT_HA",
+            "translated": "TWAT_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2930332862,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2933828236,
+            "original": "~z~And then he was gone. Until we meet again, Niko.",
+            "translated": "~z~然后他就走了。再会，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2978178747,
+            "original": "~z~I'm not going anywhere, Niko. Come back soon.",
+            "translated": "~z~我哪儿也不会去，Niko。常来看看！",
+            "desc": ""
+        },
+        {
+            "hash": 2984464254,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3029490369,
+            "original": "TWAT_QA",
+            "translated": "TWAT_QA",
+            "desc": ""
+        },
+        {
+            "hash": 3093567516,
+            "original": "TWAT_KA",
+            "translated": "TWAT_KA",
+            "desc": ""
+        },
+        {
+            "hash": 3130240423,
+            "original": "TWAT_AA",
+            "translated": "TWAT_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3204512833,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 3246346406,
+            "original": "~z~Yeah, good to see you. It's Niko, by the way.",
+            "translated": "~z~嗯，很高兴见到你。顺便说下，我叫Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3324275451,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3426819126,
+            "original": "~z~Bye, Niko.",
+            "translated": "~z~拜，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3439004184,
+            "original": "~z~There he is, my favorite customer.",
+            "translated": "~z~他来了，我最喜欢的顾客。",
+            "desc": ""
+        },
+        {
+            "hash": 3484657889,
+            "original": "~z~Come back soon, Niko.",
+            "translated": "~z~有空再来，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3492593876,
+            "original": "TWAT_CA",
+            "translated": "TWAT_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3514718168,
+            "original": "TWAT_AB",
+            "translated": "TWAT_AB",
+            "desc": ""
+        },
+        {
+            "hash": 3549885653,
+            "original": "~z~Roman's cousin, it's good to see you again.",
+            "translated": "~z~Roman的堂弟，很高兴能再见到你。",
+            "desc": ""
+        },
+        {
+            "hash": 3745623717,
+            "original": "~z~Have I told you how handsome you are, Niko?",
+            "translated": "~z~我有跟你讲过你多英俊吗，Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 3770595392,
+            "original": "100100010",
+            "translated": "100100010",
+            "desc": ""
+        },
+        {
+            "hash": 3830432313,
+            "original": "TWAT_BA",
+            "translated": "TWAT_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3869640881,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3883104195,
+            "original": "TWAT_IA",
+            "translated": "TWAT_IA",
+            "desc": ""
+        },
+        {
+            "hash": 3982965937,
+            "original": "TWAT_EB",
+            "translated": "TWAT_EB",
+            "desc": ""
+        },
+        {
+            "hash": 4035957057,
+            "original": "~z~Niko, the man of my dreams, good to see you again.",
+            "translated": "~z~Niko，我的梦中情人。很高兴能再见到你。",
+            "desc": ""
+        },
+        {
+            "hash": 4058633359,
+            "original": "TWAT_QB",
+            "translated": "TWAT_QB",
+            "desc": ""
+        },
+        {
+            "hash": 4179711237,
+            "original": "TWAT_EA",
+            "translated": "TWAT_EA",
+            "desc": ""
+        },
+        {
+            "hash": 4189879812,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 4255389965,
+            "original": "~z~My favorite customer, he is back.",
+            "translated": "~z~我最喜欢的顾客，他回来了。",
+            "desc": ""
+        }
+    ]
+}

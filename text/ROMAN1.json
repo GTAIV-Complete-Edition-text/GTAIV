@@ -1,0 +1,82 @@
+{
+    "ROMAN1": [
+        {
+            "hash": 242132845,
+            "original": "~s~The yellow icon on the radar shows the location of your next objective.",
+            "translated": "~s~小地图上的黄色图标表示你下一个目标的位置。",
+            "desc": ""
+        },
+        {
+            "hash": 607477122,
+            "original": "~s~Use ~PAD_LSTICK_LEFTRIGHT_VEH~ to steer a vehicle.",
+            "translated": "~s~用~PAD_LSTICK_LEFTRIGHT_VEH~控制方向。",
+            "desc": ""
+        },
+        {
+            "hash": 646822464,
+            "original": "~r~Roman is dead.~s~",
+            "translated": "~r~Roman死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1069615633,
+            "original": "~s~Use ~PAD_LSTICK_LEFTRIGHT~ to steer a vehicle.",
+            "translated": "~s~用~PAD_LSTICK_LEFTRIGHT~控制方向。",
+            "desc": ""
+        },
+        {
+            "hash": 1126921083,
+            "original": "~r~The vehicle is stuck.~s~",
+            "translated": "~r~车辆无法行驶。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1574480089,
+            "original": "~r~Roman's car has been trashed.~s~",
+            "translated": "~r~Roman的车坏了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2273515928,
+            "original": "~s~Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake or reverse if the vehicle is stopped.",
+            "translated": "~s~按~INPUT_VEH_ACCELERATE~加速。按~INPUT_VEH_BRAKE~刹车，在车辆停止时可倒车。",
+            "desc": ""
+        },
+        {
+            "hash": 2737492199,
+            "original": "~s~While in a vehicle the colored line on the radar shows the shortest legal route to your objective - this is not always the fastest way.",
+            "translated": "~s~驾车时小地图上的彩色线条表示前往目的地的最短合法路线，但合法路线未必是最快的。",
+            "desc": ""
+        },
+        {
+            "hash": 2970370506,
+            "original": "~s~Get into ~b~Roman's car.",
+            "translated": "~s~进入~b~Roman的车。",
+            "desc": ""
+        },
+        {
+            "hash": 3127115609,
+            "original": "~s~You can add your own icon via the pause menu map screen and a route will be added on the radar.",
+            "translated": "~s~你可以通过暂停菜单的地图界面添加自己的标记，随后小地图上就会出现一条路线。",
+            "desc": ""
+        },
+        {
+            "hash": 3252151137,
+            "original": "~s~Drive to ~y~Roman's place.",
+            "translated": "~s~驾车前往~y~Roman的住处。",
+            "desc": ""
+        },
+        {
+            "hash": 3435005602,
+            "original": "~r~You have abandoned Roman.~s~",
+            "translated": "~r~你抛弃了Roman。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3566864613,
+            "original": "~s~Drive to the ~y~food vendor.",
+            "translated": "~s~驾车前往~y~小吃摊。",
+            "desc": ""
+        }
+    ]
+}

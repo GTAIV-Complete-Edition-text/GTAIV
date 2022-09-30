@@ -1,0 +1,928 @@
+{
+    "F6AUD": [
+        {
+            "hash": 6516225,
+            "original": "~z~Only I am still sane.",
+            "translated": "~z~只有我还清醒着。",
+            "desc": ""
+        },
+        {
+            "hash": 16281391,
+            "original": "~z~None of you will survive in this country without me.",
+            "translated": "~z~没我你俩谁都没法在这个国家活下去。",
+            "desc": ""
+        },
+        {
+            "hash": 26812274,
+            "original": "~z~Niko.",
+            "translated": "~z~Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 50096263,
+            "original": "~z~Is this what you ordered?",
+            "translated": "~z~你点的？(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 101137738,
+            "original": "~z~Guards!",
+            "translated": "~z~保镖！",
+            "desc": ""
+        },
+        {
+            "hash": 184714047,
+            "original": "~z~Dimitri turned on me, not other way around. America made him greedy.",
+            "translated": "~z~Dimitri背叛了我，我没有背叛他。美国让他变得贪婪。",
+            "desc": ""
+        },
+        {
+            "hash": 186877853,
+            "original": "F6_KB",
+            "translated": "F6_KB",
+            "desc": ""
+        },
+        {
+            "hash": 196154426,
+            "original": "F6_JB",
+            "translated": "F6_JB",
+            "desc": ""
+        },
+        {
+            "hash": 209113991,
+            "original": "F6_BF",
+            "translated": "F6_BF",
+            "desc": ""
+        },
+        {
+            "hash": 249294462,
+            "original": "102102102102102102",
+            "translated": "102102102102102102",
+            "desc": ""
+        },
+        {
+            "hash": 298447475,
+            "original": "~z~Dimitri",
+            "translated": "~z~Dimitri。",
+            "desc": ""
+        },
+        {
+            "hash": 304922677,
+            "original": "~z~You pushed things too far.",
+            "translated": "~z~你做得太过了。",
+            "desc": ""
+        },
+        {
+            "hash": 306193181,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 335082564,
+            "original": "~z~Now they've sent you to take the only thing I have left.",
+            "translated": "~z~现在他们派你来夺走我最后一件东西了。",
+            "desc": ""
+        },
+        {
+            "hash": 343428588,
+            "original": "~z~and now he betrays me...",
+            "translated": "~z~现在他却背叛了我...",
+            "desc": ""
+        },
+        {
+            "hash": 365697548,
+            "original": "010100100100",
+            "translated": "010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 414209388,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 422316725,
+            "original": "~z~Can I call Petrovic and tell him that Mikhail is no longer a problem? Is he dead, Niko?",
+            "translated": "~z~我能打给Petrovic并提醒他Mikhail不再对我们构成威胁了? 他是死了吗，Niko？(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 439802032,
+            "original": "F6_GE",
+            "translated": "F6_GE",
+            "desc": ""
+        },
+        {
+            "hash": 457100532,
+            "original": "F6_GB",
+            "translated": "F6_GB",
+            "desc": ""
+        },
+        {
+            "hash": 462759012,
+            "original": "~z~Dimitri will turn on you as well, you shall discover this.",
+            "translated": "~z~Dimitri早晚会背叛你，你会明白的。",
+            "desc": ""
+        },
+        {
+            "hash": 513553676,
+            "original": "~z~We can pick the game, Niko Bellic,",
+            "translated": "~z~我们可以挑选游戏，Niko Bellic，",
+            "desc": ""
+        },
+        {
+            "hash": 529342888,
+            "original": "~z~If you can't take the heat, Bellic...",
+            "translated": "~z~你是否承受的起大起大落，Bellic...(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 583789203,
+            "original": "~z~You didn't give him a choice.",
+            "translated": "~z~是你让他没得选的。",
+            "desc": ""
+        },
+        {
+            "hash": 603690710,
+            "original": "~z~Hey.",
+            "translated": "~z~嘿。",
+            "desc": ""
+        },
+        {
+            "hash": 612197590,
+            "original": "~z~You brought this on yourself.",
+            "translated": "~z~这都是你自找的。",
+            "desc": ""
+        },
+        {
+            "hash": 640420610,
+            "original": "~z~Do not abandon your leader. Stop this man.",
+            "translated": "~z~不要抛弃你的首长。阻止他。",
+            "desc": ""
+        },
+        {
+            "hash": 657178488,
+            "original": "F6_DD",
+            "translated": "F6_DD",
+            "desc": ""
+        },
+        {
+            "hash": 675288743,
+            "original": "F6_LA",
+            "translated": "F6_LA",
+            "desc": ""
+        },
+        {
+            "hash": 716931531,
+            "original": "~z~It's closing time! Get your coat!",
+            "translated": "~z~该打烊了！散场散场！",
+            "desc": ""
+        },
+        {
+            "hash": 759255062,
+            "original": "~z~And there is no way out?",
+            "translated": "~z~没别的可选吗？",
+            "desc": ""
+        },
+        {
+            "hash": 793546280,
+            "original": "102102102102102102102",
+            "translated": "102102102102102102102",
+            "desc": ""
+        },
+        {
+            "hash": 795813920,
+            "original": "F6_LD",
+            "translated": "F6_LD",
+            "desc": ""
+        },
+        {
+            "hash": 809036591,
+            "original": "F6_ID",
+            "translated": "F6_ID",
+            "desc": ""
+        },
+        {
+            "hash": 840626475,
+            "original": "F6_IA",
+            "translated": "F6_IA",
+            "desc": ""
+        },
+        {
+            "hash": 871897965,
+            "original": "F6_EA",
+            "translated": "F6_EA",
+            "desc": ""
+        },
+        {
+            "hash": 886880408,
+            "original": "~z~Sit down.",
+            "translated": "~z~坐吧。",
+            "desc": ""
+        },
+        {
+            "hash": 936580257,
+            "original": "~z~Meat for some gym monkey!",
+            "translated": "~z~就是小羊进了狼窝！",
+            "desc": ""
+        },
+        {
+            "hash": 1051760956,
+            "original": "~z~That is what Dimitri wanted when you killed Vlad.",
+            "translated": "~z~你杀了Vlad后Dimitri就想杀了你。",
+            "desc": ""
+        },
+        {
+            "hash": 1053277388,
+            "original": "F6_BC",
+            "translated": "F6_BC",
+            "desc": ""
+        },
+        {
+            "hash": 1099396104,
+            "original": "F6_HA",
+            "translated": "F6_HA",
+            "desc": ""
+        },
+        {
+            "hash": 1112669303,
+            "original": "~z~See you later.",
+            "translated": "~z~之后见。",
+            "desc": ""
+        },
+        {
+            "hash": 1141655234,
+            "original": "~z~Men, I need you.",
+            "translated": "~z~手下的来个人。",
+            "desc": ""
+        },
+        {
+            "hash": 1157464874,
+            "original": "~z~it's that we must obey the rules of the game.",
+            "translated": "~z~那就是我们必须遵守游戏规则。",
+            "desc": ""
+        },
+        {
+            "hash": 1197602221,
+            "original": "100010100100",
+            "translated": "100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 1209491213,
+            "original": "~z~What's the problem?",
+            "translated": "~z~出啥问题了？",
+            "desc": ""
+        },
+        {
+            "hash": 1232298437,
+            "original": "~z~What do you think?",
+            "translated": "~z~你觉得问题在哪？",
+            "desc": ""
+        },
+        {
+            "hash": 1298014071,
+            "original": "~z~Dimitri, Mikhail got away from me. He is still alive.",
+            "translated": "~z~Dimitri，Mikhail从我这儿跑了。他还活着。",
+            "desc": ""
+        },
+        {
+            "hash": 1325291944,
+            "original": "F6_",
+            "translated": "F6_",
+            "desc": ""
+        },
+        {
+            "hash": 1330594713,
+            "original": "~z~You think Dimitri would have survived prison without me?",
+            "translated": "~z~你以为没了我Dimitri还能从监狱里活着出来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1357901505,
+            "original": "F6_LC",
+            "translated": "F6_LC",
+            "desc": ""
+        },
+        {
+            "hash": 1364007829,
+            "original": "~z~And they said as long as you were the one to kill him,",
+            "translated": "~z~他们说只要你能把Mikhail也杀了，",
+            "desc": ""
+        },
+        {
+            "hash": 1371005465,
+            "original": "~z~Come on, guards.",
+            "translated": "~z~赶紧，保镖。",
+            "desc": ""
+        },
+        {
+            "hash": 1371159414,
+            "original": "F6_GD",
+            "translated": "F6_GD",
+            "desc": ""
+        },
+        {
+            "hash": 1413513437,
+            "original": "~z~He is not. Not yet, at least.",
+            "translated": "~z~他不是，还没有，至少(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 1423806651,
+            "original": "~z~You did a good thing.",
+            "translated": "~z~你干了件好事。",
+            "desc": ""
+        },
+        {
+            "hash": 1437344903,
+            "original": "~z~You know, if there is one thing I have learned,",
+            "translated": "~z~你知道吗，至今为止我学到了一件事，",
+            "desc": ""
+        },
+        {
+            "hash": 1458231849,
+            "original": "~z~This is your last party, man.",
+            "translated": "~z~这是你的最后一次狂欢了，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 1466905497,
+            "original": "~z~~c~Shit.",
+            "translated": "~z~~c~操。",
+            "desc": ""
+        },
+        {
+            "hash": 1468336332,
+            "original": "F6_MA",
+            "translated": "F6_MA",
+            "desc": ""
+        },
+        {
+            "hash": 1526138048,
+            "original": "~z~Mikhail.",
+            "translated": "~z~Mikhail。",
+            "desc": ""
+        },
+        {
+            "hash": 1577321756,
+            "original": "F6_DA",
+            "translated": "F6_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1604237368,
+            "original": "~z~you'd be spared.",
+            "translated": "~z~就会放你一马。",
+            "desc": ""
+        },
+        {
+            "hash": 1660158660,
+            "original": "F6_BE",
+            "translated": "F6_BE",
+            "desc": ""
+        },
+        {
+            "hash": 1702568786,
+            "original": "~z~You killed Petrovic's son. I need not remind you of that.",
+            "translated": "~z~你要杀的是Petrovic的儿子，这点我要提醒你(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 1735013844,
+            "original": "~z~A hard thing, but a good thing. Hopefully this will mean peace with Petrovic.",
+            "translated": "~z~固然艰难，但的确是好事。这样就很有希望和Petrovic和解了。",
+            "desc": ""
+        },
+        {
+            "hash": 1747619445,
+            "original": "F6_BD",
+            "translated": "F6_BD",
+            "desc": ""
+        },
+        {
+            "hash": 1754402765,
+            "original": "~z~People, help me.",
+            "translated": "~z~来人，护驾。",
+            "desc": ""
+        },
+        {
+            "hash": 1771403301,
+            "original": "~z~He'd just be some prison queen, had I not been there.",
+            "translated": "~z~他只会是个监狱肉便器，要不是有我，",
+            "desc": ""
+        },
+        {
+            "hash": 1777452072,
+            "original": "F6_KC",
+            "translated": "F6_KC",
+            "desc": ""
+        },
+        {
+            "hash": 1805559311,
+            "original": "~z~Mr. Faustin.",
+            "translated": "~z~Faustin先生。",
+            "desc": ""
+        },
+        {
+            "hash": 1819210936,
+            "original": "~z~Dimitri,",
+            "translated": "~z~Dimitri，",
+            "desc": ""
+        },
+        {
+            "hash": 1841550466,
+            "original": "~z~No.",
+            "translated": "~z~不。",
+            "desc": ""
+        },
+        {
+            "hash": 1845495895,
+            "original": "~z~You're mine, Faustin.",
+            "translated": "~z~你逃不掉的，Faustin。",
+            "desc": ""
+        },
+        {
+            "hash": 1935119106,
+            "original": "~z~You pissed off too many people, Mr. Faustin.",
+            "translated": "~z~你得罪的人太多了，Faustin先生。",
+            "desc": ""
+        },
+        {
+            "hash": 1961415706,
+            "original": "F6_KA",
+            "translated": "F6_KA",
+            "desc": ""
+        },
+        {
+            "hash": 1984211762,
+            "original": "~z~Guards!",
+            "translated": "~z~来人！",
+            "desc": ""
+        },
+        {
+            "hash": 2018281754,
+            "original": "102102102102102102",
+            "translated": "102102102102102102",
+            "desc": ""
+        },
+        {
+            "hash": 2059115517,
+            "original": "~z~I made you what you are, Niko.",
+            "translated": "~z~是我成就了你，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2068104882,
+            "original": "~z~Hurry and do it. Call me when it is done.",
+            "translated": "~z~快点干吧，完事了打给我(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 2076528614,
+            "original": "~z~You must eliminate Mikhail to make things right. Do it soon.",
+            "translated": "~z~你必须除掉Mikhail才能扭转事态，快点动手(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 2082631999,
+            "original": "~z~I told them you were a hired gun.",
+            "translated": "~z~我跟他们说你只是收钱办事。",
+            "desc": ""
+        },
+        {
+            "hash": 2096996481,
+            "original": "~z~I showed mercy to you and your cousin when Dimitri wanted you dead.",
+            "translated": "~z~Dimitri想让你死的时候，是我对你和你的堂兄仁慈处理。",
+            "desc": ""
+        },
+        {
+            "hash": 2137312667,
+            "original": "~z~Uh huh.",
+            "translated": "~z~啊哈。",
+            "desc": ""
+        },
+        {
+            "hash": 2215578840,
+            "original": "~z~~c~What am I to do?",
+            "translated": "~z~~c~这让我怎么办？",
+            "desc": ""
+        },
+        {
+            "hash": 2245081081,
+            "original": "~z~It's over, Faustin.",
+            "translated": "~z~都结束了，Faustin。",
+            "desc": ""
+        },
+        {
+            "hash": 2301476526,
+            "original": "~z~It was never going to last, Faustin. You took things too far.",
+            "translated": "~z~这样是不可能长久的，Faustin。你做的事都过头了。",
+            "desc": ""
+        },
+        {
+            "hash": 2306672516,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 2312625968,
+            "original": "F6_LB",
+            "translated": "F6_LB",
+            "desc": ""
+        },
+        {
+            "hash": 2314730223,
+            "original": "~z~Faustin is dead.",
+            "translated": "~z~Faustin死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2326040131,
+            "original": "~z~He'll be leaving his house in a little while and heading for the club.",
+            "translated": "~z~他很快就会离开家去俱乐部了。",
+            "desc": ""
+        },
+        {
+            "hash": 2329545542,
+            "original": "~z~You don't have any family. You could run.",
+            "translated": "~z~你没有亲人，可以远走高飞。",
+            "desc": ""
+        },
+        {
+            "hash": 2350409817,
+            "original": "~z~Every second he lives, our lives are in danger. Your cousin's as well, Niko.",
+            "translated": "~z~他活着的每一秒，我们都有生命危险，你表哥也一样，Niko(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 2364415160,
+            "original": "100010100100",
+            "translated": "100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2417192696,
+            "original": "~z~You're given a choice,",
+            "translated": "~z~给你两个选择，",
+            "desc": ""
+        },
+        {
+            "hash": 2470432005,
+            "original": "~z~The time for mercy is over. I must rule with a fist of iron.",
+            "translated": "~z~仁慈的时代已经过去了，该是我铁腕统治的时代了。",
+            "desc": ""
+        },
+        {
+            "hash": 2496112517,
+            "original": "F6_JC",
+            "translated": "F6_JC",
+            "desc": ""
+        },
+        {
+            "hash": 2564434606,
+            "original": "~z~Do what you have to do.",
+            "translated": "~z~做你该做的事。",
+            "desc": ""
+        },
+        {
+            "hash": 2599748158,
+            "original": "~z~Betrayed, betrayed by Dimitri and by you.",
+            "translated": "~z~背叛啊，同时被Dimitri和你背叛。",
+            "desc": ""
+        },
+        {
+            "hash": 2605065895,
+            "original": "F6_DC",
+            "translated": "F6_DC",
+            "desc": ""
+        },
+        {
+            "hash": 2636492765,
+            "original": "~z~Wherever you go, people will find you, if they want to badly enough.",
+            "translated": "~z~只要他们愿意，不管你逃到哪儿，都会被找着的。",
+            "desc": ""
+        },
+        {
+            "hash": 2641890076,
+            "original": "~z~Not yet, Dimitri.",
+            "translated": "~z~还没有，Dimitri(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 2685395852,
+            "original": "F6_GF",
+            "translated": "F6_GF",
+            "desc": ""
+        },
+        {
+            "hash": 2727656131,
+            "original": "~z~Well I killed the boy, so they want me too.",
+            "translated": "~z~我杀了那小子，他们应该也想杀我。",
+            "desc": ""
+        },
+        {
+            "hash": 2805024604,
+            "original": "~z~So that's the way it is?",
+            "translated": "~z~所以就是这样了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2873389669,
+            "original": "F6_GA",
+            "translated": "F6_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2906968091,
+            "original": "~z~And for this they want blood.",
+            "translated": "~z~这次他们想要见血。",
+            "desc": ""
+        },
+        {
+            "hash": 2977051408,
+            "original": "~z~He is dead? You have killed Mikhail?",
+            "translated": "~z~他死了？你宰了Mikhail？(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 2982209595,
+            "original": "~z~Does he know that I had anything to do with this? How could you be so stupid?",
+            "translated": "~z~他知道这事是我指使的吗？你丫怎么能这么蠢？",
+            "desc": ""
+        },
+        {
+            "hash": 3000794905,
+            "original": "F6_GC",
+            "translated": "F6_GC",
+            "desc": ""
+        },
+        {
+            "hash": 3023149026,
+            "original": "F6_BA",
+            "translated": "F6_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3042698161,
+            "original": "~z~Yes, that's the way it is.",
+            "translated": "~z~是的，就是这样。",
+            "desc": ""
+        },
+        {
+            "hash": 3064662415,
+            "original": "~z~Niko Bellic.",
+            "translated": "~z~Niko Bellic。",
+            "desc": ""
+        },
+        {
+            "hash": 3075248926,
+            "original": "~z~This tattoo says we are brothers for life,",
+            "translated": "~z~这个纹身代表我们是一辈子的兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3082917384,
+            "original": "~z~You fight like a worm, like spineless worm, Bellic.",
+            "translated": "~z~你的攻势像条虫，没骨气的虫，Bellic。",
+            "desc": ""
+        },
+        {
+            "hash": 3094013551,
+            "original": "~z~Sure.",
+            "translated": "~z~是的。",
+            "desc": ""
+        },
+        {
+            "hash": 3195068277,
+            "original": "~z~Have this.",
+            "translated": "~z~拿好(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 3213456548,
+            "original": "~z~But you and Mikhail, you have so much history.",
+            "translated": "~z~但你和Mikhail，你俩交情很深了。",
+            "desc": ""
+        },
+        {
+            "hash": 3232210362,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3240879339,
+            "original": "~z~Burn in hell, pussy.",
+            "translated": "~z~下地狱吧，娘们(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 3250134855,
+            "original": "~z~You would be dead if it wasn't for me.",
+            "translated": "~z~要不是有我，你早就死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3250732863,
+            "original": "F6_BE_QQQ1",
+            "translated": "F6_BE_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 3323540151,
+            "original": "~z~You are nothing, Bellic, you are weak. Give up.",
+            "translated": "~z~你屁都不算，Bellic，你太弱了。放弃吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3353903100,
+            "original": "F6_KD",
+            "translated": "F6_KD",
+            "desc": ""
+        },
+        {
+            "hash": 3429540412,
+            "original": "F6_IB",
+            "translated": "F6_IB",
+            "desc": ""
+        },
+        {
+            "hash": 3441747613,
+            "original": "~z~Too kind, that's what I was, too kind.",
+            "translated": "~z~太仁慈了，之前我太仁慈了。",
+            "desc": ""
+        },
+        {
+            "hash": 3485647882,
+            "original": "~z~my brother.",
+            "translated": "~z~我兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3519420701,
+            "original": "~z~Not after you killed Petrovic's son.",
+            "translated": "~z~在你杀了Petrovic的儿子后就没了。",
+            "desc": ""
+        },
+        {
+            "hash": 3572113829,
+            "original": "~z~but we cannot change the rules.",
+            "translated": "~z~却不能改变规则。",
+            "desc": ""
+        },
+        {
+            "hash": 3619306678,
+            "original": "~z~You betrayed yourself, Mr. Faustin.",
+            "translated": "~z~是你背叛了自己，Faustin先生。",
+            "desc": ""
+        },
+        {
+            "hash": 3622333719,
+            "original": "F6_DF",
+            "translated": "F6_DF",
+            "desc": ""
+        },
+        {
+            "hash": 3696713523,
+            "original": "~z~The strong survive and the weak die. You will see.",
+            "translated": "~z~强者生存，败者食尘。你会明白的。",
+            "desc": ""
+        },
+        {
+            "hash": 3782505505,
+            "original": "~z~I am not dead yet.",
+            "translated": "~z~我还没有死。",
+            "desc": ""
+        },
+        {
+            "hash": 3798929713,
+            "original": "~z~I gave them everything and they took everything from me.",
+            "translated": "~z~我给了他们一切，他们却毁了我的一切。",
+            "desc": ""
+        },
+        {
+            "hash": 3826105772,
+            "original": "~z~kill your best friend, or die... what do you do?",
+            "translated": "~z~杀了你最好的朋友，或者自己死...你会怎么做？",
+            "desc": ""
+        },
+        {
+            "hash": 3841025563,
+            "original": "~z~You and Dimitri are taking over, no?",
+            "translated": "~z~你和Dimitri要取而代之了是吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3865985645,
+            "original": "~z~Not now.",
+            "translated": "~z~现在没有。",
+            "desc": ""
+        },
+        {
+            "hash": 3878245083,
+            "original": "F6_JA",
+            "translated": "F6_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3937532904,
+            "original": "~z~I got where I am for a reason. I won't have some Balkan shit take this away from me.",
+            "translated": "~z~我能有现在的地位是有原因的，不会让一个巴尔干傻逼夺走的。",
+            "desc": ""
+        },
+        {
+            "hash": 3984064372,
+            "original": "~z~You see this?",
+            "translated": "~z~看见了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4000565794,
+            "original": "~z~This American greed takes everyone. It is like a disease.",
+            "translated": "~z~这种美式贪婪感染了所有人，像是种传染病。",
+            "desc": ""
+        },
+        {
+            "hash": 4001942096,
+            "original": "~z~I am a man of convictions, I have only done what I believed.",
+            "translated": "~z~我是一个有信念的人，只做我坚信的事情。",
+            "desc": ""
+        },
+        {
+            "hash": 4044195607,
+            "original": "~z~You should have been calm.",
+            "translated": "~z~你早该冷静点了。",
+            "desc": ""
+        },
+        {
+            "hash": 4098726359,
+            "original": "~z~Some are still loyal to me.",
+            "translated": "~z~还是有人对我忠诚的。",
+            "desc": ""
+        },
+        {
+            "hash": 4109290604,
+            "original": "~z~Getting a little warm?",
+            "translated": "~z~有点热了？(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 4131107523,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4131588194,
+            "original": "~z~This is not about taking over.",
+            "translated": "~z~不是什么取而代之。",
+            "desc": ""
+        },
+        {
+            "hash": 4180033183,
+            "original": "~z~I let the snakes into the nest and they destroyed everything.",
+            "translated": "~z~我让毒蛇进了鸟窝，被他们毁掉了一切。",
+            "desc": ""
+        },
+        {
+            "hash": 4191199739,
+            "original": "F6_BB",
+            "translated": "F6_BB",
+            "desc": ""
+        },
+        {
+            "hash": 4197232795,
+            "original": "F6_DE",
+            "translated": "F6_DE",
+            "desc": ""
+        },
+        {
+            "hash": 4249840048,
+            "original": "F6_DB",
+            "translated": "F6_DB",
+            "desc": ""
+        },
+        {
+            "hash": 4259891236,
+            "original": "~z~You have me cornered. There is nowhere for me to go.",
+            "translated": "~z~你把我逼入了绝境，现在我也无处可退了。",
+            "desc": ""
+        },
+        {
+            "hash": 4275600581,
+            "original": "F6_JD",
+            "translated": "F6_JD",
+            "desc": ""
+        },
+        {
+            "hash": 4282917772,
+            "original": "~z~No one, not Dimitri, not anyone tells me to calm.",
+            "translated": "~z~没人，Dimitri也不行，没有人敢让我冷静。",
+            "desc": ""
+        }
+    ]
+}

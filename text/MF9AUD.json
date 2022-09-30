@@ -1,0 +1,682 @@
+{
+    "MF9AUD": [
+        {
+            "hash": 22108756,
+            "original": "~z~If you don't want to make things real difficult for him you're going to come to Comrades Bar on Mohawk. I have a work for you.",
+            "translated": "~z~你要是不想让他难做，就到Mohawk的Comrades酒吧来。我有活给你。",
+            "desc": ""
+        },
+        {
+            "hash": 27173617,
+            "original": "~z~You been a useful set of hands. Look after yourself.",
+            "translated": "~z~你一直都是个好帮手。照顾好自己。",
+            "desc": ""
+        },
+        {
+            "hash": 54928704,
+            "original": "~z~Who'd a thought an immigrant from the wrong side of the Adriatic would be the most reliable soldier we got?",
+            "translated": "~z~Who'd a thought an immigrant from the wrong side of the Adriatic would be the most reliable soldier we got?",
+            "desc": ""
+        },
+        {
+            "hash": 70405669,
+            "original": "SFX_MACHINE_BEEP",
+            "translated": "SFX_MACHINE_BEEP",
+            "desc": ""
+        },
+        {
+            "hash": 82526378,
+            "original": "MF4_XB",
+            "translated": "MF4_XB",
+            "desc": ""
+        },
+        {
+            "hash": 105180101,
+            "original": "MF4_XA",
+            "translated": "MF4_XA",
+            "desc": ""
+        },
+        {
+            "hash": 119090414,
+            "original": "~z~Niko, what's up, listen. This family's falling a-fucking part.",
+            "translated": "~z~Niko, what's up, listen. This family's falling a-fucking part.",
+            "desc": ""
+        },
+        {
+            "hash": 192404700,
+            "original": "~z~Hey, yokel. What the fuck? That car you got to me, it looked like shit. I got a hot date tonight.",
+            "translated": "~z~喂，乡巴佬。你搞毛？你给我弄来的车，烂得跟坨屎一样。今晚我还有个火热的约会呢。",
+            "desc": ""
+        },
+        {
+            "hash": 206841719,
+            "original": "~z~Who knows what's happened to him. Think of all the money you coulda made.",
+            "translated": "~z~Who knows what's happened to him. Think of all the money you coulda made.",
+            "desc": ""
+        },
+        {
+            "hash": 294240711,
+            "original": "~z~What'd'ya mean, Niko? We're family. We've welcomed you into the fold.",
+            "translated": "~z~What'd'ya mean, Niko? We're family. We've welcomed you into the fold.",
+            "desc": ""
+        },
+        {
+            "hash": 304240231,
+            "original": "~z~Don't worry about that cousin of yours, he won't be in no danger sleeping in your Algonquin pad by his self.",
+            "translated": "~z~Don't worry about that cousin of yours, he won't be in no danger sleeping in your Algonquin pad by his self.",
+            "desc": ""
+        },
+        {
+            "hash": 349637200,
+            "original": "MF4_WD",
+            "translated": "MF4_WD",
+            "desc": ""
+        },
+        {
+            "hash": 356130580,
+            "original": "MF4_KM",
+            "translated": "MF4_KM",
+            "desc": ""
+        },
+        {
+            "hash": 404308726,
+            "original": "~z~Hey, sorry things didn't work out, goodbye.",
+            "translated": "~z~Hey, sorry things didn't work out, goodbye.",
+            "desc": ""
+        },
+        {
+            "hash": 434272689,
+            "original": "~z~Too bad, man. It was clean, wasn't it? Well, maybe you should stay home. Goodbye.",
+            "translated": "~z~太糟了，老弟。车本来是干净的吧？大概你还是该待在家里。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 468601412,
+            "original": "MF4_KB",
+            "translated": "MF4_KB",
+            "desc": ""
+        },
+        {
+            "hash": 479179104,
+            "original": "MF4_UC",
+            "translated": "MF4_UC",
+            "desc": ""
+        },
+        {
+            "hash": 480397331,
+            "original": "~z~I guess I will. The horse is gone and I can't get Phil on the phone.",
+            "translated": "~z~I guess I will. The horse is gone and I can't get Phil on the phone.",
+            "desc": ""
+        },
+        {
+            "hash": 506573643,
+            "original": "~z~Hey baby, how about I take your beautiful ass out tonight? Maybe we can take one of your fat boyfriend's cabs...",
+            "translated": "~z~Hey baby, how about I take your beautiful ass out tonight? Maybe we can take one of your fat boyfriend's cabs...",
+            "desc": ""
+        },
+        {
+            "hash": 585128200,
+            "original": "MF4_KA",
+            "translated": "MF4_KA",
+            "desc": ""
+        },
+        {
+            "hash": 615928164,
+            "original": "MF4_KJ",
+            "translated": "MF4_KJ",
+            "desc": ""
+        },
+        {
+            "hash": 651422811,
+            "original": "~z~I'm not in the family, I'm your employee, Mr. Pegorino. You seem to get this stuff confused.",
+            "translated": "~z~I'm not in the family, I'm your employee, Mr. Pegorino. You seem to get this stuff confused.",
+            "desc": ""
+        },
+        {
+            "hash": 724647245,
+            "original": "MF4_RB",
+            "translated": "MF4_RB",
+            "desc": ""
+        },
+        {
+            "hash": 831329541,
+            "original": "MF4_XF",
+            "translated": "MF4_XF",
+            "desc": ""
+        },
+        {
+            "hash": 876137315,
+            "original": "MF4_WF",
+            "translated": "MF4_WF",
+            "desc": ""
+        },
+        {
+            "hash": 888670623,
+            "original": "~z~We're back on top, Niko. The Pegorinos is still somebody.",
+            "translated": "~z~我们重振雄风了，Niko。Pegorino家族还是有地位的。",
+            "desc": ""
+        },
+        {
+            "hash": 971109915,
+            "original": "MF4_KG",
+            "translated": "MF4_KG",
+            "desc": ""
+        },
+        {
+            "hash": 1004985448,
+            "original": "MF4_LA",
+            "translated": "MF4_LA",
+            "desc": ""
+        },
+        {
+            "hash": 1095710557,
+            "original": "~z~She won't be impressed with the way you look, so clean car is good thing. Later on.",
+            "translated": "~z~她不会对你的长相留下好印象的，所以一辆干净的车也还不错。回见。",
+            "desc": ""
+        },
+        {
+            "hash": 1150794581,
+            "original": "~z~Don't get cute, kid. It don't suit you. You're staying in Alderney now, just like me and Phil.",
+            "translated": "~z~Don't get cute, kid. It don't suit you. You're staying in Alderney now, just like me and Phil.",
+            "desc": ""
+        },
+        {
+            "hash": 1226916968,
+            "original": "~z~A nice apartment in Alderney City, on Mahesh Avenue. Real classy.",
+            "translated": "~z~A nice apartment in Alderney City, on Mahesh Avenue. Real classy.",
+            "desc": ""
+        },
+        {
+            "hash": 1279407927,
+            "original": "~z~I bought some of his debt for him. Now he don't have to worry about no loansharks coming after him, just me.",
+            "translated": "~z~I bought some of his debt for him. Now he don't have to worry about no loansharks coming after him, just me.",
+            "desc": ""
+        },
+        {
+            "hash": 1297023676,
+            "original": "MF4_RA",
+            "translated": "MF4_RA",
+            "desc": ""
+        },
+        {
+            "hash": 1373647538,
+            "original": "~z~Money's not what motivates everyone, Mr. Pegorino. I had more important things to think about.",
+            "translated": "~z~Money's not what motivates everyone, Mr. Pegorino. I had more important things to think about.",
+            "desc": ""
+        },
+        {
+            "hash": 1375262748,
+            "original": "MF4_XH",
+            "translated": "MF4_XH",
+            "desc": ""
+        },
+        {
+            "hash": 1465966823,
+            "original": "~z~This is a gift, Jimmy, or a way for you to keep your eye on me?",
+            "translated": "~z~This is a gift, Jimmy, or a way for you to keep your eye on me?",
+            "desc": ""
+        },
+        {
+            "hash": 1518326706,
+            "original": "~z~And that means we're looking after your cousin too. That guy likes to gamble, don't he?",
+            "translated": "~z~And that means we're looking after your cousin too. That guy likes to gamble, don't he?",
+            "desc": ""
+        },
+        {
+            "hash": 1520500980,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 1525923866,
+            "original": "MF4_KL",
+            "translated": "MF4_KL",
+            "desc": ""
+        },
+        {
+            "hash": 1558954594,
+            "original": "MF4_KK",
+            "translated": "MF4_KK",
+            "desc": ""
+        },
+        {
+            "hash": 1597057847,
+            "original": "MF4_WA",
+            "translated": "MF4_WA",
+            "desc": ""
+        },
+        {
+            "hash": 1659387620,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 1675215914,
+            "original": "MF4_KD",
+            "translated": "MF4_KD",
+            "desc": ""
+        },
+        {
+            "hash": 1683964098,
+            "original": "MF4_UB",
+            "translated": "MF4_UB",
+            "desc": ""
+        },
+        {
+            "hash": 1713256707,
+            "original": "MF4_TD",
+            "translated": "MF4_TD",
+            "desc": ""
+        },
+        {
+            "hash": 1748852588,
+            "original": "~z~I'm my own man and I follow my own instincts.",
+            "translated": "~z~I'm my own man and I follow my own instincts.",
+            "desc": ""
+        },
+        {
+            "hash": 1760639658,
+            "original": "MF4_SB",
+            "translated": "MF4_SB",
+            "desc": ""
+        },
+        {
+            "hash": 1776837314,
+            "original": "~z~I never made any promises to you, Mr. Pegorino.",
+            "translated": "~z~I never made any promises to you, Mr. Pegorino.",
+            "desc": ""
+        },
+        {
+            "hash": 1793066981,
+            "original": "~z~I'd prefer to be a paid employee than a relative.",
+            "translated": "~z~I'd prefer to be a paid employee than a relative.",
+            "desc": ""
+        },
+        {
+            "hash": 1874656812,
+            "original": "~z~Forget about it. I'm gonna hold onto it for a while. Least I could do. Ciao.",
+            "translated": "~z~Forget about it. I'm gonna hold onto it for a while. Least I could do. Ciao.",
+            "desc": ""
+        },
+        {
+            "hash": 1923979325,
+            "original": "MF4_XG",
+            "translated": "MF4_XG",
+            "desc": ""
+        },
+        {
+            "hash": 1995770212,
+            "original": "SFX_MACHINE_BEEP",
+            "translated": "SFX_MACHINE_BEEP",
+            "desc": ""
+        },
+        {
+            "hash": 2008836023,
+            "original": "MF4_KH",
+            "translated": "MF4_KH",
+            "desc": ""
+        },
+        {
+            "hash": 2066685850,
+            "original": "100010010100100010100100",
+            "translated": "100010010100100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2073560609,
+            "original": "~z~That's something you're going to have to accept.",
+            "translated": "~z~That's something you're going to have to accept.",
+            "desc": ""
+        },
+        {
+            "hash": 2078517740,
+            "original": "~z~Ha, sure, Niko. I'm giving you a gift.",
+            "translated": "~z~Ha, sure, Niko. I'm giving you a gift.",
+            "desc": ""
+        },
+        {
+            "hash": 2113116825,
+            "original": "~z~You don't need to do that for my cousin, Mr. Pegorino. I can handle all his debt. I'll cover it.",
+            "translated": "~z~You don't need to do that for my cousin, Mr. Pegorino. I can handle all his debt. I'll cover it.",
+            "desc": ""
+        },
+        {
+            "hash": 2149247517,
+            "original": "MF4_SA",
+            "translated": "MF4_SA",
+            "desc": ""
+        },
+        {
+            "hash": 2155975745,
+            "original": "~z~Now, I'm out. I don't want to get involved in this shit no more. Good luck to you.",
+            "translated": "~z~Now, I'm out. I don't want to get involved in this shit no more. Good luck to you.",
+            "desc": ""
+        },
+        {
+            "hash": 2188494958,
+            "original": "SFX_MACHINE_BEEP",
+            "translated": "SFX_MACHINE_BEEP",
+            "desc": ""
+        },
+        {
+            "hash": 2225211814,
+            "original": "100010100",
+            "translated": "100010100",
+            "desc": ""
+        },
+        {
+            "hash": 2238878440,
+            "original": "~z~Hello, this is Vladimir's answer phone message. Be leaving a recording for me after the buzz has been playing.",
+            "translated": "~z~你好，这里是Vladimir的留言信箱。请在蜂鸣声后向我留言。",
+            "desc": ""
+        },
+        {
+            "hash": 2337121676,
+            "original": "~z~Dimitri and I had unfinished business so I went ahead and finished it.",
+            "translated": "~z~Dimitri and I had unfinished business so I went ahead and finished it.",
+            "desc": ""
+        },
+        {
+            "hash": 2364018870,
+            "original": "~z~Who are you calling, Vlad?",
+            "translated": "~z~Who are you calling, Vlad?",
+            "desc": ""
+        },
+        {
+            "hash": 2366800541,
+            "original": "MF4_WG",
+            "translated": "MF4_WG",
+            "desc": ""
+        },
+        {
+            "hash": 2389495550,
+            "original": "~z~Niko, It's Jimmy. You're doing real well, kid. You're becoming part of the family.",
+            "translated": "~z~Niko, It's Jimmy. You're doing real well, kid. You're becoming part of the family.",
+            "desc": ""
+        },
+        {
+            "hash": 2410778974,
+            "original": "100100100",
+            "translated": "100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2425845784,
+            "original": "MF4_MB",
+            "translated": "MF4_MB",
+            "desc": ""
+        },
+        {
+            "hash": 2447777924,
+            "original": "100100010010010010100100010010100100010",
+            "translated": "100100010010010010100100010010100100010",
+            "desc": ""
+        },
+        {
+            "hash": 2492057281,
+            "original": "SFX_MACHINE_BEEP",
+            "translated": "SFX_MACHINE_BEEP",
+            "desc": ""
+        },
+        {
+            "hash": 2499183012,
+            "original": "~z~You better start remembering important people you dumb peasant. Your cousin owes me a lot of money.",
+            "translated": "~z~你最好记住那些大人物，蠢蛋土包子。你堂兄可欠了我一大笔钱。",
+            "desc": ""
+        },
+        {
+            "hash": 2508971602,
+            "original": "~z~Niko, the shit has gone down. I need to see you. Come to the club in Tudor.",
+            "translated": "~z~Niko，情况不太妙，我需要见你。到Tudor的俱乐部来。",
+            "desc": ""
+        },
+        {
+            "hash": 2552851724,
+            "original": "MF4_XC",
+            "translated": "MF4_XC",
+            "desc": ""
+        },
+        {
+            "hash": 2605116223,
+            "original": "~z~For a peasant you did okay. Car looks good. Girl I'm taking out tonight is going to be impressed.",
+            "translated": "~z~作为一个乡巴佬你的表现还不错。车子看上去很好。今晚我带出去的姑娘会有个好印象的。",
+            "desc": ""
+        },
+        {
+            "hash": 2618190401,
+            "original": "~z~Hey, let's keep this a business relationship.",
+            "translated": "~z~Hey, let's keep this a business relationship.",
+            "desc": ""
+        },
+        {
+            "hash": 2723688226,
+            "original": "MF4_TB",
+            "translated": "MF4_TB",
+            "desc": ""
+        },
+        {
+            "hash": 2748414685,
+            "original": "~z~Alright Mr. Pegorino, I'll see you there.",
+            "translated": "~z~好的，Pegorino先生，我会来找你的。",
+            "desc": ""
+        },
+        {
+            "hash": 2763334671,
+            "original": "MF4_LD",
+            "translated": "MF4_LD",
+            "desc": ""
+        },
+        {
+            "hash": 2776161839,
+            "original": "~z~How hard would it have been to suck up your pride to do one deal? Now, I got nothing left to lose.",
+            "translated": "~z~How hard would it have been to suck up your pride to do one deal? Now, I got nothing left to lose.",
+            "desc": ""
+        },
+        {
+            "hash": 2864753976,
+            "original": "~z~Vlad? Name doesn't ring any bells. I'm sorry.",
+            "translated": "~z~Vlad？好像不认识啊，抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 2935767916,
+            "original": "MF4_WB",
+            "translated": "MF4_WB",
+            "desc": ""
+        },
+        {
+            "hash": 2963818404,
+            "original": "MF4_WI",
+            "translated": "MF4_WI",
+            "desc": ""
+        },
+        {
+            "hash": 2999187653,
+            "original": "~z~You're a snake. You've turned around and bit the hand that fed you.",
+            "translated": "~z~You're a snake. You've turned around and bit the hand that fed you.",
+            "desc": ""
+        },
+        {
+            "hash": 3035474320,
+            "original": "100100010100",
+            "translated": "100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 3095546043,
+            "original": "~z~Yokel, fatty Roman's cousin, it's Vlad.",
+            "translated": "~z~乡巴佬，肥仔Roman的堂弟，我是Vlad。",
+            "desc": ""
+        },
+        {
+            "hash": 3147115579,
+            "original": "MF4_XI",
+            "translated": "MF4_XI",
+            "desc": ""
+        },
+        {
+            "hash": 3162494436,
+            "original": "MF4_LB",
+            "translated": "MF4_LB",
+            "desc": ""
+        },
+        {
+            "hash": 3162623048,
+            "original": "MF4_MA",
+            "translated": "MF4_MA",
+            "desc": ""
+        },
+        {
+            "hash": 3165020256,
+            "original": "MF4_WC",
+            "translated": "MF4_WC",
+            "desc": ""
+        },
+        {
+            "hash": 3209481974,
+            "original": "~z~Salve. This is Jimmy Pegorino's phone. Leave a message.",
+            "translated": "~z~你好，这是Jimmy Pegorino的电话。请留言。",
+            "desc": ""
+        },
+        {
+            "hash": 3213113277,
+            "original": "MF4_XD",
+            "translated": "MF4_XD",
+            "desc": ""
+        },
+        {
+            "hash": 3245370994,
+            "original": "MF4_TC",
+            "translated": "MF4_TC",
+            "desc": ""
+        },
+        {
+            "hash": 3435493124,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 3441021896,
+            "original": "MF4_XE",
+            "translated": "MF4_XE",
+            "desc": ""
+        },
+        {
+            "hash": 3486844234,
+            "original": "100100100010100100100010100",
+            "translated": "100100100010100100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 3500126259,
+            "original": "~z~I had that deal set up. I needed this, it was my only way back in and you fucked me.",
+            "translated": "~z~I had that deal set up. I needed this, it was my only way back in and you fucked me.",
+            "desc": ""
+        },
+        {
+            "hash": 3658688987,
+            "original": "MF4_KC",
+            "translated": "MF4_KC",
+            "desc": ""
+        },
+        {
+            "hash": 3709327836,
+            "original": "~z~Phil's bringing me my taste of the cash and Dimitri's still got hold of the horse. This is perfect.",
+            "translated": "~z~Phil会把分成给我，Dimitri手上的海马也还在。太完美了。",
+            "desc": ""
+        },
+        {
+            "hash": 3729145806,
+            "original": "MF4_UA",
+            "translated": "MF4_UA",
+            "desc": ""
+        },
+        {
+            "hash": 3791211155,
+            "original": "MF4_KI",
+            "translated": "MF4_KI",
+            "desc": ""
+        },
+        {
+            "hash": 3801446352,
+            "original": "100010100100",
+            "translated": "100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 3808463530,
+            "original": "MF4_VA",
+            "translated": "MF4_VA",
+            "desc": ""
+        },
+        {
+            "hash": 3828438870,
+            "original": "~z~You smug fucking bastard, after all I done for you, you play me like this.",
+            "translated": "~z~You smug fucking bastard, after all I done for you, you play me like this.",
+            "desc": ""
+        },
+        {
+            "hash": 3872567108,
+            "original": "MF4_WE",
+            "translated": "MF4_WE",
+            "desc": ""
+        },
+        {
+            "hash": 3885854179,
+            "original": "MF4_JA",
+            "translated": "MF4_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3934826069,
+            "original": "MF4_LC",
+            "translated": "MF4_LC",
+            "desc": ""
+        },
+        {
+            "hash": 3937685721,
+            "original": "MF4_KE",
+            "translated": "MF4_KE",
+            "desc": ""
+        },
+        {
+            "hash": 3964361687,
+            "original": "MF4_KF",
+            "translated": "MF4_KF",
+            "desc": ""
+        },
+        {
+            "hash": 3967995882,
+            "original": "~z~Ahh, the dumb yokel, I meant to call this girl I'm seeing.",
+            "translated": "~z~Ahh, the dumb yokel, I meant to call this girl I'm seeing.",
+            "desc": ""
+        },
+        {
+            "hash": 3991588410,
+            "original": "MF4_TA",
+            "translated": "MF4_TA",
+            "desc": ""
+        },
+        {
+            "hash": 4067689628,
+            "original": "~z~I hope your partnership is a fruitful one. Good luck and goodbye.",
+            "translated": "~z~希望你们的合作能有好结果。祝你好运，再见。",
+            "desc": ""
+        },
+        {
+            "hash": 4133871300,
+            "original": "100100100",
+            "translated": "100100100",
+            "desc": ""
+        },
+        {
+            "hash": 4261747390,
+            "original": "~z~We're lucky to have you in the family.",
+            "translated": "~z~We're lucky to have you in the family.",
+            "desc": ""
+        }
+    ]
+}

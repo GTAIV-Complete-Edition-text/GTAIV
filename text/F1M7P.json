@@ -1,0 +1,184 @@
+{
+    "F1M7P": [
+        {
+            "hash": 239813807,
+            "original": "You have ~1~ second to get back in the ~b~car.",
+            "translated": "在~1~秒内回到~b~车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 261130781,
+            "original": "Pick up the customer from ~y~Outlook.",
+            "translated": "去~y~Outlook~s~接上乘客。",
+            "desc": ""
+        },
+        {
+            "hash": 349951280,
+            "original": "Pick up the customer from ~y~Boulevard.",
+            "translated": "去~y~Boulevard~s~接上乘客。",
+            "desc": ""
+        },
+        {
+            "hash": 407166586,
+            "original": "~s~Take the customer to ~y~Fortside.",
+            "translated": "~s~将乘客送到~y~Fortside。",
+            "desc": ""
+        },
+        {
+            "hash": 562391843,
+            "original": "You have ~1~ seconds to get back in the ~b~car.",
+            "translated": "在~1~秒内回到~b~车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 699596222,
+            "original": "~s~Take the customer to ~y~East Island city.",
+            "translated": "~s~将乘客送到~y~东岛城。",
+            "desc": ""
+        },
+        {
+            "hash": 745882598,
+            "original": "Pick up the customer from ~y~Firefly Island.",
+            "translated": "去~y~Firefly Island~s~接上乘客。",
+            "desc": ""
+        },
+        {
+            "hash": 918231282,
+            "original": "Pick up the customer from ~y~South Bohan.",
+            "translated": "去~y~South Bohan~s~接上乘客。",
+            "desc": ""
+        },
+        {
+            "hash": 1215413343,
+            "original": "Pick up the customer from ~y~Industrial.",
+            "translated": "去~y~工业区~s~接上乘客。",
+            "desc": ""
+        },
+        {
+            "hash": 1380830967,
+            "original": "~s~Take the customer to ~y~Steinway.",
+            "translated": "~s~将乘客送到~y~Steinway。",
+            "desc": ""
+        },
+        {
+            "hash": 1544512410,
+            "original": "Pick up the customer from ~y~Cerveza Heights.",
+            "translated": "去~y~Cerveza Heights~s~接上乘客。",
+            "desc": ""
+        },
+        {
+            "hash": 1832960812,
+            "original": "~r~The fare was lost.",
+            "translated": "~r~这单没了。",
+            "desc": ""
+        },
+        {
+            "hash": 1940952404,
+            "original": "To quit the mission call Roman.",
+            "translated": "打电话给Roman可退出任务。",
+            "desc": ""
+        },
+        {
+            "hash": 2137745281,
+            "original": "Now release key and Pick dropoff(debug)",
+            "translated": "(debug)",
+            "desc": ""
+        },
+        {
+            "hash": 2468303289,
+            "original": "Pick up the customer from ~y~Northern Gardens.",
+            "translated": "去~y~Northern Gardens~s~接上乘客。",
+            "desc": ""
+        },
+        {
+            "hash": 2576554956,
+            "original": "~r~The passenger was scared off.",
+            "translated": "~r~乘客被吓跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 2863447551,
+            "original": "Stop near the customer, or press ~INPUT_VEH_HORN~ to sound the horn to get the attention of the customer.",
+            "translated": "停到乘客附近，或按~INPUT_VEH_HORN~鸣笛引起乘客的注意。",
+            "desc": ""
+        },
+        {
+            "hash": 2895152915,
+            "original": "~s~Take the customer to ~y~Boulevard.",
+            "translated": "~s~将乘客送到~y~Boulevard。",
+            "desc": ""
+        },
+        {
+            "hash": 3019034763,
+            "original": "Hurry up.",
+            "translated": "加快速度。",
+            "desc": ""
+        },
+        {
+            "hash": 3129352958,
+            "original": "~s~Take the customer to ~y~Industrial.",
+            "translated": "~s~将乘客送到~y~Industrial。",
+            "desc": ""
+        },
+        {
+            "hash": 3352902156,
+            "original": "~s~Take the customer to ~y~East Island City.",
+            "translated": "~s~将乘客送到~y~东岛城。",
+            "desc": ""
+        },
+        {
+            "hash": 3428434701,
+            "original": "~s~Take the customer to ~y~Meadow Hills station.",
+            "translated": "~s~将乘客送到~y~Meadow Hills车站。",
+            "desc": ""
+        },
+        {
+            "hash": 3600340851,
+            "original": "Pick up the customer from ~y~Outlook.",
+            "translated": "去~y~Outlook~s~接上乘客。",
+            "desc": ""
+        },
+        {
+            "hash": 3611597170,
+            "original": "~r~The car was destroyed.",
+            "translated": "~r~车子被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3734202240,
+            "original": "~s~Take the customer to ~y~Cerveza Heights.",
+            "translated": "~s~将乘客送到~y~Cerveza Heights。",
+            "desc": ""
+        },
+        {
+            "hash": 3768970125,
+            "original": "Pick up the customer from ~y~Beechwood City.",
+            "translated": "去~y~Beechwood City~s~接上乘客。",
+            "desc": ""
+        },
+        {
+            "hash": 3816501151,
+            "original": "Go and get ~b~Roman's car~s~ for the pickup.",
+            "translated": "去拿~b~Roman的车~s~接单。",
+            "desc": ""
+        },
+        {
+            "hash": 3891477199,
+            "original": "Pick up the customer from ~y~Hove Beach.",
+            "translated": "去~y~Hove Beach~s~接上乘客。",
+            "desc": ""
+        },
+        {
+            "hash": 4075851834,
+            "original": "~s~Take the customer to ~y~Schottler.",
+            "translated": "~s~将乘客送到~y~Schottler。",
+            "desc": ""
+        },
+        {
+            "hash": 4294224450,
+            "original": "~s~Take the customer to ~y~Meadow Hills.",
+            "translated": "~s~将乘客送到~y~Meadow Hills。",
+            "desc": ""
+        }
+    ]
+}

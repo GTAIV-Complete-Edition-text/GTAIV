@@ -1,0 +1,1390 @@
+{
+    "FM3AUD": [
+        {
+            "hash": 46506237,
+            "original": "~z~I've always been a good boy, you know me, Ma.",
+            "translated": "~z~我向来都是个好孩子。你是懂我的，妈。",
+            "desc": ""
+        },
+        {
+            "hash": 48175989,
+            "original": "~z~You in some real shit now!",
+            "translated": "~z~你丫摊上大事了！",
+            "desc": ""
+        },
+        {
+            "hash": 70213827,
+            "original": "~z~This really ain't the place for you, tough guy.",
+            "translated": "~z~这里不是你该来的地方，刺头。",
+            "desc": ""
+        },
+        {
+            "hash": 72718913,
+            "original": "~z~Yeah you. Remember, you're doing a real service for the community by getting rid of this scumbag.",
+            "translated": "~z~对，你。记住，除掉这个小人就是为社会做巨大贡献。",
+            "desc": ""
+        },
+        {
+            "hash": 95731728,
+            "original": "~z~And maybe good men will get taken down by that evidence.",
+            "translated": "~z~而且可能还会有好人因为那份证据被干掉。",
+            "desc": ""
+        },
+        {
+            "hash": 123513447,
+            "original": "~z~You know why?",
+            "translated": "~z~知道为什么这么说吗？",
+            "desc": ""
+        },
+        {
+            "hash": 128034185,
+            "original": "FM3_NA",
+            "translated": "FM3_NA",
+            "desc": ""
+        },
+        {
+            "hash": 129636099,
+            "original": "801",
+            "translated": "801",
+            "desc": ""
+        },
+        {
+            "hash": 135617512,
+            "original": "~z~Clarence told me to dead any fool who don't belong in here.",
+            "translated": "~z~Clarence跟我说过，干死任何不是这儿人的傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 157063226,
+            "original": "~z~Yo, it's that rat cop McReary. Ain't it?",
+            "translated": "~z~哟，就那个骗子警察McReary，对不对？",
+            "desc": ""
+        },
+        {
+            "hash": 196240251,
+            "original": "FM3_PC",
+            "translated": "FM3_PC",
+            "desc": ""
+        },
+        {
+            "hash": 205680314,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 206917169,
+            "original": "~z~Of course.",
+            "translated": "~z~肯定的。",
+            "desc": ""
+        },
+        {
+            "hash": 221753789,
+            "original": "~z~Yo, you better bounce.",
+            "translated": "~z~哟，你最好走人。",
+            "desc": ""
+        },
+        {
+            "hash": 230800262,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 268674640,
+            "original": "~z~Enjoy this, bitch.",
+            "translated": "~z~尝尝这个，贱人。",
+            "desc": ""
+        },
+        {
+            "hash": 278473771,
+            "original": "FM3_UA",
+            "translated": "FM3_UA",
+            "desc": ""
+        },
+        {
+            "hash": 287680392,
+            "original": "FM3_RA",
+            "translated": "FM3_RA",
+            "desc": ""
+        },
+        {
+            "hash": 325252382,
+            "original": "FM3_LH",
+            "translated": "FM3_LH",
+            "desc": ""
+        },
+        {
+            "hash": 330882552,
+            "original": "~z~Sure... and the moon is made of cheese and the streets is paved with gold.",
+            "translated": "~z~当然了...月亮是奶酪做的，路上遍地黄金。",
+            "desc": ""
+        },
+        {
+            "hash": 345702769,
+            "original": "~z~Going up there would be a dumb play. I'm telling you that.",
+            "translated": "~z~往上走纯属找死，话我就撂这儿了。",
+            "desc": ""
+        },
+        {
+            "hash": 354533370,
+            "original": "~z~You 'bout to get banged dude!",
+            "translated": "~z~你丫等着被射爆吧，兄弟！",
+            "desc": ""
+        },
+        {
+            "hash": 359712128,
+            "original": "~z~You're a real fuck up.",
+            "translated": "~z~你丫就是个废物。",
+            "desc": ""
+        },
+        {
+            "hash": 375157988,
+            "original": "FM3_BA",
+            "translated": "FM3_BA",
+            "desc": ""
+        },
+        {
+            "hash": 378814142,
+            "original": "~z~Francis McReary is the community now?",
+            "translated": "~z~现在Francis McReary成了社会代言人了？",
+            "desc": ""
+        },
+        {
+            "hash": 380330717,
+            "original": "~z~Some drug dealer is holed up in a tower block in East Holland.",
+            "translated": "~z~某个毒贩藏在East Holland的公寓楼里。",
+            "desc": ""
+        },
+        {
+            "hash": 405634513,
+            "original": "FM3_PD",
+            "translated": "FM3_PD",
+            "desc": ""
+        },
+        {
+            "hash": 409101675,
+            "original": "~z~Maybe people make mistakes.",
+            "translated": "~z~犯错可能是人之常情。",
+            "desc": ""
+        },
+        {
+            "hash": 460143707,
+            "original": "~z~Yo, yo, yo. Man, you got me, chill.",
+            "translated": "~z~哟哟哟，老兄，你赢了，冷静。",
+            "desc": ""
+        },
+        {
+            "hash": 464220189,
+            "original": "~z~Five G's...",
+            "translated": "~z~五千...",
+            "desc": ""
+        },
+        {
+            "hash": 530742642,
+            "original": "FM3_AC",
+            "translated": "FM3_AC",
+            "desc": ""
+        },
+        {
+            "hash": 538756538,
+            "original": "~z~This isn't my choice, the police want you dead.",
+            "translated": "~z~这不是我的选择，那个警察要你死。",
+            "desc": ""
+        },
+        {
+            "hash": 548711711,
+            "original": "010100100010",
+            "translated": "010100100010",
+            "desc": ""
+        },
+        {
+            "hash": 550208084,
+            "original": "FM3_AA",
+            "translated": "FM3_AA",
+            "desc": ""
+        },
+        {
+            "hash": 552761451,
+            "original": "~z~Wake up.",
+            "translated": "~z~别做梦了。",
+            "desc": ""
+        },
+        {
+            "hash": 557610779,
+            "original": "~z~How much?",
+            "translated": "~z~多少？",
+            "desc": ""
+        },
+        {
+            "hash": 579809426,
+            "original": "SFX_PAUSE_500",
+            "translated": "SFX_PAUSE_500",
+            "desc": ""
+        },
+        {
+            "hash": 586410453,
+            "original": "FM3_AI",
+            "translated": "FM3_AI",
+            "desc": ""
+        },
+        {
+            "hash": 588341712,
+            "original": "~z~-Good to see you.~n~-I'm sure.",
+            "translated": "~z~－很高兴见到你。~n~－当然了。",
+            "desc": ""
+        },
+        {
+            "hash": 621257294,
+            "original": "~z~Upstairs for residents only. I know your white ass don't live in this shit.",
+            "translated": "~z~只有住户能上楼，我知道你个白佬不住这儿。",
+            "desc": ""
+        },
+        {
+            "hash": 625623992,
+            "original": "010100100100",
+            "translated": "010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 652271447,
+            "original": "~z~Try to get off the ground floor before getting violent.",
+            "translated": "~z~引起冲突前最好能先上到二楼。",
+            "desc": ""
+        },
+        {
+            "hash": 659057154,
+            "original": "~z~No. I don't care about Packie... listen, Ma, I've got to go.",
+            "translated": "~z~不行。我才不管Packie会怎样...听着，妈，我得挂了。",
+            "desc": ""
+        },
+        {
+            "hash": 667985884,
+            "original": "~z~Shit, I wouldn't recommend going up there. It ain't gonna end well for you.",
+            "translated": "~z~靠，我不建议你上楼，你下场会很惨的。",
+            "desc": ""
+        },
+        {
+            "hash": 702388276,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        },
+        {
+            "hash": 811070021,
+            "original": "~z~Violent... me?",
+            "translated": "~z~冲突...我？",
+            "desc": ""
+        },
+        {
+            "hash": 826568353,
+            "original": "FM3_TA",
+            "translated": "FM3_TA",
+            "desc": ""
+        },
+        {
+            "hash": 847419194,
+            "original": "FM3_AB",
+            "translated": "FM3_AB",
+            "desc": ""
+        },
+        {
+            "hash": 857348826,
+            "original": "~z~Two?",
+            "translated": "~z~两千？",
+            "desc": ""
+        },
+        {
+            "hash": 881434295,
+            "original": "FM3_QD",
+            "translated": "FM3_QD",
+            "desc": ""
+        },
+        {
+            "hash": 896540326,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 942894014,
+            "original": "FM3_VA",
+            "translated": "FM3_VA",
+            "desc": ""
+        },
+        {
+            "hash": 955763242,
+            "original": "~z~Only thing you'll find up there is a bunch a people who wanna kick your ass.",
+            "translated": "~z~你在这儿唯一能找到的就是一帮想踹你屁股的人。",
+            "desc": ""
+        },
+        {
+            "hash": 962060688,
+            "original": "FM3_LJ",
+            "translated": "FM3_LJ",
+            "desc": ""
+        },
+        {
+            "hash": 967968818,
+            "original": "FM3_AI",
+            "translated": "FM3_AI",
+            "desc": ""
+        },
+        {
+            "hash": 987890286,
+            "original": "~z~Clarence gonna be real pissed that you started this.",
+            "translated": "~z~你来这出Clarence会很生气的。",
+            "desc": ""
+        },
+        {
+            "hash": 997525631,
+            "original": "~z~The guys you see are gonna be working for that scumbag in one way or another.",
+            "translated": "~z~你见到的人基本都是替那个小人卖命的。",
+            "desc": ""
+        },
+        {
+            "hash": 998051399,
+            "original": "~z~You might wanna go home...",
+            "translated": "~z~你还是回家吧...",
+            "desc": ""
+        },
+        {
+            "hash": 1001612053,
+            "original": "FM3_OA",
+            "translated": "FM3_OA",
+            "desc": ""
+        },
+        {
+            "hash": 1023962022,
+            "original": "FM3_AC",
+            "translated": "FM3_AC",
+            "desc": ""
+        },
+        {
+            "hash": 1059080701,
+            "original": "~z~You come to the wrong project, fool. And you gonna pay for it.",
+            "translated": "~z~你来错社区了，傻逼。你会为此付出代价。",
+            "desc": ""
+        },
+        {
+            "hash": 1081678832,
+            "original": "~z~This guy is probably out dealing to them.",
+            "translated": "~z~这人可能要向他们贩毒了。",
+            "desc": ""
+        },
+        {
+            "hash": 1087968991,
+            "original": "FM3_ND",
+            "translated": "FM3_ND",
+            "desc": ""
+        },
+        {
+            "hash": 1111886380,
+            "original": "~z~Come on, boss.",
+            "translated": "~z~求你了，大哥。",
+            "desc": ""
+        },
+        {
+            "hash": 1159224085,
+            "original": "FM3_EA",
+            "translated": "FM3_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1183760835,
+            "original": "~z~Good money.",
+            "translated": "~z~很多钱。",
+            "desc": ""
+        },
+        {
+            "hash": 1290964488,
+            "original": "801",
+            "translated": "801",
+            "desc": ""
+        },
+        {
+            "hash": 1293389939,
+            "original": "500500050",
+            "translated": "500500050",
+            "desc": ""
+        },
+        {
+            "hash": 1303227632,
+            "original": "~z~Anyway, these projects all got the same layout, a staircase leading up on either side.",
+            "translated": "~z~总之，这些公屋的设计都差不多，两边各一个楼梯。",
+            "desc": ""
+        },
+        {
+            "hash": 1305510734,
+            "original": "~z~The streets are a little bit cleaner now he's gone. One percent - it's all we can hope for.",
+            "translated": "~z~他死了，街道就又干净了一点。百分之一，我们只能奢望这个。",
+            "desc": ""
+        },
+        {
+            "hash": 1317003867,
+            "original": "FM3_LA",
+            "translated": "FM3_LA",
+            "desc": ""
+        },
+        {
+            "hash": 1348047422,
+            "original": "FM3_AB",
+            "translated": "FM3_AB",
+            "desc": ""
+        },
+        {
+            "hash": 1361642832,
+            "original": "~z~This ain't looking good for you, bitch.",
+            "translated": "~z~你的情况不太妙啊，贱人。",
+            "desc": ""
+        },
+        {
+            "hash": 1378336589,
+            "original": "~z~You think this is funny?",
+            "translated": "~z~你觉得这好笑吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1411544065,
+            "original": "~z~This ain't the place for you, son. You dead.",
+            "translated": "~z~这不是你该来的地方，小子。你死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1412587834,
+            "original": "~z~You mean five.",
+            "translated": "~z~五千还差不多。",
+            "desc": ""
+        },
+        {
+            "hash": 1422705930,
+            "original": "~z~Sure, Ma. Sure...",
+            "translated": "~z~好的，妈。当然...",
+            "desc": ""
+        },
+        {
+            "hash": 1424666485,
+            "original": "~z~He don't like a younger brother with ambition. Tell you what, I'll reform.",
+            "translated": "~z~他不喜欢有野心的小兄弟。这么说吧，我会洗心革面的。",
+            "desc": ""
+        },
+        {
+            "hash": 1448965102,
+            "original": "FM3_LF",
+            "translated": "FM3_LF",
+            "desc": ""
+        },
+        {
+            "hash": 1482450270,
+            "original": "~z~Two G's.",
+            "translated": "~z~两千。",
+            "desc": ""
+        },
+        {
+            "hash": 1487114988,
+            "original": "~z~The guys you see are gonna be working for that scumbag in one way or another.",
+            "translated": "~z~你见到的人基本都是替那个小人卖命的。",
+            "desc": ""
+        },
+        {
+            "hash": 1489401995,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 1514236700,
+            "original": "~z~I need him dealt with.",
+            "translated": "~z~我需要有人去解决他。",
+            "desc": ""
+        },
+        {
+            "hash": 1523462211,
+            "original": "~z~Yo cracker, you a long ways from home.",
+            "translated": "~z~哟，白皮，这里不是你家。",
+            "desc": ""
+        },
+        {
+            "hash": 1552031921,
+            "original": "~z~Whatever you say. They don't look much cleaner from where I'm standing.",
+            "translated": "~z~随你怎么说吧，从我这儿看也没干净到哪去。",
+            "desc": ""
+        },
+        {
+            "hash": 1554454657,
+            "original": "~z~Screw you.",
+            "translated": "~z~去你妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 1555668077,
+            "original": "~z~The cops ain't gonna help you in here, they scared as shit.",
+            "translated": "~z~条子可不会来这儿帮你，他们怕死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1566426349,
+            "original": "801",
+            "translated": "801",
+            "desc": ""
+        },
+        {
+            "hash": 1570920177,
+            "original": "~z~No.",
+            "translated": "~z~不知道。",
+            "desc": ""
+        },
+        {
+            "hash": 1577800747,
+            "original": "010100100100100010100010010",
+            "translated": "010100100100100010100010010",
+            "desc": ""
+        },
+        {
+            "hash": 1579568609,
+            "original": "~z~I'm outside the project, where is he?",
+            "translated": "~z~我到社区外面了，他在哪儿？",
+            "desc": ""
+        },
+        {
+            "hash": 1581666878,
+            "original": "~z~You ready to die?",
+            "translated": "~z~真想死吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1600233917,
+            "original": "~z~Even the cops be scared to come up here.",
+            "translated": "~z~就连条子都不敢上来的。",
+            "desc": ""
+        },
+        {
+            "hash": 1634579181,
+            "original": "FM3_AD",
+            "translated": "FM3_AD",
+            "desc": ""
+        },
+        {
+            "hash": 1675111086,
+            "original": "~z~I'm gonna put a cap in your dome, fool.",
+            "translated": "~z~我让你脑门开花，白痴。",
+            "desc": ""
+        },
+        {
+            "hash": 1735090283,
+            "original": "~z~Should be on the second floor, keeps an eye on all his boys from up there.",
+            "translated": "~z~应该在二楼，楼上有很多他的手下，当心点。",
+            "desc": ""
+        },
+        {
+            "hash": 1735825504,
+            "original": "FM3_LD",
+            "translated": "FM3_LD",
+            "desc": ""
+        },
+        {
+            "hash": 1742431708,
+            "original": "FM3_AF",
+            "translated": "FM3_AF",
+            "desc": ""
+        },
+        {
+            "hash": 1750318785,
+            "original": "801",
+            "translated": "801",
+            "desc": ""
+        },
+        {
+            "hash": 1789644798,
+            "original": "~z~You're a long way from Star Junction, cracker.",
+            "translated": "~z~这儿离星汇广场远着呢，白皮。",
+            "desc": ""
+        },
+        {
+            "hash": 1792033115,
+            "original": "~z~You did a good thing, Niko. That boy was mean. He had a tongue on him too.",
+            "translated": "~z~你做了件好事，Niko。那小子很卑鄙，嘴巴也很能说。",
+            "desc": ""
+        },
+        {
+            "hash": 1812763125,
+            "original": "FM3_AG",
+            "translated": "FM3_AG",
+            "desc": ""
+        },
+        {
+            "hash": 1816857355,
+            "original": "~z~Whatever...",
+            "translated": "~z~就这样吧...",
+            "desc": ""
+        },
+        {
+            "hash": 1819827856,
+            "original": "~z~I surrender. You wouldn't kill an unarmed man, would you?",
+            "translated": "~z~我投降。你总不会杀手无寸铁的人吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1836687435,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 1839887954,
+            "original": "~z~The drug dealer is out on the street. Oh no! Lock up the children, Francis.",
+            "translated": "~z~现在毒贩子上街了。哦不！快把孩子们锁上，Francis。",
+            "desc": ""
+        },
+        {
+            "hash": 1852412836,
+            "original": "690",
+            "translated": "690",
+            "desc": ""
+        },
+        {
+            "hash": 1865087475,
+            "original": "FM3_AG",
+            "translated": "FM3_AG",
+            "desc": ""
+        },
+        {
+            "hash": 1882221834,
+            "original": "~z~There be a lot of brothers want to dead your ass in this project.",
+            "translated": "~z~这个社区里有很多兄弟想弄死你丫。",
+            "desc": ""
+        },
+        {
+            "hash": 1922670092,
+            "original": "~z~You know,",
+            "translated": "~z~知道吗，",
+            "desc": ""
+        },
+        {
+            "hash": 1935055094,
+            "original": "~z~You know there's no good, and no evil... just shades of fucking gray.",
+            "translated": "~z~你也知道，根本没有善，也没有恶...只有该死的灰色阴影。",
+            "desc": ""
+        },
+        {
+            "hash": 1952354993,
+            "original": "~z~Yeah you. Remember, you're doing a real service for the community by getting rid of this scumbag.",
+            "translated": "~z~对，你。记住，除掉这个小人就是为社会做巨大贡献。",
+            "desc": ""
+        },
+        {
+            "hash": 1957437467,
+            "original": "FM3_QC",
+            "translated": "FM3_QC",
+            "desc": ""
+        },
+        {
+            "hash": 1983721006,
+            "original": "FM3_AD",
+            "translated": "FM3_AD",
+            "desc": ""
+        },
+        {
+            "hash": 1995209404,
+            "original": "FM3_QE",
+            "translated": "FM3_QE",
+            "desc": ""
+        },
+        {
+            "hash": 2021947048,
+            "original": "~z~McReary going to think I'm dead. Word.",
+            "translated": "~z~McReary会当我已经死了的。说话算话。",
+            "desc": ""
+        },
+        {
+            "hash": 2039527568,
+            "original": "~z~Please.",
+            "translated": "~z~求你了。",
+            "desc": ""
+        },
+        {
+            "hash": 2057959693,
+            "original": "~z~Clarence, is that you again? Can't you deal out on another block?",
+            "translated": "~z~Clarence, is that you again? Can't you deal out on another block?",
+            "desc": ""
+        },
+        {
+            "hash": 2106657354,
+            "original": "FM3_IA",
+            "translated": "FM3_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2135760672,
+            "original": "100100011",
+            "translated": "100100011",
+            "desc": ""
+        },
+        {
+            "hash": 2146527249,
+            "original": "FM3_AA",
+            "translated": "FM3_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2157341927,
+            "original": "~z~You don't have to worry about Clarence anymore.",
+            "translated": "~z~你不用再担心Clarence了。",
+            "desc": ""
+        },
+        {
+            "hash": 2207002892,
+            "original": "~z~Violent... me?",
+            "translated": "~z~冲突...我？",
+            "desc": ""
+        },
+        {
+            "hash": 2223141711,
+            "original": "SFX_DIALLING",
+            "translated": "SFX_DIALLING",
+            "desc": ""
+        },
+        {
+            "hash": 2233861362,
+            "original": "~z~What you doin' round here, whiteboy?",
+            "translated": "~z~你在这里做什么，白仔？",
+            "desc": ""
+        },
+        {
+            "hash": 2276150166,
+            "original": "010010100100100",
+            "translated": "010010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2296976779,
+            "original": "~z~If you're makin' a mess in the stairwell, I'm sure as hell not cleaning it up.",
+            "translated": "~z~If you're makin' a mess in the stairwell, I'm sure as hell not cleaning it up.",
+            "desc": ""
+        },
+        {
+            "hash": 2297384686,
+            "original": "FM3_AH",
+            "translated": "FM3_AH",
+            "desc": ""
+        },
+        {
+            "hash": 2309725061,
+            "original": "FM3_QB",
+            "translated": "FM3_QB",
+            "desc": ""
+        },
+        {
+            "hash": 2367369606,
+            "original": "~z~Listen up yo, get outta here.",
+            "translated": "~z~听着你，离开这儿。",
+            "desc": ""
+        },
+        {
+            "hash": 2384765806,
+            "original": "500500050500500500500500500500500",
+            "translated": "500500050500500500500500500500500",
+            "desc": ""
+        },
+        {
+            "hash": 2399064178,
+            "original": "~z~That's our duty.",
+            "translated": "~z~那就是我们的责任。",
+            "desc": ""
+        },
+        {
+            "hash": 2406232800,
+            "original": "FM3_NC",
+            "translated": "FM3_NC",
+            "desc": ""
+        },
+        {
+            "hash": 2418508149,
+            "original": "~z~That's right. We the same, me and you. Look out for each other.",
+            "translated": "~z~这就对了。我们都一样，我和你，相互照应。",
+            "desc": ""
+        },
+        {
+            "hash": 2425792123,
+            "original": "590",
+            "translated": "590",
+            "desc": ""
+        },
+        {
+            "hash": 2431273928,
+            "original": "~z~You're starting to sound like your friend Manny.",
+            "translated": "~z~你这听起来就跟你朋友Manny一样。",
+            "desc": ""
+        },
+        {
+            "hash": 2464039097,
+            "original": "~z~You're the only one who's gonna get locked up, son.",
+            "translated": "~z~只有你是要被锁起来的，小子。",
+            "desc": ""
+        },
+        {
+            "hash": 2478256045,
+            "original": "FM3_DA",
+            "translated": "FM3_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2495772459,
+            "original": "FM3_JA",
+            "translated": "FM3_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2501378384,
+            "original": "FM3_MA",
+            "translated": "FM3_MA",
+            "desc": ""
+        },
+        {
+            "hash": 2506682712,
+            "original": "FM3_LA_QQQ1",
+            "translated": "FM3_LA_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 2526458086,
+            "original": "~z~I told you boys to do your fighting outside.",
+            "translated": "~z~I told you boys to do your fighting outside.",
+            "desc": ""
+        },
+        {
+            "hash": 2566949479,
+            "original": "~z~Hey tourist, you want us to pose for a photo?",
+            "translated": "~z~喂，游客，你要我们摆个姿势合影吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2570514061,
+            "original": "FM3_AE",
+            "translated": "FM3_AE",
+            "desc": ""
+        },
+        {
+            "hash": 2598599181,
+            "original": "FM3_LC",
+            "translated": "FM3_LC",
+            "desc": ""
+        },
+        {
+            "hash": 2620236817,
+            "original": "~z~Thank God for real justice.",
+            "translated": "~z~感谢上帝让真正的正义降临。",
+            "desc": ""
+        },
+        {
+            "hash": 2634466391,
+            "original": "~z~I'm outside the project, where is he?",
+            "translated": "~z~我到社区外面了，他在哪儿？",
+            "desc": ""
+        },
+        {
+            "hash": 2644787431,
+            "original": "~z~I'll get out the game. Get a GED or some shit. Make something of my life.",
+            "translated": "~z~我会退出游戏，去考个GED*之类的，让人生有所成就。~n~(美国的高中同等学历证书)",
+            "desc": ""
+        },
+        {
+            "hash": 2653972052,
+            "original": "~z~Francis McReary is the community now?",
+            "translated": "~z~现在Francis McReary成了社会代言人了？",
+            "desc": ""
+        },
+        {
+            "hash": 2665075971,
+            "original": "~z~You in the wrong hood homie, raise up.",
+            "translated": "~z~你走错地方了，伙计，举起手来。",
+            "desc": ""
+        },
+        {
+            "hash": 2719774381,
+            "original": "~z~You make things one per cent better. That's enough.",
+            "translated": "~z~你能让情况好转百分之一，那就够了。",
+            "desc": ""
+        },
+        {
+            "hash": 2741244547,
+            "original": "~z~Clarence don't want no strangers up in here. That's too bad for you.",
+            "translated": "~z~Clarence不想让外人上楼，很遗憾。",
+            "desc": ""
+        },
+        {
+            "hash": 2779556491,
+            "original": "~z~Whatever.",
+            "translated": "~z~管你啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2779961354,
+            "original": "~z~Clarence were specific about deading any fools that tried something.",
+            "translated": "~z~Clarence有命令，要干掉任何敢轻举妄动的傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 2805105901,
+            "original": "~z~Excuse me?",
+            "translated": "~z~抱歉？",
+            "desc": ""
+        },
+        {
+            "hash": 2810799299,
+            "original": "~z~Got you now!",
+            "translated": "~z~干你哦！",
+            "desc": ""
+        },
+        {
+            "hash": 2830182856,
+            "original": "~z~Damn, son, you don't belong round here.",
+            "translated": "~z~干诶，小子，你不是这儿的人。",
+            "desc": ""
+        },
+        {
+            "hash": 2853026767,
+            "original": "~z~He tried to convince me to let him go. Said he'd get out of town. I finished him anyway.",
+            "translated": "~z~他想说服我放了他，说他会离开这里。不过我把他干死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2883940399,
+            "original": "FM3_AH",
+            "translated": "FM3_AH",
+            "desc": ""
+        },
+        {
+            "hash": 2900215894,
+            "original": "~z~That was the wrong move.",
+            "translated": "~z~这步可不行。",
+            "desc": ""
+        },
+        {
+            "hash": 2901346405,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        },
+        {
+            "hash": 2943365564,
+            "original": "FM3_PA",
+            "translated": "FM3_PA",
+            "desc": ""
+        },
+        {
+            "hash": 2966951736,
+            "original": "~z~So listen, I got something I need you to do.",
+            "translated": "~z~听着，我有点事需要你做。",
+            "desc": ""
+        },
+        {
+            "hash": 2995838919,
+            "original": "~z~I think someone stepped off the tourist trail.",
+            "translated": "~z~我想有人偏离观光路线了。",
+            "desc": ""
+        },
+        {
+            "hash": 3003565375,
+            "original": "~z~I can go where I like.",
+            "translated": "~z~老子爱去哪儿去哪儿。",
+            "desc": ""
+        },
+        {
+            "hash": 3028464539,
+            "original": "FM3_LE",
+            "translated": "FM3_LE",
+            "desc": ""
+        },
+        {
+            "hash": 3061730850,
+            "original": "~z~Get out of here. I see you again, you'll wish I had killed you now.",
+            "translated": "~z~滚得越远越好。再让我碰到你，你会后悔没有现在就死的。",
+            "desc": ""
+        },
+        {
+            "hash": 3080893043,
+            "original": "FM3_LB",
+            "translated": "FM3_LB",
+            "desc": ""
+        },
+        {
+            "hash": 3090155519,
+            "original": "FM3_NB",
+            "translated": "FM3_NB",
+            "desc": ""
+        },
+        {
+            "hash": 3097591271,
+            "original": "~z~Momma told me not to kill nobody today.",
+            "translated": "~z~妈妈今天刚跟我说过别杀人。",
+            "desc": ""
+        },
+        {
+            "hash": 3107695423,
+            "original": "~z~Okay you got a deal. Head on up to Vauxite and call me.",
+            "translated": "~z~行吧，就这价吧。你先去Vauxite，然后打给我。",
+            "desc": ""
+        },
+        {
+            "hash": 3116515135,
+            "original": "~z~You just crossed the line, you punk ass bitch.",
+            "translated": "~z~你过分了，贱人小婊子。",
+            "desc": ""
+        },
+        {
+            "hash": 3117283945,
+            "original": "FM3_QA",
+            "translated": "FM3_QA",
+            "desc": ""
+        },
+        {
+            "hash": 3130221461,
+            "original": "~z~This didn't have to go this way.",
+            "translated": "~z~本来没必要这样的。",
+            "desc": ""
+        },
+        {
+            "hash": 3139906518,
+            "original": "~z~This is the last time.",
+            "translated": "~z~这是最后一次。",
+            "desc": ""
+        },
+        {
+            "hash": 3153996964,
+            "original": "~z~But it'll take me a year to get the evidence. More maybe.",
+            "translated": "~z~但是，光是取证就会花上一年时间，可能还不止。",
+            "desc": ""
+        },
+        {
+            "hash": 3207849499,
+            "original": "~z~Good move. You shouldn't trust a word that comes out of that scum's mouth.",
+            "translated": "~z~明智的选择。那个小人嘴里的话一个字都不能信。",
+            "desc": ""
+        },
+        {
+            "hash": 3210499870,
+            "original": "~z~You got the wrong people, son.",
+            "translated": "~z~你认错人了，小子。",
+            "desc": ""
+        },
+        {
+            "hash": 3211019318,
+            "original": "~z~I'm too young to die. Please.",
+            "translated": "~z~我现在死还太早了，求你了。",
+            "desc": ""
+        },
+        {
+            "hash": 3231405426,
+            "original": "FM3_PB",
+            "translated": "FM3_PB",
+            "desc": ""
+        },
+        {
+            "hash": 3240976780,
+            "original": "~z~Eat me.",
+            "translated": "~z~打我啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3321414841,
+            "original": "~z~I'd say he was about right.",
+            "translated": "~z~我会说他说对了。",
+            "desc": ""
+        },
+        {
+            "hash": 3322620942,
+            "original": "~z~Should be on the second floor, keeps an eye on all his boys from up there.",
+            "translated": "~z~应该在二楼，防着点他的手下，楼上有很多。",
+            "desc": ""
+        },
+        {
+            "hash": 3328568817,
+            "original": "~z~You the boss though, man. You the boss of me.",
+            "translated": "~z~不过你是大哥，老兄。你是我大哥。",
+            "desc": ""
+        },
+        {
+            "hash": 3331800998,
+            "original": "~z~If you say so.",
+            "translated": "~z~随你说喽。",
+            "desc": ""
+        },
+        {
+            "hash": 3336552503,
+            "original": "~z~By any means necessary.",
+            "translated": "~z~用尽一切必要手段。",
+            "desc": ""
+        },
+        {
+            "hash": 3346257725,
+            "original": "FM3_LG",
+            "translated": "FM3_LG",
+            "desc": ""
+        },
+        {
+            "hash": 3356795332,
+            "original": "~z~You're starting to sound like your friend Manny.",
+            "translated": "~z~你这听起来就跟你朋友Manny一样。",
+            "desc": ""
+        },
+        {
+            "hash": 3363221570,
+            "original": "FM3_AE",
+            "translated": "FM3_AE",
+            "desc": ""
+        },
+        {
+            "hash": 3411686746,
+            "original": "FM3_FA",
+            "translated": "FM3_FA",
+            "desc": ""
+        },
+        {
+            "hash": 3414400337,
+            "original": "~z~It's trash day.",
+            "translated": "~z~该倒垃圾了。",
+            "desc": ""
+        },
+        {
+            "hash": 3438900648,
+            "original": "FM3_HA",
+            "translated": "FM3_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3456546688,
+            "original": "~z~Love you too.",
+            "translated": "~z~我也爱你。",
+            "desc": ""
+        },
+        {
+            "hash": 3488998963,
+            "original": "~z~I need some help up in this bitch.",
+            "translated": "~z~来点人帮我解决这个贱人。",
+            "desc": ""
+        },
+        {
+            "hash": 3570295396,
+            "original": "~z~If someone was to tell me you was some fresh off the boat killer with more balls than brains,",
+            "translated": "~z~要是有人跟我说你这个刚下船的杀手胆子比脑子肥，",
+            "desc": ""
+        },
+        {
+            "hash": 3581343400,
+            "original": "~z~Shit, I hope you enjoyed your sightseeing tour. It's yo' last.",
+            "translated": "~z~操，希望你观光愉快。这是最后一站了。",
+            "desc": ""
+        },
+        {
+            "hash": 3583995228,
+            "original": "~z~Try to get off the ground floor before getting violent.",
+            "translated": "~z~引起冲突前最好能先上到二楼。",
+            "desc": ""
+        },
+        {
+            "hash": 3642320042,
+            "original": "~z~Oh I do say so. I want to make things a bit better.",
+            "translated": "~z~噢，我是这么说的。我想让情况好转一点。",
+            "desc": ""
+        },
+        {
+            "hash": 3696901330,
+            "original": "FM3_SA",
+            "translated": "FM3_SA",
+            "desc": ""
+        },
+        {
+            "hash": 3733232698,
+            "original": "~z~Fuck you.",
+            "translated": "~z~操你妈。",
+            "desc": ""
+        },
+        {
+            "hash": 3779491636,
+            "original": "~z~The guy's guilty as sin. He is sin.",
+            "translated": "~z~这人罪大恶极，他就是罪恶。",
+            "desc": ""
+        },
+        {
+            "hash": 3781265272,
+            "original": "~z~Sorry.",
+            "translated": "~z~抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 3812839368,
+            "original": "FM3_CA",
+            "translated": "FM3_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3838752775,
+            "original": "~z~Now you done pissed me off.",
+            "translated": "~z~你现在惹毛我了。",
+            "desc": ""
+        },
+        {
+            "hash": 3856892238,
+            "original": "~z~This scumbag's been pushing drugs, pimping women, you name it, he's done it.",
+            "translated": "~z~这个小人贩卖毒品、逼良为娼，你能想到的，他都做过。",
+            "desc": ""
+        },
+        {
+            "hash": 3861926398,
+            "original": "~z~Don't kill me, boss.",
+            "translated": "~z~别杀我，大哥。",
+            "desc": ""
+        },
+        {
+            "hash": 3876247581,
+            "original": "FM3_OB",
+            "translated": "FM3_OB",
+            "desc": ""
+        },
+        {
+            "hash": 3912189983,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 3913867282,
+            "original": "081801081081",
+            "translated": "081801081081",
+            "desc": ""
+        },
+        {
+            "hash": 3914251815,
+            "original": "FM3_LI",
+            "translated": "FM3_LI",
+            "desc": ""
+        },
+        {
+            "hash": 3917617483,
+            "original": "~z~Turn off your TVs and come out here to help me deal with this crazy psychopath.",
+            "translated": "~z~都把电视关了，出来帮老子解决这个精神病疯子。",
+            "desc": ""
+        },
+        {
+            "hash": 3929441559,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 3932730456,
+            "original": "500",
+            "translated": "500",
+            "desc": ""
+        },
+        {
+            "hash": 3933192340,
+            "original": "~z~Always talking his way out of court, willing to compromise anyone to get out of trouble.",
+            "translated": "~z~每次都能舌战群儒离开法庭，为了摆脱麻烦愿意跟任何人妥协。",
+            "desc": ""
+        },
+        {
+            "hash": 3950152028,
+            "original": "~z~I want to get paid.",
+            "translated": "~z~我想拿到报酬。",
+            "desc": ""
+        },
+        {
+            "hash": 4051837594,
+            "original": "FM3_AF",
+            "translated": "FM3_AF",
+            "desc": ""
+        },
+        {
+            "hash": 4078115533,
+            "original": "~z~But this guy, is scum.",
+            "translated": "~z~但这个人，就是败类。",
+            "desc": ""
+        },
+        {
+            "hash": 4137752563,
+            "original": "700",
+            "translated": "700",
+            "desc": ""
+        },
+        {
+            "hash": 4147731676,
+            "original": "~z~You came into the wrong project.",
+            "translated": "~z~你来错社区了。",
+            "desc": ""
+        },
+        {
+            "hash": 4165667908,
+            "original": "~z~You know it's funny, but I see a lot of me in you.",
+            "translated": "~z~这么说会有点怪，但你和我有很多相似之处。",
+            "desc": ""
+        },
+        {
+            "hash": 4168584289,
+            "original": "~z~Yes. I'll make Commissioner.",
+            "translated": "~z~好，我会当上局长的。",
+            "desc": ""
+        },
+        {
+            "hash": 4216411615,
+            "original": "~z~Yeah, sure, man.",
+            "translated": "~z~对，当然，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 4220019968,
+            "original": "FM3_OC",
+            "translated": "FM3_OC",
+            "desc": ""
+        },
+        {
+            "hash": 4225220086,
+            "original": "~z~Where my boys at?",
+            "translated": "~z~老子手下呢？",
+            "desc": ""
+        },
+        {
+            "hash": 4230687993,
+            "original": "~z~Oh how much?",
+            "translated": "~z~哦，多少？",
+            "desc": ""
+        },
+        {
+            "hash": 4239031552,
+            "original": "~z~Anyway, these projects all got the same layout, a staircase leading up on either side.",
+            "translated": "~z~总之，这些公屋的设计都差不多，两边各一个楼梯。",
+            "desc": ""
+        },
+        {
+            "hash": 4251627868,
+            "original": "~z~Isn't that police work?",
+            "translated": "~z~那不是警察的工作吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4256509409,
+            "original": "~z~And you? What do you want?",
+            "translated": "~z~那你呢？你想怎么样？",
+            "desc": ""
+        },
+        {
+            "hash": 4262573351,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4265214653,
+            "original": "~z~Take this, you whitetrash asshole.",
+            "translated": "~z~尝尝这个，你这狗逼白皮垃圾。",
+            "desc": ""
+        },
+        {
+            "hash": 4266798871,
+            "original": "~z~Sure. Sure you do.",
+            "translated": "~z~当然了，你肯定想。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "PULOVER": [
+        {
+            "hash": 94189019,
+            "original": "~r~The vans were not pulled over in time.~s~",
+            "translated": "~r~未能及时截停所有目标货车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 426564426,
+            "original": "Get back in the ~B~car.",
+            "translated": "回到~B~车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 561680971,
+            "original": "~s~The ~b~vans~S~ are in transit. Find them and pull them over.",
+            "translated": "~b~货车~S~都在行驶中。找到并截停它们。",
+            "desc": ""
+        },
+        {
+            "hash": 732954288,
+            "original": "~r~The van was not delivered to the lockup.~s~",
+            "translated": "~r~未将目标货车送到指定车库中。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 906072923,
+            "original": "~s~Pull over the ~b~van.",
+            "translated": "~s~截停这辆~b~货车。",
+            "desc": ""
+        },
+        {
+            "hash": 946379637,
+            "original": "Find a cop car that doesn't have a busted siren.",
+            "translated": "找一辆警笛可以正常发声的警车。",
+            "desc": ""
+        },
+        {
+            "hash": 1390760046,
+            "original": "Lose the wanted before delivering the van.",
+            "translated": "在前往车库前摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1401507722,
+            "original": "~S~Take the van to the ~Y~lockup.",
+            "translated": "~S~将货车送到~Y~车库~s~中。",
+            "desc": ""
+        },
+        {
+            "hash": 1514593030,
+            "original": "Get closer to the ~b~van.",
+            "translated": "靠近~b~货车。",
+            "desc": ""
+        },
+        {
+            "hash": 1764130032,
+            "original": "Lose your wanted level.",
+            "translated": "摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1824555001,
+            "original": "Park up and approach the driver's window.",
+            "translated": "停车，走到货车驾驶室旁。",
+            "desc": ""
+        },
+        {
+            "hash": 1878264459,
+            "original": "Get back into the ~b~van.",
+            "translated": "回到~b~货车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 2079911720,
+            "original": "~s~Find and pull over the ~b~vans~S~ before they reach their destinations.",
+            "translated": "~s~在有货车到达其目的地前截停所有~b~货车。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 2110025995,
+            "original": "~S~Check out what's in the back of the van.",
+            "translated": "~S~检查货车后部的装货。",
+            "desc": ""
+        },
+        {
+            "hash": 2307865205,
+            "original": "~s~Stay close to the ~b~van~s~ to make it pull over.",
+            "translated": "~s~靠近~b~货车~s~进行截停。",
+            "desc": ""
+        },
+        {
+            "hash": 2899487069,
+            "original": "~s~Find and pull over the ~b~van~S~ before it reaches its destination.",
+            "translated": "~s~在货车到达其目的地前截停~b~货车。",
+            "desc": ""
+        },
+        {
+            "hash": 2948794360,
+            "original": "Pull over the other ~B~vans.",
+            "translated": "截停其它~B~货车。",
+            "desc": ""
+        },
+        {
+            "hash": 3057783766,
+            "original": "Press ~PAD_LB~ to close van doors.",
+            "translated": "按~PAD_LB~关闭货车车门。",
+            "desc": ""
+        },
+        {
+            "hash": 3360864247,
+            "original": "Stop and search the other vans.",
+            "translated": "截停搜查其它货车。",
+            "desc": ""
+        },
+        {
+            "hash": 3375431479,
+            "original": "~S~You need a cop car to pull over the vans.",
+            "translated": "~S~你需要一辆警车才能截停那些货车。",
+            "desc": ""
+        },
+        {
+            "hash": 3452733550,
+            "original": "~S~Find a cop car.",
+            "translated": "~S~找一辆警车。",
+            "desc": ""
+        },
+        {
+            "hash": 3499509890,
+            "original": "~s~Steal the ~b~van.",
+            "translated": "~s~偷走~b~货车。",
+            "desc": ""
+        },
+        {
+            "hash": 3562414245,
+            "original": "Press ~INPUT_VEH_HORN~ to turn on the siren and pull the van over.",
+            "translated": "按~INPUT_VEH_HORN~鸣笛，截停货车。",
+            "desc": ""
+        },
+        {
+            "hash": 3771525355,
+            "original": "~r~The content of the van wasn't checked.~s~",
+            "translated": "~r~未检查货车中装载的货物。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3793710256,
+            "original": "~S~Get out of the van.",
+            "translated": "~S~离开货车。",
+            "desc": ""
+        },
+        {
+            "hash": 3807636797,
+            "original": "~s~Drive to the ~y~lockup.",
+            "translated": "~s~前往~y~车库。",
+            "desc": ""
+        },
+        {
+            "hash": 3974332696,
+            "original": "~R~The van got away.~s~",
+            "translated": "~R~目标货车逃掉了。~s~",
+            "desc": ""
+        }
+    ]
+}

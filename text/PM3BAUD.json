@@ -1,0 +1,1906 @@
+{
+    "PM3BAUD": [
+        {
+            "hash": 946868,
+            "original": "~z~They're after us, boys. Check the other platform.",
+            "translated": "~z~他们还在追我们，小子们。注意另一个站台。",
+            "desc": ""
+        },
+        {
+            "hash": 12302476,
+            "original": "~z~Alright, we make a move around the back. Follow me.",
+            "translated": "~z~Alright, we make a move around the back. Follow me.",
+            "desc": ""
+        },
+        {
+            "hash": 19154221,
+            "original": "~z~Niko, that thing can't take all of us and this cash. Use your head, man.",
+            "translated": "~z~Niko, that thing can't take all of us and this cash. Use your head, man.",
+            "desc": ""
+        },
+        {
+            "hash": 19531863,
+            "original": "~z~Check to the right for us, Niko.",
+            "translated": "~z~Check to the right for us, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 55447157,
+            "original": "PM3_B_FF",
+            "translated": "PM3_B_FF",
+            "desc": ""
+        },
+        {
+            "hash": 84711725,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 97767595,
+            "original": "~z~That's a fucking sea of blue. Get in cover, boys!",
+            "translated": "~z~That's a fucking sea of blue. Get in cover, boys!",
+            "desc": ""
+        },
+        {
+            "hash": 100379695,
+            "original": "~z~Screw you all!",
+            "translated": "~z~去你妈的！",
+            "desc": ""
+        },
+        {
+            "hash": 103085235,
+            "original": "~z~Get us a car will you, Niko?",
+            "translated": "~z~Get us a car will you, Niko?",
+            "desc": ""
+        },
+        {
+            "hash": 103429597,
+            "original": "~z~Get down, we don't wanna hurt civilians.",
+            "translated": "~z~Get down, we don't wanna hurt civilians.",
+            "desc": ""
+        },
+        {
+            "hash": 105589767,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 130127029,
+            "original": "~z~Come on, think of the money, people.",
+            "translated": "~z~Come on, think of the money, people.",
+            "desc": ""
+        },
+        {
+            "hash": 155353260,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 164063062,
+            "original": "PM3_C_MA",
+            "translated": "PM3_C_MA",
+            "desc": ""
+        },
+        {
+            "hash": 173472554,
+            "original": "~z~You ain't invincible, Niko. Get in cover.",
+            "translated": "~z~You ain't invincible, Niko. Get in cover.",
+            "desc": ""
+        },
+        {
+            "hash": 180607517,
+            "original": "~z~Alright, boys. The only way we got to go is along the tracks. Come on.",
+            "translated": "~z~好了小子们。我们唯一的去路就是顺着轨道走了。来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 182730932,
+            "original": "~z~Sure you do, you believe in the needle and its power to make the rest of the world disappear, while you dream of nonsense.",
+            "translated": "~z~Sure you do, you believe in the needle and its power to make the rest of the world disappear, while you dream of nonsense.",
+            "desc": ""
+        },
+        {
+            "hash": 201622336,
+            "original": "~z~That man's yours, Niko.",
+            "translated": "~z~That man's yours, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 213133906,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 248678544,
+            "original": "~z~Heads up. Here's another cop car.",
+            "translated": "~z~小心，又来了辆警车。",
+            "desc": ""
+        },
+        {
+            "hash": 256903635,
+            "original": "~z~Shit, Niko. Take him down.",
+            "translated": "~z~Shit, Niko. Take him down.",
+            "desc": ""
+        },
+        {
+            "hash": 264440679,
+            "original": "PM3_B_NA",
+            "translated": "PM3_B_NA",
+            "desc": ""
+        },
+        {
+            "hash": 266588433,
+            "original": "PM3_C_BA",
+            "translated": "PM3_C_BA",
+            "desc": ""
+        },
+        {
+            "hash": 269325491,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 271614263,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 280219109,
+            "original": "~z~You did it, let's bust out of here.",
+            "translated": "~z~You did it, let's bust out of here.",
+            "desc": ""
+        },
+        {
+            "hash": 295439285,
+            "original": "~z~Can you get us some transport, Niko?",
+            "translated": "~z~Can you get us some transport, Niko?",
+            "desc": ""
+        },
+        {
+            "hash": 320874939,
+            "original": "~z~Shit, just staying here ain't going to work. There are too many of them.",
+            "translated": "~z~Shit, just staying here ain't going to work. There are too many of them.",
+            "desc": ""
+        },
+        {
+            "hash": 324430225,
+            "original": "~z~How is you, me and Derrick gonna fit in there with the money?",
+            "translated": "~z~How is you, me and Derrick gonna fit in there with the money?",
+            "desc": ""
+        },
+        {
+            "hash": 350337642,
+            "original": "~z~Another fucking truck full of 'em. They're blocking us in.",
+            "translated": "~z~Another fucking truck full of 'em. They're blocking us in.",
+            "desc": ""
+        },
+        {
+            "hash": 355121303,
+            "original": "~z~I ain't going to jail in this country.",
+            "translated": "~z~我可不想在这个国家坐牢。",
+            "desc": ""
+        },
+        {
+            "hash": 370525015,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 375539267,
+            "original": "~z~We ain't doing that neither. Follow me. We'll lose them in the subway.",
+            "translated": "~z~不用这么做。跟我来，进地铁站甩掉他们。",
+            "desc": ""
+        },
+        {
+            "hash": 382382677,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 388588144,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 393166030,
+            "original": "PM3_B_ZA",
+            "translated": "PM3_B_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 398655231,
+            "original": "~z~Niko, you gotta hang in there. Don't die on us.",
+            "translated": "~z~Niko, you gotta hang in there. Don't die on us.",
+            "desc": ""
+        },
+        {
+            "hash": 403326750,
+            "original": "PM3_C_AA",
+            "translated": "PM3_C_AA",
+            "desc": ""
+        },
+        {
+            "hash": 408796985,
+            "original": "~z~I got plans for this money. I ain't dropping it.",
+            "translated": "~z~我都想好这钱咋花了，我是不会放弃的。",
+            "desc": ""
+        },
+        {
+            "hash": 463857875,
+            "original": "PM3_C_UA",
+            "translated": "PM3_C_UA",
+            "desc": ""
+        },
+        {
+            "hash": 465303657,
+            "original": "~z~Take them guys down, Niko.",
+            "translated": "~z~Take them guys down, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 469863594,
+            "original": "~z~Frankie's gonna love this.",
+            "translated": "~z~Frankie's gonna love this.",
+            "desc": ""
+        },
+        {
+            "hash": 475439006,
+            "original": "PM3_B_FG",
+            "translated": "PM3_B_FG",
+            "desc": ""
+        },
+        {
+            "hash": 477461888,
+            "original": "~z~We ain't got no choice, people. We gotta head onto the track.",
+            "translated": "~z~我们没别的选择了，各位。只能走铁轨了。",
+            "desc": ""
+        },
+        {
+            "hash": 483779735,
+            "original": "~z~This ain't the type of thing I agree with. I ain't in it for the money. I believe in something, you know?",
+            "translated": "~z~This ain't the type of thing I agree with. I ain't in it for the money. I believe in something, you know?",
+            "desc": ""
+        },
+        {
+            "hash": 493842931,
+            "original": "~z~Okay, boys. We're outta here. Follow me round the back.",
+            "translated": "~z~Okay, boys. We're outta here. Follow me round the back.",
+            "desc": ""
+        },
+        {
+            "hash": 496903791,
+            "original": "~z~Take that guy down, Niko.",
+            "translated": "~z~Take that guy down, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 510858691,
+            "original": "~z~Shit, this door's locked. Shoot the lock, Niko. We got you covered.",
+            "translated": "~z~Shit, this door's locked. Shoot the lock, Niko. We got you covered.",
+            "desc": ""
+        },
+        {
+            "hash": 511227983,
+            "original": "~z~I ain't built for being underground like this.",
+            "translated": "~z~I ain't built for being underground like this.",
+            "desc": ""
+        },
+        {
+            "hash": 512294200,
+            "original": "212",
+            "translated": "212",
+            "desc": ""
+        },
+        {
+            "hash": 545272781,
+            "original": "~z~Both of you shut the fuck up.",
+            "translated": "~z~你们两个都给我闭嘴。",
+            "desc": ""
+        },
+        {
+            "hash": 546686720,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 547433517,
+            "original": "~z~More cops are joining in the party, boys.",
+            "translated": "~z~更多的警察加入派对了，小子们。",
+            "desc": ""
+        },
+        {
+            "hash": 569430623,
+            "original": "~z~I'm fighting for this cash.",
+            "translated": "~z~这笔钱我要定了。",
+            "desc": ""
+        },
+        {
+            "hash": 584912927,
+            "original": "PM3_B_EA",
+            "translated": "PM3_B_EA",
+            "desc": ""
+        },
+        {
+            "hash": 586749291,
+            "original": "~z~We don't want another casualty on this job. Hang in there, Niko.",
+            "translated": "~z~We don't want another casualty on this job. Hang in there, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 588378367,
+            "original": "PM3_",
+            "translated": "PM3_",
+            "desc": ""
+        },
+        {
+            "hash": 613876184,
+            "original": "PM3_B_QA",
+            "translated": "PM3_B_QA",
+            "desc": ""
+        },
+        {
+            "hash": 646758943,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 656105181,
+            "original": "~z~Jesus, they're blocking off the damn road. There's another truck full of those bastards.",
+            "translated": "~z~Jesus, they're blocking off the damn road. There's another truck full of those bastards.",
+            "desc": ""
+        },
+        {
+            "hash": 658237321,
+            "original": "~z~Chinatown always smells like Chinatown no matter where you are or how much gun powder is in the air.",
+            "translated": "~z~火药打得再多，唐人街还是一股唐人街的味儿。",
+            "desc": ""
+        },
+        {
+            "hash": 671629543,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 682874082,
+            "original": "~z~This ain't working. We need to get out of here.",
+            "translated": "~z~This ain't working. We need to get out of here.",
+            "desc": ""
+        },
+        {
+            "hash": 683235034,
+            "original": "~z~Give us some cover while we run for the subway, Niko.",
+            "translated": "~z~Give us some cover while we run for the subway, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 683314673,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 686166717,
+            "original": "~z~Bring them down, Niko.",
+            "translated": "~z~Bring them down, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 688942390,
+            "original": "~z~We just made a withdrawal, what's the problem?",
+            "translated": "~z~我们不过是要撤退而已，搞什么啊？",
+            "desc": ""
+        },
+        {
+            "hash": 694076506,
+            "original": "~z~Shit, Niko. They're all over me.",
+            "translated": "~z~Shit, Niko. They're all over me.",
+            "desc": ""
+        },
+        {
+            "hash": 705961925,
+            "original": "PM3_C_PA",
+            "translated": "PM3_C_PA",
+            "desc": ""
+        },
+        {
+            "hash": 709057370,
+            "original": "PM3_B_VA",
+            "translated": "PM3_B_VA",
+            "desc": ""
+        },
+        {
+            "hash": 724683056,
+            "original": "~z~And you coulda been more careful of your boy Michael. He should be with us right now.",
+            "translated": "~z~你咋不多护着点你手下的Michael，~n~否则他哪会没命啊。",
+            "desc": ""
+        },
+        {
+            "hash": 733067028,
+            "original": "PM3_C_KA",
+            "translated": "PM3_C_KA",
+            "desc": ""
+        },
+        {
+            "hash": 750699011,
+            "original": "PM3_C_RA",
+            "translated": "PM3_C_RA",
+            "desc": ""
+        },
+        {
+            "hash": 757739259,
+            "original": "~z~I got told this was going to be a smooth job. Real easy, they told me. No casualties.",
+            "translated": "~z~I got told this was going to be a smooth job. Real easy, they told me. No casualties.",
+            "desc": ""
+        },
+        {
+            "hash": 766634465,
+            "original": "~z~Go back home to your kids. You don't wanna die here.",
+            "translated": "~z~回家带孩子去吧。你们不会想死在这儿的。",
+            "desc": ""
+        },
+        {
+            "hash": 767706735,
+            "original": "~z~Cop car, boys! Watch it.",
+            "translated": "~z~是警车，小子们！悠着点。",
+            "desc": ""
+        },
+        {
+            "hash": 790840375,
+            "original": "PM3_C_DA",
+            "translated": "PM3_C_DA",
+            "desc": ""
+        },
+        {
+            "hash": 806282384,
+            "original": "PM3_B_HA",
+            "translated": "PM3_B_HA",
+            "desc": ""
+        },
+        {
+            "hash": 811721756,
+            "original": "PM3_B_FB",
+            "translated": "PM3_B_FB",
+            "desc": ""
+        },
+        {
+            "hash": 818631195,
+            "original": "PM3_A_WA",
+            "translated": "PM3_A_WA",
+            "desc": ""
+        },
+        {
+            "hash": 830180316,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 857417260,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 860599824,
+            "original": "~z~Jesus, Niko. You look like death. Come on.",
+            "translated": "~z~Jesus, Niko. You look like death. Come on.",
+            "desc": ""
+        },
+        {
+            "hash": 895616146,
+            "original": "PM3_B_AB",
+            "translated": "PM3_B_AB",
+            "desc": ""
+        },
+        {
+            "hash": 897740854,
+            "original": "~z~This'll all be worth it when we're back at Ma's with the cash.",
+            "translated": "~z~This'll all be worth it when we're back at Ma's with the cash.",
+            "desc": ""
+        },
+        {
+            "hash": 914289253,
+            "original": "~z~Cover us while we make a run for it, Niko.",
+            "translated": "~z~Cover us while we make a run for it, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 914669700,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 918148230,
+            "original": "PM3_B_DA",
+            "translated": "PM3_B_DA",
+            "desc": ""
+        },
+        {
+            "hash": 944872338,
+            "original": "~z~Both of you shut up. You're behaving like children.",
+            "translated": "~z~Both of you shut up. You're behaving like children.",
+            "desc": ""
+        },
+        {
+            "hash": 946105121,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 947690468,
+            "original": "~z~I saw your eyes light up when you thought about all the drugs you could buy with this haul.",
+            "translated": "~z~I saw your eyes light up when you thought about all the drugs you could buy with this haul.",
+            "desc": ""
+        },
+        {
+            "hash": 972167336,
+            "original": "~z~Shit, a N.O.O.S.E. van.",
+            "translated": "~z~Shit, a N.O.O.S.E. van.",
+            "desc": ""
+        },
+        {
+            "hash": 977102359,
+            "original": "~z~I'm getting screwed here, boys.",
+            "translated": "~z~I'm getting screwed here, boys.",
+            "desc": ""
+        },
+        {
+            "hash": 981148019,
+            "original": "~z~Great, we're free from this fucking dungeon. Let's go.",
+            "translated": "~z~Great, we're free from this fucking dungeon. Let's go.",
+            "desc": ""
+        },
+        {
+            "hash": 996118625,
+            "original": "~z~Let's bring this fucker down. Empty everything we got into him.",
+            "translated": "~z~把这个狗逼打下来。射光手头的弹药。",
+            "desc": ""
+        },
+        {
+            "hash": 1004142826,
+            "original": "~z~Here we go, boys!",
+            "translated": "~z~Here we go, boys!",
+            "desc": ""
+        },
+        {
+            "hash": 1019767901,
+            "original": "~z~You coulda mixed the explosive better couldn't ya, Derrick?",
+            "translated": "~z~炸弹你可以弄得更好点的吧，Derrick？",
+            "desc": ""
+        },
+        {
+            "hash": 1032054258,
+            "original": "~z~Just what we needed, boys. More fucking cops.",
+            "translated": "~z~真是时候，小子们。又他妈一群条子。",
+            "desc": ""
+        },
+        {
+            "hash": 1048523359,
+            "original": "~z~Eyes to the front, Niko.",
+            "translated": "~z~Eyes to the front, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 1064735005,
+            "original": "~z~Our left side is secure, people.",
+            "translated": "~z~Our left side is secure, people.",
+            "desc": ""
+        },
+        {
+            "hash": 1090448688,
+            "original": "~z~Get that fucker, Niko.",
+            "translated": "~z~Get that fucker, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 1096953611,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1110184686,
+            "original": "PM3_C_NA",
+            "translated": "PM3_C_NA",
+            "desc": ""
+        },
+        {
+            "hash": 1174082222,
+            "original": "PM3_B_FC",
+            "translated": "PM3_B_FC",
+            "desc": ""
+        },
+        {
+            "hash": 1182496700,
+            "original": "PM3_B_OA",
+            "translated": "PM3_B_OA",
+            "desc": ""
+        },
+        {
+            "hash": 1214985626,
+            "original": "~z~Here come some heavy hitters, people.",
+            "translated": "~z~Here come some heavy hitters, people.",
+            "desc": ""
+        },
+        {
+            "hash": 1243658993,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1251174861,
+            "original": "~z~This is typical. A typical fucking McReary family screw up. Can't we do nothing right.",
+            "translated": "~z~This is typical. A typical fucking McReary family screw up. Can't we do nothing right.",
+            "desc": ""
+        },
+        {
+            "hash": 1261181432,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 1269018645,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 1301080722,
+            "original": "~z~You've been beat up good, Niko. Pull through, okay?",
+            "translated": "~z~You've been beat up good, Niko. Pull through, okay?",
+            "desc": ""
+        },
+        {
+            "hash": 1306498322,
+            "original": "~z~Find some cover, Packie.",
+            "translated": "~z~Find some cover, Packie.",
+            "desc": ""
+        },
+        {
+            "hash": 1333875197,
+            "original": "PM3_C_FA",
+            "translated": "PM3_C_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1378822125,
+            "original": "PM3_B_LA",
+            "translated": "PM3_B_LA",
+            "desc": ""
+        },
+        {
+            "hash": 1389834451,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 1393969904,
+            "original": "~z~They've sent in another fucking van, boys.",
+            "translated": "~z~They've sent in another fucking van, boys.",
+            "desc": ""
+        },
+        {
+            "hash": 1409962751,
+            "original": "~z~Jesus, Packie. Show some fucking consideration. Sorry if I'm a man of principle unlike you and Gerald.",
+            "translated": "~z~Jesus, Packie. Show some fucking consideration. Sorry if I'm a man of principle unlike you and Gerald.",
+            "desc": ""
+        },
+        {
+            "hash": 1431642334,
+            "original": "PM3_B_FE",
+            "translated": "PM3_B_FE",
+            "desc": ""
+        },
+        {
+            "hash": 1471760885,
+            "original": "PM3_C_YA",
+            "translated": "PM3_C_YA",
+            "desc": ""
+        },
+        {
+            "hash": 1476638217,
+            "original": "~z~Look right, Niko.",
+            "translated": "~z~Look right, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 1482256922,
+            "original": "120210090090",
+            "translated": "120210090090",
+            "desc": ""
+        },
+        {
+            "hash": 1501514454,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 1512252958,
+            "original": "~z~Up, up, up. Come on, let's go.",
+            "translated": "~z~上上上，快点，走了。",
+            "desc": ""
+        },
+        {
+            "hash": 1517728391,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1548135585,
+            "original": "PM3_C_ZA",
+            "translated": "PM3_C_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 1548628463,
+            "original": "~z~Get in cover, Packie. Ma'd be real upset if you got hit.",
+            "translated": "~z~Get in cover, Packie. Ma'd be real upset if you got hit.",
+            "desc": ""
+        },
+        {
+            "hash": 1616887894,
+            "original": "~z~Will ya look left for us, Niko?",
+            "translated": "~z~Will ya look left for us, Niko?",
+            "desc": ""
+        },
+        {
+            "hash": 1619731029,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 1620715507,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 1644941460,
+            "original": "PM3_B_TA",
+            "translated": "PM3_B_TA",
+            "desc": ""
+        },
+        {
+            "hash": 1653610299,
+            "original": "PM3_C_XA",
+            "translated": "PM3_C_XA",
+            "desc": ""
+        },
+        {
+            "hash": 1693039475,
+            "original": "~z~Fuck, boys. I ain't doing too good over here.",
+            "translated": "~z~Fuck, boys. I ain't doing too good over here.",
+            "desc": ""
+        },
+        {
+            "hash": 1707996806,
+            "original": "~z~Fuck you, Patrick. Fuck you.",
+            "translated": "~z~Fuck you, Patrick. Fuck you.",
+            "desc": ""
+        },
+        {
+            "hash": 1724666778,
+            "original": "~z~Eyes right, okay?",
+            "translated": "~z~Eyes right, okay?",
+            "desc": ""
+        },
+        {
+            "hash": 1746262253,
+            "original": "PM3_A_YA",
+            "translated": "PM3_A_YA",
+            "desc": ""
+        },
+        {
+            "hash": 1751527914,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 1754859158,
+            "original": "~z~Look out up ahead, Niko.",
+            "translated": "~z~Look out up ahead, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 1758053227,
+            "original": "~z~We got some climbing to do, boys. Hold onto your money.",
+            "translated": "~z~我们要往上爬了，小子们。把钱拿住喽。",
+            "desc": ""
+        },
+        {
+            "hash": 1774419218,
+            "original": "~z~Get down people. Look after yourselves.",
+            "translated": "~z~Get down people. Look after yourselves.",
+            "desc": ""
+        },
+        {
+            "hash": 1807547453,
+            "original": "~z~Looks like we got more N.O.O.S.E. to deal with, people.",
+            "translated": "~z~Looks like we got more N.O.O.S.E. to deal with, people.",
+            "desc": ""
+        },
+        {
+            "hash": 1816045561,
+            "original": "~z~You ain't looking too good, Niko. Hang in there.",
+            "translated": "~z~You ain't looking too good, Niko. Hang in there.",
+            "desc": ""
+        },
+        {
+            "hash": 1817319742,
+            "original": "~z~There's light at the end of the tunnel, boys. We're nearly there.",
+            "translated": "~z~There's light at the end of the tunnel, boys. We're nearly there.",
+            "desc": ""
+        },
+        {
+            "hash": 1829658548,
+            "original": "PM3_B_FD",
+            "translated": "PM3_B_FD",
+            "desc": ""
+        },
+        {
+            "hash": 1830089889,
+            "original": "PM3_A_VA",
+            "translated": "PM3_A_VA",
+            "desc": ""
+        },
+        {
+            "hash": 1847350667,
+            "original": "~z~Packie, get in cover now.",
+            "translated": "~z~Packie, get in cover now.",
+            "desc": ""
+        },
+        {
+            "hash": 1852044545,
+            "original": "~z~Head into this car park, people.",
+            "translated": "~z~Head into this car park, people.",
+            "desc": ""
+        },
+        {
+            "hash": 1859340616,
+            "original": "PM3_C_LA",
+            "translated": "PM3_C_LA",
+            "desc": ""
+        },
+        {
+            "hash": 1868641124,
+            "original": "~z~He's going to love the fact that us boys pulled off the biggest bank heist in this city's history.",
+            "translated": "~z~He's going to love the fact that us boys pulled off the biggest bank heist in this city's history.",
+            "desc": ""
+        },
+        {
+            "hash": 1876527619,
+            "original": "PM3_C_GA",
+            "translated": "PM3_C_GA",
+            "desc": ""
+        },
+        {
+            "hash": 1883626472,
+            "original": "~z~This is making me nervous, boys.",
+            "translated": "~z~This is making me nervous, boys.",
+            "desc": ""
+        },
+        {
+            "hash": 1954664627,
+            "original": "~z~Head left, boys. Let's move it.",
+            "translated": "~z~Head left, boys. Let's move it.",
+            "desc": ""
+        },
+        {
+            "hash": 1998122440,
+            "original": "~z~Guard to the left, Niko.",
+            "translated": "~z~Guard to the left, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 2017445153,
+            "original": "~z~I never shoulda come back to Liberty City. I knew Gerald would get me back into this shit.",
+            "translated": "~z~I never shoulda come back to Liberty City. I knew Gerald would get me back into this shit.",
+            "desc": ""
+        },
+        {
+            "hash": 2036127489,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 2042855633,
+            "original": "~z~Niko, find some cover.",
+            "translated": "~z~Niko, find some cover.",
+            "desc": ""
+        },
+        {
+            "hash": 2055796029,
+            "original": "~z~Niko, make sure we're not being fucked from behind.",
+            "translated": "~z~Niko, make sure we're not being fucked from behind.",
+            "desc": ""
+        },
+        {
+            "hash": 2065953188,
+            "original": "~z~I don't like this.",
+            "translated": "~z~I don't like this.",
+            "desc": ""
+        },
+        {
+            "hash": 2078929190,
+            "original": "~z~Packie, get in cover before you get yourself killed.",
+            "translated": "~z~Packie, get in cover before you get yourself killed.",
+            "desc": ""
+        },
+        {
+            "hash": 2095996773,
+            "original": "~z~Hurry up and shoot the fucking lock, will you?",
+            "translated": "~z~Hurry up and shoot the fucking lock, will you?",
+            "desc": ""
+        },
+        {
+            "hash": 2119741228,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 2147227593,
+            "original": "~z~Come on, into this car park.",
+            "translated": "~z~Come on, into this car park.",
+            "desc": ""
+        },
+        {
+            "hash": 2224095265,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 2230552957,
+            "original": "~z~Niko, will ya keep an eye to the left?",
+            "translated": "~z~Niko, will ya keep an eye to the left?",
+            "desc": ""
+        },
+        {
+            "hash": 2247182722,
+            "original": "~z~We got cops coming up behind us. Shit.",
+            "translated": "~z~We got cops coming up behind us. Shit.",
+            "desc": ""
+        },
+        {
+            "hash": 2250455712,
+            "original": "~z~There ain't no way round these fucks, we're going through 'em.",
+            "translated": "~z~There ain't no way round these fucks, we're going through 'em.",
+            "desc": ""
+        },
+        {
+            "hash": 2262968165,
+            "original": "~z~Shit, they sent a chopper after us. There ain't no getting away. We're done.",
+            "translated": "~z~操，他们派出直升机了。这下逃不掉了，我们完了。",
+            "desc": ""
+        },
+        {
+            "hash": 2277387683,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 2278239285,
+            "original": "PM3_C_SA",
+            "translated": "PM3_C_SA",
+            "desc": ""
+        },
+        {
+            "hash": 2314309439,
+            "original": "~z~I feel like I'm in a fucking tomb.",
+            "translated": "~z~I feel like I'm in a fucking tomb.",
+            "desc": ""
+        },
+        {
+            "hash": 2327337757,
+            "original": "PM3_C_EA",
+            "translated": "PM3_C_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2335867597,
+            "original": "PM3_B_GB",
+            "translated": "PM3_B_GB",
+            "desc": ""
+        },
+        {
+            "hash": 2340535512,
+            "original": "~z~There's a fucking train coming. Watch out.",
+            "translated": "~z~There's a fucking train coming. Watch out.",
+            "desc": ""
+        },
+        {
+            "hash": 2351896713,
+            "original": "~z~Keep an eye to the rear, Niko.",
+            "translated": "~z~Keep an eye to the rear, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 2382887565,
+            "original": "PM3_B_JA",
+            "translated": "PM3_B_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2398946412,
+            "original": "~z~Find some cover, Niko.",
+            "translated": "~z~Find some cover, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 2404292008,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 2415524039,
+            "original": "~z~Fuck, the door's locked. Shoot the lock out, Niko. We'll cover you.",
+            "translated": "~z~Fuck, the door's locked. Shoot the lock out, Niko. We'll cover you.",
+            "desc": ""
+        },
+        {
+            "hash": 2417378817,
+            "original": "~z~The fucking train is running us down. Christ.",
+            "translated": "~z~The fucking train is running us down. Christ.",
+            "desc": ""
+        },
+        {
+            "hash": 2461858331,
+            "original": "~z~I'm gonna knock myself out for the fucking count. Try to forget about all this shit.",
+            "translated": "~z~I'm gonna knock myself out for the fucking count. Try to forget about all this shit.",
+            "desc": ""
+        },
+        {
+            "hash": 2464559556,
+            "original": "~z~That's gotta be a service exit. Let's hit it.",
+            "translated": "~z~那个应该是维护出口，走那儿吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2474550692,
+            "original": "PM3_B_MA",
+            "translated": "PM3_B_MA",
+            "desc": ""
+        },
+        {
+            "hash": 2478807575,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 2479137509,
+            "original": "~z~Shit, I don't wanna die down here.",
+            "translated": "~z~Shit, I don't wanna die down here.",
+            "desc": ""
+        },
+        {
+            "hash": 2481008741,
+            "original": "~z~These cops is gonna fucking trap us in this tunnel. Shit!",
+            "translated": "~z~这群条子想把我们困在隧道里，操！",
+            "desc": ""
+        },
+        {
+            "hash": 2519093519,
+            "original": "~z~A whole van fulla N.O.O.S.E., boys..",
+            "translated": "~z~A whole van fulla N.O.O.S.E., boys..",
+            "desc": ""
+        },
+        {
+            "hash": 2552512200,
+            "original": "~z~You don't want to get in my way.",
+            "translated": "~z~你们会后悔妨碍我的。",
+            "desc": ""
+        },
+        {
+            "hash": 2574275346,
+            "original": "~z~The cash is ours now!",
+            "translated": "~z~钱是我们的了！",
+            "desc": ""
+        },
+        {
+            "hash": 2585359564,
+            "original": "~z~I can taste the fresh air, boys. Can't have long to go.",
+            "translated": "~z~I can taste the fresh air, boys. Can't have long to go.",
+            "desc": ""
+        },
+        {
+            "hash": 2591744863,
+            "original": "290120210120120210090",
+            "translated": "290120210120120210090",
+            "desc": ""
+        },
+        {
+            "hash": 2619898180,
+            "original": "~z~I need you to clear the area for us, Niko.",
+            "translated": "~z~I need you to clear the area for us, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 2639185895,
+            "original": "~z~Shit, Niko. Find some cover.",
+            "translated": "~z~Shit, Niko. Find some cover.",
+            "desc": ""
+        },
+        {
+            "hash": 2680921144,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2702569997,
+            "original": "PM3_B_YA",
+            "translated": "PM3_B_YA",
+            "desc": ""
+        },
+        {
+            "hash": 2715177516,
+            "original": "~z~I ain't giving up this money.",
+            "translated": "~z~我不会放弃这笔钱的。",
+            "desc": ""
+        },
+        {
+            "hash": 2731965200,
+            "original": "~z~Shit, Niko. Check in front of us.",
+            "translated": "~z~Shit, Niko. Check in front of us.",
+            "desc": ""
+        },
+        {
+            "hash": 2753906434,
+            "original": "PM3_A_ZA",
+            "translated": "PM3_A_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 2760260283,
+            "original": "~z~You're doing fucking great, boys. Let's get up these stairs.",
+            "translated": "~z~你们都他妈干得很好，小子们。赶紧上楼吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2784006031,
+            "original": "PM3_B_PA",
+            "translated": "PM3_B_PA",
+            "desc": ""
+        },
+        {
+            "hash": 2795951600,
+            "original": "~z~We can't let these cops pin us down in here. Fuck!",
+            "translated": "~z~不能被条子困在这儿。操！",
+            "desc": ""
+        },
+        {
+            "hash": 2802233711,
+            "original": "PM3_B_AD",
+            "translated": "PM3_B_AD",
+            "desc": ""
+        },
+        {
+            "hash": 2830042556,
+            "original": "PM3_B_BA",
+            "translated": "PM3_B_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2843086987,
+            "original": "~z~We got cops following us, boys.",
+            "translated": "~z~We got cops following us, boys.",
+            "desc": ""
+        },
+        {
+            "hash": 2845712447,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 2862108290,
+            "original": "~z~Watch out, Packie. Get in some cover.",
+            "translated": "~z~当心，Packie。找个掩护。",
+            "desc": ""
+        },
+        {
+            "hash": 2865670390,
+            "original": "292122092102",
+            "translated": "292122092102",
+            "desc": ""
+        },
+        {
+            "hash": 2868732740,
+            "original": "~z~Watch out, Niko. Get in cover.",
+            "translated": "~z~Watch out, Niko. Get in cover.",
+            "desc": ""
+        },
+        {
+            "hash": 2877086544,
+            "original": "PM3_B_FA",
+            "translated": "PM3_B_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2880894879,
+            "original": "~z~Let us go fucking peaceful like!",
+            "translated": "~z~就不能让我们和平撤离吗！",
+            "desc": ""
+        },
+        {
+            "hash": 2886779363,
+            "original": "PM3_PM3_A",
+            "translated": "PM3_PM3_A",
+            "desc": ""
+        },
+        {
+            "hash": 2922059482,
+            "original": "~z~Down these stairs, men. Come on.",
+            "translated": "~z~Down these stairs, men. Come on.",
+            "desc": ""
+        },
+        {
+            "hash": 2925714371,
+            "original": "PM3_A_XA",
+            "translated": "PM3_A_XA",
+            "desc": ""
+        },
+        {
+            "hash": 2965692852,
+            "original": "~z~You're guarding the rear, Niko.",
+            "translated": "~z~You're guarding the rear, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 2986048919,
+            "original": "~z~Control yourself, Derrick. I got a plan.",
+            "translated": "~z~控制住自己，Derrick。我有主意了。",
+            "desc": ""
+        },
+        {
+            "hash": 3029985934,
+            "original": "PM3_B_RA",
+            "translated": "PM3_B_RA",
+            "desc": ""
+        },
+        {
+            "hash": 3035071715,
+            "original": "PM3_B_AA",
+            "translated": "PM3_B_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3048469142,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3061182454,
+            "original": "~z~Hold 'em off for a minute, boys.",
+            "translated": "~z~Hold 'em off for a minute, boys.",
+            "desc": ""
+        },
+        {
+            "hash": 3066444006,
+            "original": "~z~They ain't gonna get us from behind, boys. I got it covered.",
+            "translated": "~z~They ain't gonna get us from behind, boys. I got it covered.",
+            "desc": ""
+        },
+        {
+            "hash": 3072635726,
+            "original": "~z~Looks like we got a whole precinct worth a cops out here. Get in some cover.",
+            "translated": "~z~Looks like we got a whole precinct worth a cops out here. Get in some cover.",
+            "desc": ""
+        },
+        {
+            "hash": 3083762176,
+            "original": "~z~You don't wanna stand in our fucking way.",
+            "translated": "~z~You don't wanna stand in our fucking way.",
+            "desc": ""
+        },
+        {
+            "hash": 3091648377,
+            "original": "PM3_C_CA",
+            "translated": "PM3_C_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3097365071,
+            "original": "~z~I ain't been here since Frankie threw me a farewell dinner when I was going to Ireland. That was a lifetime ago.",
+            "translated": "~z~上次来这儿还是去爱尔兰之前，Frankie为我饯行的时候。已经是很久以前了。",
+            "desc": ""
+        },
+        {
+            "hash": 3108770156,
+            "original": "PM3_B_CA",
+            "translated": "PM3_B_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3113356957,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 3114692581,
+            "original": "PM3_C_VA",
+            "translated": "PM3_C_VA",
+            "desc": ""
+        },
+        {
+            "hash": 3116194284,
+            "original": "~z~Niko, get in cover.",
+            "translated": "~z~Niko, get in cover.",
+            "desc": ""
+        },
+        {
+            "hash": 3130760877,
+            "original": "~z~Don't stand in our way because we don't want to hurt you.",
+            "translated": "~z~Don't stand in our way because we don't want to hurt you.",
+            "desc": ""
+        },
+        {
+            "hash": 3131590161,
+            "original": "PM3_C_QA",
+            "translated": "PM3_C_QA",
+            "desc": ""
+        },
+        {
+            "hash": 3136597171,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3164780260,
+            "original": "~z~They're behind us, the fucking cops.",
+            "translated": "~z~They're behind us, the fucking cops.",
+            "desc": ""
+        },
+        {
+            "hash": 3172124666,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3178371861,
+            "original": "~z~Motherfuckers!",
+            "translated": "~z~狗东西们！",
+            "desc": ""
+        },
+        {
+            "hash": 3236358938,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3246086039,
+            "original": "~z~I'm gonna give myself a double dose when I get home.",
+            "translated": "~z~I'm gonna give myself a double dose when I get home.",
+            "desc": ""
+        },
+        {
+            "hash": 3248179020,
+            "original": "~z~Stick to the tracks, Niko. Come on.",
+            "translated": "~z~沿着铁轨走，Niko。快点。",
+            "desc": ""
+        },
+        {
+            "hash": 3258856012,
+            "original": "PM3_C_HA",
+            "translated": "PM3_C_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3273919355,
+            "original": "~z~I could do with some chop right now!",
+            "translated": "~z~I could do with some chop right now!",
+            "desc": ""
+        },
+        {
+            "hash": 3334000228,
+            "original": "~z~Fucking get rid of these guys, Niko.",
+            "translated": "~z~Fucking get rid of these guys, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 3347422288,
+            "original": "~z~Niko! Cover!",
+            "translated": "~z~Niko！掩护！",
+            "desc": ""
+        },
+        {
+            "hash": 3368958738,
+            "original": "~z~Our argument's with the police, not innocent civilians. Get down.",
+            "translated": "~z~Our argument's with the police, not innocent civilians. Get down.",
+            "desc": ""
+        },
+        {
+            "hash": 3378831194,
+            "original": "~z~We're heading right, people. Come on.",
+            "translated": "~z~We're heading right, people. Come on.",
+            "desc": ""
+        },
+        {
+            "hash": 3388511995,
+            "original": "~z~Hold these bastards back, boys.",
+            "translated": "~z~Hold these bastards back, boys.",
+            "desc": ""
+        },
+        {
+            "hash": 3389153023,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3397551415,
+            "original": "~z~Niko you're the getaway driver. Will ya get us back to my ma's?",
+            "translated": "~z~Niko you're the getaway driver. Will ya get us back to my ma's?",
+            "desc": ""
+        },
+        {
+            "hash": 3399907121,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3400957755,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3419082110,
+            "original": "~z~You almost lost me and a big bag of money there, boys.",
+            "translated": "~z~你们刚才差点就要没了我和一大包钱，小子们。",
+            "desc": ""
+        },
+        {
+            "hash": 3421554246,
+            "original": "~z~Let's charge through these fucks, people. There ain't no time for second thoughts.",
+            "translated": "~z~Let's charge through these fucks, people. There ain't no time for second thoughts.",
+            "desc": ""
+        },
+        {
+            "hash": 3456762975,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3458369253,
+            "original": "PM3_C_IA",
+            "translated": "PM3_C_IA",
+            "desc": ""
+        },
+        {
+            "hash": 3479153982,
+            "original": "~z~Back off. The money's ours now.",
+            "translated": "~z~滚开，钱是我们的了。",
+            "desc": ""
+        },
+        {
+            "hash": 3482060051,
+            "original": "PM3_B_GD",
+            "translated": "PM3_B_GD",
+            "desc": ""
+        },
+        {
+            "hash": 3492495495,
+            "original": "~z~You ain't taking me down!",
+            "translated": "~z~别想干掉我！",
+            "desc": ""
+        },
+        {
+            "hash": 3500822383,
+            "original": "PM3_B_KA",
+            "translated": "PM3_B_KA",
+            "desc": ""
+        },
+        {
+            "hash": 3508245161,
+            "original": "~z~Watch the bags, boys. We don't want holes in our notes.",
+            "translated": "~z~包当心点，小子们。大家都不想钞票上长眼儿。",
+            "desc": ""
+        },
+        {
+            "hash": 3541648262,
+            "original": "PM3_B_AC",
+            "translated": "PM3_B_AC",
+            "desc": ""
+        },
+        {
+            "hash": 3565055250,
+            "original": "~z~Niko, follow us on the tracks.",
+            "translated": "~z~Niko，跟着我们走铁轨。",
+            "desc": ""
+        },
+        {
+            "hash": 3579883508,
+            "original": "~z~If this was easy then everyone would rob banks.",
+            "translated": "~z~If this was easy then everyone would rob banks.",
+            "desc": ""
+        },
+        {
+            "hash": 3599134207,
+            "original": "~z~Shit, Niko. Will you handle these boys?",
+            "translated": "~z~Shit, Niko. Will you handle these boys?",
+            "desc": ""
+        },
+        {
+            "hash": 3600364319,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3627365236,
+            "original": "~z~Keep these fucks at bay, people.",
+            "translated": "~z~Keep these fucks at bay, people.",
+            "desc": ""
+        },
+        {
+            "hash": 3641557146,
+            "original": "~z~There ain't no reason to get in my way.",
+            "translated": "~z~没有人可以阻挡我。",
+            "desc": ""
+        },
+        {
+            "hash": 3656061947,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3656231363,
+            "original": "~z~Shit, that was closer than I'm comfortable with.",
+            "translated": "~z~操，刚才那下有点顶不住。",
+            "desc": ""
+        },
+        {
+            "hash": 3664321453,
+            "original": "PM3_B_GC",
+            "translated": "PM3_B_GC",
+            "desc": ""
+        },
+        {
+            "hash": 3678264233,
+            "original": "~z~We're gonna head right, okay? Move it.",
+            "translated": "~z~We're gonna head right, okay? Move it.",
+            "desc": ""
+        },
+        {
+            "hash": 3684351076,
+            "original": "~z~We'll be laughing about this shit tomorrow, boys, I promise ya that.",
+            "translated": "~z~We'll be laughing about this shit tomorrow, boys, I promise ya that.",
+            "desc": ""
+        },
+        {
+            "hash": 3691738036,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 3694438555,
+            "original": "~z~Alright, Niko. Take us back to my ma's, will ya?",
+            "translated": "~z~Alright, Niko. Take us back to my ma's, will ya?",
+            "desc": ""
+        },
+        {
+            "hash": 3715822969,
+            "original": "~z~Let's get down here, come on.",
+            "translated": "~z~Let's get down here, come on.",
+            "desc": ""
+        },
+        {
+            "hash": 3720677579,
+            "original": "~z~Ain't no one coming at us from the right, people.",
+            "translated": "~z~Ain't no one coming at us from the right, people.",
+            "desc": ""
+        },
+        {
+            "hash": 3747233876,
+            "original": "012",
+            "translated": "012",
+            "desc": ""
+        },
+        {
+            "hash": 3753934111,
+            "original": "~z~The cops is behind us. Jesus.",
+            "translated": "~z~The cops is behind us. Jesus.",
+            "desc": ""
+        },
+        {
+            "hash": 3761235595,
+            "original": "~z~The train's heading right for us. Watch yourselves.",
+            "translated": "~z~The train's heading right for us. Watch yourselves.",
+            "desc": ""
+        },
+        {
+            "hash": 3768545209,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3768732284,
+            "original": "~z~Moment of truth, boys. Let's go!",
+            "translated": "~z~Moment of truth, boys. Let's go!",
+            "desc": ""
+        },
+        {
+            "hash": 3804180658,
+            "original": "~z~Bring that shithead down, Niko.",
+            "translated": "~z~Bring that shithead down, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 3808275094,
+            "original": "PM3_B_GA",
+            "translated": "PM3_B_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3809380111,
+            "original": "~z~Clear the area for us, Niko.",
+            "translated": "~z~Clear the area for us, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 3836564817,
+            "original": "~z~That's gotta be a way outta here, boys. Come on.",
+            "translated": "~z~那边应该有路出去，小子们。来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3837676792,
+            "original": "~z~There are too many of them, we'll die if we stay here.",
+            "translated": "~z~There are too many of them, we'll die if we stay here.",
+            "desc": ""
+        },
+        {
+            "hash": 3854449946,
+            "original": "~z~This ain't my idea of fun, boys. Would ya give me a hand?",
+            "translated": "~z~This ain't my idea of fun, boys. Would ya give me a hand?",
+            "desc": ""
+        },
+        {
+            "hash": 3860072014,
+            "original": "PM3_C_WA",
+            "translated": "PM3_C_WA",
+            "desc": ""
+        },
+        {
+            "hash": 3866705810,
+            "original": "~z~Shit, they've followed us down here. They're in the subway too.",
+            "translated": "~z~操，他们跟到这儿来了，地铁站里也是他们的人。",
+            "desc": ""
+        },
+        {
+            "hash": 3867998505,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 3871660012,
+            "original": "~z~Get outta the fucking way!",
+            "translated": "~z~Get outta the fucking way!",
+            "desc": ""
+        },
+        {
+            "hash": 3881942837,
+            "original": "~z~Make sure these pricks don't shoot the bags. Notes with bullet holes in 'em are gonna be mighty hard to get rid of.",
+            "translated": "~z~别让这些屌人打到包上面。有弹孔的钱可花不出去。",
+            "desc": ""
+        },
+        {
+            "hash": 3883638839,
+            "original": "PM3_B_UA",
+            "translated": "PM3_B_UA",
+            "desc": ""
+        },
+        {
+            "hash": 3938673669,
+            "original": "~z~You don't wanna die for the bank's cash.",
+            "translated": "~z~银行的钱不值得你们送死。",
+            "desc": ""
+        },
+        {
+            "hash": 3946484131,
+            "original": "PM3_C_JA",
+            "translated": "PM3_C_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3970903038,
+            "original": "PM3_C_OA",
+            "translated": "PM3_C_OA",
+            "desc": ""
+        },
+        {
+            "hash": 3977245490,
+            "original": "~z~Shit, you don't never know what you're dealing with when you're in Chinatown.",
+            "translated": "~z~操，你永远不会知道你在唐人街干的是谁的。",
+            "desc": ""
+        },
+        {
+            "hash": 4015098255,
+            "original": "~z~You knew what this job was when you signed up. Don't pretend that you're all holier than thou.",
+            "translated": "~z~You knew what this job was when you signed up. Don't pretend that you're all holier than thou.",
+            "desc": ""
+        },
+        {
+            "hash": 4029529707,
+            "original": "~z~I got the front covered, boys.",
+            "translated": "~z~I got the front covered, boys.",
+            "desc": ""
+        },
+        {
+            "hash": 4035400364,
+            "original": "~z~I ain't gonna be around much longer at this rate. Fucking help me!",
+            "translated": "~z~I ain't gonna be around much longer at this rate. Fucking help me!",
+            "desc": ""
+        },
+        {
+            "hash": 4041155248,
+            "original": "~z~Alright man, get these guys, will ya?",
+            "translated": "~z~Alright man, get these guys, will ya?",
+            "desc": ""
+        },
+        {
+            "hash": 4056471081,
+            "original": "~z~The cops is down here too. Check over there, boys.",
+            "translated": "~z~下面也有条子。进去小心点，小子们。",
+            "desc": ""
+        },
+        {
+            "hash": 4065679224,
+            "original": "~z~Michael was unlucky. It wasn't anybody's fault what happened to him and the explosive did its job.",
+            "translated": "~z~Michael运气差了点。~n~他出事怪不了谁，炸弹也够好了。",
+            "desc": ""
+        },
+        {
+            "hash": 4068547607,
+            "original": "~z~You're right. Let's cut around the back. Follow my lead.",
+            "translated": "~z~You're right. Let's cut around the back. Follow my lead.",
+            "desc": ""
+        },
+        {
+            "hash": 4081798407,
+            "original": "~z~Don't be fucking stupid, get in cover, Niko.",
+            "translated": "~z~Don't be fucking stupid, get in cover, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 4084437104,
+            "original": "~z~Everybody get down. We don't want no one hurt who don't gotta be.",
+            "translated": "~z~Everybody get down. We don't want no one hurt who don't gotta be.",
+            "desc": ""
+        },
+        {
+            "hash": 4101428185,
+            "original": "~z~We got more cops on us, people.",
+            "translated": "~z~又有警察追上来了，各位。",
+            "desc": ""
+        },
+        {
+            "hash": 4122106838,
+            "original": "~z~Don't get this money shot up, boys.",
+            "translated": "~z~别让钱被打烂了，小子们。",
+            "desc": ""
+        },
+        {
+            "hash": 4140999998,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4151229297,
+            "original": "~z~Okay, we're making a right up here. Come on.",
+            "translated": "~z~Okay, we're making a right up here. Come on.",
+            "desc": ""
+        },
+        {
+            "hash": 4176510757,
+            "original": "~z~Get in cover, Niko.",
+            "translated": "~z~Get in cover, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 4192721246,
+            "original": "~z~Will you shoot the fucking lock already, Niko?",
+            "translated": "~z~Will you shoot the fucking lock already, Niko?",
+            "desc": ""
+        },
+        {
+            "hash": 4199125117,
+            "original": "PM3_B_IA",
+            "translated": "PM3_B_IA",
+            "desc": ""
+        },
+        {
+            "hash": 4201090877,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 4201547140,
+            "original": "~z~The can't be another truck full of them. Jesus. They're blocking the roads.",
+            "translated": "~z~The can't be another truck full of them. Jesus. They're blocking the roads.",
+            "desc": ""
+        },
+        {
+            "hash": 4243433780,
+            "original": "PM3_B_SA",
+            "translated": "PM3_B_SA",
+            "desc": ""
+        },
+        {
+            "hash": 4243470190,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4249608679,
+            "original": "PM3_A_UA",
+            "translated": "PM3_A_UA",
+            "desc": ""
+        },
+        {
+            "hash": 4251083061,
+            "original": "~z~Get in some cover, Niko.",
+            "translated": "~z~Get in some cover, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 4275658749,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 4278697729,
+            "original": "~z~Niko, those guys is yours.",
+            "translated": "~z~Niko, those guys is yours.",
+            "desc": ""
+        },
+        {
+            "hash": 4288237373,
+            "original": "PM3_C_TA",
+            "translated": "PM3_C_TA",
+            "desc": ""
+        }
+    ]
+}

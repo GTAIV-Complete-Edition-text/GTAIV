@@ -1,0 +1,1966 @@
+{
+    "J1BAUD": [
+        {
+            "hash": 13874914,
+            "original": "~z~So you here to work for him, shoot him, or arrest him? Or maybe all three?",
+            "translated": "~z~所以，你是来给他干活的，来把他做掉的，还是来逮捕他的？或者三种都是？",
+            "desc": ""
+        },
+        {
+            "hash": 22854038,
+            "original": "~z~I wouldn't have him any other way.",
+            "translated": "~z~不然我也不会让他一直在我身边。",
+            "desc": ""
+        },
+        {
+            "hash": 31443470,
+            "original": "J1_EA",
+            "translated": "J1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 45180740,
+            "original": "J1_QV_QQQ1",
+            "translated": "J1_QV_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 45695636,
+            "original": "~z~No they weren't. Happy to be on board with the skipper.",
+            "translated": "~z~不，不会有的。他们很高兴能和老大坐一辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 49466772,
+            "original": "~z~I like what you did there, skip. Real clever.",
+            "translated": "~z~你真的太聪明了，老大，你是我偶像。",
+            "desc": ""
+        },
+        {
+            "hash": 52415678,
+            "original": "~z~You're insurance. I'm the captain of this ship because I look at every possibility.",
+            "translated": "~z~保险措施而已。我是这艘船的船长，需要考虑所有情况。",
+            "desc": ""
+        },
+        {
+            "hash": 57649728,
+            "original": "~z~I'm gonna get that seat because of what I done.",
+            "translated": "~z~经营了这么多年，我肯定会有一席之地的。",
+            "desc": ""
+        },
+        {
+            "hash": 83992594,
+            "original": "J1_DP",
+            "translated": "J1_DP",
+            "desc": ""
+        },
+        {
+            "hash": 86896474,
+            "original": "~z~The question is \"did you know about it?\".",
+            "translated": "~z~问题是，「你自己知道吗？」",
+            "desc": ""
+        },
+        {
+            "hash": 93007288,
+            "original": "~z~they try to fucking kill me!",
+            "translated": "~z~他们他妈想杀我！",
+            "desc": ""
+        },
+        {
+            "hash": 95986976,
+            "original": "J1_DO",
+            "translated": "J1_DO",
+            "desc": ""
+        },
+        {
+            "hash": 136114560,
+            "original": "~z~Peg.",
+            "translated": "~z~Peg。",
+            "desc": ""
+        },
+        {
+            "hash": 182733927,
+            "original": "~z~You're a smart guy, skipper.",
+            "translated": "~z~你太聪明了，老大。",
+            "desc": ""
+        },
+        {
+            "hash": 187599771,
+            "original": "J1_RQ",
+            "translated": "J1_RQ",
+            "desc": ""
+        },
+        {
+            "hash": 215899015,
+            "original": "J1_EE",
+            "translated": "J1_EE",
+            "desc": ""
+        },
+        {
+            "hash": 222421250,
+            "original": "~z~You can't be too confident if you got me here?",
+            "translated": "~z~真有那个信心你还雇我干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 226771281,
+            "original": "J1_DAI",
+            "translated": "J1_DAI",
+            "desc": ""
+        },
+        {
+            "hash": 242410464,
+            "original": "J1_EB",
+            "translated": "J1_EB",
+            "desc": ""
+        },
+        {
+            "hash": 254974766,
+            "original": "J1_DY",
+            "translated": "J1_DY",
+            "desc": ""
+        },
+        {
+            "hash": 279800073,
+            "original": "~z~when me and the Pavanos is just putting our first pawns out there on the checkerboard.",
+            "translated": "~z~你就想好六步以后该怎么保护我了。",
+            "desc": ""
+        },
+        {
+            "hash": 301282835,
+            "original": "J1_DG",
+            "translated": "J1_DG",
+            "desc": ""
+        },
+        {
+            "hash": 306720831,
+            "original": "J1_DT",
+            "translated": "J1_DT",
+            "desc": ""
+        },
+        {
+            "hash": 316477240,
+            "original": "~z~I'm sorry, boss.",
+            "translated": "~z~我很抱歉，老大。",
+            "desc": ""
+        },
+        {
+            "hash": 322166179,
+            "original": "J1_EP",
+            "translated": "J1_EP",
+            "desc": ""
+        },
+        {
+            "hash": 329977153,
+            "original": "~z~Ask me why it matters. Women just don't understand this life of ours.",
+            "translated": "~z~一直说有必要吗。女人是真不明白我们这种生活。",
+            "desc": ""
+        },
+        {
+            "hash": 362809584,
+            "original": "J1_RG",
+            "translated": "J1_RG",
+            "desc": ""
+        },
+        {
+            "hash": 369510889,
+            "original": "J1_DA",
+            "translated": "J1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 384920324,
+            "original": "~z~It means something in Alderney even if it don't in Algonquin.",
+            "translated": "~z~就算在Algonquin不太管用，但在Alderney总有份量。",
+            "desc": ""
+        },
+        {
+            "hash": 386616279,
+            "original": "~z~Things got too complicated.",
+            "translated": "~z~越搞越复杂。",
+            "desc": ""
+        },
+        {
+            "hash": 388239242,
+            "original": "~z~Oh, yeah, yeah, yeah, yeah.",
+            "translated": "~z~哦，对对对，对对。",
+            "desc": ""
+        },
+        {
+            "hash": 419190105,
+            "original": "~z~Alderney weren't nothing without me.",
+            "translated": "~z~没我Alderney就什么都不是。",
+            "desc": ""
+        },
+        {
+            "hash": 430671274,
+            "original": "J1_QW",
+            "translated": "J1_QW",
+            "desc": ""
+        },
+        {
+            "hash": 431483406,
+            "original": "~z~I dunno, I was just doing what Ray told me to.",
+            "translated": "~z~不知道。我只是忠实执行了Ray的指令。",
+            "desc": ""
+        },
+        {
+            "hash": 434615151,
+            "original": "J1_LB_QQQ1",
+            "translated": "J1_LB_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 435625320,
+            "original": "~z~In a good way.",
+            "translated": "~z~我夸他呢。",
+            "desc": ""
+        },
+        {
+            "hash": 439425096,
+            "original": "~z~or you're not going to deal with it, and you're going to be a problem that somebody else has to deal with.",
+            "translated": "~z~要是你办不成，你就会成为需要别人解决的麻烦。",
+            "desc": ""
+        },
+        {
+            "hash": 439654759,
+            "original": "~z~Some maybe.",
+            "translated": "~z~可能吧。",
+            "desc": ""
+        },
+        {
+            "hash": 446553899,
+            "original": "J1_EL",
+            "translated": "J1_EL",
+            "desc": ""
+        },
+        {
+            "hash": 458122808,
+            "original": "~z~We gonna get that gift back and make this crew pay for their disrespect. Come on.",
+            "translated": "~z~赶紧夺回礼物，让他们为不尊重我付出代价。干他。",
+            "desc": ""
+        },
+        {
+            "hash": 462172593,
+            "original": "J1_DAA",
+            "translated": "J1_DAA",
+            "desc": ""
+        },
+        {
+            "hash": 464133415,
+            "original": "~z~That little harlot keeps me young, I'll tell you that.",
+            "translated": "~z~那个小贱人让我容光焕发，真的。",
+            "desc": ""
+        },
+        {
+            "hash": 470720067,
+            "original": "~z~Ah, here they are, it's either them or the cops.",
+            "translated": "~z~啊，他们来了，不是他们就是条子。",
+            "desc": ""
+        },
+        {
+            "hash": 489281551,
+            "original": "J1_EQ",
+            "translated": "J1_EQ",
+            "desc": ""
+        },
+        {
+            "hash": 493886502,
+            "original": "~z~What?",
+            "translated": "~z~干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 508490200,
+            "original": "~z~Yeah, I'm in a life threatening situation and I'm having a conversation here.",
+            "translated": "~z~是啊，我现在性命受到威胁，还在这里跟人聊天。",
+            "desc": ""
+        },
+        {
+            "hash": 510632409,
+            "original": "J1_EX",
+            "translated": "J1_EX",
+            "desc": ""
+        },
+        {
+            "hash": 551040965,
+            "original": "J1_DW",
+            "translated": "J1_DW",
+            "desc": ""
+        },
+        {
+            "hash": 554361845,
+            "original": "J1_EM",
+            "translated": "J1_EM",
+            "desc": ""
+        },
+        {
+            "hash": 569092529,
+            "original": "J1_EW",
+            "translated": "J1_EW",
+            "desc": ""
+        },
+        {
+            "hash": 569354698,
+            "original": "~z~Shit, sometimes I wish she'd just run off with some other guy. Leave me in peace.",
+            "translated": "~z~操，有时候我都希望回到家发现她跟别的男人跑了。让我得以安宁。",
+            "desc": ""
+        },
+        {
+            "hash": 586574386,
+            "original": "J1_DAB",
+            "translated": "J1_DAB",
+            "desc": ""
+        },
+        {
+            "hash": 591441299,
+            "original": "~z~or a stoical lion, who's gonna be cut down in his prime?",
+            "translated": "~z~还是养一只随时赴死的坦然的狮子更好？",
+            "desc": ""
+        },
+        {
+            "hash": 620407607,
+            "original": "~z~So... were you followed?",
+            "translated": "~z~所以...你被跟踪了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 623872729,
+            "original": "J1_LK",
+            "translated": "J1_LK",
+            "desc": ""
+        },
+        {
+            "hash": 624439146,
+            "original": "~z~I mean I'm going to ask you to deal with a problem,",
+            "translated": "~z~我的意思是，我要让你帮我解决一个麻烦。",
+            "desc": ""
+        },
+        {
+            "hash": 627120511,
+            "original": "100100100010100100100010100100010100100100100010100100100100100100",
+            "translated": "100100100010100100100010100100010100100100100010100100100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 647856761,
+            "original": "~z~Yeah?",
+            "translated": "~z~有事吗？",
+            "desc": ""
+        },
+        {
+            "hash": 671003899,
+            "original": "~z~But that's the same all over town. This is a dying game.",
+            "translated": "~z~但这座城市就是这样。这是个死局。",
+            "desc": ""
+        },
+        {
+            "hash": 691058740,
+            "original": "~z~Sometimes I feel like I'm having a heart attack with that girl.",
+            "translated": "~z~有时候我都觉得自己会在她面前心脏病发作。",
+            "desc": ""
+        },
+        {
+            "hash": 694944371,
+            "original": "~z~I saw it through the scope on that rifle.",
+            "translated": "~z~我透过瞄准镜看到了。",
+            "desc": ""
+        },
+        {
+            "hash": 700511970,
+            "original": "~z~My old man, God rest his soul, didn't have the balls to bring the family to the level I got it to.",
+            "translated": "~z~我老爹，愿他安息，胆子没我大，没能让家族达到现在的实力水平。",
+            "desc": ""
+        },
+        {
+            "hash": 709114542,
+            "original": "~z~It's them, they're outside. Looks like Ray's here too.",
+            "translated": "~z~是他们。他们已经到了。看来Ray好像也来了。",
+            "desc": ""
+        },
+        {
+            "hash": 731097775,
+            "original": "J1_RH",
+            "translated": "J1_RH",
+            "desc": ""
+        },
+        {
+            "hash": 733132971,
+            "original": "~z~Someone for you.",
+            "translated": "~z~有人找你。",
+            "desc": ""
+        },
+        {
+            "hash": 744471717,
+            "original": "~z~But me? I ain't doing nothing.",
+            "translated": "~z~至于我？不必亲力亲为。",
+            "desc": ""
+        },
+        {
+            "hash": 780147233,
+            "original": "~z~Marco and Pete? Oh yeah, those guys didn't make it, did they? Well, too fucking bad.",
+            "translated": "~z~Marco和Pete？哦对，他俩没活下来是吧？确实太可怜了。",
+            "desc": ""
+        },
+        {
+            "hash": 781796068,
+            "original": "J1_KE",
+            "translated": "J1_KE",
+            "desc": ""
+        },
+        {
+            "hash": 781927177,
+            "original": "~z~Gets us into debt and in some heavy shit with people, but... he's family.",
+            "translated": "~z~让我们负债累累，惹上一堆硬骨头，但...他是我的家人。",
+            "desc": ""
+        },
+        {
+            "hash": 782123578,
+            "original": "~z~I know enough about you, your cousin, your friends...",
+            "translated": "~z~我很了解你，你的堂兄，你的朋友...",
+            "desc": ""
+        },
+        {
+            "hash": 808584129,
+            "original": "J1_DAB_QQQ1",
+            "translated": "J1_DAB_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 812697330,
+            "original": "J1_QS",
+            "translated": "J1_QS",
+            "desc": ""
+        },
+        {
+            "hash": 824789348,
+            "original": "~z~I don't know. What do you think?",
+            "translated": "~z~我不知道。你怎么想？",
+            "desc": ""
+        },
+        {
+            "hash": 859315532,
+            "original": "~z~No matter how long you're around you ain't gonna speak perfect are you?",
+            "translated": "~z~不管人活多少年，都不可能不说错话，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 871836464,
+            "original": "J1_EC",
+            "translated": "J1_EC",
+            "desc": ""
+        },
+        {
+            "hash": 904974279,
+            "original": "~z~Yes, okay. So what's the problem?",
+            "translated": "~z~好，行。具体什么麻烦？",
+            "desc": ""
+        },
+        {
+            "hash": 924996718,
+            "original": "~z~Now the thing is, these guys ain't, shall we say...",
+            "translated": "~z~但现在的问题是，这些家伙没有...应该说，",
+            "desc": ""
+        },
+        {
+            "hash": 929256147,
+            "original": "J1_QU",
+            "translated": "J1_QU",
+            "desc": ""
+        },
+        {
+            "hash": 948524856,
+            "original": "~z~I want you... to run security.",
+            "translated": "~z~我想让你...保护我的安全。",
+            "desc": ""
+        },
+        {
+            "hash": 960661226,
+            "original": "J1_QP",
+            "translated": "J1_QP",
+            "desc": ""
+        },
+        {
+            "hash": 967284220,
+            "original": "~z~The fucking Pavanos.",
+            "translated": "~z~该死的Pavano家族！",
+            "desc": ""
+        },
+        {
+            "hash": 976837213,
+            "original": "~z~You can't be serious?",
+            "translated": "~z~你开玩笑的吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1001391864,
+            "original": "J1_DAC",
+            "translated": "J1_DAC",
+            "desc": ""
+        },
+        {
+            "hash": 1012210706,
+            "original": "~z~Bout time Alderney got some representation in the city.",
+            "translated": "~z~这座城市也该给Alderney一点面子了。",
+            "desc": ""
+        },
+        {
+            "hash": 1020991358,
+            "original": "~z~Ray didn't go through the correct channels.",
+            "translated": "~z~Ray根本没有找对路子。",
+            "desc": ""
+        },
+        {
+            "hash": 1048896007,
+            "original": "~z~I know a lot of people around you end up in jail.",
+            "translated": "~z~我知道你身边有许多人在监狱度过余生。",
+            "desc": ""
+        },
+        {
+            "hash": 1081064960,
+            "original": "~z~Yeah, well, they seemed like good kids.",
+            "translated": "~z~唉，是啊，他俩都是挺不错的小伙子。",
+            "desc": ""
+        },
+        {
+            "hash": 1099601493,
+            "original": "J1_DD",
+            "translated": "J1_DD",
+            "desc": ""
+        },
+        {
+            "hash": 1100610708,
+            "original": "J1_DZ",
+            "translated": "J1_DZ",
+            "desc": ""
+        },
+        {
+            "hash": 1106928376,
+            "original": "J1_RF",
+            "translated": "J1_RF",
+            "desc": ""
+        },
+        {
+            "hash": 1128512867,
+            "original": "~z~I'd cut his cock off and shove it down his throat.",
+            "translated": "~z~我会把他的鸡巴切下来，塞到他的喉咙里！",
+            "desc": ""
+        },
+        {
+            "hash": 1128668256,
+            "original": "J1_DF",
+            "translated": "J1_DF",
+            "desc": ""
+        },
+        {
+            "hash": 1167234858,
+            "original": "J1_DJ",
+            "translated": "J1_DJ",
+            "desc": ""
+        },
+        {
+            "hash": 1171059139,
+            "original": "~z~shown us the appropriate respect in the past.",
+            "translated": "~z~一直没给我们家族应有的尊重。",
+            "desc": ""
+        },
+        {
+            "hash": 1173884707,
+            "original": "J1_LF",
+            "translated": "J1_LF",
+            "desc": ""
+        },
+        {
+            "hash": 1186460565,
+            "original": "~z~Keep an eye on things, 'cause they won't be looking out for you.",
+            "translated": "~z~仔细盯着情况，他们不会注意到你的存在的。",
+            "desc": ""
+        },
+        {
+            "hash": 1188704353,
+            "original": "~z~If we kill every one of them slimeballs",
+            "translated": "~z~要是我把他们这个混蛋家族灭门，",
+            "desc": ""
+        },
+        {
+            "hash": 1192374668,
+            "original": "~z~Don't tell me what's due to me. I been waiting for this and working hard for this for years.",
+            "translated": "~z~不用你告诉我该干什么。为此我辛苦努力了好多年。",
+            "desc": ""
+        },
+        {
+            "hash": 1199086076,
+            "original": "~z~I just move on and hire some wannabe wiseguys off the street.",
+            "translated": "~z~我再去街上找些有志向的黑手党给我干活吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1204417401,
+            "original": "~z~We'll get to that.",
+            "translated": "~z~我马上说。",
+            "desc": ""
+        },
+        {
+            "hash": 1205651093,
+            "original": "~z~When I say I wish she'd run off with another guy it's a figure of speech.",
+            "translated": "~z~我刚刚说的希望她跟别的男人跑路是夸张的说辞。",
+            "desc": ""
+        },
+        {
+            "hash": 1215592147,
+            "original": "~z~It ain't like she's my only woman. I got a nice little goomah set up in an apartment in Acter.",
+            "translated": "~z~她又不是我唯一的女人。我在Acter的公寓那边还有个娘们。",
+            "desc": ""
+        },
+        {
+            "hash": 1221734252,
+            "original": "~z~I ain't gonna do shit for him no more. I don't like the way he does business.",
+            "translated": "~z~我再也不会替他办事了。我不喜欢他的办事风格。",
+            "desc": ""
+        },
+        {
+            "hash": 1226278384,
+            "original": "J1_RM",
+            "translated": "J1_RM",
+            "desc": ""
+        },
+        {
+            "hash": 1239086327,
+            "original": "~z~I don't think so.",
+            "translated": "~z~我不觉得。",
+            "desc": ""
+        },
+        {
+            "hash": 1261487616,
+            "original": "~z~They didn't even send a fucking Capo.",
+            "translated": "~z~他们只派了几个小喽啰，连个组长都不派！",
+            "desc": ""
+        },
+        {
+            "hash": 1318071760,
+            "original": "J1_DAD",
+            "translated": "J1_DAD",
+            "desc": ""
+        },
+        {
+            "hash": 1342876528,
+            "original": "~z~Rats seem to get everywhere you don't want them to be.",
+            "translated": "~z~不想见着老鼠*的地方似乎也到处是老鼠。~n~(指叛徒)",
+            "desc": ""
+        },
+        {
+            "hash": 1349601349,
+            "original": "J1_EJ",
+            "translated": "J1_EJ",
+            "desc": ""
+        },
+        {
+            "hash": 1351211283,
+            "original": "J1_RB",
+            "translated": "J1_RB",
+            "desc": ""
+        },
+        {
+            "hash": 1367574252,
+            "original": "~z~Anthony!",
+            "translated": "~z~Anthony！",
+            "desc": ""
+        },
+        {
+            "hash": 1379394355,
+            "original": "~z~He's gonna be the one looking out for you during this meet.",
+            "translated": "~z~待会儿会面的时候是他负责安全工作。",
+            "desc": ""
+        },
+        {
+            "hash": 1396384355,
+            "original": "J1_RN",
+            "translated": "J1_RN",
+            "desc": ""
+        },
+        {
+            "hash": 1397565545,
+            "original": "J1_LE",
+            "translated": "J1_LE",
+            "desc": ""
+        },
+        {
+            "hash": 1404178033,
+            "original": "~z~Where's Big Pete and Marco?",
+            "translated": "~z~Pete和Marco人呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1407278336,
+            "original": "~z~Well, I didn't think you were here to sell me insurance.",
+            "translated": "~z~好吧，你长得不像是卖保险的。",
+            "desc": ""
+        },
+        {
+            "hash": 1414482950,
+            "original": "~z~Wanna keep relations sweet with at least one of the families that got a seat on the Commission.",
+            "translated": "~z~至少也要跟委员会的家族之一搞好关系。",
+            "desc": ""
+        },
+        {
+            "hash": 1448269152,
+            "original": "J1_EK",
+            "translated": "J1_EK",
+            "desc": ""
+        },
+        {
+            "hash": 1459938459,
+            "original": "~z~Shut up, Pete.",
+            "translated": "~z~给我闭嘴，Pete。",
+            "desc": ""
+        },
+        {
+            "hash": 1469616242,
+            "original": "~z~Oh...",
+            "translated": "~z~哦...",
+            "desc": ""
+        },
+        {
+            "hash": 1476056925,
+            "original": "J1_DAH",
+            "translated": "J1_DAH",
+            "desc": ""
+        },
+        {
+            "hash": 1503552219,
+            "original": "~z~Can't say I know.",
+            "translated": "~z~我也不知道啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1504569911,
+            "original": "~z~That's some real sweet shit. You're bringing a tear to my eye.",
+            "translated": "~z~太让人感动了。我的眼睛怎么出水了。",
+            "desc": ""
+        },
+        {
+            "hash": 1506581782,
+            "original": "~z~Hey, what, what ya doing? He's busy.",
+            "translated": "~z~喂，你在干嘛？老大现在很忙。",
+            "desc": ""
+        },
+        {
+            "hash": 1507048650,
+            "original": "J1_QC",
+            "translated": "J1_QC",
+            "desc": ""
+        },
+        {
+            "hash": 1518060301,
+            "original": "J1_KG",
+            "translated": "J1_KG",
+            "desc": ""
+        },
+        {
+            "hash": 1527212088,
+            "original": "J1_EU",
+            "translated": "J1_EU",
+            "desc": ""
+        },
+        {
+            "hash": 1539322477,
+            "original": "J1_RK",
+            "translated": "J1_RK",
+            "desc": ""
+        },
+        {
+            "hash": 1544385851,
+            "original": "~z~They knew what they was signed on for. Weren't complaining on the way out, were they?",
+            "translated": "~z~他们知道当我手下的下场如何。在路上也没有怨言，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1548036345,
+            "original": "J1_QI",
+            "translated": "J1_QI",
+            "desc": ""
+        },
+        {
+            "hash": 1550251586,
+            "original": "100100100010100100310130130010010010100100100010100100100100210210120100100100100100010100100100100100100100",
+            "translated": "100100100010100100310130130010010010100100100010100100100100210210120100100100100100010100100100100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 1552885275,
+            "original": "J1_EY",
+            "translated": "J1_EY",
+            "desc": ""
+        },
+        {
+            "hash": 1562171393,
+            "original": "~z~A lot of people said those diamonds were theirs.",
+            "translated": "~z~很多人主张钻石是他们的。",
+            "desc": ""
+        },
+        {
+            "hash": 1627324609,
+            "original": "~z~You guys all friends now? Nice. You best hope you made a good first impression on Niko, boys.",
+            "translated": "~z~你们现在都是朋友了吧？好。最好给Niko留下个好点的印象，小的们。",
+            "desc": ""
+        },
+        {
+            "hash": 1637034315,
+            "original": "~z~I know it's them. God, give me strength...",
+            "translated": "~z~我知道是他们。老天啊，真是受不了...",
+            "desc": ""
+        },
+        {
+            "hash": 1638050386,
+            "original": "~z~On their way.",
+            "translated": "~z~在路上了。",
+            "desc": ""
+        },
+        {
+            "hash": 1665510000,
+            "original": "~z~Yo!",
+            "translated": "~z~来了！",
+            "desc": ""
+        },
+        {
+            "hash": 1672089041,
+            "original": "~z~If the Pavanos is a Liberty City family, what are they doing coming out to Alderney for this meet?",
+            "translated": "~z~如果Pavano家族是自由城的家族，他们为什么要来Alderney跟你见面呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1675149630,
+            "original": "J1_RL",
+            "translated": "J1_RL",
+            "desc": ""
+        },
+        {
+            "hash": 1699217357,
+            "original": "~z~I'm here to see Mr. Pegorino...",
+            "translated": "~z~我是来找Pegorino先生的...",
+            "desc": ""
+        },
+        {
+            "hash": 1712131347,
+            "original": "J1_EH",
+            "translated": "J1_EH",
+            "desc": ""
+        },
+        {
+            "hash": 1746586613,
+            "original": "J1_DX",
+            "translated": "J1_DX",
+            "desc": ""
+        },
+        {
+            "hash": 1748775353,
+            "original": "~z~I mean, who knows.",
+            "translated": "~z~我是说，谁知道呢。",
+            "desc": ""
+        },
+        {
+            "hash": 1756784278,
+            "original": "J1_DK",
+            "translated": "J1_DK",
+            "desc": ""
+        },
+        {
+            "hash": 1764572119,
+            "original": "~z~Get up.",
+            "translated": "~z~起来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1767469778,
+            "original": "J1_DC",
+            "translated": "J1_DC",
+            "desc": ""
+        },
+        {
+            "hash": 1791490295,
+            "original": "~z~You gonna get a seat on that commission real soon, ain't ya boss?",
+            "translated": "~z~你很快就能位列委员会成员了，对吧老大？",
+            "desc": ""
+        },
+        {
+            "hash": 1793164976,
+            "original": "J1_ET",
+            "translated": "J1_ET",
+            "desc": ""
+        },
+        {
+            "hash": 1801516169,
+            "original": "~z~Damn right they did. That ice was a real fuck up.",
+            "translated": "~z~确实变复杂了。钻石那桩简直是吃了屎。",
+            "desc": ""
+        },
+        {
+            "hash": 1811310436,
+            "original": "J1_DAE",
+            "translated": "J1_DAE",
+            "desc": ""
+        },
+        {
+            "hash": 1835475275,
+            "original": "~z~No wonder I ain't on the Commission when my muscle is this stupid!",
+            "translated": "~z~怪不得委员会不给我席位，谁让我的手下都这么弱智！",
+            "desc": ""
+        },
+        {
+            "hash": 1837654631,
+            "original": "J1_LB",
+            "translated": "J1_LB",
+            "desc": ""
+        },
+        {
+            "hash": 1866024943,
+            "original": "~z~Oh, boss - salve.",
+            "translated": "~z~哦，老大，贵安。",
+            "desc": ""
+        },
+        {
+            "hash": 1868383455,
+            "original": "~z~l'll be out in a minute. Look after Ray 'til I get back.",
+            "translated": "~z~我待会儿就走。我回来前给我看好Ray。",
+            "desc": ""
+        },
+        {
+            "hash": 1877512043,
+            "original": "~z~You heard it here first.",
+            "translated": "~z~你是第一个知道的。",
+            "desc": ""
+        },
+        {
+            "hash": 1882113898,
+            "original": "~z~Anthony, get in here!",
+            "translated": "~z~Anthony，给我过来！",
+            "desc": ""
+        },
+        {
+            "hash": 1882966136,
+            "original": "~z~Yeah, uh boss, I got you this, because I care.",
+            "translated": "~z~好，呃，老大，我给您带来了这个，因为我在乎您。",
+            "desc": ""
+        },
+        {
+            "hash": 1917841174,
+            "original": "J1_QB",
+            "translated": "J1_QB",
+            "desc": ""
+        },
+        {
+            "hash": 1930460077,
+            "original": "J1_QO",
+            "translated": "J1_QO",
+            "desc": ""
+        },
+        {
+            "hash": 1932282705,
+            "original": "~z~and you're going to deal with it,",
+            "translated": "~z~你就得把事办成了。",
+            "desc": ""
+        },
+        {
+            "hash": 1959688584,
+            "original": "J1_DE",
+            "translated": "J1_DE",
+            "desc": ""
+        },
+        {
+            "hash": 1973932108,
+            "original": "~z~I don't understand.",
+            "translated": "~z~我不太明白。",
+            "desc": ""
+        },
+        {
+            "hash": 1975252690,
+            "original": "~z~Ray was nothing to me until he started earning big and sticking his nose in places it didn't belong.",
+            "translated": "~z~在Ray赚到大钱，把触角伸到不属于我们的地盘之前，他对我什么都不是。",
+            "desc": ""
+        },
+        {
+            "hash": 1981459192,
+            "original": "~z~That's just if the shit goes down, right boss? The Pavanos wouldn't fuck with you.",
+            "translated": "~z~只是防一手意外情况，对吧老大？Pavano家族不会暗算你的。",
+            "desc": ""
+        },
+        {
+            "hash": 1998346709,
+            "original": "J1_EZ",
+            "translated": "J1_EZ",
+            "desc": ""
+        },
+        {
+            "hash": 2002474814,
+            "original": "J1_QQ",
+            "translated": "J1_QQ",
+            "desc": ""
+        },
+        {
+            "hash": 2008209602,
+            "original": "J1_EAB",
+            "translated": "J1_EAB",
+            "desc": ""
+        },
+        {
+            "hash": 2009519774,
+            "original": "~z~I don't understand what you're talking about.",
+            "translated": "~z~我根本不知道你在说什么。",
+            "desc": ""
+        },
+        {
+            "hash": 2009531958,
+            "original": "J1_QN",
+            "translated": "J1_QN",
+            "desc": ""
+        },
+        {
+            "hash": 2041684855,
+            "original": "100100100100010100100100010010100",
+            "translated": "100100100100010100100100010010100",
+            "desc": ""
+        },
+        {
+            "hash": 2056787235,
+            "original": "~z~They can't give me a seat but they can help me get one.",
+            "translated": "~z~他们给不了我席位，但能帮我坐上去。",
+            "desc": ""
+        },
+        {
+            "hash": 2065175720,
+            "original": "J1_EI",
+            "translated": "J1_EI",
+            "desc": ""
+        },
+        {
+            "hash": 2076318248,
+            "original": "~z~Yeah, well best ain't good enough. I did my best. Made a name for the Pegorinos.",
+            "translated": "~z~是啊，但光尽力还是不够。我已经为家族呕心沥血了，替Pegorino家族打出了名声。",
+            "desc": ""
+        },
+        {
+            "hash": 2090394286,
+            "original": "~z~This guy's everywhere, like a friggin' cockroach or something, ha?",
+            "translated": "~z~哪儿都能见到他，跟踩不死的蟑螂一样，哈？",
+            "desc": ""
+        },
+        {
+            "hash": 2092238024,
+            "original": "~z~Only, how much can I do with a guy who ain't a full Italian?",
+            "translated": "~z~但我能为一个不是纯种的意大利人做多少？",
+            "desc": ""
+        },
+        {
+            "hash": 2110151885,
+            "original": "~z~Exactly... I mean, we can pretty much guarantee you were followed.",
+            "translated": "~z~没错...我是说，我可以确认你百分百被跟踪了。",
+            "desc": ""
+        },
+        {
+            "hash": 2115371579,
+            "original": "J1_EAD",
+            "translated": "J1_EAD",
+            "desc": ""
+        },
+        {
+            "hash": 2115840980,
+            "original": "~z~This is a declaration of war. The Pegorinos and the Pavanos are hitting the mattresses.",
+            "translated": "~z~这就是开战宣言！Pegorino家族和Pavano家族现在正式开战了！",
+            "desc": ""
+        },
+        {
+            "hash": 2115875606,
+            "original": "~z~I guess not. Lucky I have people like you to teach me when I'm wrong.",
+            "translated": "~z~我觉得不会。幸好有你这样的人能在我犯错的时候提醒我。",
+            "desc": ""
+        },
+        {
+            "hash": 2119524495,
+            "original": "~z~Not yet, boss. Ray called.",
+            "translated": "~z~还没有，老大。Ray倒打过。",
+            "desc": ""
+        },
+        {
+            "hash": 2120508373,
+            "original": "~z~Boss?",
+            "translated": "~z~怎么了老大？",
+            "desc": ""
+        },
+        {
+            "hash": 2142102853,
+            "original": "~z~My wife, Angie's, gonna love this. She keeps busting my balls about trying to get on the Commission.",
+            "translated": "~z~我夫人Angie肯定很高兴。她一直对我加入委员会的想法冷嘲热讽。",
+            "desc": ""
+        },
+        {
+            "hash": 2166984033,
+            "original": "~z~It's that simple?",
+            "translated": "~z~就这么完事儿了？",
+            "desc": ""
+        },
+        {
+            "hash": 2171730248,
+            "original": "J1_RO",
+            "translated": "J1_RO",
+            "desc": ""
+        },
+        {
+            "hash": 2189061365,
+            "original": "~z~You boys have fun.",
+            "translated": "~z~你们先去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2191627077,
+            "original": "J1_LG",
+            "translated": "J1_LG",
+            "desc": ""
+        },
+        {
+            "hash": 2202497355,
+            "original": "J1_EAA",
+            "translated": "J1_EAA",
+            "desc": ""
+        },
+        {
+            "hash": 2204168250,
+            "original": "~z~Ray, you and me is gonna talk. The boss has got business.",
+            "translated": "~z~Ray，你先过来，老大现在有正事。",
+            "desc": ""
+        },
+        {
+            "hash": 2239327158,
+            "original": "J1_QR",
+            "translated": "J1_QR",
+            "desc": ""
+        },
+        {
+            "hash": 2239394309,
+            "original": "~z~You do, but I ain't going to push.",
+            "translated": "~z~你知道的，但我也不会逼你说。",
+            "desc": ""
+        },
+        {
+            "hash": 2262863420,
+            "original": "J1_QV",
+            "translated": "J1_QV",
+            "desc": ""
+        },
+        {
+            "hash": 2270198869,
+            "original": "J1_RJ",
+            "translated": "J1_RJ",
+            "desc": ""
+        },
+        {
+            "hash": 2275361728,
+            "original": "J1_EN",
+            "translated": "J1_EN",
+            "desc": ""
+        },
+        {
+            "hash": 2278444639,
+            "original": "~z~Well, he's being paid to look out for me so saving you guys' asses would be overtime.",
+            "translated": "~z~其实，给他的钱只是负责我安全用的，保护你们的话算是加班。",
+            "desc": ""
+        },
+        {
+            "hash": 2290326321,
+            "original": "~z~It don't do too well for the reputation of us Pegorinos having St Patrick that high up in our organization.",
+            "translated": "~z~组织高位有个绿帽子小精灵对我们Pegorino家族的声誉可不太好。",
+            "desc": ""
+        },
+        {
+            "hash": 2301195508,
+            "original": "J1_QX",
+            "translated": "J1_QX",
+            "desc": ""
+        },
+        {
+            "hash": 2310010800,
+            "original": "J1_KC",
+            "translated": "J1_KC",
+            "desc": ""
+        },
+        {
+            "hash": 2353936527,
+            "original": "~z~Ain't nobody been given a seat since the Commission got founded.",
+            "translated": "~z~委员会成立以后，就再没产生过新的席位。",
+            "desc": ""
+        },
+        {
+            "hash": 2385918734,
+            "original": "J1_ER",
+            "translated": "J1_ER",
+            "desc": ""
+        },
+        {
+            "hash": 2397271054,
+            "original": "100100100210120120310310100100010100100100100100010100100100310100100100100100100210120120",
+            "translated": "100100100210120120310310100100010100100100100100010100100100310100100100100100100210120120",
+            "desc": ""
+        },
+        {
+            "hash": 2397328547,
+            "original": "~z~Yeah, even if you can't speak right, at least you can shoot straight.",
+            "translated": "~z~是啊，就算你这人不会说话，枪法也还是可以的。",
+            "desc": ""
+        },
+        {
+            "hash": 2415771074,
+            "original": "~z~Guy who owned the diamonds, Gay Tony, is in with the Ancelottis.",
+            "translated": "~z~钻石的主人，基佬Tony，他站在Ancelotti家族那边。",
+            "desc": ""
+        },
+        {
+            "hash": 2461437677,
+            "original": "~z~I need to speak with Pegorino.",
+            "translated": "~z~我要见Pegorino。",
+            "desc": ""
+        },
+        {
+            "hash": 2461772081,
+            "original": "J1_QH",
+            "translated": "J1_QH",
+            "desc": ""
+        },
+        {
+            "hash": 2468851536,
+            "original": "J1_DQ",
+            "translated": "J1_DQ",
+            "desc": ""
+        },
+        {
+            "hash": 2478400674,
+            "original": "~z~Ah these kids come and go. It ain't worth paying attention to them until they prove they can survive.",
+            "translated": "~z~啊，这些小伙子来来走走的。如果他们不能证明自己的生存能力，就不值得我去关注。",
+            "desc": ""
+        },
+        {
+            "hash": 2492670281,
+            "original": "J1_DU",
+            "translated": "J1_DU",
+            "desc": ""
+        },
+        {
+            "hash": 2514019536,
+            "original": "J1_RC",
+            "translated": "J1_RC",
+            "desc": ""
+        },
+        {
+            "hash": 2520633306,
+            "original": "J1_DB",
+            "translated": "J1_DB",
+            "desc": ""
+        },
+        {
+            "hash": 2537680198,
+            "original": "~z~We just hoping they got the manners to smile to our faces before they do it.",
+            "translated": "~z~我们指望他们能在下手前对我们先笑一阵子就行。",
+            "desc": ""
+        },
+        {
+            "hash": 2555458740,
+            "original": "J1_QG",
+            "translated": "J1_QG",
+            "desc": ""
+        },
+        {
+            "hash": 2561135603,
+            "original": "~z~Fucking Liberty City families. Get 'em, Niko.",
+            "translated": "~z~操他妈的自由城家族。干死他们，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2572767353,
+            "original": "~z~Tell me about it. But I don't give a shit about them other people.",
+            "translated": "~z~这还用你说。但老子不在乎那些人是谁。",
+            "desc": ""
+        },
+        {
+            "hash": 2653084728,
+            "original": "~z~Shit, but times is changed. Since RICO, the Commission ain't the same.",
+            "translated": "~z~操，但时代变了。自从RICO*颁布，委员会就变了。~n~(组织犯罪取缔法)",
+            "desc": ""
+        },
+        {
+            "hash": 2684748612,
+            "original": "J1_EF",
+            "translated": "J1_EF",
+            "desc": ""
+        },
+        {
+            "hash": 2692426358,
+            "original": "~z~-Hey, Tone.~n~-Hey, Ray.",
+            "translated": "~z~－嘿，Tone。~n~－嘿，Ray。",
+            "desc": ""
+        },
+        {
+            "hash": 2694761627,
+            "original": "~z~Either because they know too much and might rat.",
+            "translated": "~z~要么因为他知道的太多可能告发，",
+            "desc": ""
+        },
+        {
+            "hash": 2697319136,
+            "original": "J1_KI",
+            "translated": "J1_KI",
+            "desc": ""
+        },
+        {
+            "hash": 2708961737,
+            "original": "~z~Is that it?",
+            "translated": "~z~是这样吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2750599923,
+            "original": "~z~Has to be. I only start paying attention to my crew when they start putting me in an awkward position.",
+            "translated": "~z~必须这样。只有哪个手下让我处境尴尬了，我才会关注他。",
+            "desc": ""
+        },
+        {
+            "hash": 2762627805,
+            "original": "J1_DL",
+            "translated": "J1_DL",
+            "desc": ""
+        },
+        {
+            "hash": 2775724536,
+            "original": "~z~Listen to me... here's what the plan is.",
+            "translated": "~z~听我说...接下来讲计划。",
+            "desc": ""
+        },
+        {
+            "hash": 2779840835,
+            "original": "J1_EO",
+            "translated": "J1_EO",
+            "desc": ""
+        },
+        {
+            "hash": 2810145989,
+            "original": "~z~What I'm worried about is our involvement with getting back to Gay Tony and his connections...",
+            "translated": "~z~我只担心我们做的事被基佬Tony和他的盟友知道...",
+            "desc": ""
+        },
+        {
+            "hash": 2810484409,
+            "original": "~z~You're covering me for six moves ahead",
+            "translated": "~z~我和Pavano家族的人刚挪完第一个兵，",
+            "desc": ""
+        },
+        {
+            "hash": 2831578783,
+            "original": "J1_DAF",
+            "translated": "J1_DAF",
+            "desc": ""
+        },
+        {
+            "hash": 2853747194,
+            "original": "J1_QY",
+            "translated": "J1_QY",
+            "desc": ""
+        },
+        {
+            "hash": 2858737703,
+            "original": "~z~Or because they got too much power and they're too smart to get themselves clipped.",
+            "translated": "~z~要么因为他大权在握，头脑聪明到没那么容易被杀。",
+            "desc": ""
+        },
+        {
+            "hash": 2862746642,
+            "original": "J1_RA",
+            "translated": "J1_RA",
+            "desc": ""
+        },
+        {
+            "hash": 2870959160,
+            "original": "J1_QF",
+            "translated": "J1_QF",
+            "desc": ""
+        },
+        {
+            "hash": 2875100153,
+            "original": "~z~Organized crime, my ass.",
+            "translated": "~z~就这水平还犯罪组织呢，",
+            "desc": ""
+        },
+        {
+            "hash": 2888612813,
+            "original": "J1_KF_QQQ1",
+            "translated": "J1_KF_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 2895166733,
+            "original": "~z~Did Phil call?",
+            "translated": "~z~Phil来电话了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2896771942,
+            "original": "J1_KF",
+            "translated": "J1_KF",
+            "desc": ""
+        },
+        {
+            "hash": 2919562925,
+            "original": "~z~I'm doing my best.",
+            "translated": "~z~我会尽力的。",
+            "desc": ""
+        },
+        {
+            "hash": 2934822191,
+            "original": "J1_RS",
+            "translated": "J1_RS",
+            "desc": ""
+        },
+        {
+            "hash": 2949486127,
+            "original": "~z~He's the one who's been keeping Ray from drowning in a pile of shit.",
+            "translated": "~z~之前就是他让Ray不至于淹死在各种粪坑里面。",
+            "desc": ""
+        },
+        {
+            "hash": 2949742485,
+            "original": "~z~They need a family with a new approach to be sitting down with 'em.",
+            "translated": "~z~他们需要一个有新花样的家族加入他们。",
+            "desc": ""
+        },
+        {
+            "hash": 2980408084,
+            "original": "J1_QD",
+            "translated": "J1_QD",
+            "desc": ""
+        },
+        {
+            "hash": 2995508787,
+            "original": "J1_EAC",
+            "translated": "J1_EAC",
+            "desc": ""
+        },
+        {
+            "hash": 3041538628,
+            "original": "~z~That diamond fuck up is case in point. I'm like a fucking chess player.",
+            "translated": "~z~钻石那桩事就能证明。我就他妈像个下棋的。",
+            "desc": ""
+        },
+        {
+            "hash": 3055407147,
+            "original": "~z~I wonder... is it better to have a talented snake,",
+            "translated": "~z~我在想...是养一条聪明的毒蛇更好，",
+            "desc": ""
+        },
+        {
+            "hash": 3058529036,
+            "original": "J1_LA",
+            "translated": "J1_LA",
+            "desc": ""
+        },
+        {
+            "hash": 3068271965,
+            "original": "~z~Whatever happened to the honored society and all that shit?",
+            "translated": "~z~曾经的光荣组织到底都怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 3077273860,
+            "original": "~z~He's 90% Irish.",
+            "translated": "~z~他有九成爱尔兰血统。",
+            "desc": ""
+        },
+        {
+            "hash": 3118491843,
+            "original": "J1_DV",
+            "translated": "J1_DV",
+            "desc": ""
+        },
+        {
+            "hash": 3120118386,
+            "original": "~z~Hopefully they gonna respect that when it comes time to ask them for a favor.",
+            "translated": "~z~希望能让他们多尊重我些，要他们帮忙的时候能给点面子。",
+            "desc": ""
+        },
+        {
+            "hash": 3121099474,
+            "original": "~z~Wake up you fucking mook. Everybody is trying to fuck everybody.",
+            "translated": "~z~醒醒吧你个弱智。所有人都是笑里藏刀。",
+            "desc": ""
+        },
+        {
+            "hash": 3125845713,
+            "original": "J1_EV",
+            "translated": "J1_EV",
+            "desc": ""
+        },
+        {
+            "hash": 3126374419,
+            "original": "J1_RE",
+            "translated": "J1_RE",
+            "desc": ""
+        },
+        {
+            "hash": 3133570998,
+            "original": "~z~You see the respect we're getting out on the street. Jesus.",
+            "translated": "~z~你也看见外面的人对我们有多「尊重」了。老天。",
+            "desc": ""
+        },
+        {
+            "hash": 3136173238,
+            "original": "~z~God give me strength. It's like I'm dealing with children here.",
+            "translated": "~z~我真他妈的操了。合着我在这儿带孩子呢。",
+            "desc": ""
+        },
+        {
+            "hash": 3136918912,
+            "original": "J1_ES",
+            "translated": "J1_ES",
+            "desc": ""
+        },
+        {
+            "hash": 3173461898,
+            "original": "~z~He could have killed me. You're useless.",
+            "translated": "~z~万一他是来杀我的呢？你个废物。",
+            "desc": ""
+        },
+        {
+            "hash": 3190043356,
+            "original": "~z~What the fuck is up with them diamonds?",
+            "translated": "~z~那些钻石到底是怎么搞的？",
+            "desc": ""
+        },
+        {
+            "hash": 3194362514,
+            "original": "~z~We got a lot riding on this meet with the Pavanos",
+            "translated": "~z~这次我们还要大老远地去跟Pavano家族见面。",
+            "desc": ""
+        },
+        {
+            "hash": 3211212142,
+            "original": "~z~I didn't get where I am by believing what every schmuck told me.",
+            "translated": "~z~要是什么人说的话我都信，我就不会有今天的地位。",
+            "desc": ""
+        },
+        {
+            "hash": 3212361833,
+            "original": "J1_LI",
+            "translated": "J1_LI",
+            "desc": ""
+        },
+        {
+            "hash": 3248464689,
+            "original": "~z~I got a nice little offering to the Pavanos that's gonna persuade 'em to argue my case.",
+            "translated": "~z~我为Pavano家族准备了一份小礼物，应该能说服他们帮我。",
+            "desc": ""
+        },
+        {
+            "hash": 3261434788,
+            "original": "J1_QE",
+            "translated": "J1_QE",
+            "desc": ""
+        },
+        {
+            "hash": 3267521688,
+            "original": "~z~Me and two of my guys gonna meet with a couple of boys from the Pavano family.",
+            "translated": "~z~我和两个手下，待会儿要去见Pavano家族的几个小伙子。",
+            "desc": ""
+        },
+        {
+            "hash": 3278270047,
+            "original": "J1_QT",
+            "translated": "J1_QT",
+            "desc": ""
+        },
+        {
+            "hash": 3288887696,
+            "original": "~z~Hey, Niko, huh.",
+            "translated": "~z~嘿，Niko，呵。",
+            "desc": ""
+        },
+        {
+            "hash": 3303227142,
+            "original": "~z~With guys like you, no wonder this 'organization' is doing so wonderfully.",
+            "translated": "~z~有你这样的「得力干将」，难怪这个「组织」运作得这么好。",
+            "desc": ""
+        },
+        {
+            "hash": 3317675317,
+            "original": "J1_DAI_QQQ1",
+            "translated": "J1_DAI_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 3336679526,
+            "original": "~z~then maybe the other families will give me their seat on the Commission.",
+            "translated": "~z~或许委员会的其他家族会立刻把席位给我！",
+            "desc": ""
+        },
+        {
+            "hash": 3337507928,
+            "original": "~z~Pavanos work a little shy business on this side of the West River.",
+            "translated": "~z~Pavano家族在西河这边做一些小贷生意。",
+            "desc": ""
+        },
+        {
+            "hash": 3338398959,
+            "original": "J1_KB",
+            "translated": "J1_KB",
+            "desc": ""
+        },
+        {
+            "hash": 3343171106,
+            "original": "~z~Alright, let's get these slimeball bastards. People like that give Italians a bad name.",
+            "translated": "~z~好了，让我们追上这群混蛋。就是这种人毁了意大利人的名声。",
+            "desc": ""
+        },
+        {
+            "hash": 3367163249,
+            "original": "~z~Can ya, Marco? Jesus.",
+            "translated": "~z~能吗？Marco？真的是。",
+            "desc": ""
+        },
+        {
+            "hash": 3400586275,
+            "original": "~z~They ain't gonna turn up their noses at that.",
+            "translated": "~z~礼物都给了，他们总不会反水吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3421875401,
+            "original": "J1_DI",
+            "translated": "J1_DI",
+            "desc": ""
+        },
+        {
+            "hash": 3424215010,
+            "original": "~z~He's too busy thinking about himself.",
+            "translated": "~z~他这人只想着自己。",
+            "desc": ""
+        },
+        {
+            "hash": 3425951463,
+            "original": "~z~I don't mind 'em taking a bite, I don't even make 'em give me a taste.",
+            "translated": "~z~我不介意他们来插一脚，我都没让他们给我分成。",
+            "desc": ""
+        },
+        {
+            "hash": 3535039460,
+            "original": "~z~I let them operate out here from time to time.",
+            "translated": "~z~我经常让他们这么干的。",
+            "desc": ""
+        },
+        {
+            "hash": 3535836360,
+            "original": "J1_RR",
+            "translated": "J1_RR",
+            "desc": ""
+        },
+        {
+            "hash": 3542463344,
+            "original": "J1_LG_QQQ1",
+            "translated": "J1_LG_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 3543221844,
+            "original": "~z~Something real classy. Real nice.",
+            "translated": "~z~高级得很。非常好。",
+            "desc": ""
+        },
+        {
+            "hash": 3543731057,
+            "original": "~z~And right now, I don't know the answer to that question.",
+            "translated": "~z~现在，我还不知道这个问题的答案。",
+            "desc": ""
+        },
+        {
+            "hash": 3546171743,
+            "original": "~z~Well at least they had the respect to do it at a meet.",
+            "translated": "~z~他们在会面的时候来明的也算给面子了。",
+            "desc": ""
+        },
+        {
+            "hash": 3550350695,
+            "original": "~z~I need these guys if we're ever gonna be taken serious...",
+            "translated": "~z~没有他们，我们很难被正眼看待...",
+            "desc": ""
+        },
+        {
+            "hash": 3553479589,
+            "original": "J1_DAG",
+            "translated": "J1_DAG",
+            "desc": ""
+        },
+        {
+            "hash": 3593138901,
+            "original": "~z~They also control a few bookies.",
+            "translated": "~z~他们还有几个赌庄。",
+            "desc": ""
+        },
+        {
+            "hash": 3593654215,
+            "original": "~z~Sit down next to Jon Gravelli, if he survives that long,",
+            "translated": "~z~跟Jon Gravelli平起平坐，如果他还没死。",
+            "desc": ""
+        },
+        {
+            "hash": 3606209656,
+            "original": "~z~Niko, this is Pete and Marco. Guys, Niko.",
+            "translated": "~z~Niko，这两位是Pete和Marco。伙计们，这是Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3655859071,
+            "original": "~z~Anyways, that's why Ray ain't ever gonna make it to the level he wants to reach.",
+            "translated": "~z~总之，这就是Ray永远都得不到他想要的地位的原因。",
+            "desc": ""
+        },
+        {
+            "hash": 3660444030,
+            "original": "~z~They better not think of crossing that West River and not looking over their shoulders.",
+            "translated": "~z~他们最好别给我趾高气昂地跑到西河这边来。",
+            "desc": ""
+        },
+        {
+            "hash": 3679567020,
+            "original": "~z~They didn't come to your home while you and your wife were sleeping.",
+            "translated": "~z~至少没趁你跟你老婆睡觉的时候跑你家来暗杀。",
+            "desc": ""
+        },
+        {
+            "hash": 3716544973,
+            "original": "~z~You giving them a nice little offering though, skip.",
+            "translated": "~z~你不是给他们准备了一份挺好的小礼物吗，老大。",
+            "desc": ""
+        },
+        {
+            "hash": 3735347371,
+            "original": "~z~and run all of Liberty City, the whole country maybe!",
+            "translated": "~z~然后接管整个自由城，甚至是整个国家！",
+            "desc": ""
+        },
+        {
+            "hash": 3747480415,
+            "original": "J1_ED",
+            "translated": "J1_ED",
+            "desc": ""
+        },
+        {
+            "hash": 3765393590,
+            "original": "J1_DR",
+            "translated": "J1_DR",
+            "desc": ""
+        },
+        {
+            "hash": 3767383459,
+            "original": "100100100010100100100010010010100100100100010100010100",
+            "translated": "100100100010100100100010010010100100100100010100010100",
+            "desc": ""
+        },
+        {
+            "hash": 3773638574,
+            "original": "~z~Yeah, but a wife is a wife. I guess it's like with my cousin. He puts me in so much shit.",
+            "translated": "~z~确实，但你老婆就是你老婆。我觉得就像我堂兄一样，他给我带来太多麻烦了。",
+            "desc": ""
+        },
+        {
+            "hash": 3774293741,
+            "original": "~z~But to be honest, I don't really care neither.",
+            "translated": "~z~但老实说，我也根本不在乎。",
+            "desc": ""
+        },
+        {
+            "hash": 3790580234,
+            "original": "~z~you know, get on the Commission.",
+            "translated": "~z~真的，没法加入委员会。",
+            "desc": ""
+        },
+        {
+            "hash": 3793488791,
+            "original": "~z~Shut up. Jesus. You're worse than my mother.",
+            "translated": "~z~闭嘴啊。天哪，你比我妈话还多。",
+            "desc": ""
+        },
+        {
+            "hash": 3806929769,
+            "original": "J1_KA",
+            "translated": "J1_KA",
+            "desc": ""
+        },
+        {
+            "hash": 3809402253,
+            "original": "J1_DM",
+            "translated": "J1_DM",
+            "desc": ""
+        },
+        {
+            "hash": 3835354313,
+            "original": "J1_DN",
+            "translated": "J1_DN",
+            "desc": ""
+        },
+        {
+            "hash": 3839831469,
+            "original": "~z~Of course he did.",
+            "translated": "~z~他当然会打。",
+            "desc": ""
+        },
+        {
+            "hash": 3843844650,
+            "original": "~z~Can't wait to see the look on their faces.",
+            "translated": "~z~我已经迫不及待地想看他们脸上的表情了。",
+            "desc": ""
+        },
+        {
+            "hash": 3843981532,
+            "original": "~z~I'm surprised you can even speak when your lips are always puckered up, kissing my ass.",
+            "translated": "~z~都舔到我屁股上了，你还能说出话来倒让我很惊讶。",
+            "desc": ""
+        },
+        {
+            "hash": 3850722139,
+            "original": "J1_LH",
+            "translated": "J1_LH",
+            "desc": ""
+        },
+        {
+            "hash": 3856455434,
+            "original": "J1_QA",
+            "translated": "J1_QA",
+            "desc": ""
+        },
+        {
+            "hash": 3911211081,
+            "original": "~z~Let's make 'em wish they was never born.",
+            "translated": "~z~让他们后悔出生在世界上！",
+            "desc": ""
+        },
+        {
+            "hash": 3912523205,
+            "original": "~z~Only way you know is by finding their shit all over the place in the morning.",
+            "translated": "~z~只有起床后看见满地老鼠屎，才会知道有老鼠在。",
+            "desc": ""
+        },
+        {
+            "hash": 3912929175,
+            "original": "~z~I can't believe them Pavanos would treat me like this. The Pegorino name should mean something to them.",
+            "translated": "~z~Pavano家族的孙子居然敢这样对我！Pegorino这个名字对他们应该是有份量的！",
+            "desc": ""
+        },
+        {
+            "hash": 3944058988,
+            "original": "J1_RD",
+            "translated": "J1_RD",
+            "desc": ""
+        },
+        {
+            "hash": 3963916130,
+            "original": "~z~Of course I wouldn't let some guy ball the mother of my children.",
+            "translated": "~z~我肯定不会让野男人碰孩子他妈。",
+            "desc": ""
+        },
+        {
+            "hash": 3970015474,
+            "original": "~z~Can you do me a favor? Can you just shoot yourself to save me the trouble of doing it?",
+            "translated": "~z~你能帮我个忙吗？你他妈给自己来一枪省得我动手好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3980352259,
+            "original": "J1_LD",
+            "translated": "J1_LD",
+            "desc": ""
+        },
+        {
+            "hash": 4021949615,
+            "original": "~z~Its okay, Mrs. P, I'll deal with this.",
+            "translated": "~z~没事的，P夫人。我来处理。",
+            "desc": ""
+        },
+        {
+            "hash": 4022927924,
+            "original": "~z~Earned a lot of good money for a lot of bad people. And this happens,",
+            "translated": "~z~给这帮坏蛋赚了不少钱。结果成这样了，",
+            "desc": ""
+        },
+        {
+            "hash": 4042205277,
+            "original": "~z~Check to make sure my ass is covered in each situation.",
+            "translated": "~z~确保我在任何情况下都万无一失。",
+            "desc": ""
+        },
+        {
+            "hash": 4051893075,
+            "original": "J1_DH",
+            "translated": "J1_DH",
+            "desc": ""
+        },
+        {
+            "hash": 4069491424,
+            "original": "~z~Ray was helping me out with something, so I helped him with the diamonds.",
+            "translated": "~z~Ray帮我干了一件事，所以我就帮他弄钻石。",
+            "desc": ""
+        },
+        {
+            "hash": 4092440378,
+            "original": "~z~That's why you're the boss, boss.",
+            "translated": "~z~所以你才是老大嘛，老大。",
+            "desc": ""
+        },
+        {
+            "hash": 4101261996,
+            "original": "100100010100100100010100",
+            "translated": "100100010100100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 4121633269,
+            "original": "~z~You ain't the type of guy to follow orders if they weren't in your interest.",
+            "translated": "~z~你这种人不会服从不符合你利益的命令。",
+            "desc": ""
+        },
+        {
+            "hash": 4153786760,
+            "original": "J1_RI",
+            "translated": "J1_RI",
+            "desc": ""
+        },
+        {
+            "hash": 4159581438,
+            "original": "~z~Too bad about Marco and Pete.",
+            "translated": "~z~Marco和Pete真可怜。",
+            "desc": ""
+        },
+        {
+            "hash": 4188405416,
+            "original": "~z~Phil's different. He's been my man for a while.",
+            "translated": "~z~Phil不一样。他在我手下很久了。",
+            "desc": ""
+        },
+        {
+            "hash": 4192425229,
+            "original": "~z~You Nick? Come on.",
+            "translated": "~z~你就是Nick？来。",
+            "desc": ""
+        },
+        {
+            "hash": 4233607238,
+            "original": "J1_EG",
+            "translated": "J1_EG",
+            "desc": ""
+        },
+        {
+            "hash": 4251950680,
+            "original": "~z~The Pavanos, are they gonna offer you a seat then?",
+            "translated": "~z~那些Pavano家族的，他们是要给你一个席位吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4255564460,
+            "original": "~z~I think about what's gonna happen if this guy screws me, if this one turns state's, and so on.",
+            "translated": "~z~我也考虑过有人反咬我一口，或者突然背叛。都考虑过。",
+            "desc": ""
+        }
+    ]
+}

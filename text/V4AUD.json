@@ -1,0 +1,844 @@
+{
+    "V4AUD": [
+        {
+            "hash": 40462197,
+            "original": "~z~then we say it was just a robbery that failed.",
+            "translated": "~z~然后我们就说他是抢劫未遂。",
+            "desc": ""
+        },
+        {
+            "hash": 79522101,
+            "original": "~z~Very funny... what would you say if I told you he was going to rob your cousin?",
+            "translated": "~z~真好笑...那要是我告诉你他要抢劫你的堂兄呢？",
+            "desc": ""
+        },
+        {
+            "hash": 89296523,
+            "original": "V4_LB",
+            "translated": "V4_LB",
+            "desc": ""
+        },
+        {
+            "hash": 101019013,
+            "original": "~z~Who was that?",
+            "translated": "~z~刚才那个是谁？",
+            "desc": ""
+        },
+        {
+            "hash": 104212206,
+            "original": "~z~I'll stay out of Hove Beach. I'll be a ghost. I promise. Please!。",
+            "translated": "~z~我会远离Hove Beach，做一个幽灵。我保证。求你了。",
+            "desc": ""
+        },
+        {
+            "hash": 167062591,
+            "original": "V4_FC",
+            "translated": "V4_FC",
+            "desc": ""
+        },
+        {
+            "hash": 214689323,
+            "original": "~z~What'll you have?",
+            "translated": "~z~你要什么？",
+            "desc": ""
+        },
+        {
+            "hash": 232752541,
+            "original": "~z~Alright, Ivan, let's do this.",
+            "translated": "~z~好了，Ivan，开始吧。",
+            "desc": ""
+        },
+        {
+            "hash": 281867694,
+            "original": "V4_IA",
+            "translated": "V4_IA",
+            "desc": ""
+        },
+        {
+            "hash": 332073232,
+            "original": "~z~Never you mind.",
+            "translated": "~z~与你无关。",
+            "desc": ""
+        },
+        {
+            "hash": 342240825,
+            "original": "~z~If Vlad wants you dead, you can't be all bad. Stay out of Hove Beach.",
+            "translated": "~z~要是Vlad想要你死，那你应该也不会太坏。以后离Hove Beach远点。",
+            "desc": ""
+        },
+        {
+            "hash": 362469774,
+            "original": "~z~I tell you, is so much better if woman already have a man.",
+            "translated": "~z~我跟你讲，要是女人已经有了男人就更好了。",
+            "desc": ""
+        },
+        {
+            "hash": 376471994,
+            "original": "~z~Slippery bastard.",
+            "translated": "~z~混蛋真能逃。",
+            "desc": ""
+        },
+        {
+            "hash": 385685504,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 410586705,
+            "original": "~z~He's nothing in this town, don't do this for him.",
+            "translated": "~z~他在城里排不上号，别替他卖命。",
+            "desc": ""
+        },
+        {
+            "hash": 456202461,
+            "original": "~z~You got eyes?",
+            "translated": "~z~你不长眼吗？(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 461462234,
+            "original": "V4_AA",
+            "translated": "V4_AA",
+            "desc": ""
+        },
+        {
+            "hash": 480846640,
+            "original": "~z~That prick Vlad making me kill this guy. Man!",
+            "translated": "~z~Vlad这屌人让我杀了他。天！",
+            "desc": ""
+        },
+        {
+            "hash": 483702106,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 515790846,
+            "original": "~z~Please. Vlad told you to kill me, right?",
+            "translated": "~z~求你了。是Vlad让你来杀我的吧？",
+            "desc": ""
+        },
+        {
+            "hash": 569025965,
+            "original": "V4_AB",
+            "translated": "V4_AB",
+            "desc": ""
+        },
+        {
+            "hash": 574476982,
+            "original": "~z~Stay the fuck away from me, I was set up!",
+            "translated": "~z~你他妈离我远点，我被陷害了！",
+            "desc": ""
+        },
+        {
+            "hash": 621291842,
+            "original": "V4_KD",
+            "translated": "V4_KD",
+            "desc": ""
+        },
+        {
+            "hash": 655208637,
+            "original": "~z~Then Mr. Faustin will be very angry with you... and your cousin.",
+            "translated": "~z~那Faustin先生就会迁怒于你...还有你的堂兄。",
+            "desc": ""
+        },
+        {
+            "hash": 660763543,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 661486899,
+            "original": "~z~No I'm not. I'm getting enough pussy at the moment.",
+            "translated": "~z~不会想他的。现在我女人很多。",
+            "desc": ""
+        },
+        {
+            "hash": 737645341,
+            "original": "V4_JA",
+            "translated": "V4_JA",
+            "desc": ""
+        },
+        {
+            "hash": 743676546,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 809325111,
+            "original": "V4_NA",
+            "translated": "V4_NA",
+            "desc": ""
+        },
+        {
+            "hash": 825528517,
+            "original": "~z~You won't be seeing your boyfriend Ivan no more. You going to miss him?",
+            "translated": "~z~你再也见不到你的男朋友Ivan了。你会想他吗？",
+            "desc": ""
+        },
+        {
+            "hash": 826847012,
+            "original": "~z~Glass of water.",
+            "translated": "~z~来杯水。",
+            "desc": ""
+        },
+        {
+            "hash": 830189726,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 835219915,
+            "original": "~z~Vlad's a bum, don't kill me for him.",
+            "translated": "~z~Vlad是个混蛋，别替他杀我。",
+            "desc": ""
+        },
+        {
+            "hash": 844930337,
+            "original": "V4_GA",
+            "translated": "V4_GA",
+            "desc": ""
+        },
+        {
+            "hash": 875412788,
+            "original": "~z~Where you going to?",
+            "translated": "~z~你往哪儿逃呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1058338845,
+            "original": "~z~There ain't nowhere left for you to run.",
+            "translated": "~z~有种你接着跑啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1064001168,
+            "original": "~z~You remember Ivan?",
+            "translated": "~z~Ivan你还记得吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1066044755,
+            "original": "~z~Shit. Shit. Shit.",
+            "translated": "~z~操，操，操。",
+            "desc": ""
+        },
+        {
+            "hash": 1102155671,
+            "original": "010100100100100",
+            "translated": "010100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 1119576789,
+            "original": "~z~Vlad don't like you no more, man.",
+            "translated": "~z~Vlad不要你了，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 1184025524,
+            "original": "~z~I should have known you would screw this up. You are born loser, just like your cousin. Come see me sometime.",
+            "translated": "~z~我就知道你会搞砸的。你天生就是个失败者，和你堂兄一样。有空再来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 1215140788,
+            "original": "V4_LA",
+            "translated": "V4_LA",
+            "desc": ""
+        },
+        {
+            "hash": 1271396874,
+            "original": "~z~I'm running here.",
+            "translated": "~z~我在这儿呢。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 1280354015,
+            "original": "~z~I don't want no trouble with you!",
+            "translated": "~z~我没想惹你！",
+            "desc": ""
+        },
+        {
+            "hash": 1283429024,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 1306590075,
+            "original": "~z~No.",
+            "translated": "~z~不记得。",
+            "desc": ""
+        },
+        {
+            "hash": 1330544658,
+            "original": "~z~whose only friend is some fat weasel who drives a fucking cab...",
+            "translated": "~z~只有开破出租的肥猪给你撑腰的小混混...",
+            "desc": ""
+        },
+        {
+            "hash": 1331305401,
+            "original": "V4_EB",
+            "translated": "V4_EB",
+            "desc": ""
+        },
+        {
+            "hash": 1333734186,
+            "original": "V4_FB",
+            "translated": "V4_FB",
+            "desc": ""
+        },
+        {
+            "hash": 1379998179,
+            "original": "V4_LE",
+            "translated": "V4_LE",
+            "desc": ""
+        },
+        {
+            "hash": 1416971115,
+            "original": "~z~Vlad told me to go there. Let me go and I'll lay low.",
+            "translated": "~z~是Vlad让我去那里的。放我走，我会低调做人的。",
+            "desc": ""
+        },
+        {
+            "hash": 1418028094,
+            "original": "V4_MA",
+            "translated": "V4_MA",
+            "desc": ""
+        },
+        {
+            "hash": 1438027278,
+            "original": "~z~He think he's stealing some paperwork from Roman.",
+            "translated": "~z~他以为自己只是去Roman那儿偷文件的。",
+            "desc": ""
+        },
+        {
+            "hash": 1481010967,
+            "original": "~z~Hey, Vlad. I lost your boyfriend. He got away from me.",
+            "translated": "~z~嘿，Vlad。你男朋友我跟丢了。他从我这逃了。",
+            "desc": ""
+        },
+        {
+            "hash": 1523412823,
+            "original": "V4_PA",
+            "translated": "V4_PA",
+            "desc": ""
+        },
+        {
+            "hash": 1523693202,
+            "original": "V4_QA",
+            "translated": "V4_QA",
+            "desc": ""
+        },
+        {
+            "hash": 1527071816,
+            "original": "~z~Vlad ain't nobody, you going to see that.",
+            "translated": "~z~Vlad在城里不算什么，你会见识到的。",
+            "desc": ""
+        },
+        {
+            "hash": 1610003595,
+            "original": "010100010",
+            "translated": "010100010",
+            "desc": ""
+        },
+        {
+            "hash": 1654597560,
+            "original": "~z~Move it, asshole.",
+            "translated": "~z~动啊，混蛋。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 1656244956,
+            "original": "~z~Thank you. You won't regret this, man. I am outta here!",
+            "translated": "~z~谢谢你，你不会后悔的，伙计。我马上就走人！",
+            "desc": ""
+        },
+        {
+            "hash": 1680354033,
+            "original": "~z~He's angered Mikhail... Mr. Faustin. Offended him.",
+            "translated": "~z~他惹怒了Mikhail...Faustin先生。得罪了他。",
+            "desc": ""
+        },
+        {
+            "hash": 1711700588,
+            "original": "~z~Fuck you. Say this to my face and I will break you.",
+            "translated": "~z~操你妈，你要是敢当我面说一次，我打爆你的狗头。",
+            "desc": ""
+        },
+        {
+            "hash": 1713155502,
+            "original": "~z~So... why is Ivan going to rob my cousin?",
+            "translated": "~z~那...为什么这个Ivan要抢我的堂兄？",
+            "desc": ""
+        },
+        {
+            "hash": 1718622582,
+            "original": "~z~Hey, how ya doing?",
+            "translated": "~z~嘿，最近如何？",
+            "desc": ""
+        },
+        {
+            "hash": 1764765521,
+            "original": "V4_KB",
+            "translated": "V4_KB",
+            "desc": ""
+        },
+        {
+            "hash": 1961167495,
+            "original": "100100100100100",
+            "translated": "100100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 1966754793,
+            "original": "~z~Because I want you to kill him.",
+            "translated": "~z~因为我要你去杀了他。",
+            "desc": ""
+        },
+        {
+            "hash": 1994215667,
+            "original": "~z~I'm going to catch you, asshole.",
+            "translated": "~z~我要抓住你，混账。",
+            "desc": ""
+        },
+        {
+            "hash": 1995766557,
+            "original": "V4_FA_QQQ1",
+            "translated": "V4_FA_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 2026184681,
+            "original": "~z~Because you don't have to deal with all their shit all day. Take Mallorie, for example...",
+            "translated": "~z~因为这样你就不用整天操心她们的破事了。就拿Mallorie举个例子...",
+            "desc": ""
+        },
+        {
+            "hash": 2130272579,
+            "original": "~z~I wasn't sure about killing you when Vlad asked. Now I'm coming around to the idea.",
+            "translated": "~z~Vlad让我杀你的时候我还不一定能下手，现在我改主意了。",
+            "desc": ""
+        },
+        {
+            "hash": 2151770719,
+            "original": "~z~So you're the guy I'm meant to kill?",
+            "translated": "~z~你就是我要杀的那个人是吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2166428362,
+            "original": "V4_EA",
+            "translated": "V4_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2197285560,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2294704083,
+            "original": "010100100100010",
+            "translated": "010100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 2298318371,
+            "original": "V4_LC",
+            "translated": "V4_LC",
+            "desc": ""
+        },
+        {
+            "hash": 2414296150,
+            "original": "V4_OA",
+            "translated": "V4_OA",
+            "desc": ""
+        },
+        {
+            "hash": 2439520221,
+            "original": "V4_DA",
+            "translated": "V4_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2483987021,
+            "original": "V4_HA",
+            "translated": "V4_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2546256532,
+            "original": "V4_FA",
+            "translated": "V4_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2596942512,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2600966027,
+            "original": "~z~What?",
+            "translated": "~z~什么？",
+            "desc": ""
+        },
+        {
+            "hash": 2607912611,
+            "original": "~z~I'd say... what problem has he got with my cousin?",
+            "translated": "~z~那我就说...他跟我堂兄有什么矛盾？",
+            "desc": ""
+        },
+        {
+            "hash": 2624788162,
+            "original": "V4_KE",
+            "translated": "V4_KE",
+            "desc": ""
+        },
+        {
+            "hash": 2626880939,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 2644333205,
+            "original": "V4_FD",
+            "translated": "V4_FD",
+            "desc": ""
+        },
+        {
+            "hash": 2688079163,
+            "original": "~z~Hey, you and your cousin's girlfriend should get together. She likes sticky finishes as well.",
+            "translated": "~z~嘿，那你真该和你堂兄的女友聚聚，她也喜欢黏稠的。",
+            "desc": ""
+        },
+        {
+            "hash": 2789902969,
+            "original": "~z~You're a fast one, aren't you?",
+            "translated": "~z~小子跑得挺快嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 2800900318,
+            "original": "V4_CA",
+            "translated": "V4_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2804392207,
+            "original": "V4_KC",
+            "translated": "V4_KC",
+            "desc": ""
+        },
+        {
+            "hash": 2828022880,
+            "original": "~z~Shit, you're starting to annoy me.",
+            "translated": "~z~操，你把我给惹毛了。",
+            "desc": ""
+        },
+        {
+            "hash": 2838376988,
+            "original": "~z~Hold on. Hey, hey, hey gorgeous...",
+            "translated": "~z~稍等。嘿，嘿，嘿，小美人...",
+            "desc": ""
+        },
+        {
+            "hash": 2849519188,
+            "original": "~z~Hmm, okay.",
+            "translated": "~z~哼，行吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2856728072,
+            "original": "~z~Was it Ivan?",
+            "translated": "~z~是Ivan吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2895896285,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2906279552,
+            "original": "V4_LD",
+            "translated": "V4_LD",
+            "desc": ""
+        },
+        {
+            "hash": 2925406541,
+            "original": "~z~Bang, bang, you are dead.",
+            "translated": "~z~砰砰，你死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2935386806,
+            "original": "~z~Fuck you. Say that to my face and I will break you.",
+            "translated": "~z~操你妈，你要是敢当我面说一次，我打爆你的狗头。",
+            "desc": ""
+        },
+        {
+            "hash": 2957947591,
+            "original": "V4_IC",
+            "translated": "V4_IC",
+            "desc": ""
+        },
+        {
+            "hash": 3056127733,
+            "original": "~z~Now, go wait for him by the car depot!",
+            "translated": "~z~现在，你可以去车行附近等他了！",
+            "desc": ""
+        },
+        {
+            "hash": 3062317549,
+            "original": "~z~Slow the fuck up, asshole.",
+            "translated": "~z~你他妈慢点，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 3099455278,
+            "original": "~z~Vlad's a bum, he set me up.",
+            "translated": "~z~Vlad是个混蛋，他陷害我。",
+            "desc": ""
+        },
+        {
+            "hash": 3189267884,
+            "original": "~z~Ooh, that's funny. You know, for a dumb yokel, you're a very funny guy.",
+            "translated": "~z~喔，真好笑。作为一个蠢蛋乡巴佬，你还挺有趣的。",
+            "desc": ""
+        },
+        {
+            "hash": 3192675416,
+            "original": "~z~no, I can't talk right now... what are you wearing?",
+            "translated": "~z~不行，现在没空聊...现在你穿的什么？",
+            "desc": ""
+        },
+        {
+            "hash": 3246048298,
+            "original": "V4_BA",
+            "translated": "V4_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3286395496,
+            "original": "~z~I knew we would understand each other, once I put it in this simple way.",
+            "translated": "~z~我就知道，只要把话说明白了，我们就能相互理解。",
+            "desc": ""
+        },
+        {
+            "hash": 3301955120,
+            "original": "~z~You got me.",
+            "translated": "~z~你赢了。",
+            "desc": ""
+        },
+        {
+            "hash": 3313027782,
+            "original": "V4_BB",
+            "translated": "V4_BB",
+            "desc": ""
+        },
+        {
+            "hash": 3325661665,
+            "original": "~z~Get into the real America. You never gonna see me around here again.",
+            "translated": "~z~见识下真正的美国。你再也不会在这儿见到我了。",
+            "desc": ""
+        },
+        {
+            "hash": 3381399754,
+            "original": "~z~You trying to rob my cousin?",
+            "translated": "~z~你想抢劫我堂兄？",
+            "desc": ""
+        },
+        {
+            "hash": 3381678340,
+            "original": "~z~Man, I'm starting to sweat. Shit.",
+            "translated": "~z~天，我都要吓出汗来了。操。",
+            "desc": ""
+        },
+        {
+            "hash": 3442021447,
+            "original": "~z~You've run out of roof, dickhead.",
+            "translated": "~z~你无路可逃了，屌人。",
+            "desc": ""
+        },
+        {
+            "hash": 3456236483,
+            "original": "~z~No, I mean underneath it... great... listen, I'll call you back, eh? Sorry.",
+            "translated": "~z~不是，再里面点...很好...听着，我之后再打过来，啊？不好意思。",
+            "desc": ""
+        },
+        {
+            "hash": 3476815859,
+            "original": "~z~Yes, and for an annoying dick, you're really an annoying dick.",
+            "translated": "~z~对，作为一个烦人的屌人，你还真是个烦人的屌人。",
+            "desc": ""
+        },
+        {
+            "hash": 3500245990,
+            "original": "~z~You catch him, and kill him...",
+            "translated": "~z~你抓住他，然后杀了他...",
+            "desc": ""
+        },
+        {
+            "hash": 3549348256,
+            "original": "~z~I wasn't stealing nothing from your cousin's place!",
+            "translated": "~z~我没从你堂兄店里偷走什么东西...",
+            "desc": ""
+        },
+        {
+            "hash": 3558934525,
+            "original": "~z~Guy you saw me talking to. This guy.",
+            "translated": "~z~之前跟我说过话的那个，这人。",
+            "desc": ""
+        },
+        {
+            "hash": 3559004541,
+            "original": "~z~I promised to deal with you. I don't break promises.",
+            "translated": "~z~我保证过要解决你的，我说到做到。",
+            "desc": ""
+        },
+        {
+            "hash": 3560338685,
+            "original": "~z~Wake up, you moron.",
+            "translated": "~z~醒醒，你个白痴。",
+            "desc": ""
+        },
+        {
+            "hash": 3629936284,
+            "original": "~z~I thought everyone in this country was fat and slow.",
+            "translated": "~z~我还以为这个国家的人都是又胖又慢的。",
+            "desc": ""
+        },
+        {
+            "hash": 3670493783,
+            "original": "~z~Ivan is dead. He came to a sticky end.",
+            "translated": "~z~Ivan已经死了，死状很黏稠。",
+            "desc": ""
+        },
+        {
+            "hash": 3679501327,
+            "original": "~z~I owe you my life, man. You're a good man, you're a good man, thank you.",
+            "translated": "~z~我欠你一命，兄弟。你是个好人，真的是好人，谢谢你。",
+            "desc": ""
+        },
+        {
+            "hash": 3699743366,
+            "original": "~z~Well, it's a real shame, then, that I'm the guy with the powerful friends, and you're the little punk",
+            "translated": "~z~那还真是有够可惜，我是有人撑腰的腕儿，你就是个",
+            "desc": ""
+        },
+        {
+            "hash": 3756521251,
+            "original": "~z~Get up.",
+            "translated": "~z~上来。",
+            "desc": ""
+        },
+        {
+            "hash": 3765149842,
+            "original": "~z~Er... this guy?",
+            "translated": "~z~呃...这人？",
+            "desc": ""
+        },
+        {
+            "hash": 3765445507,
+            "original": "~z~Hey gorgeous, yeah where were we? Okay now listen, let's talk about tonight...",
+            "translated": "~z~嘿，小美人，我们讲到哪儿来着？好，听我说，我们先安排下今晚...",
+            "desc": ""
+        },
+        {
+            "hash": 3882195807,
+            "original": "~z~Hey, Mickey.",
+            "translated": "~z~喂，Mickey。",
+            "desc": ""
+        },
+        {
+            "hash": 3891063388,
+            "original": "~z~No one's going to know that I'm alive. Not even my mother.",
+            "translated": "~z~没人会知道我还活着的。我亲妈都不会知道。",
+            "desc": ""
+        },
+        {
+            "hash": 3936070920,
+            "original": "V4_IB",
+            "translated": "V4_IB",
+            "desc": ""
+        },
+        {
+            "hash": 3937955030,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 3945920964,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4074484299,
+            "original": "~z~Come over here. Sit down.",
+            "translated": "~z~到这来。坐下。",
+            "desc": ""
+        },
+        {
+            "hash": 4138061062,
+            "original": "~z~Oh, yes. You guys had a little kiss.",
+            "translated": "~z~哦，对。你们俩还来了个亲亲。",
+            "desc": ""
+        },
+        {
+            "hash": 4157830420,
+            "original": "~z~Wanted to leave anyway, get away from all these people from back home.",
+            "translated": "~z~我早就想跑路了，刚好摆脱这些熟人。",
+            "desc": ""
+        },
+        {
+            "hash": 4192813158,
+            "original": "~z~Glass of water.",
+            "translated": "~z~来杯水。",
+            "desc": ""
+        },
+        {
+            "hash": 4201431670,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 4206579389,
+            "original": "V4_KA",
+            "translated": "V4_KA",
+            "desc": ""
+        },
+        {
+            "hash": 4221740991,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4249640251,
+            "original": "~z~And what if I say I don't want to be your hitman?",
+            "translated": "~z~那我要是说我不想做你的杀手呢？",
+            "desc": ""
+        },
+        {
+            "hash": 4286046575,
+            "original": "~z~Get out my way.",
+            "translated": "~z~别挡我路。(BETA)",
+            "desc": ""
+        }
+    ]
+}

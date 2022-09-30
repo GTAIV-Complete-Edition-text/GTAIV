@@ -1,0 +1,1414 @@
+{
+    "R4AUD": [
+        {
+            "hash": 7684576,
+            "original": "~z~I can't think what he could possibly want or why he'd be pissed off, can you?",
+            "translated": "~z~我是不知道他想怎样和为什么生气，你知道吗？",
+            "desc": ""
+        },
+        {
+            "hash": 9472877,
+            "original": "~z~Our problem's with your cousin.",
+            "translated": "~z~我们找的是你老哥的麻烦。",
+            "desc": ""
+        },
+        {
+            "hash": 15288963,
+            "original": "~z~Nice one, cousin. Drive back to the depot, these bruises are starting to really hurt.",
+            "translated": "~z~干得好，堂弟。送我回车行吧，这些淤青已经开始疼了。",
+            "desc": ""
+        },
+        {
+            "hash": 53917232,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 98251677,
+            "original": "~z~You shouldn't play with sharp objects, Dardan.",
+            "translated": "~z~不要乱玩刀子，Dardan。",
+            "desc": ""
+        },
+        {
+            "hash": 99578342,
+            "original": "~z~Shit, we've got to catch up to him.",
+            "translated": "~z~操，我们得跟住他。",
+            "desc": ""
+        },
+        {
+            "hash": 109535127,
+            "original": "~z~These men, these shylocks like Dardan, they always try to squeeze you for everything.",
+            "translated": "~z~这些像Dardan一样的高利贷，总是想榨干你的一切。",
+            "desc": ""
+        },
+        {
+            "hash": 125640860,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 127025671,
+            "original": "R4_GH",
+            "translated": "R4_GH",
+            "desc": ""
+        },
+        {
+            "hash": 129676394,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        },
+        {
+            "hash": 139524513,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 166628843,
+            "original": "R4_JA",
+            "translated": "R4_JA",
+            "desc": ""
+        },
+        {
+            "hash": 186884243,
+            "original": "~z~Keep on fatboy here, and I'll talk to him.",
+            "translated": "~z~你看住肥佬，我去会会他。",
+            "desc": ""
+        },
+        {
+            "hash": 190866024,
+            "original": "100010190",
+            "translated": "100010190",
+            "desc": ""
+        },
+        {
+            "hash": 215575687,
+            "original": "~z~Believed I owed him money when I did not.",
+            "translated": "~z~我明明没欠他钱，他偏说我欠了。",
+            "desc": ""
+        },
+        {
+            "hash": 246272245,
+            "original": "100010100100010100010100010010100010",
+            "translated": "100010100100010100010100010010100010",
+            "desc": ""
+        },
+        {
+            "hash": 285987361,
+            "original": "R4_SA",
+            "translated": "R4_SA",
+            "desc": ""
+        },
+        {
+            "hash": 288558227,
+            "original": "100100100100100100100010",
+            "translated": "100100100100100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 302506893,
+            "original": "~z~We shall see. I have reasons to remember it.",
+            "translated": "~z~走着瞧吧。我还有记住它的理由。",
+            "desc": ""
+        },
+        {
+            "hash": 317183237,
+            "original": "040",
+            "translated": "040",
+            "desc": ""
+        },
+        {
+            "hash": 325122378,
+            "original": "~z~Nice one, cousin. Drive back to the depot, these bruises are starting to pain.",
+            "translated": "~z~干得好，堂弟。开车回车行吧，这些淤青已经开始疼了。",
+            "desc": ""
+        },
+        {
+            "hash": 349351902,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 356068912,
+            "original": "~z~Motherfucker!",
+            "translated": "~z~操你妈的！",
+            "desc": ""
+        },
+        {
+            "hash": 381355762,
+            "original": "~z~Speaking of shitheads, here's Dardan.",
+            "translated": "~z~说猪头猪头到，Dardan来了。",
+            "desc": ""
+        },
+        {
+            "hash": 386938996,
+            "original": "~z~Listen, Dardan is a good friend of mine.",
+            "translated": "~z~听我说，Dardan是我的好哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 393961273,
+            "original": "R4_GF",
+            "translated": "R4_GF",
+            "desc": ""
+        },
+        {
+            "hash": 452501145,
+            "original": "R4_A_FA",
+            "translated": "R4_A_FA",
+            "desc": ""
+        },
+        {
+            "hash": 480953257,
+            "original": "~z~Hey!",
+            "translated": "~z~喂！",
+            "desc": ""
+        },
+        {
+            "hash": 495963754,
+            "original": "R4_GB",
+            "translated": "R4_GB",
+            "desc": ""
+        },
+        {
+            "hash": 500278282,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 539235782,
+            "original": "~z~It doesn't matter.",
+            "translated": "~z~没什么。",
+            "desc": ""
+        },
+        {
+            "hash": 560098934,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 561651315,
+            "original": "~z~Shit, Niko. Bledar has me trapped again. This is all your fault.",
+            "translated": "~z~操，Niko。Bledar又逮着我了。都怪你。",
+            "desc": ""
+        },
+        {
+            "hash": 579663304,
+            "original": "R4_UG",
+            "translated": "R4_UG",
+            "desc": ""
+        },
+        {
+            "hash": 629056633,
+            "original": "~z~If one more of these gangsters tries to...",
+            "translated": "~z~要是再有这种恶霸来...",
+            "desc": ""
+        },
+        {
+            "hash": 634418732,
+            "original": "~z~See you later, cousin.",
+            "translated": "~z~回头见，堂弟。",
+            "desc": ""
+        },
+        {
+            "hash": 688502294,
+            "original": "R4_A_EA",
+            "translated": "R4_A_EA",
+            "desc": ""
+        },
+        {
+            "hash": 728610929,
+            "original": "R4_UD",
+            "translated": "R4_UD",
+            "desc": ""
+        },
+        {
+            "hash": 741248959,
+            "original": "R4_UI",
+            "translated": "R4_UI",
+            "desc": ""
+        },
+        {
+            "hash": 760922300,
+            "original": "~z~Catch up to him, cousin, he's getting away.",
+            "translated": "~z~追上去，堂弟，他要跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 762168163,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 765985339,
+            "original": "R4_TC",
+            "translated": "R4_TC",
+            "desc": ""
+        },
+        {
+            "hash": 767059396,
+            "original": "~z~It was a misunderstanding... oh!",
+            "translated": "~z~都是误会...噢！",
+            "desc": ""
+        },
+        {
+            "hash": 780484171,
+            "original": "~z~If I wasn't a pacifist I'd stick it to you too.",
+            "translated": "~z~要不是因为我是和平主义者，我早就把你暴打一顿了。",
+            "desc": ""
+        },
+        {
+            "hash": 800895493,
+            "original": "~z~A man in Europe, another Russian... Bulgarin. He live on the Adriatic.",
+            "translated": "~z~一个欧洲人，也是俄罗斯的...Bulgarin。他住在亚得里亚海那边。",
+            "desc": ""
+        },
+        {
+            "hash": 801008072,
+            "original": "~z~I told you to stop. Now it's too late.",
+            "translated": "~z~我早就让你们停手了，现在已经迟了。",
+            "desc": ""
+        },
+        {
+            "hash": 836480912,
+            "original": "~z~You're not going to beat me down, fool.",
+            "translated": "~z~你不可能把我打趴下的，蠢蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 838812991,
+            "original": "~z~There's what I owe plus interest.",
+            "translated": "~z~连本带利都在这儿了。",
+            "desc": ""
+        },
+        {
+            "hash": 869403362,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 913135950,
+            "original": "R4_RA",
+            "translated": "R4_RA",
+            "desc": ""
+        },
+        {
+            "hash": 950904832,
+            "original": "R4_HC",
+            "translated": "R4_HC",
+            "desc": ""
+        },
+        {
+            "hash": 973119775,
+            "original": "R4_ZA",
+            "translated": "R4_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 993578989,
+            "original": "~z~Yeah, fine. Fucking loan sharks, man.",
+            "translated": "~z~还行吧。操蛋的高利贷，老弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1042922772,
+            "original": "~z~Come on guys, let's be reasonable.",
+            "translated": "~z~拜托了各位，有话好好说。",
+            "desc": ""
+        },
+        {
+            "hash": 1055220689,
+            "original": "~z~Don't let him get away, Niko, they are like locusts. A plague of them will come back.",
+            "translated": "~z~别让他跑了，Niko，他们就像蝗虫一样。还会卷土重来的。",
+            "desc": ""
+        },
+        {
+            "hash": 1076289934,
+            "original": "~z~Not so tough no more, are you?",
+            "translated": "~z~这下硬气不起来了吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1076355245,
+            "original": "R4_TH",
+            "translated": "R4_TH",
+            "desc": ""
+        },
+        {
+            "hash": 1093467608,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 1108647182,
+            "original": "100100100100100100100100",
+            "translated": "100100100100100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 1131513933,
+            "original": "~z~You broke my arm already, man.",
+            "translated": "~z~你已经把我的手给打断了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1158921705,
+            "original": "R4_UF",
+            "translated": "R4_UF",
+            "desc": ""
+        },
+        {
+            "hash": 1184117254,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 1188084684,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 1225842822,
+            "original": "~z~Mark the words that are coming out of my mouth.",
+            "translated": "~z~记住我说的这些话吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1231299886,
+            "original": "R4_GC",
+            "translated": "R4_GC",
+            "desc": ""
+        },
+        {
+            "hash": 1315022979,
+            "original": "R4_A_JA",
+            "translated": "R4_A_JA",
+            "desc": ""
+        },
+        {
+            "hash": 1334508180,
+            "original": "~z~Okay, Roman. I'm not going to let something else get in the way this time. Where are you?",
+            "translated": "~z~好了，Roman。这次我没别的事了。你人在哪？",
+            "desc": ""
+        },
+        {
+            "hash": 1346583108,
+            "original": "R4_AD",
+            "translated": "R4_AD",
+            "desc": ""
+        },
+        {
+            "hash": 1365900435,
+            "original": "R4_VA",
+            "translated": "R4_VA",
+            "desc": ""
+        },
+        {
+            "hash": 1405043532,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1428414021,
+            "original": "R4_GG",
+            "translated": "R4_GG",
+            "desc": ""
+        },
+        {
+            "hash": 1430531058,
+            "original": "~z~Stay the fuck away from me.",
+            "translated": "~z~你他妈离我远点。",
+            "desc": ""
+        },
+        {
+            "hash": 1432722382,
+            "original": "~z~You better not try to get up, fatty",
+            "translated": "~z~别想爬起来了，胖子。",
+            "desc": ""
+        },
+        {
+            "hash": 1435896948,
+            "original": "~z~That is what we think of your debts.",
+            "translated": "~z~我们就是这么看待你的债的。",
+            "desc": ""
+        },
+        {
+            "hash": 1436348135,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 1452352318,
+            "original": "R4_A_GB",
+            "translated": "R4_A_GB",
+            "desc": ""
+        },
+        {
+            "hash": 1516077859,
+            "original": "~z~We going to own this town, Niko.",
+            "translated": "~z~自由城将是我们的，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1526953347,
+            "original": "~z~What about Mallorie, Roman? You shouldn't stay with her if you want to have these threesomes.",
+            "translated": "~z~那Mallorie怎么办，Roman？你还想乱搞的话可不能和她一起。",
+            "desc": ""
+        },
+        {
+            "hash": 1538208399,
+            "original": "~z~Dardan ain't a problem for you no more, cousin.",
+            "translated": "~z~Dardan再也不会来找你麻烦了，堂兄。",
+            "desc": ""
+        },
+        {
+            "hash": 1561194330,
+            "original": "~z~There's what we owe you, Dardan. Nothing else.",
+            "translated": "~z~欠你的都还上了，Dardan。没别的了。",
+            "desc": ""
+        },
+        {
+            "hash": 1618248365,
+            "original": "R4_HD_QQQ1",
+            "translated": "R4_HD_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 1640695426,
+            "original": "R4_HD",
+            "translated": "R4_HD",
+            "desc": ""
+        },
+        {
+            "hash": 1686181086,
+            "original": "~z~This beating is for Dardan.",
+            "translated": "~z~这下是替Dardan打的。",
+            "desc": ""
+        },
+        {
+            "hash": 1690239064,
+            "original": "~z~We will see if things are that simple.",
+            "translated": "~z~要是能这么简单就好了。",
+            "desc": ""
+        },
+        {
+            "hash": 1714866173,
+            "original": "R4_A_GC",
+            "translated": "R4_A_GC",
+            "desc": ""
+        },
+        {
+            "hash": 1716653080,
+            "original": "~z~Will you drive me back to the office, cousin? Argh.",
+            "translated": "~z~你能送我回车行吗，堂弟？啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1730690899,
+            "original": "~z~You're not going anywhere.",
+            "translated": "~z~你哪儿都别想去。",
+            "desc": ""
+        },
+        {
+            "hash": 1731588406,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        },
+        {
+            "hash": 1742356663,
+            "original": "~z~Stay down, fat man.",
+            "translated": "~z~别起来，肥仔。",
+            "desc": ""
+        },
+        {
+            "hash": 1765324119,
+            "original": "~z~He'll come back and trash our place if he gets away, get him, cousin.",
+            "translated": "~z~他要是跑了还不得把我们的店给砸了，追上去，堂弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1766340754,
+            "original": "~z~Put your foot down, cousin, catch him.",
+            "translated": "~z~脚踩下去，堂弟，跟住他。",
+            "desc": ""
+        },
+        {
+            "hash": 1782321905,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 1799624196,
+            "original": "~z~It doesn't matter. Argh, I think I'm in too much pain anyway. Fuck.",
+            "translated": "~z~没关系的。啊，我想我还是太疼了点。操。",
+            "desc": ""
+        },
+        {
+            "hash": 1843198893,
+            "original": "~z~Back off.",
+            "translated": "~z~退后。",
+            "desc": ""
+        },
+        {
+            "hash": 1865935524,
+            "original": "~z~Niko, come help me... quickly.",
+            "translated": "~z~Niko，来救我...快。",
+            "desc": ""
+        },
+        {
+            "hash": 1897250979,
+            "original": "490",
+            "translated": "490",
+            "desc": ""
+        },
+        {
+            "hash": 1897472422,
+            "original": "~z~What is it?",
+            "translated": "~z~怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 1922673456,
+            "original": "R4_AB",
+            "translated": "R4_AB",
+            "desc": ""
+        },
+        {
+            "hash": 1929428856,
+            "original": "~z~You alright, cousin?",
+            "translated": "~z~你没事吧，堂兄？",
+            "desc": ""
+        },
+        {
+            "hash": 1956462715,
+            "original": "R4_A_BA",
+            "translated": "R4_A_BA",
+            "desc": ""
+        },
+        {
+            "hash": 1968027792,
+            "original": "R4_AA",
+            "translated": "R4_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1985896844,
+            "original": "R4_OA",
+            "translated": "R4_OA",
+            "desc": ""
+        },
+        {
+            "hash": 1992374622,
+            "original": "~z~Screw you, asshole.",
+            "translated": "~z~去你妈的，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 1996334293,
+            "original": "~z~It is all plain sailing straight to the top for you and me.",
+            "translated": "~z~现在我们可以平步青云直达塔尖了。",
+            "desc": ""
+        },
+        {
+            "hash": 2037308164,
+            "original": "R4_YA",
+            "translated": "R4_YA",
+            "desc": ""
+        },
+        {
+            "hash": 2038813537,
+            "original": "~z~I'm on my way, Roman.",
+            "translated": "~z~我来了，Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 2051879590,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2076143792,
+            "original": "~z~Stay the fuck away from me.",
+            "translated": "~z~你他妈离我远点。",
+            "desc": ""
+        },
+        {
+            "hash": 2095210185,
+            "original": "R4_UC",
+            "translated": "R4_UC",
+            "desc": ""
+        },
+        {
+            "hash": 2113755000,
+            "original": "~z~Over on the courts under the El Train on Firefly. Bledar, buddy, you proved your point the first time...",
+            "translated": "~z~我在Firefly的轻轨下面的球场。Bledar，哥们，第一次的时候你已经证明你的态度了...",
+            "desc": ""
+        },
+        {
+            "hash": 2129600434,
+            "original": "~z~We're coming for you, Dardan.",
+            "translated": "~z~我们来追你了，Dardan。",
+            "desc": ""
+        },
+        {
+            "hash": 2139791112,
+            "original": "~z~Motherfucker.",
+            "translated": "~z~操你妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 2147955439,
+            "original": "R4_A_ZA",
+            "translated": "R4_A_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 2177101360,
+            "original": "~z~Shit, Dardan has got away. Motherfuck!",
+            "translated": "~z~操，Dardan跑了。操他妈的！",
+            "desc": ""
+        },
+        {
+            "hash": 2192083478,
+            "original": "~z~Hey, that's a nice view.",
+            "translated": "~z~嘿，这想法不错。",
+            "desc": ""
+        },
+        {
+            "hash": 2199147012,
+            "original": "~z~I do not go down so easy.",
+            "translated": "~z~我不会轻易倒下。",
+            "desc": ""
+        },
+        {
+            "hash": 2208849101,
+            "original": "~z~I saw bad things happen there. You do not know what it is that...",
+            "translated": "~z~我在故国目睹了坏事发生。你不知道那件事的...",
+            "desc": ""
+        },
+        {
+            "hash": 2217199555,
+            "original": "~z~I think he broke my rib. Man that hurts. Shit. I need a massage.",
+            "translated": "~z~他好像打断了我的肋骨。可真痛啊。操。我要去做个按摩。",
+            "desc": ""
+        },
+        {
+            "hash": 2225593375,
+            "original": "R4_TD",
+            "translated": "R4_TD",
+            "desc": ""
+        },
+        {
+            "hash": 2249450224,
+            "original": "R4_IA",
+            "translated": "R4_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2257931430,
+            "original": "~z~You really are American. You don't even swear in our language.",
+            "translated": "~z~你真的是个美国人了，连爆粗都不说家乡话。",
+            "desc": ""
+        },
+        {
+            "hash": 2351807023,
+            "original": "~z~You better run fast.",
+            "translated": "~z~你最好逃得快点。",
+            "desc": ""
+        },
+        {
+            "hash": 2375877564,
+            "original": "R4_QA",
+            "translated": "R4_QA",
+            "desc": ""
+        },
+        {
+            "hash": 2431316029,
+            "original": "~z~Liberty City won't know what hit it, man.",
+            "translated": "~z~自由城还不知道自己会发生什么，老弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2433547156,
+            "original": "~z~Hey Dardan, you missed your party.",
+            "translated": "~z~嘿！Dardan，你错过了你的派对。",
+            "desc": ""
+        },
+        {
+            "hash": 2447505728,
+            "original": "~z~Urghgh... I think it must be two ribs. Those fucking punks. What were you saying?",
+            "translated": "~z~呃啊...大概断了两根肋骨，这群狗娘养的。你刚才说啥？",
+            "desc": ""
+        },
+        {
+            "hash": 2455040133,
+            "original": "~z~Dardan is my brother.",
+            "translated": "~z~Dardan是我兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2455422120,
+            "original": "~z~Screw you.",
+            "translated": "~z~去你大爷。",
+            "desc": ""
+        },
+        {
+            "hash": 2456715228,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2458999174,
+            "original": "R4_HA",
+            "translated": "R4_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2463089195,
+            "original": "R4_GD",
+            "translated": "R4_GD",
+            "desc": ""
+        },
+        {
+            "hash": 2475658528,
+            "original": "~z~Don't let him shake you.",
+            "translated": "~z~别被他甩了。",
+            "desc": ""
+        },
+        {
+            "hash": 2486117629,
+            "original": "~z~Ahhhhhhhh!",
+            "translated": "~z~啊啊啊啊！",
+            "desc": ""
+        },
+        {
+            "hash": 2486755571,
+            "original": "R4_UJ",
+            "translated": "R4_UJ",
+            "desc": ""
+        },
+        {
+            "hash": 2495644438,
+            "original": "~z~Go after him, finish him off. I would do it but I'm hurt, you know? Urgh.",
+            "translated": "~z~追上去，做掉他。要不是我受伤了我就自己上了。呃啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2497339554,
+            "original": "R4_TA",
+            "translated": "R4_TA",
+            "desc": ""
+        },
+        {
+            "hash": 2538401301,
+            "original": "~z~You say this now, but soon even you will forget about the Old Country.",
+            "translated": "~z~现在你还能说说，以后你也会忘了故国的事的。",
+            "desc": ""
+        },
+        {
+            "hash": 2550631770,
+            "original": "~z~Fucking Dardan smashing my fucking stuff. Who does he think he is?",
+            "translated": "~z~傻逼Dardan他妈乱搞老子东西。他当自己是老几啊？",
+            "desc": ""
+        },
+        {
+            "hash": 2559970927,
+            "original": "~z~For now, let's just try to survive, cousin.",
+            "translated": "~z~现在，我们还是想法子活命吧，堂兄。",
+            "desc": ""
+        },
+        {
+            "hash": 2566227759,
+            "original": "R4_UA",
+            "translated": "R4_UA",
+            "desc": ""
+        },
+        {
+            "hash": 2607940287,
+            "original": "~z~You are a bitch just like your cousin.",
+            "translated": "~z~你跟你哥一个屌样。",
+            "desc": ""
+        },
+        {
+            "hash": 2619883899,
+            "original": "R4_EA",
+            "translated": "R4_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2650012507,
+            "original": "~z~We should go out and find some ladies, get some massage oil.",
+            "translated": "~z~我们该出去找几个女人，弄两瓶按摩油。",
+            "desc": ""
+        },
+        {
+            "hash": 2658447474,
+            "original": "R4_FA",
+            "translated": "R4_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2678237757,
+            "original": "R4_KA",
+            "translated": "R4_KA",
+            "desc": ""
+        },
+        {
+            "hash": 2680703860,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2682457641,
+            "original": "~z~Me and you, Niko, me and you going to be in control from now on.",
+            "translated": "~z~我和你，Niko，现在马上就是我和你说了算了。",
+            "desc": ""
+        },
+        {
+            "hash": 2720344651,
+            "original": "~z~You can't let him lose you, Niko, drive.",
+            "translated": "~z~别让他把你甩了，Niko，开车。",
+            "desc": ""
+        },
+        {
+            "hash": 2744685976,
+            "original": "~z~to all these pimps and loan sharks from now on.",
+            "translated": "~z~我们就要反抗那些皮条客和高利贷了。",
+            "desc": ""
+        },
+        {
+            "hash": 2753620020,
+            "original": "~z~I won't take no shits.",
+            "translated": "~z~关我屁事。",
+            "desc": ""
+        },
+        {
+            "hash": 2766588105,
+            "original": "R4_PA",
+            "translated": "R4_PA",
+            "desc": ""
+        },
+        {
+            "hash": 2776916531,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2779410177,
+            "original": "~z~We got some of them, cousin. But not all. This is not a good thing.",
+            "translated": "~z~我们解决了一小部分人，但还不是全部。这可不是好事。",
+            "desc": ""
+        },
+        {
+            "hash": 2781227223,
+            "original": "~z~Just some fucking petty Albanian hood. If I wanted to buy a stolen TV I'd go to Dardan.",
+            "translated": "~z~不就是个阿尔巴尼亚土鳖么。想买偷来的电视，找Dardan就对了。",
+            "desc": ""
+        },
+        {
+            "hash": 2793906149,
+            "original": "~z~And to see your cousin, of course.",
+            "translated": "~z~当然还是为了来看你的堂兄。",
+            "desc": ""
+        },
+        {
+            "hash": 2814485081,
+            "original": "~z~Of course.",
+            "translated": "~z~当然。",
+            "desc": ""
+        },
+        {
+            "hash": 2816513356,
+            "original": "~z~Thank you, cousin, I'll see you later.",
+            "translated": "~z~谢谢你，堂弟，待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 2818018708,
+            "original": "R4_UK",
+            "translated": "R4_UK",
+            "desc": ""
+        },
+        {
+            "hash": 2828758079,
+            "original": "R4_XA",
+            "translated": "R4_XA",
+            "desc": ""
+        },
+        {
+            "hash": 2845694244,
+            "original": "R4_A_IA",
+            "translated": "R4_A_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2861572995,
+            "original": "~z~Vlad, Dardan, Bledar, even Mallorie push me around.",
+            "translated": "~z~Vlad、Dardan、Bledar，就连Mallorie都使唤我。",
+            "desc": ""
+        },
+        {
+            "hash": 2873668205,
+            "original": "R4_TL",
+            "translated": "R4_TL",
+            "desc": ""
+        },
+        {
+            "hash": 2911151844,
+            "original": "~z~I will beat you like I beat your cousin.",
+            "translated": "~z~我会像打你堂兄那样打你。",
+            "desc": ""
+        },
+        {
+            "hash": 2923866868,
+            "original": "~z~Ain't going to let no one push us around. Going to stand up",
+            "translated": "~z~从今往后我们不会再对任何人低声下气了。",
+            "desc": ""
+        },
+        {
+            "hash": 2950709886,
+            "original": "R4_EC",
+            "translated": "R4_EC",
+            "desc": ""
+        },
+        {
+            "hash": 2951855335,
+            "original": "R4_TE",
+            "translated": "R4_TE",
+            "desc": ""
+        },
+        {
+            "hash": 2953069890,
+            "original": "R4_EB",
+            "translated": "R4_EB",
+            "desc": ""
+        },
+        {
+            "hash": 2966575631,
+            "original": "~z~Dardan's left his car, he trying to get away on foot.",
+            "translated": "~z~Dardan下车了，他打算徒步逃跑。",
+            "desc": ""
+        },
+        {
+            "hash": 2968471519,
+            "original": "~z~If Dardan gets away, man... come on.",
+            "translated": "~z~要是Dardan跑了，天...拜托了。",
+            "desc": ""
+        },
+        {
+            "hash": 2980046801,
+            "original": "100010100100",
+            "translated": "100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2984198401,
+            "original": "~z~Who does he think he's fucking with? Bellic Enterprises, that's who.",
+            "translated": "~z~也不想想自己他妈在招惹谁？惹上Bellic集团了。",
+            "desc": ""
+        },
+        {
+            "hash": 3000503105,
+            "original": "R4_TB",
+            "translated": "R4_TB",
+            "desc": ""
+        },
+        {
+            "hash": 3016335039,
+            "original": "R4_LA",
+            "translated": "R4_LA",
+            "desc": ""
+        },
+        {
+            "hash": 3071970855,
+            "original": "~z~Piece of crap.",
+            "translated": "~z~你个废物。",
+            "desc": ""
+        },
+        {
+            "hash": 3097906200,
+            "original": "R4_TG",
+            "translated": "R4_TG",
+            "desc": ""
+        },
+        {
+            "hash": 3115112261,
+            "original": "R4_UB",
+            "translated": "R4_UB",
+            "desc": ""
+        },
+        {
+            "hash": 3120094251,
+            "original": "R4_A_HA",
+            "translated": "R4_A_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3129744361,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3163146102,
+            "original": "~z~Ever since I get to Hove Beach, Niko, ever since I arrive here I have been pushed around.",
+            "translated": "~z~自打我到了Hove Beach，Niko，自打我到这儿，我都是任人摆布。",
+            "desc": ""
+        },
+        {
+            "hash": 3194870310,
+            "original": "~z~They think they can fuck me around and beat me up because there are more of them. Not any longer.",
+            "translated": "~z~他们以为仗着人多就能打我、欺负我。这样的日子过去了。",
+            "desc": ""
+        },
+        {
+            "hash": 3231361982,
+            "original": "~z~Screw money I owe the Albanians, paying for the cab will be a lot harder.",
+            "translated": "~z~算上欠阿尔巴尼亚人的那些钱，我连新车都买不起了。",
+            "desc": ""
+        },
+        {
+            "hash": 3257852328,
+            "original": "~z~Me and you, Niko, me and you are going to show them.",
+            "translated": "~z~我和你，Niko，咱们一起让他们长长见识。",
+            "desc": ""
+        },
+        {
+            "hash": 3261487010,
+            "original": "~z~Did you deal with him like you did Dardan and Bledar?",
+            "translated": "~z~你是像对待Dardan和Bledar那样解决了他吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3308144811,
+            "original": "R4_HF",
+            "translated": "R4_HF",
+            "desc": ""
+        },
+        {
+            "hash": 3354032394,
+            "original": "R4_TI",
+            "translated": "R4_TI",
+            "desc": ""
+        },
+        {
+            "hash": 3357896077,
+            "original": "~z~We're going to the top, Niko, the top.",
+            "translated": "~z~我们会登上顶峰的，Niko，顶峰。",
+            "desc": ""
+        },
+        {
+            "hash": 3358547001,
+            "original": "~z~~c~Fuck you, bitch fuck.",
+            "translated": "~z~~c~操你妈，狗娘养的。",
+            "desc": ""
+        },
+        {
+            "hash": 3373076706,
+            "original": "~z~You drive. I don't feel so good.",
+            "translated": "~z~你来开车。我有点不舒服。",
+            "desc": ""
+        },
+        {
+            "hash": 3392633544,
+            "original": "R4_EB_QQQ1",
+            "translated": "R4_EB_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 3446996723,
+            "original": "R4_ED",
+            "translated": "R4_ED",
+            "desc": ""
+        },
+        {
+            "hash": 3462624946,
+            "original": "R4_TF",
+            "translated": "R4_TF",
+            "desc": ""
+        },
+        {
+            "hash": 3477984836,
+            "original": "R4_UL",
+            "translated": "R4_UL",
+            "desc": ""
+        },
+        {
+            "hash": 3479978929,
+            "original": "R4_A_DA",
+            "translated": "R4_A_DA",
+            "desc": ""
+        },
+        {
+            "hash": 3506549750,
+            "original": "R4_DA",
+            "translated": "R4_DA",
+            "desc": ""
+        },
+        {
+            "hash": 3528284399,
+            "original": "~z~I promised myself I wouldn't kill people here.",
+            "translated": "~z~我保证过在这里不杀人的。",
+            "desc": ""
+        },
+        {
+            "hash": 3528612733,
+            "original": "~z~We will have no more problems from now on, cousin.",
+            "translated": "~z~从今以后我们不会有麻烦了，堂弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3529322251,
+            "original": "~z~Shit, there he is.",
+            "translated": "~z~操，他来了。",
+            "desc": ""
+        },
+        {
+            "hash": 3545622845,
+            "original": "100010010010010100010100010100100010",
+            "translated": "100010010010010100010100010100100010",
+            "desc": ""
+        },
+        {
+            "hash": 3560274752,
+            "original": "~z~He had too many connections for that. I had to leave. He is one of the reasons I came here.",
+            "translated": "~z~他的人脉太广了，我只能离开。也是我来这儿的原因之一。",
+            "desc": ""
+        },
+        {
+            "hash": 3571890701,
+            "original": "R4_GA",
+            "translated": "R4_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3613548628,
+            "original": "R4_UH",
+            "translated": "R4_UH",
+            "desc": ""
+        },
+        {
+            "hash": 3629534815,
+            "original": "R4_GE",
+            "translated": "R4_GE",
+            "desc": ""
+        },
+        {
+            "hash": 3661405022,
+            "original": "R4_TK",
+            "translated": "R4_TK",
+            "desc": ""
+        },
+        {
+            "hash": 3662063421,
+            "original": "R4_FB",
+            "translated": "R4_FB",
+            "desc": ""
+        },
+        {
+            "hash": 3662394207,
+            "original": "~z~Come on, my car is over there, let's get him.",
+            "translated": "~z~来吧，我的车就停在那边，一起去追他。",
+            "desc": ""
+        },
+        {
+            "hash": 3708909393,
+            "original": "R4_HG",
+            "translated": "R4_HG",
+            "desc": ""
+        },
+        {
+            "hash": 3715820077,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3727319671,
+            "original": "R4_WA",
+            "translated": "R4_WA",
+            "desc": ""
+        },
+        {
+            "hash": 3738149374,
+            "original": "011",
+            "translated": "011",
+            "desc": ""
+        },
+        {
+            "hash": 3817197146,
+            "original": "R4_MB",
+            "translated": "R4_MB",
+            "desc": ""
+        },
+        {
+            "hash": 3818424359,
+            "original": "~z~Niko, Bledar has me cornered in the courts under the El Train on Firefly.",
+            "translated": "~z~Niko，我被Bledar逼到球场的墙角了，~n~在Firefly的轻轨下面。",
+            "desc": ""
+        },
+        {
+            "hash": 3848983372,
+            "original": "R4_MA",
+            "translated": "R4_MA",
+            "desc": ""
+        },
+        {
+            "hash": 3913988253,
+            "original": "~z~You forgotten how to drive, cousin? He's losing us.",
+            "translated": "~z~你连车都不会开了，堂弟？他要甩掉我们了。",
+            "desc": ""
+        },
+        {
+            "hash": 3921958132,
+            "original": "~z~Your cousin owes us money, shithead.",
+            "translated": "~z~你堂兄还欠我们钱呢，猪头。",
+            "desc": ""
+        },
+        {
+            "hash": 3937967268,
+            "original": "R4_AC",
+            "translated": "R4_AC",
+            "desc": ""
+        },
+        {
+            "hash": 3941555816,
+            "original": "R4_NA",
+            "translated": "R4_NA",
+            "desc": ""
+        },
+        {
+            "hash": 3942957012,
+            "original": "~z~My cab, Niko. The cab is fucked.",
+            "translated": "~z~我的车，Niko。我的车爆了。",
+            "desc": ""
+        },
+        {
+            "hash": 3950808767,
+            "original": "R4_HB",
+            "translated": "R4_HB",
+            "desc": ""
+        },
+        {
+            "hash": 3953723038,
+            "original": "R4_A_AB",
+            "translated": "R4_A_AB",
+            "desc": ""
+        },
+        {
+            "hash": 3985070695,
+            "original": "~z~Dardan is stopping, he trying to get away on foot.",
+            "translated": "~z~Dardan停车了，他想要徒步逃跑。",
+            "desc": ""
+        },
+        {
+            "hash": 3989486581,
+            "original": "~z~Niko, get here quickly. This is getting out of hand.",
+            "translated": "~z~Niko，快来。情况已经失控了。",
+            "desc": ""
+        },
+        {
+            "hash": 3993174490,
+            "original": "R4_A_AA",
+            "translated": "R4_A_AA",
+            "desc": ""
+        },
+        {
+            "hash": 4001086017,
+            "original": "~z~These guys think that they're better than me.",
+            "translated": "~z~这群人觉得他们比我强。",
+            "desc": ""
+        },
+        {
+            "hash": 4018745831,
+            "original": "~z~He made my life impossible. There was no avoiding him.",
+            "translated": "~z~他搞得我日子过不下去，根本躲不过他。",
+            "desc": ""
+        },
+        {
+            "hash": 4031928854,
+            "original": "R4_A_GA",
+            "translated": "R4_A_GA",
+            "desc": ""
+        },
+        {
+            "hash": 4052634393,
+            "original": "R4_TJ",
+            "translated": "R4_TJ",
+            "desc": ""
+        },
+        {
+            "hash": 4061111573,
+            "original": "~z~What does he want?",
+            "translated": "~z~他想怎么样？",
+            "desc": ""
+        },
+        {
+            "hash": 4063356354,
+            "original": "010100100102142",
+            "translated": "010100100102142",
+            "desc": ""
+        },
+        {
+            "hash": 4072712867,
+            "original": "R4_HE",
+            "translated": "R4_HE",
+            "desc": ""
+        },
+        {
+            "hash": 4132835219,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4144026633,
+            "original": "~z~He's driving better than you with one arm. Come on, Niko.",
+            "translated": "~z~他单手开的都比你好。给点力啊，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 4150128679,
+            "original": "~z~Motherfucker, stay away.",
+            "translated": "~z~操你妈的，离我远点。",
+            "desc": ""
+        },
+        {
+            "hash": 4170520155,
+            "original": "R4_A_CA",
+            "translated": "R4_A_CA",
+            "desc": ""
+        },
+        {
+            "hash": 4211070785,
+            "original": "~z~You shouldn't have messed with the Bellics.",
+            "translated": "~z~你们就不该惹上Bellic兄弟的。",
+            "desc": ""
+        },
+        {
+            "hash": 4259762190,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        }
+    ]
+}

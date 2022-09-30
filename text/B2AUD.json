@@ -1,0 +1,1900 @@
+{
+    "B2AUD": [
+        {
+            "hash": 1649968,
+            "original": "B2_PA",
+            "translated": "B2_PA",
+            "desc": ""
+        },
+        {
+            "hash": 32478809,
+            "original": "~z~We get caught and everyone will be coming after us.",
+            "translated": "~z~一旦被抓，所有人都会盯上我们。",
+            "desc": ""
+        },
+        {
+            "hash": 32684836,
+            "original": "~z~Looks like we're gonna have to do this the old fashioned way. Get these commies, Niko.",
+            "translated": "~z~看起来我们只好走老路了。干掉这群共党，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 43509484,
+            "original": "B2_GE",
+            "translated": "B2_GE",
+            "desc": ""
+        },
+        {
+            "hash": 63856731,
+            "original": "~z~That truck was part of the plan. You start cutting corners and you get sloppy. See you round.",
+            "translated": "~z~那辆卡车是计划的一部分。欲速则不达啊。回头见。",
+            "desc": ""
+        },
+        {
+            "hash": 67003422,
+            "original": "~z~Where's the trust, Phil?",
+            "translated": "~z~你的信任呢，Phil？",
+            "desc": ""
+        },
+        {
+            "hash": 76339730,
+            "original": "~z~Shit, if anyone does start listening to Ray's shit then I could be in some trouble.",
+            "translated": "~z~妈的，要是真有人信Ray说的那套，我就会有麻烦了。",
+            "desc": ""
+        },
+        {
+            "hash": 84741838,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 93312877,
+            "original": "~z~Phil! Phil!",
+            "translated": "~z~Phil！Phil！",
+            "desc": ""
+        },
+        {
+            "hash": 96659946,
+            "original": "B2_GF",
+            "translated": "B2_GF",
+            "desc": ""
+        },
+        {
+            "hash": 133623065,
+            "original": "B2_DL",
+            "translated": "B2_DL",
+            "desc": ""
+        },
+        {
+            "hash": 188432647,
+            "original": "B2_GK",
+            "translated": "B2_GK",
+            "desc": ""
+        },
+        {
+            "hash": 197523328,
+            "original": "~z~This is it, keep a cool head and everything should be fine.",
+            "translated": "~z~就这里，头脑不要发热，应该就没问题。",
+            "desc": ""
+        },
+        {
+            "hash": 211822024,
+            "original": "~z~Hey, buddy, we're here to pick up the shipment.",
+            "translated": "~z~嘿，哥们，我们是来装货的。",
+            "desc": ""
+        },
+        {
+            "hash": 224898377,
+            "original": "~z~I'm paranoid because we especially don't wanna get caught on this one.",
+            "translated": "~z~我是有点多疑，因为这次我们绝对不能被抓。",
+            "desc": ""
+        },
+        {
+            "hash": 245203617,
+            "original": "B2_BA",
+            "translated": "B2_BA",
+            "desc": ""
+        },
+        {
+            "hash": 267845490,
+            "original": "B2_GG",
+            "translated": "B2_GG",
+            "desc": ""
+        },
+        {
+            "hash": 272790777,
+            "original": "~z~His moves might be easy for you to see, but maybe they're working.",
+            "translated": "~z~他的举动可能是很容易被你看穿，但说不定确实管用。",
+            "desc": ""
+        },
+        {
+            "hash": 284168575,
+            "original": "~z~Go back to fucking Moscow.",
+            "translated": "~z~回你妈的莫斯科吧。",
+            "desc": ""
+        },
+        {
+            "hash": 297268328,
+            "original": "~z~I'm hoping that day don't come.",
+            "translated": "~z~希望那天永远不会到来。",
+            "desc": ""
+        },
+        {
+            "hash": 301620035,
+            "original": "~z~See you later.",
+            "translated": "~z~以后再见。",
+            "desc": ""
+        },
+        {
+            "hash": 307293595,
+            "original": "~z~No. I do some work for him.",
+            "translated": "~z~不。替他干活而已。",
+            "desc": ""
+        },
+        {
+            "hash": 310961810,
+            "original": "B2_GU",
+            "translated": "B2_GU",
+            "desc": ""
+        },
+        {
+            "hash": 328889218,
+            "original": "~z~That's pretty good.",
+            "translated": "~z~说得太对了。",
+            "desc": ""
+        },
+        {
+            "hash": 329168259,
+            "original": "B2_TA",
+            "translated": "B2_TA",
+            "desc": ""
+        },
+        {
+            "hash": 341540665,
+            "original": "~z~Tell him I went out to get some fresh air.",
+            "translated": "~z~跟他讲我出去呼吸新鲜空气去了。",
+            "desc": ""
+        },
+        {
+            "hash": 376505200,
+            "original": "~z~What?",
+            "translated": "~z~什么？",
+            "desc": ""
+        },
+        {
+            "hash": 382922806,
+            "original": "B2_FK",
+            "translated": "B2_FK",
+            "desc": ""
+        },
+        {
+            "hash": 393639495,
+            "original": "B2_DC",
+            "translated": "B2_DC",
+            "desc": ""
+        },
+        {
+            "hash": 404926753,
+            "original": "B2_CC",
+            "translated": "B2_CC",
+            "desc": ""
+        },
+        {
+            "hash": 407448314,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 437723686,
+            "original": "B2_GH",
+            "translated": "B2_GH",
+            "desc": ""
+        },
+        {
+            "hash": 441056854,
+            "original": "~z~Family's a way of saying we ain't gonna fuck each other... at least that's what it's meant to mean.",
+            "translated": "~z~家族只是说我们不会内斗而已...至少说起来是这样。",
+            "desc": ""
+        },
+        {
+            "hash": 448022442,
+            "original": "~z~The Feds'll throw away the key, the Russians and the Ancelottis'll know we was fucking them over.",
+            "translated": "~z~政府会判我们无期，俄国人和Ancelotti家族会知道是我们捣的鬼。",
+            "desc": ""
+        },
+        {
+            "hash": 451021360,
+            "original": "~z~He's got his eyes on my position, the skipper's too, I'm sure. Wanting it and getting are two different things though.",
+            "translated": "~z~他觊觎我的位置，还觊觎老大的位置，真的。想要跟得到是两码事。",
+            "desc": ""
+        },
+        {
+            "hash": 451632604,
+            "original": "~z~We're heading to the docks in North Holland. Move out.",
+            "translated": "~z~我们去North Holland的码头。出发。",
+            "desc": ""
+        },
+        {
+            "hash": 470385165,
+            "original": "~z~Hey man, this familiarity is getting to me. I'm a 'friend' of Ray's. I'm part of the 'family'.",
+            "translated": "~z~嘿，兄弟，这亲戚攀的就有点过分了啊。~n~说我是Ray的「朋友」，说我是「家族」的一份子。",
+            "desc": ""
+        },
+        {
+            "hash": 478215170,
+            "original": "~z~For the record, I did everything I was meant to do.",
+            "translated": "~z~本人声明，我分内的事我都做到了。",
+            "desc": ""
+        },
+        {
+            "hash": 485113352,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 523338160,
+            "original": "~z~Yo, Niko. On me.",
+            "translated": "~z~呦，Niko。掩护我。",
+            "desc": ""
+        },
+        {
+            "hash": 525309555,
+            "original": "B2_EA",
+            "translated": "B2_EA",
+            "desc": ""
+        },
+        {
+            "hash": 543869776,
+            "original": "~z~Hey Phil, that's got to be the last of them.",
+            "translated": "~z~嘿，Phil，那应该是最后一批了。",
+            "desc": ""
+        },
+        {
+            "hash": 546714578,
+            "original": "100010100100010100100100100100010010010100100100010010100100100100100010",
+            "translated": "100010100100010100100100100100010010010100100100010010100100100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 550968783,
+            "original": "~z~If someone who knew what I knew got flipped then the whole organization would go down.",
+            "translated": "~z~要是知道的跟我一样多的人反水了，整个组织都会倒掉。",
+            "desc": ""
+        },
+        {
+            "hash": 577608541,
+            "original": "~z~Hey Tommy, check this out...",
+            "translated": "~z~嘿，Tommy，看看这个...",
+            "desc": ""
+        },
+        {
+            "hash": 613454623,
+            "original": "B2_DA",
+            "translated": "B2_DA",
+            "desc": ""
+        },
+        {
+            "hash": 638213774,
+            "original": "~z~Taking a shipment of coke from some Russians before they can sell it to the Ancelottis.",
+            "translated": "~z~在俄国人把可卡因卖给Ancelotti家族前抢走这批货。",
+            "desc": ""
+        },
+        {
+            "hash": 638915875,
+            "original": "~z~Ridiculous.",
+            "translated": "~z~荒谬至极。",
+            "desc": ""
+        },
+        {
+            "hash": 655965649,
+            "original": "~z~You shoulda stayed out of this.",
+            "translated": "~z~你们不该碰这个的。",
+            "desc": ""
+        },
+        {
+            "hash": 666934348,
+            "original": "~z~It should be a lot of sugar, but that ain't the only reason why we're taking this truck.",
+            "translated": "~z~拉的应该是糖，不过开这辆车也不止这一个原因。",
+            "desc": ""
+        },
+        {
+            "hash": 676701997,
+            "original": "~z~-seven horse, seven race, Joe Shmoe.~n~-Hey Phil.",
+            "translated": "~z~－七号马，第七场，Joe Shmoe。~n~－嘿，Phil。",
+            "desc": ""
+        },
+        {
+            "hash": 704355477,
+            "original": "B2_DB",
+            "translated": "B2_DB",
+            "desc": ""
+        },
+        {
+            "hash": 717761566,
+            "original": "~z~Hey, pal... what's going on?",
+            "translated": "~z~嘿，老兄...你还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 719987823,
+            "original": "B2_DJ",
+            "translated": "B2_DJ",
+            "desc": ""
+        },
+        {
+            "hash": 720515619,
+            "original": "B2_DS",
+            "translated": "B2_DS",
+            "desc": ""
+        },
+        {
+            "hash": 721179630,
+            "original": "B2_KA",
+            "translated": "B2_KA",
+            "desc": ""
+        },
+        {
+            "hash": 765698478,
+            "original": "~z~Yeah, well, maybe you're right. Maybe you ain't. I dunno.",
+            "translated": "~z~行，好吧，你说的可能有理，也可能不对。我不知道。",
+            "desc": ""
+        },
+        {
+            "hash": 798932609,
+            "original": "B2_DT",
+            "translated": "B2_DT",
+            "desc": ""
+        },
+        {
+            "hash": 803560779,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 805007984,
+            "original": "~z~Keep your head, things ain't even started yet. What're we doing?",
+            "translated": "~z~保持冷静，都没开始办正事呢。待会儿怎么做？",
+            "desc": ""
+        },
+        {
+            "hash": 815980962,
+            "original": "~z~What's the problem?",
+            "translated": "~z~出什么事了？",
+            "desc": ""
+        },
+        {
+            "hash": 821634367,
+            "original": "~z~Cover me, Niko.",
+            "translated": "~z~掩护我，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 825388255,
+            "original": "~z~I think we got the cocaine to ourselves now, Phil.",
+            "translated": "~z~我想现在可卡因归我们了，Phil。",
+            "desc": ""
+        },
+        {
+            "hash": 832059292,
+            "original": "~z~Ray's a greedy rat. He wants this stuff more than anyone else, but that don't mean he's gonna get it.",
+            "translated": "~z~Ray是个贪婪的小人。他比谁都想得到这批货，但他未必就能得到。",
+            "desc": ""
+        },
+        {
+            "hash": 842003296,
+            "original": "B2_GR",
+            "translated": "B2_GR",
+            "desc": ""
+        },
+        {
+            "hash": 879931870,
+            "original": "~z~No problem.",
+            "translated": "~z~没问题。",
+            "desc": ""
+        },
+        {
+            "hash": 897300418,
+            "original": "~z~Why we need this truck? It must be a shit load of coke we're taking?",
+            "translated": "~z~要这辆卡车干嘛？我们肯定要拉一大堆可卡因吧？",
+            "desc": ""
+        },
+        {
+            "hash": 905535014,
+            "original": "B2_DX",
+            "translated": "B2_DX",
+            "desc": ""
+        },
+        {
+            "hash": 909298957,
+            "original": "B2_GD",
+            "translated": "B2_GD",
+            "desc": ""
+        },
+        {
+            "hash": 910147819,
+            "original": "~z~It's gonna take more than wanting it real bad. It's gonna take a clear head.",
+            "translated": "~z~光是想要还不够，还需要清醒的头脑。",
+            "desc": ""
+        },
+        {
+            "hash": 922708550,
+            "original": "B2_CE",
+            "translated": "B2_CE",
+            "desc": ""
+        },
+        {
+            "hash": 954970975,
+            "original": "B2_FJ",
+            "translated": "B2_FJ",
+            "desc": ""
+        },
+        {
+            "hash": 965659051,
+            "original": "~z~Not too much. How are you?",
+            "translated": "~z~就那样了。你好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 972643437,
+            "original": "B2_SA",
+            "translated": "B2_SA",
+            "desc": ""
+        },
+        {
+            "hash": 1021246121,
+            "original": "~z~We just got the heads up that a shipment has arrived in Liberty City by boat.",
+            "translated": "~z~我们刚收到消息，有批货用船运进了自由城。",
+            "desc": ""
+        },
+        {
+            "hash": 1048600772,
+            "original": "~z~That coke's lost. It's lost to us, man. Later.",
+            "translated": "~z~可卡因没了，被我们弄没了，兄弟。回见。",
+            "desc": ""
+        },
+        {
+            "hash": 1060001048,
+            "original": "~z~Ok listen. There's a truck waiting for us. It's under the overpass off Catskill Avenue, drive us there.",
+            "translated": "~z~听着。我们要去开一辆卡车，车在Catskill大道的高架下面，带我过去。",
+            "desc": ""
+        },
+        {
+            "hash": 1061369115,
+            "original": "B2_CX",
+            "translated": "B2_CX",
+            "desc": ""
+        },
+        {
+            "hash": 1120519615,
+            "original": "B2_GV",
+            "translated": "B2_GV",
+            "desc": ""
+        },
+        {
+            "hash": 1120834080,
+            "original": "~z~Shoot these commies.",
+            "translated": "~z~干死这些共匪。",
+            "desc": ""
+        },
+        {
+            "hash": 1142475585,
+            "original": "~z~You know something? I woulda liked Ray to be on this job instead of me. But there's some things that he ain't trusted with.",
+            "translated": "~z~你知道吗？这次的活我更想让Ray替我。不过他有他不被信任的原因。",
+            "desc": ""
+        },
+        {
+            "hash": 1147645912,
+            "original": "B2_WA",
+            "translated": "B2_WA",
+            "desc": ""
+        },
+        {
+            "hash": 1175260278,
+            "original": "~z~Ah shit, it's three days early, Madonna mia, what am I gonna do?",
+            "translated": "~z~啊，干！提前了三天，我的天哪，这我怎么办？",
+            "desc": ""
+        },
+        {
+            "hash": 1180668512,
+            "original": "B2_IB",
+            "translated": "B2_IB",
+            "desc": ""
+        },
+        {
+            "hash": 1195051181,
+            "original": "B2_CI",
+            "translated": "B2_CI",
+            "desc": ""
+        },
+        {
+            "hash": 1200096551,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1203886461,
+            "original": "~z~Hell, our own family might come after us for fear we'll turn state's.",
+            "translated": "~z~妈的，就连我们的家族都可能派人灭我们的口，以防背叛。",
+            "desc": ""
+        },
+        {
+            "hash": 1212158315,
+            "original": "~z~Since that little love affair ended, they been getting this Russian guy to supply them with C.",
+            "translated": "~z~那段感情结束后，他们就找这些俄国人进可卡因了。",
+            "desc": ""
+        },
+        {
+            "hash": 1228098333,
+            "original": "B2_FF",
+            "translated": "B2_FF",
+            "desc": ""
+        },
+        {
+            "hash": 1228657998,
+            "original": "~z~Whether you're putting yourself in harm's way because that's the way the Skipper wants it done,",
+            "translated": "~z~老大叫你当敢死队送死，你也只能照办。",
+            "desc": ""
+        },
+        {
+            "hash": 1250781574,
+            "original": "~z~Me neither. Maybe if we want it more than anyone else, we'll be able to hang onto it.",
+            "translated": "~z~我也不想。或许只要我们比谁都想得到它，就能弄到手。",
+            "desc": ""
+        },
+        {
+            "hash": 1262777246,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1277657021,
+            "original": "B2_DQ",
+            "translated": "B2_DQ",
+            "desc": ""
+        },
+        {
+            "hash": 1283059416,
+            "original": "B2_CP",
+            "translated": "B2_CP",
+            "desc": ""
+        },
+        {
+            "hash": 1287822205,
+            "original": "B2_FU",
+            "translated": "B2_FU",
+            "desc": ""
+        },
+        {
+            "hash": 1304572733,
+            "original": "B2_CZ",
+            "translated": "B2_CZ",
+            "desc": ""
+        },
+        {
+            "hash": 1357099432,
+            "original": "B2_IG",
+            "translated": "B2_IG",
+            "desc": ""
+        },
+        {
+            "hash": 1415310340,
+            "original": "~z~Watch my back.",
+            "translated": "~z~注意我身后。",
+            "desc": ""
+        },
+        {
+            "hash": 1469313538,
+            "original": "B2_FA",
+            "translated": "B2_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1473867182,
+            "original": "B2_FO",
+            "translated": "B2_FO",
+            "desc": ""
+        },
+        {
+            "hash": 1481260724,
+            "original": "~z~I'll take the one on the right, you get the one on the left. C'mon, move it, Niko!",
+            "translated": "~z~我开右边那艘，你开左边那艘。赶紧，走吧，Niko！",
+            "desc": ""
+        },
+        {
+            "hash": 1500361670,
+            "original": "~z~You was helping those Irish idiots cause some beef between the Ancellotis and their Albanian muscle a while back.",
+            "translated": "~z~之前你帮那些爱尔兰白痴破坏了Ancelotti家族和阿尔巴尼亚打手间的关系。",
+            "desc": ""
+        },
+        {
+            "hash": 1502884571,
+            "original": "B2_CD",
+            "translated": "B2_CD",
+            "desc": ""
+        },
+        {
+            "hash": 1582629644,
+            "original": "B2_FB",
+            "translated": "B2_FB",
+            "desc": ""
+        },
+        {
+            "hash": 1589774930,
+            "original": "~z~Then we drive away, no questions asked.",
+            "translated": "~z~然后直接走人，不受怀疑。",
+            "desc": ""
+        },
+        {
+            "hash": 1595148068,
+            "original": "~z~So you're a friend of Ray's?",
+            "translated": "~z~你是Ray的朋友来着？",
+            "desc": ""
+        },
+        {
+            "hash": 1603209439,
+            "original": "~z~Enough governments have let me down in the past. I don't know why I'd trust this one.",
+            "translated": "~z~过去让我失望的政府已经够多了，怎么会相信这里这个。",
+            "desc": ""
+        },
+        {
+            "hash": 1652378785,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 1724356838,
+            "original": "B2_FS",
+            "translated": "B2_FS",
+            "desc": ""
+        },
+        {
+            "hash": 1724616935,
+            "original": "~z~Niko, I need some help here.",
+            "translated": "~z~Niko，给我来点支援。",
+            "desc": ""
+        },
+        {
+            "hash": 1727053957,
+            "original": "100010100100100010010100100100100010100100010100100100100010100010010100100100",
+            "translated": "100010100100100010010100100100100010100100010100100100100010100010010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 1727307800,
+            "original": "B2_GC",
+            "translated": "B2_GC",
+            "desc": ""
+        },
+        {
+            "hash": 1741643105,
+            "original": "~z~I'll see you at the docks in North Holland, Niko.",
+            "translated": "~z~我们在North Holland的码头见，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1743103030,
+            "original": "~z~I don't want that to happen.",
+            "translated": "~z~我可不想有这种事。",
+            "desc": ""
+        },
+        {
+            "hash": 1750209657,
+            "original": "B2_DF",
+            "translated": "B2_DF",
+            "desc": ""
+        },
+        {
+            "hash": 1755339360,
+            "original": "B2_FW",
+            "translated": "B2_FW",
+            "desc": ""
+        },
+        {
+            "hash": 1762176705,
+            "original": "B2_CN",
+            "translated": "B2_CN",
+            "desc": ""
+        },
+        {
+            "hash": 1767300670,
+            "original": "B2_IC",
+            "translated": "B2_IC",
+            "desc": ""
+        },
+        {
+            "hash": 1767546629,
+            "original": "~z~He's a slimeball, but he pays.",
+            "translated": "~z~他确实是混球，但他给钱。",
+            "desc": ""
+        },
+        {
+            "hash": 1779975114,
+            "original": "~z~Eat, fucking, this.",
+            "translated": "~z~吃子弹吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1809227945,
+            "original": "~z~Hey, no problem.",
+            "translated": "~z~嘿，没事的。",
+            "desc": ""
+        },
+        {
+            "hash": 1812415232,
+            "original": "B2_DP",
+            "translated": "B2_DP",
+            "desc": ""
+        },
+        {
+            "hash": 1814110723,
+            "original": "~z~I'll get the jobs done if the money is there, and I ain't gonna turn state's.",
+            "translated": "~z~只要钱到位，我就能完成工作，我也不会背叛。",
+            "desc": ""
+        },
+        {
+            "hash": 1825122869,
+            "original": "B2_GB",
+            "translated": "B2_GB",
+            "desc": ""
+        },
+        {
+            "hash": 1829709548,
+            "original": "~z~We should be able to turn up and have 'em load it up for us.",
+            "translated": "~z~我们应该能直接进去等他们过来装货。",
+            "desc": ""
+        },
+        {
+            "hash": 1899100280,
+            "original": "B2_CY",
+            "translated": "B2_CY",
+            "desc": ""
+        },
+        {
+            "hash": 1904621075,
+            "original": "B2_DU",
+            "translated": "B2_DU",
+            "desc": ""
+        },
+        {
+            "hash": 1925424294,
+            "original": "B2_FL",
+            "translated": "B2_FL",
+            "desc": ""
+        },
+        {
+            "hash": 1925759351,
+            "original": "010100100100100100010010100100100010100100010100100100100100010010010100",
+            "translated": "010100100100100100010010100100100010100100010100100100100100010010010100",
+            "desc": ""
+        },
+        {
+            "hash": 1943652385,
+            "original": "B2_DO",
+            "translated": "B2_DO",
+            "desc": ""
+        },
+        {
+            "hash": 1957816922,
+            "original": "B2_CA",
+            "translated": "B2_CA",
+            "desc": ""
+        },
+        {
+            "hash": 1961975833,
+            "original": "B2_UA",
+            "translated": "B2_UA",
+            "desc": ""
+        },
+        {
+            "hash": 1975918770,
+            "original": "B2_FE",
+            "translated": "B2_FE",
+            "desc": ""
+        },
+        {
+            "hash": 1984671654,
+            "original": "~z~That's the plan. Whether it works or not remains to be seen.",
+            "translated": "~z~计划如此。能否成功有待实践。",
+            "desc": ""
+        },
+        {
+            "hash": 1992683126,
+            "original": "~z~We're taking a load of product off of some Russians the Ancelottis have been dealing with.",
+            "translated": "~z~我们要从最近跟Ancelotti家族做生意的俄国人那里偷一批货。",
+            "desc": ""
+        },
+        {
+            "hash": 1992897528,
+            "original": "~z~there ain't that much control in anything.",
+            "translated": "~z~根本没几件能掌控的事情。",
+            "desc": ""
+        },
+        {
+            "hash": 1998173316,
+            "original": "B2_DD",
+            "translated": "B2_DD",
+            "desc": ""
+        },
+        {
+            "hash": 2002476485,
+            "original": "B2_GI",
+            "translated": "B2_GI",
+            "desc": ""
+        },
+        {
+            "hash": 2006102523,
+            "original": "~z~or you're staying away from your kids because of a stupid court order and a malicious bitch of an ex-wife;",
+            "translated": "~z~被恶毒的前妻告上法庭，也只能服从白痴判决就此告别亲生子女。",
+            "desc": ""
+        },
+        {
+            "hash": 2008149806,
+            "original": "~z~I work in waste management. Everything we're saying is fiction, it has no bearing in the real world. Watch it Niko.",
+            "translated": "~z~我在垃圾处理厂工作。我们说的一切纯属虚构，与真实世界无关。注意点，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2026106350,
+            "original": "B2_CG",
+            "translated": "B2_CG",
+            "desc": ""
+        },
+        {
+            "hash": 2037075148,
+            "original": "B2_DM",
+            "translated": "B2_DM",
+            "desc": ""
+        },
+        {
+            "hash": 2059507398,
+            "original": "~z~Err, Niko. The stuff's still on those boats. We best get 'em outta here.",
+            "translated": "~z~呃，Niko。货还在船上，最好直接把船开走。",
+            "desc": ""
+        },
+        {
+            "hash": 2060863588,
+            "original": "B2_CS",
+            "translated": "B2_CS",
+            "desc": ""
+        },
+        {
+            "hash": 2085205097,
+            "original": "B2_FG",
+            "translated": "B2_FG",
+            "desc": ""
+        },
+        {
+            "hash": 2116243637,
+            "original": "B2_GA",
+            "translated": "B2_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2123944703,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 2124133525,
+            "original": "B2_FC",
+            "translated": "B2_FC",
+            "desc": ""
+        },
+        {
+            "hash": 2145160255,
+            "original": "~z~Hey, amigo, let's make this easy. I just wanna give the stuff to my boss and go home.",
+            "translated": "~z~嘿，大兄弟，咱们省点事吧。我只想把货交给老大，然后回家。",
+            "desc": ""
+        },
+        {
+            "hash": 2152592777,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2157651341,
+            "original": "B2_GS",
+            "translated": "B2_GS",
+            "desc": ""
+        },
+        {
+            "hash": 2168278201,
+            "original": "B2_FR",
+            "translated": "B2_FR",
+            "desc": ""
+        },
+        {
+            "hash": 2183710503,
+            "original": "~z~You're gonna learn that there ain't much in this life that you got control of.",
+            "translated": "~z~你会明白生活中很少有你能掌控的事情的。",
+            "desc": ""
+        },
+        {
+            "hash": 2201749346,
+            "original": "~z~You're excused. What're we doing?",
+            "translated": "~z~没关系的。待会儿怎么做？",
+            "desc": ""
+        },
+        {
+            "hash": 2201947801,
+            "original": "B2_FV",
+            "translated": "B2_FV",
+            "desc": ""
+        },
+        {
+            "hash": 2234128144,
+            "original": "B2_ID",
+            "translated": "B2_ID",
+            "desc": ""
+        },
+        {
+            "hash": 2239782763,
+            "original": "~z~Well a lot of people want to get hold of this merchandise as well.",
+            "translated": "~z~其实也有很多人想弄到这次这批货。",
+            "desc": ""
+        },
+        {
+            "hash": 2270292345,
+            "original": "B2_DN",
+            "translated": "B2_DN",
+            "desc": ""
+        },
+        {
+            "hash": 2287785759,
+            "original": "~z~I been around long enough to know that there is some things that we don't have a choice about,",
+            "translated": "~z~来这儿这么久，我也知道有些事大家都没得选，",
+            "desc": ""
+        },
+        {
+            "hash": 2291536118,
+            "original": "~z~For the record I don't know what this man is talking about. We're rehearsing a scene for an acting class.",
+            "translated": "~z~本人声明，我不知道这个人在说什么。我们是在排练表演课的片段。",
+            "desc": ""
+        },
+        {
+            "hash": 2294288722,
+            "original": "~z~Exactly. We're taking the C off the Russians so they can't deliver it to the Ancelottis.",
+            "translated": "~z~正是。我们从俄国人那儿抢走可卡因，他们就没法给Ancelotti家族送货了。",
+            "desc": ""
+        },
+        {
+            "hash": 2311110787,
+            "original": "B2_FH",
+            "translated": "B2_FH",
+            "desc": ""
+        },
+        {
+            "hash": 2312543757,
+            "original": "B2_IF",
+            "translated": "B2_IF",
+            "desc": ""
+        },
+        {
+            "hash": 2312926252,
+            "original": "B2_CJ",
+            "translated": "B2_CJ",
+            "desc": ""
+        },
+        {
+            "hash": 2330113020,
+            "original": "B2_GN",
+            "translated": "B2_GN",
+            "desc": ""
+        },
+        {
+            "hash": 2372515453,
+            "original": "~z~Man, they ain't giving up easy. We got more of them!",
+            "translated": "~z~天哪，他们还是不肯放弃。追兵过来了！",
+            "desc": ""
+        },
+        {
+            "hash": 2382752502,
+            "original": "010100100010100100100010010010100100100010100100100100010010100100",
+            "translated": "010100100010100100100010010010100100100010100100100100010010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2386583402,
+            "original": "~z~You're the boss, it ain't like I'm working for free.",
+            "translated": "~z~你是老板，我好像也不是白干。",
+            "desc": ""
+        },
+        {
+            "hash": 2392154132,
+            "original": "~z~You ain't gonna be happy about everything you get told to do, are ya?",
+            "translated": "~z~别人吩咐你做的事哪有能让你满意的。",
+            "desc": ""
+        },
+        {
+            "hash": 2410913873,
+            "original": "~z~Anyways, excuse me if I wanna be absolutely sure that we got our asses covered.",
+            "translated": "~z~总之，恕我太过在意我们的安全。",
+            "desc": ""
+        },
+        {
+            "hash": 2415848651,
+            "original": "~z~Some of my boys stole it from the Ancelottis this morning.",
+            "translated": "~z~今早我手下的人从Ancelotti家族那儿偷的车。",
+            "desc": ""
+        },
+        {
+            "hash": 2421122515,
+            "original": "B2_DE",
+            "translated": "B2_DE",
+            "desc": ""
+        },
+        {
+            "hash": 2434613121,
+            "original": "B2_GO",
+            "translated": "B2_GO",
+            "desc": ""
+        },
+        {
+            "hash": 2458851480,
+            "original": "~z~Alright, this is the truck.",
+            "translated": "~z~到了，就这辆卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 2467827569,
+            "original": "B2_SB",
+            "translated": "B2_SB",
+            "desc": ""
+        },
+        {
+            "hash": 2468606615,
+            "original": "~z~Sure, pal, sure. Listen to me...",
+            "translated": "~z~确实，兄弟，确实。听我说...",
+            "desc": ""
+        },
+        {
+            "hash": 2474447784,
+            "original": "B2_DW",
+            "translated": "B2_DW",
+            "desc": ""
+        },
+        {
+            "hash": 2476932016,
+            "original": "~z~Too many people wanted that ice, no one was ever going to end up with it.",
+            "translated": "~z~太多人盯着钻石了，没人能拿着它善终。",
+            "desc": ""
+        },
+        {
+            "hash": 2481646251,
+            "original": "~z~No, you ain't. I ain't either. That's why we gotta at least try what we're told to do.",
+            "translated": "~z~对，不白干，我也一样。所以怎么说都得照命令来一次。",
+            "desc": ""
+        },
+        {
+            "hash": 2490491027,
+            "original": "B2_CW",
+            "translated": "B2_CW",
+            "desc": ""
+        },
+        {
+            "hash": 2558541510,
+            "original": "~z~We're taking this C to the docks in North Holland. Come on.",
+            "translated": "~z~把这批货送到North Holland的码头。快点。",
+            "desc": ""
+        },
+        {
+            "hash": 2560291908,
+            "original": "~z~They're gonna let us take the coke with this truck then, are they?",
+            "translated": "~z~他们会让我们开着卡车就把可卡因带走吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2588980331,
+            "original": "~z~Shit, you sound like you're saying all this just so it's clear on the wire tap.",
+            "translated": "~z~我靠，你这种说话方式像是特意说给窃听器听的。",
+            "desc": ""
+        },
+        {
+            "hash": 2589949567,
+            "original": "~z~All I care about is that you're loyal enough to get the jobs done and not turn state's.",
+            "translated": "~z~我只关心你能否忠诚地完成工作，并且不会背叛。",
+            "desc": ""
+        },
+        {
+            "hash": 2600383951,
+            "original": "~z~That's what the talk about the docks was?",
+            "translated": "~z~之前说的码头就这回事？",
+            "desc": ""
+        },
+        {
+            "hash": 2605024001,
+            "original": "B2_FP",
+            "translated": "B2_FP",
+            "desc": ""
+        },
+        {
+            "hash": 2649452644,
+            "original": "~z~We lost some of that sugar, it ain't no good taking it from the Russians if we can't sell it ourselves. Ciao.",
+            "translated": "~z~我们损失了一些糖。要是卖不出去，不就白从俄国人那儿抢了吗。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2651258717,
+            "original": "~z~Give me some covering fire, kid.",
+            "translated": "~z~给我来点火力掩护，小子。",
+            "desc": ""
+        },
+        {
+            "hash": 2652673404,
+            "original": "B2_CU",
+            "translated": "B2_CU",
+            "desc": ""
+        },
+        {
+            "hash": 2671889161,
+            "original": "~z~There's something wrong about you. Get out of the truck real slow.",
+            "translated": "~z~你们不太对劲。慢慢从车上下——来。",
+            "desc": ""
+        },
+        {
+            "hash": 2683149310,
+            "original": "~z~No, but we can be pretty sure it's clean. Chill out.",
+            "translated": "~z~没，但这车肯定没装东西。放松点。",
+            "desc": ""
+        },
+        {
+            "hash": 2684586222,
+            "original": "~z~A friend?",
+            "translated": "~z~朋友？",
+            "desc": ""
+        },
+        {
+            "hash": 2685092093,
+            "original": "B2_FT",
+            "translated": "B2_FT",
+            "desc": ""
+        },
+        {
+            "hash": 2691728367,
+            "original": "~z~That wasn't a successful operation by any way you look at it.",
+            "translated": "~z~怎么看都不是一次成功的行动。",
+            "desc": ""
+        },
+        {
+            "hash": 2696023475,
+            "original": "~z~He's a rat,",
+            "translated": "~z~他就一白眼狼，",
+            "desc": ""
+        },
+        {
+            "hash": 2703191537,
+            "original": "B2_GJ",
+            "translated": "B2_GJ",
+            "desc": ""
+        },
+        {
+            "hash": 2745734174,
+            "original": "~z~Yeah, sure, this is just plan A. It's the one Jimmy P worked out.",
+            "translated": "~z~对，确实，这只是A计划。是Jimmy P想出来的。",
+            "desc": ""
+        },
+        {
+            "hash": 2745865451,
+            "original": "B2_FQ",
+            "translated": "B2_FQ",
+            "desc": ""
+        },
+        {
+            "hash": 2757876547,
+            "original": "~z~Fuck you, I ain't. I just keep thinking these choppers is following me, that's all.",
+            "translated": "~z~去你妈的，不是。只是我经常觉得有直升机跟着，就这样。",
+            "desc": ""
+        },
+        {
+            "hash": 2766299828,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 2810726450,
+            "original": "B2_CH",
+            "translated": "B2_CH",
+            "desc": ""
+        },
+        {
+            "hash": 2828442353,
+            "original": "~z~Sure, sure, I get that. Whatever makes it all make sense in your head.",
+            "translated": "~z~好，好，我明白了。只要你觉得舒服就行。",
+            "desc": ""
+        },
+        {
+            "hash": 2831269109,
+            "original": "B2_DV",
+            "translated": "B2_DV",
+            "desc": ""
+        },
+        {
+            "hash": 2846627393,
+            "original": "~z~Because these is the orders and we gotta follow them. That's the way things work.",
+            "translated": "~z~因为这是必须服从的命令。规矩就是如此。",
+            "desc": ""
+        },
+        {
+            "hash": 2851511505,
+            "original": "~z~Depends how you define life.",
+            "translated": "~z~看你怎么定义生活了。",
+            "desc": ""
+        },
+        {
+            "hash": 2903628269,
+            "original": "~z~And we make some money in the process by selling the stuff. Easy.",
+            "translated": "~z~我们还能顺便把货卖了赚钱。简单。",
+            "desc": ""
+        },
+        {
+            "hash": 2906972236,
+            "original": "B2_FX",
+            "translated": "B2_FX",
+            "desc": ""
+        },
+        {
+            "hash": 2911434020,
+            "original": "B2_GP",
+            "translated": "B2_GP",
+            "desc": ""
+        },
+        {
+            "hash": 2920719636,
+            "original": "~z~I don't understand. Whatever you say.",
+            "translated": "~z~我听不懂。随你说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2940076469,
+            "original": "120210120210210100100",
+            "translated": "120210120210210100100",
+            "desc": ""
+        },
+        {
+            "hash": 2941181831,
+            "original": "~z~You're a smart guy.",
+            "translated": "~z~真够聪明。",
+            "desc": ""
+        },
+        {
+            "hash": 2941795027,
+            "original": "~z~You scan this thing for bugs?",
+            "translated": "~z~确认过车上没窃听器吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2978443156,
+            "original": "~z~I don't let anyone in here until I get the word.",
+            "translated": "~z~接到指示之前，谁也别想过去。",
+            "desc": ""
+        },
+        {
+            "hash": 2988855029,
+            "original": "B2_SC",
+            "translated": "B2_SC",
+            "desc": ""
+        },
+        {
+            "hash": 2990879063,
+            "original": "~z~It's the one the Russians is expecting to come pick up the C.",
+            "translated": "~z~给俄国人装货的卡车就是这辆。",
+            "desc": ""
+        },
+        {
+            "hash": 3032534654,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3059597617,
+            "original": "~z~By your logic that means it's going to end up dissolving into the Humboldt River.",
+            "translated": "~z~照你说的，这批货全得溶解在Humboldt河里。",
+            "desc": ""
+        },
+        {
+            "hash": 3067918205,
+            "original": "~z~I ain't part of no family. I'm an independent contractor.",
+            "translated": "~z~才不是什么家族成员。我就一民间杀手。",
+            "desc": ""
+        },
+        {
+            "hash": 3075413119,
+            "original": "192",
+            "translated": "192",
+            "desc": ""
+        },
+        {
+            "hash": 3075507195,
+            "original": "B2_JA",
+            "translated": "B2_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3093417190,
+            "original": "~z~And that means that certain people is gonna assume we'll rat.",
+            "translated": "~z~而且还会有人怀疑我们泄密换取减刑。",
+            "desc": ""
+        },
+        {
+            "hash": 3094825821,
+            "original": "B2_CL",
+            "translated": "B2_CL",
+            "desc": ""
+        },
+        {
+            "hash": 3131312071,
+            "original": "~z~The Feds monitoring my every move. I flip out whenever I'm even outside.",
+            "translated": "~z~FIB监控我的一举一动。每次出门我都很紧张。",
+            "desc": ""
+        },
+        {
+            "hash": 3134484746,
+            "original": "B2_CF",
+            "translated": "B2_CF",
+            "desc": ""
+        },
+        {
+            "hash": 3138205614,
+            "original": "B2_DH",
+            "translated": "B2_DH",
+            "desc": ""
+        },
+        {
+            "hash": 3142926222,
+            "original": "~z~It's all internet porn and dreamin about home, that ain't no life.",
+            "translated": "~z~只能看看黄色网站，奢望能够回家，那才不是生活。",
+            "desc": ""
+        },
+        {
+            "hash": 3153738461,
+            "original": "~z~So, why don't we use a more subtle approach, not just drive right into the middle of them?",
+            "translated": "~z~那我们干嘛不换种更稳妥的方案？非得直接开进去吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3159703953,
+            "original": "~z~No, I mean a friend.",
+            "translated": "~z~不，我是说「朋友」。",
+            "desc": ""
+        },
+        {
+            "hash": 3170958894,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3171908360,
+            "original": "~z~You mean that someone in the family would see someone else going inside as an opportunity to get ahead?",
+            "translated": "~z~就是说有些家族成员会把别人被抓视为上升机会？",
+            "desc": ""
+        },
+        {
+            "hash": 3182083683,
+            "original": "~z~I'm hoping that this endeavor is gonna be more fruitful.",
+            "translated": "~z~希望这次的付出能更有回报一些。",
+            "desc": ""
+        },
+        {
+            "hash": 3189666654,
+            "original": "B2_UB",
+            "translated": "B2_UB",
+            "desc": ""
+        },
+        {
+            "hash": 3210968720,
+            "original": "~z~Sounds straightforward. We take the coke so that the Russians and the Ancelottis have a falling out.",
+            "translated": "~z~听起来很简单。我们偷走可卡因，俄国人和Ancelotti家族间就破裂了。",
+            "desc": ""
+        },
+        {
+            "hash": 3214301011,
+            "original": "B2_CR",
+            "translated": "B2_CR",
+            "desc": ""
+        },
+        {
+            "hash": 3244039777,
+            "original": "~z~Damn, looks like these guys really want to hold onto the coke!",
+            "translated": "~z~我靠，看来他们真的不肯对这些可卡因放手！",
+            "desc": ""
+        },
+        {
+            "hash": 3255339192,
+            "original": "B2_IA",
+            "translated": "B2_IA",
+            "desc": ""
+        },
+        {
+            "hash": 3256566855,
+            "original": "B2_DK",
+            "translated": "B2_DK",
+            "desc": ""
+        },
+        {
+            "hash": 3269447354,
+            "original": "~z~I'm sorry about this.",
+            "translated": "~z~让你见笑了。",
+            "desc": ""
+        },
+        {
+            "hash": 3275917166,
+            "original": "~z~And it don't help that not everyone in the organization is pulling in the same direction.",
+            "translated": "~z~而组织里的人也不是团结一心的。",
+            "desc": ""
+        },
+        {
+            "hash": 3279768072,
+            "original": "~z~I don't think I'd trust him to send me on another job after the shit he had me doing.",
+            "translated": "~z~就凭他让我做的那些事，我都不敢让他再给我一份活干。",
+            "desc": ""
+        },
+        {
+            "hash": 3290809685,
+            "original": "B2_FN",
+            "translated": "B2_FN",
+            "desc": ""
+        },
+        {
+            "hash": 3304412078,
+            "original": "~z~Shit man, I'm just the hired help. I'm the fucking immigrant maid cleaning up your guys' shit.",
+            "translated": "~z~我靠，老兄，我就是个拿钱办事的，就一给你们收拾烂摊子的移民女仆。",
+            "desc": ""
+        },
+        {
+            "hash": 3308918521,
+            "original": "~z~Niko, it looks like we're gonna have to do this the old fashioned way.",
+            "translated": "~z~Niko，看来还是得用老办法了。",
+            "desc": ""
+        },
+        {
+            "hash": 3313389029,
+            "original": "~z~You and me know it ain't gonna work.",
+            "translated": "~z~你我都知道行不通。",
+            "desc": ""
+        },
+        {
+            "hash": 3320155177,
+            "original": "~z~I'm gonna have to take a chance with you, pal.",
+            "translated": "~z~我只能跟你碰碰运气了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3343539041,
+            "original": "~z~I don't know if anyone would give away a load of coke without asking any questions.",
+            "translated": "~z~我是不觉得会有人不加怀疑就交出一大堆可卡因。",
+            "desc": ""
+        },
+        {
+            "hash": 3357927222,
+            "original": "B2_CO",
+            "translated": "B2_CO",
+            "desc": ""
+        },
+        {
+            "hash": 3373521675,
+            "original": "~z~There ain't no action and the only cannolis you're gonna see are the ones on TV.",
+            "translated": "~z~那里什么都不会发生，只能在电视上见到意大利卷饼。",
+            "desc": ""
+        },
+        {
+            "hash": 3378704524,
+            "original": "B2_CM",
+            "translated": "B2_CM",
+            "desc": ""
+        },
+        {
+            "hash": 3391971497,
+            "original": "~z~doing an impression of a man.",
+            "translated": "~z~披着层人皮而已。",
+            "desc": ""
+        },
+        {
+            "hash": 3438466014,
+            "original": "B2_FI",
+            "translated": "B2_FI",
+            "desc": ""
+        },
+        {
+            "hash": 3440571976,
+            "original": "~z~Alright, alright. It's just that if we get caught on this one, you and me is going down for a long time.",
+            "translated": "~z~好吧，好吧。万一这回被抓，我们就得牢底坐穿了。",
+            "desc": ""
+        },
+        {
+            "hash": 3455409180,
+            "original": "B2_FM",
+            "translated": "B2_FM",
+            "desc": ""
+        },
+        {
+            "hash": 3459204324,
+            "original": "B2_GM",
+            "translated": "B2_GM",
+            "desc": ""
+        },
+        {
+            "hash": 3483246629,
+            "original": "~z~Whacking someone who catches some heavy time is just an insurance policy.",
+            "translated": "~z~暗杀被判重刑的人只是一道保险措施。",
+            "desc": ""
+        },
+        {
+            "hash": 3507905850,
+            "original": "~z~After all of that, you guys didn't even get the diamonds.",
+            "translated": "~z~事干了不少，结果钻石都没拿到。",
+            "desc": ""
+        },
+        {
+            "hash": 3517082888,
+            "original": "~z~That's the attitude.",
+            "translated": "~z~这态度没错。",
+            "desc": ""
+        },
+        {
+            "hash": 3524685095,
+            "original": "~z~I'm a grown man walking around like a chump.",
+            "translated": "~z~我这么大人了，还跟白痴一样到处跑。",
+            "desc": ""
+        },
+        {
+            "hash": 3537653598,
+            "original": "B2_GL",
+            "translated": "B2_GL",
+            "desc": ""
+        },
+        {
+            "hash": 3558025348,
+            "original": "~z~Niko...",
+            "translated": "~z~Niko...",
+            "desc": ""
+        },
+        {
+            "hash": 3567262087,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3605203432,
+            "original": "~z~You're working with the wrong people if you expect 'em to whack you if you go inside.",
+            "translated": "~z~你要是觉得进去了会有人暗杀你，那说明你入错伙了。",
+            "desc": ""
+        },
+        {
+            "hash": 3644674036,
+            "original": "B2_GQ",
+            "translated": "B2_GQ",
+            "desc": ""
+        },
+        {
+            "hash": 3669433741,
+            "original": "100010100",
+            "translated": "100010100",
+            "desc": ""
+        },
+        {
+            "hash": 3676344647,
+            "original": "B2_CK",
+            "translated": "B2_CK",
+            "desc": ""
+        },
+        {
+            "hash": 3682128538,
+            "original": "~z~Phil, there's more of these guys coming after us.",
+            "translated": "~z~Phil，又来了一批人追我们。",
+            "desc": ""
+        },
+        {
+            "hash": 3703893451,
+            "original": "B2_NA",
+            "translated": "B2_NA",
+            "desc": ""
+        },
+        {
+            "hash": 3712797976,
+            "original": "~z~I didn't pick you for a helicopter enthusiast.",
+            "translated": "~z~没想到你还是直升机爱好者啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3717809209,
+            "original": "B2_IE",
+            "translated": "B2_IE",
+            "desc": ""
+        },
+        {
+            "hash": 3731864499,
+            "original": "B2_AA",
+            "translated": "B2_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3753776639,
+            "original": "~z~I'm good. Wanna walk and talk?",
+            "translated": "~z~我很好。想出去聊会儿吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3813378454,
+            "original": "B2_DG",
+            "translated": "B2_DG",
+            "desc": ""
+        },
+        {
+            "hash": 3833234912,
+            "original": "B2_LA",
+            "translated": "B2_LA",
+            "desc": ""
+        },
+        {
+            "hash": 3835619008,
+            "original": "B2_QA",
+            "translated": "B2_QA",
+            "desc": ""
+        },
+        {
+            "hash": 3836080785,
+            "original": "B2_HA",
+            "translated": "B2_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3838712608,
+            "original": "B2_DI",
+            "translated": "B2_DI",
+            "desc": ""
+        },
+        {
+            "hash": 3848845415,
+            "original": "B2_OA",
+            "translated": "B2_OA",
+            "desc": ""
+        },
+        {
+            "hash": 3849527131,
+            "original": "~z~Every move he makes is so obvious, it's disgusting to see him trying to sleaze his way up the ladder.",
+            "translated": "~z~他那些举动的意图太明显了，谋求高位的样子实在是让人想吐。",
+            "desc": ""
+        },
+        {
+            "hash": 3849996985,
+            "original": "B2_CB",
+            "translated": "B2_CB",
+            "desc": ""
+        },
+        {
+            "hash": 3851780730,
+            "original": "~z~You handled yourself real good back there. Kept your head. That's a valuable trait.",
+            "translated": "~z~你刚才的表现很好，头脑冷静。很可贵的品质。",
+            "desc": ""
+        },
+        {
+            "hash": 3857097408,
+            "original": "B2_RA",
+            "translated": "B2_RA",
+            "desc": ""
+        },
+        {
+            "hash": 3862014085,
+            "original": "~z~Which means we'll get whacked.",
+            "translated": "~z~也就是会有人暗杀我们。",
+            "desc": ""
+        },
+        {
+            "hash": 3869518743,
+            "original": "B2_RB",
+            "translated": "B2_RB",
+            "desc": ""
+        },
+        {
+            "hash": 3876839590,
+            "original": "~z~Shit, you seen any choppers? Any birds been in the sky?",
+            "translated": "~z~妈的，有见着直升机吗？天上有在飞的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3898521283,
+            "original": "B2_VA",
+            "translated": "B2_VA",
+            "desc": ""
+        },
+        {
+            "hash": 3910278770,
+            "original": "~z~It's the boss... said you gotta head down the docks... emergency... said you'd understand.",
+            "translated": "~z~是老大...他要你立刻去码头...情况紧急...说你听得懂。",
+            "desc": ""
+        },
+        {
+            "hash": 3913490120,
+            "original": "~z~He talks a lot of shit, but he's a good earner, capiche?",
+            "translated": "~z~他是很会扯，但确实特能赚钱，懂吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3930036096,
+            "original": "~z~The problem was Ray's planning and the amount of people involved.",
+            "translated": "~z~问题出在Ray的计划和牵涉到的人数上。",
+            "desc": ""
+        },
+        {
+            "hash": 3948500752,
+            "original": "~z~C'mon, let's go.",
+            "translated": "~z~来吧，我们走。",
+            "desc": ""
+        },
+        {
+            "hash": 3959660143,
+            "original": "~z~but there's other times where you got to look at something and make a decision for yourself.",
+            "translated": "~z~但也有需要你仔细审视自己决定的时候。",
+            "desc": ""
+        },
+        {
+            "hash": 3992855787,
+            "original": "~z~Then, they ship you off to Ohio and get you selling microwaves.",
+            "translated": "~z~然后就送你到俄亥俄州，让你去卖微波炉。",
+            "desc": ""
+        },
+        {
+            "hash": 3998586771,
+            "original": "B2_FD",
+            "translated": "B2_FD",
+            "desc": ""
+        },
+        {
+            "hash": 4014558770,
+            "original": "~z~You went too far this time.",
+            "translated": "~z~这回你们过火了。",
+            "desc": ""
+        },
+        {
+            "hash": 4025464418,
+            "original": "~z~Sure.",
+            "translated": "~z~好的。",
+            "desc": ""
+        },
+        {
+            "hash": 4032084118,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4064390604,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4065803472,
+            "original": "B2_CT",
+            "translated": "B2_CT",
+            "desc": ""
+        },
+        {
+            "hash": 4083729139,
+            "original": "~z~It's about survival.",
+            "translated": "~z~事关组织存亡。",
+            "desc": ""
+        },
+        {
+            "hash": 4091816608,
+            "original": "~z~And that the only way we're gonna be able to leave that place with the sugar is if all the Russians in there are dead.",
+            "translated": "~z~唯一能拉着糖出来的情况，就是在场的俄国人都死了。",
+            "desc": ""
+        },
+        {
+            "hash": 4114816732,
+            "original": "B2_CV",
+            "translated": "B2_CV",
+            "desc": ""
+        },
+        {
+            "hash": 4123963909,
+            "original": "~z~I can't follow every order I'm given.",
+            "translated": "~z~我不可能服从一切命令。",
+            "desc": ""
+        },
+        {
+            "hash": 4129443845,
+            "original": "~z~Shit Niko, what we meant to do with a boat on dry land?",
+            "translated": "~z~妈的，Niko，船着陆了还怎么开？",
+            "desc": ""
+        },
+        {
+            "hash": 4133436855,
+            "original": "~z~Maybe he's getting somewhere. He definitely knows a lot of people.",
+            "translated": "~z~也许他能攀上高枝，毕竟他认识的人多。",
+            "desc": ""
+        },
+        {
+            "hash": 4135628698,
+            "original": "B2_GT",
+            "translated": "B2_GT",
+            "desc": ""
+        },
+        {
+            "hash": 4145724023,
+            "original": "~z~the thing about Ray is he's a good earner.",
+            "translated": "~z~Ray的优点就是特能赚钱。",
+            "desc": ""
+        },
+        {
+            "hash": 4148542169,
+            "original": "~z~What, what, what do ya want?",
+            "translated": "~z~咋了，咋了，你想干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 4156761813,
+            "original": "~z~Thank you.",
+            "translated": "~z~谢谢夸奖。",
+            "desc": ""
+        },
+        {
+            "hash": 4166043967,
+            "original": "B2_CQ",
+            "translated": "B2_CQ",
+            "desc": ""
+        },
+        {
+            "hash": 4177084098,
+            "original": "~z~Even Russian coke runners ain't that stupid.",
+            "translated": "~z~就算是俄国毒贩子也没那么蠢。",
+            "desc": ""
+        },
+        {
+            "hash": 4191155197,
+            "original": "~z~Okay...",
+            "translated": "~z~好的...",
+            "desc": ""
+        },
+        {
+            "hash": 4202135927,
+            "original": "~z~I don't speak English. Fuck off.",
+            "translated": "~z~我不说英语。滚蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 4227391657,
+            "original": "B2_DR",
+            "translated": "B2_DR",
+            "desc": ""
+        },
+        {
+            "hash": 4252822169,
+            "original": "~z~The drug game's ours, boys.",
+            "translated": "~z~毒品生意归我们管，小子。",
+            "desc": ""
+        },
+        {
+            "hash": 4263596741,
+            "original": "~z~Tommy, gimme a call if my big buddy calls.",
+            "translated": "~z~Tommy，要是老大找我，给我打个电话。",
+            "desc": ""
+        },
+        {
+            "hash": 4282369902,
+            "original": "~z~These guys promise you a new life if you screw every person who ever did a kind thing for you.",
+            "translated": "~z~这些人说是只要出卖所有帮过你的人，就会给你新的生活。",
+            "desc": ""
+        },
+        {
+            "hash": 4293338000,
+            "original": "~z~We need some wheels.",
+            "translated": "~z~找辆车子来。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "DERRIC2": [
+        {
+            "hash": 125495802,
+            "original": "~r~Derrick is dead.~s~",
+            "translated": "~r~Derrick死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 223135866,
+            "original": "~s~Follow ~b~Kim.",
+            "translated": "~s~跟随~b~Kim。",
+            "desc": ""
+        },
+        {
+            "hash": 642339424,
+            "original": "Press ~INPUT_ATTACK~ to fire. A rocket will not reach its destination instantly, for moving targets try anticipating where they might move.",
+            "translated": "按~INPUT_ATTACK~开火。火箭弹不会立刻击中目标，攻击移动目标时应预判提前量。",
+            "desc": ""
+        },
+        {
+            "hash": 754868166,
+            "original": "Press ~PAD_Y~ to stand on the deck of the boat.",
+            "translated": "按~PAD_Y~站到船的甲板上。",
+            "desc": ""
+        },
+        {
+            "hash": 976321068,
+            "original": "Hold ~INPUT_AIM~ to aim the rocket launcher. Use ~PAD_RSTICK_ALL~ to move the crosshair.",
+            "translated": "按住~INPUT_AIM~拿起火箭发射器瞄准。用~PAD_RSTICK_ALL~移动准星。",
+            "desc": ""
+        },
+        {
+            "hash": 1028591788,
+            "original": "~s~Get in ~b~Derrick's~s~ boat.",
+            "translated": "~s~进入~b~Derrick~s~的船。",
+            "desc": ""
+        },
+        {
+            "hash": 1042690481,
+            "original": "~s~Stay close to Kim's boat. Protect him from the ~r~attackers~s~.",
+            "translated": "~s~靠近Kim的船。保护他不受~r~袭击者~s~伤害。",
+            "desc": ""
+        },
+        {
+            "hash": 1184222457,
+            "original": "~r~You abandoned Derrick.~s~",
+            "translated": "~r~你丢下了Derrick。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1350204176,
+            "original": "Kim health: ~1~",
+            "translated": "Kim的生命值：~1~",
+            "desc": ""
+        },
+        {
+            "hash": 1512008099,
+            "original": "~s~Get back to the ~b~boat's~s~ controls.",
+            "translated": "~s~回去开~b~船。",
+            "desc": ""
+        },
+        {
+            "hash": 1762199418,
+            "original": "~s~Follow ~b~Kim~s~.",
+            "translated": "~s~跟随~b~Kim。",
+            "desc": ""
+        },
+        {
+            "hash": 1792527721,
+            "original": "~s~Don't leave ~b~Derrick~s~ behind.",
+            "translated": "~s~别把~b~Derrick~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 1857394238,
+            "original": "~s~Go to ~b~Kim's boat.",
+            "translated": "~s~去找~b~Kim的船。",
+            "desc": ""
+        },
+        {
+            "hash": 1903811400,
+            "original": "~r~Derrick's boat has been beached.~s~",
+            "translated": "~r~Derrick的船搁浅了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2324456854,
+            "original": "~r~You've lost Kim's boat.~s~",
+            "translated": "~r~你跟丢了Kim的船。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2374779393,
+            "original": "Use ~INPUT_AIM~ to aim the rocket launcher. Use ~PAD_RSTICK_ALL~ to move the crosshair.",
+            "translated": "用~INPUT_AIM~拿起火箭发射器瞄准。用~PAD_RSTICK_ALL~移动准星。",
+            "desc": ""
+        },
+        {
+            "hash": 2489179683,
+            "original": "~s~Use the rocket launcher to shoot down the ~r~chopper~s~.",
+            "translated": "~s~用火箭发射器打下~r~直升机~s~。",
+            "desc": ""
+        },
+        {
+            "hash": 2580295300,
+            "original": "~PAD_LB~ focus on Kim's boat.",
+            "translated": "按~PAD_LB~看向Kim的船。",
+            "desc": ""
+        },
+        {
+            "hash": 2593428759,
+            "original": "~r~Kim's boat has capsized.~s~",
+            "translated": "~r~Kim的船翻了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2699681564,
+            "original": "~s~Go to ~y~Derrick's boat.",
+            "translated": "~s~登上~y~Derrick的船。",
+            "desc": ""
+        },
+        {
+            "hash": 2730195678,
+            "original": "~s~Move away from the front of ~b~Kim's boat~s~.",
+            "translated": "~s~不要挡在~b~Kim的船~s~前面。",
+            "desc": ""
+        },
+        {
+            "hash": 2746140364,
+            "original": "~r~Derrick's boat has been wrecked.~s~",
+            "translated": "~r~Derrick的船被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2862910180,
+            "original": "~s~Eliminate every ~r~attacker.~s~",
+            "translated": "~s~消灭所有~r~袭击者。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2925990389,
+            "original": "~r~Derrick's boat has capsized.~s~",
+            "translated": "~r~Derrick的船翻了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3210312101,
+            "original": "~r~Kim's boat has been wrecked.~s~",
+            "translated": "~r~Kim的船被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3318572372,
+            "original": "~r~Kim's boat has been beached.~s~",
+            "translated": "~r~Kim的船搁浅了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3403347395,
+            "original": "~s~Shoot down the ~r~chopper.",
+            "translated": "~s~打下~r~直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 3454699091,
+            "original": "~s~Protect Kim from the ~r~attackers.",
+            "translated": "~s~保护Kim免受~r~袭击者~s~的伤害。",
+            "desc": ""
+        },
+        {
+            "hash": 3775985596,
+            "original": "~r~You did not follow Kim.~s~",
+            "translated": "~r~你没有跟住Kim。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3932249481,
+            "original": "~r~Kim is dead.~s~",
+            "translated": "~r~Kim死了。~s~",
+            "desc": ""
+        }
+    ]
+}

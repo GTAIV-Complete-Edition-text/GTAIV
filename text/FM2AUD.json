@@ -1,0 +1,2614 @@
+{
+    "FM2AUD": [
+        {
+            "hash": 1949710,
+            "original": "~z~We'd like to arrange an interview for you at the earliest convenience.",
+            "translated": "~z~我们打算尽快为您安排面试。",
+            "desc": ""
+        },
+        {
+            "hash": 4263857,
+            "original": "FM2_BE",
+            "translated": "FM2_BE",
+            "desc": ""
+        },
+        {
+            "hash": 5442828,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 12453613,
+            "original": "FM2_XB",
+            "translated": "FM2_XB",
+            "desc": ""
+        },
+        {
+            "hash": 14152655,
+            "original": "~z~Not in the showers.",
+            "translated": "~z~别是在浴室里。",
+            "desc": ""
+        },
+        {
+            "hash": 19641982,
+            "original": "~z~Oh! Objection...",
+            "translated": "~z~哦！我反对...",
+            "desc": ""
+        },
+        {
+            "hash": 21873035,
+            "original": "FM2_KA",
+            "translated": "FM2_KA",
+            "desc": ""
+        },
+        {
+            "hash": 28545374,
+            "original": "FM2_BD",
+            "translated": "FM2_BD",
+            "desc": ""
+        },
+        {
+            "hash": 86771283,
+            "original": "FM2_UB",
+            "translated": "FM2_UB",
+            "desc": ""
+        },
+        {
+            "hash": 97693927,
+            "original": "~z~You wanna know why? Because the law is clear.",
+            "translated": "~z~知道为什么吗？因为法律是一面明镜。",
+            "desc": ""
+        },
+        {
+            "hash": 102460573,
+            "original": "~z~Mr. Bellic. This is Karen from Goldberg, Ligner and Shyster.",
+            "translated": "~z~Bellic先生，我是Goldberg、Ligner和Shyster律师行的Karen。",
+            "desc": ""
+        },
+        {
+            "hash": 105917009,
+            "original": "~z~Mr. Bellic. This is Karen from Goldberg, Ligner and Shyster.",
+            "translated": "~z~Bellic先生，我是Goldberg、Ligner和Shyster律师行的Karen。",
+            "desc": ""
+        },
+        {
+            "hash": 115821149,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 130177714,
+            "original": "FM2_MA",
+            "translated": "FM2_MA",
+            "desc": ""
+        },
+        {
+            "hash": 137264833,
+            "original": "FM2_BD",
+            "translated": "FM2_BD",
+            "desc": ""
+        },
+        {
+            "hash": 149384089,
+            "original": "~z~You can be whatever you like. It's the land of opportunity. Any fool can become president.",
+            "translated": "~z~你爱做什么做什么。这里是机遇之地，傻逼都能做总统。",
+            "desc": ""
+        },
+        {
+            "hash": 164671533,
+            "original": "FM2_A_FA",
+            "translated": "FM2_A_FA",
+            "desc": ""
+        },
+        {
+            "hash": 176102803,
+            "original": "FM2_NI",
+            "translated": "FM2_NI",
+            "desc": ""
+        },
+        {
+            "hash": 180510342,
+            "original": "~z~Mr. Goldberg, Mr. Bellic has arrived for his interview.",
+            "translated": "~z~Goldberg先生，Bellic先生来参加面试了。",
+            "desc": ""
+        },
+        {
+            "hash": 208595724,
+            "original": "~z~Come on, Nikolai, don't kill me.",
+            "translated": "~z~拜托，Nikolai，别杀我。",
+            "desc": ""
+        },
+        {
+            "hash": 219255216,
+            "original": "~z~Super! Your interview will be with Mr. Goldberg.",
+            "translated": "~z~很好！您的面试将由Goldberg先生负责。",
+            "desc": ""
+        },
+        {
+            "hash": 226303462,
+            "original": "~z~Security, get in here. We've got a problem.",
+            "translated": "~z~保安，进来。我们有麻烦了。",
+            "desc": ""
+        },
+        {
+            "hash": 230530376,
+            "original": "FM2_NG",
+            "translated": "FM2_NG",
+            "desc": ""
+        },
+        {
+            "hash": 247976613,
+            "original": "~z~Just one second there. Just one little second, okay?",
+            "translated": "~z~你等一下，稍微等一下好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 272690820,
+            "original": "~z~Sure...",
+            "translated": "~z~确实...",
+            "desc": ""
+        },
+        {
+            "hash": 283629439,
+            "original": "~z~Listen. Where to begin? I don't know.",
+            "translated": "~z~听着，从哪儿说起好呢？不知道。",
+            "desc": ""
+        },
+        {
+            "hash": 285545931,
+            "original": "~z~I didn't even get in the room with him. Things kicked off a bit early.",
+            "translated": "~z~我连房间都没进去，见不着他。结束的有点早。",
+            "desc": ""
+        },
+        {
+            "hash": 288689366,
+            "original": "~z~Ahh... it's Niko Bellic, I'm here for an interview.",
+            "translated": "~z~呃...我是Niko Bellic，是来参加面试的。",
+            "desc": ""
+        },
+        {
+            "hash": 299918227,
+            "original": "~z~Come into our offices in a few days time. Is that alright?",
+            "translated": "~z~几天内来我们的事务所，可以吗？",
+            "desc": ""
+        },
+        {
+            "hash": 300517446,
+            "original": "FM2_VD",
+            "translated": "FM2_VD",
+            "desc": ""
+        },
+        {
+            "hash": 324475085,
+            "original": "~z~he's hard to get to.",
+            "translated": "~z~你很难接近他。",
+            "desc": ""
+        },
+        {
+            "hash": 329010298,
+            "original": "~z~No one is above my judgment! You understand me?",
+            "translated": "~z~没人能凌驾于我的裁决！懂我意思吗？",
+            "desc": ""
+        },
+        {
+            "hash": 335087704,
+            "original": "~z~We'd like to arrange an interview for you at the earliest convenience.",
+            "translated": "~z~我们打算尽快为您安排面试。",
+            "desc": ""
+        },
+        {
+            "hash": 338078521,
+            "original": "~z~Security! Security! Someone help me!",
+            "translated": "~z~保安！保安！快来人啊！",
+            "desc": ""
+        },
+        {
+            "hash": 343272796,
+            "original": "~z~Standing up, assertive move, right. I like a man who takes control.",
+            "translated": "~z~站起来了，很有自信的举措，对吧。我喜欢控制力强的人。",
+            "desc": ""
+        },
+        {
+            "hash": 349935186,
+            "original": "~z~Yeah. So, it's him or me.",
+            "translated": "~z~对，所以总得没一个人。",
+            "desc": ""
+        },
+        {
+            "hash": 369953332,
+            "original": "~z~He's just in here. Don't be nervous. He doesn't bite.",
+            "translated": "~z~他就在这里。别紧张，他不咬人。",
+            "desc": ""
+        },
+        {
+            "hash": 370653282,
+            "original": "FM2_OD",
+            "translated": "FM2_OD",
+            "desc": ""
+        },
+        {
+            "hash": 383530243,
+            "original": "FM2_A_GB",
+            "translated": "FM2_A_GB",
+            "desc": ""
+        },
+        {
+            "hash": 402109780,
+            "original": "FM2_ND",
+            "translated": "FM2_ND",
+            "desc": ""
+        },
+        {
+            "hash": 464719064,
+            "original": "FM2_NJ",
+            "translated": "FM2_NJ",
+            "desc": ""
+        },
+        {
+            "hash": 497143832,
+            "original": "FM2_EE",
+            "translated": "FM2_EE",
+            "desc": ""
+        },
+        {
+            "hash": 504400423,
+            "original": "~z~My problem is that people don't notice the decay in society.",
+            "translated": "~z~我的困难在于人们不关注社会腐败。",
+            "desc": ""
+        },
+        {
+            "hash": 529081806,
+            "original": "FM2_A_VA",
+            "translated": "FM2_A_VA",
+            "desc": ""
+        },
+        {
+            "hash": 558283290,
+            "original": "~z~Press the buzzer and we'll let you in. Have a nice day.",
+            "translated": "~z~按下门铃后我们就会让您进来。祝您生活愉快。",
+            "desc": ""
+        },
+        {
+            "hash": 561067265,
+            "original": "~z~Guy has a bodyguard, limo, everything.",
+            "translated": "~z~这人有保镖、有专车，啥都有。",
+            "desc": ""
+        },
+        {
+            "hash": 564114301,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 591786129,
+            "original": "~z~Mr. Goldberg? Is everything alright?",
+            "translated": "~z~Goldberg先生？面试还顺利吗？",
+            "desc": ""
+        },
+        {
+            "hash": 599328580,
+            "original": "~z~I can free that period up in my schedule.",
+            "translated": "~z~我会安排时间过来的。",
+            "desc": ""
+        },
+        {
+            "hash": 607529310,
+            "original": "FM2_A_RA",
+            "translated": "FM2_A_RA",
+            "desc": ""
+        },
+        {
+            "hash": 623917704,
+            "original": "FM2_BA",
+            "translated": "FM2_BA",
+            "desc": ""
+        },
+        {
+            "hash": 625270128,
+            "original": "FM2_OB",
+            "translated": "FM2_OB",
+            "desc": ""
+        },
+        {
+            "hash": 630954551,
+            "original": "~z~Maybe we can look into that after the interview.",
+            "translated": "~z~那个我们可以在面试结束后接着聊。",
+            "desc": ""
+        },
+        {
+            "hash": 631679923,
+            "original": "~z~Come into our offices at 8am tomorrow. Is that alright?",
+            "translated": "~z~明早八点来我们的事务所，可以吗？",
+            "desc": ""
+        },
+        {
+            "hash": 635246224,
+            "original": "FM2_ED",
+            "translated": "FM2_ED",
+            "desc": ""
+        },
+        {
+            "hash": 643573104,
+            "original": "~z~Go to reception please, sir.",
+            "translated": "~z~请先去前台，先生。",
+            "desc": ""
+        },
+        {
+            "hash": 681642641,
+            "original": "~z~Hey, I don't give a fuck about the life lessons, friend. What do you want?",
+            "translated": "~z~喂，我他妈不是来听取人生经验的，朋友。你想要怎样？",
+            "desc": ""
+        },
+        {
+            "hash": 683203320,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 684984151,
+            "original": "~z~Oh man...",
+            "translated": "~z~噢，老兄...",
+            "desc": ""
+        },
+        {
+            "hash": 709109407,
+            "original": "FM2_NS",
+            "translated": "FM2_NS",
+            "desc": ""
+        },
+        {
+            "hash": 746642993,
+            "original": "~z~Hello, Niko. What's that short for... Nikolai?",
+            "translated": "~z~你好，Niko。这是什么的简写吗...Nikolai？",
+            "desc": ""
+        },
+        {
+            "hash": 748409196,
+            "original": "FM2_A_BA",
+            "translated": "FM2_A_BA",
+            "desc": ""
+        },
+        {
+            "hash": 754100203,
+            "original": "~z~They leave the decay alone and soon it's too late so you have to pull the whole tooth.",
+            "translated": "~z~他们不顾腐败，之后为时已晚，就必须将腐败这颗牙连根拔起。",
+            "desc": ""
+        },
+        {
+            "hash": 765906702,
+            "original": "~z~Shit, I might as well lock you up. You'd be more useful to me on the inside.",
+            "translated": "~z~靠，我最好把你也关进去。你在里面比外面对我更有用。",
+            "desc": ""
+        },
+        {
+            "hash": 766217303,
+            "original": "FM2_DB",
+            "translated": "FM2_DB",
+            "desc": ""
+        },
+        {
+            "hash": 788833116,
+            "original": "FM2_KD",
+            "translated": "FM2_KD",
+            "desc": ""
+        },
+        {
+            "hash": 844138376,
+            "original": "FM2_A_MC",
+            "translated": "FM2_A_MC",
+            "desc": ""
+        },
+        {
+            "hash": 852549366,
+            "original": "FM2_A_BB",
+            "translated": "FM2_A_BB",
+            "desc": ""
+        },
+        {
+            "hash": 862227803,
+            "original": "500",
+            "translated": "500",
+            "desc": ""
+        },
+        {
+            "hash": 892915395,
+            "original": "~z~You're just a waste of space, aren't you?",
+            "translated": "~z~你就是个花瓶，对不对？",
+            "desc": ""
+        },
+        {
+            "hash": 917443157,
+            "original": "~z~Must have got onto me when they saw I was packing heat. Lawyers are smart.",
+            "translated": "~z~肯定是看见我带着的家伙就识破我了。律师都很聪明。",
+            "desc": ""
+        },
+        {
+            "hash": 917714701,
+            "original": "FM2_NK",
+            "translated": "FM2_NK",
+            "desc": ""
+        },
+        {
+            "hash": 924117589,
+            "original": "100100211100100010",
+            "translated": "100100211100100010",
+            "desc": ""
+        },
+        {
+            "hash": 930032931,
+            "original": "FM2_A_KA",
+            "translated": "FM2_A_KA",
+            "desc": ""
+        },
+        {
+            "hash": 931721956,
+            "original": "FM2_A_GA",
+            "translated": "FM2_A_GA",
+            "desc": ""
+        },
+        {
+            "hash": 936587128,
+            "original": "~z~Super! Your interview will be with Mr. Goldberg.",
+            "translated": "~z~很好！您的面试将由Goldberg先生负责。",
+            "desc": ""
+        },
+        {
+            "hash": 938461370,
+            "original": "FM2_VB",
+            "translated": "FM2_VB",
+            "desc": ""
+        },
+        {
+            "hash": 940505712,
+            "original": "FM2_BA",
+            "translated": "FM2_BA",
+            "desc": ""
+        },
+        {
+            "hash": 942817124,
+            "original": "~z~Let the security guard, Modupe, play with it for a while. See what happens.",
+            "translated": "~z~现在就先让保镖，Modupe，把玩会儿这玩意吧。看看会怎么样。",
+            "desc": ""
+        },
+        {
+            "hash": 943503604,
+            "original": "FM2_NL",
+            "translated": "FM2_NL",
+            "desc": ""
+        },
+        {
+            "hash": 950277479,
+            "original": "FM2_GA",
+            "translated": "FM2_GA",
+            "desc": ""
+        },
+        {
+            "hash": 959323752,
+            "original": "FM2_A_TB",
+            "translated": "FM2_A_TB",
+            "desc": ""
+        },
+        {
+            "hash": 962460350,
+            "original": "SFX_OVERLAP_500",
+            "translated": "SFX_OVERLAP_500",
+            "desc": ""
+        },
+        {
+            "hash": 982205212,
+            "original": "~z~Yeah?",
+            "translated": "~z~是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 993720673,
+            "original": "~z~Security! Security! Someone help me!",
+            "translated": "~z~保安！保安！快来人啊！",
+            "desc": ""
+        },
+        {
+            "hash": 996136741,
+            "original": "~z~I can free that period up in my schedule.",
+            "translated": "~z~我会安排时间过来的。",
+            "desc": ""
+        },
+        {
+            "hash": 1006808355,
+            "original": "FM2_RC",
+            "translated": "FM2_RC",
+            "desc": ""
+        },
+        {
+            "hash": 1012737014,
+            "original": "FM2_A_TA",
+            "translated": "FM2_A_TA",
+            "desc": ""
+        },
+        {
+            "hash": 1029664382,
+            "original": "FM2_BF",
+            "translated": "FM2_BF",
+            "desc": ""
+        },
+        {
+            "hash": 1040568867,
+            "original": "FM2_ZA",
+            "translated": "FM2_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 1041215808,
+            "original": "~z~Whoa, hey, hey. What's that, Nikolai? Shit, I've only seen those things on TV.",
+            "translated": "~z~喔，嘿，嘿。这啥玩意，Nikolai？我靠，这玩意我只在电视上见过。",
+            "desc": ""
+        },
+        {
+            "hash": 1046343804,
+            "original": "~z~Hey man, I don't think I interview too good.",
+            "translated": "~z~喂，老兄，我觉得面试情况不太好。",
+            "desc": ""
+        },
+        {
+            "hash": 1060341373,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 1068034493,
+            "original": "~z~Come in, I'll buzz you through.",
+            "translated": "~z~请进，我会帮你开门的。",
+            "desc": ""
+        },
+        {
+            "hash": 1069847223,
+            "original": "~z~Stop this. Stop it.",
+            "translated": "~z~停下，停下。",
+            "desc": ""
+        },
+        {
+            "hash": 1073877578,
+            "original": "FM2_BE",
+            "translated": "FM2_BE",
+            "desc": ""
+        },
+        {
+            "hash": 1075125045,
+            "original": "~z~Alright, I'll come out when I'm finished with this.",
+            "translated": "~z~Alright, I'll come out when I'm finished with this.",
+            "desc": ""
+        },
+        {
+            "hash": 1082388902,
+            "original": "~z~Did you order that from the serrated edge?",
+            "translated": "~z~你这刀是电视购物的？",
+            "desc": ""
+        },
+        {
+            "hash": 1083288164,
+            "original": "100100201100",
+            "translated": "100100201100",
+            "desc": ""
+        },
+        {
+            "hash": 1088838276,
+            "original": "~z~Please wait until you're called through, sir.",
+            "translated": "~z~请在叫到您的时候再来，先生。",
+            "desc": ""
+        },
+        {
+            "hash": 1113983309,
+            "original": "FM2_QC",
+            "translated": "FM2_QC",
+            "desc": ""
+        },
+        {
+            "hash": 1114807747,
+            "original": "200200200200",
+            "translated": "200200200200",
+            "desc": ""
+        },
+        {
+            "hash": 1126999148,
+            "original": "FM2_A_OB",
+            "translated": "FM2_A_OB",
+            "desc": ""
+        },
+        {
+            "hash": 1128441884,
+            "original": "~z~Baseball, the great American pastime.",
+            "translated": "~z~棒球，伟大的美国娱乐。",
+            "desc": ""
+        },
+        {
+            "hash": 1140794681,
+            "original": "FM2_A_CA",
+            "translated": "FM2_A_CA",
+            "desc": ""
+        },
+        {
+            "hash": 1142523176,
+            "original": "~z~Great, peace at last. I feel cleansed.",
+            "translated": "~z~很好，终于安宁了。感觉我受到了净化。",
+            "desc": ""
+        },
+        {
+            "hash": 1158544442,
+            "original": "~z~And it might as well be him, right. But...",
+            "translated": "~z~没的也确实有可能是他，但是...",
+            "desc": ""
+        },
+        {
+            "hash": 1158786029,
+            "original": "~z~Good morning, sir.",
+            "translated": "~z~早安，先生。",
+            "desc": ""
+        },
+        {
+            "hash": 1163059864,
+            "original": "FM2_VA",
+            "translated": "FM2_VA",
+            "desc": ""
+        },
+        {
+            "hash": 1172353208,
+            "original": "~z~Mr. McReary, they didn't let me see him.",
+            "translated": "~z~McReary先生，他们没让我见他。",
+            "desc": ""
+        },
+        {
+            "hash": 1189486034,
+            "original": "FM2_BG",
+            "translated": "FM2_BG",
+            "desc": ""
+        },
+        {
+            "hash": 1191200587,
+            "original": "~z~Some lawyer.",
+            "translated": "~z~某个律师。",
+            "desc": ""
+        },
+        {
+            "hash": 1200997594,
+            "original": "~z~That motherfucker thinks he can drag me down.",
+            "translated": "~z~那个狗逼以为他能让我下台。",
+            "desc": ""
+        },
+        {
+            "hash": 1227051544,
+            "original": "~z~Press the buzzer and we'll let you in. Have a nice day.",
+            "translated": "~z~按下门铃后我们就会让您进来。祝您生活愉快。",
+            "desc": ""
+        },
+        {
+            "hash": 1236838475,
+            "original": "~z~The person on the other end of the line is certainly keen for me to do what I came here to do.",
+            "translated": "~z~The person on the other end of the line is certainly keen for me to do what I came here to do.",
+            "desc": ""
+        },
+        {
+            "hash": 1237966418,
+            "original": "FM2_NN",
+            "translated": "FM2_NN",
+            "desc": ""
+        },
+        {
+            "hash": 1263592865,
+            "original": "~z~Whoa, is that thing real? You know, if that thing goes off we can sue the shit out of whoever sold it to you.",
+            "translated": "~z~喔，这玩意是真家伙吗？你也知道，要是它炸了，我们就能把卖你这玩意的人起诉到他亲妈都不认他。",
+            "desc": ""
+        },
+        {
+            "hash": 1275793318,
+            "original": "~z~Mr. Bellic. This is Karen from Goldberg, Ligner and Shyster.",
+            "translated": "~z~Bellic先生，我是Goldberg、Ligner和Shyster律师行的Karen。",
+            "desc": ""
+        },
+        {
+            "hash": 1276327138,
+            "original": "FM2_RA",
+            "translated": "FM2_RA",
+            "desc": ""
+        },
+        {
+            "hash": 1278201612,
+            "original": "FM2_PC",
+            "translated": "FM2_PC",
+            "desc": ""
+        },
+        {
+            "hash": 1289625141,
+            "original": "FM2_BB",
+            "translated": "FM2_BB",
+            "desc": ""
+        },
+        {
+            "hash": 1292325591,
+            "original": "FM2_PA",
+            "translated": "FM2_PA",
+            "desc": ""
+        },
+        {
+            "hash": 1300373559,
+            "original": "~z~I don't like people who cut corners, Nikolai.",
+            "translated": "~z~我不喜欢偷工减料的人，Nikolai。",
+            "desc": ""
+        },
+        {
+            "hash": 1313494499,
+            "original": "~z~slowly rotting in a hot kitchen...",
+            "translated": "~z~在闷热的厨房里缓慢腐烂、变质...",
+            "desc": ""
+        },
+        {
+            "hash": 1314098670,
+            "original": "FM2_BB",
+            "translated": "FM2_BB",
+            "desc": ""
+        },
+        {
+            "hash": 1315267058,
+            "original": "~z~I always get nervous before interviews.",
+            "translated": "~z~面试之前我总是会很紧张。",
+            "desc": ""
+        },
+        {
+            "hash": 1321259682,
+            "original": "020200020",
+            "translated": "020200020",
+            "desc": ""
+        },
+        {
+            "hash": 1363062709,
+            "original": "FM2_NE",
+            "translated": "FM2_NE",
+            "desc": ""
+        },
+        {
+            "hash": 1365975616,
+            "original": "FM2_A_JC",
+            "translated": "FM2_A_JC",
+            "desc": ""
+        },
+        {
+            "hash": 1378915555,
+            "original": "~z~A knife? You into camping or something?",
+            "translated": "~z~匕首？你喜欢露营还是什么吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1385513479,
+            "original": "200200200",
+            "translated": "200200200",
+            "desc": ""
+        },
+        {
+            "hash": 1407063049,
+            "original": "FM2_A_JA",
+            "translated": "FM2_A_JA",
+            "desc": ""
+        },
+        {
+            "hash": 1408934048,
+            "original": "FM2_BB",
+            "translated": "FM2_BB",
+            "desc": ""
+        },
+        {
+            "hash": 1411238458,
+            "original": "FM2_A_MD",
+            "translated": "FM2_A_MD",
+            "desc": ""
+        },
+        {
+            "hash": 1422993047,
+            "original": "~z~Here are the files.",
+            "translated": "~z~档案都在这儿了。",
+            "desc": ""
+        },
+        {
+            "hash": 1428943704,
+            "original": "~z~Mr. Bellic, welcome. I'll just see if Mr. Goldberg is available.",
+            "translated": "~z~Bellic先生，欢迎。我要先确认Goldberg先生是否有空。",
+            "desc": ""
+        },
+        {
+            "hash": 1431780345,
+            "original": "FM2_A_MB",
+            "translated": "FM2_A_MB",
+            "desc": ""
+        },
+        {
+            "hash": 1437224171,
+            "original": "~z~We got a softball team in the office.",
+            "translated": "~z~我们律所就有一支软式棒球队。",
+            "desc": ""
+        },
+        {
+            "hash": 1438835920,
+            "original": "~z~What?",
+            "translated": "~z~什么？",
+            "desc": ""
+        },
+        {
+            "hash": 1459741618,
+            "original": "~z~What's wrong now?",
+            "translated": "~z~又怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 1471307679,
+            "original": "040400400040400",
+            "translated": "040400400040400",
+            "desc": ""
+        },
+        {
+            "hash": 1482565708,
+            "original": "~z~We'd like to arrange an interview for you at the earliest convenience.",
+            "translated": "~z~我们打算尽快为您安排面试。",
+            "desc": ""
+        },
+        {
+            "hash": 1486342124,
+            "original": "FM2_A_LC",
+            "translated": "FM2_A_LC",
+            "desc": ""
+        },
+        {
+            "hash": 1498710759,
+            "original": "FM2_NQ",
+            "translated": "FM2_NQ",
+            "desc": ""
+        },
+        {
+            "hash": 1508848220,
+            "original": "FM2_A_JB",
+            "translated": "FM2_A_JB",
+            "desc": ""
+        },
+        {
+            "hash": 1516894344,
+            "original": "100100100010100100",
+            "translated": "100100100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 1517215299,
+            "original": "200200020200200020200200200200200200020200200200020200020",
+            "translated": "200200020200200020200200200200200200020200200200020200020",
+            "desc": ""
+        },
+        {
+            "hash": 1532615594,
+            "original": "~z~I'm coming close to getting you thrown away for good, Niko. Don't mess up again.",
+            "translated": "~z~我都想把你永远抛开了，Niko。别再搞砸了。",
+            "desc": ""
+        },
+        {
+            "hash": 1536094316,
+            "original": "~z~People don't understand how life is. Life is like a bowl of fruit...",
+            "translated": "~z~人们不知道人生是怎样的。人生就像是一碗水果...",
+            "desc": ""
+        },
+        {
+            "hash": 1538274845,
+            "original": "FM2_BE",
+            "translated": "FM2_BE",
+            "desc": ""
+        },
+        {
+            "hash": 1543023541,
+            "original": "~z~Fuck me, this guy's about to bring my whole life tumbling down and you can't even go into an interview room.",
+            "translated": "~z~我操，这人都要让我的这辈子完蛋了，你居然还连一间面试室都进不去。",
+            "desc": ""
+        },
+        {
+            "hash": 1545284512,
+            "original": "~z~It does.",
+            "translated": "~z~确实。",
+            "desc": ""
+        },
+        {
+            "hash": 1571232756,
+            "original": "200200200",
+            "translated": "200200200",
+            "desc": ""
+        },
+        {
+            "hash": 1588071089,
+            "original": "FM2_EF",
+            "translated": "FM2_EF",
+            "desc": ""
+        },
+        {
+            "hash": 1588188267,
+            "original": "FM2_EB",
+            "translated": "FM2_EB",
+            "desc": ""
+        },
+        {
+            "hash": 1604967566,
+            "original": "FM2_A_OC",
+            "translated": "FM2_A_OC",
+            "desc": ""
+        },
+        {
+            "hash": 1634405958,
+            "original": "FM2_LA_QQQ1",
+            "translated": "FM2_LA_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 1655538311,
+            "original": "FM2_A_KB",
+            "translated": "FM2_A_KB",
+            "desc": ""
+        },
+        {
+            "hash": 1686404934,
+            "original": "FM2_RD",
+            "translated": "FM2_RD",
+            "desc": ""
+        },
+        {
+            "hash": 1693456318,
+            "original": "FM2_NO",
+            "translated": "FM2_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1705187998,
+            "original": "690",
+            "translated": "690",
+            "desc": ""
+        },
+        {
+            "hash": 1715234283,
+            "original": "FM2_A_FB",
+            "translated": "FM2_A_FB",
+            "desc": ""
+        },
+        {
+            "hash": 1722781380,
+            "original": "FM2_WB",
+            "translated": "FM2_WB",
+            "desc": ""
+        },
+        {
+            "hash": 1725630212,
+            "original": "~z~Let me put it like this...",
+            "translated": "~z~那就这么说吧...",
+            "desc": ""
+        },
+        {
+            "hash": 1744915703,
+            "original": "~z~He's done.",
+            "translated": "~z~做掉了。",
+            "desc": ""
+        },
+        {
+            "hash": 1745351942,
+            "original": "~z~Of course they're smart, that's how they squeeze all your fucking money out of you.",
+            "translated": "~z~他们当然聪明，所以才他妈能从你身上把钱都给榨出来。",
+            "desc": ""
+        },
+        {
+            "hash": 1762957327,
+            "original": "~z~They ain't gonna take you seriously without one on.",
+            "translated": "~z~不穿正装他们都不会理你。",
+            "desc": ""
+        },
+        {
+            "hash": 1766098861,
+            "original": "~z~Man, you bring one of those into court and no one's going to raise any objections to your opening statement.",
+            "translated": "~z~老兄，你要是带了这玩意进法庭，你的开庭陈述绝对不会有人敢提出反对。",
+            "desc": ""
+        },
+        {
+            "hash": 1777535368,
+            "original": "~z~Oh yeah, you wish.",
+            "translated": "~z~哦，想得倒美。",
+            "desc": ""
+        },
+        {
+            "hash": 1806346090,
+            "original": "FM2_EC",
+            "translated": "FM2_EC",
+            "desc": ""
+        },
+        {
+            "hash": 1808128434,
+            "original": "~z~Gastric bypass worked out well for you I see...",
+            "translated": "~z~我看你的胃绕道减肥手术很成功嘛...",
+            "desc": ""
+        },
+        {
+            "hash": 1815348968,
+            "original": "~z~Welcome to Goldberg, Ligner and Shyster, sir.",
+            "translated": "~z~欢迎来到Goldberg、Ligner和Shyster律师行，先生。",
+            "desc": ""
+        },
+        {
+            "hash": 1855701388,
+            "original": "~z~So, are you going to expand on that or are you just going to hang around like a chump?",
+            "translated": "~z~那，你是打算就此详细论述呢，还是在这儿傻坐着？",
+            "desc": ""
+        },
+        {
+            "hash": 1864982959,
+            "original": "FM2_BA",
+            "translated": "FM2_BA",
+            "desc": ""
+        },
+        {
+            "hash": 1869430107,
+            "original": "FM2_A_RC",
+            "translated": "FM2_A_RC",
+            "desc": ""
+        },
+        {
+            "hash": 1873658967,
+            "original": "100100100",
+            "translated": "100100100",
+            "desc": ""
+        },
+        {
+            "hash": 1886873424,
+            "original": "FM2_A_GC",
+            "translated": "FM2_A_GC",
+            "desc": ""
+        },
+        {
+            "hash": 1902736896,
+            "original": "~z~What are you doing?",
+            "translated": "~z~你在干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 1906016892,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 1912099838,
+            "original": "~z~Don't you want to pick that up? This is only a job interview at one of the most respected law firms in Liberty City.",
+            "translated": "~z~Don't you want to pick that up? This is only a job interview at one of the most respected law firms in Liberty City.",
+            "desc": ""
+        },
+        {
+            "hash": 1916469120,
+            "original": "~z~Mr. Goldberg, Mr. Bellic has arrived for his interview.",
+            "translated": "~z~Goldberg先生，Bellic先生来参加面试了。",
+            "desc": ""
+        },
+        {
+            "hash": 1929976099,
+            "original": "FM2_HA",
+            "translated": "FM2_HA",
+            "desc": ""
+        },
+        {
+            "hash": 1946898553,
+            "original": "FM2_A_NC",
+            "translated": "FM2_A_NC",
+            "desc": ""
+        },
+        {
+            "hash": 1947836415,
+            "original": "~z~Good afternoon, sir.",
+            "translated": "~z~下午好，先生。",
+            "desc": ""
+        },
+        {
+            "hash": 1948609822,
+            "original": "FM2_XA",
+            "translated": "FM2_XA",
+            "desc": ""
+        },
+        {
+            "hash": 1948905002,
+            "original": "~z~Teach him for sticking his nose in other peoples' business and get the files.",
+            "translated": "~z~教会他不要多管闲事，然后拿走档案。",
+            "desc": ""
+        },
+        {
+            "hash": 1951637453,
+            "original": "FM2_KC",
+            "translated": "FM2_KC",
+            "desc": ""
+        },
+        {
+            "hash": 1959057514,
+            "original": "~z~I guess I didn't get the job.",
+            "translated": "~z~我好像面试失败了。",
+            "desc": ""
+        },
+        {
+            "hash": 1959353596,
+            "original": "~z~I'll email you the details. You're a good man, Niko Bellic. A good man.",
+            "translated": "~z~具体细节我会发到你邮箱里的。你是一个好人，Niko Bellic。一个好人。",
+            "desc": ""
+        },
+        {
+            "hash": 1960938590,
+            "original": "FM2_CC",
+            "translated": "FM2_CC",
+            "desc": ""
+        },
+        {
+            "hash": 1964070934,
+            "original": "FM2_DA",
+            "translated": "FM2_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1971378075,
+            "original": "~z~This big, white shoe firm. Thinks he's a crusader.",
+            "translated": "~z~这个穿着白鞋的大律师，以为自己是个改革者。",
+            "desc": ""
+        },
+        {
+            "hash": 1985735084,
+            "original": "~z~You silenced Goldberg too, right? I don't need to worry about him?",
+            "translated": "~z~你也让Goldberg闭嘴了，对吧？我不用再担心他了吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2003076185,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 2027648368,
+            "original": "200200020",
+            "translated": "200200020",
+            "desc": ""
+        },
+        {
+            "hash": 2047169077,
+            "original": "FM2_A_UA",
+            "translated": "FM2_A_UA",
+            "desc": ""
+        },
+        {
+            "hash": 2075766037,
+            "original": "~z~I could use a drink. You?",
+            "translated": "~z~我要喝一杯，你呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2076121464,
+            "original": "~z~Get sweaty together, build team spirit, you know.",
+            "translated": "~z~一起大汗淋漓，建立团队意识，你也懂。",
+            "desc": ""
+        },
+        {
+            "hash": 2088473217,
+            "original": "200020200",
+            "translated": "200020200",
+            "desc": ""
+        },
+        {
+            "hash": 2117078681,
+            "original": "~z~For people, read society, read City Hall. I shake them, and I say \"floss!\"",
+            "translated": "~z~所谓的人，就是社会上的、市政厅里的人。我和他们握手，然后说「牙线！」",
+            "desc": ""
+        },
+        {
+            "hash": 2117660948,
+            "original": "FM2_BE",
+            "translated": "FM2_BE",
+            "desc": ""
+        },
+        {
+            "hash": 2122543216,
+            "original": "~z~Coming from you, that means a lot.",
+            "translated": "~z~你嘴里的好人，我真荣幸。",
+            "desc": ""
+        },
+        {
+            "hash": 2139209003,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 2168979759,
+            "original": "FM2_A_QA",
+            "translated": "FM2_A_QA",
+            "desc": ""
+        },
+        {
+            "hash": 2174810722,
+            "original": "100100100010100100",
+            "translated": "100100100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2175791433,
+            "original": "200200200200",
+            "translated": "200200200200",
+            "desc": ""
+        },
+        {
+            "hash": 2182540626,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2187298542,
+            "original": "FM2_SC",
+            "translated": "FM2_SC",
+            "desc": ""
+        },
+        {
+            "hash": 2205873923,
+            "original": "~z~I'll talk to him later. I expect that he would prefer me to do what I'm here to do before we speak anyway.",
+            "translated": "~z~I'll talk to him later. I expect that he would prefer me to do what I'm here to do before we speak anyway.",
+            "desc": ""
+        },
+        {
+            "hash": 2207013426,
+            "original": "200200200",
+            "translated": "200200200",
+            "desc": ""
+        },
+        {
+            "hash": 2217119103,
+            "original": "~z~Great, follow me through to my office.",
+            "translated": "~z~Great, follow me through to my office.",
+            "desc": ""
+        },
+        {
+            "hash": 2222264004,
+            "original": "~z~I have an interview with Goldberg tomorrow.",
+            "translated": "~z~明天我要去找Goldberg面试。",
+            "desc": ""
+        },
+        {
+            "hash": 2236509488,
+            "original": "FM2_A_HC",
+            "translated": "FM2_A_HC",
+            "desc": ""
+        },
+        {
+            "hash": 2241047715,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 2247855657,
+            "original": "~z~-Oh, okay. Have a nice day.~n~-Get the fuck off me.",
+            "translated": "~z~－噢，好吧，祝你今天愉快。~n~－他妈放开我。",
+            "desc": ""
+        },
+        {
+            "hash": 2252485064,
+            "original": "~z~You do.",
+            "translated": "~z~你是这样做的。",
+            "desc": ""
+        },
+        {
+            "hash": 2265031340,
+            "original": "FM2_BA",
+            "translated": "FM2_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2273809527,
+            "original": "FM2_BC",
+            "translated": "FM2_BC",
+            "desc": ""
+        },
+        {
+            "hash": 2286280336,
+            "original": "~z~So, you're the sort of man who doesn't wait to get told what to do?",
+            "translated": "~z~你是那种主动做事的人吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2297955673,
+            "original": "~z~But, uh... get yourself a suit.",
+            "translated": "~z~不过，呃...你得穿正装去。",
+            "desc": ""
+        },
+        {
+            "hash": 2303364702,
+            "original": "FM2_A_JD",
+            "translated": "FM2_A_JD",
+            "desc": ""
+        },
+        {
+            "hash": 2315280949,
+            "original": "FM2_EA",
+            "translated": "FM2_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2318785309,
+            "original": "FM2_KE",
+            "translated": "FM2_KE",
+            "desc": ""
+        },
+        {
+            "hash": 2319143549,
+            "original": "200200",
+            "translated": "200200",
+            "desc": ""
+        },
+        {
+            "hash": 2332257040,
+            "original": "FM2_TA",
+            "translated": "FM2_TA",
+            "desc": ""
+        },
+        {
+            "hash": 2343652231,
+            "original": "~z~Ow, I should have stayed at the DA's office...",
+            "translated": "~z~唉，就该呆在地方检察官的办公室的...",
+            "desc": ""
+        },
+        {
+            "hash": 2345178245,
+            "original": "~z~Music to my ears, a weight has been lifted. Here's your payment.",
+            "translated": "~z~天籁之音啊，解了我的一个心头大患。这是你的报酬。",
+            "desc": ""
+        },
+        {
+            "hash": 2347149830,
+            "original": "~z~Get rid of the rotting flesh stuck in your teeth. Prevent decay! Mouthwash, you hear me?",
+            "translated": "~z~剔掉你牙缝中的烂肉吧。防止腐败！漱口，听见了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2349680451,
+            "original": "FM2_AA",
+            "translated": "FM2_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2392530780,
+            "original": "~z~Heya, Chief.",
+            "translated": "~z~早啊，长官。",
+            "desc": ""
+        },
+        {
+            "hash": 2434813955,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 2435771410,
+            "original": "FM2_EE",
+            "translated": "FM2_EE",
+            "desc": ""
+        },
+        {
+            "hash": 2438870360,
+            "original": "~z~Nikolai, I like your resume. You seem to be the sort of man who would go the extra distance,",
+            "translated": "~z~Nikolai，我喜欢你的简历。你似乎是那种多方面发展的人。",
+            "desc": ""
+        },
+        {
+            "hash": 2446838491,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2453121609,
+            "original": "~z~Perfect, the smug bastard ain't gonna know what's coming at him.",
+            "translated": "~z~完美，那个自大混蛋不会知道找上他的是什么的。",
+            "desc": ""
+        },
+        {
+            "hash": 2460193090,
+            "original": "FM2_A_SA",
+            "translated": "FM2_A_SA",
+            "desc": ""
+        },
+        {
+            "hash": 2466538321,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2467997384,
+            "original": "FM2_NH",
+            "translated": "FM2_NH",
+            "desc": ""
+        },
+        {
+            "hash": 2474353065,
+            "original": "FM2_BD",
+            "translated": "FM2_BD",
+            "desc": ""
+        },
+        {
+            "hash": 2475530685,
+            "original": "FM2_BE",
+            "translated": "FM2_BE",
+            "desc": ""
+        },
+        {
+            "hash": 2477673632,
+            "original": "~z~I work alone.",
+            "translated": "~z~我自己单干。",
+            "desc": ""
+        },
+        {
+            "hash": 2483309981,
+            "original": "~z~Please wait here for Mr. Goldberg.",
+            "translated": "~z~Please wait here for Mr. Goldberg.",
+            "desc": ""
+        },
+        {
+            "hash": 2488275804,
+            "original": "FM2_QA",
+            "translated": "FM2_QA",
+            "desc": ""
+        },
+        {
+            "hash": 2498322292,
+            "original": "~z~Yeah thanks. I'll tell my therapist about you...",
+            "translated": "~z~确实，谢了。我会跟我的医生讲你的事的...",
+            "desc": ""
+        },
+        {
+            "hash": 2499725549,
+            "original": "~z~Where are the files for your case against McReary?",
+            "translated": "~z~你起诉McReary用的案件档案呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2501509862,
+            "original": "~z~You can't go through there, sir.",
+            "translated": "~z~您不能通过这里，先生。",
+            "desc": ""
+        },
+        {
+            "hash": 2504137361,
+            "original": "~z~Alright then, let's continue.",
+            "translated": "~z~Alright then, let's continue.",
+            "desc": ""
+        },
+        {
+            "hash": 2517989935,
+            "original": "~z~A guy who looks at the world, sees problems and tries to fix them?",
+            "translated": "~z~放眼世界，发现问题，尝试解决的那种人？",
+            "desc": ""
+        },
+        {
+            "hash": 2520696333,
+            "original": "120",
+            "translated": "120",
+            "desc": ""
+        },
+        {
+            "hash": 2522347261,
+            "original": "200200",
+            "translated": "200200",
+            "desc": ""
+        },
+        {
+            "hash": 2533516072,
+            "original": "~z~Am I right? Am I right? I'm not wrong.",
+            "translated": "~z~对不对？对不对？我没说错。",
+            "desc": ""
+        },
+        {
+            "hash": 2550351071,
+            "original": "~z~Not many people are willing to give an immigrant a chance in this city.",
+            "translated": "~z~Not many people are willing to give an immigrant a chance in this city.",
+            "desc": ""
+        },
+        {
+            "hash": 2553901504,
+            "original": "SFX_OVERLAP_500",
+            "translated": "SFX_OVERLAP_500",
+            "desc": ""
+        },
+        {
+            "hash": 2567675568,
+            "original": "~z~and then jacks off on his wife's face. Some...",
+            "translated": "~z~然后手冲冲到他老婆脸上...",
+            "desc": ""
+        },
+        {
+            "hash": 2585832423,
+            "original": "200200200020200",
+            "translated": "200200200020200",
+            "desc": ""
+        },
+        {
+            "hash": 2594598554,
+            "original": "~z~I'm a good guy! I...",
+            "translated": "~z~我是一个好人！我...",
+            "desc": ""
+        },
+        {
+            "hash": 2608615938,
+            "original": "~z~Mr. Bellic, welcome. I'll just see if Mr. Goldberg is available.",
+            "translated": "~z~Bellic先生，欢迎。我要看一下Goldberg先生是否有空。",
+            "desc": ""
+        },
+        {
+            "hash": 2608823524,
+            "original": "~z~And remember to wear a suit.",
+            "translated": "~z~别忘了穿正装。",
+            "desc": ""
+        },
+        {
+            "hash": 2611007829,
+            "original": "FM2_SA",
+            "translated": "FM2_SA",
+            "desc": ""
+        },
+        {
+            "hash": 2621216348,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 2630728641,
+            "original": "~z~Hey Mitch... looking good.",
+            "translated": "~z~嘿，Mitch...气色不错啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2633690650,
+            "original": "~z~I just wanted to make the world into a better place.",
+            "translated": "~z~我只是想让社会变得更好。",
+            "desc": ""
+        },
+        {
+            "hash": 2635940909,
+            "original": "010010100100",
+            "translated": "010010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2636498898,
+            "original": "~z~Mr. Goldberg is such a saint. He teaches kids to swim, you know?",
+            "translated": "~z~Goldberg简直是个圣人，他还教小孩子们游泳，你知道吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2639550555,
+            "original": "~z~Super! Your interview will be with Mr. Goldberg.",
+            "translated": "~z~很好！您的面试将由Goldberg先生负责。",
+            "desc": ""
+        },
+        {
+            "hash": 2654171656,
+            "original": "~z~tell her my boss keeps sexually harassing me.",
+            "translated": "~z~跟她讲我上司一直在性骚扰我。",
+            "desc": ""
+        },
+        {
+            "hash": 2657841820,
+            "original": "FM2_KB",
+            "translated": "FM2_KB",
+            "desc": ""
+        },
+        {
+            "hash": 2658010603,
+            "original": "~z~Would you please follow me, Mr. Bellic?",
+            "translated": "~z~能否请您跟我来呢，Bellic先生？",
+            "desc": ""
+        },
+        {
+            "hash": 2678539392,
+            "original": "~z~I'm looking for a man who can get jobs done right.",
+            "translated": "~z~我在找一个工作能力强的人。",
+            "desc": ""
+        },
+        {
+            "hash": 2686227045,
+            "original": "~z~Nikolai, this city needs me. Don't kill me.",
+            "translated": "~z~Nikolai，这座城市需要我。别杀我。",
+            "desc": ""
+        },
+        {
+            "hash": 2700821532,
+            "original": "~z~You're undercover. As in deep.",
+            "translated": "~z~你是一名卧底，深藏不露。",
+            "desc": ""
+        },
+        {
+            "hash": 2708793389,
+            "original": "~z~Anyway, gimme an example of some time where you've worked as part of a team.",
+            "translated": "~z~总之，请给我一个你参与团队协作的例子。",
+            "desc": ""
+        },
+        {
+            "hash": 2729392327,
+            "original": "~z~Okay.",
+            "translated": "~z~好的。",
+            "desc": ""
+        },
+        {
+            "hash": 2741678958,
+            "original": "~z~Some morality cunt who takes photos of guys in the shower at the gym",
+            "translated": "~z~这个道德逼，整天在健身房的浴室里拍别人照片，",
+            "desc": ""
+        },
+        {
+            "hash": 2768150749,
+            "original": "100100100010100100",
+            "translated": "100100100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2777824577,
+            "original": "~z~They're almost legally bound to interview you.",
+            "translated": "~z~他们受法律约束，必须要面试你。",
+            "desc": ""
+        },
+        {
+            "hash": 2783305892,
+            "original": "~z~That your family? I bet they're anxious for this to be a success.",
+            "translated": "~z~That your family? I bet they're anxious for this to be a success.",
+            "desc": ""
+        },
+        {
+            "hash": 2791207732,
+            "original": "FM2_NB",
+            "translated": "FM2_NB",
+            "desc": ""
+        },
+        {
+            "hash": 2796340456,
+            "original": "~z~Come into our offices at 6pm tomorrow. Is that alright?",
+            "translated": "~z~明晚六点来我们的事务所，可以吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2822691842,
+            "original": "FM2_BB",
+            "translated": "FM2_BB",
+            "desc": ""
+        },
+        {
+            "hash": 2835985047,
+            "original": "~z~I just need to take another look, get myself reacquainted with your experience.",
+            "translated": "~z~我只是要再看一看，好好了解一下你的经历。",
+            "desc": ""
+        },
+        {
+            "hash": 2840577212,
+            "original": "~z~An interview?",
+            "translated": "~z~面试？",
+            "desc": ""
+        },
+        {
+            "hash": 2846453564,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2865098901,
+            "original": "~z~Sure.",
+            "translated": "~z~当然。",
+            "desc": ""
+        },
+        {
+            "hash": 2870438090,
+            "original": "~z~a man who's struggled.",
+            "translated": "~z~a man who's struggled.",
+            "desc": ""
+        },
+        {
+            "hash": 2882818362,
+            "original": "FM2_BH",
+            "translated": "FM2_BH",
+            "desc": ""
+        },
+        {
+            "hash": 2890548525,
+            "original": "~z~Sorry.",
+            "translated": "~z~抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 2900716791,
+            "original": "~z~Argh. Get outta here!",
+            "translated": "~z~啊，给我滚出去！",
+            "desc": ""
+        },
+        {
+            "hash": 2926639764,
+            "original": "~z~Press the buzzer and we'll let you in. Have a nice day.",
+            "translated": "~z~按下门铃后我们就会让您进来。祝您生活愉快。",
+            "desc": ""
+        },
+        {
+            "hash": 2933895147,
+            "original": "~z~I'm an important person, don't hurt me, Nikolai.",
+            "translated": "~z~我是重要人物，不要伤害我，Nikolai。",
+            "desc": ""
+        },
+        {
+            "hash": 2964915893,
+            "original": "~z~Here at G, L and S we're pushing things to the limit. We're on the front-line young man.",
+            "translated": "~z~在我们GLS律所，要做的是挑战极限。我们冲在前线，年轻人。",
+            "desc": ""
+        },
+        {
+            "hash": 2965840282,
+            "original": "FM2_WA",
+            "translated": "FM2_WA",
+            "desc": ""
+        },
+        {
+            "hash": 2967296561,
+            "original": "FM2_A_PA",
+            "translated": "FM2_A_PA",
+            "desc": ""
+        },
+        {
+            "hash": 2978182463,
+            "original": "~z~I'm the guy who goes around shaking people.",
+            "translated": "~z~我就是到处奔走和人握手的人。",
+            "desc": ""
+        },
+        {
+            "hash": 2987939525,
+            "original": "~z~Super! Your interview will be with Mr. Goldberg.",
+            "translated": "~z~很好！您的面试将由Goldberg先生负责。",
+            "desc": ""
+        },
+        {
+            "hash": 2994182653,
+            "original": "200200200",
+            "translated": "200200200",
+            "desc": ""
+        },
+        {
+            "hash": 2999035474,
+            "original": "~z~You didn't see anything, okay?",
+            "translated": "~z~你什么都没看见，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3001379580,
+            "original": "~z~When I take a job, I see it through to the end.",
+            "translated": "~z~When I take a job, I see it through to the end.",
+            "desc": ""
+        },
+        {
+            "hash": 3013838073,
+            "original": "~z~I can free that period up in my schedule.",
+            "translated": "~z~我会安排时间过来的。",
+            "desc": ""
+        },
+        {
+            "hash": 3023167720,
+            "original": "FM2_A_DA",
+            "translated": "FM2_A_DA",
+            "desc": ""
+        },
+        {
+            "hash": 3036438919,
+            "original": "~z~I can free that period up in my schedule.",
+            "translated": "~z~我会安排时间过来的。",
+            "desc": ""
+        },
+        {
+            "hash": 3048116911,
+            "original": "FM2_A_IA",
+            "translated": "FM2_A_IA",
+            "desc": ""
+        },
+        {
+            "hash": 3059406785,
+            "original": "FM2_A_LA",
+            "translated": "FM2_A_LA",
+            "desc": ""
+        },
+        {
+            "hash": 3070386209,
+            "original": "~z~Sure, it'll be easy. You're an immigrant.",
+            "translated": "~z~对，很简单的。你可是个移民。",
+            "desc": ""
+        },
+        {
+            "hash": 3098473359,
+            "original": "~z~-Get off me.~n~-Get in there. Stop with this okay?",
+            "translated": "~z~－放开我。~n~－进来，别折腾了好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3137558126,
+            "original": "~z~Super! Your interview will be with Mr. Goldberg.",
+            "translated": "~z~很好！您的面试将由Goldberg先生负责。",
+            "desc": ""
+        },
+        {
+            "hash": 3146900585,
+            "original": "FM2_BI",
+            "translated": "FM2_BI",
+            "desc": ""
+        },
+        {
+            "hash": 3174441694,
+            "original": "FM2_A_IB",
+            "translated": "FM2_A_IB",
+            "desc": ""
+        },
+        {
+            "hash": 3205799399,
+            "original": "FM2_JA",
+            "translated": "FM2_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3206460394,
+            "original": "~z~Sure?",
+            "translated": "~z~真不要？",
+            "desc": ""
+        },
+        {
+            "hash": 3210585086,
+            "original": "~z~Ok.",
+            "translated": "~z~能懂。",
+            "desc": ""
+        },
+        {
+            "hash": 3226963513,
+            "original": "~z~And boy, are you in trouble if you get in his way.",
+            "translated": "~z~而且，小伙子，要是你跟他对着干，那你就有麻烦了。",
+            "desc": ""
+        },
+        {
+            "hash": 3243709918,
+            "original": "~z~I'm not going to fight you.",
+            "translated": "~z~我不会跟你打架的。",
+            "desc": ""
+        },
+        {
+            "hash": 3248589080,
+            "original": "~z~Mr. Bellic, you're gonna have to sit down.",
+            "translated": "~z~Bellic先生，麻烦你坐下。",
+            "desc": ""
+        },
+        {
+            "hash": 3250705109,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 3277398127,
+            "original": "SFX_OVERLAP_500",
+            "translated": "SFX_OVERLAP_500",
+            "desc": ""
+        },
+        {
+            "hash": 3277428663,
+            "original": "FM2_BD",
+            "translated": "FM2_BD",
+            "desc": ""
+        },
+        {
+            "hash": 3284752830,
+            "original": "~z~Nikolai, this isn't right. I'm helping people.",
+            "translated": "~z~Nikolai，这样是不对的。我是在帮助大众。",
+            "desc": ""
+        },
+        {
+            "hash": 3292824801,
+            "original": "~z~You don't need to spark that bad boy up every time you need to get in the zone. No sir!",
+            "translated": "~z~没必要每次进入状态都得点着那个坏家伙。没必要的，先生！",
+            "desc": ""
+        },
+        {
+            "hash": 3301621171,
+            "original": "290290290",
+            "translated": "290290290",
+            "desc": ""
+        },
+        {
+            "hash": 3304150633,
+            "original": "FM2_LA",
+            "translated": "FM2_LA",
+            "desc": ""
+        },
+        {
+            "hash": 3318061645,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 3318943179,
+            "original": "~z~Come on Jimmy, let's go to my office.",
+            "translated": "~z~走吧Jimmy，到我的办公室去。",
+            "desc": ""
+        },
+        {
+            "hash": 3334371861,
+            "original": "~z~Hey, enough. Enough.",
+            "translated": "~z~嘿，够了，够了。",
+            "desc": ""
+        },
+        {
+            "hash": 3351773732,
+            "original": "~z~I can free that period up in my schedule.",
+            "translated": "~z~我会安排时间过来的。",
+            "desc": ""
+        },
+        {
+            "hash": 3366343645,
+            "original": "FM2_A_EA",
+            "translated": "FM2_A_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3367232231,
+            "original": "FM2_EB",
+            "translated": "FM2_EB",
+            "desc": ""
+        },
+        {
+            "hash": 3367367123,
+            "original": "~z~Press the buzzer and we'll let you in. Have a nice day.",
+            "translated": "~z~按下门铃后我们就会让您进来。祝您生活愉快。",
+            "desc": ""
+        },
+        {
+            "hash": 3406007252,
+            "original": "FM2_BF",
+            "translated": "FM2_BF",
+            "desc": ""
+        },
+        {
+            "hash": 3406734247,
+            "original": "~z~He's just so warm and giving. All he cares about is making the world a better place.",
+            "translated": "~z~他很热情，具有奉献精神。所关心的只有让世界更美好。",
+            "desc": ""
+        },
+        {
+            "hash": 3428813655,
+            "original": "~z~Press the buzzer and we'll let you in. Have a nice day.",
+            "translated": "~z~按下门铃后我们就会让您进来。祝您生活愉快。",
+            "desc": ""
+        },
+        {
+            "hash": 3431086059,
+            "original": "~z~Shit, they're on my desk. I never hurt anyone.",
+            "translated": "~z~操，就在我桌上。我从没伤害过任何人。",
+            "desc": ""
+        },
+        {
+            "hash": 3435409280,
+            "original": "FM2_BB",
+            "translated": "FM2_BB",
+            "desc": ""
+        },
+        {
+            "hash": 3444715044,
+            "original": "FM2_BF",
+            "translated": "FM2_BF",
+            "desc": ""
+        },
+        {
+            "hash": 3447949548,
+            "original": "FM2_A_NB",
+            "translated": "FM2_A_NB",
+            "desc": ""
+        },
+        {
+            "hash": 3459092091,
+            "original": "~z~Not in the showers, a job interview.",
+            "translated": "~z~不是在浴室里，是面试的时候。",
+            "desc": ""
+        },
+        {
+            "hash": 3484070533,
+            "original": "~z~Get off me. Get off me.",
+            "translated": "~z~放过我吧，放过我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3492089062,
+            "original": "~z~Thinks he's got something on me.",
+            "translated": "~z~他可能有我的什么黑料。",
+            "desc": ""
+        },
+        {
+            "hash": 3501043311,
+            "original": "FM2_OC",
+            "translated": "FM2_OC",
+            "desc": ""
+        },
+        {
+            "hash": 3501615384,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3507111565,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 3508530539,
+            "original": "011101",
+            "translated": "011101",
+            "desc": ""
+        },
+        {
+            "hash": 3530105130,
+            "original": "~z~Have you got A.D.D., is that the problem? We can get you a mild amphetamine to level you out, if you need it.",
+            "translated": "~z~你是有注意力缺陷症吗？是这毛病吗？如果你有需要，我们可以给你配备低浓度安非他命。",
+            "desc": ""
+        },
+        {
+            "hash": 3538600839,
+            "original": "~z~We'd like to arrange an interview for you at the earliest convenience.",
+            "translated": "~z~我们打算尽快为您安排面试。",
+            "desc": ""
+        },
+        {
+            "hash": 3562057724,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 3569405656,
+            "original": "FM2_NA",
+            "translated": "FM2_NA",
+            "desc": ""
+        },
+        {
+            "hash": 3571982681,
+            "original": "FM2_BA",
+            "translated": "FM2_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3572083704,
+            "original": "~z~Jimmy?",
+            "translated": "~z~Jimmy？",
+            "desc": ""
+        },
+        {
+            "hash": 3577435016,
+            "original": "FM2_CA",
+            "translated": "FM2_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3578204793,
+            "original": "FM2_A_LB",
+            "translated": "FM2_A_LB",
+            "desc": ""
+        },
+        {
+            "hash": 3585111805,
+            "original": "FM2_NM",
+            "translated": "FM2_NM",
+            "desc": ""
+        },
+        {
+            "hash": 3592542782,
+            "original": "FM2_FA",
+            "translated": "FM2_FA",
+            "desc": ""
+        },
+        {
+            "hash": 3598012973,
+            "original": "~z~You gotta fight for what is just in this world.",
+            "translated": "~z~你一定要为世间的正义而战。",
+            "desc": ""
+        },
+        {
+            "hash": 3601085390,
+            "original": "FM2_NC",
+            "translated": "FM2_NC",
+            "desc": ""
+        },
+        {
+            "hash": 3605852072,
+            "original": "~z~Guns don't kill people, video games do.",
+            "translated": "~z~枪支不会杀人，电子游戏才会。",
+            "desc": ""
+        },
+        {
+            "hash": 3612834994,
+            "original": "~z~I'm the guy who goes around shaking people. When I say people, I mean society.",
+            "translated": "~z~我就是到处奔走和人握手的人。所谓的人，就是社会上的人。",
+            "desc": ""
+        },
+        {
+            "hash": 3614259713,
+            "original": "FM2_QB",
+            "translated": "FM2_QB",
+            "desc": ""
+        },
+        {
+            "hash": 3642162878,
+            "original": "FM2_NP",
+            "translated": "FM2_NP",
+            "desc": ""
+        },
+        {
+            "hash": 3648635643,
+            "original": "FM2_BF",
+            "translated": "FM2_BF",
+            "desc": ""
+        },
+        {
+            "hash": 3662008212,
+            "original": "~z~Ok, I'll bring him through to the waiting area.",
+            "translated": "~z~Ok, I'll bring him through to the waiting area.",
+            "desc": ""
+        },
+        {
+            "hash": 3670276601,
+            "original": "~z~You're standing, that's a power play, I like it.",
+            "translated": "~z~你站起来了，这是能力的展现，我喜欢。",
+            "desc": ""
+        },
+        {
+            "hash": 3671179923,
+            "original": "FM2_BJ",
+            "translated": "FM2_BJ",
+            "desc": ""
+        },
+        {
+            "hash": 3677161609,
+            "original": "~z~You don't have to do this, Nikolai.",
+            "translated": "~z~你没必要这么做的，Nikolai。",
+            "desc": ""
+        },
+        {
+            "hash": 3679135926,
+            "original": "~z~Then you can steal some files I need.",
+            "translated": "~z~然后你就可以偷走一些我需要的档案。",
+            "desc": ""
+        },
+        {
+            "hash": 3680119112,
+            "original": "~z~Come into our offices at noon tomorrow. Is that alright?",
+            "translated": "~z~明天中午来我们的事务所，可以吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3688012939,
+            "original": "FM2_A_HA",
+            "translated": "FM2_A_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3698266511,
+            "original": "~z~You need to go to reception, sir.",
+            "translated": "~z~您需要去前台，先生。",
+            "desc": ""
+        },
+        {
+            "hash": 3708692152,
+            "original": "~z~Look... the guy's name is Tom Goldberg.",
+            "translated": "~z~听着...这个人名叫Tom Goldberg。",
+            "desc": ""
+        },
+        {
+            "hash": 3712164761,
+            "original": "200200200200",
+            "translated": "200200200200",
+            "desc": ""
+        },
+        {
+            "hash": 3717403889,
+            "original": "~z~I've sent off the application. I've always wanted to be a lawyer.",
+            "translated": "~z~应聘申请我已经提交了，我一直很想做个律师。",
+            "desc": ""
+        },
+        {
+            "hash": 3733031995,
+            "original": "FM2_NR",
+            "translated": "FM2_NR",
+            "desc": ""
+        },
+        {
+            "hash": 3736805833,
+            "original": "~z~You gotta say something. You can't just do nothing and waste both our time.",
+            "translated": "~z~你得说点什么，别傻坐着浪费大家的时间。",
+            "desc": ""
+        },
+        {
+            "hash": 3737345133,
+            "original": "~z~I wouldn't be here if you'd never hurt anyone.",
+            "translated": "~z~要是你没伤害过任何人，我就不会在这儿了。",
+            "desc": ""
+        },
+        {
+            "hash": 3776401647,
+            "original": "~z~How'd the interview go? Is it done?",
+            "translated": "~z~面试怎么样？搞定了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3785836232,
+            "original": "FM2_SD",
+            "translated": "FM2_SD",
+            "desc": ""
+        },
+        {
+            "hash": 3787717844,
+            "original": "~z~if a guy makes a mistake, should that ruin his life?",
+            "translated": "~z~如果一个人犯了一次错误，他就该为此毁了一生吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3800285535,
+            "original": "~z~If it helps you concentrate though, hell, keep it going.",
+            "translated": "~z~如果它能提升你的专注力的话，靠，就接着来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3808992902,
+            "original": "~z~He's wasting my time. And while you're at it, take a look in the can, will ya? I think I blocked it up pretty good.",
+            "translated": "~z~他是在浪费我的时间。还有，你出去的时候顺便看一下厕所行吧？好像被我弄堵塞了。",
+            "desc": ""
+        },
+        {
+            "hash": 3815142434,
+            "original": "FM2_A_TC",
+            "translated": "FM2_A_TC",
+            "desc": ""
+        },
+        {
+            "hash": 3817119484,
+            "original": "200200",
+            "translated": "200200",
+            "desc": ""
+        },
+        {
+            "hash": 3817244891,
+            "original": "~z~Strong move though, I gotta say, like that style. I'm all about the Second Amendment.",
+            "translated": "~z~但还是很有力的举措，不得不说，我还是喜欢这风格的。我很赞成第二修正案的。",
+            "desc": ""
+        },
+        {
+            "hash": 3821941289,
+            "original": "FM2_A_NA",
+            "translated": "FM2_A_NA",
+            "desc": ""
+        },
+        {
+            "hash": 3826699778,
+            "original": "~z~Is there a problem, why aren't you sitting?",
+            "translated": "~z~什么情况，你站起来干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 3838076730,
+            "original": "~z~Come into our offices at noon today. Is that alright?",
+            "translated": "~z~今天中午来我们的事务所，可以吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3846379657,
+            "original": "~z~I shake them and I say \"floss!\" Get rid of the decay.",
+            "translated": "~z~我和他们握手，然后说「牙线！」除掉腐败吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3873202560,
+            "original": "FM2_OA",
+            "translated": "FM2_OA",
+            "desc": ""
+        },
+        {
+            "hash": 3892341513,
+            "original": "~z~Would you please follow me, Mr. Bellic?",
+            "translated": "~z~能否请您跟我来呢，Bellic先生？",
+            "desc": ""
+        },
+        {
+            "hash": 3902942955,
+            "original": "FM2_A_RB",
+            "translated": "FM2_A_RB",
+            "desc": ""
+        },
+        {
+            "hash": 3914548538,
+            "original": "~z~We'd like to arrange an interview for you at the earliest convenience.",
+            "translated": "~z~我们打算尽快为您安排面试。",
+            "desc": ""
+        },
+        {
+            "hash": 3921054515,
+            "original": "FM2_PB",
+            "translated": "FM2_PB",
+            "desc": ""
+        },
+        {
+            "hash": 3933239843,
+            "original": "~z~A man I was recently with in this office, in this very room, was murdered.",
+            "translated": "~z~最近有个在这个律所、在这个房间和我共事过的人，被谋杀了。",
+            "desc": ""
+        },
+        {
+            "hash": 3934099988,
+            "original": "~z~Do you think he'll like me?",
+            "translated": "~z~你觉得他会喜欢我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3936095876,
+            "original": "~z~I want to make a difference.",
+            "translated": "~z~我想要有所作为。",
+            "desc": ""
+        },
+        {
+            "hash": 3953999645,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3995573282,
+            "original": "~z~Mr. Bellic. This is Karen from Goldberg, Ligner and Shyster.",
+            "translated": "~z~Bellic先生，我是Goldberg、Ligner和Shyster律师行的Karen。",
+            "desc": ""
+        },
+        {
+            "hash": 3999119095,
+            "original": "FM2_VC",
+            "translated": "FM2_VC",
+            "desc": ""
+        },
+        {
+            "hash": 4009031223,
+            "original": "FM2_EA",
+            "translated": "FM2_EA",
+            "desc": ""
+        },
+        {
+            "hash": 4013437767,
+            "original": "100100100010100100",
+            "translated": "100100100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 4017167209,
+            "original": "FM2_IA",
+            "translated": "FM2_IA",
+            "desc": ""
+        },
+        {
+            "hash": 4017225539,
+            "original": "FM2_AB",
+            "translated": "FM2_AB",
+            "desc": ""
+        },
+        {
+            "hash": 4020915184,
+            "original": "~z~Okay.",
+            "translated": "~z~好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4021375362,
+            "original": "~z~You're gonna need to get one on one with him.",
+            "translated": "~z~你得找机会跟他一对一独处。",
+            "desc": ""
+        },
+        {
+            "hash": 4054573886,
+            "original": "FM2_BF",
+            "translated": "FM2_BF",
+            "desc": ""
+        },
+        {
+            "hash": 4055180257,
+            "original": "~z~I was never here. You understand?",
+            "translated": "~z~我从没来过，听懂了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4055672135,
+            "original": "~z~We're lawyers, we don't need guns.",
+            "translated": "~z~我们是律师，我们用不到枪。",
+            "desc": ""
+        },
+        {
+            "hash": 4056038393,
+            "original": "~z~Modupe! Modupe, get in here! Would you remove this gentleman from the building?",
+            "translated": "~z~Modupe！Modupe，进来！你能把这位先生从楼里赶出去吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4066732703,
+            "original": "~z~Can you take seat, Mr. Bellic?",
+            "translated": "~z~你能坐下吗，Bellic先生？",
+            "desc": ""
+        },
+        {
+            "hash": 4072731714,
+            "original": "~z~I'm doing it now. Be patient.",
+            "translated": "~z~I'm doing it now. Be patient.",
+            "desc": ""
+        },
+        {
+            "hash": 4078414377,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 4113028536,
+            "original": "010090100100",
+            "translated": "010090100100",
+            "desc": ""
+        },
+        {
+            "hash": 4117209215,
+            "original": "~z~No.",
+            "translated": "~z~不了。",
+            "desc": ""
+        },
+        {
+            "hash": 4128815668,
+            "original": "~z~There's this cop. Good cop, but he thinks he's above the law. He's not.",
+            "translated": "~z~其中就有这个警官。好警官，不过他觉得自己凌驾于法律之上，但他不能。",
+            "desc": ""
+        },
+        {
+            "hash": 4141998167,
+            "original": "~z~Mr. Bellic. This is Karen from Goldberg, Ligner and Shyster.",
+            "translated": "~z~Bellic先生，我是Goldberg、Ligner和Shyster律师行的Karen。",
+            "desc": ""
+        },
+        {
+            "hash": 4148457645,
+            "original": "~z~Hey uh, Jimmy, how you doing?",
+            "translated": "~z~嘿，呃，Jimmy，你好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4149335111,
+            "original": "FM2_VE",
+            "translated": "FM2_VE",
+            "desc": ""
+        },
+        {
+            "hash": 4154201210,
+            "original": "~z~I'm gonna crush him into dust.",
+            "translated": "~z~我会把他彻底碾碎。",
+            "desc": ""
+        },
+        {
+            "hash": 4168591931,
+            "original": "~z~he's got it all wrong... but one stain on my character and I'm finished.",
+            "translated": "~z~他完全就搞错了...但只要我身上有一个污点，我就完了。",
+            "desc": ""
+        },
+        {
+            "hash": 4169710099,
+            "original": "~z~Ok, great, uh, tell him to come through to my office.",
+            "translated": "~z~行，那好，叫他来我办公室吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4173131217,
+            "original": "~z~Whoa, I don't know what the policy is where you're from, Nikolai, but this is a non-smoking office.",
+            "translated": "~z~喔，我不知道你老家的政策，Nikolai，但这个办公室禁烟。",
+            "desc": ""
+        },
+        {
+            "hash": 4176610436,
+            "original": "FM2_A_MA",
+            "translated": "FM2_A_MA",
+            "desc": ""
+        },
+        {
+            "hash": 4188254840,
+            "original": "FM2_A_AA",
+            "translated": "FM2_A_AA",
+            "desc": ""
+        },
+        {
+            "hash": 4194601470,
+            "original": "FM2_YC",
+            "translated": "FM2_YC",
+            "desc": ""
+        },
+        {
+            "hash": 4196063368,
+            "original": "~z~Damn these quotas. You end up with every dumb immigrant in the city coming in for interviews.",
+            "translated": "~z~妈的狗屁指标。每个来面试的移民到最后都是哑巴白痴。",
+            "desc": ""
+        },
+        {
+            "hash": 4197764660,
+            "original": "~z~Call when you hear about the interview.",
+            "translated": "~z~等你接到面试通知了再打过来。",
+            "desc": ""
+        },
+        {
+            "hash": 4204953950,
+            "original": "FM2_NF",
+            "translated": "FM2_NF",
+            "desc": ""
+        },
+        {
+            "hash": 4236667891,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 4238499646,
+            "original": "FM2_A_HB",
+            "translated": "FM2_A_HB",
+            "desc": ""
+        },
+        {
+            "hash": 4243193954,
+            "original": "FM2_BD",
+            "translated": "FM2_BD",
+            "desc": ""
+        },
+        {
+            "hash": 4248968328,
+            "original": "FM2_A_OA",
+            "translated": "FM2_A_OA",
+            "desc": ""
+        },
+        {
+            "hash": 4250904410,
+            "original": "FM2_AC",
+            "translated": "FM2_AC",
+            "desc": ""
+        },
+        {
+            "hash": 4269009283,
+            "original": "~z~Gonna go to the DA with it, use it to get into congress.",
+            "translated": "~z~似乎是准备上报地方检察官，趁机跻身国会。",
+            "desc": ""
+        },
+        {
+            "hash": 4273940443,
+            "original": "FM2_CB",
+            "translated": "FM2_CB",
+            "desc": ""
+        },
+        {
+            "hash": 4281844448,
+            "original": "~z~Sure, stand up if you want to. Whatever makes you comfortable.",
+            "translated": "~z~当然，想站的话就站着吧，怎么舒服怎么来。",
+            "desc": ""
+        },
+        {
+            "hash": 4294525376,
+            "original": "~z~Whoa! Whoa, whoa, whoa. Hold on a second there, friend!",
+            "translated": "~z~喔！喔喔喔，你停一下，朋友！",
+            "desc": ""
+        },
+        {
+            "hash": 4294699861,
+            "original": "100100100010100100",
+            "translated": "100100100010100100",
+            "desc": ""
+        }
+    ]
+}

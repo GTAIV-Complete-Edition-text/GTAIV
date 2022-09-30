@@ -1,0 +1,1510 @@
+{
+    "R7AUD": [
+        {
+            "hash": 3262624,
+            "original": "~z~You go. I'll catch up with you later.",
+            "translated": "~z~你先走，我待会儿来找你。",
+            "desc": ""
+        },
+        {
+            "hash": 3557905,
+            "original": "R7_GG",
+            "translated": "R7_GG",
+            "desc": ""
+        },
+        {
+            "hash": 15047395,
+            "original": "~z~Yeah...",
+            "translated": "~z~确实...",
+            "desc": ""
+        },
+        {
+            "hash": 47931312,
+            "original": "R7_FC",
+            "translated": "R7_FC",
+            "desc": ""
+        },
+        {
+            "hash": 59600395,
+            "original": "~z~We do, if we are to live with ourselves in this city.",
+            "translated": "~z~我们需要，想在这座城市自力更生就需要。",
+            "desc": ""
+        },
+        {
+            "hash": 62650976,
+            "original": "R7_GJ",
+            "translated": "R7_GJ",
+            "desc": ""
+        },
+        {
+            "hash": 81262103,
+            "original": "~z~-Anyway... ~n~-You got it.",
+            "translated": "~z~－啥都行...~n~－拿去。",
+            "desc": ""
+        },
+        {
+            "hash": 84052497,
+            "original": "020020",
+            "translated": "020020",
+            "desc": ""
+        },
+        {
+            "hash": 88778575,
+            "original": "~z~Come on, Niko. This is stupid. All for a woman.",
+            "translated": "~z~好啦，Niko，这太蠢了。不就一个女人嘛。",
+            "desc": ""
+        },
+        {
+            "hash": 100487474,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 102539885,
+            "original": "~z~Alright, so you want me to deal with it, right now?",
+            "translated": "~z~行吧，现在你想让我出手了是吧？",
+            "desc": ""
+        },
+        {
+            "hash": 109433772,
+            "original": "~z~Oh, there he is.",
+            "translated": "~z~噢，他来了。",
+            "desc": ""
+        },
+        {
+            "hash": 151584385,
+            "original": "~z~I told you to stay away from Mallorie.",
+            "translated": "~z~我跟你说过离Mallorie远点了。",
+            "desc": ""
+        },
+        {
+            "hash": 154295017,
+            "original": "R7_GF",
+            "translated": "R7_GF",
+            "desc": ""
+        },
+        {
+            "hash": 156953907,
+            "original": "R7_FB",
+            "translated": "R7_FB",
+            "desc": ""
+        },
+        {
+            "hash": 157183734,
+            "original": "R7_FA",
+            "translated": "R7_FA",
+            "desc": ""
+        },
+        {
+            "hash": 159886902,
+            "original": "100100010100100010010010100010010100",
+            "translated": "100100010100100010010010100010010100",
+            "desc": ""
+        },
+        {
+            "hash": 202697241,
+            "original": "100010100100100100010",
+            "translated": "100010100100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 255308106,
+            "original": "R7_PB",
+            "translated": "R7_PB",
+            "desc": ""
+        },
+        {
+            "hash": 260257822,
+            "original": "~z~You knew?",
+            "translated": "~z~你都知道？",
+            "desc": ""
+        },
+        {
+            "hash": 264477398,
+            "original": "~z~Stay in the car, let the big boys have their conversation.",
+            "translated": "~z~待在车里，大人的事大人去讲。",
+            "desc": ""
+        },
+        {
+            "hash": 306594236,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 309947695,
+            "original": "~z~Shit. We should get out of here.",
+            "translated": "~z~操，我们该跑路了。",
+            "desc": ""
+        },
+        {
+            "hash": 342243951,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 370657513,
+            "original": "~z~By doing nothing, we let Vlad take everything from us.",
+            "translated": "~z~什么都不做，只会被Vlad夺走我们的一切。",
+            "desc": ""
+        },
+        {
+            "hash": 376878691,
+            "original": "~z~I'll last longer than you will, shithead.",
+            "translated": "~z~活得总比你久，猪头。",
+            "desc": ""
+        },
+        {
+            "hash": 380770576,
+            "original": "~z~-What do you expect? I give him a massage?~n~-Shit! Shit! Shit!",
+            "translated": "~z~－你还指望怎么样？给他来顿按摩？~n~－操！操！操！",
+            "desc": ""
+        },
+        {
+            "hash": 416554517,
+            "original": "~z~...you know, when Vlad is done with her...",
+            "translated": "~z~...你也知道，等Vlad和她结束了...",
+            "desc": ""
+        },
+        {
+            "hash": 434280569,
+            "original": "R7_BA",
+            "translated": "R7_BA",
+            "desc": ""
+        },
+        {
+            "hash": 450019493,
+            "original": "~z~You are a dead man.",
+            "translated": "~z~你已经死了。",
+            "desc": ""
+        },
+        {
+            "hash": 467140176,
+            "original": "~z~Do you think I give a fuck, peasant?",
+            "translated": "~z~你以为我他妈会在乎吗，乡下人？",
+            "desc": ""
+        },
+        {
+            "hash": 494174617,
+            "original": "~z~Oh, Roman is upset.",
+            "translated": "~z~噢，Roman很伤心。",
+            "desc": ""
+        },
+        {
+            "hash": 527099014,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 556800192,
+            "original": "R7_BE",
+            "translated": "R7_BE",
+            "desc": ""
+        },
+        {
+            "hash": 577953277,
+            "original": "~z~I had suspicions.",
+            "translated": "~z~我是在怀疑。",
+            "desc": ""
+        },
+        {
+            "hash": 580759978,
+            "original": "~z~I'd like a word with you.",
+            "translated": "~z~我有话要跟你说。",
+            "desc": ""
+        },
+        {
+            "hash": 585932102,
+            "original": "R7_AA",
+            "translated": "R7_AA",
+            "desc": ""
+        },
+        {
+            "hash": 606998680,
+            "original": "~z~No.",
+            "translated": "~z~不是。",
+            "desc": ""
+        },
+        {
+            "hash": 608331668,
+            "original": "R7_JA",
+            "translated": "R7_JA",
+            "desc": ""
+        },
+        {
+            "hash": 612913798,
+            "original": "~z~Fuck you, I wish I could be there to watch Mikhail cut your peasant balls off.",
+            "translated": "~z~操你妈的，真希望能亲眼看见Mikhail把你这乡下人给阉了。",
+            "desc": ""
+        },
+        {
+            "hash": 645839210,
+            "original": "~z~Forget about Mallorie. Plans change and...",
+            "translated": "~z~忘了Mallorie吧。计划有变...",
+            "desc": ""
+        },
+        {
+            "hash": 668822644,
+            "original": "~z~This is principle, we do this because we will not be stepped upon.",
+            "translated": "~z~我们这么做是为了不受人践踏，这才是理由。",
+            "desc": ""
+        },
+        {
+            "hash": 702647462,
+            "original": "R7_DA",
+            "translated": "R7_DA",
+            "desc": ""
+        },
+        {
+            "hash": 703733056,
+            "original": "~z~So for ten years I've been searching for the other two.",
+            "translated": "~z~所以十年来，我一直在寻找另外两人。",
+            "desc": ""
+        },
+        {
+            "hash": 762020470,
+            "original": "R7_LB",
+            "translated": "R7_LB",
+            "desc": ""
+        },
+        {
+            "hash": 845880244,
+            "original": "R7_NC",
+            "translated": "R7_NC",
+            "desc": ""
+        },
+        {
+            "hash": 860073271,
+            "original": "~z~-Go away!~n~-And now Roman is upset.",
+            "translated": "~z~－滚吧！~n~－现在Roman很伤心。",
+            "desc": ""
+        },
+        {
+            "hash": 875746514,
+            "original": "~z~I have to end it, here and now.",
+            "translated": "~z~我必须做个了结，现在，在这。",
+            "desc": ""
+        },
+        {
+            "hash": 878695531,
+            "original": "~z~we were going on a mission...",
+            "translated": "~z~我们去出了次任务...",
+            "desc": ""
+        },
+        {
+            "hash": 893034077,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 958512031,
+            "original": "~z~I know the traitor was not me...",
+            "translated": "~z~我知道我不是叛徒...",
+            "desc": ""
+        },
+        {
+            "hash": 988905304,
+            "original": "~z~I'm throwing your life away, prick. We'll do alright.",
+            "translated": "~z~要没命的是你，屌人。我们会过得很好的。",
+            "desc": ""
+        },
+        {
+            "hash": 994742188,
+            "original": "~z~You knew my woman was banging this warthog and you didn't do anything?",
+            "translated": "~z~你知道我的女人跟这头野猪上了床居然还无动于衷？",
+            "desc": ""
+        },
+        {
+            "hash": 1012274533,
+            "original": "~z~He takes our pride, Roman.",
+            "translated": "~z~他夺走了我们的尊严，Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 1029620761,
+            "original": "~z~Twelve people died, three escaped.",
+            "translated": "~z~十二人死亡，三人生还。",
+            "desc": ""
+        },
+        {
+            "hash": 1039657843,
+            "original": "R7_GK",
+            "translated": "R7_GK",
+            "desc": ""
+        },
+        {
+            "hash": 1040900889,
+            "original": "R7_GA",
+            "translated": "R7_GA",
+            "desc": ""
+        },
+        {
+            "hash": 1046575635,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1050186596,
+            "original": "~z~No! I'm not going to stand here and have you call me disloyal.",
+            "translated": "~z~不！我才不会傻站在这里让你说我不忠。",
+            "desc": ""
+        },
+        {
+            "hash": 1081790029,
+            "original": "~z~This is fate telling us to give up, cousin.",
+            "translated": "~z~上天都劝我们放弃了，堂弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1098721218,
+            "original": "R7_SA",
+            "translated": "R7_SA",
+            "desc": ""
+        },
+        {
+            "hash": 1102626395,
+            "original": "~z~I can't take it. How could she do this?",
+            "translated": "~z~我忍不了。她怎么能这么做？",
+            "desc": ""
+        },
+        {
+            "hash": 1106407505,
+            "original": "~z~Grow a fucking spine. You think Vlad won't come after us when I am chasing him like this?",
+            "translated": "~z~你他妈有点骨气好么。都这么追他了你还想着~n~回头Vlad他不会来追杀我们？",
+            "desc": ""
+        },
+        {
+            "hash": 1107736875,
+            "original": "R7_DA",
+            "translated": "R7_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1108942797,
+            "original": "~z~You always were a hypocrite.",
+            "translated": "~z~你一直都那么虚伪。",
+            "desc": ""
+        },
+        {
+            "hash": 1116500164,
+            "original": "~z~When I was in the army...",
+            "translated": "~z~我还在部队里的时候...",
+            "desc": ""
+        },
+        {
+            "hash": 1129303765,
+            "original": "~z~Get to the car, Roman.",
+            "translated": "~z~待在车里，Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 1215879311,
+            "original": "~z~We're dead!",
+            "translated": "~z~我们死了！",
+            "desc": ""
+        },
+        {
+            "hash": 1240006722,
+            "original": "~z~I'm not walking away until this thing is finished.",
+            "translated": "~z~这事情不做个了结我就不走了。",
+            "desc": ""
+        },
+        {
+            "hash": 1282014887,
+            "original": "R7_BD",
+            "translated": "R7_BD",
+            "desc": ""
+        },
+        {
+            "hash": 1297363163,
+            "original": "~z~You might let some Russian asswipe bang your woman, but I won't.",
+            "translated": "~z~你可能乐意让一个俄国傻逼上你的女人，我不乐意。",
+            "desc": ""
+        },
+        {
+            "hash": 1299770983,
+            "original": "R7_RA",
+            "translated": "R7_RA",
+            "desc": ""
+        },
+        {
+            "hash": 1307567783,
+            "original": "R7_GH",
+            "translated": "R7_GH",
+            "desc": ""
+        },
+        {
+            "hash": 1330596024,
+            "original": "~z~You're going for a little drive... you're going to leave Vlad alone, right?",
+            "translated": "~z~你只是要去兜两圈...你不会去找Vlad的，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1340783472,
+            "original": "~z~Niko... wait. Don't do anything stupid. Wait for me!",
+            "translated": "~z~Niko...等等，别做傻事。等等我！",
+            "desc": ""
+        },
+        {
+            "hash": 1352196919,
+            "original": "R7_NA",
+            "translated": "R7_NA",
+            "desc": ""
+        },
+        {
+            "hash": 1356336688,
+            "original": "~z~Shit, I don't like this. Fuck... fuck.",
+            "translated": "~z~靠，我可不想这样。操...操。",
+            "desc": ""
+        },
+        {
+            "hash": 1369542394,
+            "original": "~z~It was a setup... for money!",
+            "translated": "~z~那是个陷阱...为了钱！",
+            "desc": ""
+        },
+        {
+            "hash": 1369588487,
+            "original": "~z~Hey, cousin.",
+            "translated": "~z~嘿，堂弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1471284600,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 1496947046,
+            "original": "R7_BC",
+            "translated": "R7_BC",
+            "desc": ""
+        },
+        {
+            "hash": 1504965126,
+            "original": "100100010010010100010",
+            "translated": "100100010010010100010",
+            "desc": ""
+        },
+        {
+            "hash": 1556697029,
+            "original": "~z~After what I did for you, you dick! You fucking dick!",
+            "translated": "~z~亏我还替你做了这么多，你这屌人！去你妈的屌人！",
+            "desc": ""
+        },
+        {
+            "hash": 1559548672,
+            "original": "~z~-I didn't...~n~-You didn't say anything?",
+            "translated": "~z~－我不...~n~－你啥都不说？",
+            "desc": ""
+        },
+        {
+            "hash": 1566147310,
+            "original": "~z~Right now I don't think you're going to find out.",
+            "translated": "~z~现在我不觉得你能知道。",
+            "desc": ""
+        },
+        {
+            "hash": 1574331846,
+            "original": "~z~Tell me you're just blowing off some steam...",
+            "translated": "~z~你这应该只是一时兴起吧...",
+            "desc": ""
+        },
+        {
+            "hash": 1578081804,
+            "original": "R7_OC",
+            "translated": "R7_OC",
+            "desc": ""
+        },
+        {
+            "hash": 1597144367,
+            "original": "R7_DB",
+            "translated": "R7_DB",
+            "desc": ""
+        },
+        {
+            "hash": 1597581865,
+            "original": "~z~But one of us betrayed the group.",
+            "translated": "~z~但我们中出了一个叛徒。",
+            "desc": ""
+        },
+        {
+            "hash": 1606822908,
+            "original": "~z~Alright, he's running away. We win, let's go home.",
+            "translated": "~z~好了，他跑了。我们赢了，回家吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1615399405,
+            "original": "~z~Do you always get sentimental after you kill people?",
+            "translated": "~z~你杀了人之后都会这么感性吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1626480825,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1677453242,
+            "original": "~z~Bullshit.",
+            "translated": "~z~一团糟。",
+            "desc": ""
+        },
+        {
+            "hash": 1724418170,
+            "original": "~z~I knew you cared. I have to do this.",
+            "translated": "~z~我就知道你在乎。我必须这么做。",
+            "desc": ""
+        },
+        {
+            "hash": 1752635281,
+            "original": "~z~You stay away from Mallorie.",
+            "translated": "~z~你离Mallorie远点。",
+            "desc": ""
+        },
+        {
+            "hash": 1787423558,
+            "original": "~z~I'm sorry!",
+            "translated": "~z~我很抱歉！",
+            "desc": ""
+        },
+        {
+            "hash": 1799431129,
+            "original": "~z~I decide when I will give up on something, cousin.",
+            "translated": "~z~我自己决定我什么时候放弃，堂哥。",
+            "desc": ""
+        },
+        {
+            "hash": 1811902741,
+            "original": "~z~I saw his car parked outside her place the other day.",
+            "translated": "~z~之前我在她家门口看见他的车了。",
+            "desc": ""
+        },
+        {
+            "hash": 1812209731,
+            "original": "~z~I just want to know why they did it.",
+            "translated": "~z~我只想知道他们那么做的原因。",
+            "desc": ""
+        },
+        {
+            "hash": 1816731767,
+            "original": "~z~What does it look like?",
+            "translated": "~z~你觉得做了什么？",
+            "desc": ""
+        },
+        {
+            "hash": 1829291452,
+            "original": "~z~I am calm. He tried to kill us. He screwed your girlfriend.",
+            "translated": "~z~我很冷静。他想杀我们，还搞了你的女朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 1834370844,
+            "original": "~z~He'll come back. The only thing that will hold him down is six feet of dirt.",
+            "translated": "~z~他会回来的。唯一能阻止他的就是钉死的棺材板。",
+            "desc": ""
+        },
+        {
+            "hash": 1843689601,
+            "original": "~z~Pride, pride - who needs this?",
+            "translated": "~z~尊严？尊严？谁需要这玩意？",
+            "desc": ""
+        },
+        {
+            "hash": 1845645181,
+            "original": "R7_TA",
+            "translated": "R7_TA",
+            "desc": ""
+        },
+        {
+            "hash": 1887611488,
+            "original": "~z~Why are you telling me this now?",
+            "translated": "~z~现在你跟我说这个干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 1970213357,
+            "original": "R7_QB",
+            "translated": "R7_QB",
+            "desc": ""
+        },
+        {
+            "hash": 1978082791,
+            "original": "R7_NG",
+            "translated": "R7_NG",
+            "desc": ""
+        },
+        {
+            "hash": 1987862416,
+            "original": "R7_FE",
+            "translated": "R7_FE",
+            "desc": ""
+        },
+        {
+            "hash": 1988604850,
+            "original": "~z~-Hey, Vlad, can't we just talk about this? ~n~-Hold on.",
+            "translated": "~z~－我说，Vlad，我们就不能谈谈吗？~n~－打住。",
+            "desc": ""
+        },
+        {
+            "hash": 2003338499,
+            "original": "~z~That was before I knew you cared!",
+            "translated": "~z~我以为你不在乎啊！",
+            "desc": ""
+        },
+        {
+            "hash": 2007667091,
+            "original": "R7_LA",
+            "translated": "R7_LA",
+            "desc": ""
+        },
+        {
+            "hash": 2023894061,
+            "original": "~z~Nothing as stupid as letting that fat swine give it to Mallorie.",
+            "translated": "~z~再傻也傻不过把Mallorie拱手让给那头肥猪。",
+            "desc": ""
+        },
+        {
+            "hash": 2029900586,
+            "original": "100010100010100100010010100",
+            "translated": "100010100010100100010010100",
+            "desc": ""
+        },
+        {
+            "hash": 2040261937,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2064376455,
+            "original": "~z~It is finished, he's running. We won't see him again.",
+            "translated": "~z~了结了呀，他都跑了。我们再也见不到他了。",
+            "desc": ""
+        },
+        {
+            "hash": 2100014154,
+            "original": "R7_CG",
+            "translated": "R7_CG",
+            "desc": ""
+        },
+        {
+            "hash": 2112537616,
+            "original": "~z~I don't know...",
+            "translated": "~z~我不知道...",
+            "desc": ""
+        },
+        {
+            "hash": 2114495607,
+            "original": "~z~You have been pushed around too much, Roman.",
+            "translated": "~z~你被人使唤得够多了，Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 2149812667,
+            "original": "~z~I guess I'll find out.",
+            "translated": "~z~以后我会知道的。",
+            "desc": ""
+        },
+        {
+            "hash": 2204778941,
+            "original": "~z~watch his fat, hairy, sweaty back going up and down.",
+            "translated": "~z~看着他肥胖长毛满是汗的后背上上下下。",
+            "desc": ""
+        },
+        {
+            "hash": 2209467088,
+            "original": "R7_NB",
+            "translated": "R7_NB",
+            "desc": ""
+        },
+        {
+            "hash": 2252434309,
+            "original": "R7_GB",
+            "translated": "R7_GB",
+            "desc": ""
+        },
+        {
+            "hash": 2257136852,
+            "original": "~z~Hey, what's wrong?",
+            "translated": "~z~嘿，怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 2259407209,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 2266527549,
+            "original": "R7_OE",
+            "translated": "R7_OE",
+            "desc": ""
+        },
+        {
+            "hash": 2279604247,
+            "original": "R7_FK",
+            "translated": "R7_FK",
+            "desc": ""
+        },
+        {
+            "hash": 2292208356,
+            "original": "R7_IA",
+            "translated": "R7_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2318878617,
+            "original": "R7_CF",
+            "translated": "R7_CF",
+            "desc": ""
+        },
+        {
+            "hash": 2410282744,
+            "original": "R7_OA",
+            "translated": "R7_OA",
+            "desc": ""
+        },
+        {
+            "hash": 2460020092,
+            "original": "~z~Well what?",
+            "translated": "~z~那怎样？",
+            "desc": ""
+        },
+        {
+            "hash": 2478633172,
+            "original": "~z~One of them lives here.",
+            "translated": "~z~其中一个就在这里。",
+            "desc": ""
+        },
+        {
+            "hash": 2482907914,
+            "original": "~z~Get back outside, Roman.",
+            "translated": "~z~回外边去，Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 2488140695,
+            "original": "~z~Great, you lost Vlad.",
+            "translated": "~z~很好，你跟丢Vlad了。",
+            "desc": ""
+        },
+        {
+            "hash": 2493639687,
+            "original": "R7_IB",
+            "translated": "R7_IB",
+            "desc": ""
+        },
+        {
+            "hash": 2509644267,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2511914119,
+            "original": "~z~You fucking knew?",
+            "translated": "~z~你早就知道了？",
+            "desc": ""
+        },
+        {
+            "hash": 2556940433,
+            "original": "~z~Oh. What about her?",
+            "translated": "~z~噢。她怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 2571894470,
+            "original": "R7_GI",
+            "translated": "R7_GI",
+            "desc": ""
+        },
+        {
+            "hash": 2601951890,
+            "original": "~z~Gimme a drink.",
+            "translated": "~z~给我来一杯。",
+            "desc": ""
+        },
+        {
+            "hash": 2607825374,
+            "original": "~z~You've killed yourself and your cousin, yokel.",
+            "translated": "~z~你把你和你堂哥逼上了死路，乡巴佬。",
+            "desc": ""
+        },
+        {
+            "hash": 2624573805,
+            "original": "R7_MA",
+            "translated": "R7_MA",
+            "desc": ""
+        },
+        {
+            "hash": 2642934844,
+            "original": "R7_ND",
+            "translated": "R7_ND",
+            "desc": ""
+        },
+        {
+            "hash": 2643321729,
+            "original": "~z~Cousin, this is crazy. We got each other. We don't need women in our lives.",
+            "translated": "~z~堂弟，这太疯狂了。我们互有彼此，不需要女人插足生活。",
+            "desc": ""
+        },
+        {
+            "hash": 2684151048,
+            "original": "R7_CB",
+            "translated": "R7_CB",
+            "desc": ""
+        },
+        {
+            "hash": 2729689268,
+            "original": "~z~Wait Niko, you have to think this through.",
+            "translated": "~z~等下，Niko，你可得想清楚了。",
+            "desc": ""
+        },
+        {
+            "hash": 2748243403,
+            "original": "~z~No.",
+            "translated": "~z~不是。",
+            "desc": ""
+        },
+        {
+            "hash": 2767693034,
+            "original": "~z~He's probably gone back to Mallorie's for a post drive screw.",
+            "translated": "~z~他可能一回去就要找Mallorie来个驾后乱搞了。",
+            "desc": ""
+        },
+        {
+            "hash": 2768605769,
+            "original": "~z~Mikhail Faustin is going to kill us.",
+            "translated": "~z~Mikhail Faustin会杀了我们的。",
+            "desc": ""
+        },
+        {
+            "hash": 2770375205,
+            "original": "~z~Eeeh, you're a big boy Vladdy.",
+            "translated": "~z~呃啊，你可真是个大家伙Vladdy。",
+            "desc": ""
+        },
+        {
+            "hash": 2773990217,
+            "original": "R7_GL",
+            "translated": "R7_GL",
+            "desc": ""
+        },
+        {
+            "hash": 2789979017,
+            "original": "~z~Vlad shall soon understand that.",
+            "translated": "~z~Vlad马上就会明白了。",
+            "desc": ""
+        },
+        {
+            "hash": 2810832937,
+            "original": "~z~What was I going to say?",
+            "translated": "~z~那我能说什么？",
+            "desc": ""
+        },
+        {
+            "hash": 2843074002,
+            "original": "~z~Look, Vlad has crashed his car and gone. Surely that is enough...",
+            "translated": "~z~你看，Vlad已经出车祸走了。这样肯定是够了...",
+            "desc": ""
+        },
+        {
+            "hash": 2852166307,
+            "original": "~z~Excuse me.",
+            "translated": "~z~不好意思。",
+            "desc": ""
+        },
+        {
+            "hash": 2855968211,
+            "original": "~z~And you don't care whose life you ruin on the way?",
+            "translated": "~z~过程中毁掉别人的人生你就不管了？",
+            "desc": ""
+        },
+        {
+            "hash": 2859513561,
+            "original": "R7_HB",
+            "translated": "R7_HB",
+            "desc": ""
+        },
+        {
+            "hash": 2866115948,
+            "original": "~z~I like her... I really like her...",
+            "translated": "~z~我喜欢她...真的很喜欢她...",
+            "desc": ""
+        },
+        {
+            "hash": 2921393911,
+            "original": "~z~Stop, Niko... shit!",
+            "translated": "~z~别啊，Niko...靠！",
+            "desc": ""
+        },
+        {
+            "hash": 2948544208,
+            "original": "R7_BD_QQQ1",
+            "translated": "R7_BD_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 2956401063,
+            "original": "~z~We are going to catch Vlad, Roman.",
+            "translated": "~z~我们要抓住Vlad，Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 2970712144,
+            "original": "~z~Sit down.",
+            "translated": "~z~坐下。",
+            "desc": ""
+        },
+        {
+            "hash": 2973408525,
+            "original": "~z~Maybe next time I might watch them at it... urgh... to",
+            "translated": "~z~说不定下次我就去看他们在那...哦...看、",
+            "desc": ""
+        },
+        {
+            "hash": 3003722932,
+            "original": "~z~I could have sworn for a minute this ratty little yokel told me what to do.",
+            "translated": "~z~我敢发誓刚才这个暴躁的小乡巴佬在教我做事。",
+            "desc": ""
+        },
+        {
+            "hash": 3011056606,
+            "original": "~z~Stay out here, let the big boys have their conversation inside.",
+            "translated": "~z~待在外面，里面是大人说话的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 3024016431,
+            "original": "~z~There were fifteen of us. All boys from the village.",
+            "translated": "~z~我们有十五个人，都是村里来的孩子。",
+            "desc": ""
+        },
+        {
+            "hash": 3068540426,
+            "original": "~z~Put him in the river...",
+            "translated": "~z~把他扔河里...",
+            "desc": ""
+        },
+        {
+            "hash": 3071386063,
+            "original": "R7_NE",
+            "translated": "R7_NE",
+            "desc": ""
+        },
+        {
+            "hash": 3074315630,
+            "original": "~z~Shit, I don't like this. Fuck... fuck.",
+            "translated": "~z~靠，我可不想这样。操...操。",
+            "desc": ""
+        },
+        {
+            "hash": 3086498126,
+            "original": "~z~You're here on some revenge mission for something that happened ten years ago.",
+            "translated": "~z~你来这里就为了给十年前的事情复仇。",
+            "desc": ""
+        },
+        {
+            "hash": 3090336247,
+            "original": "R7_BF",
+            "translated": "R7_BF",
+            "desc": ""
+        },
+        {
+            "hash": 3118316447,
+            "original": "~z~Niko!",
+            "translated": "~z~Niko！",
+            "desc": ""
+        },
+        {
+            "hash": 3145768331,
+            "original": "R7_CA",
+            "translated": "R7_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3151099380,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 3153008543,
+            "original": "~z~What's bullshit?",
+            "translated": "~z~怎么就一团糟了？",
+            "desc": ""
+        },
+        {
+            "hash": 3159134312,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 3170661840,
+            "original": "R7_EA",
+            "translated": "R7_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3174420726,
+            "original": "R7_FD",
+            "translated": "R7_FD",
+            "desc": ""
+        },
+        {
+            "hash": 3203680070,
+            "original": "~z~Wonderful.",
+            "translated": "~z~好极了。",
+            "desc": ""
+        },
+        {
+            "hash": 3204652960,
+            "original": "R7_CE",
+            "translated": "R7_CE",
+            "desc": ""
+        },
+        {
+            "hash": 3212589456,
+            "original": "~z~Hey, it happens, we have an open relationship. I do my thing, she does hers.",
+            "translated": "~z~嘿，偶尔是有的，我们关系很开放的。~n~我做我的，她做她的。",
+            "desc": ""
+        },
+        {
+            "hash": 3230997989,
+            "original": "~z~You scared him good, Niko.",
+            "translated": "~z~你已经吓坏他了，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3232811011,
+            "original": "~z~I must be hearing things...",
+            "translated": "~z~我没听错吧...",
+            "desc": ""
+        },
+        {
+            "hash": 3263217210,
+            "original": "~z~We're both going after him, Roman.",
+            "translated": "~z~我们一起去追他，Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 3267850560,
+            "original": "~z~but we never did it.",
+            "translated": "~z~但我们失败了。",
+            "desc": ""
+        },
+        {
+            "hash": 3268253776,
+            "original": "~z~Keep your head down, I'm going to finish this.",
+            "translated": "~z~老实呆着，我去做个了结。",
+            "desc": ""
+        },
+        {
+            "hash": 3285300307,
+            "original": "~z~Wait Niko, you have to think this through.",
+            "translated": "~z~等等，Niko，你要想清楚了。",
+            "desc": ""
+        },
+        {
+            "hash": 3295457598,
+            "original": "~z~You let these people use you, use me.",
+            "translated": "~z~你让这些人利用你，利用我。",
+            "desc": ""
+        },
+        {
+            "hash": 3349007011,
+            "original": "R7_NH",
+            "translated": "R7_NH",
+            "desc": ""
+        },
+        {
+            "hash": 3373079437,
+            "original": "~z~My friends will track you down, you won't last a moment.",
+            "translated": "~z~我的朋友会来追杀你，你活不了多久的。",
+            "desc": ""
+        },
+        {
+            "hash": 3379778552,
+            "original": "~z~-Did you hear that boys?~n~-Yeah.",
+            "translated": "~z~－你们都听见了吗？~n~－听见了。",
+            "desc": ""
+        },
+        {
+            "hash": 3381739837,
+            "original": "R7_FM",
+            "translated": "R7_FM",
+            "desc": ""
+        },
+        {
+            "hash": 3395550855,
+            "original": "R7_OB",
+            "translated": "R7_OB",
+            "desc": ""
+        },
+        {
+            "hash": 3396706280,
+            "original": "~z~You are nothing in this city. You will be crushed.",
+            "translated": "~z~你在城里什么都不是。你会被碾碎的。",
+            "desc": ""
+        },
+        {
+            "hash": 3413655369,
+            "original": "~z~She's too good for me. Vlad should have her.",
+            "translated": "~z~不配的是我，Vlad才配得上他。",
+            "desc": ""
+        },
+        {
+            "hash": 3413663534,
+            "original": "~z~Let's hide the body, at least for a while.",
+            "translated": "~z~赶紧把尸体藏起来，至少还能拖一会儿。",
+            "desc": ""
+        },
+        {
+            "hash": 3419103098,
+            "original": "~z~Well, I guess this is over.",
+            "translated": "~z~好了，我想已经了结了。",
+            "desc": ""
+        },
+        {
+            "hash": 3420175269,
+            "original": "R7_CC",
+            "translated": "R7_CC",
+            "desc": ""
+        },
+        {
+            "hash": 3433412479,
+            "original": "R7_PA",
+            "translated": "R7_PA",
+            "desc": ""
+        },
+        {
+            "hash": 3442926539,
+            "original": "~z~You kept asking...",
+            "translated": "~z~你之前在问...",
+            "desc": ""
+        },
+        {
+            "hash": 3445695541,
+            "original": "~z~You think this is worth it?",
+            "translated": "~z~你觉得这样很值？",
+            "desc": ""
+        },
+        {
+            "hash": 3458284547,
+            "original": "~z~Mallorie.",
+            "translated": "~z~Mallorie。",
+            "desc": ""
+        },
+        {
+            "hash": 3478754573,
+            "original": "~z~You were the stupid one, Vladdy boy.",
+            "translated": "~z~是你太蠢了，Vladdy仔。",
+            "desc": ""
+        },
+        {
+            "hash": 3517878022,
+            "original": "~z~They were our enemies...",
+            "translated": "~z~他们是我们的敌人...",
+            "desc": ""
+        },
+        {
+            "hash": 3526103232,
+            "original": "~z~~c~Potatoes...~s~",
+            "translated": "~z~~c~土豆...~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3546471249,
+            "original": "R7_NF",
+            "translated": "R7_NF",
+            "desc": ""
+        },
+        {
+            "hash": 3563143954,
+            "original": "~z~He crashes his car, this is revenge enough, no?",
+            "translated": "~z~他把车撞废了，这样的复仇总够了吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3607101438,
+            "original": "R7_AB",
+            "translated": "R7_AB",
+            "desc": ""
+        },
+        {
+            "hash": 3608550762,
+            "original": "R7_FF",
+            "translated": "R7_FF",
+            "desc": ""
+        },
+        {
+            "hash": 3612482324,
+            "original": "~z~What are you doing here? Did I summon you... boy?",
+            "translated": "~z~你在这干什么？我有叫你来吗...仔？",
+            "desc": ""
+        },
+        {
+            "hash": 3633003539,
+            "original": "~z~Mikhail Faustin thought of me as a brother. He will get revenge.",
+            "translated": "~z~Mikhail Faustin把我当兄弟。他会来报仇的。",
+            "desc": ""
+        },
+        {
+            "hash": 3644447436,
+            "original": "~z~I will show Vladdy what he can have.",
+            "translated": "~z~我会告诉Vladdy他配个屁。",
+            "desc": ""
+        },
+        {
+            "hash": 3663789221,
+            "original": "~z~What have you done?",
+            "translated": "~z~你做了什么啊？",
+            "desc": ""
+        },
+        {
+            "hash": 3667523141,
+            "original": "~z~Now... get them out of here!",
+            "translated": "~z~现在...把他们赶出去！",
+            "desc": ""
+        },
+        {
+            "hash": 3668630970,
+            "original": "~z~They will not use Mallorie as well. She is too good for that.",
+            "translated": "~z~他们别想再利用Mallorie。他们不配。",
+            "desc": ""
+        },
+        {
+            "hash": 3672895599,
+            "original": "~z~Don't do anything stupid, cousin.",
+            "translated": "~z~别做什么傻事，堂弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3681786488,
+            "original": "R7_BB",
+            "translated": "R7_BB",
+            "desc": ""
+        },
+        {
+            "hash": 3683565712,
+            "original": "~z~You're throwing you and your fatty cousin's lives away for that bit of Puerto Rican chocha.",
+            "translated": "~z~就为了那个波多黎各娘们儿，你连自己和你那胖子堂哥的命都不要了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3709246760,
+            "original": "R7_HA",
+            "translated": "R7_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3729196077,
+            "original": "~z~No, he's dead... we're fine.",
+            "translated": "~z~不，他死了...我们好好的。",
+            "desc": ""
+        },
+        {
+            "hash": 3731201548,
+            "original": "R7_GD",
+            "translated": "R7_GD",
+            "desc": ""
+        },
+        {
+            "hash": 3731510761,
+            "original": "~z~I didn't know!",
+            "translated": "~z~我不知道！",
+            "desc": ""
+        },
+        {
+            "hash": 3743570687,
+            "original": "~z~I am not done with Vladdy yet. Not even nearly am I done with him.",
+            "translated": "~z~我和Vladdy还没完。完完全全的没完。",
+            "desc": ""
+        },
+        {
+            "hash": 3760335853,
+            "original": "~z~to ambush a squad who had killed a lot of innocent people.",
+            "translated": "~z~要埋伏一群滥杀了许多无辜百姓的人。",
+            "desc": ""
+        },
+        {
+            "hash": 3778192582,
+            "original": "R7_GE",
+            "translated": "R7_GE",
+            "desc": ""
+        },
+        {
+            "hash": 3869467686,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 3899961622,
+            "original": "R7_GC",
+            "translated": "R7_GC",
+            "desc": ""
+        },
+        {
+            "hash": 3917627244,
+            "original": "~z~Hey.",
+            "translated": "~z~喂。",
+            "desc": ""
+        },
+        {
+            "hash": 3920883362,
+            "original": "R7_KA",
+            "translated": "R7_KA",
+            "desc": ""
+        },
+        {
+            "hash": 3921705957,
+            "original": "~z~I getting tired of Mallorie. She's too old for me anyway.",
+            "translated": "~z~Mallorie我已经看腻了。黄脸婆真的没意思。",
+            "desc": ""
+        },
+        {
+            "hash": 3929986528,
+            "original": "~z~Hove Beach is a small place, my friends will find you.",
+            "translated": "~z~Hove Beach可是个小地方，我的朋友会找上你的。",
+            "desc": ""
+        },
+        {
+            "hash": 3930352313,
+            "original": "~z~But you fucking did!",
+            "translated": "~z~你他妈不就这么做了吗！",
+            "desc": ""
+        },
+        {
+            "hash": 3969548206,
+            "original": "202202202202",
+            "translated": "202202202202",
+            "desc": ""
+        },
+        {
+            "hash": 3982622077,
+            "original": "R7_CD",
+            "translated": "R7_CD",
+            "desc": ""
+        },
+        {
+            "hash": 4020336727,
+            "original": "~z~You're an asshole, Niko Bellic, a disloyal user.",
+            "translated": "~z~你这个混蛋，Niko Bellic，不忠的小人。",
+            "desc": ""
+        },
+        {
+            "hash": 4022914041,
+            "original": "~z~~c~Cabbages? Why eat cabbages when you can have potatoes?~s~",
+            "translated": "~z~~c~白菜？能吃土豆吃白菜干嘛？~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4026640290,
+            "original": "~z~He has powerful friends... serious people...",
+            "translated": "~z~他的朋友很厉害...大人物...",
+            "desc": ""
+        },
+        {
+            "hash": 4037929678,
+            "original": "~z~Fucking yokel, you think you can get away with killing me?",
+            "translated": "~z~傻逼乡巴佬，你以为杀了我你就能好过了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4040425058,
+            "original": "~z~He's going to stay away from Mallorie for sure.",
+            "translated": "~z~他肯定会离Mallorie远远的了。",
+            "desc": ""
+        },
+        {
+            "hash": 4073705999,
+            "original": "~z~Vladdy boy!",
+            "translated": "~z~Vladdy仔！",
+            "desc": ""
+        },
+        {
+            "hash": 4087088114,
+            "original": "~z~We should not throw everything away for one girl.",
+            "translated": "~z~我们不该为了一个女人就抛下一切的。",
+            "desc": ""
+        },
+        {
+            "hash": 4110846417,
+            "original": "~z~Yeah... no. I think she's messing around with Vlad.",
+            "translated": "~z~对...错了。我觉得是她和Vlad乱搞。",
+            "desc": ""
+        },
+        {
+            "hash": 4110966890,
+            "original": "~z~Nobody fucks with my family.",
+            "translated": "~z~没人能动我的家人。",
+            "desc": ""
+        },
+        {
+            "hash": 4148152753,
+            "original": "R7_FL",
+            "translated": "R7_FL",
+            "desc": ""
+        },
+        {
+            "hash": 4151248146,
+            "original": "~z~Screw you.",
+            "translated": "~z~去你大爷。",
+            "desc": ""
+        },
+        {
+            "hash": 4158161521,
+            "original": "~z~Great, we go now. Vlad and Mallorie can have happy life together.",
+            "translated": "~z~很好，我们走吧。Vlad和Mallories从此可以过上幸福的生活了。",
+            "desc": ""
+        },
+        {
+            "hash": 4160391649,
+            "original": "~z~I brought the car round, cousin.",
+            "translated": "~z~我把车开来了，堂弟。",
+            "desc": ""
+        },
+        {
+            "hash": 4166334283,
+            "original": "~z~Hey fatty, I'm sorry you're so upset. Boo fucking hoo.",
+            "translated": "~z~嘿胖子，你伤心我可真遗憾啊。太可怜了。",
+            "desc": ""
+        },
+        {
+            "hash": 4225882774,
+            "original": "R7_OD",
+            "translated": "R7_OD",
+            "desc": ""
+        },
+        {
+            "hash": 4236969649,
+            "original": "200020200200020200020200",
+            "translated": "200020200200020200020200",
+            "desc": ""
+        },
+        {
+            "hash": 4248607413,
+            "original": "~z~But you keep messing around with other women.",
+            "translated": "~z~但你却整天和别的女人乱搞。",
+            "desc": ""
+        },
+        {
+            "hash": 4259070807,
+            "original": "~z~I told you to be calm you hot headed chump!",
+            "translated": "~z~我都说了让你冷静点你这上头蠢货！",
+            "desc": ""
+        }
+    ]
+}

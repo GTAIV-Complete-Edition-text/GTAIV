@@ -1,0 +1,640 @@
+{
+    "V2AUD": [
+        {
+            "hash": 1801614,
+            "original": "~z~You got me.",
+            "translated": "~z~你抓住我了。",
+            "desc": ""
+        },
+        {
+            "hash": 34897794,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 40210547,
+            "original": "~z~I spoke to the Laundromat owner. He gets the message. He will pay you now.",
+            "translated": "~z~我跟洗衣店老板说了。他已经知道了，会给你交钱的。",
+            "desc": ""
+        },
+        {
+            "hash": 41238322,
+            "original": "V2_II",
+            "translated": "V2_II",
+            "desc": ""
+        },
+        {
+            "hash": 124302567,
+            "original": "~z~Come on, man. Just pull the fuck up.",
+            "translated": "~z~得了，老兄。快他妈停车吧。",
+            "desc": ""
+        },
+        {
+            "hash": 161151764,
+            "original": "V2_GB",
+            "translated": "V2_GB",
+            "desc": ""
+        },
+        {
+            "hash": 211688631,
+            "original": "V2_ED",
+            "translated": "V2_ED",
+            "desc": ""
+        },
+        {
+            "hash": 220960686,
+            "original": "~z~I'm going to, I have just been having the trouble getting it together.",
+            "translated": "~z~我是打算交的，只是筹钱有点困难。",
+            "desc": ""
+        },
+        {
+            "hash": 252174094,
+            "original": "V2_FC",
+            "translated": "V2_FC",
+            "desc": ""
+        },
+        {
+            "hash": 325992748,
+            "original": "~z~I'll ram you off the road.",
+            "translated": "~z~我会把你撞下马路的。",
+            "desc": ""
+        },
+        {
+            "hash": 352803670,
+            "original": "V2_IA",
+            "translated": "V2_IA",
+            "desc": ""
+        },
+        {
+            "hash": 377500920,
+            "original": "V2_AA",
+            "translated": "V2_AA",
+            "desc": ""
+        },
+        {
+            "hash": 382743822,
+            "original": "~z~-You're going to have your license revoked...~n~-What?",
+            "translated": "~z~－你的营业执照要被吊销了...~n~－什么？",
+            "desc": ""
+        },
+        {
+            "hash": 433402113,
+            "original": "~z~Why have you no paid Vlad the money you owe him?",
+            "translated": "~z~你怎么不付欠Vlad的钱？",
+            "desc": ""
+        },
+        {
+            "hash": 479871531,
+            "original": "V2_EA",
+            "translated": "V2_EA",
+            "desc": ""
+        },
+        {
+            "hash": 529876021,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 583248657,
+            "original": "V2_GD",
+            "translated": "V2_GD",
+            "desc": ""
+        },
+        {
+            "hash": 612121154,
+            "original": "100010100100",
+            "translated": "100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 628279356,
+            "original": "~z~Vlad is impatient man.",
+            "translated": "~z~Vlad也太急了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 631301521,
+            "original": "~z~Pull over your van.",
+            "translated": "~z~快停车。",
+            "desc": ""
+        },
+        {
+            "hash": 663672351,
+            "original": "~z~Yeah? Stay away from her.",
+            "translated": "~z~是吗？你离她远点。",
+            "desc": ""
+        },
+        {
+            "hash": 670957567,
+            "original": "V2_IB",
+            "translated": "V2_IB",
+            "desc": ""
+        },
+        {
+            "hash": 692309986,
+            "original": "~z~Do you understand? I do not ask twice for a favor.",
+            "translated": "~z~听懂了吗？一件事我不会说两遍。",
+            "desc": ""
+        },
+        {
+            "hash": 714954516,
+            "original": "~z~You better hope the police get here real quick.",
+            "translated": "~z~那你最好祈祷警察快点跟上来。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 848351883,
+            "original": "~z~Go on. Do what you gotta do. But remember, you see a cop... you don't know me.",
+            "translated": "~z~去吧，做你该做的事。不过记住，要是见着警察了...你不认识我。",
+            "desc": ""
+        },
+        {
+            "hash": 867171283,
+            "original": "V2_HB",
+            "translated": "V2_HB",
+            "desc": ""
+        },
+        {
+            "hash": 893938794,
+            "original": "~z~Fuck you, I call police. They'll show you.",
+            "translated": "~z~去你妈的，我报警。他们会教训你的。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 901390047,
+            "original": "V2_IG",
+            "translated": "V2_IG",
+            "desc": ""
+        },
+        {
+            "hash": 904229580,
+            "original": "~z~Of course.",
+            "translated": "~z~当然。",
+            "desc": ""
+        },
+        {
+            "hash": 911895055,
+            "original": "~z~You will be getting the money to him soon, or your wife shall be using your washing machines to get blood out of your clothes.",
+            "translated": "~z~赶紧把钱交上，不然你老婆就得拿店里的洗衣机洗你衣服上的血了。",
+            "desc": ""
+        },
+        {
+            "hash": 916943797,
+            "original": "010100100100",
+            "translated": "010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 982490800,
+            "original": "~z~I hope you didn't kill him, I hope he choked on some detergent or something?",
+            "translated": "~z~希望你没杀了他，他是不是给什么洗涤剂呛着了？",
+            "desc": ""
+        },
+        {
+            "hash": 997294730,
+            "original": "~z~I like your style. You can be an intimidating guy.",
+            "translated": "~z~我喜欢你的风格，你可以做专业的恐吓者。",
+            "desc": ""
+        },
+        {
+            "hash": 1063894856,
+            "original": "V2_GA",
+            "translated": "V2_GA",
+            "desc": ""
+        },
+        {
+            "hash": 1078952022,
+            "original": "V2_ID",
+            "translated": "V2_ID",
+            "desc": ""
+        },
+        {
+            "hash": 1081406983,
+            "original": "~z~Ho, ho.",
+            "translated": "~z~嚯嚯。",
+            "desc": ""
+        },
+        {
+            "hash": 1132595421,
+            "original": "~z~In Russia I pay protection, not here.",
+            "translated": "~z~在俄罗斯是要交保护费，这里不用。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 1151829673,
+            "original": "~z~I will get it to him.",
+            "translated": "~z~我会上交的。",
+            "desc": ""
+        },
+        {
+            "hash": 1155838810,
+            "original": "~z~Vlad, the muscovite ain't around no more.",
+            "translated": "~z~Vlad，那个什么莫斯科已经不在了。",
+            "desc": ""
+        },
+        {
+            "hash": 1169513650,
+            "original": "~z~I hope you didn't kill him, I hope he choked on some detergent or something?",
+            "translated": "~z~希望你没杀了他，他是不是给什么洗涤剂呛着了？",
+            "desc": ""
+        },
+        {
+            "hash": 1282639444,
+            "original": "~z~Give him a beating. Let him know... might is right!",
+            "translated": "~z~打他一顿。让他知道...拳头大的说了算！",
+            "desc": ""
+        },
+        {
+            "hash": 1325463994,
+            "original": "010100100100",
+            "translated": "010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 1329804073,
+            "original": "V2_BA",
+            "translated": "V2_BA",
+            "desc": ""
+        },
+        {
+            "hash": 1370760513,
+            "original": "~z~America is land of free. Leave me alone.",
+            "translated": "~z~美国是自由的土地，离我远点。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 1400109103,
+            "original": "~z~Vlad, the muscovite ain't around no more.",
+            "translated": "~z~Vlad，那个什么莫斯科已经不在了。",
+            "desc": ""
+        },
+        {
+            "hash": 1406477572,
+            "original": "~z~I understand.",
+            "translated": "~z~我懂了。",
+            "desc": ""
+        },
+        {
+            "hash": 1411497534,
+            "original": "V2_BD",
+            "translated": "V2_BD",
+            "desc": ""
+        },
+        {
+            "hash": 1477333321,
+            "original": "~z~Shit, stay away from me!",
+            "translated": "~z~操，你别过来啊！",
+            "desc": ""
+        },
+        {
+            "hash": 1482876176,
+            "original": "V2_IF",
+            "translated": "V2_IF",
+            "desc": ""
+        },
+        {
+            "hash": 1683600924,
+            "original": "~z~~c~-Screw you.~s~~n~-Easy, buddy.",
+            "translated": "~z~~c~－去你妈的。~s~~n~－放轻松，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 1695062872,
+            "original": "~z~Who could be too clever for you, Vlad?",
+            "translated": "~z~谁还能跟你自作聪明啊，Vlad？(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 1791993574,
+            "original": "~z~Fuck it. This is a lesson to every other fuck head who thinks he is too clever to pay me.",
+            "translated": "~z~去他妈的。这是给那些自作聪明不付我钱的猪头的教训。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 1848403967,
+            "original": "~z~It's a shame everybody knows what a stupid yokel you are when you open your mouth, eh?",
+            "translated": "~z~可惜你一开口谁都知道你是个傻逼乡巴佬，啊？",
+            "desc": ""
+        },
+        {
+            "hash": 2027970349,
+            "original": "~z~Okay. So?",
+            "translated": "~z~行，然后呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2092834708,
+            "original": "~z~You enjoying yourself, asshole?",
+            "translated": "~z~玩得开心吗，混蛋？",
+            "desc": ""
+        },
+        {
+            "hash": 2097811718,
+            "original": "V2_BC",
+            "translated": "V2_BC",
+            "desc": ""
+        },
+        {
+            "hash": 2135092206,
+            "original": "~z~Hey, stop that smoking back there.",
+            "translated": "~z~喂，后面那个别抽烟了。",
+            "desc": ""
+        },
+        {
+            "hash": 2186339108,
+            "original": "010100100010",
+            "translated": "010100100010",
+            "desc": ""
+        },
+        {
+            "hash": 2221769275,
+            "original": "V2_XA",
+            "translated": "V2_XA",
+            "desc": ""
+        },
+        {
+            "hash": 2241628861,
+            "original": "V2_ZA",
+            "translated": "V2_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 2260842263,
+            "original": "~z~Now your cousin's going to have to owe me for this as well.",
+            "translated": "~z~这笔帐也算到你堂兄头上了。",
+            "desc": ""
+        },
+        {
+            "hash": 2267216818,
+            "original": "~z~Jerk needs to be taught a lesson.",
+            "translated": "~z~混蛋就需要被教训教训。",
+            "desc": ""
+        },
+        {
+            "hash": 2320931869,
+            "original": "~z~You're joking right? This is a joke...",
+            "translated": "~z~你在开玩笑吧？就是个玩笑吧...",
+            "desc": ""
+        },
+        {
+            "hash": 2324672368,
+            "original": "~z~Vlad, I couldn't catch your friend.",
+            "translated": "~z~Vlad，我追不上你的朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 2437484546,
+            "original": "~z~Thinks in this country, business is done differently.",
+            "translated": "~z~他以为在这个国家做生意会不一样。",
+            "desc": ""
+        },
+        {
+            "hash": 2461351860,
+            "original": "~z~Pull up, chump!",
+            "translated": "~z~停车，傻逼！",
+            "desc": ""
+        },
+        {
+            "hash": 2494804183,
+            "original": "~z~My friend, smoking in a bar is a crime. Plain and simple.",
+            "translated": "~z~我的朋友，酒吧里抽烟是犯法的。简单明了。",
+            "desc": ""
+        },
+        {
+            "hash": 2555819179,
+            "original": "100100010100100010010100100100100",
+            "translated": "100100010100100010010100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2607010072,
+            "original": "~z~Fucking yokel, you were meant to teach him a lesson.",
+            "translated": "~z~傻逼乡巴佬，你是去教训他的。",
+            "desc": ""
+        },
+        {
+            "hash": 2672413245,
+            "original": "~z~Come back to the bar soon.",
+            "translated": "~z~尽快到酒吧来一趟。",
+            "desc": ""
+        },
+        {
+            "hash": 2723283931,
+            "original": "V2_GB",
+            "translated": "V2_GB",
+            "desc": ""
+        },
+        {
+            "hash": 2756114351,
+            "original": "V2_IC",
+            "translated": "V2_IC",
+            "desc": ""
+        },
+        {
+            "hash": 2794149707,
+            "original": "V2_EB",
+            "translated": "V2_EB",
+            "desc": ""
+        },
+        {
+            "hash": 2812558520,
+            "original": "~z~Says he will call cops on us.",
+            "translated": "~z~他说要报警抓我们。",
+            "desc": ""
+        },
+        {
+            "hash": 2823879221,
+            "original": "~z~Stupid peasant, think about it. Dead men can't pay me money.",
+            "translated": "~z~土包子傻蛋，动动脑子。死人可交不上钱。",
+            "desc": ""
+        },
+        {
+            "hash": 2848022167,
+            "original": "V2_EC",
+            "translated": "V2_EC",
+            "desc": ""
+        },
+        {
+            "hash": 2850973586,
+            "original": "V2_BB",
+            "translated": "V2_BB",
+            "desc": ""
+        },
+        {
+            "hash": 2912580997,
+            "original": "~z~He's going to be the problem buzzing in my ears now. Dipshit!",
+            "translated": "~z~现在他这问题要一直在我耳边嗡嗡响 了。傻逼！",
+            "desc": ""
+        },
+        {
+            "hash": 2919438877,
+            "original": "V2_JA",
+            "translated": "V2_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2986536881,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2992874078,
+            "original": "V2_JB",
+            "translated": "V2_JB",
+            "desc": ""
+        },
+        {
+            "hash": 3180604529,
+            "original": "~z~I thought this country was different.",
+            "translated": "~z~我还以为这个国家会不一样。",
+            "desc": ""
+        },
+        {
+            "hash": 3180708243,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3211362236,
+            "original": "V2_IE",
+            "translated": "V2_IE",
+            "desc": ""
+        },
+        {
+            "hash": 3232645940,
+            "original": "V2_FB",
+            "translated": "V2_FB",
+            "desc": ""
+        },
+        {
+            "hash": 3290166695,
+            "original": "~z~Muscovski jerk who owns a laundry on Masterson Street.",
+            "translated": "~z~混蛋Muscovski，他在Masterson街开了家洗衣店。",
+            "desc": ""
+        },
+        {
+            "hash": 3306885433,
+            "original": "~z~Now listen - you did good with that business the other day,",
+            "translated": "~z~听着，之前的事你办得很好。",
+            "desc": ""
+        },
+        {
+            "hash": 3368798494,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 3391654613,
+            "original": "~z~Okay, you want me to ram you? I'll ram you off the road.",
+            "translated": "~z~行，那你是想让我撞你喽？我会把你撞下马路的。",
+            "desc": ""
+        },
+        {
+            "hash": 3417148923,
+            "original": "~z~You're making this harder for both of us.",
+            "translated": "~z~你这样大家都不好办。",
+            "desc": ""
+        },
+        {
+            "hash": 3432394041,
+            "original": "V2_IJ",
+            "translated": "V2_IJ",
+            "desc": ""
+        },
+        {
+            "hash": 3476522322,
+            "original": "V2_GA",
+            "translated": "V2_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3606267471,
+            "original": "SFX_PAUSE_750",
+            "translated": "SFX_PAUSE_750",
+            "desc": ""
+        },
+        {
+            "hash": 3650365896,
+            "original": "~z~Shit, you're starting to piss me off.",
+            "translated": "~z~妈的，老子要发火了。",
+            "desc": ""
+        },
+        {
+            "hash": 3699875250,
+            "original": "V2_GC",
+            "translated": "V2_GC",
+            "desc": ""
+        },
+        {
+            "hash": 3722193191,
+            "original": "~z~Who?",
+            "translated": "~z~谁？",
+            "desc": ""
+        },
+        {
+            "hash": 3723674452,
+            "original": "~z~Great girl.",
+            "translated": "~z~好女孩。",
+            "desc": ""
+        },
+        {
+            "hash": 3812838793,
+            "original": "~z~but now one more peasant is trying to avoid paying.",
+            "translated": "~z~不过现在又有个土包子不想交钱了。",
+            "desc": ""
+        },
+        {
+            "hash": 3827648249,
+            "original": "V2_YA",
+            "translated": "V2_YA",
+            "desc": ""
+        },
+        {
+            "hash": 4020690085,
+            "original": "~z~You got me, okay?",
+            "translated": "~z~你抓住我了行吧？",
+            "desc": ""
+        },
+        {
+            "hash": 4030097371,
+            "original": "~z~Hey, Mallorie. Tell fatty his cousin is okay... he just walked in.",
+            "translated": "~z~嘿，Mallorie。告诉胖子他堂弟没事...他刚走进来。",
+            "desc": ""
+        },
+        {
+            "hash": 4173010828,
+            "original": "~z~Stop your van already.",
+            "translated": "~z~把车停下。",
+            "desc": ""
+        },
+        {
+            "hash": 4173522588,
+            "original": "~z~I see anyone, I don't know you.",
+            "translated": "~z~见谁我都不认识你。",
+            "desc": ""
+        },
+        {
+            "hash": 4254185163,
+            "original": "V2_IH",
+            "translated": "V2_IH",
+            "desc": ""
+        },
+        {
+            "hash": 4256996519,
+            "original": "~z~I have a message from Vlad.",
+            "translated": "~z~Vlad让我来带个话。",
+            "desc": ""
+        },
+        {
+            "hash": 4283351556,
+            "original": "V2_FA",
+            "translated": "V2_FA",
+            "desc": ""
+        }
+    ]
+}

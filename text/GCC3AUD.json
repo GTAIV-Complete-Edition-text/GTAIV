@@ -1,0 +1,1594 @@
+{
+    "GCC3AUD": [
+        {
+            "hash": 18960636,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 19327881,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 43210274,
+            "original": "GCC_ACT_BOWL_LEAVE_LOST",
+            "translated": "GCC_ACT_BOWL_LEAVE_LOST",
+            "desc": ""
+        },
+        {
+            "hash": 50342495,
+            "original": "~z~This ain't how I want tonight to end. Too bad.",
+            "translated": "~z~我不想这样度过今晚。真遗憾。",
+            "desc": ""
+        },
+        {
+            "hash": 59553736,
+            "original": "~z~Baby, maybe next time, okay?",
+            "translated": "~z~宝贝，下次再说吧，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 79898706,
+            "original": "GCC_DA",
+            "translated": "GCC_DA",
+            "desc": ""
+        },
+        {
+            "hash": 99404967,
+            "original": "~z~Think of me tonight, okay?",
+            "translated": "~z~今晚想想我，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 105582283,
+            "original": "GCC_ACT_PCA_END_REJECT",
+            "translated": "GCC_ACT_PCA_END_REJECT",
+            "desc": ""
+        },
+        {
+            "hash": 111591150,
+            "original": "~z~You see how many guys in there was staring at my tits? You a lucky boy tonight.",
+            "translated": "~z~你知道里面有多少人渴望我的奶子吗？今晚是你走运。",
+            "desc": ""
+        },
+        {
+            "hash": 111784620,
+            "original": "~z~Bye baby.",
+            "translated": "~z~再见，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 121079394,
+            "original": "~z~Carmen had a real good time, Niko. This is something she could do again.",
+            "translated": "~z~Carmen玩得很开心，Niko。她下次可能还想这样玩一次。",
+            "desc": ""
+        },
+        {
+            "hash": 131522668,
+            "original": "~z~You know where Carmen's place is. Come on, Niko.",
+            "translated": "~z~你知道Carmen的家在哪。快点，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 133091977,
+            "original": "~z~At least I can say I seen it now.",
+            "translated": "~z~至少多了点生活经验。",
+            "desc": ""
+        },
+        {
+            "hash": 134893819,
+            "original": "GCC_ACT_POOL_LEAVE_ABANDON",
+            "translated": "GCC_ACT_POOL_LEAVE_ABANDON",
+            "desc": ""
+        },
+        {
+            "hash": 244580203,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 262905835,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 275721045,
+            "original": "GCC_ACT_DATEFINISHED_BAD",
+            "translated": "GCC_ACT_DATEFINISHED_BAD",
+            "desc": ""
+        },
+        {
+            "hash": 287953908,
+            "original": "~z~Carmen was easily the best looking girl in that place. For sure.",
+            "translated": "~z~Carmen显然是店里最好看的女孩。",
+            "desc": ""
+        },
+        {
+            "hash": 291915563,
+            "original": "~z~You fucked this one up, Niko. I don't know how, but you did.",
+            "translated": "~z~你搞砸了，Niko。不知道你怎么搞的，但你搞砸了。",
+            "desc": ""
+        },
+        {
+            "hash": 314638524,
+            "original": "~z~Hey.",
+            "translated": "~z~嘿。",
+            "desc": ""
+        },
+        {
+            "hash": 330736418,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 336373432,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 392421202,
+            "original": "~z~Not tonight baby, but that don't mean I don't like you.",
+            "translated": "~z~今晚不行，但这不代表我不喜欢你。",
+            "desc": ""
+        },
+        {
+            "hash": 460883883,
+            "original": "~z~You taking Carmen home, ain't you?",
+            "translated": "~z~你要送Carmen回家，对吗？",
+            "desc": ""
+        },
+        {
+            "hash": 462625397,
+            "original": "~z~Carmen ain't sure what you trying to do on this date.",
+            "translated": "~z~Carmen不确定这次约会你想做什么。",
+            "desc": ""
+        },
+        {
+            "hash": 495835932,
+            "original": "GCC_ACT_LEAVE_SHOW_LATE",
+            "translated": "GCC_ACT_LEAVE_SHOW_LATE",
+            "desc": ""
+        },
+        {
+            "hash": 503025853,
+            "original": "GCC_ACT_BOWL_LEAVE_ABANDON",
+            "translated": "GCC_ACT_BOWL_LEAVE_ABANDON",
+            "desc": ""
+        },
+        {
+            "hash": 543654471,
+            "original": "~z~That was fun.",
+            "translated": "~z~真是有趣。",
+            "desc": ""
+        },
+        {
+            "hash": 549126967,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 549359276,
+            "original": "~z~He was funny, I guess...",
+            "translated": "~z~我想他很滑稽...",
+            "desc": ""
+        },
+        {
+            "hash": 570915652,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 579695788,
+            "original": "~z~Get in here now.",
+            "translated": "~z~进来吧，快点。",
+            "desc": ""
+        },
+        {
+            "hash": 591399211,
+            "original": "~z~Well, that was something to do, wasn't it?",
+            "translated": "~z~总归也是种选择，不是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 609886179,
+            "original": "~z~I'm real horny now, Niko.",
+            "translated": "~z~我现在简直欲火焚身啊，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 657039233,
+            "original": "~z~Carmen's real horny, Niko. Why don't you find a quiet place where we can have some fun in the car?",
+            "translated": "~z~Carmen现在很饥渴，Niko。要么你找个安静的地方，我们在车里找点乐子吧？",
+            "desc": ""
+        },
+        {
+            "hash": 664034503,
+            "original": "GCC_ACT_POOL_LEAVE_DRAW",
+            "translated": "GCC_ACT_POOL_LEAVE_DRAW",
+            "desc": ""
+        },
+        {
+            "hash": 676263414,
+            "original": "~z~Later, Niko.",
+            "translated": "~z~回见，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 679139286,
+            "original": "~z~You real impressive, Niko.",
+            "translated": "~z~令人印象深刻，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 720869220,
+            "original": "~z~You treat Carmen okay.",
+            "translated": "~z~你对Carmen还不错。",
+            "desc": ""
+        },
+        {
+            "hash": 735330239,
+            "original": "~z~Yeah, Niko's not so sure. I think one date was enough for him. See you around.",
+            "translated": "~z~是啊，Niko也不是很确定。我想一次约会对他来说足够了。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 749227120,
+            "original": "GCC_BA",
+            "translated": "GCC_BA",
+            "desc": ""
+        },
+        {
+            "hash": 765968030,
+            "original": "~z~Carmen don't know what you thinking on this date.",
+            "translated": "~z~Carmen不知道这次约会你在想什么。",
+            "desc": ""
+        },
+        {
+            "hash": 771176706,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 776113734,
+            "original": "GCC_ACT_PCA_END_KISS",
+            "translated": "GCC_ACT_PCA_END_KISS",
+            "desc": ""
+        },
+        {
+            "hash": 786350348,
+            "original": "~z~This hasn't exactly been Carmen's dream date.",
+            "translated": "~z~这跟Carmen期待的约会南辕北辙。",
+            "desc": ""
+        },
+        {
+            "hash": 789504688,
+            "original": "GCC_ACT_DARTS_LEAVE_ABANDON",
+            "translated": "GCC_ACT_DARTS_LEAVE_ABANDON",
+            "desc": ""
+        },
+        {
+            "hash": 797817429,
+            "original": "~z~Alright.",
+            "translated": "~z~好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 802778031,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 805196708,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 809242633,
+            "original": "~z~Carmen wants you in here.",
+            "translated": "~z~Carmen同意你进来。",
+            "desc": ""
+        },
+        {
+            "hash": 819393099,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 821204456,
+            "original": "~z~Carmen has some fun in there. You can put away that vodka, Niko.",
+            "translated": "~z~Carmen在这儿玩得很开心。那瓶伏特加你可以收着，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 834414572,
+            "original": "~z~I'm not feeling it no more, baby. Just take me to my place.",
+            "translated": "~z~我已经玩够了。送我回家吧。",
+            "desc": ""
+        },
+        {
+            "hash": 846292580,
+            "original": "~z~There's a good place for fun. Park the car there, Niko.",
+            "translated": "~z~这有个找乐子的好地方。把车停这儿，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 855348869,
+            "original": "~z~I ain't in the mood tonight but I'll probably be next time. See you soon, baby.",
+            "translated": "~z~今晚我没心情，还是改天吧。再见，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 861008015,
+            "original": "~z~Niko, I thought you wanted to get horny up in there?",
+            "translated": "~z~Niko，你去那里不是为了爽的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 871889240,
+            "original": "GCC_ACT_LEAVE_PUB_FAVOURITE",
+            "translated": "GCC_ACT_LEAVE_PUB_FAVOURITE",
+            "desc": ""
+        },
+        {
+            "hash": 878340645,
+            "original": "~z~Yes! I beat you at darts!",
+            "translated": "~z~好！我飞镖赢了你！",
+            "desc": ""
+        },
+        {
+            "hash": 881648155,
+            "original": "~z~What's up with you?",
+            "translated": "~z~你怎么想的？",
+            "desc": ""
+        },
+        {
+            "hash": 942961391,
+            "original": "~z~I hope you got something out of that.",
+            "translated": "~z~希望你从中有所收获。",
+            "desc": ""
+        },
+        {
+            "hash": 949502780,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 957715152,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 959591385,
+            "original": "~z~Carmen kind of enjoyed herself.",
+            "translated": "~z~Carmen玩得还挺开心。",
+            "desc": ""
+        },
+        {
+            "hash": 968227404,
+            "original": "~z~Ain't you the big man?",
+            "translated": "~z~你还挺厉害嘛。",
+            "desc": ""
+        },
+        {
+            "hash": 972319300,
+            "original": "~z~I would have dressed up more if I'd known we was going to that place.",
+            "translated": "~z~早知道要去这家店，我就再打扮得好点了。",
+            "desc": ""
+        },
+        {
+            "hash": 980069994,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 989019556,
+            "original": "GCC_ACT_POOL_LEAVE_WON",
+            "translated": "GCC_ACT_POOL_LEAVE_WON",
+            "desc": ""
+        },
+        {
+            "hash": 992740066,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1067205820,
+            "original": "~z~I don't think I could have lasted that whole game out. Good thing it's over.",
+            "translated": "~z~我不认为我能玩完整局。幸好提前结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 1095394787,
+            "original": "~z~Carmen didn't exactly have fun.",
+            "translated": "~z~实际上，Carmen玩得并不开心。",
+            "desc": ""
+        },
+        {
+            "hash": 1125366314,
+            "original": "~z~That got me in the mood, baby.",
+            "translated": "~z~我心情很不错，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 1132098003,
+            "original": "~z~That shit is fucking crazy.",
+            "translated": "~z~实在太疯狂了。",
+            "desc": ""
+        },
+        {
+            "hash": 1141000572,
+            "original": "~z~Carmen's enjoyed herself.",
+            "translated": "~z~Carmen玩得很开心。",
+            "desc": ""
+        },
+        {
+            "hash": 1144514809,
+            "original": "GCC_ACT_LEAVE_SHOW_COMEDY",
+            "translated": "GCC_ACT_LEAVE_SHOW_COMEDY",
+            "desc": ""
+        },
+        {
+            "hash": 1172978711,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1177567278,
+            "original": "GCC_ACT_PCA_END_NO",
+            "translated": "GCC_ACT_PCA_END_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1178116149,
+            "original": "GCC_ACT_SHOW_REACT_POS",
+            "translated": "GCC_ACT_SHOW_REACT_POS",
+            "desc": ""
+        },
+        {
+            "hash": 1188742315,
+            "original": "~z~Carmen don't get this shit.",
+            "translated": "~z~Carmen并不开心。",
+            "desc": ""
+        },
+        {
+            "hash": 1189571269,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1222263655,
+            "original": "GCC_ACT_DARTS_LEAVE_DRAW",
+            "translated": "GCC_ACT_DARTS_LEAVE_DRAW",
+            "desc": ""
+        },
+        {
+            "hash": 1242387332,
+            "original": "~z~See you.",
+            "translated": "~z~再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1292749481,
+            "original": "~z~Carmen feels your vibe baby. But she don't feel it like that tonight.",
+            "translated": "~z~Carmen能体谅你的感受。但她今晚不太想来。",
+            "desc": ""
+        },
+        {
+            "hash": 1301900384,
+            "original": "~z~I want you to treat Carmen like a real lady. Find somewhere quiet to park this car.",
+            "translated": "~z~我希望你把Carmen当作真正的贵妇对待。找个安静的地方停车。",
+            "desc": ""
+        },
+        {
+            "hash": 1310541955,
+            "original": "GCC_ACT_BOWL_LEAVE_DRAW",
+            "translated": "GCC_ACT_BOWL_LEAVE_DRAW",
+            "desc": ""
+        },
+        {
+            "hash": 1316842025,
+            "original": "~z~That was interesting.",
+            "translated": "~z~真有趣啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1327456179,
+            "original": "~z~I've had an alright time.",
+            "translated": "~z~我度过了一段不错的时光。",
+            "desc": ""
+        },
+        {
+            "hash": 1329646284,
+            "original": "~z~Your loss, Carmen.",
+            "translated": "~z~你亏了，Carmen。",
+            "desc": ""
+        },
+        {
+            "hash": 1336259088,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1367454894,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1408841406,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1415067869,
+            "original": "~z~I don't think we should see each other no more. Carmen looking for a man who's big time. Sorry baby.",
+            "translated": "~z~我想我们不应该再见面了。Carmen想找一个厉害的男人。不好意思了。",
+            "desc": ""
+        },
+        {
+            "hash": 1428085198,
+            "original": "~z~Come in Niko, let's go.",
+            "translated": "~z~快进来，Niko，走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1428370718,
+            "original": "GCC_ACT_LEAVE_STANDARD",
+            "translated": "GCC_ACT_LEAVE_STANDARD",
+            "desc": ""
+        },
+        {
+            "hash": 1431229543,
+            "original": "GCC_ACT_POOL_LEAVE_LOST",
+            "translated": "GCC_ACT_POOL_LEAVE_LOST",
+            "desc": ""
+        },
+        {
+            "hash": 1433261317,
+            "original": "GCC_CA",
+            "translated": "GCC_CA",
+            "desc": ""
+        },
+        {
+            "hash": 1435204678,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1483206713,
+            "original": "~z~I'll call you, okay?",
+            "translated": "~z~我会打电话给你的，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1505700018,
+            "original": "~z~I really want to come inside with you.",
+            "translated": "~z~我真的很想进来陪你。",
+            "desc": ""
+        },
+        {
+            "hash": 1509305549,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1539305077,
+            "original": "~z~Carmen getting real bored.",
+            "translated": "~z~Carmen觉得很无聊。",
+            "desc": ""
+        },
+        {
+            "hash": 1540924362,
+            "original": "GCC_ACT_PCA_END_RESPONSE",
+            "translated": "GCC_ACT_PCA_END_RESPONSE",
+            "desc": ""
+        },
+        {
+            "hash": 1558510398,
+            "original": "~z~That was okay, Niko.",
+            "translated": "~z~没事，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1561609634,
+            "original": "GCC_ACT_DARTS_LEAVE_LOST",
+            "translated": "GCC_ACT_DARTS_LEAVE_LOST",
+            "desc": ""
+        },
+        {
+            "hash": 1569058940,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1571663967,
+            "original": "~z~We might both enjoy it if I came in.",
+            "translated": "~z~如果我进来，大家都可以很快乐。",
+            "desc": ""
+        },
+        {
+            "hash": 1573109000,
+            "original": "~z~Carmen going to take you on a wild ride. Pull up over there.",
+            "translated": "~z~Carmen要带你爽一爽。把车停在那儿。",
+            "desc": ""
+        },
+        {
+            "hash": 1623674928,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1650692905,
+            "original": "~z~Carmen liked that, you can take her home now.",
+            "translated": "~z~Carmen很高兴，现在可以送她回家了。",
+            "desc": ""
+        },
+        {
+            "hash": 1665436412,
+            "original": "~z~I'm all cold now, Niko. The heat has left me. Just take me back to my place.",
+            "translated": "~z~我受够了，Niko。我的火灭了。直接送我回去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1684509244,
+            "original": "GCC_ACT_PCA_END_KISS_AGREE",
+            "translated": "GCC_ACT_PCA_END_KISS_AGREE",
+            "desc": ""
+        },
+        {
+            "hash": 1686828384,
+            "original": "~z~Alright then.",
+            "translated": "~z~好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1713633745,
+            "original": "GCC_ACT_BORED_HOME",
+            "translated": "GCC_ACT_BORED_HOME",
+            "desc": ""
+        },
+        {
+            "hash": 1745211788,
+            "original": "~z~I know just the spot, Niko. It's over there.",
+            "translated": "~z~我知道个好地方，Niko。在那边。",
+            "desc": ""
+        },
+        {
+            "hash": 1753445563,
+            "original": "GCC_ACT_PCA_END_GOOD_Y",
+            "translated": "GCC_ACT_PCA_END_GOOD_Y",
+            "desc": ""
+        },
+        {
+            "hash": 1760009189,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1790088398,
+            "original": "~z~Goodnight, Carmen.",
+            "translated": "~z~晚安，Carmen。",
+            "desc": ""
+        },
+        {
+            "hash": 1790088924,
+            "original": "~z~I've had a good time.",
+            "translated": "~z~我玩得很开心。",
+            "desc": ""
+        },
+        {
+            "hash": 1790966002,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1791604532,
+            "original": "~z~Why's it taking so long to find something to do?",
+            "translated": "~z~怎么还没到下一个地方啊？",
+            "desc": ""
+        },
+        {
+            "hash": 1792791780,
+            "original": "GCC_ACT_PCA_END_GOOD_N",
+            "translated": "GCC_ACT_PCA_END_GOOD_N",
+            "desc": ""
+        },
+        {
+            "hash": 1795588707,
+            "original": "~z~Another time, maybe.",
+            "translated": "~z~那就下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1796117744,
+            "original": "~z~You lucky, lucky man. How lucky are you?",
+            "translated": "~z~你很幸运，幸运儿。你有多幸运？",
+            "desc": ""
+        },
+        {
+            "hash": 1800358818,
+            "original": "~z~If I've read the signals right, you want me to come inside as much as I do.",
+            "translated": "~z~如果我没想错，你也很希望我进去。",
+            "desc": ""
+        },
+        {
+            "hash": 1843920181,
+            "original": "GCC_ACT_PCA_END_KISS_RESPONSE",
+            "translated": "GCC_ACT_PCA_END_KISS_RESPONSE",
+            "desc": ""
+        },
+        {
+            "hash": 1853363081,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1858220860,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1877015767,
+            "original": "GCC_ACT_PCA_END_YES",
+            "translated": "GCC_ACT_PCA_END_YES",
+            "desc": ""
+        },
+        {
+            "hash": 1936300183,
+            "original": "~z~More time we bowling, the less time we going to be doing other stuff, Niko.",
+            "translated": "~z~花越多时间打保龄球，我们做其他事的时间就越少，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1956498140,
+            "original": "~z~Are we going to do something, or what?",
+            "translated": "~z~我们还有别的安排吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1956722596,
+            "original": "~z~Carmen is finished now. Take her home.",
+            "translated": "~z~Carmen玩够了。送她回家。",
+            "desc": ""
+        },
+        {
+            "hash": 2008498161,
+            "original": "GCC_AA",
+            "translated": "GCC_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2030192827,
+            "original": "GCC_ACT_BORED_GETTING",
+            "translated": "GCC_ACT_BORED_GETTING",
+            "desc": ""
+        },
+        {
+            "hash": 2045346813,
+            "original": "~z~There ain't even a winner. What's the point of that?",
+            "translated": "~z~甚至连赢家都没有。那有什么意义？",
+            "desc": ""
+        },
+        {
+            "hash": 2056374341,
+            "original": "~z~You want to do something other than play pool with Carmen?",
+            "translated": "~z~除了打台球，你就不想和Carmen做点别的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2066315219,
+            "original": "~z~There's somewhere we can have fun, just over there.",
+            "translated": "~z~这儿有个可以玩得很嗨的地方，就在那边。",
+            "desc": ""
+        },
+        {
+            "hash": 2069983175,
+            "original": "~z~Don't nobody not want to get with Carmen.",
+            "translated": "~z~没有人不想和Carmen在一起。",
+            "desc": ""
+        },
+        {
+            "hash": 2079124701,
+            "original": "~z~I think you know what I'm thinking. How about I come in?",
+            "translated": "~z~你应该知道我的想法。我可以进去吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2088254134,
+            "original": "GCC_ACT_BOWL_LEAVE_WON",
+            "translated": "GCC_ACT_BOWL_LEAVE_WON",
+            "desc": ""
+        },
+        {
+            "hash": 2102180204,
+            "original": "~z~Me gusta. Me gusta. Papi. Papi.",
+            "translated": "~z~我喜欢你。我喜欢你。爸爸。爸爸。",
+            "desc": ""
+        },
+        {
+            "hash": 2112440884,
+            "original": "~z~Mmmm, you remind me of my papi. Take me home, will you?",
+            "translated": "~z~嗯...你让我想起了爸爸。送我回家好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2113689393,
+            "original": "~z~Okay then.",
+            "translated": "~z~好的。",
+            "desc": ""
+        },
+        {
+            "hash": 2120206715,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2135851536,
+            "original": "~z~Even if it ain't classy, it tastes good.",
+            "translated": "~z~店虽然不高级，东西实在是好吃。",
+            "desc": ""
+        },
+        {
+            "hash": 2139374459,
+            "original": "~z~This is just not the spontaneous thing I was thinking of. Just take me back to my place, Niko.",
+            "translated": "~z~这不是我想的那个欲望。送我回家吧，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2162840321,
+            "original": "~z~You got Carmen all hot, Niko. You want to find a place where we can park and we can enjoy each other?",
+            "translated": "~z~你让Carmen动情了，Niko。你想找个地方停车然后和她亲热下吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2176430025,
+            "original": "~z~I'll find something else to do.",
+            "translated": "~z~我会找其他事做的。",
+            "desc": ""
+        },
+        {
+            "hash": 2176562491,
+            "original": "~z~That how I like my bowling, short and sweet.",
+            "translated": "~z~我就喜欢这样的保龄球，快速愉悦。",
+            "desc": ""
+        },
+        {
+            "hash": 2249171536,
+            "original": "~z~How many guys in that place you think I been with, Niko?",
+            "translated": "~z~你觉得我认识多少店里的人，Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 2254466657,
+            "original": "~z~Where you taking Carmen? She's getting bored.",
+            "translated": "~z~你要带Carmen去哪？她现在很无聊。",
+            "desc": ""
+        },
+        {
+            "hash": 2261310463,
+            "original": "~z~You can take Carmen home now. She's had her fun.",
+            "translated": "~z~现在可以送Carmen回家了。她玩得很开心。",
+            "desc": ""
+        },
+        {
+            "hash": 2264462535,
+            "original": "GCC_ACT_PCA_END_NO_RESPONSE",
+            "translated": "GCC_ACT_PCA_END_NO_RESPONSE",
+            "desc": ""
+        },
+        {
+            "hash": 2291912714,
+            "original": "~z~You cannot hold Carmen down. You can't.",
+            "translated": "~z~你无法束缚Carmen。你不能。",
+            "desc": ""
+        },
+        {
+            "hash": 2303976905,
+            "original": "~z~You have something else on your mind than pool?",
+            "translated": "~z~你脑子里只有台球吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2341128912,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2349952021,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2378785957,
+            "original": "~z~Let's get the fuck out of here.",
+            "translated": "~z~我们快他妈走人吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2382559038,
+            "original": "~z~This is cool.",
+            "translated": "~z~没问题。",
+            "desc": ""
+        },
+        {
+            "hash": 2385793462,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2386961035,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2403472311,
+            "original": "~z~You want me to come inside with you?",
+            "translated": "~z~想让我进来陪你吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2418508279,
+            "original": "~z~This is boring, let's do something.",
+            "translated": "~z~太无聊了，找点事情做吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2435506622,
+            "original": "~z~So long, Carmen.",
+            "translated": "~z~再见，Carmen。",
+            "desc": ""
+        },
+        {
+            "hash": 2479847627,
+            "original": "~z~Let's be spontaneous, Niko. Find somewhere to park this car so we can have fun.",
+            "translated": "~z~遵从欲望吧，Niko。找个地方停车，方便我们交欢。",
+            "desc": ""
+        },
+        {
+            "hash": 2485621952,
+            "original": "~z~I'm having fun, Niko. You got anywhere else you want to take me?",
+            "translated": "~z~我玩得正嗨呢，Niko。你想带我去其他地方吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2485648370,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2500488839,
+            "original": "~z~You have lost your opportunity for outdoor fun with Carmen. Take me home instead.",
+            "translated": "~z~你没把握住和Carmen野外寻欢的机会。送我回家。",
+            "desc": ""
+        },
+        {
+            "hash": 2502815281,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2558334263,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2599580855,
+            "original": "~z~Enjoy Carmen when you have her.",
+            "translated": "~z~好好享受和Carmen在一起的时光吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2609446357,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2617088205,
+            "original": "~z~You can't even beat Carmen at your own game. You ain't much of a man, is you?",
+            "translated": "~z~你甚至不能在擅长的领域战胜Carmen。你太弱了，不是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2638939541,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2666695151,
+            "original": "~z~You a lucky boy, Niko. You get to take Carmen home now.",
+            "translated": "~z~你真是个幸运儿，Niko。你现在得送Carmen回家了。",
+            "desc": ""
+        },
+        {
+            "hash": 2682184156,
+            "original": "GCC_ACT_LEAVE_STRIP_OKAY",
+            "translated": "GCC_ACT_LEAVE_STRIP_OKAY",
+            "desc": ""
+        },
+        {
+            "hash": 2685302119,
+            "original": "GCC_ACT_SHOW_REACT_NEG",
+            "translated": "GCC_ACT_SHOW_REACT_NEG",
+            "desc": ""
+        },
+        {
+            "hash": 2695806116,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2706683868,
+            "original": "~z~Why don't I escort you in?",
+            "translated": "~z~我陪你进去吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2715386571,
+            "original": "~z~Catch you around, Carmen.",
+            "translated": "~z~之后见，Carmen。",
+            "desc": ""
+        },
+        {
+            "hash": 2717917148,
+            "original": "~z~You sure can handle your stick, Niko.",
+            "translated": "~z~你的棒子功夫真好，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2776843247,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2790297875,
+            "original": "~z~This isn't working, Niko. Just take me back to my place.",
+            "translated": "~z~别这样了，Niko。送我回去就好了。",
+            "desc": ""
+        },
+        {
+            "hash": 2790371161,
+            "original": "GCC_ACT_END_BAD",
+            "translated": "GCC_ACT_END_BAD",
+            "desc": ""
+        },
+        {
+            "hash": 2873079633,
+            "original": "~z~Carmen ain't impressed with your pool skills, Niko.",
+            "translated": "~z~Carmen对你的球技不以为然，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2874578975,
+            "original": "~z~You been treating Carmen right.",
+            "translated": "~z~你对Carmen很好。",
+            "desc": ""
+        },
+        {
+            "hash": 2884193541,
+            "original": "~z~I'd like to come in.",
+            "translated": "~z~我想要进来。",
+            "desc": ""
+        },
+        {
+            "hash": 2893483209,
+            "original": "GCC_ACT_LEAVE_SHOW_EARLY",
+            "translated": "GCC_ACT_LEAVE_SHOW_EARLY",
+            "desc": ""
+        },
+        {
+            "hash": 2907019613,
+            "original": "~z~Carmen likes this.",
+            "translated": "~z~Carmen喜欢这样。",
+            "desc": ""
+        },
+        {
+            "hash": 2952320244,
+            "original": "~z~I think we'd have fun if I came in.",
+            "translated": "~z~如果我进来，我想我们会玩得很开心。",
+            "desc": ""
+        },
+        {
+            "hash": 2956209266,
+            "original": "~z~Carmen's feeling tired. Why don't you take her home?",
+            "translated": "~z~Carmen累了。要么送她回家吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2967883325,
+            "original": "~z~Where we going next, baby? Carmen is having fun.",
+            "translated": "~z~接下来要去哪，宝贝？Carmen正在兴头上呢。",
+            "desc": ""
+        },
+        {
+            "hash": 2978040301,
+            "original": "GCC_ACT_END_GOOD",
+            "translated": "GCC_ACT_END_GOOD",
+            "desc": ""
+        },
+        {
+            "hash": 2987074288,
+            "original": "~z~That so funny.",
+            "translated": "~z~太有趣了。",
+            "desc": ""
+        },
+        {
+            "hash": 3004831829,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3011211492,
+            "original": "~z~What's the problem, Niko? You can't handle seeing all them sexy women with me there?",
+            "translated": "~z~怎么了，Niko？和我在一起，你看那些性感美女还把持不住吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3038578107,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3040865778,
+            "original": "~z~Maybe you can give Carmen the money you would have spent at a real restaurant.",
+            "translated": "~z~也许你可以把你在大餐馆里花的钱给Carmen。",
+            "desc": ""
+        },
+        {
+            "hash": 3067688229,
+            "original": "~z~Winning at bowling is the one time you going to get lucky tonight, baby.",
+            "translated": "~z~赢得保龄球比赛是你今晚唯一的幸运，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 3089266903,
+            "original": "GCC_ACT_LEAVE_PUB_GENERIC",
+            "translated": "GCC_ACT_LEAVE_PUB_GENERIC",
+            "desc": ""
+        },
+        {
+            "hash": 3103889243,
+            "original": "GCC_ACT_LEAVE_CLUB_GENERIC",
+            "translated": "GCC_ACT_LEAVE_CLUB_GENERIC",
+            "desc": ""
+        },
+        {
+            "hash": 3138556792,
+            "original": "~z~Carmen can't help being good at this shit, even if it is bowling.",
+            "translated": "~z~即使是打保龄球，Carmen也无法放水。",
+            "desc": ""
+        },
+        {
+            "hash": 3144893168,
+            "original": "~z~Take Carmen home will you?",
+            "translated": "~z~你会送Carmen回家的吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3186616400,
+            "original": "~z~How about you take Carmen to do something else now?",
+            "translated": "~z~现在带Carmen去做点别的事，怎么样？",
+            "desc": ""
+        },
+        {
+            "hash": 3200936917,
+            "original": "~z~Ain't no winner there.",
+            "translated": "~z~没有产生赢家。",
+            "desc": ""
+        },
+        {
+            "hash": 3204398288,
+            "original": "~z~You like this, don't you?",
+            "translated": "~z~你喜欢这样，不是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3204431127,
+            "original": "~z~Later.",
+            "translated": "~z~回见。",
+            "desc": ""
+        },
+        {
+            "hash": 3208339490,
+            "original": "~z~Can we do something already? Come on, Niko.",
+            "translated": "~z~能不能找点事做啊？快点，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3209516483,
+            "original": "~z~That made me all excited, Niko.",
+            "translated": "~z~我兴奋起来了，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3225671530,
+            "original": "~z~Yeah, I had fun too. Give me your number and you might just get a call from me.",
+            "translated": "~z~是啊，我也玩得很开心。给我你的电话吧，以后我可能会打过来找你。",
+            "desc": ""
+        },
+        {
+            "hash": 3233366084,
+            "original": "~z~Papi, papi. Ooooo.",
+            "translated": "~z~爸爸，爸爸，喔...",
+            "desc": ""
+        },
+        {
+            "hash": 3246794854,
+            "original": "~z~Bye, Niko.",
+            "translated": "~z~再见，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3248186732,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3248705399,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3256687214,
+            "original": "~z~I'm drunk out of my brain, baby.",
+            "translated": "~z~我喝得烂醉如泥，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 3260210340,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3282718826,
+            "original": "~z~I'm happy that's over.",
+            "translated": "~z~我很高兴那结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 3283469893,
+            "original": "~z~Ha, ha, ha, ha!",
+            "translated": "~z~哈，哈，哈，哈！",
+            "desc": ""
+        },
+        {
+            "hash": 3285658812,
+            "original": "GCC_ACT_PCA_END_BONK",
+            "translated": "GCC_ACT_PCA_END_BONK",
+            "desc": ""
+        },
+        {
+            "hash": 3304247262,
+            "original": "GCC_ACT_DATEFINISHED_HOME",
+            "translated": "GCC_ACT_DATEFINISHED_HOME",
+            "desc": ""
+        },
+        {
+            "hash": 3307896420,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3308367403,
+            "original": "GCC_ACT_PCA_END_REJECT_RESPONSE",
+            "translated": "GCC_ACT_PCA_END_REJECT_RESPONSE",
+            "desc": ""
+        },
+        {
+            "hash": 3323374643,
+            "original": "GCC_EA",
+            "translated": "GCC_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3336341180,
+            "original": "~z~Don't you want to try nothing?",
+            "translated": "~z~你就没有什么想法吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3355367280,
+            "original": "~z~You got the better score, Niko. Big man.",
+            "translated": "~z~你的分数更高，Niko。真强。",
+            "desc": ""
+        },
+        {
+            "hash": 3398932129,
+            "original": "~z~Aha! I beat you at darts!",
+            "translated": "~z~哈！我飞镖赢了你！",
+            "desc": ""
+        },
+        {
+            "hash": 3406094879,
+            "original": "~z~Can you take Carmen home?",
+            "translated": "~z~你能送Carmen回家吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3435259277,
+            "original": "~z~But it's time to take Carmen home, baby.",
+            "translated": "~z~现在得送Carmen回家了。",
+            "desc": ""
+        },
+        {
+            "hash": 3442989886,
+            "original": "~z~You can't leave me like this.",
+            "translated": "~z~你不能像这样丢下我。",
+            "desc": ""
+        },
+        {
+            "hash": 3443349906,
+            "original": "~z~Bye.",
+            "translated": "~z~拜。",
+            "desc": ""
+        },
+        {
+            "hash": 3456438502,
+            "original": "GCC_ACT_DARTS_LEAVE_WON",
+            "translated": "GCC_ACT_DARTS_LEAVE_WON",
+            "desc": ""
+        },
+        {
+            "hash": 3468960292,
+            "original": "GCC_ACT_DATEFINISHED_AGAIN",
+            "translated": "GCC_ACT_DATEFINISHED_AGAIN",
+            "desc": ""
+        },
+        {
+            "hash": 3482623015,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3489928058,
+            "original": "GCC_ACT_DATEFINISHED_OK",
+            "translated": "GCC_ACT_DATEFINISHED_OK",
+            "desc": ""
+        },
+        {
+            "hash": 3492762286,
+            "original": "~z~That was alright.",
+            "translated": "~z~那家店不错。",
+            "desc": ""
+        },
+        {
+            "hash": 3493329995,
+            "original": "~z~I hope you pleased with yourself, Niko.",
+            "translated": "~z~希望你对自己满意，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3502464433,
+            "original": "GCC_ACT_LEAVE_FASTFOOD",
+            "translated": "GCC_ACT_LEAVE_FASTFOOD",
+            "desc": ""
+        },
+        {
+            "hash": 3552077386,
+            "original": "~z~Carmen loves this shit.",
+            "translated": "~z~Carmen很喜欢。",
+            "desc": ""
+        },
+        {
+            "hash": 3564890057,
+            "original": "~z~Which one are you again?",
+            "translated": "~z~你是谁来着？",
+            "desc": ""
+        },
+        {
+            "hash": 3609106521,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3611576990,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3622794320,
+            "original": "~z~Carmen is not in the mood no more. Just take her home.",
+            "translated": "~z~Carmen没心情玩了。送她回家吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3641092880,
+            "original": "~z~There something wrong with you?",
+            "translated": "~z~你出了什么问题吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3644413650,
+            "original": "~z~I don't normally say no, Niko. But for you, I'll make an exception. No.",
+            "translated": "~z~我通常不会说「不」，Niko。但对你是个例外。不。",
+            "desc": ""
+        },
+        {
+            "hash": 3680106370,
+            "original": "~z~I'll call you soon.",
+            "translated": "~z~我会打电话给你。",
+            "desc": ""
+        },
+        {
+            "hash": 3771313267,
+            "original": "~z~I ain't seen nothing like that before.",
+            "translated": "~z~我之前没看过那种东西。",
+            "desc": ""
+        },
+        {
+            "hash": 3788826645,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3791779411,
+            "original": "~z~That place is okay.",
+            "translated": "~z~那地方还好。",
+            "desc": ""
+        },
+        {
+            "hash": 3818815809,
+            "original": "GCC_ACT_LEAVE_HIGHEND",
+            "translated": "GCC_ACT_LEAVE_HIGHEND",
+            "desc": ""
+        },
+        {
+            "hash": 3854376264,
+            "original": "GCC_ACT_LEAVE_STRIP_EARLY",
+            "translated": "GCC_ACT_LEAVE_STRIP_EARLY",
+            "desc": ""
+        },
+        {
+            "hash": 3857617605,
+            "original": "GCC_ACT_DATEFINISHED_GOOD",
+            "translated": "GCC_ACT_DATEFINISHED_GOOD",
+            "desc": ""
+        },
+        {
+            "hash": 3866790862,
+            "original": "~z~Carmen likes this.",
+            "translated": "~z~Carmen喜欢这个。",
+            "desc": ""
+        },
+        {
+            "hash": 3887304757,
+            "original": "~z~Later on, Carmen.",
+            "translated": "~z~再见，Carmen。",
+            "desc": ""
+        },
+        {
+            "hash": 3902053694,
+            "original": "~z~You can take me home now.",
+            "translated": "~z~你可以送我回家了。",
+            "desc": ""
+        },
+        {
+            "hash": 3903834040,
+            "original": "~z~Them people is real snobs up in there.",
+            "translated": "~z~那里的人真是势利。",
+            "desc": ""
+        },
+        {
+            "hash": 3922096351,
+            "original": "~z~Carmen beat you at bowling. I hope you feel like less of a man.",
+            "translated": "~z~Carmen打保龄球赢了你。你这男人真可怜。",
+            "desc": ""
+        },
+        {
+            "hash": 3922804498,
+            "original": "~z~You got anywhere else you want to take Carmen now?",
+            "translated": "~z~你还想带Carmen去其他地方吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3947269504,
+            "original": "~z~Huh? What the fuck?",
+            "translated": "~z~哈？什么鬼？",
+            "desc": ""
+        },
+        {
+            "hash": 4030895996,
+            "original": "~z~I ain't doing this shit.",
+            "translated": "~z~这样很讨厌诶。",
+            "desc": ""
+        },
+        {
+            "hash": 4037804513,
+            "original": "GCC_ACT_LEAVE_SHOW_CABARET",
+            "translated": "GCC_ACT_LEAVE_SHOW_CABARET",
+            "desc": ""
+        },
+        {
+            "hash": 4113084374,
+            "original": "~z~Thank God that's over.",
+            "translated": "~z~感谢老天，终于结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 4114124496,
+            "original": "~z~Niko, I'm sorry but you just ain't doing it for me.",
+            "translated": "~z~Niko，我很抱歉，但是你这么做不是为了我。",
+            "desc": ""
+        },
+        {
+            "hash": 4127658343,
+            "original": "~z~Ooo baby.",
+            "translated": "~z~噢，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 4133399592,
+            "original": "~z~Carmen, goodbye.",
+            "translated": "~z~Carmen，再见。",
+            "desc": ""
+        },
+        {
+            "hash": 4170332607,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4181999261,
+            "original": "~z~Carmen would like to be taken home now.",
+            "translated": "~z~Carmen想要你送她回家。",
+            "desc": ""
+        },
+        {
+            "hash": 4262570933,
+            "original": "~z~Come on, get in here.",
+            "translated": "~z~来吧，快进来。",
+            "desc": ""
+        }
+    ]
+}

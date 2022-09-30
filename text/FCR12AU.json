@@ -1,0 +1,880 @@
+{
+    "FCR12AU": [
+        {
+            "hash": 15619036,
+            "original": "FCR_ACT_CALL_SHOW",
+            "translated": "FCR_ACT_CALL_SHOW",
+            "desc": ""
+        },
+        {
+            "hash": 20471060,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 72678651,
+            "original": "FCR_ACT_GETCALL_STRIP_FIRST",
+            "translated": "FCR_ACT_GETCALL_STRIP_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 129151427,
+            "original": "~z~Is a good idea, cousin. We shall play pool. I pick you up in next hour.",
+            "translated": "~z~是个好主意，堂兄。一起打台球吧。一小时内我来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 140476349,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 180544128,
+            "original": "~z~You want to go eat together?",
+            "translated": "~z~你想去吃顿饭吗？",
+            "desc": ""
+        },
+        {
+            "hash": 189021392,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 192003005,
+            "original": "~z~Strip club sounds good, I pick you up in next hour.",
+            "translated": "~z~脱衣舞俱乐部听起来不错，我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 230176951,
+            "original": "FCR2_ACT_PRO_CALL_SHOW_NO",
+            "translated": "FCR2_ACT_PRO_CALL_SHOW_NO",
+            "desc": ""
+        },
+        {
+            "hash": 261635325,
+            "original": "FCR_ACT_GETCALL_GREET",
+            "translated": "FCR_ACT_GETCALL_GREET",
+            "desc": ""
+        },
+        {
+            "hash": 272387730,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 301531510,
+            "original": "~z~I can no play the pool at this minute. Another time, cousin.",
+            "translated": "~z~我现在没法打台球。改天吧，堂兄。",
+            "desc": ""
+        },
+        {
+            "hash": 344016443,
+            "original": "~z~Niko, you pick up. It has been a time since we spoke.",
+            "translated": "~z~Niko，你接了啊。我们很久没说过话了。",
+            "desc": ""
+        },
+        {
+            "hash": 381002202,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 384140110,
+            "original": "FCR_ACT_PRO_GETCALL_DRINK_NO",
+            "translated": "FCR_ACT_PRO_GETCALL_DRINK_NO",
+            "desc": ""
+        },
+        {
+            "hash": 461462494,
+            "original": "FCR_ACT_GETCALL_DRINK_FIRST",
+            "translated": "FCR_ACT_GETCALL_DRINK_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 498237411,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 516254894,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 553414443,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 554093042,
+            "original": "~z~Alright, man. Let's play darts. I pick you up in next hour.",
+            "translated": "~z~好的，老哥。我们玩飞镖吧。一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 559806411,
+            "original": "~z~I don't want a full stomach for the stuff I have to do. Another time...",
+            "translated": "~z~我不太想吃撑了再去干活。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 570166847,
+            "original": "~z~Cousin, I am in no mood to be entertained. Another time will be better... perhaps.",
+            "translated": "~z~堂兄，我现在没心情娱乐。改天去可能会更好...大概吧。",
+            "desc": ""
+        },
+        {
+            "hash": 575960086,
+            "original": "~z~You wanna go shoot pool?",
+            "translated": "~z~想去打台球吗？",
+            "desc": ""
+        },
+        {
+            "hash": 594584677,
+            "original": "~z~Sorry, cousin. I have no time to play pool right now.",
+            "translated": "~z~抱歉，堂兄。我现在没空打台球。",
+            "desc": ""
+        },
+        {
+            "hash": 657943463,
+            "original": "~z~Cousin, I have not hung out with you in a long time.",
+            "translated": "~z~堂弟，有段时间没跟你出去了。",
+            "desc": ""
+        },
+        {
+            "hash": 708531197,
+            "original": "FCR_ACT_GETCALL_EAT",
+            "translated": "FCR_ACT_GETCALL_EAT",
+            "desc": ""
+        },
+        {
+            "hash": 736305677,
+            "original": "~z~Sorry, cousin. I have no time for shows.",
+            "translated": "~z~抱歉，堂兄。我没空看表演。",
+            "desc": ""
+        },
+        {
+            "hash": 737931596,
+            "original": "~z~Niko Bellic, my distant cousin. Why we no hang out more?",
+            "translated": "~z~Niko Bellic，我的冷淡堂弟。我们多出去玩玩吧？",
+            "desc": ""
+        },
+        {
+            "hash": 753749797,
+            "original": "~z~Let us go drinking.",
+            "translated": "~z~我们去喝酒吧。",
+            "desc": ""
+        },
+        {
+            "hash": 767184121,
+            "original": "~z~We are gentle men, we should go to a gentlemen's club together.",
+            "translated": "~z~我们是绅士，应该一起去绅士俱乐部。",
+            "desc": ""
+        },
+        {
+            "hash": 787644846,
+            "original": "~z~Cool, cousin. Another time then. Call me.",
+            "translated": "~z~行吧，堂弟。那就改天吧。有空联系。",
+            "desc": ""
+        },
+        {
+            "hash": 803108233,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 840264719,
+            "original": "~z~Okay, cousin. We play darts then. Wait one hour for me.",
+            "translated": "~z~好的，堂兄。那就玩飞镖吧。等我一小时。",
+            "desc": ""
+        },
+        {
+            "hash": 840923676,
+            "original": "FCR_ACT_PRO_GETCALL_GAMES_YES",
+            "translated": "FCR_ACT_PRO_GETCALL_GAMES_YES",
+            "desc": ""
+        },
+        {
+            "hash": 844431930,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 932879086,
+            "original": "~z~Hey man, it's me.",
+            "translated": "~z~嘿老弟，是我。",
+            "desc": ""
+        },
+        {
+            "hash": 933391200,
+            "original": "~z~Cousin, this is wonderful news. See you soon.",
+            "translated": "~z~堂弟，这真是个好消息。一会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 955802485,
+            "original": "~z~Let us go to a stripclub together.",
+            "translated": "~z~一起去脱衣舞俱乐部吧。",
+            "desc": ""
+        },
+        {
+            "hash": 993455032,
+            "original": "~z~We should go and get drunk together.",
+            "translated": "~z~一起出来喝个烂醉吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1001108888,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1013886134,
+            "original": "FCR_ACT_PRO_GETCALL_EAT_NO",
+            "translated": "FCR_ACT_PRO_GETCALL_EAT_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1014933834,
+            "original": "FCR_ACT_PRO_GETCALL_POOL_NO",
+            "translated": "FCR_ACT_PRO_GETCALL_POOL_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1056720066,
+            "original": "~z~Sorry man, I got shit to do. Can't bowl with you right now.",
+            "translated": "~z~抱歉老哥，我还有事要做。没法陪你打保龄球。",
+            "desc": ""
+        },
+        {
+            "hash": 1101670173,
+            "original": "~z~Okay, man. We shall do something another time.",
+            "translated": "~z~好吧，老弟。我们改天再出去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1111569127,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1158507372,
+            "original": "~z~Niko, I am thinking we should be playing some darts together. We have not done this in Liberty City yet.",
+            "translated": "~z~Niko，要么一起去玩会儿飞镖吧。我们还没在自由城玩过这个呢。",
+            "desc": ""
+        },
+        {
+            "hash": 1247674391,
+            "original": "FCR_ACT_GETCALL_VERYIRATE",
+            "translated": "FCR_ACT_GETCALL_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 1260705057,
+            "original": "FCR_ACT_GETCALL_BOWL_FIRST",
+            "translated": "FCR_ACT_GETCALL_BOWL_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 1269767707,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1311252154,
+            "original": "~z~Let's play some video games, man.",
+            "translated": "~z~Let's play some video games, man.",
+            "desc": ""
+        },
+        {
+            "hash": 1377181767,
+            "original": "~z~Great, Niko. See you in a while.",
+            "translated": "~z~好，Niko。之后见。",
+            "desc": ""
+        },
+        {
+            "hash": 1396199977,
+            "original": "~z~Cousin, it is your cousin.",
+            "translated": "~z~堂弟，是你堂兄。",
+            "desc": ""
+        },
+        {
+            "hash": 1431843358,
+            "original": "~z~How about we go see a show?",
+            "translated": "~z~去看场表演如何？",
+            "desc": ""
+        },
+        {
+            "hash": 1485329897,
+            "original": "~z~Sure man, I could do with going to strip club. I come get you in next hour.",
+            "translated": "~z~当然，老哥，我可以去脱衣舞俱乐部。我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 1487105873,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1522802072,
+            "original": "FCR_ACT_GETCALL_ACCEPT",
+            "translated": "FCR_ACT_GETCALL_ACCEPT",
+            "desc": ""
+        },
+        {
+            "hash": 1532898875,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1546247196,
+            "original": "~z~Alright, Niko. Maybe we do something when you have some free time.",
+            "translated": "~z~好吧，Niko。等你有空了我们再约。",
+            "desc": ""
+        },
+        {
+            "hash": 1553438925,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1564514376,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1565515025,
+            "original": "FCR_ACT_GETCALL_DARTS_FIRST",
+            "translated": "FCR_ACT_GETCALL_DARTS_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 1629096147,
+            "original": "~z~Cousin, we are family. We should be like family and eat together. How about it?",
+            "translated": "~z~堂弟，我们是一家人。应该像一家子一样一起吃饭。怎么样？",
+            "desc": ""
+        },
+        {
+            "hash": 1662410998,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1673743248,
+            "original": "FCR_ACT_PRO_CALL_STRIP_YES",
+            "translated": "FCR_ACT_PRO_CALL_STRIP_YES",
+            "desc": ""
+        },
+        {
+            "hash": 1687085689,
+            "original": "~z~Cousin, what is up with this? I feel like we are not cousins we see one another so little.",
+            "translated": "~z~堂弟，这是什么情况？最近没怎么来往，我都觉得我们不是兄弟了。",
+            "desc": ""
+        },
+        {
+            "hash": 1722159352,
+            "original": "FCR_ACT_PRO_GETCALL_EAT_YES",
+            "translated": "FCR_ACT_PRO_GETCALL_EAT_YES",
+            "desc": ""
+        },
+        {
+            "hash": 1724807509,
+            "original": "~z~Niko, it's Roman.",
+            "translated": "~z~Niko，我是Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 1729025419,
+            "original": "~z~Let's go see a show.",
+            "translated": "~z~我们去看场表演吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1747181330,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1756348591,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1756644981,
+            "original": "~z~Is good idea, Roman. I come to collect you in next hour.",
+            "translated": "~z~好主意啊，Roman。我一小时内就来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 1759756674,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1782114355,
+            "original": "FCR_ACT_GETCALL_DRINK",
+            "translated": "FCR_ACT_GETCALL_DRINK",
+            "desc": ""
+        },
+        {
+            "hash": 1834786469,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1842216014,
+            "original": "FCR_ACT_GETCALL_EAT_FIRST",
+            "translated": "FCR_ACT_GETCALL_EAT_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 1845742092,
+            "original": "~z~No darts for me, cousin. I have other missiles to launch.",
+            "translated": "~z~不玩飞镖，堂兄。我忙着发射导弹呢。",
+            "desc": ""
+        },
+        {
+            "hash": 1846639472,
+            "original": "~z~Cousin, how about we play some pool? Remember how we used to hustle those American soldiers back home when the war started?",
+            "translated": "~z~堂弟，去打会儿台球吧？还记得战争刚开始时，我们是怎么在老家横扫那些美国大兵的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1877686258,
+            "original": "~z~Sorry, Roman. I have no time for these women.",
+            "translated": "~z~抱歉，Roman，我没空看这些女人。",
+            "desc": ""
+        },
+        {
+            "hash": 1942024118,
+            "original": "~z~Cousin, it is the moment for us to spend some quality time together. How about that old American pastime - bowling?",
+            "translated": "~z~堂弟，该一起享受美好生活了。要不要来点美式的运动，保龄球？",
+            "desc": ""
+        },
+        {
+            "hash": 1971789959,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1988338366,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1998551960,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2047329845,
+            "original": "FCR_ACT_PRO_GETCALL_DRINK_YES",
+            "translated": "FCR_ACT_PRO_GETCALL_DRINK_YES",
+            "desc": ""
+        },
+        {
+            "hash": 2056350255,
+            "original": "~z~Alright man? We go see something. I should be with you in no more than one hour.",
+            "translated": "~z~好的，老哥。我们去看点东西吧。我应该不用一小时就能到你那里。",
+            "desc": ""
+        },
+        {
+            "hash": 2084955792,
+            "original": "~z~Sorry, cousin. I cannot play darts with you right now.",
+            "translated": "~z~抱歉，堂兄。我现在不能陪你玩飞镖。",
+            "desc": ""
+        },
+        {
+            "hash": 2123984426,
+            "original": "~z~Okay man, get ready. I will be with you in next hour.",
+            "translated": "~z~好的，老哥，准备好了。我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 2172803848,
+            "original": "~z~I am too busy for the strippers. Another time, cousin.",
+            "translated": "~z~我忙得没空看脱衣舞。改天吧，堂兄。",
+            "desc": ""
+        },
+        {
+            "hash": 2178777045,
+            "original": "~z~We have a date, I am waiting for you.",
+            "translated": "~z~那我们约好了，我等你。",
+            "desc": ""
+        },
+        {
+            "hash": 2268012064,
+            "original": "~z~Sorry, man. I have problems that need fixing in the real world.",
+            "translated": "~z~Sorry, man. I have problems that need fixing in the real world.",
+            "desc": ""
+        },
+        {
+            "hash": 2334921808,
+            "original": "FCR_ACT_GETCALL_DARTS",
+            "translated": "FCR_ACT_GETCALL_DARTS",
+            "desc": ""
+        },
+        {
+            "hash": 2370848348,
+            "original": "~z~Niko, it's your cousin.",
+            "translated": "~z~Niko，是你堂兄。",
+            "desc": ""
+        },
+        {
+            "hash": 2373828299,
+            "original": "~z~Sure, cousin. Call me when you have moment.",
+            "translated": "~z~当然，堂弟。等你有空了再打给我。",
+            "desc": ""
+        },
+        {
+            "hash": 2381352152,
+            "original": "~z~Sure, Roman. We eat together. I come get you in next hour.",
+            "translated": "~z~当然了，Roman，一起吃饭吧。我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 2464306148,
+            "original": "~z~Sure, bowling sounds good. I will come to collect you in next hour.",
+            "translated": "~z~好啊，保龄球听起来不错。我一小时内就来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 2514156904,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2540171065,
+            "original": "FCR_ACT_PRO_CALL_STRIP_NO",
+            "translated": "FCR_ACT_PRO_CALL_STRIP_NO",
+            "desc": ""
+        },
+        {
+            "hash": 2585499552,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2586383383,
+            "original": "~z~Cousin, we should go out together. Open a bottle of vodka and drink it all like  did in Old Country.",
+            "translated": "~z~堂弟，我们该一起出去走走。像在故国时那样开瓶伏特加一饮而尽吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2589588348,
+            "original": "~z~Roman, I cannot bowl with you. I am doing other things now.",
+            "translated": "~z~Roman，我不能陪你打保龄球。还有别的事要做。",
+            "desc": ""
+        },
+        {
+            "hash": 2611306098,
+            "original": "FCR_ACT_GETCALL_IRATE",
+            "translated": "FCR_ACT_GETCALL_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 2619136629,
+            "original": "FCR_ACT_GETCALL_REJECT",
+            "translated": "FCR_ACT_GETCALL_REJECT",
+            "desc": ""
+        },
+        {
+            "hash": 2634146765,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2653075551,
+            "original": "~z~Okay, man. I will see you soon then.",
+            "translated": "~z~好的老弟，到时候见。",
+            "desc": ""
+        },
+        {
+            "hash": 2666155538,
+            "original": "~z~I cannot do the gaming now, Roman. I must be doing other stuff.",
+            "translated": "~z~I cannot do the gaming now, Roman. I must be doing other stuff.",
+            "desc": ""
+        },
+        {
+            "hash": 2695720826,
+            "original": "~z~Okay man, we go bowling. I come to get you in the next hour.",
+            "translated": "~z~好的老哥，去打保龄球吧。我一小时内就来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 2926988508,
+            "original": "~z~Let's play darts.",
+            "translated": "~z~去玩飞镖吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3063896396,
+            "original": "~z~Let's go bowling.",
+            "translated": "~z~我们去打保龄球吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3103184076,
+            "original": "~z~Apologies cousin, I can no drink with you now. I need to be in control.",
+            "translated": "~z~抱歉，堂兄，我不能陪你喝酒。我得保持清醒。",
+            "desc": ""
+        },
+        {
+            "hash": 3186985579,
+            "original": "FCR_ACT_PRO_GETCALL_DARTS_YES",
+            "translated": "FCR_ACT_PRO_GETCALL_DARTS_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3197050423,
+            "original": "FCR_ACT_GETCALL_GAMES_FIRST",
+            "translated": "FCR_ACT_GETCALL_GAMES_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 3220129477,
+            "original": "FCR_ACT_GETCALL_POOL",
+            "translated": "FCR_ACT_GETCALL_POOL",
+            "desc": ""
+        },
+        {
+            "hash": 3228261494,
+            "original": "FCR_ACT_PRO_GETCALL_GAMES_NO",
+            "translated": "FCR_ACT_PRO_GETCALL_GAMES_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3262064867,
+            "original": "FCR_ACT_GETCALL_POOL_FIRST",
+            "translated": "FCR_ACT_GETCALL_POOL_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 3282728772,
+            "original": "~z~We should play each other at darts.",
+            "translated": "~z~我们应该比一把飞镖。",
+            "desc": ""
+        },
+        {
+            "hash": 3283211359,
+            "original": "~z~We should eat together.",
+            "translated": "~z~一起去吃一顿吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3370843619,
+            "original": "~z~Want to go bowling?",
+            "translated": "~z~想打保龄球吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3377877180,
+            "original": "FCR_ACT_PRO_CALL_SHOW_YES",
+            "translated": "FCR_ACT_PRO_CALL_SHOW_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3381500291,
+            "original": "FCR_ACT_PRO_GETCALL_DARTS_NO",
+            "translated": "FCR_ACT_PRO_GETCALL_DARTS_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3402251773,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3404437571,
+            "original": "~z~You want we should go play video games together?",
+            "translated": "~z~You want we should go play video games together?",
+            "desc": ""
+        },
+        {
+            "hash": 3435812518,
+            "original": "FCR_ACT_PRO_GETCALL_BOWL_NO",
+            "translated": "FCR_ACT_PRO_GETCALL_BOWL_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3463053234,
+            "original": "~z~I am sorry cousin, but I must keep my senses sharp at the moment.",
+            "translated": "~z~很抱歉，堂兄，但我现在必须要保持头脑清醒。",
+            "desc": ""
+        },
+        {
+            "hash": 3568408116,
+            "original": "~z~We will drink. Wait for me for one hour.",
+            "translated": "~z~那就喝吧。等我一小时。",
+            "desc": ""
+        },
+        {
+            "hash": 3631987971,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3648181572,
+            "original": "~z~Sure, cousin. We play some pool. I come get you in next hour.",
+            "translated": "~z~当然，堂兄。去打台球吧。我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 3693215106,
+            "original": "FCR_ACT_PRO_GETCALL_POOL_YES",
+            "translated": "FCR_ACT_PRO_GETCALL_POOL_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3701256232,
+            "original": "FCR_ACT_GETCALL_SHOW_FIRST",
+            "translated": "FCR_ACT_GETCALL_SHOW_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 3713478222,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3768254644,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3811259175,
+            "original": "~z~Okay man, we go drinking together. I pick you up in next hour.",
+            "translated": "~z~好的，老哥，一起去喝酒吧。我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 3815719303,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3818074072,
+            "original": "FCR_ACT_PRO_GETCALL_BOWL_YES",
+            "translated": "FCR_ACT_PRO_GETCALL_BOWL_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3907261581,
+            "original": "~z~Cousin, you really want to experience America, you must see a show here. How about it?",
+            "translated": "~z~堂弟，想要体验真正的美国，一定要来看场表演。怎么样？",
+            "desc": ""
+        },
+        {
+            "hash": 3953231623,
+            "original": "~z~Niko, you want to play some video games? They are much better than ones you are used to back home.",
+            "translated": "~z~Niko, you want to play some video games? They are much better than ones you are used to back home.",
+            "desc": ""
+        },
+        {
+            "hash": 3976402890,
+            "original": "~z~Sure, we do gaming. I will come to get you in the next hour.",
+            "translated": "~z~Sure, we do gaming. I will come to get you in the next hour.",
+            "desc": ""
+        },
+        {
+            "hash": 3985910326,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4004265046,
+            "original": "FCR_ACT_GETCALL_GAMES",
+            "translated": "FCR_ACT_GETCALL_GAMES",
+            "desc": ""
+        },
+        {
+            "hash": 4014563017,
+            "original": "FCR_ACT_GETCALL_BOWL",
+            "translated": "FCR_ACT_GETCALL_BOWL",
+            "desc": ""
+        },
+        {
+            "hash": 4032749120,
+            "original": "~z~Is about time I show you some fine American silicon filled titties. You want come to strip club with me?",
+            "translated": "~z~是时候带你见识下上好的美国硅胶奶子了。想和我一起去脱衣舞俱乐部吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4041785105,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4071397993,
+            "original": "~z~Sorry, man. I'm not hungry. Maybe another time.",
+            "translated": "~z~抱歉，老哥。我现在不饿，改天再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4112128418,
+            "original": "~z~You want to shoot some pool?",
+            "translated": "~z~你想打会儿台球吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4150704761,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4159936462,
+            "original": "FCR_ACT_CALL_STRIP",
+            "translated": "FCR_ACT_CALL_STRIP",
+            "desc": ""
+        },
+        {
+            "hash": 4204189764,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4216435815,
+            "original": "~z~Okay man, we do some gaming. I come get you in next hour.",
+            "translated": "~z~Okay man, we do some gaming. I come get you in next hour.",
+            "desc": ""
+        }
+    ]
+}

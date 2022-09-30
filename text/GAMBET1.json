@@ -1,0 +1,124 @@
+{
+    "GAMBET1": [
+        {
+            "hash": 82152383,
+            "original": "~r~Bobby Jefferson was abandoned.",
+            "translated": "~r~Bobby Jefferson被抛弃了。",
+            "desc": ""
+        },
+        {
+            "hash": 333058579,
+            "original": "~s~Get into the ~b~car.",
+            "translated": "~s~上~b~车。",
+            "desc": ""
+        },
+        {
+            "hash": 908952409,
+            "original": "Follow the ~b~convoy car.",
+            "translated": "跟随~b~引导车。",
+            "desc": ""
+        },
+        {
+            "hash": 1242174983,
+            "original": "~r~Bobby Jefferson is dead.",
+            "translated": "~r~Bobby Jefferson死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1391628434,
+            "original": "~s~Go to ~b~Grand Easton Terminal.",
+            "translated": "~s~前往~b~Grand Easton车站。",
+            "desc": ""
+        },
+        {
+            "hash": 1690382780,
+            "original": "~s~Pick up ~b~Bobby Jefferson.",
+            "translated": "~s~接上~b~Bobby Jefferson。",
+            "desc": ""
+        },
+        {
+            "hash": 1906615421,
+            "original": "Get back into the ~b~car.",
+            "translated": "回到~b~车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 2043612451,
+            "original": "~s~Go out there and deal with ~r~them.",
+            "translated": "~s~出去解决~r~敌人。",
+            "desc": ""
+        },
+        {
+            "hash": 2163639267,
+            "original": "~r~You acted unprofessionally.",
+            "translated": "~r~你的表现很不专业。",
+            "desc": ""
+        },
+        {
+            "hash": 2271833842,
+            "original": "~s~Go to ~y~Bobby Jefferson's location.",
+            "translated": "~s~前往~y~Bobby Jefferson的所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 2280219068,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 2922831459,
+            "original": "~r~You have abandoned the car.~s~",
+            "translated": "~r~你抛弃了车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3620614545,
+            "original": "~r~You scared off Bobby Jefferson.",
+            "translated": "~r~你吓跑了Bobby Jefferson。",
+            "desc": ""
+        },
+        {
+            "hash": 3843050517,
+            "original": "~r~The car got trashed.",
+            "translated": "~r~车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3879757864,
+            "original": "~s~Get Bobby Jefferson to ~y~safety.",
+            "translated": "~s~把Bobby Jefferson送到~y~安全的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 4043100283,
+            "original": "~s~Lose the ~r~pursuers.",
+            "translated": "~s~摆脱~r~追兵。",
+            "desc": ""
+        },
+        {
+            "hash": 4058759282,
+            "original": "~s~Get back behind the ~b~lead car~s~ in the convoy.",
+            "translated": "~s~回到车队~b~引导车~s~的后面。",
+            "desc": ""
+        },
+        {
+            "hash": 4114676486,
+            "original": "~s~You lost ~b~Bobby Jefferson,~s~ go back and get him.",
+            "translated": "~s~你把~b~Bobby Jefferson~s~落下了，回去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 4138463052,
+            "original": "~r~The convoy was abandoned.",
+            "translated": "~r~车队被抛弃了。",
+            "desc": ""
+        },
+        {
+            "hash": 4266162937,
+            "original": "~s~Get in the ~b~car.",
+            "translated": "~s~上~b~车。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,826 @@
+{
+    "MF8AUD": [
+        {
+            "hash": 138676129,
+            "original": "~z~Shit, Niko. You're gonna get me arrested. I'll try.",
+            "translated": "~z~我靠，Niko。你是想让我坐牢啊。我尽量。",
+            "desc": ""
+        },
+        {
+            "hash": 140405310,
+            "original": "MF4_CA",
+            "translated": "MF4_CA",
+            "desc": ""
+        },
+        {
+            "hash": 152449027,
+            "original": "~z~Niko, a gunfight at my brothers funeral? My poor, poor Ma.",
+            "translated": "~z~Niko, a gunfight at my brothers funeral? My poor, poor Ma.",
+            "desc": ""
+        },
+        {
+            "hash": 165467400,
+            "original": "~z~Sorry, you've gone past my jurisdiction. Don't mention my name if you get caught.",
+            "translated": "~z~抱歉，你的事已经不是我能摆平的了。就算被捕也别提我的名字。",
+            "desc": ""
+        },
+        {
+            "hash": 176264103,
+            "original": "~z~I should meet the other McRearys.",
+            "translated": "~z~我就该去找McReary家的其他人了。",
+            "desc": ""
+        },
+        {
+            "hash": 185572594,
+            "original": "~z~I'll do what I can, man.",
+            "translated": "~z~我会尽我所能的，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 268070508,
+            "original": "MF4_PD",
+            "translated": "MF4_PD",
+            "desc": ""
+        },
+        {
+            "hash": 318260884,
+            "original": "~z~Hey Gerry. I heard you'd been locked up, I'm sorry to hear that.",
+            "translated": "~z~嘿，Gerry。听说你进去了啊，真的是很遗憾。",
+            "desc": ""
+        },
+        {
+            "hash": 355519939,
+            "original": "~z~Hey, I don't like the sound of sirens. Tell your cop friends to stay away from me.",
+            "translated": "~z~嘿，我不喜欢警笛的声音。告诉你的条子朋友别来烦我。",
+            "desc": ""
+        },
+        {
+            "hash": 360077879,
+            "original": "MF4_FM",
+            "translated": "MF4_FM",
+            "desc": ""
+        },
+        {
+            "hash": 361865788,
+            "original": "~z~I'll pull some strings.",
+            "translated": "~z~我去沟通一下。",
+            "desc": ""
+        },
+        {
+            "hash": 399241591,
+            "original": "MF4_PG",
+            "translated": "MF4_PG",
+            "desc": ""
+        },
+        {
+            "hash": 437671830,
+            "original": "~z~Yo, Frankie. The smell of bacon is starting to get on my nerves. Get these cops off my back.",
+            "translated": "~z~哟，Frankie。条子的味道搞得我很不爽。让他们别来追我。",
+            "desc": ""
+        },
+        {
+            "hash": 468868927,
+            "original": "MF4_FK",
+            "translated": "MF4_FK",
+            "desc": ""
+        },
+        {
+            "hash": 472727341,
+            "original": "~z~In here too, for that matter.",
+            "translated": "~z~In here too, for that matter.",
+            "desc": ""
+        },
+        {
+            "hash": 483631598,
+            "original": "MF4_QC",
+            "translated": "MF4_QC",
+            "desc": ""
+        },
+        {
+            "hash": 483800097,
+            "original": "100010100",
+            "translated": "100010100",
+            "desc": ""
+        },
+        {
+            "hash": 492075936,
+            "original": "MF4_PH",
+            "translated": "MF4_PH",
+            "desc": ""
+        },
+        {
+            "hash": 504117867,
+            "original": "MF4_BB",
+            "translated": "MF4_BB",
+            "desc": ""
+        },
+        {
+            "hash": 509363083,
+            "original": "~z~I want you to look after 'em is all. Keep an eye on 'em. Make sure no harm comes to them. It's a fucked up world out there.",
+            "translated": "~z~I want you to look after 'em is all. Keep an eye on 'em. Make sure no harm comes to them. It's a fucked up world out there.",
+            "desc": ""
+        },
+        {
+            "hash": 511049274,
+            "original": "~z~You're getting too much attention. I can't do nothing.",
+            "translated": "~z~你实在是太显眼了，我无能为力。",
+            "desc": ""
+        },
+        {
+            "hash": 527248131,
+            "original": "~z~If that asshole ever comes back from Ireland, I can't be held responsible for what I'd do.",
+            "translated": "~z~要是那个混蛋从爱尔兰回来了，我可不能对我会做出的事负责。",
+            "desc": ""
+        },
+        {
+            "hash": 610120514,
+            "original": "MF4_QA",
+            "translated": "MF4_QA",
+            "desc": ""
+        },
+        {
+            "hash": 676968830,
+            "original": "MF4_NA",
+            "translated": "MF4_NA",
+            "desc": ""
+        },
+        {
+            "hash": 744936784,
+            "original": "MF4_HG",
+            "translated": "MF4_HG",
+            "desc": ""
+        },
+        {
+            "hash": 751008298,
+            "original": "~z~Niko, Gerald McReary here. Calling from the Alderney State Correctional Facility.",
+            "translated": "~z~Niko，我是Gerald McReary。从Alderney州立监狱打过来的。",
+            "desc": ""
+        },
+        {
+            "hash": 754140683,
+            "original": "~z~I'm not planning on taking him down. He's my damn brother, you idiot.",
+            "translated": "~z~我不是要干掉他，那他妈是我弟弟，你个白痴。",
+            "desc": ""
+        },
+        {
+            "hash": 756465852,
+            "original": "MF4_FI",
+            "translated": "MF4_FI",
+            "desc": ""
+        },
+        {
+            "hash": 816251338,
+            "original": "~z~This is Francis McReary. Please leave me a message.",
+            "translated": "~z~我是Francis McReary。请给我留言。",
+            "desc": ""
+        },
+        {
+            "hash": 833549424,
+            "original": "MF4_GC",
+            "translated": "MF4_GC",
+            "desc": ""
+        },
+        {
+            "hash": 868212376,
+            "original": "~z~I'll see what I can do...",
+            "translated": "~z~我尽量试试吧...",
+            "desc": ""
+        },
+        {
+            "hash": 917082300,
+            "original": "~z~Hey, Francis. I'm feeling the heat. Cool things down.",
+            "translated": "~z~嘿，Francis。有人来抓我了，替我摆平。",
+            "desc": ""
+        },
+        {
+            "hash": 922040536,
+            "original": "100010100100010100100010100",
+            "translated": "100010100100010100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 1087801471,
+            "original": "~z~Great. Look, Niko. I've always been responsible for my family. Now, one of my brothers is dead and I'm on the inside.",
+            "translated": "~z~Great. Look, Niko. I've always been responsible for my family. Now, one of my brothers is dead and I'm on the inside.",
+            "desc": ""
+        },
+        {
+            "hash": 1097234917,
+            "original": "~z~I'll make some calls.",
+            "translated": "~z~我去打点一下。",
+            "desc": ""
+        },
+        {
+            "hash": 1117890724,
+            "original": "~z~Frankie boy, it's time for you to get me out of trouble.",
+            "translated": "~z~Frankie仔，你该替我摆平一下了。",
+            "desc": ""
+        },
+        {
+            "hash": 1165429186,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1198928469,
+            "original": "~z~Francis, your fellow police officers are starting to irritate me.",
+            "translated": "~z~Francis，你的警察同僚开始骚扰我了。",
+            "desc": ""
+        },
+        {
+            "hash": 1235301349,
+            "original": "~z~We gotta discuss something. I've put you on the visitors list here. Come down...",
+            "translated": "~z~我们得商讨些事情。我把你写到探监名单上了。来一趟...",
+            "desc": ""
+        },
+        {
+            "hash": 1326070982,
+            "original": "MF4_HA",
+            "translated": "MF4_HA",
+            "desc": ""
+        },
+        {
+            "hash": 1328729042,
+            "original": "~z~We apologize for the inconvenience but this number has been disconnected.",
+            "translated": "~z~很抱歉给您带来不便，但此号码已被注销。",
+            "desc": ""
+        },
+        {
+            "hash": 1365209053,
+            "original": "MF4_PE",
+            "translated": "MF4_PE",
+            "desc": ""
+        },
+        {
+            "hash": 1394617618,
+            "original": "~z~Hey.",
+            "translated": "~z~嘿。",
+            "desc": ""
+        },
+        {
+            "hash": 1519919448,
+            "original": "~z~He's got work and he's a good guy. You're not planning on taking him down, are you? Lay off him for me.",
+            "translated": "~z~他那儿有活干，他也是个好人，你该不会是想把他给干掉吧？你就别管他了。",
+            "desc": ""
+        },
+        {
+            "hash": 1539792912,
+            "original": "MF4_FL",
+            "translated": "MF4_FL",
+            "desc": ""
+        },
+        {
+            "hash": 1623277116,
+            "original": "MF4_BA",
+            "translated": "MF4_BA",
+            "desc": ""
+        },
+        {
+            "hash": 1710231302,
+            "original": "MF4_PF",
+            "translated": "MF4_PF",
+            "desc": ""
+        },
+        {
+            "hash": 1727877291,
+            "original": "100010100100",
+            "translated": "100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 1761015099,
+            "original": "MF4_HE",
+            "translated": "MF4_HE",
+            "desc": ""
+        },
+        {
+            "hash": 1808857866,
+            "original": "~z~Hey, I'm playing this game of cops and robbers and it's getting boring. End it.",
+            "translated": "~z~嘿，我已经玩腻了警察抓小偷的游戏了。结束它吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1897589856,
+            "original": "~z~This is Gerald. Don't leave me a message 'cause I ain't gonna listen to it and I sure as shit ain't gonna return your call. Fuck off.",
+            "translated": "~z~我是Gerald。别给我留言，我听不了，而且也回复不了。滚蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 1927167219,
+            "original": "MF4_OC",
+            "translated": "MF4_OC",
+            "desc": ""
+        },
+        {
+            "hash": 1980553281,
+            "original": "~z~Packie McReary, Francis McReary. It's all starting to make sense.",
+            "translated": "~z~Packie McReary，Francis McReary。这就说得通了。",
+            "desc": ""
+        },
+        {
+            "hash": 1986081267,
+            "original": "MF4_PA",
+            "translated": "MF4_PA",
+            "desc": ""
+        },
+        {
+            "hash": 2024470567,
+            "original": "~z~So long.",
+            "translated": "~z~再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2057847526,
+            "original": "~z~I just heard that Clarence Jones - that no good, kid killing, drug dealer I paid you to whack - is still alive.",
+            "translated": "~z~I just heard that Clarence Jones - that no good, kid killing, drug dealer I paid you to whack - is still alive.",
+            "desc": ""
+        },
+        {
+            "hash": 2125045955,
+            "original": "~z~Francis, I got some of your colleagues on me. Get rid of them.",
+            "translated": "~z~Francis，你有几个同事在追我。解决一下。",
+            "desc": ""
+        },
+        {
+            "hash": 2131627009,
+            "original": "~z~Good. Got a little business opportunity I need your help with.",
+            "translated": "~z~挺好。有个生意机会需要你帮忙。",
+            "desc": ""
+        },
+        {
+            "hash": 2253454081,
+            "original": "~z~Shit, something came up. I didn't make it. Maybe they'll schedule another one.",
+            "translated": "~z~操，突然有点事。我没去成。他们可能会另外安排一次。",
+            "desc": ""
+        },
+        {
+            "hash": 2284785479,
+            "original": "MF4_BC",
+            "translated": "MF4_BC",
+            "desc": ""
+        },
+        {
+            "hash": 2290318638,
+            "original": "~z~I knew Irish families were big but I didn't expect to run into brothers in a place the size of Liberty City.",
+            "translated": "~z~我知道爱尔兰家族很大，不过我倒没想到会在自由城这么大的地方遇见一对兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2363615065,
+            "original": "~z~Actually, I ain't heard nothing. I've seen him walking down Vauxite Street in the middle of the day.",
+            "translated": "~z~Actually, I ain't heard nothing. I've seen him walking down Vauxite Street in the middle of the day.",
+            "desc": ""
+        },
+        {
+            "hash": 2421857654,
+            "original": "MF4_FE",
+            "translated": "MF4_FE",
+            "desc": ""
+        },
+        {
+            "hash": 2441262186,
+            "original": "MF4_GD",
+            "translated": "MF4_GD",
+            "desc": ""
+        },
+        {
+            "hash": 2510717872,
+            "original": "MF4_DA",
+            "translated": "MF4_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2515380732,
+            "original": "MF4_FD",
+            "translated": "MF4_FD",
+            "desc": ""
+        },
+        {
+            "hash": 2531034256,
+            "original": "MF4_AA",
+            "translated": "MF4_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2533753735,
+            "original": "SFX_MACHINE_BEEP",
+            "translated": "SFX_MACHINE_BEEP",
+            "desc": ""
+        },
+        {
+            "hash": 2545697060,
+            "original": "100100100100",
+            "translated": "100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2559745924,
+            "original": "~z~They fucking better.",
+            "translated": "~z~最好他妈会。",
+            "desc": ""
+        },
+        {
+            "hash": 2602832948,
+            "original": "SFX_MACHINE_BEEP",
+            "translated": "SFX_MACHINE_BEEP",
+            "desc": ""
+        },
+        {
+            "hash": 2609942296,
+            "original": "SFX_MACHINE_BEEP",
+            "translated": "SFX_MACHINE_BEEP",
+            "desc": ""
+        },
+        {
+            "hash": 2640429460,
+            "original": "~z~Gerry, what's this about?",
+            "translated": "~z~Gerry, what's this about?",
+            "desc": ""
+        },
+        {
+            "hash": 2676125238,
+            "original": "100100100010100",
+            "translated": "100100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 2731295810,
+            "original": "MF4_FA",
+            "translated": "MF4_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2744767768,
+            "original": "~z~Niko, my boy, this is Packie's brother Gerald McReary.",
+            "translated": "~z~Niko，小伙子，我是Packie的哥哥Gerald McReary。",
+            "desc": ""
+        },
+        {
+            "hash": 2764106053,
+            "original": "MF4_GB",
+            "translated": "MF4_GB",
+            "desc": ""
+        },
+        {
+            "hash": 2799263889,
+            "original": "100100100",
+            "translated": "100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2869323421,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2874144754,
+            "original": "100100100",
+            "translated": "100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2890972185,
+            "original": "SFX_MACHINE_BEEP",
+            "translated": "SFX_MACHINE_BEEP",
+            "desc": ""
+        },
+        {
+            "hash": 2947835449,
+            "original": "~z~They're gonna need some looking after. Especially young Patrick and Katie, my sis.",
+            "translated": "~z~They're gonna need some looking after. Especially young Patrick and Katie, my sis.",
+            "desc": ""
+        },
+        {
+            "hash": 2958187573,
+            "original": "MF4_HH",
+            "translated": "MF4_HH",
+            "desc": ""
+        },
+        {
+            "hash": 2986242529,
+            "original": "~z~Come and see me at my ma's house. Use the back entrance.",
+            "translated": "~z~来我妈家找我。从后门进来。",
+            "desc": ""
+        },
+        {
+            "hash": 2994340564,
+            "original": "~z~Maybe at the next McReary family function. Whatever that might be.",
+            "translated": "~z~Maybe at the next McReary family function. Whatever that might be.",
+            "desc": ""
+        },
+        {
+            "hash": 3003560820,
+            "original": "100010100010010100100100100010010010100",
+            "translated": "100010100010010100100100100010010010100",
+            "desc": ""
+        },
+        {
+            "hash": 3004064277,
+            "original": "MF4_FB",
+            "translated": "MF4_FB",
+            "desc": ""
+        },
+        {
+            "hash": 3024115423,
+            "original": "~z~How'd the interview go? Is it done?",
+            "translated": "~z~面试怎么样？搞定了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3028957893,
+            "original": "MF4_PI",
+            "translated": "MF4_PI",
+            "desc": ""
+        },
+        {
+            "hash": 3033532280,
+            "original": "~z~And the problem with having a dirty cop for a kid is that he'll kill his own brother if he gets in his way.",
+            "translated": "~z~And the problem with having a dirty cop for a kid is that he'll kill his own brother if he gets in his way.",
+            "desc": ""
+        },
+        {
+            "hash": 3082829825,
+            "original": "MF4_PB",
+            "translated": "MF4_PB",
+            "desc": ""
+        },
+        {
+            "hash": 3119222559,
+            "original": "MF4_HD",
+            "translated": "MF4_HD",
+            "desc": ""
+        },
+        {
+            "hash": 3125301902,
+            "original": "MF4_OA",
+            "translated": "MF4_OA",
+            "desc": ""
+        },
+        {
+            "hash": 3140996578,
+            "original": "MF4_EA",
+            "translated": "MF4_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3241595430,
+            "original": "MF4_PC",
+            "translated": "MF4_PC",
+            "desc": ""
+        },
+        {
+            "hash": 3249021463,
+            "original": "MF4_GA",
+            "translated": "MF4_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3257865342,
+            "original": "MF4_GE",
+            "translated": "MF4_GE",
+            "desc": ""
+        },
+        {
+            "hash": 3264127733,
+            "original": "~z~Easy there, Niko. You think this has been easy for me? I ain't sleeping nights. I'm a wreck.",
+            "translated": "~z~Easy there, Niko. You think this has been easy for me? I ain't sleeping nights. I'm a wreck.",
+            "desc": ""
+        },
+        {
+            "hash": 3264833135,
+            "original": "SFX_MACHINE_BEEP",
+            "translated": "SFX_MACHINE_BEEP",
+            "desc": ""
+        },
+        {
+            "hash": 3283776411,
+            "original": "~z~Niko, what's this I hear about you running with Patrick McReary now these days?",
+            "translated": "~z~Niko，最近我怎么听说你和Patrick McReary跑一块儿去了？",
+            "desc": ""
+        },
+        {
+            "hash": 3332008466,
+            "original": "MF4_OB",
+            "translated": "MF4_OB",
+            "desc": ""
+        },
+        {
+            "hash": 3334671403,
+            "original": "~z~Maybe if doing what you do is good, then I wanna be no good instead.",
+            "translated": "~z~要是你做的事情是好事，那我还是别做好事了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3404280670,
+            "original": "MF4_HB",
+            "translated": "MF4_HB",
+            "desc": ""
+        },
+        {
+            "hash": 3456986730,
+            "original": "MF4_IB",
+            "translated": "MF4_IB",
+            "desc": ""
+        },
+        {
+            "hash": 3466826853,
+            "original": "~z~Jesus. You're out of control. I'll do my best.",
+            "translated": "~z~天哪，你这人已经失控了。我尽力吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3467590154,
+            "original": "MF4_HC",
+            "translated": "MF4_HC",
+            "desc": ""
+        },
+        {
+            "hash": 3480486728,
+            "original": "MF4_FG",
+            "translated": "MF4_FG",
+            "desc": ""
+        },
+        {
+            "hash": 3528036541,
+            "original": "~z~Packie's just a hood but Gerald is into some serious shit. And Derrick. He's the worst.",
+            "translated": "~z~Packie只是个小苍蝇，不过Gerald就涉及到大案子了。至于Derrick，他是最坏的。",
+            "desc": ""
+        },
+        {
+            "hash": 3546877606,
+            "original": "SFX_MACHINE_BEEP",
+            "translated": "SFX_MACHINE_BEEP",
+            "desc": ""
+        },
+        {
+            "hash": 3573590182,
+            "original": "~z~You know what, me and Packie get along.",
+            "translated": "~z~你猜怎么着，我跟Packie处得很好。",
+            "desc": ""
+        },
+        {
+            "hash": 3597875918,
+            "original": "~z~Gerry, how's it going?",
+            "translated": "~z~Gerry，最近怎么样啊？",
+            "desc": ""
+        },
+        {
+            "hash": 3604466575,
+            "original": "~z~But I'll be more of a wreck if any one finds out about this.",
+            "translated": "~z~But I'll be more of a wreck if any one finds out about this.",
+            "desc": ""
+        },
+        {
+            "hash": 3618474978,
+            "original": "MF4_IA",
+            "translated": "MF4_IA",
+            "desc": ""
+        },
+        {
+            "hash": 3643035680,
+            "original": "~z~She didn't need to say goodbye to Derrick with that going on.",
+            "translated": "~z~She didn't need to say goodbye to Derrick with that going on.",
+            "desc": ""
+        },
+        {
+            "hash": 3705483480,
+            "original": "~z~Alright already. You want me to turn water into wine as well?",
+            "translated": "~z~好了。你是不是还想我变个魔术？",
+            "desc": ""
+        },
+        {
+            "hash": 3784917386,
+            "original": "100100100010100100100010",
+            "translated": "100100100010100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 3803008138,
+            "original": "~z~Niko, it's Gerry.",
+            "translated": "~z~Niko, it's Gerry.",
+            "desc": ""
+        },
+        {
+            "hash": 3823105326,
+            "original": "~z~Please hang up and try again.",
+            "translated": "~z~请您稍后再拨。",
+            "desc": ""
+        },
+        {
+            "hash": 3830048371,
+            "original": "~z~Keep your trap shut and I'll try to keep you outta the pen for a bit longer. See ya round.",
+            "translated": "~z~Keep your trap shut and I'll try to keep you outta the pen for a bit longer. See ya round.",
+            "desc": ""
+        },
+        {
+            "hash": 3834332170,
+            "original": "MF4_FC",
+            "translated": "MF4_FC",
+            "desc": ""
+        },
+        {
+            "hash": 3845630344,
+            "original": "MF4_OD",
+            "translated": "MF4_OD",
+            "desc": ""
+        },
+        {
+            "hash": 3846412319,
+            "original": "~z~Fuck, I shoulda just shot him in the line of duty.",
+            "translated": "~z~Fuck, I shoulda just shot him in the line of duty.",
+            "desc": ""
+        },
+        {
+            "hash": 3854125406,
+            "original": "MF4_HF",
+            "translated": "MF4_HF",
+            "desc": ""
+        },
+        {
+            "hash": 3854713528,
+            "original": "MF4_QB",
+            "translated": "MF4_QB",
+            "desc": ""
+        },
+        {
+            "hash": 3874188206,
+            "original": "~z~I guess that's the problem with having gangsters for kids.",
+            "translated": "~z~I guess that's the problem with having gangsters for kids.",
+            "desc": ""
+        },
+        {
+            "hash": 3889300985,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3908280191,
+            "original": "~z~He said he'd get outta town. I thought that'd be enough for you.",
+            "translated": "~z~He said he'd get outta town. I thought that'd be enough for you.",
+            "desc": ""
+        },
+        {
+            "hash": 4033545272,
+            "original": "~z~Don't make me do something I'll regret.",
+            "translated": "~z~等我后悔的时候就来不及了。",
+            "desc": ""
+        },
+        {
+            "hash": 4037316532,
+            "original": "MF4_FJ",
+            "translated": "MF4_FJ",
+            "desc": ""
+        },
+        {
+            "hash": 4055715748,
+            "original": "~z~My brothers ain't no good, Niko. Trust me on that.",
+            "translated": "~z~我的兄弟都不是什么好人，Niko。这你要相信我。",
+            "desc": ""
+        },
+        {
+            "hash": 4070421203,
+            "original": "~z~You're a fucking Weazel, Niko. I trusted your word and you screwed me. Goodbye.",
+            "translated": "~z~You're a fucking Weazel, Niko. I trusted your word and you screwed me. Goodbye.",
+            "desc": ""
+        },
+        {
+            "hash": 4174168681,
+            "original": "100010100",
+            "translated": "100010100",
+            "desc": ""
+        },
+        {
+            "hash": 4199963796,
+            "original": "MF4_FH",
+            "translated": "MF4_FH",
+            "desc": ""
+        },
+        {
+            "hash": 4215748573,
+            "original": "~z~What, are you mental? You shouldn't even be calling me when you're this hot. I don't know you.",
+            "translated": "~z~什么，你疯了吗？这么严重了还给我打电话？我不认识你。",
+            "desc": ""
+        },
+        {
+            "hash": 4233557842,
+            "original": "~z~Be careful what you wish for.",
+            "translated": "~z~你这是叶公好龙。",
+            "desc": ""
+        },
+        {
+            "hash": 4273955646,
+            "original": "MF4_FF",
+            "translated": "MF4_FF",
+            "desc": ""
+        },
+        {
+            "hash": 4294306837,
+            "original": "~z~Just thank the Lord you ran into Packie and not my other brothers.",
+            "translated": "~z~感谢上帝你遇到的是Packie，而不是我的其它兄弟。",
+            "desc": ""
+        }
+    ]
+}

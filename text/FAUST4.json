@@ -1,0 +1,148 @@
+{
+    "FAUST4": [
+        {
+            "hash": 131981214,
+            "original": "~r~Faustin's daughter is dead.",
+            "translated": "~r~Faustin的女儿死了。",
+            "desc": ""
+        },
+        {
+            "hash": 472104474,
+            "original": "Use ~PAD_LSTICK_UPDOWN~ to shift your weight forwards and backwards when on a bike.",
+            "translated": "用~PAD_LSTICK_UPDOWN~前后移动你在摩托车上的重心。",
+            "desc": ""
+        },
+        {
+            "hash": 508508261,
+            "original": "Press ~INPUT_VEH_BRAKE~ to brake.",
+            "translated": "按~INPUT_VEH_BRAKE~刹车。",
+            "desc": ""
+        },
+        {
+            "hash": 769909146,
+            "original": "Use ~PAD_SIXAXIS_PITCH~ to shift your weight forwards and backwards when on a bike.",
+            "translated": "用~PAD_SIXAXIS_PITCH~前后移动你在摩托车上的重心。",
+            "desc": ""
+        },
+        {
+            "hash": 791106544,
+            "original": "~r~The biker got away.",
+            "translated": "~r~飞车党逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 939955277,
+            "original": "The ~r~biker~s~ is getting away, catch up with him on a ~b~bike~s~ then take him out.",
+            "translated": "~r~飞车党~s~正在逃跑，骑~b~摩托车~s~跟着他，然后干掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 1198898326,
+            "original": "~s~When free aiming or locked onto a target use ~INPUT_MOVE_LEFT~ and press ~INPUT_JUMP~ to roll.",
+            "translated": "~s~自由射击或锁定目标时，用~INPUT_MOVE_LEFT~+~INPUT_JUMP~侧滚。",
+            "desc": ""
+        },
+        {
+            "hash": 1475324314,
+            "original": "Press ~INPUT_VEH_ACCELERATE~ to accelerate. Use ~PAD_LSTICK_LEFTRIGHT_VEH~ to steer a bike.",
+            "translated": "按~INPUT_VEH_ACCELERATE~加速。用~PAD_LSTICK_LEFTRIGHT_VEH~控制行驶方向。",
+            "desc": ""
+        },
+        {
+            "hash": 1529718010,
+            "original": "~s~Chase down all the ~r~bikers~s~ and wipe them out.",
+            "translated": "~s~跟着这些~r~飞车党，~s~消灭他们。",
+            "desc": ""
+        },
+        {
+            "hash": 1550070922,
+            "original": "Press ~INPUT_VEH_ATTACK~ to use a weapon while on a bike.",
+            "translated": "按~INPUT_VEH_ATTACK~在摩托车上使用武器。",
+            "desc": ""
+        },
+        {
+            "hash": 1890934064,
+            "original": "Press ~INPUT_VEH_ACCELERATE~ to accelerate. Use ~PAD_LSTICK_LEFTRIGHT~ to steer a bike.",
+            "translated": "按~INPUT_VEH_ACCELERATE~加速。用~PAD_LSTICK_LEFTRIGHT~控制行驶方向。",
+            "desc": ""
+        },
+        {
+            "hash": 1908574148,
+            "original": "Go to ~y~Firefly Island.",
+            "translated": "前往~y~Firefly Island。",
+            "desc": ""
+        },
+        {
+            "hash": 2132782355,
+            "original": "~s~PLACEHOLDER CUTSCENE.",
+            "translated": "~s~PLACEHOLDER CUTSCENE.",
+            "desc": ""
+        },
+        {
+            "hash": 2194961483,
+            "original": "~s~Get on the ~b~bike ~s~and chase him down.",
+            "translated": "~s~骑上~b~摩托，~s~跟着他。",
+            "desc": ""
+        },
+        {
+            "hash": 2415137630,
+            "original": "Get back on the ~b~bike,~s~ the biker is getting away.",
+            "translated": "回到~b~摩托~s~上，飞车党要跑掉了。",
+            "desc": ""
+        },
+        {
+            "hash": 2514312836,
+            "original": "~s~You can blow up gas pumps.",
+            "translated": "~s~你可以引爆油罐。",
+            "desc": ""
+        },
+        {
+            "hash": 2681728357,
+            "original": "~s~Rolling will help you avoid gun fire.",
+            "translated": "~s~侧滚能帮助你躲避子弹。",
+            "desc": ""
+        },
+        {
+            "hash": 2817605248,
+            "original": "~s~The ~r~biker~s~ is heading into the gas station.",
+            "translated": "~r~飞车党~s~正在向加油站驶去。",
+            "desc": ""
+        },
+        {
+            "hash": 2921781262,
+            "original": "Use ~PAD_RSTICK_ALL~ to look around whilst on a bike.",
+            "translated": "用~PAD_RSTICK_ALL~在摩托车上环顾四周。",
+            "desc": ""
+        },
+        {
+            "hash": 2965989219,
+            "original": "Press ~INPUT_VEH_ACCELERATE~ to accelerate. Use ~PAD_SIXAXIS_ROLL~ to steer a bike.",
+            "translated": "按~INPUT_VEH_ACCELERATE~加速。用~PAD_SIXAXIS_ROLL~控制行驶方向。",
+            "desc": ""
+        },
+        {
+            "hash": 3081559543,
+            "original": "~s~Take out the ~r~biker.",
+            "translated": "~s~干掉~r~飞车党。",
+            "desc": ""
+        },
+        {
+            "hash": 3115435104,
+            "original": "~s~When aiming use ~PAD_LSTICK_LEFTRIGHT~ and press ~INPUT_JUMP~ to roll.",
+            "translated": "~s~瞄准时，用~PAD_LSTICK_LEFTRIGHT~+~INPUT_JUMP~侧滚。",
+            "desc": ""
+        },
+        {
+            "hash": 3290118911,
+            "original": "~s~Gas stations are full of explosive objects.",
+            "translated": "~s~加油站里充满了易爆品。",
+            "desc": ""
+        },
+        {
+            "hash": 4047067841,
+            "original": "Use ~INPUT_VEH_KEY_UD~ to shift your weight forwards and backwards when on a bike.",
+            "translated": "用~INPUT_VEH_KEY_UD~前后移动你在摩托车上的重心。",
+            "desc": ""
+        }
+    ]
+}

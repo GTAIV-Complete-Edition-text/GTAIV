@@ -1,0 +1,106 @@
+{
+    "UCVRCOP": [
+        {
+            "hash": 29085054,
+            "original": "~r~Johnny is dead.~s~",
+            "translated": "~r~Johnny死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 46295077,
+            "original": "Help Playboy take out the ~r~N.O.O.S.E.~s~ team.",
+            "translated": "帮Playboy干掉~r~N.O.O.S.E.~s~部队。",
+            "desc": ""
+        },
+        {
+            "hash": 260735421,
+            "original": "Follow ~b~Playboy~s~ up to the roof.",
+            "translated": "跟随~b~Playboy~s~上到屋顶。",
+            "desc": ""
+        },
+        {
+            "hash": 418257866,
+            "original": "~r~Playboy was abandoned.~s~",
+            "translated": "~r~Playboy被抛弃了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 621784263,
+            "original": "~b~Playboy~s~ is in trouble. Go back and help him.",
+            "translated": "~b~Playboy~s~处境不妙。回去支援他。",
+            "desc": ""
+        },
+        {
+            "hash": 748441241,
+            "original": "~s~You are too far away from ~b~Playboy.~s~ Go back and get him.",
+            "translated": "~s~你离~b~Playboy~s~太远了，回去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 858252458,
+            "original": "Don't leave ~b~Playboy~s~ behind.",
+            "translated": "别把~b~Playboy~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 1095263544,
+            "original": "Clear out the ~r~floor above.~s~",
+            "translated": "清除~r~楼上的敌人。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1583299352,
+            "original": "Take Playboy back to his ~Y~apartment.",
+            "translated": "送Playboy回他的~Y~公寓。",
+            "desc": ""
+        },
+        {
+            "hash": 1785090830,
+            "original": "Go down to the ~Y~street.",
+            "translated": "下楼去~Y~街上。",
+            "desc": ""
+        },
+        {
+            "hash": 1868022098,
+            "original": "The N.O.O.S.E. team have the bottom of the apartment covered, you'll need to escape via the ~y~roof.",
+            "translated": "N.O.O.S.E.小组已经包围了公寓的底楼，你需要从~y~屋顶~s~逃走。",
+            "desc": ""
+        },
+        {
+            "hash": 2051333861,
+            "original": "~r~Playboy is dead.~s~",
+            "translated": "~r~Playboy死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2241195470,
+            "original": "Follow ~b~Playboy~s~ across the roof.",
+            "translated": "跟随~b~Playboy~s~越过屋顶。",
+            "desc": ""
+        },
+        {
+            "hash": 2827520167,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 3086307980,
+            "original": "Follow ~b~Playboy~s~ to meet the contact on the 3rd floor.",
+            "translated": "跟随~b~Playboy~s~去三楼与联络人见面。",
+            "desc": ""
+        },
+        {
+            "hash": 3459219200,
+            "original": "Take Playboy to the contact's ~y~apartment.",
+            "translated": "带Playboy去联络人的~y~公寓。",
+            "desc": ""
+        },
+        {
+            "hash": 3908777111,
+            "original": "Kill the ~r~cops~s~ and ~r~N.O.O.S.E.~s~",
+            "translated": "消灭~r~条子~s~和~r~NOOSE。~s~",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "NET4M": [
+        {
+            "hash": 1098319810,
+            "original": "You have ~1~ seconds to get back into a cop car.",
+            "translated": "在~1~秒内回到警车上。",
+            "desc": ""
+        },
+        {
+            "hash": 1307353261,
+            "original": "Go to the ~y~target's location.",
+            "translated": "前往~y~目标所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 1463815874,
+            "original": "~s~Most wanted target number ~1~ has been eliminated.",
+            "translated": "~s~~1~号最高通缉目标已经被消灭。",
+            "desc": ""
+        },
+        {
+            "hash": 1728224415,
+            "original": "~s~The target and his gang have been eliminated.",
+            "translated": "~s~目标及其团伙已被消灭。",
+            "desc": ""
+        },
+        {
+            "hash": 1933667158,
+            "original": "You have ~1~ second to get back into a cop car.",
+            "translated": "在~1~秒内回到警车上。",
+            "desc": ""
+        },
+        {
+            "hash": 1959344172,
+            "original": "~s~The target and his partner have been eliminated.",
+            "translated": "~s~目标及其同伙被消灭了。",
+            "desc": ""
+        },
+        {
+            "hash": 2257883644,
+            "original": "~r~The car was abandoned for too long.",
+            "translated": "~r~警车被抛下的太久了。",
+            "desc": ""
+        },
+        {
+            "hash": 2313151065,
+            "original": "~s~The target has been eliminated.",
+            "translated": "~s~目标已被消灭。",
+            "desc": ""
+        },
+        {
+            "hash": 2460945234,
+            "original": "~s~All wanted criminals have been eliminated.",
+            "translated": "~s~所有通缉犯都被消灭了。",
+            "desc": ""
+        },
+        {
+            "hash": 2531799715,
+            "original": "~r~The car was trashed.",
+            "translated": "~r~警车坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 2887539979,
+            "original": "Eliminate the ~r~target.",
+            "translated": "消灭~r~目标。",
+            "desc": ""
+        },
+        {
+            "hash": 3092477305,
+            "original": "Take out the ~r~targets.",
+            "translated": "干掉~r~目标。",
+            "desc": ""
+        },
+        {
+            "hash": 3821685866,
+            "original": "Go inside and eliminate the ~r~target.",
+            "translated": "进去消灭~r~目标。",
+            "desc": ""
+        },
+        {
+            "hash": 4112510737,
+            "original": "~r~The target escaped.",
+            "translated": "~r~目标逃跑了。",
+            "desc": ""
+        }
+    ]
+}

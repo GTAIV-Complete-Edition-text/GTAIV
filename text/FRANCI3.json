@@ -1,0 +1,70 @@
+{
+    "FRANCI3": [
+        {
+            "hash": 903467691,
+            "original": "~r~ Clarence fled the area.",
+            "translated": "~r~Clarence逃出了这一区域。",
+            "desc": ""
+        },
+        {
+            "hash": 1193047344,
+            "original": "~r~ Clarence got away.",
+            "translated": "~r~Clarence逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 2476666130,
+            "original": "~s~Walk away to spare Clarence's life.",
+            "translated": "~s~直接走开可放过Clarence。",
+            "desc": ""
+        },
+        {
+            "hash": 2564378154,
+            "original": "~s~Choose ~r~Clarence's~s~ fate.",
+            "translated": "~s~决定~r~Clarence~s~的命运。",
+            "desc": ""
+        },
+        {
+            "hash": 2805525225,
+            "original": "~s~Choose ~b~Clarence's~s~ fate.",
+            "translated": "~s~决定~b~Clarence~s~的命运。",
+            "desc": ""
+        },
+        {
+            "hash": 3199550270,
+            "original": "~s~ or, when equipped with a pistol, you can perform an execution on Clarence.",
+            "translated": "~s~或者，可在装备手枪时对Clarence实施处决。",
+            "desc": ""
+        },
+        {
+            "hash": 3317508455,
+            "original": "~r~Clarence~s~ is fleeing the projects. Don't let him get away.",
+            "translated": "~r~Clarence~s~正在逃离社区，别让他跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 3693827651,
+            "original": "~s~Clarence has been dealt with. Lose your wanted level.",
+            "translated": "~s~Clarence这边已经解决了，摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 3933795038,
+            "original": "~s~Clarence is dead. Lose your wanted level.",
+            "translated": "~s~Clarence死了，摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 4088598949,
+            "original": "~s~Go to the ~y~projects~s~ in East Holland.",
+            "translated": "~s~前往East Holland的~y~公屋社区。",
+            "desc": ""
+        },
+        {
+            "hash": 4287634708,
+            "original": "~s~Take down ~r~Clarence.",
+            "translated": "~s~干掉~r~Clarence。",
+            "desc": ""
+        }
+    ]
+}

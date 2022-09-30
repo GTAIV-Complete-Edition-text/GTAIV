@@ -1,0 +1,772 @@
+{
+    "MF6AUD": [
+        {
+            "hash": 153722873,
+            "original": "MF3_GE",
+            "translated": "MF3_GE",
+            "desc": ""
+        },
+        {
+            "hash": 156165790,
+            "original": "~z~Sure, you own this city, right?",
+            "translated": "~z~Sure, you own this city, right?",
+            "desc": ""
+        },
+        {
+            "hash": 173509352,
+            "original": "MF3_A_VA",
+            "translated": "MF3_A_VA",
+            "desc": ""
+        },
+        {
+            "hash": 179815889,
+            "original": "MF3_BA",
+            "translated": "MF3_BA",
+            "desc": ""
+        },
+        {
+            "hash": 229611275,
+            "original": "MF3_A_VD",
+            "translated": "MF3_A_VD",
+            "desc": ""
+        },
+        {
+            "hash": 248956577,
+            "original": "SFX_MACHINE_BEEP",
+            "translated": "SFX_MACHINE_BEEP",
+            "desc": ""
+        },
+        {
+            "hash": 257599132,
+            "original": "~z~There ain't no bringing back those you love, that the truth, money. No matter how powerful you are.",
+            "translated": "~z~There ain't no bringing back those you love, that the truth, money. No matter how powerful you are.",
+            "desc": ""
+        },
+        {
+            "hash": 266218210,
+            "original": "MF3_DB",
+            "translated": "MF3_DB",
+            "desc": ""
+        },
+        {
+            "hash": 271774826,
+            "original": "~z~Playboy?",
+            "translated": "~z~Playboy?",
+            "desc": ""
+        },
+        {
+            "hash": 295385875,
+            "original": "~z~he holding up there and needs help with some shit. You assist his broke ass, I'll send some paper your way.",
+            "translated": "~z~现在他住在那里，还缺个人给他帮忙。你去帮帮他那把老烂骨头，我会给你钱的。",
+            "desc": ""
+        },
+        {
+            "hash": 333704195,
+            "original": "SFX_MACHINE_BEEP",
+            "translated": "SFX_MACHINE_BEEP",
+            "desc": ""
+        },
+        {
+            "hash": 406781955,
+            "original": "~z~I can't tell you what happens when it ends, friend. I can tell you that we'll all find out at some point though.",
+            "translated": "~z~I can't tell you what happens when it ends, friend. I can tell you that we'll all find out at some point though.",
+            "desc": ""
+        },
+        {
+            "hash": 474334264,
+            "original": "~z~You remember my man, Dwayne?",
+            "translated": "~z~你还记得我哥们Dwayne吗？",
+            "desc": ""
+        },
+        {
+            "hash": 496413589,
+            "original": "MF3_FC",
+            "translated": "MF3_FC",
+            "desc": ""
+        },
+        {
+            "hash": 543948451,
+            "original": "100100010100",
+            "translated": "100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 581909362,
+            "original": "MF3_A_VA",
+            "translated": "MF3_A_VA",
+            "desc": ""
+        },
+        {
+            "hash": 648439077,
+            "original": "~z~Yo money, I appreciate what you doing for me. There be so many fake cats out there.",
+            "translated": "~z~哟，老弟，我很欣赏你的能力。外面的假黑道确实很多。",
+            "desc": ""
+        },
+        {
+            "hash": 675586062,
+            "original": "~z~You popped him, man. He raised me, showed me everything a G need to see. Just tell me it didn't hurt him none.",
+            "translated": "~z~You popped him, man. He raised me, showed me everything a G need to see. Just tell me it didn't hurt him none.",
+            "desc": ""
+        },
+        {
+            "hash": 729084797,
+            "original": "MF3_DB",
+            "translated": "MF3_DB",
+            "desc": ""
+        },
+        {
+            "hash": 737811127,
+            "original": "MF3_IA",
+            "translated": "MF3_IA",
+            "desc": ""
+        },
+        {
+            "hash": 761407007,
+            "original": "~z~Hey, it ain't our problem, Playboy - it's yours. That said, I know what I'm going to do.",
+            "translated": "~z~嘿，那可不是我们的问题，Playboy，是你的问题。这么说吧，我知道我要做什么。",
+            "desc": ""
+        },
+        {
+            "hash": 785451084,
+            "original": "100100100",
+            "translated": "100100100",
+            "desc": ""
+        },
+        {
+            "hash": 790952010,
+            "original": "MF3_AC",
+            "translated": "MF3_AC",
+            "desc": ""
+        },
+        {
+            "hash": 810776542,
+            "original": "MF3_C_PB",
+            "translated": "MF3_C_PB",
+            "desc": ""
+        },
+        {
+            "hash": 862068888,
+            "original": "MF3_CE",
+            "translated": "MF3_CE",
+            "desc": ""
+        },
+        {
+            "hash": 945633491,
+            "original": "~z~Yo, streets need you, Niko. They'll pay.",
+            "translated": "~z~Yo, streets need you, Niko. They'll pay.",
+            "desc": ""
+        },
+        {
+            "hash": 1058655672,
+            "original": "~z~Playboy? I thought you didn't want to talk to me no more. Too cold hearted?",
+            "translated": "~z~Playboy? I thought you didn't want to talk to me no more. Too cold hearted?",
+            "desc": ""
+        },
+        {
+            "hash": 1139688437,
+            "original": "~z~Drop a message after the beat. Peace.",
+            "translated": "~z~请在哔声后留言。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1210160153,
+            "original": "~z~Yo, streets need you, Niko. They'll pay.",
+            "translated": "~z~Yo, streets need you, Niko. They'll pay.",
+            "desc": ""
+        },
+        {
+            "hash": 1227601355,
+            "original": "100100010100",
+            "translated": "100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 1242422324,
+            "original": "~z~Not really my thing, but I'll come if you're paying.",
+            "translated": "~z~Not really my thing, but I'll come if you're paying.",
+            "desc": ""
+        },
+        {
+            "hash": 1242508587,
+            "original": "MF3_C_PC",
+            "translated": "MF3_C_PC",
+            "desc": ""
+        },
+        {
+            "hash": 1289251125,
+            "original": "~z~Did it hurt? Tell me it didn't hurt him.",
+            "translated": "~z~Did it hurt? Tell me it didn't hurt him.",
+            "desc": ""
+        },
+        {
+            "hash": 1290398247,
+            "original": "~z~How did the big real estate deal go?",
+            "translated": "~z~房地产大生意怎么样？",
+            "desc": ""
+        },
+        {
+            "hash": 1304300239,
+            "original": "MF3_FD",
+            "translated": "MF3_FD",
+            "desc": ""
+        },
+        {
+            "hash": 1339133175,
+            "original": "MF3_FA",
+            "translated": "MF3_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1379856344,
+            "original": "~z~Yo Money, don't be trifling with me. You made a decision?",
+            "translated": "~z~哟，老弟。别跟我耍花招，你决定了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1429980252,
+            "original": "MF3_C_PB",
+            "translated": "MF3_C_PB",
+            "desc": ""
+        },
+        {
+            "hash": 1446687835,
+            "original": "~z~You should have known that when you asked me to kill him. I'm hanging up now, Playboy. Goodbye.",
+            "translated": "~z~You should have known that when you asked me to kill him. I'm hanging up now, Playboy. Goodbye.",
+            "desc": ""
+        },
+        {
+            "hash": 1479653734,
+            "original": "100100100",
+            "translated": "100100100",
+            "desc": ""
+        },
+        {
+            "hash": 1513311302,
+            "original": "~z~Sure, just got out of the pen, old friends aren't paying him no mind.",
+            "translated": "~z~当然，刚放出来的那个嘛，老朋友们不会不报答他的。",
+            "desc": ""
+        },
+        {
+            "hash": 1531816887,
+            "original": "MF3_A_VB",
+            "translated": "MF3_A_VB",
+            "desc": ""
+        },
+        {
+            "hash": 1540915145,
+            "original": "~z~Yo, streets. I need you to come over here and help me with some aggressive public relations.",
+            "translated": "~z~Yo, streets. I need you to come over here and help me with some aggressive public relations.",
+            "desc": ""
+        },
+        {
+            "hash": 1612391324,
+            "original": "MF3_AC",
+            "translated": "MF3_AC",
+            "desc": ""
+        },
+        {
+            "hash": 1650593826,
+            "original": "~z~That right - you cold, Niko. Peace and love.",
+            "translated": "~z~那就对了。你真冷酷，Niko。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1672419249,
+            "original": "~z~Niko, shit is getting fucked up. I need to see you at my crib.",
+            "translated": "~z~Niko，狗屎玩意出大乱子了，我需要你来我家见我。",
+            "desc": ""
+        },
+        {
+            "hash": 1689281709,
+            "original": "MF3_C_PA",
+            "translated": "MF3_C_PA",
+            "desc": ""
+        },
+        {
+            "hash": 1690162632,
+            "original": "MF3_DA",
+            "translated": "MF3_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1722694604,
+            "original": "MF3_FB",
+            "translated": "MF3_FB",
+            "desc": ""
+        },
+        {
+            "hash": 1754555883,
+            "original": "MF3_DC",
+            "translated": "MF3_DC",
+            "desc": ""
+        },
+        {
+            "hash": 1761335773,
+            "original": "~z~But, word is born, none of them bitches can bring back my man Dwayne.",
+            "translated": "~z~But, word is born, none of them bitches can bring back my man Dwayne.",
+            "desc": ""
+        },
+        {
+            "hash": 1829532152,
+            "original": "~z~Yeah, that's what he think. He got friends all over the shop but he living in the past.",
+            "translated": "~z~对，他就这么想的。他的朋友到处都有，不过他还活在过去。",
+            "desc": ""
+        },
+        {
+            "hash": 1909437426,
+            "original": "~z~Make it a memorial to Union workers who've died in accidents.",
+            "translated": "~z~把它改成死于事故的工会工人的纪念馆。",
+            "desc": ""
+        },
+        {
+            "hash": 1938853667,
+            "original": "~z~Don't help him out when it fucks up my business interests. Damn, son. That ain't cool.",
+            "translated": "~z~他动到我的生意利益的时候就他妈别帮他。干，小子。那可不好。",
+            "desc": ""
+        },
+        {
+            "hash": 1960041351,
+            "original": "MF3_EC",
+            "translated": "MF3_EC",
+            "desc": ""
+        },
+        {
+            "hash": 1974610088,
+            "original": "MF3_GC",
+            "translated": "MF3_GC",
+            "desc": ""
+        },
+        {
+            "hash": 1984285614,
+            "original": "~z~Yo, if you trying to find Playboy you should ask your bitch - ha ha! She probably know where I'm at. Leave a message.",
+            "translated": "~z~哟，想找Playboy的话就问你家婊子吧。哈哈！她可能知道我在哪儿。留言吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2069724832,
+            "original": "~z~I own this city, player. I can look at anyone in this town and they gonna kill for me.",
+            "translated": "~z~I own this city, player. I can look at anyone in this town and they gonna kill for me.",
+            "desc": ""
+        },
+        {
+            "hash": 2192911724,
+            "original": "~z~You asked me to help out Dwayne, that's what I was doing.",
+            "translated": "~z~你让我去帮Dwayne，我就帮他做这个喽。",
+            "desc": ""
+        },
+        {
+            "hash": 2197108890,
+            "original": "SFX_MACHINE_BEEP",
+            "translated": "SFX_MACHINE_BEEP",
+            "desc": ""
+        },
+        {
+            "hash": 2197627312,
+            "original": "MF3_DA",
+            "translated": "MF3_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2229212521,
+            "original": "~z~I need you to go over to the Governor Greg Johnson projects over in Northwood,",
+            "translated": "~z~我需要你去Northwood区的Greg Johnson州长公屋，",
+            "desc": ""
+        },
+        {
+            "hash": 2249841798,
+            "original": "~z~That cat ain't got no vision, wants to shut down the site and shit.",
+            "translated": "~z~那个菜鸡没有远见，居然他妈想关停工地。",
+            "desc": ""
+        },
+        {
+            "hash": 2258247062,
+            "original": "MF3_C_PD",
+            "translated": "MF3_C_PD",
+            "desc": ""
+        },
+        {
+            "hash": 2285755353,
+            "original": "~z~You going to fix this Dwayne problem of ours, yeah?",
+            "translated": "~z~你会帮我们解决Dwayne的问题吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2371823038,
+            "original": "100100100100",
+            "translated": "100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2446090112,
+            "original": "~z~Yo, this is streets. Streets need to sleep, streets need to eat so they don't answer the phone the whole time.",
+            "translated": "~z~哟，我是街道。街道需要睡觉，街道需要吃饭，所以不可能全天接电话。",
+            "desc": ""
+        },
+        {
+            "hash": 2468590066,
+            "original": "~z~he holding up there and needs help with some shit. You assist his broke ass, I'll send some paper your way.",
+            "translated": "~z~现在他住在那里，还缺个人给他帮忙。你去帮帮他那把老烂骨头，我会给你钱的。",
+            "desc": ""
+        },
+        {
+            "hash": 2482683860,
+            "original": "~z~I owe that fool - ain't payback a bitch? Peace out, money.",
+            "translated": "~z~我欠那个傻逼的——不是要报答那贱人吗？再见，老弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2490126554,
+            "original": "~z~Niko, tell me it weren't you that shot up the strip club in Bohan.",
+            "translated": "~z~Niko，告诉我在Bohan大闹脱衣舞俱乐部的人不是你。",
+            "desc": ""
+        },
+        {
+            "hash": 2490864357,
+            "original": "MF3_A_VD",
+            "translated": "MF3_A_VD",
+            "desc": ""
+        },
+        {
+            "hash": 2607104629,
+            "original": "~z~I owe that fool - ain't payback a bitch? Peace out, money.",
+            "translated": "~z~我欠那个傻逼的——不是要报答那贱人吗？再见，老弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2658611047,
+            "original": "~z~This is the X, giving everyone out there some advice. You don't know what you got 'til it's gone. Leave a message.",
+            "translated": "~z~我是X，正在给别人讲人生经验呢。失去之前你也不知道拥有什么。留言吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2686090844,
+            "original": "MF3_HB",
+            "translated": "MF3_HB",
+            "desc": ""
+        },
+        {
+            "hash": 2725066113,
+            "original": "MF3_EB",
+            "translated": "MF3_EB",
+            "desc": ""
+        },
+        {
+            "hash": 2729836827,
+            "original": "100010100",
+            "translated": "100010100",
+            "desc": ""
+        },
+        {
+            "hash": 2731344332,
+            "original": "MF3_CA",
+            "translated": "MF3_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2762617882,
+            "original": "MF3_A_VC",
+            "translated": "MF3_A_VC",
+            "desc": ""
+        },
+        {
+            "hash": 2766708179,
+            "original": "~z~I'll show you what you can make of yourself when you start hustling.",
+            "translated": "~z~I'll show you what you can make of yourself when you start hustling.",
+            "desc": ""
+        },
+        {
+            "hash": 2766906944,
+            "original": "MF3_AA",
+            "translated": "MF3_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2801749981,
+            "original": "100100010100100100100",
+            "translated": "100100010100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2807053803,
+            "original": "MF3_EA",
+            "translated": "MF3_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2847199356,
+            "original": "~z~Yo Money, don't be trifling with me. You made a decision?",
+            "translated": "~z~哟，老弟。别跟我耍花招，你决定了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2934239593,
+            "original": "MF3_DC",
+            "translated": "MF3_DC",
+            "desc": ""
+        },
+        {
+            "hash": 2935576432,
+            "original": "MF3_A_VB",
+            "translated": "MF3_A_VB",
+            "desc": ""
+        },
+        {
+            "hash": 2975028585,
+            "original": "MF3_ED",
+            "translated": "MF3_ED",
+            "desc": ""
+        },
+        {
+            "hash": 2999425410,
+            "original": "MF3_BB",
+            "translated": "MF3_BB",
+            "desc": ""
+        },
+        {
+            "hash": 3038896486,
+            "original": "MF3_JA",
+            "translated": "MF3_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3049519631,
+            "original": "MF3_C_PD",
+            "translated": "MF3_C_PD",
+            "desc": ""
+        },
+        {
+            "hash": 3051989930,
+            "original": "MF3_GA",
+            "translated": "MF3_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3095405235,
+            "original": "SFX_MACHINE_BEEP",
+            "translated": "SFX_MACHINE_BEEP",
+            "desc": ""
+        },
+        {
+            "hash": 3143136195,
+            "original": "~z~You going to fix this Dwayne problem of ours, yeah?",
+            "translated": "~z~你会帮我们解决Dwayne的问题吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3143863969,
+            "original": "~z~You remember my man, Dwayne?",
+            "translated": "~z~你还记得我兄弟Dwayne吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3155407673,
+            "original": "MF3_CB",
+            "translated": "MF3_CB",
+            "desc": ""
+        },
+        {
+            "hash": 3176321570,
+            "original": "100010100010100100",
+            "translated": "100010100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 3207387482,
+            "original": "MF3_AB",
+            "translated": "MF3_AB",
+            "desc": ""
+        },
+        {
+            "hash": 3207951469,
+            "original": "100010100010",
+            "translated": "100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 3239410312,
+            "original": "MF3_A_VC",
+            "translated": "MF3_A_VC",
+            "desc": ""
+        },
+        {
+            "hash": 3330740450,
+            "original": "~z~Not really my thing, but I'll come if you're paying.",
+            "translated": "~z~Not really my thing, but I'll come if you're paying.",
+            "desc": ""
+        },
+        {
+            "hash": 3330775977,
+            "original": "MF3_AA",
+            "translated": "MF3_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3355122596,
+            "original": "~z~Yo money, I appreciate what you doing for me. There be so many fake cats out there.",
+            "translated": "~z~哟，老弟，我很欣赏你的能力。外面的假黑道确实很多。你还记得我哥们，Dwayne吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3411437432,
+            "original": "100010100100100",
+            "translated": "100010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 3422717711,
+            "original": "SFX_MACHINE_BEEP",
+            "translated": "SFX_MACHINE_BEEP",
+            "desc": ""
+        },
+        {
+            "hash": 3428177678,
+            "original": "MF3_GD",
+            "translated": "MF3_GD",
+            "desc": ""
+        },
+        {
+            "hash": 3428806594,
+            "original": "100100010100100100100",
+            "translated": "100100010100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 3472872853,
+            "original": "MF3_CC",
+            "translated": "MF3_CC",
+            "desc": ""
+        },
+        {
+            "hash": 3534846308,
+            "original": "~z~Now you talking. I got something for you, player. Come to my crib, you been there before.",
+            "translated": "~z~Now you talking. I got something for you, player. Come to my crib, you been there before.",
+            "desc": ""
+        },
+        {
+            "hash": 3563512199,
+            "original": "MF3_CF",
+            "translated": "MF3_CF",
+            "desc": ""
+        },
+        {
+            "hash": 3571552767,
+            "original": "100100100010",
+            "translated": "100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 3597167071,
+            "original": "MF3_HA",
+            "translated": "MF3_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3609882423,
+            "original": "MF3_GB",
+            "translated": "MF3_GB",
+            "desc": ""
+        },
+        {
+            "hash": 3617597802,
+            "original": "SFX_MACHINE_BEEP",
+            "translated": "SFX_MACHINE_BEEP",
+            "desc": ""
+        },
+        {
+            "hash": 3628971119,
+            "original": "~z~Yo, streets. I need you to come over here and help me with some aggressive public relations.",
+            "translated": "~z~Yo, streets. I need you to come over here and help me with some aggressive public relations.",
+            "desc": ""
+        },
+        {
+            "hash": 3736590481,
+            "original": "MF3_AB",
+            "translated": "MF3_AB",
+            "desc": ""
+        },
+        {
+            "hash": 3778271360,
+            "original": "MF3_C_PA",
+            "translated": "MF3_C_PA",
+            "desc": ""
+        },
+        {
+            "hash": 3799699619,
+            "original": "~z~Sure, just got out of the pen, old friends aren't paying him no mind.",
+            "translated": "~z~当然，刚放出来的那个嘛，老朋友们不会不报答他的。",
+            "desc": ""
+        },
+        {
+            "hash": 3811754883,
+            "original": "~z~That right - you cold, Niko. Peace and love.",
+            "translated": "~z~那就对了。你真冷酷，Niko。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 3972832145,
+            "original": "100010100",
+            "translated": "100010100",
+            "desc": ""
+        },
+        {
+            "hash": 4048696057,
+            "original": "~z~Man, fuck Yusuf Amir. I got bigger problems. Come see me now.",
+            "translated": "~z~操他妈的Yusuf Amir。不过还有更大的问题。现在就来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 4104880799,
+            "original": "MF3_CD",
+            "translated": "MF3_CD",
+            "desc": ""
+        },
+        {
+            "hash": 4124960985,
+            "original": "~z~Hey, it ain't our problem, Playboy - it's yours. That said, I know what I'm going to do.",
+            "translated": "~z~嘿，那可不是我们的问题，Playboy，是你的问题。这么说吧，我知道我要做什么。",
+            "desc": ""
+        },
+        {
+            "hash": 4144120325,
+            "original": "~z~I met you with Liz in SoBo. We had some troubles with a UC called Charlie.",
+            "translated": "~z~I met you with Liz in SoBo. We had some troubles with a UC called Charlie.",
+            "desc": ""
+        },
+        {
+            "hash": 4172807453,
+            "original": "~z~Yeah, that's what he think. He got friends all over the shop but he living in the past.",
+            "translated": "~z~对，他就这么想的。他到处都有朋友，不过他还活在过去。",
+            "desc": ""
+        },
+        {
+            "hash": 4202776018,
+            "original": "100010100",
+            "translated": "100010100",
+            "desc": ""
+        },
+        {
+            "hash": 4239954309,
+            "original": "MF3_C_PC",
+            "translated": "MF3_C_PC",
+            "desc": ""
+        },
+        {
+            "hash": 4261957653,
+            "original": "~z~Yo money, whatup? This is Playboy.",
+            "translated": "~z~Yo money, whatup? This is Playboy.",
+            "desc": ""
+        },
+        {
+            "hash": 4291444422,
+            "original": "MF3_HC",
+            "translated": "MF3_HC",
+            "desc": ""
+        },
+        {
+            "hash": 4292417423,
+            "original": "~z~I need you to go over to the Governor Greg Johnson projects over in Northwood,",
+            "translated": "~z~我需要你去Northwood区的Greg Johnson州长公屋，",
+            "desc": ""
+        }
+    ]
+}

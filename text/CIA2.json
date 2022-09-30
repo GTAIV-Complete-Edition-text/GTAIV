@@ -1,0 +1,106 @@
+{
+    "CIA2": [
+        {
+            "hash": 113503791,
+            "original": "Your contact will send you a picture of the target. Read the message when it arrives.",
+            "translated": "联络人将发给你目标的照片，收到短信时阅读。",
+            "desc": ""
+        },
+        {
+            "hash": 120541862,
+            "original": "~s~Press ~PAD_LB~ to leave the police computer.",
+            "translated": "按~PAD_LB~退出警用电脑。",
+            "desc": ""
+        },
+        {
+            "hash": 157250078,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1493585503,
+            "original": "~s~Go to Dimayev's ~y~hangout.",
+            "translated": "~s~前往Dimayev的~y~所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 1583189911,
+            "original": "~s~Get a cop car.",
+            "translated": "~s~找辆警车。",
+            "desc": ""
+        },
+        {
+            "hash": 1705320589,
+            "original": "Press ~ACCEPT~ to mark Dimayev's hangout on the radar.",
+            "translated": "按~ACCEPT~在小地图上标记Dimayev的所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 1767582381,
+            "original": "~s~Press ~PAD_DPAD_DOWN~ to read the text of a photo message.",
+            "translated": "~s~按~PAD_DPAD_DOWN~阅读彩信文本。",
+            "desc": ""
+        },
+        {
+            "hash": 2029799227,
+            "original": "To search the database using a photo on your phone, first select \"Search Police Records\".",
+            "translated": "要用手机上的照片搜索数据库，首先请选择「搜索警方记录」。",
+            "desc": ""
+        },
+        {
+            "hash": 2047298302,
+            "original": "~s~Get in a cop car. Your contact has left one across the street from the U. L. Paper office.",
+            "translated": "~s~进入一辆警车，你的联系人已经在U. L. Paper办公室的对街留了一辆给你。",
+            "desc": ""
+        },
+        {
+            "hash": 2266950249,
+            "original": "~s~Stop the car.",
+            "translated": "~s~停车。",
+            "desc": ""
+        },
+        {
+            "hash": 2321356387,
+            "original": "~s~Dimayev is there with his ~r~guards.~s~ Eliminate them all.",
+            "translated": "~s~Dimayev和他的~r~保镖~s~在一起，消灭他们。",
+            "desc": ""
+        },
+        {
+            "hash": 2668499818,
+            "original": "Choose \"Search by Photo\"",
+            "translated": "选择「据照片搜索」",
+            "desc": ""
+        },
+        {
+            "hash": 2983475446,
+            "original": "Press ~ACCEPT~ to upload a photo.",
+            "translated": "按~ACCEPT~上传照片。",
+            "desc": ""
+        },
+        {
+            "hash": 3246559021,
+            "original": "~s~Press ~PAD_LB~ to access the police computer.",
+            "translated": "~s~按~PAD_LB~访问警用电脑。",
+            "desc": ""
+        },
+        {
+            "hash": 3434674386,
+            "original": "Use the police computer to locate your target.",
+            "translated": "利用警用电脑定位目标。",
+            "desc": ""
+        },
+        {
+            "hash": 3744898517,
+            "original": "Check the photo message your contact has just sent you.",
+            "translated": "查看你的联系人发送给你的彩信。",
+            "desc": ""
+        },
+        {
+            "hash": 3926389315,
+            "original": "~s~Access the police computer.",
+            "translated": "~s~访问警用电脑。",
+            "desc": ""
+        }
+    ]
+}

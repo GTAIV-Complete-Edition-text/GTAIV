@@ -1,0 +1,718 @@
+{
+    "J3AUD": [
+        {
+            "hash": 30293535,
+            "original": "~z~Protect the witness.",
+            "translated": "~z~保护证人。",
+            "desc": ""
+        },
+        {
+            "hash": 91860100,
+            "original": "~z~Okay, okay.",
+            "translated": "~z~好，好。",
+            "desc": ""
+        },
+        {
+            "hash": 94216313,
+            "original": "050",
+            "translated": "050",
+            "desc": ""
+        },
+        {
+            "hash": 107210669,
+            "original": "J3_AD",
+            "translated": "J3_AD",
+            "desc": ""
+        },
+        {
+            "hash": 158294298,
+            "original": "~z~Can I have some time alone with my patient?",
+            "translated": "~z~我能和我的病人独处一段时间吗？",
+            "desc": ""
+        },
+        {
+            "hash": 206667069,
+            "original": "~z~What you talking about?",
+            "translated": "~z~你在说什么啊？",
+            "desc": ""
+        },
+        {
+            "hash": 239093253,
+            "original": "~z~I raised that kid like he was my own.",
+            "translated": "~z~我把那小子当亲儿子养。",
+            "desc": ""
+        },
+        {
+            "hash": 242488596,
+            "original": "J3_BB",
+            "translated": "J3_BB",
+            "desc": ""
+        },
+        {
+            "hash": 258112568,
+            "original": "~z~The witness is down. Stop that Doctor.",
+            "translated": "~z~证人死了！抓住那个医生！",
+            "desc": ""
+        },
+        {
+            "hash": 258605934,
+            "original": "~z~Fucking Anthony!",
+            "translated": "~z~该死的Anthony！",
+            "desc": ""
+        },
+        {
+            "hash": 259018806,
+            "original": "690",
+            "translated": "690",
+            "desc": ""
+        },
+        {
+            "hash": 264225040,
+            "original": "~z~Of course, he's got you on the fuckin' tape too.",
+            "translated": "~z~当然，你丫也在他的录音里面。",
+            "desc": ""
+        },
+        {
+            "hash": 332061816,
+            "original": "~z~You can have one minute.",
+            "translated": "~z~给你们一分钟。",
+            "desc": ""
+        },
+        {
+            "hash": 333188029,
+            "original": "~z~Any inquiries, try the ER reception.",
+            "translated": "~z~你可以去急诊前台问问。",
+            "desc": ""
+        },
+        {
+            "hash": 383261249,
+            "original": "J3_PB",
+            "translated": "J3_PB",
+            "desc": ""
+        },
+        {
+            "hash": 420078758,
+            "original": "~z~Hey, I saw you a second ago. If you're a doctor I'm the Pope.",
+            "translated": "~z~喂，之前我刚见过你。你要是是医生，那老子就是天皇。",
+            "desc": ""
+        },
+        {
+            "hash": 441072649,
+            "original": "120120210120",
+            "translated": "120120210120",
+            "desc": ""
+        },
+        {
+            "hash": 461220143,
+            "original": "310130",
+            "translated": "310130",
+            "desc": ""
+        },
+        {
+            "hash": 478392811,
+            "original": "J3_DA",
+            "translated": "J3_DA",
+            "desc": ""
+        },
+        {
+            "hash": 509671236,
+            "original": "~z~Keep this fucker away from the witness.",
+            "translated": "~z~别让这个混蛋碰证人。",
+            "desc": ""
+        },
+        {
+            "hash": 534666224,
+            "original": "~z~Oh, it looks like I messed something up. Sorry about that, Anthony.",
+            "translated": "~z~哦，我好像动了什么不该动的东西。不好意思了，Anthony。",
+            "desc": ""
+        },
+        {
+            "hash": 541377372,
+            "original": "J3_BA",
+            "translated": "J3_BA",
+            "desc": ""
+        },
+        {
+            "hash": 548120049,
+            "original": "~z~Speak, you Balkan piece of shit - I'm done with you, done with everyone.",
+            "translated": "~z~说话啊，你这巴尔干烂人，我跟你结束了，我跟所有人都结束了！",
+            "desc": ""
+        },
+        {
+            "hash": 589653979,
+            "original": "~z~Of course.",
+            "translated": "~z~当然。",
+            "desc": ""
+        },
+        {
+            "hash": 698233770,
+            "original": "~z~Stupid rat.",
+            "translated": "~z~蠢蛋叛徒。",
+            "desc": ""
+        },
+        {
+            "hash": 775108878,
+            "original": "J3_FA",
+            "translated": "J3_FA",
+            "desc": ""
+        },
+        {
+            "hash": 804506130,
+            "original": "~z~Visiting hours are over.",
+            "translated": "~z~探视时间已经结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 825592599,
+            "original": "J3_HA",
+            "translated": "J3_HA",
+            "desc": ""
+        },
+        {
+            "hash": 832896893,
+            "original": "~z~Go to sleep, Anthony. You look tired.",
+            "translated": "~z~睡吧，Anthony。你看起来有点累了。",
+            "desc": ""
+        },
+        {
+            "hash": 889996389,
+            "original": "J3_AC",
+            "translated": "J3_AC",
+            "desc": ""
+        },
+        {
+            "hash": 1046040736,
+            "original": "~z~This is private back here.",
+            "translated": "~z~这里是私人区域。",
+            "desc": ""
+        },
+        {
+            "hash": 1051256700,
+            "original": "~z~It's only hospital staff beyond this point sir.",
+            "translated": "~z~先生，这边只允许医院职工进入。",
+            "desc": ""
+        },
+        {
+            "hash": 1056267864,
+            "original": "~z~You should have kept your fat mouth shut.",
+            "translated": "~z~你本应闭上你的大嘴的。",
+            "desc": ""
+        },
+        {
+            "hash": 1120490200,
+            "original": "J3_EA",
+            "translated": "J3_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1160277738,
+            "original": "~z~Mr. Pegorino, I don't know what you're talking about. I came as quickly as I could.",
+            "translated": "~z~Pegorino先生，我不知道你在说什么，我已经尽可能快地赶过来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1165112428,
+            "original": "~z~Now this? The world is a cunt!",
+            "translated": "~z~结果呢？这个王八蛋世界！",
+            "desc": ""
+        },
+        {
+            "hash": 1261822219,
+            "original": "J3_LC",
+            "translated": "J3_LC",
+            "desc": ""
+        },
+        {
+            "hash": 1262532633,
+            "original": "~z~So you'll do this for me?",
+            "translated": "~z~所以你会替我去的吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1296300789,
+            "original": "~z~No one likes a rat.",
+            "translated": "~z~没人喜欢叛徒。",
+            "desc": ""
+        },
+        {
+            "hash": 1342196104,
+            "original": "~z~Where is Anthony?",
+            "translated": "~z~Anthony现在在哪？",
+            "desc": ""
+        },
+        {
+            "hash": 1354707438,
+            "original": "J3_OA",
+            "translated": "J3_OA",
+            "desc": ""
+        },
+        {
+            "hash": 1381155581,
+            "original": "J3_GA",
+            "translated": "J3_GA",
+            "desc": ""
+        },
+        {
+            "hash": 1406326853,
+            "original": "~z~And after that I want you to kill all the other rats I surround myself with...",
+            "translated": "~z~再然后，我还要你把我身边的叛徒都给杀了...",
+            "desc": ""
+        },
+        {
+            "hash": 1413197179,
+            "original": "~z~Boss... Peg, is that you? I'm sorry. I'm sorry.",
+            "translated": "~z~老大...是你吗？对不起，真的对不起",
+            "desc": ""
+        },
+        {
+            "hash": 1527485940,
+            "original": "800",
+            "translated": "800",
+            "desc": ""
+        },
+        {
+            "hash": 1555520262,
+            "original": "~z~I think maybe I've talked him out of it...",
+            "translated": "~z~当时我以为他要被我说服了...",
+            "desc": ""
+        },
+        {
+            "hash": 1560585471,
+            "original": "590",
+            "translated": "590",
+            "desc": ""
+        },
+        {
+            "hash": 1626794869,
+            "original": "~z~I heard he's wearing a wire, so I freak out...",
+            "translated": "~z~听说他带着窃听器的时候，我气炸了...",
+            "desc": ""
+        },
+        {
+            "hash": 1633193785,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 1712684234,
+            "original": "~z~Okay, okay. Don't worry.",
+            "translated": "~z~好，好，不要担心。",
+            "desc": ""
+        },
+        {
+            "hash": 1861877643,
+            "original": "~z~then he has a Goddamn heart attack on the phone.",
+            "translated": "~z~然后，他就在电话那头心脏病发了。",
+            "desc": ""
+        },
+        {
+            "hash": 1865123806,
+            "original": "~z~he's such a moron, he leaves his cell phone on, so we speak.",
+            "translated": "~z~他是真的白痴，手机都不关，我们就聊了聊。",
+            "desc": ""
+        },
+        {
+            "hash": 1871917843,
+            "original": "~z~Hey, you can't go past here.",
+            "translated": "~z~嘿，你不能再进去了。",
+            "desc": ""
+        },
+        {
+            "hash": 1872232655,
+            "original": "~z~I mean, Jesus, what a chump.",
+            "translated": "~z~我是说，天，真他妈弱智。",
+            "desc": ""
+        },
+        {
+            "hash": 1886861939,
+            "original": "J3_JA",
+            "translated": "J3_JA",
+            "desc": ""
+        },
+        {
+            "hash": 1996889771,
+            "original": "~z~So you want me to talk to him?",
+            "translated": "~z~所以你想让我去跟他谈谈？",
+            "desc": ""
+        },
+        {
+            "hash": 2011973908,
+            "original": "J3_AB",
+            "translated": "J3_AB",
+            "desc": ""
+        },
+        {
+            "hash": 2021355553,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2040028664,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2048726481,
+            "original": "~z~I'm thinking problem solved - he's dying right in front of my ears.",
+            "translated": "~z~我觉得问题解决了，我听着他死的。",
+            "desc": ""
+        },
+        {
+            "hash": 2061982311,
+            "original": "~z~I'll go, but I ain't going quietly!",
+            "translated": "~z~我会溜走的，但不会偷偷摸摸地走！",
+            "desc": ""
+        },
+        {
+            "hash": 2099367868,
+            "original": "~z~Do I know you? I've seen so many green doctors, patients and cadavers, I don't recognize anyone anymore.",
+            "translated": "~z~我认识你吗？我见过了太多一身绿的医生、病人和尸体，现在认不出人了。",
+            "desc": ""
+        },
+        {
+            "hash": 2100245482,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        },
+        {
+            "hash": 2169611330,
+            "original": "~z~He freaks out on the phone, and I put the fear of God in him.",
+            "translated": "~z~他在电话那头吓得要死，我就在这头一直威胁他。",
+            "desc": ""
+        },
+        {
+            "hash": 2191603169,
+            "original": "~z~I want you to whack him.",
+            "translated": "~z~我要你做掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 2258312980,
+            "original": "~z~Patient's back there, Doc. Look after him.",
+            "translated": "~z~病人在这儿，医生。照顾好他。",
+            "desc": ""
+        },
+        {
+            "hash": 2290849306,
+            "original": "~z~Wait, isn't the boss in jail? What're you here for?",
+            "translated": "~z~等等，老大在监狱里吧？那你来干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 2319025667,
+            "original": "600600600600600",
+            "translated": "600600600600600",
+            "desc": ""
+        },
+        {
+            "hash": 2322542894,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 2324346540,
+            "original": "~z~But the asshole lived and now he's in the Leftwood hospital under heavy guard.",
+            "translated": "~z~结果这混蛋没死，现在在Leftwood的医院里被人严密保护。",
+            "desc": ""
+        },
+        {
+            "hash": 2351037660,
+            "original": "~z~That is a problem.",
+            "translated": "~z~确实麻烦了。",
+            "desc": ""
+        },
+        {
+            "hash": 2497756063,
+            "original": "~z~He's not looking too good, Doc.",
+            "translated": "~z~他看起来情况不太妙，医生。",
+            "desc": ""
+        },
+        {
+            "hash": 2551318579,
+            "original": "J3_AA",
+            "translated": "J3_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2566642558,
+            "original": "~z~after he's gone state's of course...",
+            "translated": "~z~当然，那会儿他已经背叛了...",
+            "desc": ""
+        },
+        {
+            "hash": 2605235092,
+            "original": "~z~Oh shit, I didn't have a choice. They was gonna put me away for some hard time.",
+            "translated": "~z~哦天哪，我真的没得选。不然我就要被关进去了。",
+            "desc": ""
+        },
+        {
+            "hash": 2637572412,
+            "original": "J3_NA",
+            "translated": "J3_NA",
+            "desc": ""
+        },
+        {
+            "hash": 2686952292,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2837914378,
+            "original": "J3_CA",
+            "translated": "J3_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2934809889,
+            "original": "J3_LD",
+            "translated": "J3_LD",
+            "desc": ""
+        },
+        {
+            "hash": 3012316088,
+            "original": "~z~What about Anthony?",
+            "translated": "~z~Anthony怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 3065813628,
+            "original": "~z~I don't think you will be seeing Anthony on the witness stand.",
+            "translated": "~z~我想你不会在证言台上见到Anthony了。",
+            "desc": ""
+        },
+        {
+            "hash": 3069604591,
+            "original": "~z~Shit, Niko. You here to see the boss? He's just this way.",
+            "translated": "~z~哦，Niko，你是来找老大的吗？他在这边。",
+            "desc": ""
+        },
+        {
+            "hash": 3083018893,
+            "original": "J3_IA",
+            "translated": "J3_IA",
+            "desc": ""
+        },
+        {
+            "hash": 3088619959,
+            "original": "~z~I beat him like he was my own son!",
+            "translated": "~z~我把他当自己亲儿子打！",
+            "desc": ""
+        },
+        {
+            "hash": 3109504308,
+            "original": "J3_QA",
+            "translated": "J3_QA",
+            "desc": ""
+        },
+        {
+            "hash": 3176419364,
+            "original": "~z~Stay away from the burns ward. It's not a pretty sight.",
+            "translated": "~z~别进烧伤病房。那里光景可不太好。",
+            "desc": ""
+        },
+        {
+            "hash": 3251300405,
+            "original": "~z~He was wearing a fucking wire!",
+            "translated": "~z~他他妈一直带着窃听器！",
+            "desc": ""
+        },
+        {
+            "hash": 3261431694,
+            "original": "J3_RA",
+            "translated": "J3_RA",
+            "desc": ""
+        },
+        {
+            "hash": 3277498246,
+            "original": "~z~Huh?",
+            "translated": "~z~嗯？",
+            "desc": ""
+        },
+        {
+            "hash": 3338382391,
+            "original": "J3_SA",
+            "translated": "J3_SA",
+            "desc": ""
+        },
+        {
+            "hash": 3352730340,
+            "original": "~z~Argh... my arm... Peg... Peg...",
+            "translated": "~z~啊...我的胳膊...Peg...Peg...",
+            "desc": ""
+        },
+        {
+            "hash": 3368540625,
+            "original": "J3_LE",
+            "translated": "J3_LE",
+            "desc": ""
+        },
+        {
+            "hash": 3385277716,
+            "original": "~z~When my son killed himself, Anthony became my son.",
+            "translated": "~z~我儿子自杀后，Anthony就成了我儿子。",
+            "desc": ""
+        },
+        {
+            "hash": 3508552465,
+            "original": "~z~Didn't I just?",
+            "translated": "~z~我不刚做过吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3509315870,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 3518197800,
+            "original": "J3_LA",
+            "translated": "J3_LA",
+            "desc": ""
+        },
+        {
+            "hash": 3552597123,
+            "original": "~z~Fucking feds. Turning everybody into rats. See ya round, Niko.",
+            "translated": "~z~该死的FIB。把所有人都变成了叛徒。一会儿见Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3559824165,
+            "original": "590",
+            "translated": "590",
+            "desc": ""
+        },
+        {
+            "hash": 3602292071,
+            "original": "J3_PC",
+            "translated": "J3_PC",
+            "desc": ""
+        },
+        {
+            "hash": 3664898503,
+            "original": "~z~I wanted to stretch my legs anyway.",
+            "translated": "~z~反正我坐着也累了。",
+            "desc": ""
+        },
+        {
+            "hash": 3672717169,
+            "original": "J3_MA",
+            "translated": "J3_MA",
+            "desc": ""
+        },
+        {
+            "hash": 3714979859,
+            "original": "~z~Hey, watch out for those cops. They're down the hall acting like they own the place.",
+            "translated": "~z~嘿，小心点那些条子。他们把走廊那头当自己的地盘。",
+            "desc": ""
+        },
+        {
+            "hash": 3795207148,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        },
+        {
+            "hash": 3866524143,
+            "original": "~z~I better not be seeing you up there neither. Or anybody else I know for that matter.",
+            "translated": "~z~也别让我在那儿看见你，或者哪个我认识的熟人。",
+            "desc": ""
+        },
+        {
+            "hash": 3885433281,
+            "original": "~z~You think that coat's gonna fool me? You ain't a doctor.",
+            "translated": "~z~别以为穿个马甲我就不认识你了，你不是医生。",
+            "desc": ""
+        },
+        {
+            "hash": 3940643283,
+            "original": "500",
+            "translated": "500",
+            "desc": ""
+        },
+        {
+            "hash": 3948403633,
+            "original": "~z~I never thought it'd be me that turned rat.",
+            "translated": "~z~我从没想到最后自己会背叛。",
+            "desc": ""
+        },
+        {
+            "hash": 3952148647,
+            "original": "~z~I call him up...",
+            "translated": "~z~我打电话给他...",
+            "desc": ""
+        },
+        {
+            "hash": 3971421169,
+            "original": "~z~He may be a scumbag, but we need him for trial.",
+            "translated": "~z~尽管他是人渣，但审判不能没他作证。",
+            "desc": ""
+        },
+        {
+            "hash": 4024679678,
+            "original": "~z~Cops act all nice when they get shot but it's Mr. Toughguy now that they're down the hall with a witness.",
+            "translated": "~z~挨了枪子儿的条子那叫一个温顺，这会儿跟证人在一起，就成硬汉先生了。",
+            "desc": ""
+        },
+        {
+            "hash": 4037913312,
+            "original": "J3_LB",
+            "translated": "J3_LB",
+            "desc": ""
+        },
+        {
+            "hash": 4105328753,
+            "original": "J3_KA",
+            "translated": "J3_KA",
+            "desc": ""
+        },
+        {
+            "hash": 4130232806,
+            "original": "J3_PA",
+            "translated": "J3_PA",
+            "desc": ""
+        },
+        {
+            "hash": 4144331073,
+            "original": "~z~Tell Peg I'm sorry.",
+            "translated": "~z~告诉Peg，我很抱歉...",
+            "desc": ""
+        },
+        {
+            "hash": 4181765784,
+            "original": "060",
+            "translated": "060",
+            "desc": ""
+        },
+        {
+            "hash": 4194490528,
+            "original": "~z~Not you as well. Tell me it ain't you as well, you Slavic fuck!",
+            "translated": "~z~你也是吗？该不会你也是吧，斯拉夫傻逼！",
+            "desc": ""
+        },
+        {
+            "hash": 4225025509,
+            "original": "~z~I need a little doctor patient confidentiality.",
+            "translated": "~z~我需要一点和病人独处的时间。",
+            "desc": ""
+        },
+        {
+            "hash": 4237730482,
+            "original": "~z~My personal bodyguard wearing a wire!",
+            "translated": "~z~我贴身保镖的身上有窃听器！",
+            "desc": ""
+        },
+        {
+            "hash": 4276417363,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        }
+    ]
+}

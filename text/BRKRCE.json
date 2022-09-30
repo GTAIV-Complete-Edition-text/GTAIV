@@ -1,0 +1,148 @@
+{
+    "BRKRCE": [
+        {
+            "hash": 72263387,
+            "original": "~s~Bring the car to a stop.",
+            "translated": "~s~停车。",
+            "desc": ""
+        },
+        {
+            "hash": 142192425,
+            "original": "~b~Go!",
+            "translated": "~b~Go!",
+            "desc": ""
+        },
+        {
+            "hash": 311444318,
+            "original": "~s~Go and collect the ~b~race car.",
+            "translated": "~s~去取那台~b~赛车。",
+            "desc": ""
+        },
+        {
+            "hash": 328025712,
+            "original": "~s~1st",
+            "translated": "~s~1st",
+            "desc": ""
+        },
+        {
+            "hash": 382356426,
+            "original": "~r~You failed to get back into your car on time.",
+            "translated": "~r~你没能及时回到你的车上。",
+            "desc": ""
+        },
+        {
+            "hash": 397199371,
+            "original": "~s~You've lost the race.",
+            "translated": "~s~你输掉了比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 605054550,
+            "original": "~s~You have ~1~ seconds to get back in your car.",
+            "translated": "~s~在~1~秒内回到车上。",
+            "desc": ""
+        },
+        {
+            "hash": 715353592,
+            "original": "~s~Line up your car.",
+            "translated": "~s~进入起跑队列。",
+            "desc": ""
+        },
+        {
+            "hash": 776043480,
+            "original": "~s~Press ~INPUT_VEH_CIN_CAM~ ~s~ to look at the next checkpoint.",
+            "translated": "~s~按~INPUT_VEH_CIN_CAM~看向下一个检查点。",
+            "desc": ""
+        },
+        {
+            "hash": 1089575572,
+            "original": "~r~The race car got trashed.",
+            "translated": "~r~比赛用车报废了。",
+            "desc": ""
+        },
+        {
+            "hash": 1388068393,
+            "original": "~r~Brucie is out of action.",
+            "translated": "~r~Brucie再起不能。",
+            "desc": ""
+        },
+        {
+            "hash": 1791128817,
+            "original": "~s~2",
+            "translated": "~s~2",
+            "desc": ""
+        },
+        {
+            "hash": 1797420153,
+            "original": "~s~1",
+            "translated": "~s~1",
+            "desc": ""
+        },
+        {
+            "hash": 2013595842,
+            "original": "~s~You've left ~b~Brucie ~s~behind.",
+            "translated": "~s~你丢下了~b~Brucie。",
+            "desc": ""
+        },
+        {
+            "hash": 2521844756,
+            "original": "~r~You failed to win the race.",
+            "translated": "~r~你没能赢得比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 2702926250,
+            "original": "~s~3",
+            "translated": "~s~3",
+            "desc": ""
+        },
+        {
+            "hash": 2753847552,
+            "original": "~r~The race was sabotaged.",
+            "translated": "~r~比赛被迫中止。",
+            "desc": ""
+        },
+        {
+            "hash": 2993161283,
+            "original": "~s~4th",
+            "translated": "~s~4th",
+            "desc": ""
+        },
+        {
+            "hash": 3432528035,
+            "original": "~s~Winner.",
+            "translated": "~s~冠军。",
+            "desc": ""
+        },
+        {
+            "hash": 3747469170,
+            "original": "~s~Take Brucie ~y~home.",
+            "translated": "~s~送Brucie~y~回家。",
+            "desc": ""
+        },
+        {
+            "hash": 3758350202,
+            "original": "~s~2nd",
+            "translated": "~s~2nd",
+            "desc": ""
+        },
+        {
+            "hash": 3903254412,
+            "original": "~s~Get back in your ~b~car.",
+            "translated": "~s~回到你的~b~车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 3914396180,
+            "original": "~s~3rd",
+            "translated": "~s~3rd",
+            "desc": ""
+        },
+        {
+            "hash": 4133849865,
+            "original": "~s~Go to the race ~y~start.",
+            "translated": "~s~前往比赛~y~起点。",
+            "desc": ""
+        }
+    ]
+}

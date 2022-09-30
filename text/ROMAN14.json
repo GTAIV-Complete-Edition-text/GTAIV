@@ -1,0 +1,100 @@
+{
+    "ROMAN14": [
+        {
+            "hash": 372103370,
+            "original": "~s~Go and get ~y~Roman.",
+            "translated": "~s~去带上~y~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 655653527,
+            "original": "~s~Pick up ~b~Roman.",
+            "translated": "~s~去接~b~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 707175906,
+            "original": "~r~The car has been destroyed.~s~",
+            "translated": "~r~车子被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 910143739,
+            "original": "~s~Choose to kill ~r~Darko~s~ or let him live.",
+            "translated": "~s~抉择：杀了~r~Darko~s~ 或 放过他。",
+            "desc": ""
+        },
+        {
+            "hash": 1035588337,
+            "original": "~r~Roman has been injured.~s~",
+            "translated": "~r~Roman受伤了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1206500413,
+            "original": "~s~Get back in the ~b~car.",
+            "translated": "~s~回到~b~车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1356156436,
+            "original": "~s~Take Roman to ~y~Brucie's place.",
+            "translated": "~s~送Roman去~y~Brucie家。",
+            "desc": ""
+        },
+        {
+            "hash": 1576527961,
+            "original": "~s~Go back and get ~b~Roman.",
+            "translated": "~s~回去带上~b~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 1962747840,
+            "original": "~r~Roman is dead.~s~",
+            "translated": "~r~Roman死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2057609650,
+            "original": "~s~Head to the ~y~rendezvous.",
+            "translated": "~s~前往~y~货运区。",
+            "desc": ""
+        },
+        {
+            "hash": 2159588954,
+            "original": "~s~Wait for ~b~Roman.",
+            "translated": "~s~等待~b~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 2646114388,
+            "original": "~s~Execute him or walk away to let him live.",
+            "translated": "~s~处决他，或直接走开放过他。",
+            "desc": ""
+        },
+        {
+            "hash": 2981482393,
+            "original": "~s~Choose to kill ~b~Darko~s~ or let him live.",
+            "translated": "~s~抉择：杀了~b~Darko~s~ 或 放过他。",
+            "desc": ""
+        },
+        {
+            "hash": 3042197676,
+            "original": "~s~Get a car for you and Roman.",
+            "translated": "~s~替你和Roman找辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 3267015141,
+            "original": "~s~Pick up ~y~Roman.",
+            "translated": "~s~带上~y~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 4250281755,
+            "original": "~s~Get a car and pick up ~b~Roman.",
+            "translated": "~s~找一辆车带上~b~Roman。",
+            "desc": ""
+        }
+    ]
+}

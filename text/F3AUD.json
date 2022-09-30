@@ -1,0 +1,784 @@
+{
+    "F3AUD": [
+        {
+            "hash": 75342190,
+            "original": "~z~Sergei told me that a friend of his in the courts told him",
+            "translated": "~z~Sergai跟我说他的一个法院朋友告诉他",
+            "desc": ""
+        },
+        {
+            "hash": 105260889,
+            "original": "~z~Hey! My brother, and Niko. Good.",
+            "translated": "~z~嘿！我兄弟和Niko。好。坐吧。",
+            "desc": ""
+        },
+        {
+            "hash": 108636882,
+            "original": "~z~-but he didn't buy the pot.~n~-That's Lenny.",
+            "translated": "~z~－但他并没有买大麻。~n~－那是Lenny。",
+            "desc": ""
+        },
+        {
+            "hash": 127870813,
+            "original": "~z~Get out of here.",
+            "translated": "~z~你们走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 187728277,
+            "original": "F3_CC",
+            "translated": "F3_CC",
+            "desc": ""
+        },
+        {
+            "hash": 257240387,
+            "original": "~z~Faustin ain't nobody. Fuck off.",
+            "translated": "~z~Faustin算个屁，去他妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 287578290,
+            "original": "~z~Do what my papa pays you to do. Shit.",
+            "translated": "~z~做我爸爸花钱雇你做的事啊，操。",
+            "desc": ""
+        },
+        {
+            "hash": 313662534,
+            "original": "F3_AB",
+            "translated": "F3_AB",
+            "desc": ""
+        },
+        {
+            "hash": 325239392,
+            "original": "~z~You,",
+            "translated": "~z~你，",
+            "desc": ""
+        },
+        {
+            "hash": 344731951,
+            "original": "~z~I cannot talk just now. Do what you have to do.",
+            "translated": "~z~我现在不方便说话，让你做你就做。",
+            "desc": ""
+        },
+        {
+            "hash": 370488855,
+            "original": "F3_HC",
+            "translated": "F3_HC",
+            "desc": ""
+        },
+        {
+            "hash": 419777065,
+            "original": "~z~Keep it warm. I won't be too long.",
+            "translated": "~z~保持热情，我不会耽搁太久。",
+            "desc": ""
+        },
+        {
+            "hash": 487741443,
+            "original": "~z~We're going to have to calm things right down for a while.",
+            "translated": "~z~我们现在得让事情平息一段时间。",
+            "desc": ""
+        },
+        {
+            "hash": 496945622,
+            "original": "~z~He's enough of a somebody to get you killed.",
+            "translated": "~z~至少他足以让你没命。",
+            "desc": ""
+        },
+        {
+            "hash": 535517859,
+            "original": "~z~Um.... Mikhail, we've got something we need to talk about.",
+            "translated": "~z~嗯...Mikhail，我们有些事需要谈谈。",
+            "desc": ""
+        },
+        {
+            "hash": 547086430,
+            "original": "~z~It could be you.",
+            "translated": "~z~是你也说不定。",
+            "desc": ""
+        },
+        {
+            "hash": 614952825,
+            "original": "~z~-You have to play by the rules.~n~-Stop. I said stop.",
+            "translated": "~z~－你必须按规则来。~n~－停，我说了停。",
+            "desc": ""
+        },
+        {
+            "hash": 616573515,
+            "original": "F3_GA",
+            "translated": "F3_GA",
+            "desc": ""
+        },
+        {
+            "hash": 639128709,
+            "original": "~z~I'm into more shit than Mikhail could even imagine. Why would I rat?",
+            "translated": "~z~我知道的屁事比Mikhail能想到的还多，我为什么要告密？",
+            "desc": ""
+        },
+        {
+            "hash": 651875788,
+            "original": "~z~Just one second, Mikhail. It's nobody.",
+            "translated": "~z~就等一会儿，Mikhail。不是谁的电话。",
+            "desc": ""
+        },
+        {
+            "hash": 699002606,
+            "original": "~z~You pathetic idiot.",
+            "translated": "~z~你个可悲的呆子。",
+            "desc": ""
+        },
+        {
+            "hash": 769837065,
+            "original": "F3_CB",
+            "translated": "F3_CB",
+            "desc": ""
+        },
+        {
+            "hash": 787216548,
+            "original": "~z~Little delicious, my little knish...",
+            "translated": "~z~小美人，我的小甜心...",
+            "desc": ""
+        },
+        {
+            "hash": 838091446,
+            "original": "F3_FA",
+            "translated": "F3_FA",
+            "desc": ""
+        },
+        {
+            "hash": 922941131,
+            "original": "F3_DB",
+            "translated": "F3_DB",
+            "desc": ""
+        },
+        {
+            "hash": 970451249,
+            "original": "F3_AA",
+            "translated": "F3_AA",
+            "desc": ""
+        },
+        {
+            "hash": 991592193,
+            "original": "F3_HB",
+            "translated": "F3_HB",
+            "desc": ""
+        },
+        {
+            "hash": 1054940392,
+            "original": "~z~Think for a second. This has been going on for months.",
+            "translated": "~z~你再想想，这种情况都持续了几个月了。",
+            "desc": ""
+        },
+        {
+            "hash": 1058379421,
+            "original": "~z~So.",
+            "translated": "~z~那，",
+            "desc": ""
+        },
+        {
+            "hash": 1060866513,
+            "original": "010100100100",
+            "translated": "010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 1064344236,
+            "original": "~z~You and Mikhail will be killed if anything happens to me.",
+            "translated": "~z~要是我有什么三长两短，你和Mikhail就都死定了。",
+            "desc": ""
+        },
+        {
+            "hash": 1084596009,
+            "original": "~z~I saw it in his eyes... you know?",
+            "translated": "~z~从他的眼神里就能看出来...懂吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1091280305,
+            "original": "~z~-Mikhail, please, don't do this.~n~-Shut up.",
+            "translated": "~z~－Mikhail，拜托，别这么做。~n~－闭嘴。",
+            "desc": ""
+        },
+        {
+            "hash": 1135712339,
+            "original": "~z~Ah... Lenny, got away. Maybe this is a sign?",
+            "translated": "~z~啊...Lenny，跑掉了，也许这是个征兆？",
+            "desc": ""
+        },
+        {
+            "hash": 1165439168,
+            "original": "~z~-Why don't you listen?~n~-You want to play games?",
+            "translated": "~z~－你为什么不听？~n~－你想玩游戏吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1272679034,
+            "original": "F3_CD",
+            "translated": "F3_CD",
+            "desc": ""
+        },
+        {
+            "hash": 1300036880,
+            "original": "F3_GD",
+            "translated": "F3_GD",
+            "desc": ""
+        },
+        {
+            "hash": 1305656011,
+            "original": "~z~Think? Look where your thinking has got us.",
+            "translated": "~z~想想？也不看看你的想想都让我们落到什么地步了。",
+            "desc": ""
+        },
+        {
+            "hash": 1323156921,
+            "original": "120",
+            "translated": "120",
+            "desc": ""
+        },
+        {
+            "hash": 1323841898,
+            "original": "~z~Head up there, and call me, me personally, when you get there.",
+            "translated": "~z~去那里，到了就给我打个电话，我们私下聊。",
+            "desc": ""
+        },
+        {
+            "hash": 1330855044,
+            "original": "~z~It's that fucking guy, yeah, I know it is.",
+            "translated": "~z~是那该死的家伙啊，我知道得清清楚楚。",
+            "desc": ""
+        },
+        {
+            "hash": 1352940819,
+            "original": "~z~Haven't you heard of my father, Kenny Petrovic?",
+            "translated": "~z~你没听说过我父亲Kenny Petrovic吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1375188191,
+            "original": "~z~You let him go? You disobeyed me? Maybe it is you I should have killed. You and Dimitri.",
+            "translated": "~z~你放他走了？你居然违抗我的命令？可能我该杀的是你，你和Dimitri都是。",
+            "desc": ""
+        },
+        {
+            "hash": 1393542141,
+            "original": "~z~That guy.",
+            "translated": "~z~那家伙。",
+            "desc": ""
+        },
+        {
+            "hash": 1405535591,
+            "original": "~z~Who is the rat?",
+            "translated": "~z~谁走漏的风声？",
+            "desc": ""
+        },
+        {
+            "hash": 1440939626,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1497156909,
+            "original": "~z~Mikhail.",
+            "translated": "~z~Mikhail。",
+            "desc": ""
+        },
+        {
+            "hash": 1525043607,
+            "original": "~z~This isn't meant to be happening.",
+            "translated": "~z~不该有这种事的啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1661525635,
+            "original": "~z~Shit.",
+            "translated": "~z~天杀的。",
+            "desc": ""
+        },
+        {
+            "hash": 1745140424,
+            "original": "F3_CF",
+            "translated": "F3_CF",
+            "desc": ""
+        },
+        {
+            "hash": 1852373148,
+            "original": "~z~You and Faustin have gotta be crazy.",
+            "translated": "~z~我看你和Faustin都疯了。",
+            "desc": ""
+        },
+        {
+            "hash": 1913307811,
+            "original": "F3_GC",
+            "translated": "F3_GC",
+            "desc": ""
+        },
+        {
+            "hash": 1919417581,
+            "original": "~z~-Please?~n~-Okay.",
+            "translated": "~z~－拜托？~n~－好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1936261739,
+            "original": "~z~-I...~n~-Shut the fuck up.",
+            "translated": "~z~－我...~n~－你丫闭嘴。",
+            "desc": ""
+        },
+        {
+            "hash": 1982042966,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 2004061376,
+            "original": "~z~Making too much noise. This was inevitable.",
+            "translated": "~z~动静太大，避免不了的。",
+            "desc": ""
+        },
+        {
+            "hash": 2004422167,
+            "original": "~z~You, kill him.",
+            "translated": "~z~你，杀了他。",
+            "desc": ""
+        },
+        {
+            "hash": 2011597719,
+            "original": "~z~Faustin's out of control.",
+            "translated": "~z~Faustin已经失控了。",
+            "desc": ""
+        },
+        {
+            "hash": 2044622249,
+            "original": "~z~Mr. Faustin, do you want to call this off?",
+            "translated": "~z~Faustin先生，你想取消这次行动吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2058840587,
+            "original": "F3_DD",
+            "translated": "F3_DD",
+            "desc": ""
+        },
+        {
+            "hash": 2067626415,
+            "original": "F3_DC",
+            "translated": "F3_DC",
+            "desc": ""
+        },
+        {
+            "hash": 2130283072,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2135230111,
+            "original": "~z~Dimitri, should I do this? Should I kill this boy for Mr. Faustin?",
+            "translated": "~z~Dimitri，我该下手吗？我该替Faustin先生杀了这小子吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2200583255,
+            "original": "~z~Very good. I'm proud of you. Good.",
+            "translated": "~z~很好，我很欣赏你，好。",
+            "desc": ""
+        },
+        {
+            "hash": 2203361858,
+            "original": "~z~Don't question my loyalty.",
+            "translated": "~z~不要质疑我的忠诚。",
+            "desc": ""
+        },
+        {
+            "hash": 2237999267,
+            "original": "~z~It's no one. It's just the way we have been behaving.",
+            "translated": "~z~不是谁，只是我们最近办得太张扬了。",
+            "desc": ""
+        },
+        {
+            "hash": 2243603098,
+            "original": "~z~Are you sure?",
+            "translated": "~z~你确定？",
+            "desc": ""
+        },
+        {
+            "hash": 2269122668,
+            "original": "~z~No, I never change my mind. I've heard he's at the Guantanamo Avenue station.",
+            "translated": "~z~不，我从来不会改变主意。听说他在Guantanamo大道站。",
+            "desc": ""
+        },
+        {
+            "hash": 2321034529,
+            "original": "~z~The feds, or someone are all over us.",
+            "translated": "~z~FIB还是谁的在调查我们。",
+            "desc": ""
+        },
+        {
+            "hash": 2321133693,
+            "original": "~z~Stay away from me.",
+            "translated": "~z~离我远点儿。",
+            "desc": ""
+        },
+        {
+            "hash": 2327684582,
+            "original": "F3_HA",
+            "translated": "F3_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2354918309,
+            "original": "~z~Girls, can you give us a minute, huh?",
+            "translated": "~z~姑娘们，能不能给我们一点时间，哈？",
+            "desc": ""
+        },
+        {
+            "hash": 2442647858,
+            "original": "~z~Hey, Dimitri, I took care of that thing for you.",
+            "translated": "~z~嘿，Dimitri，那事我帮你办妥了。",
+            "desc": ""
+        },
+        {
+            "hash": 2479541606,
+            "original": "~z~-don't do this. ~n~-Go.",
+            "translated": "~z~－别这么做。~n~－去。",
+            "desc": ""
+        },
+        {
+            "hash": 2485241704,
+            "original": "~z~Sure? No, I am not.",
+            "translated": "~z~确定？不，我不确定。",
+            "desc": ""
+        },
+        {
+            "hash": 2489519331,
+            "original": "F3_GB",
+            "translated": "F3_GB",
+            "desc": ""
+        },
+        {
+            "hash": 2559691156,
+            "original": "~z~We've got police trouble.",
+            "translated": "~z~我们被警察盯上了。",
+            "desc": ""
+        },
+        {
+            "hash": 2627235635,
+            "original": "~z~Hi, Dimitri.",
+            "translated": "~z~嗨，Dimitri。",
+            "desc": ""
+        },
+        {
+            "hash": 2631405699,
+            "original": "~z~I'm sorry Niko. Thank you. At least you are loyal. We will work together again, come to see me at my house.",
+            "translated": "~z~我很抱歉Niko，谢谢你，至少你是忠诚的，我们会再次一起工作，来我家找我。",
+            "desc": ""
+        },
+        {
+            "hash": 2689381530,
+            "original": "F3_CA",
+            "translated": "F3_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2710004271,
+            "original": "~z~I don't trust him.",
+            "translated": "~z~我信不过他。",
+            "desc": ""
+        },
+        {
+            "hash": 2718722537,
+            "original": "~z~-I... I'm begging you... please,~n~-I said shut the fuck up.",
+            "translated": "~z~－我...我求你了...拜托，~n~－我说了你他妈闭嘴。",
+            "desc": ""
+        },
+        {
+            "hash": 2724226021,
+            "original": "~z~Right now, I am wondering if it's him or you.",
+            "translated": "~z~现在，我在想到底是他，还是你。",
+            "desc": ""
+        },
+        {
+            "hash": 2778588933,
+            "original": "~z~You shouldn't be fucking with my father.",
+            "translated": "~z~你想招惹我父亲吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2829478967,
+            "original": "~z~-come on, no big deal.~n~-Not that, in private?",
+            "translated": "~z~－好啦，没关系的。~n~－不是那回事，私下聊聊？",
+            "desc": ""
+        },
+        {
+            "hash": 2832558619,
+            "original": "~z~What is it?",
+            "translated": "~z~是什么事情？",
+            "desc": ""
+        },
+        {
+            "hash": 2854193733,
+            "original": "~z~-So nice to meet you.~n~-Oh, my pleasure.",
+            "translated": "~z~－很高兴见到你。~n~－噢，乐意之至。",
+            "desc": ""
+        },
+        {
+            "hash": 2943858114,
+            "original": "~z~Lenny, the boy, he's dead.",
+            "translated": "~z~Lenny，这小子，已经死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3000890667,
+            "original": "~z~Hold on a second.",
+            "translated": "~z~稍等片刻。",
+            "desc": ""
+        },
+        {
+            "hash": 3002076172,
+            "original": "~z~-This is not a game.~n~-Hey, give me break.",
+            "translated": "~z~－这不是个游戏。~n~－嘿，让我缓缓。",
+            "desc": ""
+        },
+        {
+            "hash": 3066518775,
+            "original": "F3_DA",
+            "translated": "F3_DA",
+            "desc": ""
+        },
+        {
+            "hash": 3102844905,
+            "original": "~z~Dimitri, Dimitri, hey, hey, uh... meet my girl, Natasha.",
+            "translated": "~z~Dimitri，Dimitri，嘿，嘿，呃...瞧瞧我的女伴，Natasha。",
+            "desc": ""
+        },
+        {
+            "hash": 3127808125,
+            "original": "~z~Then don't question my orders.",
+            "translated": "~z~那就别质疑我的命令。",
+            "desc": ""
+        },
+        {
+            "hash": 3145929172,
+            "original": "~z~-Have a drink.~n~-Oh, baby...",
+            "translated": "~z~－喝一杯吧。~n~－噢，宝贝...",
+            "desc": ""
+        },
+        {
+            "hash": 3185208680,
+            "original": "F3_DE",
+            "translated": "F3_DE",
+            "desc": ""
+        },
+        {
+            "hash": 3213336119,
+            "original": "~z~What? I just told you...",
+            "translated": "~z~啥？我才刚跟你说过...",
+            "desc": ""
+        },
+        {
+            "hash": 3236058808,
+            "original": "010100100100",
+            "translated": "010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 3250772568,
+            "original": "~z~Shut up Dimitri, I don't care who he is. It is too late anyway. Niko has killed him. Stop your whining.",
+            "translated": "~z~Dimitri，能消停会吗，我不在乎他是谁，反正已经太晚了，Niko都杀了他了。别抱怨了。",
+            "desc": ""
+        },
+        {
+            "hash": 3348709240,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3362408154,
+            "original": "~z~No problem.",
+            "translated": "~z~不客气。",
+            "desc": ""
+        },
+        {
+            "hash": 3387769491,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 3449599495,
+            "original": "~z~Okay, you can have Vera, I take Katerina,",
+            "translated": "~z~行，Vera归你，Katerina归我，",
+            "desc": ""
+        },
+        {
+            "hash": 3450350271,
+            "original": "~z~My dad pays you to ice crazy bitches like this guy.",
+            "translated": "~z~我爸花钱雇你就是为了解决这样的贱人疯子。",
+            "desc": ""
+        },
+        {
+            "hash": 3452517050,
+            "original": "~z~He knows too much.",
+            "translated": "~z~他知道的太多了。",
+            "desc": ""
+        },
+        {
+            "hash": 3458701778,
+            "original": "F3_AD",
+            "translated": "F3_AD",
+            "desc": ""
+        },
+        {
+            "hash": 3501067599,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3559037746,
+            "original": "F3_EA",
+            "translated": "F3_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3563734708,
+            "original": "~z~That guy, who bought the coke...",
+            "translated": "~z~那家伙去买的可卡因...",
+            "desc": ""
+        },
+        {
+            "hash": 3594052215,
+            "original": "~z~Dimitri, thank you for take care of that thing for me.",
+            "translated": "~z~Dimitri，谢谢你帮我解决了那件事。",
+            "desc": ""
+        },
+        {
+            "hash": 3626480545,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 3630545185,
+            "original": "~z~The decision has been made.",
+            "translated": "~z~他已经决定了。",
+            "desc": ""
+        },
+        {
+            "hash": 3646180936,
+            "original": "~z~prove you're loyal. Go, and kill the guy.",
+            "translated": "~z~证明你的忠诚。去，杀了那家伙。",
+            "desc": ""
+        },
+        {
+            "hash": 3653520982,
+            "original": "~z~Move up ladies. Move up.",
+            "translated": "~z~坐过来，女士们。坐过来。",
+            "desc": ""
+        },
+        {
+            "hash": 3670384197,
+            "original": "~z~Hey, Lenny.",
+            "translated": "~z~嘿，Lenny。",
+            "desc": ""
+        },
+        {
+            "hash": 3697857690,
+            "original": "~z~My father's Kenny Petrovic.",
+            "translated": "~z~我老爸是Kenny Petrovic。",
+            "desc": ""
+        },
+        {
+            "hash": 3889122369,
+            "original": "F3_AC",
+            "translated": "F3_AC",
+            "desc": ""
+        },
+        {
+            "hash": 3940267490,
+            "original": "F3_FB",
+            "translated": "F3_FB",
+            "desc": ""
+        },
+        {
+            "hash": 3958561204,
+            "original": "~z~Mikhail Faustin don't like you no more. It's nothing personal.",
+            "translated": "~z~Mikhail Faustin不再中意你了，不是什么私仇。",
+            "desc": ""
+        },
+        {
+            "hash": 3969217738,
+            "original": "~z~He lives on Guantanamo Avenue in Bohan.",
+            "translated": "~z~他住在Bohan的Guantanamo大道。",
+            "desc": ""
+        },
+        {
+            "hash": 3982089374,
+            "original": "~z~Go to the platform and get rid of that rat.",
+            "translated": "~z~去站台把那个叛徒除掉。",
+            "desc": ""
+        },
+        {
+            "hash": 4005253205,
+            "original": "120200",
+            "translated": "120200",
+            "desc": ""
+        },
+        {
+            "hash": 4007983461,
+            "original": "~z~You were in charge of security. Good job. Well done, Dimitri.",
+            "translated": "~z~安全方面是你负责的，干得好，真是好，Dimitri。",
+            "desc": ""
+        },
+        {
+            "hash": 4026730550,
+            "original": "~z~You're signing your death warrant, asshole.",
+            "translated": "~z~你这是在签自己的死刑执行书，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 4116340933,
+            "original": "~z~Hey, Lenny. Mr. Faustin thinks you're a rat. He ain't taking no risks.",
+            "translated": "~z~嘿，Lenny。Faustin先生认为是你泄的密，他不会接受这个风险。",
+            "desc": ""
+        },
+        {
+            "hash": 4133980315,
+            "original": "~z~Kenny Petrovic - don't that mean anything to you?",
+            "translated": "~z~Kenny Petrovic－这名儿总有点份量吧？",
+            "desc": ""
+        },
+        {
+            "hash": 4139255267,
+            "original": "~z~they've been authorized to tap our phones and they know about the pot we stole.",
+            "translated": "~z~他们已经获准窃听我们的电话，还挖到了我们偷大麻的事。",
+            "desc": ""
+        },
+        {
+            "hash": 4159704511,
+            "original": "~z~He's my cousin's boyfriend. It's not him. Yes, he's a moron, yes, but he's okay.",
+            "translated": "~z~他是我堂妹的男友，不会是他。对，他是个呆子，是的，但他人还行。",
+            "desc": ""
+        },
+        {
+            "hash": 4203476738,
+            "original": "~z~Shut up Dimitri, for the last time...",
+            "translated": "~z~闭嘴，Dimitri，最后再说一次...",
+            "desc": ""
+        },
+        {
+            "hash": 4203924483,
+            "original": "~z~You would still be in a fucking Gulag if it wasn't for me. You'd be drilling for oil in the tundra.",
+            "translated": "~z~要不是有我，你还会被困在狗屁古拉格，你还会在冻土带钻探石油。",
+            "desc": ""
+        },
+        {
+            "hash": 4219454948,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        }
+    ]
+}

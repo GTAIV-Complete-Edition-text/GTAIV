@@ -1,0 +1,2296 @@
+{
+    "R13AUD": [
+        {
+            "hash": 10285686,
+            "original": "~z~We have to find him.",
+            "translated": "~z~我们一定要找到他。",
+            "desc": ""
+        },
+        {
+            "hash": 16174779,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 16993931,
+            "original": "201",
+            "translated": "201",
+            "desc": ""
+        },
+        {
+            "hash": 22941539,
+            "original": "R13_A_ZE",
+            "translated": "R13_A_ZE",
+            "desc": ""
+        },
+        {
+            "hash": 26862143,
+            "original": "~z~I didn't have no scars until you arrived.",
+            "translated": "~z~你来之前我身上一道疤都没有。",
+            "desc": ""
+        },
+        {
+            "hash": 30702297,
+            "original": "~z~Hey, I hear you know Florian Cravic. Where is he?",
+            "translated": "~z~喂，听说你认识Florian Cravic。他在哪儿？",
+            "desc": ""
+        },
+        {
+            "hash": 31619745,
+            "original": "~z~Roman? You put on a few vanity pounds.",
+            "translated": "~z~Roman？你可长了不少肥膘啊。",
+            "desc": ""
+        },
+        {
+            "hash": 39801274,
+            "original": "R13_EB",
+            "translated": "R13_EB",
+            "desc": ""
+        },
+        {
+            "hash": 58965309,
+            "original": "~z~Start again like he did.",
+            "translated": "~z~Start again like he did.",
+            "desc": ""
+        },
+        {
+            "hash": 64915777,
+            "original": "~z~Hang a right.",
+            "translated": "~z~来个右转。",
+            "desc": ""
+        },
+        {
+            "hash": 104662602,
+            "original": "~z~I'll take you down just like I did at that last tournament.",
+            "translated": "~z~我会像上次对局那样击败你的。",
+            "desc": ""
+        },
+        {
+            "hash": 111543340,
+            "original": "~z~Florian? You used to work in the abattoir?",
+            "translated": "~z~Florian？以前在屠宰场的那个？",
+            "desc": ""
+        },
+        {
+            "hash": 118331733,
+            "original": "~z~You think we're stupid, Talbot? We have been here already.",
+            "translated": "~z~当我们傻的吗，Talbot？这里才刚来过。",
+            "desc": ""
+        },
+        {
+            "hash": 118482253,
+            "original": "~z~He wasn't the one I was looking for.",
+            "translated": "~z~他不是我要找的人。",
+            "desc": ""
+        },
+        {
+            "hash": 147179351,
+            "original": "~z~I'm pretty sure we're close now.",
+            "translated": "~z~I'm pretty sure we're close now.",
+            "desc": ""
+        },
+        {
+            "hash": 149508135,
+            "original": "~z~Speed up, NB, he's getting away.",
+            "translated": "~z~Speed up, NB, he's getting away.",
+            "desc": ""
+        },
+        {
+            "hash": 153783256,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 170887151,
+            "original": "~z~It's Bernie now. After I came here, I wanted a complete change. So I became Bernie Crane.",
+            "translated": "~z~现在是Bernie了。来这儿以后咱就想告别过去，所以咱成了Bernie Crane。",
+            "desc": ""
+        },
+        {
+            "hash": 198949333,
+            "original": "~z~Last thing I heard, you was itching to whack this guy? Must be some heavy shit.",
+            "translated": "~z~之前你不是还说很想干死这个人吗？那估计是个大岔子了。",
+            "desc": ""
+        },
+        {
+            "hash": 202897457,
+            "original": "200020",
+            "translated": "200020",
+            "desc": ""
+        },
+        {
+            "hash": 214523467,
+            "original": "~z~Ummm. I really don't recognize this. I can't help you from here I'm afraid.",
+            "translated": "~z~呃，这里我真不认识。在这儿我恐怕帮不了你了。",
+            "desc": ""
+        },
+        {
+            "hash": 228173955,
+            "original": "R13_RB",
+            "translated": "R13_RB",
+            "desc": ""
+        },
+        {
+            "hash": 247886328,
+            "original": "R13_A_YA",
+            "translated": "R13_A_YA",
+            "desc": ""
+        },
+        {
+            "hash": 249350686,
+            "original": "~z~Anything for you, cousin. Just name it. You want some women? I met this...",
+            "translated": "~z~赴汤蹈火在所不辞，堂弟。开口吧。你想找女人吗？我这儿有个...",
+            "desc": ""
+        },
+        {
+            "hash": 275039955,
+            "original": "100010100",
+            "translated": "100010100",
+            "desc": ""
+        },
+        {
+            "hash": 286791112,
+            "original": "~z~Well, I'm a lifestyle coach, and I teach an aerobics class...",
+            "translated": "~z~咱现在是个养生教练，上课教有氧运动的内容...",
+            "desc": ""
+        },
+        {
+            "hash": 293279654,
+            "original": "~z~Dead, I hope!",
+            "translated": "~z~死了，我希望！",
+            "desc": ""
+        },
+        {
+            "hash": 297359784,
+            "original": "~z~Florian has moved on from what happened to you, you should move on too.",
+            "translated": "~z~Florian has moved on from what happened to you, you should move on too.",
+            "desc": ""
+        },
+        {
+            "hash": 335455815,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 341114732,
+            "original": "R13_GB",
+            "translated": "R13_GB",
+            "desc": ""
+        },
+        {
+            "hash": 354011015,
+            "original": "R13_DF",
+            "translated": "R13_DF",
+            "desc": ""
+        },
+        {
+            "hash": 372662840,
+            "original": "~z~We're nearly there guys.",
+            "translated": "~z~We're nearly there guys.",
+            "desc": ""
+        },
+        {
+            "hash": 373036433,
+            "original": "R13_A_QA",
+            "translated": "R13_A_QA",
+            "desc": ""
+        },
+        {
+            "hash": 378565081,
+            "original": "~z~What you do, cousin? You should have followed his direction.",
+            "translated": "~z~你在干嘛，堂弟？你应该照他说的走的。",
+            "desc": ""
+        },
+        {
+            "hash": 388724028,
+            "original": "R13_FG",
+            "translated": "R13_FG",
+            "desc": ""
+        },
+        {
+            "hash": 400088469,
+            "original": "~z~Hey, slow down. I can't see the turns.",
+            "translated": "~z~喂，慢点。我看不见路口了。",
+            "desc": ""
+        },
+        {
+            "hash": 414085177,
+            "original": "~z~Get out of there, NB.",
+            "translated": "~z~Get out of there, NB.",
+            "desc": ""
+        },
+        {
+            "hash": 423273989,
+            "original": "~z~I'm sorry about the fat thing... you're still kind of cute.",
+            "translated": "~z~说你肥咱很抱歉...你还挺可爱的。",
+            "desc": ""
+        },
+        {
+            "hash": 423545751,
+            "original": "R13_MA",
+            "translated": "R13_MA",
+            "desc": ""
+        },
+        {
+            "hash": 427301780,
+            "original": "~z~Cousin, Talbot is dead. We needed him to take us to Florian.",
+            "translated": "~z~Cousin, Talbot is dead. We needed him to take us to Florian.",
+            "desc": ""
+        },
+        {
+            "hash": 427502038,
+            "original": "~z~Oh, I started working out... you know, toned up the, er...",
+            "translated": "~z~噢，咱开始健身了...你也知道，壮实了一下，呃...",
+            "desc": ""
+        },
+        {
+            "hash": 439392106,
+            "original": "010010100100",
+            "translated": "010010100100",
+            "desc": ""
+        },
+        {
+            "hash": 440104397,
+            "original": "R13_LA",
+            "translated": "R13_LA",
+            "desc": ""
+        },
+        {
+            "hash": 465611895,
+            "original": "~z~Take a left.",
+            "translated": "~z~往左走。",
+            "desc": ""
+        },
+        {
+            "hash": 475543478,
+            "original": "~z~What has Bernie gotten me into?",
+            "translated": "~z~What has Bernie gotten me into?",
+            "desc": ""
+        },
+        {
+            "hash": 497253035,
+            "original": "~z~I'm not having Talbot sit on my knee. Get a bigger car.",
+            "translated": "~z~I'm not having Talbot sit on my knee. Get a bigger car.",
+            "desc": ""
+        },
+        {
+            "hash": 518982059,
+            "original": "R13_A_SB",
+            "translated": "R13_A_SB",
+            "desc": ""
+        },
+        {
+            "hash": 523400346,
+            "original": "~z~I will find out where he is, and I will make him answer for his actions.",
+            "translated": "~z~I will find out where he is, and I will make him answer for his actions.",
+            "desc": ""
+        },
+        {
+            "hash": 526485760,
+            "original": "~z~Fuck calm. Florian!",
+            "translated": "~z~冷静你妈。Florian！",
+            "desc": ""
+        },
+        {
+            "hash": 534393972,
+            "original": "~z~I... I... I heard he was still in Europe, or Switzerland, or somewhere...",
+            "translated": "~z~咱...咱...咱听说他还在欧洲，瑞士，或者哪里...",
+            "desc": ""
+        },
+        {
+            "hash": 538093451,
+            "original": "121",
+            "translated": "121",
+            "desc": ""
+        },
+        {
+            "hash": 544701897,
+            "original": "R13_A_EA",
+            "translated": "R13_A_EA",
+            "desc": ""
+        },
+        {
+            "hash": 568920697,
+            "original": "~z~Shit, NB, I haven't got time to sit here while you fuck about.",
+            "translated": "~z~Shit, NB, I haven't got time to sit here while you fuck about.",
+            "desc": ""
+        },
+        {
+            "hash": 585085367,
+            "original": "R13_B_AA",
+            "translated": "R13_B_AA",
+            "desc": ""
+        },
+        {
+            "hash": 631644686,
+            "original": "R13_KA",
+            "translated": "R13_KA",
+            "desc": ""
+        },
+        {
+            "hash": 647820051,
+            "original": "R13_A_QD",
+            "translated": "R13_A_QD",
+            "desc": ""
+        },
+        {
+            "hash": 647965507,
+            "original": "~z~We were so close, cousin, so close. I will see you soon.",
+            "translated": "~z~我们差点就找到了，堂兄，就差一点。回头见。",
+            "desc": ""
+        },
+        {
+            "hash": 651527254,
+            "original": "~z~We know now that it was him. I need to be alone now, Roman.",
+            "translated": "~z~现在我们知道是他干的了。我要一个人静静，Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 656846407,
+            "original": "~z~I worry for you, NB. Sometimes you just got to let the hate go.",
+            "translated": "~z~我很替你担心，NB。有时候还是得放下往日仇恨。",
+            "desc": ""
+        },
+        {
+            "hash": 661636029,
+            "original": "~z~Left, alright?",
+            "translated": "~z~左转，行吧？",
+            "desc": ""
+        },
+        {
+            "hash": 664142124,
+            "original": "~z~Get back here, Cousin.",
+            "translated": "~z~Get back here, Cousin.",
+            "desc": ""
+        },
+        {
+            "hash": 675403422,
+            "original": "R13_A_ZA",
+            "translated": "R13_A_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 705942317,
+            "original": "~z~Where am I going?",
+            "translated": "~z~Where am I going?",
+            "desc": ""
+        },
+        {
+            "hash": 707375036,
+            "original": "~z~Oh yeah, I should probably say, you ain't gonna get those ten Gs from Talbot.",
+            "translated": "~z~哦对了，有件事我得说，那一万你没法从Talbot手里拿回来了。",
+            "desc": ""
+        },
+        {
+            "hash": 718080975,
+            "original": "~z~Relax? This is not possible, Roman.",
+            "translated": "~z~Relax? This is not possible, Roman.",
+            "desc": ""
+        },
+        {
+            "hash": 739725154,
+            "original": "~z~Roman, what's this about?",
+            "translated": "~z~Roman，这是怎么回事？",
+            "desc": ""
+        },
+        {
+            "hash": 740237403,
+            "original": "~z~Ahh, Roman's dead. I am not going to fill out a police report.",
+            "translated": "~z~啊，Roman死了，我可不想去填警方报告。",
+            "desc": ""
+        },
+        {
+            "hash": 742016112,
+            "original": "~z~Sure, I'll see you later then. Call me, okay?",
+            "translated": "~z~好的，我们之后见。有空联系，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 746718951,
+            "original": "~z~Ease up a little, big fella. I can't see when you're going that fast.",
+            "translated": "~z~慢一点，大哥。你开那么快我不认路。",
+            "desc": ""
+        },
+        {
+            "hash": 749667252,
+            "original": "~z~Alright, fine.",
+            "translated": "~z~Alright, fine.",
+            "desc": ""
+        },
+        {
+            "hash": 756267314,
+            "original": "~z~You are a rich chopping board.",
+            "translated": "~z~那也是块有钱的砧板。",
+            "desc": ""
+        },
+        {
+            "hash": 765543881,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 781559656,
+            "original": "~z~I've come for you, Florian.",
+            "translated": "~z~我来找你了，Florian。",
+            "desc": ""
+        },
+        {
+            "hash": 823940910,
+            "original": "~z~Left on this one.",
+            "translated": "~z~这回左转。",
+            "desc": ""
+        },
+        {
+            "hash": 846393334,
+            "original": "R13_QA",
+            "translated": "R13_QA",
+            "desc": ""
+        },
+        {
+            "hash": 857211598,
+            "original": "R13_A_FA",
+            "translated": "R13_A_FA",
+            "desc": ""
+        },
+        {
+            "hash": 859543738,
+            "original": "~z~Talbot, I know him. I came up against him in a few tournaments. Small world.",
+            "translated": "~z~Talbot，我认识。打牌的时候对上过几次。世界真小。",
+            "desc": ""
+        },
+        {
+            "hash": 862340305,
+            "original": "~z~Niko, that was unfortunate. There will be some other way to find Florian.",
+            "translated": "~z~Niko，太不幸了。总会有其它能找Florian的法子的。",
+            "desc": ""
+        },
+        {
+            "hash": 870899747,
+            "original": "~z~There you are!",
+            "translated": "~z~你来啦！",
+            "desc": ""
+        },
+        {
+            "hash": 871816349,
+            "original": "~z~Oh, that's just politics.",
+            "translated": "~z~噢，那就是政治嘛。",
+            "desc": ""
+        },
+        {
+            "hash": 872182390,
+            "original": "~z~This is too bad, cousin. Maybe we find Florian another day.",
+            "translated": "~z~这太糟了，堂弟。也许我们还是改天再找Florian吧。",
+            "desc": ""
+        },
+        {
+            "hash": 887381336,
+            "original": "~z~What are you doing here?",
+            "translated": "~z~你在这里做什么？",
+            "desc": ""
+        },
+        {
+            "hash": 890249419,
+            "original": "~z~Sure, I'll see you later then. Call me, okay?",
+            "translated": "~z~好的，我们之后见。有空打给我，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 890427197,
+            "original": "R13_B_AB",
+            "translated": "R13_B_AB",
+            "desc": ""
+        },
+        {
+            "hash": 891465134,
+            "original": "R13_FD",
+            "translated": "R13_FD",
+            "desc": ""
+        },
+        {
+            "hash": 899059443,
+            "original": "R13_SA",
+            "translated": "R13_SA",
+            "desc": ""
+        },
+        {
+            "hash": 907150649,
+            "original": "R13_AB",
+            "translated": "R13_AB",
+            "desc": ""
+        },
+        {
+            "hash": 917333134,
+            "original": "~z~He doesn't act well under pressure, NB. Beat him a little.",
+            "translated": "~z~一有压力他就演不下去了，NB。稍微揍一顿。",
+            "desc": ""
+        },
+        {
+            "hash": 922492110,
+            "original": "R13_SC",
+            "translated": "R13_SC",
+            "desc": ""
+        },
+        {
+            "hash": 940516947,
+            "original": "~z~So, it was Darko Brevic who betrayed you. Now you know. You should relax.",
+            "translated": "~z~So, it was Darko Brevic who betrayed you. Now you know. You should relax.",
+            "desc": ""
+        },
+        {
+            "hash": 954367230,
+            "original": "~z~Don't fuck around, Talbot. I have seen this block before.",
+            "translated": "~z~别想搞事，Talbot。这里刚才来过。",
+            "desc": ""
+        },
+        {
+            "hash": 954978530,
+            "original": "~z~What do you mean?",
+            "translated": "~z~你什么意思？",
+            "desc": ""
+        },
+        {
+            "hash": 957507844,
+            "original": "~z~It wasn't you, was it.",
+            "translated": "~z~不是你干的，对吧。",
+            "desc": ""
+        },
+        {
+            "hash": 960052298,
+            "original": "~z~Of course, Niko.",
+            "translated": "~z~当然了，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 963524860,
+            "original": "~z~I will be calm when we find Florian. See you, cousin.",
+            "translated": "~z~I will be calm when we find Florian. See you, cousin.",
+            "desc": ""
+        },
+        {
+            "hash": 985588741,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1020198025,
+            "original": "~z~Turn right.",
+            "translated": "~z~右拐。",
+            "desc": ""
+        },
+        {
+            "hash": 1048048101,
+            "original": "~z~Turn left here.",
+            "translated": "~z~这里左拐。",
+            "desc": ""
+        },
+        {
+            "hash": 1057112003,
+            "original": "R13_ZA",
+            "translated": "R13_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 1059648257,
+            "original": "~z~Bryce Dawkins? But he's so into family values!",
+            "translated": "~z~Bryce Dawkins？那他还整天讲家庭观念！",
+            "desc": ""
+        },
+        {
+            "hash": 1064931968,
+            "original": "R13_AA",
+            "translated": "R13_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1065818379,
+            "original": "~z~Alright already. There's a guy I know, likes to be called Florian Cravic at... um... certain moments.",
+            "translated": "~z~够了够了。我是认识个人，好像是叫Florian Cravic...呃...偶尔会这么叫他。",
+            "desc": ""
+        },
+        {
+            "hash": 1068622627,
+            "original": "R13_B_AI",
+            "translated": "R13_B_AI",
+            "desc": ""
+        },
+        {
+            "hash": 1089169314,
+            "original": "R13_A_AA",
+            "translated": "R13_A_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1090427799,
+            "original": "R13_ID",
+            "translated": "R13_ID",
+            "desc": ""
+        },
+        {
+            "hash": 1091612297,
+            "original": "~z~Hey, Roman. Can you do me a favor?",
+            "translated": "~z~喂，Roman。你能帮我个忙吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1092353972,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1100736066,
+            "original": "R13_NA",
+            "translated": "R13_NA",
+            "desc": ""
+        },
+        {
+            "hash": 1118668899,
+            "original": "R13_A_DA",
+            "translated": "R13_A_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1170685393,
+            "original": "~z~We're looking for a guy named Talbot Daniels. Hangs out in the Triangle.",
+            "translated": "~z~我们要找的是一个叫Talbot Daniels的人。经常在Triangle出没。",
+            "desc": ""
+        },
+        {
+            "hash": 1174522709,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1175212600,
+            "original": "~z~Niko, be calm. We will find Florian soon.",
+            "translated": "~z~Niko, be calm. We will find Florian soon.",
+            "desc": ""
+        },
+        {
+            "hash": 1179424200,
+            "original": "R13_HB",
+            "translated": "R13_HB",
+            "desc": ""
+        },
+        {
+            "hash": 1179501264,
+            "original": "~z~Now that I know it was Darko, he is all I will be able to think about.",
+            "translated": "~z~Now that I know it was Darko, he is all I will be able to think about.",
+            "desc": ""
+        },
+        {
+            "hash": 1181114229,
+            "original": "~z~Head on straight.",
+            "translated": "~z~接着直行。",
+            "desc": ""
+        },
+        {
+            "hash": 1184106072,
+            "original": "R13_BC",
+            "translated": "R13_BC",
+            "desc": ""
+        },
+        {
+            "hash": 1193750351,
+            "original": "100100010",
+            "translated": "100100010",
+            "desc": ""
+        },
+        {
+            "hash": 1200347375,
+            "original": "~z~Come up with me Roman. I cannot do this alone.",
+            "translated": "~z~和我一起上来，Roman。这我不能一个人去。",
+            "desc": ""
+        },
+        {
+            "hash": 1206174220,
+            "original": "~z~It appears so.",
+            "translated": "~z~就是这样。",
+            "desc": ""
+        },
+        {
+            "hash": 1244387596,
+            "original": "R13_FA",
+            "translated": "R13_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1247206216,
+            "original": "~z~Follow his direction or we will never get there, cousin.",
+            "translated": "~z~Follow his direction or we will never get there, cousin.",
+            "desc": ""
+        },
+        {
+            "hash": 1263689971,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1287232246,
+            "original": "~z~Take this right.",
+            "translated": "~z~这边右转。",
+            "desc": ""
+        },
+        {
+            "hash": 1304823219,
+            "original": "R13_A_TC",
+            "translated": "R13_A_TC",
+            "desc": ""
+        },
+        {
+            "hash": 1309672227,
+            "original": "R13_B_AH",
+            "translated": "R13_B_AH",
+            "desc": ""
+        },
+        {
+            "hash": 1311684652,
+            "original": "201",
+            "translated": "201",
+            "desc": ""
+        },
+        {
+            "hash": 1325337452,
+            "original": "~z~Ummm, I might be lost but keep going and I'll see if I can get there.",
+            "translated": "~z~Ummm, I might be lost but keep going and I'll see if I can get there.",
+            "desc": ""
+        },
+        {
+            "hash": 1328594332,
+            "original": "101011101011011011101",
+            "translated": "101011101011011011101",
+            "desc": ""
+        },
+        {
+            "hash": 1339483720,
+            "original": "~z~We aren't going to find this place if you keep messing around.",
+            "translated": "~z~We aren't going to find this place if you keep messing around.",
+            "desc": ""
+        },
+        {
+            "hash": 1354470662,
+            "original": "~z~It wasn't me. It wasn't!",
+            "translated": "~z~不是咱干的，不是咱！",
+            "desc": ""
+        },
+        {
+            "hash": 1354910535,
+            "original": "R13_DB",
+            "translated": "R13_DB",
+            "desc": ""
+        },
+        {
+            "hash": 1358745564,
+            "original": "~z~Okay, I cannot work at this speed. No siree.",
+            "translated": "~z~我说，开太快我认不出路。完全不行。",
+            "desc": ""
+        },
+        {
+            "hash": 1359703123,
+            "original": "~z~~c~Florian! I'm here for you, asshole. Open the door!~s~",
+            "translated": "~z~~c~Florian！我来找你了，混蛋。把门打开！~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1362508961,
+            "original": "R13_AC",
+            "translated": "R13_AC",
+            "desc": ""
+        },
+        {
+            "hash": 1368433605,
+            "original": "R13_UB",
+            "translated": "R13_UB",
+            "desc": ""
+        },
+        {
+            "hash": 1368837507,
+            "original": "~z~Fucking bacon.",
+            "translated": "~z~狗逼警察。",
+            "desc": ""
+        },
+        {
+            "hash": 1371778454,
+            "original": "R13_HA",
+            "translated": "R13_HA",
+            "desc": ""
+        },
+        {
+            "hash": 1426379747,
+            "original": "R13_CA",
+            "translated": "R13_CA",
+            "desc": ""
+        },
+        {
+            "hash": 1442442456,
+            "original": "~z~Florian?",
+            "translated": "~z~Florian？",
+            "desc": ""
+        },
+        {
+            "hash": 1444847852,
+            "original": "~z~And he's in politics... he's the deputy mayor.",
+            "translated": "~z~而且他还从政...他就是副市长。",
+            "desc": ""
+        },
+        {
+            "hash": 1453520669,
+            "original": "~z~Get out of here. I don't want to see you at any more tournaments either.",
+            "translated": "~z~Get out of here. I don't want to see you at any more tournaments either.",
+            "desc": ""
+        },
+        {
+            "hash": 1454509166,
+            "original": "~z~You know, if this fucks up, the bad shit's coming down on my head.",
+            "translated": "~z~你要知道，要是这次搞砸了，又得轮到我遭罪。",
+            "desc": ""
+        },
+        {
+            "hash": 1454842413,
+            "original": "~z~but then I heard that you had joined the circus so information can be unreliable.",
+            "translated": "~z~不过咱也听说过你加入了马戏团，所以消息不一定靠谱。",
+            "desc": ""
+        },
+        {
+            "hash": 1492947511,
+            "original": "R13_NB",
+            "translated": "R13_NB",
+            "desc": ""
+        },
+        {
+            "hash": 1535221770,
+            "original": "R13_A_TB",
+            "translated": "R13_A_TB",
+            "desc": ""
+        },
+        {
+            "hash": 1538708007,
+            "original": "R13_IE",
+            "translated": "R13_IE",
+            "desc": ""
+        },
+        {
+            "hash": 1551398035,
+            "original": "R13_A_PA",
+            "translated": "R13_A_PA",
+            "desc": ""
+        },
+        {
+            "hash": 1551577797,
+            "original": "~z~Stay right there, Talbot. Don't think you can push me around.",
+            "translated": "~z~乖乖站好，Talbot。别想着你能从我这儿逃了。",
+            "desc": ""
+        },
+        {
+            "hash": 1578562983,
+            "original": "R13_JA",
+            "translated": "R13_JA",
+            "desc": ""
+        },
+        {
+            "hash": 1584676459,
+            "original": "~z~Turn right.",
+            "translated": "~z~右转。",
+            "desc": ""
+        },
+        {
+            "hash": 1588735217,
+            "original": "~z~Niko, you didn't need to kill him. He brought us here.",
+            "translated": "~z~Niko，没必要杀了他的。他都把路带到了。",
+            "desc": ""
+        },
+        {
+            "hash": 1590127473,
+            "original": "~z~Easy there, man. You need to go slow if I'm gonna be able to get you there.",
+            "translated": "~z~开慢点，老兄。你不开慢我没法带你到地方。",
+            "desc": ""
+        },
+        {
+            "hash": 1603252910,
+            "original": "~z~Ha ha. Gee, thanks.",
+            "translated": "~z~哈哈，天，谢了。",
+            "desc": ""
+        },
+        {
+            "hash": 1615785615,
+            "original": "R13_SB",
+            "translated": "R13_SB",
+            "desc": ""
+        },
+        {
+            "hash": 1640437306,
+            "original": "~z~Stay on this street.",
+            "translated": "~z~顺着这条路开。",
+            "desc": ""
+        },
+        {
+            "hash": 1642176307,
+            "original": "~z~He had an accident.",
+            "translated": "~z~他出了点事故。",
+            "desc": ""
+        },
+        {
+            "hash": 1656516558,
+            "original": "~z~Get in the car. You're showing us where Florian lives.",
+            "translated": "~z~Get in the car. You're showing us where Florian lives.",
+            "desc": ""
+        },
+        {
+            "hash": 1670613003,
+            "original": "~z~He's into me for about ten Gs, he says he might know something about Florian Cravic.",
+            "translated": "~z~他找到我开口就要了一万，他说他可能知道Florian Cravic的下落。",
+            "desc": ""
+        },
+        {
+            "hash": 1682641618,
+            "original": "~z~What happened to you?",
+            "translated": "~z~你是怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 1690383953,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1703204418,
+            "original": "~z~What are you doing, Talbot? You take us around in circles?",
+            "translated": "~z~你在干嘛，Talbot？带我们转圈圈呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1751297999,
+            "original": "~z~You kill the wrong guy and his friends will fuck with me to get to you.",
+            "translated": "~z~你一杀错人，他的朋友就会来找我麻烦，好找到你。",
+            "desc": ""
+        },
+        {
+            "hash": 1785119291,
+            "original": "~z~Can't say I'm entirely sure about this, head on though.",
+            "translated": "~z~Can't say I'm entirely sure about this, head on though.",
+            "desc": ""
+        },
+        {
+            "hash": 1791674948,
+            "original": "~z~Where is Darko?",
+            "translated": "~z~Darko人在哪儿？",
+            "desc": ""
+        },
+        {
+            "hash": 1824164795,
+            "original": "~z~I think I may have found the man I've been looking for.",
+            "translated": "~z~我可能找到我在找的那个人了。",
+            "desc": ""
+        },
+        {
+            "hash": 1834277932,
+            "original": "~z~Go right.",
+            "translated": "~z~右转。",
+            "desc": ""
+        },
+        {
+            "hash": 1844332040,
+            "original": "R13_A_QB",
+            "translated": "R13_A_QB",
+            "desc": ""
+        },
+        {
+            "hash": 1849184255,
+            "original": "~z~Can we stop with the fat jokes, Florian?",
+            "translated": "~z~我们能不开关于肥的玩笑了吗，Florian？",
+            "desc": ""
+        },
+        {
+            "hash": 1871784286,
+            "original": "~z~Niko? What the hell are you doing here?",
+            "translated": "~z~Niko？你这厮来这儿做什么？",
+            "desc": ""
+        },
+        {
+            "hash": 1877546624,
+            "original": "~z~Yes.",
+            "translated": "~z~对。",
+            "desc": ""
+        },
+        {
+            "hash": 1879814851,
+            "original": "~z~Keep going up here.",
+            "translated": "~z~接着直走。",
+            "desc": ""
+        },
+        {
+            "hash": 1893532450,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 1913875426,
+            "original": "R13_QB",
+            "translated": "R13_QB",
+            "desc": ""
+        },
+        {
+            "hash": 1922833154,
+            "original": "~z~We're pretty near now.",
+            "translated": "~z~我们现在很近了。",
+            "desc": ""
+        },
+        {
+            "hash": 1962762457,
+            "original": "~z~Oh don't remind me...",
+            "translated": "~z~噢，别跟咱提那儿...",
+            "desc": ""
+        },
+        {
+            "hash": 1982810984,
+            "original": "~z~I mean, you fuck up and I take the shit.",
+            "translated": "~z~意思是，你搞砸了我挨打。",
+            "desc": ""
+        },
+        {
+            "hash": 1988394955,
+            "original": "~z~We must go slowly to find this place, NB.",
+            "translated": "~z~我们得开慢点才能找到地方，NB。",
+            "desc": ""
+        },
+        {
+            "hash": 1991503111,
+            "original": "R13_UA",
+            "translated": "R13_UA",
+            "desc": ""
+        },
+        {
+            "hash": 2013354650,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 2025905240,
+            "original": "R13_B_AD",
+            "translated": "R13_B_AD",
+            "desc": ""
+        },
+        {
+            "hash": 2029232710,
+            "original": "R13_PA",
+            "translated": "R13_PA",
+            "desc": ""
+        },
+        {
+            "hash": 2029448124,
+            "original": "~z~Don't think you're going anywhere, Talbot. I'm going to go easy on you for now. But if you push me, you're in big trouble.",
+            "translated": "~z~你哪儿都别想去，Talbot。我现在先对你客气点，不过你要是逼我，那你麻烦就大了。",
+            "desc": ""
+        },
+        {
+            "hash": 2048649462,
+            "original": "~z~I'm not sure.",
+            "translated": "~z~咱也不确定。",
+            "desc": ""
+        },
+        {
+            "hash": 2055498167,
+            "original": "~z~And I'm in love!",
+            "translated": "~z~而且咱恋爱了！",
+            "desc": ""
+        },
+        {
+            "hash": 2061956944,
+            "original": "~z~Right!",
+            "translated": "~z~右边！",
+            "desc": ""
+        },
+        {
+            "hash": 2063853974,
+            "original": "~z~Well screw you, Niko Bellic and fatty Roman!",
+            "translated": "~z~我可去你妈的，Niko Bellic和肥佬Roman！",
+            "desc": ""
+        },
+        {
+            "hash": 2069348591,
+            "original": "~z~Florian!",
+            "translated": "~z~Florian！",
+            "desc": ""
+        },
+        {
+            "hash": 2072594878,
+            "original": "~z~Straight ahead.",
+            "translated": "~z~直行。",
+            "desc": ""
+        },
+        {
+            "hash": 2083512854,
+            "original": "R13_B_AC",
+            "translated": "R13_B_AC",
+            "desc": ""
+        },
+        {
+            "hash": 2097891070,
+            "original": "R13_A_SC",
+            "translated": "R13_A_SC",
+            "desc": ""
+        },
+        {
+            "hash": 2108304794,
+            "original": "~z~Ray Boccino, the cockroach mobster, he knows a man who might know Florian Cravic.",
+            "translated": "~z~Ray Boccino，那个狡诈的黑社会，他知道一个可能认识Florian Cravic的人。",
+            "desc": ""
+        },
+        {
+            "hash": 2111785537,
+            "original": "R13_WA",
+            "translated": "R13_WA",
+            "desc": ""
+        },
+        {
+            "hash": 2120631154,
+            "original": "~z~Stop fucking about and get to this place, cousin.",
+            "translated": "~z~别磨叽了，赶紧过去，堂弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2134357277,
+            "original": "~z~He's moved on from what happened to you, you should've moved on too. What are you going to do?",
+            "translated": "~z~他已经走出那件事了，你也该往前走。现在你什么打算？",
+            "desc": ""
+        },
+        {
+            "hash": 2135813129,
+            "original": "~z~I think I can get us there if we keep going.",
+            "translated": "~z~接着开的话应该能到那边。",
+            "desc": ""
+        },
+        {
+            "hash": 2152218996,
+            "original": "~z~Your days of searching are over, my friend. This guy should point you in the right direction.",
+            "translated": "~z~你找人的日子结束了，我的朋友。这个人应该能给你带路。",
+            "desc": ""
+        },
+        {
+            "hash": 2160801632,
+            "original": "~z~I think we're close.",
+            "translated": "~z~应该快到了。",
+            "desc": ""
+        },
+        {
+            "hash": 2172072156,
+            "original": "~z~This is impossible when you're going this fast. I can't see any of the turnoffs.",
+            "translated": "~z~你开这么快就找不着了，我连路口都看不见。",
+            "desc": ""
+        },
+        {
+            "hash": 2173434052,
+            "original": "100020200",
+            "translated": "100020200",
+            "desc": ""
+        },
+        {
+            "hash": 2173648215,
+            "original": "~z~Of course they would have. Look at your gambling career. What was I thinking?",
+            "translated": "~z~当然是早晚会了。看看你的赌博事业吧，我在想什么呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2174165961,
+            "original": "R13_VA",
+            "translated": "R13_VA",
+            "desc": ""
+        },
+        {
+            "hash": 2178360117,
+            "original": "010100010",
+            "translated": "010100010",
+            "desc": ""
+        },
+        {
+            "hash": 2186511214,
+            "original": "R13_BB",
+            "translated": "R13_BB",
+            "desc": ""
+        },
+        {
+            "hash": 2195922171,
+            "original": "~z~Come on, NB. You think I keep this figure by walking? Go get us a car.",
+            "translated": "~z~拜托，NB。我要是肯走路还会是这副样子吗？去弄辆车来。",
+            "desc": ""
+        },
+        {
+            "hash": 2201296942,
+            "original": "~z~Show me.",
+            "translated": "~z~带路。",
+            "desc": ""
+        },
+        {
+            "hash": 2207189152,
+            "original": "~z~Alright man, turn right.",
+            "translated": "~z~好了老兄，右转。",
+            "desc": ""
+        },
+        {
+            "hash": 2250524554,
+            "original": "R13_DA",
+            "translated": "R13_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2275460794,
+            "original": "~z~Not too good either. I don't think I've seen him win a hand.",
+            "translated": "~z~牌技也不好。我好像就没见他赢过一次。",
+            "desc": ""
+        },
+        {
+            "hash": 2284238138,
+            "original": "101102",
+            "translated": "101102",
+            "desc": ""
+        },
+        {
+            "hash": 2295782377,
+            "original": "~z~~c~Florian? Is that you?~s~",
+            "translated": "~z~~c~Florian？是你吗？~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2339852600,
+            "original": "R13_A_PB",
+            "translated": "R13_A_PB",
+            "desc": ""
+        },
+        {
+            "hash": 2364577471,
+            "original": "~z~Shit. Motherfucking shit.",
+            "translated": "~z~Shit. Motherfucking shit.",
+            "desc": ""
+        },
+        {
+            "hash": 2387283420,
+            "original": "~z~Bernie!",
+            "translated": "~z~Bernie！",
+            "desc": ""
+        },
+        {
+            "hash": 2393033527,
+            "original": "R13_A_CA",
+            "translated": "R13_A_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2413067032,
+            "original": "~z~Shit Nicky, I was counting on that vig.",
+            "translated": "~z~我操，Nicky，我还指望收他利息呢。",
+            "desc": ""
+        },
+        {
+            "hash": 2419141567,
+            "original": "R13_A_ZD",
+            "translated": "R13_A_ZD",
+            "desc": ""
+        },
+        {
+            "hash": 2425393329,
+            "original": "~z~I needed to warm up. Let's go.",
+            "translated": "~z~我需要先热个身。走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2443417635,
+            "original": "~z~Left, okay?",
+            "translated": "~z~左转，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2449369508,
+            "original": "R13_FB",
+            "translated": "R13_FB",
+            "desc": ""
+        },
+        {
+            "hash": 2465426572,
+            "original": "~z~Come on, NB. We won't ever find Florian unless you follow these directions.",
+            "translated": "~z~Come on, NB. We won't ever find Florian unless you follow these directions.",
+            "desc": ""
+        },
+        {
+            "hash": 2487803711,
+            "original": "~z~He may not be here in Liberty City, but he's still out there.",
+            "translated": "~z~他可能不在自由城，但他一定还活着。",
+            "desc": ""
+        },
+        {
+            "hash": 2492170298,
+            "original": "~z~Too bad, chief. I did what I could.",
+            "translated": "~z~太糟了，大哥。我已经尽力了。",
+            "desc": ""
+        },
+        {
+            "hash": 2494111792,
+            "original": "~z~Oh, my God!",
+            "translated": "~z~噢，咱的天哪！",
+            "desc": ""
+        },
+        {
+            "hash": 2505944125,
+            "original": "~z~Right at this one.",
+            "translated": "~z~这边右转。",
+            "desc": ""
+        },
+        {
+            "hash": 2515531291,
+            "original": "~z~Ah! Go away!",
+            "translated": "~z~啊！你们走！",
+            "desc": ""
+        },
+        {
+            "hash": 2517801362,
+            "original": "~z~Okay, I don't recognize this but keep going.",
+            "translated": "~z~Okay, I don't recognize this but keep going.",
+            "desc": ""
+        },
+        {
+            "hash": 2525980934,
+            "original": "201",
+            "translated": "201",
+            "desc": ""
+        },
+        {
+            "hash": 2528666311,
+            "original": "R13_B_AJ",
+            "translated": "R13_B_AJ",
+            "desc": ""
+        },
+        {
+            "hash": 2532271447,
+            "original": "~z~There he is. Let's go talk to him. He's always at the games being held around Algonquin.",
+            "translated": "~z~那个就是。我们去跟他谈谈。他经常来Algonquin的赌局。",
+            "desc": ""
+        },
+        {
+            "hash": 2533203769,
+            "original": "~z~I think he's a bit freaked out. I guess he thought seeing you would answer some questions.",
+            "translated": "~z~我觉得他有点过于激动了，可能本来他觉得能从你这里问出更多的。",
+            "desc": ""
+        },
+        {
+            "hash": 2533650503,
+            "original": "100010100100010100",
+            "translated": "100010100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 2544450848,
+            "original": "R13_A_BA",
+            "translated": "R13_A_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2549326713,
+            "original": "~z~I wouldn't do that!",
+            "translated": "~z~我做不出来的！",
+            "desc": ""
+        },
+        {
+            "hash": 2567152453,
+            "original": "~z~We have to find him.",
+            "translated": "~z~一定要找到他。",
+            "desc": ""
+        },
+        {
+            "hash": 2571573402,
+            "original": "R13_A_HD",
+            "translated": "R13_A_HD",
+            "desc": ""
+        },
+        {
+            "hash": 2576433011,
+            "original": "R13_YA",
+            "translated": "R13_YA",
+            "desc": ""
+        },
+        {
+            "hash": 2585674185,
+            "original": "R13_A_ZB",
+            "translated": "R13_A_ZB",
+            "desc": ""
+        },
+        {
+            "hash": 2593614041,
+            "original": "R13_PB",
+            "translated": "R13_PB",
+            "desc": ""
+        },
+        {
+            "hash": 2597806329,
+            "original": "201",
+            "translated": "201",
+            "desc": ""
+        },
+        {
+            "hash": 2616379348,
+            "original": "R13_A_GA",
+            "translated": "R13_A_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2620617351,
+            "original": "~z~I'd be rich even if you weren't here. I'm an entrepreneur. Things would have taken off for me.",
+            "translated": "~z~就算你不来我也会很富。我是个企业家，早晚都会腾飞的。",
+            "desc": ""
+        },
+        {
+            "hash": 2622945296,
+            "original": "~z~How're we going to kidnap someone with that car? Get something bigger.",
+            "translated": "~z~How're we going to kidnap someone with that car? Get something bigger.",
+            "desc": ""
+        },
+        {
+            "hash": 2629347038,
+            "original": "~z~Alright, this isn't the normal route I take but keep going.",
+            "translated": "~z~Alright, this isn't the normal route I take but keep going.",
+            "desc": ""
+        },
+        {
+            "hash": 2636287216,
+            "original": "~z~Don't turn here.",
+            "translated": "~z~不要转弯。",
+            "desc": ""
+        },
+        {
+            "hash": 2639769406,
+            "original": "R13_OA",
+            "translated": "R13_OA",
+            "desc": ""
+        },
+        {
+            "hash": 2644032090,
+            "original": "R13_A_VB",
+            "translated": "R13_A_VB",
+            "desc": ""
+        },
+        {
+            "hash": 2650458223,
+            "original": "R13_RA",
+            "translated": "R13_RA",
+            "desc": ""
+        },
+        {
+            "hash": 2666888910,
+            "original": "~z~Hey Nicky. You've been a decent earner for me and I appreciate that. I'm throwing you a bone.",
+            "translated": "~z~喂Nicky。之前的活你都做得很棒，我很感谢。赏你一根骨头。",
+            "desc": ""
+        },
+        {
+            "hash": 2678206571,
+            "original": "R13_OB",
+            "translated": "R13_OB",
+            "desc": ""
+        },
+        {
+            "hash": 2687780644,
+            "original": "R13_A_WA",
+            "translated": "R13_A_WA",
+            "desc": ""
+        },
+        {
+            "hash": 2687847334,
+            "original": "~z~Don't be stupid, man. I know you are just taking us about in circles.",
+            "translated": "~z~别犯蠢，老兄。我知道你在带我们转圈圈。",
+            "desc": ""
+        },
+        {
+            "hash": 2688336379,
+            "original": "~z~Gotta go right, here.",
+            "translated": "~z~这里得右转。",
+            "desc": ""
+        },
+        {
+            "hash": 2688660831,
+            "original": "~z~It's left now.",
+            "translated": "~z~现在左转。",
+            "desc": ""
+        },
+        {
+            "hash": 2689149510,
+            "original": "R13_A_HA",
+            "translated": "R13_A_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2702534865,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 2714401346,
+            "original": "~z~I will find out where Darko Brevic is, and I will make him answer for his actions.",
+            "translated": "~z~我会找出Darko Brevic的所在，让他为自己的行为付出代价。",
+            "desc": ""
+        },
+        {
+            "hash": 2718767131,
+            "original": "100010100",
+            "translated": "100010100",
+            "desc": ""
+        },
+        {
+            "hash": 2723084003,
+            "original": "~z~Here, in Liberty City?",
+            "translated": "~z~在这儿，自由城里？",
+            "desc": ""
+        },
+        {
+            "hash": 2723272673,
+            "original": "~z~Chill, cousin. If you go so fast we aren't going to find it.",
+            "translated": "~z~Chill, cousin. If you go so fast we aren't going to find it.",
+            "desc": ""
+        },
+        {
+            "hash": 2737857425,
+            "original": "R13_IC",
+            "translated": "R13_IC",
+            "desc": ""
+        },
+        {
+            "hash": 2761087790,
+            "original": "R13_A_FB",
+            "translated": "R13_A_FB",
+            "desc": ""
+        },
+        {
+            "hash": 2783394501,
+            "original": "R13_FF",
+            "translated": "R13_FF",
+            "desc": ""
+        },
+        {
+            "hash": 2787369437,
+            "original": "~z~Aaah! Are you crazy? This street's one way!",
+            "translated": "~z~啊！你疯了吗？这条路是单行线！",
+            "desc": ""
+        },
+        {
+            "hash": 2788507974,
+            "original": "~z~Go left here.",
+            "translated": "~z~这里左转。",
+            "desc": ""
+        },
+        {
+            "hash": 2794073360,
+            "original": "~z~You really going to feel better once Florian is dead?",
+            "translated": "~z~Florian死了你真的会感觉更好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2797257811,
+            "original": "~z~Who set us up. It was you or Darko. I thought it must be him.",
+            "translated": "~z~背叛我们的人，不是你就是Darko了。我想一定是他。",
+            "desc": ""
+        },
+        {
+            "hash": 2806260856,
+            "original": "R13_GC",
+            "translated": "R13_GC",
+            "desc": ""
+        },
+        {
+            "hash": 2817953455,
+            "original": "~z~Niko, get out of the car.",
+            "translated": "~z~Niko, get out of the car.",
+            "desc": ""
+        },
+        {
+            "hash": 2822099772,
+            "original": "R13_A_VA",
+            "translated": "R13_A_VA",
+            "desc": ""
+        },
+        {
+            "hash": 2826159513,
+            "original": "~z~He's married... it's so doomed.",
+            "translated": "~z~他结婚了...太可惜了。",
+            "desc": ""
+        },
+        {
+            "hash": 2831056705,
+            "original": "201",
+            "translated": "201",
+            "desc": ""
+        },
+        {
+            "hash": 2831536100,
+            "original": "101",
+            "translated": "101",
+            "desc": ""
+        },
+        {
+            "hash": 2831595383,
+            "original": "R13_B_AG",
+            "translated": "R13_B_AG",
+            "desc": ""
+        },
+        {
+            "hash": 2858603666,
+            "original": "R13_A_ZF",
+            "translated": "R13_A_ZF",
+            "desc": ""
+        },
+        {
+            "hash": 2868332332,
+            "original": "~z~Sure... see you later, Florian.",
+            "translated": "~z~当然...之后见，Florian。",
+            "desc": ""
+        },
+        {
+            "hash": 2875861375,
+            "original": "~z~This is the way, keep going.",
+            "translated": "~z~就这条路，接着开。",
+            "desc": ""
+        },
+        {
+            "hash": 2889129371,
+            "original": "R13_A_UA",
+            "translated": "R13_A_UA",
+            "desc": ""
+        },
+        {
+            "hash": 2929595247,
+            "original": "~z~There is no starting again. Darko Brevic may not be here in Liberty City, but he's still out there.",
+            "translated": "~z~There is no starting again. Darko Brevic may not be here in Liberty City, but he's still out there.",
+            "desc": ""
+        },
+        {
+            "hash": 2949263282,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 2955047810,
+            "original": "~z~Slowly, slowly, catchy monkey, NB. We won't find him if you are racing.",
+            "translated": "~z~Slowly, slowly, catchy monkey, NB. We won't find him if you are racing.",
+            "desc": ""
+        },
+        {
+            "hash": 2958698334,
+            "original": "201",
+            "translated": "201",
+            "desc": ""
+        },
+        {
+            "hash": 2984404294,
+            "original": "~z~Right here, okay?",
+            "translated": "~z~这里右转，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3000312786,
+            "original": "R13_A_EB",
+            "translated": "R13_A_EB",
+            "desc": ""
+        },
+        {
+            "hash": 3001384846,
+            "original": "~z~Lives uptown somewhere.",
+            "translated": "~z~住在市郊那边。",
+            "desc": ""
+        },
+        {
+            "hash": 3010035964,
+            "original": "R13_DD",
+            "translated": "R13_DD",
+            "desc": ""
+        },
+        {
+            "hash": 3037985107,
+            "original": "R13_AE",
+            "translated": "R13_AE",
+            "desc": ""
+        },
+        {
+            "hash": 3050512070,
+            "original": "R13_TC",
+            "translated": "R13_TC",
+            "desc": ""
+        },
+        {
+            "hash": 3050630202,
+            "original": "R13_A_VC",
+            "translated": "R13_A_VC",
+            "desc": ""
+        },
+        {
+            "hash": 3100463510,
+            "original": "~z~Soon, we will find out.",
+            "translated": "~z~马上，我们就会知道了。",
+            "desc": ""
+        },
+        {
+            "hash": 3103320271,
+            "original": "~z~What wasn't me?",
+            "translated": "~z~什么不是我干的？",
+            "desc": ""
+        },
+        {
+            "hash": 3115377823,
+            "original": "~z~So I see... well it's great to see you guys... we must do brunch.",
+            "translated": "~z~咱懂了...见到你们还是很高兴的...有空吃顿饭。",
+            "desc": ""
+        },
+        {
+            "hash": 3131528407,
+            "original": "~z~Get in the car, Talbot.",
+            "translated": "~z~上车吧，Talbot。",
+            "desc": ""
+        },
+        {
+            "hash": 3139516197,
+            "original": "~z~There's some fanook called Talbot, Talbot Daniels, over in the Triangle.",
+            "translated": "~z~有一个叫Talbot的基佬，Talbot Daniels，人在Triangle。",
+            "desc": ""
+        },
+        {
+            "hash": 3157429758,
+            "original": "~z~You trying to kill us? That traffic's heading toward us!",
+            "translated": "~z~你是想杀了我们吗？车子都在朝我们开！",
+            "desc": ""
+        },
+        {
+            "hash": 3179992708,
+            "original": "~z~You're a fucking loose cannon my friend.",
+            "translated": "~z~你他妈也太反复无常了点吧，我的朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 3202345226,
+            "original": "R13_A_QC",
+            "translated": "R13_A_QC",
+            "desc": ""
+        },
+        {
+            "hash": 3207461689,
+            "original": "~z~He got away from us, NB. We're not going to be able to find Florian now.",
+            "translated": "~z~He got away from us, NB. We're not going to be able to find Florian now.",
+            "desc": ""
+        },
+        {
+            "hash": 3247194478,
+            "original": "~z~Put some pace on it, Niko.",
+            "translated": "~z~Put some pace on it, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 3256637159,
+            "original": "~z~That's it. Straight on.",
+            "translated": "~z~就是这儿，直行。",
+            "desc": ""
+        },
+        {
+            "hash": 3258408121,
+            "original": "~z~Okay, head on.",
+            "translated": "~z~好了，笔直开。",
+            "desc": ""
+        },
+        {
+            "hash": 3287710920,
+            "original": "~z~Alright, turn left.",
+            "translated": "~z~好了，左转。",
+            "desc": ""
+        },
+        {
+            "hash": 3289968809,
+            "original": "R13_A_HB",
+            "translated": "R13_A_HB",
+            "desc": ""
+        },
+        {
+            "hash": 3297613586,
+            "original": "R13_AD",
+            "translated": "R13_AD",
+            "desc": ""
+        },
+        {
+            "hash": 3297696712,
+            "original": "~z~Alright, keep going straight.",
+            "translated": "~z~好了，接着直走。",
+            "desc": ""
+        },
+        {
+            "hash": 3300512422,
+            "original": "R13_BA",
+            "translated": "R13_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3311181302,
+            "original": "~z~Cousin, I know you want to find him soon, but you must go slowly to do it.",
+            "translated": "~z~Cousin, I know you want to find him soon, but you must go slowly to do it.",
+            "desc": ""
+        },
+        {
+            "hash": 3317276940,
+            "original": "~z~What're you doing? This is a one way street.",
+            "translated": "~z~你在干嘛呢？这里是单行线。",
+            "desc": ""
+        },
+        {
+            "hash": 3320764236,
+            "original": "200200020",
+            "translated": "200200020",
+            "desc": ""
+        },
+        {
+            "hash": 3339641032,
+            "original": "~z~Okay, you have to head on straight.",
+            "translated": "~z~好了，你接着直行。",
+            "desc": ""
+        },
+        {
+            "hash": 3347119062,
+            "original": "100010100010010010100",
+            "translated": "100010100010010010100",
+            "desc": ""
+        },
+        {
+            "hash": 3348891241,
+            "original": "~z~Florian Cravic? I don't know what you're talking about.",
+            "translated": "~z~Florian Cravic？我不知道你们在说什么。",
+            "desc": ""
+        },
+        {
+            "hash": 3359253803,
+            "original": "R13_AF",
+            "translated": "R13_AF",
+            "desc": ""
+        },
+        {
+            "hash": 3370185034,
+            "original": "~z~Get in and don't try anything stupid, Talbot.",
+            "translated": "~z~上车，别做任何蠢事，Talbot。",
+            "desc": ""
+        },
+        {
+            "hash": 3385840770,
+            "original": "~z~What you waiting for? Throw it.",
+            "translated": "~z~你还在等什么？扔过来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3387679222,
+            "original": "R13_A_SD",
+            "translated": "R13_A_SD",
+            "desc": ""
+        },
+        {
+            "hash": 3391212150,
+            "original": "~z~I need to be alone now, Roman.",
+            "translated": "~z~我要一个人静静，Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 3400053142,
+            "original": "R13_DE",
+            "translated": "R13_DE",
+            "desc": ""
+        },
+        {
+            "hash": 3401698352,
+            "original": "~z~So, Florian has changed?",
+            "translated": "~z~那，Florian是变了喽？",
+            "desc": ""
+        },
+        {
+            "hash": 3404431944,
+            "original": "R13_A_TA",
+            "translated": "R13_A_TA",
+            "desc": ""
+        },
+        {
+            "hash": 3406977151,
+            "original": "R13_FC",
+            "translated": "R13_FC",
+            "desc": ""
+        },
+        {
+            "hash": 3407619368,
+            "original": "R13_A_ZC",
+            "translated": "R13_A_ZC",
+            "desc": ""
+        },
+        {
+            "hash": 3410735181,
+            "original": "022200100210100",
+            "translated": "022200100210100",
+            "desc": ""
+        },
+        {
+            "hash": 3411152257,
+            "original": "~z~I've come to ask you some questions.",
+            "translated": "~z~我是来问你问题的。",
+            "desc": ""
+        },
+        {
+            "hash": 3413790127,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 3454140915,
+            "original": "~z~You gotta turn left here.",
+            "translated": "~z~这里该左转了。",
+            "desc": ""
+        },
+        {
+            "hash": 3472775204,
+            "original": "~z~I'm an innovator, NB.",
+            "translated": "~z~我是开创者，NB。",
+            "desc": ""
+        },
+        {
+            "hash": 3512666975,
+            "original": "~z~Shit. Fucking cocksucker.",
+            "translated": "~z~Shit. Fucking cocksucker.",
+            "desc": ""
+        },
+        {
+            "hash": 3535465366,
+            "original": "201",
+            "translated": "201",
+            "desc": ""
+        },
+        {
+            "hash": 3541492867,
+            "original": "~z~Shit, I would've chased him if I'd known you were so slow.",
+            "translated": "~z~Shit, I would've chased him if I'd known you were so slow.",
+            "desc": ""
+        },
+        {
+            "hash": 3548789321,
+            "original": "~z~Shit NB, are you cranked on speed? We have to go slow to find the address.",
+            "translated": "~z~Shit NB, are you cranked on speed? We have to go slow to find the address.",
+            "desc": ""
+        },
+        {
+            "hash": 3550437242,
+            "original": "R13_GA",
+            "translated": "R13_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3595150276,
+            "original": "~z~I been head to head with this guy a few times, NB. I know his tells. He's lying.",
+            "translated": "~z~我和这人交手过几次，NB。我知道他的心思。他在说谎。",
+            "desc": ""
+        },
+        {
+            "hash": 3615382053,
+            "original": "R13_DC",
+            "translated": "R13_DC",
+            "desc": ""
+        },
+        {
+            "hash": 3616105326,
+            "original": "R13_TB",
+            "translated": "R13_TB",
+            "desc": ""
+        },
+        {
+            "hash": 3633631608,
+            "original": "~z~I have found Florian Cravic. There's a man called Talbot Daniels who will lead us to him.",
+            "translated": "~z~我找到Florian Cravic了。有个叫Talbot Daniels的人会带我们去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 3642315857,
+            "original": "~z~Something's gone wrong. I don't wanna talk about it.",
+            "translated": "~z~出了点岔子。我不是很想提。",
+            "desc": ""
+        },
+        {
+            "hash": 3682213504,
+            "original": "R13_EA",
+            "translated": "R13_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3710473854,
+            "original": "R13_IB",
+            "translated": "R13_IB",
+            "desc": ""
+        },
+        {
+            "hash": 3716472102,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 3721851254,
+            "original": "~z~Okay, we're getting closer.",
+            "translated": "~z~Okay, we're getting closer.",
+            "desc": ""
+        },
+        {
+            "hash": 3731992692,
+            "original": "~z~You think it was me... that's why you're here. You've come to kill me!",
+            "translated": "~z~你以为是咱...所以你才会来这儿。你是来杀咱的！",
+            "desc": ""
+        },
+        {
+            "hash": 3754440874,
+            "original": "R13_A_XA",
+            "translated": "R13_A_XA",
+            "desc": ""
+        },
+        {
+            "hash": 3766476879,
+            "original": "R13_IA",
+            "translated": "R13_IA",
+            "desc": ""
+        },
+        {
+            "hash": 3771469108,
+            "original": "R13_EC",
+            "translated": "R13_EC",
+            "desc": ""
+        },
+        {
+            "hash": 3781811792,
+            "original": "R13_DG",
+            "translated": "R13_DG",
+            "desc": ""
+        },
+        {
+            "hash": 3791370474,
+            "original": "~z~Left here.",
+            "translated": "~z~这里左拐。",
+            "desc": ""
+        },
+        {
+            "hash": 3812724824,
+            "original": "~z~Here we are, this is Bernie's place. Can I go?",
+            "translated": "~z~Here we are, this is Bernie's place. Can I go?",
+            "desc": ""
+        },
+        {
+            "hash": 3823016967,
+            "original": "100010010010100100010010010100",
+            "translated": "100010010010100100010010010100",
+            "desc": ""
+        },
+        {
+            "hash": 3831135085,
+            "original": "~z~What is it, cousin?",
+            "translated": "~z~怎么了，堂弟？",
+            "desc": ""
+        },
+        {
+            "hash": 3876450362,
+            "original": "~z~Ray, I ain't gonna find the guy I'm after.",
+            "translated": "~z~Ray，我没法接着找要找的人了。",
+            "desc": ""
+        },
+        {
+            "hash": 3877490503,
+            "original": "R13_A_ZG",
+            "translated": "R13_A_ZG",
+            "desc": ""
+        },
+        {
+            "hash": 3888511985,
+            "original": "~z~Is not that, I'm coming to collect you from the apartment. Wait for me there.",
+            "translated": "~z~不是那个，我来公寓接你了。在那儿等我。",
+            "desc": ""
+        },
+        {
+            "hash": 3910733858,
+            "original": "R13_A_PC",
+            "translated": "R13_A_PC",
+            "desc": ""
+        },
+        {
+            "hash": 3914434642,
+            "original": "R13_TA",
+            "translated": "R13_TA",
+            "desc": ""
+        },
+        {
+            "hash": 3918208316,
+            "original": "~z~Have some fucking patience, Nicky. I thought you was wanting to find this rat.",
+            "translated": "~z~有点耐心，Nicky。我还以为你很想找到他的。",
+            "desc": ""
+        },
+        {
+            "hash": 3939614152,
+            "original": "R13_B_AE",
+            "translated": "R13_B_AE",
+            "desc": ""
+        },
+        {
+            "hash": 3943263147,
+            "original": "~z~Help! You've taken a car down a one way street.",
+            "translated": "~z~拜托！你把车开进单行线了。",
+            "desc": ""
+        },
+        {
+            "hash": 3948297751,
+            "original": "R13_A_HC",
+            "translated": "R13_A_HC",
+            "desc": ""
+        },
+        {
+            "hash": 3953474502,
+            "original": "100010100100100100010",
+            "translated": "100010100100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 3975166491,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 3994745988,
+            "original": "~z~Talbot, I know him from some of the card games I play.",
+            "translated": "~z~Talbot，我打牌的时候认识他的。",
+            "desc": ""
+        },
+        {
+            "hash": 4008415188,
+            "original": "~z~What you playing at, NB?",
+            "translated": "~z~What you playing at, NB?",
+            "desc": ""
+        },
+        {
+            "hash": 4009248121,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4016201695,
+            "original": "101",
+            "translated": "101",
+            "desc": ""
+        },
+        {
+            "hash": 4018201169,
+            "original": "R13_XA",
+            "translated": "R13_XA",
+            "desc": ""
+        },
+        {
+            "hash": 4026824537,
+            "original": "211121011101",
+            "translated": "211121011101",
+            "desc": ""
+        },
+        {
+            "hash": 4028126989,
+            "original": "~z~What are you guys doing here? Why did you kick my door down?",
+            "translated": "~z~你俩来这儿做什么？为什么你们要踹开咱的门？",
+            "desc": ""
+        },
+        {
+            "hash": 4042763045,
+            "original": "R13_FE",
+            "translated": "R13_FE",
+            "desc": ""
+        },
+        {
+            "hash": 4055767474,
+            "original": "~z~All that has changed is that I am hunting one man instead of two...",
+            "translated": "~z~All that has changed is that I am hunting one man instead of two...",
+            "desc": ""
+        },
+        {
+            "hash": 4084216094,
+            "original": "~z~Niko! Be calm... be calm...",
+            "translated": "~z~Niko！冷静...冷静...",
+            "desc": ""
+        },
+        {
+            "hash": 4091823828,
+            "original": "~z~Now I am practically chopping board I have so many cuts on me.",
+            "translated": "~z~现在我已经是块砧板了，身上全是伤口。",
+            "desc": ""
+        },
+        {
+            "hash": 4101813151,
+            "original": "R13_A_SA",
+            "translated": "R13_A_SA",
+            "desc": ""
+        },
+        {
+            "hash": 4151038521,
+            "original": "010010100100",
+            "translated": "010010100100",
+            "desc": ""
+        },
+        {
+            "hash": 4162239059,
+            "original": "~z~I couldn't find Florian. Your man, Talbot, he was annoying the shit out of me.",
+            "translated": "~z~我找不到Florian。你的人Talbot他搞得我暴跳如雷。",
+            "desc": ""
+        },
+        {
+            "hash": 4167514656,
+            "original": "201101",
+            "translated": "201101",
+            "desc": ""
+        },
+        {
+            "hash": 4194590029,
+            "original": "R13_B_AF",
+            "translated": "R13_B_AF",
+            "desc": ""
+        },
+        {
+            "hash": 4223943086,
+            "original": "~z~I'll call you soon.",
+            "translated": "~z~我会再打给你的。",
+            "desc": ""
+        },
+        {
+            "hash": 4228028499,
+            "original": "~z~So, you're finally going to kill Florian Cravic...",
+            "translated": "~z~那，你终于要去杀Florian Cravic了...",
+            "desc": ""
+        },
+        {
+            "hash": 4230359625,
+            "original": "~z~Come on, Niko.",
+            "translated": "~z~Come on, Niko.",
+            "desc": ""
+        },
+        {
+            "hash": 4234268657,
+            "original": "~z~Nicky, you ice him?",
+            "translated": "~z~Nicky，做掉他了没？",
+            "desc": ""
+        },
+        {
+            "hash": 4256046458,
+            "original": "~z~I'll call you.",
+            "translated": "~z~我会再找你的。",
+            "desc": ""
+        },
+        {
+            "hash": 4290316784,
+            "original": "~z~We will find him, I promise you that.",
+            "translated": "~z~我们会找到他的，我保证。",
+            "desc": ""
+        }
+    ]
+}

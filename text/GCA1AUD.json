@@ -1,0 +1,1324 @@
+{
+    "GCA1AUD": [
+        {
+            "hash": 9115402,
+            "original": "GCA_ACT_CALL_HOSP_CANCEL_LOLIKE",
+            "translated": "GCA_ACT_CALL_HOSP_CANCEL_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 54045963,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 54837536,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 56313562,
+            "original": "~z~Okay then Alex, I'll come and get you in the next hour.",
+            "translated": "~z~好的，Alex，我会在一个小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 59783010,
+            "original": "~z~I'm on my way.",
+            "translated": "~z~我这就过来。",
+            "desc": ""
+        },
+        {
+            "hash": 89869752,
+            "original": "GCA_ACT_CALL_LIKEYES",
+            "translated": "GCA_ACT_CALL_LIKEYES",
+            "desc": ""
+        },
+        {
+            "hash": 164146322,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 166725731,
+            "original": "~z~Alex. It's Niko.",
+            "translated": "~z~Alex，我是Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 253835085,
+            "original": "~z~Okay, Alex. I'll try you again later.",
+            "translated": "~z~好吧，Alex。我以后再打给你。",
+            "desc": ""
+        },
+        {
+            "hash": 255219457,
+            "original": "~z~Oh, you've decided to call, have you?",
+            "translated": "~z~噢，总算给我打电话了啊？",
+            "desc": ""
+        },
+        {
+            "hash": 266962481,
+            "original": "~z~Why don't you show me a good time?",
+            "translated": "~z~咱俩一起去找点乐子吧？",
+            "desc": ""
+        },
+        {
+            "hash": 281894470,
+            "original": "~z~I'll see you then.",
+            "translated": "~z~到时候见。",
+            "desc": ""
+        },
+        {
+            "hash": 297784257,
+            "original": "~z~I'll be by in a bit.",
+            "translated": "~z~我一会儿就到。",
+            "desc": ""
+        },
+        {
+            "hash": 353462854,
+            "original": "~z~Sure, I'll be there in the next hour.",
+            "translated": "~z~好的，我一小时内就过来。",
+            "desc": ""
+        },
+        {
+            "hash": 384146535,
+            "original": "GCA_ACT_GETCALL_IRATE",
+            "translated": "GCA_ACT_GETCALL_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 389133746,
+            "original": "~z~Niko, it's Alex.",
+            "translated": "~z~Niko，我是Alex。",
+            "desc": ""
+        },
+        {
+            "hash": 406802817,
+            "original": "~z~Okay, Niko. If that's the way it is, that's the way it is.",
+            "translated": "~z~好吧，Niko。既然情况如此，那我也没什么办法。",
+            "desc": ""
+        },
+        {
+            "hash": 428448783,
+            "original": "~z~My psychiatrist says that I shouldn't be seeing anyone in this emotional state, maybe if you me call back later...",
+            "translated": "~z~心理医生说以我现在的情绪状态最好不要见任何人，改天再联系我吧...",
+            "desc": ""
+        },
+        {
+            "hash": 430716680,
+            "original": "~z~Why don't you and me go do something?",
+            "translated": "~z~要么我们一起出去吧？",
+            "desc": ""
+        },
+        {
+            "hash": 454281932,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 483479023,
+            "original": "~z~There are plenty of guys who'd kill to collect me from the hospital. I'll call one of them.",
+            "translated": "~z~有的是人愿意来医院接我，我找他们了。",
+            "desc": ""
+        },
+        {
+            "hash": 486715016,
+            "original": "~z~How's it going, Alex?",
+            "translated": "~z~你好吗，Alex？",
+            "desc": ""
+        },
+        {
+            "hash": 513050960,
+            "original": "~z~Sorry, Alex but I don't memorize your sleeping hours. I'll call you later.",
+            "translated": "~z~抱歉，Alex。我不知道你现在在睡觉，晚点再联系你。",
+            "desc": ""
+        },
+        {
+            "hash": 524531568,
+            "original": "~z~That won't be a problem Niko. I can get you a fifty percent discount for the rest of the day.",
+            "translated": "~z~没问题，Niko。今天一天我都能给你五折的价。",
+            "desc": ""
+        },
+        {
+            "hash": 553081593,
+            "original": "~z~We'll do something another time then. I'll call again later.",
+            "translated": "~z~那我们改天再聚。之后再联系。",
+            "desc": ""
+        },
+        {
+            "hash": 589675061,
+            "original": "~z~I knew you'd do this. I just knew it.",
+            "translated": "~z~就知道你会这样，我就知道。",
+            "desc": ""
+        },
+        {
+            "hash": 659732385,
+            "original": "~z~You know, I don't feel like seeing you right now. Maybe in a while.",
+            "translated": "~z~那个，我现在不太想见你。过段时间吧。",
+            "desc": ""
+        },
+        {
+            "hash": 662984279,
+            "original": "~z~Hey, it's Alex.",
+            "translated": "~z~嘿，我是Alex。",
+            "desc": ""
+        },
+        {
+            "hash": 684556776,
+            "original": "~z~Alright, I'll be there soon.",
+            "translated": "~z~好，我马上就到。",
+            "desc": ""
+        },
+        {
+            "hash": 687851348,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 733824206,
+            "original": "GCA_ACT_PAL_CALL_REJECTED",
+            "translated": "GCA_ACT_PAL_CALL_REJECTED",
+            "desc": ""
+        },
+        {
+            "hash": 741645395,
+            "original": "GCA_ACT_CALL_IRATE",
+            "translated": "GCA_ACT_CALL_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 743726097,
+            "original": "~z~This is Alex Chilton's phone. Leave me a message.",
+            "translated": "~z~我是Alex Chilton。有事请留言。",
+            "desc": ""
+        },
+        {
+            "hash": 751166809,
+            "original": "~z~Well there's the mysterious European. I was starting to think you were done with me.",
+            "translated": "~z~神秘欧洲人来啦，我差点以为你和我已经分手了。",
+            "desc": ""
+        },
+        {
+            "hash": 751461982,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 764885999,
+            "original": "GCA_ACT_PAL_GETCALL_SPEC_END",
+            "translated": "GCA_ACT_PAL_GETCALL_SPEC_END",
+            "desc": ""
+        },
+        {
+            "hash": 779131276,
+            "original": "~z~Don't be late, Niko.",
+            "translated": "~z~别迟到了，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 809464189,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 817321457,
+            "original": "~z~Alex, hello.",
+            "translated": "~z~Alex，你好。",
+            "desc": ""
+        },
+        {
+            "hash": 820194797,
+            "original": "~z~I didn't know you'd be in bed. I'm sorry.",
+            "translated": "~z~我不知道你还在睡觉，真对不起。",
+            "desc": ""
+        },
+        {
+            "hash": 839634916,
+            "original": "GCA_ACT_CALL_LIKENO_2_AB",
+            "translated": "GCA_ACT_CALL_LIKENO_2_AB",
+            "desc": ""
+        },
+        {
+            "hash": 861929418,
+            "original": "~z~Another time, Alex. We will put on a rain check.",
+            "translated": "~z~那就下次吧，Alex。我们改天再见。",
+            "desc": ""
+        },
+        {
+            "hash": 891991312,
+            "original": "~z~Alex, I want to go shopping. Can you get me some money off?",
+            "translated": "~z~Alex，我想去购物。你能给我点折扣吗？",
+            "desc": ""
+        },
+        {
+            "hash": 913987056,
+            "original": "~z~Niko, I just can't see you right now. I have to put in some serious Daddy time to make sure the card doesn't get cut off.",
+            "translated": "~z~Niko，我现在不能陪你。还得好好陪着我亲爹，否则就没人帮我付信用卡账单了。",
+            "desc": ""
+        },
+        {
+            "hash": 938367496,
+            "original": "GCA_ACT_GETCALL_VERYIRATE",
+            "translated": "GCA_ACT_GETCALL_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 944759404,
+            "original": "GCA_ACT_CALL_VERYIRATE",
+            "translated": "GCA_ACT_CALL_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 957884242,
+            "original": "GCA_ACT_CALL_REQ_SPEC_YES",
+            "translated": "GCA_ACT_CALL_REQ_SPEC_YES",
+            "desc": ""
+        },
+        {
+            "hash": 1041267700,
+            "original": "~z~Okay, I was getting ready, but fine.",
+            "translated": "~z~好吧，我刚准备的差不多，但也没事。",
+            "desc": ""
+        },
+        {
+            "hash": 1054256634,
+            "original": "~z~I'll be there in a bit.",
+            "translated": "~z~我马上就到。",
+            "desc": ""
+        },
+        {
+            "hash": 1077689635,
+            "original": "~z~I'll be waiting, Niko.",
+            "translated": "~z~我等着你，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1122216221,
+            "original": "GCA_ACT_GETCALL_REJECT_VERYIRATE",
+            "translated": "GCA_ACT_GETCALL_REJECT_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 1131021134,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1137701019,
+            "original": "~z~I'm sorry but I've got to see the girls. Maybe another time.",
+            "translated": "~z~很抱歉，但我跟姐妹们有约在先。下次再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1141247834,
+            "original": "~z~Niko, this is Alex calling.",
+            "translated": "~z~Niko，我是Alex。",
+            "desc": ""
+        },
+        {
+            "hash": 1142689132,
+            "original": "~z~Alright, well top prize for effort. I'll let you take me out. Come by in the next hour.",
+            "translated": "~z~好了，给你的努力颁发一等奖，允许你带我出去。一个小时内来接我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1153353883,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1155044734,
+            "original": "~z~Niko, you picked up. Well it's been a while since I've heard from you.",
+            "translated": "~z~Niko，你终于接电话了。好久没接到你的联络了。",
+            "desc": ""
+        },
+        {
+            "hash": 1171000097,
+            "original": "GCA_ACT_GETCALL_REJECT_VERYIRATE",
+            "translated": "GCA_ACT_GETCALL_REJECT_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 1172320972,
+            "original": "~z~From now on I am only dating Americans.",
+            "translated": "~z~从现在起我只约美国人了。",
+            "desc": ""
+        },
+        {
+            "hash": 1201437197,
+            "original": "GCA_ACT_CALL_LIKENO_2_AA",
+            "translated": "GCA_ACT_CALL_LIKENO_2_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1214004464,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1264912581,
+            "original": "~z~What are you doing? Ha fucking ha. I'm asleep. Call me after noon.",
+            "translated": "~z~你搞什么啊？呵呵。我正睡觉呢。下午再打给我。",
+            "desc": ""
+        },
+        {
+            "hash": 1280933648,
+            "original": "~z~Why don't you take me out on a date?",
+            "translated": "~z~要么带我去约个会吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1284225561,
+            "original": "~z~I'm going to have to call my therapist. Goodbye.",
+            "translated": "~z~我要联系我的心理医生了。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1290642658,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 1297085486,
+            "original": "GCA_ACT_PAL_CALL_DATE",
+            "translated": "GCA_ACT_PAL_CALL_DATE",
+            "desc": ""
+        },
+        {
+            "hash": 1329555421,
+            "original": "~z~I'm not saying this is over for good but I need a break.",
+            "translated": "~z~不是说咱们分了，但我确实需要休息。",
+            "desc": ""
+        },
+        {
+            "hash": 1335828241,
+            "original": "~z~Well, I blew off a lot of people to see you but... sure.",
+            "translated": "~z~好吧，为了跟你约会我推了很多人，不过...好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1357239649,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1391554859,
+            "original": "GCA_ACT_GETCALL_HOSP_REJ_HILIKE",
+            "translated": "GCA_ACT_GETCALL_HOSP_REJ_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 1397997095,
+            "original": "~z~This is a fucking joke. You never want to go out with me.",
+            "translated": "~z~这他妈就是开玩笑。你根本不想和我出去玩。",
+            "desc": ""
+        },
+        {
+            "hash": 1402706877,
+            "original": "~z~Alex, how's it going?",
+            "translated": "~z~Alex，你好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1404511138,
+            "original": "~z~Sorry Alex, it's over between us. I can't say I'm going to miss you.",
+            "translated": "~z~抱歉，Alex，咱俩结束了。我也不知道以后会不会想你。",
+            "desc": ""
+        },
+        {
+            "hash": 1404560410,
+            "original": "~z~See you in a bit.",
+            "translated": "~z~待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 1409312037,
+            "original": "GCA_ACT_ANSWER_PHONE",
+            "translated": "GCA_ACT_ANSWER_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 1453031785,
+            "original": "~z~Oh, you picked up. I was starting to think I'd have to get Daddy's private investigator to track you down, Niko.",
+            "translated": "~z~噢，可算接电话了。我都在想是不是应该让我爸的私家侦探调查你的行踪了，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1472007527,
+            "original": "~z~Fuck you. I could have done anything now. You were lucky I agreed to see you.",
+            "translated": "~z~操你妈的。本来我有的是选择。选择跟你约会是你的福气。",
+            "desc": ""
+        },
+        {
+            "hash": 1505174889,
+            "original": "~z~Are you fucking stupid? I'm sleeping. Call me back after noon. I might be awake then.",
+            "translated": "~z~你他妈白痴吧？我正睡觉呢。下午再找我，那会儿我可能醒着。",
+            "desc": ""
+        },
+        {
+            "hash": 1513442248,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1546894104,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1578226595,
+            "original": "~z~Shit, I would have been better off putting my energy into a block of wood than you.",
+            "translated": "~z~妈的，把心思花在木头上都比花在你身上强。",
+            "desc": ""
+        },
+        {
+            "hash": 1640773662,
+            "original": "~z~Alex, that you?",
+            "translated": "~z~Alex，是你吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1656365503,
+            "original": "~z~I can't take you out just now, Alex. I'll call you later.",
+            "translated": "~z~我现在不能带你出去，Alex。晚点我再打给你。",
+            "desc": ""
+        },
+        {
+            "hash": 1658705597,
+            "original": "GCA_ACT_CALL_DATE_NO_GENERAL",
+            "translated": "GCA_ACT_CALL_DATE_NO_GENERAL",
+            "desc": ""
+        },
+        {
+            "hash": 1668118984,
+            "original": "100100010",
+            "translated": "100100010",
+            "desc": ""
+        },
+        {
+            "hash": 1680310650,
+            "original": "GCA_ACT_CALL_LIKENO_1_AB",
+            "translated": "GCA_ACT_CALL_LIKENO_1_AB",
+            "desc": ""
+        },
+        {
+            "hash": 1692107478,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1711122920,
+            "original": "~z~Alex Chilton stood up by a European nobody? My friends will not believe it.",
+            "translated": "~z~Alex Chilton被一个欧洲小喽啰给鸽了？我那些朋友肯定不信。",
+            "desc": ""
+        },
+        {
+            "hash": 1737200420,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1742730959,
+            "original": "~z~This is a fucking joke. You never want to go out with me.",
+            "translated": "~z~这他妈就是开玩笑。你根本不想和我出去玩。",
+            "desc": ""
+        },
+        {
+            "hash": 1749504924,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1761450157,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 1829694896,
+            "original": "GCA_ACT_PAL_CALL_ACCEPTED",
+            "translated": "GCA_ACT_PAL_CALL_ACCEPTED",
+            "desc": ""
+        },
+        {
+            "hash": 1841823785,
+            "original": "~z~Thanks Alex, that's kind of you.",
+            "translated": "~z~谢了，Alex，你对我真是太好了。",
+            "desc": ""
+        },
+        {
+            "hash": 1892359604,
+            "original": "~z~Be warned Niko, I look like a mess.",
+            "translated": "~z~先说好，Niko，我看起来一团糟。",
+            "desc": ""
+        },
+        {
+            "hash": 1915668439,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1934368558,
+            "original": "~z~Alex, I'm sorry about this but I can't take you out anymore.",
+            "translated": "~z~Alex，很对不起，但我不能带你出去了。",
+            "desc": ""
+        },
+        {
+            "hash": 1957596666,
+            "original": "~z~Hey Niko, I was just thinking I like guys I date to look good in case the paps snap us together or something.",
+            "translated": "~z~喂，Niko，其实我比较希望我的约会对象能好看点，这样被狗仔队拍到也不会太尴尬。",
+            "desc": ""
+        },
+        {
+            "hash": 2010365899,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2017789475,
+            "original": "GCA_ACT_GETCALL_HOSP_REJ_LOLIKE",
+            "translated": "GCA_ACT_GETCALL_HOSP_REJ_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2034951963,
+            "original": "~z~Hi Alex. It's Niko.",
+            "translated": "~z~嗨，Alex。我是Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2105947042,
+            "original": "~z~Sorry, Alex but I have to cancel our date.",
+            "translated": "~z~抱歉，Alex，但我们的约会得取消了。",
+            "desc": ""
+        },
+        {
+            "hash": 2147294692,
+            "original": "~z~I am a beautiful flower and I need to be treated with care. And if you do that, I might date you again.",
+            "translated": "~z~我是一枝美丽的鲜花，需要精心照顾。你能做到的话，也许还有约会的机会。",
+            "desc": ""
+        },
+        {
+            "hash": 2148699703,
+            "original": "~z~Sorry, Niko. But my friends just saw us out again and they might actually think we were serious. Leave it a bit.",
+            "translated": "~z~抱歉，Niko。但朋友刚看见我俩一起出去过，她们可能以为我俩真的在交往了。过几天再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2190072507,
+            "original": "~z~Okay, pick me up in the next hour and you can take me out.",
+            "translated": "~z~好的，一小时内来接我，带我出去玩。",
+            "desc": ""
+        },
+        {
+            "hash": 2204356997,
+            "original": "~z~Hey Alex, I want to go buy some clothes. Will you get me a discount?",
+            "translated": "~z~喂，Alex，我想去买点衣服。你能给我点优惠吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2210825156,
+            "original": "~z~Alex. You probably got more important things to worry about like boots or something, but we're over.",
+            "translated": "~z~Alex。你要烦恼的东西可能很多，比如靴子之类的，但我们之间结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 2219621609,
+            "original": "~z~Yeah, well actually there's a cute orderly that I'd like to fuck. I'll do that and then get a lift home. Bye.",
+            "translated": "~z~好，刚好有个医院勤杂工跟我对上眼了。我会跟他来一炮，乘他的车回去的。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2226756295,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2269353136,
+            "original": "GCA_ACT_PAL_CALL_LOLIKE",
+            "translated": "GCA_ACT_PAL_CALL_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2280952332,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2294226667,
+            "original": "GCA_ACT_PAL_GETCALL_HOSP_NO",
+            "translated": "GCA_ACT_PAL_GETCALL_HOSP_NO",
+            "desc": ""
+        },
+        {
+            "hash": 2296514119,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2315059968,
+            "original": "~z~Well this really is a surprise. Guys don't normally wait this long to call me back.",
+            "translated": "~z~太令我惊讶了。一般人不会过这么久才打电话找我。",
+            "desc": ""
+        },
+        {
+            "hash": 2349771850,
+            "original": "GCA_ACT_GETCALL_HOSP_REJ_MEDLIKE",
+            "translated": "GCA_ACT_GETCALL_HOSP_REJ_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2349965192,
+            "original": "GCA_ACT_PAL_CALL_MEDLIKE",
+            "translated": "GCA_ACT_PAL_CALL_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2370891981,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2375596315,
+            "original": "~z~If you think you can just treat me like some slutty European whore then you are sadly mistaken.",
+            "translated": "~z~我可不是呼之即来挥之即去的欧洲妓女，别搞错了。",
+            "desc": ""
+        },
+        {
+            "hash": 2394994310,
+            "original": "~z~Alright then, I'll call another time.",
+            "translated": "~z~那好吧，有时间我再打给你。",
+            "desc": ""
+        },
+        {
+            "hash": 2395220890,
+            "original": "~z~Niko, I cannot get tied down right now. We should leave a bit of a gap between each date.",
+            "translated": "~z~Niko，我现在不能被你束缚住。应该在两次约会间多留一些时间。",
+            "desc": ""
+        },
+        {
+            "hash": 2406570468,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2430882328,
+            "original": "~z~Wait there, Alex.",
+            "translated": "~z~等着我，Alex。",
+            "desc": ""
+        },
+        {
+            "hash": 2450210640,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2494078793,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2512263323,
+            "original": "~z~Niko, they're letting me out of the clinic and Daddy's driver is busy. Would you pick me up?",
+            "translated": "~z~Niko，他们放我出院了，但老爸的司机很忙。你能来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2551589139,
+            "original": "~z~Sure, Niko. I tell the stores you're a friend of mine and you'll get a price reduction for the rest of the day.",
+            "translated": "~z~当然了，Niko。我跟店里的人打声招呼，你今天就能拿到优惠价了。",
+            "desc": ""
+        },
+        {
+            "hash": 2560334679,
+            "original": "~z~Jesus. What sort of guy am I dating? Goodbye.",
+            "translated": "~z~天啊，我约的这是个什么人啊？再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2571122125,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2608088595,
+            "original": "GCA_ACT_GETCALL_SPEC_AA",
+            "translated": "GCA_ACT_GETCALL_SPEC_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2614295210,
+            "original": "~z~Niko, I am not someone you want to fuck things up with. You will regret losing me for the rest of your life.",
+            "translated": "~z~Niko，我不是可以随便糊弄的人。失去我你会后悔终身的。",
+            "desc": ""
+        },
+        {
+            "hash": 2619268936,
+            "original": "~z~My therapist was right. He was totally right about you.",
+            "translated": "~z~心理医生没说错，他对你的评价完全正确。",
+            "desc": ""
+        },
+        {
+            "hash": 2623905575,
+            "original": "~z~Do you want to take me out?",
+            "translated": "~z~你想带我出去转转吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2625324808,
+            "original": "~z~I'm scared that if we see each other this much someone's going to get hurt. In a while, maybe.",
+            "translated": "~z~我担心咱俩见面这么频繁，会有人受伤的。还是过段时间吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2637041667,
+            "original": "~z~Okay Niko, we can go on a date. Come pick me up in the next hour.",
+            "translated": "~z~好的，Niko，我们去约会吧。一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 2654856771,
+            "original": "GCA_ACT_CALL_SLEEP_REPLY",
+            "translated": "GCA_ACT_CALL_SLEEP_REPLY",
+            "desc": ""
+        },
+        {
+            "hash": 2664169628,
+            "original": "~z~Girls like me do not get treated like this by guys like you. Deal with yourself, Niko.",
+            "translated": "~z~我这样的女孩不该被你这种人这般对待。你好好考虑下，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2685897452,
+            "original": "~z~It's Niko. You think you could arrange some money off for me at a shop?",
+            "translated": "~z~我是Niko。你能帮我在店里安排一些优惠吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2751622301,
+            "original": "~z~If you ever want a discount from a clothes shop in Liberty City, call me and I'll arrange it.",
+            "translated": "~z~如果你想在自由城的服装店拿到内部价，打电话找我我来安排。",
+            "desc": ""
+        },
+        {
+            "hash": 2773344580,
+            "original": "GCA_ACT_CALL_DATE_NO_RECENT",
+            "translated": "GCA_ACT_CALL_DATE_NO_RECENT",
+            "desc": ""
+        },
+        {
+            "hash": 2790667045,
+            "original": "GCA_ACT_CALL_DATE_YES",
+            "translated": "GCA_ACT_CALL_DATE_YES",
+            "desc": ""
+        },
+        {
+            "hash": 2800240311,
+            "original": "~z~Okay. I'll make some calls. I can get you a fifty percent off at the major outlets in Liberty City for the rest of the day.",
+            "translated": "~z~好的，我去安排一下。今天一天你都可以在自由城的大商场拿到五折优惠。",
+            "desc": ""
+        },
+        {
+            "hash": 2813558710,
+            "original": "~z~See you soon, Alex.",
+            "translated": "~z~一会儿见，Alex。",
+            "desc": ""
+        },
+        {
+            "hash": 2821163237,
+            "original": "~z~So you're still on the scene, are you?",
+            "translated": "~z~你现在还活着，对吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2838093925,
+            "original": "~z~Niko. I don't want this to get too serious. Maybe we shouldn't see each other this often. Maybe in a while.",
+            "translated": "~z~Niko，我不想让咱俩走得太近。还是不要这么频繁地见面了。改天再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2841015497,
+            "original": "GCA_ACT_GETCALL_DATE",
+            "translated": "GCA_ACT_GETCALL_DATE",
+            "desc": ""
+        },
+        {
+            "hash": 2859367399,
+            "original": "~z~Shit, I would have been better off putting my energy into a block of wood than you.",
+            "translated": "~z~妈的，把心思花在木头上都比花在你身上强。",
+            "desc": ""
+        },
+        {
+            "hash": 2862238042,
+            "original": "GCA_ACT_PAL_CALL_HOSP_CANCEL",
+            "translated": "GCA_ACT_PAL_CALL_HOSP_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 2862428548,
+            "original": "~z~Sorry, Alex, but I kind of have a lot on my plate. But maybe another time.",
+            "translated": "~z~抱歉，Alex，但我现在有点忙。改天再见吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2909319343,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2913211147,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2921493423,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2928306408,
+            "original": "GCA_ACT_GETCALL_HOSP_ASK",
+            "translated": "GCA_ACT_GETCALL_HOSP_ASK",
+            "desc": ""
+        },
+        {
+            "hash": 2945294879,
+            "original": "~z~A relationship is not a one way street, Niko. If you don't start going in both directions you might lose me.",
+            "translated": "~z~谈恋爱不是走独木桥，Niko。没有你来我往可是会失去我的。",
+            "desc": ""
+        },
+        {
+            "hash": 2946741486,
+            "original": "~z~I'll go on a date with you, Niko. Pick me up in the next hour.",
+            "translated": "~z~我愿意和你约会，Niko。一小时内来接我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2952715316,
+            "original": "~z~Good news, Alex. You don't have to worry about slumming it no more. We're done.",
+            "translated": "~z~好消息，Alex。你不用担心跟着我会受苦了，咱俩到头了。",
+            "desc": ""
+        },
+        {
+            "hash": 2999093940,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3007537838,
+            "original": "~z~I can't just go helping anybody out. I'd lose my reputation. Why don't you hang out with me more and then maybe we'll talk?",
+            "translated": "~z~我不能随便帮你，面子会挂不住的。你多陪我出去的话说不定还有得聊。",
+            "desc": ""
+        },
+        {
+            "hash": 3021692091,
+            "original": "~z~Hello Alex.",
+            "translated": "~z~你好，Alex。",
+            "desc": ""
+        },
+        {
+            "hash": 3025244377,
+            "original": "GCA_ACT_GETCALL_REJECT",
+            "translated": "GCA_ACT_GETCALL_REJECT",
+            "desc": ""
+        },
+        {
+            "hash": 3030442536,
+            "original": "~z~I'll sort it, Niko. There'll be a discount for the rest of the day. Promise to buy nice clothes though.",
+            "translated": "~z~包在我身上，Niko。你今天全天都有五折优惠。一定要买件好衣服啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3075314523,
+            "original": "GCA_ACT_PAL_GETCALL_DATE_NO",
+            "translated": "GCA_ACT_PAL_GETCALL_DATE_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3117450677,
+            "original": "GCA_ACT_PAL_CALL_HILIKE",
+            "translated": "GCA_ACT_PAL_CALL_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3128799512,
+            "original": "~z~I wouldn't ask you to do this if it wasn't absolutely necessary.",
+            "translated": "~z~要不是情况紧急，我也不会来麻烦你。",
+            "desc": ""
+        },
+        {
+            "hash": 3138783392,
+            "original": "~z~Sorry Alex but something's come up. I can't get you from the hospital.",
+            "translated": "~z~抱歉，Alex，但我突然有急事，不能来医院接你了。",
+            "desc": ""
+        },
+        {
+            "hash": 3212379172,
+            "original": "~z~I'll give you another chance, Niko. But this better be the best date of my life though. Come collect me in an hour.",
+            "translated": "~z~我再给你一次机会，Niko。但这最好是我这辈子最棒的约会。一小时内来接我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3249380049,
+            "original": "~z~My therapist was right. He was totally right about you.",
+            "translated": "~z~心理医生没说错，他对你的评价完全正确。",
+            "desc": ""
+        },
+        {
+            "hash": 3250686675,
+            "original": "~z~Alex here, Niko.",
+            "translated": "~z~我是Alex，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3258818402,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3267053288,
+            "original": "~z~Fine, Niko. I'll call a cab.",
+            "translated": "~z~好吧，Niko。我自己打的。",
+            "desc": ""
+        },
+        {
+            "hash": 3271062287,
+            "original": "~z~Niko, time to earn some brownie points. Would you pick me up from the hospital?",
+            "translated": "~z~Niko，是时候挣点印象分了。你愿意来医院接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3294874571,
+            "original": "~z~A woman has needs, Niko. If you aren't prepared to meet those needs then she might look elsewhere.",
+            "translated": "~z~女人也有需求，Niko。如果你满足不了需求，她可能会去找其他人。",
+            "desc": ""
+        },
+        {
+            "hash": 3395328114,
+            "original": "~z~I'd like to see you.",
+            "translated": "~z~我很想见你。",
+            "desc": ""
+        },
+        {
+            "hash": 3465827042,
+            "original": "GCA_ACT_CALL_LIKENO_1_AA",
+            "translated": "GCA_ACT_CALL_LIKENO_1_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3477516116,
+            "original": "~z~That's fine, Niko. I'll just meet up with the girls.",
+            "translated": "~z~那好吧，Niko。我和姐妹们出去玩好了。",
+            "desc": ""
+        },
+        {
+            "hash": 3489325415,
+            "original": "~z~Well I'll get someone else to do it, goodbye.",
+            "translated": "~z~那我就找其他人来接我了，再见。",
+            "desc": ""
+        },
+        {
+            "hash": 3492386305,
+            "original": "GCA_ACT_GETCALL_GREET",
+            "translated": "GCA_ACT_GETCALL_GREET",
+            "desc": ""
+        },
+        {
+            "hash": 3498518416,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3519442505,
+            "original": "~z~I'd like to buy some stuff. Can you arrange a discount for me?",
+            "translated": "~z~我想去买点东西。你能安排我一些折扣吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3537320422,
+            "original": "GCA_ACT_GETCALL_ACCEPT",
+            "translated": "GCA_ACT_GETCALL_ACCEPT",
+            "desc": ""
+        },
+        {
+            "hash": 3555934044,
+            "original": "~z~From now on I am only dating Americans.",
+            "translated": "~z~从现在起我只约美国人了。",
+            "desc": ""
+        },
+        {
+            "hash": 3556212117,
+            "original": "~z~Sure, I'll let you take me out. Come pick me up in the next hour.",
+            "translated": "~z~好啊，带我出去玩吧。一小时内过来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 3565032919,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3565756151,
+            "original": "~z~Sorry Alex. I got more important things to be doing.",
+            "translated": "~z~抱歉，Alex。我有更重要的事要忙。",
+            "desc": ""
+        },
+        {
+            "hash": 3566258725,
+            "original": "~z~Alright, Niko. Treat me like this then.",
+            "translated": "~z~好吧，Niko。你就这样对我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3583154477,
+            "original": "~z~Okay, I'll come and pick you up in the next hour.",
+            "translated": "~z~好的，我在一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 3599930244,
+            "original": "~z~I feel like you should take me out on a date.",
+            "translated": "~z~你可以带我出去约个会。",
+            "desc": ""
+        },
+        {
+            "hash": 3606967659,
+            "original": "GCA_ACT_GETCALL_REJECT_IRATE",
+            "translated": "GCA_ACT_GETCALL_REJECT_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 3616737146,
+            "original": "GCA_ACT_CALL_REQ_SPEC_NO",
+            "translated": "GCA_ACT_CALL_REQ_SPEC_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3634967724,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3650209658,
+            "original": "GCA_CBRKUP",
+            "translated": "GCA_CBRKUP",
+            "desc": ""
+        },
+        {
+            "hash": 3657402423,
+            "original": "~z~There's mysterious and then there's a little too fucking mysterious Mr. European.",
+            "translated": "~z~在神秘的一天遇上了更神秘的欧洲猛男。",
+            "desc": ""
+        },
+        {
+            "hash": 3697541672,
+            "original": "~z~Niko, I am an intellectual, beautiful, and interesting woman. I do not need to see a man who treats me like you do.",
+            "translated": "~z~Niko，我是一个聪明美丽又有趣的女人。没必要和一个像你这样对我的男人见面。",
+            "desc": ""
+        },
+        {
+            "hash": 3704532521,
+            "original": "~z~Hey Alex.",
+            "translated": "~z~嘿，Alex。",
+            "desc": ""
+        },
+        {
+            "hash": 3717024737,
+            "original": "~z~Okay, Niko. I've got a blog to write anyway.",
+            "translated": "~z~行吧，Niko，正好我还有篇博客要写。",
+            "desc": ""
+        },
+        {
+            "hash": 3727584427,
+            "original": "~z~I'll come collect you then.",
+            "translated": "~z~那我马上来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 3730070349,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3760880650,
+            "original": "GCA_ACT_PAL_CALL_DATE_CANCEL",
+            "translated": "GCA_ACT_PAL_CALL_DATE_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 3768852406,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3782917916,
+            "original": "~z~Sorry, Niko. No can do now. Maybe if you paid me more attention I'd be able to help you out.",
+            "translated": "~z~抱歉，Niko。现在不行。如果你给我更多的关注，我可能会帮你。",
+            "desc": ""
+        },
+        {
+            "hash": 3792515871,
+            "original": "~z~The mystery man returns. I did not think I'd be hearing from you again.",
+            "translated": "~z~神秘人终于回归了。没想到我还会接到你的电话。",
+            "desc": ""
+        },
+        {
+            "hash": 3830757041,
+            "original": "~z~Sure, I can be at your place in the next hour.",
+            "translated": "~z~好的，我一小时内就到你家。",
+            "desc": ""
+        },
+        {
+            "hash": 3859506095,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3861897545,
+            "original": "GCA_ACT_PAL_CALL_SLEEPING",
+            "translated": "GCA_ACT_PAL_CALL_SLEEPING",
+            "desc": ""
+        },
+        {
+            "hash": 3871949687,
+            "original": "~z~Alex, you're a socialite. Surely you know someone else who'll come pick you up.",
+            "translated": "~z~Alex，你可是个社交名媛。总有其他认识的人能来接你吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3872215051,
+            "original": "GCA_ACT_PAL_CALL_GREET",
+            "translated": "GCA_ACT_PAL_CALL_GREET",
+            "desc": ""
+        },
+        {
+            "hash": 3872550568,
+            "original": "~z~I'm not used to taking rejection, Niko. Goodbye.",
+            "translated": "~z~我不习惯被人拒绝，Niko。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 3873562123,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3874378125,
+            "original": "~z~You want to go on a date?",
+            "translated": "~z~想约个会吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3926151380,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3955836460,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3963422908,
+            "original": "~z~Sure, wait for me.",
+            "translated": "~z~好的，等着我。",
+            "desc": ""
+        },
+        {
+            "hash": 4019616624,
+            "original": "GCA_ACT_PAL_GETCALL_DATE_YES",
+            "translated": "GCA_ACT_PAL_GETCALL_DATE_YES",
+            "desc": ""
+        },
+        {
+            "hash": 4045539735,
+            "original": "GCA_ACT_PAL_GETCALL_HOSP_YES",
+            "translated": "GCA_ACT_PAL_GETCALL_HOSP_YES",
+            "desc": ""
+        },
+        {
+            "hash": 4088861813,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4113534603,
+            "original": "GCA_ACT_PAL_CALL_REQ_SPEC",
+            "translated": "GCA_ACT_PAL_CALL_REQ_SPEC",
+            "desc": ""
+        },
+        {
+            "hash": 4118259911,
+            "original": "GCA_ACT_GETCALL_HOSP_ACCEPT",
+            "translated": "GCA_ACT_GETCALL_HOSP_ACCEPT",
+            "desc": ""
+        },
+        {
+            "hash": 4179939867,
+            "original": "GCA_ACT_GETCALL_SPEC_AB",
+            "translated": "GCA_ACT_GETCALL_SPEC_AB",
+            "desc": ""
+        },
+        {
+            "hash": 4203782418,
+            "original": "GCA_ACT_CALL_HOSP_CANCEL_HILIKE",
+            "translated": "GCA_ACT_CALL_HOSP_CANCEL_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 4227896591,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4246437351,
+            "original": "~z~It'd be good to do something with you.",
+            "translated": "~z~我想带你出去约会。",
+            "desc": ""
+        }
+    ]
+}

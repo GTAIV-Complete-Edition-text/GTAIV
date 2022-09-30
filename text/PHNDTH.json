@@ -1,0 +1,202 @@
+{
+    "PHNDTH": [
+        {
+            "hash": 246004160,
+            "original": "Get out of there and lose the wanted level.",
+            "translated": "离开这个区域并摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 442195823,
+            "original": "~s~Detonate the bomb.",
+            "translated": "~s~引爆炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 475845926,
+            "original": "Clear away any vehicles parked behind the Ancelottis' car before planting the bomb.",
+            "translated": "放置炸弹前，清除停在Ancelotti家族的车后面的所有汽车。",
+            "desc": ""
+        },
+        {
+            "hash": 587299870,
+            "original": "You already have a bomb, get to the Ancelottis' ~b~car~s~ and rig it with the bomb.",
+            "translated": "你手头有一个炸弹，去给~b~Ancelotti家族的车~s~装上炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 706179227,
+            "original": "Don't get too close or the Ancelottis will spot you.",
+            "translated": "不要跟得太紧，否则Ancelotti家族的人会发现你。",
+            "desc": ""
+        },
+        {
+            "hash": 974003164,
+            "original": "Call Gerry to detonate the bomb.",
+            "translated": "打电话给Gerry引爆炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 1331119726,
+            "original": "You have found the car that needs to be rigged with the bomb.",
+            "translated": "你找到了需要安装炸弹的汽车。",
+            "desc": ""
+        },
+        {
+            "hash": 1425557916,
+            "original": "Pick up the ~g~bomb~s~ on Inchon Ave.",
+            "translated": "去Inchon大道拿~g~炸弹。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1445269764,
+            "original": "Use the phone to call Gerry.",
+            "translated": "使用手机打给Gerry。",
+            "desc": ""
+        },
+        {
+            "hash": 1705175793,
+            "original": "~R~The wrong car was rigged with the bomb.~s~",
+            "translated": "~R~炸弹装在了错误的车上。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1991578921,
+            "original": "~r~You failed to follow the Ancelottis to the meeting.~s~",
+            "translated": "~r~你没能跟着Ancelotti家族的人找到会议地点。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2137923207,
+            "original": "Put the bomb in the trunk of the ~b~car.",
+            "translated": "把炸弹装到~b~汽车~s~的后备箱下。",
+            "desc": ""
+        },
+        {
+            "hash": 2219487316,
+            "original": "~R~You failed to detonate the bomb.",
+            "translated": "~R~你没能引爆炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 2329263442,
+            "original": "Go to the Ancelottis' ~b~car~s~ and rig it with the bomb.",
+            "translated": "找到~b~Ancelotti家族的车，~s~给它装上炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 2370288186,
+            "original": "Lose your wanted level and then rig the car with bomb.",
+            "translated": "摆脱通缉，然后在汽车上安装炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 2593774834,
+            "original": "Go to a ~y~safe point~s~ and detonate the bomb.",
+            "translated": "去~y~安全的地方~s~引爆炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 2645383113,
+            "original": "Press ~INPUT_PICKUP~ to rig the car.",
+            "translated": "按~INPUT_PICKUP~安装炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 2702696922,
+            "original": "~R~You let the driver escape before killing him.~s~",
+            "translated": "~R~你没能杀死司机，被他逃了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2820675873,
+            "original": "Lose your wanted level before the Ancelottis leave for the meeting.",
+            "translated": "在Ancelotti家族的人前往据点前摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 2856186090,
+            "original": "Get a car before the Ancelottis leave for the meeting.",
+            "translated": "在Ancelotti家族的人前往据点前找到一辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 2883092335,
+            "original": "Take out the remaining ~r~Ancelottis.",
+            "translated": "干掉余下~r~Ancelotti家族成员。",
+            "desc": ""
+        },
+        {
+            "hash": 2902852806,
+            "original": "Go to the back of the Ancelottis' ~b~car~s~ to rig it with the bomb.",
+            "translated": "到~b~Ancelotti家族的车~s~的后方给它装上炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 3068792190,
+            "original": "~R~The bomb was destroyed.~s~",
+            "translated": "~R~炸弹被摧毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3105427104,
+            "original": "Follow the ~r~Ancelottis~s~. Don't let them know you're following them.",
+            "translated": "尾随~r~Ancelotti家族的人。~s~别让他们发现你在跟踪他们。",
+            "desc": ""
+        },
+        {
+            "hash": 3135217785,
+            "original": "Lose your wanted level before rigging the car.",
+            "translated": "在安装炸弹前摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 3296045205,
+            "original": "~s~You better back off, don't spook the ~r~Ancelottis.",
+            "translated": "~s~你最好退后些，不要惊动~r~Ancelotti家族的人。",
+            "desc": ""
+        },
+        {
+            "hash": 3321931887,
+            "original": "Get a vehicle and move ~y~away~s~ from the rigged car.",
+            "translated": "找一辆车，并~y~远离~s~被安装炸弹的汽车。",
+            "desc": ""
+        },
+        {
+            "hash": 3653787210,
+            "original": "Select 'Detonate' to explode the bomb.",
+            "translated": "选择「引爆」来引爆炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 3663516771,
+            "original": "Get closer to the ~r~Ancelottis.",
+            "translated": "跟紧~r~Ancelotti家族的人。",
+            "desc": ""
+        },
+        {
+            "hash": 3815990100,
+            "original": "~r~You damaged the Ancelottis' car, the meeting is cancelled.",
+            "translated": "~r~你损坏了Ancelotti家族的车，会面取消了。",
+            "desc": ""
+        },
+        {
+            "hash": 3927012300,
+            "original": "~R~The Ancelottis got away.",
+            "translated": "~R~Ancelotti家族的人逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 4277672541,
+            "original": "~r~The Ancelottis discovered the bomb.",
+            "translated": "~r~Ancelotti家族的人发现了炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 4291796808,
+            "original": "~R~You spooked the Ancelottis, the meeting has been abandoned.",
+            "translated": "~R~你惊动了Ancelotti家族的人，会议被取消了。",
+            "desc": ""
+        }
+    ]
+}

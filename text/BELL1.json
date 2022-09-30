@@ -1,0 +1,16 @@
+{
+    "BELL1": [
+        {
+            "hash": 128717467,
+            "original": "~s~Go to the Target's ~y~Safe House.",
+            "translated": "~s~前往目标的~y~安全屋。",
+            "desc": ""
+        },
+        {
+            "hash": 1071383326,
+            "original": "~s~Kill the ~r~target~s~.",
+            "translated": "~s~杀死~r~目标。",
+            "desc": ""
+        }
+    ]
+}

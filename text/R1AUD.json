@@ -1,0 +1,1720 @@
+{
+    "R1AUD": [
+        {
+            "hash": 52721593,
+            "original": "R1_BV_XXX1",
+            "translated": "R1_BV_XXX1",
+            "desc": ""
+        },
+        {
+            "hash": 58465318,
+            "original": "~z~You ever been?",
+            "translated": "~z~你来过吗？",
+            "desc": ""
+        },
+        {
+            "hash": 76991425,
+            "original": "~z~Daddy's back, you bitches...",
+            "translated": "~z~老子的背，婊子们...",
+            "desc": ""
+        },
+        {
+            "hash": 85505024,
+            "original": "~z~-Welcome to America! ~n~~c~-Good to see you, cousin.~s~",
+            "translated": "~z~－欢迎来到美国！~n~~c~－很高兴见到你，堂兄。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 85846133,
+            "original": "~z~Mansions in Berchem,",
+            "translated": "~z~Berchem的豪宅，",
+            "desc": ""
+        },
+        {
+            "hash": 96805048,
+            "original": "~z~Yeah.",
+            "translated": "~z~对。",
+            "desc": ""
+        },
+        {
+            "hash": 102972276,
+            "original": "R1_BL",
+            "translated": "R1_BL",
+            "desc": ""
+        },
+        {
+            "hash": 106621979,
+            "original": "R1_BC",
+            "translated": "R1_BC",
+            "desc": ""
+        },
+        {
+            "hash": 113588918,
+            "original": "SFX_PAUSE_4000",
+            "translated": "SFX_PAUSE_4000",
+            "desc": ""
+        },
+        {
+            "hash": 123220754,
+            "original": "~z~every possible choice.",
+            "translated": "~z~应有尽有。",
+            "desc": ""
+        },
+        {
+            "hash": 142907001,
+            "original": "~z~Fucking terrorists.",
+            "translated": "~z~有操蛋的恐怖分子。",
+            "desc": ""
+        },
+        {
+            "hash": 155221169,
+            "original": "~z~Ah ignore him. Come on we got to get this thing ready before we dock. Let's go.",
+            "translated": "~z~别管他了。赶紧的，我们得在靠岸前把东西准备好。走了。",
+            "desc": ""
+        },
+        {
+            "hash": 155327030,
+            "original": "R1_BN_XXX2",
+            "translated": "R1_BN_XXX2",
+            "desc": ""
+        },
+        {
+            "hash": 158465329,
+            "original": "~z~you ever had two women at once?",
+            "translated": "~z~你有没有一次上过两个女人？",
+            "desc": ""
+        },
+        {
+            "hash": 165040711,
+            "original": "R1_BL",
+            "translated": "R1_BL",
+            "desc": ""
+        },
+        {
+            "hash": 183765739,
+            "original": "~z~Another time.",
+            "translated": "~z~以后再说。",
+            "desc": ""
+        },
+        {
+            "hash": 195723798,
+            "original": "~z~Our country has women too.",
+            "translated": "~z~我们的祖国也有女人。",
+            "desc": ""
+        },
+        {
+            "hash": 208354624,
+            "original": "R1_BB",
+            "translated": "R1_BB",
+            "desc": ""
+        },
+        {
+            "hash": 209388355,
+            "original": "~z~it's been too long...",
+            "translated": "~z~已经很久了...",
+            "desc": ""
+        },
+        {
+            "hash": 210072137,
+            "original": "~z~We are passing the cab office, Niko. This is the business that will take us to the top of the pile.",
+            "translated": "~z~我们刚开过出租车行，Niko。这就是能让我们跻身上流的事业。",
+            "desc": ""
+        },
+        {
+            "hash": 211456375,
+            "original": "R1_BF_XXX2",
+            "translated": "R1_BF_XXX2",
+            "desc": ""
+        },
+        {
+            "hash": 223316610,
+            "original": "~z~Oh, damn... damn, damn, damn!",
+            "translated": "~z~噢，我靠...靠，靠，靠！",
+            "desc": ""
+        },
+        {
+            "hash": 230028112,
+            "original": "~z~I always wanted to make it big... own a nice place, get a dog, a house...",
+            "translated": "~z~我一直想有所成就...有个好去处，养条狗，买栋房...",
+            "desc": ""
+        },
+        {
+            "hash": 254860405,
+            "original": "~z~My cousin is here!",
+            "translated": "~z~我的堂弟来了！",
+            "desc": ""
+        },
+        {
+            "hash": 260445643,
+            "original": "~z~War is where the young and stupid are tricked by the old and bitter into killing each other.",
+            "translated": "~z~战争就是年轻无知者被一群老狐狸骗到一起自相残杀。",
+            "desc": ""
+        },
+        {
+            "hash": 299329426,
+            "original": "~z~-Just take over the world someplace else, alright?~n~-Yeah, buddy!",
+            "translated": "~z~－麻烦换个地方去统治天下好吧？~n~－就是！",
+            "desc": ""
+        },
+        {
+            "hash": 312940645,
+            "original": "~z~all I hear about is Mr. Big, Mr. Roman, living the American dream.",
+            "translated": "~z~我读到的都是大腕先生，Roman先生，活在美国梦里。",
+            "desc": ""
+        },
+        {
+            "hash": 324338915,
+            "original": "~z~penthouse in Algonquin...",
+            "translated": "~z~Algonquin的顶楼公寓...",
+            "desc": ""
+        },
+        {
+            "hash": 334056500,
+            "original": "~z~The city is like a big Uder Milken Ice Cream shop: thirty-six flavors of titty.",
+            "translated": "~z~这座城市就像一家大Uder Milken冰淇淋店：36种奶昔俱全。",
+            "desc": ""
+        },
+        {
+            "hash": 381825780,
+            "original": "~z~Why don't you show me around the city?",
+            "translated": "~z~你怎么不带我去城里转转？",
+            "desc": ""
+        },
+        {
+            "hash": 394081382,
+            "original": "~z~What?",
+            "translated": "~z~啥？",
+            "desc": ""
+        },
+        {
+            "hash": 441589885,
+            "original": "R1_BG",
+            "translated": "R1_BG",
+            "desc": ""
+        },
+        {
+            "hash": 449908468,
+            "original": "~z~The mansion is coming, cousin. That's the dream... follow me.",
+            "translated": "~z~会有豪宅的，堂弟。梦想是这样的...跟我来。",
+            "desc": ""
+        },
+        {
+            "hash": 454740955,
+            "original": "SFX_PAUSE_1000",
+            "translated": "SFX_PAUSE_1000",
+            "desc": ""
+        },
+        {
+            "hash": 461172285,
+            "original": "R1_BR",
+            "translated": "R1_BR",
+            "desc": ""
+        },
+        {
+            "hash": 480651567,
+            "original": "~z~Niko. Give me a hug. Good to have you here cousin... I've got something for you.",
+            "translated": "~z~Niko，抱一个。堂弟你来了真好...我给你准备了点东西。",
+            "desc": ""
+        },
+        {
+            "hash": 489133332,
+            "original": "~z~Immigrants here do not make it very far from the boats they come in on.",
+            "translated": "~z~移民们在这和在他们来的船上没什么区别。",
+            "desc": ""
+        },
+        {
+            "hash": 490451254,
+            "original": "~z~I was very young, and very angry.",
+            "translated": "~z~当时我还很年轻，很愤慨。",
+            "desc": ""
+        },
+        {
+            "hash": 497893252,
+            "original": "R1_BO",
+            "translated": "R1_BO",
+            "desc": ""
+        },
+        {
+            "hash": 501491337,
+            "original": "~z~Yes, but only locals.",
+            "translated": "~z~对，不过只有当地人。",
+            "desc": ""
+        },
+        {
+            "hash": 515483584,
+            "original": "~z~you should have come out earlier.",
+            "translated": "~z~你早就该出来混了。",
+            "desc": ""
+        },
+        {
+            "hash": 558970297,
+            "original": "~z~Sports cars, condos, women, money, the beach...",
+            "translated": "~z~跑车，公寓，女人，金钱，沙滩...",
+            "desc": ""
+        },
+        {
+            "hash": 579122533,
+            "original": "R1_BU_XXX2",
+            "translated": "R1_BU_XXX2",
+            "desc": ""
+        },
+        {
+            "hash": 620089175,
+            "original": "~z~You, without a visa,",
+            "translated": "~z~你没有签证，",
+            "desc": ""
+        },
+        {
+            "hash": 630636592,
+            "original": "~z~What do you mean no?",
+            "translated": "~z~没有是什么意思？",
+            "desc": ""
+        },
+        {
+            "hash": 644530527,
+            "original": "R1_BG",
+            "translated": "R1_BG",
+            "desc": ""
+        },
+        {
+            "hash": 645354356,
+            "original": "R1_BN_XXX1",
+            "translated": "R1_BN_XXX1",
+            "desc": ""
+        },
+        {
+            "hash": 674415484,
+            "original": "~z~What you talking about?",
+            "translated": "~z~你在说什么呢？",
+            "desc": ""
+        },
+        {
+            "hash": 690149655,
+            "original": "~z~Oh... shit... oh, that's not nice...",
+            "translated": "~z~噢...靠...噢，这可不太好...",
+            "desc": ""
+        },
+        {
+            "hash": 690793387,
+            "original": "~z~... and here we are, at my place. Pull up.",
+            "translated": "~z~...我们到了，我家。停车吧。",
+            "desc": ""
+        },
+        {
+            "hash": 697530248,
+            "original": "~z~Hove Beach is our little corner of Eastern Europe.",
+            "translated": "~z~Hove Beach就是我们东欧的一块小地盘。",
+            "desc": ""
+        },
+        {
+            "hash": 705449870,
+            "original": "R1_BH_XXX2",
+            "translated": "R1_BH_XXX2",
+            "desc": ""
+        },
+        {
+            "hash": 705776140,
+            "original": "R1_BX",
+            "translated": "R1_BX",
+            "desc": ""
+        },
+        {
+            "hash": 742654546,
+            "original": "~z~Maybe a little. I've been here 10 years! You can speak English.",
+            "translated": "~z~是有点忘了。我都来这十年了！你倒会讲英语啊。",
+            "desc": ""
+        },
+        {
+            "hash": 769920037,
+            "original": "R1_BK",
+            "translated": "R1_BK",
+            "desc": ""
+        },
+        {
+            "hash": 790433719,
+            "original": "R1_BJ",
+            "translated": "R1_BJ",
+            "desc": ""
+        },
+        {
+            "hash": 811726280,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 816599355,
+            "original": "~z~Please don't cut my cock off, eh?",
+            "translated": "~z~求你别把我的鸡儿给切了，诶？",
+            "desc": ""
+        },
+        {
+            "hash": 836353656,
+            "original": "~z~No, everyone seems happy where they are.",
+            "translated": "~z~不，所有人都对自己的境地心满意足。",
+            "desc": ""
+        },
+        {
+            "hash": 842178024,
+            "original": "R1_BT",
+            "translated": "R1_BT",
+            "desc": ""
+        },
+        {
+            "hash": 842820068,
+            "original": "~z~Terrorists. There's been a big scare and you can't go across the bridges so good.",
+            "translated": "~z~恐怖分子。他们引起了很大的恐慌，搞得现在不能过桥。",
+            "desc": ""
+        },
+        {
+            "hash": 843435736,
+            "original": "~z~~c~I can't prove that I have.",
+            "translated": "~z~~c~我不能证明我有过。",
+            "desc": ""
+        },
+        {
+            "hash": 862530798,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 879851780,
+            "original": "100010100100",
+            "translated": "100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 941974861,
+            "original": "~z~No, I never tell you anything.",
+            "translated": "~z~没有，我什么都没跟你说过。",
+            "desc": ""
+        },
+        {
+            "hash": 999858427,
+            "original": "~z~-Niko! My cousin! I can't believe it! You're here!~n~-Hey!",
+            "translated": "~z~－Niko！我的堂弟！难以置信！你来啦！~n~－嘿！",
+            "desc": ""
+        },
+        {
+            "hash": 1002274380,
+            "original": "~z~Got him! Little bastard. If he paid some rent I wouldn't care...",
+            "translated": "~z~踩着了！小混蛋。他要是付了房租我也不会去管...",
+            "desc": ""
+        },
+        {
+            "hash": 1086029368,
+            "original": "R1_BI_XXX1",
+            "translated": "R1_BI_XXX1",
+            "desc": ""
+        },
+        {
+            "hash": 1111322311,
+            "original": "~z~Cousin,",
+            "translated": "~z~堂弟，",
+            "desc": ""
+        },
+        {
+            "hash": 1115752199,
+            "original": "~z~Niko, you ever had two women at once?",
+            "translated": "~z~Niko，你有没有一次上过两个女人？",
+            "desc": ""
+        },
+        {
+            "hash": 1123677654,
+            "original": "~z~Yes, Vlad, sorry, forgive me, okay, no... no.",
+            "translated": "~z~好的，Vlad，抱歉，对不起，好的，不...别。",
+            "desc": ""
+        },
+        {
+            "hash": 1154874562,
+            "original": "~z~In your letters to my mother, in your letters to me...",
+            "translated": "~z~在你写给我母亲的信里，在你写给我的信里...",
+            "desc": ""
+        },
+        {
+            "hash": 1156800974,
+            "original": "~z~Yes - he's got the lot - house, women, cars, parties...",
+            "translated": "~z~是的，他都有了，房子、女人、车子、派对...",
+            "desc": ""
+        },
+        {
+            "hash": 1172598305,
+            "original": "SFX_PAUSE_1000",
+            "translated": "SFX_PAUSE_1000",
+            "desc": ""
+        },
+        {
+            "hash": 1179478743,
+            "original": "~z~a model on each arm -",
+            "translated": "~z~美女左拥右抱——",
+            "desc": ""
+        },
+        {
+            "hash": 1187336529,
+            "original": "~z~Yes, the mansion! Whoa.",
+            "translated": "~z~对了，豪宅！喔哦。",
+            "desc": ""
+        },
+        {
+            "hash": 1243154248,
+            "original": "~z~So, you full of crap, or what?",
+            "translated": "~z~所以说，你是满嘴胡话，还是咋地？",
+            "desc": ""
+        },
+        {
+            "hash": 1249378224,
+            "original": "~z~Think of all the girls you've been missing out on!",
+            "translated": "~z~想想你都错过了多少妹子！",
+            "desc": ""
+        },
+        {
+            "hash": 1262514525,
+            "original": "R1_BC",
+            "translated": "R1_BC",
+            "desc": ""
+        },
+        {
+            "hash": 1262754930,
+            "original": "R1_BT",
+            "translated": "R1_BT",
+            "desc": ""
+        },
+        {
+            "hash": 1266630098,
+            "original": "R1_BH",
+            "translated": "R1_BH",
+            "desc": ""
+        },
+        {
+            "hash": 1273073253,
+            "original": "~z~It was before that, two things.",
+            "translated": "~z~是在那之前的，两回事。",
+            "desc": ""
+        },
+        {
+            "hash": 1280697509,
+            "original": "~z~Drive us to our place on Mohawk, it's just up the road. I'll let you know when we're there.",
+            "translated": "~z~去我在Mohawk的住处，顺着路开就是。到了我会跟你说的。",
+            "desc": ""
+        },
+        {
+            "hash": 1281395675,
+            "original": "~z~Where's luxury condo? Where's sports car?",
+            "translated": "~z~你的豪华公寓呢？你的跑车呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1303250187,
+            "original": "R1_BV_XXX2",
+            "translated": "R1_BV_XXX2",
+            "desc": ""
+        },
+        {
+            "hash": 1308340284,
+            "original": "SFX_PAUSE_1000",
+            "translated": "SFX_PAUSE_1000",
+            "desc": ""
+        },
+        {
+            "hash": 1316565535,
+            "original": "~z~I might come back on board... or I might try to make a go of it.",
+            "translated": "~z~我可能会回船上...或者去闯一闯。",
+            "desc": ""
+        },
+        {
+            "hash": 1324087081,
+            "original": "~z~This is the mansion?",
+            "translated": "~z~这就是豪宅？",
+            "desc": ""
+        },
+        {
+            "hash": 1335333777,
+            "original": "~z~But what about you? What about you, cousin?",
+            "translated": "~z~那你呢？你又怎么样，堂弟？",
+            "desc": ""
+        },
+        {
+            "hash": 1343440508,
+            "original": "R1_BO",
+            "translated": "R1_BO",
+            "desc": ""
+        },
+        {
+            "hash": 1354934927,
+            "original": "SFX_PAUSE_1000",
+            "translated": "SFX_PAUSE_1000",
+            "desc": ""
+        },
+        {
+            "hash": 1356440504,
+            "original": "~z~Four big titties to be playing with?",
+            "translated": "~z~四个大奶任你摸？",
+            "desc": ""
+        },
+        {
+            "hash": 1356827779,
+            "original": "~z~The city is like a big Uder Milken Ice Cream shop: thirty-six flavors of titty.",
+            "translated": "~z~这座城市就像一家大Uder Milken冰淇淋店：36种奶昔俱全。",
+            "desc": ""
+        },
+        {
+            "hash": 1370784157,
+            "original": "~z~me and my cousin Niko, rulers of the world!",
+            "translated": "~z~我和我的堂弟Niko，世界的统治者！",
+            "desc": ""
+        },
+        {
+            "hash": 1380620723,
+            "original": "~z~What? What about me?",
+            "translated": "~z~什么？什么我怎么样？",
+            "desc": ""
+        },
+        {
+            "hash": 1397870393,
+            "original": "R1_BQ",
+            "translated": "R1_BQ",
+            "desc": ""
+        },
+        {
+            "hash": 1425203848,
+            "original": "R1_BS",
+            "translated": "R1_BS",
+            "desc": ""
+        },
+        {
+            "hash": 1457038031,
+            "original": "~z~Well...",
+            "translated": "~z~比如说...",
+            "desc": ""
+        },
+        {
+            "hash": 1460576567,
+            "original": "~z~Where's Barbara with big titties and Stephanie who sucks like a vacuum?",
+            "translated": "~z~奶子巨大的Barbara和口力十足的Stephanie哪去了？",
+            "desc": ""
+        },
+        {
+            "hash": 1460898051,
+            "original": "~z~Is just temporary for us though.",
+            "translated": "~z~对我们那就只是暂时的。",
+            "desc": ""
+        },
+        {
+            "hash": 1491158767,
+            "original": "~z~Whooh yeah! There she is... Liberty City.",
+            "translated": "~z~太好了！终于到了...自由城。",
+            "desc": ""
+        },
+        {
+            "hash": 1494480366,
+            "original": "~z~Maybe you should drive...",
+            "translated": "~z~还是你开车吧...",
+            "desc": ""
+        },
+        {
+            "hash": 1500915554,
+            "original": "~z~Yeah, this I know. Asshole.",
+            "translated": "~z~是，我知道。混账。",
+            "desc": ""
+        },
+        {
+            "hash": 1513698907,
+            "original": "R1_BQ_XXX1",
+            "translated": "R1_BQ_XXX1",
+            "desc": ""
+        },
+        {
+            "hash": 1539087585,
+            "original": "~z~I thought we were a team? ~c~Come back Niko.",
+            "translated": "~z~我们应该一起行动吧？~c~回来Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1540767857,
+            "original": "R1_BM_XXX1",
+            "translated": "R1_BM_XXX1",
+            "desc": ""
+        },
+        {
+            "hash": 1550200686,
+            "original": "~z~You remember, during the war...",
+            "translated": "~z~你记得吗，战争期间...",
+            "desc": ""
+        },
+        {
+            "hash": 1561386626,
+            "original": "~z~Here we have white, black,",
+            "translated": "~z~我们这有白的，黑的，",
+            "desc": ""
+        },
+        {
+            "hash": 1589704804,
+            "original": "R1_BU",
+            "translated": "R1_BU",
+            "desc": ""
+        },
+        {
+            "hash": 1606253608,
+            "original": "R1_BJ",
+            "translated": "R1_BJ",
+            "desc": ""
+        },
+        {
+            "hash": 1632353635,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1663633944,
+            "original": "~z~-Maybe I should.~n~-Okay!",
+            "translated": "~z~－我来开吧。~n~－好嘞！",
+            "desc": ""
+        },
+        {
+            "hash": 1665736309,
+            "original": "~z~so I, uh, did some dumb things and got involved with some idiots...",
+            "translated": "~z~于是我，呃，做了些蠢事还遇上了些蠢货...",
+            "desc": ""
+        },
+        {
+            "hash": 1700118285,
+            "original": "~z~Now, maybe I have this.",
+            "translated": "~z~现在我可能有了。",
+            "desc": ""
+        },
+        {
+            "hash": 1715195516,
+            "original": "~z~~c~I thought I had died and gone to Heaven, man.",
+            "translated": "~z~~c~我都觉得自己要爽上西天了，老弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1723954534,
+            "original": "R1_BI",
+            "translated": "R1_BI",
+            "desc": ""
+        },
+        {
+            "hash": 1723972993,
+            "original": "~z~Oh, okay, bye... yes, no, uh, okay.",
+            "translated": "~z~噢，好的，再见...对，没有，呃，好的。",
+            "desc": ""
+        },
+        {
+            "hash": 1733179836,
+            "original": "~z~Cousin, it's been too long... you should have come out earlier.",
+            "translated": "~z~堂弟，已经很久了...你早就该出来混了。",
+            "desc": ""
+        },
+        {
+            "hash": 1754168638,
+            "original": "R1_BQ_XXX2",
+            "translated": "R1_BQ_XXX2",
+            "desc": ""
+        },
+        {
+            "hash": 1763532516,
+            "original": "R1_BS_XXX1",
+            "translated": "R1_BS_XXX1",
+            "desc": ""
+        },
+        {
+            "hash": 1767454746,
+            "original": "~z~I need to show you our place,~c~ come back Niko.",
+            "translated": "~z~我还要带你参观新家呢，~c~快回来Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1777270183,
+            "original": "~z~Hey...",
+            "translated": "~z~喂...",
+            "desc": ""
+        },
+        {
+            "hash": 1781754259,
+            "original": "~z~There.",
+            "translated": "~z~给。",
+            "desc": ""
+        },
+        {
+            "hash": 1789709307,
+            "original": "~z~we did some bad things and bad things happened to us.",
+            "translated": "~z~我们做了些坏事，然后坏事找上了我们。",
+            "desc": ""
+        },
+        {
+            "hash": 1791571654,
+            "original": "SFX_PAUSE_1000",
+            "translated": "SFX_PAUSE_1000",
+            "desc": ""
+        },
+        {
+            "hash": 1791934273,
+            "original": "~z~people leave home to hang around the people they ran away from,~c~ very odd.",
+            "translated": "~z~人们背井离乡，和他们先前逃避的人处在一块，~c~很奇怪。",
+            "desc": ""
+        },
+        {
+            "hash": 1796110973,
+            "original": "~z~the Puerto Ricans and the Asians, Europeans on vacation...",
+            "translated": "~z~波多黎各的，亚洲的，从欧洲来度假的...",
+            "desc": ""
+        },
+        {
+            "hash": 1833715036,
+            "original": "~z~Here we have white, black, the Puerto Ricans and the Asians, Europeans on vacation...",
+            "translated": "~z~我们这有白的，黑的，波多黎各的，亚洲的，从欧洲来度假的...",
+            "desc": ""
+        },
+        {
+            "hash": 1836047592,
+            "original": "~z~What?",
+            "translated": "~z~啥？",
+            "desc": ""
+        },
+        {
+            "hash": 1841640305,
+            "original": "~z~Like they say, it is the land of opportunity.",
+            "translated": "~z~如他们所说，这是机遇之地。",
+            "desc": ""
+        },
+        {
+            "hash": 1924022328,
+            "original": "~z~It reminds them of the Black Sea or something -",
+            "translated": "~z~让他们想起了黑海之类的——",
+            "desc": ""
+        },
+        {
+            "hash": 1926892112,
+            "original": "~z~Yes, but only locals.",
+            "translated": "~z~对，不过只有当地人。",
+            "desc": ""
+        },
+        {
+            "hash": 1937548555,
+            "original": "~z~So good to see you cousin.",
+            "translated": "~z~见到你真好，堂弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1964495827,
+            "original": "~z~No, everyone seems happy where they are. It reminds them of the Black Sea or something -",
+            "translated": "~z~不，所有人都对自己的境地心满意足。让他们想起了黑海之类的——",
+            "desc": ""
+        },
+        {
+            "hash": 1969139331,
+            "original": "~z~Okay. Hey is this a cab? Where's the sports car?",
+            "translated": "~z~好嘞。我说这是辆出租吧？跑车哪去了？",
+            "desc": ""
+        },
+        {
+            "hash": 1998148506,
+            "original": "~z~Where you going, cousin?~c~ Niko don't be a dick.",
+            "translated": "~z~你要去哪，堂弟？~c~Niko，别这么混球。",
+            "desc": ""
+        },
+        {
+            "hash": 2036408172,
+            "original": "~z~~c~ And stop with this weird behavior of yours.",
+            "translated": "~z~~c~别表演迷惑行为了。",
+            "desc": ""
+        },
+        {
+            "hash": 2053755699,
+            "original": "R1_BD",
+            "translated": "R1_BD",
+            "desc": ""
+        },
+        {
+            "hash": 2072144410,
+            "original": "~z~So...",
+            "translated": "~z~所以...",
+            "desc": ""
+        },
+        {
+            "hash": 2076670359,
+            "original": "~z~Terrorists. There's been a big scare and you can't go across the bridges so good.",
+            "translated": "~z~恐怖分子。他们引起了很大的恐慌，搞得现在不能过桥。",
+            "desc": ""
+        },
+        {
+            "hash": 2077997230,
+            "original": "R1_DA",
+            "translated": "R1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2081200323,
+            "original": "R1_BW_XXX1",
+            "translated": "R1_BW_XXX1",
+            "desc": ""
+        },
+        {
+            "hash": 2083392302,
+            "original": "010100010100100100100100100100100100100100100010100100100100010100100100100100100100010010100100100100010100100100100100100100100100",
+            "translated": "010100010100100100100100100100100100100100100010100100100100010100100100100100100100010010100100100100010100100100100100100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2108255852,
+            "original": "~z~What?",
+            "translated": "~z~啥？",
+            "desc": ""
+        },
+        {
+            "hash": 2109336073,
+            "original": "~z~Roman?",
+            "translated": "~z~Roman？",
+            "desc": ""
+        },
+        {
+            "hash": 2140236262,
+            "original": "~z~Scared Canadians, bored housewives from the Midwest - every possible choice!",
+            "translated": "~z~吓坏了的加拿大的，中西部来的寂寞人妻——应有尽有！",
+            "desc": ""
+        },
+        {
+            "hash": 2144503981,
+            "original": "R1_BF_XXX1",
+            "translated": "R1_BF_XXX1",
+            "desc": ""
+        },
+        {
+            "hash": 2162573517,
+            "original": "R1_CA",
+            "translated": "R1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2167292014,
+            "original": "~z~Ahh, you'll be fine. Better than my Serbian.",
+            "translated": "~z~啊，够用了。总比我的塞尔维亚语好。",
+            "desc": ""
+        },
+        {
+            "hash": 2183344368,
+            "original": "~z~Oh, you're back. Can we go home now? ~c~ Please, important sir.",
+            "translated": "~z~噢，你回来了。现在我们能回家了吧？~c~求你了，大人物。",
+            "desc": ""
+        },
+        {
+            "hash": 2189602510,
+            "original": "~z~Uhhh... ~c~cabbages?~s~",
+            "translated": "~z~呃...~c~卷心菜？~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2201320160,
+            "original": "~z~But here, all I needed was one good guy.",
+            "translated": "~z~但现在，我只差一个能人。",
+            "desc": ""
+        },
+        {
+            "hash": 2204316696,
+            "original": "~z~What'd you do that for? Let's go home.~c~ If that is okay with his majesty?",
+            "translated": "~z~你这是要干嘛？赶紧回家吧。~c~陛下您同意吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2215108960,
+            "original": "~z~Just a temporary place.",
+            "translated": "~z~先在这儿凑合。",
+            "desc": ""
+        },
+        {
+            "hash": 2218328838,
+            "original": "R1_BI_XXX3",
+            "translated": "R1_BI_XXX3",
+            "desc": ""
+        },
+        {
+            "hash": 2231166165,
+            "original": "~z~people leave home to hang around the people they ran away from,~c~ very odd.",
+            "translated": "~z~人们背井离乡，和他们先前逃避的人处在一块，~c~很奇怪。",
+            "desc": ""
+        },
+        {
+            "hash": 2233183955,
+            "original": "~z~Our country has women too.",
+            "translated": "~z~我们的祖国也有女人。",
+            "desc": ""
+        },
+        {
+            "hash": 2233507697,
+            "original": "~z~No.",
+            "translated": "~z~没有。",
+            "desc": ""
+        },
+        {
+            "hash": 2239232654,
+            "original": "~z~Ahh, we all do dumb things... that's what makes us human.",
+            "translated": "~z~啊，我们都会犯傻...这就是人类啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2245595354,
+            "original": "R1_BP",
+            "translated": "R1_BP",
+            "desc": ""
+        },
+        {
+            "hash": 2255320702,
+            "original": "~z~Immigrants here do not make it very far from the boats they come in on.",
+            "translated": "~z~移民们在这和在他们来的船上没什么区别。",
+            "desc": ""
+        },
+        {
+            "hash": 2276769256,
+            "original": "R1_EA",
+            "translated": "R1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2279703588,
+            "original": "~z~One good guy, I could do well.",
+            "translated": "~z~一个能人，我就能做好。",
+            "desc": ""
+        },
+        {
+            "hash": 2287044384,
+            "original": "~z~Oooh, mystery man...",
+            "translated": "~z~喔，神秘人...",
+            "desc": ""
+        },
+        {
+            "hash": 2312275994,
+            "original": "~z~That's right. I got the best cockroaches, I got the best dirt!",
+            "translated": "~z~这话没错。我这有最大的蟑螂，我这有最多的尘土！",
+            "desc": ""
+        },
+        {
+            "hash": 2335443845,
+            "original": "~z~then I hear you joined the merchant navy, now you're here.",
+            "translated": "~z~然后又听说你加入了商船队，现在你来了。",
+            "desc": ""
+        },
+        {
+            "hash": 2343622007,
+            "original": "~z~Shit... I have to tell you I had quite a night last night.",
+            "translated": "~z~靠...我一定要跟你讲讲昨晚有多爽。",
+            "desc": ""
+        },
+        {
+            "hash": 2362343172,
+            "original": "~z~~c~Cousin, are you running away from me as soon as you get here?",
+            "translated": "~z~~c~堂弟，你刚来就要离我而去了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2363737713,
+            "original": "~z~~c~ Egomaniac!",
+            "translated": "~z~~c~自大狂！",
+            "desc": ""
+        },
+        {
+            "hash": 2368516945,
+            "original": "010100010100100100100100100010100100010100100100100100010100010100100100100100",
+            "translated": "010100010100100100100100100010100100010100100100100100010100010100100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2396365900,
+            "original": "R1_AA",
+            "translated": "R1_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2416796640,
+            "original": "~z~-Screw you... screw you all! My cousin is here!~n~-Hey, come on, man!",
+            "translated": "~z~－去你的...去你妈的！我堂弟来了！~n~－喂，得了吧，老哥！",
+            "desc": ""
+        },
+        {
+            "hash": 2427816861,
+            "original": "~z~Niko? What are you doing?",
+            "translated": "~z~Niko？你在干什么？",
+            "desc": ""
+        },
+        {
+            "hash": 2431273885,
+            "original": "~z~Good to see you, man - what, you forget our language?",
+            "translated": "~z~很高兴见到你，老哥。咋了，你忘记我们的家乡话了？",
+            "desc": ""
+        },
+        {
+            "hash": 2465567876,
+            "original": "~z~What's the time? Shit... I've got to get the cab back. It's on a shift.",
+            "translated": "~z~几点了？靠...我得去还车了。该交班了。",
+            "desc": ""
+        },
+        {
+            "hash": 2509969441,
+            "original": "R1_BF",
+            "translated": "R1_BF",
+            "desc": ""
+        },
+        {
+            "hash": 2524615172,
+            "original": "SFX_PAUSE_4000",
+            "translated": "SFX_PAUSE_4000",
+            "desc": ""
+        },
+        {
+            "hash": 2545661503,
+            "original": "~z~So...",
+            "translated": "~z~所以...",
+            "desc": ""
+        },
+        {
+            "hash": 2546611816,
+            "original": "~z~Yeah! Hmm...",
+            "translated": "~z~耶！唔...",
+            "desc": ""
+        },
+        {
+            "hash": 2581754330,
+            "original": "~z~I can't believe you made it! Ha!",
+            "translated": "~z~你居然来美国了！哈！",
+            "desc": ""
+        },
+        {
+            "hash": 2611750730,
+            "original": "~z~Could be.",
+            "translated": "~z~大概吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2634985274,
+            "original": "~z~You never tell me anything.",
+            "translated": "~z~你什么都没告诉过我。",
+            "desc": ""
+        },
+        {
+            "hash": 2674431671,
+            "original": "~z~live the dream!",
+            "translated": "~z~过上美国梦！",
+            "desc": ""
+        },
+        {
+            "hash": 2685383828,
+            "original": "~z~I come here, and the only thing big about your life is the cockroaches.",
+            "translated": "~z~我来了，结果你生活中最有料的东西就是蟑螂。",
+            "desc": ""
+        },
+        {
+            "hash": 2685790708,
+            "original": "~z~Remember, we learned off the English girls with the big...",
+            "translated": "~z~记得不，我们还是跟那讲英语的妹子学的，她那大...",
+            "desc": ""
+        },
+        {
+            "hash": 2696491019,
+            "original": "~z~-Roman! Are you sleeping, you fat fuck? Come on!~n~-Huh! No! No way!",
+            "translated": "~z~－Roman！你睡着了吗，死胖子？拜托！~n~－哈！没！没睡！",
+            "desc": ""
+        },
+        {
+            "hash": 2696763050,
+            "original": "~z~What you going to do?",
+            "translated": "~z~你有什么打算？",
+            "desc": ""
+        },
+        {
+            "hash": 2698300434,
+            "original": "SFX_PAUSE_1000",
+            "translated": "SFX_PAUSE_1000",
+            "desc": ""
+        },
+        {
+            "hash": 2698561658,
+            "original": "R1_BU_XXX1",
+            "translated": "R1_BU_XXX1",
+            "desc": ""
+        },
+        {
+            "hash": 2707435861,
+            "original": "~z~Maybe that is no excuse...",
+            "translated": "~z~也许那不算借口...",
+            "desc": ""
+        },
+        {
+            "hash": 2734079905,
+            "original": "R1_BI_XXX2",
+            "translated": "R1_BI_XXX2",
+            "desc": ""
+        },
+        {
+            "hash": 2738601240,
+            "original": "~z~What happened? Did your captain make you pregnant?",
+            "translated": "~z~发生什么了？你家船长把你搞怀孕了？",
+            "desc": ""
+        },
+        {
+            "hash": 2780924223,
+            "original": "R1_BK",
+            "translated": "R1_BK",
+            "desc": ""
+        },
+        {
+            "hash": 2789622017,
+            "original": "~z~Okay, I'm an idiot, but you must admit I have the best line in bullshit you ever heard.",
+            "translated": "~z~行，我是蠢货。但你也得承认，我编的那些胡话是你听过的里面最好的。",
+            "desc": ""
+        },
+        {
+            "hash": 2799616730,
+            "original": "~z~why you leave home after all this time?",
+            "translated": "~z~这么多年下来你怎么还是离开故乡了？",
+            "desc": ""
+        },
+        {
+            "hash": 2809330575,
+            "original": "~z~I will show you around more, later.",
+            "translated": "~z~以后会带你出去转的。",
+            "desc": ""
+        },
+        {
+            "hash": 2852608151,
+            "original": "R1_BS_XXX2",
+            "translated": "R1_BS_XXX2",
+            "desc": ""
+        },
+        {
+            "hash": 2860866526,
+            "original": "~z~Ah, cousin, it's so good to see you!",
+            "translated": "~z~啊，堂弟，见到你真好！",
+            "desc": ""
+        },
+        {
+            "hash": 2867729393,
+            "original": "~z~I've made it!",
+            "translated": "~z~我成功了！",
+            "desc": ""
+        },
+        {
+            "hash": 2874458188,
+            "original": "~z~Mansions in Berchem, penthouse in Algonquin...",
+            "translated": "~z~Berchem的豪宅，Algonquin的顶楼公寓...",
+            "desc": ""
+        },
+        {
+            "hash": 2876617030,
+            "original": "~z~Hove Beach, next to the docks.",
+            "translated": "~z~Hove Beach，港口旁边。",
+            "desc": ""
+        },
+        {
+            "hash": 2880838449,
+            "original": "~z~Roman, come on, let's go... to the mansion, eh?",
+            "translated": "~z~Roman，得了，上路吧...去豪宅，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2936618249,
+            "original": "R1_BE_XXX3",
+            "translated": "R1_BE_XXX3",
+            "desc": ""
+        },
+        {
+            "hash": 2937621210,
+            "original": "~z~I'm drunk and tired Niko, please drive me home, ~c~ be a good guy.",
+            "translated": "~z~我醉了也累了，Niko。把我送回去吧，~c~行行好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2950886645,
+            "original": "~z~Crazy place, Niko.",
+            "translated": "~z~疯狂的地方，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2954413796,
+            "original": "R1_BE",
+            "translated": "R1_BE",
+            "desc": ""
+        },
+        {
+            "hash": 2957166060,
+            "original": "~z~How you going to find your way round the city without me? Come back Niko.~c~ Don't be a child.",
+            "translated": "~z~没我你不得马上在城里迷路？快回来，Niko。~c~别孩子气了。",
+            "desc": ""
+        },
+        {
+            "hash": 2958951711,
+            "original": "~z~~c~What a charming image.",
+            "translated": "~z~~c~迷人的景象。",
+            "desc": ""
+        },
+        {
+            "hash": 2968305400,
+            "original": "R1_BE_XXX1",
+            "translated": "R1_BE_XXX1",
+            "desc": ""
+        },
+        {
+            "hash": 2972367419,
+            "original": "~z~Like my cousin.",
+            "translated": "~z~像我堂兄那样。",
+            "desc": ""
+        },
+        {
+            "hash": 2977323405,
+            "original": "~z~Screw you! No, no, it's nothing like that.",
+            "translated": "~z~去你的！不，不是的，才不是那样。",
+            "desc": ""
+        },
+        {
+            "hash": 2988844444,
+            "original": "R1_CC",
+            "translated": "R1_CC",
+            "desc": ""
+        },
+        {
+            "hash": 2995971885,
+            "original": "~z~You, without a visa. I would stay in Broker. Fuck it, stay in Hove Beach. Everyone like us does.",
+            "translated": "~z~你没有签证。换我就呆在Broker。操，呆在Hove Beach。屁民都这样。",
+            "desc": ""
+        },
+        {
+            "hash": 2997016998,
+            "original": "~z~Not take over the world, but do okay.",
+            "translated": "~z~不用掌控世界，但能做得不错。",
+            "desc": ""
+        },
+        {
+            "hash": 3002246778,
+            "original": "~z~Err, it's in the shop... come on!",
+            "translated": "~z~呃，在店里呢...走吧！",
+            "desc": ""
+        },
+        {
+            "hash": 3022017283,
+            "original": "~z~Hove Beach is our little corner of Eastern Europe.",
+            "translated": "~z~Hove Beach就是我们东欧的一块小地盘。",
+            "desc": ""
+        },
+        {
+            "hash": 3028079640,
+            "original": "~z~I can't say that I have. ~c~ But I know what it's like to hang out with a tit.",
+            "translated": "~z~我不能说我有。~c~但是我知道和巨乳一起溜达是什么感觉。",
+            "desc": ""
+        },
+        {
+            "hash": 3052787302,
+            "original": "R1_BA",
+            "translated": "R1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3062916033,
+            "original": "~z~The ships were fine.",
+            "translated": "~z~船上都挺好。",
+            "desc": ""
+        },
+        {
+            "hash": 3081854459,
+            "original": "~z~-Niko, I've got to run, come meet me at the cab office.~n~-Jesus... what?",
+            "translated": "~z~－Niko，我得走了，待会来出租车行找我。~n~－天哪...什么？",
+            "desc": ""
+        },
+        {
+            "hash": 3089968751,
+            "original": "~z~Two women! The land of opportunity.",
+            "translated": "~z~两个女人！在这机遇之地。",
+            "desc": ""
+        },
+        {
+            "hash": 3094504961,
+            "original": "~z~First, I hear you're running with the wrong kind,",
+            "translated": "~z~一开始我听说你跟错了人，",
+            "desc": ""
+        },
+        {
+            "hash": 3112866773,
+            "original": "SFX_PAUSE_1000",
+            "translated": "SFX_PAUSE_1000",
+            "desc": ""
+        },
+        {
+            "hash": 3143375780,
+            "original": "R1_BM",
+            "translated": "R1_BM",
+            "desc": ""
+        },
+        {
+            "hash": 3144628034,
+            "original": "R1_CB",
+            "translated": "R1_CB",
+            "desc": ""
+        },
+        {
+            "hash": 3163319693,
+            "original": "~z~Screw you, you idiot!",
+            "translated": "~z~去你的吧，你个蠢货！",
+            "desc": ""
+        },
+        {
+            "hash": 3176513136,
+            "original": "~z~-You're in the Goddamn way.~n~-Take off!",
+            "translated": "~z~－好狗不挡道。~n~－快滚！",
+            "desc": ""
+        },
+        {
+            "hash": 3179512282,
+            "original": "~z~Make yourself at home... what's mine is yours!",
+            "translated": "~z~当自己家就行...我的都是你的！",
+            "desc": ""
+        },
+        {
+            "hash": 3179832499,
+            "original": "~z~Is just temporary for us though. Our sights are set for the top.",
+            "translated": "~z~对我们那就只是暂时的。我们的目标是顶点。",
+            "desc": ""
+        },
+        {
+            "hash": 3181208801,
+            "original": "~z~a model on each arm - me and my cousin Niko, rulers of the world!",
+            "translated": "~z~美女左拥右抱——我和我的Niko堂弟，世界的统治者！",
+            "desc": ""
+        },
+        {
+            "hash": 3230107260,
+            "original": "~z~Fuck it, stay in Hove Beach. Everyone like us does.",
+            "translated": "~z~操，呆在Hove Beach。屁民都这样。",
+            "desc": ""
+        },
+        {
+            "hash": 3234803271,
+            "original": "~z~Did you see everything you wanted to see? Can you drive your cousin home now?",
+            "translated": "~z~风景看够了没？现在能送你堂兄回家了吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3249660886,
+            "original": "R1_BE_XXX2",
+            "translated": "R1_BE_XXX2",
+            "desc": ""
+        },
+        {
+            "hash": 3257101944,
+            "original": "~z~Dave is not coming.",
+            "translated": "~z~Dave还没来。",
+            "desc": ""
+        },
+        {
+            "hash": 3274366869,
+            "original": "~z~That is my cab depot, cousin. It is where I make all the money.",
+            "translated": "~z~那边的就是我的出租车行，堂弟。我的钱都是在那挣的。",
+            "desc": ""
+        },
+        {
+            "hash": 3305693687,
+            "original": "~z~Oh yeah?",
+            "translated": "~z~是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3308898440,
+            "original": "~z~A touch?",
+            "translated": "~z~一点？",
+            "desc": ""
+        },
+        {
+            "hash": 3312187760,
+            "original": "~z~-Oh, Jesus! Tastes like a rat shat in it...~n~-Roman...",
+            "translated": "~z~－噢天哪！尝起来像是有老鼠屎在里面...~n~－Roman...",
+            "desc": ""
+        },
+        {
+            "hash": 3324120651,
+            "original": "~z~Fucking terrorists.",
+            "translated": "~z~狗逼恐怖分子。",
+            "desc": ""
+        },
+        {
+            "hash": 3329619886,
+            "original": "~z~~c~What a charming image. Hove Beach, next to the docks.",
+            "translated": "~z~~c~迷人的景象。Hove Beach，港口旁边。",
+            "desc": ""
+        },
+        {
+            "hash": 3384849838,
+            "original": "R1_BW",
+            "translated": "R1_BW",
+            "desc": ""
+        },
+        {
+            "hash": 3404841711,
+            "original": "SFX_PAUSE_1000",
+            "translated": "SFX_PAUSE_1000",
+            "desc": ""
+        },
+        {
+            "hash": 3422226066,
+            "original": "~z~-go down one block and turn right on Iroquois,~n~-I'm new here...",
+            "translated": "~z~－往前走一个路口到Iroquois就右拐，~n~－我才刚到这儿...",
+            "desc": ""
+        },
+        {
+            "hash": 3445796852,
+            "original": "~z~Here, pass me that.",
+            "translated": "~z~来，那个给我。",
+            "desc": ""
+        },
+        {
+            "hash": 3474138003,
+            "original": "~z~I would stay in Broker.",
+            "translated": "~z~换我就呆在Broker。",
+            "desc": ""
+        },
+        {
+            "hash": 3474757340,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3479774629,
+            "original": "~z~Come in, come in!",
+            "translated": "~z~请进，请进！",
+            "desc": ""
+        },
+        {
+            "hash": 3480109943,
+            "original": "~z~Think of all the girls you've been missing out on!",
+            "translated": "~z~想想你都错过了多少妹子！",
+            "desc": ""
+        },
+        {
+            "hash": 3548218657,
+            "original": "R1_BD",
+            "translated": "R1_BD",
+            "desc": ""
+        },
+        {
+            "hash": 3550351729,
+            "original": "~z~Come on Dave.",
+            "translated": "~z~该走了，Dave。",
+            "desc": ""
+        },
+        {
+            "hash": 3551760821,
+            "original": "~z~Four big titties to be playing with?",
+            "translated": "~z~四个奶子任你摸？",
+            "desc": ""
+        },
+        {
+            "hash": 3561402932,
+            "original": "R1_BM_XXX2",
+            "translated": "R1_BM_XXX2",
+            "desc": ""
+        },
+        {
+            "hash": 3566398409,
+            "original": "R1_CC_QQQ1",
+            "translated": "R1_CC_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 3568297844,
+            "original": "~z~Shit, man, I'm still a touch drunk.",
+            "translated": "~z~靠，老弟，我还有点醉。",
+            "desc": ""
+        },
+        {
+            "hash": 3574488285,
+            "original": "R1_BV",
+            "translated": "R1_BV",
+            "desc": ""
+        },
+        {
+            "hash": 3593196507,
+            "original": "R1_BP",
+            "translated": "R1_BP",
+            "desc": ""
+        },
+        {
+            "hash": 3603563897,
+            "original": "~z~he writes me in these wild emails, and after I got into trouble, I thought maybe uh...",
+            "translated": "~z~他给我发的那些疯狂的邮件里是这样的。在我陷入困难后，我想也许呃...",
+            "desc": ""
+        },
+        {
+            "hash": 3649969510,
+            "original": "~z~Niko,",
+            "translated": "~z~Niko，",
+            "desc": ""
+        },
+        {
+            "hash": 3651368715,
+            "original": "~z~Niko Bellic! He's the fucking man, bitches!",
+            "translated": "~z~Niko Bellic！就他妈是他，贱人们！",
+            "desc": ""
+        },
+        {
+            "hash": 3653280285,
+            "original": "~z~-It's easy. Out the door, turn left, then the first left at the diner,~n~-What are you talking about? I don't...",
+            "translated": "~z~－很好找。出了门，左拐，看见餐馆后的下个路口左拐，~n~－你在说些什么？我不太...",
+            "desc": ""
+        },
+        {
+            "hash": 3707618627,
+            "original": "R1_BR",
+            "translated": "R1_BR",
+            "desc": ""
+        },
+        {
+            "hash": 3758074445,
+            "original": "~z~~c~I thought I had died and gone to Heaven, man.",
+            "translated": "~z~~c~我都觉得自己要爽上西天了，老弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3771943033,
+            "original": "~z~So!",
+            "translated": "~z~所以！",
+            "desc": ""
+        },
+        {
+            "hash": 3772705677,
+            "original": "~z~Hey, a little... not so good.",
+            "translated": "~z~喂，就会一点...不是很好。",
+            "desc": ""
+        },
+        {
+            "hash": 3790176743,
+            "original": "~z~-Woah! Roman, Roman, come on, come on, relax.~n~-We're going to rule the world!",
+            "translated": "~z~－喔哦！Roman，Roman，得了，得了，别这样。~n~－我们要统治天下！",
+            "desc": ""
+        },
+        {
+            "hash": 3790941727,
+            "original": "~z~Dave, come on.",
+            "translated": "~z~Dave，快点。",
+            "desc": ""
+        },
+        {
+            "hash": 3816164048,
+            "original": "~z~Yeah, yeah, whatever, buddy.",
+            "translated": "~z~成，成，随你便吧，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 3823025345,
+            "original": "~z~Huh. No.",
+            "translated": "~z~哈。没有。",
+            "desc": ""
+        },
+        {
+            "hash": 3899664581,
+            "original": "~z~and then I got this gig, and I spend the next seven months with you fine people and I forget...",
+            "translated": "~z~然后我就有了这份工作，和你们这些好人一起过了七个月，我都快忘了...",
+            "desc": ""
+        },
+        {
+            "hash": 3932985197,
+            "original": "~z~Daddy's back, you bitches!",
+            "translated": "~z~老子的背啊，小婊子们！",
+            "desc": ""
+        },
+        {
+            "hash": 3954264120,
+            "original": "R1_BX",
+            "translated": "R1_BX",
+            "desc": ""
+        },
+        {
+            "hash": 4009316618,
+            "original": "~z~opportunity!",
+            "translated": "~z~机遇！",
+            "desc": ""
+        },
+        {
+            "hash": 4011032615,
+            "original": "R1_BW_XXX2",
+            "translated": "R1_BW_XXX2",
+            "desc": ""
+        },
+        {
+            "hash": 4022652453,
+            "original": "~z~It's really flash. We got lots of titties and some incredible motors...",
+            "translated": "~z~真的很炫。我们那儿有很多巨乳，还有一些豪车...",
+            "desc": ""
+        },
+        {
+            "hash": 4033366938,
+            "original": "R1_BA",
+            "translated": "R1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 4046915641,
+            "original": "R1_BN",
+            "translated": "R1_BN",
+            "desc": ""
+        },
+        {
+            "hash": 4075023514,
+            "original": "~z~Shit... well, I needed to change anyway...",
+            "translated": "~z~靠...好吧，反正本来就要换了...",
+            "desc": ""
+        },
+        {
+            "hash": 4095627754,
+            "original": "R1_BB",
+            "translated": "R1_BB",
+            "desc": ""
+        },
+        {
+            "hash": 4136297365,
+            "original": "~z~strange and exotic sailor!",
+            "translated": "~z~奇特的异国水手！",
+            "desc": ""
+        },
+        {
+            "hash": 4160179752,
+            "original": "~z~Our sights are set for the top.",
+            "translated": "~z~我们的目标是顶点。",
+            "desc": ""
+        },
+        {
+            "hash": 4170045072,
+            "original": "R1_FA",
+            "translated": "R1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 4179074046,
+            "original": "~z~What?",
+            "translated": "~z~啥？",
+            "desc": ""
+        },
+        {
+            "hash": 4186338579,
+            "original": "~z~Why don't you show me around the city?",
+            "translated": "~z~你怎么不带我去城里转转？",
+            "desc": ""
+        },
+        {
+            "hash": 4187199369,
+            "original": "~z~scared Canadians, bored housewives from the Midwest -",
+            "translated": "~z~吓坏了的加拿大的，中西部来的寂寞人妻——",
+            "desc": ""
+        },
+        {
+            "hash": 4195404806,
+            "original": "~z~After the war finished, I couldn't get a job, nobody could...",
+            "translated": "~z~战争结束后，我找不到工作，没人能找到...",
+            "desc": ""
+        },
+        {
+            "hash": 4265962278,
+            "original": "~z~-then walk all the way down and we're right there on the left on the corner of Cisco Street.~n~-what are you talking about, man?",
+            "translated": "~z~－然后一路直走，Cisco街路口的左手边就是。~n~－你在说什么，老哥？",
+            "desc": ""
+        }
+    ]
+}

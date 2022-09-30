@@ -1,0 +1,112 @@
+{
+    "FIN1A": [
+        {
+            "hash": 386149654,
+            "original": "~s~Go and meet ~b~Phil.",
+            "translated": "~s~去找~b~Phil。",
+            "desc": ""
+        },
+        {
+            "hash": 573785304,
+            "original": "~s~Wait for ~b~Phil.",
+            "translated": "~s~等待~b~Phil。",
+            "desc": ""
+        },
+        {
+            "hash": 668061361,
+            "original": "~s~Steal the money from the ~y~office.",
+            "translated": "~s~从~y~办公室~s~偷走货款。",
+            "desc": ""
+        },
+        {
+            "hash": 803397687,
+            "original": "~s~Phil is in trouble.",
+            "translated": "~s~Phil需要支援。",
+            "desc": ""
+        },
+        {
+            "hash": 898591276,
+            "original": "~s~Head inside the ~y~docks.",
+            "translated": "~s~进入~y~码头。",
+            "desc": ""
+        },
+        {
+            "hash": 1070628882,
+            "original": "~s~Get back to ~b~Phil.",
+            "translated": "~s~回去找~b~Phil。",
+            "desc": ""
+        },
+        {
+            "hash": 1100776006,
+            "original": "~s~Go to the ~y~docks.",
+            "translated": "~s~前往~y~码头。",
+            "desc": ""
+        },
+        {
+            "hash": 1250268192,
+            "original": "~b~Phil~s~ is in trouble.",
+            "translated": "~b~Phil~s~需要支援。",
+            "desc": ""
+        },
+        {
+            "hash": 1413753081,
+            "original": "~s~Collect the ~g~money.",
+            "translated": "~s~收集~g~货款。",
+            "desc": ""
+        },
+        {
+            "hash": 1545353037,
+            "original": "~s~Take Phil back to ~y~Tudor.",
+            "translated": "~s~带Phil回~y~Tudor。",
+            "desc": ""
+        },
+        {
+            "hash": 1617805288,
+            "original": "~s~Follow ~b~Phil.",
+            "translated": "~s~跟随~b~Phil。",
+            "desc": ""
+        },
+        {
+            "hash": 1804031871,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1849252735,
+            "original": "~s~Chase after the ~r~buyer.",
+            "translated": "~s~追击~r~买家。",
+            "desc": ""
+        },
+        {
+            "hash": 2026369536,
+            "original": "~r~The buyer got away.",
+            "translated": "~r~买家逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 2059629715,
+            "original": "~s~Go and help ~b~Phil.",
+            "translated": "~s~过去协助~b~Phil。",
+            "desc": ""
+        },
+        {
+            "hash": 3006930443,
+            "original": "~r~The meeting was broken up.",
+            "translated": "~r~会面被破坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 3248274128,
+            "original": "~r~Phil is out of action.",
+            "translated": "~r~Phil无法行动。",
+            "desc": ""
+        },
+        {
+            "hash": 4184011220,
+            "original": "~s~You've left ~b~Phil~s~ behind.",
+            "translated": "~s~你把~b~Phil~s~落下了。",
+            "desc": ""
+        }
+    ]
+}

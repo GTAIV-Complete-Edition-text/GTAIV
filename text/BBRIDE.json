@@ -1,0 +1,64 @@
+{
+    "BBRIDE": [
+        {
+            "hash": 697767922,
+            "original": "~s~Go to the ~y~driving range.",
+            "translated": "~s~前往~y~高尔夫练习场。",
+            "desc": ""
+        },
+        {
+            "hash": 924703869,
+            "original": "Wait for ~b~Brucie~s~ and the ~b~girls.",
+            "translated": "等待~b~Brucie~s~和~b~姑娘们。",
+            "desc": ""
+        },
+        {
+            "hash": 1012824495,
+            "original": "~s~Go to ~y~Pier 45.",
+            "translated": "~s~前往~y~45号码头。",
+            "desc": ""
+        },
+        {
+            "hash": 1252425986,
+            "original": "~s~Go to the ~y~industrial area.",
+            "translated": "~s~前往~y~工业区。",
+            "desc": ""
+        },
+        {
+            "hash": 1579701156,
+            "original": "~s~Go to the ~y~sunken ships.",
+            "translated": "~s~前往~y~沉船区。",
+            "desc": ""
+        },
+        {
+            "hash": 1639965191,
+            "original": "Hold ~PAD_Y~ to quit.",
+            "translated": "长按~PAD_Y~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 1677890920,
+            "original": "Press ~PAD_LB~ to warp.",
+            "translated": "按~PAD_LB~拉船。",
+            "desc": ""
+        },
+        {
+            "hash": 1738587021,
+            "original": "~s~Go to the ~y~Statue of Happiness.",
+            "translated": "~s~前往~y~幸福女神像。",
+            "desc": ""
+        },
+        {
+            "hash": 2076255010,
+            "original": "~s~Quitting activity in ~1~ second.",
+            "translated": "~s~将在~1~秒内退出活动。",
+            "desc": ""
+        },
+        {
+            "hash": 3612489548,
+            "original": "~s~Go to the ~y~Poop Deck.",
+            "translated": "~s~前往~y~Poop Deck餐馆。",
+            "desc": ""
+        }
+    ]
+}

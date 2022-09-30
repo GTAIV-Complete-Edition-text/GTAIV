@@ -1,0 +1,1222 @@
+{
+    "MI1AUD": [
+        {
+            "hash": 75390019,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 75728087,
+            "original": "~z~So, what are you doing here in Liberty City, Niko?",
+            "translated": "~z~你来自由城后在做什么，Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 92285656,
+            "original": "~z~So, Michelle, what do you like to do?",
+            "translated": "~z~我说，Michelle，你喜欢做什么？",
+            "desc": ""
+        },
+        {
+            "hash": 97009085,
+            "original": "~z~Why's that? You do a lot of work or something?",
+            "translated": "~z~怎么说？你是工作太多还是咋了？",
+            "desc": ""
+        },
+        {
+            "hash": 105595099,
+            "original": "MI1_MI",
+            "translated": "MI1_MI",
+            "desc": ""
+        },
+        {
+            "hash": 126722589,
+            "original": "MI1_GA",
+            "translated": "MI1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 139938728,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 144797350,
+            "original": "~z~I'm sorry about the car, Michelle. I can get you a new one.",
+            "translated": "~z~车子的事我很抱歉，Michelle。我会赔你辆新车的。",
+            "desc": ""
+        },
+        {
+            "hash": 147292022,
+            "original": "~z~You're a hard girl to talk to, Michelle.",
+            "translated": "~z~和你说话怎么这么难呢，Michelle。",
+            "desc": ""
+        },
+        {
+            "hash": 154927169,
+            "original": "100010100010100010",
+            "translated": "100010100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 183854498,
+            "original": "~z~So, Niko, why couldn't you come on the date earlier? What happened?",
+            "translated": "~z~Niko，你怎么不早点来赴约？有什么事吗？",
+            "desc": ""
+        },
+        {
+            "hash": 224777546,
+            "original": "~z~Jeez Louise.",
+            "translated": "~z~天哪。",
+            "desc": ""
+        },
+        {
+            "hash": 244224140,
+            "original": "~z~Niko, what are you doing?",
+            "translated": "~z~Niko，你在做什么啊？",
+            "desc": ""
+        },
+        {
+            "hash": 253021102,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 256024095,
+            "original": "MI1_LB",
+            "translated": "MI1_LB",
+            "desc": ""
+        },
+        {
+            "hash": 300653713,
+            "original": "~z~I feel like I should have been more organized. Had a better plan for our date.",
+            "translated": "~z~我还是觉得该好好策划一下。给约会弄个更好的计划。",
+            "desc": ""
+        },
+        {
+            "hash": 302048894,
+            "original": "~z~Who is it?",
+            "translated": "~z~你哪位？",
+            "desc": ""
+        },
+        {
+            "hash": 382279647,
+            "original": "~z~Where?",
+            "translated": "~z~哪里人？",
+            "desc": ""
+        },
+        {
+            "hash": 389729869,
+            "original": "~z~What do you like to do?",
+            "translated": "~z~你又喜欢做什么？",
+            "desc": ""
+        },
+        {
+            "hash": 415105331,
+            "original": "~z~Roman? He's made some mistakes, got involved with people he shouldn't have but",
+            "translated": "~z~Roman？他确实犯了些错误，认识了一些不该认识的人，但",
+            "desc": ""
+        },
+        {
+            "hash": 435230677,
+            "original": "MI1_A_GE",
+            "translated": "MI1_A_GE",
+            "desc": ""
+        },
+        {
+            "hash": 438562502,
+            "original": "~z~I hope the police didn't see that.",
+            "translated": "~z~但愿没被警察看见。",
+            "desc": ""
+        },
+        {
+            "hash": 495700884,
+            "original": "~z~Yeah, well... I like things clean.",
+            "translated": "~z~确实，呃...我喜欢房间干净点。",
+            "desc": ""
+        },
+        {
+            "hash": 530093783,
+            "original": "~z~You're good, Niko. That was fun. Will you take me back home now?",
+            "translated": "~z~打得真好，Niko。我玩得很开心。你能送我回家吗？",
+            "desc": ""
+        },
+        {
+            "hash": 531363253,
+            "original": "MI1_IA",
+            "translated": "MI1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 534393345,
+            "original": "~z~I'm not a local in Liberty City. I came here from somewhere...",
+            "translated": "~z~我也不是自由城本地人。我从其他地方来的...",
+            "desc": ""
+        },
+        {
+            "hash": 542154800,
+            "original": "MI1_A_EC",
+            "translated": "MI1_A_EC",
+            "desc": ""
+        },
+        {
+            "hash": 549598451,
+            "original": "~z~Let's go, now!",
+            "translated": "~z~我们走吧，现在！",
+            "desc": ""
+        },
+        {
+            "hash": 613026704,
+            "original": "~z~Did you just move in?",
+            "translated": "~z~你是刚搬进来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 628284502,
+            "original": "~z~funfair.",
+            "translated": "~z~游乐场吧。",
+            "desc": ""
+        },
+        {
+            "hash": 682815805,
+            "original": "~z~Come on, I asked you first.",
+            "translated": "~z~别这样，我先问你的。",
+            "desc": ""
+        },
+        {
+            "hash": 710903996,
+            "original": "MI1_NC",
+            "translated": "MI1_NC",
+            "desc": ""
+        },
+        {
+            "hash": 724297672,
+            "original": "~z~I thought maybe we could go to the, uh...",
+            "translated": "~z~要么我们就去那个，呃...",
+            "desc": ""
+        },
+        {
+            "hash": 729847816,
+            "original": "MI1_EC",
+            "translated": "MI1_EC",
+            "desc": ""
+        },
+        {
+            "hash": 755016327,
+            "original": "MI1_DA",
+            "translated": "MI1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 760889747,
+            "original": "MI1_A_GA",
+            "translated": "MI1_A_GA",
+            "desc": ""
+        },
+        {
+            "hash": 774908006,
+            "original": "010100010",
+            "translated": "010100010",
+            "desc": ""
+        },
+        {
+            "hash": 779693225,
+            "original": "~z~Really? Does Roman get himself into a lot of trouble? Is he involved in criminal stuff?",
+            "translated": "~z~真的？Roman是不是经常惹上一堆麻烦？他有没有和什么犯罪勾当扯上关系？",
+            "desc": ""
+        },
+        {
+            "hash": 790898640,
+            "original": "MI1_A_FB",
+            "translated": "MI1_A_FB",
+            "desc": ""
+        },
+        {
+            "hash": 795446663,
+            "original": "MI1_MF",
+            "translated": "MI1_MF",
+            "desc": ""
+        },
+        {
+            "hash": 807590628,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 840299968,
+            "original": "~z~I don't know - I'm new here.",
+            "translated": "~z~不知道，我才刚到这儿。",
+            "desc": ""
+        },
+        {
+            "hash": 895903388,
+            "original": "~z~Maybe there is more to this place, I'm not sure yet.",
+            "translated": "~z~可能还有别的原因，我自己也不太确定。",
+            "desc": ""
+        },
+        {
+            "hash": 919522060,
+            "original": "~z~Forget about it, I'll talk to you soon, bye.",
+            "translated": "~z~那算了吧，下次再说，再见。",
+            "desc": ""
+        },
+        {
+            "hash": 931084958,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 957580187,
+            "original": "~z~Let's go - love the funfair!",
+            "translated": "~z~走吧。我喜欢游乐场！",
+            "desc": ""
+        },
+        {
+            "hash": 958171387,
+            "original": "~z~You know, the carnival isn't open this time of year. I don't know if it would pass safety regulations anyway.",
+            "translated": "~z~嘉年华每年这会儿都不开门。不知道能不能通过安全审查。",
+            "desc": ""
+        },
+        {
+            "hash": 962105992,
+            "original": "~z~I like to keep active I guess. Sports, working out, things like that.",
+            "translated": "~z~我大概比较好动。运动啊，锻炼啊，诸如此类。",
+            "desc": ""
+        },
+        {
+            "hash": 977450732,
+            "original": "MI1_ED",
+            "translated": "MI1_ED",
+            "desc": ""
+        },
+        {
+            "hash": 981283510,
+            "original": "MI1_AB",
+            "translated": "MI1_AB",
+            "desc": ""
+        },
+        {
+            "hash": 997614803,
+            "original": "~z~I guess.",
+            "translated": "~z~也许吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1014620614,
+            "original": "MI1_A_EA",
+            "translated": "MI1_A_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1014864539,
+            "original": "~z~Cool. Let's go bowling then.",
+            "translated": "~z~好啊。那就去打保龄球吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1017524186,
+            "original": "~z~Hey, where'd you run off to?",
+            "translated": "~z~喂，你跑哪儿去了？",
+            "desc": ""
+        },
+        {
+            "hash": 1030959954,
+            "original": "100010100010100010",
+            "translated": "100010100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 1048104104,
+            "original": "~z~What about you?",
+            "translated": "~z~那你呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1052032526,
+            "original": "MI1_OB",
+            "translated": "MI1_OB",
+            "desc": ""
+        },
+        {
+            "hash": 1056372391,
+            "original": "~z~You already know Roman. I don't hang out with anybody else really.",
+            "translated": "~z~Roman你已经认识了。剩下就没别的人和我一起出去过了。",
+            "desc": ""
+        },
+        {
+            "hash": 1111264245,
+            "original": "~z~Please do, Niko. See you soon.",
+            "translated": "~z~别忘了，Niko。下次见。",
+            "desc": ""
+        },
+        {
+            "hash": 1126361280,
+            "original": "MI1_A_GG",
+            "translated": "MI1_A_GG",
+            "desc": ""
+        },
+        {
+            "hash": 1150745466,
+            "original": "~z~Oh, the Midwest. You probably know more people here than me.",
+            "translated": "~z~呃，中西部来的。说不定在这你比我认识的人还多。",
+            "desc": ""
+        },
+        {
+            "hash": 1157519131,
+            "original": "010100010100010100010100010",
+            "translated": "010100010100010100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 1187953169,
+            "original": "MI1_ME",
+            "translated": "MI1_ME",
+            "desc": ""
+        },
+        {
+            "hash": 1206819011,
+            "original": "~z~Great, we're here. I'd like to play a few frames, wouldn't you?",
+            "translated": "~z~好了，我们到了。我想去打几球，一起吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1209196245,
+            "original": "MI1_CA",
+            "translated": "MI1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 1210897109,
+            "original": "~z~Thank you.",
+            "translated": "~z~谢谢。",
+            "desc": ""
+        },
+        {
+            "hash": 1234133474,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1236824599,
+            "original": "MI1_A_EB",
+            "translated": "MI1_A_EB",
+            "desc": ""
+        },
+        {
+            "hash": 1241379243,
+            "original": "MI1_AF",
+            "translated": "MI1_AF",
+            "desc": ""
+        },
+        {
+            "hash": 1268650856,
+            "original": "~z~I'm not going to make you take the subway. Let's go.",
+            "translated": "~z~难不成还让你自己坐地铁回去。走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1271837098,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 1278240791,
+            "original": "~z~really he is a legitimate businessman.",
+            "translated": "~z~他其实是个正派的生意人。",
+            "desc": ""
+        },
+        {
+            "hash": 1283438806,
+            "original": "~z~I'd like to know about you though. See the places you hang out.",
+            "translated": "~z~我倒是挺想了解你的。想看看你常去的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 1311981062,
+            "original": "~z~Sure, bowling sounds like fun.",
+            "translated": "~z~好啊，保龄球似乎挺好玩的。",
+            "desc": ""
+        },
+        {
+            "hash": 1318958635,
+            "original": "MI1_BE",
+            "translated": "MI1_BE",
+            "desc": ""
+        },
+        {
+            "hash": 1320791783,
+            "original": "~z~Yeah, great!",
+            "translated": "~z~好啊！",
+            "desc": ""
+        },
+        {
+            "hash": 1325551553,
+            "original": "MI1_NA",
+            "translated": "MI1_NA",
+            "desc": ""
+        },
+        {
+            "hash": 1335027171,
+            "original": "MI1_DC",
+            "translated": "MI1_DC",
+            "desc": ""
+        },
+        {
+            "hash": 1386427818,
+            "original": "~z~Aw, thanks...",
+            "translated": "~z~哦，谢了...",
+            "desc": ""
+        },
+        {
+            "hash": 1394075819,
+            "original": "~z~I'll be with you in a minute.",
+            "translated": "~z~我马上就好。",
+            "desc": ""
+        },
+        {
+            "hash": 1397632536,
+            "original": "~z~Yeah. That would be good. I'll give you a call.",
+            "translated": "~z~好啊。那挺好的。我会再联系你的。",
+            "desc": ""
+        },
+        {
+            "hash": 1400723235,
+            "original": "MI1_ND",
+            "translated": "MI1_ND",
+            "desc": ""
+        },
+        {
+            "hash": 1447927099,
+            "original": "100010100",
+            "translated": "100010100",
+            "desc": ""
+        },
+        {
+            "hash": 1454627989,
+            "original": "MI1_A_HA",
+            "translated": "MI1_A_HA",
+            "desc": ""
+        },
+        {
+            "hash": 1461133438,
+            "original": "~z~More assholes maybe.",
+            "translated": "~z~混蛋倒认识不少。",
+            "desc": ""
+        },
+        {
+            "hash": 1477751695,
+            "original": "MI1_FA",
+            "translated": "MI1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1496754744,
+            "original": "100010100010010100010",
+            "translated": "100010100010010100010",
+            "desc": ""
+        },
+        {
+            "hash": 1564737577,
+            "original": "~z~I was really looking forward to that, Niko. I'm sorry if it wasn't your thing. Goodbye.",
+            "translated": "~z~我本来还很期待的，Niko。如果不是你的事，我很抱歉。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1574207295,
+            "original": "MI1_EE",
+            "translated": "MI1_EE",
+            "desc": ""
+        },
+        {
+            "hash": 1588151502,
+            "original": "~z~That was nice. I'm really interested in seeing you again.",
+            "translated": "~z~今天我很高兴。很期待下次再见到你。",
+            "desc": ""
+        },
+        {
+            "hash": 1592679859,
+            "original": "~z~Yeah, maybe another time.",
+            "translated": "~z~行，改天再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1595839340,
+            "original": "~z~There's a bowling alley over on the boardwalk. Why don't we play a few frames?",
+            "translated": "~z~那边的木板道上有家保龄球馆。要不我们去打几球？",
+            "desc": ""
+        },
+        {
+            "hash": 1596414042,
+            "original": "MI1_BD",
+            "translated": "MI1_BD",
+            "desc": ""
+        },
+        {
+            "hash": 1600172227,
+            "original": "MI1_A_CA",
+            "translated": "MI1_A_CA",
+            "desc": ""
+        },
+        {
+            "hash": 1612482518,
+            "original": "MI1_DB",
+            "translated": "MI1_DB",
+            "desc": ""
+        },
+        {
+            "hash": 1626145307,
+            "original": "~z~I'm sorry about that, Michelle. I get carried away sometimes.",
+            "translated": "~z~很对不起，Michelle。有时候我会有点情绪失控。",
+            "desc": ""
+        },
+        {
+            "hash": 1626705014,
+            "original": "MI1_A_FA",
+            "translated": "MI1_A_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1655131487,
+            "original": "MI1_A_OA",
+            "translated": "MI1_A_OA",
+            "desc": ""
+        },
+        {
+            "hash": 1716617659,
+            "original": "MI1_NB",
+            "translated": "MI1_NB",
+            "desc": ""
+        },
+        {
+            "hash": 1761004988,
+            "original": "~z~I think you do. There must be something that made you leave your home and come here.",
+            "translated": "~z~你应该知道吧。总不会无缘无故就离开老家来这里吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1776304550,
+            "original": "~z~No, I guess I'm married to my job.",
+            "translated": "~z~没有，估计我这辈子就和工作一起过了。",
+            "desc": ""
+        },
+        {
+            "hash": 1786449765,
+            "original": "MI1_AA",
+            "translated": "MI1_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1827901556,
+            "original": "~z~What have you been doing? Nothing illegal, I hope.",
+            "translated": "~z~你刚才干啥去了？希望没做什么违法的事情。",
+            "desc": ""
+        },
+        {
+            "hash": 1893380351,
+            "original": "~z~I'm just trying to make the right decisions.",
+            "translated": "~z~我就尽量做出正确的选择喽。",
+            "desc": ""
+        },
+        {
+            "hash": 1948315943,
+            "original": "~z~Here we are, this will be fun. Let's play a few frames.",
+            "translated": "~z~我们到了，这个很有趣的。我们去打几球吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1960263164,
+            "original": "010100010100100010",
+            "translated": "010100010100100010",
+            "desc": ""
+        },
+        {
+            "hash": 1961178683,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1981086861,
+            "original": "~z~Ah...",
+            "translated": "~z~啊...",
+            "desc": ""
+        },
+        {
+            "hash": 1988782400,
+            "original": "~z~Of course I'll take you home. Let's go.",
+            "translated": "~z~我肯定会送你回家的。走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2035352303,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2049568802,
+            "original": "~z~What's anybody doing here? I don't know.",
+            "translated": "~z~什么在干嘛？我可不知道。",
+            "desc": ""
+        },
+        {
+            "hash": 2077740254,
+            "original": "~z~Hey, there's a bowling alley up here. We should play.",
+            "translated": "~z~对了，那边上面有个保龄球馆。去那儿吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2084698633,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2123644835,
+            "original": "~z~Hey... I'm just finishing my hair. Come in.",
+            "translated": "~z~嘿...我还在弄头发。进来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2125934086,
+            "original": "MI1_NF",
+            "translated": "MI1_NF",
+            "desc": ""
+        },
+        {
+            "hash": 2144658045,
+            "original": "MI1_A_IA",
+            "translated": "MI1_A_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2195998933,
+            "original": "MI1_DF",
+            "translated": "MI1_DF",
+            "desc": ""
+        },
+        {
+            "hash": 2204757661,
+            "original": "MI1_A_GB",
+            "translated": "MI1_A_GB",
+            "desc": ""
+        },
+        {
+            "hash": 2213124150,
+            "original": "~z~you look good.",
+            "translated": "~z~你很漂亮。",
+            "desc": ""
+        },
+        {
+            "hash": 2374172927,
+            "original": "MI1_A_GD",
+            "translated": "MI1_A_GD",
+            "desc": ""
+        },
+        {
+            "hash": 2399752253,
+            "original": "~z~You're right there.",
+            "translated": "~z~这话在理。",
+            "desc": ""
+        },
+        {
+            "hash": 2403719794,
+            "original": "MI1_MC",
+            "translated": "MI1_MC",
+            "desc": ""
+        },
+        {
+            "hash": 2422476461,
+            "original": "~z~What do you do?",
+            "translated": "~z~你又是做什么的？",
+            "desc": ""
+        },
+        {
+            "hash": 2442135397,
+            "original": "MI1_A_GC",
+            "translated": "MI1_A_GC",
+            "desc": ""
+        },
+        {
+            "hash": 2466605995,
+            "original": "~z~See you, Michelle.",
+            "translated": "~z~再见，Michelle。",
+            "desc": ""
+        },
+        {
+            "hash": 2512765516,
+            "original": "~z~Niko, the carnival isn't open. I think they're going to turn it into a big Las Venturas style theme park.",
+            "translated": "~z~Niko，嘉年华没有开门。我觉得这里会被改造成拉斯文加斯风格的主题公园。",
+            "desc": ""
+        },
+        {
+            "hash": 2553047551,
+            "original": "MI1_MA",
+            "translated": "MI1_MA",
+            "desc": ""
+        },
+        {
+            "hash": 2574435144,
+            "original": "~z~Oh.",
+            "translated": "~z~噢。",
+            "desc": ""
+        },
+        {
+            "hash": 2586861984,
+            "original": "MI1_NE",
+            "translated": "MI1_NE",
+            "desc": ""
+        },
+        {
+            "hash": 2603033651,
+            "original": "~z~So, you don't know many people here in Liberty City. No boyfriends or husbands or anything?",
+            "translated": "~z~那，你在自由城认识的人不多喽？没有男友老公啥的？",
+            "desc": ""
+        },
+        {
+            "hash": 2622413653,
+            "original": "MI1_BA",
+            "translated": "MI1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2721274352,
+            "original": "MI1_A_DA",
+            "translated": "MI1_A_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2726561463,
+            "original": "MI1_OA",
+            "translated": "MI1_OA",
+            "desc": ""
+        },
+        {
+            "hash": 2741283975,
+            "original": "~z~I thought you'd be better at that, Niko. We had fun, didn't we? Will you take me back home now?",
+            "translated": "~z~我还以为你不止那么点水平呢，Niko。玩得挺开心不是吗？你现在能送我回家吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2744093081,
+            "original": "~z~No... why?",
+            "translated": "~z~不是啊...怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 2791069279,
+            "original": "100010100010100",
+            "translated": "100010100010100",
+            "desc": ""
+        },
+        {
+            "hash": 2823251791,
+            "original": "~z~The carnival's closed, Niko. I think some big developers have bought it or something.",
+            "translated": "~z~嘉年华关门了，Niko。我觉得应该是被大开发商买走了。",
+            "desc": ""
+        },
+        {
+            "hash": 2883061058,
+            "original": "MI1_MG",
+            "translated": "MI1_MG",
+            "desc": ""
+        },
+        {
+            "hash": 2921458854,
+            "original": "~z~So... where you taking me?",
+            "translated": "~z~那...我们去哪儿？",
+            "desc": ""
+        },
+        {
+            "hash": 2937360471,
+            "original": "~z~I'm working the whole time. Sometimes I think all I am is my job.",
+            "translated": "~z~我一直在工作。有时候我都觉得没了工作我就什么都不是了。",
+            "desc": ""
+        },
+        {
+            "hash": 2960892012,
+            "original": "MI1_EA",
+            "translated": "MI1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2965546801,
+            "original": "MI1_DD",
+            "translated": "MI1_DD",
+            "desc": ""
+        },
+        {
+            "hash": 2992755368,
+            "original": "~z~I work with Mallorie. What do you do, exactly?",
+            "translated": "~z~我和Mallorie一起工作的。你到底是做什么的？",
+            "desc": ""
+        },
+        {
+            "hash": 3036164696,
+            "original": "MI1_LA",
+            "translated": "MI1_LA",
+            "desc": ""
+        },
+        {
+            "hash": 3048615398,
+            "original": "~z~All your stuff is new. Some even still have tags on.",
+            "translated": "~z~房间里的东西都是新的，有的连标签都没摘。",
+            "desc": ""
+        },
+        {
+            "hash": 3051769428,
+            "original": "010010100010100",
+            "translated": "010010100010100",
+            "desc": ""
+        },
+        {
+            "hash": 3094195121,
+            "original": "~z~Shame we couldn't finish that game, Niko. It was fun playing though. Can you take me back now?",
+            "translated": "~z~没能打完真是遗憾，Niko。不过我还是玩得挺高兴的。你现在能送我回家吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3146910569,
+            "original": "MI1_A_DB",
+            "translated": "MI1_A_DB",
+            "desc": ""
+        },
+        {
+            "hash": 3168195879,
+            "original": "MI1_AD",
+            "translated": "MI1_AD",
+            "desc": ""
+        },
+        {
+            "hash": 3173366427,
+            "original": "~z~I didn't realize you were so violent, Niko. Have you got caught up with the Hove Beach criminals?",
+            "translated": "~z~真没想到你是个这么暴力的人，Niko。你是不是和Hove Beach的犯罪团伙有关系？",
+            "desc": ""
+        },
+        {
+            "hash": 3181677511,
+            "original": "~z~things get on my nerves and I just throw them out.",
+            "translated": "~z~看着不顺眼的就直接扔了换新的。",
+            "desc": ""
+        },
+        {
+            "hash": 3215060264,
+            "original": "~z~Well, what do you do?",
+            "translated": "~z~那你是做什么的？",
+            "desc": ""
+        },
+        {
+            "hash": 3223010044,
+            "original": "MI1_MB",
+            "translated": "MI1_MB",
+            "desc": ""
+        },
+        {
+            "hash": 3243383406,
+            "original": "MI1_BB",
+            "translated": "MI1_BB",
+            "desc": ""
+        },
+        {
+            "hash": 3298924210,
+            "original": "MI1_JA",
+            "translated": "MI1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3307944488,
+            "original": "MI1_MH",
+            "translated": "MI1_MH",
+            "desc": ""
+        },
+        {
+            "hash": 3370649280,
+            "original": "~z~Is that a fact? You haven't gotten involved in anything dubious here in Liberty City, have you? You'd tell me if you had, wouldn't you?",
+            "translated": "~z~是这样吗？你该不会是跟一些可疑的事情扯上关系了吧？就算扯上了，你也会告诉我吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3381121045,
+            "original": "MI1_MD",
+            "translated": "MI1_MD",
+            "desc": ""
+        },
+        {
+            "hash": 3429325086,
+            "original": "~z~I can look after myself Michelle, don't worry about me. Sorry again.",
+            "translated": "~z~我可以照顾好自己Michelle，不用这么操心我。很对不起。",
+            "desc": ""
+        },
+        {
+            "hash": 3430754924,
+            "original": "~z~Just a little difference. Ah... whoop-de-doo!",
+            "translated": "~z~还是有点区别的。啊...管它呢！",
+            "desc": ""
+        },
+        {
+            "hash": 3436111754,
+            "original": "MI1_EB",
+            "translated": "MI1_EB",
+            "desc": ""
+        },
+        {
+            "hash": 3438632538,
+            "original": "MI1_DE",
+            "translated": "MI1_DE",
+            "desc": ""
+        },
+        {
+            "hash": 3476077748,
+            "original": "MI1_HA",
+            "translated": "MI1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3492813873,
+            "original": "~z~Roman's bullshit stories maybe. I just felt like I needed a new start.",
+            "translated": "~z~那大概就是Roman的狗屁故事了。我只是觉得自己需要一个新起点。",
+            "desc": ""
+        },
+        {
+            "hash": 3500357616,
+            "original": "MI1_BC",
+            "translated": "MI1_BC",
+            "desc": ""
+        },
+        {
+            "hash": 3537417775,
+            "original": "~z~OCD or something?",
+            "translated": "~z~算是种强迫症吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3548207400,
+            "original": "~z~It's nice to get out of the apartment.",
+            "translated": "~z~从公寓里出来真好。",
+            "desc": ""
+        },
+        {
+            "hash": 3551450363,
+            "original": "MI1_A_FC",
+            "translated": "MI1_A_FC",
+            "desc": ""
+        },
+        {
+            "hash": 3603433441,
+            "original": "MI1_AE",
+            "translated": "MI1_AE",
+            "desc": ""
+        },
+        {
+            "hash": 3606684387,
+            "original": "~z~We don't know each other very well, Michelle. I'll talk to you soon.",
+            "translated": "~z~我们还不是很熟，Michelle。下次我会告诉你的。",
+            "desc": ""
+        },
+        {
+            "hash": 3606944739,
+            "original": "~z~I guess you're not used to talking to American women.",
+            "translated": "~z~应该只是你还不太习惯和美国女性说话。",
+            "desc": ""
+        },
+        {
+            "hash": 3625531074,
+            "original": "MI1_A_BA",
+            "translated": "MI1_A_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3639093899,
+            "original": "~z~You will, give it some time.",
+            "translated": "~z~会有的，只是时间问题。",
+            "desc": ""
+        },
+        {
+            "hash": 3703839052,
+            "original": "MI1_A_GF",
+            "translated": "MI1_A_GF",
+            "desc": ""
+        },
+        {
+            "hash": 3742102695,
+            "original": "~z~I thought you left me here.",
+            "translated": "~z~我还以为你就把我扔这儿了。",
+            "desc": ""
+        },
+        {
+            "hash": 3758199094,
+            "original": "~z~Good game, Niko. We had fun. Will you take me home now?",
+            "translated": "~z~打得不错，Niko。挺开心的。你现在能送我回家吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3780277458,
+            "original": "~z~A lot of people feel that way. It's hard to keep what you do from taking over your life.",
+            "translated": "~z~很多人都这样。很难让工作不占据你的生活。",
+            "desc": ""
+        },
+        {
+            "hash": 3824779890,
+            "original": "~z~You're going to need to take this to the shop.",
+            "translated": "~z~再这样开下去就要返厂维修了。",
+            "desc": ""
+        },
+        {
+            "hash": 3829577325,
+            "original": "~z~Come on, I asked first...",
+            "translated": "~z~别这样，我先问的...",
+            "desc": ""
+        },
+        {
+            "hash": 3871521342,
+            "original": "010100010",
+            "translated": "010100010",
+            "desc": ""
+        },
+        {
+            "hash": 3939329560,
+            "original": "~z~I can see that... but, er... everything is new.",
+            "translated": "~z~看得出来...不过...全都是新的。",
+            "desc": ""
+        },
+        {
+            "hash": 3949186946,
+            "original": "~z~What do you like doing?",
+            "translated": "~z~你喜欢做什么？",
+            "desc": ""
+        },
+        {
+            "hash": 4030607878,
+            "original": "MI1_OC",
+            "translated": "MI1_OC",
+            "desc": ""
+        },
+        {
+            "hash": 4052121197,
+            "original": "MI1_A_DC",
+            "translated": "MI1_A_DC",
+            "desc": ""
+        },
+        {
+            "hash": 4064703998,
+            "original": "~z~Actually we call it, um, \"carnival\" here.",
+            "translated": "~z~其实我们这儿管它叫，呃，「嘉年华」。",
+            "desc": ""
+        },
+        {
+            "hash": 4065548020,
+            "original": "~z~I thought you were doing me a favor by going out with me. You're the local.",
+            "translated": "~z~我还以为你陪我出来是在迁就我，毕竟你是本地人。",
+            "desc": ""
+        },
+        {
+            "hash": 4082508601,
+            "original": "MI1_AC",
+            "translated": "MI1_AC",
+            "desc": ""
+        },
+        {
+            "hash": 4089503804,
+            "original": "~z~I just want to get to know you, Niko. See the places you hang out. The people you associate with.",
+            "translated": "~z~我只想好好了解下你，Niko。看看你常去的地方，见见你的熟人。",
+            "desc": ""
+        },
+        {
+            "hash": 4103413276,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4115479122,
+            "original": "~z~Roman got himself into some trouble. I had to help him out.",
+            "translated": "~z~Roman遇到了些麻烦，我得去帮他。",
+            "desc": ""
+        },
+        {
+            "hash": 4132373467,
+            "original": "MI1_A_PA",
+            "translated": "MI1_A_PA",
+            "desc": ""
+        },
+        {
+            "hash": 4135135089,
+            "original": "~z~This poor car.",
+            "translated": "~z~可怜的车啊。",
+            "desc": ""
+        },
+        {
+            "hash": 4162899365,
+            "original": "~z~Do you mean you'd steal one? Have you got caught up with the Hove Beach criminals, Niko?",
+            "translated": "~z~你是不是要去偷车？你是不是和Hove Beach的犯罪团伙有关系，Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 4179165871,
+            "original": "~z~Yeah. I'm kind of obsessed with cleanliness...",
+            "translated": "~z~确实。其实我有点太爱干净了。",
+            "desc": ""
+        },
+        {
+            "hash": 4194029532,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4205996628,
+            "original": "~z~Sorry I had to run out on our date, Michelle. Something important came up.",
+            "translated": "~z~约会中途就走我很抱歉，Michelle。突然有点急事。",
+            "desc": ""
+        },
+        {
+            "hash": 4220434842,
+            "original": "~z~Hey, it's Niko.",
+            "translated": "~z~嘿，我是Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 4220821036,
+            "original": "010100010",
+            "translated": "010100010",
+            "desc": ""
+        },
+        {
+            "hash": 4264095681,
+            "original": "~z~I can't wait for ever, Niko. Come on.",
+            "translated": "~z~我不可能一直等着，Niko。快点。",
+            "desc": ""
+        },
+        {
+            "hash": 4268882100,
+            "original": "~z~There's nothing else about Liberty City then, just Roman?",
+            "translated": "~z~没别的跟自由城有关的理由了吗？只是Roman？",
+            "desc": ""
+        },
+        {
+            "hash": 4280500419,
+            "original": "~z~Coming...",
+            "translated": "~z~来了...",
+            "desc": ""
+        },
+        {
+            "hash": 4283756791,
+            "original": "~z~Thanks for taking me out. I haven't been on a date for a while. I'm kind of lonely here.",
+            "translated": "~z~谢谢你带我出来玩。我已经很久没有约会了。我在这儿还有点寂寞。",
+            "desc": ""
+        },
+        {
+            "hash": 4289023654,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        }
+    ]
+}

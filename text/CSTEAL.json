@@ -1,0 +1,226 @@
+{
+    "CSTEAL": [
+        {
+            "hash": 99264099,
+            "original": "Location",
+            "translated": "地点",
+            "desc": ""
+        },
+        {
+            "hash": 328040767,
+            "original": "Get the car to the ~y~dropoff point.",
+            "translated": "让汽车到达~y~投放点。",
+            "desc": ""
+        },
+        {
+            "hash": 637302857,
+            "original": "All of the parking spaces were successfully filled.",
+            "translated": "所有的停车位都已成功填满。",
+            "desc": ""
+        },
+        {
+            "hash": 790478254,
+            "original": "Car Type",
+            "translated": "汽车类型",
+            "desc": ""
+        },
+        {
+            "hash": 800659076,
+            "original": "Off",
+            "translated": "关闭",
+            "desc": ""
+        },
+        {
+            "hash": 843614259,
+            "original": "You have destroyed the vehicle.",
+            "translated": "你毁了你的载具。",
+            "desc": ""
+        },
+        {
+            "hash": 901046950,
+            "original": "Close",
+            "translated": "近",
+            "desc": ""
+        },
+        {
+            "hash": 1032565289,
+            "original": "Hard",
+            "translated": "难",
+            "desc": ""
+        },
+        {
+            "hash": 1048954780,
+            "original": "Delivered Car",
+            "translated": "交付的汽车",
+            "desc": ""
+        },
+        {
+            "hash": 1217836594,
+            "original": "Get the car to the final ~y~dropoff point.",
+            "translated": "让车去到最后的~y~投放点。",
+            "desc": ""
+        },
+        {
+            "hash": 1472473216,
+            "original": "10 mins",
+            "translated": "10分钟",
+            "desc": ""
+        },
+        {
+            "hash": 1489438262,
+            "original": "Alderney",
+            "translated": "Alderney",
+            "desc": ""
+        },
+        {
+            "hash": 1532227001,
+            "original": "Normal",
+            "translated": "普通",
+            "desc": ""
+        },
+        {
+            "hash": 1719551476,
+            "original": "15 mins",
+            "translated": "15分钟",
+            "desc": ""
+        },
+        {
+            "hash": 1820642507,
+            "original": "Go and collect a ~g~vehicle.",
+            "translated": "去收集~g~载具。",
+            "desc": ""
+        },
+        {
+            "hash": 1835448044,
+            "original": "Car Spotted",
+            "translated": "发现车",
+            "desc": ""
+        },
+        {
+            "hash": 1922498651,
+            "original": "Go and get the ~b~Car.",
+            "translated": "去得到~b~车。",
+            "desc": ""
+        },
+        {
+            "hash": 2109894470,
+            "original": "Go and get a ~b~vehicle.",
+            "translated": "去得到一辆~b~载具。",
+            "desc": ""
+        },
+        {
+            "hash": 2270487377,
+            "original": "Random",
+            "translated": "随机",
+            "desc": ""
+        },
+        {
+            "hash": 2342525467,
+            "original": "Sports",
+            "translated": "运动",
+            "desc": ""
+        },
+        {
+            "hash": 2343375386,
+            "original": "Car Spawning",
+            "translated": "生成汽车",
+            "desc": ""
+        },
+        {
+            "hash": 2659565542,
+            "original": "Regular",
+            "translated": "定期",
+            "desc": ""
+        },
+        {
+            "hash": 2782223738,
+            "original": "A ~g~vehicle~s~ containing drugs has been spotted. Go and get it.",
+            "translated": "一辆装了毒品的~g~载具~s~被发现了。去得到它。",
+            "desc": ""
+        },
+        {
+            "hash": 2982971997,
+            "original": "Take the car to a ~y~dropoff.",
+            "translated": "把车开到~y~投放点。",
+            "desc": ""
+        },
+        {
+            "hash": 3112823818,
+            "original": "30 mins",
+            "translated": "30分钟",
+            "desc": ""
+        },
+        {
+            "hash": 3294276504,
+            "original": "Car Destroyed",
+            "translated": "车坏了",
+            "desc": ""
+        },
+        {
+            "hash": 3316810403,
+            "original": "Far",
+            "translated": "远",
+            "desc": ""
+        },
+        {
+            "hash": 3525020927,
+            "original": "A vehicle has been stolen and is being taken to a ~y~dropoff.",
+            "translated": "一辆车被盗，正在被带到~y~投放点。",
+            "desc": ""
+        },
+        {
+            "hash": 3564093740,
+            "original": "Take the car to the ~y~dropoff.",
+            "translated": "把车带到~y~投放点。",
+            "desc": ""
+        },
+        {
+            "hash": 3747844973,
+            "original": "Algonquin",
+            "translated": "Algonquin",
+            "desc": ""
+        },
+        {
+            "hash": 3831230378,
+            "original": "A.I. Level",
+            "translated": "A.I.级别",
+            "desc": ""
+        },
+        {
+            "hash": 3940890701,
+            "original": "Duration",
+            "translated": "期间",
+            "desc": ""
+        },
+        {
+            "hash": 3957698193,
+            "original": "Car Entered",
+            "translated": "车辆已进入",
+            "desc": ""
+        },
+        {
+            "hash": 4050925454,
+            "original": "Dukes/Broker",
+            "translated": "Dukes/Broker",
+            "desc": ""
+        },
+        {
+            "hash": 4096397628,
+            "original": "目标车辆被毁了。(1.2.0.30中移除)",
+            "translated": "",
+            "desc": ""
+        },
+        {
+            "hash": 4135209760,
+            "original": "A vehicle is being taken to the final ~y~dropoff.",
+            "translated": "一辆载具正被带到最后的~y~投放点。",
+            "desc": ""
+        },
+        {
+            "hash": 4279629077,
+            "original": "Get the car stuffed with drugs to the ~y~dropoff point.",
+            "translated": "把装满毒品的车送到~y~投放点。",
+            "desc": ""
+        }
+    ]
+}

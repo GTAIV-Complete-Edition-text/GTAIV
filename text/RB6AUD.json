@@ -1,0 +1,856 @@
+{
+    "RB6AUD": [
+        {
+            "hash": 7661892,
+            "original": "120",
+            "translated": "120",
+            "desc": ""
+        },
+        {
+            "hash": 54169054,
+            "original": "~z~We have an intruder.",
+            "translated": "~z~有入侵者。",
+            "desc": ""
+        },
+        {
+            "hash": 59082683,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 99646903,
+            "original": "~z~Boychick - you did the right thing.",
+            "translated": "~z~小伙子－你做对了。",
+            "desc": ""
+        },
+        {
+            "hash": 105873924,
+            "original": "~z~No problem.",
+            "translated": "~z~没问题。",
+            "desc": ""
+        },
+        {
+            "hash": 233286754,
+            "original": "~z~I feel like all I been doing is shutting people up ever since this diamond thing started.",
+            "translated": "~z~我觉得自从钻石事件发生后我一直在做的就是杀人。",
+            "desc": ""
+        },
+        {
+            "hash": 259977047,
+            "original": "500",
+            "translated": "500",
+            "desc": ""
+        },
+        {
+            "hash": 334437999,
+            "original": "~z~You told me to come.",
+            "translated": "~z~你叫我过来的。",
+            "desc": ""
+        },
+        {
+            "hash": 374306334,
+            "original": "~z~I'm in shit because of you, you piece of...",
+            "translated": "~z~你还让我有大麻烦了，你这坨...",
+            "desc": ""
+        },
+        {
+            "hash": 407290144,
+            "original": "~z~I shut Isaac up for you.",
+            "translated": "~z~我帮你把Isaac杀死了。",
+            "desc": ""
+        },
+        {
+            "hash": 490975212,
+            "original": "~z~Okay, so...",
+            "translated": "~z~好的，然后呢...",
+            "desc": ""
+        },
+        {
+            "hash": 494948959,
+            "original": "~z~I don't wanna have to call security. Get lost, mister.",
+            "translated": "~z~我不想叫保安。识相点，先生。",
+            "desc": ""
+        },
+        {
+            "hash": 514457088,
+            "original": "RB6_IH",
+            "translated": "RB6_IH",
+            "desc": ""
+        },
+        {
+            "hash": 519802627,
+            "original": "RB6_KA",
+            "translated": "RB6_KA",
+            "desc": ""
+        },
+        {
+            "hash": 521927789,
+            "original": "RB6_II",
+            "translated": "RB6_II",
+            "desc": ""
+        },
+        {
+            "hash": 526689086,
+            "original": "RB6_IB",
+            "translated": "RB6_IB",
+            "desc": ""
+        },
+        {
+            "hash": 565164528,
+            "original": "~z~Me too. Fuck it. Fuck it.",
+            "translated": "~z~我也是，妈的，妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 661833078,
+            "original": "~z~Oh, I'm sorry.",
+            "translated": "~z~哦，我很抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 740792843,
+            "original": "RB6_IG",
+            "translated": "RB6_IG",
+            "desc": ""
+        },
+        {
+            "hash": 745791572,
+            "original": "~z~We got a problem here, somebody's breaking in.",
+            "translated": "~z~这儿有麻烦了，有人想闯进来。",
+            "desc": ""
+        },
+        {
+            "hash": 800650960,
+            "original": "~z~This is called loitering with intent. Get lost.",
+            "translated": "~z~这叫做蓄意游荡。自己滚。",
+            "desc": ""
+        },
+        {
+            "hash": 815023693,
+            "original": "RB6_IA",
+            "translated": "RB6_IA",
+            "desc": ""
+        },
+        {
+            "hash": 844873268,
+            "original": "~z~This area is off limits, buddy.",
+            "translated": "~z~这里限制入内，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 870369651,
+            "original": "~z~You're still just another straight off the boat punk.",
+            "translated": "~z~你只不过是一个刚下船的混混。",
+            "desc": ""
+        },
+        {
+            "hash": 891183309,
+            "original": "~z~Go shut that stooge up!",
+            "translated": "~z~让那个贱人闭嘴！",
+            "desc": ""
+        },
+        {
+            "hash": 927647523,
+            "original": "RB6_ID",
+            "translated": "RB6_ID",
+            "desc": ""
+        },
+        {
+            "hash": 949577367,
+            "original": "~z~Go shut those fuckers up!",
+            "translated": "~z~让那些狗逼闭嘴！",
+            "desc": ""
+        },
+        {
+            "hash": 950038498,
+            "original": "~z~I'm going out for a smoke. If the penthouse calls down again, tell them I'm on a break.",
+            "translated": "~z~我要出去抽支烟。如果他再打来，告诉他们我在休息。",
+            "desc": ""
+        },
+        {
+            "hash": 979664250,
+            "original": "RB6_AA",
+            "translated": "RB6_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1024711629,
+            "original": "~z~And every other mouth that came close to those diamonds is closed for good.",
+            "translated": "~z~任何知道钻石的人都死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1064755518,
+            "original": "RB6_ID",
+            "translated": "RB6_ID",
+            "desc": ""
+        },
+        {
+            "hash": 1083470848,
+            "original": "~z~This is a matter of principle, I will not be done over by a bunch of nebishes.",
+            "translated": "~z~这是原则问题，我不会让一群废物把我杀了。",
+            "desc": ""
+        },
+        {
+            "hash": 1091105608,
+            "original": "010010100100100100010010100100100",
+            "translated": "010010100100100100010010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 1092246449,
+            "original": "~z~Sorry, mister. This floor is closed.",
+            "translated": "~z~对不起，先生。这层关闭了。",
+            "desc": ""
+        },
+        {
+            "hash": 1104129202,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 1122548262,
+            "original": "790",
+            "translated": "790",
+            "desc": ""
+        },
+        {
+            "hash": 1132527989,
+            "original": "~z~You didn't want to get killed, you shouldn't have done business with gangsters.",
+            "translated": "~z~你要是不想被杀，就不该跟黑道做生意。",
+            "desc": ""
+        },
+        {
+            "hash": 1155967598,
+            "original": "RB6_IB",
+            "translated": "RB6_IB",
+            "desc": ""
+        },
+        {
+            "hash": 1168270529,
+            "original": "~z~Sorry, we can't have you coming through here.",
+            "translated": "~z~对不起，我们不能让您入内。",
+            "desc": ""
+        },
+        {
+            "hash": 1175350734,
+            "original": "~z~Alright, Nicky, alright. Don't go forgetting about respect or nothing.",
+            "translated": "~z~好的，Nicky，好的。不要忘了尊重。",
+            "desc": ""
+        },
+        {
+            "hash": 1211075227,
+            "original": "600",
+            "translated": "600",
+            "desc": ""
+        },
+        {
+            "hash": 1223722821,
+            "original": "~z~He's blaming me for everything - everything! Even the shit we didn't do.",
+            "translated": "~z~他什么都怪我头上。全怪我！没做过的都怪我。",
+            "desc": ""
+        },
+        {
+            "hash": 1269276343,
+            "original": "~z~We got a live one here.",
+            "translated": "~z~这儿有个人。",
+            "desc": ""
+        },
+        {
+            "hash": 1273498275,
+            "original": "~z~How do you murdering scum sleep at night?",
+            "translated": "~z~你这杀人犯怎么睡得着的？",
+            "desc": ""
+        },
+        {
+            "hash": 1297413419,
+            "original": "RB6_LA",
+            "translated": "RB6_LA",
+            "desc": ""
+        },
+        {
+            "hash": 1310396173,
+            "original": "~z~This was all Mori's doing, he wanted those diamonds so bad.",
+            "translated": "~z~全都是Mori干的，他很想要钻石。",
+            "desc": ""
+        },
+        {
+            "hash": 1323138912,
+            "original": "~z~Johnny, that biker scumbag, has disappeared with the money.",
+            "translated": "~z~Johnny，那个飞车党小人，带着钱消失了。",
+            "desc": ""
+        },
+        {
+            "hash": 1417137567,
+            "original": "590",
+            "translated": "590",
+            "desc": ""
+        },
+        {
+            "hash": 1420599281,
+            "original": "~z~Ray.",
+            "translated": "~z~Ray。",
+            "desc": ""
+        },
+        {
+            "hash": 1423811630,
+            "original": "~z~Stolen diamonds is an unpleasant business, friend.",
+            "translated": "~z~偷来的钻石可不是好做的买卖，朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 1437889743,
+            "original": "~z~You, listen to me Isaac - listen, dick. It is not my fault you got robbed. Not my fault!",
+            "translated": "~z~你听我说，Isaac。听着，屌人。你被抢了不能怪我。不能怪我！",
+            "desc": ""
+        },
+        {
+            "hash": 1462969290,
+            "original": "~z~Now I've got no money...",
+            "translated": "~z~现在我没拿到钱...",
+            "desc": ""
+        },
+        {
+            "hash": 1486918374,
+            "original": "~z~Screw you, Ray. I ain't your clean up guy no more. You get that?",
+            "translated": "~z~去你妈的，Ray。我不再是你的打工仔了。懂了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1499616933,
+            "original": "~z~This city can get real scary if you don't got friends. You remember that.",
+            "translated": "~z~要是没有朋友，这座城市真的会很可怕。你要记住。",
+            "desc": ""
+        },
+        {
+            "hash": 1535715563,
+            "original": "~z~Isaac will understand. This is business.",
+            "translated": "~z~Isaac会明白的。这就是生意。",
+            "desc": ""
+        },
+        {
+            "hash": 1663972810,
+            "original": "RB6_MA",
+            "translated": "RB6_MA",
+            "desc": ""
+        },
+        {
+            "hash": 1676091835,
+            "original": "RB6_OA",
+            "translated": "RB6_OA",
+            "desc": ""
+        },
+        {
+            "hash": 1684845525,
+            "original": "RB6_NA",
+            "translated": "RB6_NA",
+            "desc": ""
+        },
+        {
+            "hash": 1777546635,
+            "original": "~z~Except for yours, that is. You gotta be grateful for that.",
+            "translated": "~z~除了你这个例外。你最好记着点。",
+            "desc": ""
+        },
+        {
+            "hash": 1782914564,
+            "original": "~z~You understan-",
+            "translated": "~z~你知道——",
+            "desc": ""
+        },
+        {
+            "hash": 1795279723,
+            "original": "~z~He's holed up at the Majestic, with a couple of his cronies.",
+            "translated": "~z~他现在躲在Majestic酒店，和几个亲信一起。",
+            "desc": ""
+        },
+        {
+            "hash": 1814638591,
+            "original": "RB6_IE",
+            "translated": "RB6_IE",
+            "desc": ""
+        },
+        {
+            "hash": 1817794196,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 1834799133,
+            "original": "~z~no diamonds and this dick's threatening to have me killed.",
+            "translated": "~z~也没钻石，这个屌人还威胁要做掉我。",
+            "desc": ""
+        },
+        {
+            "hash": 1836000344,
+            "original": "~z~I'm on a cell phone, you jerk.",
+            "translated": "~z~我拿手机打的，白痴。",
+            "desc": ""
+        },
+        {
+            "hash": 1868792956,
+            "original": "RB6_YA",
+            "translated": "RB6_YA",
+            "desc": ""
+        },
+        {
+            "hash": 1896999307,
+            "original": "~z~Somebody's breaking into the suite.",
+            "translated": "~z~有人闯进来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1942702395,
+            "original": "~z~I shut Isaac up for you.",
+            "translated": "~z~Isaac已经闭嘴了。",
+            "desc": ""
+        },
+        {
+            "hash": 1969511835,
+            "original": "~z~We should never have done business with you scum.",
+            "translated": "~z~真不应该和你们这些人渣做生意。",
+            "desc": ""
+        },
+        {
+            "hash": 2033151185,
+            "original": "~z~Threatening to kill people is not a good idea, Isaac.",
+            "translated": "~z~威胁要杀了别人可不是好主意，Isaac。",
+            "desc": ""
+        },
+        {
+            "hash": 2044946073,
+            "original": "~z~I'm screwed.",
+            "translated": "~z~我完了。",
+            "desc": ""
+        },
+        {
+            "hash": 2055293248,
+            "original": "~z~Show mercy. Is that not what your life has taught you? Let me leave here alive.",
+            "translated": "~z~善良点吧。这不是你的人生经验吗？放我一条生路吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2064727428,
+            "original": "RB6_IK",
+            "translated": "RB6_IK",
+            "desc": ""
+        },
+        {
+            "hash": 2075246813,
+            "original": "~z~Ohh, you wanna have me killed? Oh yeah? Screw you!",
+            "translated": "~z~哦，你想做掉我？是吗？去你妈的！",
+            "desc": ""
+        },
+        {
+            "hash": 2076830314,
+            "original": "~z~I wasn't going to let you take the diamonds and the money and get away with it.",
+            "translated": "~z~当时我不想让你带着钻石和钱跑掉。",
+            "desc": ""
+        },
+        {
+            "hash": 2105657564,
+            "original": "RB6_JA",
+            "translated": "RB6_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2116285147,
+            "original": "~z~Well sorry. Having a bad fucking day.",
+            "translated": "~z~不好意思。老子心情很差。",
+            "desc": ""
+        },
+        {
+            "hash": 2137526120,
+            "original": "RB6_IK",
+            "translated": "RB6_IK",
+            "desc": ""
+        },
+        {
+            "hash": 2210266335,
+            "original": "~z~Blaming me 'cause he got robbed.",
+            "translated": "~z~自己被抢还怪我。",
+            "desc": ""
+        },
+        {
+            "hash": 2218220600,
+            "original": "~z~You shmuck, you harbinger of death, don't you kill me.",
+            "translated": "~z~你这蠢蛋，死神的使者，别杀我。",
+            "desc": ""
+        },
+        {
+            "hash": 2284005283,
+            "original": "~z~Mister. Closed means get the fuck out of here.",
+            "translated": "~z~先生。关闭的意思是让你丫滚。",
+            "desc": ""
+        },
+        {
+            "hash": 2330496104,
+            "original": "~z~Push your fucking luck.",
+            "translated": "~z~有种你丫试试。",
+            "desc": ""
+        },
+        {
+            "hash": 2351040751,
+            "original": "~z~You're still just another straight off the boat punk.",
+            "translated": "~z~你还是个刚从船上下来的小混混。",
+            "desc": ""
+        },
+        {
+            "hash": 2361454015,
+            "original": "~z~Kill the others - spare me. Let an old man live out his last years.",
+            "translated": "~z~杀别人吧，放我一马。让老人安度晚年吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2404798647,
+            "original": "~z~Save yourself. Run.",
+            "translated": "~z~你自保吧。快跑。",
+            "desc": ""
+        },
+        {
+            "hash": 2407661744,
+            "original": "~z~Well, we ain't got the diamonds and we don't know where they are.",
+            "translated": "~z~我们没有钻石，也不知道钻石在哪里。",
+            "desc": ""
+        },
+        {
+            "hash": 2503129429,
+            "original": "~z~Are you sure you wanna do this, huh?",
+            "translated": "~z~你确定你要这么来吗，嗯？",
+            "desc": ""
+        },
+        {
+            "hash": 2515861427,
+            "original": "~z~Don't you kill me you bastard. Don't you dare.",
+            "translated": "~z~你怎么敢杀我，你怎么敢。",
+            "desc": ""
+        },
+        {
+            "hash": 2516851295,
+            "original": "RB6_II",
+            "translated": "RB6_II",
+            "desc": ""
+        },
+        {
+            "hash": 2539646555,
+            "original": "RB6_IJ",
+            "translated": "RB6_IJ",
+            "desc": ""
+        },
+        {
+            "hash": 2542576476,
+            "original": "~z~Hey. Can I get a coffee, please?",
+            "translated": "~z~喂，能不能来杯咖啡啊？",
+            "desc": ""
+        },
+        {
+            "hash": 2568956117,
+            "original": "~z~Go ahead. Open your mouth, asshole.",
+            "translated": "~z~来啊。往外传啊，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 2627365695,
+            "original": "~z~Get out of here, you stupid bitch.",
+            "translated": "~z~滚蛋吧，傻逼婊子。",
+            "desc": ""
+        },
+        {
+            "hash": 2657332594,
+            "original": "~z~This city can get real scary if you don't got friends. You remember that.",
+            "translated": "~z~没有朋友你在这里毫无立足之地。给我记住了。",
+            "desc": ""
+        },
+        {
+            "hash": 2684597567,
+            "original": "800",
+            "translated": "800",
+            "desc": ""
+        },
+        {
+            "hash": 2696454941,
+            "original": "~z~I feel like all I been doing is shutting people up ever since this diamond thing started.",
+            "translated": "~z~自从跟钻石扯上关系后，我好像一直在给人封口。",
+            "desc": ""
+        },
+        {
+            "hash": 2710970119,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2739091804,
+            "original": "~z~Veh is mir! Those diamonds were fucking beautiful.",
+            "translated": "~z~饶了我吧！那些钻石真的太漂亮了。",
+            "desc": ""
+        },
+        {
+            "hash": 2770277307,
+            "original": "~z~Hello? Hello? Ahh!",
+            "translated": "~z~喂？喂？啊！",
+            "desc": ""
+        },
+        {
+            "hash": 2806268907,
+            "original": "~z~Shut who up?",
+            "translated": "~z~让谁闭嘴？",
+            "desc": ""
+        },
+        {
+            "hash": 2855516098,
+            "original": "RB6_IE",
+            "translated": "RB6_IE",
+            "desc": ""
+        },
+        {
+            "hash": 2910350301,
+            "original": "~z~Alright, Nicky, alright. Don't go forgetting about respect or nothing.",
+            "translated": "~z~好吧，Nicky，好吧。但是该有的尊重不能丢。",
+            "desc": ""
+        },
+        {
+            "hash": 2951343268,
+            "original": "010010100100100100010100100100",
+            "translated": "010010100100100100010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 3022376614,
+            "original": "RB6_CA",
+            "translated": "RB6_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3058283164,
+            "original": "RB6_IJ",
+            "translated": "RB6_IJ",
+            "desc": ""
+        },
+        {
+            "hash": 3122712604,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3130820137,
+            "original": "~z~That was the deal. I'm not your clean up guy any more.",
+            "translated": "~z~这就是约定，我再也不会帮你擦屁股了。",
+            "desc": ""
+        },
+        {
+            "hash": 3139881494,
+            "original": "~z~Isaac's life is enough. Take that and the debt should be paid. You don't need me too.",
+            "translated": "~z~死一个Isaac就够了。拿上那些应该就够还债了，没必要杀我。",
+            "desc": ""
+        },
+        {
+            "hash": 3164565153,
+            "original": "~z~Isaac! The diamond dealer.",
+            "translated": "~z~Isaac！钻石商人。",
+            "desc": ""
+        },
+        {
+            "hash": 3194975093,
+            "original": "~z~What the fuck do you want?",
+            "translated": "~z~你他妈想怎样？",
+            "desc": ""
+        },
+        {
+            "hash": 3199304913,
+            "original": "~z~Security breach. Take down the intruder.",
+            "translated": "~z~安全警告。消灭入侵者。",
+            "desc": ""
+        },
+        {
+            "hash": 3233976857,
+            "original": "~z~Except for yours, that is. You gotta be grateful for that.",
+            "translated": "~z~只有你是例外。你都应该为此心存感激。",
+            "desc": ""
+        },
+        {
+            "hash": 3246978535,
+            "original": "~z~You pieces of shit, first you kill Mori and now me.",
+            "translated": "~z~你这混蛋，先是杀了Mori，现在是我。",
+            "desc": ""
+        },
+        {
+            "hash": 3264309933,
+            "original": "RB6_IC",
+            "translated": "RB6_IC",
+            "desc": ""
+        },
+        {
+            "hash": 3325661248,
+            "original": "600",
+            "translated": "600",
+            "desc": ""
+        },
+        {
+            "hash": 3336828182,
+            "original": "RB6_DA",
+            "translated": "RB6_DA",
+            "desc": ""
+        },
+        {
+            "hash": 3369280150,
+            "original": "~z~I've done this work for you, you said you'd find someone for me.",
+            "translated": "~z~我已经帮你做事了，你说过会帮我找到那个人的。",
+            "desc": ""
+        },
+        {
+            "hash": 3375049142,
+            "original": "~z~Okay, you're really going to have to get out of here now.",
+            "translated": "~z~好了，你现在真的该走了。",
+            "desc": ""
+        },
+        {
+            "hash": 3387289279,
+            "original": "RB6_IF",
+            "translated": "RB6_IF",
+            "desc": ""
+        },
+        {
+            "hash": 3403910233,
+            "original": "~z~That curly haired leech is going to talk.",
+            "translated": "~z~那个卷毛蚂蟥会泄密的。",
+            "desc": ""
+        },
+        {
+            "hash": 3406870516,
+            "original": "RB6_IC",
+            "translated": "RB6_IC",
+            "desc": ""
+        },
+        {
+            "hash": 3432934661,
+            "original": "~z~I have seen your face. I know what it is to look evil in the eye. Let me live!",
+            "translated": "~z~我见过你的脸。我知道看过恶魔的脸会怎样。放我一马吧！",
+            "desc": ""
+        },
+        {
+            "hash": 3436934545,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3497898350,
+            "original": "390",
+            "translated": "390",
+            "desc": ""
+        },
+        {
+            "hash": 3542300378,
+            "original": "~z~And every other mouth that came close to those diamonds is closed for good.",
+            "translated": "~z~剩下牵扯到钻石的每一个人都被封口了。",
+            "desc": ""
+        },
+        {
+            "hash": 3546480708,
+            "original": "~z~You're not welcome here, get outta here.",
+            "translated": "~z~这里不欢迎您，请您离开。",
+            "desc": ""
+        },
+        {
+            "hash": 3574330256,
+            "original": "~z~I had nothing to do with it. Nothing!",
+            "translated": "~z~跟我没有关系。没有！",
+            "desc": ""
+        },
+        {
+            "hash": 3596255361,
+            "original": "~z~I told Isaac not to trouble you crazy scumbags. He wouldn't listen. Always the same.",
+            "translated": "~z~我跟lsaac说了别找你们这些疯子。他偏不听。永远是这样。",
+            "desc": ""
+        },
+        {
+            "hash": 3607936312,
+            "original": "~z~You ready for this?",
+            "translated": "~z~你准备好了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3609665573,
+            "original": "~z~You showed mercy. I thank you for this.",
+            "translated": "~z~你手下留情了。我很感谢。",
+            "desc": ""
+        },
+        {
+            "hash": 3664432181,
+            "original": "~z~I'm getting sick of looking at you, clear off, mister.",
+            "translated": "~z~我不想一直盯着你，离开这儿，先生。",
+            "desc": ""
+        },
+        {
+            "hash": 3779960430,
+            "original": "RB6_IA",
+            "translated": "RB6_IA",
+            "desc": ""
+        },
+        {
+            "hash": 3793849795,
+            "original": "~z~I'm done with you. You understand? I'm finished.",
+            "translated": "~z~我们到此为止。明白了吗？到此为止。",
+            "desc": ""
+        },
+        {
+            "hash": 3835737222,
+            "original": "RB6_XA",
+            "translated": "RB6_XA",
+            "desc": ""
+        },
+        {
+            "hash": 3847182781,
+            "original": "~z~I'm gonna have to fuckin' hurt you.",
+            "translated": "~z~我他妈要干死你。",
+            "desc": ""
+        },
+        {
+            "hash": 3863655819,
+            "original": "RB6_IF",
+            "translated": "RB6_IF",
+            "desc": ""
+        },
+        {
+            "hash": 3894486030,
+            "original": "~z~This was Isaac's deal he should pay for the screw up. Not I.",
+            "translated": "~z~交易是Isaac弄的，失败了找他算账。别找我。",
+            "desc": ""
+        },
+        {
+            "hash": 3963250952,
+            "original": "~z~Johnny, that biker scumbag, has disappeared with the money.",
+            "translated": "~z~Johnny，这个该死的飞车党，带着钱跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 4026476926,
+            "original": "~z~No, no, you know what? I ain't even started yet, you thieving fuck!",
+            "translated": "~z~不，不，你知道吗？我都没开始呢，你个混蛋毛贼！",
+            "desc": ""
+        },
+        {
+            "hash": 4160801151,
+            "original": "~z~Hey this is private. Sorry mister.",
+            "translated": "~z~嘿，这里是私人区，抱歉，先生。",
+            "desc": ""
+        },
+        {
+            "hash": 4235682428,
+            "original": "RB6_BA",
+            "translated": "RB6_BA",
+            "desc": ""
+        },
+        {
+            "hash": 4270198175,
+            "original": "~z~Well, we ain't got the diamonds and we don't know where they are.",
+            "translated": "~z~好吧，我们没拿到钻石，也不知道钻石在哪儿。",
+            "desc": ""
+        }
+    ]
+}

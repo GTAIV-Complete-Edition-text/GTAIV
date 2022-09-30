@@ -1,0 +1,208 @@
+{
+    "CIA5": [
+        {
+            "hash": 3532268,
+            "original": "Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to increase your altitude or ~INPUT_VEH_FLY_THROTTLE_DOWN~ to decrease your altitude.",
+            "translated": "按~INPUT_VEH_FLY_THROTTLE_UP~提升高度，按~INPUT_VEH_FLY_THROTTLE_DOWN~降低高度。",
+            "desc": ""
+        },
+        {
+            "hash": 180357466,
+            "original": "Hold ~INPUT_VEH_CIN_CAM~ while in a vehicle to focus on the target chopper.",
+            "translated": "在载具中时，按住~INPUT_VEH_CIN_CAM~将镜头对准目标直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 360557358,
+            "original": "~r~The helicopter got away.~s~",
+            "translated": "~r~直升机逃掉了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 828899257,
+            "original": "Let the ~r~helicopter~s~ land, then move in to take it.",
+            "translated": "等待~r~直升机~s~着陆，然后进去偷走它。",
+            "desc": ""
+        },
+        {
+            "hash": 974759827,
+            "original": "Hold ~INPUT_VEH_FLY_THROTTLE_DOWN~ to descend.",
+            "translated": "按~INPUT_VEH_FLY_THROTTLE_DOWN~下降。",
+            "desc": ""
+        },
+        {
+            "hash": 1010518002,
+            "original": "The helicopter got away.",
+            "translated": "直升机逃掉了。",
+            "desc": ""
+        },
+        {
+            "hash": 1272105733,
+            "original": "Use ~PAD_LSTICK_ALL~ to steady the helicopter.",
+            "translated": "用~PAD_LSTICK_ALL~稳定直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 1481198189,
+            "original": "Press ~INPUT_ENTER~ to enter the helicopter.",
+            "translated": "按~INPUT_ENTER~进入直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 1548007269,
+            "original": "Hold ~INPUT_VEH_FLY_THROTTLE_DOWN~ to descend.",
+            "translated": "按~INPUT_VEH_FLY_THROTTLE_DOWN~下降。",
+            "desc": ""
+        },
+        {
+            "hash": 1553230984,
+            "original": "Press ~INPUT_VEH_FLY_YAW_LEFT~ and ~INPUT_VEH_FLY_YAW_RIGHT~ to line up the landing.",
+            "translated": "按~INPUT_VEH_FLY_YAW_LEFT~和~INPUT_VEH_FLY_YAW_RIGHT~对齐着陆。",
+            "desc": ""
+        },
+        {
+            "hash": 1776749513,
+            "original": "Use ~PAD_SIXAXIS_ROLL~ to bank the helicopter in the direction you wish to move.",
+            "translated": "用~PAD_SIXAXIS_ROLL~控制直升机向指定方向倾斜。",
+            "desc": ""
+        },
+        {
+            "hash": 1794266304,
+            "original": "Use ~PAD_SIXAXIS_ROLL~ and ~PAD_SIXAXIS_DRIVE~ to steady the helicopter.",
+            "translated": "用~PAD_SIXAXIS_ROLL~和~PAD_SIXAXIS_DRIVE~稳定直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 1904118087,
+            "original": "Follow the ~r~helicopter.",
+            "translated": "跟随~r~直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 1965817243,
+            "original": "The helicopter was destroyed.",
+            "translated": "直升机被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 1991469934,
+            "original": "Use ~INPUT_VEH_FLY_PITCH_UP~~INPUT_VEH_FLY_PITCH_DOWN~~INPUT_VEH_FLY_ROLL_LEFT~~INPUT_VEH_FLY_ROLL_RIGHT~ to steady the helicopter.",
+            "translated": "用~INPUT_VEH_FLY_PITCH_UP~~INPUT_VEH_FLY_PITCH_DOWN~~INPUT_VEH_FLY_ROLL_LEFT~~INPUT_VEH_FLY_ROLL_RIGHT~稳定直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 2204445972,
+            "original": "Fly to the ~y~dropoff point~s~ on the south side of the Airport.",
+            "translated": "飞往位于机场南侧的~y~着陆点。",
+            "desc": ""
+        },
+        {
+            "hash": 2437089288,
+            "original": "Use ~PAD_LSTICK_ALL~ to bank the helicopter in the direction you wish to move.",
+            "translated": "用~PAD_LSTICK_ALL~控制直升机向指定方向倾斜。",
+            "desc": ""
+        },
+        {
+            "hash": 2523760970,
+            "original": "~r~The helicopter was destroyed.~s~",
+            "translated": "~r~直升机被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2666325027,
+            "original": "Get a vehicle and go to the ~y~Civilization Plaza.",
+            "translated": "找一辆载具，前往~y~Civilization Plaza。",
+            "desc": ""
+        },
+        {
+            "hash": 2669862560,
+            "original": "Use ~INPUT_VEH_FLY_PITCH_UP~~INPUT_VEH_FLY_PITCH_DOWN~~INPUT_VEH_FLY_ROLL_LEFT~~INPUT_VEH_FLY_ROLL_RIGHT~ to bank the helicopter in the direction you wish to move.",
+            "translated": "用~INPUT_VEH_FLY_PITCH_UP~~INPUT_VEH_FLY_PITCH_DOWN~~INPUT_VEH_FLY_ROLL_LEFT~~INPUT_VEH_FLY_ROLL_RIGHT~控制直升机向指定方向倾斜。",
+            "desc": ""
+        },
+        {
+            "hash": 2743250055,
+            "original": "Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the helicopter left or right.",
+            "translated": "按~INPUT_VEH_FLY_YAW_LEFT~或~INPUT_VEH_FLY_YAW_RIGHT~使直升机向左或右旋转。",
+            "desc": ""
+        },
+        {
+            "hash": 2799429054,
+            "original": "Land the helicopter next to the Cargo Yard.",
+            "translated": "将直升机降落在货运区旁。",
+            "desc": ""
+        },
+        {
+            "hash": 2975472306,
+            "original": "Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the helicopter left or right.",
+            "translated": "按~INPUT_VEH_FLY_YAW_LEFT~或~INPUT_VEH_FLY_YAW_RIGHT~使直升机向左或右旋转。",
+            "desc": ""
+        },
+        {
+            "hash": 3069774388,
+            "original": "~r~The target was spooked.~s~",
+            "translated": "~r~目标被惊动了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3148002307,
+            "original": "Leave the helicopter.",
+            "translated": "离开直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 3402176376,
+            "original": "Get a vehicle.",
+            "translated": "找一辆载具。",
+            "desc": ""
+        },
+        {
+            "hash": 3592737426,
+            "original": "The meeting has finished. Take the ~b~helicopter~s~ before it takes off.",
+            "translated": "会面结束了，在~b~直升机~s~起飞前抢走它。",
+            "desc": ""
+        },
+        {
+            "hash": 3616073487,
+            "original": "Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to increase your altitude or ~INPUT_VEH_FLY_THROTTLE_DOWN~ to decrease your altitude.",
+            "translated": "按~INPUT_VEH_FLY_THROTTLE_UP~提升高度，按~INPUT_VEH_FLY_THROTTLE_DOWN~降低高度。",
+            "desc": ""
+        },
+        {
+            "hash": 3639532797,
+            "original": "Take the ~b~helicopter.~s~",
+            "translated": "抢夺~b~直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 3679673591,
+            "original": "Fly to the ~y~dropoff point.",
+            "translated": "飞往~y~目的地。",
+            "desc": ""
+        },
+        {
+            "hash": 3890902557,
+            "original": "The helicopter is leaving, track it to its destination.",
+            "translated": "直升机正在起飞，跟踪它到目的地。",
+            "desc": ""
+        },
+        {
+            "hash": 3969931294,
+            "original": "Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to line up the landing.",
+            "translated": "按~INPUT_VEH_FLY_YAW_LEFT~或~INPUT_VEH_FLY_YAW_RIGHT~对齐着陆。",
+            "desc": ""
+        },
+        {
+            "hash": 3977377833,
+            "original": "You're losing the ~r~helicopter.~s~",
+            "translated": "你要跟丢~r~直升机~s~了。",
+            "desc": ""
+        },
+        {
+            "hash": 4267151126,
+            "original": "Get back in the ~b~helicopter.",
+            "translated": "回到~b~直升机~s~上。",
+            "desc": ""
+        }
+    ]
+}

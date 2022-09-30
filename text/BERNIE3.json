@@ -1,0 +1,124 @@
+{
+    "BERNIE3": [
+        {
+            "hash": 9765618,
+            "original": "~r~You have gone off course and allowed Dimitri's men to escape.~s~",
+            "translated": "~r~你偏离了航向，让Dimitri的手下跑了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 82538443,
+            "original": "Make sure ~b~Bernie~s~ is with you at all times.",
+            "translated": "确保~b~Bernie~s~一直和你在一起。",
+            "desc": ""
+        },
+        {
+            "hash": 217935537,
+            "original": "Follow ~r~Dimitri's men~s~ and get rid of them.",
+            "translated": "追击~r~Dimitri的手下，~s~干掉他们。",
+            "desc": ""
+        },
+        {
+            "hash": 773545470,
+            "original": "~r~You have capsized the boat and ruined your fun day.~s~",
+            "translated": "~r~你弄翻了船，毁了你的欢乐日。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1030709350,
+            "original": "~r~Dimitri's man~s~ has reached land.",
+            "translated": "~r~Dimitri的手下~s~上岸了。",
+            "desc": ""
+        },
+        {
+            "hash": 1039400367,
+            "original": "~r~Dimitri's men got away.~s~",
+            "translated": "~r~Dimitri的手下逃走了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1125497547,
+            "original": "~r~You have capsized the boat.~s~",
+            "translated": "~r~你把船弄翻了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1139399861,
+            "original": "~r~Dimitri's men~s~ have reached land.",
+            "translated": "~r~Dimitri的手下~s~上岸了。",
+            "desc": ""
+        },
+        {
+            "hash": 1145986382,
+            "original": "Take out ~r~Dimitri's men.~s~",
+            "translated": "干掉~r~Dimitri的手下。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1268816136,
+            "original": "~r~The boat has been badly damaged.~s~",
+            "translated": "~r~船只严重受损。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1348452676,
+            "original": "Follow ~r~Dimitri's man~s~ and get rid of him.",
+            "translated": "跟随~r~Dimitri的手下，~s~干掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 1501344960,
+            "original": "~r~Bernie is dead.~s~",
+            "translated": "~r~Bernie死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1732661331,
+            "original": "~r~Bernie is dead.~s~",
+            "translated": "~r~Bernie死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2388512538,
+            "original": "~r~You have gone off course.~s~",
+            "translated": "~r~你偏离了航向。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3015843990,
+            "original": "~r~One of the Dimitri's men got away.~s~",
+            "translated": "~r~Dimitri的手下之一逃走了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3616015303,
+            "original": "~s~Get back to the ~b~boat's~s~ controls.",
+            "translated": "~s~回到~b~船~s~的驾驶室。",
+            "desc": ""
+        },
+        {
+            "hash": 3841346485,
+            "original": "~r~You have capsized the boat and allowed Dimitri's men to escape.~s~",
+            "translated": "~r~你弄翻了船，让Dimitri的手下跑了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3851886613,
+            "original": "~s~Go back to ~b~Bernie.",
+            "translated": "~s~回去找~b~Bernie。",
+            "desc": ""
+        },
+        {
+            "hash": 4039788421,
+            "original": "~r~Bernie was abandoned.~s~",
+            "translated": "~r~Bernie被抛弃了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4069997029,
+            "original": "Take Bernie to the coast off ~y~Firefly Island.",
+            "translated": "带Bernie去~y~Firefly Island~s~的海岸。",
+            "desc": ""
+        }
+    ]
+}

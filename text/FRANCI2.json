@@ -1,0 +1,406 @@
+{
+    "FRANCI2": [
+        {
+            "hash": 105132110,
+            "original": "~s~Mr. Goldberg...",
+            "translated": "~s~Goldberg先生...",
+            "desc": ""
+        },
+        {
+            "hash": 188242416,
+            "original": "~r~You drove a vehicle into the building.",
+            "translated": "~r~你将载具驶入了大楼。",
+            "desc": ""
+        },
+        {
+            "hash": 328305697,
+            "original": "~s~You got an interview.",
+            "translated": "~s~你有一个面试。",
+            "desc": ""
+        },
+        {
+            "hash": 375417264,
+            "original": "~s~Use the ~y~intercom~s~ to contact reception.",
+            "translated": "~s~使用~y~对讲机~s~联系前台。",
+            "desc": ""
+        },
+        {
+            "hash": 407342054,
+            "original": "~s~Take the files to ~y~Francis.",
+            "translated": "~s~将档案交给~y~Francis。",
+            "desc": ""
+        },
+        {
+            "hash": 418176785,
+            "original": "~s~Scroll down and submit your resume.",
+            "translated": "~s~下拉提交你的简历。",
+            "desc": ""
+        },
+        {
+            "hash": 447861730,
+            "original": "~s~Files",
+            "translated": "~s~档案",
+            "desc": ""
+        },
+        {
+            "hash": 495976095,
+            "original": "~r~You were removed from the building.",
+            "translated": "~r~你被赶出了大楼。",
+            "desc": ""
+        },
+        {
+            "hash": 525271581,
+            "original": "~r~Goldberg survived.",
+            "translated": "~r~Goldberg还活着。",
+            "desc": ""
+        },
+        {
+            "hash": 566634634,
+            "original": "~s~One Day Later (Demo Text)",
+            "translated": "~s~One Day Later (Demo Text)",
+            "desc": ""
+        },
+        {
+            "hash": 693616296,
+            "original": "~s~Doors are now unlocked.",
+            "translated": "~s~门现在解锁了。",
+            "desc": ""
+        },
+        {
+            "hash": 702623513,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 743470879,
+            "original": "~s~You still need the files.",
+            "translated": "~s~你还需要档案。",
+            "desc": ""
+        },
+        {
+            "hash": 840673206,
+            "original": "~r~You got a wanted level.",
+            "translated": "~r~你还有通缉度。",
+            "desc": ""
+        },
+        {
+            "hash": 843894930,
+            "original": "~s~Security have locked all the exits.",
+            "translated": "~s~保安已经锁上了全部出口。",
+            "desc": ""
+        },
+        {
+            "hash": 881301062,
+            "original": "~s~Click on Submit Resume.",
+            "translated": "~s~点击「提交简历」。",
+            "desc": ""
+        },
+        {
+            "hash": 932893747,
+            "original": "~s~Go to the ~y~interview.",
+            "translated": "~s~前去~y~面试。",
+            "desc": ""
+        },
+        {
+            "hash": 953627317,
+            "original": "~s~Get out of the office.",
+            "translated": "~s~离开律师行。",
+            "desc": ""
+        },
+        {
+            "hash": 1166767887,
+            "original": "~s~Use the computer at the ~y~Security Reception ~s~to unlock the doors.",
+            "translated": "~s~使用~y~安保台~s~的电脑解锁所有门。",
+            "desc": ""
+        },
+        {
+            "hash": 1197063146,
+            "original": "~s~Press ~INPUT_PICKUP~ to exit.",
+            "translated": "~s~按~INPUT_PICKUP~离开。",
+            "desc": ""
+        },
+        {
+            "hash": 1435666043,
+            "original": "~s~Retrieve the ~g~files.",
+            "translated": "~s~拿走~g~档案。",
+            "desc": ""
+        },
+        {
+            "hash": 1588427337,
+            "original": "~s~Follow the ~b~receptionist~s~ to Goldberg's office.",
+            "translated": "~s~跟随~b~前台小姐~s~去Goldberg的办公室。",
+            "desc": ""
+        },
+        {
+            "hash": 1643999537,
+            "original": "~s~Go to the careers page.",
+            "translated": "~s~访问「人才招聘」页面。",
+            "desc": ""
+        },
+        {
+            "hash": 1725698346,
+            "original": "~r~Mission Failed.",
+            "translated": "~r~任务失败。",
+            "desc": ""
+        },
+        {
+            "hash": 1727467828,
+            "original": "~s~Threaten Goldberg by aiming your gun at him.",
+            "translated": "~s~用枪瞄准Goldberg威胁他。",
+            "desc": ""
+        },
+        {
+            "hash": 1901116919,
+            "original": "~s~Go into ~y~Goldberg's office.",
+            "translated": "~s~进入~y~Goldberg的办公室。",
+            "desc": ""
+        },
+        {
+            "hash": 2162724885,
+            "original": "~s~Mission Passed.",
+            "translated": "~s~任务完成。",
+            "desc": ""
+        },
+        {
+            "hash": 2237556242,
+            "original": "~s~Call Francis.",
+            "translated": "~s~打给Francis。",
+            "desc": ""
+        },
+        {
+            "hash": 2330253275,
+            "original": "~r~Goldberg escaped.",
+            "translated": "~r~Goldberg跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 2382945935,
+            "original": "~s~Logon to a computer and use the internet.",
+            "translated": "~s~登录一台电脑，上网。",
+            "desc": ""
+        },
+        {
+            "hash": 2449785905,
+            "original": "~s~Press ~INPUT_PICKUP~ to get up.",
+            "translated": "~s~按~INPUT_PICKUP~起身。",
+            "desc": ""
+        },
+        {
+            "hash": 2512743568,
+            "original": "~s~Go to ~y~Perseus.",
+            "translated": "~s~前往~y~神之子服饰。",
+            "desc": ""
+        },
+        {
+            "hash": 2541318404,
+            "original": "~r~You caused too much disruption.",
+            "translated": "~r~你制造了太多混乱。",
+            "desc": ""
+        },
+        {
+            "hash": 2687075268,
+            "original": "~r~The files were not taken from the office.",
+            "translated": "~r~未从办公室拿走档案。",
+            "desc": ""
+        },
+        {
+            "hash": 2774198876,
+            "original": "Come in, I'll buzz you through.",
+            "translated": "请进，我会帮你开门的。",
+            "desc": ""
+        },
+        {
+            "hash": 2812014431,
+            "original": "~s~Press ~INPUT_PICKUP~ to take a seat.",
+            "translated": "~s~按~INPUT_PICKUP~坐下。",
+            "desc": ""
+        },
+        {
+            "hash": 2847637616,
+            "original": "~s~Click on the web icon.",
+            "translated": "~s~点击WEB图标。",
+            "desc": ""
+        },
+        {
+            "hash": 2856693724,
+            "original": "~s~Wait outside ~y~Goldberg's office.",
+            "translated": "~s~在~y~Goldberg的办公室~s~外等候。",
+            "desc": ""
+        },
+        {
+            "hash": 2968424311,
+            "original": "~s~You need to wear a suit and tie with smart shoes for the interview.",
+            "translated": "~s~你需要西装革履打领带才能参加面试。",
+            "desc": ""
+        },
+        {
+            "hash": 3079057426,
+            "original": "~s~Buy yourself a suit.",
+            "translated": "~s~给自己买套西装。",
+            "desc": ""
+        },
+        {
+            "hash": 3114115285,
+            "original": "~s~Press ~INPUT_PICKUP~ to use the intercom.",
+            "translated": "~s~按~INPUT_PICKUP~使用对讲机。",
+            "desc": ""
+        },
+        {
+            "hash": 3134542079,
+            "original": "~s~Escape from the building.",
+            "translated": "~s~逃出大楼。",
+            "desc": ""
+        },
+        {
+            "hash": 3136427527,
+            "original": "...",
+            "translated": "...",
+            "desc": ""
+        },
+        {
+            "hash": 3139385423,
+            "original": "~r~You missed the interview.",
+            "translated": "~r~你错过了面试。",
+            "desc": ""
+        },
+        {
+            "hash": 3166328005,
+            "original": "~s~Take the evidence to ~y~Francis.",
+            "translated": "~s~将证据交给~y~Francis。",
+            "desc": ""
+        },
+        {
+            "hash": 3391509841,
+            "original": "~s~Go to an Internet cafe.",
+            "translated": "~s~找一家网吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3434345660,
+            "original": "~s~You retrieved the ~g~files.",
+            "translated": "~s~你拿到了~g~档案。",
+            "desc": ""
+        },
+        {
+            "hash": 3470559667,
+            "original": "~s~This exit is locked.",
+            "translated": "~s~出口被锁住了。",
+            "desc": ""
+        },
+        {
+            "hash": 3479756778,
+            "original": "~s~Kill ~r~Goldberg.",
+            "translated": "~s~杀了~r~Goldberg。",
+            "desc": ""
+        },
+        {
+            "hash": 3494202815,
+            "original": "~s~Click the link on the lawyer's advertisement or enter their web address.",
+            "translated": "~s~点击律师行广告或输入他们的网址。",
+            "desc": ""
+        },
+        {
+            "hash": 3501580932,
+            "original": "~s~Find and steal the ~b~evidence.",
+            "translated": "~s~找到并偷走~b~证据。",
+            "desc": ""
+        },
+        {
+            "hash": 3584028292,
+            "original": "~s~When you are ready stand up and aim your gun at Goldberg. Press ~INPUT_PICKUP~ to get up.",
+            "translated": "~s~准备好后就起身瞄准Goldberg，按~INPUT_PICKUP~起身。",
+            "desc": ""
+        },
+        {
+            "hash": 3589861218,
+            "original": "~r~You attacked Security.",
+            "translated": "~r~你攻击了保安。",
+            "desc": ""
+        },
+        {
+            "hash": 3706494680,
+            "original": "~s~Reply to the Lawyer's email.",
+            "translated": "~s~回复律师行的邮件。",
+            "desc": ""
+        },
+        {
+            "hash": 3707009773,
+            "original": "~s~Access the Lawyer website and apply for the job.",
+            "translated": "~s~访问律师行的网站，应聘工作。",
+            "desc": ""
+        },
+        {
+            "hash": 3749502748,
+            "original": "~s~Click on the \"Unlock\" button to open the doors.",
+            "translated": "~s~点击「解锁」按钮开门。",
+            "desc": ""
+        },
+        {
+            "hash": 3765578974,
+            "original": "~s~Try the exits on the ground floor.",
+            "translated": "~s~试试地面层的门。",
+            "desc": ""
+        },
+        {
+            "hash": 3810756431,
+            "original": "~s~Go to your ~y~interview.",
+            "translated": "~s~去参加你的~y~面试。",
+            "desc": ""
+        },
+        {
+            "hash": 3868299427,
+            "original": "~r~You didn't conceal your weapon.",
+            "translated": "~r~你没有藏住你的武器。",
+            "desc": ""
+        },
+        {
+            "hash": 3948100517,
+            "original": "~s~Check your email.",
+            "translated": "~s~检查你的邮件。",
+            "desc": ""
+        },
+        {
+            "hash": 3957064944,
+            "original": "~s~Access the lawyer website.",
+            "translated": "~s~访问律所的网站。",
+            "desc": ""
+        },
+        {
+            "hash": 4035189165,
+            "original": "~s~Morning of the interview.",
+            "translated": "~s~Morning of the interview.",
+            "desc": ""
+        },
+        {
+            "hash": 4046389888,
+            "original": "~s~Press ~INPUT_PICKUP~ to take files.",
+            "translated": "~s~按~INPUT_PICKUP~拿走档案。",
+            "desc": ""
+        },
+        {
+            "hash": 4057277618,
+            "original": "~s~Get back in your suit.",
+            "translated": "~s~穿上西装回去。",
+            "desc": ""
+        },
+        {
+            "hash": 4090184430,
+            "original": "~s~Go to the ~b~reception.",
+            "translated": "~s~去~b~前台。",
+            "desc": ""
+        },
+        {
+            "hash": 4167054400,
+            "original": "~r~You attacked office workers.",
+            "translated": "~r~你攻击了律师行职员。",
+            "desc": ""
+        },
+        {
+            "hash": 4252117020,
+            "original": "~s~Leave the Internet cafe.",
+            "translated": "~s~离开网吧。",
+            "desc": ""
+        }
+    ]
+}

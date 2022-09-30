@@ -1,0 +1,556 @@
+{
+    "MTUT": [
+        {
+            "hash": 11171163,
+            "original": "~s~Health and armor are placed around the area in the same way as weapons.",
+            "translated": "~s~Health and armor are placed around the area in the same way as weapons.",
+            "desc": ""
+        },
+        {
+            "hash": 121987052,
+            "original": "~s~Pick up the health.",
+            "translated": "~s~Pick up the health.",
+            "desc": ""
+        },
+        {
+            "hash": 174850182,
+            "original": "~s~Select Games from the Multiplayer menu on your phone.",
+            "translated": "~s~Select Games from the Multiplayer menu on your phone.",
+            "desc": ""
+        },
+        {
+            "hash": 197069704,
+            "original": "~s~Weapons are placed around the area - their locations are represented on your radar by icons.",
+            "translated": "~s~Weapons are placed around the area - their locations are represented on your radar by icons.",
+            "desc": ""
+        },
+        {
+            "hash": 204269905,
+            "original": "~s~Use ~PAD_RSTICK_DOWN~ while locked on to a target to focus your aim on his head.",
+            "translated": "~s~Use ~PAD_RSTICK_DOWN~ while locked on to a target to focus your aim on his head.",
+            "desc": ""
+        },
+        {
+            "hash": 351861587,
+            "original": "~s~View the current cash scores.",
+            "translated": "~s~View the current cash scores.",
+            "desc": ""
+        },
+        {
+            "hash": 483101829,
+            "original": "~s~You can set up the appearance of your multiplayer character on the Player Model screen.",
+            "translated": "~s~You can set up the appearance of your multiplayer character on the Player Model screen.",
+            "desc": ""
+        },
+        {
+            "hash": 495365911,
+            "original": "~s~In a free-for-all deathmatch game your objective is to kill all other players while surviving for as long as possible.",
+            "translated": "~s~In a free-for-all deathmatch game your objective is to kill all other players while surviving for as long as possible.",
+            "desc": ""
+        },
+        {
+            "hash": 510038918,
+            "original": "~s~Shoot the car's tires to make it more difficult to drive.",
+            "translated": "~s~Shoot the car's tires to make it more difficult to drive.",
+            "desc": ""
+        },
+        {
+            "hash": 513403483,
+            "original": "~s~Leave the game to complete the tutorial.",
+            "translated": "~s~Leave the game to complete the tutorial.",
+            "desc": ""
+        },
+        {
+            "hash": 625279575,
+            "original": "~s~If you are the host you will be able to change a variety of options such as weapon types, game duration, and auto-aim.",
+            "translated": "~s~If you are the host you will be able to change a variety of options such as weapon types, game duration, and auto-aim.",
+            "desc": ""
+        },
+        {
+            "hash": 661308127,
+            "original": "~s~You can gain an advantage by aiming carefully. Headshots will cause extra damage.",
+            "translated": "~s~You can gain an advantage by aiming carefully. Headshots will cause extra damage.",
+            "desc": ""
+        },
+        {
+            "hash": 737773379,
+            "original": "~s~Select Player Match from the Multiplayer menu on your phone.",
+            "translated": "~s~Select Player Match from the Multiplayer menu on your phone.",
+            "desc": ""
+        },
+        {
+            "hash": 755918517,
+            "original": "~s~While riding as a passenger you can perform drivebys. Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to fire.",
+            "translated": "~s~While riding as a passenger you can perform drivebys. Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to fire.",
+            "desc": ""
+        },
+        {
+            "hash": 812537206,
+            "original": "~s~Select Menu.",
+            "translated": "~s~Select Menu.",
+            "desc": ""
+        },
+        {
+            "hash": 821821278,
+            "original": "~s~You must remain on Charge Island to complete the multiplayer tutorial.",
+            "translated": "~s~You must remain on Charge Island to complete the multiplayer tutorial.",
+            "desc": ""
+        },
+        {
+            "hash": 839688063,
+            "original": "~s~While riding as a passenger you can also drop grenades from your window. Hold ~INPUT_ATTACK~ to pull the pin, and release to drop the grenade.",
+            "translated": "~s~While riding as a passenger you can also drop grenades from your window. Hold ~INPUT_ATTACK~ to pull the pin, and release to drop the grenade.",
+            "desc": ""
+        },
+        {
+            "hash": 932620026,
+            "original": "~s~If the auto-aim option is set to disallow, you cannot use the targeting system to lock onto opponents.",
+            "translated": "~s~If the auto-aim option is set to disallow, you cannot use the targeting system to lock onto opponents.",
+            "desc": ""
+        },
+        {
+            "hash": 956732039,
+            "original": "~s~The player with the highest score when the game ends is the winner. In a timed game, the remaining time will be displayed in the top right of the screen.",
+            "translated": "~s~The player with the highest score when the game ends is the winner. In a timed game, the remaining time will be displayed in the top right of the screen.",
+            "desc": ""
+        },
+        {
+            "hash": 963733228,
+            "original": "~s~Your opponents are also represented on the radar by icons. Each has a unique color.",
+            "translated": "~s~Your opponents are also represented on the radar by icons. Each has a unique color.",
+            "desc": ""
+        },
+        {
+            "hash": 1056707390,
+            "original": "~s~Select Leave Game from the phone menu.",
+            "translated": "~s~Select Leave Game from the phone menu.",
+            "desc": ""
+        },
+        {
+            "hash": 1090807514,
+            "original": "~s~The dollar amount in the bottom left of the screen represents the total cash you have earned in ranked games.",
+            "translated": "~s~The dollar amount in the bottom left of the screen represents the total cash you have earned in ranked games.",
+            "desc": ""
+        },
+        {
+            "hash": 1098268242,
+            "original": "~s~Press ~INPUT_VEH_HEADLIGHT~ to cycle through weapons while in a car.",
+            "translated": "~s~Press ~INPUT_VEH_HEADLIGHT~ to cycle through weapons while in a car.",
+            "desc": ""
+        },
+        {
+            "hash": 1140270738,
+            "original": "~s~When you are killed, you will spawn in a position close to the action.",
+            "translated": "~s~When you are killed, you will spawn in a position close to the action.",
+            "desc": ""
+        },
+        {
+            "hash": 1180089341,
+            "original": "~s~You can start multiplayer games through the phone.",
+            "translated": "~s~You can start multiplayer games through the phone.",
+            "desc": ""
+        },
+        {
+            "hash": 1215391902,
+            "original": "~s~When free aiming at a target, your first shot will be most accurate.",
+            "translated": "~s~When free aiming at a target, your first shot will be most accurate.",
+            "desc": ""
+        },
+        {
+            "hash": 1240058784,
+            "original": "~s~Once you join or start a multiplayer game you will enter the lobby screen.",
+            "translated": "~s~Once you join or start a multiplayer game you will enter the lobby screen.",
+            "desc": ""
+        },
+        {
+            "hash": 1310044529,
+            "original": "~s~You can leave a game at any time using your phone.",
+            "translated": "~s~You can leave a game at any time using your phone.",
+            "desc": ""
+        },
+        {
+            "hash": 1371062805,
+            "original": "~s~Using the environment and powerful weapons, in the way this player is, will give you the advantage in combat.",
+            "translated": "~s~Using the environment and powerful weapons, in the way this player is, will give you the advantage in combat.",
+            "desc": ""
+        },
+        {
+            "hash": 1538813757,
+            "original": "~s~The lobby screen displays both the game mode and its rules, and also has options that you can alter.",
+            "translated": "~s~The lobby screen displays both the game mode and its rules, and also has options that you can alter.",
+            "desc": ""
+        },
+        {
+            "hash": 1599032276,
+            "original": "~s~In a multiplayer game you will automatically run when moving. Use ~INPUT_SPRINT~ to sprint.",
+            "translated": "~s~In a multiplayer game you will automatically run when moving. Use ~INPUT_SPRINT~ to sprint.",
+            "desc": ""
+        },
+        {
+            "hash": 1601642064,
+            "original": "~s~At the end of the game the score screen will appear. This represents your deaths, your kills and how much cash you have earned.",
+            "translated": "~s~At the end of the game the score screen will appear. This represents your deaths, your kills and how much cash you have earned.",
+            "desc": ""
+        },
+        {
+            "hash": 1625793445,
+            "original": "~s~Use ~INPUT_AIM~ to aim at a target.",
+            "translated": "~s~Use ~INPUT_AIM~ to aim at a target.",
+            "desc": ""
+        },
+        {
+            "hash": 1672355356,
+            "original": "~s~You can drive, or ride as a passenger, in a vehicle with your teammates.",
+            "translated": "~s~You can drive, or ride as a passenger, in a vehicle with your teammates.",
+            "desc": ""
+        },
+        {
+            "hash": 1748561685,
+            "original": "~s~You can identify opponents by the name displayed above their head. The dot next to the name will flash when they are taking damage.",
+            "translated": "~s~You can identify opponents by the name displayed above their head. The dot next to the name will flash when they are taking damage.",
+            "desc": ""
+        },
+        {
+            "hash": 1775121150,
+            "original": "~s~In other team games, the cash acquired by each team may be divided equally between its members.",
+            "translated": "~s~In other team games, the cash acquired by each team may be divided equally between its members.",
+            "desc": ""
+        },
+        {
+            "hash": 1842090856,
+            "original": "~s~The check box denotes when a player is ready.",
+            "translated": "~s~The check box denotes when a player is ready.",
+            "desc": ""
+        },
+        {
+            "hash": 1843270318,
+            "original": "~s~You are currently on the orange team.",
+            "translated": "~s~You are currently on the orange team.",
+            "desc": ""
+        },
+        {
+            "hash": 1911274135,
+            "original": "~s~In a team game you must work together in order to win. Do not shoot your teammates and do your best to help them out.",
+            "translated": "~s~In a team game you must work together in order to win. Do not shoot your teammates and do your best to help them out.",
+            "desc": ""
+        },
+        {
+            "hash": 1965918462,
+            "original": "~s~The ticker in the top left of the screen keeps you updated about what is going on in the game.",
+            "translated": "~s~The ticker in the top left of the screen keeps you updated about what is going on in the game.",
+            "desc": ""
+        },
+        {
+            "hash": 1973915712,
+            "original": "~s~Player ranks will only be displayed in ranked games.",
+            "translated": "~s~Player ranks will only be displayed in ranked games.",
+            "desc": ""
+        },
+        {
+            "hash": 2037327726,
+            "original": "~s~Go to the ~y~tutorial location.",
+            "translated": "~s~Go to the ~y~tutorial location.",
+            "desc": ""
+        },
+        {
+            "hash": 2126624083,
+            "original": "~s~The players' names are listed on the left. To the right of the player's name are symbols.",
+            "translated": "~s~The players' names are listed on the left. To the right of the player's name are symbols.",
+            "desc": ""
+        },
+        {
+            "hash": 2165653926,
+            "original": "~s~Take out the enemy team with a driveby.",
+            "translated": "~s~Take out the enemy team with a driveby.",
+            "desc": ""
+        },
+        {
+            "hash": 2191862771,
+            "original": "~s~Options are shown on the right of the lobby screen.",
+            "translated": "~s~Options are shown on the right of the lobby screen.",
+            "desc": ""
+        },
+        {
+            "hash": 2238589311,
+            "original": "~s~In a Deathmatch game, you will gain cash for killing other players. The scoring rules for each game type will be displayed on its lobby screen.",
+            "translated": "~s~In a Deathmatch game, you will gain cash for killing other players. The scoring rules for each game type will be displayed on its lobby screen.",
+            "desc": ""
+        },
+        {
+            "hash": 2340522763,
+            "original": "~s~You were killed by a player using high ground to snipe from.",
+            "translated": "~s~You were killed by a player using high ground to snipe from.",
+            "desc": ""
+        },
+        {
+            "hash": 2419652397,
+            "original": "~s~In multiplayer modes, police will not attempt to bust you, they will only attack you.",
+            "translated": "~s~In multiplayer modes, police will not attempt to bust you, they will only attack you.",
+            "desc": ""
+        },
+        {
+            "hash": 2431900087,
+            "original": "~s~The crown icon identifies the host. The host is the player who controls the game settings/options and starts the game.",
+            "translated": "~s~The crown icon identifies the host. The host is the player who controls the game settings/options and starts the game.",
+            "desc": ""
+        },
+        {
+            "hash": 2437341705,
+            "original": "~s~Do not shoot your teammates.",
+            "translated": "~s~Do not shoot your teammates.",
+            "desc": ""
+        },
+        {
+            "hash": 2482736335,
+            "original": "~s~The dollar amount in the bottom left of the screen represents the total cash you have earned in multiplayer games.",
+            "translated": "~s~The dollar amount in the bottom left of the screen represents the total cash you have earned in multiplayer games.",
+            "desc": ""
+        },
+        {
+            "hash": 2502007769,
+            "original": "~s~Your rank will increase as you acquire cash in multiplayer games. This unlocks new multiplayer models.",
+            "translated": "~s~Your rank will increase as you acquire cash in multiplayer games. This unlocks new multiplayer models.",
+            "desc": ""
+        },
+        {
+            "hash": 2551895334,
+            "original": "~s~The star icon indicates the player's rank as a number between 0 and 10.",
+            "translated": "~s~The star icon indicates the player's rank as a number between 0 and 10.",
+            "desc": ""
+        },
+        {
+            "hash": 2630093932,
+            "original": "~s~~INPUT_PHONE_TAKE_OUT~ bring up phone.",
+            "translated": "~s~~INPUT_PHONE_TAKE_OUT~ bring up phone.",
+            "desc": ""
+        },
+        {
+            "hash": 2647076758,
+            "original": "~s~Weapons, health and armor will always reappear in the same place. Learning where they are located is vital for survival.",
+            "translated": "~s~Weapons, health and armor will always reappear in the same place. Learning where they are located is vital for survival.",
+            "desc": ""
+        },
+        {
+            "hash": 2745599688,
+            "original": "~s~Go towards your team.",
+            "translated": "~s~Go towards your team.",
+            "desc": ""
+        },
+        {
+            "hash": 2787634567,
+            "original": "~s~When locking onto a target for the first time, if you lightly press ~INPUT_ATTACK~ the reticule will reduce in size. This means your first shot will be very accurate.",
+            "translated": "~s~When locking onto a target for the first time, if you lightly press ~INPUT_ATTACK~ the reticule will reduce in size. This means your first shot will be very accurate.",
+            "desc": ""
+        },
+        {
+            "hash": 2811065355,
+            "original": "~s~Your rank will increase as you acquire cash in ranked multiplayer games. This unlocks new multiplayer models.",
+            "translated": "~s~Your rank will increase as you acquire cash in ranked multiplayer games. This unlocks new multiplayer models.",
+            "desc": ""
+        },
+        {
+            "hash": 2864083983,
+            "original": "~s~Check the current cash scores at any time by pressing ~PAD_DPAD_DOWN~. This also zooms out the radar.",
+            "translated": "~s~Check the current cash scores at any time by pressing ~PAD_DPAD_DOWN~. This also zooms out the radar.",
+            "desc": ""
+        },
+        {
+            "hash": 2916394203,
+            "original": "~s~Access the Player Model screen.",
+            "translated": "~s~Access the Player Model screen.",
+            "desc": ""
+        },
+        {
+            "hash": 3042065313,
+            "original": "~s~Use ~PAD_RSTICK_ALL~ while in free aim to focus your aim on his head.",
+            "translated": "~s~Use ~PAD_RSTICK_ALL~ while in free aim to focus your aim on his head.",
+            "desc": ""
+        },
+        {
+            "hash": 3087738853,
+            "original": "~s~When all players are ready, the game will launch. The game will also start after a short interval if the host and the majority of players are ready.",
+            "translated": "~s~When all players are ready, the game will launch. The game will also start after a short interval if the host and the majority of players are ready.",
+            "desc": ""
+        },
+        {
+            "hash": 3106391347,
+            "original": "~s~Highlight Multiplayer by pressing ~PAD_DPAD_DOWN~, then press ~PAD_A~ to select it.",
+            "translated": "~s~Highlight Multiplayer by pressing ~PAD_DPAD_DOWN~, then press ~PAD_A~ to select it.",
+            "desc": ""
+        },
+        {
+            "hash": 3176142948,
+            "original": "~s~Select Join Match.",
+            "translated": "~s~Select Join Match.",
+            "desc": ""
+        },
+        {
+            "hash": 3186801504,
+            "original": "~s~Get in the passenger seat of the car.",
+            "translated": "~s~Get in the passenger seat of the car.",
+            "desc": ""
+        },
+        {
+            "hash": 3227277175,
+            "original": "~s~Aim for the passengers in the car.",
+            "translated": "~s~Aim for the passengers in the car.",
+            "desc": ""
+        },
+        {
+            "hash": 3235881414,
+            "original": "~s~In a multiplayer game you will automatically run when moving. Hold ~PAD_A~ to sprint.",
+            "translated": "~s~In a multiplayer game you will automatically run when moving. Hold ~PAD_A~ to sprint.",
+            "desc": ""
+        },
+        {
+            "hash": 3294509066,
+            "original": "~s~Select Deathmatch.",
+            "translated": "~s~Select Deathmatch.",
+            "desc": ""
+        },
+        {
+            "hash": 3376371662,
+            "original": "~s~The mic icon indicates whether you have an Xbox 360 Headset attached or not.",
+            "translated": "~s~The mic icon indicates whether you have an Xbox 360 Headset attached or not.",
+            "desc": ""
+        },
+        {
+            "hash": 3390157509,
+            "original": "~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.",
+            "translated": "~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.",
+            "desc": ""
+        },
+        {
+            "hash": 3404589247,
+            "original": "~s~Activate the menu by pressing ~PAD_A~",
+            "translated": "~s~Activate the menu by pressing ~PAD_A~",
+            "desc": ""
+        },
+        {
+            "hash": 3407203612,
+            "original": "~s~In some team games, your appearance will be picked for you. All members of a team will have the same appearance.",
+            "translated": "~s~In some team games, your appearance will be picked for you. All members of a team will have the same appearance.",
+            "desc": ""
+        },
+        {
+            "hash": 3466392568,
+            "original": "~s~While riding as a passenger you can perform drivebys. Hold ~INPUT_AIM~ and use ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to fire.",
+            "translated": "~s~While riding as a passenger you can perform drivebys. Hold ~INPUT_AIM~ and use ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to fire.",
+            "desc": ""
+        },
+        {
+            "hash": 3526382510,
+            "original": "~s~Select Quick Match.",
+            "translated": "~s~Select Quick Match.",
+            "desc": ""
+        },
+        {
+            "hash": 3533207077,
+            "original": "~s~Use ~PAD_RSTICK_UP~ while locked on to a target to focus your aim on his head.",
+            "translated": "~s~Use ~PAD_RSTICK_UP~ while locked on to a target to focus your aim on his head.",
+            "desc": ""
+        },
+        {
+            "hash": 3537574333,
+            "original": "~s~Hold ~PAD_LT~ to lock on to a target.",
+            "translated": "~s~Hold ~PAD_LT~ to lock on to a target.",
+            "desc": ""
+        },
+        {
+            "hash": 3643038440,
+            "original": "~s~You can select the area of the city that the game will be played in with the Location option.",
+            "translated": "~s~You can select the area of the city that the game will be played in with the Location option.",
+            "desc": ""
+        },
+        {
+            "hash": 3660049438,
+            "original": "~s~The mic icon indicates whether you have a headset or not.",
+            "translated": "~s~The mic icon indicates whether you have a headset or not.",
+            "desc": ""
+        },
+        {
+            "hash": 3746930329,
+            "original": "~s~When free aiming or locked onto a target use ~INPUT_MOVE_LEFT~ and press ~INPUT_JUMP~ to roll.",
+            "translated": "~s~When free aiming or locked onto a target use ~INPUT_MOVE_LEFT~ and press ~INPUT_JUMP~ to roll.",
+            "desc": ""
+        },
+        {
+            "hash": 3774616304,
+            "original": "~s~Use ~PAD_RSTICK_ALL~ to target while free-aiming.",
+            "translated": "~s~Use ~PAD_RSTICK_ALL~ to target while free-aiming.",
+            "desc": ""
+        },
+        {
+            "hash": 3785766883,
+            "original": "~s~Select Multiplayer.",
+            "translated": "~s~Select Multiplayer.",
+            "desc": ""
+        },
+        {
+            "hash": 3801781911,
+            "original": "~s~Take out all of the opponents.",
+            "translated": "~s~Take out all of the opponents.",
+            "desc": ""
+        },
+        {
+            "hash": 3822839385,
+            "original": "~s~Sustained firing of your weapon will cause recoil and bullets will spread inaccurately. The aiming reticule will grow larger to indicate when this is happening.",
+            "translated": "~s~Sustained firing of your weapon will cause recoil and bullets will spread inaccurately. The aiming reticule will grow larger to indicate when this is happening.",
+            "desc": ""
+        },
+        {
+            "hash": 3827475161,
+            "original": "~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ when aiming to switch between differing levels of zoom.",
+            "translated": "~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ when aiming to switch between differing levels of zoom.",
+            "desc": ""
+        },
+        {
+            "hash": 3847856493,
+            "original": "~s~Your name will be listed as part of your team in the lobby. You can also check the teams by accessing the scoreboard.",
+            "translated": "~s~Your name will be listed as part of your team in the lobby. You can also check the teams by accessing the scoreboard.",
+            "desc": ""
+        },
+        {
+            "hash": 3881345428,
+            "original": "~s~Select Player Model from the Multiplayer menu on your phone.",
+            "translated": "~s~Select Player Model from the Multiplayer menu on your phone.",
+            "desc": ""
+        },
+        {
+            "hash": 3886510752,
+            "original": "~s~Hold ~PAD_LT~ to free-aim.",
+            "translated": "~s~Hold ~PAD_LT~ to free-aim.",
+            "desc": ""
+        },
+        {
+            "hash": 4003863594,
+            "original": "~r~You left Charge Island and canceled the multiplayer tutorial.",
+            "translated": "~r~You left Charge Island and canceled the multiplayer tutorial.",
+            "desc": ""
+        },
+        {
+            "hash": 4037096100,
+            "original": "~s~Pick up the weapon.",
+            "translated": "~s~Pick up the weapon.",
+            "desc": ""
+        },
+        {
+            "hash": 4164711655,
+            "original": "~s~Press ~INPUT_VEH_NEXT_WEAPON~ to cycle through weapons while in a car.",
+            "translated": "~s~Press ~INPUT_VEH_NEXT_WEAPON~ to cycle through weapons while in a car.",
+            "desc": ""
+        },
+        {
+            "hash": 4221095403,
+            "original": "~s~Many game types - for example, Deathmatch - also have team modes.",
+            "translated": "~s~Many game types - for example, Deathmatch - also have team modes.",
+            "desc": ""
+        },
+        {
+            "hash": 4271643315,
+            "original": "~s~Start a Deathmatch game.",
+            "translated": "~s~Start a Deathmatch game.",
+            "desc": ""
+        }
+    ]
+}

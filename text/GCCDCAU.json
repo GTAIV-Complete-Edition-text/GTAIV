@@ -1,0 +1,538 @@
+{
+    "GCCDCAU": [
+        {
+            "hash": 71712802,
+            "original": "~z~Shit, your life sounds real tough, Carmen.",
+            "translated": "~z~我靠，你的生活听上去很难啊，Carmen。",
+            "desc": ""
+        },
+        {
+            "hash": 78697048,
+            "original": "GCC2_DRUNK3_QF",
+            "translated": "GCC2_DRUNK3_QF",
+            "desc": ""
+        },
+        {
+            "hash": 109604994,
+            "original": "SFX_PAUSE_2000",
+            "translated": "SFX_PAUSE_2000",
+            "desc": ""
+        },
+        {
+            "hash": 132113953,
+            "original": "GCC2_DRUNK2_PI",
+            "translated": "GCC2_DRUNK2_PI",
+            "desc": ""
+        },
+        {
+            "hash": 265945894,
+            "original": "SFX_PAUSE_2000",
+            "translated": "SFX_PAUSE_2000",
+            "desc": ""
+        },
+        {
+            "hash": 283859304,
+            "original": "~z~You have it hard. I don't know how you cope.",
+            "translated": "~z~日子这么难过，都不知道你是怎么过来的。",
+            "desc": ""
+        },
+        {
+            "hash": 285017819,
+            "original": "GCC2_DRUNK2_PB",
+            "translated": "GCC2_DRUNK2_PB",
+            "desc": ""
+        },
+        {
+            "hash": 313872393,
+            "original": "~z~Guess where Carmen going to hit you fucking next?",
+            "translated": "~z~你猜接下来Carmen要怎么打爆你？",
+            "desc": ""
+        },
+        {
+            "hash": 436219723,
+            "original": "GCC2_DRUNK1_OF",
+            "translated": "GCC2_DRUNK1_OF",
+            "desc": ""
+        },
+        {
+            "hash": 441805888,
+            "original": "~z~Fucking whiney sick bitches. I hate all the patients.",
+            "translated": "~z~操他妈的牢骚贱人。我讨厌所有病人。",
+            "desc": ""
+        },
+        {
+            "hash": 520292700,
+            "original": "~z~If you cared you would have picked up on it,",
+            "translated": "~z~你要是关心我，早就注意到了。",
+            "desc": ""
+        },
+        {
+            "hash": 556214351,
+            "original": "GCC2_DRUNK2_PC",
+            "translated": "GCC2_DRUNK2_PC",
+            "desc": ""
+        },
+        {
+            "hash": 603909435,
+            "original": "~z~Ouch.",
+            "translated": "~z~嗷。",
+            "desc": ""
+        },
+        {
+            "hash": 604698424,
+            "original": "GCC2_DRUNK3_QE",
+            "translated": "GCC2_DRUNK3_QE",
+            "desc": ""
+        },
+        {
+            "hash": 706846497,
+            "original": "~z~You only buy her the happy hour drinks not them high price ones.",
+            "translated": "~z~你给她买的酒都是便宜的促销酒，不买贵的那些。",
+            "desc": ""
+        },
+        {
+            "hash": 774020755,
+            "original": "~z~You lucky Carmen's hanging out with you, baby. She's so out your league.",
+            "translated": "~z~Carmen肯跟你出来是你的福气，宝贝。她的阶层比你高了不少。",
+            "desc": ""
+        },
+        {
+            "hash": 775706915,
+            "original": "GCC2_DRUNK1_OE",
+            "translated": "GCC2_DRUNK1_OE",
+            "desc": ""
+        },
+        {
+            "hash": 779515732,
+            "original": "GCC2_DRUNK1_OA",
+            "translated": "GCC2_DRUNK1_OA",
+            "desc": ""
+        },
+        {
+            "hash": 809052176,
+            "original": "GCC2_DRUNK3_QL",
+            "translated": "GCC2_DRUNK3_QL",
+            "desc": ""
+        },
+        {
+            "hash": 812090888,
+            "original": "~z~Issues? Fuck you.",
+            "translated": "~z~问题？操你妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 812690487,
+            "original": "~z~but you too up your own fucking ass to give a shit about the Carmen.",
+            "translated": "~z~但你丫只关心自己，根本不在乎Carmen。",
+            "desc": ""
+        },
+        {
+            "hash": 947958607,
+            "original": "~z~Okay, thanks for the vote of confidence.",
+            "translated": "~z~好的，感谢你的认可。",
+            "desc": ""
+        },
+        {
+            "hash": 1077355943,
+            "original": "~z~I don't know, maybe you've got issues.",
+            "translated": "~z~不知道，可能你确实有问题。",
+            "desc": ""
+        },
+        {
+            "hash": 1078340318,
+            "original": "GCC2_DRUNK3_QA",
+            "translated": "GCC2_DRUNK3_QA",
+            "desc": ""
+        },
+        {
+            "hash": 1170390830,
+            "original": "010100100100100010100010010100100100010",
+            "translated": "010100100100100010100010010100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 1171543686,
+            "original": "~z~Carmen was saying something,",
+            "translated": "~z~Carmen说过了。",
+            "desc": ""
+        },
+        {
+            "hash": 1269815725,
+            "original": "~z~Every time Carmen agrees to go out with you, you getting real lucky.",
+            "translated": "~z~每次Carmen同意跟你出来，都是你莫大的福气。",
+            "desc": ""
+        },
+        {
+            "hash": 1352723527,
+            "original": "GCC2_DRUNK3_QG",
+            "translated": "GCC2_DRUNK3_QG",
+            "desc": ""
+        },
+        {
+            "hash": 1357259522,
+            "original": "GCC2_DRUNK1_OI",
+            "translated": "GCC2_DRUNK1_OI",
+            "desc": ""
+        },
+        {
+            "hash": 1390324146,
+            "original": "GCC2_DRUNK2_PH",
+            "translated": "GCC2_DRUNK2_PH",
+            "desc": ""
+        },
+        {
+            "hash": 1478392602,
+            "original": "~z~I thought you liked the drinks I was buying you. Why didn't you say anything at the time?",
+            "translated": "~z~我还以为你很喜欢我买的酒。你怎么不早说？",
+            "desc": ""
+        },
+        {
+            "hash": 1479973821,
+            "original": "GCC2_DRUNK2_PG",
+            "translated": "GCC2_DRUNK2_PG",
+            "desc": ""
+        },
+        {
+            "hash": 1541503504,
+            "original": "~z~She should be going out with rap stars and football players, not hoods like you.",
+            "translated": "~z~她应该和嘻哈明星、橄榄球运动员出门，而不是你这样的小混混。",
+            "desc": ""
+        },
+        {
+            "hash": 1562140529,
+            "original": "~z~And I'm drunk! What is wrong with me?",
+            "translated": "~z~结果我醉了！我哪根筋搭错了？",
+            "desc": ""
+        },
+        {
+            "hash": 1580109028,
+            "original": "GCC2_DRUNK4_RD",
+            "translated": "GCC2_DRUNK4_RD",
+            "desc": ""
+        },
+        {
+            "hash": 1590715097,
+            "original": "~z~No problem? I gotta be at work soon. I gotta save lives, man.",
+            "translated": "~z~没关系？我待会儿要上班的，还要去救人性命的，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 1632722217,
+            "original": "~z~Watch it, Carmen.",
+            "translated": "~z~说话注意点，Carmen。",
+            "desc": ""
+        },
+        {
+            "hash": 1635255613,
+            "original": "~z~Sure, I am. I really appreciate that.",
+            "translated": "~z~当然是福气。谢主隆恩。",
+            "desc": ""
+        },
+        {
+            "hash": 1799486400,
+            "original": "~z~I'll give you fucking issues, I'll put you in the fucking hospital myself.",
+            "translated": "~z~我会让你丫有问题的，我会亲自把你丫送进那个破医院的。",
+            "desc": ""
+        },
+        {
+            "hash": 1844009252,
+            "original": "GCC2_DRUNK1_OD",
+            "translated": "GCC2_DRUNK1_OD",
+            "desc": ""
+        },
+        {
+            "hash": 1907333875,
+            "original": "~z~You like a child, Niko. You simple like a fucking child. Shit.",
+            "translated": "~z~你就像个孩子，Niko。单纯得像个小屁孩。靠。",
+            "desc": ""
+        },
+        {
+            "hash": 1913502790,
+            "original": "GCC2_DRUNK4_RA",
+            "translated": "GCC2_DRUNK4_RA",
+            "desc": ""
+        },
+        {
+            "hash": 1984941895,
+            "original": "GCC2_DRUNK2_PL",
+            "translated": "GCC2_DRUNK2_PL",
+            "desc": ""
+        },
+        {
+            "hash": 2013097644,
+            "original": "SFX_PAUSE_2000",
+            "translated": "SFX_PAUSE_2000",
+            "desc": ""
+        },
+        {
+            "hash": 2058305715,
+            "original": "~z~I guess so.",
+            "translated": "~z~大概是吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2176353557,
+            "original": "SFX_PAUSE_2000",
+            "translated": "SFX_PAUSE_2000",
+            "desc": ""
+        },
+        {
+            "hash": 2239374591,
+            "original": "GCC2_DRUNK4_RI",
+            "translated": "GCC2_DRUNK4_RI",
+            "desc": ""
+        },
+        {
+            "hash": 2240622682,
+            "original": "~z~No problem.",
+            "translated": "~z~没关系。",
+            "desc": ""
+        },
+        {
+            "hash": 2253672229,
+            "original": "~z~This is good. I'm enjoying myself.",
+            "translated": "~z~这样很好，我高兴得很。",
+            "desc": ""
+        },
+        {
+            "hash": 2260714771,
+            "original": "~z~We're having fun.",
+            "translated": "~z~喝得真高兴。",
+            "desc": ""
+        },
+        {
+            "hash": 2311085405,
+            "original": "SFX_PAUSE_2000",
+            "translated": "SFX_PAUSE_2000",
+            "desc": ""
+        },
+        {
+            "hash": 2314533001,
+            "original": "GCC2_DRUNK2_PE",
+            "translated": "GCC2_DRUNK2_PE",
+            "desc": ""
+        },
+        {
+            "hash": 2374179245,
+            "original": "GCC2_DRUNK3_QK",
+            "translated": "GCC2_DRUNK3_QK",
+            "desc": ""
+        },
+        {
+            "hash": 2394791443,
+            "original": "GCC2_DRUNK2_PM",
+            "translated": "GCC2_DRUNK2_PM",
+            "desc": ""
+        },
+        {
+            "hash": 2425217896,
+            "original": "~z~Screw you, asshole.",
+            "translated": "~z~去你妈的，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 2591143402,
+            "original": "GCC2_DRUNK3_QI",
+            "translated": "GCC2_DRUNK3_QI",
+            "desc": ""
+        },
+        {
+            "hash": 2635564299,
+            "original": "~z~You a cheapskate or something, Niko? You don't want to spend no money on Carmen?",
+            "translated": "~z~你是铁公鸡还是什么，Niko？你不想在Carmen身上花钱吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2643383761,
+            "original": "100010100100010100100010100010",
+            "translated": "100010100100010100100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 2647399183,
+            "original": "~z~Shit, Carmen. I'm not the one they're fucking paying.",
+            "translated": "~z~操，Carmen，医院他妈又没给我发钱。",
+            "desc": ""
+        },
+        {
+            "hash": 2750077368,
+            "original": "100100010100100100100010100100100100",
+            "translated": "100100010100100100100010100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2913884632,
+            "original": "GCC2_DRUNK2_PK",
+            "translated": "GCC2_DRUNK2_PK",
+            "desc": ""
+        },
+        {
+            "hash": 2950272838,
+            "original": "~z~Don't do that again.",
+            "translated": "~z~那就别有下次了。",
+            "desc": ""
+        },
+        {
+            "hash": 2951150527,
+            "original": "GCC2_DRUNK1_OB",
+            "translated": "GCC2_DRUNK1_OB",
+            "desc": ""
+        },
+        {
+            "hash": 3023121118,
+            "original": "~z~Fuck you, Niko. You think you better than Carmen? You ain't. You ain't fucking shit.",
+            "translated": "~z~操你妈的，Niko。你以为你比Carmen强吗？才怪呢，你丫屁都不是。",
+            "desc": ""
+        },
+        {
+            "hash": 3057798011,
+            "original": "GCC2_DRUNK2_PA",
+            "translated": "GCC2_DRUNK2_PA",
+            "desc": ""
+        },
+        {
+            "hash": 3140408788,
+            "original": "~z~Shit, can't someone else look after them? You fucking do it.",
+            "translated": "~z~妈的，就不能换个人照顾他们吗？你丫去照顾。",
+            "desc": ""
+        },
+        {
+            "hash": 3206654467,
+            "original": "GCC2_DRUNK3_QD",
+            "translated": "GCC2_DRUNK3_QD",
+            "desc": ""
+        },
+        {
+            "hash": 3209272869,
+            "original": "GCC2_DRUNK4_RH",
+            "translated": "GCC2_DRUNK4_RH",
+            "desc": ""
+        },
+        {
+            "hash": 3301996289,
+            "original": "010100100010100100100010100100010",
+            "translated": "010100100010100100100010100100010",
+            "desc": ""
+        },
+        {
+            "hash": 3311242527,
+            "original": "GCC2_DRUNK1_OH",
+            "translated": "GCC2_DRUNK1_OH",
+            "desc": ""
+        },
+        {
+            "hash": 3392772023,
+            "original": "GCC2_DRUNK1_OG",
+            "translated": "GCC2_DRUNK1_OG",
+            "desc": ""
+        },
+        {
+            "hash": 3415504543,
+            "original": "~z~Carmen don't know how she cope neither, baby.",
+            "translated": "~z~Carmen也不知道她是怎么过来的，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 3426845401,
+            "original": "GCC2_DRUNK2_PF",
+            "translated": "GCC2_DRUNK2_PF",
+            "desc": ""
+        },
+        {
+            "hash": 3459568636,
+            "original": "~z~I don't need to deal with you here as well.",
+            "translated": "~z~没必要再来跟你打交道。",
+            "desc": ""
+        },
+        {
+            "hash": 3628304576,
+            "original": "~z~Great!",
+            "translated": "~z~好啊！",
+            "desc": ""
+        },
+        {
+            "hash": 3640088365,
+            "original": "~z~Man I am drunk as shit.",
+            "translated": "~z~天，我都醉成烂泥了。",
+            "desc": ""
+        },
+        {
+            "hash": 3754258894,
+            "original": "GCC2_DRUNK3_QB",
+            "translated": "GCC2_DRUNK3_QB",
+            "desc": ""
+        },
+        {
+            "hash": 3768875388,
+            "original": "GCC2_DRUNK4_RJ",
+            "translated": "GCC2_DRUNK4_RJ",
+            "desc": ""
+        },
+        {
+            "hash": 3795218188,
+            "original": "~z~Screw you, Niko.",
+            "translated": "~z~去你妈的，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3814850134,
+            "original": "~z~I got to deal with stupid fucking sick children all day long.",
+            "translated": "~z~我整天都得跟傻逼一样的小病号打交道。",
+            "desc": ""
+        },
+        {
+            "hash": 3998627893,
+            "original": "GCC2_DRUNK4_RF",
+            "translated": "GCC2_DRUNK4_RF",
+            "desc": ""
+        },
+        {
+            "hash": 4044558021,
+            "original": "GCC2_DRUNK3_QC",
+            "translated": "GCC2_DRUNK3_QC",
+            "desc": ""
+        },
+        {
+            "hash": 4045911024,
+            "original": "GCC2_DRUNK4_RC",
+            "translated": "GCC2_DRUNK4_RC",
+            "desc": ""
+        },
+        {
+            "hash": 4056145637,
+            "original": "SFX_PAUSE_2000",
+            "translated": "SFX_PAUSE_2000",
+            "desc": ""
+        },
+        {
+            "hash": 4060758205,
+            "original": "GCC2_DRUNK4_RE",
+            "translated": "GCC2_DRUNK4_RE",
+            "desc": ""
+        },
+        {
+            "hash": 4087034385,
+            "original": "~z~she was saying something with her eyes and with her hips and with her whole body language.",
+            "translated": "~z~她用眼睛、屁股和全身上下的肢体语言跟你说了。",
+            "desc": ""
+        },
+        {
+            "hash": 4125020172,
+            "original": "GCC2_DRUNK1_OK",
+            "translated": "GCC2_DRUNK1_OK",
+            "desc": ""
+        },
+        {
+            "hash": 4147037534,
+            "original": "GCC2_DRUNK4_RB",
+            "translated": "GCC2_DRUNK4_RB",
+            "desc": ""
+        },
+        {
+            "hash": 4179432203,
+            "original": "SFX_PAUSE_2000",
+            "translated": "SFX_PAUSE_2000",
+            "desc": ""
+        }
+    ]
+}

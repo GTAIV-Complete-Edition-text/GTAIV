@@ -1,0 +1,754 @@
+{
+    "BRP5AU": [
+        {
+            "hash": 50458527,
+            "original": "~z~I got one, Nicky. Win it though. Okay? Believe in yourself, man. Don't settle anything for but a win, baby.",
+            "translated": "~z~是有一场，Nicky。不过要赢，好吗？相信自己，兄弟。除了胜利，别的一概不要，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 125611306,
+            "original": "~z~You European prick!",
+            "translated": "~z~你个欧洲傻逼！",
+            "desc": ""
+        },
+        {
+            "hash": 208585579,
+            "original": "BRP5_FA",
+            "translated": "BRP5_FA",
+            "desc": ""
+        },
+        {
+            "hash": 209996232,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 234158727,
+            "original": "~z~I'd like to see you try an take one of my cars NB, not a fuckin' chance baby!",
+            "translated": "~z~我很乐意你来试试我的车，NB。门都没有，宝贝！",
+            "desc": ""
+        },
+        {
+            "hash": 320633502,
+            "original": "~z~You're a fuckin' alpha male man, you take what you need, and I love it!",
+            "translated": "~z~你他妈是纯爷们，兄弟，想要什么有什么，我喜欢！",
+            "desc": ""
+        },
+        {
+            "hash": 413097805,
+            "original": "~z~You're a fucking adrenaline junky, man. But there ain't nothing goin' on. Call me later, bro.",
+            "translated": "~z~你个肾上腺素爆棚的怪物，哥们儿。但现在确实没有比赛。之后再打给我吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 474075167,
+            "original": "BRp5_AD",
+            "translated": "BRp5_AD",
+            "desc": ""
+        },
+        {
+            "hash": 540037525,
+            "original": "~z~Hey, Brucie. You know of any races?",
+            "translated": "~z~嘿，Brucie。现在有什么比赛吗？",
+            "desc": ""
+        },
+        {
+            "hash": 552992057,
+            "original": "~z~You'll be racing on the airport run, bro. Do it, Nicky. You're number one.",
+            "translated": "~z~你会在飞机跑道上比赛，兄弟。来吧，Nicky。你就是第一。",
+            "desc": ""
+        },
+        {
+            "hash": 708645155,
+            "original": "~z~Nicky, I got another one for you. You destroyed the last one. I love you, man.",
+            "translated": "~z~Nicky，我这儿还有一场。上次比赛你横扫千军，我爱死你了，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 738857280,
+            "original": "~z~Hey, there'll be more races. I'll call you soon.",
+            "translated": "~z~嘿，肯定会有更多比赛的。以后我再打给你。",
+            "desc": ""
+        },
+        {
+            "hash": 753238939,
+            "original": "BRP5_RA",
+            "translated": "BRP5_RA",
+            "desc": ""
+        },
+        {
+            "hash": 761100551,
+            "original": "~z~Don't push me man!",
+            "translated": "~z~别逼我，兄弟！",
+            "desc": ""
+        },
+        {
+            "hash": 889627015,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 917913008,
+            "original": "BRp5_IA",
+            "translated": "BRp5_IA",
+            "desc": ""
+        },
+        {
+            "hash": 918241755,
+            "original": "~z~Shit Niko, your car skills, and my body, people are gonna be petrified of us!",
+            "translated": "~z~我操Niko，你的车技、我的身材，人们会被惊到目瞪口呆的！",
+            "desc": ""
+        },
+        {
+            "hash": 924004999,
+            "original": "~z~You got a hard body and the skills to back it up, baby.",
+            "translated": "~z~你不仅身体强壮，而且车技也很牛逼，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 931155357,
+            "original": "~z~Spot the genetically superior one!",
+            "translated": "~z~瞧这天选之人！",
+            "desc": ""
+        },
+        {
+            "hash": 963848742,
+            "original": "BRp5_AC",
+            "translated": "BRp5_AC",
+            "desc": ""
+        },
+        {
+            "hash": 1025876411,
+            "original": "~z~It's a street race through Star Junction. You love it, man.",
+            "translated": "~z~这场街头赛车在星汇广场。你的最爱，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1031358322,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1050549104,
+            "original": "~z~Whaddya doin Nicky?",
+            "translated": "~z~你在做什么啊，Nicky？",
+            "desc": ""
+        },
+        {
+            "hash": 1057893414,
+            "original": "~z~Sorry, Nicky. There ain't nothing going on at the moment. Maybe you call later.",
+            "translated": "~z~抱歉，Nicky。现在没有比赛，以后再打给我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1070534543,
+            "original": "BRP5_OA",
+            "translated": "BRP5_OA",
+            "desc": ""
+        },
+        {
+            "hash": 1080925679,
+            "original": "~z~The fuck you doin?",
+            "translated": "~z~你丫想啥呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1081031178,
+            "original": "~z~Remind me to not call you when you're juicing, Brucie. Talk to you later.",
+            "translated": "~z~记得提醒我别在你嗑药的时候打给你，Brucie。以后再聊。",
+            "desc": ""
+        },
+        {
+            "hash": 1092329515,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1117474569,
+            "original": "BRp5_DA",
+            "translated": "BRp5_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1161947424,
+            "original": "~z~Niiiice!",
+            "translated": "~z~女子！",
+            "desc": ""
+        },
+        {
+            "hash": 1271674316,
+            "original": "~z~NB, what the fuck?",
+            "translated": "~z~NB，你搞毛啊？",
+            "desc": ""
+        },
+        {
+            "hash": 1274571861,
+            "original": "~z~Hell - yeah NB! Take that shit, just like we take the bitches we want in the clubs!",
+            "translated": "~z~爽啊，NB！拿好那玩意，就像我们在俱乐部里随便挑想上的婊子一样！",
+            "desc": ""
+        },
+        {
+            "hash": 1283328405,
+            "original": "BRP5_QA",
+            "translated": "BRP5_QA",
+            "desc": ""
+        },
+        {
+            "hash": 1324527393,
+            "original": "~z~Yo, Brucie. I'm in the mood to do some racing. Is there one going on?",
+            "translated": "~z~哟，Brucie。我现在有心情来场赛车，今天有没有人比赛？",
+            "desc": ""
+        },
+        {
+            "hash": 1370571271,
+            "original": "~z~Peace, man.",
+            "translated": "~z~再见，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1428061747,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1490801711,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1514787527,
+            "original": "~z~NB, don't make me angry!",
+            "translated": "~z~NB，别把我惹火了！",
+            "desc": ""
+        },
+        {
+            "hash": 1531299657,
+            "original": "BRp5_AD",
+            "translated": "BRp5_AD",
+            "desc": ""
+        },
+        {
+            "hash": 1567822820,
+            "original": "BRp5_KA",
+            "translated": "BRp5_KA",
+            "desc": ""
+        },
+        {
+            "hash": 1629254180,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1634991099,
+            "original": "~z~Okay, Brucie. Whatever. Talk to you later.",
+            "translated": "~z~好吧，Brucie。无所谓了，以后再聊。",
+            "desc": ""
+        },
+        {
+            "hash": 1641315540,
+            "original": "~z~Calm down, man. It's not a big deal. I'll talk to you soon.",
+            "translated": "~z~冷静点，兄弟。没什么大不了的。以后再打给你。",
+            "desc": ""
+        },
+        {
+            "hash": 1717003569,
+            "original": "BRp5_AA",
+            "translated": "BRp5_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1749144493,
+            "original": "~z~Any time you want to race, give me a call and I'll hit you up with a location.",
+            "translated": "~z~只要想比赛了就给我来个电话，我会告诉你比赛地点的。",
+            "desc": ""
+        },
+        {
+            "hash": 1760366214,
+            "original": "~z~Domination. That's all. Domination.",
+            "translated": "~z~横扫就完事了。横扫。",
+            "desc": ""
+        },
+        {
+            "hash": 1783673653,
+            "original": "~z~NB's a winner!",
+            "translated": "~z~NB他赢了！",
+            "desc": ""
+        },
+        {
+            "hash": 1843943388,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1889549579,
+            "original": "~z~The cats are gonna blast along Dukes Boulevard. Hit it up, you winner.",
+            "translated": "~z~这些弱鸡会在去Dukes大街的路上螺旋升天的。来吧，大赢家。",
+            "desc": ""
+        },
+        {
+            "hash": 1895039068,
+            "original": "BRp5_CA",
+            "translated": "BRp5_CA",
+            "desc": ""
+        },
+        {
+            "hash": 1918837098,
+            "original": "~z~No one, I mean no one can touch us up here.",
+            "translated": "~z~没有人。我是说没有人能达到我们现在的高度。",
+            "desc": ""
+        },
+        {
+            "hash": 1927239507,
+            "original": "~z~Brucie, man. I can't do that race anymore. Sorry.",
+            "translated": "~z~Brucie，兄弟，我不能去那场比赛了。抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 1971947846,
+            "original": "~z~Don't be a cock!",
+            "translated": "~z~别他妈当个懦夫！",
+            "desc": ""
+        },
+        {
+            "hash": 1999133673,
+            "original": "BRp5_NA",
+            "translated": "BRp5_NA",
+            "desc": ""
+        },
+        {
+            "hash": 2007148307,
+            "original": "BRp5_LA",
+            "translated": "BRp5_LA",
+            "desc": ""
+        },
+        {
+            "hash": 2011477013,
+            "original": "BRp5_HA",
+            "translated": "BRp5_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2078772818,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2131319986,
+            "original": "~z~Look at that baby!",
+            "translated": "~z~你看，宝贝！",
+            "desc": ""
+        },
+        {
+            "hash": 2139353031,
+            "original": "BRp5_BA",
+            "translated": "BRp5_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2148458161,
+            "original": "~z~He's genetically superior, like me!",
+            "translated": "~z~他就是天选之人，跟我一样！",
+            "desc": ""
+        },
+        {
+            "hash": 2164768319,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2254748846,
+            "original": "100100010100100",
+            "translated": "100100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2261003195,
+            "original": "~z~Stop fuckin' around NB.",
+            "translated": "~z~别他妈乱搞了，NB。",
+            "desc": ""
+        },
+        {
+            "hash": 2279403969,
+            "original": "BRP5_PA",
+            "translated": "BRP5_PA",
+            "desc": ""
+        },
+        {
+            "hash": 2318059602,
+            "original": "BRp5_MA",
+            "translated": "BRp5_MA",
+            "desc": ""
+        },
+        {
+            "hash": 2345573062,
+            "original": "~z~They liked your shit, man.",
+            "translated": "~z~他们很喜欢你丫，哥们儿。",
+            "desc": ""
+        },
+        {
+            "hash": 2355563110,
+            "original": "~z~Hey, Brucie. I'm not going to be on the starting grid. I have to pull out of the race you organized.",
+            "translated": "~z~喂，Brucie。我不会出现在起跑线上了。我只能先退出你组织的比赛了。",
+            "desc": ""
+        },
+        {
+            "hash": 2359296729,
+            "original": "~z~Yo, there's one going. I don't want no more losses though, bro. You're the man, Nicky. Fucking destroy this one.",
+            "translated": "~z~哟，确实有一场。不过我真的不想再输了，兄弟。你是天选之人，Nicky。这次要干烂他们。",
+            "desc": ""
+        },
+        {
+            "hash": 2362243129,
+            "original": "~z~Winner! Hello!",
+            "translated": "~z~冠军！你好啊！",
+            "desc": ""
+        },
+        {
+            "hash": 2372329277,
+            "original": "~z~All eyes are on us, Nicky. All eyes, baby.",
+            "translated": "~z~万众瞩目啊，Nicky。万众瞩目，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 2432909369,
+            "original": "~z~You don't wanna make me angry homie!",
+            "translated": "~z~你不想惹毛我的，哥们儿！",
+            "desc": ""
+        },
+        {
+            "hash": 2475689407,
+            "original": "~z~Spot the alpha male!",
+            "translated": "~z~瞧这威猛先生！",
+            "desc": ""
+        },
+        {
+            "hash": 2526079437,
+            "original": "~z~It's lonely at the top, NB. Lonely, baby.",
+            "translated": "~z~无敌是多么寂寞，NB。高处不胜寒啊，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 2535972397,
+            "original": "BRp5_AE",
+            "translated": "BRp5_AE",
+            "desc": ""
+        },
+        {
+            "hash": 2584786762,
+            "original": "~z~Cool, I guess.",
+            "translated": "~z~那也行吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2663493403,
+            "original": "~z~Hey man, you've got to let the other racers know I can't compete right now.",
+            "translated": "~z~嘿兄弟，你得告知其他参赛者我暂时不能参赛了。",
+            "desc": ""
+        },
+        {
+            "hash": 2663810789,
+            "original": "100100010100100",
+            "translated": "100100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2681120974,
+            "original": "BRP5_SA",
+            "translated": "BRP5_SA",
+            "desc": ""
+        },
+        {
+            "hash": 2708077074,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2752472782,
+            "original": "~z~They liked your shit, man.",
+            "translated": "~z~他们很喜欢你丫，哥们儿。",
+            "desc": ""
+        },
+        {
+            "hash": 2782616768,
+            "original": "BRp5_GA",
+            "translated": "BRp5_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2868491730,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2904093378,
+            "original": "BRp5_AE",
+            "translated": "BRp5_AE",
+            "desc": ""
+        },
+        {
+            "hash": 2908133208,
+            "original": "~z~You are number one, man. The greatest of all time. There's another one for you, bro.",
+            "translated": "~z~你就是第一，兄弟。前无古人后无来者。这还有一场比赛等着你去，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2936358819,
+            "original": "~z~Yeah, Nicky. But win it this time. You're a fucking champion, man.",
+            "translated": "~z~有啊，Nicky。这次你得给我赢下来啊。你丫就该是冠军，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2983068235,
+            "original": "~z~Nicky, you animal. The guys we raced the other day want a rematch.",
+            "translated": "~z~Nicky，你这野兽。那些家伙想和我们改天再赛一次。",
+            "desc": ""
+        },
+        {
+            "hash": 2986558667,
+            "original": "~z~You're racing on the road to Bohan, baby. Win that shit.",
+            "translated": "~z~这次的比赛路线是去Bohan的那条路，宝贝。一定要赢啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3052080546,
+            "original": "~z~The race goes through South Broker. Dominate it.",
+            "translated": "~z~比赛会在South Broker进行。横扫千军吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3107053781,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 3130287808,
+            "original": "~z~Brucie, man. Someone else is going to have to dominate that race you organized. I'm pulling out.",
+            "translated": "~z~Brucie，兄弟。让别人横扫你组织的比赛吧，我退赛了。",
+            "desc": ""
+        },
+        {
+            "hash": 3154261167,
+            "original": "~z~I'm getting altitude sickness because the top of the pile is so fuckin' high. Yeah.",
+            "translated": "~z~你丫的名次高到我犯高原反应了。耶。",
+            "desc": ""
+        },
+        {
+            "hash": 3181783140,
+            "original": "BRp5_AB",
+            "translated": "BRp5_AB",
+            "desc": ""
+        },
+        {
+            "hash": 3190213837,
+            "original": "~z~You're going through Alderney, Nicky. Be the best.",
+            "translated": "~z~这次要穿过Alderney，Nicky。全力以赴吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3190456189,
+            "original": "~z~Nicky, you animal. The guys we raced the other day want a rematch.",
+            "translated": "~z~Nicky，你这野兽。那些家伙想和我们改天再赛一次。",
+            "desc": ""
+        },
+        {
+            "hash": 3316521681,
+            "original": "~z~Win this shit for me, man. I got one for you.",
+            "translated": "~z~是有场赛车，为我你一定要赢了这场。",
+            "desc": ""
+        },
+        {
+            "hash": 3362336641,
+            "original": "~z~Any time you want to race, give me a call and I'll hit you up with a location.",
+            "translated": "~z~只要想比赛了就给我来个电话，我会告诉你比赛地点的。",
+            "desc": ""
+        },
+        {
+            "hash": 3413820677,
+            "original": "~z~Shit, man, there's nothing on at the moment. Try again soon, alright?",
+            "translated": "~z~抱歉，兄弟，现在没有比赛。过两天再问，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3442515341,
+            "original": "~z~Peace, man.",
+            "translated": "~z~再见，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3478904866,
+            "original": "BRp5_EA",
+            "translated": "BRp5_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3505282695,
+            "original": "~z~You ate them alive last time and you're still hungry. Well, open up Nicky because I'm about to feed you another.",
+            "translated": "~z~上次你刚把他们生吞活剥，然而还不满足。来，张嘴Nicky，这就给你再喂一场。",
+            "desc": ""
+        },
+        {
+            "hash": 3594701620,
+            "original": "~z~Cool, I guess.",
+            "translated": "~z~也行吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3612261906,
+            "original": "~z~Nicky, I was hoping you'd want to do this shit. Intense.",
+            "translated": "~z~Nicky，我他妈早就希望你这么说了。太棒了！",
+            "desc": ""
+        },
+        {
+            "hash": 3614597029,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3615880053,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3653001608,
+            "original": "~z~Nicky, you animal. They must be scared of you because nothing's going down, bro. Call another time.",
+            "translated": "~z~Nicky，你个野兽。他们肯定是被你吓怕了，所以才没办比赛，兄弟。改天再问吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3662598145,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3668561526,
+            "original": "BRp5_JA",
+            "translated": "BRp5_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3700543124,
+            "original": "BRp5_AB",
+            "translated": "BRp5_AB",
+            "desc": ""
+        },
+        {
+            "hash": 3707088569,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3727937011,
+            "original": "BRp5_AC",
+            "translated": "BRp5_AC",
+            "desc": ""
+        },
+        {
+            "hash": 3730638728,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3760782588,
+            "original": "~z~A fucking champion like you can race as much as he wants. I know about one.",
+            "translated": "~z~你丫这样的王者想赛几场就赛几场！刚好有一场。",
+            "desc": ""
+        },
+        {
+            "hash": 3775356704,
+            "original": "~z~What the fuck?",
+            "translated": "~z~这他妈咋回事？",
+            "desc": ""
+        },
+        {
+            "hash": 3823448422,
+            "original": "~z~You still got an appetite even though you didn't win that last one. I love it. I've got something for you, bro.",
+            "translated": "~z~上一场输了，但并没有磨平你的斗志。我喜欢。我为你准备了一场新的比赛，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3900319066,
+            "original": "~z~You make that shit look easy baby, you're a fuckin' animal!",
+            "translated": "~z~你让这一切无比简单，你丫就他妈是头猛兽！",
+            "desc": ""
+        },
+        {
+            "hash": 3954181197,
+            "original": "~z~You'll be racing in South Algonquin. Punish those bitches.",
+            "translated": "~z~这次比赛的地点在South Algonquin。教这些贱人做人。",
+            "desc": ""
+        },
+        {
+            "hash": 3955058864,
+            "original": "~z~Hey man, I feel like winning something. You got any races?",
+            "translated": "~z~喂，老兄，我很想品尝胜利，有什么比赛吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3969877181,
+            "original": "~z~The race is through South Alderney. Yeah, push it to the limit and take it to the top.",
+            "translated": "~z~这场比赛会穿过South Alderney。对，冲破极限到达巅峰吧！",
+            "desc": ""
+        },
+        {
+            "hash": 3987176161,
+            "original": "BRp5_CB",
+            "translated": "BRp5_CB",
+            "desc": ""
+        },
+        {
+            "hash": 4032332425,
+            "original": "~z~It's a race around North Alderney. Take them down.",
+            "translated": "~z~这场比赛在North Alderney一带。干翻他们。",
+            "desc": ""
+        },
+        {
+            "hash": 4180840598,
+            "original": "~z~Not cool man.",
+            "translated": "~z~不行啊兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 4259908871,
+            "original": "~z~Brucie, are there any races going on at the moment?",
+            "translated": "~z~Brucie，现在有什么正在进行的比赛吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4273224210,
+            "original": "~z~Alpha males, baby.",
+            "translated": "~z~威猛先生啊，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 4286458631,
+            "original": "BRp5_AA",
+            "translated": "BRp5_AA",
+            "desc": ""
+        },
+        {
+            "hash": 4290141706,
+            "original": "~z~Well done my friend, well done!",
+            "translated": "~z~干得好，我的朋友，干得好！",
+            "desc": ""
+        }
+    ]
+}

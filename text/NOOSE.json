@@ -1,0 +1,136 @@
+{
+    "NOOSE": [
+        {
+            "hash": 155012262,
+            "original": "You have collected Petrovic. Take him to the ~Y~safe zone.~S~",
+            "translated": "你接上了Petrovic。带他去~Y~安全区。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 352634459,
+            "original": "Keep the N.O.O.S.E. team away from the jet.",
+            "translated": "保持N.O.O.S.E.小组远离飞机。",
+            "desc": ""
+        },
+        {
+            "hash": 385935405,
+            "original": "Petrovic is in the ~B~chopper.~s~ Get in.",
+            "translated": "Petrovic在~B~直升机上。~s~进去。",
+            "desc": ""
+        },
+        {
+            "hash": 599417798,
+            "original": "Find a vehicle and bring it back to Petrovic's jet.",
+            "translated": "找一辆汽车并把它带回Petrovic的飞机上。",
+            "desc": ""
+        },
+        {
+            "hash": 783652758,
+            "original": "~B~Petrovic~S~ is making a break for the transport. Once he's in, get outta there.",
+            "translated": "~B~Petrovic~S~正在为运输做准备。他一进去，就离开那儿。",
+            "desc": ""
+        },
+        {
+            "hash": 1013986059,
+            "original": "One of your crew has got some transport and it's on its way. Keep ~b~Petrovic~s~ alive until it gets here.",
+            "translated": "你的一名成员已经有了一些运输工具，但还在路上。在它们到货之前留着~b~Petrovic的小命~s~。",
+            "desc": ""
+        },
+        {
+            "hash": 1055306782,
+            "original": "The transport is full. Petrovic won't leave the jet unless there is a free seat.",
+            "translated": "运输工具已经满员了。除非有空位，否则Petrovic不会离开飞机。",
+            "desc": ""
+        },
+        {
+            "hash": 1080136647,
+            "original": "~S~Destroy the ~R~pursuing helicopters.~S~",
+            "translated": "~S~消灭~R~前来追击的直升机。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 1116496202,
+            "original": "Someone has to collect ~B~Petrovic~S~ and take him to the safe zone.",
+            "translated": "得有人去接~B~Petrovic~S~并把他带到安全地带。",
+            "desc": ""
+        },
+        {
+            "hash": 1561630298,
+            "original": "You must find another vehicle to get Petrovic to the ~Y~safe zone.~S~",
+            "translated": "你必须另找一辆载具把Petrovic送到~Y~安全地带。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 1576334868,
+            "original": "You have got transport, take it back to ~y~Petrovic's jet.~S~",
+            "translated": "把你已有的运输工具开回~y~Petrovic的飞机边。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 1867758296,
+            "original": "Wait here for the rest of your crew.",
+            "translated": "在这儿等待你的其他成员。",
+            "desc": ""
+        },
+        {
+            "hash": 1958290332,
+            "original": "Protect ~B~Petrovic~S~ and find him some transport.",
+            "translated": "保护~B~Petrovic~S~并给他找些运输工具。",
+            "desc": ""
+        },
+        {
+            "hash": 2085819646,
+            "original": "Clear the area. Petrovic won't come out until it's safe.",
+            "translated": "消灭这个地区的敌人。Petrovic在这儿安全之前不会出来。",
+            "desc": ""
+        },
+        {
+            "hash": 2228171912,
+            "original": "~B~Petrovic~S~ is vulnerable. Get some transport to the extraction point.",
+            "translated": "~B~Petrovic~S~是脆弱的。找些运输工具送到提取点。",
+            "desc": ""
+        },
+        {
+            "hash": 2303380671,
+            "original": "Wait until everyone is in a vehicle and then get out of here.",
+            "translated": "在所有人都上了车之后，离开这里。",
+            "desc": ""
+        },
+        {
+            "hash": 2783651854,
+            "original": "~S~One of your crew has collected Petrovic. Make your way to the ~Y~safe zone.~S~",
+            "translated": "~S~你的一名成员已经找到了Petrovic。到~Y~安全区~S~去。",
+            "desc": ""
+        },
+        {
+            "hash": 2841145096,
+            "original": "You must secure the area. Petrovic won't leave the jet while there are cops nearby.",
+            "translated": "你必须保护好这个地区。只要附近有警察，Petrovic 就不会离开飞机。",
+            "desc": ""
+        },
+        {
+            "hash": 3244466609,
+            "original": "~R~Petrovic is dead.~S~",
+            "translated": "~R~Petrovic死了。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 3314761552,
+            "original": "~R~The chopper's been destroyed.~S~",
+            "translated": "~R~直升机被毁了。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 3854992825,
+            "original": "Petrovic is vulnerable. Get some transport to the ~Y~extraction point.~S~",
+            "translated": "Petrovic是脆弱的。找些运输工具送到 ~Y~提取点~S~。",
+            "desc": ""
+        },
+        {
+            "hash": 4244264491,
+            "original": "~S~Take Petrovic back to the ~Y~safe zone.~S~",
+            "translated": "~S~把Petrovic带回~Y~安全地带~S~",
+            "desc": ""
+        }
+    ]
+}

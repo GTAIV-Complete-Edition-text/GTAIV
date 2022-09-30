@@ -1,0 +1,94 @@
+{
+    "RAY1": [
+        {
+            "hash": 607331301,
+            "original": "~s~He's heading for the roof.",
+            "translated": "~s~他正逃向屋顶。",
+            "desc": ""
+        },
+        {
+            "hash": 1007375253,
+            "original": "~s~Get into the ~y~elevator.",
+            "translated": "~s~进入~y~电梯。",
+            "desc": ""
+        },
+        {
+            "hash": 1089444235,
+            "original": "~r~Dead people can't talk.",
+            "translated": "~r~死人不会开口。",
+            "desc": ""
+        },
+        {
+            "hash": 1304688390,
+            "original": "~s~The ~g~elevator~s~ can be used to reach the 20th floor.",
+            "translated": "~s~坐~g~电梯~s~可以上到20楼。",
+            "desc": ""
+        },
+        {
+            "hash": 1584437343,
+            "original": "~s~Search the apartment, he must be here somewhere.",
+            "translated": "~s~搜查这间公寓，他肯定躲在这里。",
+            "desc": ""
+        },
+        {
+            "hash": 1899642354,
+            "original": "~s~Go to ~y~Teddy Benavidez's apartment.",
+            "translated": "~s~前往~y~Teddy Benavidez的公寓。",
+            "desc": ""
+        },
+        {
+            "hash": 1976715042,
+            "original": "~s~Use Ray's text message to help you find Alonzo.",
+            "translated": "~s~利用Ray的短信寻找Alonzo。",
+            "desc": ""
+        },
+        {
+            "hash": 2225661135,
+            "original": "~s~Take out ~r~Teddy Benavidez.",
+            "translated": "~s~干掉~r~Teddy Benavidez。",
+            "desc": ""
+        },
+        {
+            "hash": 2537932326,
+            "original": "~r~Teddy's goon escaped.",
+            "translated": "~r~Teddy的小弟逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 2800838013,
+            "original": "~r~Teddy got away.",
+            "translated": "~r~Teddy逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 3136016724,
+            "original": "~s~Go inside and look for ~y~Teddy Benavidez's apartment.",
+            "translated": "~s~进去寻找~y~Teddy Benavidez的公寓。",
+            "desc": ""
+        },
+        {
+            "hash": 3451811577,
+            "original": "~s~Go to the ~y~projects on Galveston.",
+            "translated": "~s~前往~y~Galveston的公屋社区。",
+            "desc": ""
+        },
+        {
+            "hash": 3677171817,
+            "original": "~s~Press ~INPUT_PICKUP~ to call the elevator.",
+            "translated": "~s~按~INPUT_PICKUP~呼叫电梯。",
+            "desc": ""
+        },
+        {
+            "hash": 3732466258,
+            "original": "~s~Intimidate ~r~Alonzo.",
+            "translated": "~s~威胁~r~Alonzo。",
+            "desc": ""
+        },
+        {
+            "hash": 3917758240,
+            "original": "~s~Teddy's goons are everywhere, use cover and move through the building with caution.",
+            "translated": "~s~公寓中到处都是Teddy的小弟，善用掩体，谨慎行动。",
+            "desc": ""
+        }
+    ]
+}

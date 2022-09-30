@@ -1,0 +1,412 @@
+{
+    "R13BAUD": [
+        {
+            "hash": 120468342,
+            "original": "~z~Get me to this place, my friend.",
+            "translated": "~z~带我去那地方，我的朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 175326914,
+            "original": "~z~Oh, I think, if I'm not wrong it's straight.",
+            "translated": "~z~噢，我想，如果我没弄错的话是直行。",
+            "desc": ""
+        },
+        {
+            "hash": 337038663,
+            "original": "~z~You don't want to piss me off today, man.",
+            "translated": "~z~你不会想在今天惹我的，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 406381133,
+            "original": "~z~Okay then... ummm... straight.",
+            "translated": "~z~好吧...呃...直行。",
+            "desc": ""
+        },
+        {
+            "hash": 429530566,
+            "original": "~z~Ummm, I'm pretty sure it's right here.",
+            "translated": "~z~唔，我很肯定这里该右转。",
+            "desc": ""
+        },
+        {
+            "hash": 521861815,
+            "original": "R13_B_HC",
+            "translated": "R13_B_HC",
+            "desc": ""
+        },
+        {
+            "hash": 525233392,
+            "original": "~z~Let me retrace my steps then.",
+            "translated": "~z~我再回忆一下路线。",
+            "desc": ""
+        },
+        {
+            "hash": 604141488,
+            "original": "~z~I was really high when I last went to Bernie's place.",
+            "translated": "~z~我上次去Bernie他家的时候有点喝高了。",
+            "desc": ""
+        },
+        {
+            "hash": 660912475,
+            "original": "~z~Okay... I think you should maybe turn right.",
+            "translated": "~z~好了...我想可能得右转了。",
+            "desc": ""
+        },
+        {
+            "hash": 813363506,
+            "original": "~z~Why have you left Roman behind, are you going to kill me?",
+            "translated": "~z~Why have you left Roman behind, are you going to kill me?",
+            "desc": ""
+        },
+        {
+            "hash": 834933555,
+            "original": "~z~Now where was it again?",
+            "translated": "~z~那地方在哪儿来着？",
+            "desc": ""
+        },
+        {
+            "hash": 868367988,
+            "original": "~z~Okay, ummm, if I'm right Bernie's place is somewhere Uptown.",
+            "translated": "~z~好的，呃，我没弄错的话Bernie就住在市郊某处。",
+            "desc": ""
+        },
+        {
+            "hash": 959653983,
+            "original": "201021021",
+            "translated": "201021021",
+            "desc": ""
+        },
+        {
+            "hash": 984837659,
+            "original": "R13_B_GA",
+            "translated": "R13_B_GA",
+            "desc": ""
+        },
+        {
+            "hash": 1036703652,
+            "original": "291",
+            "translated": "291",
+            "desc": ""
+        },
+        {
+            "hash": 1201159899,
+            "original": "~z~Ummmm. Ahhhh.",
+            "translated": "~z~呃。啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1217116112,
+            "original": "~z~Uhhh, oh. Left.",
+            "translated": "~z~呃，噢。左转。",
+            "desc": ""
+        },
+        {
+            "hash": 1412610213,
+            "original": "~z~Where's Roman? What's happening?",
+            "translated": "~z~Where's Roman? What's happening?",
+            "desc": ""
+        },
+        {
+            "hash": 1420584705,
+            "original": "R13_B_HB",
+            "translated": "R13_B_HB",
+            "desc": ""
+        },
+        {
+            "hash": 1430313516,
+            "original": "~z~Hmmm. Let me think about this.",
+            "translated": "~z~唔，我要想一想。",
+            "desc": ""
+        },
+        {
+            "hash": 1471595122,
+            "original": "R13_B_EA",
+            "translated": "R13_B_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1487978226,
+            "original": "~z~This is it. This is Bernie's place. Are you going to kill him?",
+            "translated": "~z~就是这里。这就是Bernie的住处。你是要去杀他吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1499224017,
+            "original": "~z~I have been waiting ten years to find Florian. Get me there.",
+            "translated": "~z~我已经等着找Florian十年了。带我过去。",
+            "desc": ""
+        },
+        {
+            "hash": 1540965699,
+            "original": "~z~That is the most your friend can look forward to. Get out of here now. You've done your job.",
+            "translated": "~z~这是你朋友最好的下场。你快滚吧，你的任务完成了。",
+            "desc": ""
+        },
+        {
+            "hash": 1547132711,
+            "original": "~z~Ahhh. Hmmm. How about left?",
+            "translated": "~z~啊，唔。要么左转？",
+            "desc": ""
+        },
+        {
+            "hash": 1590783873,
+            "original": "~z~Ohhh, you might have to keep going here.",
+            "translated": "~z~噢，这里大概得直行。",
+            "desc": ""
+        },
+        {
+            "hash": 1623117281,
+            "original": "R13_B_FA",
+            "translated": "R13_B_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1680701445,
+            "original": "~z~Hmmm. Okay then.",
+            "translated": "~z~唔，想起来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1681672497,
+            "original": "291",
+            "translated": "291",
+            "desc": ""
+        },
+        {
+            "hash": 1715952846,
+            "original": "~z~Why isn't Roman with us? What's going on?",
+            "translated": "~z~Why isn't Roman with us? What's going on?",
+            "desc": ""
+        },
+        {
+            "hash": 1789000700,
+            "original": "~z~Ummm, okay. Maybe left.",
+            "translated": "~z~呃，好吧。要么左转吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1827670962,
+            "original": "~z~Ahhh. Try going straight here.",
+            "translated": "~z~啊。直行一下试试吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1833780523,
+            "original": "~z~Well... ummm... okay... turn right. Turn right.",
+            "translated": "~z~那...唔...好吧...右转，右转。",
+            "desc": ""
+        },
+        {
+            "hash": 2052170841,
+            "original": "~z~Alright. Bernie's place. Where was Bernie's place.",
+            "translated": "~z~好吧，Bernie的家，Bernie的家在哪儿来着。",
+            "desc": ""
+        },
+        {
+            "hash": 2087959976,
+            "original": "R13_B_BA",
+            "translated": "R13_B_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2168739227,
+            "original": "R13_B_CA",
+            "translated": "R13_B_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2201922877,
+            "original": "~z~I think, umm... I'm pretty sure it's left.",
+            "translated": "~z~我想，呃...我很确定该左转。",
+            "desc": ""
+        },
+        {
+            "hash": 2212705828,
+            "original": "~z~You know, you try to block walks of shame out of your memory.",
+            "translated": "~z~你也知道，人都会故意屏蔽羞耻之行的记忆。",
+            "desc": ""
+        },
+        {
+            "hash": 2254163943,
+            "original": "R13_B_HA",
+            "translated": "R13_B_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2307211968,
+            "original": "~z~Okay, think Talbot. Think.",
+            "translated": "~z~好了，想想，Talbot。想想。",
+            "desc": ""
+        },
+        {
+            "hash": 2316902854,
+            "original": "~z~When I am done with Florian, he will be begging to die.",
+            "translated": "~z~等我和Florian把话说完，他就会求着去死的。",
+            "desc": ""
+        },
+        {
+            "hash": 2392837357,
+            "original": "~z~Bernie Crane. What have you gotten me into.",
+            "translated": "~z~Bernie Crane。你都让我惹上了什么啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2405326651,
+            "original": "291",
+            "translated": "291",
+            "desc": ""
+        },
+        {
+            "hash": 2454669758,
+            "original": "~z~You better be taking us to the right place, Talbot.",
+            "translated": "~z~你最好能给我们带对地方，Talbot。",
+            "desc": ""
+        },
+        {
+            "hash": 2466172093,
+            "original": "~z~Maybe if you, ummm, took a left here.",
+            "translated": "~z~要么你，呃，在这儿左转。",
+            "desc": ""
+        },
+        {
+            "hash": 2573245781,
+            "original": "~z~Ummm, can you maybe go right.",
+            "translated": "~z~呃，要么右转吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2639388613,
+            "original": "R13_B_IA",
+            "translated": "R13_B_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2665770366,
+            "original": "~z~Oh. This isn't easy.",
+            "translated": "~z~噢，这可不简单。",
+            "desc": ""
+        },
+        {
+            "hash": 2695915552,
+            "original": "~z~Okay, okay, okay. Just go left.",
+            "translated": "~z~好了，好了，好了。左转就行。",
+            "desc": ""
+        },
+        {
+            "hash": 2729985079,
+            "original": "R13_B_DA",
+            "translated": "R13_B_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2919530788,
+            "original": "~z~When I find Florian... when I find him...",
+            "translated": "~z~等我找到Florian...等我找到他...",
+            "desc": ""
+        },
+        {
+            "hash": 2941012501,
+            "original": "291",
+            "translated": "291",
+            "desc": ""
+        },
+        {
+            "hash": 2968391403,
+            "original": "291",
+            "translated": "291",
+            "desc": ""
+        },
+        {
+            "hash": 3192240910,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 3517043996,
+            "original": "~z~Ahhhh. Just go straight here.",
+            "translated": "~z~啊，这里直行就成。",
+            "desc": ""
+        },
+        {
+            "hash": 3531149193,
+            "original": "~z~This is complicated. How about right?",
+            "translated": "~z~有点复杂，要么右转？",
+            "desc": ""
+        },
+        {
+            "hash": 3666827833,
+            "original": "~z~Where is it? Why aren't we there yet?",
+            "translated": "~z~在哪儿呢？我们怎么还没到？",
+            "desc": ""
+        },
+        {
+            "hash": 3745869923,
+            "original": "~z~Ummm, can you keep going straight.",
+            "translated": "~z~呃，要么接着直行吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3762924330,
+            "original": "~z~Okay then, I guess I'd turn right here.",
+            "translated": "~z~好了，我的话会在这儿右转。",
+            "desc": ""
+        },
+        {
+            "hash": 3974364898,
+            "original": "~z~Talbot, if you screw me around you are a dead man.",
+            "translated": "~z~Talbot，要是敢耍我，你就死定了。",
+            "desc": ""
+        },
+        {
+            "hash": 3979250745,
+            "original": "~z~Alright, I'd keep going straight here.",
+            "translated": "~z~我的话会在这儿直行。",
+            "desc": ""
+        },
+        {
+            "hash": 3993880242,
+            "original": "~z~Let me think. Umm, okay, right.",
+            "translated": "~z~我想想。呃，好吧，右转。",
+            "desc": ""
+        },
+        {
+            "hash": 4006085706,
+            "original": "~z~Well, how about you maybe go left and see where it takes us?",
+            "translated": "~z~要么你先左转看看会开到哪儿？",
+            "desc": ""
+        },
+        {
+            "hash": 4018744285,
+            "original": "091",
+            "translated": "091",
+            "desc": ""
+        },
+        {
+            "hash": 4128280891,
+            "original": "~z~I don't want you to mess around. Get me to this place.",
+            "translated": "~z~我不想你惹是生非。带我去那地方。",
+            "desc": ""
+        },
+        {
+            "hash": 4223885853,
+            "original": "~z~Uhhh. Ummmm. Maybe right.",
+            "translated": "~z~呃，唔。右拐吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4240911210,
+            "original": "~z~Okay, it's straight I think.",
+            "translated": "~z~好了，我想得这里直行。",
+            "desc": ""
+        },
+        {
+            "hash": 4246577397,
+            "original": "~z~I am almost positive that it might be left.",
+            "translated": "~z~这里多半是该左转。",
+            "desc": ""
+        }
+    ]
+}

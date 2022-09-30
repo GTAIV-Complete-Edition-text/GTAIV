@@ -1,0 +1,1204 @@
+{
+    "R5AUD": [
+        {
+            "hash": 6787753,
+            "original": "~z~Oh, hey Niko.",
+            "translated": "~z~噢，嘿，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 53095025,
+            "original": "~z~Niko, yo, Roman said you were reliable.",
+            "translated": "~z~Niko，哟，Roman说你很靠谱。",
+            "desc": ""
+        },
+        {
+            "hash": 106737491,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 115733302,
+            "original": "~z~Hey, Roman ain't much better when he's behind the wheel. Sorry about that screw up.",
+            "translated": "~z~嘿，Roman开车的时候也没好到哪去。抱歉搞砸了。",
+            "desc": ""
+        },
+        {
+            "hash": 123776253,
+            "original": "~z~Vlad... Vladdy boy... what's going on?",
+            "translated": "~z~Vlad...Vladdy仔...这都怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 138793277,
+            "original": "~z~Thank you, man. Tell Roman to stay out of trouble, you hear?",
+            "translated": "~z~谢谢你，兄弟。告诉Roman避开麻烦，听见了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 183870779,
+            "original": "~z~I ain't got no problem with that. Just don't tell me if you stole this shit from a hospital or a school for sick kids.",
+            "translated": "~z~只要东西不是从医院或者福利学校偷来的，我就没有问题。",
+            "desc": ""
+        },
+        {
+            "hash": 184277638,
+            "original": "~z~The cops are onto me. Get us out of here!",
+            "translated": "~z~条子来抓我了。快点逃出去！",
+            "desc": ""
+        },
+        {
+            "hash": 185175682,
+            "original": "R5_NF",
+            "translated": "R5_NF",
+            "desc": ""
+        },
+        {
+            "hash": 195540015,
+            "original": "~z~What?",
+            "translated": "~z~什么啊？",
+            "desc": ""
+        },
+        {
+            "hash": 219458563,
+            "original": "~z~Hey, yokel. Your dumb cousin isn't here. Go get me a coffee.",
+            "translated": "~z~喂，乡巴佬，你的蠢堂兄不在。去给我泡杯咖啡。",
+            "desc": ""
+        },
+        {
+            "hash": 228001356,
+            "original": "R5_BG",
+            "translated": "R5_BG",
+            "desc": ""
+        },
+        {
+            "hash": 242502249,
+            "original": "R5_J",
+            "translated": "R5_J",
+            "desc": ""
+        },
+        {
+            "hash": 257090400,
+            "original": "100010100100010010100100010100010010",
+            "translated": "100010100100010010100100010100010010",
+            "desc": ""
+        },
+        {
+            "hash": 317145774,
+            "original": "~z~while you don't pay, maybe you and Niko can do me few favors.",
+            "translated": "~z~既然你不付钱，那你和Niko就得帮我几个小忙。",
+            "desc": ""
+        },
+        {
+            "hash": 319615450,
+            "original": "~z~Where's Roman? Are you a cop? You've got to tell me if you're a cop. That's the law.",
+            "translated": "~z~Roman人呢？你是条子吗？要是你是条子你就得告诉我。这是规矩。",
+            "desc": ""
+        },
+        {
+            "hash": 321853558,
+            "original": "~z~Roman, I guess, and some other things. I'm looking for something.",
+            "translated": "~z~大概是Roman吧，也有别的理由。我在寻找某样东西。",
+            "desc": ""
+        },
+        {
+            "hash": 325089172,
+            "original": "~z~Hey Roman, sorry about this, but your cab got trashed.",
+            "translated": "~z~喂，Roman，很对不起，你的的士坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 346474377,
+            "original": "~z~Roman! Roman boy... you tell me what's going on.",
+            "translated": "~z~Roman！Roman仔...你告诉我这都怎么了。",
+            "desc": ""
+        },
+        {
+            "hash": 366155760,
+            "original": "~z~I got rid of one group of loan sharks but this asshole, Vlad, he has his hooks into him as well.",
+            "translated": "~z~我解决了一批高利贷，但他还是被Vlad那混蛋吃得死死的。",
+            "desc": ""
+        },
+        {
+            "hash": 372144169,
+            "original": "~z~That's just some bullshit that cops circulate to trick people into doing deals with them.",
+            "translated": "~z~条子会四处晃悠骗别人和他们做交易纯粹是在胡扯。",
+            "desc": ""
+        },
+        {
+            "hash": 384491173,
+            "original": "~z~Give him a break. He's new in the country.",
+            "translated": "~z~放过他吧。他还不太适应这个国家。",
+            "desc": ""
+        },
+        {
+            "hash": 397051119,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 408161494,
+            "original": "~z~You shouldn't have said that, Jermaine. I've grounds to arrest you now.",
+            "translated": "~z~你不该说这句话的，Jermaine。我现在有充足的理由逮捕你了。",
+            "desc": ""
+        },
+        {
+            "hash": 424223069,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 462869325,
+            "original": "~z~His name is Niko. He'll be right over.",
+            "translated": "~z~他叫Niko。马上就过来。",
+            "desc": ""
+        },
+        {
+            "hash": 472027396,
+            "original": "R5_ME",
+            "translated": "R5_ME",
+            "desc": ""
+        },
+        {
+            "hash": 491097321,
+            "original": "101",
+            "translated": "101",
+            "desc": ""
+        },
+        {
+            "hash": 508092590,
+            "original": "~z~This thing don't drive itself, get in.",
+            "translated": "~z~车子又不会自己开，上车。",
+            "desc": ""
+        },
+        {
+            "hash": 519786448,
+            "original": "~z~Huh. Good question.",
+            "translated": "~z~哈。好问题。",
+            "desc": ""
+        },
+        {
+            "hash": 557157947,
+            "original": "~z~I'm Niko, Roman's cousin.",
+            "translated": "~z~我是Niko，Roman的堂弟。",
+            "desc": ""
+        },
+        {
+            "hash": 573398644,
+            "original": "~z~Cool, I think we managed to shake them. We just need to lay low for another minute.",
+            "translated": "~z~漂亮，我们好像甩掉他们了。现在只要再低调一会儿就行了。",
+            "desc": ""
+        },
+        {
+            "hash": 576665302,
+            "original": "~z~Roman has had some issues with loan sharks that needed to be resolved.",
+            "translated": "~z~Roman和高利贷之间还有一些纠纷需要解决。",
+            "desc": ""
+        },
+        {
+            "hash": 593802003,
+            "original": "~z~Roman is lucky to have you here, Niko.",
+            "translated": "~z~有你在这里Roman真幸运，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 599160892,
+            "original": "~z~Excellent! Now stop fucking staring at me.",
+            "translated": "~z~真好！别再他妈盯着我看了。",
+            "desc": ""
+        },
+        {
+            "hash": 601056738,
+            "original": "~z~Nice aftershave! What is that? \"Sex Pest\"?",
+            "translated": "~z~润肤水不错！啥牌子的？「性骚扰」？",
+            "desc": ""
+        },
+        {
+            "hash": 626283012,
+            "original": "R5_L",
+            "translated": "R5_L",
+            "desc": ""
+        },
+        {
+            "hash": 631691933,
+            "original": "~z~Ok, ok. I've got to pick up some hot parts from my lockup, you down?",
+            "translated": "~z~行，行。我要去我的车库拿点烫手的零部件，你干吗？",
+            "desc": ""
+        },
+        {
+            "hash": 648794946,
+            "original": "~z~I own a Pay 'n' Spray shop over there on Gibson Street. Take us there.",
+            "translated": "~z~我在Gibson街开了一家喷漆店。",
+            "desc": ""
+        },
+        {
+            "hash": 699360568,
+            "original": "~z~Get me a fucking coffee!",
+            "translated": "~z~给老子泡杯咖啡！",
+            "desc": ""
+        },
+        {
+            "hash": 705190540,
+            "original": "R5_H",
+            "translated": "R5_H",
+            "desc": ""
+        },
+        {
+            "hash": 716272002,
+            "original": "~z~Niko, sorry to ask, cousin... can you go pick up Jermaine, one of my regulars?",
+            "translated": "~z~Niko，很不好意思，堂弟...你能帮我去接我的一个熟客，Jermaine吗？",
+            "desc": ""
+        },
+        {
+            "hash": 726549422,
+            "original": "R5_BJ",
+            "translated": "R5_BJ",
+            "desc": ""
+        },
+        {
+            "hash": 726977752,
+            "original": "R5_ND",
+            "translated": "R5_ND",
+            "desc": ""
+        },
+        {
+            "hash": 779023726,
+            "original": "R5_LA",
+            "translated": "R5_LA",
+            "desc": ""
+        },
+        {
+            "hash": 792973302,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 798682761,
+            "original": "R5_A",
+            "translated": "R5_A",
+            "desc": ""
+        },
+        {
+            "hash": 810536169,
+            "original": "~z~Oh yeah, what's wrong with Roman's life?",
+            "translated": "~z~是吗，Roman的生活有什么问题吗？",
+            "desc": ""
+        },
+        {
+            "hash": 812710651,
+            "original": "~z~Alright, I don't think they know where we are. Don't attract any unnecessary attention.",
+            "translated": "~z~好了，这下他们就找不到我们了。别引起不必要的注意。",
+            "desc": ""
+        },
+        {
+            "hash": 818568854,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 820235961,
+            "original": "~z~Shit. I thought Roman was gonna pick me up. I need someone I can trust for this run.",
+            "translated": "~z~靠，我还以为Roman会来接我。这一趟我得找个信得过的人。",
+            "desc": ""
+        },
+        {
+            "hash": 831914343,
+            "original": "~z~No, it's \"Where Is My Fucking Money\"?",
+            "translated": "~z~不，是「老子的钱呢」？",
+            "desc": ""
+        },
+        {
+            "hash": 847091146,
+            "original": "~z~Yeah.",
+            "translated": "~z~是啊。",
+            "desc": ""
+        },
+        {
+            "hash": 861581957,
+            "original": "~z~Shit, you just shoulda told me that. Jesus. You nearly gave me a heart attack.",
+            "translated": "~z~靠，不早说。天哪。我差点连心脏病都吓出来了。",
+            "desc": ""
+        },
+        {
+            "hash": 865509194,
+            "original": "~z~I ain't going down, man. Get rid of this heat.",
+            "translated": "~z~我不想被抓，兄弟。摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 928189317,
+            "original": "~z~Good.",
+            "translated": "~z~很好。",
+            "desc": ""
+        },
+        {
+            "hash": 929235103,
+            "original": "~z~What?",
+            "translated": "~z~什么？",
+            "desc": ""
+        },
+        {
+            "hash": 978726687,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1035487040,
+            "original": "~z~No, I tried to join the LCPD.",
+            "translated": "~z~不是，我以前想加入LCPD。",
+            "desc": ""
+        },
+        {
+            "hash": 1045384561,
+            "original": "~z~This is real bad, man.",
+            "translated": "~z~这下真糟了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1051899299,
+            "original": "~z~Thanks for coming. Can you take me over to Masterson Street?",
+            "translated": "~z~谢谢你来接我。你能带我去Masterson街吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1065773910,
+            "original": "~z~He appears to owe money to half of Hove Beach.",
+            "translated": "~z~他似乎欠了半个Hove Beach的人钱。",
+            "desc": ""
+        },
+        {
+            "hash": 1083234444,
+            "original": "R5_MD",
+            "translated": "R5_MD",
+            "desc": ""
+        },
+        {
+            "hash": 1138532818,
+            "original": "~z~I don't think they see us. Now, if we can stay outta their sights for a little longer we be all good.",
+            "translated": "~z~他们应该没看见我们。现在再在他们的视野外躲一会儿就行了。",
+            "desc": ""
+        },
+        {
+            "hash": 1149681962,
+            "original": "~z~Lose the cops, man. Lose the fucking cops. Shit.",
+            "translated": "~z~甩掉条子，兄弟。甩了这群狗娘养的条子。操。",
+            "desc": ""
+        },
+        {
+            "hash": 1162057500,
+            "original": "R5_OA",
+            "translated": "R5_OA",
+            "desc": ""
+        },
+        {
+            "hash": 1163197633,
+            "original": "~z~Good luck finding them. How's the hunt been going so far?",
+            "translated": "~z~祝你早日找到。现在找得怎么样了？",
+            "desc": ""
+        },
+        {
+            "hash": 1164690050,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 1175119939,
+            "original": "~z~Ha ha. That's a joke, right? A funny fucking joke.",
+            "translated": "~z~哈哈。是在开玩笑没错吧？真他妈的好笑。",
+            "desc": ""
+        },
+        {
+            "hash": 1182575064,
+            "original": "~z~Sure.",
+            "translated": "~z~好啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1191481685,
+            "original": "~z~Masterson Street it is, Jermaine.",
+            "translated": "~z~Masterson街是吧，Jermaine。",
+            "desc": ""
+        },
+        {
+            "hash": 1230384843,
+            "original": "~z~Yes he can drive. No, he's not a cop.",
+            "translated": "~z~对，他会开车。不是，他不是条子。",
+            "desc": ""
+        },
+        {
+            "hash": 1255835596,
+            "original": "~z~So, what brings you to Liberty City, Niko?",
+            "translated": "~z~你为什么会来自由城呢，Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 1276504318,
+            "original": "~z~Niko, how come you trash my cab but you never trash those tanks you drive back home?",
+            "translated": "~z~Niko，你怎么只会弄坏我的车？你开回家的那些坦克怎么就没见你弄坏过？",
+            "desc": ""
+        },
+        {
+            "hash": 1281262854,
+            "original": "~z~No, I didn't. Just like every other chump who gets off a boat here, I thought things might be more exciting.",
+            "translated": "~z~不是的。和别的在这儿下船的傻瓜一样，我以为这里的生活会更刺激。",
+            "desc": ""
+        },
+        {
+            "hash": 1307933874,
+            "original": "R5_RC",
+            "translated": "R5_RC",
+            "desc": ""
+        },
+        {
+            "hash": 1329254212,
+            "original": "~z~Aah, hey, Mallorie. Hey man!",
+            "translated": "~z~啊，嘿，Mallorie。嘿，老弟！",
+            "desc": ""
+        },
+        {
+            "hash": 1342598108,
+            "original": "~z~Yeah...",
+            "translated": "~z~嗯...",
+            "desc": ""
+        },
+        {
+            "hash": 1379090569,
+            "original": "~z~Coffee? What was he thinking?",
+            "translated": "~z~咖啡？他在想什么呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1403741014,
+            "original": "R5_SA",
+            "translated": "R5_SA",
+            "desc": ""
+        },
+        {
+            "hash": 1426607652,
+            "original": "~z~Hey man, I thought you were driving me?",
+            "translated": "~z~喂，兄弟，你是来替我开车的吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1456301495,
+            "original": "~z~I'm spinning out, man. Get these cops off our tails.",
+            "translated": "~z~我要晕车了，兄弟。快把这些条子甩了。",
+            "desc": ""
+        },
+        {
+            "hash": 1467922928,
+            "original": "~z~Shit, Niko. He was one of my only regulars. This ain't good at all, man. Later on.",
+            "translated": "~z~操，Niko。他是我为数不多的常客。这可太糟糕了，老弟。回见。",
+            "desc": ""
+        },
+        {
+            "hash": 1482768949,
+            "original": "R5_C",
+            "translated": "R5_C",
+            "desc": ""
+        },
+        {
+            "hash": 1510613085,
+            "original": "~z~This is just the beginning. It seems I need to sort out my cousin's life before I can work on my own.",
+            "translated": "~z~现在只是前奏。我要先解决我堂兄的生活问题，然后才能开始为自己的生活奋斗。",
+            "desc": ""
+        },
+        {
+            "hash": 1518268484,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 1543088801,
+            "original": "R5_NC",
+            "translated": "R5_NC",
+            "desc": ""
+        },
+        {
+            "hash": 1575251095,
+            "original": "~z~I mean, I know I'm good looking and everything, but come on.",
+            "translated": "~z~我也知道我长得很帅，别盯着我看了。",
+            "desc": ""
+        },
+        {
+            "hash": 1631668264,
+            "original": "R5_PA",
+            "translated": "R5_PA",
+            "desc": ""
+        },
+        {
+            "hash": 1672851796,
+            "original": "R5_BD",
+            "translated": "R5_BD",
+            "desc": ""
+        },
+        {
+            "hash": 1674785487,
+            "original": "~z~We're trapped! Smash through that fence, man.",
+            "translated": "~z~我们被困住了！冲破那片围栏，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1698163404,
+            "original": "R5_QB",
+            "translated": "R5_QB",
+            "desc": ""
+        },
+        {
+            "hash": 1700740696,
+            "original": "~z~Keep looking after Roman, a'ight.",
+            "translated": "~z~好好照顾Roman，好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1763962662,
+            "original": "~z~Why not?",
+            "translated": "~z~何不呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1796521646,
+            "original": "R5_BE",
+            "translated": "R5_BE",
+            "desc": ""
+        },
+        {
+            "hash": 1815268351,
+            "original": "~z~Okay, we're here. Thanks, man.",
+            "translated": "~z~好了，我们到了。谢了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1866749442,
+            "original": "R5_NG",
+            "translated": "R5_NG",
+            "desc": ""
+        },
+        {
+            "hash": 1908253292,
+            "original": "~z~They're gone. Thank you.",
+            "translated": "~z~他们走了。谢谢你。",
+            "desc": ""
+        },
+        {
+            "hash": 1924644649,
+            "original": "R5_MB",
+            "translated": "R5_MB",
+            "desc": ""
+        },
+        {
+            "hash": 1926124005,
+            "original": "~z~Did you come to Liberty City to drive cabs then?",
+            "translated": "~z~你来自由城就是来开出租的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1931034215,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1953826592,
+            "original": "~z~Good.",
+            "translated": "~z~很好。",
+            "desc": ""
+        },
+        {
+            "hash": 1993583780,
+            "original": "~z~Great, we've lost them.",
+            "translated": "~z~很好，我们甩掉他们了。",
+            "desc": ""
+        },
+        {
+            "hash": 2029965456,
+            "original": "R5_RA",
+            "translated": "R5_RA",
+            "desc": ""
+        },
+        {
+            "hash": 2034705232,
+            "original": "~z~Hey.",
+            "translated": "~z~嘿。",
+            "desc": ""
+        },
+        {
+            "hash": 2037080007,
+            "original": "~z~I'm Roman's cousin. If you can trust him, you can trust me.",
+            "translated": "~z~我是Roman的堂弟。要是你信得过他，就可以信得过我。",
+            "desc": ""
+        },
+        {
+            "hash": 2106571072,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2106995528,
+            "original": "~z~Shit man, you gotta lose these cops.",
+            "translated": "~z~操，兄弟，你得把这些条子甩了。",
+            "desc": ""
+        },
+        {
+            "hash": 2155126027,
+            "original": "~z~Niko came in looking for you and Vlad told him to get him a fucking coffee and Niko didn't want to.",
+            "translated": "~z~Niko过来找你，然后Vlad让他去泡杯咖啡，Niko不去。",
+            "desc": ""
+        },
+        {
+            "hash": 2190084674,
+            "original": "R5_F",
+            "translated": "R5_F",
+            "desc": ""
+        },
+        {
+            "hash": 2213889755,
+            "original": "~z~That's a weight off my mind.",
+            "translated": "~z~这下我就放心了。",
+            "desc": ""
+        },
+        {
+            "hash": 2216355170,
+            "original": "R5_BB",
+            "translated": "R5_BB",
+            "desc": ""
+        },
+        {
+            "hash": 2228911261,
+            "original": "R5_BK",
+            "translated": "R5_BK",
+            "desc": ""
+        },
+        {
+            "hash": 2232669686,
+            "original": "~z~I wouldn't want no cop driving me to pick up a load of hot parts.",
+            "translated": "~z~我可不想让条子开车带我去拿一堆烫手的零部件。",
+            "desc": ""
+        },
+        {
+            "hash": 2239812772,
+            "original": "R5_DA",
+            "translated": "R5_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2266567168,
+            "original": "R5_G",
+            "translated": "R5_G",
+            "desc": ""
+        },
+        {
+            "hash": 2268920682,
+            "original": "~z~Ahh, he told me about you. You're Niko, right?",
+            "translated": "~z~啊，他有跟我讲过你。你就是Niko对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2328470963,
+            "original": "R5_OB",
+            "translated": "R5_OB",
+            "desc": ""
+        },
+        {
+            "hash": 2347566286,
+            "original": "~z~The hotshot lady's man, cruising around the Mediterranean, breaking hearts and making millions?",
+            "translated": "~z~就是征服了抢手辣妹，在地中海上巡游，伤尽无数人的心，分分钟百万上下的那个？",
+            "desc": ""
+        },
+        {
+            "hash": 2347762904,
+            "original": "~z~That's exactly the kind of bullshit I can imagine Roman making up. You've got to give him credit for his imagination.",
+            "translated": "~z~完全就是我想象中Roman会说的胡话。他的想象力真的是一流水准。",
+            "desc": ""
+        },
+        {
+            "hash": 2360269643,
+            "original": "R5_MA",
+            "translated": "R5_MA",
+            "desc": ""
+        },
+        {
+            "hash": 2437297314,
+            "original": "R5_B",
+            "translated": "R5_B",
+            "desc": ""
+        },
+        {
+            "hash": 2576850979,
+            "original": "~z~Yeah, I traded in the yacht for this cab.",
+            "translated": "~z~对，我拿游艇换了这辆出租。",
+            "desc": ""
+        },
+        {
+            "hash": 2589893045,
+            "original": "~z~Yeah, you gotta. I had a feeling you sounded too good to be true.",
+            "translated": "~z~确实，是这样的。我本来觉得你这人成功得有点假。",
+            "desc": ""
+        },
+        {
+            "hash": 2628756879,
+            "original": "R5_BF",
+            "translated": "R5_BF",
+            "desc": ""
+        },
+        {
+            "hash": 2633329071,
+            "original": "R5_VA",
+            "translated": "R5_VA",
+            "desc": ""
+        },
+        {
+            "hash": 2648135632,
+            "original": "~z~Whatever.",
+            "translated": "~z~随便你。",
+            "desc": ""
+        },
+        {
+            "hash": 2665716792,
+            "original": "R5_MF",
+            "translated": "R5_MF",
+            "desc": ""
+        },
+        {
+            "hash": 2702834255,
+            "original": "~z~Help man, you gotta shake these cops.",
+            "translated": "~z~拜托了兄弟，你一定要甩了这些条子。",
+            "desc": ""
+        },
+        {
+            "hash": 2747743710,
+            "original": "R5_BI",
+            "translated": "R5_BI",
+            "desc": ""
+        },
+        {
+            "hash": 2797610068,
+            "original": "~z~Roman, I got your friend, Jermaine, where he wanted to go.",
+            "translated": "~z~Roman，你的朋友Jermaine我已经送到了。",
+            "desc": ""
+        },
+        {
+            "hash": 2841758758,
+            "original": "R5_FA",
+            "translated": "R5_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2849213756,
+            "original": "101101",
+            "translated": "101101",
+            "desc": ""
+        },
+        {
+            "hash": 2879370083,
+            "original": "~z~You should let your cousin stick to the jokes. Making funny don't suit you.",
+            "translated": "~z~开玩笑这事还是得让你堂兄来，你不适合搞笑。",
+            "desc": ""
+        },
+        {
+            "hash": 2890483722,
+            "original": "R5_BC",
+            "translated": "R5_BC",
+            "desc": ""
+        },
+        {
+            "hash": 2921022993,
+            "original": "R5_EA",
+            "translated": "R5_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2945809228,
+            "original": "~z~What was this all about?",
+            "translated": "~z~刚才到底是怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 2954218787,
+            "original": "~z~The question is, are you willing to get your hands dirty?",
+            "translated": "~z~问题在于，你愿不愿意脏了自己的手？",
+            "desc": ""
+        },
+        {
+            "hash": 2972958271,
+            "original": "R5_BA",
+            "translated": "R5_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2974094167,
+            "original": "~z~Come on... I'll get you one.",
+            "translated": "~z~算了...还是我给你泡吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2975199233,
+            "original": "R5_TB",
+            "translated": "R5_TB",
+            "desc": ""
+        },
+        {
+            "hash": 2984687633,
+            "original": "R5_UA",
+            "translated": "R5_UA",
+            "desc": ""
+        },
+        {
+            "hash": 3018069375,
+            "original": "100010010100010010100",
+            "translated": "100010010100010010100",
+            "desc": ""
+        },
+        {
+            "hash": 3027270098,
+            "original": "R5_TA",
+            "translated": "R5_TA",
+            "desc": ""
+        },
+        {
+            "hash": 3102099616,
+            "original": "~z~Good Niko, thanks, thanks... can't talk, see you soon.",
+            "translated": "~z~很好，Niko，谢了，谢了...说不来话，回头见。",
+            "desc": ""
+        },
+        {
+            "hash": 3149465933,
+            "original": "~z~Come on, hottie, forget about the fat serf.",
+            "translated": "~z~好了，辣妹，忘了那个肥佬农奴吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3202292527,
+            "original": "~z~Is that so? I'll tell you what...",
+            "translated": "~z~是那样吗？那好办了...",
+            "desc": ""
+        },
+        {
+            "hash": 3234557582,
+            "original": "~z~My hands haven't been clean for a long time. Being here in Liberty City is just making them dirtier.",
+            "translated": "~z~我的手已经脏了很久了。在自由城也只会把手弄得更脏。",
+            "desc": ""
+        },
+        {
+            "hash": 3247956540,
+            "original": "R5_MG",
+            "translated": "R5_MG",
+            "desc": ""
+        },
+        {
+            "hash": 3270220352,
+            "original": "R5_D",
+            "translated": "R5_D",
+            "desc": ""
+        },
+        {
+            "hash": 3315738461,
+            "original": "~z~Hey? Yeah... okay... no, I can't do it; my cousin will do it.",
+            "translated": "~z~喂？对...好的...不行，我来不了，得让我堂弟来。",
+            "desc": ""
+        },
+        {
+            "hash": 3341395239,
+            "original": "R5_JA",
+            "translated": "R5_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3383211932,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3404921933,
+            "original": "R5_BL",
+            "translated": "R5_BL",
+            "desc": ""
+        },
+        {
+            "hash": 3421205103,
+            "original": "R5_MC",
+            "translated": "R5_MC",
+            "desc": ""
+        },
+        {
+            "hash": 3428033432,
+            "original": "~z~Roman, man, I got some bad news. Your client, Jermaine, he got hurt.",
+            "translated": "~z~Roman，老哥，我有个坏消息。你的客户，Jermaine他受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 3440479288,
+            "original": "~z~There's this asshole called Vlad who he owes money to as well...",
+            "translated": "~z~还有一个叫Vlad的混蛋，也是他的债主...",
+            "desc": ""
+        },
+        {
+            "hash": 3489349163,
+            "original": "~z~I had it, I had some of it...",
+            "translated": "~z~本来有的，有一部分...",
+            "desc": ""
+        },
+        {
+            "hash": 3507870382,
+            "original": "~z~That door isn't meant to be open. Wait here while I take a look.",
+            "translated": "~z~门不该是开着的。我进去看看，你在这等着。",
+            "desc": ""
+        },
+        {
+            "hash": 3594206805,
+            "original": "~z~But he's a serf, and you're a countess. Talking about serfs...",
+            "translated": "~z~但他只是个农奴，而你却是个女伯爵。说农奴农奴到...",
+            "desc": ""
+        },
+        {
+            "hash": 3604957663,
+            "original": "~z~I know.",
+            "translated": "~z~我咋知道。",
+            "desc": ""
+        },
+        {
+            "hash": 3625775750,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3649780094,
+            "original": "R5_PB",
+            "translated": "R5_PB",
+            "desc": ""
+        },
+        {
+            "hash": 3658469624,
+            "original": "~z~Later, Vlad.",
+            "translated": "~z~回见，Vlad。",
+            "desc": ""
+        },
+        {
+            "hash": 3672363832,
+            "original": "~z~Anyway, Niko dealt with them... broke Dardan's arm, then beat up a couple more.",
+            "translated": "~z~总之呢，Niko解决了他们...打断了Dardan的胳膊，又打倒了几个人。",
+            "desc": ""
+        },
+        {
+            "hash": 3695344625,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 3704547946,
+            "original": "~z~Gorgeous, this guy's a fucking creep!",
+            "translated": "~z~好极了，这人是个死变态！",
+            "desc": ""
+        },
+        {
+            "hash": 3728005790,
+            "original": "~z~then those Albanians you said you would deal with came and smashed my computer.",
+            "translated": "~z~然后你说你会解决的那群阿尔巴尼亚人就冲进来砸了我的电脑。",
+            "desc": ""
+        },
+        {
+            "hash": 3753582021,
+            "original": "R5_CA",
+            "translated": "R5_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3767605492,
+            "original": "R5_QA",
+            "translated": "R5_QA",
+            "desc": ""
+        },
+        {
+            "hash": 3767653420,
+            "original": "R5_E",
+            "translated": "R5_E",
+            "desc": ""
+        },
+        {
+            "hash": 3826057143,
+            "original": "R5_K",
+            "translated": "R5_K",
+            "desc": ""
+        },
+        {
+            "hash": 3830438526,
+            "original": "~z~Vlad! Shut up!",
+            "translated": "~z~Vlad！闭嘴！",
+            "desc": ""
+        },
+        {
+            "hash": 3839825279,
+            "original": "~z~Actually, I don't think I would have to tell you if I was a cop.",
+            "translated": "~z~实际上，如果我是个警察，我是不会告诉你的。",
+            "desc": ""
+        },
+        {
+            "hash": 3851217262,
+            "original": "~z~Huh. About time.",
+            "translated": "~z~哈。真是时候。",
+            "desc": ""
+        },
+        {
+            "hash": 3879453187,
+            "original": "R5_NB",
+            "translated": "R5_NB",
+            "desc": ""
+        },
+        {
+            "hash": 3899740497,
+            "original": "R5_GA",
+            "translated": "R5_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3915727489,
+            "original": "R5_KA",
+            "translated": "R5_KA",
+            "desc": ""
+        },
+        {
+            "hash": 3934405757,
+            "original": "100010100010010010100",
+            "translated": "100010100010010010100",
+            "desc": ""
+        },
+        {
+            "hash": 3952478204,
+            "original": "~z~What? You keep staring at me, I'll burst one of your eyeballs.",
+            "translated": "~z~咋了？再盯着我看，我就戳瞎你一只眼。",
+            "desc": ""
+        },
+        {
+            "hash": 3955172171,
+            "original": "~z~So, you're not a cop?",
+            "translated": "~z~那你不是条子咯？",
+            "desc": ""
+        },
+        {
+            "hash": 3967547180,
+            "original": "~z~So it's my fault?",
+            "translated": "~z~那怪我咯？",
+            "desc": ""
+        },
+        {
+            "hash": 3991811861,
+            "original": "R5_RB",
+            "translated": "R5_RB",
+            "desc": ""
+        },
+        {
+            "hash": 4036099732,
+            "original": "~z~Then we teach them a real lesson.",
+            "translated": "~z~狠狠地教训了他们一顿。",
+            "desc": ""
+        },
+        {
+            "hash": 4051109643,
+            "original": "~z~What're you doing? Get back in the car.",
+            "translated": "~z~你在干嘛？赶紧给我上车。",
+            "desc": ""
+        },
+        {
+            "hash": 4058273245,
+            "original": "~z~It has not really started yet. I'm getting settled in, you know?",
+            "translated": "~z~其实还没有开始找。我还在适应环境来着。",
+            "desc": ""
+        },
+        {
+            "hash": 4070922778,
+            "original": "R5_NE",
+            "translated": "R5_NE",
+            "desc": ""
+        },
+        {
+            "hash": 4075288494,
+            "original": "~z~Where's Roman?",
+            "translated": "~z~Roman人呢？",
+            "desc": ""
+        },
+        {
+            "hash": 4102816681,
+            "original": "100010010110010100010100100010100100",
+            "translated": "100010010110010100010100100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 4116879142,
+            "original": "R5_I",
+            "translated": "R5_I",
+            "desc": ""
+        },
+        {
+            "hash": 4121383097,
+            "original": "~z~You really got to get some practice driving on the right side of the road. Roman shouldn't have let you out of his cab.",
+            "translated": "~z~你真的该回去好好学学怎么开车了。Roman不该让你把他的车开出来的。",
+            "desc": ""
+        },
+        {
+            "hash": 4128120118,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4146324982,
+            "original": "R5_BH",
+            "translated": "R5_BH",
+            "desc": ""
+        },
+        {
+            "hash": 4160774652,
+            "original": "R5_NA",
+            "translated": "R5_NA",
+            "desc": ""
+        },
+        {
+            "hash": 4164591941,
+            "original": "~z~I can see that. Did you walk here from nineteen eighty five?",
+            "translated": "~z~看得出来。你是从1985年来的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4168351800,
+            "original": "~z~My conscience is troubled enough already.",
+            "translated": "~z~我的良心已经受够了。",
+            "desc": ""
+        },
+        {
+            "hash": 4203647833,
+            "original": "~z~I didn't say that...",
+            "translated": "~z~我不是那个意思...",
+            "desc": ""
+        },
+        {
+            "hash": 4270430707,
+            "original": "~z~The phone's ringing.",
+            "translated": "~z~电话响了。",
+            "desc": ""
+        },
+        {
+            "hash": 4281014902,
+            "original": "~z~He's over on Rotterdam Hill on Mohawk Avenue.",
+            "translated": "~z~他在Mohawk大道的Rotterdam Hill。",
+            "desc": ""
+        },
+        {
+            "hash": 4292080060,
+            "original": "~z~Good luck with that...",
+            "translated": "~z~祝你们好运...",
+            "desc": ""
+        }
+    ]
+}

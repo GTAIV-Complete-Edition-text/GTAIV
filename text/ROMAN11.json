@@ -1,0 +1,70 @@
+{
+    "ROMAN11": [
+        {
+            "hash": 53122014,
+            "original": "You left ~b~Roman~s~ behind.",
+            "translated": "你把~b~Roman~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 351614835,
+            "original": "Sound the horn.",
+            "translated": "鸣笛。",
+            "desc": ""
+        },
+        {
+            "hash": 648960741,
+            "original": "Get a car.",
+            "translated": "弄一辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 939523464,
+            "original": "~r~Roman is dead.",
+            "translated": "~r~Roman死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1094094809,
+            "original": "Go to Roman's ~y~apartment.",
+            "translated": "前往Roman的~y~公寓。",
+            "desc": ""
+        },
+        {
+            "hash": 1298933828,
+            "original": "Go to ~y~Roman.",
+            "translated": "去找~y~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 1548436994,
+            "original": "Go to ~y~Bohan.",
+            "translated": "前往~y~Bohan。",
+            "desc": ""
+        },
+        {
+            "hash": 1789518527,
+            "original": "Go to the ~y~depot.",
+            "translated": "前往~y~车行。",
+            "desc": ""
+        },
+        {
+            "hash": 2641900117,
+            "original": "Press ~INPUT_VEH_HORN~ to sound the horn.",
+            "translated": "按~INPUT_VEH_HORN~鸣笛。",
+            "desc": ""
+        },
+        {
+            "hash": 3117351208,
+            "original": "~r~Mallorie is dead.",
+            "translated": "~r~Mallorie死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3416106181,
+            "original": "Wait for ~b~Roman.",
+            "translated": "等待~b~Roman。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "BYDSH": [
+        {
+            "hash": 11378399,
+            "original": "Find a cop car.",
+            "translated": "找辆警车。",
+            "desc": ""
+        },
+        {
+            "hash": 532961692,
+            "original": "You have lost Bucky.",
+            "translated": "你跟丢了Bucky。",
+            "desc": ""
+        },
+        {
+            "hash": 593879567,
+            "original": "Better back off, don't spook Bucky.",
+            "translated": "最好不要太靠近Bucky，不要引起他的注意。",
+            "desc": ""
+        },
+        {
+            "hash": 613901698,
+            "original": "~R~You failed to find Bucky's crew.~s~",
+            "translated": "~R~你没能找到Bucky的同伙。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 940608932,
+            "original": "Use the police computer to find Bucky's hangout.",
+            "translated": "使用警用电脑找到Bucky的所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 985043240,
+            "original": "Find a cop car to access the police database.",
+            "translated": "找一辆警车以访问警察数据库。",
+            "desc": ""
+        },
+        {
+            "hash": 1115529854,
+            "original": "Find a car before Bucky leaves.",
+            "translated": "在Bucky离开之前找辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 1348975754,
+            "original": "Drive to ~y~Burger Shot~s~ where Bucky hangs out.",
+            "translated": "驾车前往Bucky所在的~y~汉堡店。",
+            "desc": ""
+        },
+        {
+            "hash": 1393607708,
+            "original": "Shoot the ~g~locks~s~ to open the doors.",
+            "translated": "射击~g~锁~s~以打开门。",
+            "desc": ""
+        },
+        {
+            "hash": 1461275117,
+            "original": "Search for BUCKY SLIGO.",
+            "translated": "查找BUCKY SLIGO。",
+            "desc": ""
+        },
+        {
+            "hash": 1537955033,
+            "original": "Don't lose ~r~Bucky,~s~ stick with him.",
+            "translated": "别跟丢~r~Bucky~s~，跟紧他。",
+            "desc": ""
+        },
+        {
+            "hash": 1639407281,
+            "original": "Follow ~r~Bucky~s~ to his crew.",
+            "translated": "跟随~r~Bucky~s~找到他的同伙。",
+            "desc": ""
+        },
+        {
+            "hash": 1682531981,
+            "original": "You have found Bucky's crew, take down the ~r~whole gang.~s~",
+            "translated": "你找到了Bucky和他的同伙，干掉~r~所有人。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1827370385,
+            "original": "Search the police records by name.",
+            "translated": "按姓名搜索警方记录。",
+            "desc": ""
+        },
+        {
+            "hash": 2133170265,
+            "original": "~r~Bucky~s~ has headed into the restaurant, follow him.",
+            "translated": "~r~Bucky~s~进入了餐馆，跟着他。",
+            "desc": ""
+        },
+        {
+            "hash": 2249924745,
+            "original": "~R~Bucky died before he got to his crew.~s~",
+            "translated": "~R~Bucky还没到他同伙那边就死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2294820746,
+            "original": "Tail the ~r~Bucky~s~ to his crew.",
+            "translated": "尾随~r~Bucky~s~找到他的同伙。",
+            "desc": ""
+        },
+        {
+            "hash": 2876044499,
+            "original": "~r~Bucky~s~ has pulled up, pull over and wait for his move.",
+            "translated": "~r~Bucky~s~停车了。停车，静观其变。",
+            "desc": ""
+        },
+        {
+            "hash": 2975890638,
+            "original": "Follow ~r~Bucky~s~ to his crew.",
+            "translated": "跟随~r~Bucky~s~找到他的同伙。",
+            "desc": ""
+        },
+        {
+            "hash": 3155498103,
+            "original": "Lose your wanted level.",
+            "translated": "摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 3512680203,
+            "original": "You need a cop car to scare Bucky.",
+            "translated": "你需要一辆警车恐吓Bucky。",
+            "desc": ""
+        },
+        {
+            "hash": 3513662697,
+            "original": "You have spooked Bucky, he has bailed on the meeting.",
+            "translated": "你惊动了Bucky，他取消了见面。",
+            "desc": ""
+        },
+        {
+            "hash": 3639888885,
+            "original": "Tail ~r~Bucky~s~ to his crew.",
+            "translated": "尾随~r~Bucky~s~找到他的同伙。",
+            "desc": ""
+        },
+        {
+            "hash": 3870713721,
+            "original": "Fire a couple of shots to spook ~r~Bucky~s~ or wait for ~r~Bucky~s~ to move.",
+            "translated": "开几枪惊动~r~Bucky~s~或等待~r~Bucky~s~的下一步行动。",
+            "desc": ""
+        },
+        {
+            "hash": 4218654971,
+            "original": "Get closer to Bucky, don't lose him.",
+            "translated": "跟紧Bucky，别让他逃了。",
+            "desc": ""
+        }
+    ]
+}

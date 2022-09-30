@@ -1,0 +1,64 @@
+{
+    "GAMB2": [
+        {
+            "hash": 180803613,
+            "original": "~s~Target the Manager to get him to talk.",
+            "translated": "~s~瞄准经理让他开口。",
+            "desc": ""
+        },
+        {
+            "hash": 207707306,
+            "original": "~s~Go inside the ~y~restaurant.",
+            "translated": "~s~进入~y~饭店。",
+            "desc": ""
+        },
+        {
+            "hash": 492568223,
+            "original": "~s~Don't let ~r~Kim ~s~escape.",
+            "translated": "~s~别让~r~Kim~s~跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 2283623476,
+            "original": "~s~Look for Kim in the ~b~Manager's~s~ office.",
+            "translated": "~s~进入~b~经理办公室~s~寻找Kim。",
+            "desc": ""
+        },
+        {
+            "hash": 2594076982,
+            "original": "~s~Go to the ~y~kitchen.",
+            "translated": "~s~前往~y~厨房。",
+            "desc": ""
+        },
+        {
+            "hash": 2670132815,
+            "original": "~r~Kim got away.",
+            "translated": "~r~Kim逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 3284486667,
+            "original": "~s~Question the ~b~manager~s~ to find Kim.",
+            "translated": "~s~从~b~经理~s~口中问出Kim的下落。",
+            "desc": ""
+        },
+        {
+            "hash": 3840314461,
+            "original": "~s~You attacked the manager before he could talk. Check the ~y~Kitchen.",
+            "translated": "~s~你在经理开口前就攻击了他。检查~y~厨房。",
+            "desc": ""
+        },
+        {
+            "hash": 4026770415,
+            "original": "~s~Head over to the ~y~restaurant.",
+            "translated": "~s~前往~y~饭店。",
+            "desc": ""
+        },
+        {
+            "hash": 4133957470,
+            "original": "~r~Kim~s~ is fleeing in a car. Chase him down and take him out.",
+            "translated": "~r~Kim~s~正在开车逃跑。追上去干掉他。",
+            "desc": ""
+        }
+    ]
+}

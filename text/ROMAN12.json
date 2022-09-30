@@ -1,0 +1,94 @@
+{
+    "ROMAN12": [
+        {
+            "hash": 38307789,
+            "original": "~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.",
+            "translated": "~s~瞄准时用~PAD_RSTICK_NONE~切换缩放倍率。",
+            "desc": ""
+        },
+        {
+            "hash": 163387324,
+            "original": "~s~Go to the ~y~warehouse~s~ where Roman is being held.",
+            "translated": "~s~前往Roman所在的~y~仓库。",
+            "desc": ""
+        },
+        {
+            "hash": 279097887,
+            "original": "~r~Roman has been executed.",
+            "translated": "~r~Roman被撕票了。",
+            "desc": ""
+        },
+        {
+            "hash": 385086203,
+            "original": "~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ when aiming to switch between differing levels of zoom.",
+            "translated": "~s~瞄准时用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~切换缩放倍率。",
+            "desc": ""
+        },
+        {
+            "hash": 405773759,
+            "original": "~s~Hold ~INPUT_ATTACK~ halfway before firing to increase accuracy.",
+            "translated": "~s~开火前半按~INPUT_ATTACK~以提高精度。",
+            "desc": ""
+        },
+        {
+            "hash": 891621391,
+            "original": "~s~Aim carefully to take out the kidnapper and free Roman.",
+            "translated": "~s~仔细瞄准，击倒绑匪，解救Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 1543849124,
+            "original": "~r~Roman has been abandoned.",
+            "translated": "~r~Roman被抛弃了。",
+            "desc": ""
+        },
+        {
+            "hash": 1582874564,
+            "original": "~s~Use higher levels of zoom to increase accuracy.",
+            "translated": "~s~使用更高的缩放倍率增加精度。",
+            "desc": ""
+        },
+        {
+            "hash": 1807016606,
+            "original": "~s~Use Free-Aim to take out the kidnapper and free Roman.",
+            "translated": "~s~使用自由瞄准击倒绑匪，解救Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 1970200150,
+            "original": "~s~Follow ~b~Roman.",
+            "translated": "~s~跟随~b~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 2148665832,
+            "original": "~s~Wait for ~b~Roman~s~",
+            "translated": "~s~等待~b~Roman~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2376672534,
+            "original": "~s~You left ~b~Roman~s~ behind.",
+            "translated": "~s~你把~b~Roman~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 2516594816,
+            "original": "~b~Roman~s~ is on the top floor. Rescue him.",
+            "translated": "~b~Roman~s~在顶楼，去救他。",
+            "desc": ""
+        },
+        {
+            "hash": 4002416429,
+            "original": "~r~Roman is dead.",
+            "translated": "~r~Roman死了。",
+            "desc": ""
+        },
+        {
+            "hash": 4035603447,
+            "original": "~s~Take Roman back to the ~y~Bohan safehouse.",
+            "translated": "~s~送Roman回~y~Bohan安全屋。",
+            "desc": ""
+        }
+    ]
+}

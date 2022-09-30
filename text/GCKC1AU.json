@@ -1,0 +1,1366 @@
+{
+    "GCKC1AU": [
+        {
+            "hash": 45335006,
+            "original": "GCK2_NICE_AC",
+            "translated": "GCK2_NICE_AC",
+            "desc": ""
+        },
+        {
+            "hash": 60575299,
+            "original": "GCK2_NICE_AI",
+            "translated": "GCK2_NICE_AI",
+            "desc": ""
+        },
+        {
+            "hash": 62676569,
+            "original": "GCK2_TOUGH_BK",
+            "translated": "GCK2_TOUGH_BK",
+            "desc": ""
+        },
+        {
+            "hash": 104098573,
+            "original": "GCK2_TOUGH_BM",
+            "translated": "GCK2_TOUGH_BM",
+            "desc": ""
+        },
+        {
+            "hash": 124912828,
+            "original": "GCK2_FAMILY_EF",
+            "translated": "GCK2_FAMILY_EF",
+            "desc": ""
+        },
+        {
+            "hash": 153028596,
+            "original": "GCK2_NICE_AB",
+            "translated": "GCK2_NICE_AB",
+            "desc": ""
+        },
+        {
+            "hash": 168002691,
+            "original": "GCK2_NICE_AL",
+            "translated": "GCK2_NICE_AL",
+            "desc": ""
+        },
+        {
+            "hash": 175677863,
+            "original": "~z~I too have things I wish to forget. The things that happened to me back home, the war...",
+            "translated": "~z~我也有想要忘却的事情。那些在我故乡发生的事情，战争...",
+            "desc": ""
+        },
+        {
+            "hash": 177965165,
+            "original": "~z~Lord above - you don't even enjoy it? Then why do it?",
+            "translated": "~z~上帝啊，你自己都不高兴？那还做这种事干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 178949571,
+            "original": "~z~Ha ha - I know all about that.",
+            "translated": "~z~哈哈，完全可以理解。",
+            "desc": ""
+        },
+        {
+            "hash": 209640086,
+            "original": "~z~I do not need some quack trying to get inside my head.",
+            "translated": "~z~我可不需要什么想诊断我的脑子的庸医。",
+            "desc": ""
+        },
+        {
+            "hash": 224721065,
+            "original": "~z~My dad was a drinker and he sure had a temper, but I believe in my heart of hearts that he was a good man.",
+            "translated": "~z~我父亲是个酒鬼，脾气也不好，但我发自真心地相信他是个好人。",
+            "desc": ""
+        },
+        {
+            "hash": 225705619,
+            "original": "~z~I don't know... getting out, doing stuff, not working or fighting with my family. Getting to know you.",
+            "translated": "~z~不知道...出门玩，做各种事，不为我的家人工作或者干架。逐渐了解你。",
+            "desc": ""
+        },
+        {
+            "hash": 227611318,
+            "original": "~z~How annoying. What is wrong with you people? You men.",
+            "translated": "~z~真奇怪，你们这些人都有什么毛病？这些男人。",
+            "desc": ""
+        },
+        {
+            "hash": 231224366,
+            "original": "GCK2_PREACH_DP",
+            "translated": "GCK2_PREACH_DP",
+            "desc": ""
+        },
+        {
+            "hash": 237738352,
+            "original": "~z~You have had opportunities that most of the world could not imagine.",
+            "translated": "~z~你已经拥有世界上很多地方连想都不敢想的机会了。",
+            "desc": ""
+        },
+        {
+            "hash": 245563637,
+            "original": "~z~What's nice?",
+            "translated": "~z~什么挺好？",
+            "desc": ""
+        },
+        {
+            "hash": 268752865,
+            "original": "~z~Well, for a murdering, thieving idiot who can't talk about things, you're kind of nice.",
+            "translated": "~z~算了，比起那种偷窃杀人还不会讲话的白痴，你已经算是好的了。",
+            "desc": ""
+        },
+        {
+            "hash": 308249242,
+            "original": "~z~What was different about you and him?",
+            "translated": "~z~那你和他的关系又有什么不同？",
+            "desc": ""
+        },
+        {
+            "hash": 311198448,
+            "original": "GCK2_STUPID_FM",
+            "translated": "GCK2_STUPID_FM",
+            "desc": ""
+        },
+        {
+            "hash": 357173603,
+            "original": "GCK2_STUPID_FN",
+            "translated": "GCK2_STUPID_FN",
+            "desc": ""
+        },
+        {
+            "hash": 404286840,
+            "original": "GCK2_NICE_AD",
+            "translated": "GCK2_NICE_AD",
+            "desc": ""
+        },
+        {
+            "hash": 411773316,
+            "original": "~z~Thank you. How are you?",
+            "translated": "~z~谢谢。你怎么样？",
+            "desc": ""
+        },
+        {
+            "hash": 424797028,
+            "original": "GCK2_FAMILY_em",
+            "translated": "GCK2_FAMILY_em",
+            "desc": ""
+        },
+        {
+            "hash": 425043425,
+            "original": "~z~Not really.",
+            "translated": "~z~这倒未必。",
+            "desc": ""
+        },
+        {
+            "hash": 427140941,
+            "original": "~z~Me too.",
+            "translated": "~z~我也是。",
+            "desc": ""
+        },
+        {
+            "hash": 440104302,
+            "original": "GCK2_TOUGH_BH",
+            "translated": "GCK2_TOUGH_BH",
+            "desc": ""
+        },
+        {
+            "hash": 493059167,
+            "original": "~z~I just hope that the way you choose to deal with yours is productive, not destructive.",
+            "translated": "~z~我只是希望你的处理方式是建设性的，而不是毁灭性的。",
+            "desc": ""
+        },
+        {
+            "hash": 496496132,
+            "original": "GCK2_THERAPY_GF",
+            "translated": "GCK2_THERAPY_GF",
+            "desc": ""
+        },
+        {
+            "hash": 538276288,
+            "original": "GCK2_PREACH_DC",
+            "translated": "GCK2_PREACH_DC",
+            "desc": ""
+        },
+        {
+            "hash": 541867441,
+            "original": "~z~It's nice to have a friend who understands the madness that I've lived through.",
+            "translated": "~z~有一个对我疯狂的生活知根知底的朋友真好。",
+            "desc": ""
+        },
+        {
+            "hash": 544648685,
+            "original": "GCK2_NICE_AM",
+            "translated": "GCK2_NICE_AM",
+            "desc": ""
+        },
+        {
+            "hash": 567475069,
+            "original": "~z~Thank you.",
+            "translated": "~z~谢谢。",
+            "desc": ""
+        },
+        {
+            "hash": 570223767,
+            "original": "GCK2_PREACH_DK",
+            "translated": "GCK2_PREACH_DK",
+            "desc": ""
+        },
+        {
+            "hash": 581744901,
+            "original": "GCK2_FAMILY_EH",
+            "translated": "GCK2_FAMILY_EH",
+            "desc": ""
+        },
+        {
+            "hash": 611656742,
+            "original": "GCK2_TOUGH_BQ",
+            "translated": "GCK2_TOUGH_BQ",
+            "desc": ""
+        },
+        {
+            "hash": 612721439,
+            "original": "GCK2_HIGHWAYMAN_CF",
+            "translated": "GCK2_HIGHWAYMAN_CF",
+            "desc": ""
+        },
+        {
+            "hash": 627020813,
+            "original": "GCK2_NICE_AG",
+            "translated": "GCK2_NICE_AG",
+            "desc": ""
+        },
+        {
+            "hash": 628795140,
+            "original": "GCK2_STUPID_FJ",
+            "translated": "GCK2_STUPID_FJ",
+            "desc": ""
+        },
+        {
+            "hash": 641771896,
+            "original": "GCK2_STUPID_FL",
+            "translated": "GCK2_STUPID_FL",
+            "desc": ""
+        },
+        {
+            "hash": 658018329,
+            "original": "~z~Everyone needs a way to cope with his or her pain.",
+            "translated": "~z~每个人都需要一个克服自己痛苦的方法。",
+            "desc": ""
+        },
+        {
+            "hash": 776623362,
+            "original": "~z~Same as always - trying to deal with the reality of my awful family.",
+            "translated": "~z~一如既往，试图应付我糟糕家庭的现实。",
+            "desc": ""
+        },
+        {
+            "hash": 801806184,
+            "original": "~z~What's wrong with me? Quite a lot, I'm sure.",
+            "translated": "~z~我有什么毛病？一大把吧，肯定有。",
+            "desc": ""
+        },
+        {
+            "hash": 805811722,
+            "original": "GCK2_TOUGH_BD",
+            "translated": "GCK2_TOUGH_BD",
+            "desc": ""
+        },
+        {
+            "hash": 925411064,
+            "original": "GCK2_STUPID_FR",
+            "translated": "GCK2_STUPID_FR",
+            "desc": ""
+        },
+        {
+            "hash": 925607714,
+            "original": "GCK2_TOUGH_BE",
+            "translated": "GCK2_TOUGH_BE",
+            "desc": ""
+        },
+        {
+            "hash": 1013110944,
+            "original": "GCK2_STUPID_FO",
+            "translated": "GCK2_STUPID_FO",
+            "desc": ""
+        },
+        {
+            "hash": 1014953494,
+            "original": "~z~I do, but I don't think that any life is not mad. You were here in America.",
+            "translated": "~z~是知道，不过我觉得所有人的生活都很疯狂。你可是在美国。",
+            "desc": ""
+        },
+        {
+            "hash": 1015751489,
+            "original": "~z~I was mostly raised by Roman's mother. She was great. An amazing person.",
+            "translated": "~z~我基本上是Roman的母亲养大的。她很伟大。是个令人惊奇的人。",
+            "desc": ""
+        },
+        {
+            "hash": 1021440561,
+            "original": "~z~Tell me about your family. Roman - he's your cousin...",
+            "translated": "~z~跟我说说你的家庭吧。Roman－他是你堂兄...",
+            "desc": ""
+        },
+        {
+            "hash": 1062677658,
+            "original": "GCK2_FAMILY_EP",
+            "translated": "GCK2_FAMILY_EP",
+            "desc": ""
+        },
+        {
+            "hash": 1072076449,
+            "original": "GCK2_HIGHWAYMAN_CE",
+            "translated": "GCK2_HIGHWAYMAN_CE",
+            "desc": ""
+        },
+        {
+            "hash": 1080157298,
+            "original": "~z~This is nice, isn't it?",
+            "translated": "~z~这样挺好的，不是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1083160818,
+            "original": "~z~Why don't you want to live?",
+            "translated": "~z~为什么你们不想活？",
+            "desc": ""
+        },
+        {
+            "hash": 1115901286,
+            "original": "GCK2_THERAPY_GC",
+            "translated": "GCK2_THERAPY_GC",
+            "desc": ""
+        },
+        {
+            "hash": 1119162907,
+            "original": "~z~Thanks, Niko. I needed this.",
+            "translated": "~z~谢了，Niko。我就需要这个。",
+            "desc": ""
+        },
+        {
+            "hash": 1126628015,
+            "original": "~z~That's it. But it's nice. I'm enjoying myself.",
+            "translated": "~z~就是这样。不过这样也挺好，我挺开心的。",
+            "desc": ""
+        },
+        {
+            "hash": 1145599672,
+            "original": "GCK2_NICE_AN",
+            "translated": "GCK2_NICE_AN",
+            "desc": ""
+        },
+        {
+            "hash": 1149321409,
+            "original": "GCK2_STUPID_FD",
+            "translated": "GCK2_STUPID_FD",
+            "desc": ""
+        },
+        {
+            "hash": 1180386093,
+            "original": "GCK2_STUPID_FE",
+            "translated": "GCK2_STUPID_FE",
+            "desc": ""
+        },
+        {
+            "hash": 1193380699,
+            "original": "~z~An Irish family manages to make it the eighteenth century when or wherever they are.",
+            "translated": "~z~我有一个随时随地都想重现18世纪辉煌的爱尔兰家族。",
+            "desc": ""
+        },
+        {
+            "hash": 1218530268,
+            "original": "GCK2_NICE_AF",
+            "translated": "GCK2_NICE_AF",
+            "desc": ""
+        },
+        {
+            "hash": 1227524791,
+            "original": "GCK2_STUPID_FK",
+            "translated": "GCK2_STUPID_FK",
+            "desc": ""
+        },
+        {
+            "hash": 1236633548,
+            "original": "~z~You don't normally take the guys you date back to meet the family?",
+            "translated": "~z~平常你不会把约会对象带回家见家人吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1246923779,
+            "original": "GCK2_THERAPY_GO",
+            "translated": "GCK2_THERAPY_GO",
+            "desc": ""
+        },
+        {
+            "hash": 1263421441,
+            "original": "~z~I like that.",
+            "translated": "~z~这我喜欢。",
+            "desc": ""
+        },
+        {
+            "hash": 1277644133,
+            "original": "GCK2_STUPID_FF",
+            "translated": "GCK2_STUPID_FF",
+            "desc": ""
+        },
+        {
+            "hash": 1307709015,
+            "original": "~z~Dad drove my brothers mad. I sometimes think that the reason they act the way they do is rebelling against him.",
+            "translated": "~z~我爸让哥哥们很不爽。有时候我都觉得他们的现状是对爸爸的叛逆。",
+            "desc": ""
+        },
+        {
+            "hash": 1309652432,
+            "original": "GCK2_PREACH_DQ",
+            "translated": "GCK2_PREACH_DQ",
+            "desc": ""
+        },
+        {
+            "hash": 1324331496,
+            "original": "GCK2_PREACH_DE",
+            "translated": "GCK2_PREACH_DE",
+            "desc": ""
+        },
+        {
+            "hash": 1333574677,
+            "original": "100100010010100100010100010100",
+            "translated": "100100010010100100010100010100",
+            "desc": ""
+        },
+        {
+            "hash": 1345524635,
+            "original": "~z~Fair enough. A life time of trying to sort my brothers out has left me a little sanctimonious.",
+            "translated": "~z~有道理。一直规劝我那些哥哥都弄得我有点道貌岸然了。",
+            "desc": ""
+        },
+        {
+            "hash": 1357870114,
+            "original": "GCK2_TOUGH_BN",
+            "translated": "GCK2_TOUGH_BN",
+            "desc": ""
+        },
+        {
+            "hash": 1403559870,
+            "original": "~z~Were they close?",
+            "translated": "~z~他俩走得近吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1418206699,
+            "original": "GCK2_FAMILY_EI",
+            "translated": "GCK2_FAMILY_EI",
+            "desc": ""
+        },
+        {
+            "hash": 1420220468,
+            "original": "100010100010100010100010100010100100100010100010100010100",
+            "translated": "100010100010100010100010100010100100100010100010100010100",
+            "desc": ""
+        },
+        {
+            "hash": 1439015862,
+            "original": "GCK2_FAMILY_ED",
+            "translated": "GCK2_FAMILY_ED",
+            "desc": ""
+        },
+        {
+            "hash": 1469992377,
+            "original": "GCK2_PREACH_DM",
+            "translated": "GCK2_PREACH_DM",
+            "desc": ""
+        },
+        {
+            "hash": 1489776304,
+            "original": "~z~The men in my family are just highwaymen and moralists, usually both in equal measure.",
+            "translated": "~z~家里男人不是拦路强盗就是道德卫士，通常还是一半一半。",
+            "desc": ""
+        },
+        {
+            "hash": 1544006768,
+            "original": "~z~Date? This isn't a date, Niko. We're just getting to know each other. We might be friends and that's all.",
+            "translated": "~z~约会？才不是约会，Niko。我们只是在互相了解对方。我们可能会做朋友，就是这样了。",
+            "desc": ""
+        },
+        {
+            "hash": 1547693791,
+            "original": "GCK2_THERAPY_GG",
+            "translated": "GCK2_THERAPY_GG",
+            "desc": ""
+        },
+        {
+            "hash": 1599563869,
+            "original": "GCK2_STUPID_FA",
+            "translated": "GCK2_STUPID_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1609282316,
+            "original": "~z~What have you been up to? Actually, I don't think I want to know. I'm sure it made you feel big and strong.",
+            "translated": "~z~你最近在干嘛？不过我也不太想知道。肯定是能让你觉得自己高大威猛的事情。",
+            "desc": ""
+        },
+        {
+            "hash": 1643421503,
+            "original": "GCK2_HIGHWAYMAN_CK",
+            "translated": "GCK2_HIGHWAYMAN_CK",
+            "desc": ""
+        },
+        {
+            "hash": 1660647410,
+            "original": "GCK2_FAMILY_EL",
+            "translated": "GCK2_FAMILY_EL",
+            "desc": ""
+        },
+        {
+            "hash": 1668695044,
+            "original": "~z~I don't know if I'd agree that Packie was a moralist. He seems like a highwayman through and through.",
+            "translated": "~z~要是Packie也算道德卫士的话我就不敢苟同了。他似乎是个彻头彻尾的拦路强盗。",
+            "desc": ""
+        },
+        {
+            "hash": 1714406604,
+            "original": "~z~We grew up the next house to each other. So physically yes. And temperamentally, yes.",
+            "translated": "~z~小时候我们两家只有一墙之隔。所以距离上是近的。两个人性格也很接近。",
+            "desc": ""
+        },
+        {
+            "hash": 1723073854,
+            "original": "~z~I don't know. I have lived a complicated life. I was in a war.",
+            "translated": "~z~我不知道，我的人生经历有点复杂。我参加过战争。",
+            "desc": ""
+        },
+        {
+            "hash": 1779156882,
+            "original": "GCK2_NICE_AO",
+            "translated": "GCK2_NICE_AO",
+            "desc": ""
+        },
+        {
+            "hash": 1819506243,
+            "original": "GCK2_PREACH_DU",
+            "translated": "GCK2_PREACH_DU",
+            "desc": ""
+        },
+        {
+            "hash": 1826025913,
+            "original": "GCK2_HIGHWAYMAN_CD",
+            "translated": "GCK2_HIGHWAYMAN_CD",
+            "desc": ""
+        },
+        {
+            "hash": 1869336658,
+            "original": "GCK2_FAMILY_EJ",
+            "translated": "GCK2_FAMILY_EJ",
+            "desc": ""
+        },
+        {
+            "hash": 1897239443,
+            "original": "~z~The war taught me a lot of bad things, but it also taught me to enjoy life.",
+            "translated": "~z~战争教了我很多坏东西，但也教会了我要享受生活。",
+            "desc": ""
+        },
+        {
+            "hash": 1904203122,
+            "original": "~z~I was his princess, I was the little girl. And I didn't give him a reason to discipline me.",
+            "translated": "~z~我是他的掌上明珠，我是最小的女儿。而且我也没给他理由体罚我。",
+            "desc": ""
+        },
+        {
+            "hash": 1937496620,
+            "original": "~z~Can you do me a favor, and stop preaching? I'm fine.",
+            "translated": "~z~能不能麻烦你不要在这儿传教了？我很好。",
+            "desc": ""
+        },
+        {
+            "hash": 1944936519,
+            "original": "~z~They were identical. But did they get along? No. they hated each other. They were both assholes, you see.",
+            "translated": "~z~他俩一模一样。至于他们处得好吗？不好，他们互相看不顺眼。他俩都是混蛋，就这样。",
+            "desc": ""
+        },
+        {
+            "hash": 1967777707,
+            "original": "~z~You should see him around me, if a man even looks in my direction, he threatens to rip his heart out.",
+            "translated": "~z~那你应该看看他在我身边的表现。要是有男人往我的方向看，他就会上去威胁要掏了那个男人的心脏。",
+            "desc": ""
+        },
+        {
+            "hash": 1990505320,
+            "original": "GCK2_THERAPY_GE",
+            "translated": "GCK2_THERAPY_GE",
+            "desc": ""
+        },
+        {
+            "hash": 1999873597,
+            "original": "~z~Sounds like you still are.",
+            "translated": "~z~听起来你现在还没摆脱战争。",
+            "desc": ""
+        },
+        {
+            "hash": 2009536964,
+            "original": "~z~They were wife beating alcoholics, who, luckily, were both what they deserved to be.",
+            "translated": "~z~他俩都是打老婆的酒鬼，完全一个德性。",
+            "desc": ""
+        },
+        {
+            "hash": 2025238791,
+            "original": "GCK2_TOUGH_BG",
+            "translated": "GCK2_TOUGH_BG",
+            "desc": ""
+        },
+        {
+            "hash": 2033391312,
+            "original": "GCK2_FAMILY_EG",
+            "translated": "GCK2_FAMILY_EG",
+            "desc": ""
+        },
+        {
+            "hash": 2036010382,
+            "original": "GCK2_PREACH_DN",
+            "translated": "GCK2_PREACH_DN",
+            "desc": ""
+        },
+        {
+            "hash": 2037601932,
+            "original": "~z~No comment.",
+            "translated": "~z~无可奉告。",
+            "desc": ""
+        },
+        {
+            "hash": 2053931405,
+            "original": "~z~My whole life has been learning to cope. I sort of can,",
+            "translated": "~z~我这辈子都在学习如何应付它。我是能应付，",
+            "desc": ""
+        },
+        {
+            "hash": 2080698688,
+            "original": "GCK2_FAMILY_EE",
+            "translated": "GCK2_FAMILY_EE",
+            "desc": ""
+        },
+        {
+            "hash": 2083263568,
+            "original": "GCK2_PREACH_DO",
+            "translated": "GCK2_PREACH_DO",
+            "desc": ""
+        },
+        {
+            "hash": 2084891388,
+            "original": "~z~I guess I played up to it even more because my relationship with him was something I had that the boys didn't.",
+            "translated": "~z~我想我这么做更多是为了迎合他，因为我和他的关系是哥哥们没有的。",
+            "desc": ""
+        },
+        {
+            "hash": 2104007497,
+            "original": "GCK2_PREACH_DL",
+            "translated": "GCK2_PREACH_DL",
+            "desc": ""
+        },
+        {
+            "hash": 2139190933,
+            "original": "~z~So.",
+            "translated": "~z~所以。",
+            "desc": ""
+        },
+        {
+            "hash": 2171401742,
+            "original": "~z~Forgive me... I'm sorry if this is a weird question - what was the war like?",
+            "translated": "~z~请见谅...如果这个问题太怪的话我就先道歉了。战争是怎么样的？",
+            "desc": ""
+        },
+        {
+            "hash": 2173937071,
+            "original": "100010100010100100010010100100010100100010100100100",
+            "translated": "100010100010100100010010100100010100100010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2227422321,
+            "original": "GCK2_STUPID_FB",
+            "translated": "GCK2_STUPID_FB",
+            "desc": ""
+        },
+        {
+            "hash": 2247588716,
+            "original": "GCK2_THERAPY_GJ",
+            "translated": "GCK2_THERAPY_GJ",
+            "desc": ""
+        },
+        {
+            "hash": 2261958413,
+            "original": "~z~Maybe you're right.",
+            "translated": "~z~也许你说得对。",
+            "desc": ""
+        },
+        {
+            "hash": 2286757437,
+            "original": "~z~It's nice to have a friend, Niko. I feel like you are someone I can speak to.",
+            "translated": "~z~有个朋友真好，Niko。感觉我可以跟你聊很多东西。",
+            "desc": ""
+        },
+        {
+            "hash": 2295597370,
+            "original": "~z~Probably.",
+            "translated": "~z~也许吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2319377547,
+            "original": "GCK2_TOUGH_BC",
+            "translated": "GCK2_TOUGH_BC",
+            "desc": ""
+        },
+        {
+            "hash": 2322827932,
+            "original": "010100010100100010100100010100100100100010",
+            "translated": "010100010100100010100100010100100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 2330331754,
+            "original": "GCK2_NICE_AP",
+            "translated": "GCK2_NICE_AP",
+            "desc": ""
+        },
+        {
+            "hash": 2340718385,
+            "original": "100010100010010100100010100010010010010100010100010100",
+            "translated": "100010100010010100100010100010010010010100010100010100",
+            "desc": ""
+        },
+        {
+            "hash": 2352424226,
+            "original": "~z~With a family like yours, I would have thought you would have learnt to cope by now.",
+            "translated": "~z~你有这样一个家族在，我还以为你早就学会应付它了。",
+            "desc": ""
+        },
+        {
+            "hash": 2354142621,
+            "original": "GCK2_THERAPY_GD",
+            "translated": "GCK2_THERAPY_GD",
+            "desc": ""
+        },
+        {
+            "hash": 2357463965,
+            "original": "GCK2_THERAPY_GK",
+            "translated": "GCK2_THERAPY_GK",
+            "desc": ""
+        },
+        {
+            "hash": 2365755803,
+            "original": "~z~So, you.",
+            "translated": "~z~所以，你。",
+            "desc": ""
+        },
+        {
+            "hash": 2385189229,
+            "original": "~z~Well, is a good thing that we are just friends. If this was a date, I'd be scared.",
+            "translated": "~z~幸好我俩只是普通朋友。如果这是在约会，我就要害怕了。",
+            "desc": ""
+        },
+        {
+            "hash": 2387443776,
+            "original": "~z~I guess it's nice be honest for a change.",
+            "translated": "~z~我想偶尔改变一下也挺好。",
+            "desc": ""
+        },
+        {
+            "hash": 2412150118,
+            "original": "~z~I hope so, I don't want to believe that every man in my family was as bad as my brothers.",
+            "translated": "~z~但愿吧，我不想相信我家里的所有男人都和我的哥哥们一样坏。",
+            "desc": ""
+        },
+        {
+            "hash": 2436752410,
+            "original": "GCK2_THERAPY_GA",
+            "translated": "GCK2_THERAPY_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2451112459,
+            "original": "~z~You know, just waiting around and wasting time until she can join my father in the eternal splendor of Heaven.",
+            "translated": "~z~你也知道，只是在等待大限、浪费时间，等着到天堂的永恒光辉中去找我父亲。",
+            "desc": ""
+        },
+        {
+            "hash": 2460276189,
+            "original": "GCK2_PREACH_DH",
+            "translated": "GCK2_PREACH_DH",
+            "desc": ""
+        },
+        {
+            "hash": 2478758769,
+            "original": "GCK2_PREACH_DI",
+            "translated": "GCK2_PREACH_DI",
+            "desc": ""
+        },
+        {
+            "hash": 2491439720,
+            "original": "~z~The world is hard. What are you going to do?",
+            "translated": "~z~人世艰难啊。你会怎么做？",
+            "desc": ""
+        },
+        {
+            "hash": 2561124799,
+            "original": "~z~You seem well, Niko.",
+            "translated": "~z~你看上去不错，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2570260436,
+            "original": "GCK2_TOUGH_BO",
+            "translated": "GCK2_TOUGH_BO",
+            "desc": ""
+        },
+        {
+            "hash": 2576686690,
+            "original": "100010100100010100010010100010010010010010100010100",
+            "translated": "100010100100010100010010100010010010010010100010100",
+            "desc": ""
+        },
+        {
+            "hash": 2588796419,
+            "original": "~z~I'm so sorry.",
+            "translated": "~z~我很抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 2595146196,
+            "original": "GCK2_HIGHWAYMAN_CC",
+            "translated": "GCK2_HIGHWAYMAN_CC",
+            "desc": ""
+        },
+        {
+            "hash": 2629522029,
+            "original": "GCK2_HIGHWAYMAN_CG",
+            "translated": "GCK2_HIGHWAYMAN_CG",
+            "desc": ""
+        },
+        {
+            "hash": 2649835670,
+            "original": "~z~Some downtime. A moment away from the craziness of it all - my family, life in general.",
+            "translated": "~z~放松的时间。能够远离我疯狂的家庭、普通地生活的时光。",
+            "desc": ""
+        },
+        {
+            "hash": 2679044487,
+            "original": "GCK2_TOUGH_BF",
+            "translated": "GCK2_TOUGH_BF",
+            "desc": ""
+        },
+        {
+            "hash": 2702638007,
+            "original": "GCK2_STUPID_FC",
+            "translated": "GCK2_STUPID_FC",
+            "desc": ""
+        },
+        {
+            "hash": 2712324749,
+            "original": "100010100010100100190100010010100100010100010",
+            "translated": "100010100010100100190100010010100100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 2718278116,
+            "original": "~z~Do you think that that is where he is?",
+            "translated": "~z~你觉得他会在那里吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2722675751,
+            "original": "~z~So me what?",
+            "translated": "~z~所以我怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 2746124535,
+            "original": "~z~I think we all need new beginnings.",
+            "translated": "~z~我想我们都需要一个全新的开始。",
+            "desc": ""
+        },
+        {
+            "hash": 2763697434,
+            "original": "~z~Rather than me keeping secrets about my family from you, you're probably keeping secrets about my family from me?",
+            "translated": "~z~这次倒未必是我对我家的事保密了，我看是你在对我保密我家的事吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2779823769,
+            "original": "~z~I am what I am, for better or worse.",
+            "translated": "~z~我就是我，不论好坏。",
+            "desc": ""
+        },
+        {
+            "hash": 2809529009,
+            "original": "GCK2_STUPID_FG",
+            "translated": "GCK2_STUPID_FG",
+            "desc": ""
+        },
+        {
+            "hash": 2829025958,
+            "original": "~z~I found her. Roman does not know - he thought she died in a house fire.",
+            "translated": "~z~我找到了她。Roman还不知道，他以为她是因为家中失火丧命的。",
+            "desc": ""
+        },
+        {
+            "hash": 2844720467,
+            "original": "~z~My mother - my mother is one of life's victims.",
+            "translated": "~z~我的母亲－我母亲她是生活的受害者。",
+            "desc": ""
+        },
+        {
+            "hash": 2866628850,
+            "original": "~z~It was great - you got to see people turn into animals and your close friends die.",
+            "translated": "~z~战争很棒。你可以看见人类变成禽兽，看见你的挚友死亡。",
+            "desc": ""
+        },
+        {
+            "hash": 2903232123,
+            "original": "~z~I couldn't date you... someone like my brothers. I couldn't do that to myself.",
+            "translated": "~z~我不可能跟你约会的...约你这种和我哥哥们一样的人。我不会对自己做那种事的。",
+            "desc": ""
+        },
+        {
+            "hash": 2905411184,
+            "original": "GCK2_THERAPY_GR",
+            "translated": "GCK2_THERAPY_GR",
+            "desc": ""
+        },
+        {
+            "hash": 2912781680,
+            "original": "~z~She wanted to send me too, but I wanted to fight. I was stupid.",
+            "translated": "~z~本来她想把我也送来，不过当时我想参战。我真是太蠢了。",
+            "desc": ""
+        },
+        {
+            "hash": 2951015549,
+            "original": "~z~You don't have to thank me, Kate. Needed what?",
+            "translated": "~z~你没必要谢我，Kate。你需要什么？",
+            "desc": ""
+        },
+        {
+            "hash": 2961884346,
+            "original": "~z~You poor bastard, you have. I don't normally socialize with people that know my family.",
+            "translated": "~z~你这可怜的混蛋，是很熟了。~n~平常我不跟熟悉我家族的人来往的。",
+            "desc": ""
+        },
+        {
+            "hash": 2972152562,
+            "original": "GCK2_PREACH_DD",
+            "translated": "GCK2_PREACH_DD",
+            "desc": ""
+        },
+        {
+            "hash": 2983155831,
+            "original": "GCK2_STUPID_FP",
+            "translated": "GCK2_STUPID_FP",
+            "desc": ""
+        },
+        {
+            "hash": 2994511054,
+            "original": "~z~Don't mention it.",
+            "translated": "~z~不客气。",
+            "desc": ""
+        },
+        {
+            "hash": 2998250665,
+            "original": "GCK2_THERAPY_GB",
+            "translated": "GCK2_THERAPY_GB",
+            "desc": ""
+        },
+        {
+            "hash": 3005946171,
+            "original": "GCK2_STUPID_FH",
+            "translated": "GCK2_STUPID_FH",
+            "desc": ""
+        },
+        {
+            "hash": 3020592448,
+            "original": "GCK2_PREACH_DG",
+            "translated": "GCK2_PREACH_DG",
+            "desc": ""
+        },
+        {
+            "hash": 3036205875,
+            "original": "GCK2_FAMILY_EK",
+            "translated": "GCK2_FAMILY_EK",
+            "desc": ""
+        },
+        {
+            "hash": 3041733684,
+            "original": "~z~Maybe it's a break from it all... a new beginning.",
+            "translated": "~z~比如说远离种种琐事的休息...一个全新的开始。",
+            "desc": ""
+        },
+        {
+            "hash": 3076177911,
+            "original": "GCK2_TOUGH_BJ",
+            "translated": "GCK2_TOUGH_BJ",
+            "desc": ""
+        },
+        {
+            "hash": 3099447124,
+            "original": "~z~None of the boys liked my dad, and he didn't appear to like them much either. He believed in discipline, you know?",
+            "translated": "~z~他们没一个喜欢我爸的，而我爸似乎也不太喜欢他们。他相信体罚，你知道吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3141102294,
+            "original": "~z~Alright then, this isn't a date. We're just two people, hanging out.",
+            "translated": "~z~那好吧，这不是在约会。我们就是两个人出来玩。",
+            "desc": ""
+        },
+        {
+            "hash": 3159106253,
+            "original": "~z~When the war came, she saved up all her money and sent Roman here.",
+            "translated": "~z~战争来临的时候，她把她的钱都省了下来，把Roman送到了这儿。",
+            "desc": ""
+        },
+        {
+            "hash": 3192938565,
+            "original": "~z~Try to keep those two sides of my life separate.",
+            "translated": "~z~想给我生活的两面划清界线。",
+            "desc": ""
+        },
+        {
+            "hash": 3202395944,
+            "original": "~z~she was... she was... she was raped and murdered.",
+            "translated": "~z~她被...她被...她被先奸后杀。",
+            "desc": ""
+        },
+        {
+            "hash": 3223929324,
+            "original": "~z~It taught me how to get by, how to detach myself from people who upset me. Therapy works... it sort of works.",
+            "translated": "~z~它教会了我怎么挺下去，怎么让自己摆脱那些令我伤心的人。~n~治疗还算有效...至少能算有效吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3228332649,
+            "original": "GCK2_THERAPY_GL",
+            "translated": "GCK2_THERAPY_GL",
+            "desc": ""
+        },
+        {
+            "hash": 3258137659,
+            "original": "~z~To live a normal life, I mean - get married, have kids, not steal, rob, kill.",
+            "translated": "~z~我是说过正常的生活。结婚生子，不是偷盗、抢劫、杀人。",
+            "desc": ""
+        },
+        {
+            "hash": 3266482712,
+            "original": "~z~Actually, I wish to forget some of the things that happened to me here, in Liberty City as well.",
+            "translated": "~z~其实，我也想忘记一些在自由城的遭遇。",
+            "desc": ""
+        },
+        {
+            "hash": 3270230593,
+            "original": "GCK2_FAMILY_EO",
+            "translated": "GCK2_FAMILY_EO",
+            "desc": ""
+        },
+        {
+            "hash": 3297961726,
+            "original": "~z~How is your Mother?",
+            "translated": "~z~你母亲最近如何？",
+            "desc": ""
+        },
+        {
+            "hash": 3331105640,
+            "original": "GCK2_PREACH_DR",
+            "translated": "GCK2_PREACH_DR",
+            "desc": ""
+        },
+        {
+            "hash": 3371483200,
+            "original": "GCK2_PREACH_DJ",
+            "translated": "GCK2_PREACH_DJ",
+            "desc": ""
+        },
+        {
+            "hash": 3399306535,
+            "original": "GCK2_TOUGH_BA",
+            "translated": "GCK2_TOUGH_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3433287297,
+            "original": "GCK2_THERAPY_GH",
+            "translated": "GCK2_THERAPY_GH",
+            "desc": ""
+        },
+        {
+            "hash": 3442166717,
+            "original": "~z~My aunt, Roman's mother,",
+            "translated": "~z~我的伯母，Roman的母亲，",
+            "desc": ""
+        },
+        {
+            "hash": 3443634201,
+            "original": "GCK2_HIGHWAYMAN_CB",
+            "translated": "GCK2_HIGHWAYMAN_CB",
+            "desc": ""
+        },
+        {
+            "hash": 3452734990,
+            "original": "~z~Sorry, Niko. Talk about armchair psychology. I'm boring you.",
+            "translated": "~z~抱歉，Niko。净是些空谈心理学。无聊到你了。",
+            "desc": ""
+        },
+        {
+            "hash": 3473176433,
+            "original": "GCK2_STUPID_FI",
+            "translated": "GCK2_STUPID_FI",
+            "desc": ""
+        },
+        {
+            "hash": 3503091886,
+            "original": "GCK2_TOUGH_BB",
+            "translated": "GCK2_TOUGH_BB",
+            "desc": ""
+        },
+        {
+            "hash": 3508227179,
+            "original": "~z~I know - look at the company I keep.",
+            "translated": "~z~我知道，也不看看和我一起的人是谁。",
+            "desc": ""
+        },
+        {
+            "hash": 3510338360,
+            "original": "GCK2_TOUGH_BR",
+            "translated": "GCK2_TOUGH_BR",
+            "desc": ""
+        },
+        {
+            "hash": 3523011987,
+            "original": "~z~I was in therapy for a long time, Niko. It helped me a lot.",
+            "translated": "~z~我接受过很久的治疗，Niko。它帮了我很多。",
+            "desc": ""
+        },
+        {
+            "hash": 3549634453,
+            "original": "~z~Yes. Our fathers were brothers.",
+            "translated": "~z~对，我们的父亲是兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3551053287,
+            "original": "GCK2_HIGHWAYMAN_CJ",
+            "translated": "GCK2_HIGHWAYMAN_CJ",
+            "desc": ""
+        },
+        {
+            "hash": 3571147147,
+            "original": "~z~It can't be easier, than having a job I mean?",
+            "translated": "~z~这总不会比找份工作还难吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3590383169,
+            "original": "GCK2_NICE_AE",
+            "translated": "GCK2_NICE_AE",
+            "desc": ""
+        },
+        {
+            "hash": 3601442020,
+            "original": "~z~So, are you another one?",
+            "translated": "~z~所以，你也是那种？",
+            "desc": ""
+        },
+        {
+            "hash": 3630949302,
+            "original": "GCK2_PREACH_DF",
+            "translated": "GCK2_PREACH_DF",
+            "desc": ""
+        },
+        {
+            "hash": 3635782624,
+            "original": "~z~Not at all, friend. Families are strange things.",
+            "translated": "~z~完全没有，朋友。家庭确实是奇怪的东西。",
+            "desc": ""
+        },
+        {
+            "hash": 3637332269,
+            "original": "GCK2_PREACH_DS",
+            "translated": "GCK2_PREACH_DS",
+            "desc": ""
+        },
+        {
+            "hash": 3676214301,
+            "original": "~z~What did your brothers think?",
+            "translated": "~z~那你的哥哥觉得他怎样？",
+            "desc": ""
+        },
+        {
+            "hash": 3683117174,
+            "original": "~z~No. It was seeing your home destroyed, seeing members of your family die.",
+            "translated": "~z~不，那种经历是看着自己的家被毁，看着你的家人死亡。",
+            "desc": ""
+        },
+        {
+            "hash": 3691912136,
+            "original": "~z~Is nice to get to know you too, seems like I've gotten pretty close to everyone else in your family.",
+            "translated": "~z~我也很高兴能逐渐了解你，~n~我似乎和你家的所有人都很熟了。",
+            "desc": ""
+        },
+        {
+            "hash": 3725602647,
+            "original": "~z~Sorry. I knew it was a dumb question. It's just, I hoped it wasn't so awful for you.",
+            "translated": "~z~抱歉，我不该问这么蠢的问题。我只是希望那次战争对你不算太糟。",
+            "desc": ""
+        },
+        {
+            "hash": 3728585459,
+            "original": "GCK2_THERAPY_GP",
+            "translated": "GCK2_THERAPY_GP",
+            "desc": ""
+        },
+        {
+            "hash": 3756059126,
+            "original": "~z~You're still stupid!",
+            "translated": "~z~你现在也很蠢！",
+            "desc": ""
+        },
+        {
+            "hash": 3786391673,
+            "original": "~z~You know what my family is like.",
+            "translated": "~z~你知道我的家族什么德性。",
+            "desc": ""
+        },
+        {
+            "hash": 3805579074,
+            "original": "~z~I wasn't suggesting that, Niko. I was just saying that therapy is one of the reasons I'm still here today.",
+            "translated": "~z~我不是那个意思，Niko。我只是想说，~n~那个治疗是我能坚持到现在的原因之一。",
+            "desc": ""
+        },
+        {
+            "hash": 3816535604,
+            "original": "GCK2_NICE_AK",
+            "translated": "GCK2_NICE_AK",
+            "desc": ""
+        },
+        {
+            "hash": 3821036494,
+            "original": "GCK2_HIGHWAYMAN_CH",
+            "translated": "GCK2_HIGHWAYMAN_CH",
+            "desc": ""
+        },
+        {
+            "hash": 3832561777,
+            "original": "~z~Another what?",
+            "translated": "~z~哪一种？",
+            "desc": ""
+        },
+        {
+            "hash": 3837066651,
+            "original": "GCK2_FAMILY_EN",
+            "translated": "GCK2_FAMILY_EN",
+            "desc": ""
+        },
+        {
+            "hash": 3852943257,
+            "original": "GCK2_NICE_AA",
+            "translated": "GCK2_NICE_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3874095648,
+            "original": "GCK2_TOUGH_BI",
+            "translated": "GCK2_TOUGH_BI",
+            "desc": ""
+        },
+        {
+            "hash": 3876477647,
+            "original": "~z~but it's those moments when you can just forget that I value most.",
+            "translated": "~z~但我最珍视的还是可以直接忘却这种家庭的时光。",
+            "desc": ""
+        },
+        {
+            "hash": 3895532293,
+            "original": "GCK2_NICE_AH",
+            "translated": "GCK2_NICE_AH",
+            "desc": ""
+        },
+        {
+            "hash": 3906546611,
+            "original": "GCK2_TOUGH_BP",
+            "translated": "GCK2_TOUGH_BP",
+            "desc": ""
+        },
+        {
+            "hash": 3941151666,
+            "original": "~z~They hated him, they'd fight with him and scream at him and run away for days at a time before he'd drag them home.",
+            "translated": "~z~他们都恨他，他们会和他打架，对他大喊大叫，离家出走几天直到被他拖回来。",
+            "desc": ""
+        },
+        {
+            "hash": 3953150409,
+            "original": "GCK2_FAMILY_EC",
+            "translated": "GCK2_FAMILY_EC",
+            "desc": ""
+        },
+        {
+            "hash": 3981856428,
+            "original": "GCK2_THERAPY_GN",
+            "translated": "GCK2_THERAPY_GN",
+            "desc": ""
+        },
+        {
+            "hash": 4075815157,
+            "original": "GCK2_HIGHWAYMAN_CI",
+            "translated": "GCK2_HIGHWAYMAN_CI",
+            "desc": ""
+        },
+        {
+            "hash": 4103981596,
+            "original": "GCK2_TOUGH_BL",
+            "translated": "GCK2_TOUGH_BL",
+            "desc": ""
+        },
+        {
+            "hash": 4127148419,
+            "original": "GCK2_TOUGH_BS",
+            "translated": "GCK2_TOUGH_BS",
+            "desc": ""
+        },
+        {
+            "hash": 4158200286,
+            "original": "~z~Ha ha.",
+            "translated": "~z~哈哈。",
+            "desc": ""
+        },
+        {
+            "hash": 4159594548,
+            "original": "GCK2_THERAPY_GI",
+            "translated": "GCK2_THERAPY_GI",
+            "desc": ""
+        },
+        {
+            "hash": 4179492590,
+            "original": "~z~I'm sure you do, Niko. Maybe it's something other than forgetting that you need though.",
+            "translated": "~z~你肯定想的，Niko。或许你需要的不是忘记。",
+            "desc": ""
+        },
+        {
+            "hash": 4213665247,
+            "original": "~z~Another one like my brothers. A tough guy with a death wish. A man eager to get into Hell as soon as possible.",
+            "translated": "~z~和我哥哥一样的那种。怀着死亡觉悟的硬汉。时刻准备下地狱的人。",
+            "desc": ""
+        },
+        {
+            "hash": 4249301606,
+            "original": "~z~Maybe.",
+            "translated": "~z~大概吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4275073656,
+            "original": "GCK2_THERAPY_GM",
+            "translated": "GCK2_THERAPY_GM",
+            "desc": ""
+        },
+        {
+            "hash": 4276876652,
+            "original": "~z~So what?",
+            "translated": "~z~所以什么？",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,1420 @@
+{
+    "FCJCPAU": [
+        {
+            "hash": 4772024,
+            "original": "~z~Me down Willis, link me up.",
+            "translated": "~z~我在Willis，过来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 9692234,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 68004618,
+            "original": "FCJ_ACT_CALL_HOSP_CANCEL_LOLIKE",
+            "translated": "FCJ_ACT_CALL_HOSP_CANCEL_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 95076627,
+            "original": "FCJ_ACT_CALL_HOSP_CANCEL_HILIKE",
+            "translated": "FCJ_ACT_CALL_HOSP_CANCEL_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 96157655,
+            "original": "~z~Sure - I'd like a drink. I'll be there in the hour.",
+            "translated": "~z~好啊，喝酒好啊。我一小时内过来。",
+            "desc": ""
+        },
+        {
+            "hash": 107111329,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 127937937,
+            "original": "~z~Yo, mek we go a' the strip club, yo?",
+            "translated": "~z~哟，一起去脱衣舞俱乐部吧，哟？",
+            "desc": ""
+        },
+        {
+            "hash": 156400270,
+            "original": "~z~Yo me need a lift man, can you pick me up a' Steinway?",
+            "translated": "~z~哟，我需要接送，兄弟。你能来Steinway接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 184113699,
+            "original": "~z~Yo, me at BOABO man, come pick me up.",
+            "translated": "~z~哟，我在BOABO，兄弟。过来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 187465936,
+            "original": "FCJ_ACT_PLJ_GETCALL_STRIP_YES",
+            "translated": "FCJ_ACT_PLJ_GETCALL_STRIP_YES",
+            "desc": ""
+        },
+        {
+            "hash": 191642304,
+            "original": "~z~Star, me down Meadows Park man, gimme a ride now star, link up.",
+            "translated": "~z~哥们，我在草地公园，来接我一下，速来。",
+            "desc": ""
+        },
+        {
+            "hash": 218945388,
+            "original": "~z~Rasta, it's me.",
+            "translated": "~z~兄弟，是我。",
+            "desc": ""
+        },
+        {
+            "hash": 220770421,
+            "original": "~z~No, Jacob - I can't get food just now.",
+            "translated": "~z~不了，Jacob，我现在没空吃饭。",
+            "desc": ""
+        },
+        {
+            "hash": 224187468,
+            "original": "FCJ_ACT_GETCALL_LIFT_AIRPORT",
+            "translated": "FCJ_ACT_GETCALL_LIFT_AIRPORT",
+            "desc": ""
+        },
+        {
+            "hash": 243497048,
+            "original": "~z~Yo, me breda. Long time we had no business, man. Mek we play some pool or someting.",
+            "translated": "~z~哟，好兄弟。我们很久没聚了吧，兄弟。一起去打会儿桌球吧。",
+            "desc": ""
+        },
+        {
+            "hash": 245836914,
+            "original": "~z~Me down Firefly Projects star, just link up man, me need a ride man, pronto.",
+            "translated": "~z~我现在在Firefly公屋社区，尽快过来兄弟，我需要你接我，兄弟，快。",
+            "desc": ""
+        },
+        {
+            "hash": 257281641,
+            "original": "FCJ_ACT_PLJ_GETCALL_LIFT_YES",
+            "translated": "FCJ_ACT_PLJ_GETCALL_LIFT_YES",
+            "desc": ""
+        },
+        {
+            "hash": 273399708,
+            "original": "~z~Yo, me need some transportation from Rotterdam Hill man, can you pick me up?",
+            "translated": "~z~哟，我现在在Rotterdam Hill，需要有人接送，你能帮我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 286773586,
+            "original": "~z~No, I can't go drinking just now.",
+            "translated": "~z~不，我现在不能去喝酒。",
+            "desc": ""
+        },
+        {
+            "hash": 292627741,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 301374629,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 332173202,
+            "original": "FCJ_ACT_GETCALL_POOL",
+            "translated": "FCJ_ACT_GETCALL_POOL",
+            "desc": ""
+        },
+        {
+            "hash": 392185255,
+            "original": "FCJ_ACT_GETCALL_REJECT",
+            "translated": "FCJ_ACT_GETCALL_REJECT",
+            "desc": ""
+        },
+        {
+            "hash": 434621550,
+            "original": "FCJ_ACT_GETCALL_EAT_FIRST",
+            "translated": "FCJ_ACT_GETCALL_EAT_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 448819923,
+            "original": "~z~Niko, it's me, Jacob.",
+            "translated": "~z~Niko，是我，Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 459263203,
+            "original": "~z~No - I can't at the moment.",
+            "translated": "~z~不，我现在没空。",
+            "desc": ""
+        },
+        {
+            "hash": 459633074,
+            "original": "~z~A long time we're at work me good friend, me could go watch a show or something.",
+            "translated": "~z~我们工作了多久了，好朋友，该考虑去看场表演了。",
+            "desc": ""
+        },
+        {
+            "hash": 467930867,
+            "original": "~z~Respect, me see ya soon.",
+            "translated": "~z~敬你，之后见。",
+            "desc": ""
+        },
+        {
+            "hash": 493774804,
+            "original": "~z~Yes, I'm hungry too. I'll come over in the next hour.",
+            "translated": "~z~好啊，正好我也饿了。我一小时内就到。",
+            "desc": ""
+        },
+        {
+            "hash": 502713757,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 513637962,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 524898286,
+            "original": "FCJ_ACT_PLJ_GETCALL_HOSP_NO",
+            "translated": "FCJ_ACT_PLJ_GETCALL_HOSP_NO",
+            "desc": ""
+        },
+        {
+            "hash": 526743565,
+            "original": "~z~Niko, it's a long time since when I hear from you.",
+            "translated": "~z~Niko，好久没接到你的电话了。",
+            "desc": ""
+        },
+        {
+            "hash": 533462914,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 548643611,
+            "original": "FCJ_ACT_PLJ_GETCALL_DRINK_NO",
+            "translated": "FCJ_ACT_PLJ_GETCALL_DRINK_NO",
+            "desc": ""
+        },
+        {
+            "hash": 586883806,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 593380607,
+            "original": "FCJ_ACT_CALL_SHOW",
+            "translated": "FCJ_ACT_CALL_SHOW",
+            "desc": ""
+        },
+        {
+            "hash": 606584210,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 616087789,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 697346636,
+            "original": "~z~Great Niko - see you soon.",
+            "translated": "~z~好的Niko，一会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 733385535,
+            "original": "FCJ_ACT_GETCALL_LIFT_BOABO",
+            "translated": "FCJ_ACT_GETCALL_LIFT_BOABO",
+            "desc": ""
+        },
+        {
+            "hash": 776059791,
+            "original": "FCJ_ACT_GETCALL_STRIP_FIRST",
+            "translated": "FCJ_ACT_GETCALL_STRIP_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 797707846,
+            "original": "~z~I'd love to, but I'm in the middle of something.",
+            "translated": "~z~我也很想去，不过我现在有事。",
+            "desc": ""
+        },
+        {
+            "hash": 799923295,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 811931911,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 854379859,
+            "original": "~z~Okay, bad boy - just call me when you have some time.",
+            "translated": "~z~好吧，小坏蛋，有空了记得找我。",
+            "desc": ""
+        },
+        {
+            "hash": 857182750,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 875527389,
+            "original": "~z~Me down at Cerveza Heights man, link me up.",
+            "translated": "~z~我在Cerveza Heights，兄弟。来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 914408492,
+            "original": "~z~Yeah, man. Me see you here soon.",
+            "translated": "~z~好。我等你过来。",
+            "desc": ""
+        },
+        {
+            "hash": 935207984,
+            "original": "~z~Wanna play a lickle bit o' pool or something, me breda?",
+            "translated": "~z~想不想来打会儿台球啊，好兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 938656010,
+            "original": "~z~Me down at Firefly Island man, link up man, me need a ride, man.",
+            "translated": "~z~我在Firefly Island，兄弟。快过来，我需要接送，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 962570330,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 970243235,
+            "original": "~z~Sorry, I've got some serious shit on just now, Jacob. I can't help just now.",
+            "translated": "~z~抱歉，我现在有点麻烦要处理，Jacob。没法帮你了。",
+            "desc": ""
+        },
+        {
+            "hash": 972231410,
+            "original": "~z~Me need some transportation from Rotterdam Hill, can you pick me up?",
+            "translated": "~z~我现在在Rotterdam Hill，需要有人接送，你能帮我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1004198843,
+            "original": "~z~Star, me down at South Slopes man, yo link up star. Me need a ride man, me need a ride.",
+            "translated": "~z~哥们，我在South Slopes，快点来。我需要接送，兄弟，需要接送。",
+            "desc": ""
+        },
+        {
+            "hash": 1013047357,
+            "original": "~z~No problem, man. Hit me up when you're free.",
+            "translated": "~z~没问题，兄弟。有空了记得联系。",
+            "desc": ""
+        },
+        {
+            "hash": 1028378372,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1028564185,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1076741275,
+            "original": "~z~Yo, me need a lift from BOABO.",
+            "translated": "~z~哟，我需要你来BOABO接我。",
+            "desc": ""
+        },
+        {
+            "hash": 1133009991,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1176920951,
+            "original": "~z~Me check the man here.",
+            "translated": "~z~我等你来。",
+            "desc": ""
+        },
+        {
+            "hash": 1180863060,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1186006714,
+            "original": "FCJ_ACT_GETCALL_LIFT_FIREFLY_ISLANDS",
+            "translated": "FCJ_ACT_GETCALL_LIFT_FIREFLY_ISLANDS",
+            "desc": ""
+        },
+        {
+            "hash": 1201362992,
+            "original": "~z~Sorry, Jacob - I'm kind of busy - you'll have to make your own way home.",
+            "translated": "~z~抱歉，Jacob，我有点忙，你得自己回去了。",
+            "desc": ""
+        },
+        {
+            "hash": 1222427176,
+            "original": "FCJ_ACT_PLJ_GETCALL_DARTS_NO",
+            "translated": "FCJ_ACT_PLJ_GETCALL_DARTS_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1241598134,
+            "original": "~z~You wanna play some pool?",
+            "translated": "~z~你想打台球吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1246324151,
+            "original": "~z~Star, me down Firefly Island man, link up man, me need a ride man, link up star, link up.",
+            "translated": "~z~哥们，我在Firefly Island，快过来，我需要你接我，兄弟，快。",
+            "desc": ""
+        },
+        {
+            "hash": 1259125283,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1279343041,
+            "original": "FCJ_ACT_GETCALL_LIFT_SOUTH_SLOPES",
+            "translated": "FCJ_ACT_GETCALL_LIFT_SOUTH_SLOPES",
+            "desc": ""
+        },
+        {
+            "hash": 1288199790,
+            "original": "~z~No. I can't do darts just now.",
+            "translated": "~z~不了。我现在没空玩飞镖。",
+            "desc": ""
+        },
+        {
+            "hash": 1300595522,
+            "original": "~z~Yeah, I'll be there within the hour, Jacob.",
+            "translated": "~z~好的，我一小时内就到，Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 1304122670,
+            "original": "FCJ_ACT_GETCALL_SHOW_FIRST",
+            "translated": "FCJ_ACT_GETCALL_SHOW_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 1321024285,
+            "original": "FCJ_ACT_GETCALL_HOSP_REJ_LOLIKE",
+            "translated": "FCJ_ACT_GETCALL_HOSP_REJ_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 1321997735,
+            "original": "~z~Pool? Yeah, sounds good. And i've got nothing serious going on - I'll head over to your place.",
+            "translated": "~z~台球？好啊，这主意不错。刚好我也没什么要紧事，我这就来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 1322193953,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1390681600,
+            "original": "FCJ_ACT_GETCALL_LIFT_EAST_ISLAND_CITY",
+            "translated": "FCJ_ACT_GETCALL_LIFT_EAST_ISLAND_CITY",
+            "desc": ""
+        },
+        {
+            "hash": 1414503947,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1432961304,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1503852579,
+            "original": "~z~Not right now, Jacob.",
+            "translated": "~z~现在不行，Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 1519308044,
+            "original": "FCJ_ACT_GETCALL_HOSP_REJ_HILIKE",
+            "translated": "FCJ_ACT_GETCALL_HOSP_REJ_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 1553664800,
+            "original": "~z~Yo, all we do is business, yo? Mek we just go a the strip club or something.",
+            "translated": "~z~哟，之前一直忙生计对吧？要不要去脱衣舞俱乐部放松一下？",
+            "desc": ""
+        },
+        {
+            "hash": 1582493559,
+            "original": "~z~Yo, star, me down Hove Beach man, me need a ride man, link up star, link up.",
+            "translated": "~z~哟，哥们，我在Hove Beach，需要接送。快过来，兄弟，快。",
+            "desc": ""
+        },
+        {
+            "hash": 1590270676,
+            "original": "FCJ_ACT_PLJ_CALL_HOSP_CANCEL",
+            "translated": "FCJ_ACT_PLJ_CALL_HOSP_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 1612593227,
+            "original": "~z~Yes, why not - I'm on my way over.",
+            "translated": "~z~好啊，何不呢。我过来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1628046143,
+            "original": "FCJ_ACT_PLJ_GETCALL_POOL_YES",
+            "translated": "FCJ_ACT_PLJ_GETCALL_POOL_YES",
+            "desc": ""
+        },
+        {
+            "hash": 1653505795,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1659277582,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1709661233,
+            "original": "~z~Let's go play some darts.",
+            "translated": "~z~我们去玩把飞镖吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1718472459,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1718559472,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1753898817,
+            "original": "FCJ_ACT_PLJ_GETCALL_STRIP_NO",
+            "translated": "FCJ_ACT_PLJ_GETCALL_STRIP_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1811116236,
+            "original": "~z~Yo, can you pick me up from the airport?",
+            "translated": "~z~哟，你能来机场接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1814230685,
+            "original": "~z~Yo, you wanna go down the strip club, Mr. Mention?",
+            "translated": "~z~哟，想去脱衣舞俱乐部吗，懂哥？",
+            "desc": ""
+        },
+        {
+            "hash": 1827791789,
+            "original": "~z~Star, me bored y'know. You wanna go for a drink?",
+            "translated": "~z~兄弟，我好无聊啊。你想去喝酒吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1834156963,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1840531895,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1841698006,
+            "original": "FCJ_ACT_PLJ_GETCALL_HOSP_YES",
+            "translated": "FCJ_ACT_PLJ_GETCALL_HOSP_YES",
+            "desc": ""
+        },
+        {
+            "hash": 1874718028,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1877795235,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1929568961,
+            "original": "FCJ_ACT_GETCALL_LIFT_HOVE_BEACH",
+            "translated": "FCJ_ACT_GETCALL_LIFT_HOVE_BEACH",
+            "desc": ""
+        },
+        {
+            "hash": 1936304210,
+            "original": "~z~Yo star, me Downtown man, can come pick me up.",
+            "translated": "~z~哟，兄弟，我在中心区，能来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1949694158,
+            "original": "~z~Mek we go play some darts?",
+            "translated": "~z~要不要去玩会儿飞镖？",
+            "desc": ""
+        },
+        {
+            "hash": 1987721317,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1991461563,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2011632770,
+            "original": "FCJ_ACT_PLJ_GETCALL_POOL_NO",
+            "translated": "FCJ_ACT_PLJ_GETCALL_POOL_NO",
+            "desc": ""
+        },
+        {
+            "hash": 2020011689,
+            "original": "FCJ_ACT_GETCALL_LIFT_MEADOWS_HILLS",
+            "translated": "FCJ_ACT_GETCALL_LIFT_MEADOWS_HILLS",
+            "desc": ""
+        },
+        {
+            "hash": 2061604945,
+            "original": "FCJ_ACT_PLJ_GETCALL_DARTS_YES",
+            "translated": "FCJ_ACT_PLJ_GETCALL_DARTS_YES",
+            "desc": ""
+        },
+        {
+            "hash": 2067487946,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2127407761,
+            "original": "~z~Absolutely. I'm on my way.",
+            "translated": "~z~当然来，我这就过来。",
+            "desc": ""
+        },
+        {
+            "hash": 2164640701,
+            "original": "~z~I can't play pool just now, man - I got some shit to deal with.",
+            "translated": "~z~我现在没空打台球，兄弟，我还有事要忙。",
+            "desc": ""
+        },
+        {
+            "hash": 2171045763,
+            "original": "FCJ_ACT_GETCALL_IRATE",
+            "translated": "FCJ_ACT_GETCALL_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 2199829164,
+            "original": "~z~Yes, definitely. I will be there in the next hour.",
+            "translated": "~z~好啊，当然了。我一小时内到。",
+            "desc": ""
+        },
+        {
+            "hash": 2201104870,
+            "original": "~z~Jacob, sorry, man, something serious has come up. I can't make it to the hospital.",
+            "translated": "~z~Jacob，抱歉，兄弟，突然有点急事。我来不了医院了。",
+            "desc": ""
+        },
+        {
+            "hash": 2206338616,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2260846345,
+            "original": "~z~Yo star, me there at Outlook Park man, can you link me up man? Me need a ride.",
+            "translated": "~z~哟，哥们，我在Outlook Park，你能过来吗？我需要接送。",
+            "desc": ""
+        },
+        {
+            "hash": 2278912895,
+            "original": "~z~Niko, me hungry, man. You wanna get something fe eat?",
+            "translated": "~z~Niko，我饿了，兄弟。你想去吃点吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2282682262,
+            "original": "~z~It's alright, man. Just hit me up when you're free.",
+            "translated": "~z~也没事，兄弟。等你有空了就打给我。",
+            "desc": ""
+        },
+        {
+            "hash": 2310971526,
+            "original": "FCJ_ACT_GETCALL_VERYIRATE",
+            "translated": "FCJ_ACT_GETCALL_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 2322380380,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2338178445,
+            "original": "FCJ_ACT_GETCALL_DRINK_FIRST",
+            "translated": "FCJ_ACT_GETCALL_DRINK_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 2341653008,
+            "original": "~z~Sorry, Jacob - I'm busy right now. I can't at the moment.",
+            "translated": "~z~抱歉，Jacob，我现在很忙。没法子来。",
+            "desc": ""
+        },
+        {
+            "hash": 2344149283,
+            "original": "~z~No Jacob, I can't just now.",
+            "translated": "~z~不了，Jacob，我现在没空。",
+            "desc": ""
+        },
+        {
+            "hash": 2407428630,
+            "original": "~z~Yeah sure - I'll pick you up in the next sixty minutes.",
+            "translated": "~z~好啊，当然。我60分钟内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 2495523483,
+            "original": "~z~Why not? I'm bored as hell. I'll come over in the next hour.",
+            "translated": "~z~何不呢？我刚好很无聊。一小时内就到。",
+            "desc": ""
+        },
+        {
+            "hash": 2497820433,
+            "original": "~z~What? You too busy to help a friend?",
+            "translated": "~z~什么？你忙到连朋友都不能帮吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2500193808,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2514437417,
+            "original": "~z~Yo, Niko. Them have let me out of the hospital. Can you pick me up?",
+            "translated": "~z~哟，Niko。他们同意我出院了，你能来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2559354747,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2563026435,
+            "original": "FCJ_ACT_GETCALL_ACCEPT",
+            "translated": "FCJ_ACT_GETCALL_ACCEPT",
+            "desc": ""
+        },
+        {
+            "hash": 2570996045,
+            "original": "FCJ_ACT_PLJ_GETCALL_SHOW_YES",
+            "translated": "FCJ_ACT_PLJ_GETCALL_SHOW_YES",
+            "desc": ""
+        },
+        {
+            "hash": 2583337528,
+            "original": "~z~Let's have a drink now, star.",
+            "translated": "~z~一起去干杯吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2629628207,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2632348495,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2647551366,
+            "original": "FCJ_ACT_GETCALL_GREET",
+            "translated": "FCJ_ACT_GETCALL_GREET",
+            "desc": ""
+        },
+        {
+            "hash": 2650650613,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2651418365,
+            "original": "~z~Sorry, man - I can't do that just now.",
+            "translated": "~z~抱歉，兄弟，我现在没空。",
+            "desc": ""
+        },
+        {
+            "hash": 2714584961,
+            "original": "FCJ_ACT_GETCALL_HOSP_REJ_MEDLIKE",
+            "translated": "FCJ_ACT_GETCALL_HOSP_REJ_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2734379923,
+            "original": "~z~A show? Yeah, why not? I'll come over and pick you up within the hour.",
+            "translated": "~z~表演？我一定来。一小时内我过来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 2753814962,
+            "original": "~z~Yo, Niko, I'm coming out today, man. Can you pick me up at the hospital?",
+            "translated": "~z~哟，Niko，今天我出院，兄弟。你能来医院接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2795982444,
+            "original": "~z~Sure - I'll come over in the next hour.",
+            "translated": "~z~当然，我一小时内就到。",
+            "desc": ""
+        },
+        {
+            "hash": 2876545100,
+            "original": "~z~Me down at East Hook, star, me need a ride, man. Can ya link me up?",
+            "translated": "~z~我在East Hook，哥们，需要接送，兄弟。你能帮我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2876890078,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2889432757,
+            "original": "~z~Let's go for a drink.",
+            "translated": "~z~一起去喝酒吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2900201732,
+            "original": "FCJ_ACT_GETCALL_DARTS",
+            "translated": "FCJ_ACT_GETCALL_DARTS",
+            "desc": ""
+        },
+        {
+            "hash": 2906525052,
+            "original": "~z~Niko, can you pick me up a' me house man, me need a lift?",
+            "translated": "~z~Niko，你能来我家接我吗，兄弟？我需要搭车。",
+            "desc": ""
+        },
+        {
+            "hash": 2912487904,
+            "original": "~z~Yo, Niko, me vexed when me nuh hear from you.",
+            "translated": "~z~哟，Niko，没有你的消息我很烦恼。",
+            "desc": ""
+        },
+        {
+            "hash": 2924985981,
+            "original": "FCJ_ACT_GETCALL_EAT",
+            "translated": "FCJ_ACT_GETCALL_EAT",
+            "desc": ""
+        },
+        {
+            "hash": 2938111814,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2950258349,
+            "original": "FCJ_ACT_GETCALL_LIFT_MEADOWS_PARK",
+            "translated": "FCJ_ACT_GETCALL_LIFT_MEADOWS_PARK",
+            "desc": ""
+        },
+        {
+            "hash": 2967751020,
+            "original": "~z~You got time for some food?",
+            "translated": "~z~有空一起吃顿饭吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2998183628,
+            "original": "~z~Yo, star, me down East Hook, man. Link up, star, me need a ride.",
+            "translated": "~z~哟，哥们，我在East Hook。快过来，我需要接送。",
+            "desc": ""
+        },
+        {
+            "hash": 2999067711,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3011714427,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3020382159,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3034999452,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3041995421,
+            "original": "~z~Yo, thanks, me breda.",
+            "translated": "~z~哟，谢了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3051612002,
+            "original": "FCJ_ACT_GETCALL_LIFT_HOME",
+            "translated": "FCJ_ACT_GETCALL_LIFT_HOME",
+            "desc": ""
+        },
+        {
+            "hash": 3052611898,
+            "original": "~z~Whappen rasta?",
+            "translated": "~z~你好吗好兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 3056411045,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3061408095,
+            "original": "~z~You wan' go see a show?",
+            "translated": "~z~你想去看表演吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3072787681,
+            "original": "FCJ_ACT_GETCALL_LIFT_DOWNTOWN",
+            "translated": "FCJ_ACT_GETCALL_LIFT_DOWNTOWN",
+            "desc": ""
+        },
+        {
+            "hash": 3077570049,
+            "original": "~z~Star, yeah, me down Firefly Projects, man, link up star, me need a ride.",
+            "translated": "~z~哥们，对，我在Firefly公屋社区。快过来兄弟，我需要接送。",
+            "desc": ""
+        },
+        {
+            "hash": 3077873035,
+            "original": "~z~Whappen to you, rasta? Are we spar today?",
+            "translated": "~z~你怎么了，兄弟？今天有空吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3097153601,
+            "original": "FCJ_ACT_PLJ_GETCALL_EAT_NO",
+            "translated": "FCJ_ACT_PLJ_GETCALL_EAT_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3103365122,
+            "original": "FCJ_ACT_GETCALL_DARTS_FIRST",
+            "translated": "FCJ_ACT_GETCALL_DARTS_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 3126768014,
+            "original": "FCJ_ACT_PLJ_GETCALL_SHOW_NO",
+            "translated": "FCJ_ACT_PLJ_GETCALL_SHOW_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3140022476,
+            "original": "FCJ_ACT_GETCALL_LIFT_FIREFLY_PROJECTS",
+            "translated": "FCJ_ACT_GETCALL_LIFT_FIREFLY_PROJECTS",
+            "desc": ""
+        },
+        {
+            "hash": 3147107242,
+            "original": "~z~Yo, me down at Cerveza Heights man, link me up.",
+            "translated": "~z~哟，我现在在Cerveza Heights。过来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 3171835428,
+            "original": "~z~Yo star, wha'gwan? Yeah, me down South Slopes man, yo, link up star, me need a ride.",
+            "translated": "~z~哟，兄弟，你好吗？我在South Slopes，兄弟，快过来，我要搭车。",
+            "desc": ""
+        },
+        {
+            "hash": 3232863917,
+            "original": "~z~Yo, me down at Beechwood, man. Link up, star, me need a ride.",
+            "translated": "~z~哟，我在Beechwood，兄弟。快过来，我需要接送。",
+            "desc": ""
+        },
+        {
+            "hash": 3272655701,
+            "original": "FCJ_ACT_GETCALL_LIFT_CERVESA_HEIGHTS",
+            "translated": "FCJ_ACT_GETCALL_LIFT_CERVESA_HEIGHTS",
+            "desc": ""
+        },
+        {
+            "hash": 3276418417,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 3314920214,
+            "original": "~z~I can't just now.",
+            "translated": "~z~我现在来不了。",
+            "desc": ""
+        },
+        {
+            "hash": 3325724554,
+            "original": "FCJ_ACT_CALL_HOSP_CANCEL_MEDLIKE",
+            "translated": "FCJ_ACT_CALL_HOSP_CANCEL_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3331174052,
+            "original": "FCJ_ACT_GETCALL_STRIP",
+            "translated": "FCJ_ACT_GETCALL_STRIP",
+            "desc": ""
+        },
+        {
+            "hash": 3337230822,
+            "original": "~z~Sure Jacob - I'm on my way - be there in an hour.",
+            "translated": "~z~当然，Jacob，我这就来。一小时内到。",
+            "desc": ""
+        },
+        {
+            "hash": 3340226090,
+            "original": "~z~One love, rasta.",
+            "translated": "~z~待会儿见，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3342366228,
+            "original": "~z~Yo, you want get some food?",
+            "translated": "~z~哟，你想去吃顿饭吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3365127207,
+            "original": "~z~Niko, can you pick me up in my yard man? Me need a lift.",
+            "translated": "~z~Niko，你能来我家接我吗。兄弟？我需要搭个车。",
+            "desc": ""
+        },
+        {
+            "hash": 3373060678,
+            "original": "~z~Sorry man, I can't do a show right now - I've got a problem I've got to deal with.",
+            "translated": "~z~抱歉，兄弟，我现在没空看表演。还有重要的事要忙。",
+            "desc": ""
+        },
+        {
+            "hash": 3416671477,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3444356452,
+            "original": "FCJ_ACT_PLJ_GETCALL_LIFT_NO",
+            "translated": "FCJ_ACT_PLJ_GETCALL_LIFT_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3465949814,
+            "original": "~z~Yo me down a' Beechwood City, man, come pick me up.",
+            "translated": "~z~哟，我在Beechwood City，过来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 3479298542,
+            "original": "FCJ_ACT_PLJ_GETCALL_EAT_YES",
+            "translated": "FCJ_ACT_PLJ_GETCALL_EAT_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3492504020,
+            "original": "~z~Yo star, me Downtown star, me need a ride.",
+            "translated": "~z~哟，兄弟，我在中心区，需要接送。",
+            "desc": ""
+        },
+        {
+            "hash": 3508479605,
+            "original": "~z~Me down a' East Island City star, link up right pronto.",
+            "translated": "~z~我现在在东岛城，哥们。快来接我，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3513375500,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3518037456,
+            "original": "~z~No problem, man. Me find someone else.",
+            "translated": "~z~没问题，兄弟。我会找别人的。",
+            "desc": ""
+        },
+        {
+            "hash": 3537860555,
+            "original": "~z~No problems, man. Me mek meself get home.",
+            "translated": "~z~没问题。我自己回去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3576419424,
+            "original": "~z~Me need a lift from Meadow Hills, come pick me up.",
+            "translated": "~z~我在Meadow Hills，需要搭便车，来接我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3598258902,
+            "original": "FCJ_ACT_GETCALL_POOL_FIRST",
+            "translated": "FCJ_ACT_GETCALL_POOL_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 3610648603,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3623440349,
+            "original": "~z~I'd enjoy that but I'm in the middle of something.",
+            "translated": "~z~我是很想来，但我现在有点忙。",
+            "desc": ""
+        },
+        {
+            "hash": 3628252709,
+            "original": "~z~Sure I'll come over and pick you up.",
+            "translated": "~z~好的，我会来接你的。",
+            "desc": ""
+        },
+        {
+            "hash": 3633302760,
+            "original": "FCJ_ACT_GETCALL_HOSP_ASK",
+            "translated": "FCJ_ACT_GETCALL_HOSP_ASK",
+            "desc": ""
+        },
+        {
+            "hash": 3634085193,
+            "original": "~z~Okay, no problem. I'll be there in an hour.",
+            "translated": "~z~好的，没问题。我一小时内就来。",
+            "desc": ""
+        },
+        {
+            "hash": 3679418059,
+            "original": "~z~No, Jacob, I can't do a show just now.",
+            "translated": "~z~不行，Jacob，我现在没空看表演。",
+            "desc": ""
+        },
+        {
+            "hash": 3694311531,
+            "original": "FCJ_ACT_GETCALL_LIFT_OUTLOOK_PARK",
+            "translated": "FCJ_ACT_GETCALL_LIFT_OUTLOOK_PARK",
+            "desc": ""
+        },
+        {
+            "hash": 3702131824,
+            "original": "~z~Darts? Sure. I'll pick you up in the next hour.",
+            "translated": "~z~飞镖？好啊。我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 3715961995,
+            "original": "~z~Yo, wa mek you such a selfish bloodclot, Niko?",
+            "translated": "~z~哟，你这逼怎么这么自私了，Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 3718272670,
+            "original": "FCJ_ACT_GETCALL_LIFT_EAST_HOOK",
+            "translated": "FCJ_ACT_GETCALL_LIFT_EAST_HOOK",
+            "desc": ""
+        },
+        {
+            "hash": 3722833611,
+            "original": "~z~Niko, me breda, me need a lift man, can you pick me up a' me house?",
+            "translated": "~z~Niko，兄弟，我需要搭个车，兄弟。你能来我家接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3723648965,
+            "original": "~z~Yo, me need a lift from Meadows Park.",
+            "translated": "~z~哟，我需要你来草地公园接我。",
+            "desc": ""
+        },
+        {
+            "hash": 3740923768,
+            "original": "~z~Yo star, wha'gwan, man? Me there at Outlook Park, man. Me need a ride yo.",
+            "translated": "~z~哟，哥们，你还好吗？我在Outlook Park，兄弟。我需要搭个车。",
+            "desc": ""
+        },
+        {
+            "hash": 3741197687,
+            "original": "~z~Yeah man, no problem, man - just call me when you're free.",
+            "translated": "~z~行吧，没问题，兄弟。有空一定联系啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3744492069,
+            "original": "FCJ_ACT_GETCALL_DRINK",
+            "translated": "FCJ_ACT_GETCALL_DRINK",
+            "desc": ""
+        },
+        {
+            "hash": 3820309409,
+            "original": "~z~Me down a' East Island City man, just pick me up, seen?",
+            "translated": "~z~我现在在东岛城，兄弟，来接我吧，懂？",
+            "desc": ""
+        },
+        {
+            "hash": 3829026761,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3831198399,
+            "original": "~z~Yo, I'm at Meadow Hills, me need a link man, ride up.",
+            "translated": "~z~哟，我在Meadow Hills，需要搭个车，麻烦你了。",
+            "desc": ""
+        },
+        {
+            "hash": 3915485206,
+            "original": "~z~Wha'gwan, me breda? It's me, Jacob.",
+            "translated": "~z~你好吗，兄弟？是我，Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 3917265327,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3934156581,
+            "original": "FCJ_ACT_GETCALL_LIFT_STEINWAY",
+            "translated": "FCJ_ACT_GETCALL_LIFT_STEINWAY",
+            "desc": ""
+        },
+        {
+            "hash": 3934812355,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3995800985,
+            "original": "~z~What mek it so long me no hear from you?",
+            "translated": "~z~你怎么一直不联系我？",
+            "desc": ""
+        },
+        {
+            "hash": 4001606958,
+            "original": "~z~Me down Willis, come pick me up.",
+            "translated": "~z~我在Willis，过来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 4041722368,
+            "original": "~z~Sure man - I'm on my way.",
+            "translated": "~z~当然，兄弟。我这就来。",
+            "desc": ""
+        },
+        {
+            "hash": 4042392932,
+            "original": "FCJ_ACT_GETCALL_LIFT_WILLIS",
+            "translated": "FCJ_ACT_GETCALL_LIFT_WILLIS",
+            "desc": ""
+        },
+        {
+            "hash": 4054387015,
+            "original": "FCJ_ACT_GETCALL_LIFT_ROTTERDAM_HILL",
+            "translated": "FCJ_ACT_GETCALL_LIFT_ROTTERDAM_HILL",
+            "desc": ""
+        },
+        {
+            "hash": 4054407106,
+            "original": "~z~Yes, me good friend, lets go a show.",
+            "translated": "~z~我说，好朋友，一起去看表演吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4065553957,
+            "original": "~z~Ah gwan about your bloodclot business then, boy.",
+            "translated": "~z~啊，滚去忙你的去吧，小子。",
+            "desc": ""
+        },
+        {
+            "hash": 4091224745,
+            "original": "FCJ_ACT_GETCALL_LIFT_BEACHWOOD_HILL",
+            "translated": "FCJ_ACT_GETCALL_LIFT_BEACHWOOD_HILL",
+            "desc": ""
+        },
+        {
+            "hash": 4132288003,
+            "original": "~z~Yo. Whappen to my friend, Niko?",
+            "translated": "~z~哟，我朋友这是怎么了，Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 4134966234,
+            "original": "~z~Yo, star. You wanna play some darts or something?",
+            "translated": "~z~哟，兄弟，你想来把飞镖啥的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4139163756,
+            "original": "~z~Niko, me breda, me need a favor man, can you pick me up a' me house?",
+            "translated": "~z~Niko，好兄弟，我需要你帮个忙。你能来我家接我一趟吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4145596575,
+            "original": "~z~No problem, man. Me find another way.",
+            "translated": "~z~没问题。我自己想办法吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4151161820,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4154677040,
+            "original": "~z~Star, me down Steinway man, me need a ride man, link up.",
+            "translated": "~z~兄弟，我在Steinway，需要搭个车，兄弟，快来。",
+            "desc": ""
+        },
+        {
+            "hash": 4159744886,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4179277946,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4184770075,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4202706854,
+            "original": "FCJ_ACT_GETCALL_HOSP_ACCEPT",
+            "translated": "FCJ_ACT_GETCALL_HOSP_ACCEPT",
+            "desc": ""
+        },
+        {
+            "hash": 4234161123,
+            "original": "~z~Star, me down a' Hove Beach man, link up man, me need a ride man, link up.",
+            "translated": "~z~哥们，我在Hove Beach，尽快过来兄弟，我需要你接我，兄弟，快。",
+            "desc": ""
+        },
+        {
+            "hash": 4238479915,
+            "original": "~z~Yo, I need a lift from the airport.",
+            "translated": "~z~哟，能来机场接我吗。",
+            "desc": ""
+        },
+        {
+            "hash": 4253759546,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4264819203,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4267003299,
+            "original": "FCJ_ACT_PLJ_GETCALL_DRINK_YES",
+            "translated": "FCJ_ACT_PLJ_GETCALL_DRINK_YES",
+            "desc": ""
+        }
+    ]
+}

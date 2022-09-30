@@ -1,0 +1,706 @@
+{
+    "F4AUD": [
+        {
+            "hash": 8259149,
+            "original": "F4_IA",
+            "translated": "F4_IA",
+            "desc": ""
+        },
+        {
+            "hash": 13882630,
+            "original": "~z~-Keep an eye on the fucking girl!~n~-How many times do I have to listen?",
+            "translated": "~z~－看好那该死的小娘们！~n~－还要我听多少次？",
+            "desc": ""
+        },
+        {
+            "hash": 30021639,
+            "original": "~z~Raise her well.",
+            "translated": "~z~待她不薄。",
+            "desc": ""
+        },
+        {
+            "hash": 62758770,
+            "original": "~z~-Find Dimitri for me.~n~-Okay.",
+            "translated": "~z~－给我去找Dimitri。~n~－好的。",
+            "desc": ""
+        },
+        {
+            "hash": 101820230,
+            "original": "~z~Niko Bellic.",
+            "translated": "~z~Niko Bellic。",
+            "desc": ""
+        },
+        {
+            "hash": 120234928,
+            "original": "~z~Let me ask you something. You know her?",
+            "translated": "~z~问你一件事，你认识她吗？",
+            "desc": ""
+        },
+        {
+            "hash": 140505668,
+            "original": "~z~Yo, try that again and I'll shove that tailpipe up your fuckin' ass.",
+            "translated": "~z~你，再跟着我就把排气管塞你丫屁眼里。",
+            "desc": ""
+        },
+        {
+            "hash": 155926193,
+            "original": "F4_HA",
+            "translated": "F4_HA",
+            "desc": ""
+        },
+        {
+            "hash": 316901007,
+            "original": "F4_CA",
+            "translated": "F4_CA",
+            "desc": ""
+        },
+        {
+            "hash": 326155992,
+            "original": "~z~But I don't accept my daughter turning into a whore.",
+            "translated": "~z~但我不能接受我的女儿去做鸡。",
+            "desc": ""
+        },
+        {
+            "hash": 343249116,
+            "original": "~z~I'm here for you.",
+            "translated": "~z~我在这等你",
+            "desc": ""
+        },
+        {
+            "hash": 375030016,
+            "original": "~z~Brothers, we've got to teach this commie asshole what it means to be Lost.",
+            "translated": "~z~弟兄们，我们要教这个共匪混蛋什么是失落帮。",
+            "desc": ""
+        },
+        {
+            "hash": 376730233,
+            "original": "~z~If my daughter goes blind from some S.T.D. then I am holding you accountable, Niko Bellic.",
+            "translated": "~z~要是我女儿因为什么性病失明，我就拿你是问，Niko Bellic。",
+            "desc": ""
+        },
+        {
+            "hash": 387996296,
+            "original": "F4_GB",
+            "translated": "F4_GB",
+            "desc": ""
+        },
+        {
+            "hash": 427398271,
+            "original": "~z~Hey, we're gonna beat your ass then I'm gonna go back and fuck that Russian broad and her momma.",
+            "translated": "~z~嘿，待会儿先揍死你丫，我再回去操那个俄罗斯贱人和她老妈。",
+            "desc": ""
+        },
+        {
+            "hash": 432604912,
+            "original": "~z~-You're a terrible man! ~n~-You superstitious old crone. I'll see you in hell.",
+            "translated": "~z~－你这人坏透了！~n~－迷信的老太婆，我们地狱再见。",
+            "desc": ""
+        },
+        {
+            "hash": 436294137,
+            "original": "~z~I'm gonna get the brothers, and we're gonna kick your fucking ass.",
+            "translated": "~z~我要去找弟兄们，然后一起暴揍你丫的。",
+            "desc": ""
+        },
+        {
+            "hash": 599645398,
+            "original": "~z~I'm sorry to hear that.",
+            "translated": "~z~对此我很遗憾。",
+            "desc": ""
+        },
+        {
+            "hash": 609397297,
+            "original": "~z~Stay outta this, man.",
+            "translated": "~z~别管这事，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 629644905,
+            "original": "~z~-Hey. Stand over here.~n~-I'm out making money all day.",
+            "translated": "~z~－嘿，站到这里来。~n~－我整天都在外面挣钱。",
+            "desc": ""
+        },
+        {
+            "hash": 632349528,
+            "original": "~z~Because of you, you pathetic mess.",
+            "translated": "~z~都怪你，可悲的烂摊子。",
+            "desc": ""
+        },
+        {
+            "hash": 641283171,
+            "original": "~z~You won't need to wait much longer.",
+            "translated": "~z~你不会等太久的",
+            "desc": ""
+        },
+        {
+            "hash": 688378640,
+            "original": "~z~Screw you, you petty hood!",
+            "translated": "~z~去你妈的，你个菜鸡混混！",
+            "desc": ""
+        },
+        {
+            "hash": 688383850,
+            "original": "~z~I'm fucking angry.",
+            "translated": "~z~老子很气。",
+            "desc": ""
+        },
+        {
+            "hash": 704212757,
+            "original": "~z~Me and this guy we were in the army together, we were in prison together,",
+            "translated": "~z~我跟这家伙待过一个军队，蹲过一间监狱，",
+            "desc": ""
+        },
+        {
+            "hash": 748727692,
+            "original": "~z~Hey, let's mess this commie asshole up. He fucked with me, he fucked with all the Lost.",
+            "translated": "~z~嘿，咱们干烂这个共匪混蛋。他惹我，就是惹了整个失落摩托帮。",
+            "desc": ""
+        },
+        {
+            "hash": 789950853,
+            "original": "~z~-I don't see why it's such a problem.~n~-I tell you. I want you to keep an eye on her.",
+            "translated": "~z~－我是不明白这怎么就成问题了。~n~－我跟你说，我要你看好她。",
+            "desc": ""
+        },
+        {
+            "hash": 833271728,
+            "original": "~z~This fuckin' douchebag thinks he can tell a member of the Lost who he can and can't fuck. Let's fuck him up.",
+            "translated": "~z~这个狗逼混蛋以为他可以对失落摩托帮的人指手画脚，咱们干烂他。",
+            "desc": ""
+        },
+        {
+            "hash": 853290733,
+            "original": "~z~I don't care about her happiness. I care about discipline and loyalty. Thank you, Niko.",
+            "translated": "~z~我不在乎她高不高兴，我只关心纪律和忠诚。谢谢你，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 872954734,
+            "original": "~z~~c~Your God doesn't give a damn about you! Just like everyone else.~s~",
+            "translated": "~z~~c~你的上帝根本就不在乎你！没人在乎你。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 883593124,
+            "original": "~z~Mikhail, I have bad news. Your daughter... she was hurt.",
+            "translated": "~z~Mikhail，我有个坏消息，你女儿她...她受伤了",
+            "desc": ""
+        },
+        {
+            "hash": 914181766,
+            "original": "~z~We're gonna teach you a lesson for getting into other people's business.",
+            "translated": "~z~你这么多管闲事，我们要给你点教训。",
+            "desc": ""
+        },
+        {
+            "hash": 917782726,
+            "original": "~z~~c~-Have your prayers been answered?~s~~n~-Oh my God.",
+            "translated": "~z~~c~－你的祈祷有灵过吗？~s~~n~－哦，我的上帝！",
+            "desc": ""
+        },
+        {
+            "hash": 923325954,
+            "original": "~z~These people will wish they did not take you, Roman.",
+            "translated": "~z~这些人会后悔绑架你的，Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 934178909,
+            "original": "~z~Fine, kill me. I am dead without Jason anyway.",
+            "translated": "~z~好，杀了我吧。没有Jason我跟死了也没两样。",
+            "desc": ""
+        },
+        {
+            "hash": 994729609,
+            "original": "~z~Hang in there, Roman.",
+            "translated": "~z~坚持住，Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 1009781934,
+            "original": "~z~Look at this. Look.",
+            "translated": "~z~看看这里，看。",
+            "desc": ""
+        },
+        {
+            "hash": 1024333842,
+            "original": "~z~Fuck you, this ain't Russia and we ain't communists.",
+            "translated": "~z~操你妈的，这里不是俄国，我们也不是共产主义者。",
+            "desc": ""
+        },
+        {
+            "hash": 1053116091,
+            "original": "~z~I've killed the biker. I don't know how happy your daughter will be.",
+            "translated": "~z~我做掉了那个飞车党，我不知道你女儿会有多高兴。",
+            "desc": ""
+        },
+        {
+            "hash": 1087118766,
+            "original": "~z~My father cannot control who I see. Me and Jason are together no matter what. This is love.",
+            "translated": "~z~我父亲不能决定我约谁，我和Jason无论如何都要在一起，这就是爱。",
+            "desc": ""
+        },
+        {
+            "hash": 1216799851,
+            "original": "~z~~c~-God! God!~s~~n~-Fucking girl! She's your daughter!",
+            "translated": "~z~~c~－上帝啊！上帝！~s~~n~－「该死的娘们」？她可是你女儿！",
+            "desc": ""
+        },
+        {
+            "hash": 1242502462,
+            "original": "~z~If you're going to hurt Jason, you should hurt me too.",
+            "translated": "~z~你要是想伤害Jason，先把我也伤害了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1253309784,
+            "original": "~z~Cousin, they will pay for taking you.",
+            "translated": "~z~堂兄，他们会为绑你付出代价。",
+            "desc": ""
+        },
+        {
+            "hash": 1293627280,
+            "original": "~z~Always something...",
+            "translated": "~z~总是有事...",
+            "desc": ""
+        },
+        {
+            "hash": 1298018990,
+            "original": "~z~kill him.",
+            "translated": "~z~做掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 1308613931,
+            "original": "012",
+            "translated": "012",
+            "desc": ""
+        },
+        {
+            "hash": 1347892520,
+            "original": "~z~No.",
+            "translated": "~z~不。",
+            "desc": ""
+        },
+        {
+            "hash": 1393148213,
+            "original": "~z~He's busy, er...",
+            "translated": "~z~他在忙，呃...",
+            "desc": ""
+        },
+        {
+            "hash": 1502857077,
+            "original": "~z~I bring her here. I spoil her rotten.",
+            "translated": "~z~我带她来的，我非常宠她。",
+            "desc": ""
+        },
+        {
+            "hash": 1542011122,
+            "original": "~z~My father is Mikhail Faustin! You can't hurt your boss's daughter.",
+            "translated": "~z~我父亲是Mikhail Faustin！你不能伤害你老板的女儿。",
+            "desc": ""
+        },
+        {
+            "hash": 1549653201,
+            "original": "~z~Jason's a nice boy. Stay away from him. Stay away from him.",
+            "translated": "~z~Jason是个好男孩。别动他，别动他。",
+            "desc": ""
+        },
+        {
+            "hash": 1595135513,
+            "original": "~z~If she's meeting up with that biker pimp boyfriend...",
+            "translated": "~z~如果她和那个摩托皮条客男友在一起...",
+            "desc": ""
+        },
+        {
+            "hash": 1597941365,
+            "original": "~z~You pain is over, cousin. I'm coming.",
+            "translated": "~z~你的苦难结束了，堂兄，我来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1690694018,
+            "original": "F4_FA",
+            "translated": "F4_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1718509866,
+            "original": "~z~Look what I've given her!",
+            "translated": "~z~看看我都给了她什么！",
+            "desc": ""
+        },
+        {
+            "hash": 1831794071,
+            "original": "~z~Someday I'll crucify you...",
+            "translated": "~z~我早晚把你钉死在十字架上...",
+            "desc": ""
+        },
+        {
+            "hash": 1838341189,
+            "original": "~z~You wouldn't dare. I'm Anna Faustin.",
+            "translated": "~z~你不敢的，我是Anna Faustin。",
+            "desc": ""
+        },
+        {
+            "hash": 1855191357,
+            "original": "~z~My stupid father thinks he is still in Russia. In America I can see who I like.",
+            "translated": "~z~我的白痴父亲当这儿是俄罗斯，但在美国我爱约谁约谁。",
+            "desc": ""
+        },
+        {
+            "hash": 1856538067,
+            "original": "F4_GA",
+            "translated": "F4_GA",
+            "desc": ""
+        },
+        {
+            "hash": 1867578519,
+            "original": "~z~Tell my father I can see whoever I like.",
+            "translated": "~z~告诉我父亲，我爱约谁约谁。",
+            "desc": ""
+        },
+        {
+            "hash": 1908735659,
+            "original": "~z~Where is Dimitri?",
+            "translated": "~z~Dimitri去哪了？",
+            "desc": ""
+        },
+        {
+            "hash": 1911552977,
+            "original": "~z~-Have him call me.~n~-Sure.",
+            "translated": "~z~－让他给我打电话。~n~－是的。",
+            "desc": ""
+        },
+        {
+            "hash": 1933378671,
+            "original": "~z~Get away from Mr. Faustin's daughter.",
+            "translated": "~z~离Faustin先生的女儿远点！",
+            "desc": ""
+        },
+        {
+            "hash": 1946583882,
+            "original": "~z~Now it's always something...",
+            "translated": "~z~现在他总是有事...",
+            "desc": ""
+        },
+        {
+            "hash": 2019243469,
+            "original": "101",
+            "translated": "101",
+            "desc": ""
+        },
+        {
+            "hash": 2070646476,
+            "original": "~z~She is. She's an out of control bitch.",
+            "translated": "~z~确实。现在她是个失控的婊子。",
+            "desc": ""
+        },
+        {
+            "hash": 2171510994,
+            "original": "~z~I want you all to myself.",
+            "translated": "~z~我想让你成为我的私产。",
+            "desc": ""
+        },
+        {
+            "hash": 2212273202,
+            "original": "~z~Good.",
+            "translated": "~z~好。",
+            "desc": ""
+        },
+        {
+            "hash": 2244293080,
+            "original": "~z~That fucking biker.",
+            "translated": "~z~那个狗逼摩托客。",
+            "desc": ""
+        },
+        {
+            "hash": 2302060855,
+            "original": "F4_JA",
+            "translated": "F4_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2316349494,
+            "original": "~z~Don't you hurt Jason. Don't hurt him. You stupid thug, you stupid gangster.",
+            "translated": "~z~你别伤害Jason，不要伤害他。你个蠢蛋流氓，你个白痴黑道。",
+            "desc": ""
+        },
+        {
+            "hash": 2323317664,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2357539068,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 2408625274,
+            "original": "~z~Always something, yes... you want a drink?",
+            "translated": "~z~总是有事，对...要喝一杯吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2473737053,
+            "original": "~z~She's my daughter. Ungrateful bitch.",
+            "translated": "~z~她是我女儿，忘恩负义的婊子。",
+            "desc": ""
+        },
+        {
+            "hash": 2480390048,
+            "original": "~z~-Go.~n~-Alright.",
+            "translated": "~z~－去。~n~－好的。",
+            "desc": ""
+        },
+        {
+            "hash": 2518600953,
+            "original": "F4_BA",
+            "translated": "F4_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2541737293,
+            "original": "~z~I knew he was filth from the moment I heard of him. I must tell my wife.",
+            "translated": "~z~我刚听说他就知道他是个下流的人，我必须告诉我妻子。",
+            "desc": ""
+        },
+        {
+            "hash": 2544880980,
+            "original": "~z~Ha... if you were property then all the brothers would get to share you.",
+            "translated": "~z~哈...如果你是帮会财产，那弟兄们都要来共用你了。",
+            "desc": ""
+        },
+        {
+            "hash": 2589575424,
+            "original": "~z~Yeah, yeah... she's, uh, very lucky to have such a loving father...",
+            "translated": "~z~是，是...她，呃，有这么爱她的父亲是她的福气。",
+            "desc": ""
+        },
+        {
+            "hash": 2689507875,
+            "original": "~z~Hey, you know who you're fucking with? The whole Lost biker gang.",
+            "translated": "~z~嘿，你丫知道你惹的是谁吗？整个失落摩托帮。",
+            "desc": ""
+        },
+        {
+            "hash": 2783603145,
+            "original": "~z~Am I property of the Lost now?",
+            "translated": "~z~现在我是失落帮的财产了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2848123102,
+            "original": "~z~No, thank you.",
+            "translated": "~z~不了，谢谢。",
+            "desc": ""
+        },
+        {
+            "hash": 2928079238,
+            "original": "~z~Because if you did, I'd fucking kill you.",
+            "translated": "~z~你要是认识她，老子就宰了你。",
+            "desc": ""
+        },
+        {
+            "hash": 2943893622,
+            "original": "~z~Hey, you want the whole fuckin' gang coming down on you, man?",
+            "translated": "~z~嘿，你他妈是想让全帮人都来追杀你吗，伙计？",
+            "desc": ""
+        },
+        {
+            "hash": 3069248986,
+            "original": "~z~Go there.",
+            "translated": "~z~到那儿去。",
+            "desc": ""
+        },
+        {
+            "hash": 3072322198,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 3083248582,
+            "original": "010100100010",
+            "translated": "010100100010",
+            "desc": ""
+        },
+        {
+            "hash": 3113367734,
+            "original": "~z~That biker got away, I'm sorry.",
+            "translated": "~z~那个飞车党跑了，我很抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 3205011765,
+            "original": "~z~he said he had something to do.",
+            "translated": "~z~他说他还有事情要做。",
+            "desc": ""
+        },
+        {
+            "hash": 3219166493,
+            "original": "~z~No!",
+            "translated": "~z~不！",
+            "desc": ""
+        },
+        {
+            "hash": 3250316541,
+            "original": "~z~You ain't gonna know what the fuck hit you, pal.",
+            "translated": "~z~你丫等会儿死都不知道咋死的，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 3336743393,
+            "original": "~z~I hate my father. I hate him. I hate him.",
+            "translated": "~z~我恨透了我父亲。我恨他，我恨他。",
+            "desc": ""
+        },
+        {
+            "hash": 3349832372,
+            "original": "~z~-I told you where she is.~n~-Where is she?",
+            "translated": "~z~－我告诉过你她在哪儿的。~n~－她在哪儿？",
+            "desc": ""
+        },
+        {
+            "hash": 3375213139,
+            "original": "~z~Niko, she's at Firefly Island.",
+            "translated": "~z~Niko，她现在在Firefly Island。",
+            "desc": ""
+        },
+        {
+            "hash": 3378034774,
+            "original": "F4_FC",
+            "translated": "F4_FC",
+            "desc": ""
+        },
+        {
+            "hash": 3433149543,
+            "original": "~z~we are like brothers.",
+            "translated": "~z~我俩情同手足。",
+            "desc": ""
+        },
+        {
+            "hash": 3436022640,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 3450417326,
+            "original": "~z~Mr. Faustin?",
+            "translated": "~z~Faustin先生？",
+            "desc": ""
+        },
+        {
+            "hash": 3532228248,
+            "original": "~z~My boy Johnny's gonna fuck you up.",
+            "translated": "~z~我哥们Johnny会干翻你的。",
+            "desc": ""
+        },
+        {
+            "hash": 3670182116,
+            "original": "~z~-Why are you being like this again?~n~-How many times do I have to tell you?",
+            "translated": "~z~－你怎么又这样了？~n~－要我跟你说几次？",
+            "desc": ""
+        },
+        {
+            "hash": 3722432795,
+            "original": "~z~-You alright?~n~-What?",
+            "translated": "~z~－你没事吧？~n~－啥？",
+            "desc": ""
+        },
+        {
+            "hash": 3726713912,
+            "original": "~z~You will be free soon, Roman.",
+            "translated": "~z~很快你就能自由了，Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 3740986834,
+            "original": "F4_GC",
+            "translated": "F4_GC",
+            "desc": ""
+        },
+        {
+            "hash": 3847355974,
+            "original": "F4_KA",
+            "translated": "F4_KA",
+            "desc": ""
+        },
+        {
+            "hash": 3903624938,
+            "original": "~z~You fucking better be.",
+            "translated": "~z~你丫最好是抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 3903891459,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 3911547031,
+            "original": "~z~The biker, yes, he's a dead man. I will come to see you soon.",
+            "translated": "~z~飞车党，对，他已经死了，我很快就会来找你。",
+            "desc": ""
+        },
+        {
+            "hash": 3921799167,
+            "original": "~z~Why?",
+            "translated": "~z~为什么？",
+            "desc": ""
+        },
+        {
+            "hash": 4033235138,
+            "original": "~z~I'm coming, cousin.",
+            "translated": "~z~我来了，堂兄。",
+            "desc": ""
+        },
+        {
+            "hash": 4048453056,
+            "original": "~z~Something? Something? Let me tell you something.",
+            "translated": "~z~事情？事情？我倒要跟你讲点事情。",
+            "desc": ""
+        },
+        {
+            "hash": 4102338914,
+            "original": "F4_CB",
+            "translated": "F4_CB",
+            "desc": ""
+        },
+        {
+            "hash": 4104978101,
+            "original": "~z~Well, I do.",
+            "translated": "~z~好吧，我来一杯。",
+            "desc": ""
+        },
+        {
+            "hash": 4167797754,
+            "original": "~z~Yes. Good name. Good name...",
+            "translated": "~z~不错，好名字，好名字...",
+            "desc": ""
+        },
+        {
+            "hash": 4199486898,
+            "original": "F4_GD",
+            "translated": "F4_GD",
+            "desc": ""
+        },
+        {
+            "hash": 4241087256,
+            "original": "~z~Me and the brothers are gonna fuckin' rape you, man.",
+            "translated": "~z~我和弟兄们他妈要操翻你，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 4278002350,
+            "original": "F4_FB",
+            "translated": "F4_FB",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "ROMBLIP": [
+        {
+            "hash": 531268711,
+            "original": "The flashing ~BLIP_27~ on the radar shows where to meet Roman.",
+            "translated": "小地图上闪烁的~BLIP_27~表示与Roman碰面的地点。",
+            "desc": ""
+        },
+        {
+            "hash": 1308647698,
+            "original": "Go see Roman when the ~BLIP_27~ is on display.",
+            "translated": "当地图上出现~BLIP_27~时去找Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 1952127525,
+            "original": "Sleeping on the bed will save the game and advance time by six hours.",
+            "translated": "上床睡觉会保存游戏进度，并将时间推进6个小时。",
+            "desc": ""
+        },
+        {
+            "hash": 2637128983,
+            "original": "Go see Roman.",
+            "translated": "去找Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 2827323132,
+            "original": "The flashing ~BLIP_29~ on the radar shows the entrance to this apartment. You can save the game here.",
+            "translated": "小地图上闪烁的~BLIP_29~表示这间公寓的入口。你可以在这里保存游戏进度。",
+            "desc": ""
+        }
+    ]
+}

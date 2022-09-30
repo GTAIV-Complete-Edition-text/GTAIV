@@ -1,0 +1,88 @@
+{
+    "RAY3": [
+        {
+            "hash": 650545408,
+            "original": "~s~Take out ~r~Luca.",
+            "translated": "~s~干掉~r~Luca。",
+            "desc": ""
+        },
+        {
+            "hash": 947268703,
+            "original": "~s~Luca is hiding in the toilets. Flush him out.~s~",
+            "translated": "~s~Luca藏在厕所里。干掉他。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1016066334,
+            "original": "~r~Luca's gang got away.",
+            "translated": "~r~Luca一伙逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 1051179106,
+            "original": "~s~The ~r~gang~s~ have escaped into the park. Take them down.",
+            "translated": "~r~Luca一伙~s~逃进了公园。干掉他们。",
+            "desc": ""
+        },
+        {
+            "hash": 1300747906,
+            "original": "~s~Go meet Ray on the ~y~bridge.",
+            "translated": "~s~去~y~桥~s~上等Ray。",
+            "desc": ""
+        },
+        {
+            "hash": 1765631720,
+            "original": "~s~Shoot the doors to break them open.",
+            "translated": "~s~把门射开。",
+            "desc": ""
+        },
+        {
+            "hash": 2025630859,
+            "original": "~s~Chase after ~r~Luca's gang.~s~ You need Luca alive to get the diamonds back.",
+            "translated": "~s~追逐~r~Luca一伙。~s~只有Luca活着你才能拿回钻石。",
+            "desc": ""
+        },
+        {
+            "hash": 2193408235,
+            "original": "~s~Luca is hiding in the ~y~toilets.~s~ Flush him out.~s~",
+            "translated": "~s~Luca藏在~y~厕所~s~里。干掉他。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2372031958,
+            "original": "~s~Find a car to drive.~s~",
+            "translated": "~s~找一辆车开。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2616980233,
+            "original": "~s~Go to ~y~Castle Garden City.",
+            "translated": "~s~前往~y~Castle Garden City。",
+            "desc": ""
+        },
+        {
+            "hash": 3470628283,
+            "original": "~r~Luca is dead. The diamonds were lost.",
+            "translated": "~r~Luca死了。钻石丢了。",
+            "desc": ""
+        },
+        {
+            "hash": 3760896085,
+            "original": "~r~Luca got away.",
+            "translated": "~r~Luca逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 3814512234,
+            "original": "~s~You did it Niko, you got rid of the mouchers, just me and you now, I have the ice on me, 50 / 50.",
+            "translated": "~s~牛逼啊Niko，你把那些多余的家伙全干掉了，现在就剩你和我了，钻石在我这，我们五五分吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4223546096,
+            "original": "~s~Pick up the ~g~diamonds.",
+            "translated": "~s~捡起~g~钻石。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "ROMA10P": [
+        {
+            "hash": 42712623,
+            "original": "~s~Go pick up the ~b~Feltzer~s~ from ~a~.",
+            "translated": "~s~去~a~取~b~Feltzer。",
+            "desc": ""
+        },
+        {
+            "hash": 101563835,
+            "original": "~s~Go pick up the ~b~PMP600~s~ from ~a~.",
+            "translated": "~s~去~a~取~b~PMP600。",
+            "desc": ""
+        },
+        {
+            "hash": 409167464,
+            "original": "Firefly Projects",
+            "translated": "Firefly公屋社区",
+            "desc": ""
+        },
+        {
+            "hash": 426079650,
+            "original": "~r~The car is too damaged to deliver to Brucie.~s~",
+            "translated": "~r~这辆车损坏过于严重，无法交付给Brucie。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 743738383,
+            "original": "Chase Point",
+            "translated": "Chase Point",
+            "desc": ""
+        },
+        {
+            "hash": 771433530,
+            "original": "Meadows Park",
+            "translated": "草地公园",
+            "desc": ""
+        },
+        {
+            "hash": 843484657,
+            "original": "~s~Go pick up the ~b~NRG900~s~ from ~a~.",
+            "translated": "~s~去~a~取~b~NRG900。",
+            "desc": ""
+        },
+        {
+            "hash": 1020040489,
+            "original": "~s~Here comes the Owner.",
+            "translated": "~s~车主来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1100088661,
+            "original": "~s~Leave the car and exit Brucie's lockup.",
+            "translated": "~s~下车，离开Brucie的车库。",
+            "desc": ""
+        },
+        {
+            "hash": 1160629422,
+            "original": "BOABO",
+            "translated": "BOABO",
+            "desc": ""
+        },
+        {
+            "hash": 1210781391,
+            "original": "~s~Take the car to ~y~Brucie's lockup.",
+            "translated": "~s~把车开到~y~Brucie的车库。",
+            "desc": ""
+        },
+        {
+            "hash": 1336058230,
+            "original": "~s~Get off the bike and exit Brucie's lockup.",
+            "translated": "~s~下车，离开Brucie的车库。",
+            "desc": ""
+        },
+        {
+            "hash": 1359093885,
+            "original": "~s~Take the bike to ~y~Brucie's lockup.",
+            "translated": "~s~把车骑到~y~Brucie的车库。",
+            "desc": ""
+        },
+        {
+            "hash": 1370373232,
+            "original": "Meadow Hills",
+            "translated": "Meadow Hills",
+            "desc": ""
+        },
+        {
+            "hash": 1525628761,
+            "original": "~s~Get on the ~b~bike.",
+            "translated": "~s~骑上~b~摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 1563902032,
+            "original": "~r~The bike has been lost.~s~",
+            "translated": "~r~你跟丢了目标摩托。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1592508926,
+            "original": "~s~Go pick up the ~b~PCJ600~s~ from ~a~.",
+            "translated": "~s~去~a~取~b~PCJ600。",
+            "desc": ""
+        },
+        {
+            "hash": 1693093838,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1873659153,
+            "original": "~s~Go pick up the ~b~Sanchez~s~ from ~a~.",
+            "translated": "~s~去~a~取~b~Sanchez.",
+            "desc": ""
+        },
+        {
+            "hash": 1877812775,
+            "original": "The bike is locked.",
+            "translated": "摩托车上锁了。",
+            "desc": ""
+        },
+        {
+            "hash": 2298973089,
+            "original": "Cerveza Heights",
+            "translated": "Cerveza Heights",
+            "desc": ""
+        },
+        {
+            "hash": 2344395595,
+            "original": "The bike has been unlocked.",
+            "translated": "摩托车锁开了。",
+            "desc": ""
+        },
+        {
+            "hash": 2367737000,
+            "original": "Press ~PAD_X~ to focus on the bike.",
+            "translated": "按~PAD_X~将镜头对准目标摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 2413963586,
+            "original": "~s~Get in the ~b~car.",
+            "translated": "~s~上~b~车。",
+            "desc": ""
+        },
+        {
+            "hash": 2608071198,
+            "original": "You can take the vehicle to a Pay 'n' Spray to get it fixed.",
+            "translated": "你可以将载具开到喷漆店进行维修。",
+            "desc": ""
+        },
+        {
+            "hash": 2639736896,
+            "original": "~s~Park the car in ~y~Brucie's lockup.",
+            "translated": "~s~把车停进~y~Brucie的车库。",
+            "desc": ""
+        },
+        {
+            "hash": 2679761806,
+            "original": "~r~The car has been lost.~s~",
+            "translated": "~r~你跟丢了目标车辆。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2807611504,
+            "original": "Outlook",
+            "translated": "Outlook",
+            "desc": ""
+        },
+        {
+            "hash": 3117218221,
+            "original": "~s~Go pick up the ~b~Banshee~s~ from ~a~.",
+            "translated": "~s~去~a~取~b~Banshee。",
+            "desc": ""
+        },
+        {
+            "hash": 3177329254,
+            "original": "Schottler",
+            "translated": "Schottler",
+            "desc": ""
+        },
+        {
+            "hash": 3268135907,
+            "original": "The car door is locked.",
+            "translated": "车门锁住了。",
+            "desc": ""
+        },
+        {
+            "hash": 3453609705,
+            "original": "The more damaged a vehicle is, the less money you will receive on delivery",
+            "translated": "车辆损坏越严重，你这趟的收入就越少。",
+            "desc": ""
+        },
+        {
+            "hash": 3483580615,
+            "original": "~r~The bike is too damaged to deliver to Brucie.~s~",
+            "translated": "~r~这台摩托损坏过于严重，无法交付给Brucie。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3484306019,
+            "original": "Beechwood City",
+            "translated": "Beechwood City",
+            "desc": ""
+        },
+        {
+            "hash": 3693201053,
+            "original": "~s~Park the bike in ~y~Brucie's lockup.",
+            "translated": "~s~把车停进~y~Brucie的车库。",
+            "desc": ""
+        },
+        {
+            "hash": 3723347884,
+            "original": "The car door has been unlocked.",
+            "translated": "车门锁开了。",
+            "desc": ""
+        },
+        {
+            "hash": 3762254584,
+            "original": "Press ~PAD_X~ to focus on the car.",
+            "translated": "按~PAD_X~将镜头对准目标车辆。",
+            "desc": ""
+        },
+        {
+            "hash": 3840083962,
+            "original": "Goathead",
+            "translated": "Goathead",
+            "desc": ""
+        },
+        {
+            "hash": 3869553087,
+            "original": "~s~Go pick up the ~b~Patriot~s~ from ~a~.",
+            "translated": "~s~去~a~取~b~Patriot。",
+            "desc": ""
+        },
+        {
+            "hash": 4025144872,
+            "original": "~s~Go pick up the ~b~Cavalcade~s~ from ~a~.",
+            "translated": "~s~去~a~取~b~Cavalcade。",
+            "desc": ""
+        },
+        {
+            "hash": 4171969948,
+            "original": "~s~Go pick up the ~b~Intruder~s~ from ~a~.",
+            "translated": "~s~去~a~取~b~Intruder。",
+            "desc": ""
+        },
+        {
+            "hash": 4188420948,
+            "original": "~s~Go pick up the ~b~Sabre GT~s~ from ~a~.",
+            "translated": "~s~去~a~取~b~Sabre GT。",
+            "desc": ""
+        }
+    ]
+}

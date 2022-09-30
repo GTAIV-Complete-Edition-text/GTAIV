@@ -1,0 +1,880 @@
+{
+    "V1AUD": [
+        {
+            "hash": 20040244,
+            "original": "V1_AD",
+            "translated": "V1_AD",
+            "desc": ""
+        },
+        {
+            "hash": 61139448,
+            "original": "~z~That it? Can I go now?",
+            "translated": "~z~就这？我能走了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 157247329,
+            "original": "200200200200200200200200",
+            "translated": "200200200200200200200200",
+            "desc": ""
+        },
+        {
+            "hash": 220611679,
+            "original": "~z~Smash, smash, smash. You boring me.",
+            "translated": "~z~砸吧，砸吧，砸吧。真是无聊。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 223388219,
+            "original": "~z~I thought you were protecting me now?",
+            "translated": "~z~我还以为你有在保护我。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 235030934,
+            "original": "~z~People who fuck with me get fucked with!",
+            "translated": "~z~敢搞老子的早晚被搞！",
+            "desc": ""
+        },
+        {
+            "hash": 302083315,
+            "original": "V1_AA",
+            "translated": "V1_AA",
+            "desc": ""
+        },
+        {
+            "hash": 321550441,
+            "original": "V1_LA",
+            "translated": "V1_LA",
+            "desc": ""
+        },
+        {
+            "hash": 378918741,
+            "original": "~z~Don't hurt him.",
+            "translated": "~z~别伤着他。",
+            "desc": ""
+        },
+        {
+            "hash": 390623568,
+            "original": "V1_BC",
+            "translated": "V1_BC",
+            "desc": ""
+        },
+        {
+            "hash": 391869058,
+            "original": "~z~Here's your money. I hope you and Vlad choke on it.",
+            "translated": "~z~钱拿去。祝你和Vlad被钱噎死。",
+            "desc": ""
+        },
+        {
+            "hash": 397925927,
+            "original": "020020200020",
+            "translated": "020020200020",
+            "desc": ""
+        },
+        {
+            "hash": 411904797,
+            "original": "V1_IA",
+            "translated": "V1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 453255196,
+            "original": "V1_KA",
+            "translated": "V1_KA",
+            "desc": ""
+        },
+        {
+            "hash": 458219698,
+            "original": "~z~Your arm starting to hurt already? I get tired just watching you.",
+            "translated": "~z~手酸了没？我光看着都觉得累。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 471990408,
+            "original": "~z~Big Vlad and his protection money, I so scared. What I need protection from?",
+            "translated": "~z~Vlad大佬和他的保护费，好怕怕哦。我这儿要什么保护？",
+            "desc": ""
+        },
+        {
+            "hash": 506432970,
+            "original": "V1_BB",
+            "translated": "V1_BB",
+            "desc": ""
+        },
+        {
+            "hash": 514606066,
+            "original": "V1_AB",
+            "translated": "V1_AB",
+            "desc": ""
+        },
+        {
+            "hash": 517899712,
+            "original": "V1_HC",
+            "translated": "V1_HC",
+            "desc": ""
+        },
+        {
+            "hash": 559643078,
+            "original": "~z~-Hey! Watch where you're going.~n~-Hey!",
+            "translated": "~z~－喂！当心后面。~n~－嘿！",
+            "desc": ""
+        },
+        {
+            "hash": 600035097,
+            "original": "~z~What are you doing? I pay you already.",
+            "translated": "~z~你还干嘛？钱都给你了。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 618165210,
+            "original": "~z~Here you go...",
+            "translated": "~z~拿上这个...",
+            "desc": ""
+        },
+        {
+            "hash": 649588516,
+            "original": "V1_CE",
+            "translated": "V1_CE",
+            "desc": ""
+        },
+        {
+            "hash": 649599251,
+            "original": "V1_HB",
+            "translated": "V1_HB",
+            "desc": ""
+        },
+        {
+            "hash": 684593875,
+            "original": "~z~Come to the bar.",
+            "translated": "~z~到酒吧来。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 696991079,
+            "original": "~z~Fine.",
+            "translated": "~z~行。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 838413366,
+            "original": "~z~You think this door is going to save your shop? There's shit I can break out here.",
+            "translated": "~z~你以为靠这扇门就能保住你的店了？我在外面也能砸了你的店。",
+            "desc": ""
+        },
+        {
+            "hash": 847581851,
+            "original": "~z~Yes, mickey about.",
+            "translated": "~z~对，就这回事。",
+            "desc": ""
+        },
+        {
+            "hash": 899329024,
+            "original": "~z~I gave him the vodka.",
+            "translated": "~z~伏特加我给他了。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 928928106,
+            "original": "~z~Hey yokel, you manage to do the job? Get Vlad his money?",
+            "translated": "~z~嘿，乡巴佬，事办成了没？Vlad的钱收来了没？",
+            "desc": ""
+        },
+        {
+            "hash": 981710398,
+            "original": "~z~If you give a shit about your fatty cousin's debt then I've got some more work for you.",
+            "translated": "~z~你要是还替你胖子堂兄欠的账着想，我这还有活给你。",
+            "desc": ""
+        },
+        {
+            "hash": 1112201653,
+            "original": "020200020",
+            "translated": "020200020",
+            "desc": ""
+        },
+        {
+            "hash": 1129296944,
+            "original": "~z~I don't understand.",
+            "translated": "~z~我听不懂。",
+            "desc": ""
+        },
+        {
+            "hash": 1173844737,
+            "original": "200020",
+            "translated": "200020",
+            "desc": ""
+        },
+        {
+            "hash": 1244637345,
+            "original": "V1_HF",
+            "translated": "V1_HF",
+            "desc": ""
+        },
+        {
+            "hash": 1286527636,
+            "original": "~z~You kissed and made up, that's sweet.",
+            "translated": "~z~你俩亲亲然后和好，这样就好。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 1346654830,
+            "original": "~z~Now your cousin's going to have to owe me for this as well.",
+            "translated": "~z~这笔帐也算到你堂兄头上了。",
+            "desc": ""
+        },
+        {
+            "hash": 1347848226,
+            "original": "~z~I will give you a bottle of vodka now to apologize for what I did.",
+            "translated": "~z~这瓶伏特加就拿来给你赔个不是。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 1350093594,
+            "original": "~z~Whatever, some old man not paid me in months,",
+            "translated": "~z~算了，有个老头子几个月没付我钱了。",
+            "desc": ""
+        },
+        {
+            "hash": 1363057163,
+            "original": "V1_JB",
+            "translated": "V1_JB",
+            "desc": ""
+        },
+        {
+            "hash": 1400089767,
+            "original": "V1_CD",
+            "translated": "V1_CD",
+            "desc": ""
+        },
+        {
+            "hash": 1405362694,
+            "original": "~z~Big Vlad and his protection money, I so scared. What I need protection from?",
+            "translated": "~z~Vlad大佬和他的保护费，好怕怕哦。我这儿要什么保护？",
+            "desc": ""
+        },
+        {
+            "hash": 1425183801,
+            "original": "~z~That means don't fucking hurt him, alright. Hear me now?",
+            "translated": "~z~意思是你丫别伤着他，好吧。听懂了没？(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 1450571055,
+            "original": "~z~Hey, let me in. You owe Vlad protection money, old man.",
+            "translated": "~z~喂，快开门。你还欠Vlad保护费呢，老头。",
+            "desc": ""
+        },
+        {
+            "hash": 1450938716,
+            "original": "200020200",
+            "translated": "200020200",
+            "desc": ""
+        },
+        {
+            "hash": 1462229984,
+            "original": "~z~Yes... and this once, I let you take the shit out of me.",
+            "translated": "~z~对...这次我让你去替我办个事。",
+            "desc": ""
+        },
+        {
+            "hash": 1473196743,
+            "original": "V1_MA",
+            "translated": "V1_MA",
+            "desc": ""
+        },
+        {
+            "hash": 1504504424,
+            "original": "~z~So, Ivan - I see you later, okay?",
+            "translated": "~z~那，Ivan，下次见，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1517979952,
+            "original": "V1_LC",
+            "translated": "V1_LC",
+            "desc": ""
+        },
+        {
+            "hash": 1530781860,
+            "original": "~z~Okay, fine. Calm down.",
+            "translated": "~z~好，行。淡定点。",
+            "desc": ""
+        },
+        {
+            "hash": 1572023361,
+            "original": "V1_KC",
+            "translated": "V1_KC",
+            "desc": ""
+        },
+        {
+            "hash": 1579707958,
+            "original": "~z~Stupid peasant, think about it. Dead men can't pay me money.",
+            "translated": "~z~土包子傻蛋，动动脑子。死人可交不上钱。",
+            "desc": ""
+        },
+        {
+            "hash": 1594606464,
+            "original": "V1_MB",
+            "translated": "V1_MB",
+            "desc": ""
+        },
+        {
+            "hash": 1646440089,
+            "original": "~z~You're deaf as well as stupid. That's good to know, yokel. I said scare him, don't hurt him.",
+            "translated": "~z~你这人真是又聋又蠢。很高兴知道这个，乡巴佬。我说了是吓吓他，不是打伤他。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 1653943455,
+            "original": "~z~But know that there is nothing stopping me from coming back here and smashing it in your face.",
+            "translated": "~z~你也知道没什么能阻止我回来照着你脸糊的。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 1701599133,
+            "original": "V1_FG",
+            "translated": "V1_FG",
+            "desc": ""
+        },
+        {
+            "hash": 1740602639,
+            "original": "~z~Take the shit?",
+            "translated": "~z~搬个屎？",
+            "desc": ""
+        },
+        {
+            "hash": 1808730499,
+            "original": "~z~Vlad, I scared the old man too much. He's dead.",
+            "translated": "~z~Vlad，我吓得有点猛，吓死他了。",
+            "desc": ""
+        },
+        {
+            "hash": 1814682607,
+            "original": "V1_CB",
+            "translated": "V1_CB",
+            "desc": ""
+        },
+        {
+            "hash": 1816593954,
+            "original": "~z~I try.",
+            "translated": "~z~我尽量。",
+            "desc": ""
+        },
+        {
+            "hash": 1826767161,
+            "original": "~z~Hey, don't hurt me. Vlad say you too stupid to understand his orders.",
+            "translated": "~z~喂，别伤着我。Vlad都说你蠢到听不懂他的命令。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 1867293949,
+            "original": "V1_FB",
+            "translated": "V1_FB",
+            "desc": ""
+        },
+        {
+            "hash": 1882065517,
+            "original": "~z~Ok, this not so funny no more.",
+            "translated": "~z~行，这可不是什么好事。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 1897422138,
+            "original": "V1_IB",
+            "translated": "V1_IB",
+            "desc": ""
+        },
+        {
+            "hash": 1931587063,
+            "original": "V1_FC",
+            "translated": "V1_FC",
+            "desc": ""
+        },
+        {
+            "hash": 1931989155,
+            "original": "~z~Take this bottle of Cherenkov. Say you're sorry and you won't do it again.",
+            "translated": "~z~拿上这瓶契连科夫，告诉他你很抱歉，下次不会了。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 2035944109,
+            "original": "V1_HG",
+            "translated": "V1_HG",
+            "desc": ""
+        },
+        {
+            "hash": 2097357847,
+            "original": "~z~Point proven. I get it.",
+            "translated": "~z~你有理，我明白了。",
+            "desc": ""
+        },
+        {
+            "hash": 2132272548,
+            "original": "~z~For the record, I don't take orders from Vlad. I'm just doing a favor for my cousin.",
+            "translated": "~z~事先声明，我不听Vlad指挥。我只是帮我堂兄个忙。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 2169313498,
+            "original": "200200200",
+            "translated": "200200200",
+            "desc": ""
+        },
+        {
+            "hash": 2169894062,
+            "original": "V1_KB",
+            "translated": "V1_KB",
+            "desc": ""
+        },
+        {
+            "hash": 2200727724,
+            "original": "~z~I can smell you too.",
+            "translated": "~z~我也知道。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 2257888891,
+            "original": "~z~You know what, Vlad. I wanted that vodka all to myself, so I got rid of the shop owner.",
+            "translated": "~z~想不到吧，Vlad。我想独占那瓶伏特加，就把那个店老板做掉了。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 2258188350,
+            "original": "V1_EA",
+            "translated": "V1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2302478907,
+            "original": "V1_IC",
+            "translated": "V1_IC",
+            "desc": ""
+        },
+        {
+            "hash": 2346870952,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2440136087,
+            "original": "~z~Stupid jerk made a mistake of telling me how much he gets that shit for back east.",
+            "translated": "~z~那个傻逼错在告诉我那些玩意在东方才值多少钱。",
+            "desc": ""
+        },
+        {
+            "hash": 2457675177,
+            "original": "V1_CH",
+            "translated": "V1_CH",
+            "desc": ""
+        },
+        {
+            "hash": 2495496910,
+            "original": "~z~I hope you don't mind.",
+            "translated": "~z~希望你不会介意。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 2501466054,
+            "original": "~z~Very catchy, sit down",
+            "translated": "~z~真好听，坐吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2509901057,
+            "original": "V1_DA",
+            "translated": "V1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2519558951,
+            "original": "V1_GB",
+            "translated": "V1_GB",
+            "desc": ""
+        },
+        {
+            "hash": 2533814747,
+            "original": "~z~Sure, whatever.",
+            "translated": "~z~当然，随你说。",
+            "desc": ""
+        },
+        {
+            "hash": 2573380518,
+            "original": "V1_JC",
+            "translated": "V1_JC",
+            "desc": ""
+        },
+        {
+            "hash": 2602708997,
+            "original": "V1_JD",
+            "translated": "V1_JD",
+            "desc": ""
+        },
+        {
+            "hash": 2655676968,
+            "original": "~z~Cousin... Niko... that's it, Niko... not big mouth prick. You funny guy.",
+            "translated": "~z~堂弟...Niko...对了，Niko...不是大嘴屌人。真会开玩笑。",
+            "desc": ""
+        },
+        {
+            "hash": 2660174271,
+            "original": "~z~Only thing I understood was you owed him money.",
+            "translated": "~z~我能理解的只有你欠他钱。",
+            "desc": ""
+        },
+        {
+            "hash": 2715545032,
+            "original": "~z~Big man with the big bat. I so impressed.",
+            "translated": "~z~大老爷们和大棒，印象深刻。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 2760638493,
+            "original": "~z~-Ah, fuck you! You're a bunch of pussies and fags.~n~-Nice.",
+            "translated": "~z~－啊，去你妈的！你们这群狗逼基佬。~n~－行。",
+            "desc": ""
+        },
+        {
+            "hash": 2786608813,
+            "original": "~z~From people like me.",
+            "translated": "~z~像我这样的人。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 2787290873,
+            "original": "~z~He's the biggest crook in the neighborhood. Lucky I don't tell his customers what they're paying for.",
+            "translated": "~z~他是这一带最大的骗子。我没告诉别人他卖的都是什么已经算他走运了。",
+            "desc": ""
+        },
+        {
+            "hash": 2789094852,
+            "original": "~z~What fuck you doing? You pay for that, crazy man.",
+            "translated": "~z~你他妈干啥呢？玻璃钱赔我，神经病。",
+            "desc": ""
+        },
+        {
+            "hash": 2856099626,
+            "original": "V1_HA",
+            "translated": "V1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2892841773,
+            "original": "~z~I did what you said, I got your money.",
+            "translated": "~z~你说的我照做了，钱收来了。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 2902631254,
+            "original": "V1_HD",
+            "translated": "V1_HD",
+            "desc": ""
+        },
+        {
+            "hash": 2929300544,
+            "original": "~z~You always were an asshole, Mickey...",
+            "translated": "~z~你这混账东西，Mickey...",
+            "desc": ""
+        },
+        {
+            "hash": 2967821355,
+            "original": "~z~Hello, you got some nice stuff in here.",
+            "translated": "~z~你好，你店里的东西不错嘛。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 2969177096,
+            "original": "~z~Stupid man, you wasting your time.",
+            "translated": "~z~蠢蛋，你是在浪费时间。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 2980876524,
+            "original": "~z~Yokel... fatty Roman's cousin...",
+            "translated": "~z~乡巴佬...胖子Roman的堂弟...",
+            "desc": ""
+        },
+        {
+            "hash": 3006856142,
+            "original": "V1_HE",
+            "translated": "V1_HE",
+            "desc": ""
+        },
+        {
+            "hash": 3009368070,
+            "original": "~z~You should have paid Vlad his protection money.",
+            "translated": "~z~你早就该给Vlad交保护费了。",
+            "desc": ""
+        },
+        {
+            "hash": 3126173402,
+            "original": "~z~I don't need a bat to teach a lesson.",
+            "translated": "~z~我教训人用不着球棍。",
+            "desc": ""
+        },
+        {
+            "hash": 3147985317,
+            "original": "~z~Seems careless to not be paying Vlad his protection money?",
+            "translated": "~z~看来是一时忘了给Vlad交保护费了？(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 3150963186,
+            "original": "~z~What are you doing hurting my friends, yokel? You trying to make me mad?",
+            "translated": "~z~你打伤我朋友干嘛，乡巴佬？你是想惹毛我吗？(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 3154598594,
+            "original": "~z~He paid up. I had to smash the shop up pretty good, but he paid.",
+            "translated": "~z~他付清了。店还是给他砸了，不过他付清了。",
+            "desc": ""
+        },
+        {
+            "hash": 3170854300,
+            "original": "100010100100010100010",
+            "translated": "100010100100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 3174183281,
+            "original": "~z~-I tried to tell ya.~n~-Fuck you...",
+            "translated": "~z~－我都说了。~n~－去你妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 3264702434,
+            "original": "~z~Don't worry your little peasant head about it.",
+            "translated": "~z~你个小土包子的脑袋用不着关心这个。",
+            "desc": ""
+        },
+        {
+            "hash": 3268456373,
+            "original": "~z~I don't give no shit about you Russians.",
+            "translated": "~z~我不怕你们这群俄国佬。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 3268883265,
+            "original": "~z~-what's your name again?~n~-Big mouth prick.",
+            "translated": "~z~－你叫啥名来着？~n~－大嘴屌人。",
+            "desc": ""
+        },
+        {
+            "hash": 3310464645,
+            "original": "V1_CG",
+            "translated": "V1_CG",
+            "desc": ""
+        },
+        {
+            "hash": 3312159566,
+            "original": "V1_FD",
+            "translated": "V1_FD",
+            "desc": ""
+        },
+        {
+            "hash": 3313848652,
+            "original": "V1_AC",
+            "translated": "V1_AC",
+            "desc": ""
+        },
+        {
+            "hash": 3348183377,
+            "original": "~z~Just teach him a lesson.",
+            "translated": "~z~稍微给他点教训。",
+            "desc": ""
+        },
+        {
+            "hash": 3384613301,
+            "original": "V1_FA",
+            "translated": "V1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 3409395842,
+            "original": "~z~Stop it shit brain. I pay up now, I pay up.",
+            "translated": "~z~别砸了，猪头。我这就付，这就付。",
+            "desc": ""
+        },
+        {
+            "hash": 3421332603,
+            "original": "~z~Shit. Here. I thought Vlad and I had understanding?",
+            "translated": "~z~靠，拿去。我还以为Vlad和我已经相互理解了。",
+            "desc": ""
+        },
+        {
+            "hash": 3433348127,
+            "original": "V1_CF",
+            "translated": "V1_CF",
+            "desc": ""
+        },
+        {
+            "hash": 3509442912,
+            "original": "~z~-I'm going to be somebody!~n~-Yeah, yeah. See you later, Mel.",
+            "translated": "~z~－我马上就要发达了！~n~－得，得。回头见，Mel。",
+            "desc": ""
+        },
+        {
+            "hash": 3582262057,
+            "original": "100010100100100010100",
+            "translated": "100010100100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 3650108473,
+            "original": "V1_JA",
+            "translated": "V1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3674569362,
+            "original": "V1_GA",
+            "translated": "V1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3676859741,
+            "original": "~z~Hey...",
+            "translated": "~z~嘿...",
+            "desc": ""
+        },
+        {
+            "hash": 3724293409,
+            "original": "010010100",
+            "translated": "010010100",
+            "desc": ""
+        },
+        {
+            "hash": 3740988666,
+            "original": "~z~-I'm going back to the meetings.~n~-Good.",
+            "translated": "~z~－我要回互助会了。~n~－好。",
+            "desc": ""
+        },
+        {
+            "hash": 3811788797,
+            "original": "V1_FE",
+            "translated": "V1_FE",
+            "desc": ""
+        },
+        {
+            "hash": 3892774686,
+            "original": "~z~Excuse me.",
+            "translated": "~z~不好意思。",
+            "desc": ""
+        },
+        {
+            "hash": 3904287772,
+            "original": "~z~Sure, get out of my face.",
+            "translated": "~z~当然，从我眼前消失吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3925003553,
+            "original": "V1_ID",
+            "translated": "V1_ID",
+            "desc": ""
+        },
+        {
+            "hash": 3959517523,
+            "original": "~z~You pathetic halfwit, what if I decide to get rid of your cousin when I next pay him a visit. Shit.",
+            "translated": "~z~你个可悲的笨蛋，那要是我下次去拜访你堂兄的时候把他做掉怎么样。操。(BETA)",
+            "desc": ""
+        },
+        {
+            "hash": 3975371007,
+            "original": "V1_DB",
+            "translated": "V1_DB",
+            "desc": ""
+        },
+        {
+            "hash": 4010172133,
+            "original": "010100100100",
+            "translated": "010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 4015694222,
+            "original": "V1_AB",
+            "translated": "V1_AB",
+            "desc": ""
+        },
+        {
+            "hash": 4033527691,
+            "original": "V1_EC",
+            "translated": "V1_EC",
+            "desc": ""
+        },
+        {
+            "hash": 4046523532,
+            "original": "~z~Old bastard owns a china shop on Camden Avenue in Dukes.",
+            "translated": "~z~老混球在Dukes的Camden大道开了家瓷器店。",
+            "desc": ""
+        },
+        {
+            "hash": 4060326762,
+            "original": "200020020020",
+            "translated": "200020020020",
+            "desc": ""
+        },
+        {
+            "hash": 4079669148,
+            "original": "~z~Vlad should pay me to tell punks like you to go away. He get no money.",
+            "translated": "~z~Vlad该付我钱好赶走你这样的小混混。他一分钱都别想拿。",
+            "desc": ""
+        },
+        {
+            "hash": 4109364277,
+            "original": "V1_CA",
+            "translated": "V1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 4177252197,
+            "original": "V1_EB",
+            "translated": "V1_EB",
+            "desc": ""
+        },
+        {
+            "hash": 4198675677,
+            "original": "V1_BA",
+            "translated": "V1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 4207792455,
+            "original": "200020",
+            "translated": "200020",
+            "desc": ""
+        },
+        {
+            "hash": 4228842440,
+            "original": "V1_FF",
+            "translated": "V1_FF",
+            "desc": ""
+        },
+        {
+            "hash": 4229266660,
+            "original": "V1_CC",
+            "translated": "V1_CC",
+            "desc": ""
+        },
+        {
+            "hash": 4285924998,
+            "original": "~z~I paid you all money I had. There's no more.",
+            "translated": "~z~我手头的钱都给你了，已经没钱了。",
+            "desc": ""
+        },
+        {
+            "hash": 4287801679,
+            "original": "~z~and I'm not kind of person who is treated this way.",
+            "translated": "~z~我可受不了别人这么对我。",
+            "desc": ""
+        },
+        {
+            "hash": 4292236001,
+            "original": "V1_LB",
+            "translated": "V1_LB",
+            "desc": ""
+        }
+    ]
+}

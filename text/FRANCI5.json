@@ -1,0 +1,124 @@
+{
+    "FRANCI5": [
+        {
+            "hash": 43314763,
+            "original": "Take out ~r~Derrick~s~ or ~r~Francis~s~ when ready.",
+            "translated": "准备好后就干掉~r~Derrick~s~或~r~Francis。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 190249499,
+            "original": "Get a sniper rifle.",
+            "translated": "去弄把狙击步枪。",
+            "desc": ""
+        },
+        {
+            "hash": 205093900,
+            "original": "~R~The meeting has finished, both brothers are alive.~S~",
+            "translated": "~R~会面结束了，两兄弟都还活着。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 342199352,
+            "original": "~R~You failed to kill one of the brothers.",
+            "translated": "~R~你没能杀死兄弟中的任何一个。",
+            "desc": ""
+        },
+        {
+            "hash": 651048641,
+            "original": "Press ~PAD_LB~ to take control of the platform.",
+            "translated": "按~PAD_LB~控制平台。",
+            "desc": ""
+        },
+        {
+            "hash": 975099818,
+            "original": "Get off the roof and evacuate the area.",
+            "translated": "离开屋顶，撤出此区域。",
+            "desc": ""
+        },
+        {
+            "hash": 1265991699,
+            "original": "Use the window cleaning platform, on top of the scaffolding, to get to the ~y~roof top.",
+            "translated": "使用脚手架顶上的擦窗机上到~y~屋顶。",
+            "desc": ""
+        },
+        {
+            "hash": 1457033541,
+            "original": "Get the ~g~sniper rifle.",
+            "translated": "取得~g~狙击步枪。",
+            "desc": ""
+        },
+        {
+            "hash": 1592338170,
+            "original": "Press ~PAD_LSTICK_UPDOWN~ to move the platform.",
+            "translated": "按~PAD_LSTICK_UPDOWN~移动平台。",
+            "desc": ""
+        },
+        {
+            "hash": 1821555897,
+            "original": "The cops are onto you, lose your wanted level.",
+            "translated": "警察盯上你了，摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1881164136,
+            "original": "Press ~PAD_LB~ to get off the platform.",
+            "translated": "按~PAD_LB~离开平台。",
+            "desc": ""
+        },
+        {
+            "hash": 2742202380,
+            "original": "Use the sniper rifle to find Francis.",
+            "translated": "使用狙击步枪找到Francis。",
+            "desc": ""
+        },
+        {
+            "hash": 2939503109,
+            "original": "Use the window cleaning platform to get down to ~y~the street.",
+            "translated": "使用擦窗机下到~y~路上。",
+            "desc": ""
+        },
+        {
+            "hash": 2974665102,
+            "original": "~r~The meeting has been called off.",
+            "translated": "~r~会面被取消了。",
+            "desc": ""
+        },
+        {
+            "hash": 3059996142,
+            "original": "You have found ~r~Francis,~s~ wait for Derrick to arrive.",
+            "translated": "你找到了~r~Francis，~s~等待Derrick到来。",
+            "desc": ""
+        },
+        {
+            "hash": 3322376105,
+            "original": "Select yes to increase your fee.",
+            "translated": "选是可提高报酬。",
+            "desc": ""
+        },
+        {
+            "hash": 3395845623,
+            "original": "Go to the ~y~window cleaning platform.",
+            "translated": "登上~y~擦窗机。",
+            "desc": ""
+        },
+        {
+            "hash": 3666843833,
+            "original": "~R~You were only supposed to take down one brother.~S~",
+            "translated": "~R~你只要杀兄弟之一就够了。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 3717209742,
+            "original": "Go to the ~y~courtyard park~s~ in Lancet.",
+            "translated": "前往Lancet区的~y~庭院公园。",
+            "desc": ""
+        },
+        {
+            "hash": 4026616100,
+            "original": "~r~Derrick~s~ has arrived.",
+            "translated": "~r~Derrick~s~来了。",
+            "desc": ""
+        }
+    ]
+}

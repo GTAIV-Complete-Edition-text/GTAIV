@@ -1,0 +1,154 @@
+{
+    "BELL2": [
+        {
+            "hash": 26973223,
+            "original": "~s~You left ~b~Bell~s~ behind. Go back and help him.",
+            "translated": "~s~你抛下了~b~Bell，~s~回去支援他。",
+            "desc": ""
+        },
+        {
+            "hash": 141915578,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 187449791,
+            "original": "~s~The coke is brought in on speedboats from Vice City and has not yet been unloaded.",
+            "translated": "~s~可卡因通过快艇从罪城运来，尚未卸下。",
+            "desc": ""
+        },
+        {
+            "hash": 197436414,
+            "original": "~s~Go to the ~b~coke boat.",
+            "translated": "~s~登上~b~装有可卡因的快艇。",
+            "desc": ""
+        },
+        {
+            "hash": 618864496,
+            "original": "~s~Protect Bell from the ~r~attacking boats.",
+            "translated": "~s~保护Bell免受~r~敌船~s~伤害。",
+            "desc": ""
+        },
+        {
+            "hash": 769276382,
+            "original": "~s~Disembark onto the ~y~jetty.",
+            "translated": "~s~下船~y~上岸。",
+            "desc": ""
+        },
+        {
+            "hash": 1343265866,
+            "original": "~s~Get back in the ~b~truck.",
+            "translated": "~s~回到~b~卡车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1362362600,
+            "original": "~r~You have abandoned the truck.",
+            "translated": "~r~你抛弃了卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 1857425418,
+            "original": "~s~The attackers have given up. Follow ~b~Bell~s~ to the drop-off point.",
+            "translated": "~s~袭击者放弃了，跟随~b~Bell~s~前往卸货点。",
+            "desc": ""
+        },
+        {
+            "hash": 1947931018,
+            "original": "~s~Drive to the ~y~boatyard~s~ on Charge Island.",
+            "translated": "~s~驾车前往Charge岛的~y~船坞。",
+            "desc": ""
+        },
+        {
+            "hash": 2101413357,
+            "original": "~s~Get the coke boat back to the ~y~jetty.",
+            "translated": "~s~把装有可卡因的快艇开回~y~码头。",
+            "desc": ""
+        },
+        {
+            "hash": 2212014075,
+            "original": "~r~Bell's boat was beached.",
+            "translated": "~r~Bell的船搁浅了。",
+            "desc": ""
+        },
+        {
+            "hash": 2429124614,
+            "original": "~r~You have abandoned the boat.",
+            "translated": "~r~你抛弃了船。",
+            "desc": ""
+        },
+        {
+            "hash": 2436246907,
+            "original": "~s~You have left ~b~Bell~s~ behind, go and get him.",
+            "translated": "~s~你把~b~Bell~s~落下了，回去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 2548818005,
+            "original": "~s~Get back in the ~b~boat.",
+            "translated": "~s~回到~b~船上。",
+            "desc": ""
+        },
+        {
+            "hash": 2621983102,
+            "original": "~s~Go to the ~b~truck.",
+            "translated": "~s~去取~b~卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 2978442873,
+            "original": "~s~Follow ~b~Bell~s~ to the drop-off point.",
+            "translated": "~s~跟随~b~Bell~s~前往卸货点。",
+            "desc": ""
+        },
+        {
+            "hash": 3065449652,
+            "original": "~r~You beached the boat.",
+            "translated": "~r~你的船搁浅了。",
+            "desc": ""
+        },
+        {
+            "hash": 3238666586,
+            "original": "~r~The boat was destroyed.",
+            "translated": "~r~船被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3250106073,
+            "original": "~s~The Russian drug runners are using the boatyard to smuggle cocaine into the city.",
+            "translated": "~s~俄罗斯毒贩利用船坞将可卡因走私到自由城。",
+            "desc": ""
+        },
+        {
+            "hash": 3543451055,
+            "original": "~r~The truck got trashed.",
+            "translated": "~r~卡车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3561903108,
+            "original": "~s~The boatyard is heavily guarded - the element of surprise will be crucial.",
+            "translated": "~s~船坞戒备森严——出其不意，攻其不备。",
+            "desc": ""
+        },
+        {
+            "hash": 3657154669,
+            "original": "~s~Get through the boatyard with ~b~Bell.",
+            "translated": "~s~与~b~Bell~s~一起通过船厂。",
+            "desc": ""
+        },
+        {
+            "hash": 3919606406,
+            "original": "~r~Bell is dead.",
+            "translated": "~r~Bell死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3987550970,
+            "original": "~s~The attackers have been killed. Follow ~b~Bell~s~ to the drop-off point.",
+            "translated": "~s~袭击者已被消灭，跟随~b~Bell~s~前往卸货点。",
+            "desc": ""
+        }
+    ]
+}

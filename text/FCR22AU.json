@@ -1,0 +1,730 @@
+{
+    "FCR22AU": [
+        {
+            "hash": 47353175,
+            "original": "~z~Cousin, you will be shooting pool alone today. Do not place bets, okay?",
+            "translated": "~z~堂兄，今天你只能自己打台球了。不要赌钱，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 252100452,
+            "original": "FCR2_ACT_GETCALL_SPEC",
+            "translated": "FCR2_ACT_GETCALL_SPEC",
+            "desc": ""
+        },
+        {
+            "hash": 270170293,
+            "original": "~z~Roman, is your cousin. Any chance of getting a cab?",
+            "translated": "~z~Roman，是你堂弟。能不能派辆车过来？",
+            "desc": ""
+        },
+        {
+            "hash": 297531522,
+            "original": "FCR2_ACT_PRO_CALL_HILIKE",
+            "translated": "FCR2_ACT_PRO_CALL_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 337172183,
+            "original": "~z~Sure Roman, I'll come and get you in the next hour.",
+            "translated": "~z~当然，Roman，我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 340592842,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 440439371,
+            "original": "~z~Niko, I am too sick to walk. Please get me a car.",
+            "translated": "~z~Niko，我现在走不了路。拜托给我弄辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 473248915,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 488712453,
+            "original": "~z~Roman, sorry but I cannot bowl with you anymore. Another time.",
+            "translated": "~z~Roman，很抱歉，但我不能陪你打保龄球了。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 526672458,
+            "original": "~z~Cousin, our drunkenness will have to wait. Something has happened.",
+            "translated": "~z~堂兄，我们的酒虫该等等了。突然有事。",
+            "desc": ""
+        },
+        {
+            "hash": 576083405,
+            "original": "~z~That is cool, cousin. We do this on another occasion.",
+            "translated": "~z~没关系，堂弟。我们可以改天再约。",
+            "desc": ""
+        },
+        {
+            "hash": 616427590,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 652671602,
+            "original": "FCR2_ACT_PRO_CALL_GAMES_CANCEL",
+            "translated": "FCR2_ACT_PRO_CALL_GAMES_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 690696224,
+            "original": "~z~Niko, get your invalid cousin a car. He cannot walk in this state.",
+            "translated": "~z~Niko，给你行动不便的堂兄找辆车。他现在没法走路。",
+            "desc": ""
+        },
+        {
+            "hash": 728262376,
+            "original": "FCR2_ACT_CALL_REQ_SPEC_YES",
+            "translated": "FCR2_ACT_CALL_REQ_SPEC_YES",
+            "desc": ""
+        },
+        {
+            "hash": 742560435,
+            "original": "~z~Thanks, Niko. See you then.",
+            "translated": "~z~谢了，Niko。待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 759134948,
+            "original": "FCR2_ACT_CALL_SPEC_END",
+            "translated": "FCR2_ACT_CALL_SPEC_END",
+            "desc": ""
+        },
+        {
+            "hash": 802279014,
+            "original": "~z~I am sorry, cousin, but I must cancel our bowling.",
+            "translated": "~z~很抱歉，堂兄，但我们不能去打保龄球了。",
+            "desc": ""
+        },
+        {
+            "hash": 888190536,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 891810305,
+            "original": "~z~Sorry, Roman. I cannot play pool with you anymore. I have another plan.",
+            "translated": "~z~抱歉，Roman。我没法来跟你打台球了。有别的事要做。",
+            "desc": ""
+        },
+        {
+            "hash": 910007171,
+            "original": "FCR2_ACT_PRO_CALL_REQ_SPEC",
+            "translated": "FCR2_ACT_PRO_CALL_REQ_SPEC",
+            "desc": ""
+        },
+        {
+            "hash": 1031512450,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1088703031,
+            "original": "~z~Alright then, I might get cab or something.",
+            "translated": "~z~那好吧，我叫辆车算了。",
+            "desc": ""
+        },
+        {
+            "hash": 1103300448,
+            "original": "~z~Sorry cousin, but I don't have no cabs right now. You must call again later.",
+            "translated": "~z~抱歉，堂弟，但我现在也没车可派了。你得待会儿再打过来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1109662762,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1227235649,
+            "original": "~z~Niko, as you are my cousin I want you to use family business how you like. Any time you want cab, you call me.",
+            "translated": "~z~Niko，既然你是我的堂弟，我想让你随意利用我们的家族产业。什么时候想打车了，给我打个电话。",
+            "desc": ""
+        },
+        {
+            "hash": 1228022664,
+            "original": "~z~Okay, Niko. We shall rain check this for a different occasion.",
+            "translated": "~z~好的，Niko。我们就推迟到别的时间吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1273103165,
+            "original": "~z~Roman, you need to play a single player game. I can not hang out.",
+            "translated": "~z~Roman，你只能自己去玩了，我陪不了你了。",
+            "desc": ""
+        },
+        {
+            "hash": 1358974019,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1362901778,
+            "original": "FCR2_ACT_PRO_CALL_SHOW_CANCEL",
+            "translated": "FCR2_ACT_PRO_CALL_SHOW_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 1380366229,
+            "original": "FCR2_ACT_PRO_CALL_HOSP_CANCEL_B_UA",
+            "translated": "FCR2_ACT_PRO_CALL_HOSP_CANCEL_B_UA",
+            "desc": ""
+        },
+        {
+            "hash": 1394616858,
+            "original": "~z~Niko, I am sorry but nothing is available. You must call back another time.",
+            "translated": "~z~Niko，很抱歉，但是现在没车了。你还是过会儿再打过来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1397695117,
+            "original": "FCR2_ACT_PRO_GETCALL_HOSP_NO",
+            "translated": "FCR2_ACT_PRO_GETCALL_HOSP_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1416744634,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1434304937,
+            "original": "~z~Thank you for picking me up, cousin. Will you take me home?",
+            "translated": "~z~感谢你来接我，堂弟。能送我回家吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1542112016,
+            "original": "FCR2_ACT_CALL_REQ_SPEC_NO",
+            "translated": "FCR2_ACT_CALL_REQ_SPEC_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1565921966,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1576302102,
+            "original": "~z~You are a life saver, cousin. I'll see you soon.",
+            "translated": "~z~你真是我的救星，堂弟。我们一会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 1663900019,
+            "original": "~z~You need walk no longer. There's a cab coming to you.",
+            "translated": "~z~你用不着再徒步了，有辆车往你这儿来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1680628328,
+            "original": "~z~You will leave your own cousin to walk home sick. Okay, Niko.",
+            "translated": "~z~你居然让刚出院的堂兄走回家。行吧，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1697059493,
+            "original": "FCR2_ACT_PRO_CALL_STRIP_CANCEL",
+            "translated": "FCR2_ACT_PRO_CALL_STRIP_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 1710235198,
+            "original": "FCR2_ACT_GETCALL_HOSP_ASK",
+            "translated": "FCR2_ACT_GETCALL_HOSP_ASK",
+            "desc": ""
+        },
+        {
+            "hash": 1726968159,
+            "original": "~z~Sorry Roman, you may have to drink alone. I can no longer join you.",
+            "translated": "~z~抱歉，Roman，你可能要一个人喝酒了。我没法陪你了。",
+            "desc": ""
+        },
+        {
+            "hash": 1760470693,
+            "original": "FCR2_ACT_PRO_GETCALL_SPEC_END_C_CA",
+            "translated": "FCR2_ACT_PRO_GETCALL_SPEC_END_C_CA",
+            "desc": ""
+        },
+        {
+            "hash": 1769615302,
+            "original": "~z~Cousin, you must dine alone. I can no longer join you.",
+            "translated": "~z~堂兄，你只能自己吃饭了。我不能陪你了。",
+            "desc": ""
+        },
+        {
+            "hash": 1808526917,
+            "original": "~z~You are a good cousin. Thank you for collecting me. I need to go home now.",
+            "translated": "~z~真是个好堂弟，感谢你来接我。我现在要回家了。",
+            "desc": ""
+        },
+        {
+            "hash": 1826089683,
+            "original": "~z~Alright, Niko. We shall do this another time. Later on.",
+            "translated": "~z~好吧，Niko。我们改天再约吧。回见。",
+            "desc": ""
+        },
+        {
+            "hash": 1869073669,
+            "original": "~z~Niko, you are just fooling with me. Thanks a lot.",
+            "translated": "~z~Niko，你是存心耍我吧。多谢了。",
+            "desc": ""
+        },
+        {
+            "hash": 1910489463,
+            "original": "~z~Niko, I'm being discharged from the hospital. Would you mind picking me up?",
+            "translated": "~z~Niko，医院让我出院了。你介意来接我一趟吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1922516544,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1927547837,
+            "original": "~z~Sorry, cousin. I cannot join you at the tittie bar. You can still go by yourself though.",
+            "translated": "~z~抱歉，堂兄。我没法陪你去奶子吧了。不过你还是能自己去。",
+            "desc": ""
+        },
+        {
+            "hash": 1947738779,
+            "original": "~z~Thank you, cousin. That could be very useful in this city.",
+            "translated": "~z~谢了，堂兄。在这里会很有用的。",
+            "desc": ""
+        },
+        {
+            "hash": 1955264610,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1993702020,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2002846124,
+            "original": "~z~Alright, cousin. Maybe another time you will feel like being part of the family.",
+            "translated": "~z~好吧，堂弟。下次想和家人团聚了记得找我。",
+            "desc": ""
+        },
+        {
+            "hash": 2011087574,
+            "original": "~z~Wait right there, NB. I'm dispatching one now.",
+            "translated": "~z~原地等着，NB。我这就派车过来。",
+            "desc": ""
+        },
+        {
+            "hash": 2034576578,
+            "original": "~z~Sorry, Roman. I can't do it right now. Can't you get Mallorie to do it?",
+            "translated": "~z~抱歉，Roman，我现在来不了。你就不能让Mallorie来接吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2078580752,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2080934196,
+            "original": "~z~Don't worry cousin, I have hot bitches that are begging me for my company, see you soon.",
+            "translated": "~z~别担心，堂弟，很多性感的贱人求我陪呢，之后见。",
+            "desc": ""
+        },
+        {
+            "hash": 2182639529,
+            "original": "~z~Cousin, I can't play no games with you just now. Sorry.",
+            "translated": "~z~Cousin, I can't play no games with you just now. Sorry.",
+            "desc": ""
+        },
+        {
+            "hash": 2202952788,
+            "original": "~z~Cousin, I'm getting out of hospital. You couldn't pick me up could you?",
+            "translated": "~z~堂弟，我出院了。能麻烦你来接我一趟吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2236650816,
+            "original": "FCR2_ACT_PRO_CALL_EAT_CANCEL",
+            "translated": "FCR2_ACT_PRO_CALL_EAT_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 2256842421,
+            "original": "FCR2_ACT_PRO_CALL_MEDLIKE",
+            "translated": "FCR2_ACT_PRO_CALL_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2299766033,
+            "original": "~z~Sure, Niko. We can always do this another time. I see you then.",
+            "translated": "~z~好的，Niko。总会有机会的。之后见。",
+            "desc": ""
+        },
+        {
+            "hash": 2311680100,
+            "original": "~z~Roman. I can't eat with you. This may help you lose some weight.",
+            "translated": "~z~Roman，我没法和你一起吃饭了。说不定还能帮你减减肥。",
+            "desc": ""
+        },
+        {
+            "hash": 2318580126,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2330185343,
+            "original": "FCR2_ACT_GETCALL_HOSP_REJ_HILIKE",
+            "translated": "FCR2_ACT_GETCALL_HOSP_REJ_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2378410559,
+            "original": "~z~Hey, Roman. You mind if we catch the show on another night? I have something else to do.",
+            "translated": "~z~嘿，Roman。你介意改天再去看表演吗？我现在有别的事情要做。",
+            "desc": ""
+        },
+        {
+            "hash": 2435264927,
+            "original": "FCR2_ACT_CALL_HOSP_CANCEL_MEDLIKE",
+            "translated": "FCR2_ACT_CALL_HOSP_CANCEL_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2452085674,
+            "original": "~z~I will remember this next time you are in trouble, Niko. I will remember.",
+            "translated": "~z~这笔帐我会记着的，下次你有事了当心点，Niko。我都记着呢。",
+            "desc": ""
+        },
+        {
+            "hash": 2499804440,
+            "original": "~z~You are my cousin, Niko. How can I refuse? There is a cab on its way.",
+            "translated": "~z~你可是我堂弟啊，Niko。我怎么能拒绝呢？已经有辆车在路上了。",
+            "desc": ""
+        },
+        {
+            "hash": 2509557279,
+            "original": "~z~Cousin, I hope you are not forgetting your family in this city? We do this on different occasion.",
+            "translated": "~z~堂弟，你应该没忘了自由城的家人吧？我们以后再约吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2588998913,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2598148971,
+            "original": "FCR2_ACT_PRO_CALL_BOWL_CANCEL",
+            "translated": "FCR2_ACT_PRO_CALL_BOWL_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 2620166027,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2699623425,
+            "original": "~z~I am sorry cousin, but I have no time. I'll see you soon though.",
+            "translated": "~z~抱歉，堂兄，但我没空。还是改天再见吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2706148796,
+            "original": "FCR2_ACT_PRO_CALL_LOLIKE",
+            "translated": "FCR2_ACT_PRO_CALL_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2715229232,
+            "original": "~z~Roman, it's Niko. I need a cab.",
+            "translated": "~z~Roman，我是Niko。我要打车。",
+            "desc": ""
+        },
+        {
+            "hash": 2725922259,
+            "original": "FCR2_ACT_ARRIVEF_HOSPITAL",
+            "translated": "FCR2_ACT_ARRIVEF_HOSPITAL",
+            "desc": ""
+        },
+        {
+            "hash": 2763845486,
+            "original": "~z~Roman, I cannot go look at titties with you. I have to do something else.",
+            "translated": "~z~Roman，我不能陪你去看奶子了。有别的事情要做。",
+            "desc": ""
+        },
+        {
+            "hash": 2845484625,
+            "original": "~z~Anything for you, NB. It should be there soon.",
+            "translated": "~z~有需要你就直说，NB。应该马上就到。",
+            "desc": ""
+        },
+        {
+            "hash": 2868761396,
+            "original": "~z~Really, Niko. I told everyone you were coming to get me. I will have to walk now.",
+            "translated": "~z~真的，Niko？我告诉了所有人你会来接我。现在只能走回家了。",
+            "desc": ""
+        },
+        {
+            "hash": 2901291614,
+            "original": "~z~Roman, my cousin, I'd really like a cab if you could send one to me.",
+            "translated": "~z~Roman，好堂兄，我很希望你能给我派辆出租车。",
+            "desc": ""
+        },
+        {
+            "hash": 3026974607,
+            "original": "~z~Sorry, cousin. I cannot see the show with you no more. Hope that's cool.",
+            "translated": "~z~抱歉，堂兄，我不能和你去看表演了。希望没事。",
+            "desc": ""
+        },
+        {
+            "hash": 3193230635,
+            "original": "~z~Hey Roman, you couldn't send a cab for a cousin in need could you?",
+            "translated": "~z~嘿，Roman，能不能给你堂弟派辆车过来？",
+            "desc": ""
+        },
+        {
+            "hash": 3217222936,
+            "original": "FCR2_ACT_HOSPITAL_DROPOFF",
+            "translated": "FCR2_ACT_HOSPITAL_DROPOFF",
+            "desc": ""
+        },
+        {
+            "hash": 3232311726,
+            "original": "FCR2_ACT_PRO_CALL_POOL_CANCEL",
+            "translated": "FCR2_ACT_PRO_CALL_POOL_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 3233728876,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3275120232,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3285327962,
+            "original": "FCR2_ACT_GETCALL_HOSP_REJ_MEDLIKE",
+            "translated": "FCR2_ACT_GETCALL_HOSP_REJ_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3294604212,
+            "original": "~z~Cousin, you do not have much family here, you should treat me with more respect. Maybe another time soon. Okay.",
+            "translated": "~z~堂弟，你在这里只有我一个家人，对我好一点好吗。那就下次再约吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3323676924,
+            "original": "FCR2_ACT_PRO_CALL_DRINK_CANCEL",
+            "translated": "FCR2_ACT_PRO_CALL_DRINK_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 3346770859,
+            "original": "FCR2_ACT_CALL_HOSP_CANCEL_LOLIKE",
+            "translated": "FCR2_ACT_CALL_HOSP_CANCEL_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3471809962,
+            "original": "FCR2_ACT_PRO_CALL_DARTS_CANCEL",
+            "translated": "FCR2_ACT_PRO_CALL_DARTS_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 3498866194,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3549744480,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3593238121,
+            "original": "~z~Hey Roman, sorry to fuck you round but I don't need no cab no more.",
+            "translated": "~z~嘿，Roman，很抱歉给你添麻烦了，但我不需要打车了。",
+            "desc": ""
+        },
+        {
+            "hash": 3594916423,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3669710792,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3695736435,
+            "original": "~z~That's cool, cousin. Call again if you actually do need one.",
+            "translated": "~z~没关系，堂弟。下次需要了记得找我。",
+            "desc": ""
+        },
+        {
+            "hash": 3723966251,
+            "original": "~z~Sorry, Roman. Something has come up. I cannot throw darts with you now.",
+            "translated": "~z~抱歉，Roman。突然有点急事，没法跟你去玩飞镖了。",
+            "desc": ""
+        },
+        {
+            "hash": 3783028434,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3824185029,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3827568560,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3870510259,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3876806040,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3897614134,
+            "original": "FCR2_ACT_PRO_GETCALL_HOSP_YES",
+            "translated": "FCR2_ACT_PRO_GETCALL_HOSP_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3921763703,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3988742609,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3998780247,
+            "original": "~z~I can do that for my cousin, I shouldn't take longer than an hour to get there.",
+            "translated": "~z~自家兄弟怎么不接，应该不用一个小时就能到。",
+            "desc": ""
+        },
+        {
+            "hash": 4017838365,
+            "original": "~z~Thanks for the ride, Niko. Call me soon, yes.",
+            "translated": "~z~谢谢你送我回家，Niko。记得联系，好吗。",
+            "desc": ""
+        },
+        {
+            "hash": 4019936253,
+            "original": "FCR2_ACT_PRO_CALL_CANCEL_SPEC_C_GA",
+            "translated": "FCR2_ACT_PRO_CALL_CANCEL_SPEC_C_GA",
+            "desc": ""
+        },
+        {
+            "hash": 4042087711,
+            "original": "~z~Cousin, I am no longer able to do darts with you. Sorry.",
+            "translated": "~z~堂兄，我没法来跟你玩飞镖了。抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 4052334917,
+            "original": "FCR2_ACT_ARRIVE_HOSPITAL",
+            "translated": "FCR2_ACT_ARRIVE_HOSPITAL",
+            "desc": ""
+        },
+        {
+            "hash": 4059360360,
+            "original": "FCR2_ACT_GETCALL_HOSP_REJ_LOLIKE",
+            "translated": "FCR2_ACT_GETCALL_HOSP_REJ_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 4164434144,
+            "original": "~z~Okay cousin, if you have no time you have no time.",
+            "translated": "~z~好吧，堂弟，你没空就没空吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4167578741,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4173858962,
+            "original": "~z~Roman, I'm sorry but something has come up and I can no longer pick you up from the hospital.",
+            "translated": "~z~Roman，很对不起，但我突然有急事，不能来医院接你了。",
+            "desc": ""
+        },
+        {
+            "hash": 4218011878,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4247614593,
+            "original": "~z~You are kind for giving me a lift, Niko. Call your sick cousin soon, okay?",
+            "translated": "~z~你能来接我真好，Niko。记得给你体弱的堂兄打电话，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 4294911558,
+            "original": "FCR2_ACT_GETCALL_HOSP_ACCEPT",
+            "translated": "FCR2_ACT_GETCALL_HOSP_ACCEPT",
+            "desc": ""
+        }
+    ]
+}

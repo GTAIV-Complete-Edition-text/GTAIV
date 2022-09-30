@@ -1,0 +1,70 @@
+{
+    "LK_BRU2": [
+        {
+            "hash": 125670776,
+            "original": "~r~The car has been destroyed.~s~",
+            "translated": "~r~车子被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1258265727,
+            "original": "~r~The car has been abandoned.~s~",
+            "translated": "~r~车子被抛弃了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1285725169,
+            "original": "Lose the cars.",
+            "translated": "甩掉追兵。",
+            "desc": ""
+        },
+        {
+            "hash": 1437708771,
+            "original": "Go to ~y~Yorktown Ave.~S~",
+            "translated": "前往~y~Yorktown大道。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 1529527505,
+            "original": "Get the car back to ~y~Brucie's lockup.",
+            "translated": "把车开回~y~Brucie的车库。",
+            "desc": ""
+        },
+        {
+            "hash": 1735546212,
+            "original": "Lose your wanted level.",
+            "translated": "摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1745834698,
+            "original": "~r~The car has been trashed.~s~",
+            "translated": "~r~车子被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2119466836,
+            "original": "Get back in the ~b~car.",
+            "translated": "回到~b~车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 2690008875,
+            "original": "Walk round and get the ~B~car.",
+            "translated": "走过去，偷走~B~车子。",
+            "desc": ""
+        },
+        {
+            "hash": 3568282633,
+            "original": "Drive to ~y~Brucie's lockup.",
+            "translated": "开到~y~Brucie的车库。",
+            "desc": ""
+        },
+        {
+            "hash": 3883914621,
+            "original": "Get in the ~b~car.~s~",
+            "translated": "上~b~车。~s~",
+            "desc": ""
+        }
+    ]
+}

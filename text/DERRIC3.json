@@ -1,0 +1,196 @@
+{
+    "DERRIC3": [
+        {
+            "hash": 238209221,
+            "original": "~s~Block off the ~y~Booth Tunnel.",
+            "translated": "~s~封堵~y~Booth隧道。",
+            "desc": ""
+        },
+        {
+            "hash": 450115358,
+            "original": "~r~The Stockade has been destroyed.",
+            "translated": "~r~囚车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 785910287,
+            "original": "~s~Blow up the ~r~Patriot.",
+            "translated": "~s~炸掉那辆~r~Patriot。",
+            "desc": ""
+        },
+        {
+            "hash": 883364733,
+            "original": "~s~Ditch the truck in the ~y~quiet location.",
+            "translated": "~s~找个~y~偏僻的地方~s~处理囚车。",
+            "desc": ""
+        },
+        {
+            "hash": 924294034,
+            "original": "~s~Get back in the ~b~Stockade.",
+            "translated": "~s~回到~b~囚车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1079490207,
+            "original": "~s~Mission Passed.",
+            "translated": "~s~任务完成。",
+            "desc": ""
+        },
+        {
+            "hash": 1082174816,
+            "original": "~s~Get the ~b~truck.",
+            "translated": "~s~取得~b~卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 1123682157,
+            "original": "~r~Mission Failed.",
+            "translated": "~r~任务失败。",
+            "desc": ""
+        },
+        {
+            "hash": 1265419064,
+            "original": "~s~Take Aiden to the ~y~cliffs.",
+            "translated": "~s~带Aiden去~y~悬崖。",
+            "desc": ""
+        },
+        {
+            "hash": 1368739981,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1475074566,
+            "original": "~s~Get back in the ~b~escape car.",
+            "translated": "~s~回到~b~逃跑用车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1629351578,
+            "original": "~s~Take out the ~r~escorts.",
+            "translated": "~s~干掉~r~护卫。",
+            "desc": ""
+        },
+        {
+            "hash": 1726347258,
+            "original": "~s~Get to the ~y~escape car.",
+            "translated": "~s~取得~y~逃跑用车。",
+            "desc": ""
+        },
+        {
+            "hash": 1741257973,
+            "original": "~s~Get back in the ~b~truck.",
+            "translated": "~s~进入~b~卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 1913426311,
+            "original": "~s~Get ready to attack.",
+            "translated": "~s~准备发动攻击。",
+            "desc": ""
+        },
+        {
+            "hash": 2100930253,
+            "original": "~s~Steal the ~b~Stockade.",
+            "translated": "~s~偷走~b~囚车。",
+            "desc": ""
+        },
+        {
+            "hash": 2211984670,
+            "original": "~s~Wait for ~b~Packie.",
+            "translated": "~s~等待~b~Packie.",
+            "desc": ""
+        },
+        {
+            "hash": 2476462993,
+            "original": "~s~Shoot the ~g~logs~s~ off the flatbed.",
+            "translated": "~s~把~g~木材~s~打下平板车。",
+            "desc": ""
+        },
+        {
+            "hash": 2554311159,
+            "original": "~r~The flatbed has been destroyed.",
+            "translated": "~r~平板车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 2748937504,
+            "original": "~s~Kill ~r~Aiden.",
+            "translated": "~s~杀了~r~Aiden。",
+            "desc": ""
+        },
+        {
+            "hash": 2816605213,
+            "original": "~s~Wait for the convoy.",
+            "translated": "~s~等待押运车队。",
+            "desc": ""
+        },
+        {
+            "hash": 2858385964,
+            "original": "~s~Move out of the Stockade's path.",
+            "translated": "~s~走出Stockade小径。",
+            "desc": ""
+        },
+        {
+            "hash": 2909068353,
+            "original": "~r~Packie is dead.",
+            "translated": "~r~Packie死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2991318543,
+            "original": "~r~Aiden is dead. His body will be found.",
+            "translated": "~r~Aiden死了。他的尸体会被发现的。",
+            "desc": ""
+        },
+        {
+            "hash": 3231231646,
+            "original": "~s~Drive through the park to reach the cliffs.",
+            "translated": "~s~驾车穿过公园到达悬崖。",
+            "desc": ""
+        },
+        {
+            "hash": 3233710836,
+            "original": "~r~Aiden has escaped.",
+            "translated": "~r~Aiden跑掉了。",
+            "desc": ""
+        },
+        {
+            "hash": 3299200743,
+            "original": "~s~Park the truck across the two markers to block the tunnel.",
+            "translated": "~s~将卡车横停在两个标记之间以封堵隧道。",
+            "desc": ""
+        },
+        {
+            "hash": 3582351481,
+            "original": "~s~Go and talk to ~b~Packie.",
+            "translated": "~s~去跟~b~Packie~s~交谈。",
+            "desc": ""
+        },
+        {
+            "hash": 3693897157,
+            "original": "~s~You are leaving ~b~Packie~s~ behind.",
+            "translated": "~s~你把~b~Packie~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 3865071159,
+            "original": "~r~The escape car has been destroyed.",
+            "translated": "~r~逃跑用车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 4083946296,
+            "original": "~s~Pick up the ~g~rocket launcher.",
+            "translated": "~s~拿起~g~火箭发射器。",
+            "desc": ""
+        },
+        {
+            "hash": 4089571578,
+            "original": "~r~You have abandoned Packie.",
+            "translated": "~r~你抛弃了Packie。",
+            "desc": ""
+        }
+    ]
+}

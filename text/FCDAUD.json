@@ -1,0 +1,1648 @@
+{
+    "FCDAUD": [
+        {
+            "hash": 16426007,
+            "original": "~z~Sure, I'm kinda hungry. I need to eat in the next hour so come then.",
+            "translated": "~z~没问题，我是有点饿。一小时后正好想吃一顿，你来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 20510390,
+            "original": "FCD_ACT_CALL_VERYIRATE",
+            "translated": "FCD_ACT_CALL_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 39931356,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 45494665,
+            "original": "~z~Hey, it's Niko.",
+            "translated": "~z~喂，我是Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 58562409,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 77228159,
+            "original": "~z~I'd love to, but i've got some shit going on just now.",
+            "translated": "~z~我挺想来的，但现在有点抽不开身。",
+            "desc": ""
+        },
+        {
+            "hash": 80129176,
+            "original": "FCD_ACT_CALL_STRIP_YES",
+            "translated": "FCD_ACT_CALL_STRIP_YES",
+            "desc": ""
+        },
+        {
+            "hash": 81207063,
+            "original": "FCD_ACT_GETCALL_DRINK",
+            "translated": "FCD_ACT_GETCALL_DRINK",
+            "desc": ""
+        },
+        {
+            "hash": 128141928,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 153684176,
+            "original": "~z~Good. I'm on my way.",
+            "translated": "~z~好的，我这就来。",
+            "desc": ""
+        },
+        {
+            "hash": 170686488,
+            "original": "FCD_ACT_PDW_CALL_DRINK",
+            "translated": "FCD_ACT_PDW_CALL_DRINK",
+            "desc": ""
+        },
+        {
+            "hash": 184973163,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 212486475,
+            "original": "~z~Nah man, we just ate. Maybe later.",
+            "translated": "~z~不了兄弟，我们刚吃过，下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 224839402,
+            "original": "~z~Hey Dwayne.",
+            "translated": "~z~喂，Dwayne。",
+            "desc": ""
+        },
+        {
+            "hash": 230315726,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 255332347,
+            "original": "~z~No. I can't do any drinking just now, man.",
+            "translated": "~z~不了，我现在不能喝酒，老哥。",
+            "desc": ""
+        },
+        {
+            "hash": 301700371,
+            "original": "FCD_ACT_CALL_EAT_NO_GENERAL",
+            "translated": "FCD_ACT_CALL_EAT_NO_GENERAL",
+            "desc": ""
+        },
+        {
+            "hash": 306884794,
+            "original": "~z~I can't right now. Another time.",
+            "translated": "~z~我现在没空，改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 382274780,
+            "original": "~z~I'd love to, but I ain't hungry right now.",
+            "translated": "~z~我挺想去的，但我现在不饿。",
+            "desc": ""
+        },
+        {
+            "hash": 393774848,
+            "original": "~z~Another time, man. I'm lost in thought right now. Last thing I need is some bitch getting on my nerves.",
+            "translated": "~z~改天吧，兄弟。我现在脑子一片乱麻，最不需要的就是找婊子搞脑子。",
+            "desc": ""
+        },
+        {
+            "hash": 402024509,
+            "original": "FCD_ACT_GETCALL_REJECT",
+            "translated": "FCD_ACT_GETCALL_REJECT",
+            "desc": ""
+        },
+        {
+            "hash": 426111299,
+            "original": "~z~Hey man, it's Dwayne. I've got to start doing some other shit, having some fun. I used to really enjoy bowling. You wanna come with me?",
+            "translated": "~z~喂，兄弟，我是Dwayne，我现在想换换心情，找点乐子。我以前很喜欢打保龄球，你想一起来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 432257866,
+            "original": "~z~I thought you must have lost my number, son. Been a long time. Too long. Don't matter.",
+            "translated": "~z~我还以为你把我的号码弄丢了，老弟。你太久没找我了，不过没关系。",
+            "desc": ""
+        },
+        {
+            "hash": 444402387,
+            "original": "FCD_ACT_CALL_STRIP_NO_RECENT",
+            "translated": "FCD_ACT_CALL_STRIP_NO_RECENT",
+            "desc": ""
+        },
+        {
+            "hash": 456133526,
+            "original": "FCD_ACT_PBR_GETCALL_DRINK_YES",
+            "translated": "FCD_ACT_PBR_GETCALL_DRINK_YES",
+            "desc": ""
+        },
+        {
+            "hash": 555708981,
+            "original": "~z~All you want to do is eat. You got a tape worm or some shit? Maybe later.",
+            "translated": "~z~你就知道吃，是肚子里长虫了吗？下次再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 583144214,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 610708006,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 611301040,
+            "original": "~z~Hey man, I get emotional when that drink is in me. I can't deal with that shit so soon after last time.",
+            "translated": "~z~嘿，老哥，喝过酒后我容易情绪波动，现在我还没缓过来。",
+            "desc": ""
+        },
+        {
+            "hash": 623070897,
+            "original": "~z~Can you come bowling?",
+            "translated": "~z~来打保龄球吗？",
+            "desc": ""
+        },
+        {
+            "hash": 634613192,
+            "original": "~z~Yeah, I'll roll with you, man. Pick me up within the hour.",
+            "translated": "~z~当然了，我跟你一起吃，兄弟。一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 649893726,
+            "original": "~z~I'd love to Dwayne, but I'm kinda busy just now.",
+            "translated": "~z~我是想打，Dwayne，但我现在有点忙。",
+            "desc": ""
+        },
+        {
+            "hash": 650469309,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 693130658,
+            "original": "~z~You want to have a drink, man?",
+            "translated": "~z~你想去喝一杯吗，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 738049154,
+            "original": "FCD_ACT_CALL_GAMES_NO_RECENT",
+            "translated": "FCD_ACT_CALL_GAMES_NO_RECENT",
+            "desc": ""
+        },
+        {
+            "hash": 739139551,
+            "original": "~z~There he is? It's been quite a while since I heard from you, Niko. Whatever.",
+            "translated": "~z~终于来了？我好久没接到你的电话了，Niko。没关系。",
+            "desc": ""
+        },
+        {
+            "hash": 757685953,
+            "original": "~z~Listen, I wanna go bowling. Can you come?",
+            "translated": "~z~听着，我想去打保龄球，你来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 769162046,
+            "original": "~z~This is Dwayne. I can't get to the phone. Call back another time. Thank you.",
+            "translated": "~z~我是Dwayne。现在没法接电话，过段时间再找我吧。谢谢。",
+            "desc": ""
+        },
+        {
+            "hash": 770835856,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 794496531,
+            "original": "~z~I was asleep, man... call back after midday.",
+            "translated": "~z~我在睡觉，兄弟...过了中午再找我。",
+            "desc": ""
+        },
+        {
+            "hash": 829407901,
+            "original": "~z~Okay, man, I'll call you again later.",
+            "translated": "~z~好的兄弟，晚点我再打回来。",
+            "desc": ""
+        },
+        {
+            "hash": 831151052,
+            "original": "~z~Nah, I can't go to any strip clubs - I've got some business to deal with.",
+            "translated": "~z~不了，我现在没法去脱衣舞俱乐部。还有正事要忙。",
+            "desc": ""
+        },
+        {
+            "hash": 836561884,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 851191082,
+            "original": "FCD_ACT_GETCALL_ACCEPT",
+            "translated": "FCD_ACT_GETCALL_ACCEPT",
+            "desc": ""
+        },
+        {
+            "hash": 854190654,
+            "original": "~z~You interested in going bowling?",
+            "translated": "~z~你想打保龄球吗？",
+            "desc": ""
+        },
+        {
+            "hash": 939471902,
+            "original": "~z~You're sick, man. All you wanna do is stare at ass. Get yourself a wife. Another time, man.",
+            "translated": "~z~你真变态，兄弟。整天只想着看屁股。早点结婚吧。改天再说，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 949011861,
+            "original": "~z~Where the fuck you been son? You ain't called in the longest time. Well, you calling now.",
+            "translated": "~z~你小子他妈人呢？都多久没打我电话了。算了，现在打了。",
+            "desc": ""
+        },
+        {
+            "hash": 968021345,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 970089775,
+            "original": "~z~Sorry, man. I can't go right now. Too busy for drinking.",
+            "translated": "~z~抱歉兄弟。我现在有点忙，没空过来喝酒。",
+            "desc": ""
+        },
+        {
+            "hash": 972563277,
+            "original": "~z~Hey, Niko, I been asleep... I'll be up around noon, or something.",
+            "translated": "~z~嘿，Niko，我在睡觉...中午我大概就醒了。",
+            "desc": ""
+        },
+        {
+            "hash": 982919042,
+            "original": "FCD_ACT_CALL_DRINK_NO_GENERAL",
+            "translated": "FCD_ACT_CALL_DRINK_NO_GENERAL",
+            "desc": ""
+        },
+        {
+            "hash": 989613575,
+            "original": "~z~Nah, man. I ain't in the mood for that shit.",
+            "translated": "~z~不了兄弟，我现在没那个心情。",
+            "desc": ""
+        },
+        {
+            "hash": 1018696942,
+            "original": "~z~Hey, it's me - you got time to play video games?",
+            "translated": "~z~嗨，是我-你有时间玩游戏吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1023537544,
+            "original": "~z~Definitely. I will be over in the hour.",
+            "translated": "~z~没问题，我一小时内到。",
+            "desc": ""
+        },
+        {
+            "hash": 1024642987,
+            "original": "~z~Yes, I love video games, man. I'll be over in the hour.",
+            "translated": "~z~是的，我喜欢打游戏。我过会就结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 1030189954,
+            "original": "~z~Sorry man - I'm too busy for strip clubs just now.",
+            "translated": "~z~抱歉兄弟，我现在没空去脱衣舞俱乐部。",
+            "desc": ""
+        },
+        {
+            "hash": 1031288500,
+            "original": "~z~For sure, for sure. Get our drink on. Pick me up in an hour.",
+            "translated": "~z~当然，当然，我们一起喝点。一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 1051143868,
+            "original": "~z~You wanna go see some women down the strip club?",
+            "translated": "~z~你想去脱衣舞俱乐部看女人吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1056030657,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1083608382,
+            "original": "~z~Bowling? I'm down. I ain't got shit else to do.",
+            "translated": "~z~保龄球？我来。反正也没什么事做。",
+            "desc": ""
+        },
+        {
+            "hash": 1103308344,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1114573033,
+            "original": "FCD_ACT_PDW_CALL_ACCEPTED",
+            "translated": "FCD_ACT_PDW_CALL_ACCEPTED",
+            "desc": ""
+        },
+        {
+            "hash": 1155628537,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1186771625,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1202319121,
+            "original": "~z~You can't? okay, I will call later.",
+            "translated": "~z~来不了？好吧，下次再找你。",
+            "desc": ""
+        },
+        {
+            "hash": 1207666739,
+            "original": "~z~I'm bored of video games for now, man - it's all you wanna do. Another time.",
+            "translated": "~z~我现在对打游戏没兴趣－你就想做这个，回见。",
+            "desc": ""
+        },
+        {
+            "hash": 1215132421,
+            "original": "FCD_ACT_GETCALL_EAT_FIRST",
+            "translated": "FCD_ACT_GETCALL_EAT_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 1219728960,
+            "original": "FCD_ACT_GETCALL_EAT",
+            "translated": "FCD_ACT_GETCALL_EAT",
+            "desc": ""
+        },
+        {
+            "hash": 1236268265,
+            "original": "FCD_ACT_CALL_BOWL_NO_GENERAL",
+            "translated": "FCD_ACT_CALL_BOWL_NO_GENERAL",
+            "desc": ""
+        },
+        {
+            "hash": 1237887765,
+            "original": "~z~Hey son, it's me - listen you wanna play video games sometime?",
+            "translated": "~z~嗨老弟，是我－听说你想打游戏？",
+            "desc": ""
+        },
+        {
+            "hash": 1248161633,
+            "original": "FCD_ACT_CALL_GAMES_NO_GENERAL",
+            "translated": "FCD_ACT_CALL_GAMES_NO_GENERAL",
+            "desc": ""
+        },
+        {
+            "hash": 1275963402,
+            "original": "FCD_ACT_GETCALL_GREET",
+            "translated": "FCD_ACT_GETCALL_GREET",
+            "desc": ""
+        },
+        {
+            "hash": 1281215017,
+            "original": "~z~You want to head to the strip club?",
+            "translated": "~z~你想去脱衣舞俱乐部吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1289160396,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1355327078,
+            "original": "~z~Yeah, come pick me up.",
+            "translated": "~z~好，过来接我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1364876964,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1378851544,
+            "original": "~z~Great. I'll head over and pick you up.",
+            "translated": "~z~没问题，我现在就来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 1383709164,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1392222228,
+            "original": "FCD_ACT_PDW_GETCALL_EAT_NO",
+            "translated": "FCD_ACT_PDW_GETCALL_EAT_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1416744350,
+            "original": "FCD_ACT_CALL_BOWL_YES",
+            "translated": "FCD_ACT_CALL_BOWL_YES",
+            "desc": ""
+        },
+        {
+            "hash": 1434316571,
+            "original": "~z~I can't waste ALL of my life in a strip club with you, man. Maybe later.",
+            "translated": "~z~我不能把人生全都浪费在陪你去脱衣舞俱乐部上。下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1472600499,
+            "original": "~z~Hey - you wanna head to the strip club?",
+            "translated": "~z~嘿，你想去脱衣舞俱乐部吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1479544853,
+            "original": "~z~Shit. Okay I'll call later.",
+            "translated": "~z~靠。那我以后再找你。",
+            "desc": ""
+        },
+        {
+            "hash": 1522085294,
+            "original": "~z~I'm trying to get my life together and all you ever want to do is fucking video games? Another time, Niko. Another time.",
+            "translated": "~z~我正在为自己的生活努力，但是你却想找我打游戏？换个时间吧，Niko，回见。",
+            "desc": ""
+        },
+        {
+            "hash": 1553480291,
+            "original": "~z~Yeah, pick me up the next hour.",
+            "translated": "~z~好，一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 1576695638,
+            "original": "FCD_ACT_PBR_GETCALL_DRINK_NO",
+            "translated": "FCD_ACT_PBR_GETCALL_DRINK_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1578970834,
+            "original": "~z~Hey son, you wanna get something to eat?",
+            "translated": "~z~老弟，你想去吃点吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1581618329,
+            "original": "~z~Not right now, son. I'm trying to get my life together. Last thing I need is getting in trouble down the strip joint.",
+            "translated": "~z~现在不行，小子。我要改善我的生活。最不需要的就是去脱衣舞夜店自找麻烦。",
+            "desc": ""
+        },
+        {
+            "hash": 1626876172,
+            "original": "~z~Bowling? Sure. It'll be just like in the movies. I'll head over to you.",
+            "translated": "~z~保龄球？好啊，打保龄球就像活在电影里。我马上过来。",
+            "desc": ""
+        },
+        {
+            "hash": 1640369662,
+            "original": "~z~I'm bored - you wanna play some video games?",
+            "translated": "~z~我有点无聊-你想打游戏吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1645674054,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1648740903,
+            "original": "~z~Bowling? maybe later, man. I can't just now.",
+            "translated": "~z~保龄球？下次吧，我现在没空。",
+            "desc": ""
+        },
+        {
+            "hash": 1668584171,
+            "original": "~z~Okay man, you obviously too busy for me and my idea of fun. Call me when you're free.",
+            "translated": "~z~好的，你忙得没空陪我出去找乐子。有空了给我电话。",
+            "desc": ""
+        },
+        {
+            "hash": 1673942560,
+            "original": "~z~Aah, I just ate. Call me later.",
+            "translated": "~z~啊，我刚吃过。以后再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1677803131,
+            "original": "~z~I'm on my way over.",
+            "translated": "~z~我现在过来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1680491663,
+            "original": "~z~No, man. I can't be getting my drink on just now, son... maybe later.",
+            "translated": "~z~不了，兄弟。我现在不能喝酒，小子...下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1736113139,
+            "original": "FCD_ACT_CALL_DRINK_NO_RECENT",
+            "translated": "FCD_ACT_CALL_DRINK_NO_RECENT",
+            "desc": ""
+        },
+        {
+            "hash": 1750317774,
+            "original": "~z~Hey man - I'm bored - will you take me down the gentlemen's club?",
+            "translated": "~z~嘿兄弟，我好无聊。你能带我去绅士俱乐部吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1758424840,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1782297652,
+            "original": "~z~Okay, Dwayne, I'll hit you up later.",
+            "translated": "~z~好的，Dwayne，我晚点再联系你。",
+            "desc": ""
+        },
+        {
+            "hash": 1795694722,
+            "original": "~z~You wanna play some video games?",
+            "translated": "~z~你想玩会游戏吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1808379992,
+            "original": "FCD_ACT_GETCALL_VERYIRATE",
+            "translated": "FCD_ACT_GETCALL_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 1812394891,
+            "original": "~z~Hey, Niko - you got time to play some video games, man?",
+            "translated": "~z~嗨, Niko - 你有时间打会游戏吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1819608317,
+            "original": "~z~Hello Dwayne.",
+            "translated": "~z~你好，Dwayne。",
+            "desc": ""
+        },
+        {
+            "hash": 1841910734,
+            "original": "~z~Not again, man - we only just played.",
+            "translated": "~z~不了，兄弟。我们刚刚玩过。",
+            "desc": ""
+        },
+        {
+            "hash": 1849152500,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1854365711,
+            "original": "~z~You want to go for a drink?",
+            "translated": "~z~你想去喝酒吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1874216584,
+            "original": "~z~Bowling? Okay. No problem. I'll come pick you up.",
+            "translated": "~z~保龄球？好的。没问题。我这就来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 1878153754,
+            "original": "~z~Yeah, a drink would be good. I'll head over to your place within the hour.",
+            "translated": "~z~好，喝点酒挺好的。我一小时内来找你。",
+            "desc": ""
+        },
+        {
+            "hash": 1884688921,
+            "original": "~z~You wanna come with me to the strip club, man?",
+            "translated": "~z~你想和我一起去脱衣舞俱乐部吗，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 1888586246,
+            "original": "~z~Not bowling again, man... maybe another time. I can't face that shit just yet.",
+            "translated": "~z~还打保龄球啊，兄弟...改天再说吧。最近我不太想来这个。",
+            "desc": ""
+        },
+        {
+            "hash": 1893732262,
+            "original": "FCD_ACT_PDW_GETCALL_EAT_YES",
+            "translated": "FCD_ACT_PDW_GETCALL_EAT_YES",
+            "desc": ""
+        },
+        {
+            "hash": 1913144531,
+            "original": "~z~Not right now, son. Another time.",
+            "translated": "~z~现在不行，小子，下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1933386301,
+            "original": "~z~Sure man, I could do with a drink. Pick me up in the next hour.",
+            "translated": "~z~当然了兄弟，喝酒好啊。一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 1946869063,
+            "original": "~z~Hey, Niko, it's me, Dwayne. Been some time, since I heard from you.",
+            "translated": "~z~喂，Niko，是我，Dwayne。有段时间没接到你的电话了。",
+            "desc": ""
+        },
+        {
+            "hash": 1975686311,
+            "original": "FCD_ACT_GETCALL_DRINK_FIRST",
+            "translated": "FCD_ACT_GETCALL_DRINK_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 1977837569,
+            "original": "~z~No, man, I don't want to drink right now. Maybe later.",
+            "translated": "~z~不了兄弟，我现在不想喝酒。下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1988657197,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1994646265,
+            "original": "~z~Hey man, it's me - been a while since I heard from you.",
+            "translated": "~z~喂，兄弟，是我。好久没接到你的电话了。",
+            "desc": ""
+        },
+        {
+            "hash": 1997094415,
+            "original": "FCD_ACT_GETCALL_STRIP_FIRST",
+            "translated": "FCD_ACT_GETCALL_STRIP_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 2016796047,
+            "original": "FCD_ACT_CALL_IRATE",
+            "translated": "FCD_ACT_CALL_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 2074606761,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2111272420,
+            "original": "~z~Sure, why not? I'll head over to your place right away.",
+            "translated": "~z~好啊，何不呢？我这就来你家。",
+            "desc": ""
+        },
+        {
+            "hash": 2112595130,
+            "original": "~z~Bowling? Again? We only just did that shit. Maybe later.",
+            "translated": "~z~保龄球？还来啊？我们才刚打过，下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2117019761,
+            "original": "~z~Hi, Dwayne.",
+            "translated": "~z~嗨，Dwayne。",
+            "desc": ""
+        },
+        {
+            "hash": 2117858483,
+            "original": "~z~Maybe later, we only just played that shit.",
+            "translated": "~z~下次吧，我们刚刚才玩过这个。",
+            "desc": ""
+        },
+        {
+            "hash": 2151463114,
+            "original": "~z~Sure. I been angry at you, but I don't want to lose you like Playboy. Come by in the next hour.",
+            "translated": "~z~当然了，我是被你弄得很生气，但是我不想像失去Playboy一样失去你。一小时内过来。",
+            "desc": ""
+        },
+        {
+            "hash": 2153636222,
+            "original": "~z~Not right now, son - I'm trying to get my life together.",
+            "translated": "~z~现在不行，小子。我忙着改善生活呢。",
+            "desc": ""
+        },
+        {
+            "hash": 2167149655,
+            "original": "FCD_ACT_GETCALL_BOWL_FIRST",
+            "translated": "FCD_ACT_GETCALL_BOWL_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 2177884244,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2180301069,
+            "original": "FCD_ACT_CALL_LIKEYES",
+            "translated": "FCD_ACT_CALL_LIKEYES",
+            "desc": ""
+        },
+        {
+            "hash": 2193802367,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2197326178,
+            "original": "~z~Yo, you wanna go for a drink?",
+            "translated": "~z~哟，你想出去喝点酒吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2210793662,
+            "original": "~z~I spent too many years in a prison. You think I'm ever gonna turn down staring at women? Pick me up in the next hour.",
+            "translated": "~z~我在监狱蹲了这么多年，你说我会拒绝去看女人吗？一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 2217677942,
+            "original": "~z~Sure. I wouldn't mind bowling, son. Pick me up in the next hour.",
+            "translated": "~z~当然。打保龄球也行，小子。一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 2222578466,
+            "original": "~z~Yes, I'm pretty hungry. I'll be over to you within an hour.",
+            "translated": "~z~好啊，我是饿了。我一小时内到你那里。",
+            "desc": ""
+        },
+        {
+            "hash": 2234355099,
+            "original": "~z~You want to go drinking?",
+            "translated": "~z~想去喝点酒吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2243683205,
+            "original": "~z~Talk to bitches and pay them for the privilege? I ain't in the mood, man. Maybe later.",
+            "translated": "~z~找个婊子付点钱看私人大秀？我没兴趣，下次再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2252003047,
+            "original": "~z~I ain't up to too much you wanna play video games for a bit?",
+            "translated": "~z~我没多少时间，你想打会游戏吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2252094949,
+            "original": "~z~Wanna go hang out at the gentlemen's club?",
+            "translated": "~z~想一起去绅士俱乐部吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2254699405,
+            "original": "~z~Sorry, man, I didn't see what the time was.",
+            "translated": "~z~抱歉老哥，我没看见时间。",
+            "desc": ""
+        },
+        {
+            "hash": 2270186940,
+            "original": "FCD_ACT_PDW_CALL_EAT",
+            "translated": "FCD_ACT_PDW_CALL_EAT",
+            "desc": ""
+        },
+        {
+            "hash": 2298086004,
+            "original": "FCD_ACT_PDW_CALL_REJECTED",
+            "translated": "FCD_ACT_PDW_CALL_REJECTED",
+            "desc": ""
+        },
+        {
+            "hash": 2312495033,
+            "original": "~z~Okay. No problem. Whatever. Call me some other time.",
+            "translated": "~z~好的，没问题。算了。有空打我电话。",
+            "desc": ""
+        },
+        {
+            "hash": 2327219177,
+            "original": "~z~Cool. I'll swing by your pad.",
+            "translated": "~z~好，我这就来你家。",
+            "desc": ""
+        },
+        {
+            "hash": 2328970844,
+            "original": "~z~You wanna get something to eat?",
+            "translated": "~z~你想去吃点吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2345524154,
+            "original": "~z~All you think about is fucking strippers. You're sick, man. Sick. Another time.",
+            "translated": "~z~你满脑子就想着脱衣舞女。真他妈变态。下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2346549155,
+            "original": "~z~You wanna go bowling?",
+            "translated": "~z~你想去打保龄球吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2380234644,
+            "original": "~z~Hey, Niko, I hope you good. Listen, man - you wanna go get a drink? I could do with having a good time.",
+            "translated": "~z~喂，Niko，你最近好吗？我说，兄弟，你想去喝点酒吗？我可以陪你喝个痛快。",
+            "desc": ""
+        },
+        {
+            "hash": 2398851214,
+            "original": "~z~Hey man, you wanna grab something to eat?",
+            "translated": "~z~嘿兄弟，想出去吃一顿吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2399066560,
+            "original": "~z~For real, I need me some cardiac right now. Come get me from my crib.",
+            "translated": "~z~说真的，我现在是要来点刺激的。来我公寓接我。",
+            "desc": ""
+        },
+        {
+            "hash": 2415673559,
+            "original": "FCD_ACT_PDW_CALL_GAMES",
+            "translated": "FCD_ACT_PDW_CALL_GAMES",
+            "desc": ""
+        },
+        {
+            "hash": 2416175737,
+            "original": "~z~I've got some spare time - you wanna play video games for a while?",
+            "translated": "~z~我现在有点空余时间-你想打会游戏吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2418324294,
+            "original": "FCD_ACT_PDW_CALL_STRIP",
+            "translated": "FCD_ACT_PDW_CALL_STRIP",
+            "desc": ""
+        },
+        {
+            "hash": 2427841901,
+            "original": "~z~Okay. Call me when you less busy.",
+            "translated": "~z~好的。有空你就给我打电话。",
+            "desc": ""
+        },
+        {
+            "hash": 2456297738,
+            "original": "~z~No, man, I don't want to get no drink on just now. Later?",
+            "translated": "~z~不了，兄弟，我现在不想喝酒，改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2464546705,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2465343780,
+            "original": "~z~You want to meet up for a drink?",
+            "translated": "~z~你想一起去喝一杯吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2483239307,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2483863428,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2495985722,
+            "original": "~z~Nah man, I just ate. Maybe later.",
+            "translated": "~z~不了兄弟，我刚吃过，下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2531511464,
+            "original": "~z~Cool, Niko. You a good friend. See you soon.",
+            "translated": "~z~好，Niko。真是我的好朋友。待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 2534899149,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2551413812,
+            "original": "~z~Okay man - I know you got a lot of shit on - call me when you got time for your friends.",
+            "translated": "~z~好的兄弟，我知道你现在很忙。空了给兄弟回个电话。",
+            "desc": ""
+        },
+        {
+            "hash": 2553978682,
+            "original": "~z~Sorry Dwayne, I didn't realize what the time was.",
+            "translated": "~z~抱歉，Dwayne。我没注意时间。",
+            "desc": ""
+        },
+        {
+            "hash": 2575924474,
+            "original": "~z~Bowling? Yeah, I'd like that, but I'm just in the middle of some things, Dwayne.",
+            "translated": "~z~保龄球？我是想打，但是现在还有事要忙，Dwayne。",
+            "desc": ""
+        },
+        {
+            "hash": 2597095010,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2625554348,
+            "original": "~z~No, I'm not in a very social mood and I just ate - call back later.",
+            "translated": "~z~不了，我现在没心情社交，饭也刚吃过。以后再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2629935427,
+            "original": "~z~You got time to go bowling just now, son?",
+            "translated": "~z~现在有空打保龄球吗，老弟？",
+            "desc": ""
+        },
+        {
+            "hash": 2653162419,
+            "original": "FCD_ACT_PDW_CALL_STRIP_YES",
+            "translated": "FCD_ACT_PDW_CALL_STRIP_YES",
+            "desc": ""
+        },
+        {
+            "hash": 2661031418,
+            "original": "~z~Nah man, I ain't in the mood for that shit.",
+            "translated": "~z~不了兄弟，我对这个没啥兴趣。",
+            "desc": ""
+        },
+        {
+            "hash": 2664940163,
+            "original": "~z~Yeah, I always loved games. Stop by the house. I'll be here for an hour.",
+            "translated": "~z~好啊，我一直很喜欢玩游戏。在家等我，我马上到。",
+            "desc": ""
+        },
+        {
+            "hash": 2686243186,
+            "original": "~z~Remember me, fool? It's Dwayne. You know - we was buddies for a little bit, anyway...",
+            "translated": "~z~还记得我吗，傻逼？我是Dwayne。我们以前可是老朋友了，算了...",
+            "desc": ""
+        },
+        {
+            "hash": 2705051279,
+            "original": "~z~Bowling? Sure, why not?",
+            "translated": "~z~保龄球？当然，何不呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2706099253,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2712587806,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2716762015,
+            "original": "~z~Sure man, come pick me up in the next hour. I need a fucking drink.",
+            "translated": "~z~当然了，一小时内来接我。老子正好想喝。",
+            "desc": ""
+        },
+        {
+            "hash": 2723941679,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2775007562,
+            "original": "~z~Cool. It'll be fun. I will come over and pick you up.",
+            "translated": "~z~好，一定会很有趣的。我现在过来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 2778513418,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2793597695,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2805551012,
+            "original": "~z~Not really, but I ain't got shit else to do right now. Pick me up within the hour.",
+            "translated": "~z~一般般吧，不过我现在也没啥事做。一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 2831340790,
+            "original": "~z~You wanna get your drink on, son?",
+            "translated": "~z~想去喝几杯吗，小子？",
+            "desc": ""
+        },
+        {
+            "hash": 2840034129,
+            "original": "FCD_ACT_GETCALL_GAMES_FIRST",
+            "translated": "FCD_ACT_GETCALL_GAMES_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 2854773503,
+            "original": "~z~No, I don't want to eat just now. Maybe later.",
+            "translated": "~z~不了，我现在不太想吃，下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2863808459,
+            "original": "~z~Hey, man, it's me.",
+            "translated": "~z~喂，兄弟，是我。",
+            "desc": ""
+        },
+        {
+            "hash": 2898967127,
+            "original": "~z~Nah, man. Maybe later.",
+            "translated": "~z~不了兄弟。下次再说。",
+            "desc": ""
+        },
+        {
+            "hash": 2910732817,
+            "original": "FCD_ACT_PDW_GETCALL_BOWL_NO",
+            "translated": "FCD_ACT_PDW_GETCALL_BOWL_NO",
+            "desc": ""
+        },
+        {
+            "hash": 2920662674,
+            "original": "~z~Niko, it's me, Dwayne.",
+            "translated": "~z~Niko, 是我，Dwayne。",
+            "desc": ""
+        },
+        {
+            "hash": 2955787527,
+            "original": "FCD_ACT_GETCALL_GAMES",
+            "translated": "FCD_ACT_GETCALL_GAMES",
+            "desc": ""
+        },
+        {
+            "hash": 2989305033,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3001143621,
+            "original": "FCD_ACT_PDW_CALL_BOWL",
+            "translated": "FCD_ACT_PDW_CALL_BOWL",
+            "desc": ""
+        },
+        {
+            "hash": 3008258277,
+            "original": "~z~Yo man, we been friends for a while now. You want to grab a bite or something?",
+            "translated": "~z~哟，兄弟，我们已经是朋友了。要不要出去吃点什么？",
+            "desc": ""
+        },
+        {
+            "hash": 3043343605,
+            "original": "~z~Yeah, I'll get something to eat with you. I'll head over to your place.",
+            "translated": "~z~好，我们一起去吃点吧。我这就来你家接你。",
+            "desc": ""
+        },
+        {
+            "hash": 3059040540,
+            "original": "~z~Niko? You still alive? I thought you'd fallen off the face of the fucking earth, son. Well, you back.",
+            "translated": "~z~Niko？你没死啊？我还以为你他妈已经人间蒸发了，小子。好吧，你回来了。",
+            "desc": ""
+        },
+        {
+            "hash": 3080147788,
+            "original": "~z~Niko, on the real, I'm still real pissed at you for treating me like shit and disrespecting our friendship and shit. Call me later or something.",
+            "translated": "~z~Niko，说真的，我还是很生气，你居然这样对我，不尊重我们的友谊。有空记得给我打电话。",
+            "desc": ""
+        },
+        {
+            "hash": 3097664867,
+            "original": "~z~Dwayne, it's Niko.",
+            "translated": "~z~Dwayne，我是Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3110670778,
+            "original": "~z~Thanks man. I know it's a weird request, but it'll be fun. See you soon.",
+            "translated": "~z~谢了兄弟。我知道这个请求很怪，不过一定会很有趣的。待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 3155950859,
+            "original": "~z~Yeah head over to my crib. Should be here for an hour.",
+            "translated": "~z~恩，朝我家的方向。一小时差不多能到了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3160669479,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3196224135,
+            "original": "~z~Bowling? shit, I'd love to, but I'm kinda tied up. Maybe later.",
+            "translated": "~z~打保龄球？我挺想来，就是现在有点忙，下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3259970903,
+            "original": "~z~You wanna pick up some food? I'm hungry.",
+            "translated": "~z~你想出去吃点吗？我饿了。",
+            "desc": ""
+        },
+        {
+            "hash": 3279046773,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3311053869,
+            "original": "FCD_ACT_CALL_BOWL_NO_RECENT",
+            "translated": "FCD_ACT_CALL_BOWL_NO_RECENT",
+            "desc": ""
+        },
+        {
+            "hash": 3336311435,
+            "original": "~z~Sure man - stop by the house and get me in the next hour.",
+            "translated": "~z~当然了兄弟，一小时内来我家接我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3340630551,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3342318221,
+            "original": "~z~Dwayne.",
+            "translated": "~z~Dwayne。",
+            "desc": ""
+        },
+        {
+            "hash": 3362360641,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3372323636,
+            "original": "~z~Okay, yeah. I'll wait for you for an hour.",
+            "translated": "~z~没问题，我等你一个小时。",
+            "desc": ""
+        },
+        {
+            "hash": 3385980865,
+            "original": "~z~To be honest, I'm still mad at you for disrespecting our friendship and shit. I need time to chill. Call me some other time.",
+            "translated": "~z~说实话，你不尊重我们之间的友谊还是让我很气。我需要冷静一会儿。改天再打过来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3395433960,
+            "original": "FCD_ACT_PDW_GETCALL_BOWL_YES",
+            "translated": "FCD_ACT_PDW_GETCALL_BOWL_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3407787301,
+            "original": "~z~Great. Thanks, son. See you soon.",
+            "translated": "~z~好啊。谢了，老弟。一会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 3416395470,
+            "original": "~z~Why not? I'll come pick you up.",
+            "translated": "~z~何不呢？我马上来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 3426620346,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3443578838,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3445306179,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3450276128,
+            "original": "~z~All you wanna do is drink. You know they can help with that? Maybe later, but not now.",
+            "translated": "~z~你就知道喝酒。你知道喝酒的坏处吗？下次吧，现在不行。",
+            "desc": ""
+        },
+        {
+            "hash": 3458684078,
+            "original": "~z~You know what? I been mad at you, but I'm willing to give our friendship another round. I'll wait for you for an hour.",
+            "translated": "~z~你知道吗？你搞得我很生气，不过我会再给友谊一次机会。我等你一个小时。",
+            "desc": ""
+        },
+        {
+            "hash": 3473451560,
+            "original": "~z~Sure, I ain't got shit else to do. I'll bowl. Pick me up in the next hour.",
+            "translated": "~z~当然了，我也没啥事做。打吧。一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 3476013186,
+            "original": "~z~Sure. I'll hang with you. Pick me up in the next hour.",
+            "translated": "~z~当然，我陪你。一个小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 3476994779,
+            "original": "FCD_ACT_GETCALL_BOWL",
+            "translated": "FCD_ACT_GETCALL_BOWL",
+            "desc": ""
+        },
+        {
+            "hash": 3479479093,
+            "original": "~z~So, you wanna go bowling?",
+            "translated": "~z~那个，你想打保龄球吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3485948707,
+            "original": "FCD_ACT_CALL_GAMES_YES",
+            "translated": "FCD_ACT_CALL_GAMES_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3501017672,
+            "original": "~z~No, I can't be doing bowling again just now. We only just did that.",
+            "translated": "~z~不了，我现在不打保龄球，我们才刚打过。",
+            "desc": ""
+        },
+        {
+            "hash": 3503761516,
+            "original": "FCD_ACT_CALL_SLEEP_REPLY",
+            "translated": "FCD_ACT_CALL_SLEEP_REPLY",
+            "desc": ""
+        },
+        {
+            "hash": 3510315000,
+            "original": "~z~I'd love to man, but I'm kinda busy. Maybe later.",
+            "translated": "~z~我很想去，兄弟，不过我现在很忙，下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3523343631,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3526040193,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3547915056,
+            "original": "FCD_ACT_CALL_EAT_YES",
+            "translated": "FCD_ACT_CALL_EAT_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3552239332,
+            "original": "FCD_ACT_CALL_STRIP_NO_GENERAL",
+            "translated": "FCD_ACT_CALL_STRIP_NO_GENERAL",
+            "desc": ""
+        },
+        {
+            "hash": 3556725788,
+            "original": "~z~Dwayne? It's me.",
+            "translated": "~z~Dwayne？是我。",
+            "desc": ""
+        },
+        {
+            "hash": 3595320788,
+            "original": "~z~You still alive, motherfucker? You lost my number? It's Dwayne, I hope we still tight. Anyway...",
+            "translated": "~z~还没死啊，傻逼东西？把我号码弄丢了？我是Dwayne，希望我们还没断。算了...",
+            "desc": ""
+        },
+        {
+            "hash": 3601504183,
+            "original": "~z~Niko, it's Dwayne.",
+            "translated": "~z~Niko，我是Dwayne。",
+            "desc": ""
+        },
+        {
+            "hash": 3607516286,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3612671792,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3631897570,
+            "original": "FCD_ACT_PDW_CALL_STRIP_NO",
+            "translated": "FCD_ACT_PDW_CALL_STRIP_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3639017728,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3643379924,
+            "original": "FCD_ACT_GETCALL_IRATE",
+            "translated": "FCD_ACT_GETCALL_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 3709965843,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3710633029,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3721190017,
+            "original": "~z~Cool. Well see you soon.",
+            "translated": "~z~好的，一会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 3727229027,
+            "original": "~z~Again so soon? Man, you got a fucking problem.",
+            "translated": "~z~不是刚去过？兄弟，你有毛病吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3737773602,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3778892237,
+            "original": "FCD_ACT_PDW_CALL_SLEEPING",
+            "translated": "FCD_ACT_PDW_CALL_SLEEPING",
+            "desc": ""
+        },
+        {
+            "hash": 3805539989,
+            "original": "~z~Don't make me do no bowling again so soon. Maybe later.",
+            "translated": "~z~最近别再找我打保龄球了。以后再说。",
+            "desc": ""
+        },
+        {
+            "hash": 3806823363,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3808250748,
+            "original": "~z~No, man, I can't right now. Some other time.",
+            "translated": "~z~不，兄弟，现在不行。以后再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3829645058,
+            "original": "~z~Okay, man, I'm heading over.",
+            "translated": "~z~好的兄弟，我过来了。",
+            "desc": ""
+        },
+        {
+            "hash": 3848599271,
+            "original": "~z~Dwayne, it's me.",
+            "translated": "~z~Dwayne，是我。",
+            "desc": ""
+        },
+        {
+            "hash": 3855672620,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3890706288,
+            "original": "FCD_ACT_PDW_GETCALL_GAMES_NO",
+            "translated": "FCD_ACT_PDW_GETCALL_GAMES_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3918571740,
+            "original": "~z~Sounds like fun. I'll be over soon.",
+            "translated": "~z~听起来挺有趣的，我马上来。",
+            "desc": ""
+        },
+        {
+            "hash": 3930588295,
+            "original": "~z~All we ever do is go eat together. Another time, son.",
+            "translated": "~z~我们才刚一起吃过。改天吧，老弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3987409938,
+            "original": "~z~You hungry? Wanna grab some food?",
+            "translated": "~z~你饿吗？想不想出去吃一顿？",
+            "desc": ""
+        },
+        {
+            "hash": 3996439268,
+            "original": "~z~Good. I'll be there soon.",
+            "translated": "~z~好的，我马上就到。",
+            "desc": ""
+        },
+        {
+            "hash": 4002410889,
+            "original": "FCD_ACT_CALL_STRIP",
+            "translated": "FCD_ACT_CALL_STRIP",
+            "desc": ""
+        },
+        {
+            "hash": 4064106384,
+            "original": "FCD_ACT_CALL_EAT_NO_RECENT",
+            "translated": "FCD_ACT_CALL_EAT_NO_RECENT",
+            "desc": ""
+        },
+        {
+            "hash": 4070691605,
+            "original": "~z~I don't wanna get all sad and shit again, I felt real empty after we last went. Sorry, man.",
+            "translated": "~z~我不想越喝越愁了，上次喝酒后我真的很空虚。抱歉，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 4076024142,
+            "original": "FCD_ACT_PDW_CALL_GREET",
+            "translated": "FCD_ACT_PDW_CALL_GREET",
+            "desc": ""
+        },
+        {
+            "hash": 4093891177,
+            "original": "~z~Hey son, it's me.",
+            "translated": "~z~喂，老弟，是我。",
+            "desc": ""
+        },
+        {
+            "hash": 4096100973,
+            "original": "~z~Sure, I'll wait for you for an hour.",
+            "translated": "~z~没问题，我等你一小时。",
+            "desc": ""
+        },
+        {
+            "hash": 4124474965,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4125633790,
+            "original": "FCD_ACT_PDW_GETCALL_GAMES_YES",
+            "translated": "FCD_ACT_PDW_GETCALL_GAMES_YES",
+            "desc": ""
+        },
+        {
+            "hash": 4160733151,
+            "original": "FCD_ACT_CALL_LIKENO",
+            "translated": "FCD_ACT_CALL_LIKENO",
+            "desc": ""
+        },
+        {
+            "hash": 4191309026,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4215694752,
+            "original": "~z~Hey, man, it's Dwayne, you wanna head down the gentlemen's club and see some ass?",
+            "translated": "~z~喂兄弟，我是Dwayne，你想去绅士俱乐部看屁股吗?",
+            "desc": ""
+        },
+        {
+            "hash": 4223759291,
+            "original": "~z~No, man. I need to keep my head straight. Maybe later.",
+            "translated": "~z~不了兄弟，我需要保持头脑清醒。下次再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4229572651,
+            "original": "~z~We seem to do a lot of eating, son. Maybe later.",
+            "translated": "~z~我们好像吃得太频繁了。下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4250378913,
+            "original": "FCD_ACT_ANSWER_PHONE",
+            "translated": "FCD_ACT_ANSWER_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 4275008537,
+            "original": "~z~Okay, I'll come by and pick you up.",
+            "translated": "~z~好的，我这就来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 4285116303,
+            "original": "~z~I'm going to get some food. I wondered if you wanted to hang out?",
+            "translated": "~z~我准备去吃顿饭。你想一起吃吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4285215399,
+            "original": "FCD_ACT_CALL_DRINK_YES",
+            "translated": "FCD_ACT_CALL_DRINK_YES",
+            "desc": ""
+        },
+        {
+            "hash": 4292472197,
+            "original": "~z~Drink? Again? You some east European alcoholic, son? Maybe later, man.",
+            "translated": "~z~喝酒？又来？你小子就是东欧酒鬼？改天再说吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 4293889028,
+            "original": "~z~Sorry Dwayne - I can't do video games just now - some other time.",
+            "translated": "~z~对不起 Dwayne－我现在暂时不能玩游戏－下次吧。",
+            "desc": ""
+        }
+    ]
+}

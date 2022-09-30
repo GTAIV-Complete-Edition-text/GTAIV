@@ -1,0 +1,172 @@
+{
+    "GM3": [
+        {
+            "hash": 145019447,
+            "original": "~s~Look for the pink Feltzer.",
+            "translated": "~s~寻找粉色的Feltzer。",
+            "desc": ""
+        },
+        {
+            "hash": 191940332,
+            "original": "~s~Get in the ~b~car.",
+            "translated": "~s~上~b~车。",
+            "desc": ""
+        },
+        {
+            "hash": 266620927,
+            "original": "~s~Go to a computer terminal.",
+            "translated": "~s~找一台电脑。",
+            "desc": ""
+        },
+        {
+            "hash": 275704966,
+            "original": "~s~Click on the web icon.",
+            "translated": "~s~点击Web图标。",
+            "desc": ""
+        },
+        {
+            "hash": 295247052,
+            "original": "~s~Take the car for a test drive out of the area.",
+            "translated": "~s~进行试驾，离开此区域。",
+            "desc": ""
+        },
+        {
+            "hash": 387367412,
+            "original": "You can adjust the camera by pressing ~PAD_BACK~.",
+            "translated": "按~PAD_BACK~切换视角。",
+            "desc": ""
+        },
+        {
+            "hash": 410899781,
+            "original": "~s~Time to initiate the kidnapping. Take Gracie to the ~y~safehouse.",
+            "translated": "~s~是时候开始绑架了。带Gracie去~y~安全屋。",
+            "desc": ""
+        },
+        {
+            "hash": 444770833,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 497216336,
+            "original": "~s~Take the girl to the ~y~safehouse.",
+            "translated": "~s~把女孩送进~y~安全屋。",
+            "desc": ""
+        },
+        {
+            "hash": 563442529,
+            "original": "~s~Look for a pink Feltzer for sale and obtain the owner's contact details.",
+            "translated": "~s~寻找待售的粉色Feltzer，取得车主的联系方式。",
+            "desc": ""
+        },
+        {
+            "hash": 606140939,
+            "original": "~r~ Gracie drowned.",
+            "translated": "~r~Gracie淹死了。",
+            "desc": ""
+        },
+        {
+            "hash": 845878943,
+            "original": "~r~You were meant to kidnap her. Not take her home.",
+            "translated": "~r~你应该绑架她，不是送她回家。",
+            "desc": ""
+        },
+        {
+            "hash": 846468338,
+            "original": "~s~Call Gracie Ancelotti for a test drive.",
+            "translated": "~s~打电话给Gracie Ancelotti进行试驾。",
+            "desc": ""
+        },
+        {
+            "hash": 1062613109,
+            "original": "~r~Gracie got away.",
+            "translated": "~r~Gracie逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 1097145369,
+            "original": "~s~You now have the girl's contact number in your phone book. Log off the computer.",
+            "translated": "~s~女孩的电话已存入手机通讯录。注销电脑。",
+            "desc": ""
+        },
+        {
+            "hash": 1273921703,
+            "original": "~s~Click on the link of the car sales advert or enter the web address.",
+            "translated": "~s~点击汽车销售广告或输入网址。",
+            "desc": ""
+        },
+        {
+            "hash": 1308446147,
+            "original": "~r~The car was destroyed.",
+            "translated": "~r~车子被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 1504757084,
+            "original": "~s~Log onto a computer and use the internet.",
+            "translated": "~s~登录一台电脑，上网。",
+            "desc": ""
+        },
+        {
+            "hash": 1510106573,
+            "original": "~r~Gracie was scared off.",
+            "translated": "~r~Gracie被吓跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 1741554024,
+            "original": "~r~Gracie is dead.",
+            "translated": "~r~Gracie死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2828077123,
+            "original": "~s~Go back to the computer and log on.",
+            "translated": "~s~回到电脑前，登录。",
+            "desc": ""
+        },
+        {
+            "hash": 3402665416,
+            "original": "~s~Call Packie.",
+            "translated": "~s~联络Packie。",
+            "desc": ""
+        },
+        {
+            "hash": 3532515553,
+            "original": "~s~If you wreck the car the girl will flee the vehicle.",
+            "translated": "~s~若你使车严重受损，女孩就会逃走。",
+            "desc": ""
+        },
+        {
+            "hash": 3619215401,
+            "original": "~s~Click on the View Cars link.",
+            "translated": "~s~点击「查看车辆」。",
+            "desc": ""
+        },
+        {
+            "hash": 3728793804,
+            "original": "~s~You have spooked Gracie. Take her to the ~y~safehouse.",
+            "translated": "~s~你惊动了Gracie，带她去~y~安全屋。",
+            "desc": ""
+        },
+        {
+            "hash": 3839687109,
+            "original": "~s~Test drive the car to the ~y~coast.",
+            "translated": "~s~试驾到~y~海岸边。",
+            "desc": ""
+        },
+        {
+            "hash": 4137852240,
+            "original": "~s~Go to meet ~b~Gracie Ancelotti~s~ at her house.",
+            "translated": "~s~去~b~Gracie Ancelotti家~s~找她。",
+            "desc": ""
+        },
+        {
+            "hash": 4152926427,
+            "original": "~r~ Gracie gave up on the test drive.",
+            "translated": "~r~Gracie放弃了试驾。",
+            "desc": ""
+        }
+    ]
+}

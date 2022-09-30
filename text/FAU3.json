@@ -1,0 +1,46 @@
+{
+    "FAU3": [
+        {
+            "hash": 75047019,
+            "original": "~r~Lenny got on the train. You didn't get to the station in time~s~",
+            "translated": "~r~Lenny上车了。你没能及时赶到车站。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 494909766,
+            "original": "~s~Press ~PAD_LB~ to shoot while driving with a gun.",
+            "translated": "~s~按~PAD_LB~在驾驶时射击。",
+            "desc": ""
+        },
+        {
+            "hash": 502578706,
+            "original": "~s~Go to ~y~Guantanamo Ave~s~ in South Bohan.",
+            "translated": "~s~前往~y~South Bohan~s~的Guantanamo大道。",
+            "desc": ""
+        },
+        {
+            "hash": 527515915,
+            "original": "~s~Take down ~r~Lenny~s~ on the station platform.",
+            "translated": "~s~干掉站台上的~r~Lenny。",
+            "desc": ""
+        },
+        {
+            "hash": 2857245727,
+            "original": "~r~Lenny got away.~s~",
+            "translated": "~r~Lenny逃走了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3900507297,
+            "original": "~s~Press ~INPUT_ATTACK~ to shoot while driving with a gun.",
+            "translated": "~s~按~INPUT_ATTACK~在驾驶时射击。",
+            "desc": ""
+        },
+        {
+            "hash": 3921565094,
+            "original": "~s~Take down ~r~Lenny.~s~ Do not let him escape.",
+            "translated": "~s~干掉~r~Lenny。~s~别让他跑了。",
+            "desc": ""
+        }
+    ]
+}

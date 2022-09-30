@@ -1,0 +1,58 @@
+{
+    "WI_SAR1": [
+        {
+            "hash": 748110968,
+            "original": "Wait for Sara.",
+            "translated": "等待Sara。",
+            "desc": ""
+        },
+        {
+            "hash": 1297253846,
+            "original": "~r~Sara was abandoned.~s~",
+            "translated": "~r~Sara被抛弃了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1522344107,
+            "original": "~r~Sara has been killed.~s~",
+            "translated": "~r~Sara被杀了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1875790541,
+            "original": "You are too far away from ~b~Sara.~s~ Get closer so you can interact with her.",
+            "translated": "你离~b~Sara~s~太远了。靠近她就能与她互动了。",
+            "desc": ""
+        },
+        {
+            "hash": 2131749200,
+            "original": "Get as far away from Sara's ~r~ex-husband~s~ as possible.",
+            "translated": "尽可能远离Sara的~r~前夫。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3101154531,
+            "original": "Take Sara ~y~home.~s~",
+            "translated": "送Sara~y~回家。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3504475411,
+            "original": "Get a vehicle.",
+            "translated": "找一辆载具。",
+            "desc": ""
+        },
+        {
+            "hash": 3676774813,
+            "original": "Pick ~b~Sara~s~ up.",
+            "translated": "接上~b~Sara。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4121515681,
+            "original": "You left ~b~Sara~s~ behind.",
+            "translated": "你把~b~Sara~s~落在后面了。",
+            "desc": ""
+        }
+    ]
+}

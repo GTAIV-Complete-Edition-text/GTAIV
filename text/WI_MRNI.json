@@ -1,0 +1,46 @@
+{
+    "WI_MRNI": [
+        {
+            "hash": 882703,
+            "original": "Get Marnie to the ~y~dealer's.",
+            "translated": "带Marnie去找~y~毒贩子。",
+            "desc": ""
+        },
+        {
+            "hash": 65336942,
+            "original": "Pick up ~b~Marnie.",
+            "translated": "接上~b~Marnie。",
+            "desc": ""
+        },
+        {
+            "hash": 1203829793,
+            "original": "Wait for ~b~Marnie.",
+            "translated": "等待~b~Marnie。",
+            "desc": ""
+        },
+        {
+            "hash": 2414469565,
+            "original": "Get a vehicle.",
+            "translated": "找一辆载具。",
+            "desc": ""
+        },
+        {
+            "hash": 3369620377,
+            "original": "Take Marnie to her ~y~dealer's place.",
+            "translated": "带Marnie前往~y~毒贩子的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 3772623628,
+            "original": "~r~Marnie is dead.",
+            "translated": "~r~Marnie死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3925589876,
+            "original": "~r~Marnie was abandoned.",
+            "translated": "~r~Marnie被抛弃了。",
+            "desc": ""
+        }
+    ]
+}

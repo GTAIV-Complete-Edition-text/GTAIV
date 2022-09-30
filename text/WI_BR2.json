@@ -1,0 +1,76 @@
+{
+    "WI_BR2": [
+        {
+            "hash": 316482379,
+            "original": "You left ~b~Brian~s~ behind.",
+            "translated": "你把~b~Brian~s~落在后面了。",
+            "desc": ""
+        },
+        {
+            "hash": 453126975,
+            "original": "Lose your wanted level.",
+            "translated": "摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 727962712,
+            "original": "~r~Brian was abandoned.~s~",
+            "translated": "~r~Brian被抛弃了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1249088087,
+            "original": "You must keep Brian in sight. Get back in ~y~position.~s~",
+            "translated": "你必须让Brian保持在你的视野中，回到~y~位置上。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1624686365,
+            "original": "Wait for Brian.",
+            "translated": "等待Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 1808454917,
+            "original": "Lose your wanted level.",
+            "translated": "摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 2083091906,
+            "original": "~r~The deal was disrupted by police presence.~s~",
+            "translated": "~r~交易因警方出现而终止。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2500234516,
+            "original": "~r~The deal was disrupted.~s~",
+            "translated": "~r~交易终止。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2833338161,
+            "original": "带Brian去~y~Wappinger.~s~",
+            "translated": "送Brian去~y~Wappinger大道。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3072256940,
+            "original": "Get a vehicle.",
+            "translated": "找一辆载具。",
+            "desc": ""
+        },
+        {
+            "hash": 3074937238,
+            "original": "Pick ~b~Brian~s~ up.",
+            "translated": "接上~b~Brian。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3834529454,
+            "original": "Take Brian to his ~y~destination.~s~",
+            "translated": "带Brian去他的~y~目的地。~s~",
+            "desc": ""
+        }
+    ]
+}

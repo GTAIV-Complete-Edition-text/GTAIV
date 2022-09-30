@@ -1,0 +1,184 @@
+{
+    "PIS2AUD": [
+        {
+            "hash": 81634946,
+            "original": "~z~I think there's been a misunderstanding. I'm just here to pick it up, I'm not paying you.",
+            "translated": "~z~我想是不是有些误会了。我只是来拿包裹的，不是来付钱的。",
+            "desc": ""
+        },
+        {
+            "hash": 102854693,
+            "original": "PIS2_AD",
+            "translated": "PIS2_AD",
+            "desc": ""
+        },
+        {
+            "hash": 308420191,
+            "original": "~z~Give me the fucking package.",
+            "translated": "~z~你他妈把包裹给我。",
+            "desc": ""
+        },
+        {
+            "hash": 427959442,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 670538105,
+            "original": "~z~You're a life saver. I don't know what I would have done without you.",
+            "translated": "~z~你真是我的大恩人。没了你我都不知道会怎么样。",
+            "desc": ""
+        },
+        {
+            "hash": 696217541,
+            "original": "~z~Hello, I am here to get a package... it's for some woman, she said you'd know I was coming.",
+            "translated": "~z~你好，我是来拿包裹的...是帮某位女士拿的，她说你知道我过来的事。",
+            "desc": ""
+        },
+        {
+            "hash": 702362364,
+            "original": "PIS2_AB",
+            "translated": "PIS2_AB",
+            "desc": ""
+        },
+        {
+            "hash": 939559630,
+            "original": "PIS2_GB",
+            "translated": "PIS2_GB",
+            "desc": ""
+        },
+        {
+            "hash": 1151894251,
+            "original": "~z~Please, don't hurt me. I'll give it to you. I was just doing my job. Don't hurt me... please.",
+            "translated": "~z~求求你，别伤害我。我会给你的，我只是在尽工作的本分。别伤害我...求你了。",
+            "desc": ""
+        },
+        {
+            "hash": 1152102969,
+            "original": "020200020200",
+            "translated": "020200020200",
+            "desc": ""
+        },
+        {
+            "hash": 1261086345,
+            "original": "PIS2_BA",
+            "translated": "PIS2_BA",
+            "desc": ""
+        },
+        {
+            "hash": 1407590758,
+            "original": "~z~Your job was to give this to me. Goodbye.",
+            "translated": "~z~你的工作就是把这个给我。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1509873394,
+            "original": "PIS2_GC",
+            "translated": "PIS2_GC",
+            "desc": ""
+        },
+        {
+            "hash": 1605059121,
+            "original": "010100100100",
+            "translated": "010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 1737846751,
+            "original": "PIS2_GA",
+            "translated": "PIS2_GA",
+            "desc": ""
+        },
+        {
+            "hash": 1996936723,
+            "original": "PIS2_EB",
+            "translated": "PIS2_EB",
+            "desc": ""
+        },
+        {
+            "hash": 2046460176,
+            "original": "PIS2_BB",
+            "translated": "PIS2_BB",
+            "desc": ""
+        },
+        {
+            "hash": 2101953563,
+            "original": "~z~Here's your package.",
+            "translated": "~z~你的包裹在这儿了。",
+            "desc": ""
+        },
+        {
+            "hash": 2298479171,
+            "original": "~z~Those PR people - morons!",
+            "translated": "~z~那些PR的店员－蠢货！",
+            "desc": ""
+        },
+        {
+            "hash": 2308899131,
+            "original": "PIS2_EC",
+            "translated": "PIS2_EC",
+            "desc": ""
+        },
+        {
+            "hash": 2681614319,
+            "original": "~z~Here's your shit. But they didn't know I was coming at the store. I had to pay.",
+            "translated": "~z~你的垃圾拿去。但是他们不知道我会去店里，就只能付钱了。",
+            "desc": ""
+        },
+        {
+            "hash": 2725266089,
+            "original": "020200020",
+            "translated": "020200020",
+            "desc": ""
+        },
+        {
+            "hash": 2790931345,
+            "original": "PIS2_ED",
+            "translated": "PIS2_ED",
+            "desc": ""
+        },
+        {
+            "hash": 2828154344,
+            "original": "PIS2_AC",
+            "translated": "PIS2_AC",
+            "desc": ""
+        },
+        {
+            "hash": 2987054168,
+            "original": "~z~I'll call and get everything squared for you.",
+            "translated": "~z~我会打电话帮你把事情摆平的。",
+            "desc": ""
+        },
+        {
+            "hash": 3008448294,
+            "original": "PIS2_AA",
+            "translated": "PIS2_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3225514181,
+            "original": "~z~You think they would kill to see their product in a spread like this.",
+            "translated": "~z~你觉得他们会想看着自己的商品这样推广吗。",
+            "desc": ""
+        },
+        {
+            "hash": 3458597728,
+            "original": "PIS2_EA",
+            "translated": "PIS2_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3533685255,
+            "original": "~z~Sorry, sugar. If you want the package, you're going to have to pay for it. That's the way things work.",
+            "translated": "~z~抱歉，宝贝，你想要包裹，你就得付钱。规矩就是这样。",
+            "desc": ""
+        },
+        {
+            "hash": 4140599904,
+            "original": "~z~Sure, sweetie. I've got it right here. That'll be five hundred.",
+            "translated": "~z~当然，宝贝，东西就在这儿呢。请付五百元。",
+            "desc": ""
+        }
+    ]
+}

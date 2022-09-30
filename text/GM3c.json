@@ -1,0 +1,76 @@
+{
+    "GM3c": [
+        {
+            "hash": 244753325,
+            "original": "~r~Gracie is dead.~s~",
+            "translated": "~r~Gracie死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 263048079,
+            "original": "Get out of the building.",
+            "translated": "离开安全屋。",
+            "desc": ""
+        },
+        {
+            "hash": 319693584,
+            "original": "Take a photo of ~b~Gracie.",
+            "translated": "拍一张~b~Gracie的照片。",
+            "desc": ""
+        },
+        {
+            "hash": 1099213200,
+            "original": "~s~Get Gracie's face in the shot.",
+            "translated": "~s~要拍到Gracie的脸。",
+            "desc": ""
+        },
+        {
+            "hash": 1279186150,
+            "original": "~s~Go downstairs to the safehouse.",
+            "translated": "~s~下楼前往安全屋。",
+            "desc": ""
+        },
+        {
+            "hash": 1366433105,
+            "original": "~s~Go upstairs to the safehouse.",
+            "translated": "~s~上楼前往安全屋。",
+            "desc": ""
+        },
+        {
+            "hash": 1841289051,
+            "original": "~s~Take the photo now.",
+            "translated": "~s~立刻拍照。",
+            "desc": ""
+        },
+        {
+            "hash": 1915350088,
+            "original": "~s~Press ~INPUT_PICKUP~ to get her to look at you.",
+            "translated": "~s~按~INPUT_PICKUP~让她看向你。",
+            "desc": ""
+        },
+        {
+            "hash": 2041438986,
+            "original": "~s~Take a photo then send it to Packie.",
+            "translated": "~s~拍下照片后发送给Packie。",
+            "desc": ""
+        },
+        {
+            "hash": 3444508401,
+            "original": "Send the photo to Packie.",
+            "translated": "发送照片给Packie。",
+            "desc": ""
+        },
+        {
+            "hash": 3544331054,
+            "original": "~r~Gordon is dead.~s~",
+            "translated": "~r~Gordon死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3779029769,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        }
+    ]
+}

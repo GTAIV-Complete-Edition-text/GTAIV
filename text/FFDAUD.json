@@ -1,0 +1,250 @@
+{
+    "FFDAUD": [
+        {
+            "hash": 15040001,
+            "original": "~z~Hi, how can I help you?",
+            "translated": "~z~嗨，您需要点什么？",
+            "desc": ""
+        },
+        {
+            "hash": 17858131,
+            "original": "~z~Hello, are you ready to order?",
+            "translated": "~z~您好，您需要点些什么？",
+            "desc": ""
+        },
+        {
+            "hash": 66618996,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 86415854,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 103136492,
+            "original": "~z~Goodbye, have a nice day.",
+            "translated": "~z~再见，祝您生活愉快。",
+            "desc": ""
+        },
+        {
+            "hash": 170561675,
+            "original": "~z~Yes, what can I get you?",
+            "translated": "~z~您需要点什么？",
+            "desc": ""
+        },
+        {
+            "hash": 274658472,
+            "original": "FFD_BURGER_BYE",
+            "translated": "FFD_BURGER_BYE",
+            "desc": ""
+        },
+        {
+            "hash": 277795262,
+            "original": "~z~Bye, thanks for eating at Burger Shot.",
+            "translated": "~z~再见，吃得饱汉堡感谢您的光临。",
+            "desc": ""
+        },
+        {
+            "hash": 856806767,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 917032895,
+            "original": "~z~Ay, hombre! That is disgusting!",
+            "translated": "~z~啊老兄！太恶心了！",
+            "desc": ""
+        },
+        {
+            "hash": 939277844,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 980145122,
+            "original": "FFD_FOOD_SERVE_MEAL",
+            "translated": "FFD_FOOD_SERVE_MEAL",
+            "desc": ""
+        },
+        {
+            "hash": 1225670254,
+            "original": "FFD_FOOD_WHAT_WANT",
+            "translated": "FFD_FOOD_WHAT_WANT",
+            "desc": ""
+        },
+        {
+            "hash": 1559335099,
+            "original": "~z~Goodbye.",
+            "translated": "~z~再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1655518868,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1716163238,
+            "original": "FFD_FOOD_PLAYER_SICK",
+            "translated": "FFD_FOOD_PLAYER_SICK",
+            "desc": ""
+        },
+        {
+            "hash": 1915280074,
+            "original": "FFD_CLUCK_HI",
+            "translated": "FFD_CLUCK_HI",
+            "desc": ""
+        },
+        {
+            "hash": 1946049482,
+            "original": "FFD_BURGER_HI",
+            "translated": "FFD_BURGER_HI",
+            "desc": ""
+        },
+        {
+            "hash": 1960766148,
+            "original": "FFD_CLUCK_BYE",
+            "translated": "FFD_CLUCK_BYE",
+            "desc": ""
+        },
+        {
+            "hash": 2214006182,
+            "original": "FFD_FOOD_BOUGHT_ENOUGH",
+            "translated": "FFD_FOOD_BOUGHT_ENOUGH",
+            "desc": ""
+        },
+        {
+            "hash": 2416428933,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2656387082,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2673704068,
+            "original": "~z~There.",
+            "translated": "~z~给。",
+            "desc": ""
+        },
+        {
+            "hash": 2683764171,
+            "original": "~z~Here.",
+            "translated": "~z~给。",
+            "desc": ""
+        },
+        {
+            "hash": 2712674867,
+            "original": "FFD_THANKS",
+            "translated": "FFD_THANKS",
+            "desc": ""
+        },
+        {
+            "hash": 2725413570,
+            "original": "~z~Here it is.",
+            "translated": "~z~请拿好。",
+            "desc": ""
+        },
+        {
+            "hash": 2756240578,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2914540758,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3139521817,
+            "original": "~z~Bye!",
+            "translated": "~z~拜拜！",
+            "desc": ""
+        },
+        {
+            "hash": 3139637431,
+            "original": "~z~Ay, get outta here man!",
+            "translated": "~z~喂，给我滚出去！",
+            "desc": ""
+        },
+        {
+            "hash": 3360369415,
+            "original": "~z~I ain't serving you no more.",
+            "translated": "~z~我不会给你点餐了。",
+            "desc": ""
+        },
+        {
+            "hash": 3423057942,
+            "original": "~z~Hi, welcome to Cluckin' Bell, what can I get for you?",
+            "translated": "~z~嗨！欢迎光临铛铛钟，您要点些什么？",
+            "desc": ""
+        },
+        {
+            "hash": 3561121377,
+            "original": "~z~Here you go.",
+            "translated": "~z~请拿好。",
+            "desc": ""
+        },
+        {
+            "hash": 3601981229,
+            "original": "~z~Thanks for choosing Burger Shot, where the burgers are bleedin' tasty.",
+            "translated": "~z~感谢光临吃得饱汉堡，这里的汉堡绝对美味。",
+            "desc": ""
+        },
+        {
+            "hash": 3663696555,
+            "original": "~z~Thanks!",
+            "translated": "~z~谢了！",
+            "desc": ""
+        },
+        {
+            "hash": 3732298995,
+            "original": "~z~Hello, welcome to Cluckin' Bell, how can I help you?",
+            "translated": "~z~您好，欢迎光临铛铛钟，您需要点些什么？",
+            "desc": ""
+        },
+        {
+            "hash": 3821762912,
+            "original": "~z~Hi, welcome to Burger Shot, how can I help you?",
+            "translated": "~z~嗨，欢迎光临吃得饱汉堡，您需要点些什么？",
+            "desc": ""
+        },
+        {
+            "hash": 3903106869,
+            "original": "~z~Gracias.",
+            "translated": "~z~谢谢。",
+            "desc": ""
+        },
+        {
+            "hash": 4013087388,
+            "original": "~z~Hi, what can I get you?",
+            "translated": "~z~嗨，您想吃点什么？",
+            "desc": ""
+        },
+        {
+            "hash": 4041309235,
+            "original": "~z~No way, I ain't givin' you no more food.",
+            "translated": "~z~没门，我不会给你点餐了！",
+            "desc": ""
+        },
+        {
+            "hash": 4219656564,
+            "original": "~z~Ay, man, now I gotta clean that shit up!",
+            "translated": "~z~哎，现在我还得打扫这破玩意！",
+            "desc": ""
+        }
+    ]
+}

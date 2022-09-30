@@ -1,0 +1,76 @@
+{
+    "JIMMY3": [
+        {
+            "hash": 138893089,
+            "original": "~r~The cops are onto you. Your chance is gone.",
+            "translated": "~r~警察发现你了，你没机会了。",
+            "desc": ""
+        },
+        {
+            "hash": 154786038,
+            "original": "~s~Silence ~r~Anthony,~s~ he's in the ER.",
+            "translated": "~s~让~r~Anthony~s~永远闭嘴，他在急诊部(ER)。",
+            "desc": ""
+        },
+        {
+            "hash": 275048268,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1466725722,
+            "original": "~s~Go to the ~y~hospital.",
+            "translated": "~s~前往~y~医院。",
+            "desc": ""
+        },
+        {
+            "hash": 1590910964,
+            "original": "Do not enter the building with a weapon drawn, there may be cops inside.",
+            "translated": "不要持械进入医院，医院里可能有警察。",
+            "desc": ""
+        },
+        {
+            "hash": 1814311574,
+            "original": "Press ~a~ to change into doctor's scrubs.",
+            "translated": "按~PAD_LB~换上医生工作服。",
+            "desc": ""
+        },
+        {
+            "hash": 2281883097,
+            "original": "Press ~a~ to speak to the nurse.",
+            "translated": "按~PAD_LB~与护士交谈。",
+            "desc": ""
+        },
+        {
+            "hash": 2662171615,
+            "original": "~s~Move quickly, the cops are onto you.",
+            "translated": "~s~快点行动，警察注意到你了。",
+            "desc": ""
+        },
+        {
+            "hash": 3017911879,
+            "original": "~s~Staff have alerted the cops.",
+            "translated": "~s~医院职工通报警方了。",
+            "desc": ""
+        },
+        {
+            "hash": 3032753488,
+            "original": "Press ~a~ to unplug the life support machine.",
+            "translated": "按~PAD_LB~切断维生装置的电源。",
+            "desc": ""
+        },
+        {
+            "hash": 3256765120,
+            "original": "~s~Get out quickly and discreetly.",
+            "translated": "~s~迅速谨慎地离开医院。",
+            "desc": ""
+        },
+        {
+            "hash": 4210506865,
+            "original": "~s~Go ~y~outside.",
+            "translated": "~s~去~y~外面。",
+            "desc": ""
+        }
+    ]
+}

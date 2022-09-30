@@ -1,0 +1,472 @@
+{
+    "E1AUD": [
+        {
+            "hash": 123146550,
+            "original": "~z~Yeah, yeah.",
+            "translated": "~z~行，行。",
+            "desc": ""
+        },
+        {
+            "hash": 168596829,
+            "original": "~z~Ah. Maybe...",
+            "translated": "~z~啊。也许吧...",
+            "desc": ""
+        },
+        {
+            "hash": 279746484,
+            "original": "~z~I got this meeting over on Joliet Street. There's a rifle up on the roof of the place next door.",
+            "translated": "~z~我把交易安排在了Joliet街。那边对面的屋顶上有把狙击枪。",
+            "desc": ""
+        },
+        {
+            "hash": 314795452,
+            "original": "E1_AG",
+            "translated": "E1_AG",
+            "desc": ""
+        },
+        {
+            "hash": 374776311,
+            "original": "E1_EC",
+            "translated": "E1_EC",
+            "desc": ""
+        },
+        {
+            "hash": 377365339,
+            "original": "~z~Where we going?",
+            "translated": "~z~我们去哪儿？",
+            "desc": ""
+        },
+        {
+            "hash": 395720400,
+            "original": "E1_AA",
+            "translated": "E1_AA",
+            "desc": ""
+        },
+        {
+            "hash": 399978738,
+            "original": "~z~Alright, tough guy, let's do this.",
+            "translated": "~z~好了，猛男，我们出发吧。",
+            "desc": ""
+        },
+        {
+            "hash": 439790280,
+            "original": "~z~You need to go up there and make sure nothing goes wrong.",
+            "translated": "~z~你需要上到楼顶，确保交易不出差错。",
+            "desc": ""
+        },
+        {
+            "hash": 488193210,
+            "original": "~z~Buena suerte.",
+            "translated": "~z~祝你好运。",
+            "desc": ""
+        },
+        {
+            "hash": 578307404,
+            "original": "~z~I think it'll be a bit more taxing than hanging with Manny on \"the streets\".",
+            "translated": "~z~我觉得这活比跟Manny一起在「街道」上转悠更费事。",
+            "desc": ""
+        },
+        {
+            "hash": 654173546,
+            "original": "E1_BA",
+            "translated": "E1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 803921969,
+            "original": "~z~Not so.",
+            "translated": "~z~不至于。",
+            "desc": ""
+        },
+        {
+            "hash": 864638451,
+            "original": "~z~You got a good look about you and I'm lucky with my gut feelings.",
+            "translated": "~z~你长得就像好人，而我的直觉向来很准。",
+            "desc": ""
+        },
+        {
+            "hash": 875331224,
+            "original": "~z~Okay... thank you, Mal.",
+            "translated": "~z~好的...谢谢你，Mal。",
+            "desc": ""
+        },
+        {
+            "hash": 882676371,
+            "original": "~z~You don't trust these guys you're doing the deal with, how come you trust me?",
+            "translated": "~z~你都不相信那些跟你交易的人，怎么还信得过我？",
+            "desc": ""
+        },
+        {
+            "hash": 1047401243,
+            "original": "~z~-Oh. Hey. Como esta?~n~-Hey, how's it going?",
+            "translated": "~z~－哦，嘿。你好啊！~n~－嘿，近来可好？",
+            "desc": ""
+        },
+        {
+            "hash": 1134000764,
+            "original": "E1_EA",
+            "translated": "E1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1158023783,
+            "original": "~z~For one, I won't have to listen to him talk.",
+            "translated": "~z~至少我不用听他扯淡了。",
+            "desc": ""
+        },
+        {
+            "hash": 1201903424,
+            "original": "E1_DB",
+            "translated": "E1_DB",
+            "desc": ""
+        },
+        {
+            "hash": 1240600338,
+            "original": "~z~Mallorie was right about you. You are good. I have some more work for you.",
+            "translated": "~z~Mallorie说的没错，你很棒。我还有更多工作给你。",
+            "desc": ""
+        },
+        {
+            "hash": 1241268750,
+            "original": "~z~I am sorry but your friend Patrick's luck ran out.",
+            "translated": "~z~我很抱歉，但是你朋友Patrick的好运用光了。",
+            "desc": ""
+        },
+        {
+            "hash": 1278488231,
+            "original": "~z~Oh wait, espera.",
+            "translated": "~z~噢，等等，停一停。",
+            "desc": ""
+        },
+        {
+            "hash": 1298507828,
+            "original": "E1_DA",
+            "translated": "E1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1422895610,
+            "original": "~z~True!",
+            "translated": "~z~确实！",
+            "desc": ""
+        },
+        {
+            "hash": 1481485257,
+            "original": "~z~I'm sure Packie is pleased as well, ah?",
+            "translated": "~z~Packie肯定也很满意，哈？",
+            "desc": ""
+        },
+        {
+            "hash": 1554895849,
+            "original": "E1_BB",
+            "translated": "E1_BB",
+            "desc": ""
+        },
+        {
+            "hash": 1611186636,
+            "original": "~z~So... Packie is shopping.",
+            "translated": "~z~那...Packie要去进货。",
+            "desc": ""
+        },
+        {
+            "hash": 1734469745,
+            "original": "E1_BC",
+            "translated": "E1_BC",
+            "desc": ""
+        },
+        {
+            "hash": 1794047799,
+            "original": "~z~You're my guardian angel.",
+            "translated": "~z~你就是我的守护天使。",
+            "desc": ""
+        },
+        {
+            "hash": 1835028766,
+            "original": "~z~You'll see me and my boys show up in a bit.",
+            "translated": "~z~一会儿你会看到我和我的手下出现。",
+            "desc": ""
+        },
+        {
+            "hash": 1845648821,
+            "original": "200020",
+            "translated": "200020",
+            "desc": ""
+        },
+        {
+            "hash": 1878288017,
+            "original": "E1_DC",
+            "translated": "E1_DC",
+            "desc": ""
+        },
+        {
+            "hash": 1903060119,
+            "original": "~z~But I've never trusted the people he's buying off,",
+            "translated": "~z~但我从没信任过他找的卖家。",
+            "desc": ""
+        },
+        {
+            "hash": 1915544756,
+            "original": "~z~So, tough guy, you know about this business?",
+            "translated": "~z~所以，猛男，你了解这行吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2017697436,
+            "original": "~z~Putana. How I going to explain this to his hermano? I wish you had learned to shoot.",
+            "translated": "~z~妈逼的。我怎么跟他的兄弟解释？真希望你有学过打枪。",
+            "desc": ""
+        },
+        {
+            "hash": 2026833884,
+            "original": "~z~Liz, this is Niko, Roman's cousin,",
+            "translated": "~z~Liz，他是Niko，Roman的堂弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2047993730,
+            "original": "020200200200",
+            "translated": "020200200200",
+            "desc": ""
+        },
+        {
+            "hash": 2125924917,
+            "original": "100100010",
+            "translated": "100100010",
+            "desc": ""
+        },
+        {
+            "hash": 2131485588,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2160296417,
+            "original": "~z~I know about protection. What do you need?",
+            "translated": "~z~我了解保卫工作。你需要什么？",
+            "desc": ""
+        },
+        {
+            "hash": 2193789691,
+            "original": "E1_AD",
+            "translated": "E1_AD",
+            "desc": ""
+        },
+        {
+            "hash": 2247264922,
+            "original": "E1_AE",
+            "translated": "E1_AE",
+            "desc": ""
+        },
+        {
+            "hash": 2275517825,
+            "original": "~z~and Niko, this is Elizabeta.",
+            "translated": "~z~然后Niko，这位是Elizabeta。",
+            "desc": ""
+        },
+        {
+            "hash": 2340493708,
+            "original": "~z~Oh, he's totally cool. Yeah, he's like family.",
+            "translated": "~z~哦，他太棒了。是的，他就像家人一样。",
+            "desc": ""
+        },
+        {
+            "hash": 2359632786,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 2390407387,
+            "original": "E1_AC",
+            "translated": "E1_AC",
+            "desc": ""
+        },
+        {
+            "hash": 2426477365,
+            "original": "~z~You let the bastard get away, Niko.",
+            "translated": "~z~你让那混蛋跑了，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2506375430,
+            "original": "~z~She's an old friend. She'll give you some work.",
+            "translated": "~z~她是我的老朋友了，可以给你点活干。",
+            "desc": ""
+        },
+        {
+            "hash": 2545070015,
+            "original": "~z~I need someone no one knows to oversee a deal I'm not sure about.",
+            "translated": "~z~我需要一个没人认识的人，去盯一场我不太放心的交易。",
+            "desc": ""
+        },
+        {
+            "hash": 2627058405,
+            "original": "~z~and I can't, in good consciousness, help him...",
+            "translated": "~z~而且说实话，我也没法帮他...",
+            "desc": ""
+        },
+        {
+            "hash": 2643606634,
+            "original": "~z~Sure.",
+            "translated": "~z~当然。",
+            "desc": ""
+        },
+        {
+            "hash": 2654156377,
+            "original": "~z~Maybe I was too busy saving your ass to clean up your mess? Sue me.",
+            "translated": "~z~可能是我忙着救你的命，没空收拾残局？你打我啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2713541044,
+            "original": "~z~So I said if that's the way you want it amigo, then that's what you're gonna get. And that shut him up.",
+            "translated": "~z~我就说，你要真想这样，大兄弟，那我就满足你。然后就让他闭了嘴。",
+            "desc": ""
+        },
+        {
+            "hash": 2736932746,
+            "original": "~z~See you later, Niko.",
+            "translated": "~z~回头见，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2749384730,
+            "original": "~z~Easy.",
+            "translated": "~z~简单。",
+            "desc": ""
+        },
+        {
+            "hash": 2814165997,
+            "original": "E1_EB",
+            "translated": "E1_EB",
+            "desc": ""
+        },
+        {
+            "hash": 2917948818,
+            "original": "~z~unless he's got some extra insurance -",
+            "translated": "~z~只能给他额外上一层保险——",
+            "desc": ""
+        },
+        {
+            "hash": 2944038190,
+            "original": "~z~Fucking punk.",
+            "translated": "~z~傻逼儿子。",
+            "desc": ""
+        },
+        {
+            "hash": 2946016967,
+            "original": "E1_CB",
+            "translated": "E1_CB",
+            "desc": ""
+        },
+        {
+            "hash": 3014451846,
+            "original": "~z~Those dealers double crossed your boy, but I managed to keep him alive.",
+            "translated": "~z~那些毒贩骗了你的人，但我成功保住了他的命。",
+            "desc": ""
+        },
+        {
+            "hash": 3025924937,
+            "original": "E1_AB",
+            "translated": "E1_AB",
+            "desc": ""
+        },
+        {
+            "hash": 3091216118,
+            "original": "E1_CA",
+            "translated": "E1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3175087369,
+            "original": "~z~So, he seems okay.",
+            "translated": "~z~我说，他看起来还行。",
+            "desc": ""
+        },
+        {
+            "hash": 3469091404,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 3552971384,
+            "original": "100100010",
+            "translated": "100100010",
+            "desc": ""
+        },
+        {
+            "hash": 3577321775,
+            "original": "~z~You didn't give them the chance to do the deal.",
+            "translated": "~z~你都没有给他们交易的机会。",
+            "desc": ""
+        },
+        {
+            "hash": 3596594692,
+            "original": "~z~you.",
+            "translated": "~z~你。",
+            "desc": ""
+        },
+        {
+            "hash": 3646731030,
+            "original": "~z~Hey Niko, this is Patrick - Packie McReary.",
+            "translated": "~z~嘿Niko，他是Patrick——Packie McReary。",
+            "desc": ""
+        },
+        {
+            "hash": 3691751123,
+            "original": "~z~Sorry, I just didn't want them trying nothing with your boy. I'll come see you.",
+            "translated": "~z~抱歉，我只是想让他们别打你的人的主意。我会来找你的。",
+            "desc": ""
+        },
+        {
+            "hash": 3829221823,
+            "original": "~z~And that's why you're the best, darling.",
+            "translated": "~z~所以你才是最棒的，亲爱的。",
+            "desc": ""
+        },
+        {
+            "hash": 3869787970,
+            "original": "~z~Niko, It's Packie. What the hell went wrong back there?",
+            "translated": "~z~Niko，我是Packie。那边到底他妈发生了什么？",
+            "desc": ""
+        },
+        {
+            "hash": 3942968390,
+            "original": "~z~Jorge, He's with me.",
+            "translated": "~z~Jorge，我带他来的。",
+            "desc": ""
+        },
+        {
+            "hash": 3961019065,
+            "original": "~z~Goodbye.",
+            "translated": "~z~再见。",
+            "desc": ""
+        },
+        {
+            "hash": 4012039842,
+            "original": "~z~-Alright.~n~-Hey.",
+            "translated": "~z~－你好。~n~－嘿。",
+            "desc": ""
+        },
+        {
+            "hash": 4049036599,
+            "original": "~z~And will you call Michelle again? She really likes you.",
+            "translated": "~z~你会再联系Michelle吗？她真的很喜欢你。",
+            "desc": ""
+        },
+        {
+            "hash": 4284448842,
+            "original": "E1_AF",
+            "translated": "E1_AF",
+            "desc": ""
+        },
+        {
+            "hash": 4284902792,
+            "original": "~z~What you doing? I get a call from these dealers saying someone shooting at 'em.",
+            "translated": "~z~你干了什么？我刚接到了卖家的电话说有人枪击他们。",
+            "desc": ""
+        }
+    ]
+}

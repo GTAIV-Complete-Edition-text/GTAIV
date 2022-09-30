@@ -1,0 +1,166 @@
+{
+    "ROMAN4": [
+        {
+            "hash": 672620599,
+            "original": "~s~Press ~PAD_B~ for right punch",
+            "translated": "~s~按~PAD_B~用右直拳攻击",
+            "desc": ""
+        },
+        {
+            "hash": 977470610,
+            "original": "~s~Press ~INPUT_MELEE_ATTACK1~ to punch.~n~Press ~INPUT_MELEE_ATTACK2~ for alternative punch.~n~~s~Press ~INPUT_MELEE_KICK~ to kick.",
+            "translated": "~s~按~INPUT_MELEE_ATTACK1~或~INPUT_MELEE_ATTACK2~拳击。~n~按~INPUT_MELEE_KICK~踢击。",
+            "desc": ""
+        },
+        {
+            "hash": 1222550225,
+            "original": "~r~Dardan~s~ has abandoned his car. He's escaping on foot up the staircase.",
+            "translated": "~r~Dardan~s~抛弃了车，他正在楼梯上徒步逃跑。",
+            "desc": ""
+        },
+        {
+            "hash": 1469135127,
+            "original": "~s~The color of the segments represent the type of character you are locked onto. Red indicates an enemy.",
+            "translated": "~s~短弧的颜色代表被锁定人物的类型。红色表示敌人。",
+            "desc": ""
+        },
+        {
+            "hash": 1578705078,
+            "original": "~s~Go and get ~b~Roman.",
+            "translated": "~s~去接~b~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 1595985485,
+            "original": "~s~Hold ~INPUT_MELEE_BLOCK~ to block.",
+            "translated": "~s~按住~INPUT_MELEE_BLOCK~格挡。",
+            "desc": ""
+        },
+        {
+            "hash": 1677109545,
+            "original": "~s~Beat up ~r~Bledar.",
+            "translated": "~s~打倒~r~Bledar。",
+            "desc": ""
+        },
+        {
+            "hash": 1677538202,
+            "original": "~s~Tap ~INPUT_MELEE_BLOCK~ as your opponent attacks to dodge. Press ~INPUT_MELEE_ATTACK1~ or ~INPUT_MELEE_ATTACK2~ after dodging to perform a powerful counter move.",
+            "translated": "~s~对手攻击时可按~INPUT_MELEE_BLOCK~闪避。~n~闪避后可按~INPUT_MELEE_ATTACK1~或~INPUT_MELEE_ATTACK2~进行反击。",
+            "desc": ""
+        },
+        {
+            "hash": 1876194411,
+            "original": "~s~Press ~PAD_START~ and choose 'Display' to toggle on/off GPS route.",
+            "translated": "~s~按下~PAD_START~后选择「显示」可开关GPS路线。",
+            "desc": ""
+        },
+        {
+            "hash": 1982942622,
+            "original": "~s~Go and rescue ~b~Roman.",
+            "translated": "~s~去救~b~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 2422768720,
+            "original": "~s~Wait for ~b~Roman.",
+            "translated": "~s~等待~b~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 2531223924,
+            "original": "~s~To disarm your opponent, tap ~INPUT_MELEE_BLOCK~ to dodge then press ~INPUT_MELEE_ATTACK2~ or ~INPUT_MELEE_ATTACK1~ to disarm.",
+            "translated": "~s~若要解除对手的武装，按~INPUT_MELEE_BLOCK~闪避，再按~INPUT_MELEE_ATTACK2~或~INPUT_MELEE_ATTACK1~夺械。",
+            "desc": ""
+        },
+        {
+            "hash": 2573145949,
+            "original": "~s~Go and help ~b~Roman.",
+            "translated": "~s~解救~b~Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 2579945325,
+            "original": "~r~Roman is dead.",
+            "translated": "~r~Roman死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2820202556,
+            "original": "~s~Hold ~INPUT_AIM~ to lock onto your target.",
+            "translated": "~s~按住~INPUT_AIM~锁定目标。",
+            "desc": ""
+        },
+        {
+            "hash": 2950186035,
+            "original": "~s~Drive Roman to the ~y~garage.",
+            "translated": "~s~送Roman回~y~车行。",
+            "desc": ""
+        },
+        {
+            "hash": 3034991947,
+            "original": "~s~Chase ~r~Dardan.",
+            "translated": "~s~追逐~r~Dardan。",
+            "desc": ""
+        },
+        {
+            "hash": 3039989316,
+            "original": "~r~You went too far.",
+            "translated": "~r~你做得太过了。",
+            "desc": ""
+        },
+        {
+            "hash": 3207356887,
+            "original": "~s~Get in ~b~Roman's car.",
+            "translated": "~s~进入~b~Roman的车。",
+            "desc": ""
+        },
+        {
+            "hash": 3346313928,
+            "original": "~r~Dardan has escaped.",
+            "translated": "~r~Dardan跑掉了。",
+            "desc": ""
+        },
+        {
+            "hash": 3502130523,
+            "original": "~r~Roman's car has been abandoned.",
+            "translated": "~r~Roman的车被抛弃了。",
+            "desc": ""
+        },
+        {
+            "hash": 3595196227,
+            "original": "~s~If an enemy is above or below you an arrow will be displayed on their radar blip.",
+            "translated": "~s~如果敌人处在你的上方或下方，他在小地图上的图标中将显示一个箭头。",
+            "desc": ""
+        },
+        {
+            "hash": 3807996369,
+            "original": "~r~Roman's car has been trashed.",
+            "translated": "~r~Roman的车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3816675077,
+            "original": "~s~While locked onto an enemy, the target reticule's eight central segments represent their health.",
+            "translated": "~s~锁定敌人时，准星中的八个短弧表示他们的血量。",
+            "desc": ""
+        },
+        {
+            "hash": 4030450705,
+            "original": "~s~Beat up ~r~Kalem.",
+            "translated": "~s~打倒~r~Kalem。",
+            "desc": ""
+        },
+        {
+            "hash": 4058117053,
+            "original": "~s~Take out ~r~Dardan.",
+            "translated": "~s~干掉~r~Dardan。",
+            "desc": ""
+        },
+        {
+            "hash": 4263518238,
+            "original": "~r~You left Roman behind.",
+            "translated": "~r~你抛弃了Roman。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,718 @@
+{
+    "GM3CAUD": [
+        {
+            "hash": 23373747,
+            "original": "~z~Fuck you.",
+            "translated": "~z~操你妈。",
+            "desc": ""
+        },
+        {
+            "hash": 42791208,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 62228954,
+            "original": "~z~What are you doing back?",
+            "translated": "~z~你回来干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 84327802,
+            "original": "~z~For now.",
+            "translated": "~z~暂时是。",
+            "desc": ""
+        },
+        {
+            "hash": 94883624,
+            "original": "GM3_B_PA",
+            "translated": "GM3_B_PA",
+            "desc": ""
+        },
+        {
+            "hash": 227572837,
+            "original": "~z~That's reason enough for me.",
+            "translated": "~z~对我来说理由已经够充分了。",
+            "desc": ""
+        },
+        {
+            "hash": 242879989,
+            "original": "GM3_B_TE",
+            "translated": "GM3_B_TE",
+            "desc": ""
+        },
+        {
+            "hash": 276040946,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 343212670,
+            "original": "GM3_A_HB",
+            "translated": "GM3_A_HB",
+            "desc": ""
+        },
+        {
+            "hash": 360407831,
+            "original": "~z~Have fun out there.",
+            "translated": "~z~外出愉快。",
+            "desc": ""
+        },
+        {
+            "hash": 366511935,
+            "original": "~z~How's my favorite girl?",
+            "translated": "~z~我最爱的小姑娘怎么样了？",
+            "desc": ""
+        },
+        {
+            "hash": 419207351,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 458006304,
+            "original": "~z~Why don't you make yourself useful and go get me some fries?",
+            "translated": "~z~你能不能派上点用场，帮我去买份薯条？",
+            "desc": ""
+        },
+        {
+            "hash": 518725410,
+            "original": "~z~Well he better pay quick.",
+            "translated": "~z~那他最好能早点交钱。",
+            "desc": ""
+        },
+        {
+            "hash": 538289897,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 568053469,
+            "original": "GM3_A_LB",
+            "translated": "GM3_A_LB",
+            "desc": ""
+        },
+        {
+            "hash": 568799552,
+            "original": "GM3_A_KB",
+            "translated": "GM3_A_KB",
+            "desc": ""
+        },
+        {
+            "hash": 586032936,
+            "original": "~z~Guys, the bitch better be worth the trouble.",
+            "translated": "~z~伙计们，这个贱人最好对得起那么多麻烦。",
+            "desc": ""
+        },
+        {
+            "hash": 596259614,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 604020560,
+            "original": "GM3_A_MA",
+            "translated": "GM3_A_MA",
+            "desc": ""
+        },
+        {
+            "hash": 610513230,
+            "original": "~z~From your sticking around here, I reckon you might have a soft spot for old Gracie.",
+            "translated": "~z~既然你还待在这儿，我觉得还是由你来看守Gracie比较好。",
+            "desc": ""
+        },
+        {
+            "hash": 671109743,
+            "original": "~z~There something you missed?",
+            "translated": "~z~落了什么吗？",
+            "desc": ""
+        },
+        {
+            "hash": 693815107,
+            "original": "010100100010010",
+            "translated": "010100100010010",
+            "desc": ""
+        },
+        {
+            "hash": 703552374,
+            "original": "GM3_B_QA",
+            "translated": "GM3_B_QA",
+            "desc": ""
+        },
+        {
+            "hash": 706854989,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 759118817,
+            "original": "~z~Hey, you been missing me? Look up here.",
+            "translated": "~z~嘿，你想我吗？抬头看这儿。",
+            "desc": ""
+        },
+        {
+            "hash": 777536366,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 815252091,
+            "original": "~z~Her pa's got some serious cash and he pissed off Gerald.",
+            "translated": "~z~她爸很有钱，还得罪了Gerald。",
+            "desc": ""
+        },
+        {
+            "hash": 834434381,
+            "original": "GM3_A_GC",
+            "translated": "GM3_A_GC",
+            "desc": ""
+        },
+        {
+            "hash": 848971415,
+            "original": "~z~Come on Gracie, I want you looking pretty for the photo.",
+            "translated": "~z~配合点，Gracie，我也想让你拍起来好看点。",
+            "desc": ""
+        },
+        {
+            "hash": 850005913,
+            "original": "GM3_A_JC",
+            "translated": "GM3_A_JC",
+            "desc": ""
+        },
+        {
+            "hash": 920278587,
+            "original": "~z~Shit, Niko. If you're gonna hang around, why don't you look after the bitch?",
+            "translated": "~z~我靠，Niko。你要是还想待在这儿，干嘛不自己看着这贱人？",
+            "desc": ""
+        },
+        {
+            "hash": 926025068,
+            "original": "~z~Where you been? I been jonesing for some fries for about five hours.",
+            "translated": "~z~你去哪儿了？我已经饿了快五个小时了。",
+            "desc": ""
+        },
+        {
+            "hash": 936963781,
+            "original": "~z~You need to get some counseling or something because you're out of control. I'll talk to you later.",
+            "translated": "~z~这么严重的话，你就该去医院看看了。我们之后再说。",
+            "desc": ""
+        },
+        {
+            "hash": 971961932,
+            "original": "~z~You forget something?",
+            "translated": "~z~有什么忘了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1043261543,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1051187421,
+            "original": "~z~We need a picture of Grace, her pa thinks she's holed up with some guy. He don't believe we got her.",
+            "translated": "~z~我们需要一张Grace的照片，她爸还以为她在和哪个男人鬼混呢。他不相信她在我们手里。",
+            "desc": ""
+        },
+        {
+            "hash": 1060990277,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 1061872979,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1071740383,
+            "original": "200020200",
+            "translated": "200020200",
+            "desc": ""
+        },
+        {
+            "hash": 1110434815,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 1133090159,
+            "original": "~z~Not unless that guy is into some sick shit. Later on, Packie.",
+            "translated": "~z~除非那个男人是个重口味变态。回见，Packie。",
+            "desc": ""
+        },
+        {
+            "hash": 1167493696,
+            "original": "~z~Jesus, Niko. What's wrong with you?",
+            "translated": "~z~天哪，Niko。你什么毛病？",
+            "desc": ""
+        },
+        {
+            "hash": 1173327900,
+            "original": "GM3_A_IB",
+            "translated": "GM3_A_IB",
+            "desc": ""
+        },
+        {
+            "hash": 1291402867,
+            "original": "~z~Yo, you wanna go down to the strip club, Mr. Mention?",
+            "translated": "~z~哟，要不要一起去脱衣舞俱乐部啊，我的先生？",
+            "desc": ""
+        },
+        {
+            "hash": 1303226807,
+            "original": "~z~Nice one, Niko. Old man Ancelotti won't believe his girl's holed up with a guy no more.",
+            "translated": "~z~干得好，Niko。Ancelotti头子不会认为女儿在和男人鬼混了。",
+            "desc": ""
+        },
+        {
+            "hash": 1306740798,
+            "original": "GM3_B_TC",
+            "translated": "GM3_B_TC",
+            "desc": ""
+        },
+        {
+            "hash": 1315763584,
+            "original": "GM3_A_MB",
+            "translated": "GM3_A_MB",
+            "desc": ""
+        },
+        {
+            "hash": 1360103648,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1378650278,
+            "original": "~z~Are you gonna photograph that fine lady, or what?",
+            "translated": "~z~你是要给那个好姑娘拍照吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1382641996,
+            "original": "200020",
+            "translated": "200020",
+            "desc": ""
+        },
+        {
+            "hash": 1390912738,
+            "original": "~z~I need to learn to control myself. Gordon's dead.",
+            "translated": "~z~我要学会控制自己。Gordon死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1420069524,
+            "original": "~z~There he is! Stevie, dump the car. I'll take this piece of ass.",
+            "translated": "~z~他来了！Stevie，把车扔了。这个贱人就交给我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1467910794,
+            "original": "~z~Okay, I'll send you it on my phone.",
+            "translated": "~z~好的，待会儿我用手机发给你。",
+            "desc": ""
+        },
+        {
+            "hash": 1499137125,
+            "original": "GM3_A_HA",
+            "translated": "GM3_A_HA",
+            "desc": ""
+        },
+        {
+            "hash": 1614879348,
+            "original": "GM3_A_MC",
+            "translated": "GM3_A_MC",
+            "desc": ""
+        },
+        {
+            "hash": 1664359683,
+            "original": "GM3_B_OA",
+            "translated": "GM3_B_OA",
+            "desc": ""
+        },
+        {
+            "hash": 1681118110,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 1766432286,
+            "original": "GM3_B_SA",
+            "translated": "GM3_B_SA",
+            "desc": ""
+        },
+        {
+            "hash": 1768732454,
+            "original": "~z~Photograph her already, you being here might get her all excited.",
+            "translated": "~z~照片都拍完了，你待在这儿会刺激到她的。",
+            "desc": ""
+        },
+        {
+            "hash": 1791275286,
+            "original": "~z~So, I'm a portrait photographer now?",
+            "translated": "~z~那现在我是人像摄影师喽？",
+            "desc": ""
+        },
+        {
+            "hash": 1835125453,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 2001327440,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2166660673,
+            "original": "GM3_A_JB",
+            "translated": "GM3_A_JB",
+            "desc": ""
+        },
+        {
+            "hash": 2188891662,
+            "original": "GM3_B_NA",
+            "translated": "GM3_B_NA",
+            "desc": ""
+        },
+        {
+            "hash": 2219093595,
+            "original": "020",
+            "translated": "020",
+            "desc": ""
+        },
+        {
+            "hash": 2223517080,
+            "original": "~z~Whappen rasta?",
+            "translated": "~z~怎么样伙计？",
+            "desc": ""
+        },
+        {
+            "hash": 2304540050,
+            "original": "GM3_B_RA",
+            "translated": "GM3_B_RA",
+            "desc": ""
+        },
+        {
+            "hash": 2309094341,
+            "original": "~z~Niko, some fries would really hit the spot right now.",
+            "translated": "~z~Niko，这会儿我真的很需要来点薯条。",
+            "desc": ""
+        },
+        {
+            "hash": 2326783589,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 2327837756,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2402114376,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2458644867,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 2503416014,
+            "original": "GM3_A_KA",
+            "translated": "GM3_A_KA",
+            "desc": ""
+        },
+        {
+            "hash": 2538132249,
+            "original": "~z~No can do, Jacob.",
+            "translated": "~z~没法去，Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 2549795984,
+            "original": "GM3_B_UA",
+            "translated": "GM3_B_UA",
+            "desc": ""
+        },
+        {
+            "hash": 2643776954,
+            "original": "~z~When you baby sit this bitch, you can choose what to watch.",
+            "translated": "~z~你还要看孩子，别挑这挑那了。",
+            "desc": ""
+        },
+        {
+            "hash": 2732545146,
+            "original": "GM3_A_LA",
+            "translated": "GM3_A_LA",
+            "desc": ""
+        },
+        {
+            "hash": 2784079294,
+            "original": "GM3_A_GE",
+            "translated": "GM3_A_GE",
+            "desc": ""
+        },
+        {
+            "hash": 2803828320,
+            "original": "~z~Enjoy your freedom.",
+            "translated": "~z~享受你的自由吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2870636741,
+            "original": "~z~It's painful enough looking after Gracie, at least let me watch what I wanna.",
+            "translated": "~z~光要盯着Grace就够痛苦了，至少让我看个电视吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2871716127,
+            "original": "GM3_ZA",
+            "translated": "GM3_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 2887026371,
+            "original": "GM3_B_TA",
+            "translated": "GM3_B_TA",
+            "desc": ""
+        },
+        {
+            "hash": 2975145267,
+            "original": "~z~Shit, man. I saw her and I got the rage. I killed Grace.",
+            "translated": "~z~操，老兄。一看见她我就来气。我把Grace杀了。",
+            "desc": ""
+        },
+        {
+            "hash": 3062878579,
+            "original": "~z~You going to take my picture as well, Niko?",
+            "translated": "~z~你还要给我拍照吗，Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 3062910621,
+            "original": "~z~Don't cause me no more trouble, look up here.",
+            "translated": "~z~别给我添麻烦，抬头。",
+            "desc": ""
+        },
+        {
+            "hash": 3129497952,
+            "original": "~z~You don't need to think too much about the composition. Just take the photo that proves she's alive.",
+            "translated": "~z~构图什么的不用多想，只要拍出来能证明她还活着就行。",
+            "desc": ""
+        },
+        {
+            "hash": 3131398137,
+            "original": "GM3_A_GA",
+            "translated": "GM3_A_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3197743261,
+            "original": "~z~She's psychotic as fuck, Niko. You leave her for a second and the whole place is trashed.",
+            "translated": "~z~她他妈脑子有病，Niko。放开她一秒，整间屋子就毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3214588350,
+            "original": "~z~You dumb chump. She was my meal ticket. Gerry ain't gonna be happy with ya. You're lucky he's in prison.",
+            "translated": "~z~你个白痴，她可是我的饭票。Gerry不会对你高兴的。他在坐牢算你走运。",
+            "desc": ""
+        },
+        {
+            "hash": 3229572226,
+            "original": "~z~Will you do it? Ma's still upset.",
+            "translated": "~z~能拜托你吗？妈还是很伤心。",
+            "desc": ""
+        },
+        {
+            "hash": 3245926773,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3288014584,
+            "original": "~z~Sorry, your shift ain't over, Gordo. I'm just here for some holiday pics.",
+            "translated": "~z~抱歉，你的轮班还没结束，Gordon。我只是来拍点度假照片的。",
+            "desc": ""
+        },
+        {
+            "hash": 3305680300,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 3339629320,
+            "original": "~z~Smile for your daddy, Grace.",
+            "translated": "~z~给你爹笑一个，Grace。",
+            "desc": ""
+        },
+        {
+            "hash": 3354012268,
+            "original": "~z~Hey, what are ya doing? I was watching that.",
+            "translated": "~z~喂，你在干嘛？我还在看电视呢。",
+            "desc": ""
+        },
+        {
+            "hash": 3366766971,
+            "original": "~z~See you later, man.",
+            "translated": "~z~回头见，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 3420257293,
+            "original": "~z~The sooner you take this fucking picture, the sooner we can give this lovely lady back to her daddy.",
+            "translated": "~z~你越早把照拍好，我们就能越早把这个可爱的姑娘送还给她爹地。",
+            "desc": ""
+        },
+        {
+            "hash": 3447715879,
+            "original": "GM3_A_IA",
+            "translated": "GM3_A_IA",
+            "desc": ""
+        },
+        {
+            "hash": 3448799712,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3453993026,
+            "original": "~z~I've got a girl with me and I don't think it would be appropriate.",
+            "translated": "~z~我现在和一个姑娘在一起，去那里可能不太合适。",
+            "desc": ""
+        },
+        {
+            "hash": 3473756552,
+            "original": "~z~Your problem, not mine.",
+            "translated": "~z~你的问题，别找我。",
+            "desc": ""
+        },
+        {
+            "hash": 3540490865,
+            "original": "GM3_B_TD",
+            "translated": "GM3_B_TD",
+            "desc": ""
+        },
+        {
+            "hash": 3561994589,
+            "original": "GM3_A_GB",
+            "translated": "GM3_A_GB",
+            "desc": ""
+        },
+        {
+            "hash": 3570341293,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3587978367,
+            "original": "GM3_A_JA",
+            "translated": "GM3_A_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3667048005,
+            "original": "~z~Hey Gordon.",
+            "translated": "~z~嘿，Gordon。",
+            "desc": ""
+        },
+        {
+            "hash": 3760022717,
+            "original": "~z~Let's speak soon though, huh?",
+            "translated": "~z~我们以后再说，哈？",
+            "desc": ""
+        },
+        {
+            "hash": 3764758867,
+            "original": "~z~This is nice, Niko. You planning on hanging out here long?",
+            "translated": "~z~挺好的，Niko。你是打算在这儿待很久吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3804778370,
+            "original": "100010",
+            "translated": "100010",
+            "desc": ""
+        },
+        {
+            "hash": 3862050931,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3920647296,
+            "original": "~z~Having fun, Gordo?",
+            "translated": "~z~还开心吗，Gordo？",
+            "desc": ""
+        },
+        {
+            "hash": 3921386755,
+            "original": "100100010010010",
+            "translated": "100100010010010",
+            "desc": ""
+        },
+        {
+            "hash": 3925652798,
+            "original": "~z~I hate to think of the fight she'll put up if you try to cut her fingers off.",
+            "translated": "~z~我都不敢想你要切她手指的时候她会闹多大动静。",
+            "desc": ""
+        },
+        {
+            "hash": 3939181612,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 3941471869,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 4007543794,
+            "original": "GM3_A_GD",
+            "translated": "GM3_A_GD",
+            "desc": ""
+        },
+        {
+            "hash": 4125513691,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4190381437,
+            "original": "GM3_B_TB",
+            "translated": "GM3_B_TB",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "BERNIE2": [
+        {
+            "hash": 209034267,
+            "original": "~s~Eliminate the ~r~blackmailers.",
+            "translated": "~s~消灭~r~勒索者。",
+            "desc": ""
+        },
+        {
+            "hash": 224042473,
+            "original": "~r~You lost the blackmailers.",
+            "translated": "~r~你跟丢了勒索者。",
+            "desc": ""
+        },
+        {
+            "hash": 447232128,
+            "original": "~r~Bernie is dead.",
+            "translated": "~r~Bernie死了。",
+            "desc": ""
+        },
+        {
+            "hash": 452016406,
+            "original": "~r~You lost the blackmailer.",
+            "translated": "~r~你跟丢了勒索者。",
+            "desc": ""
+        },
+        {
+            "hash": 575948764,
+            "original": "~s~You need a vehicle.",
+            "translated": "~s~你需要一辆载具。",
+            "desc": ""
+        },
+        {
+            "hash": 796779055,
+            "original": "~s~Placeholder!~n~Waiting for NY Mocap.~n~(Deal goes bad, russians flee)",
+            "translated": "~s~Placeholder!~n~Waiting for NY Mocap.~n~(Deal goes bad, russians flee)",
+            "desc": ""
+        },
+        {
+            "hash": 1216972726,
+            "original": "~r~Bernie can't handle being left alone.",
+            "translated": "~r~Bernie无法忍受被你抛下。",
+            "desc": ""
+        },
+        {
+            "hash": 1411558264,
+            "original": "~s~Don't leave ~b~Bernie~s~ behind.",
+            "translated": "~s~别把~b~Bernie~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 1422139435,
+            "original": "This vehicle will not satisfy Bernie.",
+            "translated": "这辆车Bernie不满意。",
+            "desc": ""
+        },
+        {
+            "hash": 1754879077,
+            "original": "~s~Placeholder! ~n~ Mocap Cutscene",
+            "translated": "~s~Placeholder! ~n~ Mocap Cutscene",
+            "desc": ""
+        },
+        {
+            "hash": 1821855697,
+            "original": "~s~There are too many cops about, lose your wanted level.",
+            "translated": "~s~到处都是警察，摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1994584312,
+            "original": "~s~Take Bernie to the ~y~rendezvous~s~ to meet with the blackmailers.",
+            "translated": "~s~带Bernie去~y~会面地点~s~找勒索者。",
+            "desc": ""
+        },
+        {
+            "hash": 2407339424,
+            "original": "Find a car.",
+            "translated": "找一辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 2680927805,
+            "original": "Pick up ~b~Bernie.",
+            "translated": "接上~b~Bernie。",
+            "desc": ""
+        },
+        {
+            "hash": 3005013215,
+            "original": "Go to ~b~Bernie.",
+            "translated": "去找~b~Bernie。",
+            "desc": ""
+        },
+        {
+            "hash": 3244194146,
+            "original": "Take Bernie back to his ~y~apartment.",
+            "translated": "送Bernie回他的~y~公寓。",
+            "desc": ""
+        }
+    ]
+}

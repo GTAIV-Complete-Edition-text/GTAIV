@@ -1,0 +1,94 @@
+{
+    "VLAD4": [
+        {
+            "hash": 283532358,
+            "original": "~s~Hold ~INPUT_SPRINT~ while climbing a ladder to climb faster.",
+            "translated": "~s~爬梯子时按住~INPUT_SPRINT~可以爬得更快。",
+            "desc": ""
+        },
+        {
+            "hash": 286502506,
+            "original": "~r~Ivan got away.",
+            "translated": "~r~Ivan逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 437768805,
+            "original": "~s~When an enemy's icon flashes between blue and red you have the choice between killing them and letting them live. Your decision could have repercussions.",
+            "translated": "~s~当敌人的标志出现红蓝闪烁时，你可以选择杀死或放过对方，你的决定可能会对后续情节造成影响。",
+            "desc": ""
+        },
+        {
+            "hash": 465400308,
+            "original": "~s~Press ~INPUT_JUMP~ while running to jump between buildings.",
+            "translated": "~s~奔跑时按~INPUT_JUMP~可以在建筑之间跳跃。",
+            "desc": ""
+        },
+        {
+            "hash": 569112513,
+            "original": "~s~Go to ~y~Roman's garage.",
+            "translated": "~s~前往~y~Roman的车行。",
+            "desc": ""
+        },
+        {
+            "hash": 718735767,
+            "original": "~r~Ivan~s~ is already making an escape. Chase him.",
+            "translated": "~r~Ivan~s~正在逃跑，追上他。",
+            "desc": ""
+        },
+        {
+            "hash": 1031778024,
+            "original": "~s~Chase ~r~Ivan.",
+            "translated": "~s~追上~r~Ivan。",
+            "desc": ""
+        },
+        {
+            "hash": 1092016912,
+            "original": "~s~Choose ~b~Ivan's~s~ fate.",
+            "translated": "~s~决定~b~Ivan~s~的命运。",
+            "desc": ""
+        },
+        {
+            "hash": 1848055498,
+            "original": "~s~Press ~INPUT_ENTER~ to mount the ladder. Use ~PAD_LSTICK_UPDOWN~ to move up and down on the ladder.",
+            "translated": "~s~按~INPUT_ENTER~登上梯子，用~PAD_LSTICK_UPDOWN~在梯子上攀爬。",
+            "desc": ""
+        },
+        {
+            "hash": 2011441732,
+            "original": "~s~Use the ladders to chase Ivan through the building site.",
+            "translated": "~s~爬上梯子，在工地中追赶Ivan。",
+            "desc": ""
+        },
+        {
+            "hash": 2506938713,
+            "original": "~r~Ivan~s~ is escaping into the construction site. Chase him.",
+            "translated": "~r~Ivan~s~逃进了建筑工地，追上去。",
+            "desc": ""
+        },
+        {
+            "hash": 2909204265,
+            "original": "~s~Choose ~r~Ivan's~s~ fate.",
+            "translated": "~s~决定~r~Ivan~s~的命运。",
+            "desc": ""
+        },
+        {
+            "hash": 3206822083,
+            "original": "~s~Press ~INPUT_JUMP~ to climb over objects or walls.",
+            "translated": "~s~按~INPUT_JUMP~翻越障碍物或墙。",
+            "desc": ""
+        },
+        {
+            "hash": 3918946261,
+            "original": "~s~Use ~INPUT_SPRINT~ while climbing a ladder to climb faster.",
+            "translated": "~s~爬梯子时按~INPUT_SPRINT~可以爬得更快。",
+            "desc": ""
+        },
+        {
+            "hash": 3984299377,
+            "original": "~s~Press ~INPUT_PICKUP~ to help Ivan up. Press ~INPUT_MELEE_KICK~ to kick Ivan off the edge.",
+            "translated": "~s~按~INPUT_PICKUP~救起Ivan，按~INPUT_MELEE_KICK~把Ivan踹下楼。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,784 @@
+{
+    "FCDDAU": [
+        {
+            "hash": 2537736,
+            "original": "~z~cause you ain't a fucking woman, and you know?",
+            "translated": "~z~因为你丫又不是个娘们，知道吗？",
+            "desc": ""
+        },
+        {
+            "hash": 61805988,
+            "original": "~z~I'm a maniac, man... just like you.",
+            "translated": "~z~我是个疯子，兄弟...跟你一样。",
+            "desc": ""
+        },
+        {
+            "hash": 63757656,
+            "original": "~z~You know that?",
+            "translated": "~z~你知道吗？",
+            "desc": ""
+        },
+        {
+            "hash": 144644872,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CA",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CA",
+            "desc": ""
+        },
+        {
+            "hash": 162322699,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EF",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EF",
+            "desc": ""
+        },
+        {
+            "hash": 166822646,
+            "original": "~z~don't be like that. Don't be a dick. God, why are people always assholes?",
+            "translated": "~z~你别那样。别变成混蛋。上帝啊，为什么人们都是混蛋？",
+            "desc": ""
+        },
+        {
+            "hash": 219456968,
+            "original": "~z~Sure.",
+            "translated": "~z~当然。",
+            "desc": ""
+        },
+        {
+            "hash": 235552828,
+            "original": "~z~Man, I am too drunk to think.",
+            "translated": "~z~兄弟，我喝得太多，不能思考了。",
+            "desc": ""
+        },
+        {
+            "hash": 235598292,
+            "original": "~z~because I was jealous, because I couldn't handle his success.",
+            "translated": "~z~因为我嫉妒他，因为我嫉妒他的成功。",
+            "desc": ""
+        },
+        {
+            "hash": 293238951,
+            "original": "~z~Yeah, well it lets me forget.",
+            "translated": "~z~噢，至少对我有效。",
+            "desc": ""
+        },
+        {
+            "hash": 305554686,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AG",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AG",
+            "desc": ""
+        },
+        {
+            "hash": 337981865,
+            "original": "~z~Okay great... now, please, let me drive.",
+            "translated": "~z~好，好...别说了，让我开车。",
+            "desc": ""
+        },
+        {
+            "hash": 342759281,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AB",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AB",
+            "desc": ""
+        },
+        {
+            "hash": 349713739,
+            "original": "~z~Yes.",
+            "translated": "~z~是的。",
+            "desc": ""
+        },
+        {
+            "hash": 406904332,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DD",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DD",
+            "desc": ""
+        },
+        {
+            "hash": 414157297,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BF",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BF",
+            "desc": ""
+        },
+        {
+            "hash": 435175418,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CB",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CB",
+            "desc": ""
+        },
+        {
+            "hash": 450357333,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EC",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EC",
+            "desc": ""
+        },
+        {
+            "hash": 505587113,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EI",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EI",
+            "desc": ""
+        },
+        {
+            "hash": 664526853,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CD",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CD",
+            "desc": ""
+        },
+        {
+            "hash": 669630182,
+            "original": "~z~Don't be like that,",
+            "translated": "~z~你别那样，",
+            "desc": ""
+        },
+        {
+            "hash": 691474335,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AF",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AF",
+            "desc": ""
+        },
+        {
+            "hash": 695950997,
+            "original": "~z~Really?",
+            "translated": "~z~真的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 701340130,
+            "original": "100010100100100100010100100010",
+            "translated": "100010100100100100010100100010",
+            "desc": ""
+        },
+        {
+            "hash": 702504221,
+            "original": "~z~I love you, man. You're my best friend. My best friend.",
+            "translated": "~z~我爱你，兄弟。你是我最好的朋友。最好的朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 708305589,
+            "original": "~z~Sure.",
+            "translated": "~z~当然。",
+            "desc": ""
+        },
+        {
+            "hash": 709317013,
+            "original": "100010100010100010100100100010",
+            "translated": "100010100010100010100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 734433355,
+            "original": "~z~So you keep drinking, and suddenly you feel like shit.",
+            "translated": "~z~于是你一直喝酒，突然像吃了屎一样。",
+            "desc": ""
+        },
+        {
+            "hash": 748393184,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EA",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EA",
+            "desc": ""
+        },
+        {
+            "hash": 772589809,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EL",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EL",
+            "desc": ""
+        },
+        {
+            "hash": 780275337,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_ED",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_ED",
+            "desc": ""
+        },
+        {
+            "hash": 825045341,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FJ",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FJ",
+            "desc": ""
+        },
+        {
+            "hash": 912211261,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FK",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FK",
+            "desc": ""
+        },
+        {
+            "hash": 1038824596,
+            "original": "~z~seems people don't want you to disappear, you get that warm, happy glow, you know?",
+            "translated": "~z~像是没人想你消失，你感到温暖、快乐、满足，懂吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1052968660,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FA",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1067767047,
+            "original": "~z~You think? Better than sex?",
+            "translated": "~z~你这么想的？比做爱还爽？",
+            "desc": ""
+        },
+        {
+            "hash": 1088592338,
+            "original": "100010100010100100100100010100100100010010",
+            "translated": "100010100010100100100100010100100100010010",
+            "desc": ""
+        },
+        {
+            "hash": 1106250830,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FB",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FB",
+            "desc": ""
+        },
+        {
+            "hash": 1142600194,
+            "original": "100010100100010100010100010100010",
+            "translated": "100010100100010100010100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 1182310946,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BC",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BC",
+            "desc": ""
+        },
+        {
+            "hash": 1209441563,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FE",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FE",
+            "desc": ""
+        },
+        {
+            "hash": 1277029881,
+            "original": "~z~Man, that was fun. Booze man... it's the greatest thing.",
+            "translated": "~z~兄弟，太爽了。痛饮...再爽不过了。",
+            "desc": ""
+        },
+        {
+            "hash": 1319657497,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AI",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AI",
+            "desc": ""
+        },
+        {
+            "hash": 1361648156,
+            "original": "100100100100100100100100100100100",
+            "translated": "100100100100100100100100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 1496083222,
+            "original": "~z~You feel good, fucking good!",
+            "translated": "~z~你感觉很好，巨他妈好！",
+            "desc": ""
+        },
+        {
+            "hash": 1545583341,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FC",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FC",
+            "desc": ""
+        },
+        {
+            "hash": 1583606041,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DF",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DF",
+            "desc": ""
+        },
+        {
+            "hash": 1606861802,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CH",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CH",
+            "desc": ""
+        },
+        {
+            "hash": 1639207218,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FH",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FH",
+            "desc": ""
+        },
+        {
+            "hash": 1692664453,
+            "original": "~z~It seems, it seems people don't hate you,",
+            "translated": "~z~感觉像，感觉像没人讨厌你，",
+            "desc": ""
+        },
+        {
+            "hash": 1814499842,
+            "original": "~z~Kill me, Niko.",
+            "translated": "~z~杀了我，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1844374046,
+            "original": "~z~Once, I got drunk and shot somebody, you know that?",
+            "translated": "~z~有一次，我喝醉后掏枪打死了人，你知道吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1876346749,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CG",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CG",
+            "desc": ""
+        },
+        {
+            "hash": 1925698843,
+            "original": "~z~Cool. Keep quiet for a while then.",
+            "translated": "~z~好。消停一会吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1994030325,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CI",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CI",
+            "desc": ""
+        },
+        {
+            "hash": 2028813751,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DA",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2035317601,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CJ",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CJ",
+            "desc": ""
+        },
+        {
+            "hash": 2122626749,
+            "original": "~z~Man, I am shit. Useless shit.",
+            "translated": "~z~兄弟，我他妈混蛋。废物混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 2155384629,
+            "original": "~z~I never told nobody that.",
+            "translated": "~z~我从没跟别人说过。",
+            "desc": ""
+        },
+        {
+            "hash": 2181957008,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CK",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CK",
+            "desc": ""
+        },
+        {
+            "hash": 2182664476,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AJ",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AJ",
+            "desc": ""
+        },
+        {
+            "hash": 2322113301,
+            "original": "~z~I'm pretty drunk man.",
+            "translated": "~z~我喝得烂醉了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2323893947,
+            "original": "~z~I'm a fucking murderer - I killed my best friend!",
+            "translated": "~z~我他妈是个杀人犯！我杀了我最好的朋友！",
+            "desc": ""
+        },
+        {
+            "hash": 2325345404,
+            "original": "~z~Dwayne, please shut up, you're drunk.",
+            "translated": "~z~Dwayne，闭嘴吧，你醉了。",
+            "desc": ""
+        },
+        {
+            "hash": 2326906204,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DE",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DE",
+            "desc": ""
+        },
+        {
+            "hash": 2345411381,
+            "original": "~z~Oh man, I think I'm going to be sick.",
+            "translated": "~z~天哪，感觉我快要吐了。",
+            "desc": ""
+        },
+        {
+            "hash": 2457853372,
+            "original": "~z~You know what, man, I can't fucking stand it,",
+            "translated": "~z~你知道吗，兄弟，我他妈受不了了。",
+            "desc": ""
+        },
+        {
+            "hash": 2466635391,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EB",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EB",
+            "desc": ""
+        },
+        {
+            "hash": 2551745371,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EM",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EM",
+            "desc": ""
+        },
+        {
+            "hash": 2559624501,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BB",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BB",
+            "desc": ""
+        },
+        {
+            "hash": 2578620183,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EK",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EK",
+            "desc": ""
+        },
+        {
+            "hash": 2595987920,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FI",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FI",
+            "desc": ""
+        },
+        {
+            "hash": 2628208530,
+            "original": "~z~Me too.",
+            "translated": "~z~我也是。",
+            "desc": ""
+        },
+        {
+            "hash": 2706545241,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BG",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BG",
+            "desc": ""
+        },
+        {
+            "hash": 2720666580,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DB",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DB",
+            "desc": ""
+        },
+        {
+            "hash": 2727443935,
+            "original": "~z~Feeling okay son, o-fucking-kay, you know?",
+            "translated": "~z~感觉OK哪，OJBK，懂吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2758064090,
+            "original": "~z~You know what Niko? I love you man.",
+            "translated": "~z~你知道吗，Niko？我爱你。",
+            "desc": ""
+        },
+        {
+            "hash": 2759624680,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EG",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EG",
+            "desc": ""
+        },
+        {
+            "hash": 2761776928,
+            "original": "100010100100100010",
+            "translated": "100010100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 2791036531,
+            "original": "~z~Man, shit is fucked up.",
+            "translated": "~z~兄弟，真他妈糟。",
+            "desc": ""
+        },
+        {
+            "hash": 2801679657,
+            "original": "~z~Fuck man... I am drunk!",
+            "translated": "~z~操...我醉了！",
+            "desc": ""
+        },
+        {
+            "hash": 2852262492,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BK",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BK",
+            "desc": ""
+        },
+        {
+            "hash": 2866930671,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CC",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CC",
+            "desc": ""
+        },
+        {
+            "hash": 2913048994,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AE",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AE",
+            "desc": ""
+        },
+        {
+            "hash": 2972563483,
+            "original": "~z~You're drunk, shut up.",
+            "translated": "~z~你喝多了，闭嘴吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2989904765,
+            "original": "~z~Cool. I've been more sober myself.",
+            "translated": "~z~好。我倒是更清醒了。",
+            "desc": ""
+        },
+        {
+            "hash": 3128662300,
+            "original": "~z~Fuck. I think I'm seeing triple.",
+            "translated": "~z~操，我好像看东西重影了。",
+            "desc": ""
+        },
+        {
+            "hash": 3159792846,
+            "original": "~z~Cool.",
+            "translated": "~z~很好。",
+            "desc": ""
+        },
+        {
+            "hash": 3166818347,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BH",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BH",
+            "desc": ""
+        },
+        {
+            "hash": 3322746810,
+            "original": "~z~I'm a drinker.",
+            "translated": "~z~我是个醉汉。",
+            "desc": ""
+        },
+        {
+            "hash": 3357887622,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DC",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DC",
+            "desc": ""
+        },
+        {
+            "hash": 3426106513,
+            "original": "~z~Too drunk to talk, too drunk to think, too drunk to speak.",
+            "translated": "~z~话说不顺，事搞不清，嘴张不开。",
+            "desc": ""
+        },
+        {
+            "hash": 3431101388,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BE",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BE",
+            "desc": ""
+        },
+        {
+            "hash": 3437107996,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FD",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FD",
+            "desc": ""
+        },
+        {
+            "hash": 3464431523,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EJ",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EJ",
+            "desc": ""
+        },
+        {
+            "hash": 3470622050,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BA",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3474165051,
+            "original": "~z~I mean you dress like an idiot",
+            "translated": "~z~我是说你穿得傻逼，",
+            "desc": ""
+        },
+        {
+            "hash": 3503119181,
+            "original": "~z~do whatever but shut up.",
+            "translated": "~z~闭上嘴你干啥都行。",
+            "desc": ""
+        },
+        {
+            "hash": 3535909155,
+            "original": "~z~I am so fucking drunk, man...",
+            "translated": "~z~我他妈的喝醉了，兄弟...",
+            "desc": ""
+        },
+        {
+            "hash": 3556644178,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CF",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CF",
+            "desc": ""
+        },
+        {
+            "hash": 3556836313,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BD",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BD",
+            "desc": ""
+        },
+        {
+            "hash": 3572152344,
+            "original": "~z~Great.",
+            "translated": "~z~很好。",
+            "desc": ""
+        },
+        {
+            "hash": 3577833985,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AH",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AH",
+            "desc": ""
+        },
+        {
+            "hash": 3602600347,
+            "original": "~z~Cool. Please be quiet a minute, I'm trying to concentrate.",
+            "translated": "~z~好。那你稍微消停会儿，让我回回神。",
+            "desc": ""
+        },
+        {
+            "hash": 3611729483,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AA",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3650809696,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AC",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AC",
+            "desc": ""
+        },
+        {
+            "hash": 3668110849,
+            "original": "~z~I mean you go out, you start drinking and then the world seems okay, you know?",
+            "translated": "~z~我是说，一出门，一喝酒，然后感觉一切太平，懂吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3697474372,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EH",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EH",
+            "desc": ""
+        },
+        {
+            "hash": 3703449744,
+            "original": "~z~For a fucking immigrant psycho, you ain't bad...",
+            "translated": "~z~虽然是个神经病移民，但你还不赖...",
+            "desc": ""
+        },
+        {
+            "hash": 3727914929,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AD",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AD",
+            "desc": ""
+        },
+        {
+            "hash": 3729920611,
+            "original": "~z~Lets me forget that I killed my best friend,",
+            "translated": "~z~让我忘记我杀死了我最好的朋友，",
+            "desc": ""
+        },
+        {
+            "hash": 3807510422,
+            "original": "~z~Shut up, please for the love of God, try to enjoy yourself,",
+            "translated": "~z~闭嘴，看在上帝的份上，享受当下吧，",
+            "desc": ""
+        },
+        {
+            "hash": 3818691820,
+            "original": "~z~Not me.",
+            "translated": "~z~对我无效。",
+            "desc": ""
+        },
+        {
+            "hash": 3840246406,
+            "original": "~z~And you want to cry, only you can't cry,",
+            "translated": "~z~然后你就想哭，但你不能哭，",
+            "desc": ""
+        },
+        {
+            "hash": 3875598886,
+            "original": "~z~Either that or I got a lot of fingers I never knew about...",
+            "translated": "~z~不是重影，就是我自己都不知道我有这么多手指头了...",
+            "desc": ""
+        },
+        {
+            "hash": 3877919883,
+            "original": "~z~That's why we friends. We both mad.",
+            "translated": "~z~所以我们能交朋友。我们都是疯子。",
+            "desc": ""
+        },
+        {
+            "hash": 3952816333,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BJ",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BJ",
+            "desc": ""
+        },
+        {
+            "hash": 3973552561,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EN",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EN",
+            "desc": ""
+        },
+        {
+            "hash": 3982405744,
+            "original": "~z~Hell yeah... because booze lets you forget, man. Lets you fucking forget.",
+            "translated": "~z~当然了...因为痛饮让你忘记痛苦，兄弟。让你他妈忘记痛苦。",
+            "desc": ""
+        },
+        {
+            "hash": 3986082369,
+            "original": "~z~It sure sounds like it.",
+            "translated": "~z~听上去是的。",
+            "desc": ""
+        },
+        {
+            "hash": 3992031441,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EE",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EE",
+            "desc": ""
+        },
+        {
+            "hash": 4013779482,
+            "original": "~z~I ain't shitting you man. I ain't a shitter. I ain't a fucking shitter.",
+            "translated": "~z~我没骗你，兄弟。我不是个骗子，我他妈不是骗子。",
+            "desc": ""
+        },
+        {
+            "hash": 4052775267,
+            "original": "~z~Cool, very good.",
+            "translated": "~z~好，非常好。",
+            "desc": ""
+        },
+        {
+            "hash": 4170874064,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FF",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FF",
+            "desc": ""
+        },
+        {
+            "hash": 4171332349,
+            "original": "~z~I don't know what I'm trying to say. Shit. Well, that's all I got to say.",
+            "translated": "~z~我不知道我在说什么，妈的。好吧，我就说到这儿吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4175328291,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CE",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CE",
+            "desc": ""
+        },
+        {
+            "hash": 4182630831,
+            "original": "~z~and you look angry and you're not much fun, and stuff, but I like you.",
+            "translated": "~z~看着很愤怒，也不是很有趣，但我喜欢你。",
+            "desc": ""
+        },
+        {
+            "hash": 4190435785,
+            "original": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FG",
+            "translated": "FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FG",
+            "desc": ""
+        },
+        {
+            "hash": 4211245476,
+            "original": "~z~Drunk, drunk, drunk, drunk, drunk.",
+            "translated": "~z~醉，醉，醉，醉，醉。",
+            "desc": ""
+        },
+        {
+            "hash": 4283304503,
+            "original": "~z~Man, I am drunk as shit.",
+            "translated": "~z~兄弟，我喝得烂醉如泥。",
+            "desc": ""
+        }
+    ]
+}

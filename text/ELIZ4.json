@@ -1,0 +1,64 @@
+{
+    "ELIZ4": [
+        {
+            "hash": 392371013,
+            "original": "~r~The bodies were left too close to Elizabeta's place.",
+            "translated": "~r~抛尸地点离Elizabeta的住处太近了。",
+            "desc": ""
+        },
+        {
+            "hash": 440316203,
+            "original": "You may want to close the trunk, the police will be able to see its contents.",
+            "translated": "你最好关上后备箱，否则警察会看到里面的东西。",
+            "desc": ""
+        },
+        {
+            "hash": 941513915,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1176697028,
+            "original": "~s~The bodies will be identified if left there, blow up the ~r~car.",
+            "translated": "~s~把尸体扔在那里的话会被认出来，炸毁~r~汽车。",
+            "desc": ""
+        },
+        {
+            "hash": 1317833107,
+            "original": "~r~The bodies have been destroyed.",
+            "translated": "~r~尸体已被毁灭。",
+            "desc": ""
+        },
+        {
+            "hash": 1675932739,
+            "original": "~s~Get in the ~b~car.",
+            "translated": "~s~上~b~车。",
+            "desc": ""
+        },
+        {
+            "hash": 1791836692,
+            "original": "~s~Take the bodies to the ~y~doctor.",
+            "translated": "~s~把尸体交给~y~医生。",
+            "desc": ""
+        },
+        {
+            "hash": 3399451071,
+            "original": "Press ~INPUT_PICKUP~ to close the trunk.",
+            "translated": "按~INPUT_PICKUP~关闭后备箱。",
+            "desc": ""
+        },
+        {
+            "hash": 3972056577,
+            "original": "~s~The cops have spotted the bodies. Lose your wanted level.",
+            "translated": "~s~警察发现了尸体。摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 4232340744,
+            "original": "~r~The bodies were discovered.",
+            "translated": "~r~尸体被发现了。",
+            "desc": ""
+        }
+    ]
+}

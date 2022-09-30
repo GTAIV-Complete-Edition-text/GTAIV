@@ -1,0 +1,124 @@
+{
+    "ROMAN5": [
+        {
+            "hash": 85026395,
+            "original": "The area the cops search in is represented by the flashing zone on the Radar. Cops in this zone are marked by flashing red and blue icons.",
+            "translated": "小地图上闪烁的区域表示警方的搜捕范围。范围内的警察会用红蓝交替闪烁的圆点标识。",
+            "desc": ""
+        },
+        {
+            "hash": 785319938,
+            "original": "~r~Roman's car was trashed.",
+            "translated": "~r~Roman的车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 1333216695,
+            "original": "You have evaded the cops. Stay out of trouble to completely lose your wanted level.",
+            "translated": "你已经避开了警察。避免惹事生非，彻底摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1605277788,
+            "original": "To lose your wanted level escape the flashing zone and keep a low profile.",
+            "translated": "逃出闪烁区域并低调行事以摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1669494872,
+            "original": "~S~Reverse out of the garage.",
+            "translated": "~S~倒车出库。",
+            "desc": ""
+        },
+        {
+            "hash": 1830335280,
+            "original": "If you are seen leaving the zone by the cops then they will refocus their search and a new zone will be created.",
+            "translated": "若你在离开搜捕范围时被警察目击，警方就会重新划定搜捕范围。",
+            "desc": ""
+        },
+        {
+            "hash": 2395883183,
+            "original": "~S~You can use the Pay 'n' Spray to clear your wanted level as long as the cops don't see you entering.",
+            "translated": "~S~只要警察没有目击你进入，你就可以通过喷漆店清空你的通缉度。",
+            "desc": ""
+        },
+        {
+            "hash": 2656988939,
+            "original": "~S~~INPUT_VEH_EXIT~ exit vehicle.",
+            "translated": "~S~~INPUT_VEH_EXIT~下车。",
+            "desc": ""
+        },
+        {
+            "hash": 2699389661,
+            "original": "~S~Drive into the ~Y~Pay 'n' Spray.",
+            "translated": "~S~驶入~Y~喷漆店。",
+            "desc": ""
+        },
+        {
+            "hash": 2951887634,
+            "original": "Anyone seen performing a crime will gain a wanted level and the cops will attempt to hunt them down.",
+            "translated": "任何人被目击实施犯罪行为都会获得通缉度，警方会全力追捕他们。",
+            "desc": ""
+        },
+        {
+            "hash": 2996866655,
+            "original": "~S~It will repair and re-spray your vehicle and three hours will pass.",
+            "translated": "~S~你的车辆将得到修理并重新喷漆，时间会前进3个小时。",
+            "desc": ""
+        },
+        {
+            "hash": 3040208740,
+            "original": "~S~Drive to ~Y~Rotterdam Hill~S~ and meet Roman's customer.",
+            "translated": "~S~开车去~Y~Rotterdam Hill~S~接Roman的顾客。",
+            "desc": ""
+        },
+        {
+            "hash": 3477093575,
+            "original": "~r~Jermaine is dead.",
+            "translated": "~r~Jermaine死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3479543279,
+            "original": "~S~Take Jermaine to ~Y~Masterson St.",
+            "translated": "~S~送Jermaine去~Y~Masterson街。",
+            "desc": ""
+        },
+        {
+            "hash": 3494067921,
+            "original": "~r~You have abandoned Jermaine.~s~",
+            "translated": "~r~你抛弃了Jermaine。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3614444313,
+            "original": "Your wanted level is represented by the number of stars on screen. The more stars the harder cops will try to catch you.",
+            "translated": "画面上的星星数量表示你的通缉度。星星越多，警方的追捕力度越强。",
+            "desc": ""
+        },
+        {
+            "hash": 3668857763,
+            "original": "~r~The vehicle is stuck.~s~",
+            "translated": "~r~车辆无法行驶。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3710335346,
+            "original": "~S~Lose your wanted level.",
+            "translated": "~S~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 3807641479,
+            "original": "~S~You have lost your wanted level, take Jermaine to ~Y~Gibson Street.",
+            "translated": "~S~你已摆脱通缉，送Jermaine去~Y~Gibson街。",
+            "desc": ""
+        },
+        {
+            "hash": 3861840399,
+            "original": "~S~Get in Roman's ~B~car.",
+            "translated": "~S~进入~B~Roman的车。",
+            "desc": ""
+        }
+    ]
+}

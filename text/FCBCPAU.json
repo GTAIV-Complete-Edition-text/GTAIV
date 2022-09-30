@@ -1,0 +1,1210 @@
+{
+    "FCBCPAU": [
+        {
+            "hash": 17219636,
+            "original": "FCB2_ACT_PBR_GETCALL_LIFT_YES",
+            "translated": "FCB2_ACT_PBR_GETCALL_LIFT_YES",
+            "desc": ""
+        },
+        {
+            "hash": 25650979,
+            "original": "FCB_ACT_PBR_GETCALL_GAMES_YES",
+            "translated": "FCB_ACT_PBR_GETCALL_GAMES_YES",
+            "desc": ""
+        },
+        {
+            "hash": 35824531,
+            "original": "~z~Sure, let's go for a ride in your chopper. I'll pick you up in the next hour.",
+            "translated": "~z~当然，我们乘你的直升机去转转吧。我一小时内来找你。",
+            "desc": ""
+        },
+        {
+            "hash": 43100513,
+            "original": "~z~Hey man, I been putting it to South Slopes hard but it's getting tired, bro. Can you pick me up?",
+            "translated": "~z~嘿，兄弟，我人在South Slopes，不过现在有点累了，兄弟。你能来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 52725823,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 62853175,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 113610314,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 130893548,
+            "original": "~z~Nicky, babe, can you pick me up from my place?",
+            "translated": "~z~Nicky，宝贝，你能来我家接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 159677082,
+            "original": "~z~How about we do some gaming?",
+            "translated": "~z~我们去玩两把如何？",
+            "desc": ""
+        },
+        {
+            "hash": 196586377,
+            "original": "~z~Hey, man, I'm in your home town of Hove Beach. Will you pick me up?",
+            "translated": "~z~嘿，兄弟，我在你Hove Beach老家。你能来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 211656438,
+            "original": "FCB_ACT_GETCALL_GREET",
+            "translated": "FCB_ACT_GETCALL_GREET",
+            "desc": ""
+        },
+        {
+            "hash": 257177131,
+            "original": "FCB_ACT_GETCALL_EAT",
+            "translated": "FCB_ACT_GETCALL_EAT",
+            "desc": ""
+        },
+        {
+            "hash": 276870127,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 312760359,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 315053897,
+            "original": "~z~You and me should go for a ride in my chopper bro! Big pimpin' baby. You in?",
+            "translated": "~z~我们应该乘我的直升机出去转转，兄弟！大家伙。你来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 362747685,
+            "original": "~z~Strippers sound good, man. I should be at your place in the next hour.",
+            "translated": "~z~脱衣舞听起来不错，兄弟。我大概一小时内到你家。",
+            "desc": ""
+        },
+        {
+            "hash": 385651993,
+            "original": "~z~NB, I think you and me, we know each other well enough now to hit up a strip club together. You in?",
+            "translated": "~z~NB，我想我们已经熟到可以一起去脱衣舞俱乐部了。你来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 413494938,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 416011388,
+            "original": "~z~Sure Brucie, we'll go see something. I'll come get you in the next hour.",
+            "translated": "~z~当然，Brucie，一起去看点东西吧。我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 436489704,
+            "original": "FCB_ACT_GETCALL_EAT_FIRST",
+            "translated": "FCB_ACT_GETCALL_EAT_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 439882957,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 440812447,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 441812118,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 498528396,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 548193001,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 560860330,
+            "original": "~z~Nice one, NB. See you then.",
+            "translated": "~z~好啊，NB。之后见。",
+            "desc": ""
+        },
+        {
+            "hash": 571850912,
+            "original": "~z~How about you and me roll big baby, in a powerboat?",
+            "translated": "~z~我们一起去开船好吗，大宝贝？",
+            "desc": ""
+        },
+        {
+            "hash": 641171865,
+            "original": "FCB_ACT_PBR_GETCALL_BOAT_YES",
+            "translated": "FCB_ACT_PBR_GETCALL_BOAT_YES",
+            "desc": ""
+        },
+        {
+            "hash": 643557578,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 650759974,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 662472395,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 693148394,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 695171890,
+            "original": "~z~Hey! I'm on Firefly Island. Did you know this place was closed? Fuck! Will you give me a lift?",
+            "translated": "~z~嘿！我在Firefly Island。你知道这地儿关门了吗？操！你能来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 699575681,
+            "original": "~z~Sorry Brucie, I'm not in the gaming mood.",
+            "translated": "~z~Sorry Brucie, I'm not in the gaming mood.",
+            "desc": ""
+        },
+        {
+            "hash": 702379448,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 730200560,
+            "original": "~z~Alright Brucie, let's go see a show. I'll pick you up within the hour.",
+            "translated": "~z~好啊，Brucie，我们去看表演吧。我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 758005743,
+            "original": "~z~There you are. I need a ride, Nicky. I'm Downtown here, bro.",
+            "translated": "~z~你在啊。我要搭个车，Nicky。我现在在中心区，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 777410826,
+            "original": "~z~Sorry man, I can't go drinking right now.",
+            "translated": "~z~抱歉，兄弟，我现在没法去喝酒。",
+            "desc": ""
+        },
+        {
+            "hash": 792593342,
+            "original": "FCB2_DA",
+            "translated": "FCB2_DA",
+            "desc": ""
+        },
+        {
+            "hash": 801194451,
+            "original": "FCB2_BA",
+            "translated": "FCB2_BA",
+            "desc": ""
+        },
+        {
+            "hash": 809513441,
+            "original": "~z~I'll get some food with you, Brucie. I'll pick you up in the next hour.",
+            "translated": "~z~我会陪你吃饭的，Brucie。我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 823337658,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 852891873,
+            "original": "FCB2_IA",
+            "translated": "FCB2_IA",
+            "desc": ""
+        },
+        {
+            "hash": 929786699,
+            "original": "~z~I think you and me should hit the river in a powerboat, bro.",
+            "translated": "~z~我想我们应该一起开船乘风破浪，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 958942236,
+            "original": "FCB2_MA",
+            "translated": "FCB2_MA",
+            "desc": ""
+        },
+        {
+            "hash": 1038429785,
+            "original": "~z~I ain't in the mood to eat. Sorry Brucie.",
+            "translated": "~z~我没心情吃东西。抱歉，Brucie。",
+            "desc": ""
+        },
+        {
+            "hash": 1067842012,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1082496868,
+            "original": "~z~Sorry Brucie, you're going to have to pay for a taxi.",
+            "translated": "~z~抱歉，Brucie，你得自己打的了。",
+            "desc": ""
+        },
+        {
+            "hash": 1088338202,
+            "original": "~z~Hey, Niko. I need a lift. Can you come by my pad?",
+            "translated": "~z~嘿，Niko。我需要搭车，你能来我家一趟吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1096291794,
+            "original": "~z~Hey, NB. I'm in Willis of all places. Can you come pick me up?",
+            "translated": "~z~嘿，NB。我现在在Willis。你能来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1115620377,
+            "original": "FCB_ACT_PBR_GETCALL_BOWL_NO",
+            "translated": "FCB_ACT_PBR_GETCALL_BOWL_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1119626682,
+            "original": "~z~Sorry, Brucie. I can't roll with you in a powerboat right now. Another time.",
+            "translated": "~z~抱歉，Brucie。我现在没法跟你去开船。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1130648464,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1143009783,
+            "original": "~z~Nicky, I'm in Beechwood City. Get me out of this shithole. Pick me up, man.",
+            "translated": "~z~Nicky，我在Beechwood City。带我离开这鬼地方。来接我，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1151999382,
+            "original": "~z~How about we go see a show, Nicky, huh?",
+            "translated": "~z~我们去看场表演如何，Nicky，哈？",
+            "desc": ""
+        },
+        {
+            "hash": 1164270635,
+            "original": "~z~We can go eat together. Wait for me at your place for an hour.",
+            "translated": "~z~那就去吃一顿吧。你在你家等我一小时。",
+            "desc": ""
+        },
+        {
+            "hash": 1171359428,
+            "original": "~z~How about we take a ride in my chopper.",
+            "translated": "~z~我们乘直升机出去兜风如何。",
+            "desc": ""
+        },
+        {
+            "hash": 1205364549,
+            "original": "~z~Nicky, I'm in Outlook Park. Bro, everyone thinks I'm cruising for ass. Will you pick me up?",
+            "translated": "~z~Nicky，我在Outlook Park。兄弟，所有人都觉得我是来找男人的。你能来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1216995223,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1225665167,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1226090760,
+            "original": "FCB_ACT_PBR_GETCALL_BOWL_YES",
+            "translated": "FCB_ACT_PBR_GETCALL_BOWL_YES",
+            "desc": ""
+        },
+        {
+            "hash": 1246703565,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1274414030,
+            "original": "~z~Alright, Brucie. Let's go watch some strippers. Wait for me for an hour.",
+            "translated": "~z~好的，Brucie。我们去看脱衣舞吧。等我一小时。",
+            "desc": ""
+        },
+        {
+            "hash": 1349435679,
+            "original": "~z~Shit man, I'd love to but not right now. Another time.",
+            "translated": "~z~我靠，兄弟，我很想去啊，不过现在没空。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1360353454,
+            "original": "FCB_ACT_PBR_GETCALL_DRINK_NO",
+            "translated": "FCB_ACT_PBR_GETCALL_DRINK_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1377732391,
+            "original": "FCB2_ACT_PBR_GETCALL_LIFT_NO",
+            "translated": "FCB2_ACT_PBR_GETCALL_LIFT_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1383840057,
+            "original": "~z~Why don't the two big dogs hit up a show? How about it?",
+            "translated": "~z~大伙一起去看场表演如何？你说怎么样？",
+            "desc": ""
+        },
+        {
+            "hash": 1393974665,
+            "original": "~z~Nicky, Nicky, I need to ride in style, bro. Will you come pick me up at my place?",
+            "translated": "~z~Nicky，Nicky，我需要专人来接我，兄弟。你能来我家接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1410428117,
+            "original": "~z~NB - if you are anything like Roman you'll want to do some gaming with me. How about it, bro?",
+            "translated": "~z~NB，你要是很像Roman的话，就会想和我去玩两把的。你觉得如何，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 1468289025,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1470535975,
+            "original": "~z~Ok man, I'll try to collect you within the next hour.",
+            "translated": "~z~好的兄弟，我尽量一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 1474112139,
+            "original": "FCB_ACT_GETCALL_HELI_FIRST",
+            "translated": "FCB_ACT_GETCALL_HELI_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 1548785355,
+            "original": "FCB_ACT_GETCALL_GAMES",
+            "translated": "FCB_ACT_GETCALL_GAMES",
+            "desc": ""
+        },
+        {
+            "hash": 1552183397,
+            "original": "~z~Wouldn't normally ask this Nicky, but I need a lift. Can you pick me up at my place?",
+            "translated": "~z~我一般不会这么要求，Nicky，不过我需要搭个车。你能来我家接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1601780559,
+            "original": "~z~Shit, I've got stuff to do, Brucie. I can't get a drink right now.",
+            "translated": "~z~我靠，我还有事要做，Brucie。现在没空喝酒。",
+            "desc": ""
+        },
+        {
+            "hash": 1678676425,
+            "original": "~z~Hey NB, we been kicking it a bit now man. How about you and me hit the bowling alley, yeah?",
+            "translated": "~z~嘿，NB，我们最近有点熟了，兄弟。一起去打会儿保龄球如何？",
+            "desc": ""
+        },
+        {
+            "hash": 1690633904,
+            "original": "~z~Niko, it's Brucie baby.",
+            "translated": "~z~Niko，我是Brucie，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 1719754259,
+            "original": "~z~I ain't really in the mood to get horny with you. Sorry.",
+            "translated": "~z~我现在没心情跟你出去浪。抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 1728671979,
+            "original": "FCB2_CA",
+            "translated": "FCB2_CA",
+            "desc": ""
+        },
+        {
+            "hash": 1769038835,
+            "original": "~z~I don't really want to go check out chicks right now. Another time.",
+            "translated": "~z~我现在不太想去看鸡。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1814972090,
+            "original": "~z~Nicky, I thought I had a line on some good shit in the Firefly Projects but it was bogus. Will you collect me up here?",
+            "translated": "~z~Nicky，本来我以为能在Firefly公屋社区弄到点好东西，不过是假的。你能来这儿接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1885571656,
+            "original": "~z~Nicky, thank god you picked up, I need a lift outta Schottler, it ain't cool, bro.",
+            "translated": "~z~Nicky，谢天谢地你接电话了，我在Schottler，需要搭个车，情况不大好，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1887311682,
+            "original": "~z~Not right now, man. Maybe we'll go for a chopper ride some other time.",
+            "translated": "~z~现在不行，兄弟。我们还是改天再乘直升机出去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1889003681,
+            "original": "FCB_ACT_GETCALL_DRINK_FIRST",
+            "translated": "FCB_ACT_GETCALL_DRINK_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 1895824593,
+            "original": "FCB2_FA",
+            "translated": "FCB2_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1905725648,
+            "original": "~z~There you are, big guy. I've been hitting it in Cerveza Heights. Will you give me a lift, bro?",
+            "translated": "~z~你在啊，大家伙。我现在在Cerveza Heights，你能载我一程吗，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 1917107935,
+            "original": "FCB_ACT_GETCALL_BOWL_FIRST",
+            "translated": "FCB_ACT_GETCALL_BOWL_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 1917581273,
+            "original": "FCB_ACT_PBR_CALL_SHOW_NO",
+            "translated": "FCB_ACT_PBR_CALL_SHOW_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1925121253,
+            "original": "~z~Yo, Nicky. I need a lift. I'm out in Steinway.",
+            "translated": "~z~哟，Nicky，我需要搭车。我现在在Steinway。",
+            "desc": ""
+        },
+        {
+            "hash": 1929000835,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1949878344,
+            "original": "~z~Okay, man. Wait for me at your house for an hour.",
+            "translated": "~z~好的，兄弟。在你家等我一小时。",
+            "desc": ""
+        },
+        {
+            "hash": 1997220668,
+            "original": "~z~NB - It's your man Brucie.",
+            "translated": "~z~NB，是你兄弟Brucie。",
+            "desc": ""
+        },
+        {
+            "hash": 2014833488,
+            "original": "~z~You wanna roll with the heavy bling in my chopper?",
+            "translated": "~z~你想乘我的华丽直升机一起出去吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2015050243,
+            "original": "~z~Sweet, Niko, Sweet. Catch you then bro.",
+            "translated": "~z~好啊，Niko，好啊。待会儿见，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2027211716,
+            "original": "~z~Not now Brucie, I want to stay in the real world for the time being.",
+            "translated": "~z~Not now Brucie, I want to stay in the real world for the time being.",
+            "desc": ""
+        },
+        {
+            "hash": 2057024642,
+            "original": "FCB2_KA",
+            "translated": "FCB2_KA",
+            "desc": ""
+        },
+        {
+            "hash": 2072661453,
+            "original": "~z~Niko man, I ain't no desperate cat but I haven't heard from you in a while. What the fuck?",
+            "translated": "~z~Niko兄弟，也不是说我很饥渴，但我很久没接到过你的电话了。搞啥呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2169314250,
+            "original": "FCB2_AA",
+            "translated": "FCB2_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2182391718,
+            "original": "FCB_ACT_GETCALL_BOAT_FIRST",
+            "translated": "FCB_ACT_GETCALL_BOAT_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 2266000887,
+            "original": "~z~Sure thing Brucie, I'll meet you at your house in the next hour.",
+            "translated": "~z~当然了，Brucie。一小时内我来你家找你。",
+            "desc": ""
+        },
+        {
+            "hash": 2268041980,
+            "original": "~z~Hey! How about we hit up the bowling alley, bro?",
+            "translated": "~z~嘿！我们去打会儿保龄球如何，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 2275905807,
+            "original": "FCB2_GA",
+            "translated": "FCB2_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2304502128,
+            "original": "~z~Nicky. I don't want no excuses or nothing but why the fuck haven't you called me. Shit.",
+            "translated": "~z~Nicky。我不想听什么借口理由，你丫怎么不给我打电话？操。",
+            "desc": ""
+        },
+        {
+            "hash": 2335480537,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2365629793,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2435309429,
+            "original": "~z~Yo, yo, yo, yo. Niko it's Brucie, baby.",
+            "translated": "~z~哟，哟哟哟。Niko，我是Brucie，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 2453093066,
+            "original": "~z~Not now Brucie, sorry man.",
+            "translated": "~z~现在不行，Brucie，抱歉兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2469995638,
+            "original": "FCB_ACT_GETCALL_SHOW_FIRST",
+            "translated": "FCB_ACT_GETCALL_SHOW_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 2471683019,
+            "original": "~z~NB, what's up?",
+            "translated": "~z~NB，近况如何？",
+            "desc": ""
+        },
+        {
+            "hash": 2481281046,
+            "original": "FCB2_JA",
+            "translated": "FCB2_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2507049227,
+            "original": "FCB_ACT_PBR_GETCALL_EAT_YES",
+            "translated": "FCB_ACT_PBR_GETCALL_EAT_YES",
+            "desc": ""
+        },
+        {
+            "hash": 2527289715,
+            "original": "FCB2_EA",
+            "translated": "FCB2_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2574029202,
+            "original": "~z~How about you and me go drop some serious dollars at a bar, bro?",
+            "translated": "~z~你我一起去酒吧一掷千金如何，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 2598372254,
+            "original": "FCB_ACT_GETCALL_IRATE",
+            "translated": "FCB_ACT_GETCALL_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 2655900284,
+            "original": "FCB_ACT_PBR_CALL_STRIP_NO",
+            "translated": "FCB_ACT_PBR_CALL_STRIP_NO",
+            "desc": ""
+        },
+        {
+            "hash": 2656989002,
+            "original": "~z~Sorry man, I'm not that hungry. Another time.",
+            "translated": "~z~抱歉兄弟，我还不饿。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2681907016,
+            "original": "~z~Wanna play some video games, bro?",
+            "translated": "~z~Wanna play some video games, bro?",
+            "desc": ""
+        },
+        {
+            "hash": 2750624191,
+            "original": "~z~Alright man, I'll be there within the hour.",
+            "translated": "~z~好的兄弟，我一小时内就到。",
+            "desc": ""
+        },
+        {
+            "hash": 2751669112,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2752110191,
+            "original": "~z~I'm busy man, call someone else.",
+            "translated": "~z~我很忙，兄弟，你找别人吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2789641078,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2794957607,
+            "original": "~z~You an' me have been friends for a while and we ain't even got some food together. What up with that bro? Let's eat!",
+            "translated": "~z~我们交上朋友有一会儿了，但一直没吃过饭。你意下如何？一起吃一顿吧！",
+            "desc": ""
+        },
+        {
+            "hash": 2798340218,
+            "original": "~z~Nicky, I shouldn't be the one making this call. We were friends and now you're leaving me on the fucking line, man. Fuck.",
+            "translated": "~z~Nicky，这个电话不该是我打给你的。我们交了朋友，而你却弃我而去了，兄弟。操。",
+            "desc": ""
+        },
+        {
+            "hash": 2854476994,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2897415439,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2913138966,
+            "original": "FCB_ACT_PBR_GETCALL_BOAT_NO",
+            "translated": "FCB_ACT_PBR_GETCALL_BOAT_NO",
+            "desc": ""
+        },
+        {
+            "hash": 2930439089,
+            "original": "~z~Can't do it right now man, try the subway.",
+            "translated": "~z~现在不行，兄弟，你乘地铁吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2933898360,
+            "original": "~z~Why don't we go get us a drink?",
+            "translated": "~z~一起去喝一杯吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2952318080,
+            "original": "FCB_ACT_GETCALL_STRIP",
+            "translated": "FCB_ACT_GETCALL_STRIP",
+            "desc": ""
+        },
+        {
+            "hash": 2957593195,
+            "original": "~z~Sure man, you might have to wait an hour, but no longer.",
+            "translated": "~z~当然，兄弟，你可能得等上一小时，但不会超过一个小时的。",
+            "desc": ""
+        },
+        {
+            "hash": 2973452328,
+            "original": "FCB_ACT_PBR_GETCALL_DRINK_YES",
+            "translated": "FCB_ACT_PBR_GETCALL_DRINK_YES",
+            "desc": ""
+        },
+        {
+            "hash": 2974839098,
+            "original": "FCB_ACT_GETCALL_REJECT",
+            "translated": "FCB_ACT_GETCALL_REJECT",
+            "desc": ""
+        },
+        {
+            "hash": 2980488239,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3005728364,
+            "original": "FCB_ACT_GETCALL_BOWL",
+            "translated": "FCB_ACT_GETCALL_BOWL",
+            "desc": ""
+        },
+        {
+            "hash": 3021270401,
+            "original": "FCB_ACT_PBR_GETCALL_GAMES_NO",
+            "translated": "FCB_ACT_PBR_GETCALL_GAMES_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3024363558,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3050476130,
+            "original": "~z~Alright Niko. I'll hang with someone else. Call me soon.",
+            "translated": "~z~好吧，Niko。那我找别人陪我。有空给我打电话。",
+            "desc": ""
+        },
+        {
+            "hash": 3051710475,
+            "original": "FCB_ACT_GETCALL_STRIP_FIRST",
+            "translated": "FCB_ACT_GETCALL_STRIP_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 3103911143,
+            "original": "~z~Nicky, man, every winner needs a back-up. You need a wingman bitch, so don't leave Brucie in the cold... Jesus!",
+            "translated": "~z~Nicky，兄弟，每个赢家都有背后的支柱。你需要一架僚机，贱人，别把Brucie打入冷宫...天哪！",
+            "desc": ""
+        },
+        {
+            "hash": 3120669631,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3149879637,
+            "original": "~z~Alright, Brucie. Let's go drinking. I'll pick you up in the next hour.",
+            "translated": "~z~好吧，Brucie。我们去喝酒吧。我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 3161324920,
+            "original": "~z~So...you wanna to go bowling?",
+            "translated": "~z~你想去打保龄球吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3167176612,
+            "original": "~z~How about we go check out some naked bitches?",
+            "translated": "~z~我们去看一些裸体小贱人如何？",
+            "desc": ""
+        },
+        {
+            "hash": 3176437371,
+            "original": "FCB_ACT_PBR_CALL_STRIP_YES",
+            "translated": "FCB_ACT_PBR_CALL_STRIP_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3193398919,
+            "original": "~z~Cool, wait there, should be there in the next hour.",
+            "translated": "~z~好的，你等着，我一小时内应该能到。",
+            "desc": ""
+        },
+        {
+            "hash": 3198016046,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3238585882,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3268287843,
+            "original": "FCB_ACT_GETCALL_DRINK",
+            "translated": "FCB_ACT_GETCALL_DRINK",
+            "desc": ""
+        },
+        {
+            "hash": 3268467246,
+            "original": "~z~Shit, Brucie. I ain't in a bowling mood right now. Some other time.",
+            "translated": "~z~我靠，Brucie，我现在没心情打保龄球。以后再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3283125218,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3293888974,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3300542232,
+            "original": "~z~Nick, babe. You got to start treating me right, man. Take me to a show.",
+            "translated": "~z~Nick，宝贝。你得对我好点，兄弟。带我去看表演吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3342538041,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3346077871,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3388870598,
+            "original": "FCB_ACT_GETCALL_SHOW",
+            "translated": "FCB_ACT_GETCALL_SHOW",
+            "desc": ""
+        },
+        {
+            "hash": 3391939183,
+            "original": "~z~You wanna go to a gentlemen's club?",
+            "translated": "~z~你想去绅士俱乐部吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3392032608,
+            "original": "FCB2_ACT_PBR_CALL_HELI_NO",
+            "translated": "FCB2_ACT_PBR_CALL_HELI_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3400970237,
+            "original": "FCB_ACT_PBR_CALL_SHOW_YES",
+            "translated": "FCB_ACT_PBR_CALL_SHOW_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3411326456,
+            "original": "~z~A chopper ride sounds good. I'll come by your place in the next hour.",
+            "translated": "~z~乘直升机兜风听起来不错。我一小时内来你家。",
+            "desc": ""
+        },
+        {
+            "hash": 3423649502,
+            "original": "~z~I was just getting jacked up thinking about hanging with you. Shit! Another time, bro.",
+            "translated": "~z~我真是脑子被驴踢了才会找你出去。操！下次再说吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3433394755,
+            "original": "~z~You and me is depriving the women of Libery City of the hottest bodies out, baby. Let's go for a drink, man.",
+            "translated": "~z~你我要睡遍自由城最性感的女人，宝贝。我们去喝一杯吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3443950662,
+            "original": "FCB_ACT_PBR_GETCALL_EAT_NO",
+            "translated": "FCB_ACT_PBR_GETCALL_EAT_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3467709041,
+            "original": "~z~A powerboat ride could be fun, Brucie. I'll come pick you up in an hour.",
+            "translated": "~z~开船会很有趣的，Brucie。我一小时内来找你。",
+            "desc": ""
+        },
+        {
+            "hash": 3470084197,
+            "original": "FCB2_HA",
+            "translated": "FCB2_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3479388080,
+            "original": "~z~I don't feel like sitting around laughing, Brucie. Maybe another time.",
+            "translated": "~z~我不太想去坐着傻笑，Brucie。下次再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3489717485,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3525509695,
+            "original": "FCB_ACT_GETCALL_HELI",
+            "translated": "FCB_ACT_GETCALL_HELI",
+            "desc": ""
+        },
+        {
+            "hash": 3555203657,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3562670710,
+            "original": "~z~Brucie, we should get a drink. I'll get you from your place in the next hour.",
+            "translated": "~z~Brucie，一起喝一杯吧。我一小时内来你家接你。",
+            "desc": ""
+        },
+        {
+            "hash": 3574300323,
+            "original": "~z~Sorry Brucie, you caught me at a bad time. I can't go bowling with you.",
+            "translated": "~z~抱歉，Brucie，你打来的不是时候。我没法跟你去打保龄球。",
+            "desc": ""
+        },
+        {
+            "hash": 3617962423,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3621170983,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3644810177,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3658738184,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3661519673,
+            "original": "~z~Alright, NB. If that's how you're playing it. We're gonna hang real soon though.",
+            "translated": "~z~好吧，NB。这样的话，我们还是过几天再出去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3665288634,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3666190430,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3668792900,
+            "original": "~z~I'm not in the mood for laughs, Brucie. Another time.",
+            "translated": "~z~我没心情傻笑，Brucie。下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3670158976,
+            "original": "FCB_ACT_GETCALL_VERYIRATE",
+            "translated": "FCB_ACT_GETCALL_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 3679508469,
+            "original": "FCB2_ACT_PBR_CALL_HELI_YES",
+            "translated": "FCB2_ACT_PBR_CALL_HELI_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3693661205,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3738334185,
+            "original": "~z~Sorry Brucie, I ain't in the mood to go airborne. Another time maybe.",
+            "translated": "~z~抱歉，Brucie，我现在没心情上天。还是改天再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3765790631,
+            "original": "~z~Sure thing, Niko. Hit me up soon though.",
+            "translated": "~z~没问题，Niko。有空记得联系。",
+            "desc": ""
+        },
+        {
+            "hash": 3779506076,
+            "original": "~z~Powerboating, I'm into that. Wait for me at your place for an hour.",
+            "translated": "~z~开船，我来啊。在你家等我一小时。",
+            "desc": ""
+        },
+        {
+            "hash": 3808158488,
+            "original": "FCB2_LA",
+            "translated": "FCB2_LA",
+            "desc": ""
+        },
+        {
+            "hash": 3856129974,
+            "original": "FCB2_A_PA",
+            "translated": "FCB2_A_PA",
+            "desc": ""
+        },
+        {
+            "hash": 3856369634,
+            "original": "~z~Let's go bowling. I'll come collect you within the hour.",
+            "translated": "~z~那就去打保龄球吧。我一小时内来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 3861474190,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3878046803,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3879726592,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3897678636,
+            "original": "~z~Let's go get some food, man.",
+            "translated": "~z~我们去吃一顿吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3924831948,
+            "original": "~z~NB, you wanna feel the sea air in your face, huh? Why don't we go for a powerboat ride dude?",
+            "translated": "~z~NB，想体验一下迎面而来的海风吗，哈？要么一起去开船吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3945062610,
+            "original": "~z~How about you and me do some serious carb loading, bro?",
+            "translated": "~z~你我一起去摄入一些碳水如何，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 4030601314,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4066931779,
+            "original": "FCB_ACT_GETCALL_BOAT",
+            "translated": "FCB_ACT_GETCALL_BOAT",
+            "desc": ""
+        },
+        {
+            "hash": 4095648357,
+            "original": "~z~NB, at the airport I am. Will you pick me up?",
+            "translated": "~z~NB，我现在在机场。你能来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4116130342,
+            "original": "FCB_ACT_GETCALL_GAMES_FIRST",
+            "translated": "FCB_ACT_GETCALL_GAMES_FIRST",
+            "desc": ""
+        },
+        {
+            "hash": 4143032846,
+            "original": "~z~Bowling sounds good, Brucie, I'll see you in the next hour.",
+            "translated": "~z~保龄球听起来不错，Brucie。我们一小时内见。",
+            "desc": ""
+        },
+        {
+            "hash": 4143169631,
+            "original": "~z~Nicky, I'm stuck out in Meadows Park. Will you come pick me up?",
+            "translated": "~z~Nicky，我被困在草地公园了。你能来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4176818790,
+            "original": "FCB_ACT_GETCALL_ACCEPT",
+            "translated": "FCB_ACT_GETCALL_ACCEPT",
+            "desc": ""
+        },
+        {
+            "hash": 4200128336,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        }
+    ]
+}

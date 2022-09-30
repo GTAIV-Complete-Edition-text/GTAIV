@@ -1,0 +1,64 @@
+{
+    "GM2": [
+        {
+            "hash": 20499744,
+            "original": "Placeholder for Mocap Cutscene.",
+            "translated": "Placeholder for Mocap Cutscene.",
+            "desc": ""
+        },
+        {
+            "hash": 279473151,
+            "original": "Find the ~y~meeting point.",
+            "translated": "找到~y~见面地点。",
+            "desc": ""
+        },
+        {
+            "hash": 698457573,
+            "original": "~r~You changed out of the hood's clothing.",
+            "translated": "~r~你已经换上了混混的服装。",
+            "desc": ""
+        },
+        {
+            "hash": 921909384,
+            "original": "~r~The hood's bike was destroyed.",
+            "translated": "~r~混混的机车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 1518895026,
+            "original": "~r~The bike was abandoned.",
+            "translated": "~r~机车被抛弃了。",
+            "desc": ""
+        },
+        {
+            "hash": 2376475101,
+            "original": "~r~Frankie Garone survived.~s~",
+            "translated": "~r~Frankie Garone还活着。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2769392839,
+            "original": "Take out ~r~Frankie Garone.",
+            "translated": "干掉~r~Frankie Garone。",
+            "desc": ""
+        },
+        {
+            "hash": 2886869716,
+            "original": "Get on the ~b~motorbike.",
+            "translated": "骑上~b~摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 3211315573,
+            "original": "Find a motorbike.",
+            "translated": "找一辆摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 4124522077,
+            "original": "Go to the ~y~meeting point.",
+            "translated": "前往~y~会面地点。",
+            "desc": ""
+        }
+    ]
+}

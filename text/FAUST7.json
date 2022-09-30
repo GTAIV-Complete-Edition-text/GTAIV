@@ -1,0 +1,52 @@
+{
+    "FAUST7": [
+        {
+            "hash": 267448729,
+            "original": "Faustin will arrive soon.",
+            "translated": "Faustin即将到达。",
+            "desc": ""
+        },
+        {
+            "hash": 564892942,
+            "original": "~r~Faustin~s~ is getting away. Chase him.",
+            "translated": "~r~Faustin~s~正在逃跑。追上他。",
+            "desc": ""
+        },
+        {
+            "hash": 754437159,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 782130936,
+            "original": "Body armor increases the amount of damage you can take from gunfire.",
+            "translated": "防弹衣可以让你承受更多的伤害。",
+            "desc": ""
+        },
+        {
+            "hash": 1018841899,
+            "original": "~r~Faustin got away.~s~",
+            "translated": "~r~Faustin逃走了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1324871590,
+            "original": "Take down ~r~Faustin.~s~",
+            "translated": "干掉~r~Faustin。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1373271295,
+            "original": "~r~Faustin~s~ is inside Perestroika.",
+            "translated": "~r~Faustin~s~在Perestroika里面。",
+            "desc": ""
+        },
+        {
+            "hash": 1563877604,
+            "original": "Get to ~y~Faustin's club.",
+            "translated": "前往~y~Faustin的俱乐部。",
+            "desc": ""
+        }
+    ]
+}

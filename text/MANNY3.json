@@ -1,0 +1,124 @@
+{
+    "MANNY3": [
+        {
+            "hash": 291963130,
+            "original": "~s~Get in a vehicle.",
+            "translated": "~s~找一辆载具。",
+            "desc": ""
+        },
+        {
+            "hash": 322430451,
+            "original": "~s~The ~r~target~s~ got into that car. Follow him.",
+            "translated": "~r~目标~s~上了那辆车。跟着他。",
+            "desc": ""
+        },
+        {
+            "hash": 518068963,
+            "original": "~s~Drive to the ~y~Algonquin Bridge.",
+            "translated": "~s~驾车前往~y~Algonquin大桥。",
+            "desc": ""
+        },
+        {
+            "hash": 612311952,
+            "original": "~s~Get closer to the ~r~targets~s~ car or you'll lose him.",
+            "translated": "~s~你要跟丢了，离~r~目标~s~近点。",
+            "desc": ""
+        },
+        {
+            "hash": 1398804919,
+            "original": "~s~Keep close to the ~r~train~s~ and follow it as it goes over the bridges.",
+            "translated": "~s~跟紧从桥上驶过的~r~列车~s~过桥后跟住它。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1447046634,
+            "original": "~s~The ~r~train~s~ has stopped.",
+            "translated": "~r~列车~s~停下了。",
+            "desc": ""
+        },
+        {
+            "hash": 1685697514,
+            "original": "~s~The target is on that train. Follow the ~r~train~s~ and take him out when he gets off.",
+            "translated": "~s~目标在那辆列车上。跟着~r~列车，~s~在他下车后干掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 1902115648,
+            "original": "~s~Go to the ~y~Algonquin Bridge.",
+            "translated": "~s~前往~y~Algonquin大桥。",
+            "desc": ""
+        },
+        {
+            "hash": 2053754724,
+            "original": "~s~You are too close to the ~r~targets~s~ car, back off.",
+            "translated": "~s~你离~r~目标~s~的车太近了，退后点。",
+            "desc": ""
+        },
+        {
+            "hash": 2130594061,
+            "original": "~r~You lost the train.~s~",
+            "translated": "~r~你跟丢了列车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2240381990,
+            "original": "~r~The target got away.~s~",
+            "translated": "~r~目标逃走了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2335613423,
+            "original": "Hold ~INPUT_VEH_CIN_CAM~ to focus on the train.",
+            "translated": "按住~INPUT_VEH_CIN_CAM~将镜头对准列车。",
+            "desc": ""
+        },
+        {
+            "hash": 2453607233,
+            "original": "~s~The ~r~train~s~ has stopped.",
+            "translated": "~r~列车~s~停下了。",
+            "desc": ""
+        },
+        {
+            "hash": 3186726742,
+            "original": "~s~Go to the ~y~Algonquin Bridge.",
+            "translated": "~s~前往~y~Algonquin大桥。",
+            "desc": ""
+        },
+        {
+            "hash": 3206578089,
+            "original": "~s~The target didn't get off here. Follow the ~r~train~s~ to the next station.",
+            "translated": "~s~目标还没下车。跟着~r~列车~s~到下个车站。",
+            "desc": ""
+        },
+        {
+            "hash": 3241991437,
+            "original": "~s~Get closer to the ~r~train,~s~ or you will lose it.",
+            "translated": "~s~你要跟丢了，跟紧~r~列车。",
+            "desc": ""
+        },
+        {
+            "hash": 3303511376,
+            "original": "The chase camera will focus on the target you are pursuing allowing you track their movements.",
+            "translated": "追逐视角会将镜头对准目标，便于观察其行进方向。",
+            "desc": ""
+        },
+        {
+            "hash": 3366158944,
+            "original": "~s~The ~r~target~s~ got off the train.",
+            "translated": "~r~目标~s~下车了。",
+            "desc": ""
+        },
+        {
+            "hash": 3757236358,
+            "original": "~s~Take out the ~r~targets.",
+            "translated": "~s~干掉~r~目标。",
+            "desc": ""
+        },
+        {
+            "hash": 4026688155,
+            "original": "~s~Get closer to the ~r~target,~s~ or you will lose them.",
+            "translated": "~s~你要跟丢了，跟紧~r~目标。",
+            "desc": ""
+        }
+    ]
+}

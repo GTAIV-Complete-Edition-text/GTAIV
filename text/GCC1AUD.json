@@ -1,0 +1,1360 @@
+{
+    "GCC1AUD": [
+        {
+            "hash": 15794875,
+            "original": "~z~Cool, Carmen. I'll be at your place in the next hour.",
+            "translated": "~z~好的，Carmen。我一小时后到你那。",
+            "desc": ""
+        },
+        {
+            "hash": 16999937,
+            "original": "~z~Carmen don't got the time to be helping you now, Niko. Maybe if you gave her more attention she might be more willing.",
+            "translated": "~z~Carmen现在没空帮你，Niko。也许如果你给予她更多关注，她可能会更乐意。",
+            "desc": ""
+        },
+        {
+            "hash": 33568998,
+            "original": "GCC_ACT_PCA_CALL_SLEEPING",
+            "translated": "GCC_ACT_PCA_CALL_SLEEPING",
+            "desc": ""
+        },
+        {
+            "hash": 43001432,
+            "original": "~z~Carmen.",
+            "translated": "~z~Carmen。",
+            "desc": ""
+        },
+        {
+            "hash": 62659517,
+            "original": "~z~Men don't keep Carmen waiting, you a man, ain't you, Niko?",
+            "translated": "~z~男人可不会让Carmen久等，你是男人，对吧，Niko？",
+            "desc": ""
+        },
+        {
+            "hash": 83663111,
+            "original": "100100100010",
+            "translated": "100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 106787514,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 109869783,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 111853559,
+            "original": "~z~That cool, Niko. It ain't like there aren't plenty of other men who want to take Carmen out.",
+            "translated": "~z~没关系，Niko。又不是没有男人愿意带Carmen出去。",
+            "desc": ""
+        },
+        {
+            "hash": 151374740,
+            "original": "~z~Okay, Carmen going to put some clothes on.",
+            "translated": "~z~好的，Carmen要去换衣服了。",
+            "desc": ""
+        },
+        {
+            "hash": 151752949,
+            "original": "~z~Niko, it's Carmen, this job is killing me. I hate being a nurse and I hate all these sick people.",
+            "translated": "~z~Niko，我是Carmen，上班真要命。我讨厌当护士，我讨厌所有的病人。",
+            "desc": ""
+        },
+        {
+            "hash": 169793208,
+            "original": "GCC_ACT_GETCALL_GREET",
+            "translated": "GCC_ACT_GETCALL_GREET",
+            "desc": ""
+        },
+        {
+            "hash": 179281690,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 190993920,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 196279559,
+            "original": "GCC_ACT_PCA_GETCALL_DATE_YES",
+            "translated": "GCC_ACT_PCA_GETCALL_DATE_YES",
+            "desc": ""
+        },
+        {
+            "hash": 211524833,
+            "original": "~z~Poor baby, just apply pressure to any wound. Call Carmen later, okay?",
+            "translated": "~z~可怜的孩子，只要按压伤口就行了。有空给Carmen打个电话，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 212415108,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 222468230,
+            "original": "GCC_ACT_GETCALL_HOSP_REJ_MEDLIKE",
+            "translated": "GCC_ACT_GETCALL_HOSP_REJ_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 263464681,
+            "original": "~z~I can't do that just now, Carmen. Sorry.",
+            "translated": "~z~我现在做不到，Carmen。抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 278597896,
+            "original": "~z~Fuck you.",
+            "translated": "~z~去你的。",
+            "desc": ""
+        },
+        {
+            "hash": 296508016,
+            "original": "~z~It's not like no one else has asked to come get Carmen. She just thought she'd give you first chance. Call her later, okay?",
+            "translated": "~z~又不是没人主动请缨接Carmen。她只是想给你优先权。有空找她，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 298371559,
+            "original": "~z~Do you want to spend some money on Carmen?",
+            "translated": "~z~你想在Carmen身上花点钱吗？",
+            "desc": ""
+        },
+        {
+            "hash": 301847486,
+            "original": "~z~Come pick me up from my place in the next hour. I got some free time for you.",
+            "translated": "~z~一小时后来我家接我，我刚好有空陪你。",
+            "desc": ""
+        },
+        {
+            "hash": 324067370,
+            "original": "~z~I'll get ready.",
+            "translated": "~z~我会准备好的。",
+            "desc": ""
+        },
+        {
+            "hash": 358763516,
+            "original": "~z~Carmen, what's up?",
+            "translated": "~z~Carmen，你好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 377445599,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 402855183,
+            "original": "~z~Hello Niko.",
+            "translated": "~z~哈喽，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 406872706,
+            "original": "GCC_ACT_CALL_HOSP_CANCEL_MEDLIKE",
+            "translated": "GCC_ACT_CALL_HOSP_CANCEL_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 443443485,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 458136629,
+            "original": "GCC_ACT_PCA_CALL_GREET",
+            "translated": "GCC_ACT_PCA_CALL_GREET",
+            "desc": ""
+        },
+        {
+            "hash": 459544473,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 505659394,
+            "original": "~z~You want me to take you out on a date?",
+            "translated": "~z~想我带你出去约会吗？",
+            "desc": ""
+        },
+        {
+            "hash": 508102076,
+            "original": "GCC_ACT_PCA_GETCALL_SPEC_END_AA",
+            "translated": "GCC_ACT_PCA_GETCALL_SPEC_END_AA",
+            "desc": ""
+        },
+        {
+            "hash": 564832479,
+            "original": "GCC_ACT_GETCALL_IRATE",
+            "translated": "GCC_ACT_GETCALL_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 566910163,
+            "original": "GCC_ACT_PCA_CALL_MEDLIKE",
+            "translated": "GCC_ACT_PCA_CALL_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 567251501,
+            "original": "GCC_ACT_GETCALL_SPEC_AC",
+            "translated": "GCC_ACT_GETCALL_SPEC_AC",
+            "desc": ""
+        },
+        {
+            "hash": 577847998,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 596798842,
+            "original": "~z~You should take Carmen out and spend some money on her.",
+            "translated": "~z~你应该带Carmen出去逛逛，在她身上花些钱。",
+            "desc": ""
+        },
+        {
+            "hash": 597612499,
+            "original": "~z~Screw you, asshole.",
+            "translated": "~z~去你妈的，傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 598512323,
+            "original": "GCC_ACT_GETCALL_SPEC_AB",
+            "translated": "GCC_ACT_GETCALL_SPEC_AB",
+            "desc": ""
+        },
+        {
+            "hash": 605539289,
+            "original": "~z~Oh baby, you just need to rest for a minute. Call me soon, alright?",
+            "translated": "~z~噢，宝贝，你只需要休息一会儿。有空来找我，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 618502118,
+            "original": "~z~I'm going to need some medical advice, Carmen. What have you got for me?",
+            "translated": "~z~我需要一些医疗方面的建议，Carmen。你有什么建议吗？",
+            "desc": ""
+        },
+        {
+            "hash": 624991677,
+            "original": "GCC_ACT_GETCALL_REJECT_IRATE",
+            "translated": "GCC_ACT_GETCALL_REJECT_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 696791535,
+            "original": "~z~You were lucky to get this call, Niko. Carmen don't do this often. See ya!",
+            "translated": "~z~接到这个电话是你的福气，Niko。Carmen一般不这么做。回见！",
+            "desc": ""
+        },
+        {
+            "hash": 709436069,
+            "original": "~z~Hey Carmen, I'm not feeling so good. What can I do to get better?",
+            "translated": "~z~嘿，Carmen，我有点不舒服。怎么做才能好转？",
+            "desc": ""
+        },
+        {
+            "hash": 712786270,
+            "original": "~z~You calling Carmen Ortiz but she ain't in. Leave her a message and she call you right back.",
+            "translated": "~z~您呼叫的Carmen Ortiz不在，请给她留言，她会回复您的。",
+            "desc": ""
+        },
+        {
+            "hash": 720216641,
+            "original": "~z~Niko, I don't know why you not be calling Carmen because no other women can give it as good as her.",
+            "translated": "~z~Niko，不知道你为什么不给Carmen打电话，没有其他女人能像她这么优秀。",
+            "desc": ""
+        },
+        {
+            "hash": 794494676,
+            "original": "~z~On my way, Carmen.",
+            "translated": "~z~我这就来，Carmen。",
+            "desc": ""
+        },
+        {
+            "hash": 801922787,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 807336627,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 834265425,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 874498878,
+            "original": "~z~Sorry, Niko. Carmen is done with you. You don't pay her the attention other men do.",
+            "translated": "~z~抱歉，Niko。Carmen和你结束了。你没有像其他男人那样关注她。",
+            "desc": ""
+        },
+        {
+            "hash": 887680396,
+            "original": "~z~You want to go out on a date?",
+            "translated": "~z~你想出去约会吗？",
+            "desc": ""
+        },
+        {
+            "hash": 931210719,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 941527412,
+            "original": "~z~Hi Carmen... is Carmen there?",
+            "translated": "~z~嗨，Carmen...Carmen你在吗？",
+            "desc": ""
+        },
+        {
+            "hash": 985977960,
+            "original": "~z~Fine, I'll call the next guy in my address book. Too bad for you.",
+            "translated": "~z~好吧，那我就找通讯录上的下一个人了。真是遗憾。",
+            "desc": ""
+        },
+        {
+            "hash": 989400419,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1020639510,
+            "original": "GCC_ACT_GETCALL_HOSP_REJ_HILIKE",
+            "translated": "GCC_ACT_GETCALL_HOSP_REJ_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 1022298739,
+            "original": "~z~Fuck you.",
+            "translated": "~z~去你的。",
+            "desc": ""
+        },
+        {
+            "hash": 1027346112,
+            "original": "~z~Niko, you trying to run games on Carmen? That ain't gonna work, baby.",
+            "translated": "~z~Niko，你是想跟Carmen玩一夜情吗？对我不管用，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 1056919632,
+            "original": "~z~I was sure you was either dead or in prison. Men don't wait this long before calling Carmen again.",
+            "translated": "~z~我还以为你不是死了就是进了监狱。正常男人没多久就会给Carmen打电话的。",
+            "desc": ""
+        },
+        {
+            "hash": 1057770563,
+            "original": "~z~Carmen, I'm in some trouble. What will help me get better?",
+            "translated": "~z~Carmen，我遇到麻烦了。有什么能让我快点好起来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1080624268,
+            "original": "~z~I'd like to take you out on a date.",
+            "translated": "~z~我想带你出去约会。",
+            "desc": ""
+        },
+        {
+            "hash": 1101933434,
+            "original": "~z~Great, see you soon.",
+            "translated": "~z~太好了，待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 1103977858,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1112193597,
+            "original": "~z~Okay, Carmen. Sorry to disturb you.",
+            "translated": "~z~好吧，Caremn。打扰你真不好意思。",
+            "desc": ""
+        },
+        {
+            "hash": 1159647512,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1179709866,
+            "original": "~z~Hi there, Niko.",
+            "translated": "~z~嗨，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1183677676,
+            "original": "~z~Screw you, asshole.",
+            "translated": "~z~去你的，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 1319099122,
+            "original": "~z~Niko, the hospital fixed Carmen up. You going to come collect her?",
+            "translated": "~z~Niko，医院治好Carmen了。你会来接她吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1322904542,
+            "original": "~z~Shit Carmen, I'm hurting bad. You got any health tips for me?",
+            "translated": "~z~靠，Carmen，我伤得很重。你有什么健康建议吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1348904071,
+            "original": "~z~Why don't you and me go on a date?",
+            "translated": "~z~要么我们去约个会吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1358071832,
+            "original": "~z~Can't go on a date, Niko. I got a pedicure booked. Got to keep looking good.",
+            "translated": "~z~没法来约会，Niko。我预约了足部护理，美容必须得做。",
+            "desc": ""
+        },
+        {
+            "hash": 1407766511,
+            "original": "~z~I'll see you in a while then.",
+            "translated": "~z~那就一会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 1409931162,
+            "original": "~z~I'm sure some other man gonna want to pick Carmen up and have fun with her. No problem.",
+            "translated": "~z~肯定有别的男人想来接Carmen，再顺道找她玩的。没有问题。",
+            "desc": ""
+        },
+        {
+            "hash": 1441443710,
+            "original": "~z~Shit Niko, you need to control your breathing and your heart rate will go down. Speak to you later, baby.",
+            "translated": "~z~Niko，你要调整呼吸，这样心率才会降下来。有空再聊啊，亲爱的。",
+            "desc": ""
+        },
+        {
+            "hash": 1466098797,
+            "original": "~z~Sure, Carmen. I'll call you back after then.",
+            "translated": "~z~好的，Carmen。我之后再找你。",
+            "desc": ""
+        },
+        {
+            "hash": 1504600895,
+            "original": "~z~Carmen, you're a lifesaver. Thank you.",
+            "translated": "~z~Carmen，你真是我的救星。谢谢你。",
+            "desc": ""
+        },
+        {
+            "hash": 1510043581,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1525099945,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1538939051,
+            "original": "~z~Hey.",
+            "translated": "~z~嘿。",
+            "desc": ""
+        },
+        {
+            "hash": 1549660014,
+            "original": "GCC_ACT_CALL_LIKENO",
+            "translated": "GCC_ACT_CALL_LIKENO",
+            "desc": ""
+        },
+        {
+            "hash": 1587224628,
+            "original": "~z~I ain't going on no date with nobody who don't treat me like the goddess I am.",
+            "translated": "~z~我不和不把我当女神侍奉的人约会。",
+            "desc": ""
+        },
+        {
+            "hash": 1596564614,
+            "original": "~z~Sorry, Niko. Someone else is taking me out. I can't go on no date with you right now.",
+            "translated": "~z~不好意思，Niko。有人带着我玩呢。现在没法跟你约会。",
+            "desc": ""
+        },
+        {
+            "hash": 1597152579,
+            "original": "~z~Guess I'll have to take care of myself tonight, Niko. You missing out.",
+            "translated": "~z~那我今晚只能自娱自乐了，Niko。你错过了。",
+            "desc": ""
+        },
+        {
+            "hash": 1604715314,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1608239849,
+            "original": "GCC_ACT_GETCALL_ACCEPT",
+            "translated": "GCC_ACT_GETCALL_ACCEPT",
+            "desc": ""
+        },
+        {
+            "hash": 1610725278,
+            "original": "GCC_ACT_GETCALL_HOSP_REJ_LOLIKE",
+            "translated": "GCC_ACT_GETCALL_HOSP_REJ_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 1615959487,
+            "original": "~z~If you got better things to be doing, maybe Carmen has better things to be doing as well.",
+            "translated": "~z~既然你有更好的事情要做，也许Carmen也有这种更好的事情。",
+            "desc": ""
+        },
+        {
+            "hash": 1621979384,
+            "original": "~z~My other arrangements got cancelled. I'll go on a date with you. Come get me in the next hour.",
+            "translated": "~z~我的其他安排都取消了。我会和你约会的。一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 1664456001,
+            "original": "GCC_ACT_PCA_CALL_DATE",
+            "translated": "GCC_ACT_PCA_CALL_DATE",
+            "desc": ""
+        },
+        {
+            "hash": 1664703924,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1673004322,
+            "original": "~z~It's weird being in the hospital because I'm sick, not because I'm working. They letting me out now, will you pick me up?",
+            "translated": "~z~因为身体原因进医院的感觉很怪，和上班时不一样。我现在出院了，你能来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1781196360,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1801578310,
+            "original": "GCC_ACT_PCA_GETCALL_HOSP_NO",
+            "translated": "GCC_ACT_PCA_GETCALL_HOSP_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1805977400,
+            "original": "~z~Damn, Carmen, thanks. I owe you big time.",
+            "translated": "~z~该死，Carmen，谢谢。我欠你个大人情。",
+            "desc": ""
+        },
+        {
+            "hash": 1828715318,
+            "original": "~z~Carmen, how's things?",
+            "translated": "~z~Carmen，最近好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1829409296,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1829741048,
+            "original": "GCC_ACT_PCA_CALL_ACCEPTED",
+            "translated": "GCC_ACT_PCA_CALL_ACCEPTED",
+            "desc": ""
+        },
+        {
+            "hash": 1842139549,
+            "original": "GCC_ACT_GETCALL_REJECT_VERYIRATE",
+            "translated": "GCC_ACT_GETCALL_REJECT_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 1843310086,
+            "original": "~z~You try to quit Carmen, but you keep coming back like a crack head to the pipe.",
+            "translated": "~z~你试图戒掉Carmen，却像个瘾君子一样不断复吸。",
+            "desc": ""
+        },
+        {
+            "hash": 1848937110,
+            "original": "~z~We'll go on a date another time.",
+            "translated": "~z~那我们改天再约吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1855306527,
+            "original": "GCC_ACT_PCA_CALL_HOSP_CANCEL",
+            "translated": "GCC_ACT_PCA_CALL_HOSP_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 1870483445,
+            "original": "~z~Carmen can't spend all her time going on dates with you, Niko. Not unless you going to really look after her.",
+            "translated": "~z~Carmen不能把时间都拿来和你约会，Niko。除非你对她付出真心。",
+            "desc": ""
+        },
+        {
+            "hash": 1879991237,
+            "original": "~z~Just relax and make sure you got pressure on your cuts. Give Carmen a call later on, okay?",
+            "translated": "~z~放轻松，持续按压伤口。有空给Carmen打个电话，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1886930723,
+            "original": "~z~I got other plans, baby. I can't let you take me out. Call me later.",
+            "translated": "~z~我有其他安排，亲爱的。现在不能跟你出去。以后再找我。",
+            "desc": ""
+        },
+        {
+            "hash": 1908968484,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1921223960,
+            "original": "~z~I'm coming then.",
+            "translated": "~z~我来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1983028226,
+            "original": "~z~Sure, Niko. Carmen gonna go on a date with you. Come pick her up from her place in the next hour.",
+            "translated": "~z~当然，Niko。Carmen要和你约会。一小时后来接她。",
+            "desc": ""
+        },
+        {
+            "hash": 2028774525,
+            "original": "~z~Carmen's going to get over it, Niko. You ain't nothing special.",
+            "translated": "~z~Carmen会克服的，Niko。你也没什么特别。",
+            "desc": ""
+        },
+        {
+            "hash": 2088085272,
+            "original": "~z~Well, maybe I'll call you later.",
+            "translated": "~z~好吧，也许我晚点给你打电话。",
+            "desc": ""
+        },
+        {
+            "hash": 2101472126,
+            "original": "~z~Carmen just went out with you, Niko. You trying to monopolize her time.",
+            "translated": "~z~Carmen刚跟你出去过，Niko。你是想独占她的时间。",
+            "desc": ""
+        },
+        {
+            "hash": 2102602388,
+            "original": "~z~That really helps, Carmen. I guess there is a point to you being a nurse.",
+            "translated": "~z~太管用了，Carmen。我想你做护士是有价值的。",
+            "desc": ""
+        },
+        {
+            "hash": 2105368303,
+            "original": "~z~I got more important things to be doing than helping some guy who ain't giving me no attention.",
+            "translated": "~z~我有更重要的事情要做，没空帮助一个不关心我的人。",
+            "desc": ""
+        },
+        {
+            "hash": 2146881093,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2159678771,
+            "original": "GCC_ACT_CALL_LIKEYES",
+            "translated": "GCC_ACT_CALL_LIKEYES",
+            "desc": ""
+        },
+        {
+            "hash": 2177758074,
+            "original": "~z~You ain't been calling Carmen recently. Men always come back to her though.",
+            "translated": "~z~你最近没给Carmen打电话，但男人总会回到她身边。",
+            "desc": ""
+        },
+        {
+            "hash": 2201557466,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2221584614,
+            "original": "~z~Okay, cool.",
+            "translated": "~z~好的，没问题。",
+            "desc": ""
+        },
+        {
+            "hash": 2229561510,
+            "original": "~z~Okay, Niko. Your loss.",
+            "translated": "~z~好吧，Niko。这是你的损失。",
+            "desc": ""
+        },
+        {
+            "hash": 2270743590,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2271545103,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2327187768,
+            "original": "~z~Alright, I'll come get you in the next hour.",
+            "translated": "~z~好，我一小时后来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 2328757914,
+            "original": "~z~Carmen got other people to be going out with, Niko. Call me another time.",
+            "translated": "~z~Carmen已经和别人约好了了，Niko。下次再打电话给我。",
+            "desc": ""
+        },
+        {
+            "hash": 2334147693,
+            "original": "~z~Sure, maybe some other time.",
+            "translated": "~z~当然，也许下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2347174951,
+            "original": "GCC_ACT_CALL_VERYIRATE",
+            "translated": "GCC_ACT_CALL_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 2355329331,
+            "original": "~z~Screw you, asshole.",
+            "translated": "~z~去你妈的，傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 2358614026,
+            "original": "~z~I'm going to see a man tonight, baby. It just look like it ain't gonna be you.",
+            "translated": "~z~我今晚要去见个男人，宝贝。不过那个男人不是你。",
+            "desc": ""
+        },
+        {
+            "hash": 2361969023,
+            "original": "~z~Thanks Carmen. I'm starting to feel better already.",
+            "translated": "~z~谢了，Carmen。感觉我身体好多了。",
+            "desc": ""
+        },
+        {
+            "hash": 2362364786,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2382214321,
+            "original": "GCC_ACT_ANSWER_PHONE",
+            "translated": "GCC_ACT_ANSWER_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 2407139670,
+            "original": "~z~You know what, Carmen. I've got some other shit to do. Maybe some other time.",
+            "translated": "~z~不好意思，Carmen。我还有些琐事要处理。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2424610477,
+            "original": "GCC_ACT_CALL_SLEEP_REPLY",
+            "translated": "GCC_ACT_CALL_SLEEP_REPLY",
+            "desc": ""
+        },
+        {
+            "hash": 2427379974,
+            "original": "GCC_ACT_PCA_CALL_DATE_CANCEL",
+            "translated": "GCC_ACT_PCA_CALL_DATE_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 2454230821,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2460663406,
+            "original": "GCC_ACT_CALL_DATE_NO_GENERAL",
+            "translated": "GCC_ACT_CALL_DATE_NO_GENERAL",
+            "desc": ""
+        },
+        {
+            "hash": 2465793634,
+            "original": "~z~Fine, go jerk off then.",
+            "translated": "~z~好，打你的飞机去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2492409783,
+            "original": "GCC_ACT_GETCALL_HOSP_ASK",
+            "translated": "GCC_ACT_GETCALL_HOSP_ASK",
+            "desc": ""
+        },
+        {
+            "hash": 2532857345,
+            "original": "~z~I'll come get you, Carmen.",
+            "translated": "~z~这就来接你，Carmen。",
+            "desc": ""
+        },
+        {
+            "hash": 2560379060,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2570903718,
+            "original": "~z~Okay then. I'll call you another time.",
+            "translated": "~z~好吧。我改天再打给你。",
+            "desc": ""
+        },
+        {
+            "hash": 2577150995,
+            "original": "~z~That sounds like a good idea, Carmen. I'll swing by your place in the next hour.",
+            "translated": "~z~听起来是个好主意，Carmen。我一小时后来找你。",
+            "desc": ""
+        },
+        {
+            "hash": 2602576104,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2636800625,
+            "original": "~z~Alright, see you then.",
+            "translated": "~z~好，待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 2642480094,
+            "original": "GCC_ACT_GETCALL_SPEC_AA",
+            "translated": "GCC_ACT_GETCALL_SPEC_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2664643717,
+            "original": "~z~Maybe I'll send you some pictures of what I get up to without you, Niko.",
+            "translated": "~z~我可能会给你发没有你陪伴时的生活照，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2701237054,
+            "original": "GCC_ACT_GETCALL_DATE",
+            "translated": "GCC_ACT_GETCALL_DATE",
+            "desc": ""
+        },
+        {
+            "hash": 2713497051,
+            "original": "~z~Sorry Carmen, I've got to spend my money on other things right now. Maybe another time.",
+            "translated": "~z~对不起，Carmen，我现在得把钱花在别的事情上。下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2713625581,
+            "original": "~z~Whatever, Niko.",
+            "translated": "~z~随便你，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2736277777,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2744493983,
+            "original": "~z~Fuck you.",
+            "translated": "~z~操你妈。",
+            "desc": ""
+        },
+        {
+            "hash": 2752486692,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2757758702,
+            "original": "GCC_ACT_GETCALL_VERYIRATE",
+            "translated": "GCC_ACT_GETCALL_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 2758312539,
+            "original": "~z~You better be ready for Carmen, Niko.",
+            "translated": "~z~你最好准备好迎接Carmen，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2758486565,
+            "original": "GCC_ACT_PCA_CALL_REQ_SPEC",
+            "translated": "GCC_ACT_PCA_CALL_REQ_SPEC",
+            "desc": ""
+        },
+        {
+            "hash": 2778226775,
+            "original": "GCC_ACT_CALL_HOSP_CANCEL_LOLIKE",
+            "translated": "GCC_ACT_CALL_HOSP_CANCEL_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2803658602,
+            "original": "~z~Hey Carmen.",
+            "translated": "~z~嘿，Carmen。",
+            "desc": ""
+        },
+        {
+            "hash": 2822898694,
+            "original": "GCC_ACT_CALL_HOSP_CANCEL_HILIKE",
+            "translated": "GCC_ACT_CALL_HOSP_CANCEL_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2831579549,
+            "original": "~z~Okay, see you then.",
+            "translated": "~z~好吧，待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 2837824935,
+            "original": "~z~Carmen going to reward you for your persistence. Come pick her up from her place in the next hour.",
+            "translated": "~z~Carmen决定给你的坚持奖励。一小时后来接她。",
+            "desc": ""
+        },
+        {
+            "hash": 2894721923,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2896252142,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2915862293,
+            "original": "~z~Shit, Carmen don't know why she even called you in the first place.",
+            "translated": "~z~靠，Carmen都不知道她为什么先给你打电话。",
+            "desc": ""
+        },
+        {
+            "hash": 2918752950,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2921585447,
+            "original": "~z~Shit, you can do that? It might be real useful, Carmen. I'll talk to you soon.",
+            "translated": "~z~靠，这么行吗？大概会很有用的，Carmen。有空再联系。",
+            "desc": ""
+        },
+        {
+            "hash": 2960945633,
+            "original": "~z~Carmen's in bed, Niko. She going to be done about 1pm so call back after then.",
+            "translated": "~z~Carmen在睡觉，Niko。她会在下午1点醒来，到时间了再联系。",
+            "desc": ""
+        },
+        {
+            "hash": 3052065830,
+            "original": "GCC_ACT_CALL_BREAK_UP",
+            "translated": "GCC_ACT_CALL_BREAK_UP",
+            "desc": ""
+        },
+        {
+            "hash": 3065718528,
+            "original": "~z~You going to have a good time tonight, Niko.",
+            "translated": "~z~你今晚会很开心的，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3076338724,
+            "original": "~z~Whatever, Niko. See ya.",
+            "translated": "~z~随你便，Niko。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 3079560950,
+            "original": "~z~Shit, Niko. You been in jail or something? Carmen ain't heard from you in a while.",
+            "translated": "~z~操，Niko。你是蹲监狱去了吗？Carmen好久没有你的消息了。",
+            "desc": ""
+        },
+        {
+            "hash": 3085009802,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3089167726,
+            "original": "~z~Carmen, I have to cancel our date. Sorry if you've cancelled any other plans.",
+            "translated": "~z~Carmen，约会只能取消了。很抱歉你为此取消了其他安排。",
+            "desc": ""
+        },
+        {
+            "hash": 3091623000,
+            "original": "~z~Sure, wait for me for the next hour.",
+            "translated": "~z~当然，等我一小时。",
+            "desc": ""
+        },
+        {
+            "hash": 3098617284,
+            "original": "~z~Sorry, Carmen, but I can't come collect you from the hospital anymore. I hope that's cool.",
+            "translated": "~z~对不起，Carmen，但我不能来医院接你了。希望没关系。",
+            "desc": ""
+        },
+        {
+            "hash": 3099552026,
+            "original": "GCC_ACT_PCA_CALL_HILIKE",
+            "translated": "GCC_ACT_PCA_CALL_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3150608361,
+            "original": "~z~Carmen, you're a free agent now. It's over between you and me. Look after yourself.",
+            "translated": "~z~Carmen，你现在自由了。你和我结束了。照顾好自己。",
+            "desc": ""
+        },
+        {
+            "hash": 3201273402,
+            "original": "~z~Fine, go jerk off then.",
+            "translated": "~z~好，打你的飞机去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3204392021,
+            "original": "~z~Why don't you take me out somewhere nice?",
+            "translated": "~z~要么带我去些好地方吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3229714565,
+            "original": "~z~No can do, Carmen, sorry.",
+            "translated": "~z~不行，Carmen，对不起。",
+            "desc": ""
+        },
+        {
+            "hash": 3246883310,
+            "original": "~z~But I like you, baby. I thought if you ever need some nursing you could just call me up and I'll help you out on the phone.",
+            "translated": "~z~但我喜欢你，宝贝。如果你需要护理的话，可以打电话给我，我会在电话里帮你。",
+            "desc": ""
+        },
+        {
+            "hash": 3252856516,
+            "original": "GCC_ACT_GETCALL_REJECT",
+            "translated": "GCC_ACT_GETCALL_REJECT",
+            "desc": ""
+        },
+        {
+            "hash": 3253454773,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3253564636,
+            "original": "~z~Don't try to hold me down, I'm a modern woman and I ain't gonna spend all my time with you.",
+            "translated": "~z~别想束缚我，我是现代女性，不会把时间都花在你身上。",
+            "desc": ""
+        },
+        {
+            "hash": 3275618775,
+            "original": "~z~I going to give you another chance. You'd be real stupid to fuck it up. Come pick me up in the next hour.",
+            "translated": "~z~我再给你一次机会。你要是再搞砸就蠢到家了。一小时后来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 3280858445,
+            "original": "~z~I can't go on a date with you now, Niko. There's some fucking emergency at the hospital. So boring.",
+            "translated": "~z~我现在不能和你约会，Niko。医院有紧急情况，非常烦。",
+            "desc": ""
+        },
+        {
+            "hash": 3333279628,
+            "original": "GCC_ACT_PCA_CALL_REJECTED",
+            "translated": "GCC_ACT_PCA_CALL_REJECTED",
+            "desc": ""
+        },
+        {
+            "hash": 3364004256,
+            "original": "~z~Whatever, Niko.",
+            "translated": "~z~随便，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3372960043,
+            "original": "~z~I guess you busy. There'll be plenty of other people who'll come get me though. See you soon.",
+            "translated": "~z~我想你很忙吧。但还有很多人能来接我。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 3390313596,
+            "original": "~z~Carmen, I know this wasn't nothing serious, but I can't be dating you no more. We're over.",
+            "translated": "~z~Carmen，我知道这很难接受，但我不能再和你约会了。我们结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 3412822240,
+            "original": "~z~I'll be waiting, Niko.",
+            "translated": "~z~我会等你的，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3466243617,
+            "original": "~z~Shit, Niko. Carmen getting some sleep. Call her back after 1pm.",
+            "translated": "~z~该死，Niko。Carmen正在休息。下午一点后再打给她。",
+            "desc": ""
+        },
+        {
+            "hash": 3485413420,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3497573574,
+            "original": "~z~You think you something special? Carmen was going to call you and cancel anyway.",
+            "translated": "~z~你觉得你很特别吗？Carmen本来就想打电话取消这次约会。",
+            "desc": ""
+        },
+        {
+            "hash": 3508406086,
+            "original": "~z~Hey Niko.",
+            "translated": "~z~嘿，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3531354168,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3540070169,
+            "original": "GCC_ACT_CALL_REQ_SPEC_YES",
+            "translated": "GCC_ACT_CALL_REQ_SPEC_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3545834897,
+            "original": "~z~You'll feel much better.",
+            "translated": "~z~你会感觉好多了的。",
+            "desc": ""
+        },
+        {
+            "hash": 3582243827,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3608381853,
+            "original": "GCC_ACT_PCA_GETCALL_DATE_NO",
+            "translated": "GCC_ACT_PCA_GETCALL_DATE_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3612192629,
+            "original": "~z~Okay, I'll come and get you from your place at some point in the next sixty minutes.",
+            "translated": "~z~好吧，我会在接下来一小时内来接你的。",
+            "desc": ""
+        },
+        {
+            "hash": 3625077308,
+            "original": "GCC_ACT_PCA_CALL_LOLIKE",
+            "translated": "GCC_ACT_PCA_CALL_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3670987122,
+            "original": "~z~Yeah, Carmen didn't want to be seeing you in the first place, okay.",
+            "translated": "~z~是啊，Carmen一开始就不想见你，好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3706760525,
+            "original": "~z~That's cool. You just missing out on all the fun you could have with me is all.",
+            "translated": "~z~没事。只不过你错过了一段可能的欢乐时光罢了。",
+            "desc": ""
+        },
+        {
+            "hash": 3712469292,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3717413352,
+            "original": "~z~There be plenty of men who'd kill to be in your position, remember that.",
+            "translated": "~z~有的是人愿意顶替你当我的男友，记住了。",
+            "desc": ""
+        },
+        {
+            "hash": 3743891106,
+            "original": "~z~Hey, I'm sorry about this but Niko don't want to go out with Carmen no more.",
+            "translated": "~z~嘿，我很抱歉，但是Niko不想再和Carmen出去了。",
+            "desc": ""
+        },
+        {
+            "hash": 3801098794,
+            "original": "~z~Niko.",
+            "translated": "~z~Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3827564817,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3883617519,
+            "original": "GCC_ACT_CALL_IRATE",
+            "translated": "GCC_ACT_CALL_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 3980111219,
+            "original": "GCC_ACT_PCA_GETCALL_HOSP_YES",
+            "translated": "GCC_ACT_PCA_GETCALL_HOSP_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3983470533,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4000312922,
+            "original": "GCC_ACT_CALL_MED_ADVICE",
+            "translated": "GCC_ACT_CALL_MED_ADVICE",
+            "desc": ""
+        },
+        {
+            "hash": 4015316331,
+            "original": "~z~Carmen real disappointed, Niko.",
+            "translated": "~z~Carmen非常失望，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 4016472061,
+            "original": "~z~Hi there.",
+            "translated": "~z~嗨。",
+            "desc": ""
+        },
+        {
+            "hash": 4037116539,
+            "original": "~z~Hello.",
+            "translated": "~z~你好。",
+            "desc": ""
+        },
+        {
+            "hash": 4068074323,
+            "original": "GCC_ACT_GETCALL_REJECT_VERYIRATE",
+            "translated": "GCC_ACT_GETCALL_REJECT_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 4071253550,
+            "original": "~z~I like the sound of that very much, Carmen. Wait for me at your place for an hour.",
+            "translated": "~z~这个主意好啊，Carmen。你在家等我一小时。",
+            "desc": ""
+        },
+        {
+            "hash": 4132705022,
+            "original": "~z~How about you pick me up, you take me out, you treat me good. Okay?",
+            "translated": "~z~你来接我，带我出去，好好对待我，如何？",
+            "desc": ""
+        },
+        {
+            "hash": 4164902665,
+            "original": "GCC_ACT_CALL_DATE_NO_RECENT",
+            "translated": "GCC_ACT_CALL_DATE_NO_RECENT",
+            "desc": ""
+        },
+        {
+            "hash": 4204200352,
+            "original": "GCC_ACT_CALL_REQ_SPEC_NO",
+            "translated": "GCC_ACT_CALL_REQ_SPEC_NO",
+            "desc": ""
+        },
+        {
+            "hash": 4207866972,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4241541601,
+            "original": "GCC_ACT_CALL_DATE_YES",
+            "translated": "GCC_ACT_CALL_DATE_YES",
+            "desc": ""
+        },
+        {
+            "hash": 4242364900,
+            "original": "GCC_ACT_GETCALL_HOSP_ACCEPT",
+            "translated": "GCC_ACT_GETCALL_HOSP_ACCEPT",
+            "desc": ""
+        },
+        {
+            "hash": 4255739227,
+            "original": "~z~See you then.",
+            "translated": "~z~到时候见。",
+            "desc": ""
+        },
+        {
+            "hash": 4262086775,
+            "original": "~z~Niko, you too important to be calling Carmen now?",
+            "translated": "~z~Niko，你忙到没空联系Carmen了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4281052698,
+            "original": "~z~I ain't got nothing going on right now. Come get me from my place. I'll wait an hour.",
+            "translated": "~z~我现在没事做，来我家接我。我等你一小时。",
+            "desc": ""
+        }
+    ]
+}

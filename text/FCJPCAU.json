@@ -1,0 +1,1396 @@
+{
+    "FCJPCAU": [
+        {
+            "hash": 1747444,
+            "original": "~z~Mek we play pool again? So soon? Nah man.",
+            "translated": "~z~又打台球？这么快？算了兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 13735534,
+            "original": "FCJ_ACT_CALL_DRINK_NO_GENERAL",
+            "translated": "FCJ_ACT_CALL_DRINK_NO_GENERAL",
+            "desc": ""
+        },
+        {
+            "hash": 48323406,
+            "original": "~z~Nah, man. Maybe later.",
+            "translated": "~z~算了兄弟。下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 65439608,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 68480081,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 71997621,
+            "original": "~z~Great - see you in a bit Jacob.",
+            "translated": "~z~好，一会儿见，Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 81442732,
+            "original": "~z~Nah man, we went drinking the other day, man. Maybe a next time.",
+            "translated": "~z~算了兄弟，前两天才刚喝过。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 83542481,
+            "original": "~z~Again? What's wrong with you, Niko? Him love the skettels y'know! Maybe later.",
+            "translated": "~z~又来？你有什么毛病，Niko？也太喜欢大屁屁了吧！改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 84119552,
+            "original": "~z~Alright den, maybe a next time. Gwan man.",
+            "translated": "~z~那好，下次吧。以后再说，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 109393725,
+            "original": "~z~I got some free time. You wanna go to a show?",
+            "translated": "~z~我现在挺空，你想去看表演吗？",
+            "desc": ""
+        },
+        {
+            "hash": 122759237,
+            "original": "~z~Not now, rasta, maybe later.",
+            "translated": "~z~现在不行，好兄弟，改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 137343437,
+            "original": "~z~Niko, me tink you dead or something!",
+            "translated": "~z~Niko，我还以为你已经死了！",
+            "desc": ""
+        },
+        {
+            "hash": 137612017,
+            "original": "FCJ_ACT_CALL_DRINK_YES",
+            "translated": "FCJ_ACT_CALL_DRINK_YES",
+            "desc": ""
+        },
+        {
+            "hash": 175850434,
+            "original": "~z~Why don't you and me hit up a gentlemen's club?",
+            "translated": "~z~要么我们去一趟绅士俱乐部？",
+            "desc": ""
+        },
+        {
+            "hash": 185627086,
+            "original": "~z~Yeah man, me hungry, man. Me need some food. Pick me up in about a hour.",
+            "translated": "~z~好啊，兄弟，我饿了。是得吃点。一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 233045206,
+            "original": "~z~Niko? Me can't hear from you. Me tink you inna trouble or something?",
+            "translated": "~z~Niko？你很久没联系我了。是不是遇上麻烦了？",
+            "desc": ""
+        },
+        {
+            "hash": 262799458,
+            "original": "~z~Niko, me think you gwan away, man. You haven't called in a long time.",
+            "translated": "~z~Niko，我以为你走了，兄弟。你很久没打过来了。",
+            "desc": ""
+        },
+        {
+            "hash": 273991217,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 278590054,
+            "original": "FCJ_ACT_PLJ_CALL_DARTS",
+            "translated": "FCJ_ACT_PLJ_CALL_DARTS",
+            "desc": ""
+        },
+        {
+            "hash": 283215595,
+            "original": "SFX_MACHINE_BEEP",
+            "translated": "SFX_MACHINE_BEEP",
+            "desc": ""
+        },
+        {
+            "hash": 299650423,
+            "original": "~z~Nah man, did we nuh just play, man? Maybe later.",
+            "translated": "~z~算了兄弟，我们不是刚打过吗？下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 315925587,
+            "original": "FCJ_ACT_CALL_POOL_YES",
+            "translated": "FCJ_ACT_CALL_POOL_YES",
+            "desc": ""
+        },
+        {
+            "hash": 323495411,
+            "original": "~z~Jacob, I'm sorry, I ain't going to be making the meal. Something has come up.",
+            "translated": "~z~Jacob，很抱歉，我没法来吃饭了，突然有些事。",
+            "desc": ""
+        },
+        {
+            "hash": 334192907,
+            "original": "~z~No problem, star - another time.",
+            "translated": "~z~没问题，兄弟。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 356631461,
+            "original": "FCJ_ACT_CALL_POOL_NO_GENERAL",
+            "translated": "FCJ_ACT_CALL_POOL_NO_GENERAL",
+            "desc": ""
+        },
+        {
+            "hash": 371529931,
+            "original": "~z~Mek we go the strip club? Nah, ram goat.",
+            "translated": "~z~一起去脱衣舞俱乐部？算了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 381581794,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 400070807,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 421497345,
+            "original": "~z~No, me play recent - maybe later, star.",
+            "translated": "~z~不了，最近刚玩过。下次吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 422246560,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 432231893,
+            "original": "FCJ_ACT_PLJ_CALL_DARTS_CANCEL",
+            "translated": "FCJ_ACT_PLJ_CALL_DARTS_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 460742827,
+            "original": "~z~Mek we play pool? Maybe later?",
+            "translated": "~z~想打台球啊？改天再说吧？",
+            "desc": ""
+        },
+        {
+            "hash": 473491261,
+            "original": "~z~I feel like checking some girls out. You want to go to a strip club with me?",
+            "translated": "~z~我想去找几个妞，你想一起去脱衣舞俱乐部吗？",
+            "desc": ""
+        },
+        {
+            "hash": 492756011,
+            "original": "~z~Me man still alive here, rasta?",
+            "translated": "~z~我的哥们还活着啊，好兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 523324089,
+            "original": "FCJ_ACT_CALL_STRIP_YES",
+            "translated": "FCJ_ACT_CALL_STRIP_YES",
+            "desc": ""
+        },
+        {
+            "hash": 533911987,
+            "original": "~z~Hello, Jacob.",
+            "translated": "~z~你好，Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 567707404,
+            "original": "~z~No pool right now - mek we play a lickle later or something.",
+            "translated": "~z~现在打不了台球，过段时间再打吧。",
+            "desc": ""
+        },
+        {
+            "hash": 596182667,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 599062811,
+            "original": "~z~I'm a lickle busy just now, y'know - maybe later, star.",
+            "translated": "~z~我现在有点忙好吧。下次吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 606206555,
+            "original": "FCJ_ACT_PLJ_CALL_EAT",
+            "translated": "FCJ_ACT_PLJ_CALL_EAT",
+            "desc": ""
+        },
+        {
+            "hash": 617932048,
+            "original": "FCJ_ACT_PLJ_CALL_REJECTED",
+            "translated": "FCJ_ACT_PLJ_CALL_REJECTED",
+            "desc": ""
+        },
+        {
+            "hash": 644147919,
+            "original": "FCJ_ACT_CALL_IRATE",
+            "translated": "FCJ_ACT_CALL_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 644342299,
+            "original": "~z~Everything cook and curry, so why not, star?",
+            "translated": "~z~反正也没什么事，何不呢，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 674266711,
+            "original": "~z~All you wanna do is drink, man - maybe later.",
+            "translated": "~z~你就知道喝酒，兄弟，改天再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 694337350,
+            "original": "~z~Me can't go look pon some umoden right now y'know, ram goat. Maybe later.",
+            "translated": "~z~我现在没空看脱衣舞好吧，兄弟。下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 697890677,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 711858171,
+            "original": "FCJ_ACT_PLJ_CALL_POOL_CANCEL",
+            "translated": "FCJ_ACT_PLJ_CALL_POOL_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 713361083,
+            "original": "~z~No, rasta, not now, maybe later.",
+            "translated": "~z~不，好兄弟，现在不行，以后再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 716001737,
+            "original": "~z~Yes, rasta, for sure. I and I wait an hour for the I, seen.",
+            "translated": "~z~好的，好兄弟，当然了。我会等你一个小时，懂吧。",
+            "desc": ""
+        },
+        {
+            "hash": 728575644,
+            "original": "~z~No star - we play recently - another time.",
+            "translated": "~z~不来，兄弟，我们刚玩过。下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 752766679,
+            "original": "~z~Mek me look at the girl den. Why not.",
+            "translated": "~z~带我去看女人啊，何不呢。",
+            "desc": ""
+        },
+        {
+            "hash": 757068877,
+            "original": "~z~Jacob, it's me, Niko.",
+            "translated": "~z~Jacob，是我，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 761825692,
+            "original": "~z~You want to come to a strip club with me?",
+            "translated": "~z~你想和我一起去脱衣舞俱乐部吗？",
+            "desc": ""
+        },
+        {
+            "hash": 769078064,
+            "original": "100100100",
+            "translated": "100100100",
+            "desc": ""
+        },
+        {
+            "hash": 805933990,
+            "original": "~z~Nah, man. All ya wanna do is full me belly up, man - maybe later.",
+            "translated": "~z~不了，兄弟。你就想填饱我的肚子。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 854675230,
+            "original": "~z~Sure, rasta - pick me up in about a hour.",
+            "translated": "~z~当然，好兄弟。一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 904993071,
+            "original": "~z~Okay, Jacob. I'll call again soon.",
+            "translated": "~z~好的，Jacob。我以后再找你。",
+            "desc": ""
+        },
+        {
+            "hash": 920748665,
+            "original": "~z~Any chance you can play a bit of pool?",
+            "translated": "~z~能不能来打个台球？",
+            "desc": ""
+        },
+        {
+            "hash": 924543610,
+            "original": "~z~You wanna get something to eat?",
+            "translated": "~z~想出来吃点什么吗？",
+            "desc": ""
+        },
+        {
+            "hash": 950117794,
+            "original": "FCJ_ACT_CALL_LIKEYES",
+            "translated": "FCJ_ACT_CALL_LIKEYES",
+            "desc": ""
+        },
+        {
+            "hash": 976331892,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 985315540,
+            "original": "~z~No, I and I too busy for pool just now, y'know. Call me later or something.",
+            "translated": "~z~不，我现在忙得没空打台球好吧。之后再打给我。",
+            "desc": ""
+        },
+        {
+            "hash": 1005413467,
+            "original": "~z~Maybe later, ram goat. Me too busy for that right now.",
+            "translated": "~z~下次吧，老兄。我现在太忙了。",
+            "desc": ""
+        },
+        {
+            "hash": 1008659800,
+            "original": "~z~Sure thing, ram goat. I wait for an hour for the I.",
+            "translated": "~z~当然了，好兄弟。我等你一个小时。",
+            "desc": ""
+        },
+        {
+            "hash": 1023248922,
+            "original": "~z~Good. I'll be there in a bit.",
+            "translated": "~z~好，我马上就到。",
+            "desc": ""
+        },
+        {
+            "hash": 1069919830,
+            "original": "~z~You feel like coming to a strip club with me? Relieve some tension...",
+            "translated": "~z~你想和我去脱衣舞俱乐部吗？去那儿放松一下...",
+            "desc": ""
+        },
+        {
+            "hash": 1148865619,
+            "original": "~z~No, star. Me a lickle busy, man. Call me later.",
+            "translated": "~z~不了，兄弟。我有点忙。之后再打过来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1154311495,
+            "original": "~z~Sure, me hungry, man. Just pick me up.",
+            "translated": "~z~好啊，我刚好饿了，兄弟。来接我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1160049833,
+            "original": "FCJ_ACT_PLJ_CALL_LOLIKE",
+            "translated": "FCJ_ACT_PLJ_CALL_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 1167834826,
+            "original": "~z~Niko. Maybe later.",
+            "translated": "~z~Niko，改天再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1170507724,
+            "original": "~z~You want to get a meal or something?",
+            "translated": "~z~你想出来吃顿饭吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1218782720,
+            "original": "~z~You wanna play some pool, man?",
+            "translated": "~z~你想来打台球吗，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 1219379984,
+            "original": "~z~Nah, breda - me not have time for deal with the I y'know, still vexed with I y'know, star, for real. Call me back after me done fe? Let me relax or something.",
+            "translated": "~z~不了，兄弟。没空整这个，现在还气着好吧，真的。过段时间再找我好吧？先让我歇一歇。",
+            "desc": ""
+        },
+        {
+            "hash": 1233708153,
+            "original": "FCJ_ACT_PLJ_CALL_EAT_CANCEL",
+            "translated": "FCJ_ACT_PLJ_CALL_EAT_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 1246059176,
+            "original": "FCJ_ACT_PLJ_CALL_GREET",
+            "translated": "FCJ_ACT_PLJ_CALL_GREET",
+            "desc": ""
+        },
+        {
+            "hash": 1283643360,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1328819847,
+            "original": "~z~Good - I'll come get you.",
+            "translated": "~z~好，我这就来接你。",
+            "desc": ""
+        },
+        {
+            "hash": 1335100273,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1335236681,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1358969346,
+            "original": "FCJ_ACT_PLJ_CALL_DRINK",
+            "translated": "FCJ_ACT_PLJ_CALL_DRINK",
+            "desc": ""
+        },
+        {
+            "hash": 1367461968,
+            "original": "~z~Okay, no problem. Another time.",
+            "translated": "~z~好的，没问题。下次再说。",
+            "desc": ""
+        },
+        {
+            "hash": 1373996970,
+            "original": "FCJ_ACT_CALL_EAT_NO_GENERAL",
+            "translated": "FCJ_ACT_CALL_EAT_NO_GENERAL",
+            "desc": ""
+        },
+        {
+            "hash": 1377246476,
+            "original": "~z~So, you wanna go for a drink?",
+            "translated": "~z~你想出来喝一杯吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1388728412,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1402413937,
+            "original": "~z~You wanna get some food, man?",
+            "translated": "~z~想来搓一顿吗，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 1414814297,
+            "original": "~z~Maybe later, star.",
+            "translated": "~z~下次吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1421628342,
+            "original": "~z~I'm bored. You got time to go to a show?",
+            "translated": "~z~我很无聊，有空去看表演吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1430124128,
+            "original": "FCJ_ACT_PLJ_CALL_HILIKE",
+            "translated": "FCJ_ACT_PLJ_CALL_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 1446254123,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1459143634,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1471215571,
+            "original": "~z~Yeah - me asleep, man. Call me back 'bout two o'clock or something, seen?",
+            "translated": "~z~行，我睡觉呢，兄弟。过两点再打给我，懂？",
+            "desc": ""
+        },
+        {
+            "hash": 1492479499,
+            "original": "~z~I won't be able to make that show, man.",
+            "translated": "~z~我没法去看表演了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1496891336,
+            "original": "FCJ_ACT_PLJ_CALL_SLEEPING",
+            "translated": "FCJ_ACT_PLJ_CALL_SLEEPING",
+            "desc": ""
+        },
+        {
+            "hash": 1497955703,
+            "original": "~z~Yeah, I'm busy. Call me back.",
+            "translated": "~z~喂，我很忙，以后再打过来。",
+            "desc": ""
+        },
+        {
+            "hash": 1527113663,
+            "original": "~z~Nah man, me not take no more disrespect from you, man. Just call me back after me relax or something.",
+            "translated": "~z~不了，兄弟。不是我不尊重你，等我休息好了再找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1544523654,
+            "original": "FCJ_ACT_PLJ_CALL_LIFT_CANCEL",
+            "translated": "FCJ_ACT_PLJ_CALL_LIFT_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 1547021950,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1549153562,
+            "original": "~z~Sure, why not? Come get me inna the next hour.",
+            "translated": "~z~好啊，干嘛不呢？一个小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 1630164895,
+            "original": "~z~Yeah, man. Pick me up inna my place inna one hour.",
+            "translated": "~z~好啊。一小时内来我地方接我。",
+            "desc": ""
+        },
+        {
+            "hash": 1642950168,
+            "original": "~z~You want to go a show or something?",
+            "translated": "~z~你想去看个表演吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1654611680,
+            "original": "~z~Not now, star - another time.",
+            "translated": "~z~现在不行，兄弟。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1676343686,
+            "original": "~z~No - me can't play darts right now, star, maybe later.",
+            "translated": "~z~不行，我现在没法来玩飞镖，兄弟，下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1715626298,
+            "original": "~z~Any interest in playing pool?",
+            "translated": "~z~有兴趣打台球吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1729118732,
+            "original": "FCJ_ACT_PLJ_CALL_POOL",
+            "translated": "FCJ_ACT_PLJ_CALL_POOL",
+            "desc": ""
+        },
+        {
+            "hash": 1735481548,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1750153446,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1766151054,
+            "original": "FCJ_ACT_CALL_EAT_NO_RECENT",
+            "translated": "FCJ_ACT_CALL_EAT_NO_RECENT",
+            "desc": ""
+        },
+        {
+            "hash": 1862595412,
+            "original": "~z~Why not, rasta? Be at my place for one hour.",
+            "translated": "~z~何不呢，兄弟？一小时内来我地方。",
+            "desc": ""
+        },
+        {
+            "hash": 1901533832,
+            "original": "~z~Maybe later, star. Me can't deal with them tings again so soon.",
+            "translated": "~z~改天再说吧，兄弟。我们才刚去过那里。",
+            "desc": ""
+        },
+        {
+            "hash": 1997496993,
+            "original": "FCJ_ACT_CALL_STRIP_NO_GENERAL",
+            "translated": "FCJ_ACT_CALL_STRIP_NO_GENERAL",
+            "desc": ""
+        },
+        {
+            "hash": 2001385234,
+            "original": "~z~Yeah man, me asleep man. Call me back 'bout two o'clock, seen?",
+            "translated": "~z~喂兄弟，我睡了。两点左右再打过来吧，懂？",
+            "desc": ""
+        },
+        {
+            "hash": 2013989302,
+            "original": "~z~I won't be making the trip to the skin club, Jacob. I'm having a few problems.",
+            "translated": "~z~我没法去脱衣舞俱乐部了，Jacob。我遇上了点麻烦。",
+            "desc": ""
+        },
+        {
+            "hash": 2059612189,
+            "original": "FCJ_ACT_CALL_STRIP_NO_RECENT",
+            "translated": "FCJ_ACT_CALL_STRIP_NO_RECENT",
+            "desc": ""
+        },
+        {
+            "hash": 2077713506,
+            "original": "~z~Nah, ram goat, maybe later.",
+            "translated": "~z~算了，兄弟，下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2131582615,
+            "original": "~z~Jacob, listen, I'm sorry, but I ain't going to be able to go out drinking.",
+            "translated": "~z~Jacob，听着，我很抱歉，但我没法来喝酒了。",
+            "desc": ""
+        },
+        {
+            "hash": 2182779057,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2208478357,
+            "original": "~z~Okay, man. Another time.",
+            "translated": "~z~好的，兄弟。下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2219633699,
+            "original": "~z~Some other time - did we nuh just go a' the show?",
+            "translated": "~z~改天吧，我们不是刚看过表演吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2232435194,
+            "original": "~z~Again? So soon? Ram goat - maybe later.",
+            "translated": "~z~又来？这么快？兄弟，下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2232502667,
+            "original": "~z~Why not? Pick me up in about a hour - me play.",
+            "translated": "~z~何不呢？一小时内来接我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2238270076,
+            "original": "~z~So, you got any interest in a game of darts?",
+            "translated": "~z~有没有兴趣来投局飞镖？",
+            "desc": ""
+        },
+        {
+            "hash": 2271223518,
+            "original": "~z~Great - see you soon.",
+            "translated": "~z~好，待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 2280220563,
+            "original": "~z~Did we nuh just play arrows?",
+            "translated": "~z~不是刚玩过飞镖吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2330772265,
+            "original": "~z~No problem, let's play soon.",
+            "translated": "~z~没问题，我们以后再出去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2352595256,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2359100012,
+            "original": "~z~Niko, sure - pick me up.",
+            "translated": "~z~Niko，好啊。来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 2369862388,
+            "original": "FCJ_ACT_PLJ_CALL_SHOW_CANCEL",
+            "translated": "FCJ_ACT_PLJ_CALL_SHOW_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 2372808476,
+            "original": "FCJ_ACT_CALL_SHOW_NO_RECENT",
+            "translated": "FCJ_ACT_CALL_SHOW_NO_RECENT",
+            "desc": ""
+        },
+        {
+            "hash": 2391702309,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2402072685,
+            "original": "~z~Hey there, Jacob.",
+            "translated": "~z~你好啊，Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 2402980750,
+            "original": "~z~Rasta want a ketchy shuby? Sure thing. Pick me up in about a hour.",
+            "translated": "~z~兄弟你想去爽一爽？好啊。一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 2425696369,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2435201885,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2510913756,
+            "original": "~z~Me a lickle bit busy right now y'know, breda. Maybe later.",
+            "translated": "~z~我现在有点忙好吧，兄弟。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2531174709,
+            "original": "FCJ_ACT_CALL_DARTS_YES",
+            "translated": "FCJ_ACT_CALL_DARTS_YES",
+            "desc": ""
+        },
+        {
+            "hash": 2536723024,
+            "original": "FCJ_ACT_PLJ_CALL_MEDLIKE",
+            "translated": "FCJ_ACT_PLJ_CALL_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2555521409,
+            "original": "~z~You wanna have a drink man?",
+            "translated": "~z~想来喝一杯吗，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 2560312254,
+            "original": "~z~Yeah man, everything cris now, ye done know. Pick me up later, rudeboy.",
+            "translated": "~z~好啊，兄弟，现在我刚好有空。待会儿过来接我，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2577875820,
+            "original": "~z~Excellent - I am on my way, Jacob.",
+            "translated": "~z~很好，我这就来，Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 2581081016,
+            "original": "FCJ_ACT_CALL_SHOW_NO_GENERAL",
+            "translated": "FCJ_ACT_CALL_SHOW_NO_GENERAL",
+            "desc": ""
+        },
+        {
+            "hash": 2604758572,
+            "original": "~z~You wanna go play darts man?",
+            "translated": "~z~你想去玩飞镖吗，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 2616269675,
+            "original": "~z~Not too soon, rasta, another time.",
+            "translated": "~z~别那么频繁，兄弟，改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2640393988,
+            "original": "~z~You wanna get some food?",
+            "translated": "~z~你想来吃一顿吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2647478058,
+            "original": "~z~Alright, thanks for that, yeah? Me apprieciate that, yeah, yeah, uhuh, yeah alright, cool.",
+            "translated": "~z~好啊，谢谢你啊。我很感激，对对，嗯，对的没错。",
+            "desc": ""
+        },
+        {
+            "hash": 2663884481,
+            "original": "~z~Okay, man, pick me up in about a hour.",
+            "translated": "~z~好的兄弟，一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 2733628052,
+            "original": "~z~You got time for a game of pool?",
+            "translated": "~z~有空来打台球吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2761290471,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2781103205,
+            "original": "~z~Wanna hang out, have a drink or something?",
+            "translated": "~z~出来走走吗，喝一杯啥的？",
+            "desc": ""
+        },
+        {
+            "hash": 2784298272,
+            "original": "~z~No worries, man - everything cris.",
+            "translated": "~z~没关系，兄弟。在所难免嘛。",
+            "desc": ""
+        },
+        {
+            "hash": 2833443452,
+            "original": "FCJ_ACT_CALL_SLEEP_REPLY",
+            "translated": "FCJ_ACT_CALL_SLEEP_REPLY",
+            "desc": ""
+        },
+        {
+            "hash": 2871006697,
+            "original": "~z~You got time for a quick game of darts?",
+            "translated": "~z~有空来一把飞镖吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2926943201,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2933405044,
+            "original": "~z~Mek we play darts? Did we nuh just play recent?",
+            "translated": "~z~又玩飞镖啊？这不是刚玩过吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2942072921,
+            "original": "~z~Yo, no feel no way, but me can't have a drink right now.",
+            "translated": "~z~哟，也不是不想，但我现在没法来喝。",
+            "desc": ""
+        },
+        {
+            "hash": 2953188253,
+            "original": "~z~Nah, man. All you wanna do is eat, eat, eat, eat, eat, eat - maybe later.",
+            "translated": "~z~算了，兄弟。你整天就想着吃吃吃吃吃。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2969619251,
+            "original": "~z~Mek we go a' de show? Why not. Pick me up.",
+            "translated": "~z~要去看表演？何不呢。来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 2975454309,
+            "original": "FCJ_ACT_ANSWER_PHONE",
+            "translated": "FCJ_ACT_ANSWER_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 3023742861,
+            "original": "~z~Sure, man - just pick me up in about a hour.",
+            "translated": "~z~好啊，兄弟，一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 3030863954,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3078442814,
+            "original": "~z~Sorry, I've got to back out of the drinking.",
+            "translated": "~z~抱歉，喝酒的事我只能放一放了。",
+            "desc": ""
+        },
+        {
+            "hash": 3098409848,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3101602150,
+            "original": "~z~You wanna play some darts?",
+            "translated": "~z~你想玩飞镖吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3102504941,
+            "original": "FCJ_ACT_CALL_SHOW_YES",
+            "translated": "FCJ_ACT_CALL_SHOW_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3104672814,
+            "original": "~z~Jacob.",
+            "translated": "~z~Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 3125409291,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3132696009,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3133645998,
+            "original": "~z~Nah, man - maybe later, man. Me full up.",
+            "translated": "~z~算了，兄弟，改天吧。我饱了。",
+            "desc": ""
+        },
+        {
+            "hash": 3135082115,
+            "original": "FCJ_ACT_CALL_EAT_YES",
+            "translated": "FCJ_ACT_CALL_EAT_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3138532007,
+            "original": "FCJ_ACT_CALL_POOL_NO_RECENT",
+            "translated": "FCJ_ACT_CALL_POOL_NO_RECENT",
+            "desc": ""
+        },
+        {
+            "hash": 3143465396,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3166965018,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3188107472,
+            "original": "FCJ_ACT_PLJ_CALL_STRIP_CANCEL",
+            "translated": "FCJ_ACT_PLJ_CALL_STRIP_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 3198440610,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3228177386,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3228239611,
+            "original": "FCJ_ACT_PLJ_CALL_STRIP",
+            "translated": "FCJ_ACT_PLJ_CALL_STRIP",
+            "desc": ""
+        },
+        {
+            "hash": 3249267838,
+            "original": "FCJ_ACT_PLJ_CALL_DRINK_CANCEL",
+            "translated": "FCJ_ACT_PLJ_CALL_DRINK_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 3249500659,
+            "original": "FCJ_ACT_CALL_DARTS_NO_RECENT",
+            "translated": "FCJ_ACT_CALL_DARTS_NO_RECENT",
+            "desc": ""
+        },
+        {
+            "hash": 3256455813,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3270409913,
+            "original": "~z~You got time to have a drink with me?",
+            "translated": "~z~有空和我喝一杯吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3271361130,
+            "original": "~z~Okay, me breda. Me love play darts, y'know. Come on my place in about an hour.",
+            "translated": "~z~好的，兄弟。我爱飞镖好吧。一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 3318443660,
+            "original": "SFX_MACHINE_BEEP",
+            "translated": "SFX_MACHINE_BEEP",
+            "desc": ""
+        },
+        {
+            "hash": 3369812181,
+            "original": "~z~Nah, man. Me have nuff food inna me belly, man, to last a week - maybe later.",
+            "translated": "~z~算了，兄弟。我已经吃得够多了，兄弟，能顶一周吧。下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3370720617,
+            "original": "~z~Sorry, Jacob - I didn't realize what the time was.",
+            "translated": "~z~抱歉，Jacob。我没仔细看时间。",
+            "desc": ""
+        },
+        {
+            "hash": 3383895531,
+            "original": "~z~Yeah man, me done now, so me ready fe link up with de man again, seen?",
+            "translated": "~z~好啊，兄弟，我现在有空出去了，懂吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3392612103,
+            "original": "FCJ_ACT_PLJ_CALL_SHOW",
+            "translated": "FCJ_ACT_PLJ_CALL_SHOW",
+            "desc": ""
+        },
+        {
+            "hash": 3403725718,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3413568630,
+            "original": "~z~Nah, Niko - me kinda busy just now, man - maybe later.",
+            "translated": "~z~算了，Niko，我现在有点忙，兄弟，改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3459973118,
+            "original": "~z~All you wanna do is show, show, show, seen? Maybe another time.",
+            "translated": "~z~整天只想着表演表演表演，是吧？改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3462900972,
+            "original": "~z~Cool, Jacob - I'll be there in a bit.",
+            "translated": "~z~好，Jacob，我马上就来。",
+            "desc": ""
+        },
+        {
+            "hash": 3485578050,
+            "original": "~z~Thanks! Me like hung around for nothing y'know?",
+            "translated": "~z~多谢啊！我正好就喜欢被人鸽。",
+            "desc": ""
+        },
+        {
+            "hash": 3494374728,
+            "original": "FCJ_ACT_CALL_VERYIRATE",
+            "translated": "FCJ_ACT_CALL_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 3507539993,
+            "original": "~z~Yo, me can't drink all the time y'know, Niko. Maybe a next time?",
+            "translated": "~z~哟，我也不能一直喝酒啊，Niko。要么下次吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3523802333,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3533422406,
+            "original": "~z~It me, so listen Jacob.",
+            "translated": "~z~是我。听着，Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 3534576912,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3561210427,
+            "original": "FCJ_ACT_CALL_LIKENO",
+            "translated": "FCJ_ACT_CALL_LIKENO",
+            "desc": ""
+        },
+        {
+            "hash": 3612661934,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3615204371,
+            "original": "~z~Okay ram goat! Just pick me up.",
+            "translated": "~z~好的老兄！过来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 3617352668,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3645517572,
+            "original": "~z~You know me, Niko - me love play darts. One hour me wait.",
+            "translated": "~z~你懂我的，Niko。我爱飞镖。我等你一小时。",
+            "desc": ""
+        },
+        {
+            "hash": 3658362455,
+            "original": "FCJ_ACT_CALL_DRINK_NO_RECENT",
+            "translated": "FCJ_ACT_CALL_DRINK_NO_RECENT",
+            "desc": ""
+        },
+        {
+            "hash": 3687988638,
+            "original": "~z~It's alright, man. Maybe a next time, it's alright.",
+            "translated": "~z~没事，兄弟。那就下次吧，没事的。",
+            "desc": ""
+        },
+        {
+            "hash": 3702674295,
+            "original": "~z~Hey, Jacob.",
+            "translated": "~z~嘿，Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 3704518836,
+            "original": "~z~Yeah, man - me play pool, for real. Pick me up in about a hour.",
+            "translated": "~z~好啊，来打台球啊，真的。一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 3749508818,
+            "original": "~z~Nah, me nuh going to the strip club now, ram goat - maybe later.",
+            "translated": "~z~算了，我现在不去脱衣舞俱乐部，兄弟。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3770601882,
+            "original": "~z~I'm on my way.",
+            "translated": "~z~我来了。",
+            "desc": ""
+        },
+        {
+            "hash": 3778944554,
+            "original": "~z~Sure, I'm a lickle hungry y'know. Pick me up.",
+            "translated": "~z~当然，我有点饿了。来接我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3788764984,
+            "original": "~z~Nah man, not again man. So soon?",
+            "translated": "~z~别吧兄弟，不是刚去过吗。还来啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3812745362,
+            "original": "~z~Mr. Jacob, it's Niko.",
+            "translated": "~z~Jacob先生，我是Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3854465691,
+            "original": "~z~Nah, man. Me full, star - but... maybe a lickle later.",
+            "translated": "~z~不了，兄弟。我饱了，兄弟。过会儿再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3871310099,
+            "original": "~z~Maybe later. Did we nuh just eat, man?",
+            "translated": "~z~以后再说吧，我们不是刚出去吃过吗，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 3878622874,
+            "original": "~z~I'm afraid I won't be making the pool - sorry man.",
+            "translated": "~z~恐怕我没法来打台球了，抱歉，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3897156525,
+            "original": "FCJ_ACT_PLJ_CALL_ACCEPTED",
+            "translated": "FCJ_ACT_PLJ_CALL_ACCEPTED",
+            "desc": ""
+        },
+        {
+            "hash": 3917657749,
+            "original": "~z~Not again, star - another time, seen?",
+            "translated": "~z~才刚去过，兄弟。改天再说，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3944584530,
+            "original": "~z~For sure, breda. Just pick me up.",
+            "translated": "~z~当然，兄弟。来接我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3956011434,
+            "original": "~z~Jacob, it's Niko.",
+            "translated": "~z~Jacob，我是Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3964550538,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3990086878,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4001210319,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4003707125,
+            "original": "~z~Sure, just pick me up in a hour.",
+            "translated": "~z~当然，一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 4039480608,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4059722769,
+            "original": "~z~Great. I'll head over to your place.",
+            "translated": "~z~好，我这就过来找你。",
+            "desc": ""
+        },
+        {
+            "hash": 4069748925,
+            "original": "~z~Sorry, man.",
+            "translated": "~z~抱歉，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 4080049063,
+            "original": "~z~Jacob I can't make the darts, sorry man.",
+            "translated": "~z~Jacob，飞镖我来不了了，抱歉兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 4095842141,
+            "original": "~z~No, Star. Me full, man - maybe later.",
+            "translated": "~z~算了，兄弟。我饱了，改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4110724900,
+            "original": "FCJ_ACT_CALL_DARTS_NO_GENERAL",
+            "translated": "FCJ_ACT_CALL_DARTS_NO_GENERAL",
+            "desc": ""
+        },
+        {
+            "hash": 4137524018,
+            "original": "~z~Ease up with the drinking now. Niko, maybe a next time?",
+            "translated": "~z~稍微少喝点吧，Niko，要么下次吧？",
+            "desc": ""
+        },
+        {
+            "hash": 4172749729,
+            "original": "~z~You got any interest in going to a show? I'm bored.",
+            "translated": "~z~你有兴趣去看表演吗？我有点无聊。",
+            "desc": ""
+        },
+        {
+            "hash": 4201155101,
+            "original": "~z~Yeah, man. Pick me up in about an hour, seen?",
+            "translated": "~z~好啊。一小时内来接我，懂？",
+            "desc": ""
+        },
+        {
+            "hash": 4211482571,
+            "original": "~z~Not again so soon, man. Me could play ya later, man.",
+            "translated": "~z~别这么频繁，兄弟。过几天再打吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4251358339,
+            "original": "~z~Jacob - sorry - I'm not going to be able to give you a lift.",
+            "translated": "~z~Jacob，抱歉，我没法来接你了。",
+            "desc": ""
+        },
+        {
+            "hash": 4262729163,
+            "original": "~z~No disrespect, but me can't meet up for a drink right now.",
+            "translated": "~z~不是不尊重你，只是我现在没法出来喝酒。",
+            "desc": ""
+        }
+    ]
+}

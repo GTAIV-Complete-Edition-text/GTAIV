@@ -1,0 +1,484 @@
+{
+    "BR2AUD": [
+        {
+            "hash": 2067736,
+            "original": "~z~Man, women.",
+            "translated": "~z~真是，女人啊。",
+            "desc": ""
+        },
+        {
+            "hash": 26059351,
+            "original": "010100100100100",
+            "translated": "010100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 125325733,
+            "original": "BR2_CB_QQQ1",
+            "translated": "BR2_CB_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 151555731,
+            "original": "~z~Okay... I'll just go take care of it, then.",
+            "translated": "~z~好吧...那这活我干了。",
+            "desc": ""
+        },
+        {
+            "hash": 154610875,
+            "original": "BR2_AA",
+            "translated": "BR2_AA",
+            "desc": ""
+        },
+        {
+            "hash": 163781772,
+            "original": "~z~A lot of people are very grateful.",
+            "translated": "~z~很多人都十分感激。",
+            "desc": ""
+        },
+        {
+            "hash": 220603218,
+            "original": "~z~Now listen. That guy, Lyle, had a car worth stealing. Can you get it?",
+            "translated": "~z~仔细听。那家伙，Lyle，还有辆值得偷的车。能明白吗？",
+            "desc": ""
+        },
+        {
+            "hash": 246072564,
+            "original": "BR2_EA",
+            "translated": "BR2_EA",
+            "desc": ""
+        },
+        {
+            "hash": 301099590,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 323396367,
+            "original": "~z~Yeah!",
+            "translated": "~z~耶！",
+            "desc": ""
+        },
+        {
+            "hash": 415512998,
+            "original": "~z~Makes you feel really...",
+            "translated": "~z~让你感到非常...",
+            "desc": ""
+        },
+        {
+            "hash": 486591515,
+            "original": "030300",
+            "translated": "030300",
+            "desc": ""
+        },
+        {
+            "hash": 566808682,
+            "original": "~z~Why didn't you tell me it was Niko? Why?",
+            "translated": "~z~你为什么不告诉我Niko来了？为什么？",
+            "desc": ""
+        },
+        {
+            "hash": 604997499,
+            "original": "BR2_CB",
+            "translated": "BR2_CB",
+            "desc": ""
+        },
+        {
+            "hash": 738495450,
+            "original": "~z~That ain't your car.",
+            "translated": "~z~这可不是你的车。",
+            "desc": ""
+        },
+        {
+            "hash": 744244567,
+            "original": "~z~Here's the car for Brucie, I hope you were expecting a fixer upper?",
+            "translated": "~z~这是Brucie的车，希望你是准备来一个以旧换新。",
+            "desc": ""
+        },
+        {
+            "hash": 750310899,
+            "original": "~z~Nah. Easy as can be.",
+            "translated": "~z~不。要多简单有多简单。",
+            "desc": ""
+        },
+        {
+            "hash": 753426926,
+            "original": "~z~Are you alright? You seem a little tense.",
+            "translated": "~z~你没事吧？你看起来有点紧张。",
+            "desc": ""
+        },
+        {
+            "hash": 753754848,
+            "original": "~z~I haven't considered it. You sent me a message. What do you want?",
+            "translated": "~z~这我倒没想过。你给我发了短信，你要干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 781917898,
+            "original": "BR2_CC",
+            "translated": "BR2_CC",
+            "desc": ""
+        },
+        {
+            "hash": 1037250423,
+            "original": "~z~You ain't driving away in this.",
+            "translated": "~z~你不能开这个走。",
+            "desc": ""
+        },
+        {
+            "hash": 1095361606,
+            "original": "~z~He trying to take Lyle's ride.",
+            "translated": "~z~他想偷走Lyle的车。",
+            "desc": ""
+        },
+        {
+            "hash": 1196311149,
+            "original": "~z~That's Lyle's ride.",
+            "translated": "~z~这是Lyle的车。",
+            "desc": ""
+        },
+        {
+            "hash": 1362702150,
+            "original": "~z~I'm working out!",
+            "translated": "~z~我在锻炼！",
+            "desc": ""
+        },
+        {
+            "hash": 1461131719,
+            "original": "~z~Hey, Brucie, I'm sorry about this but Lyle's car got fucked. You ain't getting it.",
+            "translated": "~z~嘿，Brucie，很遗憾告诉你，Lyle的车完蛋了。你没能得到它。",
+            "desc": ""
+        },
+        {
+            "hash": 1502602992,
+            "original": "~z~Step outta Lyle's car, man.",
+            "translated": "~z~离Lyle的车远一点，哥们儿。",
+            "desc": ""
+        },
+        {
+            "hash": 1516941654,
+            "original": "~z~Any risks?",
+            "translated": "~z~有风险吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1673613215,
+            "original": "~z~Ordered online from Chile.",
+            "translated": "~z~网上下单，智利直送。",
+            "desc": ""
+        },
+        {
+            "hash": 1691604603,
+            "original": "~z~Thirty-one, thirty-two, thirty-three, thirty-five...",
+            "translated": "~z~三十一，三十二，三十三，三十五...",
+            "desc": ""
+        },
+        {
+            "hash": 1706534445,
+            "original": "~z~Shit man. If I'd known it'd be like that then I'd have gone to get it. People don't fuck with Brucie. I mean, you're cool though.",
+            "translated": "~z~见鬼了，兄弟。早知道会这样我就亲自去取车了，没人敢和Brucie作对。不过你也是够酷。",
+            "desc": ""
+        },
+        {
+            "hash": 1713914369,
+            "original": "010100100100",
+            "translated": "010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 1723185412,
+            "original": "~z~Fuck, I wanted that real bad.",
+            "translated": "~z~操，我他妈真想那样。",
+            "desc": ""
+        },
+        {
+            "hash": 1840747612,
+            "original": "290",
+            "translated": "290",
+            "desc": ""
+        },
+        {
+            "hash": 1929933540,
+            "original": "~z~There's someone here to see you...",
+            "translated": "~z~有人来找你了...",
+            "desc": ""
+        },
+        {
+            "hash": 1969830464,
+            "original": "BR2_DA",
+            "translated": "BR2_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1970434817,
+            "original": "~z~Yeah. Bull shark testosterone, amigo.",
+            "translated": "~z~是啊，牛鲨睾酮，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2005760031,
+            "original": "~z~Now look, you did really good with that thing.",
+            "translated": "~z~听好了，上次你办得很好啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2100574504,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2335343105,
+            "original": "~z~At least he ain't gonna be driving no more. Come back to see me, man.",
+            "translated": "~z~至少他再也没法开车了。回来见我，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2484442308,
+            "original": "~z~The only thing you expect when you're working for Brucie is a whole lot of bullshit. Thanks.",
+            "translated": "~z~替Brucie工作的时候，你能期待的只有一堆屁话。谢了。",
+            "desc": ""
+        },
+        {
+            "hash": 2496475574,
+            "original": "~z~Yeah! Man, I'm ready for you, Nicky, I'm ready. I'm ready for fucking anything.",
+            "translated": "~z~耶！兄弟，我准备好了，Nicky，我准备好了。我准备好干翻一切了。",
+            "desc": ""
+        },
+        {
+            "hash": 2565344397,
+            "original": "~z~we'll cruise, we'll hang, alright, alright? Thanks, homie, thanks.",
+            "translated": "~z~一起坐船浪，一起出去玩！好吗？好吗？~n~谢谢，亲爱的，谢谢。",
+            "desc": ""
+        },
+        {
+            "hash": 2574662640,
+            "original": "~z~male.",
+            "translated": "~z~雄壮。",
+            "desc": ""
+        },
+        {
+            "hash": 2673443520,
+            "original": "BR2_BD_QQQ1",
+            "translated": "BR2_BD_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 2676079555,
+            "original": "~z~Bye.",
+            "translated": "~z~再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2720597883,
+            "original": "BR2_BD",
+            "translated": "BR2_BD",
+            "desc": ""
+        },
+        {
+            "hash": 2752730365,
+            "original": "~z~Forty.",
+            "translated": "~z~四十。",
+            "desc": ""
+        },
+        {
+            "hash": 2792609027,
+            "original": "~z~Women.",
+            "translated": "~z~女人啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2807065320,
+            "original": "BR2_GB",
+            "translated": "BR2_GB",
+            "desc": ""
+        },
+        {
+            "hash": 2857950645,
+            "original": "~z~Be careful, man. I heard that stuff does funny things to your balls.",
+            "translated": "~z~悠着点，哥们儿，我听说那玩意对你的蛋不大好。",
+            "desc": ""
+        },
+        {
+            "hash": 2873892641,
+            "original": "BR2_BA",
+            "translated": "BR2_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2883772617,
+            "original": "~z~Hey. Do I look like I got funny balls to you?",
+            "translated": "~z~喂，我像是蛋不大好的人吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2992112671,
+            "original": "~z~Brucie asked me to bring this by, you're lucky it looks as good as it does.",
+            "translated": "~z~Brucie让我把这车送来。你真幸运，这车现在还很好看。",
+            "desc": ""
+        },
+        {
+            "hash": 3020341962,
+            "original": "~z~You made it man. You got them mad Red Army driving skills.",
+            "translated": "~z~你做到了兄弟！你的红军车技太牛逼了。",
+            "desc": ""
+        },
+        {
+            "hash": 3162287308,
+            "original": "~z~I'm not gonna let you take this car.",
+            "translated": "~z~我不能让你拿走这辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 3170198918,
+            "original": "~z~You should have seen that jumped up punk driving around in that shit.",
+            "translated": "~z~你应该看看那帮跳起来的小混混跟傻逼一样开着车乱跑。",
+            "desc": ""
+        },
+        {
+            "hash": 3195536651,
+            "original": "~z~Ah, motherfuckers...",
+            "translated": "~z~啊，狗娘养的...",
+            "desc": ""
+        },
+        {
+            "hash": 3209430939,
+            "original": "~z~I want help! I'm losing the plot here!",
+            "translated": "~z~要你帮忙！我快顶不住了！",
+            "desc": ""
+        },
+        {
+            "hash": 3265349163,
+            "original": "BR2_BB",
+            "translated": "BR2_BB",
+            "desc": ""
+        },
+        {
+            "hash": 3381534710,
+            "original": "~z~Hey, Brucie.",
+            "translated": "~z~嘿，Brucie。",
+            "desc": ""
+        },
+        {
+            "hash": 3394563942,
+            "original": "~z~I'll sort you out with some big rims... spinning ones. Crazy original styles. You know,",
+            "translated": "~z~我会用大轮圈调教好你的...转着的那种。原创疯狂风格，你懂的，",
+            "desc": ""
+        },
+        {
+            "hash": 3466491305,
+            "original": "030300",
+            "translated": "030300",
+            "desc": ""
+        },
+        {
+            "hash": 3493013633,
+            "original": "~z~Juicing?",
+            "translated": "~z~嗑药？",
+            "desc": ""
+        },
+        {
+            "hash": 3494714653,
+            "original": "~z~If you pay like last time, no problem.",
+            "translated": "~z~钱还是上次那么多的话，没问题。",
+            "desc": ""
+        },
+        {
+            "hash": 3529649607,
+            "original": "~z~Pause.",
+            "translated": "~z~打住。",
+            "desc": ""
+        },
+        {
+            "hash": 3569824629,
+            "original": "BR2_GA",
+            "translated": "BR2_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3611802473,
+            "original": "~z~Niko! One second...",
+            "translated": "~z~Niko！再等等...",
+            "desc": ""
+        },
+        {
+            "hash": 3658952881,
+            "original": "~z~Yeah, of course.",
+            "translated": "~z~行，必须的。",
+            "desc": ""
+        },
+        {
+            "hash": 3794586740,
+            "original": "~z~Yeah! Sorry. I'm just juicing, makes me a little... pent up.",
+            "translated": "~z~对！抱歉，我刚嗑过药，让我有点...压抑。",
+            "desc": ""
+        },
+        {
+            "hash": 3802058304,
+            "original": "~z~No, I'm shitting you, man.",
+            "translated": "~z~不，我逗你玩呢，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 3835979963,
+            "original": "~z~Only thing Brucie thinks is good looking is himself. In the mirror. Thanks.",
+            "translated": "~z~Brucie唯一觉得好看的就是镜子里的自己。谢了。",
+            "desc": ""
+        },
+        {
+            "hash": 3938148944,
+            "original": "~z~Thirty-six, thirty-seven...",
+            "translated": "~z~三十六，三十七...",
+            "desc": ""
+        },
+        {
+            "hash": 3964901688,
+            "original": "BR2_CA",
+            "translated": "BR2_CA",
+            "desc": ""
+        },
+        {
+            "hash": 4043074067,
+            "original": "~z~Man.",
+            "translated": "~z~真是。",
+            "desc": ""
+        },
+        {
+            "hash": 4053384679,
+            "original": "~z~The car is in your lockup. It was not so easy. People were waiting for me.",
+            "translated": "~z~车在你车库里了。这活哪简单了，还有人埋伏我。",
+            "desc": ""
+        },
+        {
+            "hash": 4067141391,
+            "original": "BR2_BC",
+            "translated": "BR2_BC",
+            "desc": ""
+        },
+        {
+            "hash": 4103335986,
+            "original": "BR2_FA",
+            "translated": "BR2_FA",
+            "desc": ""
+        },
+        {
+            "hash": 4254730210,
+            "original": "BR2_FB",
+            "translated": "BR2_FB",
+            "desc": ""
+        },
+        {
+            "hash": 4265779987,
+            "original": "~z~No risks Brucie? Maybe this juicing is fucking with your head.",
+            "translated": "~z~这还没风险，Brucie？我看你是嗑药嗑坏脑子了。",
+            "desc": ""
+        },
+        {
+            "hash": 4284742474,
+            "original": "~z~He left it in an alleyway off of Yorktown Avenue in Steinway.",
+            "translated": "~z~他把车停在了Steinway的Yorktown大道边的小巷里。",
+            "desc": ""
+        }
+    ]
+}

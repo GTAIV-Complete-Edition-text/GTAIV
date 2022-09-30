@@ -1,0 +1,88 @@
+{
+    "WI_IV1": [
+        {
+            "hash": 660790919,
+            "original": "Pick ~b~Ivan~s~ up.",
+            "translated": "接上~b~Ivan。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 968491829,
+            "original": "Get a vehicle.",
+            "translated": "找一辆载具。",
+            "desc": ""
+        },
+        {
+            "hash": 1141355248,
+            "original": "Take Ivan to collect his ~y~money.",
+            "translated": "带Ivan收回他的~y~钱。",
+            "desc": ""
+        },
+        {
+            "hash": 1562823182,
+            "original": "Wait for Ivan.",
+            "translated": "等待Ivan。",
+            "desc": ""
+        },
+        {
+            "hash": 1811934384,
+            "original": "~r~You have scared the debtor's and ruined the meeting.~s~",
+            "translated": "~r~你惊吓了债务人，毁了这次会面。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2052464528,
+            "original": "~r~Ivan was abandoned~s~",
+            "translated": "~r~Ivan被抛弃了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2059739246,
+            "original": "~r~The meeting was broken up.~s~",
+            "translated": "~r~会面被破坏了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2513688203,
+            "original": "Leave the car and go and speak with Ivan's ~y~debtor.",
+            "translated": "下车，与Ivan的~y~债务人~s~交谈。",
+            "desc": ""
+        },
+        {
+            "hash": 2820274967,
+            "original": "Protect Ivan and take out the ~r~gang members.~s~",
+            "translated": "保护Ivan，干掉~r~帮派分子。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2975960486,
+            "original": "You left ~b~Ivan~s~ behind.",
+            "translated": "你把~b~Ivan~s~落在后面了。",
+            "desc": ""
+        },
+        {
+            "hash": 3296139777,
+            "original": "Go and speak with Ivan's ~y~debtor.",
+            "translated": "上前与Ivan的~y~债务人~s~交谈。",
+            "desc": ""
+        },
+        {
+            "hash": 3397206037,
+            "original": "Lose your wanted level.",
+            "translated": "摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 3438101693,
+            "original": "You are too far away from ~b~Ivan.~s~ Get closer so you can interact with him.",
+            "translated": "你离~b~Ivan~s~太远了。靠近来与他互动。",
+            "desc": ""
+        },
+        {
+            "hash": 3743377697,
+            "original": "Go and speak with ~b~Ivan.",
+            "translated": "去与~b~Ivan~s~交谈。",
+            "desc": ""
+        }
+    ]
+}

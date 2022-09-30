@@ -1,0 +1,136 @@
+{
+    "VLAD3": [
+        {
+            "hash": 47644812,
+            "original": "Trains can be used to travel large distances in a short time around the city.",
+            "translated": "各种列车可以让你在短时间内在城中进行远距离穿梭。",
+            "desc": ""
+        },
+        {
+            "hash": 346203171,
+            "original": "While in the train press ~INPUT_NEXT_CAMERA~ to cycle through different camera modes.",
+            "translated": "乘坐列车时按~INPUT_NEXT_CAMERA~可切换视角。",
+            "desc": ""
+        },
+        {
+            "hash": 404929365,
+            "original": "~s~Find and take the ~b~silver Blista Compact.",
+            "translated": "~s~找到~b~银色Blista Compact，~s~开走它。",
+            "desc": ""
+        },
+        {
+            "hash": 775640916,
+            "original": "Press ~INPUT_FRONTEND_ACCEPT~ to skip directly to your destination.",
+            "translated": "按~INPUT_FRONTEND_ACCEPT~可跳过路程直达目的地。",
+            "desc": ""
+        },
+        {
+            "hash": 844853011,
+            "original": "~S~Lose your wanted level.",
+            "translated": "~S~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1075084038,
+            "original": "Press ~INPUT_ENTER~ to enter a train.",
+            "translated": "按~INPUT_ENTER~进入列车。",
+            "desc": ""
+        },
+        {
+            "hash": 1240075953,
+            "original": "An icon with an upward pointing arrow indicates that the objective is above your current position, and an icon with a downward pointing arrow indicates that an objective is below you.",
+            "translated": "小地图中，带有向上箭头的圆点表示目标所处位置高于你，带有向下箭头的圆点表示目标所处位置低于你。",
+            "desc": ""
+        },
+        {
+            "hash": 1247780834,
+            "original": "~s~You are on the wrong platform, go to the ~y~platform below.",
+            "translated": "~s~你来错站台了，去~y~楼下的站台。",
+            "desc": ""
+        },
+        {
+            "hash": 1478900591,
+            "original": "~s~Now take Jimmy's car to the ~y~lockup.",
+            "translated": "~s~把Jimmy的车开回~y~车库。",
+            "desc": ""
+        },
+        {
+            "hash": 1498894864,
+            "original": "~r~The vehicle is stuck.~s~",
+            "translated": "~r~车辆无法行驶。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1657884849,
+            "original": "~s~Take Jimmy's car to the ~y~lockup.",
+            "translated": "~s~把Jimmy的车开回~y~车库。",
+            "desc": ""
+        },
+        {
+            "hash": 2177142447,
+            "original": "~s~Go to the ~y~subway station.",
+            "translated": "~s~前往~y~地铁站。",
+            "desc": ""
+        },
+        {
+            "hash": 2186454233,
+            "original": "To perform a stun punch lock onto an enemy and approach them unarmed. When close enough the target reticule will change then press ~INPUT_MELEE_ATTACK1~ to perform the move.",
+            "translated": "要使用击晕，赤手锁定敌人并靠近。靠近敌人后按~INPUT_MELEE_ATTACK1~使出击晕。",
+            "desc": ""
+        },
+        {
+            "hash": 2250445951,
+            "original": "~s~Drive the car into the ~y~garage.",
+            "translated": "~s~将车开入~y~车库。",
+            "desc": ""
+        },
+        {
+            "hash": 2384134499,
+            "original": "Get on the ~b~train.",
+            "translated": "乘上~b~列车。",
+            "desc": ""
+        },
+        {
+            "hash": 2409966192,
+            "original": "~s~Take Jimmy's car to the car wash.",
+            "translated": "~s~把Jimmy的车开到洗车店。",
+            "desc": ""
+        },
+        {
+            "hash": 2456569100,
+            "original": "You can surprise some enemies with a ~h~stun punch. ~s~This will knock them to the floor instantly. Stun punches can not be performed while in combat.",
+            "translated": "你可以使用~h~击晕~s~给敌人来一个突然袭击。~s~你的敌人会直接倒地。击晕无法在战斗中使用。",
+            "desc": ""
+        },
+        {
+            "hash": 2751714093,
+            "original": "~s~Go up to the ~y~station platform.",
+            "translated": "~s~前往~y~站台。",
+            "desc": ""
+        },
+        {
+            "hash": 3419700437,
+            "original": "Wait for the ~b~train~s~ to arrive.",
+            "translated": "等待~b~列车~s~进站。",
+            "desc": ""
+        },
+        {
+            "hash": 3492391055,
+            "original": "~s~Walk out of the garage.",
+            "translated": "~s~离开车库。",
+            "desc": ""
+        },
+        {
+            "hash": 3518101815,
+            "original": "~r~The car has been trashed.~s~",
+            "translated": "~r~车被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3747629541,
+            "original": "~s~Get back in the ~b~car.",
+            "translated": "~s~回到~b~车~s~上。",
+            "desc": ""
+        }
+    ]
+}

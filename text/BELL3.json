@@ -1,0 +1,208 @@
+{
+    "BELL3": [
+        {
+            "hash": 25658765,
+            "original": "~s~Stop the ~r~convoy.",
+            "translated": "~s~截停~r~车队。",
+            "desc": ""
+        },
+        {
+            "hash": 41384994,
+            "original": "~r~Mission Failed. -PH-",
+            "translated": "~r~任务失败。-PH-",
+            "desc": ""
+        },
+        {
+            "hash": 57749397,
+            "original": "~s~Take out the ~r~target.",
+            "translated": "~s~干掉~r~目标。",
+            "desc": ""
+        },
+        {
+            "hash": 153273404,
+            "original": "~s~Take out the ~r~target~s~ leaving the police station.",
+            "translated": "~s~干掉正在离开警局的~r~目标。",
+            "desc": ""
+        },
+        {
+            "hash": 208136111,
+            "original": "Migration Control",
+            "translated": "迁移管制",
+            "desc": ""
+        },
+        {
+            "hash": 213717165,
+            "original": "~r~A target got away.",
+            "translated": "~r~目标之一逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 440034063,
+            "original": "~s~Take out the ~r~target.",
+            "translated": "~s~干掉~r~目标。",
+            "desc": ""
+        },
+        {
+            "hash": 1119406675,
+            "original": "~s~Wipe out the ~r~targets~s~ making the deal.",
+            "translated": "~s~消灭正在交易的~r~目标。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1125497397,
+            "original": "~s~Take down the ~r~targets.",
+            "translated": "~s~干掉~r~目标。",
+            "desc": ""
+        },
+        {
+            "hash": 1140445565,
+            "original": "~s~Eliminate the ~r~target.",
+            "translated": "~s~消灭~r~目标。",
+            "desc": ""
+        },
+        {
+            "hash": 1349772745,
+            "original": "~s~Enter the ~y~Burger Shot.",
+            "translated": "~s~进入~y~吃得饱汉堡。",
+            "desc": ""
+        },
+        {
+            "hash": 1353509603,
+            "original": "~s~Go to the ~r~target's location.",
+            "translated": "~s~前往~r~目标所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 1360588283,
+            "original": "~s~Take out the ~r~targets~s~ and all their ~r~bodyguards.",
+            "translated": "~s~干掉~r~目标~s~与他们的所有~r~保镖。",
+            "desc": ""
+        },
+        {
+            "hash": 1561428908,
+            "original": "~s~Call Bell.",
+            "translated": "~s~打电话给Bell。",
+            "desc": ""
+        },
+        {
+            "hash": 1893050984,
+            "original": "~s~You've been led into an ambush. Take out the ~r~attackers.",
+            "translated": "~s~你中了埋伏，消灭~r~袭击者。",
+            "desc": ""
+        },
+        {
+            "hash": 2345559674,
+            "original": "Taken Out",
+            "translated": "下车受死",
+            "desc": ""
+        },
+        {
+            "hash": 2427656343,
+            "original": "~r~The target got away.",
+            "translated": "~r~目标逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 2570641042,
+            "original": "~s~Chase down the ~r~target.",
+            "translated": "~s~追击~r~目标。",
+            "desc": ""
+        },
+        {
+            "hash": 2583494262,
+            "original": "~s~The helipad is above the Booth Tunnel entrance. Take out the ~r~target~s~ before they escape.",
+            "translated": "~s~停机坪位于Booth隧道入口上方，在~r~目标~s~逃走前消灭他们。",
+            "desc": ""
+        },
+        {
+            "hash": 2641431736,
+            "original": "Target",
+            "translated": "目标",
+            "desc": ""
+        },
+        {
+            "hash": 2658503624,
+            "original": "Bailing Out for Good",
+            "translated": "终生保释",
+            "desc": ""
+        },
+        {
+            "hash": 2890902133,
+            "original": "~s~Your contact will leave you weapons and body armor for each job.",
+            "translated": "~s~你的联络人会为你的每份差事准备武器与防弹衣。",
+            "desc": ""
+        },
+        {
+            "hash": 2981247014,
+            "original": "~s~Mission ~g~Passed.",
+            "translated": "~s~任务~g~通过。",
+            "desc": ""
+        },
+        {
+            "hash": 3084335430,
+            "original": "~s~Go back to the payphone when you want to do another hit.",
+            "translated": "~s~想再次进行暗杀时，就回到这个公用电话亭。",
+            "desc": ""
+        },
+        {
+            "hash": 3241201982,
+            "original": "Industrial Action",
+            "translated": "工业行动",
+            "desc": ""
+        },
+        {
+            "hash": 3340286549,
+            "original": "~s~Find a way to reach the ~r~target.",
+            "translated": "~s~设法接近~r~目标。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3520754321,
+            "original": "Derelict Target",
+            "translated": "废弃建筑",
+            "desc": ""
+        },
+        {
+            "hash": 3838089321,
+            "original": "R.U.B. Down",
+            "translated": "富家骑手之死",
+            "desc": ""
+        },
+        {
+            "hash": 3947387151,
+            "original": "~s~The ~r~target~s~ is fleeing. Take them out.",
+            "translated": "~r~目标~s~正在逃跑，消灭他们。",
+            "desc": ""
+        },
+        {
+            "hash": 4029034260,
+            "original": "Water Hazard",
+            "translated": "水上危机",
+            "desc": ""
+        },
+        {
+            "hash": 4066127223,
+            "original": "~s~Take out them ~r~all.",
+            "translated": "~s~杀光~r~他们。",
+            "desc": ""
+        },
+        {
+            "hash": 4150082970,
+            "original": "Dead End",
+            "translated": "死路一条",
+            "desc": ""
+        },
+        {
+            "hash": 4197991248,
+            "original": "Hook, Line and Sinker",
+            "translated": "饵咸钩直",
+            "desc": ""
+        },
+        {
+            "hash": 4236919251,
+            "original": "~s~Chase down and eliminate the ~r~target.",
+            "translated": "~s~追击~r~目标，~s~消灭他。",
+            "desc": ""
+        }
+    ]
+}

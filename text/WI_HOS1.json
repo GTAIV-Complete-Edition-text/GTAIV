@@ -1,0 +1,118 @@
+{
+    "WI_HOS1": [
+        {
+            "hash": 257764924,
+            "original": "Get Hossan's ~r~money~s~ back.",
+            "translated": "拿回Hossan的~r~钱。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 258194948,
+            "original": "Wait for Hossan.",
+            "translated": "等待Hossan。",
+            "desc": ""
+        },
+        {
+            "hash": 506350558,
+            "original": "~r~Hossan was abandoned.~s~",
+            "translated": "~r~Hossan被抛弃了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 720336155,
+            "original": "Get a vehicle.",
+            "translated": "找一辆载具。",
+            "desc": ""
+        },
+        {
+            "hash": 845640784,
+            "original": "~r~Hossan has been killed.~s~",
+            "translated": "~r~Hossan被杀了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 976032638,
+            "original": "Pick ~b~Hossan~s~ up.",
+            "translated": "接上~b~Hossan。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1086001399,
+            "original": "~r~Hossan's old boss got away.~s~",
+            "translated": "~r~Hossan的前老板逃走了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1832384971,
+            "original": "Your losing Hossan's old boss. Speed up.",
+            "translated": "你要跟丢Hossan的前老板了，加速。",
+            "desc": ""
+        },
+        {
+            "hash": 2343876292,
+            "original": "Make sure ~b~Hossan~s~ is with you.",
+            "translated": "确保~b~Hossan~s~和你在一起。",
+            "desc": ""
+        },
+        {
+            "hash": 2583544707,
+            "original": "Take Hossan to collect his ~y~back pay.~s~",
+            "translated": "带Hossan去收回~y~欠薪。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2598589729,
+            "original": "Give ~b~Hossan~s~ his wages back.",
+            "translated": "把工钱交还给~b~Hossan。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2949836589,
+            "original": "Wait here untill Hossan collects his back pay.",
+            "translated": "等待Hossan收回欠薪。",
+            "desc": ""
+        },
+        {
+            "hash": 3249509150,
+            "original": "Hossan's Wages",
+            "translated": "Hossan的工钱",
+            "desc": ""
+        },
+        {
+            "hash": 3329895474,
+            "original": "Go and give the wages back to ~b~Hossan.",
+            "translated": "去把工钱还给~b~Hossan。",
+            "desc": ""
+        },
+        {
+            "hash": 3575957895,
+            "original": "You left ~b~Hossan~s~ behind.",
+            "translated": "你把~b~Hossan~s~落在后面了。",
+            "desc": ""
+        },
+        {
+            "hash": 3613572740,
+            "original": "You are too far away from ~b~Hossan.~s~ Make sure he is close so you can interact with him.",
+            "translated": "你离~b~Hossan~s~太远了，确保足够靠近就能与他互动。",
+            "desc": ""
+        },
+        {
+            "hash": 3844168193,
+            "original": "Retrieve ~g~Hossan's wages.",
+            "translated": "收回~g~Hossan的工钱。",
+            "desc": ""
+        },
+        {
+            "hash": 3857935140,
+            "original": "Take Hossan to the alleyway off ~y~Feldspar Street.",
+            "translated": "带Hossan去~y~Feldspar街~s~的小巷。",
+            "desc": ""
+        },
+        {
+            "hash": 4037640336,
+            "original": "~r~Hossan's wages were destroyed.~s~",
+            "translated": "~r~Hossan的工钱被毁了。~s~",
+            "desc": ""
+        }
+    ]
+}

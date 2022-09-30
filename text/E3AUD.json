@@ -1,0 +1,394 @@
+{
+    "E3AUD": [
+        {
+            "hash": 926,
+            "original": "~z~I lost the heat, where are you?",
+            "translated": "~z~我甩掉条子了，你在哪儿？",
+            "desc": ""
+        },
+        {
+            "hash": 74303641,
+            "original": "~z~Hey, Niko!",
+            "translated": "~z~嘿，Niko！",
+            "desc": ""
+        },
+        {
+            "hash": 158362167,
+            "original": "~z~Yes.",
+            "translated": "~z~认识。",
+            "desc": ""
+        },
+        {
+            "hash": 322079769,
+            "original": "~z~Please, please, don't make this harder for me than it already is.",
+            "translated": "~z~拜托了，请不要让我比现在更加难做了。",
+            "desc": ""
+        },
+        {
+            "hash": 441775207,
+            "original": "~z~Hey, Jacob.",
+            "translated": "~z~嘿，Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 451639473,
+            "original": "~z~-Ah not my bloodclot fault.~n~-Well, not your fault...",
+            "translated": "~z~－这他妈不怪我。~n~－好，不怪你...",
+            "desc": ""
+        },
+        {
+            "hash": 482365183,
+            "original": "~z~This is scale fish. Imported straight from Bolivia, manito. Polvo puro. The best, man.",
+            "translated": "~z~这可是高端可卡因。玻利维亚直接进口，老哥。纯种货。绝逼最好，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 501719427,
+            "original": "~z~Look, they are about to take down Elizabeta.",
+            "translated": "~z~听着，他们马上要端掉Elizabeta了。",
+            "desc": ""
+        },
+        {
+            "hash": 508154382,
+            "original": "~z~If the best stuff got made in Mexico or Columbia or wherever, why do you all run across the border?",
+            "translated": "~z~要是最好的东西都是墨西哥、哥伦比亚这种地方产的，你们还偷渡过来干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 591628641,
+            "original": "~z~You better hope Niko can make this right for you then.",
+            "translated": "~z~那你最好祈祷Niko能帮你解决问题。",
+            "desc": ""
+        },
+        {
+            "hash": 700158772,
+            "original": "~z~What you doing here? This is no place for you, Michelle.",
+            "translated": "~z~你来这儿干嘛？这不是你该来的地方，Michelle。",
+            "desc": ""
+        },
+        {
+            "hash": 712005758,
+            "original": "~z~Chase Point, I'm with some bakra, say he know I. Get here now Niko. Dis be some strange shit.",
+            "translated": "~z~Chase Point。我跟个自称认识我的白人在一起。赶紧过来，Niko。这事很怪。",
+            "desc": ""
+        },
+        {
+            "hash": 712686245,
+            "original": "~z~Niko...",
+            "translated": "~z~Niko...",
+            "desc": ""
+        },
+        {
+            "hash": 899231244,
+            "original": "~z~Or what?",
+            "translated": "~z~否则呢？",
+            "desc": ""
+        },
+        {
+            "hash": 933778692,
+            "original": "~z~I don't fucking believe this.",
+            "translated": "~z~真他妈难以置信。",
+            "desc": ""
+        },
+        {
+            "hash": 971426591,
+            "original": "~z~Fat bumbaclot pussyhole gal, you know this?",
+            "translated": "~z~傻逼臭肥娘们儿，听懂了没？",
+            "desc": ""
+        },
+        {
+            "hash": 1052786778,
+            "original": "~z~Or we've got a big fucking problem, rasta.",
+            "translated": "~z~否则我们就遇到大麻烦了，「兄弟」。",
+            "desc": ""
+        },
+        {
+            "hash": 1064681128,
+            "original": "~z~As it happens, it is.",
+            "translated": "~z~如你所见，该来。",
+            "desc": ""
+        },
+        {
+            "hash": 1113746040,
+            "original": "~z~Listen... I'm sorry it had to be this way Niko. I'm really sorry.",
+            "translated": "~z~听着...很抱歉，只能这么做，Niko。真的很抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 1274638148,
+            "original": "~z~Stop speaking that gibberish.",
+            "translated": "~z~别说你的鸟语了。",
+            "desc": ""
+        },
+        {
+            "hash": 1295604271,
+            "original": "~z~You see, Niko, I have been working for the government.",
+            "translated": "~z~其实吧，Niko。我一直在为政府工作。",
+            "desc": ""
+        },
+        {
+            "hash": 1359930615,
+            "original": "~z~Niko, go do this fools job for him.",
+            "translated": "~z~Niko，替这白痴把活干了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1480398377,
+            "original": "~z~You fucking bitch.",
+            "translated": "~z~你妈的婊子。",
+            "desc": ""
+        },
+        {
+            "hash": 1600847506,
+            "original": "~z~I'm afraid it's my job to watch you.",
+            "translated": "~z~很遗憾，我的工作就是监视你。",
+            "desc": ""
+        },
+        {
+            "hash": 1684485675,
+            "original": "E3_CA",
+            "translated": "E3_CA",
+            "desc": ""
+        },
+        {
+            "hash": 1727127773,
+            "original": "~z~-See you later.~n~-watch me and...",
+            "translated": "~z~待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 1727413407,
+            "original": "E3_EA",
+            "translated": "E3_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1820269527,
+            "original": "~z~-Yeah, I got it.~n~-Watch me and her...",
+            "translated": "~z~－好的，我明白了。~n~－我们走着瞧...",
+            "desc": ""
+        },
+        {
+            "hash": 1832294953,
+            "original": "~z~And now I have to ask you for the coke.",
+            "translated": "~z~现在，请你把可卡因交出来。",
+            "desc": ""
+        },
+        {
+            "hash": 1854147029,
+            "original": "E3_BC",
+            "translated": "E3_BC",
+            "desc": ""
+        },
+        {
+            "hash": 1930050917,
+            "original": "~z~Ah bang ya in ya bloodclot Ya have fe come satta, me nah pusshole.",
+            "translated": "~z~我透你妈的批，你静冷下，我又不是哈批。",
+            "desc": ""
+        },
+        {
+            "hash": 2011565269,
+            "original": "E3_BA",
+            "translated": "E3_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2042747186,
+            "original": "~z~Hold on. You mean fe say ya gwa'an let us off just like dat? Nuttin' a gwa'an?",
+            "translated": "~z~等下。你是说你就这样把我们放了？不会有事吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2095275085,
+            "original": "~z~The office is in Algonquin.",
+            "translated": "~z~办事处在Algonquin。",
+            "desc": ""
+        },
+        {
+            "hash": 2187713011,
+            "original": "011101011",
+            "translated": "011101011",
+            "desc": ""
+        },
+        {
+            "hash": 2245395024,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 2264527778,
+            "original": "~z~Hey, you know, you could have gone down too if you weren't so useful.",
+            "translated": "~z~嘿，知道吗，要不是你还有用，早就把你也端掉了。",
+            "desc": ""
+        },
+        {
+            "hash": 2557350754,
+            "original": "~z~You know, as and when we need you.",
+            "translated": "~z~需要你的时候会通知你的。",
+            "desc": ""
+        },
+        {
+            "hash": 2614759180,
+            "original": "~z~Jacob here... you know Jacob?",
+            "translated": "~z~Jacob他...你认识Jacob吧?",
+            "desc": ""
+        },
+        {
+            "hash": 2740652434,
+            "original": "~z~Jacob tells me it wasn't him. But some people he introduced me to have ripped me off big time.",
+            "translated": "~z~Jacob跟我说不是他。但他介绍给我的人已经私吞我的货很久了。",
+            "desc": ""
+        },
+        {
+            "hash": 2760388320,
+            "original": "E3_CB",
+            "translated": "E3_CB",
+            "desc": ""
+        },
+        {
+            "hash": 2781094624,
+            "original": "~z~-'ey yo! Don't touch this!~n~-Hey, hey, hey. What's wrong? What's wrong?",
+            "translated": "~z~－诶你！别乱推！~n~－嘿，嘿，嘿。怎么了？怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 2817996255,
+            "original": "230320320320",
+            "translated": "230320320320",
+            "desc": ""
+        },
+        {
+            "hash": 2880585826,
+            "original": "E3_ED",
+            "translated": "E3_ED",
+            "desc": ""
+        },
+        {
+            "hash": 2948121075,
+            "original": "~z~The coke please.",
+            "translated": "~z~可卡因拿来。",
+            "desc": ""
+        },
+        {
+            "hash": 2998763943,
+            "original": "E3_BB",
+            "translated": "E3_BB",
+            "desc": ""
+        },
+        {
+            "hash": 3076507159,
+            "original": "~z~-Shot ya in ya bumbaclot...~n~-Fuck you!",
+            "translated": "~z~－我一枪打烂你妈的批...~n~－操你妈！",
+            "desc": ""
+        },
+        {
+            "hash": 3183960380,
+            "original": "~z~Well, my employers need the help of a guy like Niko.",
+            "translated": "~z~嗯，我的雇主需要Niko这样的人协助。",
+            "desc": ""
+        },
+        {
+            "hash": 3220751053,
+            "original": "~z~Ah not my fault, ya know, rasta?",
+            "translated": "~z~这不怪我，知道吗，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 3320770143,
+            "original": "~z~Tsk! Cho, king, me have fe tell Elizabeth, say she nah get dat cocaine, ya know?",
+            "translated": "~z~靠，我的天。我得去告诉Elizabeth，跟她讲可卡因没了，知道吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3384866311,
+            "original": "~z~I'll call you.",
+            "translated": "~z~我会联系你的。",
+            "desc": ""
+        },
+        {
+            "hash": 3456086395,
+            "original": "~z~You're in America now. The best of everything gets made here.",
+            "translated": "~z~你现在在美国。最好的东西全都是美国产的。",
+            "desc": ""
+        },
+        {
+            "hash": 3583804048,
+            "original": "~z~Wha' ya wan' do? Ya wan' bloodclot?! Coz ya nah even bambaclot ready, ya know?!",
+            "translated": "~z~你要干啥？想透个批？！你都莫有棍棍儿，懂？",
+            "desc": ""
+        },
+        {
+            "hash": 3648211042,
+            "original": "~z~Tell me that.",
+            "translated": "~z~怎么解释。",
+            "desc": ""
+        },
+        {
+            "hash": 3708685046,
+            "original": "~z~Shit! Speaking of fucking cops, I think I have company. I gotta go.",
+            "translated": "~z~靠！说条子条子到，这下我有伴了。我先挂了。",
+            "desc": ""
+        },
+        {
+            "hash": 3772907906,
+            "original": "~z~Jacob, what are you talking about? You know, I think you're smoking too much.",
+            "translated": "~z~Jacob，你在说什么呢？你知道吗，我觉得是你抽过头了。",
+            "desc": ""
+        },
+        {
+            "hash": 3882624559,
+            "original": "~z~Yeah? Fuck you, fucking reggae idiot bitch.",
+            "translated": "~z~是吗？操你妈，操你妈的傻逼雷鬼*狗逼。~n~(雷鬼：一种牙买加音乐风格)",
+            "desc": ""
+        },
+        {
+            "hash": 3918673513,
+            "original": "E3_EC",
+            "translated": "E3_EC",
+            "desc": ""
+        },
+        {
+            "hash": 3921159242,
+            "original": "~z~I tink I getting closer, ya know? But dere one more cat me haffi speak to.",
+            "translated": "~z~应该很快就能知道了。但我现在还得跟一个人谈谈。",
+            "desc": ""
+        },
+        {
+            "hash": 3970210852,
+            "original": "~z~-ya nah come in'na me face!~n~-Alright!",
+            "translated": "~z~－你别朝着我脸喷！~n~－好呀！",
+            "desc": ""
+        },
+        {
+            "hash": 4028515817,
+            "original": "~z~This is a joke, right?",
+            "translated": "~z~你在开玩笑，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 4138741022,
+            "original": "~z~Yo! Me t'ink me know where de heat a come from, ya know, king?",
+            "translated": "~z~哟！我想我知道条子咋来的了，知道吗，老哥？",
+            "desc": ""
+        },
+        {
+            "hash": 4154966057,
+            "original": "~z~I've got the stuff. You know where the heat is coming from?",
+            "translated": "~z~我拿到货了。你知道条子为什么会盯上她了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4237318989,
+            "original": "E3_EB",
+            "translated": "E3_EB",
+            "desc": ""
+        },
+        {
+            "hash": 4268244907,
+            "original": "~z~-And put the heat on me. I know they did. Or someone did.~n~-Alright, alright, alright.",
+            "translated": "~z~－还让我被盯上了。肯定是他们干的，至少是其中一个。~n~－好了，好了，好了。",
+            "desc": ""
+        }
+    ]
+}

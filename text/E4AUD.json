@@ -1,0 +1,502 @@
+{
+    "E4AUD": [
+        {
+            "hash": 15317197,
+            "original": "~z~Had a few problems with sick bodies.",
+            "translated": "~z~有病的尸体就不太好。",
+            "desc": ""
+        },
+        {
+            "hash": 57404851,
+            "original": "E4_EA",
+            "translated": "E4_EA",
+            "desc": ""
+        },
+        {
+            "hash": 123083651,
+            "original": "~z~Shit, Jacob, I'm sorry. I'm already hanging out with two friends.",
+            "translated": "~z~靠，Jacob，抱歉，我已经带着两个朋友在外面逛了。",
+            "desc": ""
+        },
+        {
+            "hash": 131974841,
+            "original": "~z~Of course, seems like a bullet in the head is as natural as it gets in this town.",
+            "translated": "~z~当然，一枪爆头在这个城市不是很自然的死法吗。",
+            "desc": ""
+        },
+        {
+            "hash": 201718796,
+            "original": "E4_BA",
+            "translated": "E4_BA",
+            "desc": ""
+        },
+        {
+            "hash": 209479802,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 343242097,
+            "original": "~z~Being tough in a man's world...",
+            "translated": "~z~在男人的世界里坚挺着...",
+            "desc": ""
+        },
+        {
+            "hash": 360504803,
+            "original": "~z~Yo, Niko, what you doing here?",
+            "translated": "~z~哟，Niko，你在这儿干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 370391294,
+            "original": "~z~Wanna get some food?",
+            "translated": "~z~一起吃一顿吗？",
+            "desc": ""
+        },
+        {
+            "hash": 370449087,
+            "original": "100100010010010",
+            "translated": "100100010010010",
+            "desc": ""
+        },
+        {
+            "hash": 396419627,
+            "original": "~z~Can you help me clean this mess up?",
+            "translated": "~z~你能帮我收拾掉这烂摊子吗？",
+            "desc": ""
+        },
+        {
+            "hash": 428694698,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 429058595,
+            "original": "~z~Natural causes?",
+            "translated": "~z~自然死亡？",
+            "desc": ""
+        },
+        {
+            "hash": 499058748,
+            "original": "~z~So, my life is over!",
+            "translated": "~z~所以我这辈子完了！",
+            "desc": ""
+        },
+        {
+            "hash": 502929220,
+            "original": "~z~Well, at least you'll live on through your documentary.",
+            "translated": "~z~好吧，至少你还能活在你的纪录片里。",
+            "desc": ""
+        },
+        {
+            "hash": 627213098,
+            "original": "~z~Whatever.",
+            "translated": "~z~随便了。",
+            "desc": ""
+        },
+        {
+            "hash": 650952396,
+            "original": "E4_FA",
+            "translated": "E4_FA",
+            "desc": ""
+        },
+        {
+            "hash": 686664067,
+            "original": "E4_DB",
+            "translated": "E4_DB",
+            "desc": ""
+        },
+        {
+            "hash": 745845817,
+            "original": "~z~Oops, we nearly lost you two.",
+            "translated": "~z~噢，差点就弄丢你俩了。",
+            "desc": ""
+        },
+        {
+            "hash": 769704380,
+            "original": "E4_EB",
+            "translated": "E4_EB",
+            "desc": ""
+        },
+        {
+            "hash": 902669644,
+            "original": "~z~Elizabeta, something happened. The mess didn't get cleaned up. I have had to leave it pretty close to your apartment.",
+            "translated": "~z~Elizabeta，出了点事。烂摊子没收拾好。我不得以把尸体丢在你公寓附近了。",
+            "desc": ""
+        },
+        {
+            "hash": 933024865,
+            "original": "E4_BB",
+            "translated": "E4_BB",
+            "desc": ""
+        },
+        {
+            "hash": 968796790,
+            "original": "~z~No.",
+            "translated": "~z~是的。",
+            "desc": ""
+        },
+        {
+            "hash": 972919996,
+            "original": "E4_CC",
+            "translated": "E4_CC",
+            "desc": ""
+        },
+        {
+            "hash": 999796628,
+            "original": "~z~Open up, man.",
+            "translated": "~z~开门，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 1001657609,
+            "original": "E4_CB",
+            "translated": "E4_CB",
+            "desc": ""
+        },
+        {
+            "hash": 1127135558,
+            "original": "~z~I am not in the mood for this right now.",
+            "translated": "~z~老娘没心情陪你们过家家。",
+            "desc": ""
+        },
+        {
+            "hash": 1140806844,
+            "original": "~z~All this work... for nothing, man.",
+            "translated": "~z~所有的一切...都没了，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 1198182591,
+            "original": "~z~maybe he'll actually be doing it now.",
+            "translated": "~z~看来现在他终于能做到了。",
+            "desc": ""
+        },
+        {
+            "hash": 1344918336,
+            "original": "~z~-Rolling, rolling.~n~-What is this Manny? For fuck's sake.",
+            "translated": "~z~－在拍，在拍。~n~－这是干啥，Manny？他妈解释下。",
+            "desc": ""
+        },
+        {
+            "hash": 1373998084,
+            "original": "~z~The doctor has that stuff.",
+            "translated": "~z~医生拿到东西了。",
+            "desc": ""
+        },
+        {
+            "hash": 1405625385,
+            "original": "010100100",
+            "translated": "010100100",
+            "desc": ""
+        },
+        {
+            "hash": 1413940189,
+            "original": "~z~I wouldn't want the cops seeing you guys.",
+            "translated": "~z~我可不想让条子看见你们两位。",
+            "desc": ""
+        },
+        {
+            "hash": 1427182408,
+            "original": "E4_EC",
+            "translated": "E4_EC",
+            "desc": ""
+        },
+        {
+            "hash": 1488155472,
+            "original": "~z~He'd been trying to help the streets his whole life...",
+            "translated": "~z~他这辈子一直在努力为街道做贡献...",
+            "desc": ""
+        },
+        {
+            "hash": 1567027654,
+            "original": "~z~They weren't sick, were they?",
+            "translated": "~z~它们没病，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1593079373,
+            "original": "~z~Not me.",
+            "translated": "~z~我不是。",
+            "desc": ""
+        },
+        {
+            "hash": 1675004310,
+            "original": "~z~They're gonna help a lot a folks.",
+            "translated": "~z~它们会帮到很多人的。",
+            "desc": ""
+        },
+        {
+            "hash": 1721565226,
+            "original": "~z~Hey, yo, Jay, you catching this?",
+            "translated": "~z~嘿，哟，Jay，在拍了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1759578666,
+            "original": "~z~Now, word up, bitch, you betta stop slinging that shit on my streets, yo.",
+            "translated": "~z~你听好，婊子，你最好别在我的街道上卖那垃圾了，哟。",
+            "desc": ""
+        },
+        {
+            "hash": 1769807799,
+            "original": "~z~So? So? So... so I'm going to go to prison, for a long time!",
+            "translated": "~z~所以呢？所以呢？所以...所以我要去蹲监狱了，蹲上很久！",
+            "desc": ""
+        },
+        {
+            "hash": 1770631649,
+            "original": "E4_ED",
+            "translated": "E4_ED",
+            "desc": ""
+        },
+        {
+            "hash": 1814925503,
+            "original": "~z~Alright, man. This is what Manny's all about, man.",
+            "translated": "~z~好了，伙计。这就是Manny的存在价值，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 1898554428,
+            "original": "~z~Sure. I'll have these organs out on the street in no time.",
+            "translated": "~z~是的。马上这些器官就会在街道上复活了。",
+            "desc": ""
+        },
+        {
+            "hash": 1911606298,
+            "original": "~z~The heat is closing in, Niko. This particular party is ending.",
+            "translated": "~z~条子要来了，Niko。我的派对就要结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 2040610815,
+            "original": "~z~So?",
+            "translated": "~z~所以呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2041462809,
+            "original": "~z~The police are all over me. I can feel them.",
+            "translated": "~z~警察要来抓我了。我能感觉到。",
+            "desc": ""
+        },
+        {
+            "hash": 2090635058,
+            "original": "~z~I couldn't get those things to the doctor.",
+            "translated": "~z~我没能把这些东西交给医生。",
+            "desc": ""
+        },
+        {
+            "hash": 2130358501,
+            "original": "~z~The streets have spoken. Now leave my people alone!",
+            "translated": "~z~街道已经表态了。别再祸害我的子民了！",
+            "desc": ""
+        },
+        {
+            "hash": 2173715721,
+            "original": "~z~Fine. Can I leave you with these or what?",
+            "translated": "~z~好吧。接下来都是你的事了？",
+            "desc": ""
+        },
+        {
+            "hash": 2178268175,
+            "original": "~z~Who is it?",
+            "translated": "~z~你是谁？",
+            "desc": ""
+        },
+        {
+            "hash": 2273123279,
+            "original": "~z~I've kind of got my hands full looking after them.",
+            "translated": "~z~光照顾他俩我就有点忙不过来了。",
+            "desc": ""
+        },
+        {
+            "hash": 2277787976,
+            "original": "~z~Shit, what are you doing? This ain't good. Come back to see me, yah?",
+            "translated": "~z~靠，你在做什么啊？这可不好。回来找我，懂？",
+            "desc": ""
+        },
+        {
+            "hash": 2306698825,
+            "original": "~z~Shit, were you guys trying to make a break for it?",
+            "translated": "~z~靠，你俩是想从里面逃出来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2350179558,
+            "original": "~z~Hey. Man, this is getting out of control.",
+            "translated": "~z~嘿，老兄，情况已经失控了。",
+            "desc": ""
+        },
+        {
+            "hash": 2413748646,
+            "original": "~z~And the price of eyes is through the roof at the moment.",
+            "translated": "~z~现在眼睛的价格可是很高的。",
+            "desc": ""
+        },
+        {
+            "hash": 2459032607,
+            "original": "~z~Know what I mean?",
+            "translated": "~z~懂我意思吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2542790531,
+            "original": "~z~It's the streets, man.",
+            "translated": "~z~是街道，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 2590150675,
+            "original": "~z~I can't believe I've got a genuine celebrity in the back of my car.",
+            "translated": "~z~我都不敢相信，我的车后排有一位真正的名人。",
+            "desc": ""
+        },
+        {
+            "hash": 2667342305,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 2848612457,
+            "original": "~z~We should do something soon though.",
+            "translated": "~z~我们改天再约吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2911288694,
+            "original": "E4_EE",
+            "translated": "E4_EE",
+            "desc": ""
+        },
+        {
+            "hash": 2921787974,
+            "original": "~z~I got enough on my plate to be worrying about this as well.",
+            "translated": "~z~再多一个麻烦对我来说也没差。",
+            "desc": ""
+        },
+        {
+            "hash": 3081742278,
+            "original": "~z~We don't want it anymore.",
+            "translated": "~z~我们不想再见到它。",
+            "desc": ""
+        },
+        {
+            "hash": 3156687418,
+            "original": "~z~No.",
+            "translated": "~z~不懂。",
+            "desc": ""
+        },
+        {
+            "hash": 3188080132,
+            "original": "~z~looks like the bullet went right through this one's eye.",
+            "translated": "~z~看起来子弹打穿了这人的眼睛。",
+            "desc": ""
+        },
+        {
+            "hash": 3218361392,
+            "original": "~z~Jorge turned state's... everyone's a rat!",
+            "translated": "~z~Jorge叛变了...所有人都是内鬼！",
+            "desc": ""
+        },
+        {
+            "hash": 3231050087,
+            "original": "~z~Good, one less thing to bother me.",
+            "translated": "~z~好，又少了件烦心事。",
+            "desc": ""
+        },
+        {
+            "hash": 3300075573,
+            "original": "E4_CA",
+            "translated": "E4_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3439582207,
+            "original": "~z~Shit...",
+            "translated": "~z~靠...",
+            "desc": ""
+        },
+        {
+            "hash": 3451866741,
+            "original": "~z~There's a doctor in Broker who can help. Come on, let's put 'em in my car.",
+            "translated": "~z~Broker有个能帮上忙的医生。来吧，把他们装我车上。",
+            "desc": ""
+        },
+        {
+            "hash": 3550773906,
+            "original": "~z~Hey, aren't you that guy from the TV?",
+            "translated": "~z~嘿，你不是电视上的那个吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3609117753,
+            "original": "~z~You just missed out on a payday.",
+            "translated": "~z~只是你少了一份报酬。",
+            "desc": ""
+        },
+        {
+            "hash": 3659796289,
+            "original": "E4_DA",
+            "translated": "E4_DA",
+            "desc": ""
+        },
+        {
+            "hash": 3676925625,
+            "original": "~z~Manny... Manny, Manny, Manny.",
+            "translated": "~z~Manny... Manny，Manny，Manny。",
+            "desc": ""
+        },
+        {
+            "hash": 3731027240,
+            "original": "~z~Okay. Hold on.",
+            "translated": "~z~好的，来了。",
+            "desc": ""
+        },
+        {
+            "hash": 3790714788,
+            "original": "E4_BC",
+            "translated": "E4_BC",
+            "desc": ""
+        },
+        {
+            "hash": 3829945704,
+            "original": "~z~Wha'gwan me brother, it's me, Jacob.",
+            "translated": "~z~你好吗，我的兄弟，是我，Jacob。",
+            "desc": ""
+        },
+        {
+            "hash": 3924428478,
+            "original": "~z~Well he said he was going to bust a dealer...",
+            "translated": "~z~他是说过要去抓一个毒贩...",
+            "desc": ""
+        },
+        {
+            "hash": 3994495157,
+            "original": "~z~I guess I wasn't so tough, huh?",
+            "translated": "~z~可能我也没那么坚挺，哈？",
+            "desc": ""
+        },
+        {
+            "hash": 4013593967,
+            "original": "~z~No one wants a liver if it's riddled with tumors, huh?",
+            "translated": "~z~没人会要长满肿瘤的肝脏，哈？",
+            "desc": ""
+        },
+        {
+            "hash": 4070775876,
+            "original": "~z~I've heard you'll take care of them?",
+            "translated": "~z~听说你能处理他们？",
+            "desc": ""
+        },
+        {
+            "hash": 4129104696,
+            "original": "~z~I've got some bodies in here.",
+            "translated": "~z~我这儿有两具尸体。",
+            "desc": ""
+        }
+    ]
+}

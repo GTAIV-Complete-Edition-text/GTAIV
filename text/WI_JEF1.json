@@ -1,0 +1,184 @@
+{
+    "WI_JEF1": [
+        {
+            "hash": 169390272,
+            "original": "She's slowing down. Get ready to park up.",
+            "translated": "她正在减速，准备停车。",
+            "desc": ""
+        },
+        {
+            "hash": 297282725,
+            "original": "Press ~INPUT_PHONE_ACCEPT~ to select the phone's main menu.",
+            "translated": "按下~INPUT_PHONE_ACCEPT~来选择手机主菜单。",
+            "desc": ""
+        },
+        {
+            "hash": 567964811,
+            "original": "She's slowing down. Get ready to park up. Keep her in sight but don't get too close.",
+            "translated": "她正在减速，准备停车。确保她在视野内，注意保持距离。",
+            "desc": ""
+        },
+        {
+            "hash": 779650775,
+            "original": "~s~Leave the Superstar Cafe.",
+            "translated": "~s~离开Superstar Cafe。",
+            "desc": ""
+        },
+        {
+            "hash": 855316216,
+            "original": "~b~Jeff~s~ has been added to your phonebook contacts.",
+            "translated": "~b~Jeff~s~已经被添加至你的手机通讯录。",
+            "desc": ""
+        },
+        {
+            "hash": 864120887,
+            "original": "To take a picture with your phone you will need to access the phone's main menu. Press ~INPUT_PHONE_TAKE_OUT~ to activate the phone.",
+            "translated": "从手机的主菜单中可以启动相机，按~INPUT_PHONE_TAKE_OUT~拿出手机。",
+            "desc": ""
+        },
+        {
+            "hash": 1000284452,
+            "original": "Find the ~r~couple.~s~",
+            "translated": "寻找那对~r~男女。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1066315847,
+            "original": "Follow ~r~Jeff's wife.",
+            "translated": "跟踪~r~Jeff的妻子。",
+            "desc": ""
+        },
+        {
+            "hash": 1152693067,
+            "original": "~r~Jeff's wife and her friend are dead.~s~",
+            "translated": "~r~Jeff的妻子和她的朋友死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1328465983,
+            "original": "Here they come.",
+            "translated": "他们来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1371690158,
+            "original": "~r~Jeff's wife realized she was being followed.~s~",
+            "translated": "~r~Jeff的妻子意识到自己被跟踪了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1487857993,
+            "original": "Use ~PAD_LSTICK_ALL~ to move the camera. Zoom in and out using ~PAD_RSTICK_UPDOWN~. Press ~INPUT_PHONE_ACCEPT~ to capture an image. When taking a photo of a person make sure you get a clear shot of their face.",
+            "translated": "用~PAD_LSTICK_ALL~移动相机，用~PAD_RSTICK_UPDOWN~进行缩放。按~INPUT_PHONE_ACCEPT~拍照。拍人时确保能拍到脸。",
+            "desc": ""
+        },
+        {
+            "hash": 1564140631,
+            "original": "~r~Jeff's wife's friend is dead.~s~",
+            "translated": "~r~Jeff妻子的朋友死了~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1677424928,
+            "original": "Keep your distance. You're too close.",
+            "translated": "保持距离，你靠得太近了。",
+            "desc": ""
+        },
+        {
+            "hash": 1792129946,
+            "original": "~r~The couple realized they were being followed.~s~",
+            "translated": "~r~这对男女发现自己被跟踪了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1982602625,
+            "original": "Follow ~r~Jeff's wife~s~ but don't get too close.",
+            "translated": "跟踪~r~Jeff的妻子，~s~但不要靠得太近。",
+            "desc": ""
+        },
+        {
+            "hash": 2022711881,
+            "original": "Stay out of sight. Don't let them get suspicious.",
+            "translated": "待在他们的视线外，别让他们起疑。",
+            "desc": ""
+        },
+        {
+            "hash": 2193424396,
+            "original": "Once the picture has been sent, wait a short moment for a reply.",
+            "translated": "发送照片后等待回复。",
+            "desc": ""
+        },
+        {
+            "hash": 2441465072,
+            "original": "Enter the Superstar Cafe and find the ~r~couple.~s~",
+            "translated": "进入Superstar Cafe寻找那对~r~男女。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2671077455,
+            "original": "~r~Jeff's wife didn't get caught.~s~",
+            "translated": "~r~Jeff的老婆没有被抓到现行。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2682672251,
+            "original": "Obtain a clear shot of both faces.",
+            "translated": "把两人的脸都清楚拍下。",
+            "desc": ""
+        },
+        {
+            "hash": 3037979833,
+            "original": "Press ~INPUT_PHONE_ACCEPT~ to send the picture to a contact.",
+            "translated": "按~INPUT_PHONE_ACCEPT~将照片发给联系人。",
+            "desc": ""
+        },
+        {
+            "hash": 3088718364,
+            "original": "~r~Jeff is dead.~s~",
+            "translated": "~r~Jeff死了~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3333633870,
+            "original": "You have been spotted.",
+            "translated": "你被发现了。",
+            "desc": ""
+        },
+        {
+            "hash": 3629332956,
+            "original": "From the menu scroll down and select ~h~Camera.~s~ Activate the camera by pressing ~INPUT_PHONE_ACCEPT~.",
+            "translated": "在菜单中下移选中~h~相机。~s~按~INPUT_PHONE_ACCEPT~启动相机。",
+            "desc": ""
+        },
+        {
+            "hash": 3922330787,
+            "original": "Take a picture of the ~r~couple.",
+            "translated": "拍下那对~r~男女。",
+            "desc": ""
+        },
+        {
+            "hash": 3943337470,
+            "original": "Press ~INPUT_PHONE_ACCEPT~ to capture an image on screen.",
+            "translated": "按~INPUT_PHONE_ACCEPT~拍照。",
+            "desc": ""
+        },
+        {
+            "hash": 3955655028,
+            "original": "~r~Jeff's wife is dead.~s~",
+            "translated": "~r~Jeff的妻子死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4215090787,
+            "original": "Use ~PAD_RSTICK_ALL~ to move the camera. Zoom in and out using ~PAD_LSTICK_UPDOWN~. Press ~INPUT_PHONE_ACCEPT~ to capture an image. When taking a photo of a person make sure you get a clear shot of their face.",
+            "translated": "用~PAD_LSTICK_ALL~移动相机，用~PAD_RSTICK_UPDOWN~进行缩放。按~INPUT_PHONE_ACCEPT~拍照。拍人时确保能拍到脸。",
+            "desc": ""
+        },
+        {
+            "hash": 4228327709,
+            "original": "They are going inside the cafe, wait until they reach the bar and take a photo of the ~r~couple.~s~ Don't get too close.",
+            "translated": "他们要进入咖啡厅了，等他们到达吧台后并拍下那对~r~男女。~s~别靠太近。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,958 @@
+{
+    "PIMAAUD": [
+        {
+            "hash": 14099287,
+            "original": "~z~Calm down! I'll see you later.",
+            "translated": "~z~冷静！我们之后见。",
+            "desc": ""
+        },
+        {
+            "hash": 18497633,
+            "original": "PIMA_CQ",
+            "translated": "PIMA_CQ",
+            "desc": ""
+        },
+        {
+            "hash": 30101756,
+            "original": "~z~Old enough...",
+            "translated": "~z~够大了...",
+            "desc": ""
+        },
+        {
+            "hash": 41644690,
+            "original": "~z~It's been too long. Fuck.",
+            "translated": "~z~隔了太久了。",
+            "desc": ""
+        },
+        {
+            "hash": 57736432,
+            "original": "~z~Herpes too. I did not pay for that.",
+            "translated": "~z~疱疹也是。我也没付钱。",
+            "desc": ""
+        },
+        {
+            "hash": 144988648,
+            "original": "010100010100100100010100010100100010100100010100100010100100010010",
+            "translated": "010100010100100100010100010100100010100100010100100010100100010010",
+            "desc": ""
+        },
+        {
+            "hash": 210589631,
+            "original": "~z~I hate everyone. Just, just leave me the fuck alone.",
+            "translated": "~z~我讨厌所有人。就、就别他妈管我了。",
+            "desc": ""
+        },
+        {
+            "hash": 259299728,
+            "original": "~z~I don't have a pimp. I'm freelance. I look after myself.",
+            "translated": "~z~我没有介绍人。我是自由职业，自己照顾自己。",
+            "desc": ""
+        },
+        {
+            "hash": 259759458,
+            "original": "PIMA_AA",
+            "translated": "PIMA_AA",
+            "desc": ""
+        },
+        {
+            "hash": 273057081,
+            "original": "PIMA_EC",
+            "translated": "PIMA_EC",
+            "desc": ""
+        },
+        {
+            "hash": 276634240,
+            "original": "PIMA_DD",
+            "translated": "PIMA_DD",
+            "desc": ""
+        },
+        {
+            "hash": 278672410,
+            "original": "~z~I know a place where we can get some.",
+            "translated": "~z~我知道一个能搞到海的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 288549342,
+            "original": "PIMA_DQ",
+            "translated": "PIMA_DQ",
+            "desc": ""
+        },
+        {
+            "hash": 310057732,
+            "original": "~z~No need to be mean, man. We all do what we gotta do to survive.",
+            "translated": "~z~别那么刻薄，老兄。我们为了生存都会不择手段。",
+            "desc": ""
+        },
+        {
+            "hash": 331588142,
+            "original": "~z~This guy who sells you the junk, he's your pimp as well?",
+            "translated": "~z~卖你海的那个人，他兼做你的介绍人吗？",
+            "desc": ""
+        },
+        {
+            "hash": 359008486,
+            "original": "PIMA_DS",
+            "translated": "PIMA_DS",
+            "desc": ""
+        },
+        {
+            "hash": 384727874,
+            "original": "~z~No! I didn't mean like that.",
+            "translated": "~z~不是！我才不是那个意思！",
+            "desc": ""
+        },
+        {
+            "hash": 406734006,
+            "original": "~z~I'll give you some money.",
+            "translated": "~z~我给你钱好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 432468530,
+            "original": "~z~Leave you alone so you can sell your ass for some junk?",
+            "translated": "~z~不管你让你靠卖屁股买海？",
+            "desc": ""
+        },
+        {
+            "hash": 478086510,
+            "original": "PIMA_DM",
+            "translated": "PIMA_DM",
+            "desc": ""
+        },
+        {
+            "hash": 489436431,
+            "original": "~z~What's your name then? I should know the name of the one guy who's given me anything for free.",
+            "translated": "~z~那你叫什么名字？你无偿帮助了我，我有必要知道你的名字。",
+            "desc": ""
+        },
+        {
+            "hash": 494718427,
+            "original": "~z~Come on, then.",
+            "translated": "~z~过来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 524629144,
+            "original": "~z~Especially if love means fucking some guy on the park bench for five dollars.",
+            "translated": "~z~何况爱是指在公园的长椅上五块钱操一次。",
+            "desc": ""
+        },
+        {
+            "hash": 607876916,
+            "original": "~z~Here you go. Good luck to you, kid. You need it.",
+            "translated": "~z~拿去，祝你好运，孩子。你需要好运。",
+            "desc": ""
+        },
+        {
+            "hash": 616121656,
+            "original": "PIMA_DF",
+            "translated": "PIMA_DF",
+            "desc": ""
+        },
+        {
+            "hash": 625383410,
+            "original": "~z~Shit. I'm... I'm really starting to jones pretty bad.",
+            "translated": "~z~操，我...我现在又犯瘾了。",
+            "desc": ""
+        },
+        {
+            "hash": 638182502,
+            "original": "~z~I ain't going to a clinic. Not again.",
+            "translated": "~z~我不会去诊所的，不会再去一次的。",
+            "desc": ""
+        },
+        {
+            "hash": 649858080,
+            "original": "~z~If you can't get the money together, then maybe you should cut back on your habit.",
+            "translated": "~z~要是你弄不到钱，那还是稍微少嗑几包比较好。",
+            "desc": ""
+        },
+        {
+            "hash": 671875063,
+            "original": "~z~I've got to go home.",
+            "translated": "~z~我一定要回家了。",
+            "desc": ""
+        },
+        {
+            "hash": 772821886,
+            "original": "~z~I bet you done things you ain't proud of?",
+            "translated": "~z~你肯定也做过不齿的事情吧？",
+            "desc": ""
+        },
+        {
+            "hash": 805066859,
+            "original": "PIMA_CH",
+            "translated": "PIMA_CH",
+            "desc": ""
+        },
+        {
+            "hash": 806887124,
+            "original": "~z~What the fuck? People just try to tell me what to do.",
+            "translated": "~z~有病吧？人人都对我指手画脚。",
+            "desc": ""
+        },
+        {
+            "hash": 817093646,
+            "original": "~z~Sometimes he lets me pay for a bag without using money, if that's what you mean.",
+            "translated": "~z~有时候他不收我钱，肉偿，如果你是这个意思的话。",
+            "desc": ""
+        },
+        {
+            "hash": 818106145,
+            "original": "~z~You seem to be having a great time.",
+            "translated": "~z~你似乎还很享受嘛。",
+            "desc": ""
+        },
+        {
+            "hash": 846336929,
+            "original": "~z~Thanks, Niko. You're real sweet.",
+            "translated": "~z~谢了，Niko。你真善良。",
+            "desc": ""
+        },
+        {
+            "hash": 849490601,
+            "original": "~z~How old are you?",
+            "translated": "~z~你几岁？",
+            "desc": ""
+        },
+        {
+            "hash": 852700162,
+            "original": "PIMA_DN",
+            "translated": "PIMA_DN",
+            "desc": ""
+        },
+        {
+            "hash": 852845268,
+            "original": "PIMA_DG",
+            "translated": "PIMA_DG",
+            "desc": ""
+        },
+        {
+            "hash": 858750733,
+            "original": "~z~Just one more hit.",
+            "translated": "~z~就差一点了。",
+            "desc": ""
+        },
+        {
+            "hash": 861611354,
+            "original": "~z~Go to school, read this, practice that, suck these.",
+            "translated": "~z~去上学，读这个，练那个，吸这些。",
+            "desc": ""
+        },
+        {
+            "hash": 870031001,
+            "original": "PIMA_DH",
+            "translated": "PIMA_DH",
+            "desc": ""
+        },
+        {
+            "hash": 937716351,
+            "original": "~z~Niko Bellic.",
+            "translated": "~z~Niko Bellic。",
+            "desc": ""
+        },
+        {
+            "hash": 940974091,
+            "original": "~z~I've got a nice family... I'm just fucked up.",
+            "translated": "~z~我有一个很好的家庭...只是我搞砸了。",
+            "desc": ""
+        },
+        {
+            "hash": 964845727,
+            "original": "~z~Not that I wanna quit. I'm having too much fun.",
+            "translated": "~z~现在我不想戒。我快乐得很哪。",
+            "desc": ""
+        },
+        {
+            "hash": 997257544,
+            "original": "~z~Man, I'm jonesing, hard.",
+            "translated": "~z~老兄，我又犯瘾了，很重。",
+            "desc": ""
+        },
+        {
+            "hash": 997800818,
+            "original": "PIMA_DL_QQQ1",
+            "translated": "PIMA_DL_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 1042663856,
+            "original": "~z~No.",
+            "translated": "~z~没有。",
+            "desc": ""
+        },
+        {
+            "hash": 1066530433,
+            "original": "~z~I have. But I did those things so I could survive. This shit you do, it's for junk.",
+            "translated": "~z~是做过，不过我那么做是为了生存。你做的这些狗屁破事，是为了海。",
+            "desc": ""
+        },
+        {
+            "hash": 1096187219,
+            "original": "~z~He a john then?",
+            "translated": "~z~那他是你的客户吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1118182785,
+            "original": "PIMA_CU",
+            "translated": "PIMA_CU",
+            "desc": ""
+        },
+        {
+            "hash": 1150643522,
+            "original": "PIMA_CO",
+            "translated": "PIMA_CO",
+            "desc": ""
+        },
+        {
+            "hash": 1167229234,
+            "original": "~z~Shit, I'm jonesing real bad now.",
+            "translated": "~z~操，我现在又犯瘾了。",
+            "desc": ""
+        },
+        {
+            "hash": 1226765297,
+            "original": "PIMA_EA",
+            "translated": "PIMA_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1256347710,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1259317968,
+            "original": "PIMA_CV",
+            "translated": "PIMA_CV",
+            "desc": ""
+        },
+        {
+            "hash": 1262532657,
+            "original": "~z~Mostly...",
+            "translated": "~z~差不多吧...",
+            "desc": ""
+        },
+        {
+            "hash": 1266665182,
+            "original": "~z~No? What kind of heroin addicted prostitute are you like?",
+            "translated": "~z~不喜欢？你不是个海洛因上瘾的妓女吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1297959565,
+            "original": "~z~I screwed over a john. I'm gonna get killed!",
+            "translated": "~z~我惹毛了一个客人。我就快要没命了！",
+            "desc": ""
+        },
+        {
+            "hash": 1348376326,
+            "original": "PIMA_DA",
+            "translated": "PIMA_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1353836291,
+            "original": "PIMA_DO",
+            "translated": "PIMA_DO",
+            "desc": ""
+        },
+        {
+            "hash": 1402541256,
+            "original": "~z~Turn into some methadone zombie? I don't think so. I quit, I do it cold turkey and by myself.",
+            "translated": "~z~然后变成美沙酮*僵尸？我可不想这样。就算要戒，我也会直接停药，靠自己戒。~n~(用于治疗海洛因依赖 成瘾性相对弱)",
+            "desc": ""
+        },
+        {
+            "hash": 1412595352,
+            "original": "PIMA_EB",
+            "translated": "PIMA_EB",
+            "desc": ""
+        },
+        {
+            "hash": 1414111989,
+            "original": "~z~I can get the money together, it just takes a little improvisation.",
+            "translated": "~z~我当然能弄到钱，只要有眼力见。",
+            "desc": ""
+        },
+        {
+            "hash": 1448092333,
+            "original": "~z~Best feeling in the world. Better than anything, better than love.",
+            "translated": "~z~世界上最棒的感觉。比什么都强，比爱都强。",
+            "desc": ""
+        },
+        {
+            "hash": 1449181834,
+            "original": "PIMA_CW",
+            "translated": "PIMA_CW",
+            "desc": ""
+        },
+        {
+            "hash": 1457857907,
+            "original": "PIMA_DB",
+            "translated": "PIMA_DB",
+            "desc": ""
+        },
+        {
+            "hash": 1475403422,
+            "original": "~z~Hey, this is it. You got the cash?",
+            "translated": "~z~嘿，就这儿了。你有钱吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1487147409,
+            "original": "PIMA_DQ_QQQ1",
+            "translated": "PIMA_DQ_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 1545857406,
+            "original": "~z~Can you take me to the station?",
+            "translated": "~z~你能送我去车站吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1548416829,
+            "original": "~z~Yeah, well, I'm happy where I am. I was, at least.",
+            "translated": "~z~对，我很满足我的现状。至少满足过。",
+            "desc": ""
+        },
+        {
+            "hash": 1568824500,
+            "original": "~z~Are you off the heroin?",
+            "translated": "~z~海洛因你戒掉了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1572677904,
+            "original": "~z~This shit is in control of you. Think about going to a clinic.",
+            "translated": "~z~这玩意已经完全控制你了，考虑下看医生吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1573448560,
+            "original": "~z~And I'm not really like this...",
+            "translated": "~z~而且我真的不喜欢这样...",
+            "desc": ""
+        },
+        {
+            "hash": 1596583462,
+            "original": "~z~I've really fucked up this time.",
+            "translated": "~z~我这次真的搞砸了。",
+            "desc": ""
+        },
+        {
+            "hash": 1713904056,
+            "original": "~z~Yes?",
+            "translated": "~z~咋了？",
+            "desc": ""
+        },
+        {
+            "hash": 1746760170,
+            "original": "~z~It is okay... fucking dick!",
+            "translated": "~z~是挺好的...狗逼屌人！",
+            "desc": ""
+        },
+        {
+            "hash": 1779395343,
+            "original": "PIMA_CT",
+            "translated": "PIMA_CT",
+            "desc": ""
+        },
+        {
+            "hash": 1786811304,
+            "original": "~z~When my habit was five bags a day, I could survive off panhandling.",
+            "translated": "~z~之前一天五包的时候，我靠乞讨就能过活。",
+            "desc": ""
+        },
+        {
+            "hash": 1795665638,
+            "original": "PIMA_CM",
+            "translated": "PIMA_CM",
+            "desc": ""
+        },
+        {
+            "hash": 1851821547,
+            "original": "~z~I've got a mom and a dad... and they're not so bad.",
+            "translated": "~z~我的父母都在...他们对我也不坏。",
+            "desc": ""
+        },
+        {
+            "hash": 1863919337,
+            "original": "PIMA_DJ",
+            "translated": "PIMA_DJ",
+            "desc": ""
+        },
+        {
+            "hash": 1892134647,
+            "original": "~z~Hey, mister... you got... got some junk?",
+            "translated": "~z~嘿，先生...你这儿有...你这儿有海吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1894996591,
+            "original": "PIMA_DC",
+            "translated": "PIMA_DC",
+            "desc": ""
+        },
+        {
+            "hash": 1917916288,
+            "original": "~z~I can't do it!",
+            "translated": "~z~我做不到！",
+            "desc": ""
+        },
+        {
+            "hash": 1942348281,
+            "original": "PIMA_CA",
+            "translated": "PIMA_CA",
+            "desc": ""
+        },
+        {
+            "hash": 1952877180,
+            "original": "~z~Right... okay.",
+            "translated": "~z~行...好的。",
+            "desc": ""
+        },
+        {
+            "hash": 2013430845,
+            "original": "~z~Ain't you got a life, or do you have to always interfere in other people's?",
+            "translated": "~z~你没有自己的生活吗，还是说你这人就喜欢管别人的闲事？",
+            "desc": ""
+        },
+        {
+            "hash": 2105754917,
+            "original": "PIMA_DL",
+            "translated": "PIMA_DL",
+            "desc": ""
+        },
+        {
+            "hash": 2129604360,
+            "original": "~z~I've got to go home.",
+            "translated": "~z~我一定要回家了。",
+            "desc": ""
+        },
+        {
+            "hash": 2215738927,
+            "original": "~z~The gift that keeps on giving. Best thing that ever happened to me.",
+            "translated": "~z~一直在给予的礼物。我经历过的最好的事。",
+            "desc": ""
+        },
+        {
+            "hash": 2219584071,
+            "original": "~z~Hey.",
+            "translated": "~z~嘿。",
+            "desc": ""
+        },
+        {
+            "hash": 2231908846,
+            "original": "~z~I can't do it any more...",
+            "translated": "~z~我坚持不下去了...",
+            "desc": ""
+        },
+        {
+            "hash": 2316570257,
+            "original": "~z~Niko Bellic.",
+            "translated": "~z~Niko Bellic。",
+            "desc": ""
+        },
+        {
+            "hash": 2326112643,
+            "original": "~z~Ain't you got a home or something?",
+            "translated": "~z~你是没有家还是什么？",
+            "desc": ""
+        },
+        {
+            "hash": 2435487845,
+            "original": "~z~Actually, when I got the clap, that was for free.",
+            "translated": "~z~实际上，淋病倒是我无偿得到的。",
+            "desc": ""
+        },
+        {
+            "hash": 2481070637,
+            "original": "~z~Nice to meet you, Niko. I'm Marnie.",
+            "translated": "~z~很高兴见到你，Niko。我是Marnie。",
+            "desc": ""
+        },
+        {
+            "hash": 2485049371,
+            "original": "~z~What's wrong?",
+            "translated": "~z~怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 2496133946,
+            "original": "PIMA_DP",
+            "translated": "PIMA_DP",
+            "desc": ""
+        },
+        {
+            "hash": 2525613762,
+            "original": "~z~Hey, Niko",
+            "translated": "~z~嘿，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2551578003,
+            "original": "~z~Hey, mister.",
+            "translated": "~z~嘿，先生。",
+            "desc": ""
+        },
+        {
+            "hash": 2566042990,
+            "original": "PIMA_CJ",
+            "translated": "PIMA_CJ",
+            "desc": ""
+        },
+        {
+            "hash": 2584187315,
+            "original": "PIMA_DR",
+            "translated": "PIMA_DR",
+            "desc": ""
+        },
+        {
+            "hash": 2587306327,
+            "original": "PIMA_CI",
+            "translated": "PIMA_CI",
+            "desc": ""
+        },
+        {
+            "hash": 2608082168,
+            "original": "~z~I don't, Niko. I ain't got a clue. Anyway, I'm Marnie.",
+            "translated": "~z~不知道，Niko。我也没有线索。对了，我叫Marnie。",
+            "desc": ""
+        },
+        {
+            "hash": 2675718489,
+            "original": "~z~Like finding you in the park, I knew you'd help me.",
+            "translated": "~z~比如在公园里找上你，我知道你会帮我的。",
+            "desc": ""
+        },
+        {
+            "hash": 2696340252,
+            "original": "~z~Hey! How are you?",
+            "translated": "~z~嘿！你好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2704831386,
+            "original": "~z~Where's home?",
+            "translated": "~z~家在哪儿？",
+            "desc": ""
+        },
+        {
+            "hash": 2808970936,
+            "original": "~z~Fuck you!",
+            "translated": "~z~操你妈！",
+            "desc": ""
+        },
+        {
+            "hash": 2837908315,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 2838939773,
+            "original": "~z~You know the names of the people who gave them to you?",
+            "translated": "~z~你知道让你得上这些病的人的名字吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2874251893,
+            "original": "PIMA_CR",
+            "translated": "PIMA_CR",
+            "desc": ""
+        },
+        {
+            "hash": 2909680552,
+            "original": "~z~He's over on Koresh Square in Alderney City.",
+            "translated": "~z~他在Alderney市的Koresh广场。",
+            "desc": ""
+        },
+        {
+            "hash": 2924465860,
+            "original": "PIMA_CF",
+            "translated": "PIMA_CF",
+            "desc": ""
+        },
+        {
+            "hash": 2976620925,
+            "original": "~z~Why don't you ease up on this stuff? Go to a center, get yourself clean.",
+            "translated": "~z~你怎么不去把这玩意戒掉？找个戒毒中心，金盆洗手。",
+            "desc": ""
+        },
+        {
+            "hash": 2993821197,
+            "original": "~z~The Midwest... I mean it's pretty boring... but this is no life.",
+            "translated": "~z~中西部...那边真的很无聊...但这里也不算生活。",
+            "desc": ""
+        },
+        {
+            "hash": 3002959785,
+            "original": "~z~Niko, it's Marnie!",
+            "translated": "~z~Niko，我是Marnie！",
+            "desc": ""
+        },
+        {
+            "hash": 3009468870,
+            "original": "PIMA_CC",
+            "translated": "PIMA_CC",
+            "desc": ""
+        },
+        {
+            "hash": 3024650469,
+            "original": "~z~Anyone got a dime bag?",
+            "translated": "~z~有谁有一小袋大麻吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3025216960,
+            "original": "PIMA_CP",
+            "translated": "PIMA_CP",
+            "desc": ""
+        },
+        {
+            "hash": 3030013405,
+            "original": "PIMA_CE",
+            "translated": "PIMA_CE",
+            "desc": ""
+        },
+        {
+            "hash": 3038944122,
+            "original": "~z~Hey, come on, let's go.",
+            "translated": "~z~嘿，好了，我们走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3050137083,
+            "original": "~z~How's that?",
+            "translated": "~z~你怎么能确定？",
+            "desc": ""
+        },
+        {
+            "hash": 3082544519,
+            "original": "~z~Wasn't your first bag of junk free? That's how they get you hooked, right?",
+            "translated": "~z~你的第一包海不是免费的吗？他们就是这样让你上瘾的吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3132646169,
+            "original": "PIMA_CB",
+            "translated": "PIMA_CB",
+            "desc": ""
+        },
+        {
+            "hash": 3240760971,
+            "original": "~z~No! What's wrong with you?",
+            "translated": "~z~我拒绝！你什么毛病？",
+            "desc": ""
+        },
+        {
+            "hash": 3301194417,
+            "original": "~z~I mean, look at me. I was a fucking cheerleader once!",
+            "translated": "~z~就是说，你看看我，以前我他妈还当过拉拉队长。",
+            "desc": ""
+        },
+        {
+            "hash": 3302357392,
+            "original": "PIMA_CD",
+            "translated": "PIMA_CD",
+            "desc": ""
+        },
+        {
+            "hash": 3323011169,
+            "original": "~z~I need junk... more than money...",
+            "translated": "~z~我需要海...比钱更需要...",
+            "desc": ""
+        },
+        {
+            "hash": 3348221385,
+            "original": "~z~You don't want a substance controlling your life.",
+            "translated": "~z~你不会想让某种东西掌控你的生活的。",
+            "desc": ""
+        },
+        {
+            "hash": 3383457308,
+            "original": "PIMA_DJ_QQQ1",
+            "translated": "PIMA_DJ_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 3399134601,
+            "original": "~z~Man, oh man.",
+            "translated": "~z~天哪，噢天哪。",
+            "desc": ""
+        },
+        {
+            "hash": 3466500069,
+            "original": "~z~Apart from you, that is. This is still free, right? You don't want me to fuck you?",
+            "translated": "~z~当然，你是例外。确实是免费的吧？你不想我给你操？",
+            "desc": ""
+        },
+        {
+            "hash": 3502250984,
+            "original": "~z~You're nice. What's your name?",
+            "translated": "~z~你真好。你叫什么名字？",
+            "desc": ""
+        },
+        {
+            "hash": 3525963669,
+            "original": "PIMA_DK",
+            "translated": "PIMA_DK",
+            "desc": ""
+        },
+        {
+            "hash": 3542039157,
+            "original": "~z~I'll fuck you for five bucks.",
+            "translated": "~z~五美元我就给你操一次。",
+            "desc": ""
+        },
+        {
+            "hash": 3637856766,
+            "original": "~z~Urgh.",
+            "translated": "~z~呃啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3668822418,
+            "original": "~z~Hey mister, come back here!",
+            "translated": "~z~喂，先生，你别走！",
+            "desc": ""
+        },
+        {
+            "hash": 3682087320,
+            "original": "~z~Don't think anyone's given me anything for free since I got to this city.",
+            "translated": "~z~我来到这个城市以后，没有人无偿给过我任何东西。",
+            "desc": ""
+        },
+        {
+            "hash": 3687591667,
+            "original": "~z~That ain't survival. It's a slow death.",
+            "translated": "~z~那不叫生存，是慢性死亡。",
+            "desc": ""
+        },
+        {
+            "hash": 3697060285,
+            "original": "PIMA_DI",
+            "translated": "PIMA_DI",
+            "desc": ""
+        },
+        {
+            "hash": 3703551078,
+            "original": "PIMA_DE",
+            "translated": "PIMA_DE",
+            "desc": ""
+        },
+        {
+            "hash": 3757578729,
+            "original": "PIMA_CL",
+            "translated": "PIMA_CL",
+            "desc": ""
+        },
+        {
+            "hash": 3799799775,
+            "original": "~z~Will you take me there, mister, please?",
+            "translated": "~z~你能带我过去吗，先生，拜托？",
+            "desc": ""
+        },
+        {
+            "hash": 3818838908,
+            "original": "~z~You shouldn't be fucking strange men for money.",
+            "translated": "~z~你不该为了点钱就让陌生人操。",
+            "desc": ""
+        },
+        {
+            "hash": 3859847559,
+            "original": "~z~Hah!",
+            "translated": "~z~哈！",
+            "desc": ""
+        },
+        {
+            "hash": 3867756410,
+            "original": "~z~You do, most guys would have fucked me and left me by the side of the road already.",
+            "translated": "~z~你就是，大多数人操完我就把我扔在路边不管了。",
+            "desc": ""
+        },
+        {
+            "hash": 3893551739,
+            "original": "010010100100100010100100010100100010100010100100010100100100010100100010",
+            "translated": "010010100100100010100100010100100010100010100100010100100100010100100010",
+            "desc": ""
+        },
+        {
+            "hash": 3896036121,
+            "original": "~z~No, I don't want you to fuck me. I don't want you to fuck your dealer either.",
+            "translated": "~z~不，我不想你给我操，也不想你给你那毒贩子操。",
+            "desc": ""
+        },
+        {
+            "hash": 3966332169,
+            "original": "~z~I'm sorry. See you later.",
+            "translated": "~z~抱歉，再见了。",
+            "desc": ""
+        },
+        {
+            "hash": 4010340104,
+            "original": "PIMA_CS_QQQ2",
+            "translated": "PIMA_CS_QQQ2",
+            "desc": ""
+        },
+        {
+            "hash": 4053007991,
+            "original": "PIMA_BA",
+            "translated": "PIMA_BA",
+            "desc": ""
+        },
+        {
+            "hash": 4064239358,
+            "original": "~z~I don't know about that.",
+            "translated": "~z~这我倒不知道。",
+            "desc": ""
+        },
+        {
+            "hash": 4109828660,
+            "original": "100010100",
+            "translated": "100010100",
+            "desc": ""
+        },
+        {
+            "hash": 4120412015,
+            "original": "~z~I need junk... I need money...",
+            "translated": "~z~我需要海...我需要钱...",
+            "desc": ""
+        },
+        {
+            "hash": 4169356919,
+            "original": "PIMA_CN",
+            "translated": "PIMA_CN",
+            "desc": ""
+        },
+        {
+            "hash": 4209744956,
+            "original": "PIMA_CS_QQQ1",
+            "translated": "PIMA_CS_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 4216402575,
+            "original": "PIMA_CS",
+            "translated": "PIMA_CS",
+            "desc": ""
+        },
+        {
+            "hash": 4220088722,
+            "original": "~z~I dunno, something in your eyes. You look like you've got a good heart.",
+            "translated": "~z~我也不知道，你眼中的某种东西吧。看上去就是你有一副好心肠。",
+            "desc": ""
+        },
+        {
+            "hash": 4238725088,
+            "original": "PIMA_CK",
+            "translated": "PIMA_CK",
+            "desc": ""
+        }
+    ]
+}

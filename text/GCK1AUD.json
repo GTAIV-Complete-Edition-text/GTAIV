@@ -1,0 +1,1120 @@
+{
+    "GCK1AUD": [
+        {
+            "hash": 45364147,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 47324605,
+            "original": "~z~I'll be there soon.",
+            "translated": "~z~我马上就到。",
+            "desc": ""
+        },
+        {
+            "hash": 81781993,
+            "original": "~z~Shit, I'm sorry, Kate.",
+            "translated": "~z~靠，我很抱歉，Kate。",
+            "desc": ""
+        },
+        {
+            "hash": 109080842,
+            "original": "GCK_ACT_CALL_LIKENO",
+            "translated": "GCK_ACT_CALL_LIKENO",
+            "desc": ""
+        },
+        {
+            "hash": 113816925,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 128629161,
+            "original": "~z~I've only just finished our last date! Another time.",
+            "translated": "~z~我们才约过会呢！下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 146565370,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 165910781,
+            "original": "~z~Excellent - rejection. My favorite.",
+            "translated": "~z~很好，被拒绝了。我的最爱。",
+            "desc": ""
+        },
+        {
+            "hash": 201658377,
+            "original": "~z~You wanna hang out?",
+            "translated": "~z~你想出去玩吗？",
+            "desc": ""
+        },
+        {
+            "hash": 211058889,
+            "original": "~z~Sorry, but I'm taken up with family stuff.",
+            "translated": "~z~抱歉，但我家里的事顾不过来了。",
+            "desc": ""
+        },
+        {
+            "hash": 227520346,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 251082215,
+            "original": "~z~Hey, it's me - can you pick me up from the hospital? I'm getting out.",
+            "translated": "~z~嘿，是我。你能来医院接我吗？我出院了。",
+            "desc": ""
+        },
+        {
+            "hash": 280967692,
+            "original": "GCK_ACT_GETCALL_ACCEPT",
+            "translated": "GCK_ACT_GETCALL_ACCEPT",
+            "desc": ""
+        },
+        {
+            "hash": 308129973,
+            "original": "GCK_ACT_PKA_CALL_REJECTED",
+            "translated": "GCK_ACT_PKA_CALL_REJECTED",
+            "desc": ""
+        },
+        {
+            "hash": 318565728,
+            "original": "~z~Kate - I'm sorry, something's come up... I can't make it to the hospital.",
+            "translated": "~z~Kate，我很抱歉，我有点急事...来不了医院了。",
+            "desc": ""
+        },
+        {
+            "hash": 324207226,
+            "original": "~z~I was beginning to hope you were dead.",
+            "translated": "~z~我都开始希望你死了。",
+            "desc": ""
+        },
+        {
+            "hash": 368264191,
+            "original": "~z~Cool.",
+            "translated": "~z~好的。",
+            "desc": ""
+        },
+        {
+            "hash": 382223896,
+            "original": "GCK_ACT_GETCALL_HOSP_REJ_LOLIKE",
+            "translated": "GCK_ACT_GETCALL_HOSP_REJ_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 388733313,
+            "original": "~z~I'm getting out of hospital and this is how you treat me?",
+            "translated": "~z~我要出院了，你就这么对我？",
+            "desc": ""
+        },
+        {
+            "hash": 427435344,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 461651006,
+            "original": "~z~I love being blown out, Niko.",
+            "translated": "~z~我喜欢被拒绝，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 472519787,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 503502245,
+            "original": "GCK_ACT_GETCALL_REJECT_VERYIRATE",
+            "translated": "GCK_ACT_GETCALL_REJECT_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 522892884,
+            "original": "~z~You wanna get together at some point?",
+            "translated": "~z~要么我们找个时间一起去走走？",
+            "desc": ""
+        },
+        {
+            "hash": 536632282,
+            "original": "GCK_ACT_PKA_CALL_DATE_CANCEL",
+            "translated": "GCK_ACT_PKA_CALL_DATE_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 537679889,
+            "original": "~z~Hey. Can you come pick me up? I'm getting out of the hospital today.",
+            "translated": "~z~嘿，你能来接我吗？今天我出院了。",
+            "desc": ""
+        },
+        {
+            "hash": 544441691,
+            "original": "~z~Kate.",
+            "translated": "~z~Kate。",
+            "desc": ""
+        },
+        {
+            "hash": 544441809,
+            "original": "GCK_ACT_CALL_HOSP_CANCEL_LOLIKE",
+            "translated": "GCK_ACT_CALL_HOSP_CANCEL_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 566198093,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 576367701,
+            "original": "~z~Sorry, Niko, I'm busy with family stuff.",
+            "translated": "~z~抱歉，Niko，我家里事很多，忙着呢。",
+            "desc": ""
+        },
+        {
+            "hash": 615681684,
+            "original": "~z~Sure, Kate, I'll be there in an hour.",
+            "translated": "~z~当然，Kate，我一小时内就到。",
+            "desc": ""
+        },
+        {
+            "hash": 631154449,
+            "original": "~z~I assume you must hate me?",
+            "translated": "~z~我猜你肯定讨厌我吧？",
+            "desc": ""
+        },
+        {
+            "hash": 634004232,
+            "original": "GCK_ACT_PKA_CALL_GREET",
+            "translated": "GCK_ACT_PKA_CALL_GREET",
+            "desc": ""
+        },
+        {
+            "hash": 647896085,
+            "original": "GCK_ACT_CALL_LIKEYES",
+            "translated": "GCK_ACT_CALL_LIKEYES",
+            "desc": ""
+        },
+        {
+            "hash": 665970556,
+            "original": "~z~Look forward to it, I'm on my way.",
+            "translated": "~z~我很期待，这就过来。",
+            "desc": ""
+        },
+        {
+            "hash": 670756979,
+            "original": "GCK_ACT_GETCALL_IRATE",
+            "translated": "GCK_ACT_GETCALL_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 694472066,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 766914958,
+            "original": "GCK_ACT_GETCALL_HOSP_REJ_HILIKE",
+            "translated": "GCK_ACT_GETCALL_HOSP_REJ_HILIKE",
+            "desc": ""
+        },
+        {
+            "hash": 783318835,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 787326963,
+            "original": "GCK_ACT_CALL_IRATE",
+            "translated": "GCK_ACT_CALL_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 819703573,
+            "original": "~z~Thanks friend... asshole.",
+            "translated": "~z~谢了，朋友...混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 821252657,
+            "original": "~z~I was asleep - call me after 8.",
+            "translated": "~z~我睡了，8点后打给我。",
+            "desc": ""
+        },
+        {
+            "hash": 822857411,
+            "original": "~z~Thanks.",
+            "translated": "~z~谢了。",
+            "desc": ""
+        },
+        {
+            "hash": 829020882,
+            "original": "~z~You wanna hang out sometime?",
+            "translated": "~z~你想出来玩会儿吗？",
+            "desc": ""
+        },
+        {
+            "hash": 843856472,
+            "original": "~z~No worries, Niko some other time, perhaps.",
+            "translated": "~z~没事，Niko，那就改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 858476022,
+            "original": "~z~I can't, Niko - I'm busy doing something for Ma.",
+            "translated": "~z~我没空，Niko。我忙着替妈做事呢。",
+            "desc": ""
+        },
+        {
+            "hash": 864324324,
+            "original": "GCK_ACT_PKA_CALL_LOLIKE",
+            "translated": "GCK_ACT_PKA_CALL_LOLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 872085190,
+            "original": "~z~It's me, Kate McReary.",
+            "translated": "~z~是我，Kate McReary。",
+            "desc": ""
+        },
+        {
+            "hash": 897192994,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 922213768,
+            "original": "~z~You free? Wanna do something?",
+            "translated": "~z~你有空吗？想一起做点什么吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1010748217,
+            "original": "~z~Oh, you... I wondered what had happened to you.",
+            "translated": "~z~噢，你...我之前在想你是不是出事了。",
+            "desc": ""
+        },
+        {
+            "hash": 1036222814,
+            "original": "GCK_ACT_GETCALL_HOSP_ACCEPT",
+            "translated": "GCK_ACT_GETCALL_HOSP_ACCEPT",
+            "desc": ""
+        },
+        {
+            "hash": 1156544887,
+            "original": "~z~You up to anything? I'm bored.",
+            "translated": "~z~你现在忙吗？我无聊死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1178540882,
+            "original": "~z~Niko, it's Kate.",
+            "translated": "~z~Niko，我是Kate。",
+            "desc": ""
+        },
+        {
+            "hash": 1203070250,
+            "original": "~z~No problem, Niko.",
+            "translated": "~z~没问题，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1208174156,
+            "original": "~z~You've reached Kate McReary. I'm sorry, I can't take your call just now. Please try back another time.",
+            "translated": "~z~你呼叫的是Kate McReary。很抱歉，现在我没法接听你的电话。请过会儿再试。",
+            "desc": ""
+        },
+        {
+            "hash": 1214220371,
+            "original": "GCK_ACT_CALL_HOSP_CANCEL_HiLIKE",
+            "translated": "GCK_ACT_CALL_HOSP_CANCEL_HiLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 1256380985,
+            "original": "~z~Hey Kate.",
+            "translated": "~z~嘿，Kate。",
+            "desc": ""
+        },
+        {
+            "hash": 1275304644,
+            "original": "GCK_ACT_PKA_CALL_SLEEPING",
+            "translated": "GCK_ACT_PKA_CALL_SLEEPING",
+            "desc": ""
+        },
+        {
+            "hash": 1283606342,
+            "original": "GCK_ACT_GETCALL_HOSP_REJ_MEDLIKE",
+            "translated": "GCK_ACT_GETCALL_HOSP_REJ_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 1346013100,
+            "original": "~z~I'd really love to Kate - but I'm in the middle of something crazy.",
+            "translated": "~z~我很想来，Kate。但是我现在忙着做一些疯狂的事。",
+            "desc": ""
+        },
+        {
+            "hash": 1365930072,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1385376066,
+            "original": "~z~Oh, I assumed you must be dead.",
+            "translated": "~z~噢，我还以为你已经死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1386269581,
+            "original": "GCK_ACT_PKA_CALL_DATE",
+            "translated": "GCK_ACT_PKA_CALL_DATE",
+            "desc": ""
+        },
+        {
+            "hash": 1401912900,
+            "original": "~z~I haven't heard from you in ages!",
+            "translated": "~z~我好久没接到你的电话了！",
+            "desc": ""
+        },
+        {
+            "hash": 1408527639,
+            "original": "~z~Of course - I'll be there in an hour.",
+            "translated": "~z~当然了，我一小时内就到。",
+            "desc": ""
+        },
+        {
+            "hash": 1413223715,
+            "original": "~z~Thank you Niko - I'll be waiting.",
+            "translated": "~z~谢谢你，Niko。我会等着的。",
+            "desc": ""
+        },
+        {
+            "hash": 1438996485,
+            "original": "~z~Listen Kate forgive me, but something's come up.",
+            "translated": "~z~听着，Kate，原谅我，但我突然有急事。",
+            "desc": ""
+        },
+        {
+            "hash": 1468922543,
+            "original": "GCK_ACT_GETCALL_REJECT",
+            "translated": "GCK_ACT_GETCALL_REJECT",
+            "desc": ""
+        },
+        {
+            "hash": 1475631675,
+            "original": "~z~I can't again so soon - another time.",
+            "translated": "~z~我不能这么快就再约一次。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1503351833,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1507443335,
+            "original": "~z~Niko, it's me, Kate.",
+            "translated": "~z~Niko，是我，Kate。",
+            "desc": ""
+        },
+        {
+            "hash": 1621287168,
+            "original": "GCK_ACT_PKA_CALL_HiLIKE",
+            "translated": "GCK_ACT_PKA_CALL_HiLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 1658471524,
+            "original": "~z~Sure, Kate, I'll be there in an hour.",
+            "translated": "~z~当然，Kate，我一小时内就到。",
+            "desc": ""
+        },
+        {
+            "hash": 1660193302,
+            "original": "~z~Great, see you soon.",
+            "translated": "~z~好的，一会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 1690098915,
+            "original": "~z~No problem.",
+            "translated": "~z~没问题。",
+            "desc": ""
+        },
+        {
+            "hash": 1709972892,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1710457464,
+            "original": "~z~Don't worry about it, Niko. Another time.",
+            "translated": "~z~别担心，Niko。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1747841914,
+            "original": "GCK_ACT_PKA_CALL_ACCEPTED",
+            "translated": "GCK_ACT_PKA_CALL_ACCEPTED",
+            "desc": ""
+        },
+        {
+            "hash": 1763091436,
+            "original": "~z~Okay - I'll get a taxi or something.",
+            "translated": "~z~好吧。我会考虑打的回来的。",
+            "desc": ""
+        },
+        {
+            "hash": 1769543525,
+            "original": "~z~Hi there, Kate, it's me, Niko.",
+            "translated": "~z~嗨你好，Kate，是我，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1783529404,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1811466299,
+            "original": "~z~I was asleep - I'll be up around 8.",
+            "translated": "~z~我睡了，大概8点左右醒。",
+            "desc": ""
+        },
+        {
+            "hash": 1857099041,
+            "original": "GCK_ACT_PKA_CALL_HOSP_CANCEL",
+            "translated": "GCK_ACT_PKA_CALL_HOSP_CANCEL",
+            "desc": ""
+        },
+        {
+            "hash": 1884125370,
+            "original": "~z~Okay.",
+            "translated": "~z~好的。",
+            "desc": ""
+        },
+        {
+            "hash": 1898145659,
+            "original": "~z~Thanks - great to be missed.",
+            "translated": "~z~谢了，很高兴能被无视。",
+            "desc": ""
+        },
+        {
+            "hash": 1912245843,
+            "original": "~z~No - another time.",
+            "translated": "~z~不了，改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1945642525,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1948984005,
+            "original": "GCK_ACT_GETCALL_IRATE_V2",
+            "translated": "GCK_ACT_GETCALL_IRATE_V2",
+            "desc": ""
+        },
+        {
+            "hash": 1957536040,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 1974415243,
+            "original": "~z~Good. See you in a while.",
+            "translated": "~z~好的。之后见。",
+            "desc": ""
+        },
+        {
+            "hash": 2007515407,
+            "original": "~z~Okay - I guess I'll make my own way home.",
+            "translated": "~z~好的。我想我还是走回去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2035058442,
+            "original": "~z~Listen, I haven't heard from you in a while.",
+            "translated": "~z~听着，我有一段时间没接到你的电话了。",
+            "desc": ""
+        },
+        {
+            "hash": 2054155457,
+            "original": "~z~So, listen, you want to hang out at all?",
+            "translated": "~z~那个，我说，你想出来逛逛吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2089922484,
+            "original": "~z~Sure thing, Niko Bellic. Call me sometime, okay?",
+            "translated": "~z~当然了，Niko Bellic。有空打给我，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2116207076,
+            "original": "GCK_ACT_CALL_SLEEP_REPLY",
+            "translated": "GCK_ACT_CALL_SLEEP_REPLY",
+            "desc": ""
+        },
+        {
+            "hash": 2116996223,
+            "original": "~z~Thanks - I love rejection!",
+            "translated": "~z~谢了。我爱被拒绝！",
+            "desc": ""
+        },
+        {
+            "hash": 2146428798,
+            "original": "~z~I've got some family stuff to deal with.",
+            "translated": "~z~我有些家里的事要忙。",
+            "desc": ""
+        },
+        {
+            "hash": 2216478211,
+            "original": "~z~You really are a dick. I'm getting out of the hospital you ass! Fuck you.",
+            "translated": "~z~你真是个混蛋。我要出院了你这混蛋！操你妈！",
+            "desc": ""
+        },
+        {
+            "hash": 2248609483,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2251112858,
+            "original": "GCK_ACT_PKA_GETCALL_HOSP_YES",
+            "translated": "GCK_ACT_PKA_GETCALL_HOSP_YES",
+            "desc": ""
+        },
+        {
+            "hash": 2255456646,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2273846145,
+            "original": "~z~I haven't heard from you in quite a while.",
+            "translated": "~z~我有段时间没接到你的电话了。",
+            "desc": ""
+        },
+        {
+            "hash": 2285380565,
+            "original": "~z~Okay, speak to you soon.",
+            "translated": "~z~好的，以后再说。",
+            "desc": ""
+        },
+        {
+            "hash": 2307173132,
+            "original": "~z~Great. I'm on my way.",
+            "translated": "~z~好的，我过来了。",
+            "desc": ""
+        },
+        {
+            "hash": 2311821234,
+            "original": "~z~You? I thought you must be dead.",
+            "translated": "~z~是你？原来你还活着啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2354107479,
+            "original": "~z~Okay... you're a dick, but I forgive you. Let's try again, shall we? Pick me up in an hour or so.",
+            "translated": "~z~好吧... 你这个混蛋，但我原谅你。我们再试一次，好吗？一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 2357891627,
+            "original": "~z~God, I must be really boring... even you don't want to know me.",
+            "translated": "~z~天哪，我这人一定很无聊...连你都不想了解我。",
+            "desc": ""
+        },
+        {
+            "hash": 2386051609,
+            "original": "~z~Thanks - for absolutely nothing, Niko.",
+            "translated": "~z~感谢你什么都没做，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2425024823,
+            "original": "~z~Okay. Maybe we'll hang out another time, when you're less busy - maybe not.",
+            "translated": "~z~好的。或许我们可以改天再出去，等你没那么忙的时候。或许不出去了。",
+            "desc": ""
+        },
+        {
+            "hash": 2456664132,
+            "original": "~z~Okay. I'll call back.",
+            "translated": "~z~好的，我改天再找你。",
+            "desc": ""
+        },
+        {
+            "hash": 2457494206,
+            "original": "~z~Call me when you're willing to try to be a human being.",
+            "translated": "~z~你要是想做个人了就打给我。",
+            "desc": ""
+        },
+        {
+            "hash": 2470785631,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2487250163,
+            "original": "~z~Hey Kate.",
+            "translated": "~z~嘿，Kate。",
+            "desc": ""
+        },
+        {
+            "hash": 2519445649,
+            "original": "GCK_ACT_CALL_DATE_NO_GENERAL",
+            "translated": "GCK_ACT_CALL_DATE_NO_GENERAL",
+            "desc": ""
+        },
+        {
+            "hash": 2548747737,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2558289937,
+            "original": "GCK_ACT_CALL_VERYIRATE",
+            "translated": "GCK_ACT_CALL_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 2594433028,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2602486491,
+            "original": "GCK_ACT_CALL_DATE_NO_RECENT",
+            "translated": "GCK_ACT_CALL_DATE_NO_RECENT",
+            "desc": ""
+        },
+        {
+            "hash": 2628205743,
+            "original": "GCK_ACT_GETCALL_DATE",
+            "translated": "GCK_ACT_GETCALL_DATE",
+            "desc": ""
+        },
+        {
+            "hash": 2636032472,
+            "original": "~z~You wanna hang out?",
+            "translated": "~z~你想出来玩吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2636493681,
+            "original": "~z~Thanks! Thanks a lot.",
+            "translated": "~z~谢了！多谢。",
+            "desc": ""
+        },
+        {
+            "hash": 2640117859,
+            "original": "GCK_ACT_ANSWER_PHONE",
+            "translated": "GCK_ACT_ANSWER_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 2688248532,
+            "original": "~z~We only just hung out, Niko.",
+            "translated": "~z~我们刚出去过，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2711540240,
+            "original": "~z~Hey Europe, it's America - and Ireland.",
+            "translated": "~z~嘿，欧洲，我是美国，也是爱尔兰。",
+            "desc": ""
+        },
+        {
+            "hash": 2713321257,
+            "original": "~z~I'm happy to give our friendship another go, because I like you, even though you are a dick. Pick me up in an hour.",
+            "translated": "~z~我很乐意再给我们的友谊一次机会，因为我喜欢你，尽管你是个混蛋。一小时内来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 2719320225,
+            "original": "~z~How you doing, Kate?",
+            "translated": "~z~你怎么样，Kate？",
+            "desc": ""
+        },
+        {
+            "hash": 2731738659,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2733744124,
+            "original": "~z~You're a fine one to call me after the way you've been treating me... I know - piss off. Call back when you're less annoying.",
+            "translated": "~z~你倒好，那样对我后还给我打电话...我知道。滚蛋。等你没那么令人恼火了再打回来。",
+            "desc": ""
+        },
+        {
+            "hash": 2775023734,
+            "original": "GCK_ACT_CALL_HOSP_CANCEL_MEDLIKE",
+            "translated": "GCK_ACT_CALL_HOSP_CANCEL_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 2776186565,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2865033690,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2897612252,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2967547894,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3000402159,
+            "original": "GCK_ACT_GETCALL_REJECT_IRATE",
+            "translated": "GCK_ACT_GETCALL_REJECT_IRATE",
+            "desc": ""
+        },
+        {
+            "hash": 3003307424,
+            "original": "~z~You up to anything? Want to do something?",
+            "translated": "~z~你在忙吗？想去做点什么吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3012957024,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 3022701166,
+            "original": "~z~I'm too pissed off to speak to you right now, amigo. Call back when I don't think you're a dick...",
+            "translated": "~z~我现在很生气，不想和你说话，老兄。等我不再认为你是个混蛋后再打回来...",
+            "desc": ""
+        },
+        {
+            "hash": 3024656751,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3075257103,
+            "original": "~z~Hey, it's me.",
+            "translated": "~z~嘿，是我。",
+            "desc": ""
+        },
+        {
+            "hash": 3090456470,
+            "original": "~z~Yes - how about now? I'm bored.",
+            "translated": "~z~可以，要么就现在吧？我快无聊死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3091250279,
+            "original": "~z~No problem... I will make my own way home.",
+            "translated": "~z~没问题...我会自己回家的。",
+            "desc": ""
+        },
+        {
+            "hash": 3237661201,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3243094541,
+            "original": "~z~That's weird, because when I woke up, I said to myself, Kate - hopefully you can be stood up by a prick today.",
+            "translated": "~z~很奇怪，因为今天醒来的时候我告诉过自己，Kate，今天你有希望被某个混蛋放鸽子。",
+            "desc": ""
+        },
+        {
+            "hash": 3252251368,
+            "original": "~z~I'd love to, but I'm in the middle of something.",
+            "translated": "~z~我很想去，不过我现在在忙事情。",
+            "desc": ""
+        },
+        {
+            "hash": 3296734955,
+            "original": "GCK_ACT_PKA_GETCALL_HOSP_NO",
+            "translated": "GCK_ACT_PKA_GETCALL_HOSP_NO",
+            "desc": ""
+        },
+        {
+            "hash": 3321379613,
+            "original": "~z~I'm free now. Come pick me up.",
+            "translated": "~z~我现在有空，过来接我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3335115199,
+            "original": "~z~Okay.",
+            "translated": "~z~好的。",
+            "desc": ""
+        },
+        {
+            "hash": 3345419684,
+            "original": "~z~Of course - I'll be there in an hour.",
+            "translated": "~z~当然，我会在一小时内到的。",
+            "desc": ""
+        },
+        {
+            "hash": 3358831119,
+            "original": "GCK_ACT_PKA_GETCALL_HOSP_YES",
+            "translated": "GCK_ACT_PKA_GETCALL_HOSP_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3386551247,
+            "original": "~z~See you shortly.",
+            "translated": "~z~过会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 3392099321,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3431025143,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3489264313,
+            "original": "~z~I was wondering what exactly had happened to you.",
+            "translated": "~z~我还在想你是不是出事了。",
+            "desc": ""
+        },
+        {
+            "hash": 3507411121,
+            "original": "~z~Fine, look after yourself, okay?",
+            "translated": "~z~好，照顾好你自己，行吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3546754053,
+            "original": "~z~You sure know how to make someone feel like an asshole, Niko. Thanks!",
+            "translated": "~z~你很懂怎么让别人感觉像个混蛋，Niko。谢了！",
+            "desc": ""
+        },
+        {
+            "hash": 3575634284,
+            "original": "~z~Come pick me up, I'm free now.",
+            "translated": "~z~过来接我吧，我现在有空。",
+            "desc": ""
+        },
+        {
+            "hash": 3606594148,
+            "original": "~z~I was wondering if you were still alive.",
+            "translated": "~z~我在想你是不是还活着。",
+            "desc": ""
+        },
+        {
+            "hash": 3621248809,
+            "original": "~z~Thanks - really great of you - I love being stood up.",
+            "translated": "~z~谢了，你真好，我喜欢被放鸽子。",
+            "desc": ""
+        },
+        {
+            "hash": 3627411199,
+            "original": "~z~Okay, Niko. I hope you're not causing too much trouble out there.",
+            "translated": "~z~好的，Niko。希望你在外面不会惹出太多乱子。",
+            "desc": ""
+        },
+        {
+            "hash": 3634512861,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3645601474,
+            "original": "~z~Wonderful.",
+            "translated": "~z~太棒了。",
+            "desc": ""
+        },
+        {
+            "hash": 3655944183,
+            "original": "GCK_ACT_PKA_CALL_MEDLIKE",
+            "translated": "GCK_ACT_PKA_CALL_MEDLIKE",
+            "desc": ""
+        },
+        {
+            "hash": 3684096582,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3698839817,
+            "original": "~z~Great, see you in a bit, Kate.",
+            "translated": "~z~好的，一会儿见，Kate。",
+            "desc": ""
+        },
+        {
+            "hash": 3789222626,
+            "original": "~z~Sure - I'm not doing anything now, actually. Come by.",
+            "translated": "~z~好啊，其实我现在也没什么事。来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3815631889,
+            "original": "GCK_ACT_CALL_DARTS_YES",
+            "translated": "GCK_ACT_CALL_DARTS_YES",
+            "desc": ""
+        },
+        {
+            "hash": 3833009228,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3864685598,
+            "original": "GCK_ACT_GETCALL_VERYIRATE",
+            "translated": "GCK_ACT_GETCALL_VERYIRATE",
+            "desc": ""
+        },
+        {
+            "hash": 3884749710,
+            "original": "~z~Kate, hey, it's me, Niko.",
+            "translated": "~z~Kate，嘿，是我，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3947057051,
+            "original": "~z~What is wrong with you?",
+            "translated": "~z~你怎么回事？",
+            "desc": ""
+        },
+        {
+            "hash": 3959757316,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3980095210,
+            "original": "~z~I haven't heard from you in ages.",
+            "translated": "~z~我好久没你的消息了。",
+            "desc": ""
+        },
+        {
+            "hash": 3980161682,
+            "original": "~z~See you soon.",
+            "translated": "~z~之后见。",
+            "desc": ""
+        },
+        {
+            "hash": 3992893402,
+            "original": "~z~Are you still alive? I haven't heard from you for a very long time. Did you lose my number?",
+            "translated": "~z~你还活着吗？我很久没接到你的电话了。你是弄丢了我的号码吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4031902848,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4099358645,
+            "original": "~z~I was wondering if you were still alive?",
+            "translated": "~z~我都在想你是不是还活着了？",
+            "desc": ""
+        },
+        {
+            "hash": 4114167960,
+            "original": "GCK_ACT_GETCALL_HOSP_ASK",
+            "translated": "GCK_ACT_GETCALL_HOSP_ASK",
+            "desc": ""
+        },
+        {
+            "hash": 4144875845,
+            "original": "~z~Sorry - I didn't realize what time it was. Go back to sleep.",
+            "translated": "~z~抱歉，我没意识到现在几点了。你接着睡吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4172169980,
+            "original": "GCK_ACT_GETCALL_GREET",
+            "translated": "GCK_ACT_GETCALL_GREET",
+            "desc": ""
+        },
+        {
+            "hash": 4206128781,
+            "original": "~z~Great!",
+            "translated": "~z~好啊！",
+            "desc": ""
+        },
+        {
+            "hash": 4216557719,
+            "original": "GCK_ACT_GETCALL_HOSP_REJ_LOLIKE_QQQ1",
+            "translated": "GCK_ACT_GETCALL_HOSP_REJ_LOLIKE_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 4235617949,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4244553330,
+            "original": "~z~Hi it's me, Niko.",
+            "translated": "~z~嗨，是我，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 4259954832,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4276384182,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        }
+    ]
+}

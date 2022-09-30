@@ -1,0 +1,64 @@
+{
+    "WI_SRA2": [
+        {
+            "hash": 81576454,
+            "original": "~r~The assistant has been spooked.",
+            "translated": "~r~店员受到了惊吓。",
+            "desc": ""
+        },
+        {
+            "hash": 444206064,
+            "original": "~r~Sara is dead.",
+            "translated": "~r~Sara死了。",
+            "desc": ""
+        },
+        {
+            "hash": 827770645,
+            "original": "Go back to the ~b~assistant.",
+            "translated": "回去找~b~店员。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1066951576,
+            "original": "~r~You didn't get the box for Sara.",
+            "translated": "~r~你没有为Sara取得盒子。",
+            "desc": ""
+        },
+        {
+            "hash": 1699258764,
+            "original": "Pick up the ~g~box.",
+            "translated": "捡起~g~盒子。",
+            "desc": ""
+        },
+        {
+            "hash": 1806123349,
+            "original": "~r~There's blood all over the clothes. They're ruined.",
+            "translated": "~r~衣服毁了。上面全是血。",
+            "desc": ""
+        },
+        {
+            "hash": 2293131351,
+            "original": "Collect the box from the shop ~b~assistant.",
+            "translated": "从~b~店员~s~那儿取得盒子。",
+            "desc": ""
+        },
+        {
+            "hash": 3340625217,
+            "original": "Take the box back to ~y~Pier 45.",
+            "translated": "带着盒子回~y~45号码头。",
+            "desc": ""
+        },
+        {
+            "hash": 3825303608,
+            "original": "You don't have enough cash.",
+            "translated": "你没有足够的钱。",
+            "desc": ""
+        },
+        {
+            "hash": 4131398837,
+            "original": "~s~Press ~INPUT_PICKUP~ to buy the item.",
+            "translated": "~s~按下~INPUT_PICKUP~购买物品。",
+            "desc": ""
+        }
+    ]
+}

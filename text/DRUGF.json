@@ -1,0 +1,70 @@
+{
+    "DRUGF": [
+        {
+            "hash": 175532398,
+            "original": "Make your way to ~Y~the deal.~S~",
+            "translated": "前往~Y~交易地点。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 177602406,
+            "original": "Some bikers are escaping by boat. There are boats moored around the shoreline should you need them.",
+            "translated": "有些飞车党正用船逃跑，你应该需要那些停泊在岸边的船。",
+            "desc": ""
+        },
+        {
+            "hash": 785592871,
+            "original": "Take a look around. Find the deal.",
+            "translated": "四处查看，找出交易地点。",
+            "desc": ""
+        },
+        {
+            "hash": 902332684,
+            "original": "Get back to the ~Y~rendezvous point.~S~",
+            "translated": "回到~Y~会合地点。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 939048713,
+            "original": "~R~Some of the witnesses escaped.~S~",
+            "translated": "~R~有目击者逃跑了。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 1414664925,
+            "original": "Collect all of the ~G~drugs~S~ the targets drop.",
+            "translated": "收集目标掉下的所有~G~毒品~S~。",
+            "desc": ""
+        },
+        {
+            "hash": 1652895555,
+            "original": "You've found the deal. The ~r~targets~s~ are spread over every floor of this building. Work your way up, clear them out.",
+            "translated": "你找到了交易地点，~r~目标~s~分散在大楼的各个楼层。用你的方法干掉他们。",
+            "desc": ""
+        },
+        {
+            "hash": 2605523158,
+            "original": "Eliminate the fleeing ~R~bikers.~S~",
+            "translated": "消灭逃跑的~R~飞车党。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 2678248527,
+            "original": "Wait here for the rest of your crew to arrive.",
+            "translated": "在这里等待你的伙伴们到达。",
+            "desc": ""
+        },
+        {
+            "hash": 3580269836,
+            "original": "You've taken the drugs and eliminated the witnesses. Get to the ~Y~rendezvous point.~S~",
+            "translated": "你已经拿到毒品并消灭了目击者，前往~Y~会合地点。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 3637255123,
+            "original": "The remaining ~R~Angels of Death~S~ are fleeing. Eliminate them.",
+            "translated": "剩余的~R~Angels of Death~S~正在逃跑，消灭他们。",
+            "desc": ""
+        }
+    ]
+}

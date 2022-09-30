@@ -1,0 +1,544 @@
+{
+    "PIRAUD": [
+        {
+            "hash": 21951346,
+            "original": "PIR_CC",
+            "translated": "PIR_CC",
+            "desc": ""
+        },
+        {
+            "hash": 93140929,
+            "original": "~z~Where is Jacob?",
+            "translated": "~z~Jacob人呢？",
+            "desc": ""
+        },
+        {
+            "hash": 118029766,
+            "original": "PIR_CD",
+            "translated": "PIR_CD",
+            "desc": ""
+        },
+        {
+            "hash": 196980917,
+            "original": "~z~This Russian boy, dem greedy youth, my youth, come in like say, dem know what it takes to be the dan-dada.",
+            "translated": "~z~这群俄国佬，贪婪的娃子，小伙子，冲进来嗦「现在知道谁是老大了吧」。",
+            "desc": ""
+        },
+        {
+            "hash": 294142457,
+            "original": "PIR_AA",
+            "translated": "PIR_AA",
+            "desc": ""
+        },
+        {
+            "hash": 298750342,
+            "original": "PIR_CB",
+            "translated": "PIR_CB",
+            "desc": ""
+        },
+        {
+            "hash": 363632674,
+            "original": "PIR_CA",
+            "translated": "PIR_CA",
+            "desc": ""
+        },
+        {
+            "hash": 365531884,
+            "original": "120120",
+            "translated": "120120",
+            "desc": ""
+        },
+        {
+            "hash": 391666519,
+            "original": "~z~Sure Badman, some Russians been up in my face as well.",
+            "translated": "~z~当然，Badman，某些俄国人也让我很不爽。",
+            "desc": ""
+        },
+        {
+            "hash": 479020696,
+            "original": "PIR_BC",
+            "translated": "PIR_BC",
+            "desc": ""
+        },
+        {
+            "hash": 493573136,
+            "original": "~z~Cha, the boy done crossed the wrong rastaman now, me a' tell you.",
+            "translated": "~z~擦，小伙子们惹错人惹，我跟你讲。",
+            "desc": ""
+        },
+        {
+            "hash": 572158171,
+            "original": "~z~My youth, listen, you a righteous youth, my youth. Jacob tell me about you long time.",
+            "translated": "~z~小伙子，听着，你是个好小伙，小伙子。Jacob经常跟我提起你。",
+            "desc": ""
+        },
+        {
+            "hash": 617405499,
+            "original": "PIR_BG",
+            "translated": "PIR_BG",
+            "desc": ""
+        },
+        {
+            "hash": 625523371,
+            "original": "~z~Take I an' I a go Carrollton Street. Sight?",
+            "translated": "~z~带咱俩去Carrollton街。懂？",
+            "desc": ""
+        },
+        {
+            "hash": 683849845,
+            "original": "~z~Kill them boy, rasta, kill dem!",
+            "translated": "~z~杀光他们，兄弟，杀光他们！",
+            "desc": ""
+        },
+        {
+            "hash": 715049621,
+            "original": "PIR_CF",
+            "translated": "PIR_CF",
+            "desc": ""
+        },
+        {
+            "hash": 767381154,
+            "original": "PIR_CD_QQQ1",
+            "translated": "PIR_CD_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 847937102,
+            "original": "~z~He fucked with you, he fucked with me.",
+            "translated": "~z~他惹过你，等于惹过我。",
+            "desc": ""
+        },
+        {
+            "hash": 942735075,
+            "original": "PIR_BB",
+            "translated": "PIR_BB",
+            "desc": ""
+        },
+        {
+            "hash": 1107463987,
+            "original": "PIR_EB",
+            "translated": "PIR_EB",
+            "desc": ""
+        },
+        {
+            "hash": 1141560914,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 1212556516,
+            "original": "~z~Yo rudeboy, lemme tell ya somethin'... y'see, fish could keep dem mouth closed...",
+            "translated": "~z~哟莽娃，我跟你嗦几句...你看，鱼能把嘴闭着...",
+            "desc": ""
+        },
+        {
+            "hash": 1242328310,
+            "original": "100100010100100010100",
+            "translated": "100100010100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 1251441122,
+            "original": "PIR_HB",
+            "translated": "PIR_HB",
+            "desc": ""
+        },
+        {
+            "hash": 1262559679,
+            "original": "PIR_BA",
+            "translated": "PIR_BA",
+            "desc": ""
+        },
+        {
+            "hash": 1306249305,
+            "original": "~z~Why youth, him a' doing ting right now, ya no see? Catch up wit 'im girl and ting.",
+            "translated": "~z~咋了小伙子，他现在忙着哪，你八懂？在和小妞们约会哪。",
+            "desc": ""
+        },
+        {
+            "hash": 1329637762,
+            "original": "~z~Yeah.",
+            "translated": "~z~确实。",
+            "desc": ""
+        },
+        {
+            "hash": 1428930243,
+            "original": "~z~come mek a go deal wit' dem boy dere right now.",
+            "translated": "~z~这就去把他们给解决惹。",
+            "desc": ""
+        },
+        {
+            "hash": 1506462110,
+            "original": "PIR_BD",
+            "translated": "PIR_BD",
+            "desc": ""
+        },
+        {
+            "hash": 1521231217,
+            "original": "~z~The boy over pon Carrollton Street my youth. Come mek a' forward.",
+            "translated": "~z~那些人在Carrollton街，小伙子。快上路吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1534440891,
+            "original": "~z~Yo, rudeboy, this a' de place.",
+            "translated": "~z~哟，莽娃，就这儿了。",
+            "desc": ""
+        },
+        {
+            "hash": 1612803300,
+            "original": "~z~You know that youth. He love 'im girl and ting, ya no know?",
+            "translated": "~z~那小伙子你也懂。就喜欢小妞什么的，懂不懂？",
+            "desc": ""
+        },
+        {
+            "hash": 1672523344,
+            "original": "~z~Mek we end all these blood clots now!",
+            "translated": "~z~我们要取了他们的狗头！",
+            "desc": ""
+        },
+        {
+            "hash": 1731985737,
+            "original": "~z~Uh... hey.",
+            "translated": "~z~呃...嘿。",
+            "desc": ""
+        },
+        {
+            "hash": 1800644347,
+            "original": "PIR_DA",
+            "translated": "PIR_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1874845263,
+            "original": "~z~Righteous a' rudeboy, see we reach us a' now",
+            "translated": "~z~到地方惹，莽娃，看来是这儿惹。",
+            "desc": ""
+        },
+        {
+            "hash": 1907345023,
+            "original": "PIR_BK",
+            "translated": "PIR_BK",
+            "desc": ""
+        },
+        {
+            "hash": 1912043590,
+            "original": "~z~dem wouldn't get caught, rudeboy.",
+            "translated": "~z~就不会被钓走，莽娃。",
+            "desc": ""
+        },
+        {
+            "hash": 1972980573,
+            "original": "~z~I and I am a bred' that goin' mash the ting ya know. crossed the wrong rasta, rudeboy.",
+            "translated": "~z~咱哥俩要干烂他们懂吧。他们惹错人惹，莽娃。",
+            "desc": ""
+        },
+        {
+            "hash": 2020760338,
+            "original": "100100100010100100010100100010100",
+            "translated": "100100100010100100010100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 2038015428,
+            "original": "~z~Hey! How ya gwa'an like ya dunno who me is rudeboy? Cho!",
+            "translated": "~z~喂！肿么一副八认识我是谁的样子，莽娃？切！",
+            "desc": ""
+        },
+        {
+            "hash": 2058258868,
+            "original": "~z~yo rudeboy lemme tell ya somethin' right now.",
+            "translated": "~z~哟莽娃，我现在跟你嗦几句。",
+            "desc": ""
+        },
+        {
+            "hash": 2118129345,
+            "original": "PIR_GC",
+            "translated": "PIR_GC",
+            "desc": ""
+        },
+        {
+            "hash": 2234227155,
+            "original": "PIR_BF",
+            "translated": "PIR_BF",
+            "desc": ""
+        },
+        {
+            "hash": 2250819390,
+            "original": "PIR_HA",
+            "translated": "PIR_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2256663538,
+            "original": "~z~Get dem boy dere my youth!",
+            "translated": "~z~干掉那些人，小伙子！",
+            "desc": ""
+        },
+        {
+            "hash": 2277896118,
+            "original": "~z~You bout feel me teeth now!",
+            "translated": "~z~尝尝我的厉害！",
+            "desc": ""
+        },
+        {
+            "hash": 2292158705,
+            "original": "~z~You a righteous youth my youth.",
+            "translated": "~z~小伙子真行啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2335779529,
+            "original": "~z~Debts, everyt'ing, disrespect...",
+            "translated": "~z~债务，各种事情，大不敬...",
+            "desc": ""
+        },
+        {
+            "hash": 2341349248,
+            "original": "PIR_BE",
+            "translated": "PIR_BE",
+            "desc": ""
+        },
+        {
+            "hash": 2478824016,
+            "original": "~z~Ya dunno who me is?",
+            "translated": "~z~你八认识我惹？",
+            "desc": ""
+        },
+        {
+            "hash": 2534949511,
+            "original": "~z~Y'know what, rudeboy...",
+            "translated": "~z~知道不，莽娃...",
+            "desc": ""
+        },
+        {
+            "hash": 2567447586,
+            "original": "PIR_CE",
+            "translated": "PIR_CE",
+            "desc": ""
+        },
+        {
+            "hash": 2572300878,
+            "original": "~z~Yo, rudeboy, I catch you around an ting man, one love, rasta.",
+            "translated": "~z~哟，莽娃，回头见，再见，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2643421289,
+            "original": "~z~Kiss me neck bwoy!",
+            "translated": "~z~你妈的崽啊！",
+            "desc": ""
+        },
+        {
+            "hash": 2723500255,
+            "original": "PIR_EA",
+            "translated": "PIR_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2785443549,
+            "original": "~z~Badman... what's up?",
+            "translated": "~z~Badman...怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 2858835920,
+            "original": "~z~The youth a grind my youth, the man a hustlin youth, big respect fe him to that.",
+            "translated": "~z~那小子很上进，小伙子，他是个大忙人，这点我很敬他。",
+            "desc": ""
+        },
+        {
+            "hash": 2909433643,
+            "original": "~z~Exactly... tell you what, let's go hit those Russian fuckers right now.",
+            "translated": "~z~的确...这么着吧，我们现在就去干烂那群俄国王八蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 2953863114,
+            "original": "~z~Don't worry about it man.",
+            "translated": "~z~不用跟我客气。",
+            "desc": ""
+        },
+        {
+            "hash": 2974519099,
+            "original": "~z~Dem come pon me corner and ting. Come upon me city. An all a' dis a fucker, rudeboy.",
+            "translated": "~z~他们到我地盘上那啥，到我的城市里。全都是这种王八蛋，莽娃。",
+            "desc": ""
+        },
+        {
+            "hash": 3048709751,
+            "original": "~z~Hey, my youth! Wha' gwan?",
+            "translated": "~z~嘿，小伙子！最近肿么样？",
+            "desc": ""
+        },
+        {
+            "hash": 3154748599,
+            "original": "~z~I want my operation to run right. I don't want no Russian boy come tell me what fe do, ye see it?",
+            "translated": "~z~我想让生意正常运作。八想让什么俄国娃子对我指手划脚，懂惹么？",
+            "desc": ""
+        },
+        {
+            "hash": 3185965941,
+            "original": "~z~Dem Russian boy, cause me no more boderation rudeboy, respect due.",
+            "translated": "~z~这群俄国佬别想在我眼皮底下起来惹，莽娃，敬你。",
+            "desc": ""
+        },
+        {
+            "hash": 3229561810,
+            "original": "~z~No one can test me, seen?",
+            "translated": "~z~没人可以耍我，懂？",
+            "desc": ""
+        },
+        {
+            "hash": 3253738779,
+            "original": "~z~We a'galang a mash up dem boy der good.",
+            "translated": "~z~我们直接去干烂那帮娃子。",
+            "desc": ""
+        },
+        {
+            "hash": 3295683099,
+            "original": "~z~Shoot up dem bum-boys an' show dem boys da whole jam-down style",
+            "translated": "~z~射爆那群草包，让他们见识下牙买加风情。",
+            "desc": ""
+        },
+        {
+            "hash": 3387437496,
+            "original": "PIR_GB",
+            "translated": "PIR_GB",
+            "desc": ""
+        },
+        {
+            "hash": 3435808546,
+            "original": "~z~You see dat, my youth?",
+            "translated": "~z~就这本事，小伙子？",
+            "desc": ""
+        },
+        {
+            "hash": 3439185103,
+            "original": "~z~Them slibba slabba Russian type, my youth.",
+            "translated": "~z~那些叽里呱啦的俄国佬，小伙子。",
+            "desc": ""
+        },
+        {
+            "hash": 3440258674,
+            "original": "~z~Yeah?",
+            "translated": "~z~然后？",
+            "desc": ""
+        },
+        {
+            "hash": 3445250572,
+            "original": "PIR_GA",
+            "translated": "PIR_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3473781554,
+            "original": "PIR_BI",
+            "translated": "PIR_BI",
+            "desc": ""
+        },
+        {
+            "hash": 3475965255,
+            "original": "~z~Mash up dem boy, youth!",
+            "translated": "~z~干烂他们，小伙子！",
+            "desc": ""
+        },
+        {
+            "hash": 3577516161,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3608790894,
+            "original": "~z~I've never been to Jamaica.",
+            "translated": "~z~我还没去过牙买加。",
+            "desc": ""
+        },
+        {
+            "hash": 3656769722,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3728633680,
+            "original": "~z~Woy, me dare a rude boy! No one can test me nuh, rudeboy!",
+            "translated": "~z~喔，胆儿可真肥莽娃！没人可以耍我哪，莽娃！",
+            "desc": ""
+        },
+        {
+            "hash": 3730821393,
+            "original": "~z~Right, whatever you say.",
+            "translated": "~z~对，是这么回事。",
+            "desc": ""
+        },
+        {
+            "hash": 3753591559,
+            "original": "100100010100",
+            "translated": "100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 3766775212,
+            "original": "~z~These bull buka Russians boy make I an' I vex, rasta!",
+            "translated": "~z~这群俄国恶霸惹毛咱俩惹，兄弟！",
+            "desc": ""
+        },
+        {
+            "hash": 3822642233,
+            "original": "PIR_GA_QQQ1",
+            "translated": "PIR_GA_QQQ1",
+            "desc": ""
+        },
+        {
+            "hash": 3834108767,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3889345395,
+            "original": "PIR_BJ",
+            "translated": "PIR_BJ",
+            "desc": ""
+        },
+        {
+            "hash": 3913477056,
+            "original": "~z~Go with Jacob, rasta. You got lots of spirit for Jah.",
+            "translated": "~z~改天和Jacob一起去，兄弟。你对上天有所信仰。",
+            "desc": ""
+        },
+        {
+            "hash": 3936696458,
+            "original": "PIR_FA",
+            "translated": "PIR_FA",
+            "desc": ""
+        },
+        {
+            "hash": 4015318868,
+            "original": "PIR_BH",
+            "translated": "PIR_BH",
+            "desc": ""
+        },
+        {
+            "hash": 4073886284,
+            "original": "~z~You a righteous youth, my youth, you sound like a rastaman.",
+            "translated": "~z~你小子很行啊，小伙子，感觉是个人才啊。",
+            "desc": ""
+        },
+        {
+            "hash": 4107664893,
+            "original": "~z~Me come y'here say fe drink milk, rudeboy... me no come yah fi count nah cow!",
+            "translated": "~z~我来这里是要喝奶的，莽娃...八是来数什么奶牛的！",
+            "desc": ""
+        },
+        {
+            "hash": 4207126618,
+            "original": "~z~Who's testing you?",
+            "translated": "~z~谁耍你了？",
+            "desc": ""
+        }
+    ]
+}

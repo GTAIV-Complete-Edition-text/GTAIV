@@ -1,0 +1,40 @@
+{
+    "DWAYNE3": [
+        {
+            "hash": 540434507,
+            "original": "Take out the three strip club managers.",
+            "translated": "干掉三个脱衣舞俱乐部经理。",
+            "desc": ""
+        },
+        {
+            "hash": 832570142,
+            "original": "Go to the ~y~strip club.",
+            "translated": "前往~y~脱衣舞俱乐部。",
+            "desc": ""
+        },
+        {
+            "hash": 1756098869,
+            "original": "Locate the managers by listening in on conversations.",
+            "translated": "通过旁听对话找到所有经理。",
+            "desc": ""
+        },
+        {
+            "hash": 2069468816,
+            "original": "The ~R~manager~s~ is trying to escape.",
+            "translated": "~R~经理~s~正在逃跑。",
+            "desc": ""
+        },
+        {
+            "hash": 2375727890,
+            "original": "~r~The target escaped.",
+            "translated": "~r~目标逃掉了。",
+            "desc": ""
+        },
+        {
+            "hash": 2683133879,
+            "original": "The ~R~managers~s~ are trying to escape.",
+            "translated": "~R~经理~s~正在逃跑。",
+            "desc": ""
+        }
+    ]
+}

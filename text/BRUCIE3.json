@@ -1,0 +1,172 @@
+{
+    "BRUCIE3": [
+        {
+            "hash": 100058100,
+            "original": "~s~Go to the internet cafe.",
+            "translated": "~s~前往网吧。",
+            "desc": ""
+        },
+        {
+            "hash": 164334370,
+            "original": "~s~When ready, stand up and take out a weapon. Press ~PAD_LT~ to get up.",
+            "translated": "~s~准备好后就起身掏出武器。按~PAD_LT~起身。",
+            "desc": ""
+        },
+        {
+            "hash": 512720109,
+            "original": "~r~You failed to lure French Tom out of hiding.",
+            "translated": "~r~你没能吸引French Tom现身。",
+            "desc": ""
+        },
+        {
+            "hash": 732862027,
+            "original": "~s~Reply positively to French Tom's email to confirm the date.",
+            "translated": "~s~积极回复French Tom的邮件以确认约会。",
+            "desc": ""
+        },
+        {
+            "hash": 837854127,
+            "original": "~s~You have sent a date request to French Tom. Log off.",
+            "translated": "~s~你已向French Tom发送了约会请求。注销。",
+            "desc": ""
+        },
+        {
+            "hash": 1039907557,
+            "original": "~s~Allow some time for French Tom to check Lovemeet and email you his reply.",
+            "translated": "~s~耐心等待French Tom上觅爱网看见消息后回复你的邮件。",
+            "desc": ""
+        },
+        {
+            "hash": 1105150860,
+            "original": "~s~Click on the LOVEMEET link.",
+            "translated": "~s~点击觅爱网的链接。",
+            "desc": ""
+        },
+        {
+            "hash": 1207536054,
+            "original": "~r~You missed your date with French Tom.",
+            "translated": "~r~你错过了和French Tom的约会。",
+            "desc": ""
+        },
+        {
+            "hash": 1346592628,
+            "original": "~s~French Tom hasn't arrived. Wait in the diner.",
+            "translated": "~s~French Tom还没到，在餐馆等他。",
+            "desc": ""
+        },
+        {
+            "hash": 1381458844,
+            "original": "~s~You have refused a date with French Tom. Log off.",
+            "translated": "~s~你拒绝了和French Tom的约会。注销。",
+            "desc": ""
+        },
+        {
+            "hash": 1403119377,
+            "original": "~s~Click on the WEB icon.",
+            "translated": "~s~点击WEB图标。",
+            "desc": ""
+        },
+        {
+            "hash": 1647317387,
+            "original": "~s~Lose your wanted level before meeting French Tom.",
+            "translated": "~s~在和French Tom约会之前，摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 1668628653,
+            "original": "~r~You abandoned the date.",
+            "translated": "~r~你放弃了约会。",
+            "desc": ""
+        },
+        {
+            "hash": 1703742183,
+            "original": "~s~Find French Tom and click the MORE button underneath his picture to view his profile.",
+            "translated": "~s~找到French Tom，点击他照片下方的「更多」以浏览他的资料。",
+            "desc": ""
+        },
+        {
+            "hash": 1825887080,
+            "original": "~r~French Tom got away.",
+            "translated": "~r~French Tom逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 1926407314,
+            "original": "~s~Go back to the diner and meet French Tom.",
+            "translated": "~s~回餐馆见French Tom。",
+            "desc": ""
+        },
+        {
+            "hash": 2001120858,
+            "original": "~s~French Tom is registered in the male section. Click on the MALE button.",
+            "translated": "~s~French Tom注册的资料是男性。点击「MALE」。",
+            "desc": ""
+        },
+        {
+            "hash": 2123021526,
+            "original": "~s~To arrange a meeting, scroll to the bottom of the page and click on the DATE button.",
+            "translated": "~s~要安排约会，滚动到页面底部，点击「约会」。",
+            "desc": ""
+        },
+        {
+            "hash": 2380747731,
+            "original": "~s~Go to the diner and meet French Tom.",
+            "translated": "~s~去餐馆见French Tom。",
+            "desc": ""
+        },
+        {
+            "hash": 2408845138,
+            "original": "~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to scroll.",
+            "translated": "~s~用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~滚动页面。",
+            "desc": ""
+        },
+        {
+            "hash": 2445468486,
+            "original": "~s~Get back on the computer and check Lovemeet for FRENCH TOM.",
+            "translated": "~s~重新登录电脑，在觅爱网寻找FRENCH TOM。",
+            "desc": ""
+        },
+        {
+            "hash": 2789683895,
+            "original": "~s~Use ~PAD_RSTICK_UP~ and ~PAD_RSTICK_DOWN~ to scroll.",
+            "translated": "~s~用~PAD_RSTICK_UP~和~PAD_RSTICK_DOWN~滚动。",
+            "desc": ""
+        },
+        {
+            "hash": 2843446015,
+            "original": "~s~You have a new email. Check your inbox.",
+            "translated": "~s~你收到了新邮件，检查你的收件箱。",
+            "desc": ""
+        },
+        {
+            "hash": 3004669491,
+            "original": "~s~French Tom is inside the diner. Look for him.",
+            "translated": "~s~French Tom在餐馆里，进去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 3429153469,
+            "original": "~s~Lose your wanted level.",
+            "translated": "~s~摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 3571802574,
+            "original": "~s~Take down ~r~French Tom.",
+            "translated": "~s~干掉~r~French Tom。",
+            "desc": ""
+        },
+        {
+            "hash": 4008121477,
+            "original": "~s~When ready, stand up and take out a weapon. Press ~INPUT_PICKUP~ to get up.",
+            "translated": "~s~准备好后就起身掏出武器。按~INPUT_PICKUP~起身。",
+            "desc": ""
+        },
+        {
+            "hash": 4078870084,
+            "original": "~s~Use a computer to get on love-meet.net and find FRENCH TOM.",
+            "translated": "~s~用电脑登录觅爱网，寻找FRENCH TOM。",
+            "desc": ""
+        }
+    ]
+}

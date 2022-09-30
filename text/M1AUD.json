@@ -1,0 +1,1930 @@
+{
+    "M1AUD": [
+        {
+            "hash": 18803194,
+            "original": "~z~Rojo, rojo. Hit the brakes, man.",
+            "translated": "~z~Rojo，rojo。踩刹车，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 25163041,
+            "original": "~z~So, Niko, this is Manny - we grew up together.",
+            "translated": "~z~那，Niko，他是Manny。我们一起长大的。",
+            "desc": ""
+        },
+        {
+            "hash": 30113204,
+            "original": "~z~Good! Alright, hey, how's the camera?",
+            "translated": "~z~好！不错，嘿，摄像机还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 33935119,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 44860435,
+            "original": "~z~Yes. Yes, yes, yes. Very cool. Good.",
+            "translated": "~z~对。对对对。很好。好。",
+            "desc": ""
+        },
+        {
+            "hash": 45292774,
+            "original": "M1_HH",
+            "translated": "M1_HH",
+            "desc": ""
+        },
+        {
+            "hash": 50004030,
+            "original": "~z~Not fucking cool, man!",
+            "translated": "~z~太他妈蠢了，伙计！",
+            "desc": ""
+        },
+        {
+            "hash": 52895334,
+            "original": "M1_GB",
+            "translated": "M1_GB",
+            "desc": ""
+        },
+        {
+            "hash": 59599710,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 66617870,
+            "original": "~z~-Can you tape us...?~n~-Just don't even...",
+            "translated": "~z~－还能拍我们...？~n~－想都不要...",
+            "desc": ""
+        },
+        {
+            "hash": 75009934,
+            "original": "~z~A kid dies tonight, man, on your head it be. Get outta here.",
+            "translated": "~z~要是今晚有孩子死了，伙计，就全是你的责任。你走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 81858731,
+            "original": "~z~So you and Mallorie is tight, huh? She and your cousin is together now.",
+            "translated": "~z~你和Mallorie关系很好是吧？现在她跟你堂兄在一起了。",
+            "desc": ""
+        },
+        {
+            "hash": 87360275,
+            "original": "~z~Sorry.",
+            "translated": "~z~抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 89559883,
+            "original": "M1_LD",
+            "translated": "M1_LD",
+            "desc": ""
+        },
+        {
+            "hash": 114004236,
+            "original": "M1_JA",
+            "translated": "M1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 123369306,
+            "original": "~z~Aw man, you gonna lose him.",
+            "translated": "~z~喔，伙计，你要跟丢他了。",
+            "desc": ""
+        },
+        {
+            "hash": 140238382,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 152052824,
+            "original": "~z~I wish I had a damn pen. Fuck, man.",
+            "translated": "~z~怎么就没带笔呢。妈的，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 195168508,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 211163686,
+            "original": "~z~I thought you had passion in your veins, man.",
+            "translated": "~z~我以为你的血管里流动着满满激情，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 211330388,
+            "original": "M1_A_AC",
+            "translated": "M1_A_AC",
+            "desc": ""
+        },
+        {
+            "hash": 226561109,
+            "original": "~z~You know, when I really start talking the truth, how come Jay's not around man?",
+            "translated": "~z~每次我触及真理的时候，怎么Jay就是不在呢，伙计？",
+            "desc": ""
+        },
+        {
+            "hash": 287669716,
+            "original": "M1_A_EH",
+            "translated": "M1_A_EH",
+            "desc": ""
+        },
+        {
+            "hash": 289874248,
+            "original": "~z~You mean here?",
+            "translated": "~z~这边吗？",
+            "desc": ""
+        },
+        {
+            "hash": 304951986,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 333094514,
+            "original": "~z~Okay.",
+            "translated": "~z~好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 355045243,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 396077024,
+            "original": "~z~Manny!",
+            "translated": "~z~Manny！",
+            "desc": ""
+        },
+        {
+            "hash": 464865698,
+            "original": "~z~You think Jesus started breaking shit up when those disciples followed him around with a bit of parchment?",
+            "translated": "~z~你觉得耶稣被一群拿着羊皮纸的信徒追随的时候会开始摔东西吗？",
+            "desc": ""
+        },
+        {
+            "hash": 465217736,
+            "original": "~z~He should be filming me every second.",
+            "translated": "~z~他应该要24小时拍我。",
+            "desc": ""
+        },
+        {
+            "hash": 477149659,
+            "original": "~z~That's my bad. Boo fucking hoo. See you around, Manny.",
+            "translated": "~z~我的错。他妈的。回头见，Manny。",
+            "desc": ""
+        },
+        {
+            "hash": 482488047,
+            "original": "M1_IA",
+            "translated": "M1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 482547150,
+            "original": "M1_GH",
+            "translated": "M1_GH",
+            "desc": ""
+        },
+        {
+            "hash": 514540265,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 516995844,
+            "original": "M1_A_GA",
+            "translated": "M1_A_GA",
+            "desc": ""
+        },
+        {
+            "hash": 521540620,
+            "original": "~z~Sure, but I don't think you hear me.",
+            "translated": "~z~当然，不过你好像没听见我的话。",
+            "desc": ""
+        },
+        {
+            "hash": 523357546,
+            "original": "M1_WA",
+            "translated": "M1_WA",
+            "desc": ""
+        },
+        {
+            "hash": 524901030,
+            "original": "~z~I for one ain't in this shit for the ego trip.",
+            "translated": "~z~我来这里又不是为了做英雄梦。",
+            "desc": ""
+        },
+        {
+            "hash": 554317429,
+            "original": "~z~-Turn this way. Yeah. Looking at me.~n~-Five, six, seven and eight.",
+            "translated": "~z~－往这儿转。对。朝我看。~n~－五 六 七然后八。",
+            "desc": ""
+        },
+        {
+            "hash": 562811768,
+            "original": "~z~That's right, follow me, but be prepared. Street life ain't pretty.",
+            "translated": "~z~没错，跟我来，做好心理准备，街头生活可不漂亮。",
+            "desc": ""
+        },
+        {
+            "hash": 569762429,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 576206633,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 618302166,
+            "original": "~z~I guess the streets is going to have to stay dirty for a little longer. See you, Manny.",
+            "translated": "~z~我想街道只能再脏上一段时间了。之后见，Manny。",
+            "desc": ""
+        },
+        {
+            "hash": 620760590,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 622246990,
+            "original": "~z~-Hi.~n~-Hi.",
+            "translated": "~z~－嗨。~n~－嗨。",
+            "desc": ""
+        },
+        {
+            "hash": 636014907,
+            "original": "100100010010",
+            "translated": "100100010010",
+            "desc": ""
+        },
+        {
+            "hash": 639649001,
+            "original": "~z~Thank you very much, that'll be all for today, thanks a lot.",
+            "translated": "~z~非常感谢你们，今天就到这儿了，多谢。",
+            "desc": ""
+        },
+        {
+            "hash": 654174055,
+            "original": "~z~It's for the love, man. They know me coz I help people, man. I'm all love for these streets.",
+            "translated": "~z~是为了爱，伙计。人认识我是因为我帮了他们，伙计。我对街道心怀大爱。",
+            "desc": ""
+        },
+        {
+            "hash": 654197029,
+            "original": "~z~Yeah here, right here, right here, turn around, man, right here.",
+            "translated": "~z~对，这边，就这边，就这边，转过来，伙计，就这边。",
+            "desc": ""
+        },
+        {
+            "hash": 658197808,
+            "original": "~z~I mean, you taught them these moves, right?",
+            "translated": "~z~我是说，他们的动作是你教的，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 696476990,
+            "original": "~z~This film is my gospel, man. The gospel of the streets.",
+            "translated": "~z~这部影片就是我的福音书，伙计。街道的福音书。",
+            "desc": ""
+        },
+        {
+            "hash": 707511730,
+            "original": "~z~He's not around because I'd break his camera if he shoved it in my face again.",
+            "translated": "~z~因为只要他敢拍我，我就会把他的相机砸烂。",
+            "desc": ""
+        },
+        {
+            "hash": 715442897,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 720818186,
+            "original": "~z~It's not good.",
+            "translated": "~z~很不好。",
+            "desc": ""
+        },
+        {
+            "hash": 730982280,
+            "original": "~z~More senseless death and the police aren't even here yet.",
+            "translated": "~z~又是无谓的死亡，而警察都还没到达现场。",
+            "desc": ""
+        },
+        {
+            "hash": 733629397,
+            "original": "~z~Yes, good, good, perfect, cool, cool, cool.",
+            "translated": "~z~可以，好好，完美，对对对。",
+            "desc": ""
+        },
+        {
+            "hash": 756920335,
+            "original": "~z~The kids have to look up to me, man. To know that the clean path is the good path. You hear me?",
+            "translated": "~z~孩子们以我为榜样，伙计。能学到干净的路才是正道。听见了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 761311393,
+            "original": "~z~It's for the kids, man. Believe that.",
+            "translated": "~z~都是为了孩子，伙计。真的。",
+            "desc": ""
+        },
+        {
+            "hash": 786747398,
+            "original": "~z~Ok, yeah, great, so, eh, so you know streets take no prisoners, right?",
+            "translated": "~z~好，对，很好。那个，你知道街道对敌人绝不手软，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 810159855,
+            "original": "M1_HI",
+            "translated": "M1_HI",
+            "desc": ""
+        },
+        {
+            "hash": 843774881,
+            "original": "M1_GC",
+            "translated": "M1_GC",
+            "desc": ""
+        },
+        {
+            "hash": 873267609,
+            "original": "M1_GA",
+            "translated": "M1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 897771967,
+            "original": "~z~This is the one, man - we're gonna get a really nice shot of them, it's going to be beautiful.",
+            "translated": "~z~就是这样，伙计。要把他们一起拍进去，效果会很棒的。",
+            "desc": ""
+        },
+        {
+            "hash": 898315634,
+            "original": "M1_ZA",
+            "translated": "M1_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 910294244,
+            "original": "~z~\"Help\" has only one name on the streets of South Bohan - Manny Escuela.",
+            "translated": "~z~South Bohan的「救星」只有他一个－Manny Escuela。",
+            "desc": ""
+        },
+        {
+            "hash": 926297997,
+            "original": "~z~Something else came up, I couldn't do it.",
+            "translated": "~z~突然有别的事，我做不到了。",
+            "desc": ""
+        },
+        {
+            "hash": 932563021,
+            "original": "~z~The dealer and his drug wagon are up there. Pull up behind and we wait.",
+            "translated": "~z~毒贩子和他装毒品的车都在那儿。停到他后面，见机行事。",
+            "desc": ""
+        },
+        {
+            "hash": 937582879,
+            "original": "~z~Chill, Niko. You got to get used to being filmed man.",
+            "translated": "~z~冷静，Niko。你得习惯被拍，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 961708813,
+            "original": "~z~Yeah, right here. Wait... where are you going?",
+            "translated": "~z~对，就站这儿。等等...你要去哪？",
+            "desc": ""
+        },
+        {
+            "hash": 962166992,
+            "original": "M1_LA",
+            "translated": "M1_LA",
+            "desc": ""
+        },
+        {
+            "hash": 978294110,
+            "original": "M1_A_BD",
+            "translated": "M1_A_BD",
+            "desc": ""
+        },
+        {
+            "hash": 992902473,
+            "original": "~z~I think that's as much of a decision of Mallorie's as it is Roman's.",
+            "translated": "~z~我想Mallorie的选择也很重要，和Roman一样。",
+            "desc": ""
+        },
+        {
+            "hash": 1013591685,
+            "original": "~z~I don't know how we tailing him without wheels.",
+            "translated": "~z~我不知道没有车我们还怎么跟着他。",
+            "desc": ""
+        },
+        {
+            "hash": 1015410028,
+            "original": "~z~You ready for this?",
+            "translated": "~z~准备开拍了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1058944659,
+            "original": "M1_HJ",
+            "translated": "M1_HJ",
+            "desc": ""
+        },
+        {
+            "hash": 1071941638,
+            "original": "~z~Shit, you look obvious being that close without a car, man.",
+            "translated": "~z~干，没车还跟那么紧，看上去很明显的，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 1079933285,
+            "original": "~z~Ok everyone, that'll be all for today, that was great.",
+            "translated": "~z~好了各位，今天就到这儿了，你们表现很棒。",
+            "desc": ""
+        },
+        {
+            "hash": 1102599197,
+            "original": "M1_KA",
+            "translated": "M1_KA",
+            "desc": ""
+        },
+        {
+            "hash": 1121646344,
+            "original": "~z~I am afraid not.",
+            "translated": "~z~我还真没有。",
+            "desc": ""
+        },
+        {
+            "hash": 1124705054,
+            "original": "M1_A_BC",
+            "translated": "M1_A_BC",
+            "desc": ""
+        },
+        {
+            "hash": 1126632959,
+            "original": "M1_A_DE",
+            "translated": "M1_A_DE",
+            "desc": ""
+        },
+        {
+            "hash": 1156776678,
+            "original": "~z~-Hey, hey! Please, please, what are you doing? Hey! My...~n~-Hey, hold on a second, man! Wha...",
+            "translated": "~z~－喂，喂！拜托，拜托，你要干啥啊？喂！我的...~n~－喂，停一下，伙计！哇...",
+            "desc": ""
+        },
+        {
+            "hash": 1202037373,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 1222621929,
+            "original": "M1_A_EK",
+            "translated": "M1_A_EK",
+            "desc": ""
+        },
+        {
+            "hash": 1222936713,
+            "original": "~z~Alright, okay, well listen, look... here's what were gonna do...",
+            "translated": "~z~那好，这样，你听着...我们要这么做...",
+            "desc": ""
+        },
+        {
+            "hash": 1249176400,
+            "original": "M1_HK",
+            "translated": "M1_HK",
+            "desc": ""
+        },
+        {
+            "hash": 1250887754,
+            "original": "~z~-about cleaning up the streets of Bohan.~n~-Yeah!",
+            "translated": "~z~－如何整治Bohan的街道。~n~－对！",
+            "desc": ""
+        },
+        {
+            "hash": 1261575424,
+            "original": "~z~If you can't clean up the streets, man, then you can walk on them, man. Get out.",
+            "translated": "~z~要是你不能收拾干净街道，就去街上走走吧，伙计。滚吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1268461534,
+            "original": "M1_GJ",
+            "translated": "M1_GJ",
+            "desc": ""
+        },
+        {
+            "hash": 1279660755,
+            "original": "~z~Niko, you punk, man. Behave!",
+            "translated": "~z~Niko，你傻逼啊，伙计。听话！",
+            "desc": ""
+        },
+        {
+            "hash": 1290868647,
+            "original": "~z~Shit, he'd pulled up. It's almost like you don't care about the kids, man.",
+            "translated": "~z~我靠，他停车了。你这人真就不在乎孩子们死活吗，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 1292875314,
+            "original": "~z~You taking my money, aren't you? Be my voice. I'm gonna go back and get Jay.",
+            "translated": "~z~我付你钱了，不是么？替我把话带到。我要回去找Jay了。",
+            "desc": ""
+        },
+        {
+            "hash": 1306629626,
+            "original": "~z~Yo, we need a car if we're gonna clean these streets.",
+            "translated": "~z~哟，收拾街道得先弄辆车吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1313936714,
+            "original": "~z~What are you doing?",
+            "translated": "~z~你在做什么啊？",
+            "desc": ""
+        },
+        {
+            "hash": 1327345315,
+            "original": "~z~Okay from the top?",
+            "translated": "~z~那就从头重拍？",
+            "desc": ""
+        },
+        {
+            "hash": 1329614489,
+            "original": "M1_A_DA",
+            "translated": "M1_A_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1331970114,
+            "original": "M1_A_EF",
+            "translated": "M1_A_EF",
+            "desc": ""
+        },
+        {
+            "hash": 1332221032,
+            "original": "~z~Pretty good.",
+            "translated": "~z~有够好了。",
+            "desc": ""
+        },
+        {
+            "hash": 1341728398,
+            "original": "~z~You think these streets is safe enough? See for yourself - get out.",
+            "translated": "~z~你觉得街道现在够安全吗？自己去看看吧，慢走。",
+            "desc": ""
+        },
+        {
+            "hash": 1360761741,
+            "original": "~z~How come whenever I say something that really sings.",
+            "translated": "~z~怎么每次说出至理名言的时候都这样。",
+            "desc": ""
+        },
+        {
+            "hash": 1390864794,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1400647477,
+            "original": "~z~What you doing so close to him?",
+            "translated": "~z~你贴那么近是想干啥？",
+            "desc": ""
+        },
+        {
+            "hash": 1414308249,
+            "original": "~z~cam...",
+            "translated": "~z~相机...",
+            "desc": ""
+        },
+        {
+            "hash": 1448517357,
+            "original": "~z~You know what I'm saying?",
+            "translated": "~z~懂我什么意思吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1458668736,
+            "original": "100010100100010100100010100010100010100",
+            "translated": "100010100100010100100010100010100010100",
+            "desc": ""
+        },
+        {
+            "hash": 1495934336,
+            "original": "~z~Here Manny Escuela is rapping with a street accomplice",
+            "translated": "~z~现在Manny Escuela正在和一名街友讨论",
+            "desc": ""
+        },
+        {
+            "hash": 1509175969,
+            "original": "~z~-We wanna make sure that we see them,~n~-Okay.",
+            "translated": "~z~－要确保他们能上镜，~n~－好。",
+            "desc": ""
+        },
+        {
+            "hash": 1510606911,
+            "original": "~z~No amount of scrubbing is going to get this town clean.",
+            "translated": "~z~再怎么收拾自由城也干净不了。",
+            "desc": ""
+        },
+        {
+            "hash": 1523936091,
+            "original": "~z~How you gonna follow him without a car?",
+            "translated": "~z~没车你怎么跟着他？",
+            "desc": ""
+        },
+        {
+            "hash": 1539692640,
+            "original": "M1_DA",
+            "translated": "M1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1558661686,
+            "original": "~z~Great, yeah, let's do it.",
+            "translated": "~z~很好，耶，那开始吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1596320761,
+            "original": "M1_A_EG",
+            "translated": "M1_A_EG",
+            "desc": ""
+        },
+        {
+            "hash": 1612629721,
+            "original": "~z~I'm disappointed in you man. I thought we was on the same page. I thought you cared. Get out.",
+            "translated": "~z~我对你很失望，伙计。我以为我们是一路人。还以为你也在乎。滚吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1620010672,
+            "original": "M1_EA",
+            "translated": "M1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1622587141,
+            "original": "~z~For a guy who just lost his home and his business and who now has a price on his head?",
+            "translated": "~z~考虑到他刚没了自己的家和事业，还被人重金悬赏，",
+            "desc": ""
+        },
+        {
+            "hash": 1629533313,
+            "original": "~z~But, you know, kids need hope.",
+            "translated": "~z~但是，要知道，孩子需要光明。",
+            "desc": ""
+        },
+        {
+            "hash": 1643636395,
+            "original": "M1_GM",
+            "translated": "M1_GM",
+            "desc": ""
+        },
+        {
+            "hash": 1666687434,
+            "original": "M1_GI",
+            "translated": "M1_GI",
+            "desc": ""
+        },
+        {
+            "hash": 1669385705,
+            "original": "~z~ I love that girl, man, I love her, man. Your cousin better not be messing with her head.",
+            "translated": "~z~我爱那女孩，伙计，我爱她，伙计。你堂兄最好别搅得她心烦意乱。",
+            "desc": ""
+        },
+        {
+            "hash": 1674438791,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1680756138,
+            "original": "M1_A_AA",
+            "translated": "M1_A_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1683181795,
+            "original": "~z~He gonna see you standing, you right there.",
+            "translated": "~z~你搁那儿站着，他能不看见你吗。",
+            "desc": ""
+        },
+        {
+            "hash": 1711889975,
+            "original": "~z~Just wait 'til you see your face on the screen, man. Maybe you change your mind then!",
+            "translated": "~z~你就等着瞧自己在电视上露脸吧，伙计。说不定到时候你就改主意了！",
+            "desc": ""
+        },
+        {
+            "hash": 1714815328,
+            "original": "~z~Ice this fool.",
+            "translated": "~z~宰了这个傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 1719189063,
+            "original": "~z~Want to hurt these streets, man. They live and breathe.",
+            "translated": "~z~会想伤害这些街道，伙计。街道是有血有肉的。",
+            "desc": ""
+        },
+        {
+            "hash": 1738769659,
+            "original": "~z~Shit, man. I thought you were the streets man. We need to tail him.",
+            "translated": "~z~干，伙计。我还以为你是街道同僚。我们得跟着他。",
+            "desc": ""
+        },
+        {
+            "hash": 1785747170,
+            "original": "~z~Looks like he about to stop yo. You best pull up behind him, man.",
+            "translated": "~z~看来他要停车了。你最好在他后面停下，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 1824239010,
+            "original": "~z~Me, I'm just after the money.",
+            "translated": "~z~我，我只关心钱。",
+            "desc": ""
+        },
+        {
+            "hash": 1843159636,
+            "original": "~z~Everytime the streets is hurt, I hurt inside, man. You cut me deep, man. Get out of here.",
+            "translated": "~z~每次街道受伤，我的心就会更痛，伙计。你深深伤害了我。你走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1850625992,
+            "original": "~z~Yeah, well, you know, sometimes you gotta break some omelets to make some eggs, you know what I'm saying?",
+            "translated": "~z~行，没事，要知道，不经历彩虹怎能见风雨，懂我什么意思吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1859834997,
+            "original": "~z~We're gonna get all these dealers off the streets and we're gonna kick their ass and they're gonna know it was me...",
+            "translated": "~z~赶跑街上的所有毒贩，把他们揍出屎来，人们就知道我的功劳了...",
+            "desc": ""
+        },
+        {
+            "hash": 1865372354,
+            "original": "~z~Yes I am. Turn this way, please?",
+            "translated": "~z~准备好了。往这儿转，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1885429627,
+            "original": "~z~No.",
+            "translated": "~z~不。",
+            "desc": ""
+        },
+        {
+            "hash": 1890769836,
+            "original": "~z~Yo! What the fuck are you doing?",
+            "translated": "~z~哟！你他妈搞毛啊？",
+            "desc": ""
+        },
+        {
+            "hash": 1911518278,
+            "original": "~z~You looked great.",
+            "translated": "~z~你看起来很好。",
+            "desc": ""
+        },
+        {
+            "hash": 1915859594,
+            "original": "290",
+            "translated": "290",
+            "desc": ""
+        },
+        {
+            "hash": 1920850579,
+            "original": "~z~How's my Roman doing, anyway?",
+            "translated": "~z~对了，我的Roman现在怎样？",
+            "desc": ""
+        },
+        {
+            "hash": 1940292447,
+            "original": "~z~I thought you were going to clean up the streets?",
+            "translated": "~z~难道不是你来清理街道吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1945482163,
+            "original": "M1_A_EL",
+            "translated": "M1_A_EL",
+            "desc": ""
+        },
+        {
+            "hash": 1958632146,
+            "original": "~z~You cut them and they bleed. Man, that was good. I should write that down. You got a pen?",
+            "translated": "~z~划上一刀，它也会流血。伙计，这话漂亮，我得先记下来。你有带笔吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1987887396,
+            "original": "~z~That's us, man, only at a street level.",
+            "translated": "~z~那就是我们，伙计，不过我们是街道层面的。",
+            "desc": ""
+        },
+        {
+            "hash": 2009301134,
+            "original": "~z~Of course he's seen us now. Shit, man.",
+            "translated": "~z~现在他能不发现我们吗。操蛋，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 2011660791,
+            "original": "~z~Not really my scene.",
+            "translated": "~z~真不适合我。",
+            "desc": ""
+        },
+        {
+            "hash": 2059791923,
+            "original": "~z~We gotta get some of these dealers off the streets, man, you know?",
+            "translated": "~z~我们得把街上的一些毒贩赶跑，伙计，知道吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2082770347,
+            "original": "M1_HG",
+            "translated": "M1_HG",
+            "desc": ""
+        },
+        {
+            "hash": 2095705343,
+            "original": "~z~Turn that off.",
+            "translated": "~z~给我关了。",
+            "desc": ""
+        },
+        {
+            "hash": 2125526625,
+            "original": "~z~-trying to reform their neighbourhood.~n~-Wait!",
+            "translated": "~z~－试图以此改革他们的街区。~n~－别啊！",
+            "desc": ""
+        },
+        {
+            "hash": 2137319660,
+            "original": "M1_YA",
+            "translated": "M1_YA",
+            "desc": ""
+        },
+        {
+            "hash": 2174191695,
+            "original": "M1_A_DG",
+            "translated": "M1_A_DG",
+            "desc": ""
+        },
+        {
+            "hash": 2177344814,
+            "original": "~z~Only someone who has been to prison gets that close to a man. Hold off, man!",
+            "translated": "~z~只有坐过牢的人才会离男人那么近。拉开点，伙计！",
+            "desc": ""
+        },
+        {
+            "hash": 2178775386,
+            "original": "~z~I love his optimism.",
+            "translated": "~z~我就爱他的乐观。",
+            "desc": ""
+        },
+        {
+            "hash": 2189983575,
+            "original": "~z~Shit, Niko. Don't be a punk!",
+            "translated": "~z~干，Niko。别犯傻逼！",
+            "desc": ""
+        },
+        {
+            "hash": 2191991844,
+            "original": "M1_GD",
+            "translated": "M1_GD",
+            "desc": ""
+        },
+        {
+            "hash": 2195685381,
+            "original": "~z~This is starting to annoy me!",
+            "translated": "~z~存心给我添麻烦是吧！",
+            "desc": ""
+        },
+        {
+            "hash": 2207187261,
+            "original": "~z~Look, I got money. I got... I got money.",
+            "translated": "~z~这样，我出钱。我出钱...我出钱。",
+            "desc": ""
+        },
+        {
+            "hash": 2217550956,
+            "original": "~z~Follow him into that warehouse and get rid of the dealers.",
+            "translated": "~z~跟他进入仓库，再把毒贩都杀掉。",
+            "desc": ""
+        },
+        {
+            "hash": 2220064318,
+            "original": "~z~This is my boyfriend's cousin, the guy I was telling you about, Niko.",
+            "translated": "~z~他是我男朋友的堂弟，之前跟你说的那个Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2230730464,
+            "original": "~z~Cut him up, boys.",
+            "translated": "~z~干掉他，小子们。",
+            "desc": ""
+        },
+        {
+            "hash": 2234650963,
+            "original": "~z~They my people, alright?",
+            "translated": "~z~他们是我的子民，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2235258718,
+            "original": "M1_A_EI",
+            "translated": "M1_A_EI",
+            "desc": ""
+        },
+        {
+            "hash": 2245035448,
+            "original": "~z~And I want them to know it was me, man.",
+            "translated": "~z~我想让人们知道是我赶跑的，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 2250050851,
+            "original": "~z~Oh yeah, yeah, that's a good idea.",
+            "translated": "~z~哦，对，对啊，是个好主意。",
+            "desc": ""
+        },
+        {
+            "hash": 2254406230,
+            "original": "~z~Oh, hey, Niko!",
+            "translated": "~z~噢，嘿，Niko！",
+            "desc": ""
+        },
+        {
+            "hash": 2283307632,
+            "original": "~z~This is the guy I told you about...",
+            "translated": "~z~他就是我跟你讲过的那人...",
+            "desc": ""
+        },
+        {
+            "hash": 2301961073,
+            "original": "~z~Shit, we meant to be keeping this shit on the down low. What you doing getting five-oh on our ass?",
+            "translated": "~z~我靠，我说了要低调做事。你把条子惹上是几个意思？",
+            "desc": ""
+        },
+        {
+            "hash": 2314405179,
+            "original": "~z~I don't know why the people out there want to hurt people man?",
+            "translated": "~z~我不知道为什么这些人会想伤害别人，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 2328038253,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2329317037,
+            "original": "M1_A_DD",
+            "translated": "M1_A_DD",
+            "desc": ""
+        },
+        {
+            "hash": 2335632024,
+            "original": "~z~Philanthropicalism, man, like one of them rich guys who makes computers and cures AIDS and shit.",
+            "translated": "~z~心怀大善，伙计。就像那些造电脑啊、治艾滋啊的有钱人。",
+            "desc": ""
+        },
+        {
+            "hash": 2343980320,
+            "original": "~z~Get some wheels so we can chase this sucker.",
+            "translated": "~z~找辆车子过来，我们好追上这狗逼。",
+            "desc": ""
+        },
+        {
+            "hash": 2346004455,
+            "original": "~z~There he be. We gots to follow him to them other leeches, man.",
+            "translated": "~z~他走了。我们要跟着他找到其他寄生虫，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 2350587470,
+            "original": "~z~You know, when I was stalking this girl in Europe, I found that two car lengths was the best distance.",
+            "translated": "~z~你知道吗，我在欧洲跟踪姑娘的时候，发现两个车距是最好的距离。",
+            "desc": ""
+        },
+        {
+            "hash": 2365826134,
+            "original": "M1_RA",
+            "translated": "M1_RA",
+            "desc": ""
+        },
+        {
+            "hash": 2380871548,
+            "original": "M1_GG",
+            "translated": "M1_GG",
+            "desc": ""
+        },
+        {
+            "hash": 2400175513,
+            "original": "M1_A_BB",
+            "translated": "M1_A_BB",
+            "desc": ""
+        },
+        {
+            "hash": 2417464154,
+            "original": "~z~Okay. And?",
+            "translated": "~z~能懂。所以呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2441653457,
+            "original": "M1_LE",
+            "translated": "M1_LE",
+            "desc": ""
+        },
+        {
+            "hash": 2457975973,
+            "original": "M1_HE",
+            "translated": "M1_HE",
+            "desc": ""
+        },
+        {
+            "hash": 2459746588,
+            "original": "M1_QA",
+            "translated": "M1_QA",
+            "desc": ""
+        },
+        {
+            "hash": 2471211139,
+            "original": "M1_A_DC",
+            "translated": "M1_A_DC",
+            "desc": ""
+        },
+        {
+            "hash": 2482153678,
+            "original": "~z~I can put my foot through your face if you like.",
+            "translated": "~z~你要是想，我可以往你脸上来一脚。",
+            "desc": ""
+        },
+        {
+            "hash": 2489172707,
+            "original": "~z~Last I heard these dealers was up on Grand Boulevard. Let's go take a look, man.",
+            "translated": "~z~我最后一次听说这些毒贩是在Grand大街。~n~我们过去看看，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 2504876110,
+            "original": "~z~Man, it's almost like you want this scum on the streets.",
+            "translated": "~z~伙计，你是存心想让这些人渣在街上害人是吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2522356860,
+            "original": "M1_BA",
+            "translated": "M1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2535736244,
+            "original": "M1_CA",
+            "translated": "M1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2535955644,
+            "original": "100100100010100100100010100100100100100",
+            "translated": "100100100010100100100010100100100100100",
+            "desc": ""
+        },
+        {
+            "hash": 2542253566,
+            "original": "~z~Shit, man. Manny's close to everyone who grew up on the streets of South Bohan, man.",
+            "translated": "~z~我靠，伙计，Manny跟所有在South Bohan的街道长大的人关系都很好，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 2552899051,
+            "original": "~z~They gotta understand the struggles, yeah...",
+            "translated": "~z~他们必须明白有多辛苦，是的...",
+            "desc": ""
+        },
+        {
+            "hash": 2555438485,
+            "original": "~z~Drop the punk.",
+            "translated": "~z~干死丫的。",
+            "desc": ""
+        },
+        {
+            "hash": 2563549349,
+            "original": "M1_AA",
+            "translated": "M1_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2570774059,
+            "original": "M1_PA",
+            "translated": "M1_PA",
+            "desc": ""
+        },
+        {
+            "hash": 2586918050,
+            "original": "~z~You're following him man, not ass raping him. Get back.",
+            "translated": "~z~你是要跟踪他，伙计，不是雷普他。回来。",
+            "desc": ""
+        },
+        {
+            "hash": 2588275533,
+            "original": "M1_A_CA",
+            "translated": "M1_A_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2620591204,
+            "original": "~z~An entrepreneur who's gonna clean this shit up. Money and respect.",
+            "translated": "~z~会把这里收拾干净的企业家。名利双收。",
+            "desc": ""
+        },
+        {
+            "hash": 2627823935,
+            "original": "M1_A_EE",
+            "translated": "M1_A_EE",
+            "desc": ""
+        },
+        {
+            "hash": 2643177053,
+            "original": "~z~Follow don't mean get all up in his shit. It's over.",
+            "translated": "~z~尾随可不是这么个意思。全完了。",
+            "desc": ""
+        },
+        {
+            "hash": 2647984478,
+            "original": "~z~What you doing firing that thing?",
+            "translated": "~z~你开枪是干什么啊？",
+            "desc": ""
+        },
+        {
+            "hash": 2674185990,
+            "original": "~z~They be sucking the damn life out of these streets.",
+            "translated": "~z~他们一直在街上吸食别人的血汗。",
+            "desc": ""
+        },
+        {
+            "hash": 2682805346,
+            "original": "M1_GF",
+            "translated": "M1_GF",
+            "desc": ""
+        },
+        {
+            "hash": 2691030237,
+            "original": "~z~Hey, the message is what's important, man. It don't matter who gives it.",
+            "translated": "~z~嘿，重要的是意思能传达到，伙计。是谁动的手不重要。",
+            "desc": ""
+        },
+        {
+            "hash": 2697057195,
+            "original": "~z~You ever thought about doing some TV? You might be able to get a series off the back of mine, you know?",
+            "translated": "~z~你想过录电视节目吗？~n~等我拍完说不定能给你拍个专题出来，懂吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2703836466,
+            "original": "M1_A_DI",
+            "translated": "M1_A_DI",
+            "desc": ""
+        },
+        {
+            "hash": 2704570038,
+            "original": "M1_A_FA",
+            "translated": "M1_A_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2713175128,
+            "original": "~z~-I don't mind doing that again and again until I get it right.~n~-Oh, oh, easy, easy Niko.",
+            "translated": "~z~－我不介意在教会你之前多这样来几次。~n~－哦，哦，放松，放松，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2754886887,
+            "original": "~z~No, no, not at all. It's a very manly kind of dancing.",
+            "translated": "~z~不，不，完全不像。这种舞姿很男人的。",
+            "desc": ""
+        },
+        {
+            "hash": 2791383239,
+            "original": "M1_HM",
+            "translated": "M1_HM",
+            "desc": ""
+        },
+        {
+            "hash": 2833501158,
+            "original": "~z~Well, that's my testimony, man.",
+            "translated": "~z~镜头是见证者，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 2850080832,
+            "original": "~z~Do I look gay?",
+            "translated": "~z~看着像基佬吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2850769261,
+            "original": "~z~for real, you know what I'm saying?",
+            "translated": "~z~真的，懂我意思吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2865238676,
+            "original": "~z~How we going to clean up these streets if there's cops on us, man? Lose the heat.",
+            "translated": "~z~身后有条子跟着我们还怎么整治街道啊，伙计？摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 2875582707,
+            "original": "~z~Niko Bellic: Street Justice, bro!",
+            "translated": "~z~Niko Bellic：街道正义，老兄！",
+            "desc": ""
+        },
+        {
+            "hash": 2894482251,
+            "original": "~z~Yeah? Great! Listen, Mallorie, would you, uh,",
+            "translated": "~z~是吗？好啊！听着，Mallorie，麻烦你，呃，",
+            "desc": ""
+        },
+        {
+            "hash": 2894684498,
+            "original": "~z~You on crack man? Get away from him.",
+            "translated": "~z~你是吸了毒吗，伙计？离他远点。",
+            "desc": ""
+        },
+        {
+            "hash": 2898316134,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2899816069,
+            "original": "M1_A_EB",
+            "translated": "M1_A_EB",
+            "desc": ""
+        },
+        {
+            "hash": 2919084025,
+            "original": "~z~Best of both worlds, man. I see myself that way, man.",
+            "translated": "~z~两个领域都是最好的，伙计。我觉得我就是这种人，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 2936091640,
+            "original": "M1_A_EA",
+            "translated": "M1_A_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2943666064,
+            "original": "~z~I'm paying you to follow him so do it, man.",
+            "translated": "~z~我花钱让你跟踪他，你就照做，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 2973529816,
+            "original": "M1_CB",
+            "translated": "M1_CB",
+            "desc": ""
+        },
+        {
+            "hash": 2982745986,
+            "original": "~z~I don't think we sent an invitation to this punk. Eject him from the party.",
+            "translated": "~z~我不认为我们给这傻逼发了邀请。把他赶出去。",
+            "desc": ""
+        },
+        {
+            "hash": 2985948133,
+            "original": "M1_HD",
+            "translated": "M1_HD",
+            "desc": ""
+        },
+        {
+            "hash": 3000997966,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3008853904,
+            "original": "M1_HB",
+            "translated": "M1_HB",
+            "desc": ""
+        },
+        {
+            "hash": 3011930101,
+            "original": "~z~Hey did it look good? Huh? Was it a good mixture of that sadness and resolve?",
+            "translated": "~z~嘿，效果还好吗？哈？是不是融悲伤与决心为一体？",
+            "desc": ""
+        },
+        {
+            "hash": 3025230797,
+            "original": "~z~We gonna clean 'em up.",
+            "translated": "~z~我们得收拾他们。",
+            "desc": ""
+        },
+        {
+            "hash": 3032547588,
+            "original": "M1_GK",
+            "translated": "M1_GK",
+            "desc": ""
+        },
+        {
+            "hash": 3034940208,
+            "original": "~z~Do you tell them \"To get famous.\"?",
+            "translated": "~z~是不是直说「为了出名」？",
+            "desc": ""
+        },
+        {
+            "hash": 3064850298,
+            "original": "~z~Fine, just don't point the camera at me when you're doing it.",
+            "translated": "~z~行，你们只管赶，别朝我拍就行。",
+            "desc": ""
+        },
+        {
+            "hash": 3082863487,
+            "original": "~z~I like your vibe, man. I like it. You're out to make money but you want to make a difference too, man.",
+            "translated": "~z~我喜欢你的风格，伙计。我喜欢。赚钱谋生的同时，也想要有所作为，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 3097806510,
+            "original": "M1_HN",
+            "translated": "M1_HN",
+            "desc": ""
+        },
+        {
+            "hash": 3098967024,
+            "original": "M1_LB",
+            "translated": "M1_LB",
+            "desc": ""
+        },
+        {
+            "hash": 3110106833,
+            "original": "M1_A_AB",
+            "translated": "M1_A_AB",
+            "desc": ""
+        },
+        {
+            "hash": 3110409919,
+            "original": "M1_A_BA",
+            "translated": "M1_A_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3126617847,
+            "original": "~z~who beat up all those thugs in Broker?",
+            "translated": "~z~他单枪匹马干翻了Broker的那些暴徒。",
+            "desc": ""
+        },
+        {
+            "hash": 3135995077,
+            "original": "~z~Sure.",
+            "translated": "~z~当然。",
+            "desc": ""
+        },
+        {
+            "hash": 3148672240,
+            "original": "~z~See, it's the streets man, but people gotta understand the struggles...",
+            "translated": "~z~看，街道大家庭。伙计，但各位一定要明白背后的付出...",
+            "desc": ""
+        },
+        {
+            "hash": 3157694987,
+            "original": "~z~He going see you, man.",
+            "translated": "~z~他要发现你了，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 3162075545,
+            "original": "~z~What were you saying?",
+            "translated": "~z~你在说什么啊？",
+            "desc": ""
+        },
+        {
+            "hash": 3166353017,
+            "original": "~z~This dealer's going to see us if we rolling with all this heat, man! You gotta shake the cops, man.",
+            "translated": "~z~这么招摇的话会被毒贩发现的，伙计！你得甩掉警察，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 3169878223,
+            "original": "~z~He going to propose, right? He's going to make an honest woman of her, right?",
+            "translated": "~z~他要求婚，对吧？他会对Mallorie负起责任的，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3172376063,
+            "original": "M1_GL",
+            "translated": "M1_GL",
+            "desc": ""
+        },
+        {
+            "hash": 3208794810,
+            "original": "~z~Yeah, I'm an entrepreneur, man. You got to have some money if people is gonna respect you out there, man.",
+            "translated": "~z~对，我是个企业家，伙计。有钱才能让别人尊重你，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 3222254607,
+            "original": "~z~This boy think he can come up in our shit. Drop him.",
+            "translated": "~z~这个小子认为他能挺住我们的活力。放倒他。",
+            "desc": ""
+        },
+        {
+            "hash": 3227579712,
+            "original": "~z~You look good.",
+            "translated": "~z~形象很好。",
+            "desc": ""
+        },
+        {
+            "hash": 3250812593,
+            "original": "~z~Yeah, well, you know, we gotta clean up some eggs, brother.",
+            "translated": "~z~对，你也知道，我们得收拾些风雨，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3267089195,
+            "original": "~z~Yo, chill on the shooting, man. We trying to keep this shit on the down low.",
+            "translated": "~z~嘿，先别想着开枪，伙计。现在我们得低调一点。",
+            "desc": ""
+        },
+        {
+            "hash": 3291257472,
+            "original": "~z~I'm clean, man. Serene. Fucking serene.",
+            "translated": "~z~我很干净，伙计。清白，一清二白。",
+            "desc": ""
+        },
+        {
+            "hash": 3306860065,
+            "original": "M1_OA",
+            "translated": "M1_OA",
+            "desc": ""
+        },
+        {
+            "hash": 3313344837,
+            "original": "~z~How'd you let him get away? Man, shit",
+            "translated": "~z~你怎么能放跑他呢？伙计，真是。",
+            "desc": ""
+        },
+        {
+            "hash": 3331587762,
+            "original": "100100100010010010100100010",
+            "translated": "100100100010010010100100010",
+            "desc": ""
+        },
+        {
+            "hash": 3333021961,
+            "original": "M1_A_EC",
+            "translated": "M1_A_EC",
+            "desc": ""
+        },
+        {
+            "hash": 3342598874,
+            "original": "~z~Good, good, good. Right over here.",
+            "translated": "~z~好好好，就这样。",
+            "desc": ""
+        },
+        {
+            "hash": 3368286766,
+            "original": "~z~Don't let him shake you.",
+            "translated": "~z~别被他甩掉。",
+            "desc": ""
+        },
+        {
+            "hash": 3390652550,
+            "original": "M1_A_ED",
+            "translated": "M1_A_ED",
+            "desc": ""
+        },
+        {
+            "hash": 3400773324,
+            "original": "~z~People say to me, \"Manny why you do this? Why you want to clean up the streets so bad? What's your passion?\"",
+            "translated": "~z~人们对我说，「Manny，为什么这样做？你怎么这么想整治街区？你的动力是什么？」",
+            "desc": ""
+        },
+        {
+            "hash": 3411862580,
+            "original": "100100010",
+            "translated": "100100010",
+            "desc": ""
+        },
+        {
+            "hash": 3445870263,
+            "original": "~z~What's this fool think he's playing at? Finish him.",
+            "translated": "~z~这傻逼以为在和谁作对？办掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 3453559456,
+            "original": "~z~I didn't know you and Mallorie was that close.",
+            "translated": "~z~你和Mallorie关系有那么好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3464248982,
+            "original": "~z~Stay off him, we need to find them leeches.",
+            "translated": "~z~离他远点，我们得找到那伙寄生虫。",
+            "desc": ""
+        },
+        {
+            "hash": 3477774205,
+            "original": "~z~Cut.",
+            "translated": "~z~－怎么？~n~－好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3481377057,
+            "original": "~z~In which case you've got help.",
+            "translated": "~z~那我就出份力。",
+            "desc": ""
+        },
+        {
+            "hash": 3483116879,
+            "original": "~z~It's two car lengths, right? That's how far you stay behind a woman when you're harassing her?",
+            "translated": "~z~两辆车的距离，对吧？骚扰女人的时候也是这个距离吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3493701954,
+            "original": "M1_A_DF",
+            "translated": "M1_A_DF",
+            "desc": ""
+        },
+        {
+            "hash": 3505717609,
+            "original": "M1_XA",
+            "translated": "M1_XA",
+            "desc": ""
+        },
+        {
+            "hash": 3506501175,
+            "original": "~z~What I seen of it at least.",
+            "translated": "~z~至少我看见的是这样。",
+            "desc": ""
+        },
+        {
+            "hash": 3527045672,
+            "original": "~z~Shit, man. You don't need to fire that thing until we find the rest of those suckers, man.",
+            "translated": "~z~我靠伙计。我们找到其他毒贩之前你没必要开枪。",
+            "desc": ""
+        },
+        {
+            "hash": 3532371774,
+            "original": "~z~Oh, I'm sorry.",
+            "translated": "~z~噢，我真抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 3539840050,
+            "original": "M1_A_DH",
+            "translated": "M1_A_DH",
+            "desc": ""
+        },
+        {
+            "hash": 3541386275,
+            "original": "M1_GE",
+            "translated": "M1_GE",
+            "desc": ""
+        },
+        {
+            "hash": 3561053557,
+            "original": "~z~Wrong warehouse, bitch.",
+            "translated": "~z~走错地儿了，贱货。",
+            "desc": ""
+        },
+        {
+            "hash": 3565087276,
+            "original": "~z~I thought you was going to clean shit up. For me and these streets. For these people man, my people.",
+            "translated": "~z~我以为你会把街道清理干净。为了我和街道，为了这里的人们，伙计，为了我的子民。",
+            "desc": ""
+        },
+        {
+            "hash": 3577807105,
+            "original": "M1_TA",
+            "translated": "M1_TA",
+            "desc": ""
+        },
+        {
+            "hash": 3606266928,
+            "original": "~z~You lost him, man. He probably selling drugs to kids right now.",
+            "translated": "~z~你跟丢他了，伙计。他现在可能在向孩子们卖毒品了。",
+            "desc": ""
+        },
+        {
+            "hash": 3629730327,
+            "original": "~z~I always wanted to be a well-known idiot.",
+            "translated": "~z~确实，我一直想当一个出名的白痴。",
+            "desc": ""
+        },
+        {
+            "hash": 3646335047,
+            "original": "~z~Okay, so here we go then... yeah...",
+            "translated": "~z~好，那就开始吧...嗯...",
+            "desc": ""
+        },
+        {
+            "hash": 3651842572,
+            "original": "~z~-Okay, go.~n~-Yeah, beautiful, beautiful, alright.",
+            "translated": "~z~－好，拍吧。~n~－嗯，完美，完美，行了。",
+            "desc": ""
+        },
+        {
+            "hash": 3665693311,
+            "original": "M1_SA",
+            "translated": "M1_SA",
+            "desc": ""
+        },
+        {
+            "hash": 3674953652,
+            "original": "~z~This boy's got personal space issues, man. Stay back.",
+            "translated": "~z~他也需要有私人空间，伙计。退后点。",
+            "desc": ""
+        },
+        {
+            "hash": 3700278462,
+            "original": "M1_LC",
+            "translated": "M1_LC",
+            "desc": ""
+        },
+        {
+            "hash": 3714626799,
+            "original": "~z~Wh... what do you mean it's no good?",
+            "translated": "~z~很...很不好是什么情况？",
+            "desc": ""
+        },
+        {
+            "hash": 3715116866,
+            "original": "~z~So how do I look, man?",
+            "translated": "~z~我形象如何，伙计？",
+            "desc": ""
+        },
+        {
+            "hash": 3715906528,
+            "original": "~z~-What?~n~-Okay.",
+            "translated": "~z~怎么？",
+            "desc": ""
+        },
+        {
+            "hash": 3720987050,
+            "original": "~z~Apparently the mob teaches people to stay two car lengths behind a target.",
+            "translated": "~z~黑帮都会和要跟踪的目标保持两辆车的距离。",
+            "desc": ""
+        },
+        {
+            "hash": 3730693864,
+            "original": "~z~You got too close, man. He saw us.",
+            "translated": "~z~你跟得太近了，伙计。被他看见了。",
+            "desc": ""
+        },
+        {
+            "hash": 3737595824,
+            "original": "~z~-give us a little space please? Thanks.~n~-Alright, alright...",
+            "translated": "~z~－给我们腾个位置吧？谢了。~n~－好的，好的...",
+            "desc": ""
+        },
+        {
+            "hash": 3746050517,
+            "original": "~z~Man, you hit him. No way we can get the rest of them leeches now!",
+            "translated": "~z~伙计，你撞上他了。现在我们不可能找到其他寄生虫了！",
+            "desc": ""
+        },
+        {
+            "hash": 3782408379,
+            "original": "100011100100100",
+            "translated": "100011100100100",
+            "desc": ""
+        },
+        {
+            "hash": 3782429140,
+            "original": "~z~I don't know if he's grown up enough to make a good husband. What's it to you anyway?",
+            "translated": "~z~我不知道现在他能否当一个好丈夫。不过跟你有什么关系？",
+            "desc": ""
+        },
+        {
+            "hash": 3823851927,
+            "original": "M1_HA",
+            "translated": "M1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3828771338,
+            "original": "~z~You gay or something man? Stay away from his ass.",
+            "translated": "~z~你丫同性恋吗？离他屁股远点。",
+            "desc": ""
+        },
+        {
+            "hash": 3829006129,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3842271197,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3860323926,
+            "original": "~z~You sound like you got something else in your veins.",
+            "translated": "~z~听起来你的血管里不止这点东西。",
+            "desc": ""
+        },
+        {
+            "hash": 3871248043,
+            "original": "~z~Niko, you made a promise to me, man. Your bond is your word, man.",
+            "translated": "~z~Niko，你跟我可说好了，伙计。说话要算数，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 3890067553,
+            "original": "~z~Step on it, man. I need you close to this guy, but not too close. You hear me?",
+            "translated": "~z~快点，伙计。我需要你跟紧他，但也别跟太紧。懂了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3929244398,
+            "original": "M1_A_EJ",
+            "translated": "M1_A_EJ",
+            "desc": ""
+        },
+        {
+            "hash": 3937359430,
+            "original": "~z~-What?~n~-Oh, oh, oh, oh.",
+            "translated": "~z~哦，哦，哦，哦。",
+            "desc": ""
+        },
+        {
+            "hash": 3951217203,
+            "original": "~z~Not really.",
+            "translated": "~z~不太懂。",
+            "desc": ""
+        },
+        {
+            "hash": 3974424642,
+            "original": "100100100100100010010010100100010100",
+            "translated": "100100100100100010010010100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 4025799443,
+            "original": "~z~-These criminals are...~n~-Wait, wait, wait a second.",
+            "translated": "~z~-那些罪犯是...~n~等，等，稍等下。",
+            "desc": ""
+        },
+        {
+            "hash": 4036091870,
+            "original": "~z~Okay, well just keep looking at me, but stand over there, okay?",
+            "translated": "~z~好，你往我这儿看，人往那边站，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 4037739386,
+            "original": "~z~Shit, man. He seen us. He ain't never gonna go to his boys now.",
+            "translated": "~z~该死，伙计，他看见我们了。他不可能去找他的同伙了。",
+            "desc": ""
+        },
+        {
+            "hash": 4042815537,
+            "original": "M1_HF",
+            "translated": "M1_HF",
+            "desc": ""
+        },
+        {
+            "hash": 4050799269,
+            "original": "~z~He stopped at the red.",
+            "translated": "~z~是红灯，他停下了。",
+            "desc": ""
+        },
+        {
+            "hash": 4065386175,
+            "original": "~z~Look, brother, will you help? Please?",
+            "translated": "~z~我说，兄弟，帮个忙？拜托了？",
+            "desc": ""
+        },
+        {
+            "hash": 4073540951,
+            "original": "~z~Shit. He stopped again. Hold back.",
+            "translated": "~z~该死，他又停下了。倒回去。",
+            "desc": ""
+        },
+        {
+            "hash": 4075080771,
+            "original": "290",
+            "translated": "290",
+            "desc": ""
+        },
+        {
+            "hash": 4083013853,
+            "original": "~z~Hey, yeah, yeah, yeah. Whassup, man? Streets, man.",
+            "translated": "~z~嘿，耶，耶，耶。咋样伙计？街道，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 4096752261,
+            "original": "~z~I ain't touched that shit in years. Who you been talking to, man?",
+            "translated": "~z~我好多年没碰那玩意了。你把我当什么人啊，伙计？",
+            "desc": ""
+        },
+        {
+            "hash": 4128248595,
+            "original": "M1_FA",
+            "translated": "M1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 4148567950,
+            "original": "M1_A_DB",
+            "translated": "M1_A_DB",
+            "desc": ""
+        },
+        {
+            "hash": 4157145524,
+            "original": "~z~You know, these streets is mine, man! I can feel them flowing through my veins.",
+            "translated": "~z~知道吗，这片街区是我的，伙计！我能感觉到它在我的血管中流动。",
+            "desc": ""
+        },
+        {
+            "hash": 4163258268,
+            "original": "M1_HL",
+            "translated": "M1_HL",
+            "desc": ""
+        },
+        {
+            "hash": 4172804703,
+            "original": "~z~-The fearsome street warrior stands outside the site of another gangland massacre. Oh...~n~-Yeah... 'sright...",
+            "translated": "~z~－罪犯畏惧的街道战士正站在另一起黑社会大屠杀的现场外。哦...卡。~n~－对...是这样...",
+            "desc": ""
+        },
+        {
+            "hash": 4176081595,
+            "original": "~z~Could you walk out of there just one more time? We need to get the shot just right.",
+            "translated": "~z~你能不能再从里面出来一次？我们拍到这个镜头的时机得合适。",
+            "desc": ""
+        },
+        {
+            "hash": 4177258073,
+            "original": "~z~Let me see you work! This way?",
+            "translated": "~z~出来露一手！这样？",
+            "desc": ""
+        },
+        {
+            "hash": 4194971671,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4197408004,
+            "original": "~z~That guy gets away there'll be more drugs on the street, killing our kids.",
+            "translated": "~z~给那家伙跑了的话街上会有更多毒品的，会害死孩子的。",
+            "desc": ""
+        },
+        {
+            "hash": 4216195284,
+            "original": "~z~Shit, how about that for a title? 'Manny's Street Gospel' man.",
+            "translated": "~z~我靠，要么就叫这名字吧？《Manny的街道福音》，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 4268981153,
+            "original": "~z~-okay, but we want to see you, too.~n~-Just film it, man.",
+            "translated": "~z~－好，但也得拍到你。~n~－直接拍吧，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 4277239517,
+            "original": "~z~Man, I thought you was serious about cleaning up these streets, man.",
+            "translated": "~z~伙计，我还以为你是真的想清理街道。",
+            "desc": ""
+        }
+    ]
+}

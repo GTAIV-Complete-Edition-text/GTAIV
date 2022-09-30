@@ -1,0 +1,1270 @@
+{
+    "PIBAUD": [
+        {
+            "hash": 1147088,
+            "original": "100100010100100100",
+            "translated": "100100010100100100",
+            "desc": ""
+        },
+        {
+            "hash": 15599715,
+            "original": "PIB_RE",
+            "translated": "PIB_RE",
+            "desc": ""
+        },
+        {
+            "hash": 84091887,
+            "original": "~z~The irony is not lost on me, friend.",
+            "translated": "~z~这嘲讽我可不能无视啊，朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 115946894,
+            "original": "PIB_BH",
+            "translated": "PIB_BH",
+            "desc": ""
+        },
+        {
+            "hash": 125563078,
+            "original": "~z~the courage to change the things you can, and the wisdom to know the difference. Right, dude?",
+            "translated": "~z~勇于改变能改变的事物，智于明白差异。",
+            "desc": ""
+        },
+        {
+            "hash": 154177100,
+            "original": "~z~I asked my sponsor to come along but he says this is something I got to do without him.",
+            "translated": "~z~我有请我的赞助人一起来过，不过他说这事我该自己去做。",
+            "desc": ""
+        },
+        {
+            "hash": 156820953,
+            "original": "~z~Are you okay?",
+            "translated": "~z~你还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 164378240,
+            "original": "PIB_GE",
+            "translated": "PIB_GE",
+            "desc": ""
+        },
+        {
+            "hash": 197856392,
+            "original": "PIB_NB",
+            "translated": "PIB_NB",
+            "desc": ""
+        },
+        {
+            "hash": 210715345,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 243667878,
+            "original": "200020",
+            "translated": "200020",
+            "desc": ""
+        },
+        {
+            "hash": 297538583,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 298456944,
+            "original": "PIB_OA",
+            "translated": "PIB_OA",
+            "desc": ""
+        },
+        {
+            "hash": 300293801,
+            "original": "~z~This a real sound investment you making.",
+            "translated": "~z~你做的这笔投资非常划算。",
+            "desc": ""
+        },
+        {
+            "hash": 320784325,
+            "original": "PIB_GF",
+            "translated": "PIB_GF",
+            "desc": ""
+        },
+        {
+            "hash": 345861532,
+            "original": "~z~Go for a walk. If anyone asks, you didn't see my face.",
+            "translated": "~z~自己走吧。有人问起来，就说你没见过我。",
+            "desc": ""
+        },
+        {
+            "hash": 398673947,
+            "original": "~z~Yeah, but this ain't no rock - it's a fucking boulder. This shit's gonna blast me to the moon.",
+            "translated": "~z~拿到了，不过不是普通石头。是块巨石！这玩意能把我炸上月球。",
+            "desc": ""
+        },
+        {
+            "hash": 400220908,
+            "original": "PIB_QA",
+            "translated": "PIB_QA",
+            "desc": ""
+        },
+        {
+            "hash": 418655699,
+            "original": "~z~This is step number nine in the program. I'm making amends to all those I harmed. Expensive process.",
+            "translated": "~z~这是戒毒计划的第九步，我要补偿伤害过的所有人。真是代价高昂。",
+            "desc": ""
+        },
+        {
+            "hash": 430802019,
+            "original": "PIB_JF",
+            "translated": "PIB_JF",
+            "desc": ""
+        },
+        {
+            "hash": 433380369,
+            "original": "PIB_GD",
+            "translated": "PIB_GD",
+            "desc": ""
+        },
+        {
+            "hash": 463829343,
+            "original": "030",
+            "translated": "030",
+            "desc": ""
+        },
+        {
+            "hash": 476208800,
+            "original": "~z~Let's hope this thing isn't too heavy for me to carry by myself. Sick.",
+            "translated": "~z~希望我能抬得动这玩意。操。",
+            "desc": ""
+        },
+        {
+            "hash": 546407293,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 548329512,
+            "original": "~z~Okay.",
+            "translated": "~z~挺好。",
+            "desc": ""
+        },
+        {
+            "hash": 556096567,
+            "original": "~z~Finally, you hit rock bottom and you get help.",
+            "translated": "~z~最后，你撞到了坚硬的谷底，得到了帮助。",
+            "desc": ""
+        },
+        {
+            "hash": 589420421,
+            "original": "~z~I mean, I was a dick. But I'm making up for it.",
+            "translated": "~z~我是说，以前我是个屌人。不过我现在已经在弥补了。",
+            "desc": ""
+        },
+        {
+            "hash": 624188530,
+            "original": "~z~Sure.",
+            "translated": "~z~好。",
+            "desc": ""
+        },
+        {
+            "hash": 644533551,
+            "original": "PIB_KB",
+            "translated": "PIB_KB",
+            "desc": ""
+        },
+        {
+            "hash": 695699461,
+            "original": "PIB_LA",
+            "translated": "PIB_LA",
+            "desc": ""
+        },
+        {
+            "hash": 706804253,
+            "original": "~z~Wait here while I make the deal, dude.",
+            "translated": "~z~我去交易的时候你在这等着，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 712043894,
+            "original": "~z~What's that film where that guy is on a mountain and he gets chased by that huge boulder?",
+            "translated": "~z~主角在山上被大号巨石追的那个片子叫啥名儿来着？",
+            "desc": ""
+        },
+        {
+            "hash": 715789603,
+            "original": "PIB_CE",
+            "translated": "PIB_CE",
+            "desc": ""
+        },
+        {
+            "hash": 718599840,
+            "original": "PIB_MA",
+            "translated": "PIB_MA",
+            "desc": ""
+        },
+        {
+            "hash": 762071754,
+            "original": "~z~These guys are fucking scientists.",
+            "translated": "~z~这些人他妈是科学家。",
+            "desc": ""
+        },
+        {
+            "hash": 772124466,
+            "original": "~z~I mean I'm clean, but I'm still an addict and I can never let my guard down.",
+            "translated": "~z~我是说我干净了，但我还是个瘾君子，不能放松警惕。",
+            "desc": ""
+        },
+        {
+            "hash": 819329944,
+            "original": "~z~It's amazing how low you can get without realizing that you actually have a problem.",
+            "translated": "~z~没意识到自己有问题的时候，一个人能达到的下限之低实在是太神奇了。",
+            "desc": ""
+        },
+        {
+            "hash": 821326634,
+            "original": "~z~Hey, I owe you, man!",
+            "translated": "~z~喂，我欠你的，老哥！",
+            "desc": ""
+        },
+        {
+            "hash": 825596235,
+            "original": "~z~I feel good.",
+            "translated": "~z~我感觉很好。",
+            "desc": ""
+        },
+        {
+            "hash": 831585546,
+            "original": "~z~You were hitting the rocks alright.",
+            "translated": "~z~你不是在嗑石头*吗。~n~(指可卡因)",
+            "desc": ""
+        },
+        {
+            "hash": 853376133,
+            "original": "~z~How you doing?",
+            "translated": "~z~你好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 911667146,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 914291039,
+            "original": "PIB_PA",
+            "translated": "PIB_PA",
+            "desc": ""
+        },
+        {
+            "hash": 930048713,
+            "original": "~z~Thanks for helping me, dude.",
+            "translated": "~z~多谢你帮我，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 933442966,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 952927138,
+            "original": "~z~Awesome.",
+            "translated": "~z~太好了。",
+            "desc": ""
+        },
+        {
+            "hash": 1005060243,
+            "original": "PIB_FD",
+            "translated": "PIB_FD",
+            "desc": ""
+        },
+        {
+            "hash": 1015491658,
+            "original": "~z~You pretty dumb for a banker. You forgot about interest, bitch.",
+            "translated": "~z~作为一个银行家你实在是有点蠢，连利息都忘了，贱人。",
+            "desc": ""
+        },
+        {
+            "hash": 1019402685,
+            "original": "PIB_JB",
+            "translated": "PIB_JB",
+            "desc": ""
+        },
+        {
+            "hash": 1019515260,
+            "original": "PIB_HB",
+            "translated": "PIB_HB",
+            "desc": ""
+        },
+        {
+            "hash": 1027702837,
+            "original": "PIB_RB",
+            "translated": "PIB_RB",
+            "desc": ""
+        },
+        {
+            "hash": 1048298897,
+            "original": "PIB_AA",
+            "translated": "PIB_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1050724557,
+            "original": "~z~This coke is okay.",
+            "translated": "~z~这可卡因够劲。",
+            "desc": ""
+        },
+        {
+            "hash": 1063382709,
+            "original": "~z~Thing's meant to be bigger than my fist.",
+            "translated": "~z~比我拳头还大。",
+            "desc": ""
+        },
+        {
+            "hash": 1068497468,
+            "original": "~z~A good use of your assets and shit.",
+            "translated": "~z~善用了你的资产。",
+            "desc": ""
+        },
+        {
+            "hash": 1080185835,
+            "original": "~z~Stay with your fiancée and keep away from those scumbags, man.",
+            "translated": "~z~和你的未婚妻好好过，离那些小人远点，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1134470603,
+            "original": "PIB_QD",
+            "translated": "PIB_QD",
+            "desc": ""
+        },
+        {
+            "hash": 1161902120,
+            "original": "~z~Take me over to Masterson Street.",
+            "translated": "~z~送我去Masterson街。",
+            "desc": ""
+        },
+        {
+            "hash": 1186145794,
+            "original": "~z~Anyway, that's how I gonna feel when this shit's chasing me round my head.",
+            "translated": "~z~算了，反正这玩意绕着我的脑袋追的时候我就这感觉。",
+            "desc": ""
+        },
+        {
+            "hash": 1186373294,
+            "original": "~z~Hey. Congratulations.",
+            "translated": "~z~嘿，恭喜啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1213563958,
+            "original": "PIB_IA",
+            "translated": "PIB_IA",
+            "desc": ""
+        },
+        {
+            "hash": 1242700647,
+            "original": "~z~What am I seeing, funny guy?",
+            "translated": "~z~你想带我去看什么，有趣的家伙？",
+            "desc": ""
+        },
+        {
+            "hash": 1309117440,
+            "original": "~z~Bigger than a melon, fucking genius!",
+            "translated": "~z~比甜瓜还大，太他娘天才了!",
+            "desc": ""
+        },
+        {
+            "hash": 1317924930,
+            "original": "~z~These injuries are only physical, at least I didn't feel the hunger again.",
+            "translated": "~z~这些伤只是物理上的，至少我没有再感到那种饥渴。",
+            "desc": ""
+        },
+        {
+            "hash": 1331046106,
+            "original": "PIB_RD",
+            "translated": "PIB_RD",
+            "desc": ""
+        },
+        {
+            "hash": 1369910460,
+            "original": "PIB_TB",
+            "translated": "PIB_TB",
+            "desc": ""
+        },
+        {
+            "hash": 1389513735,
+            "original": "PIB_BG",
+            "translated": "PIB_BG",
+            "desc": ""
+        },
+        {
+            "hash": 1453473413,
+            "original": "~z~Please?",
+            "translated": "~z~拜托？",
+            "desc": ""
+        },
+        {
+            "hash": 1464838704,
+            "original": "~z~On Uncle Sam. Benjamin motherfucking Franklin. Freedom.",
+            "translated": "~z~敬山姆大叔。本杰明他妈的富兰克林。自由。",
+            "desc": ""
+        },
+        {
+            "hash": 1489159141,
+            "original": "200200200200",
+            "translated": "200200200200",
+            "desc": ""
+        },
+        {
+            "hash": 1490752333,
+            "original": "PIB_JC",
+            "translated": "PIB_JC",
+            "desc": ""
+        },
+        {
+            "hash": 1502891245,
+            "original": "PIB_SA",
+            "translated": "PIB_SA",
+            "desc": ""
+        },
+        {
+            "hash": 1537457802,
+            "original": "~z~Something your eyes will never believe. The ninth wonder of the modern world, my friend.",
+            "translated": "~z~你的眼睛永远不会相信的东西。~n~世界第九大奇迹，我的朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 1566789685,
+            "original": "PIB_FE",
+            "translated": "PIB_FE",
+            "desc": ""
+        },
+        {
+            "hash": 1586851942,
+            "original": "~z~Trust the higher power... trust the HP.",
+            "translated": "~z~相信上等力量...相信上苍。",
+            "desc": ""
+        },
+        {
+            "hash": 1593374154,
+            "original": "PIB_KA",
+            "translated": "PIB_KA",
+            "desc": ""
+        },
+        {
+            "hash": 1614593119,
+            "original": "~z~That said, it's a lot harder to ask people to write off the emotional debts than the financial ones...",
+            "translated": "~z~据说，想把人情债一笔勾销可比钱的债难多了...",
+            "desc": ""
+        },
+        {
+            "hash": 1624224144,
+            "original": "~z~Gonna last me weeks.",
+            "translated": "~z~够我撑好几个星期了。",
+            "desc": ""
+        },
+        {
+            "hash": 1625171349,
+            "original": "PIB_EA",
+            "translated": "PIB_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1626828801,
+            "original": "PIB_BF",
+            "translated": "PIB_BF",
+            "desc": ""
+        },
+        {
+            "hash": 1673468576,
+            "original": "~z~I do, dude. I do.",
+            "translated": "~z~我会的，哥们。我会的。",
+            "desc": ""
+        },
+        {
+            "hash": 1681313635,
+            "original": "~z~They're over on Onion, just off Asparagus Avenue.",
+            "translated": "~z~他们在Onion街上，就是Asparagus大道那边。",
+            "desc": ""
+        },
+        {
+            "hash": 1685576240,
+            "original": "~z~Would you come with me? I hate to ask, but I'm afraid the temptation might get to me.",
+            "translated": "~z~你能一起来吗？我讨厌求人，不过又害怕自己经不住诱惑。",
+            "desc": ""
+        },
+        {
+            "hash": 1696874401,
+            "original": "~z~Take me back to my place on Wappinger.",
+            "translated": "~z~送我回Wappinger的住处吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1701070244,
+            "original": "~z~Mos def.",
+            "translated": "~z~板上钉钉。",
+            "desc": ""
+        },
+        {
+            "hash": 1715590814,
+            "original": "PIB_FC",
+            "translated": "PIB_FC",
+            "desc": ""
+        },
+        {
+            "hash": 1727595725,
+            "original": "~z~when you're giving blowjobs at ten bucks a pop, so you can score your next rock.",
+            "translated": "~z~想想你十块钱就给人口一次，然后才能买下一块石头的时候。",
+            "desc": ""
+        },
+        {
+            "hash": 1745740124,
+            "original": "~z~Listen... I gotta go pay off one of my dealers. Make things right.",
+            "translated": "~z~听着...我要去跟我的一个卖家结账。让事情走上正轨。",
+            "desc": ""
+        },
+        {
+            "hash": 1750756004,
+            "original": "~z~I'm out of the tunnel now though.",
+            "translated": "~z~不过我现在已经出坑了。",
+            "desc": ""
+        },
+        {
+            "hash": 1790824805,
+            "original": "~z~Do not mention it.",
+            "translated": "~z~不客气。",
+            "desc": ""
+        },
+        {
+            "hash": 1913861960,
+            "original": "~z~At least I won't have to put myself in that position again.",
+            "translated": "~z~至少我不会再把自己逼到那个境地了。",
+            "desc": ""
+        },
+        {
+            "hash": 1940002570,
+            "original": "PIB_CG",
+            "translated": "PIB_CG",
+            "desc": ""
+        },
+        {
+            "hash": 1945540780,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1956909814,
+            "original": "PIB_GC",
+            "translated": "PIB_GC",
+            "desc": ""
+        },
+        {
+            "hash": 1969719908,
+            "original": "PIB_MB",
+            "translated": "PIB_MB",
+            "desc": ""
+        },
+        {
+            "hash": 2006382208,
+            "original": "~z~I reckon every rock of crack has a gravitational pull for you, buddy.",
+            "translated": "~z~我觉得所有可卡因结晶都对你有引力，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 2053843889,
+            "original": "~z~And I have an Ivy League education...",
+            "translated": "~z~亏我还是常春藤毕业的...",
+            "desc": ""
+        },
+        {
+            "hash": 2054564715,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 2063080454,
+            "original": "PIB_GB",
+            "translated": "PIB_GB",
+            "desc": ""
+        },
+        {
+            "hash": 2089543684,
+            "original": "~z~I like your style, dude. I like your fucking style.",
+            "translated": "~z~我喜欢你的风格，哥们。我太他妈喜欢你的风格了。",
+            "desc": ""
+        },
+        {
+            "hash": 2111442168,
+            "original": "~z~Hey, apology accepted. Don't worry about it.",
+            "translated": "~z~嘿，你的道歉我接受了。不用担心。",
+            "desc": ""
+        },
+        {
+            "hash": 2116104993,
+            "original": "~z~Sure - the crack smoking American dream.",
+            "translated": "~z~当然记得，吸可卡因的那个美国梦。",
+            "desc": ""
+        },
+        {
+            "hash": 2130563446,
+            "original": "PIB_DA",
+            "translated": "PIB_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2132239164,
+            "original": "100100010100010100100",
+            "translated": "100100010100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2161608945,
+            "original": "~z~known to man, this thing is meant to be so fucking big,",
+            "translated": "~z~最大的可卡因结晶了，这玩意可太他妈大了。",
+            "desc": ""
+        },
+        {
+            "hash": 2237786590,
+            "original": "PIB_JA",
+            "translated": "PIB_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2250742865,
+            "original": "PIB_FA",
+            "translated": "PIB_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2258445777,
+            "original": "~z~Did you get it?",
+            "translated": "~z~拿到货了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2274302563,
+            "original": "PIB_TD",
+            "translated": "PIB_TD",
+            "desc": ""
+        },
+        {
+            "hash": 2277740910,
+            "original": "010100100010100100",
+            "translated": "010100100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2284559111,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2346060753,
+            "original": "~z~I've got enough friends.",
+            "translated": "~z~我朋友够多了。",
+            "desc": ""
+        },
+        {
+            "hash": 2356476768,
+            "original": "PIB_JD",
+            "translated": "PIB_JD",
+            "desc": ""
+        },
+        {
+            "hash": 2388315591,
+            "original": "PIB_CF",
+            "translated": "PIB_CF",
+            "desc": ""
+        },
+        {
+            "hash": 2397146291,
+            "original": "~z~Or you could just smoke it all at once?",
+            "translated": "~z~要么直接整块敲碎爽一次？",
+            "desc": ""
+        },
+        {
+            "hash": 2421348228,
+            "original": "~z~I'm clean, man... what a ride.",
+            "translated": "~z~我已经干净了，老哥...好一次经历。",
+            "desc": ""
+        },
+        {
+            "hash": 2443668263,
+            "original": "~z~That's them. Do you mind waiting here?",
+            "translated": "~z~是他们了。能麻烦你在这等着吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2445647643,
+            "original": "~z~You're a dick.",
+            "translated": "~z~你个屌人。",
+            "desc": ""
+        },
+        {
+            "hash": 2458725468,
+            "original": "~z~it has its own gravitational pull - no fucking shit!",
+            "translated": "~z~甚至有自己的引力，不是胡扯！",
+            "desc": ""
+        },
+        {
+            "hash": 2507865623,
+            "original": "~z~You've got a second chance here.",
+            "translated": "~z~这是你的又一个机会。",
+            "desc": ""
+        },
+        {
+            "hash": 2513266725,
+            "original": "J4_JA",
+            "translated": "J4_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2541043807,
+            "original": "PIB_QF",
+            "translated": "PIB_QF",
+            "desc": ""
+        },
+        {
+            "hash": 2550180838,
+            "original": "~z~my problem hurt a lot of people.",
+            "translated": "~z~我的问题伤害了很多人。",
+            "desc": ""
+        },
+        {
+            "hash": 2557617506,
+            "original": "~z~This your place?",
+            "translated": "~z~你住这儿？",
+            "desc": ""
+        },
+        {
+            "hash": 2586499451,
+            "original": "PIB_GG",
+            "translated": "PIB_GG",
+            "desc": ""
+        },
+        {
+            "hash": 2611914577,
+            "original": "~z~So, what are you showing me?",
+            "translated": "~z~你打算给我看什么？",
+            "desc": ""
+        },
+        {
+            "hash": 2640593418,
+            "original": "~z~This suspense is killing me.",
+            "translated": "~z~再吊我胃口我就要被吊死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2654480046,
+            "original": "PIB_CH",
+            "translated": "PIB_CH",
+            "desc": ""
+        },
+        {
+            "hash": 2675259227,
+            "original": "PIB_RF",
+            "translated": "PIB_RF",
+            "desc": ""
+        },
+        {
+            "hash": 2709150137,
+            "original": "~z~Come with me, I got something to show you.",
+            "translated": "~z~跟我来，我有东西给你看。",
+            "desc": ""
+        },
+        {
+            "hash": 2718956286,
+            "original": "~z~Yeah. You look good.",
+            "translated": "~z~确实。你看着挺好的。",
+            "desc": ""
+        },
+        {
+            "hash": 2739340339,
+            "original": "PIB_CB",
+            "translated": "PIB_CB",
+            "desc": ""
+        },
+        {
+            "hash": 2820582143,
+            "original": "210190",
+            "translated": "210190",
+            "desc": ""
+        },
+        {
+            "hash": 2853216597,
+            "original": "010100100100100010",
+            "translated": "010100100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 2884701265,
+            "original": "PIB_KD",
+            "translated": "PIB_KD",
+            "desc": ""
+        },
+        {
+            "hash": 2892482755,
+            "original": "~z~Dude, this is meant to be the biggest rock in the world.",
+            "translated": "~z~哥们，这应该是世界上最大的石头*了。~n~(可卡因的代称)",
+            "desc": ""
+        },
+        {
+            "hash": 2909427300,
+            "original": "~z~Tell you what, have a hundred bucks.",
+            "translated": "~z~没想到吧，给你一百块。",
+            "desc": ""
+        },
+        {
+            "hash": 2910063757,
+            "original": "PIB_BA",
+            "translated": "PIB_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2913538660,
+            "original": "PIB_HA",
+            "translated": "PIB_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2937251175,
+            "original": "~z~You are about to see the biggest rock of crack",
+            "translated": "~z~马上你就要见到人类已知的",
+            "desc": ""
+        },
+        {
+            "hash": 2938419787,
+            "original": "~z~Thanks, dude. I'm glad you were here for me.",
+            "translated": "~z~谢了，哥们。很高兴你能陪我。",
+            "desc": ""
+        },
+        {
+            "hash": 2972329655,
+            "original": "~z~If you know what's good for you, you will get out of here.",
+            "translated": "~z~要是你知道什么是好的，你就该离开这儿了。",
+            "desc": ""
+        },
+        {
+            "hash": 2972642751,
+            "original": "PIB_FF",
+            "translated": "PIB_FF",
+            "desc": ""
+        },
+        {
+            "hash": 2994495709,
+            "original": "~z~Could be.",
+            "translated": "~z~大概吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3031237104,
+            "original": "~z~I don't know.",
+            "translated": "~z~不知道。",
+            "desc": ""
+        },
+        {
+            "hash": 3049751127,
+            "original": "~z~Right. And you're definitely having a lot of fun.",
+            "translated": "~z~对。你肯定是享了一大堆的乐。",
+            "desc": ""
+        },
+        {
+            "hash": 3053817900,
+            "original": "PIB_BE",
+            "translated": "PIB_BE",
+            "desc": ""
+        },
+        {
+            "hash": 3058467685,
+            "original": "~z~Hey, I remember you. You're the comrade guy. The guy with all the jokes?",
+            "translated": "~z~嘿，我认识你。你就是那个同志男，讲了一堆笑话的那个？",
+            "desc": ""
+        },
+        {
+            "hash": 3113607787,
+            "original": "PIB_NA",
+            "translated": "PIB_NA",
+            "desc": ""
+        },
+        {
+            "hash": 3121990353,
+            "original": "PIB_JG",
+            "translated": "PIB_JG",
+            "desc": ""
+        },
+        {
+            "hash": 3130323129,
+            "original": "~z~I'm a rich dick, friend. I'm young, and rich and loaded.",
+            "translated": "~z~是有钱的屌人，朋友。我年轻，有钱，超有钱。",
+            "desc": ""
+        },
+        {
+            "hash": 3135619980,
+            "original": "010100100100010010100",
+            "translated": "010100100100010010100",
+            "desc": ""
+        },
+        {
+            "hash": 3227664201,
+            "original": "PIB_CA",
+            "translated": "PIB_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3228107478,
+            "original": "PIB_RA",
+            "translated": "PIB_RA",
+            "desc": ""
+        },
+        {
+            "hash": 3281650371,
+            "original": "~z~Good! Yes comrade, I am doing good. There is no \"I\", there is only \"we\" - it is a glorious system, comrade.",
+            "translated": "~z~很好！对了同志，我最近很好。没有小「我」，只有大「我」。是个光荣的体系，同志。",
+            "desc": ""
+        },
+        {
+            "hash": 3289262395,
+            "original": "~z~Thanks for everything, here's a token of my gratitude. Stay safe.",
+            "translated": "~z~万分感谢，小小心意不成敬意。注意安全。",
+            "desc": ""
+        },
+        {
+            "hash": 3303252573,
+            "original": "~z~Shit dude, I should remember this.",
+            "translated": "~z~靠，哥们，我应该是记得的。",
+            "desc": ""
+        },
+        {
+            "hash": 3330276335,
+            "original": "~z~Excess is never excessive.",
+            "translated": "~z~过量是不会嫌多的。",
+            "desc": ""
+        },
+        {
+            "hash": 3334142324,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 3349124548,
+            "original": "PIB_FB",
+            "translated": "PIB_FB",
+            "desc": ""
+        },
+        {
+            "hash": 3359188794,
+            "original": "~z~Oh, yeah... how time flies... when you're having fun...",
+            "translated": "~z~噢，对...享乐的时候...时间飞逝啊...",
+            "desc": ""
+        },
+        {
+            "hash": 3363710920,
+            "original": "~z~That's nice. That's real nice.",
+            "translated": "~z~那就好，真的是好。",
+            "desc": ""
+        },
+        {
+            "hash": 3422940345,
+            "original": "PIB_DB",
+            "translated": "PIB_DB",
+            "desc": ""
+        },
+        {
+            "hash": 3456612799,
+            "original": "PIB_QE",
+            "translated": "PIB_QE",
+            "desc": ""
+        },
+        {
+            "hash": 3491126020,
+            "original": "PIB_QB",
+            "translated": "PIB_QB",
+            "desc": ""
+        },
+        {
+            "hash": 3514420456,
+            "original": "PIB_BB",
+            "translated": "PIB_BB",
+            "desc": ""
+        },
+        {
+            "hash": 3541531128,
+            "original": "~z~Dude, take me over to Wappinger and Hardin.",
+            "translated": "~z~哥们，送我去Wappinger和Hardin的路口。",
+            "desc": ""
+        },
+        {
+            "hash": 3549257208,
+            "original": "~z~Good.",
+            "translated": "~z~挺好。",
+            "desc": ""
+        },
+        {
+            "hash": 3564477714,
+            "original": "010100100100100100010100",
+            "translated": "010100100100100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 3567018006,
+            "original": "~z~I sank as far as a man can sink...",
+            "translated": "~z~人能有多沉沦我都沉下去过了...",
+            "desc": ""
+        },
+        {
+            "hash": 3607701921,
+            "original": "~z~Good. Thank you very much.",
+            "translated": "~z~挺好。谢谢你。",
+            "desc": ""
+        },
+        {
+            "hash": 3611517397,
+            "original": "PIB_KE",
+            "translated": "PIB_KE",
+            "desc": ""
+        },
+        {
+            "hash": 3618610766,
+            "original": "~z~Fuck yeah, invested my whole severance pay in this baby.",
+            "translated": "~z~太他妈划算了，我的解雇费都花在这宝贝上了。",
+            "desc": ""
+        },
+        {
+            "hash": 3630776853,
+            "original": "~z~But I'm over that now. I'm engaged!",
+            "translated": "~z~不过现在不会了。我要结婚了！",
+            "desc": ""
+        },
+        {
+            "hash": 3649996674,
+            "original": "PIB_JE",
+            "translated": "PIB_JE",
+            "desc": ""
+        },
+        {
+            "hash": 3654044256,
+            "original": "~z~Listen, dude, you wanna make a quick buck?",
+            "translated": "~z~听着，哥们，你想赚快钱吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3655967426,
+            "original": "~z~You negotiate a good deal on that thing?",
+            "translated": "~z~这次交易还划算吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3686494574,
+            "original": "PIB_QC",
+            "translated": "PIB_QC",
+            "desc": ""
+        },
+        {
+            "hash": 3710567197,
+            "original": "PIB_RG",
+            "translated": "PIB_RG",
+            "desc": ""
+        },
+        {
+            "hash": 3738017650,
+            "original": "~z~You have to have the serenity to accept the things you cannot change,",
+            "translated": "~z~应当平和对待那些无法改变的事物，",
+            "desc": ""
+        },
+        {
+            "hash": 3766238166,
+            "original": "~z~Yo, Mr. Banker-man.",
+            "translated": "~z~哟，银行家先生。",
+            "desc": ""
+        },
+        {
+            "hash": 3767788632,
+            "original": "PIB_BD",
+            "translated": "PIB_BD",
+            "desc": ""
+        },
+        {
+            "hash": 3812445766,
+            "original": "PIB_TC",
+            "translated": "PIB_TC",
+            "desc": ""
+        },
+        {
+            "hash": 3828104320,
+            "original": "~z~You here to make friends too?",
+            "translated": "~z~你也是来交朋友的？",
+            "desc": ""
+        },
+        {
+            "hash": 3831019688,
+            "original": "~z~Sure it will.",
+            "translated": "~z~必须的。",
+            "desc": ""
+        },
+        {
+            "hash": 3837216005,
+            "original": "~z~How you doing?",
+            "translated": "~z~你好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3845473785,
+            "original": "~z~You're excused, comrade. You're excused, now go and mine salt for fifty years...",
+            "translated": "~z~没事了，同志。你可以走了，去挖五十年盐矿吧...",
+            "desc": ""
+        },
+        {
+            "hash": 3851386189,
+            "original": "PIB_KF",
+            "translated": "PIB_KF",
+            "desc": ""
+        },
+        {
+            "hash": 3869524421,
+            "original": "~z~Yeah sorta... no. It doesn't matter. Here's some dolla. Appreciate the ride.",
+            "translated": "~z~算是吧...不是。这不重要。钱你拿去，谢谢接送。",
+            "desc": ""
+        },
+        {
+            "hash": 3903341133,
+            "original": "010100010100100100010",
+            "translated": "010100010100100100010",
+            "desc": ""
+        },
+        {
+            "hash": 3906897903,
+            "original": "PIB_KC",
+            "translated": "PIB_KC",
+            "desc": ""
+        },
+        {
+            "hash": 3922647469,
+            "original": "PIB_TA",
+            "translated": "PIB_TA",
+            "desc": ""
+        },
+        {
+            "hash": 3933271746,
+            "original": "PIB_BC",
+            "translated": "PIB_BC",
+            "desc": ""
+        },
+        {
+            "hash": 3940551837,
+            "original": "~z~Hey, man! Remember me?",
+            "translated": "~z~嘿，老哥！记得我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3945940307,
+            "original": "~z~I could chisel off a bit of this every day for a month and it would still be huge.",
+            "translated": "~z~每天敲一小块下来，过一个月还是超大。",
+            "desc": ""
+        },
+        {
+            "hash": 3958042269,
+            "original": "~z~No doubt.",
+            "translated": "~z~毫无疑问。",
+            "desc": ""
+        },
+        {
+            "hash": 3961600529,
+            "original": "~z~That is a healthy attitude.",
+            "translated": "~z~很健康的态度啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3977460733,
+            "original": "~z~Step nine's a tough one. Not everyone wants you to get better. I'll talk about it in group.",
+            "translated": "~z~第九步很难完成，不是所有人都想你变好的。我会去组里面讨论的。",
+            "desc": ""
+        },
+        {
+            "hash": 4004736681,
+            "original": "~z~Jesus. What a disgrace.",
+            "translated": "~z~天哪，太丢脸了。",
+            "desc": ""
+        },
+        {
+            "hash": 4020014605,
+            "original": "PIB_CD",
+            "translated": "PIB_CD",
+            "desc": ""
+        },
+        {
+            "hash": 4060571730,
+            "original": "PIB_RC",
+            "translated": "PIB_RC",
+            "desc": ""
+        },
+        {
+            "hash": 4068728982,
+            "original": "~z~Excuse me?",
+            "translated": "~z~你说什么？",
+            "desc": ""
+        },
+        {
+            "hash": 4129053743,
+            "original": "~z~Bidding war was fierce dude. Like being on the trading floor... yeah! Hah!",
+            "translated": "~z~竞拍战很激烈的，哥们。就像站在交易大厅...耶！哈！",
+            "desc": ""
+        },
+        {
+            "hash": 4139550562,
+            "original": "~z~Addiction stole everything I had from me, it was a wild ride.",
+            "translated": "~z~毒瘾偷走了我的一切，太疯狂了。",
+            "desc": ""
+        },
+        {
+            "hash": 4199110249,
+            "original": "~z~Are you upset that you couldn't make amends?",
+            "translated": "~z~没能补偿他们你伤心吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4209203093,
+            "original": "~z~I mean that makes sense, I just can't always live it...",
+            "translated": "~z~对吧，哥们？话是合情合理，我就是坚持不了。",
+            "desc": ""
+        },
+        {
+            "hash": 4221208695,
+            "original": "~z~I was a loud mouthed dick and I apologize.",
+            "translated": "~z~我以前是个大嘴屌人，现在我道歉。",
+            "desc": ""
+        },
+        {
+            "hash": 4237649945,
+            "original": "~z~Worth every fucking penny.",
+            "translated": "~z~每一分钱都他妈是超值。",
+            "desc": ""
+        },
+        {
+            "hash": 4266148082,
+            "original": "~z~I don't want to hurt you, so go. Get lost. Okay?",
+            "translated": "~z~我不想伤害你，走吧。躲远点，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 4275212591,
+            "original": "010100100100010100100",
+            "translated": "010100100100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 4291897094,
+            "original": "PIB_GA",
+            "translated": "PIB_GA",
+            "desc": ""
+        }
+    ]
+}

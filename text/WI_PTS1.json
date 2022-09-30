@@ -1,0 +1,28 @@
+{
+    "WI_PTS1": [
+        {
+            "hash": 789448268,
+            "original": "Take out the ~r~men~s~ that are hassling Pathos.",
+            "translated": "干掉~r~骚扰Pathos的人。",
+            "desc": ""
+        },
+        {
+            "hash": 1354090907,
+            "original": "~r~Pathos is dead.",
+            "translated": "~r~Pathos死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1643932712,
+            "original": "~r~You injured Pathos.",
+            "translated": "~r~你伤害了Pathos。",
+            "desc": ""
+        },
+        {
+            "hash": 3405575486,
+            "original": "You're losing ~b~Pathos.",
+            "translated": "你要失去~b~Pathos~s~了。",
+            "desc": ""
+        }
+    ]
+}

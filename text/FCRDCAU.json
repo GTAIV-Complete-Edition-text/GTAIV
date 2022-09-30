@@ -1,0 +1,850 @@
+{
+    "FCRDCAU": [
+        {
+            "hash": 18012751,
+            "original": "FCR3_DRUNK2_IA",
+            "translated": "FCR3_DRUNK2_IA",
+            "desc": ""
+        },
+        {
+            "hash": 24861255,
+            "original": "~z~What did that scumbag think he was staring at?",
+            "translated": "~z~那个混蛋以为自己看谁呢？",
+            "desc": ""
+        },
+        {
+            "hash": 49125849,
+            "original": "~z~I think someone put something in my drink. Evil people do it to women they wish to take advantage of.",
+            "translated": "~z~我觉得有人在我的酒里掺了东西。恶人想占女人便宜的时候就会这么做。",
+            "desc": ""
+        },
+        {
+            "hash": 61971910,
+            "original": "FCR3_DRUNK5_SN",
+            "translated": "FCR3_DRUNK5_SN",
+            "desc": ""
+        },
+        {
+            "hash": 108087797,
+            "original": "~z~I'm a beast. I eat! I sleep! I fuck! I drink!",
+            "translated": "~z~我是个野兽。我吃！我睡！我操！我喝！",
+            "desc": ""
+        },
+        {
+            "hash": 141141328,
+            "original": "~z~I have a good feeling in my gut. There is money to be won, Niko.",
+            "translated": "~z~直觉告诉我现在正是时候，有钱等着我赢，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 160309950,
+            "original": "FCR3_DRUNK3_JK",
+            "translated": "FCR3_DRUNK3_JK",
+            "desc": ""
+        },
+        {
+            "hash": 190854799,
+            "original": "~z~Not that tree... the tree of life.",
+            "translated": "~z~不是那个树...是人生之树。",
+            "desc": ""
+        },
+        {
+            "hash": 194723984,
+            "original": "~z~That is no excuse for giving it to Mallorie, Niko.",
+            "translated": "~z~替睡Mallorie这件事找借口是没用的，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 263695861,
+            "original": "FCR3_DRUNK3_JP",
+            "translated": "FCR3_DRUNK3_JP",
+            "desc": ""
+        },
+        {
+            "hash": 266698650,
+            "original": "FCR3_DRUNK1_HD",
+            "translated": "FCR3_DRUNK1_HD",
+            "desc": ""
+        },
+        {
+            "hash": 280052527,
+            "original": "FCR3_DRUNK4_DH",
+            "translated": "FCR3_DRUNK4_DH",
+            "desc": ""
+        },
+        {
+            "hash": 290111149,
+            "original": "FCR3_DRUNK5_SK",
+            "translated": "FCR3_DRUNK5_SK",
+            "desc": ""
+        },
+        {
+            "hash": 322124388,
+            "original": "~z~What? What is spiked?",
+            "translated": "~z~什么？什么被下药了？",
+            "desc": ""
+        },
+        {
+            "hash": 340066266,
+            "original": "~z~I'm a continental lager, he's just a domestic brew.",
+            "translated": "~z~我是欧陆拉格啤酒，他就是个国产杂牌啤酒。",
+            "desc": ""
+        },
+        {
+            "hash": 402706005,
+            "original": "FCR3_DRUNK5_SM",
+            "translated": "FCR3_DRUNK5_SM",
+            "desc": ""
+        },
+        {
+            "hash": 424620554,
+            "original": "~z~About games of chance, about hard work and opportunity, about pleasuring women -",
+            "translated": "~z~学习运气游戏，学习努力与机遇，学习取悦女人。",
+            "desc": ""
+        },
+        {
+            "hash": 436126663,
+            "original": "100010100010100010100100100010100010100010",
+            "translated": "100010100010100010100100100010100010100010",
+            "desc": ""
+        },
+        {
+            "hash": 496851721,
+            "original": "~z~Oh, that tree. Stop talking shit.",
+            "translated": "~z~噢，那个树。别胡扯了。",
+            "desc": ""
+        },
+        {
+            "hash": 509759682,
+            "original": "~z~Firstly, I wasn't in the fucking merchant navy.",
+            "translated": "~z~首先，我没去过什么狗屁商船队。",
+            "desc": ""
+        },
+        {
+            "hash": 571567484,
+            "original": "~z~You're drunk, Roman.",
+            "translated": "~z~你喝醉了，Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 616979977,
+            "original": "~z~No I need to place some bets. I'm feeling lucky.",
+            "translated": "~z~不是，我得去下几注。我感觉现在运气很好。",
+            "desc": ""
+        },
+        {
+            "hash": 669717364,
+            "original": "FCR3_DRUNK4_DE",
+            "translated": "FCR3_DRUNK4_DE",
+            "desc": ""
+        },
+        {
+            "hash": 793851382,
+            "original": "~z~She wouldn't be able to resist you, Roman.",
+            "translated": "~z~他老婆肯定抗拒不了你的，Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 816479948,
+            "original": "FCR3_DRUNK5_SL",
+            "translated": "FCR3_DRUNK5_SL",
+            "desc": ""
+        },
+        {
+            "hash": 816903519,
+            "original": "~z~And which nice sailor in there do you think wanted to take advantage of you, pretty lady?",
+            "translated": "~z~那你觉得是里面的哪个水手想占你便宜呢，漂亮女士？",
+            "desc": ""
+        },
+        {
+            "hash": 858454738,
+            "original": "~z~You're lucky to be conscious you drunk so much.",
+            "translated": "~z~喝了那么多还能保持清醒就很走运了。",
+            "desc": ""
+        },
+        {
+            "hash": 880453127,
+            "original": "~z~You vomit, you cry, you read self help books. You are all man, Roman!",
+            "translated": "~z~你呕吐，你大哭，你会读鸡汤书。你完全是个人，Roman！",
+            "desc": ""
+        },
+        {
+            "hash": 884688819,
+            "original": "FCR3_DRUNK1_HN",
+            "translated": "FCR3_DRUNK1_HN",
+            "desc": ""
+        },
+        {
+            "hash": 887246091,
+            "original": "FCR3_DRUNK1_HC",
+            "translated": "FCR3_DRUNK1_HC",
+            "desc": ""
+        },
+        {
+            "hash": 942414199,
+            "original": "~z~A wild fucking animal. Ask any woman! Ask Mallorie!",
+            "translated": "~z~狂野的禽兽。不信找个女人问问！问问Mallorie！",
+            "desc": ""
+        },
+        {
+            "hash": 945647307,
+            "original": "100010100100010100100100010010100100010",
+            "translated": "100010100100010100100100010010100100010",
+            "desc": ""
+        },
+        {
+            "hash": 948378145,
+            "original": "~z~I am an animal. I am the beast. The beast.",
+            "translated": "~z~我是头禽兽。是只野兽。是野兽。",
+            "desc": ""
+        },
+        {
+            "hash": 999623463,
+            "original": "~z~I'm sober. I had a lot to drink, but I'm straight sober.",
+            "translated": "~z~我很清醒。虽然喝了一大堆，但我还很清醒。",
+            "desc": ""
+        },
+        {
+            "hash": 1065456515,
+            "original": "~z~If I was a betting man, Roman, which I'm not.",
+            "translated": "~z~要是我是个赌鬼，Roman，虽然并不是。",
+            "desc": ""
+        },
+        {
+            "hash": 1090148668,
+            "original": "~z~you'll learn a hell of a lot.",
+            "translated": "~z~你能学到一大坨。",
+            "desc": ""
+        },
+        {
+            "hash": 1093551922,
+            "original": "FCR3_DRUNK4_DF",
+            "translated": "FCR3_DRUNK4_DF",
+            "desc": ""
+        },
+        {
+            "hash": 1169451069,
+            "original": "FCR3_DRUNK2_IE",
+            "translated": "FCR3_DRUNK2_IE",
+            "desc": ""
+        },
+        {
+            "hash": 1188065919,
+            "original": "FCR3_DRUNK1_HH",
+            "translated": "FCR3_DRUNK1_HH",
+            "desc": ""
+        },
+        {
+            "hash": 1216374868,
+            "original": "~z~Not many women can, not many can...",
+            "translated": "~z~很少有女人能，很少...",
+            "desc": ""
+        },
+        {
+            "hash": 1227832247,
+            "original": "~z~The woman of my dreams. My own cousin is thinking about her firm sweet titties.",
+            "translated": "~z~我的梦中情人。结果我的堂弟在想她丰满动人的奶子。",
+            "desc": ""
+        },
+        {
+            "hash": 1234091068,
+            "original": "~z~If you say so.",
+            "translated": "~z~你说是就是吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1254997678,
+            "original": "~z~Piss off! I can hold the drink. I am a warrior.",
+            "translated": "~z~放屁！我超能喝。我是个战士。",
+            "desc": ""
+        },
+        {
+            "hash": 1268236366,
+            "original": "~z~Fuck you! You can't take me. I'm a maniac.",
+            "translated": "~z~去你妈的！你可不能带走我。我是个狂人。",
+            "desc": ""
+        },
+        {
+            "hash": 1293214290,
+            "original": "FCR3_DRUNK3_JL",
+            "translated": "FCR3_DRUNK3_JL",
+            "desc": ""
+        },
+        {
+            "hash": 1307391489,
+            "original": "FCR3_DRUNK5_SI",
+            "translated": "FCR3_DRUNK5_SI",
+            "desc": ""
+        },
+        {
+            "hash": 1321027283,
+            "original": "~z~Have you been balling Mallorie, cousin? How could you? She's the love of my life.",
+            "translated": "~z~你是不是睡过Mallorie，堂弟？你怎么能这样？她是我的一生挚爱。",
+            "desc": ""
+        },
+        {
+            "hash": 1428310590,
+            "original": "FCR3_DRUNK5_SA",
+            "translated": "FCR3_DRUNK5_SA",
+            "desc": ""
+        },
+        {
+            "hash": 1432572292,
+            "original": "FCR3_DRUNK5_SC",
+            "translated": "FCR3_DRUNK5_SC",
+            "desc": ""
+        },
+        {
+            "hash": 1443577358,
+            "original": "FCR3_DRUNK1_HM",
+            "translated": "FCR3_DRUNK1_HM",
+            "desc": ""
+        },
+        {
+            "hash": 1454096855,
+            "original": "~z~Wonderful dollars to collect from stupid chumps who can't pick a winner from loser,",
+            "translated": "~z~一大票美刀等着我拿，从那些分不清谁赢谁输的白痴手里，",
+            "desc": ""
+        },
+        {
+            "hash": 1459535761,
+            "original": "FCR3_DRUNK3_JF",
+            "translated": "FCR3_DRUNK3_JF",
+            "desc": ""
+        },
+        {
+            "hash": 1460857751,
+            "original": "FCR3_DRUNK4_DA",
+            "translated": "FCR3_DRUNK4_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1461699132,
+            "original": "~z~I am... listen, man... I'm seeing funny. I think I got spiked.",
+            "translated": "~z~真的...听着老弟...我看见了幻觉，我觉得我被下药了。",
+            "desc": ""
+        },
+        {
+            "hash": 1470596081,
+            "original": "FCR3_DRUNK1_HF",
+            "translated": "FCR3_DRUNK1_HF",
+            "desc": ""
+        },
+        {
+            "hash": 1471081707,
+            "original": "FCR3_DRUNK4_DB",
+            "translated": "FCR3_DRUNK4_DB",
+            "desc": ""
+        },
+        {
+            "hash": 1475199959,
+            "original": "FCR3_DRUNK3_JE",
+            "translated": "FCR3_DRUNK3_JE",
+            "desc": ""
+        },
+        {
+            "hash": 1549832446,
+            "original": "FCR3_DRUNK2_IJ",
+            "translated": "FCR3_DRUNK2_IJ",
+            "desc": ""
+        },
+        {
+            "hash": 1551557198,
+            "original": "~z~What about Mallorie's titties? Don't you like them?",
+            "translated": "~z~那Mallorie的奶子呢？你不喜欢了？",
+            "desc": ""
+        },
+        {
+            "hash": 1566642870,
+            "original": "~z~Always the pessimist, cousin.",
+            "translated": "~z~永远都那么悲观，堂弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1599170497,
+            "original": "~z~I did - she said you were like a wild animal... like a wild pig.",
+            "translated": "~z~我问过。她说你就像是头狂野的禽兽...像一头野猪。",
+            "desc": ""
+        },
+        {
+            "hash": 1671618537,
+            "original": "FCR3_DRUNK3_JI",
+            "translated": "FCR3_DRUNK3_JI",
+            "desc": ""
+        },
+        {
+            "hash": 1691453572,
+            "original": "FCR3_DRUNK4_DK",
+            "translated": "FCR3_DRUNK4_DK",
+            "desc": ""
+        },
+        {
+            "hash": 1767532209,
+            "original": "~z~Sure.",
+            "translated": "~z~确实。",
+            "desc": ""
+        },
+        {
+            "hash": 1781393627,
+            "original": "~z~a bad hand from a good one.",
+            "translated": "~z~从那些看不出手牌好坏的傻逼那里。",
+            "desc": ""
+        },
+        {
+            "hash": 1857419673,
+            "original": "FCR3_DRUNK5_SH",
+            "translated": "FCR3_DRUNK5_SH",
+            "desc": ""
+        },
+        {
+            "hash": 1864087083,
+            "original": "~z~I would bet against you in this state.",
+            "translated": "~z~在这种情况下就会跟你反着押。",
+            "desc": ""
+        },
+        {
+            "hash": 1869957077,
+            "original": "100010100100100100010100100100100100100100010100",
+            "translated": "100010100100100100010100100100100100100100010100",
+            "desc": ""
+        },
+        {
+            "hash": 1879345509,
+            "original": "~z~Did you see those titties in there?",
+            "translated": "~z~你看见店里的那些奶子了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1879662465,
+            "original": "~z~Fuck you. Fuck you, Niko Bellic. He was looking at me like he wanted to fight.",
+            "translated": "~z~去你妈的。去你妈的，Niko Bellic。他看我的时候一副想打架的样子。",
+            "desc": ""
+        },
+        {
+            "hash": 1926297238,
+            "original": "FCR3_DRUNK3_JN",
+            "translated": "FCR3_DRUNK3_JN",
+            "desc": ""
+        },
+        {
+            "hash": 1956529964,
+            "original": "FCR3_DRUNK2_IF",
+            "translated": "FCR3_DRUNK2_IF",
+            "desc": ""
+        },
+        {
+            "hash": 2005094450,
+            "original": "FCR3_DRUNK2_II",
+            "translated": "FCR3_DRUNK2_II",
+            "desc": ""
+        },
+        {
+            "hash": 2035315215,
+            "original": "~z~Like he thought I was a nobody. I'm a somebody.",
+            "translated": "~z~就像是没把我放在眼里。我可是大人物。",
+            "desc": ""
+        },
+        {
+            "hash": 2079183099,
+            "original": "FCR3_DRUNK2_IB",
+            "translated": "FCR3_DRUNK2_IB",
+            "desc": ""
+        },
+        {
+            "hash": 2131169513,
+            "original": "FCR3_DRUNK3_JH",
+            "translated": "FCR3_DRUNK3_JH",
+            "desc": ""
+        },
+        {
+            "hash": 2218155648,
+            "original": "FCR3_DRUNK1_HL",
+            "translated": "FCR3_DRUNK1_HL",
+            "desc": ""
+        },
+        {
+            "hash": 2242128707,
+            "original": "FCR3_DRUNK4_DJ",
+            "translated": "FCR3_DRUNK4_DJ",
+            "desc": ""
+        },
+        {
+            "hash": 2313090979,
+            "original": "FCR3_DRUNK1_HG",
+            "translated": "FCR3_DRUNK1_HG",
+            "desc": ""
+        },
+        {
+            "hash": 2342262438,
+            "original": "~z~You see the way that man was looking at me? Did you see him?",
+            "translated": "~z~你看见刚才那人看我的样子了吗？看见了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2459893913,
+            "original": "FCR3_DRUNK2_IH",
+            "translated": "FCR3_DRUNK2_IH",
+            "desc": ""
+        },
+        {
+            "hash": 2504414122,
+            "original": "~z~As usual, one smell of the alehouse and Roman Bellic is about to vomit!",
+            "translated": "~z~一如既往，闻到一点酒馆的气味，Roman Bellic就要吐了！",
+            "desc": ""
+        },
+        {
+            "hash": 2517304172,
+            "original": "FCR3_DRUNK3_JA",
+            "translated": "FCR3_DRUNK3_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2518678758,
+            "original": "FCR3_DRUNK3_JC",
+            "translated": "FCR3_DRUNK3_JC",
+            "desc": ""
+        },
+        {
+            "hash": 2526774362,
+            "original": "FCR3_DRUNK2_ID",
+            "translated": "FCR3_DRUNK2_ID",
+            "desc": ""
+        },
+        {
+            "hash": 2585135587,
+            "original": "FCR3_DRUNK2_IC",
+            "translated": "FCR3_DRUNK2_IC",
+            "desc": ""
+        },
+        {
+            "hash": 2702622987,
+            "original": "~z~Since you have got to Liberty City I have shared everything with you, everything.",
+            "translated": "~z~自从你来到自由城，我什么都跟你分享了，我的一切。",
+            "desc": ""
+        },
+        {
+            "hash": 2736922552,
+            "original": "FCR3_DRUNK2_IM",
+            "translated": "FCR3_DRUNK2_IM",
+            "desc": ""
+        },
+        {
+            "hash": 2777372854,
+            "original": "FCR3_DRUNK3_JM",
+            "translated": "FCR3_DRUNK3_JM",
+            "desc": ""
+        },
+        {
+            "hash": 2801683818,
+            "original": "~z~An ex-boyfriend?",
+            "translated": "~z~你前男友？",
+            "desc": ""
+        },
+        {
+            "hash": 2807953369,
+            "original": "~z~You don't say?",
+            "translated": "~z~不是吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2862609868,
+            "original": "FCR3_DRUNK5_SE",
+            "translated": "FCR3_DRUNK5_SE",
+            "desc": ""
+        },
+        {
+            "hash": 2890733882,
+            "original": "FCR3_DRUNK4_DC",
+            "translated": "FCR3_DRUNK4_DC",
+            "desc": ""
+        },
+        {
+            "hash": 2926720820,
+            "original": "FCR3_DRUNK2_IL",
+            "translated": "FCR3_DRUNK2_IL",
+            "desc": ""
+        },
+        {
+            "hash": 2972869074,
+            "original": "~z~I didn't know that.",
+            "translated": "~z~这我倒不知道。",
+            "desc": ""
+        },
+        {
+            "hash": 3000591504,
+            "original": "~z~But I won't share that, no I won't share that. I love you, Niko.",
+            "translated": "~z~但她我绝对不会分享，不，不分享的。我爱你，Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3024063683,
+            "original": "100010010100100010100010100100010",
+            "translated": "100010010100100010100010100100010",
+            "desc": ""
+        },
+        {
+            "hash": 3107474019,
+            "original": "~z~I'll see something.",
+            "translated": "~z~我等着瞧你的花样。",
+            "desc": ""
+        },
+        {
+            "hash": 3126560950,
+            "original": "~z~And secondly, cousin and friend, fuck you.",
+            "translated": "~z~其次，堂弟兼朋友，去你大爷。",
+            "desc": ""
+        },
+        {
+            "hash": 3187183375,
+            "original": "FCR3_DRUNK1_HJ",
+            "translated": "FCR3_DRUNK1_HJ",
+            "desc": ""
+        },
+        {
+            "hash": 3200321729,
+            "original": "FCR3_DRUNK3_JO",
+            "translated": "FCR3_DRUNK3_JO",
+            "desc": ""
+        },
+        {
+            "hash": 3211924322,
+            "original": "~z~Are you throwing up, Roman?",
+            "translated": "~z~你是要吐了吗，Roman？",
+            "desc": ""
+        },
+        {
+            "hash": 3256354595,
+            "original": "FCR3_DRUNK3_JJ",
+            "translated": "FCR3_DRUNK3_JJ",
+            "desc": ""
+        },
+        {
+            "hash": 3261858885,
+            "original": "~z~Stick with me, cousin, and you'll learn a lot.",
+            "translated": "~z~跟着我混，堂弟，你就能学到很多。",
+            "desc": ""
+        },
+        {
+            "hash": 3294944459,
+            "original": "FCR3_DRUNK3_JB",
+            "translated": "FCR3_DRUNK3_JB",
+            "desc": ""
+        },
+        {
+            "hash": 3347560558,
+            "original": "~z~You make me sick cousin, sick to the bone.",
+            "translated": "~z~你恶心到我了，堂弟，恶心到骨子里了。",
+            "desc": ""
+        },
+        {
+            "hash": 3351350880,
+            "original": "~z~I'll be on fighting form again tomorrow morning.",
+            "translated": "~z~明天一早我就又进入战斗状态了。",
+            "desc": ""
+        },
+        {
+            "hash": 3351982186,
+            "original": "FCR3_DRUNK5_SF",
+            "translated": "FCR3_DRUNK5_SF",
+            "desc": ""
+        },
+        {
+            "hash": 3367367452,
+            "original": "FCR3_DRUNK1_HI",
+            "translated": "FCR3_DRUNK1_HI",
+            "desc": ""
+        },
+        {
+            "hash": 3380009241,
+            "original": "FCR3_DRUNK4_DG",
+            "translated": "FCR3_DRUNK4_DG",
+            "desc": ""
+        },
+        {
+            "hash": 3402069663,
+            "original": "FCR3_DRUNK1_HE",
+            "translated": "FCR3_DRUNK1_HE",
+            "desc": ""
+        },
+        {
+            "hash": 3414028014,
+            "original": "~z~Always hating on me. You will see. You will see.",
+            "translated": "~z~总是看不起我。你等着瞧吧，等着瞧吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3560687687,
+            "original": "~z~Who would want your kidneys or liver? They must all be shot through by now.",
+            "translated": "~z~谁想要你的肾和肝啊？早被枪打穿了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3566239858,
+            "original": "~z~Tastes like fucking piss. Everyone loves an imported and classy beverage.",
+            "translated": "~z~口感跟他妈尿一样。所有人都喜欢进口的上等酒水。",
+            "desc": ""
+        },
+        {
+            "hash": 3570351644,
+            "original": "~z~I'll throw up on you if you give me any more lip, NB.",
+            "translated": "~z~你再多嘴，我就吐你身上，NB。",
+            "desc": ""
+        },
+        {
+            "hash": 3604049618,
+            "original": "FCR3_DRUNK4_DI",
+            "translated": "FCR3_DRUNK4_DI",
+            "desc": ""
+        },
+        {
+            "hash": 3613470111,
+            "original": "~z~Lucky Mallorie.",
+            "translated": "~z~Mallorie真走运。",
+            "desc": ""
+        },
+        {
+            "hash": 3703126239,
+            "original": "~z~So what if I moved here. Everyone except the Native Americans are immigrants to this country",
+            "translated": "~z~我是移民过来的怎么了。除了美洲土著，这个国家的所有人都是移民，",
+            "desc": ""
+        },
+        {
+            "hash": 3723157001,
+            "original": "FCR3_DRUNK5_SG",
+            "translated": "FCR3_DRUNK5_SG",
+            "desc": ""
+        },
+        {
+            "hash": 3746752450,
+            "original": "~z~I'm drunk, cousin.",
+            "translated": "~z~我醉了，堂弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3767529051,
+            "original": "FCR3_DRUNK5_SD",
+            "translated": "FCR3_DRUNK5_SD",
+            "desc": ""
+        },
+        {
+            "hash": 3816065448,
+            "original": "FCR3_DRUNK4_DD",
+            "translated": "FCR3_DRUNK4_DD",
+            "desc": ""
+        },
+        {
+            "hash": 3869713567,
+            "original": "~z~If I knew where he lived I'd go there and seduce his wife.",
+            "translated": "~z~要是我知道他住哪儿，我就去把他绿了。",
+            "desc": ""
+        },
+        {
+            "hash": 3872794674,
+            "original": "FCR3_DRUNK2_IG",
+            "translated": "FCR3_DRUNK2_IG",
+            "desc": ""
+        },
+        {
+            "hash": 3893194730,
+            "original": "~z~Fuck you, I'm an alpha male. I'm at the top of the tree...",
+            "translated": "~z~去你妈的，我是一流男性...我站在树顶上...",
+            "desc": ""
+        },
+        {
+            "hash": 3923896258,
+            "original": "~z~And thirdly, people also do it if they want to steal your kidneys or your liver.",
+            "translated": "~z~再者，想偷你的肾和肝的人也会这么做。",
+            "desc": ""
+        },
+        {
+            "hash": 3929237732,
+            "original": "~z~We need to get home, quick.",
+            "translated": "~z~我们要回家了，快点。",
+            "desc": ""
+        },
+        {
+            "hash": 3935021900,
+            "original": "FCR3_DRUNK3_JD",
+            "translated": "FCR3_DRUNK3_JD",
+            "desc": ""
+        },
+        {
+            "hash": 3946949540,
+            "original": "FCR3_DRUNK3_JG",
+            "translated": "FCR3_DRUNK3_JG",
+            "desc": ""
+        },
+        {
+            "hash": 4028096412,
+            "original": "~z~and even they were meant to have walked here from Russia when the sea was frozen over.",
+            "translated": "~z~就连土著都得等到海面结冰才能从俄罗斯走过来。",
+            "desc": ""
+        },
+        {
+            "hash": 4044946786,
+            "original": "FCR3_DRUNK5_SJ",
+            "translated": "FCR3_DRUNK5_SJ",
+            "desc": ""
+        },
+        {
+            "hash": 4067495484,
+            "original": "~z~I could have covered them with butter and syrup and had them for breakfast.",
+            "translated": "~z~我可以给它涂上黄油和糖浆，拿来当早餐吃。",
+            "desc": ""
+        },
+        {
+            "hash": 4088686153,
+            "original": "~z~I know you do, Roman.",
+            "translated": "~z~我知道你爱我，Roman。",
+            "desc": ""
+        },
+        {
+            "hash": 4099106687,
+            "original": "FCR3_DRUNK1_HA",
+            "translated": "FCR3_DRUNK1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 4112236818,
+            "original": "FCR3_DRUNK2_IK",
+            "translated": "FCR3_DRUNK2_IK",
+            "desc": ""
+        },
+        {
+            "hash": 4118149781,
+            "original": "FCR3_DRUNK1_HK",
+            "translated": "FCR3_DRUNK1_HK",
+            "desc": ""
+        },
+        {
+            "hash": 4165980843,
+            "original": "FCR3_DRUNK1_HB",
+            "translated": "FCR3_DRUNK1_HB",
+            "desc": ""
+        },
+        {
+            "hash": 4166094962,
+            "original": "~z~Like a fairy.",
+            "translated": "~z~就像一只妖精。",
+            "desc": ""
+        },
+        {
+            "hash": 4251362343,
+            "original": "~z~Just because I might not be able to perform right now doesn't mean you should step into the ring for me.",
+            "translated": "~z~我现在状态不太行，不代表你就该替我上场。",
+            "desc": ""
+        },
+        {
+            "hash": 4282622950,
+            "original": "FCR3_DRUNK5_SB",
+            "translated": "FCR3_DRUNK5_SB",
+            "desc": ""
+        },
+        {
+            "hash": 4289139284,
+            "original": "100100010100100100010100100100010100100010",
+            "translated": "100100010100100100010100100100010100100010",
+            "desc": ""
+        }
+    ]
+}
